@@ -390,7 +390,7 @@ def main(argv=None) -> int:
     order = sorted(range(len(rows)), key=lambda i: (-int(rows[i]["parades_marched"] or 0),
                                                     -int(rows[i]["last_appearance"] or 0)))
     targets = order if a.all else order[: a.limit]
-    print(f"[nces] loading Common Core of Data ...")
+    print("[nces] loading Common Core of Data ...")
     nces = load_nces()
     print(f"[nces] {len(nces)} open high/secondary schools loaded")
 
