@@ -178,14 +178,15 @@ page title. It has unit tests but no real-page fixture yet.
 1. **Macy's, Chicago, Rose press releases have zero rows** until someone saves
    the pages from a normal browser into the exact `data/raw/<host>/<sha1>.html`
    paths that `make scrape` prints. This is the highest-value manual step.
-2. **43 stateless rows** (Hollywood, news) cannot be NCES-matched and score
-   geography at the floor. The search fallback (2026-09-10) resolved only 2 of 45
-   by exact national NCES name; the rest are nicknames ("Pride of Portage") or
-   names that exist in several states ("Liberty High School"), which no search
-   result can place without guessing.
-3. **Websites: 63 of 138 missing ones filled** by `scripts/search_fallback.py`
-   (58 Google knowledge panels, 3 organic school-domain results, 2 NCES); 70
-   found nothing (mostly nickname rows), 3 were refused as ambiguous. A further
+2. **36 stateless rows** (Hollywood, news) cannot be NCES-matched and score
+   geography at the floor. The search fallback (2026-09-10) placed 9 of 45: 2 by
+   exact national NCES name, 7 by a Google knowledge panel confirmed by the one
+   NCES school of that name nationwide. The rest are nicknames ("Pride of
+   Portage") or names that exist in several states ("Liberty", "Milton",
+   "Westlake"), which no search result can place without guessing.
+3. **Websites: 57 of 138 missing ones filled** by `scripts/search_fallback.py`
+   (52 Google knowledge panels, 3 organic school-domain results, 2 NCES); 70
+   found nothing (mostly nickname rows), 9 were refused as ambiguous. A further
    20 school sites blocked the crawler.
 4. **Contacts are sparse** (1 email and 3 names across all 208). Partly the strict rule,
    partly staff directories that do not label "band director" next to the
@@ -245,7 +246,7 @@ fill the Macy's, Fandom, and Chicago caches without any code change.
    stronger travel signal.)
 2. Approve `pypdf`; parse BOA regional finals recaps (`scrapers/boa.py`
    already records the PDF URLs in `pdf_only_events`).
-3. Done (2026-09-10): `scripts/search_fallback.py` filled 63 websites through
+3. Done (2026-09-10): `scripts/search_fallback.py` filled 57 websites through
    SerpAPI; see §7 items 2–3 for what it could not place. Re-run it after any
    scrape that adds rows (`python scripts/search_fallback.py`; cached searches
    are free, new ones cost quota).

@@ -84,3 +84,11 @@ def test_booster_org_name_is_captured():
     f = _run(html)
     assert "Band Boosters" in f["booster_org"]
     assert f["director_email"] == ""  # a boosters address is not a director address
+
+
+def test_menu_text_around_band_boosters_is_not_an_organisation():
+    html = ("<nav>Our Band Program Directors and Staff Student Leadership Band Boosters Our Bands "
+            "MIHS IMS Beginning</nav><p>Color Guard Director Click here to view the Band Booster website</p>")
+    assert _run(html)["booster_org"] == ""
+    html = "<p>Proudly supported by the Lassiter Band Booster Association since 1981.</p>"
+    assert _run(html)["booster_org"] == "Lassiter Band Booster Association"

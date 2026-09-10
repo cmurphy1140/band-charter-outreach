@@ -85,6 +85,20 @@ def test_same_named_schools_in_a_state_block_a_pick_without_a_city():
     assert sf._same_city("Laporte", "La Porte") and sf._same_city("Niceville High School", "Niceville")
 
 
+def test_stateless_row_is_placed_only_by_a_nationally_unique_nces_name():
+    import pandas as pd
+    nces = pd.DataFrame([
+        {"state": "WI", "key": "milton high", "level": "High"},
+        {"state": "GA", "key": "milton high", "level": "High"},
+        {"state": "NC", "key": "southeast raleigh magnet high", "level": "High"},
+    ])
+    panel = {"website": "x", "city": "Milton", "state": "WI", "via": "knowledge_graph"}
+    assert "WI" in sf.placement({"school": "Milton High School"}, panel, nces)     # two states: refused
+    raleigh = {"website": "x", "city": "Raleigh", "state": "NC", "via": "knowledge_graph"}
+    assert sf.placement({"school": "Southeast Raleigh High School"}, raleigh, nces) == ""
+    assert "unknown to NCES" in sf.placement({"school": "Sonata Music School"}, raleigh, nces)
+
+
 def test_name_matching_tolerates_magnet_and_hs_variants():
     assert sf.name_matches("Southeast Raleigh Magnet High School", "Southeast Raleigh High School")
     assert sf.name_matches("Dobyns-Bennett HS", "Dobyns-Bennett High School")

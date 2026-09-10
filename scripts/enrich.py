@@ -75,6 +75,12 @@ BAND_DIRECTOR_LABEL = re.compile(
     re.I,
 )
 SOCIAL = re.compile(r"https?://(?:www\.)?(facebook|instagram)\.com/[A-Za-z0-9_.\-/]+", re.I)
+BOOSTER_ORG = re.compile(
+    r"\b((?:[A-Z][\w.'&-]*\s+){1,4}Band Boosters?(?:\s+(?:Association|Club|Organization|Inc\.?))?)\b")
+BOOSTER_NOISE = re.compile(
+    r"\b(click|here|view|website|link|visit|page|directors?|staff|season|search|submenu|menu|"
+    r"our|news|program|lesson|marching band band|concert|percussion|guard|athletic|vocal|"
+    r"communications?|leadership|beginning|embedded|president)\b", re.I)
 
 
 # --------------------------------------------------------------------------- NCES
@@ -264,9 +270,13 @@ def _extract_contacts(soup, text: str, url: str, domain: str, found: dict) -> No
         link = m.group(0).rstrip("/")
         if link not in found["social"] and len(found["social"]) < 4:
             found["social"].append(link)
-    bm = re.search(r"([A-Z][A-Za-z.'&\- ]{2,60}?\bBand Boosters?\b[A-Za-z.'&\- ]{0,30})", text)
-    if bm and not found["booster_org"]:
-        found["booster_org"] = bm.group(1).strip(" .,-")
+    # An organisation name: up to four capitalised words, "Band Boosters", an optional
+    # suffix. Menu text ("Marching Band Band Boosters Our Bands") is not a name.
+    for bm in BOOSTER_ORG.finditer(text):
+        org = bm.group(1).strip(" .,-")
+        if not BOOSTER_NOISE.search(org) and not found["booster_org"]:
+            found["booster_org"] = org
+            break
     if found["director_email"]:
         return
     # A band director's name is only taken from an explicit "band director" /

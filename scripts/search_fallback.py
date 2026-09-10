@@ -213,6 +213,32 @@ def same_name_in_state(school: str, state: str, nces) -> int:
     return len(pool)
 
 
+def national_candidates(school: str, nces) -> list[dict]:
+    """NCES schools anywhere whose name contains this school's name as whole words
+    ("Southeast Raleigh Magnet High" contains "Southeast Raleigh")."""
+    if nces is None:
+        return []
+    key = _bare_key(normalize_school(school))
+    if not key:
+        return []
+    pool = nces[nces["key"].map(lambda k: f" {key} " in f" {_bare_key(k)} ")]
+    is_middle = pool["level"].fillna("").str.startswith("Middle")
+    pool = pool[is_middle] if wants_middle(school) else pool[~is_middle]
+    return [r._asdict() for r in pool.itertuples(index=False)]
+
+
+def placement(row: dict, pick: dict, nces) -> str:
+    """For a row with no state: '' when the panel's state is confirmed by the one
+    NCES school of that name nationwide, else the reason it cannot be placed."""
+    cands = national_candidates(row["school"], nces)
+    states = sorted({c["state"] for c in cands})
+    if len(cands) == 1 and cands[0]["state"] == pick.get("state"):
+        return ""
+    if not cands:
+        return "not placed: name unknown to NCES, so the panel's state cannot be confirmed"
+    return f"not placed: '{row['school']}' exists in {', '.join(states)} ({len(cands)} NCES schools)"
+
+
 def _bare_key(key: str) -> str:
     """'salem high' and 'salem' are the same school name (NCES often drops 'School')."""
     return re.sub(r"\s+(high|middle|junior high)$", "", key).strip()
@@ -258,7 +284,7 @@ def resolve_row(row: dict, nces, dry_run: bool = False) -> str:
     payload = serpapi.search("google", q, num=10)
     pick = pick_site(payload, row["school"], row.get("state", ""))
     if pick and pick["via"] != "band_site":
-        why = ambiguity(row, pick, nces)
+        why = ambiguity(row, pick, nces) if row.get("state") else placement(row, pick, nces)
         if why:
             _note(row, f"search: {why}")
             return "ambiguous"
@@ -277,7 +303,7 @@ def resolve_row(row: dict, nces, dry_run: bool = False) -> str:
     if not row.get("state") and pick["state"]:
         row["state"] = pick["state"]
         row["city"] = row.get("city") or pick["city"]
-        _note(row, "search: state from Google knowledge panel")
+        _note(row, "search: state from Google knowledge panel, confirmed by the one NCES school of this name")
         row["notes"] = "; ".join(n for n in row["notes"].split("; ")
                                  if n not in ("nces: skipped (state unknown)", "state unknown: source lists no location"))
         if nces is not None:
