@@ -115,13 +115,14 @@ It is read-only: no exports, no emails.
 ## Phase status
 
 - [x] Phase 0 repo setup
-- [x] Phase 1 discovery scrape (208 schools from Rose/Wikipedia, Philadelphia/Wikipedia,
-      Hollywood, H-E-B Houston, BOA Grand National finalists 2018–2025; Macy's, Rose
-      press releases, Chicago blocked; July 4th publishes no lineup; BOA regional
-      results are PDF-only and not parsed)
-- [x] Phase 2 enrichment, top 100 by parades_marched (NCES 2023-24 directory +
-      membership totals; school-site crawl; contacts only when labelled band
-      director on a school-domain address). `--all` not yet run: review first.
+- [x] Phase 1 discovery scrape (214 schools from Rose/Wikipedia, Philadelphia/Wikipedia,
+      Hollywood, H-E-B Houston, BOA Grand National finalists 2018–2025, and SerpAPI
+      news headlines; Macy's official pages, Rose press releases, Chicago blocked;
+      July 4th publishes no lineup; BOA regional results are PDF-only and not parsed)
+- [x] Phase 2 enrichment, all rows (NCES 2023-24 directory + membership totals;
+      school-site crawl; contacts only when labelled band director on a
+      school-domain address): 133 with district and enrollment, 22 band pages,
+      3 director names, 1 director email.
 - [x] Phase 3 scoring and tiers (`scripts/score.py`, config dicts at the top)
 - [x] Phase 4 outputs (`data/final/prospects.xlsx`, `SUMMARY.md`; `--gsheet` lazy)
 - [x] Phase 5 seasonal maintenance (`make refresh`, `workflows/refresh.yml`)

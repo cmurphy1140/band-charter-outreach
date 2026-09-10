@@ -126,11 +126,10 @@ def write_summary(rows: list[dict]) -> None:
 
 def push_gsheet(rows: list[dict], service_account_json: str, title: str) -> str:
     try:
-        import gspread  # noqa: F401
+        import gspread
     except ImportError:
         sys.exit("gspread is not installed. It is not in requirements.txt by design; "
                  "install it in the venv (pip install gspread) once a service account is provided.")
-    import gspread
     gc = gspread.service_account(filename=service_account_json)
     sh = gc.create(title)
     ws = sh.sheet1

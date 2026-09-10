@@ -9,7 +9,6 @@ from __future__ import annotations
 
 import argparse
 import csv
-import datetime as dt
 import sys
 from pathlib import Path
 

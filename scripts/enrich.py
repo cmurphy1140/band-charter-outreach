@@ -406,7 +406,7 @@ def main(argv=None) -> int:
         crawled = re.compile(r"no band page found|site crawl blocked")
         targets = [i for i in targets if rows[i].get("school_url") and not rows[i].get("band_url")
                    and not crawled.search(rows[i].get("notes") or "")]
-    print(f"[nces] loading Common Core of Data ...")
+    print("[nces] loading Common Core of Data ...")
     nces = load_nces()
     print(f"[nces] {len(nces)} open high/secondary schools loaded")
 
