@@ -29,6 +29,34 @@ Some sources block datacenter traffic (Macy's, the Macy's fan wiki, Tournament o
 Roses, Chicago). Their scrapers run against pages saved manually into `data/raw/`;
 `make scrape` prints exactly which paths to fill.
 
+## Pipeline
+
+1. **Discovery** (`scripts/run_all.py`): one scraper per source writes
+   `data/interim/<source>.csv`; the merge normalizes school names, drops colleges,
+   drum corps, all-star/honor, military, community, middle-school, and non-US
+   groups into `data/interim/excluded.csv`, dedupes by (school, state), and builds
+   `data/final/prospects.csv` with parade history, `parades_marched`, and
+   `last_appearance`.
+2. **Enrichment** (`scripts/enrich.py`): NCES Common Core of Data (cached zips under
+   `data/raw/nces/`) supplies district, enrollment, and school website; the school
+   site is crawled (max 20 pages) for the band page, booster club, and a director
+   contact that is explicitly labelled as band director on a school-domain address.
+   Low-confidence NCES matches are noted, not filled. Default is the top 100 by
+   `parades_marched`; pass `--all` for everything.
+3. **Scoring** (`scripts/score.py`): 0–100 from parades marched (30), recency (20),
+   BOA finalist years (15), travel signal (15), geography (20, configurable per
+   target parade), plus 5 for a published director email. Tier A = top 50, B = next
+   100, C = rest; `data/final/tier_a.csv` is written alongside.
+4. **Exports** (`scripts/export.py`): `data/final/prospects.xlsx` (Tier A, Tier B,
+   All; frozen header, filters, one parade per line) and `data/final/SUMMARY.md`
+   (counts by state and parade, top 25, schools with no contact found).
+   `--gsheet service_account.json` pushes Tier A to a new Google Sheet via gspread
+   (not installed by default).
+5. **Refresh** (`make refresh`, `.github/workflows/refresh.yml`): re-scrapes only
+   the current and next parade year, merges, prints a diff, appends to
+   `data/final/CHANGELOG.md`, and opens a draft PR on the 15th of March, October,
+   and November.
+
 ## Stack
 
 Python 3.11, requests, beautifulsoup4, lxml, pandas, openpyxl, pytest.
