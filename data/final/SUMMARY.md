@@ -176,17 +176,17 @@ booster site. These schools need a manual lookup:
 | Downingtown High School | PA | B |  |  |
 | Keller High School | TX | B | http://www.kellerisd.net | http://www.kellerisd.net/students-families/fine-arts/band |
 | Klein Forest Golden Eagle Marching Band | TX | B |  |  |
-| Lassiter High School | GA | B |  |  |
+| Lassiter High School | GA | B | http://www.cobbk12.org/lassiter | http://www.cobbk12.org/lassiter/band |
 | Milby High School | TX | B | http://www.houstonisd.org | http://www.houstonisd.org/schools-academics/extracurricular-activities-uil/uil-music |
-| Munford High School | TN | B |  |  |
+| Munford High School | TN | B | http://www.tipton-county.com/mhs |  |
 | Norwalk High School | ? | B |  |  |
-| Ooltewah High School | TN | B |  |  |
+| Ooltewah High School | TN | B | http://ohs.hcde.org/ |  |
 | Pearland High School | TX | B | http://www.pearlandisd.org/pearlandhs |  |
 | Shawnee Mission West Band | ? | B |  |  |
 | Stephen F. Austin Sonic Boom Marching Band | TX | B |  |  |
 | Stratford High School | TX | B | http://ssh.springbranchisd.com | http://ssh.springbranchisd.com |
 | The Waukee Warrior Regiment | IA | B | http://waukeehigh.waukeeschools.org/ | https://www.waukeeschools.org/experiences/performing-arts/ |
-| Walton High School | GA | B |  |  |
+| Walton High School | GA | B | http://www.waltonhigh.org |  |
 | Waltrip High School | TX | B | http://www.houstonisd.org | http://www.houstonisd.org/schools-academics/extracurricular-activities-uil/uil-music |
 | Westbury High School | TX | B | http://www.houstonisd.org | http://www.houstonisd.org/schools-academics/extracurricular-activities-uil/uil-music |
 | Greenwood Marching Woodmen & Irish Guard – Greenwood, Indiana | ? | B |  |  |
@@ -195,7 +195,7 @@ booster site. These schools need a manual lookup:
 | Robert E. Lee High School | TX | B |  |  |
 | Southlake Carroll High School | TX | B |  |  |
 | The Pride of Pearland Marching Band | TX | B |  |  |
-| West Harrison High School | MS | B |  |  |
+| West Harrison High School | MS | B | http://www.harrison.k12.ms.us/home/westharrisonhigh.aspx |  |
 | Westlake High School | TX | B |  |  |
 | Homestead High School | IN | B |  |  |
 | Aguiluchos Marching Band | ? | B |  |  |
@@ -203,25 +203,25 @@ booster site. These schools need a manual lookup:
 | Alhambra Unified School | CA | B |  |  |
 | Baldwinsville Central School | NY | B |  |  |
 | Banda Escolar de Guayanilla Puerto Rico | PR | B |  |  |
-| Braden River High School | FL | B |  |  |
+| Braden River High School | FL | B | http://www.manateeschools.net/bradenriver | http://www.manateeschools.net/bradenriver |
 | Carrollton High School | ? | B |  |  |
 | Crestview High School | FL | B |  |  |
-| Cypress High School | CA | B |  |  |
+| Cypress High School | CA | B | http://cypress.auhsd.us |  |
 | East Coweta High School | ? | B |  |  |
 | Etiwanda High School | CA | B |  |  |
 | Foothill High School | NV | B |  |  |
-| Franklin Regional High School | PA | B |  |  |
+| Franklin Regional High School | PA | B | http://highschool.frsdk12.org/ |  |
 | Grove City High School | OH | B |  |  |
-| Gulf Coast High School | FL | B |  |  |
+| Gulf Coast High School | FL | B | http://www.collierschools.com/gch |  |
 | Habersham Central High School | ? | B |  |  |
-| Henry J. Kaiser High School | CA | B |  |  |
+| Henry J. Kaiser High School | CA | B | http://www.fusd.net |  |
 | Kamehameha Schools Kapalama Warrior Marching Band & Color Guard | HI | B |  |  |
 | Lakota West High School | OH | B |  |  |
 | Legacy High School | CO | B |  |  |
 | Liberty High School | ? | B |  |  |
-| Lindbergh High School | MO | B |  |  |
-| Londonderry High School | NH | B |  |  |
-| Louisburg High School | KS | B |  |  |
+| Lindbergh High School | MO | B | http://go.lindberghschools.ws/Domain/8 |  |
+| Londonderry High School | NH | B | http://www.londonderry.org/lhs |  |
+| Louisburg High School | KS | B | http://www.usd416.org |  |
 | Lyman High School | ? | B |  |  |
 | Marching Pride of Lawrence Township | IN | B |  |  |
 | Maui High School | HI | B |  |  |
@@ -234,43 +234,43 @@ booster site. These schools need a manual lookup:
 | Porterville Panther Band | ? | B |  |  |
 | Punahou School | HI | B |  |  |
 | Salem High School | VA | B |  |  |
-| Saratoga High School | CA | B |  |  |
+| Saratoga High School | CA | B | http://www.saratogahigh.org | https://www.saratogamusicboosters.org/ |
 | Summit High School | ? | B |  |  |
 | Temple City High School | CA | B |  |  |
 | The Pride of Owasso | OK | B |  |  |
-| Westlake High School | UT | B |  |  |
+| Westlake High School | UT | B | http://westlake.alpinedistrict.org/ |  |
 | A.I. DuPont High School | DE | B |  |  |
-| Bainbridge High School | GA | B |  |  |
-| Brooks High School | AL | B |  |  |
+| Bainbridge High School | GA | B | http://bhs.boe.dcboe.com/ |  |
+| Brooks High School | AL | B | http://www.lcschools.org |  |
 | Brunswick Marching Pirates | GA | C |  |  |
 | Clearview Regional High School | NJ | C | http://hs.clearviewregional.edu |  |
-| Colquitt County High School | GA | C |  |  |
+| Colquitt County High School | GA | C | http://colquitt.k12.ga.us/cchs/ |  |
 | Decatur Central High School | ? | C |  |  |
-| Guntersville High School | AL | C |  |  |
-| Huntsville High School | AL | C |  |  |
+| Guntersville High School | AL | C | http://www.guntersville-high.com |  |
+| Huntsville High School | AL | C | http://www.huntsvillecityschools.org |  |
 | Jasper High School | IN | C |  |  |
 | Kingsway Regional High School | NJ | C | http://www.krsd.org |  |
-| Lowndes High Marching Band | GA | C |  |  |
-| Mary G. Montgomery High School | AL | C |  |  |
+| Lowndes High Marching Band | GA | C | http://lhs.lowndes.k12.ga.us/ |  |
+| Mary G. Montgomery High School | AL | C | http://montgomery.mcs.schoolinsites.com |  |
 | Mount Vernon High School | IN | C |  |  |
 | North Augusta High School | SC | C |  |  |
-| Oneonta High School | AL | C |  |  |
-| Parkland High School | PA | C |  |  |
+| Oneonta High School | AL | C | http://www.oneontacityschools.com |  |
+| Parkland High School | PA | C | http://phs.parklandsd.org/ | http://phs.parklandsd.org/departments/music |
 | Pickens and Fannin Count High School | GA | C |  |  |
 | Pocono Mountain East High School | PA | C |  |  |
 | Reynoldsburg Raider Marching Band | OH | C |  |  |
-| Rome High School | GA | C |  |  |
-| Smiths Station High School | AL | C |  |  |
+| Rome High School | GA | C | http://www.rcs.rome.ga.us |  |
+| Smiths Station High School | AL | C | http://www.lee.k12.al.us |  |
 | Vandegrift High School | TX | C |  |  |
-| Wayne County High School | GA | C |  |  |
+| Wayne County High School | GA | C | http://www.wayne.k12.ga.us |  |
 | White Knoll High School | SC | C |  |  |
 | Whiteland Community High School | IN | C |  |  |
-| Woodland High School | GA | C |  |  |
+| Woodland High School | GA | C | http://www.henry.k12.ga.us/wh |  |
 | Ayala High School | CA | C |  |  |
-| Biloxi High School | MS | C |  |  |
+| Biloxi High School | MS | C | http://www.biloxischools.net |  |
 | Jacket Pride Marching Band | LA | C |  |  |
 | Morgantown High School | WV | C |  |  |
-| Union High School | OK | C |  |  |
+| Union High School | OK | C | http://www.unionps.org/ | http://www.unionps.org/ |
 | A.I. Dupont Tiger Marching Band | DE | C |  |  |
 | Alan B. Shepard Marching Band | IL | C |  |  |
 | Anthony Wayne High School | OH | C |  |  |
@@ -278,22 +278,22 @@ booster site. These schools need a manual lookup:
 | Bellefontaine High School | DE | C |  |  |
 | Ben Davis Marching Giants | ? | C |  |  |
 | Bloomington North High School | IN | C |  |  |
-| Brien McMahon High School | CT | C |  |  |
+| Brien McMahon High School | CT | C | http://bmhs.norwalkps.org | http://bmhs.norwalkps.org/activities/music-department |
 | Defiance High School | DE | C |  |  |
 | Dublin Coffman Band | OH | C |  |  |
 | Dublin Jerome High School | OH | C |  |  |
 | Dublin Scioto Irish Band | OH | C |  |  |
-| Dwight Morrow High School | NJ | C |  |  |
-| Freedom Patriot Band | PA | C |  |  |
+| Dwight Morrow High School | NJ | C | http://dmhs.epsd.org |  |
+| Freedom Patriot Band | PA | C | http://www.beth.k12.pa.us |  |
 | Heights Marching Band | ? | C |  |  |
 | Jackson High School | OH | C |  |  |
-| Jackson Memorial Jaguar Band | NJ | C |  |  |
+| Jackson Memorial Jaguar Band | NJ | C | http://www.jacksonsd.org/Memorial |  |
 | Jonathan Adler High School | OH | C |  |  |
-| Kingsway Regional Marching Band | NJ | C |  |  |
+| Kingsway Regional Marching Band | NJ | C | http://www.krsd.org |  |
 | Lafayette Jefferson High School | IN | C |  |  |
 | Laporte High School | IN | C |  |  |
-| Lenape Regional High School | NJ | C |  |  |
-| Muskego High School | WI | C |  |  |
+| Lenape Regional High School | NJ | C | http://www.lrhsd.org/Domain/119 |  |
+| Muskego High School | WI | C | http://www.muskegonorway.org |  |
 | NorthWood High School | IN | C |  |  |
 | Pearl City High School | HI | C |  |  |
 | Pendleton Heights High School | IN | C |  |  |

@@ -14,6 +14,7 @@ import argparse
 import csv
 import datetime as dt
 import json
+import re
 import sys
 from collections import Counter, defaultdict
 from pathlib import Path
@@ -156,7 +157,13 @@ def merge(rows: list[dict]) -> tuple[list[dict], list[dict]]:
             if it.get("source_url") and it["source_url"] not in sources:
                 sources.append(it["source_url"])
             band = band or it.get("band_name", "")
-            city = city or it.get("city", "")
+            c = it.get("city", "")
+            # A nickname glued to the city ("The Pride of Broken Arrow") is not a city.
+            if c and re.search(r"\b(pride|band|marching|regiment|sound|spirit)\b", c, re.I):
+                if not band:
+                    band = c
+                c = ""
+            city = city or c
         # Prefer the most common display name among merged rows.
         name = Counter(it["school"] for it in items).most_common(1)[0][0]
         ordered = sorted(parades.items(), key=lambda kv: (-kv[1], kv[0]))
