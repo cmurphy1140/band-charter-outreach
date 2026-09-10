@@ -70,7 +70,12 @@ def name_matches(candidate: str, school: str) -> bool:
     a, b = normalize_school(candidate), normalize_school(school)
     if not a or not b:
         return False
-    if a == b or a.startswith(b + " ") or b.startswith(a + " ") or f" {b} " in f" {a} " or f" {a} " in f" {b} ":
+    if a == b:
+        return True
+    # One name may contain the other ("Southeast Raleigh Magnet" / "Southeast Raleigh"),
+    # but a single generic word ("Vista") never stands for a whole name.
+    short, long_ = sorted((a, b), key=len)
+    if len(short.split()) >= 2 and f" {short} " in f" {long_} ":
         return True
     return difflib.SequenceMatcher(None, a, b).ratio() >= NAME_RATIO
 
@@ -120,7 +125,9 @@ def pick_site(payload: dict, school: str, state: str = "") -> dict | None:
         host = _host(link)
         if not host or REJECT_HOSTS.search(host):
             continue
-        own_name = any(w in host.replace("-", "").replace(".", "") for w in words)
+        # The school's own word must start a host label ("southeastraleighhs.wcpss.net"),
+        # not hide inside another word ("ridge" in "cambridge").
+        own_name = any(re.search(rf"(^|[.-]){w}", host) for w in words)
         if not (SCHOOL_HOST.search(host) or own_name):
             continue
         rtitle = (r.get("title") or "").split(" | ")[0].split(" - ")[0].split(" – ")[0]

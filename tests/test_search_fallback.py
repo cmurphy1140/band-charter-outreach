@@ -37,6 +37,13 @@ def test_organic_result_needs_a_school_domain_and_a_matching_title():
         {"title": "Carmel High School Rankings", "link": "https://www.niche.com/k12/carmel-high-school/"},
     ]}
     assert sf.pick_site(wrong, "Carmel High School") is None
+    # "ridge" inside "cambridge" is not the school's name, and "Vista" alone is not the school.
+    junk = {"organic_results": [
+        {"title": "VISTA | English meaning", "link": "https://dictionary.cambridge.org/us/dictionary/english/vista"},
+        {"title": "Vista Ridge High School", "link": "https://vrhs.leanderisd.org/"},
+    ]}
+    pick = sf.pick_site(junk, "Vista Ridge High School", state="TX")
+    assert pick and pick["website"] == "https://vrhs.leanderisd.org/"
 
 
 def test_name_matching_tolerates_magnet_and_hs_variants():

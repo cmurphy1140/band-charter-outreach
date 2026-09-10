@@ -46,13 +46,17 @@ def search(engine: str, query: str, *, force: bool = False, **params) -> dict:
     key = os.environ.get(ENV_KEY, "")
     if not key:
         raise BlockedSource(f"{ENV_KEY} not set")
-    _throttle(HOST)
-    try:
-        resp = requests.get(URL, params={"engine": engine, "q": query, "gl": "us", "hl": "en",
-                                         **params, "api_key": key},
-                            headers={"User-Agent": USER_AGENT}, timeout=TIMEOUT)
-    except requests.RequestException as e:
-        raise BlockedSource(f"SerpAPI request failed: {e}") from e
+    resp = None
+    for attempt in range(2):  # one retry on a timeout/connection error, then give up
+        _throttle(HOST)
+        try:
+            resp = requests.get(URL, params={"engine": engine, "q": query, "gl": "us", "hl": "en",
+                                             **params, "api_key": key},
+                                headers={"User-Agent": USER_AGENT}, timeout=60)
+            break
+        except requests.RequestException as e:
+            if attempt:
+                raise BlockedSource(f"SerpAPI request failed: {e}") from e
     try:
         payload = resp.json()
     except ValueError as e:
