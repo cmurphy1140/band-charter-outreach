@@ -221,8 +221,11 @@ def carry_over(new_rows: list[dict], old_rows: list[dict]) -> list[dict]:
         if not o:
             continue
         for k in keep:
-            if o.get(k) and not (k == "level" and r.get("level")):
-                r[k] = o[k]
+            if not o.get(k):
+                continue
+            if k == "level" and (r.get("level") or (o["level"] == "Middle" and not level_from_name(r["school"], r.get("band_name", "")))):
+                continue  # a level computed from the name wins; a stale "Middle" is dropped
+            r[k] = o[k]
         if o.get("band_name") and not r["band_name"]:
             r["band_name"] = o["band_name"]
         if o.get("city") and not r["city"]:
