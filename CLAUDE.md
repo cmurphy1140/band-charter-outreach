@@ -80,7 +80,7 @@ Interim files use: `school, band_name, city, state, event, year, source_url`.
 | H-E-B Houston | `scrapers/heb.py` | parade site TLS failure; houstontx.gov/thanksgivingparade live |
 | Hollywood Christmas Parade | `scrapers/hollywood.py` | live, per-year pages 2018–2026 |
 | National Independence Day Parade | `scrapers/july4.py` | live homepage; lineup pages to be discovered |
-| Bands of America finalists (musicforall.org) | `scrapers/boa.py` | live homepage, JS-rendered; results pages to be discovered |
+| Bands of America finalists (marching.musicforall.org/result/) | `scrapers/boa.py` | live; Grand National finalists parsed from the HTML "Finals Results" block; regional recaps are PDF-only and are counted, not parsed |
 | NCES Common Core of Data | `scripts/enrich.py` | live; zips cached in `data/raw/nces/` |
 
 To unblock a blocked source: save the page as HTML into the cache path printed by
@@ -101,7 +101,10 @@ October, and November and opens a PR. It is read-only: no exports, no emails.
 ## Phase status
 
 - [x] Phase 0 repo setup
-- [ ] Phase 1 discovery scrape
+- [x] Phase 1 discovery scrape (208 schools from Rose/Wikipedia, Philadelphia/Wikipedia,
+      Hollywood, H-E-B Houston, BOA Grand National finalists 2018–2025; Macy's, Rose
+      press releases, Chicago blocked; July 4th publishes no lineup; BOA regional
+      results are PDF-only and not parsed)
 - [ ] Phase 2 enrichment (NCES, site crawl, published contacts)
 - [ ] Phase 3 scoring and tiers
 - [ ] Phase 4 outputs (xlsx, SUMMARY.md, optional gsheet)

@@ -107,10 +107,19 @@ def _throttle(host: str) -> None:
     _last_hit[host] = time.monotonic()
 
 
+_CHALLENGE_MARKERS = (
+    "sgcaptcha",                 # SiteGround challenge (tournamentofroses.com)
+    "<title>access denied",      # Akamai block page (macys.com)
+    "cf-chl", "cf_chl_opt",      # Cloudflare challenge
+    "<title>just a moment",      # Cloudflare interstitial
+    "<title>attention required",  # Cloudflare block
+)
+
+
 def _looks_like_challenge(text: str) -> bool:
-    head = text[:4000].lower()
-    return ("sgcaptcha" in head or "access denied" in head or "cf-chl" in head
-            or "just a moment" in head or "captcha" in head)
+    """True only for known bot-challenge/block pages; checks the head, not the body text."""
+    head = text[:3000].lower()
+    return len(text) < 20000 and any(m in head for m in _CHALLENGE_MARKERS)
 
 
 def fetch(url: str, *, force: bool = False) -> str:
