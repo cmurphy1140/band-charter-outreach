@@ -1,0 +1,562 @@
+{
+ "search_information": {
+  "query_displayed": "\"Laporte High School\" Indiana",
+  "total_results": 41200,
+  "time_taken_displayed": 0.28,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "LaPorte High School",
+  "type": "Public school in La Porte, Indiana",
+  "entity_type": "local_nav",
+  "kgmid": "/g/11clyt6xpw",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/g/11clyt6xpw&hl=en-US&q=LaPorte+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fg%2F11clyt6xpw&q=LaPorte+High+School",
+  "place_id": "ChIJ_X2SimYSEYgRUBnA_4pLTeU",
+  "website": "https://lphs.lpcsc.k12.in.us/",
+  "description": "LaPorte High School is a public high school located in LaPorte, Indiana. It is a part of the LaPorte Community School Corporation. The school district includes most of LaPorte, as well as Kingsbury and Kingsford Heights.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa30f1f7d6e704306698818/images/8rdW3ZaMqIlgf-qv83flIFWGfhC7ZDy6AOM7ROxCeOc.webp",
+   "link": "https://www.google.com/maps/place/LaPorte+High+School/data=!4m2!3m1!1s0x0:0xe54d4b8affc01950?sa=X&ved=2ahUKEwiE_Lax6eSWAxVXxgIHHeaICBsQ_BJ6BAgYEAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/LaPorte_High_School_(Indiana)"
+  },
+  "address": "602 F St, La Porte, IN 46350",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=laporte+high+school+address&ludocid=16522945668260567376&sa=X&ved=2ahUKEwiE_Lax6eSWAxVXxgIHHeaICBsQ6BN6BAgiEAI"
+   }
+  ],
+  "color": "Orange",
+  "color_links": [
+   {
+    "text": "Orange",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpvmoQBPdF1TuckJTkTxWqwV8AUgPcH3rdTHR2_ZwVEG-OyhAOpDpXBMTUe1ofGFB_CI7OO8cxZjWnNcs7Ezp1vYm8gpayjWF8riRGNgpDryZK1fBhPEjr5a56Rv0oX-GoqTsyrWyS__p3iRcEG5OVk3pzo3p&sa=X&ved=2ahUKEwiE_Lax6eSWAxVXxgIHHeaICBsQmxN6BAgpEAI"
+   }
+  ],
+  "school_type": "State school",
+  "school_type_links": [
+   {
+    "text": "State school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=State+school&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ybGtCxI0H8z2nV80srIO5hjViyillkK5kkfBMbqSqsCGlkwruwTbKGnCaupsYC72jUW_-A7e7_6oxTWDDWROEmm52Vxb0cP4Xkaka03alQZD_uem8qdcjGux85y7Yb_vanS_iGu99AYIqT4E5-9NtF2WRkiQng4ECKOtgqhVMB5v_p_UdQ%3D%3D&sa=X&ved=2ahUKEwiE_Lax6eSWAxVXxgIHHeaICBsQmxN6BAglEAI"
+   }
+  ],
+  "district": "La Porte Community School Corporation",
+  "district_links": [
+   {
+    "text": "La Porte Community School Corporation",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=La+Porte+Community+School+Corporation&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0bnODfGY6Vu5uJqLw3Nugb43fv-JCSSQT0Er0qT2ffV2EB5iUhyuvM_SDkMYbNFePweFS9wEYZuinuO3Jfk4vXDPVtuaYIlNy-dsa5d670pJM6xMJKCnt-UXDmZ6ng_APX6QDVB2lPMVtfY1g76fpf6or6nJmXeQVKVdPI2BYDCKWH0aQ0LOtZBRM3tB2_qZEd9K_P9OCtSJG7yIvs0Ug0LYH3jn&sa=X&ved=2ahUKEwiE_Lax6eSWAxVXxgIHHeaICBsQmxN6BAgmEAI"
+   }
+  ],
+  "phone": "(219) 362-3102",
+  "raw_hours": "Closes soon \u00b7 3 - 30 PM \u00b7 Opens 7 AM Fri",
+  "hours": {
+   "thursday": {
+    "opens": "7\u202fAM",
+    "closes": "3:30\u202fPM"
+   },
+   "friday": {
+    "opens": "7\u202fAM",
+    "closes": "3:30\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "7\u202fAM",
+    "closes": "3:30\u202fPM"
+   },
+   "tuesday": {
+    "opens": "7\u202fAM",
+    "closes": "3:30\u202fPM"
+   },
+   "wednesday": {
+    "opens": "7\u202fAM",
+    "closes": "3:30\u202fPM"
+   }
+  },
+  "unclaimed_listing": true,
+  "people_also_search_for": [
+   {
+    "name": "Merrillville High School",
+    "image": "https://serpapi.com/searches/6aa30f1f7d6e704306698818/images/8rdW3ZaMqIlgf-qv83flIGoNXOe9czatO8H2NgNus0FX8i4XyLxDYCQIY0FWI11S.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW673LSE0cpaFBHVwz3Ku7ncUQLARE9FmscoB52oLgD8iCCKd3PIifPCWEE4tVugXBKpWDCz_OeiuVAfJRHQopPRhO_jIxSXv_-2HCD5qakDeewdQ28t9mSB3NBygFqNwadBA41Xo0EqRf_pDU5aghAfMp2PHl0o4S7_36MtyoONlHAasuoI08lEEx8lxD0NiGfbzxl7DVz6cEFR1AvFyp2LeqTvG-rgQYHT93klhtIJcql0dgQmjcvP4X4ssE6vAToy0KJBjsVbq4VD-I8VQ9kNSZbguvk&q=Merrillville+High+School&sa=X&ved=2ahUKEwiE_Lax6eSWAxVXxgIHHeaICBsQs9oBKAB6BAgfEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Merrillville+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW673LSE0cpaFBHVwz3Ku7ncUQLARE9FmscoB52oLgD8iCCKd3PIifPCWEE4tVugXBKpWDCz_OeiuVAfJRHQopPRhO_jIxSXv_-2HCD5qakDeewdQ28t9mSB3NBygFqNwadBA41Xo0EqRf_pDU5aghAfMp2PHl0o4S7_36MtyoONlHAasuoI08lEEx8lxD0NiGfbzxl7DVz6cEFR1AvFyp2LeqTvG-rgQYHT93klhtIJcql0dgQmjcvP4X4ssE6vAToy0KJBjsVbq4VD-I8VQ9kNSZbguvk"
+   },
+   {
+    "name": "Chesterton High School",
+    "image": "https://serpapi.com/searches/6aa30f1f7d6e704306698818/images/8rdW3ZaMqIlgf-qv83flIGoNXOe9czatO8H2NgNus0HfT0s4UaBhMRTm6ZnpSd4Z.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67wtbhIL--NtWlPdypN99CJ-82HDnBg-Yp1A6ka_aF1zlfcjdakprfbek0dXr4j8AA5uWIi7dn6MezjUG3HzlYo4a-IFZ3zUSmJfhm9b8ltc2OCNuz_zKwpQIR-hXSfYA8vggHk7Lqld6tyxCduccovBTqsdTunaglgIlkW8hDb_XGih3uRL6iYDjZUP-nJuHRUXySlYKmrR4fpKUz9TYgmN0m3qqbEUrodngsTZwr2P_GVkMIHjkJTAJN7Hp21XaYjy3koL6kNIj15XwBgSmj-w0F28g&q=Chesterton+High+School&sa=X&ved=2ahUKEwiE_Lax6eSWAxVXxgIHHeaICBsQs9oBKAB6BAgfEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Chesterton+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67wtbhIL--NtWlPdypN99CJ-82HDnBg-Yp1A6ka_aF1zlfcjdakprfbek0dXr4j8AA5uWIi7dn6MezjUG3HzlYo4a-IFZ3zUSmJfhm9b8ltc2OCNuz_zKwpQIR-hXSfYA8vggHk7Lqld6tyxCduccovBTqsdTunaglgIlkW8hDb_XGih3uRL6iYDjZUP-nJuHRUXySlYKmrR4fpKUz9TYgmN0m3qqbEUrodngsTZwr2P_GVkMIHjkJTAJN7Hp21XaYjy3koL6kNIj15XwBgSmj-w0F28g"
+   },
+   {
+    "name": "Portage High School",
+    "image": "https://serpapi.com/searches/6aa30f1f7d6e704306698818/images/8rdW3ZaMqIlgf-qv83flIGoNXOe9czatO8H2NgNus0F13DMHvJR6Wt3t-O9DlZqH.png",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW6718kAIrTMLFfHxLUNpqK3fbXnkXaK_7ntRuXLFO5ojvjsUPcTzt-xj_CH-qqvvHEqAYOmkezq-BgW_k7WqNJeDooIYYGKNlBOstXiz68e7J3VUHZq0MK20VeSLwlkRC3qensqm_25CEx54A0ahjXQ7MK3fTW53DVnPLSfUfajokqjG0prJPkfGr6V10MMtwxgnZQvAacyfqqbea8wlxyBfR8T0DEAOyjEJPSUclFtvVzBNniNW3GIMvuWSRIPSlR7BrvTRuAAwcetzIMVr8xpXPsjNeq&q=Portage+High+School&sa=X&ved=2ahUKEwiE_Lax6eSWAxVXxgIHHeaICBsQs9oBKAB6BAgfEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Portage+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW6718kAIrTMLFfHxLUNpqK3fbXnkXaK_7ntRuXLFO5ojvjsUPcTzt-xj_CH-qqvvHEqAYOmkezq-BgW_k7WqNJeDooIYYGKNlBOstXiz68e7J3VUHZq0MK20VeSLwlkRC3qensqm_25CEx54A0ahjXQ7MK3fTW53DVnPLSfUfajokqjG0prJPkfGr6V10MMtwxgnZQvAacyfqqbea8wlxyBfR8T0DEAOyjEJPSUclFtvVzBNniNW3GIMvuWSRIPSlR7BrvTRuAAwcetzIMVr8xpXPsjNeq"
+   },
+   {
+    "name": "Michigan City High School",
+    "image": "https://serpapi.com/searches/6aa30f1f7d6e704306698818/images/8rdW3ZaMqIlgf-qv83flIGoNXOe9czatO8H2NgNus0EYveydenXqd5QT7VdVOPiZ.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yZI5HtQ1u6KTp9173Vwroo9EoXeH2Ktb9G0_twspedcHO5u6fXmo9gIsEKCMziXb6vJI-eyxQGvo8I12vU2z0frvPnrwGwiXSKPvD_fQ4Mz6S5WgJVCAhgsWAWMcRb-rU4UwaBFMwZv7dst3TTDNcpmOpusYtkGClrh1vswDLcs-SAw4XXf4ucPQPmTMEHggq9XKAI6QR8182EfYVBjQ92rZZRvdOT7ZFS-BnvgrBs6y3XCYHd0b2zOOL78aOvkZIATFxPvlJHwgGvzwmh3hjEdYizHi&q=Michigan+City+High+School&sa=X&ved=2ahUKEwiE_Lax6eSWAxVXxgIHHeaICBsQs9oBKAB6BAgfEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Michigan+City+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yZI5HtQ1u6KTp9173Vwroo9EoXeH2Ktb9G0_twspedcHO5u6fXmo9gIsEKCMziXb6vJI-eyxQGvo8I12vU2z0frvPnrwGwiXSKPvD_fQ4Mz6S5WgJVCAhgsWAWMcRb-rU4UwaBFMwZv7dst3TTDNcpmOpusYtkGClrh1vswDLcs-SAw4XXf4ucPQPmTMEHggq9XKAI6QR8182EfYVBjQ92rZZRvdOT7ZFS-BnvgrBs6y3XCYHd0b2zOOL78aOvkZIATFxPvlJHwgGvzwmh3hjEdYizHi"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=LaPorte+High+School&stick=H4sIAAAAAAAAAONgFuLVT9c3NEzOqSwxqygoV0LlagkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axCrskxiQX1SSquCRmZ6hEJyckZ-fs4OV8RabJMMbh4rAXL6mziXhhodYtRdtjkgKtkkP-34cAF0IzzmBAAAA&sa=X&ved=2ahUKEwiE_Lax6eSWAxVXxgIHHeaICBsQzO0BKAR6BAgfEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLVT9c3NEzOqSwxqygoV0LlagkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axCrskxiQX1SSquCRmZ6hEJyckZ-fs4OV8RabJMMbh4rAXL6mziXhhodYtRdtjkgKtkkP-34cAF0IzzmBAAAA",
+  "profiles": [
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/LPCSC.LPHS/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Laporte+High+School%22+Indiana",
+    "image": "https://serpapi.com/searches/6aa30f1f7d6e704306698818/images/8rdW3ZaMqIlgf-qv83flIMAdCAKIUAYBJ_uaRUeOgd_eYdiKBpq9BfY_Sp1D_8zm.png"
+   },
+   {
+    "name": "X (Twitter)",
+    "link": "https://twitter.com/slicerslphs",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Laporte+High+School%22+Indiana",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAABhUlEQVR4AczOA6xcARCF4X_us23btuLUQR3WZlhbQW3bto2gtm3b2J3GN4tY74uHh3okOi42Nj4AAUDwTvDEhisABCOAEAzYTBh0bN-lc5d0QgAhHPqX4Y4pkd367Zc-xMcXCPDg8TPwxeQH724Uj9N95GJ4pnHxby1xgCmV3v-GsFb7k0Iee7UjaQgmIYe9v9O4-wUKWaATyMPAViwvr1NnOQWDdTV5CHYSaKWLmaGDyvU4mTgQcllracaFr-9uk-yLM8k8fAJff0IUTghRVFu3M1ynkYk4nchiqqU3Ry05RDibMMhjtj6Ht3dJxVk_l1G64cspOusychBsCWm01WNM0jFs0sbEYUtIIuTXNco588OLh09JxE6wweuXEAvfL9PQus3-iU80N34KCaQyUOcxTTuSjEmMRI5rS9JwIZfD1t7ceo34YIpnuQ4nGwP8XXlq_fJZd9jE8KBHC5IwAELJ7dWrZ6fOuNhkgFgAEEIAwA1MQkw0AgDC_wnKycrKSQ2iPAkAVyNzq8rxicIAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "YouTube",
+    "link": "https://www.youtube.com/@laportecommunityschools5680",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Laporte+High+School%22+Indiana",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAP1BMVEX_____z8__n5__kJD_gID_cHD_YGD_v7__39__ICD_AAD_r6__EBD_7-__oKD_MDD_QED_UFD_X1__j4__f396G04EAAAAhklEQVR4AeXQRQLDQAwDQC3bajj5_1dLYb63czYKf8VY50OcBO9swkyUB_SBkfJQlqOXeKJAz_FEQM9zVCqXInqRIy-RC9W-AJDypgCwyoGiV68LkLJFwX6CVJcr8nBwZJgLXMaDAs9RxsMcLE949IQnEnpoeKjEpC25o12OpVwkTURy_JQX1r4RC2S7kZYAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/in/natalie-slater-97462aa3",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Laporte+High+School%22+Indiana",
+    "image": "https://serpapi.com/searches/6aa30f1f7d6e704306698818/images/8rdW3ZaMqIlgf-qv83flIGVi9qsMJgROUNeGjgGs9ugBySOUnD68SH-laBTiNnAL.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "How many students go to LaPorte High School, Indiana?",
+   "type": "ai_overview",
+   "page_token": "C9vQOXicHdBtbpswGABg7TL92dh8ZGukaBItH2HBiDe2Mf5TMbsJiQ14KSok_3aFnWGn2mkm9TnC8_uvPQ_m35c_3TS5981qNc_z42kcT_btUY39qn2_DWqlWmt_tsps1l_X-PtRbeMPFT1fVVQx5_gLoAM3AUmXrDZuL3lSFkM0MJ6_sD4kKol2rSEYKFxUaqYCQQ5oEo2IZOVzH6wuSGZnyGCpWbiTfnMrWOwxSqz0dphfLOE26YpBn6FPjpQCLswSqEFCKUhMBC8Jqm6FcYSk4UJYKMqEH-g9xzplvk5hrI3xNXI_eO2uLAYE9huSafjMbecEjgNp-NRwmTYe5pR1WeXlnhLJmg8J5clTx1O918iWEKM57vRe3vCvpn6iAi2lZNjta10REWUtzSOA8VwxuKuL7RnTLb13dZ0GE6DleojhLG23Jr4OZC2LN9tgVj0c1cfWf_i83r4e-2njruPpP4YFimo",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=C9vQOXicHdBtbpswGABg7TL92dh8ZGukaBItH2HBiDe2Mf5TMbsJiQ14KSok_3aFnWGn2mkm9TnC8_uvPQ_m35c_3TS5981qNc_z42kcT_btUY39qn2_DWqlWmt_tsps1l_X-PtRbeMPFT1fVVQx5_gLoAM3AUmXrDZuL3lSFkM0MJ6_sD4kKol2rSEYKFxUaqYCQQ5oEo2IZOVzH6wuSGZnyGCpWbiTfnMrWOwxSqz0dphfLOE26YpBn6FPjpQCLswSqEFCKUhMBC8Jqm6FcYSk4UJYKMqEH-g9xzplvk5hrI3xNXI_eO2uLAYE9huSafjMbecEjgNp-NRwmTYe5pR1WeXlnhLJmg8J5clTx1O918iWEKM57vRe3vCvpn6iAi2lZNjta10REWUtzSOA8VwxuKuL7RnTLb13dZ0GE6DleojhLG23Jr4OZC2LN9tgVj0c1cfWf_i83r4e-2njruPpP4YFimo",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk1pMXdTbmhaV1RsNldVaFVhRzQzTUVGbFgyZHFkSE53UkZveWFEZGliRlJSUm1KQlpXOHpTV2RhY0U4NVkwdHdSRk51YlZWdFQyWldjMk5hU3pSZmJFUjNkM2h4YmxGcFkzUk9ObFZIYTBKWVJHNVNXR3BqTlRkWlVSSVhTMmN0YW1GdlUxOU1UbVZOYVMxblVEVndSMmt5UVVVYUlrRkVjM0k1WmxSNGEySTNPR2cwTUVwWmRHWTFUREZyV1dFeFpsZExZVVl3UkZFIiwiZmN2IjoiMyIsImVpIjoiS2ctamFvU19MTmVNaS1nUDVwR2kyQUUiLCJxYyI6IkNodHNZWEJ2Y25SbElHaHBaMmdnYzJOb2IyOXNJR2x1WkdsaGJtRVFBSDJ5R0RBXyIsInF1ZXN0aW9uIjoiSG93IG1hbnkgc3R1ZGVudHMgZ28gdG8gTGFQb3J0ZSBIaWdoIFNjaG9vbCwgSW5kaWFuYT8iLCJsayI6IkdqTm9iM2NnYldGdWVTQnpkSFZrWlc1MGN5Qm5ieUIwYnlCc1lYQnZjblJsSUdocFoyZ2djMk5vYjI5c0lHbHVaR2xoYm1FIiwiYnMiOiJjM1hRT3d2Q1FCQUVZR3l2c2s3aktOcjVnSWgxV29VSWdvVzJhM0o2QjVjN3lWNEktZmVheEtqNDZPZmJHVlpZc1ZxN0VoblpDdXlMVkZyUHVEaDRoNWgyTHZjU2EzMVIyQ2ZLT1RQRnhxYWFMRVhoS2xpcVA5RFF0WUdxaHR4QTZOYUpvMWdlRkhsb2hsY1NuSkV4a2oydXhjbm81SU84Mm9iQjRCbjl5SFNYU2N3UHFxb1BfeGlPcE1acDA3bV9GOG1jbzNBUnpNcFdfRnI4SnJnVllpc20zZmlZMEpROFA0SXpaYTVnbkYwZWhlTmdWRDZDM1duOUZldjNiZyIsImlkIjoiZmNfS2ctamFvU19MTmVNaS1nUDVwR2kyQUVfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk1pMXdTbmhaV1RsNldVaFVhRzQzTUVGbFgyZHFkSE53UkZveWFEZGliRlJSUm1KQlpXOHpTV2RhY0U4NVkwdHdSRk51YlZWdFQyWldjMk5hU3pSZmJFUjNkM2h4YmxGcFkzUk9ObFZIYTBKWVJHNVNXR3BqTlRkWlVSSVhTMmN0YW1GdlUxOU1UbVZOYVMxblVEVndSMmt5UVVVYUlrRkVjM0k1WmxSNGEySTNPR2cwTUVwWmRHWTFUREZyV1dFeFpsZExZVVl3UkZFIiwiZmN2IjoiMyIsImVpIjoiS2ctamFvU19MTmVNaS1nUDVwR2kyQUUiLCJxYyI6IkNodHNZWEJ2Y25SbElHaHBaMmdnYzJOb2IyOXNJR2x1WkdsaGJtRVFBSDJ5R0RBXyIsInF1ZXN0aW9uIjoiSG93IG1hbnkgc3R1ZGVudHMgZ28gdG8gTGFQb3J0ZSBIaWdoIFNjaG9vbCwgSW5kaWFuYT8iLCJsayI6IkdqTm9iM2NnYldGdWVTQnpkSFZrWlc1MGN5Qm5ieUIwYnlCc1lYQnZjblJsSUdocFoyZ2djMk5vYjI5c0lHbHVaR2xoYm1FIiwiYnMiOiJjM1hRT3d2Q1FCQUVZR3l2c2s3aktOcjVnSWgxV29VSWdvVzJhM0o2QjVjN3lWNEktZmVheEtqNDZPZmJHVlpZc1ZxN0VoblpDdXlMVkZyUHVEaDRoNWgyTHZjU2EzMVIyQ2ZLT1RQRnhxYWFMRVhoS2xpcVA5RFF0WUdxaHR4QTZOYUpvMWdlRkhsb2hsY1NuSkV4a2oydXhjbm81SU84Mm9iQjRCbjl5SFNYU2N3UHFxb1BfeGlPcE1acDA3bV9GOG1jbzNBUnpNcFdfRnI4SnJnVllpc20zZmlZMEpROFA0SXpaYTVnbkYwZWhlTmdWRDZDM1duOUZldjNiZyIsImlkIjoiZmNfS2ctamFvU19MTmVNaS1nUDVwR2kyQUVfNSJ9"
+  },
+  {
+   "question": "What is the smallest public high school in Indiana?",
+   "type": "ai_overview",
+   "page_token": "23J8I3icHdBdbpswAABg7TJ9bPjNlEhRJRccisAMg23ilwlsAg3GeCkrlLddYWfoqXqaSfuO8P35VK96-Pr2t59n83bc7ZZleeymqVPto5jGXf32ocVO1Eo1tRiO--97--kqTuG7AM93AXJiDA2wVdADaAKaorLfozD1yGCXbYni9NyzhPQBdcGZjyZIaE8RlCgN4A8KhyVVVPOxv6PC8vMbvgqKXKLVhix0kW4345tKcCQspMOFs_l3oQC93NBLOcZzVkE3Yb3hRG4lhGVLB6cN_XPjIA9F1GOB8KndGxxCxapY84gyzpSfOnwlUeymmq_SsTxpH-JUwUtL1qqAKKeOnQn24hehYRnDdT10NjrHuN4oyApbh71M-If968IOZWWtGSe2SZjMUQWiuowBxtNrTvAmbmokxPhSy6IOsJ9vIK-HleQlV00E04YoT0bymeQPV_F-ch_-X59-Xsf5aO5T9w-sToro",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=23J8I3icHdBdbpswAABg7TJ9bPjNlEhRJRccisAMg23ilwlsAg3GeCkrlLddYWfoqXqaSfuO8P35VK96-Pr2t59n83bc7ZZleeymqVPto5jGXf32ocVO1Eo1tRiO--97--kqTuG7AM93AXJiDA2wVdADaAKaorLfozD1yGCXbYni9NyzhPQBdcGZjyZIaE8RlCgN4A8KhyVVVPOxv6PC8vMbvgqKXKLVhix0kW4345tKcCQspMOFs_l3oQC93NBLOcZzVkE3Yb3hRG4lhGVLB6cN_XPjIA9F1GOB8KndGxxCxapY84gyzpSfOnwlUeymmq_SsTxpH-JUwUtL1qqAKKeOnQn24hehYRnDdT10NjrHuN4oyApbh71M-If968IOZWWtGSe2SZjMUQWiuowBxtNrTvAmbmokxPhSy6IOsJ9vIK-HleQlV00E04YoT0bymeQPV_F-ch_-X59-Xsf5aO5T9w-sToro",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk1pMXdTbmhaV1RsNldVaFVhRzQzTUVGbFgyZHFkSE53UkZveWFEZGliRlJSUm1KQlpXOHpTV2RhY0U4NVkwdHdSRk51YlZWdFQyWldjMk5hU3pSZmJFUjNkM2h4YmxGcFkzUk9ObFZIYTBKWVJHNVNXR3BqTlRkWlVSSVhTMmN0YW1GdlUxOU1UbVZOYVMxblVEVndSMmt5UVVVYUlrRkVjM0k1WmxSNGEySTNPR2cwTUVwWmRHWTFUREZyV1dFeFpsZExZVVl3UkZFIiwiZmN2IjoiMyIsImVpIjoiS2ctamFvU19MTmVNaS1nUDVwR2kyQUUiLCJxYyI6IkNodHNZWEJ2Y25SbElHaHBaMmdnYzJOb2IyOXNJR2x1WkdsaGJtRVFBSDJ5R0RBXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgc21hbGxlc3QgcHVibGljIGhpZ2ggc2Nob29sIGluIEluZGlhbmE/IiwibGsiOiJHaDl6YldGc2JHVnpkQ0JvYVdkb0lITmphRzl2YkNCcGJpQnBibVJwWVc1aCIsImJzIjoiYzNYUU93dkNRQkFFWUd5dnNrN2pLTnI1Z0loMVdvVUlnb1cyYTNKNkI1Yzd5VjRJLWZlYXhLajQ2T2ZiR1ZaWXNWcTdFaG5aQ3V5TFZGclB1RGg0aDVoMkx2Y1NhMzFSMkNmS09UUEZ4cWFhTEVYaEtsaXFQOURRdFlHcWh0eEE2TmFKbzFnZUZIbG9obGNTbkpFeGtqMnV4Y25vNUlPODJvYkI0Qm45eUhTWFNjd1BxcW9QX3hpT3BNWnAwN21fRjhtY28zQVJ6TXBXX0ZyOEpyZ1ZZaXNtM2ZpWTBKUThQNEl6WmE1Z25GMGVoZU5nVkQ2QzNXbjlGZXYzYmciLCJpZCI6ImZjX0tnLWphb1NfTE5lTWktZ1A1cEdpMkFFXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk1pMXdTbmhaV1RsNldVaFVhRzQzTUVGbFgyZHFkSE53UkZveWFEZGliRlJSUm1KQlpXOHpTV2RhY0U4NVkwdHdSRk51YlZWdFQyWldjMk5hU3pSZmJFUjNkM2h4YmxGcFkzUk9ObFZIYTBKWVJHNVNXR3BqTlRkWlVSSVhTMmN0YW1GdlUxOU1UbVZOYVMxblVEVndSMmt5UVVVYUlrRkVjM0k1WmxSNGEySTNPR2cwTUVwWmRHWTFUREZyV1dFeFpsZExZVVl3UkZFIiwiZmN2IjoiMyIsImVpIjoiS2ctamFvU19MTmVNaS1nUDVwR2kyQUUiLCJxYyI6IkNodHNZWEJ2Y25SbElHaHBaMmdnYzJOb2IyOXNJR2x1WkdsaGJtRVFBSDJ5R0RBXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgc21hbGxlc3QgcHVibGljIGhpZ2ggc2Nob29sIGluIEluZGlhbmE%2FIiwibGsiOiJHaDl6YldGc2JHVnpkQ0JvYVdkb0lITmphRzl2YkNCcGJpQnBibVJwWVc1aCIsImJzIjoiYzNYUU93dkNRQkFFWUd5dnNrN2pLTnI1Z0loMVdvVUlnb1cyYTNKNkI1Yzd5VjRJLWZlYXhLajQ2T2ZiR1ZaWXNWcTdFaG5aQ3V5TFZGclB1RGg0aDVoMkx2Y1NhMzFSMkNmS09UUEZ4cWFhTEVYaEtsaXFQOURRdFlHcWh0eEE2TmFKbzFnZUZIbG9obGNTbkpFeGtqMnV4Y25vNUlPODJvYkI0Qm45eUhTWFNjd1BxcW9QX3hpT3BNWnAwN21fRjhtY28zQVJ6TXBXX0ZyOEpyZ1ZZaXNtM2ZpWTBKUThQNEl6WmE1Z25GMGVoZU5nVkQ2QzNXbjlGZXYzYmciLCJpZCI6ImZjX0tnLWphb1NfTE5lTWktZ1A1cEdpMkFFXzUifQ%3D%3D"
+  },
+  {
+   "question": "Why is LaPorte High School called the Slicers?",
+   "type": "ai_overview",
+   "page_token": "ina-9XicHdBNjpswGABQ9TKznGBSUiVSVNXETkSBCI9_gE0FnwlJMOAZaIDseoWeoafqaSr1HeH9-mNuXfP30-_rONpht1pN0_Ra931tqlfo21UxLB2soDCmLKDZbb5s0NcL7MkDsP8BOBHWygNz3lzz-e2EN8VJ_ix5fjsr6WiuZ-B6UxK7AApUbKQvXeFFSEcpyouk0QxMPsRkVEDpxFTQlK7loqknTbwl5HjkHVWCxknIvzncob5cX1H2jBvdmkt8lF7JA5TdcShFNqsDTIJ4Q-SQsTyioqLmnYntEPFmhDY_R-7VB6SpPAYdpMEcSUpZap_yYPpIaczF3GX3BJUIPySSqW69GGiQaEkZd2qvEvauiA3IVYf5gt4zteWpM59zgWyodBKn-FTwADPW3xLBnnA3rSTb7xlnYaW8Pl_TAdy4q1rPOx8tq07UlL6z5NPLBR779cv_6_2PSzvu7Edf_wPIO4wZ",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ina-9XicHdBNjpswGABQ9TKznGBSUiVSVNXETkSBCI9_gE0FnwlJMOAZaIDseoWeoafqaSr1HeH9-mNuXfP30-_rONpht1pN0_Ra931tqlfo21UxLB2soDCmLKDZbb5s0NcL7MkDsP8BOBHWygNz3lzz-e2EN8VJ_ix5fjsr6WiuZ-B6UxK7AApUbKQvXeFFSEcpyouk0QxMPsRkVEDpxFTQlK7loqknTbwl5HjkHVWCxknIvzncob5cX1H2jBvdmkt8lF7JA5TdcShFNqsDTIJ4Q-SQsTyioqLmnYntEPFmhDY_R-7VB6SpPAYdpMEcSUpZap_yYPpIaczF3GX3BJUIPySSqW69GGiQaEkZd2qvEvauiA3IVYf5gt4zteWpM59zgWyodBKn-FTwADPW3xLBnnA3rSTb7xlnYaW8Pl_TAdy4q1rPOx8tq07UlL6z5NPLBR779cv_6_2PSzvu7Edf_wPIO4wZ",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk1pMXdTbmhaV1RsNldVaFVhRzQzTUVGbFgyZHFkSE53UkZveWFEZGliRlJSUm1KQlpXOHpTV2RhY0U4NVkwdHdSRk51YlZWdFQyWldjMk5hU3pSZmJFUjNkM2h4YmxGcFkzUk9ObFZIYTBKWVJHNVNXR3BqTlRkWlVSSVhTMmN0YW1GdlUxOU1UbVZOYVMxblVEVndSMmt5UVVVYUlrRkVjM0k1WmxSNGEySTNPR2cwTUVwWmRHWTFUREZyV1dFeFpsZExZVVl3UkZFIiwiZmN2IjoiMyIsImVpIjoiS2ctamFvU19MTmVNaS1nUDVwR2kyQUUiLCJxYyI6IkNodHNZWEJ2Y25SbElHaHBaMmdnYzJOb2IyOXNJR2x1WkdsaGJtRVFBSDJ5R0RBXyIsInF1ZXN0aW9uIjoiV2h5IGlzIExhUG9ydGUgSGlnaCBTY2hvb2wgY2FsbGVkIHRoZSBTbGljZXJzPyIsImxrIjoiR2kxM2FIa2dhWE1nYkdGd2IzSjBaU0JvYVdkb0lITmphRzl2YkNCallXeHNaV1FnZEdobElITnNhV05sY25NIiwiYnMiOiJjM1hRT3d2Q1FCQUVZR3l2c2s3aktOcjVnSWgxV29VSWdvVzJhM0o2QjVjN3lWNEktZmVheEtqNDZPZmJHVlpZc1ZxN0VoblpDdXlMVkZyUHVEaDRoNWgyTHZjU2EzMVIyQ2ZLT1RQRnhxYWFMRVhoS2xpcVA5RFF0WUdxaHR4QTZOYUpvMWdlRkhsb2hsY1NuSkV4a2oydXhjbm81SU84Mm9iQjRCbjl5SFNYU2N3UHFxb1BfeGlPcE1acDA3bV9GOG1jbzNBUnpNcFdfRnI4SnJnVllpc20zZmlZMEpROFA0SXpaYTVnbkYwZWhlTmdWRDZDM1duOUZldjNiZyIsImlkIjoiZmNfS2ctamFvU19MTmVNaS1nUDVwR2kyQUVfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk1pMXdTbmhaV1RsNldVaFVhRzQzTUVGbFgyZHFkSE53UkZveWFEZGliRlJSUm1KQlpXOHpTV2RhY0U4NVkwdHdSRk51YlZWdFQyWldjMk5hU3pSZmJFUjNkM2h4YmxGcFkzUk9ObFZIYTBKWVJHNVNXR3BqTlRkWlVSSVhTMmN0YW1GdlUxOU1UbVZOYVMxblVEVndSMmt5UVVVYUlrRkVjM0k1WmxSNGEySTNPR2cwTUVwWmRHWTFUREZyV1dFeFpsZExZVVl3UkZFIiwiZmN2IjoiMyIsImVpIjoiS2ctamFvU19MTmVNaS1nUDVwR2kyQUUiLCJxYyI6IkNodHNZWEJ2Y25SbElHaHBaMmdnYzJOb2IyOXNJR2x1WkdsaGJtRVFBSDJ5R0RBXyIsInF1ZXN0aW9uIjoiV2h5IGlzIExhUG9ydGUgSGlnaCBTY2hvb2wgY2FsbGVkIHRoZSBTbGljZXJzPyIsImxrIjoiR2kxM2FIa2dhWE1nYkdGd2IzSjBaU0JvYVdkb0lITmphRzl2YkNCallXeHNaV1FnZEdobElITnNhV05sY25NIiwiYnMiOiJjM1hRT3d2Q1FCQUVZR3l2c2s3aktOcjVnSWgxV29VSWdvVzJhM0o2QjVjN3lWNEktZmVheEtqNDZPZmJHVlpZc1ZxN0VoblpDdXlMVkZyUHVEaDRoNWgyTHZjU2EzMVIyQ2ZLT1RQRnhxYWFMRVhoS2xpcVA5RFF0WUdxaHR4QTZOYUpvMWdlRkhsb2hsY1NuSkV4a2oydXhjbm81SU84Mm9iQjRCbjl5SFNYU2N3UHFxb1BfeGlPcE1acDA3bV9GOG1jbzNBUnpNcFdfRnI4SnJnVllpc20zZmlZMEpROFA0SXpaYTVnbkYwZWhlTmdWRDZDM1duOUZldjNiZyIsImlkIjoiZmNfS2ctamFvU19MTmVNaS1nUDVwR2kyQUVfNSJ9"
+  },
+  {
+   "question": "What is La Porte, Indiana famous for?",
+   "type": "ai_overview",
+   "page_token": "wXLm8nicHdBdToMwAADgeBkfXTs2zZYsxk5-bPhJCy2sLwbbDYQWqtaBe_MunsrTmPgd4fv-0a9D_3t1bp2zH9vFYpqmm2YcG328kaNZ1B9fg1zIWuuXWvbb27tbeH-SO__zCe3fnhBh1vJHCnLj9seenonngziHWV1uDAs0E12bi8gHogpiofEp12mVh4oWA33MQjwxT3rqEnBlwIoOD45GzZobl-TRwyR9akWHe7ZUFQUtTthmRQqNXyCDKUddFibrxBxWZSRA0qUd5wGWg_UoCHjGZkIGVB9DS5J-9HIw46JLh4xrv9zDksM2oSE90KVd5uF8JgYixnksgt7JMkB-q2LxBd8O5aaowJwJBm1cKpJWKKoLjCgdXwmjF9lpwzxqjkUD4opcVDk7FVqkKswPwHW8T9Ys3ESEXJ_keedd_3_unk_Gbe372PwBx9iBZw",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=wXLm8nicHdBdToMwAADgeBkfXTs2zZYsxk5-bPhJCy2sLwbbDYQWqtaBe_MunsrTmPgd4fv-0a9D_3t1bp2zH9vFYpqmm2YcG328kaNZ1B9fg1zIWuuXWvbb27tbeH-SO__zCe3fnhBh1vJHCnLj9seenonngziHWV1uDAs0E12bi8gHogpiofEp12mVh4oWA33MQjwxT3rqEnBlwIoOD45GzZobl-TRwyR9akWHe7ZUFQUtTthmRQqNXyCDKUddFibrxBxWZSRA0qUd5wGWg_UoCHjGZkIGVB9DS5J-9HIw46JLh4xrv9zDksM2oSE90KVd5uF8JgYixnksgt7JMkB-q2LxBd8O5aaowJwJBm1cKpJWKKoLjCgdXwmjF9lpwzxqjkUD4opcVDk7FVqkKswPwHW8T9Ys3ESEXJ_keedd_3_unk_Gbe372PwBx9iBZw",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk1pMXdTbmhaV1RsNldVaFVhRzQzTUVGbFgyZHFkSE53UkZveWFEZGliRlJSUm1KQlpXOHpTV2RhY0U4NVkwdHdSRk51YlZWdFQyWldjMk5hU3pSZmJFUjNkM2h4YmxGcFkzUk9ObFZIYTBKWVJHNVNXR3BqTlRkWlVSSVhTMmN0YW1GdlUxOU1UbVZOYVMxblVEVndSMmt5UVVVYUlrRkVjM0k1WmxSNGEySTNPR2cwTUVwWmRHWTFUREZyV1dFeFpsZExZVVl3UkZFIiwiZmN2IjoiMyIsImVpIjoiS2ctamFvU19MTmVNaS1nUDVwR2kyQUUiLCJxYyI6IkNodHNZWEJ2Y25SbElHaHBaMmdnYzJOb2IyOXNJR2x1WkdsaGJtRVFBSDJ5R0RBXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBMYSBQb3J0ZSwgSW5kaWFuYSBmYW1vdXMgZm9yPyIsImxrIjoiR2lKM2FHRjBJR2x6SUd4aGNHOXlkR1VnYVc1a2FXRnVZU0JtWVcxdmRYTWdabTl5IiwiYnMiOiJjM1hRT3d2Q1FCQUVZR3l2c2s3aktOcjVnSWgxV29VSWdvVzJhM0o2QjVjN3lWNEktZmVheEtqNDZPZmJHVlpZc1ZxN0VoblpDdXlMVkZyUHVEaDRoNWgyTHZjU2EzMVIyQ2ZLT1RQRnhxYWFMRVhoS2xpcVA5RFF0WUdxaHR4QTZOYUpvMWdlRkhsb2hsY1NuSkV4a2oydXhjbm81SU84Mm9iQjRCbjl5SFNYU2N3UHFxb1BfeGlPcE1acDA3bV9GOG1jbzNBUnpNcFdfRnI4SnJnVllpc20zZmlZMEpROFA0SXpaYTVnbkYwZWhlTmdWRDZDM1duOUZldjNiZyIsImlkIjoiZmNfS2ctamFvU19MTmVNaS1nUDVwR2kyQUVfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk1pMXdTbmhaV1RsNldVaFVhRzQzTUVGbFgyZHFkSE53UkZveWFEZGliRlJSUm1KQlpXOHpTV2RhY0U4NVkwdHdSRk51YlZWdFQyWldjMk5hU3pSZmJFUjNkM2h4YmxGcFkzUk9ObFZIYTBKWVJHNVNXR3BqTlRkWlVSSVhTMmN0YW1GdlUxOU1UbVZOYVMxblVEVndSMmt5UVVVYUlrRkVjM0k1WmxSNGEySTNPR2cwTUVwWmRHWTFUREZyV1dFeFpsZExZVVl3UkZFIiwiZmN2IjoiMyIsImVpIjoiS2ctamFvU19MTmVNaS1nUDVwR2kyQUUiLCJxYyI6IkNodHNZWEJ2Y25SbElHaHBaMmdnYzJOb2IyOXNJR2x1WkdsaGJtRVFBSDJ5R0RBXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBMYSBQb3J0ZSwgSW5kaWFuYSBmYW1vdXMgZm9yPyIsImxrIjoiR2lKM2FHRjBJR2x6SUd4aGNHOXlkR1VnYVc1a2FXRnVZU0JtWVcxdmRYTWdabTl5IiwiYnMiOiJjM1hRT3d2Q1FCQUVZR3l2c2s3aktOcjVnSWgxV29VSWdvVzJhM0o2QjVjN3lWNEktZmVheEtqNDZPZmJHVlpZc1ZxN0VoblpDdXlMVkZyUHVEaDRoNWgyTHZjU2EzMVIyQ2ZLT1RQRnhxYWFMRVhoS2xpcVA5RFF0WUdxaHR4QTZOYUpvMWdlRkhsb2hsY1NuSkV4a2oydXhjbm81SU84Mm9iQjRCbjl5SFNYU2N3UHFxb1BfeGlPcE1acDA3bV9GOG1jbzNBUnpNcFdfRnI4SnJnVllpc20zZmlZMEpROFA0SXpaYTVnbkYwZWhlTmdWRDZDM1duOUZldjNiZyIsImlkIjoiZmNfS2ctamFvU19MTmVNaS1nUDVwR2kyQUVfNSJ9"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "LaPorte High School (Indiana)",
+   "link": "https://en.wikipedia.org/wiki/LaPorte_High_School_(Indiana)",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHrOzAVReXOnS09Jt-B3ORQ1YPV6Kn182ap7Hgx5FfOQv9iSUZFR_Qu8t4DAM30JFTzISdDfz2M06PNg0okxdbOpxULUrPXjX_ZPbkX6aMyz3UmBNwAUSs386Wms5r_ZWlTUUEFlxqmFNZG8kBLLG132z4&ved=2ahUKEwiE_Lax6eSWAxVXxgIHHeaICBsQFnoECEQQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a LaPorte_High_School...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+   "snippet": "LaPorte High School is a public high school located in LaPorte, Indiana. It is a part of the LaPorte Community School Corporation.",
+   "snippet_highlighted_words": [
+    "LaPorte High School",
+    "Indiana"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "LaPorte High School is a public high school located in LaPorte, Indiana. It is a part of the LaPorte Community School Corporation.",
+     "source_info_link": "https://en.wikipedia.org/wiki/LaPorte_High_School_(Indiana)",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEScwHrOzAVReXOnS09Jt-B3ORQ1YPV6Kn182ap7Hgx5FfOQv9iSUZFR_Qu8t4DAM30JFTzISdDfz2M06PNg0okxdbOpxULUrPXjX_ZPbkX6aMyz3UmBNwAUSs386Wms5r_ZWlTUUEFlxqmFNZG8kBLLG132z4&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEScwHrOzAVReXOnS09Jt-B3ORQ1YPV6Kn182ap7Hgx5FfOQv9iSUZFR_Qu8t4DAM30JFTzISdDfz2M06PNg0okxdbOpxULUrPXjX_ZPbkX6aMyz3UmBNwAUSs386Wms5r_ZWlTUUEFlxqmFNZG8kBLLG132z4",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/LaPorte_High_School_(Indiana)#:~:text=LaPorte%20High%20School%20is%20a,the%20LaPorte%20Community%20School%20Corporation."
+  },
+  {
+   "position": 2,
+   "title": "Teachers & Staff - La Porte High School",
+   "link": "https://lphs.lpcsc.k12.in.us/en-US/staff",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAV1EExzbPQ03hbvvgTffc8HS23iyvMfz5ZNAVo8rBDLA1rwY6nCo4_vHpptNFE0wPVgfe5aXAZP_DsHqgOX15AcLDaLWstv85OViqEWthQ_9kLsqrqRA5_WCpiHA&ved=2ahUKEwiE_Lax6eSWAxVXxgIHHeaICBsQFnoECEgQAQ&uoh=1",
+   "displayed_link": "https://lphs.lpcsc.k12.in.us \u203a en-US \u203a staff",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB8UlEQVR4AWKAAS2tUDZjG788Yxv_48bWfp-B9H9qYqiZx0F2gOxiQAb6Ft7SRjZ-50EK6YFBdoHshPscZjl9sd8FFQ8PdgYgJxcuSH8MaL8clFsNgwDaZ7rjq7aD2rZt27bNUW3btm3b5jZbfLWNEyeLk9-rigJVTy2ABIfHAIeAwlMFqigCbDvPEUA2NrfAysH7CRsm-zbVcxYhYu_iD9T0gk-u8WwB8vnbCWjoWcPQ8BiUVtSBgLj62wkISmpAbUMLXOTw8BAyc4qBnV_-9QQYOaUgNbPguNlt7O3tQ2xiJtCzS7ysgImVG2xtbcNDwVhNA9uXE5BU0IerlFfWA7ewMji4BsBNiEhrvZwADYMQXEVG2ZD8PjE5DVfBnFcVyMotAVpGYdA1dsDt4mUEBCXUQU7V-NoDd7nHgjk31cIetwp09fTDa9Pe2Xu7gKtXCLw2Fraen0CgoakdAsOijh_FZdVwE5GxqSRmYWEJbiInv4zEtHX0PFgAE8h3mHATrDyyJKanbwhuQtvQjsSg8IMFMBgb4MPDNxxuQlrJgMQMDo_BTdg6-ZKYlIz8j7kN_Ag84aL0Zaclcln-Dg9yWa72XgLYmwrHIxyT3n7xs7dg73cZTvEPk-H04nj-6w-bOiWgjmK3_gr_eB1rY4-L4_kRcS9NV3M-rGEAAAAASUVORK5CYII.png",
+   "snippet": "Secretary to LaPorte High School Principal. TC. Tom Coe. MC. Mark Coleman. EC. Elvia Conn. Staff. RC. Rachel cooper. Nurse - LPHS. MC. Michael Cox. Staff ...",
+   "snippet_highlighted_words": [
+    "LaPorte High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Secretary to LaPorte High School Principal. TC. Tom Coe. MC. Mark Coleman. EC. Elvia Conn. Staff. RC. Rachel cooper. Nurse - LPHS. MC. Michael Cox. Staff ...",
+     "source_info_link": "https://lphs.lpcsc.k12.in.us/en-US/staff",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB8UlEQVR4AWKAAS2tUDZjG788Yxv_48bWfp-B9H9qYqiZx0F2gOxiQAb6Ft7SRjZ-50EK6YFBdoHshPscZjl9sd8FFQ8PdgYgJxcuSH8MaL8clFsNgwDaZ7rjq7aD2rZt27bNUW3btm3b5jZbfLWNEyeLk9-rigJVTy2ABIfHAIeAwlMFqigCbDvPEUA2NrfAysH7CRsm-zbVcxYhYu_iD9T0gk-u8WwB8vnbCWjoWcPQ8BiUVtSBgLj62wkISmpAbUMLXOTw8BAyc4qBnV_-9QQYOaUgNbPguNlt7O3tQ2xiJtCzS7ysgImVG2xtbcNDwVhNA9uXE5BU0IerlFfWA7ewMji4BsBNiEhrvZwADYMQXEVG2ZD8PjE5DVfBnFcVyMotAVpGYdA1dsDt4mUEBCXUQU7V-NoDd7nHgjk31cIetwp09fTDa9Pe2Xu7gKtXCLw2Fraen0CgoakdAsOijh_FZdVwE5GxqSRmYWEJbiInv4zEtHX0PFgAE8h3mHATrDyyJKanbwhuQtvQjsSg8IMFMBgb4MPDNxxuQlrJgMQMDo_BTdg6-ZKYlIz8j7kN_Ag84aL0Zaclcln-Dg9yWa72XgLYmwrHIxyT3n7xs7dg73cZTvEPk-H04nj-6w-bOiWgjmK3_gr_eB1rY4-L4_kRcS9NV3M-rGEAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYAHrOzAV1EExzbPQ03hbvvgTffc8HS23iyvMfz5ZNAVo8rBDLA1rwY6nCo4_vHpptNFE0wPVgfe5aXAZP_DsHqgOX15AcLDaLWstv85OViqEWthQ_9kLsqrqRA5_WCpiHA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYAHrOzAV1EExzbPQ03hbvvgTffc8HS23iyvMfz5ZNAVo8rBDLA1rwY6nCo4_vHpptNFE0wPVgfe5aXAZP_DsHqgOX15AcLDaLWstv85OViqEWthQ_9kLsqrqRA5_WCpiHA",
+   "source": "La Porte Community School Corporation",
+   "read_more_link": "https://lphs.lpcsc.k12.in.us/en-US/staff#:~:text=Secretary%20to%20LaPorte%20High%20School,Staff"
+  },
+  {
+   "position": 3,
+   "title": "La Porte High School | LaPorte IN",
+   "link": "https://www.facebook.com/LPCSC.LPHS/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXAHrOzAVollwPiGdJsFPust7eos_vjR05vxANJN2M0z3hEKPWrZz_jc9WuFyaDnk29i2eMH0qp0zM3Hr1y4ORVvew5ZWw3yV0LOdGqSjwY-EHqHDmkPFBFkjfIVa&ved=2ahUKEwiE_Lax6eSWAxVXxgIHHeaICBsQFnoECEcQAQ&uoh=1",
+   "displayed_link": "14.1K+ followers",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "snippet": "Great job you two! #SlicersGiveBack #SlicerPride LaPorte High School Cheerleading LaPorte High School Athletics.",
+   "snippet_highlighted_words": [
+    "LaPorte High School",
+    "LaPorte High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Great job you two! #SlicersGiveBack #SlicerPride LaPorte High School Cheerleading LaPorte High School Athletics.",
+     "source_info_link": "https://www.facebook.com/LPCSC.LPHS/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESXAHrOzAVollwPiGdJsFPust7eos_vjR05vxANJN2M0z3hEKPWrZz_jc9WuFyaDnk29i2eMH0qp0zM3Hr1y4ORVvew5ZWw3yV0LOdGqSjwY-EHqHDmkPFBFkjfIVa&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESXAHrOzAVollwPiGdJsFPust7eos_vjR05vxANJN2M0z3hEKPWrZz_jc9WuFyaDnk29i2eMH0qp0zM3Hr1y4ORVvew5ZWw3yV0LOdGqSjwY-EHqHDmkPFBFkjfIVa",
+   "source": "Facebook \u00b7 La Porte High School",
+   "read_more_link": "https://www.facebook.com/LPCSC.LPHS/#:~:text=Great%20job%20you%20two!%20%23SlicersGiveBack,Cheerleading%20LaPorte%20High%20School%20Athletics"
+  },
+  {
+   "position": 4,
+   "title": "Laporte High School - Indiana",
+   "link": "https://www.usnews.com/education/best-high-schools/indiana/districts/laporte-community-school-corp/laporte-high-school-7279",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESswEB6zswFc5YiGYICWvbbBljvzTq00ChLLlQmUL7tBooccK8QauxP9-jyrYZvPbFbf8UtTxst1F2BhsdAGcfyQbiZbtrTrQXVA0k1D0aO3-mx36v10uz7diOY7-PigWZoJvtH4rOxDwTePChaRGgMNtr6MDtpUArxDB_QZ6BPP4pk_l5jSZuge2tSlBgGUhL3Ks0Ag222hvPP6Zfqxn7YX6j4mnc_JpG3ZdqXRm24PnZ5WXNxw&ved=2ahUKEwiE_Lax6eSWAxVXxgIHHeaICBsQFnoECEYQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a education \u203a indiana \u203a districts",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png",
+   "snippet": "Laporte High School is ranked #4,214 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+   "snippet_highlighted_words": [
+    "Laporte High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Laporte High School is ranked #4,214 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/indiana/districts/laporte-community-school-corp/laporte-high-school-7279",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESswEB6zswFc5YiGYICWvbbBljvzTq00ChLLlQmUL7tBooccK8QauxP9-jyrYZvPbFbf8UtTxst1F2BhsdAGcfyQbiZbtrTrQXVA0k1D0aO3-mx36v10uz7diOY7-PigWZoJvtH4rOxDwTePChaRGgMNtr6MDtpUArxDB_QZ6BPP4pk_l5jSZuge2tSlBgGUhL3Ks0Ag222hvPP6Zfqxn7YX6j4mnc_JpG3ZdqXRm24PnZ5WXNxw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESswEB6zswFc5YiGYICWvbbBljvzTq00ChLLlQmUL7tBooccK8QauxP9-jyrYZvPbFbf8UtTxst1F2BhsdAGcfyQbiZbtrTrQXVA0k1D0aO3-mx36v10uz7diOY7-PigWZoJvtH4rOxDwTePChaRGgMNtr6MDtpUArxDB_QZ6BPP4pk_l5jSZuge2tSlBgGUhL3Ks0Ag222hvPP6Zfqxn7YX6j4mnc_JpG3ZdqXRm24PnZ5WXNxw",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/indiana/districts/laporte-community-school-corp/laporte-high-school-7279#:~:text=Laporte%20High%20School%20is%20ranked,they%20prepare%20students%20for%20college."
+  },
+  {
+   "position": 5,
+   "title": "All About La Porte High School - Principal's Welcome",
+   "link": "https://lphs.lpcsc.k12.in.us/en-US/all-about-la-porte-high-school-426f39bc",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESggEB6zswFZyRBuub_MAR6PBq3bqrMKFY4YUpxUEdf4TCHuUc0Rmmjft25yszJ-QPz-WlKjUdJ6-zEpbSyzJbnK1omnlaBhzwnsssZTbsJ3qSSS2cp0rzo9eLYExH1QemnDxYt7U6Q2_20ZYmswnkFkaLyQjLG9euxa5de0j7rSosgZsy&ved=2ahUKEwiE_Lax6eSWAxVXxgIHHeaICBsQFnoECEUQAQ&uoh=1",
+   "displayed_link": "https://lphs.lpcsc.k12.in.us \u203a en-US",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB8UlEQVR4AWKAAS2tUDZjG788Yxv_48bWfp-B9H9qYqiZx0F2gOxiQAb6Ft7SRjZ-50EK6YFBdoHshPscZjl9sd8FFQ8PdgYgJxcuSH8MaL8clFsNgwDaZ7rjq7aD2rZt27bNUW3btm3b5jZbfLWNEyeLk9-rigJVTy2ABIfHAIeAwlMFqigCbDvPEUA2NrfAysH7CRsm-zbVcxYhYu_iD9T0gk-u8WwB8vnbCWjoWcPQ8BiUVtSBgLj62wkISmpAbUMLXOTw8BAyc4qBnV_-9QQYOaUgNbPguNlt7O3tQ2xiJtCzS7ysgImVG2xtbcNDwVhNA9uXE5BU0IerlFfWA7ewMji4BsBNiEhrvZwADYMQXEVG2ZD8PjE5DVfBnFcVyMotAVpGYdA1dsDt4mUEBCXUQU7V-NoDd7nHgjk31cIetwp09fTDa9Pe2Xu7gKtXCLw2Fraen0CgoakdAsOijh_FZdVwE5GxqSRmYWEJbiInv4zEtHX0PFgAE8h3mHATrDyyJKanbwhuQtvQjsSg8IMFMBgb4MPDNxxuQlrJgMQMDo_BTdg6-ZKYlIz8j7kN_Ag84aL0Zaclcln-Dg9yWa72XgLYmwrHIxyT3n7xs7dg73cZTvEPk-H04nj-6w-bOiWgjmK3_gr_eB1rY4-L4_kRcS9NV3M-rGEAAAAASUVORK5CYII.png",
+   "snippet": "There are approximately 1,800 students enrolled at LaPorte High School.",
+   "snippet_highlighted_words": [
+    "LaPorte High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "There are approximately 1,800 students enrolled at LaPorte High School.",
+     "source_info_link": "https://lphs.lpcsc.k12.in.us/en-US/all-about-la-porte-high-school-426f39bc",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB8UlEQVR4AWKAAS2tUDZjG788Yxv_48bWfp-B9H9qYqiZx0F2gOxiQAb6Ft7SRjZ-50EK6YFBdoHshPscZjl9sd8FFQ8PdgYgJxcuSH8MaL8clFsNgwDaZ7rjq7aD2rZt27bNUW3btm3b5jZbfLWNEyeLk9-rigJVTy2ABIfHAIeAwlMFqigCbDvPEUA2NrfAysH7CRsm-zbVcxYhYu_iD9T0gk-u8WwB8vnbCWjoWcPQ8BiUVtSBgLj62wkISmpAbUMLXOTw8BAyc4qBnV_-9QQYOaUgNbPguNlt7O3tQ2xiJtCzS7ysgImVG2xtbcNDwVhNA9uXE5BU0IerlFfWA7ewMji4BsBNiEhrvZwADYMQXEVG2ZD8PjE5DVfBnFcVyMotAVpGYdA1dsDt4mUEBCXUQU7V-NoDd7nHgjk31cIetwp09fTDa9Pe2Xu7gKtXCLw2Fraen0CgoakdAsOijh_FZdVwE5GxqSRmYWEJbiInv4zEtHX0PFgAE8h3mHATrDyyJKanbwhuQtvQjsSg8IMFMBgb4MPDNxxuQlrJgMQMDo_BTdg6-ZKYlIz8j7kN_Ag84aL0Zaclcln-Dg9yWa72XgLYmwrHIxyT3n7xs7dg73cZTvEPk-H04nj-6w-bOiWgjmK3_gr_eB1rY4-L4_kRcS9NV3M-rGEAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESggEB6zswFZyRBuub_MAR6PBq3bqrMKFY4YUpxUEdf4TCHuUc0Rmmjft25yszJ-QPz-WlKjUdJ6-zEpbSyzJbnK1omnlaBhzwnsssZTbsJ3qSSS2cp0rzo9eLYExH1QemnDxYt7U6Q2_20ZYmswnkFkaLyQjLG9euxa5de0j7rSosgZsy&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESggEB6zswFZyRBuub_MAR6PBq3bqrMKFY4YUpxUEdf4TCHuUc0Rmmjft25yszJ-QPz-WlKjUdJ6-zEpbSyzJbnK1omnlaBhzwnsssZTbsJ3qSSS2cp0rzo9eLYExH1QemnDxYt7U6Q2_20ZYmswnkFkaLyQjLG9euxa5de0j7rSosgZsy",
+   "source": "La Porte Community School Corporation",
+   "read_more_link": "https://lphs.lpcsc.k12.in.us/en-US/all-about-la-porte-high-school-426f39bc#:~:text=There%20are%20approximately%201%2C800%20students,enrolled%20at%20LaPorte%20High%20School."
+  },
+  {
+   "position": 6,
+   "title": "LaPorte High School Athletics",
+   "link": "https://www.goslicers.com/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUgHrOzAVwitpj52SdUTUM66Ry0SvrRgOATiMXlls8I_wROIuAk-bFwGsWkqo-E9huDg5ycrME4dJfmQwfJEVlLXrEhS8KPlQrQgJ-8-uI7oztj0&ved=2ahUKEwiE_Lax6eSWAxVXxgIHHeaICBsQFnoECEwQAQ&uoh=1",
+   "displayed_link": "https://www.goslicers.com",
+   "favicon": "https://serpapi.com/searches/6aa30f1f7d6e704306698818/images/h1BMZdG83tRSdsItzT3hodftmkh2s8SuLODj3cat2aQ.png",
+   "snippet": "LaPorte High School Logo. LaPorte High School. 0. Crown Point High School Logo. Crown Point High School. 4 \u00b7 September 9 05:00 PM B JV Soccer. LaPorte High ...",
+   "snippet_highlighted_words": [
+    "LaPorte High School",
+    "LaPorte High School",
+    "LaPorte High"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "LaPorte High School Logo. LaPorte High School. 0. Crown Point High School Logo. Crown Point High School. 4 \u00b7 September 9 05:00 PM B JV Soccer. LaPorte High ...",
+     "source_info_link": "https://www.goslicers.com/",
+     "icon": "https://serpapi.com/searches/6aa30f1f7d6e704306698818/images/h1BMZdG83tRSdsItzT3hoSk-Mis5XGOSHAyCwR310hPLbhs_mqgujxN7aKMj2GVl.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESUgHrOzAVwitpj52SdUTUM66Ry0SvrRgOATiMXlls8I_wROIuAk-bFwGsWkqo-E9huDg5ycrME4dJfmQwfJEVlLXrEhS8KPlQrQgJ-8-uI7oztj0&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESUgHrOzAVwitpj52SdUTUM66Ry0SvrRgOATiMXlls8I_wROIuAk-bFwGsWkqo-E9huDg5ycrME4dJfmQwfJEVlLXrEhS8KPlQrQgJ-8-uI7oztj0",
+   "source": "LaPorte High School Athletics",
+   "read_more_link": "https://www.goslicers.com/#:~:text=LaPorte%20High%20School,05%3A00%20PM%20B%20JV%20Soccer"
+  },
+  {
+   "position": 7,
+   "title": "School Performance Report - LaPorte High School",
+   "link": "https://www.lpcsc.k12.in.us/en-US/school-performance-report-laporte-high-school-f719af86",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkAEB6zswFUKAFylr-EtCUF6shKanGZJ2ZIEniwGlbnjCpNoqGES2e05ISesr7b2QGgdghrs84U19_gvCSUBfuXHWBeR2e00myvXzadQwtfoCNLTI6S4wcGy0hC5L-g_ybkj7UI_0XybmNJ6PeVdEE_l-UOdEyjJ4Tm689tQQe55GbhUy-sJuikDJiOMdBVRw8zM&ved=2ahUKEwiE_Lax6eSWAxVXxgIHHeaICBsQFnoECE4QAQ&uoh=1",
+   "displayed_link": "https://www.lpcsc.k12.in.us \u203a en-US \u203a school-performan...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB8UlEQVR4AWKAAS2tUDZjG788Yxv_48bWfp-B9H9qYqiZx0F2gOxiQAb6Ft7SRjZ-50EK6YFBdoHshPscZjl9sd8FFQ8PdgYgJxcuSH8MaL8clFsNgwDaZ7rjq7aD2rZt27bNUW3btm3b5jZbfLWNEyeLk9-rigJVTy2ABIfHAIeAwlMFqigCbDvPEUA2NrfAysH7CRsm-zbVcxYhYu_iD9T0gk-u8WwB8vnbCWjoWcPQ8BiUVtSBgLj62wkISmpAbUMLXOTw8BAyc4qBnV_-9QQYOaUgNbPguNlt7O3tQ2xiJtCzS7ysgImVG2xtbcNDwVhNA9uXE5BU0IerlFfWA7ewMji4BsBNiEhrvZwADYMQXEVG2ZD8PjE5DVfBnFcVyMotAVpGYdA1dsDt4mUEBCXUQU7V-NoDd7nHgjk31cIetwp09fTDa9Pe2Xu7gKtXCLw2Fraen0CgoakdAsOijh_FZdVwE5GxqSRmYWEJbiInv4zEtHX0PFgAE8h3mHATrDyyJKanbwhuQtvQjsSg8IMFMBgb4MPDNxxuQlrJgMQMDo_BTdg6-ZKYlIz8j7kN_Ag84aL0Zaclcln-Dg9yWa72XgLYmwrHIxyT3n7xs7dg73cZTvEPk-H04nj-6w-bOiWgjmK3_gr_eB1rY4-L4_kRcS9NV3M-rGEAAAAASUVORK5CYII.png",
+   "snippet": "LaPorte High School \u00b7 La Porte Community School Corp \u00b7 $8,035.68 per pupil \u00b7 State Average \u00b7 $7,805.87 per pupil \u00b7 La Porte Community School Corp \u00b7 $8,035.68 per ...",
+   "snippet_highlighted_words": [
+    "LaPorte High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "LaPorte High School \u00b7 La Porte Community School Corp \u00b7 $8,035.68 per pupil \u00b7 State Average \u00b7 $7,805.87 per pupil \u00b7 La Porte Community School Corp \u00b7 $8,035.68 per ...",
+     "source_info_link": "https://www.lpcsc.k12.in.us/en-US/school-performance-report-laporte-high-school-f719af86",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB8UlEQVR4AWKAAS2tUDZjG788Yxv_48bWfp-B9H9qYqiZx0F2gOxiQAb6Ft7SRjZ-50EK6YFBdoHshPscZjl9sd8FFQ8PdgYgJxcuSH8MaL8clFsNgwDaZ7rjq7aD2rZt27bNUW3btm3b5jZbfLWNEyeLk9-rigJVTy2ABIfHAIeAwlMFqigCbDvPEUA2NrfAysH7CRsm-zbVcxYhYu_iD9T0gk-u8WwB8vnbCWjoWcPQ8BiUVtSBgLj62wkISmpAbUMLXOTw8BAyc4qBnV_-9QQYOaUgNbPguNlt7O3tQ2xiJtCzS7ysgImVG2xtbcNDwVhNA9uXE5BU0IerlFfWA7ewMji4BsBNiEhrvZwADYMQXEVG2ZD8PjE5DVfBnFcVyMotAVpGYdA1dsDt4mUEBCXUQU7V-NoDd7nHgjk31cIetwp09fTDa9Pe2Xu7gKtXCLw2Fraen0CgoakdAsOijh_FZdVwE5GxqSRmYWEJbiInv4zEtHX0PFgAE8h3mHATrDyyJKanbwhuQtvQjsSg8IMFMBgb4MPDNxxuQlrJgMQMDo_BTdg6-ZKYlIz8j7kN_Ag84aL0Zaclcln-Dg9yWa72XgLYmwrHIxyT3n7xs7dg73cZTvEPk-H04nj-6w-bOiWgjmK3_gr_eB1rY4-L4_kRcS9NV3M-rGEAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESkAEB6zswFUKAFylr-EtCUF6shKanGZJ2ZIEniwGlbnjCpNoqGES2e05ISesr7b2QGgdghrs84U19_gvCSUBfuXHWBeR2e00myvXzadQwtfoCNLTI6S4wcGy0hC5L-g_ybkj7UI_0XybmNJ6PeVdEE_l-UOdEyjJ4Tm689tQQe55GbhUy-sJuikDJiOMdBVRw8zM&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESkAEB6zswFUKAFylr-EtCUF6shKanGZJ2ZIEniwGlbnjCpNoqGES2e05ISesr7b2QGgdghrs84U19_gvCSUBfuXHWBeR2e00myvXzadQwtfoCNLTI6S4wcGy0hC5L-g_ybkj7UI_0XybmNJ6PeVdEE_l-UOdEyjJ4Tm689tQQe55GbhUy-sJuikDJiOMdBVRw8zM",
+   "source": "La Porte Community School Corporation",
+   "read_more_link": "https://www.lpcsc.k12.in.us/en-US/school-performance-report-laporte-high-school-f719af86#:~:text=LaPorte%20High%20School&text=La%20Porte%20Community%20School%20Corp&text=La%20Porte%20Community%20School%20Corp&text=La%20Porte%20Community%20School%20Corp&text=La%20Porte%20Community%20School%20Corp&text=La%20Porte%20Community%20School%20Corp&text=%248%2C035.68%20per%20pupil"
+  },
+  {
+   "position": 8,
+   "title": "Laporte High School in La Porte, IN",
+   "link": "https://www.niche.com/k12/laporte-high-school-laporte-in/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScQHrOzAVNoV3CckRPOek0Zhlq6iRsID-_7hD-bFkGgqKeI4yJ5_Trb6ySXZio6ZjEywumcoSY3gB7X_TkFDfFT00wF2PiNkAwfkmABKxO7i0965oA74IzbFvSmwp-uYfUO5Vk7xFp3ZlaEzKFubulJ4I&ved=2ahUKEwiE_Lax6eSWAxVXxgIHHeaICBsQFnoECEoQAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a Indiana",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png",
+   "snippet": "Laporte High School is an above average, public school located in LAPORTE, IN. It has 1,807 students in grades PK, K-12 with a student-teacher ratio of 16 ...",
+   "snippet_highlighted_words": [
+    "Laporte High School"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 3.6,
+      "reviews": 342
+     },
+     "extensions": [
+      "3.6(342)"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Laporte High School is an above average, public school located in LAPORTE, IN. It has 1,807 students in grades PK, K-12 with a student-teacher ratio of 16 ...",
+     "source_info_link": "https://www.niche.com/k12/laporte-high-school-laporte-in/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEScQHrOzAVNoV3CckRPOek0Zhlq6iRsID-_7hD-bFkGgqKeI4yJ5_Trb6ySXZio6ZjEywumcoSY3gB7X_TkFDfFT00wF2PiNkAwfkmABKxO7i0965oA74IzbFvSmwp-uYfUO5Vk7xFp3ZlaEzKFubulJ4I&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEScQHrOzAVNoV3CckRPOek0Zhlq6iRsID-_7hD-bFkGgqKeI4yJ5_Trb6ySXZio6ZjEywumcoSY3gB7X_TkFDfFT00wF2PiNkAwfkmABKxO7i0965oA74IzbFvSmwp-uYfUO5Vk7xFp3ZlaEzKFubulJ4I",
+   "source": "Niche",
+   "read_more_link": "https://www.niche.com/k12/laporte-high-school-laporte-in/#:~:text=Laporte%20High%20School%20is%20an,ratio%20of%2016%20to%201."
+  },
+  {
+   "position": 9,
+   "title": "Driving directions to LaPorte High School, 602 F St, La Porte",
+   "link": "https://www.waze.com/live-map/directions/us/in/la-porte/laporte-high-school?to=place.ChIJ_X2SimYSEYgRUBnA_4pLTeU",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESqAEB6zswFUSiSuMeb_j3YrlH-WmDC8KqY-yX4ZlqOcXTTXKCTz9nuttlb7l3RV0hG6ET7jJYWLKMGHrTiJ9oRJbFuPr5ju4nTrZivnZAwm646EWNUmhEoeL-KoL_J51DuhfJjBM-SBDjp46dSvb8ct5rGP6VkVez6m0HzIYpIQbw53j0NI4JAndJCEjaE7meF-C4FbOGY2TB8Dc9Y-1iubNSSVHvL97iXMs&ved=2ahUKEwiE_Lax6eSWAxVXxgIHHeaICBsQFnoFCIYBEAE&uoh=1",
+   "displayed_link": "https://www.waze.com \u203a live-map \u203a laporte-high-school",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAnFBMVEX___8AAAAAAAAAAAAAAAAAAAAAAAAAAAAGBgYkJCQPDw8AAAAAAAAAAAARERGHh4ff39_____v7--bm5ssLCy_v78dHR0AAAAAAABAQEBjY2NTU1MvLy8AAACLi4sAAACPj4_Pz89eXl4vLy9fX18PDw-vr69vb28AAAA_Pz-fn59_f39PT08fHx8fHx9PT093d3cAAACsrKw9PT2OeT7UAAAANHRSTlMAMJDQ_-CgUPbg7nAQsPDu____9uj_6_Bg6-vt60D3IP__5P______wP___-j_7f_wgPXnWPjZAAAAAVBJREFUeAGVkwVyxDAQBA1thngVhmNm-v_fUluW6zjQB4ZpseSc4no-ShBGzg2iAIiTJEnVyS7jvIDyoRLFPD6B757XHlA-ypHnF17fTvNX3o2c8QFHIw_4lEseeXUbIeRLrvnAt3mL2MgNXrBjKWjLLZ4JHKVDLDWmK5ZeT_-fiFTI6Nt8wNDmo5Eaj4R1F8ciSjViYESZwERL1G1MMU3Fs-ZuWFeVosIrco8EFfiHYKShuinMR1XTh4EosQo5qVgWzSjmjPSm0snu-CzFYgasxiLVEOb6_IDnBLA2cjRQGM1FKXEdLtZhvlkxm1R2wQOdpa3cwZS6FC705DbvTHWQO-LbxidBbrdTvBdzAJbmGJuv444L4X2Nctx47Rg_Px6ZVyxjDc24H0OheUPuc4V28Mj0NyFDQcfdoiY7psc2psfaXvPrs0uY623uqdoM8RsjPzADs0ZfiwAAAABJRU5ErkJggg.png",
+   "snippet": "LaPorte High School. 602 F St, La Porte, IN 46350, USA. (219) 362-3102 \u00b7 lphs.lpcsc.k12.in.us. Closed now. Monday07:00 - 15:30. Tuesday07:00 - 15:30. Wednesday ...",
+   "snippet_highlighted_words": [
+    "LaPorte High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "LaPorte High School. 602 F St, La Porte, IN 46350, USA. (219) 362-3102 \u00b7 lphs.lpcsc.k12.in.us. Closed now. Monday07:00 - 15:30. Tuesday07:00 - 15:30. Wednesday ...",
+     "source_info_link": "https://www.waze.com/live-map/directions/us/in/la-porte/laporte-high-school?to=place.ChIJ_X2SimYSEYgRUBnA_4pLTeU",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAnFBMVEX___8AAAAAAAAAAAAAAAAAAAAAAAAAAAAGBgYkJCQPDw8AAAAAAAAAAAARERGHh4ff39_____v7--bm5ssLCy_v78dHR0AAAAAAABAQEBjY2NTU1MvLy8AAACLi4sAAACPj4_Pz89eXl4vLy9fX18PDw-vr69vb28AAAA_Pz-fn59_f39PT08fHx8fHx9PT093d3cAAACsrKw9PT2OeT7UAAAANHRSTlMAMJDQ_-CgUPbg7nAQsPDu____9uj_6_Bg6-vt60D3IP__5P______wP___-j_7f_wgPXnWPjZAAAAAVBJREFUeAGVkwVyxDAQBA1thngVhmNm-v_fUluW6zjQB4ZpseSc4no-ShBGzg2iAIiTJEnVyS7jvIDyoRLFPD6B757XHlA-ypHnF17fTvNX3o2c8QFHIw_4lEseeXUbIeRLrvnAt3mL2MgNXrBjKWjLLZ4JHKVDLDWmK5ZeT_-fiFTI6Nt8wNDmo5Eaj4R1F8ciSjViYESZwERL1G1MMU3Fs-ZuWFeVosIrco8EFfiHYKShuinMR1XTh4EosQo5qVgWzSjmjPSm0snu-CzFYgasxiLVEOb6_IDnBLA2cjRQGM1FKXEdLtZhvlkxm1R2wQOdpa3cwZS6FC705DbvTHWQO-LbxidBbrdTvBdzAJbmGJuv444L4X2Nctx47Rg_Px6ZVyxjDc24H0OheUPuc4V28Mj0NyFDQcfdoiY7psc2psfaXvPrs0uY623uqdoM8RsjPzADs0ZfiwAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESqAEB6zswFUSiSuMeb_j3YrlH-WmDC8KqY-yX4ZlqOcXTTXKCTz9nuttlb7l3RV0hG6ET7jJYWLKMGHrTiJ9oRJbFuPr5ju4nTrZivnZAwm646EWNUmhEoeL-KoL_J51DuhfJjBM-SBDjp46dSvb8ct5rGP6VkVez6m0HzIYpIQbw53j0NI4JAndJCEjaE7meF-C4FbOGY2TB8Dc9Y-1iubNSSVHvL97iXMs&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESqAEB6zswFUSiSuMeb_j3YrlH-WmDC8KqY-yX4ZlqOcXTTXKCTz9nuttlb7l3RV0hG6ET7jJYWLKMGHrTiJ9oRJbFuPr5ju4nTrZivnZAwm646EWNUmhEoeL-KoL_J51DuhfJjBM-SBDjp46dSvb8ct5rGP6VkVez6m0HzIYpIQbw53j0NI4JAndJCEjaE7meF-C4FbOGY2TB8Dc9Y-1iubNSSVHvL97iXMs",
+   "source": "Waze",
+   "read_more_link": "https://www.waze.com/live-map/directions/us/in/la-porte/laporte-high-school?to=place.ChIJ_X2SimYSEYgRUBnA_4pLTeU#:~:text=LaPorte%20High%20School,Wednesday07%3A00%20%2D%2015%3A30"
+  },
+  {
+   "position": 10,
+   "title": "LaPorte High School",
+   "link": "https://indianagps.doe.in.gov/summary/school/4013",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVfAuMjVKYShKspp7_tiTQGfXQ3wHSOFrosKruxw7JuSe4wPBJzMaXC87iR4VTpu2ER3l-uQ57eMZHvn1nEPvwWk8OqrHm_kYX5w3aoEWhx9_UeRohRnxWcNaTAmgdGma6yjKWNQ&ved=2ahUKEwiE_Lax6eSWAxVXxgIHHeaICBsQFnoFCIUBEAE&uoh=1",
+   "displayed_link": "https://indianagps.doe.in.gov \u203a summary \u203a school",
+   "favicon": "https://serpapi.com/searches/6aa30f1f7d6e704306698818/images/h1BMZdG83tRSdsItzT3hoTKqpCCZgrMJlBFbsGQdoSw.png",
+   "snippet": "LaPorte High School. Add to Favorites. 602 'F' St, LaPorte, IN 46350; \u2022(219) 362-3102; \u2022 Website; \u2022 School Performance Report; \u2022 View on Map; \u2022 Federal Report ...",
+   "snippet_highlighted_words": [
+    "LaPorte High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "LaPorte High School. Add to Favorites. 602 'F' St, LaPorte, IN 46350; \u2022(219) 362-3102; \u2022 Website; \u2022 School Performance Report; \u2022 View on Map; \u2022 Federal Report ...",
+     "source_info_link": "https://indianagps.doe.in.gov/summary/school/4013",
+     "icon": "https://serpapi.com/searches/6aa30f1f7d6e704306698818/images/h1BMZdG83tRSdsItzT3hoUcFNh-C4skCHDrGSfiDe1j7JMgsm1GQOqMPm1PQohgU.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESaQHrOzAVfAuMjVKYShKspp7_tiTQGfXQ3wHSOFrosKruxw7JuSe4wPBJzMaXC87iR4VTpu2ER3l-uQ57eMZHvn1nEPvwWk8OqrHm_kYX5w3aoEWhx9_UeRohRnxWcNaTAmgdGma6yjKWNQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESaQHrOzAVfAuMjVKYShKspp7_tiTQGfXQ3wHSOFrosKruxw7JuSe4wPBJzMaXC87iR4VTpu2ER3l-uQ57eMZHvn1nEPvwWk8OqrHm_kYX5w3aoEWhx9_UeRohRnxWcNaTAmgdGma6yjKWNQ",
+   "source": "Indiana Graduates Prepared to Succeed (GPS) (.gov)",
+   "read_more_link": "https://indianagps.doe.in.gov/summary/school/4013#:~:text=LaPorte%20High%20School,Federal%20Report%20Card"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Laporte high school indiana football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Laporte+high+school+indiana+football&sa=X&ved=2ahUKEwiE_Lax6eSWAxVXxgIHHeaICBsQ1QJ6BQiAARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Laporte+high+school+indiana+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Laporte high school indiana basketball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Laporte+high+school+indiana+basketball&sa=X&ved=2ahUKEwiE_Lax6eSWAxVXxgIHHeaICBsQ1QJ6BQiCARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Laporte+high+school+indiana+basketball"
+  },
+  {
+   "block_position": 1,
+   "query": "Laporte high school indiana yearbook",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Laporte+high+school+indiana+yearbook&sa=X&ved=2ahUKEwiE_Lax6eSWAxVXxgIHHeaICBsQ1QJ6BAh_EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Laporte+high+school+indiana+yearbook"
+  },
+  {
+   "block_position": 1,
+   "query": "Laporte high school website",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Laporte+high+school+website&sa=X&ved=2ahUKEwiE_Lax6eSWAxVXxgIHHeaICBsQ1QJ6BQiEARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Laporte+high+school+website"
+  },
+  {
+   "block_position": 1,
+   "query": "Laporte high school indiana baseball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Laporte+high+school+indiana+baseball&sa=X&ved=2ahUKEwiE_Lax6eSWAxVXxgIHHeaICBsQ1QJ6BQiDARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Laporte+high+school+indiana+baseball"
+  },
+  {
+   "block_position": 1,
+   "query": "Laporte High School Calendar",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Laporte+High+School+Calendar&sa=X&ved=2ahUKEwiE_Lax6eSWAxVXxgIHHeaICBsQ1QJ6BQiBARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Laporte+High+School+Calendar"
+  },
+  {
+   "block_position": 1,
+   "query": "LaPorte High School photos",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=LaPorte+High+School+photos&sa=X&ved=2ahUKEwiE_Lax6eSWAxVXxgIHHeaICBsQ1QJ6BAh-EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=LaPorte+High+School+photos"
+  },
+  {
+   "block_position": 1,
+   "query": "LaPorte high school Athletics",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=LaPorte+high+school+Athletics&sa=X&ved=2ahUKEwiE_Lax6eSWAxVXxgIHHeaICBsQ1QJ6BAh9EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=LaPorte+high+school+Athletics"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Laporte+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=Kg-jaoS_LNeMi-gP5pGi2AE&start=10&sa=N&sstk=AS6-VmKsMXGG_vXKGT3TIEQH3r3YwcsrT5m8IjlL5vb5ixYhLGULa32HagxvocbNAOaKGrWQG89cur9-9yQZ2mleUyxcX3bmyBNZjA&ved=2ahUKEwiE_Lax6eSWAxVXxgIHHeaICBsQ8NMDegQIdxAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Laporte+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=Kg-jaoS_LNeMi-gP5pGi2AE&start=10&sa=N&sstk=AS6-VmKsMXGG_vXKGT3TIEQH3r3YwcsrT5m8IjlL5vb5ixYhLGULa32HagxvocbNAOaKGrWQG89cur9-9yQZ2mleUyxcX3bmyBNZjA&ved=2ahUKEwiE_Lax6eSWAxVXxgIHHeaICBsQ8tMDegQIdxAE",
+   "3": "https://www.google.com/search?q=%22Laporte+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=Kg-jaoS_LNeMi-gP5pGi2AE&start=20&sa=N&sstk=AS6-VmKsMXGG_vXKGT3TIEQH3r3YwcsrT5m8IjlL5vb5ixYhLGULa32HagxvocbNAOaKGrWQG89cur9-9yQZ2mleUyxcX3bmyBNZjA&ved=2ahUKEwiE_Lax6eSWAxVXxgIHHeaICBsQ8tMDegQIdxAG",
+   "4": "https://www.google.com/search?q=%22Laporte+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=Kg-jaoS_LNeMi-gP5pGi2AE&start=30&sa=N&sstk=AS6-VmKsMXGG_vXKGT3TIEQH3r3YwcsrT5m8IjlL5vb5ixYhLGULa32HagxvocbNAOaKGrWQG89cur9-9yQZ2mleUyxcX3bmyBNZjA&ved=2ahUKEwiE_Lax6eSWAxVXxgIHHeaICBsQ8tMDegQIdxAI",
+   "5": "https://www.google.com/search?q=%22Laporte+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=Kg-jaoS_LNeMi-gP5pGi2AE&start=40&sa=N&sstk=AS6-VmKsMXGG_vXKGT3TIEQH3r3YwcsrT5m8IjlL5vb5ixYhLGULa32HagxvocbNAOaKGrWQG89cur9-9yQZ2mleUyxcX3bmyBNZjA&ved=2ahUKEwiE_Lax6eSWAxVXxgIHHeaICBsQ8tMDegQIdxAK",
+   "6": "https://www.google.com/search?q=%22Laporte+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=Kg-jaoS_LNeMi-gP5pGi2AE&start=50&sa=N&sstk=AS6-VmKsMXGG_vXKGT3TIEQH3r3YwcsrT5m8IjlL5vb5ixYhLGULa32HagxvocbNAOaKGrWQG89cur9-9yQZ2mleUyxcX3bmyBNZjA&ved=2ahUKEwiE_Lax6eSWAxVXxgIHHeaICBsQ8tMDegQIdxAM",
+   "7": "https://www.google.com/search?q=%22Laporte+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=Kg-jaoS_LNeMi-gP5pGi2AE&start=60&sa=N&sstk=AS6-VmKsMXGG_vXKGT3TIEQH3r3YwcsrT5m8IjlL5vb5ixYhLGULa32HagxvocbNAOaKGrWQG89cur9-9yQZ2mleUyxcX3bmyBNZjA&ved=2ahUKEwiE_Lax6eSWAxVXxgIHHeaICBsQ8tMDegQIdxAO",
+   "8": "https://www.google.com/search?q=%22Laporte+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=Kg-jaoS_LNeMi-gP5pGi2AE&start=70&sa=N&sstk=AS6-VmKsMXGG_vXKGT3TIEQH3r3YwcsrT5m8IjlL5vb5ixYhLGULa32HagxvocbNAOaKGrWQG89cur9-9yQZ2mleUyxcX3bmyBNZjA&ved=2ahUKEwiE_Lax6eSWAxVXxgIHHeaICBsQ8tMDegQIdxAQ",
+   "9": "https://www.google.com/search?q=%22Laporte+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=Kg-jaoS_LNeMi-gP5pGi2AE&start=80&sa=N&sstk=AS6-VmKsMXGG_vXKGT3TIEQH3r3YwcsrT5m8IjlL5vb5ixYhLGULa32HagxvocbNAOaKGrWQG89cur9-9yQZ2mleUyxcX3bmyBNZjA&ved=2ahUKEwiE_Lax6eSWAxVXxgIHHeaICBsQ8tMDegQIdxAS",
+   "10": "https://www.google.com/search?q=%22Laporte+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=Kg-jaoS_LNeMi-gP5pGi2AE&start=90&sa=N&sstk=AS6-VmKsMXGG_vXKGT3TIEQH3r3YwcsrT5m8IjlL5vb5ixYhLGULa32HagxvocbNAOaKGrWQG89cur9-9yQZ2mleUyxcX3bmyBNZjA&ved=2ahUKEwiE_Lax6eSWAxVXxgIHHeaICBsQ8tMDegQIdxAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Laporte+High+School%22+Indiana&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Laporte+High+School%22+Indiana&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Laporte+High+School%22+Indiana&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Laporte+High+School%22+Indiana&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Laporte+High+School%22+Indiana&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Laporte+High+School%22+Indiana&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Laporte+High+School%22+Indiana&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Laporte+High+School%22+Indiana&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Laporte+High+School%22+Indiana&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Laporte+High+School%22+Indiana&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Laporte+High+School%22+Indiana&start=90"
+  }
+ }
+}

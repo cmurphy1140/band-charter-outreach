@@ -1,0 +1,495 @@
+{
+ "search_information": {
+  "query_displayed": "\"Etiwanda High School\" California",
+  "total_results": 159000,
+  "time_taken_displayed": 0.36,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Etiwanda High School",
+  "type": "Public school in Rancho Cucamonga, California",
+  "entity_type": "local_nav",
+  "kgmid": "/m/027mjjn",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/027mjjn&hl=en-US&q=Etiwanda+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F027mjjn&q=Etiwanda+High+School",
+  "place_id": "ChIJC7tV1YVJw4ARTKOVR5ueirY",
+  "website": "https://ehs.cjuhsd.net/",
+  "description": "Etiwanda High School is a public high school in Rancho Cucamonga, California, United States. It is one of the twelve schools of the Chaffey Joint Union High School District and serves students in the Etiwanda community on the northeast side of Rancho Cucamonga.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa30e0b2088af4472f2e059/images/2gCnhNaw4esgkBGJHheTQ5OA3HbGnFOycXh4qVNza70.webp",
+   "link": "https://www.google.com/maps/place/Etiwanda+High+School/data=!4m2!3m1!1s0x0:0xb68a9e9b4795a34c?sa=X&ved=2ahUKEwj2_dGt6OSWAxXCERAIHeDIPMMQ_BJ6BAgPEAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Etiwanda_High_School"
+  },
+  "address": "13500 Victoria St, Rancho Cucamonga, CA 91739",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=etiwanda+high+school+address&ludocid=13153500051447063372&sa=X&ved=2ahUKEwj2_dGt6OSWAxXCERAIHeDIPMMQ6BN6BAggEAI"
+   }
+  ],
+  "colors": "Black, Red, Gold",
+  "colors_links": [
+   {
+    "text": "Black",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpraX69jV5X33UKfb-qjUYOsjWjX7nO47WTc3bfTI9Y65gu-UK_salXs_ocbguR_DOxVL5gvdm2Szzo60VynB66i4GLaVu4V6uG9ZGyHy3hfCw1Un6g9iwwNs4ESrA2hlMKb22j2M9Ei-R_WJk3tM7SfVtxGDdI58Jv6pWdCtFoMObraxWldlmffwchD50WWbuceeHmY%3D&sa=X&ved=2ahUKEwj2_dGt6OSWAxXCERAIHeDIPMMQmxN6BAglEAI"
+   },
+   {
+    "text": "Red",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpjNbArDbgyagyg3CUfYVsFiq9ynkgymVOF7Wu4b34mlI6rFC0FBVbF2ratwq9xM0sdqw6yW9HpSyupP-bgS6LCvB3-l7kvm25qdNbsYWhv0nsHcbFaFn8KQwFwXLGqOCeUyBnUMgLLXohJfKOeXZZ2J2REFW9hYFKCCosyUTN3mNwdkaNqc9l1opIr5b39iOTvyhquk%3D&sa=X&ved=2ahUKEwj2_dGt6OSWAxXCERAIHeDIPMMQmxN6BAglEAM"
+   },
+   {
+    "text": "Gold",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yVTSUpKThlWoIKPxeFqYth2SIDLoP0njeJsXuUgA4WpFfmsENK-5ieRmPs4CMM_DiDPjpkq2QXdA4C-vsHXrtL0IAUcMLDDG3HtC_l1mYTaMnOyGMNdEBbMPrG6TGfSlxBBNTq-GW25iyWoU8UhotEgx4lC-5S5HOttUvwItHEerFbHIZgrRBEGlXrPoo8u8CnCr1DY%3D&sa=X&ved=2ahUKEwj2_dGt6OSWAxXCERAIHeDIPMMQmxN6BAglEAQ"
+   }
+  ],
+  "founded": "1983",
+  "mascot": "Etiwanda Eagle",
+  "mascot_links": [
+   {
+    "text": "Etiwanda Eagle",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67wL95X5X9xeY-MoSFgHXYZYAqJnLSwvp49gTpqgJFwCXxAXV-L_g_boIltcFrql11Nqz76gfdLHqmtm7ULn7ZMYzKlJFJSUZbttbGXhc79fkigKTszK1YPRSfxwSJiOhd0B4zUtQBwUF6D94ACwhs1qYrfGB&sa=X&ved=2ahUKEwj2_dGt6OSWAxXCERAIHeDIPMMQmxN6BAgoEAI"
+   }
+  ],
+  "phone": "(909) 899-2531",
+  "raw_hours": "Open \u00b7 Closes 3 - 20 PM",
+  "hours": {
+   "thursday": {
+    "opens": "8:30\u202fAM",
+    "closes": "3:20\u202fPM"
+   },
+   "friday": {
+    "opens": "9:30\u202fAM",
+    "closes": "3:20\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "8:30\u202fAM",
+    "closes": "3:20\u202fPM"
+   },
+   "tuesday": {
+    "opens": "8:30\u202fAM",
+    "closes": "3:20\u202fPM"
+   },
+   "wednesday": {
+    "opens": "8:30\u202fAM",
+    "closes": "3:20\u202fPM"
+   }
+  },
+  "unclaimed_listing": true,
+  "people_also_search_for": [
+   {
+    "name": "Los Osos High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmBYeTwtG5dBkjDziUHiG9ftfGg0eHRjPFo_08qifgq3_H56VnjLluW2q3cv7lj6GlMaHMz4ZAg9D7iomJq6UoQhRVGUiKFVaRfz4smyaDd9m2gFSP74U-7pGtfHss_QoxuXBG4=w204-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ySJEkbGi77ciWBWkOclYm1EOCSdrE6Sb-BW1257P9q-fQ8omPx-lU-x8WWb7FqGUzi0t9rEZk_qj4gQYutvYWGE3eCTMg3veya3Ta9MngEOhxzR5lmqfDgOHmPQ7GoZFrVmdBcxXYZUby-_pmDdTG36IVB23ixBANVH-rfZLn5oTf96gxNiT6sFO5hFQS45ogOrAZndq3vPxsHIJAI_xRnqLcHLlstid20K4ZopT0csEUUHUDhyI7AVbeX-jEyf4hbPNQVSB0cAMxEkb5fxDbu81tQ16&q=Los+Osos+High+School&sa=X&ved=2ahUKEwj2_dGt6OSWAxXCERAIHeDIPMMQs9oBKAB6BAgfEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Los+Osos+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ySJEkbGi77ciWBWkOclYm1EOCSdrE6Sb-BW1257P9q-fQ8omPx-lU-x8WWb7FqGUzi0t9rEZk_qj4gQYutvYWGE3eCTMg3veya3Ta9MngEOhxzR5lmqfDgOHmPQ7GoZFrVmdBcxXYZUby-_pmDdTG36IVB23ixBANVH-rfZLn5oTf96gxNiT6sFO5hFQS45ogOrAZndq3vPxsHIJAI_xRnqLcHLlstid20K4ZopT0csEUUHUDhyI7AVbeX-jEyf4hbPNQVSB0cAMxEkb5fxDbu81tQ16"
+   },
+   {
+    "name": "Rancho Cucamonga High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmTJlkDtM6uwxzKzgmo0oWflB4MNTaNR6CPdlVJFDK5OGyTOuLSk_BcqynJQoF3j9COBT7flOowW444sx8CMAz46QymQWmUAF7xwYbFhAEkqjYoL6mvg3yFneqrM6twaf9oLw9O=w153-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yXdL-C8DTTYgv8AHvc4nP7DvhFjPjJir6uQJBIUShw9Cco-uN-tmxexYCLqgyzqbedXIRCbfUSzIqABr4NP5TYIi5CWyPTW0LeIovUbcqp5KjEi82E_k5Vh2LS56sauioOTr5J2VSFKf5_xCpPbcUwHohgYyWS6ZpeiZQ8FVjGznagi8A7_-6GlhZuUUpymdkYxpJHU-aVUZ_Qoc4MiVdim9JfPbbqbLfhd-d9e5QUI5pJQKsRIAdF-uFwfLyO0ExPdfWFbEp1ACv_DXp3pxO4LpG_Cu&q=Rancho+Cucamonga+High+School&sa=X&ved=2ahUKEwj2_dGt6OSWAxXCERAIHeDIPMMQs9oBKAB6BAgfEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Rancho+Cucamonga+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yXdL-C8DTTYgv8AHvc4nP7DvhFjPjJir6uQJBIUShw9Cco-uN-tmxexYCLqgyzqbedXIRCbfUSzIqABr4NP5TYIi5CWyPTW0LeIovUbcqp5KjEi82E_k5Vh2LS56sauioOTr5J2VSFKf5_xCpPbcUwHohgYyWS6ZpeiZQ8FVjGznagi8A7_-6GlhZuUUpymdkYxpJHU-aVUZ_Qoc4MiVdim9JfPbbqbLfhd-d9e5QUI5pJQKsRIAdF-uFwfLyO0ExPdfWFbEp1ACv_DXp3pxO4LpG_Cu"
+   },
+   {
+    "name": "Etiwanda",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPhRusCQuQv8qtOvWxz-Bnk1yYD1UzRwxbADBr16lXy-teY11yFhhl&s=0",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67_-PTwHpoyTDnLf9Urqw3DjWUsurXfjkUA4mM_AB15GqEeuqlsIpVLN0gZD6pEDt80-tHn-n6IZmLVtS0HdovpGUOaZNDiPofkv9CJlLRWm_HwrsPVCDAEVQ1se5a8X605LXRRgmK4SvSwM5hWf2vD1YBUcdo2DRLmhDdI2B_bOcBPV91JgkvdNUFMnCGotYNAR6RVoKUl-GIXM4tCV_JWFFEpTJL0hkiAttlcUqkT34ha9e4hcr_l0RUr6jQDO7F2IWjl4%3D&q=Etiwanda&sa=X&ved=2ahUKEwj2_dGt6OSWAxXCERAIHeDIPMMQs9oBKAB6BAgfEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Etiwanda&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67_-PTwHpoyTDnLf9Urqw3DjWUsurXfjkUA4mM_AB15GqEeuqlsIpVLN0gZD6pEDt80-tHn-n6IZmLVtS0HdovpGUOaZNDiPofkv9CJlLRWm_HwrsPVCDAEVQ1se5a8X605LXRRgmK4SvSwM5hWf2vD1YBUcdo2DRLmhDdI2B_bOcBPV91JgkvdNUFMnCGotYNAR6RVoKUl-GIXM4tCV_JWFFEpTJL0hkiAttlcUqkT34ha9e4hcr_l0RUr6jQDO7F2IWjl4%3D"
+   },
+   {
+    "name": "Alta Loma High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnvZkKTy77MuS1a6NPmQXgoP3cwSlv1Yf124Wjre2g3eXxwXsNv9jmH_z0IcIA5ka-cU6GhaQcZk2grJ-fd6vTego_If9rMqyztgYPIq2mH9dOq9ipzWRyuBV4oRjgBt4WxixJc6Q=w172-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yY9XFJ2mZKLbCnoDzhMiPTsgSEB6ovCAbMioB-jYo9r_erM4E5raF7GWwbLZE6taSM1YEwg3tl9AZbIi5qyGyo-fb1RqHZBLPoTADV36yq7cIytoJ2eMSKoYM3dCh2oUere1Lp78B0Up7u9Aa59ot2LbK1-2rFRMezvhuZ0CC7YF6_KLhvJ-rA18Xn8GOwmP5KEpckBHRdhAD6ehM9_S6XVipzGGYq_RYoVTnacBkz_dPUAfCHZdca8xWiyINgpXspbJov6KpkVb7jcLa2lSsIAAlhXS&q=Alta+Loma+High+School&sa=X&ved=2ahUKEwj2_dGt6OSWAxXCERAIHeDIPMMQs9oBKAB6BAgfEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Alta+Loma+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yY9XFJ2mZKLbCnoDzhMiPTsgSEB6ovCAbMioB-jYo9r_erM4E5raF7GWwbLZE6taSM1YEwg3tl9AZbIi5qyGyo-fb1RqHZBLPoTADV36yq7cIytoJ2eMSKoYM3dCh2oUere1Lp78B0Up7u9Aa59ot2LbK1-2rFRMezvhuZ0CC7YF6_KLhvJ-rA18Xn8GOwmP5KEpckBHRdhAD6ehM9_S6XVipzGGYq_RYoVTnacBkz_dPUAfCHZdca8xWiyINgpXspbJov6KpkVb7jcLa2lSsIAAlhXS"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Etiwanda+High+School&stick=H4sIAAAAAAAAAONgFuLSz9U3MDLPzcrKU0JiawkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axCriWpJZnpiXkqjgkZmeoRCcnJGfn7ODlfEWmyTDG4eKwFy-ps4l4YaHWLUXbY5ICrZJD_t-HACHM3-QfAAAAA&sa=X&ved=2ahUKEwj2_dGt6OSWAxXCERAIHeDIPMMQzO0BKAR6BAgfEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLSz9U3MDLPzcrKU0JiawkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axCriWpJZnpiXkqjgkZmeoRCcnJGfn7ODlfEWmyTDG4eKwFy-ps4l4YaHWLUXbY5ICrZJD_t-HACHM3-QfAAAAA",
+  "profiles": [
+   {
+    "name": "YouTube",
+    "link": "https://www.youtube.com/channel/UCoXncprtvkwqsqM6pDCx8Ww",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Etiwanda+High+School%22+California",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAP1BMVEX_____z8__n5__kJD_gID_cHD_YGD_v7__39__ICD_AAD_r6__EBD_7-__oKD_MDD_QED_UFD_X1__j4__f396G04EAAAAhklEQVR4AeXQRQLDQAwDQC3bajj5_1dLYb63czYKf8VY50OcBO9swkyUB_SBkfJQlqOXeKJAz_FEQM9zVCqXInqRIy-RC9W-AJDypgCwyoGiV68LkLJFwX6CVJcr8nBwZJgLXMaDAs9RxsMcLE949IQnEnpoeKjEpC25o12OpVwkTURy_JQX1r4RC2S7kZYAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "X (Twitter)",
+    "link": "https://twitter.com/EHighCC",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Etiwanda+High+School%22+California",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAABhUlEQVR4AczOA6xcARCF4X_us23btuLUQR3WZlhbQW3bto2gtm3b2J3GN4tY74uHh3okOi42Nj4AAUDwTvDEhisABCOAEAzYTBh0bN-lc5d0QgAhHPqX4Y4pkd367Zc-xMcXCPDg8TPwxeQH724Uj9N95GJ4pnHxby1xgCmV3v-GsFb7k0Iee7UjaQgmIYe9v9O4-wUKWaATyMPAViwvr1NnOQWDdTV5CHYSaKWLmaGDyvU4mTgQcllracaFr-9uk-yLM8k8fAJff0IUTghRVFu3M1ynkYk4nchiqqU3Ry05RDibMMhjtj6Ht3dJxVk_l1G64cspOusychBsCWm01WNM0jFs0sbEYUtIIuTXNco588OLh09JxE6wweuXEAvfL9PQus3-iU80N34KCaQyUOcxTTuSjEmMRI5rS9JwIZfD1t7ceo34YIpnuQ4nGwP8XXlq_fJZd9jE8KBHC5IwAELJ7dWrZ6fOuNhkgFgAEEIAwA1MQkw0AgDC_wnKycrKSQ2iPAkAVyNzq8rxicIAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/ehighcheer/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Etiwanda+High+School%22+California",
+    "image": "https://serpapi.com/searches/6aa30e0b2088af4472f2e059/images/2gCnhNaw4esgkBGJHheTQ9NN5obON_ANkTJ4aXsrMLtiENlLBfNVKNUPCl0yWUnc.png"
+   },
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/EHS08Reunion/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Etiwanda+High+School%22+California",
+    "image": "https://serpapi.com/searches/6aa30e0b2088af4472f2e059/images/2gCnhNaw4esgkBGJHheTQ8afm7T2DQ_DoLATmiEfR3i2rnhkpFjTKfq-R-mrnMuz.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "Is Etiwanda High School a good school?",
+   "type": "ai_overview",
+   "page_token": "25Gcr3icHdDRbqowGADg7GV2OSlsLJqYJQo4yCzjhxbamwUKWrUtdXOC3O1d9lTnac7JeYMv38-vOpjTn7urvFzs12I2G4bhYd_3e9U9iF7P6q-bETNRK9XU4rTwn330shPL8Dterc_xKiPW0gCcfAodcOTEjTyApudWzUeqsMxLtM4Qv-b6KcUB3nYBu-BKfhfEcURAblRHu5ygamvU2BnoGx2940L62LCx1GxspuRKS_IIrziF0masoHUbzQ1z6I0UMsmcqN66ySPTzIUQaqxWE_EAkRP6zChdi0D6wqzey4C-FR6u042E0iSbVtthG6qMHrkHHtCGKJNu0PDP7LSGQijbDZ_4mVVcMsKPuWs9EkYZDm3caQTt2B8yApM4Kk1c-4arJC5ccNNyDl0VIxHsh8rlpn1VfhNanw_3O3Fdevf_P5cfO31Z2M9-_xfL8IOK",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=25Gcr3icHdDRbqowGADg7GV2OSlsLJqYJQo4yCzjhxbamwUKWrUtdXOC3O1d9lTnac7JeYMv38-vOpjTn7urvFzs12I2G4bhYd_3e9U9iF7P6q-bETNRK9XU4rTwn330shPL8Dterc_xKiPW0gCcfAodcOTEjTyApudWzUeqsMxLtM4Qv-b6KcUB3nYBu-BKfhfEcURAblRHu5ygamvU2BnoGx2940L62LCx1GxspuRKS_IIrziF0masoHUbzQ1z6I0UMsmcqN66ySPTzIUQaqxWE_EAkRP6zChdi0D6wqzey4C-FR6u042E0iSbVtthG6qMHrkHHtCGKJNu0PDP7LSGQijbDZ_4mVVcMsKPuWs9EkYZDm3caQTt2B8yApM4Kk1c-4arJC5ccNNyDl0VIxHsh8rlpn1VfhNanw_3O3Fdevf_P5cfO31Z2M9-_xfL8IOK",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlMzZHNNRlp4YkY5VGRHaFNaV042YjBwdU5YUnViSGd6YVhCVk9HeDJTRWt5Ym5OYVVHVmhhMDFLUjNWSWEzWk9kMnQzTWxOSk1tRm9iemxFZFRoaGExcFZXRFJuUm5ZMGRUQkNiWE50VlVjd1RGQXpTRjlRU0haNlVSSVhSbWMyYW1GMllXRkdZMHRxZDFCQlVEUktTSHB0VVhjYUlrRkVjM0k1WmxGNFIxTlFVREJ4WDIxSVRXTk5aak14YUVrelFYSm5Obk15VVVFIiwiZmN2IjoiMyIsImVpIjoiRmc2amF2YWFGY0tqd1BBUDRKSHptUXciLCJxYyI6IkNoOWxkR2wzWVc1a1lTQm9hV2RvSUhOamFHOXZiQ0JqWVd4cFptOXlibWxoRUFCOXNoZ3dQdyIsInF1ZXN0aW9uIjoiSXMgRXRpd2FuZGEgSGlnaCBTY2hvb2wgYSBnb29kIHNjaG9vbD8iLCJsayI6ImM1TlN6U3hXU0MzSkxFX01TMGxVeU1oTXoxQW9UczdJejg5UlNGUkl6ODlQZ2ZJQSIsImJzIjoiYzNYT3ZRckNNQlFGWUZ6djVKekZLOWk2U2wtZ1dDam9vb2hEQjZkcmMyMkNOU2xKc1BqMjB1TFBrbzRIUHM0NWNJSjA3N0VNdWljakNYZTZVWGl1bGJVdEVqYldTdlJqeXJPMVNMUkhfa28xU0ItUmNJRk5wWFN0OEZCc3NXdnB4YzRqaGNCR3NveE9qZVhtU2o5OWNfWVJuWUlTY09wdjVfU1RBdWZaVWl5bW5uNE1IQ0dwRkR0R2FYbWl6cEc1NTFrcVZ2MGZSanNIT0otOUFRIiwiaWQiOiJmY19GZzZqYXZhYUZjS2p3UEFQNEpIem1Rd181In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlMzZHNNRlp4YkY5VGRHaFNaV042YjBwdU5YUnViSGd6YVhCVk9HeDJTRWt5Ym5OYVVHVmhhMDFLUjNWSWEzWk9kMnQzTWxOSk1tRm9iemxFZFRoaGExcFZXRFJuUm5ZMGRUQkNiWE50VlVjd1RGQXpTRjlRU0haNlVSSVhSbWMyYW1GMllXRkdZMHRxZDFCQlVEUktTSHB0VVhjYUlrRkVjM0k1WmxGNFIxTlFVREJ4WDIxSVRXTk5aak14YUVrelFYSm5Obk15VVVFIiwiZmN2IjoiMyIsImVpIjoiRmc2amF2YWFGY0tqd1BBUDRKSHptUXciLCJxYyI6IkNoOWxkR2wzWVc1a1lTQm9hV2RvSUhOamFHOXZiQ0JqWVd4cFptOXlibWxoRUFCOXNoZ3dQdyIsInF1ZXN0aW9uIjoiSXMgRXRpd2FuZGEgSGlnaCBTY2hvb2wgYSBnb29kIHNjaG9vbD8iLCJsayI6ImM1TlN6U3hXU0MzSkxFX01TMGxVeU1oTXoxQW9UczdJejg5UlNGUkl6ODlQZ2ZJQSIsImJzIjoiYzNYT3ZRckNNQlFGWUZ6djVKekZLOWk2U2wtZ1dDam9vb2hEQjZkcmMyMkNOU2xKc1BqMjB1TFBrbzRIUHM0NWNJSjA3N0VNdWljakNYZTZVWGl1bGJVdEVqYldTdlJqeXJPMVNMUkhfa28xU0ItUmNJRk5wWFN0OEZCc3NXdnB4YzRqaGNCR3NveE9qZVhtU2o5OWNfWVJuWUlTY09wdjVfU1RBdWZaVWl5bW5uNE1IQ0dwRkR0R2FYbWl6cEc1NTFrcVZ2MGZSanNIT0otOUFRIiwiaWQiOiJmY19GZzZqYXZhYUZjS2p3UEFQNEpIem1Rd181In0%3D"
+  },
+  {
+   "question": "Which NBA players attended Etiwanda High School?",
+   "type": "ai_overview",
+   "page_token": "1qB1XXicHdDBToMwAIDh-DIeHdBN45LFyGiZU2paaDt6MdBuQ9qOTomw3XwFn8Gn8mk0Xv_b939-29eD-bn4avrev88nk2EYrvZdt7fbK9W5SfV-OqiJqqytK2Xm1zfX4d1OLeCHipdvKibMe57QoED-WBjt9ApGsuUyP7OAtvdj5da9ZuOyDPyzQBbVhW1kEU_rFiEGMReccuLGVBiN8FnimnNQREHEUrQqTkGfJet1yWXPIs4UG4M6aDoC7LFYyScN1UlbSZXNABG4rJJsunX7HjvtNhEMN6FFGMkpCzXixtPczE55Omt5eltlRnqK4pEEZhTJGhAnHys2Wwrjm22ix1L0Bhc8I06FKtQAW5-rgzSlmHHY6FSe5bHcyKZkss0jDxhEBEP_sHUh1WP3Shg9q9Y6loex5DDaRHQpgQd_ra2RHfifpxYeMxA_6eFypz4W4PL_9eJl5_q5f-v2v8HHjUo",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=1qB1XXicHdDBToMwAIDh-DIeHdBN45LFyGiZU2paaDt6MdBuQ9qOTomw3XwFn8Gn8mk0Xv_b939-29eD-bn4avrev88nk2EYrvZdt7fbK9W5SfV-OqiJqqytK2Xm1zfX4d1OLeCHipdvKibMe57QoED-WBjt9ApGsuUyP7OAtvdj5da9ZuOyDPyzQBbVhW1kEU_rFiEGMReccuLGVBiN8FnimnNQREHEUrQqTkGfJet1yWXPIs4UG4M6aDoC7LFYyScN1UlbSZXNABG4rJJsunX7HjvtNhEMN6FFGMkpCzXixtPczE55Omt5eltlRnqK4pEEZhTJGhAnHys2Wwrjm22ix1L0Bhc8I06FKtQAW5-rgzSlmHHY6FSe5bHcyKZkss0jDxhEBEP_sHUh1WP3Shg9q9Y6loex5DDaRHQpgQd_ra2RHfifpxYeMxA_6eFypz4W4PL_9eJl5_q5f-v2v8HHjUo",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlMzZHNNRlp4YkY5VGRHaFNaV042YjBwdU5YUnViSGd6YVhCVk9HeDJTRWt5Ym5OYVVHVmhhMDFLUjNWSWEzWk9kMnQzTWxOSk1tRm9iemxFZFRoaGExcFZXRFJuUm5ZMGRUQkNiWE50VlVjd1RGQXpTRjlRU0haNlVSSVhSbWMyYW1GMllXRkdZMHRxZDFCQlVEUktTSHB0VVhjYUlrRkVjM0k1WmxGNFIxTlFVREJ4WDIxSVRXTk5aak14YUVrelFYSm5Obk15VVVFIiwiZmN2IjoiMyIsImVpIjoiRmc2amF2YWFGY0tqd1BBUDRKSHptUXciLCJxYyI6IkNoOWxkR2wzWVc1a1lTQm9hV2RvSUhOamFHOXZiQ0JqWVd4cFptOXlibWxoRUFCOXNoZ3dQdyIsInF1ZXN0aW9uIjoiV2hpY2ggTkJBIHBsYXllcnMgYXR0ZW5kZWQgRXRpd2FuZGEgSGlnaCBTY2hvb2w/IiwibGsiOiJHaVZ1WW1FZ2NHeGhlV1Z5Y3lCbWNtOXRJR1YwYVhkaGJtUmhJR2hwWjJnZ2MyTm9iMjlzIiwiYnMiOiJjM1hPdlFyQ01CUUZZRnp2NUp6Rks5aTZTbC1nV0Nqb29vaERCNmRyYzIyQ05TbEpzUGoyMHVMUGtvNEhQczQ1Y0lKMDc3RU11aWNqQ1hlNlVYaXVsYlV0RWpiV1N2Ump5ck8xU0xSSF9rbzFTQi1SY0lGTnBYU3Q4RkJzc1d2cHhjNGpoY0JHc294T2plWG1Tajk5Y19ZUm5ZSVNjT3B2NV9TVEF1ZlpVaXltbm40TUhDR3BGRHRHYVhtaXpwRzU1MWtxVnYwZlJqc0hPSi05QVEiLCJpZCI6ImZjX0ZnNmphdmFhRmNLandQQVA0Skh6bVF3XzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlMzZHNNRlp4YkY5VGRHaFNaV042YjBwdU5YUnViSGd6YVhCVk9HeDJTRWt5Ym5OYVVHVmhhMDFLUjNWSWEzWk9kMnQzTWxOSk1tRm9iemxFZFRoaGExcFZXRFJuUm5ZMGRUQkNiWE50VlVjd1RGQXpTRjlRU0haNlVSSVhSbWMyYW1GMllXRkdZMHRxZDFCQlVEUktTSHB0VVhjYUlrRkVjM0k1WmxGNFIxTlFVREJ4WDIxSVRXTk5aak14YUVrelFYSm5Obk15VVVFIiwiZmN2IjoiMyIsImVpIjoiRmc2amF2YWFGY0tqd1BBUDRKSHptUXciLCJxYyI6IkNoOWxkR2wzWVc1a1lTQm9hV2RvSUhOamFHOXZiQ0JqWVd4cFptOXlibWxoRUFCOXNoZ3dQdyIsInF1ZXN0aW9uIjoiV2hpY2ggTkJBIHBsYXllcnMgYXR0ZW5kZWQgRXRpd2FuZGEgSGlnaCBTY2hvb2w%2FIiwibGsiOiJHaVZ1WW1FZ2NHeGhlV1Z5Y3lCbWNtOXRJR1YwYVhkaGJtUmhJR2hwWjJnZ2MyTm9iMjlzIiwiYnMiOiJjM1hPdlFyQ01CUUZZRnp2NUp6Rks5aTZTbC1nV0Nqb29vaERCNmRyYzIyQ05TbEpzUGoyMHVMUGtvNEhQczQ1Y0lKMDc3RU11aWNqQ1hlNlVYaXVsYlV0RWpiV1N2Ump5ck8xU0xSSF9rbzFTQi1SY0lGTnBYU3Q4RkJzc1d2cHhjNGpoY0JHc294T2plWG1Tajk5Y19ZUm5ZSVNjT3B2NV9TVEF1ZlpVaXltbm40TUhDR3BGRHRHYVhtaXpwRzU1MWtxVnYwZlJqc0hPSi05QVEiLCJpZCI6ImZjX0ZnNmphdmFhRmNLandQQVA0Skh6bVF3XzUifQ%3D%3D"
+  },
+  {
+   "question": "Is Etiwanda High School private?",
+   "type": "ai_overview",
+   "page_token": "im2qPnicHdBfbpswHABg7TJ5bIwpWRMpmkRjUzrFnQ124PdSEZuEggE3_yC89S491U4zad8Rvq9v-9E1f3_cqsvFnVfz-TAMD8e-P9ryQfftvDjfOz3XhbX7Qjerxc-F9-ug1-Qah8-fccilc2ojUDKFAJKdDGJC2CViqWnMS-XKFOrUwqZsq6tCYrfvdJBGVEHKbnltbqYFJEnv61QwhVkum6dB2-U1Tzy8oz1mpB8T4ig0rxfuxUgi-F1gehKdK7bS4rwJZBlplHiQK8vHYgqdqQ0XkQm4PAYm436GvQPDfHyjDRZU0S0xrCSvMVMUoGZnU1OioiUYjzxCk99ZBB2pTAQTfOYZVLmEOsHOl4RyRlxctp4wY__BpZh0bVvphwPPzB_VuVFaFhS7YVIZLLZePCqktvvdMjHD7KBva3_2_3P9fmgvK3fqj_8ALLyDRQ",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=im2qPnicHdBfbpswHABg7TJ5bIwpWRMpmkRjUzrFnQ124PdSEZuEggE3_yC89S491U4zad8Rvq9v-9E1f3_cqsvFnVfz-TAMD8e-P9ryQfftvDjfOz3XhbX7Qjerxc-F9-ug1-Qah8-fccilc2ojUDKFAJKdDGJC2CViqWnMS-XKFOrUwqZsq6tCYrfvdJBGVEHKbnltbqYFJEnv61QwhVkum6dB2-U1Tzy8oz1mpB8T4ig0rxfuxUgi-F1gehKdK7bS4rwJZBlplHiQK8vHYgqdqQ0XkQm4PAYm436GvQPDfHyjDRZU0S0xrCSvMVMUoGZnU1OioiUYjzxCk99ZBB2pTAQTfOYZVLmEOsHOl4RyRlxctp4wY__BpZh0bVvphwPPzB_VuVFaFhS7YVIZLLZePCqktvvdMjHD7KBva3_2_3P9fmgvK3fqj_8ALLyDRQ",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlMzZHNNRlp4YkY5VGRHaFNaV042YjBwdU5YUnViSGd6YVhCVk9HeDJTRWt5Ym5OYVVHVmhhMDFLUjNWSWEzWk9kMnQzTWxOSk1tRm9iemxFZFRoaGExcFZXRFJuUm5ZMGRUQkNiWE50VlVjd1RGQXpTRjlRU0haNlVSSVhSbWMyYW1GMllXRkdZMHRxZDFCQlVEUktTSHB0VVhjYUlrRkVjM0k1WmxGNFIxTlFVREJ4WDIxSVRXTk5aak14YUVrelFYSm5Obk15VVVFIiwiZmN2IjoiMyIsImVpIjoiRmc2amF2YWFGY0tqd1BBUDRKSHptUXciLCJxYyI6IkNoOWxkR2wzWVc1a1lTQm9hV2RvSUhOamFHOXZiQ0JqWVd4cFptOXlibWxoRUFCOXNoZ3dQdyIsInF1ZXN0aW9uIjoiSXMgRXRpd2FuZGEgSGlnaCBTY2hvb2wgcHJpdmF0ZT8iLCJsayI6IkdoOXBjeUJsZEdsM1lXNWtZU0JvYVdkb0lITmphRzl2YkNCd2NtbDJZWFJsIiwiYnMiOiJjM1hPdlFyQ01CUUZZRnp2NUp6Rks5aTZTbC1nV0Nqb29vaERCNmRyYzIyQ05TbEpzUGoyMHVMUGtvNEhQczQ1Y0lKMDc3RU11aWNqQ1hlNlVYaXVsYlV0RWpiV1N2Ump5ck8xU0xSSF9rbzFTQi1SY0lGTnBYU3Q4RkJzc1d2cHhjNGpoY0JHc294T2plWG1Tajk5Y19ZUm5ZSVNjT3B2NV9TVEF1ZlpVaXltbm40TUhDR3BGRHRHYVhtaXpwRzU1MWtxVnYwZlJqc0hPSi05QVEiLCJpZCI6ImZjX0ZnNmphdmFhRmNLandQQVA0Skh6bVF3XzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlMzZHNNRlp4YkY5VGRHaFNaV042YjBwdU5YUnViSGd6YVhCVk9HeDJTRWt5Ym5OYVVHVmhhMDFLUjNWSWEzWk9kMnQzTWxOSk1tRm9iemxFZFRoaGExcFZXRFJuUm5ZMGRUQkNiWE50VlVjd1RGQXpTRjlRU0haNlVSSVhSbWMyYW1GMllXRkdZMHRxZDFCQlVEUktTSHB0VVhjYUlrRkVjM0k1WmxGNFIxTlFVREJ4WDIxSVRXTk5aak14YUVrelFYSm5Obk15VVVFIiwiZmN2IjoiMyIsImVpIjoiRmc2amF2YWFGY0tqd1BBUDRKSHptUXciLCJxYyI6IkNoOWxkR2wzWVc1a1lTQm9hV2RvSUhOamFHOXZiQ0JqWVd4cFptOXlibWxoRUFCOXNoZ3dQdyIsInF1ZXN0aW9uIjoiSXMgRXRpd2FuZGEgSGlnaCBTY2hvb2wgcHJpdmF0ZT8iLCJsayI6IkdoOXBjeUJsZEdsM1lXNWtZU0JvYVdkb0lITmphRzl2YkNCd2NtbDJZWFJsIiwiYnMiOiJjM1hPdlFyQ01CUUZZRnp2NUp6Rks5aTZTbC1nV0Nqb29vaERCNmRyYzIyQ05TbEpzUGoyMHVMUGtvNEhQczQ1Y0lKMDc3RU11aWNqQ1hlNlVYaXVsYlV0RWpiV1N2Ump5ck8xU0xSSF9rbzFTQi1SY0lGTnBYU3Q4RkJzc1d2cHhjNGpoY0JHc294T2plWG1Tajk5Y19ZUm5ZSVNjT3B2NV9TVEF1ZlpVaXltbm40TUhDR3BGRHRHYVhtaXpwRzU1MWtxVnYwZlJqc0hPSi05QVEiLCJpZCI6ImZjX0ZnNmphdmFhRmNLandQQVA0Skh6bVF3XzUifQ%3D%3D"
+  },
+  {
+   "question": "Where does Etiwanda High School rank?",
+   "type": "ai_overview",
+   "page_token": "X1UuEnicHZBRboIwAECzy_ippY0uMzHLHFQxWkJtC_RngRZFKFCVieNvd9mpdpqZfb_k5eV9_5hTU_0-3Yqus9f5ZNL3_fjYtkeTj1VbT9LrV6MmKjUmS1U1nz3PnNeDWnif_vL97C9Dbq1wKWAuRRo6iVpvghh0gkOShIgPDNBEgl0nXA5DVPgpMAcmlnSHDMugTnIs10JILNmGB1EysLU-Ky4a1ZCExTiIyqXNa73Kq0Iqo-E2oqV0i4ssKVbew1fZjrh6piofktg6KSL3iPkDBS0Q5dvAsJQkmhYBf_CasgwIL-Odw-BLSmvn0aRJBsWaxmaruSY5tjTzDPIKvZKDPCexLBIuyz20iHs4JJ7189qh-t6eQk4HVZqaw6OzZaZVANOA8emet3C3cq6qFGHIcCk8Gsh-dFC3BRr9_1x8HOpubi_t8Q_gkoHJ",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=X1UuEnicHZBRboIwAECzy_ippY0uMzHLHFQxWkJtC_RngRZFKFCVieNvd9mpdpqZfb_k5eV9_5hTU_0-3Yqus9f5ZNL3_fjYtkeTj1VbT9LrV6MmKjUmS1U1nz3PnNeDWnif_vL97C9Dbq1wKWAuRRo6iVpvghh0gkOShIgPDNBEgl0nXA5DVPgpMAcmlnSHDMugTnIs10JILNmGB1EysLU-Ky4a1ZCExTiIyqXNa73Kq0Iqo-E2oqV0i4ssKVbew1fZjrh6piofktg6KSL3iPkDBS0Q5dvAsJQkmhYBf_CasgwIL-Odw-BLSmvn0aRJBsWaxmaruSY5tjTzDPIKvZKDPCexLBIuyz20iHs4JJ7189qh-t6eQk4HVZqaw6OzZaZVANOA8emet3C3cq6qFGHIcCk8Gsh-dFC3BRr9_1x8HOpubi_t8Q_gkoHJ",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlMzZHNNRlp4YkY5VGRHaFNaV042YjBwdU5YUnViSGd6YVhCVk9HeDJTRWt5Ym5OYVVHVmhhMDFLUjNWSWEzWk9kMnQzTWxOSk1tRm9iemxFZFRoaGExcFZXRFJuUm5ZMGRUQkNiWE50VlVjd1RGQXpTRjlRU0haNlVSSVhSbWMyYW1GMllXRkdZMHRxZDFCQlVEUktTSHB0VVhjYUlrRkVjM0k1WmxGNFIxTlFVREJ4WDIxSVRXTk5aak14YUVrelFYSm5Obk15VVVFIiwiZmN2IjoiMyIsImVpIjoiRmc2amF2YWFGY0tqd1BBUDRKSHptUXciLCJxYyI6IkNoOWxkR2wzWVc1a1lTQm9hV2RvSUhOamFHOXZiQ0JqWVd4cFptOXlibWxoRUFCOXNoZ3dQdyIsInF1ZXN0aW9uIjoiV2hlcmUgZG9lcyBFdGl3YW5kYSBIaWdoIFNjaG9vbCByYW5rPyIsImxrIjoiR2lSM2FHVnlaU0JrYjJWeklHVjBhWGRoYm1SaElHaHBaMmdnYzJOb2IyOXNJSEpoYm1zIiwiYnMiOiJjM1hPdlFyQ01CUUZZRnp2NUp6Rks5aTZTbC1nV0Nqb29vaERCNmRyYzIyQ05TbEpzUGoyMHVMUGtvNEhQczQ1Y0lKMDc3RU11aWNqQ1hlNlVYaXVsYlV0RWpiV1N2Ump5ck8xU0xSSF9rbzFTQi1SY0lGTnBYU3Q4RkJzc1d2cHhjNGpoY0JHc294T2plWG1Tajk5Y19ZUm5ZSVNjT3B2NV9TVEF1ZlpVaXltbm40TUhDR3BGRHRHYVhtaXpwRzU1MWtxVnYwZlJqc0hPSi05QVEiLCJpZCI6ImZjX0ZnNmphdmFhRmNLandQQVA0Skh6bVF3XzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlMzZHNNRlp4YkY5VGRHaFNaV042YjBwdU5YUnViSGd6YVhCVk9HeDJTRWt5Ym5OYVVHVmhhMDFLUjNWSWEzWk9kMnQzTWxOSk1tRm9iemxFZFRoaGExcFZXRFJuUm5ZMGRUQkNiWE50VlVjd1RGQXpTRjlRU0haNlVSSVhSbWMyYW1GMllXRkdZMHRxZDFCQlVEUktTSHB0VVhjYUlrRkVjM0k1WmxGNFIxTlFVREJ4WDIxSVRXTk5aak14YUVrelFYSm5Obk15VVVFIiwiZmN2IjoiMyIsImVpIjoiRmc2amF2YWFGY0tqd1BBUDRKSHptUXciLCJxYyI6IkNoOWxkR2wzWVc1a1lTQm9hV2RvSUhOamFHOXZiQ0JqWVd4cFptOXlibWxoRUFCOXNoZ3dQdyIsInF1ZXN0aW9uIjoiV2hlcmUgZG9lcyBFdGl3YW5kYSBIaWdoIFNjaG9vbCByYW5rPyIsImxrIjoiR2lSM2FHVnlaU0JrYjJWeklHVjBhWGRoYm1SaElHaHBaMmdnYzJOb2IyOXNJSEpoYm1zIiwiYnMiOiJjM1hPdlFyQ01CUUZZRnp2NUp6Rks5aTZTbC1nV0Nqb29vaERCNmRyYzIyQ05TbEpzUGoyMHVMUGtvNEhQczQ1Y0lKMDc3RU11aWNqQ1hlNlVYaXVsYlV0RWpiV1N2Ump5ck8xU0xSSF9rbzFTQi1SY0lGTnBYU3Q4RkJzc1d2cHhjNGpoY0JHc294T2plWG1Tajk5Y19ZUm5ZSVNjT3B2NV9TVEF1ZlpVaXltbm40TUhDR3BGRHRHYVhtaXpwRzU1MWtxVnYwZlJqc0hPSi05QVEiLCJpZCI6ImZjX0ZnNmphdmFhRmNLandQQVA0Skh6bVF3XzUifQ%3D%3D"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Etiwanda High School - Home",
+   "link": "https://ehs.cjuhsd.net/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTwHrOzAV3Merq4k_7hyKinVYoiSk09NUPphjRguDthDX0r3Acw6JZIazRTYGaCm5Vt1tdeUAEn0lSGUhH9ORCa2Mqpp2kQa6_TbsokRdaMY&ved=2ahUKEwj2_dGt6OSWAxXCERAIHeDIPMMQFnoECEYQAQ&uoh=1",
+   "displayed_link": "https://ehs.cjuhsd.net",
+   "favicon": "https://serpapi.com/images/i/UklGRvYBAABXRUJQVlA4IOoBAADQCACdASoeACAAPrkurlcnIacnG_DgFwliAFUkzAqgRwIQDkvs1T0l7A3Rj9Fr9Riwbt_N_Rj-YQ2L_LwYZyYCKR46tCyRCXP9175lA0AAAP738KCQr4T-PcIf9nxMbQYvo7_k5wn3EgCtTJ4v8ZD1v4reajGClxX6JZ2077kwpUVVu8hRxEJCkwJ6Km3ylHzR8sFHhUJxKI2ChyeDmLMIpy104e6t2DB4hR5QEfZUnJHzIyg8PZ__8Hn8a8GJ_NlYEq6mufqEe6D_tir7jR6EZkjC6myTWuLFRymCqNWyqXtSLNydUEN7RaCwq-9OGm_c_r9YHaJciPZRc5qZZjA_6nTrDXmrswrVs71b7EdQF5Hjb6FQZfH_j6Ov63XOdbn0K_vEsm6zpTSyQe5meNe5-IYTnXk2tg-_ghEhvITnEJzbCn8WkdoRY6-3caiFjsrYEbBxmjZEOy8dmfhmdBJd2AJmC686oA9yPZjSZrV1uSh9y05NAd6L82S5PPGQAwnjO4F8OmEa3U8pxZ4rOjgiWrskpsQog4ya8G50SqlUY8d3Eb3CJRdeOFT6zChBEt6HqHQ_PmdJRBs7g8Ryd8c2DiVMB8e7wT07eZk0VIMfgtK688rqf9NJmFq1tENPWzWLj0-CgwxOXAAA.webp",
+   "snippet": "Homepage \u00b7 70%. of Etiwanda High School graduates meet the University of California and California State University A-G admissions requirements, making it a ...",
+   "snippet_highlighted_words": [
+    "Etiwanda High School",
+    "California",
+    "California"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "Bell Schedule",
+      "link": "https://ehs.cjuhsd.net/bellschedule",
+      "snippet": "Preview unavailable. Click here to view 2026 2027 EHS Bell ..."
+     },
+     {
+      "title": "Our School",
+      "link": "https://ehs.cjuhsd.net/ourschool",
+      "snippet": "Etiwanda High School is one of the eight comprehensive high ..."
+     },
+     {
+      "title": "Contact Us",
+      "link": "https://ehs.cjuhsd.net/contactus",
+      "snippet": "Contact Us. Etiwanda High School. 13500 Victoria Avenue ..."
+     },
+     {
+      "title": "Activities",
+      "link": "https://ehs.cjuhsd.net/activities",
+      "snippet": "Skip to main content. Welcome. Home. \u00d7. Close. District ..."
+     },
+     {
+      "title": "Academics",
+      "link": "https://ehs.cjuhsd.net/academics",
+      "snippet": "Skip to main content. Welcome. Home. \u00d7. Close. District ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Homepage \u00b7 70%. of Etiwanda High School graduates meet the University of California and California State University A-G admissions requirements, making it a ...",
+     "source_info_link": "https://ehs.cjuhsd.net/",
+     "icon": "https://serpapi.com/images/i/UklGRvYBAABXRUJQVlA4IOoBAADQCACdASoeACAAPrkurlcnIacnG_DgFwliAFUkzAqgRwIQDkvs1T0l7A3Rj9Fr9Riwbt_N_Rj-YQ2L_LwYZyYCKR46tCyRCXP9175lA0AAAP738KCQr4T-PcIf9nxMbQYvo7_k5wn3EgCtTJ4v8ZD1v4reajGClxX6JZ2077kwpUVVu8hRxEJCkwJ6Km3ylHzR8sFHhUJxKI2ChyeDmLMIpy104e6t2DB4hR5QEfZUnJHzIyg8PZ__8Hn8a8GJ_NlYEq6mufqEe6D_tir7jR6EZkjC6myTWuLFRymCqNWyqXtSLNydUEN7RaCwq-9OGm_c_r9YHaJciPZRc5qZZjA_6nTrDXmrswrVs71b7EdQF5Hjb6FQZfH_j6Ov63XOdbn0K_vEsm6zpTSyQe5meNe5-IYTnXk2tg-_ghEhvITnEJzbCn8WkdoRY6-3caiFjsrYEbBxmjZEOy8dmfhmdBJd2AJmC686oA9yPZjSZrV1uSh9y05NAd6L82S5PPGQAwnjO4F8OmEa3U8pxZ4rOjgiWrskpsQog4ya8G50SqlUY8d3Eb3CJRdeOFT6zChBEt6HqHQ_PmdJRBs7g8Ryd8c2DiVMB8e7wT07eZk0VIMfgtK688rqf9NJmFq1tENPWzWLj0-CgwxOXAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESTwHrOzAV3Merq4k_7hyKinVYoiSk09NUPphjRguDthDX0r3Acw6JZIazRTYGaCm5Vt1tdeUAEn0lSGUhH9ORCa2Mqpp2kQa6_TbsokRdaMY&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESTwHrOzAV3Merq4k_7hyKinVYoiSk09NUPphjRguDthDX0r3Acw6JZIazRTYGaCm5Vt1tdeUAEn0lSGUhH9ORCa2Mqpp2kQa6_TbsokRdaMY",
+   "source": "Etiwanda High School"
+  },
+  {
+   "position": 2,
+   "title": "Etiwanda High School",
+   "link": "https://en.wikipedia.org/wiki/Etiwanda_High_School",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESagHrOzAVgDGL__5nj8mCO61-gWV799tn-j6QpsjluybOPy8Qot8Q69i6a6a_Divy2bNIo3UkfQzDob4C6STQqdiwI4O9EoW0sbGnsUfMbF76cOKBaRsTC7Wf4qHkq-8nYUj9MkMqHhO2ol8&ved=2ahUKEwj2_dGt6OSWAxXCERAIHeDIPMMQFnoECEkQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Etiwanda_High_School",
+   "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+   "snippet": "Etiwanda High School is a public high school in Rancho Cucamonga, California, United States. It is one of the twelve schools of the Chaffey Joint Union High ...",
+   "snippet_highlighted_words": [
+    "Etiwanda High School",
+    "California"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Etiwanda High School is a public high school in Rancho Cucamonga, California, United States. It is one of the twelve schools of the Chaffey Joint Union High ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Etiwanda_High_School",
+     "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESagHrOzAVgDGL__5nj8mCO61-gWV799tn-j6QpsjluybOPy8Qot8Q69i6a6a_Divy2bNIo3UkfQzDob4C6STQqdiwI4O9EoW0sbGnsUfMbF76cOKBaRsTC7Wf4qHkq-8nYUj9MkMqHhO2ol8&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESagHrOzAVgDGL__5nj8mCO61-gWV799tn-j6QpsjluybOPy8Qot8Q69i6a6a_Divy2bNIo3UkfQzDob4C6STQqdiwI4O9EoW0sbGnsUfMbF76cOKBaRsTC7Wf4qHkq-8nYUj9MkMqHhO2ol8",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Etiwanda_High_School#:~:text=Etiwanda%20High%20School%20is%20a,the%20Chaffey%20Joint%20Union%20High"
+  },
+  {
+   "position": 3,
+   "title": "Etiwanda High School - California",
+   "link": "https://www.usnews.com/education/best-high-schools/california/districts/chaffey-joint-union-high-school-district/etiwanda-high-school-1941",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESwwEB6zswFQkHycU-vU3A9Yd_20XZRqhWmjqnf6d8zDEKNnxH3p_I7Ag_EkXppPQulse1MATWAtAHal79knCH_1D-rjqR_KDBhEGPELCU4zkr8tAWwuxinA533rC5RO-Q7eObXd9aKMqvR0FXIHx8XQdfA1tvCXtg7WU39uDcB9Spv0U-IiD56UzbIn_DDkOAv4IZRLMWD25CjePTXwjMLcH_Cm5-_mI4EDDV-dDVVsVTOkFTNQSJHruI-JNFzJ_WZJtyOPI&ved=2ahUKEwj2_dGt6OSWAxXCERAIHeDIPMMQFnoECGUQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a california \u203a districts \u203a etiwan...",
+   "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp",
+   "snippet": "Etiwanda High School is ranked 313rd within California. Students have the opportunity to take Advanced Placement\u00ae coursework and exams.",
+   "snippet_highlighted_words": [
+    "Etiwanda High School",
+    "California"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Etiwanda High School is ranked 313rd within California. Students have the opportunity to take Advanced Placement\u00ae coursework and exams.",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/california/districts/chaffey-joint-union-high-school-district/etiwanda-high-school-1941",
+     "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESwwEB6zswFQkHycU-vU3A9Yd_20XZRqhWmjqnf6d8zDEKNnxH3p_I7Ag_EkXppPQulse1MATWAtAHal79knCH_1D-rjqR_KDBhEGPELCU4zkr8tAWwuxinA533rC5RO-Q7eObXd9aKMqvR0FXIHx8XQdfA1tvCXtg7WU39uDcB9Spv0U-IiD56UzbIn_DDkOAv4IZRLMWD25CjePTXwjMLcH_Cm5-_mI4EDDV-dDVVsVTOkFTNQSJHruI-JNFzJ_WZJtyOPI&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESwwEB6zswFQkHycU-vU3A9Yd_20XZRqhWmjqnf6d8zDEKNnxH3p_I7Ag_EkXppPQulse1MATWAtAHal79knCH_1D-rjqR_KDBhEGPELCU4zkr8tAWwuxinA533rC5RO-Q7eObXd9aKMqvR0FXIHx8XQdfA1tvCXtg7WU39uDcB9Spv0U-IiD56UzbIn_DDkOAv4IZRLMWD25CjePTXwjMLcH_Cm5-_mI4EDDV-dDVVsVTOkFTNQSJHruI-JNFzJ_WZJtyOPI",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/california/districts/chaffey-joint-union-high-school-district/etiwanda-high-school-1941#:~:text=Etiwanda%20High%20School%20is%20ranked,Advanced%20Placement%C2%AE%20coursework%20and%20exams."
+  },
+  {
+   "position": 4,
+   "title": "Etiwanda High - School Directory Details ...",
+   "link": "https://www.cde.ca.gov/schooldirectory/details?cdscode=36676523630373",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAVM2xuQzaf5s6E09DchkDo__DdmbqABOQfuVbsJEcHUI7a7lQLW8IuYz11tm05QywkuuESBYtLvnNIGBBANEB4W7BtiVsbjc4m4Je648JPg_7kwCa8PzLNa5zFsnlOKyAylfqu-QQOlX3QamPBeh4XVl2de487QPED&ved=2ahUKEwj2_dGt6OSWAxXCERAIHeDIPMMQFnoECGMQAQ&uoh=1",
+   "displayed_link": "https://www.cde.ca.gov \u203a schooldirectory \u203a details",
+   "favicon": "https://serpapi.com/images/i/UklGRgoBAABXRUJQVlA4IP4AAABQBgCdASogACAAPrkurlcnIacnG_DgFwlpAM3HbNVYEqB7gV_UJYF88X_jH5jxak_srJyMiDiuJceTAAD-9-gn-pwQ-TxGnsYEDO4UrYAd2e6KrsBaDJJMpYVNSc7WbKwRWEZCc_W2YjY2mhOZu2CVT9BEckUN_yR7EZGLkMScINpXY-X7Piv_z7s_n9b21PARjcv95WWo8Qn_H_yJQPovikVTm1Y1OvFDe5hCnBvl0nEGVC0d4IOeCym1YxVDWcTKZUcR0qPVUtR1yGQ2zyLLnboY51uCWfnbtDZ5TXjC8bWvKRJJrQz6leT0DUCd0qEhT1OVpm0sBIplokAAAA.webp",
+   "snippet": "School Address 13500 Victoria St. Etiwanda, CA 91739-0447. Phone Number (909) 899-2531 Fax Number (909) 899-3661",
+   "snippet_highlighted_words": [
+    "CA"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "School Address 13500 Victoria St. Etiwanda, CA 91739-0447. Phone Number (909) 899-2531 Fax Number (909) 899-3661",
+     "source_info_link": "https://www.cde.ca.gov/schooldirectory/details?cdscode=36676523630373",
+     "icon": "https://serpapi.com/images/i/UklGRgoBAABXRUJQVlA4IP4AAABQBgCdASogACAAPrkurlcnIacnG_DgFwlpAM3HbNVYEqB7gV_UJYF88X_jH5jxak_srJyMiDiuJceTAAD-9-gn-pwQ-TxGnsYEDO4UrYAd2e6KrsBaDJJMpYVNSc7WbKwRWEZCc_W2YjY2mhOZu2CVT9BEckUN_yR7EZGLkMScINpXY-X7Piv_z7s_n9b21PARjcv95WWo8Qn_H_yJQPovikVTm1Y1OvFDe5hCnBvl0nEGVC0d4IOeCym1YxVDWcTKZUcR0qPVUtR1yGQ2zyLLnboY51uCWfnbtDZ5TXjC8bWvKRJJrQz6leT0DUCd0qEhT1OVpm0sBIplokAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESfQHrOzAVM2xuQzaf5s6E09DchkDo__DdmbqABOQfuVbsJEcHUI7a7lQLW8IuYz11tm05QywkuuESBYtLvnNIGBBANEB4W7BtiVsbjc4m4Je648JPg_7kwCa8PzLNa5zFsnlOKyAylfqu-QQOlX3QamPBeh4XVl2de487QPED&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESfQHrOzAVM2xuQzaf5s6E09DchkDo__DdmbqABOQfuVbsJEcHUI7a7lQLW8IuYz11tm05QywkuuESBYtLvnNIGBBANEB4W7BtiVsbjc4m4Je648JPg_7kwCa8PzLNa5zFsnlOKyAylfqu-QQOlX3QamPBeh4XVl2de487QPED",
+   "source": "California Department of Education (CDE) (.gov)"
+  },
+  {
+   "position": 5,
+   "title": "Etiwanda High School in Rancho Cucamonga, CA",
+   "link": "https://www.niche.com/k12/etiwanda-high-school-etiwanda-ca/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHrOzAVSCSsUeFdx0S6Fh8Du8Za_1gLsUssrh5vbzJ555q5pG4-EBlj_6u74GAG8h_ehiJFRkLCyVG9zojlWUZBqiK_0OA2qD6KXXBolxqV5js1H_-6nFrxYpILoIyowgQafL-Nxd-KbadkNXacPkSoMO0&ved=2ahUKEwj2_dGt6OSWAxXCERAIHeDIPMMQFnoECGQQAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a California",
+   "favicon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAACwBgCdASocABwAPtEutFooIagoGAEAGglAGZo7gYv7m0TPt8r_WYdmpcah9WA48zicEtVrCFOGH4nMtJiaAAD-8Mpqn5wztwFeSDXF5YavmSdrcpv67JtS1tKl7uW6N9aR19WH-vT5VtxqndfSU_QIzB4R0m5fNi1eX3h8GYa_8H28-7o-nc3D2GEvZqGTES8muP_UCP_UIYsGh8QXK7V2sBnUP79qQidv_o8__S3xjZZmmXEG69VP00Dn3HuddwtLR_4xf_0PU8NPn060X-47u3VDw39ZbBgpwK3wP0F5tHUWMrTdTbcT_h7ghKmtPgKiKNIvGUNLHBT4VbzlXgvFo7vCP-ot_w6I_hOg9EcgQfabjpYvU6X4xcxi9BIxh2PJomEF2PA_XoL7FtzFNUuyE0IG83Bax0ZYU-dxj0EhgAAA.webp",
+   "snippet": "Etiwanda High School is a highly rated, public school located in ETIWANDA, CA. It has 3,446 students in grades 9-12 with a student-teacher ratio of 25 to 1.",
+   "snippet_highlighted_words": [
+    "Etiwanda High School",
+    "CA"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Etiwanda High School is a highly rated, public school located in ETIWANDA, CA. It has 3,446 students in grades 9-12 with a student-teacher ratio of 25 to 1.",
+     "source_info_link": "https://www.niche.com/k12/etiwanda-high-school-etiwanda-ca/",
+     "icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAACwBgCdASocABwAPtEutFooIagoGAEAGglAGZo7gYv7m0TPt8r_WYdmpcah9WA48zicEtVrCFOGH4nMtJiaAAD-8Mpqn5wztwFeSDXF5YavmSdrcpv67JtS1tKl7uW6N9aR19WH-vT5VtxqndfSU_QIzB4R0m5fNi1eX3h8GYa_8H28-7o-nc3D2GEvZqGTES8muP_UCP_UIYsGh8QXK7V2sBnUP79qQidv_o8__S3xjZZmmXEG69VP00Dn3HuddwtLR_4xf_0PU8NPn060X-47u3VDw39ZbBgpwK3wP0F5tHUWMrTdTbcT_h7ghKmtPgKiKNIvGUNLHBT4VbzlXgvFo7vCP-ot_w6I_hOg9EcgQfabjpYvU6X4xcxi9BIxh2PJomEF2PA_XoL7FtzFNUuyE0IG83Bax0ZYU-dxj0EhgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEScwHrOzAVSCSsUeFdx0S6Fh8Du8Za_1gLsUssrh5vbzJ555q5pG4-EBlj_6u74GAG8h_ehiJFRkLCyVG9zojlWUZBqiK_0OA2qD6KXXBolxqV5js1H_-6nFrxYpILoIyowgQafL-Nxd-KbadkNXacPkSoMO0&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEScwHrOzAVSCSsUeFdx0S6Fh8Du8Za_1gLsUssrh5vbzJ555q5pG4-EBlj_6u74GAG8h_ehiJFRkLCyVG9zojlWUZBqiK_0OA2qD6KXXBolxqV5js1H_-6nFrxYpILoIyowgQafL-Nxd-KbadkNXacPkSoMO0",
+   "source": "Niche",
+   "read_more_link": "https://www.niche.com/k12/etiwanda-high-school-etiwanda-ca/#:~:text=Etiwanda%20High%20School%20is%20a,ratio%20of%2025%20to%201."
+  },
+  {
+   "position": 6,
+   "title": "Etiwanda High School",
+   "link": "https://www.linkedin.com/company/etiwandahighschool",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESawHrOzAV5VDSNWuKo228BwKfjC8naOX5xXRBLFiuSMv-Q1oRnbw3nO7By7HAb3LZQpinH4MT30YwDt7VlOsQiLqfPFGUrmoHdA6_l1h1_t_B3F9yLuikiHbi8YPsKq_kSXo_q-z4g4No6Jx8&ved=2ahUKEwj2_dGt6OSWAxXCERAIHeDIPMMQFnoECGcQAQ&uoh=1",
+   "displayed_link": "70+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp",
+   "snippet": "Etiwanda High School is one of the eight comprehensive high schools in the Chaffey Joint Union High School District and is located in the incorporated ...",
+   "snippet_highlighted_words": [
+    "Etiwanda High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Etiwanda High School is one of the eight comprehensive high schools in the Chaffey Joint Union High School District and is located in the incorporated ...",
+     "source_info_link": "https://www.linkedin.com/company/etiwandahighschool",
+     "icon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESawHrOzAV5VDSNWuKo228BwKfjC8naOX5xXRBLFiuSMv-Q1oRnbw3nO7By7HAb3LZQpinH4MT30YwDt7VlOsQiLqfPFGUrmoHdA6_l1h1_t_B3F9yLuikiHbi8YPsKq_kSXo_q-z4g4No6Jx8&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESawHrOzAV5VDSNWuKo228BwKfjC8naOX5xXRBLFiuSMv-Q1oRnbw3nO7By7HAb3LZQpinH4MT30YwDt7VlOsQiLqfPFGUrmoHdA6_l1h1_t_B3F9yLuikiHbi8YPsKq_kSXo_q-z4g4No6Jx8",
+   "source": "LinkedIn \u00b7 Etiwanda High School",
+   "read_more_link": "https://www.linkedin.com/company/etiwandahighschool#:~:text=Etiwanda%20High%20School%20is%20one,miles%20east%20of%20Los%20Angeles."
+  },
+  {
+   "position": 7,
+   "title": "Etiwanda High School in Rancho Cucamonga, California ...",
+   "link": "https://www.donorschoose.org/schools/california/chaffey-joint-union-high-school-district/etiwanda-high-school/26464",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESqwEB6zswFcG7dXE0IGnJtsZXLksTy8O53YOSPeTueYJwvzhZAjDI6Yx7g3l5Orl-NmtR2LdqB_PofUDUOmNJuvSb5qbJRnoRpBpJqcvHjn3k5XBh9s7VIYCwd_Mrlb6HGhfD1W-84WYHMplis7GPfIf0zCtY3JJL62nB1Y6TK7fI3VQ4F4V2c56NuHYg7MrxqGL46SBiq5IeKPrhQgVieQl7qOMgRJqbdriOFns&ved=2ahUKEwj2_dGt6OSWAxXCERAIHeDIPMMQFnoECGYQAQ&uoh=1",
+   "displayed_link": "https://www.donorschoose.org \u203a schools \u203a california \u203a e...",
+   "favicon": "https://serpapi.com/images/i/UklGRswAAABXRUJQVlA4IMAAAABwBQCdASocABwAPtEwtFooIigoGAEAGglsAKknND9QgUiCtSxixOFp4uhGPS57r1rBvQAAAP78Ruvp_RopI31agF2kTcvpn_nJpqDkB-JZ3L4TnmXfH8Lj7_7aH_7LAv_qWkLImNPY960ex9CxAdN4Rj2bYpPBjMs4lAfwcelVvNLkNVmPcrR_CPQWyeuMExXrAK1CRpFOK2_rpU32_y9RFVHtRr1D17PWVgxOgSGl1SdGJuoFHhfsjXVLLo5igAA.webp",
+   "snippet": "Etiwanda High School is a suburban public school in Rancho Cucamonga, California that is part of Chaffey Joint Union High School District.",
+   "snippet_highlighted_words": [
+    "Etiwanda High School",
+    "California"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Etiwanda High School is a suburban public school in Rancho Cucamonga, California that is part of Chaffey Joint Union High School District.",
+     "source_info_link": "https://www.donorschoose.org/schools/california/chaffey-joint-union-high-school-district/etiwanda-high-school/26464",
+     "icon": "https://serpapi.com/images/i/UklGRswAAABXRUJQVlA4IMAAAABwBQCdASocABwAPtEwtFooIigoGAEAGglsAKknND9QgUiCtSxixOFp4uhGPS57r1rBvQAAAP78Ruvp_RopI31agF2kTcvpn_nJpqDkB-JZ3L4TnmXfH8Lj7_7aH_7LAv_qWkLImNPY960ex9CxAdN4Rj2bYpPBjMs4lAfwcelVvNLkNVmPcrR_CPQWyeuMExXrAK1CRpFOK2_rpU32_y9RFVHtRr1D17PWVgxOgSGl1SdGJuoFHhfsjXVLLo5igAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESqwEB6zswFcG7dXE0IGnJtsZXLksTy8O53YOSPeTueYJwvzhZAjDI6Yx7g3l5Orl-NmtR2LdqB_PofUDUOmNJuvSb5qbJRnoRpBpJqcvHjn3k5XBh9s7VIYCwd_Mrlb6HGhfD1W-84WYHMplis7GPfIf0zCtY3JJL62nB1Y6TK7fI3VQ4F4V2c56NuHYg7MrxqGL46SBiq5IeKPrhQgVieQl7qOMgRJqbdriOFns&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESqwEB6zswFcG7dXE0IGnJtsZXLksTy8O53YOSPeTueYJwvzhZAjDI6Yx7g3l5Orl-NmtR2LdqB_PofUDUOmNJuvSb5qbJRnoRpBpJqcvHjn3k5XBh9s7VIYCwd_Mrlb6HGhfD1W-84WYHMplis7GPfIf0zCtY3JJL62nB1Y6TK7fI3VQ4F4V2c56NuHYg7MrxqGL46SBiq5IeKPrhQgVieQl7qOMgRJqbdriOFns",
+   "source": "DonorsChoose",
+   "read_more_link": "https://www.donorschoose.org/schools/california/chaffey-joint-union-high-school-district/etiwanda-high-school/26464#:~:text=Etiwanda%20High%20School%20is%20a,Joint%20Union%20High%20School%20District."
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Etiwanda high school california ranking",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Etiwanda+high+school+california+ranking&sa=X&ved=2ahUKEwj2_dGt6OSWAxXCERAIHeDIPMMQ1QJ6BAhoEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Etiwanda+high+school+california+ranking"
+  },
+  {
+   "block_position": 1,
+   "query": "Etiwanda high school california football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Etiwanda+high+school+california+football&sa=X&ved=2ahUKEwj2_dGt6OSWAxXCERAIHeDIPMMQ1QJ6BAh-EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Etiwanda+high+school+california+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Etiwanda High School District",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Etiwanda+High+School+District&sa=X&ved=2ahUKEwj2_dGt6OSWAxXCERAIHeDIPMMQ1QJ6BAh9EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Etiwanda+High+School+District"
+  },
+  {
+   "block_position": 1,
+   "query": "Etiwanda High School video",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Etiwanda+High+School+video&sa=X&ved=2ahUKEwj2_dGt6OSWAxXCERAIHeDIPMMQ1QJ6BAh4EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Etiwanda+High+School+video"
+  },
+  {
+   "block_position": 1,
+   "query": "Etiwanda High School Calendar",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Etiwanda+High+School+Calendar&sa=X&ved=2ahUKEwj2_dGt6OSWAxXCERAIHeDIPMMQ1QJ6BAh2EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Etiwanda+High+School+Calendar"
+  },
+  {
+   "block_position": 1,
+   "query": "Etiwanda School",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Etiwanda+School&sa=X&ved=2ahUKEwj2_dGt6OSWAxXCERAIHeDIPMMQ1QJ6BAhwEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Etiwanda+School"
+  },
+  {
+   "block_position": 1,
+   "query": "Etiwanda high school california basketball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Etiwanda+high+school+california+basketball&sa=X&ved=2ahUKEwj2_dGt6OSWAxXCERAIHeDIPMMQ1QJ6BAhqEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Etiwanda+high+school+california+basketball"
+  },
+  {
+   "block_position": 1,
+   "query": "Etiwanda high school california alumni",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Etiwanda+high+school+california+alumni&sa=X&ved=2ahUKEwj2_dGt6OSWAxXCERAIHeDIPMMQ1QJ6BAhpEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Etiwanda+high+school+california+alumni"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Etiwanda+High+School%22+California&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=Fg6javaaFcKjwPAP4JHzmQw&start=10&sa=N&sstk=AS6-VmI3DjBM87z_Y-odZWh3syVxSVj3yRMH3CPF57vUhBW754jWzppw9JpJA4D3MFP4M2qyqbJ5NmGJwZpPsgzqt1o50TYgkWfsig&ved=2ahUKEwj2_dGt6OSWAxXCERAIHeDIPMMQ8NMDegQIWRAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Etiwanda+High+School%22+California&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=Fg6javaaFcKjwPAP4JHzmQw&start=10&sa=N&sstk=AS6-VmI3DjBM87z_Y-odZWh3syVxSVj3yRMH3CPF57vUhBW754jWzppw9JpJA4D3MFP4M2qyqbJ5NmGJwZpPsgzqt1o50TYgkWfsig&ved=2ahUKEwj2_dGt6OSWAxXCERAIHeDIPMMQ8tMDegQIWRAE",
+   "3": "https://www.google.com/search?q=%22Etiwanda+High+School%22+California&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=Fg6javaaFcKjwPAP4JHzmQw&start=20&sa=N&sstk=AS6-VmI3DjBM87z_Y-odZWh3syVxSVj3yRMH3CPF57vUhBW754jWzppw9JpJA4D3MFP4M2qyqbJ5NmGJwZpPsgzqt1o50TYgkWfsig&ved=2ahUKEwj2_dGt6OSWAxXCERAIHeDIPMMQ8tMDegQIWRAG",
+   "4": "https://www.google.com/search?q=%22Etiwanda+High+School%22+California&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=Fg6javaaFcKjwPAP4JHzmQw&start=30&sa=N&sstk=AS6-VmI3DjBM87z_Y-odZWh3syVxSVj3yRMH3CPF57vUhBW754jWzppw9JpJA4D3MFP4M2qyqbJ5NmGJwZpPsgzqt1o50TYgkWfsig&ved=2ahUKEwj2_dGt6OSWAxXCERAIHeDIPMMQ8tMDegQIWRAI",
+   "5": "https://www.google.com/search?q=%22Etiwanda+High+School%22+California&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=Fg6javaaFcKjwPAP4JHzmQw&start=40&sa=N&sstk=AS6-VmI3DjBM87z_Y-odZWh3syVxSVj3yRMH3CPF57vUhBW754jWzppw9JpJA4D3MFP4M2qyqbJ5NmGJwZpPsgzqt1o50TYgkWfsig&ved=2ahUKEwj2_dGt6OSWAxXCERAIHeDIPMMQ8tMDegQIWRAK",
+   "6": "https://www.google.com/search?q=%22Etiwanda+High+School%22+California&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=Fg6javaaFcKjwPAP4JHzmQw&start=50&sa=N&sstk=AS6-VmI3DjBM87z_Y-odZWh3syVxSVj3yRMH3CPF57vUhBW754jWzppw9JpJA4D3MFP4M2qyqbJ5NmGJwZpPsgzqt1o50TYgkWfsig&ved=2ahUKEwj2_dGt6OSWAxXCERAIHeDIPMMQ8tMDegQIWRAM",
+   "7": "https://www.google.com/search?q=%22Etiwanda+High+School%22+California&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=Fg6javaaFcKjwPAP4JHzmQw&start=60&sa=N&sstk=AS6-VmI3DjBM87z_Y-odZWh3syVxSVj3yRMH3CPF57vUhBW754jWzppw9JpJA4D3MFP4M2qyqbJ5NmGJwZpPsgzqt1o50TYgkWfsig&ved=2ahUKEwj2_dGt6OSWAxXCERAIHeDIPMMQ8tMDegQIWRAO",
+   "8": "https://www.google.com/search?q=%22Etiwanda+High+School%22+California&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=Fg6javaaFcKjwPAP4JHzmQw&start=70&sa=N&sstk=AS6-VmI3DjBM87z_Y-odZWh3syVxSVj3yRMH3CPF57vUhBW754jWzppw9JpJA4D3MFP4M2qyqbJ5NmGJwZpPsgzqt1o50TYgkWfsig&ved=2ahUKEwj2_dGt6OSWAxXCERAIHeDIPMMQ8tMDegQIWRAQ",
+   "9": "https://www.google.com/search?q=%22Etiwanda+High+School%22+California&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=Fg6javaaFcKjwPAP4JHzmQw&start=80&sa=N&sstk=AS6-VmI3DjBM87z_Y-odZWh3syVxSVj3yRMH3CPF57vUhBW754jWzppw9JpJA4D3MFP4M2qyqbJ5NmGJwZpPsgzqt1o50TYgkWfsig&ved=2ahUKEwj2_dGt6OSWAxXCERAIHeDIPMMQ8tMDegQIWRAS",
+   "10": "https://www.google.com/search?q=%22Etiwanda+High+School%22+California&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=Fg6javaaFcKjwPAP4JHzmQw&start=90&sa=N&sstk=AS6-VmI3DjBM87z_Y-odZWh3syVxSVj3yRMH3CPF57vUhBW754jWzppw9JpJA4D3MFP4M2qyqbJ5NmGJwZpPsgzqt1o50TYgkWfsig&ved=2ahUKEwj2_dGt6OSWAxXCERAIHeDIPMMQ8tMDegQIWRAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Etiwanda+High+School%22+California&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Etiwanda+High+School%22+California&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Etiwanda+High+School%22+California&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Etiwanda+High+School%22+California&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Etiwanda+High+School%22+California&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Etiwanda+High+School%22+California&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Etiwanda+High+School%22+California&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Etiwanda+High+School%22+California&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Etiwanda+High+School%22+California&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Etiwanda+High+School%22+California&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Etiwanda+High+School%22+California&start=90"
+  }
+ }
+}

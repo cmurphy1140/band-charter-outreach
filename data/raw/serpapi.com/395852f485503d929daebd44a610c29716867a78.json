@@ -1,0 +1,385 @@
+{
+ "search_information": {
+  "query_displayed": "\"Salesians of Don Bosco High School\"",
+  "total_results": 9,
+  "time_taken_displayed": 0.42,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "related_questions": [
+  {
+   "question": "What does being a Salesian mean?",
+   "type": "ai_overview",
+   "page_token": "zUPlVnicHdBRToMwAADQeJl9SoEx3ZLFpEI3MYArbRn9MVAGLLQUB47Bn3fxVJ5G4wHez_v6lue2-bk71sPQ9RvDGMfxvtK6kqd7oZWR9VMrDJFJmWei2aweVuZTKbZeP8JnPcID7TrmYhArbhEXDoF9GLBZ68CjdtainoCbPMwIE4B4joIppr5VeI7FW_5n-zlu1n2iurmw60ueOGWE6p63XcZUM3EznAta2cwOQNHikewhp2boBDvgnNTtE6vwLSS-KxrtYFpnwuL0lPjXiK33qZRj3GCeUmdHUWAT1jkREyZh3MyPYYpdL0bAX8ZWVwuVAuIWXjyjmTKoOfF5Tj2wO_sQ78MpSjhhqrKwqk2cPC4pkS8ZwB8Jga9Js4ahwiObC7woxXVrL_7Htu-lGjbdRVe_UFh4HA",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=zUPlVnicHdBRToMwAADQeJl9SoEx3ZLFpEI3MYArbRn9MVAGLLQUB47Bn3fxVJ5G4wHez_v6lue2-bk71sPQ9RvDGMfxvtK6kqd7oZWR9VMrDJFJmWei2aweVuZTKbZeP8JnPcID7TrmYhArbhEXDoF9GLBZ68CjdtainoCbPMwIE4B4joIppr5VeI7FW_5n-zlu1n2iurmw60ueOGWE6p63XcZUM3EznAta2cwOQNHikewhp2boBDvgnNTtE6vwLSS-KxrtYFpnwuL0lPjXiK33qZRj3GCeUmdHUWAT1jkREyZh3MyPYYpdL0bAX8ZWVwuVAuIWXjyjmTKoOfF5Tj2wO_sQ78MpSjhhqrKwqk2cPC4pkS8ZwB8Jga9Js4ahwiObC7woxXVrL_7Htu-lGjbdRVe_UFh4HA",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS05XUkxSVzVxWm1RMFpqaG1ZbWxKTVV0SVMyaE9ZMmxtYm1OUldFVTFUV2RtVERoTE1HUnRha05ZTjFGRlYyTm9iRzV4Y1RWd1EyOXRORXN4VEdnMVlVRmlaRzVyYzFkS2FIbGhRV05UYkRBd01YQTJMVVl4VWtsTWR4SVhRbmhMYW1GeVpqUk1OMFJMTVhOUlVHaGxNbGx0UVRRYUlrRkVjM0k1WmxSd05sZDRNVzVmTFdOcmEzaG1VbTgxYzNsdWNEZGpSVUpFVlZFIiwiZmN2IjoiMyIsImVpIjoiQnhLamFyZjRMN0RLMXNRUGhlMlltQTQiLCJxYyI6IkNpSnpZV3hsYzJsaGJuTWdiMllnWkc5dUlHSnZjMk52SUdocFoyZ2djMk5vYjI5c0VBQXhBQUFBZ04zQXd6OTlwdHYyUGciLCJxdWVzdGlvbiI6IldoYXQgZG9lcyBiZWluZyBhIFNhbGVzaWFuIG1lYW4/IiwibGsiOiJHaDkzYUdGMElHUnZaWE1nWW1WcGJtY2dZU0J6WVd4bGMybGhiaUJ0WldGdSIsImJzIjoiYzJYT01RLUNRQXdGNExqZTVHUUlpOVhCd1RnUkJ6Y2lhdUxnNXNCY3NQRXV3cFhRU3dqXzNrTVVNWTdOLTk1TDFVbEJxdEhCalVrZ0kyUHZnSERGZ3NTZ2haTFF4dEVpbkRkX1JzWkdhYlU3Y3dNbDJoWmF3bHA2YkJ3NGZCQTQ5cjJjU3hxUFY3VWhjWEcwQ2RmNnR6dm04c3ZWVmdYN21vWVZnUU02ellYSkpZNkNjSVkta3lITDM1bTZxRldLQWtlMmtMRGs3SWNfUGVEYVh3bFd6blRmTEVQX3VvWHNwY3gzb21OWmo2YVRKdyIsImlkIjoiZmNfQnhLamFyZjRMN0RLMXNRUGhlMlltQTRfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS05XUkxSVzVxWm1RMFpqaG1ZbWxKTVV0SVMyaE9ZMmxtYm1OUldFVTFUV2RtVERoTE1HUnRha05ZTjFGRlYyTm9iRzV4Y1RWd1EyOXRORXN4VEdnMVlVRmlaRzVyYzFkS2FIbGhRV05UYkRBd01YQTJMVVl4VWtsTWR4SVhRbmhMYW1GeVpqUk1OMFJMTVhOUlVHaGxNbGx0UVRRYUlrRkVjM0k1WmxSd05sZDRNVzVmTFdOcmEzaG1VbTgxYzNsdWNEZGpSVUpFVlZFIiwiZmN2IjoiMyIsImVpIjoiQnhLamFyZjRMN0RLMXNRUGhlMlltQTQiLCJxYyI6IkNpSnpZV3hsYzJsaGJuTWdiMllnWkc5dUlHSnZjMk52SUdocFoyZ2djMk5vYjI5c0VBQXhBQUFBZ04zQXd6OTlwdHYyUGciLCJxdWVzdGlvbiI6IldoYXQgZG9lcyBiZWluZyBhIFNhbGVzaWFuIG1lYW4%2FIiwibGsiOiJHaDkzYUdGMElHUnZaWE1nWW1WcGJtY2dZU0J6WVd4bGMybGhiaUJ0WldGdSIsImJzIjoiYzJYT01RLUNRQXdGNExqZTVHUUlpOVhCd1RnUkJ6Y2lhdUxnNXNCY3NQRXV3cFhRU3dqXzNrTVVNWTdOLTk1TDFVbEJxdEhCalVrZ0kyUHZnSERGZ3NTZ2haTFF4dEVpbkRkX1JzWkdhYlU3Y3dNbDJoWmF3bHA2YkJ3NGZCQTQ5cjJjU3hxUFY3VWhjWEcwQ2RmNnR6dm04c3ZWVmdYN21vWVZnUU02ellYSkpZNkNjSVkta3lITDM1bTZxRldLQWtlMmtMRGs3SWNfUGVEYVh3bFd6blRmTEVQX3VvWHNwY3gzb21OWmo2YVRKdyIsImlkIjoiZmNfQnhLamFyZjRMN0RLMXNRUGhlMlltQTRfNSJ9"
+  },
+  {
+   "question": "How many years does it take to become a Salesian priest?",
+   "type": "ai_overview",
+   "page_token": "tt_zoHicHdBRbpswAABQ7TL9bIwImRIpmkQwzmjiFoNt8M9EDMGJbaCJGxL-eoWeYafaaTbtHeF9_janTv_59qWcG66r2Wwcx-e271vTPMvezqrro5MzWRlzqKReLb4vvB9HuYY3GW4uMkzpMLCIgKxQH4QGJ9mpx4F6r2QK9Y4GRamXqDGDIwwHZRcPFNC7iMKz8ImPdWCpp8zeCF1OatFsE5wVA-BczQlwizxq78JLx7JjmMEECcAue5jcSztgEjFXA6cISmxuzElEJj7o4NJoz-Yx819Z6pMpRpyxF26XIqOJZgXepYC8iDNWeDu4jLsbQ45LcHWiiwGDcF6ff873KHnQPEQlrxnzlpvMtPMMxnpXJG_ECyeo6k0D3XtZJBbD0SfwepdenFaIPjj3Qhz2p5SSSZ6NZdt-_HfxIVkMK5q6yhdIojrNNQ3kZKaSi64en47ytvaf_l-vfx2tWw2Xvv0LyHWNxg",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=tt_zoHicHdBRbpswAABQ7TL9bIwImRIpmkQwzmjiFoNt8M9EDMGJbaCJGxL-eoWeYafaaTbtHeF9_janTv_59qWcG66r2Wwcx-e271vTPMvezqrro5MzWRlzqKReLb4vvB9HuYY3GW4uMkzpMLCIgKxQH4QGJ9mpx4F6r2QK9Y4GRamXqDGDIwwHZRcPFNC7iMKz8ImPdWCpp8zeCF1OatFsE5wVA-BczQlwizxq78JLx7JjmMEECcAue5jcSztgEjFXA6cISmxuzElEJj7o4NJoz-Yx819Z6pMpRpyxF26XIqOJZgXepYC8iDNWeDu4jLsbQ45LcHWiiwGDcF6ff873KHnQPEQlrxnzlpvMtPMMxnpXJG_ECyeo6k0D3XtZJBbD0SfwepdenFaIPjj3Qhz2p5SSSZ6NZdt-_HfxIVkMK5q6yhdIojrNNQ3kZKaSi64en47ytvaf_l-vfx2tWw2Xvv0LyHWNxg",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS05XUkxSVzVxWm1RMFpqaG1ZbWxKTVV0SVMyaE9ZMmxtYm1OUldFVTFUV2RtVERoTE1HUnRha05ZTjFGRlYyTm9iRzV4Y1RWd1EyOXRORXN4VEdnMVlVRmlaRzVyYzFkS2FIbGhRV05UYkRBd01YQTJMVVl4VWtsTWR4SVhRbmhMYW1GeVpqUk1OMFJMTVhOUlVHaGxNbGx0UVRRYUlrRkVjM0k1WmxSd05sZDRNVzVmTFdOcmEzaG1VbTgxYzNsdWNEZGpSVUpFVlZFIiwiZmN2IjoiMyIsImVpIjoiQnhLamFyZjRMN0RLMXNRUGhlMlltQTQiLCJxYyI6IkNpSnpZV3hsYzJsaGJuTWdiMllnWkc5dUlHSnZjMk52SUdocFoyZ2djMk5vYjI5c0VBQXhBQUFBZ04zQXd6OTlwdHYyUGciLCJxdWVzdGlvbiI6IkhvdyBtYW55IHllYXJzIGRvZXMgaXQgdGFrZSB0byBiZWNvbWUgYSBTYWxlc2lhbiBwcmllc3Q/IiwibGsiOiJHaXBvYjNjZ2JXRnVlU0I1WldGeWN5QjBieUJpWldOdmJXVWdZU0J6WVd4bGMybGhiaUJ3Y21sbGMzUSIsImJzIjoiYzJYT01RLUNRQXdGNExqZTVHUUlpOVhCd1RnUkJ6Y2lhdUxnNXNCY3NQRXV3cFhRU3dqXzNrTVVNWTdOLTk1TDFVbEJxdEhCalVrZ0kyUHZnSERGZ3NTZ2haTFF4dEVpbkRkX1JzWkdhYlU3Y3dNbDJoWmF3bHA2YkJ3NGZCQTQ5cjJjU3hxUFY3VWhjWEcwQ2RmNnR6dm04c3ZWVmdYN21vWVZnUU02ellYSkpZNkNjSVkta3lITDM1bTZxRldLQWtlMmtMRGs3SWNfUGVEYVh3bFd6blRmTEVQX3VvWHNwY3gzb21OWmo2YVRKdyIsImlkIjoiZmNfQnhLamFyZjRMN0RLMXNRUGhlMlltQTRfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS05XUkxSVzVxWm1RMFpqaG1ZbWxKTVV0SVMyaE9ZMmxtYm1OUldFVTFUV2RtVERoTE1HUnRha05ZTjFGRlYyTm9iRzV4Y1RWd1EyOXRORXN4VEdnMVlVRmlaRzVyYzFkS2FIbGhRV05UYkRBd01YQTJMVVl4VWtsTWR4SVhRbmhMYW1GeVpqUk1OMFJMTVhOUlVHaGxNbGx0UVRRYUlrRkVjM0k1WmxSd05sZDRNVzVmTFdOcmEzaG1VbTgxYzNsdWNEZGpSVUpFVlZFIiwiZmN2IjoiMyIsImVpIjoiQnhLamFyZjRMN0RLMXNRUGhlMlltQTQiLCJxYyI6IkNpSnpZV3hsYzJsaGJuTWdiMllnWkc5dUlHSnZjMk52SUdocFoyZ2djMk5vYjI5c0VBQXhBQUFBZ04zQXd6OTlwdHYyUGciLCJxdWVzdGlvbiI6IkhvdyBtYW55IHllYXJzIGRvZXMgaXQgdGFrZSB0byBiZWNvbWUgYSBTYWxlc2lhbiBwcmllc3Q%2FIiwibGsiOiJHaXBvYjNjZ2JXRnVlU0I1WldGeWN5QjBieUJpWldOdmJXVWdZU0J6WVd4bGMybGhiaUJ3Y21sbGMzUSIsImJzIjoiYzJYT01RLUNRQXdGNExqZTVHUUlpOVhCd1RnUkJ6Y2lhdUxnNXNCY3NQRXV3cFhRU3dqXzNrTVVNWTdOLTk1TDFVbEJxdEhCalVrZ0kyUHZnSERGZ3NTZ2haTFF4dEVpbkRkX1JzWkdhYlU3Y3dNbDJoWmF3bHA2YkJ3NGZCQTQ5cjJjU3hxUFY3VWhjWEcwQ2RmNnR6dm04c3ZWVmdYN21vWVZnUU02ellYSkpZNkNjSVkta3lITDM1bTZxRldLQWtlMmtMRGs3SWNfUGVEYVh3bFd6blRmTEVQX3VvWHNwY3gzb21OWmo2YVRKdyIsImlkIjoiZmNfQnhLamFyZjRMN0RLMXNRUGhlMlltQTRfNSJ9"
+  },
+  {
+   "question": "Are Salesians Catholics?",
+   "type": "ai_overview",
+   "page_token": "15Yp0HicHdA7boMwAIBh9TIZgzEhVSNFlSgmBBVHGGweSwU2wQjzSKEhYetdeqqeplGnf_mm__tH1V3z-5TIaRrGnabN87yu-r5S5Zr3rZaP945rPFeqyHmz2z5v9dcz36Nxtt762QroMDCbgJBOU-laMk0UIwfWBoDATA1N5OIpiKXvMwYToDcB1JuH-2L2EQp0XHKA8xy9KEKJnSb9zKk4sVi_MiWxQBKmicCCEY9ETs3jjUkAqd8pC0pX-bQbLrghfZb4JkEyzBiuQ8YukeMoDm6PSli0JOCJHIsWG5GRtRnCCT7cbiFDoQO8TQgHydsURLZA4eIslFl9FnlZQRE41J5FXHw_xRklrjTCxb9Hhtxy5QQMVmbRmjDQxSw6kZaOY6zO_Lo3Vv_H9h_ndtoNn331B0mLeD8",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=15Yp0HicHdA7boMwAIBh9TIZgzEhVSNFlSgmBBVHGGweSwU2wQjzSKEhYetdeqqeplGnf_mm__tH1V3z-5TIaRrGnabN87yu-r5S5Zr3rZaP945rPFeqyHmz2z5v9dcz36Nxtt762QroMDCbgJBOU-laMk0UIwfWBoDATA1N5OIpiKXvMwYToDcB1JuH-2L2EQp0XHKA8xy9KEKJnSb9zKk4sVi_MiWxQBKmicCCEY9ETs3jjUkAqd8pC0pX-bQbLrghfZb4JkEyzBiuQ8YukeMoDm6PSli0JOCJHIsWG5GRtRnCCT7cbiFDoQO8TQgHydsURLZA4eIslFl9FnlZQRE41J5FXHw_xRklrjTCxb9Hhtxy5QQMVmbRmjDQxSw6kZaOY6zO_Lo3Vv_H9h_ndtoNn331B0mLeD8",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS05XUkxSVzVxWm1RMFpqaG1ZbWxKTVV0SVMyaE9ZMmxtYm1OUldFVTFUV2RtVERoTE1HUnRha05ZTjFGRlYyTm9iRzV4Y1RWd1EyOXRORXN4VEdnMVlVRmlaRzVyYzFkS2FIbGhRV05UYkRBd01YQTJMVVl4VWtsTWR4SVhRbmhMYW1GeVpqUk1OMFJMTVhOUlVHaGxNbGx0UVRRYUlrRkVjM0k1WmxSd05sZDRNVzVmTFdOcmEzaG1VbTgxYzNsdWNEZGpSVUpFVlZFIiwiZmN2IjoiMyIsImVpIjoiQnhLamFyZjRMN0RLMXNRUGhlMlltQTQiLCJxYyI6IkNpSnpZV3hsYzJsaGJuTWdiMllnWkc5dUlHSnZjMk52SUdocFoyZ2djMk5vYjI5c0VBQXhBQUFBZ04zQXd6OTlwdHYyUGciLCJxdWVzdGlvbiI6IkFyZSBTYWxlc2lhbnMgQ2F0aG9saWNzPyIsImxrIjoiR2haaGNtVWdjMkZzWlhOcFlXNXpJR05oZEdodmJHbGoiLCJicyI6ImMyWE9NUS1DUUF3RjRMamU1R1FJaTlYQndUZ1JCemNpYXVMZzVzQmNzUEV1d3BYUVN3al8za01VTVk3Ti05NUwxVWxCcXRIQmpVa2dJMlB2Z0hERmdzU2doWkxReHRFaW5EZF9Sc1pHYWJVN2N3TWwyaFphd2xwNmJCdzRmQkE0OXIyY1N4cVBWN1VoY1hHMENkZjZ0enZtOHN2VlZnWDdtb1lWZ1FNNnpZWEpKWTZDY0lZLWt5SEwzNW02cUZXS0FrZTJrTERrN0ljX1BlRGFYd2xXem5UZkxFUF91b1hzcGN4M29tTlpqNmFUSnciLCJpZCI6ImZjX0J4S2phcmY0TDdESzFzUVBoZTJZbUE0XzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS05XUkxSVzVxWm1RMFpqaG1ZbWxKTVV0SVMyaE9ZMmxtYm1OUldFVTFUV2RtVERoTE1HUnRha05ZTjFGRlYyTm9iRzV4Y1RWd1EyOXRORXN4VEdnMVlVRmlaRzVyYzFkS2FIbGhRV05UYkRBd01YQTJMVVl4VWtsTWR4SVhRbmhMYW1GeVpqUk1OMFJMTVhOUlVHaGxNbGx0UVRRYUlrRkVjM0k1WmxSd05sZDRNVzVmTFdOcmEzaG1VbTgxYzNsdWNEZGpSVUpFVlZFIiwiZmN2IjoiMyIsImVpIjoiQnhLamFyZjRMN0RLMXNRUGhlMlltQTQiLCJxYyI6IkNpSnpZV3hsYzJsaGJuTWdiMllnWkc5dUlHSnZjMk52SUdocFoyZ2djMk5vYjI5c0VBQXhBQUFBZ04zQXd6OTlwdHYyUGciLCJxdWVzdGlvbiI6IkFyZSBTYWxlc2lhbnMgQ2F0aG9saWNzPyIsImxrIjoiR2haaGNtVWdjMkZzWlhOcFlXNXpJR05oZEdodmJHbGoiLCJicyI6ImMyWE9NUS1DUUF3RjRMamU1R1FJaTlYQndUZ1JCemNpYXVMZzVzQmNzUEV1d3BYUVN3al8za01VTVk3Ti05NUwxVWxCcXRIQmpVa2dJMlB2Z0hERmdzU2doWkxReHRFaW5EZF9Sc1pHYWJVN2N3TWwyaFphd2xwNmJCdzRmQkE0OXIyY1N4cVBWN1VoY1hHMENkZjZ0enZtOHN2VlZnWDdtb1lWZ1FNNnpZWEpKWTZDY0lZLWt5SEwzNW02cUZXS0FrZTJrTERrN0ljX1BlRGFYd2xXem5UZkxFUF91b1hzcGN4M29tTlpqNmFUSnciLCJpZCI6ImZjX0J4S2phcmY0TDdESzFzUVBoZTJZbUE0XzUifQ%3D%3D"
+  },
+  {
+   "question": "Was Don Bosco a Catholic or a Baptist?",
+   "type": "ai_overview",
+   "page_token": "BOaTMnicHdBdjqIwAADg7GV8HOkwutHETET-RO2khbbAy6S0IEILdWVFedu77KnmNJPMd4Tv33916dqvX_d6GMxtPZ-P4_hy7vuzKl9Er-f89uzEXHClCi7a9fL3ErxXYuP93Tu7695BxBjqYitmkcqY0ZRJRP3tgjGc8Gk7lLrel_T0Kia1KJsoYWwAhdc-k0a5RSfBkRn-EfphGWRvuAUVtlZXDPzrMaEHGkA7DhTiBHoflD5JE935DvhxCgfowiWiOT_ZkYJNZGgjaUZXFQ7VrrBrc9JmxCl2eLJdwFDmcoIHNG0t7MooD2VctGeA29VrpmGaB480d2kgE3UpqaFQU-zVcld6wzVLIw290cbe7SGAj3hAnowBBzr9BRE8iUZpQn0rjgEnnXwjrozjrg5kiyzprxAJ8AG2j1qOs0rcN_bs53PzWelhbf70529Ws4N0",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=BOaTMnicHdBdjqIwAADg7GV8HOkwutHETET-RO2khbbAy6S0IEILdWVFedu77KnmNJPMd4Tv33916dqvX_d6GMxtPZ-P4_hy7vuzKl9Er-f89uzEXHClCi7a9fL3ErxXYuP93Tu7695BxBjqYitmkcqY0ZRJRP3tgjGc8Gk7lLrel_T0Kia1KJsoYWwAhdc-k0a5RSfBkRn-EfphGWRvuAUVtlZXDPzrMaEHGkA7DhTiBHoflD5JE935DvhxCgfowiWiOT_ZkYJNZGgjaUZXFQ7VrrBrc9JmxCl2eLJdwFDmcoIHNG0t7MooD2VctGeA29VrpmGaB480d2kgE3UpqaFQU-zVcld6wzVLIw290cbe7SGAj3hAnowBBzr9BRE8iUZpQn0rjgEnnXwjrozjrg5kiyzprxAJ8AG2j1qOs0rcN_bs53PzWelhbf70529Ws4N0",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS05XUkxSVzVxWm1RMFpqaG1ZbWxKTVV0SVMyaE9ZMmxtYm1OUldFVTFUV2RtVERoTE1HUnRha05ZTjFGRlYyTm9iRzV4Y1RWd1EyOXRORXN4VEdnMVlVRmlaRzVyYzFkS2FIbGhRV05UYkRBd01YQTJMVVl4VWtsTWR4SVhRbmhMYW1GeVpqUk1OMFJMTVhOUlVHaGxNbGx0UVRRYUlrRkVjM0k1WmxSd05sZDRNVzVmTFdOcmEzaG1VbTgxYzNsdWNEZGpSVUpFVlZFIiwiZmN2IjoiMyIsImVpIjoiQnhLamFyZjRMN0RLMXNRUGhlMlltQTQiLCJxYyI6IkNpSnpZV3hsYzJsaGJuTWdiMllnWkc5dUlHSnZjMk52SUdocFoyZ2djMk5vYjI5c0VBQXhBQUFBZ04zQXd6OTlwdHYyUGciLCJxdWVzdGlvbiI6IldhcyBEb24gQm9zY28gYSBDYXRob2xpYyBvciBhIEJhcHRpc3Q/IiwibGsiOiJHaUJrYjI0Z1ltOXpZMjhnYVhNZ1kyRjBhRzlzYVdNZ2IzSWdZbUZ3ZEdsemRBIiwiYnMiOiJjMlhPTVEtQ1FBd0Y0TGplNUdRSWk5WEJ3VGdSQnpjaWF1TGc1c0Jjc1BFdXdwWFFTd2pfM2tNVU1ZN04tOTVMMVVsQnF0SEJqVWtnSTJQdmdIREZnc1NnaFpMUXh0RWluRGRfUnNaR2FiVTdjd01sMmhaYXdscDZiQnc0ZkJBNDlyMmNTeHFQVjdVaGNYRzBDZGY2dHp2bThzdlZWZ1g3bW9ZVmdRTTZ6WVhKSlk2Q2NJWS1reUhMMzVtNnFGV0tBa2Uya0xEazdJY19QZURhWHdsV3puVGZMRVBfdW9Yc3BjeDNvbU5aajZhVEp3IiwiaWQiOiJmY19CeEtqYXJmNEw3REsxc1FQaGUyWW1BNF81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS05XUkxSVzVxWm1RMFpqaG1ZbWxKTVV0SVMyaE9ZMmxtYm1OUldFVTFUV2RtVERoTE1HUnRha05ZTjFGRlYyTm9iRzV4Y1RWd1EyOXRORXN4VEdnMVlVRmlaRzVyYzFkS2FIbGhRV05UYkRBd01YQTJMVVl4VWtsTWR4SVhRbmhMYW1GeVpqUk1OMFJMTVhOUlVHaGxNbGx0UVRRYUlrRkVjM0k1WmxSd05sZDRNVzVmTFdOcmEzaG1VbTgxYzNsdWNEZGpSVUpFVlZFIiwiZmN2IjoiMyIsImVpIjoiQnhLamFyZjRMN0RLMXNRUGhlMlltQTQiLCJxYyI6IkNpSnpZV3hsYzJsaGJuTWdiMllnWkc5dUlHSnZjMk52SUdocFoyZ2djMk5vYjI5c0VBQXhBQUFBZ04zQXd6OTlwdHYyUGciLCJxdWVzdGlvbiI6IldhcyBEb24gQm9zY28gYSBDYXRob2xpYyBvciBhIEJhcHRpc3Q%2FIiwibGsiOiJHaUJrYjI0Z1ltOXpZMjhnYVhNZ1kyRjBhRzlzYVdNZ2IzSWdZbUZ3ZEdsemRBIiwiYnMiOiJjMlhPTVEtQ1FBd0Y0TGplNUdRSWk5WEJ3VGdSQnpjaWF1TGc1c0Jjc1BFdXdwWFFTd2pfM2tNVU1ZN04tOTVMMVVsQnF0SEJqVWtnSTJQdmdIREZnc1NnaFpMUXh0RWluRGRfUnNaR2FiVTdjd01sMmhaYXdscDZiQnc0ZkJBNDlyMmNTeHFQVjdVaGNYRzBDZGY2dHp2bThzdlZWZ1g3bW9ZVmdRTTZ6WVhKSlk2Q2NJWS1reUhMMzVtNnFGV0tBa2Uya0xEazdJY19QZURhWHdsV3puVGZMRVBfdW9Yc3BjeDNvbU5aajZhVEp3IiwiaWQiOiJmY19CeEtqYXJmNEw3REsxc1FQaGUyWW1BNF81In0%3D"
+  }
+ ],
+ "ai_overview": {
+  "page_token": "JnzckXiczVVbcrJIFF7ArOPnJVHAS9RUUX91N2TES7SjxuiLhQ00KEikVaJvs4bZwqxqVjMNaIK3ZPI_TM2pgr5wLh-nz9fnj788dzH_-7c_ndXqld2LYhRFeRoE1LPyJPBFg20XRLQDj4XE-Uk9Zc0Ex1OshcCCdUgs11SIEwa-JWw3SlEgTJEEy1XgW3NmhHapVVGbMsNdxyqMfFASEnfKZGowa8ajvc2YOBH5a_6jqPJFnuWtRf5pHFIS4r6da-cLklzLd0TD5wrgPxMEMKD8jXCyuCq__zt3lAINgEbGf-pTy6jECww0CtM1xJddYZ2rxiPAKEWmRrvcaMonRqqhxh8vC8p-gDTRgzDxB3oQXDe8KClSRPe-P9XVLu6irINY2l-acIyjYxQ6QN1on-JzJDrQ9CPEOA1CYQRmkU01TYOf4OYJGUSw3IwtPlHj0sR6P9pDaKtDHlg0KS9aSZyGfJBFlzgkmYQsrmXUr0lBvbOBhPq1x6o1X06H8kN5MHSN8SpnWEAkU67nBYZpmRNnIv1M1nJBLku1YqV6m5CIsHcWsSyLXv0SqkzGSF5V8608lA8UQnFGzrPEs83XSAfnAvdldvGAdXA4DO09wXxXR5l0DfajA2CA47rN-AYBriYJO-xYSf2SjyP5gBRHOKfQKbSYQokRTEPDLLyDCqXwgikXcvaHZ1XI40bpjJ6yH59UkobRPBsiOvrKQfYcLU5UzIBnoqUATqtRO5jjA14aH-Ih7-_O8R5uhkIujbPOw9IeV2xg2ozV4fsZwP3PwcYp8d3Tv07kgfuDI_17t8Re9C8uiFTnwJWT0s9S5sEqeXbUCDur-Ry3SvNZVfIX8lNjZ0_wZYoE_vQbnYb8n0jkHvrQYG97hUS5ePI1iSi_7q72oXT60YdSEkF8hUR6SqILfchKNTJ96JREqJch0Rd96LskQp-SKL2MLpIodnCJRPMrJNr3oQyJesd96IhE733og0S_0ofQL_WhhFNWOhw3pfWMXm9O7vOw3ywNZPKY6_gvS4-22lW5Y2yeN183J9tf3fuG6d1OXPMeFhqrrXk74RvBvWUKS-VHodAzPIu5xoLdBPaNGixuYMBIcFN3qXPTI04QeFxJ8L0wUCTjrju7q1YG6uNgOqvPn5iHpHH3OWwXJ6ZMt42WijrRollclku14mgI1-bLFjyhtbp5I9pstx2QsD5Dq7vyuv66fLJQOFqP1OANwGgcvqx303lNHbyUkV1sDn1M6uOOBcdsqW_wItfv2hWyZi29IqFqtWVV6oh0cMVLkDGFdHt9va6xHWkLfkgUfkAlCh4xGFJeh2jE6cHrGwX8ifhzB7AGBUaMicU2ilSc2hZPGiFTs1YqyIJPV9tXpSQLbBEq8j9Z50kD",
+  "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=JnzckXiczVVbcrJIFF7ArOPnJVHAS9RUUX91N2TES7SjxuiLhQ00KEikVaJvs4bZwqxqVjMNaIK3ZPI_TM2pgr5wLh-nz9fnj788dzH_-7c_ndXqld2LYhRFeRoE1LPyJPBFg20XRLQDj4XE-Uk9Zc0Ex1OshcCCdUgs11SIEwa-JWw3SlEgTJEEy1XgW3NmhHapVVGbMsNdxyqMfFASEnfKZGowa8ajvc2YOBH5a_6jqPJFnuWtRf5pHFIS4r6da-cLklzLd0TD5wrgPxMEMKD8jXCyuCq__zt3lAINgEbGf-pTy6jECww0CtM1xJddYZ2rxiPAKEWmRrvcaMonRqqhxh8vC8p-gDTRgzDxB3oQXDe8KClSRPe-P9XVLu6irINY2l-acIyjYxQ6QN1on-JzJDrQ9CPEOA1CYQRmkU01TYOf4OYJGUSw3IwtPlHj0sR6P9pDaKtDHlg0KS9aSZyGfJBFlzgkmYQsrmXUr0lBvbOBhPq1x6o1X06H8kN5MHSN8SpnWEAkU67nBYZpmRNnIv1M1nJBLku1YqV6m5CIsHcWsSyLXv0SqkzGSF5V8608lA8UQnFGzrPEs83XSAfnAvdldvGAdXA4DO09wXxXR5l0DfajA2CA47rN-AYBriYJO-xYSf2SjyP5gBRHOKfQKbSYQokRTEPDLLyDCqXwgikXcvaHZ1XI40bpjJ6yH59UkobRPBsiOvrKQfYcLU5UzIBnoqUATqtRO5jjA14aH-Ih7-_O8R5uhkIujbPOw9IeV2xg2ozV4fsZwP3PwcYp8d3Tv07kgfuDI_17t8Re9C8uiFTnwJWT0s9S5sEqeXbUCDur-Ry3SvNZVfIX8lNjZ0_wZYoE_vQbnYb8n0jkHvrQYG97hUS5ePI1iSi_7q72oXT60YdSEkF8hUR6SqILfchKNTJ96JREqJch0Rd96LskQp-SKL2MLpIodnCJRPMrJNr3oQyJesd96IhE733og0S_0ofQL_WhhFNWOhw3pfWMXm9O7vOw3ywNZPKY6_gvS4-22lW5Y2yeN183J9tf3fuG6d1OXPMeFhqrrXk74RvBvWUKS-VHodAzPIu5xoLdBPaNGixuYMBIcFN3qXPTI04QeFxJ8L0wUCTjrju7q1YG6uNgOqvPn5iHpHH3OWwXJ6ZMt42WijrRollclku14mgI1-bLFjyhtbp5I9pstx2QsD5Dq7vyuv66fLJQOFqP1OANwGgcvqx303lNHbyUkV1sDn1M6uOOBcdsqW_wItfv2hWyZi29IqFqtWVV6oh0cMVLkDGFdHt9va6xHWkLfkgUfkAlCh4xGFJeh2jE6cHrGwX8ifhzB7AGBUaMicU2ilSc2hZPGiFTs1YqyIJPV9tXpSQLbBEq8j9Z50kD"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Presenting the Salesians of Don Bosco Southern California ...",
+   "link": "https://salesianbulletin.org/2024/03/12/presenting-the-salesians-of-don-bosco-southern-california-high-school-marching-band/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEStAEB6zswFQGzVvPkdqif0AlK1u_n54sFb9ZhEF3anAy9w7hu_2U-sBI7_IHquFrj2wNvRAwxZm5LsAlkK7R8oI5goQEMUhPfogy55TXxvLoQVHMzpkM4PjBoVkEh03_1rmipBHc59mHp52zjF9OyUU9dXM0Oo3IFXfvJRmJ3oaLI2PCoY0CbWehoVdlfOgheLRj--VdGnlCtYOTqS8z3OSg6vpb0wiL6n5bfykC1CkA1uVuAJOs&ved=2ahUKEwj3l_2O7OSWAxUwpZUCHYU2BuMQFnoECB0QAQ&uoh=1",
+   "displayed_link": "https://salesianbulletin.org \u203a 2024/03/12 \u203a presenting-th...",
+   "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nys3Nys3LTc3NzctNzcuNzc3Nys3Nzc3Nzc3Nzc1NS01NzUyNS03Li43NzA3NzUtN__AABEIABwAHAMBIgACEQEDEQH_xAAZAAACAwEAAAAAAAAAAAAAAAADBwIFBgj_xAAnEAABAwMDAwUBAQAAAAAAAAABAgMEAAUREiExBhNRIkFhkaFxFP_EABcBAQEBAQAAAAAAAAAAAAAAAAQDAgD_xAAbEQACAwEBAQAAAAAAAAAAAAABAwACMRESBP_aAAwDAQACEQMRAD8Ao5av8sN-SEa-0gqCfJ9qlaej7h1FHZfMs9xQ1FJc0JTtkDA-aPeraqbaZLDailZTqTv7g5wa0fSinIi4YYubLcV1xLZZKBqO2_qPvkD9obGEYYpa-7KaZ07MsRSzOLiw6cNrKgoZxkjPP3QRH2raX6JNkw2HJ0uO-pl0rT2UFI04I3GeRkfZrPdgj2rFbkzrU5DS3I1vaL859phsDlxQTmqC1z4ypLeoOrhpc7jTzKAttYztnwofhzSxlOuy3lPSnnHnVcrcUVGpWy4TbVMTItst6K8k5C2llJP98j4NIPz9GydXeTk6DekmS0O2FhChqBXyoeT9UJuNlOSKStr6ju8Bx6c3PfddUdTofWXA6ePVnfgDfnanhZZCptrjSXUpC3EBRCRtULKK5QM9z__Z.jpeg",
+   "date": "Mar 12, 2024",
+   "snippet": "The theme of this year's parade is \u201cBest Day Ever.\u201d With Salesian spirit and dedication, the Salesians of Don Bosco High School Band of ...",
+   "snippet_highlighted_words": [
+    "Salesians of Don Bosco High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The theme of this year's parade is \u201cBest Day Ever.\u201d With Salesian spirit and dedication, the Salesians of Don Bosco High School Band of ...",
+     "source_info_link": "https://salesianbulletin.org/2024/03/12/presenting-the-salesians-of-don-bosco-southern-california-high-school-marching-band/",
+     "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nys3Nys3LTc3NzctNzcuNzc3Nys3Nzc3Nzc3Nzc1NS01NzUyNS03Li43NzA3NzUtN__AABEIABwAHAMBIgACEQEDEQH_xAAZAAACAwEAAAAAAAAAAAAAAAADBwIFBgj_xAAnEAABAwMDAwUBAQAAAAAAAAABAgMEAAUREiExBhNRIkFhkaFxFP_EABcBAQEBAQAAAAAAAAAAAAAAAAQDAgD_xAAbEQACAwEBAQAAAAAAAAAAAAABAwACMRESBP_aAAwDAQACEQMRAD8Ao5av8sN-SEa-0gqCfJ9qlaej7h1FHZfMs9xQ1FJc0JTtkDA-aPeraqbaZLDailZTqTv7g5wa0fSinIi4YYubLcV1xLZZKBqO2_qPvkD9obGEYYpa-7KaZ07MsRSzOLiw6cNrKgoZxkjPP3QRH2raX6JNkw2HJ0uO-pl0rT2UFI04I3GeRkfZrPdgj2rFbkzrU5DS3I1vaL859phsDlxQTmqC1z4ypLeoOrhpc7jTzKAttYztnwofhzSxlOuy3lPSnnHnVcrcUVGpWy4TbVMTItst6K8k5C2llJP98j4NIPz9GydXeTk6DekmS0O2FhChqBXyoeT9UJuNlOSKStr6ju8Bx6c3PfddUdTofWXA6ePVnfgDfnanhZZCptrjSXUpC3EBRCRtULKK5QM9z__Z.jpeg"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEStAEB6zswFQGzVvPkdqif0AlK1u_n54sFb9ZhEF3anAy9w7hu_2U-sBI7_IHquFrj2wNvRAwxZm5LsAlkK7R8oI5goQEMUhPfogy55TXxvLoQVHMzpkM4PjBoVkEh03_1rmipBHc59mHp52zjF9OyUU9dXM0Oo3IFXfvJRmJ3oaLI2PCoY0CbWehoVdlfOgheLRj--VdGnlCtYOTqS8z3OSg6vpb0wiL6n5bfykC1CkA1uVuAJOs&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEStAEB6zswFQGzVvPkdqif0AlK1u_n54sFb9ZhEF3anAy9w7hu_2U-sBI7_IHquFrj2wNvRAwxZm5LsAlkK7R8oI5goQEMUhPfogy55TXxvLoQVHMzpkM4PjBoVkEh03_1rmipBHc59mHp52zjF9OyUU9dXM0Oo3IFXfvJRmJ3oaLI2PCoY0CbWehoVdlfOgheLRj--VdGnlCtYOTqS8z3OSg6vpb0wiL6n5bfykC1CkA1uVuAJOs",
+   "source": "salesianbulletin.org",
+   "read_more_link": "https://salesianbulletin.org/2024/03/12/presenting-the-salesians-of-don-bosco-southern-california-high-school-marching-band/#:~:text=The%20theme%20of%20this%20year's,ever%E2%80%9D%20to%20this%20historic%20opportunity."
+  },
+  {
+   "position": 2,
+   "title": "Founder | Don Bosco School of Excellence - Erragadda",
+   "link": "https://dbseerragadda.edu.in/about-us/founder",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZQHrOzAVy7115BhyvLF6WYRloPErXFVuczD5XETD0e1OhGs76MZVtzWF0GLkj68-Qk1Q6EEv-MUlh178uw1hbAB0KSdt_17jTwEALgtlW7Sxm859sA6RwgoprU2pilo5aoJWQGap&ved=2ahUKEwj3l_2O7OSWAxUwpZUCHYU2BuMQFnoECB8QAQ&uoh=1",
+   "displayed_link": "https://dbseerragadda.edu.in \u203a about-us \u203a founder",
+   "favicon": "https://serpapi.com/searches/6aa311f402ab8cc2d62dad1e/images/pFw3eqMeQkUh0y7ZT9eHQUau0S2ADE5rWU777NWzKzg.png",
+   "snippet": "Saint John Bosco. Salesians of Don Bosco High School. In every era, a charismatic figure often emerges to uplift the spirit of the times and rescue it from ...",
+   "snippet_highlighted_words": [
+    "Salesians of Don Bosco High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Saint John Bosco. Salesians of Don Bosco High School. In every era, a charismatic figure often emerges to uplift the spirit of the times and rescue it from ...",
+     "source_info_link": "https://dbseerragadda.edu.in/about-us/founder",
+     "icon": "https://serpapi.com/searches/6aa311f402ab8cc2d62dad1e/images/pFw3eqMeQkUh0y7ZT9eHQeer4zI8MkAA5iZL4wT-00JSS73Mf1UxE977fiqpO27K.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESZQHrOzAVy7115BhyvLF6WYRloPErXFVuczD5XETD0e1OhGs76MZVtzWF0GLkj68-Qk1Q6EEv-MUlh178uw1hbAB0KSdt_17jTwEALgtlW7Sxm859sA6RwgoprU2pilo5aoJWQGap&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESZQHrOzAVy7115BhyvLF6WYRloPErXFVuczD5XETD0e1OhGs76MZVtzWF0GLkj68-Qk1Q6EEv-MUlh178uw1hbAB0KSdt_17jTwEALgtlW7Sxm859sA6RwgoprU2pilo5aoJWQGap",
+   "source": "dbseerragadda.edu.in",
+   "read_more_link": "https://dbseerragadda.edu.in/about-us/founder#:~:text=Saint%20John%20Bosco,and%20rescue%20it%20from%20decline."
+  },
+  {
+   "position": 3,
+   "title": "Bassam Khamaisi\u200f - \u200fAdvanced Radio Technologies at Intel ...",
+   "link": "https://il.linkedin.com/in/bassam-khamaisi-3623877",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESagHrOzAViYKm4xbupZJ9MEzOlcsS1-iziaTjzj02_e6tTvlNjEU5XOTqC_NN-Nw_Ogs-dMc2liBzqJQVn_dq1_1-IrPmF778VBM3YtD0rpPZGNd78rJKBDIpYD0Pyozr9xq8z6CGeDx1A8U&ved=2ahUKEwj3l_2O7OSWAxUwpZUCHYU2BuMQFnoECCUQAQ&uoh=1",
+   "displayed_link": "710+ followers",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAm0lEQVR4AWP4__8_RRhMyLfs3sNQvOk_KRikB24ATNB2yhEQJtoQuAEwzVAAYtPVAMJe4Cjf8l-0bsd_RkIGQAGc_ej9t_-TDt_7_-vPXzD_6Yfv_-2nHSXWAAT49P33_z9__4HZl559JM2Aqm3XwXyXGcfA_H___pFmgFj9DjCfp3IrTIgkA5ADbbAbQA6mKDPp9x7YBTOAIgwAVba5DGceMlQAAAAASUVORK5CYII.png",
+   "snippet": "Study fields: VLSI, Electromagnetics, Communication, Bio-Electronics. The Salesians of Don Bosco High School. -. 1998 - 2002.",
+   "snippet_highlighted_words": [
+    "Salesians of Don Bosco High School"
+   ],
+   "rich_snippet": {
+    "top": {
+     "extensions": [
+      "North District, Israel",
+      "Advanced Radio Technologies",
+      "Intel Corporation"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Study fields: VLSI, Electromagnetics, Communication, Bio-Electronics. The Salesians of Don Bosco High School. -. 1998 - 2002.",
+     "source_info_link": "https://il.linkedin.com/in/bassam-khamaisi-3623877",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAm0lEQVR4AWP4__8_RRhMyLfs3sNQvOk_KRikB24ATNB2yhEQJtoQuAEwzVAAYtPVAMJe4Cjf8l-0bsd_RkIGQAGc_ej9t_-TDt_7_-vPXzD_6Yfv_-2nHSXWAAT49P33_z9__4HZl559JM2Aqm3XwXyXGcfA_H___pFmgFj9DjCfp3IrTIgkA5ADbbAbQA6mKDPp9x7YBTOAIgwAVba5DGceMlQAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESagHrOzAViYKm4xbupZJ9MEzOlcsS1-iziaTjzj02_e6tTvlNjEU5XOTqC_NN-Nw_Ogs-dMc2liBzqJQVn_dq1_1-IrPmF778VBM3YtD0rpPZGNd78rJKBDIpYD0Pyozr9xq8z6CGeDx1A8U&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESagHrOzAViYKm4xbupZJ9MEzOlcsS1-iziaTjzj02_e6tTvlNjEU5XOTqC_NN-Nw_Ogs-dMc2liBzqJQVn_dq1_1-IrPmF778VBM3YtD0rpPZGNd78rJKBDIpYD0Pyozr9xq8z6CGeDx1A8U",
+   "source": "LinkedIn \u00b7 Bassam Khamaisi",
+   "read_more_link": "https://il.linkedin.com/in/bassam-khamaisi-3623877#:~:text=Study%20fields%3A%20VLSI%2C%20Electromagnetics%2C%20Communication%2C,2002"
+  },
+  {
+   "position": 4,
+   "title": "Two Beatification Processes \u2013 Two Fathers \u2013 Two Martyrs",
+   "link": "https://www.schoenstatt.org/en/covenant/2026/08/two-beatification-processes-two-fathers-two-martyrs/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnAEB6zswFRotXGdOlRB9i-voQszgXRGhfEEuJKXn4y7aqDPX0oqK7BifUAWvwvBFIsvYSFmLsoghQI5TWFVkDESrRt2B9vNUVZE2_BVBc2qbejmPPXVGxFqLa6lDl2c0-8n-duwDmOsuLxgcKzSrz1h1YXwTEKD5KNtKoW8B4Kcs73tcgF4_Om4TSwOr--TPH3yfa6y7p_5tbR-vk-c&ved=2ahUKEwj3l_2O7OSWAxUwpZUCHYU2BuMQFnoECCYQAQ&uoh=1",
+   "displayed_link": "https://www.schoenstatt.org \u203a Home \u203a Blogs",
+   "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDREMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclICU3Nzc1Nzc3Nzc3NzU3LTc3Nzc3Nzc3Nzc3Nzc3Nzc3NzctLS03Nzc3MDctNzc3NzE4N__AABEIABwAHAMBEQACEQEDEQH_xAAYAAEAAwEAAAAAAAAAAAAAAAADAgQGAP_EACkQAQABAwIEBAcAAAAAAAAAAAECAAMREiEEBROhMUFRYQYiIzNCcbH_xAAaAQEBAAMBAQAAAAAAAAAAAAACAwEEBQYA_8QAJREAAgEDAgUFAAAAAAAAAAAAAAECAxExEkEEEyFRcVKBobHw_9oADAMBAAIRAxEAPwDIWFXcwV6OJyJCzkRN2k2FAykPnRbEiD40SiNDybl1qcI3HoXW5bnL6riMdKGNvyVP0Od64_G8bKL0q6s1jLvv4XzjobVGhFq9073z-z9Bx5Tau8WWji7dkbJdOs405x8r779q6NHiXUhqaw2um9t0a06DjKyZK58P2GUWHNuDDQLqkZHG5gXz7Z9N06z9LPuU1uFd5DGKaeZ8HITP3Ix_rWOa-wtK7lDgeNu8HNbMg1G-oE9nD5nrWa3D0q6SqLHsCNSVN3id1GeVkq7uXK1dRjayRHyFOWzkotDi2sA9Q9O9ArqYtoHxKsiMhUA2KQAp0WNBPjQKo__Z.jpeg",
+   "date": "Aug 27, 2026",
+   "snippet": "Through the Salesians of Don Bosco's high school, he found his way to the religious order and traveled to Brazil in 1958, where he entered ...",
+   "snippet_highlighted_words": [
+    "Salesians of Don Bosco's high school"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Through the Salesians of Don Bosco's high school, he found his way to the religious order and traveled to Brazil in 1958, where he entered ...",
+     "source_info_link": "https://www.schoenstatt.org/en/covenant/2026/08/two-beatification-processes-two-fathers-two-martyrs/",
+     "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDREMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclICU3Nzc1Nzc3Nzc3NzU3LTc3Nzc3Nzc3Nzc3Nzc3Nzc3NzctLS03Nzc3MDctNzc3NzE4N__AABEIABwAHAMBEQACEQEDEQH_xAAYAAEAAwEAAAAAAAAAAAAAAAADAgQGAP_EACkQAQABAwIEBAcAAAAAAAAAAAECAAMREiEEBROhMUFRYQYiIzNCcbH_xAAaAQEBAAMBAQAAAAAAAAAAAAACAwEEBQYA_8QAJREAAgEDAgUFAAAAAAAAAAAAAAECAxExEkEEEyFRcVKBobHw_9oADAMBAAIRAxEAPwDIWFXcwV6OJyJCzkRN2k2FAykPnRbEiD40SiNDybl1qcI3HoXW5bnL6riMdKGNvyVP0Od64_G8bKL0q6s1jLvv4XzjobVGhFq9073z-z9Bx5Tau8WWji7dkbJdOs405x8r779q6NHiXUhqaw2um9t0a06DjKyZK58P2GUWHNuDDQLqkZHG5gXz7Z9N06z9LPuU1uFd5DGKaeZ8HITP3Ix_rWOa-wtK7lDgeNu8HNbMg1G-oE9nD5nrWa3D0q6SqLHsCNSVN3id1GeVkq7uXK1dRjayRHyFOWzkotDi2sA9Q9O9ArqYtoHxKsiMhUA2KQAp0WNBPjQKo__Z.jpeg"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESnAEB6zswFRotXGdOlRB9i-voQszgXRGhfEEuJKXn4y7aqDPX0oqK7BifUAWvwvBFIsvYSFmLsoghQI5TWFVkDESrRt2B9vNUVZE2_BVBc2qbejmPPXVGxFqLa6lDl2c0-8n-duwDmOsuLxgcKzSrz1h1YXwTEKD5KNtKoW8B4Kcs73tcgF4_Om4TSwOr--TPH3yfa6y7p_5tbR-vk-c&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESnAEB6zswFRotXGdOlRB9i-voQszgXRGhfEEuJKXn4y7aqDPX0oqK7BifUAWvwvBFIsvYSFmLsoghQI5TWFVkDESrRt2B9vNUVZE2_BVBc2qbejmPPXVGxFqLa6lDl2c0-8n-duwDmOsuLxgcKzSrz1h1YXwTEKD5KNtKoW8B4Kcs73tcgF4_Om4TSwOr--TPH3yfa6y7p_5tbR-vk-c",
+   "source": "Schoenstatt.org",
+   "read_more_link": "https://www.schoenstatt.org/en/covenant/2026/08/two-beatification-processes-two-fathers-two-martyrs/#:~:text=Through%20the%20Salesians%20of%20Don,high%20school%2C%20and%20studied%20philosophy."
+  },
+  {
+   "position": 5,
+   "title": "Rose Parade marching bands",
+   "link": "https://en.wikipedia.org/wiki/Rose_Parade_marching_bands",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHrOzAVh2LdWUOdi1Uzg4S0hsv_Yzs6QkrddPLCRWSDHW0Vo9T6vJHFsOicOlfJNNFJ5kuP924dIQn-Bm_4nZZF7qKrlTm2pVGVHBz3GgjF-V_8dyKV5SwhjHrRZRifmgdWufGHfwhMoGUdN0Y7Eco&ved=2ahUKEwj3l_2O7OSWAxUwpZUCHYU2BuMQFnoECCIQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Rose_Parade_marchin...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+   "snippet": "Salesians of Don Bosco High School Marching Band, Rosemead, Bellflower, Boyle Heights/Los Southern California; The Salvation Army Tournament of Roses Band ...",
+   "snippet_highlighted_words": [
+    "Salesians of Don Bosco High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Salesians of Don Bosco High School Marching Band, Rosemead, Bellflower, Boyle Heights/Los Southern California; The Salvation Army Tournament of Roses Band ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Rose_Parade_marching_bands",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEScAHrOzAVh2LdWUOdi1Uzg4S0hsv_Yzs6QkrddPLCRWSDHW0Vo9T6vJHFsOicOlfJNNFJ5kuP924dIQn-Bm_4nZZF7qKrlTm2pVGVHBz3GgjF-V_8dyKV5SwhjHrRZRifmgdWufGHfwhMoGUdN0Y7Eco&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEScAHrOzAVh2LdWUOdi1Uzg4S0hsv_Yzs6QkrddPLCRWSDHW0Vo9T6vJHFsOicOlfJNNFJ5kuP924dIQn-Bm_4nZZF7qKrlTm2pVGVHBz3GgjF-V_8dyKV5SwhjHrRZRifmgdWufGHfwhMoGUdN0Y7Eco",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Rose_Parade_marching_bands#:~:text=Salesians%20of%20Don%20Bosco%20High,Roses%20Band%2C%20Los%20Angeles%2C%20CA"
+  },
+  {
+   "position": 6,
+   "title": "Desfile de las Rosas 2025 - Rose Parade 2025 en primera fila ...",
+   "link": "https://www.youtube.com/watch?v=HclTR6nhjDw",
+   "displayed_link": "84.1K+ views \u00b7 1 year ago",
+   "thumbnail": "https://serpapi.com/searches/6aa311f402ab8cc2d62dad1e/images/pFw3eqMeQkUh0y7ZT9eHQWvRZeDaS8NGdeUTnJXhlqM.jpeg",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+   "snippet": "... Salesians of Don Bosco High School Marching Band de California. Distrito Unificado de Los Angeles Band. Pebble Hills High School Spartan ...",
+   "duration": "51:43",
+   "about_this_result": {
+    "source": {
+     "description": "... Salesians of Don Bosco High School Marching Band de California. Distrito Unificado de Los Angeles Band. Pebble Hills High School Spartan ...",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+    }
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYwHrOzAVYyGqw4MU9IQYAK5pGUsWoY7tv5nMQujECgRf1X9B8yNy-UC0e7FPDMHPJVC7DvOO3e2Aoq__j-ZTnorCwRQI6ufCaTAKRjajHF_GNdKlLiH6pfLJPajp0ZfR2-ZL5g&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYwHrOzAVYyGqw4MU9IQYAK5pGUsWoY7tv5nMQujECgRf1X9B8yNy-UC0e7FPDMHPJVC7DvOO3e2Aoq__j-ZTnorCwRQI6ufCaTAKRjajHF_GNdKlLiH6pfLJPajp0ZfR2-ZL5g",
+   "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQo_nFFIvFH5pa-oTCo8pAasDGoXvf46Zs7nw",
+   "source": "YouTube \u00b7 Vista al Mundo"
+  },
+  {
+   "position": 7,
+   "title": "Yukinori Azuma \u6771 \u5e78\u7d00 - Business Development ...",
+   "link": "https://jp.linkedin.com/in/yukinori-azuma-%E6%9D%B1-%E5%B9%B8%E7%B4%80-94016435",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShwEB6zswFUWutLcRLSsUgCyNUl33_aB8N-8oCGicyO0kunP5ZVvLEpKDcW0gaaMWZmlpoa2ZHZDaWyCXNCap5K8gmP_mmJFFx79s8ywSouL9efbfjT-qbA0DoM8-SBkYl0CBKsf_uWbI4Uw3He-TWIGbsA1M2SOZRr8C4mK4kyaumJJF2_BIYB8&ved=2ahUKEwj3l_2O7OSWAxUwpZUCHYU2BuMQFnoECEQQAQ&uoh=1",
+   "displayed_link": "480+ followers",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAm0lEQVR4AWP4__8_RRhMyLfs3sNQvOk_KRikB24ATNB2yhEQJtoQuAEwzVAAYtPVAMJe4Cjf8l-0bsd_RkIGQAGc_ej9t_-TDt_7_-vPXzD_6Yfv_-2nHSXWAAT49P33_z9__4HZl559JM2Aqm3XwXyXGcfA_H___pFmgFj9DjCfp3IrTIgkA5ADbbAbQA6mKDPp9x7YBTOAIgwAVba5DGceMlQAAAAASUVORK5CYII.png",
+   "snippet": "Hyuga Gakuin (Salesians of Don Bosco) High School. -. 1977\u5e74 \u2013 1980\u5e74. \u30bc\u30df\u30fb\u30af\u30e9\u30d6\u30fb\u30b5\u30fc\u30af\u30eb:A Choristera Choir Boy, Bible Class. \u8a00\u8a9e. English. \u30d3\u30b8\u30cd\u30b9\u4e0a\u7d1a ...",
+   "snippet_highlighted_words": [
+    "Salesians of Don Bosco) High School"
+   ],
+   "rich_snippet": {
+    "top": {
+     "extensions": [
+      "\u5e83\u57df\u6771\u4eac\u30a8\u30ea\u30a2",
+      "Connector Solution Division Overseas Sales General Manager",
+      "Yamaichi Electronics Co., Ltd."
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Hyuga Gakuin (Salesians of Don Bosco) High School. -. 1977\u5e74 \u2013 1980\u5e74. \u30bc\u30df\u30fb\u30af\u30e9\u30d6\u30fb\u30b5\u30fc\u30af\u30eb:A Choristera Choir Boy, Bible Class. \u8a00\u8a9e. English. \u30d3\u30b8\u30cd\u30b9\u4e0a\u7d1a ...",
+     "source_info_link": "https://jp.linkedin.com/in/yukinori-azuma-%E6%9D%B1-%E5%B9%B8%E7%B4%80-94016435",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAm0lEQVR4AWP4__8_RRhMyLfs3sNQvOk_KRikB24ATNB2yhEQJtoQuAEwzVAAYtPVAMJe4Cjf8l-0bsd_RkIGQAGc_ej9t_-TDt_7_-vPXzD_6Yfv_-2nHSXWAAT49P33_z9__4HZl559JM2Aqm3XwXyXGcfA_H___pFmgFj9DjCfp3IrTIgkA5ADbbAbQA6mKDPp9x7YBTOAIgwAVba5DGceMlQAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEShwEB6zswFUWutLcRLSsUgCyNUl33_aB8N-8oCGicyO0kunP5ZVvLEpKDcW0gaaMWZmlpoa2ZHZDaWyCXNCap5K8gmP_mmJFFx79s8ywSouL9efbfjT-qbA0DoM8-SBkYl0CBKsf_uWbI4Uw3He-TWIGbsA1M2SOZRr8C4mK4kyaumJJF2_BIYB8&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEShwEB6zswFUWutLcRLSsUgCyNUl33_aB8N-8oCGicyO0kunP5ZVvLEpKDcW0gaaMWZmlpoa2ZHZDaWyCXNCap5K8gmP_mmJFFx79s8ywSouL9efbfjT-qbA0DoM8-SBkYl0CBKsf_uWbI4Uw3He-TWIGbsA1M2SOZRr8C4mK4kyaumJJF2_BIYB8",
+   "source": "LinkedIn \u00b7 Yukinori Azuma \u6771 \u5e78\u7d00",
+   "read_more_link": "https://jp.linkedin.com/in/yukinori-azuma-%E6%9D%B1-%E5%B9%B8%E7%B4%80-94016435#:~:text=Hyuga%20Gakuin%20(Salesians%20of%20Don,%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E4%B8%8A%E7%B4%9A"
+  },
+  {
+   "position": 8,
+   "title": "\u30ed\u30fc\u30ba\u30d1\u30ec\u30fc\u30c92025\u3078\u306e\u5916\u56fd\u304b\u3089\u306e\u53c2\u52a0\u306f\u65e5\u672c\uff0c\u30d1\u30ca\u30de",
+   "link": "https://ameblo.jp/photoncc/entry-12909408357.html",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVevnrYWvnGm1d6gUH8RqI1QWPJ3MYBl8oFwjX7sKHWKgnxZGnTHTK55Xc67AKedX2LIzHQBbP84zazZZpjEOsvHtpI70lCOusU7XwnTIMKUfAB8CDyekxQJE6o21XISKQr8aLaw&ved=2ahUKEwj3l_2O7OSWAxUwpZUCHYU2BuMQFnoECD8QAQ&uoh=1",
+   "displayed_link": "https://ameblo.jp \u203a photoncc \u203a ent...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAk1BMVEX____2-vb8_v0tjDw2kEQpizkhiDNFllHl7-YOhCYYhiwAgyJgommFtYuvzrODtYlPm1rS49QAfQmWv5uoyaygxaXd6d7z8_NhYWFtbW2gnqBVVVXAwMCoqKiQkJBYWFjR0dFNTU2RkZGkpKTJyck3Nzfu7u62trZDQ0MnJyd4eHhnZ2cAAADj4-OZmZkdHR3V1dWXZ2HuAAAA_0lEQVR4AayRRwKEIAwAgzGR0Pv_n7qWm-a4Q2fowD8wG5xsRpW4b6fbUZXEh7UHky6RRIj0mY7whJzmrA98ErxVZHTpyPlILiqSJIH3kIQU6QtArQDFK1LQQIxgSBSJJP5E1LswcgSIZ_F1yT29jC59LtLI4b26o_a-TB978ueUM9tHhw-TpRThCQq1seQo3KoizZhzrTnH67d_pYnFFcQwEEPnpQgzM9v9V7e5LJ0zKOljQq-PYfgfciEpUKUNKIKpdeB1-MCIE8-uhGqaoE10I-X4QDtGz5ngakacHS8R1xdWSDZLnsbcavm-01j1A889KZ37TwEQJmBxwaN6ATSlEoZVdW9kAAAAAElFTkSuQmCC.png",
+   "date": "Jun 9, 2025",
+   "snippet": "Salesians of Don Bosco High School Marching Band, Rosemead, Bellflower, Boyle Heights/Los Southern California 18. San Dimas High School Go ...",
+   "snippet_highlighted_words": [
+    "Salesians of Don Bosco High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Salesians of Don Bosco High School Marching Band, Rosemead, Bellflower, Boyle Heights/Los Southern California 18. San Dimas High School Go ...",
+     "source_info_link": "https://ameblo.jp/photoncc/entry-12909408357.html",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAk1BMVEX____2-vb8_v0tjDw2kEQpizkhiDNFllHl7-YOhCYYhiwAgyJgommFtYuvzrODtYlPm1rS49QAfQmWv5uoyaygxaXd6d7z8_NhYWFtbW2gnqBVVVXAwMCoqKiQkJBYWFjR0dFNTU2RkZGkpKTJyck3Nzfu7u62trZDQ0MnJyd4eHhnZ2cAAADj4-OZmZkdHR3V1dWXZ2HuAAAA_0lEQVR4AayRRwKEIAwAgzGR0Pv_n7qWm-a4Q2fowD8wG5xsRpW4b6fbUZXEh7UHky6RRIj0mY7whJzmrA98ErxVZHTpyPlILiqSJIH3kIQU6QtArQDFK1LQQIxgSBSJJP5E1LswcgSIZ_F1yT29jC59LtLI4b26o_a-TB978ueUM9tHhw-TpRThCQq1seQo3KoizZhzrTnH67d_pYnFFcQwEEPnpQgzM9v9V7e5LJ0zKOljQq-PYfgfciEpUKUNKIKpdeB1-MCIE8-uhGqaoE10I-X4QDtGz5ngakacHS8R1xdWSDZLnsbcavm-01j1A889KZ37TwEQJmBxwaN6ATSlEoZVdW9kAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESaQHrOzAVevnrYWvnGm1d6gUH8RqI1QWPJ3MYBl8oFwjX7sKHWKgnxZGnTHTK55Xc67AKedX2LIzHQBbP84zazZZpjEOsvHtpI70lCOusU7XwnTIMKUfAB8CDyekxQJE6o21XISKQr8aLaw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESaQHrOzAVevnrYWvnGm1d6gUH8RqI1QWPJ3MYBl8oFwjX7sKHWKgnxZGnTHTK55Xc67AKedX2LIzHQBbP84zazZZpjEOsvHtpI70lCOusU7XwnTIMKUfAB8CDyekxQJE6o21XISKQr8aLaw",
+   "source": "\u30a2\u30e1\u30fc\u30d0\u30d6\u30ed\u30b0",
+   "read_more_link": "https://ameblo.jp/photoncc/entry-12909408357.html#:~:text=Salesians%20of%20Don%20Bosco%20High,Marching%20Band%2C%20San%20Dimas%2C%20CA"
+  },
+  {
+   "position": 9,
+   "title": "Montelupi Prison",
+   "link": "https://en.wikipedia.org/wiki/Montelupi_Prison",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAV46n0cujdncoxNg8zHrTzz1CmpOiYtsEE9jjJmKGt4xM8oHN5t42ltgIfNPiaYAv0pB4CADRhKxtXziupqCRWO5VlmN1RKMB65_fUY7MdsaJpF-K02r-FvYUqsYRHGJkhLQ&ved=2ahUKEwj3l_2O7OSWAxUwpZUCHYU2BuMQFnoECD0QAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Montelupi_Prison",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+   "snippet": "... Salesians of Don Bosco; high-school director; on 23 May 1941 imprisoned at Montelupich, whence on 26 June 1941 deported to Auschwitz: the next day strangled ...",
+   "snippet_highlighted_words": [
+    "Salesians of Don Bosco; high-school"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "... Salesians of Don Bosco; high-school director; on 23 May 1941 imprisoned at Montelupich, whence on 26 June 1941 deported to Auschwitz: the next day strangled ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Montelupi_Prison",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESZgHrOzAV46n0cujdncoxNg8zHrTzz1CmpOiYtsEE9jjJmKGt4xM8oHN5t42ltgIfNPiaYAv0pB4CADRhKxtXziupqCRWO5VlmN1RKMB65_fUY7MdsaJpF-K02r-FvYUqsYRHGJkhLQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESZgHrOzAV46n0cujdncoxNg8zHrTzz1CmpOiYtsEE9jjJmKGt4xM8oHN5t42ltgIfNPiaYAv0pB4CADRhKxtXziupqCRWO5VlmN1RKMB65_fUY7MdsaJpF-K02r-FvYUqsYRHGJkhLQ",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Montelupi_Prison#:~:text=Franciszek%20Harazim%20(1885%E2%80%931941%3B%20Polish%20clergyman%2C,(ecclesiastical%20title%3A%20%22Servant%20of%20God%22))"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Don Bosco School Moti Nagar fee structure",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Don+Bosco+School+Moti+Nagar+fee+structure&sa=X&ved=2ahUKEwj3l_2O7OSWAxUwpZUCHYU2BuMQ1QJ6BAg4EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Don+Bosco+School+Moti+Nagar+fee+structure"
+  },
+  {
+   "block_position": 1,
+   "query": "Don Bosco school admission form 2026-27",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Don+Bosco+school+admission+form+2026-27&sa=X&ved=2ahUKEwj3l_2O7OSWAxUwpZUCHYU2BuMQ1QJ6BAg8EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Don+Bosco+school+admission+form+2026-27"
+  },
+  {
+   "block_position": 1,
+   "query": "Don Bosco School Moti Nagar Contact Number",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Don+Bosco+School+Moti+Nagar+Contact+Number&sa=X&ved=2ahUKEwj3l_2O7OSWAxUwpZUCHYU2BuMQ1QJ6BAg7EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Don+Bosco+School+Moti+Nagar+Contact+Number"
+  },
+  {
+   "block_position": 1,
+   "query": "Don Bosco School Erragadda reviews",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Don+Bosco+School+Erragadda+reviews&sa=X&ved=2ahUKEwj3l_2O7OSWAxUwpZUCHYU2BuMQ1QJ6BAg6EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Don+Bosco+School+Erragadda+reviews"
+  },
+  {
+   "block_position": 1,
+   "query": "Don Bosco School erragadda admission",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Don+Bosco+School+erragadda+admission&sa=X&ved=2ahUKEwj3l_2O7OSWAxUwpZUCHYU2BuMQ1QJ6BAg1EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Don+Bosco+School+erragadda+admission"
+  },
+  {
+   "block_position": 1,
+   "query": "Don bosco school sanath nagar",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Don+bosco+school+sanath+nagar&sa=X&ved=2ahUKEwj3l_2O7OSWAxUwpZUCHYU2BuMQ1QJ6BAg3EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Don+bosco+school+sanath+nagar"
+  },
+  {
+   "block_position": 1,
+   "query": "Don Bosco School, Moti Nagar, Hyderabad Reviews",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Don+Bosco+School,+Moti+Nagar,+Hyderabad+Reviews&sa=X&ved=2ahUKEwj3l_2O7OSWAxUwpZUCHYU2BuMQ1QJ6BAg5EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Don+Bosco+School%2C+Moti+Nagar%2C+Hyderabad+Reviews"
+  },
+  {
+   "block_position": 1,
+   "query": "Erragadda don bosco school",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Erragadda+don+bosco+school&sa=X&ved=2ahUKEwj3l_2O7OSWAxUwpZUCHYU2BuMQ1QJ6BAg2EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Erragadda+don+bosco+school"
+  }
+ ],
+ "dmca_messages": {
+  "title": "Notices about Filtered Results",
+  "messages": [
+   {
+    "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 9 already displayed.If you like, you can repeat the search with the omitted results included.",
+    "highlighted_words": [
+     {
+      "link": "https://www.google.com/search?q=%22Salesians+of+Don+Bosco+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&filter=0",
+      "text": "repeat the search with the omitted results included"
+     }
+    ]
+   }
+  ]
+ }
+}

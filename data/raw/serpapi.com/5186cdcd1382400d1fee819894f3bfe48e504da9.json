@@ -1,0 +1,461 @@
+{
+ "search_information": {
+  "query_displayed": "\"Pocono Mountain East High School\" Pennsylvania",
+  "total_results": 78500,
+  "time_taken_displayed": 0.33,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Pocono Mountain East High School",
+  "type": "High school in Monroe County, Pennsylvania",
+  "entity_type": "local_nav",
+  "kgmid": "/m/076g25y",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/076g25y&hl=en-US&q=Pocono+Mountain+East+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F076g25y&q=Pocono+Mountain+East+High+School",
+  "place_id": "ChIJAQAAANuMxIkRyd5o1TUhceI",
+  "website": "http://www.pmsd.org/Domain/10",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa3112323df7825d3756594/images/omKUMmiwRY8H7ZeLPvm1mi-vkBSs0koTLT1wUALWCVo.webp",
+   "link": "https://www.google.com/maps/place/Pocono+Mountain+East+High+School/data=!4m2!3m1!1s0x0:0xe2712135d568dec9?sa=X&ved=2ahUKEwi2vr6n6-SWAxXGLEQIHdodGz8Q_BJ6BAgXEAA&hl=en&gl=us"
+  },
+  "address": "231 Pocono Mountain School Rd, Swiftwater, PA 18370",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=pocono+mountain+east+high+school+address&ludocid=16316859440037420745&sa=X&ved=2ahUKEwi2vr6n6-SWAxXGLEQIHdodGz8Q6BN6BAggEAI"
+   }
+  ],
+  "district": "Pocono Mountain School District",
+  "district_links": [
+   {
+    "text": "Pocono Mountain School District",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Pocono+Mountain+School+District&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67y9Bv8kozNIIRYcRWJ4o5sWDDLEG68TCikHHnH3GKxTcbJRL9OqUi0TyDMkbHOI5A87FFoL-2b3oNi3VyGlGkbpOa0KW51WNDYlRKK8vAUfpjg31xL7VQEAYDG7nZSJ7nWwtVemCH3ndUzmEHuiM5TGpei6AG35HPQh_uN8L7oypGvwUjqlDswz_qY3jeiMWxiKKN7c%3D&sa=X&ved=2ahUKEwi2vr6n6-SWAxXGLEQIHdodGz8QmxN6BAgjEAI"
+   }
+  ],
+  "phone": "(570) 839-7121",
+  "raw_hours": "Open \u00b7 Closes 7 PM",
+  "hours": {
+   "thursday": {
+    "opens": "7\u202fAM",
+    "closes": "7\u202fPM"
+   },
+   "friday": {
+    "opens": "7\u202fAM",
+    "closes": "7\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "7\u202fAM",
+    "closes": "7\u202fPM"
+   },
+   "tuesday": {
+    "opens": "7\u202fAM",
+    "closes": "7\u202fPM"
+   },
+   "wednesday": {
+    "opens": "7\u202fAM",
+    "closes": "7\u202fPM"
+   }
+  },
+  "unclaimed_listing": true,
+  "people_also_search_for": [
+   {
+    "name": "Pocono Mountain West High School",
+    "image": "https://serpapi.com/searches/6aa3112323df7825d3756594/images/omKUMmiwRY8H7ZeLPvm1ml5-u80FJqf98yj5VGDiaB1VHx7vPoFPWBupw_H10-i9.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67ymmgk6ImjNqla1rJNHeh6M2IKCO0AGch7YLIZzbr6zmVML5yexkcvMH99j3ePQvzoB4IpZOgLnXAAA1PgPcGBbfUo43luGNhWByV5YUSmrC3eF74rfbWkJqwI02mc_WGe91hkxt-u-LoRyvNZVxiHluWLRGoH0Ulo2WMNe_J3UwnHrREBgJlQdlAj3km4M1aBGuzRemkQ-K__aOpoQtk-NDVscGUUrVdlnDinsXIZdbE7LIipIgr4Z1oSCw4WLAOLYHEn2NIfG31EMARtjMZSeLpvRf4B3FDoukWtdXpov4xAuOCw%3D%3D&q=Pocono+Mountain+West+High+School&sa=X&ved=2ahUKEwi2vr6n6-SWAxXGLEQIHdodGz8Qs9oBKAB6BAgeEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pocono+Mountain+West+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67ymmgk6ImjNqla1rJNHeh6M2IKCO0AGch7YLIZzbr6zmVML5yexkcvMH99j3ePQvzoB4IpZOgLnXAAA1PgPcGBbfUo43luGNhWByV5YUSmrC3eF74rfbWkJqwI02mc_WGe91hkxt-u-LoRyvNZVxiHluWLRGoH0Ulo2WMNe_J3UwnHrREBgJlQdlAj3km4M1aBGuzRemkQ-K__aOpoQtk-NDVscGUUrVdlnDinsXIZdbE7LIipIgr4Z1oSCw4WLAOLYHEn2NIfG31EMARtjMZSeLpvRf4B3FDoukWtdXpov4xAuOCw%3D%3D"
+   },
+   {
+    "name": "Pocono Mountain School District",
+    "image": "https://serpapi.com/searches/6aa3112323df7825d3756594/images/omKUMmiwRY8H7ZeLPvm1ml5-u80FJqf98yj5VGDiaB1xv2ONY0ABF8gbob-esi9Y.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67y9Bv8kozNIIRYcRWJ4o5sWDDLEG68TCikHHnH3GKxTcL17WKSTt_ZHjg_OQ20VXbqeiW_oHY8piKG36LcxINtsiyYjzukhXXJvm8kf4w10dF3-OCmOulpr89lOgby2TJN7PHPIrwiLzg8QV64eFqfK9Gr52alwliIDZo1bueIHkKDGNo8mTnYCaXMwXFTbUp4JQHi4yHLQQQ19V8nPtrkKj81syU2nG0qf71tZYxqrWnEQH05l7kzw4NFGl3U8KomoHsOdgiaCNe_uWCfFshQ_Q81mu&q=Pocono+Mountain+School+District&sa=X&ved=2ahUKEwi2vr6n6-SWAxXGLEQIHdodGz8Qs9oBKAB6BAgeEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pocono+Mountain+School+District&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67y9Bv8kozNIIRYcRWJ4o5sWDDLEG68TCikHHnH3GKxTcL17WKSTt_ZHjg_OQ20VXbqeiW_oHY8piKG36LcxINtsiyYjzukhXXJvm8kf4w10dF3-OCmOulpr89lOgby2TJN7PHPIrwiLzg8QV64eFqfK9Gr52alwliIDZo1bueIHkKDGNo8mTnYCaXMwXFTbUp4JQHi4yHLQQQ19V8nPtrkKj81syU2nG0qf71tZYxqrWnEQH05l7kzw4NFGl3U8KomoHsOdgiaCNe_uWCfFshQ_Q81mu"
+   },
+   {
+    "name": "East Stroudsburg South Senior High School",
+    "image": "https://serpapi.com/searches/6aa3112323df7825d3756594/images/omKUMmiwRY8H7ZeLPvm1ml5-u80FJqf98yj5VGDiaB2hrllFsaI1L9d4ozkRmg4Y.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67xwLbQIN63y3Bip_HQGtdq4WXp1lXHYkILykAnY6eIa4uu16yOzk58MMedf9a33uyHVzYbPNhfNoMo4_h9FIlya3jtLipx2v0KLa7fAXxIEpugeqqL3FssIiPGBXpii0fxG2jMofrcUlTwC1V6HyXmBzcfeEyLKlFf8TaFYDWarCosGKBy8e3ReEDp1LViiQi6FwMHELzJvCw1tOM_WClZlA2fhoGcMOY1IlDr0Cebn07rd1FQL6AQzIPNlCNweemF7GPoPGzUFlINawDFH4jQi5ctRi1tKmQHc48y6gx4C3P9cGRw%3D%3D&q=East+Stroudsburg+High+School+South&sa=X&ved=2ahUKEwi2vr6n6-SWAxXGLEQIHdodGz8Qs9oBKAB6BAgeEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=East+Stroudsburg+High+School+South&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67xwLbQIN63y3Bip_HQGtdq4WXp1lXHYkILykAnY6eIa4uu16yOzk58MMedf9a33uyHVzYbPNhfNoMo4_h9FIlya3jtLipx2v0KLa7fAXxIEpugeqqL3FssIiPGBXpii0fxG2jMofrcUlTwC1V6HyXmBzcfeEyLKlFf8TaFYDWarCosGKBy8e3ReEDp1LViiQi6FwMHELzJvCw1tOM_WClZlA2fhoGcMOY1IlDr0Cebn07rd1FQL6AQzIPNlCNweemF7GPoPGzUFlINawDFH4jQi5ctRi1tKmQHc48y6gx4C3P9cGRw%3D%3D"
+   },
+   {
+    "name": "Pleasant Valley High School",
+    "image": "https://serpapi.com/searches/6aa3112323df7825d3756594/images/omKUMmiwRY8H7ZeLPvm1ml5-u80FJqf98yj5VGDiaB3YyMSqCh_wpu2JoRv5reZ3.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ybHM4HTq1Qbnrw3G6tbGVbiNz2n0r0MfmgUvhm2RjlH3IKO5wJ1qMibFcFgH3p3qDNg464S3HaLtDv8jkoWmyw48VlFCTnbrPWu8ik74UTuochl-bqLhhmp0pRIe-fOM1kvYT3imcxHz3Cel_oPWZDV5GsahDAQGSD0AyAbxJjYZKcKoWtNkE5oANeWDpim0fCM1IbDAI1n2xHFdramx0Ns8VLWLzx_QHhrklNHt9CKqWHJtrMxQkSUdwxS_lesEBnKX-YF9yCdO9G5TMkLlOjN0hDt4M6Z8pvsnlkifm9WUsC3RJQ%3D%3D&q=Pleasant+Valley+High+School+(Pennsylvania)&sa=X&ved=2ahUKEwi2vr6n6-SWAxXGLEQIHdodGz8Qs9oBKAB6BAgeEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pleasant+Valley+High+School+%28Pennsylvania%29&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ybHM4HTq1Qbnrw3G6tbGVbiNz2n0r0MfmgUvhm2RjlH3IKO5wJ1qMibFcFgH3p3qDNg464S3HaLtDv8jkoWmyw48VlFCTnbrPWu8ik74UTuochl-bqLhhmp0pRIe-fOM1kvYT3imcxHz3Cel_oPWZDV5GsahDAQGSD0AyAbxJjYZKcKoWtNkE5oANeWDpim0fCM1IbDAI1n2xHFdramx0Ns8VLWLzx_QHhrklNHt9CKqWHJtrMxQkSUdwxS_lesEBnKX-YF9yCdO9G5TMkLlOjN0hDt4M6Z8pvsnlkifm9WUsC3RJQ%3D%3D"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Pocono+Mountain+East+High+School&stick=H4sIAAAAAAAAAONgFuLSz9U3MDdLNzKtVEJiawkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axKoQkJ-cn5ev4JtfmleSmJmn4JpYXKLgkZmeoRCcnJGfn7ODlfEWmyTDG4eKwFy-ps4l4YaHWLUXbY5ICrZJD_t-HACAz6SRiAAAAA&sa=X&ved=2ahUKEwi2vr6n6-SWAxXGLEQIHdodGz8QzO0BKAR6BAgeEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLSz9U3MDdLNzKtVEJiawkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axKoQkJ-cn5ev4JtfmleSmJmn4JpYXKLgkZmeoRCcnJGfn7ODlfEWmyTDG4eKwFy-ps4l4YaHWLUXbY5ICrZJD_t-HACAz6SRiAAAAA",
+  "profiles": [
+   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/pmesga/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pocono+Mountain+East+High+School%22+Pennsylvania",
+    "image": "https://serpapi.com/searches/6aa3112323df7825d3756594/images/omKUMmiwRY8H7ZeLPvm1mhvktdHSnPTy1PzweiAqIKpNZYSaNwmRp2Pxd5RajeqC.png"
+   },
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/Poconoeast.west",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pocono+Mountain+East+High+School%22+Pennsylvania",
+    "image": "https://serpapi.com/searches/6aa3112323df7825d3756594/images/omKUMmiwRY8H7ZeLPvm1mmAqLym9IUlysPwUZtDO0qXeekgasa23noJscwgCT9Ck.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "How many students attend Pocono Mountain East High School?",
+   "type": "ai_overview",
+   "page_token": "IFlyVXicHdBNjpswGIBhzWVmOcHQUilSNBIJTkrHnsGxPxM2lbEb_gw4gQmT7OYKPUNP1dM06u5dPno__9i6b_8-_K6myY3LxWKe56dyGEr760kP3UKN114vtLK2ULpdht9C9HzUq_iio_VZR6lwDjbM2zfpzDNHcsHivMWXF6DTvQa5NR5HUW12sC4k1DmGV90nVGUR5tucA6p6FVStkraRgEeyY05vy1ls7GkfT9-JD-EB4J2JKmOC7ugeBURYUSCB5CZ_lw0NycZIDtCall2L7egZn12gYT8Kwb7sbTQZgXcK2TPPwHvJ8E11iBJ_aswa5Sk3b2lAh7sr1NiBjolPGhsR8XWgAkaDXUhkkkBHvJy3iAZJEFeGqNicDllSm_ajOVh3FrFNSZ_4-ooizoY6FeymG9sJn9USxI2AsQqVvuSVR7sKMg-fWOdywvExTR-P-rIKHv-_Xv08dtPSnYfyH2BgjOc",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=IFlyVXicHdBNjpswGIBhzWVmOcHQUilSNBIJTkrHnsGxPxM2lbEb_gw4gQmT7OYKPUNP1dM06u5dPno__9i6b_8-_K6myY3LxWKe56dyGEr760kP3UKN114vtLK2ULpdht9C9HzUq_iio_VZR6lwDjbM2zfpzDNHcsHivMWXF6DTvQa5NR5HUW12sC4k1DmGV90nVGUR5tucA6p6FVStkraRgEeyY05vy1ls7GkfT9-JD-EB4J2JKmOC7ugeBURYUSCB5CZ_lw0NycZIDtCall2L7egZn12gYT8Kwb7sbTQZgXcK2TPPwHvJ8E11iBJ_aswa5Sk3b2lAh7sr1NiBjolPGhsR8XWgAkaDXUhkkkBHvJy3iAZJEFeGqNicDllSm_ajOVh3FrFNSZ_4-ooizoY6FeymG9sJn9USxI2AsQqVvuSVR7sKMg-fWOdywvExTR-P-rIKHv-_Xv08dtPSnYfyH2BgjOc",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmRXdHBUMFJ1ZDBaTk9GaHhaVkJGTmtoelIwUnRUekZQTlhreGMzcFJOblZFWVdGZmQyWmlWVXMwVjFwbWVrTnlabWRtZUZZelJHVlNWSEpSTFY4dGFqRnFjRU5mVGxVd1ptRk1RMHRyTFd4MWFrOUNhVXBDTkZGWVVSSVhUR2hIYW1GeVluWk1ZMkphYTFCSlVESnlkbk10UVUwYUlrRkVjM0k1WmxOTVpHa3hhMGRLZVhCUFRGOTBObTFsZW05b01WWmFXa2xRVEVFIiwiZmN2IjoiMyIsImVpIjoiTGhHamFyYnZMY2Jaa1BJUDJydnMtQU0iLCJxYyI6IkNpMXdiMk52Ym04Z2JXOTFiblJoYVc0Z1pXRnpkQ0JvYVdkb0lITmphRzl2YkNCd1pXNXVjM2xzZG1GdWFXRVFBSDJ5R0RBXyIsInF1ZXN0aW9uIjoiSG93IG1hbnkgc3R1ZGVudHMgYXR0ZW5kIFBvY29ubyBNb3VudGFpbiBFYXN0IEhpZ2ggU2Nob29sPyIsImxrIjoiY3dYQjBRbUFNQkFEMEQzOHlocU9jN1RGSzloRXVCUnhlOTg3enRTTEZmeFEzbjNRaGJBSE94NDFVVmphZEV4aVJCazVyMFMxbE80ZiIsImJzIjoiYzQzUFBRdkNRQXlBWVZ4dmN1NFVkVkJIdTRnNkZFR3hEa0pCeFBub25iMERleWttcGZUZjI5WUtSZkZqVHQ2SFJKUmlHV0lCcVhRbEVPZEtPeWFRek5vcGlEQkdoM0RBM0xHMERyYVNHRUtiR0RqR0J2RWEtQ3R2WVQ3VjJhTk9uN1d1YTFQWDFOUmlKd1puSXhrc0FSc05vMWwzQ2xVUnJRTl82RUh4ZFNtVFFvbDVGMG9seGNpQWx6OGVtSHJqWDNlMm5qaUp5WjdleUFjRUcwdDhzekZEZ3FnYXRqcm1WVzQ5MWQzdDktNCIsImlkIjoiZmNfTGhHamFyYnZMY2Jaa1BJUDJydnMtQU1fMSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmRXdHBUMFJ1ZDBaTk9GaHhaVkJGTmtoelIwUnRUekZQTlhreGMzcFJOblZFWVdGZmQyWmlWVXMwVjFwbWVrTnlabWRtZUZZelJHVlNWSEpSTFY4dGFqRnFjRU5mVGxVd1ptRk1RMHRyTFd4MWFrOUNhVXBDTkZGWVVSSVhUR2hIYW1GeVluWk1ZMkphYTFCSlVESnlkbk10UVUwYUlrRkVjM0k1WmxOTVpHa3hhMGRLZVhCUFRGOTBObTFsZW05b01WWmFXa2xRVEVFIiwiZmN2IjoiMyIsImVpIjoiTGhHamFyYnZMY2Jaa1BJUDJydnMtQU0iLCJxYyI6IkNpMXdiMk52Ym04Z2JXOTFiblJoYVc0Z1pXRnpkQ0JvYVdkb0lITmphRzl2YkNCd1pXNXVjM2xzZG1GdWFXRVFBSDJ5R0RBXyIsInF1ZXN0aW9uIjoiSG93IG1hbnkgc3R1ZGVudHMgYXR0ZW5kIFBvY29ubyBNb3VudGFpbiBFYXN0IEhpZ2ggU2Nob29sPyIsImxrIjoiY3dYQjBRbUFNQkFEMEQzOHlocU9jN1RGSzloRXVCUnhlOTg3enRTTEZmeFEzbjNRaGJBSE94NDFVVmphZEV4aVJCazVyMFMxbE80ZiIsImJzIjoiYzQzUFBRdkNRQXlBWVZ4dmN1NFVkVkJIdTRnNkZFR3hEa0pCeFBub25iMERleWttcGZUZjI5WUtSZkZqVHQ2SFJKUmlHV0lCcVhRbEVPZEtPeWFRek5vcGlEQkdoM0RBM0xHMERyYVNHRUtiR0RqR0J2RWEtQ3R2WVQ3VjJhTk9uN1d1YTFQWDFOUmlKd1puSXhrc0FSc05vMWwzQ2xVUnJRTl82RUh4ZFNtVFFvbDVGMG9seGNpQWx6OGVtSHJqWDNlMm5qaUp5WjdleUFjRUcwdDhzekZEZ3FnYXRqcm1WVzQ5MWQzdDktNCIsImlkIjoiZmNfTGhHamFyYnZMY2Jaa1BJUDJydnMtQU1fMSJ9"
+  },
+  {
+   "question": "What is the #1 high school in PA?",
+   "type": "ai_overview",
+   "page_token": "hF8r-HicHdDdToMwGIDheDMeOtgWjEsWkzp01tFZoF9pTwy2bIOWHydK4cx78aq8Go038D7J-_Vty8b8XHye-r57X81mwzBcHdv2aIsr1daz_H1s1Ezl1r7myqyC68C_Pah1-PGI7t4eEWVdB5vYSzxnFKAkDrul9OIhLf1ntTjttJFS1TfbyO-gyNAiMj0vNnLJKuIShgPOsYuNe-ApWGpjSNhJ0FRM2nMgLAqSzPZyY_eiie90SlzBsNRzGPIHQKq2ZZLS-f6-47KWAXA6iQYT7ROeVPdEVMxTPJpD7XaUtcs8xGcJkjBGHTF0hPrmiXG8hVTS1y0SZAGYedjsuGzCk47yUL-JDJfauErY7sxCS6MGz9XoozRuS8riSVW2_ms8sQr9eXYf-czXGYxFJSGb8AEsaWA6jpReHtTnenH5_3P9cqj7VXduj7_2ToU1",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=hF8r-HicHdDdToMwGIDheDMeOtgWjEsWkzp01tFZoF9pTwy2bIOWHydK4cx78aq8Go038D7J-_Vty8b8XHye-r57X81mwzBcHdv2aIsr1daz_H1s1Ezl1r7myqyC68C_Pah1-PGI7t4eEWVdB5vYSzxnFKAkDrul9OIhLf1ntTjttJFS1TfbyO-gyNAiMj0vNnLJKuIShgPOsYuNe-ApWGpjSNhJ0FRM2nMgLAqSzPZyY_eiie90SlzBsNRzGPIHQKq2ZZLS-f6-47KWAXA6iQYT7ROeVPdEVMxTPJpD7XaUtcs8xGcJkjBGHTF0hPrmiXG8hVTS1y0SZAGYedjsuGzCk47yUL-JDJfauErY7sxCS6MGz9XoozRuS8riSVW2_ms8sQr9eXYf-czXGYxFJSGb8AEsaWA6jpReHtTnenH5_3P9cqj7VXduj7_2ToU1",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmRXdHBUMFJ1ZDBaTk9GaHhaVkJGTmtoelIwUnRUekZQTlhreGMzcFJOblZFWVdGZmQyWmlWVXMwVjFwbWVrTnlabWRtZUZZelJHVlNWSEpSTFY4dGFqRnFjRU5mVGxVd1ptRk1RMHRyTFd4MWFrOUNhVXBDTkZGWVVSSVhUR2hIYW1GeVluWk1ZMkphYTFCSlVESnlkbk10UVUwYUlrRkVjM0k1WmxOTVpHa3hhMGRLZVhCUFRGOTBObTFsZW05b01WWmFXa2xRVEVFIiwiZmN2IjoiMyIsImVpIjoiTGhHamFyYnZMY2Jaa1BJUDJydnMtQU0iLCJxYyI6IkNpMXdiMk52Ym04Z2JXOTFiblJoYVc0Z1pXRnpkQ0JvYVdkb0lITmphRzl2YkNCd1pXNXVjM2xzZG1GdWFXRVFBSDJ5R0RBXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgIzEgaGlnaCBzY2hvb2wgaW4gUEE/IiwibGsiOiJHaUIzYUdGMElHbHpJSFJvWlNBak1TQm9hV2RvSUhOamFHOXZiQ0JwYmlCd1lRIiwiYnMiOiJjNDNQUFF2Q1FBeUFZVnh2Y3U0VWRWQkh1NGc2RkVHeERrSkJ4UG5vbmIwRGV5a21wZlRmMjlZS1JmRmpUdDZIUkpSaUdXSUJxWFFsRU9kS095YVF6Tm9waURCR2gzREEzTEcwRHJhU0dFS2JHRGpHQnZFYS1DdHZZVDdWMmFOT243V3VhMVBYMU5SaUp3Wm5JeGtzQVJzTm8xbDNDbFVSclFOXzZFSHhkU21UUW9sNUYwb2x4Y2lBbHo4ZW1IcmpYM2UybmppSnlaN2V5QWNFRzB0OHN6RkRncWdhdGpybVZXNDkxZDN0OS00IiwiaWQiOiJmY19MaEdqYXJidkxjYlprUElQMnJ2cy1BTV8xIn0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmRXdHBUMFJ1ZDBaTk9GaHhaVkJGTmtoelIwUnRUekZQTlhreGMzcFJOblZFWVdGZmQyWmlWVXMwVjFwbWVrTnlabWRtZUZZelJHVlNWSEpSTFY4dGFqRnFjRU5mVGxVd1ptRk1RMHRyTFd4MWFrOUNhVXBDTkZGWVVSSVhUR2hIYW1GeVluWk1ZMkphYTFCSlVESnlkbk10UVUwYUlrRkVjM0k1WmxOTVpHa3hhMGRLZVhCUFRGOTBObTFsZW05b01WWmFXa2xRVEVFIiwiZmN2IjoiMyIsImVpIjoiTGhHamFyYnZMY2Jaa1BJUDJydnMtQU0iLCJxYyI6IkNpMXdiMk52Ym04Z2JXOTFiblJoYVc0Z1pXRnpkQ0JvYVdkb0lITmphRzl2YkNCd1pXNXVjM2xzZG1GdWFXRVFBSDJ5R0RBXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgIzEgaGlnaCBzY2hvb2wgaW4gUEE%2FIiwibGsiOiJHaUIzYUdGMElHbHpJSFJvWlNBak1TQm9hV2RvSUhOamFHOXZiQ0JwYmlCd1lRIiwiYnMiOiJjNDNQUFF2Q1FBeUFZVnh2Y3U0VWRWQkh1NGc2RkVHeERrSkJ4UG5vbmIwRGV5a21wZlRmMjlZS1JmRmpUdDZIUkpSaUdXSUJxWFFsRU9kS095YVF6Tm9waURCR2gzREEzTEcwRHJhU0dFS2JHRGpHQnZFYS1DdHZZVDdWMmFOT243V3VhMVBYMU5SaUp3Wm5JeGtzQVJzTm8xbDNDbFVSclFOXzZFSHhkU21UUW9sNUYwb2x4Y2lBbHo4ZW1IcmpYM2UybmppSnlaN2V5QWNFRzB0OHN6RkRncWdhdGpybVZXNDkxZDN0OS00IiwiaWQiOiJmY19MaEdqYXJidkxjYlprUElQMnJ2cy1BTV8xIn0%3D"
+  },
+  {
+   "question": "What is the mascot of Pocono Mountain East High School?",
+   "type": "ai_overview",
+   "page_token": "0i8hpHicHZBbbuIwAADVy_Sz5EFYLRJaKU0c1l2ntRM74J-VYwMmdh6FtDH87RV6hp6qpynaC8xo5t-nPXbm6-5Dj-NwXs5m0zQ9HPr-YHcPsm9n4nzp5EwKa2shzXLxY-H_2stV-i7jx5OMMR0GlhCv8MkrZ5blF98iy0bSjk5meVObeUBSmJUJwc9AE9YyR-3vsaw03615ICtGikBF2OhI2QHVCbOoAhliihTGn1il2h3I30TmOGIaFI1alObnmlx8xsK8Ed78ugnBswAQiuvWLxM40EQ7kfGXOlRPKNGo9uOQV8NGrVVMPTeXxnGRQV1Y2xFAwhzoiYfxiEz0VFdRJhL4R6TnsKTsEZfYFSVoZarhjYdkB7pUKyRS9brdwKMyrtna4URTi1EHA3nx45L0R0zJVTa2pcaLsEcDcuU3HzxvN_10a3-r1vl8Z5zgHQMY3-_l-yq8__969Xffjsvh1B--AesBjhY",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=0i8hpHicHZBbbuIwAADVy_Sz5EFYLRJaKU0c1l2ntRM74J-VYwMmdh6FtDH87RV6hp6qpynaC8xo5t-nPXbm6-5Dj-NwXs5m0zQ9HPr-YHcPsm9n4nzp5EwKa2shzXLxY-H_2stV-i7jx5OMMR0GlhCv8MkrZ5blF98iy0bSjk5meVObeUBSmJUJwc9AE9YyR-3vsaw03615ICtGikBF2OhI2QHVCbOoAhliihTGn1il2h3I30TmOGIaFI1alObnmlx8xsK8Ed78ugnBswAQiuvWLxM40EQ7kfGXOlRPKNGo9uOQV8NGrVVMPTeXxnGRQV1Y2xFAwhzoiYfxiEz0VFdRJhL4R6TnsKTsEZfYFSVoZarhjYdkB7pUKyRS9brdwKMyrtna4URTi1EHA3nx45L0R0zJVTa2pcaLsEcDcuU3HzxvN_10a3-r1vl8Z5zgHQMY3-_l-yq8__969Xffjsvh1B--AesBjhY",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmRXdHBUMFJ1ZDBaTk9GaHhaVkJGTmtoelIwUnRUekZQTlhreGMzcFJOblZFWVdGZmQyWmlWVXMwVjFwbWVrTnlabWRtZUZZelJHVlNWSEpSTFY4dGFqRnFjRU5mVGxVd1ptRk1RMHRyTFd4MWFrOUNhVXBDTkZGWVVSSVhUR2hIYW1GeVluWk1ZMkphYTFCSlVESnlkbk10UVUwYUlrRkVjM0k1WmxOTVpHa3hhMGRLZVhCUFRGOTBObTFsZW05b01WWmFXa2xRVEVFIiwiZmN2IjoiMyIsImVpIjoiTGhHamFyYnZMY2Jaa1BJUDJydnMtQU0iLCJxYyI6IkNpMXdiMk52Ym04Z2JXOTFiblJoYVc0Z1pXRnpkQ0JvYVdkb0lITmphRzl2YkNCd1pXNXVjM2xzZG1GdWFXRVFBSDJ5R0RBXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbWFzY290IG9mIFBvY29ubyBNb3VudGFpbiBFYXN0IEhpZ2ggU2Nob29sPyIsImxrIjoiR2lkd2IyTnZibThnYlc5MWJuUmhhVzRnWldGemRDQm9hV2RvSUhOamFHOXZiQ0J0WVhOamIzUSIsImJzIjoiYzQzUFBRdkNRQXlBWVZ4dmN1NFVkVkJIdTRnNkZFR3hEa0pCeFBub25iMERleWttcGZUZjI5WUtSZkZqVHQ2SFJKUmlHV0lCcVhRbEVPZEtPeWFRek5vcGlEQkdoM0RBM0xHMERyYVNHRUtiR0RqR0J2RWEtQ3R2WVQ3VjJhTk9uN1d1YTFQWDFOUmlKd1puSXhrc0FSc05vMWwzQ2xVUnJRTl82RUh4ZFNtVFFvbDVGMG9seGNpQWx6OGVtSHJqWDNlMm5qaUp5WjdleUFjRUcwdDhzekZEZ3FnYXRqcm1WVzQ5MWQzdDktNCIsImlkIjoiZmNfTGhHamFyYnZMY2Jaa1BJUDJydnMtQU1fMSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmRXdHBUMFJ1ZDBaTk9GaHhaVkJGTmtoelIwUnRUekZQTlhreGMzcFJOblZFWVdGZmQyWmlWVXMwVjFwbWVrTnlabWRtZUZZelJHVlNWSEpSTFY4dGFqRnFjRU5mVGxVd1ptRk1RMHRyTFd4MWFrOUNhVXBDTkZGWVVSSVhUR2hIYW1GeVluWk1ZMkphYTFCSlVESnlkbk10UVUwYUlrRkVjM0k1WmxOTVpHa3hhMGRLZVhCUFRGOTBObTFsZW05b01WWmFXa2xRVEVFIiwiZmN2IjoiMyIsImVpIjoiTGhHamFyYnZMY2Jaa1BJUDJydnMtQU0iLCJxYyI6IkNpMXdiMk52Ym04Z2JXOTFiblJoYVc0Z1pXRnpkQ0JvYVdkb0lITmphRzl2YkNCd1pXNXVjM2xzZG1GdWFXRVFBSDJ5R0RBXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbWFzY290IG9mIFBvY29ubyBNb3VudGFpbiBFYXN0IEhpZ2ggU2Nob29sPyIsImxrIjoiR2lkd2IyTnZibThnYlc5MWJuUmhhVzRnWldGemRDQm9hV2RvSUhOamFHOXZiQ0J0WVhOamIzUSIsImJzIjoiYzQzUFBRdkNRQXlBWVZ4dmN1NFVkVkJIdTRnNkZFR3hEa0pCeFBub25iMERleWttcGZUZjI5WUtSZkZqVHQ2SFJKUmlHV0lCcVhRbEVPZEtPeWFRek5vcGlEQkdoM0RBM0xHMERyYVNHRUtiR0RqR0J2RWEtQ3R2WVQ3VjJhTk9uN1d1YTFQWDFOUmlKd1puSXhrc0FSc05vMWwzQ2xVUnJRTl82RUh4ZFNtVFFvbDVGMG9seGNpQWx6OGVtSHJqWDNlMm5qaUp5WjdleUFjRUcwdDhzekZEZ3FnYXRqcm1WVzQ5MWQzdDktNCIsImlkIjoiZmNfTGhHamFyYnZMY2Jaa1BJUDJydnMtQU1fMSJ9"
+  },
+  {
+   "question": "Is Pocono Mountain School District good?",
+   "type": "ai_overview",
+   "page_token": "NDRcmXicHdBdboIwAADg7DI-qoiyaGKWMNoiCbiWtvy8LNCiaCtUQVHfdpedaqfZsht8-b6-9aFRPy-3uu9Nt5pMhmEY79t2r6uxaE-Tons0YiIKrctCqJXz6lhvO7EG1437ft64mBnDPTKlILrKVN2zxkQ8ye1iarZYg0eluB8q6xr7waaA2o8gxCXoeYTqbUjhnLNoTiHscGxZEpmazxaLMll2sQ4clmqUUO2GtLZJE_gVlDBTgc88mBLGHrGSdo6sK2NkKKkEZCZdyu5tmZqh4oFTpGAWPl1MqFvTVNih4p04cpPoqKceNExxUxxdnellEDOCOFoeStRT6uU2qGVYAHnO0uAg1f2YaXNhQOOwCWbiYbmUtAfMyFMc9Ykj_VGyvgv_HBzhBfc54dNhwcASbmHklUmO82G0E7e1Pfr_XH_uTv3KXNr9Lwctg3U",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=NDRcmXicHdBdboIwAADg7DI-qoiyaGKWMNoiCbiWtvy8LNCiaCtUQVHfdpedaqfZsht8-b6-9aFRPy-3uu9Nt5pMhmEY79t2r6uxaE-Tons0YiIKrctCqJXz6lhvO7EG1437ft64mBnDPTKlILrKVN2zxkQ8ye1iarZYg0eluB8q6xr7waaA2o8gxCXoeYTqbUjhnLNoTiHscGxZEpmazxaLMll2sQ4clmqUUO2GtLZJE_gVlDBTgc88mBLGHrGSdo6sK2NkKKkEZCZdyu5tmZqh4oFTpGAWPl1MqFvTVNih4p04cpPoqKceNExxUxxdnellEDOCOFoeStRT6uU2qGVYAHnO0uAg1f2YaXNhQOOwCWbiYbmUtAfMyFMc9Ykj_VGyvgv_HBzhBfc54dNhwcASbmHklUmO82G0E7e1Pfr_XH_uTv3KXNr9Lwctg3U",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmRXdHBUMFJ1ZDBaTk9GaHhaVkJGTmtoelIwUnRUekZQTlhreGMzcFJOblZFWVdGZmQyWmlWVXMwVjFwbWVrTnlabWRtZUZZelJHVlNWSEpSTFY4dGFqRnFjRU5mVGxVd1ptRk1RMHRyTFd4MWFrOUNhVXBDTkZGWVVSSVhUR2hIYW1GeVluWk1ZMkphYTFCSlVESnlkbk10UVUwYUlrRkVjM0k1WmxOTVpHa3hhMGRLZVhCUFRGOTBObTFsZW05b01WWmFXa2xRVEVFIiwiZmN2IjoiMyIsImVpIjoiTGhHamFyYnZMY2Jaa1BJUDJydnMtQU0iLCJxYyI6IkNpMXdiMk52Ym04Z2JXOTFiblJoYVc0Z1pXRnpkQ0JvYVdkb0lITmphRzl2YkNCd1pXNXVjM2xzZG1GdWFXRVFBSDJ5R0RBXyIsInF1ZXN0aW9uIjoiSXMgUG9jb25vIE1vdW50YWluIFNjaG9vbCBEaXN0cmljdCBnb29kPyIsImxrIjoiR2lkcGN5QndiMk52Ym04Z2JXOTFiblJoYVc0Z2MyTm9iMjlzSUdScGMzUnlhV04wSUdkdmIyUSIsImJzIjoiYzQzUFBRdkNRQXlBWVZ4dmN1NFVkVkJIdTRnNkZFR3hEa0pCeFBub25iMERleWttcGZUZjI5WUtSZkZqVHQ2SFJKUmlHV0lCcVhRbEVPZEtPeWFRek5vcGlEQkdoM0RBM0xHMERyYVNHRUtiR0RqR0J2RWEtQ3R2WVQ3VjJhTk9uN1d1YTFQWDFOUmlKd1puSXhrc0FSc05vMWwzQ2xVUnJRTl82RUh4ZFNtVFFvbDVGMG9seGNpQWx6OGVtSHJqWDNlMm5qaUp5WjdleUFjRUcwdDhzekZEZ3FnYXRqcm1WVzQ5MWQzdDktNCIsImlkIjoiZmNfTGhHamFyYnZMY2Jaa1BJUDJydnMtQU1fMSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmRXdHBUMFJ1ZDBaTk9GaHhaVkJGTmtoelIwUnRUekZQTlhreGMzcFJOblZFWVdGZmQyWmlWVXMwVjFwbWVrTnlabWRtZUZZelJHVlNWSEpSTFY4dGFqRnFjRU5mVGxVd1ptRk1RMHRyTFd4MWFrOUNhVXBDTkZGWVVSSVhUR2hIYW1GeVluWk1ZMkphYTFCSlVESnlkbk10UVUwYUlrRkVjM0k1WmxOTVpHa3hhMGRLZVhCUFRGOTBObTFsZW05b01WWmFXa2xRVEVFIiwiZmN2IjoiMyIsImVpIjoiTGhHamFyYnZMY2Jaa1BJUDJydnMtQU0iLCJxYyI6IkNpMXdiMk52Ym04Z2JXOTFiblJoYVc0Z1pXRnpkQ0JvYVdkb0lITmphRzl2YkNCd1pXNXVjM2xzZG1GdWFXRVFBSDJ5R0RBXyIsInF1ZXN0aW9uIjoiSXMgUG9jb25vIE1vdW50YWluIFNjaG9vbCBEaXN0cmljdCBnb29kPyIsImxrIjoiR2lkcGN5QndiMk52Ym04Z2JXOTFiblJoYVc0Z2MyTm9iMjlzSUdScGMzUnlhV04wSUdkdmIyUSIsImJzIjoiYzQzUFBRdkNRQXlBWVZ4dmN1NFVkVkJIdTRnNkZFR3hEa0pCeFBub25iMERleWttcGZUZjI5WUtSZkZqVHQ2SFJKUmlHV0lCcVhRbEVPZEtPeWFRek5vcGlEQkdoM0RBM0xHMERyYVNHRUtiR0RqR0J2RWEtQ3R2WVQ3VjJhTk9uN1d1YTFQWDFOUmlKd1puSXhrc0FSc05vMWwzQ2xVUnJRTl82RUh4ZFNtVFFvbDVGMG9seGNpQWx6OGVtSHJqWDNlMm5qaUp5WjdleUFjRUcwdDhzekZEZ3FnYXRqcm1WVzQ5MWQzdDktNCIsImlkIjoiZmNfTGhHamFyYnZMY2Jaa1BJUDJydnMtQU1fMSJ9"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Pocono Mountain East High School: Home",
+   "link": "https://ehs.pmsd.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTQHrOzAVWreTJUpF0RRXyFl_CGQu-MHQK32LQS75CRyC1a_JZmNsvqVQ1CGtVCwYpm4gMKrhVtxtQ-Fod0nXYEaiDzZxmM3zi0JBBy0l&ved=2ahUKEwi2vr6n6-SWAxXGLEQIHdodGz8QFnoECEgQAQ&uoh=1",
+   "displayed_link": "https://ehs.pmsd.org",
+   "favicon": "https://serpapi.com/searches/6aa3112323df7825d3756594/images/sObh8Fit7emNF4LHJQ_fY6iaDN7vKrRuzFN5IKj4YzU.png",
+   "snippet": "Home - Pocono Mountain East High School. ... PA. 18370. 570-839-7121 ext 80400. footer-utility. Get Directions \u00b7 Email Us \u00b7 Web Accessibility \u00b7 Site Map; Back to ...",
+   "snippet_highlighted_words": [
+    "Pocono Mountain East High School",
+    "PA"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "Calendar",
+      "link": "https://ehs.pmsd.org/east-high-school-calendar",
+      "snippet": "Calendar - Pocono Mountain East High School. ... footer-location ..."
+     },
+     {
+      "title": "About Us",
+      "link": "https://ehs.pmsd.org/our-school/about-us",
+      "snippet": "Pocono Mountain East High School is located in Swiftwater ..."
+     },
+     {
+      "title": "Home of the Cardinals",
+      "link": "https://ehs.pmsd.org/athletics123/athletics-home-page",
+      "snippet": "Pocono Mountain East High School. logo-title. Pocono ..."
+     },
+     {
+      "title": "Faculty & Staff",
+      "link": "https://ehs.pmsd.org/our-school/faculty-staff",
+      "snippet": "Faculty & Staff - Pocono Mountain East High School. ... PA. 18370 ..."
+     },
+     {
+      "title": "Administration",
+      "link": "https://ehs.pmsd.org/our-school/administration",
+      "snippet": "Principal: Ms. Jamie Bowman \u00b7 As a graduate of Pocono Mountain ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Home - Pocono Mountain East High School. ... PA. 18370. 570-839-7121 ext 80400. footer-utility. Get Directions \u00b7 Email Us \u00b7 Web Accessibility \u00b7 Site Map; Back to ...",
+     "source_info_link": "https://ehs.pmsd.org/",
+     "icon": "https://serpapi.com/searches/6aa3112323df7825d3756594/images/sObh8Fit7emNF4LHJQ_fY4IEFygdW5vAG08_05qayTVi-kE_99DQLJDSLznuTmQz.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESTQHrOzAVWreTJUpF0RRXyFl_CGQu-MHQK32LQS75CRyC1a_JZmNsvqVQ1CGtVCwYpm4gMKrhVtxtQ-Fod0nXYEaiDzZxmM3zi0JBBy0l&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESTQHrOzAVWreTJUpF0RRXyFl_CGQu-MHQK32LQS75CRyC1a_JZmNsvqVQ1CGtVCwYpm4gMKrhVtxtQ-Fod0nXYEaiDzZxmM3zi0JBBy0l",
+   "source": "Pocono Mountain East High School"
+  },
+  {
+   "position": 2,
+   "title": "Pocono Mountain East High School - Pennsylvania",
+   "link": "https://www.usnews.com/education/best-high-schools/pennsylvania/districts/pocono-mountain-school-district/pocono-mountain-east-high-school-17284",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESyQEB6zswFY4FADyyGPBZnCBhjbkS5RWyIkzeOPwB41WZRFB-EXzD02VkmNl6JOjEyExlNzqVRHHQuWVOOi62JE1Mzp9PO22to_7VKrt4-5SjlnQerqrlErI6dIHDWz1mlk4kDIcXGBAo94psrVZthwSkQkENI-1JFAciExGuRWHPFkcmNQE8ovV2iTvg18zcC-0petfBcT1m147afz8F3asrYzcfnvoWBUR4AIy0AwlH8uBGYnTruoBK0XvZZYZMzGsP9nfOduDGNY4&ved=2ahUKEwi2vr6n6-SWAxXGLEQIHdodGz8QFnoECEYQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a pennsylvania \u203a districts \u203a po...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png",
+   "snippet": "Pocono Mountain East High School is ranked #2,841 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how ...",
+   "snippet_highlighted_words": [
+    "Pocono Mountain East High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Pocono Mountain East High School is ranked #2,841 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/pennsylvania/districts/pocono-mountain-school-district/pocono-mountain-east-high-school-17284",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESyQEB6zswFY4FADyyGPBZnCBhjbkS5RWyIkzeOPwB41WZRFB-EXzD02VkmNl6JOjEyExlNzqVRHHQuWVOOi62JE1Mzp9PO22to_7VKrt4-5SjlnQerqrlErI6dIHDWz1mlk4kDIcXGBAo94psrVZthwSkQkENI-1JFAciExGuRWHPFkcmNQE8ovV2iTvg18zcC-0petfBcT1m147afz8F3asrYzcfnvoWBUR4AIy0AwlH8uBGYnTruoBK0XvZZYZMzGsP9nfOduDGNY4&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESyQEB6zswFY4FADyyGPBZnCBhjbkS5RWyIkzeOPwB41WZRFB-EXzD02VkmNl6JOjEyExlNzqVRHHQuWVOOi62JE1Mzp9PO22to_7VKrt4-5SjlnQerqrlErI6dIHDWz1mlk4kDIcXGBAo94psrVZthwSkQkENI-1JFAciExGuRWHPFkcmNQE8ovV2iTvg18zcC-0petfBcT1m147afz8F3asrYzcfnvoWBUR4AIy0AwlH8uBGYnTruoBK0XvZZYZMzGsP9nfOduDGNY4",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/pennsylvania/districts/pocono-mountain-school-district/pocono-mountain-east-high-school-17284#:~:text=Pocono%20Mountain%20East%20High%20School,they%20prepare%20students%20for%20college."
+  },
+  {
+   "position": 3,
+   "title": "Pocono Mountain High School",
+   "link": "https://en.wikipedia.org/wiki/Pocono_Mountain_High_School",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScQHrOzAVFq3s1DpJRTtEW_hzUh1JxxlkuKo0uqVTmznXdcgsLvn0_zznSPFEClU3hptMB9nquTpglZvCumA3WbTeaYXa2Xru4-5NpSg4jVS1Z3-Q175mJowlTMni1ObZTTS_EhayDLcqJchRbLz4AlgR&ved=2ahUKEwi2vr6n6-SWAxXGLEQIHdodGz8QFnoECEcQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Pocono_Mountain_Hi...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+   "snippet": "Pocono Mountain East High School, in Pocono Mountain School District, at Pocono Mountain School Road, Swiftwater, Pennsylvania, which prior to 2002 was ...",
+   "snippet_highlighted_words": [
+    "Pocono Mountain East High School",
+    "Pennsylvania"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Pocono Mountain East High School, in Pocono Mountain School District, at Pocono Mountain School Road, Swiftwater, Pennsylvania, which prior to 2002 was ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Pocono_Mountain_High_School",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEScQHrOzAVFq3s1DpJRTtEW_hzUh1JxxlkuKo0uqVTmznXdcgsLvn0_zznSPFEClU3hptMB9nquTpglZvCumA3WbTeaYXa2Xru4-5NpSg4jVS1Z3-Q175mJowlTMni1ObZTTS_EhayDLcqJchRbLz4AlgR&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEScQHrOzAVFq3s1DpJRTtEW_hzUh1JxxlkuKo0uqVTmznXdcgsLvn0_zznSPFEClU3hptMB9nquTpglZvCumA3WbTeaYXa2Xru4-5NpSg4jVS1Z3-Q175mJowlTMni1ObZTTS_EhayDLcqJchRbLz4AlgR",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Pocono_Mountain_High_School#:~:text=Pocono%20Mountain%20East%20High%20School%2C,as%20Pocono%20Mountain%20High%20School"
+  },
+  {
+   "position": 4,
+   "title": "Pocono Mountain East High School",
+   "link": "https://www.niche.com/k12/pocono-mountain-east-high-school-swiftwater-pa/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgQEB6zswFdVIKOY10okYa5buYBnOrBhTSwbF6FKwGNq2u-ZYeY0rS0nnhBzrR8vBimD8z5d1kf2TEjAHnsV6ujOlkkqWqdZvjJ_B6YjGS4UdTNvcBDyAsPsPB4GSx7RUmezo5cLY4kFdLUG0O8-OVdpykYVAF2xjmDeuojNKKn6siLQ&ved=2ahUKEwi2vr6n6-SWAxXGLEQIHdodGz8QFnoECEMQAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a Pennsylvania",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png",
+   "snippet": "Pocono Mountain East High School is a public school located in SWIFTWATER, PA. It has 1242 students in grades 9-12 with a student-teacher ratio of 13 to 1.",
+   "snippet_highlighted_words": [
+    "Pocono Mountain East High School",
+    "PA"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Pocono Mountain East High School is a public school located in SWIFTWATER, PA. It has 1242 students in grades 9-12 with a student-teacher ratio of 13 to 1.",
+     "source_info_link": "https://www.niche.com/k12/pocono-mountain-east-high-school-swiftwater-pa/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESgQEB6zswFdVIKOY10okYa5buYBnOrBhTSwbF6FKwGNq2u-ZYeY0rS0nnhBzrR8vBimD8z5d1kf2TEjAHnsV6ujOlkkqWqdZvjJ_B6YjGS4UdTNvcBDyAsPsPB4GSx7RUmezo5cLY4kFdLUG0O8-OVdpykYVAF2xjmDeuojNKKn6siLQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESgQEB6zswFdVIKOY10okYa5buYBnOrBhTSwbF6FKwGNq2u-ZYeY0rS0nnhBzrR8vBimD8z5d1kf2TEjAHnsV6ujOlkkqWqdZvjJ_B6YjGS4UdTNvcBDyAsPsPB4GSx7RUmezo5cLY4kFdLUG0O8-OVdpykYVAF2xjmDeuojNKKn6siLQ",
+   "source": "Niche"
+  },
+  {
+   "position": 5,
+   "title": "Pocono Mountain East High School | Swiftwater PA",
+   "link": "https://www.facebook.com/p/Pocono-Mountain-East-High-School-100087165513077/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShAEB6zswFWqToS0KiXpKydjvydT-eElv5HUJCkJ2RoEyF91U6iXMODNgK3r0HwXUP1_XE_lWcBNQ9yThqu8F9_FYRyZb0vi9bVQKOZVSuh0Y289IxpPfbHXpCYJgRmRYe06zwz7vHNi97QWew714kblQ2_GGOJ85TtiXHqOb4zmXCLuOgG4&ved=2ahUKEwi2vr6n6-SWAxXGLEQIHdodGz8QFnoECEoQAQ&uoh=1",
+   "displayed_link": "1.4K+ followers",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "snippet": "Pocono Mountain East High School ; 2 reviews ; Always open ; 231 Pocono Mountain School Road , Swiftwater, PA, United States, 18370 ...",
+   "snippet_highlighted_words": [
+    "Pocono Mountain East High School",
+    "PA"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Pocono Mountain East High School ; 2 reviews ; Always open ; 231 Pocono Mountain School Road , Swiftwater, PA, United States, 18370 ...",
+     "source_info_link": "https://www.facebook.com/p/Pocono-Mountain-East-High-School-100087165513077/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEShAEB6zswFWqToS0KiXpKydjvydT-eElv5HUJCkJ2RoEyF91U6iXMODNgK3r0HwXUP1_XE_lWcBNQ9yThqu8F9_FYRyZb0vi9bVQKOZVSuh0Y289IxpPfbHXpCYJgRmRYe06zwz7vHNi97QWew714kblQ2_GGOJ85TtiXHqOb4zmXCLuOgG4&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEShAEB6zswFWqToS0KiXpKydjvydT-eElv5HUJCkJ2RoEyF91U6iXMODNgK3r0HwXUP1_XE_lWcBNQ9yThqu8F9_FYRyZb0vi9bVQKOZVSuh0Y289IxpPfbHXpCYJgRmRYe06zwz7vHNi97QWew714kblQ2_GGOJ85TtiXHqOb4zmXCLuOgG4",
+   "source": "Facebook \u00b7 Pocono Mountain East High School",
+   "read_more_link": "https://www.facebook.com/p/Pocono-Mountain-East-High-School-100087165513077/#:~:text=Pocono%20Mountain%20East%20High%20School&text=2%20reviews&text=Always%20open&text=231%20Pocono%20Mountain%20School%20Road,Swiftwater%2C%20PA%2C%20United%20States%2C%2018370"
+  },
+  {
+   "position": 6,
+   "title": "Pocono Mountain East High School - Pennsylvania",
+   "link": "https://www.donorschoose.org/schools/pennsylvania/pocono-mountain-school-district/pocono-mountain-east-high-school/90435",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESsAEB6zswFY1FDoiqqqVrQ7sNRxA8ST0k-DbPFZ2laa_F6kKr1CWBDlX02scpFmxUw7H1uDjPVDYwOGVMEWIg7bUWzIZAJbxvn6atj0rcFVl-9tklwgm5X-Irg8ivJt19Z9jn-wRJun9oT9P3YjENfgBgjQ-u441yAoUcA2d_bqhyaqjHY3wo0fr3cD1wlCxYPvgrGrI6cPVa3JT1BmJhcE650BwDZ1BZY_WsUyUCmWs5YA&ved=2ahUKEwi2vr6n6-SWAxXGLEQIHdodGz8QFnoECE8QAQ&uoh=1",
+   "displayed_link": "https://www.donorschoose.org \u203a schools \u203a pocono-mou...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEU4A8E4AcE4AME3CMA1DL8zEb0vGLovGboyE7wwFrslA7hhVcaAd9B9dM9lWcgbALe_u-b____e3PJ3bc25teTEwOixrOE2IbzJxeqKgtORitaoot0AALLp5_drYMqak9minNtEM7_oabQTAAAA3klEQVR4AXWSBRIDIQwAITh1d_v_J0uQTI7SHWUWiAqOTIghAEonFMCvUsa6jPUKOmecJZyfysAcolhs2-PIQkhHHzMmVM3j-dl8gSz9KmYZIEuF8VbrTWW7W-WPNT20q_2GOGTrAaVFUBJHtI5-Rck4hfqvZvJ8OWd5XSVpQEgub6v7g_79J28juX6W0POYvx0ntMoJyWEpLyoFfC_3K-pf375Ha58sT5ONuzfymn944xE8xFUmhjbQbKiDHKeBVlINHeEdU6HbP9Ae1xLXM-jB5gptElrAeOslwMR8AZhOFkQFCdvDAAAAAElFTkSuQmCC.png",
+   "snippet": "Pocono Mountain East High School is a rural public school in Swiftwater, Pennsylvania that is part of Pocono Mountain School District. It serves 1,263 students ...",
+   "snippet_highlighted_words": [
+    "Pocono Mountain East High School",
+    "Pennsylvania"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Pocono Mountain East High School is a rural public school in Swiftwater, Pennsylvania that is part of Pocono Mountain School District. It serves 1,263 students ...",
+     "source_info_link": "https://www.donorschoose.org/schools/pennsylvania/pocono-mountain-school-district/pocono-mountain-east-high-school/90435",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEU4A8E4AcE4AME3CMA1DL8zEb0vGLovGboyE7wwFrslA7hhVcaAd9B9dM9lWcgbALe_u-b____e3PJ3bc25teTEwOixrOE2IbzJxeqKgtORitaoot0AALLp5_drYMqak9minNtEM7_oabQTAAAA3klEQVR4AXWSBRIDIQwAITh1d_v_J0uQTI7SHWUWiAqOTIghAEonFMCvUsa6jPUKOmecJZyfysAcolhs2-PIQkhHHzMmVM3j-dl8gSz9KmYZIEuF8VbrTWW7W-WPNT20q_2GOGTrAaVFUBJHtI5-Rck4hfqvZvJ8OWd5XSVpQEgub6v7g_79J28juX6W0POYvx0ntMoJyWEpLyoFfC_3K-pf375Ha58sT5ONuzfymn944xE8xFUmhjbQbKiDHKeBVlINHeEdU6HbP9Ae1xLXM-jB5gptElrAeOslwMR8AZhOFkQFCdvDAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESsAEB6zswFY1FDoiqqqVrQ7sNRxA8ST0k-DbPFZ2laa_F6kKr1CWBDlX02scpFmxUw7H1uDjPVDYwOGVMEWIg7bUWzIZAJbxvn6atj0rcFVl-9tklwgm5X-Irg8ivJt19Z9jn-wRJun9oT9P3YjENfgBgjQ-u441yAoUcA2d_bqhyaqjHY3wo0fr3cD1wlCxYPvgrGrI6cPVa3JT1BmJhcE650BwDZ1BZY_WsUyUCmWs5YA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESsAEB6zswFY1FDoiqqqVrQ7sNRxA8ST0k-DbPFZ2laa_F6kKr1CWBDlX02scpFmxUw7H1uDjPVDYwOGVMEWIg7bUWzIZAJbxvn6atj0rcFVl-9tklwgm5X-Irg8ivJt19Z9jn-wRJun9oT9P3YjENfgBgjQ-u441yAoUcA2d_bqhyaqjHY3wo0fr3cD1wlCxYPvgrGrI6cPVa3JT1BmJhcE650BwDZ1BZY_WsUyUCmWs5YA",
+   "source": "DonorsChoose",
+   "read_more_link": "https://www.donorschoose.org/schools/pennsylvania/pocono-mountain-school-district/pocono-mountain-east-high-school/90435#:~:text=Pocono%20Mountain%20East%20High%20School,a%20student%2Fteacher%20ratio%20of%2011.1%3A1."
+  },
+  {
+   "position": 7,
+   "title": "Pocono Mountain East High School",
+   "link": "http://www.piaa.org/schools/directory/details.aspx?ID=11514",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHrOzAVczsBTAVamJZDCBQ7ktJkUWBvTMDKtlRVI19SAJzgQvIUxAYSXYXKcDUDfo72U8fPwIbdd1EthGZAgDArhPtrsV2qz-Wb6UYppu5g02--FHLpW1FTnw-TIXthtIs9r0wwhw1b3_VUV9D6r_eSx10&ved=2ahUKEwi2vr6n6-SWAxXGLEQIHdodGz8QFnoECEUQAQ&uoh=1",
+   "displayed_link": "http://www.piaa.org \u203a schools \u203a directory \u203a details",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAulBMVEVHcEyOpcg3YZIOSIA_ZIxMao9AYYQ-YIVOa4o4XIRKa491k7Q7X4Q_YYdPZ4JcbXxUZ35HXngyVHknSnMgSXQqTnUkTHY8XYRRcpUbSXp3g4uMi4KZmZGroYtteIAFOGsALGN-ipKcnpiepKccSXd_fHG7o3XJrHW6rpTAqX69tJ-2qIpZc45UcpV6kKnTrWnMtYmfop6ll3rXtnpLZYIVQW-MkpFxgJKCgnhaanx-ipLQzsZlcHl4e3nOTHYtAAAAPnRSTlMAAwobKz1Ya3xLIReHv9_w____-__tzrFFc_v______v_hrWqv_v___P____-nDv________3_r___tR6-7S5Z-lEAAAEISURBVHgB3BCFgYMwsO64W6AWfxzq-6_1dZ-gybnfNX70NZvNb-ZWu9Pt9fuDQb837I7GTzHNTm8iiJKsqKqm65phWgP75h85puR6fuC7wA1VALQoUqezefvk6yyMZQARJpQhPwSQyFHEIXH_Oo1GvFC9JIVphrK8KCs_RSAK6xTV3Iob3QokCYEFLPw81UuGj06VUeSFYffoXCYJS5jHS8gqlwRHM0DZ2XksK8MiSOroaGI8T1kSHClOAnURnwaSfFZQVa0hzWB2pQSvOpdVBNcn-doFXN4oymYjb0pxO989jrA_HMCmVPSqqjTTmgzbzZfz2b3B6fV73c64-Xn1I3y__P-GAQAAZPwiZQTWdKwAAAAASUVORK5CYII.png",
+   "snippet": "School Details: Pocono Mountain East High School \u00b7 Enrollment Figures \u00b7 Mailing Addresses \u00b7 Phone Numbers \u00b7 School Contacts \u00b7 Search Schools.",
+   "snippet_highlighted_words": [
+    "Pocono Mountain East High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "School Details: Pocono Mountain East High School \u00b7 Enrollment Figures \u00b7 Mailing Addresses \u00b7 Phone Numbers \u00b7 School Contacts \u00b7 Search Schools.",
+     "source_info_link": "http://www.piaa.org/schools/directory/details.aspx?ID=11514",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAulBMVEVHcEyOpcg3YZIOSIA_ZIxMao9AYYQ-YIVOa4o4XIRKa491k7Q7X4Q_YYdPZ4JcbXxUZ35HXngyVHknSnMgSXQqTnUkTHY8XYRRcpUbSXp3g4uMi4KZmZGroYtteIAFOGsALGN-ipKcnpiepKccSXd_fHG7o3XJrHW6rpTAqX69tJ-2qIpZc45UcpV6kKnTrWnMtYmfop6ll3rXtnpLZYIVQW-MkpFxgJKCgnhaanx-ipLQzsZlcHl4e3nOTHYtAAAAPnRSTlMAAwobKz1Ya3xLIReHv9_w____-__tzrFFc_v______v_hrWqv_v___P____-nDv________3_r___tR6-7S5Z-lEAAAEISURBVHgB3BCFgYMwsO64W6AWfxzq-6_1dZ-gybnfNX70NZvNb-ZWu9Pt9fuDQb837I7GTzHNTm8iiJKsqKqm65phWgP75h85puR6fuC7wA1VALQoUqezefvk6yyMZQARJpQhPwSQyFHEIXH_Oo1GvFC9JIVphrK8KCs_RSAK6xTV3Iob3QokCYEFLPw81UuGj06VUeSFYffoXCYJS5jHS8gqlwRHM0DZ2XksK8MiSOroaGI8T1kSHClOAnURnwaSfFZQVa0hzWB2pQSvOpdVBNcn-doFXN4oymYjb0pxO989jrA_HMCmVPSqqjTTmgzbzZfz2b3B6fV73c64-Xn1I3y__P-GAQAAZPwiZQTWdKwAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEScwHrOzAVczsBTAVamJZDCBQ7ktJkUWBvTMDKtlRVI19SAJzgQvIUxAYSXYXKcDUDfo72U8fPwIbdd1EthGZAgDArhPtrsV2qz-Wb6UYppu5g02--FHLpW1FTnw-TIXthtIs9r0wwhw1b3_VUV9D6r_eSx10&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEScwHrOzAVczsBTAVamJZDCBQ7ktJkUWBvTMDKtlRVI19SAJzgQvIUxAYSXYXKcDUDfo72U8fPwIbdd1EthGZAgDArhPtrsV2qz-Wb6UYppu5g02--FHLpW1FTnw-TIXthtIs9r0wwhw1b3_VUV9D6r_eSx10",
+   "source": "PIAA.org",
+   "read_more_link": "http://www.piaa.org/schools/directory/details.aspx?ID=11514#:~:text=School%20Details%3A,Pocono%20Mountain%20East%20High%20School&text=Enrollment%20Figures&text=Mailing%20Addresses&text=Phone%20Numbers&text=School%20Contacts&text=Search%20Schools"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Pocono mountain east high school pennsylvania yearbook",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Pocono+mountain+east+high+school+pennsylvania+yearbook&sa=X&ved=2ahUKEwi2vr6n6-SWAxXGLEQIHdodGz8Q1QJ6BAh9EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pocono+mountain+east+high+school+pennsylvania+yearbook"
+  },
+  {
+   "block_position": 1,
+   "query": "Pocono mountain east high school pennsylvania football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Pocono+mountain+east+high+school+pennsylvania+football&sa=X&ved=2ahUKEwi2vr6n6-SWAxXGLEQIHdodGz8Q1QJ6BQiAARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pocono+mountain+east+high+school+pennsylvania+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Pocono mountain east junior high school",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Pocono+mountain+east+junior+high+school&sa=X&ved=2ahUKEwi2vr6n6-SWAxXGLEQIHdodGz8Q1QJ6BAh-EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pocono+mountain+east+junior+high+school"
+  },
+  {
+   "block_position": 1,
+   "query": "Pocono mountain east high school pennsylvania alumni",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Pocono+mountain+east+high+school+pennsylvania+alumni&sa=X&ved=2ahUKEwi2vr6n6-SWAxXGLEQIHdodGz8Q1QJ6BAh8EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pocono+mountain+east+high+school+pennsylvania+alumni"
+  },
+  {
+   "block_position": 1,
+   "query": "Pocono mountain east high school pennsylvania basketball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Pocono+mountain+east+high+school+pennsylvania+basketball&sa=X&ved=2ahUKEwi2vr6n6-SWAxXGLEQIHdodGz8Q1QJ6BAh6EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pocono+mountain+east+high+school+pennsylvania+basketball"
+  },
+  {
+   "block_position": 1,
+   "query": "Pocono mountain east high school pennsylvania principal",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Pocono+mountain+east+high+school+pennsylvania+principal&sa=X&ved=2ahUKEwi2vr6n6-SWAxXGLEQIHdodGz8Q1QJ6BAh7EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pocono+mountain+east+high+school+pennsylvania+principal"
+  },
+  {
+   "block_position": 1,
+   "query": "Pocono Mountain School District",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Pocono+Mountain+School+District&sa=X&ved=2ahUKEwi2vr6n6-SWAxXGLEQIHdodGz8Q1QJ6BAh5EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pocono+Mountain+School+District"
+  },
+  {
+   "block_position": 1,
+   "query": "Pocono Mountain West High School",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Pocono+Mountain+West+High+School&sa=X&ved=2ahUKEwi2vr6n6-SWAxXGLEQIHdodGz8Q1QJ6BAh_EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pocono+Mountain+West+High+School"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Pocono+Mountain+East+High+School%22+Pennsylvania&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=LhGjarbvLcbZkPIP2rvs-AM&start=10&sa=N&sstk=AS6-VmLiv3bhU-sNDKYxl3dTEiJSoezwSOhE7ssU71Zfzk3vDsKIOVdYUaYq4CZzPMoAPxR7QWpAPJPerKd4AK4qaduvLlmf5n3Twg&ved=2ahUKEwi2vr6n6-SWAxXGLEQIHdodGz8Q8NMDegQIcxAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Pocono+Mountain+East+High+School%22+Pennsylvania&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=LhGjarbvLcbZkPIP2rvs-AM&start=10&sa=N&sstk=AS6-VmLiv3bhU-sNDKYxl3dTEiJSoezwSOhE7ssU71Zfzk3vDsKIOVdYUaYq4CZzPMoAPxR7QWpAPJPerKd4AK4qaduvLlmf5n3Twg&ved=2ahUKEwi2vr6n6-SWAxXGLEQIHdodGz8Q8tMDegQIcxAE",
+   "3": "https://www.google.com/search?q=%22Pocono+Mountain+East+High+School%22+Pennsylvania&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=LhGjarbvLcbZkPIP2rvs-AM&start=20&sa=N&sstk=AS6-VmLiv3bhU-sNDKYxl3dTEiJSoezwSOhE7ssU71Zfzk3vDsKIOVdYUaYq4CZzPMoAPxR7QWpAPJPerKd4AK4qaduvLlmf5n3Twg&ved=2ahUKEwi2vr6n6-SWAxXGLEQIHdodGz8Q8tMDegQIcxAG",
+   "4": "https://www.google.com/search?q=%22Pocono+Mountain+East+High+School%22+Pennsylvania&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=LhGjarbvLcbZkPIP2rvs-AM&start=30&sa=N&sstk=AS6-VmLiv3bhU-sNDKYxl3dTEiJSoezwSOhE7ssU71Zfzk3vDsKIOVdYUaYq4CZzPMoAPxR7QWpAPJPerKd4AK4qaduvLlmf5n3Twg&ved=2ahUKEwi2vr6n6-SWAxXGLEQIHdodGz8Q8tMDegQIcxAI",
+   "5": "https://www.google.com/search?q=%22Pocono+Mountain+East+High+School%22+Pennsylvania&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=LhGjarbvLcbZkPIP2rvs-AM&start=40&sa=N&sstk=AS6-VmLiv3bhU-sNDKYxl3dTEiJSoezwSOhE7ssU71Zfzk3vDsKIOVdYUaYq4CZzPMoAPxR7QWpAPJPerKd4AK4qaduvLlmf5n3Twg&ved=2ahUKEwi2vr6n6-SWAxXGLEQIHdodGz8Q8tMDegQIcxAK",
+   "6": "https://www.google.com/search?q=%22Pocono+Mountain+East+High+School%22+Pennsylvania&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=LhGjarbvLcbZkPIP2rvs-AM&start=50&sa=N&sstk=AS6-VmLiv3bhU-sNDKYxl3dTEiJSoezwSOhE7ssU71Zfzk3vDsKIOVdYUaYq4CZzPMoAPxR7QWpAPJPerKd4AK4qaduvLlmf5n3Twg&ved=2ahUKEwi2vr6n6-SWAxXGLEQIHdodGz8Q8tMDegQIcxAM",
+   "7": "https://www.google.com/search?q=%22Pocono+Mountain+East+High+School%22+Pennsylvania&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=LhGjarbvLcbZkPIP2rvs-AM&start=60&sa=N&sstk=AS6-VmLiv3bhU-sNDKYxl3dTEiJSoezwSOhE7ssU71Zfzk3vDsKIOVdYUaYq4CZzPMoAPxR7QWpAPJPerKd4AK4qaduvLlmf5n3Twg&ved=2ahUKEwi2vr6n6-SWAxXGLEQIHdodGz8Q8tMDegQIcxAO",
+   "8": "https://www.google.com/search?q=%22Pocono+Mountain+East+High+School%22+Pennsylvania&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=LhGjarbvLcbZkPIP2rvs-AM&start=70&sa=N&sstk=AS6-VmLiv3bhU-sNDKYxl3dTEiJSoezwSOhE7ssU71Zfzk3vDsKIOVdYUaYq4CZzPMoAPxR7QWpAPJPerKd4AK4qaduvLlmf5n3Twg&ved=2ahUKEwi2vr6n6-SWAxXGLEQIHdodGz8Q8tMDegQIcxAQ",
+   "9": "https://www.google.com/search?q=%22Pocono+Mountain+East+High+School%22+Pennsylvania&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=LhGjarbvLcbZkPIP2rvs-AM&start=80&sa=N&sstk=AS6-VmLiv3bhU-sNDKYxl3dTEiJSoezwSOhE7ssU71Zfzk3vDsKIOVdYUaYq4CZzPMoAPxR7QWpAPJPerKd4AK4qaduvLlmf5n3Twg&ved=2ahUKEwi2vr6n6-SWAxXGLEQIHdodGz8Q8tMDegQIcxAS",
+   "10": "https://www.google.com/search?q=%22Pocono+Mountain+East+High+School%22+Pennsylvania&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=LhGjarbvLcbZkPIP2rvs-AM&start=90&sa=N&sstk=AS6-VmLiv3bhU-sNDKYxl3dTEiJSoezwSOhE7ssU71Zfzk3vDsKIOVdYUaYq4CZzPMoAPxR7QWpAPJPerKd4AK4qaduvLlmf5n3Twg&ved=2ahUKEwi2vr6n6-SWAxXGLEQIHdodGz8Q8tMDegQIcxAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pocono+Mountain+East+High+School%22+Pennsylvania&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pocono+Mountain+East+High+School%22+Pennsylvania&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pocono+Mountain+East+High+School%22+Pennsylvania&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pocono+Mountain+East+High+School%22+Pennsylvania&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pocono+Mountain+East+High+School%22+Pennsylvania&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pocono+Mountain+East+High+School%22+Pennsylvania&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pocono+Mountain+East+High+School%22+Pennsylvania&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pocono+Mountain+East+High+School%22+Pennsylvania&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pocono+Mountain+East+High+School%22+Pennsylvania&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pocono+Mountain+East+High+School%22+Pennsylvania&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pocono+Mountain+East+High+School%22+Pennsylvania&start=90"
+  }
+ }
+}

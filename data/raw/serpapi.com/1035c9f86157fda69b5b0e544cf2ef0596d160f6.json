@@ -1,0 +1,479 @@
+{
+ "search_information": {
+  "query_displayed": "\"Compton High School\"",
+  "total_results": 130000,
+  "time_taken_displayed": 0.23,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Compton High School",
+  "type": "High school in Compton, California",
+  "entity_type": "local_nav",
+  "kgmid": "/m/05h9dv",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/05h9dv&hl=en-US&q=Compton+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F05h9dv&q=Compton+High+School",
+  "place_id": "ChIJ_cVcp2vLwoARl1GevrjJaWE",
+  "website": "https://comptonhs.compton.k12.ca.us/",
+  "description": "Compton High School is a high school in Compton, California, United States, part of the Compton Unified School District.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa30d85fd81c8c50fe6429f/images/_FMj6fJldvDpzNr7ijW8FYWtwtLBFS2MMXcrlKGNbGI.webp",
+   "link": "https://www.google.com/maps/place/Compton+High+School/data=!4m2!3m1!1s0x0:0x6169c9b8be9e5197?sa=X&ved=2ahUKEwiJvLvs5-SWAxVSsFYBHYIKByUQ_BJ6BAgREAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Compton_High_School"
+  },
+  "address": "601 S Acacia Ave, Compton, CA 90220",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=compton+high+school+address&ludocid=7019363289542840727&sa=X&ved=2ahUKEwiJvLvs5-SWAxVSsFYBHYIKByUQ6BN6BAggEAI"
+   }
+  ],
+  "color": "Columbia blue",
+  "color_links": [
+   {
+    "text": "Columbia blue",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yZCAAMwFcl-IO_qmkuZ55LRJm7CiDBXMKhfzfRp4KSLlDHw0Ft1AhComhferXNuhemtYAg-q-OAlzguR6IG7GfQMNDXLGLTTT91EoUYbsi3GS9o-FU_DB94nM3JNIGrv__M1tgs%3D&sa=X&ved=2ahUKEwiJvLvs5-SWAxVSsFYBHYIKByUQmxN6BAghEAI"
+   }
+  ],
+  "founded": "1896",
+  "school_types": "Secondary school, High school, State school",
+  "school_types_links": [
+   {
+    "text": "Secondary school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Secondary+school&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67-Rsa99rK7fwEET42kD4ZCjk-kwuBlXLYvTk1E00Fqrhwi85KZ1INmxqGZOr3jlJDcUD6ud1MLv8IJ0e6fEDPQWMqzMljtx1MKREnqXNq73i5LydykXBwyMCTWd-UH_3HaHBflNEOSAXNEECeoqAJj7sJgLt1IWo95YhurRfOzzmRsuw-7GNzvBwdVh_AKdbow1utB6osh1c20WtWugA1mYExLv0VW7ZQPpiFGoyZuY8yE9eutcBRDYQd11TpSjFNSA5MmA%3D&sa=X&ved=2ahUKEwiJvLvs5-SWAxVSsFYBHYIKByUQmxN6BAgmEAI"
+   },
+   {
+    "text": "High school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=High+school&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMppXfNh-OkLk_azmU0uk1AX8WDg6Aey6nZnfzhISz_BahG86fIXhZzQ_5i9gVo2jpkRefi2vb1cuIcbbWsQX1bg-7OrENYaerTHY7HdnuvRnhOwuypNJT8KzOG2WNZAegGeDah1oP0M21W7njlj_OK56fEKCG7J5YvbbKEt5MgqHX5hpGUzZ8-VTUIiESCgOr0FsPsHyMqC3E58UPQ-FZ3TCAfnjbkgAQ_fb3o1iz93M0ADbK_8fMrKL1U9TGD2Ewwn1qUfw%3D&sa=X&ved=2ahUKEwiJvLvs5-SWAxVSsFYBHYIKByUQmxN6BAgmEAM"
+   },
+   {
+    "text": "State school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=State+school&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ybGtCxI0H8z2nV80srIO5hh43iJrpLL9zyTRHToodwNipZCD4kcN2wbzA3OqfyGettl42NpXglwsH4hnJQRSg4KBrFTowpZphOt0qedRcJ2An_yk6SW2QR01NiQ05tuhpfwMZae1uJubMyDJHTfwe01ZhG-FfX0uEmOnG7tVR-Wv06AK2xaz5Xt7pOnf1m1gvgd5-1GUOCxGnFv6winaI2F1V8bZA0xMpZEirUn2WfxowZqCRYTl1Mq6EYBudRdfbKr2YaY%3D&sa=X&ved=2ahUKEwiJvLvs5-SWAxVSsFYBHYIKByUQmxN6BAgmEAQ"
+   }
+  ],
+  "phone": "(310) 898-6040",
+  "raw_hours": "Open \u00b7 Closes 4 PMUpdated by this business 10 weeks agoUpdated by this business 10 weeks ago",
+  "hours": {
+   "thursday": {
+    "opens": "8\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "friday": {
+    "opens": "8\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "8\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "tuesday": {
+    "opens": "8\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "wednesday": {
+    "opens": "8\u202fAM",
+    "closes": "4\u202fPM"
+   }
+  },
+  "people_also_search_for": [
+   {
+    "name": "Compton",
+    "image": "https://serpapi.com/searches/6aa30d85fd81c8c50fe6429f/images/_FMj6fJldvDpzNr7ijW8FRWrp6UcgP-5aP6c9tchtN73MxGokGvCwHaLdhiG932k.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpgvSWz-ksnZzE6n23zLJjPNZfP30INhxdceVQghLJfW8VlhapKVfDaqUV6lstGnbbkluHYYVld5RzVRzWgiC1m0jxlA139BJcxgAREafFc7acDkSHHS5jSF-2Y5oULK-2mQO-eUQIdMaskkm3aLlU2UA0PCKHQD148KbnHGQYnG27u77e_SJi9TuaaoAcDJ3itOsvakGlUYsr6O0Q0ew77zLlJHujCpnUZOHo0iUuK0RLVT64sH8w8gpGJCNC5e6Re6Gt-4%3D&q=Compton,+California&sa=X&ved=2ahUKEwiJvLvs5-SWAxVSsFYBHYIKByUQs9oBKAB6BAgfEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Compton%2C+California&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpgvSWz-ksnZzE6n23zLJjPNZfP30INhxdceVQghLJfW8VlhapKVfDaqUV6lstGnbbkluHYYVld5RzVRzWgiC1m0jxlA139BJcxgAREafFc7acDkSHHS5jSF-2Y5oULK-2mQO-eUQIdMaskkm3aLlU2UA0PCKHQD148KbnHGQYnG27u77e_SJi9TuaaoAcDJ3itOsvakGlUYsr6O0Q0ew77zLlJHujCpnUZOHo0iUuK0RLVT64sH8w8gpGJCNC5e6Re6Gt-4%3D"
+   },
+   {
+    "name": "Centennial High School",
+    "image": "https://serpapi.com/searches/6aa30d85fd81c8c50fe6429f/images/_FMj6fJldvDpzNr7ijW8FRWrp6UcgP-5aP6c9tchtN6u8P4AJ9CbeWiMFO1-neR3.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW674kA6ujrVNNStnYynZnxqpWsIprLtyUG879S4QZbZyNbfhGLwvTPOwoDAai17reB-YWPXqG1TdcigNkQM0N_w8qRA0mcA7pyQs6tr1dzTpNsDkFf_04SKoOgZekMzLFEn_taXjU2UyZY5gE0Rjc2v0yvBqyjYfKbFAMifQoIjHy9GFoihglx5WyawWggCxL0S38DFb54NPqOsr_dZWGvmsO_IrBp9t20FV-6zJgQbJsqIFZ6OA97rxnMWw4ERwxN7zhrmaLb6k0iLY1cR3TBcJkCWo2iSixKzGyaC1lU6Q_z2frKVA%3D%3D&q=Centennial+High+School+(Compton,+California)&sa=X&ved=2ahUKEwiJvLvs5-SWAxVSsFYBHYIKByUQs9oBKAB6BAgfEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Centennial+High+School+%28Compton%2C+California%29&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW674kA6ujrVNNStnYynZnxqpWsIprLtyUG879S4QZbZyNbfhGLwvTPOwoDAai17reB-YWPXqG1TdcigNkQM0N_w8qRA0mcA7pyQs6tr1dzTpNsDkFf_04SKoOgZekMzLFEn_taXjU2UyZY5gE0Rjc2v0yvBqyjYfKbFAMifQoIjHy9GFoihglx5WyawWggCxL0S38DFb54NPqOsr_dZWGvmsO_IrBp9t20FV-6zJgQbJsqIFZ6OA97rxnMWw4ERwxN7zhrmaLb6k0iLY1cR3TBcJkCWo2iSixKzGyaC1lU6Q_z2frKVA%3D%3D"
+   },
+   {
+    "name": "Manuel Dominguez High School",
+    "image": "https://serpapi.com/searches/6aa30d85fd81c8c50fe6429f/images/_FMj6fJldvDpzNr7ijW8FRWrp6UcgP-5aP6c9tchtN7tGEjSf6vNAHu2-Oq7zMbW.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yco-3-NZ54c1AZY57qrMb0YH568Vk4WHXcCjVQnogFIU3y4ZXksbWYXrMAziRZ3eR7FFynsqB0ZgbK7Ja2PvrCIpAiGEgqOAZqzN1xQs6eHLR5CjmBhvT-jAXU59cZ7egrMa0iUukLQjmOD0bd2P2hBGT2Wo7DdBDFvgp_W32UZf5As2qJdzTzW4FHyknkXQ8VauKiBWVx88RGnFYbJ0401CZUqMjRu53CCjwqyJPtvRLWCgj5XXR0HyqpCne7TtR_1OZIYZE-pTGtiCOZblPRf8UUMq&q=Manuel+Dominguez+High+School&sa=X&ved=2ahUKEwiJvLvs5-SWAxVSsFYBHYIKByUQs9oBKAB6BAgfEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Manuel+Dominguez+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yco-3-NZ54c1AZY57qrMb0YH568Vk4WHXcCjVQnogFIU3y4ZXksbWYXrMAziRZ3eR7FFynsqB0ZgbK7Ja2PvrCIpAiGEgqOAZqzN1xQs6eHLR5CjmBhvT-jAXU59cZ7egrMa0iUukLQjmOD0bd2P2hBGT2Wo7DdBDFvgp_W32UZf5As2qJdzTzW4FHyknkXQ8VauKiBWVx88RGnFYbJ0401CZUqMjRu53CCjwqyJPtvRLWCgj5XXR0HyqpCne7TtR_1OZIYZE-pTGtiCOZblPRf8UUMq"
+   },
+   {
+    "name": "Compton College",
+    "image": "https://serpapi.com/searches/6aa30d85fd81c8c50fe6429f/images/_FMj6fJldvDpzNr7ijW8FRWrp6UcgP-5aP6c9tchtN4wfSpc-DYpoogXAPXanBOP.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yXfkn7_tNm5US6BM0gx4besw6JeFdk3b5DXJGGcTWA-H_90iu7v1rQcdT6xYMqNkHdndTZv_ZXSxji6Areoil84muXq16rGpqulp1zcvstWDx2lNXZsJzeIH5apxW6DfG7R-70WKsCjFcIldrdZri_JJgTfeCsiGia8UR9_FAiYQgbD3OLrh8OcknE-5sGjR-k-MfGedTUumbH_TshxUh-T9Gs4jZyCm1MT3alI_BDyKpnjEw9lZQwTNXDt-Dt_FmC_bChs%3D&q=Compton+College&sa=X&ved=2ahUKEwiJvLvs5-SWAxVSsFYBHYIKByUQs9oBKAB6BAgfEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Compton+College&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yXfkn7_tNm5US6BM0gx4besw6JeFdk3b5DXJGGcTWA-H_90iu7v1rQcdT6xYMqNkHdndTZv_ZXSxji6Areoil84muXq16rGpqulp1zcvstWDx2lNXZsJzeIH5apxW6DfG7R-70WKsCjFcIldrdZri_JJgTfeCsiGia8UR9_FAiYQgbD3OLrh8OcknE-5sGjR-k-MfGedTUumbH_TshxUh-T9Gs4jZyCm1MT3alI_BDyKpnjEw9lZQwTNXDt-Dt_FmC_bChs%3D"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Compton+High+School&stick=H4sIAAAAAAAAAONgFuLUz9U3MM2wTClTQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iFXbOzy0oyc9T8MhMz1AITs7Iz8_Zwcp4i02S4Y1DRWAuX1PnknDDQ6zaizZHJAXbpId9Pw4AFywQjnkAAAA&sa=X&ved=2ahUKEwiJvLvs5-SWAxVSsFYBHYIKByUQzO0BKAR6BAgfEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLUz9U3MM2wTClTQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iFXbOzy0oyc9T8MhMz1AITs7Iz8_Zwcp4i02S4Y1DRWAuX1PnknDDQ6zaizZHJAXbpId9Pw4AFywQjnkAAAA",
+  "profiles": [
+   {
+    "name": "X (Twitter)",
+    "link": "https://twitter.com/MightyTarbabes",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Compton+High+School%22",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAABhUlEQVR4AczOA6xcARCF4X_us23btuLUQR3WZlhbQW3bto2gtm3b2J3GN4tY74uHh3okOi42Nj4AAUDwTvDEhisABCOAEAzYTBh0bN-lc5d0QgAhHPqX4Y4pkd367Zc-xMcXCPDg8TPwxeQH724Uj9N95GJ4pnHxby1xgCmV3v-GsFb7k0Iee7UjaQgmIYe9v9O4-wUKWaATyMPAViwvr1NnOQWDdTV5CHYSaKWLmaGDyvU4mTgQcllracaFr-9uk-yLM8k8fAJff0IUTghRVFu3M1ynkYk4nchiqqU3Ry05RDibMMhjtj6Ht3dJxVk_l1G64cspOusychBsCWm01WNM0jFs0sbEYUtIIuTXNco588OLh09JxE6wweuXEAvfL9PQus3-iU80N34KCaQyUOcxTTuSjEmMRI5rS9JwIZfD1t7ceo34YIpnuQ4nGwP8XXlq_fJZd9jE8KBHC5IwAELJ7dWrZ6fOuNhkgFgAEEIAwA1MQkw0AgDC_wnKycrKSQ2iPAkAVyNzq8rxicIAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/Tarbabes1981/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Compton+High+School%22",
+    "image": "https://serpapi.com/searches/6aa30d85fd81c8c50fe6429f/images/_FMj6fJldvDpzNr7ijW8FciNGxj1unKUFwHBJjBDmdAZu-I77JlThjAucGLDEAol.png"
+   },
+   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/comptonasb/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Compton+High+School%22",
+    "image": "https://serpapi.com/searches/6aa30d85fd81c8c50fe6429f/images/_FMj6fJldvDpzNr7ijW8FdGWh-Wtf25maDBwNg81gA1Tr7twqEi0gXU2H-csqf36.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "What celebrities went to Compton High School?",
+   "type": "ai_overview",
+   "page_token": "pfQE0XicHdBdbpswAABg7TJ9bAwsTESKpjJwVpoSYWOD_TKBTULjH0hwS8jbrrAz7FQ7zaYd4ft-_tZvVv359Kt3bpw2q9U8z4-nYTjp7lEMZtVMixUr0WjdNkJtwi-h9_UotumHiL9dRVyQcaQJAtjmhO967zXQz6TMIFPPgQx02J17TSr-ju90nxuZdUlxE1pCnmSfC5LZxocHRJHDls6MSlem633p6R6fedH6keuUBnsSXYV9AtR7Wg7feyNtHjMVpdKDB5reJlrLC96tX7DiL-TO1g1ACyFeWBnvjs807mrdlMBdBFgnwsIJEerlIFKVUa7VUYiCUQk_DTjMADEnj_gOvNb9UsGcSCucTKiPqpG1hk7Mhzbt5eWf8cLq_L1Q7lDuxCJMVPAgrlkAY4yGt4KguzhrQ2ieMpIFrbkteclxV49TAfgkd2ThxJW50VTOD0fxsQ0e_l9vfxyN24zX4fQXXv2N1A",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=pfQE0XicHdBdbpswAABg7TJ9bAwsTESKpjJwVpoSYWOD_TKBTULjH0hwS8jbrrAz7FQ7zaYd4ft-_tZvVv359Kt3bpw2q9U8z4-nYTjp7lEMZtVMixUr0WjdNkJtwi-h9_UotumHiL9dRVyQcaQJAtjmhO967zXQz6TMIFPPgQx02J17TSr-ju90nxuZdUlxE1pCnmSfC5LZxocHRJHDls6MSlem633p6R6fedH6keuUBnsSXYV9AtR7Wg7feyNtHjMVpdKDB5reJlrLC96tX7DiL-TO1g1ACyFeWBnvjs807mrdlMBdBFgnwsIJEerlIFKVUa7VUYiCUQk_DTjMADEnj_gOvNb9UsGcSCucTKiPqpG1hk7Mhzbt5eWf8cLq_L1Q7lDuxCJMVPAgrlkAY4yGt4KguzhrQ2ieMpIFrbkteclxV49TAfgkd2ThxJW50VTOD0fxsQ0e_l9vfxyN24zX4fQXXv2N1A",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSldHOW5lVTFXVEhoc00xRk5lRmRxWjFCc1NrbEViRTFTU2xkTFpWTk5UMUZCYWw5ek5XMUxUVVJLUVY5MWJHTjNlSFJKYzI4M056VXlaWFpOY0doM2NXSnpUR2RPTjJGc1ZIQlhRMFE0ZFRaQk5teFJOR0ozYUMxTFp4SVhhbEV5YW1GemJrSkxUa3huTW5KdlVHZHdWMk54UVVrYUlrRkVjM0k1WmxOdGEzQmhkbmc0ZVhwcmJuQnhRWFZmT0hKMVMwSjRlRVZ2ZUhjIiwiZmN2IjoiMyIsImVpIjoialEyamFzbkJLTkxnMnJvUGdwV2NxQUkiLCJxYyI6IkNoTmpiMjF3ZEc5dUlHaHBaMmdnYzJOb2IyOXNFQUI5Q0M1WlB3IiwicXVlc3Rpb24iOiJXaGF0IGNlbGVicml0aWVzIHdlbnQgdG8gQ29tcHRvbiBIaWdoIFNjaG9vbD8iLCJsayI6IkdpeDNhR0YwSUdObGJHVmljbWwwYVdWeklIZGxiblFnZEc4Z1kyOXRjSFJ2YmlCb2FXZG9JSE5qYUc5dmJBIiwiYnMiOiJjM1hPdlEtQ01CQ0g0YmplNUtpZFRselZSQlpIQmhlWkhSaE5xWVZyb0J4cGE0al92WWpHci1CODlfenl3Z25XR2NtQVN0YzZkeVlZN2JIVFRjREF1R2ZiQm03d1lFckNveUxtT29rM1l0WDlBLW9KNkE3OEFHQUg4NHl1YVB4cnpqTVcwdkxGSjdFUXMtNXhWTDlIeUdBN2xFbW5NWkRHczdaY090bVNVUjY1R0stTHhGakVsNFVVb3ZSZFk3bmZ6MnVwS21UWEk5X0t4cWdrWG9yRlI5YjQxM1J5QXciLCJpZCI6ImZjX2pRMmphc25CS05MZzJyb1BncFdjcUFJXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSldHOW5lVTFXVEhoc00xRk5lRmRxWjFCc1NrbEViRTFTU2xkTFpWTk5UMUZCYWw5ek5XMUxUVVJLUVY5MWJHTjNlSFJKYzI4M056VXlaWFpOY0doM2NXSnpUR2RPTjJGc1ZIQlhRMFE0ZFRaQk5teFJOR0ozYUMxTFp4SVhhbEV5YW1GemJrSkxUa3huTW5KdlVHZHdWMk54UVVrYUlrRkVjM0k1WmxOdGEzQmhkbmc0ZVhwcmJuQnhRWFZmT0hKMVMwSjRlRVZ2ZUhjIiwiZmN2IjoiMyIsImVpIjoialEyamFzbkJLTkxnMnJvUGdwV2NxQUkiLCJxYyI6IkNoTmpiMjF3ZEc5dUlHaHBaMmdnYzJOb2IyOXNFQUI5Q0M1WlB3IiwicXVlc3Rpb24iOiJXaGF0IGNlbGVicml0aWVzIHdlbnQgdG8gQ29tcHRvbiBIaWdoIFNjaG9vbD8iLCJsayI6IkdpeDNhR0YwSUdObGJHVmljbWwwYVdWeklIZGxiblFnZEc4Z1kyOXRjSFJ2YmlCb2FXZG9JSE5qYUc5dmJBIiwiYnMiOiJjM1hPdlEtQ01CQ0g0YmplNUtpZFRselZSQlpIQmhlWkhSaE5xWVZyb0J4cGE0al92WWpHci1CODlfenl3Z25XR2NtQVN0YzZkeVlZN2JIVFRjREF1R2ZiQm03d1lFckNveUxtT29rM1l0WDlBLW9KNkE3OEFHQUg4NHl1YVB4cnpqTVcwdkxGSjdFUXMtNXhWTDlIeUdBN2xFbW5NWkRHczdaY090bVNVUjY1R0stTHhGakVsNFVVb3ZSZFk3bmZ6MnVwS21UWEk5X0t4cWdrWG9yRlI5YjQxM1J5QXciLCJpZCI6ImZjX2pRMmphc25CS05MZzJyb1BncFdjcUFJXzUifQ%3D%3D"
+  },
+  {
+   "question": "Why is Compton so famous?",
+   "type": "ai_overview",
+   "page_token": "0nYTyHicHdBRToMwAADQeJl9Cu0EkyWLEVhhREootEB_DJQxthZoHMrgz7t4Kk9j4jvC-_5Rl0H-PhTdNOnbzjDmeX48j-NZnR7F2BvVbRmEISql6krInf1sg5dW7A-32XHH2Umo1swjZuaCooTWlXpqaPwjPGUEE-XQ2Ed5hPS28nhXMfaUSN3mki5sVVHCNIxdgEvadJUpTL6SWABeZgNvqYknCidfeESn9DZTj-S1BEE6aC-Td3DySUe26FiDkOFAAo6cS7MSxEBDM4VMAemUSmbHrHMFaz65h1sKsc0PwMplNwuQpAhqEvW6E9ByU9OK-BouNXAGgZqroCj0L6FDArzEOc_Y-npPKB7zglu0v0NysN5IhmQp1RQHvMAUD5tWfO23m_-x_XvbTzv9MZ7_AKhId7c",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=0nYTyHicHdBRToMwAADQeJl9Cu0EkyWLEVhhREootEB_DJQxthZoHMrgz7t4Kk9j4jvC-_5Rl0H-PhTdNOnbzjDmeX48j-NZnR7F2BvVbRmEISql6krInf1sg5dW7A-32XHH2Umo1swjZuaCooTWlXpqaPwjPGUEE-XQ2Ed5hPS28nhXMfaUSN3mki5sVVHCNIxdgEvadJUpTL6SWABeZgNvqYknCidfeESn9DZTj-S1BEE6aC-Td3DySUe26FiDkOFAAo6cS7MSxEBDM4VMAemUSmbHrHMFaz65h1sKsc0PwMplNwuQpAhqEvW6E9ByU9OK-BouNXAGgZqroCj0L6FDArzEOc_Y-npPKB7zglu0v0NysN5IhmQp1RQHvMAUD5tWfO23m_-x_XvbTzv9MZ7_AKhId7c",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSldHOW5lVTFXVEhoc00xRk5lRmRxWjFCc1NrbEViRTFTU2xkTFpWTk5UMUZCYWw5ek5XMUxUVVJLUVY5MWJHTjNlSFJKYzI4M056VXlaWFpOY0doM2NXSnpUR2RPTjJGc1ZIQlhRMFE0ZFRaQk5teFJOR0ozYUMxTFp4SVhhbEV5YW1GemJrSkxUa3huTW5KdlVHZHdWMk54UVVrYUlrRkVjM0k1WmxOdGEzQmhkbmc0ZVhwcmJuQnhRWFZmT0hKMVMwSjRlRVZ2ZUhjIiwiZmN2IjoiMyIsImVpIjoialEyamFzbkJLTkxnMnJvUGdwV2NxQUkiLCJxYyI6IkNoTmpiMjF3ZEc5dUlHaHBaMmdnYzJOb2IyOXNFQUI5Q0M1WlB3IiwicXVlc3Rpb24iOiJXaHkgaXMgQ29tcHRvbiBzbyBmYW1vdXM/IiwibGsiOiJHaGgzYUhrZ2FYTWdZMjl0Y0hSdmJpQnpieUJtWVcxdmRYTSIsImJzIjoiYzNYT3ZRLUNNQkNINGJqZTVLaWRUbHpWUkJaSEJoZVpIUmhOcVlWcm9CeHBhNGpfdllqR3ItQjg5X3p5d2duV0djbUFTdGM2ZHlZWTdiSFRUY0RBdUdmYkJtN3dZRXJDb3lMbU9vazNZdFg5QS1vSjZBNzhBR0FIODR5dWFQeHJ6ak1XMHZMRko3RVFzLTV4Vkw5SHlHQTdsRW1uTVpER3M3WmNPdG1TVVI2NUdLLUx4RmpFbDRVVW92UmRZN25mejJ1cEttVFhJOV9LeHFna1hvckZSOWI0MTNSeUF3IiwiaWQiOiJmY19qUTJqYXNuQktOTGcycm9QZ3BXY3FBSV81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSldHOW5lVTFXVEhoc00xRk5lRmRxWjFCc1NrbEViRTFTU2xkTFpWTk5UMUZCYWw5ek5XMUxUVVJLUVY5MWJHTjNlSFJKYzI4M056VXlaWFpOY0doM2NXSnpUR2RPTjJGc1ZIQlhRMFE0ZFRaQk5teFJOR0ozYUMxTFp4SVhhbEV5YW1GemJrSkxUa3huTW5KdlVHZHdWMk54UVVrYUlrRkVjM0k1WmxOdGEzQmhkbmc0ZVhwcmJuQnhRWFZmT0hKMVMwSjRlRVZ2ZUhjIiwiZmN2IjoiMyIsImVpIjoialEyamFzbkJLTkxnMnJvUGdwV2NxQUkiLCJxYyI6IkNoTmpiMjF3ZEc5dUlHaHBaMmdnYzJOb2IyOXNFQUI5Q0M1WlB3IiwicXVlc3Rpb24iOiJXaHkgaXMgQ29tcHRvbiBzbyBmYW1vdXM%2FIiwibGsiOiJHaGgzYUhrZ2FYTWdZMjl0Y0hSdmJpQnpieUJtWVcxdmRYTSIsImJzIjoiYzNYT3ZRLUNNQkNINGJqZTVLaWRUbHpWUkJaSEJoZVpIUmhOcVlWcm9CeHBhNGpfdllqR3ItQjg5X3p5d2duV0djbUFTdGM2ZHlZWTdiSFRUY0RBdUdmYkJtN3dZRXJDb3lMbU9vazNZdFg5QS1vSjZBNzhBR0FIODR5dWFQeHJ6ak1XMHZMRko3RVFzLTV4Vkw5SHlHQTdsRW1uTVpER3M3WmNPdG1TVVI2NUdLLUx4RmpFbDRVVW92UmRZN25mejJ1cEttVFhJOV9LeHFna1hvckZSOWI0MTNSeUF3IiwiaWQiOiJmY19qUTJqYXNuQktOTGcycm9QZ3BXY3FBSV81In0%3D"
+  },
+  {
+   "question": "What are the demographics of Compton High School?",
+   "type": "ai_overview",
+   "page_token": "ZHSQWnicHdBRkpMwAADQ8TL7uU1Iu2pnOo4sBMssqYQECD9OSIRQQqE23QJ_3sVTeRpnfEd4v__Y7tL__fBunJtu-83m8Xg8t-PY2p_Pahw28rZc1EZJa2up-v3Lxxf4pVGH8H70X69HP-XTlAcUsIB6RTi_JhbfWLHbERh62VotbzyWasAwC80qL_lZIS3raEqS4bhkpQBqJUScj6hGhFYh7KQ1hV7tXVjS6Dy-kd4VBcaSDZZV9hOiebtVIN8KQLby29dFcZMmZ3JKoQl0FOO0IIJE85SV05sG7nsN8IVyUyX93J0CTCkgQR3FoUTVmnvCaSZW5jmaAIBIuDM6EHM9VDQ0-spZfBUluae9O7FILWr4nFbILwXCfkbHLuV0VWc7cM_OGWxXnseQw9wxZHa6wB3DPmAAVrKMG_14atT7AT39_zz8aAa3n36N7T_kIYKA",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ZHSQWnicHdBRkpMwAADQ8TL7uU1Iu2pnOo4sBMssqYQECD9OSIRQQqE23QJ_3sVTeRpnfEd4v__Y7tL__fBunJtu-83m8Xg8t-PY2p_Pahw28rZc1EZJa2up-v3Lxxf4pVGH8H70X69HP-XTlAcUsIB6RTi_JhbfWLHbERh62VotbzyWasAwC80qL_lZIS3raEqS4bhkpQBqJUScj6hGhFYh7KQ1hV7tXVjS6Dy-kd4VBcaSDZZV9hOiebtVIN8KQLby29dFcZMmZ3JKoQl0FOO0IIJE85SV05sG7nsN8IVyUyX93J0CTCkgQR3FoUTVmnvCaSZW5jmaAIBIuDM6EHM9VDQ0-spZfBUluae9O7FILWr4nFbILwXCfkbHLuV0VWc7cM_OGWxXnseQw9wxZHa6wB3DPmAAVrKMG_14atT7AT39_zz8aAa3n36N7T_kIYKA",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSldHOW5lVTFXVEhoc00xRk5lRmRxWjFCc1NrbEViRTFTU2xkTFpWTk5UMUZCYWw5ek5XMUxUVVJLUVY5MWJHTjNlSFJKYzI4M056VXlaWFpOY0doM2NXSnpUR2RPTjJGc1ZIQlhRMFE0ZFRaQk5teFJOR0ozYUMxTFp4SVhhbEV5YW1GemJrSkxUa3huTW5KdlVHZHdWMk54UVVrYUlrRkVjM0k1WmxOdGEzQmhkbmc0ZVhwcmJuQnhRWFZmT0hKMVMwSjRlRVZ2ZUhjIiwiZmN2IjoiMyIsImVpIjoialEyamFzbkJLTkxnMnJvUGdwV2NxQUkiLCJxYyI6IkNoTmpiMjF3ZEc5dUlHaHBaMmdnYzJOb2IyOXNFQUI5Q0M1WlB3IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgZGVtb2dyYXBoaWNzIG9mIENvbXB0b24gSGlnaCBTY2hvb2w/IiwibGsiOiJHaUJqYjIxd2RHOXVJR2hwWjJnZ2MyTm9iMjlzSUdSbGJXOW5jbUZ3YUdsamN3IiwiYnMiOiJjM1hPdlEtQ01CQ0g0YmplNUtpZFRselZSQlpIQmhlWkhSaE5xWVZyb0J4cGE0al92WWpHci1CODlfenl3Z25XR2NtQVN0YzZkeVlZN2JIVFRjREF1R2ZiQm03d1lFckNveUxtT29rM1l0WDlBLW9KNkE3OEFHQUg4NHl1YVB4cnpqTVcwdkxGSjdFUXMtNXhWTDlIeUdBN2xFbW5NWkRHczdaY090bVNVUjY1R0stTHhGakVsNFVVb3ZSZFk3bmZ6MnVwS21UWEk5X0t4cWdrWG9yRlI5YjQxM1J5QXciLCJpZCI6ImZjX2pRMmphc25CS05MZzJyb1BncFdjcUFJXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSldHOW5lVTFXVEhoc00xRk5lRmRxWjFCc1NrbEViRTFTU2xkTFpWTk5UMUZCYWw5ek5XMUxUVVJLUVY5MWJHTjNlSFJKYzI4M056VXlaWFpOY0doM2NXSnpUR2RPTjJGc1ZIQlhRMFE0ZFRaQk5teFJOR0ozYUMxTFp4SVhhbEV5YW1GemJrSkxUa3huTW5KdlVHZHdWMk54UVVrYUlrRkVjM0k1WmxOdGEzQmhkbmc0ZVhwcmJuQnhRWFZmT0hKMVMwSjRlRVZ2ZUhjIiwiZmN2IjoiMyIsImVpIjoialEyamFzbkJLTkxnMnJvUGdwV2NxQUkiLCJxYyI6IkNoTmpiMjF3ZEc5dUlHaHBaMmdnYzJOb2IyOXNFQUI5Q0M1WlB3IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgZGVtb2dyYXBoaWNzIG9mIENvbXB0b24gSGlnaCBTY2hvb2w%2FIiwibGsiOiJHaUJqYjIxd2RHOXVJR2hwWjJnZ2MyTm9iMjlzSUdSbGJXOW5jbUZ3YUdsamN3IiwiYnMiOiJjM1hPdlEtQ01CQ0g0YmplNUtpZFRselZSQlpIQmhlWkhSaE5xWVZyb0J4cGE0al92WWpHci1CODlfenl3Z25XR2NtQVN0YzZkeVlZN2JIVFRjREF1R2ZiQm03d1lFckNveUxtT29rM1l0WDlBLW9KNkE3OEFHQUg4NHl1YVB4cnpqTVcwdkxGSjdFUXMtNXhWTDlIeUdBN2xFbW5NWkRHczdaY090bVNVUjY1R0stTHhGakVsNFVVb3ZSZFk3bmZ6MnVwS21UWEk5X0t4cWdrWG9yRlI5YjQxM1J5QXciLCJpZCI6ImZjX2pRMmphc25CS05MZzJyb1BncFdjcUFJXzUifQ%3D%3D"
+  },
+  {
+   "question": "Is Compton more black or hispanic?",
+   "type": "ai_overview",
+   "page_token": "A1Ej0XicHdBLbqMwAABQ9TJdNsZA2kaKKhFMittQGWPz2YywISFgwGlJnLDrXXqqnmZGc4G3eN8_6jh0v3eXZpr012qxMMY8HMbxoOoHOfaL8us2yIUslRKl7FbLx6X1spdrdA69zSn0CNOa-zGgszIcKnu3dQdpBaZW6sr96CSQSxnEIdtqXCc4Ykpbkj051RzplOUzT_FU-LkR3Q7SPg4FsDCDwVsyeIamV0oVARLgNlfjLUYaCT92dzZeMhA7cmaTQABw5jq0vzoEXg2Zq3cBpRFp05bzYcpVQ1gXheUQXDIrcN5ZfCRthQREhrfVWPj4TfLos9hYqmSFrtk_ASoPNdWJJfiUZ9GZdNNHspU32T-Twvay3A48Go9HwuJZtqrnr03OYDdxv6Kkd5HImjMFQVqjIEy2gZdZO0DI_V5e1vb9_8_1n30_rfTnePgLYY2DSQ",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=A1Ej0XicHdBLbqMwAABQ9TJdNsZA2kaKKhFMittQGWPz2YywISFgwGlJnLDrXXqqnmZGc4G3eN8_6jh0v3eXZpr012qxMMY8HMbxoOoHOfaL8us2yIUslRKl7FbLx6X1spdrdA69zSn0CNOa-zGgszIcKnu3dQdpBaZW6sr96CSQSxnEIdtqXCc4Ykpbkj051RzplOUzT_FU-LkR3Q7SPg4FsDCDwVsyeIamV0oVARLgNlfjLUYaCT92dzZeMhA7cmaTQABw5jq0vzoEXg2Zq3cBpRFp05bzYcpVQ1gXheUQXDIrcN5ZfCRthQREhrfVWPj4TfLos9hYqmSFrtk_ASoPNdWJJfiUZ9GZdNNHspU32T-Twvay3A48Go9HwuJZtqrnr03OYDdxv6Kkd5HImjMFQVqjIEy2gZdZO0DI_V5e1vb9_8_1n30_rfTnePgLYY2DSQ",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSldHOW5lVTFXVEhoc00xRk5lRmRxWjFCc1NrbEViRTFTU2xkTFpWTk5UMUZCYWw5ek5XMUxUVVJLUVY5MWJHTjNlSFJKYzI4M056VXlaWFpOY0doM2NXSnpUR2RPTjJGc1ZIQlhRMFE0ZFRaQk5teFJOR0ozYUMxTFp4SVhhbEV5YW1GemJrSkxUa3huTW5KdlVHZHdWMk54UVVrYUlrRkVjM0k1WmxOdGEzQmhkbmc0ZVhwcmJuQnhRWFZmT0hKMVMwSjRlRVZ2ZUhjIiwiZmN2IjoiMyIsImVpIjoialEyamFzbkJLTkxnMnJvUGdwV2NxQUkiLCJxYyI6IkNoTmpiMjF3ZEc5dUlHaHBaMmdnYzJOb2IyOXNFQUI5Q0M1WlB3IiwicXVlc3Rpb24iOiJJcyBDb21wdG9uIG1vcmUgYmxhY2sgb3IgaGlzcGFuaWM/IiwibGsiOiJHaUZwY3lCamIyMXdkRzl1SUcxdmNtVWdZbXhoWTJzZ2IzSWdhR2x6Y0dGdWFXTSIsImJzIjoiYzNYT3ZRLUNNQkNINGJqZTVLaWRUbHpWUkJaSEJoZVpIUmhOcVlWcm9CeHBhNGpfdllqR3ItQjg5X3p5d2duV0djbUFTdGM2ZHlZWTdiSFRUY0RBdUdmYkJtN3dZRXJDb3lMbU9vazNZdFg5QS1vSjZBNzhBR0FIODR5dWFQeHJ6ak1XMHZMRko3RVFzLTV4Vkw5SHlHQTdsRW1uTVpER3M3WmNPdG1TVVI2NUdLLUx4RmpFbDRVVW92UmRZN25mejJ1cEttVFhJOV9LeHFna1hvckZSOWI0MTNSeUF3IiwiaWQiOiJmY19qUTJqYXNuQktOTGcycm9QZ3BXY3FBSV81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSldHOW5lVTFXVEhoc00xRk5lRmRxWjFCc1NrbEViRTFTU2xkTFpWTk5UMUZCYWw5ek5XMUxUVVJLUVY5MWJHTjNlSFJKYzI4M056VXlaWFpOY0doM2NXSnpUR2RPTjJGc1ZIQlhRMFE0ZFRaQk5teFJOR0ozYUMxTFp4SVhhbEV5YW1GemJrSkxUa3huTW5KdlVHZHdWMk54UVVrYUlrRkVjM0k1WmxOdGEzQmhkbmc0ZVhwcmJuQnhRWFZmT0hKMVMwSjRlRVZ2ZUhjIiwiZmN2IjoiMyIsImVpIjoialEyamFzbkJLTkxnMnJvUGdwV2NxQUkiLCJxYyI6IkNoTmpiMjF3ZEc5dUlHaHBaMmdnYzJOb2IyOXNFQUI5Q0M1WlB3IiwicXVlc3Rpb24iOiJJcyBDb21wdG9uIG1vcmUgYmxhY2sgb3IgaGlzcGFuaWM%2FIiwibGsiOiJHaUZwY3lCamIyMXdkRzl1SUcxdmNtVWdZbXhoWTJzZ2IzSWdhR2x6Y0dGdWFXTSIsImJzIjoiYzNYT3ZRLUNNQkNINGJqZTVLaWRUbHpWUkJaSEJoZVpIUmhOcVlWcm9CeHBhNGpfdllqR3ItQjg5X3p5d2duV0djbUFTdGM2ZHlZWTdiSFRUY0RBdUdmYkJtN3dZRXJDb3lMbU9vazNZdFg5QS1vSjZBNzhBR0FIODR5dWFQeHJ6ak1XMHZMRko3RVFzLTV4Vkw5SHlHQTdsRW1uTVpER3M3WmNPdG1TVVI2NUdLLUx4RmpFbDRVVW92UmRZN25mejJ1cEttVFhJOV9LeHFna1hvckZSOWI0MTNSeUF3IiwiaWQiOiJmY19qUTJqYXNuQktOTGcycm9QZ3BXY3FBSV81In0%3D"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Compton High School: Home",
+   "link": "https://comptonhs.compton.k12.ca.us/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXAHrOzAVvNRUEjyX_hSBSkfycb3Es75ipgw8P0R4S7b4YGPTLlU9YBslRr1vE9nhIFBr7WZDTzni2bJ3aITIEuHrWX0-E-Ulk6Ql36RB4HShMAwPkbobtc-C_JS3&ved=2ahUKEwiJvLvs5-SWAxVSsFYBHYIKByUQFnoECFsQAQ&uoh=1",
+   "displayed_link": "https://comptonhs.compton.k12.ca.us",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAq1BMVEUAAAAJndBlwuL___-65PIJndA6seM5seM4sOM3sOI2r-LaqFtOueZNuOZMuOVLuOVLt-VKt-WU1Ouee0j2kx9gwOhfwOj6vnklJCe64_InIyR1yOtHhKcRMVNyx-s2MzTBwMD7_v4gPl4QQmabqLfZ8PhVVVX3_P58y-x_zO0HBwdjY2N2c3QyTFhcvuhfv-hiwellwulLfpRQTk89suNAs-RDteRGtuURoNLp-W84AAAABnRSTlMA_____99BF8A2AAAAjUlEQVR4AVWOAwJCURBFu51s95lt1_43FiafhzEihqIipsgbCT0g_rIhkUyl0xkks6VsLl8olspZVeLmgGqt3mg6WIrkgucHYavdwZUsAbphjB7wcag_0L_D7o8jjA7Dj8M1TzgCXBszBphMZ3MQ9z3i0mK5Wm-2u72wVYUSh-PpXL7Y6paDJJDZhgxTb-D1CIEHedDoAAAAAElFTkSuQmCC.png",
+   "snippet": "Compton Unified School District proudly held commencement ceremonies for all four of its high schools \u2014 Compton High School, Dominguez High School, Compton ...",
+   "snippet_highlighted_words": [
+    "Compton High School"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "Bell Schedule",
+      "link": "https://comptonhs.compton.k12.ca.us/about-chs/bell-schedule-clone",
+      "snippet": "Bell Schedule - Compton High School."
+     },
+     {
+      "title": "Contact Us",
+      "link": "https://comptonhs.compton.k12.ca.us/contact-us",
+      "snippet": "Contact Us - Compton High School."
+     },
+     {
+      "title": "Staff Directory",
+      "link": "https://comptonhs.compton.k12.ca.us/about-chs/staff-directory-2023-24-clone",
+      "snippet": "Staff Directory - Compton High School."
+     },
+     {
+      "title": "Our History",
+      "link": "https://comptonhs.compton.k12.ca.us/about-chs/our-history",
+      "snippet": "Did you know that in 1896, Compton High School was a ..."
+     },
+     {
+      "title": "CHS All News",
+      "link": "https://comptonhs.compton.k12.ca.us/about-chs/chs-latest-news",
+      "snippet": "2024-2026 ; 2025 High School Graduations \u00b7 9 ; National ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Compton Unified School District proudly held commencement ceremonies for all four of its high schools \u2014 Compton High School, Dominguez High School, Compton ...",
+     "source_info_link": "https://comptonhs.compton.k12.ca.us/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAq1BMVEUAAAAJndBlwuL___-65PIJndA6seM5seM4sOM3sOI2r-LaqFtOueZNuOZMuOVLuOVLt-VKt-WU1Ouee0j2kx9gwOhfwOj6vnklJCe64_InIyR1yOtHhKcRMVNyx-s2MzTBwMD7_v4gPl4QQmabqLfZ8PhVVVX3_P58y-x_zO0HBwdjY2N2c3QyTFhcvuhfv-hiwellwulLfpRQTk89suNAs-RDteRGtuURoNLp-W84AAAABnRSTlMA_____99BF8A2AAAAjUlEQVR4AVWOAwJCURBFu51s95lt1_43FiafhzEihqIipsgbCT0g_rIhkUyl0xkks6VsLl8olspZVeLmgGqt3mg6WIrkgucHYavdwZUsAbphjB7wcag_0L_D7o8jjA7Dj8M1TzgCXBszBphMZ3MQ9z3i0mK5Wm-2u72wVYUSh-PpXL7Y6paDJJDZhgxTb-D1CIEHedDoAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESXAHrOzAVvNRUEjyX_hSBSkfycb3Es75ipgw8P0R4S7b4YGPTLlU9YBslRr1vE9nhIFBr7WZDTzni2bJ3aITIEuHrWX0-E-Ulk6Ql36RB4HShMAwPkbobtc-C_JS3&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESXAHrOzAVvNRUEjyX_hSBSkfycb3Es75ipgw8P0R4S7b4YGPTLlU9YBslRr1vE9nhIFBr7WZDTzni2bJ3aITIEuHrWX0-E-Ulk6Ql36RB4HShMAwPkbobtc-C_JS3",
+   "source": "Compton High"
+  },
+  {
+   "position": 2,
+   "title": "Compton High School",
+   "link": "https://en.wikipedia.org/wiki/Compton_High_School",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVvEc622QdXCe6ZSDvo5uKSm3swSAIpHmccTg3xhFZ7c9x-OBIMRofZipbWBsdvm_iv64fgQmQaf30GJkr4pgsLG0BH3Gq2E2PP3n1S7_YoImxNJcRNTxUO_a1rzOu7GG61Qsfow&ved=2ahUKEwiJvLvs5-SWAxVSsFYBHYIKByUQFnoECEkQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Compton_High_School",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+   "snippet": "Compton High School is a high school in Compton, California, United States, part of the Compton Unified School District.",
+   "snippet_highlighted_words": [
+    "Compton High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Compton High School is a high school in Compton, California, United States, part of the Compton Unified School District.",
+     "source_info_link": "https://en.wikipedia.org/wiki/Compton_High_School",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESaQHrOzAVvEc622QdXCe6ZSDvo5uKSm3swSAIpHmccTg3xhFZ7c9x-OBIMRofZipbWBsdvm_iv64fgQmQaf30GJkr4pgsLG0BH3Gq2E2PP3n1S7_YoImxNJcRNTxUO_a1rzOu7GG61Qsfow&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESaQHrOzAVvEc622QdXCe6ZSDvo5uKSm3swSAIpHmccTg3xhFZ7c9x-OBIMRofZipbWBsdvm_iv64fgQmQaf30GJkr4pgsLG0BH3Gq2E2PP3n1S7_YoImxNJcRNTxUO_a1rzOu7GG61Qsfow",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Compton_High_School#:~:text=Compton%20High%20School%20is%20a,the%20Compton%20Unified%20School%20District."
+  },
+  {
+   "position": 3,
+   "title": "Compton High School January 2024 Construction Update",
+   "link": "https://www.compton.k12.ca.us/news-releases/2024/january/compton-high-school-january-2024-construction-update",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpQEB6zswFQT-1cqyhV2OhGVI94O1MuA_GnVWS1VgJhctDT6KD8z_IfsKR_xtpDRERTvLVBSRhIZ_KGzsS9Vj_vsTJOFecTZocRW_2XDdwQQYwnDiWBjWih5XjoCuDc962hLURNDKkjKNGhf53DfIzSBttyl3TT_mLR2j2Dh93w2rbitG1PctYcoZD3tbu4sQsGUnXvs4NFcoCPqXTxuc6L2gNGBP8co&ved=2ahUKEwiJvLvs5-SWAxVSsFYBHYIKByUQFnoECE0QAQ&uoh=1",
+   "displayed_link": "https://www.compton.k12.ca.us \u203a news-releases \u203a compt...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAElBMVEUAAAAdNWRJXYL____tIiTsIScPvC8OAAAAAXRSTlMAQObYZgAAAFtJREFUeAEdTQkRwDAISx2UYwYmgQsGekTC_GsZ5f8TAMvejZsZzluZkRZ3kcqyjeVKKjb8UcsJ9Kaksi465xQi1YX3Kqd4qvI7hkVx3ldkDSB8KIY82IOpbv4BEogR-ibqNJwAAAAASUVORK5CYII.png",
+   "snippet": "Media Release January 12, 2024. The new Compton High School opening is just one year away, as the new campus is scheduled to open in 2025.",
+   "snippet_highlighted_words": [
+    "Compton High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Media Release January 12, 2024. The new Compton High School opening is just one year away, as the new campus is scheduled to open in 2025.",
+     "source_info_link": "https://www.compton.k12.ca.us/news-releases/2024/january/compton-high-school-january-2024-construction-update",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAElBMVEUAAAAdNWRJXYL____tIiTsIScPvC8OAAAAAXRSTlMAQObYZgAAAFtJREFUeAEdTQkRwDAISx2UYwYmgQsGekTC_GsZ5f8TAMvejZsZzluZkRZ3kcqyjeVKKjb8UcsJ9Kaksi465xQi1YX3Kqd4qvI7hkVx3ldkDSB8KIY82IOpbv4BEogR-ibqNJwAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESpQEB6zswFQT-1cqyhV2OhGVI94O1MuA_GnVWS1VgJhctDT6KD8z_IfsKR_xtpDRERTvLVBSRhIZ_KGzsS9Vj_vsTJOFecTZocRW_2XDdwQQYwnDiWBjWih5XjoCuDc962hLURNDKkjKNGhf53DfIzSBttyl3TT_mLR2j2Dh93w2rbitG1PctYcoZD3tbu4sQsGUnXvs4NFcoCPqXTxuc6L2gNGBP8co&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESpQEB6zswFQT-1cqyhV2OhGVI94O1MuA_GnVWS1VgJhctDT6KD8z_IfsKR_xtpDRERTvLVBSRhIZ_KGzsS9Vj_vsTJOFecTZocRW_2XDdwQQYwnDiWBjWih5XjoCuDc962hLURNDKkjKNGhf53DfIzSBttyl3TT_mLR2j2Dh93w2rbitG1PctYcoZD3tbu4sQsGUnXvs4NFcoCPqXTxuc6L2gNGBP8co",
+   "source": "Compton Unified School District",
+   "read_more_link": "https://www.compton.k12.ca.us/news-releases/2024/january/compton-high-school-january-2024-construction-update#:~:text=Media%20Release,scheduled%20to%20open%20in%202025."
+  },
+  {
+   "position": 4,
+   "title": "Compton Unified School District: Home",
+   "link": "https://www.compton.k12.ca.us/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVgHrOzAVIwek-mk82sKu91OCPwNYh1aC4EqE1wXuQb89lUTgJv2UMqWKLC5MW8iJyTuKZaaJPpEQ60yHw7HOoMC_0QCAqOKI2DKAKO2uRkVwdTGmMM7s&ved=2ahUKEwiJvLvs5-SWAxVSsFYBHYIKByUQFnoECEsQAQ&uoh=1",
+   "displayed_link": "https://www.compton.k12.ca.us",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAElBMVEUAAAAdNWRJXYL____tIiTsIScPvC8OAAAAAXRSTlMAQObYZgAAAFtJREFUeAEdTQkRwDAISx2UYwYmgQsGekTC_GsZ5f8TAMvejZsZzluZkRZ3kcqyjeVKKjb8UcsJ9Kaksi465xQi1YX3Kqd4qvI7hkVx3ldkDSB8KIY82IOpbv4BEogR-ibqNJwAAAAASUVORK5CYII.png",
+   "snippet": "Compton High School \u00b7 Compton Early College High School \u00b7 Dominguez High School \u00b7 Cesar Chavez Continuation HS \u00b7 Compton Academy Of Technology & Innovation.",
+   "snippet_highlighted_words": [
+    "Compton High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Compton High School \u00b7 Compton Early College High School \u00b7 Dominguez High School \u00b7 Cesar Chavez Continuation HS \u00b7 Compton Academy Of Technology & Innovation.",
+     "source_info_link": "https://www.compton.k12.ca.us/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAElBMVEUAAAAdNWRJXYL____tIiTsIScPvC8OAAAAAXRSTlMAQObYZgAAAFtJREFUeAEdTQkRwDAISx2UYwYmgQsGekTC_GsZ5f8TAMvejZsZzluZkRZ3kcqyjeVKKjb8UcsJ9Kaksi465xQi1YX3Kqd4qvI7hkVx3ldkDSB8KIY82IOpbv4BEogR-ibqNJwAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESVgHrOzAVIwek-mk82sKu91OCPwNYh1aC4EqE1wXuQb89lUTgJv2UMqWKLC5MW8iJyTuKZaaJPpEQ60yHw7HOoMC_0QCAqOKI2DKAKO2uRkVwdTGmMM7s&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESVgHrOzAVIwek-mk82sKu91OCPwNYh1aC4EqE1wXuQb89lUTgJv2UMqWKLC5MW8iJyTuKZaaJPpEQ60yHw7HOoMC_0QCAqOKI2DKAKO2uRkVwdTGmMM7s",
+   "source": "Compton Unified School District",
+   "read_more_link": "https://www.compton.k12.ca.us/#:~:text=35%20Graduate%2DLevel%20Interns%20Join%20CUSD"
+  },
+  {
+   "position": 5,
+   "title": "Compton High - School Directory Details ...",
+   "link": "https://www.cde.ca.gov/schooldirectory/details?cdscode=19734371931963",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAV37wY2JbScu26pt5s1spsXdLsJhl1o2ba5ziNDRahPNNH12T656kcTfk0Ub-_7Ktp10nu-q61-JDcssOGs5IL6DIRoKJ1SuMKoNuLHtIPVIba9du13QWF9B5QKGAG0EY-5tedWaVY6I8GwEauEJASs5hwyKc6S-lr&ved=2ahUKEwiJvLvs5-SWAxVSsFYBHYIKByUQFnoECEwQAQ&uoh=1",
+   "displayed_link": "https://www.cde.ca.gov \u203a schooldirectory \u203a details",
+   "favicon": "https://serpapi.com/searches/6aa30d85fd81c8c50fe6429f/images/LLWIFA-6fAcp9_JtS0toomcn9kLhgJH334AbJcVBNgg.png",
+   "snippet": "Address 601 S Acacia Ave Compton, CA 90220-3702. Phone Number (310) 898-6040 Ext. 42700 \u2026 www.compton.k12.ca.us (310) 639-4321",
+   "about_this_result": {
+    "source": {
+     "description": "Address 601 S Acacia Ave Compton, CA 90220-3702. Phone Number (310) 898-6040 Ext. 42700 \u2026 www.compton.k12.ca.us (310) 639-4321",
+     "source_info_link": "https://www.cde.ca.gov/schooldirectory/details?cdscode=19734371931963",
+     "icon": "https://serpapi.com/searches/6aa30d85fd81c8c50fe6429f/images/LLWIFA-6fAcp9_JtS0tooh2lJcZWtsLUSI0JomBBAkWKEYNoO_PGvTYerfHz8V47.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESfQHrOzAV37wY2JbScu26pt5s1spsXdLsJhl1o2ba5ziNDRahPNNH12T656kcTfk0Ub-_7Ktp10nu-q61-JDcssOGs5IL6DIRoKJ1SuMKoNuLHtIPVIba9du13QWF9B5QKGAG0EY-5tedWaVY6I8GwEauEJASs5hwyKc6S-lr&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESfQHrOzAV37wY2JbScu26pt5s1spsXdLsJhl1o2ba5ziNDRahPNNH12T656kcTfk0Ub-_7Ktp10nu-q61-JDcssOGs5IL6DIRoKJ1SuMKoNuLHtIPVIba9du13QWF9B5QKGAG0EY-5tedWaVY6I8GwEauEJASs5hwyKc6S-lr",
+   "source": "California Department of Education (CDE) (.gov)"
+  },
+  {
+   "position": 6,
+   "title": "High Schools in Compton Unified School District",
+   "link": "https://www.usnews.com/education/best-high-schools/california/districts/compton-unified-school-district-112290",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpgEB6zswFbx-IcyUz12WvveSR5i_Vi_gTczKXZLu1NBH1gHxxFPfSnjKJ1av4GrVzkGSYn-uMejef5X55oB0Ftx6XLFFVtMHag9zXwp8go5IdtweBrQ_X-JF1r95AsQK_9utd_t10HnBx7NBen2yRWlSSbIFWi6ZBX8E1m5ackPUmsIY3tVg5ZzXiAZc4_NUbrgGNCq1ZaPwZW_UlObLumWX_uSAHPGw&ved=2ahUKEwiJvLvs5-SWAxVSsFYBHYIKByUQFnoECFMQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a ... \u203a California Districts",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png",
+   "snippet": "Compton High School. Compton, CA. Compton Unified School District \u00b7 #3in Compton Unified School District Rankings \u00b7 #593 in California Rankings. Compton High ...",
+   "snippet_highlighted_words": [
+    "Compton High School",
+    "Compton High"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Compton High School. Compton, CA. Compton Unified School District \u00b7 #3in Compton Unified School District Rankings \u00b7 #593 in California Rankings. Compton High ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/california/districts/compton-unified-school-district-112290",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESpgEB6zswFbx-IcyUz12WvveSR5i_Vi_gTczKXZLu1NBH1gHxxFPfSnjKJ1av4GrVzkGSYn-uMejef5X55oB0Ftx6XLFFVtMHag9zXwp8go5IdtweBrQ_X-JF1r95AsQK_9utd_t10HnBx7NBen2yRWlSSbIFWi6ZBX8E1m5ackPUmsIY3tVg5ZzXiAZc4_NUbrgGNCq1ZaPwZW_UlObLumWX_uSAHPGw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESpgEB6zswFbx-IcyUz12WvveSR5i_Vi_gTczKXZLu1NBH1gHxxFPfSnjKJ1av4GrVzkGSYn-uMejef5X55oB0Ftx6XLFFVtMHag9zXwp8go5IdtweBrQ_X-JF1r95AsQK_9utd_t10HnBx7NBen2yRWlSSbIFWi6ZBX8E1m5ackPUmsIY3tVg5ZzXiAZc4_NUbrgGNCq1ZaPwZW_UlObLumWX_uSAHPGw",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/california/districts/compton-unified-school-district-112290#:~:text=Compton%20High%20School,%23593%20in%20California%20Rankings"
+  },
+  {
+   "position": 7,
+   "title": "Compton High School",
+   "link": "https://www.dlrgroup.com/work/compton-high-school/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESagHrOzAVUenbMUE_UAyy1cI7Q2h9MgjaPmuF6es8n3rlIT9CIOsW4AZ7voJkKhoP29cHULUrs-oMZlCZfGA3SwVuCPKj9jc2iRSqRpbKB-xydzb1tQlsmYQN93VIr9X0mFhHe1uUc-ASMmU&ved=2ahUKEwiJvLvs5-SWAxVSsFYBHYIKByUQFnoECEgQAQ&uoh=1",
+   "displayed_link": "https://www.dlrgroup.com \u203a work \u203a compton-high-sch...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAcUlEQVR4AWNwL_ChKx44C59rq2o-01CKoQUGmq2FaaG6YskzbdX_xOIXjrZE4We6Gv9BZlNk4RMGhv_EgldR4VSy8OfPgbdw1MJRC0ctJIQptBDTUmIwSC1-C2mARy0ctXDUwlELEc1ELXo0E4d_yxsAHNdA9cVcUoEAAAAASUVORK5CYII.png",
+   "snippet": "Drawing upon a history of excellence in athletics and the arts, the new Compton High School is specifically designed for college prep and CTE programs.",
+   "snippet_highlighted_words": [
+    "Compton High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Drawing upon a history of excellence in athletics and the arts, the new Compton High School is specifically designed for college prep and CTE programs.",
+     "source_info_link": "https://www.dlrgroup.com/work/compton-high-school/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAcUlEQVR4AWNwL_ChKx44C59rq2o-01CKoQUGmq2FaaG6YskzbdX_xOIXjrZE4We6Gv9BZlNk4RMGhv_EgldR4VSy8OfPgbdw1MJRC0ctJIQptBDTUmIwSC1-C2mARy0ctXDUwlELEc1ELXo0E4d_yxsAHNdA9cVcUoEAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESagHrOzAVUenbMUE_UAyy1cI7Q2h9MgjaPmuF6es8n3rlIT9CIOsW4AZ7voJkKhoP29cHULUrs-oMZlCZfGA3SwVuCPKj9jc2iRSqRpbKB-xydzb1tQlsmYQN93VIr9X0mFhHe1uUc-ASMmU&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESagHrOzAVUenbMUE_UAyy1cI7Q2h9MgjaPmuF6es8n3rlIT9CIOsW4AZ7voJkKhoP29cHULUrs-oMZlCZfGA3SwVuCPKj9jc2iRSqRpbKB-xydzb1tQlsmYQN93VIr9X0mFhHe1uUc-ASMmU",
+   "source": "DLR Group"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Is Compton High school dangerous",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Is+Compton+High+school+dangerous&sa=X&ved=2ahUKEwiJvLvs5-SWAxVSsFYBHYIKByUQ1QJ6BAhHEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Is+Compton+High+school+dangerous"
+  },
+  {
+   "block_position": 1,
+   "query": "Compton High School Football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Compton+High+School+Football&sa=X&ved=2ahUKEwiJvLvs5-SWAxVSsFYBHYIKByUQ1QJ6BAhrEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Compton+High+School+Football"
+  },
+  {
+   "block_position": 1,
+   "query": "Compton high school basketball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Compton+high+school+basketball&sa=X&ved=2ahUKEwiJvLvs5-SWAxVSsFYBHYIKByUQ1QJ6BAhkEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Compton+high+school+basketball"
+  },
+  {
+   "block_position": 1,
+   "query": "Compton high school address",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Compton+high+school+address&sa=X&ved=2ahUKEwiJvLvs5-SWAxVSsFYBHYIKByUQ1QJ6BAhfEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Compton+high+school+address"
+  },
+  {
+   "block_position": 1,
+   "query": "Compton High School photos",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Compton+High+School+photos&sa=X&ved=2ahUKEwiJvLvs5-SWAxVSsFYBHYIKByUQ1QJ6BAhaEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Compton+High+School+photos"
+  },
+  {
+   "block_position": 1,
+   "query": "Compton High School Dr dre",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Compton+High+School+Dr+dre&sa=X&ved=2ahUKEwiJvLvs5-SWAxVSsFYBHYIKByUQ1QJ6BAhYEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Compton+High+School+Dr+dre"
+  },
+  {
+   "block_position": 1,
+   "query": "Compton High School mascot",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Compton+High+School+mascot&sa=X&ved=2ahUKEwiJvLvs5-SWAxVSsFYBHYIKByUQ1QJ6BAhVEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Compton+High+School+mascot"
+  },
+  {
+   "block_position": 1,
+   "query": "Compton high school graduation 2026",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Compton+high+school+graduation+2026&sa=X&ved=2ahUKEwiJvLvs5-SWAxVSsFYBHYIKByUQ1QJ6BAhOEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Compton+high+school+graduation+2026"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Compton+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=jQ2jasnBKNLg2roPgpWcqAI&start=10&sa=N&sstk=AS6-VmJUyS-18OiqiyTuD6rP8LzxW2i9hTyuXMlDIuKKnuhndqQfIEh5kl9lDramRNU9G0rFC-mIf6g1QWtl-uTpdylDnxJaZoe42w&ved=2ahUKEwiJvLvs5-SWAxVSsFYBHYIKByUQ8NMDegUIhAEQFg",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Compton+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=jQ2jasnBKNLg2roPgpWcqAI&start=10&sa=N&sstk=AS6-VmJUyS-18OiqiyTuD6rP8LzxW2i9hTyuXMlDIuKKnuhndqQfIEh5kl9lDramRNU9G0rFC-mIf6g1QWtl-uTpdylDnxJaZoe42w&ved=2ahUKEwiJvLvs5-SWAxVSsFYBHYIKByUQ8tMDegUIhAEQBA",
+   "3": "https://www.google.com/search?q=%22Compton+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=jQ2jasnBKNLg2roPgpWcqAI&start=20&sa=N&sstk=AS6-VmJUyS-18OiqiyTuD6rP8LzxW2i9hTyuXMlDIuKKnuhndqQfIEh5kl9lDramRNU9G0rFC-mIf6g1QWtl-uTpdylDnxJaZoe42w&ved=2ahUKEwiJvLvs5-SWAxVSsFYBHYIKByUQ8tMDegUIhAEQBg",
+   "4": "https://www.google.com/search?q=%22Compton+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=jQ2jasnBKNLg2roPgpWcqAI&start=30&sa=N&sstk=AS6-VmJUyS-18OiqiyTuD6rP8LzxW2i9hTyuXMlDIuKKnuhndqQfIEh5kl9lDramRNU9G0rFC-mIf6g1QWtl-uTpdylDnxJaZoe42w&ved=2ahUKEwiJvLvs5-SWAxVSsFYBHYIKByUQ8tMDegUIhAEQCA",
+   "5": "https://www.google.com/search?q=%22Compton+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=jQ2jasnBKNLg2roPgpWcqAI&start=40&sa=N&sstk=AS6-VmJUyS-18OiqiyTuD6rP8LzxW2i9hTyuXMlDIuKKnuhndqQfIEh5kl9lDramRNU9G0rFC-mIf6g1QWtl-uTpdylDnxJaZoe42w&ved=2ahUKEwiJvLvs5-SWAxVSsFYBHYIKByUQ8tMDegUIhAEQCg",
+   "6": "https://www.google.com/search?q=%22Compton+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=jQ2jasnBKNLg2roPgpWcqAI&start=50&sa=N&sstk=AS6-VmJUyS-18OiqiyTuD6rP8LzxW2i9hTyuXMlDIuKKnuhndqQfIEh5kl9lDramRNU9G0rFC-mIf6g1QWtl-uTpdylDnxJaZoe42w&ved=2ahUKEwiJvLvs5-SWAxVSsFYBHYIKByUQ8tMDegUIhAEQDA",
+   "7": "https://www.google.com/search?q=%22Compton+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=jQ2jasnBKNLg2roPgpWcqAI&start=60&sa=N&sstk=AS6-VmJUyS-18OiqiyTuD6rP8LzxW2i9hTyuXMlDIuKKnuhndqQfIEh5kl9lDramRNU9G0rFC-mIf6g1QWtl-uTpdylDnxJaZoe42w&ved=2ahUKEwiJvLvs5-SWAxVSsFYBHYIKByUQ8tMDegUIhAEQDg",
+   "8": "https://www.google.com/search?q=%22Compton+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=jQ2jasnBKNLg2roPgpWcqAI&start=70&sa=N&sstk=AS6-VmJUyS-18OiqiyTuD6rP8LzxW2i9hTyuXMlDIuKKnuhndqQfIEh5kl9lDramRNU9G0rFC-mIf6g1QWtl-uTpdylDnxJaZoe42w&ved=2ahUKEwiJvLvs5-SWAxVSsFYBHYIKByUQ8tMDegUIhAEQEA",
+   "9": "https://www.google.com/search?q=%22Compton+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=jQ2jasnBKNLg2roPgpWcqAI&start=80&sa=N&sstk=AS6-VmJUyS-18OiqiyTuD6rP8LzxW2i9hTyuXMlDIuKKnuhndqQfIEh5kl9lDramRNU9G0rFC-mIf6g1QWtl-uTpdylDnxJaZoe42w&ved=2ahUKEwiJvLvs5-SWAxVSsFYBHYIKByUQ8tMDegUIhAEQEg",
+   "10": "https://www.google.com/search?q=%22Compton+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=jQ2jasnBKNLg2roPgpWcqAI&start=90&sa=N&sstk=AS6-VmJUyS-18OiqiyTuD6rP8LzxW2i9hTyuXMlDIuKKnuhndqQfIEh5kl9lDramRNU9G0rFC-mIf6g1QWtl-uTpdylDnxJaZoe42w&ved=2ahUKEwiJvLvs5-SWAxVSsFYBHYIKByUQ8tMDegUIhAEQFA"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Compton+High+School%22&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Compton+High+School%22&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Compton+High+School%22&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Compton+High+School%22&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Compton+High+School%22&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Compton+High+School%22&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Compton+High+School%22&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Compton+High+School%22&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Compton+High+School%22&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Compton+High+School%22&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Compton+High+School%22&start=90"
+  }
+ }
+}

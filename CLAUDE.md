@@ -40,10 +40,12 @@ offering on the website.
 ```
 scrapers/        one module per source; each exposes parse(html, url, ...) and scrape()
 scrapers/common.py  fetch() with robots/throttle/cache, Row dataclass, BlockedSource
-data/raw/        cached HTML/JSON (gitignored)
+data/raw/        cached HTML/JSON (gitignored, except data/raw/serpapi.com/: tracked,
+                 because every search costs quota and the JSON holds no key)
 data/interim/    per-source CSVs (tracked)
 data/final/      prospects.csv and derived outputs (tracked)
-scripts/         run_all.py, enrich.py, score.py, export.py
+scripts/         run_all.py, enrich.py, search_fallback.py, score.py, export.py
+scrapers/serpapi.py  cached SerpAPI client (key from SERPAPI_KEY only; never on disk)
 tests/           pytest; fixtures are cached pages under tests/fixtures/
 ```
 
@@ -132,7 +134,9 @@ unblocks it, and `docs/TROEN_QUESTIONS.md` for open client questions.
 ## Skipped or deferred
 
 - Nimble market-finder enrichment: Nimble CLI not installed; skip until it is.
-- Phase 2 web-search fallback for school websites: no search API; NCES website only.
+- Phase 2 web-search fallback for school websites: done 2026-09-10 with SerpAPI
+  (`scripts/search_fallback.py`); rules and counts in `docs/SCRAPING_HURDLES.md`.
+  Stateless rows only ever take a Google knowledge panel, never an organic hit.
 
 ## Future prompts (from the playbook, not yet implemented)
 

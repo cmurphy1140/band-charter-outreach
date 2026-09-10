@@ -1,0 +1,429 @@
+{
+ "search_information": {
+  "query_displayed": "\"Bloomington North High School\" Indiana",
+  "total_results": 137,
+  "time_taken_displayed": 0.71,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "related_questions": [
+  {
+   "question": "What billionaire lives in Bloomington, Indiana?",
+   "type": "ai_overview",
+   "page_token": "RA5343icHdBfbpswHABg9TJ9bCB_qIgUTXIwRJlwhYNt8Mvk-OeEgA00oaXw1ivsDDvVTjNp3xG-7z_21jZ_n35Xw9A_tovFOI4v1667WvOiO7dQj6nVC62sPSvdbIPXwP9x0Tv8qdH-rlHG-p5H1Ds14DS3gvshymdZmyKbaKwHg6v7WYQHU8Am42FKa9KkTFrl9y1jxAmbDRB3nhAyUK1EaYvsKcZrKsrxDRN7OpC1cdWe16hUzlvzgkamPY5EHJuSy1pw4qecR6zoVtJtEvD8XODNdPYtS-cqUm06cQwf5TIeadzzUtgJvGwDSRhQ74tBBD8lhxU7HB8msgeDwSO5ZCrRHi_kPecQpI7v3xK81HNV0QYkrqDJCvteivAGjXQ5Pq4YjrOzkwUkgMqv7pYxOuvaOnbzZxohpWayZ3E6gl-NhvEAlmFUFogzQQnLni_6c7d6_n-9-3Vxw7a_d9d_AvKNaQ",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=RA5343icHdBfbpswHABg9TJ9bCB_qIgUTXIwRJlwhYNt8Mvk-OeEgA00oaXw1ivsDDvVTjNp3xG-7z_21jZ_n35Xw9A_tovFOI4v1667WvOiO7dQj6nVC62sPSvdbIPXwP9x0Tv8qdH-rlHG-p5H1Ds14DS3gvshymdZmyKbaKwHg6v7WYQHU8Am42FKa9KkTFrl9y1jxAmbDRB3nhAyUK1EaYvsKcZrKsrxDRN7OpC1cdWe16hUzlvzgkamPY5EHJuSy1pw4qecR6zoVtJtEvD8XODNdPYtS-cqUm06cQwf5TIeadzzUtgJvGwDSRhQ74tBBD8lhxU7HB8msgeDwSO5ZCrRHi_kPecQpI7v3xK81HNV0QYkrqDJCvteivAGjXQ5Pq4YjrOzkwUkgMqv7pYxOuvaOnbzZxohpWayZ3E6gl-NhvEAlmFUFogzQQnLni_6c7d6_n-9-3Vxw7a_d9d_AvKNaQ",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFIwRkRiamhwU1VGbmJXVjBXbnBMV0VGZmVHbDRVbEZLT1RGTGRtdDRTa1Y1UzFSYWVtOUdjVFl6TWpGTVl6ZFNhRkZ2UVVwS1RqSmlTM00wZDNSM1R6WmtWR2htT0dGVWFqZENRMGxDWVZjMk9YZDZkRlJRVERaRlVSSVhaRUY1YW1GdlluWkdaa3hDZDFCQlVHNW1WM1JuUVdNYUlrRkVjM0k1WmxJemRXSlNaVWc1T0U1R1NIWnJNVmx3YkdoR1JFbEJVazEyWlVFIiwiZmN2IjoiMyIsImVpIjoiZEF5amFvYnZGZkxCd1BBUG5mV3RnQWMiLCJxYyI6IkNndGliRzl2YldsdVozUnZiaEFBZmJJWU1EOCIsInF1ZXN0aW9uIjoiV2hhdCBiaWxsaW9uYWlyZSBsaXZlcyBpbiBCbG9vbWluZ3RvbiwgSW5kaWFuYT8iLCJsayI6IkdpMTNhR0YwSUdKcGJHeHBiMjVoYVhKbElHeHBkbVZ6SUdsdUlHSnNiMjl0YVc1bmRHOXVJR2x1WkdsaGJtRSIsImJzIjoiYzNXUHNRckNNQkNHY2MzazNPa1VwQ3BLSVM4UWRKR0NreUtkTDIyd0J6RXBUV3pwMjJ2cm9LbDBQTzc3N3ItZlNaWmtKWHFRcERWWmcxUXIwTlFvQjJUZ3FLMTlrTGw3YTNhUW1vTFFvT0JKdEc4bkZmbFYzdU5nc0l4dGhnem5hNFg5RXB5cUc4b1ZrUHZOQUdzRTMwYnJkaEtXQWN4T2JKR0dGeEJ5OGwzX2lDOFYzSzRId1pmUjJBeWhwME4yWWZId1lZbFZwWXdxX3N1Zndkc0NPOEhqYU5XTzBhQzBfcER6MlFzIiwiaWQiOiJmY19kQXlqYW9idkZmTEJ3UEFQbmZXdGdBY18zIn0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFIwRkRiamhwU1VGbmJXVjBXbnBMV0VGZmVHbDRVbEZLT1RGTGRtdDRTa1Y1UzFSYWVtOUdjVFl6TWpGTVl6ZFNhRkZ2UVVwS1RqSmlTM00wZDNSM1R6WmtWR2htT0dGVWFqZENRMGxDWVZjMk9YZDZkRlJRVERaRlVSSVhaRUY1YW1GdlluWkdaa3hDZDFCQlVHNW1WM1JuUVdNYUlrRkVjM0k1WmxJemRXSlNaVWc1T0U1R1NIWnJNVmx3YkdoR1JFbEJVazEyWlVFIiwiZmN2IjoiMyIsImVpIjoiZEF5amFvYnZGZkxCd1BBUG5mV3RnQWMiLCJxYyI6IkNndGliRzl2YldsdVozUnZiaEFBZmJJWU1EOCIsInF1ZXN0aW9uIjoiV2hhdCBiaWxsaW9uYWlyZSBsaXZlcyBpbiBCbG9vbWluZ3RvbiwgSW5kaWFuYT8iLCJsayI6IkdpMTNhR0YwSUdKcGJHeHBiMjVoYVhKbElHeHBkbVZ6SUdsdUlHSnNiMjl0YVc1bmRHOXVJR2x1WkdsaGJtRSIsImJzIjoiYzNXUHNRckNNQkNHY2MzazNPa1VwQ3BLSVM4UWRKR0NreUtkTDIyd0J6RXBUV3pwMjJ2cm9LbDBQTzc3N3ItZlNaWmtKWHFRcERWWmcxUXIwTlFvQjJUZ3FLMTlrTGw3YTNhUW1vTFFvT0JKdEc4bkZmbFYzdU5nc0l4dGhnem5hNFg5RXB5cUc4b1ZrUHZOQUdzRTMwYnJkaEtXQWN4T2JKR0dGeEJ5OGwzX2lDOFYzSzRId1pmUjJBeWhwME4yWWZId1lZbFZwWXdxX3N1Zndkc0NPOEhqYU5XTzBhQzBfcER6MlFzIiwiaWQiOiJmY19kQXlqYW9idkZmTEJ3UEFQbmZXdGdBY18zIn0%3D"
+  },
+  {
+   "question": "What streaming service is Bloomington on?",
+   "type": "ai_overview",
+   "page_token": "GZzsKnicHdBNcoIwGADQ6WVcChSx1RmnMyhBUotN5AuQTUcTlZ8EsKIiu96lp-pp2ukF3uJ9fau8Kn8erlnbNuepYdxut-Gxro9qPxS1NrbneyUMsVVqtxXldPw0tl4OYuZdAnd-ClwCTcMW1Nz04Rsg7vFCkfVSvlI_O_HYQYyJjkWsT-1mLrzJPTVZznrJiPVsgW6XYc8vUSXb1KZYeBRzlY1W4BQpEDtasDmp3ET0aBMr2dElXgGT1j4KHIroKYaMxAvXEWaDSdklkY-y5HEyCm3EN5piNrfOgOR7aHObwJ-hrZYwqqIeg4wZB0sF-wKtpc_KnYdxyNxEQrjYA3K9TJYkUac0nuSy5DrysA0eIjvNE-lLN-3qnADtRaE0xE4jqxC4xkEY05b7pcPuFgUT-5HKkDBxIG-Dg7jO7MH_5-zjoNtp81kffwGaU4Jv",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=GZzsKnicHdBNcoIwGADQ6WVcChSx1RmnMyhBUotN5AuQTUcTlZ8EsKIiu96lp-pp2ukF3uJ9fau8Kn8erlnbNuepYdxut-Gxro9qPxS1NrbneyUMsVVqtxXldPw0tl4OYuZdAnd-ClwCTcMW1Nz04Rsg7vFCkfVSvlI_O_HYQYyJjkWsT-1mLrzJPTVZznrJiPVsgW6XYc8vUSXb1KZYeBRzlY1W4BQpEDtasDmp3ET0aBMr2dElXgGT1j4KHIroKYaMxAvXEWaDSdklkY-y5HEyCm3EN5piNrfOgOR7aHObwJ-hrZYwqqIeg4wZB0sF-wKtpc_KnYdxyNxEQrjYA3K9TJYkUac0nuSy5DrysA0eIjvNE-lLN-3qnADtRaE0xE4jqxC4xkEY05b7pcPuFgUT-5HKkDBxIG-Dg7jO7MH_5-zjoNtp81kffwGaU4Jv",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFIwRkRiamhwU1VGbmJXVjBXbnBMV0VGZmVHbDRVbEZLT1RGTGRtdDRTa1Y1UzFSYWVtOUdjVFl6TWpGTVl6ZFNhRkZ2UVVwS1RqSmlTM00wZDNSM1R6WmtWR2htT0dGVWFqZENRMGxDWVZjMk9YZDZkRlJRVERaRlVSSVhaRUY1YW1GdlluWkdaa3hDZDFCQlVHNW1WM1JuUVdNYUlrRkVjM0k1WmxJemRXSlNaVWc1T0U1R1NIWnJNVmx3YkdoR1JFbEJVazEyWlVFIiwiZmN2IjoiMyIsImVpIjoiZEF5amFvYnZGZkxCd1BBUG5mV3RnQWMiLCJxYyI6IkNndGliRzl2YldsdVozUnZiaEFBZmJJWU1EOCIsInF1ZXN0aW9uIjoiV2hhdCBzdHJlYW1pbmcgc2VydmljZSBpcyBCbG9vbWluZ3RvbiBvbj8iLCJsayI6IkdpaDNhR0YwSUhOMGNtVmhiV2x1WnlCelpYSjJhV05sSUdseklHSnNiMjl0YVc1bmRHOXVJRzl1IiwiYnMiOiJjM1dQc1FyQ01CQ0djYzNrM09rVXBDcEtJUzhRZEpHQ2t5S2RMMjJ3QnpFcFRXenAyMnZyb0tsMFBPNzc3ci1mU1paa0pYcVFwRFZaZzFRcjBOUW9CMlRncUsxOWtMbDdhM2FRbW9MUW9PQkp0RzhuRmZsVjN1TmdzSXh0aGd6bmE0WDlFcHlxRzhvVmtQdk5BR3NFMzBicmRoS1dBY3hPYkpHR0Z4Qnk4bDNfaUM4VjNLNEh3WmZSMkF5aHAwTjJZZkh3WVlsVnBZd3Ffc3Vmd2RzQ084SGphTldPMGFDMF9wRHoyUXMiLCJpZCI6ImZjX2RBeWphb2J2RmZMQndQQVBuZld0Z0FjXzMifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFIwRkRiamhwU1VGbmJXVjBXbnBMV0VGZmVHbDRVbEZLT1RGTGRtdDRTa1Y1UzFSYWVtOUdjVFl6TWpGTVl6ZFNhRkZ2UVVwS1RqSmlTM00wZDNSM1R6WmtWR2htT0dGVWFqZENRMGxDWVZjMk9YZDZkRlJRVERaRlVSSVhaRUY1YW1GdlluWkdaa3hDZDFCQlVHNW1WM1JuUVdNYUlrRkVjM0k1WmxJemRXSlNaVWc1T0U1R1NIWnJNVmx3YkdoR1JFbEJVazEyWlVFIiwiZmN2IjoiMyIsImVpIjoiZEF5amFvYnZGZkxCd1BBUG5mV3RnQWMiLCJxYyI6IkNndGliRzl2YldsdVozUnZiaEFBZmJJWU1EOCIsInF1ZXN0aW9uIjoiV2hhdCBzdHJlYW1pbmcgc2VydmljZSBpcyBCbG9vbWluZ3RvbiBvbj8iLCJsayI6IkdpaDNhR0YwSUhOMGNtVmhiV2x1WnlCelpYSjJhV05sSUdseklHSnNiMjl0YVc1bmRHOXVJRzl1IiwiYnMiOiJjM1dQc1FyQ01CQ0djYzNrM09rVXBDcEtJUzhRZEpHQ2t5S2RMMjJ3QnpFcFRXenAyMnZyb0tsMFBPNzc3ci1mU1paa0pYcVFwRFZaZzFRcjBOUW9CMlRncUsxOWtMbDdhM2FRbW9MUW9PQkp0RzhuRmZsVjN1TmdzSXh0aGd6bmE0WDlFcHlxRzhvVmtQdk5BR3NFMzBicmRoS1dBY3hPYkpHR0Z4Qnk4bDNfaUM4VjNLNEh3WmZSMkF5aHAwTjJZZkh3WVlsVnBZd3Ffc3Vmd2RzQ084SGphTldPMGFDMF9wRHoyUXMiLCJpZCI6ImZjX2RBeWphb2J2RmZMQndQQVBuZld0Z0FjXzMifQ%3D%3D"
+  },
+  {
+   "question": "Is Bloomington a city in the USA?",
+   "type": "ai_overview",
+   "page_token": "z2TwDXicHdBdboIwAADg7DI-Koi6aGKWsFGEjZoW-gMvC7ZqtS1Uxd-33WWn2mm27AZfvq9vs2v0z9NFdZ07zQaD6_Xa37bt1qz7orWD-nRvxEDUxqxqoWeT54n_shHz6JyEr4ckRMQ5-oa93PNPsEjPlaUxjpGfUbwQQ_8Ih4YzrUfIysfamnHuw1Fm1XvhQ5Av6LvgFRLR1MsZrnGEKdU4yzXQAiQjaVIAG1At42kseVijPZgwQC94j26S0c26kLoO4Ftl05Y1blRQd8-4QR8UsMKChGqoPtiYwEjcc6tqyBOvLgAnrEOY3dzKV9eVd2OZZzruqfbP9rok3hhzFUZKasTNoWTTndSVLaI0IBFAK1txGcuwvLU7RPBD7I0lgXNZU_pomAbIArekyoo90ISnp3I4LZmulgT1NuIyD3r_n_PPje1m7thufwFc7ILr",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=z2TwDXicHdBdboIwAADg7DI-Koi6aGKWsFGEjZoW-gMvC7ZqtS1Uxd-33WWn2mm27AZfvq9vs2v0z9NFdZ07zQaD6_Xa37bt1qz7orWD-nRvxEDUxqxqoWeT54n_shHz6JyEr4ckRMQ5-oa93PNPsEjPlaUxjpGfUbwQQ_8Ih4YzrUfIysfamnHuw1Fm1XvhQ5Av6LvgFRLR1MsZrnGEKdU4yzXQAiQjaVIAG1At42kseVijPZgwQC94j26S0c26kLoO4Ftl05Y1blRQd8-4QR8UsMKChGqoPtiYwEjcc6tqyBOvLgAnrEOY3dzKV9eVd2OZZzruqfbP9rok3hhzFUZKasTNoWTTndSVLaI0IBFAK1txGcuwvLU7RPBD7I0lgXNZU_pomAbIArekyoo90ISnp3I4LZmulgT1NuIyD3r_n_PPje1m7thufwFc7ILr",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFIwRkRiamhwU1VGbmJXVjBXbnBMV0VGZmVHbDRVbEZLT1RGTGRtdDRTa1Y1UzFSYWVtOUdjVFl6TWpGTVl6ZFNhRkZ2UVVwS1RqSmlTM00wZDNSM1R6WmtWR2htT0dGVWFqZENRMGxDWVZjMk9YZDZkRlJRVERaRlVSSVhaRUY1YW1GdlluWkdaa3hDZDFCQlVHNW1WM1JuUVdNYUlrRkVjM0k1WmxJemRXSlNaVWc1T0U1R1NIWnJNVmx3YkdoR1JFbEJVazEyWlVFIiwiZmN2IjoiMyIsImVpIjoiZEF5amFvYnZGZkxCd1BBUG5mV3RnQWMiLCJxYyI6IkNndGliRzl2YldsdVozUnZiaEFBZmJJWU1EOCIsInF1ZXN0aW9uIjoiSXMgQmxvb21pbmd0b24gYSBjaXR5IGluIHRoZSBVU0E/IiwibGsiOiJHaUJwY3lCaWJHOXZiV2x1WjNSdmJpQmhJR05wZEhrZ2FXNGdkR2hsSUhWellRIiwiYnMiOiJjM1dQc1FyQ01CQ0djYzNrM09rVXBDcEtJUzhRZEpHQ2t5S2RMMjJ3QnpFcFRXenAyMnZyb0tsMFBPNzc3ci1mU1paa0pYcVFwRFZaZzFRcjBOUW9CMlRncUsxOWtMbDdhM2FRbW9MUW9PQkp0RzhuRmZsVjN1TmdzSXh0aGd6bmE0WDlFcHlxRzhvVmtQdk5BR3NFMzBicmRoS1dBY3hPYkpHR0Z4Qnk4bDNfaUM4VjNLNEh3WmZSMkF5aHAwTjJZZkh3WVlsVnBZd3Ffc3Vmd2RzQ084SGphTldPMGFDMF9wRHoyUXMiLCJpZCI6ImZjX2RBeWphb2J2RmZMQndQQVBuZld0Z0FjXzMifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFIwRkRiamhwU1VGbmJXVjBXbnBMV0VGZmVHbDRVbEZLT1RGTGRtdDRTa1Y1UzFSYWVtOUdjVFl6TWpGTVl6ZFNhRkZ2UVVwS1RqSmlTM00wZDNSM1R6WmtWR2htT0dGVWFqZENRMGxDWVZjMk9YZDZkRlJRVERaRlVSSVhaRUY1YW1GdlluWkdaa3hDZDFCQlVHNW1WM1JuUVdNYUlrRkVjM0k1WmxJemRXSlNaVWc1T0U1R1NIWnJNVmx3YkdoR1JFbEJVazEyWlVFIiwiZmN2IjoiMyIsImVpIjoiZEF5amFvYnZGZkxCd1BBUG5mV3RnQWMiLCJxYyI6IkNndGliRzl2YldsdVozUnZiaEFBZmJJWU1EOCIsInF1ZXN0aW9uIjoiSXMgQmxvb21pbmd0b24gYSBjaXR5IGluIHRoZSBVU0E%2FIiwibGsiOiJHaUJwY3lCaWJHOXZiV2x1WjNSdmJpQmhJR05wZEhrZ2FXNGdkR2hsSUhWellRIiwiYnMiOiJjM1dQc1FyQ01CQ0djYzNrM09rVXBDcEtJUzhRZEpHQ2t5S2RMMjJ3QnpFcFRXenAyMnZyb0tsMFBPNzc3ci1mU1paa0pYcVFwRFZaZzFRcjBOUW9CMlRncUsxOWtMbDdhM2FRbW9MUW9PQkp0RzhuRmZsVjN1TmdzSXh0aGd6bmE0WDlFcHlxRzhvVmtQdk5BR3NFMzBicmRoS1dBY3hPYkpHR0Z4Qnk4bDNfaUM4VjNLNEh3WmZSMkF5aHAwTjJZZkh3WVlsVnBZd3Ffc3Vmd2RzQ084SGphTldPMGFDMF9wRHoyUXMiLCJpZCI6ImZjX2RBeWphb2J2RmZMQndQQVBuZld0Z0FjXzMifQ%3D%3D"
+  },
+  {
+   "question": "What happened in Bloomington, IL today?",
+   "type": "ai_overview",
+   "page_token": "l9chEXicHdBRToMwGADgeBkft5HNKUsWkznoNIIW-reFF1NaGIMWmGMCffMunsrTmPgd4fv-0aem_r35Kvu-u2zm82EYZse2Pep8JlszF5epkXMptM6ErDfr-7XzWMitd33ePZ2fdxi6ju6jBfGTSaKRBlQbtY9EzFwRwngnoVtnB1jFjBaqKUlINRLIbWL-AnwRjJi3NmLhRRg3ETpCwUGNpKJhzmkhtO_LhTOGFa1y3gVvXCOsO8jB8RLm2dgoxho5MqSv6UET4aXvodU48N1rRBTCNuwpPEykVpwYl-YsWYl9NIFztJLunLgKegFhEzHV4ZNDM-SkYMv-FcrGK1WNuT4nzD2pOjXEe1mC5-PMpFwhtUvG9oQhsrLSBjj0CbgClj5Qq5bZPpjiRVopndjMcU1G6JMabgv5tV3e_n9uPwrTb7rP9vgHdh6Gyg",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=l9chEXicHdBRToMwGADgeBkft5HNKUsWkznoNIIW-reFF1NaGIMWmGMCffMunsrTmPgd4fv-0aem_r35Kvu-u2zm82EYZse2Pep8JlszF5epkXMptM6ErDfr-7XzWMitd33ePZ2fdxi6ju6jBfGTSaKRBlQbtY9EzFwRwngnoVtnB1jFjBaqKUlINRLIbWL-AnwRjJi3NmLhRRg3ETpCwUGNpKJhzmkhtO_LhTOGFa1y3gVvXCOsO8jB8RLm2dgoxho5MqSv6UET4aXvodU48N1rRBTCNuwpPEykVpwYl-YsWYl9NIFztJLunLgKegFhEzHV4ZNDM-SkYMv-FcrGK1WNuT4nzD2pOjXEe1mC5-PMpFwhtUvG9oQhsrLSBjj0CbgClj5Qq5bZPpjiRVopndjMcU1G6JMabgv5tV3e_n9uPwrTb7rP9vgHdh6Gyg",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFIwRkRiamhwU1VGbmJXVjBXbnBMV0VGZmVHbDRVbEZLT1RGTGRtdDRTa1Y1UzFSYWVtOUdjVFl6TWpGTVl6ZFNhRkZ2UVVwS1RqSmlTM00wZDNSM1R6WmtWR2htT0dGVWFqZENRMGxDWVZjMk9YZDZkRlJRVERaRlVSSVhaRUY1YW1GdlluWkdaa3hDZDFCQlVHNW1WM1JuUVdNYUlrRkVjM0k1WmxJemRXSlNaVWc1T0U1R1NIWnJNVmx3YkdoR1JFbEJVazEyWlVFIiwiZmN2IjoiMyIsImVpIjoiZEF5amFvYnZGZkxCd1BBUG5mV3RnQWMiLCJxYyI6IkNndGliRzl2YldsdVozUnZiaEFBZmJJWU1EOCIsInF1ZXN0aW9uIjoiV2hhdCBoYXBwZW5lZCBpbiBCbG9vbWluZ3RvbiwgSUwgdG9kYXk/IiwibGsiOiJHaVYzYUdGMElHaGhjSEJsYm1Wa0lHbHVJR0pzYjI5dGFXNW5kRzl1SUdsc0lIUnZaR0Y1IiwiYnMiOiJjM1dQc1FyQ01CQ0djYzNrM09rVXBDcEtJUzhRZEpHQ2t5S2RMMjJ3QnpFcFRXenAyMnZyb0tsMFBPNzc3ci1mU1paa0pYcVFwRFZaZzFRcjBOUW9CMlRncUsxOWtMbDdhM2FRbW9MUW9PQkp0RzhuRmZsVjN1TmdzSXh0aGd6bmE0WDlFcHlxRzhvVmtQdk5BR3NFMzBicmRoS1dBY3hPYkpHR0Z4Qnk4bDNfaUM4VjNLNEh3WmZSMkF5aHAwTjJZZkh3WVlsVnBZd3Ffc3Vmd2RzQ084SGphTldPMGFDMF9wRHoyUXMiLCJpZCI6ImZjX2RBeWphb2J2RmZMQndQQVBuZld0Z0FjXzMifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFIwRkRiamhwU1VGbmJXVjBXbnBMV0VGZmVHbDRVbEZLT1RGTGRtdDRTa1Y1UzFSYWVtOUdjVFl6TWpGTVl6ZFNhRkZ2UVVwS1RqSmlTM00wZDNSM1R6WmtWR2htT0dGVWFqZENRMGxDWVZjMk9YZDZkRlJRVERaRlVSSVhaRUY1YW1GdlluWkdaa3hDZDFCQlVHNW1WM1JuUVdNYUlrRkVjM0k1WmxJemRXSlNaVWc1T0U1R1NIWnJNVmx3YkdoR1JFbEJVazEyWlVFIiwiZmN2IjoiMyIsImVpIjoiZEF5amFvYnZGZkxCd1BBUG5mV3RnQWMiLCJxYyI6IkNndGliRzl2YldsdVozUnZiaEFBZmJJWU1EOCIsInF1ZXN0aW9uIjoiV2hhdCBoYXBwZW5lZCBpbiBCbG9vbWluZ3RvbiwgSUwgdG9kYXk%2FIiwibGsiOiJHaVYzYUdGMElHaGhjSEJsYm1Wa0lHbHVJR0pzYjI5dGFXNW5kRzl1SUdsc0lIUnZaR0Y1IiwiYnMiOiJjM1dQc1FyQ01CQ0djYzNrM09rVXBDcEtJUzhRZEpHQ2t5S2RMMjJ3QnpFcFRXenAyMnZyb0tsMFBPNzc3ci1mU1paa0pYcVFwRFZaZzFRcjBOUW9CMlRncUsxOWtMbDdhM2FRbW9MUW9PQkp0RzhuRmZsVjN1TmdzSXh0aGd6bmE0WDlFcHlxRzhvVmtQdk5BR3NFMzBicmRoS1dBY3hPYkpHR0Z4Qnk4bDNfaUM4VjNLNEh3WmZSMkF5aHAwTjJZZkh3WVlsVnBZd3Ffc3Vmd2RzQ084SGphTldPMGFDMF9wRHoyUXMiLCJpZCI6ImZjX2RBeWphb2J2RmZMQndQQVBuZld0Z0FjXzMifQ%3D%3D"
+  }
+ ],
+ "ai_overview": {
+  "page_token": "Ow6AM3iczVbbcqJKFP2A8x3DUxRQYzRV1FR3i4YYExlvY14oaKBBbgooIW_zL-erztecBtTgLZ7Mw9TZVdgX9mWxe6_e_vrbtX3nn78MK46X0T3LJklSJUFAXKOKA49Vo9THrBm4UYit78QV1hFjuYLhM-lGqDM4EjjGsAUdpAs10DZd8wkmQzD0zVlMAGZyc0HR1MhYUO9vi4hVWPrjfKt36KIaVQ2_-uM1JDiUx2ZlUK1xfLv6wqoeVQB_TBCQAaG_SM4XF6X339wRAkQAHkv-C59iSSVbyEAksFhD-bwrWaKq2QhkVCDrJO-VuUYnaqHRyV6eF1R-AUmuB2HuD4wguGx4VgqkiGx9f6ornt1FZQeZDK6aUIzzQxQSQMNkm-JTJBIQpQPEchGEwAQsEpOIogg_wU0TMkngbT-z-ESNSl-WxskWwqAzo4FZndCi5VgtpAPP2tjC-SSMslpG4zYXPLxsICZe-7llOCttxndvJzNbfY0rqgFYrFE9N1B1Q1cshfuer_kaf8u163etm5xEONqzKCqzaOk10J3yivi4VX2qQn5HIZRl5DRLNNt0jSRwKnBbZmcPWAK7wxD3Caa7Eiqla7IdLQADOavbkm8QyDhP2G7HyOsXfxzJB6QswimFjqFlFMqNYBEaluHtVAiBZ0yp4JMvPKlCGjcpZuSY_fJRJYkycsohkoO3FOTIErNEZQyYYrEAcFyN4s5c3uEl2SHu8r53Lm_hlihkkyzrNCwZUcVHmfQzdbg_A7j9OPh4THz7-Ktz6VJ_cC597ZbYinTlgih0dlw5Kv0yZbqqOx2ORQvMGh2be07a68AdPSgNFD2R8xQJPO0LnQb_n0hk7_rQZGt7gURGNrlOIkKvu4t9qJh-9KGCRFC-QCKpINGZPmQUGqU-dEwiNCqR6Eof-iqJ0KckKi6jsyTKHJwjkXOBRNs-VCLR6LAPHZBo34c-SPQ7fQj9Vh_KOWUUw2FTWi_IxeYkOspYGaOp678vnFDD3mYd8FKQPqjL5GpzMr343lN190ax9XtYe4xT_UahG8G9oTMrQXODwLN9Egc-47lhIHBqAyFvbc5qzvRHZCybsMYNmyMyMtNxjVNAPa2vmo5Z8yrtvqJUmua77036fc_3dOiN-xK3Ft_m7XpPnYZ18yff43p8GLc2ZPyCu3G6mK7Q3Wo2q1lD96c2wQM4nL2P0o4VxROxYsq2G-pPi1tgLgM17XXR0nlbRTmwSFi14sHjIn7j1YTxQizQI2gQ8CyDGf1DC9CcEoBWMArok9CnCWQRMhFWFSPaCFxdMw2aFow1vd2o8YxH4nQpNHgm8kOB_xd7yTzu",
+  "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Ow6AM3iczVbbcqJKFP2A8x3DUxRQYzRV1FR3i4YYExlvY14oaKBBbgooIW_zL-erztecBtTgLZ7Mw9TZVdgX9mWxe6_e_vrbtX3nn78MK46X0T3LJklSJUFAXKOKA49Vo9THrBm4UYit78QV1hFjuYLhM-lGqDM4EjjGsAUdpAs10DZd8wkmQzD0zVlMAGZyc0HR1MhYUO9vi4hVWPrjfKt36KIaVQ2_-uM1JDiUx2ZlUK1xfLv6wqoeVQB_TBCQAaG_SM4XF6X339wRAkQAHkv-C59iSSVbyEAksFhD-bwrWaKq2QhkVCDrJO-VuUYnaqHRyV6eF1R-AUmuB2HuD4wguGx4VgqkiGx9f6ornt1FZQeZDK6aUIzzQxQSQMNkm-JTJBIQpQPEchGEwAQsEpOIogg_wU0TMkngbT-z-ESNSl-WxskWwqAzo4FZndCi5VgtpAPP2tjC-SSMslpG4zYXPLxsICZe-7llOCttxndvJzNbfY0rqgFYrFE9N1B1Q1cshfuer_kaf8u163etm5xEONqzKCqzaOk10J3yivi4VX2qQn5HIZRl5DRLNNt0jSRwKnBbZmcPWAK7wxD3Caa7Eiqla7IdLQADOavbkm8QyDhP2G7HyOsXfxzJB6QswimFjqFlFMqNYBEaluHtVAiBZ0yp4JMvPKlCGjcpZuSY_fJRJYkycsohkoO3FOTIErNEZQyYYrEAcFyN4s5c3uEl2SHu8r53Lm_hlihkkyzrNCwZUcVHmfQzdbg_A7j9OPh4THz7-Ktz6VJ_cC597ZbYinTlgih0dlw5Kv0yZbqqOx2ORQvMGh2be07a68AdPSgNFD2R8xQJPO0LnQb_n0hk7_rQZGt7gURGNrlOIkKvu4t9qJh-9KGCRFC-QCKpINGZPmQUGqU-dEwiNCqR6Eof-iqJ0KckKi6jsyTKHJwjkXOBRNs-VCLR6LAPHZBo34c-SPQ7fQj9Vh_KOWUUw2FTWi_IxeYkOspYGaOp678vnFDD3mYd8FKQPqjL5GpzMr343lN190ax9XtYe4xT_UahG8G9oTMrQXODwLN9Egc-47lhIHBqAyFvbc5qzvRHZCybsMYNmyMyMtNxjVNAPa2vmo5Z8yrtvqJUmua77036fc_3dOiN-xK3Ft_m7XpPnYZ18yff43p8GLc2ZPyCu3G6mK7Q3Wo2q1lD96c2wQM4nL2P0o4VxROxYsq2G-pPi1tgLgM17XXR0nlbRTmwSFi14sHjIn7j1YTxQizQI2gQ8CyDGf1DC9CcEoBWMArok9CnCWQRMhFWFSPaCFxdMw2aFow1vd2o8YxH4nQpNHgm8kOB_xd7yTzu"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Bloomington, Indiana",
+   "link": "https://en.wikipedia.org/wiki/Bloomington,_Indiana",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESagHrOzAVBPYhWU6Wkd1cto4m5VbALBXTb4fDAzRl9KM7ZLnq8KtcA-Bu3BKAUe_4kd2qbZBWjlfW0sBRzO5zK-Ld45ReJttNK79VGXm7HXqD27pYTUw9FaXywcTZi8o0ci2GhZ247nKUqj0&ved=2ahUKEwiG-anm5uSWAxXyIBAIHZ16C3AQFnoECEIQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Bloomington,_Indiana",
+   "thumbnail": "https://serpapi.com/searches/6aa30c68f3fc7be6fb4f38ef/images/3aZLDc_GJaDrv6vfv3XiWJ212aum6xMD4LEH-a14V90.jpeg",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+   "date": "17 hours ago",
+   "snippet": "Bloomington is a city in Monroe County, Indiana, United States, and its county seat. The population was 79,168 at the 2020 census. It is the seventh-most ...",
+   "snippet_highlighted_words": [
+    "Bloomington is a city in Monroe County, Indiana"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Bloomington is a city in Monroe County, Indiana, United States, and its county seat. The population was 79,168 at the 2020 census. It is the seventh-most ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Bloomington,_Indiana",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESagHrOzAVBPYhWU6Wkd1cto4m5VbALBXTb4fDAzRl9KM7ZLnq8KtcA-Bu3BKAUe_4kd2qbZBWjlfW0sBRzO5zK-Ld45ReJttNK79VGXm7HXqD27pYTUw9FaXywcTZi8o0ci2GhZ247nKUqj0&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESagHrOzAVBPYhWU6Wkd1cto4m5VbALBXTb4fDAzRl9KM7ZLnq8KtcA-Bu3BKAUe_4kd2qbZBWjlfW0sBRzO5zK-Ld45ReJttNK79VGXm7HXqD27pYTUw9FaXywcTZi8o0ci2GhZ247nKUqj0",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Bloomington,_Indiana#:~:text=Bloomington%20is%20a%20city%20in,outside%20the%20Indianapolis%20metropolitan%20area."
+  },
+  {
+   "position": 2,
+   "title": "City of Bloomington, Illinois | Home",
+   "link": "https://www.bloomingtonil.gov/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVgHrOzAVTAp_TQz9P9yerBVKRcdISR9lknq5GxSHJ0UiVgUC3gehXyrij9GFRtc0PEngjrRgglF_gpeULGJb9XaIVNK8fWejSN-aezc-XvFEvhytyLn6&ved=2ahUKEwiG-anm5uSWAxXyIBAIHZ16C3AQFnoECD0QAQ&uoh=1",
+   "displayed_link": "https://www.bloomingtonil.gov",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAilBMVEX______f3__v7__Pz70c_3n5rtIBX3mpXtJBruKyHtIRfuLiTuMSf2kYz81tTuMCbuLyX-9fX0cGruKB782tn4qqb5sKz96unyXVbsGA3vOjH5sq7zYlruMijxSD_yY1v-8O_7ysj2i4b1eXLzaWL1gXvxVEz84N_6t7PwQTfxTUX6wb76v7z0e3SRHFB4AAABzElEQVR4AX1TB4LDIAwz0JABDaTZuWZ07_9_72wybh9dbiSMJCfwYzHg8M_iXKzEPxQuwJM-CD7Tf8GDMJoZiLMFcxXikdIKGYzTJbGOZ1xwZHDCjbIWGbQ52aTZvD0vqK0fKKsUfoI1diuruslGIQL8-g2Y2MpW0WpllUDWRbbNgBODtKceQNI7BuID7JqgDbFD6QlgJE7L_cRweKFSbcIwg6HdCKe-NfKQOAbiqCY0RtGeoav7gaOGVml5HGDo62pgJ6msDgMPOBLC6FzCpYuoN1blvkyO0lid2iswIqRt1KGWM56O1QXg4sqg2YEAgKFJjfsz9FLT5Ti7uWb3i8MBTq6duUJyoCpomkCjnO2wjGrvBKU5MKrQmrGWDEEeA1I4A48s0QzJHKJGRWuE1tEK2DjiIky1RdMC8jTUOsVudKCNieAYjzZtrQvqiXD7RO1badREoFmtMHhU1pc4gluMTu_o1HWYGZdOTkHFF3CDsjZwGibGElSG9dWiJi03CfBPd9xwHIPakSvSfBITPjPEawxq41wH7r78-kTAGFRkMVn19h1fIrPTQeI7vkSGZpzUX9YUmazK3_Epshrtof8_GbEv_sEBsa-P7DsPjiPVqW6gsQAAAABJRU5ErkJggg.png",
+   "snippet": "City of Bloomington, IL | 115 E. Washington St. Bloomington, IL 61701 | (309) 434 \u2026 latest news and updates from the City of Bloomington.",
+   "snippet_highlighted_words": [
+    "115 E. Washington St. Bloomington, IL 61701"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "City of Bloomington, IL | 115 E. Washington St. Bloomington, IL 61701 | (309) 434 \u2026 latest news and updates from the City of Bloomington.",
+     "source_info_link": "https://www.bloomingtonil.gov/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAilBMVEX______f3__v7__Pz70c_3n5rtIBX3mpXtJBruKyHtIRfuLiTuMSf2kYz81tTuMCbuLyX-9fX0cGruKB782tn4qqb5sKz96unyXVbsGA3vOjH5sq7zYlruMijxSD_yY1v-8O_7ysj2i4b1eXLzaWL1gXvxVEz84N_6t7PwQTfxTUX6wb76v7z0e3SRHFB4AAABzElEQVR4AX1TB4LDIAwz0JABDaTZuWZ07_9_72wybh9dbiSMJCfwYzHg8M_iXKzEPxQuwJM-CD7Tf8GDMJoZiLMFcxXikdIKGYzTJbGOZ1xwZHDCjbIWGbQ52aTZvD0vqK0fKKsUfoI1diuruslGIQL8-g2Y2MpW0WpllUDWRbbNgBODtKceQNI7BuID7JqgDbFD6QlgJE7L_cRweKFSbcIwg6HdCKe-NfKQOAbiqCY0RtGeoav7gaOGVml5HGDo62pgJ6msDgMPOBLC6FzCpYuoN1blvkyO0lid2iswIqRt1KGWM56O1QXg4sqg2YEAgKFJjfsz9FLT5Ti7uWb3i8MBTq6duUJyoCpomkCjnO2wjGrvBKU5MKrQmrGWDEEeA1I4A48s0QzJHKJGRWuE1tEK2DjiIky1RdMC8jTUOsVudKCNieAYjzZtrQvqiXD7RO1badREoFmtMHhU1pc4gluMTu_o1HWYGZdOTkHFF3CDsjZwGibGElSG9dWiJi03CfBPd9xwHIPakSvSfBITPjPEawxq41wH7r78-kTAGFRkMVn19h1fIrPTQeI7vkSGZpzUX9YUmazK3_Epshrtof8_GbEv_sEBsa-P7DsPjiPVqW6gsQAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESVgHrOzAVTAp_TQz9P9yerBVKRcdISR9lknq5GxSHJ0UiVgUC3gehXyrij9GFRtc0PEngjrRgglF_gpeULGJb9XaIVNK8fWejSN-aezc-XvFEvhytyLn6&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESVgHrOzAVTAp_TQz9P9yerBVKRcdISR9lknq5GxSHJ0UiVgUC3gehXyrij9GFRtc0PEngjrRgglF_gpeULGJb9XaIVNK8fWejSN-aezc-XvFEvhytyLn6",
+   "source": "City of Bloomington, Illinois (.gov)"
+  },
+  {
+   "position": 3,
+   "title": "Visit Bloomington, IN | Things to Do, Hotels, Events & IU Campus",
+   "link": "https://www.visitbloomington.com/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWQHrOzAVRq5T9IbUrkmI3WyzZ-6brhSBjqjTkYkHkeDRQcVJIN8nR03Dcr78sz4Q7Jq-vBpui-hg6ydroNu23wM0DZsweSEfYyv_6Re8vJK5YgzIqTYJVtg4&ved=2ahUKEwiG-anm5uSWAxXyIBAIHZ16C3AQFnoECDwQAQ&uoh=1",
+   "displayed_link": "https://www.visitbloomington.com",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAASFBMVEVHcEzCOTDBNSzBMCfCNi3BMCfCPDPKb2XSlYnYs6Xava_CNi3AKB7IYVfj4dHi3c3k5tXh28vWqJvf0sLdx7jFTkW-FgzPhnrtDDt4AAAADHRSTlMAQ5TN9_8P_____32wVEsRAAABr0lEQVR4AW1TCYKEIAxzpBlASzm0-P-fLqN47O7E24YmQDs88BoNAWTG1_AF7xGwzk-Td5Ywvv_GZw5eJH4gIj7w-DtO5FPMH0RpiMkTvR_pEfIZLpbILi1RwPuO25R3yKqVGVDJOdmLYYL0uK9hyosFr7ExAnV_lK-4S1MT452QI427APuuv9YtbdXJwtj_RM8fkVG7gUiaPHNJjrdDM4VPCvQEstU1KUJaq8Y-xKOtLy6BkCZuF0LMHYLXMFo53i2X5mBxjG1NnSJ2HIzrc2RMScNSQeBQuqwzgzne48S8SnUinoiQTxM0kD8IC4Is1ceYNhBLJ0zohAaR5nOSRVWfhFOiT2QtdUuBVC6JbrITOLCXpLCSL5OzvQkL69LyMco9zWOhOhROWlrwc6GGm65Bm7hYbJcFPDZLPsuo0owgdyTd9xvlGMCaRLJo9ddeHTU1I8d9823KkkO9p0VzLzmVRijAlAvVcsYlmKGDgsS8MLhWna64xV32pLm52-zmpes3LXp2l0FJ0nDaSwXmT-tBSz56r92LYh7-YgSCK94XF4Bx-IbXbAyRMfOz_X8AS30ssSxjjb4AAAAASUVORK5CYII.png",
+   "snippet": "Explore Bloomington's best restaurants, festivals, outdoor adventures and Indiana University attractions. Find trip ideas and start planning today.",
+   "snippet_highlighted_words": [
+    "Bloomington's"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Explore Bloomington's best restaurants, festivals, outdoor adventures and Indiana University attractions. Find trip ideas and start planning today.",
+     "source_info_link": "https://www.visitbloomington.com/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAASFBMVEVHcEzCOTDBNSzBMCfCNi3BMCfCPDPKb2XSlYnYs6Xava_CNi3AKB7IYVfj4dHi3c3k5tXh28vWqJvf0sLdx7jFTkW-FgzPhnrtDDt4AAAADHRSTlMAQ5TN9_8P_____32wVEsRAAABr0lEQVR4AW1TCYKEIAxzpBlASzm0-P-fLqN47O7E24YmQDs88BoNAWTG1_AF7xGwzk-Td5Ywvv_GZw5eJH4gIj7w-DtO5FPMH0RpiMkTvR_pEfIZLpbILi1RwPuO25R3yKqVGVDJOdmLYYL0uK9hyosFr7ExAnV_lK-4S1MT452QI427APuuv9YtbdXJwtj_RM8fkVG7gUiaPHNJjrdDM4VPCvQEstU1KUJaq8Y-xKOtLy6BkCZuF0LMHYLXMFo53i2X5mBxjG1NnSJ2HIzrc2RMScNSQeBQuqwzgzne48S8SnUinoiQTxM0kD8IC4Is1ceYNhBLJ0zohAaR5nOSRVWfhFOiT2QtdUuBVC6JbrITOLCXpLCSL5OzvQkL69LyMco9zWOhOhROWlrwc6GGm65Bm7hYbJcFPDZLPsuo0owgdyTd9xvlGMCaRLJo9ddeHTU1I8d9823KkkO9p0VzLzmVRijAlAvVcsYlmKGDgsS8MLhWna64xV32pLm52-zmpes3LXp2l0FJ0nDaSwXmT-tBSz56r92LYh7-YgSCK94XF4Bx-IbXbAyRMfOz_X8AS30ssSxjjb4AAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESWQHrOzAVRq5T9IbUrkmI3WyzZ-6brhSBjqjTkYkHkeDRQcVJIN8nR03Dcr78sz4Q7Jq-vBpui-hg6ydroNu23wM0DZsweSEfYyv_6Re8vJK5YgzIqTYJVtg4&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESWQHrOzAVRq5T9IbUrkmI3WyzZ-6brhSBjqjTkYkHkeDRQcVJIN8nR03Dcr78sz4Q7Jq-vBpui-hg6ydroNu23wM0DZsweSEfYyv_6Re8vJK5YgzIqTYJVtg4",
+   "source": "Visit Bloomington, IN"
+  },
+  {
+   "position": 4,
+   "title": "City of Bloomington, Indiana",
+   "link": "https://bloomington.in.gov/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUwHrOzAVLdnWJKJxuFIPfhCqP2Q7aleJduKloTVkmMcCx0FSuqZEyML93k4C-XhNkWykj8ZMABtJwE0mS6VpwP7ZqtkYs6eSBkzPZilmagiRdsSV&ved=2ahUKEwiG-anm5uSWAxXyIBAIHZ16C3AQFnoECD4QAQ&uoh=1",
+   "displayed_link": "https://bloomington.in.gov",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEVHcEwkRpgkRpgkRpgjRpgkRpgkRpgkRpgkRpgkRpgkRpgkRpgkRpgOFlrYAAAADXRSTlMAdbnfBw2u_9NZl0RIu1fJ_gAAAMBJREFUeAFcTyUCQkEQXVwKrglu8BsVbkClkaDiD4f2I64JCnIBPKOXYgdnX5onY-wBBWNm9oVSUvnedZCFtXk5qmFqRvCoxlogupQsxELxwNoLTEvpnJ3GAGtwlIAm2YE3TRNTASdwlAGJ08j-oEfShfpt3-PUCNRlsyKvByaUdiFPV8lIcmKNzQEzLUAx5qdJJFMINEsGmWQjzwQqhIVRwiLhDOFI8QXxQcP3ffN9mIHDIAgLuoloAYsR7GiRAgBSuGDTcsynAgAAAABJRU5ErkJggg.png",
+   "date": "3 hours ago",
+   "snippet": "You'll cherish the city's dynamic energy, spectacular scenery, outdoor activities, world-class educational opportunities, Big Ten sporting events, thriving ...",
+   "snippet_highlighted_words": [
+    "dynamic energy, spectacular scenery, outdoor activities, world-class educational opportunities"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "You'll cherish the city's dynamic energy, spectacular scenery, outdoor activities, world-class educational opportunities, Big Ten sporting events, thriving ...",
+     "source_info_link": "https://bloomington.in.gov/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEVHcEwkRpgkRpgkRpgjRpgkRpgkRpgkRpgkRpgkRpgkRpgkRpgkRpgOFlrYAAAADXRSTlMAdbnfBw2u_9NZl0RIu1fJ_gAAAMBJREFUeAFcTyUCQkEQXVwKrglu8BsVbkClkaDiD4f2I64JCnIBPKOXYgdnX5onY-wBBWNm9oVSUvnedZCFtXk5qmFqRvCoxlogupQsxELxwNoLTEvpnJ3GAGtwlIAm2YE3TRNTASdwlAGJ08j-oEfShfpt3-PUCNRlsyKvByaUdiFPV8lIcmKNzQEzLUAx5qdJJFMINEsGmWQjzwQqhIVRwiLhDOFI8QXxQcP3ffN9mIHDIAgLuoloAYsR7GiRAgBSuGDTcsynAgAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESUwHrOzAVLdnWJKJxuFIPfhCqP2Q7aleJduKloTVkmMcCx0FSuqZEyML93k4C-XhNkWykj8ZMABtJwE0mS6VpwP7ZqtkYs6eSBkzPZilmagiRdsSV&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESUwHrOzAVLdnWJKJxuFIPfhCqP2Q7aleJduKloTVkmMcCx0FSuqZEyML93k4C-XhNkWykj8ZMABtJwE0mS6VpwP7ZqtkYs6eSBkzPZilmagiRdsSV",
+   "source": "City of Bloomington, Indiana (.gov)",
+   "read_more_link": "https://bloomington.in.gov/#:~:text=You'll%20cherish%20the%20city's%20dynamic,unique%20shopping%20and%20dining%20experiences."
+  },
+  {
+   "position": 5,
+   "title": "City of Bloomington MN",
+   "link": "https://www.bloomingtonmn.gov/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVgHrOzAVnUOQtQUjkV2S8tencFZUwJEohcOQrkB7t5CKfz1buNjIlrt3pByMnc85s1eQHvn2fB7wa-VMzv9uCFbi_LS2xqtuXOoVvhf17h7rfiHPeymu&ved=2ahUKEwiG-anm5uSWAxXyIBAIHZ16C3AQFnoECHAQAQ&uoh=1",
+   "displayed_link": "https://www.bloomingtonmn.gov",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAmVBMVEX____t4sXKpDPSs1_dxovs4L7k0qXDmAD7-PC7iADn17HMqEG7xcwAJE0ANVcAMFTl06rVt2u_yM8AM1YAQmAAO1v28OAAQ2EAPV0AP16puMHm6uy3wskAKVBqhJWRo6_Y3uIALFEAN1hUc4fy9fZEZ30xW3Ps8PIdT2sAOltOb4R0jZwAGEaUp7OBlqQ3X3cnU27D0tkAEEM11jPgAAABLUlEQVR4AWKgCgDUNRcIDsJAAEVn3UKyJcNOAsG93t7_cBu0_nFe5On55fXtgb1_fMKjPr8eG3z_ADCHT4kL_F0AuBKnvAv8--iQxlDBRYu3c9S-H5zr67vLaVbuGDhvmDnF2UNEFT6cqWQUJ1eY4mBZXrDcvUSTK92ZKqESYt6T1WAroG5aiyJYesQnXIW8W6QbkQtCrEOaMGgyQieGeO3br41ESsSEfqqJsIFcYrqy39tWJKT1gB6SxWrXkh2-K2Dr6T2jXDAoyoaE1FY1daWunUmaH0gyMELtgkNuZUgOWPmcM2DSSfZp2eIFYuWm3UwyRupya3XClWcfh5Vj0SdCiyYb8dAj8niTgNnkikirCTO_Q6ttaMAcIym53CvJh5y1kMOLgcAYdj8T_APTgStz7Ua5cgAAAABJRU5ErkJggg.png",
+   "snippet": "As of August 4, Bloomington is in an area of moderate drought. However the Mississippi Headwaters, one source of Bloomington's drinking water, is in severe ...",
+   "snippet_highlighted_words": [
+    "Bloomington is in an area of moderate drought"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "As of August 4, Bloomington is in an area of moderate drought. However the Mississippi Headwaters, one source of Bloomington's drinking water, is in severe ...",
+     "source_info_link": "https://www.bloomingtonmn.gov/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAmVBMVEX____t4sXKpDPSs1_dxovs4L7k0qXDmAD7-PC7iADn17HMqEG7xcwAJE0ANVcAMFTl06rVt2u_yM8AM1YAQmAAO1v28OAAQ2EAPV0AP16puMHm6uy3wskAKVBqhJWRo6_Y3uIALFEAN1hUc4fy9fZEZ30xW3Ps8PIdT2sAOltOb4R0jZwAGEaUp7OBlqQ3X3cnU27D0tkAEEM11jPgAAABLUlEQVR4AWKgCgDUNRcIDsJAAEVn3UKyJcNOAsG93t7_cBu0_nFe5On55fXtgb1_fMKjPr8eG3z_ADCHT4kL_F0AuBKnvAv8--iQxlDBRYu3c9S-H5zr67vLaVbuGDhvmDnF2UNEFT6cqWQUJ1eY4mBZXrDcvUSTK92ZKqESYt6T1WAroG5aiyJYesQnXIW8W6QbkQtCrEOaMGgyQieGeO3br41ESsSEfqqJsIFcYrqy39tWJKT1gB6SxWrXkh2-K2Dr6T2jXDAoyoaE1FY1daWunUmaH0gyMELtgkNuZUgOWPmcM2DSSfZp2eIFYuWm3UwyRupya3XClWcfh5Vj0SdCiyYb8dAj8niTgNnkikirCTO_Q6ttaMAcIym53CvJh5y1kMOLgcAYdj8T_APTgStz7Ua5cgAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESVgHrOzAVnUOQtQUjkV2S8tencFZUwJEohcOQrkB7t5CKfz1buNjIlrt3pByMnc85s1eQHvn2fB7wa-VMzv9uCFbi_LS2xqtuXOoVvhf17h7rfiHPeymu&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESVgHrOzAVnUOQtQUjkV2S8tencFZUwJEohcOQrkB7t5CKfz1buNjIlrt3pByMnc85s1eQHvn2fB7wa-VMzv9uCFbi_LS2xqtuXOoVvhf17h7rfiHPeymu",
+   "source": "City of Bloomington MN (.gov)",
+   "read_more_link": "https://www.bloomingtonmn.gov/#:~:text=As%20of%20August%204%2C%20Bloomington,water%2C%20is%20in%20severe%20drought."
+  },
+  {
+   "position": 6,
+   "title": "Bloomington MN Travel & Tourism - Mall of America Hotels",
+   "link": "https://www.bloomingtonmn.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVgHrOzAV6TZx3wbGE7gvoGqsscRfKa1E8Gf5Sa0QPwHlCeVNp-BOR_qtsxsavyz5VdRvMcEWfpg0vObjr6gEGvFfGlyY6qV-kPn2I-OnSrkB7Dl2UuJ7&ved=2ahUKEwiG-anm5uSWAxXyIBAIHZ16C3AQFnoECD8QAQ&uoh=1",
+   "displayed_link": "https://www.bloomingtonmn.org",
+   "favicon": "https://serpapi.com/searches/6aa30c68f3fc7be6fb4f38ef/images/3aZLDc_GJaDrv6vfv3XiWICNVYEHfc9tSQ_FYVQXgV8.jpeg",
+   "date": "12 hours ago",
+   "snippet": "Located just ten minutes south of Minneapolis\u2013St. Paul and MSP Airport, the city of Bloomington, MN, is right in the middle of Twin Cities action. It's home to ...",
+   "snippet_highlighted_words": [
+    "Located just ten minutes south of Minneapolis\u2013St. Paul and MSP Airport"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Located just ten minutes south of Minneapolis\u2013St. Paul and MSP Airport, the city of Bloomington, MN, is right in the middle of Twin Cities action. It's home to ...",
+     "source_info_link": "https://www.bloomingtonmn.org/",
+     "icon": "https://serpapi.com/searches/6aa30c68f3fc7be6fb4f38ef/images/3aZLDc_GJaDrv6vfv3XiWKOPRPdV0CNtSzn3KFGq4Wtbklc5HrEbaeHUVMlxEdh7.jpeg"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESVgHrOzAV6TZx3wbGE7gvoGqsscRfKa1E8Gf5Sa0QPwHlCeVNp-BOR_qtsxsavyz5VdRvMcEWfpg0vObjr6gEGvFfGlyY6qV-kPn2I-OnSrkB7Dl2UuJ7&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESVgHrOzAV6TZx3wbGE7gvoGqsscRfKa1E8Gf5Sa0QPwHlCeVNp-BOR_qtsxsavyz5VdRvMcEWfpg0vObjr6gEGvFfGlyY6qV-kPn2I-OnSrkB7Dl2UuJ7",
+   "source": "Bloomington MN Travel & Tourism",
+   "read_more_link": "https://www.bloomingtonmn.org/#:~:text=Located%20just%20ten%20minutes%20south,hotels%20within%20the%20city%20limits."
+  },
+  {
+   "position": 7,
+   "title": "City of Bloomington, IN",
+   "link": "https://www.facebook.com/citybloomington/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYQHrOzAVAmg2pS2Es_zgiLElPKALOUAd7zScFokypPm2_SWjfS8Zn7zgSgxCbYwdfyX-2md2UqtXT1ZG6rWpmur3m1udCve1ofeK35DnL2DOmlGo8BpQse2e8DaKsDpySzE&ved=2ahUKEwiG-anm5uSWAxXyIBAIHZ16C3AQFnoECEAQAQ&uoh=1",
+   "displayed_link": "21K+ followers",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "snippet": "City of Bloomington, IN.",
+   "snippet_highlighted_words": [
+    "Bloomington"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "City of Bloomington, IN.",
+     "source_info_link": "https://www.facebook.com/citybloomington/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYQHrOzAVAmg2pS2Es_zgiLElPKALOUAd7zScFokypPm2_SWjfS8Zn7zgSgxCbYwdfyX-2md2UqtXT1ZG6rWpmur3m1udCve1ofeK35DnL2DOmlGo8BpQse2e8DaKsDpySzE&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYQHrOzAVAmg2pS2Es_zgiLElPKALOUAd7zScFokypPm2_SWjfS8Zn7zgSgxCbYwdfyX-2md2UqtXT1ZG6rWpmur3m1udCve1ofeK35DnL2DOmlGo8BpQse2e8DaKsDpySzE",
+   "source": "Facebook \u00b7 City of Bloomington, IN",
+   "read_more_link": "https://www.facebook.com/citybloomington/#:~:text=City%20of%20Bloomington%2C%20IN%20%F3%B1%A2%8F"
+  },
+  {
+   "position": 8,
+   "title": "Visit Bloomington Normal",
+   "link": "https://www.visitbn.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUAHrOzAVw4yRIhICAA8a2fOuT5q98tEmXPIbpVKmrxcF2NOG7phrReIFhzXi1_rqxiro3DmtLub0ZA7kOF-EXAWaNKLnbRy07avyVHMW1iyP&ved=2ahUKEwiG-anm5uSWAxXyIBAIHZ16C3AQFnoECDsQAQ&uoh=1",
+   "displayed_link": "https://www.visitbn.org",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAKlBMVEVHcEw1brY1brU1bbU1brU1brU2brU1bbU2bbQ1bbQ2brU2brU2brU1bbTEqZ-LAAAADnRSTlMAChqPxq5gU3Qx1_7uQy6Td-8AAACnSURBVHgBY6AfYBQUFASSIJYAkFB2cXFNYihpZGAQjgRyZ-1atWarQvcJBgbVsyDu2pnTVhd077oA5ToxMFgndJ92gnOZoi90h26Fco8aR51g6DZabQDh7t69-4RAt8GdvaJg7vKZc6MNug049lwFcxcxMKhs7DZgsF4CM3kWiCuyG8xdUZbh7QDkcq6GGbVlApDLUA3iqnV0tE1kmHGBgUG2iX4BBwBMD0JkYjXmgQAAAABJRU5ErkJggg.png",
+   "snippet": "A guide to things to see and do in Bloomington-Normal, Illinois. Visit BN, plan a meeting, or a sporting event, and find out what it is like to live in BN.",
+   "snippet_highlighted_words": [
+    "Bloomington"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "A guide to things to see and do in Bloomington-Normal, Illinois. Visit BN, plan a meeting, or a sporting event, and find out what it is like to live in BN.",
+     "source_info_link": "https://www.visitbn.org/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAKlBMVEVHcEw1brY1brU1bbU1brU1brU2brU1bbU2bbQ1bbQ2brU2brU2brU1bbTEqZ-LAAAADnRSTlMAChqPxq5gU3Qx1_7uQy6Td-8AAACnSURBVHgBY6AfYBQUFASSIJYAkFB2cXFNYihpZGAQjgRyZ-1atWarQvcJBgbVsyDu2pnTVhd077oA5ToxMFgndJ92gnOZoi90h26Fco8aR51g6DZabQDh7t69-4RAt8GdvaJg7vKZc6MNug049lwFcxcxMKhs7DZgsF4CM3kWiCuyG8xdUZbh7QDkcq6GGbVlApDLUA3iqnV0tE1kmHGBgUG2iX4BBwBMD0JkYjXmgQAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESUAHrOzAVw4yRIhICAA8a2fOuT5q98tEmXPIbpVKmrxcF2NOG7phrReIFhzXi1_rqxiro3DmtLub0ZA7kOF-EXAWaNKLnbRy07avyVHMW1iyP&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESUAHrOzAVw4yRIhICAA8a2fOuT5q98tEmXPIbpVKmrxcF2NOG7phrReIFhzXi1_rqxiro3DmtLub0ZA7kOF-EXAWaNKLnbRy07avyVHMW1iyP",
+   "source": "Visit Bloomington Normal"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Bloomington movie",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Bloomington+movie&sa=X&ved=2ahUKEwiG-anm5uSWAxXyIBAIHZ16C3AQ1QJ6BAhfEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Bloomington+movie"
+  },
+  {
+   "block_position": 1,
+   "query": "Bloomington, IL directions",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Bloomington,+IL+directions&sa=X&ved=2ahUKEwiG-anm5uSWAxXyIBAIHZ16C3AQ1QJ6BAhkEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Bloomington%2C+IL+directions"
+  },
+  {
+   "block_position": 1,
+   "query": "Bloomington restaurants",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Bloomington+restaurants&sa=X&ved=2ahUKEwiG-anm5uSWAxXyIBAIHZ16C3AQ1QJ6BAhlEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Bloomington+restaurants"
+  },
+  {
+   "block_position": 1,
+   "query": "Bloomington show",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Bloomington+show&sa=X&ved=2ahUKEwiG-anm5uSWAxXyIBAIHZ16C3AQ1QJ6BAhgEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Bloomington+show"
+  },
+  {
+   "block_position": 1,
+   "query": "Bloomington directions",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Bloomington+directions&sa=X&ved=2ahUKEwiG-anm5uSWAxXyIBAIHZ16C3AQ1QJ6BAhiEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Bloomington+directions"
+  },
+  {
+   "block_position": 1,
+   "query": "Bloomington sports",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Bloomington+sports&sa=X&ved=2ahUKEwiG-anm5uSWAxXyIBAIHZ16C3AQ1QJ6BAhhEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Bloomington+sports"
+  },
+  {
+   "block_position": 1,
+   "query": "Bloomington Store",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Bloomington+Store&sa=X&ved=2ahUKEwiG-anm5uSWAxXyIBAIHZ16C3AQ1QJ6BAhjEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Bloomington+Store"
+  },
+  {
+   "block_position": 1,
+   "query": "Bloomington IN which country",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Bloomington+IN+which+country&sa=X&ved=2ahUKEwiG-anm5uSWAxXyIBAIHZ16C3AQ1QJ6BAheEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Bloomington+IN+which+country"
+  }
+ ],
+ "things_to_know": {
+  "buttons": [
+   {
+    "text": "Things To Do",
+    "title": "THE 15 BEST Things to Do in Bloomington (2026) - Tripadvisor",
+    "link": "https://www.tripadvisor.com/Attractions-g36942-Activities-Bloomington_Indiana.html",
+    "displayed_link": "https://www.tripadvisor.com \u203a Attractions-g36942-Activi...",
+    "snippet": "Top Attractions in Bloomington",
+    "snippet_highlighted_words": [
+     "Top Attractions in Bloomington"
+    ],
+    "list": [
+     "Oliver Winery. (463) Wineries & Vineyards. ... ",
+     "Monroe Lake. (187) Bodies of Water. ... ",
+     "Indiana University Bloomington. (651) ... ",
+     "WonderLab. (239) ... ",
+     "Bloomington Community Farmers Market. (94) ... ",
+     "Buskirk-Chumley Theater. (77) ... ",
+     "Simon Skjodt Assembly Hall. (157) ... ",
+     "Tibetan Mongolian Buddhist Cultural Center. (78)"
+    ],
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAclBMVEUA61sA7VwA7lwA9V8A0VEA9l8Au0gAUB8AAAAAXCMAxUwAKA8A2lQAGgsAzU8AVCEAWCIAtUYAjDYA3lYAljoATB0AaCgA8V0Anj0AMxQApkAAkTgAbioAr0QAHAsARhsA41gAJA4AORYAoj4AFAgAHwyvKobeAAAAiElEQVR4AY1OAxYDQQydaDta277_FWs898eO-hsAvxESMRPhO5Lgom8wgRDcYnvznRfh8OZEt4zESZrpnHWRlpUoVTctdnk_xB2PMqWo6qrr9LxMul510Ge1qrPBb7s9jmgvMW5qBbluFjudp4vyTC_3M7nRejTDrnWZo7oBaqL6oQl-Xld_4wraYAfw6aZg0QAAAABJRU5ErkJggg.png",
+    "source": "tripadvisor.com",
+    "search_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=what+are+the+things+to+do+in+bloomington&sa=X&ved=2ahUKEwiG-anm5uSWAxXyIBAIHZ16C3AQrooIegQIShAO",
+    "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=what+are+the+things+to+do+in+bloomington"
+   },
+   {
+    "text": "County",
+    "title": "Bloomington Indiana \u2013 Community Information",
+    "link": "https://www.visitbloomington.com/about-us/community/#:~:text=Located%20an%20hour%20south%20of,visitors%20and%20locals%20to%20enjoy.",
+    "displayed_link": "https://www.visitbloomington.com \u203a about-us \u203a commun...",
+    "snippet": "Located an hour south of Indianapolis, Bloomington is the largest town in Monroe County, offering an eclectic assortment of attractions, special events, dining establishments, stores, outdoor activities, accommodations, and more for both visitors and locals to enjoy.",
+    "snippet_highlighted_words": [
+     "Monroe County"
+    ],
+    "answer": "Monroe County",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAXVBMVEVHcEy_HBHLd2zh3MzMe3C-DQDCNSy2AADIX1W-FQjj4tHi38_g1cXcxbbj49Pk6NfOhXrRj4Pava_AKB7DPTPTnI_KbmTeyrvPi3_UopXERTzHXFLXsaO-EAbGU0kKJ1YBAAAACnRSTlMAn_P__YrNGNWUSjvM_gAAALBJREFUGJU1j9kWwyAIRG0wVUHiFrMn__-ZRdvy4nG4DINSUsZZra0z6lev5HEKAdLr-38zAubnXgK_e58JsEa_3p5YGLMhUNb76YuAyajRA9BMZT1XAvBOWQGqvtJ8VGmhVYMIsSbG4xYCdROAJs1LLFMXZETeuFB9sI80U-ByhXNvpqMyUbbNnvPRgE3iu4xroWtu69n16DksR2xO3-jCRB8mRL-5_7lmtMNgx37-B0UcCdN7FyxRAAAAAElFTkSuQmCC.png",
+    "source": "visitbloomington.com",
+    "search_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=what+county+is+bloomington+in&sa=X&ved=2ahUKEwiG-anm5uSWAxXyIBAIHZ16C3AQrooIegQIShAc",
+    "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=what+county+is+bloomington+in"
+   },
+   {
+    "text": "Colleges",
+    "title": "THE BEST 10 Colleges & Universities in BLOOMINGTON, IN - Yelp",
+    "link": "https://m.yelp.com/search?cflt=collegeuniv&find_loc=Bloomington%2C+IN",
+    "displayed_link": "https://m.yelp.com \u203a search",
+    "snippet": "Top 10 Best Colleges & Universities Near Bloomington, Indiana - With Real Reviews",
+    "snippet_highlighted_words": [
+     "Top 10 Best Colleges & Universities Near Bloomington, Indiana - With Real Reviews"
+    ],
+    "list": [
+     "Indiana University. 4.1 (38 reviews) ... ",
+     "Ivy Tech Community College. 3.4 (11 reviews) ... ",
+     "Indiana University - Bloomington. ... ",
+     "Kelley School of Business. ... ",
+     "Indiana University. ... ",
+     "Bryan Hollow Grove. ... ",
+     "Wendell Wright School of Education. ... ",
+     "Indiana University."
+    ],
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACXUlEQVR4AXSNQ6DYABBEc6xt27Zt27Zt27Zt23Zvtf-9NoN9zdScePe9ifNnaDExN-2nLqL7gnv0Weqiq_v8e5pp5_wv1O8dmQbDl9J8rNFmMnSeRSiiS--aaSdG7O9y4d6RrVrvM9QZDI1HQttJsGAH7DiNDVz8VW4xHu3EiJXjfE9QptNSq9QTq9kP6g7BDp7ne4LNR6H5mK9yvSGIsco9kfPt7y1yW4k2ZmU7Y1W-lviTlv8sWLMP6g9Hf9ZOjFg5ch0KNF5kRVpiJdt9Xai9ag-C2xEowfzNodgXazcWazsGMWLlBKHrWK5a9yx_Iw3UipXugJXritdjIoo_cTlBx3Hw7BU8ekZQoeNXVk6u2vccy1bJDUvCQUOCal2xa_ewVbsJWg7FW7QRr_ckePICFM_Db9wPsXLkOpaxlGtZK2I5a-B3HgXf4_kEA2fg1-2FO38dbqcRuEUbYbnrIFaOXMfSFLpnGUpimcvhl2iAt3kP7tg5fGrQHX_6Cvyuo7Grd7BuY7BcoZi9CmLlyHVInnsRqQpg6YqqEctUBstSgWDaUjDDrdQce_IMAsNOXQ73IZO2KHLkOiTJkpuk2YwUucNh_rC1MEH1VvDxE5jh562MN3wySnDqPJYqH2LlyHUU4qdbSqKMkCQrJMuB37Ad9uo1fPhIkDo_QSh5PQbhp82HGLFynO_BSRaZOCnOEC81JEgHCTPgp8iGl6MoJM4cCpk0C3dpESNWjtzfS2ImXhpeRuxkIZT890sz7cRI_l-IEj83n8cjNOM_j_Ct_9zCv0AYxAaJgeTQ1QMAUyFRwxnADZIAAAAASUVORK5CYII.png",
+    "source": "yelp.com",
+    "search_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=what+are+the+colleges+in+bloomington&sa=X&ved=2ahUKEwiG-anm5uSWAxXyIBAIHZ16C3AQrooIegQIShAq",
+    "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=what+are+the+colleges+in+bloomington"
+   }
+  ]
+ },
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=bloomington&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=dAyjaobvFfLBwPAPnfWtgAc&start=10&sa=N&sstk=AS6-VmLS1gsErIO4j2fkO9aw5nzD-psFUFo3wgLAqALvk0XY1iyOPnuz_-jeVK8FwpDKbhT3ELZs2vQ2yZ7Ep3aX2_lqMHdlX3CaZw&ved=2ahUKEwiG-anm5uSWAxXyIBAIHZ16C3AQ8NMDegQIVBAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=bloomington&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=dAyjaobvFfLBwPAPnfWtgAc&start=10&sa=N&sstk=AS6-VmLS1gsErIO4j2fkO9aw5nzD-psFUFo3wgLAqALvk0XY1iyOPnuz_-jeVK8FwpDKbhT3ELZs2vQ2yZ7Ep3aX2_lqMHdlX3CaZw&ved=2ahUKEwiG-anm5uSWAxXyIBAIHZ16C3AQ8tMDegQIVBAE",
+   "3": "https://www.google.com/search?q=bloomington&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=dAyjaobvFfLBwPAPnfWtgAc&start=20&sa=N&sstk=AS6-VmLS1gsErIO4j2fkO9aw5nzD-psFUFo3wgLAqALvk0XY1iyOPnuz_-jeVK8FwpDKbhT3ELZs2vQ2yZ7Ep3aX2_lqMHdlX3CaZw&ved=2ahUKEwiG-anm5uSWAxXyIBAIHZ16C3AQ8tMDegQIVBAG",
+   "4": "https://www.google.com/search?q=bloomington&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=dAyjaobvFfLBwPAPnfWtgAc&start=30&sa=N&sstk=AS6-VmLS1gsErIO4j2fkO9aw5nzD-psFUFo3wgLAqALvk0XY1iyOPnuz_-jeVK8FwpDKbhT3ELZs2vQ2yZ7Ep3aX2_lqMHdlX3CaZw&ved=2ahUKEwiG-anm5uSWAxXyIBAIHZ16C3AQ8tMDegQIVBAI",
+   "5": "https://www.google.com/search?q=bloomington&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=dAyjaobvFfLBwPAPnfWtgAc&start=40&sa=N&sstk=AS6-VmLS1gsErIO4j2fkO9aw5nzD-psFUFo3wgLAqALvk0XY1iyOPnuz_-jeVK8FwpDKbhT3ELZs2vQ2yZ7Ep3aX2_lqMHdlX3CaZw&ved=2ahUKEwiG-anm5uSWAxXyIBAIHZ16C3AQ8tMDegQIVBAK",
+   "6": "https://www.google.com/search?q=bloomington&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=dAyjaobvFfLBwPAPnfWtgAc&start=50&sa=N&sstk=AS6-VmLS1gsErIO4j2fkO9aw5nzD-psFUFo3wgLAqALvk0XY1iyOPnuz_-jeVK8FwpDKbhT3ELZs2vQ2yZ7Ep3aX2_lqMHdlX3CaZw&ved=2ahUKEwiG-anm5uSWAxXyIBAIHZ16C3AQ8tMDegQIVBAM",
+   "7": "https://www.google.com/search?q=bloomington&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=dAyjaobvFfLBwPAPnfWtgAc&start=60&sa=N&sstk=AS6-VmLS1gsErIO4j2fkO9aw5nzD-psFUFo3wgLAqALvk0XY1iyOPnuz_-jeVK8FwpDKbhT3ELZs2vQ2yZ7Ep3aX2_lqMHdlX3CaZw&ved=2ahUKEwiG-anm5uSWAxXyIBAIHZ16C3AQ8tMDegQIVBAO",
+   "8": "https://www.google.com/search?q=bloomington&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=dAyjaobvFfLBwPAPnfWtgAc&start=70&sa=N&sstk=AS6-VmLS1gsErIO4j2fkO9aw5nzD-psFUFo3wgLAqALvk0XY1iyOPnuz_-jeVK8FwpDKbhT3ELZs2vQ2yZ7Ep3aX2_lqMHdlX3CaZw&ved=2ahUKEwiG-anm5uSWAxXyIBAIHZ16C3AQ8tMDegQIVBAQ",
+   "9": "https://www.google.com/search?q=bloomington&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=dAyjaobvFfLBwPAPnfWtgAc&start=80&sa=N&sstk=AS6-VmLS1gsErIO4j2fkO9aw5nzD-psFUFo3wgLAqALvk0XY1iyOPnuz_-jeVK8FwpDKbhT3ELZs2vQ2yZ7Ep3aX2_lqMHdlX3CaZw&ved=2ahUKEwiG-anm5uSWAxXyIBAIHZ16C3AQ8tMDegQIVBAS",
+   "10": "https://www.google.com/search?q=bloomington&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=dAyjaobvFfLBwPAPnfWtgAc&start=90&sa=N&sstk=AS6-VmLS1gsErIO4j2fkO9aw5nzD-psFUFo3wgLAqALvk0XY1iyOPnuz_-jeVK8FwpDKbhT3ELZs2vQ2yZ7Ep3aX2_lqMHdlX3CaZw&ved=2ahUKEwiG-anm5uSWAxXyIBAIHZ16C3AQ8tMDegQIVBAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=bloomington&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=bloomington&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=bloomington&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=bloomington&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=bloomington&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=bloomington&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=bloomington&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=bloomington&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=bloomington&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=bloomington&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=bloomington&start=90"
+  }
+ }
+}

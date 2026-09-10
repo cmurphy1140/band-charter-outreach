@@ -1,0 +1,344 @@
+{
+ "search_information": {
+  "query_displayed": "\"Colony High School\"",
+  "total_results": 345000,
+  "time_taken_displayed": 0.37,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "ai_overview": {
+  "page_token": "1ickUXiczVXbcqpIFP2A-Y7Dy4kCiiamijrV3ZKIxiQEiKMvFLSkQcA2gHL0bWp-Zb5qvmYa0ARvyeQ8TM2ugr6wL4vde_X-46_Qnwd___anl6aL5JrnsyyrE0pJ6NYxjXg7Wc8x_0LDJMbej4QuY-z6Uxl7MY1cjoTyMuG8UHbn3HolNzmcyALn-rIHGjN74aQ3ajy5tMxHYWgHay3gCney5diJO2PRfs4S3uLZK_jW7LJFPam78_rTJCY41oyX2rDeEMRO_YG3I6YA_jNBQAOEvZFWLM7K7b9zRwhQAOhX_Jc-lYpKvtCAQmC5htppV5rKVPMRaKhE1s02tbHDJnap0c0_nhZU_QBJoQdh4Q_oEJw3PCklUkS2vj_UVU7uoqqDXIafmjCM430UKkCP2TbFx0hUoKh7iLUyCIEZmGUvRFEU-AFulhAzg61BbvGBGpOBphrZFsKwO2KB-SlhRSvwTswGkfexh4tJnOS1jIyOQHsPK4hJ1Lm_coNXZyTetMyRb0_Smu0CHjtML6T21J1aniX8KNZiQ2wJnebl1UVBIpy8sSipsmgRSejSmiAxvarf1aG4oxDKM3KcJZZttkYqOBa4LbOTB6yC3WEobwlmuyqqpMvcjh6AVMvrtuIbUA0XCdvtuEX94vcjeYeURzim0CG0nEKFESxDwyq8nQoh8IQpE3z0h0dVyOJm5Ywcsl87qCRFQ0E1RLb3lYHUPSVPVM6AZ6yUAA6rUdmZazu8JD_EXd7fnGtbuBUK-STPOgtLdKbY18ggV4dvZwC3Pwf7h8T3D_-6kBvmD47Vr90SW1E_uSBKnR1XDkq_SpkbO3x-NBQPjKSuL9xnnSUN9Z4loeSOnKYIjZwvdBr8fyKRv-tD5tb2DIncfPI5iQi77s72oXL63odKEkHtDInUkkQn-pBbalT60CGJkF4h0Sd96KskQh-SqLyMTpIod3CKRMEZEm37UIVE-n4f2iPRWx96J9Gv9CH0S32o4JRbDvtNaTkjZ5uTEliGZaDncL6ZBbGDo9WSiipd9-xF9mlzeonS68iehheWP72GjX66nl5YbINeu1PuVf7WaCAa0vn6e88n3ncde5SGbJOLwpjKgt1K5qTpgtpGqg31ttP3bsWWP7Em3kK_E_zGcD14aqxaIRBr0037lf6cPWzQ00ZshxIK7tc4Hagb40G5fx2GOk3FlfB7ZnYulwQZGHfN9rqGJbVh61e929lyJEjDthlcvU4Mqbvsx7dOBk1vHOhobHaaRt_otTxzRgpkiZwMHiOa2q1RALgoxjICqhSAew3cElZ3aMzowOoZUfZk7GkDTYFcgm3LTVay0HReXJYkjJ1pR2qIXETS9UKWJC6Zx7L4D3KnRGM",
+  "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=1ickUXiczVXbcqpIFP2A-Y7Dy4kCiiamijrV3ZKIxiQEiKMvFLSkQcA2gHL0bWp-Zb5qvmYa0ARvyeQ8TM2ugr6wL4vde_X-46_Qnwd___anl6aL5JrnsyyrE0pJ6NYxjXg7Wc8x_0LDJMbej4QuY-z6Uxl7MY1cjoTyMuG8UHbn3HolNzmcyALn-rIHGjN74aQ3ajy5tMxHYWgHay3gCney5diJO2PRfs4S3uLZK_jW7LJFPam78_rTJCY41oyX2rDeEMRO_YG3I6YA_jNBQAOEvZFWLM7K7b9zRwhQAOhX_Jc-lYpKvtCAQmC5htppV5rKVPMRaKhE1s02tbHDJnap0c0_nhZU_QBJoQdh4Q_oEJw3PCklUkS2vj_UVU7uoqqDXIafmjCM430UKkCP2TbFx0hUoKh7iLUyCIEZmGUvRFEU-AFulhAzg61BbvGBGpOBphrZFsKwO2KB-SlhRSvwTswGkfexh4tJnOS1jIyOQHsPK4hJ1Lm_coNXZyTetMyRb0_Smu0CHjtML6T21J1aniX8KNZiQ2wJnebl1UVBIpy8sSipsmgRSejSmiAxvarf1aG4oxDKM3KcJZZttkYqOBa4LbOTB6yC3WEobwlmuyqqpMvcjh6AVMvrtuIbUA0XCdvtuEX94vcjeYeURzim0CG0nEKFESxDwyq8nQoh8IQpE3z0h0dVyOJm5Ywcsl87qCRFQ0E1RLb3lYHUPSVPVM6AZ6yUAA6rUdmZazu8JD_EXd7fnGtbuBUK-STPOgtLdKbY18ggV4dvZwC3Pwf7h8T3D_-6kBvmD47Vr90SW1E_uSBKnR1XDkq_SpkbO3x-NBQPjKSuL9xnnSUN9Z4loeSOnKYIjZwvdBr8fyKRv-tD5tb2DIncfPI5iQi77s72oXL63odKEkHtDInUkkQn-pBbalT60CGJkF4h0Sd96KskQh-SqLyMTpIod3CKRMEZEm37UIVE-n4f2iPRWx96J9Gv9CH0S32o4JRbDvtNaTkjZ5uTEliGZaDncL6ZBbGDo9WSiipd9-xF9mlzeonS68iehheWP72GjX66nl5YbINeu1PuVf7WaCAa0vn6e88n3ncde5SGbJOLwpjKgt1K5qTpgtpGqg31ttP3bsWWP7Em3kK_E_zGcD14aqxaIRBr0037lf6cPWzQ00ZshxIK7tc4Hagb40G5fx2GOk3FlfB7ZnYulwQZGHfN9rqGJbVh61e929lyJEjDthlcvU4Mqbvsx7dOBk1vHOhobHaaRt_otTxzRgpkiZwMHiOa2q1RALgoxjICqhSAew3cElZ3aMzowOoZUfZk7GkDTYFcgm3LTVay0HReXJYkjJ1pR2qIXETS9UKWJC6Zx7L4D3KnRGM"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Colony High School - Home",
+   "link": "https://cohs.cjuhsd.net/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUAHrOzAVT2yy0WcstbfwAONxkOHzZu5jyA5cXs-1_7oOYspl6Ch3TIbcQb20jzL0f5QbVa4ziWsrKpNGbU9VHS5usfHVjkC8PNhW_g29vVaT&ved=2ahUKEwiWv4Lo5-SWAxWK7LsIHVAjKZkQFnoECB8QAQ&uoh=1",
+   "displayed_link": "https://cohs.cjuhsd.net",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAAB4AAAAgCAMAAAAynjhNAAAAclBMVEVHcEyXmJgSCVgRCFgSBVhBPW3DwsoYDloUClsXDFgEAE9mY4fx8fLe3t9aVn-oqK_Ly9C5uMWIh5b____S0tTj4-SVlZegoaHo6Or4-PnZ2duwr7sXDFlPS3cXDFmcmrCAfZtzcJExK2YGBFAAAE9jXoka0oZuAAAAJnRSTlMAgid7wfz_6WH_________________________4P-0_____I48xD1yI0gAAAICSURBVHgBdZMHYqswEERxkYh6GQkkEar973_FL2zSk6XvY3ZUm69xOjV_xflyJZS218v5F_jSMsaFVIQz1r58V7aMc66NdV7UF9aev0irUlsoaoOMsLpW-FTgwjgLEuiM7b1FQqiJy4eWE1iXfSeR-s4EWjLhb_rzTh1VxrmedmkwQ6IJlT_9XxnPkNagjwkKJsCUgMzZ61HaAtEBIUYUFAu4CNBn-Vc-AtkAKBWregctQwZGXuXnh3inUNTX1qnoSkkDYHf32ilA0h33vaKq75xJsLt879zEBeB26oNUNklpvJGgNSX4VK3nA9OKbJZS0aFqDTBXc8bdgVWNoKKStkfGnuWsYnrgYmkJJQQVTHykatc-1NHaoooKsQTT00P97h1sijEVGVUKA3JxD-9nyylShq3PvawMfdlTj5ZfOAcyhXS2dH3f9SVZY4o9-n0eNQVoVrLvQs6yGg94tkzvc9b6EfDjYJZBuGFU3q9-0R7Qot1nTI8OPA_o5voPE4tfk4gcTpPHgmiXMfOyzn4gxjC7UreNludtbXda3VcS5uRmOhg5SDrPkZqiV3Ks1ovYdH6MG6XBFtTIZNXva_G2CubwKRxfyG0nB9fLSNw71NsyVu1H3MkoBB-XeV4EX_Wy3b9to8s2Luu6eb2IjbxLP1e4XbeNkH-3e9M0TdM0TdP8B4gPM-6lCeZvAAAAAElFTkSuQmCC.png",
+   "snippet": "Colony High School prioritizes cultural proficiency, self-reflection, and innovative research-based instructional practices, utilizing technology and ...",
+   "snippet_highlighted_words": [
+    "Colony High School"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "Bell Schedule",
+      "link": "https://cohs.cjuhsd.net/bellschedule",
+      "snippet": "Preview unavailable. Click here to view 2026-2027 COHS ..."
+     },
+     {
+      "title": "AP/Honors/GATE",
+      "link": "https://cohs.cjuhsd.net/aphonorsgate",
+      "snippet": "Colony High School. Home of the Titans. District. Schools. Home ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Colony High School prioritizes cultural proficiency, self-reflection, and innovative research-based instructional practices, utilizing technology and ...",
+     "source_info_link": "https://cohs.cjuhsd.net/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAAB4AAAAgCAMAAAAynjhNAAAAclBMVEVHcEyXmJgSCVgRCFgSBVhBPW3DwsoYDloUClsXDFgEAE9mY4fx8fLe3t9aVn-oqK_Ly9C5uMWIh5b____S0tTj4-SVlZegoaHo6Or4-PnZ2duwr7sXDFlPS3cXDFmcmrCAfZtzcJExK2YGBFAAAE9jXoka0oZuAAAAJnRSTlMAgid7wfz_6WH_________________________4P-0_____I48xD1yI0gAAAICSURBVHgBdZMHYqswEERxkYh6GQkkEar973_FL2zSk6XvY3ZUm69xOjV_xflyJZS218v5F_jSMsaFVIQz1r58V7aMc66NdV7UF9aev0irUlsoaoOMsLpW-FTgwjgLEuiM7b1FQqiJy4eWE1iXfSeR-s4EWjLhb_rzTh1VxrmedmkwQ6IJlT_9XxnPkNagjwkKJsCUgMzZ61HaAtEBIUYUFAu4CNBn-Vc-AtkAKBWregctQwZGXuXnh3inUNTX1qnoSkkDYHf32ilA0h33vaKq75xJsLt879zEBeB26oNUNklpvJGgNSX4VK3nA9OKbJZS0aFqDTBXc8bdgVWNoKKStkfGnuWsYnrgYmkJJQQVTHykatc-1NHaoooKsQTT00P97h1sijEVGVUKA3JxD-9nyylShq3PvawMfdlTj5ZfOAcyhXS2dH3f9SVZY4o9-n0eNQVoVrLvQs6yGg94tkzvc9b6EfDjYJZBuGFU3q9-0R7Qot1nTI8OPA_o5voPE4tfk4gcTpPHgmiXMfOyzn4gxjC7UreNludtbXda3VcS5uRmOhg5SDrPkZqiV3Ks1ovYdH6MG6XBFtTIZNXva_G2CubwKRxfyG0nB9fLSNw71NsyVu1H3MkoBB-XeV4EX_Wy3b9to8s2Luu6eb2IjbxLP1e4XbeNkH-3e9M0TdM0TdP8B4gPM-6lCeZvAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESUAHrOzAVT2yy0WcstbfwAONxkOHzZu5jyA5cXs-1_7oOYspl6Ch3TIbcQb20jzL0f5QbVa4ziWsrKpNGbU9VHS5usfHVjkC8PNhW_g29vVaT&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESUAHrOzAVT2yy0WcstbfwAONxkOHzZu5jyA5cXs-1_7oOYspl6Ch3TIbcQb20jzL0f5QbVa4ziWsrKpNGbU9VHS5usfHVjkC8PNhW_g29vVaT",
+   "source": "Colony High School"
+  },
+  {
+   "position": 2,
+   "title": "Colony High School: Home",
+   "link": "https://chs.matsuk12.us/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUAHrOzAVw-Q9iuulQtKCx_YrK4N0Lh3HtwJaEbGL57ji3Ljz4jA7UZfGx5o6Zlkv1WwbayCBAmqCga_kMDtOj-UqQzTGbezAOJenx5jJWPGB&ved=2ahUKEwiWv4Lo5-SWAxWK7LsIHVAjKZkQFnoECBUQAQ&uoh=1",
+   "displayed_link": "https://chs.matsuk12.us",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAIE0AIU8AIU8AIlEAIlEAIU0AIlAAIE0AIlEAIU8AIE4AIU4AIE4AIE0AIVAAIVAXbpZQAAAAEXRSTlMAPHWZp8D__xzXhF1ECzCz7nLyUowAAAFZSURBVHgBfdMFksQgFATQxrpxuP9lR2JFdlL7SnDnY2Ws895Zg0cmUAeG3z4xSQq51FpykJQibqwo-1jceSnjJkv-1l4BNFwq-tLDShE2ohTsoqQeJXsV-5HDbpBM6NJekbiv37wK0JOFIxmAzIQPIwElAyJVoziBqRkBSAZAUIGV8uSH-JHasV-rAIAsFG_OxSECRhR_pLzNEWRgxSfKvaNnWTg-UgwuOk8Hvy79wd00mmNO-qWDcq21hH1P7ljaw3EkfiQXsWsmJ7rMjYOVxYOWt5lkYTRtXrmNgbUoQwYg_Zfz7ss7fMURUgqBBBDW7WtgURT2x6rlQyRVADU4j41klufO5IxAoUWaba9Jtw-zTR-dsg8pA9uHWb5cVzkKGW7rKtnl0xbN0rYOxsG7BvP3W9vulQpQUHpsPa_te6TMApPOdSZlf0OPI6mY59A7gpd8Dt7_wv8NcvcQotMyg-0AAAAASUVORK5CYII.png",
+   "snippet": "MISSION: Colony High School cultivates learning and personal growth in students producing active and responsible citizens. CORE VALUES: Integrity ...",
+   "snippet_highlighted_words": [
+    "Colony High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "MISSION: Colony High School cultivates learning and personal growth in students producing active and responsible citizens. CORE VALUES: Integrity ...",
+     "source_info_link": "https://chs.matsuk12.us/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAIE0AIU8AIU8AIlEAIlEAIU0AIlAAIE0AIlEAIU8AIE4AIU4AIE4AIE0AIVAAIVAXbpZQAAAAEXRSTlMAPHWZp8D__xzXhF1ECzCz7nLyUowAAAFZSURBVHgBfdMFksQgFATQxrpxuP9lR2JFdlL7SnDnY2Ws895Zg0cmUAeG3z4xSQq51FpykJQibqwo-1jceSnjJkv-1l4BNFwq-tLDShE2ohTsoqQeJXsV-5HDbpBM6NJekbiv37wK0JOFIxmAzIQPIwElAyJVoziBqRkBSAZAUIGV8uSH-JHasV-rAIAsFG_OxSECRhR_pLzNEWRgxSfKvaNnWTg-UgwuOk8Hvy79wd00mmNO-qWDcq21hH1P7ljaw3EkfiQXsWsmJ7rMjYOVxYOWt5lkYTRtXrmNgbUoQwYg_Zfz7ss7fMURUgqBBBDW7WtgURT2x6rlQyRVADU4j41klufO5IxAoUWaba9Jtw-zTR-dsg8pA9uHWb5cVzkKGW7rKtnl0xbN0rYOxsG7BvP3W9vulQpQUHpsPa_te6TMApPOdSZlf0OPI6mY59A7gpd8Dt7_wv8NcvcQotMyg-0AAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESUAHrOzAVw-Q9iuulQtKCx_YrK4N0Lh3HtwJaEbGL57ji3Ljz4jA7UZfGx5o6Zlkv1WwbayCBAmqCga_kMDtOj-UqQzTGbezAOJenx5jJWPGB&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESUAHrOzAVw-Q9iuulQtKCx_YrK4N0Lh3HtwJaEbGL57ji3Ljz4jA7UZfGx5o6Zlkv1WwbayCBAmqCga_kMDtOj-UqQzTGbezAOJenx5jJWPGB",
+   "source": "Mat-Su Borough School District",
+   "read_more_link": "https://chs.matsuk12.us/#:~:text=MISSION%3A%20Colony%20High%20School%20cultivates,Integrity%20*%20Accountability%20*%20Resilience"
+  },
+  {
+   "position": 3,
+   "title": "The Colony High School: Home",
+   "link": "https://tchs.lisd.net/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTgHrOzAV3CEnz1Ht7viEMS1B5maumJTrX6bIJyRVrpqJWqteuM_OQvP9KcyeuMd-WQLsaqQ4nErV-MRd59Gmg1QBVAm3cfORYBZN1lpgew&ved=2ahUKEwiWv4Lo5-SWAxWK7LsIHVAjKZkQFnoECBYQAQ&uoh=1",
+   "displayed_link": "https://tchs.lisd.net",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAsVBMVEX____8-e_67cr9-_P689z88tb56Lf44aX89eL568P203r54J714arouzzlsBHtxFb89-n225P147TltS_uy3Py2ZntyWj26Lr_-uLz9fa1w9SNoryAl7NphqczUoF1kbDa4ujR2-Wmtsvp7fLQ1d8dQ3i6xtXCzdkHQHkAD2A8X4uElK0AF2IAN3RkeZseTICgssYAOnVbbpIALWw0XYsAHWV0h6UAKGpNb5eisMIAG2UUeCxWAAAA60lEQVR4AbzORQHAMAAEsCszk3-nE1B4LgqC_xA8UMI4boRUGjfGOpwx7kNMDCe5VCJa9-fomBrzHJaU1oyFI0fZJ5C92CUlAK3LtQHEQBADwC3jmMnM2H9fD5kptEKNhAlllDwjF5IopYm6kxHmXmL9XyomtbJgnTv9tJeAA4shZXkosrIyRxQMDGWqTnXTFl1eeXVEblz0pE_R2UJEOtATYohDrIec2mK0uJRHlPBHnaaO_hCyB7TQDvMPzUKPKLikVehX081FWiuvjzhNDR-2eSkbU-xLdziCNdtm4mbVVhAct43AYzC8ky_A0R3lEHYaEAAAAABJRU5ErkJggg.png",
+   "snippet": "Welcome to the Cougar Family ... Welcome to The Colony High School, where tradition meets a bright future. Since 1986, TCHS has been the heart of our community.",
+   "snippet_highlighted_words": [
+    "Colony High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Welcome to the Cougar Family ... Welcome to The Colony High School, where tradition meets a bright future. Since 1986, TCHS has been the heart of our community.",
+     "source_info_link": "https://tchs.lisd.net/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAsVBMVEX____8-e_67cr9-_P689z88tb56Lf44aX89eL568P203r54J714arouzzlsBHtxFb89-n225P147TltS_uy3Py2ZntyWj26Lr_-uLz9fa1w9SNoryAl7NphqczUoF1kbDa4ujR2-Wmtsvp7fLQ1d8dQ3i6xtXCzdkHQHkAD2A8X4uElK0AF2IAN3RkeZseTICgssYAOnVbbpIALWw0XYsAHWV0h6UAKGpNb5eisMIAG2UUeCxWAAAA60lEQVR4AbzORQHAMAAEsCszk3-nE1B4LgqC_xA8UMI4boRUGjfGOpwx7kNMDCe5VCJa9-fomBrzHJaU1oyFI0fZJ5C92CUlAK3LtQHEQBADwC3jmMnM2H9fD5kptEKNhAlllDwjF5IopYm6kxHmXmL9XyomtbJgnTv9tJeAA4shZXkosrIyRxQMDGWqTnXTFl1eeXVEblz0pE_R2UJEOtATYohDrIec2mK0uJRHlPBHnaaO_hCyB7TQDvMPzUKPKLikVehX081FWiuvjzhNDR-2eSkbU-xLdziCNdtm4mbVVhAct43AYzC8ky_A0R3lEHYaEAAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESTgHrOzAV3CEnz1Ht7viEMS1B5maumJTrX6bIJyRVrpqJWqteuM_OQvP9KcyeuMd-WQLsaqQ4nErV-MRd59Gmg1QBVAm3cfORYBZN1lpgew&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESTgHrOzAV3CEnz1Ht7viEMS1B5maumJTrX6bIJyRVrpqJWqteuM_OQvP9KcyeuMd-WQLsaqQ4nErV-MRd59Gmg1QBVAm3cfORYBZN1lpgew",
+   "source": "The Colony High School",
+   "read_more_link": "https://tchs.lisd.net/#:~:text=Welcome%20to%20the%20Cougar%20Family&text=Welcome%20to%20The%20Colony%20High,the%20heart%20of%20our%20community."
+  },
+  {
+   "position": 4,
+   "title": "Athletics / Sports",
+   "link": "https://chs.matsuk12.us/athletics/athletics-sports",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESagHrOzAV35E3OnqRwysh-5o7iFlweTUuA97657sMGYaz2e5L6YCJTDnScP_JmCwoKWeCqKrXYjjUzXO7SWfisGSoyie-tLcv6By8Zk_xqXxbaQ4d2v68-5BezQtIkSSHDb6Iq7VS6r13M38&ved=2ahUKEwiWv4Lo5-SWAxWK7LsIHVAjKZkQFnoECBcQAQ&uoh=1",
+   "displayed_link": "https://chs.matsuk12.us \u203a athletics \u203a athletics-sports",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAIE0AIU8AIU8AIlEAIlEAIU0AIlAAIE0AIlEAIU8AIE4AIU4AIE4AIE0AIVAAIVAXbpZQAAAAEXRSTlMAPHWZp8D__xzXhF1ECzCz7nLyUowAAAFZSURBVHgBfdMFksQgFATQxrpxuP9lR2JFdlL7SnDnY2Ws895Zg0cmUAeG3z4xSQq51FpykJQibqwo-1jceSnjJkv-1l4BNFwq-tLDShE2ohTsoqQeJXsV-5HDbpBM6NJekbiv37wK0JOFIxmAzIQPIwElAyJVoziBqRkBSAZAUIGV8uSH-JHasV-rAIAsFG_OxSECRhR_pLzNEWRgxSfKvaNnWTg-UgwuOk8Hvy79wd00mmNO-qWDcq21hH1P7ljaw3EkfiQXsWsmJ7rMjYOVxYOWt5lkYTRtXrmNgbUoQwYg_Zfz7ss7fMURUgqBBBDW7WtgURT2x6rlQyRVADU4j41klufO5IxAoUWaba9Jtw-zTR-dsg8pA9uHWb5cVzkKGW7rKtnl0xbN0rYOxsG7BvP3W9vulQpQUHpsPa_te6TMApPOdSZlf0OPI6mY59A7gpd8Dt7_wv8NcvcQotMyg-0AAAAASUVORK5CYII.png",
+   "snippet": "Athletics / Sports - Colony High School. ... Colony High School. Footer Holder. Footer Logo. Colony High School. Our Address. 9550 E Bogard Rd. Palmer. AK. 99645.",
+   "snippet_highlighted_words": [
+    "Colony High School",
+    "Colony High School",
+    "Colony High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Athletics / Sports - Colony High School. ... Colony High School. Footer Holder. Footer Logo. Colony High School. Our Address. 9550 E Bogard Rd. Palmer. AK. 99645.",
+     "source_info_link": "https://chs.matsuk12.us/athletics/athletics-sports",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAIE0AIU8AIU8AIlEAIlEAIU0AIlAAIE0AIlEAIU8AIE4AIU4AIE4AIE0AIVAAIVAXbpZQAAAAEXRSTlMAPHWZp8D__xzXhF1ECzCz7nLyUowAAAFZSURBVHgBfdMFksQgFATQxrpxuP9lR2JFdlL7SnDnY2Ws895Zg0cmUAeG3z4xSQq51FpykJQibqwo-1jceSnjJkv-1l4BNFwq-tLDShE2ohTsoqQeJXsV-5HDbpBM6NJekbiv37wK0JOFIxmAzIQPIwElAyJVoziBqRkBSAZAUIGV8uSH-JHasV-rAIAsFG_OxSECRhR_pLzNEWRgxSfKvaNnWTg-UgwuOk8Hvy79wd00mmNO-qWDcq21hH1P7ljaw3EkfiQXsWsmJ7rMjYOVxYOWt5lkYTRtXrmNgbUoQwYg_Zfz7ss7fMURUgqBBBDW7WtgURT2x6rlQyRVADU4j41klufO5IxAoUWaba9Jtw-zTR-dsg8pA9uHWb5cVzkKGW7rKtnl0xbN0rYOxsG7BvP3W9vulQpQUHpsPa_te6TMApPOdSZlf0OPI6mY59A7gpd8Dt7_wv8NcvcQotMyg-0AAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESagHrOzAV35E3OnqRwysh-5o7iFlweTUuA97657sMGYaz2e5L6YCJTDnScP_JmCwoKWeCqKrXYjjUzXO7SWfisGSoyie-tLcv6By8Zk_xqXxbaQ4d2v68-5BezQtIkSSHDb6Iq7VS6r13M38&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESagHrOzAV35E3OnqRwysh-5o7iFlweTUuA97657sMGYaz2e5L6YCJTDnScP_JmCwoKWeCqKrXYjjUzXO7SWfisGSoyie-tLcv6By8Zk_xqXxbaQ4d2v68-5BezQtIkSSHDb6Iq7VS6r13M38",
+   "source": "Mat-Su Borough School District",
+   "read_more_link": "https://chs.matsuk12.us/athletics/athletics-sports#:~:text=Colony%20High%20School,99645"
+  },
+  {
+   "position": 5,
+   "title": "The Colony High School",
+   "link": "https://en.wikipedia.org/wiki/The_Colony_High_School",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHrOzAVOOxuLYKf8-LXEEyFQbixqf_YbFcU0AjPgDcBNkH_vjJ4dZZ2kS8LaKjO3wE--C5y4dtiEeIZrgsTJqE07ualZxtDksjvIRRV0JUAyuR_h017MNpfCgwYdeBW4NAi5-WLwLznCk0HYg&ved=2ahUKEwiWv4Lo5-SWAxWK7LsIHVAjKZkQFnoECB4QAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a The_Colony_High_Sc...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+   "snippet": "The Colony High School (TCHS) is a public high school located in the city of The Colony, Texas, US, and classified as a 5A school by the UIL.",
+   "snippet_highlighted_words": [
+    "Colony High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The Colony High School (TCHS) is a public high school located in the city of The Colony, Texas, US, and classified as a 5A school by the UIL.",
+     "source_info_link": "https://en.wikipedia.org/wiki/The_Colony_High_School",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESbAHrOzAVOOxuLYKf8-LXEEyFQbixqf_YbFcU0AjPgDcBNkH_vjJ4dZZ2kS8LaKjO3wE--C5y4dtiEeIZrgsTJqE07ualZxtDksjvIRRV0JUAyuR_h017MNpfCgwYdeBW4NAi5-WLwLznCk0HYg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESbAHrOzAVOOxuLYKf8-LXEEyFQbixqf_YbFcU0AjPgDcBNkH_vjJ4dZZ2kS8LaKjO3wE--C5y4dtiEeIZrgsTJqE07ualZxtDksjvIRRV0JUAyuR_h017MNpfCgwYdeBW4NAi5-WLwLznCk0HYg",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/The_Colony_High_School#:~:text=The%20Colony%20High%20School%20(TCHS),5A%20school%20by%20the%20UIL."
+  },
+  {
+   "position": 6,
+   "title": "Colony High School in Ontario, CA - US News",
+   "link": "https://www.usnews.com/education/best-high-schools/california/districts/chaffey-joint-union-high-school-district/colony-high-school-1943",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESwQEB6zswFfa6ASr3lyXq9693xiATO8BE9pPj-e4aTJg2Kzha1dONLgpOWXE1pCczL6XOg_qQ5cA9OT0PXkP5Hj66PVVadhFCjSH-keK9hZH8DR1t1wU0NaEMyHLuASfImqGruEqoJaORPd3EhY62Vic-ZEsv9gvywhQO86VpoiOY0raV5xaezn3dtjiFn3uS8B7ZETZZK6lBu_JN5KW_3RqW3Tq6jVPwPwsyiBjnt9zOPky6vYdpBXyIJjbso3Y0OXSg&ved=2ahUKEwiWv4Lo5-SWAxWK7LsIHVAjKZkQFnoECB0QAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a california \u203a districts \u203a colon...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png",
+   "snippet": "Colony High School is ranked 575th within California. Students have the opportunity to take Advanced Placement\u00ae coursework and exams.",
+   "snippet_highlighted_words": [
+    "Colony High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Colony High School is ranked 575th within California. Students have the opportunity to take Advanced Placement\u00ae coursework and exams.",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/california/districts/chaffey-joint-union-high-school-district/colony-high-school-1943",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESwQEB6zswFfa6ASr3lyXq9693xiATO8BE9pPj-e4aTJg2Kzha1dONLgpOWXE1pCczL6XOg_qQ5cA9OT0PXkP5Hj66PVVadhFCjSH-keK9hZH8DR1t1wU0NaEMyHLuASfImqGruEqoJaORPd3EhY62Vic-ZEsv9gvywhQO86VpoiOY0raV5xaezn3dtjiFn3uS8B7ZETZZK6lBu_JN5KW_3RqW3Tq6jVPwPwsyiBjnt9zOPky6vYdpBXyIJjbso3Y0OXSg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESwQEB6zswFfa6ASr3lyXq9693xiATO8BE9pPj-e4aTJg2Kzha1dONLgpOWXE1pCczL6XOg_qQ5cA9OT0PXkP5Hj66PVVadhFCjSH-keK9hZH8DR1t1wU0NaEMyHLuASfImqGruEqoJaORPd3EhY62Vic-ZEsv9gvywhQO86VpoiOY0raV5xaezn3dtjiFn3uS8B7ZETZZK6lBu_JN5KW_3RqW3Tq6jVPwPwsyiBjnt9zOPky6vYdpBXyIJjbso3Y0OXSg",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/california/districts/chaffey-joint-union-high-school-district/colony-high-school-1943#:~:text=Colony%20High%20School%20is%20ranked,Advanced%20Placement%C2%AE%20coursework%20and%20exams."
+  },
+  {
+   "position": 7,
+   "title": "Staff Directory",
+   "link": "https://chs.matsuk12.us/about-us/staff-directory",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaAHrOzAV9nmvax1D6_QNthBE9eHa7S9IhlmvcNp6K5r-PZMsT3xh16gF-2FM_arQeS5LaVJQvadRr7d3BqCrxPiXoZe8_RdePOykCVkVdoWBND3z_J3U8z5Tn2ZqYotx1biCJvTrD4W1&ved=2ahUKEwiWv4Lo5-SWAxWK7LsIHVAjKZkQFnoECBkQAQ&uoh=1",
+   "displayed_link": "https://chs.matsuk12.us \u203a about-us \u203a staff-directory",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAIE0AIU8AIU8AIlEAIlEAIU0AIlAAIE0AIlEAIU8AIE4AIU4AIE4AIE0AIVAAIVAXbpZQAAAAEXRSTlMAPHWZp8D__xzXhF1ECzCz7nLyUowAAAFZSURBVHgBfdMFksQgFATQxrpxuP9lR2JFdlL7SnDnY2Ws895Zg0cmUAeG3z4xSQq51FpykJQibqwo-1jceSnjJkv-1l4BNFwq-tLDShE2ohTsoqQeJXsV-5HDbpBM6NJekbiv37wK0JOFIxmAzIQPIwElAyJVoziBqRkBSAZAUIGV8uSH-JHasV-rAIAsFG_OxSECRhR_pLzNEWRgxSfKvaNnWTg-UgwuOk8Hvy79wd00mmNO-qWDcq21hH1P7ljaw3EkfiQXsWsmJ7rMjYOVxYOWt5lkYTRtXrmNgbUoQwYg_Zfz7ss7fMURUgqBBBDW7WtgURT2x6rlQyRVADU4j41klufO5IxAoUWaba9Jtw-zTR-dsg8pA9uHWb5cVzkKGW7rKtnl0xbN0rYOxsG7BvP3W9vulQpQUHpsPa_te6TMApPOdSZlf0OPI6mY59A7gpd8Dt7_wv8NcvcQotMyg-0AAAAASUVORK5CYII.png",
+   "snippet": "Staff Directory - Colony High School. ... Colony High School. Footer Holder. Footer Logo. Colony High School. Our Address. 9550 E Bogard Rd. Palmer. AK. 99645.",
+   "snippet_highlighted_words": [
+    "Colony High School",
+    "Colony High School",
+    "Colony High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Staff Directory - Colony High School. ... Colony High School. Footer Holder. Footer Logo. Colony High School. Our Address. 9550 E Bogard Rd. Palmer. AK. 99645.",
+     "source_info_link": "https://chs.matsuk12.us/about-us/staff-directory",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAIE0AIU8AIU8AIlEAIlEAIU0AIlAAIE0AIlEAIU8AIE4AIU4AIE4AIE0AIVAAIVAXbpZQAAAAEXRSTlMAPHWZp8D__xzXhF1ECzCz7nLyUowAAAFZSURBVHgBfdMFksQgFATQxrpxuP9lR2JFdlL7SnDnY2Ws895Zg0cmUAeG3z4xSQq51FpykJQibqwo-1jceSnjJkv-1l4BNFwq-tLDShE2ohTsoqQeJXsV-5HDbpBM6NJekbiv37wK0JOFIxmAzIQPIwElAyJVoziBqRkBSAZAUIGV8uSH-JHasV-rAIAsFG_OxSECRhR_pLzNEWRgxSfKvaNnWTg-UgwuOk8Hvy79wd00mmNO-qWDcq21hH1P7ljaw3EkfiQXsWsmJ7rMjYOVxYOWt5lkYTRtXrmNgbUoQwYg_Zfz7ss7fMURUgqBBBDW7WtgURT2x6rlQyRVADU4j41klufO5IxAoUWaba9Jtw-zTR-dsg8pA9uHWb5cVzkKGW7rKtnl0xbN0rYOxsG7BvP3W9vulQpQUHpsPa_te6TMApPOdSZlf0OPI6mY59A7gpd8Dt7_wv8NcvcQotMyg-0AAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESaAHrOzAV9nmvax1D6_QNthBE9eHa7S9IhlmvcNp6K5r-PZMsT3xh16gF-2FM_arQeS5LaVJQvadRr7d3BqCrxPiXoZe8_RdePOykCVkVdoWBND3z_J3U8z5Tn2ZqYotx1biCJvTrD4W1&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESaAHrOzAV9nmvax1D6_QNthBE9eHa7S9IhlmvcNp6K5r-PZMsT3xh16gF-2FM_arQeS5LaVJQvadRr7d3BqCrxPiXoZe8_RdePOykCVkVdoWBND3z_J3U8z5Tn2ZqYotx1biCJvTrD4W1",
+   "source": "Mat-Su Borough School District",
+   "read_more_link": "https://chs.matsuk12.us/about-us/staff-directory#:~:text=Colony%20High%20School,99645"
+  },
+  {
+   "position": 8,
+   "title": "Colony High School (@colonyalaska)",
+   "link": "https://www.facebook.com/colonyalaska/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXgHrOzAVLlSpF6-lp6R9JC3xewVjS9H3Tmif80UH8SVEgsb0SNYGavoeXd1rSOj4WYYEZ0aWOZuX664uGaJoOlAb59M--mLqfnk9pHcSEeIyj0KS0UYa-9TRJgWLEsI&ved=2ahUKEwiWv4Lo5-SWAxWK7LsIHVAjKZkQFnoECBgQAQ&uoh=1",
+   "displayed_link": "4.2K+ followers",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "snippet": "Colony High School. 4222 likes \u00b7 248 talking about this. Colony High School in Palmer, AK serves 1013 students in grades 9-12.",
+   "snippet_highlighted_words": [
+    "Colony High School",
+    "Colony High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Colony High School. 4222 likes \u00b7 248 talking about this. Colony High School in Palmer, AK serves 1013 students in grades 9-12.",
+     "source_info_link": "https://www.facebook.com/colonyalaska/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESXgHrOzAVLlSpF6-lp6R9JC3xewVjS9H3Tmif80UH8SVEgsb0SNYGavoeXd1rSOj4WYYEZ0aWOZuX664uGaJoOlAb59M--mLqfnk9pHcSEeIyj0KS0UYa-9TRJgWLEsI&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESXgHrOzAVLlSpF6-lp6R9JC3xewVjS9H3Tmif80UH8SVEgsb0SNYGavoeXd1rSOj4WYYEZ0aWOZuX664uGaJoOlAb59M--mLqfnk9pHcSEeIyj0KS0UYa-9TRJgWLEsI",
+   "source": "Facebook \u00b7 Colony High School"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Colony high school football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Colony+high+school+football&sa=X&ved=2ahUKEwiWv4Lo5-SWAxWK7LsIHVAjKZkQ1QJ6BAgMEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Colony+high+school+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Colony High School Palmer",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Colony+High+School+Palmer&sa=X&ved=2ahUKEwiWv4Lo5-SWAxWK7LsIHVAjKZkQ1QJ6BAgaEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Colony+High+School+Palmer"
+  },
+  {
+   "block_position": 1,
+   "query": "Colony high school basketball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Colony+high+school+basketball&sa=X&ved=2ahUKEwiWv4Lo5-SWAxWK7LsIHVAjKZkQ1QJ6BAgUEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Colony+high+school+basketball"
+  },
+  {
+   "block_position": 1,
+   "query": "Colony high school calendar",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Colony+high+school+calendar&sa=X&ved=2ahUKEwiWv4Lo5-SWAxWK7LsIHVAjKZkQ1QJ6BAgSEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Colony+high+school+calendar"
+  },
+  {
+   "block_position": 1,
+   "query": "Colony High School bell schedule",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Colony+High+School+bell+schedule&sa=X&ved=2ahUKEwiWv4Lo5-SWAxWK7LsIHVAjKZkQ1QJ6BAgREAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Colony+High+School+bell+schedule"
+  },
+  {
+   "block_position": 1,
+   "query": "Colony High School graduation 2026",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Colony+High+School+graduation+2026&sa=X&ved=2ahUKEwiWv4Lo5-SWAxWK7LsIHVAjKZkQ1QJ6BAgQEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Colony+High+School+graduation+2026"
+  },
+  {
+   "block_position": 1,
+   "query": "Colony high school staff",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Colony+high+school+staff&sa=X&ved=2ahUKEwiWv4Lo5-SWAxWK7LsIHVAjKZkQ1QJ6BAgPEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Colony+high+school+staff"
+  },
+  {
+   "block_position": 1,
+   "query": "Colony High School Prom 2026",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Colony+High+School+Prom+2026&sa=X&ved=2ahUKEwiWv4Lo5-SWAxWK7LsIHVAjKZkQ1QJ6BAgNEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Colony+High+School+Prom+2026"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Colony+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=hA2japbtFIrZ7_UP0MakyQk&start=10&sa=N&sstk=AS6-VmJgZ9gcgG9TycE2SnpIxqpGqm9EY60vvkeGeIC2swct2UWCC15q8T4CM48ohadFjb-JIp5L4XVsJ-h1aoZtQGR1y1TUY6QgNg&ved=2ahUKEwiWv4Lo5-SWAxWK7LsIHVAjKZkQ8NMDegQIRhAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Colony+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=hA2japbtFIrZ7_UP0MakyQk&start=10&sa=N&sstk=AS6-VmJgZ9gcgG9TycE2SnpIxqpGqm9EY60vvkeGeIC2swct2UWCC15q8T4CM48ohadFjb-JIp5L4XVsJ-h1aoZtQGR1y1TUY6QgNg&ved=2ahUKEwiWv4Lo5-SWAxWK7LsIHVAjKZkQ8tMDegQIRhAE",
+   "3": "https://www.google.com/search?q=%22Colony+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=hA2japbtFIrZ7_UP0MakyQk&start=20&sa=N&sstk=AS6-VmJgZ9gcgG9TycE2SnpIxqpGqm9EY60vvkeGeIC2swct2UWCC15q8T4CM48ohadFjb-JIp5L4XVsJ-h1aoZtQGR1y1TUY6QgNg&ved=2ahUKEwiWv4Lo5-SWAxWK7LsIHVAjKZkQ8tMDegQIRhAG",
+   "4": "https://www.google.com/search?q=%22Colony+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=hA2japbtFIrZ7_UP0MakyQk&start=30&sa=N&sstk=AS6-VmJgZ9gcgG9TycE2SnpIxqpGqm9EY60vvkeGeIC2swct2UWCC15q8T4CM48ohadFjb-JIp5L4XVsJ-h1aoZtQGR1y1TUY6QgNg&ved=2ahUKEwiWv4Lo5-SWAxWK7LsIHVAjKZkQ8tMDegQIRhAI",
+   "5": "https://www.google.com/search?q=%22Colony+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=hA2japbtFIrZ7_UP0MakyQk&start=40&sa=N&sstk=AS6-VmJgZ9gcgG9TycE2SnpIxqpGqm9EY60vvkeGeIC2swct2UWCC15q8T4CM48ohadFjb-JIp5L4XVsJ-h1aoZtQGR1y1TUY6QgNg&ved=2ahUKEwiWv4Lo5-SWAxWK7LsIHVAjKZkQ8tMDegQIRhAK",
+   "6": "https://www.google.com/search?q=%22Colony+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=hA2japbtFIrZ7_UP0MakyQk&start=50&sa=N&sstk=AS6-VmJgZ9gcgG9TycE2SnpIxqpGqm9EY60vvkeGeIC2swct2UWCC15q8T4CM48ohadFjb-JIp5L4XVsJ-h1aoZtQGR1y1TUY6QgNg&ved=2ahUKEwiWv4Lo5-SWAxWK7LsIHVAjKZkQ8tMDegQIRhAM",
+   "7": "https://www.google.com/search?q=%22Colony+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=hA2japbtFIrZ7_UP0MakyQk&start=60&sa=N&sstk=AS6-VmJgZ9gcgG9TycE2SnpIxqpGqm9EY60vvkeGeIC2swct2UWCC15q8T4CM48ohadFjb-JIp5L4XVsJ-h1aoZtQGR1y1TUY6QgNg&ved=2ahUKEwiWv4Lo5-SWAxWK7LsIHVAjKZkQ8tMDegQIRhAO",
+   "8": "https://www.google.com/search?q=%22Colony+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=hA2japbtFIrZ7_UP0MakyQk&start=70&sa=N&sstk=AS6-VmJgZ9gcgG9TycE2SnpIxqpGqm9EY60vvkeGeIC2swct2UWCC15q8T4CM48ohadFjb-JIp5L4XVsJ-h1aoZtQGR1y1TUY6QgNg&ved=2ahUKEwiWv4Lo5-SWAxWK7LsIHVAjKZkQ8tMDegQIRhAQ",
+   "9": "https://www.google.com/search?q=%22Colony+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=hA2japbtFIrZ7_UP0MakyQk&start=80&sa=N&sstk=AS6-VmJgZ9gcgG9TycE2SnpIxqpGqm9EY60vvkeGeIC2swct2UWCC15q8T4CM48ohadFjb-JIp5L4XVsJ-h1aoZtQGR1y1TUY6QgNg&ved=2ahUKEwiWv4Lo5-SWAxWK7LsIHVAjKZkQ8tMDegQIRhAS",
+   "10": "https://www.google.com/search?q=%22Colony+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=hA2japbtFIrZ7_UP0MakyQk&start=90&sa=N&sstk=AS6-VmJgZ9gcgG9TycE2SnpIxqpGqm9EY60vvkeGeIC2swct2UWCC15q8T4CM48ohadFjb-JIp5L4XVsJ-h1aoZtQGR1y1TUY6QgNg&ved=2ahUKEwiWv4Lo5-SWAxWK7LsIHVAjKZkQ8tMDegQIRhAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Colony+High+School%22&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Colony+High+School%22&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Colony+High+School%22&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Colony+High+School%22&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Colony+High+School%22&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Colony+High+School%22&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Colony+High+School%22&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Colony+High+School%22&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Colony+High+School%22&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Colony+High+School%22&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Colony+High+School%22&start=90"
+  }
+ }
+}

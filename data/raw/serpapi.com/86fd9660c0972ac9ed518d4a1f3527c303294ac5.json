@@ -1,0 +1,484 @@
+{
+ "search_information": {
+  "query_displayed": "\"Clovis High School\" California",
+  "total_results": 82200,
+  "time_taken_displayed": 0.34,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Clovis High School",
+  "type": "High school in Clovis, California",
+  "entity_type": "local_nav",
+  "kgmid": "/m/09zp5v",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/09zp5v&hl=en-US&q=Clovis+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F09zp5v&q=Clovis+High+School",
+  "place_id": "ChIJWyWdgJBblIARB6S0fTuHvoQ",
+  "website": "http://chs.cusd.com/",
+  "description": "Clovis High School is a four-year high school founded in 1899. The school's current campus, located at 1055 Fowler Avenue in Clovis, California, United States, opened in 1969.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa30d6570e9d0c62239b410/images/xhcZ2xL_de1IRHCh4RDlpTTtHVFxmgMiF8_HKOIOWuM.webp",
+   "link": "https://www.google.com/maps/place/Clovis+High+School/data=!4m2!3m1!1s0x0:0x84be873b7db4a407?sa=X&ved=2ahUKEwjUo43a5-SWAxUxsVYBHf7EEzMQ_BJ6BAgREAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Clovis_High_School_(California)"
+  },
+  "address": "1055 Fowler Ave, Clovis, CA 93611",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuxK7wHV4eeRV-l1tJpnYgPOOFySg:1789070695164&q=clovis+high+school+address&ludocid=9565231348163322887&sa=X&ved=2ahUKEwjUo43a5-SWAxUxsVYBHf7EEzMQ6BN6BAggEAI"
+   }
+  ],
+  "colors": "Blue, Gold",
+  "colors_links": [
+   {
+    "text": "Blue",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuxK7wHV4eeRV-l1tJpnYgPOOFySg:1789070695164&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpvdEmEKP4dQQoWLIwXjhkBjOThA3TO1rl4rjAeqO-nYmqaAQgTtVDybAygr6_a4O0szlDxmKfOoT52H1Zhohb1ok0LmcV8ur9OESzuutcN9nFpXjL1gqvL91D9GO4GpWxhTN8ek8E9vjIJsjvvxbgibENXKpQQFPhCFb5XcK980x3yntT4cZbd6GWlUpY-l8SRrLVpg%3D&sa=X&ved=2ahUKEwjUo43a5-SWAxUxsVYBHf7EEzMQmxN6BAgmEAI"
+   },
+   {
+    "text": "Gold",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuxK7wHV4eeRV-l1tJpnYgPOOFySg:1789070695164&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yU7RztYK-Yab4edFiOhB1UYVMdltt-ZMsiXUtQINgv1c8nE2rxAXz_EMR5ks27jRIGEqMeXrvfJ72vji3RTVPjv9n64RMdukOj5s9FEqV_dVagN3rMxIAoi3SXe7myH9n2LrqSkY-fc0YcX1K-epgw04reBdcdRW6aqxHPI8UFFTd-xYSQDdNlvMO5haC2PCroKOP7E%3D&sa=X&ved=2ahUKEwjUo43a5-SWAxUxsVYBHf7EEzMQmxN6BAgmEAM"
+   }
+  ],
+  "founded": "1899",
+  "school_type": "High school",
+  "school_type_links": [
+   {
+    "text": "High school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuxK7wHV4eeRV-l1tJpnYgPOOFySg:1789070695164&q=High+school&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMppXfNh-OkLk_azmU0uk1AX-OfC4NSfJnAjXj6Nh8csnAx8KfXQVudZIdPaMnVCPbY2G6zxJ-z97Dnngbrh2Zhk_BZhbEBqomg8f_7nfVb3G9so4SnmJ0ZbPlEAOLOzLy3gxannSbSjc-f1odvOGzaewQHhRS&sa=X&ved=2ahUKEwjUo43a5-SWAxUxsVYBHf7EEzMQmxN6BAglEAI"
+   }
+  ],
+  "phone": "(559) 327-1000",
+  "raw_hours": "Open \u00b7 Closes 4 PM",
+  "hours": {
+   "thursday": {
+    "opens": "8\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "friday": {
+    "opens": "8\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "8\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "tuesday": {
+    "opens": "8\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "wednesday": {
+    "opens": "8\u202fAM",
+    "closes": "4\u202fPM"
+   }
+  },
+  "people_also_search_for": [
+   {
+    "name": "Buchanan High School",
+    "image": "https://serpapi.com/searches/6aa30d6570e9d0c62239b410/images/xhcZ2xL_de1IRHCh4RDlpVpffXdFDLRIxxl6TIQdT67KOoDBBATUHHppV1KB-nQ5.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuxK7wHV4eeRV-l1tJpnYgPOOFySg:1789070695164&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yes22bPecZnwZKJQQp6EPVcze6UDcd9zid_V1TlrDI04AJTKrl3OZiSzOY3AAqeNVbG_IvFeETbYaM2jG_dolXlN-Ww__LYwKMY5tDFAfwIYpIItHKhuNaR0g1SpN8xolznhkyBZUkMIIk8utj1_eXANTRa8_8DOFz9zhuz0usjumrstkZb6UVswhmx76dK7oRd7lu7BLy0naGrvA0-3x-LwUksjufr4uVC-xBgogf4XE1XRJyyNDggKQ-g-Dt7zJ2ob84VimM7s1qTVoXE8x-DfO_yE&q=Buchanan+High+School&sa=X&ved=2ahUKEwjUo43a5-SWAxUxsVYBHf7EEzMQs9oBKAB6BAghEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Buchanan+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yes22bPecZnwZKJQQp6EPVcze6UDcd9zid_V1TlrDI04AJTKrl3OZiSzOY3AAqeNVbG_IvFeETbYaM2jG_dolXlN-Ww__LYwKMY5tDFAfwIYpIItHKhuNaR0g1SpN8xolznhkyBZUkMIIk8utj1_eXANTRa8_8DOFz9zhuz0usjumrstkZb6UVswhmx76dK7oRd7lu7BLy0naGrvA0-3x-LwUksjufr4uVC-xBgogf4XE1XRJyyNDggKQ-g-Dt7zJ2ob84VimM7s1qTVoXE8x-DfO_yE"
+   },
+   {
+    "name": "Clovis East High School",
+    "image": "https://serpapi.com/searches/6aa30d6570e9d0c62239b410/images/xhcZ2xL_de1IRHCh4RDlpVpffXdFDLRIxxl6TIQdT65dL2zqkVJJ6W_QFsqVQrRU.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuxK7wHV4eeRV-l1tJpnYgPOOFySg:1789070695164&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW677_9oMMJv-_yHCCmP9qC9riC5vFuU6Xg7D1P5HooMpiJj0OhYJJtaNmQ7JAyvBeVfFoZD6phA69A6TWsemTVsaQe9cIoH-rY79LhxSWI2W0Dw9KYZ-dxwPRppFaGH-UBi3aOB76ZY8nA4tz0dSj8KgXv_rBdQI2cF28FTZYKKQh9cm86kX1tI1pepiEfmqufP-jzBZ9WmMdWksesVGvXZoYwxzGk2h50epeO4sXnzgu_Iz3Jk_CeP8G4A5vB3wamx6eavWih_VTrkWKLgq6aWDLyNz6A&q=Clovis+East+High+School&sa=X&ved=2ahUKEwjUo43a5-SWAxUxsVYBHf7EEzMQs9oBKAB6BAghEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Clovis+East+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW677_9oMMJv-_yHCCmP9qC9riC5vFuU6Xg7D1P5HooMpiJj0OhYJJtaNmQ7JAyvBeVfFoZD6phA69A6TWsemTVsaQe9cIoH-rY79LhxSWI2W0Dw9KYZ-dxwPRppFaGH-UBi3aOB76ZY8nA4tz0dSj8KgXv_rBdQI2cF28FTZYKKQh9cm86kX1tI1pepiEfmqufP-jzBZ9WmMdWksesVGvXZoYwxzGk2h50epeO4sXnzgu_Iz3Jk_CeP8G4A5vB3wamx6eavWih_VTrkWKLgq6aWDLyNz6A"
+   },
+   {
+    "name": "Clovis",
+    "image": "https://serpapi.com/searches/6aa30d6570e9d0c62239b410/images/xhcZ2xL_de1IRHCh4RDlpVpffXdFDLRIxxl6TIQdT6716w4JSWOocFg-wD0OCK7e.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuxK7wHV4eeRV-l1tJpnYgPOOFySg:1789070695164&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpnu2X7pJMoNJQk8Vs1ta1c9Q3CgppDiFV1dqe2d6BSZl013UTV6gwXH_XmTZB1NW8l_47AJjtSQoScHmHpz2GtYtCVPZsbwsgnuzTf6OzeIShVv-eRKTRSLv8caodcDETXU9NYA84suYucu1dx37x4koi62chF1IrvZJtIH0H7Vg1eRmu98-l7PaFigONaMih0PF6bYhHOnIvOuSLXBzRUce6oNhFRjipq6jFXi_h_cMNHKapKq97lqFEpxFvGkj4fRwMeA%3D&q=Clovis,+California&sa=X&ved=2ahUKEwjUo43a5-SWAxUxsVYBHf7EEzMQs9oBKAB6BAghEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Clovis%2C+California&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpnu2X7pJMoNJQk8Vs1ta1c9Q3CgppDiFV1dqe2d6BSZl013UTV6gwXH_XmTZB1NW8l_47AJjtSQoScHmHpz2GtYtCVPZsbwsgnuzTf6OzeIShVv-eRKTRSLv8caodcDETXU9NYA84suYucu1dx37x4koi62chF1IrvZJtIH0H7Vg1eRmu98-l7PaFigONaMih0PF6bYhHOnIvOuSLXBzRUce6oNhFRjipq6jFXi_h_cMNHKapKq97lqFEpxFvGkj4fRwMeA%3D"
+   },
+   {
+    "name": "Clovis West High School",
+    "image": "https://serpapi.com/searches/6aa30d6570e9d0c62239b410/images/xhcZ2xL_de1IRHCh4RDlpVpffXdFDLRIxxl6TIQdT67Kt1s3EAU6mXVLnN8GGqgz.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuxK7wHV4eeRV-l1tJpnYgPOOFySg:1789070695164&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW670xqa4s9ci1Negtpmx-CiMdXCcVUengyESZzb2RgrqSr69gSg_FfyexndFmTxGy5tBILIuRpDXHvhV5IprXHxQGorPS3pvNGFB5gvQtJh9iJ4GzyKT5b4uC_gdOUwLwHw0m6PKPPn0Ttd168VufOrKOsfugYvgUyr6mYzphPVR151OtfiNneHHRSUzVb5JuIHmbrrtlHeEl23J48fTgwNEiJG48lYYjtNPt254udvJsF07zzoK3n6Md5sQiyPbYqA8LgANH3wdf1Zf37mULANfJhphFn&q=Clovis+West+High+School&sa=X&ved=2ahUKEwjUo43a5-SWAxUxsVYBHf7EEzMQs9oBKAB6BAghEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Clovis+West+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW670xqa4s9ci1Negtpmx-CiMdXCcVUengyESZzb2RgrqSr69gSg_FfyexndFmTxGy5tBILIuRpDXHvhV5IprXHxQGorPS3pvNGFB5gvQtJh9iJ4GzyKT5b4uC_gdOUwLwHw0m6PKPPn0Ttd168VufOrKOsfugYvgUyr6mYzphPVR151OtfiNneHHRSUzVb5JuIHmbrrtlHeEl23J48fTgwNEiJG48lYYjtNPt254udvJsF07zzoK3n6Md5sQiyPbYqA8LgANH3wdf1Zf37mULANfJhphFn"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuxK7wHV4eeRV-l1tJpnYgPOOFySg:1789070695164&q=Clovis+High+School&stick=H4sIAAAAAAAAAONgFuLUz9U3sKwqMC1TQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iFXLOyS_LLFbwyEzPUAhOzsjPz9nByniLTZLhjUNFYC5fU-eScMNDrNqLNkckBdukh30_DgC9XiSQeAAAAA&sa=X&ved=2ahUKEwjUo43a5-SWAxUxsVYBHf7EEzMQzO0BKAR6BAghEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLUz9U3sKwqMC1TQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iFXLOyS_LLFbwyEzPUAhOzsjPz9nByniLTZLhjUNFYC5fU-eScMNDrNqLNkckBdukh30_DgC9XiSQeAAAAA",
+  "profiles": [
+   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/clovishighactivities/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Clovis+High+School%22+California",
+    "image": "https://serpapi.com/searches/6aa30d6570e9d0c62239b410/images/xhcZ2xL_de1IRHCh4RDlpYyuSYv3pUSUEw-To56_7RzfJIfaw7GpbDe-E5rPMBFu.png"
+   },
+   {
+    "name": "X (Twitter)",
+    "link": "https://twitter.com/cougarsclovis",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Clovis+High+School%22+California",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAABhUlEQVR4AczOA6xcARCF4X_us23btuLUQR3WZlhbQW3bto2gtm3b2J3GN4tY74uHh3okOi42Nj4AAUDwTvDEhisABCOAEAzYTBh0bN-lc5d0QgAhHPqX4Y4pkd367Zc-xMcXCPDg8TPwxeQH724Uj9N95GJ4pnHxby1xgCmV3v-GsFb7k0Iee7UjaQgmIYe9v9O4-wUKWaATyMPAViwvr1NnOQWDdTV5CHYSaKWLmaGDyvU4mTgQcllracaFr-9uk-yLM8k8fAJff0IUTghRVFu3M1ynkYk4nchiqqU3Ry05RDibMMhjtj6Ht3dJxVk_l1G64cspOusychBsCWm01WNM0jFs0sbEYUtIIuTXNco588OLh09JxE6wweuXEAvfL9PQus3-iU80N34KCaQyUOcxTTuSjEmMRI5rS9JwIZfD1t7ceo34YIpnuQ4nGwP8XXlq_fJZd9jE8KBHC5IwAELJ7dWrZ6fOuNhkgFgAEEIAwA1MQkw0AgDC_wnKycrKSQ2iPAkAVyNzq8rxicIAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/ClovisHigh",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Clovis+High+School%22+California",
+    "image": "https://serpapi.com/searches/6aa30d6570e9d0c62239b410/images/xhcZ2xL_de1IRHCh4RDlpcwVvBDWeVZIGndQUGRIuAkXEcTwwJVXk40GpyLjKMPX.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "What famous people went to Clovis High School?",
+   "type": "ai_overview",
+   "page_token": "C3PkSXicHdBRbpswAABQ7TL9bDBOMxEpmkri4LBhZsAG56cydggJJpCWJuC_XWFn6Kl2mlU9wnt_Pszp0vz79rcehv5tOZvd7_fHY9cdzeFRde1Mvk0XNVPSmFKqZrn4vgA_KrVCN-WvX5VPWd_zTeKkcC9E4f8iiC845rc4BVRa_iRxH2gUgcwZc3LhgoA-jtwE0oJ0kbuzvKlFyZSrMceZQTZFnh8X-1A0HuHY3zKgr6Xd1wKGa807kBfb3xkgA8_D6tCOa52bjW5DXKIQ03b4WUI6LwGhKqh30iRBzLg9BGgi-dzhrSHU-rscP08ibya91XWECaCOd44guqfNCDK3rmKmJYUhYYjEkUVQFHSu7BEqzK8x8iCqtdQ2vH56GWfklAbNpFqPFq73zgLgZ0l3oiyx6mxaHoyj3OgNMz7Jg1rys18n58Y5BLoSELnKEYDRh0rdVvDh63r1UrXDsn_tjv8BeMyKwQ",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=C3PkSXicHdBRbpswAABQ7TL9bDBOMxEpmkri4LBhZsAG56cydggJJpCWJuC_XWFn6Kl2mlU9wnt_Pszp0vz79rcehv5tOZvd7_fHY9cdzeFRde1Mvk0XNVPSmFKqZrn4vgA_KrVCN-WvX5VPWd_zTeKkcC9E4f8iiC845rc4BVRa_iRxH2gUgcwZc3LhgoA-jtwE0oJ0kbuzvKlFyZSrMceZQTZFnh8X-1A0HuHY3zKgr6Xd1wKGa807kBfb3xkgA8_D6tCOa52bjW5DXKIQ03b4WUI6LwGhKqh30iRBzLg9BGgi-dzhrSHU-rscP08ibya91XWECaCOd44guqfNCDK3rmKmJYUhYYjEkUVQFHSu7BEqzK8x8iCqtdQ2vH56GWfklAbNpFqPFq73zgLgZ0l3oiyx6mxaHoyj3OgNMz7Jg1rys18n58Y5BLoSELnKEYDRh0rdVvDh63r1UrXDsn_tjv8BeMyKwQ",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU9XdFpOM1ZPU0dOalZsVm5iVEpwWlY5MFNYaFBWMWMzUkZCVFEwSjBOalo1TFZKTGMwOVJZemRWT1hGRWNWTXhVMUJoYTBrd2JYaFNjV2xHTUVWWFYyOXJRM0ZwYTJkVFExaE5PVll6ZEUxaVlreEljalI0UWtkaGR4SVhXbmN5YW1Gd1ZGVkRZa2hwTW5KdlVGOXZibEJ0UVUwYUlrRkVjM0k1WmxONU1uWlBhMmhVZURGQ2FFRnVSMmRhYms5bE9XdGxZM28yTjFFIiwiZmN2IjoiMyIsImVpIjoiWncyamFwVFVDYkhpMnJvUF9vblBtQU0iLCJxYyI6IkNoMWpiRzkyYVhNZ2FHbG5hQ0J6WTJodmIyd2dZMkZzYVdadmNtNXBZUkFBZlRqUVZqOCIsInF1ZXN0aW9uIjoiV2hhdCBmYW1vdXMgcGVvcGxlIHdlbnQgdG8gQ2xvdmlzIEhpZ2ggU2Nob29sPyIsImxrIjoiR2kxM2FHRjBJR1poYlc5MWN5QndaVzl3YkdVZ2QyVnVkQ0IwYnlCamJHOTJhWE1nYUdsbmFDQnpZMmh2YjJ3IiwiYnMiOiJjM1dQc1E2Q01CUkY0X29tNTBiTlV4WTFVV05fb0FPTHpBN01EUlRhV1BzSVJmbDlBY0ZBaVBNOTUtWmVrSENPdGF3d2swOTZlU3dVRlZaaHJWeUZGV0ZvNlcwODNreXU4WjVvSWl2NGhaM3FfMGJ5TlhSci1NNEFBZXZJVDZvazVrUnBud3UtWWFzbUdac1RBR0k0ZEJ1YnROSUtnLXQ0RUJxSG9iUW1vOUlaS2ZpUjdlc3BQTnJTd3NrUGhnaDJRX0g4S1piU1BWUXFlTUMyUS1QOFhVOHRGeDgiLCJpZCI6ImZjX1p3MmphcFRVQ2JIaTJyb1Bfb25QbUFNXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU9XdFpOM1ZPU0dOalZsVm5iVEpwWlY5MFNYaFBWMWMzUkZCVFEwSjBOalo1TFZKTGMwOVJZemRWT1hGRWNWTXhVMUJoYTBrd2JYaFNjV2xHTUVWWFYyOXJRM0ZwYTJkVFExaE5PVll6ZEUxaVlreEljalI0UWtkaGR4SVhXbmN5YW1Gd1ZGVkRZa2hwTW5KdlVGOXZibEJ0UVUwYUlrRkVjM0k1WmxONU1uWlBhMmhVZURGQ2FFRnVSMmRhYms5bE9XdGxZM28yTjFFIiwiZmN2IjoiMyIsImVpIjoiWncyamFwVFVDYkhpMnJvUF9vblBtQU0iLCJxYyI6IkNoMWpiRzkyYVhNZ2FHbG5hQ0J6WTJodmIyd2dZMkZzYVdadmNtNXBZUkFBZlRqUVZqOCIsInF1ZXN0aW9uIjoiV2hhdCBmYW1vdXMgcGVvcGxlIHdlbnQgdG8gQ2xvdmlzIEhpZ2ggU2Nob29sPyIsImxrIjoiR2kxM2FHRjBJR1poYlc5MWN5QndaVzl3YkdVZ2QyVnVkQ0IwYnlCamJHOTJhWE1nYUdsbmFDQnpZMmh2YjJ3IiwiYnMiOiJjM1dQc1E2Q01CUkY0X29tNTBiTlV4WTFVV05fb0FPTHpBN01EUlRhV1BzSVJmbDlBY0ZBaVBNOTUtWmVrSENPdGF3d2swOTZlU3dVRlZaaHJWeUZGV0ZvNlcwODNreXU4WjVvSWl2NGhaM3FfMGJ5TlhSci1NNEFBZXZJVDZvazVrUnBud3UtWWFzbUdac1RBR0k0ZEJ1YnROSUtnLXQ0RUJxSG9iUW1vOUlaS2ZpUjdlc3BQTnJTd3NrUGhnaDJRX0g4S1piU1BWUXFlTUMyUS1QOFhVOHRGeDgiLCJpZCI6ImZjX1p3MmphcFRVQ2JIaTJyb1Bfb25QbUFNXzUifQ%3D%3D"
+  },
+  {
+   "question": "Is Clovis High a good school?",
+   "type": "ai_overview",
+   "page_token": "-RoYGnicHdBRjqIwGADgzGV8HKGMrpqYTToiykQdSvu38LKBVkVpoTNWQd72LnuqPc0m-x3h-_1HX5r678ujcs7eFuNx13Wv57Y96-OrbM24uD0bOZaF1mUh68X0x9T_eZLL8L7F719bnDBrYUU8GsFeevVEbXaOIvVxbIgtQafQYAP8rSegKoYmArjbEDPrElRNCwDMdQU5stviGgeM5Wmm7YYZF6vohhi3B2pUf4T55MiZS9HMA6ryDPki98KeNGuWCXuXdTZAoDtK1b2IND1EGiXG9xnEZB96QRkqvqN5B37VH-Dsp0P8mQQ2Leo4KwcZKNQOOz5z6kocXVcxhDkOK1WoIf7KBGbA9pc0qp_SzBOB5ncW-ZiS9pIwMsirNkzYFaf6IzPyCRRwKfY-F1uUB-u-XONPJVSuutFJPpbB6P_n8tfJuIX9bs__AJIKhAM",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=-RoYGnicHdBRjqIwGADgzGV8HKGMrpqYTToiykQdSvu38LKBVkVpoTNWQd72LnuqPc0m-x3h-_1HX5r678ujcs7eFuNx13Wv57Y96-OrbM24uD0bOZaF1mUh68X0x9T_eZLL8L7F719bnDBrYUU8GsFeevVEbXaOIvVxbIgtQafQYAP8rSegKoYmArjbEDPrElRNCwDMdQU5stviGgeM5Wmm7YYZF6vohhi3B2pUf4T55MiZS9HMA6ryDPki98KeNGuWCXuXdTZAoDtK1b2IND1EGiXG9xnEZB96QRkqvqN5B37VH-Dsp0P8mQQ2Leo4KwcZKNQOOz5z6kocXVcxhDkOK1WoIf7KBGbA9pc0qp_SzBOB5ncW-ZiS9pIwMsirNkzYFaf6IzPyCRRwKfY-F1uUB-u-XONPJVSuutFJPpbB6P_n8tfJuIX9bs__AJIKhAM",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU9XdFpOM1ZPU0dOalZsVm5iVEpwWlY5MFNYaFBWMWMzUkZCVFEwSjBOalo1TFZKTGMwOVJZemRWT1hGRWNWTXhVMUJoYTBrd2JYaFNjV2xHTUVWWFYyOXJRM0ZwYTJkVFExaE5PVll6ZEUxaVlreEljalI0UWtkaGR4SVhXbmN5YW1Gd1ZGVkRZa2hwTW5KdlVGOXZibEJ0UVUwYUlrRkVjM0k1WmxONU1uWlBhMmhVZURGQ2FFRnVSMmRhYms5bE9XdGxZM28yTjFFIiwiZmN2IjoiMyIsImVpIjoiWncyamFwVFVDYkhpMnJvUF9vblBtQU0iLCJxYyI6IkNoMWpiRzkyYVhNZ2FHbG5hQ0J6WTJodmIyd2dZMkZzYVdadmNtNXBZUkFBZlRqUVZqOCIsInF1ZXN0aW9uIjoiSXMgQ2xvdmlzIEhpZ2ggYSBnb29kIHNjaG9vbD8iLCJsayI6IkdoeHBjeUJqYkc5MmFYTWdhR2xuYUNCaElHZHZiMlFnYzJOb2IyOXMiLCJicyI6ImMzV1BzUTZDTUJSRjRfb201MGJOVXhZMVVXTl9vQU9MekE3TURSVGFXUHNJUmZsOUFjRkFpUE05NS1aZWtIQ090YXd3azA5NmVTd1VGVlpoclZ5RkZXRm82VzA4M2t5dThaNW9JaXY0aFozcV8wYnlOWFJyLU00QUFldklUNm9rNWtScG53dS1ZYXNtR1pzVEFHSTRkQnVidE5JS2ctdDRFQnFIb2JRbW85SVpLZmlSN2VzcFBOclN3c2tQaGdoMlFfSDhLWmJTUFZRcWVNQzJRLVA4WFU4dEZ4OCIsImlkIjoiZmNfWncyamFwVFVDYkhpMnJvUF9vblBtQU1fNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU9XdFpOM1ZPU0dOalZsVm5iVEpwWlY5MFNYaFBWMWMzUkZCVFEwSjBOalo1TFZKTGMwOVJZemRWT1hGRWNWTXhVMUJoYTBrd2JYaFNjV2xHTUVWWFYyOXJRM0ZwYTJkVFExaE5PVll6ZEUxaVlreEljalI0UWtkaGR4SVhXbmN5YW1Gd1ZGVkRZa2hwTW5KdlVGOXZibEJ0UVUwYUlrRkVjM0k1WmxONU1uWlBhMmhVZURGQ2FFRnVSMmRhYms5bE9XdGxZM28yTjFFIiwiZmN2IjoiMyIsImVpIjoiWncyamFwVFVDYkhpMnJvUF9vblBtQU0iLCJxYyI6IkNoMWpiRzkyYVhNZ2FHbG5hQ0J6WTJodmIyd2dZMkZzYVdadmNtNXBZUkFBZlRqUVZqOCIsInF1ZXN0aW9uIjoiSXMgQ2xvdmlzIEhpZ2ggYSBnb29kIHNjaG9vbD8iLCJsayI6IkdoeHBjeUJqYkc5MmFYTWdhR2xuYUNCaElHZHZiMlFnYzJOb2IyOXMiLCJicyI6ImMzV1BzUTZDTUJSRjRfb201MGJOVXhZMVVXTl9vQU9MekE3TURSVGFXUHNJUmZsOUFjRkFpUE05NS1aZWtIQ090YXd3azA5NmVTd1VGVlpoclZ5RkZXRm82VzA4M2t5dThaNW9JaXY0aFozcV8wYnlOWFJyLU00QUFldklUNm9rNWtScG53dS1ZYXNtR1pzVEFHSTRkQnVidE5JS2ctdDRFQnFIb2JRbW85SVpLZmlSN2VzcFBOclN3c2tQaGdoMlFfSDhLWmJTUFZRcWVNQzJRLVA4WFU4dEZ4OCIsImlkIjoiZmNfWncyamFwVFVDYkhpMnJvUF9vblBtQU1fNSJ9"
+  },
+  {
+   "question": "What is the #1 High School in California?",
+   "type": "ai_overview",
+   "page_token": "84IgHnicHdBRTsIwAADQeBk_hVHQjISYTNrJtCPr1m70x9QWKLTdig628eddPJWn0XiE976-7aE2PzcX3bb-cz4adV13t2-avd3eycaNxOdQy5EU1r4Laeb3D_fB404u4HkVPZ1WUUa9Z0syzp3m9KoxNvqyLtspBdaomNTpUTk-7lcMMJdPGBQlabBRZwLQK4Fhj5eo2NjEb2MPZIyMmGx68YxmfAgAp-EUH8lKMf4hxwhja5dpTWoOk_aVkr6a9AcRq2Fb6Ch3Ni4K1nEU0ry2NB3PEK7wUBqCmU2e1qXvN4CfU4BOFEUviupYlboTldWChiatOWFwdqFQtZnrAdRKqGty2lQRZTQ95LEZpAuzahKeaRxEBWkOGSVXebSOVtG6PMIAP8NpdmXT1IW5_LPnZeCzKvEYpVx1tzt5WYDb_8_F2861c__R7H8BBq6EJQ",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=84IgHnicHdBRTsIwAADQeBk_hVHQjISYTNrJtCPr1m70x9QWKLTdig628eddPJWn0XiE976-7aE2PzcX3bb-cz4adV13t2-avd3eycaNxOdQy5EU1r4Laeb3D_fB404u4HkVPZ1WUUa9Z0syzp3m9KoxNvqyLtspBdaomNTpUTk-7lcMMJdPGBQlabBRZwLQK4Fhj5eo2NjEb2MPZIyMmGx68YxmfAgAp-EUH8lKMf4hxwhja5dpTWoOk_aVkr6a9AcRq2Fb6Ch3Ni4K1nEU0ry2NB3PEK7wUBqCmU2e1qXvN4CfU4BOFEUviupYlboTldWChiatOWFwdqFQtZnrAdRKqGty2lQRZTQ95LEZpAuzahKeaRxEBWkOGSVXebSOVtG6PMIAP8NpdmXT1IW5_LPnZeCzKvEYpVx1tzt5WYDb_8_F2861c__R7H8BBq6EJQ",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU9XdFpOM1ZPU0dOalZsVm5iVEpwWlY5MFNYaFBWMWMzUkZCVFEwSjBOalo1TFZKTGMwOVJZemRWT1hGRWNWTXhVMUJoYTBrd2JYaFNjV2xHTUVWWFYyOXJRM0ZwYTJkVFExaE5PVll6ZEUxaVlreEljalI0UWtkaGR4SVhXbmN5YW1Gd1ZGVkRZa2hwTW5KdlVGOXZibEJ0UVUwYUlrRkVjM0k1WmxONU1uWlBhMmhVZURGQ2FFRnVSMmRhYms5bE9XdGxZM28yTjFFIiwiZmN2IjoiMyIsImVpIjoiWncyamFwVFVDYkhpMnJvUF9vblBtQU0iLCJxYyI6IkNoMWpiRzkyYVhNZ2FHbG5hQ0J6WTJodmIyd2dZMkZzYVdadmNtNXBZUkFBZlRqUVZqOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgIzEgSGlnaCBTY2hvb2wgaW4gQ2FsaWZvcm5pYT8iLCJsayI6IkdpaDNhR0YwSUdseklIUm9aU0FqTVNCb2FXZG9JSE5qYUc5dmJDQnBiaUJqWVd4cFptOXlibWxoIiwiYnMiOiJjM1dQc1E2Q01CUkY0X29tNTBiTlV4WTFVV05fb0FPTHpBN01EUlRhV1BzSVJmbDlBY0ZBaVBNOTUtWmVrSENPdGF3d2swOTZlU3dVRlZaaHJWeUZGV0ZvNlcwODNreXU4WjVvSWl2NGhaM3FfMGJ5TlhSci1NNEFBZXZJVDZvazVrUnBud3UtWWFzbUdac1RBR0k0ZEJ1YnROSUtnLXQ0RUJxSG9iUW1vOUlaS2ZpUjdlc3BQTnJTd3NrUGhnaDJRX0g4S1piU1BWUXFlTUMyUS1QOFhVOHRGeDgiLCJpZCI6ImZjX1p3MmphcFRVQ2JIaTJyb1Bfb25QbUFNXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU9XdFpOM1ZPU0dOalZsVm5iVEpwWlY5MFNYaFBWMWMzUkZCVFEwSjBOalo1TFZKTGMwOVJZemRWT1hGRWNWTXhVMUJoYTBrd2JYaFNjV2xHTUVWWFYyOXJRM0ZwYTJkVFExaE5PVll6ZEUxaVlreEljalI0UWtkaGR4SVhXbmN5YW1Gd1ZGVkRZa2hwTW5KdlVGOXZibEJ0UVUwYUlrRkVjM0k1WmxONU1uWlBhMmhVZURGQ2FFRnVSMmRhYms5bE9XdGxZM28yTjFFIiwiZmN2IjoiMyIsImVpIjoiWncyamFwVFVDYkhpMnJvUF9vblBtQU0iLCJxYyI6IkNoMWpiRzkyYVhNZ2FHbG5hQ0J6WTJodmIyd2dZMkZzYVdadmNtNXBZUkFBZlRqUVZqOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgIzEgSGlnaCBTY2hvb2wgaW4gQ2FsaWZvcm5pYT8iLCJsayI6IkdpaDNhR0YwSUdseklIUm9aU0FqTVNCb2FXZG9JSE5qYUc5dmJDQnBiaUJqWVd4cFptOXlibWxoIiwiYnMiOiJjM1dQc1E2Q01CUkY0X29tNTBiTlV4WTFVV05fb0FPTHpBN01EUlRhV1BzSVJmbDlBY0ZBaVBNOTUtWmVrSENPdGF3d2swOTZlU3dVRlZaaHJWeUZGV0ZvNlcwODNreXU4WjVvSWl2NGhaM3FfMGJ5TlhSci1NNEFBZXZJVDZvazVrUnBud3UtWWFzbUdac1RBR0k0ZEJ1YnROSUtnLXQ0RUJxSG9iUW1vOUlaS2ZpUjdlc3BQTnJTd3NrUGhnaDJRX0g4S1piU1BWUXFlTUMyUS1QOFhVOHRGeDgiLCJpZCI6ImZjX1p3MmphcFRVQ2JIaTJyb1Bfb25QbUFNXzUifQ%3D%3D"
+  },
+  {
+   "question": "What is Clovis High School ranked?",
+   "type": "ai_overview",
+   "page_token": "uN_XvnicHdBfbpswHABg7TJ9bMBZMhEpmkQDLCg4xcY_Y79Mrp0EYvNvJQ3hbXfZqXaaSv2O8P395-rW_v_2UY1j_75ZLO73-_Ol6y7u9Ky7ZqHeH61eaOXcm9J2s_6x9n-e9Ta67cOXYR_mrO9hRzzKR1kip-gsQ56YySCX8Z0cxJxPMq72Kg5e5YxLsewJhsyjAFdSmFvu4K4S-WKcfJySoKato0VhBpOQ19MVSwCMxdIpztNSorFm1h9Nq72siRGbM8SvFTtGE6XeiuhmOhhEhhOr1gXvJt6mcIyz74qtQHgXhBGxZM4ezK8Q35E15fGKAomLhpTCwRJs6nQ0RW82IFFllJnTQZQhA4ZrmtiHboK8RMGNJX5YkK7OGZn11TUQxSlwYzmDg7B4ODL8SxQQKs_fixlWhxIPLH8664_t8unrc_v73Iyb_k93-QQsfIPL",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=uN_XvnicHdBfbpswHABg7TJ9bMBZMhEpmkQDLCg4xcY_Y79Mrp0EYvNvJQ3hbXfZqXaaSv2O8P395-rW_v_2UY1j_75ZLO73-_Ol6y7u9Ky7ZqHeH61eaOXcm9J2s_6x9n-e9Ta67cOXYR_mrO9hRzzKR1kip-gsQ56YySCX8Z0cxJxPMq72Kg5e5YxLsewJhsyjAFdSmFvu4K4S-WKcfJySoKato0VhBpOQ19MVSwCMxdIpztNSorFm1h9Nq72siRGbM8SvFTtGE6XeiuhmOhhEhhOr1gXvJt6mcIyz74qtQHgXhBGxZM4ezK8Q35E15fGKAomLhpTCwRJs6nQ0RW82IFFllJnTQZQhA4ZrmtiHboK8RMGNJX5YkK7OGZn11TUQxSlwYzmDg7B4ODL8SxQQKs_fixlWhxIPLH8664_t8unrc_v73Iyb_k93-QQsfIPL",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU9XdFpOM1ZPU0dOalZsVm5iVEpwWlY5MFNYaFBWMWMzUkZCVFEwSjBOalo1TFZKTGMwOVJZemRWT1hGRWNWTXhVMUJoYTBrd2JYaFNjV2xHTUVWWFYyOXJRM0ZwYTJkVFExaE5PVll6ZEUxaVlreEljalI0UWtkaGR4SVhXbmN5YW1Gd1ZGVkRZa2hwTW5KdlVGOXZibEJ0UVUwYUlrRkVjM0k1WmxONU1uWlBhMmhVZURGQ2FFRnVSMmRhYms5bE9XdGxZM28yTjFFIiwiZmN2IjoiMyIsImVpIjoiWncyamFwVFVDYkhpMnJvUF9vblBtQU0iLCJxYyI6IkNoMWpiRzkyYVhNZ2FHbG5hQ0J6WTJodmIyd2dZMkZzYVdadmNtNXBZUkFBZlRqUVZqOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyBDbG92aXMgSGlnaCBTY2hvb2wgcmFua2VkPyIsImxrIjoiR2lGM2FHRjBJR2x6SUdOc2IzWnBjeUJvYVdkb0lITmphRzl2YkNCeVlXNXJaV1EiLCJicyI6ImMzV1BzUTZDTUJSRjRfb201MGJOVXhZMVVXTl9vQU9MekE3TURSVGFXUHNJUmZsOUFjRkFpUE05NS1aZWtIQ090YXd3azA5NmVTd1VGVlpoclZ5RkZXRm82VzA4M2t5dThaNW9JaXY0aFozcV8wYnlOWFJyLU00QUFldklUNm9rNWtScG53dS1ZYXNtR1pzVEFHSTRkQnVidE5JS2ctdDRFQnFIb2JRbW85SVpLZmlSN2VzcFBOclN3c2tQaGdoMlFfSDhLWmJTUFZRcWVNQzJRLVA4WFU4dEZ4OCIsImlkIjoiZmNfWncyamFwVFVDYkhpMnJvUF9vblBtQU1fNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU9XdFpOM1ZPU0dOalZsVm5iVEpwWlY5MFNYaFBWMWMzUkZCVFEwSjBOalo1TFZKTGMwOVJZemRWT1hGRWNWTXhVMUJoYTBrd2JYaFNjV2xHTUVWWFYyOXJRM0ZwYTJkVFExaE5PVll6ZEUxaVlreEljalI0UWtkaGR4SVhXbmN5YW1Gd1ZGVkRZa2hwTW5KdlVGOXZibEJ0UVUwYUlrRkVjM0k1WmxONU1uWlBhMmhVZURGQ2FFRnVSMmRhYms5bE9XdGxZM28yTjFFIiwiZmN2IjoiMyIsImVpIjoiWncyamFwVFVDYkhpMnJvUF9vblBtQU0iLCJxYyI6IkNoMWpiRzkyYVhNZ2FHbG5hQ0J6WTJodmIyd2dZMkZzYVdadmNtNXBZUkFBZlRqUVZqOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyBDbG92aXMgSGlnaCBTY2hvb2wgcmFua2VkPyIsImxrIjoiR2lGM2FHRjBJR2x6SUdOc2IzWnBjeUJvYVdkb0lITmphRzl2YkNCeVlXNXJaV1EiLCJicyI6ImMzV1BzUTZDTUJSRjRfb201MGJOVXhZMVVXTl9vQU9MekE3TURSVGFXUHNJUmZsOUFjRkFpUE05NS1aZWtIQ090YXd3azA5NmVTd1VGVlpoclZ5RkZXRm82VzA4M2t5dThaNW9JaXY0aFozcV8wYnlOWFJyLU00QUFldklUNm9rNWtScG53dS1ZYXNtR1pzVEFHSTRkQnVidE5JS2ctdDRFQnFIb2JRbW85SVpLZmlSN2VzcFBOclN3c2tQaGdoMlFfSDhLWmJTUFZRcWVNQzJRLVA4WFU4dEZ4OCIsImlkIjoiZmNfWncyamFwVFVDYkhpMnJvUF9vblBtQU1fNSJ9"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Clovis High School - Home",
+   "link": "https://chs.cusd.com/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTQHrOzAV0L05qJFiDmWOmacM-FDj8IsNJSCC1G7pjMtfnTtdXpz4aEwweGftSfD3Zw2CKMCW2X5p_TEfgTG_-qroB5jh5L6UR2WlXBNN&ved=2ahUKEwjUo43a5-SWAxUxsVYBHf7EEzMQFnoECEQQAQ&uoh=1",
+   "displayed_link": "https://chs.cusd.com",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACDUlEQVR4AV3RQ4A0RxQA4O_VzGZj27Zt27Zt32Je_1Ns6xbbtm1z7Znul7nOft1lVwWc8ttO6naKMAdWwvKYr1EmnrjlyZeGZu7N_YhRfCfzy_b3z_c3ltjY4HGza570047qVpYodsRZWBdzAb7Hz7gSc2FIxOfN5ba9nnxo7ruqVmcgnbAtbsPOWBC9kJVWUhGJHsyHLYjrpUNi5qJIM-NULKzbBAbqNEyO6jYHcWqOjC9UsAzWM136PbP81mrrw3emC6uIxpoFS2Fe3erkof--7ftjwXlb4-R9mNAlZhOxYsFcaGMU_-IjXIIZ8664sKmpguoe8ly8hb8xggnMFUf9s_mCWA6Zcgh_oQ955wKvgbg7RVBX5sLCwdxoqNq_Nm877hEBpIxEZtYiwp3mAfXCixFJVUipUyC0qxTtg347CNejiQn8ioc6s1wbEQOO2UEyc5OjdQKWxmyIVpVXFwyiidkxP9bGFcLZH_79k0ZrdoVDMQMbYSHMjpkxWJKf0KdbwYGrz7v0IqMLfjJLcChm7n5lo8nXBT_gPdOEWDSysVhzcrZ5sZzp0pdV7eNSxASuw5-6zZzM3ZlkjmA23UZqrp1lrsZfpa3Wyvo5HIOn8DemoBGNmTKjmRS00YfXkpOFe-uxWul9YHE9paeW9ZM4ALvhaJyPL_EnLsSx2DPTnn8N1fdkrdXY-XP_A4bM2IcD4T01AAAAAElFTkSuQmCC.png",
+   "snippet": "Clovis High School. Address: 1055 Fowler AveClovis, CA 93611. Phone: 559-327-1000. Site Map \u00b7 Accessibility \u00b7 Sign In. Contents \u00a9 2026 Clovis High School. The ...",
+   "snippet_highlighted_words": [
+    "Clovis High School",
+    "CA",
+    "Clovis High School"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "Staff",
+      "link": "https://chs.cusd.com/staff",
+      "snippet": "Address: 1055 Fowler AveClovis, CA 93611. Phone: 559-327 ..."
+     },
+     {
+      "title": "Bell Schedule",
+      "link": "https://chs.cusd.com/bellschedule",
+      "snippet": "Clovis High School. Address: 1055 Fowler AveClovis, CA 93611 ..."
+     },
+     {
+      "title": "Athletics",
+      "link": "https://chs.cusd.com/athleticshome",
+      "snippet": "Athletic Resources. Clovis High School. Address: 1055 Fowler ..."
+     },
+     {
+      "title": "Maps",
+      "link": "https://chs.cusd.com/maps",
+      "snippet": "School Profile. Clovis High School. Address: 1055 Fowler ..."
+     },
+     {
+      "title": "Attendance",
+      "link": "https://chs.cusd.com/attendance",
+      "snippet": "Clovis High School. Address: 1055 Fowler AveClovis, CA 93611 ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Clovis High School. Address: 1055 Fowler AveClovis, CA 93611. Phone: 559-327-1000. Site Map \u00b7 Accessibility \u00b7 Sign In. Contents \u00a9 2026 Clovis High School. The ...",
+     "source_info_link": "https://chs.cusd.com/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACDUlEQVR4AV3RQ4A0RxQA4O_VzGZj27Zt27Zt32Je_1Ns6xbbtm1z7Znul7nOft1lVwWc8ttO6naKMAdWwvKYr1EmnrjlyZeGZu7N_YhRfCfzy_b3z_c3ltjY4HGza570047qVpYodsRZWBdzAb7Hz7gSc2FIxOfN5ba9nnxo7ruqVmcgnbAtbsPOWBC9kJVWUhGJHsyHLYjrpUNi5qJIM-NULKzbBAbqNEyO6jYHcWqOjC9UsAzWM136PbP81mrrw3emC6uIxpoFS2Fe3erkof--7ftjwXlb4-R9mNAlZhOxYsFcaGMU_-IjXIIZ8664sKmpguoe8ly8hb8xggnMFUf9s_mCWA6Zcgh_oQ955wKvgbg7RVBX5sLCwdxoqNq_Nm877hEBpIxEZtYiwp3mAfXCixFJVUipUyC0qxTtg347CNejiQn8ioc6s1wbEQOO2UEyc5OjdQKWxmyIVpVXFwyiidkxP9bGFcLZH_79k0ZrdoVDMQMbYSHMjpkxWJKf0KdbwYGrz7v0IqMLfjJLcChm7n5lo8nXBT_gPdOEWDSysVhzcrZ5sZzp0pdV7eNSxASuw5-6zZzM3ZlkjmA23UZqrp1lrsZfpa3Wyvo5HIOn8DemoBGNmTKjmRS00YfXkpOFe-uxWul9YHE9paeW9ZM4ALvhaJyPL_EnLsSx2DPTnn8N1fdkrdXY-XP_A4bM2IcD4T01AAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESTQHrOzAV0L05qJFiDmWOmacM-FDj8IsNJSCC1G7pjMtfnTtdXpz4aEwweGftSfD3Zw2CKMCW2X5p_TEfgTG_-qroB5jh5L6UR2WlXBNN&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESTQHrOzAV0L05qJFiDmWOmacM-FDj8IsNJSCC1G7pjMtfnTtdXpz4aEwweGftSfD3Zw2CKMCW2X5p_TEfgTG_-qroB5jh5L6UR2WlXBNN",
+   "source": "Clovis High School"
+  },
+  {
+   "position": 2,
+   "title": "Clovis High School (California)",
+   "link": "https://en.wikipedia.org/wiki/Clovis_High_School_(California)",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAVCA3NvjzUoEqfTpDEmv5CuWxlCo5E9RYHyj5j8pXsY_wmJey_fQTacR00WinP93JyNGnqKoS5e1-SkTJJqaZZ7t0rx6ctBoFoZar5AkwqBG1Y6vtoHChnFKKKNqtS_KwlQuTqPJdsGhoulBATti2XSQ&ved=2ahUKEwjUo43a5-SWAxUxsVYBHf7EEzMQFnoECEgQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Clovis_High_School_(...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+   "snippet": "Clovis High School is a four-year high school founded in 1899. The school's current campus, located at 1055 Fowler Avenue in Clovis, California, ...",
+   "snippet_highlighted_words": [
+    "Clovis High School",
+    "California"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Clovis High School is a four-year high school founded in 1899. The school's current campus, located at 1055 Fowler Avenue in Clovis, California, ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Clovis_High_School_(California)",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdQHrOzAVCA3NvjzUoEqfTpDEmv5CuWxlCo5E9RYHyj5j8pXsY_wmJey_fQTacR00WinP93JyNGnqKoS5e1-SkTJJqaZZ7t0rx6ctBoFoZar5AkwqBG1Y6vtoHChnFKKKNqtS_KwlQuTqPJdsGhoulBATti2XSQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdQHrOzAVCA3NvjzUoEqfTpDEmv5CuWxlCo5E9RYHyj5j8pXsY_wmJey_fQTacR00WinP93JyNGnqKoS5e1-SkTJJqaZZ7t0rx6ctBoFoZar5AkwqBG1Y6vtoHChnFKKKNqtS_KwlQuTqPJdsGhoulBATti2XSQ",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Clovis_High_School_(California)#:~:text=Clovis%20High%20School%20is%20a,United%20States%2C%20opened%20in%201969."
+  },
+  {
+   "position": 3,
+   "title": "Clovis High School - California",
+   "link": "https://www.usnews.com/education/best-high-schools/california/districts/clovis-unified-school-district/clovis-high-school-1969",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEStgEB6zswFdInqi6nZgrRCCcPWN2poM0q9hgAnC-ng3XIkA_O-CC9DX5A5wYUHVX9tWsMk2uxTG2HCHfFndMavZuGciUlNm_DMJUBszdwRcWhQP0uMoanRxa9OO90YSR3NC-ii3d-etrWTBgo6FY8JkjUxJvHYKMbX2feI3LbQ5O-ePwqgfpYfjbY7j4NIuHAj-lahN3loHV3wmDJti-JSiwq4nZ-egEPym_G5LJIlufW_UcZRHEkIw&ved=2ahUKEwjUo43a5-SWAxUxsVYBHf7EEzMQFnoECGQQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a clovis-unified-school-district",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png",
+   "snippet": "Clovis High School is ranked 387th within California. Students have the opportunity to take Advanced Placement\u00ae coursework and exams.",
+   "snippet_highlighted_words": [
+    "Clovis High School",
+    "California"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Clovis High School is ranked 387th within California. Students have the opportunity to take Advanced Placement\u00ae coursework and exams.",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/california/districts/clovis-unified-school-district/clovis-high-school-1969",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEStgEB6zswFdInqi6nZgrRCCcPWN2poM0q9hgAnC-ng3XIkA_O-CC9DX5A5wYUHVX9tWsMk2uxTG2HCHfFndMavZuGciUlNm_DMJUBszdwRcWhQP0uMoanRxa9OO90YSR3NC-ii3d-etrWTBgo6FY8JkjUxJvHYKMbX2feI3LbQ5O-ePwqgfpYfjbY7j4NIuHAj-lahN3loHV3wmDJti-JSiwq4nZ-egEPym_G5LJIlufW_UcZRHEkIw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEStgEB6zswFdInqi6nZgrRCCcPWN2poM0q9hgAnC-ng3XIkA_O-CC9DX5A5wYUHVX9tWsMk2uxTG2HCHfFndMavZuGciUlNm_DMJUBszdwRcWhQP0uMoanRxa9OO90YSR3NC-ii3d-etrWTBgo6FY8JkjUxJvHYKMbX2feI3LbQ5O-ePwqgfpYfjbY7j4NIuHAj-lahN3loHV3wmDJti-JSiwq4nZ-egEPym_G5LJIlufW_UcZRHEkIw",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/california/districts/clovis-unified-school-district/clovis-high-school-1969#:~:text=Clovis%20High%20School%20is%20ranked,Advanced%20Placement%C2%AE%20coursework%20and%20exams."
+  },
+  {
+   "position": 4,
+   "title": "Clovis South High School - Home",
+   "link": "https://cshs.cusd.com/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTgHrOzAVixoEbKA9dEDToTlFpwhLbuZ3eY_fe5SsN_hcJ3twgLkePChFamiEw-kvk8k3xVZEVAEKeci1iZBG-IY2h1YJrLtAQDlARGrA2w&ved=2ahUKEwjUo43a5-SWAxUxsVYBHf7EEzMQFnoECGcQAQ&uoh=1",
+   "displayed_link": "https://cshs.cusd.com",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACDUlEQVR4AV3RQ4A0RxQA4O_VzGZj27Zt27Zt32Je_1Ns6xbbtm1z7Znul7nOft1lVwWc8ttO6naKMAdWwvKYr1EmnrjlyZeGZu7N_YhRfCfzy_b3z_c3ltjY4HGza570047qVpYodsRZWBdzAb7Hz7gSc2FIxOfN5ba9nnxo7ruqVmcgnbAtbsPOWBC9kJVWUhGJHsyHLYjrpUNi5qJIM-NULKzbBAbqNEyO6jYHcWqOjC9UsAzWM136PbP81mrrw3emC6uIxpoFS2Fe3erkof--7ftjwXlb4-R9mNAlZhOxYsFcaGMU_-IjXIIZ8664sKmpguoe8ly8hb8xggnMFUf9s_mCWA6Zcgh_oQ955wKvgbg7RVBX5sLCwdxoqNq_Nm877hEBpIxEZtYiwp3mAfXCixFJVUipUyC0qxTtg347CNejiQn8ioc6s1wbEQOO2UEyc5OjdQKWxmyIVpVXFwyiidkxP9bGFcLZH_79k0ZrdoVDMQMbYSHMjpkxWJKf0KdbwYGrz7v0IqMLfjJLcChm7n5lo8nXBT_gPdOEWDSysVhzcrZ5sZzp0pdV7eNSxASuw5-6zZzM3ZlkjmA23UZqrp1lrsZfpa3Wyvo5HIOn8DemoBGNmTKjmRS00YfXkpOFe-uxWul9YHE9paeW9ZM4ALvhaJyPL_EnLsSx2DPTnn8N1fdkrdXY-XP_A4bM2IcD4T01AAAAAElFTkSuQmCC.png",
+   "snippet": "Clovis High School \u00b7 Clovis East High School \u00b7 Clovis North High School \u00b7 Clovis ... CA 93611, (559) 327-9000, MarcHammack@cusd.com ; Title IX Coordinator ...",
+   "snippet_highlighted_words": [
+    "Clovis High School",
+    "CA"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Clovis High School \u00b7 Clovis East High School \u00b7 Clovis North High School \u00b7 Clovis ... CA 93611, (559) 327-9000, MarcHammack@cusd.com ; Title IX Coordinator ...",
+     "source_info_link": "https://cshs.cusd.com/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACDUlEQVR4AV3RQ4A0RxQA4O_VzGZj27Zt27Zt32Je_1Ns6xbbtm1z7Znul7nOft1lVwWc8ttO6naKMAdWwvKYr1EmnrjlyZeGZu7N_YhRfCfzy_b3z_c3ltjY4HGza570047qVpYodsRZWBdzAb7Hz7gSc2FIxOfN5ba9nnxo7ruqVmcgnbAtbsPOWBC9kJVWUhGJHsyHLYjrpUNi5qJIM-NULKzbBAbqNEyO6jYHcWqOjC9UsAzWM136PbP81mrrw3emC6uIxpoFS2Fe3erkof--7ftjwXlb4-R9mNAlZhOxYsFcaGMU_-IjXIIZ8664sKmpguoe8ly8hb8xggnMFUf9s_mCWA6Zcgh_oQ955wKvgbg7RVBX5sLCwdxoqNq_Nm877hEBpIxEZtYiwp3mAfXCixFJVUipUyC0qxTtg347CNejiQn8ioc6s1wbEQOO2UEyc5OjdQKWxmyIVpVXFwyiidkxP9bGFcLZH_79k0ZrdoVDMQMbYSHMjpkxWJKf0KdbwYGrz7v0IqMLfjJLcChm7n5lo8nXBT_gPdOEWDSysVhzcrZ5sZzp0pdV7eNSxASuw5-6zZzM3ZlkjmA23UZqrp1lrsZfpa3Wyvo5HIOn8DemoBGNmTKjmRS00YfXkpOFe-uxWul9YHE9paeW9ZM4ALvhaJyPL_EnLsSx2DPTnn8N1fdkrdXY-XP_A4bM2IcD4T01AAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESTgHrOzAVixoEbKA9dEDToTlFpwhLbuZ3eY_fe5SsN_hcJ3twgLkePChFamiEw-kvk8k3xVZEVAEKeci1iZBG-IY2h1YJrLtAQDlARGrA2w&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESTgHrOzAVixoEbKA9dEDToTlFpwhLbuZ3eY_fe5SsN_hcJ3twgLkePChFamiEw-kvk8k3xVZEVAEKeci1iZBG-IY2h1YJrLtAQDlARGrA2w",
+   "source": "Clovis South High School",
+   "read_more_link": "https://cshs.cusd.com/#:~:text=Latest%20News&text=For%20questions%20or%20complaints%2C%20contact%3A,MarcHammack%40cusd.com%20%3B%20Title%20IX%20Coordinator"
+  },
+  {
+   "position": 5,
+   "title": "Clovis Unified School District - Home",
+   "link": "https://www.cusd.com/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTQHrOzAVRGeeRzZxA_OAjHsA-KlfK_111-JNvpRA28yiH5Uxr2bExmV3CbWh_XXqColH_aOwLWsweW3gQr_EUAr-NaW_U5KC_AIx9NcR&ved=2ahUKEwjUo43a5-SWAxUxsVYBHf7EEzMQFnoECGYQAQ&uoh=1",
+   "displayed_link": "https://www.cusd.com",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACDUlEQVR4AV3RQ4A0RxQA4O_VzGZj27Zt27Zt32Je_1Ns6xbbtm1z7Znul7nOft1lVwWc8ttO6naKMAdWwvKYr1EmnrjlyZeGZu7N_YhRfCfzy_b3z_c3ltjY4HGza570047qVpYodsRZWBdzAb7Hz7gSc2FIxOfN5ba9nnxo7ruqVmcgnbAtbsPOWBC9kJVWUhGJHsyHLYjrpUNi5qJIM-NULKzbBAbqNEyO6jYHcWqOjC9UsAzWM136PbP81mrrw3emC6uIxpoFS2Fe3erkof--7ftjwXlb4-R9mNAlZhOxYsFcaGMU_-IjXIIZ8664sKmpguoe8ly8hb8xggnMFUf9s_mCWA6Zcgh_oQ955wKvgbg7RVBX5sLCwdxoqNq_Nm877hEBpIxEZtYiwp3mAfXCixFJVUipUyC0qxTtg347CNejiQn8ioc6s1wbEQOO2UEyc5OjdQKWxmyIVpVXFwyiidkxP9bGFcLZH_79k0ZrdoVDMQMbYSHMjpkxWJKf0KdbwYGrz7v0IqMLfjJLcChm7n5lo8nXBT_gPdOEWDSysVhzcrZ5sZzp0pdV7eNSxASuw5-6zZzM3ZlkjmA23UZqrp1lrsZfpa3Wyvo5HIOn8DemoBGNmTKjmRS00YfXkpOFe-uxWul9YHE9paeW9ZM4ALvhaJyPL_EnLsSx2DPTnn8N1fdkrdXY-XP_A4bM2IcD4T01AAAAAElFTkSuQmCC.png",
+   "snippet": "Upcoming Events ; 2026 State of the District Breakfast. 7:15 AM - 9:30 AM ; Clovis High School Play. 7:30 PM - 9:00 PM.",
+   "snippet_highlighted_words": [
+    "Clovis High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Upcoming Events ; 2026 State of the District Breakfast. 7:15 AM - 9:30 AM ; Clovis High School Play. 7:30 PM - 9:00 PM.",
+     "source_info_link": "https://www.cusd.com/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACDUlEQVR4AV3RQ4A0RxQA4O_VzGZj27Zt27Zt32Je_1Ns6xbbtm1z7Znul7nOft1lVwWc8ttO6naKMAdWwvKYr1EmnrjlyZeGZu7N_YhRfCfzy_b3z_c3ltjY4HGza570047qVpYodsRZWBdzAb7Hz7gSc2FIxOfN5ba9nnxo7ruqVmcgnbAtbsPOWBC9kJVWUhGJHsyHLYjrpUNi5qJIM-NULKzbBAbqNEyO6jYHcWqOjC9UsAzWM136PbP81mrrw3emC6uIxpoFS2Fe3erkof--7ftjwXlb4-R9mNAlZhOxYsFcaGMU_-IjXIIZ8664sKmpguoe8ly8hb8xggnMFUf9s_mCWA6Zcgh_oQ955wKvgbg7RVBX5sLCwdxoqNq_Nm877hEBpIxEZtYiwp3mAfXCixFJVUipUyC0qxTtg347CNejiQn8ioc6s1wbEQOO2UEyc5OjdQKWxmyIVpVXFwyiidkxP9bGFcLZH_79k0ZrdoVDMQMbYSHMjpkxWJKf0KdbwYGrz7v0IqMLfjJLcChm7n5lo8nXBT_gPdOEWDSysVhzcrZ5sZzp0pdV7eNSxASuw5-6zZzM3ZlkjmA23UZqrp1lrsZfpa3Wyvo5HIOn8DemoBGNmTKjmRS00YfXkpOFe-uxWul9YHE9paeW9ZM4ALvhaJyPL_EnLsSx2DPTnn8N1fdkrdXY-XP_A4bM2IcD4T01AAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESTQHrOzAVRGeeRzZxA_OAjHsA-KlfK_111-JNvpRA28yiH5Uxr2bExmV3CbWh_XXqColH_aOwLWsweW3gQr_EUAr-NaW_U5KC_AIx9NcR&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESTQHrOzAVRGeeRzZxA_OAjHsA-KlfK_111-JNvpRA28yiH5Uxr2bExmV3CbWh_XXqColH_aOwLWsweW3gQr_EUAr-NaW_U5KC_AIx9NcR",
+   "source": "Clovis Unified School District",
+   "read_more_link": "https://www.cusd.com/#:~:text=Upcoming%20Events&text=View%20Full%20Calendar&text=View%20Full%20Calendar"
+  },
+  {
+   "position": 6,
+   "title": "Clovis High - School Directory Details (CA Dept of Education)",
+   "link": "https://www.cde.ca.gov/schooldirectory/details?cdscode=10621171031053",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAV6Aw9WVUrgr0z-GLERdqj7W4TL-aA-hTT8-Kbp_zamilhPYKGbn93sLoFt5NFga6S87kRbR_v3FPImc5Axl_oQdvc0vXIg1z4KoYG54faw3W3aSOvd3dDFvFS7Gvn_st_jAcBcGdXTlijxbLiDyGYcAUQknzw3QpX&ved=2ahUKEwjUo43a5-SWAxUxsVYBHf7EEzMQFnoECGMQAQ&uoh=1",
+   "displayed_link": "https://www.cde.ca.gov \u203a schooldirectory \u203a details",
+   "favicon": "https://serpapi.com/searches/6aa30d6570e9d0c62239b410/images/YZcGQa7oBtbBblObS6f-TsIUTmtNwJN5waQkvy4M5Nk.png",
+   "snippet": "School Address 1055 Fowler Ave. Clovis, CA 93611-2062. Phone Number (559) 327-1000. School Type High Schools. High Grade 12 Public School",
+   "snippet_highlighted_words": [
+    "CA"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "School Address 1055 Fowler Ave. Clovis, CA 93611-2062. Phone Number (559) 327-1000. School Type High Schools. High Grade 12 Public School",
+     "source_info_link": "https://www.cde.ca.gov/schooldirectory/details?cdscode=10621171031053",
+     "icon": "https://serpapi.com/searches/6aa30d6570e9d0c62239b410/images/YZcGQa7oBtbBblObS6f-TjlQpGGT8eboEMNLwFR7kYZnAjtePFo_oXgbE17EtKa2.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESfQHrOzAV6Aw9WVUrgr0z-GLERdqj7W4TL-aA-hTT8-Kbp_zamilhPYKGbn93sLoFt5NFga6S87kRbR_v3FPImc5Axl_oQdvc0vXIg1z4KoYG54faw3W3aSOvd3dDFvFS7Gvn_st_jAcBcGdXTlijxbLiDyGYcAUQknzw3QpX&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESfQHrOzAV6Aw9WVUrgr0z-GLERdqj7W4TL-aA-hTT8-Kbp_zamilhPYKGbn93sLoFt5NFga6S87kRbR_v3FPImc5Axl_oQdvc0vXIg1z4KoYG54faw3W3aSOvd3dDFvFS7Gvn_st_jAcBcGdXTlijxbLiDyGYcAUQknzw3QpX",
+   "source": "California Department of Education (CDE) (.gov)"
+  },
+  {
+   "position": 7,
+   "title": "Clovis High School in Clovis, CA",
+   "link": "https://www.niche.com/k12/clovis-high-school-clovis-ca/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAVpmQsVoQVbRCE7rMgUMhA3UMoi0QMyfmXDfYh1K08xA-V3p1F7J1v5rdtxaya32vCpVAk2n1-t62HEN595YYHVHxdOmD9EiGj5khCmjo8R9u71QrauiVSmpfPdJs7AawXX6qmBTSiPR7WiQ&ved=2ahUKEwjUo43a5-SWAxUxsVYBHf7EEzMQFnoECGUQAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a California",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png",
+   "snippet": "Clovis High School is a highly rated, public school located in CLOVIS, CA. It has 2,779 students in grades 9-12 with a student-teacher ratio of 20 to 1.",
+   "snippet_highlighted_words": [
+    "Clovis High School",
+    "CA"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Clovis High School is a highly rated, public school located in CLOVIS, CA. It has 2,779 students in grades 9-12 with a student-teacher ratio of 20 to 1.",
+     "source_info_link": "https://www.niche.com/k12/clovis-high-school-clovis-ca/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESbwHrOzAVpmQsVoQVbRCE7rMgUMhA3UMoi0QMyfmXDfYh1K08xA-V3p1F7J1v5rdtxaya32vCpVAk2n1-t62HEN595YYHVHxdOmD9EiGj5khCmjo8R9u71QrauiVSmpfPdJs7AawXX6qmBTSiPR7WiQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESbwHrOzAVpmQsVoQVbRCE7rMgUMhA3UMoi0QMyfmXDfYh1K08xA-V3p1F7J1v5rdtxaya32vCpVAk2n1-t62HEN595YYHVHxdOmD9EiGj5khCmjo8R9u71QrauiVSmpfPdJs7AawXX6qmBTSiPR7WiQ",
+   "source": "Niche",
+   "read_more_link": "https://www.niche.com/k12/clovis-high-school-clovis-ca/#:~:text=Clovis%20High%20School%20is%20a,ratio%20of%2020%20to%201."
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Clovis high school california ranking",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuxK7wHV4eeRV-l1tJpnYgPOOFySg:1789070695164&q=Clovis+high+school+california+ranking&sa=X&ved=2ahUKEwjUo43a5-SWAxUxsVYBHf7EEzMQ1QJ6BAhoEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Clovis+high+school+california+ranking"
+  },
+  {
+   "block_position": 1,
+   "query": "Clovis high school california yearbook",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuxK7wHV4eeRV-l1tJpnYgPOOFySg:1789070695164&q=Clovis+high+school+california+yearbook&sa=X&ved=2ahUKEwjUo43a5-SWAxUxsVYBHf7EEzMQ1QJ6BAh6EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Clovis+high+school+california+yearbook"
+  },
+  {
+   "block_position": 1,
+   "query": "Clovis high school california football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuxK7wHV4eeRV-l1tJpnYgPOOFySg:1789070695164&q=Clovis+high+school+california+football&sa=X&ved=2ahUKEwjUo43a5-SWAxUxsVYBHf7EEzMQ1QJ6BAh4EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Clovis+high+school+california+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Clovis South High School",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuxK7wHV4eeRV-l1tJpnYgPOOFySg:1789070695164&q=Clovis+South+High+School&sa=X&ved=2ahUKEwjUo43a5-SWAxUxsVYBHf7EEzMQ1QJ6BAh1EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Clovis+South+High+School"
+  },
+  {
+   "block_position": 1,
+   "query": "Clovis high school california basketball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuxK7wHV4eeRV-l1tJpnYgPOOFySg:1789070695164&q=Clovis+high+school+california+basketball&sa=X&ved=2ahUKEwjUo43a5-SWAxUxsVYBHf7EEzMQ1QJ6BAhvEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Clovis+high+school+california+basketball"
+  },
+  {
+   "block_position": 1,
+   "query": "Clovis high school california alumni",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuxK7wHV4eeRV-l1tJpnYgPOOFySg:1789070695164&q=Clovis+high+school+california+alumni&sa=X&ved=2ahUKEwjUo43a5-SWAxUxsVYBHf7EEzMQ1QJ6BAhrEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Clovis+high+school+california+alumni"
+  },
+  {
+   "block_position": 1,
+   "query": "Clovis high school photos",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuxK7wHV4eeRV-l1tJpnYgPOOFySg:1789070695164&q=Clovis+high+school+photos&sa=X&ved=2ahUKEwjUo43a5-SWAxUxsVYBHf7EEzMQ1QJ6BAhqEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Clovis+high+school+photos"
+  },
+  {
+   "block_position": 1,
+   "query": "Clovis high school Map",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuxK7wHV4eeRV-l1tJpnYgPOOFySg:1789070695164&q=Clovis+high+school+Map&sa=X&ved=2ahUKEwjUo43a5-SWAxUxsVYBHf7EEzMQ1QJ6BAhpEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Clovis+high+school+Map"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Clovis+High+School%22+California&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuxK7wHV4eeRV-l1tJpnYgPOOFySg:1789070695164&ei=Zw2japTUCbHi2roP_onPmAM&start=10&sa=N&sstk=AS6-VmJJScG7yNdO4sc5ulB8Y49TvA9mRQlqMlK1aLxyWh2GNjkAUf3jHfFEljbvkh9rRyv-a23P0KYIxpiXoyXatDo8pUj26EUuPQ&ved=2ahUKEwjUo43a5-SWAxUxsVYBHf7EEzMQ8NMDegQIWRAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Clovis+High+School%22+California&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuxK7wHV4eeRV-l1tJpnYgPOOFySg:1789070695164&ei=Zw2japTUCbHi2roP_onPmAM&start=10&sa=N&sstk=AS6-VmJJScG7yNdO4sc5ulB8Y49TvA9mRQlqMlK1aLxyWh2GNjkAUf3jHfFEljbvkh9rRyv-a23P0KYIxpiXoyXatDo8pUj26EUuPQ&ved=2ahUKEwjUo43a5-SWAxUxsVYBHf7EEzMQ8tMDegQIWRAE",
+   "3": "https://www.google.com/search?q=%22Clovis+High+School%22+California&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuxK7wHV4eeRV-l1tJpnYgPOOFySg:1789070695164&ei=Zw2japTUCbHi2roP_onPmAM&start=20&sa=N&sstk=AS6-VmJJScG7yNdO4sc5ulB8Y49TvA9mRQlqMlK1aLxyWh2GNjkAUf3jHfFEljbvkh9rRyv-a23P0KYIxpiXoyXatDo8pUj26EUuPQ&ved=2ahUKEwjUo43a5-SWAxUxsVYBHf7EEzMQ8tMDegQIWRAG",
+   "4": "https://www.google.com/search?q=%22Clovis+High+School%22+California&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuxK7wHV4eeRV-l1tJpnYgPOOFySg:1789070695164&ei=Zw2japTUCbHi2roP_onPmAM&start=30&sa=N&sstk=AS6-VmJJScG7yNdO4sc5ulB8Y49TvA9mRQlqMlK1aLxyWh2GNjkAUf3jHfFEljbvkh9rRyv-a23P0KYIxpiXoyXatDo8pUj26EUuPQ&ved=2ahUKEwjUo43a5-SWAxUxsVYBHf7EEzMQ8tMDegQIWRAI",
+   "5": "https://www.google.com/search?q=%22Clovis+High+School%22+California&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuxK7wHV4eeRV-l1tJpnYgPOOFySg:1789070695164&ei=Zw2japTUCbHi2roP_onPmAM&start=40&sa=N&sstk=AS6-VmJJScG7yNdO4sc5ulB8Y49TvA9mRQlqMlK1aLxyWh2GNjkAUf3jHfFEljbvkh9rRyv-a23P0KYIxpiXoyXatDo8pUj26EUuPQ&ved=2ahUKEwjUo43a5-SWAxUxsVYBHf7EEzMQ8tMDegQIWRAK",
+   "6": "https://www.google.com/search?q=%22Clovis+High+School%22+California&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuxK7wHV4eeRV-l1tJpnYgPOOFySg:1789070695164&ei=Zw2japTUCbHi2roP_onPmAM&start=50&sa=N&sstk=AS6-VmJJScG7yNdO4sc5ulB8Y49TvA9mRQlqMlK1aLxyWh2GNjkAUf3jHfFEljbvkh9rRyv-a23P0KYIxpiXoyXatDo8pUj26EUuPQ&ved=2ahUKEwjUo43a5-SWAxUxsVYBHf7EEzMQ8tMDegQIWRAM",
+   "7": "https://www.google.com/search?q=%22Clovis+High+School%22+California&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuxK7wHV4eeRV-l1tJpnYgPOOFySg:1789070695164&ei=Zw2japTUCbHi2roP_onPmAM&start=60&sa=N&sstk=AS6-VmJJScG7yNdO4sc5ulB8Y49TvA9mRQlqMlK1aLxyWh2GNjkAUf3jHfFEljbvkh9rRyv-a23P0KYIxpiXoyXatDo8pUj26EUuPQ&ved=2ahUKEwjUo43a5-SWAxUxsVYBHf7EEzMQ8tMDegQIWRAO",
+   "8": "https://www.google.com/search?q=%22Clovis+High+School%22+California&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuxK7wHV4eeRV-l1tJpnYgPOOFySg:1789070695164&ei=Zw2japTUCbHi2roP_onPmAM&start=70&sa=N&sstk=AS6-VmJJScG7yNdO4sc5ulB8Y49TvA9mRQlqMlK1aLxyWh2GNjkAUf3jHfFEljbvkh9rRyv-a23P0KYIxpiXoyXatDo8pUj26EUuPQ&ved=2ahUKEwjUo43a5-SWAxUxsVYBHf7EEzMQ8tMDegQIWRAQ",
+   "9": "https://www.google.com/search?q=%22Clovis+High+School%22+California&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuxK7wHV4eeRV-l1tJpnYgPOOFySg:1789070695164&ei=Zw2japTUCbHi2roP_onPmAM&start=80&sa=N&sstk=AS6-VmJJScG7yNdO4sc5ulB8Y49TvA9mRQlqMlK1aLxyWh2GNjkAUf3jHfFEljbvkh9rRyv-a23P0KYIxpiXoyXatDo8pUj26EUuPQ&ved=2ahUKEwjUo43a5-SWAxUxsVYBHf7EEzMQ8tMDegQIWRAS",
+   "10": "https://www.google.com/search?q=%22Clovis+High+School%22+California&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuxK7wHV4eeRV-l1tJpnYgPOOFySg:1789070695164&ei=Zw2japTUCbHi2roP_onPmAM&start=90&sa=N&sstk=AS6-VmJJScG7yNdO4sc5ulB8Y49TvA9mRQlqMlK1aLxyWh2GNjkAUf3jHfFEljbvkh9rRyv-a23P0KYIxpiXoyXatDo8pUj26EUuPQ&ved=2ahUKEwjUo43a5-SWAxUxsVYBHf7EEzMQ8tMDegQIWRAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Clovis+High+School%22+California&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Clovis+High+School%22+California&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Clovis+High+School%22+California&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Clovis+High+School%22+California&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Clovis+High+School%22+California&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Clovis+High+School%22+California&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Clovis+High+School%22+California&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Clovis+High+School%22+California&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Clovis+High+School%22+California&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Clovis+High+School%22+California&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Clovis+High+School%22+California&start=90"
+  }
+ }
+}

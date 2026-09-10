@@ -1,0 +1,603 @@
+{
+ "search_information": {
+  "query_displayed": "\"Milton High School\"",
+  "total_results": 518000,
+  "time_taken_displayed": 0.29,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Milton High School",
+  "type": "Public school in Milton, Wisconsin",
+  "entity_type": "local_nav",
+  "kgmid": "/m/0417952",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/0417952&hl=en-US&q=Milton+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F0417952&q=Milton+High+School",
+  "place_id": "ChIJeeXci_oRBogRRvfP4xFnn6k",
+  "website": "http://milton.k12.wi.us/schools/high/",
+  "description": "Milton High School is a public high school located in Milton, Wisconsin. Its enrollment was estimated at 1,065 students for the 2018\u201319 school year.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa30ab1792d68bfaed5c9f4/images/6oe4F9Tv0c1LvSRYXwEOni0ycQCvFhWHCl4B_xV9DOI.webp",
+   "link": "https://www.google.com/maps/place/Milton+High+School/data=!4m2!3m1!1s0x0:0xa99f6711e3cff746?sa=X&ved=2ahUKEwjv3e-f5eSWAxXqd_UHHdMPILgQ_BJ6BAgxEAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Milton_High_School_(Wisconsin)"
+  },
+  "address": "114 W High St, Milton, WI 53563",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntc9sCp_NdPw31h6FYnQ-04UJrDDw:1789070036176&q=milton+high+school+wisconsin+address&ludocid=12222601240240977734&sa=X&ved=2ahUKEwjv3e-f5eSWAxXqd_UHHdMPILgQ6BN6BAg6EAI"
+   }
+  ],
+  "mascot": "Rocky the Red Hawk",
+  "mascot_links": [
+   {
+    "text": "Mascot",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntc9sCp_NdPw31h6FYnQ-04UJrDDw:1789070036176&q=milton+high+school+wisconsin+mascot&stick=H4sIAAAAAAAAAOPgE-LSz9U3MDE0tzQ10tLJTrbST00pTU4syczPQ7ASc-Iz84pLMktKQTyr3MTi5PySRazKuZk5Jfl5ChmZ6RkKxckZ-fk5CuWZQLm84sw8BYgqAN0iBxViAAAA&sa=X&ved=2ahUKEwjv3e-f5eSWAxXqd_UHHdMPILgQ6BN6BAg_EAI"
+   },
+   {
+    "text": "Rocky the Red Hawk",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntc9sCp_NdPw31h6FYnQ-04UJrDDw:1789070036176&q=&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW675pmagtujYmimIAk_9v1kxCsmTda_Pe28l7wgXT4AAB3ebq1xxdSKIKEs3TAy5DkYmk1zwKIbHcV9LFKnLGnYgjXsb9hgcyq58qilS73a3Gb4przvAqmUvKoZ-C2TBBbbYVeDQSdi0Azqo40vyP5S1q9eXQX&sa=X&ved=2ahUKEwjv3e-f5eSWAxXqd_UHHdMPILgQmxN6BAg_EAM"
+   }
+  ],
+  "colors": "Red, White, Black",
+  "colors_links": [
+   {
+    "text": "Colors",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntc9sCp_NdPw31h6FYnQ-04UJrDDw:1789070036176&q=milton+high+school+wisconsin+colors&stick=H4sIAAAAAAAAAOPgE-LSz9U3MDE0tzQ10tLOTrbST00pTU4syczPQ7ASc-Iz84pLMktKQTyr5Pyc_KJFrMq5mTkl-XkKGZnpGQrFyRn5-TkK5ZnFyfl5xZl5CmBFxQBwomTgYQAAAA&sa=X&ved=2ahUKEwjv3e-f5eSWAxXqd_UHHdMPILgQ6BN6BAg-EAI"
+   },
+   {
+    "text": "Red",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntc9sCp_NdPw31h6FYnQ-04UJrDDw:1789070036176&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpjNbArDbgyagyg3CUfYVsFiq9ynkgymVOF7Wu4b34mlIo_nMWM7WTmMgwgLRZV1jKl82IBJbhPyMBRvKHloLoAJ7Qyb2MEc7TePZvsMr_EmNpoE_D8LJ4uxNhrkrgF8A65_OgAePJ0lYWSfTIcgpGCh0E3QY-ddZ75-e4MxyEjp1lzzpSaU2Z1jzH0QkMOF3-XNv3OY%3D&sa=X&ved=2ahUKEwjv3e-f5eSWAxXqd_UHHdMPILgQmxN6BAg-EAM"
+   },
+   {
+    "text": "White",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntc9sCp_NdPw31h6FYnQ-04UJrDDw:1789070036176&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpt2PmrrG0v_NNf8LKgZjBVjwPSJGOBj-fhttCVbIGZaH-VW9Jb1blWzOByjvEgWVSaxmtsccjys9keS2pr5-wAfeoQW-fjSg5IWuY5tMUFlkRtEmwvFMNNcJnZwjtV7zykLFwS92iwdva1HZC7-o-wZD4wrRXPh5mnTXoCFaE-v7ZZUpmqmEkIq2wTw0-nE6JMsAi_I%3D&sa=X&ved=2ahUKEwjv3e-f5eSWAxXqd_UHHdMPILgQmxN6BAg-EAQ"
+   },
+   {
+    "text": "Black",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntc9sCp_NdPw31h6FYnQ-04UJrDDw:1789070036176&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpraX69jV5X33UKfb-qjUYOsjWjX7nO47WTc3bfTI9Y65PreK8zKve9rD-D6vpxqzdUMP5H7XoA4Epser_k5kGPe4fT3hS4_zCYsHFTfouHhYDJuZPCmW5D6FZNgJvYmbnaNIC2HHAz3F4tq5b6O45RQnMOkNOoGOb0nC8fOUI3OuQIaS8f1wemMOkS-FnyDSnsbC65M%3D&sa=X&ved=2ahUKEwjv3e-f5eSWAxXqd_UHHdMPILgQmxN6BAg-EAU"
+   }
+  ],
+  "school_types": "High school, State school, Public school",
+  "school_types_links": [
+   {
+    "text": "School types",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntc9sCp_NdPw31h6FYnQ-04UJrDDw:1789070036176&q=milton+high+school+wisconsin+school+types&stick=H4sIAAAAAAAAAOPgE-LSz9U3MDE0tzQ10jLMTrbST00pTU4syczPQ7ASc-Iz84pLMktKQTyr4uSM_PwchZLKgtRFrJq5mTkl-XkKGZnpGQpQmfLM4uT8vOLMPAUkpcUAw0O0ZW0AAAA&sa=X&ved=2ahUKEwjv3e-f5eSWAxXqd_UHHdMPILgQ6BN6BAhAEAI"
+   },
+   {
+    "text": "High school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntc9sCp_NdPw31h6FYnQ-04UJrDDw:1789070036176&q=High+school&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMppXfNh-OkLk_azmU0uk1AX8sk8s1-2uDG13xvljBKYj-62BC653CUwqsnPBoRGsmoAhp8N1FFUjPXYR75tXwHhUXWv8UBnIL4TF0z5QyYwumc1_nCJ175e_u-x5tJZt1TqBROoK0aVnkkKgCq8hyKpkc9NqNTlEDBDOFcCl75M6ZvWugKNCnVpobR5_il-bfoGwUgF61s8Ubpm7F7R4A22hm9XC9PrhMJuMxbPriB9VR-pHs8LtuXs13KA3SOFOXXxAHeqk%3D&sa=X&ved=2ahUKEwjv3e-f5eSWAxXqd_UHHdMPILgQmxN6BAhAEAM"
+   },
+   {
+    "text": "State school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntc9sCp_NdPw31h6FYnQ-04UJrDDw:1789070036176&q=State+school&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ybGtCxI0H8z2nV80srIO5hizwNtt3Ym6Fi28M6pFzMpba6xCjNFIQKbDb7W_yOsUKzHP6t0BoDIq84DgtktiHBvFqPDhCTDRJvE6JLQvR7EaibhmoQWBTvJOBcdlHL25dwHqGLk3AXopUPwNc91tpZHCJlGBrqzyP0KAurTUXalfwbdQEk8hiAplIgLujdtoIQKDOs2TRxbcxfK7jIf-Rsr286ydS1N5n2U-XTcogU4OQfNenEeKzjDB6FuRvAgvrNZzuCg%3D&sa=X&ved=2ahUKEwjv3e-f5eSWAxXqd_UHHdMPILgQmxN6BAhAEAQ"
+   },
+   {
+    "text": "Public school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntc9sCp_NdPw31h6FYnQ-04UJrDDw:1789070036176&q=Public+school&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpnRjecyiHCyfvh60pbD8ck56NaVb1rRy5mFUEfV53q25U5z4WHsBgSa_e0unuhy-ayBk7Zd2jqvKjlt1IkxJQTjLlr10sRb8WFIeYWfbJ_KmZxR6MHMfU0KuraP6OhAjoPisKFavM3hvwwDm46cCh8NJMM1HaZyEh-tSDKKZeRknheCxU-uzPFbG7HVaeoHgEQKVBzeRxxa3LsyOY98W561tSNiYZtm1ZACP8ETP91ER8oXhxaFV20F7MxsiZ5QtkmVcSbs%3D&sa=X&ved=2ahUKEwjv3e-f5eSWAxXqd_UHHdMPILgQmxN6BAhAEAU"
+   }
+  ],
+  "phone": "(608) 868-9300",
+  "phone_links": [
+   {
+    "text": "Phone",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntc9sCp_NdPw31h6FYnQ-04UJrDDw:1789070036176&q=milton+high+school+wisconsin+phone&ludocid=12222601240240977734&sa=X&ved=2ahUKEwjv3e-f5eSWAxXqd_UHHdMPILgQ6BN6BAg9EAI"
+   }
+  ],
+  "raw_hours": "Open \u00b7 Closes 4 PM",
+  "hours": {
+   "thursday": {
+    "opens": "8\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "friday": {
+    "opens": "8\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "8\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "tuesday": {
+    "opens": "8\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "wednesday": {
+    "opens": "8\u202fAM",
+    "closes": "4\u202fPM"
+   }
+  },
+  "unclaimed_listing": true,
+  "profiles": [
+   {
+    "name": "YouTube",
+    "link": "https://www.youtube.com/channel/UCQoXF8Nn2wnlQb6jpc8ZZqQ",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Milton+High+School%22",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAP1BMVEX_____z8__n5__kJD_gID_cHD_YGD_v7__39__ICD_AAD_r6__EBD_7-__oKD_MDD_QED_UFD_X1__j4__f396G04EAAAAhklEQVR4AeXQRQLDQAwDQC3bajj5_1dLYb63czYKf8VY50OcBO9swkyUB_SBkfJQlqOXeKJAz_FEQM9zVCqXInqRIy-RC9W-AJDypgCwyoGiV68LkLJFwX6CVJcr8nBwZJgLXMaDAs9RxsMcLE949IQnEnpoeKjEpC25o12OpVwkTURy_JQX1r4RC2S7kZYAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/milton_school_district/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Milton+High+School%22",
+    "image": "https://serpapi.com/searches/6aa30ab1792d68bfaed5c9f4/images/6oe4F9Tv0c1LvSRYXwEOnlnMtx2A5tTNilXKZov_pk97PhBxL5VbuAecyOls9_Ba.png"
+   },
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/miltonhighalum/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Milton+High+School%22",
+    "image": "https://serpapi.com/searches/6aa30ab1792d68bfaed5c9f4/images/6oe4F9Tv0c1LvSRYXwEOnpSXosN0h1Geod2VPolZ7gpap9HIT5w8kTzMhLKIdkxM.png"
+   },
+   {
+    "name": "X (Twitter)",
+    "link": "https://twitter.com/schdistofmilton",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Milton+High+School%22",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAABhUlEQVR4AczOA6xcARCF4X_us23btuLUQR3WZlhbQW3bto2gtm3b2J3GN4tY74uHh3okOi42Nj4AAUDwTvDEhisABCOAEAzYTBh0bN-lc5d0QgAhHPqX4Y4pkd367Zc-xMcXCPDg8TPwxeQH724Uj9N95GJ4pnHxby1xgCmV3v-GsFb7k0Iee7UjaQgmIYe9v9O4-wUKWaATyMPAViwvr1NnOQWDdTV5CHYSaKWLmaGDyvU4mTgQcllracaFr-9uk-yLM8k8fAJff0IUTghRVFu3M1ynkYk4nchiqqU3Ry05RDibMMhjtj6Ht3dJxVk_l1G64cspOusychBsCWm01WNM0jFs0sbEYUtIIuTXNco588OLh09JxE6wweuXEAvfL9PQus3-iU80N34KCaQyUOcxTTuSjEmMRI5rS9JwIZfD1t7ceo34YIpnuQ4nGwP8XXlq_fJZd9jE8KBHC5IwAELJ7dWrZ6fOuNhkgFgAEEIAwA1MQkw0AgDC_wnKycrKSQ2iPAkAVyNzq8rxicIAAAAASUVORK5CYII.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "What famous people went to Milton High School?",
+   "type": "ai_overview",
+   "page_token": "3DlUuHicHdBdbpswAABg7TJ9bHBAnRIpmsr4CwtENrYBv0zYDlBig5PQQHjrFXaGnaqn6bQjfN_HX_XWnz-__WnH0dy2q9U0Tc_NMDTq9CwGvapuj16sRKUUr8R5-_L9Bfyoxc6_C_fnVbiQGEM9ZGHvdeZe6klNIx6hgheNxT13QRa6IS-uj5E8VMrtE1sslaa_SLefqyDeJ5q1B9y-p6FhCS5HDCjl4eYo-uAuOvdaaoMy32RpF5CTjm3hQwcXyoHr1BYR7bI1hflZmjRsnGPIXI7RKLVcjqRNMhJfMzI7CQge2GrfecTcNJwsRlFdKmmkh2iynhe29qdDnmbCNj0i4MABAmi90RK8zmXOYrK4F5IHF2HFBNOU-q2YYRFcyoKM1TkFoi9nhluYeGSEhURiHt4gQYvolCaAxicfUI5VK60NZQo-_jkdnm_s3N8_WBgYCJ9qcd_ZT_-vd79rPW7NdWi-ANBsjW0",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=3DlUuHicHdBdbpswAABg7TJ9bHBAnRIpmsr4CwtENrYBv0zYDlBig5PQQHjrFXaGnaqn6bQjfN_HX_XWnz-__WnH0dy2q9U0Tc_NMDTq9CwGvapuj16sRKUUr8R5-_L9Bfyoxc6_C_fnVbiQGEM9ZGHvdeZe6klNIx6hgheNxT13QRa6IS-uj5E8VMrtE1sslaa_SLefqyDeJ5q1B9y-p6FhCS5HDCjl4eYo-uAuOvdaaoMy32RpF5CTjm3hQwcXyoHr1BYR7bI1hflZmjRsnGPIXI7RKLVcjqRNMhJfMzI7CQge2GrfecTcNJwsRlFdKmmkh2iynhe29qdDnmbCNj0i4MABAmi90RK8zmXOYrK4F5IHF2HFBNOU-q2YYRFcyoKM1TkFoi9nhluYeGSEhURiHt4gQYvolCaAxicfUI5VK60NZQo-_jkdnm_s3N8_WBgYCJ9qcd_ZT_-vd79rPW7NdWi-ANBsjW0",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFEwOXJNRFUyZEZabE5pMVJkR2RCV0Y4MlgyWklZbU5GU0RKcGNXWm5TVVJVYnpsSmVYQnpTMlkzZW10cE5qWTNaVlJrY2xWeFNUUkNMVVZKYW5Kb04yMDVOalZoYjFoTlgxQTBiRVpwVmpKS1kyMTZia1pvVjFOemR4SVhNVUZ4YW1GMUxXcERkWEoyTVdVNFVEQTFMVUYzVVhNYUlrRkVjM0k1WmxOMWRVTlNVREJFVDE5R1EwbFBabkJYVkUxS1ZHNWliM1IxVTJjIiwiZmN2IjoiMyIsImVpIjoiMUFxamF1LWpDdXJ2MWU4UDA1LUF3UXMiLCJxYyI6IkNoSnRhV3gwYjI0Z2FHbG5hQ0J6WTJodmIyd1FBSDJpbHpvXyIsInF1ZXN0aW9uIjoiV2hhdCBmYW1vdXMgcGVvcGxlIHdlbnQgdG8gTWlsdG9uIEhpZ2ggU2Nob29sPyIsImxrIjoiR2kxM2FHRjBJR1poYlc5MWN5QndaVzl3YkdVZ2QyVnVkQ0IwYnlCdGFXeDBiMjRnYUdsbmFDQnpZMmh2YjJ3IiwiYnMiOiJjM1dPTVEtQ01CQ0Y0M3FUTTRueEpuRlFTUmhjaVpNc1RBekdzV0NsamRBUzcwamp2eGRMTkVSeGU4UDczdnRBd082a0JPTlZOTFlqYktWdGE0bE9Ha2EybU9tYXJjRlVWd3J6VWxsYkozRVViTjFfb2hrSTlTTElFM0NHdmJfUU5MRVhFdDZGdVdsVG9UYVlDU0pScW80a015WHhNbGo4N24zNmpZQUNvdFM2UHBrSEVuZVhYb0t3c3RQcUd6d2V2TDc2ZzB4OFZRSnlDTl82ckNRV2tuaTg2clU5bU1UcllPVy1xLU8xdmpwOHpHZFAiLCJpZCI6ImZjXzFBcWphdS1qQ3VydjFlOFAwNS1Bd1FzXzQifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFEwOXJNRFUyZEZabE5pMVJkR2RCV0Y4MlgyWklZbU5GU0RKcGNXWm5TVVJVYnpsSmVYQnpTMlkzZW10cE5qWTNaVlJrY2xWeFNUUkNMVVZKYW5Kb04yMDVOalZoYjFoTlgxQTBiRVpwVmpKS1kyMTZia1pvVjFOemR4SVhNVUZ4YW1GMUxXcERkWEoyTVdVNFVEQTFMVUYzVVhNYUlrRkVjM0k1WmxOMWRVTlNVREJFVDE5R1EwbFBabkJYVkUxS1ZHNWliM1IxVTJjIiwiZmN2IjoiMyIsImVpIjoiMUFxamF1LWpDdXJ2MWU4UDA1LUF3UXMiLCJxYyI6IkNoSnRhV3gwYjI0Z2FHbG5hQ0J6WTJodmIyd1FBSDJpbHpvXyIsInF1ZXN0aW9uIjoiV2hhdCBmYW1vdXMgcGVvcGxlIHdlbnQgdG8gTWlsdG9uIEhpZ2ggU2Nob29sPyIsImxrIjoiR2kxM2FHRjBJR1poYlc5MWN5QndaVzl3YkdVZ2QyVnVkQ0IwYnlCdGFXeDBiMjRnYUdsbmFDQnpZMmh2YjJ3IiwiYnMiOiJjM1dPTVEtQ01CQ0Y0M3FUTTRueEpuRlFTUmhjaVpNc1RBekdzV0NsamRBUzcwamp2eGRMTkVSeGU4UDczdnRBd082a0JPTlZOTFlqYktWdGE0bE9Ha2EybU9tYXJjRlVWd3J6VWxsYkozRVViTjFfb2hrSTlTTElFM0NHdmJfUU5MRVhFdDZGdVdsVG9UYVlDU0pScW80a015WHhNbGo4N24zNmpZQUNvdFM2UHBrSEVuZVhYb0t3c3RQcUd6d2V2TDc2ZzB4OFZRSnlDTl82ckNRV2tuaTg2clU5bU1UcllPVy1xLU8xdmpwOHpHZFAiLCJpZCI6ImZjXzFBcWphdS1qQ3VydjFlOFAwNS1Bd1FzXzQifQ%3D%3D"
+  },
+  {
+   "question": "What is Milton High School's ranking in Massachusetts?",
+   "type": "ai_overview",
+   "page_token": "qRNrznicHdDBbpswGABg7WV6bAg0mRIpmpoCQWyms7F_bF8mxyQxwRAnZYH6tlfYM-yp-jSbdv2O368_tunbj0-_zTC4t_VsNo7j4-lyOdnDo750M_X23uuZVtbulW7Xy8_L-Zej3iR3vX256S1mzkFMApoQqIO80SEsBCXyG0COw8nLrGgUh5BZuNchHlRmGKsGkOCaQ_w8l1luUbugNKhfaAgKt84hbxJhSSWZa7nP71CtFpgjX4LhNJz_1OGQSJBhkaUjii1itqgUlTsEuS99URbndFslyTsC8aRi8pUCehJVimhLqIBVJiI0lknxKoCQcmdC3aVORHVP4u2N-X8YpF5xM0HlGA6SqAiIJ9wZ0plon658YvSEeXoVnA2qLea6F5OkBqOYDZjXRE-XBjPi9dl2jJPvtCfnfWZTRU1Q7ablwbor8tC8pnmmubxi_HDU90308P968-PYDWt3u5z-Amc2jgY",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=qRNrznicHdDBbpswGABg7WV6bAg0mRIpmpoCQWyms7F_bF8mxyQxwRAnZYH6tlfYM-yp-jSbdv2O368_tunbj0-_zTC4t_VsNo7j4-lyOdnDo750M_X23uuZVtbulW7Xy8_L-Zej3iR3vX256S1mzkFMApoQqIO80SEsBCXyG0COw8nLrGgUh5BZuNchHlRmGKsGkOCaQ_w8l1luUbugNKhfaAgKt84hbxJhSSWZa7nP71CtFpgjX4LhNJz_1OGQSJBhkaUjii1itqgUlTsEuS99URbndFslyTsC8aRi8pUCehJVimhLqIBVJiI0lknxKoCQcmdC3aVORHVP4u2N-X8YpF5xM0HlGA6SqAiIJ9wZ0plon658YvSEeXoVnA2qLea6F5OkBqOYDZjXRE-XBjPi9dl2jJPvtCfnfWZTRU1Q7ablwbor8tC8pnmmubxi_HDU90308P968-PYDWt3u5z-Amc2jgY",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFEwOXJNRFUyZEZabE5pMVJkR2RCV0Y4MlgyWklZbU5GU0RKcGNXWm5TVVJVYnpsSmVYQnpTMlkzZW10cE5qWTNaVlJrY2xWeFNUUkNMVVZKYW5Kb04yMDVOalZoYjFoTlgxQTBiRVpwVmpKS1kyMTZia1pvVjFOemR4SVhNVUZ4YW1GMUxXcERkWEoyTVdVNFVEQTFMVUYzVVhNYUlrRkVjM0k1WmxOMWRVTlNVREJFVDE5R1EwbFBabkJYVkUxS1ZHNWliM1IxVTJjIiwiZmN2IjoiMyIsImVpIjoiMUFxamF1LWpDdXJ2MWU4UDA1LUF3UXMiLCJxYyI6IkNoSnRhV3gwYjI0Z2FHbG5hQ0J6WTJodmIyd1FBSDJpbHpvXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBNaWx0b24gSGlnaCBTY2hvb2wncyByYW5raW5nIGluIE1hc3NhY2h1c2V0dHM/IiwibGsiOiJHaDF0YVd4MGIyNGdhR2xuYUNCelkyaHZiMndnY21GdWEybHVaeUJ0WVEiLCJicyI6ImMzV09NUS1DTUJDRjQzcVRNNG54Sm5GUVNSaGNpWk1zVEF6R3NXQ2xqZEFTNzBqanZ4ZExORVJ4ZThQNzN2dEF3TzZrQk9OVk5MWWpiS1Z0YTRsT0drYTJtT21hcmNGVVZ3cnpVbGxiSjNFVWJOMV9vaGtJOVNMSUUzQ0d2Yl9RTkxFWEV0NkZ1V2xUb1RhWUNTSlJxbzRrTXlYeE1sajg3bjM2allBQ290UzZQcGtIRW5lWFhvS3dzdFBxR3p3ZXZMNzZnMHg4VlFKeUNOXzZyQ1FXa25pODZyVTltTVRyWU9XLXEtTzF2anA4ekdkUCIsImlkIjoiZmNfMUFxamF1LWpDdXJ2MWU4UDA1LUF3UXNfNCJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFEwOXJNRFUyZEZabE5pMVJkR2RCV0Y4MlgyWklZbU5GU0RKcGNXWm5TVVJVYnpsSmVYQnpTMlkzZW10cE5qWTNaVlJrY2xWeFNUUkNMVVZKYW5Kb04yMDVOalZoYjFoTlgxQTBiRVpwVmpKS1kyMTZia1pvVjFOemR4SVhNVUZ4YW1GMUxXcERkWEoyTVdVNFVEQTFMVUYzVVhNYUlrRkVjM0k1WmxOMWRVTlNVREJFVDE5R1EwbFBabkJYVkUxS1ZHNWliM1IxVTJjIiwiZmN2IjoiMyIsImVpIjoiMUFxamF1LWpDdXJ2MWU4UDA1LUF3UXMiLCJxYyI6IkNoSnRhV3gwYjI0Z2FHbG5hQ0J6WTJodmIyd1FBSDJpbHpvXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBNaWx0b24gSGlnaCBTY2hvb2wncyByYW5raW5nIGluIE1hc3NhY2h1c2V0dHM%2FIiwibGsiOiJHaDF0YVd4MGIyNGdhR2xuYUNCelkyaHZiMndnY21GdWEybHVaeUJ0WVEiLCJicyI6ImMzV09NUS1DTUJDRjQzcVRNNG54Sm5GUVNSaGNpWk1zVEF6R3NXQ2xqZEFTNzBqanZ4ZExORVJ4ZThQNzN2dEF3TzZrQk9OVk5MWWpiS1Z0YTRsT0drYTJtT21hcmNGVVZ3cnpVbGxiSjNFVWJOMV9vaGtJOVNMSUUzQ0d2Yl9RTkxFWEV0NkZ1V2xUb1RhWUNTSlJxbzRrTXlYeE1sajg3bjM2allBQ290UzZQcGtIRW5lWFhvS3dzdFBxR3p3ZXZMNzZnMHg4VlFKeUNOXzZyQ1FXa25pODZyVTltTVRyWU9XLXEtTzF2anA4ekdkUCIsImlkIjoiZmNfMUFxamF1LWpDdXJ2MWU4UDA1LUF3UXNfNCJ9"
+  },
+  {
+   "question": "How many students go to Milton High School, GA?",
+   "type": "ai_overview",
+   "page_token": "2E_5HnicHdBvjppAGIDx9DL7cWVQt1kT04QFdamMzjh_HL40w4CivAN0RQf41iv0DD1VT9NNL_Dkl-fXH7jU1d8vv8uua2-LycQ593xumjMUz6axE30bajMxGiDTplq8fH1B305mGT1M8PZhAsLbVoTUO3gpZOsVNdNc0ChPMMQ0qfE-8yHAXk6SC1pvRetlEWhuZwNDeZlF8U5aAVSoTlWxYPA-y-pcYK-VVJgZrcu7RhAo2Qu-KZvCCu_orVwhxV1ypLby3WcWgNXBjcnbeLD5Lq2DQYfwPQkx0WN8p9Fs-ukZjOydss4lvB_YFTgZEx8jMt-JQClL5mqMXMFgLOxrlLFgf6jSvfZLL-MgigrX3ENvh81qjuGVRqXpyXH1Ux15pyuMTK36lJUkCXlHjjk1fXMhnI7mClZs4ou-nn0Z0u1uLR4pMwOX_Shsqj_7PgtjlLunk3ksp0__Xy9_nGy3aD-a8z-Ygo9n",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=2E_5HnicHdBvjppAGIDx9DL7cWVQt1kT04QFdamMzjh_HL40w4CivAN0RQf41iv0DD1VT9NNL_Dkl-fXH7jU1d8vv8uua2-LycQ593xumjMUz6axE30bajMxGiDTplq8fH1B305mGT1M8PZhAsLbVoTUO3gpZOsVNdNc0ChPMMQ0qfE-8yHAXk6SC1pvRetlEWhuZwNDeZlF8U5aAVSoTlWxYPA-y-pcYK-VVJgZrcu7RhAo2Qu-KZvCCu_orVwhxV1ypLby3WcWgNXBjcnbeLD5Lq2DQYfwPQkx0WN8p9Fs-ukZjOydss4lvB_YFTgZEx8jMt-JQClL5mqMXMFgLOxrlLFgf6jSvfZLL-MgigrX3ENvh81qjuGVRqXpyXH1Ux15pyuMTK36lJUkCXlHjjk1fXMhnI7mClZs4ou-nn0Z0u1uLR4pMwOX_Shsqj_7PgtjlLunk3ksp0__Xy9_nGy3aD-a8z-Ygo9n",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFEwOXJNRFUyZEZabE5pMVJkR2RCV0Y4MlgyWklZbU5GU0RKcGNXWm5TVVJVYnpsSmVYQnpTMlkzZW10cE5qWTNaVlJrY2xWeFNUUkNMVVZKYW5Kb04yMDVOalZoYjFoTlgxQTBiRVpwVmpKS1kyMTZia1pvVjFOemR4SVhNVUZ4YW1GMUxXcERkWEoyTVdVNFVEQTFMVUYzVVhNYUlrRkVjM0k1WmxOMWRVTlNVREJFVDE5R1EwbFBabkJYVkUxS1ZHNWliM1IxVTJjIiwiZmN2IjoiMyIsImVpIjoiMUFxamF1LWpDdXJ2MWU4UDA1LUF3UXMiLCJxYyI6IkNoSnRhV3gwYjI0Z2FHbG5hQ0J6WTJodmIyd1FBSDJpbHpvXyIsInF1ZXN0aW9uIjoiSG93IG1hbnkgc3R1ZGVudHMgZ28gdG8gTWlsdG9uIEhpZ2ggU2Nob29sLCBHQT8iLCJsayI6IkdpMW9iM2NnYldGdWVTQnpkSFZrWlc1MGN5Qm5ieUIwYnlCdGFXeDBiMjRnYUdsbmFDQnpZMmh2YjJ3Z1oyRSIsImJzIjoiYzNXT01RLUNNQkNGNDNxVE00bnhKbkZRU1JoY2laTXNUQXpHc1dDbGpkQVM3MGpqdnhkTE5FUnhlOFA3M3Z0QXdPNmtCT05WTkxZamJLVnRhNGxPR2thMm1PbWFyY0ZVVndyelVsbGJKM0VVYk4xX29oa0k5U0xJRTNDR3ZiX1FOTEVYRXQ2RnVXbFRvVGFZQ1NKUnFvNGtNeVh4TWxqODduMzZqWUFDb3RTNlBwa0hFbmVYWG9Ld3N0UHFHendldkw3NmcweDhWUUp5Q05fNnJDUVdrbmk4NnJVOW1NVHJZT1ctcS1PMXZqcDh6R2RQIiwiaWQiOiJmY18xQXFqYXUtakN1cnYxZThQMDUtQXdRc180In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFEwOXJNRFUyZEZabE5pMVJkR2RCV0Y4MlgyWklZbU5GU0RKcGNXWm5TVVJVYnpsSmVYQnpTMlkzZW10cE5qWTNaVlJrY2xWeFNUUkNMVVZKYW5Kb04yMDVOalZoYjFoTlgxQTBiRVpwVmpKS1kyMTZia1pvVjFOemR4SVhNVUZ4YW1GMUxXcERkWEoyTVdVNFVEQTFMVUYzVVhNYUlrRkVjM0k1WmxOMWRVTlNVREJFVDE5R1EwbFBabkJYVkUxS1ZHNWliM1IxVTJjIiwiZmN2IjoiMyIsImVpIjoiMUFxamF1LWpDdXJ2MWU4UDA1LUF3UXMiLCJxYyI6IkNoSnRhV3gwYjI0Z2FHbG5hQ0J6WTJodmIyd1FBSDJpbHpvXyIsInF1ZXN0aW9uIjoiSG93IG1hbnkgc3R1ZGVudHMgZ28gdG8gTWlsdG9uIEhpZ2ggU2Nob29sLCBHQT8iLCJsayI6IkdpMW9iM2NnYldGdWVTQnpkSFZrWlc1MGN5Qm5ieUIwYnlCdGFXeDBiMjRnYUdsbmFDQnpZMmh2YjJ3Z1oyRSIsImJzIjoiYzNXT01RLUNNQkNGNDNxVE00bnhKbkZRU1JoY2laTXNUQXpHc1dDbGpkQVM3MGpqdnhkTE5FUnhlOFA3M3Z0QXdPNmtCT05WTkxZamJLVnRhNGxPR2thMm1PbWFyY0ZVVndyelVsbGJKM0VVYk4xX29oa0k5U0xJRTNDR3ZiX1FOTEVYRXQ2RnVXbFRvVGFZQ1NKUnFvNGtNeVh4TWxqODduMzZqWUFDb3RTNlBwa0hFbmVYWG9Ld3N0UHFHendldkw3NmcweDhWUUp5Q05fNnJDUVdrbmk4NnJVOW1NVHJZT1ctcS1PMXZqcDh6R2RQIiwiaWQiOiJmY18xQXFqYXUtakN1cnYxZThQMDUtQXdRc180In0%3D"
+  },
+  {
+   "question": "What is the best High School in Milton?",
+   "type": "ai_overview",
+   "page_token": "6UiJ2nicHdDBcqIwHIDx2ZfxWAlt3cUZp1MqKbg2boJJIJdO_INGCRCVVuG279Kn6tO009N3_M18_z_svqk-f72brnPn6Xh8uVxudm27s-UNtPVYn_sGxqCt3WioppPfE_SwhVn0loRPxySk3DkxZ15aQQ8oGFKvHZZCELhVWg-hFDxIVtwlq8hYjfDA6gpprEI9N6KQgb_Gj_3m8Ig21lAesTvwA5oidk-koSDIifkOl3Hog8fSgpt94Vm6wuRYNnhZxq6BjITf1j-WmUpL_Ff5i62M3B7WZJkNptc-WohGnOXzHyRjttzMd94KV12OFM9t2wNnrszU5MWqRshFQmqbpJFqIgNXmuFjnvFOVwRBk1_V2tCXOe9oVjC4tnvK2QAHW3OhalpdKY_ZSSBXU2FiiYOE23z4rkeiThaX0RbeZ7ejn5-z123dTd2p3X0BGzKEPw",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=6UiJ2nicHdDBcqIwHIDx2ZfxWAlt3cUZp1MqKbg2boJJIJdO_INGCRCVVuG279Kn6tO009N3_M18_z_svqk-f72brnPn6Xh8uVxudm27s-UNtPVYn_sGxqCt3WioppPfE_SwhVn0loRPxySk3DkxZ15aQQ8oGFKvHZZCELhVWg-hFDxIVtwlq8hYjfDA6gpprEI9N6KQgb_Gj_3m8Ig21lAesTvwA5oidk-koSDIifkOl3Hog8fSgpt94Vm6wuRYNnhZxq6BjITf1j-WmUpL_Ff5i62M3B7WZJkNptc-WohGnOXzHyRjttzMd94KV12OFM9t2wNnrszU5MWqRshFQmqbpJFqIgNXmuFjnvFOVwRBk1_V2tCXOe9oVjC4tnvK2QAHW3OhalpdKY_ZSSBXU2FiiYOE23z4rkeiThaX0RbeZ7ejn5-z123dTd2p3X0BGzKEPw",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFEwOXJNRFUyZEZabE5pMVJkR2RCV0Y4MlgyWklZbU5GU0RKcGNXWm5TVVJVYnpsSmVYQnpTMlkzZW10cE5qWTNaVlJrY2xWeFNUUkNMVVZKYW5Kb04yMDVOalZoYjFoTlgxQTBiRVpwVmpKS1kyMTZia1pvVjFOemR4SVhNVUZ4YW1GMUxXcERkWEoyTVdVNFVEQTFMVUYzVVhNYUlrRkVjM0k1WmxOMWRVTlNVREJFVDE5R1EwbFBabkJYVkUxS1ZHNWliM1IxVTJjIiwiZmN2IjoiMyIsImVpIjoiMUFxamF1LWpDdXJ2MWU4UDA1LUF3UXMiLCJxYyI6IkNoSnRhV3gwYjI0Z2FHbG5hQ0J6WTJodmIyd1FBSDJpbHpvXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCBIaWdoIFNjaG9vbCBpbiBNaWx0b24/IiwibGsiOiJHaVozYUdGMElHbHpJSFJvWlNCaVpYTjBJR2hwWjJnZ2MyTm9iMjlzSUdsdUlHMXBiSFJ2YmciLCJicyI6ImMzV09NUS1DTUJDRjQzcVRNNG54Sm5GUVNSaGNpWk1zVEF6R3NXQ2xqZEFTNzBqanZ4ZExORVJ4ZThQNzN2dEF3TzZrQk9OVk5MWWpiS1Z0YTRsT0drYTJtT21hcmNGVVZ3cnpVbGxiSjNFVWJOMV9vaGtJOVNMSUUzQ0d2Yl9RTkxFWEV0NkZ1V2xUb1RhWUNTSlJxbzRrTXlYeE1sajg3bjM2allBQ290UzZQcGtIRW5lWFhvS3dzdFBxR3p3ZXZMNzZnMHg4VlFKeUNOXzZyQ1FXa25pODZyVTltTVRyWU9XLXEtTzF2anA4ekdkUCIsImlkIjoiZmNfMUFxamF1LWpDdXJ2MWU4UDA1LUF3UXNfNCJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFEwOXJNRFUyZEZabE5pMVJkR2RCV0Y4MlgyWklZbU5GU0RKcGNXWm5TVVJVYnpsSmVYQnpTMlkzZW10cE5qWTNaVlJrY2xWeFNUUkNMVVZKYW5Kb04yMDVOalZoYjFoTlgxQTBiRVpwVmpKS1kyMTZia1pvVjFOemR4SVhNVUZ4YW1GMUxXcERkWEoyTVdVNFVEQTFMVUYzVVhNYUlrRkVjM0k1WmxOMWRVTlNVREJFVDE5R1EwbFBabkJYVkUxS1ZHNWliM1IxVTJjIiwiZmN2IjoiMyIsImVpIjoiMUFxamF1LWpDdXJ2MWU4UDA1LUF3UXMiLCJxYyI6IkNoSnRhV3gwYjI0Z2FHbG5hQ0J6WTJodmIyd1FBSDJpbHpvXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCBIaWdoIFNjaG9vbCBpbiBNaWx0b24%2FIiwibGsiOiJHaVozYUdGMElHbHpJSFJvWlNCaVpYTjBJR2hwWjJnZ2MyTm9iMjlzSUdsdUlHMXBiSFJ2YmciLCJicyI6ImMzV09NUS1DTUJDRjQzcVRNNG54Sm5GUVNSaGNpWk1zVEF6R3NXQ2xqZEFTNzBqanZ4ZExORVJ4ZThQNzN2dEF3TzZrQk9OVk5MWWpiS1Z0YTRsT0drYTJtT21hcmNGVVZ3cnpVbGxiSjNFVWJOMV9vaGtJOVNMSUUzQ0d2Yl9RTkxFWEV0NkZ1V2xUb1RhWUNTSlJxbzRrTXlYeE1sajg3bjM2allBQ290UzZQcGtIRW5lWFhvS3dzdFBxR3p3ZXZMNzZnMHg4VlFKeUNOXzZyQ1FXa25pODZyVTltTVRyWU9XLXEtTzF2anA4ekdkUCIsImlkIjoiZmNfMUFxamF1LWpDdXJ2MWU4UDA1LUF3UXNfNCJ9"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "School District of Milton - Milton High School",
+   "link": "https://www.milton.k12.wi.us/schools/high-schools/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESagHrOzAVH9cokfSm4hw3_TURozT8tNTu_GFIKUzki5prMXiRrD6TXozKSqfhhFqBNIpmNvuwfihgTStsm8er39axMYOqd7TCRtI1F3uDoDrDTwYRqureHgxdD09CIkgMMYm49lzCO5qu7Ig&ved=2ahUKEwjv3e-f5eSWAxXqd_UHHdMPILgQFnoECBkQAQ&uoh=1",
+   "displayed_link": "https://www.milton.k12.wi.us \u203a Schools",
+   "favicon": "https://serpapi.com/images/i/UklGRtAAAABXRUJQVlA4IMQAAADQAgCdASoQABAAAsBMJbACdDBL1yViUL41QX_nVWMAAP145D5VrLbt3ZrTUEyNCm8B_6xiE79mZSX8tYDpRRdyo196w4v74HsOwktAmpPcj5tHBSVHjr38Qvg2B_1i8v1YPO7u493Zvbwby41PsVhmb8Q1v_m54O1ky9NtpR5d4Stt3qUcsumL5s1MuZwN66hRpgnFR2UedHsfepQP_5MVqt-z5CpP_gByV9z4-Nf-4D1eRf_NtQ3il9myXe_-KVJbhEAA.webp",
+   "snippet": "Milton High School is the proud home to over 1,100 students and more than 100 staff members. We pride ourselves on providing an exceptional educational ...",
+   "snippet_highlighted_words": [
+    "Milton High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Milton High School is the proud home to over 1,100 students and more than 100 staff members. We pride ourselves on providing an exceptional educational ...",
+     "source_info_link": "https://www.milton.k12.wi.us/schools/high-schools/",
+     "icon": "https://serpapi.com/images/i/UklGRtAAAABXRUJQVlA4IMQAAADQAgCdASoQABAAAsBMJbACdDBL1yViUL41QX_nVWMAAP145D5VrLbt3ZrTUEyNCm8B_6xiE79mZSX8tYDpRRdyo196w4v74HsOwktAmpPcj5tHBSVHjr38Qvg2B_1i8v1YPO7u493Zvbwby41PsVhmb8Q1v_m54O1ky9NtpR5d4Stt3qUcsumL5s1MuZwN66hRpgnFR2UedHsfepQP_5MVqt-z5CpP_gByV9z4-Nf-4D1eRf_NtQ3il9myXe_-KVJbhEAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESagHrOzAVH9cokfSm4hw3_TURozT8tNTu_GFIKUzki5prMXiRrD6TXozKSqfhhFqBNIpmNvuwfihgTStsm8er39axMYOqd7TCRtI1F3uDoDrDTwYRqureHgxdD09CIkgMMYm49lzCO5qu7Ig&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESagHrOzAVH9cokfSm4hw3_TURozT8tNTu_GFIKUzki5prMXiRrD6TXozKSqfhhFqBNIpmNvuwfihgTStsm8er39axMYOqd7TCRtI1F3uDoDrDTwYRqureHgxdD09CIkgMMYm49lzCO5qu7Ig",
+   "source": "School District of Milton",
+   "read_more_link": "https://www.milton.k12.wi.us/schools/high-schools/#:~:text=Milton%20High%20School%20is%20the,in%20all%20that%20we%20do."
+  },
+  {
+   "position": 2,
+   "title": "Milton High School: Home",
+   "link": "https://milton.fultonschools.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWQHrOzAVNwOoKMUgLB9-JuhyN6Bfuq2RYmu_Op7jRhx2C-RNIz9a41lwgUvs_R62Ip1JkU3FpJQ6HzqoIWMHG3ieNSCNqaH2649TiLlHOxwWYR2PUlqkc7hr&ved=2ahUKEwjv3e-f5eSWAxXqd_UHHdMPILgQFnoECB4QAQ&uoh=1",
+   "displayed_link": "https://milton.fultonschools.org",
+   "favicon": "https://serpapi.com/images/i/UklGRkABAABXRUJQVlA4IDQBAAAwBgCdASogACAAPrUurVanIacnG_DgFolACoheAGMH5x_zNlNsjEcmc7IvX_lXEsBRkfpblMTLB5AAAP7-wjE0N6DKez4HP8gH-aOJZdjprwnm6Eq8MIjfqOqlB3vv0Lr6xG3e_NwA9xw2G30B-dZ62LmFyh33tJAl8rfvj-_T-bye57oTLeYxIkaDHK3jJiorbMfjgsVxhhTTMByl3mQj7FlFR_cA-Rg2R4w0acee4fZoCCAoBkcUqLK9vegORSpxxz0TtNgPMAmgQxxbbCCOrPYFOHITO2G1AwlJnUJFtbGf3netTADAIN5jdmQ6bTO8tfjnhlEQPGMYLRlXLAkyplA-ssklwlrq4L2F3TWnpZoRY7DlrrMwc56wOCs7PFp-BbR3-tzNclZbq4H1hAOvDrAAAA.webp",
+   "snippet": "Home - Milton High School.",
+   "snippet_highlighted_words": [
+    "Milton High School"
+   ],
+   "sitelinks": {
+    "inline": [
+     {
+      "title": "Staff",
+      "link": "https://milton.fultonschools.org/staff"
+     },
+     {
+      "title": "Our School",
+      "link": "https://milton.fultonschools.org/our-school/about-us"
+     },
+     {
+      "title": "Calendar",
+      "link": "https://milton.fultonschools.org/calendar-2"
+     },
+     {
+      "title": "Academics",
+      "link": "https://milton.fultonschools.org/academics/academics-overview/overview"
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Home - Milton High School.",
+     "source_info_link": "https://milton.fultonschools.org/",
+     "icon": "https://serpapi.com/images/i/UklGRkABAABXRUJQVlA4IDQBAAAwBgCdASogACAAPrUurVanIacnG_DgFolACoheAGMH5x_zNlNsjEcmc7IvX_lXEsBRkfpblMTLB5AAAP7-wjE0N6DKez4HP8gH-aOJZdjprwnm6Eq8MIjfqOqlB3vv0Lr6xG3e_NwA9xw2G30B-dZ62LmFyh33tJAl8rfvj-_T-bye57oTLeYxIkaDHK3jJiorbMfjgsVxhhTTMByl3mQj7FlFR_cA-Rg2R4w0acee4fZoCCAoBkcUqLK9vegORSpxxz0TtNgPMAmgQxxbbCCOrPYFOHITO2G1AwlJnUJFtbGf3netTADAIN5jdmQ6bTO8tfjnhlEQPGMYLRlXLAkyplA-ssklwlrq4L2F3TWnpZoRY7DlrrMwc56wOCs7PFp-BbR3-tzNclZbq4H1hAOvDrAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESWQHrOzAVNwOoKMUgLB9-JuhyN6Bfuq2RYmu_Op7jRhx2C-RNIz9a41lwgUvs_R62Ip1JkU3FpJQ6HzqoIWMHG3ieNSCNqaH2649TiLlHOxwWYR2PUlqkc7hr&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESWQHrOzAVNwOoKMUgLB9-JuhyN6Bfuq2RYmu_Op7jRhx2C-RNIz9a41lwgUvs_R62Ip1JkU3FpJQ6HzqoIWMHG3ieNSCNqaH2649TiLlHOxwWYR2PUlqkc7hr",
+   "source": "Milton High School"
+  },
+  {
+   "position": 3,
+   "title": "Milton High School (Wisconsin)",
+   "link": "https://en.wikipedia.org/wiki/Milton_High_School_(Wisconsin)",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHrOzAVuSNXEjWePORY1u72IzXesXWbq_Wh00jKZpmJyeJZPt82f7JMU2bQlpdSPxxrMVED9Ots5RQFzYwKFEHTqUhKUgB44TZ0MYTRtW9uygBMlaNOXfGMn4oG--WBKCx5go3WRf6X5s5UuhlbhDPYlqoJ&ved=2ahUKEwjv3e-f5eSWAxXqd_UHHdMPILgQFnoECGEQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Milton_High_School_...",
+   "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+   "snippet": "Milton High School is a public high school located in Milton, Wisconsin. Its enrollment was estimated at 1,065 students for the 2018\u201319 school year.",
+   "snippet_highlighted_words": [
+    "Milton High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Milton High School is a public high school located in Milton, Wisconsin. Its enrollment was estimated at 1,065 students for the 2018\u201319 school year.",
+     "source_info_link": "https://en.wikipedia.org/wiki/Milton_High_School_(Wisconsin)",
+     "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdAHrOzAVuSNXEjWePORY1u72IzXesXWbq_Wh00jKZpmJyeJZPt82f7JMU2bQlpdSPxxrMVED9Ots5RQFzYwKFEHTqUhKUgB44TZ0MYTRtW9uygBMlaNOXfGMn4oG--WBKCx5go3WRf6X5s5UuhlbhDPYlqoJ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdAHrOzAVuSNXEjWePORY1u72IzXesXWbq_Wh00jKZpmJyeJZPt82f7JMU2bQlpdSPxxrMVED9Ots5RQFzYwKFEHTqUhKUgB44TZ0MYTRtW9uygBMlaNOXfGMn4oG--WBKCx5go3WRf6X5s5UuhlbhDPYlqoJ",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Milton_High_School_(Wisconsin)#:~:text=Milton%20High%20School%20is%20a,for%20the%202018%E2%80%9319%20school%20year."
+  },
+  {
+   "position": 4,
+   "title": "Home | Milton High School",
+   "link": "https://www.miltonsd.org/o/mhs",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVgHrOzAV146YvwjzrHLWlEz1DV7z-2m8ueiMpXGjLhsWf9galA1DF-gIbzSqWu4ojgzJBdCdqCYCt1BjNJo1Xg_wEYbmcUR9okZyaVGSfuIxkJ-LMsW5&ved=2ahUKEwjv3e-f5eSWAxXqd_UHHdMPILgQFnoECF0QAQ&uoh=1",
+   "displayed_link": "https://www.miltonsd.org \u203a mhs",
+   "favicon": "https://serpapi.com/images/i/UklGRqgBAABXRUJQVlA4IJwBAAAwCQCdASogACAAPtEutFooIagoGAEAGglsAKwyhHyegzgQYDbl3YBvN_7a2FIcCMA7AazBh8av_UV2WczSO0lmTb4ICHw4BF4lGJXTLwS5lVqAAP72E6h6U_1r8YXrF984IRM5PGQA8xehCEVS8ujCL1T5lgMOLA-bEwyaNKmdvTil2oeKfAjXZcmMPHSGpnIKtYGg1LYo5gKAvGNNyWX019tR7d63ZK3Q7Xols_om1pPAGsyRflujTA2owrj4OEwpedHmOCzVu3N5R0-2NfuLhXniPJ62hhIWRpw0qaq4ddE43fFM0HE5RSF1RpZKM0NMJKo0sjQ_Xz937zHA2suuP-vnZAGVgQHvaKHl1-k_IwYdS-A5IoOOklSAIcNm77BogHJ9kJf7ZNYzU9trdSEkvYGvVe53_ylXmmKtu2IAq7FBfmanShyL0BDEh-z_J4pzL9_krvWsOnDjRxzlRUZP4rNhxy4WTKYOWJLsvstY7srf5C5bbyCOEPUzCA6jIAAaWeEypw1X-XwZ4A4r3mKGKmghgydmvt_ZAAAA.webp",
+   "snippet": "Welcome to Milton High School \u00b7 About \u00b7 Principal: Mr. Michael Bergey \u00b7 Assistant Principal: Mr. Max Campbell \u00b7 Find Us \u00b7 Resources \u00b7 Schools \u00b7 Stay Connected.",
+   "snippet_highlighted_words": [
+    "Milton High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Welcome to Milton High School \u00b7 About \u00b7 Principal: Mr. Michael Bergey \u00b7 Assistant Principal: Mr. Max Campbell \u00b7 Find Us \u00b7 Resources \u00b7 Schools \u00b7 Stay Connected.",
+     "source_info_link": "https://www.miltonsd.org/o/mhs",
+     "icon": "https://serpapi.com/images/i/UklGRqgBAABXRUJQVlA4IJwBAAAwCQCdASogACAAPtEutFooIagoGAEAGglsAKwyhHyegzgQYDbl3YBvN_7a2FIcCMA7AazBh8av_UV2WczSO0lmTb4ICHw4BF4lGJXTLwS5lVqAAP72E6h6U_1r8YXrF984IRM5PGQA8xehCEVS8ujCL1T5lgMOLA-bEwyaNKmdvTil2oeKfAjXZcmMPHSGpnIKtYGg1LYo5gKAvGNNyWX019tR7d63ZK3Q7Xols_om1pPAGsyRflujTA2owrj4OEwpedHmOCzVu3N5R0-2NfuLhXniPJ62hhIWRpw0qaq4ddE43fFM0HE5RSF1RpZKM0NMJKo0sjQ_Xz937zHA2suuP-vnZAGVgQHvaKHl1-k_IwYdS-A5IoOOklSAIcNm77BogHJ9kJf7ZNYzU9trdSEkvYGvVe53_ylXmmKtu2IAq7FBfmanShyL0BDEh-z_J4pzL9_krvWsOnDjRxzlRUZP4rNhxy4WTKYOWJLsvstY7srf5C5bbyCOEPUzCA6jIAAaWeEypw1X-XwZ4A4r3mKGKmghgydmvt_ZAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESVgHrOzAV146YvwjzrHLWlEz1DV7z-2m8ueiMpXGjLhsWf9galA1DF-gIbzSqWu4ojgzJBdCdqCYCt1BjNJo1Xg_wEYbmcUR9okZyaVGSfuIxkJ-LMsW5&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESVgHrOzAV146YvwjzrHLWlEz1DV7z-2m8ueiMpXGjLhsWf9galA1DF-gIbzSqWu4ojgzJBdCdqCYCt1BjNJo1Xg_wEYbmcUR9okZyaVGSfuIxkJ-LMsW5",
+   "source": "Milton Area School District",
+   "read_more_link": "https://www.miltonsd.org/o/mhs#:~:text=Welcome%20to%20Milton%20High%20School&text=About&text=Principal%3A%20Mr.%20Michael%20Bergey&text=Assistant%20Principal%3A%20Mr.%20Max%20Campbell&text=Find%20Us&text=Resources&text=Schools&text=Stay%20Connected"
+  },
+  {
+   "position": 5,
+   "title": "Milton High School",
+   "link": "https://www.usnews.com/education/best-high-schools/wisconsin/districts/milton-school-district/milton-high-school-21715",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrgEB6zswFf7f8n2-McwR5kDidGlqMnmTK53G6uVIcGv5lhKSeZBLCcgDtB7cAyZ2-UDk_pFa0wAn5NwziY65k8BVrieIN0rOQCIkFEa1zW0VgGBMLN46x1B-9cyHgETZhur2VAfs0S5SLEgMoS3MyoozYlS_jmSupcC-mnpUtPK-_D1MvmU6xHnngSxsoOq2se-7ZQK_0KqS18vAseeQVW0VwXH29HRQ3PEkHNVKucw&ved=2ahUKEwjv3e-f5eSWAxXqd_UHHdMPILgQFnoECFwQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a ... \u203a Milton School District",
+   "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp",
+   "snippet": "Milton High School is ranked #5,596 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+   "snippet_highlighted_words": [
+    "Milton High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Milton High School is ranked #5,596 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/wisconsin/districts/milton-school-district/milton-high-school-21715",
+     "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESrgEB6zswFf7f8n2-McwR5kDidGlqMnmTK53G6uVIcGv5lhKSeZBLCcgDtB7cAyZ2-UDk_pFa0wAn5NwziY65k8BVrieIN0rOQCIkFEa1zW0VgGBMLN46x1B-9cyHgETZhur2VAfs0S5SLEgMoS3MyoozYlS_jmSupcC-mnpUtPK-_D1MvmU6xHnngSxsoOq2se-7ZQK_0KqS18vAseeQVW0VwXH29HRQ3PEkHNVKucw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESrgEB6zswFf7f8n2-McwR5kDidGlqMnmTK53G6uVIcGv5lhKSeZBLCcgDtB7cAyZ2-UDk_pFa0wAn5NwziY65k8BVrieIN0rOQCIkFEa1zW0VgGBMLN46x1B-9cyHgETZhur2VAfs0S5SLEgMoS3MyoozYlS_jmSupcC-mnpUtPK-_D1MvmU6xHnngSxsoOq2se-7ZQK_0KqS18vAseeQVW0VwXH29HRQ3PEkHNVKucw",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/wisconsin/districts/milton-school-district/milton-high-school-21715#:~:text=Milton%20High%20School%20is%20ranked,they%20prepare%20students%20for%20college."
+  },
+  {
+   "position": 6,
+   "title": "Milton High School: Home",
+   "link": "https://mhs.santarosaschools.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWQHrOzAVnxoHMiSFt5SaBoB8JELtCUNFqvhhiknlrDFXItQ0QYUteZwUbyj67_k3PjVs2dKMDx_ZB7dRa5Q-ZWALdpM6nLgcjgavPU9ZpCb1ovB0Fac-VkhV&ved=2ahUKEwjv3e-f5eSWAxXqd_UHHdMPILgQFnoECG0QAQ&uoh=1",
+   "displayed_link": "https://mhs.santarosaschools.org",
+   "favicon": "https://serpapi.com/images/i/UklGRnIBAABXRUJQVlA4IGYBAADwBQCdASogABsAPtEutFooIagoGAEAGglsAFRj0AGtJYludMsOsaciLGfrV4PiVE3PuYVriaGFAADRHsDNpwlVjDW_7EeItrqYJ7WfoeUqQc5s0xzk8MnKKfQA0spKAQ1QzQuZhZE8zZy539saWAN3kqiPCf_-8Wfmd5Hn8fiMi4L9nwFPHmMq4niT6rO1NtJ5Smx1bsroIaj3AfdPxOaNXuxqLInfe-G_5U2vTEXm2HM9EKExNW1KdHmzBhSS8nPOIGhmOHm2bb28r2v2AKraa6Hh3m1iuYzUv0wieAz7YYlKbGb-Y0E4j5RdjwYcUwWgWXoCblmPtFlfT4reBAOh3EjV9ibn_RVwY9OXBJ93cE6LHPbJF98y9jup2OiPW_yf9oCiXS7AuMvD_E9Kdwp5VgT9GwFAw271TT0DKLkRKQKP_y5lEcVkrmYQfFQ-WqyHtmWTA0lM72KmuzzCqlizeA8pYAAA.webp",
+   "snippet": "MILTON HIGH SCHOOL \u00b7 weekly announcements \u00b7 News \u00b7 Live Feed \u00b7 Find Us \u00b7 Santa Rosa County Crime Stoppers - Speak Out \u00b7 Stay Connected.",
+   "snippet_highlighted_words": [
+    "MILTON HIGH SCHOOL"
+   ],
+   "sitelinks": {
+    "inline": [
+     {
+      "title": "Staff",
+      "link": "https://mhs.santarosaschools.org/o/mhs/staff"
+     },
+     {
+      "title": "Live Feed",
+      "link": "https://mhs.santarosaschools.org/o/mhs/live-feed"
+     },
+     {
+      "title": "News",
+      "link": "https://mhs.santarosaschools.org/o/mhs/news"
+     },
+     {
+      "title": "Events",
+      "link": "https://mhs.santarosaschools.org/o/mhs/events"
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "MILTON HIGH SCHOOL \u00b7 weekly announcements \u00b7 News \u00b7 Live Feed \u00b7 Find Us \u00b7 Santa Rosa County Crime Stoppers - Speak Out \u00b7 Stay Connected.",
+     "source_info_link": "https://mhs.santarosaschools.org/",
+     "icon": "https://serpapi.com/images/i/UklGRnIBAABXRUJQVlA4IGYBAADwBQCdASogABsAPtEutFooIagoGAEAGglsAFRj0AGtJYludMsOsaciLGfrV4PiVE3PuYVriaGFAADRHsDNpwlVjDW_7EeItrqYJ7WfoeUqQc5s0xzk8MnKKfQA0spKAQ1QzQuZhZE8zZy539saWAN3kqiPCf_-8Wfmd5Hn8fiMi4L9nwFPHmMq4niT6rO1NtJ5Smx1bsroIaj3AfdPxOaNXuxqLInfe-G_5U2vTEXm2HM9EKExNW1KdHmzBhSS8nPOIGhmOHm2bb28r2v2AKraa6Hh3m1iuYzUv0wieAz7YYlKbGb-Y0E4j5RdjwYcUwWgWXoCblmPtFlfT4reBAOh3EjV9ibn_RVwY9OXBJ93cE6LHPbJF98y9jup2OiPW_yf9oCiXS7AuMvD_E9Kdwp5VgT9GwFAw271TT0DKLkRKQKP_y5lEcVkrmYQfFQ-WqyHtmWTA0lM72KmuzzCqlizeA8pYAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESWQHrOzAVnxoHMiSFt5SaBoB8JELtCUNFqvhhiknlrDFXItQ0QYUteZwUbyj67_k3PjVs2dKMDx_ZB7dRa5Q-ZWALdpM6nLgcjgavPU9ZpCb1ovB0Fac-VkhV&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESWQHrOzAVnxoHMiSFt5SaBoB8JELtCUNFqvhhiknlrDFXItQ0QYUteZwUbyj67_k3PjVs2dKMDx_ZB7dRa5Q-ZWALdpM6nLgcjgavPU9ZpCb1ovB0Fac-VkhV",
+   "source": "Santa Rosa County School District",
+   "read_more_link": "https://mhs.santarosaschools.org/#:~:text=MILTON%20HIGH%20SCHOOL&text=weekly%20announcements&text=News&text=Live%20Feed&text=Find%20Us&text=Santa%20Rosa%20County%20Crime%20Stoppers,%2D%20Speak%20Out&text=Stay%20Connected"
+  },
+  {
+   "position": 7,
+   "title": "School District of Milton Wisconsin (@SchDistofMilton)",
+   "link": "https://www.facebook.com/SchDistofMilton/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYQHrOzAVMSimunRKLRsCTnxwVwE8jD4k5LjJ_cCM1l9qfiosSTI5AmFB0BesUvvCRLNfttWIYTytfVpMVi7hKWUdvyVOcNddr5oRf6pjZhuAvgpkF9wEmrjQmFVBh7GHPGM&ved=2ahUKEwjv3e-f5eSWAxXqd_UHHdMPILgQFnoECGAQAQ&uoh=1",
+   "displayed_link": "10.3K+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "snippet": "Our Rocky The Red Hawk - Milton cadets sat down with new Milton High School Principal, Mr. Nerby, for an exclusive AMA interview.",
+   "snippet_highlighted_words": [
+    "Milton High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Our Rocky The Red Hawk - Milton cadets sat down with new Milton High School Principal, Mr. Nerby, for an exclusive AMA interview.",
+     "source_info_link": "https://www.facebook.com/SchDistofMilton/",
+     "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYQHrOzAVMSimunRKLRsCTnxwVwE8jD4k5LjJ_cCM1l9qfiosSTI5AmFB0BesUvvCRLNfttWIYTytfVpMVi7hKWUdvyVOcNddr5oRf6pjZhuAvgpkF9wEmrjQmFVBh7GHPGM&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYQHrOzAVMSimunRKLRsCTnxwVwE8jD4k5LjJ_cCM1l9qfiosSTI5AmFB0BesUvvCRLNfttWIYTytfVpMVi7hKWUdvyVOcNddr5oRf6pjZhuAvgpkF9wEmrjQmFVBh7GHPGM",
+   "source": "Facebook \u00b7 School District of Milton Wisconsin",
+   "read_more_link": "https://www.facebook.com/SchDistofMilton/#:~:text=Our%20Rocky%20The%20Red%20Hawk,for%20an%20exclusive%20AMA%20interview."
+  },
+  {
+   "position": 8,
+   "title": "Milton High School | High School Sports | Home",
+   "link": "https://fan.hudl.com/usa/wi/milton/organization/18012/milton-high-school",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgAEB6zswFQ7f8dS3kLG2g21Lwz3I0YaoCX3jMLceN-qyCIUXFJe_fkAEyfQp-YS_INrxT0JMpMGfXCOa-NY66H3DDk03d2RQYh6rvF5Y3ayywhWoeO19BC1A48CYtWQ6R_UrNqVWYx2FuQKKzEuWMbb_5cgzX561a_Vlw172QmT6dA&ved=2ahUKEwjv3e-f5eSWAxXqd_UHHdMPILgQFnoECGIQAQ&uoh=1",
+   "displayed_link": "https://fan.hudl.com \u203a usa \u203a milton \u203a organization \u203a milt...",
+   "favicon": "https://serpapi.com/images/i/UklGRqIBAABXRUJQVlA4IJYBAACQCQCdASogACAAPrUurVanIacnG_DgFolsAJ0yhHp_nPGcuHWA8st4B5gOgBvB_oAdKV5TKeBQAe65hjvYFQUTZDCUGv5kjNe6N__NzHF9gC1GIEwAAP74t80-okQNPInVv8VZ7bc0DtCD1jMSe8Qbea6VHAUS_6g3j_zWXtI7wJFbpR7ch_KcZZbbhsfYdh3lSCfrDkX9_GUsp3kv9g3SLz1PT-5pQpGTzrZmsSRLuCDot9cW9ZSw_C7ColLxfuMnRER_q70MaxOMkYtJ69d3mRNPbrhxRxz8v6dcymSa2wAiunrloSzPvmpfsi7TYUKYIQ3kRe8O6Bs8z8k4272A1U4dQ-8G7a-185IUQi5X_R4oXRrVElhEMjVJhzmJ-23qY2A_nLSfTeNYijh3_r_rnOjff8xupEXSz6RXEOxab-FF-_-mqLL8f6kiWpUjoLo5xjdXUnmXA-BoedmYiS_qiSmmTJOuxOVD3R1HakG4c8Nz6o5g1RLOvD3aOADQjZaHR_P6PQf1lcJyFOiFPFdBnDW1AAAA.webp",
+   "snippet": "Milton High School \u00b7 Boys' Varsity. Baseball \u00b7 Girls Varsity. Basketball \u00b7 Milton JV. Girls \u00b7 Girls JV2. Basketball \u00b7 Boys Cross. Country \u00b7 Girls Cross. Country \u00b7 Boys ...",
+   "snippet_highlighted_words": [
+    "Milton High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Milton High School \u00b7 Boys' Varsity. Baseball \u00b7 Girls Varsity. Basketball \u00b7 Milton JV. Girls \u00b7 Girls JV2. Basketball \u00b7 Boys Cross. Country \u00b7 Girls Cross. Country \u00b7 Boys ...",
+     "source_info_link": "https://fan.hudl.com/usa/wi/milton/organization/18012/milton-high-school",
+     "icon": "https://serpapi.com/images/i/UklGRqIBAABXRUJQVlA4IJYBAACQCQCdASogACAAPrUurVanIacnG_DgFolsAJ0yhHp_nPGcuHWA8st4B5gOgBvB_oAdKV5TKeBQAe65hjvYFQUTZDCUGv5kjNe6N__NzHF9gC1GIEwAAP74t80-okQNPInVv8VZ7bc0DtCD1jMSe8Qbea6VHAUS_6g3j_zWXtI7wJFbpR7ch_KcZZbbhsfYdh3lSCfrDkX9_GUsp3kv9g3SLz1PT-5pQpGTzrZmsSRLuCDot9cW9ZSw_C7ColLxfuMnRER_q70MaxOMkYtJ69d3mRNPbrhxRxz8v6dcymSa2wAiunrloSzPvmpfsi7TYUKYIQ3kRe8O6Bs8z8k4272A1U4dQ-8G7a-185IUQi5X_R4oXRrVElhEMjVJhzmJ-23qY2A_nLSfTeNYijh3_r_rnOjff8xupEXSz6RXEOxab-FF-_-mqLL8f6kiWpUjoLo5xjdXUnmXA-BoedmYiS_qiSmmTJOuxOVD3R1HakG4c8Nz6o5g1RLOvD3aOADQjZaHR_P6PQf1lcJyFOiFPFdBnDW1AAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESgAEB6zswFQ7f8dS3kLG2g21Lwz3I0YaoCX3jMLceN-qyCIUXFJe_fkAEyfQp-YS_INrxT0JMpMGfXCOa-NY66H3DDk03d2RQYh6rvF5Y3ayywhWoeO19BC1A48CYtWQ6R_UrNqVWYx2FuQKKzEuWMbb_5cgzX561a_Vlw172QmT6dA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESgAEB6zswFQ7f8dS3kLG2g21Lwz3I0YaoCX3jMLceN-qyCIUXFJe_fkAEyfQp-YS_INrxT0JMpMGfXCOa-NY66H3DDk03d2RQYh6rvF5Y3ayywhWoeO19BC1A48CYtWQ6R_UrNqVWYx2FuQKKzEuWMbb_5cgzX561a_Vlw172QmT6dA",
+   "source": "Hudl",
+   "read_more_link": "https://fan.hudl.com/usa/wi/milton/organization/18012/milton-high-school#:~:text=Milton%20High%20School&text=Boys'%20Varsity,Baseball&text=Girls%20Varsity,Basketball&text=Milton%20JV,Girls&text=Girls%20JV2,Basketball&text=Boys%20Cross,Country&text=Girls%20Cross,Country&text=Boys%20Varsity"
+  },
+  {
+   "position": 9,
+   "title": "About Us - Milton High School",
+   "link": "https://milton.fultonschools.org/our-school/about-us",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHrOzAVrW025vz4Jxu7Dd-H2Z8MlRi6JF8ouHKr4T8vVO8MTfcC7Wh6ZGGU7m9aAxkF_cLYu46PWcY8zbjLPMRGrM4J10CFdAihGDrvA4I3l1twCGa4SESidZqYXh2JrfMhtffKYmOXbfK17A&ved=2ahUKEwjv3e-f5eSWAxXqd_UHHdMPILgQFnoECF4QAQ&uoh=1",
+   "displayed_link": "https://milton.fultonschools.org \u203a our-school \u203a about-us",
+   "favicon": "https://serpapi.com/images/i/UklGRkABAABXRUJQVlA4IDQBAAAwBgCdASogACAAPrUurVanIacnG_DgFolACoheAGMH5x_zNlNsjEcmc7IvX_lXEsBRkfpblMTLB5AAAP7-wjE0N6DKez4HP8gH-aOJZdjprwnm6Eq8MIjfqOqlB3vv0Lr6xG3e_NwA9xw2G30B-dZ62LmFyh33tJAl8rfvj-_T-bye57oTLeYxIkaDHK3jJiorbMfjgsVxhhTTMByl3mQj7FlFR_cA-Rg2R4w0acee4fZoCCAoBkcUqLK9vegORSpxxz0TtNgPMAmgQxxbbCCOrPYFOHITO2G1AwlJnUJFtbGf3netTADAIN5jdmQ6bTO8tfjnhlEQPGMYLRlXLAkyplA-ssklwlrq4L2F3TWnpZoRY7DlrrMwc56wOCs7PFp-BbR3-tzNclZbq4H1hAOvDrAAAA.webp",
+   "snippet": "Milton High School is located in Milton, GA and sits between Birmingham Hwy and Freemanville Road across from Northwestern Middle School. Learning Community: ...",
+   "snippet_highlighted_words": [
+    "Milton High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Milton High School is located in Milton, GA and sits between Birmingham Hwy and Freemanville Road across from Northwestern Middle School. Learning Community: ...",
+     "source_info_link": "https://milton.fultonschools.org/our-school/about-us",
+     "icon": "https://serpapi.com/images/i/UklGRkABAABXRUJQVlA4IDQBAAAwBgCdASogACAAPrUurVanIacnG_DgFolACoheAGMH5x_zNlNsjEcmc7IvX_lXEsBRkfpblMTLB5AAAP7-wjE0N6DKez4HP8gH-aOJZdjprwnm6Eq8MIjfqOqlB3vv0Lr6xG3e_NwA9xw2G30B-dZ62LmFyh33tJAl8rfvj-_T-bye57oTLeYxIkaDHK3jJiorbMfjgsVxhhTTMByl3mQj7FlFR_cA-Rg2R4w0acee4fZoCCAoBkcUqLK9vegORSpxxz0TtNgPMAmgQxxbbCCOrPYFOHITO2G1AwlJnUJFtbGf3netTADAIN5jdmQ6bTO8tfjnhlEQPGMYLRlXLAkyplA-ssklwlrq4L2F3TWnpZoRY7DlrrMwc56wOCs7PFp-BbR3-tzNclZbq4H1hAOvDrAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESbAHrOzAVrW025vz4Jxu7Dd-H2Z8MlRi6JF8ouHKr4T8vVO8MTfcC7Wh6ZGGU7m9aAxkF_cLYu46PWcY8zbjLPMRGrM4J10CFdAihGDrvA4I3l1twCGa4SESidZqYXh2JrfMhtffKYmOXbfK17A&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESbAHrOzAVrW025vz4Jxu7Dd-H2Z8MlRi6JF8ouHKr4T8vVO8MTfcC7Wh6ZGGU7m9aAxkF_cLYu46PWcY8zbjLPMRGrM4J10CFdAihGDrvA4I3l1twCGa4SESidZqYXh2JrfMhtffKYmOXbfK17A",
+   "source": "Milton High School",
+   "read_more_link": "https://milton.fultonschools.org/our-school/about-us#:~:text=Milton%20High%20School%20is%20located,Learning%20Community%3A%20North%20LC"
+  },
+  {
+   "position": 10,
+   "title": "Milton High School in Milton, GA",
+   "link": "https://www.niche.com/k12/milton-high-school-alpharetta-ga/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHrOzAVQfT664Mquw8xnhHxueHC4n3f45aKZ1wXXxgN9pr55vuMufiOh5dygXDuxx7nam5mcoOPzwFEWEHTfLRPMsLNoEu9frwOTVfyDIn5pi0GNh_2n9vId-Lqj94uqy5BdIsgeJRs77liyTiWi9jiYuQ&ved=2ahUKEwjv3e-f5eSWAxXqd_UHHdMPILgQFnoECGMQAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a Georgia",
+   "favicon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAACwBgCdASocABwAPtEutFooIagoGAEAGglAGZo7gYv7m0TPt8r_WYdmpcah9WA48zicEtVrCFOGH4nMtJiaAAD-8Mpqn5wztwFeSDXF5YavmSdrcpv67JtS1tKl7uW6N9aR19WH-vT5VtxqndfSU_QIzB4R0m5fNi1eX3h8GYa_8H28-7o-nc3D2GEvZqGTES8muP_UCP_UIYsGh8QXK7V2sBnUP79qQidv_o8__S3xjZZmmXEG69VP00Dn3HuddwtLR_4xf_0PU8NPn060X-47u3VDw39ZbBgpwK3wP0F5tHUWMrTdTbcT_h7ghKmtPgKiKNIvGUNLHBT4VbzlXgvFo7vCP-ot_w6I_hOg9EcgQfabjpYvU6X4xcxi9BIxh2PJomEF2PA_XoL7FtzFNUuyE0IG83Bax0ZYU-dxj0EhgAAA.webp",
+   "snippet": "Milton High School is a top rated, public school located in ALPHARETTA, GA. It has 1,999 students in grades 9-12 with a student-teacher ratio of 18 to 1.",
+   "snippet_highlighted_words": [
+    "Milton High School"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 4.0,
+      "reviews": 567
+     },
+     "extensions": [
+      "4.0(567)"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Milton High School is a top rated, public school located in ALPHARETTA, GA. It has 1,999 students in grades 9-12 with a student-teacher ratio of 18 to 1.",
+     "source_info_link": "https://www.niche.com/k12/milton-high-school-alpharetta-ga/",
+     "icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAACwBgCdASocABwAPtEutFooIagoGAEAGglAGZo7gYv7m0TPt8r_WYdmpcah9WA48zicEtVrCFOGH4nMtJiaAAD-8Mpqn5wztwFeSDXF5YavmSdrcpv67JtS1tKl7uW6N9aR19WH-vT5VtxqndfSU_QIzB4R0m5fNi1eX3h8GYa_8H28-7o-nc3D2GEvZqGTES8muP_UCP_UIYsGh8QXK7V2sBnUP79qQidv_o8__S3xjZZmmXEG69VP00Dn3HuddwtLR_4xf_0PU8NPn060X-47u3VDw39ZbBgpwK3wP0F5tHUWMrTdTbcT_h7ghKmtPgKiKNIvGUNLHBT4VbzlXgvFo7vCP-ot_w6I_hOg9EcgQfabjpYvU6X4xcxi9BIxh2PJomEF2PA_XoL7FtzFNUuyE0IG83Bax0ZYU-dxj0EhgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEScwHrOzAVQfT664Mquw8xnhHxueHC4n3f45aKZ1wXXxgN9pr55vuMufiOh5dygXDuxx7nam5mcoOPzwFEWEHTfLRPMsLNoEu9frwOTVfyDIn5pi0GNh_2n9vId-Lqj94uqy5BdIsgeJRs77liyTiWi9jiYuQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEScwHrOzAVQfT664Mquw8xnhHxueHC4n3f45aKZ1wXXxgN9pr55vuMufiOh5dygXDuxx7nam5mcoOPzwFEWEHTfLRPMsLNoEu9frwOTVfyDIn5pi0GNh_2n9vId-Lqj94uqy5BdIsgeJRs77liyTiWi9jiYuQ",
+   "source": "Niche",
+   "read_more_link": "https://www.niche.com/k12/milton-high-school-alpharetta-ga/#:~:text=Milton%20High%20School%20is%20a,ratio%20of%2018%20to%201."
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Milton high school football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntc9sCp_NdPw31h6FYnQ-04UJrDDw:1789070036176&q=Milton+high+school+football&sa=X&ved=2ahUKEwjv3e-f5eSWAxXqd_UHHdMPILgQ1QJ6BAhbEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Milton+high+school+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Milton High School GA",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntc9sCp_NdPw31h6FYnQ-04UJrDDw:1789070036176&q=Milton+High+School+GA&sa=X&ved=2ahUKEwjv3e-f5eSWAxXqd_UHHdMPILgQ1QJ6BAh5EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Milton+High+School+GA"
+  },
+  {
+   "block_position": 1,
+   "query": "Milton High School WI",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntc9sCp_NdPw31h6FYnQ-04UJrDDw:1789070036176&q=Milton+High+School+WI&sa=X&ved=2ahUKEwjv3e-f5eSWAxXqd_UHHdMPILgQ1QJ6BAh4EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Milton+High+School+WI"
+  },
+  {
+   "block_position": 1,
+   "query": "Milton high school ranking",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntc9sCp_NdPw31h6FYnQ-04UJrDDw:1789070036176&q=Milton+high+school+ranking&sa=X&ved=2ahUKEwjv3e-f5eSWAxXqd_UHHdMPILgQ1QJ6BAhzEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Milton+high+school+ranking"
+  },
+  {
+   "block_position": 1,
+   "query": "Milton high school basketball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntc9sCp_NdPw31h6FYnQ-04UJrDDw:1789070036176&q=Milton+high+school+basketball&sa=X&ved=2ahUKEwjv3e-f5eSWAxXqd_UHHdMPILgQ1QJ6BAhrEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Milton+high+school+basketball"
+  },
+  {
+   "block_position": 1,
+   "query": "Milton high school bell schedule",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntc9sCp_NdPw31h6FYnQ-04UJrDDw:1789070036176&q=Milton+high+school+bell+schedule&sa=X&ved=2ahUKEwjv3e-f5eSWAxXqd_UHHdMPILgQ1QJ6BAhmEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Milton+high+school+bell+schedule"
+  },
+  {
+   "block_position": 1,
+   "query": "Milton high school Calendar",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntc9sCp_NdPw31h6FYnQ-04UJrDDw:1789070036176&q=Milton+high+school+Calendar&sa=X&ved=2ahUKEwjv3e-f5eSWAxXqd_UHHdMPILgQ1QJ6BAhlEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Milton+high+school+Calendar"
+  },
+  {
+   "block_position": 1,
+   "query": "Milton High School Athletics",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntc9sCp_NdPw31h6FYnQ-04UJrDDw:1789070036176&q=Milton+High+School+Athletics&sa=X&ved=2ahUKEwjv3e-f5eSWAxXqd_UHHdMPILgQ1QJ6BAhkEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Milton+High+School+Athletics"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Milton+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntc9sCp_NdPw31h6FYnQ-04UJrDDw:1789070036176&ei=1Aqjau-jCurv1e8P05-AwQs&start=10&sa=N&sstk=AS6-VmLF85sV8ntY5R-CeYKobUqh-v4ARSrOw_9VAkSyEi4BUvMGEH8yj7kzgedbBmugVdWXMFbt60QTsU3sGcDAZVaPU3s--pcWCg&ved=2ahUKEwjv3e-f5eSWAxXqd_UHHdMPILgQ8NMDegQIfRAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Milton+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntc9sCp_NdPw31h6FYnQ-04UJrDDw:1789070036176&ei=1Aqjau-jCurv1e8P05-AwQs&start=10&sa=N&sstk=AS6-VmLF85sV8ntY5R-CeYKobUqh-v4ARSrOw_9VAkSyEi4BUvMGEH8yj7kzgedbBmugVdWXMFbt60QTsU3sGcDAZVaPU3s--pcWCg&ved=2ahUKEwjv3e-f5eSWAxXqd_UHHdMPILgQ8tMDegQIfRAE",
+   "3": "https://www.google.com/search?q=%22Milton+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntc9sCp_NdPw31h6FYnQ-04UJrDDw:1789070036176&ei=1Aqjau-jCurv1e8P05-AwQs&start=20&sa=N&sstk=AS6-VmLF85sV8ntY5R-CeYKobUqh-v4ARSrOw_9VAkSyEi4BUvMGEH8yj7kzgedbBmugVdWXMFbt60QTsU3sGcDAZVaPU3s--pcWCg&ved=2ahUKEwjv3e-f5eSWAxXqd_UHHdMPILgQ8tMDegQIfRAG",
+   "4": "https://www.google.com/search?q=%22Milton+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntc9sCp_NdPw31h6FYnQ-04UJrDDw:1789070036176&ei=1Aqjau-jCurv1e8P05-AwQs&start=30&sa=N&sstk=AS6-VmLF85sV8ntY5R-CeYKobUqh-v4ARSrOw_9VAkSyEi4BUvMGEH8yj7kzgedbBmugVdWXMFbt60QTsU3sGcDAZVaPU3s--pcWCg&ved=2ahUKEwjv3e-f5eSWAxXqd_UHHdMPILgQ8tMDegQIfRAI",
+   "5": "https://www.google.com/search?q=%22Milton+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntc9sCp_NdPw31h6FYnQ-04UJrDDw:1789070036176&ei=1Aqjau-jCurv1e8P05-AwQs&start=40&sa=N&sstk=AS6-VmLF85sV8ntY5R-CeYKobUqh-v4ARSrOw_9VAkSyEi4BUvMGEH8yj7kzgedbBmugVdWXMFbt60QTsU3sGcDAZVaPU3s--pcWCg&ved=2ahUKEwjv3e-f5eSWAxXqd_UHHdMPILgQ8tMDegQIfRAK",
+   "6": "https://www.google.com/search?q=%22Milton+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntc9sCp_NdPw31h6FYnQ-04UJrDDw:1789070036176&ei=1Aqjau-jCurv1e8P05-AwQs&start=50&sa=N&sstk=AS6-VmLF85sV8ntY5R-CeYKobUqh-v4ARSrOw_9VAkSyEi4BUvMGEH8yj7kzgedbBmugVdWXMFbt60QTsU3sGcDAZVaPU3s--pcWCg&ved=2ahUKEwjv3e-f5eSWAxXqd_UHHdMPILgQ8tMDegQIfRAM",
+   "7": "https://www.google.com/search?q=%22Milton+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntc9sCp_NdPw31h6FYnQ-04UJrDDw:1789070036176&ei=1Aqjau-jCurv1e8P05-AwQs&start=60&sa=N&sstk=AS6-VmLF85sV8ntY5R-CeYKobUqh-v4ARSrOw_9VAkSyEi4BUvMGEH8yj7kzgedbBmugVdWXMFbt60QTsU3sGcDAZVaPU3s--pcWCg&ved=2ahUKEwjv3e-f5eSWAxXqd_UHHdMPILgQ8tMDegQIfRAO",
+   "8": "https://www.google.com/search?q=%22Milton+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntc9sCp_NdPw31h6FYnQ-04UJrDDw:1789070036176&ei=1Aqjau-jCurv1e8P05-AwQs&start=70&sa=N&sstk=AS6-VmLF85sV8ntY5R-CeYKobUqh-v4ARSrOw_9VAkSyEi4BUvMGEH8yj7kzgedbBmugVdWXMFbt60QTsU3sGcDAZVaPU3s--pcWCg&ved=2ahUKEwjv3e-f5eSWAxXqd_UHHdMPILgQ8tMDegQIfRAQ",
+   "9": "https://www.google.com/search?q=%22Milton+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntc9sCp_NdPw31h6FYnQ-04UJrDDw:1789070036176&ei=1Aqjau-jCurv1e8P05-AwQs&start=80&sa=N&sstk=AS6-VmLF85sV8ntY5R-CeYKobUqh-v4ARSrOw_9VAkSyEi4BUvMGEH8yj7kzgedbBmugVdWXMFbt60QTsU3sGcDAZVaPU3s--pcWCg&ved=2ahUKEwjv3e-f5eSWAxXqd_UHHdMPILgQ8tMDegQIfRAS",
+   "10": "https://www.google.com/search?q=%22Milton+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntc9sCp_NdPw31h6FYnQ-04UJrDDw:1789070036176&ei=1Aqjau-jCurv1e8P05-AwQs&start=90&sa=N&sstk=AS6-VmLF85sV8ntY5R-CeYKobUqh-v4ARSrOw_9VAkSyEi4BUvMGEH8yj7kzgedbBmugVdWXMFbt60QTsU3sGcDAZVaPU3s--pcWCg&ved=2ahUKEwjv3e-f5eSWAxXqd_UHHdMPILgQ8tMDegQIfRAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Milton+High+School%22&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Milton+High+School%22&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Milton+High+School%22&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Milton+High+School%22&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Milton+High+School%22&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Milton+High+School%22&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Milton+High+School%22&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Milton+High+School%22&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Milton+High+School%22&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Milton+High+School%22&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Milton+High+School%22&start=90"
+  }
+ }
+}

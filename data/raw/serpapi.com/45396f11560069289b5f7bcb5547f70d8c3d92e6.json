@@ -1,0 +1,489 @@
+{
+ "search_information": {
+  "query_displayed": "\"Mira Costa High School\"",
+  "total_results": 107000,
+  "time_taken_displayed": 0.28,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Mira Costa High School",
+  "type": "Public high school in Manhattan Beach, California",
+  "entity_type": "local_nav",
+  "kgmid": "/m/07k9fc",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/07k9fc&hl=en-US&q=Mira+Costa+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F07k9fc&q=Mira+Costa+High+School",
+  "place_id": "ChIJ-wu1Jnm0woAR67G_BTKko2Y",
+  "website": "https://www.miracostahigh.org/",
+  "description": "Mira Costa High School is a four-year public high school located in Manhattan Beach, California, United States that first opened 1950. It is the only high school in the Manhattan Beach Unified School District. The school's athletic teams are known as the Mustangs and the school colors are green and gold.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa30fab02706a14449fbc70/images/Hv318FGbMoSrmP8Wd3IiwBkmxTQgv27s7ngyKNtnqhE.webp",
+   "link": "https://www.google.com/maps/place/Mira+Costa+High+School/data=!4m2!3m1!1s0x0:0x66a3a43205bfb1eb?sa=X&ved=2ahUKEwjf-YP46eSWAxVJJLkGHao7N6cQ_BJ6BAgREAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Mira_Costa_High_School"
+  },
+  "address": "1401 Artesia Blvd, Manhattan Beach, CA 90266",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=mira+costa+high+school+address&ludocid=7395935547824255467&sa=X&ved=2ahUKEwjf-YP46eSWAxVJJLkGHao7N6cQ6BN6BAgiEAI"
+   }
+  ],
+  "founded": "1950",
+  "color": "Gold",
+  "color_links": [
+   {
+    "text": "Gold",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yYv9a-ZEIw9b3bgmSTQtBIaidFg5CTFKLDlrgt05nx7pwwrB6pv8xhlmtdV-0Td2n133SE6ukNNu55bIU8HK9nUItaTdXEEFb1pYhkR6n_b2DrkS41_XmDfB-p46elc0L6kuXm8%3D&sa=X&ved=2ahUKEwjf-YP46eSWAxVJJLkGHao7N6cQmxN6BAgpEAI"
+   }
+  ],
+  "principal": "Jennifer Huynh mbusd.org",
+  "principal_links": [
+   {
+    "text": "mbusd.org",
+    "link": "https://www.mbusd.org/page/administrator-of-the-year"
+   }
+  ],
+  "school_types": "State school, Public high school",
+  "school_types_links": [
+   {
+    "text": "State school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=State+school&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ybGtCxI0H8z2nV80srIO5hh43iJrpLL9zyTRHToodwNipZCD4kcN2wbzA3OqfyGettl42NpXglwsH4hnJQRSg4KBrFTowpZphOt0qedRcJ2A9vXNbXabZgSAqQcpJjusOZFYf3OaEss_KLPBAfYM6o7bdIT7TVndn65Uaqfh68EmvnJIacFma9zpZqetOZIVNwhESLpvzYnvawfuAnOuffajbgtGkrKw5r9EQZmw12eSX4pWmedqWUL5a3TmSfQ644NlHNU%3D&sa=X&ved=2ahUKEwjf-YP46eSWAxVJJLkGHao7N6cQmxN6BAgmEAI"
+   },
+   {
+    "text": "Public high school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Public+high+school&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yXuVwxdgcNbksDtbCZOybZH8-MFK1R_MJlq7Fmlx-bCemVeVc8L-Ox0CP8GEz_yCkv0qAfln01zqTNwSclt8g5KDDZ342ZT1yYPwO47QWoTAMxHIYxsQ2wQ7XvdHl0bsobtdNJyXDfOOmiCidquBw4SQkXlhSz59As7C8yuZeoBAMyiTAq_vDTCP0WP8j7CpYihZha6HB26QwXy5RtU3JEOoMpTRhhaO0r99TmmuO1fA6g4Af-hMvl2dhgxtn3cw01cVX74%3D&sa=X&ved=2ahUKEwjf-YP46eSWAxVJJLkGHao7N6cQmxN6BAgmEAM"
+   }
+  ],
+  "phone": "(310) 318-7337",
+  "raw_hours": "Open \u00b7 Closes 3 - 30 PM",
+  "hours": {
+   "thursday": {
+    "opens": "8:30\u202fAM",
+    "closes": "3:30\u202fPM"
+   },
+   "friday": {
+    "opens": "8:30\u202fAM",
+    "closes": "3:30\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "8:30\u202fAM",
+    "closes": "3:30\u202fPM"
+   },
+   "tuesday": {
+    "opens": "8:30\u202fAM",
+    "closes": "3:30\u202fPM"
+   },
+   "wednesday": {
+    "opens": "8:30\u202fAM",
+    "closes": "3:30\u202fPM"
+   }
+  },
+  "unclaimed_listing": true,
+  "people_also_search_for": [
+   {
+    "name": "Redondo Union High School",
+    "image": "https://serpapi.com/searches/6aa30fab02706a14449fbc70/images/Hv318FGbMoSrmP8Wd3IiwKlg58CxAdSfqrwjykHd7U8esDP2qelrTQXae-nbREpU.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yQ6LNuOIp8kuv5ObD7dnyHMx_pvRk2blxsmkqDC_sRpBCimNoMRzrefZo9nebnP6DpZI5_u3_OFF5hmexqo1GklzQz4flLLiplI_3-geWFVAjyDlRoG4QTUKXoLmQEas5e9uklNZuXZ9DHYGze2zSz1WRcG0y-iTjnNS1dVQCrqtsiGYOfmA-g4ycWFaB3Migw2qBij35izqc32--bTy-3PhpCDUjGPG-GcPlEwnj8UHFo--FPZOMy9W4ZHljrDJ5A7ijstgg9fbqXo5MiiMECGOt_6E&q=Redondo+Union+High+School&sa=X&ved=2ahUKEwjf-YP46eSWAxVJJLkGHao7N6cQs9oBKAB6BAgfEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Redondo+Union+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yQ6LNuOIp8kuv5ObD7dnyHMx_pvRk2blxsmkqDC_sRpBCimNoMRzrefZo9nebnP6DpZI5_u3_OFF5hmexqo1GklzQz4flLLiplI_3-geWFVAjyDlRoG4QTUKXoLmQEas5e9uklNZuXZ9DHYGze2zSz1WRcG0y-iTjnNS1dVQCrqtsiGYOfmA-g4ycWFaB3Migw2qBij35izqc32--bTy-3PhpCDUjGPG-GcPlEwnj8UHFo--FPZOMy9W4ZHljrDJ5A7ijstgg9fbqXo5MiiMECGOt_6E"
+   },
+   {
+    "name": "Manhattan Beach Middle School",
+    "image": "https://serpapi.com/searches/6aa30fab02706a14449fbc70/images/Hv318FGbMoSrmP8Wd3IiwKlg58CxAdSfqrwjykHd7U_FTqDEplCX_bYyTn6ShaFM.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW670CFBLKuyIOpMki06z9PDYsDshFkxkZnzQpYmwWnxdjeJrmd_NKxLeeolQbEOU8LR9G7ZNoyzNgcmbBic_Lsun6av_b4vnKKXsdujA1GU3IFartqfOe1fSWEVFwumN69zyOzebKGXcJC2OJTXeH0xxmL7b2lX5MvcybQ8GVjTAITsHztNsCHtNSONhYrK3bSc-pAkSpRdxhoFlNQvUDSAzmRWgeWWBC_LO9HzHeRyr6XwgNFEvbk-c68SH38X-K3B0PmAHvQYCFYFcCgKiodqVvb1Nr5&q=Manhattan+Beach+Middle+School&sa=X&ved=2ahUKEwjf-YP46eSWAxVJJLkGHao7N6cQs9oBKAB6BAgfEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Manhattan+Beach+Middle+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW670CFBLKuyIOpMki06z9PDYsDshFkxkZnzQpYmwWnxdjeJrmd_NKxLeeolQbEOU8LR9G7ZNoyzNgcmbBic_Lsun6av_b4vnKKXsdujA1GU3IFartqfOe1fSWEVFwumN69zyOzebKGXcJC2OJTXeH0xxmL7b2lX5MvcybQ8GVjTAITsHztNsCHtNSONhYrK3bSc-pAkSpRdxhoFlNQvUDSAzmRWgeWWBC_LO9HzHeRyr6XwgNFEvbk-c68SH38X-K3B0PmAHvQYCFYFcCgKiodqVvb1Nr5"
+   },
+   {
+    "name": "Palos Verdes High School",
+    "image": "https://serpapi.com/searches/6aa30fab02706a14449fbc70/images/Hv318FGbMoSrmP8Wd3IiwKlg58CxAdSfqrwjykHd7U8TcZ6-nYZaCJd8conGIdht.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yVB-RK2N2HCGli2uR1WAfsAr7wcv6dpFvPWt52nJUJdprJ_8hoP9mn9U6ziuGyxU59ZXTolhwn7FIHqJAp4zq88xzsslJnDgjrixW4ql7g4OrhmuyzNgEt0vYEs4pXF8-CWHsFv4xuYS7NKe_5OnyzcrPR0rBFOaDlYSM9VgYzD4A4zUDXsv2p_gymbKrA3mx9EyWv1M2TbiLbUAji-g3de8uiB0N3bAikMnz_y_khLr1T_0S942q6fsH9xUAdOcsGwQdvY1Rr7CtSEQMM42aaVlsZb3&q=Palos+Verdes+High+School&sa=X&ved=2ahUKEwjf-YP46eSWAxVJJLkGHao7N6cQs9oBKAB6BAgfEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Palos+Verdes+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yVB-RK2N2HCGli2uR1WAfsAr7wcv6dpFvPWt52nJUJdprJ_8hoP9mn9U6ziuGyxU59ZXTolhwn7FIHqJAp4zq88xzsslJnDgjrixW4ql7g4OrhmuyzNgEt0vYEs4pXF8-CWHsFv4xuYS7NKe_5OnyzcrPR0rBFOaDlYSM9VgYzD4A4zUDXsv2p_gymbKrA3mx9EyWv1M2TbiLbUAji-g3de8uiB0N3bAikMnz_y_khLr1T_0S942q6fsH9xUAdOcsGwQdvY1Rr7CtSEQMM42aaVlsZb3"
+   },
+   {
+    "name": "JSerra Catholic High School",
+    "image": "https://serpapi.com/searches/6aa30fab02706a14449fbc70/images/Hv318FGbMoSrmP8Wd3IiwKlg58CxAdSfqrwjykHd7U94Yn0pGkgmeWX4tF2-x0z9.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ybDMJfm8uo2iMxXksc9G0MZRVqskwQpfyb5v6zK8LWTkXCOb4nQx3bwWT_VZukYFr0PkrHdtwjW3vH7GWgNXDbpVGkN_A6ISg9_6KELZ7WsH3MWqlhVZUiHIBByfeIydmJWb-47OXUxahT7z3wQYN5tjNyqCReToYOvecN3P3bYfOUkCc08ojbPy3LPkuX84XiqgMfhVY-8vLDmpisjDKIIdQpnNhWVy2hMGiCnyZEMPEAqqJwVpnwO8NIg0aUEBUgQMbEVrfuc3I3OTxyEbBENpdr17&q=JSerra+Catholic+High+School&sa=X&ved=2ahUKEwjf-YP46eSWAxVJJLkGHao7N6cQs9oBKAB6BAgfEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=JSerra+Catholic+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ybDMJfm8uo2iMxXksc9G0MZRVqskwQpfyb5v6zK8LWTkXCOb4nQx3bwWT_VZukYFr0PkrHdtwjW3vH7GWgNXDbpVGkN_A6ISg9_6KELZ7WsH3MWqlhVZUiHIBByfeIydmJWb-47OXUxahT7z3wQYN5tjNyqCReToYOvecN3P3bYfOUkCc08ojbPy3LPkuX84XiqgMfhVY-8vLDmpisjDKIIdQpnNhWVy2hMGiCnyZEMPEAqqJwVpnwO8NIg0aUEBUgQMbEVrfuc3I3OTxyEbBENpdr17"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Mira+Costa+High+School&stick=H4sIAAAAAAAAAONgFuLUz9U3MM-2TEtWQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iFfPNLEpUcM4vLklU8MhMz1AITs7Iz8_Zwcp4i02S4Y1DRWAuX1PnknDDQ6zaizZHJAXbpId9Pw4AxBs8a3wAAAA&sa=X&ved=2ahUKEwjf-YP46eSWAxVJJLkGHao7N6cQzO0BKAR6BAgfEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLUz9U3MM-2TEtWQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iFfPNLEpUcM4vLklU8MhMz1AITs7Iz8_Zwcp4i02S4Y1DRWAuX1PnknDDQ6zaizZHJAXbpId9Pw4AxBs8a3wAAAA",
+  "profiles": [
+   {
+    "name": "YouTube",
+    "link": "https://www.youtube.com/channel/UCnoNt4e4DyhyIKRzlb8EFpA",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Mira+Costa+High+School%22",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAP1BMVEX_____z8__n5__kJD_gID_cHD_YGD_v7__39__ICD_AAD_r6__EBD_7-__oKD_MDD_QED_UFD_X1__j4__f396G04EAAAAhklEQVR4AeXQRQLDQAwDQC3bajj5_1dLYb63czYKf8VY50OcBO9swkyUB_SBkfJQlqOXeKJAz_FEQM9zVCqXInqRIy-RC9W-AJDypgCwyoGiV68LkLJFwX6CVJcr8nBwZJgLXMaDAs9RxsMcLE949IQnEnpoeKjEpC25o12OpVwkTURy_JQX1r4RC2S7kZYAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/miracostaathletics/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Mira+Costa+High+School%22",
+    "image": "https://serpapi.com/searches/6aa30fab02706a14449fbc70/images/Hv318FGbMoSrmP8Wd3IiwLP7J9IlRhN-EwSdw2NAvV1cf-NJt0_H22FtarD3tqli.png"
+   },
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/MiraCostaHS",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Mira+Costa+High+School%22",
+    "image": "https://serpapi.com/searches/6aa30fab02706a14449fbc70/images/Hv318FGbMoSrmP8Wd3IiwIVd-qG7F6JPK7tQJXGZ5unGajqJtoqF0-om8lWRYja3.png"
+   },
+   {
+    "name": "TikTok",
+    "link": "https://www.tiktok.com/@miracostahigh",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Mira+Costa+High+School%22",
+    "image": "https://serpapi.com/searches/6aa30fab02706a14449fbc70/images/Hv318FGbMoSrmP8Wd3IiwEWTmwrYJkBq0u4Q5LaRBMfkPEVAhPAlD2YdoJDJ26lA.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "What famous people went to Mira Costa High School?",
+   "type": "ai_overview",
+   "page_token": "qfUGlHicHdBBjpswFABQ9TKznNhQUiVSVCkFJmXAIwz_G3tTgZ2ExCbQCQ2FXa_QM_RUPU2lviO8X3_c5Wb_fvjdjuNw365W0zQ9n_v-7I7Puu9W9X2-6ZWunWtqbbfrT2v6-aR30UPvv7zrfQ7DgCEnhd_ejgW14mAWgYPCkCmOkuhFhSxWMnPmDQ5fl4bQQ-aUeHuh18Zvr1nMnaFmj94USKBp7W0qZfXIquGVe5telvgKIOeaZBNWJsQbC4yLg2Op1oXllyJOMBWbOC3ZDP6epYIlRWU8LgIoumBkfpKwMJGsjLuMJIfGU0QumhjfiBI2d4B4ZpSRI_JJEyV5yH2w7SBgpMqex5qyH1LQPqPmkRYU0mrAqDWemul3WeVjDZQ11tKSYq4r1UkfefOzv-TAF311HUbsAS99gLFJ8AoBQxVnwq3LBT5imETM8Qjyp5N-7Pyn_9e7b6du3A7v_fkfdCKKWQ",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=qfUGlHicHdBBjpswFABQ9TKznNhQUiVSVCkFJmXAIwz_G3tTgZ2ExCbQCQ2FXa_QM_RUPU2lviO8X3_c5Wb_fvjdjuNw365W0zQ9n_v-7I7Puu9W9X2-6ZWunWtqbbfrT2v6-aR30UPvv7zrfQ7DgCEnhd_ejgW14mAWgYPCkCmOkuhFhSxWMnPmDQ5fl4bQQ-aUeHuh18Zvr1nMnaFmj94USKBp7W0qZfXIquGVe5telvgKIOeaZBNWJsQbC4yLg2Op1oXllyJOMBWbOC3ZDP6epYIlRWU8LgIoumBkfpKwMJGsjLuMJIfGU0QumhjfiBI2d4B4ZpSRI_JJEyV5yH2w7SBgpMqex5qyH1LQPqPmkRYU0mrAqDWemul3WeVjDZQ11tKSYq4r1UkfefOzv-TAF311HUbsAS99gLFJ8AoBQxVnwq3LBT5imETM8Qjyp5N-7Pyn_9e7b6du3A7v_fkfdCKKWQ",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFFuZG5lWFF6ZDBJMFpqVk5OamxGYVZCTmJVOUNWRTFMYXpaeVRIUXhaamRTWkZOcmNGZzRlbXRZVm05dVZYaHdiVmswZDJoRldYbExUell5T0U5NmQwWTFla2R2TXpOeE5EQjNSekJtVEZBM1VDMTBVRWg0YXpoRlFSSVhkbWN0YW1GMExXbE5UVzVKTlU5VlVIRjJabU4xVVc4YUlrRkVjM0k1WmxKdGVqVlZYMHhQVjI4NFJrVnViM2RPWTNSbFRsSlNWMmw0TjNjIiwiZmN2IjoiMyIsImVpIjoidmctamF0LWlNTW5JNU9VUHF2ZmN1UW8iLCJxYyI6IkNoWnRhWEpoSUdOdmMzUmhJR2hwWjJnZ2MyTm9iMjlzRUFCOXNoZ3dQdyIsInF1ZXN0aW9uIjoiV2hhdCBmYW1vdXMgcGVvcGxlIHdlbnQgdG8gTWlyYSBDb3N0YSBIaWdoIFNjaG9vbD8iLCJsayI6ImN3WEIwUTBBRUF3RndEMTh2UldNMUVpcEJFLTBZbjEzS1QtVFFKWEo2OWpLUFJSUFZ5Q0kyWS1nMEVOZ3ZSbThHRGstIiwiYnMiOiJjMzNQTVEtQ01CQUY0TGgyY3E0eHVjMm9nNEtESXdNTGk1T0RPbDZnMEl1MEpXMUo0NzhYdWtvZEw3bnZ2VHRHTEg5STlOQ2lNcU9EUVppaEZ4Q0U5dUFOM01naWxNWjVoSW82Q2ZkYUd0TVgtWVZuSWEzVXJPcW81S3hjVk96SnJyR0tYQ0ozNThDaWZwUHVnRFNVMkZOcnJDWXM4aTNmTElkR3dGN3NFSk1ET21pcFY2S0JhVW9kZi1UNzhMdWRPRnF3YzJVQ0tOUWZjSDVzcGhjZG9CWF9Dakota2ltelhMTmVmUUUiLCJpZCI6ImZjX3ZnLWphdC1pTU1uSTVPVVBxdmZjdVFvXzIifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFFuZG5lWFF6ZDBJMFpqVk5OamxGYVZCTmJVOUNWRTFMYXpaeVRIUXhaamRTWkZOcmNGZzRlbXRZVm05dVZYaHdiVmswZDJoRldYbExUell5T0U5NmQwWTFla2R2TXpOeE5EQjNSekJtVEZBM1VDMTBVRWg0YXpoRlFSSVhkbWN0YW1GMExXbE5UVzVKTlU5VlVIRjJabU4xVVc4YUlrRkVjM0k1WmxKdGVqVlZYMHhQVjI4NFJrVnViM2RPWTNSbFRsSlNWMmw0TjNjIiwiZmN2IjoiMyIsImVpIjoidmctamF0LWlNTW5JNU9VUHF2ZmN1UW8iLCJxYyI6IkNoWnRhWEpoSUdOdmMzUmhJR2hwWjJnZ2MyTm9iMjlzRUFCOXNoZ3dQdyIsInF1ZXN0aW9uIjoiV2hhdCBmYW1vdXMgcGVvcGxlIHdlbnQgdG8gTWlyYSBDb3N0YSBIaWdoIFNjaG9vbD8iLCJsayI6ImN3WEIwUTBBRUF3RndEMTh2UldNMUVpcEJFLTBZbjEzS1QtVFFKWEo2OWpLUFJSUFZ5Q0kyWS1nMEVOZ3ZSbThHRGstIiwiYnMiOiJjMzNQTVEtQ01CQUY0TGgyY3E0eHVjMm9nNEtESXdNTGk1T0RPbDZnMEl1MEpXMUo0NzhYdWtvZEw3bnZ2VHRHTEg5STlOQ2lNcU9EUVppaEZ4Q0U5dUFOM01naWxNWjVoSW82Q2ZkYUd0TVgtWVZuSWEzVXJPcW81S3hjVk96SnJyR0tYQ0ozNThDaWZwUHVnRFNVMkZOcnJDWXM4aTNmTElkR3dGN3NFSk1ET21pcFY2S0JhVW9kZi1UNzhMdWRPRnF3YzJVQ0tOUWZjSDVzcGhjZG9CWF9Dakota2ltelhMTmVmUUUiLCJpZCI6ImZjX3ZnLWphdC1pTU1uSTVPVVBxdmZjdVFvXzIifQ%3D%3D"
+  },
+  {
+   "question": "What is Mira Costa High School's ranking in California?",
+   "type": "ai_overview",
+   "page_token": "qyR3GnicHZBbbqMwAADVy_SziZ2QVSJFlSg4WbY4BfwAflZgHi424KZuCf3rFXqGPdWeplEPMJrRfP7Tz4P6f_MlrTWvu8Vimqa7dhxbXd-JsV8Ur_MgFqLQuiyE2m1-bcB9I_b-u3AfzsKNqDHMi5eJ3sYF0ZSs8PrEHZ8pY7gnnziK1mLQLkPbt9CX61ohlMAWYt-O5aHa5GnoUGgy9uGqUFmfHHAeHvWfUMuoPkhUsmBksDLEt5Z16FzCCnMUyJBXKATaCLh9rIb8eEpNkzCW5n0ACMVNrYNLwsET7wP4yGNIvcrwTjsYuIANmVN3-cwVthz9nk6enrmfmzJFUwq0jNXlpTy6XrTcepmSKmYsJOTKddJhBCNfVjCfwUuWRragAJdKAQJYJK72bMXi8jI-RzT-EJ3u6bJdFV42EcI8gq6d3D5grW0CqpNI9RT3dKbRbSPe96vbn9f7v01vd-Y8tt_64o0r",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=qyR3GnicHZBbbqMwAADVy_SziZ2QVSJFlSg4WbY4BfwAflZgHi424KZuCf3rFXqGPdWeplEPMJrRfP7Tz4P6f_MlrTWvu8Vimqa7dhxbXd-JsV8Ur_MgFqLQuiyE2m1-bcB9I_b-u3AfzsKNqDHMi5eJ3sYF0ZSs8PrEHZ8pY7gnnziK1mLQLkPbt9CX61ohlMAWYt-O5aHa5GnoUGgy9uGqUFmfHHAeHvWfUMuoPkhUsmBksDLEt5Z16FzCCnMUyJBXKATaCLh9rIb8eEpNkzCW5n0ACMVNrYNLwsET7wP4yGNIvcrwTjsYuIANmVN3-cwVthz9nk6enrmfmzJFUwq0jNXlpTy6XrTcepmSKmYsJOTKddJhBCNfVjCfwUuWRragAJdKAQJYJK72bMXi8jI-RzT-EJ3u6bJdFV42EcI8gq6d3D5grW0CqpNI9RT3dKbRbSPe96vbn9f7v01vd-Y8tt_64o0r",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFFuZG5lWFF6ZDBJMFpqVk5OamxGYVZCTmJVOUNWRTFMYXpaeVRIUXhaamRTWkZOcmNGZzRlbXRZVm05dVZYaHdiVmswZDJoRldYbExUell5T0U5NmQwWTFla2R2TXpOeE5EQjNSekJtVEZBM1VDMTBVRWg0YXpoRlFSSVhkbWN0YW1GMExXbE5UVzVKTlU5VlVIRjJabU4xVVc4YUlrRkVjM0k1WmxKdGVqVlZYMHhQVjI4NFJrVnViM2RPWTNSbFRsSlNWMmw0TjNjIiwiZmN2IjoiMyIsImVpIjoidmctamF0LWlNTW5JNU9VUHF2ZmN1UW8iLCJxYyI6IkNoWnRhWEpoSUdOdmMzUmhJR2hwWjJnZ2MyTm9iMjlzRUFCOXNoZ3dQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBNaXJhIENvc3RhIEhpZ2ggU2Nob29sJ3MgcmFua2luZyBpbiBDYWxpZm9ybmlhPyIsImxrIjoiR2h0dGFYSmhJR052YzNSaElHaHBaMmdnYzJOb2IyOXNJSEpoYm1zIiwiYnMiOiJjMzNQTVEtQ01CQUY0TGgyY3E0eHVjMm9nNEtESXdNTGk1T0RPbDZnMEl1MEpXMUo0NzhYdWtvZEw3bnZ2VHRHTEg5STlOQ2lNcU9EUVppaEZ4Q0U5dUFOM01naWxNWjVoSW82Q2ZkYUd0TVgtWVZuSWEzVXJPcW81S3hjVk96SnJyR0tYQ0ozNThDaWZwUHVnRFNVMkZOcnJDWXM4aTNmTElkR3dGN3NFSk1ET21pcFY2S0JhVW9kZi1UNzhMdWRPRnF3YzJVQ0tOUWZjSDVzcGhjZG9CWF9Dakota2ltelhMTmVmUUUiLCJpZCI6ImZjX3ZnLWphdC1pTU1uSTVPVVBxdmZjdVFvXzIifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFFuZG5lWFF6ZDBJMFpqVk5OamxGYVZCTmJVOUNWRTFMYXpaeVRIUXhaamRTWkZOcmNGZzRlbXRZVm05dVZYaHdiVmswZDJoRldYbExUell5T0U5NmQwWTFla2R2TXpOeE5EQjNSekJtVEZBM1VDMTBVRWg0YXpoRlFSSVhkbWN0YW1GMExXbE5UVzVKTlU5VlVIRjJabU4xVVc4YUlrRkVjM0k1WmxKdGVqVlZYMHhQVjI4NFJrVnViM2RPWTNSbFRsSlNWMmw0TjNjIiwiZmN2IjoiMyIsImVpIjoidmctamF0LWlNTW5JNU9VUHF2ZmN1UW8iLCJxYyI6IkNoWnRhWEpoSUdOdmMzUmhJR2hwWjJnZ2MyTm9iMjlzRUFCOXNoZ3dQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBNaXJhIENvc3RhIEhpZ2ggU2Nob29sJ3MgcmFua2luZyBpbiBDYWxpZm9ybmlhPyIsImxrIjoiR2h0dGFYSmhJR052YzNSaElHaHBaMmdnYzJOb2IyOXNJSEpoYm1zIiwiYnMiOiJjMzNQTVEtQ01CQUY0TGgyY3E0eHVjMm9nNEtESXdNTGk1T0RPbDZnMEl1MEpXMUo0NzhYdWtvZEw3bnZ2VHRHTEg5STlOQ2lNcU9EUVppaEZ4Q0U5dUFOM01naWxNWjVoSW82Q2ZkYUd0TVgtWVZuSWEzVXJPcW81S3hjVk96SnJyR0tYQ0ozNThDaWZwUHVnRFNVMkZOcnJDWXM4aTNmTElkR3dGN3NFSk1ET21pcFY2S0JhVW9kZi1UNzhMdWRPRnF3YzJVQ0tOUWZjSDVzcGhjZG9CWF9Dakota2ltelhMTmVmUUUiLCJpZCI6ImZjX3ZnLWphdC1pTU1uSTVPVVBxdmZjdVFvXzIifQ%3D%3D"
+  },
+  {
+   "question": "What was filmed at Mira Costa High School?",
+   "type": "ai_overview",
+   "page_token": "OFj083icHZDdTsIwGEDjy3gp6yqoJMQEaBkLm65rP6A3pu3GgHU_4GRjd76LT-XTSLw8VyfnfP_YQ5n_3l32TVN_jgeDtm0fsqrKbPpgqmKgPq-lGRhlrVYmH4-eRuh1ZybkazmdnZbTSNQ1zJkTH6fOm3juQ0q3knQtQIBTTkOArAMrF2lBD5I0V4ZIZ8RwxCn1GGk6XuZDjdg7YL8JnCSO3O2VL2SccraDnMWBTVzo5Srp4ZAUtOJl4konKZVrZ4EILQcf68UL09yfKs7cdO0X8ZzKt03oBTO0SDf2KwDpq3y41tYOAXwS0hwnwM7K8Qu99kFj6TG3FhE2rfboo-5tSfY3zxWdtpuoUQKFOs8RRxCZjSy2GJjuqkMkWG-OthBYnlcAsxvvIx60skwuyiOdINmtr0ZyTh5FdL8zlwm-__85-dgVzbg-V9kf1sWDKw",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=OFj083icHZDdTsIwGEDjy3gp6yqoJMQEaBkLm65rP6A3pu3GgHU_4GRjd76LT-XTSLw8VyfnfP_YQ5n_3l32TVN_jgeDtm0fsqrKbPpgqmKgPq-lGRhlrVYmH4-eRuh1ZybkazmdnZbTSNQ1zJkTH6fOm3juQ0q3knQtQIBTTkOArAMrF2lBD5I0V4ZIZ8RwxCn1GGk6XuZDjdg7YL8JnCSO3O2VL2SccraDnMWBTVzo5Srp4ZAUtOJl4konKZVrZ4EILQcf68UL09yfKs7cdO0X8ZzKt03oBTO0SDf2KwDpq3y41tYOAXwS0hwnwM7K8Qu99kFj6TG3FhE2rfboo-5tSfY3zxWdtpuoUQKFOs8RRxCZjSy2GJjuqkMkWG-OthBYnlcAsxvvIx60skwuyiOdINmtr0ZyTh5FdL8zlwm-__85-dgVzbg-V9kf1sWDKw",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFFuZG5lWFF6ZDBJMFpqVk5OamxGYVZCTmJVOUNWRTFMYXpaeVRIUXhaamRTWkZOcmNGZzRlbXRZVm05dVZYaHdiVmswZDJoRldYbExUell5T0U5NmQwWTFla2R2TXpOeE5EQjNSekJtVEZBM1VDMTBVRWg0YXpoRlFSSVhkbWN0YW1GMExXbE5UVzVKTlU5VlVIRjJabU4xVVc4YUlrRkVjM0k1WmxKdGVqVlZYMHhQVjI4NFJrVnViM2RPWTNSbFRsSlNWMmw0TjNjIiwiZmN2IjoiMyIsImVpIjoidmctamF0LWlNTW5JNU9VUHF2ZmN1UW8iLCJxYyI6IkNoWnRhWEpoSUdOdmMzUmhJR2hwWjJnZ2MyTm9iMjlzRUFCOXNoZ3dQdyIsInF1ZXN0aW9uIjoiV2hhdCB3YXMgZmlsbWVkIGF0IE1pcmEgQ29zdGEgSGlnaCBTY2hvb2w/IiwibGsiOiJHaWwzYUdGMElIZGhjeUJtYVd4dFpXUWdZWFFnYldseVlTQmpiM04wWVNCb2FXZG9JSE5qYUc5dmJBIiwiYnMiOiJjMzNQTVEtQ01CQUY0TGgyY3E0eHVjMm9nNEtESXdNTGk1T0RPbDZnMEl1MEpXMUo0NzhYdWtvZEw3bnZ2VHRHTEg5STlOQ2lNcU9EUVppaEZ4Q0U5dUFOM01naWxNWjVoSW82Q2ZkYUd0TVgtWVZuSWEzVXJPcW81S3hjVk96SnJyR0tYQ0ozNThDaWZwUHVnRFNVMkZOcnJDWXM4aTNmTElkR3dGN3NFSk1ET21pcFY2S0JhVW9kZi1UNzhMdWRPRnF3YzJVQ0tOUWZjSDVzcGhjZG9CWF9Dakota2ltelhMTmVmUUUiLCJpZCI6ImZjX3ZnLWphdC1pTU1uSTVPVVBxdmZjdVFvXzIifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFFuZG5lWFF6ZDBJMFpqVk5OamxGYVZCTmJVOUNWRTFMYXpaeVRIUXhaamRTWkZOcmNGZzRlbXRZVm05dVZYaHdiVmswZDJoRldYbExUell5T0U5NmQwWTFla2R2TXpOeE5EQjNSekJtVEZBM1VDMTBVRWg0YXpoRlFSSVhkbWN0YW1GMExXbE5UVzVKTlU5VlVIRjJabU4xVVc4YUlrRkVjM0k1WmxKdGVqVlZYMHhQVjI4NFJrVnViM2RPWTNSbFRsSlNWMmw0TjNjIiwiZmN2IjoiMyIsImVpIjoidmctamF0LWlNTW5JNU9VUHF2ZmN1UW8iLCJxYyI6IkNoWnRhWEpoSUdOdmMzUmhJR2hwWjJnZ2MyTm9iMjlzRUFCOXNoZ3dQdyIsInF1ZXN0aW9uIjoiV2hhdCB3YXMgZmlsbWVkIGF0IE1pcmEgQ29zdGEgSGlnaCBTY2hvb2w%2FIiwibGsiOiJHaWwzYUdGMElIZGhjeUJtYVd4dFpXUWdZWFFnYldseVlTQmpiM04wWVNCb2FXZG9JSE5qYUc5dmJBIiwiYnMiOiJjMzNQTVEtQ01CQUY0TGgyY3E0eHVjMm9nNEtESXdNTGk1T0RPbDZnMEl1MEpXMUo0NzhYdWtvZEw3bnZ2VHRHTEg5STlOQ2lNcU9EUVppaEZ4Q0U5dUFOM01naWxNWjVoSW82Q2ZkYUd0TVgtWVZuSWEzVXJPcW81S3hjVk96SnJyR0tYQ0ozNThDaWZwUHVnRFNVMkZOcnJDWXM4aTNmTElkR3dGN3NFSk1ET21pcFY2S0JhVW9kZi1UNzhMdWRPRnF3YzJVQ0tOUWZjSDVzcGhjZG9CWF9Dakota2ltelhMTmVmUUUiLCJpZCI6ImZjX3ZnLWphdC1pTU1uSTVPVVBxdmZjdVFvXzIifQ%3D%3D"
+  },
+  {
+   "question": "How many students are at Mira Costa High School?",
+   "type": "ai_overview",
+   "page_token": "O_qN_3icHdBRbpswAIBh7TJ9bDBpOxEpqkbAFCpANrYBv1Rgk6Rgg1NICHnbFXaGnWqnWdQDfP_D__uv-uy7fz_-HKfJjJvVap7nx8MwHFTzKAa9qsalFytRKVVXotu8_HwBr3ux9S_C3X0JF1FjmIetTCmEtdwhFp1rTynMVIaYMlnA0iYwbd1insPjktPrjG3OUOGGSMMwo847Yr-eGuh08g2qJsBRbN0b2tgkH62sly0DMhX6mWV3T3InItC3yiJJa38EiWIxI_CdtpFPvORE3lxbBDKgBb_QnAexdgbaTVGao4nnkybMpLE_BXIBE225K_1rjoq7g-YpWzMiO26xm1uUHQjJOhobDwPWhzZRySnunkMMzc0_Spsv4FQWaKooSOquAwQwJAquyzXD9XX4RBTfRKs0VeVc2tilUO6k7VSpF09xAc-Nktd6ASPv1Rmhh724bNcP36-3H3s9bczXcPgP-pWODA",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=O_qN_3icHdBRbpswAIBh7TJ9bDBpOxEpqkbAFCpANrYBv1Rgk6Rgg1NICHnbFXaGnWqnWdQDfP_D__uv-uy7fz_-HKfJjJvVap7nx8MwHFTzKAa9qsalFytRKVVXotu8_HwBr3ux9S_C3X0JF1FjmIetTCmEtdwhFp1rTynMVIaYMlnA0iYwbd1insPjktPrjG3OUOGGSMMwo847Yr-eGuh08g2qJsBRbN0b2tgkH62sly0DMhX6mWV3T3InItC3yiJJa38EiWIxI_CdtpFPvORE3lxbBDKgBb_QnAexdgbaTVGao4nnkybMpLE_BXIBE225K_1rjoq7g-YpWzMiO26xm1uUHQjJOhobDwPWhzZRySnunkMMzc0_Spsv4FQWaKooSOquAwQwJAquyzXD9XX4RBTfRKs0VeVc2tilUO6k7VSpF09xAc-Nktd6ASPv1Rmhh724bNcP36-3H3s9bczXcPgP-pWODA",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFFuZG5lWFF6ZDBJMFpqVk5OamxGYVZCTmJVOUNWRTFMYXpaeVRIUXhaamRTWkZOcmNGZzRlbXRZVm05dVZYaHdiVmswZDJoRldYbExUell5T0U5NmQwWTFla2R2TXpOeE5EQjNSekJtVEZBM1VDMTBVRWg0YXpoRlFSSVhkbWN0YW1GMExXbE5UVzVKTlU5VlVIRjJabU4xVVc4YUlrRkVjM0k1WmxKdGVqVlZYMHhQVjI4NFJrVnViM2RPWTNSbFRsSlNWMmw0TjNjIiwiZmN2IjoiMyIsImVpIjoidmctamF0LWlNTW5JNU9VUHF2ZmN1UW8iLCJxYyI6IkNoWnRhWEpoSUdOdmMzUmhJR2hwWjJnZ2MyTm9iMjlzRUFCOXNoZ3dQdyIsInF1ZXN0aW9uIjoiSG93IG1hbnkgc3R1ZGVudHMgYXJlIGF0IE1pcmEgQ29zdGEgSGlnaCBTY2hvb2w/IiwibGsiOiJHaTlvYjNjZ2JXRnVlU0J6ZEhWa1pXNTBjeUJoY21VZ1lYUWdiV2x5WVNCamIzTjBZU0JvYVdkb0lITmphRzl2YkEiLCJicyI6ImMzM1BNUS1DTUJBRjRMaDJjcTR4dWMyb2c0S0RJd01MaTVPRE9sNmcwSXUwSlcxSjQ3OFh1a29kTDdudnZUdEdMSDlJOU5DaU1xT0RRWmloRnhDRTl1QU4zTWdpbE1aNWhJbzZDZmRhR3RNWC1ZVm5JYTNVck9xbzVLeGNWT3pKcnJHS1hDSjM1OENpZnBQdWdEU1UyRk5yckNZczhpM2ZMSWRHd0Y3c0VKTURPbWlwVjZLQmFVb2RmLVQ3OEx1ZE9GcXdjMlVDS05RZmNINXNwaGNkb0JYX0NqSi1raW16WExOZWZRRSIsImlkIjoiZmNfdmctamF0LWlNTW5JNU9VUHF2ZmN1UW9fMiJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFFuZG5lWFF6ZDBJMFpqVk5OamxGYVZCTmJVOUNWRTFMYXpaeVRIUXhaamRTWkZOcmNGZzRlbXRZVm05dVZYaHdiVmswZDJoRldYbExUell5T0U5NmQwWTFla2R2TXpOeE5EQjNSekJtVEZBM1VDMTBVRWg0YXpoRlFSSVhkbWN0YW1GMExXbE5UVzVKTlU5VlVIRjJabU4xVVc4YUlrRkVjM0k1WmxKdGVqVlZYMHhQVjI4NFJrVnViM2RPWTNSbFRsSlNWMmw0TjNjIiwiZmN2IjoiMyIsImVpIjoidmctamF0LWlNTW5JNU9VUHF2ZmN1UW8iLCJxYyI6IkNoWnRhWEpoSUdOdmMzUmhJR2hwWjJnZ2MyTm9iMjlzRUFCOXNoZ3dQdyIsInF1ZXN0aW9uIjoiSG93IG1hbnkgc3R1ZGVudHMgYXJlIGF0IE1pcmEgQ29zdGEgSGlnaCBTY2hvb2w%2FIiwibGsiOiJHaTlvYjNjZ2JXRnVlU0J6ZEhWa1pXNTBjeUJoY21VZ1lYUWdiV2x5WVNCamIzTjBZU0JvYVdkb0lITmphRzl2YkEiLCJicyI6ImMzM1BNUS1DTUJBRjRMaDJjcTR4dWMyb2c0S0RJd01MaTVPRE9sNmcwSXUwSlcxSjQ3OFh1a29kTDdudnZUdEdMSDlJOU5DaU1xT0RRWmloRnhDRTl1QU4zTWdpbE1aNWhJbzZDZmRhR3RNWC1ZVm5JYTNVck9xbzVLeGNWT3pKcnJHS1hDSjM1OENpZnBQdWdEU1UyRk5yckNZczhpM2ZMSWRHd0Y3c0VKTURPbWlwVjZLQmFVb2RmLVQ3OEx1ZE9GcXdjMlVDS05RZmNINXNwaGNkb0JYX0NqSi1raW16WExOZWZRRSIsImlkIjoiZmNfdmctamF0LWlNTW5JNU9VUHF2ZmN1UW9fMiJ9"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Mira Costa High School: Home",
+   "link": "https://miracosta.mbusd.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVAHrOzAVpOiTRBtnnHqEdnEpkNCDlArlt-PBNK0wHuGhS5iIaqpLnBQUqAgkXCjt1-mawaqTxw6-MMzuvzxAUpmBf_vGNUuZgL58tVgvOPrCOe-mKQ&ved=2ahUKEwjf-YP46eSWAxVJJLkGHao7N6cQFnoECEUQAQ&uoh=1",
+   "displayed_link": "https://miracosta.mbusd.org",
+   "favicon": "https://serpapi.com/searches/6aa30fab02706a14449fbc70/images/jrp-C3Wi9T4CFchgqInBIvyGJWZS4Hr9OivqrSRAWo4.png",
+   "snippet": "Welcome to Mira Costa High School! As Principal, I am honored to welcome students and families to our vibrant, inclusive, and high-achieving school ...",
+   "snippet_highlighted_words": [
+    "Mira Costa High School"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "Bell Schedules",
+      "link": "https://miracosta.mbusd.org/o/mchs/page/bell-schedules",
+      "snippet": "... add the link): Subscribe to Mira Costa High School Athletics ..."
+     },
+     {
+      "title": "Directories",
+      "link": "https://miracosta.mbusd.org/staff",
+      "snippet": "Mira Costa High School ; Jorje Aguirre. Special Education ..."
+     },
+     {
+      "title": "Athletics",
+      "link": "https://miracosta.mbusd.org/athletics",
+      "snippet": "Mira Costa High School \u00b7 Athletics. Select Sports. Download the ..."
+     },
+     {
+      "title": "Dual Enrollment",
+      "link": "https://miracosta.mbusd.org/o/mchs/page/dual-enrollment",
+      "snippet": "Mira Costa High School 1401 Artesia Blvd Manhattan Beach ..."
+     },
+     {
+      "title": "WASC",
+      "link": "https://miracosta.mbusd.org/o/mchs/page/wasc",
+      "snippet": "Mira Costa High School \u00b7 Mira Costa High School; About Us ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Welcome to Mira Costa High School! As Principal, I am honored to welcome students and families to our vibrant, inclusive, and high-achieving school ...",
+     "source_info_link": "https://miracosta.mbusd.org/",
+     "icon": "https://serpapi.com/searches/6aa30fab02706a14449fbc70/images/jrp-C3Wi9T4CFchgqInBInrocugN9CA3UkP9foX8CJNeo_ac6hlVqSp-Bdio6aTk.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESVAHrOzAVpOiTRBtnnHqEdnEpkNCDlArlt-PBNK0wHuGhS5iIaqpLnBQUqAgkXCjt1-mawaqTxw6-MMzuvzxAUpmBf_vGNUuZgL58tVgvOPrCOe-mKQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESVAHrOzAVpOiTRBtnnHqEdnEpkNCDlArlt-PBNK0wHuGhS5iIaqpLnBQUqAgkXCjt1-mawaqTxw6-MMzuvzxAUpmBf_vGNUuZgL58tVgvOPrCOe-mKQ",
+   "source": "Manhattan Beach Unified School District"
+  },
+  {
+   "position": 2,
+   "title": "Mira Costa High School",
+   "link": "https://en.wikipedia.org/wiki/Mira_Costa_High_School",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHrOzAV67_jzx-ZILjkm7Yh3LFKDtu4TpiM15jlZzN94y6-Fcg6aQk4q1xc5n_wce80R6j0Xe03MdwA8o1CNkucmbEc6d_ST1Hx0QKvwGiB_uLJ0bLz2nZWmNItVaRrsHFYbrlBIaRXF1R87g&ved=2ahUKEwjf-YP46eSWAxVJJLkGHao7N6cQFnoECEwQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Mira_Costa_High_Sch...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+   "snippet": "Mira Costa High School (MCHS, \"Costa\") is a four-year public high school located in Manhattan Beach, California, United States that first opened 1950.",
+   "snippet_highlighted_words": [
+    "Mira Costa High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Mira Costa High School (MCHS, \"Costa\") is a four-year public high school located in Manhattan Beach, California, United States that first opened 1950.",
+     "source_info_link": "https://en.wikipedia.org/wiki/Mira_Costa_High_School",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESbAHrOzAV67_jzx-ZILjkm7Yh3LFKDtu4TpiM15jlZzN94y6-Fcg6aQk4q1xc5n_wce80R6j0Xe03MdwA8o1CNkucmbEc6d_ST1Hx0QKvwGiB_uLJ0bLz2nZWmNItVaRrsHFYbrlBIaRXF1R87g&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESbAHrOzAV67_jzx-ZILjkm7Yh3LFKDtu4TpiM15jlZzN94y6-Fcg6aQk4q1xc5n_wce80R6j0Xe03MdwA8o1CNkucmbEc6d_ST1Hx0QKvwGiB_uLJ0bLz2nZWmNItVaRrsHFYbrlBIaRXF1R87g",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Mira_Costa_High_School#:~:text=Mira%20Costa%20High%20School%20(MCHS%2C,States%20that%20first%20opened%201950."
+  },
+  {
+   "position": 3,
+   "title": "Mira Costa High School in Manhattan Beach, CA - US News",
+   "link": "https://www.usnews.com/education/best-high-schools/california/districts/manhattan-beach-unified-school-district/mira-costa-high-school-1542",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESxAEB6zswFTDeazdmbT71loTzNpwCpUFdVlbc4fOssfMAsKoSPU8YKbbMKHxiWnX3XVw0_FnmtooSM_Wgfa1g8O75lRoyXP8kNyds3cbM88IZdz-G2cuXEUAzVHrOq6zBGjUDuZx_vYqmvcg8yDx97KpFleHolUhDVqImrVg4OXKNo-xyQ7T8nFVFwq0fN7aXsXqJOG19k8iA9-NU8p8gXFgqQ6Dktn13wRMcotyohmWfQJekuYeLPCDGtoKqVGl7bLFXEeu7&ved=2ahUKEwjf-YP46eSWAxVJJLkGHao7N6cQFnoECE0QAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a california \u203a districts \u203a mira-c...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png",
+   "snippet": "Mira Costa High School is ranked #832 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+   "snippet_highlighted_words": [
+    "Mira Costa High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Mira Costa High School is ranked #832 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/california/districts/manhattan-beach-unified-school-district/mira-costa-high-school-1542",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESxAEB6zswFTDeazdmbT71loTzNpwCpUFdVlbc4fOssfMAsKoSPU8YKbbMKHxiWnX3XVw0_FnmtooSM_Wgfa1g8O75lRoyXP8kNyds3cbM88IZdz-G2cuXEUAzVHrOq6zBGjUDuZx_vYqmvcg8yDx97KpFleHolUhDVqImrVg4OXKNo-xyQ7T8nFVFwq0fN7aXsXqJOG19k8iA9-NU8p8gXFgqQ6Dktn13wRMcotyohmWfQJekuYeLPCDGtoKqVGl7bLFXEeu7&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESxAEB6zswFTDeazdmbT71loTzNpwCpUFdVlbc4fOssfMAsKoSPU8YKbbMKHxiWnX3XVw0_FnmtooSM_Wgfa1g8O75lRoyXP8kNyds3cbM88IZdz-G2cuXEUAzVHrOq6zBGjUDuZx_vYqmvcg8yDx97KpFleHolUhDVqImrVg4OXKNo-xyQ7T8nFVFwq0fN7aXsXqJOG19k8iA9-NU8p8gXFgqQ6Dktn13wRMcotyohmWfQJekuYeLPCDGtoKqVGl7bLFXEeu7",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/california/districts/manhattan-beach-unified-school-district/mira-costa-high-school-1542#:~:text=Mira%20Costa%20High%20School%20is,they%20prepare%20students%20for%20college."
+  },
+  {
+   "position": 4,
+   "title": "Mira Costa High School (@miracostahs)",
+   "link": "https://www.instagram.com/miracostahs/?hl=en",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZAHrOzAVvcFQf0m7l3Ap19iYS7I2yERO50yDg6TP0uJFclgs5MtlBqiTssR_QBV_aViy_VlxOiYFpNX-QImHafnNPWHv9hV_cK2jE27cPBlU177kIdxway9lM7i_xh5_q1OXXx8&ved=2ahUKEwjf-YP46eSWAxVJJLkGHao7N6cQFnoECFAQAQ&uoh=1",
+   "displayed_link": "5.8K+ followers",
+   "favicon": "https://serpapi.com/searches/6aa30fab02706a14449fbc70/images/jrp-C3Wi9T4CFchgqInBIn_vUJH39BtJvEHuwp8uHOU.png",
+   "snippet": "miracostahs's profile picture. miracostahs. Mira Costa High School. 5,864 followers. 139 following. Est. 1950. Home of the Mustangs Go COSTA! Follow. Message ...",
+   "snippet_highlighted_words": [
+    "Mira Costa High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "miracostahs's profile picture. miracostahs. Mira Costa High School. 5,864 followers. 139 following. Est. 1950. Home of the Mustangs Go COSTA! Follow. Message ...",
+     "source_info_link": "https://www.instagram.com/miracostahs/?hl=en",
+     "icon": "https://serpapi.com/searches/6aa30fab02706a14449fbc70/images/jrp-C3Wi9T4CFchgqInBIpJTdn_8qZN6M5ovnpTjQ3SesxdBLkVQiNDNx_p37a30.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESZAHrOzAVvcFQf0m7l3Ap19iYS7I2yERO50yDg6TP0uJFclgs5MtlBqiTssR_QBV_aViy_VlxOiYFpNX-QImHafnNPWHv9hV_cK2jE27cPBlU177kIdxway9lM7i_xh5_q1OXXx8&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESZAHrOzAVvcFQf0m7l3Ap19iYS7I2yERO50yDg6TP0uJFclgs5MtlBqiTssR_QBV_aViy_VlxOiYFpNX-QImHafnNPWHv9hV_cK2jE27cPBlU177kIdxway9lM7i_xh5_q1OXXx8",
+   "source": "Instagram \u00b7 miracostahs",
+   "read_more_link": "https://www.instagram.com/miracostahs/?hl=en#:~:text=miracostahs,Message"
+  },
+  {
+   "position": 5,
+   "title": "Mira Costa High School in Manhattan Beach, CA",
+   "link": "https://www.niche.com/k12/mira-costa-high-school-manhattan-beach-ca/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHrOzAVpgcDbrLLoVwBWSKObXIJOADZZkfAA8SFOxq-F4kPqe7maW07hT7xT8xj-TP6tNqJW1Wde6dH1yscz0M5uQVi8sUM9a88x-zbfPjuqVYzbMfWuFwp9wTn6SZpytlb3jvamaZhHMvX57hTLJ7XqRkIKC8mVyf6OQI&ved=2ahUKEwjf-YP46eSWAxVJJLkGHao7N6cQFnoECEoQAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a California",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png",
+   "snippet": "Mira Costa High School is a top rated, public school located in MANHATTAN BEACH, CA. It has 2,473 students in grades 9-12 with a student-teacher ratio of 25 ...",
+   "snippet_highlighted_words": [
+    "Mira Costa High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Mira Costa High School is a top rated, public school located in MANHATTAN BEACH, CA. It has 2,473 students in grades 9-12 with a student-teacher ratio of 25 ...",
+     "source_info_link": "https://www.niche.com/k12/mira-costa-high-school-manhattan-beach-ca/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESfAHrOzAVpgcDbrLLoVwBWSKObXIJOADZZkfAA8SFOxq-F4kPqe7maW07hT7xT8xj-TP6tNqJW1Wde6dH1yscz0M5uQVi8sUM9a88x-zbfPjuqVYzbMfWuFwp9wTn6SZpytlb3jvamaZhHMvX57hTLJ7XqRkIKC8mVyf6OQI&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESfAHrOzAVpgcDbrLLoVwBWSKObXIJOADZZkfAA8SFOxq-F4kPqe7maW07hT7xT8xj-TP6tNqJW1Wde6dH1yscz0M5uQVi8sUM9a88x-zbfPjuqVYzbMfWuFwp9wTn6SZpytlb3jvamaZhHMvX57hTLJ7XqRkIKC8mVyf6OQI",
+   "source": "Niche",
+   "read_more_link": "https://www.niche.com/k12/mira-costa-high-school-manhattan-beach-ca/#:~:text=Mira%20Costa%20High%20School%20is,ratio%20of%2025%20to%201."
+  },
+  {
+   "position": 6,
+   "title": "New Student Info Page | Mira Costa High School",
+   "link": "https://www.mbusd.org/o/mchs/page/new-student-info-page",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAVlakrOG6XNC6Gg8K58Ec-Ck5_yWK8ukwfF2siZEE_XXfJnOn0ytIagSdS02WEK9B1ZLNU-_ILIBTTswH-Bczo9xg0T5TiJHNksTJyu8SBRiv-jevpLZ6B2rF7niQnBWHKv63flVrCGs-bnw&ved=2ahUKEwjf-YP46eSWAxVJJLkGHao7N6cQFnoECEsQAQ&uoh=1",
+   "displayed_link": "https://www.mbusd.org \u203a mchs \u203a new-student-info-page",
+   "favicon": "https://serpapi.com/searches/6aa30fab02706a14449fbc70/images/jrp-C3Wi9T4CFchgqInBIhV0S9obmx6_30eqiCrKInU.png",
+   "snippet": "Welcome to Mira Costa High School! This page contains information you will need to get started at Mira Costa and learn about enrollments. If you have any ...",
+   "snippet_highlighted_words": [
+    "Mira Costa High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Welcome to Mira Costa High School! This page contains information you will need to get started at Mira Costa and learn about enrollments. If you have any ...",
+     "source_info_link": "https://www.mbusd.org/o/mchs/page/new-student-info-page",
+     "icon": "https://serpapi.com/searches/6aa30fab02706a14449fbc70/images/jrp-C3Wi9T4CFchgqInBIlHWUFZkyjpy5FO_WdDonVsjhQn1R7nyBxQ_hOR7IOQw.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESbwHrOzAVlakrOG6XNC6Gg8K58Ec-Ck5_yWK8ukwfF2siZEE_XXfJnOn0ytIagSdS02WEK9B1ZLNU-_ILIBTTswH-Bczo9xg0T5TiJHNksTJyu8SBRiv-jevpLZ6B2rF7niQnBWHKv63flVrCGs-bnw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESbwHrOzAVlakrOG6XNC6Gg8K58Ec-Ck5_yWK8ukwfF2siZEE_XXfJnOn0ytIagSdS02WEK9B1ZLNU-_ILIBTTswH-Bczo9xg0T5TiJHNksTJyu8SBRiv-jevpLZ6B2rF7niQnBWHKv63flVrCGs-bnw",
+   "source": "Manhattan Beach Unified School District",
+   "read_more_link": "https://www.mbusd.org/o/mchs/page/new-student-info-page#:~:text=Welcome%20to%20Mira%20Costa%20High,enrollments.%20If%20you%20have%20any"
+  },
+  {
+   "position": 7,
+   "title": "Mira Costa High - School Directory Details ...",
+   "link": "https://www.cde.ca.gov/schooldirectory/details?cdscode=19753331935808",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAV12DU5exrcWCWTEZDA2T2jLYOnVRipMsdRfBP5yaEEFuTa0ZbQmF-CSN9JDtym7_WRHbpI5GSfw9qFy1scKLvO_PfqIzsnFLOoYN5uxAVwr8xj52TbU0WIBIMhPyUn9YNuga7qId-2W5hgpQyUAYeYmaAUef7YyWJ&ved=2ahUKEwjf-YP46eSWAxVJJLkGHao7N6cQFnoECHoQAQ&uoh=1",
+   "displayed_link": "https://www.cde.ca.gov \u203a schooldirectory \u203a details",
+   "favicon": "https://serpapi.com/searches/6aa30fab02706a14449fbc70/images/jrp-C3Wi9T4CFchgqInBIk2JVzGOfJWwoDTTuP23kto.png",
+   "snippet": "School Address 1401 Artesia Blvd. Manhattan Beach, CA 90266-6968 \u2026 325 South Peck Ave. Manhattan Beach, CA 90266 Phone Number (310) 318-7337 Ext. 5003 Fax ...",
+   "about_this_result": {
+    "source": {
+     "description": "School Address 1401 Artesia Blvd. Manhattan Beach, CA 90266-6968 \u2026 325 South Peck Ave. Manhattan Beach, CA 90266 Phone Number (310) 318-7337 Ext. 5003 Fax ...",
+     "source_info_link": "https://www.cde.ca.gov/schooldirectory/details?cdscode=19753331935808",
+     "icon": "https://serpapi.com/searches/6aa30fab02706a14449fbc70/images/jrp-C3Wi9T4CFchgqInBIkE_sFIBaheUO50RhJP7Fh5LmQ2uWcUJJwhmZbjy2HH2.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESfQHrOzAV12DU5exrcWCWTEZDA2T2jLYOnVRipMsdRfBP5yaEEFuTa0ZbQmF-CSN9JDtym7_WRHbpI5GSfw9qFy1scKLvO_PfqIzsnFLOoYN5uxAVwr8xj52TbU0WIBIMhPyUn9YNuga7qId-2W5hgpQyUAYeYmaAUef7YyWJ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESfQHrOzAV12DU5exrcWCWTEZDA2T2jLYOnVRipMsdRfBP5yaEEFuTa0ZbQmF-CSN9JDtym7_WRHbpI5GSfw9qFy1scKLvO_PfqIzsnFLOoYN5uxAVwr8xj52TbU0WIBIMhPyUn9YNuga7qId-2W5hgpQyUAYeYmaAUef7YyWJ",
+   "source": "California Department of Education (CDE) (.gov)"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Mira Costa High School football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Mira+Costa+High+School+football&sa=X&ved=2ahUKEwjf-YP46eSWAxVJJLkGHao7N6cQ1QJ6BAh7EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mira+Costa+High+School+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Mira costa high school map",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Mira+costa+high+school+map&sa=X&ved=2ahUKEwjf-YP46eSWAxVJJLkGHao7N6cQ1QJ6BQiCARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mira+costa+high+school+map"
+  },
+  {
+   "block_position": 1,
+   "query": "Mira costa high school tuition",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Mira+costa+high+school+tuition&sa=X&ved=2ahUKEwjf-YP46eSWAxVJJLkGHao7N6cQ1QJ6BAh-EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mira+costa+high+school+tuition"
+  },
+  {
+   "block_position": 1,
+   "query": "Mira Costa High School calendar",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Mira+Costa+High+School+calendar&sa=X&ved=2ahUKEwjf-YP46eSWAxVJJLkGHao7N6cQ1QJ6BAh4EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mira+Costa+High+School+calendar"
+  },
+  {
+   "block_position": 1,
+   "query": "Mira Costa High School volleyball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Mira+Costa+High+School+volleyball&sa=X&ved=2ahUKEwjf-YP46eSWAxVJJLkGHao7N6cQ1QJ6BQiBARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mira+Costa+High+School+volleyball"
+  },
+  {
+   "block_position": 1,
+   "query": "Mira costa high school bell schedule",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Mira+costa+high+school+bell+schedule&sa=X&ved=2ahUKEwjf-YP46eSWAxVJJLkGHao7N6cQ1QJ6BQiAARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mira+costa+high+school+bell+schedule"
+  },
+  {
+   "block_position": 1,
+   "query": "Mira Costa High School ranking",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Mira+Costa+High+School+ranking&sa=X&ved=2ahUKEwjf-YP46eSWAxVJJLkGHao7N6cQ1QJ6BAh_EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mira+Costa+High+School+ranking"
+  },
+  {
+   "block_position": 1,
+   "query": "Mira Costa high school Demographics",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Mira+Costa+high+school+Demographics&sa=X&ved=2ahUKEwjf-YP46eSWAxVJJLkGHao7N6cQ1QJ6BAh5EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mira+Costa+high+school+Demographics"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Mira+Costa+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=vg-jat-iMMnI5OUPqvfcuQo&start=10&sa=N&sstk=AS6-VmI0x63Exr2FTDaZzSo1LXBNE8vL5C28LCCSSCo3mAr08pmUpeLGHtnKMzq1gtaKyH8e2z8KAiR1iaHpaMZsGpnvZBUYbmRyWQ&ved=2ahUKEwjf-YP46eSWAxVJJLkGHao7N6cQ8NMDegQIchAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Mira+Costa+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=vg-jat-iMMnI5OUPqvfcuQo&start=10&sa=N&sstk=AS6-VmI0x63Exr2FTDaZzSo1LXBNE8vL5C28LCCSSCo3mAr08pmUpeLGHtnKMzq1gtaKyH8e2z8KAiR1iaHpaMZsGpnvZBUYbmRyWQ&ved=2ahUKEwjf-YP46eSWAxVJJLkGHao7N6cQ8tMDegQIchAE",
+   "3": "https://www.google.com/search?q=%22Mira+Costa+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=vg-jat-iMMnI5OUPqvfcuQo&start=20&sa=N&sstk=AS6-VmI0x63Exr2FTDaZzSo1LXBNE8vL5C28LCCSSCo3mAr08pmUpeLGHtnKMzq1gtaKyH8e2z8KAiR1iaHpaMZsGpnvZBUYbmRyWQ&ved=2ahUKEwjf-YP46eSWAxVJJLkGHao7N6cQ8tMDegQIchAG",
+   "4": "https://www.google.com/search?q=%22Mira+Costa+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=vg-jat-iMMnI5OUPqvfcuQo&start=30&sa=N&sstk=AS6-VmI0x63Exr2FTDaZzSo1LXBNE8vL5C28LCCSSCo3mAr08pmUpeLGHtnKMzq1gtaKyH8e2z8KAiR1iaHpaMZsGpnvZBUYbmRyWQ&ved=2ahUKEwjf-YP46eSWAxVJJLkGHao7N6cQ8tMDegQIchAI",
+   "5": "https://www.google.com/search?q=%22Mira+Costa+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=vg-jat-iMMnI5OUPqvfcuQo&start=40&sa=N&sstk=AS6-VmI0x63Exr2FTDaZzSo1LXBNE8vL5C28LCCSSCo3mAr08pmUpeLGHtnKMzq1gtaKyH8e2z8KAiR1iaHpaMZsGpnvZBUYbmRyWQ&ved=2ahUKEwjf-YP46eSWAxVJJLkGHao7N6cQ8tMDegQIchAK",
+   "6": "https://www.google.com/search?q=%22Mira+Costa+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=vg-jat-iMMnI5OUPqvfcuQo&start=50&sa=N&sstk=AS6-VmI0x63Exr2FTDaZzSo1LXBNE8vL5C28LCCSSCo3mAr08pmUpeLGHtnKMzq1gtaKyH8e2z8KAiR1iaHpaMZsGpnvZBUYbmRyWQ&ved=2ahUKEwjf-YP46eSWAxVJJLkGHao7N6cQ8tMDegQIchAM",
+   "7": "https://www.google.com/search?q=%22Mira+Costa+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=vg-jat-iMMnI5OUPqvfcuQo&start=60&sa=N&sstk=AS6-VmI0x63Exr2FTDaZzSo1LXBNE8vL5C28LCCSSCo3mAr08pmUpeLGHtnKMzq1gtaKyH8e2z8KAiR1iaHpaMZsGpnvZBUYbmRyWQ&ved=2ahUKEwjf-YP46eSWAxVJJLkGHao7N6cQ8tMDegQIchAO",
+   "8": "https://www.google.com/search?q=%22Mira+Costa+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=vg-jat-iMMnI5OUPqvfcuQo&start=70&sa=N&sstk=AS6-VmI0x63Exr2FTDaZzSo1LXBNE8vL5C28LCCSSCo3mAr08pmUpeLGHtnKMzq1gtaKyH8e2z8KAiR1iaHpaMZsGpnvZBUYbmRyWQ&ved=2ahUKEwjf-YP46eSWAxVJJLkGHao7N6cQ8tMDegQIchAQ",
+   "9": "https://www.google.com/search?q=%22Mira+Costa+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=vg-jat-iMMnI5OUPqvfcuQo&start=80&sa=N&sstk=AS6-VmI0x63Exr2FTDaZzSo1LXBNE8vL5C28LCCSSCo3mAr08pmUpeLGHtnKMzq1gtaKyH8e2z8KAiR1iaHpaMZsGpnvZBUYbmRyWQ&ved=2ahUKEwjf-YP46eSWAxVJJLkGHao7N6cQ8tMDegQIchAS",
+   "10": "https://www.google.com/search?q=%22Mira+Costa+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=vg-jat-iMMnI5OUPqvfcuQo&start=90&sa=N&sstk=AS6-VmI0x63Exr2FTDaZzSo1LXBNE8vL5C28LCCSSCo3mAr08pmUpeLGHtnKMzq1gtaKyH8e2z8KAiR1iaHpaMZsGpnvZBUYbmRyWQ&ved=2ahUKEwjf-YP46eSWAxVJJLkGHao7N6cQ8tMDegQIchAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Mira+Costa+High+School%22&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Mira+Costa+High+School%22&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Mira+Costa+High+School%22&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Mira+Costa+High+School%22&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Mira+Costa+High+School%22&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Mira+Costa+High+School%22&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Mira+Costa+High+School%22&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Mira+Costa+High+School%22&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Mira+Costa+High+School%22&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Mira+Costa+High+School%22&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Mira+Costa+High+School%22&start=90"
+  }
+ }
+}

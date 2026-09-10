@@ -1,0 +1,77 @@
+{
+ "news_results": [
+  {
+   "position": 1,
+   "title": "Holiday Parade at the Beach to return for 30th year at VB Oceanfront",
+   "source": {
+    "name": "WAVY.com",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wavy.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.wavy.com/news/local-news/virginia-beach/holiday-parade-at-the-beach-to-return-for-30th-year-at-vb-oceanfront/",
+   "thumbnail": "https://www.wavy.com/wp-content/uploads/sites/3/2023/11/Parade201.jpg?strip=1",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWFOVWsxUTBSWVdqaERRMkZaVFJDN0F4aTFCU2dLTWdrQmNJQkt0T1JwMXdB",
+   "date": "10/30/2024, 07:00 AM, +0000 UTC",
+   "iso_date": "2024-10-30T07:00:00Z"
+  },
+  {
+   "position": 2,
+   "title": "A look ahead at this weekend\u2019s events | Dec. 2-4",
+   "source": {
+    "name": "WAVY.com",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wavy.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.wavy.com/living-local/a-look-ahead-at-this-weekends-events-dec-2-4/",
+   "thumbnail": "https://www.wavy.com/wp-content/uploads/sites/3/2022/12/Santa.Parade_.jpg?strip=1",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNXbmRDWm1SVVR6Tk5MV1EwVFJEREF4aXBCU2dLTWdZUmdJNUtOUVk",
+   "date": "12/02/2022, 08:00 AM, +0000 UTC",
+   "iso_date": "2022-12-02T08:00:00Z"
+  }
+ ],
+ "menu_links": [
+  {
+   "title": "U.S.",
+   "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+  },
+  {
+   "title": "World",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Your local news",
+   "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+  },
+  {
+   "title": "Business",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Technology",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Entertainment",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Sports",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Science",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Health",
+   "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+  }
+ ]
+}

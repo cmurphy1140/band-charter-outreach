@@ -1,0 +1,585 @@
+{
+ "search_information": {
+  "query_displayed": "\"Brookwood High School\" Georgia",
+  "total_results": 108000,
+  "time_taken_displayed": 0.26,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Brookwood High School",
+  "type": "Public school in Snellville, Georgia",
+  "entity_type": "education, local_nav",
+  "place_id": "ChIJo5SGPLe79YgRDp1uD91W2HI",
+  "website": "http://www.brookwoodhighschool.net/index2.jsp",
+  "colors": "Gold, Maroon",
+  "colors_links": [
+   {
+    "text": "Gold",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntPs-w8A6lWDT1M7Q6sdPx6ZR1cIg:1789070491924&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yU7RztYK-Yab4edFiOhB1UYVMdltt-ZMsiXUtQINgv1cvtmuPyJY8StWSXVViWe2wKgG7MUlSLlRBnuQuUr7dGctnFqN_72afarFzhLQDKOqNjYGpQf7hqQ-5rtu_l5HbY9w0Ru7I1pMKjInx7AcLWfNWMGAxs_KkPgpC1i8u-ypIdCJMSkEqVy8ULxeHi0Kyu2MJvU%3D&sa=X&ved=2ahUKEwjNr5j55uSWAxWySzABHah0GwkQmxN6BAhJEAI"
+   },
+   {
+    "text": "Maroon",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntPs-w8A6lWDT1M7Q6sdPx6ZR1cIg:1789070491924&q=&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0SKQAuldQPVfZyFCJzu976q4Py9o24_k-bhqTWyLiaKgQYD7ZplBdJX0gaww5-j7g_JPCwglNypTOjjoV7Hy0WVzbhBgUtdw_Czcjxj3EtuVIOqEKAI_PGSotpEVtXH-vUV_txnIosa9zbA5xXgwZUJZCa1Jh5Y9ilChiZRdxFS8Pn7vD4yPZpWac_-ywxPPiEKkZJWb5T_Ir3UFFHORxCv647fl&sa=X&ved=2ahUKEwjNr5j55uSWAxWySzABHah0GwkQmxN6BAhJEAM"
+   }
+  ],
+  "founded": "1981",
+  "school_types": "Secondary school, High school, State school",
+  "school_types_links": [
+   {
+    "text": "Secondary school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntPs-w8A6lWDT1M7Q6sdPx6ZR1cIg:1789070491924&q=Secondary+school&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67-Rsa99rK7fwEET42kD4ZCjk-kwuBlXLYvTk1E00Fqrhwi85KZ1INmxqGZOr3jlJDcUD6ud1MLv8IJ0e6fEDPQWMqzMljtx1MKREnqXNq73irjRVGT0Vlj-ksNesptzvBO1F9ZbZTx9Q22fdCQHh0M5fL3sOXtlfQTMuPtpmmlbVLgG5o3Xo6-xCPoTet5L1O1zs4JnkNpbFOJ0D0LPEnE6cFlKQWPKlEV5Ugc2Qt5Q7WbqKEhXLRwMlodvC62yTkTZlmQI%3D&sa=X&ved=2ahUKEwjNr5j55uSWAxWySzABHah0GwkQmxN6BAhBEAI"
+   },
+   {
+    "text": "High school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntPs-w8A6lWDT1M7Q6sdPx6ZR1cIg:1789070491924&q=High+school&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMppXfNh-OkLk_azmU0uk1AX8WDg6Aey6nZnfzhISz_BahG86fIXhZzQ_5i9gVo2jpkRefi2vb1cuIcbbWsQX1bg-7OrENYaerTHY7HdnuvRnh6UvZHol_a6O8TbgEprfPHDfFatiB5wsgU52GE3pvPoEY4KOdSLotTnlhaPcpHwJAcrx-XFFG9x8cLATgisUCgUEa_5e50s-09C--WMfUMbPD2DYV9uatQyAeUTgDPMF5XTHrgzFN0d-x7Tdi9ItPs-ia-Wo%3D&sa=X&ved=2ahUKEwjNr5j55uSWAxWySzABHah0GwkQmxN6BAhBEAM"
+   },
+   {
+    "text": "State school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntPs-w8A6lWDT1M7Q6sdPx6ZR1cIg:1789070491924&q=State+school&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ybGtCxI0H8z2nV80srIO5hh43iJrpLL9zyTRHToodwNipZCD4kcN2wbzA3OqfyGettl42NpXglwsH4hnJQRSg4KBrFTowpZphOt0qedRcJ2ATAfYW6FN_-ItQd4bzM0QDKi1EyvXR-4rxOAt419hb6T9-FXRDE4u0DJT_WJ4Jt0_lv5mi2GMflnqisnnZH3EZDGOWWmmdvSUTWZvkntT2rv1tLX0Jsm7osc3WXpzrTyv7eT-Ugjn1a21vQU1fC8-6YKaxuk%3D&sa=X&ved=2ahUKEwjNr5j55uSWAxWySzABHah0GwkQmxN6BAhBEAQ"
+   }
+  ],
+  "district": "Gwinnett County Public Schools",
+  "district_links": [
+   {
+    "text": "Gwinnett County Public Schools",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntPs-w8A6lWDT1M7Q6sdPx6ZR1cIg:1789070491924&q=Gwinnett+County+Public+Schools&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yVJapoLdOT49YoMnmFLtqnzoDnr7nVu5FYdzhsFuiya7u2zjK68DRfYOL72HbnPb_nr-pxmJsR-rtDVIc23eOBqllUXmFY4HSA2xbzD8xlGCKSzKxe4pmrl8lKAQOzsFnAPPlJ0mFqQUGGAg3RHbBx_-Nn6VmSNl48uTY1dIJU8i6e2f9A%3D%3D&sa=X&ved=2ahUKEwjNr5j55uSWAxWySzABHah0GwkQmxN6BAhFEAI"
+   }
+  ],
+  "profiles": [
+   {
+    "name": "YouTube",
+    "link": "https://www.youtube.com/@brookwoodhighschool822",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Brookwood+High+School%22+Georgia",
+    "image": "https://ssl.gstatic.com/kpui/social/youtube_32x32.png"
+   },
+   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/brookwoodlib/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Brookwood+High+School%22+Georgia",
+    "image": "https://ssl.gstatic.com/kpui/social/instagram_32x32.png"
+   },
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/buster.connects/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Brookwood+High+School%22+Georgia",
+    "image": "https://ssl.gstatic.com/kpui/social/fb_32x32.png"
+   },
+   {
+    "name": "X (Twitter)",
+    "link": "https://twitter.com/BusterConnects",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Brookwood+High+School%22+Georgia",
+    "image": "https://ssl.gstatic.com/kpui/social/x_32x32.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "What is Brookwood High School ranked in Georgia?",
+   "type": "ai_overview",
+   "page_token": "y6x2lHicHdBRcqIwAIDh2cv0sZINdqszTmegIZY10BCSaF52YlDThQDVVJS33qCH6Kl6mu3sAf6H73__bF7a-uvHh_W-P80nk2EYbg9dd2h2t6ZzE326tmZidNNstannd7_uwMPeLNB5E8VHE1He9-KxCBhMgh32UyLtSkka7uQ05k7osrTrnIFWcATUMjpVEnTGTc_czVSOa69iQBlIIQ3sqB9VXoACMZg-V2OaMyEEKauMJejnjnvC63TPGnutGhIUKEE5usTFiEIFaUjHqM1Q4rYiG3hgrmTZbzSo3jRWTsYgo3-5L0UiaT3NObJHEsyeTRshiZ9GUpOQliQwTgUaF5jxYfz2MAX7fovBisCUkMb-JmjGOfZnZJWvYPO6kfffbQgZsHDjPDV89lYlWYRf0qhYZtdcqoLCNNU4BGLkntYXp9aJZ6268GX1tJJJv12L6GZvzgt48__04s_e-Xl_7A7_AN6DiX4",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=y6x2lHicHdBRcqIwAIDh2cv0sZINdqszTmegIZY10BCSaF52YlDThQDVVJS33qCH6Kl6mu3sAf6H73__bF7a-uvHh_W-P80nk2EYbg9dd2h2t6ZzE326tmZidNNstannd7_uwMPeLNB5E8VHE1He9-KxCBhMgh32UyLtSkka7uQ05k7osrTrnIFWcATUMjpVEnTGTc_czVSOa69iQBlIIQ3sqB9VXoACMZg-V2OaMyEEKauMJejnjnvC63TPGnutGhIUKEE5usTFiEIFaUjHqM1Q4rYiG3hgrmTZbzSo3jRWTsYgo3-5L0UiaT3NObJHEsyeTRshiZ9GUpOQliQwTgUaF5jxYfz2MAX7fovBisCUkMb-JmjGOfZnZJWvYPO6kfffbQgZsHDjPDV89lYlWYRf0qhYZtdcqoLCNNU4BGLkntYXp9aJZ6268GX1tJJJv12L6GZvzgt48__04s_e-Xl_7A7_AN6DiX4",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS01HeFVhblpNTVc5MVdGQmthWFZDTTFWNGJIcHhWRFI2Y1ZkcmEzZGlSV2RoVXpoVVNWOXhaMVpQZUUxRE5sWktXV3c0VG01U1lTMDVSWE5DYjJoRWVqTnllbVJaY21kclVIVlJRVnB4TjJaNmEwdzBaV0ZGVnpsRGR4SVdiWGQ1YW1Gdk16Sk9OMHRZZDJKclVIRlBiblJUUVJvaVFVUnpjamxtVW5RNFNVb3lSM2N3Ynpac1ZVbHhaelpCYVZKd1JWQTBjRXRVVVEiLCJmY3YiOiIzIiwiZWkiOiJtd3lqYW8zMk43S1h3YmtQcU9udFNBIiwicWMiOiJDaDFpY205dmEzZHZiMlFnYUdsbmFDQnpZMmh2YjJ3Z1oyVnZjbWRwWVJBQWZiSVlNRDgiLCJxdWVzdGlvbiI6IldoYXQgaXMgQnJvb2t3b29kIEhpZ2ggU2Nob29sIHJhbmtlZCBpbiBHZW9yZ2lhPyIsImxrIjoiR2k5M2FHRjBJR2x6SUdKeWIyOXJkMjl2WkNCb2FXZG9JSE5qYUc5dmJDQnlZVzVyWldRZ2FXNGdaMlZ2Y21kcFlRIiwiYnMiOiJjNDNOTVEtQ01CQ0c0YmplNU56cEpuVVM1QS1RT0tDRGNXRndMbkRTaHFiWGxDYU5fMTVGNDRCSW5PLWU3d1dDOUtKa1FOM2ozak4za2JuQm8yNFZsclZpTnVpbDdhaEJiZkZBN0ZzdDgyd25rdmcyMWNlb3AtbkhwbjBaS0dFOVpKUjBqdXpqRm5pNmwyY2JzWXJqMThrTTFKQU1velVacXJ3T21ucU1aTVBNZUNxMjhSZVpqNXlMRXpvamItVF9qdGlyLVNLVGtlWGlEZyIsImlkIjoiZmNfbXd5amFvMzJON0tYd2JrUHFPbnRTQV81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS01HeFVhblpNTVc5MVdGQmthWFZDTTFWNGJIcHhWRFI2Y1ZkcmEzZGlSV2RoVXpoVVNWOXhaMVpQZUUxRE5sWktXV3c0VG01U1lTMDVSWE5DYjJoRWVqTnllbVJaY21kclVIVlJRVnB4TjJaNmEwdzBaV0ZGVnpsRGR4SVdiWGQ1YW1Gdk16Sk9OMHRZZDJKclVIRlBiblJUUVJvaVFVUnpjamxtVW5RNFNVb3lSM2N3Ynpac1ZVbHhaelpCYVZKd1JWQTBjRXRVVVEiLCJmY3YiOiIzIiwiZWkiOiJtd3lqYW8zMk43S1h3YmtQcU9udFNBIiwicWMiOiJDaDFpY205dmEzZHZiMlFnYUdsbmFDQnpZMmh2YjJ3Z1oyVnZjbWRwWVJBQWZiSVlNRDgiLCJxdWVzdGlvbiI6IldoYXQgaXMgQnJvb2t3b29kIEhpZ2ggU2Nob29sIHJhbmtlZCBpbiBHZW9yZ2lhPyIsImxrIjoiR2k5M2FHRjBJR2x6SUdKeWIyOXJkMjl2WkNCb2FXZG9JSE5qYUc5dmJDQnlZVzVyWldRZ2FXNGdaMlZ2Y21kcFlRIiwiYnMiOiJjNDNOTVEtQ01CQ0c0YmplNU56cEpuVVM1QS1RT0tDRGNXRndMbkRTaHFiWGxDYU5fMTVGNDRCSW5PLWU3d1dDOUtKa1FOM2ozak4za2JuQm8yNFZsclZpTnVpbDdhaEJiZkZBN0ZzdDgyd25rdmcyMWNlb3AtbkhwbjBaS0dFOVpKUjBqdXpqRm5pNmwyY2JzWXJqMThrTTFKQU1velVacXJ3T21ucU1aTVBNZUNxMjhSZVpqNXlMRXpvamItVF9qdGlyLVNLVGtlWGlEZyIsImlkIjoiZmNfbXd5amFvMzJON0tYd2JrUHFPbnRTQV81In0%3D"
+  },
+  {
+   "question": "What happened to Brookwood High School?",
+   "type": "ai_overview",
+   "page_token": "N-GVfnicHdDBboIwAIDh7GU8KgV1YmKWoK3MSEkpVO1lgaLi2kqdVZDb3mVPtaeZ2ek_fsn__aNOZ_n7YitrzXU6GDRN0z_W9VHt-6LWg_z6OIuByJUqciGn49cxeDuIGbzBYH55D0hmDFskDn2Ac7pkDgM8LqRpiGTrolsN8VLNmYtGJOUgc8wpDpGJoHQjVebUaRlx2ohuuKRIjYnjyxIEsNzWFks4xAveYT3Cxbm6JxAke5QBGmJdqBUgukTpcjcqEUYRtDlx_fU6K6tNxsdFlwGh_S7ViPOQVQxMRmIb7CgzB54GFnvSxduK5q5_jTNoo-5oqXv1GFJJCltGNU5gxW3pqctuM-kiOfQoqLydtkRk_u1pBsvTKkhC_Ig3nOKQ2GdNJLmDIWuLTxzGi6TNXdJR7dgItknvIO4zr_d_c_Zx0HZqvurjH5sBgLU",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=N-GVfnicHdDBboIwAIDh7GU8KgV1YmKWoK3MSEkpVO1lgaLi2kqdVZDb3mVPtaeZ2ek_fsn__aNOZ_n7YitrzXU6GDRN0z_W9VHt-6LWg_z6OIuByJUqciGn49cxeDuIGbzBYH55D0hmDFskDn2Ac7pkDgM8LqRpiGTrolsN8VLNmYtGJOUgc8wpDpGJoHQjVebUaRlx2ohuuKRIjYnjyxIEsNzWFks4xAveYT3Cxbm6JxAke5QBGmJdqBUgukTpcjcqEUYRtDlx_fU6K6tNxsdFlwGh_S7ViPOQVQxMRmIb7CgzB54GFnvSxduK5q5_jTNoo-5oqXv1GFJJCltGNU5gxW3pqctuM-kiOfQoqLydtkRk_u1pBsvTKkhC_Ig3nOKQ2GdNJLmDIWuLTxzGi6TNXdJR7dgItknvIO4zr_d_c_Zx0HZqvurjH5sBgLU",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS01HeFVhblpNTVc5MVdGQmthWFZDTTFWNGJIcHhWRFI2Y1ZkcmEzZGlSV2RoVXpoVVNWOXhaMVpQZUUxRE5sWktXV3c0VG01U1lTMDVSWE5DYjJoRWVqTnllbVJaY21kclVIVlJRVnB4TjJaNmEwdzBaV0ZGVnpsRGR4SVdiWGQ1YW1Gdk16Sk9OMHRZZDJKclVIRlBiblJUUVJvaVFVUnpjamxtVW5RNFNVb3lSM2N3Ynpac1ZVbHhaelpCYVZKd1JWQTBjRXRVVVEiLCJmY3YiOiIzIiwiZWkiOiJtd3lqYW8zMk43S1h3YmtQcU9udFNBIiwicWMiOiJDaDFpY205dmEzZHZiMlFnYUdsbmFDQnpZMmh2YjJ3Z1oyVnZjbWRwWVJBQWZiSVlNRDgiLCJxdWVzdGlvbiI6IldoYXQgaGFwcGVuZWQgdG8gQnJvb2t3b29kIEhpZ2ggU2Nob29sPyIsImxrIjoiR2laM2FHRjBJR2hoY0hCbGJtVmtJSFJ2SUdKeWIyOXJkMjl2WkNCb2FXZG9JSE5qYUc5dmJBIiwiYnMiOiJjNDNOTVEtQ01CQ0c0YmplNU56cEpuVVM1QS1RT0tDRGNXRndMbkRTaHFiWGxDYU5fMTVGNDRCSW5PLWU3d1dDOUtKa1FOM2ozak4za2JuQm8yNFZsclZpTnVpbDdhaEJiZkZBN0ZzdDgyd25rdmcyMWNlb3AtbkhwbjBaS0dFOVpKUjBqdXpqRm5pNmwyY2JzWXJqMThrTTFKQU1velVacXJ3T21ucU1aTVBNZUNxMjhSZVpqNXlMRXpvamItVF9qdGlyLVNLVGtlWGlEZyIsImlkIjoiZmNfbXd5amFvMzJON0tYd2JrUHFPbnRTQV81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS01HeFVhblpNTVc5MVdGQmthWFZDTTFWNGJIcHhWRFI2Y1ZkcmEzZGlSV2RoVXpoVVNWOXhaMVpQZUUxRE5sWktXV3c0VG01U1lTMDVSWE5DYjJoRWVqTnllbVJaY21kclVIVlJRVnB4TjJaNmEwdzBaV0ZGVnpsRGR4SVdiWGQ1YW1Gdk16Sk9OMHRZZDJKclVIRlBiblJUUVJvaVFVUnpjamxtVW5RNFNVb3lSM2N3Ynpac1ZVbHhaelpCYVZKd1JWQTBjRXRVVVEiLCJmY3YiOiIzIiwiZWkiOiJtd3lqYW8zMk43S1h3YmtQcU9udFNBIiwicWMiOiJDaDFpY205dmEzZHZiMlFnYUdsbmFDQnpZMmh2YjJ3Z1oyVnZjbWRwWVJBQWZiSVlNRDgiLCJxdWVzdGlvbiI6IldoYXQgaGFwcGVuZWQgdG8gQnJvb2t3b29kIEhpZ2ggU2Nob29sPyIsImxrIjoiR2laM2FHRjBJR2hoY0hCbGJtVmtJSFJ2SUdKeWIyOXJkMjl2WkNCb2FXZG9JSE5qYUc5dmJBIiwiYnMiOiJjNDNOTVEtQ01CQ0c0YmplNU56cEpuVVM1QS1RT0tDRGNXRndMbkRTaHFiWGxDYU5fMTVGNDRCSW5PLWU3d1dDOUtKa1FOM2ozak4za2JuQm8yNFZsclZpTnVpbDdhaEJiZkZBN0ZzdDgyd25rdmcyMWNlb3AtbkhwbjBaS0dFOVpKUjBqdXpqRm5pNmwyY2JzWXJqMThrTTFKQU1velVacXJ3T21ucU1aTVBNZUNxMjhSZVpqNXlMRXpvamItVF9qdGlyLVNLVGtlWGlEZyIsImlkIjoiZmNfbXd5amFvMzJON0tYd2JrUHFPbnRTQV81In0%3D"
+  },
+  {
+   "question": "What celebrities went to Brookwood High School?",
+   "type": "ai_overview",
+   "page_token": "PLqLhXicHZBNcpswGECnl8kyRuCmxTOeTgmSCSlkEEgK2nRAMijWx08xMTW73qCH6Kl6mnq6ecs3896vP_DW278ffpt5Hs-7zWZZlvt2GFo43quh21Tna682qgKoK2V3D58e0JdG7fGlDB4nFWRsHHlInSKEKlsNyRGNxSPCtbWuOMRrgSXJ3dZlBLZHwEt-wq4kci0sHzRpF83hVTlmriwYhv2DOH11EjdDkgSu7ONnGqZdCWn0jc1Ir4TV4uZhHAvmxwygFzCO-mC6hBkhe34uhM4F01MFmmVgbhynyqO8REEsQ8p1yHuG7E-F4TWBclUOespByhx8zNl5PUapZafgY2Fpo4h5SSIy1SS-HtmTk7nOnKL4go2ctQc_SvF5TezWy5Hxym7OFPPfNUmDw1sc0Ci9vghJazy43MkcEcrnnKitiMYrjaCpWLvl_a3V8YO7Rl323t3_0_vvTTfvxmlo_wGDkouh",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=PLqLhXicHZBNcpswGECnl8kyRuCmxTOeTgmSCSlkEEgK2nRAMijWx08xMTW73qCH6Kl6mnq6ecs3896vP_DW278ffpt5Hs-7zWZZlvt2GFo43quh21Tna682qgKoK2V3D58e0JdG7fGlDB4nFWRsHHlInSKEKlsNyRGNxSPCtbWuOMRrgSXJ3dZlBLZHwEt-wq4kci0sHzRpF83hVTlmriwYhv2DOH11EjdDkgSu7ONnGqZdCWn0jc1Ir4TV4uZhHAvmxwygFzCO-mC6hBkhe34uhM4F01MFmmVgbhynyqO8REEsQ8p1yHuG7E-F4TWBclUOespByhx8zNl5PUapZafgY2Fpo4h5SSIy1SS-HtmTk7nOnKL4go2ctQc_SvF5TezWy5Hxym7OFPPfNUmDw1sc0Ci9vghJazy43MkcEcrnnKitiMYrjaCpWLvl_a3V8YO7Rl323t3_0_vvTTfvxmlo_wGDkouh",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS01HeFVhblpNTVc5MVdGQmthWFZDTTFWNGJIcHhWRFI2Y1ZkcmEzZGlSV2RoVXpoVVNWOXhaMVpQZUUxRE5sWktXV3c0VG01U1lTMDVSWE5DYjJoRWVqTnllbVJaY21kclVIVlJRVnB4TjJaNmEwdzBaV0ZGVnpsRGR4SVdiWGQ1YW1Gdk16Sk9OMHRZZDJKclVIRlBiblJUUVJvaVFVUnpjamxtVW5RNFNVb3lSM2N3Ynpac1ZVbHhaelpCYVZKd1JWQTBjRXRVVVEiLCJmY3YiOiIzIiwiZWkiOiJtd3lqYW8zMk43S1h3YmtQcU9udFNBIiwicWMiOiJDaDFpY205dmEzZHZiMlFnYUdsbmFDQnpZMmh2YjJ3Z1oyVnZjbWRwWVJBQWZiSVlNRDgiLCJxdWVzdGlvbiI6IldoYXQgY2VsZWJyaXRpZXMgd2VudCB0byBCcm9va3dvb2QgSGlnaCBTY2hvb2w/IiwibGsiOiJHaTUzYUdGMElHTmxiR1ZpY21sMGFXVnpJSGRsYm5RZ2RHOGdZbkp2YjJ0M2IyOWtJR2hwWjJnZ2MyTm9iMjlzIiwiYnMiOiJjNDNOTVEtQ01CQ0c0YmplNU56cEpuVVM1QS1RT0tDRGNXRndMbkRTaHFiWGxDYU5fMTVGNDRCSW5PLWU3d1dDOUtKa1FOM2ozak4za2JuQm8yNFZsclZpTnVpbDdhaEJiZkZBN0ZzdDgyd25rdmcyMWNlb3AtbkhwbjBaS0dFOVpKUjBqdXpqRm5pNmwyY2JzWXJqMThrTTFKQU1velVacXJ3T21ucU1aTVBNZUNxMjhSZVpqNXlMRXpvamItVF9qdGlyLVNLVGtlWGlEZyIsImlkIjoiZmNfbXd5amFvMzJON0tYd2JrUHFPbnRTQV81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS01HeFVhblpNTVc5MVdGQmthWFZDTTFWNGJIcHhWRFI2Y1ZkcmEzZGlSV2RoVXpoVVNWOXhaMVpQZUUxRE5sWktXV3c0VG01U1lTMDVSWE5DYjJoRWVqTnllbVJaY21kclVIVlJRVnB4TjJaNmEwdzBaV0ZGVnpsRGR4SVdiWGQ1YW1Gdk16Sk9OMHRZZDJKclVIRlBiblJUUVJvaVFVUnpjamxtVW5RNFNVb3lSM2N3Ynpac1ZVbHhaelpCYVZKd1JWQTBjRXRVVVEiLCJmY3YiOiIzIiwiZWkiOiJtd3lqYW8zMk43S1h3YmtQcU9udFNBIiwicWMiOiJDaDFpY205dmEzZHZiMlFnYUdsbmFDQnpZMmh2YjJ3Z1oyVnZjbWRwWVJBQWZiSVlNRDgiLCJxdWVzdGlvbiI6IldoYXQgY2VsZWJyaXRpZXMgd2VudCB0byBCcm9va3dvb2QgSGlnaCBTY2hvb2w%2FIiwibGsiOiJHaTUzYUdGMElHTmxiR1ZpY21sMGFXVnpJSGRsYm5RZ2RHOGdZbkp2YjJ0M2IyOWtJR2hwWjJnZ2MyTm9iMjlzIiwiYnMiOiJjNDNOTVEtQ01CQ0c0YmplNU56cEpuVVM1QS1RT0tDRGNXRndMbkRTaHFiWGxDYU5fMTVGNDRCSW5PLWU3d1dDOUtKa1FOM2ozak4za2JuQm8yNFZsclZpTnVpbDdhaEJiZkZBN0ZzdDgyd25rdmcyMWNlb3AtbkhwbjBaS0dFOVpKUjBqdXpqRm5pNmwyY2JzWXJqMThrTTFKQU1velVacXJ3T21ucU1aTVBNZUNxMjhSZVpqNXlMRXpvamItVF9qdGlyLVNLVGtlWGlEZyIsImlkIjoiZmNfbXd5amFvMzJON0tYd2JrUHFPbnRTQV81In0%3D"
+  },
+  {
+   "question": "What NFL players went to Brookwood High School?",
+   "type": "ai_overview",
+   "page_token": "bsj69HicHdBdbpswAABg7TJ9bGzcdFukaFrCT-INZxhsg18mYzehtQE3sCTwthv0ED3VTrNpJ_ik7_e7e-7snw9vzTj6YbVYXK_X-1Pfn9zTve7bhRqmTi-0cq5W2q4ePz7CL0e9ji7VZnvWm4x5z0MK8haK3KVIRykykR_SsGk4anDWNolIbrku3DdlZUa7OE1L8npg7FZBbLU1--qlWuZbSPlsbA18p4tYGSu9DHlPYyxURAmPHa-3YH5yvPgu9LJE_qGIm4CgTS-FeckRDnKLoWkJYQkIRBJTLkzBAqjEbh_Q4AQUlwO1FpTgNhe7fw5qFClpV4dEZZ0XWkiqoz08xF9HNsHSMLfn3AySLc_MRlMVDBNtAYgaORrkXivxaU7tA8phg6p2zDT7_MvEZJM84w3dkekgZM6A83zGvg5dxgKCa0FukmNicvijtsuL6DC9O-rLGt39n17_PLbjyp_701_QI4ty",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=bsj69HicHdBdbpswAABg7TJ9bGzcdFukaFrCT-INZxhsg18mYzehtQE3sCTwthv0ED3VTrNpJ_ik7_e7e-7snw9vzTj6YbVYXK_X-1Pfn9zTve7bhRqmTi-0cq5W2q4ePz7CL0e9ji7VZnvWm4x5z0MK8haK3KVIRykykR_SsGk4anDWNolIbrku3DdlZUa7OE1L8npg7FZBbLU1--qlWuZbSPlsbA18p4tYGSu9DHlPYyxURAmPHa-3YH5yvPgu9LJE_qGIm4CgTS-FeckRDnKLoWkJYQkIRBJTLkzBAqjEbh_Q4AQUlwO1FpTgNhe7fw5qFClpV4dEZZ0XWkiqoz08xF9HNsHSMLfn3AySLc_MRlMVDBNtAYgaORrkXivxaU7tA8phg6p2zDT7_MvEZJM84w3dkekgZM6A83zGvg5dxgKCa0FukmNicvijtsuL6DC9O-rLGt39n17_PLbjyp_701_QI4ty",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS01HeFVhblpNTVc5MVdGQmthWFZDTTFWNGJIcHhWRFI2Y1ZkcmEzZGlSV2RoVXpoVVNWOXhaMVpQZUUxRE5sWktXV3c0VG01U1lTMDVSWE5DYjJoRWVqTnllbVJaY21kclVIVlJRVnB4TjJaNmEwdzBaV0ZGVnpsRGR4SVdiWGQ1YW1Gdk16Sk9OMHRZZDJKclVIRlBiblJUUVJvaVFVUnpjamxtVW5RNFNVb3lSM2N3Ynpac1ZVbHhaelpCYVZKd1JWQTBjRXRVVVEiLCJmY3YiOiIzIiwiZWkiOiJtd3lqYW8zMk43S1h3YmtQcU9udFNBIiwicWMiOiJDaDFpY205dmEzZHZiMlFnYUdsbmFDQnpZMmh2YjJ3Z1oyVnZjbWRwWVJBQWZiSVlNRDgiLCJxdWVzdGlvbiI6IldoYXQgTkZMIHBsYXllcnMgd2VudCB0byBCcm9va3dvb2QgSGlnaCBTY2hvb2w/IiwibGsiOiJHaTUzYUdGMElHNW1iQ0J3YkdGNVpYSnpJSGRsYm5RZ2RHOGdZbkp2YjJ0M2IyOWtJR2hwWjJnZ2MyTm9iMjlzIiwiYnMiOiJjNDNOTVEtQ01CQ0c0YmplNU56cEpuVVM1QS1RT0tDRGNXRndMbkRTaHFiWGxDYU5fMTVGNDRCSW5PLWU3d1dDOUtKa1FOM2ozak4za2JuQm8yNFZsclZpTnVpbDdhaEJiZkZBN0ZzdDgyd25rdmcyMWNlb3AtbkhwbjBaS0dFOVpKUjBqdXpqRm5pNmwyY2JzWXJqMThrTTFKQU1velVacXJ3T21ucU1aTVBNZUNxMjhSZVpqNXlMRXpvamItVF9qdGlyLVNLVGtlWGlEZyIsImlkIjoiZmNfbXd5amFvMzJON0tYd2JrUHFPbnRTQV81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS01HeFVhblpNTVc5MVdGQmthWFZDTTFWNGJIcHhWRFI2Y1ZkcmEzZGlSV2RoVXpoVVNWOXhaMVpQZUUxRE5sWktXV3c0VG01U1lTMDVSWE5DYjJoRWVqTnllbVJaY21kclVIVlJRVnB4TjJaNmEwdzBaV0ZGVnpsRGR4SVdiWGQ1YW1Gdk16Sk9OMHRZZDJKclVIRlBiblJUUVJvaVFVUnpjamxtVW5RNFNVb3lSM2N3Ynpac1ZVbHhaelpCYVZKd1JWQTBjRXRVVVEiLCJmY3YiOiIzIiwiZWkiOiJtd3lqYW8zMk43S1h3YmtQcU9udFNBIiwicWMiOiJDaDFpY205dmEzZHZiMlFnYUdsbmFDQnpZMmh2YjJ3Z1oyVnZjbWRwWVJBQWZiSVlNRDgiLCJxdWVzdGlvbiI6IldoYXQgTkZMIHBsYXllcnMgd2VudCB0byBCcm9va3dvb2QgSGlnaCBTY2hvb2w%2FIiwibGsiOiJHaTUzYUdGMElHNW1iQ0J3YkdGNVpYSnpJSGRsYm5RZ2RHOGdZbkp2YjJ0M2IyOWtJR2hwWjJnZ2MyTm9iMjlzIiwiYnMiOiJjNDNOTVEtQ01CQ0c0YmplNU56cEpuVVM1QS1RT0tDRGNXRndMbkRTaHFiWGxDYU5fMTVGNDRCSW5PLWU3d1dDOUtKa1FOM2ozak4za2JuQm8yNFZsclZpTnVpbDdhaEJiZkZBN0ZzdDgyd25rdmcyMWNlb3AtbkhwbjBaS0dFOVpKUjBqdXpqRm5pNmwyY2JzWXJqMThrTTFKQU1velVacXJ3T21ucU1aTVBNZUNxMjhSZVpqNXlMRXpvamItVF9qdGlyLVNLVGtlWGlEZyIsImlkIjoiZmNfbXd5amFvMzJON0tYd2JrUHFPbnRTQV81In0%3D"
+  }
+ ],
+ "ai_overview": {
+  "text_blocks": [
+   {
+    "type": "paragraph",
+    "snippet": "You can visit the Brookwood High School Official Website for direct access to school resources, schedules, and announcements.",
+    "snippet_highlighted_words": [
+     "Brookwood High School Official Website"
+    ]
+   },
+   {
+    "type": "heading",
+    "snippet": "School Overview"
+   },
+   {
+    "type": "list",
+    "list": [
+     {
+      "snippet": "Location: 1255 Dogwood Road, Snellville, GA 30078"
+     },
+     {
+      "snippet": "District: Gwinnett County Public Schools"
+     },
+     {
+      "snippet": "Grades: 9 through 12"
+     },
+     {
+      "snippet": "Mascot: Bronco (Buster the Bronco)"
+     },
+     {
+      "snippet": "Phone: (770) 972-7642"
+     }
+    ]
+   },
+   {
+    "type": "heading",
+    "snippet": "Academics & Student Life"
+   },
+   {
+    "type": "list",
+    "list": [
+     {
+      "snippet": "Enrollment: Around 3,800 students."
+     },
+     {
+      "snippet": "Advanced Placement (AP): Offers extensive AP coursework with high student participation."
+     },
+     {
+      "snippet": "Extracurriculars: Strong athletic legacy with frequent top finishes in the Georgia Athletic Directors Association (GADA) Directors Cup, alongside award-winning fine arts, broadcasting, and journalism programs."
+     }
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "If you're looking for specific information, let me know if you need:"
+   },
+   {
+    "type": "list",
+    "list": [
+     {
+      "snippet": "Contact details for a specific department or coach"
+     },
+     {
+      "snippet": "Bell schedules or academic calendars"
+     },
+     {
+      "snippet": "Athletic event schedules"
+     }
+    ]
+   }
+  ],
+  "references": [
+   {
+    "link": "https://brookwoodhs.gcpsk12.org/",
+    "source": "brookwoodhs.gcpsk12.org",
+    "index": 0
+   },
+   {
+    "link": "https://www.donorschoose.org/schools/georgia/gwinnett-county-public-schools/brookwood-high-school/49006",
+    "source": "donorschoose.org",
+    "index": 1
+   },
+   {
+    "link": "https://www.facebook.com/BusterConnectsBHS/",
+    "source": "facebook.com",
+    "index": 2
+   },
+   {
+    "link": "https://www.maxpreps.com/ga/snellville/brookwood-broncos/football/",
+    "source": "maxpreps.com",
+    "index": 3
+   },
+   {
+    "link": "https://brookwoodhs.gcpsk12.org/athletics/athletics-general-info",
+    "source": "brookwoodhs.gcpsk12.org",
+    "index": 4
+   },
+   {
+    "link": "https://www.usnews.com/education/best-high-schools/georgia/districts/gwinnett-county-school-district/brookwood-high-school-5948",
+    "source": "usnews.com",
+    "index": 5
+   },
+   {
+    "link": "https://www.niche.com/k12/brookwood-high-school-snellville-ga/",
+    "source": "niche.com",
+    "index": 6
+   },
+   {
+    "link": "https://brookwoodhs.gcpsk12.org/general-info/about-brookwood",
+    "source": "brookwoodhs.gcpsk12.org",
+    "index": 7
+   },
+   {
+    "title": "Brookwood High School: Home",
+    "link": "https://brookwoodhs.gcpsk12.org/",
+    "snippet": "Logo Title. Brookwood High School. 1255 Dogwood Road. Snellville. GA. 30078. (770) 972-7642 Phone number. (770) 978-5075. Facebook \u00b7 Instagram \u00b7 Twitter \u00b7 Brook...",
+    "source": "Brookwood High School",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrUitIi48Cl-308EgmH_9sh7eaK3eT7IfZsrvAkbljmKYbkULAmHiWwUw7O3f3q5hhfg18PdLXzA2EBKXKVHuLAGh4yA7I9wcKTSvwrBk",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://brookwoodhs.gcpsk12.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 8
+   },
+   {
+    "title": "Brookwood High School - Georgia - DonorsChoose",
+    "link": "https://www.donorschoose.org/schools/georgia/gwinnett-county-public-schools/brookwood-high-school/49006",
+    "snippet": "Brookwood High School is a suburban public school in Snellville, Georgia that is part of Gwinnett County Public Schools. It serves 3,802 students in grades 9 -",
+    "source": "DonorsChoose",
+    "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.donorschoose.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 9
+   },
+   {
+    "title": "Buster Connects - Brookwood HS (@BusterConnectsBHS)",
+    "link": "https://www.facebook.com/BusterConnectsBHS/",
+    "snippet": "Buster Connects - Brookwood HS (@BusterConnectsBHS) \u2022 Facebook Buster Connects - Brookwood HS The official page for Brookwood High School in Snellville, GA, and...",
+    "source": "Facebook",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVX8V1Bj-7k7yMSGZQkJDdnPXJ4Wvk_85h0HwaqWbI8lfbjGyWdZ2VBubOKcXxBIOH_8GSkjIOH9ZrvLWouxYZyYAeNxo8pdJQOu6uISI",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 10
+   },
+   {
+    "title": "Brookwood High School (Snellville, GA) Football - MaxPreps",
+    "link": "https://www.maxpreps.com/ga/snellville/brookwood-broncos/football/",
+    "snippet": "Game Results. Thursday, Aug 13, 2026. On Thursday, Aug 13, 2026, the Brookwood Varsity Boys Football team won their Mercedes Benz Stadium game against Cambridge...",
+    "source": "MaxPreps",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6d5qypt-mOHxUXKdDTnfYF1xquegxwjRwYCVm3S51XZjnXhSOo95lHZtF9tWgnc9pUMTbIjzHvne80FTzgsnbtme5EA",
+    "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.maxpreps.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 11
+   },
+   {
+    "title": "Athletics - Brookwood High School",
+    "link": "https://brookwoodhs.gcpsk12.org/athletics/athletics-general-info",
+    "snippet": "Brookwood Athletics: Our Mission Every year, Brookwood High School has remained in the top 10 of the Georgia Athletic Directors Association's Directors Cup's",
+    "source": "Brookwood High School",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTisvUngwgnI2aNagA9jilROdUyTvh-K7rHYguplZfkAvKIxvIVSXyRdv8NH-waKpM_FCnEsRZfMzifVhLImsm_MF74hRDXJxkhSJMYtT4",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://brookwoodhs.gcpsk12.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 12
+   },
+   {
+    "title": "Brookwood High School in Snellville, GA - US News",
+    "link": "https://www.usnews.com/education/best-high-schools/georgia/districts/gwinnett-county-school-district/brookwood-high-school-5948",
+    "snippet": "Overview of Brookwood High School. Brookwood High School is ranked 33rd within Georgia. Students have the opportunity to take Advanced Placement\u00ae coursework and...",
+    "source": "U.S. News & World Report",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.usnews.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 13
+   },
+   {
+    "title": "Brookwood High School in GA - Niche",
+    "link": "https://www.niche.com/k12/brookwood-high-school-snellville-ga/",
+    "snippet": "Brookwood High School is a top rated, public school located in SNELLVILLE, GA. It has 3,803 students in grades 9-12 with a student-teacher ratio of 18 to 1. Acc...",
+    "source": "Niche",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSqgD6NzG_-v7n4kna7v_Oy6irSqjQZrrXK-M9EKtCImm_7cKy-oBesAjNGa_ZmkHh3JMQwR2SB0sEtBklQH3vRDOYP3z8dZALRBOXHsY8",
+    "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.niche.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 14
+   },
+   {
+    "title": "About Brookwood",
+    "link": "https://brookwoodhs.gcpsk12.org/general-info/about-brookwood",
+    "snippet": "More than thirty years later, Brookwood has attained both of those goals. The Brookwood community is a strong and vital one, made up of citizens who value educa...",
+    "source": "Brookwood High School",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbPYnv0JgSSAQTbK6F_zmm1mgVuZZsnYEZQn40QQ4_4kD6zW7UEQ3YtjNMC7WaHwEFzNWLAHQRd5NF4CW7FQPSnT_HuY1oo-8yUfvN5QI",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://brookwoodhs.gcpsk12.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 15
+   }
+  ]
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Brookwood High School: Home",
+   "link": "https://brookwoodhs.gcpsk12.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWAHrOzAVQW6HVy93lRmXQGA0DgxTU66ZPjRWRKb3VOA9HrbRrVw2F3Os9Ydstxg69p0CLnOlTNFoRNHpie1zfagaKytEA671WuvpPVJb6Tc4jAzc89hTjxI&ved=2ahUKEwjNr5j55uSWAxWySzABHah0GwkQFnoECCwQAQ&uoh=1",
+   "displayed_link": "https://brookwoodhs.gcpsk12.org",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAAA0AAAAcCAMAAACNv8VwAAAAyVBMVEVHcEzIyMd1cnMjIiKdO1GtXG02NjbUtb26ipQKCgpuampoaGiqWGlcXFy2dIJIRkdjY2NISEgjIyNra2udP1OYLkegQVVCQUEUFBQsLCxraWm1lJtoZ2cREBBHRkanU2WcNk2wZXSjSl2nU2W4cICZlpekSFwrKyuvcX5BQUFhX18xMTEAAACOjY0AI0GVLEQAAAAjIyOVJ0FfYGCZMUkGDAszNDRxcnKOaXATExNRU1M-Pj6cOE6dPVJISEiCgoJ3d3eTJUCYYWyNoNkrAAAALnRSTlMABDrN7FxTETTHCf2bbSeY9d7d_NvSqMDwrF0hjpag7cw8N9M9TIT60syd5ZfjzSgBowAAANBJREFUGJVlj9eSgzAMRRUg1PTey256GdmxgQDp__9RwQFMZnKfdHw0kgXwmxKff9ECO_BnpmBoWIROKwHzirOheEiBG-22kSgNkUMRph9X4YiolVqni7CFCybhFSFXeBJ5_qe7X-c4m09tb12P-X7oWkpM60CP7vTuHdUgHtPdD4hDH-TQb9iid0iY9yC77Js0jHyiZyf0bjefLDOqR2HTtTMae8zpyWNHlLGGJJ069a4kM6hZE0kFWrPkAgC1qSo59ZXqIO8MCCnnrmxV4TdvMuAXkXO4psIAAAAASUVORK5CYII.png",
+   "snippet": "Home - Brookwood High School. ... Logo Title. Brookwood High School. 1255 Dogwood Road. Snellville. GA. 30078. (770) ...",
+   "snippet_highlighted_words": [
+    "Brookwood High School",
+    "Brookwood High School",
+    "GA"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "Athletics",
+      "link": "https://brookwoodhs.gcpsk12.org/athletics/athletics-general-info",
+      "snippet": "Brookwood Athletics: Our Mission. Every year, Brookwood High ..."
+     },
+     {
+      "title": "Directory",
+      "link": "https://brookwoodhs.gcpsk12.org/directory",
+      "snippet": "Directory - Brookwood High School. ... Logo Title ..."
+     },
+     {
+      "title": "Calendar",
+      "link": "https://brookwoodhs.gcpsk12.org/calendar",
+      "snippet": "11:00 AM. Away - Georgia International Horse Park ..."
+     },
+     {
+      "title": "General Information",
+      "link": "https://brookwoodhs.gcpsk12.org/general-info/about-brookwood",
+      "snippet": "The Brookwood athletic program has set the standard for ..."
+     },
+     {
+      "title": "School Information",
+      "link": "https://brookwoodhs.gcpsk12.org/school-information",
+      "snippet": "School Information - Brookwood High School. ... Logo Title ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Home - Brookwood High School. ... Logo Title. Brookwood High School. 1255 Dogwood Road. Snellville. GA. 30078. (770) ...",
+     "source_info_link": "https://brookwoodhs.gcpsk12.org/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAAA0AAAAcCAMAAACNv8VwAAAAyVBMVEVHcEzIyMd1cnMjIiKdO1GtXG02NjbUtb26ipQKCgpuampoaGiqWGlcXFy2dIJIRkdjY2NISEgjIyNra2udP1OYLkegQVVCQUEUFBQsLCxraWm1lJtoZ2cREBBHRkanU2WcNk2wZXSjSl2nU2W4cICZlpekSFwrKyuvcX5BQUFhX18xMTEAAACOjY0AI0GVLEQAAAAjIyOVJ0FfYGCZMUkGDAszNDRxcnKOaXATExNRU1M-Pj6cOE6dPVJISEiCgoJ3d3eTJUCYYWyNoNkrAAAALnRSTlMABDrN7FxTETTHCf2bbSeY9d7d_NvSqMDwrF0hjpag7cw8N9M9TIT60syd5ZfjzSgBowAAANBJREFUGJVlj9eSgzAMRRUg1PTey256GdmxgQDp__9RwQFMZnKfdHw0kgXwmxKff9ECO_BnpmBoWIROKwHzirOheEiBG-22kSgNkUMRph9X4YiolVqni7CFCybhFSFXeBJ5_qe7X-c4m09tb12P-X7oWkpM60CP7vTuHdUgHtPdD4hDH-TQb9iid0iY9yC77Js0jHyiZyf0bjefLDOqR2HTtTMae8zpyWNHlLGGJJ069a4kM6hZE0kFWrPkAgC1qSo59ZXqIO8MCCnnrmxV4TdvMuAXkXO4psIAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESWAHrOzAVQW6HVy93lRmXQGA0DgxTU66ZPjRWRKb3VOA9HrbRrVw2F3Os9Ydstxg69p0CLnOlTNFoRNHpie1zfagaKytEA671WuvpPVJb6Tc4jAzc89hTjxI&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESWAHrOzAVQW6HVy93lRmXQGA0DgxTU66ZPjRWRKb3VOA9HrbRrVw2F3Os9Ydstxg69p0CLnOlTNFoRNHpie1zfagaKytEA671WuvpPVJb6Tc4jAzc89hTjxI",
+   "source": "Brookwood High School"
+  },
+  {
+   "position": 2,
+   "title": "Brookwood High School (Georgia)",
+   "link": "https://en.wikipedia.org/wiki/Brookwood_High_School_(Georgia)",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAVZQdN9__06lRTvOQuyml5AvAX0dCDP2fFhlUcLLhhiDZpDpXG_gqNXkbp7XUixB5nsDMij32AQLV_VCN7Jh_1SHzorlp7n1gZM8GPyinEyy-6mXfPGwueKkPsjqwsuJfnuC-SwGOCgGoY7UzL0rdJGQ&ved=2ahUKEwjNr5j55uSWAxWySzABHah0GwkQFnoECFkQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Brookwood_High_Sch...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+   "snippet": "Brookwood High School is a public secondary school in Snellville, Georgia, in suburban Atlanta, part of the Gwinnett County School System.",
+   "snippet_highlighted_words": [
+    "Brookwood High School",
+    "Georgia"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Brookwood High School is a public secondary school in Snellville, Georgia, in suburban Atlanta, part of the Gwinnett County School System.",
+     "source_info_link": "https://en.wikipedia.org/wiki/Brookwood_High_School_(Georgia)",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdQHrOzAVZQdN9__06lRTvOQuyml5AvAX0dCDP2fFhlUcLLhhiDZpDpXG_gqNXkbp7XUixB5nsDMij32AQLV_VCN7Jh_1SHzorlp7n1gZM8GPyinEyy-6mXfPGwueKkPsjqwsuJfnuC-SwGOCgGoY7UzL0rdJGQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdQHrOzAVZQdN9__06lRTvOQuyml5AvAX0dCDP2fFhlUcLLhhiDZpDpXG_gqNXkbp7XUixB5nsDMij32AQLV_VCN7Jh_1SHzorlp7n1gZM8GPyinEyy-6mXfPGwueKkPsjqwsuJfnuC-SwGOCgGoY7UzL0rdJGQ",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Brookwood_High_School_(Georgia)#:~:text=Brookwood%20High%20School%20is%20a,the%20Gwinnett%20County%20School%20System."
+  },
+  {
+   "position": 3,
+   "title": "Brookwood High School in Snellville, GA - Georgia",
+   "link": "https://www.usnews.com/education/best-high-schools/georgia/districts/gwinnett-county-school-district/brookwood-high-school-5948",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEStwEB6zswFVwHNqMumov46OsSyRQG7b1kC32ZxQ84bRtZGtL1yf_kVZxvfC3rJtbd2i5nc0ZUc0vGlJSEGk9k1eDmnCEwHzOrYHvvU9lpKnLsgxO2q8irNRiHnF8hooYNQRAXpJLRUcP492CuHKO95U9jaoXFbDEC8hkgq3pbeONYdN-y4ICuvYsujZFsR359a4SV8PP4tir8IJAJ-9LFc_Wrh6g-_vqkFiGIaqi65SfTjrtWOq6ujeM&ved=2ahUKEwjNr5j55uSWAxWySzABHah0GwkQFnoECFoQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a education \u203a georgia \u203a districts",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png",
+   "snippet": "Brookwood High School is ranked 33rd within Georgia. Students have the opportunity to take Advanced Placement\u00ae coursework and exams.",
+   "snippet_highlighted_words": [
+    "Brookwood High School",
+    "Georgia"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Brookwood High School is ranked 33rd within Georgia. Students have the opportunity to take Advanced Placement\u00ae coursework and exams.",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/georgia/districts/gwinnett-county-school-district/brookwood-high-school-5948",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEStwEB6zswFVwHNqMumov46OsSyRQG7b1kC32ZxQ84bRtZGtL1yf_kVZxvfC3rJtbd2i5nc0ZUc0vGlJSEGk9k1eDmnCEwHzOrYHvvU9lpKnLsgxO2q8irNRiHnF8hooYNQRAXpJLRUcP492CuHKO95U9jaoXFbDEC8hkgq3pbeONYdN-y4ICuvYsujZFsR359a4SV8PP4tir8IJAJ-9LFc_Wrh6g-_vqkFiGIaqi65SfTjrtWOq6ujeM&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEStwEB6zswFVwHNqMumov46OsSyRQG7b1kC32ZxQ84bRtZGtL1yf_kVZxvfC3rJtbd2i5nc0ZUc0vGlJSEGk9k1eDmnCEwHzOrYHvvU9lpKnLsgxO2q8irNRiHnF8hooYNQRAXpJLRUcP492CuHKO95U9jaoXFbDEC8hkgq3pbeONYdN-y4ICuvYsujZFsR359a4SV8PP4tir8IJAJ-9LFc_Wrh6g-_vqkFiGIaqi65SfTjrtWOq6ujeM",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/georgia/districts/gwinnett-county-school-district/brookwood-high-school-5948#:~:text=Brookwood%20High%20School%20is%20ranked,Advanced%20Placement%C2%AE%20coursework%20and%20exams."
+  },
+  {
+   "position": 4,
+   "title": "Buster Connects - Brookwood HS (@BusterConnectsBHS)",
+   "link": "https://www.facebook.com/BusterConnectsBHS/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVAVBcpAh15RBIH4aOKAwLf26eRUP_EnueRJ8UjEtSB5iHq0GGFtlmKhJMGromHvZOYn_gYS3fN8KdgNDCe3y7n2QhkGywlaqhYRPlzdwDpJQjdA4HaK6eopidjuoSwA&ved=2ahUKEwjNr5j55uSWAxWySzABHah0GwkQFnoECFsQAQ&uoh=1",
+   "displayed_link": "1.8K+ followers",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "snippet": "The official page for Brookwood High School in Snellville, GA, and our mascot, Buster! The BHS Facebook page, its administrators, and followers are subject ...",
+   "snippet_highlighted_words": [
+    "Brookwood High School",
+    "GA"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The official page for Brookwood High School in Snellville, GA, and our mascot, Buster! The BHS Facebook page, its administrators, and followers are subject ...",
+     "source_info_link": "https://www.facebook.com/BusterConnectsBHS/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYwHrOzAVAVBcpAh15RBIH4aOKAwLf26eRUP_EnueRJ8UjEtSB5iHq0GGFtlmKhJMGromHvZOYn_gYS3fN8KdgNDCe3y7n2QhkGywlaqhYRPlzdwDpJQjdA4HaK6eopidjuoSwA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYwHrOzAVAVBcpAh15RBIH4aOKAwLf26eRUP_EnueRJ8UjEtSB5iHq0GGFtlmKhJMGromHvZOYn_gYS3fN8KdgNDCe3y7n2QhkGywlaqhYRPlzdwDpJQjdA4HaK6eopidjuoSwA",
+   "source": "Facebook \u00b7 Buster Connects - Brookwood HS",
+   "read_more_link": "https://www.facebook.com/BusterConnectsBHS/#:~:text=The%20official%20page%20for%20Brookwood,Policy%2C%20Community%20Standards%2C%20and%20Enforcement."
+  },
+  {
+   "position": 5,
+   "title": "Brookwood High School in GA",
+   "link": "https://www.niche.com/k12/brookwood-high-school-snellville-ga/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHrOzAVPNerkc6Xr7t3ECkPeonuSS5TeLe5eImPmZvjyD2da6u_Z1keh5LyA6IuxT29-_FLGeRm96bCytl9t2SspN1MDiCJl5TEItGAN_5TnYA8E7Hu-xfvv98OCbq_xiTOz9cNxxGEKCylrUC3lmFlFJrsZ6o&ved=2ahUKEwjNr5j55uSWAxWySzABHah0GwkQFnoECFcQAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a Georgia",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png",
+   "snippet": "Brookwood High School is a top rated, public school located in SNELLVILLE, GA. It has 3,803 students in grades 9-12 with a student-teacher ratio of 18 to 1.",
+   "snippet_highlighted_words": [
+    "Brookwood High School",
+    "GA"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Brookwood High School is a top rated, public school located in SNELLVILLE, GA. It has 3,803 students in grades 9-12 with a student-teacher ratio of 18 to 1.",
+     "source_info_link": "https://www.niche.com/k12/brookwood-high-school-snellville-ga/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdgHrOzAVPNerkc6Xr7t3ECkPeonuSS5TeLe5eImPmZvjyD2da6u_Z1keh5LyA6IuxT29-_FLGeRm96bCytl9t2SspN1MDiCJl5TEItGAN_5TnYA8E7Hu-xfvv98OCbq_xiTOz9cNxxGEKCylrUC3lmFlFJrsZ6o&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdgHrOzAVPNerkc6Xr7t3ECkPeonuSS5TeLe5eImPmZvjyD2da6u_Z1keh5LyA6IuxT29-_FLGeRm96bCytl9t2SspN1MDiCJl5TEItGAN_5TnYA8E7Hu-xfvv98OCbq_xiTOz9cNxxGEKCylrUC3lmFlFJrsZ6o",
+   "source": "Niche",
+   "read_more_link": "https://www.niche.com/k12/brookwood-high-school-snellville-ga/#:~:text=Brookwood%20High%20School%20is%20a,ratio%20of%2018%20to%201."
+  },
+  {
+   "position": 6,
+   "title": "Brookwood High School (Snellville, GA) Football",
+   "link": "https://www.maxpreps.com/ga/snellville/brookwood-broncos/football/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESegHrOzAVuQhuMv3Zm-5fEIv206OtXJ3Z2O4CUUHPEHSB94M7jGV3GfRWhqEpaba_CrDHzuan2tVsoK2a9M4hBBIcel16tzY07Wn-syqgb5au6lAcGtLHgNDVSp9qJadV6nGAcxC8T_dgZ_s0gkfyrO7PHWbiS7w0pdFv&ved=2ahUKEwjNr5j55uSWAxWySzABHah0GwkQFnoECFgQAQ&uoh=1",
+   "displayed_link": "https://www.maxpreps.com \u203a Football \u203a GA Football",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEzhBADhBADhBADhBQDhBQDhBADhBADhBADhBQDhBQDhBADhBADhBQDhBADhBQBqDGaWAAAAD3RSTlMANHaA7NyWEEjPqCVevglnZLSWAAAAqElEQVQokaWSSxaFIAxDU0pFBM3-d_vkM3pUJ3YAHEJvQwH4GlcIQQUoei_Sv2okD2C7p7ikhrHbzugilnuXMsa1aCZPkYO0pSSgjJWsxs3xW5iV3E6H2v1WsxpXr5OrIbpUQNhjd0XELvoajqadD-Jb5mtNHaLv1obo3rNwhtehRo32wM3ttduJfPled_G5nZr6XVduHt1pXTKXWoHd64PML5nmF_0YP5WLCXU498sLAAAAAElFTkSuQmCC.png",
+   "snippet": "Brookwood High School. 1255 Dogwood Rd. Snellville, GA 30078-2249. Georgia High School Association logo GHSA, Official MaxPreps partner.",
+   "snippet_highlighted_words": [
+    "Brookwood High School",
+    "GA",
+    "Georgia"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Brookwood High School. 1255 Dogwood Rd. Snellville, GA 30078-2249. Georgia High School Association logo GHSA, Official MaxPreps partner.",
+     "source_info_link": "https://www.maxpreps.com/ga/snellville/brookwood-broncos/football/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEzhBADhBADhBADhBQDhBQDhBADhBADhBADhBQDhBQDhBADhBADhBQDhBADhBQBqDGaWAAAAD3RSTlMANHaA7NyWEEjPqCVevglnZLSWAAAAqElEQVQokaWSSxaFIAxDU0pFBM3-d_vkM3pUJ3YAHEJvQwH4GlcIQQUoei_Sv2okD2C7p7ikhrHbzugilnuXMsa1aCZPkYO0pSSgjJWsxs3xW5iV3E6H2v1WsxpXr5OrIbpUQNhjd0XELvoajqadD-Jb5mtNHaLv1obo3rNwhtehRo32wM3ttduJfPled_G5nZr6XVduHt1pXTKXWoHd64PML5nmF_0YP5WLCXU498sLAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESegHrOzAVuQhuMv3Zm-5fEIv206OtXJ3Z2O4CUUHPEHSB94M7jGV3GfRWhqEpaba_CrDHzuan2tVsoK2a9M4hBBIcel16tzY07Wn-syqgb5au6lAcGtLHgNDVSp9qJadV6nGAcxC8T_dgZ_s0gkfyrO7PHWbiS7w0pdFv&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESegHrOzAVuQhuMv3Zm-5fEIv206OtXJ3Z2O4CUUHPEHSB94M7jGV3GfRWhqEpaba_CrDHzuan2tVsoK2a9M4hBBIcel16tzY07Wn-syqgb5au6lAcGtLHgNDVSp9qJadV6nGAcxC8T_dgZ_s0gkfyrO7PHWbiS7w0pdFv",
+   "source": "MaxPreps",
+   "read_more_link": "https://www.maxpreps.com/ga/snellville/brookwood-broncos/football/#:~:text=Brookwood%20High%20School,GHSA%2C%20Official%20MaxPreps%20partner"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Brookwood high school georgia football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntPs-w8A6lWDT1M7Q6sdPx6ZR1cIg:1789070491924&q=Brookwood+high+school+georgia+football&sa=X&ved=2ahUKEwjNr5j55uSWAxWySzABHah0GwkQ1QJ6BAhQEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Brookwood+high+school+georgia+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Brookwood high school georgia basketball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntPs-w8A6lWDT1M7Q6sdPx6ZR1cIg:1789070491924&q=Brookwood+high+school+georgia+basketball&sa=X&ved=2ahUKEwjNr5j55uSWAxWySzABHah0GwkQ1QJ6BAhhEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Brookwood+high+school+georgia+basketball"
+  },
+  {
+   "block_position": 1,
+   "query": "Brookwood high school georgia principal",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntPs-w8A6lWDT1M7Q6sdPx6ZR1cIg:1789070491924&q=Brookwood+high+school+georgia+principal&sa=X&ved=2ahUKEwjNr5j55uSWAxWySzABHah0GwkQ1QJ6BAheEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Brookwood+high+school+georgia+principal"
+  },
+  {
+   "block_position": 1,
+   "query": "Brookwood high school georgia alumni",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntPs-w8A6lWDT1M7Q6sdPx6ZR1cIg:1789070491924&q=Brookwood+high+school+georgia+alumni&sa=X&ved=2ahUKEwjNr5j55uSWAxWySzABHah0GwkQ1QJ6BAhPEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Brookwood+high+school+georgia+alumni"
+  },
+  {
+   "block_position": 1,
+   "query": "Brookwood High School student death",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntPs-w8A6lWDT1M7Q6sdPx6ZR1cIg:1789070491924&q=Brookwood+High+School+student+death&sa=X&ved=2ahUKEwjNr5j55uSWAxWySzABHah0GwkQ1QJ6BAhcEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Brookwood+High+School+student+death"
+  },
+  {
+   "block_position": 1,
+   "query": "Brookwood High School Snellville, GA",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntPs-w8A6lWDT1M7Q6sdPx6ZR1cIg:1789070491924&q=Brookwood+High+School+Snellville,+GA&sa=X&ved=2ahUKEwjNr5j55uSWAxWySzABHah0GwkQ1QJ6BAhWEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Brookwood+High+School+Snellville%2C+GA"
+  },
+  {
+   "block_position": 1,
+   "query": "Brookwood high school division",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntPs-w8A6lWDT1M7Q6sdPx6ZR1cIg:1789070491924&q=Brookwood+high+school+division&sa=X&ved=2ahUKEwjNr5j55uSWAxWySzABHah0GwkQ1QJ6BAhREAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Brookwood+high+school+division"
+  },
+  {
+   "block_position": 1,
+   "query": "Brookwood High School photos",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntPs-w8A6lWDT1M7Q6sdPx6ZR1cIg:1789070491924&q=Brookwood+High+School+photos&sa=X&ved=2ahUKEwjNr5j55uSWAxWySzABHah0GwkQ1QJ6BAhTEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Brookwood+High+School+photos"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Brookwood+High+School%22+Georgia&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntPs-w8A6lWDT1M7Q6sdPx6ZR1cIg:1789070491924&ei=mwyjao32N7KXwbkPqOntSA&start=10&sa=N&sstk=AS6-VmK9PomlVgj0GsXjKJ5NHZBQ-JwullQCP1scgNs3ZFwlqGqYadaMjVF-D0ks3HrLMb5KBAKOXJlrRLxxTnICLr08pAN7JTH6-Q&ved=2ahUKEwjNr5j55uSWAxWySzABHah0GwkQ8NMDegQITBAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Brookwood+High+School%22+Georgia&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntPs-w8A6lWDT1M7Q6sdPx6ZR1cIg:1789070491924&ei=mwyjao32N7KXwbkPqOntSA&start=10&sa=N&sstk=AS6-VmK9PomlVgj0GsXjKJ5NHZBQ-JwullQCP1scgNs3ZFwlqGqYadaMjVF-D0ks3HrLMb5KBAKOXJlrRLxxTnICLr08pAN7JTH6-Q&ved=2ahUKEwjNr5j55uSWAxWySzABHah0GwkQ8tMDegQITBAE",
+   "3": "https://www.google.com/search?q=%22Brookwood+High+School%22+Georgia&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntPs-w8A6lWDT1M7Q6sdPx6ZR1cIg:1789070491924&ei=mwyjao32N7KXwbkPqOntSA&start=20&sa=N&sstk=AS6-VmK9PomlVgj0GsXjKJ5NHZBQ-JwullQCP1scgNs3ZFwlqGqYadaMjVF-D0ks3HrLMb5KBAKOXJlrRLxxTnICLr08pAN7JTH6-Q&ved=2ahUKEwjNr5j55uSWAxWySzABHah0GwkQ8tMDegQITBAG",
+   "4": "https://www.google.com/search?q=%22Brookwood+High+School%22+Georgia&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntPs-w8A6lWDT1M7Q6sdPx6ZR1cIg:1789070491924&ei=mwyjao32N7KXwbkPqOntSA&start=30&sa=N&sstk=AS6-VmK9PomlVgj0GsXjKJ5NHZBQ-JwullQCP1scgNs3ZFwlqGqYadaMjVF-D0ks3HrLMb5KBAKOXJlrRLxxTnICLr08pAN7JTH6-Q&ved=2ahUKEwjNr5j55uSWAxWySzABHah0GwkQ8tMDegQITBAI",
+   "5": "https://www.google.com/search?q=%22Brookwood+High+School%22+Georgia&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntPs-w8A6lWDT1M7Q6sdPx6ZR1cIg:1789070491924&ei=mwyjao32N7KXwbkPqOntSA&start=40&sa=N&sstk=AS6-VmK9PomlVgj0GsXjKJ5NHZBQ-JwullQCP1scgNs3ZFwlqGqYadaMjVF-D0ks3HrLMb5KBAKOXJlrRLxxTnICLr08pAN7JTH6-Q&ved=2ahUKEwjNr5j55uSWAxWySzABHah0GwkQ8tMDegQITBAK",
+   "6": "https://www.google.com/search?q=%22Brookwood+High+School%22+Georgia&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntPs-w8A6lWDT1M7Q6sdPx6ZR1cIg:1789070491924&ei=mwyjao32N7KXwbkPqOntSA&start=50&sa=N&sstk=AS6-VmK9PomlVgj0GsXjKJ5NHZBQ-JwullQCP1scgNs3ZFwlqGqYadaMjVF-D0ks3HrLMb5KBAKOXJlrRLxxTnICLr08pAN7JTH6-Q&ved=2ahUKEwjNr5j55uSWAxWySzABHah0GwkQ8tMDegQITBAM",
+   "7": "https://www.google.com/search?q=%22Brookwood+High+School%22+Georgia&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntPs-w8A6lWDT1M7Q6sdPx6ZR1cIg:1789070491924&ei=mwyjao32N7KXwbkPqOntSA&start=60&sa=N&sstk=AS6-VmK9PomlVgj0GsXjKJ5NHZBQ-JwullQCP1scgNs3ZFwlqGqYadaMjVF-D0ks3HrLMb5KBAKOXJlrRLxxTnICLr08pAN7JTH6-Q&ved=2ahUKEwjNr5j55uSWAxWySzABHah0GwkQ8tMDegQITBAO",
+   "8": "https://www.google.com/search?q=%22Brookwood+High+School%22+Georgia&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntPs-w8A6lWDT1M7Q6sdPx6ZR1cIg:1789070491924&ei=mwyjao32N7KXwbkPqOntSA&start=70&sa=N&sstk=AS6-VmK9PomlVgj0GsXjKJ5NHZBQ-JwullQCP1scgNs3ZFwlqGqYadaMjVF-D0ks3HrLMb5KBAKOXJlrRLxxTnICLr08pAN7JTH6-Q&ved=2ahUKEwjNr5j55uSWAxWySzABHah0GwkQ8tMDegQITBAQ",
+   "9": "https://www.google.com/search?q=%22Brookwood+High+School%22+Georgia&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntPs-w8A6lWDT1M7Q6sdPx6ZR1cIg:1789070491924&ei=mwyjao32N7KXwbkPqOntSA&start=80&sa=N&sstk=AS6-VmK9PomlVgj0GsXjKJ5NHZBQ-JwullQCP1scgNs3ZFwlqGqYadaMjVF-D0ks3HrLMb5KBAKOXJlrRLxxTnICLr08pAN7JTH6-Q&ved=2ahUKEwjNr5j55uSWAxWySzABHah0GwkQ8tMDegQITBAS",
+   "10": "https://www.google.com/search?q=%22Brookwood+High+School%22+Georgia&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntPs-w8A6lWDT1M7Q6sdPx6ZR1cIg:1789070491924&ei=mwyjao32N7KXwbkPqOntSA&start=90&sa=N&sstk=AS6-VmK9PomlVgj0GsXjKJ5NHZBQ-JwullQCP1scgNs3ZFwlqGqYadaMjVF-D0ks3HrLMb5KBAKOXJlrRLxxTnICLr08pAN7JTH6-Q&ved=2ahUKEwjNr5j55uSWAxWySzABHah0GwkQ8tMDegQITBAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Brookwood+High+School%22+Georgia&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Brookwood+High+School%22+Georgia&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Brookwood+High+School%22+Georgia&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Brookwood+High+School%22+Georgia&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Brookwood+High+School%22+Georgia&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Brookwood+High+School%22+Georgia&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Brookwood+High+School%22+Georgia&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Brookwood+High+School%22+Georgia&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Brookwood+High+School%22+Georgia&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Brookwood+High+School%22+Georgia&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Brookwood+High+School%22+Georgia&start=90"
+  }
+ }
+}

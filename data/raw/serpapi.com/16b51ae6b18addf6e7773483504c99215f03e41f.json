@@ -1,0 +1,566 @@
+{
+ "search_information": {
+  "query_displayed": "\"Southeast Raleigh High School\"",
+  "total_results": 34600,
+  "time_taken_displayed": 0.29,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Southeast Raleigh Magnet High School",
+  "type": "High school in Raleigh, North Carolina",
+  "entity_type": "local_nav",
+  "kgmid": "/m/06snyw",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/06snyw&hl=en-US&q=Southeast+Raleigh+Magnet+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F06snyw&q=Southeast+Raleigh+Magnet+High+School",
+  "place_id": "ChIJL7c6DElerIkRXd4XSJehVyk",
+  "website": "https://southeastraleighhs.wcpss.net/",
+  "description": "Southeast Raleigh Magnet High School is a magnet high school in Raleigh, North Carolina, United States. It opened in 1997 as a magnet school with a focus on math, science, and technology.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa3071b9b762d11500254df/images/BZzbIz4d3CsLfDftdY-ImKU2HflGTUXpwezh3jufMqw.webp",
+   "link": "https://www.google.com/maps/place/Southeast+Raleigh+Magnet+High+School/data=!4m2!3m1!1s0x0:0x2957a1974817de5d?sa=X&ved=2ahUKEwji2qnr4eSWAxW8z_ACHSXwCREQ_BJ6BAgREAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Southeast_Raleigh_Magnet_High_School"
+  },
+  "address": "2600 Rock Quarry Rd, Raleigh, NC 27610",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvrMw_AZLyc6qEYRe943JZqZSelpg:1789069120671&q=southeast+raleigh+magnet+high+school+address&ludocid=2979027349650529885&sa=X&ved=2ahUKEwji2qnr4eSWAxW8z_ACHSXwCREQ6BN6BAghEAI"
+   }
+  ],
+  "founded": "1997",
+  "colors": "Green, Navy Blue",
+  "colors_links": [
+   {
+    "text": "Green",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvrMw_AZLyc6qEYRe943JZqZSelpg:1789069120671&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpugluVS_H7pu657Qyj6KrTqp3gx1TYc7YxhZOMLkimwNX1OgxiZQ2U6A05vPv0F4UMCX3npIOGFaZz_BheKV0nVkpM9n0JdUO4YiKmAqYaCSkl8zJsBz0J3lcrke3IkWXWr3WxWktpze5ZbTtt7JP7vW2KIJyMTXXp5X_O67yYEgaRF9OaWgDREMQqAjjMN9cqFqDNY%3D&sa=X&ved=2ahUKEwji2qnr4eSWAxW8z_ACHSXwCREQmxN6BAgjEAI"
+   },
+   {
+    "text": "Navy Blue",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvrMw_AZLyc6qEYRe943JZqZSelpg:1789069120671&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yWSNg8aXmecCRjxLN7rFz2H7cRaCVc0ZDejN5BRj8kHUuKGzaAFCUd5Nk1Zwj2DDvGRECRR-h71tnGuzny3hRaeUfDoeqFlWiTwtXsS7fJkSS_tdeWHqf8KAsA5gwtRh0YxLSEu3g7EzE_FjtcuCdth2YNufRTxDlZxovWcvh_VOqe6N5GsYczHnBflwqTnshk6JBzU%3D&sa=X&ved=2ahUKEwji2qnr4eSWAxW8z_ACHSXwCREQmxN6BAgjEAM"
+   }
+  ],
+  "mascot": "Bulldog",
+  "mascot_links": [
+   {
+    "text": "Bulldog",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvrMw_AZLyc6qEYRe943JZqZSelpg:1789069120671&q=&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW672oA78ZiL9ippScWptWHDDxWLLqFiagC6Rc8Lt9KrzBH7LZj6quQAmHyLZ0dwcki_y5Sm7qKRp2yJ2UrqnTJOtk3x0DTnzTo-NHYlT-U3xuHX1Q3Cs3qXN09QD4SJHiOxbjxEt_dqKvCzZI5k07sH00uLY0Y&sa=X&ved=2ahUKEwji2qnr4eSWAxW8z_ACHSXwCREQmxN6BAgqEAI"
+   }
+  ],
+  "school_types": "High school, State school",
+  "school_types_links": [
+   {
+    "text": "High school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvrMw_AZLyc6qEYRe943JZqZSelpg:1789069120671&q=High+school&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMppXfNh-OkLk_azmU0uk1AX8WDg6Aey6nZnfzhISz_BahG86fIXhZzQ_5i9gVo2jpkRefi2vb1cuIcbbWsQX1bg-7OrENYaerTHY7HdnuvRnht1K56EFDWnnH-aFQzAGsVBZoose5iIQlx6eVomQjcp9LITVHVQl-ruJQeaaaMvDMVOwWsblNRTkEKOVPGwt2j6wZGZXhJTMMWp9bkbxBGEtyIq4377J7Yrm52528ujeomw03vDkS6UH8hfMBJHD3n01vv8s%3D&sa=X&ved=2ahUKEwji2qnr4eSWAxW8z_ACHSXwCREQmxN6BAgpEAI"
+   },
+   {
+    "text": "State school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvrMw_AZLyc6qEYRe943JZqZSelpg:1789069120671&q=State+school&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ybGtCxI0H8z2nV80srIO5hh43iJrpLL9zyTRHToodwNipZCD4kcN2wbzA3OqfyGettl42NpXglwsH4hnJQRSg4KBrFTowpZphOt0qedRcJ2AwRHFmo10f78L1LF5uz3wquF6TO935Te6pkmf9pMzTiS_OSxMHghwuaBzHy2-DSTStPcNiT5sEyAB4jokRApMabY-F_3ONBjviA3NyEII7-gSXsnYP8xMe5fXEuvapZeb9KHLwlWIRxr_yqNeEwrMzICUl_M%3D&sa=X&ved=2ahUKEwji2qnr4eSWAxW8z_ACHSXwCREQmxN6BAgpEAM"
+   }
+  ],
+  "phone": "(919) 856-2800",
+  "raw_hours": "Closed \u00b7 Opens 7 - 25 AM Fri",
+  "hours": {
+   "thursday": {
+    "opens": "7:25\u202fAM",
+    "closes": "2:25\u202fPM"
+   },
+   "friday": {
+    "opens": "7:25\u202fAM",
+    "closes": "2:25\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "7:25\u202fAM",
+    "closes": "2:25\u202fPM"
+   },
+   "tuesday": {
+    "opens": "7:25\u202fAM",
+    "closes": "2:25\u202fPM"
+   },
+   "wednesday": {
+    "opens": "7:25\u202fAM",
+    "closes": "2:25\u202fPM"
+   }
+  },
+  "unclaimed_listing": true,
+  "people_also_search_for": [
+   {
+    "name": "South Garner High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkhxtvDTkLSICWYFOVAoj1qk5r8eTO0AuzqwYg7sjSMOrbZ7dRT6ONx86efBZwuBxCjGUoMzj-akl_dplwN40eiWsdrmVGTZf-ZFimJD-nwC8vfpHsYGKxKtNymyyL8ofZVJAN3SQ=w177-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvrMw_AZLyc6qEYRe943JZqZSelpg:1789069120671&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0f0OAxCAZ42A_H1H6qCwr_dHqIBn8hMgUDn1YeewRZBzfI-336STgmhid41FqA5NxZtF-54W-mwNb2FEszg-sRHBuoakp44z1JkkOwMdDtpHwyvcPAi-2ZVcjFfz1_OC_zoOBgFdrlCoPQ99_44a7gZ9qi6i7uo7omEvUJElmyuGdxR9s_Wu9kPz6D-plfuuXIijw_4aWYiD4iByW-UhGWSjqmUnwnNk2lKzJPEoXQUriXM49CsWBn3chKe2uJ4OoRhPrTSM0Z9Erw23zIbXuo-zSWHP&q=South+Garner+High+School&sa=X&ved=2ahUKEwji2qnr4eSWAxW8z_ACHSXwCREQs9oBKAB6BAgeEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=South+Garner+High+School&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0f0OAxCAZ42A_H1H6qCwr_dHqIBn8hMgUDn1YeewRZBzfI-336STgmhid41FqA5NxZtF-54W-mwNb2FEszg-sRHBuoakp44z1JkkOwMdDtpHwyvcPAi-2ZVcjFfz1_OC_zoOBgFdrlCoPQ99_44a7gZ9qi6i7uo7omEvUJElmyuGdxR9s_Wu9kPz6D-plfuuXIijw_4aWYiD4iByW-UhGWSjqmUnwnNk2lKzJPEoXQUriXM49CsWBn3chKe2uJ4OoRhPrTSM0Z9Erw23zIbXuo-zSWHP"
+   },
+   {
+    "name": "Knightdale High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWli2fGfMBCktnZcoYhpMRC72A_LbdbpLRP9wg4L5tNMJhJbN1QofOgc3AXHvkuU3HuOCunMBJsWk1ixIoL4DoPkcHnAYKKnd094zO7ZkvR4Tqfm4NlGdNKPnA7nl85_I0kCk2sz=w172-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvrMw_AZLyc6qEYRe943JZqZSelpg:1789069120671&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW6780Ds7vqlLr3-AMKOj5OLhAek7nCm_If-SpWwTNgXBkJKV6qHlXAQabPIKAHdFmd5-35rqlwbxvoVkWWu4qch_0dGyHL59p7eOdsoDzgth4QC9m4wjJ09LV0Y8nB8l3yEAh5ejzBl85wB_VgrtGZ0kJoVx5nOr9iZJ2onfMRCIwE79F-4rIzCfGi32fbLKQXNJmXMiNUWgKLhsBPZuxe7RdzC5uwHfd7bW3byXKR_JrI3ti2v6e8SxjIZA2lKLNPKzzNmG5SRm2uexrkJs5uLkJm5Adk&q=Knightdale+High+School&sa=X&ved=2ahUKEwji2qnr4eSWAxW8z_ACHSXwCREQs9oBKAB6BAgeEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Knightdale+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW6780Ds7vqlLr3-AMKOj5OLhAek7nCm_If-SpWwTNgXBkJKV6qHlXAQabPIKAHdFmd5-35rqlwbxvoVkWWu4qch_0dGyHL59p7eOdsoDzgth4QC9m4wjJ09LV0Y8nB8l3yEAh5ejzBl85wB_VgrtGZ0kJoVx5nOr9iZJ2onfMRCIwE79F-4rIzCfGi32fbLKQXNJmXMiNUWgKLhsBPZuxe7RdzC5uwHfd7bW3byXKR_JrI3ti2v6e8SxjIZA2lKLNPKzzNmG5SRm2uexrkJs5uLkJm5Adk"
+   },
+   {
+    "name": "Rolesville High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkAOVrVG0j7wqZmtUwsTVjDRr2qjEBQ8SiMQ_RG23PHmj7Ke9-2lvIsiSAPxz4UsS43msl5ELXOlf88QBQwBEMUOsKLDDv_ON_eeAkHZBfao7XK6sbIa0FhxE-8hhYXlBy25dA=w173-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvrMw_AZLyc6qEYRe943JZqZSelpg:1789069120671&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0WDpxG95_XHEVvD6GezjZtRBOUt-c3-9oLpCJpaQQ4tX7Vm1Y6lPLJAel5mvcTvw9GaBPv2c5jH4ZvO3MZ6nUZgkjbMvZPArMyjZ8emAbARqf7g83Lj0LSEzWib8oa7VeGS-MJn2OnWFEhi7i0D0MSjsWT8A_FXFVlibm7nOsuVP-t3wDMcsUKv1N_f7K_VCBTh_SZmT6wrDO01iW7T4DRMuVMOw3OzM2UJXbZkp9k_ybBkOOc4jrceKDlYin00yU7UJel2iJ_bjWghY9RmwhjksqRST&q=Rolesville+High+School&sa=X&ved=2ahUKEwji2qnr4eSWAxW8z_ACHSXwCREQs9oBKAB6BAgeEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Rolesville+High+School&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0WDpxG95_XHEVvD6GezjZtRBOUt-c3-9oLpCJpaQQ4tX7Vm1Y6lPLJAel5mvcTvw9GaBPv2c5jH4ZvO3MZ6nUZgkjbMvZPArMyjZ8emAbARqf7g83Lj0LSEzWib8oa7VeGS-MJn2OnWFEhi7i0D0MSjsWT8A_FXFVlibm7nOsuVP-t3wDMcsUKv1N_f7K_VCBTh_SZmT6wrDO01iW7T4DRMuVMOw3OzM2UJXbZkp9k_ybBkOOc4jrceKDlYin00yU7UJel2iJ_bjWghY9RmwhjksqRST"
+   },
+   {
+    "name": "Garner Magnet High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWljWwmBGhPEW_ip9i5bZuoFu60T0Nc-3wPAplAGHDWV9RKOyH26v8XscKZhjmin8daR12C5Qc7FHZPmRt2dQ4QbKsRTXPVmnnt2Z5tTZXfGzxyUKY7UlKYzfu1SpvXH11U2Hp18=w204-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvrMw_AZLyc6qEYRe943JZqZSelpg:1789069120671&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yQ38crK7iAjjxXiu9tmsc7d00subxo6HXexI7PemCTHhF2dbXH4YhS3K5AcWT_qrpFAfQwmR5eVUiEiYUjVkMCWl1P7Y30D4ObCkhIU11mAq3vxoopANT8sTtTnprQ2k8BwXBrBN0FALCNbUBu-piwN0msvDlLhuiGsJ6qM7lYpyPORB1FdMhG8DilT2sKkh_6KsUpcRTygWyFkvz9Ya9KiXqMGwXmdwjvjFcp4M9yj0zJrpPYl3pX1NXLp7eHoX8z8NuAN7Q_CE_k3V90IqV65Dp7sW&q=Garner+Magnet+High+School&sa=X&ved=2ahUKEwji2qnr4eSWAxW8z_ACHSXwCREQs9oBKAB6BAgeEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Garner+Magnet+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yQ38crK7iAjjxXiu9tmsc7d00subxo6HXexI7PemCTHhF2dbXH4YhS3K5AcWT_qrpFAfQwmR5eVUiEiYUjVkMCWl1P7Y30D4ObCkhIU11mAq3vxoopANT8sTtTnprQ2k8BwXBrBN0FALCNbUBu-piwN0msvDlLhuiGsJ6qM7lYpyPORB1FdMhG8DilT2sKkh_6KsUpcRTygWyFkvz9Ya9KiXqMGwXmdwjvjFcp4M9yj0zJrpPYl3pX1NXLp7eHoX8z8NuAN7Q_CE_k3V90IqV65Dp7sW"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvrMw_AZLyc6qEYRe943JZqZSelpg:1789069120671&q=Southeast+Raleigh+Magnet+High+School&stick=H4sIAAAAAAAAAONgFuLUz9U3MCvOqyxXQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iVQnOLy3JSE0sLlEISsxJzUzPUPBNTM9LLVHwALGDkzPy83N2sDLeYpNkeONQEZjL19S5JNzwEKv2os0RScE26WHfjwMAREdsjIoAAAA&sa=X&ved=2ahUKEwji2qnr4eSWAxW8z_ACHSXwCREQzO0BKAR6BAgeEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLUz9U3MCvOqyxXQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iVQnOLy3JSE0sLlEISsxJzUzPUPBNTM9LLVHwALGDkzPy83N2sDLeYpNkeONQEZjL19S5JNzwEKv2os0RScE26WHfjwMAREdsjIoAAAA",
+  "profiles": [
+   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/srmhspride/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Southeast+Raleigh+High+School%22",
+    "image": "https://serpapi.com/searches/6aa3071b9b762d11500254df/images/BZzbIz4d3CsLfDftdY-ImLOM853QvNsc4Dhdqn_g6eboflICsmXbWwcHjp1FwXzz.png"
+   },
+   {
+    "name": "YouTube",
+    "link": "https://www.youtube.com/channel/UC7XuFag2BcrM9ifhLQINorg",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Southeast+Raleigh+High+School%22",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAP1BMVEX_____z8__n5__kJD_gID_cHD_YGD_v7__39__ICD_AAD_r6__EBD_7-__oKD_MDD_QED_UFD_X1__j4__f396G04EAAAAhklEQVR4AeXQRQLDQAwDQC3bajj5_1dLYb63czYKf8VY50OcBO9swkyUB_SBkfJQlqOXeKJAz_FEQM9zVCqXInqRIy-RC9W-AJDypgCwyoGiV68LkLJFwX6CVJcr8nBwZJgLXMaDAs9RxsMcLE949IQnEnpoeKjEpC25o12OpVwkTURy_JQX1r4RC2S7kZYAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/seraleighhs",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Southeast+Raleigh+High+School%22",
+    "image": "https://serpapi.com/searches/6aa3071b9b762d11500254df/images/BZzbIz4d3CsLfDftdY-ImIZofcRuGj8IiSzMh1PrZvgMZBVS9HIPTmpfmykZxbff.png"
+   },
+   {
+    "name": "X (Twitter)",
+    "link": "https://twitter.com/srmhspride",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Southeast+Raleigh+High+School%22",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAABhUlEQVR4AczOA6xcARCF4X_us23btuLUQR3WZlhbQW3bto2gtm3b2J3GN4tY74uHh3okOi42Nj4AAUDwTvDEhisABCOAEAzYTBh0bN-lc5d0QgAhHPqX4Y4pkd367Zc-xMcXCPDg8TPwxeQH724Uj9N95GJ4pnHxby1xgCmV3v-GsFb7k0Iee7UjaQgmIYe9v9O4-wUKWaATyMPAViwvr1NnOQWDdTV5CHYSaKWLmaGDyvU4mTgQcllracaFr-9uk-yLM8k8fAJff0IUTghRVFu3M1ynkYk4nchiqqU3Ry05RDibMMhjtj6Ht3dJxVk_l1G64cspOusychBsCWm01WNM0jFs0sbEYUtIIuTXNco588OLh09JxE6wweuXEAvfL9PQus3-iU80N34KCaQyUOcxTTuSjEmMRI5rS9JwIZfD1t7ceo34YIpnuQ4nGwP8XXlq_fJZd9jE8KBHC5IwAELJ7dWrZ6fOuNhkgFgAEEIAwA1MQkw0AgDC_wnKycrKSQ2iPAkAVyNzq8rxicIAAAAASUVORK5CYII.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "What happened at Southeast Raleigh High School?",
+   "type": "ai_overview",
+   "page_token": "EdUrZ3icHdBLjpswAABQ9TKznECYpmqkqIoLJjDBqb8Qbyqw8xlsB5LQwHjXK_QMPVVP06o3eHo_f9u3i_nz4dd5GPr7cjYbx_H51HUne3hWnZvV9_eLmqna2qZWZrn4tAi_HNUqeSjw9aYA5n0vYhKwDZ_ToJfKwAExmGuhe9pmIS2F5wmeDhvA69C-YgYX0kw_KFsH-JKFKga3bXmPpLfXAiIvk3OFeTYnrn9gY6GO1iEP833Bs6hIYEScfFdtMtLWMuLQy76EL8TZicXio7bS1kZmKEUVNyFiQk_Ya09TMWB_duyCro3td6JEAYXAI0iujZdWBznaMkCbKh-aCCwKBk0TrSdh0HwXk3zHdC5LS3ErKNvk_4ia4FJc95XYIjMUh1JGuxRhlYq4cRYQ0r1hTrxqrePlFOM5SZUgkxCy4hZ-qz1sNbev3HwGOg0mPT4d1WMVPf2_Xn0_umHZ37rTX7Cnjdk",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=EdUrZ3icHdBLjpswAABQ9TKznECYpmqkqIoLJjDBqb8Qbyqw8xlsB5LQwHjXK_QMPVVP06o3eHo_f9u3i_nz4dd5GPr7cjYbx_H51HUne3hWnZvV9_eLmqna2qZWZrn4tAi_HNUqeSjw9aYA5n0vYhKwDZ_ToJfKwAExmGuhe9pmIS2F5wmeDhvA69C-YgYX0kw_KFsH-JKFKga3bXmPpLfXAiIvk3OFeTYnrn9gY6GO1iEP833Bs6hIYEScfFdtMtLWMuLQy76EL8TZicXio7bS1kZmKEUVNyFiQk_Ya09TMWB_duyCro3td6JEAYXAI0iujZdWBznaMkCbKh-aCCwKBk0TrSdh0HwXk3zHdC5LS3ErKNvk_4ia4FJc95XYIjMUh1JGuxRhlYq4cRYQ0r1hTrxqrePlFOM5SZUgkxCy4hZ-qz1sNbev3HwGOg0mPT4d1WMVPf2_Xn0_umHZ37rTX7Cnjdk",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1dEZG9UMmxJZUZFelpqa3dkVUpuVVV4cFdGSkdNelJ3U2xCV1gwWjBWMHA0YVdzeWJ6bEphV1JEZHpsbmNUbFJjbUZYZVhoU1ZqVXROWFkzTlVwU1QxbzVMVUpZVmxSa01uSkVUM2MyV1Y4eFgzSnpZMVl0TTBWSFFSSVhVVUZsYW1GMVN6WkxUSGxtZHpoalVIQmxRMjVwUVVVYUlrRkVjM0k1WmxObFZVWmxTemhNUW1wRGVucERjM041WjBOSlVtNVRVVlpaV1djIiwiZmN2IjoiMyIsImVpIjoiUUFlamF1SzZLTHlmdzhjUHBlQ25pQUUiLCJxYyI6IkNoMXpiM1YwYUdWaGMzUWdjbUZzWldsbmFDQm9hV2RvSUhOamFHOXZiQkFBZmREU0VUOCIsInF1ZXN0aW9uIjoiV2hhdCBoYXBwZW5lZCBhdCBTb3V0aGVhc3QgUmFsZWlnaCBIaWdoIFNjaG9vbD8iLCJsayI6ImM1UFNLODlJTEZISVNDd29TTTFMVFZFQXNvdnpTMHN5VWhPTFN4U0tFbk5TTTlNekZESkFSSEZ5Um41LURnQSIsImJzIjoiYzRXUU1RdkNRQXlGY2IzSi1hWXNVcENpVWxESGdsMDZkYkNEaTh2WkhyM0ROcW05SzhWXzc3VllFY0YyQ1lHODc3MGtMR1BiaXhJV2xLaHJpVElIMTZmVVdpV0ZzWEFXcGRTRmdyZ3ZhYWFJeWpEWThVMzNpNWdQMHJ3UjFSY3pJT3pLX0NGRUczQXF1RW1uLTVxRHhqSEpoeVFLQTUtdnV4bjlHSU1acTlocGRKX2MzRE9Pd3J2R29qZElxTEVLSXRGUXFWR0VnY2RYazBlTUxIdXdRMHdkVkFLZllHeWJTN1FHQ2dKTGM0ODc4cjM2UTA1R0x4Y3YiLCJpZCI6ImZjX1FBZWphdUs2S0x5Znc4Y1BwZUNuaUFFXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1dEZG9UMmxJZUZFelpqa3dkVUpuVVV4cFdGSkdNelJ3U2xCV1gwWjBWMHA0YVdzeWJ6bEphV1JEZHpsbmNUbFJjbUZYZVhoU1ZqVXROWFkzTlVwU1QxbzVMVUpZVmxSa01uSkVUM2MyV1Y4eFgzSnpZMVl0TTBWSFFSSVhVVUZsYW1GMVN6WkxUSGxtZHpoalVIQmxRMjVwUVVVYUlrRkVjM0k1WmxObFZVWmxTemhNUW1wRGVucERjM041WjBOSlVtNVRVVlpaV1djIiwiZmN2IjoiMyIsImVpIjoiUUFlamF1SzZLTHlmdzhjUHBlQ25pQUUiLCJxYyI6IkNoMXpiM1YwYUdWaGMzUWdjbUZzWldsbmFDQm9hV2RvSUhOamFHOXZiQkFBZmREU0VUOCIsInF1ZXN0aW9uIjoiV2hhdCBoYXBwZW5lZCBhdCBTb3V0aGVhc3QgUmFsZWlnaCBIaWdoIFNjaG9vbD8iLCJsayI6ImM1UFNLODlJTEZISVNDd29TTTFMVFZFQXNvdnpTMHN5VWhPTFN4U0tFbk5TTTlNekZESkFSSEZ5Um41LURnQSIsImJzIjoiYzRXUU1RdkNRQXlGY2IzSi1hWXNVcENpVWxESGdsMDZkYkNEaTh2WkhyM0ROcW05SzhWXzc3VllFY0YyQ1lHODc3MGtMR1BiaXhJV2xLaHJpVElIMTZmVVdpV0ZzWEFXcGRTRmdyZ3ZhYWFJeWpEWThVMzNpNWdQMHJ3UjFSY3pJT3pLX0NGRUczQXF1RW1uLTVxRHhqSEpoeVFLQTUtdnV4bjlHSU1acTlocGRKX2MzRE9Pd3J2R29qZElxTEVLSXRGUXFWR0VnY2RYazBlTUxIdXdRMHdkVkFLZllHeWJTN1FHQ2dKTGM0ODc4cjM2UTA1R0x4Y3YiLCJpZCI6ImZjX1FBZWphdUs2S0x5Znc4Y1BwZUNuaUFFXzUifQ%3D%3D"
+  },
+  {
+   "question": "What is the best high school in Raleigh, NC?",
+   "type": "ai_overview",
+   "page_token": "98px6HicHdDbTsIwAADQ-DM8yrpGDCTEONciU5i97vJiurbc1m1VpsDe_Be_yq_R-Acn5-vb7dv65-pz1_f-OBuPT6fT9bbrts5e664Zq-Ol1WOtnKuUrmeT2wm42-g5-lhGD2_LiAjvZUwDlgFlObrJGr9M8ba3AvcGuHcCVyclS8QDz1Zu16UxPReNR1asb5TDfRa7ViPnq-C81qFJeDilVR1ABlFQ8iiVF0BonrzoTAKxB1IdcEzc9Kkc8IEtaGp4MZDWc5HvjlmMQAXd0tYUcgRWdEgSFppUhfLJxtFQhAaXfwbDI8AwVkIAL1AiWQ2OvDXPqdAXy11dAQnRzlCSybcil8_rul_ZrITpYk30QsZV4yJKuz0RdNAH14hcsgqZR5ubQObukEPaFw3FzE3LMr-HPEZnQkYb_TmHo__P-eum6Wf-vdv-As4Vgq4",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=98px6HicHdDbTsIwAADQ-DM8yrpGDCTEONciU5i97vJiurbc1m1VpsDe_Be_yq_R-Acn5-vb7dv65-pz1_f-OBuPT6fT9bbrts5e664Zq-Ol1WOtnKuUrmeT2wm42-g5-lhGD2_LiAjvZUwDlgFlObrJGr9M8ba3AvcGuHcCVyclS8QDz1Zu16UxPReNR1asb5TDfRa7ViPnq-C81qFJeDilVR1ABlFQ8iiVF0BonrzoTAKxB1IdcEzc9Kkc8IEtaGp4MZDWc5HvjlmMQAXd0tYUcgRWdEgSFppUhfLJxtFQhAaXfwbDI8AwVkIAL1AiWQ2OvDXPqdAXy11dAQnRzlCSybcil8_rul_ZrITpYk30QsZV4yJKuz0RdNAH14hcsgqZR5ubQObukEPaFw3FzE3LMr-HPEZnQkYb_TmHo__P-eum6Wf-vdv-As4Vgq4",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1dEZG9UMmxJZUZFelpqa3dkVUpuVVV4cFdGSkdNelJ3U2xCV1gwWjBWMHA0YVdzeWJ6bEphV1JEZHpsbmNUbFJjbUZYZVhoU1ZqVXROWFkzTlVwU1QxbzVMVUpZVmxSa01uSkVUM2MyV1Y4eFgzSnpZMVl0TTBWSFFSSVhVVUZsYW1GMVN6WkxUSGxtZHpoalVIQmxRMjVwUVVVYUlrRkVjM0k1WmxObFZVWmxTemhNUW1wRGVucERjM041WjBOSlVtNVRVVlpaV1djIiwiZmN2IjoiMyIsImVpIjoiUUFlamF1SzZLTHlmdzhjUHBlQ25pQUUiLCJxYyI6IkNoMXpiM1YwYUdWaGMzUWdjbUZzWldsbmFDQm9hV2RvSUhOamFHOXZiQkFBZmREU0VUOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCBoaWdoIHNjaG9vbCBpbiBSYWxlaWdoLCBOQz8iLCJsayI6IkdpcDNhR0YwSUdseklIUm9aU0JpWlhOMElHaHBaMmdnYzJOb2IyOXNJR2x1SUhKaGJHVnBaMmdnYm1NIiwiYnMiOiJjNFdRTVF2Q1FBeUZjYjNKLWFZc1VwQ2lVbERIZ2wwNmRiQ0RpOHZaSHIzRE5xbTlLOFZfNzdWWUVjRjJDWUc4Nzcwa0xHUGJpeElXbEtocmlUSUgxNmZVV2lXRnNYQVdwZFNGZ3JndmFhYUl5akRZOFUzM2k1Z1AwcndSMVJjeklPektfQ0ZFRzNBcXVFbW4tNXFEeGpISmh5UUtBNS12dXhuOUdJTVpxOWhwZEpfYzNET093cnZHb2pkSXFMRUtJdEZRcVZHRWdjZFhrMGVNTEh1d1Ewd2RWQUtmWUd5YlM3UUdDZ0pMYzQ4NzhyMzZRMDVHTHhjdiIsImlkIjoiZmNfUUFlamF1SzZLTHlmdzhjUHBlQ25pQUVfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1dEZG9UMmxJZUZFelpqa3dkVUpuVVV4cFdGSkdNelJ3U2xCV1gwWjBWMHA0YVdzeWJ6bEphV1JEZHpsbmNUbFJjbUZYZVhoU1ZqVXROWFkzTlVwU1QxbzVMVUpZVmxSa01uSkVUM2MyV1Y4eFgzSnpZMVl0TTBWSFFSSVhVVUZsYW1GMVN6WkxUSGxtZHpoalVIQmxRMjVwUVVVYUlrRkVjM0k1WmxObFZVWmxTemhNUW1wRGVucERjM041WjBOSlVtNVRVVlpaV1djIiwiZmN2IjoiMyIsImVpIjoiUUFlamF1SzZLTHlmdzhjUHBlQ25pQUUiLCJxYyI6IkNoMXpiM1YwYUdWaGMzUWdjbUZzWldsbmFDQm9hV2RvSUhOamFHOXZiQkFBZmREU0VUOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCBoaWdoIHNjaG9vbCBpbiBSYWxlaWdoLCBOQz8iLCJsayI6IkdpcDNhR0YwSUdseklIUm9aU0JpWlhOMElHaHBaMmdnYzJOb2IyOXNJR2x1SUhKaGJHVnBaMmdnYm1NIiwiYnMiOiJjNFdRTVF2Q1FBeUZjYjNKLWFZc1VwQ2lVbERIZ2wwNmRiQ0RpOHZaSHIzRE5xbTlLOFZfNzdWWUVjRjJDWUc4Nzcwa0xHUGJpeElXbEtocmlUSUgxNmZVV2lXRnNYQVdwZFNGZ3JndmFhYUl5akRZOFUzM2k1Z1AwcndSMVJjeklPektfQ0ZFRzNBcXVFbW4tNXFEeGpISmh5UUtBNS12dXhuOUdJTVpxOWhwZEpfYzNET093cnZHb2pkSXFMRUtJdEZRcVZHRWdjZFhrMGVNTEh1d1Ewd2RWQUtmWUd5YlM3UUdDZ0pMYzQ4NzhyMzZRMDVHTHhjdiIsImlkIjoiZmNfUUFlamF1SzZLTHlmdzhjUHBlQ25pQUVfNSJ9"
+  },
+  {
+   "question": "What is Southeast Raleigh High School's ranking in North Carolina?",
+   "type": "ai_overview",
+   "page_token": "9P86YnicHdHNcqIwAADg6cv0WEGkrc44nYKS2pG0Cfkjlw4kVSRBYmUa5bbvsuc-0D7N7uwTfIfv1297OJo_Nz_NMLjzYjLx3t_t-35vP-9U302q8_WoJqqytq6UWdw_3IdPO7Vc9z5Nzz5B1Dm2wgHJsNMts0XLOKLzjQzLqH5xMzk-BxxYq2zyraaYan6ONMO7OrCnovNh0cEWiiYjVJsyeE1UJjkbZcVedF4JN9sy2KvpvORF-F6Q5qsW_yzQDwSoAQePEQbzgB3XXopNXFFo1CEEuXAjNf4CO3khpAHEuA1Jw1nd4asS2ZHQi6ArKEvbHIoRn6DAkSR49gbiHE2bpAD6XYLLFovEcKOvkMJTbnXMGIoxHagSSZzbV88yNGqqYcmzlAFoCx6bdaMx4uxUCraFZsg_uYzeAEQKsFXd2QTj_oAoHlVrO9rZLQYDRC1sUMvWZWgZmT7GBGRe8n7EaQikv92p72V0-_9h-bHrhoX76vd_ATd_l0o",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=9P86YnicHdHNcqIwAADg6cv0WEGkrc44nYKS2pG0Cfkjlw4kVSRBYmUa5bbvsuc-0D7N7uwTfIfv1297OJo_Nz_NMLjzYjLx3t_t-35vP-9U302q8_WoJqqytq6UWdw_3IdPO7Vc9z5Nzz5B1Dm2wgHJsNMts0XLOKLzjQzLqH5xMzk-BxxYq2zyraaYan6ONMO7OrCnovNh0cEWiiYjVJsyeE1UJjkbZcVedF4JN9sy2KvpvORF-F6Q5qsW_yzQDwSoAQePEQbzgB3XXopNXFFo1CEEuXAjNf4CO3khpAHEuA1Jw1nd4asS2ZHQi6ArKEvbHIoRn6DAkSR49gbiHE2bpAD6XYLLFovEcKOvkMJTbnXMGIoxHagSSZzbV88yNGqqYcmzlAFoCx6bdaMx4uxUCraFZsg_uYzeAEQKsFXd2QTj_oAoHlVrO9rZLQYDRC1sUMvWZWgZmT7GBGRe8n7EaQikv92p72V0-_9h-bHrhoX76vd_ATd_l0o",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1dEZG9UMmxJZUZFelpqa3dkVUpuVVV4cFdGSkdNelJ3U2xCV1gwWjBWMHA0YVdzeWJ6bEphV1JEZHpsbmNUbFJjbUZYZVhoU1ZqVXROWFkzTlVwU1QxbzVMVUpZVmxSa01uSkVUM2MyV1Y4eFgzSnpZMVl0TTBWSFFSSVhVVUZsYW1GMVN6WkxUSGxtZHpoalVIQmxRMjVwUVVVYUlrRkVjM0k1WmxObFZVWmxTemhNUW1wRGVucERjM041WjBOSlVtNVRVVlpaV1djIiwiZmN2IjoiMyIsImVpIjoiUUFlamF1SzZLTHlmdzhjUHBlQ25pQUUiLCJxYyI6IkNoMXpiM1YwYUdWaGMzUWdjbUZzWldsbmFDQm9hV2RvSUhOamFHOXZiQkFBZmREU0VUOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyBTb3V0aGVhc3QgUmFsZWlnaCBIaWdoIFNjaG9vbCdzIHJhbmtpbmcgaW4gTm9ydGggQ2Fyb2xpbmE/IiwibGsiOiJjNU5TTGM0dkxjbElUU3d1VVNoS3pFbk5UTTlReUFBUnhja1otZms1UUxHODdNeThkQUEiLCJicyI6ImM0V1FNUXZDUUF5RmNiM0otYVlzVXBDaVVsREhnbDA2ZGJDRGk4dlpIcjNETnFtOUs4Vl83N1ZZRWNGMkNZRzg3NzBrTEdQYml4SVdsS2hyaVRJSDE2ZlVXaVdGc1hBV3BkU0Zncmd2YWFhSXlqRFk4VTMzaTVnUDByd1IxUmN6SU96S19DRkVHM0FxdUVtbi01cUR4akhKaHlRS0E1LXZ1eG45R0lNWnE5aHBkSl9jM0RPT3dydkdvamRJcUxFS0l0RlFxVkdFZ2NkWGswZU1MSHV3UTB3ZFZBS2ZZR3liUzdRR0NnSkxjNDg3OHIzNlEwNUdMeGN2IiwiaWQiOiJmY19RQWVqYXVLNktMeWZ3OGNQcGVDbmlBRV81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1dEZG9UMmxJZUZFelpqa3dkVUpuVVV4cFdGSkdNelJ3U2xCV1gwWjBWMHA0YVdzeWJ6bEphV1JEZHpsbmNUbFJjbUZYZVhoU1ZqVXROWFkzTlVwU1QxbzVMVUpZVmxSa01uSkVUM2MyV1Y4eFgzSnpZMVl0TTBWSFFSSVhVVUZsYW1GMVN6WkxUSGxtZHpoalVIQmxRMjVwUVVVYUlrRkVjM0k1WmxObFZVWmxTemhNUW1wRGVucERjM041WjBOSlVtNVRVVlpaV1djIiwiZmN2IjoiMyIsImVpIjoiUUFlamF1SzZLTHlmdzhjUHBlQ25pQUUiLCJxYyI6IkNoMXpiM1YwYUdWaGMzUWdjbUZzWldsbmFDQm9hV2RvSUhOamFHOXZiQkFBZmREU0VUOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyBTb3V0aGVhc3QgUmFsZWlnaCBIaWdoIFNjaG9vbCdzIHJhbmtpbmcgaW4gTm9ydGggQ2Fyb2xpbmE%2FIiwibGsiOiJjNU5TTGM0dkxjbElUU3d1VVNoS3pFbk5UTTlReUFBUnhja1otZms1UUxHODdNeThkQUEiLCJicyI6ImM0V1FNUXZDUUF5RmNiM0otYVlzVXBDaVVsREhnbDA2ZGJDRGk4dlpIcjNETnFtOUs4Vl83N1ZZRWNGMkNZRzg3NzBrTEdQYml4SVdsS2hyaVRJSDE2ZlVXaVdGc1hBV3BkU0Zncmd2YWFhSXlqRFk4VTMzaTVnUDByd1IxUmN6SU96S19DRkVHM0FxdUVtbi01cUR4akhKaHlRS0E1LXZ1eG45R0lNWnE5aHBkSl9jM0RPT3dydkdvamRJcUxFS0l0RlFxVkdFZ2NkWGswZU1MSHV3UTB3ZFZBS2ZZR3liUzdRR0NnSkxjNDg3OHIzNlEwNUdMeGN2IiwiaWQiOiJmY19RQWVqYXVLNktMeWZ3OGNQcGVDbmlBRV81In0%3D"
+  },
+  {
+   "question": "How many students go to Southeast Raleigh High School?",
+   "type": "ai_overview",
+   "page_token": "p5D82XicHdBRbpswAABQ7TL9bHBoOiVSVMkFTKPi1A62wT8T2AGCTWDFC4S_XWFn2Kl2mmk7wPt5P3_by9X8-fKrcW4Yd6vVNE2Pdd_X9vyo-m5VjPerWqnC2rJQZvf89Rm8VGof3hR8_VSQsGHgAfXSGI5aUCJP4FV5m1jE9kOhw4dGri3XDrPlsOGtPBKDf8iuSUU2ZBgBnBtts0X6NLN3uh4OymB8apuwAA1ni64Ea6CIcJAukKSgfuLhPKbC-jjESCKd8cg4KrZD6W03xJtzGo4LAw3TKb2LSMI8o72O6ZNA8xvjicNibpWPq-LK_-m25MN7YrYnKWogr7orzIGcACdHwYdjEL1JMTfnKFlEC23e6lueUj9sNCWCf88z_o6NS85C-keEiUI8KDsLKe0vhNFFtbZja-DOFzAVcT4nnXXEAxe1QKE9F2CkU2Gwk9NDpW57_-H_9f5b1bnd8NnXfwEpxI61",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=p5D82XicHdBRbpswAABQ7TL9bHBoOiVSVMkFTKPi1A62wT8T2AGCTWDFC4S_XWFn2Kl2mmk7wPt5P3_by9X8-fKrcW4Yd6vVNE2Pdd_X9vyo-m5VjPerWqnC2rJQZvf89Rm8VGof3hR8_VSQsGHgAfXSGI5aUCJP4FV5m1jE9kOhw4dGri3XDrPlsOGtPBKDf8iuSUU2ZBgBnBtts0X6NLN3uh4OymB8apuwAA1ni64Ea6CIcJAukKSgfuLhPKbC-jjESCKd8cg4KrZD6W03xJtzGo4LAw3TKb2LSMI8o72O6ZNA8xvjicNibpWPq-LK_-m25MN7YrYnKWogr7orzIGcACdHwYdjEL1JMTfnKFlEC23e6lueUj9sNCWCf88z_o6NS85C-keEiUI8KDsLKe0vhNFFtbZja-DOFzAVcT4nnXXEAxe1QKE9F2CkU2Gwk9NDpW57_-H_9f5b1bnd8NnXfwEpxI61",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1dEZG9UMmxJZUZFelpqa3dkVUpuVVV4cFdGSkdNelJ3U2xCV1gwWjBWMHA0YVdzeWJ6bEphV1JEZHpsbmNUbFJjbUZYZVhoU1ZqVXROWFkzTlVwU1QxbzVMVUpZVmxSa01uSkVUM2MyV1Y4eFgzSnpZMVl0TTBWSFFSSVhVVUZsYW1GMVN6WkxUSGxtZHpoalVIQmxRMjVwUVVVYUlrRkVjM0k1WmxObFZVWmxTemhNUW1wRGVucERjM041WjBOSlVtNVRVVlpaV1djIiwiZmN2IjoiMyIsImVpIjoiUUFlamF1SzZLTHlmdzhjUHBlQ25pQUUiLCJxYyI6IkNoMXpiM1YwYUdWaGMzUWdjbUZzWldsbmFDQm9hV2RvSUhOamFHOXZiQkFBZmREU0VUOCIsInF1ZXN0aW9uIjoiSG93IG1hbnkgc3R1ZGVudHMgZ28gdG8gU291dGhlYXN0IFJhbGVpZ2ggSGlnaCBTY2hvb2w/IiwibGsiOiJjNU15emNndlY4aE56S3RVS0M0cFRVbk5LeWxXU005WEtNbFhLTTR2TGNsSVRTd3VVU2hLekVuTlRNOVF5QUFSeGNrWi1mazVBQSIsImJzIjoiYzRXUU1RdkNRQXlGY2IzSi1hWXNVcENpVWxESGdsMDZkYkNEaTh2WkhyM0ROcW05SzhWXzc3VllFY0YyQ1lHODc3MGtMR1BiaXhJV2xLaHJpVElIMTZmVVdpV0ZzWEFXcGRTRmdyZ3ZhYWFJeWpEWThVMzNpNWdQMHJ3UjFSY3pJT3pLX0NGRUczQXF1RW1uLTVxRHhqSEpoeVFLQTUtdnV4bjlHSU1acTlocGRKX2MzRE9Pd3J2R29qZElxTEVLSXRGUXFWR0VnY2RYazBlTUxIdXdRMHdkVkFLZllHeWJTN1FHQ2dKTGM0ODc4cjM2UTA1R0x4Y3YiLCJpZCI6ImZjX1FBZWphdUs2S0x5Znc4Y1BwZUNuaUFFXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1dEZG9UMmxJZUZFelpqa3dkVUpuVVV4cFdGSkdNelJ3U2xCV1gwWjBWMHA0YVdzeWJ6bEphV1JEZHpsbmNUbFJjbUZYZVhoU1ZqVXROWFkzTlVwU1QxbzVMVUpZVmxSa01uSkVUM2MyV1Y4eFgzSnpZMVl0TTBWSFFSSVhVVUZsYW1GMVN6WkxUSGxtZHpoalVIQmxRMjVwUVVVYUlrRkVjM0k1WmxObFZVWmxTemhNUW1wRGVucERjM041WjBOSlVtNVRVVlpaV1djIiwiZmN2IjoiMyIsImVpIjoiUUFlamF1SzZLTHlmdzhjUHBlQ25pQUUiLCJxYyI6IkNoMXpiM1YwYUdWaGMzUWdjbUZzWldsbmFDQm9hV2RvSUhOamFHOXZiQkFBZmREU0VUOCIsInF1ZXN0aW9uIjoiSG93IG1hbnkgc3R1ZGVudHMgZ28gdG8gU291dGhlYXN0IFJhbGVpZ2ggSGlnaCBTY2hvb2w%2FIiwibGsiOiJjNU15emNndlY4aE56S3RVS0M0cFRVbk5LeWxXU005WEtNbFhLTTR2TGNsSVRTd3VVU2hLekVuTlRNOVF5QUFSeGNrWi1mazVBQSIsImJzIjoiYzRXUU1RdkNRQXlGY2IzSi1hWXNVcENpVWxESGdsMDZkYkNEaTh2WkhyM0ROcW05SzhWXzc3VllFY0YyQ1lHODc3MGtMR1BiaXhJV2xLaHJpVElIMTZmVVdpV0ZzWEFXcGRTRmdyZ3ZhYWFJeWpEWThVMzNpNWdQMHJ3UjFSY3pJT3pLX0NGRUczQXF1RW1uLTVxRHhqSEpoeVFLQTUtdnV4bjlHSU1acTlocGRKX2MzRE9Pd3J2R29qZElxTEVLSXRGUXFWR0VnY2RYazBlTUxIdXdRMHdkVkFLZllHeWJTN1FHQ2dKTGM0ODc4cjM2UTA1R0x4Y3YiLCJpZCI6ImZjX1FBZWphdUs2S0x5Znc4Y1BwZUNuaUFFXzUifQ%3D%3D"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Southeast Raleigh High School",
+   "link": "https://www.usnews.com/education/best-high-schools/north-carolina/districts/wake-county-schools/southeast-raleigh-high-school-14756",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESvAEB6zswFbiNWJvUE4XP84bagEvPqqldR6fwaDE4OFFadosOTzfVxLGwMO5mf7ovHBf1EtoWI-OCfv3-HjFZBrvaIZUwKo6ZYFEFs6hEpjBiscv16c_1JBv8IsZVkLtihAP_x_m-jJOpSQOzcZUemIEWaGhRs77KmF1iDIaGr4zoGdQf2WAFbBbk7xTmvO3Ylo3r4aeAeMf0zxKh-v_FS6H6C7OAulOGLai3n8-Akv-EGTP7NmPSTdrVvSt9JA&ved=2ahUKEwji2qnr4eSWAxW8z_ACHSXwCREQFnoECEgQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a ... \u203a Wake County Schools",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png",
+   "snippet": "Southeast Raleigh High School is ranked #10,120 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how ...",
+   "snippet_highlighted_words": [
+    "Southeast Raleigh High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Southeast Raleigh High School is ranked #10,120 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/north-carolina/districts/wake-county-schools/southeast-raleigh-high-school-14756",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESvAEB6zswFbiNWJvUE4XP84bagEvPqqldR6fwaDE4OFFadosOTzfVxLGwMO5mf7ovHBf1EtoWI-OCfv3-HjFZBrvaIZUwKo6ZYFEFs6hEpjBiscv16c_1JBv8IsZVkLtihAP_x_m-jJOpSQOzcZUemIEWaGhRs77KmF1iDIaGr4zoGdQf2WAFbBbk7xTmvO3Ylo3r4aeAeMf0zxKh-v_FS6H6C7OAulOGLai3n8-Akv-EGTP7NmPSTdrVvSt9JA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESvAEB6zswFbiNWJvUE4XP84bagEvPqqldR6fwaDE4OFFadosOTzfVxLGwMO5mf7ovHBf1EtoWI-OCfv3-HjFZBrvaIZUwKo6ZYFEFs6hEpjBiscv16c_1JBv8IsZVkLtihAP_x_m-jJOpSQOzcZUemIEWaGhRs77KmF1iDIaGr4zoGdQf2WAFbBbk7xTmvO3Ylo3r4aeAeMf0zxKh-v_FS6H6C7OAulOGLai3n8-Akv-EGTP7NmPSTdrVvSt9JA",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/north-carolina/districts/wake-county-schools/southeast-raleigh-high-school-14756#:~:text=Southeast%20Raleigh%20High%20School%20is,they%20prepare%20students%20for%20college."
+  },
+  {
+   "position": 2,
+   "title": "Southeast Raleigh High School - Bulldogs Official Athletic ...",
+   "link": "https://www.southeastraleighathleticzone.com/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZQHrOzAVHa6MX1Gt5jvAIzhONXrLfSK4BbyStx4VhQN4EAQH5VE51_jf1b-SC-5tOvzTp918V3IwW5ixyK-flWgt5i70j6wa_qVQ0h-3ANnngScgcsBpCpxfovjgIPwa2QcXOwkG&ved=2ahUKEwji2qnr4eSWAxW8z_ACHSXwCREQFnoECEcQAQ&uoh=1",
+   "displayed_link": "https://www.southeastraleighathleticzone.com",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA21BMVEUALGIAK2MROUgYPEYMMl8CL18QOFIMNFgYPU8NMzQAKy5cancdMkcFMTIvR0pWY287TVcALS0QKz56hI9xeogFLmM2RlSiqbFRXm2OlqJib36or7ebo6uFjpoxQFIAKmSlrLQpPE9pdYEZPVIQNV0AJSvAxMfR1NkoPUwTNTcAGTZFVGUAEzEAACkgQj9ATV-DjpsAJDkcQUUALDsAFyv6-vrq7O6jrLUAABi3vMEDM0cADCcAIS0YQDMAGSYRK0IUQixofXRSampxhIQVQSja3uR8jZAAKU8AHl7s3rDOAAABaklEQVR4AWKgGADopAtEuUEgAKDhSwxWYUvIkOysu7u73P9C9fJTmyg8HAj5-SZf4w-yXl7fCHm3Hcv1POc3fX_1KfO9VDqTzeW5SBWS9exPMlA85KAh0gDxazGhBU_EgAi0pEGXQWUrJFG1WlMlHWbqjUiLIMObbhILLdbudLs0FhGC6vWTzVr9wZCVVESHIKWEziip4wHjAVCqMhRRomhPbPKr0cpUi4ZSszlvzAVH5KztGbSbEatz3pjNZ5qHKBWNqEs-cKhwEQVLHfcUSiyv1NrgRgeDQYfKhQIGUqLYdisGBeUcAL9l869v6OxG9i-spsM9Q1QoYfCtoj4MPLO8xco0KjfVQMNXRNDdRn1CLKMtCcfdthuImHI6apWy9gcSJ9We7E7ny_Wa08Fk9Fr4ZkaLdouJW-dyj-e0ZfbEsPXQUNfn1OTVSpiJoNGgiydJkonHPZx1ntZ_4ulUHPL_41kk1pdRCQAAqlMpv8gVfoUAAAAASUVORK5CYII.png",
+   "snippet": "Welcome to the official athletic website for the Southeast Raleigh High School Bulldogs. Stay up to date with Southeast Raleigh High School event schedules, ...",
+   "snippet_highlighted_words": [
+    "Southeast Raleigh High School",
+    "Southeast Raleigh High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Welcome to the official athletic website for the Southeast Raleigh High School Bulldogs. Stay up to date with Southeast Raleigh High School event schedules, ...",
+     "source_info_link": "https://www.southeastraleighathleticzone.com/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA21BMVEUALGIAK2MROUgYPEYMMl8CL18QOFIMNFgYPU8NMzQAKy5cancdMkcFMTIvR0pWY287TVcALS0QKz56hI9xeogFLmM2RlSiqbFRXm2OlqJib36or7ebo6uFjpoxQFIAKmSlrLQpPE9pdYEZPVIQNV0AJSvAxMfR1NkoPUwTNTcAGTZFVGUAEzEAACkgQj9ATV-DjpsAJDkcQUUALDsAFyv6-vrq7O6jrLUAABi3vMEDM0cADCcAIS0YQDMAGSYRK0IUQixofXRSampxhIQVQSja3uR8jZAAKU8AHl7s3rDOAAABaklEQVR4AWKgGADopAtEuUEgAKDhSwxWYUvIkOysu7u73P9C9fJTmyg8HAj5-SZf4w-yXl7fCHm3Hcv1POc3fX_1KfO9VDqTzeW5SBWS9exPMlA85KAh0gDxazGhBU_EgAi0pEGXQWUrJFG1WlMlHWbqjUiLIMObbhILLdbudLs0FhGC6vWTzVr9wZCVVESHIKWEziip4wHjAVCqMhRRomhPbPKr0cpUi4ZSszlvzAVH5KztGbSbEatz3pjNZ5qHKBWNqEs-cKhwEQVLHfcUSiyv1NrgRgeDQYfKhQIGUqLYdisGBeUcAL9l869v6OxG9i-spsM9Q1QoYfCtoj4MPLO8xco0KjfVQMNXRNDdRn1CLKMtCcfdthuImHI6apWy9gcSJ9We7E7ny_Wa08Fk9Fr4ZkaLdouJW-dyj-e0ZfbEsPXQUNfn1OTVSpiJoNGgiydJkonHPZx1ntZ_4ulUHPL_41kk1pdRCQAAqlMpv8gVfoUAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESZQHrOzAVHa6MX1Gt5jvAIzhONXrLfSK4BbyStx4VhQN4EAQH5VE51_jf1b-SC-5tOvzTp918V3IwW5ixyK-flWgt5i70j6wa_qVQ0h-3ANnngScgcsBpCpxfovjgIPwa2QcXOwkG&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESZQHrOzAVHa6MX1Gt5jvAIzhONXrLfSK4BbyStx4VhQN4EAQH5VE51_jf1b-SC-5tOvzTp918V3IwW5ixyK-flWgt5i70j6wa_qVQ0h-3ANnngScgcsBpCpxfovjgIPwa2QcXOwkG",
+   "source": "southeastraleighathleticzone.com"
+  },
+  {
+   "position": 3,
+   "title": "Southeast Raleigh High School in Raleigh, NC",
+   "link": "https://www.niche.com/k12/southeast-raleigh-high-school-raleigh-nc/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESewHrOzAVU8ZmekhdsTchzavfHElH3-x_Gz3sG8JAY6tkUUd5owhSKDQWSyhIN_coNiptDofGrjdiX0vadpRS0uVGR8bk-7F3j3iY0xznDHWcTf8PXwFDpfk6a8T7JaMHtkk-amWdaGfypWLoPF61LKaxvI5qZFmmDX3qDg&ved=2ahUKEwji2qnr4eSWAxW8z_ACHSXwCREQFnoECF8QAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a North Carolina",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png",
+   "snippet": "Southeast Raleigh High School is a public, magnet school located in RALEIGH, NC. It has 1438 students in grades 9-12 with a student-teacher ratio of 14 to 1 ...",
+   "snippet_highlighted_words": [
+    "Southeast Raleigh High School"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 3.6,
+      "reviews": 410
+     },
+     "extensions": [
+      "3.6(410)"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Southeast Raleigh High School is a public, magnet school located in RALEIGH, NC. It has 1438 students in grades 9-12 with a student-teacher ratio of 14 to 1 ...",
+     "source_info_link": "https://www.niche.com/k12/southeast-raleigh-high-school-raleigh-nc/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESewHrOzAVU8ZmekhdsTchzavfHElH3-x_Gz3sG8JAY6tkUUd5owhSKDQWSyhIN_coNiptDofGrjdiX0vadpRS0uVGR8bk-7F3j3iY0xznDHWcTf8PXwFDpfk6a8T7JaMHtkk-amWdaGfypWLoPF61LKaxvI5qZFmmDX3qDg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESewHrOzAVU8ZmekhdsTchzavfHElH3-x_Gz3sG8JAY6tkUUd5owhSKDQWSyhIN_coNiptDofGrjdiX0vadpRS0uVGR8bk-7F3j3iY0xznDHWcTf8PXwFDpfk6a8T7JaMHtkk-amWdaGfypWLoPF61LKaxvI5qZFmmDX3qDg",
+   "source": "Niche"
+  },
+  {
+   "position": 4,
+   "title": "Southeast Raleigh High School",
+   "link": "https://www.nfhsnetwork.com/schools/southeast-raleigh-high-school-raleigh-nc",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShAEB6zswFV4zD08FuPlElYQQeoXQwtMDm2ZKTAaLwO8krzituk973kMrbbnoHtljL2sQSBRwXt5xgk0zh3iyKY6DXuCqweUzN3lANVKe30mc3431wcVnS43b2XJX4eKtYXcz4lN_Eods0yh199YzCdRIm8f2yHZrD9uyM6xOSDCUJn_Tw9M&ved=2ahUKEwji2qnr4eSWAxW8z_ACHSXwCREQFnoECGAQAQ&uoh=1",
+   "displayed_link": "https://www.nfhsnetwork.com \u203a Schools",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAARVBMVEVHcEwUFBQUFBQUFBQUFBQUFBQUFBQREREAAAAJCQn___-RkZGwsLBhYWEdHR3Z2dnLy8vDw8NAQEB6enrz8_Pk5OSjo6M76K9DAAAAB3RSTlMAT73z_8nI5vE1ZQAAAPRJREFUeAF9kwWCxCAQBGO7NM0QLPD_px5wkVMqghQuU2Ve1u0H6zJPndf2J6__XeVd29z-ZZ6W_-Uyrf_LddoGdKlU_9Wgvz1-SQVg06jUn8LJKUEaCCuW3B2lxT1OGcgYGWzajwxD647ojksWZu7MwSAfwTE65hL1JZti9k2KZ9TGkU-zsGQB9Nlsjv6W5AZDgW4Dyp8DyqdU0PjNNRUPMZJcMiUW60r0ydiCU9YhSkCGd6FkuORECHVKn7IIHLw5onhng9SWrj43KLWrTWlAI0Jhb2-T3fZF77FN1-BMDbdsuNnDYzI-YNN7cDSrHbjBdfgAvqIUspFQipUAAAAASUVORK5CYII.png",
+   "snippet": "Southeast Raleigh High School, located in the city of Raleigh, North Carolina, is a highly regarded institution that offers excellent education and a supportive ...",
+   "snippet_highlighted_words": [
+    "Southeast Raleigh High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Southeast Raleigh High School, located in the city of Raleigh, North Carolina, is a highly regarded institution that offers excellent education and a supportive ...",
+     "source_info_link": "https://www.nfhsnetwork.com/schools/southeast-raleigh-high-school-raleigh-nc",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAARVBMVEVHcEwUFBQUFBQUFBQUFBQUFBQUFBQREREAAAAJCQn___-RkZGwsLBhYWEdHR3Z2dnLy8vDw8NAQEB6enrz8_Pk5OSjo6M76K9DAAAAB3RSTlMAT73z_8nI5vE1ZQAAAPRJREFUeAF9kwWCxCAQBGO7NM0QLPD_px5wkVMqghQuU2Ve1u0H6zJPndf2J6__XeVd29z-ZZ6W_-Uyrf_LddoGdKlU_9Wgvz1-SQVg06jUn8LJKUEaCCuW3B2lxT1OGcgYGWzajwxD647ojksWZu7MwSAfwTE65hL1JZti9k2KZ9TGkU-zsGQB9Nlsjv6W5AZDgW4Dyp8DyqdU0PjNNRUPMZJcMiUW60r0ydiCU9YhSkCGd6FkuORECHVKn7IIHLw5onhng9SWrj43KLWrTWlAI0Jhb2-T3fZF77FN1-BMDbdsuNnDYzI-YNN7cDSrHbjBdfgAvqIUspFQipUAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEShAEB6zswFV4zD08FuPlElYQQeoXQwtMDm2ZKTAaLwO8krzituk973kMrbbnoHtljL2sQSBRwXt5xgk0zh3iyKY6DXuCqweUzN3lANVKe30mc3431wcVnS43b2XJX4eKtYXcz4lN_Eods0yh199YzCdRIm8f2yHZrD9uyM6xOSDCUJn_Tw9M&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEShAEB6zswFV4zD08FuPlElYQQeoXQwtMDm2ZKTAaLwO8krzituk973kMrbbnoHtljL2sQSBRwXt5xgk0zh3iyKY6DXuCqweUzN3lANVKe30mc3431wcVnS43b2XJX4eKtYXcz4lN_Eods0yh199YzCdRIm8f2yHZrD9uyM6xOSDCUJn_Tw9M",
+   "source": "NFHS Network",
+   "read_more_link": "https://www.nfhsnetwork.com/schools/southeast-raleigh-high-school-raleigh-nc#:~:text=Southeast%20Raleigh%20High%20School%2C%20located,education%20and%20a%20supportive%20community."
+  },
+  {
+   "position": 5,
+   "title": "Southeast Raleigh High School",
+   "link": "https://fan.hudl.com/usa/nc/raleigh/organization/14680/southeast-raleigh-high-school",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjAEB6zswFduNTxEUV4VFRF7gfH8J9sA-QThqLhXfFBDhTzKkwrk5wXRhT9ziZHCQB4Z3SdTXok618ONyXRjz9QFvwSre698xJ3zEUb66Tx5mJq3Rr8AAamuVxz3hBT04c-1QvhBwsq_dzRnJ_sQGHFepEidPw0Ds-QpMWVNktk-0JOdfEIHOQ0vCT4bmWg&ved=2ahUKEwji2qnr4eSWAxW8z_ACHSXwCREQFnoECGIQAQ&uoh=1",
+   "displayed_link": "https://fan.hudl.com \u203a usa \u203a raleigh \u203a organization \u203a sout...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACoUlEQVR4AWIYcgBQezXAWBJEwTrbtm3btm3bts3obNv2BWfbtu27vurN5KczXy87-yup4UO1u1VLpFRtsJC8oVrjJe8PyBOqLRbw3lA1QfSQT9oeGZk4put9JEKrdijMhGvIP6Qy-IGcqDohVvATtkIyJsymmiMOg00h_waxNU6RHVUzRDFsM_PfSVKZZI08oW15MjHfc4kE0bgWje_ag3kJ3sSokbD8Ps2P3x9yI32TwhP4swX5z3QSCFnKmooIC3wfJvB7zJpNYm_jRPzxVZ4c78mFrIWyuj_YCjJf4L8ZJqh8oDDxX9rO9tWetOkqjJPAdFotrPJGgn40V1iYMmYNrBA5tUZe-AHtZopitUIJ06mXwOmr7nACAS0EsX6Z84ruhHF1x_JT_TMggKqHSLR_7kfAQtjBBHV9OJxUnREVQjBWMfp89xLrvll6s-rSejB-RY7XpYIBoYhMOpmHmEe9Tb-5bYbHFRAKDsAYOzwIOOdt-KS2GfaFQzDmdlvM32QVbyteZJtxETgEY-wz4v0gG_pzeORyoKAQEPDM1fEkBaLRPGvIfTP3ApDDvr68J8fq5dvqZwX4ntVXm1W3FL82RO0lxwSj_aNpgjCSX7UvXvZJJAyNrpE_rRGgBVx2Lb1tEBumbXskJxPBB3Qca4H6QUGDJeO3QVDCjohvCrD4hv876bmBfGd816LreYhVWu8XLZvnFBsDGgLFW6m2kiXgOKmEHEq_8rrdyZu2qbwupNBTJZ06WAKWk8ohZ0IMY-drdabeDpMv1LGczGYZgpn4FzlINJ0LOmYr6wCihDyg2iEnQhKqGyIw8D1B8jkIFFRr9PO79-eBBoGBdQBpi_0-BAxAoKHaIxxrYjSTvTUSX-G3-gg4bMNUnyH1fhIO8B9y2hgKJeIXdgAAAABJRU5ErkJggg.png",
+   "snippet": "Southeast Raleigh High School \u00b7 Mens Varsity. Baseball \u00b7 Mens Junior. Varsity Baseball \u00b7 Mens Varsity. Basketball \u00b7 Womens Varsity. Basketball \u00b7 Mens Junior Varsity.",
+   "snippet_highlighted_words": [
+    "Southeast Raleigh High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Southeast Raleigh High School \u00b7 Mens Varsity. Baseball \u00b7 Mens Junior. Varsity Baseball \u00b7 Mens Varsity. Basketball \u00b7 Womens Varsity. Basketball \u00b7 Mens Junior Varsity.",
+     "source_info_link": "https://fan.hudl.com/usa/nc/raleigh/organization/14680/southeast-raleigh-high-school",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACoUlEQVR4AWIYcgBQezXAWBJEwTrbtm3btm3bts3obNv2BWfbtu27vurN5KczXy87-yup4UO1u1VLpFRtsJC8oVrjJe8PyBOqLRbw3lA1QfSQT9oeGZk4put9JEKrdijMhGvIP6Qy-IGcqDohVvATtkIyJsymmiMOg00h_waxNU6RHVUzRDFsM_PfSVKZZI08oW15MjHfc4kE0bgWje_ag3kJ3sSokbD8Ps2P3x9yI32TwhP4swX5z3QSCFnKmooIC3wfJvB7zJpNYm_jRPzxVZ4c78mFrIWyuj_YCjJf4L8ZJqh8oDDxX9rO9tWetOkqjJPAdFotrPJGgn40V1iYMmYNrBA5tUZe-AHtZopitUIJ06mXwOmr7nACAS0EsX6Z84ruhHF1x_JT_TMggKqHSLR_7kfAQtjBBHV9OJxUnREVQjBWMfp89xLrvll6s-rSejB-RY7XpYIBoYhMOpmHmEe9Tb-5bYbHFRAKDsAYOzwIOOdt-KS2GfaFQzDmdlvM32QVbyteZJtxETgEY-wz4v0gG_pzeORyoKAQEPDM1fEkBaLRPGvIfTP3ApDDvr68J8fq5dvqZwX4ntVXm1W3FL82RO0lxwSj_aNpgjCSX7UvXvZJJAyNrpE_rRGgBVx2Lb1tEBumbXskJxPBB3Qca4H6QUGDJeO3QVDCjohvCrD4hv876bmBfGd816LreYhVWu8XLZvnFBsDGgLFW6m2kiXgOKmEHEq_8rrdyZu2qbwupNBTJZ06WAKWk8ohZ0IMY-drdabeDpMv1LGczGYZgpn4FzlINJ0LOmYr6wCihDyg2iEnQhKqGyIw8D1B8jkIFFRr9PO79-eBBoGBdQBpi_0-BAxAoKHaIxxrYjSTvTUSX-G3-gg4bMNUnyH1fhIO8B9y2hgKJeIXdgAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESjAEB6zswFduNTxEUV4VFRF7gfH8J9sA-QThqLhXfFBDhTzKkwrk5wXRhT9ziZHCQB4Z3SdTXok618ONyXRjz9QFvwSre698xJ3zEUb66Tx5mJq3Rr8AAamuVxz3hBT04c-1QvhBwsq_dzRnJ_sQGHFepEidPw0Ds-QpMWVNktk-0JOdfEIHOQ0vCT4bmWg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESjAEB6zswFduNTxEUV4VFRF7gfH8J9sA-QThqLhXfFBDhTzKkwrk5wXRhT9ziZHCQB4Z3SdTXok618ONyXRjz9QFvwSre698xJ3zEUb66Tx5mJq3Rr8AAamuVxz3hBT04c-1QvhBwsq_dzRnJ_sQGHFepEidPw0Ds-QpMWVNktk-0JOdfEIHOQ0vCT4bmWg",
+   "source": "Hudl - Fan",
+   "read_more_link": "https://fan.hudl.com/usa/nc/raleigh/organization/14680/southeast-raleigh-high-school#:~:text=Southeast%20Raleigh%20High%20School&text=Mens%20Varsity,Baseball&text=Mens%20Junior,Varsity%20Baseball&text=Mens%20Varsity,Basketball&text=Womens%20Varsity,Basketball&text=Mens%20Junior%20Varsity"
+  },
+  {
+   "position": 6,
+   "title": "Southeast Raleigh High School",
+   "link": "https://www.wral.com/tags/southeast-raleigh-high-school/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHrOzAVjoxwDbGopEWfHWOFxDVbkrLpkzFZE_vGhJFI9uDx43kc6GcJSNZe4n3Jw46Niv-YeaFt2_NzR3W1QxgGANjocv8ielaMnpHlWJHPrE0PFPfa2ZksjgUbXqQKDFqO9qJ222zGiFoILDXbIIg&ved=2ahUKEwji2qnr4eSWAxW8z_ACHSXwCREQFnoECGEQAQ&uoh=1",
+   "displayed_link": "https://www.wral.com \u203a tags \u203a southeast-raleigh-high-sc...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEUANHMAMHEAMnIAMHAIOHYsUocpToQdSIAMO3emssjf5e1me6D___9Tc593ja87W4yClrXz9_uVpb9edJzn7vUAHGgALW9PbZhugKPr7_QxSX7X3ueGnrsbQnxwhacAAFoAEGPL1eGdq8EAImo5VIQAIGsAKW5kgai2xNcAAGFJZpOtvNEAFWeYp8A3WotneJyhNpK8AAAA3ElEQVR4AeUQgwEEMSzNse3Ztrn_dG_t8FEbA_4IyAPwxgIC3OiuPV0oSvINJeUuRIKKCref-M6kjGu6YVq243qmT_Ug1KK3k8hxkma5qcRFyZyqbtpA68g7s495Uw9jf3N6BUz1gD9Of6Img3H2KM2GJfQS8uMciljS3KWKC7cOxsrmw82J73k7z6hX2Y-LTVssN6W91gWS_Eoe2O6wYYuLWTOkymKb1rXR8XK2zek2_WHvbVq7g2G7WuR60suJuarmRJYlVQxN8ryJBAgvLwLejwYYECBPQPgbuAJlGxEWWaVFhAAAAABJRU5ErkJggg.png",
+   "snippet": "Students at Southeast Raleigh High School are returning to class for the first time since one of their classmates was stabbed to death on Monday. Extra security ...",
+   "snippet_highlighted_words": [
+    "Southeast Raleigh High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Students at Southeast Raleigh High School are returning to class for the first time since one of their classmates was stabbed to death on Monday. Extra security ...",
+     "source_info_link": "https://www.wral.com/tags/southeast-raleigh-high-school/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEUANHMAMHEAMnIAMHAIOHYsUocpToQdSIAMO3emssjf5e1me6D___9Tc593ja87W4yClrXz9_uVpb9edJzn7vUAHGgALW9PbZhugKPr7_QxSX7X3ueGnrsbQnxwhacAAFoAEGPL1eGdq8EAImo5VIQAIGsAKW5kgai2xNcAAGFJZpOtvNEAFWeYp8A3WotneJyhNpK8AAAA3ElEQVR4AeUQgwEEMSzNse3Ztrn_dG_t8FEbA_4IyAPwxgIC3OiuPV0oSvINJeUuRIKKCref-M6kjGu6YVq243qmT_Ug1KK3k8hxkma5qcRFyZyqbtpA68g7s495Uw9jf3N6BUz1gD9Of6Img3H2KM2GJfQS8uMciljS3KWKC7cOxsrmw82J73k7z6hX2Y-LTVssN6W91gWS_Eoe2O6wYYuLWTOkymKb1rXR8XK2zek2_WHvbVq7g2G7WuR60suJuarmRJYlVQxN8ryJBAgvLwLejwYYECBPQPgbuAJlGxEWWaVFhAAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEScAHrOzAVjoxwDbGopEWfHWOFxDVbkrLpkzFZE_vGhJFI9uDx43kc6GcJSNZe4n3Jw46Niv-YeaFt2_NzR3W1QxgGANjocv8ielaMnpHlWJHPrE0PFPfa2ZksjgUbXqQKDFqO9qJ222zGiFoILDXbIIg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEScAHrOzAVjoxwDbGopEWfHWOFxDVbkrLpkzFZE_vGhJFI9uDx43kc6GcJSNZe4n3Jw46Niv-YeaFt2_NzR3W1QxgGANjocv8ielaMnpHlWJHPrE0PFPfa2ZksjgUbXqQKDFqO9qJ222zGiFoILDXbIIg",
+   "source": "WRAL",
+   "read_more_link": "https://www.wral.com/tags/southeast-raleigh-high-school/#:~:text=Students%20at%20Southeast%20Raleigh%20High,security%20will%20be%20on%20campus."
+  },
+  {
+   "position": 7,
+   "title": "Southeast Raleigh High School - North Carolina",
+   "link": "https://www.donorschoose.org/schools/north-carolina/wake-county-public-school-system/southeast-raleigh-high-school/1891",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrwEB6zswFfVp-furzsg6bP9enE7UlZGo3m97E4i7dRYTUhwQtpnCohM8IgARLtI6eQ7TsYl3Ce8PNESd9rZJvstdG9LDR_TtY-PHn_tLC1NPEcQ-4A3S3vm-kBRF84pDbk0Ee0Q18JwWvqfrxBHHmInmdvz1AS-Q61qS73yDdMjEeA8dOuE6Nd9bhQadaO4ksrni9xlJdHeYwPcJWrghlawlRlhCvF9_koUDTVE6Tmp_&ved=2ahUKEwji2qnr4eSWAxW8z_ACHSXwCREQFnoECGUQAQ&uoh=1",
+   "displayed_link": "https://www.donorschoose.org \u203a schools \u203a north-carolina",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEU4A8E4AcE4AME3CMA1DL8zEb0vGLovGboyE7wwFrslA7hhVcaAd9B9dM9lWcgbALe_u-b____e3PJ3bc25teTEwOixrOE2IbzJxeqKgtORitaoot0AALLp5_drYMqak9minNtEM7_oabQTAAAA3klEQVR4AXWSBRIDIQwAITh1d_v_J0uQTI7SHWUWiAqOTIghAEonFMCvUsa6jPUKOmecJZyfysAcolhs2-PIQkhHHzMmVM3j-dl8gSz9KmYZIEuF8VbrTWW7W-WPNT20q_2GOGTrAaVFUBJHtI5-Rck4hfqvZvJ8OWd5XSVpQEgub6v7g_79J28juX6W0POYvx0ntMoJyWEpLyoFfC_3K-pf375Ha58sT5ONuzfymn944xE8xFUmhjbQbKiDHKeBVlINHeEdU6HbP9Ae1xLXM-jB5gptElrAeOslwMR8AZhOFkQFCdvDAAAAAElFTkSuQmCC.png",
+   "snippet": "Southeast Raleigh High School is an urban public school in Raleigh, North Carolina that is part of Wake County Public School System.",
+   "snippet_highlighted_words": [
+    "Southeast Raleigh High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Southeast Raleigh High School is an urban public school in Raleigh, North Carolina that is part of Wake County Public School System.",
+     "source_info_link": "https://www.donorschoose.org/schools/north-carolina/wake-county-public-school-system/southeast-raleigh-high-school/1891",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEU4A8E4AcE4AME3CMA1DL8zEb0vGLovGboyE7wwFrslA7hhVcaAd9B9dM9lWcgbALe_u-b____e3PJ3bc25teTEwOixrOE2IbzJxeqKgtORitaoot0AALLp5_drYMqak9minNtEM7_oabQTAAAA3klEQVR4AXWSBRIDIQwAITh1d_v_J0uQTI7SHWUWiAqOTIghAEonFMCvUsa6jPUKOmecJZyfysAcolhs2-PIQkhHHzMmVM3j-dl8gSz9KmYZIEuF8VbrTWW7W-WPNT20q_2GOGTrAaVFUBJHtI5-Rck4hfqvZvJ8OWd5XSVpQEgub6v7g_79J28juX6W0POYvx0ntMoJyWEpLyoFfC_3K-pf375Ha58sT5ONuzfymn944xE8xFUmhjbQbKiDHKeBVlINHeEdU6HbP9Ae1xLXM-jB5gptElrAeOslwMR8AZhOFkQFCdvDAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESrwEB6zswFfVp-furzsg6bP9enE7UlZGo3m97E4i7dRYTUhwQtpnCohM8IgARLtI6eQ7TsYl3Ce8PNESd9rZJvstdG9LDR_TtY-PHn_tLC1NPEcQ-4A3S3vm-kBRF84pDbk0Ee0Q18JwWvqfrxBHHmInmdvz1AS-Q61qS73yDdMjEeA8dOuE6Nd9bhQadaO4ksrni9xlJdHeYwPcJWrghlawlRlhCvF9_koUDTVE6Tmp_&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESrwEB6zswFfVp-furzsg6bP9enE7UlZGo3m97E4i7dRYTUhwQtpnCohM8IgARLtI6eQ7TsYl3Ce8PNESd9rZJvstdG9LDR_TtY-PHn_tLC1NPEcQ-4A3S3vm-kBRF84pDbk0Ee0Q18JwWvqfrxBHHmInmdvz1AS-Q61qS73yDdMjEeA8dOuE6Nd9bhQadaO4ksrni9xlJdHeYwPcJWrghlawlRlhCvF9_koUDTVE6Tmp_",
+   "source": "DonorsChoose",
+   "read_more_link": "https://www.donorschoose.org/schools/north-carolina/wake-county-public-school-system/southeast-raleigh-high-school/1891#:~:text=Southeast%20Raleigh%20High%20School%20is,Wake%20County%20Public%20School%20System."
+  },
+  {
+   "position": 8,
+   "title": "Southeast Raleigh High School Employees, Location, Alumni",
+   "link": "https://www.linkedin.com/school/southeast-raleigh-high-school/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHrOzAV2BNzsAQx1kCf4TrZRroc3khmHLplO1zLIxtouFLe_zEwHJe9h1vwPbTJlRuazpz_27tFCF116kxjWzeTNwsRN_MKRpU0bxdUIKEGkD23hE0F_j3j4b9hRiK7W9RLq_seZ_U3yFqtTace4crBVkiF_Fs&ved=2ahUKEwji2qnr4eSWAxW8z_ACHSXwCREQFnoECGMQAQ&uoh=1",
+   "displayed_link": "950+ followers",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAm0lEQVR4AWP4__8_RRhMyLfs3sNQvOk_KRikB24ATNB2yhEQJtoQuAEwzVAAYtPVAMJe4Cjf8l-0bsd_RkIGQAGc_ej9t_-TDt_7_-vPXzD_6Yfv_-2nHSXWAAT49P33_z9__4HZl559JM2Aqm3XwXyXGcfA_H___pFmgFj9DjCfp3IrTIgkA5ADbbAbQA6mKDPp9x7YBTOAIgwAVba5DGceMlQAAAAASUVORK5CYII.png",
+   "snippet": "Website: https://www.wcpss.net/southeastraleighhs. External link for Southeast Raleigh High School. Headquarters: Raleigh, North Carolina ...",
+   "snippet_highlighted_words": [
+    "Southeast Raleigh High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Website: https://www.wcpss.net/southeastraleighhs. External link for Southeast Raleigh High School. Headquarters: Raleigh, North Carolina ...",
+     "source_info_link": "https://www.linkedin.com/school/southeast-raleigh-high-school/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAm0lEQVR4AWP4__8_RRhMyLfs3sNQvOk_KRikB24ATNB2yhEQJtoQuAEwzVAAYtPVAMJe4Cjf8l-0bsd_RkIGQAGc_ej9t_-TDt_7_-vPXzD_6Yfv_-2nHSXWAAT49P33_z9__4HZl559JM2Aqm3XwXyXGcfA_H___pFmgFj9DjCfp3IrTIgkA5ADbbAbQA6mKDPp9x7YBTOAIgwAVba5DGceMlQAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdgHrOzAV2BNzsAQx1kCf4TrZRroc3khmHLplO1zLIxtouFLe_zEwHJe9h1vwPbTJlRuazpz_27tFCF116kxjWzeTNwsRN_MKRpU0bxdUIKEGkD23hE0F_j3j4b9hRiK7W9RLq_seZ_U3yFqtTace4crBVkiF_Fs&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdgHrOzAV2BNzsAQx1kCf4TrZRroc3khmHLplO1zLIxtouFLe_zEwHJe9h1vwPbTJlRuazpz_27tFCF116kxjWzeTNwsRN_MKRpU0bxdUIKEGkD23hE0F_j3j4b9hRiK7W9RLq_seZ_U3yFqtTace4crBVkiF_Fs",
+   "source": "LinkedIn \u00b7 Southeast Raleigh High School",
+   "read_more_link": "https://www.linkedin.com/school/southeast-raleigh-high-school/#:~:text=Website,Raleigh%2C%20North%20Carolina"
+  },
+  {
+   "position": 9,
+   "title": "Southeast Raleigh High School (NC) Football",
+   "link": "https://www.maxpreps.com/nc/raleigh/southeast-raleigh-bulldogs/football/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgAEB6zswFXvkqGExgKQIBgfbuymlHPTYLOupH5XuXthyKFl2-Cq2z_tOdLE-3yua6pYQITDnBZfSxxhYZYA5XwJ-AvR0ULqOZ30e0Eyqa--T0lHU_Ac0TW9-QyEv2soa52YTan63lEV6f7p09CgBiXUm63pO3bvsahpV7NaGHil2sQ&ved=2ahUKEwji2qnr4eSWAxW8z_ACHSXwCREQFnoECF4QAQ&uoh=1",
+   "displayed_link": "https://www.maxpreps.com \u203a Football \u203a NC Football",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEzhBADhBADhBADhBQDhBQDhBADhBADhBADhBQDhBQDhBADhBADhBQDhBADhBQBqDGaWAAAAD3RSTlMANHaA7NyWEEjPqCVevglnZLSWAAAAqElEQVQokaWSSxaFIAxDU0pFBM3-d_vkM3pUJ3YAHEJvQwH4GlcIQQUoei_Sv2okD2C7p7ikhrHbzugilnuXMsa1aCZPkYO0pSSgjJWsxs3xW5iV3E6H2v1WsxpXr5OrIbpUQNhjd0XELvoajqadD-Jb5mtNHaLv1obo3rNwhtehRo32wM3ttduJfPled_G5nZr6XVduHt1pXTKXWoHd64PML5nmF_0YP5WLCXU498sLAAAAAElFTkSuQmCC.png",
+   "snippet": "On Thursday, Sep 3, 2026, the Southeast Raleigh Varsity Boys Football team won their game against East Wake High School by a score of 48-6. SRHS48.",
+   "snippet_highlighted_words": [
+    "SRHS"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "On Thursday, Sep 3, 2026, the Southeast Raleigh Varsity Boys Football team won their game against East Wake High School by a score of 48-6. SRHS48.",
+     "source_info_link": "https://www.maxpreps.com/nc/raleigh/southeast-raleigh-bulldogs/football/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEzhBADhBADhBADhBQDhBQDhBADhBADhBADhBQDhBQDhBADhBADhBQDhBADhBQBqDGaWAAAAD3RSTlMANHaA7NyWEEjPqCVevglnZLSWAAAAqElEQVQokaWSSxaFIAxDU0pFBM3-d_vkM3pUJ3YAHEJvQwH4GlcIQQUoei_Sv2okD2C7p7ikhrHbzugilnuXMsa1aCZPkYO0pSSgjJWsxs3xW5iV3E6H2v1WsxpXr5OrIbpUQNhjd0XELvoajqadD-Jb5mtNHaLv1obo3rNwhtehRo32wM3ttduJfPled_G5nZr6XVduHt1pXTKXWoHd64PML5nmF_0YP5WLCXU498sLAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESgAEB6zswFXvkqGExgKQIBgfbuymlHPTYLOupH5XuXthyKFl2-Cq2z_tOdLE-3yua6pYQITDnBZfSxxhYZYA5XwJ-AvR0ULqOZ30e0Eyqa--T0lHU_Ac0TW9-QyEv2soa52YTan63lEV6f7p09CgBiXUm63pO3bvsahpV7NaGHil2sQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESgAEB6zswFXvkqGExgKQIBgfbuymlHPTYLOupH5XuXthyKFl2-Cq2z_tOdLE-3yua6pYQITDnBZfSxxhYZYA5XwJ-AvR0ULqOZ30e0Eyqa--T0lHU_Ac0TW9-QyEv2soa52YTan63lEV6f7p09CgBiXUm63pO3bvsahpV7NaGHil2sQ",
+   "source": "MaxPreps",
+   "read_more_link": "https://www.maxpreps.com/nc/raleigh/southeast-raleigh-bulldogs/football/#:~:text=On%20Thursday%2C%20Sep%203%2C%202026%2C,SRHS48"
+  },
+  {
+   "position": 10,
+   "title": "Southeast Raleigh High School Images and Stock Photos",
+   "link": "https://www.gettyimages.com/photos/southeast-raleigh-high-school",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeAHrOzAVUrTcppxryDl5N-YGS0kM_ob9oXTBPPN8bbocSnLq3GsSCqR96KiCcFFKy83TXL4B4nrV5N_PBrOtTKliyr9TItnooE_7QNbZZoVo2i8MLCE7clgF27Y9-wkrziPAchGVO5YZL5EkbvhCjJRA38691Fl2Ng&ved=2ahUKEwji2qnr4eSWAxW8z_ACHSXwCREQFnoECGYQAQ&uoh=1",
+   "displayed_link": "https://www.gettyimages.com \u203a Stock photos",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAABRUlEQVR4AWIwxgMAXdEhrMMgEAZgr2vrCYLlEgz6VF1FvZmpmcDOT-Eq61D4yarJmrppHF7UInjHW7YAZ0r4cj1-KBAEZ1yAlILzBkEM2izmhkzNxvAKQZk9pJTC9nA-xa7utGf61BlTg0JH2vebz7yvD15il3ctKrT03RTIAuGSG1DQqXb66VDjkBvyAp-0GmuUtHWMHMT4bpCqp5nxOckpNwasketI6g8fCW17fWC-OdM-QoNsjR86V4Smk200yt71FTv2tSYKZz3jokVxJTxfdl3M_TYS1zn99zhnONwoSpRi2mL61VtCib2jJGF_HZ9ACyuQL3QFDpVC1O_c2hfYUYOfOFD1c6B1i6dBRbMGR8MtK5C5_yjOru4gCwoKBDxScdgbr6MMy-ZPghheyyTaVxE4zVrr-TrARTZIDCLXBeSv_gBlxk1bLdTn3QAAAABJRU5ErkJggg.png",
+   "snippet": "Browse 29 southeast raleigh high school photos and images available, or start a new search to explore more photos and images.",
+   "snippet_highlighted_words": [
+    "southeast raleigh high school"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Browse 29 southeast raleigh high school photos and images available, or start a new search to explore more photos and images.",
+     "source_info_link": "https://www.gettyimages.com/photos/southeast-raleigh-high-school",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAABRUlEQVR4AWIwxgMAXdEhrMMgEAZgr2vrCYLlEgz6VF1FvZmpmcDOT-Eq61D4yarJmrppHF7UInjHW7YAZ0r4cj1-KBAEZ1yAlILzBkEM2izmhkzNxvAKQZk9pJTC9nA-xa7utGf61BlTg0JH2vebz7yvD15il3ctKrT03RTIAuGSG1DQqXb66VDjkBvyAp-0GmuUtHWMHMT4bpCqp5nxOckpNwasketI6g8fCW17fWC-OdM-QoNsjR86V4Smk200yt71FTv2tSYKZz3jokVxJTxfdl3M_TYS1zn99zhnONwoSpRi2mL61VtCib2jJGF_HZ9ACyuQL3QFDpVC1O_c2hfYUYOfOFD1c6B1i6dBRbMGR8MtK5C5_yjOru4gCwoKBDxScdgbr6MMy-ZPghheyyTaVxE4zVrr-TrARTZIDCLXBeSv_gBlxk1bLdTn3QAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESeAHrOzAVUrTcppxryDl5N-YGS0kM_ob9oXTBPPN8bbocSnLq3GsSCqR96KiCcFFKy83TXL4B4nrV5N_PBrOtTKliyr9TItnooE_7QNbZZoVo2i8MLCE7clgF27Y9-wkrziPAchGVO5YZL5EkbvhCjJRA38691Fl2Ng&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESeAHrOzAVUrTcppxryDl5N-YGS0kM_ob9oXTBPPN8bbocSnLq3GsSCqR96KiCcFFKy83TXL4B4nrV5N_PBrOtTKliyr9TItnooE_7QNbZZoVo2i8MLCE7clgF27Y9-wkrziPAchGVO5YZL5EkbvhCjJRA38691Fl2Ng",
+   "source": "Getty Images",
+   "read_more_link": "https://www.gettyimages.com/photos/southeast-raleigh-high-school#:~:text=southeast%20raleigh%20high%20school%20photos,explore%20more%20photos%20and%20images."
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Southeast raleigh high school football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvrMw_AZLyc6qEYRe943JZqZSelpg:1789069120671&q=Southeast+raleigh+high+school+football&sa=X&ved=2ahUKEwji2qnr4eSWAxW8z_ACHSXwCREQ1QJ6BAhkEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Southeast+raleigh+high+school+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Southeast Raleigh High School football Schedule",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvrMw_AZLyc6qEYRe943JZqZSelpg:1789069120671&q=Southeast+Raleigh+High+School+football+Schedule&sa=X&ved=2ahUKEwji2qnr4eSWAxW8z_ACHSXwCREQ1QJ6BQiDARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Southeast+Raleigh+High+School+football+Schedule"
+  },
+  {
+   "block_position": 1,
+   "query": "Southeast Raleigh High School Calendar",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvrMw_AZLyc6qEYRe943JZqZSelpg:1789069120671&q=Southeast+Raleigh+High+School+Calendar&sa=X&ved=2ahUKEwji2qnr4eSWAxW8z_ACHSXwCREQ1QJ6BQiEARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Southeast+Raleigh+High+School+Calendar"
+  },
+  {
+   "block_position": 1,
+   "query": "Southeast raleigh high school basketball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvrMw_AZLyc6qEYRe943JZqZSelpg:1789069120671&q=Southeast+raleigh+high+school+basketball&sa=X&ved=2ahUKEwji2qnr4eSWAxW8z_ACHSXwCREQ1QJ6BQiCARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Southeast+raleigh+high+school+basketball"
+  },
+  {
+   "block_position": 1,
+   "query": "Southeast Raleigh High School MaxPreps",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvrMw_AZLyc6qEYRe943JZqZSelpg:1789069120671&q=Southeast+Raleigh+High+School+MaxPreps&sa=X&ved=2ahUKEwji2qnr4eSWAxW8z_ACHSXwCREQ1QJ6BAh-EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Southeast+Raleigh+High+School+MaxPreps"
+  },
+  {
+   "block_position": 1,
+   "query": "Southeast raleigh high school graduation 2026",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvrMw_AZLyc6qEYRe943JZqZSelpg:1789069120671&q=Southeast+raleigh+high+school+graduation+2026&sa=X&ved=2ahUKEwji2qnr4eSWAxW8z_ACHSXwCREQ1QJ6BAh3EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Southeast+raleigh+high+school+graduation+2026"
+  },
+  {
+   "block_position": 1,
+   "query": "Southeast Raleigh High School football roster",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvrMw_AZLyc6qEYRe943JZqZSelpg:1789069120671&q=Southeast+Raleigh+High+School+football+roster&sa=X&ved=2ahUKEwji2qnr4eSWAxW8z_ACHSXwCREQ1QJ6BAhvEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Southeast+Raleigh+High+School+football+roster"
+  },
+  {
+   "block_position": 1,
+   "query": "Southeast Raleigh High school stabbing",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvrMw_AZLyc6qEYRe943JZqZSelpg:1789069120671&q=Southeast+Raleigh+High+school+stabbing&sa=X&ved=2ahUKEwji2qnr4eSWAxW8z_ACHSXwCREQ1QJ6BAhpEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Southeast+Raleigh+High+school+stabbing"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Southeast+Raleigh+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvrMw_AZLyc6qEYRe943JZqZSelpg:1789069120671&ei=QAejauK6KLyfw8cPpeCniAE&start=10&sa=N&sstk=AS6-VmLaSDJdCJano1jfjJjhSlLLD_8TJxFY1APT2TvHVdihW4QwTUhHpIyOPfQ6dqWmrGEqPL9faBc9Laz1wPxKLnCP-fQg3X7sLA&ved=2ahUKEwji2qnr4eSWAxW8z_ACHSXwCREQ8NMDegQIUxAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Southeast+Raleigh+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvrMw_AZLyc6qEYRe943JZqZSelpg:1789069120671&ei=QAejauK6KLyfw8cPpeCniAE&start=10&sa=N&sstk=AS6-VmLaSDJdCJano1jfjJjhSlLLD_8TJxFY1APT2TvHVdihW4QwTUhHpIyOPfQ6dqWmrGEqPL9faBc9Laz1wPxKLnCP-fQg3X7sLA&ved=2ahUKEwji2qnr4eSWAxW8z_ACHSXwCREQ8tMDegQIUxAE",
+   "3": "https://www.google.com/search?q=%22Southeast+Raleigh+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvrMw_AZLyc6qEYRe943JZqZSelpg:1789069120671&ei=QAejauK6KLyfw8cPpeCniAE&start=20&sa=N&sstk=AS6-VmLaSDJdCJano1jfjJjhSlLLD_8TJxFY1APT2TvHVdihW4QwTUhHpIyOPfQ6dqWmrGEqPL9faBc9Laz1wPxKLnCP-fQg3X7sLA&ved=2ahUKEwji2qnr4eSWAxW8z_ACHSXwCREQ8tMDegQIUxAG",
+   "4": "https://www.google.com/search?q=%22Southeast+Raleigh+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvrMw_AZLyc6qEYRe943JZqZSelpg:1789069120671&ei=QAejauK6KLyfw8cPpeCniAE&start=30&sa=N&sstk=AS6-VmLaSDJdCJano1jfjJjhSlLLD_8TJxFY1APT2TvHVdihW4QwTUhHpIyOPfQ6dqWmrGEqPL9faBc9Laz1wPxKLnCP-fQg3X7sLA&ved=2ahUKEwji2qnr4eSWAxW8z_ACHSXwCREQ8tMDegQIUxAI",
+   "5": "https://www.google.com/search?q=%22Southeast+Raleigh+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvrMw_AZLyc6qEYRe943JZqZSelpg:1789069120671&ei=QAejauK6KLyfw8cPpeCniAE&start=40&sa=N&sstk=AS6-VmLaSDJdCJano1jfjJjhSlLLD_8TJxFY1APT2TvHVdihW4QwTUhHpIyOPfQ6dqWmrGEqPL9faBc9Laz1wPxKLnCP-fQg3X7sLA&ved=2ahUKEwji2qnr4eSWAxW8z_ACHSXwCREQ8tMDegQIUxAK",
+   "6": "https://www.google.com/search?q=%22Southeast+Raleigh+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvrMw_AZLyc6qEYRe943JZqZSelpg:1789069120671&ei=QAejauK6KLyfw8cPpeCniAE&start=50&sa=N&sstk=AS6-VmLaSDJdCJano1jfjJjhSlLLD_8TJxFY1APT2TvHVdihW4QwTUhHpIyOPfQ6dqWmrGEqPL9faBc9Laz1wPxKLnCP-fQg3X7sLA&ved=2ahUKEwji2qnr4eSWAxW8z_ACHSXwCREQ8tMDegQIUxAM",
+   "7": "https://www.google.com/search?q=%22Southeast+Raleigh+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvrMw_AZLyc6qEYRe943JZqZSelpg:1789069120671&ei=QAejauK6KLyfw8cPpeCniAE&start=60&sa=N&sstk=AS6-VmLaSDJdCJano1jfjJjhSlLLD_8TJxFY1APT2TvHVdihW4QwTUhHpIyOPfQ6dqWmrGEqPL9faBc9Laz1wPxKLnCP-fQg3X7sLA&ved=2ahUKEwji2qnr4eSWAxW8z_ACHSXwCREQ8tMDegQIUxAO",
+   "8": "https://www.google.com/search?q=%22Southeast+Raleigh+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvrMw_AZLyc6qEYRe943JZqZSelpg:1789069120671&ei=QAejauK6KLyfw8cPpeCniAE&start=70&sa=N&sstk=AS6-VmLaSDJdCJano1jfjJjhSlLLD_8TJxFY1APT2TvHVdihW4QwTUhHpIyOPfQ6dqWmrGEqPL9faBc9Laz1wPxKLnCP-fQg3X7sLA&ved=2ahUKEwji2qnr4eSWAxW8z_ACHSXwCREQ8tMDegQIUxAQ",
+   "9": "https://www.google.com/search?q=%22Southeast+Raleigh+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvrMw_AZLyc6qEYRe943JZqZSelpg:1789069120671&ei=QAejauK6KLyfw8cPpeCniAE&start=80&sa=N&sstk=AS6-VmLaSDJdCJano1jfjJjhSlLLD_8TJxFY1APT2TvHVdihW4QwTUhHpIyOPfQ6dqWmrGEqPL9faBc9Laz1wPxKLnCP-fQg3X7sLA&ved=2ahUKEwji2qnr4eSWAxW8z_ACHSXwCREQ8tMDegQIUxAS",
+   "10": "https://www.google.com/search?q=%22Southeast+Raleigh+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvrMw_AZLyc6qEYRe943JZqZSelpg:1789069120671&ei=QAejauK6KLyfw8cPpeCniAE&start=90&sa=N&sstk=AS6-VmLaSDJdCJano1jfjJjhSlLLD_8TJxFY1APT2TvHVdihW4QwTUhHpIyOPfQ6dqWmrGEqPL9faBc9Laz1wPxKLnCP-fQg3X7sLA&ved=2ahUKEwji2qnr4eSWAxW8z_ACHSXwCREQ8tMDegQIUxAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Southeast+Raleigh+High+School%22&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Southeast+Raleigh+High+School%22&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Southeast+Raleigh+High+School%22&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Southeast+Raleigh+High+School%22&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Southeast+Raleigh+High+School%22&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Southeast+Raleigh+High+School%22&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Southeast+Raleigh+High+School%22&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Southeast+Raleigh+High+School%22&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Southeast+Raleigh+High+School%22&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Southeast+Raleigh+High+School%22&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Southeast+Raleigh+High+School%22&start=90"
+  }
+ }
+}

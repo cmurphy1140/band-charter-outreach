@@ -178,12 +178,17 @@ page title. It has unit tests but no real-page fixture yet.
 1. **Macy's, Chicago, Rose press releases have zero rows** until someone saves
    the pages from a normal browser into the exact `data/raw/<host>/<sha1>.html`
    paths that `make scrape` prints. This is the highest-value manual step.
-2. **41 stateless rows** (Hollywood) cannot be NCES-matched and score geography
-   at the floor.
-3. **60 of the 214 schools have no NCES website**, so no crawl, so no
-   contact; a further 20 school sites blocked the crawler. The SerpAPI key now in
-   the environment could drive a school-website lookup for these rows; not built yet.
-4. **Contacts are sparse** (1 email and 3 names across all 214). Partly the strict rule,
+2. **36 stateless rows** (Hollywood, news) cannot be NCES-matched and score
+   geography at the floor. The search fallback (2026-09-10) placed 9 of 45: 2 by
+   exact national NCES name, 7 by a Google knowledge panel confirmed by the one
+   NCES school of that name nationwide. The rest are nicknames ("Pride of
+   Portage") or names that exist in several states ("Liberty", "Milton",
+   "Westlake"), which no search result can place without guessing.
+3. **Websites: 57 of 138 missing ones filled** by `scripts/search_fallback.py`
+   (52 Google knowledge panels, 3 organic school-domain results, 2 NCES); 70
+   found nothing (mostly nickname rows), 9 were refused as ambiguous. A further
+   20 school sites blocked the crawler.
+4. **Contacts are sparse** (2 emails and 5 names across all 214). Partly the strict rule,
    partly staff directories that do not label "band director" next to the
    address. Loosening is a client decision (see `docs/TROEN_QUESTIONS.md` Q15–16).
 5. **BOA regional finalists** are not captured (PDF-only; needs pypdf).
@@ -217,7 +222,9 @@ page title. It has unit tests but no real-page fixture yet.
 make venv                       # python3 -m venv .venv && pip install -r requirements.txt
 make test                       # 30 passed, 4 skipped
 make scrape                     # full discovery, prints summary + blocked-source cache paths
-.venv/bin/python scripts/enrich.py --limit 100     # or --all, or --no-crawl
+.venv/bin/python scripts/enrich.py --limit 100     # or --all, --no-crawl, --new-only
+.venv/bin/python scripts/search_fallback.py        # websites via SerpAPI for rows NCES missed
+.venv/bin/python scripts/enrich.py --new-only      # crawl only sites never crawled before
 make score
 make export                     # + optional: scripts/export.py --gsheet service_account.json
 make refresh                    # current + next year only; diff + CHANGELOG entry
@@ -239,8 +246,10 @@ fill the Macy's, Fandom, and Chicago caches without any code change.
    stronger travel signal.)
 2. Approve `pypdf`; parse BOA regional finals recaps (`scrapers/boa.py`
    already records the PDF URLs in `pdf_only_events`).
-3. Approve a search fallback; fill `school_url` for the ~28 no-website rows and
-   `state` for the 41 stateless rows.
+3. Done (2026-09-10): `scripts/search_fallback.py` filled 57 websites through
+   SerpAPI; see §7 items 2–3 for what it could not place. Re-run it after any
+   scrape that adds rows (`python scripts/search_fallback.py`; cached searches
+   are free, new ones cost quota).
 4. Tighten band-page detection to URL/title keywords; add a headless-browser
    fetch (Playwright is preinstalled in the cloud env) for the ~10 blocked
    school-site crawls.

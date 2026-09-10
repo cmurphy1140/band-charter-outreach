@@ -1,0 +1,361 @@
+{
+ "search_information": {
+  "query_displayed": "\"The Washington Union Marching Band of Fresno California\"",
+  "total_results": 10,
+  "time_taken_displayed": 0.31,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "related_questions": [
+  {
+   "question": "Which high school has the best marching band in California?",
+   "type": "ai_overview",
+   "page_token": "MYjpYHicHdBBbqMwFABQ9TJdNiGQTBMpqkSAZqyBiG9sgzcjY0NIMOASGii7XqFn6Kl6mpHmHeF9futLW_88fFXDYG67xWIcx6dz15118SS7ZiFuH61cSKF1LmS92_zaWC-l3Pt36R566cbEGOrBEtdkzak-4JUxua_6woOE-rqEehhCtu4Y5R6e1SnxzkN2rRxGuGE0snNiAqgB0dfpktrBUaS8ijyNMLZScY1H8FFKl2QsCPc5RaesriJqod-4iUJpbXt5RG1sPTsQAFU0YrBEPU5iC2YlxJGvYtt0lBqRW1GGU5Ngm9-Udl-zmeM8NYfICz9gub5mtnHCFhzsI8HYQE6BAbkyvaIogBTZhUamCKoqZ9T1KzWTenjLUtAJ2d7_kKnkrYrzBm1wo1wG3SUmMMurboj1PFErmNTsHqDZvhUknE9UT0Wr34VXO9yPLnx8LOV9bz_-v97_LZthZ_ru_A8GRY6p",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=MYjpYHicHdBBbqMwFABQ9TJdNiGQTBMpqkSAZqyBiG9sgzcjY0NIMOASGii7XqFn6Kl6mpHmHeF9futLW_88fFXDYG67xWIcx6dz15118SS7ZiFuH61cSKF1LmS92_zaWC-l3Pt36R566cbEGOrBEtdkzak-4JUxua_6woOE-rqEehhCtu4Y5R6e1SnxzkN2rRxGuGE0snNiAqgB0dfpktrBUaS8ijyNMLZScY1H8FFKl2QsCPc5RaesriJqod-4iUJpbXt5RG1sPTsQAFU0YrBEPU5iC2YlxJGvYtt0lBqRW1GGU5Ngm9-Udl-zmeM8NYfICz9gub5mtnHCFhzsI8HYQE6BAbkyvaIogBTZhUamCKoqZ9T1KzWTenjLUtAJ2d7_kKnkrYrzBm1wo1wG3SUmMMurboj1PFErmNTsHqDZvhUknE9UT0Wr34VXO9yPLnx8LOV9bz_-v97_LZthZ_ru_A8GRY6p",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2NYcE9NM2gxZGxsMU1FdHJZbnBuTTBkNlZXNTZhMjEzUVZCZlFucFlXVUpaVEhveWRWcGtPR3d4WTI0MU4wZDVPRTVCTm1KNE5FSTJUMTl0ZGpkTU1sSTJaVmhIWjJsYWNrZHVRbFE0ZURneU5XVnNRVWgzZDFoTFVSSVhjMUpMYW1GMFpVMVBieTFNWDJaM1VHNWlla3BuUVZrYUlrRkVjM0k1WmxOS1FsaHZVWE53TVhKUU1GVktUMmhvYUZoU1kzSlVkV2s1U0hjIiwiZmN2IjoiMyIsImVpIjoic1JLamF0ZU1Pby1MX2Z3UG5iekpnQVkiLCJxYyI6ImMtTXlMOGxJVlNoUExNN0l6RXN2eWM5VEtNM0xCSks1aVVYSklCR0ZwTVM4RklYOE5JVzBvdFRpdkh5RjVNU2N6TFQ4b3J6TVJBR0cydlFfMnZZQSIsInF1ZXN0aW9uIjoiV2hpY2ggaGlnaCBzY2hvb2wgaGFzIHRoZSBiZXN0IG1hcmNoaW5nIGJhbmQgaW4gQ2FsaWZvcm5pYT8iLCJsayI6ImN3WEJ3UTNBSUF3RHdEMzY4aHpkSnFTQUxkRkVJa2hkdjNmWF9WRk9VSk1vWi1ZQ3JYRFkwWG9kdkxhZGlvbG04VUFCdDZXUk8yUV8iLCJicyI6ImM1V1BRUXVDUUJCRzZicW56a3ZJbkNvb0x4NHJzREQ2QXg2OEJaT3V6b0x1Z0x2bG9ULWZsbFFTRVozbTh0NGJQbkVWNjRSMFNrQzZJTEFwTVpkQWFNR1JncE95RGlxc1U5S21nQk9hRExTQkNFdWRjMjAwaHNGR3Jwb185ZlNwaTZQd0UwSUgtc0Z6bVhYR2U2cmxEN1d5aHBjUTdjTEFsNHZtcDVEZmhmYVAyQW92SWU3b0hDcy10NmZtYWhEMDVLVDVKRjZGV016MnJHenZRT3pRcVhiZlJRRU9sNFhCWEU2ekR1MWwteFVkajI0IiwiaWQiOiJmY19zUktqYXRlTU9vLUxfZndQbmJ6SmdBWV81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2NYcE9NM2gxZGxsMU1FdHJZbnBuTTBkNlZXNTZhMjEzUVZCZlFucFlXVUpaVEhveWRWcGtPR3d4WTI0MU4wZDVPRTVCTm1KNE5FSTJUMTl0ZGpkTU1sSTJaVmhIWjJsYWNrZHVRbFE0ZURneU5XVnNRVWgzZDFoTFVSSVhjMUpMYW1GMFpVMVBieTFNWDJaM1VHNWlla3BuUVZrYUlrRkVjM0k1WmxOS1FsaHZVWE53TVhKUU1GVktUMmhvYUZoU1kzSlVkV2s1U0hjIiwiZmN2IjoiMyIsImVpIjoic1JLamF0ZU1Pby1MX2Z3UG5iekpnQVkiLCJxYyI6ImMtTXlMOGxJVlNoUExNN0l6RXN2eWM5VEtNM0xCSks1aVVYSklCR0ZwTVM4RklYOE5JVzBvdFRpdkh5RjVNU2N6TFQ4b3J6TVJBR0cydlFfMnZZQSIsInF1ZXN0aW9uIjoiV2hpY2ggaGlnaCBzY2hvb2wgaGFzIHRoZSBiZXN0IG1hcmNoaW5nIGJhbmQgaW4gQ2FsaWZvcm5pYT8iLCJsayI6ImN3WEJ3UTNBSUF3RHdEMzY4aHpkSnFTQUxkRkVJa2hkdjNmWF9WRk9VSk1vWi1ZQ3JYRFkwWG9kdkxhZGlvbG04VUFCdDZXUk8yUV8iLCJicyI6ImM1V1BRUXVDUUJCRzZicW56a3ZJbkNvb0x4NHJzREQ2QXg2OEJaT3V6b0x1Z0x2bG9ULWZsbFFTRVozbTh0NGJQbkVWNjRSMFNrQzZJTEFwTVpkQWFNR1JncE95RGlxc1U5S21nQk9hRExTQkNFdWRjMjAwaHNGR3Jwb185ZlNwaTZQd0UwSUgtc0Z6bVhYR2U2cmxEN1d5aHBjUTdjTEFsNHZtcDVEZmhmYVAyQW92SWU3b0hDcy10NmZtYWhEMDVLVDVKRjZGV016MnJHenZRT3pRcVhiZlJRRU9sNFhCWEU2ekR1MWwteFVkajI0IiwiaWQiOiJmY19zUktqYXRlTU9vLUxfZndQbmJ6SmdBWV81In0%3D"
+  },
+  {
+   "question": "What is the oldest high school in Fresno, CA?",
+   "type": "ai_overview",
+   "page_token": "r63SdHicHdBNbtpAGIBh9TJZBoZQKpBQJIIH6oSh8_cN9iayP2McZsZ2jIsNu1whZ-ipepqgbJ_Fu3g__rm30v7_8Vm0bX2aDQZd190fqurg9vdY-UFyupQ4wMS5NEE7m_yakMcc58EZF08NLriua1iKoSwXTfbgtHbFsyIhT4-83wa95UBjNhJJ5Oh4o6AXFwJMkoC7iugVvIOnjXbTrbJtmPje7Ea1igzvwFLK9FTuAS_putgYXRAVuGflaM18_We_BK1s-DeFTKa7MH_R4gZhhLQgcpV1bMWMtKRXftqkKv6pAurQV1elDi165jKIOuljbUoHcskYv9ICguIU7diWe7rRx1CgAy7XcRHZW1pPebKGYUTsOCiyq7bte7QT7ubnF93ncZnx1IcT6bOFEdUb1-KKR-f1URBTZr9xyFYYxJYt8QIGxxJgZHw7xBE1nN_leJ4_3H2_nr_mvp3VTXX4Alkvj5U",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=r63SdHicHdBNbtpAGIBh9TJZBoZQKpBQJIIH6oSh8_cN9iayP2McZsZ2jIsNu1whZ-ipepqgbJ_Fu3g__rm30v7_8Vm0bX2aDQZd190fqurg9vdY-UFyupQ4wMS5NEE7m_yakMcc58EZF08NLriua1iKoSwXTfbgtHbFsyIhT4-83wa95UBjNhJJ5Oh4o6AXFwJMkoC7iugVvIOnjXbTrbJtmPje7Ea1igzvwFLK9FTuAS_putgYXRAVuGflaM18_We_BK1s-DeFTKa7MH_R4gZhhLQgcpV1bMWMtKRXftqkKv6pAurQV1elDi165jKIOuljbUoHcskYv9ICguIU7diWe7rRx1CgAy7XcRHZW1pPebKGYUTsOCiyq7bte7QT7ubnF93ncZnx1IcT6bOFEdUb1-KKR-f1URBTZr9xyFYYxJYt8QIGxxJgZHw7xBE1nN_leJ4_3H2_nr_mvp3VTXX4Alkvj5U",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2NYcE9NM2gxZGxsMU1FdHJZbnBuTTBkNlZXNTZhMjEzUVZCZlFucFlXVUpaVEhveWRWcGtPR3d4WTI0MU4wZDVPRTVCTm1KNE5FSTJUMTl0ZGpkTU1sSTJaVmhIWjJsYWNrZHVRbFE0ZURneU5XVnNRVWgzZDFoTFVSSVhjMUpMYW1GMFpVMVBieTFNWDJaM1VHNWlla3BuUVZrYUlrRkVjM0k1WmxOS1FsaHZVWE53TVhKUU1GVktUMmhvYUZoU1kzSlVkV2s1U0hjIiwiZmN2IjoiMyIsImVpIjoic1JLamF0ZU1Pby1MX2Z3UG5iekpnQVkiLCJxYyI6ImMtTXlMOGxJVlNoUExNN0l6RXN2eWM5VEtNM0xCSks1aVVYSklCR0ZwTVM4RklYOE5JVzBvdFRpdkh5RjVNU2N6TFQ4b3J6TVJBR0cydlFfMnZZQSIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgb2xkZXN0IGhpZ2ggc2Nob29sIGluIEZyZXNubywgQ0E/IiwibGsiOiJHaXQzYUdGMElHbHpJSFJvWlNCdmJHUmxjM1FnYUdsbmFDQnpZMmh2YjJ3Z2FXNGdabkpsYzI1dklHTmgiLCJicyI6ImM1V1BRUXVDUUJCRzZicW56a3ZJbkNvb0x4NHJzREQ2QXg2OEJaT3V6b0x1Z0x2bG9ULWZsbFFTRVozbTh0NGJQbkVWNjRSMFNrQzZJTEFwTVpkQWFNR1JncE95RGlxc1U5S21nQk9hRExTQkNFdWRjMjAwaHNGR3Jwb185ZlNwaTZQd0UwSUgtc0Z6bVhYR2U2cmxEN1d5aHBjUTdjTEFsNHZtcDVEZmhmYVAyQW92SWU3b0hDcy10NmZtYWhEMDVLVDVKRjZGV016MnJHenZRT3pRcVhiZlJRRU9sNFhCWEU2ekR1MWwteFVkajI0IiwiaWQiOiJmY19zUktqYXRlTU9vLUxfZndQbmJ6SmdBWV81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2NYcE9NM2gxZGxsMU1FdHJZbnBuTTBkNlZXNTZhMjEzUVZCZlFucFlXVUpaVEhveWRWcGtPR3d4WTI0MU4wZDVPRTVCTm1KNE5FSTJUMTl0ZGpkTU1sSTJaVmhIWjJsYWNrZHVRbFE0ZURneU5XVnNRVWgzZDFoTFVSSVhjMUpMYW1GMFpVMVBieTFNWDJaM1VHNWlla3BuUVZrYUlrRkVjM0k1WmxOS1FsaHZVWE53TVhKUU1GVktUMmhvYUZoU1kzSlVkV2s1U0hjIiwiZmN2IjoiMyIsImVpIjoic1JLamF0ZU1Pby1MX2Z3UG5iekpnQVkiLCJxYyI6ImMtTXlMOGxJVlNoUExNN0l6RXN2eWM5VEtNM0xCSks1aVVYSklCR0ZwTVM4RklYOE5JVzBvdFRpdkh5RjVNU2N6TFQ4b3J6TVJBR0cydlFfMnZZQSIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgb2xkZXN0IGhpZ2ggc2Nob29sIGluIEZyZXNubywgQ0E%2FIiwibGsiOiJHaXQzYUdGMElHbHpJSFJvWlNCdmJHUmxjM1FnYUdsbmFDQnpZMmh2YjJ3Z2FXNGdabkpsYzI1dklHTmgiLCJicyI6ImM1V1BRUXVDUUJCRzZicW56a3ZJbkNvb0x4NHJzREQ2QXg2OEJaT3V6b0x1Z0x2bG9ULWZsbFFTRVozbTh0NGJQbkVWNjRSMFNrQzZJTEFwTVpkQWFNR1JncE95RGlxc1U5S21nQk9hRExTQkNFdWRjMjAwaHNGR3Jwb185ZlNwaTZQd0UwSUgtc0Z6bVhYR2U2cmxEN1d5aHBjUTdjTEFsNHZtcDVEZmhmYVAyQW92SWU3b0hDcy10NmZtYWhEMDVLVDVKRjZGV016MnJHenZRT3pRcVhiZlJRRU9sNFhCWEU2ekR1MWwteFVkajI0IiwiaWQiOiJmY19zUktqYXRlTU9vLUxfZndQbmJ6SmdBWV81In0%3D"
+  },
+  {
+   "question": "Who is famous from Fresno, CA?",
+   "type": "ai_overview",
+   "page_token": "daSzQXicHdBRboIwAADQ7DJ-KhV108QsqYDglNmWtsDPAgUFKQW1ovK3u-xUO82SvSO87x9Zqur3pSu0bq-L0eh-vw-PTXOU-VA09Si5PpUYiUTKNBHVYvY6A-8HsbRvHlydPYho2zILGyR0koQ_HoGxWZEgsxCd7niltxF4G_MQA8yY_rSwl1vwgwB8iYFTUJfdiAufKNiYokc6UhjyoAKZASImGxOB9pQZrZFbku2oVIzBM-tjTdZyz22Z4BUooxIEBDAlqF8wg00C4HjJGPtbLnlyckpiXye-3YZpwLqce9OcVX041rdPF6s0xDMh40tmtjdqAxeZO1O4_j6WG2wXWU8rfY5CLAM677b0cYhVhtJ6MyN1BjluSkRxL06ypiYuYlV4wpQ-AfMuXgOHS8iRgjsS4jodZ1OEBgfRLc3B_-fy61DrRXtpjn9Bg4KP",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=daSzQXicHdBRboIwAADQ7DJ-KhV108QsqYDglNmWtsDPAgUFKQW1ovK3u-xUO82SvSO87x9Zqur3pSu0bq-L0eh-vw-PTXOU-VA09Si5PpUYiUTKNBHVYvY6A-8HsbRvHlydPYho2zILGyR0koQ_HoGxWZEgsxCd7niltxF4G_MQA8yY_rSwl1vwgwB8iYFTUJfdiAufKNiYokc6UhjyoAKZASImGxOB9pQZrZFbku2oVIzBM-tjTdZyz22Z4BUooxIEBDAlqF8wg00C4HjJGPtbLnlyckpiXye-3YZpwLqce9OcVX041rdPF6s0xDMh40tmtjdqAxeZO1O4_j6WG2wXWU8rfY5CLAM677b0cYhVhtJ6MyN1BjluSkRxL06ypiYuYlV4wpQ-AfMuXgOHS8iRgjsS4jodZ1OEBgfRLc3B_-fy61DrRXtpjn9Bg4KP",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2NYcE9NM2gxZGxsMU1FdHJZbnBuTTBkNlZXNTZhMjEzUVZCZlFucFlXVUpaVEhveWRWcGtPR3d4WTI0MU4wZDVPRTVCTm1KNE5FSTJUMTl0ZGpkTU1sSTJaVmhIWjJsYWNrZHVRbFE0ZURneU5XVnNRVWgzZDFoTFVSSVhjMUpMYW1GMFpVMVBieTFNWDJaM1VHNWlla3BuUVZrYUlrRkVjM0k1WmxOS1FsaHZVWE53TVhKUU1GVktUMmhvYUZoU1kzSlVkV2s1U0hjIiwiZmN2IjoiMyIsImVpIjoic1JLamF0ZU1Pby1MX2Z3UG5iekpnQVkiLCJxYyI6ImMtTXlMOGxJVlNoUExNN0l6RXN2eWM5VEtNM0xCSks1aVVYSklCR0ZwTVM4RklYOE5JVzBvdFRpdkh5RjVNU2N6TFQ4b3J6TVJBR0cydlFfMnZZQSIsInF1ZXN0aW9uIjoiV2hvIGlzIGZhbW91cyBmcm9tIEZyZXNubywgQ0E/IiwibGsiOiJjNU9TS2NfSVY4Z3NWa2hMek0wdkJWSkYtYmxBSXJVNEwxOGhPUkVBIiwiYnMiOiJjNVdQUVF1Q1FCQkc2YnFuemt2SW5Db29MeDRyc0RENkF4NjhCWk91em9MdWdMdmxvVC1mbGxRU0VaM204dDRiUG5FVjY0UjBTa0M2SUxBcE1aZEFhTUdSZ3BPeURpcXNVOUttZ0JPYURMU0JDRXVkYzIwMGhzRkdycG9fOWZTcGk2UHdFMElILXNGem1YWEdlNnJsRDdXeWhwY1E3Y0xBbDR2bXA1RGZoZmFQMkFvdkllN29IQ3MtdDZmbWFoRDA1S1Q1SkY2RldNejJyR3p2UU96UXFYYmZSUUVPbDRYQlhFNnpEdTFsLXhVZGoyNCIsImlkIjoiZmNfc1JLamF0ZU1Pby1MX2Z3UG5iekpnQVlfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2NYcE9NM2gxZGxsMU1FdHJZbnBuTTBkNlZXNTZhMjEzUVZCZlFucFlXVUpaVEhveWRWcGtPR3d4WTI0MU4wZDVPRTVCTm1KNE5FSTJUMTl0ZGpkTU1sSTJaVmhIWjJsYWNrZHVRbFE0ZURneU5XVnNRVWgzZDFoTFVSSVhjMUpMYW1GMFpVMVBieTFNWDJaM1VHNWlla3BuUVZrYUlrRkVjM0k1WmxOS1FsaHZVWE53TVhKUU1GVktUMmhvYUZoU1kzSlVkV2s1U0hjIiwiZmN2IjoiMyIsImVpIjoic1JLamF0ZU1Pby1MX2Z3UG5iekpnQVkiLCJxYyI6ImMtTXlMOGxJVlNoUExNN0l6RXN2eWM5VEtNM0xCSks1aVVYSklCR0ZwTVM4RklYOE5JVzBvdFRpdkh5RjVNU2N6TFQ4b3J6TVJBR0cydlFfMnZZQSIsInF1ZXN0aW9uIjoiV2hvIGlzIGZhbW91cyBmcm9tIEZyZXNubywgQ0E%2FIiwibGsiOiJjNU9TS2NfSVY4Z3NWa2hMek0wdkJWSkYtYmxBSXJVNEwxOGhPUkVBIiwiYnMiOiJjNVdQUVF1Q1FCQkc2YnFuemt2SW5Db29MeDRyc0RENkF4NjhCWk91em9MdWdMdmxvVC1mbGxRU0VaM204dDRiUG5FVjY0UjBTa0M2SUxBcE1aZEFhTUdSZ3BPeURpcXNVOUttZ0JPYURMU0JDRXVkYzIwMGhzRkdycG9fOWZTcGk2UHdFMElILXNGem1YWEdlNnJsRDdXeWhwY1E3Y0xBbDR2bXA1RGZoZmFQMkFvdkllN29IQ3MtdDZmbWFoRDA1S1Q1SkY2RldNejJyR3p2UU96UXFYYmZSUUVPbDRYQlhFNnpEdTFsLXhVZGoyNCIsImlkIjoiZmNfc1JLamF0ZU1Pby1MX2Z3UG5iekpnQVlfNSJ9"
+  },
+  {
+   "question": "Does Fresno State have a marching band?",
+   "type": "ai_overview",
+   "page_token": "lnRLbHicHdDdToMwGADQ-DJeugEJhiWLCa7sRyny0a913JhS3JC2wARh253v4lP5NCaeRzjfP-aj0b83YzUMXb-YzaZpuju27dG836nWzmR_adRMSWMKqfTCv_edh4Nakq9t-Hjahil2HV_BPNPkkjk5hbpKYh644MK-sIHPWMSTqDNAqilvOAXryIIpj3o7V3nhWEYRUZuOQ02J3ID_6laJ0ueEYpcKLDd0BV-Ijoxt0KPLc7lWQ9nAE7j6TFm4Fbr0FQFQq3Bd2CrmgiaZqHw03RgL2j9z7bG58bg4DkjOdbwxfD_vPSlMAkZfszV1Sjc4AcNrQYaJrWmS11VDqvKKejjtX8EwDMZnPB_ypkwLu_MzW4YC2o8U4apqY9HQXWGMh3NIhI5SdCjPmpAJS1OJ-Uth0E3T24Mal97t_-fy7WCHRffZHv8A8q2D7g",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=lnRLbHicHdDdToMwGADQ-DJeugEJhiWLCa7sRyny0a913JhS3JC2wARh253v4lP5NCaeRzjfP-aj0b83YzUMXb-YzaZpuju27dG836nWzmR_adRMSWMKqfTCv_edh4Nakq9t-Hjahil2HV_BPNPkkjk5hbpKYh644MK-sIHPWMSTqDNAqilvOAXryIIpj3o7V3nhWEYRUZuOQ02J3ID_6laJ0ueEYpcKLDd0BV-Ijoxt0KPLc7lWQ9nAE7j6TFm4Fbr0FQFQq3Bd2CrmgiaZqHw03RgL2j9z7bG58bg4DkjOdbwxfD_vPSlMAkZfszV1Sjc4AcNrQYaJrWmS11VDqvKKejjtX8EwDMZnPB_ypkwLu_MzW4YC2o8U4apqY9HQXWGMh3NIhI5SdCjPmpAJS1OJ-Uth0E3T24Mal97t_-fy7WCHRffZHv8A8q2D7g",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2NYcE9NM2gxZGxsMU1FdHJZbnBuTTBkNlZXNTZhMjEzUVZCZlFucFlXVUpaVEhveWRWcGtPR3d4WTI0MU4wZDVPRTVCTm1KNE5FSTJUMTl0ZGpkTU1sSTJaVmhIWjJsYWNrZHVRbFE0ZURneU5XVnNRVWgzZDFoTFVSSVhjMUpMYW1GMFpVMVBieTFNWDJaM1VHNWlla3BuUVZrYUlrRkVjM0k1WmxOS1FsaHZVWE53TVhKUU1GVktUMmhvYUZoU1kzSlVkV2s1U0hjIiwiZmN2IjoiMyIsImVpIjoic1JLamF0ZU1Pby1MX2Z3UG5iekpnQVkiLCJxYyI6ImMtTXlMOGxJVlNoUExNN0l6RXN2eWM5VEtNM0xCSks1aVVYSklCR0ZwTVM4RklYOE5JVzBvdFRpdkh5RjVNU2N6TFQ4b3J6TVJBR0cydlFfMnZZQSIsInF1ZXN0aW9uIjoiRG9lcyBGcmVzbm8gU3RhdGUgaGF2ZSBhIG1hcmNoaW5nIGJhbmQ/IiwibGsiOiJHaVprYjJWeklHWnlaWE51YnlCemRHRjBaU0JvWVhabElHRWdiV0Z5WTJocGJtY2dZbUZ1WkEiLCJicyI6ImM1V1BRUXVDUUJCRzZicW56a3ZJbkNvb0x4NHJzREQ2QXg2OEJaT3V6b0x1Z0x2bG9ULWZsbFFTRVozbTh0NGJQbkVWNjRSMFNrQzZJTEFwTVpkQWFNR1JncE95RGlxc1U5S21nQk9hRExTQkNFdWRjMjAwaHNGR3Jwb185ZlNwaTZQd0UwSUgtc0Z6bVhYR2U2cmxEN1d5aHBjUTdjTEFsNHZtcDVEZmhmYVAyQW92SWU3b0hDcy10NmZtYWhEMDVLVDVKRjZGV016MnJHenZRT3pRcVhiZlJRRU9sNFhCWEU2ekR1MWwteFVkajI0IiwiaWQiOiJmY19zUktqYXRlTU9vLUxfZndQbmJ6SmdBWV81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2NYcE9NM2gxZGxsMU1FdHJZbnBuTTBkNlZXNTZhMjEzUVZCZlFucFlXVUpaVEhveWRWcGtPR3d4WTI0MU4wZDVPRTVCTm1KNE5FSTJUMTl0ZGpkTU1sSTJaVmhIWjJsYWNrZHVRbFE0ZURneU5XVnNRVWgzZDFoTFVSSVhjMUpMYW1GMFpVMVBieTFNWDJaM1VHNWlla3BuUVZrYUlrRkVjM0k1WmxOS1FsaHZVWE53TVhKUU1GVktUMmhvYUZoU1kzSlVkV2s1U0hjIiwiZmN2IjoiMyIsImVpIjoic1JLamF0ZU1Pby1MX2Z3UG5iekpnQVkiLCJxYyI6ImMtTXlMOGxJVlNoUExNN0l6RXN2eWM5VEtNM0xCSks1aVVYSklCR0ZwTVM4RklYOE5JVzBvdFRpdkh5RjVNU2N6TFQ4b3J6TVJBR0cydlFfMnZZQSIsInF1ZXN0aW9uIjoiRG9lcyBGcmVzbm8gU3RhdGUgaGF2ZSBhIG1hcmNoaW5nIGJhbmQ%2FIiwibGsiOiJHaVprYjJWeklHWnlaWE51YnlCemRHRjBaU0JvWVhabElHRWdiV0Z5WTJocGJtY2dZbUZ1WkEiLCJicyI6ImM1V1BRUXVDUUJCRzZicW56a3ZJbkNvb0x4NHJzREQ2QXg2OEJaT3V6b0x1Z0x2bG9ULWZsbFFTRVozbTh0NGJQbkVWNjRSMFNrQzZJTEFwTVpkQWFNR1JncE95RGlxc1U5S21nQk9hRExTQkNFdWRjMjAwaHNGR3Jwb185ZlNwaTZQd0UwSUgtc0Z6bVhYR2U2cmxEN1d5aHBjUTdjTEFsNHZtcDVEZmhmYVAyQW92SWU3b0hDcy10NmZtYWhEMDVLVDVKRjZGV016MnJHenZRT3pRcVhiZlJRRU9sNFhCWEU2ekR1MWwteFVkajI0IiwiaWQiOiJmY19zUktqYXRlTU9vLUxfZndQbmJ6SmdBWV81In0%3D"
+  }
+ ],
+ "ai_overview": {
+  "page_token": "b2lrXniczVbddqJIEH6AfY7hxkRATaI5hzOnaVDxL7aGTPTGg4AtCrQCSvRunmJfYJ9qn2YbCAqJZJK5mLN10d3VXVVdVV0fxc9_bMtd__vX38sg2Pj3LBuGYRkTgm2zrBOH1fyDq7MLYvuevvyObWHnM0tbMF3msBeqjO4LHGNagj_qrrTA7D-Q695sEQ7d-bGDwYSJ1YXZXPPNFbX-svLZGUuH9beqRJmyXzbdsvm8dc3HRZuvoXKF4xvlB1ZzqAD4c4RloNBRpAMQC4WKj_KEEIAKkM8bEMZTZgdHDAIyfjUpogJTChWlpABFBLEVKTxeT-Z0oSUSUmTnMnXyLAxjQwDQGUZxWp8L55WU1xjSJHyQjKKjOBSScmHmpCgEem0_z6sArK4jZ8SMVycagyRLCY2iQUrEFqAWyrVRs9hrSjIC7T4eI_zO8FuCLlTTAHqAp7eyBqZFy7Fzj048a-lLPV54flTL8LHBkXZTJndAlboyv7YkS5nvtlNFnB44eY9YfU7lbKIZpjFbzrjvMc9X-BuuUb2rX8Ug0v0TivwsigxnuhvtxtuhvS73yiKfQgie4oB592XKw0shivBVFL4_g-cShuBkGXcByKQr5ihLX7SigFweIeZA_Jqt9L2HChBx9oXPEIHgEoTeuhZBCKSoVU-Vl1GkIhiLF1Qp6e9jfFe7ioRPlnKfpNgUzm2MMb0tLeXWW7M0oiWK3RRhD1uJej9rAwJRPnMovQZD-nlKs42yEb7kvNnGSn1Fken7WuvI8joOR0nuSk2rKJuf6NsCLpE4oRpPF-rgE9T9hAyFzCtW3pR-FjItfaFxx04PTxxc6QfLZkOSruVB0A1r4WWIEGf-hU6j_69AlPahiBOLQTSIFr8GEUKwuA8ly3MfSkAkogIQKQmILvQhM5HI9aE8iDp5EH3Yh74OIrEYROJHICKXQIQKQZQkOAeifB_KFcKpD51B9PU-pP1mH4oxZSZTvintVri4OWlyFbclm6LsZsE9B7ecVycav-_sIf5lc1o4wb2jGfbVzDLuxUonOBhXM7pB7k2D2QrfKpXHpVn6oflLy8UBcUuqa9Gxr9HfSrpTEjXXKJFFqemZvktKULOtBfFcS6OajGN7ROC0u9tVa78f7ra71oqGPe63jgPXHRrSeGTZT_6gddTxZlrTRp0qz5nyWF3u-67X8IdN7lqFL5vB-PDwctNAUzTVOM9pPz-tVs9KXb3hhrIv27ftkTZt7O3Jy-7JQu5z09w83onrh_mmq7SJ5MmD7TA8Go5H1L0Fgq1ajx3zhcNuWL_duHqvThjH0wX62DUMBgj8wLTDwAlAEANVI3QOAWrdAiSLjK9rM9PfC1x1vjBpInV9bjRqFZ5xcHDYCDWe8V1P4P8D_V9LOw",
+  "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=b2lrXniczVbddqJIEH6AfY7hxkRATaI5hzOnaVDxL7aGTPTGg4AtCrQCSvRunmJfYJ9qn2YbCAqJZJK5mLN10d3VXVVdVV0fxc9_bMtd__vX38sg2Pj3LBuGYRkTgm2zrBOH1fyDq7MLYvuevvyObWHnM0tbMF3msBeqjO4LHGNagj_qrrTA7D-Q695sEQ7d-bGDwYSJ1YXZXPPNFbX-svLZGUuH9beqRJmyXzbdsvm8dc3HRZuvoXKF4xvlB1ZzqAD4c4RloNBRpAMQC4WKj_KEEIAKkM8bEMZTZgdHDAIyfjUpogJTChWlpABFBLEVKTxeT-Z0oSUSUmTnMnXyLAxjQwDQGUZxWp8L55WU1xjSJHyQjKKjOBSScmHmpCgEem0_z6sArK4jZ8SMVycagyRLCY2iQUrEFqAWyrVRs9hrSjIC7T4eI_zO8FuCLlTTAHqAp7eyBqZFy7Fzj048a-lLPV54flTL8LHBkXZTJndAlboyv7YkS5nvtlNFnB44eY9YfU7lbKIZpjFbzrjvMc9X-BuuUb2rX8Ug0v0TivwsigxnuhvtxtuhvS73yiKfQgie4oB592XKw0shivBVFL4_g-cShuBkGXcByKQr5ihLX7SigFweIeZA_Jqt9L2HChBx9oXPEIHgEoTeuhZBCKSoVU-Vl1GkIhiLF1Qp6e9jfFe7ioRPlnKfpNgUzm2MMb0tLeXWW7M0oiWK3RRhD1uJej9rAwJRPnMovQZD-nlKs42yEb7kvNnGSn1Fken7WuvI8joOR0nuSk2rKJuf6NsCLpE4oRpPF-rgE9T9hAyFzCtW3pR-FjItfaFxx04PTxxc6QfLZkOSruVB0A1r4WWIEGf-hU6j_69AlPahiBOLQTSIFr8GEUKwuA8ly3MfSkAkogIQKQmILvQhM5HI9aE8iDp5EH3Yh74OIrEYROJHICKXQIQKQZQkOAeifB_KFcKpD51B9PU-pP1mH4oxZSZTvintVri4OWlyFbclm6LsZsE9B7ecVycav-_sIf5lc1o4wb2jGfbVzDLuxUonOBhXM7pB7k2D2QrfKpXHpVn6oflLy8UBcUuqa9Gxr9HfSrpTEjXXKJFFqemZvktKULOtBfFcS6OajGN7ROC0u9tVa78f7ra71oqGPe63jgPXHRrSeGTZT_6gddTxZlrTRp0qz5nyWF3u-67X8IdN7lqFL5vB-PDwctNAUzTVOM9pPz-tVs9KXb3hhrIv27ftkTZt7O3Jy-7JQu5z09w83onrh_mmq7SJ5MmD7TA8Go5H1L0Fgq1ajx3zhcNuWL_duHqvThjH0wX62DUMBgj8wLTDwAlAEANVI3QOAWrdAiSLjK9rM9PfC1x1vjBpInV9bjRqFZ5xcHDYCDWe8V1P4P8D_V9LOw"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "The Washington Union Marching Band of Fresno California",
+   "link": "https://thehollywoodchristmasparade.org/band-and-pageantry/the-washington-union-marching-band-of-fresno-california/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESqwEB6zswFbasd68o46z3_cBo4vVF4trjs5t6V94LHxDjXYpd6oUhgqADJh49iL20vPcHCiB0SS3ZBqMDGcm2UlI9D5OFp0w4PlB9OfH1T4kSUlP1Qs622jtbNxRUXHAfHlSFHZ1JIfjnQywBbHb0YkvSsZiU681h4Uf8b9u9fhMUyZ8b--N9t4Yt6VOA7KskY6BpfQ0bvWQqW0kXoUutEgmSJkM8So5tLFy_S7k&ved=2ahUKEwiXqY_g7OSWAxWPRZ8JHR1eEmAQFnoECCQQAQ&uoh=1",
+   "displayed_link": "https://thehollywoodchristmasparade.org \u203a the-washingt...",
+   "favicon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAABQBACdASocABIAPtE-tFooIigoFAEAGgljALboqcGEgPd6Df6D3g_nw_GAAP72B-DStIJps6Nv88VefS2yoCW2eSqPAIBn8ebA6k2CL9wyhHFO9lZQjo2uSo0h0qR12uxixw6wj_T4q0BDzOYAJG-9vEgDTXq7DqE8P4fHh_12YMhr9KAAAA.webp",
+   "snippet": "The Washington Union Marching Band of Fresno California has a long history of excellence in concert band, parade band and the winter arts.",
+   "snippet_highlighted_words": [
+    "The Washington Union Marching Band of Fresno California"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The Washington Union Marching Band of Fresno California has a long history of excellence in concert band, parade band and the winter arts.",
+     "source_info_link": "https://thehollywoodchristmasparade.org/band-and-pageantry/the-washington-union-marching-band-of-fresno-california/",
+     "icon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAABQBACdASocABIAPtE-tFooIigoFAEAGgljALboqcGEgPd6Df6D3g_nw_GAAP72B-DStIJps6Nv88VefS2yoCW2eSqPAIBn8ebA6k2CL9wyhHFO9lZQjo2uSo0h0qR12uxixw6wj_T4q0BDzOYAJG-9vEgDTXq7DqE8P4fHh_12YMhr9KAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESqwEB6zswFbasd68o46z3_cBo4vVF4trjs5t6V94LHxDjXYpd6oUhgqADJh49iL20vPcHCiB0SS3ZBqMDGcm2UlI9D5OFp0w4PlB9OfH1T4kSUlP1Qs622jtbNxRUXHAfHlSFHZ1JIfjnQywBbHb0YkvSsZiU681h4Uf8b9u9fhMUyZ8b--N9t4Yt6VOA7KskY6BpfQ0bvWQqW0kXoUutEgmSJkM8So5tLFy_S7k&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESqwEB6zswFbasd68o46z3_cBo4vVF4trjs5t6V94LHxDjXYpd6oUhgqADJh49iL20vPcHCiB0SS3ZBqMDGcm2UlI9D5OFp0w4PlB9OfH1T4kSUlP1Qs622jtbNxRUXHAfHlSFHZ1JIfjnQywBbHb0YkvSsZiU681h4Uf8b9u9fhMUyZ8b--N9t4Yt6VOA7KskY6BpfQ0bvWQqW0kXoUutEgmSJkM8So5tLFy_S7k",
+   "source": "The Hollywood Christmas Parade",
+   "read_more_link": "https://thehollywoodchristmasparade.org/band-and-pageantry/the-washington-union-marching-band-of-fresno-california/#:~:text=The%20Washington%20Union%20Marching%20Band,band%20and%20the%20winter%20arts."
+  },
+  {
+   "position": 2,
+   "title": "Pink Polish Elite",
+   "link": "https://thehollywoodchristmasparade.org/band-and-pageantry/pink-polish-elite-2/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShwEB6zswFVVmJ_GXUK-BMDq1WM2Q8mWLN7t5NrAFcGaVQL9NeJWWgx1J4XjwLnjyXuCpWJ9yR6ZenoJfh0M4IzldfOQjP-NcjB33OTD1LUBKU717KYWOqAwG0jHOKviOOu3PbofbFhiyq_Noxldeo4NkoTEWPl1nYvzLrVf3BqfDUnl1iFBRlQs&ved=2ahUKEwiXqY_g7OSWAxWPRZ8JHR1eEmAQFnoECC8QAQ&uoh=1",
+   "displayed_link": "https://thehollywoodchristmasparade.org \u203a pink-polish-...",
+   "favicon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAABQBACdASocABIAPtE-tFooIigoFAEAGgljALboqcGEgPd6Df6D3g_nw_GAAP72B-DStIJps6Nv88VefS2yoCW2eSqPAIBn8ebA6k2CL9wyhHFO9lZQjo2uSo0h0qR12uxixw6wj_T4q0BDzOYAJG-9vEgDTXq7DqE8P4fHh_12YMhr9KAAAA.webp",
+   "snippet": "The Washington Union Marching Band of Fresno California. The Washington Union Marching Band of Fresno California has a long history of excellence in concert ...",
+   "snippet_highlighted_words": [
+    "The Washington Union Marching Band of Fresno California",
+    "The Washington Union Marching Band of Fresno California"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The Washington Union Marching Band of Fresno California. The Washington Union Marching Band of Fresno California has a long history of excellence in concert ...",
+     "source_info_link": "https://thehollywoodchristmasparade.org/band-and-pageantry/pink-polish-elite-2/",
+     "icon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAABQBACdASocABIAPtE-tFooIigoFAEAGgljALboqcGEgPd6Df6D3g_nw_GAAP72B-DStIJps6Nv88VefS2yoCW2eSqPAIBn8ebA6k2CL9wyhHFO9lZQjo2uSo0h0qR12uxixw6wj_T4q0BDzOYAJG-9vEgDTXq7DqE8P4fHh_12YMhr9KAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEShwEB6zswFVVmJ_GXUK-BMDq1WM2Q8mWLN7t5NrAFcGaVQL9NeJWWgx1J4XjwLnjyXuCpWJ9yR6ZenoJfh0M4IzldfOQjP-NcjB33OTD1LUBKU717KYWOqAwG0jHOKviOOu3PbofbFhiyq_Noxldeo4NkoTEWPl1nYvzLrVf3BqfDUnl1iFBRlQs&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEShwEB6zswFVVmJ_GXUK-BMDq1WM2Q8mWLN7t5NrAFcGaVQL9NeJWWgx1J4XjwLnjyXuCpWJ9yR6ZenoJfh0M4IzldfOQjP-NcjB33OTD1LUBKU717KYWOqAwG0jHOKviOOu3PbofbFhiyq_Noxldeo4NkoTEWPl1nYvzLrVf3BqfDUnl1iFBRlQs",
+   "source": "The Hollywood Christmas Parade",
+   "read_more_link": "https://thehollywoodchristmasparade.org/band-and-pageantry/pink-polish-elite-2/#:~:text=The%20Washington%20Union%20Marching%20Band,band%20and%20the%20winter%20arts."
+  },
+  {
+   "position": 3,
+   "title": "The Greenwood High School Marching Woodmen",
+   "link": "https://thehollywoodchristmasparade.org/band-and-pageantry/the-greenwood-high-school-marching-woodmen/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESngEB6zswFfEOR8XV4zrQfV6JyS6EPSKpWusZszU0A6DsP6aTE15Oyh4Zfoc1rUbYKll94N7bUO3eOMHJMDr9yuly7-vvFEqH4ndttK63jcJv2m2PO0ptmEhnw53njd_SDcT0PxoXPEoWRtf-KHwvgj4HNjKYtCNsmt8YRNG1aVu62K7n2g2vHd24rgusjNXIobNhXG6HFgCbfk26KdGZRQ&ved=2ahUKEwiXqY_g7OSWAxWPRZ8JHR1eEmAQFnoECC4QAQ&uoh=1",
+   "displayed_link": "https://thehollywoodchristmasparade.org \u203a the-greenwo...",
+   "favicon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAABQBACdASocABIAPtE-tFooIigoFAEAGgljALboqcGEgPd6Df6D3g_nw_GAAP72B-DStIJps6Nv88VefS2yoCW2eSqPAIBn8ebA6k2CL9wyhHFO9lZQjo2uSo0h0qR12uxixw6wj_T4q0BDzOYAJG-9vEgDTXq7DqE8P4fHh_12YMhr9KAAAA.webp",
+   "snippet": "The Washington Union Marching Band of Fresno California. The Washington Union Marching Band of Fresno California has a long history of excellence in concert ...",
+   "snippet_highlighted_words": [
+    "The Washington Union Marching Band of Fresno California",
+    "The Washington Union Marching Band of Fresno California"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The Washington Union Marching Band of Fresno California. The Washington Union Marching Band of Fresno California has a long history of excellence in concert ...",
+     "source_info_link": "https://thehollywoodchristmasparade.org/band-and-pageantry/the-greenwood-high-school-marching-woodmen/",
+     "icon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAABQBACdASocABIAPtE-tFooIigoFAEAGgljALboqcGEgPd6Df6D3g_nw_GAAP72B-DStIJps6Nv88VefS2yoCW2eSqPAIBn8ebA6k2CL9wyhHFO9lZQjo2uSo0h0qR12uxixw6wj_T4q0BDzOYAJG-9vEgDTXq7DqE8P4fHh_12YMhr9KAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESngEB6zswFfEOR8XV4zrQfV6JyS6EPSKpWusZszU0A6DsP6aTE15Oyh4Zfoc1rUbYKll94N7bUO3eOMHJMDr9yuly7-vvFEqH4ndttK63jcJv2m2PO0ptmEhnw53njd_SDcT0PxoXPEoWRtf-KHwvgj4HNjKYtCNsmt8YRNG1aVu62K7n2g2vHd24rgusjNXIobNhXG6HFgCbfk26KdGZRQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESngEB6zswFfEOR8XV4zrQfV6JyS6EPSKpWusZszU0A6DsP6aTE15Oyh4Zfoc1rUbYKll94N7bUO3eOMHJMDr9yuly7-vvFEqH4ndttK63jcJv2m2PO0ptmEhnw53njd_SDcT0PxoXPEoWRtf-KHwvgj4HNjKYtCNsmt8YRNG1aVu62K7n2g2vHd24rgusjNXIobNhXG6HFgCbfk26KdGZRQ",
+   "source": "The Hollywood Christmas Parade",
+   "read_more_link": "https://thehollywoodchristmasparade.org/band-and-pageantry/the-greenwood-high-school-marching-woodmen/#:~:text=The%20Washington%20Union%20Marching%20Band,band%20and%20the%20winter%20arts."
+  },
+  {
+   "position": 4,
+   "title": "Milton High School",
+   "link": "https://thehollywoodchristmasparade.org/band-and-pageantry/milton-high-school-2/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiAEB6zswFYSaE6NX7GxTVrPircWSf2KJ_C9veNeHYOCDIZEvsYv3QmBRHGlVi2AqI0k4F_byAJ6EQ8Jds17yuxL85C2vm47N4qgX1JeA6jMOhToQ7M1tHmw1MgGFyRUncH-6kEgRq7fxUryWrXGwkbPQywk9BwAPtWQakc0KYnjQ6Nksjo_51Bd5&ved=2ahUKEwiXqY_g7OSWAxWPRZ8JHR1eEmAQFnoECCwQAQ&uoh=1",
+   "displayed_link": "https://thehollywoodchristmasparade.org \u203a milton-high-...",
+   "favicon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAABQBACdASocABIAPtE-tFooIigoFAEAGgljALboqcGEgPd6Df6D3g_nw_GAAP72B-DStIJps6Nv88VefS2yoCW2eSqPAIBn8ebA6k2CL9wyhHFO9lZQjo2uSo0h0qR12uxixw6wj_T4q0BDzOYAJG-9vEgDTXq7DqE8P4fHh_12YMhr9KAAAA.webp",
+   "snippet": "The Washington Union Marching Band of Fresno California. The Washington Union Marching Band of Fresno California has a long history of excellence in concert ...",
+   "snippet_highlighted_words": [
+    "The Washington Union Marching Band of Fresno California",
+    "The Washington Union Marching Band of Fresno California"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The Washington Union Marching Band of Fresno California. The Washington Union Marching Band of Fresno California has a long history of excellence in concert ...",
+     "source_info_link": "https://thehollywoodchristmasparade.org/band-and-pageantry/milton-high-school-2/",
+     "icon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAABQBACdASocABIAPtE-tFooIigoFAEAGgljALboqcGEgPd6Df6D3g_nw_GAAP72B-DStIJps6Nv88VefS2yoCW2eSqPAIBn8ebA6k2CL9wyhHFO9lZQjo2uSo0h0qR12uxixw6wj_T4q0BDzOYAJG-9vEgDTXq7DqE8P4fHh_12YMhr9KAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESiAEB6zswFYSaE6NX7GxTVrPircWSf2KJ_C9veNeHYOCDIZEvsYv3QmBRHGlVi2AqI0k4F_byAJ6EQ8Jds17yuxL85C2vm47N4qgX1JeA6jMOhToQ7M1tHmw1MgGFyRUncH-6kEgRq7fxUryWrXGwkbPQywk9BwAPtWQakc0KYnjQ6Nksjo_51Bd5&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESiAEB6zswFYSaE6NX7GxTVrPircWSf2KJ_C9veNeHYOCDIZEvsYv3QmBRHGlVi2AqI0k4F_byAJ6EQ8Jds17yuxL85C2vm47N4qgX1JeA6jMOhToQ7M1tHmw1MgGFyRUncH-6kEgRq7fxUryWrXGwkbPQywk9BwAPtWQakc0KYnjQ6Nksjo_51Bd5",
+   "source": "The Hollywood Christmas Parade",
+   "read_more_link": "https://thehollywoodchristmasparade.org/band-and-pageantry/milton-high-school-2/#:~:text=The%20Washington%20Union%20Marching%20Band,band%20and%20the%20winter%20arts."
+  },
+  {
+   "position": 5,
+   "title": "CUBCAKES",
+   "link": "https://thehollywoodchristmasparade.org/dance-group/cubcakes/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAVm3lblwZe4mHD_qfDCkVXAIY5lsVqllrcxo5O_D_CHPqBlPY9dz8h-JIdZrmruvCvJQ3XgZPw_ko7dKRoiy2NgqxOQPQ65zF-LnGxVSeSNOBm2mNPlkFO4E_d7Kr-3Cb9uKuMInpxpeHeYeMVGa2qAg&ved=2ahUKEwiXqY_g7OSWAxWPRZ8JHR1eEmAQFnoECCsQAQ&uoh=1",
+   "displayed_link": "https://thehollywoodchristmasparade.org \u203a dance-group",
+   "favicon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAABQBACdASocABIAPtE-tFooIigoFAEAGgljALboqcGEgPd6Df6D3g_nw_GAAP72B-DStIJps6Nv88VefS2yoCW2eSqPAIBn8ebA6k2CL9wyhHFO9lZQjo2uSo0h0qR12uxixw6wj_T4q0BDzOYAJG-9vEgDTXq7DqE8P4fHh_12YMhr9KAAAA.webp",
+   "snippet": "2025 Marching Bands, Dance & Cheer Groups \u00b7 San Marino Dance Academy \u00b7 The Washington Union Marching Band of Fresno California \u00b7 Van Nuys High School Cheer \u00b7 LA ...",
+   "snippet_highlighted_words": [
+    "The Washington Union Marching Band of Fresno California"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "2025 Marching Bands, Dance & Cheer Groups \u00b7 San Marino Dance Academy \u00b7 The Washington Union Marching Band of Fresno California \u00b7 Van Nuys High School Cheer \u00b7 LA ...",
+     "source_info_link": "https://thehollywoodchristmasparade.org/dance-group/cubcakes/",
+     "icon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAABQBACdASocABIAPtE-tFooIigoFAEAGgljALboqcGEgPd6Df6D3g_nw_GAAP72B-DStIJps6Nv88VefS2yoCW2eSqPAIBn8ebA6k2CL9wyhHFO9lZQjo2uSo0h0qR12uxixw6wj_T4q0BDzOYAJG-9vEgDTXq7DqE8P4fHh_12YMhr9KAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdQHrOzAVm3lblwZe4mHD_qfDCkVXAIY5lsVqllrcxo5O_D_CHPqBlPY9dz8h-JIdZrmruvCvJQ3XgZPw_ko7dKRoiy2NgqxOQPQ65zF-LnGxVSeSNOBm2mNPlkFO4E_d7Kr-3Cb9uKuMInpxpeHeYeMVGa2qAg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdQHrOzAVm3lblwZe4mHD_qfDCkVXAIY5lsVqllrcxo5O_D_CHPqBlPY9dz8h-JIdZrmruvCvJQ3XgZPw_ko7dKRoiy2NgqxOQPQ65zF-LnGxVSeSNOBm2mNPlkFO4E_d7Kr-3Cb9uKuMInpxpeHeYeMVGa2qAg",
+   "source": "The Hollywood Christmas Parade",
+   "read_more_link": "https://thehollywoodchristmasparade.org/dance-group/cubcakes/#:~:text=2025%20Marching%20Bands%2C%20Dance%20%26,Cheer%20Groups&text=San%20Marino%20Dance%20Academy&text=The%20Washington%20Union%20Marching%20Band,of%20Fresno%20California&text=Van%20Nuys%20High%20School%20Cheer&text=LA%20Catholic%20School%20Marching%20Band"
+  },
+  {
+   "position": 6,
+   "title": "Origin Hip Hop Dreamz featuring the Sunrays",
+   "link": "https://thehollywoodchristmasparade.org/dance-group/origin-hip-hop-dreams-featuring-the-sunrays/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmAEB6zswFS9nMJ4qMC0ey703OvnGq2Y5yXnzPzHompK_D6Rm9KS3FWQ5yZKNLhaRrH-jTnho4l7u9oZWSBECyTfx5U4UxutrYkhKr0r5CigRvplJcB5rqnCOLz9_qbGuFsH3WJxRIB28jFGeC0OhYQQuOspylszrdx8LlN5IiVMpggo5F4UanwlAtT4sC94yd701Q4geCY4DcA&ved=2ahUKEwiXqY_g7OSWAxWPRZ8JHR1eEmAQFnoECC0QAQ&uoh=1",
+   "displayed_link": "https://thehollywoodchristmasparade.org \u203a dance-group",
+   "favicon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAABQBACdASocABIAPtE-tFooIigoFAEAGgljALboqcGEgPd6Df6D3g_nw_GAAP72B-DStIJps6Nv88VefS2yoCW2eSqPAIBn8ebA6k2CL9wyhHFO9lZQjo2uSo0h0qR12uxixw6wj_T4q0BDzOYAJG-9vEgDTXq7DqE8P4fHh_12YMhr9KAAAA.webp",
+   "snippet": "The Washington Union Marching Band of Fresno California. The Washington Union Marching Band of Fresno California has a long history of excellence in concert ...",
+   "snippet_highlighted_words": [
+    "The Washington Union Marching Band of Fresno California",
+    "The Washington Union Marching Band of Fresno California"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The Washington Union Marching Band of Fresno California. The Washington Union Marching Band of Fresno California has a long history of excellence in concert ...",
+     "source_info_link": "https://thehollywoodchristmasparade.org/dance-group/origin-hip-hop-dreams-featuring-the-sunrays/",
+     "icon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAABQBACdASocABIAPtE-tFooIigoFAEAGgljALboqcGEgPd6Df6D3g_nw_GAAP72B-DStIJps6Nv88VefS2yoCW2eSqPAIBn8ebA6k2CL9wyhHFO9lZQjo2uSo0h0qR12uxixw6wj_T4q0BDzOYAJG-9vEgDTXq7DqE8P4fHh_12YMhr9KAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESmAEB6zswFS9nMJ4qMC0ey703OvnGq2Y5yXnzPzHompK_D6Rm9KS3FWQ5yZKNLhaRrH-jTnho4l7u9oZWSBECyTfx5U4UxutrYkhKr0r5CigRvplJcB5rqnCOLz9_qbGuFsH3WJxRIB28jFGeC0OhYQQuOspylszrdx8LlN5IiVMpggo5F4UanwlAtT4sC94yd701Q4geCY4DcA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESmAEB6zswFS9nMJ4qMC0ey703OvnGq2Y5yXnzPzHompK_D6Rm9KS3FWQ5yZKNLhaRrH-jTnho4l7u9oZWSBECyTfx5U4UxutrYkhKr0r5CigRvplJcB5rqnCOLz9_qbGuFsH3WJxRIB28jFGeC0OhYQQuOspylszrdx8LlN5IiVMpggo5F4UanwlAtT4sC94yd701Q4geCY4DcA",
+   "source": "The Hollywood Christmas Parade",
+   "read_more_link": "https://thehollywoodchristmasparade.org/dance-group/origin-hip-hop-dreams-featuring-the-sunrays/#:~:text=The%20Washington%20Union%20Marching%20Band,band%20and%20the%20winter%20arts."
+  },
+  {
+   "position": 7,
+   "title": "Burton Bulldog Marching Band",
+   "link": "https://thehollywoodchristmasparade.org/band-and-pageantry/burton-bulldog-marching-band-2/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkgEB6zswFVy3SqPeDAwgmok3JUVN8POiFbkcrg3JlGPSEIVMyJpXJ5AMp6_law94-2OJ9tJR1R_40p3rpwAhWy_JQbE_eidwFq2BvftLI28q34EqYV68S4icCcsn8DCCGLF33z9NYDg-p_oO2xczjHiLcGQjx5bhSEYk16YN-9b-C2tR8cMtmdF0wimLWeyl60QnpQ&ved=2ahUKEwiXqY_g7OSWAxWPRZ8JHR1eEmAQFnoECDAQAQ&uoh=1",
+   "displayed_link": "https://thehollywoodchristmasparade.org \u203a burton-bulld...",
+   "favicon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAABQBACdASocABIAPtE-tFooIigoFAEAGgljALboqcGEgPd6Df6D3g_nw_GAAP72B-DStIJps6Nv88VefS2yoCW2eSqPAIBn8ebA6k2CL9wyhHFO9lZQjo2uSo0h0qR12uxixw6wj_T4q0BDzOYAJG-9vEgDTXq7DqE8P4fHh_12YMhr9KAAAA.webp",
+   "snippet": "The Washington Union Marching Band of Fresno California. The Washington Union Marching Band of Fresno California has a long history of excellence in concert ...",
+   "snippet_highlighted_words": [
+    "The Washington Union Marching Band of Fresno California",
+    "The Washington Union Marching Band of Fresno California"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The Washington Union Marching Band of Fresno California. The Washington Union Marching Band of Fresno California has a long history of excellence in concert ...",
+     "source_info_link": "https://thehollywoodchristmasparade.org/band-and-pageantry/burton-bulldog-marching-band-2/",
+     "icon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAABQBACdASocABIAPtE-tFooIigoFAEAGgljALboqcGEgPd6Df6D3g_nw_GAAP72B-DStIJps6Nv88VefS2yoCW2eSqPAIBn8ebA6k2CL9wyhHFO9lZQjo2uSo0h0qR12uxixw6wj_T4q0BDzOYAJG-9vEgDTXq7DqE8P4fHh_12YMhr9KAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESkgEB6zswFVy3SqPeDAwgmok3JUVN8POiFbkcrg3JlGPSEIVMyJpXJ5AMp6_law94-2OJ9tJR1R_40p3rpwAhWy_JQbE_eidwFq2BvftLI28q34EqYV68S4icCcsn8DCCGLF33z9NYDg-p_oO2xczjHiLcGQjx5bhSEYk16YN-9b-C2tR8cMtmdF0wimLWeyl60QnpQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESkgEB6zswFVy3SqPeDAwgmok3JUVN8POiFbkcrg3JlGPSEIVMyJpXJ5AMp6_law94-2OJ9tJR1R_40p3rpwAhWy_JQbE_eidwFq2BvftLI28q34EqYV68S4icCcsn8DCCGLF33z9NYDg-p_oO2xczjHiLcGQjx5bhSEYk16YN-9b-C2tR8cMtmdF0wimLWeyl60QnpQ",
+   "source": "The Hollywood Christmas Parade",
+   "read_more_link": "https://thehollywoodchristmasparade.org/band-and-pageantry/burton-bulldog-marching-band-2/#:~:text=The%20Washington%20Union%20Marching%20Band,band%20and%20the%20winter%20arts."
+  },
+  {
+   "position": 8,
+   "title": "Caporales San Sim\u00f3n Cochabamba California",
+   "link": "https://thehollywoodchristmasparade.org/dance-group/caporales-san-simon-cochabamba-california/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlgEB6zswFavoJndQ0p0OHW5vBML195MbZ9cn962zITrh9j26uN9nXbSMISGx4oICF4tdpjtbIaHbBmo1VE5sDNkzNAfa5mtNuYDOzm96J3b2eCn6hNS6NKc3EqAA5GWrP9zuwK8gzcYzIdwzwgRcX9ShstAgpnXkp-Y6IKHqSULPfKQ5sMi0K4-U1oAJtpaZYQnpB318b0s&ved=2ahUKEwiXqY_g7OSWAxWPRZ8JHR1eEmAQFnoECDQQAQ&uoh=1",
+   "displayed_link": "https://thehollywoodchristmasparade.org \u203a dance-group",
+   "favicon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAABQBACdASocABIAPtE-tFooIigoFAEAGgljALboqcGEgPd6Df6D3g_nw_GAAP72B-DStIJps6Nv88VefS2yoCW2eSqPAIBn8ebA6k2CL9wyhHFO9lZQjo2uSo0h0qR12uxixw6wj_T4q0BDzOYAJG-9vEgDTXq7DqE8P4fHh_12YMhr9KAAAA.webp",
+   "snippet": "The Washington Union Marching Band of Fresno California. The Washington Union Marching Band of Fresno California has a long history of excellence in concert ...",
+   "snippet_highlighted_words": [
+    "The Washington Union Marching Band of Fresno California",
+    "The Washington Union Marching Band of Fresno California"
+   ],
+   "sitelinks": {
+    "inline": [
+     {
+      "title": "2025 Marching Bands, Dance &...",
+      "link": "https://thehollywoodchristmasparade.org/dance-group/caporales-san-simon-cochabamba-california/#:~:text=2025%20Marching%20Bands%2C%20Dance%20%26%20Cheer%20Groups,-2025%20Marching%20Bands%2C%20Dance"
+     },
+     {
+      "title": "The Washington Union...",
+      "link": "https://thehollywoodchristmasparade.org/dance-group/caporales-san-simon-cochabamba-california/#:~:text=The%20Washington%20Union%20Marching%20Band%20of%20Fresno%20California,-The%20Washington%20Union%20Marching%20Band"
+     },
+     {
+      "title": "La Catholic School Marching...",
+      "link": "https://thehollywoodchristmasparade.org/dance-group/caporales-san-simon-cochabamba-california/#:~:text=LA%20Catholic%20School%20Marching%20Band"
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "The Washington Union Marching Band of Fresno California. The Washington Union Marching Band of Fresno California has a long history of excellence in concert ...",
+     "source_info_link": "https://thehollywoodchristmasparade.org/dance-group/caporales-san-simon-cochabamba-california/",
+     "icon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAABQBACdASocABIAPtE-tFooIigoFAEAGgljALboqcGEgPd6Df6D3g_nw_GAAP72B-DStIJps6Nv88VefS2yoCW2eSqPAIBn8ebA6k2CL9wyhHFO9lZQjo2uSo0h0qR12uxixw6wj_T4q0BDzOYAJG-9vEgDTXq7DqE8P4fHh_12YMhr9KAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESlgEB6zswFavoJndQ0p0OHW5vBML195MbZ9cn962zITrh9j26uN9nXbSMISGx4oICF4tdpjtbIaHbBmo1VE5sDNkzNAfa5mtNuYDOzm96J3b2eCn6hNS6NKc3EqAA5GWrP9zuwK8gzcYzIdwzwgRcX9ShstAgpnXkp-Y6IKHqSULPfKQ5sMi0K4-U1oAJtpaZYQnpB318b0s&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESlgEB6zswFavoJndQ0p0OHW5vBML195MbZ9cn962zITrh9j26uN9nXbSMISGx4oICF4tdpjtbIaHbBmo1VE5sDNkzNAfa5mtNuYDOzm96J3b2eCn6hNS6NKc3EqAA5GWrP9zuwK8gzcYzIdwzwgRcX9ShstAgpnXkp-Y6IKHqSULPfKQ5sMi0K4-U1oAJtpaZYQnpB318b0s",
+   "source": "The Hollywood Christmas Parade",
+   "read_more_link": "https://thehollywoodchristmasparade.org/dance-group/caporales-san-simon-cochabamba-california/#:~:text=The%20Washington%20Union%20Marching%20Band,band%20and%20the%20winter%20arts."
+  },
+  {
+   "position": 9,
+   "title": "2025 Marching Bands, Dance & Cheer Groups Archives",
+   "link": "https://thehollywoodchristmasparade.org/category/2025-marching-bands-dance-cheer-groups/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkAEB6zswFQXhYh8sLI325buD2YXDqHcBP30BnaeJwY7eYKSn8pvj6Vdo3_VhRb31rPgsUm-Y7DFC3pgmzGI_39wbS1lOruDW4t8G7nSAuqsKsyM6sANOVNTJcWcTE8EWDB_6t0IKyvJaUaruX2hQfMSOS3LBnMANaTRFgYB10IaON3fZxUt-KBOS8_BgZoQpRQo&ved=2ahUKEwiXqY_g7OSWAxWPRZ8JHR1eEmAQFnoECDUQAQ&uoh=1",
+   "displayed_link": "https://thehollywoodchristmasparade.org \u203a category \u203a 2...",
+   "favicon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAABQBACdASocABIAPtE-tFooIigoFAEAGgljALboqcGEgPd6Df6D3g_nw_GAAP72B-DStIJps6Nv88VefS2yoCW2eSqPAIBn8ebA6k2CL9wyhHFO9lZQjo2uSo0h0qR12uxixw6wj_T4q0BDzOYAJG-9vEgDTXq7DqE8P4fHh_12YMhr9KAAAA.webp",
+   "snippet": "The Washington Union Marching Band of Fresno California \u00b7 IMG_9445 \u00b7 Van Nuys High School Cheer \u00b7 Caporales San Sim\u00f3n Cochabamba California \u00b7 Gevorkian Dance ...",
+   "snippet_highlighted_words": [
+    "The Washington Union Marching Band of Fresno California"
+   ],
+   "sitelinks": {
+    "inline": [
+     {
+      "title": "Caporales San Sim\u00f3n...",
+      "link": "https://thehollywoodchristmasparade.org/category/2025-marching-bands-dance-cheer-groups/#:~:text=Caporales%20San%20Sim%C3%B3n%20Cochabamba%20California"
+     },
+     {
+      "title": "Gevorkian Dance Academy",
+      "link": "https://thehollywoodchristmasparade.org/category/2025-marching-bands-dance-cheer-groups/#:~:text=Gevorkian%20Dance%20Academy"
+     },
+     {
+      "title": "Milton High School",
+      "link": "https://thehollywoodchristmasparade.org/category/2025-marching-bands-dance-cheer-groups/#:~:text=Milton%20High%20School"
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "The Washington Union Marching Band of Fresno California \u00b7 IMG_9445 \u00b7 Van Nuys High School Cheer \u00b7 Caporales San Sim\u00f3n Cochabamba California \u00b7 Gevorkian Dance ...",
+     "source_info_link": "https://thehollywoodchristmasparade.org/category/2025-marching-bands-dance-cheer-groups/",
+     "icon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAABQBACdASocABIAPtE-tFooIigoFAEAGgljALboqcGEgPd6Df6D3g_nw_GAAP72B-DStIJps6Nv88VefS2yoCW2eSqPAIBn8ebA6k2CL9wyhHFO9lZQjo2uSo0h0qR12uxixw6wj_T4q0BDzOYAJG-9vEgDTXq7DqE8P4fHh_12YMhr9KAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESkAEB6zswFQXhYh8sLI325buD2YXDqHcBP30BnaeJwY7eYKSn8pvj6Vdo3_VhRb31rPgsUm-Y7DFC3pgmzGI_39wbS1lOruDW4t8G7nSAuqsKsyM6sANOVNTJcWcTE8EWDB_6t0IKyvJaUaruX2hQfMSOS3LBnMANaTRFgYB10IaON3fZxUt-KBOS8_BgZoQpRQo&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESkAEB6zswFQXhYh8sLI325buD2YXDqHcBP30BnaeJwY7eYKSn8pvj6Vdo3_VhRb31rPgsUm-Y7DFC3pgmzGI_39wbS1lOruDW4t8G7nSAuqsKsyM6sANOVNTJcWcTE8EWDB_6t0IKyvJaUaruX2hQfMSOS3LBnMANaTRFgYB10IaON3fZxUt-KBOS8_BgZoQpRQo",
+   "source": "The Hollywood Christmas Parade",
+   "read_more_link": "https://thehollywoodchristmasparade.org/category/2025-marching-bands-dance-cheer-groups/#:~:text=The%20Washington%20Union%20Marching%20Band,Gevorkian%20Dance%20Academy"
+  }
+ ],
+ "dmca_messages": {
+  "title": "Notices about Filtered Results",
+  "messages": [
+   {
+    "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 10 already displayed.If you like, you can repeat the search with the omitted results included.",
+    "highlighted_words": [
+     {
+      "link": "https://www.google.com/search?q=%22The+Washington+Union+Marching+Band+of+Fresno+California%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntc-OPnyfTSx6wMnyHkSp0olaRI5Q:1789072049957&filter=0",
+      "text": "repeat the search with the omitted results included"
+     }
+    ]
+   }
+  ]
+ }
+}

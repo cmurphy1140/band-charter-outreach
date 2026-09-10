@@ -1,0 +1,488 @@
+{
+ "search_information": {
+  "query_displayed": "\"Temple City High School\" California",
+  "total_results": 102000,
+  "time_taken_displayed": 0.4,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Temple City High School",
+  "type": "School in Temple City, California",
+  "entity_type": "local_nav",
+  "kgmid": "/m/0d4y5v",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/0d4y5v&hl=en-US&q=Temple+City+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F0d4y5v&q=Temple+City+High+School",
+  "place_id": "ChIJvzebHqrbwoARRkgwzYV8kpE",
+  "website": "https://tchs.tcusd.net/",
+  "description": "Temple City High School is a four-year comprehensive secondary school located in Temple City, California, in Los Angeles County. The high school was awarded the California Distinguished School award in 1996 and in 2019, and a California Gold Ribbon School award in 2017.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa3126eae678c7a013a2864/images/DVLEj3SHN43Hjfis8nvEhk5mHvyGBhO2rhVCSnOjhUI.webp",
+   "link": "https://www.google.com/maps/place/Temple+City+High+School/data=!4m2!3m1!1s0x0:0x91927c85cd304846?sa=X&ved=2ahUKEwjB5pbB7OSWAxWlRPEDHcIpDu0Q_BJ6BAgSEAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Temple_City_High_School"
+  },
+  "address": "9501 Lemon Ave, Temple City, CA 91780",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntxxCQznGotzcyPUWRoQOwFX4uWaQ:1789071985069&q=temple+city+high+school+address&ludocid=10489583396214294598&sa=X&ved=2ahUKEwjB5pbB7OSWAxWlRPEDHcIpDu0Q6BN6BAggEAI"
+   }
+  ],
+  "colors": "Green, Gold",
+  "colors_links": [
+   {
+    "text": "Green",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntxxCQznGotzcyPUWRoQOwFX4uWaQ:1789071985069&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpugluVS_H7pu657Qyj6KrTqp3gx1TYc7YxhZOMLkimwNXENNc4mmOMWYLNPwUNE_o579RtgZnRJVzhuNyRMNksfWDqV_x2NYH8g52qnK8Y0KB0vfOrUHmIwodCIlm7gWM85y0rHc0glZt0d49rwWLvCMWZOsnMpm7xQltYvQulJOYR2HimgEn5gjG3a1SENFlUrimp0%3D&sa=X&ved=2ahUKEwjB5pbB7OSWAxWlRPEDHcIpDu0QmxN6BAgiEAI"
+   },
+   {
+    "text": "Gold",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntxxCQznGotzcyPUWRoQOwFX4uWaQ:1789071985069&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yU7RztYK-Yab4edFiOhB1UYVMdltt-ZMsiXUtQINgv1cjM6CyoWUPqWkKjzpazcUjCf-LSTftkm1aBoIpBE0d33sUPg9nfZtsksZmbdaNY8kxkwzCPflr6eWXuIIPrdjvYubgCk5WztosXp_uMuA6aidfLPoDrWRHis9GbcH13MF-rZo3M-Vrq44Qt7ld1LbwE9vobU%3D&sa=X&ved=2ahUKEwjB5pbB7OSWAxWlRPEDHcIpDu0QmxN6BAgiEAM"
+   }
+  ],
+  "founded": "1954",
+  "mascot": "Bighorn sheep",
+  "mascot_links": [
+   {
+    "text": "Bighorn sheep",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntxxCQznGotzcyPUWRoQOwFX4uWaQ:1789071985069&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yYXtvalJSUXz8o0r90sX2l_-0DQDnjOZ1zPTrxPAl-1mrVQmERkvgBS0fd9ZDdBQN9Haa7HW6joUXS8HKqTiGKx8rBF-8g2hPNhtR6M7Rr-8Hil6XXE6iMpWoaMtvnl5aKgoPk8%3D&sa=X&ved=2ahUKEwjB5pbB7OSWAxWlRPEDHcIpDu0QmxN6BAgoEAI"
+   }
+  ],
+  "phone": "(626) 548-5040",
+  "raw_hours": "Open \u00b7 Closes 4 PM",
+  "hours": {
+   "thursday": {
+    "opens": "7\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "friday": {
+    "opens": "7\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "7\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "tuesday": {
+    "opens": "7\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "wednesday": {
+    "opens": "7\u202fAM",
+    "closes": "4\u202fPM"
+   }
+  },
+  "unclaimed_listing": true,
+  "people_also_search_for": [
+   {
+    "name": "Temple City",
+    "image": "https://serpapi.com/searches/6aa3126eae678c7a013a2864/images/DVLEj3SHN43Hjfis8nvEho1kwvgfl7gXKkc7lgp3l1PlWdVlR0mCLetUmMlxdrOs.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntxxCQznGotzcyPUWRoQOwFX4uWaQ:1789071985069&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMppUSHB1WlsCuYuI4AGBI5cZNdAtsS2wMPgbjXXQlFjGyzI8XunJiOxntFcV6riwKImToFx88xAJ7m1ZJL_Yn7OaVT9a11qVoKvqBXt5HEqqPRMPuYxCEB2-sFRv1rTHdsr2qoxtYy7flCaR_fAiREPmPgUptWx4I5btsWY_66F2rrRR3atQIRzKWTui0r1YXI8vB4qSSVbKTRMfGFTVUTDYICx1jusYRe2Glp1HZrktqApJ2epwKbsg_6k9IPTe0T0eF6Qs%3D&q=Temple+City&sa=X&ved=2ahUKEwjB5pbB7OSWAxWlRPEDHcIpDu0Qs9oBKAB6BAgeEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Temple+City&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMppUSHB1WlsCuYuI4AGBI5cZNdAtsS2wMPgbjXXQlFjGyzI8XunJiOxntFcV6riwKImToFx88xAJ7m1ZJL_Yn7OaVT9a11qVoKvqBXt5HEqqPRMPuYxCEB2-sFRv1rTHdsr2qoxtYy7flCaR_fAiREPmPgUptWx4I5btsWY_66F2rrRR3atQIRzKWTui0r1YXI8vB4qSSVbKTRMfGFTVUTDYICx1jusYRe2Glp1HZrktqApJ2epwKbsg_6k9IPTe0T0eF6Qs%3D"
+   },
+   {
+    "name": "Arcadia High School",
+    "image": "https://serpapi.com/searches/6aa3126eae678c7a013a2864/images/DVLEj3SHN43Hjfis8nvEho1kwvgfl7gXKkc7lgp3l1OtaSYW_JJDe6KBuQqSaf5Z.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntxxCQznGotzcyPUWRoQOwFX4uWaQ:1789071985069&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yYqeaxLsEMoirvTU29xlZ6QyKdXmcVLNKK-CYzPq4FcQjwVqz5XRMVTSbuCNPOZ8jsX1lbyq4Z7ZX-eAgrQXdQxDCkeT18yr7VjP1TJ-8dGEUbLFnhk4dcJ5Qjn_bkZL12GxPTyLSKsiM8pp94cyf73P3c4kLZbENIV1Tqfsu96XUpB0okENLF9NW2S_CqbnA_Ncm7l-wJfldOpFlK0T4pWOQFB4f-hi6faDq7LrqGuqv7NRJEdvZTyspjQsq4HiQrkALpA%3D&q=Arcadia+High+School&sa=X&ved=2ahUKEwjB5pbB7OSWAxWlRPEDHcIpDu0Qs9oBKAB6BAgeEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Arcadia+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yYqeaxLsEMoirvTU29xlZ6QyKdXmcVLNKK-CYzPq4FcQjwVqz5XRMVTSbuCNPOZ8jsX1lbyq4Z7ZX-eAgrQXdQxDCkeT18yr7VjP1TJ-8dGEUbLFnhk4dcJ5Qjn_bkZL12GxPTyLSKsiM8pp94cyf73P3c4kLZbENIV1Tqfsu96XUpB0okENLF9NW2S_CqbnA_Ncm7l-wJfldOpFlK0T4pWOQFB4f-hi6faDq7LrqGuqv7NRJEdvZTyspjQsq4HiQrkALpA%3D"
+   },
+   {
+    "name": "Rosemead High School",
+    "image": "https://serpapi.com/searches/6aa3126eae678c7a013a2864/images/DVLEj3SHN43Hjfis8nvEho1kwvgfl7gXKkc7lgp3l1Pe13PgUKmg7Zy1KP8-jjAp.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntxxCQznGotzcyPUWRoQOwFX4uWaQ:1789071985069&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67-2UqtftPiWgM90kkurfW9J9JgQMNwKOooFtNR2sAc9hkHtL1H8Aq9yPXqE-MOO-5YYtHsooZYvuoLdhxIBQiGKH8PAKF7s_aGBvRLgFy-cPQQ7st8rpQXhBDJVb6InaeptE5b9cICTXWjNTloBwS8BNW1rLHnrUEQTjLc1ROSmPTL1j1LCdlg_NwB1XYG2ahXEv4B3so7DCCMUoX-PI1LHE3-_ysrExNKW6rkGXVPfMJgi73joJsbH1_u7pwkZycVDWSWvDpfT7Q9mBG_F3MVwptXYj&q=Rosemead+High+School&sa=X&ved=2ahUKEwjB5pbB7OSWAxWlRPEDHcIpDu0Qs9oBKAB6BAgeEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Rosemead+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67-2UqtftPiWgM90kkurfW9J9JgQMNwKOooFtNR2sAc9hkHtL1H8Aq9yPXqE-MOO-5YYtHsooZYvuoLdhxIBQiGKH8PAKF7s_aGBvRLgFy-cPQQ7st8rpQXhBDJVb6InaeptE5b9cICTXWjNTloBwS8BNW1rLHnrUEQTjLc1ROSmPTL1j1LCdlg_NwB1XYG2ahXEv4B3so7DCCMUoX-PI1LHE3-_ysrExNKW6rkGXVPfMJgi73joJsbH1_u7pwkZycVDWSWvDpfT7Q9mBG_F3MVwptXYj"
+   },
+   {
+    "name": "Oak Avenue Intermediate School",
+    "image": "https://serpapi.com/searches/6aa3126eae678c7a013a2864/images/DVLEj3SHN43Hjfis8nvEho1kwvgfl7gXKkc7lgp3l1ODlyXIoFoReAYlhxTImFIj.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntxxCQznGotzcyPUWRoQOwFX4uWaQ:1789071985069&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW676oInYzLtq_WDAGqqU2ZRlzPm2rPTgd6CrnselO_CsKQUN4S0wNxgWEeNKUA3IL8tFpDnNJQtqjBahzcVL3-Kca0oHsJHZMKVgANIay7YRTOYLwHRMtnRGkJuxiy3jFlLDfLUorCbgU96C-tvWXyTb9zvyFZdrwlo-kD1DYRLzbd3sXpdqEb7cabcqh4In83Jh_LjfQRhrdQzM4CO9ZhteXhoC9amLyyYY6OhEsOy9NpGp5NvXJly6ckMGCic45zqiqUbJ9JxzH0aQCwsPulCPTlu_iW&q=Oak+Avenue+Intermediate+School&sa=X&ved=2ahUKEwjB5pbB7OSWAxWlRPEDHcIpDu0Qs9oBKAB6BAgeEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Oak+Avenue+Intermediate+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW676oInYzLtq_WDAGqqU2ZRlzPm2rPTgd6CrnselO_CsKQUN4S0wNxgWEeNKUA3IL8tFpDnNJQtqjBahzcVL3-Kca0oHsJHZMKVgANIay7YRTOYLwHRMtnRGkJuxiy3jFlLDfLUorCbgU96C-tvWXyTb9zvyFZdrwlo-kD1DYRLzbd3sXpdqEb7cabcqh4In83Jh_LjfQRhrdQzM4CO9ZhteXhoC9amLyyYY6OhEsOy9NpGp5NvXJly6ckMGCic45zqiqUbJ9JxzH0aQCwsPulCPTlu_iW"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntxxCQznGotzcyPUWRoQOwFX4uWaQ:1789071985069&q=Temple+City+High+School&stick=H4sIAAAAAAAAAONgFuLUz9U3SDGpNC1TQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iFQ9JzQVJOGeWVCp4ZKZnKAQnZ-Tn5-xgZbzFJsnwxqEiMJevqXNJuOEhVu1FmyOSgm3Sw74fBwBK1fo8fQAAAA&sa=X&ved=2ahUKEwjB5pbB7OSWAxWlRPEDHcIpDu0QzO0BKAR6BAgeEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLUz9U3SDGpNC1TQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iFQ9JzQVJOGeWVCp4ZKZnKAQnZ-Tn5-xgZbzFJsnwxqEiMJevqXNJuOEhVu1FmyOSgm3Sw74fBwBK1fo8fQAAAA",
+  "profiles": [
+   {
+    "name": "X (Twitter)",
+    "link": "https://twitter.com/templecityhigh",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Temple+City+High+School%22+California",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAABhUlEQVR4AczOA6xcARCF4X_us23btuLUQR3WZlhbQW3bto2gtm3b2J3GN4tY74uHh3okOi42Nj4AAUDwTvDEhisABCOAEAzYTBh0bN-lc5d0QgAhHPqX4Y4pkd367Zc-xMcXCPDg8TPwxeQH724Uj9N95GJ4pnHxby1xgCmV3v-GsFb7k0Iee7UjaQgmIYe9v9O4-wUKWaATyMPAViwvr1NnOQWDdTV5CHYSaKWLmaGDyvU4mTgQcllracaFr-9uk-yLM8k8fAJff0IUTghRVFu3M1ynkYk4nchiqqU3Ry05RDibMMhjtj6Ht3dJxVk_l1G64cspOusychBsCWm01WNM0jFs0sbEYUtIIuTXNco588OLh09JxE6wweuXEAvfL9PQus3-iU80N34KCaQyUOcxTTuSjEmMRI5rS9JwIZfD1t7ceo34YIpnuQ4nGwP8XXlq_fJZd9jE8KBHC5IwAELJ7dWrZ6fOuNhkgFgAEEIAwA1MQkw0AgDC_wnKycrKSQ2iPAkAVyNzq8rxicIAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "YouTube",
+    "link": "https://www.youtube.com/channel/UCbPbqTsVirhB6YDQQNb_IwQ",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Temple+City+High+School%22+California",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAP1BMVEX_____z8__n5__kJD_gID_cHD_YGD_v7__39__ICD_AAD_r6__EBD_7-__oKD_MDD_QED_UFD_X1__j4__f396G04EAAAAhklEQVR4AeXQRQLDQAwDQC3bajj5_1dLYb63czYKf8VY50OcBO9swkyUB_SBkfJQlqOXeKJAz_FEQM9zVCqXInqRIy-RC9W-AJDypgCwyoGiV68LkLJFwX6CVJcr8nBwZJgLXMaDAs9RxsMcLE949IQnEnpoeKjEpC25o12OpVwkTURy_JQX1r4RC2S7kZYAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/in/pearl-hsieh-8b9679256",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Temple+City+High+School%22+California",
+    "image": "https://serpapi.com/searches/6aa3126eae678c7a013a2864/images/DVLEj3SHN43Hjfis8nvEhu_zkUPXfj_SP7u_XqtLmaYnQa6jeuPYyMLSWo4cwJ7P.png"
+   },
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/TempleCityHigh/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Temple+City+High+School%22+California",
+    "image": "https://serpapi.com/searches/6aa3126eae678c7a013a2864/images/DVLEj3SHN43Hjfis8nvEhhCAbCN-NbIv-6DRCQGqPgCKvq3cQHsg_mLgA4TeEa32.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "What celebrities went to Temple City High School?",
+   "type": "ai_overview",
+   "page_token": "0_mcI3icHdBfbpswHABg7TJ9bACnmRopmuZhIJ3ijJ__1PAygd2EBBscYKXlbVfYGXaqnWbTjvB9P3_bS9f--fCrmSY_blereZ7vz31_ti_3uneranzv9EpX1taVbrebj5vw00nvyKvGXwaNc-G9jCFgiK5VmD_w52QEbpIjPwRa4qDsyj0NgMNCA521IVXNVxZNe-0AmPKpbKXTC7ZayAsLwZfk6UeF_ACLwTwSbxCXCtKGyJSO9bXhCvlWhY9D6SZbZwCHmPI8NAfmprFO-rVCSVRbeeS8XIM1KYvCgtqnuY6b20smF5FBV1xbpJPPy5F4UsXyoXDmJlwR6BY22mLPECZlht-4m27UlsJwa7kiM-_MUEWHmTTmKtrpVjw_7rUgkQz8ulia3CD4RuMSU9xfcgGLvlon42Q0EZlZAC0LTVd38C6UV_8sgguas7RHIr876dcduvt_vft-ctPWD_35Lyf2jaQ",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=0_mcI3icHdBfbpswHABg7TJ9bACnmRopmuZhIJ3ijJ__1PAygd2EBBscYKXlbVfYGXaqnWbTjvB9P3_bS9f--fCrmSY_blereZ7vz31_ti_3uneranzv9EpX1taVbrebj5vw00nvyKvGXwaNc-G9jCFgiK5VmD_w52QEbpIjPwRa4qDsyj0NgMNCA521IVXNVxZNe-0AmPKpbKXTC7ZayAsLwZfk6UeF_ACLwTwSbxCXCtKGyJSO9bXhCvlWhY9D6SZbZwCHmPI8NAfmprFO-rVCSVRbeeS8XIM1KYvCgtqnuY6b20smF5FBV1xbpJPPy5F4UsXyoXDmJlwR6BY22mLPECZlht-4m27UlsJwa7kiM-_MUEWHmTTmKtrpVjw_7rUgkQz8ulia3CD4RuMSU9xfcgGLvlon42Q0EZlZAC0LTVd38C6UV_8sgguas7RHIr876dcduvt_vft-ctPWD_35Lyf2jaQ",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2JtSklTRFl3VlVZd1JWTkVSbTExZURjNGF6SXROM05PV0RWZmJsQTBkMmsyWkhWcGVtd3RWalp1TTNOalJsOXJkVmRzVW5aMWVIZGZVbnBDVkZFMFNrMURZbnBrZFRSSk1WY3dTVGc0WTBwR1UzVkpVRVZGVFVWRlFSSVhZMUpMYW1GdlNIRkJObGRLZUdNNFVIZDBUelEyUVRRYUlrRkVjM0k1WmxJeVRIcGxXbUkzVW5GWlZFMHlNbVZ4TVhkTGIxQmtTalkxZDJjIiwiZmN2IjoiMyIsImVpIjoiY1JLamFvSHFBNldKeGM4UHd0TzQ2QTQiLCJxYyI6IkNpSjBaVzF3YkdVZ1kybDBlU0JvYVdkb0lITmphRzl2YkNCallXeHBabTl5Ym1saEVBQjlvcGM2UHciLCJxdWVzdGlvbiI6IldoYXQgY2VsZWJyaXRpZXMgd2VudCB0byBUZW1wbGUgQ2l0eSBIaWdoIFNjaG9vbD8iLCJsayI6IkdqQjNhR0YwSUdObGJHVmljbWwwYVdWeklIZGxiblFnZEc4Z2RHVnRjR3hsSUdOcGRIa2dhR2xuYUNCelkyaHZiMnciLCJicyI6ImM0WFFyUV9DTUJBRjhHQ3IwRlBuQ0FNQlZiaUptWGxJQ0xKMFpiM1FYY2w2cE5sX3p6YS1WTUdfMzN1NUU0M1lIcTFpME1hWmM0ZU1Ka0EweE1BZURxYTlPUU1sY2c4Vk5oYjIybnJ2Q2ltelRVd2hmaUk5SWp1aU1DRnhFdmswaENIVkMxZnlrZURpdTBLdXNtVjhwUk9GMzdTd1l2ZW5laEdnVTNSRmFnQUpTdVZ3Y0lTcWtPc3NUdzI4aGY3RXhmQ3R5a2RvRmZVUS1GNFBOd2RReklicW45LXlLWlRZbnM4ZSIsImlkIjoiZmNfY1JLamFvSHFBNldKeGM4UHd0TzQ2QTRfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2JtSklTRFl3VlVZd1JWTkVSbTExZURjNGF6SXROM05PV0RWZmJsQTBkMmsyWkhWcGVtd3RWalp1TTNOalJsOXJkVmRzVW5aMWVIZGZVbnBDVkZFMFNrMURZbnBrZFRSSk1WY3dTVGc0WTBwR1UzVkpVRVZGVFVWRlFSSVhZMUpMYW1GdlNIRkJObGRLZUdNNFVIZDBUelEyUVRRYUlrRkVjM0k1WmxJeVRIcGxXbUkzVW5GWlZFMHlNbVZ4TVhkTGIxQmtTalkxZDJjIiwiZmN2IjoiMyIsImVpIjoiY1JLamFvSHFBNldKeGM4UHd0TzQ2QTQiLCJxYyI6IkNpSjBaVzF3YkdVZ1kybDBlU0JvYVdkb0lITmphRzl2YkNCallXeHBabTl5Ym1saEVBQjlvcGM2UHciLCJxdWVzdGlvbiI6IldoYXQgY2VsZWJyaXRpZXMgd2VudCB0byBUZW1wbGUgQ2l0eSBIaWdoIFNjaG9vbD8iLCJsayI6IkdqQjNhR0YwSUdObGJHVmljbWwwYVdWeklIZGxiblFnZEc4Z2RHVnRjR3hsSUdOcGRIa2dhR2xuYUNCelkyaHZiMnciLCJicyI6ImM0WFFyUV9DTUJBRjhHQ3IwRlBuQ0FNQlZiaUptWGxJQ0xKMFpiM1FYY2w2cE5sX3p6YS1WTUdfMzN1NUU0M1lIcTFpME1hWmM0ZU1Ka0EweE1BZURxYTlPUU1sY2c4Vk5oYjIybnJ2Q2ltelRVd2hmaUk5SWp1aU1DRnhFdmswaENIVkMxZnlrZURpdTBLdXNtVjhwUk9GMzdTd1l2ZW5laEdnVTNSRmFnQUpTdVZ3Y0lTcWtPc3NUdzI4aGY3RXhmQ3R5a2RvRmZVUS1GNFBOd2RReklicW45LXlLWlRZbnM4ZSIsImlkIjoiZmNfY1JLamFvSHFBNldKeGM4UHd0TzQ2QTRfNSJ9"
+  },
+  {
+   "question": "What is Temple City High School known for?",
+   "type": "ai_overview",
+   "page_token": "Y2Zs9HicHdBdTsIwAADgeBkfZQycjoSYFPYHdrBubbe-mNIChXVbkeqAN-_iqTyNxht8-b6-9aGtf-4-lbXmPBkM-r5_2HfdXm8fRNcM-PnaioHgWm-4qCfekzd82Ylp8JGA2SkBGTaGzJGT1xpvQ-YVOBnDYhGyuBpDlxQSG1BhuybYejxmi22pqor6Do41FyW6vhI240foSG1AGsrlxpVX5obLVXRhlA5d2tSPTBsFHTRLae1A7ccrbMuMyOWqWByzm7oRF1WoNAmtoZtH-p1iG8vmuZexhDi6zJj2s3QOzpz6rWxSVI7YqSjNKG-lxQQQ5IQKFWoFAz_iUXWRLQOBkkdc29OfNRE4cIljxtVNZXKE1umcgRR0hwyjmzjqhgR-stHkIN0hlK0Y5o3ClWYXTkmaU3PIS-DJ_n4nPqej-__P6duusRPz3u1_AaQ7gyM",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Y2Zs9HicHdBdTsIwAADgeBkfZQycjoSYFPYHdrBubbe-mNIChXVbkeqAN-_iqTyNxht8-b6-9aGtf-4-lbXmPBkM-r5_2HfdXm8fRNcM-PnaioHgWm-4qCfekzd82Ylp8JGA2SkBGTaGzJGT1xpvQ-YVOBnDYhGyuBpDlxQSG1BhuybYejxmi22pqor6Do41FyW6vhI240foSG1AGsrlxpVX5obLVXRhlA5d2tSPTBsFHTRLae1A7ccrbMuMyOWqWByzm7oRF1WoNAmtoZtH-p1iG8vmuZexhDi6zJj2s3QOzpz6rWxSVI7YqSjNKG-lxQQQ5IQKFWoFAz_iUXWRLQOBkkdc29OfNRE4cIljxtVNZXKE1umcgRR0hwyjmzjqhgR-stHkIN0hlK0Y5o3ClWYXTkmaU3PIS-DJ_n4nPqej-__P6duusRPz3u1_AaQ7gyM",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2JtSklTRFl3VlVZd1JWTkVSbTExZURjNGF6SXROM05PV0RWZmJsQTBkMmsyWkhWcGVtd3RWalp1TTNOalJsOXJkVmRzVW5aMWVIZGZVbnBDVkZFMFNrMURZbnBrZFRSSk1WY3dTVGc0WTBwR1UzVkpVRVZGVFVWRlFSSVhZMUpMYW1GdlNIRkJObGRLZUdNNFVIZDBUelEyUVRRYUlrRkVjM0k1WmxJeVRIcGxXbUkzVW5GWlZFMHlNbVZ4TVhkTGIxQmtTalkxZDJjIiwiZmN2IjoiMyIsImVpIjoiY1JLamFvSHFBNldKeGM4UHd0TzQ2QTQiLCJxYyI6IkNpSjBaVzF3YkdVZ1kybDBlU0JvYVdkb0lITmphRzl2YkNCallXeHBabTl5Ym1saEVBQjlvcGM2UHciLCJxdWVzdGlvbiI6IldoYXQgaXMgVGVtcGxlIENpdHkgSGlnaCBTY2hvb2wga25vd24gZm9yPyIsImxrIjoiR2lsM2FHRjBJR2x6SUhSbGJYQnNaU0JqYVhSNUlHaHBaMmdnYzJOb2IyOXNJR3R1YjNkdUlHWnZjZyIsImJzIjoiYzRYUXJRX0NNQkFGOEdDcjBGUG5DQU1CVmJpSm1YbElDTEowWmIzUVhjbDZwTmxfenphLVZNR18zM3U1RTQzWUhxMWkwTWFaYzRlTUprQTB4TUFlRHFhOU9RTWxjZzhWTmhiMjJucnZDaW16VFV3aGZpSTlJanVpTUNGeEV2azBoQ0hWQzFmeWtlRGl1MEt1c21WOHBST0YzN1N3WXZlbmVoR2dVM1JGYWdBSlN1VndjSVNxa09zc1R3MjhoZjdFeGZDdHlrZG9GZlVRLUY0UE53ZFF6SWJxbjkteUtaVFluczhlIiwiaWQiOiJmY19jUktqYW9IcUE2V0p4YzhQd3RPNDZBNF81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2JtSklTRFl3VlVZd1JWTkVSbTExZURjNGF6SXROM05PV0RWZmJsQTBkMmsyWkhWcGVtd3RWalp1TTNOalJsOXJkVmRzVW5aMWVIZGZVbnBDVkZFMFNrMURZbnBrZFRSSk1WY3dTVGc0WTBwR1UzVkpVRVZGVFVWRlFSSVhZMUpMYW1GdlNIRkJObGRLZUdNNFVIZDBUelEyUVRRYUlrRkVjM0k1WmxJeVRIcGxXbUkzVW5GWlZFMHlNbVZ4TVhkTGIxQmtTalkxZDJjIiwiZmN2IjoiMyIsImVpIjoiY1JLamFvSHFBNldKeGM4UHd0TzQ2QTQiLCJxYyI6IkNpSjBaVzF3YkdVZ1kybDBlU0JvYVdkb0lITmphRzl2YkNCallXeHBabTl5Ym1saEVBQjlvcGM2UHciLCJxdWVzdGlvbiI6IldoYXQgaXMgVGVtcGxlIENpdHkgSGlnaCBTY2hvb2wga25vd24gZm9yPyIsImxrIjoiR2lsM2FHRjBJR2x6SUhSbGJYQnNaU0JqYVhSNUlHaHBaMmdnYzJOb2IyOXNJR3R1YjNkdUlHWnZjZyIsImJzIjoiYzRYUXJRX0NNQkFGOEdDcjBGUG5DQU1CVmJpSm1YbElDTEowWmIzUVhjbDZwTmxfenphLVZNR18zM3U1RTQzWUhxMWkwTWFaYzRlTUprQTB4TUFlRHFhOU9RTWxjZzhWTmhiMjJucnZDaW16VFV3aGZpSTlJanVpTUNGeEV2azBoQ0hWQzFmeWtlRGl1MEt1c21WOHBST0YzN1N3WXZlbmVoR2dVM1JGYWdBSlN1VndjSVNxa09zc1R3MjhoZjdFeGZDdHlrZG9GZlVRLUY0UE53ZFF6SWJxbjkteUtaVFluczhlIiwiaWQiOiJmY19jUktqYW9IcUE2V0p4YzhQd3RPNDZBNF81In0%3D"
+  },
+  {
+   "question": "What is Temple City High School's ranking in California?",
+   "type": "ai_overview",
+   "page_token": "wq2nvXicHdBRbpswAABQ7TL9bLCh7RIpmuSCU1ghxcE2-KcCQwLYBi9hJeFvV9gZdqqdZlMv8D7erz-6G9TfL7_babKXzWo1z_P9aRxPurmXo1mVl9sgV7LUuiql2jw-PYJvR7kNPiR6PkuUUmuZT5wDszh7IUWtBS17EdYDKVnA9vtAqIyKsOnFrtDIxG4bHXh7bvAJyiEEGRAXjtdMONGlMhTQXvSlAUxm2FRwvBXchoxPKTPRa-2A7yJPPaLsWDHRNj7pmBN7cmBdovXMDYCHBcec2ilWDx7L0EvsCHvgzJE77McqOYpBP2fQu9U5fpP_DTpEu4YmWQHarvHRki8IZbpG0hVAwGnZ74Kr5BGtYJIT9nVO1NoN2rqnavpR8HUoaQCZY71iadPaJW-JL1CCxi6lZJG9NhSSrAz0NYfptTJA525CXnmrpB-7Fa1_UoxHMd8d5cfWvfu83r4fzbSx5_H0D8eMjSY",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=wq2nvXicHdBRbpswAABQ7TL9bLCh7RIpmuSCU1ghxcE2-KcCQwLYBi9hJeFvV9gZdqqdZlMv8D7erz-6G9TfL7_babKXzWo1z_P9aRxPurmXo1mVl9sgV7LUuiql2jw-PYJvR7kNPiR6PkuUUmuZT5wDszh7IUWtBS17EdYDKVnA9vtAqIyKsOnFrtDIxG4bHXh7bvAJyiEEGRAXjtdMONGlMhTQXvSlAUxm2FRwvBXchoxPKTPRa-2A7yJPPaLsWDHRNj7pmBN7cmBdovXMDYCHBcec2ilWDx7L0EvsCHvgzJE77McqOYpBP2fQu9U5fpP_DTpEu4YmWQHarvHRki8IZbpG0hVAwGnZ74Kr5BGtYJIT9nVO1NoN2rqnavpR8HUoaQCZY71iadPaJW-JL1CCxi6lZJG9NhSSrAz0NYfptTJA525CXnmrpB-7Fa1_UoxHMd8d5cfWvfu83r4fzbSx5_H0D8eMjSY",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2JtSklTRFl3VlVZd1JWTkVSbTExZURjNGF6SXROM05PV0RWZmJsQTBkMmsyWkhWcGVtd3RWalp1TTNOalJsOXJkVmRzVW5aMWVIZGZVbnBDVkZFMFNrMURZbnBrZFRSSk1WY3dTVGc0WTBwR1UzVkpVRVZGVFVWRlFSSVhZMUpMYW1GdlNIRkJObGRLZUdNNFVIZDBUelEyUVRRYUlrRkVjM0k1WmxJeVRIcGxXbUkzVW5GWlZFMHlNbVZ4TVhkTGIxQmtTalkxZDJjIiwiZmN2IjoiMyIsImVpIjoiY1JLamFvSHFBNldKeGM4UHd0TzQ2QTQiLCJxYyI6IkNpSjBaVzF3YkdVZ1kybDBlU0JvYVdkb0lITmphRzl2YkNCallXeHBabTl5Ym1saEVBQjlvcGM2UHciLCJxdWVzdGlvbiI6IldoYXQgaXMgVGVtcGxlIENpdHkgSGlnaCBTY2hvb2wncyByYW5raW5nIGluIENhbGlmb3JuaWE/IiwibGsiOiJHaXAwWlcxd2JHVWdZMmwwZVNCb2FXZG9JSE5qYUc5dmJDQnlZVzVyYVc1bklHTmhiR2xtYjNKdWFXRSIsImJzIjoiYzRYUXJRX0NNQkFGOEdDcjBGUG5DQU1CVmJpSm1YbElDTEowWmIzUVhjbDZwTmxfenphLVZNR18zM3U1RTQzWUhxMWkwTWFaYzRlTUprQTB4TUFlRHFhOU9RTWxjZzhWTmhiMjJucnZDaW16VFV3aGZpSTlJanVpTUNGeEV2azBoQ0hWQzFmeWtlRGl1MEt1c21WOHBST0YzN1N3WXZlbmVoR2dVM1JGYWdBSlN1VndjSVNxa09zc1R3MjhoZjdFeGZDdHlrZG9GZlVRLUY0UE53ZFF6SWJxbjkteUtaVFluczhlIiwiaWQiOiJmY19jUktqYW9IcUE2V0p4YzhQd3RPNDZBNF81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2JtSklTRFl3VlVZd1JWTkVSbTExZURjNGF6SXROM05PV0RWZmJsQTBkMmsyWkhWcGVtd3RWalp1TTNOalJsOXJkVmRzVW5aMWVIZGZVbnBDVkZFMFNrMURZbnBrZFRSSk1WY3dTVGc0WTBwR1UzVkpVRVZGVFVWRlFSSVhZMUpMYW1GdlNIRkJObGRLZUdNNFVIZDBUelEyUVRRYUlrRkVjM0k1WmxJeVRIcGxXbUkzVW5GWlZFMHlNbVZ4TVhkTGIxQmtTalkxZDJjIiwiZmN2IjoiMyIsImVpIjoiY1JLamFvSHFBNldKeGM4UHd0TzQ2QTQiLCJxYyI6IkNpSjBaVzF3YkdVZ1kybDBlU0JvYVdkb0lITmphRzl2YkNCallXeHBabTl5Ym1saEVBQjlvcGM2UHciLCJxdWVzdGlvbiI6IldoYXQgaXMgVGVtcGxlIENpdHkgSGlnaCBTY2hvb2wncyByYW5raW5nIGluIENhbGlmb3JuaWE%2FIiwibGsiOiJHaXAwWlcxd2JHVWdZMmwwZVNCb2FXZG9JSE5qYUc5dmJDQnlZVzVyYVc1bklHTmhiR2xtYjNKdWFXRSIsImJzIjoiYzRYUXJRX0NNQkFGOEdDcjBGUG5DQU1CVmJpSm1YbElDTEowWmIzUVhjbDZwTmxfenphLVZNR18zM3U1RTQzWUhxMWkwTWFaYzRlTUprQTB4TUFlRHFhOU9RTWxjZzhWTmhiMjJucnZDaW16VFV3aGZpSTlJanVpTUNGeEV2azBoQ0hWQzFmeWtlRGl1MEt1c21WOHBST0YzN1N3WXZlbmVoR2dVM1JGYWdBSlN1VndjSVNxa09zc1R3MjhoZjdFeGZDdHlrZG9GZlVRLUY0UE53ZFF6SWJxbjkteUtaVFluczhlIiwiaWQiOiJmY19jUktqYW9IcUE2V0p4YzhQd3RPNDZBNF81In0%3D"
+  },
+  {
+   "question": "How many students attend Temple City High School?",
+   "type": "ai_overview",
+   "page_token": "WXlNjnicHdBNcpswGADQ6WWyjME4ae0ZT2Yowgktciz5-wTadECqLYP4iU0M1q5X6Blyqp6mnS7f9v36sKe2_vPptxmG_rKazcZxvD923dH-vFddMysut1bNVGFtWah69fj50X86qDW5qvDrWYU76HuMmMdtQhngoMgwopgO34GeaWYYD1i6y5KEbbqFjuJruZl8TnrBnLnkmdmjiCtsYeT2JYBn8y6dNqKZFsWzZpr0Mc36EGu2l_MpoVnqiVpTUbFM1gnR86XjTn7bCvCLKLY5SkwBOwXSbGPcILI3qMErXfheNNjKynS5MB6D_IHGxOOAAI2-lbWVeT0FJZiIOlalmy8jRzQ8wCtv-5t0MqUEmRDMA1hWxOgK6uEtF8sXBWSOXr_IndnpgL3SSIY07E47YE5VtgEfh_LkG47_3JI5WLqV5EEg6EqJod67hOnx7qCu6-Du__X6x6EZVv25O_4FnPCP3Q",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=WXlNjnicHdBNcpswGADQ6WWyjME4ae0ZT2Yowgktciz5-wTadECqLYP4iU0M1q5X6Blyqp6mnS7f9v36sKe2_vPptxmG_rKazcZxvD923dH-vFddMysut1bNVGFtWah69fj50X86qDW5qvDrWYU76HuMmMdtQhngoMgwopgO34GeaWYYD1i6y5KEbbqFjuJruZl8TnrBnLnkmdmjiCtsYeT2JYBn8y6dNqKZFsWzZpr0Mc36EGu2l_MpoVnqiVpTUbFM1gnR86XjTn7bCvCLKLY5SkwBOwXSbGPcILI3qMErXfheNNjKynS5MB6D_IHGxOOAAI2-lbWVeT0FJZiIOlalmy8jRzQ8wCtv-5t0MqUEmRDMA1hWxOgK6uEtF8sXBWSOXr_IndnpgL3SSIY07E47YE5VtgEfh_LkG47_3JI5WLqV5EEg6EqJod67hOnx7qCu6-Du__X6x6EZVv25O_4FnPCP3Q",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2JtSklTRFl3VlVZd1JWTkVSbTExZURjNGF6SXROM05PV0RWZmJsQTBkMmsyWkhWcGVtd3RWalp1TTNOalJsOXJkVmRzVW5aMWVIZGZVbnBDVkZFMFNrMURZbnBrZFRSSk1WY3dTVGc0WTBwR1UzVkpVRVZGVFVWRlFSSVhZMUpMYW1GdlNIRkJObGRLZUdNNFVIZDBUelEyUVRRYUlrRkVjM0k1WmxJeVRIcGxXbUkzVW5GWlZFMHlNbVZ4TVhkTGIxQmtTalkxZDJjIiwiZmN2IjoiMyIsImVpIjoiY1JLamFvSHFBNldKeGM4UHd0TzQ2QTQiLCJxYyI6IkNpSjBaVzF3YkdVZ1kybDBlU0JvYVdkb0lITmphRzl2YkNCallXeHBabTl5Ym1saEVBQjlvcGM2UHciLCJxdWVzdGlvbiI6IkhvdyBtYW55IHN0dWRlbnRzIGF0dGVuZCBUZW1wbGUgQ2l0eSBIaWdoIFNjaG9vbD8iLCJsayI6IkdqQm9iM2NnYldGdWVTQnpkSFZrWlc1MGN5QmhkSFJsYm1RZ2RHVnRjR3hsSUdOcGRIa2dhR2xuYUNCelkyaHZiMnciLCJicyI6ImM0WFFyUV9DTUJBRjhHQ3IwRlBuQ0FNQlZiaUptWGxJQ0xKMFpiM1FYY2w2cE5sX3p6YS1WTUdfMzN1NUU0M1lIcTFpME1hWmM0ZU1Ka0EweE1BZURxYTlPUU1sY2c4Vk5oYjIybnJ2Q2ltelRVd2hmaUk5SWp1aU1DRnhFdmswaENIVkMxZnlrZURpdTBLdXNtVjhwUk9GMzdTd1l2ZW5laEdnVTNSRmFnQUpTdVZ3Y0lTcWtPc3NUdzI4aGY3RXhmQ3R5a2RvRmZVUS1GNFBOd2RReklicW45LXlLWlRZbnM4ZSIsImlkIjoiZmNfY1JLamFvSHFBNldKeGM4UHd0TzQ2QTRfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2JtSklTRFl3VlVZd1JWTkVSbTExZURjNGF6SXROM05PV0RWZmJsQTBkMmsyWkhWcGVtd3RWalp1TTNOalJsOXJkVmRzVW5aMWVIZGZVbnBDVkZFMFNrMURZbnBrZFRSSk1WY3dTVGc0WTBwR1UzVkpVRVZGVFVWRlFSSVhZMUpMYW1GdlNIRkJObGRLZUdNNFVIZDBUelEyUVRRYUlrRkVjM0k1WmxJeVRIcGxXbUkzVW5GWlZFMHlNbVZ4TVhkTGIxQmtTalkxZDJjIiwiZmN2IjoiMyIsImVpIjoiY1JLamFvSHFBNldKeGM4UHd0TzQ2QTQiLCJxYyI6IkNpSjBaVzF3YkdVZ1kybDBlU0JvYVdkb0lITmphRzl2YkNCallXeHBabTl5Ym1saEVBQjlvcGM2UHciLCJxdWVzdGlvbiI6IkhvdyBtYW55IHN0dWRlbnRzIGF0dGVuZCBUZW1wbGUgQ2l0eSBIaWdoIFNjaG9vbD8iLCJsayI6IkdqQm9iM2NnYldGdWVTQnpkSFZrWlc1MGN5QmhkSFJsYm1RZ2RHVnRjR3hsSUdOcGRIa2dhR2xuYUNCelkyaHZiMnciLCJicyI6ImM0WFFyUV9DTUJBRjhHQ3IwRlBuQ0FNQlZiaUptWGxJQ0xKMFpiM1FYY2w2cE5sX3p6YS1WTUdfMzN1NUU0M1lIcTFpME1hWmM0ZU1Ka0EweE1BZURxYTlPUU1sY2c4Vk5oYjIybnJ2Q2ltelRVd2hmaUk5SWp1aU1DRnhFdmswaENIVkMxZnlrZURpdTBLdXNtVjhwUk9GMzdTd1l2ZW5laEdnVTNSRmFnQUpTdVZ3Y0lTcWtPc3NUdzI4aGY3RXhmQ3R5a2RvRmZVUS1GNFBOd2RReklicW45LXlLWlRZbnM4ZSIsImlkIjoiZmNfY1JLamFvSHFBNldKeGM4UHd0TzQ2QTRfNSJ9"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Temple City High School - Home",
+   "link": "https://tchs.tcusd.net/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTwHrOzAVmyMWQId7gHAbBSinfD4ZhBB-WtUX6HGLPOg3n535NPBTgcs9N1dFtFUAv9iCFfepN9hQ7siyBx9hLmOBy5szoM-z0zCg82vvjRw&ved=2ahUKEwjB5pbB7OSWAxWlRPEDHcIpDu0QFnoECEYQAQ&uoh=1",
+   "displayed_link": "https://tchs.tcusd.net",
+   "favicon": "https://serpapi.com/images/i/UklGRpABAABXRUJQVlA4IIQBAADQBwCdASocABwAPtE-tFooIigoFAEAGglAFvfW5t5b4GksxMeeVnF-kgrrsTIlevTPkTFxfvq4Ui6m04TX_i1IwlMI-1CAAAD-9hIz5LnplPIF4inzxt409aOnX6N0dkkgF2YDHQmRjfWeIvoc-0xwVW-yOXwgrH7foTZGECEPrnUSsrnGmVgBwp8-ajbpKLMs8QFkq-YY9eJBrC7qFsaXjy-zrf6d_BZrzwkG4BbA1H-ViL4jmYZceRAny8o895F5I4o3ZWf4Uw5k3KopIgbEf9ei--BgfDW-tfvKpubN1qdtW6uGMmNhzeoFI0AAQ7xiaWcbpaVEnKjXhahTOYWx1--wwQlIukM_x9UubSKA8yNIyvzzFo9es9-aLnzKnFvykt2_XWfm-TfH7eZfEXoYOqCvrvsaNGlyMRKl5INuEAQ8WvTzrkEavchJ33j-pw37lMv0XgX3_NJ7fQOC7T820eulPCGCY3pbpwWw5PX8WTlujgX-tqSNwn9yAgACrWhooAAA.webp",
+   "snippet": "Temple City High School.",
+   "snippet_highlighted_words": [
+    "Temple City High School"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "Bell Schedules",
+      "link": "https://tchs.tcusd.net/67951",
+      "snippet": "Preview unavailable. Click here to view Bell Schedules 2026 2027 ..."
+     },
+     {
+      "title": "Calendar",
+      "link": "https://tchs.tcusd.net/67906",
+      "snippet": "Temple City High School."
+     },
+     {
+      "title": "Staff Directory",
+      "link": "https://tchs.tcusd.net/234732_2",
+      "snippet": "Temple City High School."
+     },
+     {
+      "title": "Contact Us",
+      "link": "https://tchs.tcusd.net/235115_2",
+      "snippet": "Temple City High School."
+     },
+     {
+      "title": "For Students",
+      "link": "https://tchs.tcusd.net/for-students",
+      "snippet": "S. Student Store. Temple City High School. Address: ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Temple City High School.",
+     "source_info_link": "https://tchs.tcusd.net/",
+     "icon": "https://serpapi.com/images/i/UklGRpABAABXRUJQVlA4IIQBAADQBwCdASocABwAPtE-tFooIigoFAEAGglAFvfW5t5b4GksxMeeVnF-kgrrsTIlevTPkTFxfvq4Ui6m04TX_i1IwlMI-1CAAAD-9hIz5LnplPIF4inzxt409aOnX6N0dkkgF2YDHQmRjfWeIvoc-0xwVW-yOXwgrH7foTZGECEPrnUSsrnGmVgBwp8-ajbpKLMs8QFkq-YY9eJBrC7qFsaXjy-zrf6d_BZrzwkG4BbA1H-ViL4jmYZceRAny8o895F5I4o3ZWf4Uw5k3KopIgbEf9ei--BgfDW-tfvKpubN1qdtW6uGMmNhzeoFI0AAQ7xiaWcbpaVEnKjXhahTOYWx1--wwQlIukM_x9UubSKA8yNIyvzzFo9es9-aLnzKnFvykt2_XWfm-TfH7eZfEXoYOqCvrvsaNGlyMRKl5INuEAQ8WvTzrkEavchJ33j-pw37lMv0XgX3_NJ7fQOC7T820eulPCGCY3pbpwWw5PX8WTlujgX-tqSNwn9yAgACrWhooAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESTwHrOzAVmyMWQId7gHAbBSinfD4ZhBB-WtUX6HGLPOg3n535NPBTgcs9N1dFtFUAv9iCFfepN9hQ7siyBx9hLmOBy5szoM-z0zCg82vvjRw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESTwHrOzAVmyMWQId7gHAbBSinfD4ZhBB-WtUX6HGLPOg3n535NPBTgcs9N1dFtFUAv9iCFfepN9hQ7siyBx9hLmOBy5szoM-z0zCg82vvjRw",
+   "source": "Temple City High School"
+  },
+  {
+   "position": 2,
+   "title": "Temple City Unified School District - Home",
+   "link": "https://tcusd.net/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESSgHrOzAVpz94se9nMIA2q66Xn3U6gbi_NQ7ug2IK8A4eQ4TfdYt4q0tOndhvVWzuDhgVSP2_TP3dNHN9gQKK8Gc6lqvWzble1orV&ved=2ahUKEwjB5pbB7OSWAxWlRPEDHcIpDu0QFnoECEkQAQ&uoh=1",
+   "displayed_link": "https://tcusd.net",
+   "favicon": "https://serpapi.com/images/i/UklGRpABAABXRUJQVlA4IIQBAADQBwCdASocABwAPtE-tFooIigoFAEAGglAFvfW5t5b4GksxMeeVnF-kgrrsTIlevTPkTFxfvq4Ui6m04TX_i1IwlMI-1CAAAD-9hIz5LnplPIF4inzxt409aOnX6N0dkkgF2YDHQmRjfWeIvoc-0xwVW-yOXwgrH7foTZGECEPrnUSsrnGmVgBwp8-ajbpKLMs8QFkq-YY9eJBrC7qFsaXjy-zrf6d_BZrzwkG4BbA1H-ViL4jmYZceRAny8o895F5I4o3ZWf4Uw5k3KopIgbEf9ei--BgfDW-tfvKpubN1qdtW6uGMmNhzeoFI0AAQ7xiaWcbpaVEnKjXhahTOYWx1--wwQlIukM_x9UubSKA8yNIyvzzFo9es9-aLnzKnFvykt2_XWfm-TfH7eZfEXoYOqCvrvsaNGlyMRKl5INuEAQ8WvTzrkEavchJ33j-pw37lMv0XgX3_NJ7fQOC7T820eulPCGCY3pbpwWw5PX8WTlujgX-tqSNwn9yAgACrWhooAAA.webp",
+   "snippet": "Temple City High School ranks in the top 5% nationally and state wide, highlighted by a 98% graduation rate and outstanding college readiness.TEMPLE CITY, CA \u2014 ...",
+   "snippet_highlighted_words": [
+    "Temple City High School",
+    "CA"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Temple City High School ranks in the top 5% nationally and state wide, highlighted by a 98% graduation rate and outstanding college readiness.TEMPLE CITY, CA \u2014 ...",
+     "source_info_link": "https://tcusd.net/",
+     "icon": "https://serpapi.com/images/i/UklGRpABAABXRUJQVlA4IIQBAADQBwCdASocABwAPtE-tFooIigoFAEAGglAFvfW5t5b4GksxMeeVnF-kgrrsTIlevTPkTFxfvq4Ui6m04TX_i1IwlMI-1CAAAD-9hIz5LnplPIF4inzxt409aOnX6N0dkkgF2YDHQmRjfWeIvoc-0xwVW-yOXwgrH7foTZGECEPrnUSsrnGmVgBwp8-ajbpKLMs8QFkq-YY9eJBrC7qFsaXjy-zrf6d_BZrzwkG4BbA1H-ViL4jmYZceRAny8o895F5I4o3ZWf4Uw5k3KopIgbEf9ei--BgfDW-tfvKpubN1qdtW6uGMmNhzeoFI0AAQ7xiaWcbpaVEnKjXhahTOYWx1--wwQlIukM_x9UubSKA8yNIyvzzFo9es9-aLnzKnFvykt2_XWfm-TfH7eZfEXoYOqCvrvsaNGlyMRKl5INuEAQ8WvTzrkEavchJ33j-pw37lMv0XgX3_NJ7fQOC7T820eulPCGCY3pbpwWw5PX8WTlujgX-tqSNwn9yAgACrWhooAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESSgHrOzAVpz94se9nMIA2q66Xn3U6gbi_NQ7ug2IK8A4eQ4TfdYt4q0tOndhvVWzuDhgVSP2_TP3dNHN9gQKK8Gc6lqvWzble1orV&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESSgHrOzAVpz94se9nMIA2q66Xn3U6gbi_NQ7ug2IK8A4eQ4TfdYt4q0tOndhvVWzuDhgVSP2_TP3dNHN9gQKK8Gc6lqvWzble1orV",
+   "source": "Temple City Unified School District",
+   "read_more_link": "https://tcusd.net/#:~:text=Temple%20City%20High%20School%20ranks,High%20School%20(TCHS)%2C%20part%20..."
+  },
+  {
+   "position": 3,
+   "title": "Temple City High School",
+   "link": "https://en.wikipedia.org/wiki/Temple_City_High_School",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbQHrOzAVSsqxMUauIuGnsoPa6DkWFafX3J3aYnZ_IUNC0_fMlisvb4uN8ia8rUCNV4WehT2g4toGA3x7jDiOLiG3JfrdeJezuGeJTHI16mqaQwt3IqZn4QjBE8iC080g9_F_UJv504bt9Yk-T1w&ved=2ahUKEwjB5pbB7OSWAxWlRPEDHcIpDu0QFnoECE8QAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Temple_City_High_Sc...",
+   "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+   "snippet": "Temple City High School (also known as TCHS) is a four-year comprehensive secondary school located in Temple City, California, in Los Angeles County.",
+   "snippet_highlighted_words": [
+    "Temple City High School",
+    "California"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Temple City High School (also known as TCHS) is a four-year comprehensive secondary school located in Temple City, California, in Los Angeles County.",
+     "source_info_link": "https://en.wikipedia.org/wiki/Temple_City_High_School",
+     "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESbQHrOzAVSsqxMUauIuGnsoPa6DkWFafX3J3aYnZ_IUNC0_fMlisvb4uN8ia8rUCNV4WehT2g4toGA3x7jDiOLiG3JfrdeJezuGeJTHI16mqaQwt3IqZn4QjBE8iC080g9_F_UJv504bt9Yk-T1w&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESbQHrOzAVSsqxMUauIuGnsoPa6DkWFafX3J3aYnZ_IUNC0_fMlisvb4uN8ia8rUCNV4WehT2g4toGA3x7jDiOLiG3JfrdeJezuGeJTHI16mqaQwt3IqZn4QjBE8iC080g9_F_UJv504bt9Yk-T1w",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Temple_City_High_School#:~:text=Temple%20City%20High%20School%20(also,California%2C%20in%20Los%20Angeles%20County."
+  },
+  {
+   "position": 4,
+   "title": "Temple City High School",
+   "link": "https://www.usnews.com/education/best-high-schools/california/districts/temple-city-unified-school-district/temple-city-high-school-3555",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESwQEB6zswFdGD3mBkRRjEankl2HMg8zoZf7AW_Azkbq6c8YCXTBDFdAW2tRZem3sSNOaLJquUU9KMlS9K9dIbCjKeE4SFkpIiPRtXG0EtmBcj2SiyMMuc5iq7pumpKqifbVVOcwuyrw_kK2NmZVXXgNqiVwTb7BTFQ1FASoS2GzWBleT-tlirFjLnIQtZDdWJzEXX_KBPixHtDZu2QsRihd3tUiuKd3FwXe7X_bh1XB4L6nBBPQXvzfo1HYcwWWvftKgb&ved=2ahUKEwjB5pbB7OSWAxWlRPEDHcIpDu0QFnoECEwQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a california \u203a districts \u203a temple...",
+   "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp",
+   "snippet": "Temple City High School is ranked #817 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+   "snippet_highlighted_words": [
+    "Temple City High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Temple City High School is ranked #817 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/california/districts/temple-city-unified-school-district/temple-city-high-school-3555",
+     "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESwQEB6zswFdGD3mBkRRjEankl2HMg8zoZf7AW_Azkbq6c8YCXTBDFdAW2tRZem3sSNOaLJquUU9KMlS9K9dIbCjKeE4SFkpIiPRtXG0EtmBcj2SiyMMuc5iq7pumpKqifbVVOcwuyrw_kK2NmZVXXgNqiVwTb7BTFQ1FASoS2GzWBleT-tlirFjLnIQtZDdWJzEXX_KBPixHtDZu2QsRihd3tUiuKd3FwXe7X_bh1XB4L6nBBPQXvzfo1HYcwWWvftKgb&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESwQEB6zswFdGD3mBkRRjEankl2HMg8zoZf7AW_Azkbq6c8YCXTBDFdAW2tRZem3sSNOaLJquUU9KMlS9K9dIbCjKeE4SFkpIiPRtXG0EtmBcj2SiyMMuc5iq7pumpKqifbVVOcwuyrw_kK2NmZVXXgNqiVwTb7BTFQ1FASoS2GzWBleT-tlirFjLnIQtZDdWJzEXX_KBPixHtDZu2QsRihd3tUiuKd3FwXe7X_bh1XB4L6nBBPQXvzfo1HYcwWWvftKgb",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/california/districts/temple-city-unified-school-district/temple-city-high-school-3555#:~:text=Temple%20City%20High%20School%20is,they%20prepare%20students%20for%20college."
+  },
+  {
+   "position": 5,
+   "title": "Schools | Temple City, CA - Official Website",
+   "link": "https://www.templecityca.gov/291/Schools",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAVLB5OcSTU-28aMQUWQHJoWDHiIiEiE_xlpqWYsh3P-F1z3m5-1rm0eJ4-Vdv_UZoPDSg2xqNoJm8G4asUwHdNG-4aWdTHoSrQt0fjff8oQbhCuSt6OIyUhBLBwA&ved=2ahUKEwjB5pbB7OSWAxWlRPEDHcIpDu0QFnoECFMQAQ&uoh=1",
+   "displayed_link": "https://www.templecityca.gov \u203a Schools",
+   "favicon": "https://serpapi.com/images/i/UklGRhwCAABXRUJQVlA4IBACAABwCQCdASogACAAPrUurVanIacnG_DgFolqAL9EFLswRoJnM-H3wfm_eD7YpFusJyFxAaQKZb42fpQd9LK_7Obs72w-pYC2ya2LuE8EAL9-aGBeXQAA1vfR8DUL7Z3OaKsxu93JUNxgo2tH1nl1nMhnFwFUbZki7ZzC_Simyj5-58bDQy6ugB5mJs4zArKJffL3T45ltUtJ8sKvErQMPvGqUEc7j_NVk-F9aDYbzcy4mq0_UlgqRzwhZ5wASX4YsybsIan5SZZOYnAt0z27DsTlWenLLM-471EOsRzsWQVYqNuKaFCz2EXdOgDTRSv0mu6saSr9E0qRP4buyNoBrZgF4H9S7vMZ5EqOpCRwRz2B-bNno6uZDBv8v6n73_Z6Ghk8OLsfFVy1Jt0uukfK9ydVRPzCIeUFXvnfLJIYw8FyxYE3jH4JFG-ThFsS4_dcpo5-llV9pUQifEM2r3izxoalOl6LgNoy4z4fHYUbns5Mbz2dlcQ77wJPQgUA8h8fuAX3vf-fnaMH_OYTjQGH_HKs9rPyqu31msAnrZgB1EGClfNmsUQnKBHE-eZbtCdSkm7Ceo8mjjTJQPXnyI8U7HBX6UUrfVm85BAn3xT_-iZKsPdf0-zB9p4ldscreX3vxLzNsQ-xYX8-I9ZJTbOmaA_-3oHDnBw2Zv98xE3GFk5LrBDz96ricfiHovzydJ44AAA.webp",
+   "snippet": "Schools. Temple City High School. Temple City is served by 13 public schools ... Temple City, CA 91780. Phone: 626-285-2171. Fax: 626-285-8192. Quick Links.",
+   "snippet_highlighted_words": [
+    "Temple City High School",
+    "CA"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Schools. Temple City High School. Temple City is served by 13 public schools ... Temple City, CA 91780. Phone: 626-285-2171. Fax: 626-285-8192. Quick Links.",
+     "source_info_link": "https://www.templecityca.gov/291/Schools",
+     "icon": "https://serpapi.com/images/i/UklGRhwCAABXRUJQVlA4IBACAABwCQCdASogACAAPrUurVanIacnG_DgFolqAL9EFLswRoJnM-H3wfm_eD7YpFusJyFxAaQKZb42fpQd9LK_7Obs72w-pYC2ya2LuE8EAL9-aGBeXQAA1vfR8DUL7Z3OaKsxu93JUNxgo2tH1nl1nMhnFwFUbZki7ZzC_Simyj5-58bDQy6ugB5mJs4zArKJffL3T45ltUtJ8sKvErQMPvGqUEc7j_NVk-F9aDYbzcy4mq0_UlgqRzwhZ5wASX4YsybsIan5SZZOYnAt0z27DsTlWenLLM-471EOsRzsWQVYqNuKaFCz2EXdOgDTRSv0mu6saSr9E0qRP4buyNoBrZgF4H9S7vMZ5EqOpCRwRz2B-bNno6uZDBv8v6n73_Z6Ghk8OLsfFVy1Jt0uukfK9ydVRPzCIeUFXvnfLJIYw8FyxYE3jH4JFG-ThFsS4_dcpo5-llV9pUQifEM2r3izxoalOl6LgNoy4z4fHYUbns5Mbz2dlcQ77wJPQgUA8h8fuAX3vf-fnaMH_OYTjQGH_HKs9rPyqu31msAnrZgB1EGClfNmsUQnKBHE-eZbtCdSkm7Ceo8mjjTJQPXnyI8U7HBX6UUrfVm85BAn3xT_-iZKsPdf0-zB9p4ldscreX3vxLzNsQ-xYX8-I9ZJTbOmaA_-3oHDnBw2Zv98xE3GFk5LrBDz96ricfiHovzydJ44AAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYAHrOzAVLB5OcSTU-28aMQUWQHJoWDHiIiEiE_xlpqWYsh3P-F1z3m5-1rm0eJ4-Vdv_UZoPDSg2xqNoJm8G4asUwHdNG-4aWdTHoSrQt0fjff8oQbhCuSt6OIyUhBLBwA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYAHrOzAVLB5OcSTU-28aMQUWQHJoWDHiIiEiE_xlpqWYsh3P-F1z3m5-1rm0eJ4-Vdv_UZoPDSg2xqNoJm8G4asUwHdNG-4aWdTHoSrQt0fjff8oQbhCuSt6OIyUhBLBwA",
+   "source": "Temple City (.gov)",
+   "read_more_link": "https://www.templecityca.gov/291/Schools#:~:text=Schools,in%20four%20local%20school%20districts.&text=Temple%20City%2C%20CA%2091780,Quick%20Links"
+  },
+  {
+   "position": 6,
+   "title": "Temple City High School - California",
+   "link": "https://www.greatschools.org/california/temple-city/2960-Temple-City-High-School/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiQEB6zswFZzam8LwyDmy5bEDN4IvLgUOL1Sup_J3vu0-bjPJaWHdqYcwrwTbvfewzQrPNaOx66ZVpZSl1Ss6zUl2gDIu-n0bpoGh3v7fVFn2A0f-qpJc6EtQV2_t5jUXUUZBpnpod70Y9_2KmtFhRnE4Qef1Zz7TbqNZHxawv27IC06jx8MKkweZAw&ved=2ahUKEwjB5pbB7OSWAxWlRPEDHcIpDu0QFnoECE4QAQ&uoh=1",
+   "displayed_link": "https://www.greatschools.org \u203a california \u203a 2960-Templ...",
+   "favicon": "https://serpapi.com/images/i/UklGRnABAABXRUJQVlA4IGQBAABQCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_jtuHbtjAbYDcAbyB6AHSlf6oixRzh8GEWsYxJ825M9RhM3gV5vdPb_m98cAA_vi6aS7Pzd7susCq7-6fF19W_uHxnTUiht4Bnli4K1NZlcvWNx_U9wUWYJNt7XaI9c-ByTdyo4mDmlZ-5yiSyr_u7cBW9GjDY0XOwNkf3M-JPMdorcnf5W3JquL_1XhdMWG9MeU4wxsyWrY1EBIhBEe9pptiUN9e6cDdPncpdjgPIvoHDAfly9B5KtVb-rS2mA85vxw-fVfJkvrbkjL-z0L62bhyC1muRYqxX5mA92DT5WC6rg1GKs3vDTWtEWyQkNCx7JpqOrcRh1tXyd6AvX19XcKdTTPG1ozotzAlVyERstS5yUat0Hnv2de5D6l_B6PNH32glgAMU9TscSW7BeznX-ttUqaHqMZfqKDlq_LuvvKpt3UAAA.webp",
+   "snippet": "Temple City High School is a public school in Temple City, CA, offering AP courses and a Gifted & Talented program. It is one of 4 high schools in Temple ...",
+   "snippet_highlighted_words": [
+    "Temple City High School",
+    "CA"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Temple City High School is a public school in Temple City, CA, offering AP courses and a Gifted & Talented program. It is one of 4 high schools in Temple ...",
+     "source_info_link": "https://www.greatschools.org/california/temple-city/2960-Temple-City-High-School/",
+     "icon": "https://serpapi.com/images/i/UklGRnABAABXRUJQVlA4IGQBAABQCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_jtuHbtjAbYDcAbyB6AHSlf6oixRzh8GEWsYxJ825M9RhM3gV5vdPb_m98cAA_vi6aS7Pzd7susCq7-6fF19W_uHxnTUiht4Bnli4K1NZlcvWNx_U9wUWYJNt7XaI9c-ByTdyo4mDmlZ-5yiSyr_u7cBW9GjDY0XOwNkf3M-JPMdorcnf5W3JquL_1XhdMWG9MeU4wxsyWrY1EBIhBEe9pptiUN9e6cDdPncpdjgPIvoHDAfly9B5KtVb-rS2mA85vxw-fVfJkvrbkjL-z0L62bhyC1muRYqxX5mA92DT5WC6rg1GKs3vDTWtEWyQkNCx7JpqOrcRh1tXyd6AvX19XcKdTTPG1ozotzAlVyERstS5yUat0Hnv2de5D6l_B6PNH32glgAMU9TscSW7BeznX-ttUqaHqMZfqKDlq_LuvvKpt3UAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESiQEB6zswFZzam8LwyDmy5bEDN4IvLgUOL1Sup_J3vu0-bjPJaWHdqYcwrwTbvfewzQrPNaOx66ZVpZSl1Ss6zUl2gDIu-n0bpoGh3v7fVFn2A0f-qpJc6EtQV2_t5jUXUUZBpnpod70Y9_2KmtFhRnE4Qef1Zz7TbqNZHxawv27IC06jx8MKkweZAw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESiQEB6zswFZzam8LwyDmy5bEDN4IvLgUOL1Sup_J3vu0-bjPJaWHdqYcwrwTbvfewzQrPNaOx66ZVpZSl1Ss6zUl2gDIu-n0bpoGh3v7fVFn2A0f-qpJc6EtQV2_t5jUXUUZBpnpod70Y9_2KmtFhRnE4Qef1Zz7TbqNZHxawv27IC06jx8MKkweZAw",
+   "source": "GreatSchools"
+  },
+  {
+   "position": 7,
+   "title": "Temple City High (@templecityhigh)",
+   "link": "https://www.instagram.com/templecityhigh/?hl=en",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZwHrOzAV6NwypjqAURfqb6IBjpYQFkpDLxXWNTpv3ZKTLV1X0GjokXHmmEgWfktHs36eIY5auM8Ql7VUPxxRhfd1NgyaNCPE9CqvWhycaFkNlUXA4QqyID9DSGbMxtZ8kd4hrap5zUg&ved=2ahUKEwjB5pbB7OSWAxWlRPEDHcIpDu0QFnoECFUQAQ&uoh=1",
+   "displayed_link": "3.1K+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+   "snippet": "We appreciate you! Congratulations to Temple City High School's ...",
+   "snippet_highlighted_words": [
+    "Temple City High School's"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "We appreciate you! Congratulations to Temple City High School's ...",
+     "source_info_link": "https://www.instagram.com/templecityhigh/?hl=en",
+     "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESZwHrOzAV6NwypjqAURfqb6IBjpYQFkpDLxXWNTpv3ZKTLV1X0GjokXHmmEgWfktHs36eIY5auM8Ql7VUPxxRhfd1NgyaNCPE9CqvWhycaFkNlUXA4QqyID9DSGbMxtZ8kd4hrap5zUg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESZwHrOzAV6NwypjqAURfqb6IBjpYQFkpDLxXWNTpv3ZKTLV1X0GjokXHmmEgWfktHs36eIY5auM8Ql7VUPxxRhfd1NgyaNCPE9CqvWhycaFkNlUXA4QqyID9DSGbMxtZ8kd4hrap5zUg",
+   "source": "Instagram \u00b7 templecityhigh"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Temple city high school california football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntxxCQznGotzcyPUWRoQOwFX4uWaQ:1789071985069&q=Temple+city+high+school+california+football&sa=X&ved=2ahUKEwjB5pbB7OSWAxWlRPEDHcIpDu0Q1QJ6BAhFEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Temple+city+high+school+california+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Temple city high school california yearbook",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntxxCQznGotzcyPUWRoQOwFX4uWaQ:1789071985069&q=Temple+city+high+school+california+yearbook&sa=X&ved=2ahUKEwjB5pbB7OSWAxWlRPEDHcIpDu0Q1QJ6BAhpEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Temple+city+high+school+california+yearbook"
+  },
+  {
+   "block_position": 1,
+   "query": "Temple city high school california tuition",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntxxCQznGotzcyPUWRoQOwFX4uWaQ:1789071985069&q=Temple+city+high+school+california+tuition&sa=X&ved=2ahUKEwjB5pbB7OSWAxWlRPEDHcIpDu0Q1QJ6BAhfEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Temple+city+high+school+california+tuition"
+  },
+  {
+   "block_position": 1,
+   "query": "Temple city high school california ranking",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntxxCQznGotzcyPUWRoQOwFX4uWaQ:1789071985069&q=Temple+city+high+school+california+ranking&sa=X&ved=2ahUKEwjB5pbB7OSWAxWlRPEDHcIpDu0Q1QJ6BAhbEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Temple+city+high+school+california+ranking"
+  },
+  {
+   "block_position": 1,
+   "query": "Temple City High school bell Schedule",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntxxCQznGotzcyPUWRoQOwFX4uWaQ:1789071985069&q=Temple+City+High+school+bell+Schedule&sa=X&ved=2ahUKEwjB5pbB7OSWAxWlRPEDHcIpDu0Q1QJ6BAhZEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Temple+City+High+school+bell+Schedule"
+  },
+  {
+   "block_position": 1,
+   "query": "Temple city unified school district calendar 2026-2027",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntxxCQznGotzcyPUWRoQOwFX4uWaQ:1789071985069&q=Temple+city+unified+school+district+calendar+2026-2027&sa=X&ved=2ahUKEwjB5pbB7OSWAxWlRPEDHcIpDu0Q1QJ6BAhUEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Temple+city+unified+school+district+calendar+2026-2027"
+  },
+  {
+   "block_position": 1,
+   "query": "Temple city high school california alumni",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntxxCQznGotzcyPUWRoQOwFX4uWaQ:1789071985069&q=Temple+city+high+school+california+alumni&sa=X&ved=2ahUKEwjB5pbB7OSWAxWlRPEDHcIpDu0Q1QJ6BAhQEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Temple+city+high+school+california+alumni"
+  },
+  {
+   "block_position": 1,
+   "query": "Temple city high school california famous alumni",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntxxCQznGotzcyPUWRoQOwFX4uWaQ:1789071985069&q=Temple+city+high+school+california+famous+alumni&sa=X&ved=2ahUKEwjB5pbB7OSWAxWlRPEDHcIpDu0Q1QJ6BAhNEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Temple+city+high+school+california+famous+alumni"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Temple+City+High+School%22+California&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntxxCQznGotzcyPUWRoQOwFX4uWaQ:1789071985069&ei=cRKjaoHqA6WJxc8PwtO46A4&start=10&sa=N&sstk=AS6-VmL6X4yRlwQO1rHQ_wHfZR-vfJQw6ipikNawwyarqTM7Nsq13oe9V1T0bDE0IbLqy9kIZfjlLUQldIEWCy_x6jWJlbJY6DCZzA&ved=2ahUKEwjB5pbB7OSWAxWlRPEDHcIpDu0Q8NMDegUIgwEQFg",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Temple+City+High+School%22+California&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntxxCQznGotzcyPUWRoQOwFX4uWaQ:1789071985069&ei=cRKjaoHqA6WJxc8PwtO46A4&start=10&sa=N&sstk=AS6-VmL6X4yRlwQO1rHQ_wHfZR-vfJQw6ipikNawwyarqTM7Nsq13oe9V1T0bDE0IbLqy9kIZfjlLUQldIEWCy_x6jWJlbJY6DCZzA&ved=2ahUKEwjB5pbB7OSWAxWlRPEDHcIpDu0Q8tMDegUIgwEQBA",
+   "3": "https://www.google.com/search?q=%22Temple+City+High+School%22+California&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntxxCQznGotzcyPUWRoQOwFX4uWaQ:1789071985069&ei=cRKjaoHqA6WJxc8PwtO46A4&start=20&sa=N&sstk=AS6-VmL6X4yRlwQO1rHQ_wHfZR-vfJQw6ipikNawwyarqTM7Nsq13oe9V1T0bDE0IbLqy9kIZfjlLUQldIEWCy_x6jWJlbJY6DCZzA&ved=2ahUKEwjB5pbB7OSWAxWlRPEDHcIpDu0Q8tMDegUIgwEQBg",
+   "4": "https://www.google.com/search?q=%22Temple+City+High+School%22+California&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntxxCQznGotzcyPUWRoQOwFX4uWaQ:1789071985069&ei=cRKjaoHqA6WJxc8PwtO46A4&start=30&sa=N&sstk=AS6-VmL6X4yRlwQO1rHQ_wHfZR-vfJQw6ipikNawwyarqTM7Nsq13oe9V1T0bDE0IbLqy9kIZfjlLUQldIEWCy_x6jWJlbJY6DCZzA&ved=2ahUKEwjB5pbB7OSWAxWlRPEDHcIpDu0Q8tMDegUIgwEQCA",
+   "5": "https://www.google.com/search?q=%22Temple+City+High+School%22+California&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntxxCQznGotzcyPUWRoQOwFX4uWaQ:1789071985069&ei=cRKjaoHqA6WJxc8PwtO46A4&start=40&sa=N&sstk=AS6-VmL6X4yRlwQO1rHQ_wHfZR-vfJQw6ipikNawwyarqTM7Nsq13oe9V1T0bDE0IbLqy9kIZfjlLUQldIEWCy_x6jWJlbJY6DCZzA&ved=2ahUKEwjB5pbB7OSWAxWlRPEDHcIpDu0Q8tMDegUIgwEQCg",
+   "6": "https://www.google.com/search?q=%22Temple+City+High+School%22+California&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntxxCQznGotzcyPUWRoQOwFX4uWaQ:1789071985069&ei=cRKjaoHqA6WJxc8PwtO46A4&start=50&sa=N&sstk=AS6-VmL6X4yRlwQO1rHQ_wHfZR-vfJQw6ipikNawwyarqTM7Nsq13oe9V1T0bDE0IbLqy9kIZfjlLUQldIEWCy_x6jWJlbJY6DCZzA&ved=2ahUKEwjB5pbB7OSWAxWlRPEDHcIpDu0Q8tMDegUIgwEQDA",
+   "7": "https://www.google.com/search?q=%22Temple+City+High+School%22+California&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntxxCQznGotzcyPUWRoQOwFX4uWaQ:1789071985069&ei=cRKjaoHqA6WJxc8PwtO46A4&start=60&sa=N&sstk=AS6-VmL6X4yRlwQO1rHQ_wHfZR-vfJQw6ipikNawwyarqTM7Nsq13oe9V1T0bDE0IbLqy9kIZfjlLUQldIEWCy_x6jWJlbJY6DCZzA&ved=2ahUKEwjB5pbB7OSWAxWlRPEDHcIpDu0Q8tMDegUIgwEQDg",
+   "8": "https://www.google.com/search?q=%22Temple+City+High+School%22+California&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntxxCQznGotzcyPUWRoQOwFX4uWaQ:1789071985069&ei=cRKjaoHqA6WJxc8PwtO46A4&start=70&sa=N&sstk=AS6-VmL6X4yRlwQO1rHQ_wHfZR-vfJQw6ipikNawwyarqTM7Nsq13oe9V1T0bDE0IbLqy9kIZfjlLUQldIEWCy_x6jWJlbJY6DCZzA&ved=2ahUKEwjB5pbB7OSWAxWlRPEDHcIpDu0Q8tMDegUIgwEQEA",
+   "9": "https://www.google.com/search?q=%22Temple+City+High+School%22+California&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntxxCQznGotzcyPUWRoQOwFX4uWaQ:1789071985069&ei=cRKjaoHqA6WJxc8PwtO46A4&start=80&sa=N&sstk=AS6-VmL6X4yRlwQO1rHQ_wHfZR-vfJQw6ipikNawwyarqTM7Nsq13oe9V1T0bDE0IbLqy9kIZfjlLUQldIEWCy_x6jWJlbJY6DCZzA&ved=2ahUKEwjB5pbB7OSWAxWlRPEDHcIpDu0Q8tMDegUIgwEQEg",
+   "10": "https://www.google.com/search?q=%22Temple+City+High+School%22+California&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQntxxCQznGotzcyPUWRoQOwFX4uWaQ:1789071985069&ei=cRKjaoHqA6WJxc8PwtO46A4&start=90&sa=N&sstk=AS6-VmL6X4yRlwQO1rHQ_wHfZR-vfJQw6ipikNawwyarqTM7Nsq13oe9V1T0bDE0IbLqy9kIZfjlLUQldIEWCy_x6jWJlbJY6DCZzA&ved=2ahUKEwjB5pbB7OSWAxWlRPEDHcIpDu0Q8tMDegUIgwEQFA"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Temple+City+High+School%22+California&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Temple+City+High+School%22+California&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Temple+City+High+School%22+California&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Temple+City+High+School%22+California&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Temple+City+High+School%22+California&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Temple+City+High+School%22+California&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Temple+City+High+School%22+California&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Temple+City+High+School%22+California&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Temple+City+High+School%22+California&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Temple+City+High+School%22+California&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Temple+City+High+School%22+California&start=90"
+  }
+ }
+}

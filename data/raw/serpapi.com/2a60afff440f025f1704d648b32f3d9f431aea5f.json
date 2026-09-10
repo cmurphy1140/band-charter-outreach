@@ -1,0 +1,494 @@
+{
+ "search_information": {
+  "query_displayed": "\"Avon High School\" Indiana",
+  "total_results": 82500,
+  "time_taken_displayed": 0.26,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Avon High School",
+  "type": "High school in Avon, Indiana",
+  "entity_type": "local_nav",
+  "kgmid": "/m/05_5qk0",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/05_5qk0&hl=en-US&q=Avon+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F05_5qk0&q=Avon+High+School",
+  "place_id": "ChIJpQAoXQ2lbIgRiKXmGShiMpo",
+  "website": "https://ahs.avon-schools.org/",
+  "description": "Avon High School is a 4-year high school in Avon, Hendricks County, Indiana. It is a part of the Avon Community School Corporation. The district includes the vast majority of Avon and portions of Danville and Plainfield.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa3088ef3a0a727b5585083/images/eWS5cVxSBEZyGtRHeQ7QpGOUhekIYrXwvksuna_bap0.webp",
+   "link": "https://www.google.com/maps/place/Avon+High+School/data=!4m2!3m1!1s0x0:0x9a32622819e6a588?sa=X&ved=2ahUKEwih8J2M4-SWAxUSFVkFHT2GOnEQ_BJ6BAgOEAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Avon_High_School_(Indiana)"
+  },
+  "address": "7575 E County Rd 150 S, Avon, IN 46123",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=avon+high+school+indiana+address&ludocid=11111051155049194888&sa=X&ved=2ahUKEwih8J2M4-SWAxUSFVkFHT2GOnEQ6BN6BAgjEAI"
+   }
+  ],
+  "color": "Gold",
+  "color_links": [
+   {
+    "text": "Gold",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yXDyYLeIhWaGle2QDWmRkmm1vifl5kmla-P_Ep54mK5wVA7mGmaxTO0Ehfc9G3I0VLXe8jr0RSqgxWOPr1SnpaCJN_tX6YS-IJvp-5VRi8VYo8Psh4CRlhYouwhDGoChkYB17TFYJzDJxWQHpcKkOW8f-VqI&sa=X&ved=2ahUKEwih8J2M4-SWAxUSFVkFHT2GOnEQmxN6BAgmEAI"
+   }
+  ],
+  "school_types": "High school, State school, Public school",
+  "school_types_links": [
+   {
+    "text": "High school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=High+school&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMppXfNh-OkLk_azmU0uk1AX8sk8s1-2uDG13xvljBKYj-62BC653CUwqsnPBoRGsmoAhp8N1FFUjPXYR75tXwHhUXWv8UBnIL4TF0z5QyYwum1xt5mnTXkFeXj2GDkYNVzECkEL6Aibf0H_kSIIfmFaSyMsUumQyyDNAorK_le8R7x5IvmaQJhLvHSKQzP89pGLxxnD_n21xNcnxsBq1jgBn77dcH94ZgEDwThAeT0TgVep2GF-9oDhdmMWxkndhrLo61Ubw%3D&sa=X&ved=2ahUKEwih8J2M4-SWAxUSFVkFHT2GOnEQmxN6BAgpEAI"
+   },
+   {
+    "text": "State school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=State+school&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ybGtCxI0H8z2nV80srIO5hizwNtt3Ym6Fi28M6pFzMpba6xCjNFIQKbDb7W_yOsUKzHP6t0BoDIq84DgtktiHBvFqPDhCTDRJvE6JLQvR7Eaab9hSsuPTGKfVd3jRBIMBct0PH7Zu6CTFW9l0_dGGiLK1iTh4ZjH8KSc1km6WlHabtPPPyI0xHnBaW3O81tnJ8JGt404lJllSpbO7EcKuEPF0dWJ0rXSwUOKS6EOL5FpZVi8FPumwJr6wJqvdwEfcbzt8hk%3D&sa=X&ved=2ahUKEwih8J2M4-SWAxUSFVkFHT2GOnEQmxN6BAgpEAM"
+   },
+   {
+    "text": "Public school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Public+school&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpnRjecyiHCyfvh60pbD8ck56NaVb1rRy5mFUEfV53q25U5z4WHsBgSa_e0unuhy-ayBk7Zd2jqvKjlt1IkxJQTjLlr10sRb8WFIeYWfbJ_KmCdZImULsxO0iQsB63ESCMTXIksG5wpxKW5OuCToG3eqhDkSI8wHg2T7_5UuJ9goaaCigA1zutowi40wrI1vq34a5MXFHEPV6xEN5P7N0dyJWi1IGQ4PdN7xQoyhpKCHHi7iQz_e-KjpcRbp6KbXIqpjnB5M%3D&sa=X&ved=2ahUKEwih8J2M4-SWAxUSFVkFHT2GOnEQmxN6BAgpEAQ"
+   }
+  ],
+  "district": "Avon Community School Corporation",
+  "district_links": [
+   {
+    "text": "Avon Community School Corporation",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Avon+Community+School+Corp&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW676OsBn_xwKCjx5xjOGBnCh8H8dwrldwJ92eRri8P7mBetXJw2iyfpph3PjaAxh4a9dYjqJnAl9BrQgUxXyIhuDMHpYe31rBg3fS0iyJqwapTgaZ4FjPaOKpoQhuaaliQIgGvtYw5le0dsJW3MEwY_8K8MN_ASQajYJ0HWHjZdWR1CH75xw%3D%3D&sa=X&ved=2ahUKEwih8J2M4-SWAxUSFVkFHT2GOnEQmxN6BAgqEAI"
+   }
+  ],
+  "phone": "(317) 544-5000",
+  "raw_hours": "Closes soon \u00b7 4 PM \u00b7 Opens 7 - 30 AM Fri",
+  "hours": {
+   "thursday": {
+    "opens": "7:30\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "friday": {
+    "opens": "7:30\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "7:30\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "tuesday": {
+    "opens": "7:30\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "wednesday": {
+    "opens": "7:30\u202fAM",
+    "closes": "4\u202fPM"
+   }
+  },
+  "merchant_description": "\"We are one of the top public high schools in the state of Indiana and a 2023 National Blue Ribbon School. We serve a growing enrollment of approximately 3,500 students in grades 9-12 who live in Avon and Washington Township. We are Avon. We are One.\"",
+  "people_also_search_for": [
+   {
+    "name": "Brownsburg High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkHkiiO16qRhVCYq79E0E4aX083D9T9110PGkvD7dKizt_DrfnCCrGj8dNrdAPUTA5TdxOMO_fFE_lkSeq2nK-ZqJaSMAv8WzgapgdABA-1Tkzj4TrPl9j27iLg3SjIj_IhpKkb=w153-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW674IPiA-3kWLwgIKAOAmQWHWL7xbaWvXQs3N-PCiwOQp-p9M3SH4b5ivkztzfMOn-_KlCcw5SbQl6KVxpCIZf7cJZ6iDZNy5-IpEva3iM7BwVSOdTPSapX3miV_3FDCTmK25LGCy0-fWIxY6Oksq0iJ226Sp-p1zGNq8cU4WqAsfmscQsra3KSCPnN_8wArTPN30hsE04QNBdUdRqSHhFhOfGxKqAI2HrUAuyZu6LpZQOTF2iG7PrMqtK4QHCU4owqpioTJMdd8KWDeqhmCpqowKtMWnj&q=Brownsburg+High+School&sa=X&ved=2ahUKEwih8J2M4-SWAxUSFVkFHT2GOnEQs9oBKAB6BAggEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Brownsburg+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW674IPiA-3kWLwgIKAOAmQWHWL7xbaWvXQs3N-PCiwOQp-p9M3SH4b5ivkztzfMOn-_KlCcw5SbQl6KVxpCIZf7cJZ6iDZNy5-IpEva3iM7BwVSOdTPSapX3miV_3FDCTmK25LGCy0-fWIxY6Oksq0iJ226Sp-p1zGNq8cU4WqAsfmscQsra3KSCPnN_8wArTPN30hsE04QNBdUdRqSHhFhOfGxKqAI2HrUAuyZu6LpZQOTF2iG7PrMqtK4QHCU4owqpioTJMdd8KWDeqhmCpqowKtMWnj"
+   },
+   {
+    "name": "Avon Middle School North",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlhivtomeUnDEC2nCGZklf3R3MhUbb-_lImBFy7-7sG2p8MTJ49C_CvgDS4ukdNaXddaV-Me5pR1QaY9FHcgRj2lc9G5jDYfWUHhbAlFoSYpeVAyi8-Zz-wPvgeRYjBloCZlDCG=w153-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKllX05q7xl66dAosm6nb1iuMgV7Bv8meTZS-zIzIS3OM0szAYG8kO88ok9-e1YddIW_14-JDNi_tR3mHgTJOEfAeqX_jARhOqVrkQSvL1mF0ez_Dgwqk8NTeBKK9XqF8aj7sHTLg-QRPfVm7U-ptyUtObinKpisuurl29MSsKUzI50MBqBnf65FHgtyIt66PdrgjhLme6jp5xuUCitCtMbSQt3qF_IBP2Vd0kldAlb8fjk5kSfA2Zi3rEvJS9-OzQE-ILnc2mj3rQavQTmYyWBxVsF9smNScqL1kEGL-_XPfw7psiUiRGiPSHsQVxnzsO2Wtnhs&q=Avon+Middle+School+North&sa=X&ved=2ahUKEwih8J2M4-SWAxUSFVkFHT2GOnEQs9oBKAB6BAggEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Avon+Middle+School+North&si=APenkKllX05q7xl66dAosm6nb1iuMgV7Bv8meTZS-zIzIS3OM0szAYG8kO88ok9-e1YddIW_14-JDNi_tR3mHgTJOEfAeqX_jARhOqVrkQSvL1mF0ez_Dgwqk8NTeBKK9XqF8aj7sHTLg-QRPfVm7U-ptyUtObinKpisuurl29MSsKUzI50MBqBnf65FHgtyIt66PdrgjhLme6jp5xuUCitCtMbSQt3qF_IBP2Vd0kldAlb8fjk5kSfA2Zi3rEvJS9-OzQE-ILnc2mj3rQavQTmYyWBxVsF9smNScqL1kEGL-_XPfw7psiUiRGiPSHsQVxnzsO2Wtnhs"
+   },
+   {
+    "name": "Avon Middle School South",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkpCWnG0ZFSS4ZSHw_tN74foj580jRnqGh2E2KkS-UhiKUQYCrfM8XGvi54EFd_IHg1Tw75uSBBviZ6TTEXSotyeNgUCkOADptv_5kMAztj682B7XsJHy9gCOvJ_E8JgaWvm54JNA=w153-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW672aO_9OU5nvtomhrdpPZXrln5L9DDvOfrEkyA0rLVBvs9SI8rk3HGnxo-hrQgqGOt_bLX9Ag2iMMLMfQjKX2sFB0s0u3eoYcDy73K3P_6MZ5EAzjYJHBuEoZXvc2ensrberZZ3aQ42x7hGyD4a3g5OUX0mEty98VNKcbs20V7-vEBEDdvpw6YoDUIl_-EQd-ytmvrH6KaRAO1g_gryVw2QaGdywj077VqvMUwAMRv0xMD8e7vgZzsDXuLOQwcByTgr0Lvrw69KzKR3MtZLlROQeI8iGq&q=Avon+Middle+School+South&sa=X&ved=2ahUKEwih8J2M4-SWAxUSFVkFHT2GOnEQs9oBKAB6BAggEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Avon+Middle+School+South&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW672aO_9OU5nvtomhrdpPZXrln5L9DDvOfrEkyA0rLVBvs9SI8rk3HGnxo-hrQgqGOt_bLX9Ag2iMMLMfQjKX2sFB0s0u3eoYcDy73K3P_6MZ5EAzjYJHBuEoZXvc2ensrberZZ3aQ42x7hGyD4a3g5OUX0mEty98VNKcbs20V7-vEBEDdvpw6YoDUIl_-EQd-ytmvrH6KaRAO1g_gryVw2QaGdywj077VqvMUwAMRv0xMD8e7vgZzsDXuLOQwcByTgr0Lvrw69KzKR3MtZLlROQeI8iGq"
+   },
+   {
+    "name": "Franklin Central High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmYVEDDVe9HvOyU1k0viXUYzULn3AsPrQW2KBMV59--LOvdJIGd2xKBUMzBnqpltyKHjfGeOZhhakLwyRBBfx4QUcSOJoPFpUNO9tP2aVZFO_SVvYetZ5FPWktQ7Ppc9SuBcfj5=w115-h153-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW675umNoYojF2Zfa15NivI7RTgk1HADyKPM64baUrxxCmVzVMLXR_o0G7pSAznqPWeEmPxO7wtIyvYh4BbIaYvFVJtqS1UKYR9yMeW_UC6znkZVBQlt0SmUkAtVCrEDo-0Dlj7_0iVjQL5VfS_b_s73lYYWmEq6rwOorgH519eR2TZUPzGD-wzXA3AyAJZ0u__Wk4UQpfTSzikl4LbGA-w9pDQIBMDjASZiaYytcpk0kceCLMqrnClAnWtdDRF_XZURRfxiQna1ch5kyoxdq_ZhyOnbUwd&q=Franklin+Central+High+School&sa=X&ved=2ahUKEwih8J2M4-SWAxUSFVkFHT2GOnEQs9oBKAB6BAggEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Franklin+Central+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW675umNoYojF2Zfa15NivI7RTgk1HADyKPM64baUrxxCmVzVMLXR_o0G7pSAznqPWeEmPxO7wtIyvYh4BbIaYvFVJtqS1UKYR9yMeW_UC6znkZVBQlt0SmUkAtVCrEDo-0Dlj7_0iVjQL5VfS_b_s73lYYWmEq6rwOorgH519eR2TZUPzGD-wzXA3AyAJZ0u__Wk4UQpfTSzikl4LbGA-w9pDQIBMDjASZiaYytcpk0kceCLMqrnClAnWtdDRF_XZURRfxiQna1ch5kyoxdq_ZhyOnbUwd"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Avon+High+School+(Indiana)&stick=H4sIAAAAAAAAAONgFuLSz9U3MI03Lcw2UEJiawkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axCrlWJafp-CRmZ6hEJyckZ-fo6DhmZeSmZiXqLmDlfEWmyTDG4eKwFy-ps4l4YaHWLUXbY5ICrZJD_t-HAC9LQ2_ggAAAA&sa=X&ved=2ahUKEwih8J2M4-SWAxUSFVkFHT2GOnEQzO0BKAR6BAggEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLSz9U3MI03Lcw2UEJiawkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axCrlWJafp-CRmZ6hEJyckZ-fo6DhmZeSmZiXqLmDlfEWmyTDG4eKwFy-ps4l4YaHWLUXbY5ICrZJD_t-HAC9LQ2_ggAAAA",
+  "profiles": [
+   {
+    "name": "X (Twitter)",
+    "link": "https://twitter.com/AHS_Orioles",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Avon+High+School%22+Indiana",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAABhUlEQVR4AczOA6xcARCF4X_us23btuLUQR3WZlhbQW3bto2gtm3b2J3GN4tY74uHh3okOi42Nj4AAUDwTvDEhisABCOAEAzYTBh0bN-lc5d0QgAhHPqX4Y4pkd367Zc-xMcXCPDg8TPwxeQH724Uj9N95GJ4pnHxby1xgCmV3v-GsFb7k0Iee7UjaQgmIYe9v9O4-wUKWaATyMPAViwvr1NnOQWDdTV5CHYSaKWLmaGDyvU4mTgQcllracaFr-9uk-yLM8k8fAJff0IUTghRVFu3M1ynkYk4nchiqqU3Ry05RDibMMhjtj6Ht3dJxVk_l1G64cspOusychBsCWm01WNM0jFs0sbEYUtIIuTXNco588OLh09JxE6wweuXEAvfL9PQus3-iU80N34KCaQyUOcxTTuSjEmMRI5rS9JwIZfD1t7ceo34YIpnuQ4nGwP8XXlq_fJZd9jE8KBHC5IwAELJ7dWrZ6fOuNhkgFgAEEIAwA1MQkw0AgDC_wnKycrKSQ2iPAkAVyNzq8rxicIAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "YouTube",
+    "link": "https://www.youtube.com/channel/UCHxnv5Gr5KSRnV2qWjR7Qyw",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Avon+High+School%22+Indiana",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAP1BMVEX_____z8__n5__kJD_gID_cHD_YGD_v7__39__ICD_AAD_r6__EBD_7-__oKD_MDD_QED_UFD_X1__j4__f396G04EAAAAhklEQVR4AeXQRQLDQAwDQC3bajj5_1dLYb63czYKf8VY50OcBO9swkyUB_SBkfJQlqOXeKJAz_FEQM9zVCqXInqRIy-RC9W-AJDypgCwyoGiV68LkLJFwX6CVJcr8nBwZJgLXMaDAs9RxsMcLE949IQnEnpoeKjEpC25o12OpVwkTURy_JQX1r4RC2S7kZYAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/Avon.Schools",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Avon+High+School%22+Indiana",
+    "image": "https://serpapi.com/searches/6aa3088ef3a0a727b5585083/images/eWS5cVxSBEZyGtRHeQ7QpKdOCN4QOmFWGFYPLlvnUNMfiYxd0gX3H-bdKoQERmhE.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "How big is Avon High School in Indiana?",
+   "type": "ai_overview",
+   "page_token": "54bIFnicHdDPboIwAIDx7GU8TlrURROzzMm_RmsobYFellJEhALVsYHe9i57qj3Nlt2-4y_f17c-t_XPw2fZ9-Z9NZ0Ow_B46rqTPj6qrpnK91urpkpqnUlVrxZPC_BcqLXzEWxeL8EmZMbwLbGiNvdy5sLMYxC7y0NyL6WoyktkodejvykwDC3u45FqhJidzhk0HuVmJj3QySq1jl7phTUqJBQ7Es9BXgd25Ok2bZGTa2QkM3cadyOreZrx_XzHzCGDopNU3PZgyUWFIrb96xjNKEcBqV5mVBPIz6BQXgCZj6U6A5C5KDkyXAkf13uKxjQhmMVznzSCJJYAPNZB5JetU-ZXAfUlTdxA1GiIbAfQZhnmWi9UrEk6dueQkbuqdMMa0UdbHkZNH3Jn5NgmO6pdxJw_s8ZBaIuDGCaF-lzbk_-f67ei6Vfm2p1-AfqKglg",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=54bIFnicHdDPboIwAIDx7GU8TlrURROzzMm_RmsobYFellJEhALVsYHe9i57qj3Nlt2-4y_f17c-t_XPw2fZ9-Z9NZ0Ow_B46rqTPj6qrpnK91urpkpqnUlVrxZPC_BcqLXzEWxeL8EmZMbwLbGiNvdy5sLMYxC7y0NyL6WoyktkodejvykwDC3u45FqhJidzhk0HuVmJj3QySq1jl7phTUqJBQ7Es9BXgd25Ok2bZGTa2QkM3cadyOreZrx_XzHzCGDopNU3PZgyUWFIrb96xjNKEcBqV5mVBPIz6BQXgCZj6U6A5C5KDkyXAkf13uKxjQhmMVznzSCJJYAPNZB5JetU-ZXAfUlTdxA1GiIbAfQZhnmWi9UrEk6dueQkbuqdMMa0UdbHkZNH3Jn5NgmO6pdxJw_s8ZBaIuDGCaF-lzbk_-f67ei6Vfm2p1-AfqKglg",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlZHNTRaWHBYTldSd09VTjRaekkyVEMxVmVYWlFjMmhZT0ZCVk5tSm1XVmROV1dOM1RHSXhZMGxoWTBWYVR5MTBZMmRRWkVwRWJteDFUbEZmTW5CMWQzVkNka3RvWkZwcFVIQjNkbnBaZW1sQlVGbDJhblF5Ym5aT2R4SVhhMmRwYW1GeFNHWkNjRXR4TlU1dlVIWlplbkZwVVdNYUlrRkVjM0k1WmxNdFVXRkJXVnAyY1hFM2JrNWZja00zV2pZMFYyMHdSRTFsUzNjIiwiZmN2IjoiMyIsImVpIjoia2dpamFxSGZCcEtxNU5vUHZZenFpUWMiLCJxYyI6IkNoaGhkbTl1SUdocFoyZ2djMk5vYjI5c0lHbHVaR2xoYm1FUUFIMzJTRkFfIiwicXVlc3Rpb24iOiJIb3cgYmlnIGlzIEF2b24gSGlnaCBTY2hvb2wgaW4gSW5kaWFuYT8iLCJsayI6IkdpWm9iM2NnWW1sbklHbHpJR0YyYjI0Z2FHbG5hQ0J6WTJodmIyd2dhVzRnYVc1a2FXRnVZUSIsImJzIjoiYzMzUFFRdUNRQkNHWWJydXFmT0dNQ0ZwQnlfNUE1SXVvUkJCZVBDOHVldk9nTzJHTGtuX1BrVTBTT2c4RDhQN3NaeUZxZTNnVGhxb2hkUExHa2hKSS1RbFdsc0RHY2lNSkdGRUV1OTVnRjhxQm9vRGJXZEtJMlUzRmhRbzNNQWNLdkFQdjNELUdmSmQ5MWRPTDNNV0ZVZ2x3dlY4Z1djdDNxcnBHNXhUUmlxNTZFNWluMjlOVmMteWF1eGprY3lPek12RzBkR1VCQUswdFJKRW9fbzhqMi1tcWJTOHIxY2YiLCJpZCI6ImZjX2tnaWphcUhmQnBLcTVOb1B2WXpxaVFjXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlZHNTRaWHBYTldSd09VTjRaekkyVEMxVmVYWlFjMmhZT0ZCVk5tSm1XVmROV1dOM1RHSXhZMGxoWTBWYVR5MTBZMmRRWkVwRWJteDFUbEZmTW5CMWQzVkNka3RvWkZwcFVIQjNkbnBaZW1sQlVGbDJhblF5Ym5aT2R4SVhhMmRwYW1GeFNHWkNjRXR4TlU1dlVIWlplbkZwVVdNYUlrRkVjM0k1WmxNdFVXRkJXVnAyY1hFM2JrNWZja00zV2pZMFYyMHdSRTFsUzNjIiwiZmN2IjoiMyIsImVpIjoia2dpamFxSGZCcEtxNU5vUHZZenFpUWMiLCJxYyI6IkNoaGhkbTl1SUdocFoyZ2djMk5vYjI5c0lHbHVaR2xoYm1FUUFIMzJTRkFfIiwicXVlc3Rpb24iOiJIb3cgYmlnIGlzIEF2b24gSGlnaCBTY2hvb2wgaW4gSW5kaWFuYT8iLCJsayI6IkdpWm9iM2NnWW1sbklHbHpJR0YyYjI0Z2FHbG5hQ0J6WTJodmIyd2dhVzRnYVc1a2FXRnVZUSIsImJzIjoiYzMzUFFRdUNRQkNHWWJydXFmT0dNQ0ZwQnlfNUE1SXVvUkJCZVBDOHVldk9nTzJHTGtuX1BrVTBTT2c4RDhQN3NaeUZxZTNnVGhxb2hkUExHa2hKSS1RbFdsc0RHY2lNSkdGRUV1OTVnRjhxQm9vRGJXZEtJMlUzRmhRbzNNQWNLdkFQdjNELUdmSmQ5MWRPTDNNV0ZVZ2x3dlY4Z1djdDNxcnBHNXhUUmlxNTZFNWluMjlOVmMteWF1eGprY3lPek12RzBkR1VCQUswdFJKRW9fbzhqMi1tcWJTOHIxY2YiLCJpZCI6ImZjX2tnaWphcUhmQnBLcTVOb1B2WXpxaVFjXzUifQ%3D%3D"
+  },
+  {
+   "question": "What is the #1 high school in Indiana?",
+   "type": "ai_overview",
+   "page_token": "r4jHrnicHdBbboJAGEDhdDM-quCl0cQ0RRkK0bEMc4F5aWAQwfm5qCjqW_fSVXU1NV3Al5yc7x8oKv37cs3btjnPB4Ou6_r7ut7Drq_qchCf75UaqBggiZWeT1-nxlumFvbFtZZH1_JZ0_AVGQYhrJUmxy2CjjN-SQ7SxRotd5x8MAdqn1rtmlqOYkZIV_gzoN6JUVgnB7SJ9W2Iq7RgArdU3MK1IMedQyRxpMnDtEx0C6IwxBZZFbUnZYCwTx27S4GIDW9YqkmAdb6KkWcwyvXTV5iSjD0QSDHB0gTGhvmYmIAVxRtlGmhjz-7cyZfMRNvA8e5RCRF-tkvNHwHKKztPT093jELkSu11wcg2aDnzU4CpEkCiW134jDzUAUrGvAKbRihZHm9DPiYGp-lBSj98v_NyPIk0EmnXy9R1Mer9_1x8ZWU7b071_g8YxIRA",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=r4jHrnicHdBbboJAGEDhdDM-quCl0cQ0RRkK0bEMc4F5aWAQwfm5qCjqW_fSVXU1NV3Al5yc7x8oKv37cs3btjnPB4Ou6_r7ut7Drq_qchCf75UaqBggiZWeT1-nxlumFvbFtZZH1_JZ0_AVGQYhrJUmxy2CjjN-SQ7SxRotd5x8MAdqn1rtmlqOYkZIV_gzoN6JUVgnB7SJ9W2Iq7RgArdU3MK1IMedQyRxpMnDtEx0C6IwxBZZFbUnZYCwTx27S4GIDW9YqkmAdb6KkWcwyvXTV5iSjD0QSDHB0gTGhvmYmIAVxRtlGmhjz-7cyZfMRNvA8e5RCRF-tkvNHwHKKztPT093jELkSu11wcg2aDnzU4CpEkCiW134jDzUAUrGvAKbRihZHm9DPiYGp-lBSj98v_NyPIk0EmnXy9R1Mer9_1x8ZWU7b071_g8YxIRA",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlZHNTRaWHBYTldSd09VTjRaekkyVEMxVmVYWlFjMmhZT0ZCVk5tSm1XVmROV1dOM1RHSXhZMGxoWTBWYVR5MTBZMmRRWkVwRWJteDFUbEZmTW5CMWQzVkNka3RvWkZwcFVIQjNkbnBaZW1sQlVGbDJhblF5Ym5aT2R4SVhhMmRwYW1GeFNHWkNjRXR4TlU1dlVIWlplbkZwVVdNYUlrRkVjM0k1WmxNdFVXRkJXVnAyY1hFM2JrNWZja00zV2pZMFYyMHdSRTFsUzNjIiwiZmN2IjoiMyIsImVpIjoia2dpamFxSGZCcEtxNU5vUHZZenFpUWMiLCJxYyI6IkNoaGhkbTl1SUdocFoyZ2djMk5vYjI5c0lHbHVaR2xoYm1FUUFIMzJTRkFfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSAjMSBoaWdoIHNjaG9vbCBpbiBJbmRpYW5hPyIsImxrIjoiR2lWM2FHRjBJR2x6SUhSb1pTQWpNU0JvYVdkb0lITmphRzl2YkNCcGJpQnBibVJwWVc1aCIsImJzIjoiYzMzUFFRdUNRQkNHWWJydXFmT0dNQ0ZwQnlfNUE1SXVvUkJCZVBDOHVldk9nTzJHTGtuX1BrVTBTT2c4RDhQN3NaeUZxZTNnVGhxb2hkUExHa2hKSS1RbFdsc0RHY2lNSkdGRUV1OTVnRjhxQm9vRGJXZEtJMlUzRmhRbzNNQWNLdkFQdjNELUdmSmQ5MWRPTDNNV0ZVZ2x3dlY4Z1djdDNxcnBHNXhUUmlxNTZFNWluMjlOVmMteWF1eGprY3lPek12RzBkR1VCQUswdFJKRW9fbzhqMi1tcWJTOHIxY2YiLCJpZCI6ImZjX2tnaWphcUhmQnBLcTVOb1B2WXpxaVFjXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlZHNTRaWHBYTldSd09VTjRaekkyVEMxVmVYWlFjMmhZT0ZCVk5tSm1XVmROV1dOM1RHSXhZMGxoWTBWYVR5MTBZMmRRWkVwRWJteDFUbEZmTW5CMWQzVkNka3RvWkZwcFVIQjNkbnBaZW1sQlVGbDJhblF5Ym5aT2R4SVhhMmRwYW1GeFNHWkNjRXR4TlU1dlVIWlplbkZwVVdNYUlrRkVjM0k1WmxNdFVXRkJXVnAyY1hFM2JrNWZja00zV2pZMFYyMHdSRTFsUzNjIiwiZmN2IjoiMyIsImVpIjoia2dpamFxSGZCcEtxNU5vUHZZenFpUWMiLCJxYyI6IkNoaGhkbTl1SUdocFoyZ2djMk5vYjI5c0lHbHVaR2xoYm1FUUFIMzJTRkFfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSAjMSBoaWdoIHNjaG9vbCBpbiBJbmRpYW5hPyIsImxrIjoiR2lWM2FHRjBJR2x6SUhSb1pTQWpNU0JvYVdkb0lITmphRzl2YkNCcGJpQnBibVJwWVc1aCIsImJzIjoiYzMzUFFRdUNRQkNHWWJydXFmT0dNQ0ZwQnlfNUE1SXVvUkJCZVBDOHVldk9nTzJHTGtuX1BrVTBTT2c4RDhQN3NaeUZxZTNnVGhxb2hkUExHa2hKSS1RbFdsc0RHY2lNSkdGRUV1OTVnRjhxQm9vRGJXZEtJMlUzRmhRbzNNQWNLdkFQdjNELUdmSmQ5MWRPTDNNV0ZVZ2x3dlY4Z1djdDNxcnBHNXhUUmlxNTZFNWluMjlOVmMteWF1eGprY3lPek12RzBkR1VCQUswdFJKRW9fbzhqMi1tcWJTOHIxY2YiLCJpZCI6ImZjX2tnaWphcUhmQnBLcTVOb1B2WXpxaVFjXzUifQ%3D%3D"
+  },
+  {
+   "question": "Which NFL players attended Avon High School?",
+   "type": "ai_overview",
+   "page_token": "YL92dnicHdBRToMwGADgeJk9OjpkxiWLEQfbUFZpaen6YlgLY-sPVIey8eZdPJWn0XiB7-H7-oZDY36uPquus6fZeNz3_fW-bfdQXKu2HuenS6PGKgfY5crMprdTdF-qefCx9h_f1n7CrOUL4tBGL-UANBPMZRN5iY-abuDBK4DLTIRYBx6OgfR8qDq9so_MDQ-cgeArENI4Q0LRUboywWKzwku-pIhYHKBOoUiwgFjOo1I10uycystTjrQT-WxCPMX3512NpgULBpzCtmj8QCH7UojwhWbOTbzkJ8XlAqdhFLOzyQ3vdoP_lPIWJc0mSxzvEteyEkibOLPlxgEkAUhQ6Xc5gbetCNfSRD11A5TWd4kGmKoMyPbcHhJGBnWEmtWnbpuFQNGfKwhWNT9LlnR0YrNnwW5waFzdj0r1OXdH_5_z17LuZva93f8CM-qDvQ",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=YL92dnicHdBRToMwGADgeJk9OjpkxiWLEQfbUFZpaen6YlgLY-sPVIey8eZdPJWn0XiB7-H7-oZDY36uPquus6fZeNz3_fW-bfdQXKu2HuenS6PGKgfY5crMprdTdF-qefCx9h_f1n7CrOUL4tBGL-UANBPMZRN5iY-abuDBK4DLTIRYBx6OgfR8qDq9so_MDQ-cgeArENI4Q0LRUboywWKzwku-pIhYHKBOoUiwgFjOo1I10uycystTjrQT-WxCPMX3512NpgULBpzCtmj8QCH7UojwhWbOTbzkJ8XlAqdhFLOzyQ3vdoP_lPIWJc0mSxzvEteyEkibOLPlxgEkAUhQ6Xc5gbetCNfSRD11A5TWd4kGmKoMyPbcHhJGBnWEmtWnbpuFQNGfKwhWNT9LlnR0YrNnwW5waFzdj0r1OXdH_5_z17LuZva93f8CM-qDvQ",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlZHNTRaWHBYTldSd09VTjRaekkyVEMxVmVYWlFjMmhZT0ZCVk5tSm1XVmROV1dOM1RHSXhZMGxoWTBWYVR5MTBZMmRRWkVwRWJteDFUbEZmTW5CMWQzVkNka3RvWkZwcFVIQjNkbnBaZW1sQlVGbDJhblF5Ym5aT2R4SVhhMmRwYW1GeFNHWkNjRXR4TlU1dlVIWlplbkZwVVdNYUlrRkVjM0k1WmxNdFVXRkJXVnAyY1hFM2JrNWZja00zV2pZMFYyMHdSRTFsUzNjIiwiZmN2IjoiMyIsImVpIjoia2dpamFxSGZCcEtxNU5vUHZZenFpUWMiLCJxYyI6IkNoaGhkbTl1SUdocFoyZ2djMk5vYjI5c0lHbHVaR2xoYm1FUUFIMzJTRkFfIiwicXVlc3Rpb24iOiJXaGljaCBORkwgcGxheWVycyBhdHRlbmRlZCBBdm9uIEhpZ2ggU2Nob29sPyIsImxrIjoiR2lGdVptd2djR3hoZVdWeWN5Qm1jbTl0SUdGMmIyNGdhR2xuYUNCelkyaHZiMnciLCJicyI6ImMzM1BRUXVDUUJDR1licnVxZk9HTUNGcEJ5XzVBNUl1b1JCQmVQQzh1ZXZPZ08yR0xrbl9Qa1UwU09nOEQ4UDdzWnlGcWUzZ1RocW9oZFBMR2toSkktUWxXbHNER2NpTUpHRkVFdTk1Z0Y4cUJvb0RiV2RLSTJVM0ZoUW8zTUFjS3ZBUHYzRC1HZkpkOTFkT0wzTVdGVWdsd3ZWOGdXY3QzcXJwRzV4VFJpcTU2RTVpbjI5TlZjLXlhdXhqa2N5T3pNdkcwZEdVQkFLMHRSSkVvX284ajItbXFiUzhyMWNmIiwiaWQiOiJmY19rZ2lqYXFIZkJwS3E1Tm9Qdll6cWlRY181In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlZHNTRaWHBYTldSd09VTjRaekkyVEMxVmVYWlFjMmhZT0ZCVk5tSm1XVmROV1dOM1RHSXhZMGxoWTBWYVR5MTBZMmRRWkVwRWJteDFUbEZmTW5CMWQzVkNka3RvWkZwcFVIQjNkbnBaZW1sQlVGbDJhblF5Ym5aT2R4SVhhMmRwYW1GeFNHWkNjRXR4TlU1dlVIWlplbkZwVVdNYUlrRkVjM0k1WmxNdFVXRkJXVnAyY1hFM2JrNWZja00zV2pZMFYyMHdSRTFsUzNjIiwiZmN2IjoiMyIsImVpIjoia2dpamFxSGZCcEtxNU5vUHZZenFpUWMiLCJxYyI6IkNoaGhkbTl1SUdocFoyZ2djMk5vYjI5c0lHbHVaR2xoYm1FUUFIMzJTRkFfIiwicXVlc3Rpb24iOiJXaGljaCBORkwgcGxheWVycyBhdHRlbmRlZCBBdm9uIEhpZ2ggU2Nob29sPyIsImxrIjoiR2lGdVptd2djR3hoZVdWeWN5Qm1jbTl0SUdGMmIyNGdhR2xuYUNCelkyaHZiMnciLCJicyI6ImMzM1BRUXVDUUJDR1licnVxZk9HTUNGcEJ5XzVBNUl1b1JCQmVQQzh1ZXZPZ08yR0xrbl9Qa1UwU09nOEQ4UDdzWnlGcWUzZ1RocW9oZFBMR2toSkktUWxXbHNER2NpTUpHRkVFdTk1Z0Y4cUJvb0RiV2RLSTJVM0ZoUW8zTUFjS3ZBUHYzRC1HZkpkOTFkT0wzTVdGVWdsd3ZWOGdXY3QzcXJwRzV4VFJpcTU2RTVpbjI5TlZjLXlhdXhqa2N5T3pNdkcwZEdVQkFLMHRSSkVvX284ajItbXFiUzhyMWNmIiwiaWQiOiJmY19rZ2lqYXFIZkJwS3E1Tm9Qdll6cWlRY181In0%3D"
+  },
+  {
+   "question": "Is Avon, Indiana a good area?",
+   "type": "ai_overview",
+   "page_token": "r5hkmXicHZDRboIwAEWzn_FRQabLTMwShaIs1FFaoH1ZsBUqtIDKBHzbv-yr9jUjezpvN-ee7x91rsrfp7ts2-a2ms26rpvmdZ2r05TXepbehorPeKrUMeXlavmyNN8yvna-9pvtZb8JSNNENjLwzjcPO4_42m9RAl2hmXHE-QI6omAK3rHRPLjDrvQRPfuKub4LiLDVwBPhUBNZQdxveKEyHOfdyHdWqQuNoRHHvWTEu58SUUXE1KKAxAdenY57eL4oTwkawkjuUNlsoeXMD_Z-gIMJE0NRDDwKo9yKMXikSeMit78wUzJaQYiA16cxsMMdjFKiNHSAERQeJW4vQ7CxHCmubD46JGDPSq8LLcfE-jUQSi15rBDt63NA0GN01SSi3bFAH4LILNLGIrHq9mhTg82lHP9iWPBBdJOM39fW5L_n-jPT7aq51vkfOHCFMA",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=r5hkmXicHZDRboIwAEWzn_FRQabLTMwShaIs1FFaoH1ZsBUqtIDKBHzbv-yr9jUjezpvN-ee7x91rsrfp7ts2-a2ms26rpvmdZ2r05TXepbehorPeKrUMeXlavmyNN8yvna-9pvtZb8JSNNENjLwzjcPO4_42m9RAl2hmXHE-QI6omAK3rHRPLjDrvQRPfuKub4LiLDVwBPhUBNZQdxveKEyHOfdyHdWqQuNoRHHvWTEu58SUUXE1KKAxAdenY57eL4oTwkawkjuUNlsoeXMD_Z-gIMJE0NRDDwKo9yKMXikSeMit78wUzJaQYiA16cxsMMdjFKiNHSAERQeJW4vQ7CxHCmubD46JGDPSq8LLcfE-jUQSi15rBDt63NA0GN01SSi3bFAH4LILNLGIrHq9mhTg82lHP9iWPBBdJOM39fW5L_n-jPT7aq51vkfOHCFMA",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlZHNTRaWHBYTldSd09VTjRaekkyVEMxVmVYWlFjMmhZT0ZCVk5tSm1XVmROV1dOM1RHSXhZMGxoWTBWYVR5MTBZMmRRWkVwRWJteDFUbEZmTW5CMWQzVkNka3RvWkZwcFVIQjNkbnBaZW1sQlVGbDJhblF5Ym5aT2R4SVhhMmRwYW1GeFNHWkNjRXR4TlU1dlVIWlplbkZwVVdNYUlrRkVjM0k1WmxNdFVXRkJXVnAyY1hFM2JrNWZja00zV2pZMFYyMHdSRTFsUzNjIiwiZmN2IjoiMyIsImVpIjoia2dpamFxSGZCcEtxNU5vUHZZenFpUWMiLCJxYyI6IkNoaGhkbTl1SUdocFoyZ2djMk5vYjI5c0lHbHVaR2xoYm1FUUFIMzJTRkFfIiwicXVlc3Rpb24iOiJJcyBBdm9uLCBJbmRpYW5hIGEgZ29vZCBhcmVhPyIsImxrIjoiR2h0cGN5QmhkbTl1SUdsdVpHbGhibUVnWVNCbmIyOWtJR0Z5WldFIiwiYnMiOiJjMzNQUVF1Q1FCQ0dZYnJ1cWZPR01DRnBCeV81QTVJdW9SQkJlUEM4dWV2T2dPMkdMa25fUGtVMFNPZzhEOFA3c1p5RnFlM2dUaHFvaGRQTEdraEpJLVFsV2xzREdjaU1KR0ZFRXU5NWdGOHFCb29EYldkS0kyVTNGaFFvM01BY0t2QVB2M0QtR2ZKZDkxZE9MM01XRlVnbHd2VjhnV2N0M3FycEc1eFRSaXE1NkU1aW4yOU5WYy15YXV4amtjeU96TXZHMGRHVUJBSzB0UkpFb19vOGoyLW1xYlM4cjFjZiIsImlkIjoiZmNfa2dpamFxSGZCcEtxNU5vUHZZenFpUWNfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlZHNTRaWHBYTldSd09VTjRaekkyVEMxVmVYWlFjMmhZT0ZCVk5tSm1XVmROV1dOM1RHSXhZMGxoWTBWYVR5MTBZMmRRWkVwRWJteDFUbEZmTW5CMWQzVkNka3RvWkZwcFVIQjNkbnBaZW1sQlVGbDJhblF5Ym5aT2R4SVhhMmRwYW1GeFNHWkNjRXR4TlU1dlVIWlplbkZwVVdNYUlrRkVjM0k1WmxNdFVXRkJXVnAyY1hFM2JrNWZja00zV2pZMFYyMHdSRTFsUzNjIiwiZmN2IjoiMyIsImVpIjoia2dpamFxSGZCcEtxNU5vUHZZenFpUWMiLCJxYyI6IkNoaGhkbTl1SUdocFoyZ2djMk5vYjI5c0lHbHVaR2xoYm1FUUFIMzJTRkFfIiwicXVlc3Rpb24iOiJJcyBBdm9uLCBJbmRpYW5hIGEgZ29vZCBhcmVhPyIsImxrIjoiR2h0cGN5QmhkbTl1SUdsdVpHbGhibUVnWVNCbmIyOWtJR0Z5WldFIiwiYnMiOiJjMzNQUVF1Q1FCQ0dZYnJ1cWZPR01DRnBCeV81QTVJdW9SQkJlUEM4dWV2T2dPMkdMa25fUGtVMFNPZzhEOFA3c1p5RnFlM2dUaHFvaGRQTEdraEpJLVFsV2xzREdjaU1KR0ZFRXU5NWdGOHFCb29EYldkS0kyVTNGaFFvM01BY0t2QVB2M0QtR2ZKZDkxZE9MM01XRlVnbHd2VjhnV2N0M3FycEc1eFRSaXE1NkU1aW4yOU5WYy15YXV4amtjeU96TXZHMGRHVUJBSzB0UkpFb19vOGoyLW1xYlM4cjFjZiIsImlkIjoiZmNfa2dpamFxSGZCcEtxNU5vUHZZenFpUWNfNSJ9"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Avon High School: Home",
+   "link": "https://ahs.avon-schools.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVQHrOzAVGR8YbrbwppZKKS-uRlw3asF8zmEF14zN6mj5YJR9raD2i6Q9fj5M_4f0PGjBOIWCF2mS2TgFFDCOpDRdEpbpWMDqN6_SRoaTz0dUg2o28xw&ved=2ahUKEwih8J2M4-SWAxUSFVkFHT2GOnEQFnoECEUQAQ&uoh=1",
+   "displayed_link": "https://ahs.avon-schools.org",
+   "favicon": "https://serpapi.com/searches/6aa3088ef3a0a727b5585083/images/L7ZMJ7GnCxtWreyf-4fP0EGrRsyXYLWOtxOw4Ic-cS0.png",
+   "snippet": "Avon High School is a 2023 National Blue Ribbon School, one of only eight Indiana public schools and the only public high school to win this prestigious honor ...",
+   "snippet_highlighted_words": [
+    "Avon High School",
+    "Indiana"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "Athletics",
+      "link": "https://ahs.avon-schools.org/athletics",
+      "snippet": "Athletics - Avon High School."
+     },
+     {
+      "title": "Schedules",
+      "link": "https://ahs.avon-schools.org/about/schedules",
+      "snippet": "Indiana weather can be unpredictable. From time to time ..."
+     },
+     {
+      "title": "Performing Arts",
+      "link": "https://ahs.avon-schools.org/performing-arts",
+      "snippet": "The AHS Theatre program\u2014Avon Thespians Troupe #8320\u2014is an ..."
+     },
+     {
+      "title": "Staff Directory",
+      "link": "https://ahs.avon-schools.org/about/staff-directory",
+      "snippet": "Avon High School. Get In Touch. 7575 E. County Road 150 S ..."
+     },
+     {
+      "title": "About",
+      "link": "https://ahs.avon-schools.org/about",
+      "snippet": "\u201cWe are Avon, We are One!\u201d This phrase is our rally cry that ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Avon High School is a 2023 National Blue Ribbon School, one of only eight Indiana public schools and the only public high school to win this prestigious honor ...",
+     "source_info_link": "https://ahs.avon-schools.org/",
+     "icon": "https://serpapi.com/searches/6aa3088ef3a0a727b5585083/images/L7ZMJ7GnCxtWreyf-4fP0DrkeoyxzcPs4NUmVwuWwEjvXehIgPEFeYWzjHlN6Bvc.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESVQHrOzAVGR8YbrbwppZKKS-uRlw3asF8zmEF14zN6mj5YJR9raD2i6Q9fj5M_4f0PGjBOIWCF2mS2TgFFDCOpDRdEpbpWMDqN6_SRoaTz0dUg2o28xw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESVQHrOzAVGR8YbrbwppZKKS-uRlw3asF8zmEF14zN6mj5YJR9raD2i6Q9fj5M_4f0PGjBOIWCF2mS2TgFFDCOpDRdEpbpWMDqN6_SRoaTz0dUg2o28xw",
+   "source": "Avon High School"
+  },
+  {
+   "position": 2,
+   "title": "Avon High School (Indiana)",
+   "link": "https://en.wikipedia.org/wiki/Avon_High_School_(Indiana)",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHrOzAVlPYFg53Y2d8icP10qbLzCSEZOyCIeFMDXBuHI47iXvcjtnD-3vS9h-zKaHTuzlEtPFDoJpzMwWd7Ju1v5rwfa1zO1wcio17VzeuzbRmya5e2ujQUW_eipQ29IPUhTOpTafKLX8cZj7t39aw&ved=2ahUKEwih8J2M4-SWAxUSFVkFHT2GOnEQFnoECEcQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Avon_High_School_(I...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+   "snippet": "Avon High School (AHS) is a 4-year high school in Avon, Hendricks County, Indiana. It is a part of the Avon Community School Corporation.",
+   "snippet_highlighted_words": [
+    "Avon High School",
+    "Indiana"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Avon High School (AHS) is a 4-year high school in Avon, Hendricks County, Indiana. It is a part of the Avon Community School Corporation.",
+     "source_info_link": "https://en.wikipedia.org/wiki/Avon_High_School_(Indiana)",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEScAHrOzAVlPYFg53Y2d8icP10qbLzCSEZOyCIeFMDXBuHI47iXvcjtnD-3vS9h-zKaHTuzlEtPFDoJpzMwWd7Ju1v5rwfa1zO1wcio17VzeuzbRmya5e2ujQUW_eipQ29IPUhTOpTafKLX8cZj7t39aw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEScAHrOzAVlPYFg53Y2d8icP10qbLzCSEZOyCIeFMDXBuHI47iXvcjtnD-3vS9h-zKaHTuzlEtPFDoJpzMwWd7Ju1v5rwfa1zO1wcio17VzeuzbRmya5e2ujQUW_eipQ29IPUhTOpTafKLX8cZj7t39aw",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Avon_High_School_(Indiana)#:~:text=Avon%20High%20School%20(AHS)%20is,the%20Avon%20Community%20School%20Corporation."
+  },
+  {
+   "position": 3,
+   "title": "Avon High School - Indiana",
+   "link": "https://www.usnews.com/education/best-high-schools/indiana/districts/avon-community-school-corp/avon-high-school-7127",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrQEB6zswFf6D1GuuWhhF7w1Lf0SKfqNE3IHf-huttk9A5RAwVCGKHjCbXK6SNfXDukV8pT9LTVpXCwpJd-8MrFIbN0mNKO9DiELhNwrEHoxZ-5vLQj_5by8grere75Jn2CtKfX_OPfvY3iUY7bSAFhK9p7I1baZXxUx5aLIgmreNzPNw34M9WLddf40Qu8kA4zAkV3z1mJ_Vzk7OA2QFuV6XsNjvd66ke7RqoMcz7g&ved=2ahUKEwih8J2M4-SWAxUSFVkFHT2GOnEQFnoECGwQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a avon-community-school-corp",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png",
+   "snippet": "Avon High School is ranked #1,052 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+   "snippet_highlighted_words": [
+    "Avon High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Avon High School is ranked #1,052 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/indiana/districts/avon-community-school-corp/avon-high-school-7127",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESrQEB6zswFf6D1GuuWhhF7w1Lf0SKfqNE3IHf-huttk9A5RAwVCGKHjCbXK6SNfXDukV8pT9LTVpXCwpJd-8MrFIbN0mNKO9DiELhNwrEHoxZ-5vLQj_5by8grere75Jn2CtKfX_OPfvY3iUY7bSAFhK9p7I1baZXxUx5aLIgmreNzPNw34M9WLddf40Qu8kA4zAkV3z1mJ_Vzk7OA2QFuV6XsNjvd66ke7RqoMcz7g&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESrQEB6zswFf6D1GuuWhhF7w1Lf0SKfqNE3IHf-huttk9A5RAwVCGKHjCbXK6SNfXDukV8pT9LTVpXCwpJd-8MrFIbN0mNKO9DiELhNwrEHoxZ-5vLQj_5by8grere75Jn2CtKfX_OPfvY3iUY7bSAFhK9p7I1baZXxUx5aLIgmreNzPNw34M9WLddf40Qu8kA4zAkV3z1mJ_Vzk7OA2QFuV6XsNjvd66ke7RqoMcz7g",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/indiana/districts/avon-community-school-corp/avon-high-school-7127#:~:text=Avon%20High%20School%20is%20ranked,they%20prepare%20students%20for%20college."
+  },
+  {
+   "position": 4,
+   "title": "Home - Avon Community School Corp",
+   "link": "https://www.avon-schools.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVQHrOzAVS06SVbCxur3Dl7HD0rSftCe3zLQW1FOHZCvefh8ul2tz3ogAIFZPCe7iPo59FM-y1cbtu9n1kBXopVMHThTAMcK-uIVPcfVDEXA9g9GDVjg&ved=2ahUKEwih8J2M4-SWAxUSFVkFHT2GOnEQFnoECGgQAQ&uoh=1",
+   "displayed_link": "https://www.avon-schools.org",
+   "favicon": "https://serpapi.com/searches/6aa3088ef3a0a727b5585083/images/L7ZMJ7GnCxtWreyf-4fP0BHfs8ohugTTHUlPOBn-bcg.png",
+   "snippet": "Avon Community School Corporation is located just west of Indianapolis, Indiana. ... Female Avon High School Graduate smiling and waving. Episode 120: Oriole ...",
+   "snippet_highlighted_words": [
+    "Indiana",
+    "Avon High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Avon Community School Corporation is located just west of Indianapolis, Indiana. ... Female Avon High School Graduate smiling and waving. Episode 120: Oriole ...",
+     "source_info_link": "https://www.avon-schools.org/",
+     "icon": "https://serpapi.com/searches/6aa3088ef3a0a727b5585083/images/L7ZMJ7GnCxtWreyf-4fP0CZaicm_Zn4YCqC6b8prpbDY-Y1-xRyh7_zwK7ifpjWw.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESVQHrOzAVS06SVbCxur3Dl7HD0rSftCe3zLQW1FOHZCvefh8ul2tz3ogAIFZPCe7iPo59FM-y1cbtu9n1kBXopVMHThTAMcK-uIVPcfVDEXA9g9GDVjg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESVQHrOzAVS06SVbCxur3Dl7HD0rSftCe3zLQW1FOHZCvefh8ul2tz3ogAIFZPCe7iPo59FM-y1cbtu9n1kBXopVMHThTAMcK-uIVPcfVDEXA9g9GDVjg",
+   "source": "Avon Community School Corp",
+   "read_more_link": "https://www.avon-schools.org/#:~:text=Avon%20Community%20School%20Corporation%20is,just%20west%20of%20Indianapolis%2C%20Indiana.&text=Episode%20120%3A%20Oriole%20Nation%20%2D,Avon%20on%20the%20National%20Stage"
+  },
+  {
+   "position": 5,
+   "title": "Avon Community School Corporation",
+   "link": "https://www.facebook.com/Avon.Schools/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXgHrOzAVwAk7neJhGO-Ekt2zVkhPRSLYaHpCjChtIEWzJSZylLtmLtugyKUpbCFTTvVvdFtEK2dyRmKlMQlsFHRLN2E2roCO7dic_8aZbMp_Lbu8Hzb6nVmA57HbwRw&ved=2ahUKEwih8J2M4-SWAxUSFVkFHT2GOnEQFnoECGoQAQ&uoh=1",
+   "displayed_link": "11.1K+ followers",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "snippet": "Let him tell you about the experience of representing Avon \u2014 and all of Indiana \u2014 at this incredible event. ... This summer, Avon High School sophomore Sophia ...",
+   "snippet_highlighted_words": [
+    "Indiana",
+    "Avon High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Let him tell you about the experience of representing Avon \u2014 and all of Indiana \u2014 at this incredible event. ... This summer, Avon High School sophomore Sophia ...",
+     "source_info_link": "https://www.facebook.com/Avon.Schools/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESXgHrOzAVwAk7neJhGO-Ekt2zVkhPRSLYaHpCjChtIEWzJSZylLtmLtugyKUpbCFTTvVvdFtEK2dyRmKlMQlsFHRLN2E2roCO7dic_8aZbMp_Lbu8Hzb6nVmA57HbwRw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESXgHrOzAVwAk7neJhGO-Ekt2zVkhPRSLYaHpCjChtIEWzJSZylLtmLtugyKUpbCFTTvVvdFtEK2dyRmKlMQlsFHRLN2E2roCO7dic_8aZbMp_Lbu8Hzb6nVmA57HbwRw",
+   "source": "Facebook \u00b7 Avon Community School Corporation",
+   "read_more_link": "https://www.facebook.com/Avon.Schools/#:~:text=Let%20him%20tell%20you%20about,%E2%80%94%20at%20this%20incredible%20event.&text=This%20summer%2C%20Avon%20High%20School,sophomore%20Sophia%20..."
+  },
+  {
+   "position": 6,
+   "title": "Avon High School",
+   "link": "https://indianagps.doe.in.gov/Summary/School/3732",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVFY2ZVMUr1_42cMrKjLGYNASW4b811xieCiu56pGGzjJ_Pne0EwgyLZne5O9Dilqvs9YRZd_N19g76qllLrE0RzTZvRJbcX0XTyZo5l4rHG6cgPTn2YAgsIq4cDV8A4YF1hSq6g&ved=2ahUKEwih8J2M4-SWAxUSFVkFHT2GOnEQFnoECG4QAQ&uoh=1",
+   "displayed_link": "https://indianagps.doe.in.gov \u203a Summary \u203a School",
+   "favicon": "https://serpapi.com/searches/6aa3088ef3a0a727b5585083/images/L7ZMJ7GnCxtWreyf-4fP0CIl1F-4MVU37caNXmiQr6Q.png",
+   "snippet": "Avon High School \u00b7 7575 E CR 150 S, Avon, IN 46123 \u00b7 (317) 544-5000 \u00b7 Website \u00b7 School Performance Report \u00b7 View on Map \u00b7 Federal Report Card.",
+   "snippet_highlighted_words": [
+    "Avon High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Avon High School \u00b7 7575 E CR 150 S, Avon, IN 46123 \u00b7 (317) 544-5000 \u00b7 Website \u00b7 School Performance Report \u00b7 View on Map \u00b7 Federal Report Card.",
+     "source_info_link": "https://indianagps.doe.in.gov/Summary/School/3732",
+     "icon": "https://serpapi.com/searches/6aa3088ef3a0a727b5585083/images/L7ZMJ7GnCxtWreyf-4fP0BxJ2y1kudmr-rR0SlOQvz7MH1Rx_MXPiTrcNaKvoJIy.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESaQHrOzAVFY2ZVMUr1_42cMrKjLGYNASW4b811xieCiu56pGGzjJ_Pne0EwgyLZne5O9Dilqvs9YRZd_N19g76qllLrE0RzTZvRJbcX0XTyZo5l4rHG6cgPTn2YAgsIq4cDV8A4YF1hSq6g&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESaQHrOzAVFY2ZVMUr1_42cMrKjLGYNASW4b811xieCiu56pGGzjJ_Pne0EwgyLZne5O9Dilqvs9YRZd_N19g76qllLrE0RzTZvRJbcX0XTyZo5l4rHG6cgPTn2YAgsIq4cDV8A4YF1hSq6g",
+   "source": "Indiana Graduates Prepared to Succeed (GPS) (.gov)",
+   "read_more_link": "https://indianagps.doe.in.gov/Summary/School/3732#:~:text=Avon%20High%20School&text=7575%20E%20CR%20150%20S%2C,Avon%2C%20IN%2046123&text=(317)%20544%2D5000&text=Website&text=School%20Performance%20Report&text=View%20on%20Map&text=Federal%20Report%20Card"
+  },
+  {
+   "position": 7,
+   "title": "Avon High School in Avon, IN",
+   "link": "https://www.niche.com/k12/avon-high-school-avon-in/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESawHrOzAVAtZuh2pbS2JcnGY9TU1vKmqcm-TUCySLY1PoHzLAbzRwP0nqL0F6DkXhIyDygs0HY521FrqVimBVNDwug9-2TCaBay6xxuKyWu5UOv0axm7ly0zjeAfYW9hxwQ5RtxD_PlT-TzrQ&ved=2ahUKEwih8J2M4-SWAxUSFVkFHT2GOnEQFnoECGkQAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a Indiana",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png",
+   "snippet": "Avon High School is a highly rated, public school located in AVON, IN. It has 3,523 students in grades 9-12 with a student-teacher ratio of 18 to 1.",
+   "snippet_highlighted_words": [
+    "Avon High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Avon High School is a highly rated, public school located in AVON, IN. It has 3,523 students in grades 9-12 with a student-teacher ratio of 18 to 1.",
+     "source_info_link": "https://www.niche.com/k12/avon-high-school-avon-in/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESawHrOzAVAtZuh2pbS2JcnGY9TU1vKmqcm-TUCySLY1PoHzLAbzRwP0nqL0F6DkXhIyDygs0HY521FrqVimBVNDwug9-2TCaBay6xxuKyWu5UOv0axm7ly0zjeAfYW9hxwQ5RtxD_PlT-TzrQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESawHrOzAVAtZuh2pbS2JcnGY9TU1vKmqcm-TUCySLY1PoHzLAbzRwP0nqL0F6DkXhIyDygs0HY521FrqVimBVNDwug9-2TCaBay6xxuKyWu5UOv0axm7ly0zjeAfYW9hxwQ5RtxD_PlT-TzrQ",
+   "source": "Niche",
+   "read_more_link": "https://www.niche.com/k12/avon-high-school-avon-in/#:~:text=Avon%20High%20School%20is%20a,ratio%20of%2018%20to%201."
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Avon high school indiana football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Avon+high+school+indiana+football&sa=X&ved=2ahUKEwih8J2M4-SWAxUSFVkFHT2GOnEQ1QJ6BAhrEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Avon+high+school+indiana+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Avon high school indiana basketball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Avon+high+school+indiana+basketball&sa=X&ved=2ahUKEwih8J2M4-SWAxUSFVkFHT2GOnEQ1QJ6BAh7EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Avon+high+school+indiana+basketball"
+  },
+  {
+   "block_position": 1,
+   "query": "Avon high school indiana yearbook",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Avon+high+school+indiana+yearbook&sa=X&ved=2ahUKEwih8J2M4-SWAxUSFVkFHT2GOnEQ1QJ6BAh5EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Avon+high+school+indiana+yearbook"
+  },
+  {
+   "block_position": 1,
+   "query": "Avon high school indiana ranking",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Avon+high+school+indiana+ranking&sa=X&ved=2ahUKEwih8J2M4-SWAxUSFVkFHT2GOnEQ1QJ6BAh3EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Avon+high+school+indiana+ranking"
+  },
+  {
+   "block_position": 1,
+   "query": "Avon high school indiana famous alumni",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Avon+high+school+indiana+famous+alumni&sa=X&ved=2ahUKEwih8J2M4-SWAxUSFVkFHT2GOnEQ1QJ6BAhzEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Avon+high+school+indiana+famous+alumni"
+  },
+  {
+   "block_position": 1,
+   "query": "Avon high school indiana alumni",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Avon+high+school+indiana+alumni&sa=X&ved=2ahUKEwih8J2M4-SWAxUSFVkFHT2GOnEQ1QJ6BAhwEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Avon+high+school+indiana+alumni"
+  },
+  {
+   "block_position": 1,
+   "query": "Avon High School website",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Avon+High+School+website&sa=X&ved=2ahUKEwih8J2M4-SWAxUSFVkFHT2GOnEQ1QJ6BAhvEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Avon+High+School+website"
+  },
+  {
+   "block_position": 1,
+   "query": "Avon High School prom 2026",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Avon+High+School+prom+2026&sa=X&ved=2ahUKEwih8J2M4-SWAxUSFVkFHT2GOnEQ1QJ6BAhtEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Avon+High+School+prom+2026"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Avon+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=kgijaqHfBpKq5NoPvYzqiQc&start=10&sa=N&sstk=AS6-VmKC-_VdoJ-h1etTDJw_S-SPSHSk8oT8awAtjpQYA4I3Vbmv6MgzTlgMBdtD67z-X9-yeDhv5-2i49qqxvCL3_95IjoxhPXQ3w&ved=2ahUKEwih8J2M4-SWAxUSFVkFHT2GOnEQ8NMDegQIXRAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Avon+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=kgijaqHfBpKq5NoPvYzqiQc&start=10&sa=N&sstk=AS6-VmKC-_VdoJ-h1etTDJw_S-SPSHSk8oT8awAtjpQYA4I3Vbmv6MgzTlgMBdtD67z-X9-yeDhv5-2i49qqxvCL3_95IjoxhPXQ3w&ved=2ahUKEwih8J2M4-SWAxUSFVkFHT2GOnEQ8tMDegQIXRAE",
+   "3": "https://www.google.com/search?q=%22Avon+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=kgijaqHfBpKq5NoPvYzqiQc&start=20&sa=N&sstk=AS6-VmKC-_VdoJ-h1etTDJw_S-SPSHSk8oT8awAtjpQYA4I3Vbmv6MgzTlgMBdtD67z-X9-yeDhv5-2i49qqxvCL3_95IjoxhPXQ3w&ved=2ahUKEwih8J2M4-SWAxUSFVkFHT2GOnEQ8tMDegQIXRAG",
+   "4": "https://www.google.com/search?q=%22Avon+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=kgijaqHfBpKq5NoPvYzqiQc&start=30&sa=N&sstk=AS6-VmKC-_VdoJ-h1etTDJw_S-SPSHSk8oT8awAtjpQYA4I3Vbmv6MgzTlgMBdtD67z-X9-yeDhv5-2i49qqxvCL3_95IjoxhPXQ3w&ved=2ahUKEwih8J2M4-SWAxUSFVkFHT2GOnEQ8tMDegQIXRAI",
+   "5": "https://www.google.com/search?q=%22Avon+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=kgijaqHfBpKq5NoPvYzqiQc&start=40&sa=N&sstk=AS6-VmKC-_VdoJ-h1etTDJw_S-SPSHSk8oT8awAtjpQYA4I3Vbmv6MgzTlgMBdtD67z-X9-yeDhv5-2i49qqxvCL3_95IjoxhPXQ3w&ved=2ahUKEwih8J2M4-SWAxUSFVkFHT2GOnEQ8tMDegQIXRAK",
+   "6": "https://www.google.com/search?q=%22Avon+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=kgijaqHfBpKq5NoPvYzqiQc&start=50&sa=N&sstk=AS6-VmKC-_VdoJ-h1etTDJw_S-SPSHSk8oT8awAtjpQYA4I3Vbmv6MgzTlgMBdtD67z-X9-yeDhv5-2i49qqxvCL3_95IjoxhPXQ3w&ved=2ahUKEwih8J2M4-SWAxUSFVkFHT2GOnEQ8tMDegQIXRAM",
+   "7": "https://www.google.com/search?q=%22Avon+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=kgijaqHfBpKq5NoPvYzqiQc&start=60&sa=N&sstk=AS6-VmKC-_VdoJ-h1etTDJw_S-SPSHSk8oT8awAtjpQYA4I3Vbmv6MgzTlgMBdtD67z-X9-yeDhv5-2i49qqxvCL3_95IjoxhPXQ3w&ved=2ahUKEwih8J2M4-SWAxUSFVkFHT2GOnEQ8tMDegQIXRAO",
+   "8": "https://www.google.com/search?q=%22Avon+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=kgijaqHfBpKq5NoPvYzqiQc&start=70&sa=N&sstk=AS6-VmKC-_VdoJ-h1etTDJw_S-SPSHSk8oT8awAtjpQYA4I3Vbmv6MgzTlgMBdtD67z-X9-yeDhv5-2i49qqxvCL3_95IjoxhPXQ3w&ved=2ahUKEwih8J2M4-SWAxUSFVkFHT2GOnEQ8tMDegQIXRAQ",
+   "9": "https://www.google.com/search?q=%22Avon+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=kgijaqHfBpKq5NoPvYzqiQc&start=80&sa=N&sstk=AS6-VmKC-_VdoJ-h1etTDJw_S-SPSHSk8oT8awAtjpQYA4I3Vbmv6MgzTlgMBdtD67z-X9-yeDhv5-2i49qqxvCL3_95IjoxhPXQ3w&ved=2ahUKEwih8J2M4-SWAxUSFVkFHT2GOnEQ8tMDegQIXRAS",
+   "10": "https://www.google.com/search?q=%22Avon+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=kgijaqHfBpKq5NoPvYzqiQc&start=90&sa=N&sstk=AS6-VmKC-_VdoJ-h1etTDJw_S-SPSHSk8oT8awAtjpQYA4I3Vbmv6MgzTlgMBdtD67z-X9-yeDhv5-2i49qqxvCL3_95IjoxhPXQ3w&ved=2ahUKEwih8J2M4-SWAxUSFVkFHT2GOnEQ8tMDegQIXRAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Avon+High+School%22+Indiana&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Avon+High+School%22+Indiana&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Avon+High+School%22+Indiana&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Avon+High+School%22+Indiana&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Avon+High+School%22+Indiana&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Avon+High+School%22+Indiana&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Avon+High+School%22+Indiana&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Avon+High+School%22+Indiana&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Avon+High+School%22+Indiana&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Avon+High+School%22+Indiana&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Avon+High+School%22+Indiana&start=90"
+  }
+ }
+}

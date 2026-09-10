@@ -1,0 +1,67 @@
+{
+ "news_results": [
+  {
+   "position": 1,
+   "title": "Route changed for Saturday\u2019s Carolina Carillon Holiday Parade in Columbia | Lifestyle",
+   "source": {
+    "name": "coladaily.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.coladaily.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Terry Ward"
+    ]
+   },
+   "link": "https://www.coladaily.com/lifestyle/route-changed-for-saturday-s-carolina-carillon-holiday-parade-in-columbia/article_8c5c7259-d7a4-5b1e-bffb-7c2aa6454b53.html",
+   "thumbnail": "https://bloximages.newyork1.vip.townnews.com/coladaily.com/content/tncms/assets/v3/editorial/d/13/d13ca664-e738-50c1-aa82-2425ab4613dc/5d65b63f2e264.image.jpg?resize=400%2C300",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXRUakpPY25SS1YxZENUMlZPVFJDc0FoaVFBeWdLTWdB",
+   "date": "12/01/2018, 08:00 AM, +0000 UTC",
+   "iso_date": "2018-12-01T08:00:00Z"
+  }
+ ],
+ "menu_links": [
+  {
+   "title": "U.S.",
+   "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+  },
+  {
+   "title": "World",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Your local news",
+   "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+  },
+  {
+   "title": "Business",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Technology",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Entertainment",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Sports",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Science",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Health",
+   "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+  }
+ ]
+}

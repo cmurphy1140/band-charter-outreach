@@ -1,0 +1,588 @@
+{
+ "search_information": {
+  "query_displayed": "\"Carrollton High School\"",
+  "total_results": 212000,
+  "time_taken_displayed": 0.26,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Carrollton High School",
+  "type": "Public school in Carrollton, Georgia",
+  "entity_type": "local_nav",
+  "kgmid": "/m/0fzvqq",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/0fzvqq&hl=en-US&q=Carrollton+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F0fzvqq&q=Carrollton+High+School",
+  "place_id": "ChIJsyAwDwovi4gRjd8etMMRZwc",
+  "website": "http://chs.carrolltoncityschools.net/",
+  "description": "Carrollton High School is a public high school in Carrollton, Georgia, United States, part of the Carrollton City School System. The school's mascot is the Trojan.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa30cc60ccffb19df53c771/images/qXPySnIrTbrzkNwzir-UnbkofNVC-zgB5t243E9Nb-g.webp",
+   "link": "https://www.google.com/maps/place/Carrollton+High+School/data=!4m2!3m1!1s0x0:0x76711c3b41edf8d?sa=X&ved=2ahUKEwjG8LyS5-SWAxWmyqACHcoSOHAQ_BJ6BAgPEAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Carrollton_High_School_(Carrollton,_Georgia)"
+  },
+  "address": "201 Trojan Dr, Carrollton, GA 30117",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=carrollton+high+school+address&ludocid=533414613104910221&sa=X&ved=2ahUKEwjG8LyS5-SWAxWmyqACHcoSOHAQ6BN6BAgjEAI"
+   }
+  ],
+  "founded": "1886",
+  "color": "Gold",
+  "color_links": [
+   {
+    "text": "Gold",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yYv9a-ZEIw9b3bgmSTQtBIaidFg5CTFKLDlrgt05nx7pwwrB6pv8xhlmtdV-0Td2n-bFDvROuZPYn2rD9--dxhM8eZQQ6QMfBaB8eUGkg7cSAeIA_1YoLPDhRzXnCl03Zruremc%3D&sa=X&ved=2ahUKEwjG8LyS5-SWAxWmyqACHcoSOHAQmxN6BAgnEAI"
+   }
+  ],
+  "school_types": "Secondary school, State school",
+  "school_types_links": [
+   {
+    "text": "Secondary school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Secondary+school&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67-Rsa99rK7fwEET42kD4ZCjk-kwuBlXLYvTk1E00Fqrhwi85KZ1INmxqGZOr3jlJDcUD6ud1MLv8IJ0e6fEDPQWMqzMljtx1MKREnqXNq73iKFSg_rW2Ts1cP7Gmxi7xgCOPY2ZYGAyLuMHfj3onDoVAJcIzCDaPtVUgUWC-kZilEvwg9wc9A14PoddhROFv2OorUANS09FHwmf44A7I2raesMXRyanRy3yrokBbh_w9cEZ06ChZiiWFVvRida0qlKR56oc%3D&sa=X&ved=2ahUKEwjG8LyS5-SWAxWmyqACHcoSOHAQmxN6BAgqEAI"
+   },
+   {
+    "text": "State school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=State+school&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ybGtCxI0H8z2nV80srIO5hh43iJrpLL9zyTRHToodwNipZCD4kcN2wbzA3OqfyGettl42NpXglwsH4hnJQRSg4KBrFTowpZphOt0qedRcJ2Agaz6I2FOpzsrU-DBM0Ktovhw3ttMcK8LwYXlmIrQYc4JRaFFPo6sYfh0HoqCzBKhxJnINrmFS1UY2uNSPFR3iooAJ_WgezkFIKTfzp8-_z7RI8fe046DAe4tysf2qJc6kxBt_xonu8eEvYaQ7tTytF6VogU%3D&sa=X&ved=2ahUKEwjG8LyS5-SWAxWmyqACHcoSOHAQmxN6BAgqEAM"
+   }
+  ],
+  "phone": "(770) 834-7726",
+  "raw_hours": "Closed \u00b7 Opens 7 - 30 AM Fri",
+  "hours": {
+   "thursday": {
+    "opens": "7:30\u202fAM",
+    "closes": "3:45\u202fPM"
+   },
+   "friday": {
+    "opens": "7:30\u202fAM",
+    "closes": "3:45\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "7:30\u202fAM",
+    "closes": "3:45\u202fPM"
+   },
+   "tuesday": {
+    "opens": "7:30\u202fAM",
+    "closes": "3:45\u202fPM"
+   },
+   "wednesday": {
+    "opens": "7:30\u202fAM",
+    "closes": "3:45\u202fPM"
+   }
+  },
+  "people_also_search_for": [
+   {
+    "name": "Carrollton",
+    "image": "https://serpapi.com/searches/6aa30cc60ccffb19df53c771/images/qXPySnIrTbrzkNwzir-Une-6-pVO6j_D72X42dWnUmh-Y0p8-GhwhLlBMAlGjEZ6.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpuBt5w6eMt2DXuOXb-_53BUEAsfEZFTJJSHvbPNZ13bHOJ_E-Hx20e9STDt9yVAOrUDNN2Ka01dXznR-3599Ft-gUpivANbFojQ0bwDo7H8CfN4JyVCzItQlQg7pYY2MOuHfyy2167xAJBETXM-z0qicWX2yRATB3v2C2Vbtx1GZIPlgmN8ZT9mJpgiwHSb1YA3BtQbt-AD9xnprnANwR71k_tLhOvYus2fceIJQYFeEYCE2UD9lTtiUjJ5J6dlm7lEHsU0%3D&q=Carrollton,+Georgia&sa=X&ved=2ahUKEwjG8LyS5-SWAxWmyqACHcoSOHAQs9oBKAB6BAghEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Carrollton%2C+Georgia&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpuBt5w6eMt2DXuOXb-_53BUEAsfEZFTJJSHvbPNZ13bHOJ_E-Hx20e9STDt9yVAOrUDNN2Ka01dXznR-3599Ft-gUpivANbFojQ0bwDo7H8CfN4JyVCzItQlQg7pYY2MOuHfyy2167xAJBETXM-z0qicWX2yRATB3v2C2Vbtx1GZIPlgmN8ZT9mJpgiwHSb1YA3BtQbt-AD9xnprnANwR71k_tLhOvYus2fceIJQYFeEYCE2UD9lTtiUjJ5J6dlm7lEHsU0%3D"
+   },
+   {
+    "name": "Carrollton Elementary School",
+    "image": "https://serpapi.com/searches/6aa30cc60ccffb19df53c771/images/qXPySnIrTbrzkNwzir-Une-6-pVO6j_D72X42dWnUmjtw1Rzd5XIiWrNlrFdUAOS.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67264qXLhkaZS_PYTesFx5kPcksdYmBYq3jfU-nFYILuQzYAe_TRjICvT4qgV8VlJk7Ii9aSPOxjLFPXbNBcFxtj2tRf4c6aaPeyWECnbmPEjjHME8O_nXTLFqNjGL40B0UpYEXGA35iSjgk9KFTazPozpILrA8noezZYxsdfK_kvxu13h07ltVPhxPiwbUnWX_QTztx9x-MkexhK-AIZ9wOBbFvJbDYmG6VEefuQyev4kLmuH8tE8mSLGQIdHomhXVssGJ-0ouMZ7s_zc0mKZvw0zFOQ&q=Carrollton+Elementary+School&sa=X&ved=2ahUKEwjG8LyS5-SWAxWmyqACHcoSOHAQs9oBKAB6BAghEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Carrollton+Elementary+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67264qXLhkaZS_PYTesFx5kPcksdYmBYq3jfU-nFYILuQzYAe_TRjICvT4qgV8VlJk7Ii9aSPOxjLFPXbNBcFxtj2tRf4c6aaPeyWECnbmPEjjHME8O_nXTLFqNjGL40B0UpYEXGA35iSjgk9KFTazPozpILrA8noezZYxsdfK_kvxu13h07ltVPhxPiwbUnWX_QTztx9x-MkexhK-AIZ9wOBbFvJbDYmG6VEefuQyev4kLmuH8tE8mSLGQIdHomhXVssGJ-0ouMZ7s_zc0mKZvw0zFOQ"
+   },
+   {
+    "name": "Carrollton Middle School",
+    "image": "https://serpapi.com/searches/6aa30cc60ccffb19df53c771/images/qXPySnIrTbrzkNwzir-Une-6-pVO6j_D72X42dWnUmgk3kRSD4DH7G1lDTFfZVqG.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKllX05q7xl66dAosm6nb1iuMgV7Bv8meTZS-zIzIS3OM67jPXnKU5tuP-2u6sagDRSrQ7OBJt_RxIzqLudKgH6H8wFYyBL3xL3pqgIGQR7i7EB_9blFZKmu1LH1d9C7W9_i4gweQFxosqTdMnGrevLGeTXK-aFlY7UxfAlYaoCKDYp9ufQvYxjubKhiqjGQM5F_lZ3Df_1JRgQh6ruApnyBT2xy3AwWhyCW4TU9xOQh0GGTEpIeWL-AGujLxSvK1PPQdcwP1QoBNMj7SRTTc18rvLe5yJq51s8sMzf5JJfF_qAMcf4NHZCIHu7fXdn4KrAevngd&q=Carrollton+Middle+School&sa=X&ved=2ahUKEwjG8LyS5-SWAxWmyqACHcoSOHAQs9oBKAB6BAghEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Carrollton+Middle+School&si=APenkKllX05q7xl66dAosm6nb1iuMgV7Bv8meTZS-zIzIS3OM67jPXnKU5tuP-2u6sagDRSrQ7OBJt_RxIzqLudKgH6H8wFYyBL3xL3pqgIGQR7i7EB_9blFZKmu1LH1d9C7W9_i4gweQFxosqTdMnGrevLGeTXK-aFlY7UxfAlYaoCKDYp9ufQvYxjubKhiqjGQM5F_lZ3Df_1JRgQh6ruApnyBT2xy3AwWhyCW4TU9xOQh0GGTEpIeWL-AGujLxSvK1PPQdcwP1QoBNMj7SRTTc18rvLe5yJq51s8sMzf5JJfF_qAMcf4NHZCIHu7fXdn4KrAevngd"
+   },
+   {
+    "name": "Buford High School",
+    "image": "https://serpapi.com/searches/6aa30cc60ccffb19df53c771/images/qXPySnIrTbrzkNwzir-Une-6-pVO6j_D72X42dWnUmjtLAlLQ9Yh0WQnzPVfWvnw.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW674OKCYUfnv9FmEVY4jvw9GSfkICpB10HQVFj2D9VbWWZ8b-rIcu0uGyzF_jRjQ5nqsZl-wF-fNq42t08dHAhKMi2IYZHdwkzJ263DGONMmC6euiFALFuPEf4QvQvsIzHhkTeXJwr8Omp02GBPTaccJyHCV1FX4emh7hSHSjAzJ0RDmzuckE-QqC4d4w6kAb_Krh8ir3NBzDRjhX9ONHEMV7IHdU7P7RzmWZsQkw9e_8VwOEztXjaOkGEQNBQIBxpt2slLQWVzuKVClbdOx9Wj44p3254&q=Buford+High+School&sa=X&ved=2ahUKEwjG8LyS5-SWAxWmyqACHcoSOHAQs9oBKAB6BAghEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Buford+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW674OKCYUfnv9FmEVY4jvw9GSfkICpB10HQVFj2D9VbWWZ8b-rIcu0uGyzF_jRjQ5nqsZl-wF-fNq42t08dHAhKMi2IYZHdwkzJ263DGONMmC6euiFALFuPEf4QvQvsIzHhkTeXJwr8Omp02GBPTaccJyHCV1FX4emh7hSHSjAzJ0RDmzuckE-QqC4d4w6kAb_Krh8ir3NBzDRjhX9ONHEMV7IHdU7P7RzmWZsQkw9e_8VwOEztXjaOkGEQNBQIBxpt2slLQWVzuKVClbdOx9Wj44p3254"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Carrollton+High+School&stick=H4sIAAAAAAAAAONgFuLUz9U3SKsqKyxUQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iFXNOLCrKz8kpyc9T8MhMz1AITs7Iz8_Zwcp4i02S4Y1DRWAuX1PnknDDQ6zaizZHJAXbpId9Pw4AQYd35HwAAAA&sa=X&ved=2ahUKEwjG8LyS5-SWAxWmyqACHcoSOHAQzO0BKAR6BAghEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLUz9U3SKsqKyxUQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iFXNOLCrKz8kpyc9T8MhMz1AITs7Iz8_Zwcp4i02S4Y1DRWAuX1PnknDDQ6zaizZHJAXbpId9Pw4AQYd35HwAAAA",
+  "profiles": [
+   {
+    "name": "X (Twitter)",
+    "link": "https://twitter.com/trojansccs",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Carrollton+High+School%22",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAABhUlEQVR4AczOA6xcARCF4X_us23btuLUQR3WZlhbQW3bto2gtm3b2J3GN4tY74uHh3okOi42Nj4AAUDwTvDEhisABCOAEAzYTBh0bN-lc5d0QgAhHPqX4Y4pkd367Zc-xMcXCPDg8TPwxeQH724Uj9N95GJ4pnHxby1xgCmV3v-GsFb7k0Iee7UjaQgmIYe9v9O4-wUKWaATyMPAViwvr1NnOQWDdTV5CHYSaKWLmaGDyvU4mTgQcllracaFr-9uk-yLM8k8fAJff0IUTghRVFu3M1ynkYk4nchiqqU3Ry05RDibMMhjtj6Ht3dJxVk_l1G64cspOusychBsCWm01WNM0jFs0sbEYUtIIuTXNco588OLh09JxE6wweuXEAvfL9PQus3-iU80N34KCaQyUOcxTTuSjEmMRI5rS9JwIZfD1t7ceo34YIpnuQ4nGwP8XXlq_fJZd9jE8KBHC5IwAELJ7dWrZ6fOuNhkgFgAEEIAwA1MQkw0AgDC_wnKycrKSQ2iPAkAVyNzq8rxicIAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/trojansccs/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Carrollton+High+School%22",
+    "image": "https://serpapi.com/searches/6aa30cc60ccffb19df53c771/images/qXPySnIrTbrzkNwzir-UnZmzxh0FQrA6JB3sHWo0hWTT9vxr-HRFYiYtIX5la_KF.png"
+   },
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/carrolltoncityschools",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Carrollton+High+School%22",
+    "image": "https://serpapi.com/searches/6aa30cc60ccffb19df53c771/images/qXPySnIrTbrzkNwzir-UnU8pGJYQFAqILi0ubbQJ4e0O4n8opllPaj-ukaAY08TA.png"
+   },
+   {
+    "name": "YouTube",
+    "link": "https://www.youtube.com/user/CCSTrojans",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Carrollton+High+School%22",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAP1BMVEX_____z8__n5__kJD_gID_cHD_YGD_v7__39__ICD_AAD_r6__EBD_7-__oKD_MDD_QED_UFD_X1__j4__f396G04EAAAAhklEQVR4AeXQRQLDQAwDQC3bajj5_1dLYb63czYKf8VY50OcBO9swkyUB_SBkfJQlqOXeKJAz_FEQM9zVCqXInqRIy-RC9W-AJDypgCwyoGiV68LkLJFwX6CVJcr8nBwZJgLXMaDAs9RxsMcLE949IQnEnpoeKjEpC25o12OpVwkTURy_JQX1r4RC2S7kZYAAAAASUVORK5CYII.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "How many state championships does Carrollton High School have?",
+   "type": "featured_snippet",
+   "snippet": "Best known for their football and track & field programs, football has won seven state championships and track & field has won twenty-four state championships.",
+   "title": "Carrollton High School (Carrollton, Georgia) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Carrollton_High_School_(Carrollton,_Georgia)#:~:text=Best%20known%20for%20their%20football,won%20twenty%2Dfour%20state%20championships.",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Carrollton_High_Scho...",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZGQlFlVU5mU1RoUGVHOHpORTlDVTJoelJrRmliRm8zV1dWR2VISmpWbTVmVUMxWU9HdDBlVGxEVGxadmMxSm9VbXhYV1ZwblZqTTRiVWhYUVdKb1dISkNibWx3YTBoSllVODFjV2xwVTNSMFZGQmZiRTV0V0VKb2R4SVhNRUY1YW1GellrbFBZV0ZXWnpoVlVIbHhXR2RuVVdNYUlrRkVjM0k1WmxKelEwaEpaRmxyV1ZZMmNWTlZUV1Z1Y1RoT1IweFVTbEpGTVdjIiwiZmN2IjoiMyIsImVpIjoiMEF5amFzYklPYWFWZzhVUHlxWGdnUWMiLCJxYyI6IkNoWmpZWEp5YjJ4c2RHOXVJR2hwWjJnZ2MyTm9iMjlzRUFCOUhOSk5QdyIsInF1ZXN0aW9uIjoiSG93IG1hbnkgc3RhdGUgY2hhbXBpb25zaGlwcyBkb2VzIENhcnJvbGx0b24gSGlnaCBTY2hvb2wgaGF2ZT8iLCJsayI6ImN3WEIwUW1BTUF3RTBEMzh1a1VjSnRUaUZkSmNhWUxpOXI1M25OU0xhZkVoeTZxajBlWWFpdVJZaVVzOTBXeHZ1WmNDSERlUmpaS0Q5dlFmIiwiYnMiOiJjNFhRc1dvQ1FSQ0FZV3kzc2p5dW1rS1NUc05WbXBCY2tVSWJJV0NSZWpqWG15RjNPN0k3UmdJaUNENkh6LVBUNUJseVJzUnJWdnZaNzk4WnMtLVl0NG1zb1ViM0EwRlJMUlNFOVpMRkJlSmxnTG5ZQU9fb3ZWU1Zpb01KbHdTemdrUXFJUHkyZWJKN3pQTDBsZTRpeFJXaEV4S3VpTm1ZNTlZdlZuUHJORUFwb0JKcnM0T3hGVjh5NXNsaG03MmtJNG9Ba1c0RGxHZkFMTXpnazFEQm9fc0NqcTdiVHY1LVpFOXBmOTEtZGI5anpmQ18wd3dyV2RBVmEzTWlXSWlfa1p3eTFwd254MEgya1BZaWpmbzBjX0c2blQ4IiwiaWQiOiJmY18wQXlqYXNiSU9hYVZnOFVQeXFYZ2dRY18xIn0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZGQlFlVU5mU1RoUGVHOHpORTlDVTJoelJrRmliRm8zV1dWR2VISmpWbTVmVUMxWU9HdDBlVGxEVGxadmMxSm9VbXhYV1ZwblZqTTRiVWhYUVdKb1dISkNibWx3YTBoSllVODFjV2xwVTNSMFZGQmZiRTV0V0VKb2R4SVhNRUY1YW1GellrbFBZV0ZXWnpoVlVIbHhXR2RuVVdNYUlrRkVjM0k1WmxKelEwaEpaRmxyV1ZZMmNWTlZUV1Z1Y1RoT1IweFVTbEpGTVdjIiwiZmN2IjoiMyIsImVpIjoiMEF5amFzYklPYWFWZzhVUHlxWGdnUWMiLCJxYyI6IkNoWmpZWEp5YjJ4c2RHOXVJR2hwWjJnZ2MyTm9iMjlzRUFCOUhOSk5QdyIsInF1ZXN0aW9uIjoiSG93IG1hbnkgc3RhdGUgY2hhbXBpb25zaGlwcyBkb2VzIENhcnJvbGx0b24gSGlnaCBTY2hvb2wgaGF2ZT8iLCJsayI6ImN3WEIwUW1BTUF3RTBEMzh1a1VjSnRUaUZkSmNhWUxpOXI1M25OU0xhZkVoeTZxajBlWWFpdVJZaVVzOTBXeHZ1WmNDSERlUmpaS0Q5dlFmIiwiYnMiOiJjNFhRc1dvQ1FSQ0FZV3kzc2p5dW1rS1NUc05WbXBCY2tVSWJJV0NSZWpqWG15RjNPN0k3UmdJaUNENkh6LVBUNUJseVJzUnJWdnZaNzk4WnMtLVl0NG1zb1ViM0EwRlJMUlNFOVpMRkJlSmxnTG5ZQU9fb3ZWU1Zpb01KbHdTemdrUXFJUHkyZWJKN3pQTDBsZTRpeFJXaEV4S3VpTm1ZNTlZdlZuUHJORUFwb0JKcnM0T3hGVjh5NXNsaG03MmtJNG9Ba1c0RGxHZkFMTXpnazFEQm9fc0NqcTdiVHY1LVpFOXBmOTEtZGI5anpmQ18wd3dyV2RBVmEzTWlXSWlfa1p3eTFwd254MEgya1BZaWpmbzBjX0c2blQ4IiwiaWQiOiJmY18wQXlqYXNiSU9hYVZnOFVQeXFYZ2dRY18xIn0%3D"
+  },
+  {
+   "question": "How many students go to Carrollton High School in Georgia?",
+   "type": "featured_snippet",
+   "snippet": "Carrollton High School is a highly rated, public, charter school located in CARROLLTON, GA. It has 1,825 students in grades 9-12 with a student-teacher ratio of 17 to 1.",
+   "title": "Carrollton High School in Carrollton, GA - Niche",
+   "link": "https://www.niche.com/k12/carrollton-high-school-carrollton-ga/#:~:text=Carrollton%20High%20School%20is%20a,ratio%20of%2017%20to%201.",
+   "displayed_link": "https://www.niche.com \u203a carrollton-high-school-carrollto...",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACIUlEQVR4AXVSA4xkURDss6KzObbOtm3EOtu2bQRn2_bd2jZiZxUuan8txtNJ5__3Xle1SgLM2dsqNtV5satTFS-r8xSxq86JpY9FQppa3UwcqmtN-xkqZ6xbhoef3uLDv1_4HhmGu-9eYeb65Wjg0FQqZJcZGwBWHn7pZ47Hr5hI7L9-Eb0mjyAAyj26TxyGredP4NXPr9DNHMe7H2IyNXXjmZnguPRU9Jk6igFBveekEfgTGw3GshJ3zyw7LDEODGgxwIzNZ48FgJfs2IA2I1xgZT-jI9DIqasQq8osYtNcYM-7Lp8BA7uMGwwaS_YmePbtEyzzpoD_Oy6exuyNK_h_VjhtDoy91RN8jfiP8KR4Di4oASu99vQh_1NIUPrp_x93IAne_PqOzmMHIbMgD_2WzPYnoDOG3xIhQURSQgAB_x0LpyOrMB9dxw_xIWjo1OJb5H_-FwtbePz5PVRTRwcQ0NlrVEoiNeEm4CBvv33B_2ShwuZvWYPdl88GJaDvvHQGVVVVboK9V89jzsaVEIf6tFCeSkkVnIN62hi0GmTB-lOHfQgoqAM3LqH9qP4cINcIYsSmNglNCbpimjMJf-Oi3a0Ec1bH7RhnTwTX7y_lH-a5k_E_IZaaYCY3kOrccu44VQjDrAkEf_ORMo0XSvClxi5dxdxNq3D92UO8__uTw8OtN88xa8MKsGxmdoODGeVJhVEkXHGdJyt-xtOzx6oBO9OP-PKJMtQAAAAASUVORK5CYII.png",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZGQlFlVU5mU1RoUGVHOHpORTlDVTJoelJrRmliRm8zV1dWR2VISmpWbTVmVUMxWU9HdDBlVGxEVGxadmMxSm9VbXhYV1ZwblZqTTRiVWhYUVdKb1dISkNibWx3YTBoSllVODFjV2xwVTNSMFZGQmZiRTV0V0VKb2R4SVhNRUY1YW1GellrbFBZV0ZXWnpoVlVIbHhXR2RuVVdNYUlrRkVjM0k1WmxKelEwaEpaRmxyV1ZZMmNWTlZUV1Z1Y1RoT1IweFVTbEpGTVdjIiwiZmN2IjoiMyIsImVpIjoiMEF5amFzYklPYWFWZzhVUHlxWGdnUWMiLCJxYyI6IkNoWmpZWEp5YjJ4c2RHOXVJR2hwWjJnZ2MyTm9iMjlzRUFCOUhOSk5QdyIsInF1ZXN0aW9uIjoiSG93IG1hbnkgc3R1ZGVudHMgZ28gdG8gQ2Fycm9sbHRvbiBIaWdoIFNjaG9vbCBpbiBHZW9yZ2lhPyIsImxrIjoiY3dYQlVRcUFRQWdGd0h2MDlhN1JjV1JiVkRBZnFCSGR2cG5qTkw2NEpUXzBQTmZPYVNneHhKSXFSZ3dUNW1yb1pXVEFFN3BaNnZJRCIsImJzIjoiYzRYUXNXb0NRUkNBWVd5M3NqeXVta0tTVHNOVm1wQmNrVUliSVdDUmVqalhteUYzTzdJN1JnSWlDRDZIei1QVDVCbHlSc1JyVnZ2Wjc5OFpzLS1ZdDRtc29VYjNBMEZSTFJTRTlaTEZCZUpsZ0xuWUFPX292VlNWaW9NSmx3U3pna1FxSVB5MmViSjd6UEwwbGU0aXhSV2hFeEt1aU5tWTU5WXZWblByTkVBcG9CSnJzNE94RlY4eTVzbGhtNzJrSTRvQWtXNERsR2ZBTE16Z2sxREJvX3NDanE3YlR2NS1aRTlwZjkxLWRiOWp6ZkNfMHd3cldkQVZhM01pV0lpX2tad3kxcHdueDBIMmtQWWlqZm8wY19HNm5UOCIsImlkIjoiZmNfMEF5amFzYklPYWFWZzhVUHlxWGdnUWNfMSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZGQlFlVU5mU1RoUGVHOHpORTlDVTJoelJrRmliRm8zV1dWR2VISmpWbTVmVUMxWU9HdDBlVGxEVGxadmMxSm9VbXhYV1ZwblZqTTRiVWhYUVdKb1dISkNibWx3YTBoSllVODFjV2xwVTNSMFZGQmZiRTV0V0VKb2R4SVhNRUY1YW1GellrbFBZV0ZXWnpoVlVIbHhXR2RuVVdNYUlrRkVjM0k1WmxKelEwaEpaRmxyV1ZZMmNWTlZUV1Z1Y1RoT1IweFVTbEpGTVdjIiwiZmN2IjoiMyIsImVpIjoiMEF5amFzYklPYWFWZzhVUHlxWGdnUWMiLCJxYyI6IkNoWmpZWEp5YjJ4c2RHOXVJR2hwWjJnZ2MyTm9iMjlzRUFCOUhOSk5QdyIsInF1ZXN0aW9uIjoiSG93IG1hbnkgc3R1ZGVudHMgZ28gdG8gQ2Fycm9sbHRvbiBIaWdoIFNjaG9vbCBpbiBHZW9yZ2lhPyIsImxrIjoiY3dYQlVRcUFRQWdGd0h2MDlhN1JjV1JiVkRBZnFCSGR2cG5qTkw2NEpUXzBQTmZPYVNneHhKSXFSZ3dUNW1yb1pXVEFFN3BaNnZJRCIsImJzIjoiYzRYUXNXb0NRUkNBWVd5M3NqeXVta0tTVHNOVm1wQmNrVUliSVdDUmVqalhteUYzTzdJN1JnSWlDRDZIei1QVDVCbHlSc1JyVnZ2Wjc5OFpzLS1ZdDRtc29VYjNBMEZSTFJTRTlaTEZCZUpsZ0xuWUFPX292VlNWaW9NSmx3U3pna1FxSVB5MmViSjd6UEwwbGU0aXhSV2hFeEt1aU5tWTU5WXZWblByTkVBcG9CSnJzNE94RlY4eTVzbGhtNzJrSTRvQWtXNERsR2ZBTE16Z2sxREJvX3NDanE3YlR2NS1aRTlwZjkxLWRiOWp6ZkNfMHd3cldkQVZhM01pV0lpX2tad3kxcHdueDBIMmtQWWlqZm8wY19HNm5UOCIsImlkIjoiZmNfMEF5amFzYklPYWFWZzhVUHlxWGdnUWNfMSJ9"
+  },
+  {
+   "question": "What rank is Carrollton High School in Georgia?",
+   "type": "featured_snippet",
+   "snippet": "Overview of Carrollton High School Carrollton High School is ranked 187th within Georgia.",
+   "title": "Carrollton High School - USNews.com",
+   "link": "https://www.usnews.com/education/best-high-schools/georgia/districts/carrollton-city/carrollton-high-school-5751#:~:text=Overview%20of%20Carrollton%20High%20School,is%20ranked%20187th%20within%20Georgia.",
+   "displayed_link": "https://www.usnews.com \u203a ... \u203a Carrollton City",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZGQlFlVU5mU1RoUGVHOHpORTlDVTJoelJrRmliRm8zV1dWR2VISmpWbTVmVUMxWU9HdDBlVGxEVGxadmMxSm9VbXhYV1ZwblZqTTRiVWhYUVdKb1dISkNibWx3YTBoSllVODFjV2xwVTNSMFZGQmZiRTV0V0VKb2R4SVhNRUY1YW1GellrbFBZV0ZXWnpoVlVIbHhXR2RuVVdNYUlrRkVjM0k1WmxKelEwaEpaRmxyV1ZZMmNWTlZUV1Z1Y1RoT1IweFVTbEpGTVdjIiwiZmN2IjoiMyIsImVpIjoiMEF5amFzYklPYWFWZzhVUHlxWGdnUWMiLCJxYyI6IkNoWmpZWEp5YjJ4c2RHOXVJR2hwWjJnZ2MyTm9iMjlzRUFCOUhOSk5QdyIsInF1ZXN0aW9uIjoiV2hhdCByYW5rIGlzIENhcnJvbGx0b24gSGlnaCBTY2hvb2wgaW4gR2VvcmdpYT8iLCJsayI6IkdpNTNhR0YwSUhKaGJtc2dhWE1nWTJGeWNtOXNiSFJ2YmlCb2FXZG9JSE5qYUc5dmJDQnBiaUJuWlc5eVoybGgiLCJicyI6ImM0WFFzV29DUVJDQVlXeTNzanl1bWtLU1RzTlZtcEJja1VJYklXQ1JlampYbXlGM083STdSZ0lpQ0Q2SHotUFQ1Qmx5UnNSclZ2dlo3OThacy0tWXQ0bXNvVWIzQTBGUkxSU0U5WkxGQmVKbGdMbllBT19vdlZTVmlvTUpsd1N6Z2tRcUlQeTJlYko3elBMMGxlNGl4UldoRXhLdWlObVk1OVl2Vm5Qck5FQXBvQkpyczRPeEZWOHk1c2xobTcya0k0b0FrVzREbEdmQUxNemdrMURCb19zQ2pxN2JUdjUtWkU5cGY5MS1kYjlqemZDXzB3d3JXZEFWYTNNaVdJaV9rWnd5MXB3bngwSDJrUFlpamZvMGNfRzZuVDgiLCJpZCI6ImZjXzBBeWphc2JJT2FhVmc4VVB5cVhnZ1FjXzEifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZGQlFlVU5mU1RoUGVHOHpORTlDVTJoelJrRmliRm8zV1dWR2VISmpWbTVmVUMxWU9HdDBlVGxEVGxadmMxSm9VbXhYV1ZwblZqTTRiVWhYUVdKb1dISkNibWx3YTBoSllVODFjV2xwVTNSMFZGQmZiRTV0V0VKb2R4SVhNRUY1YW1GellrbFBZV0ZXWnpoVlVIbHhXR2RuVVdNYUlrRkVjM0k1WmxKelEwaEpaRmxyV1ZZMmNWTlZUV1Z1Y1RoT1IweFVTbEpGTVdjIiwiZmN2IjoiMyIsImVpIjoiMEF5amFzYklPYWFWZzhVUHlxWGdnUWMiLCJxYyI6IkNoWmpZWEp5YjJ4c2RHOXVJR2hwWjJnZ2MyTm9iMjlzRUFCOUhOSk5QdyIsInF1ZXN0aW9uIjoiV2hhdCByYW5rIGlzIENhcnJvbGx0b24gSGlnaCBTY2hvb2wgaW4gR2VvcmdpYT8iLCJsayI6IkdpNTNhR0YwSUhKaGJtc2dhWE1nWTJGeWNtOXNiSFJ2YmlCb2FXZG9JSE5qYUc5dmJDQnBiaUJuWlc5eVoybGgiLCJicyI6ImM0WFFzV29DUVJDQVlXeTNzanl1bWtLU1RzTlZtcEJja1VJYklXQ1JlampYbXlGM083STdSZ0lpQ0Q2SHotUFQ1Qmx5UnNSclZ2dlo3OThacy0tWXQ0bXNvVWIzQTBGUkxSU0U5WkxGQmVKbGdMbllBT19vdlZTVmlvTUpsd1N6Z2tRcUlQeTJlYko3elBMMGxlNGl4UldoRXhLdWlObVk1OVl2Vm5Qck5FQXBvQkpyczRPeEZWOHk1c2xobTcya0k0b0FrVzREbEdmQUxNemdrMURCb19zQ2pxN2JUdjUtWkU5cGY5MS1kYjlqemZDXzB3d3JXZEFWYTNNaVdJaV9rWnd5MXB3bngwSDJrUFlpamZvMGNfRzZuVDgiLCJpZCI6ImZjXzBBeWphc2JJT2FhVmc4VVB5cVhnZ1FjXzEifQ%3D%3D"
+  },
+  {
+   "question": "What is the tuition for Carrollton High School in Miami?",
+   "type": "featured_snippet",
+   "snippet": "2026-2027 Tuition and Fees",
+   "table": [
+    [
+     "Grade",
+     "Annual Tuition"
+    ],
+    [
+     "Montessori",
+     "$36,790"
+    ],
+    [
+     "Grades 1-5",
+     "$41,080"
+    ],
+    [
+     "Grade 6",
+     "$47,350"
+    ],
+    [
+     "Grades 7-12",
+     "$51,840"
+    ]
+   ],
+   "formatted": [
+    {
+     "grade": "Montessori",
+     "annual_tuition": "$36,790"
+    },
+    {
+     "grade": "Grades 1-5",
+     "annual_tuition": "$41,080"
+    },
+    {
+     "grade": "Grade 6",
+     "annual_tuition": "$47,350"
+    },
+    {
+     "grade": "Grades 7-12",
+     "annual_tuition": "$51,840"
+    }
+   ],
+   "title": "Tuition and Fees - Carrollton School of the Sacred Heart",
+   "link": "https://www.carrollton.org/admissions/tuition-and-fees",
+   "displayed_link": "https://www.carrollton.org \u203a admissions \u203a tuition-and-fees",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACX0lEQVR4AX1Tw4IkQRDtD1kbbVetbVtlV61t27Zt27ZtX8a6v8nOMQ-ZYUe4orL5jdHs1KhoFr6IaKSyhNfCdFI9Q_jUAK-lMkVy-hI2MVn_7oqKRnYTcyQYzSl8cdUGqzuwlq7C7B270Gb4WLiHymCJjDyqk7CJyWaOK-GNGslmiReTDIQ4FeqCJbj88Amc5avQcCBXIKdOopKeVqGDgtd4EI_Ooyfg858_mLh-ExoRmqnIAaOYCHIKGg_k4R4kwD9MpvxGJDI3az6SMzLQdcxEqlPaATG24B0ioQtRWH34GBbt2Qdt4VJERR1BXkW9_kNw49kL7Lt4mZbCqKUcBEi0PpOn48f__9h0_DSMRcswbfM27D5_mTqt22cwlu49gEfv3sM9WCAO7OIObFrb9WfPsfvcRVTt3g8ekk29vkMwYvlq2EtXolbPgVi4ax_uvHxF-lLKASFo-u--_cCUDZupQl4TLUQEjZZXr_9QHLp6A9vOnEfDAcNKlsCqDmFyOHv3PracPIv6RLlwnORFRI3ir758w4Cps2m5xKZkCb6hEpT5i_H84ycEOIUIjcLJNCAR5-7YgxO379KJVLAHBu3DsZu3MGf7bjToN4wah3gNraxRuPniJTqMnEAnUuEihYiwuT4Clx49Rt_JM0gjRZrZhmMnMWrlGrofTGWbmLcLInqMn4L9V66irTMavSdNx6T1m-EmfNqXsg6MbDb_mNj85-dUdBk3CfPI2HpOnI6IZNKxFRwS1S04prhg_ogpThrxVvhispUW5KS0uGynNVOHp0UkrbicvoRNXDJ_5AIvFyn6B88aVgAAAABJRU5ErkJggg.png",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZGQlFlVU5mU1RoUGVHOHpORTlDVTJoelJrRmliRm8zV1dWR2VISmpWbTVmVUMxWU9HdDBlVGxEVGxadmMxSm9VbXhYV1ZwblZqTTRiVWhYUVdKb1dISkNibWx3YTBoSllVODFjV2xwVTNSMFZGQmZiRTV0V0VKb2R4SVhNRUY1YW1GellrbFBZV0ZXWnpoVlVIbHhXR2RuVVdNYUlrRkVjM0k1WmxKelEwaEpaRmxyV1ZZMmNWTlZUV1Z1Y1RoT1IweFVTbEpGTVdjIiwiZmN2IjoiMyIsImVpIjoiMEF5amFzYklPYWFWZzhVUHlxWGdnUWMiLCJxYyI6IkNoWmpZWEp5YjJ4c2RHOXVJR2hwWjJnZ2MyTm9iMjlzRUFCOUhOSk5QdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgdHVpdGlvbiBmb3IgQ2Fycm9sbHRvbiBIaWdoIFNjaG9vbCBpbiBNaWFtaT8iLCJsayI6IkdpUmpZWEp5YjJ4c2RHOXVJR2hwWjJnZ2MyTm9iMjlzSUcxcFlXMXBJSFIxYVhScGIyNCIsImJzIjoiYzRYUXNXb0NRUkNBWVd5M3NqeXVta0tTVHNOVm1wQmNrVUliSVdDUmVqalhteUYzTzdJN1JnSWlDRDZIei1QVDVCbHlSc1JyVnZ2Wjc5OFpzLS1ZdDRtc29VYjNBMEZSTFJTRTlaTEZCZUpsZ0xuWUFPX292VlNWaW9NSmx3U3pna1FxSVB5MmViSjd6UEwwbGU0aXhSV2hFeEt1aU5tWTU5WXZWblByTkVBcG9CSnJzNE94RlY4eTVzbGhtNzJrSTRvQWtXNERsR2ZBTE16Z2sxREJvX3NDanE3YlR2NS1aRTlwZjkxLWRiOWp6ZkNfMHd3cldkQVZhM01pV0lpX2tad3kxcHdueDBIMmtQWWlqZm8wY19HNm5UOCIsImlkIjoiZmNfMEF5amFzYklPYWFWZzhVUHlxWGdnUWNfMSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZGQlFlVU5mU1RoUGVHOHpORTlDVTJoelJrRmliRm8zV1dWR2VISmpWbTVmVUMxWU9HdDBlVGxEVGxadmMxSm9VbXhYV1ZwblZqTTRiVWhYUVdKb1dISkNibWx3YTBoSllVODFjV2xwVTNSMFZGQmZiRTV0V0VKb2R4SVhNRUY1YW1GellrbFBZV0ZXWnpoVlVIbHhXR2RuVVdNYUlrRkVjM0k1WmxKelEwaEpaRmxyV1ZZMmNWTlZUV1Z1Y1RoT1IweFVTbEpGTVdjIiwiZmN2IjoiMyIsImVpIjoiMEF5amFzYklPYWFWZzhVUHlxWGdnUWMiLCJxYyI6IkNoWmpZWEp5YjJ4c2RHOXVJR2hwWjJnZ2MyTm9iMjlzRUFCOUhOSk5QdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgdHVpdGlvbiBmb3IgQ2Fycm9sbHRvbiBIaWdoIFNjaG9vbCBpbiBNaWFtaT8iLCJsayI6IkdpUmpZWEp5YjJ4c2RHOXVJR2hwWjJnZ2MyTm9iMjlzSUcxcFlXMXBJSFIxYVhScGIyNCIsImJzIjoiYzRYUXNXb0NRUkNBWVd5M3NqeXVta0tTVHNOVm1wQmNrVUliSVdDUmVqalhteUYzTzdJN1JnSWlDRDZIei1QVDVCbHlSc1JyVnZ2Wjc5OFpzLS1ZdDRtc29VYjNBMEZSTFJTRTlaTEZCZUpsZ0xuWUFPX292VlNWaW9NSmx3U3pna1FxSVB5MmViSjd6UEwwbGU0aXhSV2hFeEt1aU5tWTU5WXZWblByTkVBcG9CSnJzNE94RlY4eTVzbGhtNzJrSTRvQWtXNERsR2ZBTE16Z2sxREJvX3NDanE3YlR2NS1aRTlwZjkxLWRiOWp6ZkNfMHd3cldkQVZhM01pV0lpX2tad3kxcHdueDBIMmtQWWlqZm8wY19HNm5UOCIsImlkIjoiZmNfMEF5amFzYklPYWFWZzhVUHlxWGdnUWNfMSJ9"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Carrollton High School: Home",
+   "link": "https://chs.carrolltoncityschools.net/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXgHrOzAVDLKJB1UFWtCqAl1SSQQMD8c4Wa5_ozBHexj6j6wD99t0T9tQjnfGr5vv11iN9bXsAn6nmkvWloeMQpnZkoRKaUzztlNPAhpISznQhPFjpOhCDBgw7W5WV2s&ved=2ahUKEwjG8LyS5-SWAxWmyqACHcoSOHAQFnoECD4QAQ&uoh=1",
+   "displayed_link": "https://chs.carrolltoncityschools.net",
+   "favicon": "https://serpapi.com/searches/6aa30cc60ccffb19df53c771/images/M-cYX2D-JlB1_txRGKPlWc6geU9m0_nFf9OiuhPnCyw.png",
+   "snippet": "Read More about CHS V Volleyball @ Hillgrove vs. Hillgrove/Walton. < >. Carrollton High School. 201 Trojan Drive, Carrollton GA 30117. Ph:770.834.7726. For ...",
+   "snippet_highlighted_words": [
+    "CHS",
+    "Carrollton High School"
+   ],
+   "sitelinks": {
+    "inline": [
+     {
+      "title": "CHS Calendar",
+      "link": "https://chs.carrolltoncityschools.net/calendar-clone"
+     },
+     {
+      "title": "Clubs/Activities",
+      "link": "https://chs.carrolltoncityschools.net/student-activities"
+     },
+     {
+      "title": "About Us",
+      "link": "https://chs.carrolltoncityschools.net/about-us"
+     },
+     {
+      "title": "Academics",
+      "link": "https://chs.carrolltoncityschools.net/academics"
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Read More about CHS V Volleyball @ Hillgrove vs. Hillgrove/Walton. < >. Carrollton High School. 201 Trojan Drive, Carrollton GA 30117. Ph:770.834.7726. For ...",
+     "source_info_link": "https://chs.carrolltoncityschools.net/",
+     "icon": "https://serpapi.com/searches/6aa30cc60ccffb19df53c771/images/M-cYX2D-JlB1_txRGKPlWUATC2np0_h8QL1Kc0OnWbGWtJ9osSteTbaYDjHd4p8M.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESXgHrOzAVDLKJB1UFWtCqAl1SSQQMD8c4Wa5_ozBHexj6j6wD99t0T9tQjnfGr5vv11iN9bXsAn6nmkvWloeMQpnZkoRKaUzztlNPAhpISznQhPFjpOhCDBgw7W5WV2s&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESXgHrOzAVDLKJB1UFWtCqAl1SSQQMD8c4Wa5_ozBHexj6j6wD99t0T9tQjnfGr5vv11iN9bXsAn6nmkvWloeMQpnZkoRKaUzztlNPAhpISznQhPFjpOhCDBgw7W5WV2s",
+   "source": "Carrollton High School",
+   "read_more_link": "https://chs.carrolltoncityschools.net/#:~:text=Carrollton%20High%20School,For%20website%20related%20inquiries%2C%20contact%3A"
+  },
+  {
+   "position": 2,
+   "title": "Carrollton High School (GA) Football",
+   "link": "https://www.maxpreps.com/ga/carrollton/carrollton-trojans/football/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESewHrOzAVk7gpP3zbSbnZaA3VXgcGya_iVTNIu8heN_lQqo1qWMLeWT-V9bG16aWgtlTNm3bLcMGp7SL16sH4ubuQBPu2RdNkjiP-wvv_9Z0As9giJ93APyNVmjxxyzvwvdz5osINDTl9xFaF6YyLQ0rgrcHlYtPqzWDkig&ved=2ahUKEwjG8LyS5-SWAxWmyqACHcoSOHAQFnoECD8QAQ&uoh=1",
+   "displayed_link": "https://www.maxpreps.com \u203a Football \u203a GA Football",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEzhBADhBADhBADhBQDhBQDhBADhBADhBADhBQDhBQDhBADhBADhBQDhBADhBQBqDGaWAAAAD3RSTlMANHaA7NyWEEjPqCVevglnZLSWAAAAqElEQVQokaWSSxaFIAxDU0pFBM3-d_vkM3pUJ3YAHEJvQwH4GlcIQQUoei_Sv2okD2C7p7ikhrHbzugilnuXMsa1aCZPkYO0pSSgjJWsxs3xW5iV3E6H2v1WsxpXr5OrIbpUQNhjd0XELvoajqadD-Jb5mtNHaLv1obo3rNwhtehRo32wM3ttduJfPled_G5nZr6XVduHt1pXTKXWoHd64PML5nmF_0YP5WLCXU498sLAAAAAElFTkSuQmCC.png",
+   "snippet": "On Friday, Aug 28, 2026, the Carrollton Varsity Boys Football team won their Carrollton High School ... Carrollton High School. 201 Trojan Dr. Carrollton, GA ...",
+   "snippet_highlighted_words": [
+    "Carrollton High School",
+    "Carrollton High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "On Friday, Aug 28, 2026, the Carrollton Varsity Boys Football team won their Carrollton High School ... Carrollton High School. 201 Trojan Dr. Carrollton, GA ...",
+     "source_info_link": "https://www.maxpreps.com/ga/carrollton/carrollton-trojans/football/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEzhBADhBADhBADhBQDhBQDhBADhBADhBADhBQDhBQDhBADhBADhBQDhBADhBQBqDGaWAAAAD3RSTlMANHaA7NyWEEjPqCVevglnZLSWAAAAqElEQVQokaWSSxaFIAxDU0pFBM3-d_vkM3pUJ3YAHEJvQwH4GlcIQQUoei_Sv2okD2C7p7ikhrHbzugilnuXMsa1aCZPkYO0pSSgjJWsxs3xW5iV3E6H2v1WsxpXr5OrIbpUQNhjd0XELvoajqadD-Jb5mtNHaLv1obo3rNwhtehRo32wM3ttduJfPled_G5nZr6XVduHt1pXTKXWoHd64PML5nmF_0YP5WLCXU498sLAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESewHrOzAVk7gpP3zbSbnZaA3VXgcGya_iVTNIu8heN_lQqo1qWMLeWT-V9bG16aWgtlTNm3bLcMGp7SL16sH4ubuQBPu2RdNkjiP-wvv_9Z0As9giJ93APyNVmjxxyzvwvdz5osINDTl9xFaF6YyLQ0rgrcHlYtPqzWDkig&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESewHrOzAVk7gpP3zbSbnZaA3VXgcGya_iVTNIu8heN_lQqo1qWMLeWT-V9bG16aWgtlTNm3bLcMGp7SL16sH4ubuQBPu2RdNkjiP-wvv_9Z0As9giJ93APyNVmjxxyzvwvdz5osINDTl9xFaF6YyLQ0rgrcHlYtPqzWDkig",
+   "source": "MaxPreps",
+   "read_more_link": "https://www.maxpreps.com/ga/carrollton/carrollton-trojans/football/#:~:text=On%20Friday%2C%20Aug%2028%2C%202026%2C,by%20a%20score%20of%2061%2D6.&text=Carrollton%20High%20School,Carrollton%2C%20GA%2030117%2D4395"
+  },
+  {
+   "position": 3,
+   "title": "Carrollton High School (Carrollton, Georgia)",
+   "link": "https://en.wikipedia.org/wiki/Carrollton_High_School_(Carrollton,_Georgia)",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESggEB6zswFTl8Fhbh4W-V5KoN5G6Cdm21h8S-vgbowJrYde99vTKtSaFl8BIKN7HcQWtiKdKolMpEwfsRxUXAiuyDpdZDmvsIE1sX6hBPcRkWR8UeZuiR1PYfpWc7auVRiDA2ZfdthnAqlSK3qtA6D29wVPxzTJAwRp9wVSKsCEbtCMBu&ved=2ahUKEwjG8LyS5-SWAxWmyqACHcoSOHAQFnoECEAQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Carrollton_High_Scho...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+   "snippet": "Carrollton High School is a public high school in Carrollton, Georgia, United States, part of the Carrollton City School System. The school's mascot is the ...",
+   "snippet_highlighted_words": [
+    "Carrollton High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Carrollton High School is a public high school in Carrollton, Georgia, United States, part of the Carrollton City School System. The school's mascot is the ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Carrollton_High_School_(Carrollton,_Georgia)",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESggEB6zswFTl8Fhbh4W-V5KoN5G6Cdm21h8S-vgbowJrYde99vTKtSaFl8BIKN7HcQWtiKdKolMpEwfsRxUXAiuyDpdZDmvsIE1sX6hBPcRkWR8UeZuiR1PYfpWc7auVRiDA2ZfdthnAqlSK3qtA6D29wVPxzTJAwRp9wVSKsCEbtCMBu&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESggEB6zswFTl8Fhbh4W-V5KoN5G6Cdm21h8S-vgbowJrYde99vTKtSaFl8BIKN7HcQWtiKdKolMpEwfsRxUXAiuyDpdZDmvsIE1sX6hBPcRkWR8UeZuiR1PYfpWc7auVRiDA2ZfdthnAqlSK3qtA6D29wVPxzTJAwRp9wVSKsCEbtCMBu",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Carrollton_High_School_(Carrollton,_Georgia)#:~:text=Carrollton%20High%20School%20is%20a,school's%20mascot%20is%20the%20Trojan."
+  },
+  {
+   "position": 4,
+   "title": "Home | Carrollton High School",
+   "link": "https://www.carrolltonschools.org/o/chs",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXwHrOzAVxiYQWThFlbhDxZvj7hAtTRJUE8bAcyWhdCOqmlPB52W63GjaIhSzH_C5RKprSgjD-21uLV6IY5Ya5Q1RqTg-y5emctXiB6HFm8SnwF4pleLMlgUwEBlGbiGS&ved=2ahUKEwjG8LyS5-SWAxWmyqACHcoSOHAQFnoECF8QAQ&uoh=1",
+   "displayed_link": "https://www.carrolltonschools.org \u203a chs",
+   "favicon": "https://serpapi.com/searches/6aa30cc60ccffb19df53c771/images/M-cYX2D-JlB1_txRGKPlWWsRB6gpZVGHvM-lmSxBzjE.png",
+   "snippet": "Carrollton High School \u00b7 2026-27 School Year \u00b7 Athletics \u00b7 Counseling & Career Center \u00b7 Clubs & Activities \u00b7 Staff Directory \u00b7 2026-27 School Year \u00b7 Athletics.",
+   "snippet_highlighted_words": [
+    "Carrollton High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Carrollton High School \u00b7 2026-27 School Year \u00b7 Athletics \u00b7 Counseling & Career Center \u00b7 Clubs & Activities \u00b7 Staff Directory \u00b7 2026-27 School Year \u00b7 Athletics.",
+     "source_info_link": "https://www.carrolltonschools.org/o/chs",
+     "icon": "https://serpapi.com/searches/6aa30cc60ccffb19df53c771/images/M-cYX2D-JlB1_txRGKPlWblze8dBVuk1POaiXXRu9ZVUF5mtAo0QrLVrYznlNkML.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESXwHrOzAVxiYQWThFlbhDxZvj7hAtTRJUE8bAcyWhdCOqmlPB52W63GjaIhSzH_C5RKprSgjD-21uLV6IY5Ya5Q1RqTg-y5emctXiB6HFm8SnwF4pleLMlgUwEBlGbiGS&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESXwHrOzAVxiYQWThFlbhDxZvj7hAtTRJUE8bAcyWhdCOqmlPB52W63GjaIhSzH_C5RKprSgjD-21uLV6IY5Ya5Q1RqTg-y5emctXiB6HFm8SnwF4pleLMlgUwEBlGbiGS",
+   "source": "Carrollton Exempted Village Schools",
+   "read_more_link": "https://www.carrolltonschools.org/o/chs#:~:text=Carrollton%20High%20School&text=Explore&text=Explore&text=Explore&text=Explore&text=Explore&text=Schools&text=Schools"
+  },
+  {
+   "position": 5,
+   "title": "Home | Carrollton High School",
+   "link": "https://www.carrolltonpublicschools.org/o/chs",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZQHrOzAVoHniNjp7n_NuR_1piiDPbhmaOMwr3EXNhg6yL7PETwxuEAP2y0KILO-K-wZjG-Jv24Wcd932XGdFDMYiC6QHYa2SMqSTL5BNVbAhl60wJFVV4RMjdWFqDw-Vn8yeF1EU&ved=2ahUKEwjG8LyS5-SWAxWmyqACHcoSOHAQFnoECGUQAQ&uoh=1",
+   "displayed_link": "https://www.carrolltonpublicschools.org \u203a chs",
+   "favicon": "https://serpapi.com/searches/6aa30cc60ccffb19df53c771/images/M-cYX2D-JlB1_txRGKPlWSokNfoyoDD38t2C0lDMdcs.png",
+   "date": "10 hours ago",
+   "snippet": "Welcome to Carrollton High School \u00b7 News \u00b7 Live Feed \u00b7 Events \u00b7 Find Us \u00b7 Schools \u00b7 Stay Connected.",
+   "snippet_highlighted_words": [
+    "Carrollton High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Welcome to Carrollton High School \u00b7 News \u00b7 Live Feed \u00b7 Events \u00b7 Find Us \u00b7 Schools \u00b7 Stay Connected.",
+     "source_info_link": "https://www.carrolltonpublicschools.org/o/chs",
+     "icon": "https://serpapi.com/searches/6aa30cc60ccffb19df53c771/images/M-cYX2D-JlB1_txRGKPlWeydcExsB6Qf1gXsf_oUGWwWIo0tGOYUTAGT4dfXleCW.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESZQHrOzAVoHniNjp7n_NuR_1piiDPbhmaOMwr3EXNhg6yL7PETwxuEAP2y0KILO-K-wZjG-Jv24Wcd932XGdFDMYiC6QHYa2SMqSTL5BNVbAhl60wJFVV4RMjdWFqDw-Vn8yeF1EU&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESZQHrOzAVoHniNjp7n_NuR_1piiDPbhmaOMwr3EXNhg6yL7PETwxuEAP2y0KILO-K-wZjG-Jv24Wcd932XGdFDMYiC6QHYa2SMqSTL5BNVbAhl60wJFVV4RMjdWFqDw-Vn8yeF1EU",
+   "source": "Carrollton Public Schools",
+   "read_more_link": "https://www.carrolltonpublicschools.org/o/chs#:~:text=Welcome%20to%20Carrollton%20High%20School&text=News&text=Live%20Feed&text=Events&text=Find%20Us&text=Schools&text=Stay%20Connected"
+  },
+  {
+   "position": 6,
+   "title": "Carrollton High School",
+   "link": "https://www.usnews.com/education/best-high-schools/georgia/districts/carrollton-city/carrollton-high-school-5751",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESqAEB6zswFSUUNTEk5KS5gYOjnjXsF2uSdYPKnU9lg_OnaJivBBxzFrXrj52bIt5Krx2P-x7eR6FpylAAXIaYu6rQVKHou_v_nJ3boueiMg868OY45Ydqv8QAFZM8C1X-r2x6_GGiCvovoQzchajdqCIb1AKpHKtrmx0HILm549QqyKyr-M23FizGoAMyYVvpEhUdy0Zx8524ZkbuynV-3-hZPI5CTECA_P8&ved=2ahUKEwjG8LyS5-SWAxWmyqACHcoSOHAQFnoECGIQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a ... \u203a Carrollton City",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png",
+   "snippet": "Carrollton High School is ranked #7,136 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+   "snippet_highlighted_words": [
+    "Carrollton High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Carrollton High School is ranked #7,136 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/georgia/districts/carrollton-city/carrollton-high-school-5751",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESqAEB6zswFSUUNTEk5KS5gYOjnjXsF2uSdYPKnU9lg_OnaJivBBxzFrXrj52bIt5Krx2P-x7eR6FpylAAXIaYu6rQVKHou_v_nJ3boueiMg868OY45Ydqv8QAFZM8C1X-r2x6_GGiCvovoQzchajdqCIb1AKpHKtrmx0HILm549QqyKyr-M23FizGoAMyYVvpEhUdy0Zx8524ZkbuynV-3-hZPI5CTECA_P8&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESqAEB6zswFSUUNTEk5KS5gYOjnjXsF2uSdYPKnU9lg_OnaJivBBxzFrXrj52bIt5Krx2P-x7eR6FpylAAXIaYu6rQVKHou_v_nJ3boueiMg868OY45Ydqv8QAFZM8C1X-r2x6_GGiCvovoQzchajdqCIb1AKpHKtrmx0HILm549QqyKyr-M23FizGoAMyYVvpEhUdy0Zx8524ZkbuynV-3-hZPI5CTECA_P8",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/georgia/districts/carrollton-city/carrollton-high-school-5751#:~:text=Carrollton%20High%20School%20is%20ranked,they%20prepare%20students%20for%20college."
+  },
+  {
+   "position": 7,
+   "title": "Carrollton High School",
+   "link": "https://www.nfhsnetwork.com/schools/carrollton-high-school-carrollton-ga",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgAEB6zswFRmOaajpybehgMYwQbOOiBLLq624_sYm44M4KCCRP1SuLsbmgvVz7jzbQBjHzIBMXIQybQeqZCM3Ekfat3Y1TPbAft0rVWZnfdEw-W7UNS5Pfqs4NAsb8dXMrMfxwKbSLceo34Xv5eLPuTVhvHlweSZcIJaXBoh8wNB-Eg&ved=2ahUKEwjG8LyS5-SWAxWmyqACHcoSOHAQFnoECF0QAQ&uoh=1",
+   "displayed_link": "https://www.nfhsnetwork.com \u203a Schools",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAARVBMVEVHcEwUFBQUFBQUFBQUFBQUFBQUFBQREREAAAAJCQn___-RkZGwsLBhYWEdHR3Z2dnLy8vDw8NAQEB6enrz8_Pk5OSjo6M76K9DAAAAB3RSTlMAT73z_8nI5vE1ZQAAAPRJREFUeAF9kwWCxCAQBGO7NM0QLPD_px5wkVMqghQuU2Ve1u0H6zJPndf2J6__XeVd29z-ZZ6W_-Uyrf_LddoGdKlU_9Wgvz1-SQVg06jUn8LJKUEaCCuW3B2lxT1OGcgYGWzajwxD647ojksWZu7MwSAfwTE65hL1JZti9k2KZ9TGkU-zsGQB9Nlsjv6W5AZDgW4Dyp8DyqdU0PjNNRUPMZJcMiUW60r0ydiCU9YhSkCGd6FkuORECHVKn7IIHLw5onhng9SWrj43KLWrTWlAI0Jhb2-T3fZF77FN1-BMDbdsuNnDYzI-YNN7cDSrHbjBdfgAvqIUspFQipUAAAAASUVORK5CYII.png",
+   "snippet": "Carrollton High School provides a nurturing and empowering environment for its students to thrive academically and athletically. With its robust athletics ...",
+   "snippet_highlighted_words": [
+    "Carrollton High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Carrollton High School provides a nurturing and empowering environment for its students to thrive academically and athletically. With its robust athletics ...",
+     "source_info_link": "https://www.nfhsnetwork.com/schools/carrollton-high-school-carrollton-ga",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAARVBMVEVHcEwUFBQUFBQUFBQUFBQUFBQUFBQREREAAAAJCQn___-RkZGwsLBhYWEdHR3Z2dnLy8vDw8NAQEB6enrz8_Pk5OSjo6M76K9DAAAAB3RSTlMAT73z_8nI5vE1ZQAAAPRJREFUeAF9kwWCxCAQBGO7NM0QLPD_px5wkVMqghQuU2Ve1u0H6zJPndf2J6__XeVd29z-ZZ6W_-Uyrf_LddoGdKlU_9Wgvz1-SQVg06jUn8LJKUEaCCuW3B2lxT1OGcgYGWzajwxD647ojksWZu7MwSAfwTE65hL1JZti9k2KZ9TGkU-zsGQB9Nlsjv6W5AZDgW4Dyp8DyqdU0PjNNRUPMZJcMiUW60r0ydiCU9YhSkCGd6FkuORECHVKn7IIHLw5onhng9SWrj43KLWrTWlAI0Jhb2-T3fZF77FN1-BMDbdsuNnDYzI-YNN7cDSrHbjBdfgAvqIUspFQipUAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESgAEB6zswFRmOaajpybehgMYwQbOOiBLLq624_sYm44M4KCCRP1SuLsbmgvVz7jzbQBjHzIBMXIQybQeqZCM3Ekfat3Y1TPbAft0rVWZnfdEw-W7UNS5Pfqs4NAsb8dXMrMfxwKbSLceo34Xv5eLPuTVhvHlweSZcIJaXBoh8wNB-Eg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESgAEB6zswFRmOaajpybehgMYwQbOOiBLLq624_sYm44M4KCCRP1SuLsbmgvVz7jzbQBjHzIBMXIQybQeqZCM3Ekfat3Y1TPbAft0rVWZnfdEw-W7UNS5Pfqs4NAsb8dXMrMfxwKbSLceo34Xv5eLPuTVhvHlweSZcIJaXBoh8wNB-Eg",
+   "source": "NFHS Network",
+   "read_more_link": "https://www.nfhsnetwork.com/schools/carrollton-high-school-carrollton-ga#:~:text=Carrollton%20High%20School%20provides%20a,athletically.%20With%20its%20robust%20athletics"
+  },
+  {
+   "position": 8,
+   "title": "Carrollton High School: Home",
+   "link": "https://chs.c-hawks.net/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUAHrOzAVJUiyR7kuPoKN9KYQLv_eaaYrj3X78gvSLBZf_PVwdBhgO_hSOqyF5FXYbYQuMxPUpM1i7ukvEPdoj5jukgwQ4taWGu95uwm4AoDB&ved=2ahUKEwjG8LyS5-SWAxWmyqACHcoSOHAQFnoECGAQAQ&uoh=1",
+   "displayed_link": "https://chs.c-hawks.net",
+   "favicon": "https://serpapi.com/searches/6aa30cc60ccffb19df53c771/images/M-cYX2D-JlB1_txRGKPlWQCAE5tVtRs0qUA8TslNMGk.png",
+   "snippet": "Find Us. Carrollton High School950 Third StCarrollton, IL 62016217.942.6913 ... Schools. Carrollton Community School District \u00b7 Carrollton Grade School ...",
+   "snippet_highlighted_words": [
+    "Carrollton High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Find Us. Carrollton High School950 Third StCarrollton, IL 62016217.942.6913 ... Schools. Carrollton Community School District \u00b7 Carrollton Grade School ...",
+     "source_info_link": "https://chs.c-hawks.net/",
+     "icon": "https://serpapi.com/searches/6aa30cc60ccffb19df53c771/images/M-cYX2D-JlB1_txRGKPlWXZaWzpvDQkJixEi5d-Q-8S_7z8JdCvb9jTTsKXWLlTO.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESUAHrOzAVJUiyR7kuPoKN9KYQLv_eaaYrj3X78gvSLBZf_PVwdBhgO_hSOqyF5FXYbYQuMxPUpM1i7ukvEPdoj5jukgwQ4taWGu95uwm4AoDB&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESUAHrOzAVJUiyR7kuPoKN9KYQLv_eaaYrj3X78gvSLBZf_PVwdBhgO_hSOqyF5FXYbYQuMxPUpM1i7ukvEPdoj5jukgwQ4taWGu95uwm4AoDB",
+   "source": "Carrollton Community School District",
+   "read_more_link": "https://chs.c-hawks.net/#:~:text=Find%20Us,School950%20Third%20StCarrollton%2C%20IL%2062016217.942.6913217.942.6835&text=Schools,Carrollton%20Grade%20School"
+  },
+  {
+   "position": 9,
+   "title": "Carrollton High School Reviews",
+   "link": "https://www.niche.com/k12/carrollton-high-school-carrollton-oh/reviews/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfwHrOzAV9t_pytYoev_iFbtNzBYYZUBDHyrf7d9z-Q-MNJ8U-gmzWHxp0iGo0zcC0GbCvuuJV1Jp-M8ViocQJKF7mfvsUUd4Bu3ATBN109SyUZ2w5WZlICEiQQhfocKFs5apvVSaLTDEADNHdiLUWcGnmm6_bWWSvJAGeUtRA-o&ved=2ahUKEwjG8LyS5-SWAxWmyqACHcoSOHAQFnoECGYQAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a Carrollton High School",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png",
+   "snippet": "Carrollton High School is a pretty average high school. However, the best thing about it is some of the their select sports and their college credit plus ...",
+   "snippet_highlighted_words": [
+    "Carrollton High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Carrollton High School is a pretty average high school. However, the best thing about it is some of the their select sports and their college credit plus ...",
+     "source_info_link": "https://www.niche.com/k12/carrollton-high-school-carrollton-oh/reviews/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESfwHrOzAV9t_pytYoev_iFbtNzBYYZUBDHyrf7d9z-Q-MNJ8U-gmzWHxp0iGo0zcC0GbCvuuJV1Jp-M8ViocQJKF7mfvsUUd4Bu3ATBN109SyUZ2w5WZlICEiQQhfocKFs5apvVSaLTDEADNHdiLUWcGnmm6_bWWSvJAGeUtRA-o&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESfwHrOzAV9t_pytYoev_iFbtNzBYYZUBDHyrf7d9z-Q-MNJ8U-gmzWHxp0iGo0zcC0GbCvuuJV1Jp-M8ViocQJKF7mfvsUUd4Bu3ATBN109SyUZ2w5WZlICEiQQhfocKFs5apvVSaLTDEADNHdiLUWcGnmm6_bWWSvJAGeUtRA-o",
+   "source": "Niche",
+   "read_more_link": "https://www.niche.com/k12/carrollton-high-school-carrollton-oh/reviews/#:~:text=Carrollton%20High%20School%20is%20a,their%20college%20credit%20plus%20program."
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Carrollton high school football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Carrollton+high+school+football&sa=X&ved=2ahUKEwjG8LyS5-SWAxWmyqACHcoSOHAQ1QJ6BAhnEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Carrollton+high+school+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Carrollton High School MaxPreps",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Carrollton+High+School+MaxPreps&sa=X&ved=2ahUKEwjG8LyS5-SWAxWmyqACHcoSOHAQ1QJ6BQiAARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Carrollton+High+School+MaxPreps"
+  },
+  {
+   "block_position": 1,
+   "query": "Carrollton high school basketball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Carrollton+high+school+basketball&sa=X&ved=2ahUKEwjG8LyS5-SWAxWmyqACHcoSOHAQ1QJ6BAh_EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Carrollton+high+school+basketball"
+  },
+  {
+   "block_position": 1,
+   "query": "Carrollton high School Miami",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Carrollton+high+School+Miami&sa=X&ved=2ahUKEwjG8LyS5-SWAxWmyqACHcoSOHAQ1QJ6BAh7EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Carrollton+high+School+Miami"
+  },
+  {
+   "block_position": 1,
+   "query": "Carrollton High School GA",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Carrollton+High+School+GA&sa=X&ved=2ahUKEwjG8LyS5-SWAxWmyqACHcoSOHAQ1QJ6BAh3EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Carrollton+High+School+GA"
+  },
+  {
+   "block_position": 1,
+   "query": "Carrollton high school tx",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Carrollton+high+school+tx&sa=X&ved=2ahUKEwjG8LyS5-SWAxWmyqACHcoSOHAQ1QJ6BAhwEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Carrollton+high+school+tx"
+  },
+  {
+   "block_position": 1,
+   "query": "Carrollton high school mascot",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Carrollton+high+school+mascot&sa=X&ved=2ahUKEwjG8LyS5-SWAxWmyqACHcoSOHAQ1QJ6BAhpEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Carrollton+high+school+mascot"
+  },
+  {
+   "block_position": 1,
+   "query": "Carrollton High School Soccer",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Carrollton+High+School+Soccer&sa=X&ved=2ahUKEwjG8LyS5-SWAxWmyqACHcoSOHAQ1QJ6BAhoEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Carrollton+High+School+Soccer"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Carrollton+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=0AyjasbIOaaVg8UPyqXggQc&start=10&sa=N&sstk=AS6-VmIjS5QWoz9qDgd57ZRNu_Pg_sFBmKUTanN9tXBOXeMe7VzS6NVgstpXra2XSW8BIdsww_OZeHC9EX2PQYrqlJ1mxs9FGoWTpQ&ved=2ahUKEwjG8LyS5-SWAxWmyqACHcoSOHAQ8NMDegQITxAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Carrollton+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=0AyjasbIOaaVg8UPyqXggQc&start=10&sa=N&sstk=AS6-VmIjS5QWoz9qDgd57ZRNu_Pg_sFBmKUTanN9tXBOXeMe7VzS6NVgstpXra2XSW8BIdsww_OZeHC9EX2PQYrqlJ1mxs9FGoWTpQ&ved=2ahUKEwjG8LyS5-SWAxWmyqACHcoSOHAQ8tMDegQITxAE",
+   "3": "https://www.google.com/search?q=%22Carrollton+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=0AyjasbIOaaVg8UPyqXggQc&start=20&sa=N&sstk=AS6-VmIjS5QWoz9qDgd57ZRNu_Pg_sFBmKUTanN9tXBOXeMe7VzS6NVgstpXra2XSW8BIdsww_OZeHC9EX2PQYrqlJ1mxs9FGoWTpQ&ved=2ahUKEwjG8LyS5-SWAxWmyqACHcoSOHAQ8tMDegQITxAG",
+   "4": "https://www.google.com/search?q=%22Carrollton+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=0AyjasbIOaaVg8UPyqXggQc&start=30&sa=N&sstk=AS6-VmIjS5QWoz9qDgd57ZRNu_Pg_sFBmKUTanN9tXBOXeMe7VzS6NVgstpXra2XSW8BIdsww_OZeHC9EX2PQYrqlJ1mxs9FGoWTpQ&ved=2ahUKEwjG8LyS5-SWAxWmyqACHcoSOHAQ8tMDegQITxAI",
+   "5": "https://www.google.com/search?q=%22Carrollton+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=0AyjasbIOaaVg8UPyqXggQc&start=40&sa=N&sstk=AS6-VmIjS5QWoz9qDgd57ZRNu_Pg_sFBmKUTanN9tXBOXeMe7VzS6NVgstpXra2XSW8BIdsww_OZeHC9EX2PQYrqlJ1mxs9FGoWTpQ&ved=2ahUKEwjG8LyS5-SWAxWmyqACHcoSOHAQ8tMDegQITxAK",
+   "6": "https://www.google.com/search?q=%22Carrollton+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=0AyjasbIOaaVg8UPyqXggQc&start=50&sa=N&sstk=AS6-VmIjS5QWoz9qDgd57ZRNu_Pg_sFBmKUTanN9tXBOXeMe7VzS6NVgstpXra2XSW8BIdsww_OZeHC9EX2PQYrqlJ1mxs9FGoWTpQ&ved=2ahUKEwjG8LyS5-SWAxWmyqACHcoSOHAQ8tMDegQITxAM",
+   "7": "https://www.google.com/search?q=%22Carrollton+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=0AyjasbIOaaVg8UPyqXggQc&start=60&sa=N&sstk=AS6-VmIjS5QWoz9qDgd57ZRNu_Pg_sFBmKUTanN9tXBOXeMe7VzS6NVgstpXra2XSW8BIdsww_OZeHC9EX2PQYrqlJ1mxs9FGoWTpQ&ved=2ahUKEwjG8LyS5-SWAxWmyqACHcoSOHAQ8tMDegQITxAO",
+   "8": "https://www.google.com/search?q=%22Carrollton+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=0AyjasbIOaaVg8UPyqXggQc&start=70&sa=N&sstk=AS6-VmIjS5QWoz9qDgd57ZRNu_Pg_sFBmKUTanN9tXBOXeMe7VzS6NVgstpXra2XSW8BIdsww_OZeHC9EX2PQYrqlJ1mxs9FGoWTpQ&ved=2ahUKEwjG8LyS5-SWAxWmyqACHcoSOHAQ8tMDegQITxAQ",
+   "9": "https://www.google.com/search?q=%22Carrollton+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=0AyjasbIOaaVg8UPyqXggQc&start=80&sa=N&sstk=AS6-VmIjS5QWoz9qDgd57ZRNu_Pg_sFBmKUTanN9tXBOXeMe7VzS6NVgstpXra2XSW8BIdsww_OZeHC9EX2PQYrqlJ1mxs9FGoWTpQ&ved=2ahUKEwjG8LyS5-SWAxWmyqACHcoSOHAQ8tMDegQITxAS",
+   "10": "https://www.google.com/search?q=%22Carrollton+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=0AyjasbIOaaVg8UPyqXggQc&start=90&sa=N&sstk=AS6-VmIjS5QWoz9qDgd57ZRNu_Pg_sFBmKUTanN9tXBOXeMe7VzS6NVgstpXra2XSW8BIdsww_OZeHC9EX2PQYrqlJ1mxs9FGoWTpQ&ved=2ahUKEwjG8LyS5-SWAxWmyqACHcoSOHAQ8tMDegQITxAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Carrollton+High+School%22&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Carrollton+High+School%22&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Carrollton+High+School%22&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Carrollton+High+School%22&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Carrollton+High+School%22&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Carrollton+High+School%22&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Carrollton+High+School%22&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Carrollton+High+School%22&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Carrollton+High+School%22&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Carrollton+High+School%22&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Carrollton+High+School%22&start=90"
+  }
+ }
+}

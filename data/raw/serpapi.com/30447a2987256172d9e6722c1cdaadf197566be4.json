@@ -1,0 +1,189 @@
+{
+ "news_results": [
+  {
+   "position": 1,
+   "title": "Marching to Orlando",
+   "source": {
+    "name": "Statesboro Herald",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.statesboroherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Al Hackle"
+    ]
+   },
+   "link": "https://www.statesboroherald.com/local/marching-to-orlando/",
+   "thumbnail": "https://statesboroherald.cdn-anvilcms.net/media/images/2018/05/23/images/W_122015_BULLOCH_BLUES_02.max-752x423.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtkRlp0YTFCa1kyVlhNMUJrVFJDbkF4aTBCQ2dLTWdZQlFKaW1vQWc",
+   "date": "12/19/2015, 08:00 AM, +0000 UTC",
+   "iso_date": "2015-12-19T08:00:00Z"
+  },
+  {
+   "position": 2,
+   "title": "Orlando Citrus Parade ending after 39 years: Fans hold it \u2018near and dear to our hearts\u2019",
+   "source": {
+    "name": "Orlando Sentinel",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.orlandosentinel.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Lisa Maria Garza"
+    ]
+   },
+   "link": "https://www.orlandosentinel.com/2019/10/02/orlando-citrus-parade-ending-after-39-years-fans-hold-it-near-and-dear-to-our-hearts/",
+   "thumbnail": "https://www.orlandosentinel.com/wp-content/uploads/migration/2019/10/02/VKIGH2B3JVBR7G7HVB7GRGGBUU.jpg?w=620",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURlWGRKUWxWTU4yUlBkekJRVFJEakF4anNCQ2dLTWdZRklZVG1tUVk",
+   "date": "10/02/2019, 07:00 AM, +0000 UTC",
+   "iso_date": "2019-10-02T07:00:00Z"
+  },
+  {
+   "position": 3,
+   "title": "Bulloch Blues to make holidays bright for Gatlinburg with performance in historic Christmas parade",
+   "source": {
+    "name": "Grice Connect",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.griceconnect.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.griceconnect.com/local-news/bulloch-blues-to-make-holidays-bright-for-gatlinburg-with-performance-in-historic-christmas-parade-9910493",
+   "thumbnail": "https://www.vmcdn.ca/f/files/griceconnect/images/articles/bullochblues-fantasyoflights.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVaakJXY1VsYU1GTnNkRVpsVFJERUF4aW1CU2dLTWdZQmtKRGp0Z1k",
+   "date": "12/05/2024, 08:00 AM, +0000 UTC",
+   "iso_date": "2024-12-05T08:00:00Z"
+  },
+  {
+   "position": 4,
+   "title": "Bulloch Blues marching to fund big trip",
+   "source": {
+    "name": "Statesboro Herald",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.statesboroherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Al Hackle"
+    ]
+   },
+   "link": "https://www.statesboroherald.com/local/bulloch-blues-marching-to-fund-big-trip/",
+   "thumbnail": "https://statesboroherald.cdn-anvilcms.net/media/images/2018/06/28/images/Bulloch_Blues_Orlando_A.max-752x423.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTJORmxKY1ZsT2IwRkpkekY1VFJDbkF4aTBCQ2dLTWdrQllKSldzR2pZYVFJ",
+   "date": "07/14/2017, 07:00 AM, +0000 UTC",
+   "iso_date": "2017-07-14T07:00:00Z"
+  },
+  {
+   "position": 5,
+   "title": "Goodbye to Orlando\u2019s Citrus Parade. After 39 years, should we save it? Replace it? Bring back the Kumquat Sashay? | Commentary",
+   "source": {
+    "name": "Orlando Sentinel",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.orlandosentinel.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Scott Maxwell"
+    ]
+   },
+   "link": "https://www.orlandosentinel.com/2019/10/04/goodbye-to-orlandos-citrus-parade-after-39-years-should-we-save-it-replace-it-bring-back-the-kumquat-sashay-commentary/",
+   "thumbnail": "https://www.orlandosentinel.com/wp-content/uploads/migration/2019/10/04/MOICR5F4VFHSPKG3R67G2YVROI.jpg?w=620",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBia1JvTkZoaVkwSTFRbm96VFJEMEFoanNCQ2dLTWdZQmM1Qkt1UVU",
+   "date": "10/04/2019, 07:00 AM, +0000 UTC",
+   "iso_date": "2019-10-04T07:00:00Z"
+  },
+  {
+   "position": 6,
+   "title": "Michigan and Michigan State both after Wolverine legacy, Saline quarterback CJ Carr",
+   "source": {
+    "name": "MLive.com",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Greg Wickliffe"
+    ]
+   },
+   "link": "https://www.mlive.com/highschoolsports/2021/02/michigan-and-michigan-state-both-after-wolverine-legacy-saline-quarterback-cj-carr.html",
+   "thumbnail": "https://www.mlive.com/resizer/v2/AWNWKHRCQNFDHMFVTK477HF3IA.JPG?auth=ead1668a28034851bfa9b6a93699c79573ec01cc64ab99803fd8db2de80e4995&width=800&smart=true&quality=90",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBUVUl5Tm1sRmFFTldZVjlZVFJERUF4aW5CU2dLTWdZTkNaS21qZ28",
+   "date": "02/25/2021, 08:00 AM, +0000 UTC",
+   "iso_date": "2021-02-25T08:00:00Z"
+  },
+  {
+   "position": 7,
+   "title": "Bulloch Blues lands spot in national parade",
+   "source": {
+    "name": "Statesboro Herald",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.statesboroherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Al Hackle"
+    ]
+   },
+   "link": "https://www.statesboroherald.com/local/bulloch-blues-lands-spot-in-national-parade/",
+   "thumbnail": "https://statesboroherald.cdn-anvilcms.net/media/images/2018/06/24/images/W_011617_BULLOCH_BLUES_file_1.max-752x423.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpSa1ZMYlhGalJVTXhkRGRzVFJDbkF4aTBCQ2dLTWdZQlFJYWd1d00",
+   "date": "07/28/2017, 07:00 AM, +0000 UTC",
+   "iso_date": "2017-07-28T07:00:00Z"
+  },
+  {
+   "position": 8,
+   "title": "Ten marching bands ready for a Blast",
+   "source": {
+    "name": "Statesboro Herald",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.statesboroherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Al Hackle"
+    ]
+   },
+   "link": "https://www.statesboroherald.com/local/ten-marching-bands-ready-for-a-blast/",
+   "thumbnail": "https://statesboroherald.cdn-anvilcms.net/media/images/2018/09/09/images/W_SEB_Band_File_photo.max-752x423.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW1RME5CZEdsTWRFaG1SRU5wVFJDbkF4aTBCQ2dLTWdrQkVKU2htT2h5N3dF",
+   "date": "09/24/2015, 07:00 AM, +0000 UTC",
+   "iso_date": "2015-09-24T07:00:00Z"
+  },
+  {
+   "position": 9,
+   "title": "All-State three years in a row",
+   "source": {
+    "name": "Statesboro Herald",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.statesboroherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.statesboroherald.com/local/all-state-three-years-in-a-row/",
+   "thumbnail": "https://statesboroherald.cdn-anvilcms.net/media/images/2018/07/09/images/W_Robert_Lloyd.max-752x423.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFjbGxGT0daNVVuRkVSVE0xVFJDbkF4aTNCQ2dLTWdhNUU0aFJrUW8",
+   "date": "07/09/2018, 12:22 AM, +0000 UTC",
+   "iso_date": "2018-07-09T00:22:07Z"
+  }
+ ],
+ "menu_links": [
+  {
+   "title": "U.S.",
+   "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+  },
+  {
+   "title": "World",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Your local news",
+   "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+  },
+  {
+   "title": "Business",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Technology",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Entertainment",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Sports",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Science",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Health",
+   "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+  }
+ ]
+}

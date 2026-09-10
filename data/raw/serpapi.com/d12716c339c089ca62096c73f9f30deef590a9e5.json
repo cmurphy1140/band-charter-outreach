@@ -1,0 +1,523 @@
+{
+ "search_information": {
+  "query_displayed": "\"Sonata Music School\"",
+  "total_results": 26600,
+  "time_taken_displayed": 0.43,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Sonata Music School",
+  "type": "Music school in Glendale, California",
+  "entity_type": "local_nav",
+  "kgmid": "/g/11c1nscrrv",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/g/11c1nscrrv&hl=en-US&q=Sonata+Music+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fg%2F11c1nscrrv&q=Sonata+Music+School",
+  "place_id": "ChIJZ28cK1nAwoAR5hcmeL7Feuc",
+  "website": "http://www.sonatamusicschool.com/",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa3121616a5a8566f67fe84/images/zGQdT1cZrQWbotT0qFPAft-u43osQsGXFgTw0-d-Ens.webp",
+   "link": "https://www.google.com/maps/place/Sonata+Music+School/data=!4m2!3m1!1s0x0:0xe77ac5be782617e6?sa=X&ved=2ahUKEwjHspae7OSWAxWKKlkFHS_BDrQQ_BJ6BAgREAA&hl=en&gl=us"
+  },
+  "rating": 4.9,
+  "review_count": 25,
+  "address": "705 Ivy St, Glendale, CA 91204",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=sonata+music+school+address&ludocid=16679861591770273766&sa=X&ved=2ahUKEwjHspae7OSWAxWKKlkFHS_BDrQQ6BN6BAgmEAI"
+   }
+  ],
+  "phone": "(818) 636-4533",
+  "raw_hours": "Closed \u00b7 Opens 2 PM",
+  "hours": {
+   "thursday": {
+    "opens": "2",
+    "closes": "8\u202fPM"
+   },
+   "friday": {
+    "opens": "2",
+    "closes": "8\u202fPM"
+   },
+   "saturday": {
+    "opens": "8\u202fAM",
+    "closes": "5\u202fPM"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "2",
+    "closes": "8\u202fPM"
+   },
+   "tuesday": {
+    "opens": "2",
+    "closes": "8\u202fPM"
+   },
+   "wednesday": {
+    "opens": "2",
+    "closes": "8\u202fPM"
+   }
+  },
+  "people_also_search_for": [
+   {
+    "name": "Grayson's Tune Town",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkgGCMqyjadFQ8O8s4B3f4v6CmAsmteS6d8SGXO8kYtD2bcee5Prbw_lwqzA7HeDajlzNz-kSlZTsVb9Whhf78FxoYEyAAJZ-rmHoROmzhkhj7YOGC-ebOV_niAT3regPvcSPKOg5OG97s=w153-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKllX05q7xl66dAosm6nb1iuMgV7Bv8meTZS-zIzIS3OM048KwCDhuIrOn-bXZE2sUpOO1Qq14-uyErxV1wsiY1IgQuSNrbpNnlmWJTgaB4lcla25YACR_ZmPEvI-4ZtJFIsru13aASKBCyIZfs8rwVeQO_rICnMsu1xq4HczEyS-lMFr6lN29mMO_J5MRC7dOyrbqi5apNwNfOxGtL_CvUgM6tnyaSw4ZbnT5QPmww3rE41ylsfVOd8fWAwPZKdSq6qdSy0s5WpJECkISqUm_3pJoBSBjoM-EFN_E1XN6u0SVNM2kgL6IYAjr5PxR2pQDzroGKk&q=Grayson%27s+Tune+Town&sa=X&ved=2ahUKEwjHspae7OSWAxWKKlkFHS_BDrQQs9oBKAB6BAgdEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Grayson%27s+Tune+Town&si=APenkKllX05q7xl66dAosm6nb1iuMgV7Bv8meTZS-zIzIS3OM048KwCDhuIrOn-bXZE2sUpOO1Qq14-uyErxV1wsiY1IgQuSNrbpNnlmWJTgaB4lcla25YACR_ZmPEvI-4ZtJFIsru13aASKBCyIZfs8rwVeQO_rICnMsu1xq4HczEyS-lMFr6lN29mMO_J5MRC7dOyrbqi5apNwNfOxGtL_CvUgM6tnyaSw4ZbnT5QPmww3rE41ylsfVOd8fWAwPZKdSq6qdSy0s5WpJECkISqUm_3pJoBSBjoM-EFN_E1XN6u0SVNM2kgL6IYAjr5PxR2pQDzroGKk"
+   },
+   {
+    "name": "Zargarian Music Center",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmUWaFl3dR4YPP9RqZ7vj__s2tKJnFSrMZUxC7Sk1uvQp3t_-GGboYFvcBjbcRArDatYa4GyEAEDdxZeCRE7WWjdk1rp3yI1L3Mpf3wOI-f2FSO5z8hx2XAb5NTQrYdFGM3RaAcBg=w153-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKllX05q7xl66dAosm6nb1iuMgV7Bv8meTZS-zIzIS3OM8_XICcsuVoKyl9snnCypH4UNB9f-9usAaXBeXFpehiNQuGEGSoEOWziCD9am5bCI7qrYdpTNMnNjlUEvmTQxuPPa05fuh4iXLT3eTLeOCAbGtTPVIuflwaqy5OxWBGpuo0ciWHZhHkeqGw8VWICJaNR-z2MMa5rZCN7n7BotVj1RB5TzjFBv112khndNMsJzYvdKxUuHlNKF_8QFxJv1D7FZwgJfvHl37q20xw7p4tLkitpoTa3jgTkYJybi_k03vQNif-AkGg9iMqjQIwqPJQBpwUW&q=Zargarian+Music+Center&sa=X&ved=2ahUKEwjHspae7OSWAxWKKlkFHS_BDrQQs9oBKAB6BAgdEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Zargarian+Music+Center&si=APenkKllX05q7xl66dAosm6nb1iuMgV7Bv8meTZS-zIzIS3OM8_XICcsuVoKyl9snnCypH4UNB9f-9usAaXBeXFpehiNQuGEGSoEOWziCD9am5bCI7qrYdpTNMnNjlUEvmTQxuPPa05fuh4iXLT3eTLeOCAbGtTPVIuflwaqy5OxWBGpuo0ciWHZhHkeqGw8VWICJaNR-z2MMa5rZCN7n7BotVj1RB5TzjFBv112khndNMsJzYvdKxUuHlNKF_8QFxJv1D7FZwgJfvHl37q20xw7p4tLkitpoTa3jgTkYJybi_k03vQNif-AkGg9iMqjQIwqPJQBpwUW"
+   },
+   {
+    "name": "The Bravo Piano Academy",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnFPMISOg74aLz2eF8l_IP5fkULXs__UYOgQABqNIuYw4miVMzFWEFvV-6XKefieqU0H5X8_X4hmLU5qO9-MHTlfrwU4w7-zkijLrCNkS9JWtYfgDkQDK7xuEz1Xawzkb3SlQZWEA=w115-h153-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0RN6QMJ8PKEeYIfR5XSV1w3TKMJfkbhrvYT__bQHsMjxkYfaMgr1CdvL_XvadXMVAo-sitHJay-F3AzIpbUe9MiC_RcNjrMktKokDvPsa4vpurUsYXbLlqKPNlAfV3i4y3h2I0pt1paxODLDi7Ubku1DfPvRv9Is2fUq78V9p8Ow477xbSbvxTPmCLtU3glCXYoN9i685LiyeAzMNFO-L30vrh_fS4AyzH3cItcLDiflTxlEvvvOggD-rNQnISryTByKvVGIXp3vvcp4SAiDrNYFzAOaAT3NcK5z3FSGxl5fXXokOZ0gIt3qYJ0JzfGJQNXITJo%3D&q=The+Bravo+Piano+Academy+La+Ca%C3%B1ada+Flintridge&sa=X&ved=2ahUKEwjHspae7OSWAxWKKlkFHS_BDrQQs9oBKAB6BAgdEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=The+Bravo+Piano+Academy+La+Ca%C3%B1ada+Flintridge&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0RN6QMJ8PKEeYIfR5XSV1w3TKMJfkbhrvYT__bQHsMjxkYfaMgr1CdvL_XvadXMVAo-sitHJay-F3AzIpbUe9MiC_RcNjrMktKokDvPsa4vpurUsYXbLlqKPNlAfV3i4y3h2I0pt1paxODLDi7Ubku1DfPvRv9Is2fUq78V9p8Ow477xbSbvxTPmCLtU3glCXYoN9i685LiyeAzMNFO-L30vrh_fS4AyzH3cItcLDiflTxlEvvvOggD-rNQnISryTByKvVGIXp3vvcp4SAiDrNYFzAOaAT3NcK5z3FSGxl5fXXokOZ0gIt3qYJ0JzfGJQNXITJo%3D"
+   },
+   {
+    "name": "Encore Music South Pasadena",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWka-tScuV8wnt5SK_4iQ6ffW4YwURsWJ8nvbazu-8r_NNcwIPoaAXCNmWawC6lm8zlGFPaTWo9IrPkqWdZRPNzjP622pL8Uz5tQzxWgCJCYFZgVT_cojZXKwf7MqTlniisnx-53MBY6es2Z=w219-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0QUi0zpCCGdr5qJXGwAse5KlDcx6FvOW9vWp8AeAntXeADiNH3nkbdq77qMCrHtCVqELEal5F_X3OjzMh7uy_zqcsxG2j_pWv80v0R3CuI4Dz_085G5RvBRfHaP9HEMGHfOgFwGRk6MktPUeBnhPPO45nlqnt0gjYeHSACfxmOkmbVOTXnhCIn1ZNjOpq2edxAkD1Bi5EV_yyrS2d1bmcCgLGcc0MeTG6idF3fK9cGclK6TDN_QPsbWaEnuGoUBQ2WyNMnnwxNrelMU3i0r9Hk1GQShRlrxCTSSTNLJjM1T4ZnzYRA%3D%3D&q=Encore+Music+South+Pasadena&sa=X&ved=2ahUKEwjHspae7OSWAxWKKlkFHS_BDrQQs9oBKAB6BAgdEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Encore+Music+South+Pasadena&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0QUi0zpCCGdr5qJXGwAse5KlDcx6FvOW9vWp8AeAntXeADiNH3nkbdq77qMCrHtCVqELEal5F_X3OjzMh7uy_zqcsxG2j_pWv80v0R3CuI4Dz_085G5RvBRfHaP9HEMGHfOgFwGRk6MktPUeBnhPPO45nlqnt0gjYeHSACfxmOkmbVOTXnhCIn1ZNjOpq2edxAkD1Bi5EV_yyrS2d1bmcCgLGcc0MeTG6idF3fK9cGclK6TDN_QPsbWaEnuGoUBQ2WyNMnnwxNrelMU3i0r9Hk1GQShRlrxCTSSTNLJjM1T4ZnzYRA%3D%3D"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Sonata+Music+School&stick=H4sIAAAAAAAAAONgFuLVT9c3NEw2zCtOLioqU0LlagkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axCocnJ-XWJKo4FtanJmsEJyckZ-fs4OV8RabJMMbh4rAXL6mziXhhodYtRdtjkgKtkkP-34cACqVK0uBAAAA&sa=X&ved=2ahUKEwjHspae7OSWAxWKKlkFHS_BDrQQzO0BKAR6BAgdEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLVT9c3NEw2zCtOLioqU0LlagkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axCocnJ-XWJKo4FtanJmsEJyckZ-fs4OV8RabJMMbh4rAXL6mziXhhodYtRdtjkgKtkkP-34cACqVK0uBAAAA",
+  "profiles": [
+   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/sonata_music_school/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Sonata+Music+School%22",
+    "image": "https://ssl.gstatic.com/kpui/social/instagram_32x32.png"
+   },
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/SonaVard",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Sonata+Music+School%22",
+    "image": "https://ssl.gstatic.com/kpui/social/fb_32x32.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "What is a sonata in music?",
+   "type": "ai_overview",
+   "page_token": "_1PPdnicHdBdboIwAADg7DI-avnRTROzhElRFuvoH8jLUoqCUKARZ4W33WWn2mmW7DvC9_2jLm39-5SUt5vuV7OZMWZadF2hTlPZNTPRD62cSaFUJmS9WjwvrNezXPu98d4640VMa77BgLT668BKg9mjFMAYkuQtgQwIP2-wpeeCoyBTyhUAfeB43lGl-wymEG0wEvbLjVG8SYPa7MeyEs2yIQOYk2BZJqCwcZVW-zbc7Tl7CJa_J7YE0RgKwnRFbWZi9tiftnrMYXjlDhZRlbtRqy0aQ0xAeidtiCjDLlV8IYHe5YG0pQ8IBNolti4zm_sEqIFX_JBZ3oD83skAHINL6OEtGg5xSmRwHCMn7BlULK2Rhyu-SylElB6dHBSPWJXt5Czva2fyP7b-PDe3lb52xR8ZvXke",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=_1PPdnicHdBdboIwAADg7DI-avnRTROzhElRFuvoH8jLUoqCUKARZ4W33WWn2mmW7DvC9_2jLm39-5SUt5vuV7OZMWZadF2hTlPZNTPRD62cSaFUJmS9WjwvrNezXPu98d4640VMa77BgLT668BKg9mjFMAYkuQtgQwIP2-wpeeCoyBTyhUAfeB43lGl-wymEG0wEvbLjVG8SYPa7MeyEs2yIQOYk2BZJqCwcZVW-zbc7Tl7CJa_J7YE0RgKwnRFbWZi9tiftnrMYXjlDhZRlbtRqy0aQ0xAeidtiCjDLlV8IYHe5YG0pQ8IBNolti4zm_sEqIFX_JBZ3oD83skAHINL6OEtGg5xSmRwHCMn7BlULK2Rhyu-SylElB6dHBSPWJXt5Czva2fyP7b-PDe3lb52xR8ZvXke",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlp6ZEhhR1ZYYWxKNWVXWldhR0ZhY0dKUGVXNUxNbkJJVUZwU05qSldlVlJrWjNwSFMwRlBTMjlvYkhwUVdXUlVXSHBSTTFBNVFUWXlZa1EwV0cxRmEzZGlVV3BTWlhaTllWSnZWamx5VlVkVVlYbGpTa3RsTTBnd1FSSVhTbmhMYW1GdlpVUkxTWEpXTlU1dlVISTBTemR2UVhNYUlrRkVjM0k1WmxJNFduSTVWV1l0U0VseFpFUkRSMWRJTm5oVVJtVnRkMkpEWkdjIiwiZmN2IjoiMyIsImVpIjoiSnhLamFvZURLSXJWNU5vUHI0SzdvQXMiLCJxYyI6IkNoTnpiMjVoZEdFZ2JYVnphV01nYzJOb2IyOXNFQUI5cjM0TFB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIGEgc29uYXRhIGluIG11c2ljPyIsImxrIjoiR2c5emIyNWhkR0VnYVc0Z2JYVnphV00iLCJicyI6ImM0MlBNUXZDUUF4R2NjMmlyamNGVkpBcUNCMWN1N280T3ppbFpfUU9iU04zcWFYX1hsdnBZRUYweVJEZS01SVBObUFPamhSOVJNSW9KU21oTDdHb29yZFpPalhqd1E2T3NPb0ZkWXc1UjhWb25jZ05WZkFpN1R4TDZCUFdKcW5feHVFRTI1M1VXRkRaWU1NVUlwNkVJM3BGcFN1M2JNNVdDbjc5Mmdtb1ROWnh5TkxFTE4ybi1SV0dQY3k3SzVWMTc5NzM0Qi1rUE14Y21Kbjd6VTFHVHciLCJpZCI6ImZjX0p4S2phb2VES0lyVjVOb1ByNEs3b0FzXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlp6ZEhhR1ZYYWxKNWVXWldhR0ZhY0dKUGVXNUxNbkJJVUZwU05qSldlVlJrWjNwSFMwRlBTMjlvYkhwUVdXUlVXSHBSTTFBNVFUWXlZa1EwV0cxRmEzZGlVV3BTWlhaTllWSnZWamx5VlVkVVlYbGpTa3RsTTBnd1FSSVhTbmhMYW1GdlpVUkxTWEpXTlU1dlVISTBTemR2UVhNYUlrRkVjM0k1WmxJNFduSTVWV1l0U0VseFpFUkRSMWRJTm5oVVJtVnRkMkpEWkdjIiwiZmN2IjoiMyIsImVpIjoiSnhLamFvZURLSXJWNU5vUHI0SzdvQXMiLCJxYyI6IkNoTnpiMjVoZEdFZ2JYVnphV01nYzJOb2IyOXNFQUI5cjM0TFB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIGEgc29uYXRhIGluIG11c2ljPyIsImxrIjoiR2c5emIyNWhkR0VnYVc0Z2JYVnphV00iLCJicyI6ImM0MlBNUXZDUUF4R2NjMmlyamNGVkpBcUNCMWN1N280T3ppbFpfUU9iU04zcWFYX1hsdnBZRUYweVJEZS01SVBObUFPamhSOVJNSW9KU21oTDdHb29yZFpPalhqd1E2T3NPb0ZkWXc1UjhWb25jZ05WZkFpN1R4TDZCUFdKcW5feHVFRTI1M1VXRkRaWU1NVUlwNkVJM3BGcFN1M2JNNVdDbjc5Mmdtb1ROWnh5TkxFTE4ybi1SV0dQY3k3SzVWMTc5NzM0Qi1rUE14Y21Kbjd6VTFHVHciLCJpZCI6ImZjX0p4S2phb2VES0lyVjVOb1ByNEs3b0FzXzUifQ%3D%3D"
+  },
+  {
+   "question": "What is the best school to go to for music?",
+   "type": "ai_overview",
+   "page_token": "KZsSJXicHdBLcoIwGADg6WVcKtFiizNOZ9Dgo5JOQvLz2HQwoFECQcUH7HqXnqqnaacX-Bbf17c-VMXP0001TX2ZDAb3-72_N2av87405SC9tJUcyFTrbSqLyfhljN52coqvK3d2WrlU1DXMmRVw3IKVnAXPOBUoST2vzAXTyRForvWNRsoPPLfdQpLmnhlS7t3Bqp9ZSXA2ihGZIetj7o55ASbplOHLtRVgu9pW6ixCxf2oPuUAXczJZRvaUVrpB6vg6i8atIkUzhagsqEd83BdEOxQtqRDQM4yLZnNRf2AAkpu2cGfu8yqzM8XDeYRaD9AB6qdIjjqqzygUBaoSThhWGXvOW5Ocehohpu11DHipUPlkW3I0HHlwxyoYJ086lKMSBcWRAggLUTJhxSvFtGmBa5QgJQhc0YE7e3kbTrq_X9OP3dlM6nPZv8Llg-D2Q",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=KZsSJXicHdBLcoIwGADg6WVcKtFiizNOZ9Dgo5JOQvLz2HQwoFECQcUH7HqXnqqnaacX-Bbf17c-VMXP0001TX2ZDAb3-72_N2av87405SC9tJUcyFTrbSqLyfhljN52coqvK3d2WrlU1DXMmRVw3IKVnAXPOBUoST2vzAXTyRForvWNRsoPPLfdQpLmnhlS7t3Bqp9ZSXA2ihGZIetj7o55ASbplOHLtRVgu9pW6ixCxf2oPuUAXczJZRvaUVrpB6vg6i8atIkUzhagsqEd83BdEOxQtqRDQM4yLZnNRf2AAkpu2cGfu8yqzM8XDeYRaD9AB6qdIjjqqzygUBaoSThhWGXvOW5Ocehohpu11DHipUPlkW3I0HHlwxyoYJ086lKMSBcWRAggLUTJhxSvFtGmBa5QgJQhc0YE7e3kbTrq_X9OP3dlM6nPZv8Llg-D2Q",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlp6ZEhhR1ZYYWxKNWVXWldhR0ZhY0dKUGVXNUxNbkJJVUZwU05qSldlVlJrWjNwSFMwRlBTMjlvYkhwUVdXUlVXSHBSTTFBNVFUWXlZa1EwV0cxRmEzZGlVV3BTWlhaTllWSnZWamx5VlVkVVlYbGpTa3RsTTBnd1FSSVhTbmhMYW1GdlpVUkxTWEpXTlU1dlVISTBTemR2UVhNYUlrRkVjM0k1WmxJNFduSTVWV1l0U0VseFpFUkRSMWRJTm5oVVJtVnRkMkpEWkdjIiwiZmN2IjoiMyIsImVpIjoiSnhLamFvZURLSXJWNU5vUHI0SzdvQXMiLCJxYyI6IkNoTnpiMjVoZEdFZ2JYVnphV01nYzJOb2IyOXNFQUI5cjM0TFB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBiZXN0IHNjaG9vbCB0byBnbyB0byBmb3IgbXVzaWM/IiwibGsiOiJjNVBTS3M5SUxGSElMRllveVVoVlNFb3RMbEVvVHM3SXo4OVJLTWxYU004SGtXbjVSUXE1cGNXWnlRQSIsImJzIjoiYzQyUE1RdkNRQXhHY2MyaXJqY0ZWSkFxQ0IxY3U3bzRPemlsWl9RT2JTTjNxYVhfWGx2cFlFRjB5UkRlLTVJUE5tQU9qaFI5Uk1Jb0pTbWhMN0dvb3JkWk9qWGp3UTZPc09vRmRZdzVSOFZvbmNnTlZmQWk3VHhMNkJQV0pxbl94dUVFMjUzVVdGRFpZTU1VSXA2RUkzcEZwU3UzYk01V0NuNzkyZ21vVE5aeHlOTEVMTjJuLVJXR1BjeTdLNVYxNzk3MzRCLWtQTXhjbUpuN3pVMUdUdyIsImlkIjoiZmNfSnhLamFvZURLSXJWNU5vUHI0SzdvQXNfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlp6ZEhhR1ZYYWxKNWVXWldhR0ZhY0dKUGVXNUxNbkJJVUZwU05qSldlVlJrWjNwSFMwRlBTMjlvYkhwUVdXUlVXSHBSTTFBNVFUWXlZa1EwV0cxRmEzZGlVV3BTWlhaTllWSnZWamx5VlVkVVlYbGpTa3RsTTBnd1FSSVhTbmhMYW1GdlpVUkxTWEpXTlU1dlVISTBTemR2UVhNYUlrRkVjM0k1WmxJNFduSTVWV1l0U0VseFpFUkRSMWRJTm5oVVJtVnRkMkpEWkdjIiwiZmN2IjoiMyIsImVpIjoiSnhLamFvZURLSXJWNU5vUHI0SzdvQXMiLCJxYyI6IkNoTnpiMjVoZEdFZ2JYVnphV01nYzJOb2IyOXNFQUI5cjM0TFB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBiZXN0IHNjaG9vbCB0byBnbyB0byBmb3IgbXVzaWM%2FIiwibGsiOiJjNVBTS3M5SUxGSElMRllveVVoVlNFb3RMbEVvVHM3SXo4OVJLTWxYU004SGtXbjVSUXE1cGNXWnlRQSIsImJzIjoiYzQyUE1RdkNRQXhHY2MyaXJqY0ZWSkFxQ0IxY3U3bzRPemlsWl9RT2JTTjNxYVhfWGx2cFlFRjB5UkRlLTVJUE5tQU9qaFI5Uk1Jb0pTbWhMN0dvb3JkWk9qWGp3UTZPc09vRmRZdzVSOFZvbmNnTlZmQWk3VHhMNkJQV0pxbl94dUVFMjUzVVdGRFpZTU1VSXA2RUkzcEZwU3UzYk01V0NuNzkyZ21vVE5aeHlOTEVMTjJuLVJXR1BjeTdLNVYxNzk3MzRCLWtQTXhjbUpuN3pVMUdUdyIsImlkIjoiZmNfSnhLamFvZURLSXJWNU5vUHI0SzdvQXNfNSJ9"
+  },
+  {
+   "question": "How many years does it take to become a music teacher?",
+   "type": "ai_overview",
+   "page_token": "p18ZFXicHdBbcpswFADQ6WbyGfOwk9oznsxQhB23yJFAEvinA1c2BC6g2Ix5_HULXUNW1dW00wWcn_PrE9_b-s-X32Xfm9tmsRiG4bHougLPj9A1i-w2tbCADDHPoN48PT_ZLxfYkjt4367gMWGM9LkVObSNmvU9xoNhFu-ofXhNq8ARxCy1XQ9Z3YdCrd4i16yiNrC0wDRP-O4oVjzDsspb73aKi17vyFL5XIKF1jGQRCOdlPy6goCPYkYRV2HPbTIkFpnC2QsVwiSdwGH26cqt0cS-556F7rTkbuJqJ6x4KfbhwKQ-HUVhZWqkTGhb1QHNd0uHofx-JnSfJdync3mVuzE540GEWL5Byz2QXpQqXQpBVSR6HqlhSUr9z_QfqVojJ_0BMLXjZs2g4j-os_Zg7N6Z4DNU2Ei_HlnDP5SvVSpTlwZmUsTwXOGcJeUeasr08HCB-9Z9-H-9_Xlp-o25dsVfNfSN_Q",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=p18ZFXicHdBbcpswFADQ6WbyGfOwk9oznsxQhB23yJFAEvinA1c2BC6g2Ix5_HULXUNW1dW00wWcn_PrE9_b-s-X32Xfm9tmsRiG4bHougLPj9A1i-w2tbCADDHPoN48PT_ZLxfYkjt4367gMWGM9LkVObSNmvU9xoNhFu-ofXhNq8ARxCy1XQ9Z3YdCrd4i16yiNrC0wDRP-O4oVjzDsspb73aKi17vyFL5XIKF1jGQRCOdlPy6goCPYkYRV2HPbTIkFpnC2QsVwiSdwGH26cqt0cS-556F7rTkbuJqJ6x4KfbhwKQ-HUVhZWqkTGhb1QHNd0uHofx-JnSfJdync3mVuzE540GEWL5Byz2QXpQqXQpBVSR6HqlhSUr9z_QfqVojJ_0BMLXjZs2g4j-os_Zg7N6Z4DNU2Ei_HlnDP5SvVSpTlwZmUsTwXOGcJeUeasr08HCB-9Z9-H-9_Xlp-o25dsVfNfSN_Q",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlp6ZEhhR1ZYYWxKNWVXWldhR0ZhY0dKUGVXNUxNbkJJVUZwU05qSldlVlJrWjNwSFMwRlBTMjlvYkhwUVdXUlVXSHBSTTFBNVFUWXlZa1EwV0cxRmEzZGlVV3BTWlhaTllWSnZWamx5VlVkVVlYbGpTa3RsTTBnd1FSSVhTbmhMYW1GdlpVUkxTWEpXTlU1dlVISTBTemR2UVhNYUlrRkVjM0k1WmxJNFduSTVWV1l0U0VseFpFUkRSMWRJTm5oVVJtVnRkMkpEWkdjIiwiZmN2IjoiMyIsImVpIjoiSnhLamFvZURLSXJWNU5vUHI0SzdvQXMiLCJxYyI6IkNoTnpiMjVoZEdFZ2JYVnphV01nYzJOb2IyOXNFQUI5cjM0TFB3IiwicXVlc3Rpb24iOiJIb3cgbWFueSB5ZWFycyBkb2VzIGl0IHRha2UgdG8gYmVjb21lIGEgbXVzaWMgdGVhY2hlcj8iLCJsayI6IkdpaG9iM2NnYldGdWVTQjVaV0Z5Y3lCMGJ5QmlaV052YldVZ1lTQnRkWE5wWXlCMFpXRmphR1Z5IiwiYnMiOiJjNDJQTVF2Q1FBeEdjYzJpcmpjRlZKQXFDQjFjdTdvNE96aWxaX1FPYlNOM3FhWF9YbHZwWUVGMHlSRGUtNUlQTm1BT2poUjlSTUlvSlNtaEw3R29vcmRaT2pYandRNk9zT29GZFl3NVI4Vm9uY2dOVmZBaTdUeEw2QlBXSnFuX3h1RUUyNTNVV0ZEWllNTVVJcDZFSTNwRnBTdTNiTTVXQ243OTJnbW9UTlp4eU5MRUxOMm4tUldHUGN5N0s1VjE3OTczNEIta1BNeGNtSm43elUxR1R3IiwiaWQiOiJmY19KeEtqYW9lREtJclY1Tm9QcjRLN29Bc181In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlp6ZEhhR1ZYYWxKNWVXWldhR0ZhY0dKUGVXNUxNbkJJVUZwU05qSldlVlJrWjNwSFMwRlBTMjlvYkhwUVdXUlVXSHBSTTFBNVFUWXlZa1EwV0cxRmEzZGlVV3BTWlhaTllWSnZWamx5VlVkVVlYbGpTa3RsTTBnd1FSSVhTbmhMYW1GdlpVUkxTWEpXTlU1dlVISTBTemR2UVhNYUlrRkVjM0k1WmxJNFduSTVWV1l0U0VseFpFUkRSMWRJTm5oVVJtVnRkMkpEWkdjIiwiZmN2IjoiMyIsImVpIjoiSnhLamFvZURLSXJWNU5vUHI0SzdvQXMiLCJxYyI6IkNoTnpiMjVoZEdFZ2JYVnphV01nYzJOb2IyOXNFQUI5cjM0TFB3IiwicXVlc3Rpb24iOiJIb3cgbWFueSB5ZWFycyBkb2VzIGl0IHRha2UgdG8gYmVjb21lIGEgbXVzaWMgdGVhY2hlcj8iLCJsayI6IkdpaG9iM2NnYldGdWVTQjVaV0Z5Y3lCMGJ5QmlaV052YldVZ1lTQnRkWE5wWXlCMFpXRmphR1Z5IiwiYnMiOiJjNDJQTVF2Q1FBeEdjYzJpcmpjRlZKQXFDQjFjdTdvNE96aWxaX1FPYlNOM3FhWF9YbHZwWUVGMHlSRGUtNUlQTm1BT2poUjlSTUlvSlNtaEw3R29vcmRaT2pYandRNk9zT29GZFl3NVI4Vm9uY2dOVmZBaTdUeEw2QlBXSnFuX3h1RUUyNTNVV0ZEWllNTVVJcDZFSTNwRnBTdTNiTTVXQ243OTJnbW9UTlp4eU5MRUxOMm4tUldHUGN5N0s1VjE3OTczNEIta1BNeGNtSm43elUxR1R3IiwiaWQiOiJmY19KeEtqYW9lREtJclY1Tm9QcjRLN29Bc181In0%3D"
+  },
+  {
+   "question": "How much is a private music teacher?",
+   "type": "ai_overview",
+   "page_token": "k0dSKXicHdBfboIwHADg7DI-TgqbCyZmGbNqUUuotCAvC_wqIJQ_KrPo2-6yU-00W3aDL9_Xtzo21c_Dtej77jIdj7XWj3nb5urwCG09Ti63BsaQKJUmUE0nLxP0msEMfxLn_UQcn3edmDNjZ-YWRCzjC9_ylsQUTRwCtnVQ4Vtgujtm0musJOXRIoyjSos5PSelk0XI9nxDRZwLnRrFU1r3u60lHW8peRIRvRH0dGjcSjQyju7qGgQOjrEMduGwZoaYeMJdM1xshLG9AVIsKPPbn3XYVgyl4eK0CQciRacOS0bDmrZ80T1v7wLH3J2zhhY8ZATuBUmwtgB1nqjZAIg1uJDrA-5P-9BWDPcuqD0KatuHkm2oaTswtEefszuUqubKjcEUDi1zlJpunyqHcEwsycU6WL2hdOWaUo8yuM6s0f_n7COr-2l3bvNfgxaDvg",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=k0dSKXicHdBfboIwHADg7DI-TgqbCyZmGbNqUUuotCAvC_wqIJQ_KrPo2-6yU-00W3aDL9_Xtzo21c_Dtej77jIdj7XWj3nb5urwCG09Ti63BsaQKJUmUE0nLxP0msEMfxLn_UQcn3edmDNjZ-YWRCzjC9_ylsQUTRwCtnVQ4Vtgujtm0musJOXRIoyjSos5PSelk0XI9nxDRZwLnRrFU1r3u60lHW8peRIRvRH0dGjcSjQyju7qGgQOjrEMduGwZoaYeMJdM1xshLG9AVIsKPPbn3XYVgyl4eK0CQciRacOS0bDmrZ80T1v7wLH3J2zhhY8ZATuBUmwtgB1nqjZAIg1uJDrA-5P-9BWDPcuqD0KatuHkm2oaTswtEefszuUqubKjcEUDi1zlJpunyqHcEwsycU6WL2hdOWaUo8yuM6s0f_n7COr-2l3bvNfgxaDvg",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlp6ZEhhR1ZYYWxKNWVXWldhR0ZhY0dKUGVXNUxNbkJJVUZwU05qSldlVlJrWjNwSFMwRlBTMjlvYkhwUVdXUlVXSHBSTTFBNVFUWXlZa1EwV0cxRmEzZGlVV3BTWlhaTllWSnZWamx5VlVkVVlYbGpTa3RsTTBnd1FSSVhTbmhMYW1GdlpVUkxTWEpXTlU1dlVISTBTemR2UVhNYUlrRkVjM0k1WmxJNFduSTVWV1l0U0VseFpFUkRSMWRJTm5oVVJtVnRkMkpEWkdjIiwiZmN2IjoiMyIsImVpIjoiSnhLamFvZURLSXJWNU5vUHI0SzdvQXMiLCJxYyI6IkNoTnpiMjVoZEdFZ2JYVnphV01nYzJOb2IyOXNFQUI5cjM0TFB3IiwicXVlc3Rpb24iOiJIb3cgbXVjaCBpcyBhIHByaXZhdGUgbXVzaWMgdGVhY2hlcj8iLCJsayI6IkdpTm9iM2NnYlhWamFDQnBjeUJoSUhCeWFYWmhkR1VnYlhWemFXTWdkR1ZoWTJobGNnIiwiYnMiOiJjNDJQTVF2Q1FBeEdjYzJpcmpjRlZKQXFDQjFjdTdvNE96aWxaX1FPYlNOM3FhWF9YbHZwWUVGMHlSRGUtNUlQTm1BT2poUjlSTUlvSlNtaEw3R29vcmRaT2pYandRNk9zT29GZFl3NVI4Vm9uY2dOVmZBaTdUeEw2QlBXSnFuX3h1RUUyNTNVV0ZEWllNTVVJcDZFSTNwRnBTdTNiTTVXQ243OTJnbW9UTlp4eU5MRUxOMm4tUldHUGN5N0s1VjE3OTczNEIta1BNeGNtSm43elUxR1R3IiwiaWQiOiJmY19KeEtqYW9lREtJclY1Tm9QcjRLN29Bc181In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlp6ZEhhR1ZYYWxKNWVXWldhR0ZhY0dKUGVXNUxNbkJJVUZwU05qSldlVlJrWjNwSFMwRlBTMjlvYkhwUVdXUlVXSHBSTTFBNVFUWXlZa1EwV0cxRmEzZGlVV3BTWlhaTllWSnZWamx5VlVkVVlYbGpTa3RsTTBnd1FSSVhTbmhMYW1GdlpVUkxTWEpXTlU1dlVISTBTemR2UVhNYUlrRkVjM0k1WmxJNFduSTVWV1l0U0VseFpFUkRSMWRJTm5oVVJtVnRkMkpEWkdjIiwiZmN2IjoiMyIsImVpIjoiSnhLamFvZURLSXJWNU5vUHI0SzdvQXMiLCJxYyI6IkNoTnpiMjVoZEdFZ2JYVnphV01nYzJOb2IyOXNFQUI5cjM0TFB3IiwicXVlc3Rpb24iOiJIb3cgbXVjaCBpcyBhIHByaXZhdGUgbXVzaWMgdGVhY2hlcj8iLCJsayI6IkdpTm9iM2NnYlhWamFDQnBjeUJoSUhCeWFYWmhkR1VnYlhWemFXTWdkR1ZoWTJobGNnIiwiYnMiOiJjNDJQTVF2Q1FBeEdjYzJpcmpjRlZKQXFDQjFjdTdvNE96aWxaX1FPYlNOM3FhWF9YbHZwWUVGMHlSRGUtNUlQTm1BT2poUjlSTUlvSlNtaEw3R29vcmRaT2pYandRNk9zT29GZFl3NVI4Vm9uY2dOVmZBaTdUeEw2QlBXSnFuX3h1RUUyNTNVV0ZEWllNTVVJcDZFSTNwRnBTdTNiTTVXQ243OTJnbW9UTlp4eU5MRUxOMm4tUldHUGN5N0s1VjE3OTczNEIta1BNeGNtSm43elUxR1R3IiwiaWQiOiJmY19KeEtqYW9lREtJclY1Tm9QcjRLN29Bc181In0%3D"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Sonata Music School",
+   "link": "https://www.sonatamusicschool.com/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWgHrOzAVH0vVhJ-_oueZA0gEkXXthHd8TYcAAu55UFRhtSUZATy6MwqRll3fjVu7wqLxdv1_Vnu-DXW9zVmHWCadA7jEnnU1Qw3oWHUm_lSdthkejTV3poMVCw&ved=2ahUKEwjHspae7OSWAxWKKlkFHS_BDrQQFnoECD8QAQ&uoh=1",
+   "displayed_link": "https://www.sonatamusicschool.com",
+   "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc1Nzc3Nzc3Nys3Nzc3Nzc3Nzc3Nzc3Nzc1Nf_AABEIABwAHAMBIgACEQEDEQH_xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcEA__EACwQAAEDAgQEBAcAAAAAAAAAAAECAwQAEQUSITEGE0GBI1FhkQcUIjIz0fD_xAAWAQEBAQAAAAAAAAAAAAAAAAAEAwH_xAAdEQACAgIDAQAAAAAAAAAAAAABAgARAxITIUEE_9oADAMBAAIRAxEAPwBVjw3ngzkVyzbPlOmYWH6o3AwmVijwb5ym4jQHzJQ4Er2NgAdDt186yAIZXLiySkutNEo5iftNxoD3NNOBxmmcInY1irpiRENmOUi2Z1YIJAHmCLe_QXo_G5NgSPzZFDgtMnCJkRHpMBLjq4zbng85QKkCwuDbQm99qZy28rUX70AwmGqNhUPGHlNgYis8uOE_jbN8t1dTYXO29HStemVCSK0WDRim77HsT-HeHJ0rG4r-MNSDHbUVKceB6AkA39bV3V8N2XGwo8Rvodt4xdjJOY9Sn69B79L01vvrTAfWoleRtSsq1EgkC-utQqROlyG0uyJLrqwMwLiyqxO9vLtShiyperQaNgqityo8S4rDbkwcFwx5DiIQSSAcwQALJFEETiltPhpOm_8ACpTwuhKZriAkW0v6709MurQ0kJJ113ozLq1RZfcXP__Z.jpeg",
+   "snippet": "Sonata Music School offers lessons in Piano, Guitar, Violin, Drums, Voice, Cello, Folk Instruments (Dhol and Duduk). Also classes of Art, Chess and Drama.",
+   "snippet_highlighted_words": [
+    "Sonata Music School"
+   ],
+   "sitelinks": {
+    "inline": [
+     {
+      "title": "Our Teachers",
+      "link": "https://www.sonatamusicschool.com/our-teachers"
+     },
+     {
+      "title": "About",
+      "link": "https://www.sonatamusicschool.com/about"
+     },
+     {
+      "title": "Our Programs",
+      "link": "https://www.sonatamusicschool.com/our-programs"
+     },
+     {
+      "title": "Gallery",
+      "link": "https://www.sonatamusicschool.com/gallery"
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Sonata Music School offers lessons in Piano, Guitar, Violin, Drums, Voice, Cello, Folk Instruments (Dhol and Duduk). Also classes of Art, Chess and Drama.",
+     "source_info_link": "https://www.sonatamusicschool.com/",
+     "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc1Nzc3Nzc3Nys3Nzc3Nzc3Nzc3Nzc3Nzc1Nf_AABEIABwAHAMBIgACEQEDEQH_xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcEA__EACwQAAEDAgQEBAcAAAAAAAAAAAECAwQAEQUSITEGE0GBI1FhkQcUIjIz0fD_xAAWAQEBAQAAAAAAAAAAAAAAAAAEAwH_xAAdEQACAgIDAQAAAAAAAAAAAAABAgARAxITIUEE_9oADAMBAAIRAxEAPwBVjw3ngzkVyzbPlOmYWH6o3AwmVijwb5ym4jQHzJQ4Er2NgAdDt186yAIZXLiySkutNEo5iftNxoD3NNOBxmmcInY1irpiRENmOUi2Z1YIJAHmCLe_QXo_G5NgSPzZFDgtMnCJkRHpMBLjq4zbng85QKkCwuDbQm99qZy28rUX70AwmGqNhUPGHlNgYis8uOE_jbN8t1dTYXO29HStemVCSK0WDRim77HsT-HeHJ0rG4r-MNSDHbUVKceB6AkA39bV3V8N2XGwo8Rvodt4xdjJOY9Sn69B79L01vvrTAfWoleRtSsq1EgkC-utQqROlyG0uyJLrqwMwLiyqxO9vLtShiyperQaNgqityo8S4rDbkwcFwx5DiIQSSAcwQALJFEETiltPhpOm_8ACpTwuhKZriAkW0v6709MurQ0kJJ113ozLq1RZfcXP__Z.jpeg"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESWgHrOzAVH0vVhJ-_oueZA0gEkXXthHd8TYcAAu55UFRhtSUZATy6MwqRll3fjVu7wqLxdv1_Vnu-DXW9zVmHWCadA7jEnnU1Qw3oWHUm_lSdthkejTV3poMVCw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESWgHrOzAVH0vVhJ-_oueZA0gEkXXthHd8TYcAAu55UFRhtSUZATy6MwqRll3fjVu7wqLxdv1_Vnu-DXW9zVmHWCadA7jEnnU1Qw3oWHUm_lSdthkejTV3poMVCw",
+   "source": "Sonata Music School"
+  },
+  {
+   "position": 2,
+   "title": "Sonata Music School (@sonata_music_school)",
+   "link": "https://www.instagram.com/sonata_music_school/?hl=en",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHrOzAVoqQ812pTseTt6-IGfRLA-G2I0JHu-2kIVHwP4sjje2OTr9BCvORo1DThe7J-fPi7WlbHvnCjzLXrbpLAt3olJ6c-xVtEiipymDXqkoQynk5he6CkSyJahdU8T6HeNjrrTCqE6OgEyA&ved=2ahUKEwjHspae7OSWAxWKKlkFHS_BDrQQFnoECD4QAQ&uoh=1",
+   "displayed_link": "4.7K+ followers",
+   "favicon": "https://serpapi.com/searches/6aa3121616a5a8566f67fe84/images/FHHn9B2vOZ7O1skzAzAnzg1jqRRWpbzEeO5fSNBbEoM.png",
+   "snippet": "Sonata Music School. 4,679 followers. 246 following. 800 W. Doran #200 ...",
+   "snippet_highlighted_words": [
+    "Sonata Music School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Sonata Music School. 4,679 followers. 246 following. 800 W. Doran #200 ...",
+     "source_info_link": "https://www.instagram.com/sonata_music_school/?hl=en",
+     "icon": "https://serpapi.com/searches/6aa3121616a5a8566f67fe84/images/FHHn9B2vOZ7O1skzAzAnzs2DOK4hseU545VaR0sfT71qt3rJCtR8rV6_wfxHAQxg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESbAHrOzAVoqQ812pTseTt6-IGfRLA-G2I0JHu-2kIVHwP4sjje2OTr9BCvORo1DThe7J-fPi7WlbHvnCjzLXrbpLAt3olJ6c-xVtEiipymDXqkoQynk5he6CkSyJahdU8T6HeNjrrTCqE6OgEyA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESbAHrOzAVoqQ812pTseTt6-IGfRLA-G2I0JHu-2kIVHwP4sjje2OTr9BCvORo1DThe7J-fPi7WlbHvnCjzLXrbpLAt3olJ6c-xVtEiipymDXqkoQynk5he6CkSyJahdU8T6HeNjrrTCqE6OgEyA",
+   "source": "Instagram \u00b7 sonata_music_school",
+   "read_more_link": "https://www.instagram.com/sonata_music_school/?hl=en#:~:text=Sonata%20Music%20School,%23200%20Glendale%20%2C%20CA%2C%2091203"
+  },
+  {
+   "position": 3,
+   "title": "Sonata Music School. About.",
+   "link": "https://www.sonatamusicschool.com/about",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXwHrOzAVH1y6tL5R6c63X7tKE-GQn_vc3AfiwEBn6Edt2N34vrGIkTjdvbYWv4Fm2RA3k1nxWjT6WRgx3Etb2G4vGKc_W3HAA-FMlFtaxCJlXRYMpD9HeAVyYfZXzKKo&ved=2ahUKEwjHspae7OSWAxWKKlkFHS_BDrQQFnoECEMQAQ&uoh=1",
+   "displayed_link": "https://www.sonatamusicschool.com \u203a about",
+   "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc1Nzc3Nzc3Nys3Nzc3Nzc3Nzc3Nzc3Nzc1Nf_AABEIABwAHAMBIgACEQEDEQH_xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcEA__EACwQAAEDAgQEBAcAAAAAAAAAAAECAwQAEQUSITEGE0GBI1FhkQcUIjIz0fD_xAAWAQEBAQAAAAAAAAAAAAAAAAAEAwH_xAAdEQACAgIDAQAAAAAAAAAAAAABAgARAxITIUEE_9oADAMBAAIRAxEAPwBVjw3ngzkVyzbPlOmYWH6o3AwmVijwb5ym4jQHzJQ4Er2NgAdDt186yAIZXLiySkutNEo5iftNxoD3NNOBxmmcInY1irpiRENmOUi2Z1YIJAHmCLe_QXo_G5NgSPzZFDgtMnCJkRHpMBLjq4zbng85QKkCwuDbQm99qZy28rUX70AwmGqNhUPGHlNgYis8uOE_jbN8t1dTYXO29HStemVCSK0WDRim77HsT-HeHJ0rG4r-MNSDHbUVKceB6AkA39bV3V8N2XGwo8Rvodt4xdjJOY9Sn69B79L01vvrTAfWoleRtSsq1EgkC-utQqROlyG0uyJLrqwMwLiyqxO9vLtShiyperQaNgqityo8S4rDbkwcFwx5DiIQSSAcwQALJFEETiltPhpOm_8ACpTwuhKZriAkW0v6709MurQ0kJJ113ozLq1RZfcXP__Z.jpeg",
+   "snippet": "Welcome to SONATA Music School. I believe in the power of music to enrich lives and inspire souls. Dedicated music teachers and I sincerely love passing on ...",
+   "snippet_highlighted_words": [
+    "SONATA Music School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Welcome to SONATA Music School. I believe in the power of music to enrich lives and inspire souls. Dedicated music teachers and I sincerely love passing on ...",
+     "source_info_link": "https://www.sonatamusicschool.com/about",
+     "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc1Nzc3Nzc3Nys3Nzc3Nzc3Nzc3Nzc3Nzc1Nf_AABEIABwAHAMBIgACEQEDEQH_xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcEA__EACwQAAEDAgQEBAcAAAAAAAAAAAECAwQAEQUSITEGE0GBI1FhkQcUIjIz0fD_xAAWAQEBAQAAAAAAAAAAAAAAAAAEAwH_xAAdEQACAgIDAQAAAAAAAAAAAAABAgARAxITIUEE_9oADAMBAAIRAxEAPwBVjw3ngzkVyzbPlOmYWH6o3AwmVijwb5ym4jQHzJQ4Er2NgAdDt186yAIZXLiySkutNEo5iftNxoD3NNOBxmmcInY1irpiRENmOUi2Z1YIJAHmCLe_QXo_G5NgSPzZFDgtMnCJkRHpMBLjq4zbng85QKkCwuDbQm99qZy28rUX70AwmGqNhUPGHlNgYis8uOE_jbN8t1dTYXO29HStemVCSK0WDRim77HsT-HeHJ0rG4r-MNSDHbUVKceB6AkA39bV3V8N2XGwo8Rvodt4xdjJOY9Sn69B79L01vvrTAfWoleRtSsq1EgkC-utQqROlyG0uyJLrqwMwLiyqxO9vLtShiyperQaNgqityo8S4rDbkwcFwx5DiIQSSAcwQALJFEETiltPhpOm_8ACpTwuhKZriAkW0v6709MurQ0kJJ113ozLq1RZfcXP__Z.jpeg"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESXwHrOzAVH1y6tL5R6c63X7tKE-GQn_vc3AfiwEBn6Edt2N34vrGIkTjdvbYWv4Fm2RA3k1nxWjT6WRgx3Etb2G4vGKc_W3HAA-FMlFtaxCJlXRYMpD9HeAVyYfZXzKKo&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESXwHrOzAVH1y6tL5R6c63X7tKE-GQn_vc3AfiwEBn6Edt2N34vrGIkTjdvbYWv4Fm2RA3k1nxWjT6WRgx3Etb2G4vGKc_W3HAA-FMlFtaxCJlXRYMpD9HeAVyYfZXzKKo",
+   "source": "Sonata Music School",
+   "read_more_link": "https://www.sonatamusicschool.com/about#:~:text=Welcome%20to%20SONATA%20Music%20School.,I%20sincerely%20love%20passing%20on"
+  },
+  {
+   "position": 4,
+   "title": "SONATA MUSIC SCHOOL - Updated August 2026",
+   "link": "https://www.yelp.com/biz/sonata-music-school-glendale-2",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAVJR-6mAog4vWD5Xzr78PM7iCixsy_QCpTvIj4UceOoWKQ5oOQT3vLAIpK1Fgaog185sZl53xAKm9pAvPciCttXvxQK5R24BMHCSZxExgMG1Pnrv_G8S6YsGt43IcoKSKgMLKdWNG2ZTK3hQ&ved=2ahUKEwjHspae7OSWAxWKKlkFHS_BDrQQFnoECFYQAQ&uoh=1",
+   "displayed_link": "https://www.yelp.com \u203a biz \u203a sonata-music-school-glend...",
+   "favicon": "https://serpapi.com/searches/6aa3121616a5a8566f67fe84/images/FHHn9B2vOZ7O1skzAzAnzuicn9fqFTnPSJDKxgLexRw.png",
+   "snippet": "More info about Sonata Music School ; 705 Ivy St. Glendale, CA 91204. Directions ; (818) 636-4533. Call Now ; Visit Website. http://www.sonatamusicschool.com.",
+   "snippet_highlighted_words": [
+    "Sonata Music School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "More info about Sonata Music School ; 705 Ivy St. Glendale, CA 91204. Directions ; (818) 636-4533. Call Now ; Visit Website. http://www.sonatamusicschool.com.",
+     "source_info_link": "https://www.yelp.com/biz/sonata-music-school-glendale-2",
+     "icon": "https://serpapi.com/searches/6aa3121616a5a8566f67fe84/images/FHHn9B2vOZ7O1skzAzAnzpNIr85GAT-1n3Tosb-meYq7uKCX5RwRlamOl2nKEM5O.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESbwHrOzAVJR-6mAog4vWD5Xzr78PM7iCixsy_QCpTvIj4UceOoWKQ5oOQT3vLAIpK1Fgaog185sZl53xAKm9pAvPciCttXvxQK5R24BMHCSZxExgMG1Pnrv_G8S6YsGt43IcoKSKgMLKdWNG2ZTK3hQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESbwHrOzAVJR-6mAog4vWD5Xzr78PM7iCixsy_QCpTvIj4UceOoWKQ5oOQT3vLAIpK1Fgaog185sZl53xAKm9pAvPciCttXvxQK5R24BMHCSZxExgMG1Pnrv_G8S6YsGt43IcoKSKgMLKdWNG2ZTK3hQ",
+   "source": "Yelp",
+   "read_more_link": "https://www.yelp.com/biz/sonata-music-school-glendale-2#:~:text=More%20info%20about%20Sonata%20Music,School&text=705%20Ivy%20St,Directions&text=(818)%20636%2D4533,Call%20Now&text=Visit%20Website,http%3A%2F%2Fwww.sonatamusicschool.com"
+  },
+  {
+   "position": 5,
+   "title": "Sonata Music School",
+   "link": "https://www.youtube.com/channel/UC1ADwPUF5wixqyj8LAkF_Xg",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHrOzAVRGU5MxFevHRutU5rrlOXxf7Tw9XPxmJA3BQKIEbAGm0hqpwFoXVl6telNuE7eZYYEdOXdXeiohD0i9sHxexM-yJBFSvRAkBi8tf52F5uai-muCfFNJz1TzCUIkd0nDdsYQdgWHHcrLHDydU&ved=2ahUKEwjHspae7OSWAxWKKlkFHS_BDrQQFnoECF0QAQ&uoh=1",
+   "displayed_link": "4K+ followers",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+   "snippet": "Sonata Music School Vocal Band - Christmas Is Here (Official Music Video) ... Sonata Music School Dhol Group new project is coming. #music #dhol ...",
+   "snippet_highlighted_words": [
+    "Sonata Music School",
+    "Sonata Music School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Sonata Music School Vocal Band - Christmas Is Here (Official Music Video) ... Sonata Music School Dhol Group new project is coming. #music #dhol ...",
+     "source_info_link": "https://www.youtube.com/channel/UC1ADwPUF5wixqyj8LAkF_Xg",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEScAHrOzAVRGU5MxFevHRutU5rrlOXxf7Tw9XPxmJA3BQKIEbAGm0hqpwFoXVl6telNuE7eZYYEdOXdXeiohD0i9sHxexM-yJBFSvRAkBi8tf52F5uai-muCfFNJz1TzCUIkd0nDdsYQdgWHHcrLHDydU&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEScAHrOzAVRGU5MxFevHRutU5rrlOXxf7Tw9XPxmJA3BQKIEbAGm0hqpwFoXVl6telNuE7eZYYEdOXdXeiohD0i9sHxexM-yJBFSvRAkBi8tf52F5uai-muCfFNJz1TzCUIkd0nDdsYQdgWHHcrLHDydU",
+   "source": "YouTube \u00b7 Sonata Music School",
+   "read_more_link": "https://www.youtube.com/channel/UC1ADwPUF5wixqyj8LAkF_Xg#:~:text=Sonata%20Music%20School%20Vocal%20Band,Is%20Here%20(Official%20Music%20Video)&text=Sonata%20Music%20School%20%F0%9F%8E%BC%20Dhol,%23music%20%23dhol%20%23group%20%23new%20%23soon"
+  },
+  {
+   "position": 6,
+   "title": "Our Teachers",
+   "link": "https://www.sonatamusicschool.com/our-teachers",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVueBDDFebpKDlof9SGUzcpanePkt852moVDlfSp1JsMlWWwVRVdpj_3YOm0S7wOaglIUf3IKDSNfpNcFNtzErgdZK177OoViKkNoyh4gg1aVV_bQZ4GHZ-TBOkwKOgx0gyw&ved=2ahUKEwjHspae7OSWAxWKKlkFHS_BDrQQFnoECFoQAQ&uoh=1",
+   "displayed_link": "https://www.sonatamusicschool.com \u203a our-teachers",
+   "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc1Nzc3Nzc3Nys3Nzc3Nzc3Nzc3Nzc3Nzc1Nf_AABEIABwAHAMBIgACEQEDEQH_xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcEA__EACwQAAEDAgQEBAcAAAAAAAAAAAECAwQAEQUSITEGE0GBI1FhkQcUIjIz0fD_xAAWAQEBAQAAAAAAAAAAAAAAAAAEAwH_xAAdEQACAgIDAQAAAAAAAAAAAAABAgARAxITIUEE_9oADAMBAAIRAxEAPwBVjw3ngzkVyzbPlOmYWH6o3AwmVijwb5ym4jQHzJQ4Er2NgAdDt186yAIZXLiySkutNEo5iftNxoD3NNOBxmmcInY1irpiRENmOUi2Z1YIJAHmCLe_QXo_G5NgSPzZFDgtMnCJkRHpMBLjq4zbng85QKkCwuDbQm99qZy28rUX70AwmGqNhUPGHlNgYis8uOE_jbN8t1dTYXO29HStemVCSK0WDRim77HsT-HeHJ0rG4r-MNSDHbUVKceB6AkA39bV3V8N2XGwo8Rvodt4xdjJOY9Sn69B79L01vvrTAfWoleRtSsq1EgkC-utQqROlyG0uyJLrqwMwLiyqxO9vLtShiyperQaNgqityo8S4rDbkwcFwx5DiIQSSAcwQALJFEETiltPhpOm_8ACpTwuhKZriAkW0v6709MurQ0kJJ113ozLq1RZfcXP__Z.jpeg",
+   "snippet": "Teachers of Sonata Music School ensure that all students learn the basics of music and musicianship with attention to note reading, rhythm, terminology, and ...",
+   "snippet_highlighted_words": [
+    "Sonata Music School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Teachers of Sonata Music School ensure that all students learn the basics of music and musicianship with attention to note reading, rhythm, terminology, and ...",
+     "source_info_link": "https://www.sonatamusicschool.com/our-teachers",
+     "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc1Nzc3Nzc3Nys3Nzc3Nzc3Nzc3Nzc3Nzc1Nf_AABEIABwAHAMBIgACEQEDEQH_xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcEA__EACwQAAEDAgQEBAcAAAAAAAAAAAECAwQAEQUSITEGE0GBI1FhkQcUIjIz0fD_xAAWAQEBAQAAAAAAAAAAAAAAAAAEAwH_xAAdEQACAgIDAQAAAAAAAAAAAAABAgARAxITIUEE_9oADAMBAAIRAxEAPwBVjw3ngzkVyzbPlOmYWH6o3AwmVijwb5ym4jQHzJQ4Er2NgAdDt186yAIZXLiySkutNEo5iftNxoD3NNOBxmmcInY1irpiRENmOUi2Z1YIJAHmCLe_QXo_G5NgSPzZFDgtMnCJkRHpMBLjq4zbng85QKkCwuDbQm99qZy28rUX70AwmGqNhUPGHlNgYis8uOE_jbN8t1dTYXO29HStemVCSK0WDRim77HsT-HeHJ0rG4r-MNSDHbUVKceB6AkA39bV3V8N2XGwo8Rvodt4xdjJOY9Sn69B79L01vvrTAfWoleRtSsq1EgkC-utQqROlyG0uyJLrqwMwLiyqxO9vLtShiyperQaNgqityo8S4rDbkwcFwx5DiIQSSAcwQALJFEETiltPhpOm_8ACpTwuhKZriAkW0v6709MurQ0kJJ113ozLq1RZfcXP__Z.jpeg"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESZgHrOzAVueBDDFebpKDlof9SGUzcpanePkt852moVDlfSp1JsMlWWwVRVdpj_3YOm0S7wOaglIUf3IKDSNfpNcFNtzErgdZK177OoViKkNoyh4gg1aVV_bQZ4GHZ-TBOkwKOgx0gyw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESZgHrOzAVueBDDFebpKDlof9SGUzcpanePkt852moVDlfSp1JsMlWWwVRVdpj_3YOm0S7wOaglIUf3IKDSNfpNcFNtzErgdZK177OoViKkNoyh4gg1aVV_bQZ4GHZ-TBOkwKOgx0gyw",
+   "source": "Sonata Music School",
+   "read_more_link": "https://www.sonatamusicschool.com/our-teachers#:~:text=Teachers%20of%20Sonata%20Music%20School,reading%2C%20rhythm%2C%20terminology%2C%20and%20technique."
+  },
+  {
+   "position": 7,
+   "title": "Happy International Children's Day from Sonata Music School! ...",
+   "link": "https://www.facebook.com/SonaVard/videos/happy-international-childrens-day-from-sonata-music-school-may-all-children-be-h/2152496288866120/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESxAEB6zswFfIZlGQCNpDeuIrAD3Tk8lB8odT5zgqO_E-jzwchb-fRkAZ4iaOl5uz820kcYhRtkVAIGY46wiQf95CcL7t0UmycRnrYk7uATsP9ugx6NVdrpUV_VgNyTR2Y2dC4iCXMgFvUvulfECc2Rix4boX6o5E_ANIYcEKgkk1ex51ccqXe3djAFPzwzACHth3BJ6ilg4yOhCXnpa1oWMy7WxxHx3uSehqVb9jLB2_5eX4eSBBaLrmNxlL-vmWqUfIfveTo&ved=2ahUKEwjHspae7OSWAxWKKlkFHS_BDrQQFnoECGEQAQ&uoh=1",
+   "displayed_link": "https://www.facebook.com \u203a ... \u203a Videos",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "snippet": "Happy International Children's Day from Sonata Music School! May all children be happy, healthy, loved, and surrounded by endless opportunities to...",
+   "snippet_highlighted_words": [
+    "Sonata Music School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Happy International Children's Day from Sonata Music School! May all children be happy, healthy, loved, and surrounded by endless opportunities to...",
+     "source_info_link": "https://www.facebook.com/SonaVard/videos/happy-international-childrens-day-from-sonata-music-school-may-all-children-be-h/2152496288866120/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESxAEB6zswFfIZlGQCNpDeuIrAD3Tk8lB8odT5zgqO_E-jzwchb-fRkAZ4iaOl5uz820kcYhRtkVAIGY46wiQf95CcL7t0UmycRnrYk7uATsP9ugx6NVdrpUV_VgNyTR2Y2dC4iCXMgFvUvulfECc2Rix4boX6o5E_ANIYcEKgkk1ex51ccqXe3djAFPzwzACHth3BJ6ilg4yOhCXnpa1oWMy7WxxHx3uSehqVb9jLB2_5eX4eSBBaLrmNxlL-vmWqUfIfveTo&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESxAEB6zswFfIZlGQCNpDeuIrAD3Tk8lB8odT5zgqO_E-jzwchb-fRkAZ4iaOl5uz820kcYhRtkVAIGY46wiQf95CcL7t0UmycRnrYk7uATsP9ugx6NVdrpUV_VgNyTR2Y2dC4iCXMgFvUvulfECc2Rix4boX6o5E_ANIYcEKgkk1ex51ccqXe3djAFPzwzACHth3BJ6ilg4yOhCXnpa1oWMy7WxxHx3uSehqVb9jLB2_5eX4eSBBaLrmNxlL-vmWqUfIfveTo",
+   "source": "Facebook"
+  },
+  {
+   "position": 8,
+   "title": "Sonata Music School. Photo Gallery.",
+   "link": "https://www.sonatamusicschool.com/gallery",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYQHrOzAV5PFt-qPzZ1S_PnZvRi3PYcrFvergie6eCsDwjS4pcoT67KTPjZUYINO8XaF_uiqTN0B7CnnLya2eWt3rtNfgj5t-CXpXmE5K40mukGjp3N4YRuhI6O-D8dyMCxI&ved=2ahUKEwjHspae7OSWAxWKKlkFHS_BDrQQFnoECFsQAQ&uoh=1",
+   "displayed_link": "https://www.sonatamusicschool.com \u203a gallery",
+   "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc1Nzc3Nzc3Nys3Nzc3Nzc3Nzc3Nzc3Nzc1Nf_AABEIABwAHAMBIgACEQEDEQH_xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcEA__EACwQAAEDAgQEBAcAAAAAAAAAAAECAwQAEQUSITEGE0GBI1FhkQcUIjIz0fD_xAAWAQEBAQAAAAAAAAAAAAAAAAAEAwH_xAAdEQACAgIDAQAAAAAAAAAAAAABAgARAxITIUEE_9oADAMBAAIRAxEAPwBVjw3ngzkVyzbPlOmYWH6o3AwmVijwb5ym4jQHzJQ4Er2NgAdDt186yAIZXLiySkutNEo5iftNxoD3NNOBxmmcInY1irpiRENmOUi2Z1YIJAHmCLe_QXo_G5NgSPzZFDgtMnCJkRHpMBLjq4zbng85QKkCwuDbQm99qZy28rUX70AwmGqNhUPGHlNgYis8uOE_jbN8t1dTYXO29HStemVCSK0WDRim77HsT-HeHJ0rG4r-MNSDHbUVKceB6AkA39bV3V8N2XGwo8Rvodt4xdjJOY9Sn69B79L01vvrTAfWoleRtSsq1EgkC-utQqROlyG0uyJLrqwMwLiyqxO9vLtShiyperQaNgqityo8S4rDbkwcFwx5DiIQSSAcwQALJFEETiltPhpOm_8ACpTwuhKZriAkW0v6709MurQ0kJJ113ozLq1RZfcXP__Z.jpeg",
+   "snippet": "top of page. SONATA Music School \u00b7 Home \u00b7 Our Programs \u00b7 Our Teachers \u00b7 Gallery \u00b7 Events \u00b7 About. < >. press to zoom.",
+   "snippet_highlighted_words": [
+    "SONATA Music School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "top of page. SONATA Music School \u00b7 Home \u00b7 Our Programs \u00b7 Our Teachers \u00b7 Gallery \u00b7 Events \u00b7 About. < >. press to zoom.",
+     "source_info_link": "https://www.sonatamusicschool.com/gallery",
+     "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc1Nzc3Nzc3Nys3Nzc3Nzc3Nzc3Nzc3Nzc1Nf_AABEIABwAHAMBIgACEQEDEQH_xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcEA__EACwQAAEDAgQEBAcAAAAAAAAAAAECAwQAEQUSITEGE0GBI1FhkQcUIjIz0fD_xAAWAQEBAQAAAAAAAAAAAAAAAAAEAwH_xAAdEQACAgIDAQAAAAAAAAAAAAABAgARAxITIUEE_9oADAMBAAIRAxEAPwBVjw3ngzkVyzbPlOmYWH6o3AwmVijwb5ym4jQHzJQ4Er2NgAdDt186yAIZXLiySkutNEo5iftNxoD3NNOBxmmcInY1irpiRENmOUi2Z1YIJAHmCLe_QXo_G5NgSPzZFDgtMnCJkRHpMBLjq4zbng85QKkCwuDbQm99qZy28rUX70AwmGqNhUPGHlNgYis8uOE_jbN8t1dTYXO29HStemVCSK0WDRim77HsT-HeHJ0rG4r-MNSDHbUVKceB6AkA39bV3V8N2XGwo8Rvodt4xdjJOY9Sn69B79L01vvrTAfWoleRtSsq1EgkC-utQqROlyG0uyJLrqwMwLiyqxO9vLtShiyperQaNgqityo8S4rDbkwcFwx5DiIQSSAcwQALJFEETiltPhpOm_8ACpTwuhKZriAkW0v6709MurQ0kJJ113ozLq1RZfcXP__Z.jpeg"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYQHrOzAV5PFt-qPzZ1S_PnZvRi3PYcrFvergie6eCsDwjS4pcoT67KTPjZUYINO8XaF_uiqTN0B7CnnLya2eWt3rtNfgj5t-CXpXmE5K40mukGjp3N4YRuhI6O-D8dyMCxI&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYQHrOzAV5PFt-qPzZ1S_PnZvRi3PYcrFvergie6eCsDwjS4pcoT67KTPjZUYINO8XaF_uiqTN0B7CnnLya2eWt3rtNfgj5t-CXpXmE5K40mukGjp3N4YRuhI6O-D8dyMCxI",
+   "source": "Sonata Music School",
+   "read_more_link": "https://www.sonatamusicschool.com/gallery#:~:text=SONATA%20Music%20School,%3E"
+  },
+  {
+   "position": 9,
+   "title": "Sonata Music School Gala Concert Tickets",
+   "link": "https://www.vividseats.com/sonata-music-school-gala-concert-tickets--theater-arts-and-theater/performer/525212",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpgEB6zswFbu-PVUUaKtO2y-_TcL9xWFcmKplFhFQBwoCHntkyyhyBkOgYRtDeKkbJF8oDo5h_h3MMuYtegINkQWlbUx0H8klr-irw4GpfZaFDex5P7GlTRlsXsMd_HI7eFvEdoi6Ja2ad6nzcfepA3Ukr7znVTIRfBuFVCrxYQptN2IxwO1ZnXHqHfTLUq1StvfTodCxcztUuvkCFbAGhS-W_xRuwye0&ved=2ahUKEwjHspae7OSWAxWKKlkFHS_BDrQQFnoECFwQAQ&uoh=1",
+   "displayed_link": "https://www.vividseats.com \u203a Theater \u203a Arts and Theater",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAolBMVEVHcEzGQZO_QZQ0Ua-_QpW-QpTBQZOSRpxfTKYtUq_BQ5m8QZQgUq8UU7EbWLEpjLu7RZZUT6ceU7AgVbJqdLO-QpSiQ5gxUKwfU7DAQ5aiRJl5SqEXWLAiWbBIqr4-kLY4grE4g7E5g7JXvcNWusFIobo5hLI5g7JWu8FWusFVuME4grFPrb9Wu8E5g7JPrsFVuMFWu8JXu8JUtsFWu8FWu8KsqrbFAAAANnRSTlMALjcxof__6u6ZFPH1_ukRcNn_cgXK3-7KReve2-bG7P__3lr55PNswv_ryzignh_ZdApMuZVpj-9CAAAA00lEQVR4AXzPRRaEQAxF0d_u7u5ACrf9b61zcL_TV5KgUatdp9VBt1el3-8NhiOMJxVlMhhOZ_MFsCwkLqvpbLZebwBsd7myHx64sOMW7JSUXlJYB4FueOd8SQobxdtMgjJNCpt2EFleVtf5LWu-QWxxfzyfr4zne4HE5_uTnlkyUluFxCPT1C0yNKLsZQ05OhGJOBvIMwUxK3hbMlFgc4vellGwdSwKiIe6QMmHIi4qeBTwUEX7Br9qqOQT81EpWEcka1SsY6OOY1kOarku_qMOAACUBCK9oD7R1gAAAABJRU5ErkJggg.png",
+   "snippet": "Sonata Music School Gala Concert spotlights the school's standout students and ensembles in a polished, one-night program. Expect thoughtfully curated pieces ...",
+   "snippet_highlighted_words": [
+    "Sonata Music School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Sonata Music School Gala Concert spotlights the school's standout students and ensembles in a polished, one-night program. Expect thoughtfully curated pieces ...",
+     "source_info_link": "https://www.vividseats.com/sonata-music-school-gala-concert-tickets--theater-arts-and-theater/performer/525212",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAolBMVEVHcEzGQZO_QZQ0Ua-_QpW-QpTBQZOSRpxfTKYtUq_BQ5m8QZQgUq8UU7EbWLEpjLu7RZZUT6ceU7AgVbJqdLO-QpSiQ5gxUKwfU7DAQ5aiRJl5SqEXWLAiWbBIqr4-kLY4grE4g7E5g7JXvcNWusFIobo5hLI5g7JWu8FWusFVuME4grFPrb9Wu8E5g7JPrsFVuMFWu8JXu8JUtsFWu8FWu8KsqrbFAAAANnRSTlMALjcxof__6u6ZFPH1_ukRcNn_cgXK3-7KReve2-bG7P__3lr55PNswv_ryzignh_ZdApMuZVpj-9CAAAA00lEQVR4AXzPRRaEQAxF0d_u7u5ACrf9b61zcL_TV5KgUatdp9VBt1el3-8NhiOMJxVlMhhOZ_MFsCwkLqvpbLZebwBsd7myHx64sOMW7JSUXlJYB4FueOd8SQobxdtMgjJNCpt2EFleVtf5LWu-QWxxfzyfr4zne4HE5_uTnlkyUluFxCPT1C0yNKLsZQ05OhGJOBvIMwUxK3hbMlFgc4vellGwdSwKiIe6QMmHIi4qeBTwUEX7Br9qqOQT81EpWEcka1SsY6OOY1kOarku_qMOAACUBCK9oD7R1gAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESpgEB6zswFbu-PVUUaKtO2y-_TcL9xWFcmKplFhFQBwoCHntkyyhyBkOgYRtDeKkbJF8oDo5h_h3MMuYtegINkQWlbUx0H8klr-irw4GpfZaFDex5P7GlTRlsXsMd_HI7eFvEdoi6Ja2ad6nzcfepA3Ukr7znVTIRfBuFVCrxYQptN2IxwO1ZnXHqHfTLUq1StvfTodCxcztUuvkCFbAGhS-W_xRuwye0&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESpgEB6zswFbu-PVUUaKtO2y-_TcL9xWFcmKplFhFQBwoCHntkyyhyBkOgYRtDeKkbJF8oDo5h_h3MMuYtegINkQWlbUx0H8klr-irw4GpfZaFDex5P7GlTRlsXsMd_HI7eFvEdoi6Ja2ad6nzcfepA3Ukr7znVTIRfBuFVCrxYQptN2IxwO1ZnXHqHfTLUq1StvfTodCxcztUuvkCFbAGhS-W_xRuwye0",
+   "source": "Vivid Seats",
+   "read_more_link": "https://www.vividseats.com/sonata-music-school-gala-concert-tickets--theater-arts-and-theater/performer/525212#:~:text=Sonata%20Music%20School%20Gala%20Concert,by%20the%20school's%20faculty%20artists."
+  },
+  {
+   "position": 10,
+   "title": "Sonata Music School, Inc",
+   "link": "https://www.instagram.com/explore/locations/1029684933/sonata-music-school-inc/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShwEB6zswFTcN4JfTaEIBvr_di4hlEq-WCX4TpmZvbz-4kUJId74QDCbqpEXGn5Y8i5KNsC0EvFPH-rgjTvRg-eJW_sIz3sPGMZooJN_ahSoHPmEamsJwWVr7Ksoe9Bj8DvbosEBX6HDT2E5WHVn_C5wsFnqWwgBWmNgct6P9kjv_LejInXQ1YkM&ved=2ahUKEwjHspae7OSWAxWKKlkFHS_BDrQQFnoECHcQAQ&uoh=1",
+   "displayed_link": "https://www.instagram.com \u203a explore \u203a locations \u203a sona...",
+   "favicon": "https://serpapi.com/searches/6aa3121616a5a8566f67fe84/images/FHHn9B2vOZ7O1skzAzAnzhrad7YUWDb1fMT-hXGnsJs.png",
+   "snippet": "Sonata Music School, Inc. sonata_music_school. 91204. Music Lessons & Instruction School\u2022319 posts. Closed.",
+   "snippet_highlighted_words": [
+    "Sonata Music School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Sonata Music School, Inc. sonata_music_school. 91204. Music Lessons & Instruction School\u2022319 posts. Closed.",
+     "source_info_link": "https://www.instagram.com/explore/locations/1029684933/sonata-music-school-inc/",
+     "icon": "https://serpapi.com/searches/6aa3121616a5a8566f67fe84/images/FHHn9B2vOZ7O1skzAzAnznyMIPn5lNh7ScHXUQhHIgGl4tBDTVLlt6gD5mlkPVGR.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEShwEB6zswFTcN4JfTaEIBvr_di4hlEq-WCX4TpmZvbz-4kUJId74QDCbqpEXGn5Y8i5KNsC0EvFPH-rgjTvRg-eJW_sIz3sPGMZooJN_ahSoHPmEamsJwWVr7Ksoe9Bj8DvbosEBX6HDT2E5WHVn_C5wsFnqWwgBWmNgct6P9kjv_LejInXQ1YkM&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEShwEB6zswFTcN4JfTaEIBvr_di4hlEq-WCX4TpmZvbz-4kUJId74QDCbqpEXGn5Y8i5KNsC0EvFPH-rgjTvRg-eJW_sIz3sPGMZooJN_ahSoHPmEamsJwWVr7Ksoe9Bj8DvbosEBX6HDT2E5WHVn_C5wsFnqWwgBWmNgct6P9kjv_LejInXQ1YkM",
+   "source": "Instagram"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Sonata music school near me",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Sonata+music+school+near+me&sa=X&ved=2ahUKEwjHspae7OSWAxWKKlkFHS_BDrQQ1QJ6BAheEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Sonata+music+school+near+me"
+  },
+  {
+   "block_position": 1,
+   "query": "Sonata music school tuition",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Sonata+music+school+tuition&sa=X&ved=2ahUKEwjHspae7OSWAxWKKlkFHS_BDrQQ1QJ6BAhxEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Sonata+music+school+tuition"
+  },
+  {
+   "block_position": 1,
+   "query": "Sonata Music School glendale",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Sonata+Music+School+glendale&sa=X&ved=2ahUKEwjHspae7OSWAxWKKlkFHS_BDrQQ1QJ6BAhtEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Sonata+Music+School+glendale"
+  },
+  {
+   "block_position": 1,
+   "query": "Sonata music school reviews",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Sonata+music+school+reviews&sa=X&ved=2ahUKEwjHspae7OSWAxWKKlkFHS_BDrQQ1QJ6BAhnEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Sonata+music+school+reviews"
+  },
+  {
+   "block_position": 1,
+   "query": "Glendale music School",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Glendale+music+School&sa=X&ved=2ahUKEwjHspae7OSWAxWKKlkFHS_BDrQQ1QJ6BAhkEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Glendale+music+School"
+  },
+  {
+   "block_position": 1,
+   "query": "Sonata School",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Sonata+School&sa=X&ved=2ahUKEwjHspae7OSWAxWKKlkFHS_BDrQQ1QJ6BAhiEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Sonata+School"
+  },
+  {
+   "block_position": 1,
+   "query": "Crescendo School of Music",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Crescendo+School+of+Music&sa=X&ved=2ahUKEwjHspae7OSWAxWKKlkFHS_BDrQQ1QJ6BAhgEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crescendo+School+of+Music"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Sonata+Music+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=JxKjaoeDKIrV5NoPr4K7oAs&start=10&sa=N&sstk=AS6-VmKjlZRjSZEqG6Dms0HVFR2ZUOKryV6A1FnZteN-TGKoZBn8D_AnMKLWj2FFT2v_5szitLywJzwldx1AIHW6btLtaR_hGmvbng&ved=2ahUKEwjHspae7OSWAxWKKlkFHS_BDrQQ8NMDegQITRAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Sonata+Music+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=JxKjaoeDKIrV5NoPr4K7oAs&start=10&sa=N&sstk=AS6-VmKjlZRjSZEqG6Dms0HVFR2ZUOKryV6A1FnZteN-TGKoZBn8D_AnMKLWj2FFT2v_5szitLywJzwldx1AIHW6btLtaR_hGmvbng&ved=2ahUKEwjHspae7OSWAxWKKlkFHS_BDrQQ8tMDegQITRAE",
+   "3": "https://www.google.com/search?q=%22Sonata+Music+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=JxKjaoeDKIrV5NoPr4K7oAs&start=20&sa=N&sstk=AS6-VmKjlZRjSZEqG6Dms0HVFR2ZUOKryV6A1FnZteN-TGKoZBn8D_AnMKLWj2FFT2v_5szitLywJzwldx1AIHW6btLtaR_hGmvbng&ved=2ahUKEwjHspae7OSWAxWKKlkFHS_BDrQQ8tMDegQITRAG",
+   "4": "https://www.google.com/search?q=%22Sonata+Music+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=JxKjaoeDKIrV5NoPr4K7oAs&start=30&sa=N&sstk=AS6-VmKjlZRjSZEqG6Dms0HVFR2ZUOKryV6A1FnZteN-TGKoZBn8D_AnMKLWj2FFT2v_5szitLywJzwldx1AIHW6btLtaR_hGmvbng&ved=2ahUKEwjHspae7OSWAxWKKlkFHS_BDrQQ8tMDegQITRAI",
+   "5": "https://www.google.com/search?q=%22Sonata+Music+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=JxKjaoeDKIrV5NoPr4K7oAs&start=40&sa=N&sstk=AS6-VmKjlZRjSZEqG6Dms0HVFR2ZUOKryV6A1FnZteN-TGKoZBn8D_AnMKLWj2FFT2v_5szitLywJzwldx1AIHW6btLtaR_hGmvbng&ved=2ahUKEwjHspae7OSWAxWKKlkFHS_BDrQQ8tMDegQITRAK",
+   "6": "https://www.google.com/search?q=%22Sonata+Music+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=JxKjaoeDKIrV5NoPr4K7oAs&start=50&sa=N&sstk=AS6-VmKjlZRjSZEqG6Dms0HVFR2ZUOKryV6A1FnZteN-TGKoZBn8D_AnMKLWj2FFT2v_5szitLywJzwldx1AIHW6btLtaR_hGmvbng&ved=2ahUKEwjHspae7OSWAxWKKlkFHS_BDrQQ8tMDegQITRAM",
+   "7": "https://www.google.com/search?q=%22Sonata+Music+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=JxKjaoeDKIrV5NoPr4K7oAs&start=60&sa=N&sstk=AS6-VmKjlZRjSZEqG6Dms0HVFR2ZUOKryV6A1FnZteN-TGKoZBn8D_AnMKLWj2FFT2v_5szitLywJzwldx1AIHW6btLtaR_hGmvbng&ved=2ahUKEwjHspae7OSWAxWKKlkFHS_BDrQQ8tMDegQITRAO",
+   "8": "https://www.google.com/search?q=%22Sonata+Music+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=JxKjaoeDKIrV5NoPr4K7oAs&start=70&sa=N&sstk=AS6-VmKjlZRjSZEqG6Dms0HVFR2ZUOKryV6A1FnZteN-TGKoZBn8D_AnMKLWj2FFT2v_5szitLywJzwldx1AIHW6btLtaR_hGmvbng&ved=2ahUKEwjHspae7OSWAxWKKlkFHS_BDrQQ8tMDegQITRAQ",
+   "9": "https://www.google.com/search?q=%22Sonata+Music+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=JxKjaoeDKIrV5NoPr4K7oAs&start=80&sa=N&sstk=AS6-VmKjlZRjSZEqG6Dms0HVFR2ZUOKryV6A1FnZteN-TGKoZBn8D_AnMKLWj2FFT2v_5szitLywJzwldx1AIHW6btLtaR_hGmvbng&ved=2ahUKEwjHspae7OSWAxWKKlkFHS_BDrQQ8tMDegQITRAS",
+   "10": "https://www.google.com/search?q=%22Sonata+Music+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=JxKjaoeDKIrV5NoPr4K7oAs&start=90&sa=N&sstk=AS6-VmKjlZRjSZEqG6Dms0HVFR2ZUOKryV6A1FnZteN-TGKoZBn8D_AnMKLWj2FFT2v_5szitLywJzwldx1AIHW6btLtaR_hGmvbng&ved=2ahUKEwjHspae7OSWAxWKKlkFHS_BDrQQ8tMDegQITRAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Sonata+Music+School%22&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Sonata+Music+School%22&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Sonata+Music+School%22&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Sonata+Music+School%22&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Sonata+Music+School%22&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Sonata+Music+School%22&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Sonata+Music+School%22&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Sonata+Music+School%22&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Sonata+Music+School%22&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Sonata+Music+School%22&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Sonata+Music+School%22&start=90"
+  }
+ }
+}

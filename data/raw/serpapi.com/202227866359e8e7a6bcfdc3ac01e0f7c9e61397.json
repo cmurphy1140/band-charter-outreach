@@ -1,0 +1,99 @@
+{
+ "news_results": [
+  {
+   "position": 1,
+   "title": "YWCA of Charleston to host annual MLK parade, capping off a week of events",
+   "source": {
+    "name": "WCIV",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://abcnews4.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Abigail Quinn"
+    ]
+   },
+   "link": "https://abcnews4.com/newsletter-daily/ywca-of-charleston-to-host-annual-mlk-parade-capping-off-a-week-of-events-dance-group-marching-bands-community-organizations-burke-high-school-marion-square-calhoun-street",
+   "thumbnail": "https://abcnews4.com/resources/media2/16x9/full/800/center/80/03e95198-fbb2-4456-b176-8e8af0d6c96d-large16x9_MLKParadeKingstreemarchingbandIMG_2199.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNURPRkJ4T1cwNGIxbEZlblpWVFJDZkF4ampCU2dLTWdrQk1Kak5HYW9XaUFJ",
+   "date": "01/19/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-19T08:00:00Z"
+  },
+  {
+   "position": 2,
+   "title": "The 72-Hour War Over Christmas (Published 2019)",
+   "source": {
+    "name": "The New York Times",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Dionne Searcey"
+    ]
+   },
+   "link": "https://www.nytimes.com/2019/11/29/us/politics/christmas-parade-charleston-wv.html",
+   "thumbnail": "https://static01.nyt.com/images/2019/11/24/us/politics/00Charleston1/merlin_164057607_ff395c57-c15c-4968-b094-740e12acc342-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVkMnhNYW1WTFUzTTFTSE5vVFJDUUF4allCQ2dLTWdZcFlaSXdLUWM",
+   "date": "11/29/2019, 08:00 AM, +0000 UTC",
+   "iso_date": "2019-11-29T08:00:00Z"
+  },
+  {
+   "position": 3,
+   "title": "YWCA Greater Charleston kicks off 54th annual MLK tribute with events starting Jan. 15",
+   "source": {
+    "name": "WCIV",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://abcnews4.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Abigail Quinn"
+    ]
+   },
+   "link": "https://abcnews4.com/news/local/ywca-greater-charleston-kicks-off-54th-annual-mlk-tribute-with-events-starting-jan-15-parade-open-mic-event-professional-breakfast-ecumenical-service-justice-in-action",
+   "thumbnail": "https://abcnews4.com/resources/media2/16x9/5185/648/0x297/90/377a2060-bb09-4270-b032-95e83b96cd29-GettyImages1061693888.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtXREZhVVc5a01IRlBXbE55VFJEdEFoaUlCU2dLTWdZZFJJZ0xLZ2M",
+   "date": "01/02/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-02T08:00:00Z"
+  }
+ ],
+ "menu_links": [
+  {
+   "title": "U.S.",
+   "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+  },
+  {
+   "title": "World",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Your local news",
+   "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+  },
+  {
+   "title": "Business",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Technology",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Entertainment",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Sports",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Science",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Health",
+   "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+  }
+ ]
+}

@@ -1,0 +1,287 @@
+{
+ "search_information": {
+  "query_displayed": "\"Alan B. Shepard Marching Band\" Illinois",
+  "total_results": 9,
+  "time_taken_displayed": 0.24,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "inline_videos": [
+  {
+   "position": 1,
+   "title": "Shepard Band Performs at Richards for CHSD 218 Marching ...",
+   "link": "https://www.youtube.com/watch?v=-BgwrjXoc1Y",
+   "thumbnail": "https://serpapi.com/searches/6aa30bbb10b5cff8aa68e1a8/images/pjRedmMEbAUQsuB9aT9XPTNKeIQt0iyftkBfRcCtcys.jpeg",
+   "channel": "Community High School District 218",
+   "duration": "4:54",
+   "platform": "YouTube",
+   "date": "Sep 25, 2025",
+   "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSgYA6PPg7Mhg5fL0zmvQTfEwWQd-dBndkrrQ"
+  },
+  {
+   "position": 2,
+   "title": "2023 09 23 GBS MarchingBand TinleyPark",
+   "link": "https://www.youtube.com/watch?v=AniTUMRfdVo",
+   "thumbnail": "https://serpapi.com/searches/6aa30bbb10b5cff8aa68e1a8/images/sOMQQ3r2NkDDxOSNVwgmmQOf2qnvv2rBmHUmGmv81To.jpeg",
+   "channel": "Ben And Friends Videos",
+   "duration": "11:11",
+   "platform": "YouTube",
+   "date": "Sep 24, 2023",
+   "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTUKI40Z4xKzukpWdzLZjUo1tCb-mgPs7V68A"
+  }
+ ],
+ "related_questions": [
+  {
+   "question": "Who is the best high school marching band in Illinois?",
+   "type": "ai_overview",
+   "page_token": "9E5jTXicHdBRbpswHIBx7TJ9bDCQrosUVU0wrCymxeRvAy8T2CROsAM0LM546xV6hp5qp1nV90_6Sd_bhz6c2n_f3tU49ufFbGatvd133V43t6Izs-r89yRmotK6rkS7uPt-hx52YokvYrV-FasU-p4F1MlMfKh5WHBAwTNPdI2ebBKh04azoWb3Hp0klXBFpWExD1tXOHHRQFgV7tmrWZ8L1M6T9hoUR6aZefIzpkjp0KGJZEKm1UU66tJE9KX-qSwclce1oiQadX1UfuWW6wyrCjw50Pbqsyl2K5g7mzxsU8BTox99GqihMHhOQ9aJo07pGlkRSFI5cr6Beyu3sb8BMZJIX0Veels8nmtAQE4hhs-uMT8CwjThPC6xkj7kbChy-icBO2496T1HSSpdZmojKVl1hxTo9OkYmDRk28RmLsrAVTxrWZmF7IVg5Ag8YuGiX6W92YnL0rv5er38vTPjon_t9v8BcHuMpg",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=9E5jTXicHdBRbpswHIBx7TJ9bDCQrosUVU0wrCymxeRvAy8T2CROsAM0LM546xV6hp5qp1nV90_6Sd_bhz6c2n_f3tU49ufFbGatvd133V43t6Izs-r89yRmotK6rkS7uPt-hx52YokvYrV-FasU-p4F1MlMfKh5WHBAwTNPdI2ebBKh04azoWb3Hp0klXBFpWExD1tXOHHRQFgV7tmrWZ8L1M6T9hoUR6aZefIzpkjp0KGJZEKm1UU66tJE9KX-qSwclce1oiQadX1UfuWW6wyrCjw50Pbqsyl2K5g7mzxsU8BTox99GqihMHhOQ9aJo07pGlkRSFI5cr6Beyu3sb8BMZJIX0Veels8nmtAQE4hhs-uMT8CwjThPC6xkj7kbChy-icBO2496T1HSSpdZmojKVl1hxTo9OkYmDRk28RmLsrAVTxrWZmF7IVg5Ag8YuGiX6W92YnL0rv5er38vTPjon_t9v8BcHuMpg",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE0zQjRiWEZvWjFCQ1kxOXFOVWhYVTA1MVlVc3RlR0ZmT0ZWblJsazFNM1J5UldoMGFEWnFiMEk1TUdWRlltWmthMVJyWm1vNVVrVnNVREV3VkhKMmRYcHpjRmd0YlhNdFNVNXliazVYYTBGSWJVZHdjbHBzUlVWQ1p4SVhlRkYxYW1GMGJqVk1MVTkzZHpoalVIZGxabTVuVVRBYUlrRkVjM0k1WmxGb1ExSklNMWczWDNCd0xWSldabFZwUlU1SWRrTktTM0oxZW1jIiwiZmN2IjoiMyIsImVpIjoieFF1amF0bjVMLU93dzhjUHdlZm5nUTAiLCJxYyI6IkNpVmhiR0Z1SUdJZ2MyaGxjR0Z5WkNCdFlYSmphR2x1WnlCaVlXNWtJR2xzYkdsdWIybHpFQUI5ekpmbVBnIiwicXVlc3Rpb24iOiJXaG8gaXMgdGhlIGJlc3QgaGlnaCBzY2hvb2wgbWFyY2hpbmcgYmFuZCBpbiBJbGxpbm9pcz8iLCJsayI6ImN3WEIwUW5BSUF3RTBEMzh1aVVjU0czd0R0SUVqTkQxLTE3ckh4TXFYQnFtMVFXMWlWck1kTHpqTENvMjVvZ0hDc2hka2FvZiIsImJzIjoiYzUyUU1RLUNNQkNGNDlySm1lbG1KUTRZUlNjMm83TXhERTZGTnR3bHRhZHRDZjU4Z1JDTmcwVGQzdkI5THk5UDNNUTZSd2J5RUZCRG9YMEFwQXJCbDhoczRDSmRpV1FyS0tSVlFCWU94cEJsOGxtU1Jxdm1GNU1HVTV6RmZNOE5vSFNxc3lsQVlLaDBhS0UyUEwyZXB5eUpveGwtall0YWJIS1VBYVRUX2E3QVYxaC1IdWE3WlIxM09tYkpOa3FiZjl6YWk3dlk1VWdsanRGZGJjbldrOUpPcTlkclEwdkR6cWdzV1VUeC1KZi1UWmhPSGciLCJpZCI6ImZjX3hRdWphdG41TC1Pd3c4Y1B3ZWZuZ1EwXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE0zQjRiWEZvWjFCQ1kxOXFOVWhYVTA1MVlVc3RlR0ZmT0ZWblJsazFNM1J5UldoMGFEWnFiMEk1TUdWRlltWmthMVJyWm1vNVVrVnNVREV3VkhKMmRYcHpjRmd0YlhNdFNVNXliazVYYTBGSWJVZHdjbHBzUlVWQ1p4SVhlRkYxYW1GMGJqVk1MVTkzZHpoalVIZGxabTVuVVRBYUlrRkVjM0k1WmxGb1ExSklNMWczWDNCd0xWSldabFZwUlU1SWRrTktTM0oxZW1jIiwiZmN2IjoiMyIsImVpIjoieFF1amF0bjVMLU93dzhjUHdlZm5nUTAiLCJxYyI6IkNpVmhiR0Z1SUdJZ2MyaGxjR0Z5WkNCdFlYSmphR2x1WnlCaVlXNWtJR2xzYkdsdWIybHpFQUI5ekpmbVBnIiwicXVlc3Rpb24iOiJXaG8gaXMgdGhlIGJlc3QgaGlnaCBzY2hvb2wgbWFyY2hpbmcgYmFuZCBpbiBJbGxpbm9pcz8iLCJsayI6ImN3WEIwUW5BSUF3RTBEMzh1aVVjU0czd0R0SUVqTkQxLTE3ckh4TXFYQnFtMVFXMWlWck1kTHpqTENvMjVvZ0hDc2hka2FvZiIsImJzIjoiYzUyUU1RLUNNQkNGNDlySm1lbG1KUTRZUlNjMm83TXhERTZGTnR3bHRhZHRDZjU4Z1JDTmcwVGQzdkI5THk5UDNNUTZSd2J5RUZCRG9YMEFwQXJCbDhoczRDSmRpV1FyS0tSVlFCWU94cEJsOGxtU1Jxdm1GNU1HVTV6RmZNOE5vSFNxc3lsQVlLaDBhS0UyUEwyZXB5eUpveGwtall0YWJIS1VBYVRUX2E3QVYxaC1IdWE3WlIxM09tYkpOa3FiZjl6YWk3dlk1VWdsanRGZGJjbldrOUpPcTlkclEwdkR6cWdzV1VUeC1KZi1UWmhPSGciLCJpZCI6ImZjX3hRdWphdG41TC1Pd3c4Y1B3ZWZuZ1EwXzUifQ%3D%3D"
+  },
+  {
+   "question": "How hard is it to get into marching illini?",
+   "type": "ai_overview",
+   "page_token": "Zgh6MXicHdDbTsIwGADg-DJeSstQMxJisrFVCFRX1nbsxvQAG9u_AzIscOe7-FQ-jYnfI3zfP3Bo69-7r3IY-tN0NHLOPRRdV8DuwXTNSJ2urRkZBaCVqadPz0_4ZW9m0XkRhMdFkPC-F3OG0ghf0npJc1R6tjIT2VK0a0RrWwaSYJryWAmRIJ1BqIVPpOhflcRgxTJI8OImZM55zFjm0dBmNGfS79Yh8jTy32wF3NYdzqHfUMJC40G8Te14xf3jBvWTjReHkoOyCAc7ucU7AYGJHlPZDO8UTdw6BpK0wBQuLrLNMw3gdLPstSj3Se1umyqnKymSnAyRvhVjHfksKu2EZ-K4zdiZcjeknvXeCE3sWDS6sWwddIeEs5upoOFX3IqoPKjILjgpSR77hPOlWM_jaiXjTs2Fs-5-b75m3v3_5-xj3wzT_rMr_gAvZILO",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Zgh6MXicHdDbTsIwGADg-DJeSstQMxJisrFVCFRX1nbsxvQAG9u_AzIscOe7-FQ-jYnfI3zfP3Bo69-7r3IY-tN0NHLOPRRdV8DuwXTNSJ2urRkZBaCVqadPz0_4ZW9m0XkRhMdFkPC-F3OG0ghf0npJc1R6tjIT2VK0a0RrWwaSYJryWAmRIJ1BqIVPpOhflcRgxTJI8OImZM55zFjm0dBmNGfS79Yh8jTy32wF3NYdzqHfUMJC40G8Te14xf3jBvWTjReHkoOyCAc7ucU7AYGJHlPZDO8UTdw6BpK0wBQuLrLNMw3gdLPstSj3Se1umyqnKymSnAyRvhVjHfksKu2EZ-K4zdiZcjeknvXeCE3sWDS6sWwddIeEs5upoOFX3IqoPKjILjgpSR77hPOlWM_jaiXjTs2Fs-5-b75m3v3_5-xj3wzT_rMr_gAvZILO",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE0zQjRiWEZvWjFCQ1kxOXFOVWhYVTA1MVlVc3RlR0ZmT0ZWblJsazFNM1J5UldoMGFEWnFiMEk1TUdWRlltWmthMVJyWm1vNVVrVnNVREV3VkhKMmRYcHpjRmd0YlhNdFNVNXliazVYYTBGSWJVZHdjbHBzUlVWQ1p4SVhlRkYxYW1GMGJqVk1MVTkzZHpoalVIZGxabTVuVVRBYUlrRkVjM0k1WmxGb1ExSklNMWczWDNCd0xWSldabFZwUlU1SWRrTktTM0oxZW1jIiwiZmN2IjoiMyIsImVpIjoieFF1amF0bjVMLU93dzhjUHdlZm5nUTAiLCJxYyI6IkNpVmhiR0Z1SUdJZ2MyaGxjR0Z5WkNCdFlYSmphR2x1WnlCaVlXNWtJR2xzYkdsdWIybHpFQUI5ekpmbVBnIiwicXVlc3Rpb24iOiJIb3cgaGFyZCBpcyBpdCB0byBnZXQgaW50byBtYXJjaGluZyBpbGxpbmk/IiwibGsiOiJHaXBvYjNjZ2FHRnlaQ0JwY3lCcGRDQjBieUJuWlhRZ2FXNTBieUJ0WVhKamFHbHVaeUJwYkd4cGJtayIsImJzIjoiYzUyUU1RLUNNQkNGNDlySm1lbG1KUTRZUlNjMm83TXhERTZGTnR3bHRhZHRDZjU4Z1JDTmcwVGQzdkI5THk5UDNNUTZSd2J5RUZCRG9YMEFwQXJCbDhoczRDSmRpV1FyS0tSVlFCWU94cEJsOGxtU1Jxdm1GNU1HVTV6RmZNOE5vSFNxc3lsQVlLaDBhS0UyUEwyZXB5eUpveGwtall0YWJIS1VBYVRUX2E3QVYxaC1IdWE3WlIxM09tYkpOa3FiZjl6YWk3dlk1VWdsanRGZGJjbldrOUpPcTlkclEwdkR6cWdzV1VUeC1KZi1UWmhPSGciLCJpZCI6ImZjX3hRdWphdG41TC1Pd3c4Y1B3ZWZuZ1EwXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE0zQjRiWEZvWjFCQ1kxOXFOVWhYVTA1MVlVc3RlR0ZmT0ZWblJsazFNM1J5UldoMGFEWnFiMEk1TUdWRlltWmthMVJyWm1vNVVrVnNVREV3VkhKMmRYcHpjRmd0YlhNdFNVNXliazVYYTBGSWJVZHdjbHBzUlVWQ1p4SVhlRkYxYW1GMGJqVk1MVTkzZHpoalVIZGxabTVuVVRBYUlrRkVjM0k1WmxGb1ExSklNMWczWDNCd0xWSldabFZwUlU1SWRrTktTM0oxZW1jIiwiZmN2IjoiMyIsImVpIjoieFF1amF0bjVMLU93dzhjUHdlZm5nUTAiLCJxYyI6IkNpVmhiR0Z1SUdJZ2MyaGxjR0Z5WkNCdFlYSmphR2x1WnlCaVlXNWtJR2xzYkdsdWIybHpFQUI5ekpmbVBnIiwicXVlc3Rpb24iOiJIb3cgaGFyZCBpcyBpdCB0byBnZXQgaW50byBtYXJjaGluZyBpbGxpbmk%2FIiwibGsiOiJHaXBvYjNjZ2FHRnlaQ0JwY3lCcGRDQjBieUJuWlhRZ2FXNTBieUJ0WVhKamFHbHVaeUJwYkd4cGJtayIsImJzIjoiYzUyUU1RLUNNQkNGNDlySm1lbG1KUTRZUlNjMm83TXhERTZGTnR3bHRhZHRDZjU4Z1JDTmcwVGQzdkI5THk5UDNNUTZSd2J5RUZCRG9YMEFwQXJCbDhoczRDSmRpV1FyS0tSVlFCWU94cEJsOGxtU1Jxdm1GNU1HVTV6RmZNOE5vSFNxc3lsQVlLaDBhS0UyUEwyZXB5eUpveGwtall0YWJIS1VBYVRUX2E3QVYxaC1IdWE3WlIxM09tYkpOa3FiZjl6YWk3dlk1VWdsanRGZGJjbldrOUpPcTlkclEwdkR6cWdzV1VUeC1KZi1UWmhPSGciLCJpZCI6ImZjX3hRdWphdG41TC1Pd3c4Y1B3ZWZuZ1EwXzUifQ%3D%3D"
+  },
+  {
+   "question": "What are the top 3 high school marching bands in the US?",
+   "type": "ai_overview",
+   "page_token": "VQ8Qp3icHZBNbuIwGEA1l2FZ4gQYFQlVCiRhIuLUX_wT2IyMDQTb-WnJNG12vcKcYU7V0xTN6q3eW7zPf-7a2K8ff6u-727L6XQYhodL217c6UG19VTePho1VdK5o1R2ufi5QE9ntYreVLh-VSFhXcc34NEtbyTihiUDUmW3BkPmRQBNvrFjZpHgjdtik161TVvlP26ogUwnc8A-jw7lwRQu9bJGb1XE5nff5DG_qhFukuKaWs4hcs_K10RYsHsahiJBTBrSExHPdiUWLIl95mFRbCE4cuZTlqZ5dPNkA-44YovLDvERnhnD9s4PnbwfJMf5XvS7rLGjsDxQ9vJOGKxPNRqwH-8kimtSIHtvYxZrumfVjIxgokrPWMlf9iX8wWzoaaCDPMFE-7w-1hqysL3eO6MyrmauHQ7CQ-D1nAtMpasKllQBoXh3in95MEJFyOSs3lbB5P_r1e9z3S-71_byDWOhjSQ",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=VQ8Qp3icHZBNbuIwGEA1l2FZ4gQYFQlVCiRhIuLUX_wT2IyMDQTb-WnJNG12vcKcYU7V0xTN6q3eW7zPf-7a2K8ff6u-727L6XQYhodL217c6UG19VTePho1VdK5o1R2ufi5QE9ntYreVLh-VSFhXcc34NEtbyTihiUDUmW3BkPmRQBNvrFjZpHgjdtik161TVvlP26ogUwnc8A-jw7lwRQu9bJGb1XE5nff5DG_qhFukuKaWs4hcs_K10RYsHsahiJBTBrSExHPdiUWLIl95mFRbCE4cuZTlqZ5dPNkA-44YovLDvERnhnD9s4PnbwfJMf5XvS7rLGjsDxQ9vJOGKxPNRqwH-8kimtSIHtvYxZrumfVjIxgokrPWMlf9iX8wWzoaaCDPMFE-7w-1hqysL3eO6MyrmauHQ7CQ-D1nAtMpasKllQBoXh3in95MEJFyOSs3lbB5P_r1e9z3S-71_byDWOhjSQ",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE0zQjRiWEZvWjFCQ1kxOXFOVWhYVTA1MVlVc3RlR0ZmT0ZWblJsazFNM1J5UldoMGFEWnFiMEk1TUdWRlltWmthMVJyWm1vNVVrVnNVREV3VkhKMmRYcHpjRmd0YlhNdFNVNXliazVYYTBGSWJVZHdjbHBzUlVWQ1p4SVhlRkYxYW1GMGJqVk1MVTkzZHpoalVIZGxabTVuVVRBYUlrRkVjM0k1WmxGb1ExSklNMWczWDNCd0xWSldabFZwUlU1SWRrTktTM0oxZW1jIiwiZmN2IjoiMyIsImVpIjoieFF1amF0bjVMLU93dzhjUHdlZm5nUTAiLCJxYyI6IkNpVmhiR0Z1SUdJZ2MyaGxjR0Z5WkNCdFlYSmphR2x1WnlCaVlXNWtJR2xzYkdsdWIybHpFQUI5ekpmbVBnIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgdG9wIDMgaGlnaCBzY2hvb2wgbWFyY2hpbmcgYmFuZHMgaW4gdGhlIFVTPyIsImxrIjoiYzVNeUw4OUlMRkZJTEVwVktNa0E0dndDQldPRmpNejBESVhpNUl6OF9CeUYzTVNpNUl6TXZIU0ZwTVM4bEdLRnpEeXd1dEppQUEiLCJicyI6ImM1MlFNUS1DTUJDRjQ5ckptZWxtSlE0WVJTYzJvN014REU2Rk50d2x0YWR0Q2Y1OGdSQ05nMFRkM3ZCOUx5OVAzTVE2UndieUVGQkRvWDBBcEFyQmw4aHM0Q0pkaVdRcktLUlZRQllPeHBCbDhsbVNScXZtRjVNR1U1ekZmTThOb0hTcXN5bEFZS2gwYUtFMlBMMmVweXlKb3hsLWpZdGFiSEtVQWFUVF9hN0FWMWgtSHVhN1pSMTNPbWJKTmtxYmY5emFpN3ZZNVVnbGp0RmRiY25XazlKT3E5ZHJRMHZEenFnc1dVVHgtSmYtVFpoT0hnIiwiaWQiOiJmY194UXVqYXRuNUwtT3d3OGNQd2VmbmdRMF81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE0zQjRiWEZvWjFCQ1kxOXFOVWhYVTA1MVlVc3RlR0ZmT0ZWblJsazFNM1J5UldoMGFEWnFiMEk1TUdWRlltWmthMVJyWm1vNVVrVnNVREV3VkhKMmRYcHpjRmd0YlhNdFNVNXliazVYYTBGSWJVZHdjbHBzUlVWQ1p4SVhlRkYxYW1GMGJqVk1MVTkzZHpoalVIZGxabTVuVVRBYUlrRkVjM0k1WmxGb1ExSklNMWczWDNCd0xWSldabFZwUlU1SWRrTktTM0oxZW1jIiwiZmN2IjoiMyIsImVpIjoieFF1amF0bjVMLU93dzhjUHdlZm5nUTAiLCJxYyI6IkNpVmhiR0Z1SUdJZ2MyaGxjR0Z5WkNCdFlYSmphR2x1WnlCaVlXNWtJR2xzYkdsdWIybHpFQUI5ekpmbVBnIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgdG9wIDMgaGlnaCBzY2hvb2wgbWFyY2hpbmcgYmFuZHMgaW4gdGhlIFVTPyIsImxrIjoiYzVNeUw4OUlMRkZJTEVwVktNa0E0dndDQldPRmpNejBESVhpNUl6OF9CeUYzTVNpNUl6TXZIU0ZwTVM4bEdLRnpEeXd1dEppQUEiLCJicyI6ImM1MlFNUS1DTUJDRjQ5ckptZWxtSlE0WVJTYzJvN014REU2Rk50d2x0YWR0Q2Y1OGdSQ05nMFRkM3ZCOUx5OVAzTVE2UndieUVGQkRvWDBBcEFyQmw4aHM0Q0pkaVdRcktLUlZRQllPeHBCbDhsbVNScXZtRjVNR1U1ekZmTThOb0hTcXN5bEFZS2gwYUtFMlBMMmVweXlKb3hsLWpZdGFiSEtVQWFUVF9hN0FWMWgtSHVhN1pSMTNPbWJKTmtxYmY5emFpN3ZZNVVnbGp0RmRiY25XazlKT3E5ZHJRMHZEenFnc1dVVHgtSmYtVFpoT0hnIiwiaWQiOiJmY194UXVqYXRuNUwtT3d3OGNQd2VmbmdRMF81In0%3D"
+  },
+  {
+   "question": "Which high school marching bands are considered the best in the world?",
+   "type": "ai_overview",
+   "page_token": "CZyBt3icHdFNcpswGADQ6WWyjC3T0tozns4ARqkbi0igD6NNByT-jASqjQP2LnfpOgfKadrpFd57-6Pbvvv49N6Mo71sFotpmh7rYah1-SgHs8gvt14uZK51kctu43510fdKbnfD5PuXyaPcWgjYMjYkKjoAybu5TOr7AZFrBpomSCG51FXmZHcRwMDThogjzDLQsQgBFRi8PCWuxE2U9p4gzmEs0vVLbnYoDoVLjMWks1eCvs1FKtoo8HrKETqgdaxShgRGfgS7MXesR9rl_JyEIej1c9Zd5hjPLuwEF0_sRsHmsofXHGtfnQ5TfKpXaYu-lInnCB9VCkIcpdM97u2PCHcjYGZjvN8zTViZqhsY-7NA2Zwne0-ZGdFjk8ql4sIQyjoNyUqMScDOu0Z95kf4nR3ZlfBpTBzlRJhQtQJTGMUO3tBSzu7ypM0_qlO-slMZeCcKzPKn_Xh0oGJ4f454NsV8_ULpQyVft87D_4ftr8qMG3se6r8a6ZfH",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=CZyBt3icHdFNcpswGADQ6WWyjC3T0tozns4ARqkbi0igD6NNByT-jASqjQP2LnfpOgfKadrpFd57-6Pbvvv49N6Mo71sFotpmh7rYah1-SgHs8gvt14uZK51kctu43510fdKbnfD5PuXyaPcWgjYMjYkKjoAybu5TOr7AZFrBpomSCG51FXmZHcRwMDThogjzDLQsQgBFRi8PCWuxE2U9p4gzmEs0vVLbnYoDoVLjMWks1eCvs1FKtoo8HrKETqgdaxShgRGfgS7MXesR9rl_JyEIej1c9Zd5hjPLuwEF0_sRsHmsofXHGtfnQ5TfKpXaYu-lInnCB9VCkIcpdM97u2PCHcjYGZjvN8zTViZqhsY-7NA2Zwne0-ZGdFjk8ql4sIQyjoNyUqMScDOu0Z95kf4nR3ZlfBpTBzlRJhQtQJTGMUO3tBSzu7ypM0_qlO-slMZeCcKzPKn_Xh0oGJ4f454NsV8_ULpQyVft87D_4ftr8qMG3se6r8a6ZfH",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE0zQjRiWEZvWjFCQ1kxOXFOVWhYVTA1MVlVc3RlR0ZmT0ZWblJsazFNM1J5UldoMGFEWnFiMEk1TUdWRlltWmthMVJyWm1vNVVrVnNVREV3VkhKMmRYcHpjRmd0YlhNdFNVNXliazVYYTBGSWJVZHdjbHBzUlVWQ1p4SVhlRkYxYW1GMGJqVk1MVTkzZHpoalVIZGxabTVuVVRBYUlrRkVjM0k1WmxGb1ExSklNMWczWDNCd0xWSldabFZwUlU1SWRrTktTM0oxZW1jIiwiZmN2IjoiMyIsImVpIjoieFF1amF0bjVMLU93dzhjUHdlZm5nUTAiLCJxYyI6IkNpVmhiR0Z1SUdJZ2MyaGxjR0Z5WkNCdFlYSmphR2x1WnlCaVlXNWtJR2xzYkdsdWIybHpFQUI5ekpmbVBnIiwicXVlc3Rpb24iOiJXaGljaCBoaWdoIHNjaG9vbCBtYXJjaGluZyBiYW5kcyBhcmUgY29uc2lkZXJlZCB0aGUgYmVzdCBpbiB0aGUgd29ybGQ/IiwibGsiOiJHaXhpWlhOMElHaHBaMmdnYzJOb2IyOXNJRzFoY21Ob2FXNW5JR0poYm1SeklHbHVJSFJvWlNCM2IzSnNaQSIsImJzIjoiYzUyUU1RLUNNQkNGNDlySm1lbG1KUTRZUlNjMm83TXhERTZGTnR3bHRhZHRDZjU4Z1JDTmcwVGQzdkI5THk5UDNNUTZSd2J5RUZCRG9YMEFwQXJCbDhoczRDSmRpV1FyS0tSVlFCWU94cEJsOGxtU1Jxdm1GNU1HVTV6RmZNOE5vSFNxc3lsQVlLaDBhS0UyUEwyZXB5eUpveGwtall0YWJIS1VBYVRUX2E3QVYxaC1IdWE3WlIxM09tYkpOa3FiZjl6YWk3dlk1VWdsanRGZGJjbldrOUpPcTlkclEwdkR6cWdzV1VUeC1KZi1UWmhPSGciLCJpZCI6ImZjX3hRdWphdG41TC1Pd3c4Y1B3ZWZuZ1EwXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE0zQjRiWEZvWjFCQ1kxOXFOVWhYVTA1MVlVc3RlR0ZmT0ZWblJsazFNM1J5UldoMGFEWnFiMEk1TUdWRlltWmthMVJyWm1vNVVrVnNVREV3VkhKMmRYcHpjRmd0YlhNdFNVNXliazVYYTBGSWJVZHdjbHBzUlVWQ1p4SVhlRkYxYW1GMGJqVk1MVTkzZHpoalVIZGxabTVuVVRBYUlrRkVjM0k1WmxGb1ExSklNMWczWDNCd0xWSldabFZwUlU1SWRrTktTM0oxZW1jIiwiZmN2IjoiMyIsImVpIjoieFF1amF0bjVMLU93dzhjUHdlZm5nUTAiLCJxYyI6IkNpVmhiR0Z1SUdJZ2MyaGxjR0Z5WkNCdFlYSmphR2x1WnlCaVlXNWtJR2xzYkdsdWIybHpFQUI5ekpmbVBnIiwicXVlc3Rpb24iOiJXaGljaCBoaWdoIHNjaG9vbCBtYXJjaGluZyBiYW5kcyBhcmUgY29uc2lkZXJlZCB0aGUgYmVzdCBpbiB0aGUgd29ybGQ%2FIiwibGsiOiJHaXhpWlhOMElHaHBaMmdnYzJOb2IyOXNJRzFoY21Ob2FXNW5JR0poYm1SeklHbHVJSFJvWlNCM2IzSnNaQSIsImJzIjoiYzUyUU1RLUNNQkNGNDlySm1lbG1KUTRZUlNjMm83TXhERTZGTnR3bHRhZHRDZjU4Z1JDTmcwVGQzdkI5THk5UDNNUTZSd2J5RUZCRG9YMEFwQXJCbDhoczRDSmRpV1FyS0tSVlFCWU94cEJsOGxtU1Jxdm1GNU1HVTV6RmZNOE5vSFNxc3lsQVlLaDBhS0UyUEwyZXB5eUpveGwtall0YWJIS1VBYVRUX2E3QVYxaC1IdWE3WlIxM09tYkpOa3FiZjl6YWk3dlk1VWdsanRGZGJjbldrOUpPcTlkclEwdkR6cWdzV1VUeC1KZi1UWmhPSGciLCJpZCI6ImZjX3hRdWphdG41TC1Pd3c4Y1B3ZWZuZ1EwXzUifQ%3D%3D"
+  }
+ ],
+ "ai_overview": {
+  "page_token": "yTa52XiczVbZkqJIFP2A-Y7mxVLBpdSKIDoyU8rApex0KZcXAhNMUAELVLT6af5lvmq-ZpLFEhWtrn7omBuh5HKXkzfv4fL3PyvTXv77109js1l7T_m87_s56jh0peeIY-VV72CT_NxZeS4xvhsrUbc5uhK3HnfYiUWOeCLP6aa4x9uFurHL7WzX96vkh6_PbYp5LjQXlZnq6Qvmfb_w8kqe_S2_FetskvNyup3rTV1KXDyYZzu5Ai_Uct28ajEF8AcFAwoQQJgN0W2txq85oxRIADRPCyjyKSVUggkGEoXRHOIbuGSmGuLDKEJW99-zkxkbqJFGPdhMF5TcgDTUgzD0B_oQ3DZMlQgporHvu7pS6ipKOgik86kJwzg5RyED9MOPU5yGRJLPEOMoCIU-WPhzKkkSvIObJWTow3IrsLijxqSF5YEfQ-jUR0AGeY2youXzM5c9hLxJDBIOXC-oZTSo8c4zfivTqSubOgADq5sd9lqO8mjutkVmTmZMb-Womq4phsJ_D-dCQSjztWKl-hCSiHgfLPKSLFpbJVRRpkjYVHPtHBSOFGK5kdOzxOZIBtcC4zJLvWAZHC9D-kgwW5VRIl3D-GkA6OCgbhO-gYNJmLDjih7Wr366khOkIMI1hS6hBRQKjWAUGibhHVUohSmmTMjVCa-qkMX1oxG9ZD--qCQJo2UyhH-2y0D2DSlIVMCAVyJFABI-UBBeOprj4xoNLvGYdwTPtqUkhUwaZJ2FpX2m2MS0FZjDjzuA8eFg85L45uWpQ3lm_uBE_tpb4uO0918Qkc6RKxeln6RMo9TQDhqd6iT7VgOCmuXnjdF0WFZ6cz-dIo41-0KnIf8vEsV9aBjb3iCRHgw-JxFlr7ubfSganvpQRCKIb5BIjkiU0of0SCPRhy5JhPoJEn3Sh75KInSXRMPj2jWJAgdpJFreIFHchxIk6p_3oQsSxX3oRKLf6UPot_pQyCk9epw3pe2C3m5Oj22zN3gHRt187ZH5FMm9F6fi9l_Wj_TT5jS3Nk-Wqq0eFFN7goXm5qA9KGzBedI17k38ViiAlWpnYC7TN_S16mqZjsq-KE2bZqBqa2w_I6_Yp6hjepy1ch2RV8vVMt-1N_J2tOsbLf3FFxa0O1iMtLkwIsbwMDXwaF-pAnLo1nC_u7fqPb63xFJ3WRIGpGgXSxV5P-gUXttjY2xkJ8Mx2wKdamMMn_etsmEt1pLZeRwfpjv0Zr93vVGvJeyrU0EuHWo91cq-lpSxFqLxxHZxWncky3zP-pzlEpFdTMkGTQxGlNUfmjBasLpGDvv57PcIsAQ5j6iK7u1Evjib6yxZhMy0WqkgcBbdHNZiSeA82xWF_wB25D_H",
+  "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=yTa52XiczVbZkqJIFP2A-Y7mxVLBpdSKIDoyU8rApex0KZcXAhNMUAELVLT6af5lvmq-ZpLFEhWtrn7omBuh5HKXkzfv4fL3PyvTXv77109js1l7T_m87_s56jh0peeIY-VV72CT_NxZeS4xvhsrUbc5uhK3HnfYiUWOeCLP6aa4x9uFurHL7WzX96vkh6_PbYp5LjQXlZnq6Qvmfb_w8kqe_S2_FetskvNyup3rTV1KXDyYZzu5Ai_Uct28ajEF8AcFAwoQQJgN0W2txq85oxRIADRPCyjyKSVUggkGEoXRHOIbuGSmGuLDKEJW99-zkxkbqJFGPdhMF5TcgDTUgzD0B_oQ3DZMlQgporHvu7pS6ipKOgik86kJwzg5RyED9MOPU5yGRJLPEOMoCIU-WPhzKkkSvIObJWTow3IrsLijxqSF5YEfQ-jUR0AGeY2youXzM5c9hLxJDBIOXC-oZTSo8c4zfivTqSubOgADq5sd9lqO8mjutkVmTmZMb-Womq4phsJ_D-dCQSjztWKl-hCSiHgfLPKSLFpbJVRRpkjYVHPtHBSOFGK5kdOzxOZIBtcC4zJLvWAZHC9D-kgwW5VRIl3D-GkA6OCgbhO-gYNJmLDjih7Wr366khOkIMI1hS6hBRQKjWAUGibhHVUohSmmTMjVCa-qkMX1oxG9ZD--qCQJo2UyhH-2y0D2DSlIVMCAVyJFABI-UBBeOprj4xoNLvGYdwTPtqUkhUwaZJ2FpX2m2MS0FZjDjzuA8eFg85L45uWpQ3lm_uBE_tpb4uO0918Qkc6RKxeln6RMo9TQDhqd6iT7VgOCmuXnjdF0WFZ6cz-dIo41-0KnIf8vEsV9aBjb3iCRHgw-JxFlr7ubfSganvpQRCKIb5BIjkiU0of0SCPRhy5JhPoJEn3Sh75KInSXRMPj2jWJAgdpJFreIFHchxIk6p_3oQsSxX3oRKLf6UPot_pQyCk9epw3pe2C3m5Oj22zN3gHRt187ZH5FMm9F6fi9l_Wj_TT5jS3Nk-Wqq0eFFN7goXm5qA9KGzBedI17k38ViiAlWpnYC7TN_S16mqZjsq-KE2bZqBqa2w_I6_Yp6hjepy1ch2RV8vVMt-1N_J2tOsbLf3FFxa0O1iMtLkwIsbwMDXwaF-pAnLo1nC_u7fqPb63xFJ3WRIGpGgXSxV5P-gUXttjY2xkJ8Mx2wKdamMMn_etsmEt1pLZeRwfpjv0Zr93vVGvJeyrU0EuHWo91cq-lpSxFqLxxHZxWncky3zP-pzlEpFdTMkGTQxGlNUfmjBasLpGDvv57PcIsAQ5j6iK7u1Evjib6yxZhMy0WqkgcBbdHNZiSeA82xWF_wB25D_H"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "ABSBANDS - Marching Band",
+   "link": "https://sites.google.com/chsd218.org/absbands/ensembles/marching-band",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sites.google.com/chsd218.org/absbands/ensembles/marching-band&ved=2ahUKEwiZ8IqT5uSWAxVj2PACHcHzOdAQFnoECCQQAQ",
+   "displayed_link": "https://sites.google.com \u203a absbands \u203a ensembles \u203a marchi...",
+   "snippet": "The Alan B. Shepard Marching Band is a competitive co-curricular ensemble that meets beginning in July and performs through the fall athletic season.",
+   "snippet_highlighted_words": [
+    "Alan B. Shepard Marching Band"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The Alan B. Shepard Marching Band is a competitive co-curricular ensemble that meets beginning in July and performs through the fall athletic season.",
+     "source_info_link": "https://sites.google.com/chsd218.org/absbands/ensembles/marching-band"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://sites.google.com/chsd218.org/absbands/ensembles/marching-band&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fsites.google.com%2Fchsd218.org%2Fabsbands%2Fensembles%2Fmarching-band",
+   "source": "Google"
+  },
+  {
+   "position": 2,
+   "title": "CBS Chicago profiles retiring band director Chris Pitlik",
+   "link": "https://www.facebook.com/ShepardHighSchool/posts/cbs-chicago-profile-of-chris-pitliktonight-cbs-chicago-will-air-the-anticipated-/1023978462420719/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESzAEB6zswFdyNZjIJoSHdpdDM_BAJECTGKuM71OC0Ap8txyMWKn4uLzV3TklOUDBBa5xv8t7TFIc3pyppbu2HbDJphI0PvWMSFhhrydt9cINrH8CHAP8No_lRJxqHAoOYff9o3ocbZsOOliz6iZd6IBf7Y93qPvocdTCsEiWf9R8f0CqpSUfWiljoqu7l9P67h9ObiSd-pBD0-gyIluMeGswEjhfYFjhUOs4SZ9miJg19ShAqKJhlqXNAREsx5HlbojBQLDTyoeiuDi-rZEo&ved=2ahUKEwiZ8IqT5uSWAxVj2PACHcHzOdAQFnoECC8QAQ&uoh=1",
+   "displayed_link": "250+ reactions \u00b7 2 years ago",
+   "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "snippet": "Come out this fall and come see the 2024 Alan B. Shepard Marching Band perform \u201cCirque Sinistr\u00e9\u201d the circus you can see but never leave\u2026\u2026\u2026\u2026\u2026",
+   "snippet_highlighted_words": [
+    "Alan B. Shepard Marching Band"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Come out this fall and come see the 2024 Alan B. Shepard Marching Band perform \u201cCirque Sinistr\u00e9\u201d the circus you can see but never leave\u2026\u2026\u2026\u2026\u2026",
+     "source_info_link": "https://www.facebook.com/ShepardHighSchool/posts/cbs-chicago-profile-of-chris-pitliktonight-cbs-chicago-will-air-the-anticipated-/1023978462420719/",
+     "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESzAEB6zswFdyNZjIJoSHdpdDM_BAJECTGKuM71OC0Ap8txyMWKn4uLzV3TklOUDBBa5xv8t7TFIc3pyppbu2HbDJphI0PvWMSFhhrydt9cINrH8CHAP8No_lRJxqHAoOYff9o3ocbZsOOliz6iZd6IBf7Y93qPvocdTCsEiWf9R8f0CqpSUfWiljoqu7l9P67h9ObiSd-pBD0-gyIluMeGswEjhfYFjhUOs4SZ9miJg19ShAqKJhlqXNAREsx5HlbojBQLDTyoeiuDi-rZEo&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESzAEB6zswFdyNZjIJoSHdpdDM_BAJECTGKuM71OC0Ap8txyMWKn4uLzV3TklOUDBBa5xv8t7TFIc3pyppbu2HbDJphI0PvWMSFhhrydt9cINrH8CHAP8No_lRJxqHAoOYff9o3ocbZsOOliz6iZd6IBf7Y93qPvocdTCsEiWf9R8f0CqpSUfWiljoqu7l9P67h9ObiSd-pBD0-gyIluMeGswEjhfYFjhUOs4SZ9miJg19ShAqKJhlqXNAREsx5HlbojBQLDTyoeiuDi-rZEo",
+   "source": "Facebook \u00b7 Alan B. Shepard High School",
+   "read_more_link": "https://www.facebook.com/ShepardHighSchool/posts/cbs-chicago-profile-of-chris-pitliktonight-cbs-chicago-will-air-the-anticipated-/1023978462420719/#:~:text=Come%20out%20this%20fall%20and,can%20see%20but%20never%20leave%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6"
+  },
+  {
+   "position": 3,
+   "title": "6abc Dunkin' Thanksgiving Day Parade Facts for Kids",
+   "link": "https://kids.kiddle.co/6abc_Dunkin%27_Thanksgiving_Day_Parade",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAVmyt4IeWkntXREF8sNiISByzg_1pzKV3j9Q0o7oElx6m1ZoK73htgjQRm4Yv0OSZ3EbOybtJBCxGpBHMTbnqIODvuzoMsPCcCLlB-Ye0BCENEsugos0X1Bj94LVGem2OWRj0YJYucxJFZENVLvD8ruw&ved=2ahUKEwiZ8IqT5uSWAxVj2PACHcHzOdAQFnoECDAQAQ&uoh=1",
+   "displayed_link": "https://kids.kiddle.co \u203a ...",
+   "favicon": "https://serpapi.com/images/i/UklGRh4BAABXRUJQVlA4IBIBAABwBgCdASocABwAPtEutFooIagoGAEAGglsAJ0vr59EX4K0D3Mn2rg-tQtMhjf9AcngDvNN3rpkY0tsgt4A_F2NdWouACEkH2TD7Rvd7fxsqebiADAc2M_kzgx2TYRdQQiLFdFbKiDJyGgBYOPuOKdgWlq0wr6wpeP2MaBOA7H1GwuW9hCjj3fStAaGt0BydDj49koPo33NzfTcjXvu2J3VK9Qqqq4ikSbhfN8Ysw6nQrwX_Iuy_qs4rSzPY3hldZFSgHva2L2aTsJbrYT8SlW9kz3Baw3I5__iQg7xvF2B_NOlVgzkIdSQn71xukxMh9zWiGamd03TWROYP-LvTeNIyKU1cLmEh7CRZ3kmVAoTAAAA.webp",
+   "date": "Feb 25, 2026",
+   "snippet": "... Alan B. Shepard Marching Band (Palos Heights, IL), Pennsbury High School Marching Band (Fairless Hills, PA), The Sound of Brownsburg High ...",
+   "snippet_highlighted_words": [
+    "Alan B. Shepard Marching Band",
+    "IL"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "... Alan B. Shepard Marching Band (Palos Heights, IL), Pennsbury High School Marching Band (Fairless Hills, PA), The Sound of Brownsburg High ...",
+     "source_info_link": "https://kids.kiddle.co/6abc_Dunkin%27_Thanksgiving_Day_Parade",
+     "icon": "https://serpapi.com/images/i/UklGRh4BAABXRUJQVlA4IBIBAABwBgCdASocABwAPtEutFooIagoGAEAGglsAJ0vr59EX4K0D3Mn2rg-tQtMhjf9AcngDvNN3rpkY0tsgt4A_F2NdWouACEkH2TD7Rvd7fxsqebiADAc2M_kzgx2TYRdQQiLFdFbKiDJyGgBYOPuOKdgWlq0wr6wpeP2MaBOA7H1GwuW9hCjj3fStAaGt0BydDj49koPo33NzfTcjXvu2J3VK9Qqqq4ikSbhfN8Ysw6nQrwX_Iuy_qs4rSzPY3hldZFSgHva2L2aTsJbrYT8SlW9kz3Baw3I5__iQg7xvF2B_NOlVgzkIdSQn71xukxMh9zWiGamd03TWROYP-LvTeNIyKU1cLmEh7CRZ3kmVAoTAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdQHrOzAVmyt4IeWkntXREF8sNiISByzg_1pzKV3j9Q0o7oElx6m1ZoK73htgjQRm4Yv0OSZ3EbOybtJBCxGpBHMTbnqIODvuzoMsPCcCLlB-Ye0BCENEsugos0X1Bj94LVGem2OWRj0YJYucxJFZENVLvD8ruw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdQHrOzAVmyt4IeWkntXREF8sNiISByzg_1pzKV3j9Q0o7oElx6m1ZoK73htgjQRm4Yv0OSZ3EbOybtJBCxGpBHMTbnqIODvuzoMsPCcCLlB-Ye0BCENEsugos0X1Bj94LVGem2OWRj0YJYucxJFZENVLvD8ruw",
+   "source": "Kids encyclopedia facts",
+   "read_more_link": "https://kids.kiddle.co/6abc_Dunkin%27_Thanksgiving_Day_Parade#:~:text=Alan%20B.%20Shepard%20Marching%20Band,The%20Sound%20of%20Brownsburg%20High"
+  },
+  {
+   "position": 4,
+   "title": "Imma come back to the tl soon, I promise",
+   "link": "https://www.instagram.com/p/C5hjNdRMbxb/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAVPUgqTW9gLWXZ6RN5xaWCVbbJelXY0DJeI9UsdN_iFVdcNKkxGY9gFhA7jDQQBtkGA2kV8v27PwYswC68x6-35QCQPcXM8ZwZAfahpc3dBMFjnnvon2O6Spaweg&ved=2ahUKEwiZ8IqT5uSWAxVj2PACHcHzOdAQFnoECDUQAQ&uoh=1",
+   "displayed_link": "https://www.instagram.com \u203a ...",
+   "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+   "snippet": "Alan B. Shepard Marching Band 2023 Shepard Astros Six Flags Great America UIC Alan B. Shepard High School Band. rickyisricky26's profile picture ...",
+   "snippet_highlighted_words": [
+    "Alan B. Shepard Marching Band"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Alan B. Shepard Marching Band 2023 Shepard Astros Six Flags Great America UIC Alan B. Shepard High School Band. rickyisricky26's profile picture ...",
+     "source_info_link": "https://www.instagram.com/p/C5hjNdRMbxb/",
+     "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYAHrOzAVPUgqTW9gLWXZ6RN5xaWCVbbJelXY0DJeI9UsdN_iFVdcNKkxGY9gFhA7jDQQBtkGA2kV8v27PwYswC68x6-35QCQPcXM8ZwZAfahpc3dBMFjnnvon2O6Spaweg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYAHrOzAVPUgqTW9gLWXZ6RN5xaWCVbbJelXY0DJeI9UsdN_iFVdcNKkxGY9gFhA7jDQQBtkGA2kV8v27PwYswC68x6-35QCQPcXM8ZwZAfahpc3dBMFjnnvon2O6Spaweg",
+   "source": "Instagram"
+  },
+  {
+   "position": 5,
+   "title": "6abc Dunkin' Donuts Thanksgiving Day Parade",
+   "link": "https://dig.abclocal.go.com/wpvi/html/tdp2015/index.html",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHrOzAVW_bS5kQWwF8NELutF18TbmAf1Ihw4LfQ0c0oTi6UoHT0gRSbxLkUpz1tsuu-PJmB1SRDA1XMsPpHh9uJhFzOPA8_q3uFusmcbl6QmV5zuWtOPCgLWHd6Vdc1MIOFEi8wEPK5aclarqgyK10&ved=2ahUKEwiZ8IqT5uSWAxVj2PACHcHzOdAQFnoECDMQAQ&uoh=1",
+   "displayed_link": "https://dig.abclocal.go.com \u203a wpvi \u203a html \u203a tdp2015",
+   "snippet": "Alan B. Shepard Marching Band Palos Heights, Il; Pennsbury High School Marching Band Fairless Hills, PA; The Sound Of Brownsburg High School Marching Band",
+   "snippet_highlighted_words": [
+    "Alan B. Shepard Marching Band",
+    "Il"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Alan B. Shepard Marching Band Palos Heights, Il; Pennsbury High School Marching Band Fairless Hills, PA; The Sound Of Brownsburg High School Marching Band",
+     "source_info_link": "https://dig.abclocal.go.com/wpvi/html/tdp2015/index.html"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEScAHrOzAVW_bS5kQWwF8NELutF18TbmAf1Ihw4LfQ0c0oTi6UoHT0gRSbxLkUpz1tsuu-PJmB1SRDA1XMsPpHh9uJhFzOPA8_q3uFusmcbl6QmV5zuWtOPCgLWHd6Vdc1MIOFEi8wEPK5aclarqgyK10&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEScAHrOzAVW_bS5kQWwF8NELutF18TbmAf1Ihw4LfQ0c0oTi6UoHT0gRSbxLkUpz1tsuu-PJmB1SRDA1XMsPpHh9uJhFzOPA8_q3uFusmcbl6QmV5zuWtOPCgLWHd6Vdc1MIOFEi8wEPK5aclarqgyK10",
+   "source": "go.com",
+   "read_more_link": "https://dig.abclocal.go.com/wpvi/html/tdp2015/index.html#:~:text=Alan%20B.%20Shepard%20Marching%20Band,Brownsburg%20High%20School%20Marching%20Band"
+  },
+  {
+   "position": 6,
+   "title": "Lidia Molina Class of 2007 Alumni - Alan B. Shepard High ...",
+   "link": "https://ac-cdn.alumniclass.com/alan-b-shepard-high-school-astros-palos-heights-il/profile/lidia-maria/2044034/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpgEB6zswFV-G8wzeY2X62D55jWPqyOv9I2aHxOiIPDUarqPyomIxAolXxVisiPP9hT3xjaQmOyUX3KtRzpz_FzcsG-7hY6G_pds_nzLjHG8q8Q1m2gU4kCoivQtI_Lz_4-7sq3XuU9Dz61N2mwggILu34YuMDP-Tt-MWS5ACHvHAqUDTfXg0kYJgaT5eZmtCeKLswsc4imY9w7hnR9lwVY2oyV02ujPh&ved=2ahUKEwiZ8IqT5uSWAxVj2PACHcHzOdAQFnoECDQQAQ&uoh=1",
+   "displayed_link": "https://ac-cdn.alumniclass.com \u203a ... \u203a Class of 2007",
+   "favicon": "https://serpapi.com/images/i/UklGRqgAAABXRUJQVlA4IJwAAABQAwCdASoQABAAAsBMJbACdH8D2SyVCeLJ4AVYUB_3TDyGAAD--qmuKO8q1dXoR_5DqIibph5_ZrrhdVZ0GpbD9JP2Omnpuq1pqSAXrfFt-TbLz_lX_PbZtZPnjpYmq0yvITEPQA2mZY4oTmcJxzebzfwS-XJbAb-piz-eUg92ZhKpeNjkXFjX4KmhXgfbNXC60SZQC_nLQwOAAAA.webp",
+   "snippet": "IL. Country, United States. Occupation, McDonalds. Married, No. Favorite School Memory, Being part of the Alan B. Shepard Marching Band. About Me, Gone to ...",
+   "snippet_highlighted_words": [
+    "IL",
+    "Alan B. Shepard Marching Band"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "IL. Country, United States. Occupation, McDonalds. Married, No. Favorite School Memory, Being part of the Alan B. Shepard Marching Band. About Me, Gone to ...",
+     "source_info_link": "https://ac-cdn.alumniclass.com/alan-b-shepard-high-school-astros-palos-heights-il/profile/lidia-maria/2044034/",
+     "icon": "https://serpapi.com/images/i/UklGRqgAAABXRUJQVlA4IJwAAABQAwCdASoQABAAAsBMJbACdH8D2SyVCeLJ4AVYUB_3TDyGAAD--qmuKO8q1dXoR_5DqIibph5_ZrrhdVZ0GpbD9JP2Omnpuq1pqSAXrfFt-TbLz_lX_PbZtZPnjpYmq0yvITEPQA2mZY4oTmcJxzebzfwS-XJbAb-piz-eUg92ZhKpeNjkXFjX4KmhXgfbNXC60SZQC_nLQwOAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESpgEB6zswFV-G8wzeY2X62D55jWPqyOv9I2aHxOiIPDUarqPyomIxAolXxVisiPP9hT3xjaQmOyUX3KtRzpz_FzcsG-7hY6G_pds_nzLjHG8q8Q1m2gU4kCoivQtI_Lz_4-7sq3XuU9Dz61N2mwggILu34YuMDP-Tt-MWS5ACHvHAqUDTfXg0kYJgaT5eZmtCeKLswsc4imY9w7hnR9lwVY2oyV02ujPh&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESpgEB6zswFV-G8wzeY2X62D55jWPqyOv9I2aHxOiIPDUarqPyomIxAolXxVisiPP9hT3xjaQmOyUX3KtRzpz_FzcsG-7hY6G_pds_nzLjHG8q8Q1m2gU4kCoivQtI_Lz_4-7sq3XuU9Dz61N2mwggILu34YuMDP-Tt-MWS5ACHvHAqUDTfXg0kYJgaT5eZmtCeKLswsc4imY9w7hnR9lwVY2oyV02ujPh",
+   "source": "AlumniClass.com"
+  },
+  {
+   "position": 7,
+   "title": "6abc Dunkin' Thanksgiving Day Parade",
+   "link": "https://en.wikipedia.org/wiki/6abc_Dunkin%27_Thanksgiving_Day_Parade",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHrOzAVItle-ePkuxmOa7qMUKp_3P0UhiqjQwf5t2kXL8_kT_xz6QaTqGTewmkuYIJ_VOgkJIBePIbh58lQyNBTrC_4yUmv8BIaMkchJiUDUUgvbGkRmV7bj_CoL5yISZbjdY7cg9Q3JYSaHUDN6of3rhWwloPegnEGHVw&ved=2ahUKEwiZ8IqT5uSWAxVj2PACHcHzOdAQFnoECEQQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki",
+   "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+   "snippet": "... Alan B. Shepard Marching Band (Palos Heights, IL), Pennsbury High School Marching Band (Fairless Hills, PA), The Sound of Brownsburg High School Marching ...",
+   "snippet_highlighted_words": [
+    "Alan B. Shepard Marching Band",
+    "IL"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "... Alan B. Shepard Marching Band (Palos Heights, IL), Pennsbury High School Marching Band (Fairless Hills, PA), The Sound of Brownsburg High School Marching ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/6abc_Dunkin%27_Thanksgiving_Day_Parade",
+     "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESfAHrOzAVItle-ePkuxmOa7qMUKp_3P0UhiqjQwf5t2kXL8_kT_xz6QaTqGTewmkuYIJ_VOgkJIBePIbh58lQyNBTrC_4yUmv8BIaMkchJiUDUUgvbGkRmV7bj_CoL5yISZbjdY7cg9Q3JYSaHUDN6of3rhWwloPegnEGHVw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESfAHrOzAVItle-ePkuxmOa7qMUKp_3P0UhiqjQwf5t2kXL8_kT_xz6QaTqGTewmkuYIJ_VOgkJIBePIbh58lQyNBTrC_4yUmv8BIaMkchJiUDUUgvbGkRmV7bj_CoL5yISZbjdY7cg9Q3JYSaHUDN6of3rhWwloPegnEGHVw",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/6abc_Dunkin%27_Thanksgiving_Day_Parade#:~:text=Alan%20B.%20Shepard%20Marching%20Band,of%20Brownsburg%20High%20School%20Marching"
+  }
+ ],
+ "dmca_messages": {
+  "title": "Notices about Filtered Results",
+  "messages": [
+   {
+    "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 9 already displayed.If you like, you can repeat the search with the omitted results included.",
+    "highlighted_words": [
+     {
+      "link": "https://www.google.com/search?q=%22Alan+B.+Shepard+Marching+Band%22+Illinois&sca_esv=03bfe121ccbd9421&hl=en&gl=us&filter=0",
+      "text": "repeat the search with the omitted results included"
+     }
+    ]
+   }
+  ]
+ }
+}

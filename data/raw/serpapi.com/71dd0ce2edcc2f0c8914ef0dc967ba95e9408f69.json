@@ -1,0 +1,501 @@
+{
+ "search_information": {
+  "query_displayed": "\"Norwalk High School\"",
+  "total_results": 230000,
+  "time_taken_displayed": 0.26,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "local_map": {
+  "image": "https://www.google.com/maps/vt/data=4gE-MrUv5cuK2se7ZB6P1b06hM1qSUeZYV00MwH9ZP3-45xAbv_cYlP8dJG33rS6bx5Hng0ceJ2ClxKvkelkUzvAAWXxK4kPpLf7__5Q65HFctZILZrioZzfyA0-QAuqOM6yE3JCmdj_2apA5cwqIVlqhspE8K0xU92ydo6m8CTleokF9Yscv8g2tI45npVMTDCfSKf7q6OfPsmEpZqye3oDwKmrUa6Majy5NoIQ0zSwuLYd1Y3W3GQ3SudX3NNIUgOtc2Pjz7I6OPio2Q7nj7mgSeZDuVga1Ta8CszMaxbxyf9ZQHB0VRXNsiFzOqaxx9kpB3XI5ouzz4-nkozzHpnh2Xd1QgkUiz3TOIrLoX4gzwchfpz4_VB_QcLsRM9UuFqwmnRIuSxhubbwUXSYfD2uc1hdPeyVJpKbEiTAB6sKq0HXcEd2hstb4CAVfmP0vi_zS9iufRXHbP89jdMY3wcFoXhbKysBHocttgRRYgjwAlUlrkFEJQL5-k7C6qu0pSdSA84JNUIO2yEUnHMdAmYmWXe9c-r0m2gdWTynWr1ZfFnc0dzrt48HQGZrofcA3liv0pnFChfLLWo9dhwZ4WOO_pAGK858IsZmFiRn3OLoDOMERd4DCrBjLW0X_1bOsoWu3TLOHKqKFfs-z8wjLp_g5EKcGX42F3Y3tFbNDMz-LlYgc9aVTIyhSODdS_0-kGcmbxjDE1-WkYBWzAcAZCD4kxOuo-H99Umo1DlUsHtMP0y5-ndVIPCc2CEa4XH7QQL4l8TiFu-owZiEH811ZvGCOV8x_ijhFeE5IfU2H82CtoQ4zedvIVvlX2wlfbQj1EXK-1zddyPw9DYNrTvfswUhLe8pCbbX7Q0UfLxJLooE0NlT2tqWwXVZPcsoVq0wGPKinZNw9iq2VbqQzmWHWFrpdAVc4axmm_HqrCBTy64tCN_ZXGmJ7UZtRDqrG62zTztCmkBbZqSR7LUHPxnMGjery8NKyI0GXaJWuaxOijcMPxlQLHrGS5a-tpwK1QMdGEWHQ-Ocxs9_eJmPW488OfeSUMTmPhrZVob3awQEFADz4-Xt9WO0fgcEPXbDRCsjXYgrhtniKiajdVpv4DfooYSfu5PqNCa81-AjiO8wMHBmybRKK3I3NtjCI5ChGH2BB8heKivsCk9ST651awWnpOMTDxUFRZJvNpTEklX0K_UoREDLhS7TQWuBhVBJOa3Yhqlc07395DY8ZXHQUGWrrBGQ78p2yMZQ5QXaFVjqHzNTCm6GJRbLpuf9shQEMGfh8CdnMWuQWjI7yEV4WEeBEOQOlbknAFnJX6Q",
+  "gps_coordinates": {
+   "latitude": 38.75408327579141,
+   "longitude": -95.80078125
+  }
+ },
+ "local_results": {
+  "places": [
+   {
+    "position": 1,
+    "title": "Norwalk High School",
+    "type": "High school",
+    "links": {
+     "phone": "tel:(562) 210-3830",
+     "website": "http://www.norwalklancers.org/",
+     "directions": "https://www.google.com/maps/dir//Norwalk+High+School,+11356+Leffingwell+Rd,+Norwalk,+CA+90650/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80c2d2b65239086b:0x9e8b4ea54884d4d9?sa=X&ved=2ahUKEwikgYm26uSWAxXh1vACHcHQNc8Q48ADegQIGRAA&hl=en&gl=us"
+    },
+    "place_id": "11424311351548630233",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=11424311351548630233&q=%22Norwalk+High+School%22",
+    "provider_id": "/m/0768wq6",
+    "gps_coordinates": {
+     "latitude": 33.908186,
+     "longitude": -118.091736
+    },
+    "address": "11356 Leffingwell Rd, Norwalk, CA 90650",
+    "hours": "Open \u00b7 Closes 4\u202fPM",
+    "phone": "(562) 210-3830"
+   },
+   {
+    "position": 2,
+    "title": "Norwalk High School",
+    "type": "High school",
+    "links": {
+     "phone": "tel:(203) 838-4481",
+     "website": "http://nhs.norwalkps.org/",
+     "directions": "https://www.google.com/maps/dir//Norwalk+High+School,+23+Calvin+Murphy+Dr,+Norwalk,+CT+06851/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e81c25580a6f3b:0x3c01157bcd88610d?sa=X&ved=2ahUKEwikgYm26uSWAxXh1vACHcHQNc8Q48ADegQIGhAA&hl=en&gl=us"
+    },
+    "place_id": "4323760738725814541",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=4323760738725814541&q=%22Norwalk+High+School%22",
+    "provider_id": "/m/04cgd9",
+    "gps_coordinates": {
+     "latitude": 41.122263,
+     "longitude": -73.389911
+    },
+    "address": "23 Calvin Murphy Dr, Norwalk, CT 06851",
+    "phone": "(203) 838-4481"
+   },
+   {
+    "position": 3,
+    "title": "Norwalk High School",
+    "type": "High school",
+    "links": {
+     "phone": "tel:(515) 981-4201",
+     "website": "https://nhs.norwalkschools.org/",
+     "directions": "https://www.google.com/maps/dir//Norwalk+High+School,+1201+North+Ave,+Norwalk,+IA+50211/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x87eea15ab9c530ab:0x78d023d8581e026f?sa=X&ved=2ahUKEwikgYm26uSWAxXh1vACHcHQNc8Q48ADegQIGBAA&hl=en&gl=us"
+    },
+    "place_id": "8705497491805438575",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=8705497491805438575&q=%22Norwalk+High+School%22",
+    "provider_id": "/m/04f33zn",
+    "gps_coordinates": {
+     "latitude": 41.474048,
+     "longitude": -93.67028
+    },
+    "address": "1201 North Ave, Norwalk, IA 50211",
+    "hours": "Closes soon \u00b7 4\u202fPM",
+    "phone": "(515) 981-4201"
+   }
+  ],
+  "more_locations_link": "https://www.google.com/search?q=%22Norwalk+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuVCyqH7tIA5-m6iFE5K8IP36KhDQ:1789071424903&udm=1&lsack=QBCjaqThNuGtw8cPwaHX-Qw&sa=X&ved=2ahUKEwikgYm26uSWAxXh1vACHcHQNc8QjGp6BAgiEAA"
+ },
+ "knowledge_graph": {
+  "place_id": "ChIJawg5UrbSwoAR2dSESKVOi54"
+ },
+ "related_questions": [
+  {
+   "question": "What celebrities went to Norwalk High School?",
+   "type": "featured_snippet",
+   "title": "Notable alumni",
+   "link": "https://en.wikipedia.org/wiki/Norwalk_High_School_(California)",
+   "list": [
+    "Jim York (class of 1965) \u2014 pitcher for Kansas City Royals, Houston Astros, and New York Yankees.",
+    "Bob Kevoian (class of 1969) \u2014 radio host, The Bob & Tom Show.",
+    "Elijhaa Penny (class of 2011) \u2014 former fullback for the New York Giants.",
+    "Rashaad Penny (class of 2014) \u2014 running back for the Philadelphia Eagles."
+   ],
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Norwalk_High_School_...",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEUAAAD-_v7MzMw7OzsAAACVlZVJSUnm5uampqYXFxfZ2dkBAQGzs7MnJyeGhoZpaWl5eXkOJSOoAAAAAXRSTlMAQObYZgAAAGpJREFUeAFtz7UBxEAQBMHtgwXpKP9kn_k13pTXIsLH5OfD74d_SLlUtFTL2Tx0E2xvWL-gQQYBzeDRBni9QSoJegeUG6AKMyCtB7R9Q8OZ9gD6anV0mzzBd8X2nF5AVJjKGzYAO4yRv_wzhDIC9UYsU1MAAAAASUVORK5CYII.png",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFYwTkljRzUxVFZsa01sOUdZakU1U1RCa05sWnRPVWx4U1ZCR2RHNUNWRTA1VWxveWNWQmFPV1JxVG1OTFNWTlVORk5vVEZKS2JtUk5RM0pHVWpGa2RVRlZaRFJtUkRCWlFUVjBUVnBwZVVzeFdWbDVWMjlzV1d3MFp4SVhVVUpEYW1GeFZHaE9kVWQwZHpoalVIZGhTRmd0VVhjYUlrRkVjM0k1WmxKclgyUkRhMDFtTm1wMmIweDFORE5IVld4V05GZzFXakpaVDNjIiwiZmN2IjoiMyIsImVpIjoiUUJDamFxVGhOdUd0dzhjUHdhSFgtUXciLCJxYyI6IkNoTnViM0ozWVd4cklHaHBaMmdnYzJOb2IyOXNFQUI5YzJneFB3IiwicXVlc3Rpb24iOiJXaGF0IGNlbGVicml0aWVzIHdlbnQgdG8gTm9yd2FsayBIaWdoIFNjaG9vbD8iLCJsayI6IkdpeDNhR0YwSUdObGJHVmljbWwwYVdWeklIZGxiblFnZEc4Z2JtOXlkMkZzYXlCb2FXZG9JSE5qYUc5dmJBIiwiYnMiOiJjM1dQdlFyQ01CUkdjYzNrV0Ryb0J3Ny1DX1lGaWlqU3lVVkJGNFUwRFNhMEp0QUVneThqLUZBLWd1OWhXeW80dFBzNTUzNlh4R1ItRk5TQzhZekh1YlNTR3ppdUxLekdUdWVPWmlraWVSWFlNNkYxRm5wUEd5ejhtV3R6Vk8ySTBqR1ZRMDVrVk4yUUJsWndESmJJcVVwNThoLUdWRml2UXU5ekRzYi0wRFhpZjgwU1o1UmN5RFRTRGplcUhraGxZbkRWTGNPeFBvVGUyd1V6ZnlJYWpJYlpZSlpzU1gtamktOS1RVUh2dkRCMFVqTW05RjRzZ045TFNrcTFVZDNPRnciLCJpZCI6ImZjX1FCQ2phcVRoTnVHdHc4Y1B3YUhYLVF3XzEifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFYwTkljRzUxVFZsa01sOUdZakU1U1RCa05sWnRPVWx4U1ZCR2RHNUNWRTA1VWxveWNWQmFPV1JxVG1OTFNWTlVORk5vVEZKS2JtUk5RM0pHVWpGa2RVRlZaRFJtUkRCWlFUVjBUVnBwZVVzeFdWbDVWMjlzV1d3MFp4SVhVVUpEYW1GeFZHaE9kVWQwZHpoalVIZGhTRmd0VVhjYUlrRkVjM0k1WmxKclgyUkRhMDFtTm1wMmIweDFORE5IVld4V05GZzFXakpaVDNjIiwiZmN2IjoiMyIsImVpIjoiUUJDamFxVGhOdUd0dzhjUHdhSFgtUXciLCJxYyI6IkNoTnViM0ozWVd4cklHaHBaMmdnYzJOb2IyOXNFQUI5YzJneFB3IiwicXVlc3Rpb24iOiJXaGF0IGNlbGVicml0aWVzIHdlbnQgdG8gTm9yd2FsayBIaWdoIFNjaG9vbD8iLCJsayI6IkdpeDNhR0YwSUdObGJHVmljbWwwYVdWeklIZGxiblFnZEc4Z2JtOXlkMkZzYXlCb2FXZG9JSE5qYUc5dmJBIiwiYnMiOiJjM1dQdlFyQ01CUkdjYzNrV0Ryb0J3Ny1DX1lGaWlqU3lVVkJGNFUwRFNhMEp0QUVneThqLUZBLWd1OWhXeW80dFBzNTUzNlh4R1ItRk5TQzhZekh1YlNTR3ppdUxLekdUdWVPWmlraWVSWFlNNkYxRm5wUEd5ejhtV3R6Vk8ySTBqR1ZRMDVrVk4yUUJsWndESmJJcVVwNThoLUdWRml2UXU5ekRzYi0wRFhpZjgwU1o1UmN5RFRTRGplcUhraGxZbkRWTGNPeFBvVGUyd1V6ZnlJYWpJYlpZSlpzU1gtamktOS1RVUh2dkRCMFVqTW05RjRzZ045TFNrcTFVZDNPRnciLCJpZCI6ImZjX1FCQ2phcVRoTnVHdHc4Y1B3YUhYLVF3XzEifQ%3D%3D"
+  },
+  {
+   "question": "What is the #1 ranked High School in CA?",
+   "type": "featured_snippet",
+   "snippet": "1: Science Academy STEM Magnet. With an overall score of 99.94, Science Academy STEM Magnet in Los Angeles is ranked No. 1 in the state and No. 10 in the nation in U.S. News & World Report's rankings.",
+   "title": "California's top 10 public high schools, ranked: report",
+   "date": "Aug 18, 2026",
+   "link": "https://www.desertsun.com/story/news/nation/california/2026/08/18/californias-top-10-public-high-schools-ranked-report/91351736007/#:~:text=1%3A%20Science%20Academy%20STEM%20Magnet,U.S.%20News%20%26%20World%20Report's%20rankings.",
+   "displayed_link": "https://www.desertsun.com \u203a california \u203a 2026/08/18 \u203a c...",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABtUlEQVR4AaWTM4AlQRiE55ifbTM7X3a2zfiSs621bdu2jWS92dpmtKh9NfO4RlDDru9Xt3Du1eU5aeyHoK7FggP0ZKpNNQrEVq1K8Jnf-G9SwGGv9nuyhRDsZAoAak5f4V16t5fJBuCacQHVjy_dNn0bCMFZWuxuHAz1d5oPRALFT95DcMVNDYCgNbjAxiYWbj-9JIMnMHRtMe-MrjBLGdn3sCTQowLYwYgARuVPHft8JH75KsJoPu7fj_7Da7DCoU2ZET3qgAY312AE27iIgDazkzjo0MRFNDMbvivNFD1KwGXHSrh7RyPQzQuHndrQ7bpFjMxnfBAks6K5lKcEVgLiYmwIEBXj_w__XRKVIN5ppmhkeTUv3iDojo4KgKKPTRbB4XAL8UN39A4ste0DIgSaGVG8p5oYiaW4PzeUGumrVkJfiaXRYOF_DOe_Rl6MvgjZa9uAP-5JYhYtRhvwSz-KGVBjm8iRDFX5AeUOGpA4n08EqUqwV0ljjFRDTd5dtGUqICxH2VjKyzaAY6bGbCQNCDNhOewJARyvwmzxNxDcsVMeJvZkuOhTfVysNTjiqQ7TnDQCsWgfEEoEbtoAAAAASUVORK5CYII.png",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFYwTkljRzUxVFZsa01sOUdZakU1U1RCa05sWnRPVWx4U1ZCR2RHNUNWRTA1VWxveWNWQmFPV1JxVG1OTFNWTlVORk5vVEZKS2JtUk5RM0pHVWpGa2RVRlZaRFJtUkRCWlFUVjBUVnBwZVVzeFdWbDVWMjlzV1d3MFp4SVhVVUpEYW1GeFZHaE9kVWQwZHpoalVIZGhTRmd0VVhjYUlrRkVjM0k1WmxKclgyUkRhMDFtTm1wMmIweDFORE5IVld4V05GZzFXakpaVDNjIiwiZmN2IjoiMyIsImVpIjoiUUJDamFxVGhOdUd0dzhjUHdhSFgtUXciLCJxYyI6IkNoTnViM0ozWVd4cklHaHBaMmdnYzJOb2IyOXNFQUI5YzJneFB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSAjMSByYW5rZWQgSGlnaCBTY2hvb2wgaW4gQ0E/IiwibGsiOiJHaWQzYUdGMElHbHpJSFJvWlNBak1TQnlZVzVyWldRZ2FHbG5hQ0J6WTJodmIyd2dhVzRnWTJFIiwiYnMiOiJjM1dQdlFyQ01CUkdjYzNrV0Ryb0J3Ny1DX1lGaWlqU3lVVkJGNFUwRFNhMEp0QUVneThqLUZBLWd1OWhXeW80dFBzNTUzNlh4R1ItRk5TQzhZekh1YlNTR3ppdUxLekdUdWVPWmlraWVSWFlNNkYxRm5wUEd5ejhtV3R6Vk8ySTBqR1ZRMDVrVk4yUUJsWndESmJJcVVwNThoLUdWRml2UXU5ekRzYi0wRFhpZjgwU1o1UmN5RFRTRGplcUhraGxZbkRWTGNPeFBvVGUyd1V6ZnlJYWpJYlpZSlpzU1gtamktOS1RVUh2dkRCMFVqTW05RjRzZ045TFNrcTFVZDNPRnciLCJpZCI6ImZjX1FCQ2phcVRoTnVHdHc4Y1B3YUhYLVF3XzEifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFYwTkljRzUxVFZsa01sOUdZakU1U1RCa05sWnRPVWx4U1ZCR2RHNUNWRTA1VWxveWNWQmFPV1JxVG1OTFNWTlVORk5vVEZKS2JtUk5RM0pHVWpGa2RVRlZaRFJtUkRCWlFUVjBUVnBwZVVzeFdWbDVWMjlzV1d3MFp4SVhVVUpEYW1GeFZHaE9kVWQwZHpoalVIZGhTRmd0VVhjYUlrRkVjM0k1WmxKclgyUkRhMDFtTm1wMmIweDFORE5IVld4V05GZzFXakpaVDNjIiwiZmN2IjoiMyIsImVpIjoiUUJDamFxVGhOdUd0dzhjUHdhSFgtUXciLCJxYyI6IkNoTnViM0ozWVd4cklHaHBaMmdnYzJOb2IyOXNFQUI5YzJneFB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSAjMSByYW5rZWQgSGlnaCBTY2hvb2wgaW4gQ0E%2FIiwibGsiOiJHaWQzYUdGMElHbHpJSFJvWlNBak1TQnlZVzVyWldRZ2FHbG5hQ0J6WTJodmIyd2dhVzRnWTJFIiwiYnMiOiJjM1dQdlFyQ01CUkdjYzNrV0Ryb0J3Ny1DX1lGaWlqU3lVVkJGNFUwRFNhMEp0QUVneThqLUZBLWd1OWhXeW80dFBzNTUzNlh4R1ItRk5TQzhZekh1YlNTR3ppdUxLekdUdWVPWmlraWVSWFlNNkYxRm5wUEd5ejhtV3R6Vk8ySTBqR1ZRMDVrVk4yUUJsWndESmJJcVVwNThoLUdWRml2UXU5ekRzYi0wRFhpZjgwU1o1UmN5RFRTRGplcUhraGxZbkRWTGNPeFBvVGUyd1V6ZnlJYWpJYlpZSlpzU1gtamktOS1RVUh2dkRCMFVqTW05RjRzZ045TFNrcTFVZDNPRnciLCJpZCI6ImZjX1FCQ2phcVRoTnVHdHc4Y1B3YUhYLVF3XzEifQ%3D%3D"
+  },
+  {
+   "question": "How many kids go to Norwalk High School CT?",
+   "type": "featured_snippet",
+   "snippet": "Overall Niche Grade Norwalk High School is an above average, public school located in NORWALK, CT. It has 1,494 students in grades 9-12 with a student-teacher ratio of 14 to 1.",
+   "title": "Norwalk High School in Wilton, CT - Niche",
+   "link": "https://www.niche.com/k12/norwalk-high-school-norwalk-ct/#:~:text=Overall%20Niche%20Grade&text=Norwalk%20High%20School%20is%20an,ratio%20of%2014%20to%201.",
+   "displayed_link": "https://www.niche.com \u203a norwalk-high-school-norwalk-ct",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACIUlEQVR4AXVSA4xkURDss6KzObbOtm3EOtu2bQRn2_bd2jZiZxUuan8txtNJ5__3Xle1SgLM2dsqNtV5satTFS-r8xSxq86JpY9FQppa3UwcqmtN-xkqZ6xbhoef3uLDv1_4HhmGu-9eYeb65Wjg0FQqZJcZGwBWHn7pZ47Hr5hI7L9-Eb0mjyAAyj26TxyGredP4NXPr9DNHMe7H2IyNXXjmZnguPRU9Jk6igFBveekEfgTGw3GshJ3zyw7LDEODGgxwIzNZ48FgJfs2IA2I1xgZT-jI9DIqasQq8osYtNcYM-7Lp8BA7uMGwwaS_YmePbtEyzzpoD_Oy6exuyNK_h_VjhtDoy91RN8jfiP8KR4Di4oASu99vQh_1NIUPrp_x93IAne_PqOzmMHIbMgD_2WzPYnoDOG3xIhQURSQgAB_x0LpyOrMB9dxw_xIWjo1OJb5H_-FwtbePz5PVRTRwcQ0NlrVEoiNeEm4CBvv33B_2ShwuZvWYPdl88GJaDvvHQGVVVVboK9V89jzsaVEIf6tFCeSkkVnIN62hi0GmTB-lOHfQgoqAM3LqH9qP4cINcIYsSmNglNCbpimjMJf-Oi3a0Ec1bH7RhnTwTX7y_lH-a5k_E_IZaaYCY3kOrccu44VQjDrAkEf_ORMo0XSvClxi5dxdxNq3D92UO8__uTw8OtN88xa8MKsGxmdoODGeVJhVEkXHGdJyt-xtOzx6oBO9OP-PKJMtQAAAAASUVORK5CYII.png",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFYwTkljRzUxVFZsa01sOUdZakU1U1RCa05sWnRPVWx4U1ZCR2RHNUNWRTA1VWxveWNWQmFPV1JxVG1OTFNWTlVORk5vVEZKS2JtUk5RM0pHVWpGa2RVRlZaRFJtUkRCWlFUVjBUVnBwZVVzeFdWbDVWMjlzV1d3MFp4SVhVVUpEYW1GeFZHaE9kVWQwZHpoalVIZGhTRmd0VVhjYUlrRkVjM0k1WmxKclgyUkRhMDFtTm1wMmIweDFORE5IVld4V05GZzFXakpaVDNjIiwiZmN2IjoiMyIsImVpIjoiUUJDamFxVGhOdUd0dzhjUHdhSFgtUXciLCJxYyI6IkNoTnViM0ozWVd4cklHaHBaMmdnYzJOb2IyOXNFQUI5YzJneFB3IiwicXVlc3Rpb24iOiJIb3cgbWFueSBraWRzIGdvIHRvIE5vcndhbGsgSGlnaCBTY2hvb2wgQ1Q/IiwibGsiOiJHaXBvYjNjZ2JXRnVlU0JyYVdSeklHZHZJSFJ2SUc1dmNuZGhiR3NnYUdsbmFDQnpZMmh2YjJ3Z1kzUSIsImJzIjoiYzNXUHZRckNNQlJHY2Mza1dEcm9CdzctQ19ZRmlpalN5VVZCRjRVMERTYTBKdEFFZ3k4ai1GQS1ndTloV3lvNHRQczU1MzZYeEdSLUZOU0M4WXpIdWJTU0d6aXVMS3pHVHVlT1ppa2llUlhZTTZGMUZucFBHeXo4bVd0elZPMkkwakdWUTA1a1ZOMlFCbFp3REpiSXFVcDU4aC1HVkZpdlF1OXpEc2ItMERYaWY4MFNaNVJjeURUU0RqZXFIa2hsWW5EVkxjT3hQb1RlMndVemZ5SWFqSWJaWUpac1NYLWppLTktUVVIdnZEQjBVak1tOUY0c2dOOUxTa3ExVWQzT0Z3IiwiaWQiOiJmY19RQkNqYXFUaE51R3R3OGNQd2FIWC1Rd18xIn0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFYwTkljRzUxVFZsa01sOUdZakU1U1RCa05sWnRPVWx4U1ZCR2RHNUNWRTA1VWxveWNWQmFPV1JxVG1OTFNWTlVORk5vVEZKS2JtUk5RM0pHVWpGa2RVRlZaRFJtUkRCWlFUVjBUVnBwZVVzeFdWbDVWMjlzV1d3MFp4SVhVVUpEYW1GeFZHaE9kVWQwZHpoalVIZGhTRmd0VVhjYUlrRkVjM0k1WmxKclgyUkRhMDFtTm1wMmIweDFORE5IVld4V05GZzFXakpaVDNjIiwiZmN2IjoiMyIsImVpIjoiUUJDamFxVGhOdUd0dzhjUHdhSFgtUXciLCJxYyI6IkNoTnViM0ozWVd4cklHaHBaMmdnYzJOb2IyOXNFQUI5YzJneFB3IiwicXVlc3Rpb24iOiJIb3cgbWFueSBraWRzIGdvIHRvIE5vcndhbGsgSGlnaCBTY2hvb2wgQ1Q%2FIiwibGsiOiJHaXBvYjNjZ2JXRnVlU0JyYVdSeklHZHZJSFJ2SUc1dmNuZGhiR3NnYUdsbmFDQnpZMmh2YjJ3Z1kzUSIsImJzIjoiYzNXUHZRckNNQlJHY2Mza1dEcm9CdzctQ19ZRmlpalN5VVZCRjRVMERTYTBKdEFFZ3k4ai1GQS1ndTloV3lvNHRQczU1MzZYeEdSLUZOU0M4WXpIdWJTU0d6aXVMS3pHVHVlT1ppa2llUlhZTTZGMUZucFBHeXo4bVd0elZPMkkwakdWUTA1a1ZOMlFCbFp3REpiSXFVcDU4aC1HVkZpdlF1OXpEc2ItMERYaWY4MFNaNVJjeURUU0RqZXFIa2hsWW5EVkxjT3hQb1RlMndVemZ5SWFqSWJaWUpac1NYLWppLTktUVVIdnZEQjBVak1tOUY0c2dOOUxTa3ExVWQzT0Z3IiwiaWQiOiJmY19RQkNqYXFUaE51R3R3OGNQd2FIWC1Rd18xIn0%3D"
+  },
+  {
+   "question": "Does Norwalk have good schools?",
+   "type": "featured_snippet",
+   "snippet": "Norwalk School District is an above average, public school district located in NORWALK, CT. It has 11,473 students in grades PK, K-12 with a student-teacher ratio of 13 to 1. According to state test scores, 35% of students are at least proficient in math and 45% in reading.",
+   "title": "Norwalk School District - Connecticut - Niche",
+   "date": "Feb 13, 2025",
+   "link": "https://www.niche.com/k12/d/norwalk-school-district-ct/#:~:text=Norwalk%20School%20District%20is%20an,math%20and%2045%25%20in%20reading.",
+   "displayed_link": "https://www.niche.com \u203a norwalk-school-district-ct",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACIUlEQVR4AXVSA4xkURDss6KzObbOtm3EOtu2bQRn2_bd2jZiZxUuan8txtNJ5__3Xle1SgLM2dsqNtV5satTFS-r8xSxq86JpY9FQppa3UwcqmtN-xkqZ6xbhoef3uLDv1_4HhmGu-9eYeb65Wjg0FQqZJcZGwBWHn7pZ47Hr5hI7L9-Eb0mjyAAyj26TxyGredP4NXPr9DNHMe7H2IyNXXjmZnguPRU9Jk6igFBveekEfgTGw3GshJ3zyw7LDEODGgxwIzNZ48FgJfs2IA2I1xgZT-jI9DIqasQq8osYtNcYM-7Lp8BA7uMGwwaS_YmePbtEyzzpoD_Oy6exuyNK_h_VjhtDoy91RN8jfiP8KR4Di4oASu99vQh_1NIUPrp_x93IAne_PqOzmMHIbMgD_2WzPYnoDOG3xIhQURSQgAB_x0LpyOrMB9dxw_xIWjo1OJb5H_-FwtbePz5PVRTRwcQ0NlrVEoiNeEm4CBvv33B_2ShwuZvWYPdl88GJaDvvHQGVVVVboK9V89jzsaVEIf6tFCeSkkVnIN62hi0GmTB-lOHfQgoqAM3LqH9qP4cINcIYsSmNglNCbpimjMJf-Oi3a0Ec1bH7RhnTwTX7y_lH-a5k_E_IZaaYCY3kOrccu44VQjDrAkEf_ORMo0XSvClxi5dxdxNq3D92UO8__uTw8OtN88xa8MKsGxmdoODGeVJhVEkXHGdJyt-xtOzx6oBO9OP-PKJMtQAAAAASUVORK5CYII.png",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFYwTkljRzUxVFZsa01sOUdZakU1U1RCa05sWnRPVWx4U1ZCR2RHNUNWRTA1VWxveWNWQmFPV1JxVG1OTFNWTlVORk5vVEZKS2JtUk5RM0pHVWpGa2RVRlZaRFJtUkRCWlFUVjBUVnBwZVVzeFdWbDVWMjlzV1d3MFp4SVhVVUpEYW1GeFZHaE9kVWQwZHpoalVIZGhTRmd0VVhjYUlrRkVjM0k1WmxKclgyUkRhMDFtTm1wMmIweDFORE5IVld4V05GZzFXakpaVDNjIiwiZmN2IjoiMyIsImVpIjoiUUJDamFxVGhOdUd0dzhjUHdhSFgtUXciLCJxYyI6IkNoTnViM0ozWVd4cklHaHBaMmdnYzJOb2IyOXNFQUI5YzJneFB3IiwicXVlc3Rpb24iOiJEb2VzIE5vcndhbGsgaGF2ZSBnb29kIHNjaG9vbHM/IiwibGsiOiJHaDVrYjJWeklHNXZjbmRoYkdzZ2FHRjJaU0JuYjI5a0lITmphRzl2YkhNIiwiYnMiOiJjM1dQdlFyQ01CUkdjYzNrV0Ryb0J3Ny1DX1lGaWlqU3lVVkJGNFUwRFNhMEp0QUVneThqLUZBLWd1OWhXeW80dFBzNTUzNlh4R1ItRk5TQzhZekh1YlNTR3ppdUxLekdUdWVPWmlraWVSWFlNNkYxRm5wUEd5ejhtV3R6Vk8ySTBqR1ZRMDVrVk4yUUJsWndESmJJcVVwNThoLUdWRml2UXU5ekRzYi0wRFhpZjgwU1o1UmN5RFRTRGplcUhraGxZbkRWTGNPeFBvVGUyd1V6ZnlJYWpJYlpZSlpzU1gtamktOS1RVUh2dkRCMFVqTW05RjRzZ045TFNrcTFVZDNPRnciLCJpZCI6ImZjX1FCQ2phcVRoTnVHdHc4Y1B3YUhYLVF3XzEifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFYwTkljRzUxVFZsa01sOUdZakU1U1RCa05sWnRPVWx4U1ZCR2RHNUNWRTA1VWxveWNWQmFPV1JxVG1OTFNWTlVORk5vVEZKS2JtUk5RM0pHVWpGa2RVRlZaRFJtUkRCWlFUVjBUVnBwZVVzeFdWbDVWMjlzV1d3MFp4SVhVVUpEYW1GeFZHaE9kVWQwZHpoalVIZGhTRmd0VVhjYUlrRkVjM0k1WmxKclgyUkRhMDFtTm1wMmIweDFORE5IVld4V05GZzFXakpaVDNjIiwiZmN2IjoiMyIsImVpIjoiUUJDamFxVGhOdUd0dzhjUHdhSFgtUXciLCJxYyI6IkNoTnViM0ozWVd4cklHaHBaMmdnYzJOb2IyOXNFQUI5YzJneFB3IiwicXVlc3Rpb24iOiJEb2VzIE5vcndhbGsgaGF2ZSBnb29kIHNjaG9vbHM%2FIiwibGsiOiJHaDVrYjJWeklHNXZjbmRoYkdzZ2FHRjJaU0JuYjI5a0lITmphRzl2YkhNIiwiYnMiOiJjM1dQdlFyQ01CUkdjYzNrV0Ryb0J3Ny1DX1lGaWlqU3lVVkJGNFUwRFNhMEp0QUVneThqLUZBLWd1OWhXeW80dFBzNTUzNlh4R1ItRk5TQzhZekh1YlNTR3ppdUxLekdUdWVPWmlraWVSWFlNNkYxRm5wUEd5ejhtV3R6Vk8ySTBqR1ZRMDVrVk4yUUJsWndESmJJcVVwNThoLUdWRml2UXU5ekRzYi0wRFhpZjgwU1o1UmN5RFRTRGplcUhraGxZbkRWTGNPeFBvVGUyd1V6ZnlJYWpJYlpZSlpzU1gtamktOS1RVUh2dkRCMFVqTW05RjRzZ045TFNrcTFVZDNPRnciLCJpZCI6ImZjX1FCQ2phcVRoTnVHdHc4Y1B3YUhYLVF3XzEifQ%3D%3D"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Norwalk High School: Home",
+   "link": "https://norwalk.nlmusd.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUwHrOzAV7j1ILwMKdBpuae-ulhZV7vln3GD5hfx5qy9ahMhjeWJSBuSDXSPDTEhwZQXpzXz3v6CKv95BlKd9_OSrf0IbWeo_41zk3aQTRpGRAG2g&ved=2ahUKEwikgYm26uSWAxXh1vACHcHQNc8QFnoECCoQAQ&uoh=1",
+   "displayed_link": "https://norwalk.nlmusd.org",
+   "favicon": "https://serpapi.com/images/i/UklGRjQBAABXRUJQVlA4ICgBAADwBwCdASogACAAPtEutFooIagoGAEAGglsAJ0yhH-HQC6vtBIW_QBtxOe69AHQI9QAPSGh_LrUedw18EVUPGTNxu2B88ctDAAA_vYR8v38KwOqcJc3vJFya6trPE0Jn1HK2-kzzAMxU14cBonI1c6TLruiq0sZ5TrUTHYteww7C_WT7-XiBhu7lWbyISO6qQ__heJPhtKGzdgB3AblrKnMzZJb5c16qFDYcEz9j2SCcGAVmP96G_3L_0hY_tfDl86A7bkYYGt8_ne2vvNnoPcjlF93v5V1-q9f9V_3HGdy-fXd2tn4j6tpLv_1WRIjQ-f3DRh73xODTYpvhV-62Ay3WQHU_Cof0daJXVB5VQBfpuc5GeH2Q8eBSO4nncx4hZEZSxGnHAAAAA.webp",
+   "snippet": "Norwalk High School officially received the 2025 California Civic Learning Award, one of California's highest honors for excellence in civic education.",
+   "snippet_highlighted_words": [
+    "Norwalk High School"
+   ],
+   "sitelinks": {
+    "inline": [
+     {
+      "title": "Athletics",
+      "link": "https://norwalk.nlmusd.org/athletics"
+     },
+     {
+      "title": "Our School",
+      "link": "https://norwalk.nlmusd.org/our-school"
+     },
+     {
+      "title": "Pathways",
+      "link": "https://norwalk.nlmusd.org/pathways"
+     },
+     {
+      "title": "Academics",
+      "link": "https://norwalk.nlmusd.org/academics"
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Norwalk High School officially received the 2025 California Civic Learning Award, one of California's highest honors for excellence in civic education.",
+     "source_info_link": "https://norwalk.nlmusd.org/",
+     "icon": "https://serpapi.com/images/i/UklGRjQBAABXRUJQVlA4ICgBAADwBwCdASogACAAPtEutFooIagoGAEAGglsAJ0yhH-HQC6vtBIW_QBtxOe69AHQI9QAPSGh_LrUedw18EVUPGTNxu2B88ctDAAA_vYR8v38KwOqcJc3vJFya6trPE0Jn1HK2-kzzAMxU14cBonI1c6TLruiq0sZ5TrUTHYteww7C_WT7-XiBhu7lWbyISO6qQ__heJPhtKGzdgB3AblrKnMzZJb5c16qFDYcEz9j2SCcGAVmP96G_3L_0hY_tfDl86A7bkYYGt8_ne2vvNnoPcjlF93v5V1-q9f9V_3HGdy-fXd2tn4j6tpLv_1WRIjQ-f3DRh73xODTYpvhV-62Ay3WQHU_Cof0daJXVB5VQBfpuc5GeH2Q8eBSO4nncx4hZEZSxGnHAAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESUwHrOzAV7j1ILwMKdBpuae-ulhZV7vln3GD5hfx5qy9ahMhjeWJSBuSDXSPDTEhwZQXpzXz3v6CKv95BlKd9_OSrf0IbWeo_41zk3aQTRpGRAG2g&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESUwHrOzAV7j1ILwMKdBpuae-ulhZV7vln3GD5hfx5qy9ahMhjeWJSBuSDXSPDTEhwZQXpzXz3v6CKv95BlKd9_OSrf0IbWeo_41zk3aQTRpGRAG2g",
+   "source": "Norwalk High School",
+   "read_more_link": "https://norwalk.nlmusd.org/#:~:text=Norwalk%20High%20School%20officially%20received,for%20excellence%20in%20civic%20education."
+  },
+  {
+   "position": 2,
+   "title": "Norwalk High School: Home",
+   "link": "https://nhs.norwalkps.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUgHrOzAVtUB2IXk9NBzioDm858zZgv_ncybQAqlm8_6xO2y8IWP0ei2RwhFj6gCf853ZyXwVdX8sKEpSXrQw68ra1yPb_8lIMJtqjKeHd8HLi14&ved=2ahUKEwikgYm26uSWAxXh1vACHcHQNc8QFnoECCQQAQ&uoh=1",
+   "displayed_link": "https://nhs.norwalkps.org",
+   "favicon": "https://serpapi.com/images/i/UklGRlIBAABXRUJQVlA4IEYBAADwBgCdASocABwAPtEutFooIagoGAEAGglsAKwvgabP4BdmbWsdAaTtloX-wOdqzeSo01fNEmVj0GaCRGbcFbwAAP72Bh1T0-AsM_hrvBma-zS8itDkuI2tjyQmE5pTqvyUGyrUqRqjo6i5ZS2mhRuc3AWn35s4cK6edz_vA_QWpJps_-pyDwj7hSF1tJrGHzaCQIjHOfpWFwQwdw2nhlRC4USjvcF_P_zZ-YS1S7mZL2l_Y8ld2u0IO4oUOBXOzdff2fODNdIy5JgI1v8f6P9JJapVUaZvze49I2OaEjrNe1kqPFl7UrRAqqRAgFmN-rvxozPBxy3UoMOchZhqueOVG6jwVMdECYsmrenn7J-N1qy7I_OzYet2hv_eIZeOu4hAoLAOXztIvpdSDpW6p9DuR_vFllfCiI83Kq4anl72cJSdyAAAAA.webp",
+   "snippet": "Norwalk High School. Logo Title. Norwalk High School \u00b7 Student Registration \u00b7 Employment \u00b7 Quick Links \u00b7 NPS District Calendar \u00b7 Parent and Family Help Desk ...",
+   "snippet_highlighted_words": [
+    "Norwalk High School",
+    "Norwalk High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Norwalk High School. Logo Title. Norwalk High School \u00b7 Student Registration \u00b7 Employment \u00b7 Quick Links \u00b7 NPS District Calendar \u00b7 Parent and Family Help Desk ...",
+     "source_info_link": "https://nhs.norwalkps.org/",
+     "icon": "https://serpapi.com/images/i/UklGRlIBAABXRUJQVlA4IEYBAADwBgCdASocABwAPtEutFooIagoGAEAGglsAKwvgabP4BdmbWsdAaTtloX-wOdqzeSo01fNEmVj0GaCRGbcFbwAAP72Bh1T0-AsM_hrvBma-zS8itDkuI2tjyQmE5pTqvyUGyrUqRqjo6i5ZS2mhRuc3AWn35s4cK6edz_vA_QWpJps_-pyDwj7hSF1tJrGHzaCQIjHOfpWFwQwdw2nhlRC4USjvcF_P_zZ-YS1S7mZL2l_Y8ld2u0IO4oUOBXOzdff2fODNdIy5JgI1v8f6P9JJapVUaZvze49I2OaEjrNe1kqPFl7UrRAqqRAgFmN-rvxozPBxy3UoMOchZhqueOVG6jwVMdECYsmrenn7J-N1qy7I_OzYet2hv_eIZeOu4hAoLAOXztIvpdSDpW6p9DuR_vFllfCiI83Kq4anl72cJSdyAAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESUgHrOzAVtUB2IXk9NBzioDm858zZgv_ncybQAqlm8_6xO2y8IWP0ei2RwhFj6gCf853ZyXwVdX8sKEpSXrQw68ra1yPb_8lIMJtqjKeHd8HLi14&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESUgHrOzAVtUB2IXk9NBzioDm858zZgv_ncybQAqlm8_6xO2y8IWP0ei2RwhFj6gCf853ZyXwVdX8sKEpSXrQw68ra1yPb_8lIMJtqjKeHd8HLi14",
+   "source": "Norwalk Public Schools",
+   "read_more_link": "https://nhs.norwalkps.org/#:~:text=Norwalk%20High%20School"
+  },
+  {
+   "position": 3,
+   "title": "Home | Norwalk High School",
+   "link": "https://www.norwalktruckers.net/o/nhs",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXQHrOzAVcKt-8NGKZL1vrTw1JLD1Nl5PskYBseIrfk5eK1pbUiSKW85-lteUgsSEIUbVjAklxsP43PeLjVBPtaIWa2FXd8rcYqzaXYZtjzfpfp0u0kNWT3pjZPr1rw&ved=2ahUKEwikgYm26uSWAxXh1vACHcHQNc8QFnoECCYQAQ&uoh=1",
+   "displayed_link": "https://www.norwalktruckers.net \u203a nhs",
+   "favicon": "https://serpapi.com/images/i/UklGRvgBAABXRUJQVlA4IOwBAADQCACdASogACAAAsBMJbADCoE5_R6ANsBoQH9A62DnyPZDnyjIKoEcC6NNSZVKMs8a8JCZl1Z3weOhC24WXCKn87ZuTBsONoIYf-sw7F0YAP76rK6WNZm2KXPVJE2Uw2UOGnLpuCqnjZnwJFQ9Ry65NlLaN_Bd0qy4FteYy-NfckHxbmJW7qoI9MxbsVcmgQxYDFqW3sSad6Mu4wlK-LH_Ndjr3JLuhn7taUKBc_aV7U3a7HtSq3adAknC30d8O-ffKgfmvhvEoi8MmrEFmT1jCNzu6S9mBeCumKdyxVYPZ3irVlbi4stvByPE-bbEnAdqFgcpKeGMfRG5azVKdz0l8Ukx4lKu_HgQoe-qrBwRu9vnQgv3wTi9_0ftR254AGOIbCzKCwxGavA-DDKf5S9oV8w--gz4tt2p-NAez9K6DYdQ3frRBElGlqSS-ltk1ZqhfsqeOOWlMqgdbyqbqXdZwTvwdynrJY3Rw0ML4XApgcsg4XrxTAgGMpO3XONZJ4-6R_D6KNiDINKDLucpEKZ7Nsd5vJUJJkwM0tVsE1F3MBRXDcgjInUn3uUXlfvS5GtdwsHYYiYgs1GWmFQlW7kaT9unL6QGHyz2AERy6f0tfi7oimpzV4cH4zzm7GteUol3fUyqa8ptz_8QAAA.webp",
+   "date": "10 hours ago",
+   "snippet": "Norwalk High School \u00b7 News \u00b7 Live Feed \u00b7 Events \u00b7 Spotlight \u00b7 Find Us \u00b7 Stay Connected.",
+   "snippet_highlighted_words": [
+    "Norwalk High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Norwalk High School \u00b7 News \u00b7 Live Feed \u00b7 Events \u00b7 Spotlight \u00b7 Find Us \u00b7 Stay Connected.",
+     "source_info_link": "https://www.norwalktruckers.net/o/nhs",
+     "icon": "https://serpapi.com/images/i/UklGRvgBAABXRUJQVlA4IOwBAADQCACdASogACAAAsBMJbADCoE5_R6ANsBoQH9A62DnyPZDnyjIKoEcC6NNSZVKMs8a8JCZl1Z3weOhC24WXCKn87ZuTBsONoIYf-sw7F0YAP76rK6WNZm2KXPVJE2Uw2UOGnLpuCqnjZnwJFQ9Ry65NlLaN_Bd0qy4FteYy-NfckHxbmJW7qoI9MxbsVcmgQxYDFqW3sSad6Mu4wlK-LH_Ndjr3JLuhn7taUKBc_aV7U3a7HtSq3adAknC30d8O-ffKgfmvhvEoi8MmrEFmT1jCNzu6S9mBeCumKdyxVYPZ3irVlbi4stvByPE-bbEnAdqFgcpKeGMfRG5azVKdz0l8Ukx4lKu_HgQoe-qrBwRu9vnQgv3wTi9_0ftR254AGOIbCzKCwxGavA-DDKf5S9oV8w--gz4tt2p-NAez9K6DYdQ3frRBElGlqSS-ltk1ZqhfsqeOOWlMqgdbyqbqXdZwTvwdynrJY3Rw0ML4XApgcsg4XrxTAgGMpO3XONZJ4-6R_D6KNiDINKDLucpEKZ7Nsd5vJUJJkwM0tVsE1F3MBRXDcgjInUn3uUXlfvS5GtdwsHYYiYgs1GWmFQlW7kaT9unL6QGHyz2AERy6f0tfi7oimpzV4cH4zzm7GteUol3fUyqa8ptz_8QAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESXQHrOzAVcKt-8NGKZL1vrTw1JLD1Nl5PskYBseIrfk5eK1pbUiSKW85-lteUgsSEIUbVjAklxsP43PeLjVBPtaIWa2FXd8rcYqzaXYZtjzfpfp0u0kNWT3pjZPr1rw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESXQHrOzAVcKt-8NGKZL1vrTw1JLD1Nl5PskYBseIrfk5eK1pbUiSKW85-lteUgsSEIUbVjAklxsP43PeLjVBPtaIWa2FXd8rcYqzaXYZtjzfpfp0u0kNWT3pjZPr1rw",
+   "source": "Norwalk City School District",
+   "read_more_link": "https://www.norwalktruckers.net/o/nhs#:~:text=Norwalk%20High%20School&text=News&text=Live%20Feed&text=Events&text=Spotlight&text=Find%20Us&text=Stay%20Connected"
+  },
+  {
+   "position": 4,
+   "title": "Norwalk High School (Connecticut)",
+   "link": "https://en.wikipedia.org/wiki/Norwalk_High_School_(Connecticut)",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdwHrOzAV4bVKywb2iaY9AJAMOEY_7xkpnzYQhOIuEE50kI29NYucFGZvIGCrQZ9-qriTT5LpME7UvOglgYwSUm992ltW28-GsMsXiwFg_sqiKbliHkQBONmD4k4EDxMLQQIahCPLtw1YmtvYsC_TV1-FX11TCRrA&ved=2ahUKEwikgYm26uSWAxXh1vACHcHQNc8QFnoECCUQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Norwalk_High_School...",
+   "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+   "snippet": "Norwalk High School is a high school located in Norwalk, Connecticut, United States, which was established in 1902. It is the oldest high school in Norwalk ...",
+   "snippet_highlighted_words": [
+    "Norwalk High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Norwalk High School is a high school located in Norwalk, Connecticut, United States, which was established in 1902. It is the oldest high school in Norwalk ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Norwalk_High_School_(Connecticut)",
+     "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdwHrOzAV4bVKywb2iaY9AJAMOEY_7xkpnzYQhOIuEE50kI29NYucFGZvIGCrQZ9-qriTT5LpME7UvOglgYwSUm992ltW28-GsMsXiwFg_sqiKbliHkQBONmD4k4EDxMLQQIahCPLtw1YmtvYsC_TV1-FX11TCRrA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdwHrOzAV4bVKywb2iaY9AJAMOEY_7xkpnzYQhOIuEE50kI29NYucFGZvIGCrQZ9-qriTT5LpME7UvOglgYwSUm992ltW28-GsMsXiwFg_sqiKbliHkQBONmD4k4EDxMLQQIahCPLtw1YmtvYsC_TV1-FX11TCRrA",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Norwalk_High_School_(Connecticut)#:~:text=Norwalk%20High%20School%20is%20a,the%20current%20Norwalk%20City%20Hall."
+  },
+  {
+   "position": 5,
+   "title": "Norwalk High School",
+   "link": "https://nhs.norwalkschools.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVwHrOzAViqGwDjz2Nxzzhf--GDDEM3odP_cISNuexpZ7DapgJUENpomBqd2_n4Il-LnA-XhZOFshA7340pC7co1xAQZRKBDh3sywHVjoog9v5kw17FdBgw&ved=2ahUKEwikgYm26uSWAxXh1vACHcHQNc8QFnoECCsQAQ&uoh=1",
+   "displayed_link": "https://nhs.norwalkschools.org",
+   "favicon": "https://serpapi.com/images/i/UklGRkABAABXRUJQVlA4IDQBAAAwBwCdASocABwAPtE-tFooIigoFAEAGgloAFb9JOEUArN_NAmp9UD0IP1uDs16w2fHmlh30JnHgqHnvBGqA1ioIoAA_vYC__EaDDWsM1fUD0kxILnmGz-_mLEWdFuUzl_com9ne9u9fGWDBmbiMeZ_WDF_JdopfPLWYVukl4gYoH1UhEw2k3aNTn_qPnNGHOxLDRf7_v2XXdDUTzK5j19af-G9FPMy8VFuFbFK79dQNfhMeNPUe-y_UWIuj9oDWpI0XbL-m1FS3v0CvMh3ur6EDQ1jhWI9jc7p_6JVAWgQL4K-bePKytzI_ssj_aH7LrW_U8Ki7q-m5YVyO0i9v-hOjAnV0NHOY_N7QRr9xJhBr_TlisnhAfbr6v9T6ePNpmcmosPVbdrz5-2MhbKQW9beVwAAAA.webp",
+   "snippet": "Norwalk High School \u00b7 Quick Links \u00b7 Latest News \u00b7 Quick Links \u00b7 Staff Contacts \u00b7 Norwalk Warriors.",
+   "snippet_highlighted_words": [
+    "Norwalk High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Norwalk High School \u00b7 Quick Links \u00b7 Latest News \u00b7 Quick Links \u00b7 Staff Contacts \u00b7 Norwalk Warriors.",
+     "source_info_link": "https://nhs.norwalkschools.org/",
+     "icon": "https://serpapi.com/images/i/UklGRkABAABXRUJQVlA4IDQBAAAwBwCdASocABwAPtE-tFooIigoFAEAGgloAFb9JOEUArN_NAmp9UD0IP1uDs16w2fHmlh30JnHgqHnvBGqA1ioIoAA_vYC__EaDDWsM1fUD0kxILnmGz-_mLEWdFuUzl_com9ne9u9fGWDBmbiMeZ_WDF_JdopfPLWYVukl4gYoH1UhEw2k3aNTn_qPnNGHOxLDRf7_v2XXdDUTzK5j19af-G9FPMy8VFuFbFK79dQNfhMeNPUe-y_UWIuj9oDWpI0XbL-m1FS3v0CvMh3ur6EDQ1jhWI9jc7p_6JVAWgQL4K-bePKytzI_ssj_aH7LrW_U8Ki7q-m5YVyO0i9v-hOjAnV0NHOY_N7QRr9xJhBr_TlisnhAfbr6v9T6ePNpmcmosPVbdrz5-2MhbKQW9beVwAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESVwHrOzAViqGwDjz2Nxzzhf--GDDEM3odP_cISNuexpZ7DapgJUENpomBqd2_n4Il-LnA-XhZOFshA7340pC7co1xAQZRKBDh3sywHVjoog9v5kw17FdBgw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESVwHrOzAViqGwDjz2Nxzzhf--GDDEM3odP_cISNuexpZ7DapgJUENpomBqd2_n4Il-LnA-XhZOFshA7340pC7co1xAQZRKBDh3sywHVjoog9v5kw17FdBgw",
+   "source": "Norwalk Community School District",
+   "read_more_link": "https://nhs.norwalkschools.org/#:~:text=Norwalk%20High%20School&text=Infinite%20Campus&text=Latest%20News&text=Staff%20Contacts&text=Staff%20Contacts&text=Norwalk%20Warriors"
+  },
+  {
+   "position": 6,
+   "title": "Norwalk High School",
+   "link": "https://www.usnews.com/education/best-high-schools/california/districts/norwalk-la-mirada-unified-school-district/norwalk-high-school-2900",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESwwEB6zswFa2sWWIjBYVRE0Vx7VMNVMot8kKfMmXn7Jb8OdG2SzesZyVsKFrAC8fiGJwP1TJXPBZV0u1nU74tbUs9ZnLy8anZvqQ478YENn8K5RoVpddsTWxWhpkwE108N2Pm08g_ehMl-uQ6HGsQh8HZD4AF65nCTrt6eSqwohI6oDrVM__zrUYJTs9y7bdWGHmEdGoKAP-8xcsRlUPbO5uw3hbUqHnRB-gLqk2la1bqLcFU3qbZ5PbFS5Aa-S3MqnC-13s&ved=2ahUKEwikgYm26uSWAxXh1vACHcHQNc8QFnoECCgQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a california \u203a districts \u203a norwa...",
+   "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp",
+   "snippet": "Norwalk High School is ranked #2,975 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+   "snippet_highlighted_words": [
+    "Norwalk High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Norwalk High School is ranked #2,975 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/california/districts/norwalk-la-mirada-unified-school-district/norwalk-high-school-2900",
+     "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESwwEB6zswFa2sWWIjBYVRE0Vx7VMNVMot8kKfMmXn7Jb8OdG2SzesZyVsKFrAC8fiGJwP1TJXPBZV0u1nU74tbUs9ZnLy8anZvqQ478YENn8K5RoVpddsTWxWhpkwE108N2Pm08g_ehMl-uQ6HGsQh8HZD4AF65nCTrt6eSqwohI6oDrVM__zrUYJTs9y7bdWGHmEdGoKAP-8xcsRlUPbO5uw3hbUqHnRB-gLqk2la1bqLcFU3qbZ5PbFS5Aa-S3MqnC-13s&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESwwEB6zswFa2sWWIjBYVRE0Vx7VMNVMot8kKfMmXn7Jb8OdG2SzesZyVsKFrAC8fiGJwP1TJXPBZV0u1nU74tbUs9ZnLy8anZvqQ478YENn8K5RoVpddsTWxWhpkwE108N2Pm08g_ehMl-uQ6HGsQh8HZD4AF65nCTrt6eSqwohI6oDrVM__zrUYJTs9y7bdWGHmEdGoKAP-8xcsRlUPbO5uw3hbUqHnRB-gLqk2la1bqLcFU3qbZ5PbFS5Aa-S3MqnC-13s",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/california/districts/norwalk-la-mirada-unified-school-district/norwalk-high-school-2900#:~:text=Norwalk%20High%20School%20is%20ranked,they%20prepare%20students%20for%20college."
+  },
+  {
+   "position": 7,
+   "title": "Norwalk High School",
+   "link": "https://www.facebook.com/NorwalkHSCA/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXQHrOzAVX2KJPqH0yCQMdb3d38dbz8k3rO4_AXBjRdHkX8cbbvCwZafOhCe3Pd4L51NX0vDWEuJb4Je6HcEuaN9-zc3y8MTd80lrDbc_BWm16DhKuWMxd3DZSPG-Nw&ved=2ahUKEwikgYm26uSWAxXh1vACHcHQNc8QFnoECFUQAQ&uoh=1",
+   "displayed_link": "1.4K+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "snippet": "Welcome to the official Facebook page for the Norwalk High School, home of the Lancers! We have the best students, the best families, and the best alumni!",
+   "snippet_highlighted_words": [
+    "Norwalk High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Welcome to the official Facebook page for the Norwalk High School, home of the Lancers! We have the best students, the best families, and the best alumni!",
+     "source_info_link": "https://www.facebook.com/NorwalkHSCA/",
+     "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESXQHrOzAVX2KJPqH0yCQMdb3d38dbz8k3rO4_AXBjRdHkX8cbbvCwZafOhCe3Pd4L51NX0vDWEuJb4Je6HcEuaN9-zc3y8MTd80lrDbc_BWm16DhKuWMxd3DZSPG-Nw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESXQHrOzAVX2KJPqH0yCQMdb3d38dbz8k3rO4_AXBjRdHkX8cbbvCwZafOhCe3Pd4L51NX0vDWEuJb4Je6HcEuaN9-zc3y8MTd80lrDbc_BWm16DhKuWMxd3DZSPG-Nw",
+   "source": "Facebook \u00b7 Norwalk High School"
+  },
+  {
+   "position": 8,
+   "title": "NHS Calendar - Norwalk High School",
+   "link": "https://nhs.norwalkps.org/about/school-calendar",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZwHrOzAV1_CN7lpLuZn-zpvpJXobWNnuNFdoOKHZGGda7PBaBi2CdW4TONbdXZP7J3EwiubzlqypVGmPT0uK5ACIdODvwmdOIuhYpn251KmAVBE8W6tMLvZJw64bnKuExHX3dLVa070&ved=2ahUKEwikgYm26uSWAxXh1vACHcHQNc8QFnoECCkQAQ&uoh=1",
+   "displayed_link": "https://nhs.norwalkps.org \u203a about \u203a school-calendar",
+   "favicon": "https://serpapi.com/images/i/UklGRlIBAABXRUJQVlA4IEYBAADwBgCdASocABwAPtEutFooIagoGAEAGglsAKwvgabP4BdmbWsdAaTtloX-wOdqzeSo01fNEmVj0GaCRGbcFbwAAP72Bh1T0-AsM_hrvBma-zS8itDkuI2tjyQmE5pTqvyUGyrUqRqjo6i5ZS2mhRuc3AWn35s4cK6edz_vA_QWpJps_-pyDwj7hSF1tJrGHzaCQIjHOfpWFwQwdw2nhlRC4USjvcF_P_zZ-YS1S7mZL2l_Y8ld2u0IO4oUOBXOzdff2fODNdIy5JgI1v8f6P9JJapVUaZvze49I2OaEjrNe1kqPFl7UrRAqqRAgFmN-rvxozPBxy3UoMOchZhqueOVG6jwVMdECYsmrenn7J-N1qy7I_OzYet2hv_eIZeOu4hAoLAOXztIvpdSDpW6p9DuR_vFllfCiI83Kq4anl72cJSdyAAAAA.webp",
+   "snippet": "Norwalk High School. Logo Title. Norwalk High School \u00b7 Student Registration \u00b7 Employment \u00b7 Quick Links \u00b7 NPS District Calendar \u00b7 Parent and Family Help Desk ...",
+   "snippet_highlighted_words": [
+    "Norwalk High School",
+    "Norwalk High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Norwalk High School. Logo Title. Norwalk High School \u00b7 Student Registration \u00b7 Employment \u00b7 Quick Links \u00b7 NPS District Calendar \u00b7 Parent and Family Help Desk ...",
+     "source_info_link": "https://nhs.norwalkps.org/about/school-calendar",
+     "icon": "https://serpapi.com/images/i/UklGRlIBAABXRUJQVlA4IEYBAADwBgCdASocABwAPtEutFooIagoGAEAGglsAKwvgabP4BdmbWsdAaTtloX-wOdqzeSo01fNEmVj0GaCRGbcFbwAAP72Bh1T0-AsM_hrvBma-zS8itDkuI2tjyQmE5pTqvyUGyrUqRqjo6i5ZS2mhRuc3AWn35s4cK6edz_vA_QWpJps_-pyDwj7hSF1tJrGHzaCQIjHOfpWFwQwdw2nhlRC4USjvcF_P_zZ-YS1S7mZL2l_Y8ld2u0IO4oUOBXOzdff2fODNdIy5JgI1v8f6P9JJapVUaZvze49I2OaEjrNe1kqPFl7UrRAqqRAgFmN-rvxozPBxy3UoMOchZhqueOVG6jwVMdECYsmrenn7J-N1qy7I_OzYet2hv_eIZeOu4hAoLAOXztIvpdSDpW6p9DuR_vFllfCiI83Kq4anl72cJSdyAAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESZwHrOzAV1_CN7lpLuZn-zpvpJXobWNnuNFdoOKHZGGda7PBaBi2CdW4TONbdXZP7J3EwiubzlqypVGmPT0uK5ACIdODvwmdOIuhYpn251KmAVBE8W6tMLvZJw64bnKuExHX3dLVa070&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESZwHrOzAV1_CN7lpLuZn-zpvpJXobWNnuNFdoOKHZGGda7PBaBi2CdW4TONbdXZP7J3EwiubzlqypVGmPT0uK5ACIdODvwmdOIuhYpn251KmAVBE8W6tMLvZJw64bnKuExHX3dLVa070",
+   "source": "Norwalk Public Schools",
+   "read_more_link": "https://nhs.norwalkps.org/about/school-calendar#:~:text=Norwalk%20High%20School"
+  },
+  {
+   "position": 9,
+   "title": "Norwalk High School | High School Sports | Home",
+   "link": "https://fan.hudl.com/usa/ia/norwalk/organization/12079/norwalk-high-school",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESggEB6zswFQpTTHGOh5LilJTeAsAx3UiKdX5ddf46_IbZosTuZc2mzAHAgQp12fPuDpFZmsTUcZjgswHoPG8pP7DZiEYfW2gban1YiGVtVk6-kDKcbtvELfd-8x_Rt_YJxqof89-ADRd9MStmv1g-xBIL7cOinRuF6NnT3MJ_JsfMPAVM&ved=2ahUKEwikgYm26uSWAxXh1vACHcHQNc8QFnoECCMQAQ&uoh=1",
+   "displayed_link": "https://fan.hudl.com \u203a usa \u203a norwalk \u203a organization \u203a no...",
+   "favicon": "https://serpapi.com/images/i/UklGRqIBAABXRUJQVlA4IJYBAACQCQCdASogACAAPrUurVanIacnG_DgFolsAJ0yhHp_nPGcuHWA8st4B5gOgBvB_oAdKV5TKeBQAe65hjvYFQUTZDCUGv5kjNe6N__NzHF9gC1GIEwAAP74t80-okQNPInVv8VZ7bc0DtCD1jMSe8Qbea6VHAUS_6g3j_zWXtI7wJFbpR7ch_KcZZbbhsfYdh3lSCfrDkX9_GUsp3kv9g3SLz1PT-5pQpGTzrZmsSRLuCDot9cW9ZSw_C7ColLxfuMnRER_q70MaxOMkYtJ69d3mRNPbrhxRxz8v6dcymSa2wAiunrloSzPvmpfsi7TYUKYIQ3kRe8O6Bs8z8k4272A1U4dQ-8G7a-185IUQi5X_R4oXRrVElhEMjVJhzmJ-23qY2A_nLSfTeNYijh3_r_rnOjff8xupEXSz6RXEOxab-FF-_-mqLL8f6kiWpUjoLo5xjdXUnmXA-BoedmYiS_qiSmmTJOuxOVD3R1HakG4c8Nz6o5g1RLOvD3aOADQjZaHR_P6PQf1lcJyFOiFPFdBnDW1AAAA.webp",
+   "snippet": "Norwalk High School \u00b7 Warriors \u00b7 Mens Varsity. Baseball \u00b7 Norwalk Varsity Boys. Basketball \u00b7 Norwalk Varsity Girls. Basketball \u00b7 Norwalk JV. Girls' \u00b7 JV. Norwalk.",
+   "snippet_highlighted_words": [
+    "Norwalk High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Norwalk High School \u00b7 Warriors \u00b7 Mens Varsity. Baseball \u00b7 Norwalk Varsity Boys. Basketball \u00b7 Norwalk Varsity Girls. Basketball \u00b7 Norwalk JV. Girls' \u00b7 JV. Norwalk.",
+     "source_info_link": "https://fan.hudl.com/usa/ia/norwalk/organization/12079/norwalk-high-school",
+     "icon": "https://serpapi.com/images/i/UklGRqIBAABXRUJQVlA4IJYBAACQCQCdASogACAAPrUurVanIacnG_DgFolsAJ0yhHp_nPGcuHWA8st4B5gOgBvB_oAdKV5TKeBQAe65hjvYFQUTZDCUGv5kjNe6N__NzHF9gC1GIEwAAP74t80-okQNPInVv8VZ7bc0DtCD1jMSe8Qbea6VHAUS_6g3j_zWXtI7wJFbpR7ch_KcZZbbhsfYdh3lSCfrDkX9_GUsp3kv9g3SLz1PT-5pQpGTzrZmsSRLuCDot9cW9ZSw_C7ColLxfuMnRER_q70MaxOMkYtJ69d3mRNPbrhxRxz8v6dcymSa2wAiunrloSzPvmpfsi7TYUKYIQ3kRe8O6Bs8z8k4272A1U4dQ-8G7a-185IUQi5X_R4oXRrVElhEMjVJhzmJ-23qY2A_nLSfTeNYijh3_r_rnOjff8xupEXSz6RXEOxab-FF-_-mqLL8f6kiWpUjoLo5xjdXUnmXA-BoedmYiS_qiSmmTJOuxOVD3R1HakG4c8Nz6o5g1RLOvD3aOADQjZaHR_P6PQf1lcJyFOiFPFdBnDW1AAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESggEB6zswFQpTTHGOh5LilJTeAsAx3UiKdX5ddf46_IbZosTuZc2mzAHAgQp12fPuDpFZmsTUcZjgswHoPG8pP7DZiEYfW2gban1YiGVtVk6-kDKcbtvELfd-8x_Rt_YJxqof89-ADRd9MStmv1g-xBIL7cOinRuF6NnT3MJ_JsfMPAVM&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESggEB6zswFQpTTHGOh5LilJTeAsAx3UiKdX5ddf46_IbZosTuZc2mzAHAgQp12fPuDpFZmsTUcZjgswHoPG8pP7DZiEYfW2gban1YiGVtVk6-kDKcbtvELfd-8x_Rt_YJxqof89-ADRd9MStmv1g-xBIL7cOinRuF6NnT3MJ_JsfMPAVM",
+   "source": "Hudl",
+   "read_more_link": "https://fan.hudl.com/usa/ia/norwalk/organization/12079/norwalk-high-school#:~:text=Norwalk%20High%20School&text=Warriors&text=Mens%20Varsity,Baseball&text=Norwalk%20Varsity%20Boys,Basketball&text=Norwalk%20Varsity%20Girls,Basketball&text=Norwalk%20JV,Girls'&text=JV,Norwalk"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Norwalk high school football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuVCyqH7tIA5-m6iFE5K8IP36KhDQ:1789071424903&q=Norwalk+high+school+football&sa=X&ved=2ahUKEwikgYm26uSWAxXh1vACHcHQNc8Q1QJ6BAhIEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Norwalk+high+school+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Norwalk High School ca",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuVCyqH7tIA5-m6iFE5K8IP36KhDQ:1789071424903&q=Norwalk+High+School+ca&sa=X&ved=2ahUKEwikgYm26uSWAxXh1vACHcHQNc8Q1QJ6BAhUEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Norwalk+High+School+ca"
+  },
+  {
+   "block_position": 1,
+   "query": "Norwalk High School address",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuVCyqH7tIA5-m6iFE5K8IP36KhDQ:1789071424903&q=Norwalk+High+School+address&sa=X&ved=2ahUKEwikgYm26uSWAxXh1vACHcHQNc8Q1QJ6BAhSEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Norwalk+High+School+address"
+  },
+  {
+   "block_position": 1,
+   "query": "Norwalk high school basketball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuVCyqH7tIA5-m6iFE5K8IP36KhDQ:1789071424903&q=Norwalk+high+school+basketball&sa=X&ved=2ahUKEwikgYm26uSWAxXh1vACHcHQNc8Q1QJ6BAhTEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Norwalk+high+school+basketball"
+  },
+  {
+   "block_position": 1,
+   "query": "Norwalk High School logo",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuVCyqH7tIA5-m6iFE5K8IP36KhDQ:1789071424903&q=Norwalk+High+School+logo&sa=X&ved=2ahUKEwikgYm26uSWAxXh1vACHcHQNc8Q1QJ6BAhQEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Norwalk+High+School+logo"
+  },
+  {
+   "block_position": 1,
+   "query": "Norwalk High School bell Schedule",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuVCyqH7tIA5-m6iFE5K8IP36KhDQ:1789071424903&q=Norwalk+High+School+bell+Schedule&sa=X&ved=2ahUKEwikgYm26uSWAxXh1vACHcHQNc8Q1QJ6BAhREAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Norwalk+High+School+bell+Schedule"
+  },
+  {
+   "block_position": 1,
+   "query": "Norwalk High School mascot",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuVCyqH7tIA5-m6iFE5K8IP36KhDQ:1789071424903&q=Norwalk+High+School+mascot&sa=X&ved=2ahUKEwikgYm26uSWAxXh1vACHcHQNc8Q1QJ6BAhPEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Norwalk+High+School+mascot"
+  },
+  {
+   "block_position": 1,
+   "query": "Norwalk High School ia",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuVCyqH7tIA5-m6iFE5K8IP36KhDQ:1789071424903&q=Norwalk+High+School+ia&sa=X&ved=2ahUKEwikgYm26uSWAxXh1vACHcHQNc8Q1QJ6BAhNEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Norwalk+High+School+ia"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Norwalk+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuVCyqH7tIA5-m6iFE5K8IP36KhDQ:1789071424903&ei=QBCjaqThNuGtw8cPwaHX-Qw&start=10&sa=N&sstk=AS6-VmJymEFunvatU3LVlXQ-v1OH2wI0e8693omjEu2VJtYqtxNQ3GBLmVNfk6VxTXGQ08cD48LM3A67rMUUw-doC043UfX8vKfwxg&ved=2ahUKEwikgYm26uSWAxXh1vACHcHQNc8Q8NMDegQIOxAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Norwalk+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuVCyqH7tIA5-m6iFE5K8IP36KhDQ:1789071424903&ei=QBCjaqThNuGtw8cPwaHX-Qw&start=10&sa=N&sstk=AS6-VmJymEFunvatU3LVlXQ-v1OH2wI0e8693omjEu2VJtYqtxNQ3GBLmVNfk6VxTXGQ08cD48LM3A67rMUUw-doC043UfX8vKfwxg&ved=2ahUKEwikgYm26uSWAxXh1vACHcHQNc8Q8tMDegQIOxAE",
+   "3": "https://www.google.com/search?q=%22Norwalk+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuVCyqH7tIA5-m6iFE5K8IP36KhDQ:1789071424903&ei=QBCjaqThNuGtw8cPwaHX-Qw&start=20&sa=N&sstk=AS6-VmJymEFunvatU3LVlXQ-v1OH2wI0e8693omjEu2VJtYqtxNQ3GBLmVNfk6VxTXGQ08cD48LM3A67rMUUw-doC043UfX8vKfwxg&ved=2ahUKEwikgYm26uSWAxXh1vACHcHQNc8Q8tMDegQIOxAG",
+   "4": "https://www.google.com/search?q=%22Norwalk+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuVCyqH7tIA5-m6iFE5K8IP36KhDQ:1789071424903&ei=QBCjaqThNuGtw8cPwaHX-Qw&start=30&sa=N&sstk=AS6-VmJymEFunvatU3LVlXQ-v1OH2wI0e8693omjEu2VJtYqtxNQ3GBLmVNfk6VxTXGQ08cD48LM3A67rMUUw-doC043UfX8vKfwxg&ved=2ahUKEwikgYm26uSWAxXh1vACHcHQNc8Q8tMDegQIOxAI",
+   "5": "https://www.google.com/search?q=%22Norwalk+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuVCyqH7tIA5-m6iFE5K8IP36KhDQ:1789071424903&ei=QBCjaqThNuGtw8cPwaHX-Qw&start=40&sa=N&sstk=AS6-VmJymEFunvatU3LVlXQ-v1OH2wI0e8693omjEu2VJtYqtxNQ3GBLmVNfk6VxTXGQ08cD48LM3A67rMUUw-doC043UfX8vKfwxg&ved=2ahUKEwikgYm26uSWAxXh1vACHcHQNc8Q8tMDegQIOxAK",
+   "6": "https://www.google.com/search?q=%22Norwalk+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuVCyqH7tIA5-m6iFE5K8IP36KhDQ:1789071424903&ei=QBCjaqThNuGtw8cPwaHX-Qw&start=50&sa=N&sstk=AS6-VmJymEFunvatU3LVlXQ-v1OH2wI0e8693omjEu2VJtYqtxNQ3GBLmVNfk6VxTXGQ08cD48LM3A67rMUUw-doC043UfX8vKfwxg&ved=2ahUKEwikgYm26uSWAxXh1vACHcHQNc8Q8tMDegQIOxAM",
+   "7": "https://www.google.com/search?q=%22Norwalk+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuVCyqH7tIA5-m6iFE5K8IP36KhDQ:1789071424903&ei=QBCjaqThNuGtw8cPwaHX-Qw&start=60&sa=N&sstk=AS6-VmJymEFunvatU3LVlXQ-v1OH2wI0e8693omjEu2VJtYqtxNQ3GBLmVNfk6VxTXGQ08cD48LM3A67rMUUw-doC043UfX8vKfwxg&ved=2ahUKEwikgYm26uSWAxXh1vACHcHQNc8Q8tMDegQIOxAO",
+   "8": "https://www.google.com/search?q=%22Norwalk+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuVCyqH7tIA5-m6iFE5K8IP36KhDQ:1789071424903&ei=QBCjaqThNuGtw8cPwaHX-Qw&start=70&sa=N&sstk=AS6-VmJymEFunvatU3LVlXQ-v1OH2wI0e8693omjEu2VJtYqtxNQ3GBLmVNfk6VxTXGQ08cD48LM3A67rMUUw-doC043UfX8vKfwxg&ved=2ahUKEwikgYm26uSWAxXh1vACHcHQNc8Q8tMDegQIOxAQ",
+   "9": "https://www.google.com/search?q=%22Norwalk+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuVCyqH7tIA5-m6iFE5K8IP36KhDQ:1789071424903&ei=QBCjaqThNuGtw8cPwaHX-Qw&start=80&sa=N&sstk=AS6-VmJymEFunvatU3LVlXQ-v1OH2wI0e8693omjEu2VJtYqtxNQ3GBLmVNfk6VxTXGQ08cD48LM3A67rMUUw-doC043UfX8vKfwxg&ved=2ahUKEwikgYm26uSWAxXh1vACHcHQNc8Q8tMDegQIOxAS",
+   "10": "https://www.google.com/search?q=%22Norwalk+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuVCyqH7tIA5-m6iFE5K8IP36KhDQ:1789071424903&ei=QBCjaqThNuGtw8cPwaHX-Qw&start=90&sa=N&sstk=AS6-VmJymEFunvatU3LVlXQ-v1OH2wI0e8693omjEu2VJtYqtxNQ3GBLmVNfk6VxTXGQ08cD48LM3A67rMUUw-doC043UfX8vKfwxg&ved=2ahUKEwikgYm26uSWAxXh1vACHcHQNc8Q8tMDegQIOxAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Norwalk+High+School%22&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Norwalk+High+School%22&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Norwalk+High+School%22&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Norwalk+High+School%22&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Norwalk+High+School%22&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Norwalk+High+School%22&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Norwalk+High+School%22&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Norwalk+High+School%22&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Norwalk+High+School%22&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Norwalk+High+School%22&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Norwalk+High+School%22&start=90"
+  }
+ }
+}

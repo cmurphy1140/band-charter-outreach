@@ -1,0 +1,497 @@
+{
+ "search_information": {
+  "query_displayed": "\"Bridgeland High School\" Texas",
+  "total_results": 219000,
+  "time_taken_displayed": 0.38,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Bridgeland High School",
+  "type": "High school in Harris County, Texas",
+  "entity_type": "local_nav",
+  "kgmid": "/g/11c60ph75q",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/g/11c60ph75q&hl=en-US&q=Bridgeland+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fg%2F11c60ph75q&q=Bridgeland+High+School",
+  "place_id": "ChIJUw-Gf4spQYYRQwX6-_THJQ8",
+  "website": "http://cfisd.net/bridgeland",
+  "description": "Bridgeland High School is a high school in the Bridgeland community in unincorporated Harris County, Texas, in the Houston metropolitan area. It is part of the Cypress-Fairbanks Independent School District.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa30c76759dbc9514c71314/images/SppEx_IxubmfJ8_Ev3qYeggXjBtAjnbCWYuW6yPwQL8.webp",
+   "link": "https://www.google.com/maps/place/Bridgeland+High+School/data=!4m2!3m1!1s0x0:0xf25c7f4fbfa0543?sa=X&ved=2ahUKEwjUqo325uSWAxXDUMMIHSatPJMQ_BJ6BAgYEAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Bridgeland_High_School"
+  },
+  "address": "10707 Mason Rd, Cypress, TX 77433",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=bridgeland+high+school+address&ludocid=1091498339720627523&sa=X&ved=2ahUKEwjUqo325uSWAxXDUMMIHSatPJMQ6BN6BAgiEAI"
+   }
+  ],
+  "founded": "2017",
+  "colors": "Navy Blue, Orange",
+  "colors_links": [
+   {
+    "text": "Navy Blue",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yd4bVTs2WeOhY6ByYqdNCFC8PS-Ag_1G1hLnN765qFoSjuEOBCwbePH7JDDdMff5IXFaxC3O_SgE2Z99PHc4bGUfirNuXE48mU_MjrIqrUE9gmz66kR0RHoTfbk4ln_l9VVtP94G8pc6BQYgC5lxC23SjKaQHhCN7Ai4In0LZ-cfHpYpEi4luZaRLAmdpFnD7_RXJC3uxaQpfq7UMBatklSXrr2x&sa=X&ved=2ahUKEwjUqo325uSWAxXDUMMIHSatPJMQmxN6BAgoEAI"
+   },
+   {
+    "text": "Orange",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpoTh0rHvgvOfnZuhlpwKr-Sebm-Cg4ev8Y2tjnb5XjsN1aa2ImiVtAKbhY3IdKwy7qSw4y_eI74_tg2Q6E1zMl-hE0rUejDQTcH57ZhGizFR6sQUgmzx4c3DJKiQU9oa2Lr6c18EaaWPCqAsa-MM-Oh2YOrVVcVL_4EmDH72-IUSoX1A3ZOuyD-xlJiZxN1kaBkLXfh8LIKx9qlq4QES6ZmCXssf&sa=X&ved=2ahUKEwjUqo325uSWAxXDUMMIHSatPJMQmxN6BAgoEAM"
+   }
+  ],
+  "school_type": "State school",
+  "school_type_links": [
+   {
+    "text": "State school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=State+school&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ybGtCxI0H8z2nV80srIO5hjViyillkK5kkfBMbqSqsCGlkwruwTbKGnCaupsYC72jUW_-A7e7_6oxTWDDWROEmk23ts98daHxr2ykH0HQpmP0tnmF4MPK1noGNvUCvQUmOITPUVhcymMMXFkLUh9wtpOGtMNTziOY37l6PPDRwGb19PCKQ%3D%3D&sa=X&ved=2ahUKEwjUqo325uSWAxXDUMMIHSatPJMQmxN6BAgqEAI"
+   }
+  ],
+  "district": "Cypress-Fairbanks Independent School District",
+  "district_links": [
+   {
+    "text": "Cypress-Fairbanks Independent School District",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Cypress-Fairbanks+Independent+School+District&si=APenkKllX05q7xl66dAosm6nb1iufu-bJlxCkZH1IWMVBt1d4I2RV7WASlniWO_vWE7qA-GaYyv5MaDtrBN_32qP4-o7EduG2mvP2UrfhpCbbji7pETKT042GpdQs7H3deJCpI3tmLmTwC2mMJpvaLEcEbiI92rKilADrZSH7lhqMidJO-E2wuAFh043mW2qWwefwV495ayFnUCzSlnuaiRBu8krh6KZOgSgvRtBK6o2JcK2adT1CvW8TLeNpf0OsCA9f2H8aR7T&sa=X&ved=2ahUKEwjUqo325uSWAxXDUMMIHSatPJMQmxN6BAglEAI"
+   }
+  ],
+  "phone": "(832) 349-7600",
+  "raw_hours": "Closed \u00b7 Opens 7 AM Fri",
+  "hours": {
+   "thursday": {
+    "opens": "7\u202fAM",
+    "closes": "3\u202fPM"
+   },
+   "friday": {
+    "opens": "7\u202fAM",
+    "closes": "3\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "7:30\u202fAM",
+    "closes": "3\u202fPM"
+   },
+   "tuesday": {
+    "opens": "7\u202fAM",
+    "closes": "3\u202fPM"
+   },
+   "wednesday": {
+    "opens": "7\u202fAM",
+    "closes": "3\u202fPM"
+   }
+  },
+  "people_also_search_for": [
+   {
+    "name": "Cypress Ranch High School",
+    "image": "https://serpapi.com/searches/6aa30c76759dbc9514c71314/images/SppEx_IxubmfJ8_Ev3qYen1uNdjaq6TbZ7AoOcRwkGYsv2uqkZoMLulct9oRFuwI.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yeKV0Vy_D2Nr-Ls-IRn-A3VPepeLwJVrBaXPhZ-h1Wmuf0UxuxRJt_kCpA0Qoc8cB4G5-x0aUnKfeDannjTU3jS-HSypqlpvfCd3EkE8RRowjcXe1Z3WkAxEf15N2eAqe5ydlnCNW37FjxKcUdK5XCWnN6zMzBVPFbnNPyP8lX_1O-70L_rWN6Eu7CMasR7IChbHLsRUbLinCD-GMSoxJKCRlC9R5hyiO6JqjrwtE4Z2Y3lBlDqmg0gVk98WFYGptDoQX4f_cBWNwSQnAW0WRo65y809&q=Cypress+Ranch+High+School&sa=X&ved=2ahUKEwjUqo325uSWAxXDUMMIHSatPJMQs9oBKAB6BAgeEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Cypress+Ranch+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yeKV0Vy_D2Nr-Ls-IRn-A3VPepeLwJVrBaXPhZ-h1Wmuf0UxuxRJt_kCpA0Qoc8cB4G5-x0aUnKfeDannjTU3jS-HSypqlpvfCd3EkE8RRowjcXe1Z3WkAxEf15N2eAqe5ydlnCNW37FjxKcUdK5XCWnN6zMzBVPFbnNPyP8lX_1O-70L_rWN6Eu7CMasR7IChbHLsRUbLinCD-GMSoxJKCRlC9R5hyiO6JqjrwtE4Z2Y3lBlDqmg0gVk98WFYGptDoQX4f_cBWNwSQnAW0WRo65y809"
+   },
+   {
+    "name": "Langham Creek High School",
+    "image": "https://serpapi.com/searches/6aa30c76759dbc9514c71314/images/SppEx_IxubmfJ8_Ev3qYen1uNdjaq6TbZ7AoOcRwkGYjuJoJAx4CpY3-0mXBDa9B.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yQnvJkUNWYaGColucZO3tpZfXDUq-enHDXFd38lml6Dl-GPd_mSVJh6YbfUtzKDYvLRyLx1ptpbRmDEOMDBsLRlGvop7386CpGJRDQMWowLZ35nXIjaRbJWniKq63Zovnd7H2C3jgbKIQOKBQ1fJPhjSlh81k3vr8KpbTYczWj1XSnf3pYZz7Q6hPXUAR1gJh6UT0lXPKSnqAGtLMQqpyQOxDnwUW3IEuHdBKI5kRTq-nN2cDImFwszHs4vpNYd6psPop8dcfsqbUgM4wLeLFxEDMiNS&q=Langham+Creek+High+School&sa=X&ved=2ahUKEwjUqo325uSWAxXDUMMIHSatPJMQs9oBKAB6BAgeEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Langham+Creek+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yQnvJkUNWYaGColucZO3tpZfXDUq-enHDXFd38lml6Dl-GPd_mSVJh6YbfUtzKDYvLRyLx1ptpbRmDEOMDBsLRlGvop7386CpGJRDQMWowLZ35nXIjaRbJWniKq63Zovnd7H2C3jgbKIQOKBQ1fJPhjSlh81k3vr8KpbTYczWj1XSnf3pYZz7Q6hPXUAR1gJh6UT0lXPKSnqAGtLMQqpyQOxDnwUW3IEuHdBKI5kRTq-nN2cDImFwszHs4vpNYd6psPop8dcfsqbUgM4wLeLFxEDMiNS"
+   },
+   {
+    "name": "Cypress Woods High School",
+    "image": "https://serpapi.com/searches/6aa30c76759dbc9514c71314/images/SppEx_IxubmfJ8_Ev3qYen1uNdjaq6TbZ7AoOcRwkGbJOUBaNx0YfEnK96Q0tlqe.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yZKkncmGQsEEmYG5njMlnGdCCiBn2OUl92KYW4GTwyboFWInwrlvQY_drJpcMOrSKxzpCCkBey-M72LRr0QFFzm8xKjr1k9vxGns0ysRIvKjMCayEoRW6Zy_hmHK4oNkvk8SEYMufSglHlF8kqLv_y_G6FKwbbcfNWSkcoA8cCAEJtEqj-dq5FOZ_a2B1Eb7V2LtApqDt4L2AMN_KeLq3gnWL2UORQoObiUIQ-Q1cqi4smN5VtfehoRIRohC2VNlK5cmzduOwfSFfoPMfhz0EVqf7iRp&q=Cypress+Woods+High+School&sa=X&ved=2ahUKEwjUqo325uSWAxXDUMMIHSatPJMQs9oBKAB6BAgeEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Cypress+Woods+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yZKkncmGQsEEmYG5njMlnGdCCiBn2OUl92KYW4GTwyboFWInwrlvQY_drJpcMOrSKxzpCCkBey-M72LRr0QFFzm8xKjr1k9vxGns0ysRIvKjMCayEoRW6Zy_hmHK4oNkvk8SEYMufSglHlF8kqLv_y_G6FKwbbcfNWSkcoA8cCAEJtEqj-dq5FOZ_a2B1Eb7V2LtApqDt4L2AMN_KeLq3gnWL2UORQoObiUIQ-Q1cqi4smN5VtfehoRIRohC2VNlK5cmzduOwfSFfoPMfhz0EVqf7iRp"
+   },
+   {
+    "name": "Cypress Park High School",
+    "image": "https://serpapi.com/searches/6aa30c76759dbc9514c71314/images/SppEx_IxubmfJ8_Ev3qYen1uNdjaq6TbZ7AoOcRwkGZnJp2yZya0RzlHrkroR6Vk.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0UDAShzdr8POJP-x0YLh2UtSLNdy7Xqwyu9cpRqRml1Ud4pjJuZuT4vHE3B4DiHlMzzAlQFua65t38K8MH6SHMhVlxZWep4UnXBRPwwZPrJ07LM5G74-22U3UHwjOTbNf8mMY5pDPwj2TXa_yTk7d1xTKfi9TGjgNzXXtL4POjW1naNOCpqXKt7Xro3IIIPZfbv_6qzs7fNhvr7XWHEemKiHQr5_lCtBMwii0NwS1LcQZWyvibYH6hIvKzAWe4G36TR9kgNRD5Z5sDa0pBTwTIWlLFNpjm3-Hyiobynf6LoxgzVqEw%3D%3D&q=Cypress+Park+High+School&sa=X&ved=2ahUKEwjUqo325uSWAxXDUMMIHSatPJMQs9oBKAB6BAgeEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Cypress+Park+High+School&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0UDAShzdr8POJP-x0YLh2UtSLNdy7Xqwyu9cpRqRml1Ud4pjJuZuT4vHE3B4DiHlMzzAlQFua65t38K8MH6SHMhVlxZWep4UnXBRPwwZPrJ07LM5G74-22U3UHwjOTbNf8mMY5pDPwj2TXa_yTk7d1xTKfi9TGjgNzXXtL4POjW1naNOCpqXKt7Xro3IIIPZfbv_6qzs7fNhvr7XWHEemKiHQr5_lCtBMwii0NwS1LcQZWyvibYH6hIvKzAWe4G36TR9kgNRD5Z5sDa0pBTwTIWlLFNpjm3-Hyiobynf6LoxgzVqEw%3D%3D"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Bridgeland+High+School&stick=H4sIAAAAAAAAAONgFuLVT9c3NEw2MyjIMDctVELlagkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axCrmVJSZkp6ak5iXouCRmZ6hEJyckZ-fs4OV8RabJMMbh4rAXL6mziXhhodYtRdtjkgKtkkP-34cACE_R7WEAAAA&sa=X&ved=2ahUKEwjUqo325uSWAxXDUMMIHSatPJMQzO0BKAR6BAgeEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLVT9c3NEw2MyjIMDctVELlagkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axCrmVJSZkp6ak5iXouCRmZ6hEJyckZ-fs4OV8RabJMMbh4rAXL6mziXhhodYtRdtjkgKtkkP-34cACE_R7WEAAAA",
+  "profiles": [
+   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/bridgelandhs/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Bridgeland+High+School%22+Texas",
+    "image": "https://serpapi.com/searches/6aa30c76759dbc9514c71314/images/SppEx_IxubmfJ8_Ev3qYerWaBHgT6yDGoyYkmxyBGsZql2oLEHLQL9CjfHhn9r2S.png"
+   },
+   {
+    "name": "X (Twitter)",
+    "link": "https://twitter.com/bridgelandcfisd",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Bridgeland+High+School%22+Texas",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAABhUlEQVR4AczOA6xcARCF4X_us23btuLUQR3WZlhbQW3bto2gtm3b2J3GN4tY74uHh3okOi42Nj4AAUDwTvDEhisABCOAEAzYTBh0bN-lc5d0QgAhHPqX4Y4pkd367Zc-xMcXCPDg8TPwxeQH724Uj9N95GJ4pnHxby1xgCmV3v-GsFb7k0Iee7UjaQgmIYe9v9O4-wUKWaATyMPAViwvr1NnOQWDdTV5CHYSaKWLmaGDyvU4mTgQcllracaFr-9uk-yLM8k8fAJff0IUTghRVFu3M1ynkYk4nchiqqU3Ry05RDibMMhjtj6Ht3dJxVk_l1G64cspOusychBsCWm01WNM0jFs0sbEYUtIIuTXNco588OLh09JxE6wweuXEAvfL9PQus3-iU80N34KCaQyUOcxTTuSjEmMRI5rS9JwIZfD1t7ceo34YIpnuQ4nGwP8XXlq_fJZd9jE8KBHC5IwAELJ7dWrZ6fOuNhkgFgAEEIAwA1MQkw0AgDC_wnKycrKSQ2iPAkAVyNzq8rxicIAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/BridgelandCFISD",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Bridgeland+High+School%22+Texas",
+    "image": "https://serpapi.com/searches/6aa30c76759dbc9514c71314/images/SppEx_IxubmfJ8_Ev3qYehP4wTTTtNn8uDWPY-nSTp-TTuhz4aAifmmP2adoB4bI.png"
+   },
+   {
+    "name": "TikTok",
+    "link": "https://www.tiktok.com/@bridgeland_high_school",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Bridgeland+High+School%22+Texas",
+    "image": "https://serpapi.com/searches/6aa30c76759dbc9514c71314/images/SppEx_IxubmfJ8_Ev3qYet_maJm57UEZsmPNmFzQMRrGE3RoxUoAKyP5eKAU6iAc.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "What is Bridgeland High School ranked in Texas?",
+   "type": "ai_overview",
+   "page_token": "we8QsHicHdBZjpswAABQ9TLzObGTmbSJFFWFsWHc4MjGC_BTGWchYAdngrLw1yv0DD1VT9OqR3jv5293PHV_Pv1qhiFclpPJ7XZ7PvT9we2ebe8n5vI42Yk1ztXGdsv55zn8urcrdLVR_GEjJkNQbxzk0hVV4toKhCALguX0NaIKB-6HuO4oMJ4QAYjhDiMew4YBsqZFeGPuMMtQReuRZJkL8xqUjzwtgYFo1MkiqVAPGFysKYzWJmkG1VZ-F8NUdopKQdmmoHKbutQ6OZOYZExDKhJ8t9oCjWAw8v1hBH6hyHW1VyfjcWL8-00o-j0TONeSmjwJFVfbVzt-G7XA_p-n5Rqec0E2VId7MbKZ9ltVHmGZT8kVNduLLNy5LCIhpH0R0-ZcOcdsyh87Dbm590cm-Whb5xVabEQaaYqruAZf7qolw0YtGoUaUyse71oEGXva2-tq9vT_evVj74dl-OgPfwHIFYub",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=we8QsHicHdBZjpswAABQ9TLzObGTmbSJFFWFsWHc4MjGC_BTGWchYAdngrLw1yv0DD1VT9OqR3jv5293PHV_Pv1qhiFclpPJ7XZ7PvT9we2ebe8n5vI42Yk1ztXGdsv55zn8urcrdLVR_GEjJkNQbxzk0hVV4toKhCALguX0NaIKB-6HuO4oMJ4QAYjhDiMew4YBsqZFeGPuMMtQReuRZJkL8xqUjzwtgYFo1MkiqVAPGFysKYzWJmkG1VZ-F8NUdopKQdmmoHKbutQ6OZOYZExDKhJ8t9oCjWAw8v1hBH6hyHW1VyfjcWL8-00o-j0TONeSmjwJFVfbVzt-G7XA_p-n5Rqec0E2VId7MbKZ9ltVHmGZT8kVNduLLNy5LCIhpH0R0-ZcOcdsyh87Dbm590cm-Whb5xVabEQaaYqruAZf7qolw0YtGoUaUyse71oEGXva2-tq9vT_evVj74dl-OgPfwHIFYub",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWRHWnRNVzV0V21ObFNuVTBSWFkxVTBsdFN6VlhkRGhYYkRSVFVGUnJWMGhQYW1OemMyeHFObGxqYjJaVU5GVm5WRTV2TjJGMVNUbEJOR2d5Ym1jd2FHbERjVXRtZVdSS01FbFhkMDl6UldGRk9URjJNbTVxT0ZZMVVSSVhiRkY1YW1Gd1UwMUhPRTlvYW1aWlVIQjBjbmx0VVdzYUlrRkVjM0k1WmxGSGVrWnNTVTlWTVdoVk0yZFlRMmhWZFdkRmMwWm5ja3hyVEdjIiwiZmN2IjoiMyIsImVpIjoibFF5amFwU01HOE9oamZZUHB0cnltUWsiLCJxYyI6IkNoeGljbWxrWjJWc1lXNWtJR2hwWjJnZ2MyTm9iMjlzSUhSbGVHRnpFQUI5RFRveVB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIEJyaWRnZWxhbmQgSGlnaCBTY2hvb2wgcmFua2VkIGluIFRleGFzPyIsImxrIjoiR2k1M2FHRjBJR2x6SUdKeWFXUm5aV3hoYm1RZ2FHbG5hQ0J6WTJodmIyd2djbUZ1YTJWa0lHbHVJSFJsZUdGeiIsImJzIjoiYzNYUU1RLUNNQkFGNExoMmNtWjZpM0V4Z3Z3QkVpZGNsVVRYMmw1b1kyMEpiUVRfdlVKSU5BM01kOTk3dVdPQ3BWZkZBN1RIc2RXeUpzT3RSS2xyaFl0UXpobTAzRDVJUWx0VTFITmY1Rm15N3laeV94RTFFQi1UTUJCMlp0dXhaQnBMN1VPclJWUzZRM1VyOG0yeTZSWldfOHBDUDJTZVlnNk8yam1KeG5CQkNBNUd2MmpNalBuc0ppT1dsYTdEazlzM0duS05JZkFReU1ydk1mUGZLZkpEa3FvbE1fLWU5ZW9EIiwiaWQiOiJmY19sUXlqYXBTTUc4T2hqZllQcHRyeW1Ra181In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWRHWnRNVzV0V21ObFNuVTBSWFkxVTBsdFN6VlhkRGhYYkRSVFVGUnJWMGhQYW1OemMyeHFObGxqYjJaVU5GVm5WRTV2TjJGMVNUbEJOR2d5Ym1jd2FHbERjVXRtZVdSS01FbFhkMDl6UldGRk9URjJNbTVxT0ZZMVVSSVhiRkY1YW1Gd1UwMUhPRTlvYW1aWlVIQjBjbmx0VVdzYUlrRkVjM0k1WmxGSGVrWnNTVTlWTVdoVk0yZFlRMmhWZFdkRmMwWm5ja3hyVEdjIiwiZmN2IjoiMyIsImVpIjoibFF5amFwU01HOE9oamZZUHB0cnltUWsiLCJxYyI6IkNoeGljbWxrWjJWc1lXNWtJR2hwWjJnZ2MyTm9iMjlzSUhSbGVHRnpFQUI5RFRveVB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIEJyaWRnZWxhbmQgSGlnaCBTY2hvb2wgcmFua2VkIGluIFRleGFzPyIsImxrIjoiR2k1M2FHRjBJR2x6SUdKeWFXUm5aV3hoYm1RZ2FHbG5hQ0J6WTJodmIyd2djbUZ1YTJWa0lHbHVJSFJsZUdGeiIsImJzIjoiYzNYUU1RLUNNQkFGNExoMmNtWjZpM0V4Z3Z3QkVpZGNsVVRYMmw1b1kyMEpiUVRfdlVKSU5BM01kOTk3dVdPQ3BWZkZBN1RIc2RXeUpzT3RSS2xyaFl0UXpobTAzRDVJUWx0VTFITmY1Rm15N3laeV94RTFFQi1UTUJCMlp0dXhaQnBMN1VPclJWUzZRM1VyOG0yeTZSWldfOHBDUDJTZVlnNk8yam1KeG5CQkNBNUd2MmpNalBuc0ppT1dsYTdEazlzM0duS05JZkFReU1ydk1mUGZLZkpEa3FvbE1fLWU5ZW9EIiwiaWQiOiJmY19sUXlqYXBTTUc4T2hqZllQcHRyeW1Ra181In0%3D"
+  },
+  {
+   "question": "What school district is Bridgeland, TX?",
+   "type": "ai_overview",
+   "page_token": "Ctay0HicHdDbboIwGADg7GW8VMDDpolZgrSgU5LWthxuFmhFhJ-DykB7t3fZU-1plux7hO_7By51-fvS513X3leTyTAM43PTnOE0lk01Se7PWk5kApAmslwtXhfmeybX6Gtrb65bm_C2FQ41GEadMNAsMcXWD_M5d0udFrBnoUpSCw0BthcSgxe7b8ZetDdmLY97gR809FvhHuYpxhsKwhWBCdx9OH6pioNHZ0y0_dFr-YnnJCp9hyJjiD3cByA-4jLfpWBXnCGLu42W2vZ8x7ai6tD5gM0D8vvAib2Iiy2fxncmlPCR6Smjy2gQGQGojgRmk9QADEvNjC5SAoPQuxrl6s5DuEahzRiXM2bl1xiASI8-T4FJk0dzIZxqWUDFKzWcavJItC2UuSzUVO1IqTKqwT0W0TyqiSZklMl-PR39f64_s6pbtbfm_Ae1_IR1",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Ctay0HicHdDbboIwGADg7GW8VMDDpolZgrSgU5LWthxuFmhFhJ-DykB7t3fZU-1plux7hO_7By51-fvS513X3leTyTAM43PTnOE0lk01Se7PWk5kApAmslwtXhfmeybX6Gtrb65bm_C2FQ41GEadMNAsMcXWD_M5d0udFrBnoUpSCw0BthcSgxe7b8ZetDdmLY97gR809FvhHuYpxhsKwhWBCdx9OH6pioNHZ0y0_dFr-YnnJCp9hyJjiD3cByA-4jLfpWBXnCGLu42W2vZ8x7ai6tD5gM0D8vvAib2Iiy2fxncmlPCR6Smjy2gQGQGojgRmk9QADEvNjC5SAoPQuxrl6s5DuEahzRiXM2bl1xiASI8-T4FJk0dzIZxqWUDFKzWcavJItC2UuSzUVO1IqTKqwT0W0TyqiSZklMl-PR39f64_s6pbtbfm_Ae1_IR1",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWRHWnRNVzV0V21ObFNuVTBSWFkxVTBsdFN6VlhkRGhYYkRSVFVGUnJWMGhQYW1OemMyeHFObGxqYjJaVU5GVm5WRTV2TjJGMVNUbEJOR2d5Ym1jd2FHbERjVXRtZVdSS01FbFhkMDl6UldGRk9URjJNbTVxT0ZZMVVSSVhiRkY1YW1Gd1UwMUhPRTlvYW1aWlVIQjBjbmx0VVdzYUlrRkVjM0k1WmxGSGVrWnNTVTlWTVdoVk0yZFlRMmhWZFdkRmMwWm5ja3hyVEdjIiwiZmN2IjoiMyIsImVpIjoibFF5amFwU01HOE9oamZZUHB0cnltUWsiLCJxYyI6IkNoeGljbWxrWjJWc1lXNWtJR2hwWjJnZ2MyTm9iMjlzSUhSbGVHRnpFQUI5RFRveVB3IiwicXVlc3Rpb24iOiJXaGF0IHNjaG9vbCBkaXN0cmljdCBpcyBCcmlkZ2VsYW5kLCBUWD8iLCJsayI6IkdpVjNhR0YwSUhOamFHOXZiQ0JrYVhOMGNtbGpkQ0JwY3lCaWNtbGtaMlZzWVc1a0lIUjQiLCJicyI6ImMzWFFNUS1DTUJBRjRMaDJjbVo2aTNFeGd2d0JFaWRjbFVUWDJsNW9ZMjBKYlFUX3ZVSklOQTNNZDk5N3VXT0NwVmZGQTdUSHNkV3lKc090UktscmhZdFF6aG0wM0Q1SVFsdFUxSE5mNUZteTd5WnlfeEUxRUItVE1CQjJadHV4WkJwTDdVT3JSVlM2UTNVcjhtMnk2UlpXXzhwQ1AyU2VZZzZPMmptSnhuQkJDQTVHdjJqTWpQbnNKaU9XbGE3RGs5czNHbktOSWZBUXlNcnZNZlBmS2ZKRGtxb2xNXy1lOWVvRCIsImlkIjoiZmNfbFF5amFwU01HOE9oamZZUHB0cnltUWtfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWRHWnRNVzV0V21ObFNuVTBSWFkxVTBsdFN6VlhkRGhYYkRSVFVGUnJWMGhQYW1OemMyeHFObGxqYjJaVU5GVm5WRTV2TjJGMVNUbEJOR2d5Ym1jd2FHbERjVXRtZVdSS01FbFhkMDl6UldGRk9URjJNbTVxT0ZZMVVSSVhiRkY1YW1Gd1UwMUhPRTlvYW1aWlVIQjBjbmx0VVdzYUlrRkVjM0k1WmxGSGVrWnNTVTlWTVdoVk0yZFlRMmhWZFdkRmMwWm5ja3hyVEdjIiwiZmN2IjoiMyIsImVpIjoibFF5amFwU01HOE9oamZZUHB0cnltUWsiLCJxYyI6IkNoeGljbWxrWjJWc1lXNWtJR2hwWjJnZ2MyTm9iMjlzSUhSbGVHRnpFQUI5RFRveVB3IiwicXVlc3Rpb24iOiJXaGF0IHNjaG9vbCBkaXN0cmljdCBpcyBCcmlkZ2VsYW5kLCBUWD8iLCJsayI6IkdpVjNhR0YwSUhOamFHOXZiQ0JrYVhOMGNtbGpkQ0JwY3lCaWNtbGtaMlZzWVc1a0lIUjQiLCJicyI6ImMzWFFNUS1DTUJBRjRMaDJjbVo2aTNFeGd2d0JFaWRjbFVUWDJsNW9ZMjBKYlFUX3ZVSklOQTNNZDk5N3VXT0NwVmZGQTdUSHNkV3lKc090UktscmhZdFF6aG0wM0Q1SVFsdFUxSE5mNUZteTd5WnlfeEUxRUItVE1CQjJadHV4WkJwTDdVT3JSVlM2UTNVcjhtMnk2UlpXXzhwQ1AyU2VZZzZPMmptSnhuQkJDQTVHdjJqTWpQbnNKaU9XbGE3RGs5czNHbktOSWZBUXlNcnZNZlBmS2ZKRGtxb2xNXy1lOWVvRCIsImlkIjoiZmNfbFF5amFwU01HOE9oamZZUHB0cnltUWtfNSJ9"
+  },
+  {
+   "question": "Is Bridgeland, TX a good place to live?",
+   "type": "ai_overview",
+   "page_token": "gyxfDnicHdBLboJAAADQ9DIuFfw1mphGKohahjI_GDYNzKDIjIBlKp9d79JT9TRN-o7wvn_UtZS_T49c67pZTyZt244vVXVR2ZhXt0nS9CWf8ESpNOFyvXxemi9nvrG_Dtbr_WAFpK7pDhpoAD7aG10itZs4vAVG1aeuc0ojqcEgThCDKTIASqXuGAUu3dECOVYBMTy-kWMM5cpiql7gKS28QfTejM3F3vSwG-ustCQrti1SgmUkZ6nRLDKXDITCRUjMd2ZaKt5ZC1jQOFM5APuawRllqAA2lwKAMCfEzXUSxY2nAhOXwicYnsXgmX4YexCZvR9BzbE4pSUtfaJLOxcNidSdRRbGhM_xNL_HSgXchX0WmjDpqmtA4MALdSPTFQsUN3jh0ER2c-44NpZViynT3o0iMtvqIBid-WMzG_1_bj7ON72uP6vLHzkyhU4",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=gyxfDnicHdBLboJAAADQ9DIuFfw1mphGKohahjI_GDYNzKDIjIBlKp9d79JT9TRN-o7wvn_UtZS_T49c67pZTyZt244vVXVR2ZhXt0nS9CWf8ESpNOFyvXxemi9nvrG_Dtbr_WAFpK7pDhpoAD7aG10itZs4vAVG1aeuc0ojqcEgThCDKTIASqXuGAUu3dECOVYBMTy-kWMM5cpiql7gKS28QfTejM3F3vSwG-ustCQrti1SgmUkZ6nRLDKXDITCRUjMd2ZaKt5ZC1jQOFM5APuawRllqAA2lwKAMCfEzXUSxY2nAhOXwicYnsXgmX4YexCZvR9BzbE4pSUtfaJLOxcNidSdRRbGhM_xNL_HSgXchX0WmjDpqmtA4MALdSPTFQsUN3jh0ER2c-44NpZViynT3o0iMtvqIBid-WMzG_1_bj7ON72uP6vLHzkyhU4",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWRHWnRNVzV0V21ObFNuVTBSWFkxVTBsdFN6VlhkRGhYYkRSVFVGUnJWMGhQYW1OemMyeHFObGxqYjJaVU5GVm5WRTV2TjJGMVNUbEJOR2d5Ym1jd2FHbERjVXRtZVdSS01FbFhkMDl6UldGRk9URjJNbTVxT0ZZMVVSSVhiRkY1YW1Gd1UwMUhPRTlvYW1aWlVIQjBjbmx0VVdzYUlrRkVjM0k1WmxGSGVrWnNTVTlWTVdoVk0yZFlRMmhWZFdkRmMwWm5ja3hyVEdjIiwiZmN2IjoiMyIsImVpIjoibFF5amFwU01HOE9oamZZUHB0cnltUWsiLCJxYyI6IkNoeGljbWxrWjJWc1lXNWtJR2hwWjJnZ2MyTm9iMjlzSUhSbGVHRnpFQUI5RFRveVB3IiwicXVlc3Rpb24iOiJJcyBCcmlkZ2VsYW5kLCBUWCBhIGdvb2QgcGxhY2UgdG8gbGl2ZT8iLCJsayI6IkdpVnBjeUJpY21sa1oyVnNZVzVrSUhSNElHRWdaMjl2WkNCd2JHRmpaU0IwYnlCc2FYWmwiLCJicyI6ImMzWFFNUS1DTUJBRjRMaDJjbVo2aTNFeGd2d0JFaWRjbFVUWDJsNW9ZMjBKYlFUX3ZVSklOQTNNZDk5N3VXT0NwVmZGQTdUSHNkV3lKc090UktscmhZdFF6aG0wM0Q1SVFsdFUxSE5mNUZteTd5WnlfeEUxRUItVE1CQjJadHV4WkJwTDdVT3JSVlM2UTNVcjhtMnk2UlpXXzhwQ1AyU2VZZzZPMmptSnhuQkJDQTVHdjJqTWpQbnNKaU9XbGE3RGs5czNHbktOSWZBUXlNcnZNZlBmS2ZKRGtxb2xNXy1lOWVvRCIsImlkIjoiZmNfbFF5amFwU01HOE9oamZZUHB0cnltUWtfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWRHWnRNVzV0V21ObFNuVTBSWFkxVTBsdFN6VlhkRGhYYkRSVFVGUnJWMGhQYW1OemMyeHFObGxqYjJaVU5GVm5WRTV2TjJGMVNUbEJOR2d5Ym1jd2FHbERjVXRtZVdSS01FbFhkMDl6UldGRk9URjJNbTVxT0ZZMVVSSVhiRkY1YW1Gd1UwMUhPRTlvYW1aWlVIQjBjbmx0VVdzYUlrRkVjM0k1WmxGSGVrWnNTVTlWTVdoVk0yZFlRMmhWZFdkRmMwWm5ja3hyVEdjIiwiZmN2IjoiMyIsImVpIjoibFF5amFwU01HOE9oamZZUHB0cnltUWsiLCJxYyI6IkNoeGljbWxrWjJWc1lXNWtJR2hwWjJnZ2MyTm9iMjlzSUhSbGVHRnpFQUI5RFRveVB3IiwicXVlc3Rpb24iOiJJcyBCcmlkZ2VsYW5kLCBUWCBhIGdvb2QgcGxhY2UgdG8gbGl2ZT8iLCJsayI6IkdpVnBjeUJpY21sa1oyVnNZVzVrSUhSNElHRWdaMjl2WkNCd2JHRmpaU0IwYnlCc2FYWmwiLCJicyI6ImMzWFFNUS1DTUJBRjRMaDJjbVo2aTNFeGd2d0JFaWRjbFVUWDJsNW9ZMjBKYlFUX3ZVSklOQTNNZDk5N3VXT0NwVmZGQTdUSHNkV3lKc090UktscmhZdFF6aG0wM0Q1SVFsdFUxSE5mNUZteTd5WnlfeEUxRUItVE1CQjJadHV4WkJwTDdVT3JSVlM2UTNVcjhtMnk2UlpXXzhwQ1AyU2VZZzZPMmptSnhuQkJDQTVHdjJqTWpQbnNKaU9XbGE3RGs5czNHbktOSWZBUXlNcnZNZlBmS2ZKRGtxb2xNXy1lOWVvRCIsImlkIjoiZmNfbFF5amFwU01HOE9oamZZUHB0cnltUWtfNSJ9"
+  },
+  {
+   "question": "How many people attended Bridgeland High School?",
+   "type": "ai_overview",
+   "page_token": "7YjPyXicHZBdbpswAIC1y_SxwYEwJVJUjcQ0QwqdbWwHXiowSQj-wS1uQ_y2K-wMO9VOs6gn-H5-_1UXI_99-9M5Z8fVbHa9Xh_Pw3BWx0cx6Fk93oyYiVqpphZyFX-PwdNJrOGnSDbvIkHUWrbFAQmurpVYM5VwYfIDYku2B0uFeTYi3tlSg2wvl4b0XcxMrvBOnepd7kWR5hhYReYuZBIuiPwZkm0XvbAclrIlgo5TAyfD9Nlhj0KunUYy_2g4e277LsCe0ZcUeqaYqg32d3ach-2mmWMofJUikwUtzC6C2Y88HRy5gWK__eE5VxvOsqqk01gS4Cu5GCpuu9bYiKokFiAt8NyxIsBTpfFIVbVvaP6L9CmGXTvSg3orD0lRUBEV8-6tUgqJHb4dOcD1NFwQvbv0SlOQeeHZc1PIiMsFrHpmSkCje7MncmJH7VKEHk7icx0-fL1ev560W9n34fwftBuQag",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=7YjPyXicHZBdbpswAIC1y_SxwYEwJVJUjcQ0QwqdbWwHXiowSQj-wS1uQ_y2K-wMO9VOs6gn-H5-_1UXI_99-9M5Z8fVbHa9Xh_Pw3BWx0cx6Fk93oyYiVqpphZyFX-PwdNJrOGnSDbvIkHUWrbFAQmurpVYM5VwYfIDYku2B0uFeTYi3tlSg2wvl4b0XcxMrvBOnepd7kWR5hhYReYuZBIuiPwZkm0XvbAclrIlgo5TAyfD9Nlhj0KunUYy_2g4e277LsCe0ZcUeqaYqg32d3ach-2mmWMofJUikwUtzC6C2Y88HRy5gWK__eE5VxvOsqqk01gS4Cu5GCpuu9bYiKokFiAt8NyxIsBTpfFIVbVvaP6L9CmGXTvSg3orD0lRUBEV8-6tUgqJHb4dOcD1NFwQvbv0SlOQeeHZc1PIiMsFrHpmSkCje7MncmJH7VKEHk7icx0-fL1ev560W9n34fwftBuQag",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWRHWnRNVzV0V21ObFNuVTBSWFkxVTBsdFN6VlhkRGhYYkRSVFVGUnJWMGhQYW1OemMyeHFObGxqYjJaVU5GVm5WRTV2TjJGMVNUbEJOR2d5Ym1jd2FHbERjVXRtZVdSS01FbFhkMDl6UldGRk9URjJNbTVxT0ZZMVVSSVhiRkY1YW1Gd1UwMUhPRTlvYW1aWlVIQjBjbmx0VVdzYUlrRkVjM0k1WmxGSGVrWnNTVTlWTVdoVk0yZFlRMmhWZFdkRmMwWm5ja3hyVEdjIiwiZmN2IjoiMyIsImVpIjoibFF5amFwU01HOE9oamZZUHB0cnltUWsiLCJxYyI6IkNoeGljbWxrWjJWc1lXNWtJR2hwWjJnZ2MyTm9iMjlzSUhSbGVHRnpFQUI5RFRveVB3IiwicXVlc3Rpb24iOiJIb3cgbWFueSBwZW9wbGUgYXR0ZW5kZWQgQnJpZGdlbGFuZCBIaWdoIFNjaG9vbD8iLCJsayI6IkdpOW9iM2NnYldGdWVTQndaVzl3YkdVZ1lYUjBaVzVrWldRZ1luSnBaR2RsYkdGdVpDQm9hV2RvSUhOamFHOXZiQSIsImJzIjoiYzNYUU1RLUNNQkFGNExoMmNtWjZpM0V4Z3Z3QkVpZGNsVVRYMmw1b1kyMEpiUVRfdlVKSU5BM01kOTk3dVdPQ3BWZkZBN1RIc2RXeUpzT3RSS2xyaFl0UXpobTAzRDVJUWx0VTFITmY1Rm15N3laeV94RTFFQi1UTUJCMlp0dXhaQnBMN1VPclJWUzZRM1VyOG0yeTZSWldfOHBDUDJTZVlnNk8yam1KeG5CQkNBNUd2MmpNalBuc0ppT1dsYTdEazlzM0duS05JZkFReU1ydk1mUGZLZkpEa3FvbE1fLWU5ZW9EIiwiaWQiOiJmY19sUXlqYXBTTUc4T2hqZllQcHRyeW1Ra181In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWRHWnRNVzV0V21ObFNuVTBSWFkxVTBsdFN6VlhkRGhYYkRSVFVGUnJWMGhQYW1OemMyeHFObGxqYjJaVU5GVm5WRTV2TjJGMVNUbEJOR2d5Ym1jd2FHbERjVXRtZVdSS01FbFhkMDl6UldGRk9URjJNbTVxT0ZZMVVSSVhiRkY1YW1Gd1UwMUhPRTlvYW1aWlVIQjBjbmx0VVdzYUlrRkVjM0k1WmxGSGVrWnNTVTlWTVdoVk0yZFlRMmhWZFdkRmMwWm5ja3hyVEdjIiwiZmN2IjoiMyIsImVpIjoibFF5amFwU01HOE9oamZZUHB0cnltUWsiLCJxYyI6IkNoeGljbWxrWjJWc1lXNWtJR2hwWjJnZ2MyTm9iMjlzSUhSbGVHRnpFQUI5RFRveVB3IiwicXVlc3Rpb24iOiJIb3cgbWFueSBwZW9wbGUgYXR0ZW5kZWQgQnJpZGdlbGFuZCBIaWdoIFNjaG9vbD8iLCJsayI6IkdpOW9iM2NnYldGdWVTQndaVzl3YkdVZ1lYUjBaVzVrWldRZ1luSnBaR2RsYkdGdVpDQm9hV2RvSUhOamFHOXZiQSIsImJzIjoiYzNYUU1RLUNNQkFGNExoMmNtWjZpM0V4Z3Z3QkVpZGNsVVRYMmw1b1kyMEpiUVRfdlVKSU5BM01kOTk3dVdPQ3BWZkZBN1RIc2RXeUpzT3RSS2xyaFl0UXpobTAzRDVJUWx0VTFITmY1Rm15N3laeV94RTFFQi1UTUJCMlp0dXhaQnBMN1VPclJWUzZRM1VyOG0yeTZSWldfOHBDUDJTZVlnNk8yam1KeG5CQkNBNUd2MmpNalBuc0ppT1dsYTdEazlzM0duS05JZkFReU1ydk1mUGZLZkpEa3FvbE1fLWU5ZW9EIiwiaWQiOiJmY19sUXlqYXBTTUc4T2hqZllQcHRyeW1Ra181In0%3D"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Bridgeland High School: Home",
+   "link": "https://bridgeland.cfisd.net/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVQHrOzAVXyD88_GvBDShK4YNTkMCJIjslOGg_mo9tUTeiwR66Z3HWPIq97nDWSej5bNrOY7AwL3w8bLp8ryDX6Kfp9n672w6PTe3MIHSep_mLAIqnYI&ved=2ahUKEwjUqo325uSWAxXDUMMIHSatPJMQFnoECEYQAQ&uoh=1",
+   "displayed_link": "https://bridgeland.cfisd.net",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAq1BMVEVHcEwcd74efsgefsgbeMAbecAee8Uddrsde8MddbpcYpVbU6TWmz84XlsscaAdd70sY7BUQJlyTp_7rj78ukKEd0U-O5WFW699Vab-tEDvrj97VKJ_Vqf6rT77rz4wdKBoX5svZbT9tDz-uEGjiUYzIE5lSKKEWq2DV6mDWa38sz__uUJ_VqiCWKx-Vqb7rj_8tEB_Vad5UJ_8uED4pzx4U6L7s0GBWKr8tD9ZYDErAAAAOXRSTlMAVe7mRv_f____WU5L_P____pCUuX__95K________yArQWfK7HsbqduiU__X_hxqpnhp8EBSxrqL4cf9VAAAA50lEQVR4AWKgBwDUNhc4DANBDADDXGZmZu7_X1ZfHCkcYS20ZkGWC0xRtVxTdd3Qcs00rSyFKZZtmralanmWrQ6N6sbNK5V1mlnRq7V61BrNltCKZVVMvdqudbpR6_Whlm4YFQs2GIYKG42hE2061WawAbROmy96oxF0uRJttR4OhG783QZt3JtzdisQuoNyD9r0iO4u1P1h7Nu42SA6xwHxdJYu1x61t58Km96Ggd3uUqiLxxN2DhZPt5ckQd9Q4OEKfH1OoYk8r_g77n1hVGFTGpWG3D_DwEKlUUOjPi5huW-n0j_zA_qNIcnvoiZMAAAAAElFTkSuQmCC.png",
+   "snippet": "The purpose of Bridgeland High School is to develop, educate and empower all students to become caring and contributing citizens who can succeed in an ever- ...",
+   "snippet_highlighted_words": [
+    "Bridgeland High School"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "Athletics",
+      "link": "https://bridgeland.cfisd.net/athletics",
+      "snippet": "Athletics - Bridgeland High School. ... 10707 Mason Rd. Cypress ..."
+     },
+     {
+      "title": "Calendar",
+      "link": "https://bridgeland.cfisd.net/bridgelandcalendar",
+      "snippet": "Logo Title. Bridgeland High School. 10707 Mason Rd. Cypress. TX ..."
+     },
+     {
+      "title": "Virtual Tour",
+      "link": "https://bridgeland.cfisd.net/our-school/about-us/virtual-tour",
+      "snippet": "Logo Title. Bridgeland High School. 10707 Mason Rd. Cypress. TX ..."
+     },
+     {
+      "title": "Our School",
+      "link": "https://bridgeland.cfisd.net/our-school",
+      "snippet": "Logo Title. Bridgeland High School. 10707 Mason Rd. Cypress. TX ..."
+     },
+     {
+      "title": "News & Announcements",
+      "link": "https://bridgeland.cfisd.net/school-news",
+      "snippet": "23, 2026\u2014Bridgeland High School senior Leah Grigsby was ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "The purpose of Bridgeland High School is to develop, educate and empower all students to become caring and contributing citizens who can succeed in an ever- ...",
+     "source_info_link": "https://bridgeland.cfisd.net/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAq1BMVEVHcEwcd74efsgefsgbeMAbecAee8Uddrsde8MddbpcYpVbU6TWmz84XlsscaAdd70sY7BUQJlyTp_7rj78ukKEd0U-O5WFW699Vab-tEDvrj97VKJ_Vqf6rT77rz4wdKBoX5svZbT9tDz-uEGjiUYzIE5lSKKEWq2DV6mDWa38sz__uUJ_VqiCWKx-Vqb7rj_8tEB_Vad5UJ_8uED4pzx4U6L7s0GBWKr8tD9ZYDErAAAAOXRSTlMAVe7mRv_f____WU5L_P____pCUuX__95K________yArQWfK7HsbqduiU__X_hxqpnhp8EBSxrqL4cf9VAAAA50lEQVR4AWKgBwDUNhc4DANBDADDXGZmZu7_X1ZfHCkcYS20ZkGWC0xRtVxTdd3Qcs00rSyFKZZtmralanmWrQ6N6sbNK5V1mlnRq7V61BrNltCKZVVMvdqudbpR6_Whlm4YFQs2GIYKG42hE2061WawAbROmy96oxF0uRJttR4OhG783QZt3JtzdisQuoNyD9r0iO4u1P1h7Nu42SA6xwHxdJYu1x61t58Km96Ggd3uUqiLxxN2DhZPt5ckQd9Q4OEKfH1OoYk8r_g77n1hVGFTGpWG3D_DwEKlUUOjPi5huW-n0j_zA_qNIcnvoiZMAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESVQHrOzAVXyD88_GvBDShK4YNTkMCJIjslOGg_mo9tUTeiwR66Z3HWPIq97nDWSej5bNrOY7AwL3w8bLp8ryDX6Kfp9n672w6PTe3MIHSep_mLAIqnYI&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESVQHrOzAVXyD88_GvBDShK4YNTkMCJIjslOGg_mo9tUTeiwR66Z3HWPIq97nDWSej5bNrOY7AwL3w8bLp8ryDX6Kfp9n672w6PTe3MIHSep_mLAIqnYI",
+   "source": "Bridgeland High School"
+  },
+  {
+   "position": 2,
+   "title": "Bridgeland High School",
+   "link": "https://en.wikipedia.org/wiki/Bridgeland_High_School",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHrOzAV-D5doVIzZbbZHAewbIDkH0AoAn52Yy3jyWU3Wjh0MPk-redrgCNiljPrzv8IRa5Dn9BfL_lekp5TM-AoxPzafAEUyj-Dh103gZbwi72FrIOoH6TXhKJKNyyBXIYet18AGoc5iajvgQ&ved=2ahUKEwjUqo325uSWAxXDUMMIHSatPJMQFnoECFYQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Bridgeland_High_Sch...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+   "snippet": "Bridgeland High School is a high school in the Bridgeland community in unincorporated Harris County, Texas, in the Houston metropolitan area.",
+   "snippet_highlighted_words": [
+    "Bridgeland High School",
+    "Texas"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Bridgeland High School is a high school in the Bridgeland community in unincorporated Harris County, Texas, in the Houston metropolitan area.",
+     "source_info_link": "https://en.wikipedia.org/wiki/Bridgeland_High_School",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESbAHrOzAV-D5doVIzZbbZHAewbIDkH0AoAn52Yy3jyWU3Wjh0MPk-redrgCNiljPrzv8IRa5Dn9BfL_lekp5TM-AoxPzafAEUyj-Dh103gZbwi72FrIOoH6TXhKJKNyyBXIYet18AGoc5iajvgQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESbAHrOzAV-D5doVIzZbbZHAewbIDkH0AoAn52Yy3jyWU3Wjh0MPk-redrgCNiljPrzv8IRa5Dn9BfL_lekp5TM-AoxPzafAEUyj-Dh103gZbwi72FrIOoH6TXhKJKNyyBXIYet18AGoc5iajvgQ",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Bridgeland_High_School#:~:text=Bridgeland%20High%20School%20is%20a,in%20the%20Houston%20metropolitan%20area."
+  },
+  {
+   "position": 3,
+   "title": "Bridgeland High School in Cypress, TX - US News",
+   "link": "https://www.usnews.com/education/best-high-schools/texas/districts/cypress-fairbanks-independent-school-district/bridgeland-high-school-201603",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESxwEB6zswFTJIwPTJMAlewCa4kqP28w_9vXsbHvrfop85-6vtepLNHRj-0wAIvMfjUgO2WOSTVofP3JMGXcEuJaga8NN0gWL_Bh0BoXing235buyTfx0pVL1AUwDqZ3mp_uHMYwJD9myFecwYrXEl1BMQVK0CrX0dyk-Z26r0jA1iAQUNO5CknOufOWiH3IDDxFt7dUdB93ZsiJzxbrEz8BMlQnW32G7HsY4Y-vej0yxuevsl0EmHdVmcLDJaXNMvedBLkrvQM6DM&ved=2ahUKEwjUqo325uSWAxXDUMMIHSatPJMQFnoECFsQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a education \u203a texas \u203a districts",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png",
+   "snippet": "Bridgeland High School is ranked 127th within Texas. Students have the opportunity to take Advanced Placement\u00ae coursework and exams.",
+   "snippet_highlighted_words": [
+    "Bridgeland High School",
+    "Texas"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Bridgeland High School is ranked 127th within Texas. Students have the opportunity to take Advanced Placement\u00ae coursework and exams.",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/texas/districts/cypress-fairbanks-independent-school-district/bridgeland-high-school-201603",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESxwEB6zswFTJIwPTJMAlewCa4kqP28w_9vXsbHvrfop85-6vtepLNHRj-0wAIvMfjUgO2WOSTVofP3JMGXcEuJaga8NN0gWL_Bh0BoXing235buyTfx0pVL1AUwDqZ3mp_uHMYwJD9myFecwYrXEl1BMQVK0CrX0dyk-Z26r0jA1iAQUNO5CknOufOWiH3IDDxFt7dUdB93ZsiJzxbrEz8BMlQnW32G7HsY4Y-vej0yxuevsl0EmHdVmcLDJaXNMvedBLkrvQM6DM&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESxwEB6zswFTJIwPTJMAlewCa4kqP28w_9vXsbHvrfop85-6vtepLNHRj-0wAIvMfjUgO2WOSTVofP3JMGXcEuJaga8NN0gWL_Bh0BoXing235buyTfx0pVL1AUwDqZ3mp_uHMYwJD9myFecwYrXEl1BMQVK0CrX0dyk-Z26r0jA1iAQUNO5CknOufOWiH3IDDxFt7dUdB93ZsiJzxbrEz8BMlQnW32G7HsY4Y-vej0yxuevsl0EmHdVmcLDJaXNMvedBLkrvQM6DM",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/texas/districts/cypress-fairbanks-independent-school-district/bridgeland-high-school-201603#:~:text=Bridgeland%20High%20School%20is%20ranked,Advanced%20Placement%C2%AE%20coursework%20and%20exams."
+  },
+  {
+   "position": 4,
+   "title": "Bridgeland High School | Cypress TX",
+   "link": "https://www.facebook.com/BridgelandCFISD/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYQHrOzAV5ow094QEFK6bCBDJSOYV3DF4-66t3zpEs_B63VUit_2AHD1egaa4Lfct4587ExAGo3coWGPMxCodo3XdN81yIA3jIDyCu7MjJ-1TXA8MUFdHTvIl0wl0Ir6UiD4&ved=2ahUKEwjUqo325uSWAxXDUMMIHSatPJMQFnoECFcQAQ&uoh=1",
+   "displayed_link": "7.5K+ followers",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "snippet": "Bridgeland High School is proud to be the ONLY high school in CFISD to achieve 95% attendance for the entire school year! This incredible accomplishment is a ...",
+   "snippet_highlighted_words": [
+    "Bridgeland High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Bridgeland High School is proud to be the ONLY high school in CFISD to achieve 95% attendance for the entire school year! This incredible accomplishment is a ...",
+     "source_info_link": "https://www.facebook.com/BridgelandCFISD/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYQHrOzAV5ow094QEFK6bCBDJSOYV3DF4-66t3zpEs_B63VUit_2AHD1egaa4Lfct4587ExAGo3coWGPMxCodo3XdN81yIA3jIDyCu7MjJ-1TXA8MUFdHTvIl0wl0Ir6UiD4&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYQHrOzAV5ow094QEFK6bCBDJSOYV3DF4-66t3zpEs_B63VUit_2AHD1egaa4Lfct4587ExAGo3coWGPMxCodo3XdN81yIA3jIDyCu7MjJ-1TXA8MUFdHTvIl0wl0Ir6UiD4",
+   "source": "Facebook \u00b7 Bridgeland High School",
+   "read_more_link": "https://www.facebook.com/BridgelandCFISD/#:~:text=Bridgeland%20High%20School%20is%20proud,our%20students%2C%20families%2C%20and%20staff."
+  },
+  {
+   "position": 5,
+   "title": "Bridgeland High School, Cypress, TX",
+   "link": "https://www.har.com/school/101907016/bridgeland-high-school",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHrOzAVziZBa9AyCsGbe-D3KgY8SUDBQJX81RbxUzB2I-sk0s_YNHhTdX1Qokj5nJpG2FmXhFhBOy7dp7XoqEsC_fR8cz48kx_mDBo8oe8CxiGmS4GGYfggGeTfopx3lqWDwZqsH_tcvMTARrcm_cuJxjM&ved=2ahUKEwjUqo325uSWAxXDUMMIHSatPJMQFnoECFoQAQ&uoh=1",
+   "displayed_link": "https://www.har.com \u203a ... \u203a Cypress-fairbanks ISD",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAWlBMVEVHcEwHOM0HOM0HOM0HOM0HOM0HOM0GOM0IOM4HOM0ANM0ALsxbdtuJneU-XdVuhd99kuIbRdAsUNMAJ8uque3-___g5vn09_3DzfJMatmXqumoOpdWObf_THC7Jm_pAAAACnRSTlMAPI3M5vtf_yTPUBrCFwAAAUFJREFUeAFskQWCxCAMRWtMpgkupdCd-19zA-PycR4SGR4ap3kRYpmncfjUaYG7xHJ6Q-cV3rSeX14U8KnxwT7JCz2LX1BcX14BCYG4cQet6_O12wkolUZjHYIxgM5aazzTZvMCISYTtqRJJp74xMoaYenWNIgMw57STj5vek-Kmk1Th3lL2eu0x1RcznFLkuE0zB1ue86-JlZkmFMMADDzl_c_S85K8Z20lf4nfyrgZq0qSh-H5sGSqYWhaLD7yI3-Lpc_HqhvNLhAF_EW0nG0yRW1Z-crtNWQrMqBirJG3-nMrrBIWW9k9aZapTcjIwFruqUkIoZaiGItoTqK98S0TymW4K0K_gqxQbH0wAMg71ZXa9RWE39cgXW6powpOuQGCA-tL8nG_0ExIrLxJRPcCYyVkXDSxEzU7PBEjTc7AAA5zhwizcfMqgAAAABJRU5ErkJggg.png",
+   "snippet": "Nestled in the vibrant community of Cypress, Texas, at 10707 Mason Rd, Bridgeland High School stands out as a beacon of academic excellence and innovative ...",
+   "snippet_highlighted_words": [
+    "Texas",
+    "Bridgeland High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Nestled in the vibrant community of Cypress, Texas, at 10707 Mason Rd, Bridgeland High School stands out as a beacon of academic excellence and innovative ...",
+     "source_info_link": "https://www.har.com/school/101907016/bridgeland-high-school",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAWlBMVEVHcEwHOM0HOM0HOM0HOM0HOM0HOM0GOM0IOM4HOM0ANM0ALsxbdtuJneU-XdVuhd99kuIbRdAsUNMAJ8uque3-___g5vn09_3DzfJMatmXqumoOpdWObf_THC7Jm_pAAAACnRSTlMAPI3M5vtf_yTPUBrCFwAAAUFJREFUeAFskQWCxCAMRWtMpgkupdCd-19zA-PycR4SGR4ap3kRYpmncfjUaYG7xHJ6Q-cV3rSeX14U8KnxwT7JCz2LX1BcX14BCYG4cQet6_O12wkolUZjHYIxgM5aazzTZvMCISYTtqRJJp74xMoaYenWNIgMw57STj5vek-Kmk1Th3lL2eu0x1RcznFLkuE0zB1ue86-JlZkmFMMADDzl_c_S85K8Z20lf4nfyrgZq0qSh-H5sGSqYWhaLD7yI3-Lpc_HqhvNLhAF_EW0nG0yRW1Z-crtNWQrMqBirJG3-nMrrBIWW9k9aZapTcjIwFruqUkIoZaiGItoTqK98S0TymW4K0K_gqxQbH0wAMg71ZXa9RWE39cgXW6powpOuQGCA-tL8nG_0ExIrLxJRPcCYyVkXDSxEzU7PBEjTc7AAA5zhwizcfMqgAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEScwHrOzAVziZBa9AyCsGbe-D3KgY8SUDBQJX81RbxUzB2I-sk0s_YNHhTdX1Qokj5nJpG2FmXhFhBOy7dp7XoqEsC_fR8cz48kx_mDBo8oe8CxiGmS4GGYfggGeTfopx3lqWDwZqsH_tcvMTARrcm_cuJxjM&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEScwHrOzAVziZBa9AyCsGbe-D3KgY8SUDBQJX81RbxUzB2I-sk0s_YNHhTdX1Qokj5nJpG2FmXhFhBOy7dp7XoqEsC_fR8cz48kx_mDBo8oe8CxiGmS4GGYfggGeTfopx3lqWDwZqsH_tcvMTARrcm_cuJxjM",
+   "source": "HAR.com",
+   "read_more_link": "https://www.har.com/school/101907016/bridgeland-high-school#:~:text=Nestled%20in%20the%20vibrant%20community,learning%20within%20the%20Cypress%2DFairbanks%20ISD."
+  },
+  {
+   "position": 6,
+   "title": "bridgelandcfisd",
+   "link": "https://www.instagram.com/bridgelandcfisd/?hl=en",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaAHrOzAVRns1ozwLz6r4c1j6A0N2udWlbPlr5z5kVn_ZrvH4C78meEcLRICdW_ifyebMgD3Z7wKI4hbiSepUt21B1dicqZfE5T8LR-Z0J3HqVAipmoBXS2XtBByjddjCHlSN5_Xd-_B5&ved=2ahUKEwjUqo325uSWAxXDUMMIHSatPJMQFnoECFgQAQ&uoh=1",
+   "displayed_link": "3.8K+ followers",
+   "favicon": "https://serpapi.com/searches/6aa30c76759dbc9514c71314/images/XWspuMBeYcpElus2rtnJDbjEG2WL6KZXN12SvZRoK4Q.png",
+   "snippet": "Official Bridgeland High School Instagram. 3,865 followers. 76 following. 10707 Mason Rd Cypress, TX 77433. Follow. Message. Accounts you might like.",
+   "snippet_highlighted_words": [
+    "Bridgeland High School",
+    "TX"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Official Bridgeland High School Instagram. 3,865 followers. 76 following. 10707 Mason Rd Cypress, TX 77433. Follow. Message. Accounts you might like.",
+     "source_info_link": "https://www.instagram.com/bridgelandcfisd/?hl=en",
+     "icon": "https://serpapi.com/searches/6aa30c76759dbc9514c71314/images/XWspuMBeYcpElus2rtnJDTz27CDcnCtsHZ1ajslqckN2zS6tHRjPH5-u4pwveuVf.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESaAHrOzAVRns1ozwLz6r4c1j6A0N2udWlbPlr5z5kVn_ZrvH4C78meEcLRICdW_ifyebMgD3Z7wKI4hbiSepUt21B1dicqZfE5T8LR-Z0J3HqVAipmoBXS2XtBByjddjCHlSN5_Xd-_B5&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESaAHrOzAVRns1ozwLz6r4c1j6A0N2udWlbPlr5z5kVn_ZrvH4C78meEcLRICdW_ifyebMgD3Z7wKI4hbiSepUt21B1dicqZfE5T8LR-Z0J3HqVAipmoBXS2XtBByjddjCHlSN5_Xd-_B5",
+   "source": "Instagram \u00b7 bridgelandcfisd",
+   "read_more_link": "https://www.instagram.com/bridgelandcfisd/?hl=en#:~:text=Official%20Bridgeland%20High%20School%20Instagram,Accounts%20you%20might%20like"
+  },
+  {
+   "position": 7,
+   "title": "Schools",
+   "link": "https://www.bridgeland.com/community/schools/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZQHrOzAV5k9A4CTkixi2Qu_-MZo9Hvy85RR7i47enzPiXcNOiAlBDXcJ5zgEJN8kwLJNrGUNLYxxlxVTf4DSEBDr-Tcj5PUmUM2kgSFTHE1IajCJB0IQ1aEO1tpBBhpCNMttD1bp&ved=2ahUKEwjUqo325uSWAxXDUMMIHSatPJMQFnoECFkQAQ&uoh=1",
+   "displayed_link": "https://www.bridgeland.com \u203a Community",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEXx6-bx6-by7Of28Ov79O6Ii41NVVw0PkgfLjsBGCkACyJjaG7Oy8jr5eEAABGsrKvd2da8urh1eXyDyDx_AAAAAnRSTlM_9JSd0QEAAADISURBVHgBfdKJCsMwDAPQLVYuN1aP___YzewIC3gCiuHREIvcbvcU5L7aov4VeOQ9ylcdJZfaWtdStq20kgcmeiyzE560k8UmetA7X5Mc1LZg_WBCVmYJUE72igDTCNB8PqlXdCyK8kgrAiKCdLEPWVGv7ZlKZkhakeYZmawDwZ6wptzDVYydI0LJqgUBeguUCI8n2p8_VQKUnbphQfvMbb1t6-_lBBd54YsCnOxddxOx0wvEbMgbnan5wG-3MjPf5v9H7WqBPQAXbQ3DSJBtcwAAAABJRU5ErkJggg.png",
+   "snippet": "Bridgeland High School. 10707 Mason Rd, Cypress, TX 77433. Website. Waller ISD. A modern, single-story school building with large windows, a parking lot with.",
+   "snippet_highlighted_words": [
+    "Bridgeland High School",
+    "TX"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Bridgeland High School. 10707 Mason Rd, Cypress, TX 77433. Website. Waller ISD. A modern, single-story school building with large windows, a parking lot with.",
+     "source_info_link": "https://www.bridgeland.com/community/schools/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEXx6-bx6-by7Of28Ov79O6Ii41NVVw0PkgfLjsBGCkACyJjaG7Oy8jr5eEAABGsrKvd2da8urh1eXyDyDx_AAAAAnRSTlM_9JSd0QEAAADISURBVHgBfdKJCsMwDAPQLVYuN1aP___YzewIC3gCiuHREIvcbvcU5L7aov4VeOQ9ylcdJZfaWtdStq20kgcmeiyzE560k8UmetA7X5Mc1LZg_WBCVmYJUE72igDTCNB8PqlXdCyK8kgrAiKCdLEPWVGv7ZlKZkhakeYZmawDwZ6wptzDVYydI0LJqgUBeguUCI8n2p8_VQKUnbphQfvMbb1t6-_lBBd54YsCnOxddxOx0wvEbMgbnan5wG-3MjPf5v9H7WqBPQAXbQ3DSJBtcwAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESZQHrOzAV5k9A4CTkixi2Qu_-MZo9Hvy85RR7i47enzPiXcNOiAlBDXcJ5zgEJN8kwLJNrGUNLYxxlxVTf4DSEBDr-Tcj5PUmUM2kgSFTHE1IajCJB0IQ1aEO1tpBBhpCNMttD1bp&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESZQHrOzAV5k9A4CTkixi2Qu_-MZo9Hvy85RR7i47enzPiXcNOiAlBDXcJ5zgEJN8kwLJNrGUNLYxxlxVTf4DSEBDr-Tcj5PUmUM2kgSFTHE1IajCJB0IQ1aEO1tpBBhpCNMttD1bp",
+   "source": "Bridgeland",
+   "read_more_link": "https://www.bridgeland.com/community/schools/#:~:text=Waller%20ISD"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Bridgeland high school texas tuition",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Bridgeland+high+school+texas+tuition&sa=X&ved=2ahUKEwjUqo325uSWAxXDUMMIHSatPJMQ1QJ6BAhcEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Bridgeland+high+school+texas+tuition"
+  },
+  {
+   "block_position": 1,
+   "query": "Bridgeland high school texas staff",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Bridgeland+high+school+texas+staff&sa=X&ved=2ahUKEwjUqo325uSWAxXDUMMIHSatPJMQ1QJ6BAhxEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Bridgeland+high+school+texas+staff"
+  },
+  {
+   "block_position": 1,
+   "query": "Bridgeland high school texas basketball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Bridgeland+high+school+texas+basketball&sa=X&ved=2ahUKEwjUqo325uSWAxXDUMMIHSatPJMQ1QJ6BAhtEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Bridgeland+high+school+texas+basketball"
+  },
+  {
+   "block_position": 1,
+   "query": "Bridgeland high school texas football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Bridgeland+high+school+texas+football&sa=X&ved=2ahUKEwjUqo325uSWAxXDUMMIHSatPJMQ1QJ6BAhrEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Bridgeland+high+school+texas+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Bridgeland high school Cypress, TX",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Bridgeland+high+school+Cypress,+TX&sa=X&ved=2ahUKEwjUqo325uSWAxXDUMMIHSatPJMQ1QJ6BAhoEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Bridgeland+high+school+Cypress%2C+TX"
+  },
+  {
+   "block_position": 1,
+   "query": "Bridgeland high school texas famous alumni",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Bridgeland+high+school+texas+famous+alumni&sa=X&ved=2ahUKEwjUqo325uSWAxXDUMMIHSatPJMQ1QJ6BAhjEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Bridgeland+high+school+texas+famous+alumni"
+  },
+  {
+   "block_position": 1,
+   "query": "Bridgeland high school website",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Bridgeland+high+school+website&sa=X&ved=2ahUKEwjUqo325uSWAxXDUMMIHSatPJMQ1QJ6BAheEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Bridgeland+high+school+website"
+  },
+  {
+   "block_position": 1,
+   "query": "Bridgeland high school texas alumni",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Bridgeland+high+school+texas+alumni&sa=X&ved=2ahUKEwjUqo325uSWAxXDUMMIHSatPJMQ1QJ6BAhdEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Bridgeland+high+school+texas+alumni"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Bridgeland+High+School%22+Texas&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=lQyjapSMG8OhjfYPptrymQk&start=10&sa=N&sstk=AS6-VmI_DVqi1pTSvAxbxy8fOLhACUeSFFS9O_k8ifL7QpUKoaMbbUSLCtnErzIrma9960_KH_fFdibgvIQt5hB1a5XLrMvsWtumyg&ved=2ahUKEwjUqo325uSWAxXDUMMIHSatPJMQ8NMDegQIVBAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Bridgeland+High+School%22+Texas&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=lQyjapSMG8OhjfYPptrymQk&start=10&sa=N&sstk=AS6-VmI_DVqi1pTSvAxbxy8fOLhACUeSFFS9O_k8ifL7QpUKoaMbbUSLCtnErzIrma9960_KH_fFdibgvIQt5hB1a5XLrMvsWtumyg&ved=2ahUKEwjUqo325uSWAxXDUMMIHSatPJMQ8tMDegQIVBAE",
+   "3": "https://www.google.com/search?q=%22Bridgeland+High+School%22+Texas&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=lQyjapSMG8OhjfYPptrymQk&start=20&sa=N&sstk=AS6-VmI_DVqi1pTSvAxbxy8fOLhACUeSFFS9O_k8ifL7QpUKoaMbbUSLCtnErzIrma9960_KH_fFdibgvIQt5hB1a5XLrMvsWtumyg&ved=2ahUKEwjUqo325uSWAxXDUMMIHSatPJMQ8tMDegQIVBAG",
+   "4": "https://www.google.com/search?q=%22Bridgeland+High+School%22+Texas&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=lQyjapSMG8OhjfYPptrymQk&start=30&sa=N&sstk=AS6-VmI_DVqi1pTSvAxbxy8fOLhACUeSFFS9O_k8ifL7QpUKoaMbbUSLCtnErzIrma9960_KH_fFdibgvIQt5hB1a5XLrMvsWtumyg&ved=2ahUKEwjUqo325uSWAxXDUMMIHSatPJMQ8tMDegQIVBAI",
+   "5": "https://www.google.com/search?q=%22Bridgeland+High+School%22+Texas&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=lQyjapSMG8OhjfYPptrymQk&start=40&sa=N&sstk=AS6-VmI_DVqi1pTSvAxbxy8fOLhACUeSFFS9O_k8ifL7QpUKoaMbbUSLCtnErzIrma9960_KH_fFdibgvIQt5hB1a5XLrMvsWtumyg&ved=2ahUKEwjUqo325uSWAxXDUMMIHSatPJMQ8tMDegQIVBAK",
+   "6": "https://www.google.com/search?q=%22Bridgeland+High+School%22+Texas&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=lQyjapSMG8OhjfYPptrymQk&start=50&sa=N&sstk=AS6-VmI_DVqi1pTSvAxbxy8fOLhACUeSFFS9O_k8ifL7QpUKoaMbbUSLCtnErzIrma9960_KH_fFdibgvIQt5hB1a5XLrMvsWtumyg&ved=2ahUKEwjUqo325uSWAxXDUMMIHSatPJMQ8tMDegQIVBAM",
+   "7": "https://www.google.com/search?q=%22Bridgeland+High+School%22+Texas&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=lQyjapSMG8OhjfYPptrymQk&start=60&sa=N&sstk=AS6-VmI_DVqi1pTSvAxbxy8fOLhACUeSFFS9O_k8ifL7QpUKoaMbbUSLCtnErzIrma9960_KH_fFdibgvIQt5hB1a5XLrMvsWtumyg&ved=2ahUKEwjUqo325uSWAxXDUMMIHSatPJMQ8tMDegQIVBAO",
+   "8": "https://www.google.com/search?q=%22Bridgeland+High+School%22+Texas&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=lQyjapSMG8OhjfYPptrymQk&start=70&sa=N&sstk=AS6-VmI_DVqi1pTSvAxbxy8fOLhACUeSFFS9O_k8ifL7QpUKoaMbbUSLCtnErzIrma9960_KH_fFdibgvIQt5hB1a5XLrMvsWtumyg&ved=2ahUKEwjUqo325uSWAxXDUMMIHSatPJMQ8tMDegQIVBAQ",
+   "9": "https://www.google.com/search?q=%22Bridgeland+High+School%22+Texas&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=lQyjapSMG8OhjfYPptrymQk&start=80&sa=N&sstk=AS6-VmI_DVqi1pTSvAxbxy8fOLhACUeSFFS9O_k8ifL7QpUKoaMbbUSLCtnErzIrma9960_KH_fFdibgvIQt5hB1a5XLrMvsWtumyg&ved=2ahUKEwjUqo325uSWAxXDUMMIHSatPJMQ8tMDegQIVBAS",
+   "10": "https://www.google.com/search?q=%22Bridgeland+High+School%22+Texas&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=lQyjapSMG8OhjfYPptrymQk&start=90&sa=N&sstk=AS6-VmI_DVqi1pTSvAxbxy8fOLhACUeSFFS9O_k8ifL7QpUKoaMbbUSLCtnErzIrma9960_KH_fFdibgvIQt5hB1a5XLrMvsWtumyg&ved=2ahUKEwjUqo325uSWAxXDUMMIHSatPJMQ8tMDegQIVBAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Bridgeland+High+School%22+Texas&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Bridgeland+High+School%22+Texas&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Bridgeland+High+School%22+Texas&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Bridgeland+High+School%22+Texas&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Bridgeland+High+School%22+Texas&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Bridgeland+High+School%22+Texas&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Bridgeland+High+School%22+Texas&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Bridgeland+High+School%22+Texas&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Bridgeland+High+School%22+Texas&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Bridgeland+High+School%22+Texas&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Bridgeland+High+School%22+Texas&start=90"
+  }
+ }
+}

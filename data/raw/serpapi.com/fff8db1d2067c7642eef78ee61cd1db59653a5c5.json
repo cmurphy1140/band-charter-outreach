@@ -1,0 +1,234 @@
+{
+ "news_results": [
+  {
+   "position": 1,
+   "title": "2024 Raleigh Christmas Parade: A festive showcase of floats, bands and Santa Claus",
+   "source": {
+    "name": "WRAL",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wral.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.wral.com/news/local/raleigh-christmas-parade-2024/",
+   "thumbnail": "https://images.wral.com/asset/news/2024/11/23/21736964/screenshot_-_2024-11-23T120704.766-DMID1-652g96oj3-1280x720.jpg?w=1200&h=675&height=675",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDJhMWxEYkVKWk5WZG5VMnczVFJDZkF4ampCU2dLTWdtQlE1YU9JYW5JQ2dJ",
+   "date": "11/14/2024, 06:01 PM, +0000 UTC",
+   "iso_date": "2024-11-14T18:01:50Z"
+  },
+  {
+   "position": 2,
+   "title": "Enloe High School band prepares to perform at 75th annual Raleigh Christmas Parade",
+   "source": {
+    "name": "ABC11 News",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://abc11.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://abc11.com/post/enloe-high-band-prepares-to-perform-at-raleigh-christmas-parade/5697793/",
+   "thumbnail": "https://cdn.abcotvs.com/dip/images/5697906_111419-wtvd-enloe-band-5pm-video-vid.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNWhYM04wYkRCNlEyZHpMVXBaVFJDZkF4ampCU2dLTWd1QklJclRJQ2pnQWFzV2RB",
+   "date": "11/14/2019, 08:00 AM, +0000 UTC",
+   "iso_date": "2019-11-14T08:00:00Z"
+  },
+  {
+   "position": 3,
+   "title": "Midway marching in Raleigh",
+   "source": {
+    "name": "clintonnc.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.clintonnc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.clintonnc.com/news/56141/midway-marching-in-raleigh",
+   "thumbnail": "https://www.clintonnc.com/wp-content/uploads/2021/11/127899113_web1_news1.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTVkVXhSY0RsRVZFRjBURXBTVFJDckF4aUFCU2dLTWdrQmNJNUFzQ2ZBcWdJ",
+   "date": "11/17/2021, 08:00 AM, +0000 UTC",
+   "iso_date": "2021-11-17T08:00:00Z"
+  },
+  {
+   "position": 4,
+   "title": "MARCHING ON A BIGGER STAGE",
+   "source": {
+    "name": "SoVaNOW",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.sovanow.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.sovanow.com/articles/marching-on-a-bigger-stage/",
+   "thumbnail": "https://www.sovanow.com/wp-content/uploads/2023/11/image21-copy.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhRa2xwUlROQk9XWlVZalpEVFJEeUFSakNBeWdLTWdZSmNZeW12UVE",
+   "date": "11/22/2023, 08:00 AM, +0000 UTC",
+   "iso_date": "2023-11-22T08:00:00Z"
+  },
+  {
+   "position": 5,
+   "title": "Midway Band on parade",
+   "source": {
+    "name": "clintonnc.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.clintonnc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Michael B. Hardison"
+    ]
+   },
+   "link": "https://www.clintonnc.com/news/63166/midway-band-on-parade",
+   "thumbnail": "https://www.clintonnc.com/wp-content/uploads/2022/11/129095786_web1_Parade_3.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUZVbVo0VW1WeU0yUTJlRGhEVFJDckF4aUFCU2dLTWdB",
+   "date": "11/19/2022, 08:00 AM, +0000 UTC",
+   "iso_date": "2022-11-19T08:00:00Z"
+  },
+  {
+   "position": 6,
+   "title": "Southeast Raleigh High School marching band brings powerful brass, drums to Raleigh Christmas Parade",
+   "source": {
+    "name": "WRAL",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wral.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.wral.com/video/southeast-raleigh-high-school-marching-band-brings-powerful-brass-drums-to-raleigh-christmas-parade/20586269/",
+   "date": "11/19/2022, 08:00 AM, +0000 UTC",
+   "iso_date": "2022-11-19T08:00:00Z"
+  },
+  {
+   "position": 7,
+   "title": "2022 Parade: Millbrook High School Marching Band",
+   "source": {
+    "name": "ABC11 News",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://abc11.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://abc11.com/videoClip/12471717/",
+   "thumbnail": "https://cdn.abcotvs.com/dip/images/12471716_111922-wtvd-parade-millbrook-high-school-vid.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTFPVmhrV2xsdE0xUlVaV3BOVFJDZkF4ampCU2dLTWdrQllJaEFOS1FrYXdJ",
+   "date": "11/19/2022, 08:00 AM, +0000 UTC",
+   "iso_date": "2022-11-19T08:00:00Z"
+  },
+  {
+   "position": 8,
+   "title": "Marching toward Christmas",
+   "source": {
+    "name": "clintonnc.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.clintonnc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.clintonnc.com/news/50654/marching-toward-christmas",
+   "thumbnail": "https://www.clintonnc.com/wp-content/uploads/2020/11/126003266_web1_MHS4_jega.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpVVTVFYlZaMFlWWmxNRGxNVFJDQUJSaXJBeWdLTWdZbFJJU1BIUWc",
+   "date": "11/18/2020, 08:00 AM, +0000 UTC",
+   "iso_date": "2020-11-18T08:00:00Z"
+  },
+  {
+   "position": 9,
+   "title": "2013 Raleigh Christmas Parade",
+   "source": {
+    "name": "WRAL",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wral.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.wral.com/archive/13147131/",
+   "thumbnail": "https://images.wral.com/asset/entertainment/holiday/2013/11/23/13147131/1385230192-47028-parade4-640x360.jpg?w=1200&h=630&f=jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXZOVEk1Ym5oTVpIWlRZWGN0VFJDUkF4ajhCU2dLTWdB",
+   "date": "11/23/2013, 08:00 AM, +0000 UTC",
+   "iso_date": "2013-11-23T08:00:00Z"
+  },
+  {
+   "position": 10,
+   "title": "2013 Raleigh Christmas Parade pt. 3",
+   "source": {
+    "name": "WRAL",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wral.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.wral.com/archive/13147127/",
+   "thumbnail": "https://images.wral.com/asset/entertainment/holiday/2013/11/23/13147127/13147128-1385230091-640x360.jpg?w=1200&h=630&f=jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlTMHByTFdOUlltdEdRblJGVFJDUkF4ajhCU2dLTWdZQkFKendFQXM",
+   "date": "11/23/2013, 08:00 AM, +0000 UTC",
+   "iso_date": "2013-11-23T08:00:00Z"
+  },
+  {
+   "position": 11,
+   "title": "Raleigh Christmas Parade on November 22, 2008_16",
+   "source": {
+    "name": "WRAL",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wral.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.wral.com/archive/4011532/",
+   "thumbnail": "https://images.wral.com/asset/news/local/2008/11/22/4011532/11_22_08_04_27_05pm_16-800x531.jpg?w=1200&h=675&f=webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVWalZpVDFkcVZFWm1lblZUVFJDZkF4ampCU2dLTWdZQlVvcElKZ2c",
+   "date": "11/22/2008, 08:00 AM, +0000 UTC",
+   "iso_date": "2008-11-22T08:00:00Z"
+  },
+  {
+   "position": 12,
+   "title": "2013 Raleigh Christmas Parade, pt. 7",
+   "source": {
+    "name": "WRAL",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wral.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.wral.com/archive/13147168/",
+   "thumbnail": "https://images.wral.com/asset/entertainment/holiday/2013/11/23/13147168/47036-parade7-640x360.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNU9hVXRQTVd4cWExQk1abVJ3VFJEb0FoaUFCU2dLTWdB",
+   "date": "11/23/2013, 08:00 AM, +0000 UTC",
+   "iso_date": "2013-11-23T08:00:00Z"
+  },
+  {
+   "position": 13,
+   "title": "2013 Raleigh Christmas Parade pt. 1",
+   "source": {
+    "name": "WRAL",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wral.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.wral.com/archive/13147112/",
+   "thumbnail": "https://images.wral.com/asset/entertainment/holiday/2013/11/23/13147112/47033-parade1-640x360.jpg?w=1200&h=630&f=jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVJlbWh2YUc1MlgxWmpTVVZuVFJDUkF4ajhCU2dLTWdB",
+   "date": "11/23/2013, 08:00 AM, +0000 UTC",
+   "iso_date": "2013-11-23T08:00:00Z"
+  },
+  {
+   "position": 14,
+   "title": "Broughton band director puts down baton after 34 years",
+   "source": {
+    "name": "WRAL",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wral.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.wral.com/archive/10676786/",
+   "thumbnail": "https://images.wral.com/asset/news/local/noteworthy/2011/12/20/10520815/242365-bsh_roses-400x300.jpg?w=1200&h=675&height=675",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDJRVWRIVUZOa2FUbElVemhMVFJDZkF4ampCU2dLTWdB",
+   "date": "02/01/2012, 08:00 AM, +0000 UTC",
+   "iso_date": "2012-02-01T08:00:00Z"
+  }
+ ],
+ "menu_links": [
+  {
+   "title": "U.S.",
+   "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+  },
+  {
+   "title": "World",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Your local news",
+   "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+  },
+  {
+   "title": "Business",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Technology",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Entertainment",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Sports",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Science",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Health",
+   "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+  }
+ ]
+}

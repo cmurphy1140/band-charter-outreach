@@ -1,0 +1,495 @@
+{
+ "search_information": {
+  "query_displayed": "\"Cedar Park High School\" Texas",
+  "total_results": 71000,
+  "time_taken_displayed": 0.34,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "events_results": [
+  {
+   "title": "Cedar Park XC Invitational",
+   "date": "Sep 12",
+   "time": "7:30 AM",
+   "source": "Facebook",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVHcEwFZ_8IZ_8IZ_8IaP8IaP8HZP8Iav8HaP_19_8Iav8AT______6-_8L____Uf8HZv____8AUf8HZ_8AWf_6-v8AZP8AYP9Cd__X3_-xwv-csP8VZP9_nP8AQv8AP_9HcEy4-nG4AAAAIXRSTlMAAcrs5qVPEpP7JMrJlZP______________________wAgfganAAABHUlEQVQ4jX2T4XaDIAyFEdFCt52DGkGstu__lkMhENAtP8lHSC65jKVoeslbrVsu-4Zd49FNOsXUPeq8JOkTkeV1oS8hSJFned2YUOSZ7pO8sSNsG4z2ILAGqQ_LqgYf834QIvaX8-M6xHgdgJbVA5DyETgf6VLeLkMF6M7rlwvYV8w65_YATA3rSYcupDcAsPGsL1o8BxgWm498m5wA8wmMVDTO2v-BliUJAd4BePsWwOA5AoaMeDaCBD5RAQrSE_wWcAhwHLMCVhxVolBmmZWK5ZWa9ywUSu2n-IQpPkRILzX5rBsduuK7r0DYKfk3IMuVuwCiWtoaSEuLa18Bee3ROCUgSvcd1qNAZb1g3gzcmJcd9v_59mqrr8L-v-aBNTxivYyHAAAAAElFTkSuQmCC.png",
+   "link": "https://www.facebook.com/events/2150-cypress-creek-road-cedar-park-tx/cedar-park-xc-invitational/1809556083811336/?source=ev",
+   "thumbnail": "https://serpapi.com/searches/6aa30d0f69819d39994517e8/images/ROGaADXpk2BskI_zRQWWCXpbzjHn5faH5rJg9fdtXCs.jpeg"
+  }
+ ],
+ "knowledge_graph": {
+  "title": "Cedar Park High School",
+  "type": "High school in Cedar Park, Texas",
+  "entity_type": "local_nav",
+  "kgmid": "/m/085t6_",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/085t6_&hl=en-US&q=Cedar+Park+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F085t6_&q=Cedar+Park+High+School",
+  "place_id": "ChIJM0aByEozW4YRFlJVyzsVidY",
+  "website": "https://cphs.leanderisd.org/",
+  "description": "Cedar Park High School is a high school in Cedar Park, Texas. It was established in 1998 to serve as the second high school in the Leander Independent School District due to the rapid growth in the area. The school received an overall rating of \"A\" from the Texas Education Agency for the 2024-2025 school year.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa30d0f69819d39994517e8/images/nDr7p8gucs0MNKxG9DecdXW3HCPrNVYSBhJNIbdma70.webp",
+   "link": "https://www.google.com/maps/place/Cedar+Park+High+School/data=!4m2!3m1!1s0x0:0xd689153bcb555216?sa=X&ved=2ahUKEwiGnN295-SWAxVzKlkFHQ-JMC0Q_BJ6BAgSEAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Cedar_Park_High_School"
+  },
+  "address": "2150 Cypress Creek Road, Cedar Park, TX 78613",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnudV98j0qiLaMFLeToTsI0rUZLaIA:1789070635660&q=cedar+park+high+school+address&ludocid=15458910542484558358&sa=X&ved=2ahUKEwiGnN295-SWAxVzKlkFHQ-JMC0Q6BN6BAgnEAI"
+   }
+  ],
+  "founded": "1998",
+  "colors": "Green, Silver",
+  "colors_links": [
+   {
+    "text": "Green",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnudV98j0qiLaMFLeToTsI0rUZLaIA:1789070635660&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpugluVS_H7pu657Qyj6KrTqp3gx1TYc7YxhZOMLkimwN73wEMT8YGgr_qPZLITE612OtX1x8XLB_ocPPF2Xopvh8EWzSOOY47QTUrEFqM9VS1IV9dri2O9gjZUaEeHDOGStU3bHycbzV2CEnw5pDLjTptqVhug_18jSsiGC7fFRh6ZmS8l3BtpFiBJTUVBRQS7Hv9TM%3D&sa=X&ved=2ahUKEwiGnN295-SWAxVzKlkFHQ-JMC0QmxN6BAgrEAI"
+   },
+   {
+    "text": "Silver",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnudV98j0qiLaMFLeToTsI0rUZLaIA:1789070635660&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yZf7_qxYcR7ZZOHXhZ12Gqd8YANeyCg9KWGonKHp7NI4gJqCAm9WZSCN2tkZc0KPUsQMOJtO_yQvZjXfUXHHBm1sBjD7shZ7nAERO5YTcGzR6fOqjJ8IFdPItwsgkAaMJ7fBJrkPU_kNiC9mk3yx4hFysf6DhHR2OKF7mkOwps2Mxdwi1mrTbtycUhKfBEs1LyDyoUY%3D&sa=X&ved=2ahUKEwiGnN295-SWAxVzKlkFHQ-JMC0QmxN6BAgrEAM"
+   }
+  ],
+  "size": "2,155 students niche.com",
+  "size_links": [
+   {
+    "text": "niche.com",
+    "link": "https://www.niche.com/k12/cedar-park-high-school-cedar-park-tx/"
+   }
+  ],
+  "school_types": "State school, Public high school",
+  "school_types_links": [
+   {
+    "text": "State school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnudV98j0qiLaMFLeToTsI0rUZLaIA:1789070635660&q=State+school&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ybGtCxI0H8z2nV80srIO5hh43iJrpLL9zyTRHToodwNipZCD4kcN2wbzA3OqfyGettl42NpXglwsH4hnJQRSg4KBrFTowpZphOt0qedRcJ2ArKUCCBt997z4-x4v3potmM0j8FMTZkFrETI9Io7iytt2_zsV_ew7xpb8t81oEkG5F6WQ5ZGNOw6zF5VIQJ4t2OSSXRxz4dUsJx4RzTaFXlqHzR2BnovOmD3jm6MZv4kQ4kGf7NZn2tAauOUWZQIKVyTXzlo%3D&sa=X&ved=2ahUKEwiGnN295-SWAxVzKlkFHQ-JMC0QmxN6BAgsEAI"
+   },
+   {
+    "text": "Public high school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnudV98j0qiLaMFLeToTsI0rUZLaIA:1789070635660&q=Public+high+school&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yXuVwxdgcNbksDtbCZOybZH8-MFK1R_MJlq7Fmlx-bCemVeVc8L-Ox0CP8GEz_yCkv0qAfln01zqTNwSclt8g5KDDZ342ZT1yYPwO47QWoTAj8l-MYEJH6kSqfPjPPOjzoVuVYYe9qq-Iz84yT3S95aXP6jl9turx4ARNIMBBIyD58Xk2PJpN6Ghfdh-Cmkx6UV43xfIdudDOoVIbTXxO6dXEAZWsfoWy94MDggTgz6rzmwj6Z2oc4y5MCapuLef1PS_raM%3D&sa=X&ved=2ahUKEwiGnN295-SWAxVzKlkFHQ-JMC0QmxN6BAgsEAM"
+   }
+  ],
+  "phone": "(512) 570-1200",
+  "raw_hours": "Closes soon \u00b7 4 PM \u00b7 Opens 8 AM Fri",
+  "hours": {
+   "thursday": {
+    "opens": "8\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "friday": {
+    "opens": "8\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "8\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "tuesday": {
+    "opens": "8\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "wednesday": {
+    "opens": "8\u202fAM",
+    "closes": "4\u202fPM"
+   }
+  },
+  "merchant_description": "\"Cedar Park High School is a high school in Leander ISD.\"",
+  "people_also_search_for": [
+   {
+    "name": "Vista",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmLiJZKFlFGPHWARXaw1g811TzkRZhvlHe2MS27XL8ZCldP8sjKPxoQUS96RIYhTYLcArFUXSiIazKjIvwHjRMBoIwgJM-OF106kpuC8iFn-PQeFaELRl5EPn1fsfwhGaPikEQQ=w153-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnudV98j0qiLaMFLeToTsI0rUZLaIA:1789070635660&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yW2kNQOEpy6YggcT4owe0B5eeTC1ZW-aOhYk7o569wRel9K42r280uNDmfwGZ___RhZYdJK-GbcdI4DVTt2sbCsjMO8_QMjHfMLV0kyrEAlNE9mD_IQihHa-tTDG5XAh0S11rS6QChfE8FZu57JvMR0XeDZ6M5dKXV_Kq89rMvgZOGdoBVvMdx7c-j0Rd0b4GmpWCGxkuZxtFPx5z5U_LEmC93h9p85t7rsxwFLwnfAq2JYadWjXAVmpgTD4GBPZNQSpNmokPssM_RGw7TmhuosjGp6j&q=Vista+Ridge+High+School&sa=X&ved=2ahUKEwiGnN295-SWAxVzKlkFHQ-JMC0Qs9oBKAB6BAggEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Vista+Ridge+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yW2kNQOEpy6YggcT4owe0B5eeTC1ZW-aOhYk7o569wRel9K42r280uNDmfwGZ___RhZYdJK-GbcdI4DVTt2sbCsjMO8_QMjHfMLV0kyrEAlNE9mD_IQihHa-tTDG5XAh0S11rS6QChfE8FZu57JvMR0XeDZ6M5dKXV_Kq89rMvgZOGdoBVvMdx7c-j0Rd0b4GmpWCGxkuZxtFPx5z5U_LEmC93h9p85t7rsxwFLwnfAq2JYadWjXAVmpgTD4GBPZNQSpNmokPssM_RGw7TmhuosjGp6j"
+   },
+   {
+    "name": "Vandegrift High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk3V8m91X6M8rysuNtxNScx0o3YTgGwTP8f-a8A0H03tedfev70QoDsIltz_wPndE6RsxF-0XOTQAXDUrS2tFoWcdYZP8TJTOK8rjJHkLip8T0pN8oDxBk98CwoMYqEgjLunNQnag=w204-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnudV98j0qiLaMFLeToTsI0rUZLaIA:1789070635660&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67y1TmbHftHivL8IS5bCkh60YvLpsR5k8JozgZG3xpfjvgV6xC9UcxnAVFPpU11eHd_JXDS9OQhDpdU9haSKRRWZfwYOdPmZQKD7olVzX049EoiglkWQPR_Sy9wx7Sw0zojZz1mp07jp7iYLSiIldQhGPDbgCAm6n2ZCwdFPAoeThHc7tyO-L2DooUAl92vvVAML2kZDxwlMv7XbHSVupXPi9kX1-xInfs4SQWx8qPZjOecIp4vHtquEYFqqINA-FnpjJk7qvvOr95FxoutIhJUn6hye-&q=Vandegrift+High+School&sa=X&ved=2ahUKEwiGnN295-SWAxVzKlkFHQ-JMC0Qs9oBKAB6BAggEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Vandegrift+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67y1TmbHftHivL8IS5bCkh60YvLpsR5k8JozgZG3xpfjvgV6xC9UcxnAVFPpU11eHd_JXDS9OQhDpdU9haSKRRWZfwYOdPmZQKD7olVzX049EoiglkWQPR_Sy9wx7Sw0zojZz1mp07jp7iYLSiIldQhGPDbgCAm6n2ZCwdFPAoeThHc7tyO-L2DooUAl92vvVAML2kZDxwlMv7XbHSVupXPi9kX1-xInfs4SQWx8qPZjOecIp4vHtquEYFqqINA-FnpjJk7qvvOr95FxoutIhJUn6hye-"
+   },
+   {
+    "name": "Leander High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkRY8JoSwfjIgHlY9r8S4-xSV9r3wE4fpLG24dFCYkN6mMVISjiVM7ONz2iIsaOUV_ATJ7tFFlKptLDo5wGwOhi1ONZHS12lHSL6TeVN-mVKZRcOQ1ng8Pq6fUV2f_kDqrfMrf1=w153-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnudV98j0qiLaMFLeToTsI0rUZLaIA:1789070635660&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ye_d7yqTj5PFdNFBWvT5HRBU8empaeFJ4CGtDspWXI5sDbuOJe-YrbzyE6rTh1NL7eQ-SnM4v5uBudOyXjFZyzM-R14f0TfEEr4u1lkz_GYMm_RQeBUwPjRCIcrX0Tl9o_r4iBeV8tFaEnpeLrbHgWtqD67wtkCQvDYeZ7CtQb85SzXWmUjSGhvZwiGVPSIrgBg5C6Ndy3Z1MYW2npq3qC0i9ckQyq6TexD0x4aPUTZqzqBqo485lS6YOBuDzP4RW0k6MJo%3D&q=Leander+High+School&sa=X&ved=2ahUKEwiGnN295-SWAxVzKlkFHQ-JMC0Qs9oBKAB6BAggEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Leander+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ye_d7yqTj5PFdNFBWvT5HRBU8empaeFJ4CGtDspWXI5sDbuOJe-YrbzyE6rTh1NL7eQ-SnM4v5uBudOyXjFZyzM-R14f0TfEEr4u1lkz_GYMm_RQeBUwPjRCIcrX0Tl9o_r4iBeV8tFaEnpeLrbHgWtqD67wtkCQvDYeZ7CtQb85SzXWmUjSGhvZwiGVPSIrgBg5C6Ndy3Z1MYW2npq3qC0i9ckQyq6TexD0x4aPUTZqzqBqo485lS6YOBuDzP4RW0k6MJo%3D"
+   },
+   {
+    "name": "Rouse High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkKGgUdSU0kJ2nOosVL2yLTarSKdeZ6QIsLJQbcXPdkCqO_-8dGF9CR0jDrIbWm-luc9k1n7i9y2zhVUWZA7AMSMVXPF0JADjVPfA25TC_HEdmWfcqneCszN7tZKMil-vrCcfm0=w204-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnudV98j0qiLaMFLeToTsI0rUZLaIA:1789070635660&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW675YFa8_yCaw4Y1Lc0lWrDtbCMoFb6RUF3ot2gvFA27sruCCtn9NRzaUplC7f0W6CiHW_unZayxEDN0sqwUK7gyTjukh9CGTf3S3ovHzQLRPpwFb0qreR4OPoQThdgPgKLUTRfJ9dB3a4d3A3Jefl4sV8bC1sdrn5I7nd4LvuRJ635taIu_LIMCE7RvpKv0cWal9mOb77eSrGv8F-FuMHOTmEXogAui8ZuhLsDwQl5t6PU_ag9grv3-R8in1ZtbYrDUkv20k%3D&q=Rouse+High+School&sa=X&ved=2ahUKEwiGnN295-SWAxVzKlkFHQ-JMC0Qs9oBKAB6BAggEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Rouse+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW675YFa8_yCaw4Y1Lc0lWrDtbCMoFb6RUF3ot2gvFA27sruCCtn9NRzaUplC7f0W6CiHW_unZayxEDN0sqwUK7gyTjukh9CGTf3S3ovHzQLRPpwFb0qreR4OPoQThdgPgKLUTRfJ9dB3a4d3A3Jefl4sV8bC1sdrn5I7nd4LvuRJ635taIu_LIMCE7RvpKv0cWal9mOb77eSrGv8F-FuMHOTmEXogAui8ZuhLsDwQl5t6PU_ag9grv3-R8in1ZtbYrDUkv20k%3D"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnudV98j0qiLaMFLeToTsI0rUZLaIA:1789070635660&q=Cedar+Park+High+School&stick=H4sIAAAAAAAAAONgFuLUz9U3sDAtMYtXQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iFXNOTUksUghILMpW8MhMz1AITs7Iz8_Zwcp4i02S4Y1DRWAuX1PnknDDQ6zaizZHJAXbpId9Pw4AysKJMHwAAAA&sa=X&ved=2ahUKEwiGnN295-SWAxVzKlkFHQ-JMC0QzO0BKAR6BAggEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLUz9U3sDAtMYtXQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iFXNOTUksUghILMpW8MhMz1AITs7Iz8_Zwcp4i02S4Y1DRWAuX1PnknDDQ6zaizZHJAXbpId9Pw4AysKJMHwAAAA",
+  "profiles": [
+   {
+    "name": "X (Twitter)",
+    "link": "https://twitter.com/CPHS_TWolves",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Cedar+Park+High+School%22+Texas",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAABhUlEQVR4AczOA6xcARCF4X_us23btuLUQR3WZlhbQW3bto2gtm3b2J3GN4tY74uHh3okOi42Nj4AAUDwTvDEhisABCOAEAzYTBh0bN-lc5d0QgAhHPqX4Y4pkd367Zc-xMcXCPDg8TPwxeQH724Uj9N95GJ4pnHxby1xgCmV3v-GsFb7k0Iee7UjaQgmIYe9v9O4-wUKWaATyMPAViwvr1NnOQWDdTV5CHYSaKWLmaGDyvU4mTgQcllracaFr-9uk-yLM8k8fAJff0IUTghRVFu3M1ynkYk4nchiqqU3Ry05RDibMMhjtj6Ht3dJxVk_l1G64cspOusychBsCWm01WNM0jFs0sbEYUtIIuTXNco588OLh09JxE6wweuXEAvfL9PQus3-iU80N34KCaQyUOcxTTuSjEmMRI5rS9JwIZfD1t7ceo34YIpnuQ4nGwP8XXlq_fJZd9jE8KBHC5IwAELJ7dWrZ6fOuNhkgFgAEEIAwA1MQkw0AgDC_wnKycrKSQ2iPAkAVyNzq8rxicIAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/in/caroline-howard-1514a8243",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Cedar+Park+High+School%22+Texas",
+    "image": "https://serpapi.com/searches/6aa30d0f69819d39994517e8/images/nDr7p8gucs0MNKxG9DecdTCWKivi-78_SZqiA0-b1LOOSKlRSafICvRnss3_La6A.png"
+   },
+   {
+    "name": "YouTube",
+    "link": "https://www.youtube.com/channel/UCYoBSNpod9Gn45zKx_OtBow",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Cedar+Park+High+School%22+Texas",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAP1BMVEX_____z8__n5__kJD_gID_cHD_YGD_v7__39__ICD_AAD_r6__EBD_7-__oKD_MDD_QED_UFD_X1__j4__f396G04EAAAAhklEQVR4AeXQRQLDQAwDQC3bajj5_1dLYb63czYKf8VY50OcBO9swkyUB_SBkfJQlqOXeKJAz_FEQM9zVCqXInqRIy-RC9W-AJDypgCwyoGiV68LkLJFwX6CVJcr8nBwZJgLXMaDAs9RxsMcLE949IQnEnpoeKjEpC25o12OpVwkTURy_JQX1r4RC2S7kZYAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/cedarparkhigh/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Cedar+Park+High+School%22+Texas",
+    "image": "https://serpapi.com/searches/6aa30d0f69819d39994517e8/images/nDr7p8gucs0MNKxG9DecdYFEESRgFhscmw5WmenOlrwBPo_UCArxyAOVHLQ5CvMU.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "Is Cedar Park, TX a wealthy area?",
+   "type": "ai_overview",
+   "page_token": "BHTYTnicHdBbcoIwFADQ6Wb8rMFXrTNOZxCCUoEm4YbHTycEUSEBqlTUv-6lq-pqOu1Zwvn6Vse6-nm4HLquPS-Gw77vH_dNs1e7R9nooTjfajmUQqlMyGoxe5oZL4Vc2p8bc_WxMQm0LbcoYqjqvJVRc2hjj-eUG_PrruKnACSKADO4oWuGcAW6rQlcWRalm0zZE26ZxxDxbWSZgjlu4Je8kxalopra8c04JNBpFj2fheVud9gvPU3tRLUkqziC2F1nSL1FFp4yJ1dhaU8CTvpIuQK4GvPq-koQdBAfVqR2Q9_Br0LPbwHGhRinqwC7ITXmo8jJe2bRC7NwyOrUi-qU2od8m9_djyT2jwm0BWAwQv1MRMk9ck8po82RAL3LUmlQtA_sVCR6jmA0nWV_J86kD9d-kJUmTUJcpP2gkJflePD_uXwvdLdoT83-F_C9gwA",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=BHTYTnicHdBbcoIwFADQ6Wb8rMFXrTNOZxCCUoEm4YbHTycEUSEBqlTUv-6lq-pqOu1Zwvn6Vse6-nm4HLquPS-Gw77vH_dNs1e7R9nooTjfajmUQqlMyGoxe5oZL4Vc2p8bc_WxMQm0LbcoYqjqvJVRc2hjj-eUG_PrruKnACSKADO4oWuGcAW6rQlcWRalm0zZE26ZxxDxbWSZgjlu4Je8kxalopra8c04JNBpFj2fheVud9gvPU3tRLUkqziC2F1nSL1FFp4yJ1dhaU8CTvpIuQK4GvPq-koQdBAfVqR2Q9_Br0LPbwHGhRinqwC7ITXmo8jJe2bRC7NwyOrUi-qU2od8m9_djyT2jwm0BWAwQv1MRMk9ck8po82RAL3LUmlQtA_sVCR6jmA0nWV_J86kD9d-kJUmTUJcpP2gkJflePD_uXwvdLdoT83-F_C9gwA",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmNuaHZha2c1Y1V4M2VqSjNlVmg1VjI1RVEzWlNjMlJEWlZKMWFtY3dORTF3T1RaSlluTm5hVkpaU0MxRVNGbHJjRUZKWTJodFRtTlpPR1l0ZDNCMFRHOVpWSFZ6Y204Mk4yNXVibXhwUTFkQk5WVTFTWEpOYzI5eFp4SVhTM2N5YW1GelltRktYMUJWTlU1dlVHbzFURU0yVVVrYUlrRkVjM0k1WmxGTFFXdFRNMEk1V1RWdVpVcHBUVkJHYmxkRFNXTlRlR0pPVVVFIiwiZmN2IjoiMyIsImVpIjoiS3cyamFzYmFKX1BVNU5vUGo1TEM2UUkiLCJxYyI6IkNoeGpaV1JoY2lCd1lYSnJJR2hwWjJnZ2MyTm9iMjlzSUhSbGVHRnpFQUI5bkM4eFB3IiwicXVlc3Rpb24iOiJJcyBDZWRhciBQYXJrLCBUWCBhIHdlYWx0aHkgYXJlYT8iLCJsayI6IkdoOXBjeUJqWldSaGNpQndZWEpySUhSNElHRWdkMlZoYkhSb2VTQmhjbVZoIiwiYnMiOiJjM1hQc1F1Q1FCVEhjVnJmMUh4RF9xeUlCaWVoMWtPRU1GcUNHbHdmS3A1a1h0d0o1bi1mU2tOS3p1X0RsX2VqRTdsbml6QkwyZURLNXVIaEhvUFJaRnpXcWdXYmpLWHZDcWV3U0FiMDZoRHE5OFRRaFRhakRxSWlWN2dsU3VzU2h3RGE0QmhJZnl2VzQ1THFtZjB5SGhoVFNNNThMTmM2bFQ3RWFqN1VFNHJKaTNTREoxZnQ3OUgyXzZLb0pwdWx2eGM3OWRkM2RqUjl1ZmdBIiwiaWQiOiJmY19LdzJqYXNiYUpfUFU1Tm9QajVMQzZRSV81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmNuaHZha2c1Y1V4M2VqSjNlVmg1VjI1RVEzWlNjMlJEWlZKMWFtY3dORTF3T1RaSlluTm5hVkpaU0MxRVNGbHJjRUZKWTJodFRtTlpPR1l0ZDNCMFRHOVpWSFZ6Y204Mk4yNXVibXhwUTFkQk5WVTFTWEpOYzI5eFp4SVhTM2N5YW1GelltRktYMUJWTlU1dlVHbzFURU0yVVVrYUlrRkVjM0k1WmxGTFFXdFRNMEk1V1RWdVpVcHBUVkJHYmxkRFNXTlRlR0pPVVVFIiwiZmN2IjoiMyIsImVpIjoiS3cyamFzYmFKX1BVNU5vUGo1TEM2UUkiLCJxYyI6IkNoeGpaV1JoY2lCd1lYSnJJR2hwWjJnZ2MyTm9iMjlzSUhSbGVHRnpFQUI5bkM4eFB3IiwicXVlc3Rpb24iOiJJcyBDZWRhciBQYXJrLCBUWCBhIHdlYWx0aHkgYXJlYT8iLCJsayI6IkdoOXBjeUJqWldSaGNpQndZWEpySUhSNElHRWdkMlZoYkhSb2VTQmhjbVZoIiwiYnMiOiJjM1hQc1F1Q1FCVEhjVnJmMUh4RF9xeUlCaWVoMWtPRU1GcUNHbHdmS3A1a1h0d0o1bi1mU2tOS3p1X0RsX2VqRTdsbml6QkwyZURLNXVIaEhvUFJaRnpXcWdXYmpLWHZDcWV3U0FiMDZoRHE5OFRRaFRhakRxSWlWN2dsU3VzU2h3RGE0QmhJZnl2VzQ1THFtZjB5SGhoVFNNNThMTmM2bFQ3RWFqN1VFNHJKaTNTREoxZnQ3OUgyXzZLb0pwdWx2eGM3OWRkM2RqUjl1ZmdBIiwiaWQiOiJmY19LdzJqYXNiYUpfUFU1Tm9QajVMQzZRSV81In0%3D"
+  },
+  {
+   "question": "Is Cedar Park High School 5A or 6A?",
+   "type": "ai_overview",
+   "page_token": "UKl5x3icHdBRToMwHIDxeBkfHR1BsyWLCVsZI4KhtH-gL4a1MqAtMK0yefMunsrTuHiD7_d9_-i2V783n4214_t6sZim6e40DCf9eicGs6jev3qxEJXWx0qo9f3DPXqsxQZ_HPzt-eCnbBxhR5xsDizv-I4uuSpcHSdd05c6euNugngYbQGv6id2OVDQALmX0qWYSa7PMhjdUtmzRMSJmbUyaOLK8UIwaJmZy_boIB4rb88YqmK0UqzDLqH8UmkwmfJYziJMmMcB44n3pH3GpCF7b2Zu5GROY2lBnALxvsJQZCBzYcCDEHRpLD46MkhyEpSdcIWS1y5OoItcwODjRj7JOTqXRdKWbKxZwBA1q7TqIE5nTjIytCkjs-i0gVAnsbI7CrC9WjWfg-dXCjXrfQI00nIOJjnd1uJz497-_9y81Maux7fh9AeRfINK",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=UKl5x3icHdBRToMwHIDxeBkfHR1BsyWLCVsZI4KhtH-gL4a1MqAtMK0yefMunsrTuHiD7_d9_-i2V783n4214_t6sZim6e40DCf9eicGs6jev3qxEJXWx0qo9f3DPXqsxQZ_HPzt-eCnbBxhR5xsDizv-I4uuSpcHSdd05c6euNugngYbQGv6id2OVDQALmX0qWYSa7PMhjdUtmzRMSJmbUyaOLK8UIwaJmZy_boIB4rb88YqmK0UqzDLqH8UmkwmfJYziJMmMcB44n3pH3GpCF7b2Zu5GROY2lBnALxvsJQZCBzYcCDEHRpLD46MkhyEpSdcIWS1y5OoItcwODjRj7JOTqXRdKWbKxZwBA1q7TqIE5nTjIytCkjs-i0gVAnsbI7CrC9WjWfg-dXCjXrfQI00nIOJjnd1uJz497-_9y81Maux7fh9AeRfINK",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmNuaHZha2c1Y1V4M2VqSjNlVmg1VjI1RVEzWlNjMlJEWlZKMWFtY3dORTF3T1RaSlluTm5hVkpaU0MxRVNGbHJjRUZKWTJodFRtTlpPR1l0ZDNCMFRHOVpWSFZ6Y204Mk4yNXVibXhwUTFkQk5WVTFTWEpOYzI5eFp4SVhTM2N5YW1GelltRktYMUJWTlU1dlVHbzFURU0yVVVrYUlrRkVjM0k1WmxGTFFXdFRNMEk1V1RWdVpVcHBUVkJHYmxkRFNXTlRlR0pPVVVFIiwiZmN2IjoiMyIsImVpIjoiS3cyamFzYmFKX1BVNU5vUGo1TEM2UUkiLCJxYyI6IkNoeGpaV1JoY2lCd1lYSnJJR2hwWjJnZ2MyTm9iMjlzSUhSbGVHRnpFQUI5bkM4eFB3IiwicXVlc3Rpb24iOiJJcyBDZWRhciBQYXJrIEhpZ2ggU2Nob29sIDVBIG9yIDZBPyIsImxrIjoiR2lKcGN5QmpaV1JoY2lCd1lYSnJJR2hwWjJnZ2MyTm9iMjlzSURWaElHOXlJRFpoIiwiYnMiOiJjM1hQc1F1Q1FCVEhjVnJmMUh4RF9xeUlCaWVoMWtPRU1GcUNHbHdmS3A1a1h0d0o1bi1mU2tOS3p1X0RsX2VqRTdsbml6QkwyZURLNXVIaEhvUFJaRnpXcWdXYmpLWHZDcWV3U0FiMDZoRHE5OFRRaFRhakRxSWlWN2dsU3VzU2h3RGE0QmhJZnl2VzQ1THFtZjB5SGhoVFNNNThMTmM2bFQ3RWFqN1VFNHJKaTNTREoxZnQ3OUgyXzZLb0pwdWx2eGM3OWRkM2RqUjl1ZmdBIiwiaWQiOiJmY19LdzJqYXNiYUpfUFU1Tm9QajVMQzZRSV81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmNuaHZha2c1Y1V4M2VqSjNlVmg1VjI1RVEzWlNjMlJEWlZKMWFtY3dORTF3T1RaSlluTm5hVkpaU0MxRVNGbHJjRUZKWTJodFRtTlpPR1l0ZDNCMFRHOVpWSFZ6Y204Mk4yNXVibXhwUTFkQk5WVTFTWEpOYzI5eFp4SVhTM2N5YW1GelltRktYMUJWTlU1dlVHbzFURU0yVVVrYUlrRkVjM0k1WmxGTFFXdFRNMEk1V1RWdVpVcHBUVkJHYmxkRFNXTlRlR0pPVVVFIiwiZmN2IjoiMyIsImVpIjoiS3cyamFzYmFKX1BVNU5vUGo1TEM2UUkiLCJxYyI6IkNoeGpaV1JoY2lCd1lYSnJJR2hwWjJnZ2MyTm9iMjlzSUhSbGVHRnpFQUI5bkM4eFB3IiwicXVlc3Rpb24iOiJJcyBDZWRhciBQYXJrIEhpZ2ggU2Nob29sIDVBIG9yIDZBPyIsImxrIjoiR2lKcGN5QmpaV1JoY2lCd1lYSnJJR2hwWjJnZ2MyTm9iMjlzSURWaElHOXlJRFpoIiwiYnMiOiJjM1hQc1F1Q1FCVEhjVnJmMUh4RF9xeUlCaWVoMWtPRU1GcUNHbHdmS3A1a1h0d0o1bi1mU2tOS3p1X0RsX2VqRTdsbml6QkwyZURLNXVIaEhvUFJaRnpXcWdXYmpLWHZDcWV3U0FiMDZoRHE5OFRRaFRhakRxSWlWN2dsU3VzU2h3RGE0QmhJZnl2VzQ1THFtZjB5SGhoVFNNNThMTmM2bFQ3RWFqN1VFNHJKaTNTREoxZnQ3OUgyXzZLb0pwdWx2eGM3OWRkM2RqUjl1ZmdBIiwiaWQiOiJmY19LdzJqYXNiYUpfUFU1Tm9QajVMQzZRSV81In0%3D"
+  },
+  {
+   "question": "Is Cedar Park High School good?",
+   "type": "ai_overview",
+   "page_token": "To6if3icHdBdbtowAABg7TJ9LPlZaUFC07raUIs4tR3biV8mxyZA4iRmGNLy1rv0VDvNpH1H-D6_3HHo_n67HkLw5-VsNk3T_X4c9253b8Z-ps8fg5kZ7VytTbecP87jH41Zgcvr86_T6zPh3osXGrFOZfkaVoW0jDg7pyz6zgCPjMRBtPayFTQn0ftkU5wWawTqBJ94Jx5I77ZqjQLbKIFThHSJvC5hyWM_GUcHyRFiPLzX8OeHdKqvUxUKgDa5xPOa86hO_DYTEJtucc1ebGu5j3n3EO3W9FAlthGde9NAsap0uQI-qsFTjAdfZICSunSIiyrIwm2ybgFJShvS4hODNAUHu7U3dKpKfKy4bzjkcdEviG5FRm6KMjoeCac307qep-iiJRQ76I-FDJwnqBRSaTaYm0pwnoHDmZC7xlxX6d3_z9Xvpg9L_2fc_wOrwYM-",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=To6if3icHdBdbtowAABg7TJ9LPlZaUFC07raUIs4tR3biV8mxyZA4iRmGNLy1rv0VDvNpH1H-D6_3HHo_n67HkLw5-VsNk3T_X4c9253b8Z-ps8fg5kZ7VytTbecP87jH41Zgcvr86_T6zPh3osXGrFOZfkaVoW0jDg7pyz6zgCPjMRBtPayFTQn0ftkU5wWawTqBJ94Jx5I77ZqjQLbKIFThHSJvC5hyWM_GUcHyRFiPLzX8OeHdKqvUxUKgDa5xPOa86hO_DYTEJtucc1ebGu5j3n3EO3W9FAlthGde9NAsap0uQI-qsFTjAdfZICSunSIiyrIwm2ybgFJShvS4hODNAUHu7U3dKpKfKy4bzjkcdEviG5FRm6KMjoeCac307qep-iiJRQ76I-FDJwnqBRSaTaYm0pwnoHDmZC7xlxX6d3_z9Xvpg9L_2fc_wOrwYM-",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmNuaHZha2c1Y1V4M2VqSjNlVmg1VjI1RVEzWlNjMlJEWlZKMWFtY3dORTF3T1RaSlluTm5hVkpaU0MxRVNGbHJjRUZKWTJodFRtTlpPR1l0ZDNCMFRHOVpWSFZ6Y204Mk4yNXVibXhwUTFkQk5WVTFTWEpOYzI5eFp4SVhTM2N5YW1GelltRktYMUJWTlU1dlVHbzFURU0yVVVrYUlrRkVjM0k1WmxGTFFXdFRNMEk1V1RWdVpVcHBUVkJHYmxkRFNXTlRlR0pPVVVFIiwiZmN2IjoiMyIsImVpIjoiS3cyamFzYmFKX1BVNU5vUGo1TEM2UUkiLCJxYyI6IkNoeGpaV1JoY2lCd1lYSnJJR2hwWjJnZ2MyTm9iMjlzSUhSbGVHRnpFQUI5bkM4eFB3IiwicXVlc3Rpb24iOiJJcyBDZWRhciBQYXJrIEhpZ2ggU2Nob29sIGdvb2Q/IiwibGsiOiJHaDVwY3lCalpXUmhjaUJ3WVhKcklHaHBaMmdnYzJOb2IyOXNJR2R2YjJRIiwiYnMiOiJjM1hQc1F1Q1FCVEhjVnJmMUh4RF9xeUlCaWVoMWtPRU1GcUNHbHdmS3A1a1h0d0o1bi1mU2tOS3p1X0RsX2VqRTdsbml6QkwyZURLNXVIaEhvUFJaRnpXcWdXYmpLWHZDcWV3U0FiMDZoRHE5OFRRaFRhakRxSWlWN2dsU3VzU2h3RGE0QmhJZnl2VzQ1THFtZjB5SGhoVFNNNThMTmM2bFQ3RWFqN1VFNHJKaTNTREoxZnQ3OUgyXzZLb0pwdWx2eGM3OWRkM2RqUjl1ZmdBIiwiaWQiOiJmY19LdzJqYXNiYUpfUFU1Tm9QajVMQzZRSV81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmNuaHZha2c1Y1V4M2VqSjNlVmg1VjI1RVEzWlNjMlJEWlZKMWFtY3dORTF3T1RaSlluTm5hVkpaU0MxRVNGbHJjRUZKWTJodFRtTlpPR1l0ZDNCMFRHOVpWSFZ6Y204Mk4yNXVibXhwUTFkQk5WVTFTWEpOYzI5eFp4SVhTM2N5YW1GelltRktYMUJWTlU1dlVHbzFURU0yVVVrYUlrRkVjM0k1WmxGTFFXdFRNMEk1V1RWdVpVcHBUVkJHYmxkRFNXTlRlR0pPVVVFIiwiZmN2IjoiMyIsImVpIjoiS3cyamFzYmFKX1BVNU5vUGo1TEM2UUkiLCJxYyI6IkNoeGpaV1JoY2lCd1lYSnJJR2hwWjJnZ2MyTm9iMjlzSUhSbGVHRnpFQUI5bkM4eFB3IiwicXVlc3Rpb24iOiJJcyBDZWRhciBQYXJrIEhpZ2ggU2Nob29sIGdvb2Q%2FIiwibGsiOiJHaDVwY3lCalpXUmhjaUJ3WVhKcklHaHBaMmdnYzJOb2IyOXNJR2R2YjJRIiwiYnMiOiJjM1hQc1F1Q1FCVEhjVnJmMUh4RF9xeUlCaWVoMWtPRU1GcUNHbHdmS3A1a1h0d0o1bi1mU2tOS3p1X0RsX2VqRTdsbml6QkwyZURLNXVIaEhvUFJaRnpXcWdXYmpLWHZDcWV3U0FiMDZoRHE5OFRRaFRhakRxSWlWN2dsU3VzU2h3RGE0QmhJZnl2VzQ1THFtZjB5SGhoVFNNNThMTmM2bFQ3RWFqN1VFNHJKaTNTREoxZnQ3OUgyXzZLb0pwdWx2eGM3OWRkM2RqUjl1ZmdBIiwiaWQiOiJmY19LdzJqYXNiYUpfUFU1Tm9QajVMQzZRSV81In0%3D"
+  },
+  {
+   "question": "How many high schools are in Cedar Park, TX?",
+   "type": "ai_overview",
+   "page_token": "EP9C43icHdBRboIwGADg7DI-DhFx0cQsYVKVSbWFv0BfFiyiQCmonShvu8tOtdNs2QW-h-_rWxaq-nm6nbRurzPD6Lru-dg0R3l4Fk1tpNeHEoZIpdynoppNXibmay7m7ufaeTuvHQJtyxZ0GMTOAq_QJYg0gBTjA5hbbCHMTXSlvffOJGJBNNYwknFSUkJdNAxLj4kS60RKiy75TtQ2JYqG-5hyHulNqFh5QHjBV57rq1NKeq-CyHQywA2VtOQRYmDhjlemzeC-Ey7LfZmt_diJSYUVqRs7LVmfmh5Ey_HdR04RBEMdmm3lr7LtNuQTf-UVTHGV1VIFEQq5au7ZSFvuKdtkvXdOYlwk0OaAwAzrKfnzfNJzGtCmIEB7UcoaLNQKifMN2DmDbBTE_OordqM1e4SusJPhlPJukIvb3Br8f84_8lrP2ktz_AVC5YQ_",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=EP9C43icHdBRboIwGADg7DI-DhFx0cQsYVKVSbWFv0BfFiyiQCmonShvu8tOtdNs2QW-h-_rWxaq-nm6nbRurzPD6Lru-dg0R3l4Fk1tpNeHEoZIpdynoppNXibmay7m7ufaeTuvHQJtyxZ0GMTOAq_QJYg0gBTjA5hbbCHMTXSlvffOJGJBNNYwknFSUkJdNAxLj4kS60RKiy75TtQ2JYqG-5hyHulNqFh5QHjBV57rq1NKeq-CyHQywA2VtOQRYmDhjlemzeC-Ey7LfZmt_diJSYUVqRs7LVmfmh5Ey_HdR04RBEMdmm3lr7LtNuQTf-UVTHGV1VIFEQq5au7ZSFvuKdtkvXdOYlwk0OaAwAzrKfnzfNJzGtCmIEB7UcoaLNQKifMN2DmDbBTE_OordqM1e4SusJPhlPJukIvb3Br8f84_8lrP2ktz_AVC5YQ_",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmNuaHZha2c1Y1V4M2VqSjNlVmg1VjI1RVEzWlNjMlJEWlZKMWFtY3dORTF3T1RaSlluTm5hVkpaU0MxRVNGbHJjRUZKWTJodFRtTlpPR1l0ZDNCMFRHOVpWSFZ6Y204Mk4yNXVibXhwUTFkQk5WVTFTWEpOYzI5eFp4SVhTM2N5YW1GelltRktYMUJWTlU1dlVHbzFURU0yVVVrYUlrRkVjM0k1WmxGTFFXdFRNMEk1V1RWdVpVcHBUVkJHYmxkRFNXTlRlR0pPVVVFIiwiZmN2IjoiMyIsImVpIjoiS3cyamFzYmFKX1BVNU5vUGo1TEM2UUkiLCJxYyI6IkNoeGpaV1JoY2lCd1lYSnJJR2hwWjJnZ2MyTm9iMjlzSUhSbGVHRnpFQUI5bkM4eFB3IiwicXVlc3Rpb24iOiJIb3cgbWFueSBoaWdoIHNjaG9vbHMgYXJlIGluIENlZGFyIFBhcmssIFRYPyIsImxrIjoiR2lab2IzY2diV0Z1ZVNCb2FXZG9JSE5qYUc5dmJITWdhVzRnWTJWa1lYSWdjR0Z5YXlCMGVBIiwiYnMiOiJjM1hQc1F1Q1FCVEhjVnJmMUh4RF9xeUlCaWVoMWtPRU1GcUNHbHdmS3A1a1h0d0o1bi1mU2tOS3p1X0RsX2VqRTdsbml6QkwyZURLNXVIaEhvUFJaRnpXcWdXYmpLWHZDcWV3U0FiMDZoRHE5OFRRaFRhakRxSWlWN2dsU3VzU2h3RGE0QmhJZnl2VzQ1THFtZjB5SGhoVFNNNThMTmM2bFQ3RWFqN1VFNHJKaTNTREoxZnQ3OUgyXzZLb0pwdWx2eGM3OWRkM2RqUjl1ZmdBIiwiaWQiOiJmY19LdzJqYXNiYUpfUFU1Tm9QajVMQzZRSV81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmNuaHZha2c1Y1V4M2VqSjNlVmg1VjI1RVEzWlNjMlJEWlZKMWFtY3dORTF3T1RaSlluTm5hVkpaU0MxRVNGbHJjRUZKWTJodFRtTlpPR1l0ZDNCMFRHOVpWSFZ6Y204Mk4yNXVibXhwUTFkQk5WVTFTWEpOYzI5eFp4SVhTM2N5YW1GelltRktYMUJWTlU1dlVHbzFURU0yVVVrYUlrRkVjM0k1WmxGTFFXdFRNMEk1V1RWdVpVcHBUVkJHYmxkRFNXTlRlR0pPVVVFIiwiZmN2IjoiMyIsImVpIjoiS3cyamFzYmFKX1BVNU5vUGo1TEM2UUkiLCJxYyI6IkNoeGpaV1JoY2lCd1lYSnJJR2hwWjJnZ2MyTm9iMjlzSUhSbGVHRnpFQUI5bkM4eFB3IiwicXVlc3Rpb24iOiJIb3cgbWFueSBoaWdoIHNjaG9vbHMgYXJlIGluIENlZGFyIFBhcmssIFRYPyIsImxrIjoiR2lab2IzY2diV0Z1ZVNCb2FXZG9JSE5qYUc5dmJITWdhVzRnWTJWa1lYSWdjR0Z5YXlCMGVBIiwiYnMiOiJjM1hQc1F1Q1FCVEhjVnJmMUh4RF9xeUlCaWVoMWtPRU1GcUNHbHdmS3A1a1h0d0o1bi1mU2tOS3p1X0RsX2VqRTdsbml6QkwyZURLNXVIaEhvUFJaRnpXcWdXYmpLWHZDcWV3U0FiMDZoRHE5OFRRaFRhakRxSWlWN2dsU3VzU2h3RGE0QmhJZnl2VzQ1THFtZjB5SGhoVFNNNThMTmM2bFQ3RWFqN1VFNHJKaTNTREoxZnQ3OUgyXzZLb0pwdWx2eGM3OWRkM2RqUjl1ZmdBIiwiaWQiOiJmY19LdzJqYXNiYUpfUFU1Tm9QajVMQzZRSV81In0%3D"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Cedar Park High School",
+   "link": "https://cphs.leanderisd.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVAHrOzAV3434PO0209uo5jaS_F95vqoGAgzYBKD4tLGujNKba7ZnKCxAM2dqqf5Z6Zg4NeXpCwiV9urJ3nAujycW96_QEkQ5PD3W0BgGmOELQ4d5wg&ved=2ahUKEwiGnN295-SWAxVzKlkFHQ-JMC0QFnoECEYQAQ&uoh=1",
+   "displayed_link": "https://cphs.leanderisd.org",
+   "favicon": "https://serpapi.com/images/i/UklGRkABAABXRUJQVlA4IDQBAABwBgCdASocABwAPtE-tFooIigoFAEAGgljAM3Bp--bb589FffGv1yDs2I5KsKpTVpWid4BTexdkxR61IAA_vYC_2sdvueIvaD8fKK2apIPoFE1_Jl_86NPDuNnJTL13I_DWPXaOQgjWSgWjrlsbZHmKslBfKfJe7VwIZMgKHxMCgpLxTaOMpbruK0bLP6E4rcM_Jm1Z5l2_Yu_fFM7ABTPA_GkQA_DvtdIci5rNLnbpo779ny7d3WBe2EM4ndnoaXXqMX40vkVlsvPzA_tx__g9526li_Q0_Qn5GCPv01Ervvt3zjAfs-nlk8hzsaO2MDH_zbm_zT5ifym6ZJ9GXGLiAmQwjODEv-lFF2yltrvBv_pRIXZ5aB3VKQu75HzOXxxVEGDSsTX6dK2EJMVt0gRDsAAAA.webp",
+   "snippet": "CEDAR PARK HIGH SCHOOL. 2150 Cypress Creek Rd., Cedar Park, TX 78613. Phone: 512-570-1200 | Fax: 512-570-1205. Report an Accessibility issue \u00b7 Facebook icon.",
+   "snippet_highlighted_words": [
+    "CEDAR PARK HIGH SCHOOL",
+    "TX"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "Directory",
+      "link": "https://cphs.leanderisd.org/directory",
+      "snippet": "CEDAR PARK HIGH SCHOOL. 2150 Cypress Creek Rd ..."
+     },
+     {
+      "title": "Calendar",
+      "link": "https://cphs.leanderisd.org/calendar",
+      "snippet": "CEDAR PARK HIGH SCHOOL. 2150 Cypress Creek Rd ..."
+     },
+     {
+      "title": "Campus Info",
+      "link": "https://cphs.leanderisd.org/campus_information",
+      "snippet": "Assessment & Accountability. Accountability Rating \u00b7 Campus ..."
+     },
+     {
+      "title": "Bell Schedules",
+      "link": "https://cphs.leanderisd.org/campus_information/bell-schedules",
+      "snippet": "CEDAR PARK HIGH SCHOOL. 2150 Cypress Creek Rd ..."
+     },
+     {
+      "title": "Registration",
+      "link": "https://cphs.leanderisd.org/campus_information/registration",
+      "snippet": "a copy of the student's birth certificate (Note: Parents can go ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "CEDAR PARK HIGH SCHOOL. 2150 Cypress Creek Rd., Cedar Park, TX 78613. Phone: 512-570-1200 | Fax: 512-570-1205. Report an Accessibility issue \u00b7 Facebook icon.",
+     "source_info_link": "https://cphs.leanderisd.org/",
+     "icon": "https://serpapi.com/images/i/UklGRkABAABXRUJQVlA4IDQBAABwBgCdASocABwAPtE-tFooIigoFAEAGgljAM3Bp--bb589FffGv1yDs2I5KsKpTVpWid4BTexdkxR61IAA_vYC_2sdvueIvaD8fKK2apIPoFE1_Jl_86NPDuNnJTL13I_DWPXaOQgjWSgWjrlsbZHmKslBfKfJe7VwIZMgKHxMCgpLxTaOMpbruK0bLP6E4rcM_Jm1Z5l2_Yu_fFM7ABTPA_GkQA_DvtdIci5rNLnbpo779ny7d3WBe2EM4ndnoaXXqMX40vkVlsvPzA_tx__g9526li_Q0_Qn5GCPv01Ervvt3zjAfs-nlk8hzsaO2MDH_zbm_zT5ifym6ZJ9GXGLiAmQwjODEv-lFF2yltrvBv_pRIXZ5aB3VKQu75HzOXxxVEGDSsTX6dK2EJMVt0gRDsAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Cedar Park High School"
+  },
+  {
+   "position": 2,
+   "title": "Cedar Park High School",
+   "link": "https://en.wikipedia.org/wiki/Cedar_Park_High_School",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHrOzAV8y_TQ1tjLS1A0hn5TfzV9ePXR8d0hkaGytPk_6qlsFEtQ-F_ZzZb3pSdc_9XnUlr7-sY8cBLtAIlv-5fKn-jxA75QTUsXM787nKTpBb7Yc5SDMLpa5igOKwMSHItZgOluTAunmHdMg&ved=2ahUKEwiGnN295-SWAxVzKlkFHQ-JMC0QFnoECFIQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Cedar_Park_High_Sch...",
+   "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+   "snippet": "Cedar Park High School (CPHS) is a high school in Cedar Park, Texas. It was established in 1998 to serve as the second high school in the Leander ...",
+   "snippet_highlighted_words": [
+    "Cedar Park High School",
+    "Texas"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Cedar Park High School (CPHS) is a high school in Cedar Park, Texas. It was established in 1998 to serve as the second high school in the Leander ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Cedar_Park_High_School",
+     "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Cedar_Park_High_School#:~:text=Cedar%20Park%20High%20School%20(CPHS),rapid%20growth%20in%20the%20area."
+  },
+  {
+   "position": 3,
+   "title": "Cedar Park High School - Texas",
+   "link": "https://www.usnews.com/education/best-high-schools/texas/districts/leander-independent-school-district/cedar-park-high-school-19430",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESvAEB6zswFXq42u60xWAtgn5qTzUCEney01Gk3vsDJsXd7NapIxQARRuoLzRP5sMwyE0udeITtbX3J0kbRDgUOi1ceEVZ7tz72B0RtSvVND-jGQIecikvaBT-L9Kczj_8vtDlA5cdwtt1naQDdLMrmmuJUjqJcX16gHVCsIVynW9uC-9EOExbgFAU8tRs5FJ2Nq4euqfT2m-9zP265S4XC0dCNH-xwkvZmbpIoCLL5ZnZrNhS_qngJy44CAGJQw&ved=2ahUKEwiGnN295-SWAxVzKlkFHQ-JMC0QFnoECG4QAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a education \u203a texas \u203a districts",
+   "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp",
+   "snippet": "Cedar Park High School is ranked #1,291 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+   "snippet_highlighted_words": [
+    "Cedar Park High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Cedar Park High School is ranked #1,291 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/texas/districts/leander-independent-school-district/cedar-park-high-school-19430",
+     "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/texas/districts/leander-independent-school-district/cedar-park-high-school-19430#:~:text=Cedar%20Park%20High%20School%20is,they%20prepare%20students%20for%20college."
+  },
+  {
+   "position": 4,
+   "title": "Cedar Park High School",
+   "link": "https://www.facebook.com/CedarParkHighSchool/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZQHrOzAV4Zj9i4NWDwDI_-eK42fwG2jDeDywzSezRVxfHiYyhCKY5Y0VkipbricLjgu78qFTsXrLcOpmwSnCJdn6kTV5tGFAEFu_6yrPT9wpw2ZZDgolsnLjKBVjoJ8QEseqCOEc&ved=2ahUKEwiGnN295-SWAxVzKlkFHQ-JMC0QFnoECHAQAQ&uoh=1",
+   "displayed_link": "2K+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "snippet": "Cedar Park High School. Preparing Timberwolves for bright futures since 1998 #CPProud | Managed by Campus Staff.",
+   "snippet_highlighted_words": [
+    "Cedar Park High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Cedar Park High School. Preparing Timberwolves for bright futures since 1998 #CPProud | Managed by Campus Staff.",
+     "source_info_link": "https://www.facebook.com/CedarParkHighSchool/",
+     "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Facebook \u00b7 Cedar Park High School",
+   "read_more_link": "https://www.facebook.com/CedarParkHighSchool/#:~:text=Cedar%20Park%20High%20School,%7C%20Managed%20by%20Campus%20Staff"
+  },
+  {
+   "position": 5,
+   "title": "Cedar Park High School (@cedarparkhigh)",
+   "link": "https://www.instagram.com/cedarparkhigh/?hl=en",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVW9Prf679h9iAcPVF_po3oUOxN6JyHJelJW9mBZfMt9FiTOKmFz8FKIYu9VOAmsrpWIv4YwunCWxcP2z02CYokhlK17dKqcUYCnC5z29yQX3Dt2mC7SLN6KqvmDJdoqdDoA&ved=2ahUKEwiGnN295-SWAxVzKlkFHQ-JMC0QFnoECHEQAQ&uoh=1",
+   "displayed_link": "2.6K+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+   "snippet": "STATE CHAMPIONS! Cedar Park High School Girls Soccer has made school history, winning the UIL State Championship with a 3-1 victory over Wakeland! This ...",
+   "snippet_highlighted_words": [
+    "Cedar Park High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "STATE CHAMPIONS! Cedar Park High School Girls Soccer has made school history, winning the UIL State Championship with a 3-1 victory over Wakeland! This ...",
+     "source_info_link": "https://www.instagram.com/cedarparkhigh/?hl=en",
+     "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Instagram \u00b7 cedarparkhigh"
+  },
+  {
+   "position": 6,
+   "title": "Cedar Park High School - Texas",
+   "link": "https://www.donorschoose.org/schools/texas/leander-independent-school-district/cedar-park-high-school/17564",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESowEB6zswFf5Oj3wCNJFl5ypOFdYN38eZ4aIlSQur4ia3BNbI4wkgCrbgcpY4W9hIJeWgmPl1ewxHVbiKmEu-CHYWWxh_TX3sEaQ6Ije9fjYT8WVEJr-_H3ERmNCFhv09AqpMyMU3nqHohxHPvyRbzDkdu13VUl6W3Md1EyurMH4Hrxq7EGY5w1gyhJmwKi9pvwckDuqVQQyFK-figVmJrZbQvWpS&ved=2ahUKEwiGnN295-SWAxVzKlkFHQ-JMC0QFnoECG8QAQ&uoh=1",
+   "displayed_link": "https://www.donorschoose.org \u203a schools \u203a texas \u203a cedar...",
+   "favicon": "https://serpapi.com/images/i/UklGRswAAABXRUJQVlA4IMAAAABwBQCdASocABwAPtEwtFooIigoGAEAGglsAKknND9QgUiCtSxixOFp4uhGPS57r1rBvQAAAP78Ruvp_RopI31agF2kTcvpn_nJpqDkB-JZ3L4TnmXfH8Lj7_7aH_7LAv_qWkLImNPY960ex9CxAdN4Rj2bYpPBjMs4lAfwcelVvNLkNVmPcrR_CPQWyeuMExXrAK1CRpFOK2_rpU32_y9RFVHtRr1D17PWVgxOgSGl1SdGJuoFHhfsjXVLLo5igAA.webp",
+   "snippet": "Cedar Park High School is a public school in Cedar Park, Texas that is part of Leander Independent School District. It serves 2242 studentsin 9 - 12 with a ...",
+   "snippet_highlighted_words": [
+    "Cedar Park High School",
+    "Texas"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Cedar Park High School is a public school in Cedar Park, Texas that is part of Leander Independent School District. It serves 2242 studentsin 9 - 12 with a ...",
+     "source_info_link": "https://www.donorschoose.org/schools/texas/leander-independent-school-district/cedar-park-high-school/17564",
+     "icon": "https://serpapi.com/images/i/UklGRswAAABXRUJQVlA4IMAAAABwBQCdASocABwAPtEwtFooIigoGAEAGglsAKknND9QgUiCtSxixOFp4uhGPS57r1rBvQAAAP78Ruvp_RopI31agF2kTcvpn_nJpqDkB-JZ3L4TnmXfH8Lj7_7aH_7LAv_qWkLImNPY960ex9CxAdN4Rj2bYpPBjMs4lAfwcelVvNLkNVmPcrR_CPQWyeuMExXrAK1CRpFOK2_rpU32_y9RFVHtRr1D17PWVgxOgSGl1SdGJuoFHhfsjXVLLo5igAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "DonorsChoose"
+  },
+  {
+   "position": 7,
+   "title": "Schools",
+   "link": "https://www.leanderisd.org/schools/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWwHrOzAVHzPDbX_-nQzMQI_RlZvfC9hMEsXAbzXa3um5Qk7izBH9Sm8up5WtW0vJmMpRrbYwBcpvv431DzbRa8cIElO2-yXq0DL4MIM6bCaJev0cFdfzJRJ3kuw&ved=2ahUKEwiGnN295-SWAxVzKlkFHQ-JMC0QFnoECG0QAQ&uoh=1",
+   "displayed_link": "https://www.leanderisd.org \u203a schools",
+   "favicon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAADQBwCdASogACAAPtEytFooIigoGAEAGglsALElQQoPzvFX4Eu235_-yOSI1Sbr-5G4gVVf-mq4_7WLtQCXYRWPaB-6CJPDAAD-_pQxtcAAnGvUntagQ5_HhOs4pY0c_3ZIaNTbOu35VNTEUjR85XWsMfJiME_ufnvMB1hz9z-358fZqnvte0fpuPOSLSZ0AhCe_YS1j9qPCeWfdY9Zozo548AWBB5qEgia0A2-WwZY1iX3fbv2EN-z-dj-dwn4p6fHeo2Vf3EoZ4Q93t0Qg1dPHyKow2rKXTiR_G_AY8qLZfq4dBbwNTHgofqUUkrl9nCisUlJSuUTpFnGYDiZhioyqCcphaVFLHzY9Qzvc1dLB5DTl02wAAAA.webp",
+   "snippet": "Cedar Park High School \u00b7 2150 Cypress Creek Rd., Cedar Park, 78613; 512-570-1200; Principal John Sloan ; Glenn High School \u00b7 1320 Collaborative Way, Leander, ...",
+   "snippet_highlighted_words": [
+    "Cedar Park High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Cedar Park High School \u00b7 2150 Cypress Creek Rd., Cedar Park, 78613; 512-570-1200; Principal John Sloan ; Glenn High School \u00b7 1320 Collaborative Way, Leander, ...",
+     "source_info_link": "https://www.leanderisd.org/schools/",
+     "icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAADQBwCdASogACAAPtEytFooIigoGAEAGglsALElQQoPzvFX4Eu235_-yOSI1Sbr-5G4gVVf-mq4_7WLtQCXYRWPaB-6CJPDAAD-_pQxtcAAnGvUntagQ5_HhOs4pY0c_3ZIaNTbOu35VNTEUjR85XWsMfJiME_ufnvMB1hz9z-358fZqnvte0fpuPOSLSZ0AhCe_YS1j9qPCeWfdY9Zozo548AWBB5qEgia0A2-WwZY1iX3fbv2EN-z-dj-dwn4p6fHeo2Vf3EoZ4Q93t0Qg1dPHyKow2rKXTiR_G_AY8qLZfq4dBbwNTHgofqUUkrl9nCisUlJSuUTpFnGYDiZhioyqCcphaVFLHzY9Qzvc1dLB5DTl02wAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Leander ISD",
+   "read_more_link": "https://www.leanderisd.org/schools/#:~:text=Cedar%20Park%20High%20School,Principal%20John%20Sloan&text=Glenn%20High%20School,1320%20Collaborative%20Way%2C%20Leander%2C%2078641"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Cedar park high school texas football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnudV98j0qiLaMFLeToTsI0rUZLaIA:1789070635660&q=Cedar+park+high+school+texas+football&sa=X&ved=2ahUKEwiGnN295-SWAxVzKlkFHQ-JMC0Q1QJ6BAhsEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Cedar+park+high+school+texas+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Cedar park high school texas yearbook",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnudV98j0qiLaMFLeToTsI0rUZLaIA:1789070635660&q=Cedar+park+high+school+texas+yearbook&sa=X&ved=2ahUKEwiGnN295-SWAxVzKlkFHQ-JMC0Q1QJ6BQiAARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Cedar+park+high+school+texas+yearbook"
+  },
+  {
+   "block_position": 1,
+   "query": "Cedar park high school texas staff",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnudV98j0qiLaMFLeToTsI0rUZLaIA:1789070635660&q=Cedar+park+high+school+texas+staff&sa=X&ved=2ahUKEwiGnN295-SWAxVzKlkFHQ-JMC0Q1QJ6BAh7EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Cedar+park+high+school+texas+staff"
+  },
+  {
+   "block_position": 1,
+   "query": "Cedar park high school district",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnudV98j0qiLaMFLeToTsI0rUZLaIA:1789070635660&q=Cedar+park+high+school+district&sa=X&ved=2ahUKEwiGnN295-SWAxVzKlkFHQ-JMC0Q1QJ6BAh3EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Cedar+park+high+school+district"
+  },
+  {
+   "block_position": 1,
+   "query": "Cedar Park High School ranking",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnudV98j0qiLaMFLeToTsI0rUZLaIA:1789070635660&q=Cedar+Park+High+School+ranking&sa=X&ved=2ahUKEwiGnN295-SWAxVzKlkFHQ-JMC0Q1QJ6BAh1EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Cedar+Park+High+School+ranking"
+  },
+  {
+   "block_position": 1,
+   "query": "Cedar park high school prom 2026",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnudV98j0qiLaMFLeToTsI0rUZLaIA:1789070635660&q=Cedar+park+high+school+prom+2026&sa=X&ved=2ahUKEwiGnN295-SWAxVzKlkFHQ-JMC0Q1QJ6BAh0EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Cedar+park+high+school+prom+2026"
+  },
+  {
+   "block_position": 1,
+   "query": "Cedar park high school Website",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnudV98j0qiLaMFLeToTsI0rUZLaIA:1789070635660&q=Cedar+park+high+school+Website&sa=X&ved=2ahUKEwiGnN295-SWAxVzKlkFHQ-JMC0Q1QJ6BAhzEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Cedar+park+high+school+Website"
+  },
+  {
+   "block_position": 1,
+   "query": "Cedar Park high school calendar",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnudV98j0qiLaMFLeToTsI0rUZLaIA:1789070635660&q=Cedar+Park+high+school+calendar&sa=X&ved=2ahUKEwiGnN295-SWAxVzKlkFHQ-JMC0Q1QJ6BAhyEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Cedar+Park+high+school+calendar"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Cedar+Park+High+School%22+Texas&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnudV98j0qiLaMFLeToTsI0rUZLaIA:1789070635660&ei=Kw2jasbaJ_PU5NoPj5LC6QI&start=10&sa=N&sstk=AS6-VmKGO4qjVojYcOGe67zDVKOcEIeNdc_iT-F2eNP06nZAXmiB6vcTh1nIdxPnNJ3onaL2dvSGcDdbrJz7Z-Qpf-Pb3SSbY4rUIQ&ved=2ahUKEwiGnN295-SWAxVzKlkFHQ-JMC0Q8NMDegQIYhAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Cedar+Park+High+School%22+Texas&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnudV98j0qiLaMFLeToTsI0rUZLaIA:1789070635660&ei=Kw2jasbaJ_PU5NoPj5LC6QI&start=10&sa=N&sstk=AS6-VmKGO4qjVojYcOGe67zDVKOcEIeNdc_iT-F2eNP06nZAXmiB6vcTh1nIdxPnNJ3onaL2dvSGcDdbrJz7Z-Qpf-Pb3SSbY4rUIQ&ved=2ahUKEwiGnN295-SWAxVzKlkFHQ-JMC0Q8tMDegQIYhAE",
+   "3": "https://www.google.com/search?q=%22Cedar+Park+High+School%22+Texas&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnudV98j0qiLaMFLeToTsI0rUZLaIA:1789070635660&ei=Kw2jasbaJ_PU5NoPj5LC6QI&start=20&sa=N&sstk=AS6-VmKGO4qjVojYcOGe67zDVKOcEIeNdc_iT-F2eNP06nZAXmiB6vcTh1nIdxPnNJ3onaL2dvSGcDdbrJz7Z-Qpf-Pb3SSbY4rUIQ&ved=2ahUKEwiGnN295-SWAxVzKlkFHQ-JMC0Q8tMDegQIYhAG",
+   "4": "https://www.google.com/search?q=%22Cedar+Park+High+School%22+Texas&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnudV98j0qiLaMFLeToTsI0rUZLaIA:1789070635660&ei=Kw2jasbaJ_PU5NoPj5LC6QI&start=30&sa=N&sstk=AS6-VmKGO4qjVojYcOGe67zDVKOcEIeNdc_iT-F2eNP06nZAXmiB6vcTh1nIdxPnNJ3onaL2dvSGcDdbrJz7Z-Qpf-Pb3SSbY4rUIQ&ved=2ahUKEwiGnN295-SWAxVzKlkFHQ-JMC0Q8tMDegQIYhAI",
+   "5": "https://www.google.com/search?q=%22Cedar+Park+High+School%22+Texas&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnudV98j0qiLaMFLeToTsI0rUZLaIA:1789070635660&ei=Kw2jasbaJ_PU5NoPj5LC6QI&start=40&sa=N&sstk=AS6-VmKGO4qjVojYcOGe67zDVKOcEIeNdc_iT-F2eNP06nZAXmiB6vcTh1nIdxPnNJ3onaL2dvSGcDdbrJz7Z-Qpf-Pb3SSbY4rUIQ&ved=2ahUKEwiGnN295-SWAxVzKlkFHQ-JMC0Q8tMDegQIYhAK",
+   "6": "https://www.google.com/search?q=%22Cedar+Park+High+School%22+Texas&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnudV98j0qiLaMFLeToTsI0rUZLaIA:1789070635660&ei=Kw2jasbaJ_PU5NoPj5LC6QI&start=50&sa=N&sstk=AS6-VmKGO4qjVojYcOGe67zDVKOcEIeNdc_iT-F2eNP06nZAXmiB6vcTh1nIdxPnNJ3onaL2dvSGcDdbrJz7Z-Qpf-Pb3SSbY4rUIQ&ved=2ahUKEwiGnN295-SWAxVzKlkFHQ-JMC0Q8tMDegQIYhAM",
+   "7": "https://www.google.com/search?q=%22Cedar+Park+High+School%22+Texas&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnudV98j0qiLaMFLeToTsI0rUZLaIA:1789070635660&ei=Kw2jasbaJ_PU5NoPj5LC6QI&start=60&sa=N&sstk=AS6-VmKGO4qjVojYcOGe67zDVKOcEIeNdc_iT-F2eNP06nZAXmiB6vcTh1nIdxPnNJ3onaL2dvSGcDdbrJz7Z-Qpf-Pb3SSbY4rUIQ&ved=2ahUKEwiGnN295-SWAxVzKlkFHQ-JMC0Q8tMDegQIYhAO",
+   "8": "https://www.google.com/search?q=%22Cedar+Park+High+School%22+Texas&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnudV98j0qiLaMFLeToTsI0rUZLaIA:1789070635660&ei=Kw2jasbaJ_PU5NoPj5LC6QI&start=70&sa=N&sstk=AS6-VmKGO4qjVojYcOGe67zDVKOcEIeNdc_iT-F2eNP06nZAXmiB6vcTh1nIdxPnNJ3onaL2dvSGcDdbrJz7Z-Qpf-Pb3SSbY4rUIQ&ved=2ahUKEwiGnN295-SWAxVzKlkFHQ-JMC0Q8tMDegQIYhAQ",
+   "9": "https://www.google.com/search?q=%22Cedar+Park+High+School%22+Texas&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnudV98j0qiLaMFLeToTsI0rUZLaIA:1789070635660&ei=Kw2jasbaJ_PU5NoPj5LC6QI&start=80&sa=N&sstk=AS6-VmKGO4qjVojYcOGe67zDVKOcEIeNdc_iT-F2eNP06nZAXmiB6vcTh1nIdxPnNJ3onaL2dvSGcDdbrJz7Z-Qpf-Pb3SSbY4rUIQ&ved=2ahUKEwiGnN295-SWAxVzKlkFHQ-JMC0Q8tMDegQIYhAS",
+   "10": "https://www.google.com/search?q=%22Cedar+Park+High+School%22+Texas&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnudV98j0qiLaMFLeToTsI0rUZLaIA:1789070635660&ei=Kw2jasbaJ_PU5NoPj5LC6QI&start=90&sa=N&sstk=AS6-VmKGO4qjVojYcOGe67zDVKOcEIeNdc_iT-F2eNP06nZAXmiB6vcTh1nIdxPnNJ3onaL2dvSGcDdbrJz7Z-Qpf-Pb3SSbY4rUIQ&ved=2ahUKEwiGnN295-SWAxVzKlkFHQ-JMC0Q8tMDegQIYhAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Cedar+Park+High+School%22+Texas&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Cedar+Park+High+School%22+Texas&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Cedar+Park+High+School%22+Texas&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Cedar+Park+High+School%22+Texas&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Cedar+Park+High+School%22+Texas&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Cedar+Park+High+School%22+Texas&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Cedar+Park+High+School%22+Texas&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Cedar+Park+High+School%22+Texas&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Cedar+Park+High+School%22+Texas&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Cedar+Park+High+School%22+Texas&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Cedar+Park+High+School%22+Texas&start=90"
+  }
+ }
+}

@@ -1,0 +1,509 @@
+{
+ "search_information": {
+  "query_displayed": "\"Westlake High School\"",
+  "total_results": 925000,
+  "time_taken_displayed": 0.26,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Westlake High School",
+  "type": "School in Thornwood, New York",
+  "entity_type": "local_nav",
+  "kgmid": "/m/0282mf6",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/0282mf6&hl=en-US&q=Westlake+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F0282mf6&q=Westlake+High+School",
+  "place_id": "ChIJ4_ZjGma-wokRY867rUDh4ng",
+  "website": "http://whs.mtplcsd.org/",
+  "description": "Westlake High School is located at 825 Westlake Drive in Thornwood, New York, United States. It serves the Mount Pleasant Central School District, including the hamlets of Hawthorne and Thornwood, and parts of the hamlet of Valhalla and the village of Pleasantville.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa312d13d36569f5151fa8b/images/LX-Hg-7GJriE3z7auorFrLplGBz0QC9aIeKWJLqV3xI.webp",
+   "link": "https://www.google.com/maps/place/Westlake+High+School/data=!4m2!3m1!1s0x0:0x78e2e140adbbce63?sa=X&ved=2ahUKEwir3IXw7OSWAxWyzDgGHYQRA5sQ_BJ6BAg6EAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Westlake_High_School_(New_York)"
+  },
+  "address": "825 Westlake Dr, Thornwood, NY 10594",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnu_Kz4JPXndeK3FQ2lswfVfaECmGg:1789072083354&q=westlake+high+school+new+york+address&ludocid=8710772297196883555&sa=X&ved=2ahUKEwir3IXw7OSWAxWyzDgGHYQRA5sQ6BN6BAgyEAI"
+   }
+  ],
+  "colors": "White, Navy Blue, Columbia blue",
+  "colors_links": [
+   {
+    "text": "Colors",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnu_Kz4JPXndeK3FQ2lswfVfaECmGg:1789072083354&q=westlake+high+school+new+york+colors&stick=H4sIAAAAAAAAAOPgE-LSz9U3MLIwyk0z09LOTrbST00pTU4syczPQ7ASc-Iz84pLMktKQTyr5Pyc_KJFrCrlqcUlOYnZqQoZmekZCsXJGfn5OQp5qeUKlflF2QpgVcUAAiP1MmIAAAA&sa=X&ved=2ahUKEwir3IXw7OSWAxWyzDgGHYQRA5sQ6BN6BAg3EAI"
+   },
+   {
+    "text": "White",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnu_Kz4JPXndeK3FQ2lswfVfaECmGg:1789072083354&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpt2PmrrG0v_NNf8LKgZjBVjwPSJGOBj-fhttCVbIGZaHhsZYX4YsSp03yklpCI1qZUV0S8zVXvc1gctmGKY2kKkHNPnIB-99xYuTxMMo2wgBVoa4-Gl2Jl1uAgMqxP1JuHVFAyLjGLT4XdxPd4NK2BE_MBb5eYRdKgbHon24vHYux4tq9JBxTiRhTkwWfqeBxuOdotk%3D&sa=X&ved=2ahUKEwir3IXw7OSWAxWyzDgGHYQRA5sQmxN6BAg3EAM"
+   },
+   {
+    "text": "Navy Blue",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnu_Kz4JPXndeK3FQ2lswfVfaECmGg:1789072083354&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yYUh8av1bdeo-5wogQ727vQgLlpsZmjKW2H6UCstXgr45V9Lr1qvLOkZL1Eiu2J8vUJ6_Ewc9F1AwENlAyGJIpDndD42232PP2GPSwpTjbhGdKBw4RMgEw4sZoymAHSYIVJVfmjPEyCunIQOPCHeKkRvxztyZ9VHJCqa1-SEakJneCl-HxtjXu7DWkMfjRUJiosliM8%3D&sa=X&ved=2ahUKEwir3IXw7OSWAxWyzDgGHYQRA5sQmxN6BAg3EAQ"
+   },
+   {
+    "text": "Columbia blue",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnu_Kz4JPXndeK3FQ2lswfVfaECmGg:1789072083354&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yRTexc2FtkD91EPiIv0OqR1EykH1HaRdFponKR6KvA23zeeaw-ZGNP8xnjCyJlC3UUzs5E47O3C8UUgtbIIv-bSQFGUtxnwPcG3X_VgpOc3R6I3NvxNvGV3SEBRnBP6CY9upF-zPUR7GmLt24FQ-vpTW7qMYQlqzyEo1Tp55jeGW6TKeDRZG_hwQ-KxUy5p2BLzAylM%3D&sa=X&ved=2ahUKEwir3IXw7OSWAxWyzDgGHYQRA5sQmxN6BAg3EAU"
+   }
+  ],
+  "founded": "1962",
+  "founded_links": [
+   {
+    "text": "Founded",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnu_Kz4JPXndeK3FQ2lswfVfaECmGg:1789072083354&q=westlake+high+school+new+york+founded&stick=H4sIAAAAAAAAAOPgE-LSz9U3MLIwyk0z01LNTrbSzy9KT8zLrEosyczPQ-FYpeWX5qWkpixiVS1PLS7JScxOVcjITM9QKE7OyM_PUchLLVeozC_KVoCqAwBc6ec3XQAAAA&sa=X&ved=2ahUKEwir3IXw7OSWAxWyzDgGHYQRA5sQ6BN6BAg4EAI"
+   }
+  ],
+  "district": "Mount Pleasant Central School District",
+  "district_links": [
+   {
+    "text": "District",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnu_Kz4JPXndeK3FQ2lswfVfaECmGg:1789072083354&q=westlake+high+school+new+york+district&stick=H4sIAAAAAAAAAOPgE-LSz9U3MLIwyk0z05LNTrbST00pTU4syczP0y9OzsjPz7FKySwuKcpMLlnEqlaeWlySk5idqpCRmZ6hAJFXyEstV6jML8pWgCkEAIW3YA5WAAAA&sa=X&ved=2ahUKEwir3IXw7OSWAxWyzDgGHYQRA5sQ6BN6BAg1EAI"
+   },
+   {
+    "text": "Mount Pleasant Central School District",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnu_Kz4JPXndeK3FQ2lswfVfaECmGg:1789072083354&q=Mount+Pleasant+Central+School+District&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0WI1ptmV0MqdVLkcPzYR8Qmns_jhMO6RQqSqKuFmZCDegRX4jdCYn8vu_rY7YprkmFtEM3BrRgNcGusBtVt7H_H7umGCWqTJ-AhQckL5PhypCyoBV2uMukitHuZ3sAAIIuhuxRIAFYK6AnuR-8ZqrZaFkpuwcmUuPufclAybsbBIwMDd4UrKPoxkAOuXpIe831u1vuECaEbsSkdsBJZHyBmnw5Iw&sa=X&ved=2ahUKEwir3IXw7OSWAxWyzDgGHYQRA5sQmxN6BAg1EAM"
+   }
+  ],
+  "phone": "(914) 769-8311",
+  "phone_links": [
+   {
+    "text": "Phone",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnu_Kz4JPXndeK3FQ2lswfVfaECmGg:1789072083354&q=westlake+high+school+new+york+phone&ludocid=8710772297196883555&sa=X&ved=2ahUKEwir3IXw7OSWAxWyzDgGHYQRA5sQ6BN6BAg2EAI"
+   }
+  ],
+  "raw_hours": "Closed \u00b7 Opens 7 - 45 AM Fri",
+  "hours": {
+   "thursday": {
+    "opens": "7:45\u202fAM",
+    "closes": "2:18\u202fPM"
+   },
+   "friday": {
+    "opens": "7:45\u202fAM",
+    "closes": "2:18\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "7:45\u202fAM",
+    "closes": "2:18\u202fPM"
+   },
+   "tuesday": {
+    "opens": "7:45\u202fAM",
+    "closes": "2:18\u202fPM"
+   },
+   "wednesday": {
+    "opens": "7:45\u202fAM",
+    "closes": "2:18\u202fPM"
+   }
+  },
+  "unclaimed_listing": true,
+  "profiles": [
+   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/mtpleasantcsd/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Westlake+High+School%22",
+    "image": "https://serpapi.com/searches/6aa312d13d36569f5151fa8b/images/LX-Hg-7GJriE3z7auorFrBF-uekQCc9aKyRx4aPcnAE51eudPpO5IMN-N8bes3hB.png"
+   },
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/434646964099788",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Westlake+High+School%22",
+    "image": "https://serpapi.com/searches/6aa312d13d36569f5151fa8b/images/LX-Hg-7GJriE3z7auorFrL9alMdfjhWjEHBEBI987H4ctxJTygbnCck-3f7reNvT.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "What is Westlake High School's ranking in California?",
+   "type": "ai_overview",
+   "page_token": "nXlVm3icHdBfbpswAIBx7TJ9bDCETIkUTUrBZCg4tfEf8MtkTAgJJtDgFcLbrrAz7FQ9Tasd4Hv4fX_-mcut-fj2t7a2HzaLxTiOz-euO5vTs-7ahRoeN73QyphC6Waz-r4CPyq9Dd_17uWud5j1PQ-Ik15hdBJkQqB8ozM5lMJWMgWozIhUUegz2K-IWHpFu3YKNh0RZ5ZG8UtOy6Wckc9vkOK2seWed_TWD0UY57yNK2XYiKj2WVDbzI33pUHpqTEQgzqVZp0xR45y3mEhmlkE9T3zej9p1pFyQFx6JUJuHVC3P3w1HLm8KRhIRDhMSQaXul0-jhFfKU9PJCBQCWmJ42PBwJXDcJJ8_TsXZJBt7iYuyXSrH-n-5xjWejyF9i3POCiYvKSgcw6MYxXaV0rjnZq6C2Zk1lfTsi-n5OXAI8fVIcwKjqbE1CIJDDoK-JrzPsH4qdLvW-_p_-vtr6q1m_7enT8BowCNXQ",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=nXlVm3icHdBfbpswAIBx7TJ9bDCETIkUTUrBZCg4tfEf8MtkTAgJJtDgFcLbrrAz7FQ9Tasd4Hv4fX_-mcut-fj2t7a2HzaLxTiOz-euO5vTs-7ahRoeN73QyphC6Waz-r4CPyq9Dd_17uWud5j1PQ-Ik15hdBJkQqB8ozM5lMJWMgWozIhUUegz2K-IWHpFu3YKNh0RZ5ZG8UtOy6Wckc9vkOK2seWed_TWD0UY57yNK2XYiKj2WVDbzI33pUHpqTEQgzqVZp0xR45y3mEhmlkE9T3zej9p1pFyQFx6JUJuHVC3P3w1HLm8KRhIRDhMSQaXul0-jhFfKU9PJCBQCWmJ42PBwJXDcJJ8_TsXZJBt7iYuyXSrH-n-5xjWejyF9i3POCiYvKSgcw6MYxXaV0rjnZq6C2Zk1lfTsi-n5OXAI8fVIcwKjqbE1CIJDDoK-JrzPsH4qdLvW-_p_-vtr6q1m_7enT8BowCNXQ",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZGbHRTbXhLVUhoVVdtRXhNRzlzWDFOWU9IQXRVMjVhWDJadGRFUTFWVkkxYkZCZlh6azVXVTQ0V1daS1kwbG1PRk5HVmxSZlRXVnZVV3gzZDJkRWVVWTVXbGhHTlRsR1VFUllkSGhaV0d0SldGODRUV3hSYzJSUFVSSVhNSGhMYW1GMWRXMUdZa3RhTkMxRlVHaExUMDB5UVdzYUlrRkVjM0k1WmxKelFubE5abGRWTm1GU1ZWUnplRVZSTVU1bWFXTTRORGhKWTFFIiwiZmN2IjoiMyIsImVpIjoiMHhLamF1dW1GYktaNC1FUGhLT00yQWsiLCJxYyI6IkNoUjNaWE4wYkdGclpTQm9hV2RvSUhOamFHOXZiQkFBZmJJWU1EOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyBXZXN0bGFrZSBIaWdoIFNjaG9vbCdzIHJhbmtpbmcgaW4gQ2FsaWZvcm5pYT8iLCJsayI6IkdpcDNaWE4wYkdGclpTQm9hV2RvSUhOamFHOXZiQ0J5WVc1cmFXNW5JR2x1SUdOaGJHbG1iM0p1YVdFIiwiYnMiOiJjM1dRd1FxQ1FCQkE2YnFuenA0R09saFJtVUpuRDBWMGlDNFNuZ2NkM2NGMU4xeEotdnRVTUF6MHVydzNiM1lFaVZNc3NRYTJFSk90RlJZRU44NGxSSWswUnJrV0t0UUY2eHhZd3hrVlo2YlNqR0d3YzdiTklNaE9zTDB3eHBNZkxsQWMta3hwM2t6UW9JV01WVWtwdEc5VDNURHduSDB6WjB5RkJZbGpuM2hjN19CUy1LSEt0aHVVQkZsbHlwbUk3M2g5UkdkcXdwbk1QTVY2T0ZndENWYi1lR0wzNndnMVhKaHlFd1lieDIzLTJmR2xXdGEyYk5xeHk4VVgiLCJpZCI6ImZjXzB4S2phdXVtRmJLWjQtRVBoS09NMkFrXzMifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZGbHRTbXhLVUhoVVdtRXhNRzlzWDFOWU9IQXRVMjVhWDJadGRFUTFWVkkxYkZCZlh6azVXVTQ0V1daS1kwbG1PRk5HVmxSZlRXVnZVV3gzZDJkRWVVWTVXbGhHTlRsR1VFUllkSGhaV0d0SldGODRUV3hSYzJSUFVSSVhNSGhMYW1GMWRXMUdZa3RhTkMxRlVHaExUMDB5UVdzYUlrRkVjM0k1WmxKelFubE5abGRWTm1GU1ZWUnplRVZSTVU1bWFXTTRORGhKWTFFIiwiZmN2IjoiMyIsImVpIjoiMHhLamF1dW1GYktaNC1FUGhLT00yQWsiLCJxYyI6IkNoUjNaWE4wYkdGclpTQm9hV2RvSUhOamFHOXZiQkFBZmJJWU1EOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyBXZXN0bGFrZSBIaWdoIFNjaG9vbCdzIHJhbmtpbmcgaW4gQ2FsaWZvcm5pYT8iLCJsayI6IkdpcDNaWE4wYkdGclpTQm9hV2RvSUhOamFHOXZiQ0J5WVc1cmFXNW5JR2x1SUdOaGJHbG1iM0p1YVdFIiwiYnMiOiJjM1dRd1FxQ1FCQkE2YnFuenA0R09saFJtVUpuRDBWMGlDNFNuZ2NkM2NGMU4xeEotdnRVTUF6MHVydzNiM1lFaVZNc3NRYTJFSk90RlJZRU44NGxSSWswUnJrV0t0UUY2eHhZd3hrVlo2YlNqR0d3YzdiTklNaE9zTDB3eHBNZkxsQWMta3hwM2t6UW9JV01WVWtwdEc5VDNURHduSDB6WjB5RkJZbGpuM2hjN19CUy1LSEt0aHVVQkZsbHlwbUk3M2g5UkdkcXdwbk1QTVY2T0ZndENWYi1lR0wzNndnMVhKaHlFd1lieDIzLTJmR2xXdGEyYk5xeHk4VVgiLCJpZCI6ImZjXzB4S2phdXVtRmJLWjQtRVBoS09NMkFrXzMifQ%3D%3D"
+  },
+  {
+   "question": "What movie was filmed at Westlake High School?",
+   "type": "ai_overview",
+   "page_token": "Xjo6sXicHZBLbuIwAEDVy3RZ8oHOgIRGYhJDGezWjm0Sb0aOUxISO07BwpBdr9AzzKnmNINm-_T0Fu_zjz723d-Hr8a54byYTLz3T7W1tX5_UtZM5PnWq4mSWpdSdYvnb8_hj4Naphe1-nlSK8yGgSckoOkW7_JVpnoi2EZrbmaGsTmXeQOr7s4CdEW9nTIDBN_oApkGow77ohUnnJNWgHp8pbpXLYKI8kSx2S9kbFCuRUwMP-OYo3L_3cOkmsJcANjyI10DvefDbs8qS2Jgi155QQGruu0LGsk5a0GCNsCVaWNLJgBiwuQRuzu6wHxwIhIsj5TDFHoxVgSP2wwbAVkWGtKBCO7JAUX1TQY8oBGQr6m-iRRd0kb599R9FDkP791jFtpgxziWqXujdLuSV3vEjIyq1YZR3ZBoPpXreUCSysONhrRzMx6-xFkirmItGowfD-qyjB__v17-Phi3GE62_gfnD45J",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Xjo6sXicHZBLbuIwAEDVy3RZ8oHOgIRGYhJDGezWjm0Sb0aOUxISO07BwpBdr9AzzKnmNINm-_T0Fu_zjz723d-Hr8a54byYTLz3T7W1tX5_UtZM5PnWq4mSWpdSdYvnb8_hj4Naphe1-nlSK8yGgSckoOkW7_JVpnoi2EZrbmaGsTmXeQOr7s4CdEW9nTIDBN_oApkGow77ohUnnJNWgHp8pbpXLYKI8kSx2S9kbFCuRUwMP-OYo3L_3cOkmsJcANjyI10DvefDbs8qS2Jgi155QQGruu0LGsk5a0GCNsCVaWNLJgBiwuQRuzu6wHxwIhIsj5TDFHoxVgSP2wwbAVkWGtKBCO7JAUX1TQY8oBGQr6m-iRRd0kb599R9FDkP791jFtpgxziWqXujdLuSV3vEjIyq1YZR3ZBoPpXreUCSysONhrRzMx6-xFkirmItGowfD-qyjB__v17-Phi3GE62_gfnD45J",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZGbHRTbXhLVUhoVVdtRXhNRzlzWDFOWU9IQXRVMjVhWDJadGRFUTFWVkkxYkZCZlh6azVXVTQ0V1daS1kwbG1PRk5HVmxSZlRXVnZVV3gzZDJkRWVVWTVXbGhHTlRsR1VFUllkSGhaV0d0SldGODRUV3hSYzJSUFVSSVhNSGhMYW1GMWRXMUdZa3RhTkMxRlVHaExUMDB5UVdzYUlrRkVjM0k1WmxKelFubE5abGRWTm1GU1ZWUnplRVZSTVU1bWFXTTRORGhKWTFFIiwiZmN2IjoiMyIsImVpIjoiMHhLamF1dW1GYktaNC1FUGhLT00yQWsiLCJxYyI6IkNoUjNaWE4wYkdGclpTQm9hV2RvSUhOamFHOXZiQkFBZmJJWU1EOCIsInF1ZXN0aW9uIjoiV2hhdCBtb3ZpZSB3YXMgZmlsbWVkIGF0IFdlc3RsYWtlIEhpZ2ggU2Nob29sPyIsImxrIjoiR2kxM2FHRjBJRzF2ZG1sbElIZGhjeUJtYVd4dFpXUWdZWFFnZDJWemRHeGhhMlVnYUdsbmFDQnpZMmh2YjJ3IiwiYnMiOiJjM1dRd1FxQ1FCQkE2YnFuenA0R09saFJtVUpuRDBWMGlDNFNuZ2NkM2NGMU4xeEotdnRVTUF6MHVydzNiM1lFaVZNc3NRYTJFSk90RlJZRU44NGxSSWswUnJrV0t0UUY2eHhZd3hrVlo2YlNqR0d3YzdiTklNaE9zTDB3eHBNZkxsQWMta3hwM2t6UW9JV01WVWtwdEc5VDNURHduSDB6WjB5RkJZbGpuM2hjN19CUy1LSEt0aHVVQkZsbHlwbUk3M2g5UkdkcXdwbk1QTVY2T0ZndENWYi1lR0wzNndnMVhKaHlFd1lieDIzLTJmR2xXdGEyYk5xeHk4VVgiLCJpZCI6ImZjXzB4S2phdXVtRmJLWjQtRVBoS09NMkFrXzMifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZGbHRTbXhLVUhoVVdtRXhNRzlzWDFOWU9IQXRVMjVhWDJadGRFUTFWVkkxYkZCZlh6azVXVTQ0V1daS1kwbG1PRk5HVmxSZlRXVnZVV3gzZDJkRWVVWTVXbGhHTlRsR1VFUllkSGhaV0d0SldGODRUV3hSYzJSUFVSSVhNSGhMYW1GMWRXMUdZa3RhTkMxRlVHaExUMDB5UVdzYUlrRkVjM0k1WmxKelFubE5abGRWTm1GU1ZWUnplRVZSTVU1bWFXTTRORGhKWTFFIiwiZmN2IjoiMyIsImVpIjoiMHhLamF1dW1GYktaNC1FUGhLT00yQWsiLCJxYyI6IkNoUjNaWE4wYkdGclpTQm9hV2RvSUhOamFHOXZiQkFBZmJJWU1EOCIsInF1ZXN0aW9uIjoiV2hhdCBtb3ZpZSB3YXMgZmlsbWVkIGF0IFdlc3RsYWtlIEhpZ2ggU2Nob29sPyIsImxrIjoiR2kxM2FHRjBJRzF2ZG1sbElIZGhjeUJtYVd4dFpXUWdZWFFnZDJWemRHeGhhMlVnYUdsbmFDQnpZMmh2YjJ3IiwiYnMiOiJjM1dRd1FxQ1FCQkE2YnFuenA0R09saFJtVUpuRDBWMGlDNFNuZ2NkM2NGMU4xeEotdnRVTUF6MHVydzNiM1lFaVZNc3NRYTJFSk90RlJZRU44NGxSSWswUnJrV0t0UUY2eHhZd3hrVlo2YlNqR0d3YzdiTklNaE9zTDB3eHBNZkxsQWMta3hwM2t6UW9JV01WVWtwdEc5VDNURHduSDB6WjB5RkJZbGpuM2hjN19CUy1LSEt0aHVVQkZsbHlwbUk3M2g5UkdkcXdwbk1QTVY2T0ZndENWYi1lR0wzNndnMVhKaHlFd1lieDIzLTJmR2xXdGEyYk5xeHk4VVgiLCJpZCI6ImZjXzB4S2phdXVtRmJLWjQtRVBoS09NMkFrXzMifQ%3D%3D"
+  },
+  {
+   "question": "What NFL players came from Westlake High School?",
+   "type": "ai_overview",
+   "page_token": "9gGikHicHdBfbpswHABg7TJ9bOyQtkukqBIDk6LgFoefDX6ZjE1CwPxpS-OSt11hZ-ipdppNu8D38P36sue-_fPtdz1N4_tmsXDO3Z6G4WSrWz10C_U-93qhlbWl0u3m_uEePx71Nrxo_8eb9lMYRx4wdIDpaABwQugkRev08ruDoN4nnqRZWDiGR17lLCy4TKG768zOiKRJl4eojtN2QMyjVxkQnOM43XM6cq--SMFWVWsQNHQse_LyTNiuDOwkcxKX4cqJnvbQrVtKuMhCgsQu9sto6uWMIctZJIAMKlrfaTKODOIl9KfZCNYyyz-qhqJnYQrVUCusb2HG_xDZKWJmAWtEM_6hkI1lVCvBWW6sLArArxlOVmGtXRVOr0XOcQnyfMAD2gNPVTi9ZFnsq8_hnAK76sZ20EmXI0YSzz7JiIas5egQmWvayVkE7SrZ1YVxN0d92Xo3_6-3P4_dtBnfhtNfUISNZA",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=9gGikHicHdBfbpswHABg7TJ9bOyQtkukqBIDk6LgFoefDX6ZjE1CwPxpS-OSt11hZ-ipdppNu8D38P36sue-_fPtdz1N4_tmsXDO3Z6G4WSrWz10C_U-93qhlbWl0u3m_uEePx71Nrxo_8eb9lMYRx4wdIDpaABwQugkRev08ruDoN4nnqRZWDiGR17lLCy4TKG768zOiKRJl4eojtN2QMyjVxkQnOM43XM6cq--SMFWVWsQNHQse_LyTNiuDOwkcxKX4cqJnvbQrVtKuMhCgsQu9sto6uWMIctZJIAMKlrfaTKODOIl9KfZCNYyyz-qhqJnYQrVUCusb2HG_xDZKWJmAWtEM_6hkI1lVCvBWW6sLArArxlOVmGtXRVOr0XOcQnyfMAD2gNPVTi9ZFnsq8_hnAK76sZ20EmXI0YSzz7JiIas5egQmWvayVkE7SrZ1YVxN0d92Xo3_6-3P4_dtBnfhtNfUISNZA",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZGbHRTbXhLVUhoVVdtRXhNRzlzWDFOWU9IQXRVMjVhWDJadGRFUTFWVkkxYkZCZlh6azVXVTQ0V1daS1kwbG1PRk5HVmxSZlRXVnZVV3gzZDJkRWVVWTVXbGhHTlRsR1VFUllkSGhaV0d0SldGODRUV3hSYzJSUFVSSVhNSGhMYW1GMWRXMUdZa3RhTkMxRlVHaExUMDB5UVdzYUlrRkVjM0k1WmxKelFubE5abGRWTm1GU1ZWUnplRVZSTVU1bWFXTTRORGhKWTFFIiwiZmN2IjoiMyIsImVpIjoiMHhLamF1dW1GYktaNC1FUGhLT00yQWsiLCJxYyI6IkNoUjNaWE4wYkdGclpTQm9hV2RvSUhOamFHOXZiQkFBZmJJWU1EOCIsInF1ZXN0aW9uIjoiV2hhdCBORkwgcGxheWVycyBjYW1lIGZyb20gV2VzdGxha2UgSGlnaCBTY2hvb2w/IiwibGsiOiJHaTkzYUdGMElHNW1iQ0J3YkdGNVpYSnpJR05oYldVZ1puSnZiU0IzWlhOMGJHRnJaU0JvYVdkb0lITmphRzl2YkEiLCJicyI6ImMzV1F3UXFDUUJCQTZicW56cDRHT2xoUm1VSm5EMFYwaUM0U25nY2QzY0YxTjF4Si12dFVNQXowdXJ3M2IzWUVpVk1zc1FhMkVKT3RGUllFTjg0bFJJazBScmtXS3RRRjZ4eFl3eGtWWjZiU2pHR3djN2JOSU1oT3NMMHd4cE1mTGxBYy1reHAza3pRb0lXTVZVa3B0RzlUM1REd25IMHpaMHlGQllsam4zaGM3X0JTLUtIS3RodVVCRmxseXBtSTczaDlSR2Rxd3BuTVBNVjZPRmd0Q1ZiLWVHTDM2d2cxWEpoeUV3WWJ4MjMtMmZHbFd0YTJiTnF4eThVWCIsImlkIjoiZmNfMHhLamF1dW1GYktaNC1FUGhLT00yQWtfMyJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZGbHRTbXhLVUhoVVdtRXhNRzlzWDFOWU9IQXRVMjVhWDJadGRFUTFWVkkxYkZCZlh6azVXVTQ0V1daS1kwbG1PRk5HVmxSZlRXVnZVV3gzZDJkRWVVWTVXbGhHTlRsR1VFUllkSGhaV0d0SldGODRUV3hSYzJSUFVSSVhNSGhMYW1GMWRXMUdZa3RhTkMxRlVHaExUMDB5UVdzYUlrRkVjM0k1WmxKelFubE5abGRWTm1GU1ZWUnplRVZSTVU1bWFXTTRORGhKWTFFIiwiZmN2IjoiMyIsImVpIjoiMHhLamF1dW1GYktaNC1FUGhLT00yQWsiLCJxYyI6IkNoUjNaWE4wYkdGclpTQm9hV2RvSUhOamFHOXZiQkFBZmJJWU1EOCIsInF1ZXN0aW9uIjoiV2hhdCBORkwgcGxheWVycyBjYW1lIGZyb20gV2VzdGxha2UgSGlnaCBTY2hvb2w%2FIiwibGsiOiJHaTkzYUdGMElHNW1iQ0J3YkdGNVpYSnpJR05oYldVZ1puSnZiU0IzWlhOMGJHRnJaU0JvYVdkb0lITmphRzl2YkEiLCJicyI6ImMzV1F3UXFDUUJCQTZicW56cDRHT2xoUm1VSm5EMFYwaUM0U25nY2QzY0YxTjF4Si12dFVNQXowdXJ3M2IzWUVpVk1zc1FhMkVKT3RGUllFTjg0bFJJazBScmtXS3RRRjZ4eFl3eGtWWjZiU2pHR3djN2JOSU1oT3NMMHd4cE1mTGxBYy1reHAza3pRb0lXTVZVa3B0RzlUM1REd25IMHpaMHlGQllsam4zaGM3X0JTLUtIS3RodVVCRmxseXBtSTczaDlSR2Rxd3BuTVBNVjZPRmd0Q1ZiLWVHTDM2d2cxWEpoeUV3WWJ4MjMtMmZHbFd0YTJiTnF4eThVWCIsImlkIjoiZmNfMHhLamF1dW1GYktaNC1FUGhLT00yQWtfMyJ9"
+  },
+  {
+   "question": "What is the #1 High School in San Diego?",
+   "type": "ai_overview",
+   "page_token": "nZ1J7HicHdBdboIwAADg7DJ7nK1MN03MEkZlMEEpbfl5WUpFcbSiUgX6trvsVDvNlh3h-76-5eFY_9zdKq1P7Xw06rruYd80e1k-iEaNeDscxUhwKQsu6vn0aQpfdmKBrp79evbsiJ5OzMEgVpN1ofrLimoSWMs-NvmYOMJg2svShY6wloyhSZWNl5tAblcReDTrtLpGVm7RGp7zFK_jtJmUb3vDJX7M6MQmVm0ygJOtYrcA5bz8xJcQyGlhbL9QYChS7MV1H7KENaJuYZGGVwJaEI2huz36mNTZEFhVTxx7io3f0WPo4ARLSlurrCvOXahXiUZhMsuyxG8zhYc18kxObIwq0ZVIn7OUwYLmhxg2YEVZxJHeEOLbvG8OEcVGfEpFoTdEqjWhwe9_dh2ymRsgTZj7DGIoowDNNtvufiduC-v-_3PxsVN6fro0-1-aLoPS",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=nZ1J7HicHdBdboIwAADg7DJ7nK1MN03MEkZlMEEpbfl5WUpFcbSiUgX6trvsVDvNlh3h-76-5eFY_9zdKq1P7Xw06rruYd80e1k-iEaNeDscxUhwKQsu6vn0aQpfdmKBrp79evbsiJ5OzMEgVpN1ofrLimoSWMs-NvmYOMJg2svShY6wloyhSZWNl5tAblcReDTrtLpGVm7RGp7zFK_jtJmUb3vDJX7M6MQmVm0ygJOtYrcA5bz8xJcQyGlhbL9QYChS7MV1H7KENaJuYZGGVwJaEI2huz36mNTZEFhVTxx7io3f0WPo4ARLSlurrCvOXahXiUZhMsuyxG8zhYc18kxObIwq0ZVIn7OUwYLmhxg2YEVZxJHeEOLbvG8OEcVGfEpFoTdEqjWhwe9_dh2ymRsgTZj7DGIoowDNNtvufiduC-v-_3PxsVN6fro0-1-aLoPS",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZGbHRTbXhLVUhoVVdtRXhNRzlzWDFOWU9IQXRVMjVhWDJadGRFUTFWVkkxYkZCZlh6azVXVTQ0V1daS1kwbG1PRk5HVmxSZlRXVnZVV3gzZDJkRWVVWTVXbGhHTlRsR1VFUllkSGhaV0d0SldGODRUV3hSYzJSUFVSSVhNSGhMYW1GMWRXMUdZa3RhTkMxRlVHaExUMDB5UVdzYUlrRkVjM0k1WmxKelFubE5abGRWTm1GU1ZWUnplRVZSTVU1bWFXTTRORGhKWTFFIiwiZmN2IjoiMyIsImVpIjoiMHhLamF1dW1GYktaNC1FUGhLT00yQWsiLCJxYyI6IkNoUjNaWE4wYkdGclpTQm9hV2RvSUhOamFHOXZiQkFBZmJJWU1EOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgIzEgSGlnaCBTY2hvb2wgaW4gU2FuIERpZWdvPyIsImxrIjoiR2lkM2FHRjBJR2x6SUhSb1pTQWpNU0JvYVdkb0lITmphRzl2YkNCcGJpQnpZVzRnWkdsbFoyOCIsImJzIjoiYzNXUXdRcUNRQkJBNmJxbnpwNEdPbGhSbVVKbkQwVjBpQzRTbmdjZDNjRjFOMXhKLXZ0VU1BejB1cnczYjNZRWlWTXNzUWEyRUpPdEZSWUVOODRsUklrMFJya1dLdFFGNnh4WXd4a1ZaNmJTakdHd2M3Yk5JTWhPc0wwd3hwTWZMbEFjLWt4cDNrelFvSVdNVlVrcHRHOVQzVER3bkgweloweUZCWWxqbjNoYzdfQlMtS0hLdGh1VUJGbGx5cG1JNzNoOVJHZHF3cG5NUE1WNk9GZ3RDVmItZUdMMzZ3ZzFYSmh5RXdZYngyMy0yZkdsV3RhMmJOcXh5OFVYIiwiaWQiOiJmY18weEtqYXV1bUZiS1o0LUVQaEtPTTJBa18zIn0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZGbHRTbXhLVUhoVVdtRXhNRzlzWDFOWU9IQXRVMjVhWDJadGRFUTFWVkkxYkZCZlh6azVXVTQ0V1daS1kwbG1PRk5HVmxSZlRXVnZVV3gzZDJkRWVVWTVXbGhHTlRsR1VFUllkSGhaV0d0SldGODRUV3hSYzJSUFVSSVhNSGhMYW1GMWRXMUdZa3RhTkMxRlVHaExUMDB5UVdzYUlrRkVjM0k1WmxKelFubE5abGRWTm1GU1ZWUnplRVZSTVU1bWFXTTRORGhKWTFFIiwiZmN2IjoiMyIsImVpIjoiMHhLamF1dW1GYktaNC1FUGhLT00yQWsiLCJxYyI6IkNoUjNaWE4wYkdGclpTQm9hV2RvSUhOamFHOXZiQkFBZmJJWU1EOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgIzEgSGlnaCBTY2hvb2wgaW4gU2FuIERpZWdvPyIsImxrIjoiR2lkM2FHRjBJR2x6SUhSb1pTQWpNU0JvYVdkb0lITmphRzl2YkNCcGJpQnpZVzRnWkdsbFoyOCIsImJzIjoiYzNXUXdRcUNRQkJBNmJxbnpwNEdPbGhSbVVKbkQwVjBpQzRTbmdjZDNjRjFOMXhKLXZ0VU1BejB1cnczYjNZRWlWTXNzUWEyRUpPdEZSWUVOODRsUklrMFJya1dLdFFGNnh4WXd4a1ZaNmJTakdHd2M3Yk5JTWhPc0wwd3hwTWZMbEFjLWt4cDNrelFvSVdNVlVrcHRHOVQzVER3bkgweloweUZCWWxqbjNoYzdfQlMtS0hLdGh1VUJGbGx5cG1JNzNoOVJHZHF3cG5NUE1WNk9GZ3RDVmItZUdMMzZ3ZzFYSmh5RXdZYngyMy0yZkdsV3RhMmJOcXh5OFVYIiwiaWQiOiJmY18weEtqYXV1bUZiS1o0LUVQaEtPTTJBa18zIn0%3D"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Westlake High School: Home",
+   "link": "https://whs.mtplcsd.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUAHrOzAVHnuIt34bNNl2kJWVD9ihcnx4urI1pKn-KjjSWG_v004m8wGi8Ldm40pmKkJGLAM7o754UH7nztQ4VTqoamCZMtTCX_4pfd0b2ksl&ved=2ahUKEwir3IXw7OSWAxWyzDgGHYQRA5sQFnoECCIQAQ&uoh=1",
+   "displayed_link": "https://whs.mtplcsd.org",
+   "favicon": "https://serpapi.com/images/i/UklGRkwBAABXRUJQVlA4IEABAADQBgCdASocABwAPtEutFooIagoGAEAGglsAJ0yhIFNIBuAVNIiAG3GkyIv7PiwhjPGUIqU1tcuBwo79ovUW3wA_vYK4_Ek4BGXAzRTgBsoYhhfbz-FmDe0_xoXZktl31Fcr2QqEX184hsRdxKHuZPzmADeTCM5kRI6l7zabRGtmnMzN3DRmeA0tMZPeH34G7hOrrm2fBZ-U5udIQtHRNLyev24j4ffN2khCQUJB_yt_AnbLXSXK8c3qG2PgE_klhc2OKi_OX4ybv1seZjCbvP228ov7kHjLX34L4-CSopHf6AbE43L5TLNyLI_5rvaw-6_czNrFKLlLGROp3QPC6zlGLwf-2uQjlKe1RgxETSUu73ssW5LvrL8Pkvh8n2X58gAHdvE467_O1VXCrCe975claFqk6CWvEWI0Dx7asoAAA.webp",
+   "snippet": "Welcome to Westlake High School, home of the Wildcats! Our faculty and staff have created a learning environment that allows each child to explore areas of ...",
+   "snippet_highlighted_words": [
+    "Westlake High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Welcome to Westlake High School, home of the Wildcats! Our faculty and staff have created a learning environment that allows each child to explore areas of ...",
+     "source_info_link": "https://whs.mtplcsd.org/",
+     "icon": "https://serpapi.com/images/i/UklGRkwBAABXRUJQVlA4IEABAADQBgCdASocABwAPtEutFooIagoGAEAGglsAJ0yhIFNIBuAVNIiAG3GkyIv7PiwhjPGUIqU1tcuBwo79ovUW3wA_vYK4_Ek4BGXAzRTgBsoYhhfbz-FmDe0_xoXZktl31Fcr2QqEX184hsRdxKHuZPzmADeTCM5kRI6l7zabRGtmnMzN3DRmeA0tMZPeH34G7hOrrm2fBZ-U5udIQtHRNLyev24j4ffN2khCQUJB_yt_AnbLXSXK8c3qG2PgE_klhc2OKi_OX4ybv1seZjCbvP228ov7kHjLX34L4-CSopHf6AbE43L5TLNyLI_5rvaw-6_czNrFKLlLGROp3QPC6zlGLwf-2uQjlKe1RgxETSUu73ssW5LvrL8Pkvh8n2X58gAHdvE467_O1VXCrCe975claFqk6CWvEWI0Dx7asoAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESUAHrOzAVHnuIt34bNNl2kJWVD9ihcnx4urI1pKn-KjjSWG_v004m8wGi8Ldm40pmKkJGLAM7o754UH7nztQ4VTqoamCZMtTCX_4pfd0b2ksl&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESUAHrOzAVHnuIt34bNNl2kJWVD9ihcnx4urI1pKn-KjjSWG_v004m8wGi8Ldm40pmKkJGLAM7o754UH7nztQ4VTqoamCZMtTCX_4pfd0b2ksl",
+   "source": "Mount Pleasant Central School District",
+   "read_more_link": "https://whs.mtplcsd.org/#:~:text=Welcome%20to%20Westlake%20High%20School%2C,and%20challenge%20at%20every%20grade."
+  },
+  {
+   "position": 2,
+   "title": "Westlake High School (New York)",
+   "link": "https://en.wikipedia.org/wiki/Westlake_High_School_(New_York)",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAVCXbJ3g0MazJUWyIESqMR_8siWx3agVJ9ZeIfuRo5-PX0qb7otR7dMm9Ht-HXXQA9j0nGeCa3v-hwfR5BWVlGQXTgDaZc5bMedPLbF3ou4HIsViHHDoM7BbqBrjlWF-jNTGakWI-Z0tlYe3eIofDaHQ&ved=2ahUKEwir3IXw7OSWAxWyzDgGHYQRA5sQFnoECCMQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Westlake_High_Schoo...",
+   "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+   "snippet": "Westlake High School is located at 825 Westlake Drive in Thornwood, New York, United States. It serves the Mount Pleasant Central School District, ...",
+   "snippet_highlighted_words": [
+    "Westlake High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Westlake High School is located at 825 Westlake Drive in Thornwood, New York, United States. It serves the Mount Pleasant Central School District, ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Westlake_High_School_(New_York)",
+     "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdQHrOzAVCXbJ3g0MazJUWyIESqMR_8siWx3agVJ9ZeIfuRo5-PX0qb7otR7dMm9Ht-HXXQA9j0nGeCa3v-hwfR5BWVlGQXTgDaZc5bMedPLbF3ou4HIsViHHDoM7BbqBrjlWF-jNTGakWI-Z0tlYe3eIofDaHQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdQHrOzAVCXbJ3g0MazJUWyIESqMR_8siWx3agVJ9ZeIfuRo5-PX0qb7otR7dMm9Ht-HXXQA9j0nGeCa3v-hwfR5BWVlGQXTgDaZc5bMedPLbF3ou4HIsViHHDoM7BbqBrjlWF-jNTGakWI-Z0tlYe3eIofDaHQ",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Westlake_High_School_(New_York)#:~:text=Westlake%20High%20School%20is%20located,and%20the%20village%20of%20Pleasantville."
+  },
+  {
+   "position": 3,
+   "title": "Westlake High School - An Eanes ISD high school (Grades 9 ...",
+   "link": "https://whs.eanesisd.net/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUQHrOzAVIZ-PrtI6VLob3dTwXEaHYXHoHrtl_gWkAdHyobwGogzHnELwQez2MUR08hkFr2OCngTCiPJMEWvSffCeHASj9zDcntXntvsD3KoXbw&ved=2ahUKEwir3IXw7OSWAxWyzDgGHYQRA5sQFnoECF4QAQ&uoh=1",
+   "displayed_link": "https://whs.eanesisd.net",
+   "favicon": "https://serpapi.com/images/i/UklGRt4BAABXRUJQVlA4INIBAACQCQCdASogACAAPtEutFooIagoGAEAGglsAJ0zNDciymFFtltCA6iXnx_Y_8o5ogrX5YGlZmZePhBpn87fqL44M68DqYzE6llKK7IhY_xIsRuDXFgAAP706Kc5XHcEm5W8PpwePTehukOeIQ0T283eMeGqlajIM2z_3BOO9gk10omVTvIq-5VYaQfhyvlFAoHyKTiZ0YygMXDybbc65lPsrPWBh2Bzhw9tz7u9xP8vizurO4OVcqvI937Cv9VzBdOt1OjylQlCD7znF_TvuvFzd1jqovQxpzQVET_1pwOal7yE9-zAFGl-zBeNobRgFtEzGvqoMMTrIP-TYCpzt2I3x3tZ7JVoNUqbcyKxhbGtYzc5vQUf_1BKwWlwxBu2sAGiKuxYXP55G51fXSN5e_-ePJUj68jynYX37__XsdEJMl3yljV0n_b79hD-G1XUnEfVnXtt-_MnCpkrU4gx0ZFyHr_5kGXx4kXe52_42GM39oxPqlvXxCXB1c3oj-gEx7Nt96f5KBv8r58uooGiWL3jCJbq-klpcprx2xfLAfw_sRK-s4FuNNHahayiwWYOZ68R-zDiVWRji_8mfk7rPz9--mvvwdsQTP8Uj9L-WPIdAAAA.webp",
+   "snippet": "Westlake High School is a comprehensive, four-year public high school where the curriculum is primarily college preparatory.",
+   "snippet_highlighted_words": [
+    "Westlake High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Westlake High School is a comprehensive, four-year public high school where the curriculum is primarily college preparatory.",
+     "source_info_link": "https://whs.eanesisd.net/",
+     "icon": "https://serpapi.com/images/i/UklGRt4BAABXRUJQVlA4INIBAACQCQCdASogACAAPtEutFooIagoGAEAGglsAJ0zNDciymFFtltCA6iXnx_Y_8o5ogrX5YGlZmZePhBpn87fqL44M68DqYzE6llKK7IhY_xIsRuDXFgAAP706Kc5XHcEm5W8PpwePTehukOeIQ0T283eMeGqlajIM2z_3BOO9gk10omVTvIq-5VYaQfhyvlFAoHyKTiZ0YygMXDybbc65lPsrPWBh2Bzhw9tz7u9xP8vizurO4OVcqvI937Cv9VzBdOt1OjylQlCD7znF_TvuvFzd1jqovQxpzQVET_1pwOal7yE9-zAFGl-zBeNobRgFtEzGvqoMMTrIP-TYCpzt2I3x3tZ7JVoNUqbcyKxhbGtYzc5vQUf_1BKwWlwxBu2sAGiKuxYXP55G51fXSN5e_-ePJUj68jynYX37__XsdEJMl3yljV0n_b79hD-G1XUnEfVnXtt-_MnCpkrU4gx0ZFyHr_5kGXx4kXe52_42GM39oxPqlvXxCXB1c3oj-gEx7Nt96f5KBv8r58uooGiWL3jCJbq-klpcprx2xfLAfw_sRK-s4FuNNHahayiwWYOZ68R-zDiVWRji_8mfk7rPz9--mvvwdsQTP8Uj9L-WPIdAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESUQHrOzAVIZ-PrtI6VLob3dTwXEaHYXHoHrtl_gWkAdHyobwGogzHnELwQez2MUR08hkFr2OCngTCiPJMEWvSffCeHASj9zDcntXntvsD3KoXbw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESUQHrOzAVIZ-PrtI6VLob3dTwXEaHYXHoHrtl_gWkAdHyobwGogzHnELwQez2MUR08hkFr2OCngTCiPJMEWvSffCeHASj9zDcntXntvsD3KoXbw",
+   "source": "Westlake High"
+  },
+  {
+   "position": 4,
+   "title": "Westlake High School in Thornwood, NY - US News",
+   "link": "https://www.usnews.com/education/best-high-schools/new-york/districts/mount-pleasant-central-school-district/westlake-high-school-13897",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESwAEB6zswFRklmdUATtbmTwPJFsxYS34UykJRvLBS3wDMylt3Vbe2F_pBWjoh5PdT9PCRqdwxE7CNXO56VxOzQ3jei6BPQe2aTB3arZbvVFyqZEiB9LPukNR1YzfOC0t3hAwSjtSj0tzo94x5E0Vc0dTEjQdyWFA_wqUt81fTsckv0XM05UJGzwuqv15pgVvwiKk2G3lpd16NivqP4cq3IffWUiwA6x0DS0riycT1qMBwVUMdUzFPFzNZuj1J94K7uy0&ved=2ahUKEwir3IXw7OSWAxWyzDgGHYQRA5sQFnoECGMQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a new-york \u203a districts \u203a westla...",
+   "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp",
+   "snippet": "Westlake High School is ranked #8,771 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+   "snippet_highlighted_words": [
+    "Westlake High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Westlake High School is ranked #8,771 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/new-york/districts/mount-pleasant-central-school-district/westlake-high-school-13897",
+     "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESwAEB6zswFRklmdUATtbmTwPJFsxYS34UykJRvLBS3wDMylt3Vbe2F_pBWjoh5PdT9PCRqdwxE7CNXO56VxOzQ3jei6BPQe2aTB3arZbvVFyqZEiB9LPukNR1YzfOC0t3hAwSjtSj0tzo94x5E0Vc0dTEjQdyWFA_wqUt81fTsckv0XM05UJGzwuqv15pgVvwiKk2G3lpd16NivqP4cq3IffWUiwA6x0DS0riycT1qMBwVUMdUzFPFzNZuj1J94K7uy0&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESwAEB6zswFRklmdUATtbmTwPJFsxYS34UykJRvLBS3wDMylt3Vbe2F_pBWjoh5PdT9PCRqdwxE7CNXO56VxOzQ3jei6BPQe2aTB3arZbvVFyqZEiB9LPukNR1YzfOC0t3hAwSjtSj0tzo94x5E0Vc0dTEjQdyWFA_wqUt81fTsckv0XM05UJGzwuqv15pgVvwiKk2G3lpd16NivqP4cq3IffWUiwA6x0DS0riycT1qMBwVUMdUzFPFzNZuj1J94K7uy0",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/new-york/districts/mount-pleasant-central-school-district/westlake-high-school-13897#:~:text=Westlake%20High%20School%20is%20ranked,they%20prepare%20students%20for%20college."
+  },
+  {
+   "position": 5,
+   "title": "Westlake High School: Home",
+   "link": "https://westlake.ccboe.com/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUwHrOzAVs0Z20jpqicb40x0NU5b-Y8SbOT-xa9d0ihEPB7jp6pRkvONZOm7UoXN9vj0mPZ9VSu9ieKT9S10hYGuseyTp3NTQhy-awa0fe8wM0aac&ved=2ahUKEwir3IXw7OSWAxWyzDgGHYQRA5sQFnoECF0QAQ&uoh=1",
+   "displayed_link": "https://westlake.ccboe.com",
+   "favicon": "https://serpapi.com/images/i/UklGRgoBAABXRUJQVlA4IP4AAABQBgCdASocABwAPtEutFooIagoGAEAGgloALsgXnoC7AN4tK8BG7Wr2iNnlh-zZ_QoybHsnuUWzl_DgAD-_sIxNB9_1gXtILn1zvMYMQv7GcSCpPYTfFnFz4-CAhEtxqptUtKRhAVJe1zX_fpChCwJLOFTXrhOM1CGq6MxRsupu-vlOaoSn4zmVB9_OZT4H0fMngw_W1sXrUUbTwMOmkadw2bWzXV3oZw5yUsl-2myg_pLijv9LAC2Mze5ImDc562YbvGUsa7pk_W4XVXZDuknSpO7wG8fnSF44NtON-gIoD4DkeWQTXtn_N7OcNW6XWKIsXiUmqdTJ1fX0IAAAA.webp",
+   "snippet": "Westlake High School \u00b7 Come check out Westlake and all it has to offer! \u00b7 Come check out Westlake and all it has to offer! \u00b7 News \u00b7 Live Feed.",
+   "snippet_highlighted_words": [
+    "Westlake High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Westlake High School \u00b7 Come check out Westlake and all it has to offer! \u00b7 Come check out Westlake and all it has to offer! \u00b7 News \u00b7 Live Feed.",
+     "source_info_link": "https://westlake.ccboe.com/",
+     "icon": "https://serpapi.com/images/i/UklGRgoBAABXRUJQVlA4IP4AAABQBgCdASocABwAPtEutFooIagoGAEAGgloALsgXnoC7AN4tK8BG7Wr2iNnlh-zZ_QoybHsnuUWzl_DgAD-_sIxNB9_1gXtILn1zvMYMQv7GcSCpPYTfFnFz4-CAhEtxqptUtKRhAVJe1zX_fpChCwJLOFTXrhOM1CGq6MxRsupu-vlOaoSn4zmVB9_OZT4H0fMngw_W1sXrUUbTwMOmkadw2bWzXV3oZw5yUsl-2myg_pLijv9LAC2Mze5ImDc562YbvGUsa7pk_W4XVXZDuknSpO7wG8fnSF44NtON-gIoD4DkeWQTXtn_N7OcNW6XWKIsXiUmqdTJ1fX0IAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESUwHrOzAVs0Z20jpqicb40x0NU5b-Y8SbOT-xa9d0ihEPB7jp6pRkvONZOm7UoXN9vj0mPZ9VSu9ieKT9S10hYGuseyTp3NTQhy-awa0fe8wM0aac&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESUwHrOzAVs0Z20jpqicb40x0NU5b-Y8SbOT-xa9d0ihEPB7jp6pRkvONZOm7UoXN9vj0mPZ9VSu9ieKT9S10hYGuseyTp3NTQhy-awa0fe8wM0aac",
+   "source": "Charles County Public Schools",
+   "read_more_link": "https://westlake.ccboe.com/#:~:text=Westlake%20High%20School&text=Come%20check%20out%20Westlake%20and&text=Come%20check%20out%20Westlake%20and,all%20it%20has%20to%20offer!&text=News&text=Live%20Feed"
+  },
+  {
+   "position": 6,
+   "title": "Westlake High School - Thornwood, New York - NY",
+   "link": "https://www.greatschools.org/new-york/thornwood/1741-Westlake-High-School/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESggEB6zswFZCJMmAym2YW2LcXRrmmcLgIqMgsowJVIaAnZZJFAA1-G4zk7VpG311Ix01VKjRZPNS4eDMsRdsjXqL5QqlXlQya9mhSRdBi6dQ80t7tAPDN41aCifWtaFiehREdLl6oS5qXLMfLp-T94eo_jqmbGzO41nKwMpUi9U5rXiYJ&ved=2ahUKEwir3IXw7OSWAxWyzDgGHYQRA5sQFnoECGUQAQ&uoh=1",
+   "displayed_link": "https://www.greatschools.org \u203a new-york \u203a 1741-Westl...",
+   "favicon": "https://serpapi.com/images/i/UklGRnABAABXRUJQVlA4IGQBAABQCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_jtuHbtjAbYDcAbyB6AHSlf6oixRzh8GEWsYxJ825M9RhM3gV5vdPb_m98cAA_vi6aS7Pzd7susCq7-6fF19W_uHxnTUiht4Bnli4K1NZlcvWNx_U9wUWYJNt7XaI9c-ByTdyo4mDmlZ-5yiSyr_u7cBW9GjDY0XOwNkf3M-JPMdorcnf5W3JquL_1XhdMWG9MeU4wxsyWrY1EBIhBEe9pptiUN9e6cDdPncpdjgPIvoHDAfly9B5KtVb-rS2mA85vxw-fVfJkvrbkjL-z0L62bhyC1muRYqxX5mA92DT5WC6rg1GKs3vDTWtEWyQkNCx7JpqOrcRh1tXyd6AvX19XcKdTTPG1ozotzAlVyERstS5yUat0Hnv2de5D6l_B6PNH32glgAMU9TscSW7BeznX-ttUqaHqMZfqKDlq_LuvvKpt3UAAA.webp",
+   "snippet": "Westlake High School is a public school in Thornwood, NY, offering AP courses and 2 sports. It is the only high school in Mt Pleasant Central School District.",
+   "snippet_highlighted_words": [
+    "Westlake High School"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 4.2,
+      "reviews": 6
+     },
+     "extensions": [
+      "4.2(6)"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Westlake High School is a public school in Thornwood, NY, offering AP courses and 2 sports. It is the only high school in Mt Pleasant Central School District.",
+     "source_info_link": "https://www.greatschools.org/new-york/thornwood/1741-Westlake-High-School/",
+     "icon": "https://serpapi.com/images/i/UklGRnABAABXRUJQVlA4IGQBAABQCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_jtuHbtjAbYDcAbyB6AHSlf6oixRzh8GEWsYxJ825M9RhM3gV5vdPb_m98cAA_vi6aS7Pzd7susCq7-6fF19W_uHxnTUiht4Bnli4K1NZlcvWNx_U9wUWYJNt7XaI9c-ByTdyo4mDmlZ-5yiSyr_u7cBW9GjDY0XOwNkf3M-JPMdorcnf5W3JquL_1XhdMWG9MeU4wxsyWrY1EBIhBEe9pptiUN9e6cDdPncpdjgPIvoHDAfly9B5KtVb-rS2mA85vxw-fVfJkvrbkjL-z0L62bhyC1muRYqxX5mA92DT5WC6rg1GKs3vDTWtEWyQkNCx7JpqOrcRh1tXyd6AvX19XcKdTTPG1ozotzAlVyERstS5yUat0Hnv2de5D6l_B6PNH32glgAMU9TscSW7BeznX-ttUqaHqMZfqKDlq_LuvvKpt3UAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESggEB6zswFZCJMmAym2YW2LcXRrmmcLgIqMgsowJVIaAnZZJFAA1-G4zk7VpG311Ix01VKjRZPNS4eDMsRdsjXqL5QqlXlQya9mhSRdBi6dQ80t7tAPDN41aCifWtaFiehREdLl6oS5qXLMfLp-T94eo_jqmbGzO41nKwMpUi9U5rXiYJ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESggEB6zswFZCJMmAym2YW2LcXRrmmcLgIqMgsowJVIaAnZZJFAA1-G4zk7VpG311Ix01VKjRZPNS4eDMsRdsjXqL5QqlXlQya9mhSRdBi6dQ80t7tAPDN41aCifWtaFiehREdLl6oS5qXLMfLp-T94eo_jqmbGzO41nKwMpUi9U5rXiYJ",
+   "source": "GreatSchools",
+   "read_more_link": "https://www.greatschools.org/new-york/thornwood/1741-Westlake-High-School/#:~:text=Westlake%20High%20School%20is%20a,Mt%20Pleasant%20Central%20School%20District."
+  },
+  {
+   "position": 7,
+   "title": "Westlake High: Home",
+   "link": "https://whs.alpineschools.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVgHrOzAV0NwUBIKU8_YKc5iKbuvoZKvRnrgkWMvvjs-YRH1JMFVkNcYZULs0YOj62Kj-QwZOgI7m0iOpXwGtvn-dVzZvKbUVhSenrTdqhPu8gOscokBC&ved=2ahUKEwir3IXw7OSWAxWyzDgGHYQRA5sQFnoECGYQAQ&uoh=1",
+   "displayed_link": "https://whs.alpineschools.org",
+   "favicon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAACwBACdASogACAAPrkurlcnIacnG_DgFwlAGUXQABH8yiraGKONJiUpQYVL6iGwAP7wuRkjlDRbUkKOsWIl485_bZg-gxh9eU-JrIKhoDP6GdThsmN5V33DN_pjYzO3966BH0ApeDPYdBr0iUgRVBgxjLRmXF7Fmc1oO6k9gFP7ubXq1CAAAA.webp",
+   "snippet": "about 1 year ago. Westlake High School has a new Electronic Communication ... Find Us. Westlake High School99 N THUNDER BLVD.Saratoga Springs, UT 84045 ...",
+   "snippet_highlighted_words": [
+    "Westlake High School",
+    "Westlake High School"
+   ],
+   "sitelinks": {
+    "inline": [
+     {
+      "title": "Timpanogos School District",
+      "link": "https://whs.alpineschools.org/o/timpanogos-district/"
+     },
+     {
+      "title": "Aspen Peaks School District",
+      "link": "https://whs.alpineschools.org/o/aspen-peaks-district/"
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "about 1 year ago. Westlake High School has a new Electronic Communication ... Find Us. Westlake High School99 N THUNDER BLVD.Saratoga Springs, UT 84045 ...",
+     "source_info_link": "https://whs.alpineschools.org/",
+     "icon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAACwBACdASogACAAPrkurlcnIacnG_DgFwlAGUXQABH8yiraGKONJiUpQYVL6iGwAP7wuRkjlDRbUkKOsWIl485_bZg-gxh9eU-JrIKhoDP6GdThsmN5V33DN_pjYzO3966BH0ApeDPYdBr0iUgRVBgxjLRmXF7Fmc1oO6k9gFP7ubXq1CAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESVgHrOzAV0NwUBIKU8_YKc5iKbuvoZKvRnrgkWMvvjs-YRH1JMFVkNcYZULs0YOj62Kj-QwZOgI7m0iOpXwGtvn-dVzZvKbUVhSenrTdqhPu8gOscokBC&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESVgHrOzAV0NwUBIKU8_YKc5iKbuvoZKvRnrgkWMvvjs-YRH1JMFVkNcYZULs0YOj62Kj-QwZOgI7m0iOpXwGtvn-dVzZvKbUVhSenrTdqhPu8gOscokBC",
+   "source": "Alpine School District",
+   "read_more_link": "https://whs.alpineschools.org/#:~:text=Westlake%20Thunder%20%2D%20about%201,that%20will%20be%20enforced%20schoolwide.&text=Find%20Us,BLVD.Saratoga%20Springs%2C%20UT%2084045385%2D579%2D7550Fax%3A%20801%2D768%2D1068"
+  },
+  {
+   "position": 8,
+   "title": "Westlake High School in Mount Pleasant, NY",
+   "link": "https://www.niche.com/k12/westlake-high-school-thornwood-ny/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHrOzAVGyD2SqebQgD9erDKDU7BbJhXcn526wDozFWTR6hKXif7oaZaBNyaMn3MoiUMuscharu-pRD3B5PNz1GH8Qj1CuXcbAQWQ1QD4_cpzn6inSOJB1GBBZUMET5V9sASwjjBYeZUhqmUjEBxQngANFLN&ved=2ahUKEwir3IXw7OSWAxWyzDgGHYQRA5sQFnoECF8QAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a New York",
+   "favicon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAACwBgCdASocABwAPtEutFooIagoGAEAGglAGZo7gYv7m0TPt8r_WYdmpcah9WA48zicEtVrCFOGH4nMtJiaAAD-8Mpqn5wztwFeSDXF5YavmSdrcpv67JtS1tKl7uW6N9aR19WH-vT5VtxqndfSU_QIzB4R0m5fNi1eX3h8GYa_8H28-7o-nc3D2GEvZqGTES8muP_UCP_UIYsGh8QXK7V2sBnUP79qQidv_o8__S3xjZZmmXEG69VP00Dn3HuddwtLR_4xf_0PU8NPn060X-47u3VDw39ZbBgpwK3wP0F5tHUWMrTdTbcT_h7ghKmtPgKiKNIvGUNLHBT4VbzlXgvFo7vCP-ot_w6I_hOg9EcgQfabjpYvU6X4xcxi9BIxh2PJomEF2PA_XoL7FtzFNUuyE0IG83Bax0ZYU-dxj0EhgAAA.webp",
+   "snippet": "Westlake High School is a highly rated, public school located in THORNWOOD, NY. It has 566 students in grades 9-12 with a student-teacher ratio of 10 to 1.",
+   "snippet_highlighted_words": [
+    "Westlake High School"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 3.9,
+      "reviews": 159
+     },
+     "extensions": [
+      "3.9(159)"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Westlake High School is a highly rated, public school located in THORNWOOD, NY. It has 566 students in grades 9-12 with a student-teacher ratio of 10 to 1.",
+     "source_info_link": "https://www.niche.com/k12/westlake-high-school-thornwood-ny/",
+     "icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAACwBgCdASocABwAPtEutFooIagoGAEAGglAGZo7gYv7m0TPt8r_WYdmpcah9WA48zicEtVrCFOGH4nMtJiaAAD-8Mpqn5wztwFeSDXF5YavmSdrcpv67JtS1tKl7uW6N9aR19WH-vT5VtxqndfSU_QIzB4R0m5fNi1eX3h8GYa_8H28-7o-nc3D2GEvZqGTES8muP_UCP_UIYsGh8QXK7V2sBnUP79qQidv_o8__S3xjZZmmXEG69VP00Dn3HuddwtLR_4xf_0PU8NPn060X-47u3VDw39ZbBgpwK3wP0F5tHUWMrTdTbcT_h7ghKmtPgKiKNIvGUNLHBT4VbzlXgvFo7vCP-ot_w6I_hOg9EcgQfabjpYvU6X4xcxi9BIxh2PJomEF2PA_XoL7FtzFNUuyE0IG83Bax0ZYU-dxj0EhgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdAHrOzAVGyD2SqebQgD9erDKDU7BbJhXcn526wDozFWTR6hKXif7oaZaBNyaMn3MoiUMuscharu-pRD3B5PNz1GH8Qj1CuXcbAQWQ1QD4_cpzn6inSOJB1GBBZUMET5V9sASwjjBYeZUhqmUjEBxQngANFLN&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdAHrOzAVGyD2SqebQgD9erDKDU7BbJhXcn526wDozFWTR6hKXif7oaZaBNyaMn3MoiUMuscharu-pRD3B5PNz1GH8Qj1CuXcbAQWQ1QD4_cpzn6inSOJB1GBBZUMET5V9sASwjjBYeZUhqmUjEBxQngANFLN",
+   "source": "Niche"
+  },
+  {
+   "position": 9,
+   "title": "Westlake High School",
+   "link": "https://www.wlake.org/our-schools/westlake-high",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZwHrOzAVVP2iPB8FORa6imapYGl98Y9nQ_zsDvwt1lMC-JQBbFi1M5xjsi_4zM4bKzRym4PWqDryWrleASj8QrFoVhScKC780wJlJ3ziASvwxGzW9EkfHVUCAwsvZrSupgOTWXt4Djo&ved=2ahUKEwir3IXw7OSWAxWyzDgGHYQRA5sQFnoECGAQAQ&uoh=1",
+   "displayed_link": "https://www.wlake.org \u203a our-schools \u203a westlake-high",
+   "snippet": "Westlake High School 27830 Hilliard Blvd. Westlake, OH 44145 ; Main Office: (440)835-6352 ; Fax: (440)250-1062 ; Attendance: (440)835-6779 ; Assistant Principal: N ...",
+   "snippet_highlighted_words": [
+    "Westlake High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Westlake High School 27830 Hilliard Blvd. Westlake, OH 44145 ; Main Office: (440)835-6352 ; Fax: (440)250-1062 ; Attendance: (440)835-6779 ; Assistant Principal: N ...",
+     "source_info_link": "https://www.wlake.org/our-schools/westlake-high"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESZwHrOzAVVP2iPB8FORa6imapYGl98Y9nQ_zsDvwt1lMC-JQBbFi1M5xjsi_4zM4bKzRym4PWqDryWrleASj8QrFoVhScKC780wJlJ3ziASvwxGzW9EkfHVUCAwsvZrSupgOTWXt4Djo&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESZwHrOzAVVP2iPB8FORa6imapYGl98Y9nQ_zsDvwt1lMC-JQBbFi1M5xjsi_4zM4bKzRym4PWqDryWrleASj8QrFoVhScKC780wJlJ3ziASvwxGzW9EkfHVUCAwsvZrSupgOTWXt4Djo",
+   "source": "Westlake City Schools",
+   "read_more_link": "https://www.wlake.org/our-schools/westlake-high#:~:text=Westlake%20High%20School,Westlake%2C%20OH%2044145&text=Main%20Office%3A%20(440)835%2D6352&text=Fax%3A%20(440)250%2D1062&text=Attendance%3A%20(440)835%2D6779&text=Assistant%20Principal%3A%20Nick%20Ranallo"
+  },
+  {
+   "position": 10,
+   "title": "Westlake High School in Thornwood, New York ...",
+   "link": "https://www.donorschoose.org/schools/new-york/mount-pleasant-central-school-district/westlake-high-school/23848",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpwEB6zswFS8Hq_POZwbw0TCyckW_-CsZlXGnTIYgMqmrVSgmKm6wYsGUJsVf3NG9CU45JmTuLcOT8LHr9ptS4y8e80iRLJKbzbDLyijUr0WgaWQ7FqZNmtQ2Zuzg_N_lrFPBkSfcJJIKL8-x-C60Uz0Vf8_3JaoXcj3wW89BykE8Q0uKliiushS6lFlz91ckD12ROEnWayfEjgQIkz82s6kKRLNUWKquCg&ved=2ahUKEwir3IXw7OSWAxWyzDgGHYQRA5sQFnoECGQQAQ&uoh=1",
+   "displayed_link": "https://www.donorschoose.org \u203a schools \u203a new-york",
+   "favicon": "https://serpapi.com/images/i/UklGRswAAABXRUJQVlA4IMAAAABwBQCdASocABwAPtEwtFooIigoGAEAGglsAKknND9QgUiCtSxixOFp4uhGPS57r1rBvQAAAP78Ruvp_RopI31agF2kTcvpn_nJpqDkB-JZ3L4TnmXfH8Lj7_7aH_7LAv_qWkLImNPY960ex9CxAdN4Rj2bYpPBjMs4lAfwcelVvNLkNVmPcrR_CPQWyeuMExXrAK1CRpFOK2_rpU32_y9RFVHtRr1D17PWVgxOgSGl1SdGJuoFHhfsjXVLLo5igAA.webp",
+   "snippet": "Westlake High School is a public school in Thornwood, New York that is part of Mount Pleasant Central School District. It serves 574 studentsin 9 - 12 with ...",
+   "snippet_highlighted_words": [
+    "Westlake High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Westlake High School is a public school in Thornwood, New York that is part of Mount Pleasant Central School District. It serves 574 studentsin 9 - 12 with ...",
+     "source_info_link": "https://www.donorschoose.org/schools/new-york/mount-pleasant-central-school-district/westlake-high-school/23848",
+     "icon": "https://serpapi.com/images/i/UklGRswAAABXRUJQVlA4IMAAAABwBQCdASocABwAPtEwtFooIigoGAEAGglsAKknND9QgUiCtSxixOFp4uhGPS57r1rBvQAAAP78Ruvp_RopI31agF2kTcvpn_nJpqDkB-JZ3L4TnmXfH8Lj7_7aH_7LAv_qWkLImNPY960ex9CxAdN4Rj2bYpPBjMs4lAfwcelVvNLkNVmPcrR_CPQWyeuMExXrAK1CRpFOK2_rpU32_y9RFVHtRr1D17PWVgxOgSGl1SdGJuoFHhfsjXVLLo5igAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESpwEB6zswFS8Hq_POZwbw0TCyckW_-CsZlXGnTIYgMqmrVSgmKm6wYsGUJsVf3NG9CU45JmTuLcOT8LHr9ptS4y8e80iRLJKbzbDLyijUr0WgaWQ7FqZNmtQ2Zuzg_N_lrFPBkSfcJJIKL8-x-C60Uz0Vf8_3JaoXcj3wW89BykE8Q0uKliiushS6lFlz91ckD12ROEnWayfEjgQIkz82s6kKRLNUWKquCg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESpwEB6zswFS8Hq_POZwbw0TCyckW_-CsZlXGnTIYgMqmrVSgmKm6wYsGUJsVf3NG9CU45JmTuLcOT8LHr9ptS4y8e80iRLJKbzbDLyijUr0WgaWQ7FqZNmtQ2Zuzg_N_lrFPBkSfcJJIKL8-x-C60Uz0Vf8_3JaoXcj3wW89BykE8Q0uKliiushS6lFlz91ckD12ROEnWayfEjgQIkz82s6kKRLNUWKquCg",
+   "source": "DonorsChoose"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Westlake+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnu_Kz4JPXndeK3FQ2lswfVfaECmGg:1789072083354&ei=0xKjauumFbKZ4-EPhKOM2Ak&start=10&sa=N&sstk=AS6-VmLXmVLUn4K4kG21xmpxSKmIQQ02unbdIucwrGLa524ZuTN9HXH-yIWbM4oKSbZluNID6j24lD0JB0ahwJHncadn2oqOXKDfhw&ved=2ahUKEwir3IXw7OSWAxWyzDgGHYQRA5sQ8NMDegQIXBAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Westlake+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnu_Kz4JPXndeK3FQ2lswfVfaECmGg:1789072083354&ei=0xKjauumFbKZ4-EPhKOM2Ak&start=10&sa=N&sstk=AS6-VmLXmVLUn4K4kG21xmpxSKmIQQ02unbdIucwrGLa524ZuTN9HXH-yIWbM4oKSbZluNID6j24lD0JB0ahwJHncadn2oqOXKDfhw&ved=2ahUKEwir3IXw7OSWAxWyzDgGHYQRA5sQ8tMDegQIXBAE",
+   "3": "https://www.google.com/search?q=%22Westlake+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnu_Kz4JPXndeK3FQ2lswfVfaECmGg:1789072083354&ei=0xKjauumFbKZ4-EPhKOM2Ak&start=20&sa=N&sstk=AS6-VmLXmVLUn4K4kG21xmpxSKmIQQ02unbdIucwrGLa524ZuTN9HXH-yIWbM4oKSbZluNID6j24lD0JB0ahwJHncadn2oqOXKDfhw&ved=2ahUKEwir3IXw7OSWAxWyzDgGHYQRA5sQ8tMDegQIXBAG",
+   "4": "https://www.google.com/search?q=%22Westlake+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnu_Kz4JPXndeK3FQ2lswfVfaECmGg:1789072083354&ei=0xKjauumFbKZ4-EPhKOM2Ak&start=30&sa=N&sstk=AS6-VmLXmVLUn4K4kG21xmpxSKmIQQ02unbdIucwrGLa524ZuTN9HXH-yIWbM4oKSbZluNID6j24lD0JB0ahwJHncadn2oqOXKDfhw&ved=2ahUKEwir3IXw7OSWAxWyzDgGHYQRA5sQ8tMDegQIXBAI",
+   "5": "https://www.google.com/search?q=%22Westlake+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnu_Kz4JPXndeK3FQ2lswfVfaECmGg:1789072083354&ei=0xKjauumFbKZ4-EPhKOM2Ak&start=40&sa=N&sstk=AS6-VmLXmVLUn4K4kG21xmpxSKmIQQ02unbdIucwrGLa524ZuTN9HXH-yIWbM4oKSbZluNID6j24lD0JB0ahwJHncadn2oqOXKDfhw&ved=2ahUKEwir3IXw7OSWAxWyzDgGHYQRA5sQ8tMDegQIXBAK",
+   "6": "https://www.google.com/search?q=%22Westlake+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnu_Kz4JPXndeK3FQ2lswfVfaECmGg:1789072083354&ei=0xKjauumFbKZ4-EPhKOM2Ak&start=50&sa=N&sstk=AS6-VmLXmVLUn4K4kG21xmpxSKmIQQ02unbdIucwrGLa524ZuTN9HXH-yIWbM4oKSbZluNID6j24lD0JB0ahwJHncadn2oqOXKDfhw&ved=2ahUKEwir3IXw7OSWAxWyzDgGHYQRA5sQ8tMDegQIXBAM",
+   "7": "https://www.google.com/search?q=%22Westlake+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnu_Kz4JPXndeK3FQ2lswfVfaECmGg:1789072083354&ei=0xKjauumFbKZ4-EPhKOM2Ak&start=60&sa=N&sstk=AS6-VmLXmVLUn4K4kG21xmpxSKmIQQ02unbdIucwrGLa524ZuTN9HXH-yIWbM4oKSbZluNID6j24lD0JB0ahwJHncadn2oqOXKDfhw&ved=2ahUKEwir3IXw7OSWAxWyzDgGHYQRA5sQ8tMDegQIXBAO",
+   "8": "https://www.google.com/search?q=%22Westlake+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnu_Kz4JPXndeK3FQ2lswfVfaECmGg:1789072083354&ei=0xKjauumFbKZ4-EPhKOM2Ak&start=70&sa=N&sstk=AS6-VmLXmVLUn4K4kG21xmpxSKmIQQ02unbdIucwrGLa524ZuTN9HXH-yIWbM4oKSbZluNID6j24lD0JB0ahwJHncadn2oqOXKDfhw&ved=2ahUKEwir3IXw7OSWAxWyzDgGHYQRA5sQ8tMDegQIXBAQ",
+   "9": "https://www.google.com/search?q=%22Westlake+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnu_Kz4JPXndeK3FQ2lswfVfaECmGg:1789072083354&ei=0xKjauumFbKZ4-EPhKOM2Ak&start=80&sa=N&sstk=AS6-VmLXmVLUn4K4kG21xmpxSKmIQQ02unbdIucwrGLa524ZuTN9HXH-yIWbM4oKSbZluNID6j24lD0JB0ahwJHncadn2oqOXKDfhw&ved=2ahUKEwir3IXw7OSWAxWyzDgGHYQRA5sQ8tMDegQIXBAS",
+   "10": "https://www.google.com/search?q=%22Westlake+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnu_Kz4JPXndeK3FQ2lswfVfaECmGg:1789072083354&ei=0xKjauumFbKZ4-EPhKOM2Ak&start=90&sa=N&sstk=AS6-VmLXmVLUn4K4kG21xmpxSKmIQQ02unbdIucwrGLa524ZuTN9HXH-yIWbM4oKSbZluNID6j24lD0JB0ahwJHncadn2oqOXKDfhw&ved=2ahUKEwir3IXw7OSWAxWyzDgGHYQRA5sQ8tMDegQIXBAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Westlake+High+School%22&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Westlake+High+School%22&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Westlake+High+School%22&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Westlake+High+School%22&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Westlake+High+School%22&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Westlake+High+School%22&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Westlake+High+School%22&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Westlake+High+School%22&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Westlake+High+School%22&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Westlake+High+School%22&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Westlake+High+School%22&start=90"
+  }
+ }
+}

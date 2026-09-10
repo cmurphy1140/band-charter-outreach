@@ -1,0 +1,476 @@
+{
+ "search_information": {
+  "query_displayed": "\"North Augusta High School\" South Carolina",
+  "total_results": 108,
+  "time_taken_displayed": 0.31,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "North Augusta High School",
+  "type": "High school in North Augusta, South Carolina",
+  "entity_type": "local_nav",
+  "kgmid": "/m/0b6jjm1",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/0b6jjm1&hl=en-US&q=North+Augusta+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F0b6jjm1&q=North+Augusta+High+School",
+  "place_id": "ChIJ6XliHpU0-IgRWVxgV4p72XU",
+  "website": "https://www.acpsd.net/o/nahs",
+  "description": "North Augusta High School is a four-year public high school located in North Augusta, South Carolina. It is a part of the Aiken County Public School District. Approximately 1,500 students attend the school. The school offers over thirty student organizations.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa30fcbf5c2f86dfe2777c2/images/DcAid4EhOXhR09Z8fW9emPFN43cEl7OR0ikUx4LHutU.webp",
+   "link": "https://www.google.com/maps/place/North+Augusta+High+School/data=!4m2!3m1!1s0x0:0x75d97b8a57605c59?sa=X&ved=2ahUKEwjdkZyE6uSWAxVMlmoFHZaEL4wQ_BJ6BAgNEAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/North_Augusta_High_School"
+  },
+  "address": "2000 Knobcone Ave, North Augusta, SC 29841",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=north+augusta+high+school+address&ludocid=8491954406485417049&sa=X&ved=2ahUKEwjdkZyE6uSWAxVMlmoFHZaEL4wQ6BN6BAgfEAI"
+   }
+  ],
+  "founded": "1910",
+  "colors": "Black, Gold",
+  "colors_links": [
+   {
+    "text": "Black",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpraX69jV5X33UKfb-qjUYOsjWjX7nO47WTc3bfTI9Y65ZiVHtYBMip712BIFfSe4hsQfG6Ke1tiSzCPh-WMWlv5Oj4fdEJZNzhvT0x2LVWvF39wkezsHXMud-z3RX28CVsr5eixbR79o1vRQo2kPNY-GoilvKDv2IYXLPXQRWsvEspnL_475IsnjC9-8Pp3b45zqHvs%3D&sa=X&ved=2ahUKEwjdkZyE6uSWAxVMlmoFHZaEL4wQmxN6BAgnEAI"
+   },
+   {
+    "text": "Gold",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yVTSUpKThlWoIKPxeFqYth2SIDLoP0njeJsXuUgA4WpFOx0chzFT8z2n59AhRecQefeDDcCS6wlnGjxewB_AV0kFODxnKftFWhH0MaJEssZnpzPIp4logLgp3i0UiWDtA2RoFpABQ36DGyYvc4k3i1Bi5fPAD39U-5qYZlBYuaP9xwvJqtE4nemfNO8PBFRr4fJuDLc%3D&sa=X&ved=2ahUKEwjdkZyE6uSWAxVMlmoFHZaEL4wQmxN6BAgnEAM"
+   }
+  ],
+  "mascot": "Yellow Jacket",
+  "mascot_links": [
+   {
+    "text": "Yellow Jacket",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67xD_Xw9VYovPvB3VaW_69TlEP51TBrrM24IMRC5vuBHtpckQ4vDDXof3YIOZ1SI_IRiSx0xpWmDsVTTik7maXq3vHmSPRdlqz3A-WrjG_fUppNXzn4mJTPd3MrYitx5A5g2PpbUhmMTCRsntPrmSOJY15Ri3&sa=X&ved=2ahUKEwjdkZyE6uSWAxVMlmoFHZaEL4wQmxN6BAgoEAI"
+   }
+  ],
+  "phone": "(803) 442-6100",
+  "raw_hours": "Closed \u00b7 Opens 7 - 30 AM Fri",
+  "hours": {
+   "thursday": {
+    "opens": "7:30\u202fAM",
+    "closes": "3:45\u202fPM"
+   },
+   "friday": {
+    "opens": "7:30\u202fAM",
+    "closes": "3:45\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "7:30\u202fAM",
+    "closes": "3:45\u202fPM"
+   },
+   "tuesday": {
+    "opens": "7:30\u202fAM",
+    "closes": "3:45\u202fPM"
+   },
+   "wednesday": {
+    "opens": "7:30\u202fAM",
+    "closes": "3:45\u202fPM"
+   }
+  },
+  "people_also_search_for": [
+   {
+    "name": "Midland Valley High School",
+    "image": "https://serpapi.com/searches/6aa30fcbf5c2f86dfe2777c2/images/DcAid4EhOXhR09Z8fW9emI4EorYjKAqhztEA9B7z6katR_0ZB0j2clG1OZndT6Ip.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW679jRXKThUrVNAltBWDpg4jzwJFPYGVe6l1MQbkH0Ak9R8w6aGnikkW2Ctti2m1pY1YKVUDMvn6jn-Oo6tbv6svOxOdkmgLryYA-RuSRBywIWJ_pDZXZJPXxotJAQefz02zUi0XVseATuefasphs9CDmHxi2YW9txk9gcmRgJ9YHS5xDs0HSKfbmtSxvMDQ1r5n-w-jl8SmNPrQ4k2rBh_gXBc_VbN8ioPstHr2Gp5atQRkzREFIAKL-bfqOgqqlWcy2IHJ--VHJVlWMKPWEbdTtQwbRF&q=Midland+Valley+High+School&sa=X&ved=2ahUKEwjdkZyE6uSWAxVMlmoFHZaEL4wQs9oBKAB6BAgeEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Midland+Valley+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW679jRXKThUrVNAltBWDpg4jzwJFPYGVe6l1MQbkH0Ak9R8w6aGnikkW2Ctti2m1pY1YKVUDMvn6jn-Oo6tbv6svOxOdkmgLryYA-RuSRBywIWJ_pDZXZJPXxotJAQefz02zUi0XVseATuefasphs9CDmHxi2YW9txk9gcmRgJ9YHS5xDs0HSKfbmtSxvMDQ1r5n-w-jl8SmNPrQ4k2rBh_gXBc_VbN8ioPstHr2Gp5atQRkzREFIAKL-bfqOgqqlWcy2IHJ--VHJVlWMKPWEbdTtQwbRF"
+   },
+   {
+    "name": "Silver Bluff High School",
+    "image": "https://serpapi.com/searches/6aa30fcbf5c2f86dfe2777c2/images/DcAid4EhOXhR09Z8fW9emI4EorYjKAqhztEA9B7z6kaI8JQ8t4bhCCDWLLUIQ9Kr.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW671h6Ud85Mr7WUdPfdBYjMBvD9W3tETZD8sDGWyq-foyFGgS2oG4qDHvNVuDfCz4lA0BkVPslxfUr0XE0mr24A2Uld_V9MKp2KOJJI84N8Snmo6nTGi4FQUw3oLawqxMXKdKg_iVRLhsBvjLmsDRYXMtoMlMmVWCAteJ5Cnf2ZnejBdx670ztPOgWCLD7ImkKPnmYtDItshDTMC4MnHJ3nRwg1jlAIhsm_9b0kVa8JgQJVmJzP5CJDUYOr8mYeQANoVoRBPhp6uo7AcU5omww9j60OhK7&q=Silver+Bluff+High+School&sa=X&ved=2ahUKEwjdkZyE6uSWAxVMlmoFHZaEL4wQs9oBKAB6BAgeEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Silver+Bluff+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW671h6Ud85Mr7WUdPfdBYjMBvD9W3tETZD8sDGWyq-foyFGgS2oG4qDHvNVuDfCz4lA0BkVPslxfUr0XE0mr24A2Uld_V9MKp2KOJJI84N8Snmo6nTGi4FQUw3oLawqxMXKdKg_iVRLhsBvjLmsDRYXMtoMlMmVWCAteJ5Cnf2ZnejBdx670ztPOgWCLD7ImkKPnmYtDItshDTMC4MnHJ3nRwg1jlAIhsm_9b0kVa8JgQJVmJzP5CJDUYOr8mYeQANoVoRBPhp6uo7AcU5omww9j60OhK7"
+   },
+   {
+    "name": "North Augusta",
+    "image": "https://serpapi.com/searches/6aa30fcbf5c2f86dfe2777c2/images/DcAid4EhOXhR09Z8fW9emI4EorYjKAqhztEA9B7z6kYBzeMx0njGOyp-vAJT6URE.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ycdYlzgEXvGzbE4CMw0Ci1o89IVQN3AJzs7iFn11t5JvVlbvhsThS8uON5pplevMRf90k9MuzG5K60NnAkfMesbn8XDqbkRGlouIGMABZgRpRPfazumuYWhTEM1oPNkDUWBJ63xzII4dYGHUuCPOU7vxUijCCF-1MPo0URxOHlNQdRMXdcJEQ9qWO-5YjBlXi5YrFkgdcTfIJL8DUA1FwQNuBHzvPpddvpzHq28E158kXhHOgjR_wigFpuq6XfZcgzy6K0k%3D&q=North+Augusta&sa=X&ved=2ahUKEwjdkZyE6uSWAxVMlmoFHZaEL4wQs9oBKAB6BAgeEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=North+Augusta&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ycdYlzgEXvGzbE4CMw0Ci1o89IVQN3AJzs7iFn11t5JvVlbvhsThS8uON5pplevMRf90k9MuzG5K60NnAkfMesbn8XDqbkRGlouIGMABZgRpRPfazumuYWhTEM1oPNkDUWBJ63xzII4dYGHUuCPOU7vxUijCCF-1MPo0URxOHlNQdRMXdcJEQ9qWO-5YjBlXi5YrFkgdcTfIJL8DUA1FwQNuBHzvPpddvpzHq28E158kXhHOgjR_wigFpuq6XfZcgzy6K0k%3D"
+   },
+   {
+    "name": "Fox Creek High School",
+    "image": "https://serpapi.com/searches/6aa30fcbf5c2f86dfe2777c2/images/DcAid4EhOXhR09Z8fW9emI4EorYjKAqhztEA9B7z6kYUnQH86kwJobY2HPqf8AjW.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW677napAfQTKn8rKU3lB8Yl9Bq7JMtL5AQQtBVRHh-_7x_Z_sHpIolhIvtZmaCjZzcublvCJ3iAMudLPDygyi2ATTP144tskBlwX5Is5ucwSiyYZguE0i-G2CCxi6klS45Es6H5M9-qua_QYDEdbVBFDKDhHoVwOrig4JOVtNyp8YTr010ns8wmzo7IAeGkDwPX0tzZQJBCsxhOVfzq5YNmLCpVvsGABTi9cFgLzX-1Y77eO671fOAXAD1h3lLc-AqMHHtDM55ciYWm4z0axv1x9n0v9en&q=Fox+Creek+High+School&sa=X&ved=2ahUKEwjdkZyE6uSWAxVMlmoFHZaEL4wQs9oBKAB6BAgeEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Fox+Creek+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW677napAfQTKn8rKU3lB8Yl9Bq7JMtL5AQQtBVRHh-_7x_Z_sHpIolhIvtZmaCjZzcublvCJ3iAMudLPDygyi2ATTP144tskBlwX5Is5ucwSiyYZguE0i-G2CCxi6klS45Es6H5M9-qua_QYDEdbVBFDKDhHoVwOrig4JOVtNyp8YTr010ns8wmzo7IAeGkDwPX0tzZQJBCsxhOVfzq5YNmLCpVvsGABTi9cFgLzX-1Y77eO671fOAXAD1h3lLc-AqMHHtDM55ciYWm4z0axv1x9n0v9en"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=North+Augusta+High+School&stick=H4sIAAAAAAAAAONgFuLSz9U3SDLLyso1VEJiawkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axCrpl19UkqHgWJpeWlySqOCRmZ6hEJyckZ-fs4OV8RabJMMbh4rAXL6mziXhhodYtRdtjkgKtkkP-34cAGFprzWBAAAA&sa=X&ved=2ahUKEwjdkZyE6uSWAxVMlmoFHZaEL4wQzO0BKAR6BAgeEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLSz9U3SDLLyso1VEJiawkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axCrpl19UkqHgWJpeWlySqOCRmZ6hEJyckZ-fs4OV8RabJMMbh4rAXL6mziXhhodYtRdtjkgKtkkP-34cAGFprzWBAAAA",
+  "profiles": [
+   {
+    "name": "X (Twitter)",
+    "link": "https://twitter.com/NALadyJacketsBB",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22North+Augusta+High+School%22+South+Carolina",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAABhUlEQVR4AczOA6xcARCF4X_us23btuLUQR3WZlhbQW3bto2gtm3b2J3GN4tY74uHh3okOi42Nj4AAUDwTvDEhisABCOAEAzYTBh0bN-lc5d0QgAhHPqX4Y4pkd367Zc-xMcXCPDg8TPwxeQH724Uj9N95GJ4pnHxby1xgCmV3v-GsFb7k0Iee7UjaQgmIYe9v9O4-wUKWaATyMPAViwvr1NnOQWDdTV5CHYSaKWLmaGDyvU4mTgQcllracaFr-9uk-yLM8k8fAJff0IUTghRVFu3M1ynkYk4nchiqqU3Ry05RDibMMhjtj6Ht3dJxVk_l1G64cspOusychBsCWm01WNM0jFs0sbEYUtIIuTXNco588OLh09JxE6wweuXEAvfL9PQus3-iU80N34KCaQyUOcxTTuSjEmMRI5rS9JwIZfD1t7ceo34YIpnuQ4nGwP8XXlq_fJZd9jE8KBHC5IwAELJ7dWrZ6fOuNhkgFgAEEIAwA1MQkw0AgDC_wnKycrKSQ2iPAkAVyNzq8rxicIAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/nauhsocialmedia/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22North+Augusta+High+School%22+South+Carolina",
+    "image": "https://serpapi.com/searches/6aa30fcbf5c2f86dfe2777c2/images/DcAid4EhOXhR09Z8fW9emGKh91Fgpde4_rWY-o3U198pqZfxBuyq_v86g2SFPI1M.png"
+   },
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/NAYJBaseball",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22North+Augusta+High+School%22+South+Carolina",
+    "image": "https://serpapi.com/searches/6aa30fcbf5c2f86dfe2777c2/images/DcAid4EhOXhR09Z8fW9emH0TK8J3u1SRKURlsFAbY2gVWms7F7lz4suDucshrwq5.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "What is North Augusta High known for?",
+   "type": "ai_overview",
+   "page_token": "DwsLZXicHdBLUoMwAADQ8TIubQGpQ2c6jlgCVBNMmgSajUOTUqQJUPvhs_MunsrT6Lh_q_f1rT_qw8_NtTyf29N8Mum67m7fNHu9u5ONmeSnoZYTmWu9zeVhPnuYWY-FXASX2H8-xj5mbcuXZLo27oWl0hZA22wEQ0pJjUBZryuCVcQHZbdQhW6RG49mVmDDCPG1iYecoXvurPiuUkdM_Q3JgmkKwFWyPmY22sBUADzqWvHVC6n9jITiZWeAoJkqkj-fH0ooo1YnaX-VQewkgdYo6KfSAraYejqJ_DfIySdc8hJmSmej2ECLGA7UAFPic7rvktDrhdWGaLmqYfXUKat0glIOeG0dNxkeyUFUuwz1KkJ4G3rnV0qI6JsPzMgoK20YVWbLXJ9aZIYdgClzUWrQIGvmvnL_pLRHRHdbyOvCuf3_XLwX5jxvP5v9LzDPg2s",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=DwsLZXicHdBLUoMwAADQ8TIubQGpQ2c6jlgCVBNMmgSajUOTUqQJUPvhs_MunsrT6Lh_q_f1rT_qw8_NtTyf29N8Mum67m7fNHu9u5ONmeSnoZYTmWu9zeVhPnuYWY-FXASX2H8-xj5mbcuXZLo27oWl0hZA22wEQ0pJjUBZryuCVcQHZbdQhW6RG49mVmDDCPG1iYecoXvurPiuUkdM_Q3JgmkKwFWyPmY22sBUADzqWvHVC6n9jITiZWeAoJkqkj-fH0ooo1YnaX-VQewkgdYo6KfSAraYejqJ_DfIySdc8hJmSmej2ECLGA7UAFPic7rvktDrhdWGaLmqYfXUKat0glIOeG0dNxkeyUFUuwz1KkJ4G3rnV0qI6JsPzMgoK20YVWbLXJ9aZIYdgClzUWrQIGvmvnL_pLRHRHdbyOvCuf3_XLwX5jxvP5v9LzDPg2s",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1l6aElPSGN5UVZKQ1kzWjNWemRwVWtSNFlVeEJRVFZYTjNOaFlWRnBlbVEyVlVwT1NtOWtkSFp6YnpSdFJWWXlkbTlGZW1oTGFIRlpRV1ZxTXpsb2FrSXRWM1k1Y3pKMU1WWm9OamR5TFdSMFprbFVlVkpxVGxFeVFSSVhNa0V0YW1GME0wWkdZM2x6Y1hSelVHeHZiUzAwVVdjYUlrRkVjM0k1WmxNNVNuRTFWa2hYTjA1RVExTjFjamRZY1RoR2RFRkdZbkp0WDBFIiwiZmN2IjoiMyIsImVpIjoiMkEtamF0M0ZGY3lzcXRzUGxvbS00UWciLCJxYyI6IkNpaHViM0owYUNCaGRXZDFjM1JoSUdocFoyZ2djMk5vYjI5c0lITnZkWFJvSUdOaGNtOXNhVzVoRUFCOW9wYzZQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBOb3J0aCBBdWd1c3RhIEhpZ2gga25vd24gZm9yPyIsImxrIjoiR2lSM2FHRjBJR2x6SUc1dmNuUm9JR0YxWjNWemRHRWdhR2xuYUNCcmJtOTNiaUJtYjNJIiwiYnMiOiJjNFdRTVF2Q01CQ0ZjYzNrM09tUTZ1Umktd09LZE9rZ09uUndQbXB0Z20xT2NnbkJmMjlOQ3lwRUhHNzd2dmU0SjA1aWZaWm9RVEVjeVZnSmU5YzV0Z2lWNmlUY05Ia05WekpGdGtsU1A0TTZnRGlEOGdzVVNtUWhFRTBMVm81SGQ4Z25pQnRKMURNb0RUVzVNYUpFUTczU1dHUjVzdlBfTFE1V00xdXZxb284REtnZndOWmRXbTBaT2hybDJDOTF5QWxWOG9jVmVXeHFGd2VSUm1mYVFsMS1ycFFtcV9oSzNMeXg1ZUlKIiwiaWQiOiJmY18yQS1qYXQzRkZjeXNxdHNQbG9tLTRRZ180In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1l6aElPSGN5UVZKQ1kzWjNWemRwVWtSNFlVeEJRVFZYTjNOaFlWRnBlbVEyVlVwT1NtOWtkSFp6YnpSdFJWWXlkbTlGZW1oTGFIRlpRV1ZxTXpsb2FrSXRWM1k1Y3pKMU1WWm9OamR5TFdSMFprbFVlVkpxVGxFeVFSSVhNa0V0YW1GME0wWkdZM2x6Y1hSelVHeHZiUzAwVVdjYUlrRkVjM0k1WmxNNVNuRTFWa2hYTjA1RVExTjFjamRZY1RoR2RFRkdZbkp0WDBFIiwiZmN2IjoiMyIsImVpIjoiMkEtamF0M0ZGY3lzcXRzUGxvbS00UWciLCJxYyI6IkNpaHViM0owYUNCaGRXZDFjM1JoSUdocFoyZ2djMk5vYjI5c0lITnZkWFJvSUdOaGNtOXNhVzVoRUFCOW9wYzZQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBOb3J0aCBBdWd1c3RhIEhpZ2gga25vd24gZm9yPyIsImxrIjoiR2lSM2FHRjBJR2x6SUc1dmNuUm9JR0YxWjNWemRHRWdhR2xuYUNCcmJtOTNiaUJtYjNJIiwiYnMiOiJjNFdRTVF2Q01CQ0ZjYzNrM09tUTZ1Umktd09LZE9rZ09uUndQbXB0Z20xT2NnbkJmMjlOQ3lwRUhHNzd2dmU0SjA1aWZaWm9RVEVjeVZnSmU5YzV0Z2lWNmlUY05Ia05WekpGdGtsU1A0TTZnRGlEOGdzVVNtUWhFRTBMVm81SGQ4Z25pQnRKMURNb0RUVzVNYUpFUTczU1dHUjVzdlBfTFE1V00xdXZxb284REtnZndOWmRXbTBaT2hybDJDOTF5QWxWOG9jVmVXeHFGd2VSUm1mYVFsMS1ycFFtcV9oSzNMeXg1ZUlKIiwiaWQiOiJmY18yQS1qYXQzRkZjeXNxdHNQbG9tLTRRZ180In0%3D"
+  },
+  {
+   "question": "What are the top 3 high schools in South Carolina?",
+   "type": "ai_overview",
+   "page_token": "OmEKXHicHdBdbqMwFEBhzWb62IBJaRMpqsqEHyFCa8f3QvwyMiaEBAOehoaEt9nCrKGrmtVM1QWch-_8-dTHrvn34289DOa8nM3Gcbw_9P1B7-9V387k-dapmZJaF1I1S_fRtZ8rtfIvyvv5rjwKxuCaWXztbeS6pinUcx6Wx6JZfCQY-5mPJAMkSQ43CUZsnBhFVFOwxBUzEWacVdJiiYqMTVsT50Sfd2CuWYtkE4kYrQA5D84Se1JaqSit2k8DZoPNKt6WbwLi-qttdhA_oK3Xrzxw9y2624kSGQUuJeUrTJpkHQOMXhwZlCbt1LzIPSqJCYWFAqH-SDiCbI2XhWxeNA8d6PhNnMp-ewJbOMEodRlmHYac2JNfqxvd2r93OZ1YI077PL2WUUqLcDEknDFx7Y8U2KROugXuzyF8cqhGB7r4wknNAYOt0otN6n_ZrMEV412lLivn7vv16lfVDkvz3h_-A_g8i2w",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=OmEKXHicHdBdbqMwFEBhzWb62IBJaRMpqsqEHyFCa8f3QvwyMiaEBAOehoaEt9nCrKGrmtVM1QWch-_8-dTHrvn34289DOa8nM3Gcbw_9P1B7-9V387k-dapmZJaF1I1S_fRtZ8rtfIvyvv5rjwKxuCaWXztbeS6pinUcx6Wx6JZfCQY-5mPJAMkSQ43CUZsnBhFVFOwxBUzEWacVdJiiYqMTVsT50Sfd2CuWYtkE4kYrQA5D84Se1JaqSit2k8DZoPNKt6WbwLi-qttdhA_oK3Xrzxw9y2624kSGQUuJeUrTJpkHQOMXhwZlCbt1LzIPSqJCYWFAqH-SDiCbI2XhWxeNA8d6PhNnMp-ewJbOMEodRlmHYac2JNfqxvd2r93OZ1YI077PL2WUUqLcDEknDFx7Y8U2KROugXuzyF8cqhGB7r4wknNAYOt0otN6n_ZrMEV412lLivn7vv16lfVDkvz3h_-A_g8i2w",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1l6aElPSGN5UVZKQ1kzWjNWemRwVWtSNFlVeEJRVFZYTjNOaFlWRnBlbVEyVlVwT1NtOWtkSFp6YnpSdFJWWXlkbTlGZW1oTGFIRlpRV1ZxTXpsb2FrSXRWM1k1Y3pKMU1WWm9OamR5TFdSMFprbFVlVkpxVGxFeVFSSVhNa0V0YW1GME0wWkdZM2x6Y1hSelVHeHZiUzAwVVdjYUlrRkVjM0k1WmxNNVNuRTFWa2hYTjA1RVExTjFjamRZY1RoR2RFRkdZbkp0WDBFIiwiZmN2IjoiMyIsImVpIjoiMkEtamF0M0ZGY3lzcXRzUGxvbS00UWciLCJxYyI6IkNpaHViM0owYUNCaGRXZDFjM1JoSUdocFoyZ2djMk5vYjI5c0lITnZkWFJvSUdOaGNtOXNhVzVoRUFCOW9wYzZQdyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHRvcCAzIGhpZ2ggc2Nob29scyBpbiBTb3V0aCBDYXJvbGluYT8iLCJsayI6IkdqRjNhR0YwSUdGeVpTQjBhR1VnZEc5d0lETWdhR2xuYUNCelkyaHZiMnh6SUdsdUlITnZkWFJvSUdOaGNtOXNhVzVoIiwiYnMiOiJjNFdRTVF2Q01CQ0ZjYzNrM09tUTZ1Umktd09LZE9rZ09uUndQbXB0Z20xT2NnbkJmMjlOQ3lwRUhHNzd2dmU0SjA1aWZaWm9RVEVjeVZnSmU5YzV0Z2lWNmlUY05Ia05WekpGdGtsU1A0TTZnRGlEOGdzVVNtUWhFRTBMVm81SGQ4Z25pQnRKMURNb0RUVzVNYUpFUTczU1dHUjVzdlBfTFE1V00xdXZxb284REtnZndOWmRXbTBaT2hybDJDOTF5QWxWOG9jVmVXeHFGd2VSUm1mYVFsMS1ycFFtcV9oSzNMeXg1ZUlKIiwiaWQiOiJmY18yQS1qYXQzRkZjeXNxdHNQbG9tLTRRZ180In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1l6aElPSGN5UVZKQ1kzWjNWemRwVWtSNFlVeEJRVFZYTjNOaFlWRnBlbVEyVlVwT1NtOWtkSFp6YnpSdFJWWXlkbTlGZW1oTGFIRlpRV1ZxTXpsb2FrSXRWM1k1Y3pKMU1WWm9OamR5TFdSMFprbFVlVkpxVGxFeVFSSVhNa0V0YW1GME0wWkdZM2x6Y1hSelVHeHZiUzAwVVdjYUlrRkVjM0k1WmxNNVNuRTFWa2hYTjA1RVExTjFjamRZY1RoR2RFRkdZbkp0WDBFIiwiZmN2IjoiMyIsImVpIjoiMkEtamF0M0ZGY3lzcXRzUGxvbS00UWciLCJxYyI6IkNpaHViM0owYUNCaGRXZDFjM1JoSUdocFoyZ2djMk5vYjI5c0lITnZkWFJvSUdOaGNtOXNhVzVoRUFCOW9wYzZQdyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHRvcCAzIGhpZ2ggc2Nob29scyBpbiBTb3V0aCBDYXJvbGluYT8iLCJsayI6IkdqRjNhR0YwSUdGeVpTQjBhR1VnZEc5d0lETWdhR2xuYUNCelkyaHZiMnh6SUdsdUlITnZkWFJvSUdOaGNtOXNhVzVoIiwiYnMiOiJjNFdRTVF2Q01CQ0ZjYzNrM09tUTZ1Umktd09LZE9rZ09uUndQbXB0Z20xT2NnbkJmMjlOQ3lwRUhHNzd2dmU0SjA1aWZaWm9RVEVjeVZnSmU5YzV0Z2lWNmlUY05Ia05WekpGdGtsU1A0TTZnRGlEOGdzVVNtUWhFRTBMVm81SGQ4Z25pQnRKMURNb0RUVzVNYUpFUTczU1dHUjVzdlBfTFE1V00xdXZxb284REtnZndOWmRXbTBaT2hybDJDOTF5QWxWOG9jVmVXeHFGd2VSUm1mYVFsMS1ycFFtcV9oSzNMeXg1ZUlKIiwiaWQiOiJmY18yQS1qYXQzRkZjeXNxdHNQbG9tLTRRZ180In0%3D"
+  },
+  {
+   "question": "How many students go to North Augusta High School?",
+   "type": "ai_overview",
+   "page_token": "9EMumnicHdBdUuIwAADg8TI-Slp-FGaYHbskRSVxkiZtyMtOSAj9SWnVAi1vXmHP4Kk8ze74HeH7_PLFsfq--Zt3XfuxGI0ul8vdoWkOfn9nmnqkP4ajGRnt_U6bajG7nwW_nFnCs4l-v5uIirZNVwwkAlxxPZ3xkLS7iky0jyCBaEglCZSwio-jEB9TyNePEwY7ogF7e0UPPRPW4SJw3OeIZLh7jfsXGT6fcGXdVj43WYlcGqgzgwfAIEEYWZf4Oc5i63bgoacFmPL109SIzmeVmGapOiVHC2g4Z3wVtWRNChkSvuesT2S60TU50bGZqLi_6DSVGjKqYBBxTjsO-5eNTPFW5JLIqBQrggjKq6zKE7FSWCM24fEWwNwMNAnetpJeWaXKvSS9XRO6i-fdhjOm-qaggl1N6Wvhc5pllvPy_4HPtRVgYAEc5FhxET91PMQhpbfOnJfj25_r5R9Xd4v2vTn8A8DQi6o",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=9EMumnicHdBdUuIwAADg8TI-Slp-FGaYHbskRSVxkiZtyMtOSAj9SWnVAi1vXmHP4Kk8ze74HeH7_PLFsfq--Zt3XfuxGI0ul8vdoWkOfn9nmnqkP4ajGRnt_U6bajG7nwW_nFnCs4l-v5uIirZNVwwkAlxxPZ3xkLS7iky0jyCBaEglCZSwio-jEB9TyNePEwY7ogF7e0UPPRPW4SJw3OeIZLh7jfsXGT6fcGXdVj43WYlcGqgzgwfAIEEYWZf4Oc5i63bgoacFmPL109SIzmeVmGapOiVHC2g4Z3wVtWRNChkSvuesT2S60TU50bGZqLi_6DSVGjKqYBBxTjsO-5eNTPFW5JLIqBQrggjKq6zKE7FSWCM24fEWwNwMNAnetpJeWaXKvSS9XRO6i-fdhjOm-qaggl1N6Wvhc5pllvPy_4HPtRVgYAEc5FhxET91PMQhpbfOnJfj25_r5R9Xd4v2vTn8A8DQi6o",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1l6aElPSGN5UVZKQ1kzWjNWemRwVWtSNFlVeEJRVFZYTjNOaFlWRnBlbVEyVlVwT1NtOWtkSFp6YnpSdFJWWXlkbTlGZW1oTGFIRlpRV1ZxTXpsb2FrSXRWM1k1Y3pKMU1WWm9OamR5TFdSMFprbFVlVkpxVGxFeVFSSVhNa0V0YW1GME0wWkdZM2x6Y1hSelVHeHZiUzAwVVdjYUlrRkVjM0k1WmxNNVNuRTFWa2hYTjA1RVExTjFjamRZY1RoR2RFRkdZbkp0WDBFIiwiZmN2IjoiMyIsImVpIjoiMkEtamF0M0ZGY3lzcXRzUGxvbS00UWciLCJxYyI6IkNpaHViM0owYUNCaGRXZDFjM1JoSUdocFoyZ2djMk5vYjI5c0lITnZkWFJvSUdOaGNtOXNhVzVoRUFCOW9wYzZQdyIsInF1ZXN0aW9uIjoiSG93IG1hbnkgc3R1ZGVudHMgZ28gdG8gTm9ydGggQXVndXN0YSBIaWdoIFNjaG9vbD8iLCJsayI6IkdqRm9iM2NnYldGdWVTQnpkSFZrWlc1MGN5Qm5ieUIwYnlCdWIzSjBhQ0JoZFdkMWMzUmhJR2hwWjJnZ2MyTm9iMjlzIiwiYnMiOiJjNFdRTVF2Q01CQ0ZjYzNrM09tUTZ1Umktd09LZE9rZ09uUndQbXB0Z20xT2NnbkJmMjlOQ3lwRUhHNzd2dmU0SjA1aWZaWm9RVEVjeVZnSmU5YzV0Z2lWNmlUY05Ia05WekpGdGtsU1A0TTZnRGlEOGdzVVNtUWhFRTBMVm81SGQ4Z25pQnRKMURNb0RUVzVNYUpFUTczU1dHUjVzdlBfTFE1V00xdXZxb284REtnZndOWmRXbTBaT2hybDJDOTF5QWxWOG9jVmVXeHFGd2VSUm1mYVFsMS1ycFFtcV9oSzNMeXg1ZUlKIiwiaWQiOiJmY18yQS1qYXQzRkZjeXNxdHNQbG9tLTRRZ180In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1l6aElPSGN5UVZKQ1kzWjNWemRwVWtSNFlVeEJRVFZYTjNOaFlWRnBlbVEyVlVwT1NtOWtkSFp6YnpSdFJWWXlkbTlGZW1oTGFIRlpRV1ZxTXpsb2FrSXRWM1k1Y3pKMU1WWm9OamR5TFdSMFprbFVlVkpxVGxFeVFSSVhNa0V0YW1GME0wWkdZM2x6Y1hSelVHeHZiUzAwVVdjYUlrRkVjM0k1WmxNNVNuRTFWa2hYTjA1RVExTjFjamRZY1RoR2RFRkdZbkp0WDBFIiwiZmN2IjoiMyIsImVpIjoiMkEtamF0M0ZGY3lzcXRzUGxvbS00UWciLCJxYyI6IkNpaHViM0owYUNCaGRXZDFjM1JoSUdocFoyZ2djMk5vYjI5c0lITnZkWFJvSUdOaGNtOXNhVzVoRUFCOW9wYzZQdyIsInF1ZXN0aW9uIjoiSG93IG1hbnkgc3R1ZGVudHMgZ28gdG8gTm9ydGggQXVndXN0YSBIaWdoIFNjaG9vbD8iLCJsayI6IkdqRm9iM2NnYldGdWVTQnpkSFZrWlc1MGN5Qm5ieUIwYnlCdWIzSjBhQ0JoZFdkMWMzUmhJR2hwWjJnZ2MyTm9iMjlzIiwiYnMiOiJjNFdRTVF2Q01CQ0ZjYzNrM09tUTZ1Umktd09LZE9rZ09uUndQbXB0Z20xT2NnbkJmMjlOQ3lwRUhHNzd2dmU0SjA1aWZaWm9RVEVjeVZnSmU5YzV0Z2lWNmlUY05Ia05WekpGdGtsU1A0TTZnRGlEOGdzVVNtUWhFRTBMVm81SGQ4Z25pQnRKMURNb0RUVzVNYUpFUTczU1dHUjVzdlBfTFE1V00xdXZxb284REtnZndOWmRXbTBaT2hybDJDOTF5QWxWOG9jVmVXeHFGd2VSUm1mYVFsMS1ycFFtcV9oSzNMeXg1ZUlKIiwiaWQiOiJmY18yQS1qYXQzRkZjeXNxdHNQbG9tLTRRZ180In0%3D"
+  },
+  {
+   "question": "What is North Augusta, SC known for?",
+   "type": "ai_overview",
+   "page_token": "WX9nlXicHdBbboJAFIDhdDM-VkZbG01MEwVEW6ad0zkDzEsDg6gwXNSpIG_dS1fV1fSygj_f__mlD1XxfXPZG9OcZ8Nh27a3u7re6e2tqsthfL5WaqhirZNYFbPJw4Q8ZmrufKwXy-N6wbBphA0Wd6hOvMUT7ekkzcUZhT7SUYdy7B7AZS3auy7iogwK46NlonjlLmngvkpraqStTwFuOuR6nSLcJ5witQgIx_i-mPZgwQcgjX47GeRUIseWVlHvk8ZTDnhyJFdCuBHaOE5y5x4rJImWPSduK5ak8wuw49G08XGTJSOZpZap07LDKJdZIJjhlXiTXmMiss-VcJlfysrZqyt7I8coZD0UMt-GtEs9ypLV1DxzANnVB4bQq1yXWBBkoZBxULcYNi-AcBevxEn92TyxeeFQp-0gU5f5ePD_c_6elWbWnOrdD5XjhLw",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=WX9nlXicHdBbboJAFIDhdDM-VkZbG01MEwVEW6ad0zkDzEsDg6gwXNSpIG_dS1fV1fSygj_f__mlD1XxfXPZG9OcZ8Nh27a3u7re6e2tqsthfL5WaqhirZNYFbPJw4Q8ZmrufKwXy-N6wbBphA0Wd6hOvMUT7ekkzcUZhT7SUYdy7B7AZS3auy7iogwK46NlonjlLmngvkpraqStTwFuOuR6nSLcJ5witQgIx_i-mPZgwQcgjX47GeRUIseWVlHvk8ZTDnhyJFdCuBHaOE5y5x4rJImWPSduK5ak8wuw49G08XGTJSOZpZap07LDKJdZIJjhlXiTXmMiss-VcJlfysrZqyt7I8coZD0UMt-GtEs9ypLV1DxzANnVB4bQq1yXWBBkoZBxULcYNi-AcBevxEn92TyxeeFQp-0gU5f5ePD_c_6elWbWnOrdD5XjhLw",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1l6aElPSGN5UVZKQ1kzWjNWemRwVWtSNFlVeEJRVFZYTjNOaFlWRnBlbVEyVlVwT1NtOWtkSFp6YnpSdFJWWXlkbTlGZW1oTGFIRlpRV1ZxTXpsb2FrSXRWM1k1Y3pKMU1WWm9OamR5TFdSMFprbFVlVkpxVGxFeVFSSVhNa0V0YW1GME0wWkdZM2x6Y1hSelVHeHZiUzAwVVdjYUlrRkVjM0k1WmxNNVNuRTFWa2hYTjA1RVExTjFjamRZY1RoR2RFRkdZbkp0WDBFIiwiZmN2IjoiMyIsImVpIjoiMkEtamF0M0ZGY3lzcXRzUGxvbS00UWciLCJxYyI6IkNpaHViM0owYUNCaGRXZDFjM1JoSUdocFoyZ2djMk5vYjI5c0lITnZkWFJvSUdOaGNtOXNhVzVoRUFCOW9wYzZQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBOb3J0aCBBdWd1c3RhLCBTQyBrbm93biBmb3I/IiwibGsiOiJHaUozYUdGMElHbHpJRzV2Y25Sb0lHRjFaM1Z6ZEdFZ2MyTWdhMjV2ZDI0Z1ptOXkiLCJicyI6ImM0V1FNUXZDTUJDRmNjM2szT21RNnVSaS13T0tkT2tnT25Sd1BtcHRnbTFPY2duQmYyOU5DeXBFSEc3N3Z2ZTRKMDVpZlpab1FURWN5VmdKZTljNXRnaVY2aVRjTkhrTlZ6SkZ0a2xTUDRNNmdEaUQ4Z3NVU21RaEVFMExWbzVIZDhnbmlCdEoxRE1vRFRXNU1hSkVRNzNTV0dSNXN2UF9MUTVXTTF1dnFvbzhES2dmd05aZFdtMFpPaHJsMkM5MXlBbFY4b2NWZVd4cUZ3ZVJSbWZhUWwxLXJwUW1xX2hLM0x5eDVlSUoiLCJpZCI6ImZjXzJBLWphdDNGRmN5c3F0c1Bsb20tNFFnXzQifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1l6aElPSGN5UVZKQ1kzWjNWemRwVWtSNFlVeEJRVFZYTjNOaFlWRnBlbVEyVlVwT1NtOWtkSFp6YnpSdFJWWXlkbTlGZW1oTGFIRlpRV1ZxTXpsb2FrSXRWM1k1Y3pKMU1WWm9OamR5TFdSMFprbFVlVkpxVGxFeVFSSVhNa0V0YW1GME0wWkdZM2x6Y1hSelVHeHZiUzAwVVdjYUlrRkVjM0k1WmxNNVNuRTFWa2hYTjA1RVExTjFjamRZY1RoR2RFRkdZbkp0WDBFIiwiZmN2IjoiMyIsImVpIjoiMkEtamF0M0ZGY3lzcXRzUGxvbS00UWciLCJxYyI6IkNpaHViM0owYUNCaGRXZDFjM1JoSUdocFoyZ2djMk5vYjI5c0lITnZkWFJvSUdOaGNtOXNhVzVoRUFCOW9wYzZQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBOb3J0aCBBdWd1c3RhLCBTQyBrbm93biBmb3I%2FIiwibGsiOiJHaUozYUdGMElHbHpJRzV2Y25Sb0lHRjFaM1Z6ZEdFZ2MyTWdhMjV2ZDI0Z1ptOXkiLCJicyI6ImM0V1FNUXZDTUJDRmNjM2szT21RNnVSaS13T0tkT2tnT25Sd1BtcHRnbTFPY2duQmYyOU5DeXBFSEc3N3Z2ZTRKMDVpZlpab1FURWN5VmdKZTljNXRnaVY2aVRjTkhrTlZ6SkZ0a2xTUDRNNmdEaUQ4Z3NVU21RaEVFMExWbzVIZDhnbmlCdEoxRE1vRFRXNU1hSkVRNzNTV0dSNXN2UF9MUTVXTTF1dnFvbzhES2dmd05aZFdtMFpPaHJsMkM5MXlBbFY4b2NWZVd4cUZ3ZVJSbWZhUWwxLXJwUW1xX2hLM0x5eDVlSUoiLCJpZCI6ImZjXzJBLWphdDNGRmN5c3F0c1Bsb20tNFFnXzQifQ%3D%3D"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Home | North Augusta High",
+   "link": "https://www.acpsd.net/NAHS",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUgHrOzAVydgILS6I7DVuIWGVgJLlz3QjXbVSeN-Or3YvrZyAoGFUA9F5ktu1NWoQTyKP47i6q09mh77dfLwWaKPOOf2diOLOSnbeR6b8xpKmyY4&ved=2ahUKEwjdkZyE6uSWAxVMlmoFHZaEL4wQFnoECEUQAQ&uoh=1",
+   "displayed_link": "https://www.acpsd.net \u203a NAHS",
+   "favicon": "https://serpapi.com/images/i/UklGRvQAAABXRUJQVlA4IOgAAAAQBQCdASocABwAPrUurVanIacnG_DgFolsAMDxAC7My6AD8-l_-_6ayBkKiucBqEkAAP74ri7A1i8DenQMmyJV3qrtIZDUZaQcbmlCppf9oVZJitPmPbERiZjpT-e_J6h4TZnkT1Y-VD4jL_LD9UZx3GF_jRwf_mm2j3MrscWOMAWTFXfe9pHR2HNxt0iNLjaL-zMJlz8JXdnBKXZX5ILlNbr3heJPE0cZ1nA_Ev0kEp6QMZQdnjWAJrqMqfnQD25lDMxf144plKjfoouvGI1_DohTLRnUeCJ1rsy6TUVF9lQ7laGL4AAA.webp",
+   "date": "Aug 27, 2026",
+   "snippet": "North Augusta High School was host to Dolly Parton in the 1970s. Aug ... Visit Us. North Augusta High2000 Knobcone Ave.North Augusta, SC ...",
+   "snippet_highlighted_words": [
+    "North Augusta High School",
+    "SC"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "Staff Directory",
+      "link": "https://www.acpsd.net/o/nahs/staff",
+      "snippet": "A Glimpse At North Augusta High School \u00b7 Administration \u00b7 Bell ..."
+     },
+     {
+      "title": "Athletics",
+      "link": "https://www.acpsd.net/o/nahs/page/athletics-home",
+      "snippet": "north augusta high school athletics schedules. Skip to content ..."
+     },
+     {
+      "title": "Administration",
+      "link": "https://www.acpsd.net/o/nahs/page/administration",
+      "snippet": "Melissa Drew began her career in education in 2011 and is ..."
+     },
+     {
+      "title": "Contact Us",
+      "link": "https://www.acpsd.net/o/nahs/page/contact-us",
+      "snippet": "Our School. A Glimpse At North Augusta High School ..."
+     },
+     {
+      "title": "Calendar",
+      "link": "https://www.acpsd.net/o/nahs/events",
+      "snippet": "A Glimpse At North Augusta High School \u00b7 Administration \u00b7 Bell ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "North Augusta High School was host to Dolly Parton in the 1970s. Aug ... Visit Us. North Augusta High2000 Knobcone Ave.North Augusta, SC ...",
+     "source_info_link": "https://www.acpsd.net/NAHS",
+     "icon": "https://serpapi.com/images/i/UklGRvQAAABXRUJQVlA4IOgAAAAQBQCdASocABwAPrUurVanIacnG_DgFolsAMDxAC7My6AD8-l_-_6ayBkKiucBqEkAAP74ri7A1i8DenQMmyJV3qrtIZDUZaQcbmlCppf9oVZJitPmPbERiZjpT-e_J6h4TZnkT1Y-VD4jL_LD9UZx3GF_jRwf_mm2j3MrscWOMAWTFXfe9pHR2HNxt0iNLjaL-zMJlz8JXdnBKXZX5ILlNbr3heJPE0cZ1nA_Ev0kEp6QMZQdnjWAJrqMqfnQD25lDMxf144plKjfoouvGI1_DohTLRnUeCJ1rsy6TUVF9lQ7laGL4AAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESUgHrOzAVydgILS6I7DVuIWGVgJLlz3QjXbVSeN-Or3YvrZyAoGFUA9F5ktu1NWoQTyKP47i6q09mh77dfLwWaKPOOf2diOLOSnbeR6b8xpKmyY4&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESUgHrOzAVydgILS6I7DVuIWGVgJLlz3QjXbVSeN-Or3YvrZyAoGFUA9F5ktu1NWoQTyKP47i6q09mh77dfLwWaKPOOf2diOLOSnbeR6b8xpKmyY4",
+   "source": "Aiken County Public Schools"
+  },
+  {
+   "position": 2,
+   "title": "North Augusta High School",
+   "link": "https://www.facebook.com/p/North-Augusta-High-School-100063524665607/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAVYWCknZhHuPEU_Wvq4bxYGfxE3UShzU_whgwnsFnccmP7cSf1EgQ97pjdd-tiXRID0kOpy2BsbmDF-kfl2-NvxL7HmLC_geToNVhniI8EDIdTaP4_JjgEzLvBP47TAQYVEKak17KGNBU3Ah_mflmYpcj13XVrSHUW&ved=2ahUKEwjdkZyE6uSWAxVMlmoFHZaEL4wQFnoECEcQAQ&uoh=1",
+   "displayed_link": "7.3K+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "snippet": "North Augusta High School vs White Knoll High School Junior Varsity Football Thursday, September 10th at 7:30 PM \u00b7 A football team runs on a field with a school ...",
+   "snippet_highlighted_words": [
+    "North Augusta High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "North Augusta High School vs White Knoll High School Junior Varsity Football Thursday, September 10th at 7:30 PM \u00b7 A football team runs on a field with a school ...",
+     "source_info_link": "https://www.facebook.com/p/North-Augusta-High-School-100063524665607/",
+     "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESfQHrOzAVYWCknZhHuPEU_Wvq4bxYGfxE3UShzU_whgwnsFnccmP7cSf1EgQ97pjdd-tiXRID0kOpy2BsbmDF-kfl2-NvxL7HmLC_geToNVhniI8EDIdTaP4_JjgEzLvBP47TAQYVEKak17KGNBU3Ah_mflmYpcj13XVrSHUW&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESfQHrOzAVYWCknZhHuPEU_Wvq4bxYGfxE3UShzU_whgwnsFnccmP7cSf1EgQ97pjdd-tiXRID0kOpy2BsbmDF-kfl2-NvxL7HmLC_geToNVhniI8EDIdTaP4_JjgEzLvBP47TAQYVEKak17KGNBU3Ah_mflmYpcj13XVrSHUW",
+   "source": "Facebook \u00b7 North Augusta High School",
+   "read_more_link": "https://www.facebook.com/p/North-Augusta-High-School-100063524665607/#:~:text=North%20Augusta%20High%20School%20vs,September%2010th%20at%207%3A30%20PM"
+  },
+  {
+   "position": 3,
+   "title": "North Augusta High School",
+   "link": "https://en.wikipedia.org/wiki/North_Augusta_High_School",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAV3Q8_mbrIsjFMDYU_jr8AI0QJSB0kPmGKMaSME7jSyIw22NgkQJAdaOYOPf4EbOmTQm0bY_9WeLBKcA084_y_bfuCHJGeLfu_4MSqp9hxEcqfeJAZ4l6OFECGPYiQFai4Xj-YcxCcfP-UPA&ved=2ahUKEwjdkZyE6uSWAxVMlmoFHZaEL4wQFnoECEIQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a North_Augusta_High_...",
+   "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+   "snippet": "North Augusta High School is a four-year public high school located in North Augusta, South Carolina. It is a part of the Aiken County Public School District.",
+   "snippet_highlighted_words": [
+    "North Augusta High School",
+    "South Carolina"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "North Augusta High School is a four-year public high school located in North Augusta, South Carolina. It is a part of the Aiken County Public School District.",
+     "source_info_link": "https://en.wikipedia.org/wiki/North_Augusta_High_School",
+     "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESbwHrOzAV3Q8_mbrIsjFMDYU_jr8AI0QJSB0kPmGKMaSME7jSyIw22NgkQJAdaOYOPf4EbOmTQm0bY_9WeLBKcA084_y_bfuCHJGeLfu_4MSqp9hxEcqfeJAZ4l6OFECGPYiQFai4Xj-YcxCcfP-UPA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESbwHrOzAV3Q8_mbrIsjFMDYU_jr8AI0QJSB0kPmGKMaSME7jSyIw22NgkQJAdaOYOPf4EbOmTQm0bY_9WeLBKcA084_y_bfuCHJGeLfu_4MSqp9hxEcqfeJAZ4l6OFECGPYiQFai4Xj-YcxCcfP-UPA",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/North_Augusta_High_School#:~:text=North%20Augusta%20High%20School%20is,Aiken%20County%20Public%20School%20District."
+  },
+  {
+   "position": 4,
+   "title": "North Augusta High School",
+   "link": "https://www.usnews.com/education/best-high-schools/south-carolina/districts/aiken-01/north-augusta-high-school-17533",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrAEB6zswFfpf5wYMy0d5yodQ97e6bF0QkHD_rcNa9RBrqEbjzqetrgWGmAUPCs00gUPZPZaJUc9_Odf2eCxYQuLX07l4krgtEPIP7AjBO25Is-bjz_-EdzHK4HfT5vjA9QY2GTTXLwNVUZYVDc3ztDK6kTFsmWNumilgOyDG0NY41_lDBWp7bqQyDM-R_Ro4i7RXAQNtuGTzGO_BNqBcu0qyowb3KHOw82Ozj3m-&ved=2ahUKEwjdkZyE6uSWAxVMlmoFHZaEL4wQFnoECEEQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a ... \u203a Aiken 01",
+   "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp",
+   "snippet": "Overview of North Augusta High School. North Augusta High School is ranked 93rd within South Carolina. Students have the opportunity to take Advanced Placement\u00ae ...",
+   "snippet_highlighted_words": [
+    "North Augusta High School",
+    "North Augusta High School",
+    "South Carolina"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Overview of North Augusta High School. North Augusta High School is ranked 93rd within South Carolina. Students have the opportunity to take Advanced Placement\u00ae ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/south-carolina/districts/aiken-01/north-augusta-high-school-17533",
+     "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESrAEB6zswFfpf5wYMy0d5yodQ97e6bF0QkHD_rcNa9RBrqEbjzqetrgWGmAUPCs00gUPZPZaJUc9_Odf2eCxYQuLX07l4krgtEPIP7AjBO25Is-bjz_-EdzHK4HfT5vjA9QY2GTTXLwNVUZYVDc3ztDK6kTFsmWNumilgOyDG0NY41_lDBWp7bqQyDM-R_Ro4i7RXAQNtuGTzGO_BNqBcu0qyowb3KHOw82Ozj3m-&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESrAEB6zswFfpf5wYMy0d5yodQ97e6bF0QkHD_rcNa9RBrqEbjzqetrgWGmAUPCs00gUPZPZaJUc9_Odf2eCxYQuLX07l4krgtEPIP7AjBO25Is-bjz_-EdzHK4HfT5vjA9QY2GTTXLwNVUZYVDc3ztDK6kTFsmWNumilgOyDG0NY41_lDBWp7bqQyDM-R_Ro4i7RXAQNtuGTzGO_BNqBcu0qyowb3KHOw82Ozj3m-",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/south-carolina/districts/aiken-01/north-augusta-high-school-17533#:~:text=Overview%20of%20North%20Augusta%20High,Advanced%20Placement%C2%AE%20coursework%20and%20exams."
+  },
+  {
+   "position": 5,
+   "title": "Education",
+   "link": "https://www.northaugustasc.gov/visitors/education",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVwBKeB0hIt9fK8JPa6RehdCF1EhJcElQqw5UDjhqJx_LbtwBCyqgM2tYiWjSkXZ9TmV9uxNtpIHzXhkw2zWjTyeYWmPg6g6f2VdB7LNwfpKso1BIZcZ0aHVal6GhwFMOYASuthQ&ved=2ahUKEwjdkZyE6uSWAxVMlmoFHZaEL4wQFnoECEoQAQ&uoh=1",
+   "displayed_link": "https://www.northaugustasc.gov \u203a visitors \u203a education",
+   "favicon": "https://serpapi.com/images/i/UklGRnoAAABXRUJQVlA4IG4AAABQAgCdASoQABAAAsBMJZAC7AYtzVbMwV1gTAAA_u3rugKw0d25iqwGllg0KpfXhThUGty7jtpeQFwZuC9EY4H3D1pSmMY73GLyq5gkSEX4sKy25PK9o9e22bFBZrXkRgxTxycPxV5IOGWXxRAAAA.webp",
+   "snippet": "North Augusta High School is a National Math and Science Initiative (NMSI) Advanced Placement Academy. It is also one of the few schools in the state to offer ...",
+   "snippet_highlighted_words": [
+    "North Augusta High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "North Augusta High School is a National Math and Science Initiative (NMSI) Advanced Placement Academy. It is also one of the few schools in the state to offer ...",
+     "source_info_link": "https://www.northaugustasc.gov/visitors/education",
+     "icon": "https://serpapi.com/images/i/UklGRnoAAABXRUJQVlA4IG4AAABQAgCdASoQABAAAsBMJZAC7AYtzVbMwV1gTAAA_u3rugKw0d25iqwGllg0KpfXhThUGty7jtpeQFwZuC9EY4H3D1pSmMY73GLyq5gkSEX4sKy25PK9o9e22bFBZrXkRgxTxycPxV5IOGWXxRAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESaQHrOzAVwBKeB0hIt9fK8JPa6RehdCF1EhJcElQqw5UDjhqJx_LbtwBCyqgM2tYiWjSkXZ9TmV9uxNtpIHzXhkw2zWjTyeYWmPg6g6f2VdB7LNwfpKso1BIZcZ0aHVal6GhwFMOYASuthQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESaQHrOzAVwBKeB0hIt9fK8JPa6RehdCF1EhJcElQqw5UDjhqJx_LbtwBCyqgM2tYiWjSkXZ9TmV9uxNtpIHzXhkw2zWjTyeYWmPg6g6f2VdB7LNwfpKso1BIZcZ0aHVal6GhwFMOYASuthQ",
+   "source": "North Augusta, SC (.gov)",
+   "read_more_link": "https://www.northaugustasc.gov/visitors/education#:~:text=North%20Augusta%20High%20School%20is,prestigious%2C%20nationally%20recognized%20Capstone%20Diploma."
+  },
+  {
+   "position": 6,
+   "title": "North Augusta High School (SC) Football",
+   "link": "https://www.maxpreps.com/sc/north-augusta/north-augusta-yellow-jackets/football/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiAEB6zswFYBLtLK619e5DsnlFH-PcmjBNNI4S701tBM0XpuzOpocWEjdPcrODEFfsenEJus7-CLq3Sg3k-0xnQS_-U9SA6U53yfOobNi-cWZ0Xy7oCBh_Tv6ZxVKl9-fE6eA3tT1iXqCifGQA9DjFvG-3eVqMutBcd-GqbNRNEKN0gHapfnKhu3p&ved=2ahUKEwjdkZyE6uSWAxVMlmoFHZaEL4wQFnoECEQQAQ&uoh=1",
+   "displayed_link": "https://www.maxpreps.com \u203a Football \u203a SC Football",
+   "favicon": "https://serpapi.com/images/i/UklGRiABAABXRUJQVlA4IBQBAACQBgCdASocABwAPtEwtFooIigoGAEAGglsAMcjXhQIMBLJPoAdLB5QCeA92iBTGskLs8r3XyB_v0YQpEDAAP72B9a-IG-P3R_UdqQnvLoZazJ3_hD6b33Zrtz20RZgJiv79VLCko7nwRuKtV_tKX5qfEnzpjwWAKeeC-Hoi40eGvSLyzF7o0Q3576t2nK2-Te2OXHxzP8JnfVwG8zf3faxGWgPLQuWGTGMoX5Uv3_f_4ujvlktm6Hp1ydL_9_LAhZUQlDz38F2gIRo1k1gl_-zBXz_J3X_mzUXtdhkfGXcvCt3-JWt1TUdYyVEimwb_iG__v19FfYkvr0Givdah3CLEq6DV_OFEpkdb5aSt_-sA7lnAAA.webp",
+   "snippet": "On Friday, Sep 4, 2026, the North Augusta Varsity Boys Football team won their North Augusta High School game against Greenwood High School by a score of 45-13.",
+   "snippet_highlighted_words": [
+    "North Augusta High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "On Friday, Sep 4, 2026, the North Augusta Varsity Boys Football team won their North Augusta High School game against Greenwood High School by a score of 45-13.",
+     "source_info_link": "https://www.maxpreps.com/sc/north-augusta/north-augusta-yellow-jackets/football/",
+     "icon": "https://serpapi.com/images/i/UklGRiABAABXRUJQVlA4IBQBAACQBgCdASocABwAPtEwtFooIigoGAEAGglsAMcjXhQIMBLJPoAdLB5QCeA92iBTGskLs8r3XyB_v0YQpEDAAP72B9a-IG-P3R_UdqQnvLoZazJ3_hD6b33Zrtz20RZgJiv79VLCko7nwRuKtV_tKX5qfEnzpjwWAKeeC-Hoi40eGvSLyzF7o0Q3576t2nK2-Te2OXHxzP8JnfVwG8zf3faxGWgPLQuWGTGMoX5Uv3_f_4ujvlktm6Hp1ydL_9_LAhZUQlDz38F2gIRo1k1gl_-zBXz_J3X_mzUXtdhkfGXcvCt3-JWt1TUdYyVEimwb_iG__v19FfYkvr0Givdah3CLEq6DV_OFEpkdb5aSt_-sA7lnAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESiAEB6zswFYBLtLK619e5DsnlFH-PcmjBNNI4S701tBM0XpuzOpocWEjdPcrODEFfsenEJus7-CLq3Sg3k-0xnQS_-U9SA6U53yfOobNi-cWZ0Xy7oCBh_Tv6ZxVKl9-fE6eA3tT1iXqCifGQA9DjFvG-3eVqMutBcd-GqbNRNEKN0gHapfnKhu3p&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESiAEB6zswFYBLtLK619e5DsnlFH-PcmjBNNI4S701tBM0XpuzOpocWEjdPcrODEFfsenEJus7-CLq3Sg3k-0xnQS_-U9SA6U53yfOobNi-cWZ0Xy7oCBh_Tv6ZxVKl9-fE6eA3tT1iXqCifGQA9DjFvG-3eVqMutBcd-GqbNRNEKN0gHapfnKhu3p",
+   "source": "MaxPreps",
+   "read_more_link": "https://www.maxpreps.com/sc/north-augusta/north-augusta-yellow-jackets/football/#:~:text=On%20Friday%2C%20Sep%204%2C%202026%2C,by%20a%20score%20of%2045%2D13."
+  },
+  {
+   "position": 7,
+   "title": "Best High Schools in North Augusta, SC",
+   "link": "https://www.homes.com/school-search/north-augusta-sc/high-schools/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESegHrOzAVZUEwyWoaXNQaG--m_wzD_ZJsLW3FP7UV9e8DJl01sK0q2ZqZTGnuXx0ZtSRbK0X8DNxVTUTQVOSatNS3dXdCy4aJrDt7HvliBHydrvzevhRAFCqrMANes3yC4Ar3StFoz-WQ_ANRO2jVqjcv5wQZTmKc0Bae&ved=2ahUKEwjdkZyE6uSWAxVMlmoFHZaEL4wQFnoECE4QAQ&uoh=1",
+   "displayed_link": "https://www.homes.com \u203a school-search \u203a high-schools",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEz_hA__hA_-gw_-gw_-hA_8gQ76fg77fg79gQ79gg78gA7-gw_2eA3-hA__hQ9hdefxAAAAD3RSTlMA5vSSp8A9GCRIUi93DdazCqoKAAAA1UlEQVQokY2S2ZKFIAxEMQFk0_z_3w5mUUCn6vYLFIdqOgnO_SgMx39oP4moXJs3K8QKfQdpYZ5Um4tEbURpM0bZVTEwxRsR9pvXCnV40YOa9kBybbZugehKeqhJkfNMGl8WhVI0it0tYSfvgwZZIJ9IEopDeC6a41qJU0-iB16bMP9qKJfADNbjo523b55RDuqFq2nCJ2Jd0gQaHwLpVMXdDbWpme8DigjWJ7DZsepusw4DHNLRMyd41W3DjrYda0Ojhyslxzr9sfR8sA-FTQT4RT_0B_pjD070ikOhAAAAAElFTkSuQmCC.png",
+   "snippet": "Reading Proficiency (High to Low). Math Proficiency (High to Low). Best High Schools in North Augusta, SC. North Augusta High School. 1/2. SC ...",
+   "snippet_highlighted_words": [
+    "SC",
+    "North Augusta High School",
+    "SC"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Reading Proficiency (High to Low). Math Proficiency (High to Low). Best High Schools in North Augusta, SC. North Augusta High School. 1/2. SC ...",
+     "source_info_link": "https://www.homes.com/school-search/north-augusta-sc/high-schools/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEz_hA__hA_-gw_-gw_-hA_8gQ76fg77fg79gQ79gg78gA7-gw_2eA3-hA__hQ9hdefxAAAAD3RSTlMA5vSSp8A9GCRIUi93DdazCqoKAAAA1UlEQVQokY2S2ZKFIAxEMQFk0_z_3w5mUUCn6vYLFIdqOgnO_SgMx39oP4moXJs3K8QKfQdpYZ5Um4tEbURpM0bZVTEwxRsR9pvXCnV40YOa9kBybbZugehKeqhJkfNMGl8WhVI0it0tYSfvgwZZIJ9IEopDeC6a41qJU0-iB16bMP9qKJfADNbjo523b55RDuqFq2nCJ2Jd0gQaHwLpVMXdDbWpme8DigjWJ7DZsepusw4DHNLRMyd41W3DjrYda0Ojhyslxzr9sfR8sA-FTQT4RT_0B_pjD070ikOhAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESegHrOzAVZUEwyWoaXNQaG--m_wzD_ZJsLW3FP7UV9e8DJl01sK0q2ZqZTGnuXx0ZtSRbK0X8DNxVTUTQVOSatNS3dXdCy4aJrDt7HvliBHydrvzevhRAFCqrMANes3yC4Ar3StFoz-WQ_ANRO2jVqjcv5wQZTmKc0Bae&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESegHrOzAVZUEwyWoaXNQaG--m_wzD_ZJsLW3FP7UV9e8DJl01sK0q2ZqZTGnuXx0ZtSRbK0X8DNxVTUTQVOSatNS3dXdCy4aJrDt7HvliBHydrvzevhRAFCqrMANes3yC4Ar3StFoz-WQ_ANRO2jVqjcv5wQZTmKc0Bae",
+   "source": "Homes.com",
+   "read_more_link": "https://www.homes.com/school-search/north-augusta-sc/high-schools/#:~:text=Best%20High%20Schools%20in%20North,SC"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "North augusta high school south carolina football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=North+augusta+high+school+south+carolina+football&sa=X&ved=2ahUKEwjdkZyE6uSWAxVMlmoFHZaEL4wQ1QJ6BAh8EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=North+augusta+high+school+south+carolina+football"
+  },
+  {
+   "block_position": 1,
+   "query": "North augusta high school south carolina tuition",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=North+augusta+high+school+south+carolina+tuition&sa=X&ved=2ahUKEwjdkZyE6uSWAxVMlmoFHZaEL4wQ1QJ6BQiCARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=North+augusta+high+school+south+carolina+tuition"
+  },
+  {
+   "block_position": 1,
+   "query": "North augusta high school south carolina yearbook",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=North+augusta+high+school+south+carolina+yearbook&sa=X&ved=2ahUKEwjdkZyE6uSWAxVMlmoFHZaEL4wQ1QJ6BQiBARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=North+augusta+high+school+south+carolina+yearbook"
+  },
+  {
+   "block_position": 1,
+   "query": "North augusta high school south carolina ranking",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=North+augusta+high+school+south+carolina+ranking&sa=X&ved=2ahUKEwjdkZyE6uSWAxVMlmoFHZaEL4wQ1QJ6BQiAARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=North+augusta+high+school+south+carolina+ranking"
+  },
+  {
+   "block_position": 1,
+   "query": "North augusta high school south carolina basketball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=North+augusta+high+school+south+carolina+basketball&sa=X&ved=2ahUKEwjdkZyE6uSWAxVMlmoFHZaEL4wQ1QJ6BAh_EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=North+augusta+high+school+south+carolina+basketball"
+  },
+  {
+   "block_position": 1,
+   "query": "North augusta high school calendar 25 26",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=North+augusta+high+school+calendar+25+26&sa=X&ved=2ahUKEwjdkZyE6uSWAxVMlmoFHZaEL4wQ1QJ6BAh-EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=North+augusta+high+school+calendar+25+26"
+  },
+  {
+   "block_position": 1,
+   "query": "North augusta high school south carolina alumni",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=North+augusta+high+school+south+carolina+alumni&sa=X&ved=2ahUKEwjdkZyE6uSWAxVMlmoFHZaEL4wQ1QJ6BAh7EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=North+augusta+high+school+south+carolina+alumni"
+  },
+  {
+   "block_position": 1,
+   "query": "North augusta high school south carolina baseball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=North+augusta+high+school+south+carolina+baseball&sa=X&ved=2ahUKEwjdkZyE6uSWAxVMlmoFHZaEL4wQ1QJ6BAh9EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=North+augusta+high+school+south+carolina+baseball"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22North+Augusta+High+School%22+South+Carolina&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=2A-jat3FFcysqtsPlom-4Qg&start=10&sa=N&sstk=AS6-VmIjG06JWMxbp2LHq7Fdfrs7SBu_AfUPyt8noFr3NGe1bgGbJEzAOSbbtAHRoltShca9e-eM-xUZVeHWnSZqvaZWEepOph1Umw&ved=2ahUKEwjdkZyE6uSWAxVMlmoFHZaEL4wQ8NMDegQIdhAM",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22North+Augusta+High+School%22+South+Carolina&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=2A-jat3FFcysqtsPlom-4Qg&start=10&sa=N&sstk=AS6-VmIjG06JWMxbp2LHq7Fdfrs7SBu_AfUPyt8noFr3NGe1bgGbJEzAOSbbtAHRoltShca9e-eM-xUZVeHWnSZqvaZWEepOph1Umw&ved=2ahUKEwjdkZyE6uSWAxVMlmoFHZaEL4wQ8tMDegQIdhAE",
+   "3": "https://www.google.com/search?q=%22North+Augusta+High+School%22+South+Carolina&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=2A-jat3FFcysqtsPlom-4Qg&start=20&sa=N&sstk=AS6-VmIjG06JWMxbp2LHq7Fdfrs7SBu_AfUPyt8noFr3NGe1bgGbJEzAOSbbtAHRoltShca9e-eM-xUZVeHWnSZqvaZWEepOph1Umw&ved=2ahUKEwjdkZyE6uSWAxVMlmoFHZaEL4wQ8tMDegQIdhAG",
+   "4": "https://www.google.com/search?q=%22North+Augusta+High+School%22+South+Carolina&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=2A-jat3FFcysqtsPlom-4Qg&start=30&sa=N&sstk=AS6-VmIjG06JWMxbp2LHq7Fdfrs7SBu_AfUPyt8noFr3NGe1bgGbJEzAOSbbtAHRoltShca9e-eM-xUZVeHWnSZqvaZWEepOph1Umw&ved=2ahUKEwjdkZyE6uSWAxVMlmoFHZaEL4wQ8tMDegQIdhAI",
+   "5": "https://www.google.com/search?q=%22North+Augusta+High+School%22+South+Carolina&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=2A-jat3FFcysqtsPlom-4Qg&start=40&sa=N&sstk=AS6-VmIjG06JWMxbp2LHq7Fdfrs7SBu_AfUPyt8noFr3NGe1bgGbJEzAOSbbtAHRoltShca9e-eM-xUZVeHWnSZqvaZWEepOph1Umw&ved=2ahUKEwjdkZyE6uSWAxVMlmoFHZaEL4wQ8tMDegQIdhAK"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22North+Augusta+High+School%22+South+Carolina&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22North+Augusta+High+School%22+South+Carolina&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22North+Augusta+High+School%22+South+Carolina&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22North+Augusta+High+School%22+South+Carolina&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22North+Augusta+High+School%22+South+Carolina&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22North+Augusta+High+School%22+South+Carolina&start=40"
+  }
+ }
+}

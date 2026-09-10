@@ -1,0 +1,431 @@
+{
+ "search_information": {
+  "query_displayed": "\"Claudia Taylor Johnson High School\" Texas",
+  "total_results": 10300,
+  "time_taken_displayed": 0.25,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "inline_videos": [
+  {
+   "position": 1,
+   "title": "Storm leaves San Antonio high school band facing trailer ...",
+   "link": "https://www.facebook.com/MySA/videos/storm-leaves-san-antonio-high-school-band-facing-trailer-equipment-repairs/931315056116497/",
+   "thumbnail": "https://serpapi.com/searches/6aa30a50c2034800c15ef1fb/images/j4bIhQjrZXMSs2pQXvHIjV9bNGDF6ZW9CC53NMnTGbQ.jpeg",
+   "channel": "MySA",
+   "duration": "0:26",
+   "platform": "Facebook",
+   "date": "1 week ago",
+   "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRkZrmb75iuolYLOwlnq5eUL88dWJyu5QX_eA"
+  },
+  {
+   "position": 2,
+   "title": "Claudia Taylor Johnson High School band trailer overturned",
+   "link": "https://www.tiktok.com/@mysanantonio/video/7680231222202633485",
+   "thumbnail": "https://serpapi.com/searches/6aa30a50c2034800c15ef1fb/images/rM5X4pr-jbdq59w9q-NWPf8GFW3YB57C71dyKYh2G5U.jpeg",
+   "channel": "mysanantonio",
+   "duration": "0:25",
+   "platform": "TikTok",
+   "date": "1 week ago"
+  },
+  {
+   "position": 3,
+   "title": "Claudia Taylor Johnson H.S. Marching Band - 2017 BOA San ...",
+   "link": "https://www.youtube.com/watch?v=AqNErTN1pWE",
+   "thumbnail": "https://serpapi.com/searches/6aa30a50c2034800c15ef1fb/images/nev8fuaz14GDuRdqWak7ieN8XMP6WcH-4RZxwFAX9H0.jpeg",
+   "channel": "Zakery Sifuentez",
+   "duration": "12:41",
+   "platform": "YouTube",
+   "date": "Sep 7, 2025",
+   "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTwE3tLSxjvwOwiLYY9afU5X-XNjcOWyXAYaw"
+  }
+ ],
+ "related_questions": [
+  {
+   "question": "Is Johnson High School in San Antonio a good school?",
+   "type": "ai_overview",
+   "page_token": "d3VYEXicHdBbbqMwFABQdTP9bGxoOiJSNBLllWigtTE28DOithMSLuA2JDz-ZgtdQ1fV1VSas4Tz7wtOXfN991kPg7lsVqtxHB-OfX8E_SD7dlVd5k6uZAXwVslm8_TrCf8-yK1_k-7zh3RJZgz3KEqxPxWdSimqZ9Hs-6J1mjchcSb2Ri6uxxsuNEBFUjRlLVkUdwb1jGMdPo7lAph0kP5h4OtoPyUCzSxzmO44EcxFonlcCoEwwUZwC16VtQ4l2g0iXK_Lc9KyHObYNkMV8hM5q0Ns0S6366sEJ2U8MZVvdrlVBlrEYyXIxLw9aAiIgoCxMGkoJDcW8UuOC0tD8sJt9Sp9CGQOkzhhEfvcZj5OaUQvpTWc_VoVWR68F7l7JcjBidVMJavJC4cotRyX0_5EMrrIM7QZiufEozsdUq-yAqxsiDLb7JitrjocPN6uU0LuD_K2te__X2__HtphYz764w_0NoyD",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=d3VYEXicHdBbbqMwFABQdTP9bGxoOiJSNBLllWigtTE28DOithMSLuA2JDz-ZgtdQ1fV1VSas4Tz7wtOXfN991kPg7lsVqtxHB-OfX8E_SD7dlVd5k6uZAXwVslm8_TrCf8-yK1_k-7zh3RJZgz3KEqxPxWdSimqZ9Hs-6J1mjchcSb2Ri6uxxsuNEBFUjRlLVkUdwb1jGMdPo7lAph0kP5h4OtoPyUCzSxzmO44EcxFonlcCoEwwUZwC16VtQ4l2g0iXK_Lc9KyHObYNkMV8hM5q0Ns0S6366sEJ2U8MZVvdrlVBlrEYyXIxLw9aAiIgoCxMGkoJDcW8UuOC0tD8sJt9Sp9CGQOkzhhEfvcZj5OaUQvpTWc_VoVWR68F7l7JcjBidVMJavJC4cotRyX0_5EMrrIM7QZiufEozsdUq-yAqxsiDLb7JitrjocPN6uU0LuD_K2te__X2__HtphYz764w_0NoyD",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlRWZHphamx4VTA1WE1raFJORlJSWjBKdlpGbEdUbVpSVXpkSk5tVmhZWEZmTVhwV2MzWnNSRjk2UjFOQlZWRTViR1E1VHprMmVVNVNlRWxNUzBwMVJscFZXa2RmWmpGRFVERmhURVYxZUcwNGMwOWhUbFl6Y0dsUGR4SVhXRkZ4YW1Gd2JrTlBkVGRwTVdVNFVEbFpSMHR2UVZVYUlrRkVjM0k1WmxOTmIxVXpjSE0xUjJKeFVWaEpZMWcwWXpoYVgwNWxjMmhZU1ZFIiwiZmN2IjoiMyIsImVpIjoiWFFxamFwbkNPdTdpMWU4UDlZR0tvQVUiLCJxYyI6IkNpaGpiR0YxWkdsaElIUmhlV3h2Y2lCcWIyaHVjMjl1SUdocFoyZ2djMk5vYjI5c0lIUmxlR0Z6RUFCOXo0RXNQdyIsInF1ZXN0aW9uIjoiSXMgSm9obnNvbiBIaWdoIFNjaG9vbCBpbiBTYW4gQW50b25pbyBhIGdvb2Qgc2Nob29sPyIsImxrIjoiY3kzSnNRa0FJQkFEd0Qyc3NvTVRQUXItaXlSRjNCOGJyNzNXeTloS1drVFdTbmlrZEZDRWd3aGVzWVRBa3ViUEJ3IiwiYnMiOiJjNDJRTVEtQ1FBeUY0M3FUTTlQYkJRZlVtYmloS3dPVE1SY2g5RlN1eHBJUV83M1ZxRUZ6Q1E2ZDJpOWYzek90V1c0RVd5WXY3Skc3aGxBY2lQa001MUZZajdYdjJEdUdSY05jUVo3TExGMUZDeWM0dmpoNmNQTGhSRGtiNHN6ZUpDWFpEdlphb3lNZHZneGgtYkZtNlR5Sy16RmdvRE9hSi1jZXJmVTNuRndsYWxjbUdQRExvM2tvd0lVQ0RuVTdFNWRVNjJfdW54S3pOSWxtX2Z0LXZMenA1QTQiLCJpZCI6ImZjX1hRcWphcG5DT3U3aTFlOFA5WUdLb0FVXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlRWZHphamx4VTA1WE1raFJORlJSWjBKdlpGbEdUbVpSVXpkSk5tVmhZWEZmTVhwV2MzWnNSRjk2UjFOQlZWRTViR1E1VHprMmVVNVNlRWxNUzBwMVJscFZXa2RmWmpGRFVERmhURVYxZUcwNGMwOWhUbFl6Y0dsUGR4SVhXRkZ4YW1Gd2JrTlBkVGRwTVdVNFVEbFpSMHR2UVZVYUlrRkVjM0k1WmxOTmIxVXpjSE0xUjJKeFVWaEpZMWcwWXpoYVgwNWxjMmhZU1ZFIiwiZmN2IjoiMyIsImVpIjoiWFFxamFwbkNPdTdpMWU4UDlZR0tvQVUiLCJxYyI6IkNpaGpiR0YxWkdsaElIUmhlV3h2Y2lCcWIyaHVjMjl1SUdocFoyZ2djMk5vYjI5c0lIUmxlR0Z6RUFCOXo0RXNQdyIsInF1ZXN0aW9uIjoiSXMgSm9obnNvbiBIaWdoIFNjaG9vbCBpbiBTYW4gQW50b25pbyBhIGdvb2Qgc2Nob29sPyIsImxrIjoiY3kzSnNRa0FJQkFEd0Qyc3NvTVRQUXItaXlSRjNCOGJyNzNXeTloS1drVFdTbmlrZEZDRWd3aGVzWVRBa3ViUEJ3IiwiYnMiOiJjNDJRTVEtQ1FBeUY0M3FUTTlQYkJRZlVtYmloS3dPVE1SY2g5RlN1eHBJUV83M1ZxRUZ6Q1E2ZDJpOWYzek90V1c0RVd5WXY3Skc3aGxBY2lQa001MUZZajdYdjJEdUdSY05jUVo3TExGMUZDeWM0dmpoNmNQTGhSRGtiNHN6ZUpDWFpEdlphb3lNZHZneGgtYkZtNlR5Sy16RmdvRE9hSi1jZXJmVTNuRndsYWxjbUdQRExvM2tvd0lVQ0RuVTdFNWRVNjJfdW54S3pOSWxtX2Z0LXZMenA1QTQiLCJpZCI6ImZjX1hRcWphcG5DT3U3aTFlOFA5WUdLb0FVXzUifQ%3D%3D"
+  },
+  {
+   "question": "What are the top high schools in San Antonio?",
+   "type": "ai_overview",
+   "page_token": "kPAO_HicHdBtbpswGABg7TL92WDoOhEpmmQSp0tmZyZ-jfGfyZgECuajKQ0f_3aFnWGn2mkm7TnC8-uPe23rv59-l8PQv69Xq3EcH4uuK9zl0XbNyrzPrV1Z41xmbL1-_vKMvl7tZne3OLpZzKHv5Tb2zlAius3vlwbxpKJjXNMn2JPpXOVeXn1DqR_KLOlBeOFO79mRtiSirQbqycCQ3lAhF0362u6l4gHegtoNJ3AfiQwPgOxkkqHJFZ0ZYk-C5ChRuor39Uydxpk7lAxkBBFiBuxybqY-ndEtkXHDFyK1K4dMlG_CJ5h7SNGA_dB-CFI6IlsaiG3OhCvGNClJDJpcBK4N6FlURZDU3FOIpanrJ-NLEKDlrsxTUOQtVfiDeyFifj1pUfKTdC9nP8Qy7l45xIutXANKHlMnj9o_jFnruHnRJ-0P3XeFP9uALSxCnPOHq71vgof_15uf12ZY97eu-Afknow8",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=kPAO_HicHdBtbpswGABg7TL92WDoOhEpmmQSp0tmZyZ-jfGfyZgECuajKQ0f_3aFnWGn2mkm7TnC8-uPe23rv59-l8PQv69Xq3EcH4uuK9zl0XbNyrzPrV1Z41xmbL1-_vKMvl7tZne3OLpZzKHv5Tb2zlAius3vlwbxpKJjXNMn2JPpXOVeXn1DqR_KLOlBeOFO79mRtiSirQbqycCQ3lAhF0362u6l4gHegtoNJ3AfiQwPgOxkkqHJFZ0ZYk-C5ChRuor39Uydxpk7lAxkBBFiBuxybqY-ndEtkXHDFyK1K4dMlG_CJ5h7SNGA_dB-CFI6IlsaiG3OhCvGNClJDJpcBK4N6FlURZDU3FOIpanrJ-NLEKDlrsxTUOQtVfiDeyFifj1pUfKTdC9nP8Qy7l45xIutXANKHlMnj9o_jFnruHnRJ-0P3XeFP9uALSxCnPOHq71vgof_15uf12ZY97eu-Afknow8",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlRWZHphamx4VTA1WE1raFJORlJSWjBKdlpGbEdUbVpSVXpkSk5tVmhZWEZmTVhwV2MzWnNSRjk2UjFOQlZWRTViR1E1VHprMmVVNVNlRWxNUzBwMVJscFZXa2RmWmpGRFVERmhURVYxZUcwNGMwOWhUbFl6Y0dsUGR4SVhXRkZ4YW1Gd2JrTlBkVGRwTVdVNFVEbFpSMHR2UVZVYUlrRkVjM0k1WmxOTmIxVXpjSE0xUjJKeFVWaEpZMWcwWXpoYVgwNWxjMmhZU1ZFIiwiZmN2IjoiMyIsImVpIjoiWFFxamFwbkNPdTdpMWU4UDlZR0tvQVUiLCJxYyI6IkNpaGpiR0YxWkdsaElIUmhlV3h2Y2lCcWIyaHVjMjl1SUdocFoyZ2djMk5vYjI5c0lIUmxlR0Z6RUFCOXo0RXNQdyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHRvcCBoaWdoIHNjaG9vbHMgaW4gU2FuIEFudG9uaW8/IiwibGsiOiJHaXgzYUdGMElHRnlaU0IwYUdVZ2RHOXdJR2hwWjJnZ2MyTm9iMjlzY3lCcGJpQnpZVzRnWVc1MGIyNXBidyIsImJzIjoiYzQyUU1RLUNRQXlGNDNxVE05UGJCUWZVbWJpaEt3T1RNUmNoOUZTdXhwSVFfNzNWcUVGekNRNmQyaTlmM3pPdFdXNEVXeVl2N0pHN2hsQWNpUGtNNTFGWWo3WHYyRHVHUmNOY1FaN0xMRjFGQ3ljNHZqaDZjUExoUkRrYjRzemVKQ1haRHZaYW95TWR2Z3hoLWJGbTZUeUstekZnb0RPYUotY2VyZlUzbkZ3bGFsY21HUERMbzNrb3dJVUNEblU3RTVkVTYyX3VueEt6TklsbV9mdC12THpwNUE0IiwiaWQiOiJmY19YUXFqYXBuQ091N2kxZThQOVlHS29BVV81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlRWZHphamx4VTA1WE1raFJORlJSWjBKdlpGbEdUbVpSVXpkSk5tVmhZWEZmTVhwV2MzWnNSRjk2UjFOQlZWRTViR1E1VHprMmVVNVNlRWxNUzBwMVJscFZXa2RmWmpGRFVERmhURVYxZUcwNGMwOWhUbFl6Y0dsUGR4SVhXRkZ4YW1Gd2JrTlBkVGRwTVdVNFVEbFpSMHR2UVZVYUlrRkVjM0k1WmxOTmIxVXpjSE0xUjJKeFVWaEpZMWcwWXpoYVgwNWxjMmhZU1ZFIiwiZmN2IjoiMyIsImVpIjoiWFFxamFwbkNPdTdpMWU4UDlZR0tvQVUiLCJxYyI6IkNpaGpiR0YxWkdsaElIUmhlV3h2Y2lCcWIyaHVjMjl1SUdocFoyZ2djMk5vYjI5c0lIUmxlR0Z6RUFCOXo0RXNQdyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHRvcCBoaWdoIHNjaG9vbHMgaW4gU2FuIEFudG9uaW8%2FIiwibGsiOiJHaXgzYUdGMElHRnlaU0IwYUdVZ2RHOXdJR2hwWjJnZ2MyTm9iMjlzY3lCcGJpQnpZVzRnWVc1MGIyNXBidyIsImJzIjoiYzQyUU1RLUNRQXlGNDNxVE05UGJCUWZVbWJpaEt3T1RNUmNoOUZTdXhwSVFfNzNWcUVGekNRNmQyaTlmM3pPdFdXNEVXeVl2N0pHN2hsQWNpUGtNNTFGWWo3WHYyRHVHUmNOY1FaN0xMRjFGQ3ljNHZqaDZjUExoUkRrYjRzemVKQ1haRHZaYW95TWR2Z3hoLWJGbTZUeUstekZnb0RPYUotY2VyZlUzbkZ3bGFsY21HUERMbzNrb3dJVUNEblU3RTVkVTYyX3VueEt6TklsbV9mdC12THpwNUE0IiwiaWQiOiJmY19YUXFqYXBuQ091N2kxZThQOVlHS29BVV81In0%3D"
+  },
+  {
+   "question": "How many kids go to Johnson High School San Antonio?",
+   "type": "ai_overview",
+   "page_token": "zia_DXicHdBtjppAGADg9DL7c2VAt9HEbIIOEtbBzsD7gvNngzMqK8OHOhXhX6_QM_RUPU2TPkd4fv0xX03199vv0truvphM-r5_Pbft2RxfVVtPivvQqIkqjDkUqlq8fX8j7ye1pA_lr27K59B1uBZOQqSfUmwSKOlu7T8S6ng4kFACAQb9E1xtdmuZFeF5TBsNePHLfd0NciBWUxh5Hthi1Nu0Kl3WSMsgcFRuBJrIMmMeEFKCrr6LqoxkhhY9rLdplDGDiW5i5JVNc68MMtTPI-XPYjO7cNecVN6xbSY-sg2ZAkYNoBECLGYYcbaB6bEOUhFGTIH4oZ3ZiLRcxZ4QMdHOFtnAQPYSOMFQxIdLcM2q2Y2Weg95cN3n_k_uzEnsVk-ZlnyHJkzcuY-i_eIgRnUxNUBnDnVUHWk7E9WdqMa_gqumkgYMzXyl6H3Q_ctJPZbey__r5eeptovu1p7_AQ3ZjZE",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=zia_DXicHdBtjppAGADg9DL7c2VAt9HEbIIOEtbBzsD7gvNngzMqK8OHOhXhX6_QM_RUPU2TPkd4fv0xX03199vv0truvphM-r5_Pbft2RxfVVtPivvQqIkqjDkUqlq8fX8j7ye1pA_lr27K59B1uBZOQqSfUmwSKOlu7T8S6ng4kFACAQb9E1xtdmuZFeF5TBsNePHLfd0NciBWUxh5Hthi1Nu0Kl3WSMsgcFRuBJrIMmMeEFKCrr6LqoxkhhY9rLdplDGDiW5i5JVNc68MMtTPI-XPYjO7cNecVN6xbSY-sg2ZAkYNoBECLGYYcbaB6bEOUhFGTIH4oZ3ZiLRcxZ4QMdHOFtnAQPYSOMFQxIdLcM2q2Y2Weg95cN3n_k_uzEnsVk-ZlnyHJkzcuY-i_eIgRnUxNUBnDnVUHWk7E9WdqMa_gqumkgYMzXyl6H3Q_ctJPZbey__r5eeptovu1p7_AQ3ZjZE",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlRWZHphamx4VTA1WE1raFJORlJSWjBKdlpGbEdUbVpSVXpkSk5tVmhZWEZmTVhwV2MzWnNSRjk2UjFOQlZWRTViR1E1VHprMmVVNVNlRWxNUzBwMVJscFZXa2RmWmpGRFVERmhURVYxZUcwNGMwOWhUbFl6Y0dsUGR4SVhXRkZ4YW1Gd2JrTlBkVGRwTVdVNFVEbFpSMHR2UVZVYUlrRkVjM0k1WmxOTmIxVXpjSE0xUjJKeFVWaEpZMWcwWXpoYVgwNWxjMmhZU1ZFIiwiZmN2IjoiMyIsImVpIjoiWFFxamFwbkNPdTdpMWU4UDlZR0tvQVUiLCJxYyI6IkNpaGpiR0YxWkdsaElIUmhlV3h2Y2lCcWIyaHVjMjl1SUdocFoyZ2djMk5vYjI5c0lIUmxlR0Z6RUFCOXo0RXNQdyIsInF1ZXN0aW9uIjoiSG93IG1hbnkga2lkcyBnbyB0byBKb2huc29uIEhpZ2ggU2Nob29sIFNhbiBBbnRvbmlvPyIsImxrIjoiY3dYQndRM0FJQXdEd0QxNGVZZE9GTFVTVGd2MkkwaW8yM1BYTG5wamhuNTgtUlM2c1l6WFZGbGdkcUp1MmdNVlFtaFo2UU0iLCJicyI6ImM0MlFNUS1DUUF5RjQzcVRNOVBiQlFmVW1iaWhLd09UTVJjaDlGU3V4cElRXzczVnFFRnpDUTZkMmk5ZjN6T3RXVzRFV3lZdjdKRzdobEFjaVBrTTUxRllqN1h2MkR1R1JjTmNRWjdMTEYxRkN5YzR2amg2Y1BMaFJEa2I0c3plSkNYWkR2WmFveU1kdmd4aC1iRm02VHlLLXpGZ29ET2FKLWNlcmZVM25Gd2xhbGNtR1BETG8za293SVVDRG5VN0U1ZFU2Ml91bnhLek5JbG1fZnQtdkx6cDVBNCIsImlkIjoiZmNfWFFxamFwbkNPdTdpMWU4UDlZR0tvQVVfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlRWZHphamx4VTA1WE1raFJORlJSWjBKdlpGbEdUbVpSVXpkSk5tVmhZWEZmTVhwV2MzWnNSRjk2UjFOQlZWRTViR1E1VHprMmVVNVNlRWxNUzBwMVJscFZXa2RmWmpGRFVERmhURVYxZUcwNGMwOWhUbFl6Y0dsUGR4SVhXRkZ4YW1Gd2JrTlBkVGRwTVdVNFVEbFpSMHR2UVZVYUlrRkVjM0k1WmxOTmIxVXpjSE0xUjJKeFVWaEpZMWcwWXpoYVgwNWxjMmhZU1ZFIiwiZmN2IjoiMyIsImVpIjoiWFFxamFwbkNPdTdpMWU4UDlZR0tvQVUiLCJxYyI6IkNpaGpiR0YxWkdsaElIUmhlV3h2Y2lCcWIyaHVjMjl1SUdocFoyZ2djMk5vYjI5c0lIUmxlR0Z6RUFCOXo0RXNQdyIsInF1ZXN0aW9uIjoiSG93IG1hbnkga2lkcyBnbyB0byBKb2huc29uIEhpZ2ggU2Nob29sIFNhbiBBbnRvbmlvPyIsImxrIjoiY3dYQndRM0FJQXdEd0QxNGVZZE9GTFVTVGd2MkkwaW8yM1BYTG5wamhuNTgtUlM2c1l6WFZGbGdkcUp1MmdNVlFtaFo2UU0iLCJicyI6ImM0MlFNUS1DUUF5RjQzcVRNOVBiQlFmVW1iaWhLd09UTVJjaDlGU3V4cElRXzczVnFFRnpDUTZkMmk5ZjN6T3RXVzRFV3lZdjdKRzdobEFjaVBrTTUxRllqN1h2MkR1R1JjTmNRWjdMTEYxRkN5YzR2amg2Y1BMaFJEa2I0c3plSkNYWkR2WmFveU1kdmd4aC1iRm02VHlLLXpGZ29ET2FKLWNlcmZVM25Gd2xhbGNtR1BETG8za293SVVDRG5VN0U1ZFU2Ml91bnhLek5JbG1fZnQtdkx6cDVBNCIsImlkIjoiZmNfWFFxamFwbkNPdTdpMWU4UDlZR0tvQVVfNSJ9"
+  },
+  {
+   "question": "Where is Johnson High School in San Antonio?",
+   "type": "ai_overview",
+   "page_token": "tYY963icHdDRTsIwFIDh-DJeCttEhYSYDFpg0ZKe9bTbbkzpGIOVdUB16p3v4lP5NBof4E--_F_fdt82P1dvtffdZTIY9H1_s3NuZ7c3xh0H-vLRmoHR1m60aSZ393fBY2Wm5HUVz06rmGPXyTkMU1EosWx6IN2FqYcREnZGRSMl-buRyRmzpNhSdkxVEkDAQk0C9te5cl4nbMm4bIsVC2qXKikMegDiT1kIsMmsLxDmBkdiI5NWHup5FiSHNOgqQ-u8tIzgwt2WBzgpLCw2yewJ_Vq34GRkJWRSlZ-QQ8i4DmGoCY1LWgJE1D63_JaRRORRWShaL9jCgm5tlcu4JXWZY0ZPeRa_8uH4T9y8F6Lma2mXaTiOJbg9R_g0B3tEHFcCvd9klCoBexbEKcdhvxWwWkuwmhRPyK8r8zaNrv9_Tl-qo590Z7f7BZN4gkE",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=tYY963icHdDRTsIwFIDh-DJeCttEhYSYDFpg0ZKe9bTbbkzpGIOVdUB16p3v4lP5NBof4E--_F_fdt82P1dvtffdZTIY9H1_s3NuZ7c3xh0H-vLRmoHR1m60aSZ393fBY2Wm5HUVz06rmGPXyTkMU1EosWx6IN2FqYcREnZGRSMl-buRyRmzpNhSdkxVEkDAQk0C9te5cl4nbMm4bIsVC2qXKikMegDiT1kIsMmsLxDmBkdiI5NWHup5FiSHNOgqQ-u8tIzgwt2WBzgpLCw2yewJ_Vq34GRkJWRSlZ-QQ8i4DmGoCY1LWgJE1D63_JaRRORRWShaL9jCgm5tlcu4JXWZY0ZPeRa_8uH4T9y8F6Lma2mXaTiOJbg9R_g0B3tEHFcCvd9klCoBexbEKcdhvxWwWkuwmhRPyK8r8zaNrv9_Tl-qo590Z7f7BZN4gkE",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlRWZHphamx4VTA1WE1raFJORlJSWjBKdlpGbEdUbVpSVXpkSk5tVmhZWEZmTVhwV2MzWnNSRjk2UjFOQlZWRTViR1E1VHprMmVVNVNlRWxNUzBwMVJscFZXa2RmWmpGRFVERmhURVYxZUcwNGMwOWhUbFl6Y0dsUGR4SVhXRkZ4YW1Gd2JrTlBkVGRwTVdVNFVEbFpSMHR2UVZVYUlrRkVjM0k1WmxOTmIxVXpjSE0xUjJKeFVWaEpZMWcwWXpoYVgwNWxjMmhZU1ZFIiwiZmN2IjoiMyIsImVpIjoiWFFxamFwbkNPdTdpMWU4UDlZR0tvQVUiLCJxYyI6IkNpaGpiR0YxWkdsaElIUmhlV3h2Y2lCcWIyaHVjMjl1SUdocFoyZ2djMk5vYjI5c0lIUmxlR0Z6RUFCOXo0RXNQdyIsInF1ZXN0aW9uIjoiV2hlcmUgaXMgSm9obnNvbiBIaWdoIFNjaG9vbCBpbiBTYW4gQW50b25pbz8iLCJsayI6IkdpdDNhR1Z5WlNCcGN5QnFiMmh1YzI5dUlHaHBaMmdnYzJOb2IyOXNJR2x1SUhOaGJpQmhiblJ2Ym1sdiIsImJzIjoiYzQyUU1RLUNRQXlGNDNxVE05UGJCUWZVbWJpaEt3T1RNUmNoOUZTdXhwSVFfNzNWcUVGekNRNmQyaTlmM3pPdFdXNEVXeVl2N0pHN2hsQWNpUGtNNTFGWWo3WHYyRHVHUmNOY1FaN0xMRjFGQ3ljNHZqaDZjUExoUkRrYjRzemVKQ1haRHZaYW95TWR2Z3hoLWJGbTZUeUstekZnb0RPYUotY2VyZlUzbkZ3bGFsY21HUERMbzNrb3dJVUNEblU3RTVkVTYyX3VueEt6TklsbV9mdC12THpwNUE0IiwiaWQiOiJmY19YUXFqYXBuQ091N2kxZThQOVlHS29BVV81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlRWZHphamx4VTA1WE1raFJORlJSWjBKdlpGbEdUbVpSVXpkSk5tVmhZWEZmTVhwV2MzWnNSRjk2UjFOQlZWRTViR1E1VHprMmVVNVNlRWxNUzBwMVJscFZXa2RmWmpGRFVERmhURVYxZUcwNGMwOWhUbFl6Y0dsUGR4SVhXRkZ4YW1Gd2JrTlBkVGRwTVdVNFVEbFpSMHR2UVZVYUlrRkVjM0k1WmxOTmIxVXpjSE0xUjJKeFVWaEpZMWcwWXpoYVgwNWxjMmhZU1ZFIiwiZmN2IjoiMyIsImVpIjoiWFFxamFwbkNPdTdpMWU4UDlZR0tvQVUiLCJxYyI6IkNpaGpiR0YxWkdsaElIUmhlV3h2Y2lCcWIyaHVjMjl1SUdocFoyZ2djMk5vYjI5c0lIUmxlR0Z6RUFCOXo0RXNQdyIsInF1ZXN0aW9uIjoiV2hlcmUgaXMgSm9obnNvbiBIaWdoIFNjaG9vbCBpbiBTYW4gQW50b25pbz8iLCJsayI6IkdpdDNhR1Z5WlNCcGN5QnFiMmh1YzI5dUlHaHBaMmdnYzJOb2IyOXNJR2x1SUhOaGJpQmhiblJ2Ym1sdiIsImJzIjoiYzQyUU1RLUNRQXlGNDNxVE05UGJCUWZVbWJpaEt3T1RNUmNoOUZTdXhwSVFfNzNWcUVGekNRNmQyaTlmM3pPdFdXNEVXeVl2N0pHN2hsQWNpUGtNNTFGWWo3WHYyRHVHUmNOY1FaN0xMRjFGQ3ljNHZqaDZjUExoUkRrYjRzemVKQ1haRHZaYW95TWR2Z3hoLWJGbTZUeUstekZnb0RPYUotY2VyZlUzbkZ3bGFsY21HUERMbzNrb3dJVUNEblU3RTVkVTYyX3VueEt6TklsbV9mdC12THpwNUE0IiwiaWQiOiJmY19YUXFqYXBuQ091N2kxZThQOVlHS29BVV81In0%3D"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Our Campus - Johnson High School - NEISD",
+   "link": "https://johnson.neisd.net/Discover-Our-Campus/About-Us/Our-Campus/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESegHrOzAVokvzhmbe91jbYFr0Nq4bvBfglWlThVxOKYFrz0RpiMhgNqI1ZMElQKl1PmOAi8y_rUundu5xRAZgaM72K1fyqBntiX1nDkrh8d_EXd5Xtg5TsrEVlBLtgKt9Pet_FaA89optMMPmzL-ttnxFltg6QS5AWJxY&ved=2ahUKEwjZ5MDn5OSWAxVucfUHHfWAAlQQFnoECA8QAQ&uoh=1",
+   "displayed_link": "https://johnson.neisd.net \u203a About-Us \u203a Our-Campus",
+   "favicon": "https://serpapi.com/images/i/UklGRjoBAABXRUJQVlA4IC4BAAAQBwCdASocABwAPtFAtFooIqgoFAEAGglkALEMinqAZ4JlH9jeAB-wHogB2bHwz9QZUzkOhzWTSWzn8EWq4Z52QAD-9gL8Ia8VsFFPMTEGmuedq41dBEo9TS4qPJenae-dWgLsM1wpd7z3ZO6DszdVZCQu5HSf2NPtwDzh92MZ2ZVO7bZx_-oav676wp237dWbXzrHPGv2sQfTv2p6-S-17G1dT0G59_9VCzNuRpV-oRySGcaRk6vOiv2jf4Q2XIRL7_C2X1IfB8W0KvrfP9Yq-ckGzdUBQ6fHvnKac6_53uMizHqJnbLP0wF7D4CyqY6xNvxM88PshqsX0VYPa3h1azk92GAWz_VCC4_IMfRkKBmOIbyFYMGIUSkvufmnG4Ijw3iwHA5Medmd5LAAAA.webp",
+   "snippet": "Welcome to Claudia Taylor Johnson High School, home of the Jaguars. At Johnson, students are encouraged to pursue excellence, embrace new challenges, and ...",
+   "snippet_highlighted_words": [
+    "Claudia Taylor Johnson High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Welcome to Claudia Taylor Johnson High School, home of the Jaguars. At Johnson, students are encouraged to pursue excellence, embrace new challenges, and ...",
+     "source_info_link": "https://johnson.neisd.net/Discover-Our-Campus/About-Us/Our-Campus/",
+     "icon": "https://serpapi.com/images/i/UklGRjoBAABXRUJQVlA4IC4BAAAQBwCdASocABwAPtFAtFooIqgoFAEAGglkALEMinqAZ4JlH9jeAB-wHogB2bHwz9QZUzkOhzWTSWzn8EWq4Z52QAD-9gL8Ia8VsFFPMTEGmuedq41dBEo9TS4qPJenae-dWgLsM1wpd7z3ZO6DszdVZCQu5HSf2NPtwDzh92MZ2ZVO7bZx_-oav676wp237dWbXzrHPGv2sQfTv2p6-S-17G1dT0G59_9VCzNuRpV-oRySGcaRk6vOiv2jf4Q2XIRL7_C2X1IfB8W0KvrfP9Yq-ckGzdUBQ6fHvnKac6_53uMizHqJnbLP0wF7D4CyqY6xNvxM88PshqsX0VYPa3h1azk92GAWz_VCC4_IMfRkKBmOIbyFYMGIUSkvufmnG4Ijw3iwHA5Medmd5LAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESegHrOzAVokvzhmbe91jbYFr0Nq4bvBfglWlThVxOKYFrz0RpiMhgNqI1ZMElQKl1PmOAi8y_rUundu5xRAZgaM72K1fyqBntiX1nDkrh8d_EXd5Xtg5TsrEVlBLtgKt9Pet_FaA89optMMPmzL-ttnxFltg6QS5AWJxY&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESegHrOzAVokvzhmbe91jbYFr0Nq4bvBfglWlThVxOKYFrz0RpiMhgNqI1ZMElQKl1PmOAi8y_rUundu5xRAZgaM72K1fyqBntiX1nDkrh8d_EXd5Xtg5TsrEVlBLtgKt9Pet_FaA89optMMPmzL-ttnxFltg6QS5AWJxY",
+   "source": "Johnson High School",
+   "read_more_link": "https://johnson.neisd.net/Discover-Our-Campus/About-Us/Our-Campus/#:~:text=Welcome%20to%20Claudia%20Taylor%20Johnson,opportunities%20that%20shape%20their%20future."
+  },
+  {
+   "position": 2,
+   "title": "Johnson High School (@johnsonneisd) \u00b7 San Antonio, Texas",
+   "link": "https://www.instagram.com/johnsonneisd/?hl=en",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZQHrOzAVHEoYa4CTfUb5ZOdxIN00UUknf02nnKRpGYDen01bSt7yCMt-47txhurz7jhOdacGY6Y_HKcSL3wcarOeRT-AVtymc5sKjCCtEOslMGTtDznaAR5MZ1qBB5_aa71JKIN3&ved=2ahUKEwjZ5MDn5OSWAxVucfUHHfWAAlQQFnoECDIQAQ&uoh=1",
+   "displayed_link": "2.8K+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+   "snippet": "2.8K+ followers \u00b7 1 following \u00b7 164 posts \u00b7 @johnsonneisd: \u201cThe official Instagram page for Claudia Taylor Johnson High School in San Antonio, Texas.\u201d",
+   "snippet_highlighted_words": [
+    "Claudia Taylor Johnson High School",
+    "Texas"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "2.8K+ followers \u00b7 1 following \u00b7 164 posts \u00b7 @johnsonneisd: \u201cThe official Instagram page for Claudia Taylor Johnson High School in San Antonio, Texas\n.\u201d",
+     "source_info_link": "https://www.instagram.com/johnsonneisd/?hl=en",
+     "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESZQHrOzAVHEoYa4CTfUb5ZOdxIN00UUknf02nnKRpGYDen01bSt7yCMt-47txhurz7jhOdacGY6Y_HKcSL3wcarOeRT-AVtymc5sKjCCtEOslMGTtDznaAR5MZ1qBB5_aa71JKIN3&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESZQHrOzAVHEoYa4CTfUb5ZOdxIN00UUknf02nnKRpGYDen01bSt7yCMt-47txhurz7jhOdacGY6Y_HKcSL3wcarOeRT-AVtymc5sKjCCtEOslMGTtDznaAR5MZ1qBB5_aa71JKIN3",
+   "source": "Instagram \u00b7 johnsonneisd"
+  },
+  {
+   "position": 3,
+   "title": "Claudia Taylor Johnson Band",
+   "link": "https://www.johnsonjaguarband.com/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWgHrOzAVtUP7-T2Fo2svNdypDjWoCTdAOYAC92WVKTqwSNIdQt2DBmr92b1EMzWc4XifMU6dFIDn1gaLAvxrAJiPkQh_CveYMQG4olKfMvPtFQj7ZVuBxLuPXA&ved=2ahUKEwjZ5MDn5OSWAxVucfUHHfWAAlQQFnoECCwQAQ&uoh=1",
+   "displayed_link": "https://www.johnsonjaguarband.com",
+   "favicon": "https://serpapi.com/images/i/UklGRqQAAABXRUJQVlA4IJgAAACwBACdASocABwAPrkurlcnIacnG_DgFwlAGUP4AVyedpCcI5yDmtoY2puXgUAYAP7-wp8jXZU3HCjPcNr1k-j1eePWEf0_wcQSluGPv-1e5M-aH-rj8p_KFJu28KbAvoe2Uc8LV44sF__-QToOFoNlXMfusdpcJLJ_jfQAcaCExB1INVAL8w1wQ18rBFgOVvjsAqEVQQAAAA.webp",
+   "snippet": "Home of the award-winning Claudia Taylor Johnson High School Marching Band with resources for parents, students and alumni.",
+   "snippet_highlighted_words": [
+    "Claudia Taylor Johnson High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Home of the award-winning Claudia Taylor Johnson High School Marching Band with resources for parents, students and alumni.",
+     "source_info_link": "https://www.johnsonjaguarband.com/",
+     "icon": "https://serpapi.com/images/i/UklGRqQAAABXRUJQVlA4IJgAAACwBACdASocABwAPrkurlcnIacnG_DgFwlAGUP4AVyedpCcI5yDmtoY2puXgUAYAP7-wp8jXZU3HCjPcNr1k-j1eePWEf0_wcQSluGPv-1e5M-aH-rj8p_KFJu28KbAvoe2Uc8LV44sF__-QToOFoNlXMfusdpcJLJ_jfQAcaCExB1INVAL8w1wQ18rBFgOVvjsAqEVQQAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESWgHrOzAVtUP7-T2Fo2svNdypDjWoCTdAOYAC92WVKTqwSNIdQt2DBmr92b1EMzWc4XifMU6dFIDn1gaLAvxrAJiPkQh_CveYMQG4olKfMvPtFQj7ZVuBxLuPXA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESWgHrOzAVtUP7-T2Fo2svNdypDjWoCTdAOYAC92WVKTqwSNIdQt2DBmr92b1EMzWc4XifMU6dFIDn1gaLAvxrAJiPkQh_CveYMQG4olKfMvPtFQj7ZVuBxLuPXA",
+   "source": "Claudia Taylor Johnson Band"
+  },
+  {
+   "position": 4,
+   "title": "Claudia Taylor Johnson High School - Texas",
+   "link": "https://www.donorschoose.org/schools/texas/north-east-independent-school-district/johnson-high-school/96479",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESowEB6zswFenZFz_-hODWgJhVdcy5Q0Gg99YAgbkdkk-gQunWd_NrOJiK33YAvyUvkOTH5mI3vG7EyHuw2hsiPtE6AVpAeSutzcl2e1bnfWCq3SsskrSPEANC_SSXy-cM_YFdprvPIrcHTgULeMzLx6R0IuMMITGi-FIs8aE_tAtAvSDv5L-6dvCf2j6QTSCcNHjrlcyXIdBydPQiSepev3YjCj90&ved=2ahUKEwjZ5MDn5OSWAxVucfUHHfWAAlQQFnoECDEQAQ&uoh=1",
+   "displayed_link": "https://www.donorschoose.org \u203a schools \u203a texas \u203a johns...",
+   "favicon": "https://serpapi.com/images/i/UklGRswAAABXRUJQVlA4IMAAAABwBQCdASocABwAPtEwtFooIigoGAEAGglsAKknND9QgUiCtSxixOFp4uhGPS57r1rBvQAAAP78Ruvp_RopI31agF2kTcvpn_nJpqDkB-JZ3L4TnmXfH8Lj7_7aH_7LAv_qWkLImNPY960ex9CxAdN4Rj2bYpPBjMs4lAfwcelVvNLkNVmPcrR_CPQWyeuMExXrAK1CRpFOK2_rpU32_y9RFVHtRr1D17PWVgxOgSGl1SdGJuoFHhfsjXVLLo5igAA.webp",
+   "snippet": "Claudia Taylor Johnson High School is an urban public school in San Antonio, Texas that is part of North East Independent School District.",
+   "snippet_highlighted_words": [
+    "Claudia Taylor Johnson High School",
+    "Texas"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Claudia Taylor Johnson High School is an urban public school in San Antonio, Texas that is part of North East Independent School District.",
+     "source_info_link": "https://www.donorschoose.org/schools/texas/north-east-independent-school-district/johnson-high-school/96479",
+     "icon": "https://serpapi.com/images/i/UklGRswAAABXRUJQVlA4IMAAAABwBQCdASocABwAPtEwtFooIigoGAEAGglsAKknND9QgUiCtSxixOFp4uhGPS57r1rBvQAAAP78Ruvp_RopI31agF2kTcvpn_nJpqDkB-JZ3L4TnmXfH8Lj7_7aH_7LAv_qWkLImNPY960ex9CxAdN4Rj2bYpPBjMs4lAfwcelVvNLkNVmPcrR_CPQWyeuMExXrAK1CRpFOK2_rpU32_y9RFVHtRr1D17PWVgxOgSGl1SdGJuoFHhfsjXVLLo5igAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESowEB6zswFenZFz_-hODWgJhVdcy5Q0Gg99YAgbkdkk-gQunWd_NrOJiK33YAvyUvkOTH5mI3vG7EyHuw2hsiPtE6AVpAeSutzcl2e1bnfWCq3SsskrSPEANC_SSXy-cM_YFdprvPIrcHTgULeMzLx6R0IuMMITGi-FIs8aE_tAtAvSDv5L-6dvCf2j6QTSCcNHjrlcyXIdBydPQiSepev3YjCj90&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESowEB6zswFenZFz_-hODWgJhVdcy5Q0Gg99YAgbkdkk-gQunWd_NrOJiK33YAvyUvkOTH5mI3vG7EyHuw2hsiPtE6AVpAeSutzcl2e1bnfWCq3SsskrSPEANC_SSXy-cM_YFdprvPIrcHTgULeMzLx6R0IuMMITGi-FIs8aE_tAtAvSDv5L-6dvCf2j6QTSCcNHjrlcyXIdBydPQiSepev3YjCj90",
+   "source": "DonorsChoose",
+   "read_more_link": "https://www.donorschoose.org/schools/texas/north-east-independent-school-district/johnson-high-school/96479#:~:text=Claudia%20Taylor%20Johnson%20High%20School,North%20East%20Independent%20School%20District."
+  },
+  {
+   "position": 5,
+   "title": "CLAUDIA TAYLOR JOHNSON HIGH SCHOOL",
+   "link": "https://www.yelp.com/biz/claudia-taylor-johnson-high-school-san-antonio",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfwHrOzAVg2w9fmQbv4f0I2AbRhrPJFp8iu5Q-wkPMw6ebCCM4didYA23Wtr_IW2bzAMkrg_Giak_4UfJxQ1rv8a7qeHgumm3IyRxZhRw7Uw3mV4-NEvc9DsPB1-GpAWM7rxcZOXTd2zFYTquC8N32ikM6HRv_KV80YDQO-M5hLc&ved=2ahUKEwjZ5MDn5OSWAxVucfUHHfWAAlQQFnoECC4QAQ&uoh=1",
+   "displayed_link": "https://www.yelp.com \u203a ... \u203a Elementary Schools",
+   "favicon": "https://serpapi.com/images/i/UklGRrABAABXRUJQVlA4IKQBAAAQCgCdASogACAAPrkurlcnIacnG_DgFwlsAJ0y7PyVoDbX_pnpgH-d6gDn0fY38jPAArVNoCrAlaPcgw9_NjrSLYDCki6HiaAYVj36NR_DgRtjmp6VzqLnAAD-9-_HVtEfZf1k5Fu5sOhI2730sfPBf_CG_gY7IjdRHgorclQN_UG5FGoT7nVAd5YwzrWsxH6TLxXCUq25cpJOT9z4h4CPS6djcg5y73xYO-MEdL5cmcD11oqlxpeUGrqvbq4UPXtKdespQXJb7V__FwiO42L4KCCpbG2JTSjKGoiWQ0R_KVZ3BS_P7vCXle1a3EM-Jy_Wd1KLIP7ksgtn7CFrwo3uYnAuucwyBN7n99OZNEeORetd5CcQppI2BuvU9UHgrzSFfAr9K9bl1C3aK0jdaqBhzHMfSa2nmKdWaae9fbEZIn9rcXQM_vzXw35X-i18LrAcA4uanHTpWKV416dVDFlmH6zJvcyipDEO-BFNQSfuLsAoa1S8UxXymJGxhbWVTBjsCAgl1zi98k2jrESorHzHlvvRHIUVkuNO4hqk0bPO5cfAAAA.webp",
+   "snippet": "23203 Bulverde Rd. San Antonio, TX 78259. Directions \u00b7 (210) 356-0400. Call Now \u00b7 Hours. What time does Claudia Taylor Johnson High School open? What time does ...",
+   "snippet_highlighted_words": [
+    "TX",
+    "Claudia Taylor Johnson High School"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 3.5,
+      "reviews": 11
+     },
+     "extensions": [
+      "3.5(11)"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "23203 Bulverde Rd. San Antonio, TX 78259. Directions \u00b7 (210) 356-0400. Call Now \u00b7 Hours. What time does Claudia Taylor Johnson High School open? What time does ...",
+     "source_info_link": "https://www.yelp.com/biz/claudia-taylor-johnson-high-school-san-antonio",
+     "icon": "https://serpapi.com/images/i/UklGRrABAABXRUJQVlA4IKQBAAAQCgCdASogACAAPrkurlcnIacnG_DgFwlsAJ0y7PyVoDbX_pnpgH-d6gDn0fY38jPAArVNoCrAlaPcgw9_NjrSLYDCki6HiaAYVj36NR_DgRtjmp6VzqLnAAD-9-_HVtEfZf1k5Fu5sOhI2730sfPBf_CG_gY7IjdRHgorclQN_UG5FGoT7nVAd5YwzrWsxH6TLxXCUq25cpJOT9z4h4CPS6djcg5y73xYO-MEdL5cmcD11oqlxpeUGrqvbq4UPXtKdespQXJb7V__FwiO42L4KCCpbG2JTSjKGoiWQ0R_KVZ3BS_P7vCXle1a3EM-Jy_Wd1KLIP7ksgtn7CFrwo3uYnAuucwyBN7n99OZNEeORetd5CcQppI2BuvU9UHgrzSFfAr9K9bl1C3aK0jdaqBhzHMfSa2nmKdWaae9fbEZIn9rcXQM_vzXw35X-i18LrAcA4uanHTpWKV416dVDFlmH6zJvcyipDEO-BFNQSfuLsAoa1S8UxXymJGxhbWVTBjsCAgl1zi98k2jrESorHzHlvvRHIUVkuNO4hqk0bPO5cfAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESfwHrOzAVg2w9fmQbv4f0I2AbRhrPJFp8iu5Q-wkPMw6ebCCM4didYA23Wtr_IW2bzAMkrg_Giak_4UfJxQ1rv8a7qeHgumm3IyRxZhRw7Uw3mV4-NEvc9DsPB1-GpAWM7rxcZOXTd2zFYTquC8N32ikM6HRv_KV80YDQO-M5hLc&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESfwHrOzAVg2w9fmQbv4f0I2AbRhrPJFp8iu5Q-wkPMw6ebCCM4didYA23Wtr_IW2bzAMkrg_Giak_4UfJxQ1rv8a7qeHgumm3IyRxZhRw7Uw3mV4-NEvc9DsPB1-GpAWM7rxcZOXTd2zFYTquC8N32ikM6HRv_KV80YDQO-M5hLc",
+   "source": "Yelp",
+   "read_more_link": "https://www.yelp.com/biz/claudia-taylor-johnson-high-school-san-antonio#:~:text=23203%20Bulverde%20Rd,Directions&text=(210)%20356%2D0400,Call%20Now&text=Hours"
+  },
+  {
+   "position": 6,
+   "title": "Claudia Taylor Johnson High School Transcripts",
+   "link": "https://www.parchment.com/c/college/high-school-35764-Claudia-Taylor-Johnson-High-School.html",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlQEB6zswFTbNo3AMQ0pHiteUITUu_5rwtpxTs09DOZe9M5tW-YQAwlS0NAqO6Q8-2Xh3BhxddL3-n3p9OTe9mNZhD1G2uKSxsk3B58EJ0uXIyM1IR4i0vZ0W_-MX0V2m3QYg1NIhtSQ33GnMoKNFVowkProe_Gd_Dg13v_dl3q-pfEPRduFcuwjV9JGoiO-GZzaNmV_Hzg&ved=2ahUKEwjZ5MDn5OSWAxVucfUHHfWAAlQQFnoECC8QAQ&uoh=1",
+   "displayed_link": "https://www.parchment.com \u203a college \u203a high-school-35...",
+   "favicon": "https://serpapi.com/images/i/UklGRi4BAABXRUJQVlA4ICIBAABwBwCdASocABwAPtEutFooIagoGAEAGglsAJ05QTSvhCqCuhXjG4A_5iyAj6km7jcnWbSlezgVdtMIbI8f85vL900MAAD-_p1GM8qz_w1D3dl3BAE7e30LF_UX9kvQNrJjZc8Gfr9TrvD7Pr6Rmt2f5fMm95zVcwu021RciicV2h-NfyMLEP0-gy17js2MTjWLxZn0xvrUd4mzkh_sIXN23jgeNtUAGMeIWcYRHaboCuaIQq8z0f4q3LRPqvPt44jS6hisOA8TI0b91PvJOpgsJsb6yKzJ0yhEpBgzSaq_WzS98AWK7zsnyDa2BdpIH1tiBzFVXZSdOKZoCtgVNKvbZrxPFTDL5Y6aqrgpZAFvQ2c4q5VrIFo502p1idrd92AAAA.webp",
+   "snippet": "Order your Claudia Taylor Johnson High School transcripts through Parchment. In one place, request transcripts, store them securely and send official ...",
+   "snippet_highlighted_words": [
+    "Claudia Taylor Johnson High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Order your Claudia Taylor Johnson High School transcripts through Parchment. In one place, request transcripts, store them securely and send official ...",
+     "source_info_link": "https://www.parchment.com/c/college/high-school-35764-Claudia-Taylor-Johnson-High-School.html",
+     "icon": "https://serpapi.com/images/i/UklGRi4BAABXRUJQVlA4ICIBAABwBwCdASocABwAPtEutFooIagoGAEAGglsAJ05QTSvhCqCuhXjG4A_5iyAj6km7jcnWbSlezgVdtMIbI8f85vL900MAAD-_p1GM8qz_w1D3dl3BAE7e30LF_UX9kvQNrJjZc8Gfr9TrvD7Pr6Rmt2f5fMm95zVcwu021RciicV2h-NfyMLEP0-gy17js2MTjWLxZn0xvrUd4mzkh_sIXN23jgeNtUAGMeIWcYRHaboCuaIQq8z0f4q3LRPqvPt44jS6hisOA8TI0b91PvJOpgsJsb6yKzJ0yhEpBgzSaq_WzS98AWK7zsnyDa2BdpIH1tiBzFVXZSdOKZoCtgVNKvbZrxPFTDL5Y6aqrgpZAFvQ2c4q5VrIFo502p1idrd92AAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESlQEB6zswFTbNo3AMQ0pHiteUITUu_5rwtpxTs09DOZe9M5tW-YQAwlS0NAqO6Q8-2Xh3BhxddL3-n3p9OTe9mNZhD1G2uKSxsk3B58EJ0uXIyM1IR4i0vZ0W_-MX0V2m3QYg1NIhtSQ33GnMoKNFVowkProe_Gd_Dg13v_dl3q-pfEPRduFcuwjV9JGoiO-GZzaNmV_Hzg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESlQEB6zswFTbNo3AMQ0pHiteUITUu_5rwtpxTs09DOZe9M5tW-YQAwlS0NAqO6Q8-2Xh3BhxddL3-n3p9OTe9mNZhD1G2uKSxsk3B58EJ0uXIyM1IR4i0vZ0W_-MX0V2m3QYg1NIhtSQ33GnMoKNFVowkProe_Gd_Dg13v_dl3q-pfEPRduFcuwjV9JGoiO-GZzaNmV_Hzg",
+   "source": "Parchment"
+  },
+  {
+   "position": 7,
+   "title": "SHANE JOHNSON's Men's Basketball Recruiting Profile",
+   "link": "https://www.ncsasports.org/mens-basketball-recruiting/texas/san-antonio/claudia-taylor-johnson-high-school/shane-johnson36",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESsgEB6zswFXcsQea4PP5yJdQRHwaNhMOzQoReozRHddVugHCEkEny-RuKfOpVxqOh45IoXArjUXF2vpBwawXyYhvWikh2SbEDvOLBS4OOKg35NFb1HJw6DA1o9yAN2FYIKJ1rCtYB9KbQkwkzU_938iaWEyjlGCw3A_9nFIWjuAvbezNEetHvW_OUjgfI2pSTJlSKgdDz_ghUfPvZ7r2rXvbnl53HiNOAwbVH-wrwHQ7ZRw1q&ved=2ahUKEwjZ5MDn5OSWAxVucfUHHfWAAlQQFnoECDAQAQ&uoh=1",
+   "displayed_link": "https://www.ncsasports.org \u203a texas \u203a shane-johnson36",
+   "favicon": "https://serpapi.com/images/i/UklGRhYBAABXRUJQVlA4IAoBAAAQBgCdASocABwAPtEwtFooIigoGAEAGglsALElQQoMJ27JlUCRiIAsQZcqVnlJe8eYHEC03f30HggA_v6UM9vMfPxR-k43xdLCzSthfsw8gPjfrGvcNh3Xrpa4D_7T-yEJplkfhyreT8ktCx5bLQvoGwoJPiTBn1zCvs5c-dPVT2k71IwGzEagO-WFGSuao1Gumppq7bLkh9RKlD1I4FrVfIkEzwXFKHijZB7qVc83c_xbC64V2j5_59Ptz9Ytji2hZHk1fIIItovZYFznnYJXOXUnxGHmxcHM3749n1CZZckHjdL5-aTKD18bWO7hSVAZYY_bh3mkpy3bRwf2d_-WrMC8GRUf8AAAAA.webp",
+   "snippet": "Evaluate SHANE JOHNSON's men's basketball recruiting profile. Learn how this Claudia Taylor Johnson High School student is connecting with coaches in TX and ...",
+   "snippet_highlighted_words": [
+    "Claudia Taylor Johnson High School",
+    "TX"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Evaluate SHANE JOHNSON's men's basketball recruiting profile. Learn how this Claudia Taylor Johnson High School student is connecting with coaches in TX and ...",
+     "source_info_link": "https://www.ncsasports.org/mens-basketball-recruiting/texas/san-antonio/claudia-taylor-johnson-high-school/shane-johnson36",
+     "icon": "https://serpapi.com/images/i/UklGRhYBAABXRUJQVlA4IAoBAAAQBgCdASocABwAPtEwtFooIigoGAEAGglsALElQQoMJ27JlUCRiIAsQZcqVnlJe8eYHEC03f30HggA_v6UM9vMfPxR-k43xdLCzSthfsw8gPjfrGvcNh3Xrpa4D_7T-yEJplkfhyreT8ktCx5bLQvoGwoJPiTBn1zCvs5c-dPVT2k71IwGzEagO-WFGSuao1Gumppq7bLkh9RKlD1I4FrVfIkEzwXFKHijZB7qVc83c_xbC64V2j5_59Ptz9Ytji2hZHk1fIIItovZYFznnYJXOXUnxGHmxcHM3749n1CZZckHjdL5-aTKD18bWO7hSVAZYY_bh3mkpy3bRwf2d_-WrMC8GRUf8AAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESsgEB6zswFXcsQea4PP5yJdQRHwaNhMOzQoReozRHddVugHCEkEny-RuKfOpVxqOh45IoXArjUXF2vpBwawXyYhvWikh2SbEDvOLBS4OOKg35NFb1HJw6DA1o9yAN2FYIKJ1rCtYB9KbQkwkzU_938iaWEyjlGCw3A_9nFIWjuAvbezNEetHvW_OUjgfI2pSTJlSKgdDz_ghUfPvZ7r2rXvbnl53HiNOAwbVH-wrwHQ7ZRw1q&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESsgEB6zswFXcsQea4PP5yJdQRHwaNhMOzQoReozRHddVugHCEkEny-RuKfOpVxqOh45IoXArjUXF2vpBwawXyYhvWikh2SbEDvOLBS4OOKg35NFb1HJw6DA1o9yAN2FYIKJ1rCtYB9KbQkwkzU_938iaWEyjlGCw3A_9nFIWjuAvbezNEetHvW_OUjgfI2pSTJlSKgdDz_ghUfPvZ7r2rXvbnl53HiNOAwbVH-wrwHQ7ZRw1q",
+   "source": "NCSA"
+  },
+  {
+   "position": 8,
+   "title": "In action: Claudia Taylor Johnson HS with \"Applause\"",
+   "link": "https://www.facebook.com/WGIsportofthearts/posts/in-action-claudia-taylor-johnson-hs-with-applause/1539761631529125/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrAEB6zswFfPGjfSRMAjh1zDiFghxqNxXnPFA7HxzVQnkVpIn8XV-B6QZ7NtVsg2PdYNLYFSoFFWhDMAUoCughDR88BDeH9o7zsU9KUHkPmZJ0yiPmWWrNZ8nvuQ58TsGF3esX_N0jBQWqk-JrEmt6BbVyAzc47JvMANfFy-YW2k8JalGrIAikVVETF8b7hbcfesVgLyDLcbepiMOb4s81zQlOeswIpMTy10PihvX&ved=2ahUKEwjZ5MDn5OSWAxVucfUHHfWAAlQQFnoECDMQAQ&uoh=1",
+   "displayed_link": "10+ reactions \u00b7 2 days ago",
+   "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "snippet": "Congratulations to the Claudia Taylor Johnson High School Band on advancing to the 6A UIL Area Competition on October 25! Your hard work, ...",
+   "snippet_highlighted_words": [
+    "Claudia Taylor Johnson High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Congratulations to the Claudia Taylor Johnson High School Band on advancing to the 6A UIL Area Competition on October 25! Your hard work, ...",
+     "source_info_link": "https://www.facebook.com/WGIsportofthearts/posts/in-action-claudia-taylor-johnson-hs-with-applause/1539761631529125/",
+     "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESrAEB6zswFfPGjfSRMAjh1zDiFghxqNxXnPFA7HxzVQnkVpIn8XV-B6QZ7NtVsg2PdYNLYFSoFFWhDMAUoCughDR88BDeH9o7zsU9KUHkPmZJ0yiPmWWrNZ8nvuQ58TsGF3esX_N0jBQWqk-JrEmt6BbVyAzc47JvMANfFy-YW2k8JalGrIAikVVETF8b7hbcfesVgLyDLcbepiMOb4s81zQlOeswIpMTy10PihvX&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESrAEB6zswFfPGjfSRMAjh1zDiFghxqNxXnPFA7HxzVQnkVpIn8XV-B6QZ7NtVsg2PdYNLYFSoFFWhDMAUoCughDR88BDeH9o7zsU9KUHkPmZJ0yiPmWWrNZ8nvuQ58TsGF3esX_N0jBQWqk-JrEmt6BbVyAzc47JvMANfFy-YW2k8JalGrIAikVVETF8b7hbcfesVgLyDLcbepiMOb4s81zQlOeswIpMTy10PihvX",
+   "source": "Facebook \u00b7 WGI Sport of the Arts",
+   "read_more_link": "https://www.facebook.com/WGIsportofthearts/posts/in-action-claudia-taylor-johnson-hs-with-applause/1539761631529125/#:~:text=Congratulations%20to%20the%20Claudia%20Taylor,earned%20you%20this%20next%20step."
+  },
+  {
+   "position": 9,
+   "title": "Claudia Taylor Johnson High School \u2013 JROTC heading to Drill ...",
+   "link": "https://usarmyjrotc.army.mil/claudia-taylor-johnson-high-school-jrotc-heading-to-drill-nationals/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmQEB6zswFQ6apvLloD0_XWw63vDBCAC8F9JZw875QCfyR1X4vhm0iHjXg_sliSdkvsYgPr8irfgc3mLgdWht6SDQMTkoKhgJAtG5c8idZDw0EMsJVqX7MgZCDrdpdgkP1VMhK6uNcSh9u8koSV-L-MykrV53er7q6kdz2TE88rjVDzVlaj56FVBfxI15lcfk0bcZZ0XkNsxQFMs&ved=2ahUKEwjZ5MDn5OSWAxVucfUHHfWAAlQQFnoECC0QAQ&uoh=1",
+   "displayed_link": "https://usarmyjrotc.army.mil \u203a claudia-taylor-johnson-h...",
+   "favicon": "https://serpapi.com/images/i/UklGRqYBAABXRUJQVlA4IJoBAAAwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0v1qQP4BdgH6AewB-oHWXeUBdnqQFAB7X_or2BOaAFxYI0e4fqsnG7SLIt-l9RSm5ot36juJAAAP72DQCqpXHL9lMIQ6SCCmVrWakjPVvrbY5MlJXoXfYDqP_FnUX4eV17VqG9vAC1S1MnTNnY_0qhVKlnsg6uxZ2IvoIzbgMFS168xnorin6fcy95DZSkdx9N_ILZjyMQJsGTQixtgI-eEIqJb7O2nCO1JX3F5uQjHxbhmwN4Rr9yP1Xf-ti17R-bLM-8J_LzI9VNWRu85_xRc1g5WzJJwe0CTWUji7-GlRwvHf_Z18Otrr3vuDRrhl48S9iYRvyL6cDOgLYI9F-FEivZ_p2fe_Toqnxoc6myYMBlmqFg99yhlS5V6-wL4Z9GgbKy40VcPtP9nvWFAc3gngV6UI6ljmi1WKLq31fd9TePxrhkVVdrPfal2_N22PPP5Pe2YY7twH7h5z5sXd777T-o39bx-h14j43ygpXGZw_XTg5MzfmdNe_eOAAAAA.webp",
+   "snippet": "Claudia Taylor Johnson High School from San Antonio, TX competed at the annual 5th Brigade Drill Championship on February 24, 2025. The Johnson Liberty ...",
+   "snippet_highlighted_words": [
+    "Claudia Taylor Johnson High School",
+    "TX"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Claudia Taylor Johnson High School from San Antonio, TX competed at the annual 5th Brigade Drill Championship on February 24, 2025. The Johnson Liberty ...",
+     "source_info_link": "https://usarmyjrotc.army.mil/claudia-taylor-johnson-high-school-jrotc-heading-to-drill-nationals/",
+     "icon": "https://serpapi.com/images/i/UklGRqYBAABXRUJQVlA4IJoBAAAwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0v1qQP4BdgH6AewB-oHWXeUBdnqQFAB7X_or2BOaAFxYI0e4fqsnG7SLIt-l9RSm5ot36juJAAAP72DQCqpXHL9lMIQ6SCCmVrWakjPVvrbY5MlJXoXfYDqP_FnUX4eV17VqG9vAC1S1MnTNnY_0qhVKlnsg6uxZ2IvoIzbgMFS168xnorin6fcy95DZSkdx9N_ILZjyMQJsGTQixtgI-eEIqJb7O2nCO1JX3F5uQjHxbhmwN4Rr9yP1Xf-ti17R-bLM-8J_LzI9VNWRu85_xRc1g5WzJJwe0CTWUji7-GlRwvHf_Z18Otrr3vuDRrhl48S9iYRvyL6cDOgLYI9F-FEivZ_p2fe_Toqnxoc6myYMBlmqFg99yhlS5V6-wL4Z9GgbKy40VcPtP9nvWFAc3gngV6UI6ljmi1WKLq31fd9TePxrhkVVdrPfal2_N22PPP5Pe2YY7twH7h5z5sXd777T-o39bx-h14j43ygpXGZw_XTg5MzfmdNe_eOAAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESmQEB6zswFQ6apvLloD0_XWw63vDBCAC8F9JZw875QCfyR1X4vhm0iHjXg_sliSdkvsYgPr8irfgc3mLgdWht6SDQMTkoKhgJAtG5c8idZDw0EMsJVqX7MgZCDrdpdgkP1VMhK6uNcSh9u8koSV-L-MykrV53er7q6kdz2TE88rjVDzVlaj56FVBfxI15lcfk0bcZZ0XkNsxQFMs&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESmQEB6zswFQ6apvLloD0_XWw63vDBCAC8F9JZw875QCfyR1X4vhm0iHjXg_sliSdkvsYgPr8irfgc3mLgdWht6SDQMTkoKhgJAtG5c8idZDw0EMsJVqX7MgZCDrdpdgkP1VMhK6uNcSh9u8koSV-L-MykrV53er7q6kdz2TE88rjVDzVlaj56FVBfxI15lcfk0bcZZ0XkNsxQFMs",
+   "source": "usarmyjrotc (.mil)"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Lady Bird'' Johnson High School",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnthwUPG04g8Rq6E28gWldKpLntu-A:1789069917966&q=Lady+Bird%27%27+Johnson+High+School&sa=X&ved=2ahUKEwjZ5MDn5OSWAxVucfUHHfWAAlQQ1QJ6BAgrEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Lady+Bird%27%27+Johnson+High+School"
+  },
+  {
+   "block_position": 1,
+   "query": "Lady bird johnson high school photos",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnthwUPG04g8Rq6E28gWldKpLntu-A:1789069917966&q=Lady+bird+johnson+high+school+photos&sa=X&ved=2ahUKEwjZ5MDn5OSWAxVucfUHHfWAAlQQ1QJ6BAhJEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Lady+bird+johnson+high+school+photos"
+  },
+  {
+   "block_position": 1,
+   "query": "Claudia taylor Johnson High School map",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnthwUPG04g8Rq6E28gWldKpLntu-A:1789069917966&q=Claudia+taylor+Johnson+High+School+map&sa=X&ved=2ahUKEwjZ5MDn5OSWAxVucfUHHfWAAlQQ1QJ6BAhKEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Claudia+taylor+Johnson+High+School+map"
+  },
+  {
+   "block_position": 1,
+   "query": "Johnson High School football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnthwUPG04g8Rq6E28gWldKpLntu-A:1789069917966&q=Johnson+High+School+football&sa=X&ved=2ahUKEwjZ5MDn5OSWAxVucfUHHfWAAlQQ1QJ6BAhLEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Johnson+High+School+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Johnson High School San Antonio",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnthwUPG04g8Rq6E28gWldKpLntu-A:1789069917966&q=Johnson+High+School+San+Antonio&sa=X&ved=2ahUKEwjZ5MDn5OSWAxVucfUHHfWAAlQQ1QJ6BAhHEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Johnson+High+School+San+Antonio"
+  },
+  {
+   "block_position": 1,
+   "query": "Claudia taylor johnson high school transcript request",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnthwUPG04g8Rq6E28gWldKpLntu-A:1789069917966&q=Claudia+taylor+johnson+high+school+transcript+request&sa=X&ved=2ahUKEwjZ5MDn5OSWAxVucfUHHfWAAlQQ1QJ6BAg9EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Claudia+taylor+johnson+high+school+transcript+request"
+  },
+  {
+   "block_position": 1,
+   "query": "Claudia Taylor Johnson high School band",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnthwUPG04g8Rq6E28gWldKpLntu-A:1789069917966&q=Claudia+Taylor+Johnson+high+School+band&sa=X&ved=2ahUKEwjZ5MDn5OSWAxVucfUHHfWAAlQQ1QJ6BAg1EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Claudia+Taylor+Johnson+high+School+band"
+  },
+  {
+   "block_position": 1,
+   "query": "Johnson High school Buda",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnthwUPG04g8Rq6E28gWldKpLntu-A:1789069917966&q=Johnson+High+school+Buda&sa=X&ved=2ahUKEwjZ5MDn5OSWAxVucfUHHfWAAlQQ1QJ6BAg0EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Johnson+High+school+Buda"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Claudia+Taylor+Johnson+High+School%22+Texas&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnthwUPG04g8Rq6E28gWldKpLntu-A:1789069917966&ei=XQqjapnCOu7i1e8P9YGKoAU&start=10&sa=N&sstk=AS6-VmKf6uVlZh-TV1QcIHFlXeJaVVYJOqkL3OIZg8pULdz01eNBE3pevxA07pcwomA_4xWAWlE36Of9XCSrgkO_06XCGEBLoR0iSw&ved=2ahUKEwjZ5MDn5OSWAxVucfUHHfWAAlQQ8NMDegQIUhAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Claudia+Taylor+Johnson+High+School%22+Texas&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnthwUPG04g8Rq6E28gWldKpLntu-A:1789069917966&ei=XQqjapnCOu7i1e8P9YGKoAU&start=10&sa=N&sstk=AS6-VmKf6uVlZh-TV1QcIHFlXeJaVVYJOqkL3OIZg8pULdz01eNBE3pevxA07pcwomA_4xWAWlE36Of9XCSrgkO_06XCGEBLoR0iSw&ved=2ahUKEwjZ5MDn5OSWAxVucfUHHfWAAlQQ8tMDegQIUhAE",
+   "3": "https://www.google.com/search?q=%22Claudia+Taylor+Johnson+High+School%22+Texas&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnthwUPG04g8Rq6E28gWldKpLntu-A:1789069917966&ei=XQqjapnCOu7i1e8P9YGKoAU&start=20&sa=N&sstk=AS6-VmKf6uVlZh-TV1QcIHFlXeJaVVYJOqkL3OIZg8pULdz01eNBE3pevxA07pcwomA_4xWAWlE36Of9XCSrgkO_06XCGEBLoR0iSw&ved=2ahUKEwjZ5MDn5OSWAxVucfUHHfWAAlQQ8tMDegQIUhAG",
+   "4": "https://www.google.com/search?q=%22Claudia+Taylor+Johnson+High+School%22+Texas&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnthwUPG04g8Rq6E28gWldKpLntu-A:1789069917966&ei=XQqjapnCOu7i1e8P9YGKoAU&start=30&sa=N&sstk=AS6-VmKf6uVlZh-TV1QcIHFlXeJaVVYJOqkL3OIZg8pULdz01eNBE3pevxA07pcwomA_4xWAWlE36Of9XCSrgkO_06XCGEBLoR0iSw&ved=2ahUKEwjZ5MDn5OSWAxVucfUHHfWAAlQQ8tMDegQIUhAI",
+   "5": "https://www.google.com/search?q=%22Claudia+Taylor+Johnson+High+School%22+Texas&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnthwUPG04g8Rq6E28gWldKpLntu-A:1789069917966&ei=XQqjapnCOu7i1e8P9YGKoAU&start=40&sa=N&sstk=AS6-VmKf6uVlZh-TV1QcIHFlXeJaVVYJOqkL3OIZg8pULdz01eNBE3pevxA07pcwomA_4xWAWlE36Of9XCSrgkO_06XCGEBLoR0iSw&ved=2ahUKEwjZ5MDn5OSWAxVucfUHHfWAAlQQ8tMDegQIUhAK",
+   "6": "https://www.google.com/search?q=%22Claudia+Taylor+Johnson+High+School%22+Texas&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnthwUPG04g8Rq6E28gWldKpLntu-A:1789069917966&ei=XQqjapnCOu7i1e8P9YGKoAU&start=50&sa=N&sstk=AS6-VmKf6uVlZh-TV1QcIHFlXeJaVVYJOqkL3OIZg8pULdz01eNBE3pevxA07pcwomA_4xWAWlE36Of9XCSrgkO_06XCGEBLoR0iSw&ved=2ahUKEwjZ5MDn5OSWAxVucfUHHfWAAlQQ8tMDegQIUhAM",
+   "7": "https://www.google.com/search?q=%22Claudia+Taylor+Johnson+High+School%22+Texas&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnthwUPG04g8Rq6E28gWldKpLntu-A:1789069917966&ei=XQqjapnCOu7i1e8P9YGKoAU&start=60&sa=N&sstk=AS6-VmKf6uVlZh-TV1QcIHFlXeJaVVYJOqkL3OIZg8pULdz01eNBE3pevxA07pcwomA_4xWAWlE36Of9XCSrgkO_06XCGEBLoR0iSw&ved=2ahUKEwjZ5MDn5OSWAxVucfUHHfWAAlQQ8tMDegQIUhAO",
+   "8": "https://www.google.com/search?q=%22Claudia+Taylor+Johnson+High+School%22+Texas&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnthwUPG04g8Rq6E28gWldKpLntu-A:1789069917966&ei=XQqjapnCOu7i1e8P9YGKoAU&start=70&sa=N&sstk=AS6-VmKf6uVlZh-TV1QcIHFlXeJaVVYJOqkL3OIZg8pULdz01eNBE3pevxA07pcwomA_4xWAWlE36Of9XCSrgkO_06XCGEBLoR0iSw&ved=2ahUKEwjZ5MDn5OSWAxVucfUHHfWAAlQQ8tMDegQIUhAQ",
+   "9": "https://www.google.com/search?q=%22Claudia+Taylor+Johnson+High+School%22+Texas&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnthwUPG04g8Rq6E28gWldKpLntu-A:1789069917966&ei=XQqjapnCOu7i1e8P9YGKoAU&start=80&sa=N&sstk=AS6-VmKf6uVlZh-TV1QcIHFlXeJaVVYJOqkL3OIZg8pULdz01eNBE3pevxA07pcwomA_4xWAWlE36Of9XCSrgkO_06XCGEBLoR0iSw&ved=2ahUKEwjZ5MDn5OSWAxVucfUHHfWAAlQQ8tMDegQIUhAS",
+   "10": "https://www.google.com/search?q=%22Claudia+Taylor+Johnson+High+School%22+Texas&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnthwUPG04g8Rq6E28gWldKpLntu-A:1789069917966&ei=XQqjapnCOu7i1e8P9YGKoAU&start=90&sa=N&sstk=AS6-VmKf6uVlZh-TV1QcIHFlXeJaVVYJOqkL3OIZg8pULdz01eNBE3pevxA07pcwomA_4xWAWlE36Of9XCSrgkO_06XCGEBLoR0iSw&ved=2ahUKEwjZ5MDn5OSWAxVucfUHHfWAAlQQ8tMDegQIUhAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Claudia+Taylor+Johnson+High+School%22+Texas&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Claudia+Taylor+Johnson+High+School%22+Texas&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Claudia+Taylor+Johnson+High+School%22+Texas&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Claudia+Taylor+Johnson+High+School%22+Texas&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Claudia+Taylor+Johnson+High+School%22+Texas&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Claudia+Taylor+Johnson+High+School%22+Texas&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Claudia+Taylor+Johnson+High+School%22+Texas&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Claudia+Taylor+Johnson+High+School%22+Texas&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Claudia+Taylor+Johnson+High+School%22+Texas&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Claudia+Taylor+Johnson+High+School%22+Texas&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Claudia+Taylor+Johnson+High+School%22+Texas&start=90"
+  }
+ }
+}

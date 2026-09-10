@@ -1,0 +1,555 @@
+{
+ "search_information": {
+  "query_displayed": "\"Robert E. Lee High School\" Texas",
+  "total_results": 94,
+  "time_taken_displayed": 0.31,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Robert E. Lee High School",
+  "type": "Public school in Baytown, Texas",
+  "entity_type": "local_nav",
+  "kgmid": "/m/02vrfvy",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/02vrfvy&hl=en-US&q=Robert+E.+Lee+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F02vrfvy&q=Robert+E.+Lee+High+School",
+  "place_id": "ChIJrerhcnBeP4YROfKcD6M2Bmo",
+  "website": "https://rel.gccisd.net/",
+  "description": "Robert E. Lee High School is a public high school in Baytown, Texas, that serves grades 9 through 12. It was opened as a segregated school, and named after Confederate Army commander Robert E. Lee. Lee is one of four high schools in the Goose Creek Consolidated Independent School District.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa311dcb9dbc4816ed61662/images/vhrlKz4KEoesuDyEW-OMXLK9g3-qGkWtwsymlaaT-Bw.webp",
+   "link": "https://www.google.com/maps/place/Robert+E.+Lee+High+School/data=!4m2!3m1!1s0x0:0x6a0636a30f9cf239?sa=X&ved=2ahUKEwjn_K786-SWAxVcimMGHZKACHkQ_BJ6BAgQEAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Robert_E._Lee_High_School_(Baytown,_Texas)"
+  },
+  "address": "1809 Market St, Baytown, TX 77520",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvceUObGQZhSmjsgTQpifjr1y7JUQ:1789071840761&q=robert+e.+lee+high+school+baytown,+texas+address&ludocid=7639853891850138169&sa=X&ved=2ahUKEwjn_K786-SWAxVcimMGHZKACHkQ6BN6BAggEAI"
+   }
+  ],
+  "founded": "1928",
+  "colors": "Maroon, Gray & White",
+  "colors_links": [
+   {
+    "text": "Maroon",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvceUObGQZhSmjsgTQpifjr1y7JUQ:1789071840761&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yQqQkSOq9FlgbjGSBRiM0u6DsLn8XF-0ZSSbaeilutS0oQIITwWKCsmNS7SVeoPF3rfw-rvSSjdr-ViytawkIeLPDEzWxy1Mrtq1YxRs3vwiLyLn7SnnZV8bMCn-LizXxc_bkZI-LxX6V1k-9ppdr6VKrKN-lTk6wCZ4fnl-R4q4ynZG3DR2JYSrO3Gxt1WuwdL5idc%3D&sa=X&ved=2ahUKEwjn_K786-SWAxVcimMGHZKACHkQmxN6BAgqEAI"
+   },
+   {
+    "text": "Gray & White",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvceUObGQZhSmjsgTQpifjr1y7JUQ:1789071840761&q=&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW670g-npyMgiSL-iJGFel978KSE4iSWEosmJAJm6V2fWI2lTvLso8qhi5OCZIMl36Gz1zi9ZcEZpsKdTnAEwMMoSFFA6ItpiavV21Fd-H6FoIthRAoFKbhexNzPUAszZyeAV4HRE0KCiAOnFW8xCiNFOmxnOUQE6d5EeYguXje0aplsAdBVNq8l9RW7kIP2PxoyNDgA5M%3D&sa=X&ved=2ahUKEwjn_K786-SWAxVcimMGHZKACHkQmxN6BAgqEAM"
+   }
+  ],
+  "school_type": "State school",
+  "school_type_links": [
+   {
+    "text": "State school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvceUObGQZhSmjsgTQpifjr1y7JUQ:1789071840761&q=State+school&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ybGtCxI0H8z2nV80srIO5hjA927tepoHmJk9M6M5uqHxNQbRQk_J_MjBlbzfNpYBOMMbGGKc22KXVaUugkCMNKnpwrpwR4its9REbHswD89_kW2MP70nMc5pYE2MiBeGxkVH7-H0eMUQw0aaLRVsjuUdILsP&sa=X&ved=2ahUKEwjn_K786-SWAxVcimMGHZKACHkQmxN6BAglEAI"
+   }
+  ],
+  "district": "Goose Creek Consolidated Independent School District",
+  "district_links": [
+   {
+    "text": "Goose Creek Consolidated Independent School District",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvceUObGQZhSmjsgTQpifjr1y7JUQ:1789071840761&q=Goose+Creek+Consolidated+Independent+School+District&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yYRJgvasrwXD-CD9SD8ZGUhe2pYIZIDruX787YCPLgwBRh4DIoIA1qj8ppeGxeJ5OtyS19WAooOlBsvcZkCp5nCFpceR4CMub9LdZ-uAvwwJtLQ9W0uBP0Ef-xHurgqS6BKbXYY3MRDmmKjJAge9cTc8xObwWdg7akRzyzovgTUaTc3Ia5v7ug7yV0_yJOC-yqL4HOMZglYJT1xUS7T7xOUULYtJ&sa=X&ved=2ahUKEwjn_K786-SWAxVcimMGHZKACHkQmxN6BAgoEAI"
+   }
+  ],
+  "phone": "(281) 420-4535",
+  "raw_hours": "Closed \u00b7 Opens 6 - 50 AM Fri",
+  "hours": {
+   "thursday": {
+    "opens": "6:50\u202fAM",
+    "closes": "2:50\u202fPM"
+   },
+   "friday": {
+    "opens": "6:50\u202fAM",
+    "closes": "2:50\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "6:50\u202fAM",
+    "closes": "2:50\u202fPM"
+   },
+   "tuesday": {
+    "opens": "6:50\u202fAM",
+    "closes": "2:50\u202fPM"
+   },
+   "wednesday": {
+    "opens": "6:50\u202fAM",
+    "closes": "2:50\u202fPM"
+   }
+  },
+  "people_also_search_for": [
+   {
+    "name": "Ross S. Sterling High School",
+    "image": "https://serpapi.com/searches/6aa311dcb9dbc4816ed61662/images/vhrlKz4KEoesuDyEW-OMXJn91XKMenGCkmLWj_t-6CNrb7R0oGL0yIVe1mTjahNc.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvceUObGQZhSmjsgTQpifjr1y7JUQ:1789071840761&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW677TWP4xcgRrcZhlHKFMYIfgyneiNOokvNheo65dSqbhLjqAEcXrSGxK-270pDx-4pi37Ml_eTTN_NAtOKzQtVjzGNW7HkDYI8ocR8vsUDfjG5fNW97VS0XYkmg360mOrGxmpal2a0ETGqfA59N_KpbmubXbqOP2GsYo4kjG3MgkrWyhH3XSk7OSnvCGeY4WBPLujcLyPWO7mQKe1iSo80GgdNYYkK-qEtVU_IHaybrzUrRYgUAJh1p0qRf2C_b-mWWAm4l46o6-7ZCG7VR17mZ32e5jnxw4tCdVN4qd9sXNsOFD3uQ%3D%3D&q=Sterling+High+School+(Baytown,+Texas)&sa=X&ved=2ahUKEwjn_K786-SWAxVcimMGHZKACHkQs9oBKAB6BAgeEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Sterling+High+School+%28Baytown%2C+Texas%29&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW677TWP4xcgRrcZhlHKFMYIfgyneiNOokvNheo65dSqbhLjqAEcXrSGxK-270pDx-4pi37Ml_eTTN_NAtOKzQtVjzGNW7HkDYI8ocR8vsUDfjG5fNW97VS0XYkmg360mOrGxmpal2a0ETGqfA59N_KpbmubXbqOP2GsYo4kjG3MgkrWyhH3XSk7OSnvCGeY4WBPLujcLyPWO7mQKe1iSo80GgdNYYkK-qEtVU_IHaybrzUrRYgUAJh1p0qRf2C_b-mWWAm4l46o6-7ZCG7VR17mZ32e5jnxw4tCdVN4qd9sXNsOFD3uQ%3D%3D"
+   },
+   {
+    "name": "Goose Creek Consolidated Independent School District",
+    "image": "https://serpapi.com/searches/6aa311dcb9dbc4816ed61662/images/vhrlKz4KEoesuDyEW-OMXJn91XKMenGCkmLWj_t-6COlHeWkiLeN34x2f69BrJmw.png",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvceUObGQZhSmjsgTQpifjr1y7JUQ:1789071840761&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yYRJgvasrwXD-CD9SD8ZGUhe2pYIZIDruX787YCPLgwBRh4DIoIA1qj8ppeGxeJ5Oj6M78qYcTaUf6YHvbR46VFt0ztGpWiY4LyrkpiedCfL0G6uFPLUAABy4OALpEXKCFKjboW0n-ByVPMkrmXoxmG7oB2iLKxEtlSH4fqYloGjsMY3RISLaaXbBYlRdE9aeZIddhcc5o0ZuI0G6k2Bq2E2BQn5maqTscgwkIHCdmuRFtmSKeTjmjw8d1F8Ahfnmm_OFETLe60Vq6ureUqbLC_DuVKZcmjpbXp_-NtJLJOGQ-kUKBLabd-NGiYqdo6mATNdoXM%3D&q=Goose+Creek+Consolidated+Independent+School+District&sa=X&ved=2ahUKEwjn_K786-SWAxVcimMGHZKACHkQs9oBKAB6BAgeEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Goose+Creek+Consolidated+Independent+School+District&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yYRJgvasrwXD-CD9SD8ZGUhe2pYIZIDruX787YCPLgwBRh4DIoIA1qj8ppeGxeJ5Oj6M78qYcTaUf6YHvbR46VFt0ztGpWiY4LyrkpiedCfL0G6uFPLUAABy4OALpEXKCFKjboW0n-ByVPMkrmXoxmG7oB2iLKxEtlSH4fqYloGjsMY3RISLaaXbBYlRdE9aeZIddhcc5o0ZuI0G6k2Bq2E2BQn5maqTscgwkIHCdmuRFtmSKeTjmjw8d1F8Ahfnmm_OFETLe60Vq6ureUqbLC_DuVKZcmjpbXp_-NtJLJOGQ-kUKBLabd-NGiYqdo6mATNdoXM%3D"
+   },
+   {
+    "name": "IMPACT Early College High School",
+    "image": "https://serpapi.com/searches/6aa311dcb9dbc4816ed61662/images/vhrlKz4KEoesuDyEW-OMXJn91XKMenGCkmLWj_t-6CPsYK4agTBzKbDRqUQhX4nG.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvceUObGQZhSmjsgTQpifjr1y7JUQ:1789071840761&si=APenkKllX05q7xl66dAosm6nb1iuMgV7Bv8meTZS-zIzIS3OM5cOa981b_Vr_jJ5EZS3J-DxHAtVvt7x8LPNRt9hxmxLlQmDncErxpORU_TSzad6a-NMOHceG9S5YEsbMBoF6kjwW6JNF9T2iOuMGrXsZln3DEWmKbKCn7mmIyBuJfOHGdmYfsiwAvnTovmit1TqL_xncwkURx5vazaHK9jh0nGQIxgR3StXBzFxHrZyeFeeLraWGmduT-lY8YF5lWmXSRw3jLwdasjpcqR1DQdUJN3tvqaf9WYTy0RQKgqvKW7TeGBQqp7XQtcW0a13tEaIBoSMJ0G5pn_eNgRFLXnIf8_sX-tmZg%3D%3D&q=IMPACT+Early+College+High+School&sa=X&ved=2ahUKEwjn_K786-SWAxVcimMGHZKACHkQs9oBKAB6BAgeEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=IMPACT+Early+College+High+School&si=APenkKllX05q7xl66dAosm6nb1iuMgV7Bv8meTZS-zIzIS3OM5cOa981b_Vr_jJ5EZS3J-DxHAtVvt7x8LPNRt9hxmxLlQmDncErxpORU_TSzad6a-NMOHceG9S5YEsbMBoF6kjwW6JNF9T2iOuMGrXsZln3DEWmKbKCn7mmIyBuJfOHGdmYfsiwAvnTovmit1TqL_xncwkURx5vazaHK9jh0nGQIxgR3StXBzFxHrZyeFeeLraWGmduT-lY8YF5lWmXSRw3jLwdasjpcqR1DQdUJN3tvqaf9WYTy0RQKgqvKW7TeGBQqp7XQtcW0a13tEaIBoSMJ0G5pn_eNgRFLXnIf8_sX-tmZg%3D%3D"
+   },
+   {
+    "name": "Baytown Junior School",
+    "image": "https://serpapi.com/searches/6aa311dcb9dbc4816ed61662/images/vhrlKz4KEoesuDyEW-OMXJn91XKMenGCkmLWj_t-6CPr2WiLmxljaFrUG8xsKm7V.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvceUObGQZhSmjsgTQpifjr1y7JUQ:1789071840761&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67x7f7ikDgpr_G_SSTzUlnNSviaVDuQIPZ0kxG_jvDFIeK1yZnP0LXN96P-yOOzm-thGxWJNJ_Fgj1V0bzW-uAhOcRGltpo_1cnS0Ou-Zh4TU1H0RViKsJ2DMORQk3eIrKULi-5-5LG_4YnyZgCvlUmScD4pie8kr_lyNBbqlpHhOthTtfv9giwiqQUycOm1bs6G7nZykwvNfO7vXeO9bDS74rJGDJzgS5LEE9YQg0WO7w7mgnPp3BxOMs24qEJbfn_OytByiARMA0koe7AirfS8DTgE5&q=Baytown+Junior+High+School&sa=X&ved=2ahUKEwjn_K786-SWAxVcimMGHZKACHkQs9oBKAB6BAgeEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Baytown+Junior+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67x7f7ikDgpr_G_SSTzUlnNSviaVDuQIPZ0kxG_jvDFIeK1yZnP0LXN96P-yOOzm-thGxWJNJ_Fgj1V0bzW-uAhOcRGltpo_1cnS0Ou-Zh4TU1H0RViKsJ2DMORQk3eIrKULi-5-5LG_4YnyZgCvlUmScD4pie8kr_lyNBbqlpHhOthTtfv9giwiqQUycOm1bs6G7nZykwvNfO7vXeO9bDS74rJGDJzgS5LEE9YQg0WO7w7mgnPp3BxOMs24qEJbfn_OytByiARMA0koe7AirfS8DTgE5"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvceUObGQZhSmjsgTQpifjr1y7JUQ:1789071840761&q=Robert+E.+Lee+High+School+(Baytown,+Texas)&stick=H4sIAAAAAAAAAONgFuLSz9U3MCorSiurVEJiawkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axKoVlJ-UWlSi4Kqn4JOaquCRmZ6hEJyckZ-fo6DhlFhZkl-ep6MQklqRWKy5g5XxFpskwxuHisBcvqbOJeGGh1i1F22OSAq2SQ_7fhwAzOfGzZIAAAA&sa=X&ved=2ahUKEwjn_K786-SWAxVcimMGHZKACHkQzO0BKAR6BAgeEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLSz9U3MCorSiurVEJiawkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axKoVlJ-UWlSi4Kqn4JOaquCRmZ6hEJyckZ-fo6DhlFhZkl-ep6MQklqRWKy5g5XxFpskwxuHisBcvqbOJeGGh1i1F22OSAq2SQ_7fhwAzOfGzZIAAAA",
+  "profiles": [
+   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/baytownleeganders/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Robert+E.+Lee+High+School%22+Texas",
+    "image": "https://serpapi.com/searches/6aa311dcb9dbc4816ed61662/images/vhrlKz4KEoesuDyEW-OMXMdVHZiXNmV6FW_GJEUhW07vdM5swxbA2J79ID030W3w.png"
+   },
+   {
+    "name": "X (Twitter)",
+    "link": "https://twitter.com/rel_ganders",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Robert+E.+Lee+High+School%22+Texas",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAABhUlEQVR4AczOA6xcARCF4X_us23btuLUQR3WZlhbQW3bto2gtm3b2J3GN4tY74uHh3okOi42Nj4AAUDwTvDEhisABCOAEAzYTBh0bN-lc5d0QgAhHPqX4Y4pkd367Zc-xMcXCPDg8TPwxeQH724Uj9N95GJ4pnHxby1xgCmV3v-GsFb7k0Iee7UjaQgmIYe9v9O4-wUKWaATyMPAViwvr1NnOQWDdTV5CHYSaKWLmaGDyvU4mTgQcllracaFr-9uk-yLM8k8fAJff0IUTghRVFu3M1ynkYk4nchiqqU3Ry05RDibMMhjtj6Ht3dJxVk_l1G64cspOusychBsCWm01WNM0jFs0sbEYUtIIuTXNco588OLh09JxE6wweuXEAvfL9PQus3-iU80N34KCaQyUOcxTTuSjEmMRI5rS9JwIZfD1t7ceo34YIpnuQ4nGwP8XXlq_fJZd9jE8KBHC5IwAELJ7dWrZ6fOuNhkgFgAEEIAwA1MQkw0AgDC_wnKycrKSQ2iPAkAVyNzq8rxicIAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/BaytownLeeHS/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Robert+E.+Lee+High+School%22+Texas",
+    "image": "https://serpapi.com/searches/6aa311dcb9dbc4816ed61662/images/vhrlKz4KEoesuDyEW-OMXE3nQmcGOmc2aHCq1Myl-4wtoMppH4ICvw55eRnfAPuN.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "How many Robert E. Lee high schools are there in Texas?",
+   "type": "ai_overview",
+   "page_token": "EvdlSHicHdBNbqMwAEBhzWW6bDApHSVSVJUGizKNOzbYBjYjsEkcsMGETPnZ9Qo9w5xqTtOq67f63vs_fW6b_z8-1PVqh-1qNY7j7anrTrq6FZ1ZFcPcipUotC4L0Wzvf96Dh6PYBW_Cf7oIH1Nr2Z44Mfcm2RIvS4UnG9JjN1dJiCBztSdg5_EE1pVRqEjZMwnGiTCL4kX9feGyy9t8SBYEUWpfDgDPOUXPSZtNpG5mBmVf1WrBZhrp3neFbtblWi2c5xkJo5oGwD9ATZmDXdKKhTXqwlKJhLPJUiBfcfs4C8YGCeyBcHBkbTAnTgQk0xGn5C7m-SXXJxdrmNBan0uTAQz0UDZiToFVh2D0ULPZx3TyZfgICncDAyUc3Mg-S5lO6ORUjPWSAvzVwiLVfjZ1Z0zJImptGFT6y_k7MexXZYglBvWvoY0yw3jswqIMI5qPN0fxtlvffL_e_Tma69ZeutMnfyKPsw",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=EvdlSHicHdBNbqMwAEBhzWW6bDApHSVSVJUGizKNOzbYBjYjsEkcsMGETPnZ9Qo9w5xqTtOq67f63vs_fW6b_z8-1PVqh-1qNY7j7anrTrq6FZ1ZFcPcipUotC4L0Wzvf96Dh6PYBW_Cf7oIH1Nr2Z44Mfcm2RIvS4UnG9JjN1dJiCBztSdg5_EE1pVRqEjZMwnGiTCL4kX9feGyy9t8SBYEUWpfDgDPOUXPSZtNpG5mBmVf1WrBZhrp3neFbtblWi2c5xkJo5oGwD9ATZmDXdKKhTXqwlKJhLPJUiBfcfs4C8YGCeyBcHBkbTAnTgQk0xGn5C7m-SXXJxdrmNBan0uTAQz0UDZiToFVh2D0ULPZx3TyZfgICncDAyUc3Mg-S5lO6ORUjPWSAvzVwiLVfjZ1Z0zJImptGFT6y_k7MexXZYglBvWvoY0yw3jswqIMI5qPN0fxtlvffL_e_Tma69ZeutMnfyKPsw",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpqVlNhMmhoU2tnd1JqRTFibXN4ZG5WVlZEaHdUWEIxY0hWRGFWQkNOeTAwYXpSc1VYbEJkVWRRWTFGdlpWcGtPVzVQU2tnMFYwaDRkMHhPVDBONmJVWktRMjFHTlc5SFoxTjJTRGxGY0hsWlQwZHNSV3N0Um13M2R4SVhORUpIYW1GMVpVMU1kSGxWYW5WTlVHdHZSMmw1UVdNYUlrRkVjM0k1WmxKamJISk5iakJNUWsxTmRGWnRRVFI0TldKdmRqSmFOVTlqVjBFIiwiZmN2IjoiMyIsImVpIjoiNEJHamF1ZU1MdHlVanVNUGtvR2l5QWMiLCJxYyI6IkNoNXliMkpsY25RZ1pTQnNaV1VnYUdsbmFDQnpZMmh2YjJ3Z2RHVjRZWE1RQUgwSXJoWV8iLCJxdWVzdGlvbiI6IkhvdyBtYW55IFJvYmVydCBFLiBMZWUgaGlnaCBzY2hvb2xzIGFyZSB0aGVyZSBpbiBUZXhhcz8iLCJsayI6IkdqVm9iM2NnYldGdWVTQnliMkpsY25RZ1pTQnNaV1VnYUdsbmFDQnpZMmh2YjJ4eklHRnlaU0IwYUdWeVpTQnBiaUIwWlhoaGN3IiwiYnMiOiJjNDNRTVF2Q01CQ0dZVnd6T1hlNlVSeEVBcUlJRWdTRkNrNVcwUFZzanlaUUU4Z0YydjU3VTYwZ1FzVWwwX2Z3SGhGZUxGTlh3eDF0Q3lkM0l4OWdQNE1qRVdoVGF1QmNPMWN4b0NjSW11SnJMSnlwUVZaeW1TejBtX29YSmFoLXl0QkpjUlhUaTI2aFJ2NUtwaDNNbmhBOFdieFRvZVEwbWRUOWVxanlIb3RHckFfYzV6aVlxZ0w4a1lnSFpXaGhhNE96eGltNVRsYm1XdzhtSS1hSThZVUZpODNPRkhfSElOZG95X2duZ2FFN1hVbVp6QWRiSDZIbnV0ZmowUU0iLCJpZCI6ImZjXzRCR2phdWVNTHR5VWp1TVBrb0dpeUFjXzEifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpqVlNhMmhoU2tnd1JqRTFibXN4ZG5WVlZEaHdUWEIxY0hWRGFWQkNOeTAwYXpSc1VYbEJkVWRRWTFGdlpWcGtPVzVQU2tnMFYwaDRkMHhPVDBONmJVWktRMjFHTlc5SFoxTjJTRGxGY0hsWlQwZHNSV3N0Um13M2R4SVhORUpIYW1GMVpVMU1kSGxWYW5WTlVHdHZSMmw1UVdNYUlrRkVjM0k1WmxKamJISk5iakJNUWsxTmRGWnRRVFI0TldKdmRqSmFOVTlqVjBFIiwiZmN2IjoiMyIsImVpIjoiNEJHamF1ZU1MdHlVanVNUGtvR2l5QWMiLCJxYyI6IkNoNXliMkpsY25RZ1pTQnNaV1VnYUdsbmFDQnpZMmh2YjJ3Z2RHVjRZWE1RQUgwSXJoWV8iLCJxdWVzdGlvbiI6IkhvdyBtYW55IFJvYmVydCBFLiBMZWUgaGlnaCBzY2hvb2xzIGFyZSB0aGVyZSBpbiBUZXhhcz8iLCJsayI6IkdqVm9iM2NnYldGdWVTQnliMkpsY25RZ1pTQnNaV1VnYUdsbmFDQnpZMmh2YjJ4eklHRnlaU0IwYUdWeVpTQnBiaUIwWlhoaGN3IiwiYnMiOiJjNDNRTVF2Q01CQ0dZVnd6T1hlNlVSeEVBcUlJRWdTRkNrNVcwUFZzanlaUUU4Z0YydjU3VTYwZ1FzVWwwX2Z3SGhGZUxGTlh3eDF0Q3lkM0l4OWdQNE1qRVdoVGF1QmNPMWN4b0NjSW11SnJMSnlwUVZaeW1TejBtX29YSmFoLXl0QkpjUlhUaTI2aFJ2NUtwaDNNbmhBOFdieFRvZVEwbWRUOWVxanlIb3RHckFfYzV6aVlxZ0w4a1lnSFpXaGhhNE96eGltNVRsYm1XdzhtSS1hSThZVUZpODNPRkhfSElOZG95X2duZ2FFN1hVbVp6QWRiSDZIbnV0ZmowUU0iLCJpZCI6ImZjXzRCR2phdWVNTHR5VWp1TVBrb0dpeUFjXzEifQ%3D%3D"
+  },
+  {
+   "question": "Why was Robert E. Lee High School renamed?",
+   "type": "ai_overview",
+   "page_token": "Y5f9H3icHdBfboIwHADg7DI-aimRTROzBBXEbLjW9sefl6W2CkKBMhWUt91lp9ppluw7wvf9o891-fvU5derucwnk77vx1nTZPo4lk01EZdHLSdSaH0Qspw7z471epKL9S1wl23gEm4MrCjas6SnsVrSOugTq7HfWHkldtgCB_cAwFWxJcoy_jtSwOJk2PnbmgzZwCLqACiR4BnhNThsozvhGZtyVUb6ZRB46nIIB1bQOF0iHG6kRRikzJ_iIwu7PSj0znLyxvs-BdPt_RlJsWeO3NtQjxrJc7y3zC1FJhCV9dhFVhyVeShW6SmpMwzR_YOtwimxt4gX4Ci0vke-oetcIlKqNolBM35HR4BWcYsIPNuIWLvJvTkTTgdZ6Ar8LSK113IECGwXH3C-kjUNwsFzxNpUsgCU9qOT7Bb26P9z8XmqrnPz1WR_vKOCRQ",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Y5f9H3icHdBfboIwHADg7DI-aimRTROzBBXEbLjW9sefl6W2CkKBMhWUt91lp9ppluw7wvf9o891-fvU5derucwnk77vx1nTZPo4lk01EZdHLSdSaH0Qspw7z471epKL9S1wl23gEm4MrCjas6SnsVrSOugTq7HfWHkldtgCB_cAwFWxJcoy_jtSwOJk2PnbmgzZwCLqACiR4BnhNThsozvhGZtyVUb6ZRB46nIIB1bQOF0iHG6kRRikzJ_iIwu7PSj0znLyxvs-BdPt_RlJsWeO3NtQjxrJc7y3zC1FJhCV9dhFVhyVeShW6SmpMwzR_YOtwimxt4gX4Ci0vke-oetcIlKqNolBM35HR4BWcYsIPNuIWLvJvTkTTgdZ6Ar8LSK113IECGwXH3C-kjUNwsFzxNpUsgCU9qOT7Bb26P9z8XmqrnPz1WR_vKOCRQ",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpqVlNhMmhoU2tnd1JqRTFibXN4ZG5WVlZEaHdUWEIxY0hWRGFWQkNOeTAwYXpSc1VYbEJkVWRRWTFGdlpWcGtPVzVQU2tnMFYwaDRkMHhPVDBONmJVWktRMjFHTlc5SFoxTjJTRGxGY0hsWlQwZHNSV3N0Um13M2R4SVhORUpIYW1GMVpVMU1kSGxWYW5WTlVHdHZSMmw1UVdNYUlrRkVjM0k1WmxKamJISk5iakJNUWsxTmRGWnRRVFI0TldKdmRqSmFOVTlqVjBFIiwiZmN2IjoiMyIsImVpIjoiNEJHamF1ZU1MdHlVanVNUGtvR2l5QWMiLCJxYyI6IkNoNXliMkpsY25RZ1pTQnNaV1VnYUdsbmFDQnpZMmh2YjJ3Z2RHVjRZWE1RQUgwSXJoWV8iLCJxdWVzdGlvbiI6IldoeSB3YXMgUm9iZXJ0IEUuIExlZSBIaWdoIFNjaG9vbCByZW5hbWVkPyIsImxrIjoiR2loM2FIa2dkMkZ6SUhKdlltVnlkQ0JsSUd4bFpTQm9hV2RvSUhOamFHOXZiQ0J5Wlc1aGJXVmsiLCJicyI6ImM0M1FNUXZDTUJDR1lWd3pPWGU2VVJ4RUFxSUlFZ1NGQ2s1VzBQVnNqeVpRRThnRjJ2NTdVNjBnUXNVbDBfZndIaEZlTEZOWHd4MXRDeWQzSXg5Z1A0TWpFV2hUYXVCY08xY3hvQ2NJbXVKckxKeXBRVlp5bVN6MG1fb1hKYWgteXRCSmNSWFRpMjZoUnY1S3BoM01uaEE4V2J4VG9lUTBtZFQ5ZXFqeUhvdEdyQV9jNXppWXFnTDhrWWdIWldoaGE0T3p4aW01VGxibVd3OG1JLWFJOFlVRmk4M09GSF9ISU5kb3lfZ25nYUU3WFVtWnpBZGJINkhudXRmajBRTSIsImlkIjoiZmNfNEJHamF1ZU1MdHlVanVNUGtvR2l5QWNfMSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpqVlNhMmhoU2tnd1JqRTFibXN4ZG5WVlZEaHdUWEIxY0hWRGFWQkNOeTAwYXpSc1VYbEJkVWRRWTFGdlpWcGtPVzVQU2tnMFYwaDRkMHhPVDBONmJVWktRMjFHTlc5SFoxTjJTRGxGY0hsWlQwZHNSV3N0Um13M2R4SVhORUpIYW1GMVpVMU1kSGxWYW5WTlVHdHZSMmw1UVdNYUlrRkVjM0k1WmxKamJISk5iakJNUWsxTmRGWnRRVFI0TldKdmRqSmFOVTlqVjBFIiwiZmN2IjoiMyIsImVpIjoiNEJHamF1ZU1MdHlVanVNUGtvR2l5QWMiLCJxYyI6IkNoNXliMkpsY25RZ1pTQnNaV1VnYUdsbmFDQnpZMmh2YjJ3Z2RHVjRZWE1RQUgwSXJoWV8iLCJxdWVzdGlvbiI6IldoeSB3YXMgUm9iZXJ0IEUuIExlZSBIaWdoIFNjaG9vbCByZW5hbWVkPyIsImxrIjoiR2loM2FIa2dkMkZ6SUhKdlltVnlkQ0JsSUd4bFpTQm9hV2RvSUhOamFHOXZiQ0J5Wlc1aGJXVmsiLCJicyI6ImM0M1FNUXZDTUJDR1lWd3pPWGU2VVJ4RUFxSUlFZ1NGQ2s1VzBQVnNqeVpRRThnRjJ2NTdVNjBnUXNVbDBfZndIaEZlTEZOWHd4MXRDeWQzSXg5Z1A0TWpFV2hUYXVCY08xY3hvQ2NJbXVKckxKeXBRVlp5bVN6MG1fb1hKYWgteXRCSmNSWFRpMjZoUnY1S3BoM01uaEE4V2J4VG9lUTBtZFQ5ZXFqeUhvdEdyQV9jNXppWXFnTDhrWWdIWldoaGE0T3p4aW01VGxibVd3OG1JLWFJOFlVRmk4M09GSF9ISU5kb3lfZ25nYUU3WFVtWnpBZGJINkhudXRmajBRTSIsImlkIjoiZmNfNEJHamF1ZU1MdHlVanVNUGtvR2l5QWNfMSJ9"
+  },
+  {
+   "question": "Is there still a Robert E. Lee High School in San Antonio?",
+   "type": "ai_overview",
+   "page_token": "pasFvXicHdBRbpswGABg7TJ9bDAkXRspmkSwydigs-E3xC-TsUlIbAfaUEJ42xV2hp1qp5m07wjfrz_2dDF_P_1uh6G_rheL2-32eOy6o20eVecW8nq_qIWS1tZSmfXT5yf05aA2eFTh9l2FFPqeR8zLTY8UMUtWiauo1L3GYps644uIx8IKxBEzDbDTHumUWo5T_wWkQ0ENQ5BGyXdwPJYw3RvCbpzDSnBNXwlLK8_ODPeutM-T8p8HEbcjLVeyztGqJu03hq2gs35VhAQayFQH-lw7lqsivUOJIjCrQLg2yzxyhnMYp1Z8BR-N2kyJBrXkDrWysGGDM1NAuoQiw00U2tzYUe-yH2LrzSpIwrzMBEX93MRJglvlUaPf9hW3BUxew_mbBkSl_7KTlQ33U3eiwGZ1tg6c-Mg9b2ridihJy8VF7xgkjptloFyS1pjNlD4c1LgJHv5fb34e3LDu37vjPxqHjQY",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=pasFvXicHdBRbpswGABg7TJ9bDAkXRspmkSwydigs-E3xC-TsUlIbAfaUEJ42xV2hp1qp5m07wjfrz_2dDF_P_1uh6G_rheL2-32eOy6o20eVecW8nq_qIWS1tZSmfXT5yf05aA2eFTh9l2FFPqeR8zLTY8UMUtWiauo1L3GYps644uIx8IKxBEzDbDTHumUWo5T_wWkQ0ENQ5BGyXdwPJYw3RvCbpzDSnBNXwlLK8_ODPeutM-T8p8HEbcjLVeyztGqJu03hq2gs35VhAQayFQH-lw7lqsivUOJIjCrQLg2yzxyhnMYp1Z8BR-N2kyJBrXkDrWysGGDM1NAuoQiw00U2tzYUe-yH2LrzSpIwrzMBEX93MRJglvlUaPf9hW3BUxew_mbBkSl_7KTlQ33U3eiwGZ1tg6c-Mg9b2ridihJy8VF7xgkjptloFyS1pjNlD4c1LgJHv5fb34e3LDu37vjPxqHjQY",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpqVlNhMmhoU2tnd1JqRTFibXN4ZG5WVlZEaHdUWEIxY0hWRGFWQkNOeTAwYXpSc1VYbEJkVWRRWTFGdlpWcGtPVzVQU2tnMFYwaDRkMHhPVDBONmJVWktRMjFHTlc5SFoxTjJTRGxGY0hsWlQwZHNSV3N0Um13M2R4SVhORUpIYW1GMVpVMU1kSGxWYW5WTlVHdHZSMmw1UVdNYUlrRkVjM0k1WmxKamJISk5iakJNUWsxTmRGWnRRVFI0TldKdmRqSmFOVTlqVjBFIiwiZmN2IjoiMyIsImVpIjoiNEJHamF1ZU1MdHlVanVNUGtvR2l5QWMiLCJxYyI6IkNoNXliMkpsY25RZ1pTQnNaV1VnYUdsbmFDQnpZMmh2YjJ3Z2RHVjRZWE1RQUgwSXJoWV8iLCJxdWVzdGlvbiI6IklzIHRoZXJlIHN0aWxsIGEgUm9iZXJ0IEUuIExlZSBIaWdoIFNjaG9vbCBpbiBTYW4gQW50b25pbz8iLCJsayI6ImN3WEIwUW5BUUFnRndUN3l0V1drSFJNZVVSQ0YwXzdKekhYSHNLNGpaaU1UNF9TanM0aVU4UGljZWIwN2lXS3NzTnF1NkI4IiwiYnMiOiJjNDNRTVF2Q01CQ0dZVnd6T1hlNlVSeEVBcUlJRWdTRkNrNVcwUFZzanlaUUU4Z0YydjU3VTYwZ1FzVWwwX2Z3SGhGZUxGTlh3eDF0Q3lkM0l4OWdQNE1qRVdoVGF1QmNPMWN4b0NjSW11SnJMSnlwUVZaeW1TejBtX29YSmFoLXl0QkpjUlhUaTI2aFJ2NUtwaDNNbmhBOFdieFRvZVEwbWRUOWVxanlIb3RHckFfYzV6aVlxZ0w4a1lnSFpXaGhhNE96eGltNVRsYm1XdzhtSS1hSThZVUZpODNPRkhfSElOZG95X2duZ2FFN1hVbVp6QWRiSDZIbnV0ZmowUU0iLCJpZCI6ImZjXzRCR2phdWVNTHR5VWp1TVBrb0dpeUFjXzEifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpqVlNhMmhoU2tnd1JqRTFibXN4ZG5WVlZEaHdUWEIxY0hWRGFWQkNOeTAwYXpSc1VYbEJkVWRRWTFGdlpWcGtPVzVQU2tnMFYwaDRkMHhPVDBONmJVWktRMjFHTlc5SFoxTjJTRGxGY0hsWlQwZHNSV3N0Um13M2R4SVhORUpIYW1GMVpVMU1kSGxWYW5WTlVHdHZSMmw1UVdNYUlrRkVjM0k1WmxKamJISk5iakJNUWsxTmRGWnRRVFI0TldKdmRqSmFOVTlqVjBFIiwiZmN2IjoiMyIsImVpIjoiNEJHamF1ZU1MdHlVanVNUGtvR2l5QWMiLCJxYyI6IkNoNXliMkpsY25RZ1pTQnNaV1VnYUdsbmFDQnpZMmh2YjJ3Z2RHVjRZWE1RQUgwSXJoWV8iLCJxdWVzdGlvbiI6IklzIHRoZXJlIHN0aWxsIGEgUm9iZXJ0IEUuIExlZSBIaWdoIFNjaG9vbCBpbiBTYW4gQW50b25pbz8iLCJsayI6ImN3WEIwUW5BUUFnRndUN3l0V1drSFJNZVVSQ0YwXzdKekhYSHNLNGpaaU1UNF9TanM0aVU4UGljZWIwN2lXS3NzTnF1NkI4IiwiYnMiOiJjNDNRTVF2Q01CQ0dZVnd6T1hlNlVSeEVBcUlJRWdTRkNrNVcwUFZzanlaUUU4Z0YydjU3VTYwZ1FzVWwwX2Z3SGhGZUxGTlh3eDF0Q3lkM0l4OWdQNE1qRVdoVGF1QmNPMWN4b0NjSW11SnJMSnlwUVZaeW1TejBtX29YSmFoLXl0QkpjUlhUaTI2aFJ2NUtwaDNNbmhBOFdieFRvZVEwbWRUOWVxanlIb3RHckFfYzV6aVlxZ0w4a1lnSFpXaGhhNE96eGltNVRsYm1XdzhtSS1hSThZVUZpODNPRkhfSElOZG95X2duZ2FFN1hVbVp6QWRiSDZIbnV0ZmowUU0iLCJpZCI6ImZjXzRCR2phdWVNTHR5VWp1TVBrb0dpeUFjXzEifQ%3D%3D"
+  },
+  {
+   "question": "Did Robert E. Lee High School in San Antonio change its name?",
+   "type": "ai_overview",
+   "page_token": "cA4UbXicHdFLjpswGABg9TKznGCTpCJSNGrCI4OIEQb_YDYjYpM4YB4ZaCHsepeue6CeptJ8V_h-_9H3tv737a8ax37YrVbTNL3euu6my1fRNatieLZiJQqtL4Wod9vvW_R2FXunm47HYTpErO_BpkacykQufnxB7zPUcpaGZeS2v-Xp2CYeuKyK1ryBMb6jIK_Vk-INYw1aePtjCj3yCRlpyQlQCTIQ2A_O3nkjPDqIE3Bq02NhSJIsuRaVsy4TOiU4wgAuJ5ni-Yn6xJVhnqoggPPIkH8U3gwEKUyZnji2ClopI0PuQTguLRmpymYwwdV9mNIwNqkr040TspHHLmCR-inFY106Mkkddx1n_fvFyztIlMkRMcEjVZJaRWnnUxIbOG5yzRsfnU39dJQwolo-eAY6YbNRAjwkQ1GBrVOR6QOfu3vE6CIq3bAMMK3yhWnrpwSi5CJt0sgHdenhAn1TpuqZTy9X8Wtvvnw97D-uzbjrP7vbf21ZljM",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=cA4UbXicHdFLjpswGABg9TKznGCTpCJSNGrCI4OIEQb_YDYjYpM4YB4ZaCHsepeue6CeptJ8V_h-_9H3tv737a8ax37YrVbTNL3euu6my1fRNatieLZiJQqtL4Wod9vvW_R2FXunm47HYTpErO_BpkacykQufnxB7zPUcpaGZeS2v-Xp2CYeuKyK1ryBMb6jIK_Vk-INYw1aePtjCj3yCRlpyQlQCTIQ2A_O3nkjPDqIE3Bq02NhSJIsuRaVsy4TOiU4wgAuJ5ni-Yn6xJVhnqoggPPIkH8U3gwEKUyZnji2ClopI0PuQTguLRmpymYwwdV9mNIwNqkr040TspHHLmCR-inFY106Mkkddx1n_fvFyztIlMkRMcEjVZJaRWnnUxIbOG5yzRsfnU39dJQwolo-eAY6YbNRAjwkQ1GBrVOR6QOfu3vE6CIq3bAMMK3yhWnrpwSi5CJt0sgHdenhAn1TpuqZTy9X8Wtvvnw97D-uzbjrP7vbf21ZljM",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpqVlNhMmhoU2tnd1JqRTFibXN4ZG5WVlZEaHdUWEIxY0hWRGFWQkNOeTAwYXpSc1VYbEJkVWRRWTFGdlpWcGtPVzVQU2tnMFYwaDRkMHhPVDBONmJVWktRMjFHTlc5SFoxTjJTRGxGY0hsWlQwZHNSV3N0Um13M2R4SVhORUpIYW1GMVpVMU1kSGxWYW5WTlVHdHZSMmw1UVdNYUlrRkVjM0k1WmxKamJISk5iakJNUWsxTmRGWnRRVFI0TldKdmRqSmFOVTlqVjBFIiwiZmN2IjoiMyIsImVpIjoiNEJHamF1ZU1MdHlVanVNUGtvR2l5QWMiLCJxYyI6IkNoNXliMkpsY25RZ1pTQnNaV1VnYUdsbmFDQnpZMmh2YjJ3Z2RHVjRZWE1RQUgwSXJoWV8iLCJxdWVzdGlvbiI6IkRpZCBSb2JlcnQgRS4gTGVlIEhpZ2ggU2Nob29sIGluIFNhbiBBbnRvbmlvIGNoYW5nZSBpdHMgbmFtZT8iLCJsayI6ImN3WEJ3UWtBSUF3RHdEMThaUVJYcWhLc29BbW8tLU5kcWNlTjU0RllKSEtPeE8xcEw5d1FRcy1haG1JVFBVT0RIdyIsImJzIjoiYzQzUU1RdkNNQkNHWVZ3ek9YZTZVUnhFQXFJSUVnU0ZDazVXMFBWc2p5WlFFOGdGMnY1N1U2MGdRc1VsMF9md0hoRmVMRk5Yd3gxdEN5ZDNJeDlnUDRNakVXaFRhdUJjTzFjeG9DY0ltdUpyTEp5cFFWWnltU3owbV9vWEphaC15dEJKY1JYVGkyNmhSdjVLcGgzTW5oQThXYnhUb2VRMG1kVDllcWp5SG90R3JBX2M1emlZcWdMOGtZZ0haV2hoYTRPenhpbTVUbGJtV3c4bUktYUk4WVVGaTgzT0ZIX0hJTmRveV9nbmdhRTdYVW1aekFkYkg2SG51dGZqMFFNIiwiaWQiOiJmY180QkdqYXVlTUx0eVVqdU1Qa29HaXlBY18xIn0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpqVlNhMmhoU2tnd1JqRTFibXN4ZG5WVlZEaHdUWEIxY0hWRGFWQkNOeTAwYXpSc1VYbEJkVWRRWTFGdlpWcGtPVzVQU2tnMFYwaDRkMHhPVDBONmJVWktRMjFHTlc5SFoxTjJTRGxGY0hsWlQwZHNSV3N0Um13M2R4SVhORUpIYW1GMVpVMU1kSGxWYW5WTlVHdHZSMmw1UVdNYUlrRkVjM0k1WmxKamJISk5iakJNUWsxTmRGWnRRVFI0TldKdmRqSmFOVTlqVjBFIiwiZmN2IjoiMyIsImVpIjoiNEJHamF1ZU1MdHlVanVNUGtvR2l5QWMiLCJxYyI6IkNoNXliMkpsY25RZ1pTQnNaV1VnYUdsbmFDQnpZMmh2YjJ3Z2RHVjRZWE1RQUgwSXJoWV8iLCJxdWVzdGlvbiI6IkRpZCBSb2JlcnQgRS4gTGVlIEhpZ2ggU2Nob29sIGluIFNhbiBBbnRvbmlvIGNoYW5nZSBpdHMgbmFtZT8iLCJsayI6ImN3WEJ3UWtBSUF3RHdEMThaUVJYcWhLc29BbW8tLU5kcWNlTjU0RllKSEtPeE8xcEw5d1FRcy1haG1JVFBVT0RIdyIsImJzIjoiYzQzUU1RdkNNQkNHWVZ3ek9YZTZVUnhFQXFJSUVnU0ZDazVXMFBWc2p5WlFFOGdGMnY1N1U2MGdRc1VsMF9md0hoRmVMRk5Yd3gxdEN5ZDNJeDlnUDRNakVXaFRhdUJjTzFjeG9DY0ltdUpyTEp5cFFWWnltU3owbV9vWEphaC15dEJKY1JYVGkyNmhSdjVLcGgzTW5oQThXYnhUb2VRMG1kVDllcWp5SG90R3JBX2M1emlZcWdMOGtZZ0haV2hoYTRPenhpbTVUbGJtV3c4bUktYUk4WVVGaTgzT0ZIX0hJTmRveV9nbmdhRTdYVW1aekFkYkg2SG51dGZqMFFNIiwiaWQiOiJmY180QkdqYXVlTUx0eVVqdU1Qa29HaXlBY18xIn0%3D"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Robert E. Lee High School (Baytown, Texas)",
+   "link": "https://en.wikipedia.org/wiki/Robert_E._Lee_High_School_(Baytown,_Texas)",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgAEB6zswFRWQm0oaLq8S3rFYu-vUPRQ1V932apw0CpFFO-fY2Djs3bQoTIiOJgA5Rf7Mk5WdexmOc8oxiAYRhcPPNoSGpipd5LT1MDjXtejT13z3pwBOisFAIzMj0qICOEYNdM-4VBnXNTvq6apwd5coru4sG3wxyezknB8BXM-qbA&ved=2ahUKEwjn_K786-SWAxVcimMGHZKACHkQFnoECEoQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Robert_E._Lee_High_...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+   "snippet": "Robert E. Lee High School is a public high school in Baytown, Texas, that serves grades 9 through 12. It was opened as a segregated school, and named after ...",
+   "snippet_highlighted_words": [
+    "Robert E. Lee High School",
+    "Texas"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Robert E. Lee High School is a public high school in Baytown, Texas, that serves grades 9 through 12. It was opened as a segregated school, and named after ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Robert_E._Lee_High_School_(Baytown,_Texas)",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Robert_E._Lee_High_School_(Baytown,_Texas)#:~:text=Robert%20E.%20Lee%20High%20School,Confederate%20Army%20commander%20Robert%20E."
+  },
+  {
+   "position": 2,
+   "title": "Robert E. Lee High School: Home",
+   "link": "https://rel.gccisd.net/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTwHrOzAVW3iaS45hraBfTbgeGAGntpCYwWVeyM4RtRIChnVLNsowksKqj4QOgd6cdx7plhXKeGu1_hF_qe7UbYz5uJIMeOWde244ZT_W_zc&ved=2ahUKEwjn_K786-SWAxVcimMGHZKACHkQFnoECEkQAQ&uoh=1",
+   "displayed_link": "https://rel.gccisd.net",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAAB8AAAAgCAMAAADdXFNzAAAAVFBMVEVHcEwAAAB1dJOBgJsLCkje3uX____JydO9vco4NWt0c5KLiqPX1t4HAVWzs8IAAACVlasQClgnJGIYFFsdGV3FxNBCQHBUU3zNzdetrb3s7O9bWoCDZqEXAAAAGnRSTlMAB5P9Tv____9p______8D_________3v_7b7o9wcAAAEsSURBVHgBrdPZmoMgDEDhbiaxEIYtltr3f88Jbt-I411z6X_c4bKb6-3-2B1otAME6s_1aSy7f4ufmwXD7C2HSFoc1XOKST1GbotFw-w5aCEgfaODhOr5TjlFHhDkVbXAm_XM-KbVnXiuRalFKUE1eEJYvQCJ4azFWC7FaGqIAEB4dgQYSZ4c2an7xFZ17wAduRQWRzg6FApfd945c-PO2T_eOdetbp2IYCmIYXNCRL8565xdX6rnnOPJ86mXuzEmn_pYb9bxiXd4fP-R3OwmxOioNE60_p9x4BwGRxZw8QJChnNiA3LpCawWPDjZ1gf5kDLfAd51N_QCWItPx4tH1ec4a50XgkQt1vW507koQNv65U-jS-ESq-t9jrquc28H2-puFyG4nbbFvdFfkCwnsDZYMAwAAAAASUVORK5CYII.png",
+   "snippet": "Robert E. Lee High School combines rich tradition with innovative opportunities to prepare students for college and future careers. Supported by targeted ...",
+   "snippet_highlighted_words": [
+    "Robert E. Lee High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Robert E. Lee High School combines rich tradition with innovative opportunities to prepare students for college and future careers. Supported by targeted ...",
+     "source_info_link": "https://rel.gccisd.net/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAAB8AAAAgCAMAAADdXFNzAAAAVFBMVEVHcEwAAAB1dJOBgJsLCkje3uX____JydO9vco4NWt0c5KLiqPX1t4HAVWzs8IAAACVlasQClgnJGIYFFsdGV3FxNBCQHBUU3zNzdetrb3s7O9bWoCDZqEXAAAAGnRSTlMAB5P9Tv____9p______8D_________3v_7b7o9wcAAAEsSURBVHgBrdPZmoMgDEDhbiaxEIYtltr3f88Jbt-I411z6X_c4bKb6-3-2B1otAME6s_1aSy7f4ufmwXD7C2HSFoc1XOKST1GbotFw-w5aCEgfaODhOr5TjlFHhDkVbXAm_XM-KbVnXiuRalFKUE1eEJYvQCJ4azFWC7FaGqIAEB4dgQYSZ4c2an7xFZ17wAduRQWRzg6FApfd945c-PO2T_eOdetbp2IYCmIYXNCRL8565xdX6rnnOPJ86mXuzEmn_pYb9bxiXd4fP-R3OwmxOioNE60_p9x4BwGRxZw8QJChnNiA3LpCawWPDjZ1gf5kDLfAd51N_QCWItPx4tH1ec4a50XgkQt1vW507koQNv65U-jS-ESq-t9jrquc28H2-puFyG4nbbFvdFfkCwnsDZYMAwAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Goose Creek CISD",
+   "read_more_link": "https://rel.gccisd.net/#:~:text=Robert%20E.%20Lee%20High%20School,future%20careers.%20Supported%20by%20targeted"
+  },
+  {
+   "position": 3,
+   "title": "Robert E. Lee High School Archive | Baytown TX",
+   "link": "https://www.facebook.com/BaytownLeeHS/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXgHrOzAVtIJ41t9BqBclSo4ucTcvgT_zPruYW5-hqtY_fSuFp73n3wQv9MyM97hHFm3g1Q87BfzR_jFO6qt3kIFfS5YPTA6RN4lJNrjFQzAawF_5UNbd2SLoEjNsZWA&ved=2ahUKEwjn_K786-SWAxVcimMGHZKACHkQFnoECEsQAQ&uoh=1",
+   "displayed_link": "6.4K+ followers",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "snippet": "Robert E. Lee High School Archive ... Lee High School is the original high school of Baytown, Texas established in 1927. Public School.",
+   "snippet_highlighted_words": [
+    "Robert E. Lee High School",
+    "Texas"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Robert E. Lee High School Archive ... Lee High School is the original high school of Baytown, Texas established in 1927. Public School.",
+     "source_info_link": "https://www.facebook.com/BaytownLeeHS/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Facebook \u00b7 Robert E. Lee High School Archive",
+   "read_more_link": "https://www.facebook.com/BaytownLeeHS/#:~:text=Robert%20E.%20Lee%20High%20School,Archive&text=Lee%20High%20School%20is%20the,%F3%B1%9E%B4%20Public%20School"
+  },
+  {
+   "position": 4,
+   "title": "Lee Traveler, Yearbook of Robert E. Lee High School, 1968",
+   "link": "https://texashistory.unt.edu/ark:/67531/metapth1582479/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAVlxV1FI-Xd1h3i9G7mfXldb-ga5kb4PEdI3cqLD3y0xYYXMHhBZXwpSFIxFh9BtfG_1y8TKlh-lduDtv_52Oc3weEvEqRI6OsN1Z86YTcijEMaxJEUVk0S9Z8WFri817SKQuYIUj0GzqC9Q&ved=2ahUKEwjn_K786-SWAxVcimMGHZKACHkQFnoECEgQAQ&uoh=1",
+   "displayed_link": "https://texashistory.unt.edu \u203a ark: \u203a metapth1582479",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAk1BMVEX____FztOYqbJ_laF9lKGSpK7z9fatucGJnajL1tv3_v__9PTU3-Le4uXiq6zDSEu1AAC0AADANzvbl5js9fexAADXjY6fsLmzv8bIYWPHWV3isLK4DhbMa27OdXfSgYPt7_G5GiC3CRPSe322AAn65ubbnp-4ERn04OHy29y-NDi7Jiv47Oz01tbnvr-7ICbET1LuYRMkAAABZUlEQVR4Aa3P1aLbQAxF0WN20JIpDJqYwvn_r-vMdTjldr3uAQn_g2U7juN6lo8PQdjpotdDt-_Zb3ngDjCMiJnipJc6Fp50Qgw54y9ZlmM0froXYsJTXM2yGKPHXRcTmk-wWBorzDiGs762YDBk0ZGVQUsQb7rhNTogMZEKg1dg4XLUXrU6wzZyZQxRFaI2aQDD7ka11GqCrDG2OYnUBZzbq6re7RcQkYyJCp32fAjb2MsWuOrtRV_b6XWOI_8aTzN1Fjqfi2alRIrqQHSLICJR0x7VNZNRNcylB8PrxnW7ivAB2jBpmK4DWf2kuMcqulz2-uYiHcHwvR7fY67f1s9mx2CAL3aak8ynYB3NI0W1vcBBy3cRKzoipwWWSkSt0LMHuLJGiPlYDTkZkuhIsALcjUdYZcyiCp14CsvGE8vplpuCiZgWR9gBXqzD0RqH47FEGjgDvFsHTjgaee7oI135Pn7bN4dSJlYvTXADAAAAAElFTkSuQmCC.png",
+   "snippet": "Yearbook for Robert E. Lee High School in Baytown, Texas includes photographs of and information about the school, student body, teachers, and organizations.",
+   "snippet_highlighted_words": [
+    "Robert E. Lee High School",
+    "Texas"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Yearbook for Robert E. Lee High School in Baytown, Texas includes photographs of and information about the school, student body, teachers, and organizations.",
+     "source_info_link": "https://texashistory.unt.edu/ark:/67531/metapth1582479/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAk1BMVEX____FztOYqbJ_laF9lKGSpK7z9fatucGJnajL1tv3_v__9PTU3-Le4uXiq6zDSEu1AAC0AADANzvbl5js9fexAADXjY6fsLmzv8bIYWPHWV3isLK4DhbMa27OdXfSgYPt7_G5GiC3CRPSe322AAn65ubbnp-4ERn04OHy29y-NDi7Jiv47Oz01tbnvr-7ICbET1LuYRMkAAABZUlEQVR4Aa3P1aLbQAxF0WN20JIpDJqYwvn_r-vMdTjldr3uAQn_g2U7juN6lo8PQdjpotdDt-_Zb3ngDjCMiJnipJc6Fp50Qgw54y9ZlmM0froXYsJTXM2yGKPHXRcTmk-wWBorzDiGs762YDBk0ZGVQUsQb7rhNTogMZEKg1dg4XLUXrU6wzZyZQxRFaI2aQDD7ka11GqCrDG2OYnUBZzbq6re7RcQkYyJCp32fAjb2MsWuOrtRV_b6XWOI_8aTzN1Fjqfi2alRIrqQHSLICJR0x7VNZNRNcylB8PrxnW7ivAB2jBpmK4DWf2kuMcqulz2-uYiHcHwvR7fY67f1s9mx2CAL3aak8ynYB3NI0W1vcBBy3cRKzoipwWWSkSt0LMHuLJGiPlYDTkZkuhIsALcjUdYZcyiCp14CsvGE8vplpuCiZgWR9gBXqzD0RqH47FEGjgDvFsHTjgaee7oI135Pn7bN4dSJlYvTXADAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "The Portal to Texas History",
+   "read_more_link": "https://texashistory.unt.edu/ark:/67531/metapth1582479/#:~:text=Yearbook%20for%20Robert%20E.%20Lee,student%20body%2C%20teachers%2C%20and%20organizations."
+  },
+  {
+   "position": 5,
+   "title": "Robert Lee High School",
+   "link": "https://www.niche.com/k12/robert-lee-high-school-robert-lee-tx/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdwHrOzAVLKqJGsCeySM7KZdFpxUrpqfNO7Ttat3UBHiSjAu3HdtQMR4rKX6g6CLi2oqogago0Emkm_3dc1aRcbJcnMICbLo8yoT3TkBZdSz5QqOP5VyR6u77Y5VzwZByd4c5i2WywDqYfKUAeEtV5ukhO06UeAFa&ved=2ahUKEwjn_K786-SWAxVcimMGHZKACHkQFnoECEcQAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a Texas",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png",
+   "snippet": "Despite being a small school, Robert E. Lee High School offers a range of clubs and extracurricular activities such as robotics, Spanish club, FCCLA, FFA, Beta ...",
+   "snippet_highlighted_words": [
+    "Robert E. Lee High School"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 3.9,
+      "reviews": 63
+     },
+     "extensions": [
+      "3.9(63)"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Despite being a small school, Robert E. Lee High School offers a range of clubs and extracurricular activities such as robotics, Spanish club, FCCLA, FFA, Beta ...",
+     "source_info_link": "https://www.niche.com/k12/robert-lee-high-school-robert-lee-tx/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Niche",
+   "read_more_link": "https://www.niche.com/k12/robert-lee-high-school-robert-lee-tx/#:~:text=How%20does%20Robert%20E.%20Lee"
+  },
+  {
+   "position": 6,
+   "title": "Robert E. Lee High School (@relganders)",
+   "link": "https://www.instagram.com/relganders/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXQHrOzAVL-ub5HOu9z1Qq6w3HOkKSbFyh55F-lXh-02x7h8zUU5omdKJvY7-hzvVCU2KjNFjacJASbXFOOBtMJQIx4430VIp7oZ3FhF92ZW4c-6flP1c2MTGUSytVA&ved=2ahUKEwjn_K786-SWAxVcimMGHZKACHkQFnoECFEQAQ&uoh=1",
+   "displayed_link": "1.9K+ followers",
+   "favicon": "https://serpapi.com/searches/6aa311dcb9dbc4816ed61662/images/jK54qWoBieBpEM31WtsqPkmJ1_gehO5BAYsjBTgRWLs.png",
+   "snippet": "Robert E. Lee High School is the original high school of Baytown, Texas, established in 1927. We are home to the Ganders.",
+   "snippet_highlighted_words": [
+    "Robert E. Lee High School",
+    "Texas"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Robert E. Lee High School is the original high school of Baytown, Texas, established in 1927. We are home to the Ganders.",
+     "source_info_link": "https://www.instagram.com/relganders/",
+     "icon": "https://serpapi.com/searches/6aa311dcb9dbc4816ed61662/images/jK54qWoBieBpEM31WtsqPo55POCwnovH0pvaP9f0aT2eaIqDGv8T8cFjK8gxnwC5.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Instagram \u00b7 relganders",
+   "read_more_link": "https://www.instagram.com/relganders/#:~:text=Robert%20E.%20Lee%20High%20School,are%20home%20to%20the%20Ganders."
+  },
+  {
+   "position": 7,
+   "title": "Baytown's school board voted against changing Robert E. ...",
+   "link": "https://www.reddit.com/r/houston/comments/iq6fv3/baytowns_school_board_voted_against_changing/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlgEB6zswFcia2i43k7e0YteSX9gBsibET8TXosIS5WWM7TfZi0ipl7dYCKdDe0ouEcauMIG-bETRHlP-ffcLVI6AUAOGTcvOWleD-Q9gbFZ0kzGiw0n7t-Bjp_DTN7SSLwJd52IjGxY9ntBuVke-k3Y5x9YGqvBCvGMdDWZsMFTNfe8g10JOqGNOnjPweRADOeJSCkJlX7k&ved=2ahUKEwjn_K786-SWAxVcimMGHZKACHkQFnoECFQQAQ&uoh=1",
+   "displayed_link": "90+ comments \u00b7 6 years ago",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+   "snippet": "Baytown's school board voted against changing Robert E. Lee High School's name. It's one of the last schools named after Lee in Texas.",
+   "snippet_highlighted_words": [
+    "Robert E. Lee High School's",
+    "Texas"
+   ],
+   "sitelinks": {
+    "list": [
+     {
+      "title": "There are only 3 schools named after Robert E. Lee in ...",
+      "link": "https://www.reddit.com/r/houston/comments/mcaxcn/there_are_only_3_schools_named_after_robert_e_lee/",
+      "answer_count": 58,
+      "date": "Mar 25, 2021"
+     },
+     {
+      "title": "[OC] My local high school is changing its name back ...",
+      "link": "https://www.reddit.com/r/pics/comments/1uoe2gl/oc_my_local_high_school_is_changing_its_name_back/",
+      "answer_count": 519,
+      "date": "Jul 5, 2026"
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Baytown's school board voted against changing Robert E. Lee High School's name. It's one of the last schools named after Lee in Texas.",
+     "source_info_link": "https://www.reddit.com/r/houston/comments/iq6fv3/baytowns_school_board_voted_against_changing/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Reddit \u00b7 r/houston",
+   "read_more_link": "https://www.reddit.com/r/houston/comments/iq6fv3/baytowns_school_board_voted_against_changing/#:~:text=Baytown's%20school%20board%20voted%20against,named%20after%20Lee%20in%20Texas"
+  },
+  {
+   "position": 8,
+   "title": "A Message to Students at Robert E. Lee High School in ...",
+   "link": "https://kevinmlevin.substack.com/p/a-message-to-students-at-robert-e",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHrOzAVkCfbGjovAXlJUcs_1YdkNrzbyEj6TCtdCMCH9mVjBTANorWr1us4uZNAx4I5UNBO_HKtbZ3GzVgxtyfovW2TSvPiRo1LC-c5RQLyE0KATL3RUi632Ig9Yz-TMY_UQp8xlr1i4ZWDrc15dU9GkBijvniVYWkMBw4&ved=2ahUKEwjn_K786-SWAxVcimMGHZKACHkQFnoECEwQAQ&uoh=1",
+   "displayed_link": "100+ likes \u00b7 1 year ago",
+   "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyUtNzc3Nzc3NTU3Nzc3Ny43Nzc3NTc3LTUuNy0vLTUtNystNS01NSsrNTctLTctKysrK__AABEIABwAHAMBIgACEQEDEQH_xAAZAAACAwEAAAAAAAAAAAAAAAAEBQADBgL_xAAsEAACAQIFAQcEAwAAAAAAAAABAgMEEQAFEiExEyJBUWFxkdFCgaGxFCMy_8QAFgEBAQEAAAAAAAAAAAAAAAAAAwIB_8QAGhEBAAMBAQEAAAAAAAAAAAAAAQACERJBIf_aAAwDAQACEQMRAD8AHzGjp6yqVlUCws9l3ceoxEMdHdIVJjbkK9wG8r3Hx4nFOZSQwf1MxDMDpNr8YQ1tZUtVRKCr3C6dDG2xuDp7jtxga1UzyPW9au59mnLdmyh7_UWA-cTosd98LcvzP-QGkdT07gKANwe--GIrU7lkt6YzEkthZ3WZfSZhTSCmnXrKLkiUFvuOMYyWJo-sL26TMHY_6J24Htg6gpo4VgqItSysFJYN5b--C80p0jhE6jtVNQI3B3FththB5cmJspy6rignWKoTSZjqJJ-s83w-SSIl1C3KNZgBwebfnGPqor0KTM7FxZbnwHH6wNUSSawerJcqCe0cVyWkc6z_2Q.jpeg",
+   "snippet": "In other words, the naming of Robert E. Lee High School in 1961 has much more to do with the history of the state, region, and country at that ...",
+   "snippet_highlighted_words": [
+    "Robert E. Lee High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "In other words, the naming of Robert E. Lee High School in 1961 has much more to do with the history of the state, region, and country at that ...",
+     "source_info_link": "https://kevinmlevin.substack.com/p/a-message-to-students-at-robert-e",
+     "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyUtNzc3Nzc3NTU3Nzc3Ny43Nzc3NTc3LTUuNy0vLTUtNystNS01NSsrNTctLTctKysrK__AABEIABwAHAMBIgACEQEDEQH_xAAZAAACAwEAAAAAAAAAAAAAAAAEBQADBgL_xAAsEAACAQIFAQcEAwAAAAAAAAABAgMEEQAFEiExEyJBUWFxkdFCgaGxFCMy_8QAFgEBAQEAAAAAAAAAAAAAAAAAAwIB_8QAGhEBAAMBAQEAAAAAAAAAAAAAAQACERJBIf_aAAwDAQACEQMRAD8AHzGjp6yqVlUCws9l3ceoxEMdHdIVJjbkK9wG8r3Hx4nFOZSQwf1MxDMDpNr8YQ1tZUtVRKCr3C6dDG2xuDp7jtxga1UzyPW9au59mnLdmyh7_UWA-cTosd98LcvzP-QGkdT07gKANwe--GIrU7lkt6YzEkthZ3WZfSZhTSCmnXrKLkiUFvuOMYyWJo-sL26TMHY_6J24Htg6gpo4VgqItSysFJYN5b--C80p0jhE6jtVNQI3B3FththB5cmJspy6rignWKoTSZjqJJ-s83w-SSIl1C3KNZgBwebfnGPqor0KTM7FxZbnwHH6wNUSSawerJcqCe0cVyWkc6z_2Q.jpeg"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Substack \u00b7 Civil War Memory",
+   "read_more_link": "https://kevinmlevin.substack.com/p/a-message-to-students-at-robert-e#:~:text=In%20other%20words%2C%20the%20naming,as%20opposed%20to%20the%201860s."
+  },
+  {
+   "position": 9,
+   "title": "Robert E Lee High School in Baytown, Texas ...",
+   "link": "https://www.donorschoose.org/schools/texas/goose-creek-consolidated-independent-school-district/robert-e-lee-high-school/14342",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEStgEB6zswFXJrfPwthl7z9JXxkK4i7-8QVNY0NcW8BrTnqzHPTnv8opoVJKh9XPXSMbdN3Ir7qCbak3o-l4GYHv_RG6B0tad44NB9wKp3gODdg2tT7Vbd9iyt2VKlVkrpPRYjDD44BDafNlS4GgTZa0VQBXCEnFVBRyVA0lw6LTo-ZGpvHjGb0FNotafplpf76iLYrJ61Ud3uqWbUki0bGVIzUpjMY1aFPByUfAv1TwFp06PPKTxzaA&ved=2ahUKEwjn_K786-SWAxVcimMGHZKACHkQFnoECH0QAQ&uoh=1",
+   "displayed_link": "https://www.donorschoose.org \u203a schools \u203a texas \u203a rober...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEU4A8E4AcE4AME3CMA1DL8zEb0vGLovGboyE7wwFrslA7hhVcaAd9B9dM9lWcgbALe_u-b____e3PJ3bc25teTEwOixrOE2IbzJxeqKgtORitaoot0AALLp5_drYMqak9minNtEM7_oabQTAAAA3klEQVR4AXWSBRIDIQwAITh1d_v_J0uQTI7SHWUWiAqOTIghAEonFMCvUsa6jPUKOmecJZyfysAcolhs2-PIQkhHHzMmVM3j-dl8gSz9KmYZIEuF8VbrTWW7W-WPNT20q_2GOGTrAaVFUBJHtI5-Rck4hfqvZvJ8OWd5XSVpQEgub6v7g_79J28juX6W0POYvx0ntMoJyWEpLyoFfC_3K-pf375Ha58sT5ONuzfymn944xE8xFUmhjbQbKiDHKeBVlINHeEdU6HbP9Ae1xLXM-jB5gptElrAeOslwMR8AZhOFkQFCdvDAAAAAElFTkSuQmCC.png",
+   "snippet": "Robert E Lee High School is an urban public school in Baytown, Texas that is part of Goose Creek Consolidated Independent School District.",
+   "snippet_highlighted_words": [
+    "Robert E Lee High School",
+    "Texas"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Robert E Lee High School is an urban public school in Baytown, Texas that is part of Goose Creek Consolidated Independent School District.",
+     "source_info_link": "https://www.donorschoose.org/schools/texas/goose-creek-consolidated-independent-school-district/robert-e-lee-high-school/14342",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEU4A8E4AcE4AME3CMA1DL8zEb0vGLovGboyE7wwFrslA7hhVcaAd9B9dM9lWcgbALe_u-b____e3PJ3bc25teTEwOixrOE2IbzJxeqKgtORitaoot0AALLp5_drYMqak9minNtEM7_oabQTAAAA3klEQVR4AXWSBRIDIQwAITh1d_v_J0uQTI7SHWUWiAqOTIghAEonFMCvUsa6jPUKOmecJZyfysAcolhs2-PIQkhHHzMmVM3j-dl8gSz9KmYZIEuF8VbrTWW7W-WPNT20q_2GOGTrAaVFUBJHtI5-Rck4hfqvZvJ8OWd5XSVpQEgub6v7g_79J28juX6W0POYvx0ntMoJyWEpLyoFfC_3K-pf375Ha58sT5ONuzfymn944xE8xFUmhjbQbKiDHKeBVlINHeEdU6HbP9Ae1xLXM-jB5gptElrAeOslwMR8AZhOFkQFCdvDAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "DonorsChoose",
+   "read_more_link": "https://www.donorschoose.org/schools/texas/goose-creek-consolidated-independent-school-district/robert-e-lee-high-school/14342#:~:text=Robert%20E%20Lee%20High%20School,Creek%20Consolidated%20Independent%20School%20District."
+  },
+  {
+   "position": 10,
+   "title": "Robert E. Lee High School",
+   "link": "https://www.click2houston.com/topic/Robert_E._Lee_High_School/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHrOzAVHBUvMcmTMaSShEZ0g3R2M87pWj39jxAvTWXn2SUosF2zfNNQ_wAw6ldnFOOExUv0nrT9GVw9k4nvpJVsCH1k4U_idNJFZ_DJNfyOKowiPKP_fs0j6lnXvcli91HPBMHL3ZEF4e_6asOoeb9TlnEqIDA&ved=2ahUKEwjn_K786-SWAxVcimMGHZKACHkQFnoECH4QAQ&uoh=1",
+   "displayed_link": "https://www.click2houston.com \u203a topic \u203a Robert_E._Le...",
+   "favicon": "https://serpapi.com/searches/6aa311dcb9dbc4816ed61662/images/jK54qWoBieBpEM31WtsqPrhxsude_A-Sg27Ts_okN_A.jpeg",
+   "snippet": "Robert E. Lee High School in Baytown, named after the confederate general, was established in 1928. Other Texas schools by the same name have been renamed in ...",
+   "snippet_highlighted_words": [
+    "Robert E. Lee High School",
+    "Texas"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Robert E. Lee High School in Baytown, named after the confederate general, was established in 1928. Other Texas schools by the same name have been renamed in ...",
+     "source_info_link": "https://www.click2houston.com/topic/Robert_E._Lee_High_School/",
+     "icon": "https://serpapi.com/searches/6aa311dcb9dbc4816ed61662/images/jK54qWoBieBpEM31WtsqPtzDss0zvo484jNH2QIOvAiX1-wk7L70K7cNSgjE9spu.jpeg"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Click2Houston",
+   "read_more_link": "https://www.click2houston.com/topic/Robert_E._Lee_High_School/#:~:text=Robert%20E.%20Lee%20High%20School,a%20High%20School%20in%20Houston."
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Robert E. Lee High School - Houston TX",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvceUObGQZhSmjsgTQpifjr1y7JUQ:1789071840761&q=Robert+E.+Lee+High+School+-+Houston+TX&sa=X&ved=2ahUKEwjn_K786-SWAxVcimMGHZKACHkQ1QJ6BAh8EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Robert+E.+Lee+High+School+-+Houston+TX"
+  },
+  {
+   "block_position": 1,
+   "query": "Robert E. Lee High School Baytown",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvceUObGQZhSmjsgTQpifjr1y7JUQ:1789071840761&q=Robert+E.+Lee+High+School+Baytown&sa=X&ved=2ahUKEwjn_K786-SWAxVcimMGHZKACHkQ1QJ6BQiHARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Robert+E.+Lee+High+School+Baytown"
+  },
+  {
+   "block_position": 1,
+   "query": "Robert E. Lee High School Football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvceUObGQZhSmjsgTQpifjr1y7JUQ:1789071840761&q=Robert+E.+Lee+High+School+Football&sa=X&ved=2ahUKEwjn_K786-SWAxVcimMGHZKACHkQ1QJ6BQiFARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Robert+E.+Lee+High+School+Football"
+  },
+  {
+   "block_position": 1,
+   "query": "Robert E. Lee High School Tyler, TX",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvceUObGQZhSmjsgTQpifjr1y7JUQ:1789071840761&q=Robert+E.+Lee+High+School+Tyler,+TX&sa=X&ved=2ahUKEwjn_K786-SWAxVcimMGHZKACHkQ1QJ6BQiEARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Robert+E.+Lee+High+School+Tyler%2C+TX"
+  },
+  {
+   "block_position": 1,
+   "query": "Robert E. Lee High School hillcroft",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvceUObGQZhSmjsgTQpifjr1y7JUQ:1789071840761&q=Robert+E.+Lee+High+School+hillcroft&sa=X&ved=2ahUKEwjn_K786-SWAxVcimMGHZKACHkQ1QJ6BQiCARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Robert+E.+Lee+High+School+hillcroft"
+  },
+  {
+   "block_position": 1,
+   "query": "Robert e lee high school photos",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvceUObGQZhSmjsgTQpifjr1y7JUQ:1789071840761&q=Robert+e+lee+high+school+photos&sa=X&ved=2ahUKEwjn_K786-SWAxVcimMGHZKACHkQ1QJ6BQiBARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Robert+e+lee+high+school+photos"
+  },
+  {
+   "block_position": 1,
+   "query": "Robert e lee high school graduation 2026",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvceUObGQZhSmjsgTQpifjr1y7JUQ:1789071840761&q=Robert+e+lee+high+school+graduation+2026&sa=X&ved=2ahUKEwjn_K786-SWAxVcimMGHZKACHkQ1QJ6BQiAARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Robert+e+lee+high+school+graduation+2026"
+  },
+  {
+   "block_position": 1,
+   "query": "Robert E. Lee High School mascot",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvceUObGQZhSmjsgTQpifjr1y7JUQ:1789071840761&q=Robert+E.+Lee+High+School+mascot&sa=X&ved=2ahUKEwjn_K786-SWAxVcimMGHZKACHkQ1QJ6BAh_EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Robert+E.+Lee+High+School+mascot"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Robert+E.+Lee+High+School%22+Texas&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvceUObGQZhSmjsgTQpifjr1y7JUQ:1789071840761&ei=4BGjaueMLtyUjuMPkoGiyAc&start=10&sa=N&sstk=AS6-VmIgH3jM7GPCGtUMEuA4t4xy4lqmRTFcAzFYHu3yCGO5hQCAsrvqhVJdRqTr5hpN4-CTgfnSvQwtWAVHc5KJw-dFUgyvFwL3Lw&ved=2ahUKEwjn_K786-SWAxVcimMGHZKACHkQ8NMDegQIdxAS",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Robert+E.+Lee+High+School%22+Texas&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvceUObGQZhSmjsgTQpifjr1y7JUQ:1789071840761&ei=4BGjaueMLtyUjuMPkoGiyAc&start=10&sa=N&sstk=AS6-VmIgH3jM7GPCGtUMEuA4t4xy4lqmRTFcAzFYHu3yCGO5hQCAsrvqhVJdRqTr5hpN4-CTgfnSvQwtWAVHc5KJw-dFUgyvFwL3Lw&ved=2ahUKEwjn_K786-SWAxVcimMGHZKACHkQ8tMDegQIdxAE",
+   "3": "https://www.google.com/search?q=%22Robert+E.+Lee+High+School%22+Texas&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvceUObGQZhSmjsgTQpifjr1y7JUQ:1789071840761&ei=4BGjaueMLtyUjuMPkoGiyAc&start=20&sa=N&sstk=AS6-VmIgH3jM7GPCGtUMEuA4t4xy4lqmRTFcAzFYHu3yCGO5hQCAsrvqhVJdRqTr5hpN4-CTgfnSvQwtWAVHc5KJw-dFUgyvFwL3Lw&ved=2ahUKEwjn_K786-SWAxVcimMGHZKACHkQ8tMDegQIdxAG",
+   "4": "https://www.google.com/search?q=%22Robert+E.+Lee+High+School%22+Texas&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvceUObGQZhSmjsgTQpifjr1y7JUQ:1789071840761&ei=4BGjaueMLtyUjuMPkoGiyAc&start=30&sa=N&sstk=AS6-VmIgH3jM7GPCGtUMEuA4t4xy4lqmRTFcAzFYHu3yCGO5hQCAsrvqhVJdRqTr5hpN4-CTgfnSvQwtWAVHc5KJw-dFUgyvFwL3Lw&ved=2ahUKEwjn_K786-SWAxVcimMGHZKACHkQ8tMDegQIdxAI",
+   "5": "https://www.google.com/search?q=%22Robert+E.+Lee+High+School%22+Texas&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvceUObGQZhSmjsgTQpifjr1y7JUQ:1789071840761&ei=4BGjaueMLtyUjuMPkoGiyAc&start=40&sa=N&sstk=AS6-VmIgH3jM7GPCGtUMEuA4t4xy4lqmRTFcAzFYHu3yCGO5hQCAsrvqhVJdRqTr5hpN4-CTgfnSvQwtWAVHc5KJw-dFUgyvFwL3Lw&ved=2ahUKEwjn_K786-SWAxVcimMGHZKACHkQ8tMDegQIdxAK",
+   "6": "https://www.google.com/search?q=%22Robert+E.+Lee+High+School%22+Texas&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvceUObGQZhSmjsgTQpifjr1y7JUQ:1789071840761&ei=4BGjaueMLtyUjuMPkoGiyAc&start=50&sa=N&sstk=AS6-VmIgH3jM7GPCGtUMEuA4t4xy4lqmRTFcAzFYHu3yCGO5hQCAsrvqhVJdRqTr5hpN4-CTgfnSvQwtWAVHc5KJw-dFUgyvFwL3Lw&ved=2ahUKEwjn_K786-SWAxVcimMGHZKACHkQ8tMDegQIdxAM",
+   "7": "https://www.google.com/search?q=%22Robert+E.+Lee+High+School%22+Texas&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvceUObGQZhSmjsgTQpifjr1y7JUQ:1789071840761&ei=4BGjaueMLtyUjuMPkoGiyAc&start=60&sa=N&sstk=AS6-VmIgH3jM7GPCGtUMEuA4t4xy4lqmRTFcAzFYHu3yCGO5hQCAsrvqhVJdRqTr5hpN4-CTgfnSvQwtWAVHc5KJw-dFUgyvFwL3Lw&ved=2ahUKEwjn_K786-SWAxVcimMGHZKACHkQ8tMDegQIdxAO",
+   "8": "https://www.google.com/search?q=%22Robert+E.+Lee+High+School%22+Texas&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvceUObGQZhSmjsgTQpifjr1y7JUQ:1789071840761&ei=4BGjaueMLtyUjuMPkoGiyAc&start=70&sa=N&sstk=AS6-VmIgH3jM7GPCGtUMEuA4t4xy4lqmRTFcAzFYHu3yCGO5hQCAsrvqhVJdRqTr5hpN4-CTgfnSvQwtWAVHc5KJw-dFUgyvFwL3Lw&ved=2ahUKEwjn_K786-SWAxVcimMGHZKACHkQ8tMDegQIdxAQ"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Robert+E.+Lee+High+School%22+Texas&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Robert+E.+Lee+High+School%22+Texas&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Robert+E.+Lee+High+School%22+Texas&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Robert+E.+Lee+High+School%22+Texas&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Robert+E.+Lee+High+School%22+Texas&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Robert+E.+Lee+High+School%22+Texas&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Robert+E.+Lee+High+School%22+Texas&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Robert+E.+Lee+High+School%22+Texas&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Robert+E.+Lee+High+School%22+Texas&start=70"
+  }
+ }
+}

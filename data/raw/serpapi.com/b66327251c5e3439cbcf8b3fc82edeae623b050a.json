@@ -1,0 +1,462 @@
+{
+ "search_information": {
+  "query_displayed": "\"Southlake Carroll High School\" Texas",
+  "total_results": 39000,
+  "time_taken_displayed": 0.27,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "local_map": {
+  "image": "https://www.google.com/maps/vt/data=GlaR-ycpAK1ccWBsIg39_xAkf311pMw9l5CbceLPTK-IhkcazrM_AlDdP58Pec4Pnv7GCEyJokwWgSvY_zEivAO-uwh1o44N0XTrY2BE0um7alhFo4MVzIzbLxKjnzJSm06PW1_-cvH-FBmCU5LdzaeaPxQ7B18_0dJcAf3FBwyDCPVxR3fnBm2H5huWxUV-hz-3VAKc-2AEX7Vmkzi80GbADCo8A8Q2OEVTxln9UoyNJJ4HDivnqYESMV649ZJVWlNkLSD3AeSUfV8ISjySDnDYuZb_M9QFWTZ4HkAjm4c7KshCDDLraXlxl7up3w7qF1IGibd1geu7UbopbtJIDQMPfhpSYM92dwqfVb-f3_Ad16krVNSOFaWoYgDCB4VZKH59YDkWZ0yHIgPUfLPbbm-Oyej6f-g1nVjudKeTRoKGDpz3zB62_koVJYvINdKiM9uczTXU3w",
+  "gps_coordinates": {
+   "latitude": 32.95797741405952,
+   "longitude": -97.15621948242188
+  }
+ },
+ "local_results": {
+  "places": [
+   {
+    "position": 1,
+    "links": {
+     "website": "https://csh.southlakecarroll.edu/",
+     "directions": "https://www.google.com/maps/dir//Carroll+Senior+High+School,+1501+W+Southlake+Blvd,+Southlake,+TX+76092/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x864dd421940409d7:0x55c89ac1113362ed?sa=X&ved=2ahUKEwjG8Mmu7OSWAxVTslYBHSIDCKIQ48ADegQIJBAA&hl=en&gl=us"
+    },
+    "place_id": "6181360642573951725",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=6181360642573951725&q=%22Southlake+Carroll+High+School%22+Texas",
+    "provider_id": "/m/027_ksb",
+    "gps_coordinates": {
+     "latitude": 32.940019,
+     "longitude": -97.176243
+    },
+    "title": "Carroll Senior High School",
+    "reviews_original": "No reviews",
+    "type": "Senior high school",
+    "phone": "(817) 949-5800",
+    "address": "1501 W Southlake Blvd",
+    "hours": "Closed \u00b7 Opens 7:30 AM Fri"
+   },
+   {
+    "position": 2,
+    "links": {
+     "website": "http://chs.southlakecarroll.edu/",
+     "directions": "https://www.google.com/maps/dir//Carroll+High+School,+800+N+White+Chapel+Blvd,+Southlake,+TX+76092/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x864dd46dc1dd073d:0xeb5a6e6caf1171c0?sa=X&ved=2ahUKEwjG8Mmu7OSWAxVTslYBHSIDCKIQ48ADegQIIRAA&hl=en&gl=us"
+    },
+    "place_id": "16958988759889703360",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=16958988759889703360&q=%22Southlake+Carroll+High+School%22+Texas",
+    "provider_id": "/g/1hf4243yw",
+    "gps_coordinates": {
+     "latitude": 32.95153,
+     "longitude": -97.153196
+    },
+    "title": "Carroll High School",
+    "reviews_original": "No reviews",
+    "type": "High school",
+    "phone": "(817) 949-5600",
+    "address": "800 N White Chapel Blvd",
+    "hours": "Open \u00b7 Closes 4:30 PM"
+   },
+   {
+    "position": 3,
+    "rating": 4.0,
+    "reviews": 1,
+    "reviews_original": "(1)",
+    "links": {
+     "website": "http://dragonsportsnetwork.com/",
+     "directions": "https://www.google.com/maps/dir//SOUTHLAKE+CARROLL+HIGH+SCHOOL+ATHLETICS,+2400+N+Carroll+Ave,+Southlake,+TX+76092/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x864dd3820b00aa1d:0xacc73c73893b8004?sa=X&ved=2ahUKEwjG8Mmu7OSWAxVTslYBHSIDCKIQ48ADegQIIBAA&hl=en&gl=us"
+    },
+    "place_id": "12449986161810309124",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=12449986161810309124&q=%22Southlake+Carroll+High+School%22+Texas",
+    "provider_id": "/g/11lgmyggvh",
+    "gps_coordinates": {
+     "latitude": 32.971988,
+     "longitude": -97.13612
+    },
+    "title": "SOUTHLAKE CARROLL HIGH SCHOOL ATHLETICS",
+    "type": "Athletic club",
+    "phone": "(817) 949-8300",
+    "address": "2400 N Carroll Ave"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "How many NFL players went to Southlake Carroll High School?",
+   "type": "ai_overview",
+   "page_token": "8oedBXicHdBdbpswAABg7TJ9bAyBbESKKrFgqJvQ4diuw8tkbBKDzU8SBglvu8LO0FPtNJP2HeH7_Wmr1vz98kcPQ39bLxbTND2fu-5sy2fZNQtxe7RyIYW1hZBmvfq6cl5OchONMvx-lWFG-55tMSAJ-5EDneQJ5BhgmG5180HtrrTp6x4GbQkROtoQUvfV23E7yYNzzag_Squ8gqOERHYualSlzHg7wkDu-hCb4IA_zJ2BIKSRcYvYr9655Wkc_MIRa9VSjTTWDokDTwH_kC7ZSjTprWz3YEe_LQu3f2MAUrINWQZ0RhMW7RkSeawujKBD2YYNi7ypNPcqY3qSM8zZjB6iZkdK6CPn-iLiQBec8Qz4FwVwjY26RloREQ2XI0-1MJFP49tDNkFWuIHO3SEs7l2VUTzL2jbUQSMBeBbcohyy-h0iks14VMZ5OwJWy2aa1PR0kuNm-fT_evPz1Azr_tqd_wGaPIyO",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=8oedBXicHdBdbpswAABg7TJ9bAyBbESKKrFgqJvQ4diuw8tkbBKDzU8SBglvu8LO0FPtNJP2HeH7_Wmr1vz98kcPQ39bLxbTND2fu-5sy2fZNQtxe7RyIYW1hZBmvfq6cl5OchONMvx-lWFG-55tMSAJ-5EDneQJ5BhgmG5180HtrrTp6x4GbQkROtoQUvfV23E7yYNzzag_Squ8gqOERHYualSlzHg7wkDu-hCb4IA_zJ2BIKSRcYvYr9655Wkc_MIRa9VSjTTWDokDTwH_kC7ZSjTprWz3YEe_LQu3f2MAUrINWQZ0RhMW7RkSeawujKBD2YYNi7ypNPcqY3qSM8zZjB6iZkdK6CPn-iLiQBec8Qz4FwVwjY26RloREQ2XI0-1MJFP49tDNkFWuIHO3SEs7l2VUTzL2jbUQSMBeBbcohyy-h0iks14VMZ5OwJWy2aa1PR0kuNm-fT_evPz1Azr_tqd_wGaPIyO",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmNXcDFVV2hwTUVOb0xXcG1hREZoVUUxTlVqVjVOV0pXVW1zdFYwMURiR05NY0VKRU5IbGpiamhWY0VWNFQzRjBUVFZ1ZVVwT01VOXlkWE5JWTBsbmRYQTNkVXhXZUdWc1VEVmtiQzFRVG5WUmEzUnlkWEp2UjI5S2R4SVhVMmhMYW1GellXcEJPVkJyTW5KdlVHOXZZV2RyUVc4YUlrRkVjM0k1WmxSWlQzbHFjV1pQVVdGcU9YUTRhRU4yVFZsWFUzVXljVEpPT0ZFIiwiZmN2IjoiMyIsImVpIjoiU2hLamFzYWpBOVBrMnJvUG9vYWdrQW8iLCJxYyI6IkNpTnpiM1YwYUd4aGEyVWdZMkZ5Y205c2JDQm9hV2RvSUhOamFHOXZiQ0IwWlhoaGN4QUFmZnd5Q3o4IiwicXVlc3Rpb24iOiJIb3cgbWFueSBORkwgcGxheWVycyB3ZW50IHRvIFNvdXRobGFrZSBDYXJyb2xsIEhpZ2ggU2Nob29sPyIsImxrIjoiY3dYQndRMkFRQWdFd0Q1OGJSMTJReTRveGhVTVlDN1h2VFBiYmpIeGlDXzRRYnlVcFZtWTZvME9WSHh0bEZzeEpETkkySFVhYWxnRWZ3IiwiYnMiOiJjNDNRTVF2Q01CQUZZRnd6T1hjNlVHZHQzVlRvb0VnRmRhbmdITnEwQ1lrNVNTSzEtT2VsMGxSQktlN3ZlNDg3OGlETEJDdTRVRjNEY2J1SHE2STFNeFlxcGgwNGhCUnZqaXNxR2F5cE1hZ1VKS0xra0dZY1VjWFJLbGh3ejNXaHZyanRlTlp5M25ENzRvU1IyWmxUQjhMMjc0RFVXR2tvME1SUkdFeXIxdlNXdncwNWtMR2Y4ZVc3ZEFPR2FzbHlFQnBPN0U1dEhFMkNrYV8yaGNMbUh6blg1SWdnVWZjeUtYSUxKZjd4cVhrUThoLXE5NGJoNEFrIiwiaWQiOiJmY19TaEtqYXNhakE5UGsycm9Qb29hZ2tBb182In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmNXcDFVV2hwTUVOb0xXcG1hREZoVUUxTlVqVjVOV0pXVW1zdFYwMURiR05NY0VKRU5IbGpiamhWY0VWNFQzRjBUVFZ1ZVVwT01VOXlkWE5JWTBsbmRYQTNkVXhXZUdWc1VEVmtiQzFRVG5WUmEzUnlkWEp2UjI5S2R4SVhVMmhMYW1GellXcEJPVkJyTW5KdlVHOXZZV2RyUVc4YUlrRkVjM0k1WmxSWlQzbHFjV1pQVVdGcU9YUTRhRU4yVFZsWFUzVXljVEpPT0ZFIiwiZmN2IjoiMyIsImVpIjoiU2hLamFzYWpBOVBrMnJvUG9vYWdrQW8iLCJxYyI6IkNpTnpiM1YwYUd4aGEyVWdZMkZ5Y205c2JDQm9hV2RvSUhOamFHOXZiQ0IwWlhoaGN4QUFmZnd5Q3o4IiwicXVlc3Rpb24iOiJIb3cgbWFueSBORkwgcGxheWVycyB3ZW50IHRvIFNvdXRobGFrZSBDYXJyb2xsIEhpZ2ggU2Nob29sPyIsImxrIjoiY3dYQndRMkFRQWdFd0Q1OGJSMTJReTRveGhVTVlDN1h2VFBiYmpIeGlDXzRRYnlVcFZtWTZvME9WSHh0bEZzeEpETkkySFVhYWxnRWZ3IiwiYnMiOiJjNDNRTVF2Q01CQUZZRnd6T1hjNlVHZHQzVlRvb0VnRmRhbmdITnEwQ1lrNVNTSzEtT2VsMGxSQktlN3ZlNDg3OGlETEJDdTRVRjNEY2J1SHE2STFNeFlxcGgwNGhCUnZqaXNxR2F5cE1hZ1VKS0xra0dZY1VjWFJLbGh3ejNXaHZyanRlTlp5M25ENzRvU1IyWmxUQjhMMjc0RFVXR2tvME1SUkdFeXIxdlNXdncwNWtMR2Y4ZVc3ZEFPR2FzbHlFQnBPN0U1dEhFMkNrYV8yaGNMbUh6blg1SWdnVWZjeUtYSUxKZjd4cVhrUThoLXE5NGJoNEFrIiwiaWQiOiJmY19TaEtqYXNhakE5UGsycm9Qb29hZ2tBb182In0%3D"
+  },
+  {
+   "question": "What is Southlake Carroll High School known for?",
+   "type": "ai_overview",
+   "page_token": "8LU9KXicHdBRbtowGABg7TJ9LIkhTCChSWntBGg82dh_iF8mxxAMsZO0WBD6tivsDDvVTrNpJ_ik7-dvd-7aP19-2RCG63Iyud_vz6e-P7njs-n9RF8fnZkY7VytTbucf53H3xqzwjeTvnyYlMlhgFce7Uqbi4xsyl2ExH7QsgQPGUlEm9xUOWxZtB51nM5k7tbKxw9zgURko61EFXOhetba7Q4HUpTuUmB35pjnRrgOpHuHnGdVR6_UUVBokUI3VAUitPYBSWyngE-RdOS7iHCicrfnZNP885s6JgEQuR8QZ8LRhnl40y6dGUKFQXxWes7VSzzo0s3BsVjKQ1F1DsHeAkw3LbzSrEbWV1LBm7RcEOh23sywPQiNw3u1p1a3OJHZ9WH8gtVoYRUKaT32Zyb5p7k4D4RvNcaPY2nGI_QjJ2krYhVKSeKiG2jl14ixp8bcVtOn_9erH40Py-GjP_0FdPCMXw",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=8LU9KXicHdBRbtowGABg7TJ9LIkhTCChSWntBGg82dh_iF8mxxAMsZO0WBD6tivsDDvVTrNpJ_ik7-dvd-7aP19-2RCG63Iyud_vz6e-P7njs-n9RF8fnZkY7VytTbucf53H3xqzwjeTvnyYlMlhgFce7Uqbi4xsyl2ExH7QsgQPGUlEm9xUOWxZtB51nM5k7tbKxw9zgURko61EFXOhetba7Q4HUpTuUmB35pjnRrgOpHuHnGdVR6_UUVBokUI3VAUitPYBSWyngE-RdOS7iHCicrfnZNP885s6JgEQuR8QZ8LRhnl40y6dGUKFQXxWes7VSzzo0s3BsVjKQ1F1DsHeAkw3LbzSrEbWV1LBm7RcEOh23sywPQiNw3u1p1a3OJHZ9WH8gtVoYRUKaT32Zyb5p7k4D4RvNcaPY2nGI_QjJ2krYhVKSeKiG2jl14ixp8bcVtOn_9erH40Py-GjP_0FdPCMXw",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmNXcDFVV2hwTUVOb0xXcG1hREZoVUUxTlVqVjVOV0pXVW1zdFYwMURiR05NY0VKRU5IbGpiamhWY0VWNFQzRjBUVFZ1ZVVwT01VOXlkWE5JWTBsbmRYQTNkVXhXZUdWc1VEVmtiQzFRVG5WUmEzUnlkWEp2UjI5S2R4SVhVMmhMYW1GellXcEJPVkJyTW5KdlVHOXZZV2RyUVc4YUlrRkVjM0k1WmxSWlQzbHFjV1pQVVdGcU9YUTRhRU4yVFZsWFUzVXljVEpPT0ZFIiwiZmN2IjoiMyIsImVpIjoiU2hLamFzYWpBOVBrMnJvUG9vYWdrQW8iLCJxYyI6IkNpTnpiM1YwYUd4aGEyVWdZMkZ5Y205c2JDQm9hV2RvSUhOamFHOXZiQ0IwWlhoaGN4QUFmZnd5Q3o4IiwicXVlc3Rpb24iOiJXaGF0IGlzIFNvdXRobGFrZSBDYXJyb2xsIEhpZ2ggU2Nob29sIGtub3duIGZvcj8iLCJsayI6IkdpOTNhR0YwSUdseklITnZkWFJvYkdGclpTQmpZWEp5YjJ4c0lHaHBaMmdnYzJOb2IyOXNJR3R1YjNkdUlHWnZjZyIsImJzIjoiYzQzUU1RdkNNQkFGWUZ3ek9YYzZVR2R0M1ZUb29FZ0ZkYW5nSE5xMENZazVTU0sxLU9lbDBsUkJLZTd2ZTQ4NzhpRExCQ3U0VUYzRGNidUhxNkkxTXhZcXBoMDRoQlJ2amlzcUdheXBNYWdVSktMa2tHWWNVY1hSS2xod3ozV2h2cmp0ZU5aeTNuRDc0b1NSMlpsVEI4TDI3NERVV0drbzBNUlJHRXlyMXZTV3Z3MDVrTEdmOGVXN2RBT0dhc2x5RUJwTzdFNXRIRTJDa2FfMmhjTG1Iem5YNUlnZ1VmY3lLWElMSmY3eHFYa1E4aC1xOTRiaDRBayIsImlkIjoiZmNfU2hLamFzYWpBOVBrMnJvUG9vYWdrQW9fNiJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmNXcDFVV2hwTUVOb0xXcG1hREZoVUUxTlVqVjVOV0pXVW1zdFYwMURiR05NY0VKRU5IbGpiamhWY0VWNFQzRjBUVFZ1ZVVwT01VOXlkWE5JWTBsbmRYQTNkVXhXZUdWc1VEVmtiQzFRVG5WUmEzUnlkWEp2UjI5S2R4SVhVMmhMYW1GellXcEJPVkJyTW5KdlVHOXZZV2RyUVc4YUlrRkVjM0k1WmxSWlQzbHFjV1pQVVdGcU9YUTRhRU4yVFZsWFUzVXljVEpPT0ZFIiwiZmN2IjoiMyIsImVpIjoiU2hLamFzYWpBOVBrMnJvUG9vYWdrQW8iLCJxYyI6IkNpTnpiM1YwYUd4aGEyVWdZMkZ5Y205c2JDQm9hV2RvSUhOamFHOXZiQ0IwWlhoaGN4QUFmZnd5Q3o4IiwicXVlc3Rpb24iOiJXaGF0IGlzIFNvdXRobGFrZSBDYXJyb2xsIEhpZ2ggU2Nob29sIGtub3duIGZvcj8iLCJsayI6IkdpOTNhR0YwSUdseklITnZkWFJvYkdGclpTQmpZWEp5YjJ4c0lHaHBaMmdnYzJOb2IyOXNJR3R1YjNkdUlHWnZjZyIsImJzIjoiYzQzUU1RdkNNQkFGWUZ3ek9YYzZVR2R0M1ZUb29FZ0ZkYW5nSE5xMENZazVTU0sxLU9lbDBsUkJLZTd2ZTQ4NzhpRExCQ3U0VUYzRGNidUhxNkkxTXhZcXBoMDRoQlJ2amlzcUdheXBNYWdVSktMa2tHWWNVY1hSS2xod3ozV2h2cmp0ZU5aeTNuRDc0b1NSMlpsVEI4TDI3NERVV0drbzBNUlJHRXlyMXZTV3Z3MDVrTEdmOGVXN2RBT0dhc2x5RUJwTzdFNXRIRTJDa2FfMmhjTG1Iem5YNUlnZ1VmY3lLWElMSmY3eHFYa1E4aC1xOTRiaDRBayIsImlkIjoiZmNfU2hLamFzYWpBOVBrMnJvUG9vYWdrQW9fNiJ9"
+  },
+  {
+   "question": "What is Carroll ISD ranked in Texas?",
+   "type": "ai_overview",
+   "page_token": "ClgpjnicHdDNToMwAADg-DI7On5EsyWLEVcGKGi7thu9mNJu60aBKt0Qbr6LT-XTaLx_p-_rWx-b6ufqoqw13Xw67fv--tC2B727Fm095d3QiKngWpdcVPPbu1v3fi8W4JyEj-9JCIkxdImcNdXZhuiTpGnHGh3ISAO5YjHB-RNxIoTjdPm8gTc8Vgk6qVdRaSPiyEEbk9GaDoUvnXWc2xKzpqhTht2wQFsKc9C5IhI-BqZGPjtnjjWE2DN0JcPAVYgoVzg0QR7rEY1i0ag92qpAruwHd6KEeqwuMRl2GAwvODfQC3oOips_F2Sr4CVbO0FZyZF5atw1bCkJGbkOQ6Ak5sC-F9tc8QoEZNUNop7B0psp5tmw_GyPkKBRnHRNTjoVLvIwnRXr8cHPlqznoz4XRCKm047GuYJwsheXhT_5_1y87Ws7Nx_t4Rc9GIP7",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ClgpjnicHdDNToMwAADg-DI7On5EsyWLEVcGKGi7thu9mNJu60aBKt0Qbr6LT-XTaLx_p-_rWx-b6ufqoqw13Xw67fv--tC2B727Fm095d3QiKngWpdcVPPbu1v3fi8W4JyEj-9JCIkxdImcNdXZhuiTpGnHGh3ISAO5YjHB-RNxIoTjdPm8gTc8Vgk6qVdRaSPiyEEbk9GaDoUvnXWc2xKzpqhTht2wQFsKc9C5IhI-BqZGPjtnjjWE2DN0JcPAVYgoVzg0QR7rEY1i0ag92qpAruwHd6KEeqwuMRl2GAwvODfQC3oOips_F2Sr4CVbO0FZyZF5atw1bCkJGbkOQ6Ak5sC-F9tc8QoEZNUNop7B0psp5tmw_GyPkKBRnHRNTjoVLvIwnRXr8cHPlqznoz4XRCKm047GuYJwsheXhT_5_1y87Ws7Nx_t4Rc9GIP7",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmNXcDFVV2hwTUVOb0xXcG1hREZoVUUxTlVqVjVOV0pXVW1zdFYwMURiR05NY0VKRU5IbGpiamhWY0VWNFQzRjBUVFZ1ZVVwT01VOXlkWE5JWTBsbmRYQTNkVXhXZUdWc1VEVmtiQzFRVG5WUmEzUnlkWEp2UjI5S2R4SVhVMmhMYW1GellXcEJPVkJyTW5KdlVHOXZZV2RyUVc4YUlrRkVjM0k1WmxSWlQzbHFjV1pQVVdGcU9YUTRhRU4yVFZsWFUzVXljVEpPT0ZFIiwiZmN2IjoiMyIsImVpIjoiU2hLamFzYWpBOVBrMnJvUG9vYWdrQW8iLCJxYyI6IkNpTnpiM1YwYUd4aGEyVWdZMkZ5Y205c2JDQm9hV2RvSUhOamFHOXZiQ0IwWlhoaGN4QUFmZnd5Q3o4IiwicXVlc3Rpb24iOiJXaGF0IGlzIENhcnJvbGwgSVNEIHJhbmtlZCBpbiBUZXhhcz8iLCJsayI6IkdpTjNhR0YwSUdseklHTmhjbkp2Ykd3Z2FYTmtJSEpoYm10bFpDQnBiaUIwWlhoaGN3IiwiYnMiOiJjNDNRTVF2Q01CQUZZRnd6T1hjNlVHZHQzVlRvb0VnRmRhbmdITnEwQ1lrNVNTSzEtT2VsMGxSQktlN3ZlNDg3OGlETEJDdTRVRjNEY2J1SHE2STFNeFlxcGgwNGhCUnZqaXNxR2F5cE1hZ1VKS0xra0dZY1VjWFJLbGh3ejNXaHZyanRlTlp5M25ENzRvU1IyWmxUQjhMMjc0RFVXR2tvME1SUkdFeXIxdlNXdncwNWtMR2Y4ZVc3ZEFPR2FzbHlFQnBPN0U1dEhFMkNrYV8yaGNMbUh6blg1SWdnVWZjeUtYSUxKZjd4cVhrUThoLXE5NGJoNEFrIiwiaWQiOiJmY19TaEtqYXNhakE5UGsycm9Qb29hZ2tBb182In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmNXcDFVV2hwTUVOb0xXcG1hREZoVUUxTlVqVjVOV0pXVW1zdFYwMURiR05NY0VKRU5IbGpiamhWY0VWNFQzRjBUVFZ1ZVVwT01VOXlkWE5JWTBsbmRYQTNkVXhXZUdWc1VEVmtiQzFRVG5WUmEzUnlkWEp2UjI5S2R4SVhVMmhMYW1GellXcEJPVkJyTW5KdlVHOXZZV2RyUVc4YUlrRkVjM0k1WmxSWlQzbHFjV1pQVVdGcU9YUTRhRU4yVFZsWFUzVXljVEpPT0ZFIiwiZmN2IjoiMyIsImVpIjoiU2hLamFzYWpBOVBrMnJvUG9vYWdrQW8iLCJxYyI6IkNpTnpiM1YwYUd4aGEyVWdZMkZ5Y205c2JDQm9hV2RvSUhOamFHOXZiQ0IwWlhoaGN4QUFmZnd5Q3o4IiwicXVlc3Rpb24iOiJXaGF0IGlzIENhcnJvbGwgSVNEIHJhbmtlZCBpbiBUZXhhcz8iLCJsayI6IkdpTjNhR0YwSUdseklHTmhjbkp2Ykd3Z2FYTmtJSEpoYm10bFpDQnBiaUIwWlhoaGN3IiwiYnMiOiJjNDNRTVF2Q01CQUZZRnd6T1hjNlVHZHQzVlRvb0VnRmRhbmdITnEwQ1lrNVNTSzEtT2VsMGxSQktlN3ZlNDg3OGlETEJDdTRVRjNEY2J1SHE2STFNeFlxcGgwNGhCUnZqaXNxR2F5cE1hZ1VKS0xra0dZY1VjWFJLbGh3ejNXaHZyanRlTlp5M25ENzRvU1IyWmxUQjhMMjc0RFVXR2tvME1SUkdFeXIxdlNXdncwNWtMR2Y4ZVc3ZEFPR2FzbHlFQnBPN0U1dEhFMkNrYV8yaGNMbUh6blg1SWdnVWZjeUtYSUxKZjd4cVhrUThoLXE5NGJoNEFrIiwiaWQiOiJmY19TaEtqYXNhakE5UGsycm9Qb29hZ2tBb182In0%3D"
+  },
+  {
+   "question": "How many kids go to Southlake Carroll High School?",
+   "type": "ai_overview",
+   "page_token": "5G4EBnicHdBZctowAADQ6WXyGbwUWjPDZGKQiJmgxEKLrZ-OLBkEkpeCEy9_vULPkFP1NOnkCO_9-XDn2v779td0XXtbzmZ939-fmubkynvVVDN5G2s1U9K5Qiq7XPxY-A9HtQLvKl5fVZzStmUb7B0sE8g9jqmNwnLL6sK1CbGwL63w6AWvqRNXUu3O-wzBEphET3G_r1iWBdEr81SXTfEWBdgVnssVNGs9mc0hiL7zp9Zn3I85mPt8a3JCDXoB_kJnbSgJ2nGGbymBkDKYcTuM7IKOAv6caKhDXQkmfJdJBz3M9VB4wxsjInnZ6FwD25dZMn_mu7isxUI6M2pmkoKjIQ8igaBOiI8FZdF6X7tnUhtCiA6ZwzEwmkjQ_c4zZKQFc7q9jaqK0iKIjAi6uBiac0rxpC6u-m9_Q37cHyzE-wtKVO2unLdTySJ0cJhj0Ema3h3V-yq8-7pe_TpW3bK9NqdPuO6ODw",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=5G4EBnicHdBZctowAADQ6WXyGbwUWjPDZGKQiJmgxEKLrZ-OLBkEkpeCEy9_vULPkFP1NOnkCO_9-XDn2v779td0XXtbzmZ939-fmubkynvVVDN5G2s1U9K5Qiq7XPxY-A9HtQLvKl5fVZzStmUb7B0sE8g9jqmNwnLL6sK1CbGwL63w6AWvqRNXUu3O-wzBEphET3G_r1iWBdEr81SXTfEWBdgVnssVNGs9mc0hiL7zp9Zn3I85mPt8a3JCDXoB_kJnbSgJ2nGGbymBkDKYcTuM7IKOAv6caKhDXQkmfJdJBz3M9VB4wxsjInnZ6FwD25dZMn_mu7isxUI6M2pmkoKjIQ8igaBOiI8FZdF6X7tnUhtCiA6ZwzEwmkjQ_c4zZKQFc7q9jaqK0iKIjAi6uBiac0rxpC6u-m9_Q37cHyzE-wtKVO2unLdTySJ0cJhj0Ema3h3V-yq8-7pe_TpW3bK9NqdPuO6ODw",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmNXcDFVV2hwTUVOb0xXcG1hREZoVUUxTlVqVjVOV0pXVW1zdFYwMURiR05NY0VKRU5IbGpiamhWY0VWNFQzRjBUVFZ1ZVVwT01VOXlkWE5JWTBsbmRYQTNkVXhXZUdWc1VEVmtiQzFRVG5WUmEzUnlkWEp2UjI5S2R4SVhVMmhMYW1GellXcEJPVkJyTW5KdlVHOXZZV2RyUVc4YUlrRkVjM0k1WmxSWlQzbHFjV1pQVVdGcU9YUTRhRU4yVFZsWFUzVXljVEpPT0ZFIiwiZmN2IjoiMyIsImVpIjoiU2hLamFzYWpBOVBrMnJvUG9vYWdrQW8iLCJxYyI6IkNpTnpiM1YwYUd4aGEyVWdZMkZ5Y205c2JDQm9hV2RvSUhOamFHOXZiQ0IwWlhoaGN4QUFmZnd5Q3o4IiwicXVlc3Rpb24iOiJIb3cgbWFueSBraWRzIGdvIHRvIFNvdXRobGFrZSBDYXJyb2xsIEhpZ2ggU2Nob29sPyIsImxrIjoiR2pGb2IzY2diV0Z1ZVNCcmFXUnpJR2R2SUhSdklITnZkWFJvYkdGclpTQmpZWEp5YjJ4c0lHaHBaMmdnYzJOb2IyOXMiLCJicyI6ImM0M1FNUXZDTUJBRllGd3pPWGM2VUdkdDNWVG9vRWdGZGFuZ0hOcTBDWWs1U1NLMS1PZWwwbFJCS2U3dmU0ODc4aURMQkN1NFVGM0RjYnVIcTZJMU14WXFwaDA0aEJSdmppc3FHYXlwTWFnVUpLTGtrR1ljVWNYUktsaHd6M1dodnJqdGVOWnkzbkQ3NG9TUjJabFRCOEwyNzREVVdHa28wTVJSR0V5cjF2U1d2dzA1a0xHZjhlVzdkQU9HYXNseUVCcE83RTV0SEUyQ2thXzJoY0xtSHpuWDVJZ2dVZmN5S1hJTEpmN3hxWGtROGgtcTk0Ymg0QWsiLCJpZCI6ImZjX1NoS2phc2FqQTlQazJyb1Bvb2Fna0FvXzYifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmNXcDFVV2hwTUVOb0xXcG1hREZoVUUxTlVqVjVOV0pXVW1zdFYwMURiR05NY0VKRU5IbGpiamhWY0VWNFQzRjBUVFZ1ZVVwT01VOXlkWE5JWTBsbmRYQTNkVXhXZUdWc1VEVmtiQzFRVG5WUmEzUnlkWEp2UjI5S2R4SVhVMmhMYW1GellXcEJPVkJyTW5KdlVHOXZZV2RyUVc4YUlrRkVjM0k1WmxSWlQzbHFjV1pQVVdGcU9YUTRhRU4yVFZsWFUzVXljVEpPT0ZFIiwiZmN2IjoiMyIsImVpIjoiU2hLamFzYWpBOVBrMnJvUG9vYWdrQW8iLCJxYyI6IkNpTnpiM1YwYUd4aGEyVWdZMkZ5Y205c2JDQm9hV2RvSUhOamFHOXZiQ0IwWlhoaGN4QUFmZnd5Q3o4IiwicXVlc3Rpb24iOiJIb3cgbWFueSBraWRzIGdvIHRvIFNvdXRobGFrZSBDYXJyb2xsIEhpZ2ggU2Nob29sPyIsImxrIjoiR2pGb2IzY2diV0Z1ZVNCcmFXUnpJR2R2SUhSdklITnZkWFJvYkdGclpTQmpZWEp5YjJ4c0lHaHBaMmdnYzJOb2IyOXMiLCJicyI6ImM0M1FNUXZDTUJBRllGd3pPWGM2VUdkdDNWVG9vRWdGZGFuZ0hOcTBDWWs1U1NLMS1PZWwwbFJCS2U3dmU0ODc4aURMQkN1NFVGM0RjYnVIcTZJMU14WXFwaDA0aEJSdmppc3FHYXlwTWFnVUpLTGtrR1ljVWNYUktsaHd6M1dodnJqdGVOWnkzbkQ3NG9TUjJabFRCOEwyNzREVVdHa28wTVJSR0V5cjF2U1d2dzA1a0xHZjhlVzdkQU9HYXNseUVCcE83RTV0SEUyQ2thXzJoY0xtSHpuWDVJZ2dVZmN5S1hJTEpmN3hxWGtROGgtcTk0Ymg0QWsiLCJpZCI6ImZjX1NoS2phc2FqQTlQazJyb1Bvb2Fna0FvXzYifQ%3D%3D"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Southlake Carroll High School",
+   "link": "https://www.maxpreps.com/tx/southlake/southlake-carroll-dragons/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeAHrOzAV_hVETyWNjECjaeO8LUENfzwGgf5ady7JsLCKV2ZfW3PrQcWVahrJKxauk0gntmpHApr_Y7tC-yOoLF5E5J4IXW6E0VQwfqmTdjy7cT5CVvVlzMaNrbnWE7sChEchTQDZmN2ow2VjXXnr3p0T2I6FNOoftQ&ved=2ahUKEwjG8Mmu7OSWAxVTslYBHSIDCKIQFnoECB4QAQ&uoh=1",
+   "displayed_link": "https://www.maxpreps.com \u203a Texas",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEzhBADhBADhBADhBQDhBQDhBADhBADhBADhBQDhBQDhBADhBADhBQDhBADhBQBqDGaWAAAAD3RSTlMANHaA7NyWEEjPqCVevglnZLSWAAAAqElEQVQokaWSSxaFIAxDU0pFBM3-d_vkM3pUJ3YAHEJvQwH4GlcIQQUoei_Sv2okD2C7p7ikhrHbzugilnuXMsa1aCZPkYO0pSSgjJWsxs3xW5iV3E6H2v1WsxpXr5OrIbpUQNhjd0XELvoajqadD-Jb5mtNHaLv1obo3rNwhtehRo32wM3ttduJfPled_G5nZr6XVduHt1pXTKXWoHd64PML5nmF_0YP5WLCXU498sLAAAAAElFTkSuQmCC.png",
+   "snippet": "Coverage of Southlake Carroll High School sports including Baseball, Basketball, Cross Country, Football, Golf, Ice Hockey, Lacrosse, Soccer, Softball, ...",
+   "snippet_highlighted_words": [
+    "Southlake Carroll High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Coverage of Southlake Carroll High School sports including Baseball, Basketball, Cross Country, Football, Golf, Ice Hockey, Lacrosse, Soccer, Softball, ...",
+     "source_info_link": "https://www.maxpreps.com/tx/southlake/southlake-carroll-dragons/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEzhBADhBADhBADhBQDhBQDhBADhBADhBADhBQDhBQDhBADhBADhBQDhBADhBQBqDGaWAAAAD3RSTlMANHaA7NyWEEjPqCVevglnZLSWAAAAqElEQVQokaWSSxaFIAxDU0pFBM3-d_vkM3pUJ3YAHEJvQwH4GlcIQQUoei_Sv2okD2C7p7ikhrHbzugilnuXMsa1aCZPkYO0pSSgjJWsxs3xW5iV3E6H2v1WsxpXr5OrIbpUQNhjd0XELvoajqadD-Jb5mtNHaLv1obo3rNwhtehRo32wM3ttduJfPled_G5nZr6XVduHt1pXTKXWoHd64PML5nmF_0YP5WLCXU498sLAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESeAHrOzAV_hVETyWNjECjaeO8LUENfzwGgf5ady7JsLCKV2ZfW3PrQcWVahrJKxauk0gntmpHApr_Y7tC-yOoLF5E5J4IXW6E0VQwfqmTdjy7cT5CVvVlzMaNrbnWE7sChEchTQDZmN2ow2VjXXnr3p0T2I6FNOoftQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESeAHrOzAV_hVETyWNjECjaeO8LUENfzwGgf5ady7JsLCKV2ZfW3PrQcWVahrJKxauk0gntmpHApr_Y7tC-yOoLF5E5J4IXW6E0VQwfqmTdjy7cT5CVvVlzMaNrbnWE7sChEchTQDZmN2ow2VjXXnr3p0T2I6FNOoftQ",
+   "source": "MaxPreps"
+  },
+  {
+   "position": 2,
+   "title": "Southlake Carroll High School (Southlake, TX) Athletics ...",
+   "link": "https://www.dragonsportsnetwork.com/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXAHrOzAVN9rO1VX9kCCqP04KLjqbNC2x7xBFYOt5MrJ7MsZd7IVrWXzwB72QxZEyjH9AbPtqW3_itoLtlKjZqWZu8lxC_lY5who1XKEgFzCiQ9D3PVSLEqWDCJeh&ved=2ahUKEwjG8Mmu7OSWAxVTslYBHSIDCKIQFnoECBwQAQ&uoh=1",
+   "displayed_link": "https://www.dragonsportsnetwork.com",
+   "favicon": "https://serpapi.com/searches/6aa3122ff0527531b9c220dc/images/rLJdH4f--zoHstHJh9mAljwu-KphdUEJG0uomKILpu0.png",
+   "snippet": "The official home of southlake carroll high school Dragons athletics. Get the latest schedules, scores, news, broadcasting, and more for southlake carroll ...",
+   "snippet_highlighted_words": [
+    "southlake carroll high school",
+    "southlake carroll"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The official home of southlake carroll high school Dragons athletics. Get the latest schedules, scores, news, broadcasting, and more for southlake carroll ...",
+     "source_info_link": "https://www.dragonsportsnetwork.com/",
+     "icon": "https://serpapi.com/searches/6aa3122ff0527531b9c220dc/images/rLJdH4f--zoHstHJh9mAlhh9OowmBl9gzyaE8n51DbxW4KQrbbjbPw4hxi_CieyR.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESXAHrOzAVN9rO1VX9kCCqP04KLjqbNC2x7xBFYOt5MrJ7MsZd7IVrWXzwB72QxZEyjH9AbPtqW3_itoLtlKjZqWZu8lxC_lY5who1XKEgFzCiQ9D3PVSLEqWDCJeh&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESXAHrOzAVN9rO1VX9kCCqP04KLjqbNC2x7xBFYOt5MrJ7MsZd7IVrWXzwB72QxZEyjH9AbPtqW3_itoLtlKjZqWZu8lxC_lY5who1XKEgFzCiQ9D3PVSLEqWDCJeh",
+   "source": "dragonsportsnetwork.com"
+  },
+  {
+   "position": 3,
+   "title": "Official Recruiting Website | Southlake Carroll High School ...",
+   "link": "https://www.carrolldragonfb.com/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWAHrOzAVxcPNrBMAxyTJmxjVgS8uFLplLPAfCcj4kVqyIBNzmzZnjx8KboFimCTmV3ZUNxaohgTbgeBixKTj3-2Oy-Iqrndup8eTzafnBOoc8Ssbsg4-zEc&ved=2ahUKEwjG8Mmu7OSWAxVTslYBHSIDCKIQFnoECBgQAQ&uoh=1",
+   "displayed_link": "https://www.carrolldragonfb.com",
+   "favicon": "https://serpapi.com/searches/6aa3122ff0527531b9c220dc/images/rLJdH4f--zoHstHJh9mAlle5NdbxjMjIlQzJO-5MCJ4.png",
+   "snippet": "View the recruiting website for the Southlake Carroll High School football team located in Southlake, TX. Check out the player profiles, alumni, coaches, ...",
+   "snippet_highlighted_words": [
+    "Southlake Carroll High School",
+    "TX"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "View the recruiting website for the Southlake Carroll High School football team located in Southlake, TX. Check out the player profiles, alumni, coaches, ...",
+     "source_info_link": "https://www.carrolldragonfb.com/",
+     "icon": "https://serpapi.com/searches/6aa3122ff0527531b9c220dc/images/rLJdH4f--zoHstHJh9mAli16_WTmGgKeELAuXioGjcnwPROigcstCdaeBZ0NGIth.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESWAHrOzAVxcPNrBMAxyTJmxjVgS8uFLplLPAfCcj4kVqyIBNzmzZnjx8KboFimCTmV3ZUNxaohgTbgeBixKTj3-2Oy-Iqrndup8eTzafnBOoc8Ssbsg4-zEc&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESWAHrOzAVxcPNrBMAxyTJmxjVgS8uFLplLPAfCcj4kVqyIBNzmzZnjx8KboFimCTmV3ZUNxaohgTbgeBixKTj3-2Oy-Iqrndup8eTzafnBOoc8Ssbsg4-zEc",
+   "source": "carrolldragonfb.com"
+  },
+  {
+   "position": 4,
+   "title": "Southlake Carroll Dragons complete 27-point comeback to ...",
+   "link": "https://www.facebook.com/southlakecarrollisd/posts/a-comeback-to-remember-the-headlines-speak-for-themselvesdown-27-points-the-drag/1737385295054158/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESzgEB6zswFTxaYIrLWTqPWG19XkXBXXHk8mCH77PzYDyQgE1UOKuFQ8iSagacaDwAX7aNhZPwO6xkOgtEKX_ZGGd8ZxQheLwwDFCCHfOYycyCQZu1qBd_svDWembz2rZ05YBA5lQJF20lBwIkjie303NwLiKSfei6HPdbnWamWGyDQmNshUxfZQ4w28MJyDprCw2KzdVA_qT0SBZ5lQe_MDNsVPF3e4-ZP5bbTiB53CkW0g2YFwNtrnnZKB3lSMmpkpJS6nyw4D-3ECuPsuJn5g&ved=2ahUKEwjG8Mmu7OSWAxVTslYBHSIDCKIQFnoECCIQAQ&uoh=1",
+   "displayed_link": "210+ reactions \u00b7 1 week ago",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "snippet": "Southlake Carroll High School, Jenks, Oklahoma, Texas, Cotton Bowl, Carroll ... Northeast Texas Dragons win 28-22 against West Texas Scorpions.",
+   "snippet_highlighted_words": [
+    "Southlake Carroll High School",
+    "Texas",
+    "Texas",
+    "Texas"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Southlake Carroll High School, Jenks, Oklahoma, Texas, Cotton Bowl, Carroll ... Northeast Texas Dragons win 28-22 against West Texas Scorpions.",
+     "source_info_link": "https://www.facebook.com/southlakecarrollisd/posts/a-comeback-to-remember-the-headlines-speak-for-themselvesdown-27-points-the-drag/1737385295054158/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESzgEB6zswFTxaYIrLWTqPWG19XkXBXXHk8mCH77PzYDyQgE1UOKuFQ8iSagacaDwAX7aNhZPwO6xkOgtEKX_ZGGd8ZxQheLwwDFCCHfOYycyCQZu1qBd_svDWembz2rZ05YBA5lQJF20lBwIkjie303NwLiKSfei6HPdbnWamWGyDQmNshUxfZQ4w28MJyDprCw2KzdVA_qT0SBZ5lQe_MDNsVPF3e4-ZP5bbTiB53CkW0g2YFwNtrnnZKB3lSMmpkpJS6nyw4D-3ECuPsuJn5g&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESzgEB6zswFTxaYIrLWTqPWG19XkXBXXHk8mCH77PzYDyQgE1UOKuFQ8iSagacaDwAX7aNhZPwO6xkOgtEKX_ZGGd8ZxQheLwwDFCCHfOYycyCQZu1qBd_svDWembz2rZ05YBA5lQJF20lBwIkjie303NwLiKSfei6HPdbnWamWGyDQmNshUxfZQ4w28MJyDprCw2KzdVA_qT0SBZ5lQe_MDNsVPF3e4-ZP5bbTiB53CkW0g2YFwNtrnnZKB3lSMmpkpJS6nyw4D-3ECuPsuJn5g",
+   "source": "Facebook \u00b7 Carroll ISD",
+   "read_more_link": "https://www.facebook.com/southlakecarrollisd/posts/a-comeback-to-remember-the-headlines-speak-for-themselvesdown-27-points-the-drag/1737385295054158/#:~:text=Southlake%20Carroll%20High%20School%2C%20Jenks%2C,Oklahoma%2C%20Texas%2C%20Cotton%20Bowl%2C%20Carroll&text=Northeast%20Texas%20Dragons%20win%2028%2D22,against%20West%20Texas%20Scorpions"
+  },
+  {
+   "position": 5,
+   "title": "Boys Varsity Football - Southlake Carroll High School",
+   "link": "https://fan.hudl.com/usa/tx/southlake/organization/541/southlake-carroll-high-school/team/17381/boys-varsity-football",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrQEB6zswFWGDPtHTIQysvzh6B8utKajjbROmGeTrzK_L34yaRNALntvacnY1z1FL1mZccMqphLfTECRw68_bNmiY1EfoTVA_w_oBBpiNp6Bl0LcLRcwWsWTOgnIInGt7NjXnsecAPhceiK5mqg1ORluMzYKXaiaHn0-1CotFxyU52hp4MKrhHkzDQdMtP24RD-SuxIb535uoouL53pR_H_aDkH6mY1SUS7uROZ2O5Q&ved=2ahUKEwjG8Mmu7OSWAxVTslYBHSIDCKIQFnoECBsQAQ&uoh=1",
+   "displayed_link": "https://fan.hudl.com \u203a southlake \u203a organization \u203a team",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACoUlEQVR4AWIYcgBQezXAWBJEwTrbtm3btm3bts3obNv2BWfbtu27vurN5KczXy87-yup4UO1u1VLpFRtsJC8oVrjJe8PyBOqLRbw3lA1QfSQT9oeGZk4put9JEKrdijMhGvIP6Qy-IGcqDohVvATtkIyJsymmiMOg00h_waxNU6RHVUzRDFsM_PfSVKZZI08oW15MjHfc4kE0bgWje_ag3kJ3sSokbD8Ps2P3x9yI32TwhP4swX5z3QSCFnKmooIC3wfJvB7zJpNYm_jRPzxVZ4c78mFrIWyuj_YCjJf4L8ZJqh8oDDxX9rO9tWetOkqjJPAdFotrPJGgn40V1iYMmYNrBA5tUZe-AHtZopitUIJ06mXwOmr7nACAS0EsX6Z84ruhHF1x_JT_TMggKqHSLR_7kfAQtjBBHV9OJxUnREVQjBWMfp89xLrvll6s-rSejB-RY7XpYIBoYhMOpmHmEe9Tb-5bYbHFRAKDsAYOzwIOOdt-KS2GfaFQzDmdlvM32QVbyteZJtxETgEY-wz4v0gG_pzeORyoKAQEPDM1fEkBaLRPGvIfTP3ApDDvr68J8fq5dvqZwX4ntVXm1W3FL82RO0lxwSj_aNpgjCSX7UvXvZJJAyNrpE_rRGgBVx2Lb1tEBumbXskJxPBB3Qca4H6QUGDJeO3QVDCjohvCrD4hv876bmBfGd816LreYhVWu8XLZvnFBsDGgLFW6m2kiXgOKmEHEq_8rrdyZu2qbwupNBTJZ06WAKWk8ohZ0IMY-drdabeDpMv1LGczGYZgpn4FzlINJ0LOmYr6wCihDyg2iEnQhKqGyIw8D1B8jkIFFRr9PO79-eBBoGBdQBpi_0-BAxAoKHaIxxrYjSTvTUSX-G3-gg4bMNUnyH1fhIO8B9y2hgKJeIXdgAAAABJRU5ErkJggg.png",
+   "snippet": "View livestreams, highlights and upcoming events for Southlake Carroll High School in Southlake, TX.",
+   "snippet_highlighted_words": [
+    "Southlake Carroll High School",
+    "TX"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "View livestreams, highlights and upcoming events for Southlake Carroll High School in Southlake, TX.",
+     "source_info_link": "https://fan.hudl.com/usa/tx/southlake/organization/541/southlake-carroll-high-school/team/17381/boys-varsity-football",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACoUlEQVR4AWIYcgBQezXAWBJEwTrbtm3btm3bts3obNv2BWfbtu27vurN5KczXy87-yup4UO1u1VLpFRtsJC8oVrjJe8PyBOqLRbw3lA1QfSQT9oeGZk4put9JEKrdijMhGvIP6Qy-IGcqDohVvATtkIyJsymmiMOg00h_waxNU6RHVUzRDFsM_PfSVKZZI08oW15MjHfc4kE0bgWje_ag3kJ3sSokbD8Ps2P3x9yI32TwhP4swX5z3QSCFnKmooIC3wfJvB7zJpNYm_jRPzxVZ4c78mFrIWyuj_YCjJf4L8ZJqh8oDDxX9rO9tWetOkqjJPAdFotrPJGgn40V1iYMmYNrBA5tUZe-AHtZopitUIJ06mXwOmr7nACAS0EsX6Z84ruhHF1x_JT_TMggKqHSLR_7kfAQtjBBHV9OJxUnREVQjBWMfp89xLrvll6s-rSejB-RY7XpYIBoYhMOpmHmEe9Tb-5bYbHFRAKDsAYOzwIOOdt-KS2GfaFQzDmdlvM32QVbyteZJtxETgEY-wz4v0gG_pzeORyoKAQEPDM1fEkBaLRPGvIfTP3ApDDvr68J8fq5dvqZwX4ntVXm1W3FL82RO0lxwSj_aNpgjCSX7UvXvZJJAyNrpE_rRGgBVx2Lb1tEBumbXskJxPBB3Qca4H6QUGDJeO3QVDCjohvCrD4hv876bmBfGd816LreYhVWu8XLZvnFBsDGgLFW6m2kiXgOKmEHEq_8rrdyZu2qbwupNBTJZ06WAKWk8ohZ0IMY-drdabeDpMv1LGczGYZgpn4FzlINJ0LOmYr6wCihDyg2iEnQhKqGyIw8D1B8jkIFFRr9PO79-eBBoGBdQBpi_0-BAxAoKHaIxxrYjSTvTUSX-G3-gg4bMNUnyH1fhIO8B9y2hgKJeIXdgAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESrQEB6zswFWGDPtHTIQysvzh6B8utKajjbROmGeTrzK_L34yaRNALntvacnY1z1FL1mZccMqphLfTECRw68_bNmiY1EfoTVA_w_oBBpiNp6Bl0LcLRcwWsWTOgnIInGt7NjXnsecAPhceiK5mqg1ORluMzYKXaiaHn0-1CotFxyU52hp4MKrhHkzDQdMtP24RD-SuxIb535uoouL53pR_H_aDkH6mY1SUS7uROZ2O5Q&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESrQEB6zswFWGDPtHTIQysvzh6B8utKajjbROmGeTrzK_L34yaRNALntvacnY1z1FL1mZccMqphLfTECRw68_bNmiY1EfoTVA_w_oBBpiNp6Bl0LcLRcwWsWTOgnIInGt7NjXnsecAPhceiK5mqg1ORluMzYKXaiaHn0-1CotFxyU52hp4MKrhHkzDQdMtP24RD-SuxIb535uoouL53pR_H_aDkH6mY1SUS7uROZ2O5Q",
+   "source": "Hudl - Fan"
+  },
+  {
+   "position": 6,
+   "title": "Southlake Carroll - Football, Basketball",
+   "link": "https://www.on3.com/high-school/southlake-carroll-southlake-tx-16385/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAVOxO6QYImuXm5dh_PkDDjASVBT3xn4DNQOeWu93j1kqb7TuQOQTvJybin9UAltetLwrC3Q6PsERvWF1EWrOdNVAMs0TlOlDU8JKEn4QJypsIV-nRLuDDh1-fG3LZKrIs-AQPBxeCehKfHYHs0TP2hpmw_il7Mut_G&ved=2ahUKEwjG8Mmu7OSWAxVTslYBHSIDCKIQFnoECBkQAQ&uoh=1",
+   "displayed_link": "https://www.on3.com \u203a high-school \u203a southlake-carroll-...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAmVBMVEX-Ox_9Oh79Oh_-Oh7-Oh_-Ox79Ox_-OBr-MQ3-NRT-YE3_mo7-lor-SzP-c2P-Tzn98fDh6-zn7_D____-1tH-tKz-1dD-oJX-u7P-KQD-Ri39WEUnMDYADxkAAA-xtLb_-Pb-6OX-w73-a13o6el5fX9YX2L9HgD-4Nykp6m9wML9Zlb-joEZIyr-sKfe4OD_fm_-zMUNGiPPw9I0AAABkUlEQVR4AWLABwBNklWiFUEMRE8llTTu7uwA9r8f3OHZlbnMDHpiVW1fHQppqZxDDjk1Y4WVLJjCa1AGnHgVmLXbhGd6bYEJg02gbtEGmiDoOR2kVb0apAh1u7VAm7DszqAVclQbOf68Y2PIVUCaVawJaReSKYvCOc7NjPVN4iD1Ae12oEmck0DabLW3pj64JoIJnxHdEpLmPdQ71WWJQ0j6tLnLD1_QzOvdgdiEpykjvpzXuao737a3dW6MAUQEcIsr794xvnw7efCZhM91amC3C-1ZMFzn1ubqM4Dja0cQUviw-7jf3bnx-Owjp-8vBPCoTgdMhzLse_oKXx-d3vt26eK3HxcP0-bW6QazgbTPj6tXx7lxufP81fHg-Y0bN26-PJcSOKNyjCSzyFHnr76Y6WFB0QIKaFbG-ZnBQrhtHBFe0n-6ZkGxUFWssvxHLKl2CFyJutGcCEK0wNDdxNxNg7qDhWhARSEDJglWRBAUdC2dmieVBXOlKsEZdklK5ywyleG2nNJ_X6cQGNaWRvwEf3pMalZf2mwAAAAASUVORK5CYII.png",
+   "snippet": "Southlake Carroll High School, located in Southlake, Texas, is a distinguished public school known for its strong academics, competitive athletics, and ...",
+   "snippet_highlighted_words": [
+    "Southlake Carroll High School",
+    "Texas"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Southlake Carroll High School, located in Southlake, Texas, is a distinguished public school known for its strong academics, competitive athletics, and ...",
+     "source_info_link": "https://www.on3.com/high-school/southlake-carroll-southlake-tx-16385/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAmVBMVEX-Ox_9Oh79Oh_-Oh7-Oh_-Ox79Ox_-OBr-MQ3-NRT-YE3_mo7-lor-SzP-c2P-Tzn98fDh6-zn7_D____-1tH-tKz-1dD-oJX-u7P-KQD-Ri39WEUnMDYADxkAAA-xtLb_-Pb-6OX-w73-a13o6el5fX9YX2L9HgD-4Nykp6m9wML9Zlb-joEZIyr-sKfe4OD_fm_-zMUNGiPPw9I0AAABkUlEQVR4AWLABwBNklWiFUEMRE8llTTu7uwA9r8f3OHZlbnMDHpiVW1fHQppqZxDDjk1Y4WVLJjCa1AGnHgVmLXbhGd6bYEJg02gbtEGmiDoOR2kVb0apAh1u7VAm7DszqAVclQbOf68Y2PIVUCaVawJaReSKYvCOc7NjPVN4iD1Ae12oEmck0DabLW3pj64JoIJnxHdEpLmPdQ71WWJQ0j6tLnLD1_QzOvdgdiEpykjvpzXuao737a3dW6MAUQEcIsr794xvnw7efCZhM91amC3C-1ZMFzn1ubqM4Dja0cQUviw-7jf3bnx-Owjp-8vBPCoTgdMhzLse_oKXx-d3vt26eK3HxcP0-bW6QazgbTPj6tXx7lxufP81fHg-Y0bN26-PJcSOKNyjCSzyFHnr76Y6WFB0QIKaFbG-ZnBQrhtHBFe0n-6ZkGxUFWssvxHLKl2CFyJutGcCEK0wNDdxNxNg7qDhWhARSEDJglWRBAUdC2dmieVBXOlKsEZdklK5ywyleG2nNJ_X6cQGNaWRvwEf3pMalZf2mwAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESfQHrOzAVOxO6QYImuXm5dh_PkDDjASVBT3xn4DNQOeWu93j1kqb7TuQOQTvJybin9UAltetLwrC3Q6PsERvWF1EWrOdNVAMs0TlOlDU8JKEn4QJypsIV-nRLuDDh1-fG3LZKrIs-AQPBxeCehKfHYHs0TP2hpmw_il7Mut_G&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESfQHrOzAVOxO6QYImuXm5dh_PkDDjASVBT3xn4DNQOeWu93j1kqb7TuQOQTvJybin9UAltetLwrC3Q6PsERvWF1EWrOdNVAMs0TlOlDU8JKEn4QJypsIV-nRLuDDh1-fG3LZKrIs-AQPBxeCehKfHYHs0TP2hpmw_il7Mut_G",
+   "source": "On3",
+   "read_more_link": "https://www.on3.com/high-school/southlake-carroll-southlake-tx-16385/#:~:text=Southlake%20Carroll%20High%20School%2C%20located,athletics%2C%20and%20active%20extracurricular%20programs."
+  },
+  {
+   "position": 7,
+   "title": "Southlake Carroll Football (@CarrollDragonFB ...",
+   "link": "https://x.com/CarrollDragonFB",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVQHrOzAVqHSkVLEt29i-bPSs_fAsFm-h4cs2eSnI2VGDjEXgtQCQg3RM3mzO-9AygTpGpLLdJ5-7HTORQO0iuEV4-mnuJPXn0GNKHtE-0lm1M1TR_gg&ved=2ahUKEwjG8Mmu7OSWAxVTslYBHSIDCKIQFnoECGIQAQ&uoh=1",
+   "displayed_link": "8.9K+ followers",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAqUlEQVR4AdXQEQwCUQDG8b87pFkcRmGuyfFpFB-HuZ20_DA4yndLHj17dHJ08G_V1qp7vvWjT77t28cfKlIIMS54KmPa8uli35l4WGvNtyQ7G2CmF37M7WncQe-NidKW5CyYyDhboY5kRZelLshz5OyevK0dySVZNz1iT07r0LkpbJmqdcUoJyt-VVrAxkB0NRnzKhysGQfevt--mgavfOpi844hhFjyf-4xHWjgrPr73gAAAABJRU5ErkJggg.png",
+   "snippet": "Get geared up with your own @PatrickMahomes x @adidasFballUS Dragon gear. Southlake Carroll High School. From southlakecarroll.athsolutions.shop \u00b7 3 \u00b7 36 \u00b7 7.7K.",
+   "snippet_highlighted_words": [
+    "Southlake Carroll High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Get geared up with your own @PatrickMahomes x @adidasFballUS Dragon gear. Southlake Carroll High School. From southlakecarroll.athsolutions.shop \u00b7 3 \u00b7 36 \u00b7 7.7K.",
+     "source_info_link": "https://x.com/CarrollDragonFB",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAqUlEQVR4AdXQEQwCUQDG8b87pFkcRmGuyfFpFB-HuZ20_DA4yndLHj17dHJ08G_V1qp7vvWjT77t28cfKlIIMS54KmPa8uli35l4WGvNtyQ7G2CmF37M7WncQe-NidKW5CyYyDhboY5kRZelLshz5OyevK0dySVZNz1iT07r0LkpbJmqdcUoJyt-VVrAxkB0NRnzKhysGQfevt--mgavfOpi844hhFjyf-4xHWjgrPr73gAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESVQHrOzAVqHSkVLEt29i-bPSs_fAsFm-h4cs2eSnI2VGDjEXgtQCQg3RM3mzO-9AygTpGpLLdJ5-7HTORQO0iuEV4-mnuJPXn0GNKHtE-0lm1M1TR_gg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESVQHrOzAVqHSkVLEt29i-bPSs_fAsFm-h4cs2eSnI2VGDjEXgtQCQg3RM3mzO-9AygTpGpLLdJ5-7HTORQO0iuEV4-mnuJPXn0GNKHtE-0lm1M1TR_gg",
+   "source": "X \u00b7 CarrollDragonFB",
+   "read_more_link": "https://x.com/CarrollDragonFB#:~:text=Get%20geared%20up%20with%20your,7.7K"
+  },
+  {
+   "position": 8,
+   "title": "Carroll High School in Southlake, TX",
+   "link": "https://www.homes.com/school/southlake-tx/carroll-high-school/nyhx0teh2bsnx/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShAEB6zswFbXNUATycj7XvQFU1WMzL_OFzLeucbJ9SmL6lOWb2uDLpB16-q7r5ajo0H3xEvZRMzREYR_DaBl-nt1HQZroRbKk-JSVvRieDvfl6QjvhiASocIeVwBeuQ2DHwE0dQuc7X1PmrVcZJe3WEbVFmLb22mNq2dGIPBAosvXnvenTsc&ved=2ahUKEwjG8Mmu7OSWAxVTslYBHSIDCKIQFnoECFsQAQ&uoh=1",
+   "displayed_link": "https://www.homes.com \u203a school \u203a carroll-high-school",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEz_hA__hA_-gw_-gw_-hA_8gQ76fg77fg79gQ79gg78gA7-gw_2eA3-hA__hQ9hdefxAAAAD3RSTlMA5vSSp8A9GCRIUi93DdazCqoKAAAA1UlEQVQokY2S2ZKFIAxEMQFk0_z_3w5mUUCn6vYLFIdqOgnO_SgMx39oP4moXJs3K8QKfQdpYZ5Um4tEbURpM0bZVTEwxRsR9pvXCnV40YOa9kBybbZugehKeqhJkfNMGl8WhVI0it0tYSfvgwZZIJ9IEopDeC6a41qJU0-iB16bMP9qKJfADNbjo523b55RDuqFq2nCJ2Jd0gQaHwLpVMXdDbWpme8DigjWJ7DZsepusw4DHNLRMyd41W3DjrYda0Ojhyslxzr9sfR8sA-FTQT4RT_0B_pjD070ikOhAAAAAElFTkSuQmCC.png",
+   "snippet": "In Southlake, Carroll High School's Dragons roar with pride and tradition. ... Texas. Annual tuition is $0. The school has a total enrollment of 1,422 and ...",
+   "snippet_highlighted_words": [
+    "Southlake, Carroll High School's",
+    "Texas"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "In Southlake, Carroll High School's Dragons roar with pride and tradition. ... Texas. Annual tuition is $0. The school has a total enrollment of 1,422 and ...",
+     "source_info_link": "https://www.homes.com/school/southlake-tx/carroll-high-school/nyhx0teh2bsnx/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEz_hA__hA_-gw_-gw_-hA_8gQ76fg77fg79gQ79gg78gA7-gw_2eA3-hA__hQ9hdefxAAAAD3RSTlMA5vSSp8A9GCRIUi93DdazCqoKAAAA1UlEQVQokY2S2ZKFIAxEMQFk0_z_3w5mUUCn6vYLFIdqOgnO_SgMx39oP4moXJs3K8QKfQdpYZ5Um4tEbURpM0bZVTEwxRsR9pvXCnV40YOa9kBybbZugehKeqhJkfNMGl8WhVI0it0tYSfvgwZZIJ9IEopDeC6a41qJU0-iB16bMP9qKJfADNbjo523b55RDuqFq2nCJ2Jd0gQaHwLpVMXdDbWpme8DigjWJ7DZsepusw4DHNLRMyd41W3DjrYda0Ojhyslxzr9sfR8sA-FTQT4RT_0B_pjD070ikOhAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEShAEB6zswFbXNUATycj7XvQFU1WMzL_OFzLeucbJ9SmL6lOWb2uDLpB16-q7r5ajo0H3xEvZRMzREYR_DaBl-nt1HQZroRbKk-JSVvRieDvfl6QjvhiASocIeVwBeuQ2DHwE0dQuc7X1PmrVcZJe3WEbVFmLb22mNq2dGIPBAosvXnvenTsc&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEShAEB6zswFbXNUATycj7XvQFU1WMzL_OFzLeucbJ9SmL6lOWb2uDLpB16-q7r5ajo0H3xEvZRMzREYR_DaBl-nt1HQZroRbKk-JSVvRieDvfl6QjvhiASocIeVwBeuQ2DHwE0dQuc7X1PmrVcZJe3WEbVFmLb22mNq2dGIPBAosvXnvenTsc",
+   "source": "Homes.com",
+   "read_more_link": "https://www.homes.com/school/southlake-tx/carroll-high-school/nyhx0teh2bsnx/#:~:text=Carroll%20High%20School&text=Texas.%20Annual%20tuition%20is%20%240.,a%20student%2Dteacher%20ratio%20of%2018%3A1."
+  },
+  {
+   "position": 9,
+   "title": "Southlake Carroll High School",
+   "link": "https://fivetool.org/high-schools/7347260f-ccb7-45e1-953c-a60e9e38f9e2",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfgHrOzAVxxdF1D9-LKhNOARU6PUwyJRiXeEzL3JcBmJnUsNA0bXvlp5sSiE9eBrLIUW07uZMBhU8C3QfWVuucPjYYrPqgsCI-upCN3PbpXkVjBz6i1vihlDa23kbCwF8iC4Czs48TGY9XKmpGfLs7ub088abZPM0scHJT84XRg&ved=2ahUKEwjG8Mmu7OSWAxVTslYBHSIDCKIQFnoECGAQAQ&uoh=1",
+   "displayed_link": "https://fivetool.org \u203a high-schools",
+   "favicon": "https://serpapi.com/searches/6aa3122ff0527531b9c220dc/images/rLJdH4f--zoHstHJh9mAlsZ1jLUUqGP9IvQApwGU3q4.png",
+   "snippet": "Southlake Carroll High School \u00b7 (817)949-5800 \u00b7 Follow Staff.",
+   "snippet_highlighted_words": [
+    "Southlake Carroll High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Southlake Carroll High School \u00b7 (817)949-5800 \u00b7 Follow Staff.",
+     "source_info_link": "https://fivetool.org/high-schools/7347260f-ccb7-45e1-953c-a60e9e38f9e2",
+     "icon": "https://serpapi.com/searches/6aa3122ff0527531b9c220dc/images/rLJdH4f--zoHstHJh9mAlugT2sxHKVl1KByZCT6ma3jVRatATWPd0LYDB20zBpj0.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESfgHrOzAVxxdF1D9-LKhNOARU6PUwyJRiXeEzL3JcBmJnUsNA0bXvlp5sSiE9eBrLIUW07uZMBhU8C3QfWVuucPjYYrPqgsCI-upCN3PbpXkVjBz6i1vihlDa23kbCwF8iC4Czs48TGY9XKmpGfLs7ub088abZPM0scHJT84XRg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESfgHrOzAVxxdF1D9-LKhNOARU6PUwyJRiXeEzL3JcBmJnUsNA0bXvlp5sSiE9eBrLIUW07uZMBhU8C3QfWVuucPjYYrPqgsCI-upCN3PbpXkVjBz6i1vihlDa23kbCwF8iC4Czs48TGY9XKmpGfLs7ub088abZPM0scHJT84XRg",
+   "source": "Five Tool Baseball",
+   "read_more_link": "https://fivetool.org/high-schools/7347260f-ccb7-45e1-953c-a60e9e38f9e2#:~:text=Southlake%20Carroll%20High%20School&text=(817)949%2D5800&text=Follow%20Staff"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Southlake carroll high school texas football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Southlake+carroll+high+school+texas+football&sa=X&ved=2ahUKEwjG8Mmu7OSWAxVTslYBHSIDCKIQ1QJ6BAhTEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Southlake+carroll+high+school+texas+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Southlake carroll high school texas basketball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Southlake+carroll+high+school+texas+basketball&sa=X&ved=2ahUKEwjG8Mmu7OSWAxVTslYBHSIDCKIQ1QJ6BAhaEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Southlake+carroll+high+school+texas+basketball"
+  },
+  {
+   "block_position": 1,
+   "query": "Southlake carroll high school texas fight",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Southlake+carroll+high+school+texas+fight&sa=X&ved=2ahUKEwjG8Mmu7OSWAxVTslYBHSIDCKIQ1QJ6BAhZEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Southlake+carroll+high+school+texas+fight"
+  },
+  {
+   "block_position": 1,
+   "query": "Southlake carroll high school texas baseball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Southlake+carroll+high+school+texas+baseball&sa=X&ved=2ahUKEwjG8Mmu7OSWAxVTslYBHSIDCKIQ1QJ6BAhYEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Southlake+carroll+high+school+texas+baseball"
+  },
+  {
+   "block_position": 1,
+   "query": "Southlake Carroll football Live stream",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Southlake+Carroll+football+Live+stream&sa=X&ved=2ahUKEwjG8Mmu7OSWAxVTslYBHSIDCKIQ1QJ6BAhXEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Southlake+Carroll+football+Live+stream"
+  },
+  {
+   "block_position": 1,
+   "query": "Southlake Carroll football schedule",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Southlake+Carroll+football+schedule&sa=X&ved=2ahUKEwjG8Mmu7OSWAxVTslYBHSIDCKIQ1QJ6BAhWEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Southlake+Carroll+football+schedule"
+  },
+  {
+   "block_position": 1,
+   "query": "Southlake Carroll football playoffs",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Southlake+Carroll+football+playoffs&sa=X&ved=2ahUKEwjG8Mmu7OSWAxVTslYBHSIDCKIQ1QJ6BAhVEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Southlake+Carroll+football+playoffs"
+  },
+  {
+   "block_position": 1,
+   "query": "Southlake Carroll vs Prosper",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Southlake+Carroll+vs+Prosper&sa=X&ved=2ahUKEwjG8Mmu7OSWAxVTslYBHSIDCKIQ1QJ6BAhUEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Southlake+Carroll+vs+Prosper"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Southlake+Carroll+High+School%22+Texas&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=ShKjasajA9Pk2roPooagkAo&start=10&sa=N&sstk=AS6-VmLoE3nh64YsSy1BPq78EfENZ-6LiH-2vgnlPg0sCOAXNhAznvTXkGb7OiNtqQM6cS3w9g6mJE8HNO1-NT1iVnjLRU3a7Fdqbg&ved=2ahUKEwjG8Mmu7OSWAxVTslYBHSIDCKIQ8NMDegQIURAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Southlake+Carroll+High+School%22+Texas&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=ShKjasajA9Pk2roPooagkAo&start=10&sa=N&sstk=AS6-VmLoE3nh64YsSy1BPq78EfENZ-6LiH-2vgnlPg0sCOAXNhAznvTXkGb7OiNtqQM6cS3w9g6mJE8HNO1-NT1iVnjLRU3a7Fdqbg&ved=2ahUKEwjG8Mmu7OSWAxVTslYBHSIDCKIQ8tMDegQIURAE",
+   "3": "https://www.google.com/search?q=%22Southlake+Carroll+High+School%22+Texas&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=ShKjasajA9Pk2roPooagkAo&start=20&sa=N&sstk=AS6-VmLoE3nh64YsSy1BPq78EfENZ-6LiH-2vgnlPg0sCOAXNhAznvTXkGb7OiNtqQM6cS3w9g6mJE8HNO1-NT1iVnjLRU3a7Fdqbg&ved=2ahUKEwjG8Mmu7OSWAxVTslYBHSIDCKIQ8tMDegQIURAG",
+   "4": "https://www.google.com/search?q=%22Southlake+Carroll+High+School%22+Texas&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=ShKjasajA9Pk2roPooagkAo&start=30&sa=N&sstk=AS6-VmLoE3nh64YsSy1BPq78EfENZ-6LiH-2vgnlPg0sCOAXNhAznvTXkGb7OiNtqQM6cS3w9g6mJE8HNO1-NT1iVnjLRU3a7Fdqbg&ved=2ahUKEwjG8Mmu7OSWAxVTslYBHSIDCKIQ8tMDegQIURAI",
+   "5": "https://www.google.com/search?q=%22Southlake+Carroll+High+School%22+Texas&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=ShKjasajA9Pk2roPooagkAo&start=40&sa=N&sstk=AS6-VmLoE3nh64YsSy1BPq78EfENZ-6LiH-2vgnlPg0sCOAXNhAznvTXkGb7OiNtqQM6cS3w9g6mJE8HNO1-NT1iVnjLRU3a7Fdqbg&ved=2ahUKEwjG8Mmu7OSWAxVTslYBHSIDCKIQ8tMDegQIURAK",
+   "6": "https://www.google.com/search?q=%22Southlake+Carroll+High+School%22+Texas&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=ShKjasajA9Pk2roPooagkAo&start=50&sa=N&sstk=AS6-VmLoE3nh64YsSy1BPq78EfENZ-6LiH-2vgnlPg0sCOAXNhAznvTXkGb7OiNtqQM6cS3w9g6mJE8HNO1-NT1iVnjLRU3a7Fdqbg&ved=2ahUKEwjG8Mmu7OSWAxVTslYBHSIDCKIQ8tMDegQIURAM",
+   "7": "https://www.google.com/search?q=%22Southlake+Carroll+High+School%22+Texas&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=ShKjasajA9Pk2roPooagkAo&start=60&sa=N&sstk=AS6-VmLoE3nh64YsSy1BPq78EfENZ-6LiH-2vgnlPg0sCOAXNhAznvTXkGb7OiNtqQM6cS3w9g6mJE8HNO1-NT1iVnjLRU3a7Fdqbg&ved=2ahUKEwjG8Mmu7OSWAxVTslYBHSIDCKIQ8tMDegQIURAO",
+   "8": "https://www.google.com/search?q=%22Southlake+Carroll+High+School%22+Texas&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=ShKjasajA9Pk2roPooagkAo&start=70&sa=N&sstk=AS6-VmLoE3nh64YsSy1BPq78EfENZ-6LiH-2vgnlPg0sCOAXNhAznvTXkGb7OiNtqQM6cS3w9g6mJE8HNO1-NT1iVnjLRU3a7Fdqbg&ved=2ahUKEwjG8Mmu7OSWAxVTslYBHSIDCKIQ8tMDegQIURAQ",
+   "9": "https://www.google.com/search?q=%22Southlake+Carroll+High+School%22+Texas&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=ShKjasajA9Pk2roPooagkAo&start=80&sa=N&sstk=AS6-VmLoE3nh64YsSy1BPq78EfENZ-6LiH-2vgnlPg0sCOAXNhAznvTXkGb7OiNtqQM6cS3w9g6mJE8HNO1-NT1iVnjLRU3a7Fdqbg&ved=2ahUKEwjG8Mmu7OSWAxVTslYBHSIDCKIQ8tMDegQIURAS",
+   "10": "https://www.google.com/search?q=%22Southlake+Carroll+High+School%22+Texas&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=ShKjasajA9Pk2roPooagkAo&start=90&sa=N&sstk=AS6-VmLoE3nh64YsSy1BPq78EfENZ-6LiH-2vgnlPg0sCOAXNhAznvTXkGb7OiNtqQM6cS3w9g6mJE8HNO1-NT1iVnjLRU3a7Fdqbg&ved=2ahUKEwjG8Mmu7OSWAxVTslYBHSIDCKIQ8tMDegQIURAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Southlake+Carroll+High+School%22+Texas&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Southlake+Carroll+High+School%22+Texas&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Southlake+Carroll+High+School%22+Texas&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Southlake+Carroll+High+School%22+Texas&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Southlake+Carroll+High+School%22+Texas&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Southlake+Carroll+High+School%22+Texas&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Southlake+Carroll+High+School%22+Texas&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Southlake+Carroll+High+School%22+Texas&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Southlake+Carroll+High+School%22+Texas&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Southlake+Carroll+High+School%22+Texas&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Southlake+Carroll+High+School%22+Texas&start=90"
+  }
+ }
+}

@@ -1,0 +1,491 @@
+{
+ "search_information": {
+  "query_displayed": "\"Air Academy\" Colorado",
+  "total_results": 194000,
+  "time_taken_displayed": 0.3,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Air Academy High School",
+  "type": "High school in the Air Force Academy, Colorado",
+  "entity_type": "local_nav",
+  "kgmid": "/m/09tg4t",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/09tg4t&hl=en-US&q=Air+Academy+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F09tg4t&q=Air+Academy+High+School",
+  "place_id": "ChIJDWOJi3VSE4cREkwKK56BWzE",
+  "website": "https://airacademy.asd20.org/",
+  "description": "Air Academy High School is a public high school in El Paso County, Colorado, United States that serves the northwestern end of Colorado Springs, Colorado, as well as the United States Air Force Academy.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa30bb65b92f8057b265cc0/images/IBEpc_XgP4_HadmnlFmttSBslvNHxauigDGDyCZ5r8k.webp",
+   "link": "https://www.google.com/maps/place/Air+Academy+High+School/data=!4m2!3m1!1s0x0:0x315b819e2b0a4c12?sa=X&ved=2ahUKEwjr4ceN5uSWAxVyR2wGHTL9NyUQ_BJ6BAgQEAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Air_Academy_High_School"
+  },
+  "address": "6910 Carlton Dr, Air Force Academy, CO 80840",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=air+academy+high+school+address&ludocid=3556578847066049554&sa=X&ved=2ahUKEwjr4ceN5uSWAxVyR2wGHTL9NyUQ6BN6BAgjEAI"
+   }
+  ],
+  "mascot": "Falcon",
+  "mascot_links": [
+   {
+    "text": "Falcon",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=&si=APenkKllX05q7xl66dAosm6nb1iuMgV7Bv8meTZS-zIzIS3OM5cBRLSSD_c5ddFPuP84xwtx3q1IE2QLkri4YAa4qQEuJUnaz1IGCC1QN0MSyVtW39Lwe0IgInopgd9KJaqji_UEhUgX2Ir6xIsFCBC2-hfzudpZ0iD9CTQC6cszz_V0wgiZD5W3V0eiTFMzN_Cn_ozXoqgq&sa=X&ved=2ahUKEwjr4ceN5uSWAxVyR2wGHTL9NyUQmxN6BAgnEAI"
+   }
+  ],
+  "founded": "1957",
+  "colors": "Blue, Silver",
+  "colors_links": [
+   {
+    "text": "Blue",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpvdEmEKP4dQQoWLIwXjhkBjOThA3TO1rl4rjAeqO-nYmF0F2i4syeJWAq_rJzeOpDQJA3hAoOQKyPF4hQBhlSx-lzd6_4BiTmalURnBBG6ZOTBofPpZFk9OJOF5wK57eCfZyYq4CAgKVKBxxamDEb_I5CTSVuYN6iWoYh3KgTmU6miUOenX4lkTwPLvfa5A57M1Zd5U%3D&sa=X&ved=2ahUKEwjr4ceN5uSWAxVyR2wGHTL9NyUQmxN6BAgtEAI"
+   },
+   {
+    "text": "Silver",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yZf7_qxYcR7ZZOHXhZ12Gqd8YANeyCg9KWGonKHp7NI4e5GtNpurCait-nnij-RraqoKxCLpLFvOUw5HBbAA6013AGaIZc-zHxrbQCxU03pouO8UZK-AnkSeyBi9wprS3CmnKIidZPuxegwsygnRu4v3j-z87Cq_pcHN7oRH9PJ4Vm8pXxPYRc249N6bBjmmEF77h4Q%3D&sa=X&ved=2ahUKEwjr4ceN5uSWAxVyR2wGHTL9NyUQmxN6BAgtEAM"
+   }
+  ],
+  "phone": "(719) 234-2400",
+  "raw_hours": "Closes soon \u00b7 2 - 50 PM \u00b7 Opens 7 - 45 AM Fri",
+  "hours": {
+   "thursday": {
+    "opens": "7:45\u202fAM",
+    "closes": "2:50\u202fPM"
+   },
+   "friday": {
+    "opens": "7:45\u202fAM",
+    "closes": "2:50\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "7:45\u202fAM",
+    "closes": "2:50\u202fPM"
+   },
+   "tuesday": {
+    "opens": "7:45\u202fAM",
+    "closes": "2:50\u202fPM"
+   },
+   "wednesday": {
+    "opens": "7:45\u202fAM",
+    "closes": "2:50\u202fPM"
+   }
+  },
+  "merchant_description": "\"Air Academy High School (AAHS), home of the Kadets, is located on the United States Air Force Academy (USAFA). We consider all students' diverse interests, backgrounds and needs, and treat each student with dignity and respect. We also utilize a data driven approach to program development and evaluation. Together we foster a strong sense of community building to build a safe learning environment. Our approach to learning helps us lead each student toward success.\"",
+  "people_also_search_for": [
+   {
+    "name": "Rampart High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnLBUOZMvinQaEFHtlvLqjvVlc-oHo2Fq-GdMW1rVUp5T0BEwbyxkI2rx5saSL3l6S6bF0O87stgaM4Ah3ibyAJdb6LZ8FYMr3YVPMnkEUGMQar6pOo8jL9MDLEehbgIiQfhWg=w187-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW678zvdG909EVzGIonomBm3wBT5QG4Pa2k2RViqao-GY3SxlHaDwzWMfFtso44SbS0Ie_iL2DCT7G_ptn4v5lNtxVgaawRbGIHdCoBbn6UF3FlUJ4P-2iGjYm3TtLvARSzs62c_Xet1xZy-LyM46nGFvO2e1cRL3RgTC_0kI7AsggogkzqqrA1CEXe405x4hbhbQdDf8aQOM2-ACcaH6cwzeTUz3OcyGVi4FuQaCH3Bw0GscEFCptWVBMUm67V7kgtNzOUbyIxmFLJuTvP-Zkj7AEivnlC&q=Rampart+High+School&sa=X&ved=2ahUKEwjr4ceN5uSWAxVyR2wGHTL9NyUQs9oBKAB6BAgqEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Rampart+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW678zvdG909EVzGIonomBm3wBT5QG4Pa2k2RViqao-GY3SxlHaDwzWMfFtso44SbS0Ie_iL2DCT7G_ptn4v5lNtxVgaawRbGIHdCoBbn6UF3FlUJ4P-2iGjYm3TtLvARSzs62c_Xet1xZy-LyM46nGFvO2e1cRL3RgTC_0kI7AsggogkzqqrA1CEXe405x4hbhbQdDf8aQOM2-ACcaH6cwzeTUz3OcyGVi4FuQaCH3Bw0GscEFCptWVBMUm67V7kgtNzOUbyIxmFLJuTvP-Zkj7AEivnlC"
+   },
+   {
+    "name": "Pine Creek High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnw8GYRhILCmsR-yjCStSPG1xfMyGiO0p3zlg9eul0HJmrKDec63Mf_jVTprRVkJCH7xrXg9b20WmqQROG0sJd3XqjID7oCGPU_jdyAMWJDR2VLX4ES6Wv_3RGb0WNsbirH1d8=w281-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW672SPFAEETkJUZzWZPN0kgEc3LxGVrDUnlflC5X12ENPSrknS90XDeQAWiGBXvkhF14-02cHdrbx03PS1SXpDGGJT3AXduqNCWv8H1WgU8QrDcR0pfZTyrFqlI9etbjkJcds150CQORVlIMK7GJ3q2R9pzj9rlghqt2igUWyDNehG7uuK1daCtJOmk3FIuwRrr1r_aOLAf1_bdeuRoT2ApnYspmYKJBVirct2bopditVhBncE68_XkbtR9UImKuuG0xjD4m5FGu20UydldsKZT-Es3eY_&q=Pine+Creek+High+School&sa=X&ved=2ahUKEwjr4ceN5uSWAxVyR2wGHTL9NyUQs9oBKAB6BAgqEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pine+Creek+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW672SPFAEETkJUZzWZPN0kgEc3LxGVrDUnlflC5X12ENPSrknS90XDeQAWiGBXvkhF14-02cHdrbx03PS1SXpDGGJT3AXduqNCWv8H1WgU8QrDcR0pfZTyrFqlI9etbjkJcds150CQORVlIMK7GJ3q2R9pzj9rlghqt2igUWyDNehG7uuK1daCtJOmk3FIuwRrr1r_aOLAf1_bdeuRoT2ApnYspmYKJBVirct2bopditVhBncE68_XkbtR9UImKuuG0xjD4m5FGu20UydldsKZT-Es3eY_"
+   },
+   {
+    "name": "Palmer Ridge High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkeWOXr26sH_dXlO5x7RbgSMvU95G8ShErvj4SAxW7kqeKUZeh-BB3eURZjKYzYH8sGm1qRok4ZHdQNJe9FkMKHvtVC7kaRAGegox3vMh9WQ31oVVvRmq1IAtDuofR2tTPDadA=w172-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW678NHCmnc7WpWvfg9mCyIz4ePYKXEDPenwOD3KZTCPrbEdsXxzHeG0KL005gclY4_JJJ2b965cpZNwN0oDVIGbVxocww0_5xerCu7w-x4ukfSiy6r556oVjQefv2-Qlj-Yds3cbEeX_Amk6bYEfRyCgF0TYwqSsrUPgM0AfQGKeHmoFvx0ySGm--67Qg9nd5U5PIOgANc7Tdqz7svFu-lwjFAYRU_2A7OcSrUyyygBnNadOqAREHR_3TUdVFmkybMRp4fVDOkhN9aPOp9CuAa-P44ce3p&q=Palmer+Ridge+High+School&sa=X&ved=2ahUKEwjr4ceN5uSWAxVyR2wGHTL9NyUQs9oBKAB6BAgqEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Palmer+Ridge+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW678NHCmnc7WpWvfg9mCyIz4ePYKXEDPenwOD3KZTCPrbEdsXxzHeG0KL005gclY4_JJJ2b965cpZNwN0oDVIGbVxocww0_5xerCu7w-x4ukfSiy6r556oVjQefv2-Qlj-Yds3cbEeX_Amk6bYEfRyCgF0TYwqSsrUPgM0AfQGKeHmoFvx0ySGm--67Qg9nd5U5PIOgANc7Tdqz7svFu-lwjFAYRU_2A7OcSrUyyygBnNadOqAREHR_3TUdVFmkybMRp4fVDOkhN9aPOp9CuAa-P44ce3p"
+   },
+   {
+    "name": "The Classical Academy - North Campus",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmWX-TivfbNKtUw-iGREWN9aKjdU5NQiOTB8P9969VI0jaBDPX29aUzNK6XmknA5fiTR3CxY9lwDgdwWc8WC6vS2uRXB7FUd9oNZQUxXLQGkZnAr-5MdALGNU00LTZ4YcUU16U=w226-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67_F2EuH9yh3wEio-qYNk6sRIn7z7tlPhDX1wKuRasj9eoFRqmj249i_wQxZLKERe1hk2NRVmBTphv3XizGy8zqPL_YsMNy7wkaPnY6Z5t2A9mi5u79hWE7iyaTeAKxpfIUwtU5GWzcRSg1wB9qhJ92iAguYadHdRYyOD2aoQyYW16tJVORkh--OquivUt0uafGdjgtBSxkCZnU2DZ_zQQKdPs0UyNCSck4-cnhFCWYQxt511V4m5PM8RbGlmFjmnnwvZndE5SF2PGePS47HO9TcoEUY8&q=The+Classical+Academy+(Colorado)&sa=X&ved=2ahUKEwjr4ceN5uSWAxVyR2wGHTL9NyUQs9oBKAB6BAgqEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=The+Classical+Academy+%28Colorado%29&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67_F2EuH9yh3wEio-qYNk6sRIn7z7tlPhDX1wKuRasj9eoFRqmj249i_wQxZLKERe1hk2NRVmBTphv3XizGy8zqPL_YsMNy7wkaPnY6Z5t2A9mi5u79hWE7iyaTeAKxpfIUwtU5GWzcRSg1wB9qhJ92iAguYadHdRYyOD2aoQyYW16tJVORkh--OquivUt0uafGdjgtBSxkCZnU2DZ_zQQKdPs0UyNCSck4-cnhFCWYQxt511V4m5PM8RbGlmFjmnnwvZndE5SF2PGePS47HO9TcoEUY8"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Air+Academy+High+School&stick=H4sIAAAAAAAAAONgFuLUz9U3sCxJNylRQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iFXfMLFJwTE5MSc2tVPDITM9QCE7OyM_P2cHKeItNkuGNQ0VgLl9T55Jww0Os2os2RyQF26SHfT8OAFnu-FB9AAAA&sa=X&ved=2ahUKEwjr4ceN5uSWAxVyR2wGHTL9NyUQzO0BKAR6BAgqEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLUz9U3sCxJNylRQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iFXfMLFJwTE5MSc2tVPDITM9QCE7OyM_P2cHKeItNkuGNQ0VgLl9T55Jww0Os2os2RyQF26SHfT8OAFnu-FB9AAAA",
+  "profiles": [
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/airacademykadets/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Air+Academy%22+Colorado",
+    "image": "https://ssl.gstatic.com/kpui/social/fb_32x32.png"
+   },
+   {
+    "name": "YouTube",
+    "link": "https://www.youtube.com/channel/UCpSLTJD4yfNw_woYd1ctwbw",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Air+Academy%22+Colorado",
+    "image": "https://ssl.gstatic.com/kpui/social/youtube_32x32.png"
+   },
+   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/air_academy_hs/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Air+Academy%22+Colorado",
+    "image": "https://ssl.gstatic.com/kpui/social/instagram_32x32.png"
+   },
+   {
+    "name": "X (Twitter)",
+    "link": "https://twitter.com/airacademyhigh",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Air+Academy%22+Colorado",
+    "image": "https://ssl.gstatic.com/kpui/social/x_32x32.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "Is it hard to get into the Air Force Academy in Colorado?",
+   "type": "ai_overview",
+   "page_token": "NW5h0XicHdDBbpswAABQ9Wd6bGwcsiVSNIlgk0aFFBsb6stk7CQQDCYpKgm3_kK_oV-1r9m06zu-z29bd82fh69qGPr31Ww2juPTybmTPTxp187U-73TM62sLZVuVosfC_jrqNf4Qwebqw5S3vcipICdxRjz_ia3z3dphRVZ5alocHtCFgxKxbJ42Ef2bshPr8QpzDMK01bgchtcWCELyfWgu8AXyEGFE6ABvKi2wkkjX5Qns31mURLNUVnYV9MOmDf-JIipaSQvZYNHNokXcSayQNWGt0ueF4Zzu4uT5tbpom_yRoI9A4hm1Dch9STa5RQuNzKyoYbymUZzcMB-WkbYF0W_5a1_NoS2KTRHmsdDJmzNa-DFKNjhykCJxOWtEPAN0JSB5SQ5TDWSd9kRyqirU04nfbbtP76VnCxMaBMFwGRIQEQo3KELnNomV0b4XI6PR_2xRo__r9e_j-2w6q_u9Bc4-4qW",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=NW5h0XicHdDBbpswAABQ9Wd6bGwcsiVSNIlgk0aFFBsb6stk7CQQDCYpKgm3_kK_oV-1r9m06zu-z29bd82fh69qGPr31Ww2juPTybmTPTxp187U-73TM62sLZVuVosfC_jrqNf4Qwebqw5S3vcipICdxRjz_ia3z3dphRVZ5alocHtCFgxKxbJ42Ef2bshPr8QpzDMK01bgchtcWCELyfWgu8AXyEGFE6ABvKi2wkkjX5Qns31mURLNUVnYV9MOmDf-JIipaSQvZYNHNokXcSayQNWGt0ueF4Zzu4uT5tbpom_yRoI9A4hm1Dch9STa5RQuNzKyoYbymUZzcMB-WkbYF0W_5a1_NoS2KTRHmsdDJmzNa-DFKNjhykCJxOWtEPAN0JSB5SQ5TDWSd9kRyqirU04nfbbtP76VnCxMaBMFwGRIQEQo3KELnNomV0b4XI6PR_2xRo__r9e_j-2w6q_u9Bc4-4qW",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2RVVnpVUzF0T1V0d2NVdzFWbkJ3Y205d1ZWaGlORFJGVldoeVpWUjNSV1prWDFKU1RIVmhaMHB0Y25FeFNYcEhPVTltZW5VNGFIUnlURFpPYURKWE5VRjRaVzFaWDJwZlVuYzRiMFZMZEdoTExXNUdOa3R2TXpkRVVSSVhkV2QxYW1GMWRXTkVVRXRQYzJWTlVITjJjbVp4VVVrYUlrRkVjM0k1WmxOa1RVNVZSRkpNWTBSdmFGaFdUMk5VZVY4MldrcEtMVk5HV21jIiwiZmN2IjoiMyIsImVpIjoidWd1amF1dWNEUEtPc2VNUHN2cmZxUUkiLCJxYyI6IkNoUmhhWElnWVdOaFpHVnRlU0JqYjJ4dmNtRmtieEFBZmJJWU1EOCIsInF1ZXN0aW9uIjoiSXMgaXQgaGFyZCB0byBnZXQgaW50byB0aGUgQWlyIEZvcmNlIEFjYWRlbXkgaW4gQ29sb3JhZG8/IiwibGsiOiJjNU95eUN4V3lDeFJ5RWdzU2xFb3lWZElUeTFSeU13RE1rb3lVaFVTTTRzVTB2S0xrb0dzNU1TVTFOeEtvSlJDY241T2ZsRmlTajRBIiwiYnMiOiJjNDJRc1FyQ01CQ0c2WnJKdWRQTjZxQ2QxRVdySUhWMmRBcEo3QVhTSGlRcHhTZnd0VTJEclFoVzNRN3V2di03TzlheTljbUI5b0RjU3ZBRXBmS2c2MUI0VkpCckMwZXlJbFNDUzFYZFFnc09aTWh5U2R0c2s2NzBPTXdEZkkwd2Y4SGlDYk43d3ZLQ1dxZ2FnU0JKeFJ4QnpzY2NndjgyMktjN19CM3lmWk1MbTRVWGZKWTVyNDE1Vjg3VHFYWWpzY1A0RUY2eVpieVMxMTIza2FyMkRyZ05pSS02WGxUb0V1RXNrTWhzc3l4ZDRCalVTWHNkZHBDTDBDUjVBQSIsImlkIjoiZmNfdWd1amF1dWNEUEtPc2VNUHN2cmZxUUlfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2RVVnpVUzF0T1V0d2NVdzFWbkJ3Y205d1ZWaGlORFJGVldoeVpWUjNSV1prWDFKU1RIVmhaMHB0Y25FeFNYcEhPVTltZW5VNGFIUnlURFpPYURKWE5VRjRaVzFaWDJwZlVuYzRiMFZMZEdoTExXNUdOa3R2TXpkRVVSSVhkV2QxYW1GMWRXTkVVRXRQYzJWTlVITjJjbVp4VVVrYUlrRkVjM0k1WmxOa1RVNVZSRkpNWTBSdmFGaFdUMk5VZVY4MldrcEtMVk5HV21jIiwiZmN2IjoiMyIsImVpIjoidWd1amF1dWNEUEtPc2VNUHN2cmZxUUkiLCJxYyI6IkNoUmhhWElnWVdOaFpHVnRlU0JqYjJ4dmNtRmtieEFBZmJJWU1EOCIsInF1ZXN0aW9uIjoiSXMgaXQgaGFyZCB0byBnZXQgaW50byB0aGUgQWlyIEZvcmNlIEFjYWRlbXkgaW4gQ29sb3JhZG8%2FIiwibGsiOiJjNU95eUN4V3lDeFJ5RWdzU2xFb3lWZElUeTFSeU13RE1rb3lVaFVTTTRzVTB2S0xrb0dzNU1TVTFOeEtvSlJDY241T2ZsRmlTajRBIiwiYnMiOiJjNDJRc1FyQ01CQ0c2WnJKdWRQTjZxQ2QxRVdySUhWMmRBcEo3QVhTSGlRcHhTZnd0VTJEclFoVzNRN3V2di03TzlheTljbUI5b0RjU3ZBRXBmS2c2MUI0VkpCckMwZXlJbFNDUzFYZFFnc09aTWh5U2R0c2s2NzBPTXdEZkkwd2Y4SGlDYk43d3ZLQ1dxZ2FnU0JKeFJ4QnpzY2NndjgyMktjN19CM3lmWk1MbTRVWGZKWTVyNDE1Vjg3VHFYWWpzY1A0RUY2eVpieVMxMTIza2FyMkRyZ05pSS02WGxUb0V1RXNrTWhzc3l4ZDRCalVTWHNkZHBDTDBDUjVBQSIsImlkIjoiZmNfdWd1amF1dWNEUEtPc2VNUHN2cmZxUUlfNSJ9"
+  },
+  {
+   "question": "How much does it cost to go to the Air Force Academy in Colorado?",
+   "type": "ai_overview",
+   "page_token": "oUsxhHicHZFLjpswAEDVy8xyYmBIk0jRqAwYJlWcwV_wpgJD4iQG08QqCbvepeseaE7TqAd4enp6v_-YY3_-_PJXOzdcV7PZOI7PB2sPpn1WtptV13uvZqoypq7UeTX_Ovde92qd2PHt7TpGORsGHmNAgLlK0WQofQmqYkgYbKzIuBPm3bVxc27SoVcx9lS3JA1FjPibYes7waDMWgiPOeOY9CikwHwvJiMEC7fURJCeookmC1AX9tb0Omu70qPchCThEBdG1wKZlukL99BIIKQSbhwJoqykOs67ZcwoPLIEIUm8kHTDkfbDgDOosb-YHu75LnUvFUBH0cmAMBhJX1tulvMCGKEKND64OxF6X2cyYynekWThcoPGGjTv7YlPOXOb_Gw6mtw-pPnmEt14MuA_y4J7JcA5ActJMi9XgbzLHmKC7aMVT-pkOnba4O3dg9v0RpkffuygtLLQl7yHoDU6Ln2ZNuPTXv1aB0__P6x_7Du3Gi728A80DpYJ",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=oUsxhHicHZFLjpswAEDVy8xyYmBIk0jRqAwYJlWcwV_wpgJD4iQG08QqCbvepeseaE7TqAd4enp6v_-YY3_-_PJXOzdcV7PZOI7PB2sPpn1WtptV13uvZqoypq7UeTX_Ovde92qd2PHt7TpGORsGHmNAgLlK0WQofQmqYkgYbKzIuBPm3bVxc27SoVcx9lS3JA1FjPibYes7waDMWgiPOeOY9CikwHwvJiMEC7fURJCeookmC1AX9tb0Omu70qPchCThEBdG1wKZlukL99BIIKQSbhwJoqykOs67ZcwoPLIEIUm8kHTDkfbDgDOosb-YHu75LnUvFUBH0cmAMBhJX1tulvMCGKEKND64OxF6X2cyYynekWThcoPGGjTv7YlPOXOb_Gw6mtw-pPnmEt14MuA_y4J7JcA5ActJMi9XgbzLHmKC7aMVT-pkOnba4O3dg9v0RpkffuygtLLQl7yHoDU6Ln2ZNuPTXv1aB0__P6x_7Du3Gi728A80DpYJ",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2RVVnpVUzF0T1V0d2NVdzFWbkJ3Y205d1ZWaGlORFJGVldoeVpWUjNSV1prWDFKU1RIVmhaMHB0Y25FeFNYcEhPVTltZW5VNGFIUnlURFpPYURKWE5VRjRaVzFaWDJwZlVuYzRiMFZMZEdoTExXNUdOa3R2TXpkRVVSSVhkV2QxYW1GMWRXTkVVRXRQYzJWTlVITjJjbVp4VVVrYUlrRkVjM0k1WmxOa1RVNVZSRkpNWTBSdmFGaFdUMk5VZVY4MldrcEtMVk5HV21jIiwiZmN2IjoiMyIsImVpIjoidWd1amF1dWNEUEtPc2VNUHN2cmZxUUkiLCJxYyI6IkNoUmhhWElnWVdOaFpHVnRlU0JqYjJ4dmNtRmtieEFBZmJJWU1EOCIsInF1ZXN0aW9uIjoiSG93IG11Y2ggZG9lcyBpdCBjb3N0IHRvIGdvIHRvIHRoZSBBaXIgRm9yY2UgQWNhZGVteSBpbiBDb2xvcmFkbz8iLCJsayI6ImN4WEtRUXFBTUF4RTBYdTRtcU40bFpDbUptQWRTQ1BpN2EyYnoxdjhiWGMtR0xjNkdtMGlDc3BaS09MZzMzS0RSS0l6ZFVtbDJYZ1IxOXBPcGpSLSIsImJzIjoiYzQyUXNRckNNQkNHNlpySnVkUE42cUNkMUVXcklIVjJkQXBKN0FYU0hpUXB4U2Z3dFUyRHJRaFczUTd1dnYtN085YXk5Y21COW9EY1N2QUVwZktnNjFCNFZKQnJDMGV5SWxTQ1MxWGRRZ3NPWk1oeVNkdHNrNjcwT013RGZJMHdmOEhpQ2JON3d2S0NXcWdhZ1NCSnhSeEJ6c2NjZ3Y4MjJLYzdfQjN5ZlpNTG00VVhmSlk1cjQxNVY4N1RxWFlqc2NQNEVGNnlaYnlTMTEyM2thcjJEcmdOaUktNlhsVG9FdUVza01oc3N5eGQ0QmpVU1hzZGRwQ0wwQ1I1QUEiLCJpZCI6ImZjX3VndWphdXVjRFBLT3NlTVBzdnJmcVFJXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2RVVnpVUzF0T1V0d2NVdzFWbkJ3Y205d1ZWaGlORFJGVldoeVpWUjNSV1prWDFKU1RIVmhaMHB0Y25FeFNYcEhPVTltZW5VNGFIUnlURFpPYURKWE5VRjRaVzFaWDJwZlVuYzRiMFZMZEdoTExXNUdOa3R2TXpkRVVSSVhkV2QxYW1GMWRXTkVVRXRQYzJWTlVITjJjbVp4VVVrYUlrRkVjM0k1WmxOa1RVNVZSRkpNWTBSdmFGaFdUMk5VZVY4MldrcEtMVk5HV21jIiwiZmN2IjoiMyIsImVpIjoidWd1amF1dWNEUEtPc2VNUHN2cmZxUUkiLCJxYyI6IkNoUmhhWElnWVdOaFpHVnRlU0JqYjJ4dmNtRmtieEFBZmJJWU1EOCIsInF1ZXN0aW9uIjoiSG93IG11Y2ggZG9lcyBpdCBjb3N0IHRvIGdvIHRvIHRoZSBBaXIgRm9yY2UgQWNhZGVteSBpbiBDb2xvcmFkbz8iLCJsayI6ImN4WEtRUXFBTUF4RTBYdTRtcU40bFpDbUptQWRTQ1BpN2EyYnoxdjhiWGMtR0xjNkdtMGlDc3BaS09MZzMzS0RSS0l6ZFVtbDJYZ1IxOXBPcGpSLSIsImJzIjoiYzQyUXNRckNNQkNHNlpySnVkUE42cUNkMUVXcklIVjJkQXBKN0FYU0hpUXB4U2Z3dFUyRHJRaFczUTd1dnYtN085YXk5Y21COW9EY1N2QUVwZktnNjFCNFZKQnJDMGV5SWxTQ1MxWGRRZ3NPWk1oeVNkdHNrNjcwT013RGZJMHdmOEhpQ2JON3d2S0NXcWdhZ1NCSnhSeEJ6c2NjZ3Y4MjJLYzdfQjN5ZlpNTG00VVhmSlk1cjQxNVY4N1RxWFlqc2NQNEVGNnlaYnlTMTEyM2thcjJEcmdOaUktNlhsVG9FdUVza01oc3N5eGQ0QmpVU1hzZGRwQ0wwQ1I1QUEiLCJpZCI6ImZjX3VndWphdXVjRFBLT3NlTVBzdnJmcVFJXzUifQ%3D%3D"
+  },
+  {
+   "question": "Is the Air Force Academy still in Colorado?",
+   "type": "ai_overview",
+   "page_token": "0E9NRXicHdDPboIwAIDx7GU8apHhpolZplKUhE4KLdLLgq1aoS04_xS57V32VHuamd2__A7f9486mur36SYvl-Y8GQystf1DXR_Urs9rPSjOd8MHvFBqW_BqMnoZOW97PvWvq9n8tJrFpGnoAoOEEEB0W6XBqxMFbRi7IURAsWg5O0dAQmJW3rZj88Rv210Z2QI2NoLvtvBZmitRbgDMN0OEkRpL3IVeFtTPfChvSI9DVrKcQKEzFdmchibOnCT1hcZLFaQpOnKDR6yU1wKsWgG8eaLDj92iGgqf0kcVFMA7sS660wxWD5-llSi3Q7ZONd6QygO4kxRlwqIF07mLQ6ob15fCYS495Rvq5ADHCRh3jDgxd9mdGYgTXB9jgjteKk0qSZMl9omRBnXKiXyx3qnaI4oAYSTKDQyZ7e35ber2_n9OP_f6Mmm-6sMfCKSDow",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=0E9NRXicHdDPboIwAIDx7GU8apHhpolZplKUhE4KLdLLgq1aoS04_xS57V32VHuamd2__A7f9486mur36SYvl-Y8GQystf1DXR_Urs9rPSjOd8MHvFBqW_BqMnoZOW97PvWvq9n8tJrFpGnoAoOEEEB0W6XBqxMFbRi7IURAsWg5O0dAQmJW3rZj88Rv210Z2QI2NoLvtvBZmitRbgDMN0OEkRpL3IVeFtTPfChvSI9DVrKcQKEzFdmchibOnCT1hcZLFaQpOnKDR6yU1wKsWgG8eaLDj92iGgqf0kcVFMA7sS660wxWD5-llSi3Q7ZONd6QygO4kxRlwqIF07mLQ6ob15fCYS495Rvq5ADHCRh3jDgxd9mdGYgTXB9jgjteKk0qSZMl9omRBnXKiXyx3qnaI4oAYSTKDQyZ7e35ber2_n9OP_f6Mmm-6sMfCKSDow",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2RVVnpVUzF0T1V0d2NVdzFWbkJ3Y205d1ZWaGlORFJGVldoeVpWUjNSV1prWDFKU1RIVmhaMHB0Y25FeFNYcEhPVTltZW5VNGFIUnlURFpPYURKWE5VRjRaVzFaWDJwZlVuYzRiMFZMZEdoTExXNUdOa3R2TXpkRVVSSVhkV2QxYW1GMWRXTkVVRXRQYzJWTlVITjJjbVp4VVVrYUlrRkVjM0k1WmxOa1RVNVZSRkpNWTBSdmFGaFdUMk5VZVY4MldrcEtMVk5HV21jIiwiZmN2IjoiMyIsImVpIjoidWd1amF1dWNEUEtPc2VNUHN2cmZxUUkiLCJxYyI6IkNoUmhhWElnWVdOaFpHVnRlU0JqYjJ4dmNtRmtieEFBZmJJWU1EOCIsInF1ZXN0aW9uIjoiSXMgdGhlIEFpciBGb3JjZSBBY2FkZW15IHN0aWxsIGluIENvbG9yYWRvPyIsImxrIjoiR2lwcGN5QjBhR1VnWVdseUlHWnZjbU5sSUdGallXUmxiWGtnYzNScGJHd2dhVzRnWTI5c2IzSmhaRzgiLCJicyI6ImM0MlFzUXJDTUJDRzZackp1ZFBONnFDZDFFV3JJSFYyZEFwSjdBWFNIaVFweFNmd3RVMkRyUWhXM1E3dXZ2LTdPOWF5OWNtQjlvRGNTdkFFcGZLZzYxQjRWSkJyQzBleUlsU0NTMVhkUWdzT1pNaHlTZHRzazY3ME9Nd0RmSTB3ZjhIaUNiTjd3dktDV3FnYWdTQkp4UnhCenNjY2d2ODIyS2M3X0IzeWZaTUxtNFVYZkpZNXI0MTVWODdUcVhZanNjUDRFRjZ5WmJ5UzExMjNrYXIyRHJnTmlJLTZYbFRvRXVFc2tNaHNzeXhkNEJqVVNYc2RkcENMMENSNUFBIiwiaWQiOiJmY191Z3VqYXV1Y0RQS09zZU1Qc3ZyZnFRSV81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2RVVnpVUzF0T1V0d2NVdzFWbkJ3Y205d1ZWaGlORFJGVldoeVpWUjNSV1prWDFKU1RIVmhaMHB0Y25FeFNYcEhPVTltZW5VNGFIUnlURFpPYURKWE5VRjRaVzFaWDJwZlVuYzRiMFZMZEdoTExXNUdOa3R2TXpkRVVSSVhkV2QxYW1GMWRXTkVVRXRQYzJWTlVITjJjbVp4VVVrYUlrRkVjM0k1WmxOa1RVNVZSRkpNWTBSdmFGaFdUMk5VZVY4MldrcEtMVk5HV21jIiwiZmN2IjoiMyIsImVpIjoidWd1amF1dWNEUEtPc2VNUHN2cmZxUUkiLCJxYyI6IkNoUmhhWElnWVdOaFpHVnRlU0JqYjJ4dmNtRmtieEFBZmJJWU1EOCIsInF1ZXN0aW9uIjoiSXMgdGhlIEFpciBGb3JjZSBBY2FkZW15IHN0aWxsIGluIENvbG9yYWRvPyIsImxrIjoiR2lwcGN5QjBhR1VnWVdseUlHWnZjbU5sSUdGallXUmxiWGtnYzNScGJHd2dhVzRnWTI5c2IzSmhaRzgiLCJicyI6ImM0MlFzUXJDTUJDRzZackp1ZFBONnFDZDFFV3JJSFYyZEFwSjdBWFNIaVFweFNmd3RVMkRyUWhXM1E3dXZ2LTdPOWF5OWNtQjlvRGNTdkFFcGZLZzYxQjRWSkJyQzBleUlsU0NTMVhkUWdzT1pNaHlTZHRzazY3ME9Nd0RmSTB3ZjhIaUNiTjd3dktDV3FnYWdTQkp4UnhCenNjY2d2ODIyS2M3X0IzeWZaTUxtNFVYZkpZNXI0MTVWODdUcVhZanNjUDRFRjZ5WmJ5UzExMjNrYXIyRHJnTmlJLTZYbFRvRXVFc2tNaHNzeXhkNEJqVVNYc2RkcENMMENSNUFBIiwiaWQiOiJmY191Z3VqYXV1Y0RQS09zZU1Qc3ZyZnFRSV81In0%3D"
+  },
+  {
+   "question": "How many students are at Air Academy High School?",
+   "type": "ai_overview",
+   "page_token": "kO1MDXicHdBRbpswGABg7TJ9bACLTIkUTaOxkyJAwfZvwC8TtQM0xoYmUSG89Qo7w06100zad4Tv60__7szfb7-7-328bVeraZqe22Fo-_OzGuyqvj2cWqm6799qZbbr72v_R6N2-FNFL1cV5TCOYk89ZuJGgT8lgsjK9S_U6lgedMyOYmZmEySQBkAEwOF10VxOFXSJ6iE845HUWEcSm5kfsCc8v3wT_SV1Ii6DuRQBpbKYQ1heJ-7iRwLEMCNPMtCUufiW4vCkA0IkjymzMYNibGpDZiU6x490zIPxcrbtovckZhyHFNGTxBlNio3NHF0LR-8AHWF7EfDCj2pkFmZnXglARaFxDdRmnlmyQzYxvEFyH11xp32JxEdVCr_yaM68zSLBzxWSD-kIZXR4z4Eu6tJb8ELLRYsU6DDjaSjFz4UvZMzK6CPtc58jfZTTU6M-d-jp__XuV2Pv2_E6tP8AEZ2L6Q",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=kO1MDXicHdBRbpswGABg7TJ9bACLTIkUTaOxkyJAwfZvwC8TtQM0xoYmUSG89Qo7w06100zad4Tv60__7szfb7-7-328bVeraZqe22Fo-_OzGuyqvj2cWqm6799qZbbr72v_R6N2-FNFL1cV5TCOYk89ZuJGgT8lgsjK9S_U6lgedMyOYmZmEySQBkAEwOF10VxOFXSJ6iE845HUWEcSm5kfsCc8v3wT_SV1Ii6DuRQBpbKYQ1heJ-7iRwLEMCNPMtCUufiW4vCkA0IkjymzMYNibGpDZiU6x490zIPxcrbtovckZhyHFNGTxBlNio3NHF0LR-8AHWF7EfDCj2pkFmZnXglARaFxDdRmnlmyQzYxvEFyH11xp32JxEdVCr_yaM68zSLBzxWSD-kIZXR4z4Eu6tJb8ELLRYsU6DDjaSjFz4UvZMzK6CPtc58jfZTTU6M-d-jp__XuV2Pv2_E6tP8AEZ2L6Q",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2RVVnpVUzF0T1V0d2NVdzFWbkJ3Y205d1ZWaGlORFJGVldoeVpWUjNSV1prWDFKU1RIVmhaMHB0Y25FeFNYcEhPVTltZW5VNGFIUnlURFpPYURKWE5VRjRaVzFaWDJwZlVuYzRiMFZMZEdoTExXNUdOa3R2TXpkRVVSSVhkV2QxYW1GMWRXTkVVRXRQYzJWTlVITjJjbVp4VVVrYUlrRkVjM0k1WmxOa1RVNVZSRkpNWTBSdmFGaFdUMk5VZVY4MldrcEtMVk5HV21jIiwiZmN2IjoiMyIsImVpIjoidWd1amF1dWNEUEtPc2VNUHN2cmZxUUkiLCJxYyI6IkNoUmhhWElnWVdOaFpHVnRlU0JqYjJ4dmNtRmtieEFBZmJJWU1EOCIsInF1ZXN0aW9uIjoiSG93IG1hbnkgc3R1ZGVudHMgYXJlIGF0IEFpciBBY2FkZW15IEhpZ2ggU2Nob29sPyIsImxrIjoiR2pCb2IzY2diV0Z1ZVNCemRIVmtaVzUwY3lCaGNtVWdZWFFnWVdseUlHRmpZV1JsYlhrZ2FHbG5hQ0J6WTJodmIydyIsImJzIjoiYzQyUXNRckNNQkNHNlpySnVkUE42cUNkMUVXcklIVjJkQXBKN0FYU0hpUXB4U2Z3dFUyRHJRaFczUTd1dnYtN085YXk5Y21COW9EY1N2QUVwZktnNjFCNFZKQnJDMGV5SWxTQ1MxWGRRZ3NPWk1oeVNkdHNrNjcwT013RGZJMHdmOEhpQ2JON3d2S0NXcWdhZ1NCSnhSeEJ6c2NjZ3Y4MjJLYzdfQjN5ZlpNTG00VVhmSlk1cjQxNVY4N1RxWFlqc2NQNEVGNnlaYnlTMTEyM2thcjJEcmdOaUktNlhsVG9FdUVza01oc3N5eGQ0QmpVU1hzZGRwQ0wwQ1I1QUEiLCJpZCI6ImZjX3VndWphdXVjRFBLT3NlTVBzdnJmcVFJXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2RVVnpVUzF0T1V0d2NVdzFWbkJ3Y205d1ZWaGlORFJGVldoeVpWUjNSV1prWDFKU1RIVmhaMHB0Y25FeFNYcEhPVTltZW5VNGFIUnlURFpPYURKWE5VRjRaVzFaWDJwZlVuYzRiMFZMZEdoTExXNUdOa3R2TXpkRVVSSVhkV2QxYW1GMWRXTkVVRXRQYzJWTlVITjJjbVp4VVVrYUlrRkVjM0k1WmxOa1RVNVZSRkpNWTBSdmFGaFdUMk5VZVY4MldrcEtMVk5HV21jIiwiZmN2IjoiMyIsImVpIjoidWd1amF1dWNEUEtPc2VNUHN2cmZxUUkiLCJxYyI6IkNoUmhhWElnWVdOaFpHVnRlU0JqYjJ4dmNtRmtieEFBZmJJWU1EOCIsInF1ZXN0aW9uIjoiSG93IG1hbnkgc3R1ZGVudHMgYXJlIGF0IEFpciBBY2FkZW15IEhpZ2ggU2Nob29sPyIsImxrIjoiR2pCb2IzY2diV0Z1ZVNCemRIVmtaVzUwY3lCaGNtVWdZWFFnWVdseUlHRmpZV1JsYlhrZ2FHbG5hQ0J6WTJodmIydyIsImJzIjoiYzQyUXNRckNNQkNHNlpySnVkUE42cUNkMUVXcklIVjJkQXBKN0FYU0hpUXB4U2Z3dFUyRHJRaFczUTd1dnYtN085YXk5Y21COW9EY1N2QUVwZktnNjFCNFZKQnJDMGV5SWxTQ1MxWGRRZ3NPWk1oeVNkdHNrNjcwT013RGZJMHdmOEhpQ2JON3d2S0NXcWdhZ1NCSnhSeEJ6c2NjZ3Y4MjJLYzdfQjN5ZlpNTG00VVhmSlk1cjQxNVY4N1RxWFlqc2NQNEVGNnlaYnlTMTEyM2thcjJEcmdOaUktNlhsVG9FdUVza01oc3N5eGQ0QmpVU1hzZGRwQ0wwQ1I1QUEiLCJpZCI6ImZjX3VndWphdXVjRFBLT3NlTVBzdnJmcVFJXzUifQ%3D%3D"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Air Academy High School: Home",
+   "link": "https://airacademy.asd20.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVQHrOzAVjjyW9lmwmqwCBy9sAnF7-6nVwzWMPf9mKtN5aCeXk7FkcZHHEjrB7NSqNK6mIu7T0IaWwJzBQK57xV9EWaTso-npJ_sJBj7grZMYSmghD1s&ved=2ahUKEwjr4ceN5uSWAxVyR2wGHTL9NyUQFnoECEYQAQ&uoh=1",
+   "displayed_link": "https://airacademy.asd20.org",
+   "favicon": "https://serpapi.com/images/i/UklGRiYBAABXRUJQVlA4IBoBAABQBgCdASocABwAPtEutFooIagoGAEAGglAGSKelaIKZh47nGZW7a15UrOr9AHsOJFLE_-qkwVAMArEAAD-_sLJAYIe4KfyOpd9jMd7KyGfH3LjTY3r7rKqESl7gaE7zqdvo1B_KXcWEh8j5BegnxcIlHD-uuvCLuRLFBqFKQ1-x3gcFq85a0WMVlKdGRGyOf492q90_7GQxR-ic9c08-17_8s-dK9DmXYPfwI3ZRGSrCcoIRYeN-p_Fn9M4UfBWegx9wefn8pndQ5X0y-vvBsPMITNxYcX3_gHAKQYscjdYWsOY_2x2tkdNtV3b89hWPQKfVaCddjKjh1Jy-ew6bvoetfiXhaQFKE1Em-ebBPyfJXKWTjNhQHHkAA.webp",
+   "snippet": "Air Academy High School, located on the United States Air Force Academy ... Colorado Springs, CO 80840 Contact Us \u00b7 AccessibilityNon-discrimination ...",
+   "snippet_highlighted_words": [
+    "Air Academy",
+    "Colorado",
+    "CO"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "Athletics at AAHS",
+      "link": "https://airacademy.asd20.org/athletics/",
+      "snippet": "Air Academy High School provides athletic programs available to ..."
+     },
+     {
+      "title": "Schedules",
+      "link": "https://airacademy.asd20.org/schedules/",
+      "snippet": "Air Academy High School Schedules. Blue/Silver and ..."
+     },
+     {
+      "title": "About",
+      "link": "https://airacademy.asd20.org/about/",
+      "snippet": "Default Title | Air Academy High School."
+     },
+     {
+      "title": "Attendance",
+      "link": "https://airacademy.asd20.org/attendance/",
+      "snippet": "Our school logo. Air AcademyHigh School An Academy District 20 ..."
+     },
+     {
+      "title": "School Location/Map",
+      "link": "https://airacademy.asd20.org/about/map/",
+      "snippet": "Our school logo. Air AcademyHigh School An Academy District 20 ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Air Academy High School, located on the United States Air Force Academy ... Colorado Springs, CO 80840 Contact Us \u00b7 AccessibilityNon-discrimination ...",
+     "source_info_link": "https://airacademy.asd20.org/",
+     "icon": "https://serpapi.com/images/i/UklGRiYBAABXRUJQVlA4IBoBAABQBgCdASocABwAPtEutFooIagoGAEAGglAGSKelaIKZh47nGZW7a15UrOr9AHsOJFLE_-qkwVAMArEAAD-_sLJAYIe4KfyOpd9jMd7KyGfH3LjTY3r7rKqESl7gaE7zqdvo1B_KXcWEh8j5BegnxcIlHD-uuvCLuRLFBqFKQ1-x3gcFq85a0WMVlKdGRGyOf492q90_7GQxR-ic9c08-17_8s-dK9DmXYPfwI3ZRGSrCcoIRYeN-p_Fn9M4UfBWegx9wefn8pndQ5X0y-vvBsPMITNxYcX3_gHAKQYscjdYWsOY_2x2tkdNtV3b89hWPQKfVaCddjKjh1Jy-ew6bvoetfiXhaQFKE1Em-ebBPyfJXKWTjNhQHHkAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESVQHrOzAVjjyW9lmwmqwCBy9sAnF7-6nVwzWMPf9mKtN5aCeXk7FkcZHHEjrB7NSqNK6mIu7T0IaWwJzBQK57xV9EWaTso-npJ_sJBj7grZMYSmghD1s&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESVQHrOzAVjjyW9lmwmqwCBy9sAnF7-6nVwzWMPf9mKtN5aCeXk7FkcZHHEjrB7NSqNK6mIu7T0IaWwJzBQK57xV9EWaTso-npJ_sJBj7grZMYSmghD1s",
+   "source": "Air Academy High School"
+  },
+  {
+   "position": 2,
+   "title": "Air Academy High School",
+   "link": "https://en.wikipedia.org/wiki/Air_Academy_High_School",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbQHrOzAVC4lWcp6uZ2CuLeW-aSjet8u9Q6BFTS1Nx2bjTxJRlEQjte9sg1ccbADyl22NbJBI-fgS_CHIrqtGal_-QrEquXo45nVq6nDALTan4Z4_fOWOAmnA1L0GrIQjwOa2FG8eV9ji3wPs2Ws&ved=2ahUKEwjr4ceN5uSWAxVyR2wGHTL9NyUQFnoECEsQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Air_Academy_High_S...",
+   "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+   "snippet": "Air Academy High School (AAHS) is a public high school in El Paso County, Colorado, United States that serves the northwestern end of Colorado Springs, ...",
+   "snippet_highlighted_words": [
+    "Air Academy",
+    "Colorado",
+    "Colorado"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Air Academy High School (AAHS) is a public high school in El Paso County, Colorado, United States that serves the northwestern end of Colorado Springs, ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Air_Academy_High_School",
+     "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESbQHrOzAVC4lWcp6uZ2CuLeW-aSjet8u9Q6BFTS1Nx2bjTxJRlEQjte9sg1ccbADyl22NbJBI-fgS_CHIrqtGal_-QrEquXo45nVq6nDALTan4Z4_fOWOAmnA1L0GrIQjwOa2FG8eV9ji3wPs2Ws&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESbQHrOzAVC4lWcp6uZ2CuLeW-aSjet8u9Q6BFTS1Nx2bjTxJRlEQjte9sg1ccbADyl22NbJBI-fgS_CHIrqtGal_-QrEquXo45nVq6nDALTan4Z4_fOWOAmnA1L0GrIQjwOa2FG8eV9ji3wPs2Ws",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Air_Academy_High_School#:~:text=Air%20Academy%20High%20School%20(AAHS),United%20States%20Air%20Force%20Academy."
+  },
+  {
+   "position": 3,
+   "title": "Air Academy Credit Union: Best Credit Union Serving your ...",
+   "link": "https://www.aacu.com/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTQHrOzAVMpaTen0vUVVoUMULJ09x_OkRtcObOmw0gcEbGs89dAZl4GTq9tuzFphTERP8BNo9N1kt4KD0Si-lcBaMf9MnmnBMFoFLLQ9R&ved=2ahUKEwjr4ceN5uSWAxVyR2wGHTL9NyUQFnoECEcQAQ&uoh=1",
+   "displayed_link": "https://www.aacu.com",
+   "favicon": "https://serpapi.com/images/i/UklGRowBAABXRUJQVlA4IIABAADQCQCdASogACAAPtE-tFooIigoFAEAGglsAJ0yhHUAqzK9xh4uf6TogPMB-p-85dQt6AHS9fs56N1zVNmBWv_JYcacUN5BLZZi_lnippxXeg-vX56v4GAA_pw7-Ld5jDpJTUclkeEZZXy7wFnoavBpDQupjBMHTV61ZOylr9wtUVLifFI2NlA15N5L_FxtnrD-ZqyT9QX-jkL3_vs4rIdU2tMlBs_QHQ66CU1c0o5C1aEfK4KTUMaQRgvVhFxLWT9IzMsJFMDaCrVr1Dp-TlEF6CTLJlDCFL9m2GfO84J7k_UZT7__I7viWMyduBp5rpqk7PY0tyylm8MlXYZu12OfTWavUKPKTXLJrXCCzWQau9xJVViqJ4Nf_tY_3YN_tJZchCfM87jdkHwbmU65_ACPrsG1GXkoMBZqLHX73Q4dTlbTJH9_aYME4GnGX0rBcviqQW1bAjR7NzzjGfmqiL_s3Sjzc3eI4Iv4oONMkxEDpMFbxOQsBZBi9QAk1TBlAAA.webp",
+   "snippet": "We offer competitive, innovative products to our members, and we're committed to offering financial solutions that work for you. Air Academy Credit Union (AACU) ...",
+   "snippet_highlighted_words": [
+    "Air Academy"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "We offer competitive, innovative products to our members, and we're committed to offering financial solutions that work for you. Air Academy Credit Union (AACU) ...",
+     "source_info_link": "https://www.aacu.com/",
+     "icon": "https://serpapi.com/images/i/UklGRowBAABXRUJQVlA4IIABAADQCQCdASogACAAPtE-tFooIigoFAEAGglsAJ0yhHUAqzK9xh4uf6TogPMB-p-85dQt6AHS9fs56N1zVNmBWv_JYcacUN5BLZZi_lnippxXeg-vX56v4GAA_pw7-Ld5jDpJTUclkeEZZXy7wFnoavBpDQupjBMHTV61ZOylr9wtUVLifFI2NlA15N5L_FxtnrD-ZqyT9QX-jkL3_vs4rIdU2tMlBs_QHQ66CU1c0o5C1aEfK4KTUMaQRgvVhFxLWT9IzMsJFMDaCrVr1Dp-TlEF6CTLJlDCFL9m2GfO84J7k_UZT7__I7viWMyduBp5rpqk7PY0tyylm8MlXYZu12OfTWavUKPKTXLJrXCCzWQau9xJVViqJ4Nf_tY_3YN_tJZchCfM87jdkHwbmU65_ACPrsG1GXkoMBZqLHX73Q4dTlbTJH9_aYME4GnGX0rBcviqQW1bAjR7NzzjGfmqiL_s3Sjzc3eI4Iv4oONMkxEDpMFbxOQsBZBi9QAk1TBlAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESTQHrOzAVMpaTen0vUVVoUMULJ09x_OkRtcObOmw0gcEbGs89dAZl4GTq9tuzFphTERP8BNo9N1kt4KD0Si-lcBaMf9MnmnBMFoFLLQ9R&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESTQHrOzAVMpaTen0vUVVoUMULJ09x_OkRtcObOmw0gcEbGs89dAZl4GTq9tuzFphTERP8BNo9N1kt4KD0Si-lcBaMf9MnmnBMFoFLLQ9R",
+   "source": "Air Academy",
+   "read_more_link": "https://www.aacu.com/#:~:text=About"
+  },
+  {
+   "position": 4,
+   "title": "Air Academy High School | Air Force Academy CO",
+   "link": "https://www.facebook.com/airacademykadets/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYgHrOzAVJkCdI5l3JUhtUuO8SSDwhswz7iQlxVHvBg5U-9nXcukEQd4ZznH4SJ4vl7LA6aJCSjqZQ5x5RJA931ZVKO9OQh8l36J5B2t7hvHK9ufu32a_QY2rpUI-Mh-XjSDy&ved=2ahUKEwjr4ceN5uSWAxVyR2wGHTL9NyUQFnoECG4QAQ&uoh=1",
+   "displayed_link": "2.6K+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "snippet": "Air Academy High School ... Located on the U.S. Air Force Academy, AAHS is a public school where all students can be successful. We pair strong academics and ...",
+   "snippet_highlighted_words": [
+    "Air Academy"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Air Academy High School ... Located on the U.S. Air Force Academy, AAHS is a public school where all students can be successful. We pair strong academics and ...",
+     "source_info_link": "https://www.facebook.com/airacademykadets/",
+     "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYgHrOzAVJkCdI5l3JUhtUuO8SSDwhswz7iQlxVHvBg5U-9nXcukEQd4ZznH4SJ4vl7LA6aJCSjqZQ5x5RJA931ZVKO9OQh8l36J5B2t7hvHK9ufu32a_QY2rpUI-Mh-XjSDy&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYgHrOzAVJkCdI5l3JUhtUuO8SSDwhswz7iQlxVHvBg5U-9nXcukEQd4ZznH4SJ4vl7LA6aJCSjqZQ5x5RJA931ZVKO9OQh8l36J5B2t7hvHK9ufu32a_QY2rpUI-Mh-XjSDy",
+   "source": "Facebook \u00b7 Air Academy High School",
+   "read_more_link": "https://www.facebook.com/airacademykadets/#:~:text=Air%20Academy%20High%20School&text=Located%20on%20the%20U.S.%20Air,taking%20care%20of%20each%20other."
+  },
+  {
+   "position": 5,
+   "title": "Air Academy High School - Colorado",
+   "link": "https://www.usnews.com/education/best-high-schools/colorado/districts/academy-school-district-no-20-in-the-county-of-el-paso-an/air-academy-high-school-3952",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES1QEB6zswFf3Wm_4U_LaITFIbIPp-iuppet0ul2YcHrDKHVKDmSQfzVEWm4b3CyRDDMz6kHaN5-GPJLS3tYMCkQ56JC5dYNiZ3nLnOItDg20UQKp9TYi-sWKqlxLpVKzvARfXoPIbK2aR7iY1Ke4jR0Kd7Sp2Q9-NsG-85c_OyxOvwjK1-SOYfeJklcQHS3q2te1XDNh4IBJZDgXFOAfAgR1SReGq8G5UcqEY1LcVb6RBwh-6D-ugghs14uRt8yoBR92VZVfx1A3uYaSOafD7QP1SJUUyTmI&ved=2ahUKEwjr4ceN5uSWAxVyR2wGHTL9NyUQFnoECGgQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a colorado \u203a districts \u203a air-aca...",
+   "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp",
+   "snippet": "Air Academy High School is ranked 63rd within Colorado. Additionally, 18% of students in the school are economically disadvantaged. Air Academy High School ...",
+   "snippet_highlighted_words": [
+    "Air Academy",
+    "Colorado",
+    "Air Academy"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Air Academy High School is ranked 63rd within Colorado. Additionally, 18% of students in the school are economically disadvantaged. Air Academy High School ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/colorado/districts/academy-school-district-no-20-in-the-county-of-el-paso-an/air-academy-high-school-3952",
+     "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAES1QEB6zswFf3Wm_4U_LaITFIbIPp-iuppet0ul2YcHrDKHVKDmSQfzVEWm4b3CyRDDMz6kHaN5-GPJLS3tYMCkQ56JC5dYNiZ3nLnOItDg20UQKp9TYi-sWKqlxLpVKzvARfXoPIbK2aR7iY1Ke4jR0Kd7Sp2Q9-NsG-85c_OyxOvwjK1-SOYfeJklcQHS3q2te1XDNh4IBJZDgXFOAfAgR1SReGq8G5UcqEY1LcVb6RBwh-6D-ugghs14uRt8yoBR92VZVfx1A3uYaSOafD7QP1SJUUyTmI&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAES1QEB6zswFf3Wm_4U_LaITFIbIPp-iuppet0ul2YcHrDKHVKDmSQfzVEWm4b3CyRDDMz6kHaN5-GPJLS3tYMCkQ56JC5dYNiZ3nLnOItDg20UQKp9TYi-sWKqlxLpVKzvARfXoPIbK2aR7iY1Ke4jR0Kd7Sp2Q9-NsG-85c_OyxOvwjK1-SOYfeJklcQHS3q2te1XDNh4IBJZDgXFOAfAgR1SReGq8G5UcqEY1LcVb6RBwh-6D-ugghs14uRt8yoBR92VZVfx1A3uYaSOafD7QP1SJUUyTmI",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/colorado/districts/academy-school-district-no-20-in-the-county-of-el-paso-an/air-academy-high-school-3952#:~:text=Air%20Academy%20High%20School%20is,the%20Academy%20School%20District%20No."
+  },
+  {
+   "position": 6,
+   "title": "Air Academy High School (@air_academy_hs)",
+   "link": "https://www.instagram.com/air_academy_hs/?hl=en",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZwHrOzAVUxzySG-zCYzSg3ZOI3EzlSxK7Iss1RPPV1Vd1ntP91GZZ2BSki3zvKfAi7E7Gc-4lkUOVv1YNE_w441qiIgqBZsHVdUdhbXXOW1jcBRJBPfWpGDDj06oWpSx8095NNGGJTY&ved=2ahUKEwjr4ceN5uSWAxVyR2wGHTL9NyUQFnoECHYQAQ&uoh=1",
+   "displayed_link": "3.6K+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+   "snippet": "3.6K+ followers \u00b7 2.7K+ posts \u00b7 Rise Above. Air Academy High School is an Academy District 20 school. @academyd20.",
+   "snippet_highlighted_words": [
+    "Air Academy"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "3.6K+ followers \u00b7 2.7K+ posts \u00b7 Rise Above. Air Academy High School is an Academy District 20 school. @academyd20.",
+     "source_info_link": "https://www.instagram.com/air_academy_hs/?hl=en",
+     "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESZwHrOzAVUxzySG-zCYzSg3ZOI3EzlSxK7Iss1RPPV1Vd1ntP91GZZ2BSki3zvKfAi7E7Gc-4lkUOVv1YNE_w441qiIgqBZsHVdUdhbXXOW1jcBRJBPfWpGDDj06oWpSx8095NNGGJTY&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESZwHrOzAVUxzySG-zCYzSg3ZOI3EzlSxK7Iss1RPPV1Vd1ntP91GZZ2BSki3zvKfAi7E7Gc-4lkUOVv1YNE_w441qiIgqBZsHVdUdhbXXOW1jcBRJBPfWpGDDj06oWpSx8095NNGGJTY",
+   "source": "Instagram \u00b7 air_academy_hs"
+  },
+  {
+   "position": 7,
+   "title": "Air Academy High School in CO",
+   "link": "https://www.niche.com/k12/air-academy-high-school-usaf-academy-co/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESegHrOzAVQdqEOwaziqDdGtoSBLwpf0FPd4cKrMcru4ph-bySEhX5uymvaHBg-12tsjJZ4vhhq6h1gkN5AMGiUDZbfqkmHae-VGvR6Yl7xT5fKMslMcpm6iIaheriKAQ30duHLFkSEnQfL9pjBxJky-ycJMT3uQ6FFpaA&ved=2ahUKEwjr4ceN5uSWAxVyR2wGHTL9NyUQFnoECGcQAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a Colorado",
+   "favicon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAACwBgCdASocABwAPtEutFooIagoGAEAGglAGZo7gYv7m0TPt8r_WYdmpcah9WA48zicEtVrCFOGH4nMtJiaAAD-8Mpqn5wztwFeSDXF5YavmSdrcpv67JtS1tKl7uW6N9aR19WH-vT5VtxqndfSU_QIzB4R0m5fNi1eX3h8GYa_8H28-7o-nc3D2GEvZqGTES8muP_UCP_UIYsGh8QXK7V2sBnUP79qQidv_o8__S3xjZZmmXEG69VP00Dn3HuddwtLR_4xf_0PU8NPn060X-47u3VDw39ZbBgpwK3wP0F5tHUWMrTdTbcT_h7ghKmtPgKiKNIvGUNLHBT4VbzlXgvFo7vCP-ot_w6I_hOg9EcgQfabjpYvU6X4xcxi9BIxh2PJomEF2PA_XoL7FtzFNUuyE0IG83Bax0ZYU-dxj0EhgAAA.webp",
+   "snippet": "Air Academy High School is a highly rated, public school located in USAF ACADEMY, CO. It has 1380 students in grades 9-12 with a student-teacher ratio of 18 ...",
+   "snippet_highlighted_words": [
+    "Air Academy",
+    "CO"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Air Academy High School is a highly rated, public school located in USAF ACADEMY, CO. It has 1380 students in grades 9-12 with a student-teacher ratio of 18 ...",
+     "source_info_link": "https://www.niche.com/k12/air-academy-high-school-usaf-academy-co/",
+     "icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAACwBgCdASocABwAPtEutFooIagoGAEAGglAGZo7gYv7m0TPt8r_WYdmpcah9WA48zicEtVrCFOGH4nMtJiaAAD-8Mpqn5wztwFeSDXF5YavmSdrcpv67JtS1tKl7uW6N9aR19WH-vT5VtxqndfSU_QIzB4R0m5fNi1eX3h8GYa_8H28-7o-nc3D2GEvZqGTES8muP_UCP_UIYsGh8QXK7V2sBnUP79qQidv_o8__S3xjZZmmXEG69VP00Dn3HuddwtLR_4xf_0PU8NPn060X-47u3VDw39ZbBgpwK3wP0F5tHUWMrTdTbcT_h7ghKmtPgKiKNIvGUNLHBT4VbzlXgvFo7vCP-ot_w6I_hOg9EcgQfabjpYvU6X4xcxi9BIxh2PJomEF2PA_XoL7FtzFNUuyE0IG83Bax0ZYU-dxj0EhgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESegHrOzAVQdqEOwaziqDdGtoSBLwpf0FPd4cKrMcru4ph-bySEhX5uymvaHBg-12tsjJZ4vhhq6h1gkN5AMGiUDZbfqkmHae-VGvR6Yl7xT5fKMslMcpm6iIaheriKAQ30duHLFkSEnQfL9pjBxJky-ycJMT3uQ6FFpaA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESegHrOzAVQdqEOwaziqDdGtoSBLwpf0FPd4cKrMcru4ph-bySEhX5uymvaHBg-12tsjJZ4vhhq6h1gkN5AMGiUDZbfqkmHae-VGvR6Yl7xT5fKMslMcpm6iIaheriKAQ30duHLFkSEnQfL9pjBxJky-ycJMT3uQ6FFpaA",
+   "source": "Niche"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Air academy colorado football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Air+academy+colorado+football&sa=X&ved=2ahUKEwjr4ceN5uSWAxVyR2wGHTL9NyUQ1QJ6BAh8EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Air+academy+colorado+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Air academy colorado reviews",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Air+academy+colorado+reviews&sa=X&ved=2ahUKEwjr4ceN5uSWAxVyR2wGHTL9NyUQ1QJ6BQiNARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Air+academy+colorado+reviews"
+  },
+  {
+   "block_position": 1,
+   "query": "Air Academy High School",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Air+Academy+High+School&sa=X&ved=2ahUKEwjr4ceN5uSWAxVyR2wGHTL9NyUQ1QJ6BQiOARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Air+Academy+High+School"
+  },
+  {
+   "block_position": 1,
+   "query": "Air Academy Federal Credit Union",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Air+Academy+Federal+Credit+Union&sa=X&ved=2ahUKEwjr4ceN5uSWAxVyR2wGHTL9NyUQ1QJ6BQiLARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Air+Academy+Federal+Credit+Union"
+  },
+  {
+   "block_position": 1,
+   "query": "Air academy colorado acceptance rate",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Air+academy+colorado+acceptance+rate&sa=X&ved=2ahUKEwjr4ceN5uSWAxVyR2wGHTL9NyUQ1QJ6BQiMARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Air+academy+colorado+acceptance+rate"
+  },
+  {
+   "block_position": 1,
+   "query": "Is air academy high school on base",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Is+air+academy+high+school+on+base&sa=X&ved=2ahUKEwjr4ceN5uSWAxVyR2wGHTL9NyUQ1QJ6BQiKARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Is+air+academy+high+school+on+base"
+  },
+  {
+   "block_position": 1,
+   "query": "Air academy colorado ranking",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Air+academy+colorado+ranking&sa=X&ved=2ahUKEwjr4ceN5uSWAxVyR2wGHTL9NyUQ1QJ6BQiIARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Air+academy+colorado+ranking"
+  },
+  {
+   "block_position": 1,
+   "query": "Air Academy High School graduation 2026",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Air+Academy+High+School+graduation+2026&sa=X&ved=2ahUKEwjr4ceN5uSWAxVyR2wGHTL9NyUQ1QJ6BQiDARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Air+Academy+High+School+graduation+2026"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Air+Academy%22+Colorado&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=ugujauucDPKOseMPsvrfqQI&start=10&sa=N&sstk=AS6-VmKPWYsx1lWlP5yL-mq2pKopUALYFV59M-lOgQDvYroqcicw1lTHpw9b33ZyQllgMpzFITtAoF2A5MqXKaYn7A0F98RlB8RZ4g&ved=2ahUKEwjr4ceN5uSWAxVyR2wGHTL9NyUQ8NMDegQIWxAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Air+Academy%22+Colorado&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=ugujauucDPKOseMPsvrfqQI&start=10&sa=N&sstk=AS6-VmKPWYsx1lWlP5yL-mq2pKopUALYFV59M-lOgQDvYroqcicw1lTHpw9b33ZyQllgMpzFITtAoF2A5MqXKaYn7A0F98RlB8RZ4g&ved=2ahUKEwjr4ceN5uSWAxVyR2wGHTL9NyUQ8tMDegQIWxAE",
+   "3": "https://www.google.com/search?q=%22Air+Academy%22+Colorado&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=ugujauucDPKOseMPsvrfqQI&start=20&sa=N&sstk=AS6-VmKPWYsx1lWlP5yL-mq2pKopUALYFV59M-lOgQDvYroqcicw1lTHpw9b33ZyQllgMpzFITtAoF2A5MqXKaYn7A0F98RlB8RZ4g&ved=2ahUKEwjr4ceN5uSWAxVyR2wGHTL9NyUQ8tMDegQIWxAG",
+   "4": "https://www.google.com/search?q=%22Air+Academy%22+Colorado&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=ugujauucDPKOseMPsvrfqQI&start=30&sa=N&sstk=AS6-VmKPWYsx1lWlP5yL-mq2pKopUALYFV59M-lOgQDvYroqcicw1lTHpw9b33ZyQllgMpzFITtAoF2A5MqXKaYn7A0F98RlB8RZ4g&ved=2ahUKEwjr4ceN5uSWAxVyR2wGHTL9NyUQ8tMDegQIWxAI",
+   "5": "https://www.google.com/search?q=%22Air+Academy%22+Colorado&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=ugujauucDPKOseMPsvrfqQI&start=40&sa=N&sstk=AS6-VmKPWYsx1lWlP5yL-mq2pKopUALYFV59M-lOgQDvYroqcicw1lTHpw9b33ZyQllgMpzFITtAoF2A5MqXKaYn7A0F98RlB8RZ4g&ved=2ahUKEwjr4ceN5uSWAxVyR2wGHTL9NyUQ8tMDegQIWxAK",
+   "6": "https://www.google.com/search?q=%22Air+Academy%22+Colorado&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=ugujauucDPKOseMPsvrfqQI&start=50&sa=N&sstk=AS6-VmKPWYsx1lWlP5yL-mq2pKopUALYFV59M-lOgQDvYroqcicw1lTHpw9b33ZyQllgMpzFITtAoF2A5MqXKaYn7A0F98RlB8RZ4g&ved=2ahUKEwjr4ceN5uSWAxVyR2wGHTL9NyUQ8tMDegQIWxAM",
+   "7": "https://www.google.com/search?q=%22Air+Academy%22+Colorado&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=ugujauucDPKOseMPsvrfqQI&start=60&sa=N&sstk=AS6-VmKPWYsx1lWlP5yL-mq2pKopUALYFV59M-lOgQDvYroqcicw1lTHpw9b33ZyQllgMpzFITtAoF2A5MqXKaYn7A0F98RlB8RZ4g&ved=2ahUKEwjr4ceN5uSWAxVyR2wGHTL9NyUQ8tMDegQIWxAO",
+   "8": "https://www.google.com/search?q=%22Air+Academy%22+Colorado&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=ugujauucDPKOseMPsvrfqQI&start=70&sa=N&sstk=AS6-VmKPWYsx1lWlP5yL-mq2pKopUALYFV59M-lOgQDvYroqcicw1lTHpw9b33ZyQllgMpzFITtAoF2A5MqXKaYn7A0F98RlB8RZ4g&ved=2ahUKEwjr4ceN5uSWAxVyR2wGHTL9NyUQ8tMDegQIWxAQ",
+   "9": "https://www.google.com/search?q=%22Air+Academy%22+Colorado&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=ugujauucDPKOseMPsvrfqQI&start=80&sa=N&sstk=AS6-VmKPWYsx1lWlP5yL-mq2pKopUALYFV59M-lOgQDvYroqcicw1lTHpw9b33ZyQllgMpzFITtAoF2A5MqXKaYn7A0F98RlB8RZ4g&ved=2ahUKEwjr4ceN5uSWAxVyR2wGHTL9NyUQ8tMDegQIWxAS",
+   "10": "https://www.google.com/search?q=%22Air+Academy%22+Colorado&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=ugujauucDPKOseMPsvrfqQI&start=90&sa=N&sstk=AS6-VmKPWYsx1lWlP5yL-mq2pKopUALYFV59M-lOgQDvYroqcicw1lTHpw9b33ZyQllgMpzFITtAoF2A5MqXKaYn7A0F98RlB8RZ4g&ved=2ahUKEwjr4ceN5uSWAxVyR2wGHTL9NyUQ8tMDegQIWxAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Air+Academy%22+Colorado&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Air+Academy%22+Colorado&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Air+Academy%22+Colorado&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Air+Academy%22+Colorado&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Air+Academy%22+Colorado&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Air+Academy%22+Colorado&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Air+Academy%22+Colorado&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Air+Academy%22+Colorado&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Air+Academy%22+Colorado&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Air+Academy%22+Colorado&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Air+Academy%22+Colorado&start=90"
+  }
+ }
+}

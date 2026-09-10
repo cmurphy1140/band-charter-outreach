@@ -1,0 +1,494 @@
+{
+ "search_information": {
+  "query_displayed": "\"Byrnes High School\"",
+  "total_results": 99800,
+  "time_taken_displayed": 0.41,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "James F. Byrnes High School",
+  "type": "Secondary school in Duncan, South Carolina",
+  "entity_type": "local_nav",
+  "kgmid": "/m/048xxz",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/048xxz&hl=en-US&q=James+F.+Byrnes+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F048xxz&q=James+F.+Byrnes+High+School",
+  "place_id": "ChIJWaBECIqBV4gRykPdSLyqnxE",
+  "website": "http://www.spart5.net/bhs",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa30cbcacb3e407f274d290/images/GVHQRNjrl25BIjzYBgRrfIXMQLznoCch46jwgULocOg.webp",
+   "link": "https://www.google.com/maps/place/James+F.+Byrnes+High+School/data=!4m2!3m1!1s0x0:0x119faabc48dd43ca?sa=X&ved=2ahUKEwjXxNSJ5-SWAxVnWUEAHTgcH6sQ_BJ6BAgaEAA&hl=en&gl=us"
+  },
+  "see_photos_link": "https://www.google.com/local/place/fid/0x8857818a0844a059:0x119faabc48dd43ca/photosphere?iu=https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid%3DILk6tr4Ka3b4r42y0tMr7g%26cb_client%3Dsearch.gws-prod.gps%26yaw%3D39.05054%26pitch%3D0%26thumbfov%3D100%26w%3D0%26h%3D0&ik=CAISFklMazZ0cjRLYTNiNHI0MnkwdE1yN2c%3D&sa=X&ved=2ahUKEwjXxNSJ5-SWAxVnWUEAHTgcH6sQpx96BAgdEAU",
+  "address": "150 E Main St, Duncan, SC 29334",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnv1pQb60RK-ELxzI_lIYnVTwNVkHA:1789070526462&q=james+f.+byrnes+high+school+address&ludocid=1269921345594803146&sa=X&ved=2ahUKEwjXxNSJ5-SWAxVnWUEAHTgcH6sQ6BN6BAglEAI"
+   }
+  ],
+  "color": "Royal blue",
+  "color_links": [
+   {
+    "text": "Royal blue",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnv1pQb60RK-ELxzI_lIYnVTwNVkHA:1789070526462&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yc1QFlA9nLQlLs7-DNYslg8rgPGj_WKghmwACmICDTGYW5_2jXSKQ2AmNJ9_JcKWQTwNPKxG790_-GoVPvw8n3iC7BlNkzBWUoutUAbbnf070FZqWMYVLM_-ieK4DR4mJ3oq_Ng%3D&sa=X&ved=2ahUKEwjXxNSJ5-SWAxVnWUEAHTgcH6sQmxN6BAgmEAI"
+   }
+  ],
+  "founded": "1955",
+  "school_type": "Secondary school",
+  "school_type_links": [
+   {
+    "text": "Secondary school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnv1pQb60RK-ELxzI_lIYnVTwNVkHA:1789070526462&q=Secondary+school&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67-Rsa99rK7fwEET42kD4ZCi60HGmNZn5BhwPsOfBnKMjzmDf592P6mJsoW5452rqk_F6EtGEv5zsZVb-hXLyojsACPj7WR6XWDM9SCAuMY55ll38vICyahjcyHao60qqz0yFerTk6UXF9mV8u00h1-ElfiZvqK4KU7CYI9u2rngB2Ca9qg%3D%3D&sa=X&ved=2ahUKEwjXxNSJ5-SWAxVnWUEAHTgcH6sQmxN6BAgpEAI"
+   }
+  ],
+  "phone": "(864) 949-2355",
+  "raw_hours": "Closed \u00b7 Opens 7 AM Fri",
+  "hours": {
+   "thursday": {
+    "opens": "7\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "friday": {
+    "opens": "7\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "7\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "tuesday": {
+    "opens": "7\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "wednesday": {
+    "opens": "7\u202fAM",
+    "closes": "4\u202fPM"
+   }
+  },
+  "people_also_search_for": [
+   {
+    "name": "Dorman High School",
+    "image": "https://serpapi.com/searches/6aa30cbcacb3e407f274d290/images/GVHQRNjrl25BIjzYBgRrfDIEdAeU8PfeUzeMXaR5x13zIBjaSB-OtKgxCMK0NgPe.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnv1pQb60RK-ELxzI_lIYnVTwNVkHA:1789070526462&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW6751hQrNq6J5t96kXGtB9d7Me-uodBAj1dwATwUSeX3oTxi6a-p74w8c_9M2gah1CQmrg9m5BeAs0tMgxSyVkvFXG8v6AQA9Fam2o3PbdDNFhMuyiTZLRD837q9HAyBhfyE-eQPd0rkmzoDH56WgfYeUtTQtMsbWBItAfU5zEk1RTNwJliuKCbsPtUHRaHYJ1Ab8H5earsAfyRqfBgwst4PafA04x6UzmxvW6Y35uo3fzYtOOPqjb66lWcscS4xs_pOLUFJ232h5m3yO09P7Ia0Ft7FTT&q=Dorman+High+School&sa=X&ved=2ahUKEwjXxNSJ5-SWAxVnWUEAHTgcH6sQs9oBKAB6BAghEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Dorman+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW6751hQrNq6J5t96kXGtB9d7Me-uodBAj1dwATwUSeX3oTxi6a-p74w8c_9M2gah1CQmrg9m5BeAs0tMgxSyVkvFXG8v6AQA9Fam2o3PbdDNFhMuyiTZLRD837q9HAyBhfyE-eQPd0rkmzoDH56WgfYeUtTQtMsbWBItAfU5zEk1RTNwJliuKCbsPtUHRaHYJ1Ab8H5earsAfyRqfBgwst4PafA04x6UzmxvW6Y35uo3fzYtOOPqjb66lWcscS4xs_pOLUFJ232h5m3yO09P7Ia0Ft7FTT"
+   },
+   {
+    "name": "Byrnes Freshman Academy",
+    "image": "https://serpapi.com/searches/6aa30cbcacb3e407f274d290/images/GVHQRNjrl25BIjzYBgRrfDIEdAeU8PfeUzeMXaR5x13OcW0AoeH1wc_F--HjCHXv.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnv1pQb60RK-ELxzI_lIYnVTwNVkHA:1789070526462&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67_UFzRUp9GuRlj0WB2v00zHaBHZ2FSiTCOe0bl6xR2ZbaS-FgFJepK_hKWuOQ2MFrFF2bHlvDyBKh-RnexvSR4Rzm1Pyv8CTu5GAVilrsP0fZFza2_0eWopEoQkj8UILRZqL54EJBU-SnCd4MOceBkxyhpRbnbaFeC2V9oenvKLV1EOdK2v8e5G4iZahLFb5SEehPZ32L7ucU85VVfP7XJI4EM_mzhjuuRbz8ijJP1GnumUJxuA4SADR3sDd2pqWRmP_0lb7wNDg5Bf4qkw3GI3IVyzJ&q=Byrnes+Freshman+Academy&sa=X&ved=2ahUKEwjXxNSJ5-SWAxVnWUEAHTgcH6sQs9oBKAB6BAghEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Byrnes+Freshman+Academy&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67_UFzRUp9GuRlj0WB2v00zHaBHZ2FSiTCOe0bl6xR2ZbaS-FgFJepK_hKWuOQ2MFrFF2bHlvDyBKh-RnexvSR4Rzm1Pyv8CTu5GAVilrsP0fZFza2_0eWopEoQkj8UILRZqL54EJBU-SnCd4MOceBkxyhpRbnbaFeC2V9oenvKLV1EOdK2v8e5G4iZahLFb5SEehPZ32L7ucU85VVfP7XJI4EM_mzhjuuRbz8ijJP1GnumUJxuA4SADR3sDd2pqWRmP_0lb7wNDg5Bf4qkw3GI3IVyzJ"
+   },
+   {
+    "name": "T.L. Hanna High School",
+    "image": "https://serpapi.com/searches/6aa30cbcacb3e407f274d290/images/GVHQRNjrl25BIjzYBgRrfDIEdAeU8PfeUzeMXaR5x12bjMIuWAOYIXnKctxpkotD.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnv1pQb60RK-ELxzI_lIYnVTwNVkHA:1789070526462&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW670airsKmcg0dDV8CbFsvH79X4XLuNP1DbZMcHBjrLDulsqUuysB69BoRvotPqj8Odag6DkhWq_Ol593OLYEFOl4EN02tQnX9uAYUUj-YS1ID3o0H6ki1XtGu2_D6gsQAyzuEazwy3vytdIQ5-fHgHTDh7pdtJ6cD40UBLaNVJvbrM89DnU2tN0ecTBEz5gdQrGN6wGl2nj-N96HYvNkeh1VqWvDJDr_CtrCO3zCSNxFWpgXBFeiHITxT0QvqV474pYL4soQvUwZIoXDRGQGlKJg0wD97&q=T.L.+Hanna+High+School&sa=X&ved=2ahUKEwjXxNSJ5-SWAxVnWUEAHTgcH6sQs9oBKAB6BAghEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=T.L.+Hanna+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW670airsKmcg0dDV8CbFsvH79X4XLuNP1DbZMcHBjrLDulsqUuysB69BoRvotPqj8Odag6DkhWq_Ol593OLYEFOl4EN02tQnX9uAYUUj-YS1ID3o0H6ki1XtGu2_D6gsQAyzuEazwy3vytdIQ5-fHgHTDh7pdtJ6cD40UBLaNVJvbrM89DnU2tN0ecTBEz5gdQrGN6wGl2nj-N96HYvNkeh1VqWvDJDr_CtrCO3zCSNxFWpgXBFeiHITxT0QvqV474pYL4soQvUwZIoXDRGQGlKJg0wD97"
+   },
+   {
+    "name": "Northwestern High School",
+    "image": "https://serpapi.com/searches/6aa30cbcacb3e407f274d290/images/GVHQRNjrl25BIjzYBgRrfDIEdAeU8PfeUzeMXaR5x13C66-hrE8Lb2ZnSq6eD1Dk.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnv1pQb60RK-ELxzI_lIYnVTwNVkHA:1789070526462&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ya2oeedqn_ts3kNUABML70ELfWQFQw9u88JvBNx0fum5-4ElqdN7D9tsUuiUxUNENTRfgQ8rub9Vv-rzGckL2mi5ZV4P18lKSm57K_QWlBfOOvxSNfGSkBzY5efrQKrGILcPkGOXcC6crLT0toqhzp7Qz1wYDvUchAFffHFnQqzd528JpMx3CE-fxw1O1q6GtlgR2nMp0QXnbWSezYPvG0nhyRLCvYdkd1lNdGZgH77IgEC57E8tY4n2Z9Gx1-N7Ik3q6OCzamCC30yNxOj5xtdqUgT1F4I6o3_OhqargwKZVVcTQQ%3D%3D&q=Northwestern+High+School+(South+Carolina)&sa=X&ved=2ahUKEwjXxNSJ5-SWAxVnWUEAHTgcH6sQs9oBKAB6BAghEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Northwestern+High+School+%28South+Carolina%29&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ya2oeedqn_ts3kNUABML70ELfWQFQw9u88JvBNx0fum5-4ElqdN7D9tsUuiUxUNENTRfgQ8rub9Vv-rzGckL2mi5ZV4P18lKSm57K_QWlBfOOvxSNfGSkBzY5efrQKrGILcPkGOXcC6crLT0toqhzp7Qz1wYDvUchAFffHFnQqzd528JpMx3CE-fxw1O1q6GtlgR2nMp0QXnbWSezYPvG0nhyRLCvYdkd1lNdGZgH77IgEC57E8tY4n2Z9Gx1-N7Ik3q6OCzamCC30yNxOj5xtdqUgT1F4I6o3_OhqargwKZVVcTQQ%3D%3D"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnv1pQb60RK-ELxzI_lIYnVTwNVkHA:1789070526462&q=James+F.+Byrnes+High+School&stick=H4sIAAAAAAAAAONgFuLUz9U3MLGoqKhSQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1ilfZKzE0tVnDTU3CqLMoDsjwy0zMUgpMz8vNzdrAy3mKTZHjjUBGYy9fUuSTc8BCr9qLNEUnBNulh348DAKgcV1WBAAAA&sa=X&ved=2ahUKEwjXxNSJ5-SWAxVnWUEAHTgcH6sQzO0BKAR6BAghEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLUz9U3MLGoqKhSQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1ilfZKzE0tVnDTU3CqLMoDsjwy0zMUgpMz8vNzdrAy3mKTZHjjUBGYy9fUuSTc8BCr9qLNEUnBNulh348DAKgcV1WBAAAA",
+  "profiles": [
+   {
+    "name": "X (Twitter)",
+    "link": "https://mobile.twitter.com/ByrnesFootball",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Byrnes+High+School%22",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAABhUlEQVR4AczOA6xcARCF4X_us23btuLUQR3WZlhbQW3bto2gtm3b2J3GN4tY74uHh3okOi42Nj4AAUDwTvDEhisABCOAEAzYTBh0bN-lc5d0QgAhHPqX4Y4pkd367Zc-xMcXCPDg8TPwxeQH724Uj9N95GJ4pnHxby1xgCmV3v-GsFb7k0Iee7UjaQgmIYe9v9O4-wUKWaATyMPAViwvr1NnOQWDdTV5CHYSaKWLmaGDyvU4mTgQcllracaFr-9uk-yLM8k8fAJff0IUTghRVFu3M1ynkYk4nchiqqU3Ry05RDibMMhjtj6Ht3dJxVk_l1G64cspOusychBsCWm01WNM0jFs0sbEYUtIIuTXNco588OLh09JxE6wweuXEAvfL9PQus3-iU80N34KCaQyUOcxTTuSjEmMRI5rS9JwIZfD1t7ceo34YIpnuQ4nGwP8XXlq_fJZd9jE8KBHC5IwAELJ7dWrZ6fOuNhkgFgAEEIAwA1MQkw0AgDC_wnKycrKSQ2iPAkAVyNzq8rxicIAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/jfbhsrebels/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Byrnes+High+School%22",
+    "image": "https://serpapi.com/searches/6aa30cbcacb3e407f274d290/images/GVHQRNjrl25BIjzYBgRrfGyMdPkwwV0risrzAsm0snBhk_jmL23e8UDhtAHNb8AF.png"
+   },
+   {
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/school/james-f-byrnes-high-school",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Byrnes+High+School%22",
+    "image": "https://serpapi.com/searches/6aa30cbcacb3e407f274d290/images/GVHQRNjrl25BIjzYBgRrfPJGLo98r_b-48Fehe4h0cqEz00BY0AhwuV6yeRfGXLp.png"
+   },
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/ByrnesRebelsFootball",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Byrnes+High+School%22",
+    "image": "https://serpapi.com/searches/6aa30cbcacb3e407f274d290/images/GVHQRNjrl25BIjzYBgRrfC9jDHrtCDB8mOSYxhFWsf1R4Y8Z3xgLYB_Pv_-gtF7n.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "What is the history of Byrnes High School?",
+   "type": "ai_overview",
+   "page_token": "txw-6nicHdBfToMwHADgeBkft644zZYsJkgBUVhglEJfDPS3rYOWP1LHtjfv4qk8jYnfEb7vH3Vqm9-7szSmH9fz-TRNs2PXHdV-Jjo9L8drK-aiVKoqRbN-fHpcPB_Ehny92i_Dqx3Tvs-cBKXe8hrmakrJaHYkYSJVFme8rsiy3FJYht4lpzW5xliOTPdcOFEk_D6qaPyQLlZNSQzbU_5AvRUtcYipNjqqodz77gh6ecqwcsO2QICkDFubvzNe7NpggDQLUk-SJMsCgQBvs8IqWI92rbJ54xZwC7yU8qHCkQNI1RGW_r4tsPD6N0DuiWPjRiTwmWd0xRJGMQwhlQmRgLmlhiJPNBBheK66olEx0MuwdQK7unSnmCY3UStNc-6XC0DgyibN3UOOXKeqk2brZ-cqC69QQ8un-4M4b6z7_8_Nx0Gbdf_ZHf8AlduEpg",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=txw-6nicHdBfToMwHADgeBkft644zZYsJkgBUVhglEJfDPS3rYOWP1LHtjfv4qk8jYnfEb7vH3Vqm9-7szSmH9fz-TRNs2PXHdV-Jjo9L8drK-aiVKoqRbN-fHpcPB_Ehny92i_Dqx3Tvs-cBKXe8hrmakrJaHYkYSJVFme8rsiy3FJYht4lpzW5xliOTPdcOFEk_D6qaPyQLlZNSQzbU_5AvRUtcYipNjqqodz77gh6ecqwcsO2QICkDFubvzNe7NpggDQLUk-SJMsCgQBvs8IqWI92rbJ54xZwC7yU8qHCkQNI1RGW_r4tsPD6N0DuiWPjRiTwmWd0xRJGMQwhlQmRgLmlhiJPNBBheK66olEx0MuwdQK7unSnmCY3UStNc-6XC0DgyibN3UOOXKeqk2brZ-cqC69QQ8un-4M4b6z7_8_Nx0Gbdf_ZHf8AlduEpg",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZsVTVTVVpwUWxoamRrNU9lVUZyWms0NGNuWlpXVUpaTW1OUFdHZHVSRnBrT1RNeWFrNVVUazl6TFVGbFpGTk9hbVZmU25aMGVqVjNkM2hJYTBKd1pIRm5PV28xTmw5b1VXZDFlblJVV0Y5NlQwcG1VWE5xVkVJMlVSSVhkbWQ1YW1GMFpuUkhMV1Y1YUdKSlVIVk1hamd5UVc4YUlrRkVjM0k1WmxGclNsbzVTR0ZCV2tsVlVsVmZTR1pETlRZNVFURnZiR1JrTTFFIiwiZmN2IjoiMyIsImVpIjoidmd5amF0ZnRHLWV5aGJJUHVMajgyQW8iLCJxYyI6IkNoSmllWEp1WlhNZ2FHbG5hQ0J6WTJodmIyd1FBSDNxbzFrXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgaGlzdG9yeSBvZiBCeXJuZXMgSGlnaCBTY2hvb2w/IiwibGsiOiJHaWwzYUdGMElHbHpJSFJvWlNCb2FYTjBiM0o1SUc5bUlHSjVjbTVsY3lCb2FXZG9JSE5qYUc5dmJBIiwiYnMiOiJjNDNRT3ctQ01CUUY0TGgyY21ieHVoZ2ZHMy1BcU5HNE14REhVZ3EzVVhwTmI0bmgzOHN6d2NmZzJuNDlPVDNpS3JZSlNnLUd3YU1HTk96SjFVQTVIR3BuTmNQRkZBaXhRcUo3Rk82Q3pmTzNUbnVOcmVaT2k1dUlFalFLcDRmdFMwV1dUYWFkenJxUVZITVRhQ0YtU09lbFRTdFh3SkVxNi1zb1hBZXI3dm90d1FKUHFPcW9PQWtZX3pFVVB6dk5XRW9MZXlVelhUWnB5MkF4dGhfcTVxT1J2UkVmYzVTU0ZYbkl5ZjB6eDBSX3p6R2Z2UUEiLCJpZCI6ImZjX3ZneWphdGZ0Ry1leWhiSVB1TGo4MkFvXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZsVTVTVVpwUWxoamRrNU9lVUZyWms0NGNuWlpXVUpaTW1OUFdHZHVSRnBrT1RNeWFrNVVUazl6TFVGbFpGTk9hbVZmU25aMGVqVjNkM2hJYTBKd1pIRm5PV28xTmw5b1VXZDFlblJVV0Y5NlQwcG1VWE5xVkVJMlVSSVhkbWQ1YW1GMFpuUkhMV1Y1YUdKSlVIVk1hamd5UVc4YUlrRkVjM0k1WmxGclNsbzVTR0ZCV2tsVlVsVmZTR1pETlRZNVFURnZiR1JrTTFFIiwiZmN2IjoiMyIsImVpIjoidmd5amF0ZnRHLWV5aGJJUHVMajgyQW8iLCJxYyI6IkNoSmllWEp1WlhNZ2FHbG5hQ0J6WTJodmIyd1FBSDNxbzFrXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgaGlzdG9yeSBvZiBCeXJuZXMgSGlnaCBTY2hvb2w%2FIiwibGsiOiJHaWwzYUdGMElHbHpJSFJvWlNCb2FYTjBiM0o1SUc5bUlHSjVjbTVsY3lCb2FXZG9JSE5qYUc5dmJBIiwiYnMiOiJjNDNRT3ctQ01CUUY0TGgyY21ieHVoZ2ZHMy1BcU5HNE14REhVZ3EzVVhwTmI0bmgzOHN6d2NmZzJuNDlPVDNpS3JZSlNnLUd3YU1HTk96SjFVQTVIR3BuTmNQRkZBaXhRcUo3Rk82Q3pmTzNUbnVOcmVaT2k1dUlFalFLcDRmdFMwV1dUYWFkenJxUVZITVRhQ0YtU09lbFRTdFh3SkVxNi1zb1hBZXI3dm90d1FKUHFPcW9PQWtZX3pFVVB6dk5XRW9MZXlVelhUWnB5MkF4dGhfcTVxT1J2UkVmYzVTU0ZYbkl5ZjB6eDBSX3p6R2Z2UUEiLCJpZCI6ImZjX3ZneWphdGZ0Ry1leWhiSVB1TGo4MkFvXzUifQ%3D%3D"
+  },
+  {
+   "question": "Which high school is considered the best in Spartanburg County?",
+   "type": "ai_overview",
+   "page_token": "MaRr2nicHZHLbptAGIXVl8ky5mLSxpJVlRiCiTN08FyY2VTjGduQ-bmkJgGz67t0nQfK0xR1cTZn8Z1POn_-QtXYzy8fZd93l9ViMQzD7bltz3C81W29UJdroxdaARyUtqu7r3fu95NeR-3w8HAZQky7jm1yhySSmRhPB9guSZ22yqNX4gRvh00Yi-bHEkUsQVbusecMJnkeRFFmGYknM7GcFWUtEzEJ_i3QTuqo6ezzxzHNKDTMvfeURUqBtIrdF8z2mXBhxMS6-wQxWjmBapiQPnjYSjoHCZ7-5CTsWAzvDGK6oyyQcRwfedDMPdVe6iFaomMNjYFuSR5Twpl8ory_5HGHn4swm_evaO9WipWYRD03YFxugwbxcZdFeU0aqEiR7rBjQEDZSmd8wi-5H5XGm11eRZHXJtK9LKAVFrCh42u2ScPD2FaY5pN-gZq6obcjpicbxLQfOrRh0THJt8zSmbFdisJeMb456fe1f_P_h_WvU92vut_t-R_EuZcc",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=MaRr2nicHZHLbptAGIXVl8ky5mLSxpJVlRiCiTN08FyY2VTjGduQ-bmkJgGz67t0nQfK0xR1cTZn8Z1POn_-QtXYzy8fZd93l9ViMQzD7bltz3C81W29UJdroxdaARyUtqu7r3fu95NeR-3w8HAZQky7jm1yhySSmRhPB9guSZ22yqNX4gRvh00Yi-bHEkUsQVbusecMJnkeRFFmGYknM7GcFWUtEzEJ_i3QTuqo6ezzxzHNKDTMvfeURUqBtIrdF8z2mXBhxMS6-wQxWjmBapiQPnjYSjoHCZ7-5CTsWAzvDGK6oyyQcRwfedDMPdVe6iFaomMNjYFuSR5Twpl8ory_5HGHn4swm_evaO9WipWYRD03YFxugwbxcZdFeU0aqEiR7rBjQEDZSmd8wi-5H5XGm11eRZHXJtK9LKAVFrCh42u2ScPD2FaY5pN-gZq6obcjpicbxLQfOrRh0THJt8zSmbFdisJeMb456fe1f_P_h_WvU92vut_t-R_EuZcc",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZsVTVTVVpwUWxoamRrNU9lVUZyWms0NGNuWlpXVUpaTW1OUFdHZHVSRnBrT1RNeWFrNVVUazl6TFVGbFpGTk9hbVZmU25aMGVqVjNkM2hJYTBKd1pIRm5PV28xTmw5b1VXZDFlblJVV0Y5NlQwcG1VWE5xVkVJMlVSSVhkbWQ1YW1GMFpuUkhMV1Y1YUdKSlVIVk1hamd5UVc4YUlrRkVjM0k1WmxGclNsbzVTR0ZCV2tsVlVsVmZTR1pETlRZNVFURnZiR1JrTTFFIiwiZmN2IjoiMyIsImVpIjoidmd5amF0ZnRHLWV5aGJJUHVMajgyQW8iLCJxYyI6IkNoSmllWEp1WlhNZ2FHbG5hQ0J6WTJodmIyd1FBSDNxbzFrXyIsInF1ZXN0aW9uIjoiV2hpY2ggaGlnaCBzY2hvb2wgaXMgY29uc2lkZXJlZCB0aGUgYmVzdCBpbiBTcGFydGFuYnVyZyBDb3VudHk/IiwibGsiOiJHaVppWlhOMElHaHBaMmdnYzJOb2IyOXNJR2x1SUhOd1lYSjBZVzVpZFhKbklHTnZkVzUwZVEiLCJicyI6ImM0M1FPdy1DTUJRRjRMaDJjbWJ4dWhnZkczLUFxTkc0TXhESFVncTNVWHBOYjRuaDM4c3p3Y2ZnMm40OU9UM2lLcllKU2ctR3dhTUdOT3pKMVVBNUhHcG5OY1BGRkFpeFFxSjdGTzZDemZPM1RudU5yZVpPaTV1SUVqUUtwNGZ0UzBXV1RhYWR6cnFRVkhNVGFDRi1TT2VsVFN0WHdKRXE2LXNvWEFlcjd2b3R3UUpQcU9xb09Ba1lfekVVUHp2TldFb0xleVV6WFRacHkyQXh0aF9xNXFPUnZSRWZjNVNTRlhuSXlmMHp4MFJfenpHZnZRQSIsImlkIjoiZmNfdmd5amF0ZnRHLWV5aGJJUHVMajgyQW9fNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZsVTVTVVpwUWxoamRrNU9lVUZyWms0NGNuWlpXVUpaTW1OUFdHZHVSRnBrT1RNeWFrNVVUazl6TFVGbFpGTk9hbVZmU25aMGVqVjNkM2hJYTBKd1pIRm5PV28xTmw5b1VXZDFlblJVV0Y5NlQwcG1VWE5xVkVJMlVSSVhkbWQ1YW1GMFpuUkhMV1Y1YUdKSlVIVk1hamd5UVc4YUlrRkVjM0k1WmxGclNsbzVTR0ZCV2tsVlVsVmZTR1pETlRZNVFURnZiR1JrTTFFIiwiZmN2IjoiMyIsImVpIjoidmd5amF0ZnRHLWV5aGJJUHVMajgyQW8iLCJxYyI6IkNoSmllWEp1WlhNZ2FHbG5hQ0J6WTJodmIyd1FBSDNxbzFrXyIsInF1ZXN0aW9uIjoiV2hpY2ggaGlnaCBzY2hvb2wgaXMgY29uc2lkZXJlZCB0aGUgYmVzdCBpbiBTcGFydGFuYnVyZyBDb3VudHk%2FIiwibGsiOiJHaVppWlhOMElHaHBaMmdnYzJOb2IyOXNJR2x1SUhOd1lYSjBZVzVpZFhKbklHTnZkVzUwZVEiLCJicyI6ImM0M1FPdy1DTUJRRjRMaDJjbWJ4dWhnZkczLUFxTkc0TXhESFVncTNVWHBOYjRuaDM4c3p3Y2ZnMm40OU9UM2lLcllKU2ctR3dhTUdOT3pKMVVBNUhHcG5OY1BGRkFpeFFxSjdGTzZDemZPM1RudU5yZVpPaTV1SUVqUUtwNGZ0UzBXV1RhYWR6cnFRVkhNVGFDRi1TT2VsVFN0WHdKRXE2LXNvWEFlcjd2b3R3UUpQcU9xb09Ba1lfekVVUHp2TldFb0xleVV6WFRacHkyQXh0aF9xNXFPUnZSRWZjNVNTRlhuSXlmMHp4MFJfenpHZnZRQSIsImlkIjoiZmNfdmd5amF0ZnRHLWV5aGJJUHVMajgyQW9fNSJ9"
+  },
+  {
+   "question": "What is Byrnes Freshman Academy?",
+   "type": "ai_overview",
+   "page_token": "gr7EoHicHdBdboIwAADg7DI-qvzooolZRFqRhTJrf7AvC7ZKlSKgaJ1vu8tOtdMs2XeE7_vHHM_l78tdd11znQ4G1tp-UdeF2fdlXQ3y69dZDmRuzC6X5XT8OnbeDnIGbqtg0a6CNW0aFuLhhuhFznSF3MYqb-7sgVkoIOw-0i2DxUiwSYohjEWFow2YXFLgjzhPLHVHBpXx-46xI3IVz8_IT6BebWh3I6UKJTAgYVvLl0IjFlwyF2vxhCUb-k9KYoJCdN8NGcFLQSmEGQ6Fw0jhU6LaPYMJJyvLweORLhxOIs3RKTCZ06Akg3fp6JCXIs4B9qULxwmfBHmEScK7AGjlCs-02wxXCshOZKbelmat6KNNwzjYPerjmuKnPJmKUlQTRzBWbj18mnvKyFHisQ9VOSJlk4uIVCZs7yDvM6_3_zn7PFTdtLnUxR9KWIJu",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=gr7EoHicHdBdboIwAADg7DI-qvzooolZRFqRhTJrf7AvC7ZKlSKgaJ1vu8tOtdMs2XeE7_vHHM_l78tdd11znQ4G1tp-UdeF2fdlXQ3y69dZDmRuzC6X5XT8OnbeDnIGbqtg0a6CNW0aFuLhhuhFznSF3MYqb-7sgVkoIOw-0i2DxUiwSYohjEWFow2YXFLgjzhPLHVHBpXx-46xI3IVz8_IT6BebWh3I6UKJTAgYVvLl0IjFlwyF2vxhCUb-k9KYoJCdN8NGcFLQSmEGQ6Fw0jhU6LaPYMJJyvLweORLhxOIs3RKTCZ06Akg3fp6JCXIs4B9qULxwmfBHmEScK7AGjlCs-02wxXCshOZKbelmat6KNNwzjYPerjmuKnPJmKUlQTRzBWbj18mnvKyFHisQ9VOSJlk4uIVCZs7yDvM6_3_zn7PFTdtLnUxR9KWIJu",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZsVTVTVVpwUWxoamRrNU9lVUZyWms0NGNuWlpXVUpaTW1OUFdHZHVSRnBrT1RNeWFrNVVUazl6TFVGbFpGTk9hbVZmU25aMGVqVjNkM2hJYTBKd1pIRm5PV28xTmw5b1VXZDFlblJVV0Y5NlQwcG1VWE5xVkVJMlVSSVhkbWQ1YW1GMFpuUkhMV1Y1YUdKSlVIVk1hamd5UVc4YUlrRkVjM0k1WmxGclNsbzVTR0ZCV2tsVlVsVmZTR1pETlRZNVFURnZiR1JrTTFFIiwiZmN2IjoiMyIsImVpIjoidmd5amF0ZnRHLWV5aGJJUHVMajgyQW8iLCJxYyI6IkNoSmllWEp1WlhNZ2FHbG5hQ0J6WTJodmIyd1FBSDNxbzFrXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBCeXJuZXMgRnJlc2htYW4gQWNhZGVteT8iLCJsayI6IkdoOTNhR0YwSUdseklHSjVjbTVsY3lCbWNtVnphRzFoYmlCaFkyRmtaVzE1IiwiYnMiOiJjNDNRT3ctQ01CUUY0TGgyY21ieHVoZ2ZHMy1BcU5HNE14REhVZ3EzVVhwTmI0bmgzOHN6d2NmZzJuNDlPVDNpS3JZSlNnLUd3YU1HTk96SjFVQTVIR3BuTmNQRkZBaXhRcUo3Rk82Q3pmTzNUbnVOcmVaT2k1dUlFalFLcDRmdFMwV1dUYWFkenJxUVZITVRhQ0YtU09lbFRTdFh3SkVxNi1zb1hBZXI3dm90d1FKUHFPcW9PQWtZX3pFVVB6dk5XRW9MZXlVelhUWnB5MkF4dGhfcTVxT1J2UkVmYzVTU0ZYbkl5ZjB6eDBSX3p6R2Z2UUEiLCJpZCI6ImZjX3ZneWphdGZ0Ry1leWhiSVB1TGo4MkFvXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZsVTVTVVpwUWxoamRrNU9lVUZyWms0NGNuWlpXVUpaTW1OUFdHZHVSRnBrT1RNeWFrNVVUazl6TFVGbFpGTk9hbVZmU25aMGVqVjNkM2hJYTBKd1pIRm5PV28xTmw5b1VXZDFlblJVV0Y5NlQwcG1VWE5xVkVJMlVSSVhkbWQ1YW1GMFpuUkhMV1Y1YUdKSlVIVk1hamd5UVc4YUlrRkVjM0k1WmxGclNsbzVTR0ZCV2tsVlVsVmZTR1pETlRZNVFURnZiR1JrTTFFIiwiZmN2IjoiMyIsImVpIjoidmd5amF0ZnRHLWV5aGJJUHVMajgyQW8iLCJxYyI6IkNoSmllWEp1WlhNZ2FHbG5hQ0J6WTJodmIyd1FBSDNxbzFrXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBCeXJuZXMgRnJlc2htYW4gQWNhZGVteT8iLCJsayI6IkdoOTNhR0YwSUdseklHSjVjbTVsY3lCbWNtVnphRzFoYmlCaFkyRmtaVzE1IiwiYnMiOiJjNDNRT3ctQ01CUUY0TGgyY21ieHVoZ2ZHMy1BcU5HNE14REhVZ3EzVVhwTmI0bmgzOHN6d2NmZzJuNDlPVDNpS3JZSlNnLUd3YU1HTk96SjFVQTVIR3BuTmNQRkZBaXhRcUo3Rk82Q3pmTzNUbnVOcmVaT2k1dUlFalFLcDRmdFMwV1dUYWFkenJxUVZITVRhQ0YtU09lbFRTdFh3SkVxNi1zb1hBZXI3dm90d1FKUHFPcW9PQWtZX3pFVVB6dk5XRW9MZXlVelhUWnB5MkF4dGhfcTVxT1J2UkVmYzVTU0ZYbkl5ZjB6eDBSX3p6R2Z2UUEiLCJpZCI6ImZjX3ZneWphdGZ0Ry1leWhiSVB1TGo4MkFvXzUifQ%3D%3D"
+  },
+  {
+   "question": "What is the mascot for Byrnes High School?",
+   "type": "ai_overview",
+   "page_token": "vPtjoHicHdBfboIwAIDx7DI-zoJ_Fk3MkgpVicKotIW-LNCqKEWqdoJ92112qp1mZhf48sv3_aOO5-r35V4ao2_Tfr9t29dD0xzU7lU0dT-_Pc6iL3KlilxU0_Hb2Hnfi5n_tYLzywrGRGvqYbAFuMnp6sEprSkbWTJQ89jtOrEs1zyRWIJJxxcAMISW4RKjLD2MCuYwUfP7ZoFr6Uyu4TkcFlXjJq7OUxv4W9c4kslohwITLWGCLQ1CT7nUwpKgAAoPjTOmImzJiDB9DBPxiIFWiQPdgqpLVpl5mGqw9RGkjNeCdBtMSCf9DBTexq4puqwJNkWKfVbpPa3wLanNY6cg9Evp8sGzkT5tvjA8VU1WqViS7hJ5ASy65hgTbMVJ1cQiyikuY1CeUotPEZ3YUAUjlvIwJuYj9-RQtr29uM8Gvf-fs899bab62hz-AEg0hOQ",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=vPtjoHicHdBfboIwAIDx7DI-zoJ_Fk3MkgpVicKotIW-LNCqKEWqdoJ92112qp1mZhf48sv3_aOO5-r35V4ao2_Tfr9t29dD0xzU7lU0dT-_Pc6iL3KlilxU0_Hb2Hnfi5n_tYLzywrGRGvqYbAFuMnp6sEprSkbWTJQ89jtOrEs1zyRWIJJxxcAMISW4RKjLD2MCuYwUfP7ZoFr6Uyu4TkcFlXjJq7OUxv4W9c4kslohwITLWGCLQ1CT7nUwpKgAAoPjTOmImzJiDB9DBPxiIFWiQPdgqpLVpl5mGqw9RGkjNeCdBtMSCf9DBTexq4puqwJNkWKfVbpPa3wLanNY6cg9Evp8sGzkT5tvjA8VU1WqViS7hJ5ASy65hgTbMVJ1cQiyikuY1CeUotPEZ3YUAUjlvIwJuYj9-RQtr29uM8Gvf-fs899bab62hz-AEg0hOQ",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZsVTVTVVpwUWxoamRrNU9lVUZyWms0NGNuWlpXVUpaTW1OUFdHZHVSRnBrT1RNeWFrNVVUazl6TFVGbFpGTk9hbVZmU25aMGVqVjNkM2hJYTBKd1pIRm5PV28xTmw5b1VXZDFlblJVV0Y5NlQwcG1VWE5xVkVJMlVSSVhkbWQ1YW1GMFpuUkhMV1Y1YUdKSlVIVk1hamd5UVc4YUlrRkVjM0k1WmxGclNsbzVTR0ZCV2tsVlVsVmZTR1pETlRZNVFURnZiR1JrTTFFIiwiZmN2IjoiMyIsImVpIjoidmd5amF0ZnRHLWV5aGJJUHVMajgyQW8iLCJxYyI6IkNoSmllWEp1WlhNZ2FHbG5hQ0J6WTJodmIyd1FBSDNxbzFrXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbWFzY290IGZvciBCeXJuZXMgSGlnaCBTY2hvb2w/IiwibGsiOiJHaWwzYUdGMElHbHpJSFJvWlNCdFlYTmpiM1FnWm05eUlHSjVjbTVsY3lCb2FXZG9JSE5qYUc5dmJBIiwiYnMiOiJjNDNRT3ctQ01CUUY0TGgyY21ieHVoZ2ZHMy1BcU5HNE14REhVZ3EzVVhwTmI0bmgzOHN6d2NmZzJuNDlPVDNpS3JZSlNnLUd3YU1HTk96SjFVQTVIR3BuTmNQRkZBaXhRcUo3Rk82Q3pmTzNUbnVOcmVaT2k1dUlFalFLcDRmdFMwV1dUYWFkenJxUVZITVRhQ0YtU09lbFRTdFh3SkVxNi1zb1hBZXI3dm90d1FKUHFPcW9PQWtZX3pFVVB6dk5XRW9MZXlVelhUWnB5MkF4dGhfcTVxT1J2UkVmYzVTU0ZYbkl5ZjB6eDBSX3p6R2Z2UUEiLCJpZCI6ImZjX3ZneWphdGZ0Ry1leWhiSVB1TGo4MkFvXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZsVTVTVVpwUWxoamRrNU9lVUZyWms0NGNuWlpXVUpaTW1OUFdHZHVSRnBrT1RNeWFrNVVUazl6TFVGbFpGTk9hbVZmU25aMGVqVjNkM2hJYTBKd1pIRm5PV28xTmw5b1VXZDFlblJVV0Y5NlQwcG1VWE5xVkVJMlVSSVhkbWQ1YW1GMFpuUkhMV1Y1YUdKSlVIVk1hamd5UVc4YUlrRkVjM0k1WmxGclNsbzVTR0ZCV2tsVlVsVmZTR1pETlRZNVFURnZiR1JrTTFFIiwiZmN2IjoiMyIsImVpIjoidmd5amF0ZnRHLWV5aGJJUHVMajgyQW8iLCJxYyI6IkNoSmllWEp1WlhNZ2FHbG5hQ0J6WTJodmIyd1FBSDNxbzFrXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbWFzY290IGZvciBCeXJuZXMgSGlnaCBTY2hvb2w%2FIiwibGsiOiJHaWwzYUdGMElHbHpJSFJvWlNCdFlYTmpiM1FnWm05eUlHSjVjbTVsY3lCb2FXZG9JSE5qYUc5dmJBIiwiYnMiOiJjNDNRT3ctQ01CUUY0TGgyY21ieHVoZ2ZHMy1BcU5HNE14REhVZ3EzVVhwTmI0bmgzOHN6d2NmZzJuNDlPVDNpS3JZSlNnLUd3YU1HTk96SjFVQTVIR3BuTmNQRkZBaXhRcUo3Rk82Q3pmTzNUbnVOcmVaT2k1dUlFalFLcDRmdFMwV1dUYWFkenJxUVZITVRhQ0YtU09lbFRTdFh3SkVxNi1zb1hBZXI3dm90d1FKUHFPcW9PQWtZX3pFVVB6dk5XRW9MZXlVelhUWnB5MkF4dGhfcTVxT1J2UkVmYzVTU0ZYbkl5ZjB6eDBSX3p6R2Z2UUEiLCJpZCI6ImZjX3ZneWphdGZ0Ry1leWhiSVB1TGo4MkFvXzUifQ%3D%3D"
+  }
+ ],
+ "ai_overview": {
+  "page_token": "20zsR3iczVbbkqJIEP2A_Y7hZVoRvHcEMVFVouIdb732iwEFFihICyjab_Mv-1X7NVuAF2hlpnsfNjYjLCqrsrIykzwcf_5lmdvN33-4hu-_ec8sGwRBnjgOsfQ8dmxW8U5bzK4cy3Ox8cOwBH3LEEvYe8zpIBQZ7AkFRjeFAzmtFX_lt3L6yVCl0b63rvHAYaLjwlJVPH1NvR_XHrtk6bD5VmxQJe_l9W2-Oq2KbzWCTTzL8wW-mB-yik0NwH8nRAQSHSEdAMw0yt5KiywDJAHxtoBQ9EiskFCRgUjOLqGc4UqiplQkIEEQeWkE77mFSidKbNEI_TyWTlpFQeQIAPpEYZ7m59I5i3TO4VKEXxQjaytKxbloQWInKwV6bT-tzwBY58JgYCKqq0xAXKVYxuHQiM1WoBSIpXEzO2oqogzafTKRyZ3jj4K2aHZJoAc4eiurEdq0BVZ16YNjTWzgaOJ6YS-jab3giKR_EF1Or3vtV3s-3sGXfVMbBJupFgAWq9TOchRN15bGsvAj0jmeKxfqxWrtKQIR9q4o8pIo0uzX_Xg_2Y2sTb6Xh9wFQuiaB0qHL1IdPUoRorMput9LNDUCV8-kC0CiXJFGVfpGeQmk6ohIAURvs3VZGUkAkuQbvkEEgUcQ-hhaCCFwQe3s2nmJg9SEEHg72kps4fsc73pXapCrp-QnSY6iIIkVBCaE3nZp5eRFkVuakSFHYULUI2Z8vJ_0IVOzpBZ7BQTRz9Ol2nIyw2PicgB20aG-JIn0_Zqb0PMmSkeK77q4nsnJ-oTflo9FiENe0BPzB33wCel-woZC5oyVD62fhEybzGdWb4x9rYOJ_bozYO_FMlq6ffSDxxBxbPULTIP_VyC68FCowWwQDcLJ70Ekyyibh-LpjYdiEEE5A0RSDKIzD7USPKTHFikeSoOokwZRgofkOx76OohgNojgr0DkPAKRnAmiuMApEKV5KNUIVx66gejrPKT8Sx6KMKXHjzQp7dckk5ya9K9aFQzexcmRbx-bo_arWmu6eAIbWP4tOa1s_9lWNOtpaWrPkO_4J-1pSRecZ11jdsI3nocnd6t739smMb5PsOE4Fl1kbMt1hIJSLnWnMGhs_AUZSu2ShbsLrx285EpFpzq2xG5_NDQmrgn1jfQi5VTAW9uj9U7KlWnA1Xr8adE6bI-Fw6BWrgeTSsd7U_XuvjwvjsyBg0Cv0ZxafxbnW6kMct2d7rfLo2XFrQ4X-8BedoLSGq0b5ZIkKs6g0reWxjCIAvOE-RQa3XnXfK9IjO1igXZfaQMGMmgRSh5oQRuYdity6C9s5gqQRch4WFnq3kEoFNWVTmuEsarVSzzH2MQ_vQkljvG2rsD9A5EiPMU",
+  "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=20zsR3iczVbbkqJIEP2A_Y7hZVoRvHcEMVFVouIdb732iwEFFihICyjab_Mv-1X7NVuAF2hlpnsfNjYjLCqrsrIykzwcf_5lmdvN33-4hu-_ec8sGwRBnjgOsfQ8dmxW8U5bzK4cy3Ox8cOwBH3LEEvYe8zpIBQZ7AkFRjeFAzmtFX_lt3L6yVCl0b63rvHAYaLjwlJVPH1NvR_XHrtk6bD5VmxQJe_l9W2-Oq2KbzWCTTzL8wW-mB-yik0NwH8nRAQSHSEdAMw0yt5KiywDJAHxtoBQ9EiskFCRgUjOLqGc4UqiplQkIEEQeWkE77mFSidKbNEI_TyWTlpFQeQIAPpEYZ7m59I5i3TO4VKEXxQjaytKxbloQWInKwV6bT-tzwBY58JgYCKqq0xAXKVYxuHQiM1WoBSIpXEzO2oqogzafTKRyZ3jj4K2aHZJoAc4eiurEdq0BVZ16YNjTWzgaOJ6YS-jab3giKR_EF1Or3vtV3s-3sGXfVMbBJupFgAWq9TOchRN15bGsvAj0jmeKxfqxWrtKQIR9q4o8pIo0uzX_Xg_2Y2sTb6Xh9wFQuiaB0qHL1IdPUoRorMput9LNDUCV8-kC0CiXJFGVfpGeQmk6ohIAURvs3VZGUkAkuQbvkEEgUcQ-hhaCCFwQe3s2nmJg9SEEHg72kps4fsc73pXapCrp-QnSY6iIIkVBCaE3nZp5eRFkVuakSFHYULUI2Z8vJ_0IVOzpBZ7BQTRz9Ol2nIyw2PicgB20aG-JIn0_Zqb0PMmSkeK77q4nsnJ-oTflo9FiENe0BPzB33wCel-woZC5oyVD62fhEybzGdWb4x9rYOJ_bozYO_FMlq6ffSDxxBxbPULTIP_VyC68FCowWwQDcLJ70Ekyyibh-LpjYdiEEE5A0RSDKIzD7USPKTHFikeSoOokwZRgofkOx76OohgNojgr0DkPAKRnAmiuMApEKV5KNUIVx66gejrPKT8Sx6KMKXHjzQp7dckk5ya9K9aFQzexcmRbx-bo_arWmu6eAIbWP4tOa1s_9lWNOtpaWrPkO_4J-1pSRecZ11jdsI3nocnd6t739smMb5PsOE4Fl1kbMt1hIJSLnWnMGhs_AUZSu2ShbsLrx285EpFpzq2xG5_NDQmrgn1jfQi5VTAW9uj9U7KlWnA1Xr8adE6bI-Fw6BWrgeTSsd7U_XuvjwvjsyBg0Cv0ZxafxbnW6kMct2d7rfLo2XFrQ4X-8BedoLSGq0b5ZIkKs6g0reWxjCIAvOE-RQa3XnXfK9IjO1igXZfaQMGMmgRSh5oQRuYdity6C9s5gqQRch4WFnq3kEoFNWVTmuEsarVSzzH2MQ_vQkljvG2rsD9A5EiPMU"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "James F. Byrnes High School",
+   "link": "https://www.spart5.net/BHS",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUgHrOzAVs75aD6qoGm3jgUvh92gW9CPsTZbjfAD2jPqDXnndLNu9m899dLPlGxRtjHDfJTgqX7zGZ9LwSPTRikptw_eeP8C_kmx6UoX1AaEt6fU&ved=2ahUKEwjXxNSJ5-SWAxVnWUEAHTgcH6sQFnoECEQQAQ&uoh=1",
+   "displayed_link": "https://www.spart5.net \u203a BHS",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAilBMVEVHcEz6-_b8_fj8_ff6-vX7_Pf56OT28e36_Pb8-_bydXj4zcv6-_b8_fj2vLrvNTzzg4X9_ff9_Pb9_fj8_Pf1paXvPEP3w8H7-fT7_Pf7-vX8_fnwTlT7-vX8_fj42NX0kJLyf4H2tbTg5OKotLjI0NEUQVcAIkAALUaWp64qTWF5jZZAXW6FmKDnsJetAAAAH3RSTlMAPbGfH9j__owI__8wzf___3RivPX____vVOP__xHDZYshBQAAAQ1JREFUeAF10gWWgzAUBVD84x4hWAfX_W9vQkebhuC8c-PK_6JquqHcFNW0wL7JHN1yPVN1pKEfhFFsBYkhcWmWI4xjQiXtFswqvSrCFYJEzOqmjdsSRVFUeUEtNkhR9IDSc3GEqC8OA1CEP7wSHrhjYqOGSSpeZVfy2rW30dgWutIWLFYIEacaEBfjLtcKEV5pwiwXk8aXzp5TMOKCXr_DlFFK8xzKnFIzFRjrB16gHPm9NwVpjtO8zGs5LPM2NkKYwL4sywb9MZ-Qin0Nxm150mPMakVKj74fLyily1qWOodiSb-p9sxEml30GGVQcVLK6Ul5i3I6bb12s3PTfL-DnDZ9n9W3W77JXhbsE_QsGeEF00MZAAAAAElFTkSuQmCC.png",
+   "snippet": "The PSAT will be administered at Byrnes High School on Tuesday, October 13, 2026, and is open to students in 10th and 11th grades. The PSAT is free for all ...",
+   "snippet_highlighted_words": [
+    "Byrnes High School"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "Staff",
+      "link": "https://www.spart5.net/o/bhs/staff",
+      "snippet": "James F. Byrnes High School \u00b7 About Us \u00b7 Information \u00b7 Staff ..."
+     },
+     {
+      "title": "Athletics",
+      "link": "https://www.spart5.net/o/bhs/athletics",
+      "snippet": "James F. Byrnes High School \u00b7 About Us \u00b7 Information \u00b7 Staff ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "The PSAT will be administered at Byrnes High School on Tuesday, October 13, 2026, and is open to students in 10th and 11th grades. The PSAT is free for all ...",
+     "source_info_link": "https://www.spart5.net/BHS",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAilBMVEVHcEz6-_b8_fj8_ff6-vX7_Pf56OT28e36_Pb8-_bydXj4zcv6-_b8_fj2vLrvNTzzg4X9_ff9_Pb9_fj8_Pf1paXvPEP3w8H7-fT7_Pf7-vX8_fnwTlT7-vX8_fj42NX0kJLyf4H2tbTg5OKotLjI0NEUQVcAIkAALUaWp64qTWF5jZZAXW6FmKDnsJetAAAAH3RSTlMAPbGfH9j__owI__8wzf___3RivPX____vVOP__xHDZYshBQAAAQ1JREFUeAF10gWWgzAUBVD84x4hWAfX_W9vQkebhuC8c-PK_6JquqHcFNW0wL7JHN1yPVN1pKEfhFFsBYkhcWmWI4xjQiXtFswqvSrCFYJEzOqmjdsSRVFUeUEtNkhR9IDSc3GEqC8OA1CEP7wSHrhjYqOGSSpeZVfy2rW30dgWutIWLFYIEacaEBfjLtcKEV5pwiwXk8aXzp5TMOKCXr_DlFFK8xzKnFIzFRjrB16gHPm9NwVpjtO8zGs5LPM2NkKYwL4sywb9MZ-Qin0Nxm150mPMakVKj74fLyily1qWOodiSb-p9sxEml30GGVQcVLK6Ul5i3I6bb12s3PTfL-DnDZ9n9W3W77JXhbsE_QsGeEF00MZAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESUgHrOzAVs75aD6qoGm3jgUvh92gW9CPsTZbjfAD2jPqDXnndLNu9m899dLPlGxRtjHDfJTgqX7zGZ9LwSPTRikptw_eeP8C_kmx6UoX1AaEt6fU&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESUgHrOzAVs75aD6qoGm3jgUvh92gW9CPsTZbjfAD2jPqDXnndLNu9m899dLPlGxRtjHDfJTgqX7zGZ9LwSPTRikptw_eeP8C_kmx6UoX1AaEt6fU",
+   "source": "Spartanburg District Five"
+  },
+  {
+   "position": 2,
+   "title": "James F. Byrnes High School",
+   "link": "https://en.wikipedia.org/wiki/James_F._Byrnes_High_School",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScQHrOzAVF0o1YKNaqaNpTkY0RcpaFY7jPcPi-cYuzVn_1z-czUN3zRQLAT5Syiwl8WgzIJoVEMEVOiT7bPfj8oCzVIaQdj_VTraASLzb-MLaddxzsMb33t2_SkMWUNZZW5-y0tCVC7X-JOUZ4Q0fJiIt&ved=2ahUKEwjXxNSJ5-SWAxVnWUEAHTgcH6sQFnoECD4QAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a James_F._Byrnes_Hig...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+   "snippet": "Byrnes High School is a public high school located in Duncan, South Carolina. A part of Spartanburg County School District 5, it is named after the former ...",
+   "snippet_highlighted_words": [
+    "Byrnes High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Byrnes High School is a public high school located in Duncan, South Carolina. A part of Spartanburg County School District 5, it is named after the former ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/James_F._Byrnes_High_School",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEScQHrOzAVF0o1YKNaqaNpTkY0RcpaFY7jPcPi-cYuzVn_1z-czUN3zRQLAT5Syiwl8WgzIJoVEMEVOiT7bPfj8oCzVIaQdj_VTraASLzb-MLaddxzsMb33t2_SkMWUNZZW5-y0tCVC7X-JOUZ4Q0fJiIt&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEScQHrOzAVF0o1YKNaqaNpTkY0RcpaFY7jPcPi-cYuzVn_1z-czUN3zRQLAT5Syiwl8WgzIJoVEMEVOiT7bPfj8oCzVIaQdj_VTraASLzb-MLaddxzsMb33t2_SkMWUNZZW5-y0tCVC7X-JOUZ4Q0fJiIt",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/James_F._Byrnes_High_School#:~:text=Byrnes%20High%20School%20is%20a,Secretary%20of%20State%2C%20James%20F."
+  },
+  {
+   "position": 3,
+   "title": "James F. Byrnes High School in Duncan, SC",
+   "link": "https://www.usnews.com/education/best-high-schools/south-carolina/districts/spartanburg-05/james-f-byrnes-high-school-17722",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESswEB6zswFc5aPSBAUE-BBQQ2Ckcx6nXaZUAaiDqAxJCIkCuU-Rl_fbPaZtURWL75YzXXm48PoqjxCXBrCPU6jgFh6sXM9Yv8hyNt2Bv3s0jmrIcY9mbW_rNOhqbWFrpnmy5Fr2sencCqGNnI8a-hGT2gz7XTaxTznjU58xG7on4DqCo4vsolTcenRDg8NVXMqGP3q_ND-XpNacv5UXYeyx3xS2mRsmU7bWyQTPb6BJF4MxSbkQ&ved=2ahUKEwjXxNSJ5-SWAxVnWUEAHTgcH6sQFnoECD8QAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a ... \u203a Spartanburg 05",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png",
+   "snippet": "Byrnes High School is ranked #7,979 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+   "snippet_highlighted_words": [
+    "Byrnes High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Byrnes High School is ranked #7,979 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/south-carolina/districts/spartanburg-05/james-f-byrnes-high-school-17722",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESswEB6zswFc5aPSBAUE-BBQQ2Ckcx6nXaZUAaiDqAxJCIkCuU-Rl_fbPaZtURWL75YzXXm48PoqjxCXBrCPU6jgFh6sXM9Yv8hyNt2Bv3s0jmrIcY9mbW_rNOhqbWFrpnmy5Fr2sencCqGNnI8a-hGT2gz7XTaxTznjU58xG7on4DqCo4vsolTcenRDg8NVXMqGP3q_ND-XpNacv5UXYeyx3xS2mRsmU7bWyQTPb6BJF4MxSbkQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESswEB6zswFc5aPSBAUE-BBQQ2Ckcx6nXaZUAaiDqAxJCIkCuU-Rl_fbPaZtURWL75YzXXm48PoqjxCXBrCPU6jgFh6sXM9Yv8hyNt2Bv3s0jmrIcY9mbW_rNOhqbWFrpnmy5Fr2sencCqGNnI8a-hGT2gz7XTaxTznjU58xG7on4DqCo4vsolTcenRDg8NVXMqGP3q_ND-XpNacv5UXYeyx3xS2mRsmU7bWyQTPb6BJF4MxSbkQ",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/south-carolina/districts/spartanburg-05/james-f-byrnes-high-school-17722#:~:text=Byrnes%20High%20School%20is%20ranked,they%20prepare%20students%20for%20college."
+  },
+  {
+   "position": 4,
+   "title": "James F. Byrnes High School (@jfbhsrebels)",
+   "link": "https://www.instagram.com/jfbhsrebels/?hl=en",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZAHrOzAV2dW532X1guWsQmj7JNEvtE0XubFw4nLJou73rJPsQ4czyJpBkakanetlqb31JcKXFglEsyQh63a_5ZwgDnj6SaTpwvbyVwaBEIk-A6SjWHyODGP4VOGM0aaEeewbCeI&ved=2ahUKEwjXxNSJ5-SWAxVnWUEAHTgcH6sQFnoECF8QAQ&uoh=1",
+   "displayed_link": "4.5K+ followers",
+   "favicon": "https://serpapi.com/searches/6aa30cbcacb3e407f274d290/images/QH52uMTz7E_-FmAWvdI_ViHoEjdfAZEEcQ1BssE9dZo.png",
+   "snippet": "This is the official Instagram page for James F. Byrnes High School, home to nearly 2,000 students located in Spartanburg District Five in SC.",
+   "snippet_highlighted_words": [
+    "Byrnes High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "This is the official Instagram page for James F. Byrnes High School, home to nearly 2,000 students located in Spartanburg District Five in SC.",
+     "source_info_link": "https://www.instagram.com/jfbhsrebels/?hl=en",
+     "icon": "https://serpapi.com/searches/6aa30cbcacb3e407f274d290/images/QH52uMTz7E_-FmAWvdI_VjscJ54g3P93BccNYCfW6QwpYhOf7lpOI7cxPqRQrN0l.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESZAHrOzAV2dW532X1guWsQmj7JNEvtE0XubFw4nLJou73rJPsQ4czyJpBkakanetlqb31JcKXFglEsyQh63a_5ZwgDnj6SaTpwvbyVwaBEIk-A6SjWHyODGP4VOGM0aaEeewbCeI&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESZAHrOzAV2dW532X1guWsQmj7JNEvtE0XubFw4nLJou73rJPsQ4czyJpBkakanetlqb31JcKXFglEsyQh63a_5ZwgDnj6SaTpwvbyVwaBEIk-A6SjWHyODGP4VOGM0aaEeewbCeI",
+   "source": "Instagram \u00b7 jfbhsrebels",
+   "read_more_link": "https://www.instagram.com/jfbhsrebels/?hl=en#:~:text=This%20is%20the%20official%20Instagram,Spartanburg%20District%20Five%20in%20SC."
+  },
+  {
+   "position": 5,
+   "title": "James F. Byrnes (Duncan, SC) High School Sports",
+   "link": "https://www.maxpreps.com/sc/duncan/james-f-byrnes-rebels/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScQHrOzAVn65XWu0BPoZrrVhM5OcbjRBJtmJ9tnuDz8h6tD5gK9DOHst1DzkcafaDtygegrqzj9NvNytoHWL4s3FNjdx1M8gMPE5Vgb7z6zoPBgw9LKhyajLoJ2nelPLnzngxsldDo-0BnSrclesEPaNJ&ved=2ahUKEwjXxNSJ5-SWAxVnWUEAHTgcH6sQFnoECGIQAQ&uoh=1",
+   "displayed_link": "https://www.maxpreps.com \u203a South Carolina",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEzhBADhBADhBADhBQDhBQDhBADhBADhBADhBQDhBQDhBADhBADhBQDhBADhBQBqDGaWAAAAD3RSTlMANHaA7NyWEEjPqCVevglnZLSWAAAAqElEQVQokaWSSxaFIAxDU0pFBM3-d_vkM3pUJ3YAHEJvQwH4GlcIQQUoei_Sv2okD2C7p7ikhrHbzugilnuXMsa1aCZPkYO0pSSgjJWsxs3xW5iV3E6H2v1WsxpXr5OrIbpUQNhjd0XELvoajqadD-Jb5mtNHaLv1obo3rNwhtehRo32wM3ttduJfPled_G5nZr6XVduHt1pXTKXWoHd64PML5nmF_0YP5WLCXU498sLAAAAAElFTkSuQmCC.png",
+   "date": "Jul 24, 2026",
+   "snippet": "With a commitment to excellence both on and off the field, Byrnes High School offers a wide range of athletic opportunities for its students.",
+   "snippet_highlighted_words": [
+    "Byrnes High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "With a commitment to excellence both on and off the field, Byrnes High School offers a wide range of athletic opportunities for its students.",
+     "source_info_link": "https://www.maxpreps.com/sc/duncan/james-f-byrnes-rebels/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEzhBADhBADhBADhBQDhBQDhBADhBADhBADhBQDhBQDhBADhBADhBQDhBADhBQBqDGaWAAAAD3RSTlMANHaA7NyWEEjPqCVevglnZLSWAAAAqElEQVQokaWSSxaFIAxDU0pFBM3-d_vkM3pUJ3YAHEJvQwH4GlcIQQUoei_Sv2okD2C7p7ikhrHbzugilnuXMsa1aCZPkYO0pSSgjJWsxs3xW5iV3E6H2v1WsxpXr5OrIbpUQNhjd0XELvoajqadD-Jb5mtNHaLv1obo3rNwhtehRo32wM3ttduJfPled_G5nZr6XVduHt1pXTKXWoHd64PML5nmF_0YP5WLCXU498sLAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEScQHrOzAVn65XWu0BPoZrrVhM5OcbjRBJtmJ9tnuDz8h6tD5gK9DOHst1DzkcafaDtygegrqzj9NvNytoHWL4s3FNjdx1M8gMPE5Vgb7z6zoPBgw9LKhyajLoJ2nelPLnzngxsldDo-0BnSrclesEPaNJ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEScQHrOzAVn65XWu0BPoZrrVhM5OcbjRBJtmJ9tnuDz8h6tD5gK9DOHst1DzkcafaDtygegrqzj9NvNytoHWL4s3FNjdx1M8gMPE5Vgb7z6zoPBgw9LKhyajLoJ2nelPLnzngxsldDo-0BnSrclesEPaNJ",
+   "source": "MaxPreps",
+   "read_more_link": "https://www.maxpreps.com/sc/duncan/james-f-byrnes-rebels/#:~:text=With%20a%20commitment%20to%20excellence,athletic%20opportunities%20for%20its%20students."
+  },
+  {
+   "position": 6,
+   "title": "James F. Byrnes High School in Duncan, SC",
+   "link": "https://www.niche.com/k12/james-f-byrnes-high-school-duncan-sc/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdwHrOzAVPQw_WnpvVwiIIhyql8QWPCdI-OJOpm-4QgV-XGo78MtETzcWE7A4JLiCnQOh_ns0Q5isrbhnMAGNWAFe1Bl6oM7MBCVFFZfDQciPhPrcLNmUormDP0EJGfw8oHGs-ylyv2_yf11ThDX2cZniMtdNJt1b&ved=2ahUKEwjXxNSJ5-SWAxVnWUEAHTgcH6sQFnoECF0QAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a South Carolina",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png",
+   "snippet": "James F. Byrnes High School is an above average, public school located in DUNCAN, SC. It has 2391 students in grades 9-12 with a student-teacher ratio of 19 ...",
+   "snippet_highlighted_words": [
+    "Byrnes High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "James F. Byrnes High School is an above average, public school located in DUNCAN, SC. It has 2391 students in grades 9-12 with a student-teacher ratio of 19 ...",
+     "source_info_link": "https://www.niche.com/k12/james-f-byrnes-high-school-duncan-sc/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdwHrOzAVPQw_WnpvVwiIIhyql8QWPCdI-OJOpm-4QgV-XGo78MtETzcWE7A4JLiCnQOh_ns0Q5isrbhnMAGNWAFe1Bl6oM7MBCVFFZfDQciPhPrcLNmUormDP0EJGfw8oHGs-ylyv2_yf11ThDX2cZniMtdNJt1b&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdwHrOzAVPQw_WnpvVwiIIhyql8QWPCdI-OJOpm-4QgV-XGo78MtETzcWE7A4JLiCnQOh_ns0Q5isrbhnMAGNWAFe1Bl6oM7MBCVFFZfDQciPhPrcLNmUormDP0EJGfw8oHGs-ylyv2_yf11ThDX2cZniMtdNJt1b",
+   "source": "Niche"
+  },
+  {
+   "position": 7,
+   "title": "Honors and Awards | James F. Byrnes High School",
+   "link": "https://www.spart5.net/o/jbhs/page/honors-and-awards",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHrOzAVI7dTrjnoUeRyX2PRzzbA4Nf4YljbBJqil7dyIYx2fR9fi9xOU432EICO5HqCZPDcrFzL4exZhXGZzupLhUvv3MyEXRuOTsVZHeVgYvRiNobqvJo2BaKubf2F1RoVB3vhIMAxkD0BeQ&ved=2ahUKEwjXxNSJ5-SWAxVnWUEAHTgcH6sQFnoECF4QAQ&uoh=1",
+   "displayed_link": "https://www.spart5.net \u203a jbhs \u203a page \u203a honors-and-awards",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAilBMVEVHcEz6-_b8_fj8_ff6-vX7_Pf56OT28e36_Pb8-_bydXj4zcv6-_b8_fj2vLrvNTzzg4X9_ff9_Pb9_fj8_Pf1paXvPEP3w8H7-fT7_Pf7-vX8_fnwTlT7-vX8_fj42NX0kJLyf4H2tbTg5OKotLjI0NEUQVcAIkAALUaWp64qTWF5jZZAXW6FmKDnsJetAAAAH3RSTlMAPbGfH9j__owI__8wzf___3RivPX____vVOP__xHDZYshBQAAAQ1JREFUeAF10gWWgzAUBVD84x4hWAfX_W9vQkebhuC8c-PK_6JquqHcFNW0wL7JHN1yPVN1pKEfhFFsBYkhcWmWI4xjQiXtFswqvSrCFYJEzOqmjdsSRVFUeUEtNkhR9IDSc3GEqC8OA1CEP7wSHrhjYqOGSSpeZVfy2rW30dgWutIWLFYIEacaEBfjLtcKEV5pwiwXk8aXzp5TMOKCXr_DlFFK8xzKnFIzFRjrB16gHPm9NwVpjtO8zGs5LPM2NkKYwL4sywb9MZ-Qin0Nxm150mPMakVKj74fLyily1qWOodiSb-p9sxEml30GGVQcVLK6Ul5i3I6bb12s3PTfL-DnDZ9n9W3W77JXhbsE_QsGeEF00MZAAAAAElFTkSuQmCC.png",
+   "snippet": "James F. Byrnes High School \u00b7 About Us \u00b7 Information \u00b7 Staff Directory \u00b7 Guidance \u00b7 Media Center \u00b7 Fine Arts \u00b7 AFJROTC \u00b7 Athletics.",
+   "snippet_highlighted_words": [
+    "Byrnes High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "James F. Byrnes High School \u00b7 About Us \u00b7 Information \u00b7 Staff Directory \u00b7 Guidance \u00b7 Media Center \u00b7 Fine Arts \u00b7 AFJROTC \u00b7 Athletics.",
+     "source_info_link": "https://www.spart5.net/o/jbhs/page/honors-and-awards",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAilBMVEVHcEz6-_b8_fj8_ff6-vX7_Pf56OT28e36_Pb8-_bydXj4zcv6-_b8_fj2vLrvNTzzg4X9_ff9_Pb9_fj8_Pf1paXvPEP3w8H7-fT7_Pf7-vX8_fnwTlT7-vX8_fj42NX0kJLyf4H2tbTg5OKotLjI0NEUQVcAIkAALUaWp64qTWF5jZZAXW6FmKDnsJetAAAAH3RSTlMAPbGfH9j__owI__8wzf___3RivPX____vVOP__xHDZYshBQAAAQ1JREFUeAF10gWWgzAUBVD84x4hWAfX_W9vQkebhuC8c-PK_6JquqHcFNW0wL7JHN1yPVN1pKEfhFFsBYkhcWmWI4xjQiXtFswqvSrCFYJEzOqmjdsSRVFUeUEtNkhR9IDSc3GEqC8OA1CEP7wSHrhjYqOGSSpeZVfy2rW30dgWutIWLFYIEacaEBfjLtcKEV5pwiwXk8aXzp5TMOKCXr_DlFFK8xzKnFIzFRjrB16gHPm9NwVpjtO8zGs5LPM2NkKYwL4sywb9MZ-Qin0Nxm150mPMakVKj74fLyily1qWOodiSb-p9sxEml30GGVQcVLK6Ul5i3I6bb12s3PTfL-DnDZ9n9W3W77JXhbsE_QsGeEF00MZAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESbAHrOzAVI7dTrjnoUeRyX2PRzzbA4Nf4YljbBJqil7dyIYx2fR9fi9xOU432EICO5HqCZPDcrFzL4exZhXGZzupLhUvv3MyEXRuOTsVZHeVgYvRiNobqvJo2BaKubf2F1RoVB3vhIMAxkD0BeQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESbAHrOzAVI7dTrjnoUeRyX2PRzzbA4Nf4YljbBJqil7dyIYx2fR9fi9xOU432EICO5HqCZPDcrFzL4exZhXGZzupLhUvv3MyEXRuOTsVZHeVgYvRiNobqvJo2BaKubf2F1RoVB3vhIMAxkD0BeQ",
+   "source": "Spartanburg District Five",
+   "read_more_link": "https://www.spart5.net/o/jbhs/page/honors-and-awards#:~:text=James%20F.%20Byrnes%20High%20School&text=Explore&text=Explore&text=Explore&text=Explore&text=Explore&text=Explore&text=Explore&text=Explore"
+  },
+  {
+   "position": 8,
+   "title": "James F. Byrnes High School - Duncan, South Carolina - SC",
+   "link": "https://www.greatschools.org/south-carolina/duncan/980-James-F.-Byrnes-High-School/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiwEB6zswFQEcJdYqPpPyNPFE_xp2qLTgUhyytximh6aoJR-2DHsAQAGO2v7TL8exU_4ZiOBs1KbKDeZoMWUuLhxOgUNTArT8hXOOxDxazRJyLC9lIjb1PiVA4CxWpOqvbUUphAFUHEGvtck2LGbYxaYNH6XjnfYdGfe5FCBprPGlr6Jj8t6NA_-UXm21&ved=2ahUKEwjXxNSJ5-SWAxVnWUEAHTgcH6sQFnoECGAQAQ&uoh=1",
+   "displayed_link": "https://www.greatschools.org \u203a south-carolina \u203a 980-Ja...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX____6_v74_P7N6_jA5vfy-v3V7PiO0e89tuUApd-Ayu0eqeEiquEjquG64PQ_tOWq2vIwruJnw-rj8_vs9vx1yeye2fFav-ix4fQbruMAo9-Hy-yp1vCq3vSw2fGY0O5xwenE5vbe7_lFmiYHAAABRElEQVR4AVzSB5KDMAwFUNGRv-QSanq5_yHX4ImHrOg8d5lyFGVZ1XVVlgX9j6btet6j79rm11oDhmgMAcO0ByqsYxHEiAqAnS2y-QAF-tPJsWpwQRH8V-1m2g3jOE4c_DirINhkrYOKmDSuJdS0qihcu38bVkVoqZZzQ9XF76hsmq0iZENqrsyWBrklFMSqRcca0cUWwHcaw43uGyp3BZU9MmJ5PGPNTjZEX1LJklHBzJ4SCpdUsWaECPhaJFSuqOaM0seAKb9YH_FUEo3uiIdml2qkIZjiBU3NHgfEl2nDMaFw-TMV7mhwzgRomsrvIqwRsTWVFiEvX0NPvlQRQ-9S0tvvwkuoqZnfRENv6Z4XPqVMsexJmMaIh5SlZAuW9ePFzc6s0yHZaZsImBnYz2i--NlgmkOOG-xv2JIm4USNNzsAAN3rGxmBgpZiAAAAAElFTkSuQmCC.png",
+   "snippet": "James F. Byrnes High School is a public school in Duncan, SC, offering AP courses, Project Lead The Way curriculum, and a Gifted & Talented program.",
+   "snippet_highlighted_words": [
+    "Byrnes High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "James F. Byrnes High School is a public school in Duncan, SC, offering AP courses, Project Lead The Way curriculum, and a Gifted & Talented program.",
+     "source_info_link": "https://www.greatschools.org/south-carolina/duncan/980-James-F.-Byrnes-High-School/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX____6_v74_P7N6_jA5vfy-v3V7PiO0e89tuUApd-Ayu0eqeEiquEjquG64PQ_tOWq2vIwruJnw-rj8_vs9vx1yeye2fFav-ix4fQbruMAo9-Hy-yp1vCq3vSw2fGY0O5xwenE5vbe7_lFmiYHAAABRElEQVR4AVzSB5KDMAwFUNGRv-QSanq5_yHX4ImHrOg8d5lyFGVZ1XVVlgX9j6btet6j79rm11oDhmgMAcO0ByqsYxHEiAqAnS2y-QAF-tPJsWpwQRH8V-1m2g3jOE4c_DirINhkrYOKmDSuJdS0qihcu38bVkVoqZZzQ9XF76hsmq0iZENqrsyWBrklFMSqRcca0cUWwHcaw43uGyp3BZU9MmJ5PGPNTjZEX1LJklHBzJ4SCpdUsWaECPhaJFSuqOaM0seAKb9YH_FUEo3uiIdml2qkIZjiBU3NHgfEl2nDMaFw-TMV7mhwzgRomsrvIqwRsTWVFiEvX0NPvlQRQ-9S0tvvwkuoqZnfRENv6Z4XPqVMsexJmMaIh5SlZAuW9ePFzc6s0yHZaZsImBnYz2i--NlgmkOOG-xv2JIm4USNNzsAAN3rGxmBgpZiAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESiwEB6zswFQEcJdYqPpPyNPFE_xp2qLTgUhyytximh6aoJR-2DHsAQAGO2v7TL8exU_4ZiOBs1KbKDeZoMWUuLhxOgUNTArT8hXOOxDxazRJyLC9lIjb1PiVA4CxWpOqvbUUphAFUHEGvtck2LGbYxaYNH6XjnfYdGfe5FCBprPGlr6Jj8t6NA_-UXm21&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESiwEB6zswFQEcJdYqPpPyNPFE_xp2qLTgUhyytximh6aoJR-2DHsAQAGO2v7TL8exU_4ZiOBs1KbKDeZoMWUuLhxOgUNTArT8hXOOxDxazRJyLC9lIjb1PiVA4CxWpOqvbUUphAFUHEGvtck2LGbYxaYNH6XjnfYdGfe5FCBprPGlr6Jj8t6NA_-UXm21",
+   "source": "GreatSchools"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Byrnes high school football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnv1pQb60RK-ELxzI_lIYnVTwNVkHA:1789070526462&q=Byrnes+high+school+football&sa=X&ved=2ahUKEwjXxNSJ5-SWAxVnWUEAHTgcH6sQ1QJ6BAhkEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Byrnes+high+school+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Byrnes High School Calendar",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnv1pQb60RK-ELxzI_lIYnVTwNVkHA:1789070526462&q=Byrnes+High+School+Calendar&sa=X&ved=2ahUKEwjXxNSJ5-SWAxVnWUEAHTgcH6sQ1QJ6BAh_EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Byrnes+High+School+Calendar"
+  },
+  {
+   "block_position": 1,
+   "query": "Byrnes High School bell Schedule",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnv1pQb60RK-ELxzI_lIYnVTwNVkHA:1789070526462&q=Byrnes+High+School+bell+Schedule&sa=X&ved=2ahUKEwjXxNSJ5-SWAxVnWUEAHTgcH6sQ1QJ6BAh-EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Byrnes+High+School+bell+Schedule"
+  },
+  {
+   "block_position": 1,
+   "query": "Byrnes High School mascot",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnv1pQb60RK-ELxzI_lIYnVTwNVkHA:1789070526462&q=Byrnes+High+School+mascot&sa=X&ved=2ahUKEwjXxNSJ5-SWAxVnWUEAHTgcH6sQ1QJ6BAh9EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Byrnes+High+School+mascot"
+  },
+  {
+   "block_position": 1,
+   "query": "Byrnes high school basketball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnv1pQb60RK-ELxzI_lIYnVTwNVkHA:1789070526462&q=Byrnes+high+school+basketball&sa=X&ved=2ahUKEwjXxNSJ5-SWAxVnWUEAHTgcH6sQ1QJ6BAh3EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Byrnes+high+school+basketball"
+  },
+  {
+   "block_position": 1,
+   "query": "Byrnes High School map",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnv1pQb60RK-ELxzI_lIYnVTwNVkHA:1789070526462&q=Byrnes+High+School+map&sa=X&ved=2ahUKEwjXxNSJ5-SWAxVnWUEAHTgcH6sQ1QJ6BAh0EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Byrnes+High+School+map"
+  },
+  {
+   "block_position": 1,
+   "query": "Byrnes High School Football score",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnv1pQb60RK-ELxzI_lIYnVTwNVkHA:1789070526462&q=Byrnes+High+School+Football+score&sa=X&ved=2ahUKEwjXxNSJ5-SWAxVnWUEAHTgcH6sQ1QJ6BAhrEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Byrnes+High+School+Football+score"
+  },
+  {
+   "block_position": 1,
+   "query": "Byrnes High School football schedule",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnv1pQb60RK-ELxzI_lIYnVTwNVkHA:1789070526462&q=Byrnes+High+School+football+schedule&sa=X&ved=2ahUKEwjXxNSJ5-SWAxVnWUEAHTgcH6sQ1QJ6BAhmEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Byrnes+High+School+football+schedule"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Byrnes+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnv1pQb60RK-ELxzI_lIYnVTwNVkHA:1789070526462&ei=vgyjatftG-eyhbIPuLj82Ao&start=10&sa=N&sstk=AS6-VmL6PcHqmSF7ZUaP6ahlp3FqUWUX-A2Bi_sRhLtYgraFdV6NuBVPdIy2aSPiyrmkG5VaLfseCoUwDL9mnd_TxinxQd4-IMT-LA&ved=2ahUKEwjXxNSJ5-SWAxVnWUEAHTgcH6sQ8NMDegQIURAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Byrnes+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnv1pQb60RK-ELxzI_lIYnVTwNVkHA:1789070526462&ei=vgyjatftG-eyhbIPuLj82Ao&start=10&sa=N&sstk=AS6-VmL6PcHqmSF7ZUaP6ahlp3FqUWUX-A2Bi_sRhLtYgraFdV6NuBVPdIy2aSPiyrmkG5VaLfseCoUwDL9mnd_TxinxQd4-IMT-LA&ved=2ahUKEwjXxNSJ5-SWAxVnWUEAHTgcH6sQ8tMDegQIURAE",
+   "3": "https://www.google.com/search?q=%22Byrnes+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnv1pQb60RK-ELxzI_lIYnVTwNVkHA:1789070526462&ei=vgyjatftG-eyhbIPuLj82Ao&start=20&sa=N&sstk=AS6-VmL6PcHqmSF7ZUaP6ahlp3FqUWUX-A2Bi_sRhLtYgraFdV6NuBVPdIy2aSPiyrmkG5VaLfseCoUwDL9mnd_TxinxQd4-IMT-LA&ved=2ahUKEwjXxNSJ5-SWAxVnWUEAHTgcH6sQ8tMDegQIURAG",
+   "4": "https://www.google.com/search?q=%22Byrnes+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnv1pQb60RK-ELxzI_lIYnVTwNVkHA:1789070526462&ei=vgyjatftG-eyhbIPuLj82Ao&start=30&sa=N&sstk=AS6-VmL6PcHqmSF7ZUaP6ahlp3FqUWUX-A2Bi_sRhLtYgraFdV6NuBVPdIy2aSPiyrmkG5VaLfseCoUwDL9mnd_TxinxQd4-IMT-LA&ved=2ahUKEwjXxNSJ5-SWAxVnWUEAHTgcH6sQ8tMDegQIURAI",
+   "5": "https://www.google.com/search?q=%22Byrnes+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnv1pQb60RK-ELxzI_lIYnVTwNVkHA:1789070526462&ei=vgyjatftG-eyhbIPuLj82Ao&start=40&sa=N&sstk=AS6-VmL6PcHqmSF7ZUaP6ahlp3FqUWUX-A2Bi_sRhLtYgraFdV6NuBVPdIy2aSPiyrmkG5VaLfseCoUwDL9mnd_TxinxQd4-IMT-LA&ved=2ahUKEwjXxNSJ5-SWAxVnWUEAHTgcH6sQ8tMDegQIURAK",
+   "6": "https://www.google.com/search?q=%22Byrnes+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnv1pQb60RK-ELxzI_lIYnVTwNVkHA:1789070526462&ei=vgyjatftG-eyhbIPuLj82Ao&start=50&sa=N&sstk=AS6-VmL6PcHqmSF7ZUaP6ahlp3FqUWUX-A2Bi_sRhLtYgraFdV6NuBVPdIy2aSPiyrmkG5VaLfseCoUwDL9mnd_TxinxQd4-IMT-LA&ved=2ahUKEwjXxNSJ5-SWAxVnWUEAHTgcH6sQ8tMDegQIURAM",
+   "7": "https://www.google.com/search?q=%22Byrnes+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnv1pQb60RK-ELxzI_lIYnVTwNVkHA:1789070526462&ei=vgyjatftG-eyhbIPuLj82Ao&start=60&sa=N&sstk=AS6-VmL6PcHqmSF7ZUaP6ahlp3FqUWUX-A2Bi_sRhLtYgraFdV6NuBVPdIy2aSPiyrmkG5VaLfseCoUwDL9mnd_TxinxQd4-IMT-LA&ved=2ahUKEwjXxNSJ5-SWAxVnWUEAHTgcH6sQ8tMDegQIURAO",
+   "8": "https://www.google.com/search?q=%22Byrnes+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnv1pQb60RK-ELxzI_lIYnVTwNVkHA:1789070526462&ei=vgyjatftG-eyhbIPuLj82Ao&start=70&sa=N&sstk=AS6-VmL6PcHqmSF7ZUaP6ahlp3FqUWUX-A2Bi_sRhLtYgraFdV6NuBVPdIy2aSPiyrmkG5VaLfseCoUwDL9mnd_TxinxQd4-IMT-LA&ved=2ahUKEwjXxNSJ5-SWAxVnWUEAHTgcH6sQ8tMDegQIURAQ",
+   "9": "https://www.google.com/search?q=%22Byrnes+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnv1pQb60RK-ELxzI_lIYnVTwNVkHA:1789070526462&ei=vgyjatftG-eyhbIPuLj82Ao&start=80&sa=N&sstk=AS6-VmL6PcHqmSF7ZUaP6ahlp3FqUWUX-A2Bi_sRhLtYgraFdV6NuBVPdIy2aSPiyrmkG5VaLfseCoUwDL9mnd_TxinxQd4-IMT-LA&ved=2ahUKEwjXxNSJ5-SWAxVnWUEAHTgcH6sQ8tMDegQIURAS",
+   "10": "https://www.google.com/search?q=%22Byrnes+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnv1pQb60RK-ELxzI_lIYnVTwNVkHA:1789070526462&ei=vgyjatftG-eyhbIPuLj82Ao&start=90&sa=N&sstk=AS6-VmL6PcHqmSF7ZUaP6ahlp3FqUWUX-A2Bi_sRhLtYgraFdV6NuBVPdIy2aSPiyrmkG5VaLfseCoUwDL9mnd_TxinxQd4-IMT-LA&ved=2ahUKEwjXxNSJ5-SWAxVnWUEAHTgcH6sQ8tMDegQIURAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Byrnes+High+School%22&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Byrnes+High+School%22&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Byrnes+High+School%22&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Byrnes+High+School%22&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Byrnes+High+School%22&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Byrnes+High+School%22&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Byrnes+High+School%22&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Byrnes+High+School%22&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Byrnes+High+School%22&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Byrnes+High+School%22&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Byrnes+High+School%22&start=90"
+  }
+ }
+}

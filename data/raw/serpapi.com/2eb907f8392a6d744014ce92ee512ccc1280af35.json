@@ -1,0 +1,334 @@
+{
+ "search_information": {
+  "query_displayed": "\"Ben Davis Marching Giants\"",
+  "total_results": 82,
+  "time_taken_displayed": 0.31,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "related_questions": [
+  {
+   "question": "What is Ben Davis doing now?",
+   "type": "ai_overview",
+   "page_token": "xXyDA3icHdBRToMwAADQeJl9DgphmiWLcVIEZpkUWkZ_DGsH3VoGChuDP-_iqTyNxgu8j_f1rY9n9XOXyb5vu6VhDMMwr5qm0oc5b2qj6MYzN3ih9b7garm4X4DHkq9g162fm2Edk7alLjZTn76lqve4SRG2Io_4mKQnigltOwGBm8Dc3ma3LQNiIibvCzvc4NoJODQHrETGyINDzKGPp2goXCGLTPiJF1nopOHeljdKxDVxY4cTPCWezsW0lizVr9QLtxkRF2R1PQJ6kxN2K2od7EA4Ip-GMWAKwfCCtBhzgkEKQgvtvI-UqD-mtQ9ZKzmpJmwxyV_kMaFPTuoym1JYBMqD3A4cppFFFKNCyTgBotxnnYOzaDy4eBQphglhUphwVvLryp79h63ey7pftp9N9QvVAHh3",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=xXyDA3icHdBRToMwAADQeJl9DgphmiWLcVIEZpkUWkZ_DGsH3VoGChuDP-_iqTyNxgu8j_f1rY9n9XOXyb5vu6VhDMMwr5qm0oc5b2qj6MYzN3ih9b7garm4X4DHkq9g162fm2Edk7alLjZTn76lqve4SRG2Io_4mKQnigltOwGBm8Dc3ma3LQNiIibvCzvc4NoJODQHrETGyINDzKGPp2goXCGLTPiJF1nopOHeljdKxDVxY4cTPCWezsW0lizVr9QLtxkRF2R1PQJ6kxN2K2od7EA4Ip-GMWAKwfCCtBhzgkEKQgvtvI-UqD-mtQ9ZKzmpJmwxyV_kMaFPTuoym1JYBMqD3A4cppFFFKNCyTgBotxnnYOzaDy4eBQphglhUphwVvLryp79h63ey7pftp9N9QvVAHh3",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmVFZ3lhM2hHYVd0Q1VUWmhkWHBJWTA0MmRIaDNPVTloVG5SbVdGZFFPRXRsV1cxcFZuTndVbGt4VG1JeU5IZzVWREpLWW5sZlFYaHpjVlU1VVhWYVZUSnhVR1JSYmxWc2NFUmtVREkzUzNSTGFsSlNSMWs0YUU1bWR4SVdXbmQ1YW1GeFNETkhabUZ3YUdKSlVEbE1ObmRWVVJvaVFVUnpjamxtVW5sQ1ZFUk5lbE5VUWxsTFVVczFNMDh5TVhOblRYcDFjVVpWVVEiLCJmY3YiOiIzIiwiZWkiOiJad3lqYXFIM0dmYXBoYklQOUw2d1VRIiwicWMiOiJDaGxpWlc0Z1pHRjJhWE1nYldGeVkyaHBibWNnWjJsaGJuUnpFQUI5QnNvT1B3IiwicXVlc3Rpb24iOiJXaGF0IGlzIEJlbiBEYXZpcyBkb2luZyBub3c/IiwibGsiOiJHaHQzYUdGMElHbHpJR0psYmlCa1lYWnBjeUJrYjJsdVp5QnViM2MiLCJicyI6ImM1MlFNUXZDTUJCR2NjM2tYQlZ1VmdlTmd6cElRVVIwTHVMZ2RKcllCUFN1TkszQmYyOGFCT3ZnNGhBNGVPOEwzNTFZaWY3UllBWFd3Vm9UYlBBUkpzV1djaUQycVJ3a1BmX201OERWTnhlMVdNUTRsaG9xRXg0WE1BTmpjd1B1WXBodmNNZnlZaHI5aktRY1dJcmVJVXZsTXBuN2Y3SzFFeWN4T2hvR3p4UlJxUDJFOEZORDk2UXNFa0pXWWFWaGk3Wk01VGdaLXJhdVBycDk2eTdxMTZDTFhFempUbGU4Yy0yZzBGemNOSGhOSWNHdEstMmFwbGxzbWtxWlRQenYwT2QwcmZXNm5SYyIsImlkIjoiZmNfWnd5amFxSDNHZmFwaGJJUDlMNndVUV81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmVFZ3lhM2hHYVd0Q1VUWmhkWHBJWTA0MmRIaDNPVTloVG5SbVdGZFFPRXRsV1cxcFZuTndVbGt4VG1JeU5IZzVWREpLWW5sZlFYaHpjVlU1VVhWYVZUSnhVR1JSYmxWc2NFUmtVREkzUzNSTGFsSlNSMWs0YUU1bWR4SVdXbmQ1YW1GeFNETkhabUZ3YUdKSlVEbE1ObmRWVVJvaVFVUnpjamxtVW5sQ1ZFUk5lbE5VUWxsTFVVczFNMDh5TVhOblRYcDFjVVpWVVEiLCJmY3YiOiIzIiwiZWkiOiJad3lqYXFIM0dmYXBoYklQOUw2d1VRIiwicWMiOiJDaGxpWlc0Z1pHRjJhWE1nYldGeVkyaHBibWNnWjJsaGJuUnpFQUI5QnNvT1B3IiwicXVlc3Rpb24iOiJXaGF0IGlzIEJlbiBEYXZpcyBkb2luZyBub3c%2FIiwibGsiOiJHaHQzYUdGMElHbHpJR0psYmlCa1lYWnBjeUJrYjJsdVp5QnViM2MiLCJicyI6ImM1MlFNUXZDTUJCR2NjM2tYQlZ1VmdlTmd6cElRVVIwTHVMZ2RKcllCUFN1TkszQmYyOGFCT3ZnNGhBNGVPOEwzNTFZaWY3UllBWFd3Vm9UYlBBUkpzV1djaUQycVJ3a1BmX201OERWTnhlMVdNUTRsaG9xRXg0WE1BTmpjd1B1WXBodmNNZnlZaHI5aktRY1dJcmVJVXZsTXBuN2Y3SzFFeWN4T2hvR3p4UlJxUDJFOEZORDk2UXNFa0pXWWFWaGk3Wk01VGdaLXJhdVBycDk2eTdxMTZDTFhFempUbGU4Yy0yZzBGemNOSGhOSWNHdEstMmFwbGxzbWtxWlRQenYwT2QwcmZXNm5SYyIsImlkIjoiZmNfWnd5amFxSDNHZmFwaGJJUDlMNndVUV81In0%3D"
+  },
+  {
+   "question": "What are the top 3 high school marching bands in the US?",
+   "type": "ai_overview",
+   "page_token": "H3AdEHicHdBdbpswAABg7TJ9bCA0nYgUTXUxSWlmC2OM7ZfKGIITm580rDS87QY9RE_V02zqEb7v76c7dvbrx4cZx-GyXiymabpt-r5x9a3u24W6XDu90Mq5Umm7vv957_866A18E-DxVYM0HwYWEY9CG6RtYrPOZPkcJ9JPWkrBXQmrZ8T6FfLMIV2GzyiSf2romLBkEraibDvsssDA3EeRsvJcZv6YBclJw2rec3glzvCSE0mWA86h7GhnHJsdVvRhtS9SDznymMVVV83onc120tBhHQO_ZuGlbqWs4xCnLH-vOOu43ywVTc60QIrA-Ih3DCOPoD0lmZrdnbboiQZwKqN4pA4JTJtJFitvz0KFYOgJSnjZEgmNVFXgzoLHT7-9qhUc9MK6FOfTsvIZ2R4TQHboigtJyxNgIgBb6o1CReYkC_vfZyRxzFPcbBll4Oag3zbBzff05uXQjuvhtW_-AVsIi-k",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=H3AdEHicHdBdbpswAABg7TJ9bCA0nYgUTXUxSWlmC2OM7ZfKGIITm580rDS87QY9RE_V02zqEb7v76c7dvbrx4cZx-GyXiymabpt-r5x9a3u24W6XDu90Mq5Umm7vv957_866A18E-DxVYM0HwYWEY9CG6RtYrPOZPkcJ9JPWkrBXQmrZ8T6FfLMIV2GzyiSf2romLBkEraibDvsssDA3EeRsvJcZv6YBclJw2rec3glzvCSE0mWA86h7GhnHJsdVvRhtS9SDznymMVVV83onc120tBhHQO_ZuGlbqWs4xCnLH-vOOu43ywVTc60QIrA-Ih3DCOPoD0lmZrdnbboiQZwKqN4pA4JTJtJFitvz0KFYOgJSnjZEgmNVFXgzoLHT7-9qhUc9MK6FOfTsvIZ2R4TQHboigtJyxNgIgBb6o1CReYkC_vfZyRxzFPcbBll4Oag3zbBzff05uXQjuvhtW_-AVsIi-k",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmVFZ3lhM2hHYVd0Q1VUWmhkWHBJWTA0MmRIaDNPVTloVG5SbVdGZFFPRXRsV1cxcFZuTndVbGt4VG1JeU5IZzVWREpLWW5sZlFYaHpjVlU1VVhWYVZUSnhVR1JSYmxWc2NFUmtVREkzUzNSTGFsSlNSMWs0YUU1bWR4SVdXbmQ1YW1GeFNETkhabUZ3YUdKSlVEbE1ObmRWVVJvaVFVUnpjamxtVW5sQ1ZFUk5lbE5VUWxsTFVVczFNMDh5TVhOblRYcDFjVVpWVVEiLCJmY3YiOiIzIiwiZWkiOiJad3lqYXFIM0dmYXBoYklQOUw2d1VRIiwicWMiOiJDaGxpWlc0Z1pHRjJhWE1nYldGeVkyaHBibWNnWjJsaGJuUnpFQUI5QnNvT1B3IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgdG9wIDMgaGlnaCBzY2hvb2wgbWFyY2hpbmcgYmFuZHMgaW4gdGhlIFVTPyIsImxrIjoiYzVNeUw4OUlMRkZJTEVwVktNa0E0dndDQldPRmpNejBESVhpNUl6OF9CeUYzTVNpNUl6TXZIU0ZwTVM4bEdLRnpEeXd1dEppQUEiLCJicyI6ImM1MlFNUXZDTUJCR2NjM2tYQlZ1VmdlTmd6cElRVVIwTHVMZ2RKcllCUFN1TkszQmYyOGFCT3ZnNGhBNGVPOEwzNTFZaWY3UllBWFd3Vm9UYlBBUkpzV1djaUQycVJ3a1BmX201OERWTnhlMVdNUTRsaG9xRXg0WE1BTmpjd1B1WXBodmNNZnlZaHI5aktRY1dJcmVJVXZsTXBuN2Y3SzFFeWN4T2hvR3p4UlJxUDJFOEZORDk2UXNFa0pXWWFWaGk3Wk01VGdaLXJhdVBycDk2eTdxMTZDTFhFempUbGU4Yy0yZzBGemNOSGhOSWNHdEstMmFwbGxzbWtxWlRQenYwT2QwcmZXNm5SYyIsImlkIjoiZmNfWnd5amFxSDNHZmFwaGJJUDlMNndVUV81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmVFZ3lhM2hHYVd0Q1VUWmhkWHBJWTA0MmRIaDNPVTloVG5SbVdGZFFPRXRsV1cxcFZuTndVbGt4VG1JeU5IZzVWREpLWW5sZlFYaHpjVlU1VVhWYVZUSnhVR1JSYmxWc2NFUmtVREkzUzNSTGFsSlNSMWs0YUU1bWR4SVdXbmQ1YW1GeFNETkhabUZ3YUdKSlVEbE1ObmRWVVJvaVFVUnpjamxtVW5sQ1ZFUk5lbE5VUWxsTFVVczFNMDh5TVhOblRYcDFjVVpWVVEiLCJmY3YiOiIzIiwiZWkiOiJad3lqYXFIM0dmYXBoYklQOUw2d1VRIiwicWMiOiJDaGxpWlc0Z1pHRjJhWE1nYldGeVkyaHBibWNnWjJsaGJuUnpFQUI5QnNvT1B3IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgdG9wIDMgaGlnaCBzY2hvb2wgbWFyY2hpbmcgYmFuZHMgaW4gdGhlIFVTPyIsImxrIjoiYzVNeUw4OUlMRkZJTEVwVktNa0E0dndDQldPRmpNejBESVhpNUl6OF9CeUYzTVNpNUl6TXZIU0ZwTVM4bEdLRnpEeXd1dEppQUEiLCJicyI6ImM1MlFNUXZDTUJCR2NjM2tYQlZ1VmdlTmd6cElRVVIwTHVMZ2RKcllCUFN1TkszQmYyOGFCT3ZnNGhBNGVPOEwzNTFZaWY3UllBWFd3Vm9UYlBBUkpzV1djaUQycVJ3a1BmX201OERWTnhlMVdNUTRsaG9xRXg0WE1BTmpjd1B1WXBodmNNZnlZaHI5aktRY1dJcmVJVXZsTXBuN2Y3SzFFeWN4T2hvR3p4UlJxUDJFOEZORDk2UXNFa0pXWWFWaGk3Wk01VGdaLXJhdVBycDk2eTdxMTZDTFhFempUbGU4Yy0yZzBGemNOSGhOSWNHdEstMmFwbGxzbWtxWlRQenYwT2QwcmZXNm5SYyIsImlkIjoiZmNfWnd5amFxSDNHZmFwaGJJUDlMNndVUV81In0%3D"
+  },
+  {
+   "question": "Who won band Day at the Indiana State Fair?",
+   "type": "ai_overview",
+   "page_token": "xFFJ1XicHdBdboIwAADg7DI-Diib20zMEgYFmZRZSgt9WVgrv1Wqoqhvu8tOtdPM7AZfvu8f1Wy737uhHgZ9mBnGOI73Vd9Xan0v-o1RHC5bYYhCqa9CdLPp09R6LcXcO3rO227hrFKtqYvNpIVBYukQXWtLMPWxpghkoLaJ7QAGuUu7OpK-WkbA2mEvP3NLhdgVj6TTZZxyUBAUScBD7mKQpLIk4NxQgAHKVMPhSxgx3rBW7plyGhxoxk3U5sAbif8MRFcfCQutKKVHAmW2bul-RaViDKcFQ21kap7fbNhWLr9STWz9vmTWzRDalMqAwfya2tDDSt5MiHJfb72aF9JWuzyDi8iUmzxz-rxTqzgdgbQo9pvQwQG6xIxjASBNOjxyVTcRQB7KcMChc8qz6iGm6YVk9XZSitPcnvxvzj_LzTDT-776A6ZygOQ",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=xFFJ1XicHdBdboIwAADg7DI-Diib20zMEgYFmZRZSgt9WVgrv1Wqoqhvu8tOtdPM7AZfvu8f1Wy737uhHgZ9mBnGOI73Vd9Xan0v-o1RHC5bYYhCqa9CdLPp09R6LcXcO3rO227hrFKtqYvNpIVBYukQXWtLMPWxpghkoLaJ7QAGuUu7OpK-WkbA2mEvP3NLhdgVj6TTZZxyUBAUScBD7mKQpLIk4NxQgAHKVMPhSxgx3rBW7plyGhxoxk3U5sAbif8MRFcfCQutKKVHAmW2bul-RaViDKcFQ21kap7fbNhWLr9STWz9vmTWzRDalMqAwfya2tDDSt5MiHJfb72aF9JWuzyDi8iUmzxz-rxTqzgdgbQo9pvQwQG6xIxjASBNOjxyVTcRQB7KcMChc8qz6iGm6YVk9XZSitPcnvxvzj_LzTDT-776A6ZygOQ",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmVFZ3lhM2hHYVd0Q1VUWmhkWHBJWTA0MmRIaDNPVTloVG5SbVdGZFFPRXRsV1cxcFZuTndVbGt4VG1JeU5IZzVWREpLWW5sZlFYaHpjVlU1VVhWYVZUSnhVR1JSYmxWc2NFUmtVREkzUzNSTGFsSlNSMWs0YUU1bWR4SVdXbmQ1YW1GeFNETkhabUZ3YUdKSlVEbE1ObmRWVVJvaVFVUnpjamxtVW5sQ1ZFUk5lbE5VUWxsTFVVczFNMDh5TVhOblRYcDFjVVpWVVEiLCJmY3YiOiIzIiwiZWkiOiJad3lqYXFIM0dmYXBoYklQOUw2d1VRIiwicWMiOiJDaGxpWlc0Z1pHRjJhWE1nYldGeVkyaHBibWNnWjJsaGJuUnpFQUI5QnNvT1B3IiwicXVlc3Rpb24iOiJXaG8gd29uIGJhbmQgRGF5IGF0IHRoZSBJbmRpYW5hIFN0YXRlIEZhaXI/IiwibGsiOiJHaXAzYUc4Z2QyOXVJR0poYm1RZ1pHRjVJR0YwSUhSb1pTQnBibVJwWVc1aElITjBZWFJsSUdaaGFYSSIsImJzIjoiYzUyUU1RdkNNQkJHY2Mza1hCVnVWZ2VOZ3pwSVFVUjBMdUxnZEpyWUJQU3VOSzNCZjI4YUJPdmc0aEE0ZU84TDM1MVlpZjdSWUFYV3dWb1RiUEFSSnNXV2NpRDJxUndrUGZfbTU4RFZOeGUxV01RNGxob3FFeDRYTUFOamN3UHVZcGh2Y01meVlocjlqS1FjV0lyZUlVdmxNcG43ZjdLMUV5Y3hPaG9HenhSUnFQMkU4Rk5EOTZRc0VrSldZYVZoaTdaTTVUZ1otcmF1UHJwOTZ5N3ExNkNMWEV6alRsZThjLTJnMEZ6Y05IaE5JY0d0Sy0yYXBsbHNta3FaVFB6djBPZDByZlc2blJjIiwiaWQiOiJmY19ad3lqYXFIM0dmYXBoYklQOUw2d1VRXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmVFZ3lhM2hHYVd0Q1VUWmhkWHBJWTA0MmRIaDNPVTloVG5SbVdGZFFPRXRsV1cxcFZuTndVbGt4VG1JeU5IZzVWREpLWW5sZlFYaHpjVlU1VVhWYVZUSnhVR1JSYmxWc2NFUmtVREkzUzNSTGFsSlNSMWs0YUU1bWR4SVdXbmQ1YW1GeFNETkhabUZ3YUdKSlVEbE1ObmRWVVJvaVFVUnpjamxtVW5sQ1ZFUk5lbE5VUWxsTFVVczFNMDh5TVhOblRYcDFjVVpWVVEiLCJmY3YiOiIzIiwiZWkiOiJad3lqYXFIM0dmYXBoYklQOUw2d1VRIiwicWMiOiJDaGxpWlc0Z1pHRjJhWE1nYldGeVkyaHBibWNnWjJsaGJuUnpFQUI5QnNvT1B3IiwicXVlc3Rpb24iOiJXaG8gd29uIGJhbmQgRGF5IGF0IHRoZSBJbmRpYW5hIFN0YXRlIEZhaXI%2FIiwibGsiOiJHaXAzYUc4Z2QyOXVJR0poYm1RZ1pHRjVJR0YwSUhSb1pTQnBibVJwWVc1aElITjBZWFJsSUdaaGFYSSIsImJzIjoiYzUyUU1RdkNNQkJHY2Mza1hCVnVWZ2VOZ3pwSVFVUjBMdUxnZEpyWUJQU3VOSzNCZjI4YUJPdmc0aEE0ZU84TDM1MVlpZjdSWUFYV3dWb1RiUEFSSnNXV2NpRDJxUndrUGZfbTU4RFZOeGUxV01RNGxob3FFeDRYTUFOamN3UHVZcGh2Y01meVlocjlqS1FjV0lyZUlVdmxNcG43ZjdLMUV5Y3hPaG9HenhSUnFQMkU4Rk5EOTZRc0VrSldZYVZoaTdaTTVUZ1otcmF1UHJwOTZ5N3ExNkNMWEV6alRsZThjLTJnMEZ6Y05IaE5JY0d0Sy0yYXBsbHNta3FaVFB6djBPZDByZlc2blJjIiwiaWQiOiJmY19ad3lqYXFIM0dmYXBoYklQOUw2d1VRXzUifQ%3D%3D"
+  },
+  {
+   "question": "What famous people went to Ben Davis High School?",
+   "type": "ai_overview",
+   "page_token": "4eJT7nicHdBdbpswAABg7TJ9bGxYMhEpmgTFJiiQxbGN7ZfJ2A00Nj9pUGjythvsEDtVT1Np3xG-P__8W-8-v_1tp2m8rheLeZ6fm2Fo_OuzGbqFvt57szDa-1obt179WMGfJ7NJbzJO3k18YOPIXwigOMIH4Yl62YY1gJz2baIwulCBzjbbPgQcW5KqnFaKV1k7FT7e2bPHLC3DI2gCxixkKXrYMO5rmnPF0awDtSOsPMkQkYNbct7npUG2ZDx6FFkRUk-ASmBVOnDXyC0rbJ3JWq37MSwwnCWbkhrkCaW2ZxgyJQZo8UQ4zQeeKf_a-VXpJll0baqDSKrO8qOLLjbLc8OiuMRLLVnzsIIE-yP4vhf57QA-bmmrtA39RQq0LYDtpIgH6fxhz-bAQk7wWx6TrLzvK8Woa6-Kq609k1kCJHYCDQTaVU3LXzxdCgts_3Qyt0349H968_vUTevxfWi-AGxBihI",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=4eJT7nicHdBdbpswAABg7TJ9bGxYMhEpmgTFJiiQxbGN7ZfJ2A00Nj9pUGjythvsEDtVT1Np3xG-P__8W-8-v_1tp2m8rheLeZ6fm2Fo_OuzGbqFvt57szDa-1obt179WMGfJ7NJbzJO3k18YOPIXwigOMIH4Yl62YY1gJz2baIwulCBzjbbPgQcW5KqnFaKV1k7FT7e2bPHLC3DI2gCxixkKXrYMO5rmnPF0awDtSOsPMkQkYNbct7npUG2ZDx6FFkRUk-ASmBVOnDXyC0rbJ3JWq37MSwwnCWbkhrkCaW2ZxgyJQZo8UQ4zQeeKf_a-VXpJll0baqDSKrO8qOLLjbLc8OiuMRLLVnzsIIE-yP4vhf57QA-bmmrtA39RQq0LYDtpIgH6fxhz-bAQk7wWx6TrLzvK8Woa6-Kq609k1kCJHYCDQTaVU3LXzxdCgts_3Qyt0349H968_vUTevxfWi-AGxBihI",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmVFZ3lhM2hHYVd0Q1VUWmhkWHBJWTA0MmRIaDNPVTloVG5SbVdGZFFPRXRsV1cxcFZuTndVbGt4VG1JeU5IZzVWREpLWW5sZlFYaHpjVlU1VVhWYVZUSnhVR1JSYmxWc2NFUmtVREkzUzNSTGFsSlNSMWs0YUU1bWR4SVdXbmQ1YW1GeFNETkhabUZ3YUdKSlVEbE1ObmRWVVJvaVFVUnpjamxtVW5sQ1ZFUk5lbE5VUWxsTFVVczFNMDh5TVhOblRYcDFjVVpWVVEiLCJmY3YiOiIzIiwiZWkiOiJad3lqYXFIM0dmYXBoYklQOUw2d1VRIiwicWMiOiJDaGxpWlc0Z1pHRjJhWE1nYldGeVkyaHBibWNnWjJsaGJuUnpFQUI5QnNvT1B3IiwicXVlc3Rpb24iOiJXaGF0IGZhbW91cyBwZW9wbGUgd2VudCB0byBCZW4gRGF2aXMgSGlnaCBTY2hvb2w/IiwibGsiOiJHakIzYUdGMElHWmhiVzkxY3lCd1pXOXdiR1VnZDJWdWRDQjBieUJpWlc0Z1pHRjJhWE1nYUdsbmFDQnpZMmh2YjJ3IiwiYnMiOiJjNTJRTVF2Q01CQkdjYzNrWEJWdVZnZU5nenBJUVVSMEx1TGdkSnJZQlBTdU5LM0JmMjhhQk92ZzRoQTRlTzhMMzUxWWlmN1JZQVhXd1ZvVGJQQVJKc1dXY2lEMnFSd2tQZl9tNThEVk54ZTFXTVE0bGhvcUV4NFhNQU5qY3dQdVlwaHZjTWZ5WWhyOWpLUWNXSXJlSVV2bE1wbjdmN0sxRXljeE9ob0d6eFJScVAyRThGTkQ5NlFzRWtKV1lhVmhpN1pNNVRnWi1yYXVQcnA5Nnk3cTE2Q0xYRXpqVGxlOGMtMmcwRnpjTkhoTkljR3RLLTJhcGxsc21rcVpUUHp2ME9kMHJmVzZuUmMiLCJpZCI6ImZjX1p3eWphcUgzR2ZhcGhiSVA5TDZ3VVFfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmVFZ3lhM2hHYVd0Q1VUWmhkWHBJWTA0MmRIaDNPVTloVG5SbVdGZFFPRXRsV1cxcFZuTndVbGt4VG1JeU5IZzVWREpLWW5sZlFYaHpjVlU1VVhWYVZUSnhVR1JSYmxWc2NFUmtVREkzUzNSTGFsSlNSMWs0YUU1bWR4SVdXbmQ1YW1GeFNETkhabUZ3YUdKSlVEbE1ObmRWVVJvaVFVUnpjamxtVW5sQ1ZFUk5lbE5VUWxsTFVVczFNMDh5TVhOblRYcDFjVVpWVVEiLCJmY3YiOiIzIiwiZWkiOiJad3lqYXFIM0dmYXBoYklQOUw2d1VRIiwicWMiOiJDaGxpWlc0Z1pHRjJhWE1nYldGeVkyaHBibWNnWjJsaGJuUnpFQUI5QnNvT1B3IiwicXVlc3Rpb24iOiJXaGF0IGZhbW91cyBwZW9wbGUgd2VudCB0byBCZW4gRGF2aXMgSGlnaCBTY2hvb2w%2FIiwibGsiOiJHakIzYUdGMElHWmhiVzkxY3lCd1pXOXdiR1VnZDJWdWRDQjBieUJpWlc0Z1pHRjJhWE1nYUdsbmFDQnpZMmh2YjJ3IiwiYnMiOiJjNTJRTVF2Q01CQkdjYzNrWEJWdVZnZU5nenBJUVVSMEx1TGdkSnJZQlBTdU5LM0JmMjhhQk92ZzRoQTRlTzhMMzUxWWlmN1JZQVhXd1ZvVGJQQVJKc1dXY2lEMnFSd2tQZl9tNThEVk54ZTFXTVE0bGhvcUV4NFhNQU5qY3dQdVlwaHZjTWZ5WWhyOWpLUWNXSXJlSVV2bE1wbjdmN0sxRXljeE9ob0d6eFJScVAyRThGTkQ5NlFzRWtKV1lhVmhpN1pNNVRnWi1yYXVQcnA5Nnk3cTE2Q0xYRXpqVGxlOGMtMmcwRnpjTkhoTkljR3RLLTJhcGxsc21rcVpUUHp2ME9kMHJmVzZuUmMiLCJpZCI6ImZjX1p3eWphcUgzR2ZhcGhiSVA5TDZ3VVFfNSJ9"
+  }
+ ],
+ "ai_overview": {
+  "page_token": "BtVSbXiczVZbcuo4EF3ArOP6JwHb2AmQKtctSXZABEIE4fL4ofxCdjB2wIADf7OXWdWsZmQbA05wbjIfU9NVSGqp1VK3-vjw51-e68___mPnrNev4R3PR1FUpkFAPbtsBgteD3e-yc8CL1yZzk_HU2yfo56yCbndVpE4M1QEznaVSbR70ZdNqTHTXx0DP9Xbt9GAcMluZWroof3CnL-9hPyUZ838h6QypRyWbb9sj5a-_TxrijIpVwSxXu7y-oIZgP9OqAYwayFrACw0Kl7KCyEAYaCdJhBKurMZGisEaPTgEpICV5iZMsEAQ5B4UaN9aWywgZ5aqLGfy9LKqyhKHAHAehTH6X4tnIPgQwxZEj5JRtFSEkqQadHZSlEI7NhOXh8A8FKKLwPPbnWUPkizlEovbtTUbAbkSJN798W3ZqIR0OzQPqEfHL8X5KNBFkAbiOxU3qKsaAXeWLFO5F3TMZPBKoxrGT3XhaB5rwVVMFAfNHHuqi42NssJhpOdoG0JbxrMzgt0y7amzlT4mehiRbwR6lK1dp2AyAyPKArPUWQtJpvepr988ubldhmKGYTQMQ6Uv77GdHQpRIgOpujjGjqVMAJHz3QJwFm6HkCqshetYJDLI6ICSF6zkc08YQDp-QufIILAJQi9v1oMIZChdnCsvLONzIRSeGErE_NjjB9qF6v06Cn3SUpc0dxEn7LTslJunBvHbllEDkmuCVGbuun2Tt4HPNNIdgxF7POUZfvgPo3wLXebZbKpg7HG3teds7jBPAkHp2dlrgfkPD_xtwVcEjhmO35dqIMvyMMXbBhkDlh5V_o5yMz9CjTuaxI0NfXhZiOVZGGr1drjSZtehkiwML7BNOb_CkQZD8Xpg8UgeowHvwcRIaiYh9LhiYdSEEFSACKcgugCD9mpRY6H8iBq5UH0KQ99H0SwGETwMxAFl0BECkGUJjgHojwP5QrhyEMnEH2fh_R_yUMJpuy0y5PS5oUWkpMmTkaT1rIZ9rxpVNPtTUndkg7drksE_JacZov13UK3vOupa93BSmu9s66nbCK4sy1uqfyoVKDtX6n61g2vOjr7K-n69Krh6v46ZGvcwlsFiqDfjHelV8FZh1spuBlLrbaHkbdSnS4aaWZv6I2ct8XEkB5cLJeGeKoP63Wh0a502yvZq1r7wcyUZ6OxRTXjqec0nBGW9Y7bV_fNemU96D0PVH-IbsXdpDbXvTEZB120uyXqptXuvIaotKp3l2Cv1lD37Ve0qj7WtFY1uVmo9ERzj8dm1ZBMbrEyFfaeMgWPBAwpIxE0BgSxqkUB-0XsdwuIBrnQ1Kd2uFUEyZjZLFemaVh1uSJyC7revSqyyIX-ShH_AVFUPHA",
+  "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=BtVSbXiczVZbcuo4EF3ArOP6JwHb2AmQKtctSXZABEIE4fL4ofxCdjB2wIADf7OXWdWsZmQbA05wbjIfU9NVSGqp1VK3-vjw51-e68___mPnrNev4R3PR1FUpkFAPbtsBgteD3e-yc8CL1yZzk_HU2yfo56yCbndVpE4M1QEznaVSbR70ZdNqTHTXx0DP9Xbt9GAcMluZWroof3CnL-9hPyUZ838h6QypRyWbb9sj5a-_TxrijIpVwSxXu7y-oIZgP9OqAYwayFrACw0Kl7KCyEAYaCdJhBKurMZGisEaPTgEpICV5iZMsEAQ5B4UaN9aWywgZ5aqLGfy9LKqyhKHAHAehTH6X4tnIPgQwxZEj5JRtFSEkqQadHZSlEI7NhOXh8A8FKKLwPPbnWUPkizlEovbtTUbAbkSJN798W3ZqIR0OzQPqEfHL8X5KNBFkAbiOxU3qKsaAXeWLFO5F3TMZPBKoxrGT3XhaB5rwVVMFAfNHHuqi42NssJhpOdoG0JbxrMzgt0y7amzlT4mehiRbwR6lK1dp2AyAyPKArPUWQtJpvepr988ubldhmKGYTQMQ6Uv77GdHQpRIgOpujjGjqVMAJHz3QJwFm6HkCqshetYJDLI6ICSF6zkc08YQDp-QufIILAJQi9v1oMIZChdnCsvLONzIRSeGErE_NjjB9qF6v06Cn3SUpc0dxEn7LTslJunBvHbllEDkmuCVGbuun2Tt4HPNNIdgxF7POUZfvgPo3wLXebZbKpg7HG3teds7jBPAkHp2dlrgfkPD_xtwVcEjhmO35dqIMvyMMXbBhkDlh5V_o5yMz9CjTuaxI0NfXhZiOVZGGr1drjSZtehkiwML7BNOb_CkQZD8Xpg8UgeowHvwcRIaiYh9LhiYdSEEFSACKcgugCD9mpRY6H8iBq5UH0KQ99H0SwGETwMxAFl0BECkGUJjgHojwP5QrhyEMnEH2fh_R_yUMJpuy0y5PS5oUWkpMmTkaT1rIZ9rxpVNPtTUndkg7drksE_JacZov13UK3vOupa93BSmu9s66nbCK4sy1uqfyoVKDtX6n61g2vOjr7K-n69Krh6v46ZGvcwlsFiqDfjHelV8FZh1spuBlLrbaHkbdSnS4aaWZv6I2ct8XEkB5cLJeGeKoP63Wh0a502yvZq1r7wcyUZ6OxRTXjqec0nBGW9Y7bV_fNemU96D0PVH-IbsXdpDbXvTEZB120uyXqptXuvIaotKp3l2Cv1lD37Ve0qj7WtFY1uVmo9ERzj8dm1ZBMbrEyFfaeMgWPBAwpIxE0BgSxqkUB-0XsdwuIBrnQ1Kd2uFUEyZjZLFemaVh1uSJyC7revSqyyIX-ShH_AVFUPHA"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Marching Giants",
+   "link": "https://www.giantbands.com/about-us/ensembles/marching-giants",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAVa_Shy7qWIYzB7qtK2ZIT0EIjZveG1at-KXtiopdhOD54IdlDh3mSlbU3bETX_RyEbvp3L7pZY9egxdZYKK8y6rJmgvAZC-fgEhkeA2c2IFWgQYqV3UyM2W1tpMSOWNDdLYWp92FFcZWc6CiR2xxsVQ&ved=2ahUKEwjhxpTg5uSWAxX2VEEAHXQfLAoQFnoECCQQAQ&uoh=1",
+   "displayed_link": "https://www.giantbands.com \u203a about-us \u203a ensembles",
+   "favicon": "https://serpapi.com/images/i/UklGRg4BAABXRUJQVlA4IAIBAACwBQCdASocABwAPrkurlcnIacnG_DgFwlmAM7t3AxbXNupR9BRZxvYE6aYjVRydEIFNXC4mAAA_vfjz2b7-kQXyne2JBDbMnYZrH8ZeXjx4RY36f7viLyL_GRVFKEKoQJfjXDfJ-k-qt_pkWR-lI8CgDXWoMr9rldapqhQGciAeAo1qmkMKzj2cei8vKCnomTpEyGyoFpXJy1HwMoDDb9PyRZSB---8yr0rrjWqLE6i0ANj_gMOtP9V0pmQHx2QJejBrHM1Ew-NNrZMbc-hN48S7SG_gCV8WRkBLUXPfmASp7cGaD9Uy-dHgQfw3c6t_-dzJdDTe48nkU4uknzYq6TAAA.webp",
+   "snippet": "Marching Band Requirements. \u2219 In order to be in the Ben Davis Marching Giants, you MUST be enrolled in a band or color guard class. This is a requirement.",
+   "snippet_highlighted_words": [
+    "Ben Davis Marching Giants"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Marching Band Requirements. \u2219 In order to be in the Ben Davis Marching Giants, you MUST be enrolled in a band or color guard class. This is a requirement.",
+     "source_info_link": "https://www.giantbands.com/about-us/ensembles/marching-giants",
+     "icon": "https://serpapi.com/images/i/UklGRg4BAABXRUJQVlA4IAIBAACwBQCdASocABwAPrkurlcnIacnG_DgFwlmAM7t3AxbXNupR9BRZxvYE6aYjVRydEIFNXC4mAAA_vfjz2b7-kQXyne2JBDbMnYZrH8ZeXjx4RY36f7viLyL_GRVFKEKoQJfjXDfJ-k-qt_pkWR-lI8CgDXWoMr9rldapqhQGciAeAo1qmkMKzj2cei8vKCnomTpEyGyoFpXJy1HwMoDDb9PyRZSB---8yr0rrjWqLE6i0ANj_gMOtP9V0pmQHx2QJejBrHM1Ew-NNrZMbc-hN48S7SG_gCV8WRkBLUXPfmASp7cGaD9Uy-dHgQfw3c6t_-dzJdDTe48nkU4uknzYq6TAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdQHrOzAVa_Shy7qWIYzB7qtK2ZIT0EIjZveG1at-KXtiopdhOD54IdlDh3mSlbU3bETX_RyEbvp3L7pZY9egxdZYKK8y6rJmgvAZC-fgEhkeA2c2IFWgQYqV3UyM2W1tpMSOWNDdLYWp92FFcZWc6CiR2xxsVQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdQHrOzAVa_Shy7qWIYzB7qtK2ZIT0EIjZveG1at-KXtiopdhOD54IdlDh3mSlbU3bETX_RyEbvp3L7pZY9egxdZYKK8y6rJmgvAZC-fgEhkeA2c2IFWgQYqV3UyM2W1tpMSOWNDdLYWp92FFcZWc6CiR2xxsVQ",
+   "source": "Ben Davis High School Bands",
+   "read_more_link": "https://www.giantbands.com/about-us/ensembles/marching-giants#:~:text=Marching%20Band%20Requirements,class.%20This%20is%20a%20requirement."
+  },
+  {
+   "position": 2,
+   "title": "Ben Davis Bands (@bendavisbands)",
+   "link": "https://www.facebook.com/bendavisbands/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXwHrOzAVHVb3_daUhI9-WHl8CzAHFLncMt2Eym6JIy51RRJOugcmSb1LC7xk8CA5jwT2dSHKjRD1duv7GnZ085iC6BSDwf_6FpTQHynAIqJstDAR2JIOeia5-01iMfpG&ved=2ahUKEwjhxpTg5uSWAxX2VEEAHXQfLAoQFnoECC0QAQ&uoh=1",
+   "displayed_link": "3.3K+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "snippet": "Catch your Ben Davis Marching Giants in State Fair Band Day FINALS! They ... 2026 Ben Davis Marching Giants Season Announcement. Enjoy the videos and ...",
+   "snippet_highlighted_words": [
+    "Ben Davis Marching Giants",
+    "Ben Davis Marching Giants"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Catch your Ben Davis Marching Giants in State Fair Band Day FINALS! They ... 2026 Ben Davis Marching Giants Season Announcement. Enjoy the videos and ...",
+     "source_info_link": "https://www.facebook.com/bendavisbands/",
+     "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESXwHrOzAVHVb3_daUhI9-WHl8CzAHFLncMt2Eym6JIy51RRJOugcmSb1LC7xk8CA5jwT2dSHKjRD1duv7GnZ085iC6BSDwf_6FpTQHynAIqJstDAR2JIOeia5-01iMfpG&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESXwHrOzAVHVb3_daUhI9-WHl8CzAHFLncMt2Eym6JIy51RRJOugcmSb1LC7xk8CA5jwT2dSHKjRD1duv7GnZ085iC6BSDwf_6FpTQHynAIqJstDAR2JIOeia5-01iMfpG",
+   "source": "Facebook \u00b7 Ben Davis Bands",
+   "read_more_link": "https://www.facebook.com/bendavisbands/#:~:text=Catch%20your%20Ben%20Davis%20Marching,They%20perform%20tonight%20at%2010%3A08pm&text=2026%20Ben%20Davis%20Marching%20Giants,music%20you%20love%2C%20upload%20origina..."
+  },
+  {
+   "position": 3,
+   "title": "Puzzled - Ben Davis Marching Giants",
+   "link": "https://inbands.com/bands/ben-davis-marching-giants/shows/puzzled-2025",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfgHrOzAVB7vYwfPdJdvb0IFMa6vzfmvo1MaS1Ur00yE00ld2l8XUzwkLoruFUhg5veEetaSMg-zQypGm3GlUuC6oM8l61x-HHktQNbeT5Nvf6HUSIoEFcmHy4SL1kYcDY16ys5QrbLUP4ZBjmxlD2QCoOjSA_D0ofYodtB_NyA&ved=2ahUKEwjhxpTg5uSWAxX2VEEAHXQfLAoQFnoECCwQAQ&uoh=1",
+   "displayed_link": "https://inbands.com \u203a bands \u203a shows \u203a puzzled-2025",
+   "snippet": "Ben Davis Marching Giants's 2025 show was entitled Puzzled / IN Bands is your source for Indiana marching band information.",
+   "snippet_highlighted_words": [
+    "Ben Davis Marching Giants's"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Ben Davis Marching Giants's 2025 show was entitled Puzzled / IN Bands is your source for Indiana marching band information.",
+     "source_info_link": "https://inbands.com/bands/ben-davis-marching-giants/shows/puzzled-2025"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESfgHrOzAVB7vYwfPdJdvb0IFMa6vzfmvo1MaS1Ur00yE00ld2l8XUzwkLoruFUhg5veEetaSMg-zQypGm3GlUuC6oM8l61x-HHktQNbeT5Nvf6HUSIoEFcmHy4SL1kYcDY16ys5QrbLUP4ZBjmxlD2QCoOjSA_D0ofYodtB_NyA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESfgHrOzAVB7vYwfPdJdvb0IFMa6vzfmvo1MaS1Ur00yE00ld2l8XUzwkLoruFUhg5veEetaSMg-zQypGm3GlUuC6oM8l61x-HHktQNbeT5Nvf6HUSIoEFcmHy4SL1kYcDY16ys5QrbLUP4ZBjmxlD2QCoOjSA_D0ofYodtB_NyA",
+   "source": "IN Bands"
+  },
+  {
+   "position": 4,
+   "title": "The Ben Davis High School Marching Giants present \u201cBeyond ...",
+   "link": "https://www.facebook.com/paigesmusicstore/videos/the-ben-davis-high-school-marching-giants-present-beyond-the-veil-featuring-he-l/1032538642887304/",
+   "displayed_link": "350+ reactions \u00b7 1 month ago",
+   "thumbnail": "https://serpapi.com/searches/6aa30c50fbbebb567b1a6994/images/AnVbX5plQ3UsheoHwNRf83Y_m015FhcbhLBMipnG9Vg.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "snippet": "I believe we can leave comments referring to the reputation Ben Davis Marching Giants used to have. We were so loud- it was AWESOME. 2d.",
+   "duration": "1:30",
+   "about_this_result": {
+    "source": {
+     "description": "I believe we can leave comments referring to the reputation Ben Davis Marching Giants used to have. We were so loud- it was AWESOME. 2d.",
+     "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESzAEB6zswFecQZMW_SM3dblOFzS4udItNOzLN2IoHCnmEYeCeYE9lT6IdVV_ssKLmwdVrdSx2vHkjnTaprhf624vrYtwFO4GxwIATUVV_oecxDmnqoRRTqF935HgpDndtPv8YDayahv6PRld0I7EHz5sHtVBoy2IyhxhvgZs2aWtWh1f3ABz_B55lry5LhefrUi-H2YoW3Y2Gti5kWmmvVwqwn2fULSyQ3AosJ-Bj75dn7vpnQUjEP80d56zOtwy68yxO-CeCw2PNp32NtUU&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESzAEB6zswFecQZMW_SM3dblOFzS4udItNOzLN2IoHCnmEYeCeYE9lT6IdVV_ssKLmwdVrdSx2vHkjnTaprhf624vrYtwFO4GxwIATUVV_oecxDmnqoRRTqF935HgpDndtPv8YDayahv6PRld0I7EHz5sHtVBoy2IyhxhvgZs2aWtWh1f3ABz_B55lry5LhefrUi-H2YoW3Y2Gti5kWmmvVwqwn2fULSyQ3AosJ-Bj75dn7vpnQUjEP80d56zOtwy68yxO-CeCw2PNp32NtUU",
+   "source": "Facebook \u00b7 Paige's Music"
+  },
+  {
+   "position": 5,
+   "title": "Ben Davis Marching Giants return to State Fair Band Day ...",
+   "link": "https://www.yahoo.com/lifestyle/articles/ben-davis-marching-giants-returns-232506323.html",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkQEB6zswFbrs5MPwJ_S1SVxCeDxx66gPRh0LnL6m3jHckSXXauQ2TgyvCN9Y2OtzKjE28KweyI20Tb97dykxGSzpPU8VIIR0vvCMZ_8Um24jtVZtByYHGA36yUM0lgipTVwkaLKrgIMtNAE_3S1xG76h4NhDJb1gz4ECWMqSMOIqMqb04J_KsIwufEU4HQAH13XU&ved=2ahUKEwjhxpTg5uSWAxX2VEEAHXQfLAoQFnoECDIQAQ&uoh=1",
+   "displayed_link": "https://www.yahoo.com \u203a lifestyle \u203a articles \u203a ben-davis...",
+   "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0y1Tw_rqeMyPAHiJa72CusnhawJMmBUuzLIMAAAP5EilGHfSrv1c3raO7TMHCGEE0tanMuC4V63zPenGYvtPz_5miYFkvaNxoWFtqMmi-ZsnEGEWLyTen-1PcFiwqmOBEDdA2Bm4NzFKD-TDXjhuG3e7uKnQ0zqZhi8wQIDft34vQCWtH1diJyyQZvVUQhczt9vEuHYtoxJ3Gi7pHK8HONj47luWPosGLQpyPC5T2PfP3NbGwe_c16iS8OYJQdl3kAK7Xu9_Hgx1RwHhh6AAA.webp",
+   "date": "Aug 7, 2026",
+   "snippet": "Ben Davis Marching Giants return to State Fair Band Day for first time in nearly 50 years | Inspiring Indiana. Ella Rhoades, WTHR.com staff.",
+   "snippet_highlighted_words": [
+    "Ben Davis Marching Giants"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Ben Davis Marching Giants return to State Fair Band Day for first time in nearly 50 years | Inspiring Indiana. Ella Rhoades, WTHR.com staff.",
+     "source_info_link": "https://www.yahoo.com/lifestyle/articles/ben-davis-marching-giants-returns-232506323.html",
+     "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0y1Tw_rqeMyPAHiJa72CusnhawJMmBUuzLIMAAAP5EilGHfSrv1c3raO7TMHCGEE0tanMuC4V63zPenGYvtPz_5miYFkvaNxoWFtqMmi-ZsnEGEWLyTen-1PcFiwqmOBEDdA2Bm4NzFKD-TDXjhuG3e7uKnQ0zqZhi8wQIDft34vQCWtH1diJyyQZvVUQhczt9vEuHYtoxJ3Gi7pHK8HONj47luWPosGLQpyPC5T2PfP3NbGwe_c16iS8OYJQdl3kAK7Xu9_Hgx1RwHhh6AAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESkQEB6zswFbrs5MPwJ_S1SVxCeDxx66gPRh0LnL6m3jHckSXXauQ2TgyvCN9Y2OtzKjE28KweyI20Tb97dykxGSzpPU8VIIR0vvCMZ_8Um24jtVZtByYHGA36yUM0lgipTVwkaLKrgIMtNAE_3S1xG76h4NhDJb1gz4ECWMqSMOIqMqb04J_KsIwufEU4HQAH13XU&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESkQEB6zswFbrs5MPwJ_S1SVxCeDxx66gPRh0LnL6m3jHckSXXauQ2TgyvCN9Y2OtzKjE28KweyI20Tb97dykxGSzpPU8VIIR0vvCMZ_8Um24jtVZtByYHGA36yUM0lgipTVwkaLKrgIMtNAE_3S1xG76h4NhDJb1gz4ECWMqSMOIqMqb04J_KsIwufEU4HQAH13XU",
+   "source": "Yahoo",
+   "read_more_link": "https://www.yahoo.com/lifestyle/articles/ben-davis-marching-giants-returns-232506323.html#:~:text=Ben%20Davis%20Marching%20Giants%20return,Ella%20Rhoades%2C%20WTHR.com%20staff"
+  },
+  {
+   "position": 6,
+   "title": "Ben Davis Bands (@bendavisbands)",
+   "link": "https://www.instagram.com/bendavisbands/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAVJ7sT7bDqJm83LbA2odrgNY_thMG0CfEUzYZCR9A31oroKEvtRsQ46xfRg3rm-GZLk56K7FRqVXzHnuvQydq0moHkMSJlyrmTUVx-1Xahbww3wkOs5-BpbgyqEQ&ved=2ahUKEwjhxpTg5uSWAxX2VEEAHXQfLAoQFnoECC4QAQ&uoh=1",
+   "displayed_link": "1.2K+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+   "snippet": "The Ben Davis Marching Giants are proud to present their 2025 program ...",
+   "snippet_highlighted_words": [
+    "Ben Davis Marching Giants"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The Ben Davis Marching Giants are proud to present their 2025 program ...",
+     "source_info_link": "https://www.instagram.com/bendavisbands/",
+     "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYAHrOzAVJ7sT7bDqJm83LbA2odrgNY_thMG0CfEUzYZCR9A31oroKEvtRsQ46xfRg3rm-GZLk56K7FRqVXzHnuvQydq0moHkMSJlyrmTUVx-1Xahbww3wkOs5-BpbgyqEQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYAHrOzAVJ7sT7bDqJm83LbA2odrgNY_thMG0CfEUzYZCR9A31oroKEvtRsQ46xfRg3rm-GZLk56K7FRqVXzHnuvQydq0moHkMSJlyrmTUVx-1Xahbww3wkOs5-BpbgyqEQ",
+   "source": "Instagram \u00b7 bendavisbands"
+  },
+  {
+   "position": 7,
+   "title": "Band has impressive return to state fair - Spotlight",
+   "link": "https://bdspotlight.com/showcase/2026/08/10/band-has-impressive-return-to-state-fair/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjQEB6zswFT-dC9uBbL0P6WksXat9AfEQDyehBG275EkXa7YSRnj6Hla90QU50nxcAjRVzLRC24p5D6KFCYDALoE2NE8c77FnQ5kKwwT1UydbsWrpH64EPURCc85jiPhrRWbXIxWvi7l10GG5d9qtra3da1Z4UJmb9CtfEhf7jU9jB5yOJKgE-3uCE78PKZc&ved=2ahUKEwjhxpTg5uSWAxX2VEEAHXQfLAoQFnoECDEQAQ&uoh=1",
+   "displayed_link": "https://bdspotlight.com \u203a showcase \u203a 2026/08/10 \u203a ban...",
+   "favicon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAABwBgCdASocABwAPtE-tFooIigoFAEAGglnAASZrzss7iav1QPRVDs1Z8_UTgCd5NSfEon_zGwaAQQG7AAA_vN0eQYaqdbiud9cigy--HDMzNkDMVvlLOie6FW716rkd2OujBmBx0Yl0pql5hacOG4DUCfXKaf_9TMEgGWQqz94XJRmgbZ7HSo21fKsu-cXFHx5_GIOvdF2vswEJ0vqG9GmfwUMYViRh5sv8hs7TXZg2XTRvw6gcOUn59aqIR2SCOVYn1-i_WG8hYcADTtf_OUWbDkPmG3oZu3gMO9_4azPrxBHxw2g-Ru7Ie-7EkySTYRd8Q2B3EWR-ohYSPFHOmuRinsreLfEJVgUlwWsjhG5Del-nrBz-__3_0ydTHhah-h78XI3jX3WMDz3TD-PpIBlkNKen3vw-K_8vnEQSBUHRbKv-jfDIAAA.webp",
+   "date": "Aug 10, 2026",
+   "snippet": "The Ben Davis Marching Giants performed at the Indiana State Fair for the first time in 53 years last Friday and won third place at finals ...",
+   "snippet_highlighted_words": [
+    "Ben Davis Marching Giants"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The Ben Davis Marching Giants performed at the Indiana State Fair for the first time in 53 years last Friday and won third place at finals ...",
+     "source_info_link": "https://bdspotlight.com/showcase/2026/08/10/band-has-impressive-return-to-state-fair/",
+     "icon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAABwBgCdASocABwAPtE-tFooIigoFAEAGglnAASZrzss7iav1QPRVDs1Z8_UTgCd5NSfEon_zGwaAQQG7AAA_vN0eQYaqdbiud9cigy--HDMzNkDMVvlLOie6FW716rkd2OujBmBx0Yl0pql5hacOG4DUCfXKaf_9TMEgGWQqz94XJRmgbZ7HSo21fKsu-cXFHx5_GIOvdF2vswEJ0vqG9GmfwUMYViRh5sv8hs7TXZg2XTRvw6gcOUn59aqIR2SCOVYn1-i_WG8hYcADTtf_OUWbDkPmG3oZu3gMO9_4azPrxBHxw2g-Ru7Ie-7EkySTYRd8Q2B3EWR-ohYSPFHOmuRinsreLfEJVgUlwWsjhG5Del-nrBz-__3_0ydTHhah-h78XI3jX3WMDz3TD-PpIBlkNKen3vw-K_8vnEQSBUHRbKv-jfDIAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESjQEB6zswFT-dC9uBbL0P6WksXat9AfEQDyehBG275EkXa7YSRnj6Hla90QU50nxcAjRVzLRC24p5D6KFCYDALoE2NE8c77FnQ5kKwwT1UydbsWrpH64EPURCc85jiPhrRWbXIxWvi7l10GG5d9qtra3da1Z4UJmb9CtfEhf7jU9jB5yOJKgE-3uCE78PKZc&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESjQEB6zswFT-dC9uBbL0P6WksXat9AfEQDyehBG275EkXa7YSRnj6Hla90QU50nxcAjRVzLRC24p5D6KFCYDALoE2NE8c77FnQ5kKwwT1UydbsWrpH64EPURCc85jiPhrRWbXIxWvi7l10GG5d9qtra3da1Z4UJmb9CtfEhf7jU9jB5yOJKgE-3uCE78PKZc",
+   "source": "bdspotlight.com"
+  },
+  {
+   "position": 8,
+   "title": "Ben Davis Marching Giants",
+   "link": "https://inbands.com/bands/ben-davis-marching-giants",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESawHrOzAVxfDaMgRAC3zuUYbvfXC1LgeFHjDna4yXtePxgU_LPVmFrwwjLArL7yM1D8cuDyB_KcnmDhaPjPk9Aw9wzsLUpGhqEPJuiB9KpNadN7cGnx9Ejk9hsVsmCoHufzAbcKKqhBKnlpcA&ved=2ahUKEwjhxpTg5uSWAxX2VEEAHXQfLAoQFnoECDAQAQ&uoh=1",
+   "displayed_link": "https://inbands.com \u203a bands \u203a ben-davis-marching-giants",
+   "snippet": "Shows ; 2026, Ben Davis Marching Giants 2026 ; 2025, Puzzled ; 2024, Whirlwind ; 2023, Squiggles, Stripes, and Style ; 2022, Modern Day Prometheus.",
+   "snippet_highlighted_words": [
+    "Ben Davis Marching Giants"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Shows ; 2026, Ben Davis Marching Giants 2026 ; 2025, Puzzled ; 2024, Whirlwind ; 2023, Squiggles, Stripes, and Style ; 2022, Modern Day Prometheus.",
+     "source_info_link": "https://inbands.com/bands/ben-davis-marching-giants"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESawHrOzAVxfDaMgRAC3zuUYbvfXC1LgeFHjDna4yXtePxgU_LPVmFrwwjLArL7yM1D8cuDyB_KcnmDhaPjPk9Aw9wzsLUpGhqEPJuiB9KpNadN7cGnx9Ejk9hsVsmCoHufzAbcKKqhBKnlpcA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESawHrOzAVxfDaMgRAC3zuUYbvfXC1LgeFHjDna4yXtePxgU_LPVmFrwwjLArL7yM1D8cuDyB_KcnmDhaPjPk9Aw9wzsLUpGhqEPJuiB9KpNadN7cGnx9Ejk9hsVsmCoHufzAbcKKqhBKnlpcA",
+   "source": "IN Bands",
+   "read_more_link": "https://inbands.com/bands/ben-davis-marching-giants#:~:text=Shows&text=2026,Ben%20Davis%20Marching%20Giants%202026&text=2025,Puzzled&text=2024,Whirlwind&text=2023,Squiggles%2C%20Stripes%2C%20and%20Style&text=2022,Modern%20Day%20Prometheus"
+  },
+  {
+   "position": 9,
+   "title": "Ben Davis High School Bands - Directors",
+   "link": "https://sites.google.com/wayne.k12.in.us/bendavisbands/about-us/directors",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sites.google.com/wayne.k12.in.us/bendavisbands/about-us/directors&ved=2ahUKEwjhxpTg5uSWAxX2VEEAHXQfLAoQFnoECC8QAQ",
+   "displayed_link": "https://sites.google.com \u203a bendavisbands \u203a about-us \u203a d...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAJ1BMVEVHcExHWLZHWLZHWLZHWLU4TLH___8xR7DKzeb29_s-UbOjqtbs7faJiFd3AAAABHRSTlMATdbaerUhWgAAAGdJREFUKJHVkjsWwCAIBBeViJj7nzehMA1iPl2mnULGtwDlMiURQHNlEFIsM2JXyr3k6uAhWZpD-JKb45nULo6u4yBlh75PsbfClPOSukcpJluU8gO56Fz-0McNBZM20nrUoGDWmXAAVuAP7H7fmaAAAAAASUVORK5CYII.png",
+   "snippet": "... Ben Davis Marching Giants. While he has been involved with numerous successful band and guard programs here in Indiana and around the country, it is Greg's ...",
+   "snippet_highlighted_words": [
+    "Ben Davis Marching Giants"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "... Ben Davis Marching Giants. While he has been involved with numerous successful band and guard programs here in Indiana and around the country, it is Greg's ...",
+     "source_info_link": "https://sites.google.com/wayne.k12.in.us/bendavisbands/about-us/directors",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAJ1BMVEVHcExHWLZHWLZHWLZHWLU4TLH___8xR7DKzeb29_s-UbOjqtbs7faJiFd3AAAABHRSTlMATdbaerUhWgAAAGdJREFUKJHVkjsWwCAIBBeViJj7nzehMA1iPl2mnULGtwDlMiURQHNlEFIsM2JXyr3k6uAhWZpD-JKb45nULo6u4yBlh75PsbfClPOSukcpJluU8gO56Fz-0McNBZM20nrUoGDWmXAAVuAP7H7fmaAAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://sites.google.com/wayne.k12.in.us/bendavisbands/about-us/directors&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fsites.google.com%2Fwayne.k12.in.us%2Fbendavisbands%2Fabout-us%2Fdirectors",
+   "source": "Google",
+   "read_more_link": "https://sites.google.com/wayne.k12.in.us/bendavisbands/about-us/directors#:~:text=Ben%20Davis%20Marching%20Giants.%20While,knowledge%20of%20the%20marching%20arts."
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Ben davis band calendar",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Ben+davis+band+calendar&sa=X&ved=2ahUKEwjhxpTg5uSWAxX2VEEAHXQfLAoQ1QJ6BAgpEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ben+davis+band+calendar"
+  },
+  {
+   "block_position": 1,
+   "query": "Ben Davis High School",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Ben+Davis+High+School&sa=X&ved=2ahUKEwjhxpTg5uSWAxX2VEEAHXQfLAoQ1QJ6BAgrEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ben+Davis+High+School"
+  },
+  {
+   "block_position": 1,
+   "query": "Ben Davis Calendar",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Ben+Davis+Calendar&sa=X&ved=2ahUKEwjhxpTg5uSWAxX2VEEAHXQfLAoQ1QJ6BAgqEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ben+Davis+Calendar"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Ben+Davis+Marching+Giants%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=ZwyjaqH3GfaphbIP9L6wUQ&start=10&sa=N&sstk=AS6-VmLUXBmVIj8BOsHredKlJzHTlvM_gMGHVeEaJolUlEUcOE0xJkloRf-LmvuDPbDeFUwXvq5Gn36_DOVZxdP68sEvg0QsR_zCog&ved=2ahUKEwjhxpTg5uSWAxX2VEEAHXQfLAoQ8NMDegQIMxAK",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Ben+Davis+Marching+Giants%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=ZwyjaqH3GfaphbIP9L6wUQ&start=10&sa=N&sstk=AS6-VmLUXBmVIj8BOsHredKlJzHTlvM_gMGHVeEaJolUlEUcOE0xJkloRf-LmvuDPbDeFUwXvq5Gn36_DOVZxdP68sEvg0QsR_zCog&ved=2ahUKEwjhxpTg5uSWAxX2VEEAHXQfLAoQ8tMDegQIMxAE",
+   "3": "https://www.google.com/search?q=%22Ben+Davis+Marching+Giants%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=ZwyjaqH3GfaphbIP9L6wUQ&start=20&sa=N&sstk=AS6-VmLUXBmVIj8BOsHredKlJzHTlvM_gMGHVeEaJolUlEUcOE0xJkloRf-LmvuDPbDeFUwXvq5Gn36_DOVZxdP68sEvg0QsR_zCog&ved=2ahUKEwjhxpTg5uSWAxX2VEEAHXQfLAoQ8tMDegQIMxAG",
+   "4": "https://www.google.com/search?q=%22Ben+Davis+Marching+Giants%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=ZwyjaqH3GfaphbIP9L6wUQ&start=30&sa=N&sstk=AS6-VmLUXBmVIj8BOsHredKlJzHTlvM_gMGHVeEaJolUlEUcOE0xJkloRf-LmvuDPbDeFUwXvq5Gn36_DOVZxdP68sEvg0QsR_zCog&ved=2ahUKEwjhxpTg5uSWAxX2VEEAHXQfLAoQ8tMDegQIMxAI"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Ben+Davis+Marching+Giants%22&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Ben+Davis+Marching+Giants%22&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Ben+Davis+Marching+Giants%22&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Ben+Davis+Marching+Giants%22&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Ben+Davis+Marching+Giants%22&start=30"
+  }
+ }
+}

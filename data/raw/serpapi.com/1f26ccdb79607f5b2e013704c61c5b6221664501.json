@@ -1,0 +1,451 @@
+{
+ "search_information": {
+  "query_displayed": "\"Niceville High School\" Florida",
+  "total_results": 51200,
+  "time_taken_displayed": 0.32,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Niceville High School",
+  "type": "High school in Niceville, Florida",
+  "entity_type": "local_nav",
+  "kgmid": "/g/11ltfqc2n3",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/g/11ltfqc2n3&hl=en-US&q=Niceville+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fg%2F11ltfqc2n3&q=Niceville+High+School",
+  "place_id": "ChIJW9GrEABpkYgRgU0dqAYeJ0o",
+  "website": "https://www.okaloosaschools.com/o/niceville",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa30ad56372f3395717b82e/images/6uJVDpET8NNRgU67_Ar2SqvqEG-_dQxH-hWwpwvUJMg.webp",
+   "link": "https://www.google.com/maps/place/Niceville+High+School/data=!4m2!3m1!1s0x0:0x4a271e06a81d4d81?sa=X&ved=2ahUKEwjnrcqm5eSWAxWWhIQIHVUpC5gQ_BJ6BAgOEAA&hl=en&gl=us"
+  },
+  "address": "800 E John Sims Pkwy, Niceville, FL 32578",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnt5XJzsQ2e-FI4-f3xaQf0CK9Upzg:1789070050245&q=niceville+high+school+address&ludocid=5343272496837512577&sa=X&ved=2ahUKEwjnrcqm5eSWAxWWhIQIHVUpC5gQ6BN6BAghEAI"
+   }
+  ],
+  "phone": "(850) 833-4114",
+  "raw_hours": "Closed \u00b7 Opens 7 AM Fri",
+  "hours": {
+   "thursday": {
+    "opens": "7\u202fAM",
+    "closes": "2\u202fPM"
+   },
+   "friday": {
+    "opens": "7\u202fAM",
+    "closes": "2\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "Closed"
+   },
+   "tuesday": {
+    "opens": "7\u202fAM",
+    "closes": "2\u202fPM"
+   },
+   "wednesday": {
+    "opens": "7\u202fAM",
+    "closes": "2\u202fPM"
+   }
+  },
+  "unclaimed_listing": true,
+  "people_also_search_for": [
+   {
+    "name": "Crestview High School",
+    "image": "https://serpapi.com/searches/6aa30ad56372f3395717b82e/images/6uJVDpET8NNRgU67_Ar2Sl2S8dToOTkRntytxBZyHjPCn40suX02UceY4FSzV0_x.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnt5XJzsQ2e-FI4-f3xaQf0CK9Upzg:1789070050245&si=APenkKnTl1SNyGw93eJictriFKjA8wrAY1gKp22d_AvA68HEcligPvjDhU7KPG5CwMFYzotJDv6JUMVh_gsZSDwBrdk1O2nAXAeH3FaXKXfsYNfagXNOIS3MCpGsbitDwi7NT2d2sju1GuLi6nye32MuC_QPxgfOZrS0ZKwNp8Wzzm2Lk-4OozkjM4qEyNCWCAdwk5aUsQ_S7n5SMtiDJAFDrhStu0uLozrMSSowDdGBWiYVYcMmlwqHAju0674dvPecomzjzQeFeN_bo7pXBksLqwtmK350HJo3e1R1LaHXG5ue1vFudYfzxA5l-s7V-wA1JswuVRDe&q=Crestview+High+School&sa=X&ved=2ahUKEwjnrcqm5eSWAxWWhIQIHVUpC5gQs9oBKAB6BAgdEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crestview+High+School&si=APenkKnTl1SNyGw93eJictriFKjA8wrAY1gKp22d_AvA68HEcligPvjDhU7KPG5CwMFYzotJDv6JUMVh_gsZSDwBrdk1O2nAXAeH3FaXKXfsYNfagXNOIS3MCpGsbitDwi7NT2d2sju1GuLi6nye32MuC_QPxgfOZrS0ZKwNp8Wzzm2Lk-4OozkjM4qEyNCWCAdwk5aUsQ_S7n5SMtiDJAFDrhStu0uLozrMSSowDdGBWiYVYcMmlwqHAju0674dvPecomzjzQeFeN_bo7pXBksLqwtmK350HJo3e1R1LaHXG5ue1vFudYfzxA5l-s7V-wA1JswuVRDe"
+   },
+   {
+    "name": "Choctawhatchee High School",
+    "image": "https://serpapi.com/searches/6aa30ad56372f3395717b82e/images/6uJVDpET8NNRgU67_Ar2Sl2S8dToOTkRntytxBZyHjNOLO6zL-1AI8S9b1QJpTnu.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnt5XJzsQ2e-FI4-f3xaQf0CK9Upzg:1789070050245&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yQWqpYcyDM9xg9Ifj8NxIZuM7QW-kuJuUma7DPPpJ5mg1QkNdpsGJDSuMUEw9hCjVFqFiEn-0bqASnN_tC3OA6UuqbXAe5wGXS5h-SI-vYr82AZQd9VxU5SE_UGT7nAeVae7c0MRDne_FxhkSO6bb3KoBbuVI3bhgZfkxghs7Da8N9YaXJDVrSx-p6pdcExdMXYLwgVQ59GljyaicNXdKGY9rAVhZa6KLJ8cdKfbiity4-vUGl6xW_roDm7nTe8Dj2feQiDtSBMYWD8eafNTe2A_xBg2&q=Choctawhatchee+High+School&sa=X&ved=2ahUKEwjnrcqm5eSWAxWWhIQIHVUpC5gQs9oBKAB6BAgdEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Choctawhatchee+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yQWqpYcyDM9xg9Ifj8NxIZuM7QW-kuJuUma7DPPpJ5mg1QkNdpsGJDSuMUEw9hCjVFqFiEn-0bqASnN_tC3OA6UuqbXAe5wGXS5h-SI-vYr82AZQd9VxU5SE_UGT7nAeVae7c0MRDne_FxhkSO6bb3KoBbuVI3bhgZfkxghs7Da8N9YaXJDVrSx-p6pdcExdMXYLwgVQ59GljyaicNXdKGY9rAVhZa6KLJ8cdKfbiity4-vUGl6xW_roDm7nTe8Dj2feQiDtSBMYWD8eafNTe2A_xBg2"
+   },
+   {
+    "name": "Baker High School",
+    "image": "https://serpapi.com/searches/6aa30ad56372f3395717b82e/images/6uJVDpET8NNRgU67_Ar2Sl2S8dToOTkRntytxBZyHjPIFApgsPS-nTLmRR-KFJpY.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnt5XJzsQ2e-FI4-f3xaQf0CK9Upzg:1789070050245&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW671c-QquzhJ0FIwmOmRtIAbFaP1vcdXFDegOYf8K4bwAdiiHYmS1s8gkJLZq6EWZwfGdOYypME8d_m4pvNcQZYZznpmh459V2s_wTWAXbqCCQMBv9OQeTNPg4-8v5ZK15-aIwD5IUFm4wVjEVaVxSA__oxrPsXvr-a4N5x1KFCM14FJFjnC_-XGV7QtJUfUiY0qGja48LNyegCzAIiIy-uW7-gJ73BR3Z-5aUIqeFyV4aVuoYOpQeT1bdYpFVBWoQ2R8yMMjda7iXOaZjXUSD_bepkyPU&q=Baker+School&sa=X&ved=2ahUKEwjnrcqm5eSWAxWWhIQIHVUpC5gQs9oBKAB6BAgdEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Baker+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW671c-QquzhJ0FIwmOmRtIAbFaP1vcdXFDegOYf8K4bwAdiiHYmS1s8gkJLZq6EWZwfGdOYypME8d_m4pvNcQZYZznpmh459V2s_wTWAXbqCCQMBv9OQeTNPg4-8v5ZK15-aIwD5IUFm4wVjEVaVxSA__oxrPsXvr-a4N5x1KFCM14FJFjnC_-XGV7QtJUfUiY0qGja48LNyegCzAIiIy-uW7-gJ73BR3Z-5aUIqeFyV4aVuoYOpQeT1bdYpFVBWoQ2R8yMMjda7iXOaZjXUSD_bepkyPU"
+   },
+   {
+    "name": "Laurel Hill School",
+    "image": "https://serpapi.com/searches/6aa30ad56372f3395717b82e/images/6uJVDpET8NNRgU67_Ar2Sl2S8dToOTkRntytxBZyHjMgU4XEAacyt-7p8pr9xG2d.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnt5XJzsQ2e-FI4-f3xaQf0CK9Upzg:1789070050245&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67xykyWsAbSDGUSqWQjRo6Bgvux4lYpjjBy3Ux_6IG3-bFjTEFSeTW15RIund9YlJI-9dnEwrk8mfW61yxKAAoAOgwK1M-VvvdS8d2E-3TCbaxsacf_jdc1fcIvCswru1ILmQD6fAvonpKDCJYt596A-KcNKmE52vk1dCryEDAmQUeqcuuD9Tf-MOh8w552lCDb9KPGCGton9xNFhej1IpnoMEp3Hz7CrgoloaF80Whl7_kAbeVDyxSxSK8hZD4HeGMIvjy3R7k40pjRXLtyctvvuAj8z&q=Laurel+Hill+School&sa=X&ved=2ahUKEwjnrcqm5eSWAxWWhIQIHVUpC5gQs9oBKAB6BAgdEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Laurel+Hill+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67xykyWsAbSDGUSqWQjRo6Bgvux4lYpjjBy3Ux_6IG3-bFjTEFSeTW15RIund9YlJI-9dnEwrk8mfW61yxKAAoAOgwK1M-VvvdS8d2E-3TCbaxsacf_jdc1fcIvCswru1ILmQD6fAvonpKDCJYt596A-KcNKmE52vk1dCryEDAmQUeqcuuD9Tf-MOh8w552lCDb9KPGCGton9xNFhej1IpnoMEp3Hz7CrgoloaF80Whl7_kAbeVDyxSxSK8hZD4HeGMIvjy3R7k40pjRXLtyctvvuAj8z"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnt5XJzsQ2e-FI4-f3xaQf0CK9Upzg:1789070050245&q=Niceville+High+School&stick=H4sIAAAAAAAAAONgFuLVT9c3NMwpSStMNsozVkLlagkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axCrql5mcWpaZA5TzyEzPUAhOzsjPz9nByniLTZLhjUNFYC5fU-eScMNDrNqLNkckBdukh30_DgDVPNu-gwAAAA&sa=X&ved=2ahUKEwjnrcqm5eSWAxWWhIQIHVUpC5gQzO0BKAR6BAgdEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLVT9c3NMwpSStMNsozVkLlagkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axCrql5mcWpaZA5TzyEzPUAhOzsjPz9nByniLTZLhjUNFYC5fU-eScMNDrNqLNkckBdukh30_DgDVPNu-gwAAAA",
+  "profiles": [
+   {
+    "name": "X (Twitter)",
+    "link": "https://twitter.com/nhseagles1",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Niceville+High+School%22+Florida",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAABhUlEQVR4AczOA6xcARCF4X_us23btuLUQR3WZlhbQW3bto2gtm3b2J3GN4tY74uHh3okOi42Nj4AAUDwTvDEhisABCOAEAzYTBh0bN-lc5d0QgAhHPqX4Y4pkd367Zc-xMcXCPDg8TPwxeQH724Uj9N95GJ4pnHxby1xgCmV3v-GsFb7k0Iee7UjaQgmIYe9v9O4-wUKWaATyMPAViwvr1NnOQWDdTV5CHYSaKWLmaGDyvU4mTgQcllracaFr-9uk-yLM8k8fAJff0IUTghRVFu3M1ynkYk4nchiqqU3Ry05RDibMMhjtj6Ht3dJxVk_l1G64cspOusychBsCWm01WNM0jFs0sbEYUtIIuTXNco588OLh09JxE6wweuXEAvfL9PQus3-iU80N34KCaQyUOcxTTuSjEmMRI5rS9JwIZfD1t7ceo34YIpnuQ4nGwP8XXlq_fJZd9jE8KBHC5IwAELJ7dWrZ6fOuNhkgFgAEEIAwA1MQkw0AgDC_wnKycrKSQ2iPAkAVyNzq8rxicIAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/nhseagles1",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Niceville+High+School%22+Florida",
+    "image": "https://serpapi.com/searches/6aa30ad56372f3395717b82e/images/6uJVDpET8NNRgU67_Ar2SpQqmFVoRsBNJ7iwNjU9m7ZXsLEwJJqIVG0Z1ODX4hIg.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "What celebrities went to Niceville High School?",
+   "type": "ai_overview",
+   "page_token": "0Thk13icHdBRbpswAABQ7TL9bGycdmukqBLDQBgQYWND_FMZOwkhBtwUxSR_vcLOsFP1NJt2g6f3-cechvPXt9_tNNmP1WLhnHs8juPR7B_V2C_kx21QCyWNaaQ6r56_P8PXg1rjq_J_XpRfMGt5QACtcibPs913huxNmDJgZg2NX_W5l4Ui2pZq2tb-kg0WUEQkRySljJiy5zcZJbDBeNmgDNBh4-1PsC8AjOVdtxLg5TbQYY3wUsQmZYY4XuYt6_gsegeVZ0HWJVeCOaUhHyu2mRoY-rnHeQ2TIe9IVN-TormLLg_0L41GoAKRlTyxVbxDJd48MZgzUep_mpeLKpkTOMEZ0pMMzHsT-2mJjBMRtPT8Y2YxT3CrgEDh-67mJsPE7Zi9aBMWWUVShbQv5_FUMHJXnekZFH5a2ZCb4ka6NqEBT-jApYR-pD29pfCFavdwUNc1evh_vX479NPKXsbjXykfi3c",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=0Thk13icHdBRbpswAABQ7TL9bGycdmukqBLDQBgQYWND_FMZOwkhBtwUxSR_vcLOsFP1NJt2g6f3-cechvPXt9_tNNmP1WLhnHs8juPR7B_V2C_kx21QCyWNaaQ6r56_P8PXg1rjq_J_XpRfMGt5QACtcibPs913huxNmDJgZg2NX_W5l4Ui2pZq2tb-kg0WUEQkRySljJiy5zcZJbDBeNmgDNBh4-1PsC8AjOVdtxLg5TbQYY3wUsQmZYY4XuYt6_gsegeVZ0HWJVeCOaUhHyu2mRoY-rnHeQ2TIe9IVN-TormLLg_0L41GoAKRlTyxVbxDJd48MZgzUep_mpeLKpkTOMEZ0pMMzHsT-2mJjBMRtPT8Y2YxT3CrgEDh-67mJsPE7Zi9aBMWWUVShbQv5_FUMHJXnekZFH5a2ZCb4ka6NqEBT-jApYR-pD29pfCFavdwUNc1evh_vX479NPKXsbjXykfi3c",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk5YazJPR2xYYmpadE1VMWlZbGR4UjJ4RE4wVjVaMjFtYXpRNGNYQk1UMjFHTUhCSVlscHlVbWhhZWxkSU9HRmtWVE53YzJwV1dFVm1VVzlqUW00MVZrMXlSblprUkZKWGRIWjJUVFJDTkZsRGEwUlRNbTU1VUV4a1p4SVhOR2R4YW1GMVpUQkVjR0ZLYTNaUlVERmtTM04zUVdzYUlrRkVjM0k1WmxKSmVrMXlRMEZNVkZaaU5VNHROMmgyUm5nMWVWRjRObDlGVTNjIiwiZmN2IjoiMyIsImVpIjoiNGdxamF1ZTBEcGFKa3ZRUDFkS3N3QWsiLCJxYyI6IkNoMXVhV05sZG1sc2JHVWdhR2xuYUNCelkyaHZiMndnWm14dmNtbGtZUkFBZlRiQVpUOCIsInF1ZXN0aW9uIjoiV2hhdCBjZWxlYnJpdGllcyB3ZW50IHRvIE5pY2V2aWxsZSBIaWdoIFNjaG9vbD8iLCJsayI6IkdpNTNhR0YwSUdObGJHVmljbWwwYVdWeklIZGxiblFnZEc4Z2JtbGpaWFpwYkd4bElHaHBaMmdnYzJOb2IyOXMiLCJicyI6ImMzV1BNUXZDTUJDRmNiM0p1ZE9KcUp1S3JvSmI2U0FGY1hBVFluSTJoekdSSkZyNjc3VlZpME03M191LTl3NGtMSTVhUkpSazZPdzVNZ1VzeVVhTURuT1c5R1JqQ0RNdU5CNmtkczVzVjh0a1h2WWh0a1YwallRR2dST3NteElPM2M1WlFDX3NsVzJCYkRFMXpyTVMyOVVzbVhUNjJ2RGxrd1FKbTZOMktEeGhjRGZDUE4zaDNZaUtfSHRaZllpUnJDTFY5OUU0R1hVWDJZdjVpV0FQMDh5VmVCTzJ3aEFmNnYxeC1Kcl92WWRtdC01TF92V0U0ZUFGIiwiaWQiOiJmY180Z3FqYXVlMERwYUprdlFQMWRLc3dBa181In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk5YazJPR2xYYmpadE1VMWlZbGR4UjJ4RE4wVjVaMjFtYXpRNGNYQk1UMjFHTUhCSVlscHlVbWhhZWxkSU9HRmtWVE53YzJwV1dFVm1VVzlqUW00MVZrMXlSblprUkZKWGRIWjJUVFJDTkZsRGEwUlRNbTU1VUV4a1p4SVhOR2R4YW1GMVpUQkVjR0ZLYTNaUlVERmtTM04zUVdzYUlrRkVjM0k1WmxKSmVrMXlRMEZNVkZaaU5VNHROMmgyUm5nMWVWRjRObDlGVTNjIiwiZmN2IjoiMyIsImVpIjoiNGdxamF1ZTBEcGFKa3ZRUDFkS3N3QWsiLCJxYyI6IkNoMXVhV05sZG1sc2JHVWdhR2xuYUNCelkyaHZiMndnWm14dmNtbGtZUkFBZlRiQVpUOCIsInF1ZXN0aW9uIjoiV2hhdCBjZWxlYnJpdGllcyB3ZW50IHRvIE5pY2V2aWxsZSBIaWdoIFNjaG9vbD8iLCJsayI6IkdpNTNhR0YwSUdObGJHVmljbWwwYVdWeklIZGxiblFnZEc4Z2JtbGpaWFpwYkd4bElHaHBaMmdnYzJOb2IyOXMiLCJicyI6ImMzV1BNUXZDTUJDRmNiM0p1ZE9KcUp1S3JvSmI2U0FGY1hBVFluSTJoekdSSkZyNjc3VlZpME03M191LTl3NGtMSTVhUkpSazZPdzVNZ1VzeVVhTURuT1c5R1JqQ0RNdU5CNmtkczVzVjh0a1h2WWh0a1YwallRR2dST3NteElPM2M1WlFDX3NsVzJCYkRFMXpyTVMyOVVzbVhUNjJ2RGxrd1FKbTZOMktEeGhjRGZDUE4zaDNZaUtfSHRaZllpUnJDTFY5OUU0R1hVWDJZdjVpV0FQMDh5VmVCTzJ3aEFmNnYxeC1Kcl92WWRtdC01TF92V0U0ZUFGIiwiaWQiOiJmY180Z3FqYXVlMERwYUprdlFQMWRLc3dBa181In0%3D"
+  },
+  {
+   "question": "What is Niceville High School's ranking in Florida?",
+   "type": "ai_overview",
+   "page_token": "d1sidXicHdBRcqIwAADQ2cv0s5KkdldnnJ3BEqktOAkkwfx0IAHRBEmFFeGvV-gZeqo9TWf6jvA-vuzxbP7_-qz73nXL2WwYhvtD2x5sea_aZpZ341nNVG5tkSuzfPz9CP5WahVclb--KJ8w5_gT9RK-GEUCjnryBzbhSYjtFEMQ7TbuVDIKypO_S5o4LHF822VmKGAHOPZ9aeJ_wswrPtXPUVZfC7hgGeznJddhugYvUVpXkdfDYgR43zhGDG34hkstcJdyglIGIomtKEL5UD7JMWbAUGgDDRbb2LiIhXSzZy3KkUUU6FRPdaeP3sDsH6SsficNXueQB4zdYJ7hITeS5ymPIxHPY8vGxPovmYedSDzIQx-yc-AFtfIkwu_7jNsooMOeuYu2mESCviqk_fzWHgmjkzrZhjXbUcP6rDgmEurnwtL-VWwBQVSWxqVyc5sTclep6wrd_Vyv3qqmX7pLe_gGKiGMjg",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=d1sidXicHdBRcqIwAADQ2cv0s5KkdldnnJ3BEqktOAkkwfx0IAHRBEmFFeGvV-gZeqo9TWf6jvA-vuzxbP7_-qz73nXL2WwYhvtD2x5sea_aZpZ341nNVG5tkSuzfPz9CP5WahVclb--KJ8w5_gT9RK-GEUCjnryBzbhSYjtFEMQ7TbuVDIKypO_S5o4LHF822VmKGAHOPZ9aeJ_wswrPtXPUVZfC7hgGeznJddhugYvUVpXkdfDYgR43zhGDG34hkstcJdyglIGIomtKEL5UD7JMWbAUGgDDRbb2LiIhXSzZy3KkUUU6FRPdaeP3sDsH6SsficNXueQB4zdYJ7hITeS5ymPIxHPY8vGxPovmYedSDzIQx-yc-AFtfIkwu_7jNsooMOeuYu2mESCviqk_fzWHgmjkzrZhjXbUcP6rDgmEurnwtL-VWwBQVSWxqVyc5sTclep6wrd_Vyv3qqmX7pLe_gGKiGMjg",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk5YazJPR2xYYmpadE1VMWlZbGR4UjJ4RE4wVjVaMjFtYXpRNGNYQk1UMjFHTUhCSVlscHlVbWhhZWxkSU9HRmtWVE53YzJwV1dFVm1VVzlqUW00MVZrMXlSblprUkZKWGRIWjJUVFJDTkZsRGEwUlRNbTU1VUV4a1p4SVhOR2R4YW1GMVpUQkVjR0ZLYTNaUlVERmtTM04zUVdzYUlrRkVjM0k1WmxKSmVrMXlRMEZNVkZaaU5VNHROMmgyUm5nMWVWRjRObDlGVTNjIiwiZmN2IjoiMyIsImVpIjoiNGdxamF1ZTBEcGFKa3ZRUDFkS3N3QWsiLCJxYyI6IkNoMXVhV05sZG1sc2JHVWdhR2xuYUNCelkyaHZiMndnWm14dmNtbGtZUkFBZlRiQVpUOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyBOaWNldmlsbGUgSGlnaCBTY2hvb2wncyByYW5raW5nIGluIEZsb3JpZGE/IiwibGsiOiJHaVZ1YVdObGRtbHNiR1VnYUdsbmFDQnpZMmh2YjJ3Z2NtRnVhMmx1WnlCbWJHOXlhV1JoIiwiYnMiOiJjM1dQTVF2Q01CQ0ZjYjNKdWRPSnFKdUtyb0piNlNBRmNYQVRZbkkyaHpHUkpGcjY3N1ZWaTBNNzNfdS05dzRrTEk1YVJKUms2T3c1TWdVc3lVYU1Ebk9XOUdSakNETXVOQjZrZHM1c1Y4dGtYdllodGtWMGpZUUdnUk9zbXhJTzNjNVpRQ19zbFcyQmJERTF6ck1TMjlVc21YVDYydkRsa3dRSm02TjJLRHhoY0RmQ1BOM2gzWWlLX0h0WmZZaVJyQ0xWOTlFNEdYVVgyWXY1aVdBUDA4eVZlQk8yd2hBZjZ2MXgtSnJfdllkbXQtNUxfdldFNGVBRiIsImlkIjoiZmNfNGdxamF1ZTBEcGFKa3ZRUDFkS3N3QWtfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk5YazJPR2xYYmpadE1VMWlZbGR4UjJ4RE4wVjVaMjFtYXpRNGNYQk1UMjFHTUhCSVlscHlVbWhhZWxkSU9HRmtWVE53YzJwV1dFVm1VVzlqUW00MVZrMXlSblprUkZKWGRIWjJUVFJDTkZsRGEwUlRNbTU1VUV4a1p4SVhOR2R4YW1GMVpUQkVjR0ZLYTNaUlVERmtTM04zUVdzYUlrRkVjM0k1WmxKSmVrMXlRMEZNVkZaaU5VNHROMmgyUm5nMWVWRjRObDlGVTNjIiwiZmN2IjoiMyIsImVpIjoiNGdxamF1ZTBEcGFKa3ZRUDFkS3N3QWsiLCJxYyI6IkNoMXVhV05sZG1sc2JHVWdhR2xuYUNCelkyaHZiMndnWm14dmNtbGtZUkFBZlRiQVpUOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyBOaWNldmlsbGUgSGlnaCBTY2hvb2wncyByYW5raW5nIGluIEZsb3JpZGE%2FIiwibGsiOiJHaVZ1YVdObGRtbHNiR1VnYUdsbmFDQnpZMmh2YjJ3Z2NtRnVhMmx1WnlCbWJHOXlhV1JoIiwiYnMiOiJjM1dQTVF2Q01CQ0ZjYjNKdWRPSnFKdUtyb0piNlNBRmNYQVRZbkkyaHpHUkpGcjY3N1ZWaTBNNzNfdS05dzRrTEk1YVJKUms2T3c1TWdVc3lVYU1Ebk9XOUdSakNETXVOQjZrZHM1c1Y4dGtYdllodGtWMGpZUUdnUk9zbXhJTzNjNVpRQ19zbFcyQmJERTF6ck1TMjlVc21YVDYydkRsa3dRSm02TjJLRHhoY0RmQ1BOM2gzWWlLX0h0WmZZaVJyQ0xWOTlFNEdYVVgyWXY1aVdBUDA4eVZlQk8yd2hBZjZ2MXgtSnJfdllkbXQtNUxfdldFNGVBRiIsImlkIjoiZmNfNGdxamF1ZTBEcGFKa3ZRUDFkS3N3QWtfNSJ9"
+  },
+  {
+   "question": "Who are some NFL players who attended Niceville High School?",
+   "type": "ai_overview",
+   "page_token": "J4ZPYnicHdBdboIwAADg7DJ7VLD708Qsom1A1xpaWqAvC7YqgyJVGQhvu8tOtdNs2QW-h-_r23ycyp-7Nm8ae52Nx13XjY51fTT7kaqrcXbtT2qsMmN2mSpnT89P7utBzeFn4C3PgRdya8WKOszJ0xQEXQRFJxMqIxdtJJDNWyzolqMWJ2vAzbTSju1xIuze9wQTiwb7pmcDKrPJy4QJAyKYdjsXhSKGgKEAMF_dNFwvmbEOL0igI29QQLQ41n4WNwNdmQ0pNFYgp4Sjmgi7Ur27ZQV2UgdtSCkbDg3dFarniSijMicZmjr7-HEdnkqgBWljIY2MqEuqNfnzyzShHsyVIwE6p4kwGNIu5faiDQpxTN8U0F52qz9CTgdVmIpPJGRm0XHgIZxQpnyTRb6uoyF_2A1BkwLihuH9QbVzcP__OX8_VM3MXurjL5s8gu0",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=J4ZPYnicHdBdboIwAADg7DJ7VLD708Qsom1A1xpaWqAvC7YqgyJVGQhvu8tOtdNs2QW-h-_r23ycyp-7Nm8ae52Nx13XjY51fTT7kaqrcXbtT2qsMmN2mSpnT89P7utBzeFn4C3PgRdya8WKOszJ0xQEXQRFJxMqIxdtJJDNWyzolqMWJ2vAzbTSju1xIuze9wQTiwb7pmcDKrPJy4QJAyKYdjsXhSKGgKEAMF_dNFwvmbEOL0igI29QQLQ41n4WNwNdmQ0pNFYgp4Sjmgi7Ur27ZQV2UgdtSCkbDg3dFarniSijMicZmjr7-HEdnkqgBWljIY2MqEuqNfnzyzShHsyVIwE6p4kwGNIu5faiDQpxTN8U0F52qz9CTgdVmIpPJGRm0XHgIZxQpnyTRb6uoyF_2A1BkwLihuH9QbVzcP__OX8_VM3MXurjL5s8gu0",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk5YazJPR2xYYmpadE1VMWlZbGR4UjJ4RE4wVjVaMjFtYXpRNGNYQk1UMjFHTUhCSVlscHlVbWhhZWxkSU9HRmtWVE53YzJwV1dFVm1VVzlqUW00MVZrMXlSblprUkZKWGRIWjJUVFJDTkZsRGEwUlRNbTU1VUV4a1p4SVhOR2R4YW1GMVpUQkVjR0ZLYTNaUlVERmtTM04zUVdzYUlrRkVjM0k1WmxKSmVrMXlRMEZNVkZaaU5VNHROMmgyUm5nMWVWRjRObDlGVTNjIiwiZmN2IjoiMyIsImVpIjoiNGdxamF1ZTBEcGFKa3ZRUDFkS3N3QWsiLCJxYyI6IkNoMXVhV05sZG1sc2JHVWdhR2xuYUNCelkyaHZiMndnWm14dmNtbGtZUkFBZlRiQVpUOCIsInF1ZXN0aW9uIjoiV2hvIGFyZSBzb21lIE5GTCBwbGF5ZXJzIHdobyBhdHRlbmRlZCBOaWNldmlsbGUgSGlnaCBTY2hvb2w/IiwibGsiOiJHaUZ1YVdObGRtbHNiR1VnYUdsbmFDQnpZMmh2YjJ3Z2JtWnNJSEJzWVhsbGNuTSIsImJzIjoiYzNXUE1RdkNNQkNGY2IzSnVkT0pxSnVLcm9KYjZTQUZjWEFUWW5JMmh6R1JKRnI2NzdWVmkwTTczX3UtOXc0a0xJNWFSSlJrNk93NU1nVXN5VWFNRG5PVzlHUmpDRE11TkI2a2RzNXNWOHRrWHZZaHRrVjBqWVFHZ1JPc214SU8zYzVaUUNfc2xXMkJiREUxenJNUzI5VXNtWFQ2MnZEbGt3UUptNk4yS0R4aGNEZkNQTjNoM1lpS19IdFpmWWlSckNMVjk5RTRHWFVYMll2NWlXQVAwOHlWZUJPMndoQWY2djF4LUpyX3ZZZG10LTVMX3ZXRTRlQUYiLCJpZCI6ImZjXzRncWphdWUwRHBhSmt2UVAxZEtzd0FrXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk5YazJPR2xYYmpadE1VMWlZbGR4UjJ4RE4wVjVaMjFtYXpRNGNYQk1UMjFHTUhCSVlscHlVbWhhZWxkSU9HRmtWVE53YzJwV1dFVm1VVzlqUW00MVZrMXlSblprUkZKWGRIWjJUVFJDTkZsRGEwUlRNbTU1VUV4a1p4SVhOR2R4YW1GMVpUQkVjR0ZLYTNaUlVERmtTM04zUVdzYUlrRkVjM0k1WmxKSmVrMXlRMEZNVkZaaU5VNHROMmgyUm5nMWVWRjRObDlGVTNjIiwiZmN2IjoiMyIsImVpIjoiNGdxamF1ZTBEcGFKa3ZRUDFkS3N3QWsiLCJxYyI6IkNoMXVhV05sZG1sc2JHVWdhR2xuYUNCelkyaHZiMndnWm14dmNtbGtZUkFBZlRiQVpUOCIsInF1ZXN0aW9uIjoiV2hvIGFyZSBzb21lIE5GTCBwbGF5ZXJzIHdobyBhdHRlbmRlZCBOaWNldmlsbGUgSGlnaCBTY2hvb2w%2FIiwibGsiOiJHaUZ1YVdObGRtbHNiR1VnYUdsbmFDQnpZMmh2YjJ3Z2JtWnNJSEJzWVhsbGNuTSIsImJzIjoiYzNXUE1RdkNNQkNGY2IzSnVkT0pxSnVLcm9KYjZTQUZjWEFUWW5JMmh6R1JKRnI2NzdWVmkwTTczX3UtOXc0a0xJNWFSSlJrNk93NU1nVXN5VWFNRG5PVzlHUmpDRE11TkI2a2RzNXNWOHRrWHZZaHRrVjBqWVFHZ1JPc214SU8zYzVaUUNfc2xXMkJiREUxenJNUzI5VXNtWFQ2MnZEbGt3UUptNk4yS0R4aGNEZkNQTjNoM1lpS19IdFpmWWlSckNMVjk5RTRHWFVYMll2NWlXQVAwOHlWZUJPMndoQWY2djF4LUpyX3ZZZG10LTVMX3ZXRTRlQUYiLCJpZCI6ImZjXzRncWphdWUwRHBhSmt2UVAxZEtzd0FrXzUifQ%3D%3D"
+  },
+  {
+   "question": "How many students attend Niceville HS?",
+   "type": "ai_overview",
+   "page_token": "eBfEUnicHdBbboJAFADQdDP9rFDUpiamKcpoEcbMyL0M_DQ444u5CLVWxL_upavqapr0LOF8_9DhaH_vLvvzufkc9Xpt2z7s6npHmwddV73iszvqni6I1oW2o-HT0H3Z6nHw9eZPPt58AU2DU-msEnlIbeaaubQJsSU-hg1XHAzkEmfheXWUi9gij6Dt5wxV5vK4SMnq-d43zr4r6JmtXSMiCK3AZpLTcxyXOw-UD8rhFWehb-a1EyGVm5JIzlo397I-BtQmKk8KxOGaXm8ruC54SkO0pABQxZWx4ug7Bn2-nIaTDPhSpLRAlXuJ03YY6KuAkDaKXbDk_c2ULHdzGey1k3vsI1NIcSDbDJqTISbiVEbaM35xrQ8C5E2XVMENOpgNVAxhms55hwf3ZFhzilJGxjUFOAMAcb_Vl7F3__85ft9W51Fzqnd_JAyDjA",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=eBfEUnicHdBbboJAFADQdDP9rFDUpiamKcpoEcbMyL0M_DQ444u5CLVWxL_upavqapr0LOF8_9DhaH_vLvvzufkc9Xpt2z7s6npHmwddV73iszvqni6I1oW2o-HT0H3Z6nHw9eZPPt58AU2DU-msEnlIbeaaubQJsSU-hg1XHAzkEmfheXWUi9gij6Dt5wxV5vK4SMnq-d43zr4r6JmtXSMiCK3AZpLTcxyXOw-UD8rhFWehb-a1EyGVm5JIzlo397I-BtQmKk8KxOGaXm8ruC54SkO0pABQxZWx4ug7Bn2-nIaTDPhSpLRAlXuJ03YY6KuAkDaKXbDk_c2ULHdzGey1k3vsI1NIcSDbDJqTISbiVEbaM35xrQ8C5E2XVMENOpgNVAxhms55hwf3ZFhzilJGxjUFOAMAcb_Vl7F3__85ft9W51Fzqnd_JAyDjA",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk5YazJPR2xYYmpadE1VMWlZbGR4UjJ4RE4wVjVaMjFtYXpRNGNYQk1UMjFHTUhCSVlscHlVbWhhZWxkSU9HRmtWVE53YzJwV1dFVm1VVzlqUW00MVZrMXlSblprUkZKWGRIWjJUVFJDTkZsRGEwUlRNbTU1VUV4a1p4SVhOR2R4YW1GMVpUQkVjR0ZLYTNaUlVERmtTM04zUVdzYUlrRkVjM0k1WmxKSmVrMXlRMEZNVkZaaU5VNHROMmgyUm5nMWVWRjRObDlGVTNjIiwiZmN2IjoiMyIsImVpIjoiNGdxamF1ZTBEcGFKa3ZRUDFkS3N3QWsiLCJxYyI6IkNoMXVhV05sZG1sc2JHVWdhR2xuYUNCelkyaHZiMndnWm14dmNtbGtZUkFBZlRiQVpUOCIsInF1ZXN0aW9uIjoiSG93IG1hbnkgc3R1ZGVudHMgYXR0ZW5kIE5pY2V2aWxsZSBIUz8iLCJsayI6IkdpVm9iM2NnYldGdWVTQnpkSFZrWlc1MGN5QmhkSFJsYm1RZ2JtbGpaWFpwYkd4bElHaHoiLCJicyI6ImMzV1BNUXZDTUJDRmNiM0p1ZE9KcUp1S3JvSmI2U0FGY1hBVFluSTJoekdSSkZyNjc3VlZpME03M191LTl3NGtMSTVhUkpSazZPdzVNZ1VzeVVhTURuT1c5R1JqQ0RNdU5CNmtkczVzVjh0a1h2WWh0a1YwallRR2dST3NteElPM2M1WlFDX3NsVzJCYkRFMXpyTVMyOVVzbVhUNjJ2RGxrd1FKbTZOMktEeGhjRGZDUE4zaDNZaUtfSHRaZllpUnJDTFY5OUU0R1hVWDJZdjVpV0FQMDh5VmVCTzJ3aEFmNnYxeC1Kcl92WWRtdC01TF92V0U0ZUFGIiwiaWQiOiJmY180Z3FqYXVlMERwYUprdlFQMWRLc3dBa181In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk5YazJPR2xYYmpadE1VMWlZbGR4UjJ4RE4wVjVaMjFtYXpRNGNYQk1UMjFHTUhCSVlscHlVbWhhZWxkSU9HRmtWVE53YzJwV1dFVm1VVzlqUW00MVZrMXlSblprUkZKWGRIWjJUVFJDTkZsRGEwUlRNbTU1VUV4a1p4SVhOR2R4YW1GMVpUQkVjR0ZLYTNaUlVERmtTM04zUVdzYUlrRkVjM0k1WmxKSmVrMXlRMEZNVkZaaU5VNHROMmgyUm5nMWVWRjRObDlGVTNjIiwiZmN2IjoiMyIsImVpIjoiNGdxamF1ZTBEcGFKa3ZRUDFkS3N3QWsiLCJxYyI6IkNoMXVhV05sZG1sc2JHVWdhR2xuYUNCelkyaHZiMndnWm14dmNtbGtZUkFBZlRiQVpUOCIsInF1ZXN0aW9uIjoiSG93IG1hbnkgc3R1ZGVudHMgYXR0ZW5kIE5pY2V2aWxsZSBIUz8iLCJsayI6IkdpVm9iM2NnYldGdWVTQnpkSFZrWlc1MGN5QmhkSFJsYm1RZ2JtbGpaWFpwYkd4bElHaHoiLCJicyI6ImMzV1BNUXZDTUJDRmNiM0p1ZE9KcUp1S3JvSmI2U0FGY1hBVFluSTJoekdSSkZyNjc3VlZpME03M191LTl3NGtMSTVhUkpSazZPdzVNZ1VzeVVhTURuT1c5R1JqQ0RNdU5CNmtkczVzVjh0a1h2WWh0a1YwallRR2dST3NteElPM2M1WlFDX3NsVzJCYkRFMXpyTVMyOVVzbVhUNjJ2RGxrd1FKbTZOMktEeGhjRGZDUE4zaDNZaUtfSHRaZllpUnJDTFY5OUU0R1hVWDJZdjVpV0FQMDh5VmVCTzJ3aEFmNnYxeC1Kcl92WWRtdC01TF92V0U0ZUFGIiwiaWQiOiJmY180Z3FqYXVlMERwYUprdlFQMWRLc3dBa181In0%3D"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Niceville High School",
+   "link": "https://www.okaloosaschools.com/o/niceville",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVywXu6Kr-ird4NeZXVbdT0gui3ekxnemRm684UEQ7kn1OkVpZ8JFRzCwMT4n3zpiRswuWeZD1W1E---_Obtgm2o_On3sXbrwA_gmLsyq-VJFU_1iXoEEIqHyBGhleUQ&ved=2ahUKEwjnrcqm5eSWAxWWhIQIHVUpC5gQFnoECD8QAQ&uoh=1",
+   "displayed_link": "https://www.okaloosaschools.com \u203a niceville",
+   "snippet": "All Rights Reserved - Niceville High School - Privacy Statement E-mail Disclaimer: Under Florida law, e-mail addresses are public records. If you do not want ...",
+   "snippet_highlighted_words": [
+    "Niceville High School",
+    "Florida"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "Staff",
+      "link": "https://www.okaloosaschools.com/o/niceville/staff",
+      "snippet": "John Sims ParkwayNiceville, FL ... All Rights Reserved ..."
+     },
+     {
+      "title": "Contact Us",
+      "link": "https://www.okaloosaschools.com/o/niceville/page/contact-us",
+      "snippet": "Niceville, FL 32578 ... All Rights Reserved - Niceville High ..."
+     },
+     {
+      "title": "Athletics",
+      "link": "https://www.okaloosaschools.com/o/niceville/page/athletics",
+      "snippet": "All Rights Reserved - Niceville High School - Privacy Statement ..."
+     },
+     {
+      "title": "About Us",
+      "link": "https://www.okaloosaschools.com/o/niceville/page/about-us",
+      "snippet": "Niceville High School provides a school setting in which students ..."
+     },
+     {
+      "title": "New Student Information",
+      "link": "https://www.okaloosaschools.com/o/niceville/page/new-student-information",
+      "snippet": "Email FOCUSHelp@okaloosaschools.com or call ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "All Rights Reserved - Niceville High School - Privacy Statement E-mail Disclaimer: Under Florida law, e-mail addresses are public records. If you do not want ...",
+     "source_info_link": "https://www.okaloosaschools.com/o/niceville"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYwHrOzAVywXu6Kr-ird4NeZXVbdT0gui3ekxnemRm684UEQ7kn1OkVpZ8JFRzCwMT4n3zpiRswuWeZD1W1E---_Obtgm2o_On3sXbrwA_gmLsyq-VJFU_1iXoEEIqHyBGhleUQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYwHrOzAVywXu6Kr-ird4NeZXVbdT0gui3ekxnemRm684UEQ7kn1OkVpZ8JFRzCwMT4n3zpiRswuWeZD1W1E---_Obtgm2o_On3sXbrwA_gmLsyq-VJFU_1iXoEEIqHyBGhleUQ",
+   "source": "Okaloosa County School District"
+  },
+  {
+   "position": 2,
+   "title": "Niceville High School",
+   "link": "https://en.wikipedia.org/wiki/Niceville_High_School",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESawHrOzAVhEv4XBt4jAMwYL_b6nVweI9XsU5XMFtu4A8Q-rdXhjjPow27Pmoc74p6qelgIkN8zzKusmu6ncIQ6Hzvn0Fk17rODYW1lybFyICbpMVLEYZdaiHtrbSXjp5Kj5sJx_RuWTkGk_3A&ved=2ahUKEwjnrcqm5eSWAxWWhIQIHVUpC5gQFnoECEkQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Niceville_High_School",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+   "snippet": "Niceville High School ; 800 East John Sims Parkway Niceville. ,. Florida \u00b7 USA \u00b7 30\u00b031\u203212\u2033N 86\u00b028\u203234\u2033W\ufeff / \ufeff30.52000\u00b0N 86.47611\u00b0W\ufeff / 30.52000; -86.47611 ; 800 East ...",
+   "snippet_highlighted_words": [
+    "Niceville High School",
+    "Florida"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Niceville High School ; 800 East John Sims Parkway Niceville. ,. Florida \u00b7 USA \u00b7 30\u00b031\u203212\u2033N 86\u00b028\u203234\u2033W\ufeff / \ufeff30.52000\u00b0N 86.47611\u00b0W\ufeff / 30.52000; -86.47611 ; 800 East ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Niceville_High_School",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESawHrOzAVhEv4XBt4jAMwYL_b6nVweI9XsU5XMFtu4A8Q-rdXhjjPow27Pmoc74p6qelgIkN8zzKusmu6ncIQ6Hzvn0Fk17rODYW1lybFyICbpMVLEYZdaiHtrbSXjp5Kj5sJx_RuWTkGk_3A&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESawHrOzAVhEv4XBt4jAMwYL_b6nVweI9XsU5XMFtu4A8Q-rdXhjjPow27Pmoc74p6qelgIkN8zzKusmu6ncIQ6Hzvn0Fk17rODYW1lybFyICbpMVLEYZdaiHtrbSXjp5Kj5sJx_RuWTkGk_3A",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Niceville_High_School#:~:text=Niceville%20High%20School&text=800%20East%20John%20Sims%20Parkway,%EF%BB%BF30.52000%C2%B0N%2086.47611%C2%B0W%EF%BB%BF%20%2F%2030.52000%3B%20%2D86.47611&text=800%20East%20John%20Sims%20Parkway"
+  },
+  {
+   "position": 3,
+   "title": "Niceville High School Eagles (@NHSEagles1)",
+   "link": "https://www.facebook.com/NHSEagles1/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXAHrOzAV1_T6cTuwQkSakL46kkcwNXwl1Jv8NiH5zg9nmDlubIH1FEJtYRrMw9K18Oc8UgW8FjmlVwm18j1mDkp-sZcJUQhNUfzNMTRw5v7s0R4b5zjPcZvhb4vN&ved=2ahUKEwjnrcqm5eSWAxWWhIQIHVUpC5gQFnoECFsQAQ&uoh=1",
+   "displayed_link": "6.2K+ followers",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "snippet": "Niceville High School Eagles. 6249 likes \u00b7 859 talking about this. Public High School serving the community of Niceville.",
+   "snippet_highlighted_words": [
+    "Niceville High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Niceville High School Eagles. 6249 likes \u00b7 859 talking about this. Public High School serving the community of Niceville.",
+     "source_info_link": "https://www.facebook.com/NHSEagles1/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESXAHrOzAV1_T6cTuwQkSakL46kkcwNXwl1Jv8NiH5zg9nmDlubIH1FEJtYRrMw9K18Oc8UgW8FjmlVwm18j1mDkp-sZcJUQhNUfzNMTRw5v7s0R4b5zjPcZvhb4vN&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESXAHrOzAV1_T6cTuwQkSakL46kkcwNXwl1Jv8NiH5zg9nmDlubIH1FEJtYRrMw9K18Oc8UgW8FjmlVwm18j1mDkp-sZcJUQhNUfzNMTRw5v7s0R4b5zjPcZvhb4vN",
+   "source": "Facebook \u00b7 Niceville High School Eagles"
+  },
+  {
+   "position": 4,
+   "title": "Niceville High School",
+   "link": "https://midbaynews.com/niceville-high-school-2",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVxlmx_rxOg2Kif2AL0L5YTHySlf7V_vSBj5IyXUMViTny_w_hfX62nvpFSr03FC7h5BPwWFGyofR3dMKRYElmzMDqVJyflYEdvyPG3NDgPZsPlEEFyXzD1Y9DMYZzLsBD_g&ved=2ahUKEwjnrcqm5eSWAxWWhIQIHVUpC5gQFnoECFwQAQ&uoh=1",
+   "displayed_link": "https://midbaynews.com \u203a niceville-high-school-2",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz___________________________________________________9uyMH0-fj_yEtCdFHM6-gya0Xs8vCM1NGX19L--_Squa2F0Mn_9uOorKj_wSz_xDnUsk4hZDhjiGvh5-T_3JTZ4dqHoo3L083_68f_z2zPqzjFxcX_4q3TsUwdvx6kAAAADXRSTlMAh8OGYN8y7T8XwjPe1asMnwAAARZJREFUKJGFk9F2gjAQRCMIEeqQQABBQEEFtf3__-turKVWxHkBck-Wmc1GiLs-Fo4EpLPwxX8tCdwllw8o8PAgLxjZCk9azbBfGkwx4FbZm4ae9TnNAPYsX0FJ2adJVVRXXyzGhS3p_q6Qpq5wgOL23V2autabXDGLkuoa8i_3RwvjLz18NocsUhaqTgpejZmdzE4DNcEotTt73OAJ6E2802etkWUl0SjZAFw2bk2vTMvwTGVzlFESJZyFDJniFLdtZ8semjIHqDTBkKOYArFJGQ6D1rQTyBm6wie3FY4FjnsbZVuWbC8n6HP7UmVjpxsSPdVPF-S7xr86svX7w54dk_kBex7N9Z_RnB9qlu-GfB1Cd7wO3zsEJdv2Z7SrAAAAAElFTkSuQmCC.png",
+   "snippet": "Niceville High School serves students from grades 9-12 with a variety of course offerings, sports, activities and clubs.",
+   "snippet_highlighted_words": [
+    "Niceville High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Niceville High School serves students from grades 9-12 with a variety of course offerings, sports, activities and clubs.",
+     "source_info_link": "https://midbaynews.com/niceville-high-school-2",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz___________________________________________________9uyMH0-fj_yEtCdFHM6-gya0Xs8vCM1NGX19L--_Squa2F0Mn_9uOorKj_wSz_xDnUsk4hZDhjiGvh5-T_3JTZ4dqHoo3L083_68f_z2zPqzjFxcX_4q3TsUwdvx6kAAAADXRSTlMAh8OGYN8y7T8XwjPe1asMnwAAARZJREFUKJGFk9F2gjAQRCMIEeqQQABBQEEFtf3__-turKVWxHkBck-Wmc1GiLs-Fo4EpLPwxX8tCdwllw8o8PAgLxjZCk9azbBfGkwx4FbZm4ae9TnNAPYsX0FJ2adJVVRXXyzGhS3p_q6Qpq5wgOL23V2autabXDGLkuoa8i_3RwvjLz18NocsUhaqTgpejZmdzE4DNcEotTt73OAJ6E2802etkWUl0SjZAFw2bk2vTMvwTGVzlFESJZyFDJniFLdtZ8semjIHqDTBkKOYArFJGQ6D1rQTyBm6wie3FY4FjnsbZVuWbC8n6HP7UmVjpxsSPdVPF-S7xr86svX7w54dk_kBex7N9Z_RnB9qlu-GfB1Cd7wO3zsEJdv2Z7SrAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESZgHrOzAVxlmx_rxOg2Kif2AL0L5YTHySlf7V_vSBj5IyXUMViTny_w_hfX62nvpFSr03FC7h5BPwWFGyofR3dMKRYElmzMDqVJyflYEdvyPG3NDgPZsPlEEFyXzD1Y9DMYZzLsBD_g&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESZgHrOzAVxlmx_rxOg2Kif2AL0L5YTHySlf7V_vSBj5IyXUMViTny_w_hfX62nvpFSr03FC7h5BPwWFGyofR3dMKRYElmzMDqVJyflYEdvyPG3NDgPZsPlEEFyXzD1Y9DMYZzLsBD_g",
+   "source": "Mid Bay News",
+   "read_more_link": "https://midbaynews.com/niceville-high-school-2#:~:text=Niceville%20High%20School%20serves%20students,offerings%2C%20sports%2C%20activities%20and%20clubs."
+  },
+  {
+   "position": 5,
+   "title": "Niceville Senior High School",
+   "link": "https://www.niche.com/k12/niceville-senior-high-school-niceville-fl/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHrOzAVBL97dG2KVIy7VLIXZPOAAiXa09T9u-oCuTVK07wcuyfK8kq6Kw2rCvr5tue8zIyLS2jQh2s1GXNDVQzpxhElS-eICxrYdNmr8A3Yt_YDySrOVhs1mYShiuz-gGYN1HT0atqG6oJE4tu-BYVonL9sVEkb_Vbpv4g&ved=2ahUKEwjnrcqm5eSWAxWWhIQIHVUpC5gQFnoECF0QAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a Florida",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png",
+   "snippet": "Niceville High School places a strong emphasis on its athletic programs, with competitive teams in football, soccer, track and field, cheerleading, and more.",
+   "snippet_highlighted_words": [
+    "Niceville High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Niceville High School places a strong emphasis on its athletic programs, with competitive teams in football, soccer, track and field, cheerleading, and more.",
+     "source_info_link": "https://www.niche.com/k12/niceville-senior-high-school-niceville-fl/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESfAHrOzAVBL97dG2KVIy7VLIXZPOAAiXa09T9u-oCuTVK07wcuyfK8kq6Kw2rCvr5tue8zIyLS2jQh2s1GXNDVQzpxhElS-eICxrYdNmr8A3Yt_YDySrOVhs1mYShiuz-gGYN1HT0atqG6oJE4tu-BYVonL9sVEkb_Vbpv4g&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESfAHrOzAVBL97dG2KVIy7VLIXZPOAAiXa09T9u-oCuTVK07wcuyfK8kq6Kw2rCvr5tue8zIyLS2jQh2s1GXNDVQzpxhElS-eICxrYdNmr8A3Yt_YDySrOVhs1mYShiuz-gGYN1HT0atqG6oJE4tu-BYVonL9sVEkb_Vbpv4g",
+   "source": "Niche",
+   "read_more_link": "https://www.niche.com/k12/niceville-senior-high-school-niceville-fl/#:~:text=Niceville%20High%20School%20places%20a,and%20field%2C%20cheerleading%2C%20and%20more."
+  },
+  {
+   "position": 6,
+   "title": "Niceville High School (FL) Football",
+   "link": "https://www.maxpreps.com/fl/niceville/niceville-eagles/football/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeAHrOzAVeTsM2U9TKTT-f2v1it1sR0IHfvp3yxCrt1P8ew2OAoLfa8iXaQVav8CLYBbz53pAfdY_Ty2HYSvxEZuhjHL6Q1jJ5GG8_2-jXLzGczzInLJRzQs8VOQQ4EMahQxBFnEGAL2uxFgHDcb4nzCfbkwqjWsGsg&ved=2ahUKEwjnrcqm5eSWAxWWhIQIHVUpC5gQFnoECGEQAQ&uoh=1",
+   "displayed_link": "https://www.maxpreps.com \u203a Football \u203a FL Football",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEzhBADhBADhBADhBQDhBQDhBADhBADhBADhBQDhBQDhBADhBADhBQDhBADhBQBqDGaWAAAAD3RSTlMANHaA7NyWEEjPqCVevglnZLSWAAAAqElEQVQokaWSSxaFIAxDU0pFBM3-d_vkM3pUJ3YAHEJvQwH4GlcIQQUoei_Sv2okD2C7p7ikhrHbzugilnuXMsa1aCZPkYO0pSSgjJWsxs3xW5iV3E6H2v1WsxpXr5OrIbpUQNhjd0XELvoajqadD-Jb5mtNHaLv1obo3rNwhtehRo32wM3ttduJfPled_G5nZr6XVduHt1pXTKXWoHd64PML5nmF_0YP5WLCXU498sLAAAAAElFTkSuQmCC.png",
+   "date": "4 days ago",
+   "snippet": "Niceville High School. 800 John Sims Pkwy E ... Niceville, FL 32578-1264. Florida High School Athletic Association logo FHSAA, Official MaxPreps ...",
+   "snippet_highlighted_words": [
+    "Niceville High School",
+    "FL",
+    "Florida"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Niceville High School. 800 John Sims Pkwy E ... Niceville, FL 32578-1264. Florida High School Athletic Association logo FHSAA, Official MaxPreps ...",
+     "source_info_link": "https://www.maxpreps.com/fl/niceville/niceville-eagles/football/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEzhBADhBADhBADhBQDhBQDhBADhBADhBADhBQDhBQDhBADhBADhBQDhBADhBQBqDGaWAAAAD3RSTlMANHaA7NyWEEjPqCVevglnZLSWAAAAqElEQVQokaWSSxaFIAxDU0pFBM3-d_vkM3pUJ3YAHEJvQwH4GlcIQQUoei_Sv2okD2C7p7ikhrHbzugilnuXMsa1aCZPkYO0pSSgjJWsxs3xW5iV3E6H2v1WsxpXr5OrIbpUQNhjd0XELvoajqadD-Jb5mtNHaLv1obo3rNwhtehRo32wM3ttduJfPled_G5nZr6XVduHt1pXTKXWoHd64PML5nmF_0YP5WLCXU498sLAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESeAHrOzAVeTsM2U9TKTT-f2v1it1sR0IHfvp3yxCrt1P8ew2OAoLfa8iXaQVav8CLYBbz53pAfdY_Ty2HYSvxEZuhjHL6Q1jJ5GG8_2-jXLzGczzInLJRzQs8VOQQ4EMahQxBFnEGAL2uxFgHDcb4nzCfbkwqjWsGsg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESeAHrOzAVeTsM2U9TKTT-f2v1it1sR0IHfvp3yxCrt1P8ew2OAoLfa8iXaQVav8CLYBbz53pAfdY_Ty2HYSvxEZuhjHL6Q1jJ5GG8_2-jXLzGczzInLJRzQs8VOQQ4EMahQxBFnEGAL2uxFgHDcb4nzCfbkwqjWsGsg",
+   "source": "MaxPreps",
+   "read_more_link": "https://www.maxpreps.com/fl/niceville/niceville-eagles/football/#:~:text=Niceville%20High%20School,800%20John%20Sims%20Pkwy%20E&text=Niceville%2C%20FL%2032578%2D1264,FHSAA%2C%20Official%20MaxPreps%20partner"
+  },
+  {
+   "position": 7,
+   "title": "Niceville High School - Florida",
+   "link": "https://www.donorschoose.org/schools/florida/okaloosa-county-school-district/niceville-high-school/46641",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESoAEB6zswFRV2RPNLOZh5itzggn_HyF1jQIGZ6QJQFHqjx8whyDd3PavZeUUbiUHr7IcEkUX6-spXsW0IbTnEpiwT2hFVNra0UdR3jPN3KbP04Y7zXcQ-74PnVlBueKsMb2wf4Vxm517E8TY_8AlxDGESoqSilKp6QVfiS3B5Tn-Gt4CwZ6P06UDlsrlHVtmn70XWx6mbncTFrUq1-EfcKtDN&ved=2ahUKEwjnrcqm5eSWAxWWhIQIHVUpC5gQFnoECF4QAQ&uoh=1",
+   "displayed_link": "https://www.donorschoose.org \u203a schools \u203a florida \u203a nic...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEU4A8E4AcE4AME3CMA1DL8zEb0vGLovGboyE7wwFrslA7hhVcaAd9B9dM9lWcgbALe_u-b____e3PJ3bc25teTEwOixrOE2IbzJxeqKgtORitaoot0AALLp5_drYMqak9minNtEM7_oabQTAAAA3klEQVR4AXWSBRIDIQwAITh1d_v_J0uQTI7SHWUWiAqOTIghAEonFMCvUsa6jPUKOmecJZyfysAcolhs2-PIQkhHHzMmVM3j-dl8gSz9KmYZIEuF8VbrTWW7W-WPNT20q_2GOGTrAaVFUBJHtI5-Rck4hfqvZvJ8OWd5XSVpQEgub6v7g_79J28juX6W0POYvx0ntMoJyWEpLyoFfC_3K-pf375Ha58sT5ONuzfymn944xE8xFUmhjbQbKiDHKeBVlINHeEdU6HbP9Ae1xLXM-jB5gptElrAeOslwMR8AZhOFkQFCdvDAAAAAElFTkSuQmCC.png",
+   "snippet": "Niceville High School is a public school in Niceville, Florida that is part of Okaloosa County School District. It serves 2057 studentsin 9 - 12 with a ...",
+   "snippet_highlighted_words": [
+    "Niceville High School",
+    "Florida"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Niceville High School is a public school in Niceville, Florida that is part of Okaloosa County School District. It serves 2057 studentsin 9 - 12 with a ...",
+     "source_info_link": "https://www.donorschoose.org/schools/florida/okaloosa-county-school-district/niceville-high-school/46641",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEU4A8E4AcE4AME3CMA1DL8zEb0vGLovGboyE7wwFrslA7hhVcaAd9B9dM9lWcgbALe_u-b____e3PJ3bc25teTEwOixrOE2IbzJxeqKgtORitaoot0AALLp5_drYMqak9minNtEM7_oabQTAAAA3klEQVR4AXWSBRIDIQwAITh1d_v_J0uQTI7SHWUWiAqOTIghAEonFMCvUsa6jPUKOmecJZyfysAcolhs2-PIQkhHHzMmVM3j-dl8gSz9KmYZIEuF8VbrTWW7W-WPNT20q_2GOGTrAaVFUBJHtI5-Rck4hfqvZvJ8OWd5XSVpQEgub6v7g_79J28juX6W0POYvx0ntMoJyWEpLyoFfC_3K-pf375Ha58sT5ONuzfymn944xE8xFUmhjbQbKiDHKeBVlINHeEdU6HbP9Ae1xLXM-jB5gptElrAeOslwMR8AZhOFkQFCdvDAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESoAEB6zswFRV2RPNLOZh5itzggn_HyF1jQIGZ6QJQFHqjx8whyDd3PavZeUUbiUHr7IcEkUX6-spXsW0IbTnEpiwT2hFVNra0UdR3jPN3KbP04Y7zXcQ-74PnVlBueKsMb2wf4Vxm517E8TY_8AlxDGESoqSilKp6QVfiS3B5Tn-Gt4CwZ6P06UDlsrlHVtmn70XWx6mbncTFrUq1-EfcKtDN&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESoAEB6zswFRV2RPNLOZh5itzggn_HyF1jQIGZ6QJQFHqjx8whyDd3PavZeUUbiUHr7IcEkUX6-spXsW0IbTnEpiwT2hFVNra0UdR3jPN3KbP04Y7zXcQ-74PnVlBueKsMb2wf4Vxm517E8TY_8AlxDGESoqSilKp6QVfiS3B5Tn-Gt4CwZ6P06UDlsrlHVtmn70XWx6mbncTFrUq1-EfcKtDN",
+   "source": "DonorsChoose"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Niceville high school florida football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnt5XJzsQ2e-FI4-f3xaQf0CK9Upzg:1789070050245&q=Niceville+high+school+florida+football&sa=X&ved=2ahUKEwjnrcqm5eSWAxWWhIQIHVUpC5gQ1QJ6BAhjEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Niceville+high+school+florida+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Niceville high school florida yearbook",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnt5XJzsQ2e-FI4-f3xaQf0CK9Upzg:1789070050245&q=Niceville+high+school+florida+yearbook&sa=X&ved=2ahUKEwjnrcqm5eSWAxWWhIQIHVUpC5gQ1QJ6BAh2EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Niceville+high+school+florida+yearbook"
+  },
+  {
+   "block_position": 1,
+   "query": "Niceville High School football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnt5XJzsQ2e-FI4-f3xaQf0CK9Upzg:1789070050245&q=Niceville+High+School+football&sa=X&ved=2ahUKEwjnrcqm5eSWAxWWhIQIHVUpC5gQ1QJ6BAh3EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Niceville+High+School+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Niceville high school florida alumni",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnt5XJzsQ2e-FI4-f3xaQf0CK9Upzg:1789070050245&q=Niceville+high+school+florida+alumni&sa=X&ved=2ahUKEwjnrcqm5eSWAxWWhIQIHVUpC5gQ1QJ6BAh1EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Niceville+high+school+florida+alumni"
+  },
+  {
+   "block_position": 1,
+   "query": "Niceville High school Prom 2026",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnt5XJzsQ2e-FI4-f3xaQf0CK9Upzg:1789070050245&q=Niceville+High+school+Prom+2026&sa=X&ved=2ahUKEwjnrcqm5eSWAxWWhIQIHVUpC5gQ1QJ6BAh0EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Niceville+High+school+Prom+2026"
+  },
+  {
+   "block_position": 1,
+   "query": "Niceville high school Calendar",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnt5XJzsQ2e-FI4-f3xaQf0CK9Upzg:1789070050245&q=Niceville+high+school+Calendar&sa=X&ved=2ahUKEwjnrcqm5eSWAxWWhIQIHVUpC5gQ1QJ6BAhtEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Niceville+high+school+Calendar"
+  },
+  {
+   "block_position": 1,
+   "query": "Niceville high school bell schedule",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnt5XJzsQ2e-FI4-f3xaQf0CK9Upzg:1789070050245&q=Niceville+high+school+bell+schedule&sa=X&ved=2ahUKEwjnrcqm5eSWAxWWhIQIHVUpC5gQ1QJ6BAhuEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Niceville+high+school+bell+schedule"
+  },
+  {
+   "block_position": 1,
+   "query": "Niceville High School Sports",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnt5XJzsQ2e-FI4-f3xaQf0CK9Upzg:1789070050245&q=Niceville+High+School+Sports&sa=X&ved=2ahUKEwjnrcqm5eSWAxWWhIQIHVUpC5gQ1QJ6BAhnEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Niceville+High+School+Sports"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Niceville+High+School%22+Florida&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnt5XJzsQ2e-FI4-f3xaQf0CK9Upzg:1789070050245&ei=4gqjaue0DpaJkvQP1dKswAk&start=10&sa=N&sstk=AS6-VmJAWge9OShJhnsgwpEn69QcXuqOCImKzRWTnzZkbXSfEmU_fy0dkzIR_U9elExDdBA9RgShUW1eKmYwPk1NwLrG606GKjvd-g&ved=2ahUKEwjnrcqm5eSWAxWWhIQIHVUpC5gQ8NMDegQIUhAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Niceville+High+School%22+Florida&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnt5XJzsQ2e-FI4-f3xaQf0CK9Upzg:1789070050245&ei=4gqjaue0DpaJkvQP1dKswAk&start=10&sa=N&sstk=AS6-VmJAWge9OShJhnsgwpEn69QcXuqOCImKzRWTnzZkbXSfEmU_fy0dkzIR_U9elExDdBA9RgShUW1eKmYwPk1NwLrG606GKjvd-g&ved=2ahUKEwjnrcqm5eSWAxWWhIQIHVUpC5gQ8tMDegQIUhAE",
+   "3": "https://www.google.com/search?q=%22Niceville+High+School%22+Florida&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnt5XJzsQ2e-FI4-f3xaQf0CK9Upzg:1789070050245&ei=4gqjaue0DpaJkvQP1dKswAk&start=20&sa=N&sstk=AS6-VmJAWge9OShJhnsgwpEn69QcXuqOCImKzRWTnzZkbXSfEmU_fy0dkzIR_U9elExDdBA9RgShUW1eKmYwPk1NwLrG606GKjvd-g&ved=2ahUKEwjnrcqm5eSWAxWWhIQIHVUpC5gQ8tMDegQIUhAG",
+   "4": "https://www.google.com/search?q=%22Niceville+High+School%22+Florida&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnt5XJzsQ2e-FI4-f3xaQf0CK9Upzg:1789070050245&ei=4gqjaue0DpaJkvQP1dKswAk&start=30&sa=N&sstk=AS6-VmJAWge9OShJhnsgwpEn69QcXuqOCImKzRWTnzZkbXSfEmU_fy0dkzIR_U9elExDdBA9RgShUW1eKmYwPk1NwLrG606GKjvd-g&ved=2ahUKEwjnrcqm5eSWAxWWhIQIHVUpC5gQ8tMDegQIUhAI",
+   "5": "https://www.google.com/search?q=%22Niceville+High+School%22+Florida&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnt5XJzsQ2e-FI4-f3xaQf0CK9Upzg:1789070050245&ei=4gqjaue0DpaJkvQP1dKswAk&start=40&sa=N&sstk=AS6-VmJAWge9OShJhnsgwpEn69QcXuqOCImKzRWTnzZkbXSfEmU_fy0dkzIR_U9elExDdBA9RgShUW1eKmYwPk1NwLrG606GKjvd-g&ved=2ahUKEwjnrcqm5eSWAxWWhIQIHVUpC5gQ8tMDegQIUhAK",
+   "6": "https://www.google.com/search?q=%22Niceville+High+School%22+Florida&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnt5XJzsQ2e-FI4-f3xaQf0CK9Upzg:1789070050245&ei=4gqjaue0DpaJkvQP1dKswAk&start=50&sa=N&sstk=AS6-VmJAWge9OShJhnsgwpEn69QcXuqOCImKzRWTnzZkbXSfEmU_fy0dkzIR_U9elExDdBA9RgShUW1eKmYwPk1NwLrG606GKjvd-g&ved=2ahUKEwjnrcqm5eSWAxWWhIQIHVUpC5gQ8tMDegQIUhAM",
+   "7": "https://www.google.com/search?q=%22Niceville+High+School%22+Florida&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnt5XJzsQ2e-FI4-f3xaQf0CK9Upzg:1789070050245&ei=4gqjaue0DpaJkvQP1dKswAk&start=60&sa=N&sstk=AS6-VmJAWge9OShJhnsgwpEn69QcXuqOCImKzRWTnzZkbXSfEmU_fy0dkzIR_U9elExDdBA9RgShUW1eKmYwPk1NwLrG606GKjvd-g&ved=2ahUKEwjnrcqm5eSWAxWWhIQIHVUpC5gQ8tMDegQIUhAO",
+   "8": "https://www.google.com/search?q=%22Niceville+High+School%22+Florida&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnt5XJzsQ2e-FI4-f3xaQf0CK9Upzg:1789070050245&ei=4gqjaue0DpaJkvQP1dKswAk&start=70&sa=N&sstk=AS6-VmJAWge9OShJhnsgwpEn69QcXuqOCImKzRWTnzZkbXSfEmU_fy0dkzIR_U9elExDdBA9RgShUW1eKmYwPk1NwLrG606GKjvd-g&ved=2ahUKEwjnrcqm5eSWAxWWhIQIHVUpC5gQ8tMDegQIUhAQ",
+   "9": "https://www.google.com/search?q=%22Niceville+High+School%22+Florida&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnt5XJzsQ2e-FI4-f3xaQf0CK9Upzg:1789070050245&ei=4gqjaue0DpaJkvQP1dKswAk&start=80&sa=N&sstk=AS6-VmJAWge9OShJhnsgwpEn69QcXuqOCImKzRWTnzZkbXSfEmU_fy0dkzIR_U9elExDdBA9RgShUW1eKmYwPk1NwLrG606GKjvd-g&ved=2ahUKEwjnrcqm5eSWAxWWhIQIHVUpC5gQ8tMDegQIUhAS",
+   "10": "https://www.google.com/search?q=%22Niceville+High+School%22+Florida&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnt5XJzsQ2e-FI4-f3xaQf0CK9Upzg:1789070050245&ei=4gqjaue0DpaJkvQP1dKswAk&start=90&sa=N&sstk=AS6-VmJAWge9OShJhnsgwpEn69QcXuqOCImKzRWTnzZkbXSfEmU_fy0dkzIR_U9elExDdBA9RgShUW1eKmYwPk1NwLrG606GKjvd-g&ved=2ahUKEwjnrcqm5eSWAxWWhIQIHVUpC5gQ8tMDegQIUhAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Niceville+High+School%22+Florida&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Niceville+High+School%22+Florida&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Niceville+High+School%22+Florida&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Niceville+High+School%22+Florida&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Niceville+High+School%22+Florida&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Niceville+High+School%22+Florida&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Niceville+High+School%22+Florida&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Niceville+High+School%22+Florida&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Niceville+High+School%22+Florida&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Niceville+High+School%22+Florida&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Niceville+High+School%22+Florida&start=90"
+  }
+ }
+}

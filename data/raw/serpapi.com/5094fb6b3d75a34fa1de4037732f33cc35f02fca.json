@@ -1,0 +1,652 @@
+{
+ "search_information": {
+  "query_displayed": "\"GevorkianDance Academy\"",
+  "total_results": 14500,
+  "time_taken_displayed": 0.28,
+  "organic_results_state": "Some results for exact spelling but showing fixed spelling",
+  "spelling_fix": "\"Gevorkian Dance Academy\"",
+  "showing_results_for": "\"Gevorkian Dance Academy\""
+ },
+ "knowledge_graph": {
+  "title": "Gevorkian Dance Academy",
+  "type": "Dance school in Burbank, California",
+  "entity_type": "local_nav",
+  "kgmid": "/g/1tgpn8qy",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/g/1tgpn8qy&hl=en-US&q=Gevorkian+Dance+Academy",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fg%2F1tgpn8qy&q=Gevorkian+Dance+Academy",
+  "place_id": "ChIJtw7ogFWVwoARsgBwNNMFkG0",
+  "website": "http://www.gevorkiandanceacademy.com/",
+  "rating": 4.5,
+  "review_count": 30,
+  "address": "58 E Santa Anita Ave, Burbank, CA 91502",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=gevorkian+dance+academy+address&ludocid=7894816551456473266&sa=X&ved=2ahUKEwjk6N3J6OSWAxWkrlYBHU4VIw4Q6BN6BAggEAI"
+   }
+  ],
+  "phone": "(818) 425-0447",
+  "raw_hours": "Closed \u00b7 Opens 4 PM",
+  "hours": {
+   "thursday": {
+    "opens": "4",
+    "closes": "10\u202fPM"
+   },
+   "friday": {
+    "opens": "Closed"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "4",
+    "closes": "10\u202fPM"
+   },
+   "tuesday": {
+    "opens": "4",
+    "closes": "10\u202fPM"
+   },
+   "wednesday": {
+    "opens": "4",
+    "closes": "10\u202fPM"
+   }
+  },
+  "unclaimed_listing": true,
+  "web_results": [
+   {
+    "link": "https://www.google.com/maps/place/%22Gevorkian+Dance+Academy%22/data=!4m2!3m1!1s0x80c2955580e80eb7:0x6d9005d3347000b2?sa=X&ved=2ahUKEwjk6N3J6OSWAxWkrlYBHU4VIw4Q8gF6BAgbEAA&hl=en&gl=us"
+   },
+   {
+    "title": "Hours"
+   },
+   {
+    "title": "Reviews",
+    "rating": 4.5,
+    "reviews": 30,
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=%22Gevorkian+Dance+Academy%22&si=APenkKn5T4YN59srr511wD6k6Pufj9DEzRUvB1XJSwUeeT5afqsdloGoWlns0SAoIOsWjdkHfq5-66b9Ia3cFjFf7eJWQ0vMMdThbTFHvc4xnSXfLXY39NKyB2Ru8L6FcucgsqDJd0WH4Ff1zfbs5yBKbhzXrLEaUg%3D%3D&sa=X&ved=2ahUKEwjk6N3J6OSWAxWkrlYBHU4VIw4QrrQLegQIKhAA"
+   },
+   {
+    "title": "Weather",
+    "source": "Google Weather",
+    "forecast": [
+     {
+      "day": "Thursday",
+      "weather": "Sunny",
+      "temperature": 96,
+      "unit": "degrees Fahrenheit"
+     },
+     {
+      "day": "Friday",
+      "weather": "Sunny",
+      "temperature": 91,
+      "unit": "degrees Fahrenheit"
+     },
+     {
+      "day": "Saturday",
+      "weather": "Sunny",
+      "temperature": 88,
+      "unit": "degrees Fahrenheit"
+     }
+    ],
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Gevorkian+Dance+Academy&si=APenkKkqFrt3xjTBDOOt_Dfwu1VbH3j5hQoLCKS3ohM4_nGM5tNGI5P5Sur9bYM0jqYTqcnxmoWQQghRd2Bi2-VoN8J3APUZZQ%3D%3D&sa=X&ved=2ahUKEwjk6N3J6OSWAxWkrlYBHU4VIw4Q4rsJegQIJBAA"
+   }
+  ],
+  "people_also_search_for": [
+   {
+    "name": "Anoush Dance Studio",
+    "image": "https://serpapi.com/searches/6aa30e504fa3ba493ab6c001/images/gk8dPU0QGXhCOdD6IQv9G_m5WYYmajym6_iFsFklcSCu8jRk_dg4aXDv2VfeXBX5.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0W4nXziEjgnsODC6btZOXAZtZNfZTy6KQuaNMRgkKqLKMwVLg99Q9iPcqCaSfwRu69z_MFy66fFLF6ewu9STamOLdS50ZuEQMjqu22OLG7klYLTg5pgrEDhY8o08l725mrOMy1vWJc3yxlgl3gA7vM2sZWeJsCeJWrwnav1V8r6NLgI0b_fLSymGPXkO9Vb5fhBaZowYXIyVSfWn30Ek-Hbldrpo9VyBXdvtfc0ih84UrDOIKspDaUQTPL6OxrcRjS7pk3amF5ApwWnDLQX9fsr2BJWs&q=Anoush+Dance+Studio&sa=X&ved=2ahUKEwjk6N3J6OSWAxWkrlYBHU4VIw4Qs9oBKAB6BAgeEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Anoush+Dance+Studio&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0W4nXziEjgnsODC6btZOXAZtZNfZTy6KQuaNMRgkKqLKMwVLg99Q9iPcqCaSfwRu69z_MFy66fFLF6ewu9STamOLdS50ZuEQMjqu22OLG7klYLTg5pgrEDhY8o08l725mrOMy1vWJc3yxlgl3gA7vM2sZWeJsCeJWrwnav1V8r6NLgI0b_fLSymGPXkO9Vb5fhBaZowYXIyVSfWn30Ek-Hbldrpo9VyBXdvtfc0ih84UrDOIKspDaUQTPL6OxrcRjS7pk3amF5ApwWnDLQX9fsr2BJWs"
+   },
+   {
+    "name": "California DanceArts & California Contemporary Ballet",
+    "image": "https://serpapi.com/searches/6aa30e504fa3ba493ab6c001/images/gk8dPU0QGXhCOdD6IQv9G_m5WYYmajym6_iFsFklcSDyyq2YRqf7NO9LR3xLr9-U.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKllX05q7xl66dAosm6nb1iuMgV7Bv8meTZS-zIzIS3OMyudBnrckYU4L0ubGaNvhJVINpuICEGN-1XDkKU0HMBh3Qrtl7KFna112XXvTxdxHTr4v64MYaHB-tq3E43y3ohOCjS9TqjO5DeX2bGmvvNAzKw11d77f6YIyz_VkYEkTl9bl2EuYEMbKxnJqIe5YhdjJSCURxn2ZgceGmae5Zhsqeg_365eq--phFuONZFPW7HsIRuWjXsyz3p4EbjnGyLef95QLZmBXTeREHF8l_Y4bItaZx8mIxylvc5qvVYt1r42QQgtNNxxuKZDOEw2GHs2jhj1de2Eih3LpgFlN9zzNK2pgjKI7WRRWpNhGUVXQeckgYbi8Qu1ekV3q4bBDR2DJVue&q=California+DanceArts+%26+California+Contemporary+Ballet+La+Ca%C3%B1ada+Flintridge&sa=X&ved=2ahUKEwjk6N3J6OSWAxWkrlYBHU4VIw4Qs9oBKAB6BAgeEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=California+DanceArts+%26+California+Contemporary+Ballet+La+Ca%C3%B1ada+Flintridge&si=APenkKllX05q7xl66dAosm6nb1iuMgV7Bv8meTZS-zIzIS3OMyudBnrckYU4L0ubGaNvhJVINpuICEGN-1XDkKU0HMBh3Qrtl7KFna112XXvTxdxHTr4v64MYaHB-tq3E43y3ohOCjS9TqjO5DeX2bGmvvNAzKw11d77f6YIyz_VkYEkTl9bl2EuYEMbKxnJqIe5YhdjJSCURxn2ZgceGmae5Zhsqeg_365eq--phFuONZFPW7HsIRuWjXsyz3p4EbjnGyLef95QLZmBXTeREHF8l_Y4bItaZx8mIxylvc5qvVYt1r42QQgtNNxxuKZDOEw2GHs2jhj1de2Eih3LpgFlN9zzNK2pgjKI7WRRWpNhGUVXQeckgYbi8Qu1ekV3q4bBDR2DJVue"
+   },
+   {
+    "name": "Burbank Dance Academy",
+    "image": "https://serpapi.com/searches/6aa30e504fa3ba493ab6c001/images/gk8dPU0QGXhCOdD6IQv9G_m5WYYmajym6_iFsFklcSARwWq6urrEiVn_6I5ez6iQ.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKllX05q7xl66dAosm6nb1iuMgV7Bv8meTZS-zIzIS3OM0dOIM2oFUQi0QP4tytEko88sXco2DiPV1g1GIfQ8fYp1dIkm0allhlWbaxWqGePzH17iWwAAfNVYGcUxLkVEO-7PhJ9UfRvdy1Lw209I-xxHnDm0MUNQXmLitFNWr5OuuN_6ckR3btxNU2zpw-Fv62t0hTbLYw2GxE_S6hxv81iTH4GicPx6JjoZhCVxM5E9jiy5GpL2qVW7Aa6_ueiyC8ksTAYkNRMJUAHS7JkOzgr7Se68PGnsOF9f_7_DLQE5MT7xTABm3dr56uRMeRCnA0i0TY5&q=Burbank+Dance+Academy&sa=X&ved=2ahUKEwjk6N3J6OSWAxWkrlYBHU4VIw4Qs9oBKAB6BAgeEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Burbank+Dance+Academy&si=APenkKllX05q7xl66dAosm6nb1iuMgV7Bv8meTZS-zIzIS3OM0dOIM2oFUQi0QP4tytEko88sXco2DiPV1g1GIfQ8fYp1dIkm0allhlWbaxWqGePzH17iWwAAfNVYGcUxLkVEO-7PhJ9UfRvdy1Lw209I-xxHnDm0MUNQXmLitFNWr5OuuN_6ckR3btxNU2zpw-Fv62t0hTbLYw2GxE_S6hxv81iTH4GicPx6JjoZhCVxM5E9jiy5GpL2qVW7Aa6_ueiyC8ksTAYkNRMJUAHS7JkOzgr7Se68PGnsOF9f_7_DLQE5MT7xTABm3dr56uRMeRCnA0i0TY5"
+   },
+   {
+    "name": "Movement Lifestyle",
+    "image": "https://serpapi.com/searches/6aa30e504fa3ba493ab6c001/images/gk8dPU0QGXhCOdD6IQv9G_m5WYYmajym6_iFsFklcSB-ICo20cI73wvKOMBdpfQD.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKnTl1SNyGw93eJictriFKjA8wrAY1gKp22d_AvA68HEcihKW-_Pxhaxq9SsSsbjAOTXxTWesXnOIxTylr3TsMRTZEgRM40R5aEvQukL-45Fd-XD4Ticjg3jtVKF_zYBIATRbwiKzwJyQn65oY0pYAiAtsOTRVSOn0J8z9JhaEAVaBNyOiJZbxCcCRjLJfh1TsfQ7GI12nDyZKrXVN8skdgLMmFCQqSKmPNUv0UuyTJlAn7tdz7rTi2MvB8afqav9kE-Weuqe0QSj0rD2R0xyzYCzJdmz03VwNphXbp_UV16NpFN94H0kveS111Ny0EfSOVg1La_&q=Movement+Lifestyle&sa=X&ved=2ahUKEwjk6N3J6OSWAxWkrlYBHU4VIw4Qs9oBKAB6BAgeEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Movement+Lifestyle&si=APenkKnTl1SNyGw93eJictriFKjA8wrAY1gKp22d_AvA68HEcihKW-_Pxhaxq9SsSsbjAOTXxTWesXnOIxTylr3TsMRTZEgRM40R5aEvQukL-45Fd-XD4Ticjg3jtVKF_zYBIATRbwiKzwJyQn65oY0pYAiAtsOTRVSOn0J8z9JhaEAVaBNyOiJZbxCcCRjLJfh1TsfQ7GI12nDyZKrXVN8skdgLMmFCQqSKmPNUv0UuyTJlAn7tdz7rTi2MvB8afqav9kE-Weuqe0QSj0rD2R0xyzYCzJdmz03VwNphXbp_UV16NpFN94H0kveS111Ny0EfSOVg1La_"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Gevorkian+Dance+Academy&stick=H4sIAAAAAAAAAONgFuLWT9c3LEkvyLMorFRC5mgJBmempJYnVhb7pVaUBJekFhT_YhQLSM0vyElVSMwpzlcoTk0sSs5QSMsvWsQq7p5all-UnZmYp-CSmJecquCYnJiSmlu5g5XxFpskwxuHisBcvqbOJeGGh1i1F22OSAq2SQ_7fhwAlu3dl4EAAAA&sa=X&ved=2ahUKEwjk6N3J6OSWAxWkrlYBHU4VIw4QzO0BKAR6BAgeEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLWT9c3LEkvyLMorFRC5mgJBmempJYnVhb7pVaUBJekFhT_YhQLSM0vyElVSMwpzlcoTk0sSs5QSMsvWsQq7p5all-UnZmYp-CSmJecquCYnJiSmlu5g5XxFpskwxuHisBcvqbOJeGGh1i1F22OSAq2SQ_7fhwAlu3dl4EAAAA",
+  "profiles": [
+   {
+    "name": "YouTube",
+    "link": "https://www.youtube.com/@vandsdance",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22GevorkianDance+Academy%22",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAP1BMVEX_____z8__n5__kJD_gID_cHD_YGD_v7__39__ICD_AAD_r6__EBD_7-__oKD_MDD_QED_UFD_X1__j4__f396G04EAAAAhklEQVR4AeXQRQLDQAwDQC3bajj5_1dLYb63czYKf8VY50OcBO9swkyUB_SBkfJQlqOXeKJAz_FEQM9zVCqXInqRIy-RC9W-AJDypgCwyoGiV68LkLJFwX6CVJcr8nBwZJgLXMaDAs9RxsMcLE949IQnEnpoeKjEpC25o12OpVwkTURy_JQX1r4RC2S7kZYAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/gevorkiandance/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22GevorkianDance+Academy%22",
+    "image": "https://serpapi.com/searches/6aa30e504fa3ba493ab6c001/images/gk8dPU0QGXhCOdD6IQv9GyrdvTUQddUnb6U6xfNrmZeNzmzZCvFelDBZdml88MX0.png"
+   },
+   {
+    "name": "TikTok",
+    "link": "https://www.tiktok.com/@araarmain",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22GevorkianDance+Academy%22",
+    "image": "https://serpapi.com/searches/6aa30e504fa3ba493ab6c001/images/gk8dPU0QGXhCOdD6IQv9G4B5Hlw3iqsnmmi-p0YFkT6P6UWqWOeFI0hlDSDTCjHW.png"
+   }
+  ]
+ },
+ "short_videos": [
+  {
+   "position": 1,
+   "title": "Gevorkian Dance Academy (@gevorkiandanceacademy) ... by Huys on Facebook. Play on Facebook. 1:14",
+   "source": "Facebook",
+   "profile_name": "Huys",
+   "extensions": [
+    "Huys"
+   ],
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "duration": "1:14",
+   "thumbnail": "https://serpapi.com/searches/6aa30e504fa3ba493ab6c001/images/n632ex_Z3IYIcXtNt0zfZfCpsh1qXus-uirAoCoFoWA.jpeg",
+   "link": "https://www.facebook.com/huysmedia/videos/gevorkian-dance-academy-gevorkiandanceacademy-proudly-represented-armenia-at-the/894004449956656/"
+  },
+  {
+   "position": 2,
+   "title": "\u2b50\ufe0f\ud83d\udc96\ud83c\udde6\ud83c\uddf2 Gevorkian Dance Academy - \u201cSevani\u201d \ud83c\udde6\ud83c\uddf2\ud83d\udc96\u2b50\ufe0f Video ... by THE ART OF ARMENIAN & MIDDLE EASTERN COOKING on Facebook. Play on Facebook. 1:35",
+   "source": "Facebook",
+   "profile_name": "THE ART OF ARMENIAN & MIDDLE EASTERN COOKING",
+   "extensions": [
+    "THE ART OF ARMENIAN & MIDDLE EASTERN COOKING"
+   ],
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "duration": "1:35",
+   "thumbnail": "https://serpapi.com/searches/6aa30e504fa3ba493ab6c001/images/Qxmp9Qc7C4nN4MkK7yPlzSzdoWVyHj3c8ZvRBASC0cs.jpeg",
+   "link": "https://www.facebook.com/armenianandmiddleeasterncooking/videos/%EF%B8%8F-gevorkian-dance-academy-sevani-%EF%B8%8Fvideo-courtesy-of-sona-gevorkian-sona_gdahttps/1663901068392386/"
+  },
+  {
+   "position": 3,
+   "title": "Gevorkian Dance Academy (@gevorkiandanceacademy) ... by huys on Instagram. Play on Instagram. 1:13",
+   "source": "Instagram",
+   "profile_name": "huys",
+   "extensions": [
+    "huys"
+   ],
+   "source_logo": "https://serpapi.com/searches/6aa30e504fa3ba493ab6c001/images/j9N5ahKTKWcJJ3V6VsitMGUht1C5Bs3FM9qt5WYl8aQ.png",
+   "duration": "1:13",
+   "thumbnail": "https://serpapi.com/searches/6aa30e504fa3ba493ab6c001/images/ATxszzNfzpxp6NBgn9Fz9RQZRwg1ja6SRt-p7dbqAI4.jpeg",
+   "link": "https://www.instagram.com/reel/DRxS1n8Dy_r/?hl=en"
+  },
+  {
+   "position": 4,
+   "title": "Gevorkian Dance Academy - AVARAYR \ud83c\udde6\ud83c\uddf2\u2b50\ud83c\udf84 Choreography by by THE ART OF ARMENIAN & MIDDLE EASTERN COOKING on Facebook. Play on Facebook. 1:27",
+   "source": "Facebook",
+   "profile_name": "THE ART OF ARMENIAN & MIDDLE EASTERN COOKING",
+   "extensions": [
+    "THE ART OF ARMENIAN & MIDDLE EASTERN COOKING"
+   ],
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "duration": "1:27",
+   "thumbnail": "https://serpapi.com/searches/6aa30e504fa3ba493ab6c001/images/XqWjMFH3n7t4acCUEJVHgfpGtJLkS5RwqvJC3OaUe9Q.jpeg",
+   "link": "https://www.facebook.com/armenianandmiddleeasterncooking/videos/-gevorkian-dance-academy-avarayr-choreography-by-sona-gevorkian-music-by-ara-gev/24008807955484372/"
+  },
+  {
+   "position": 5,
+   "title": "\u2b50\ufe0f\ud83d\udc96\u2b50\ufe0f\ud83c\udde6\ud83c\uddf2 Gevorkian Dance Academy \ud83c\udde6\ud83c\uddf2\u2b50\ufe0f\ud83d\udc96\u2b50\ufe0f 30th ... by THE ART OF ARMENIAN & MIDDLE EASTERN COOKING on Facebook. Play on Facebook. 1:22",
+   "source": "Facebook",
+   "profile_name": "THE ART OF ARMENIAN & MIDDLE EASTERN COOKING",
+   "extensions": [
+    "THE ART OF ARMENIAN & MIDDLE EASTERN COOKING"
+   ],
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "duration": "1:22",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSys8bproUGtxUoxiYQwd_mnbMA6HlN7pSUVM1aSEzZxDgfG74k57049Zk&s=10",
+   "link": "https://www.facebook.com/armenianandmiddleeasterncooking/videos/%EF%B8%8F%EF%B8%8F-gevorkian-dance-academy-%EF%B8%8F%EF%B8%8F30th-anniversary-concertver-verivideo-via-sona-gevo/845388181635316/"
+  },
+  {
+   "position": 6,
+   "title": "\u2764\u2b50\ud83c\udde6\ud83c\uddf2 \" YEREVAN \" Performed By Gevorkian Dance Academy ... by THE ART OF ARMENIAN & MIDDLE EASTERN COOKING on Facebook. Play on Facebook. 1:31",
+   "source": "Facebook",
+   "profile_name": "THE ART OF ARMENIAN & MIDDLE EASTERN COOKING",
+   "extensions": [
+    "THE ART OF ARMENIAN & MIDDLE EASTERN COOKING"
+   ],
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "duration": "1:31",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWCBW3jHokuwY4ym048yUPHSfBeQKMwXoJeYwW9aYsgikon72ttlMdBp0&s=10",
+   "link": "https://www.facebook.com/armenianandmiddleeasterncooking/videos/-yerevan-performed-by-gevorkian-dance-academymusic-by-none-other-than-aragevorgy/887043904132087/"
+  },
+  {
+   "position": 7,
+   "title": "Hrashq Mamas Papas You started Gevorkian Dance Academy ... by Sona Gevorkian on Instagram. Play on Instagram. 0:38",
+   "source": "Instagram",
+   "profile_name": "Sona Gevorkian",
+   "extensions": [
+    "Sona Gevorkian"
+   ],
+   "source_logo": "https://serpapi.com/searches/6aa30e504fa3ba493ab6c001/images/z6Z4OjDB1dYuPoYdN5gjFHVSxB5XUbNltqoAVQt2Dew.png",
+   "duration": "0:38",
+   "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSmy2HiTGGxw7NYO_r7FDQPokrAIkeWP01I7w",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUuQ4WpOKb_rwAfDELdEqc5237Ue-Wsw2uvagsn5jlh8gD7U_BBaQKsFs&s=10",
+   "link": "https://www.instagram.com/reel/DKJYwePxGEr/?hl=en"
+  },
+  {
+   "position": 8,
+   "title": "Gevorkian Dance Academy performing at the Armenian ... by Sona Gevorkian on Instagram. Play on Instagram. 0:57",
+   "source": "Instagram",
+   "profile_name": "Sona Gevorkian",
+   "extensions": [
+    "Sona Gevorkian"
+   ],
+   "source_logo": "https://serpapi.com/searches/6aa30e504fa3ba493ab6c001/images/8yTO-mfdXByINK9QOLZIHnP4q7Y3kY26-558H-1pxZs.png",
+   "duration": "0:57",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzX1QsaR3cGpzQF0DQeu2i4GWN-5yiVtEfNlFX5yHY_JqhiWAJAA4uUi0&s=10",
+   "link": "https://www.instagram.com/reel/DJQpKwAxBaL/?hl=en"
+  },
+  {
+   "position": 9,
+   "title": "Gevorkian Dance Academy representing Armenia at the \u201c ... by Sona Gevorkian on Instagram. Play on Instagram. 1:06",
+   "source": "Instagram",
+   "profile_name": "Sona Gevorkian",
+   "extensions": [
+    "Sona Gevorkian"
+   ],
+   "source_logo": "https://serpapi.com/searches/6aa30e504fa3ba493ab6c001/images/M2Cp_wpiRI2ZW4gbpXqYAPXgUx8qWyeiyQ3WFkJOHSk.png",
+   "duration": "1:06",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5FLkoW79p4GeeClaUDucFO0Cx3lVO-gIEtMc0yJjd1xq1oT_LIMJVC08&s=10",
+   "link": "https://www.instagram.com/reel/DJQ6Qtcx_We/"
+  },
+  {
+   "position": 10,
+   "title": "6pm Celebrating Gevorkian Dance Academy's 30th ... by Sona Gevorkian on Instagram. Play on Instagram. 0:30",
+   "source": "Instagram",
+   "profile_name": "Sona Gevorkian",
+   "extensions": [
+    "Sona Gevorkian"
+   ],
+   "source_logo": "https://serpapi.com/searches/6aa30e504fa3ba493ab6c001/images/n4E-qpkISepVxRF_vIm3nflub7DQ9zBNHmjzVd2Bv88.png",
+   "duration": "0:30",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGzf0SvYLk0WgUOPUCGHZoRfcAStinX8bO5yjie2F5KRwtIH-94PlSpkA&s=10",
+   "link": "https://www.instagram.com/reel/DJ7gqDMzhkz/?hl=en"
+  }
+ ],
+ "related_questions": [
+  {
+   "question": "What is the most prestigious dance school in the world?",
+   "type": "ai_overview",
+   "page_token": "fWCd9HicHdBdbpswAABg7TJ9bID8rIkUTWIxUCs2xeAf_DIRQ-JgQ5wGhSRvvUEP0VP1NJt2g0_fx5c99ub7x6ceBndZTSbjOD4fTqeDbZ7VqZtUl3uvJqqydlcps1r8XPi_9moNrmX4-12FGXWObYiXB9mjjpxNE_haGfjALZoWYECFUY-yLUcuXCp8fSXcxZhFshb4TUxBUPJ5SynUnJGwiqxRRs1owkge2PnuIS_FVN3rwN1ohwLcs2sh6nMavc62hcR5ojdZwEBVsEVuQ113cy0FjDlY4q0I9w0AXmGtkxEUmCuv9iDKWts2FN1UQn0UQCmZfsN-tK0NQ0gQJ33gIfYyQy1cSEYYj-2m2pCeecOZBVEqKcNAS0YLeS5FRFPwTxBnd9Uts6aPbgXHJD7CkCT4nnJJ81h5u6NfEi8bMX0Zmp4cUwpN1RO0M0uNhCVPe3VdT5_-T6__7Lth5d5Ph7-2LIrG",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=fWCd9HicHdBdbpswAABg7TJ9bID8rIkUTWIxUCs2xeAf_DIRQ-JgQ5wGhSRvvUEP0VP1NJt2g0_fx5c99ub7x6ceBndZTSbjOD4fTqeDbZ7VqZtUl3uvJqqydlcps1r8XPi_9moNrmX4-12FGXWObYiXB9mjjpxNE_haGfjALZoWYECFUY-yLUcuXCp8fSXcxZhFshb4TUxBUPJ5SynUnJGwiqxRRs1owkge2PnuIS_FVN3rwN1ohwLcs2sh6nMavc62hcR5ojdZwEBVsEVuQ113cy0FjDlY4q0I9w0AXmGtkxEUmCuv9iDKWts2FN1UQn0UQCmZfsN-tK0NQ0gQJ33gIfYyQy1cSEYYj-2m2pCeecOZBVEqKcNAS0YLeS5FRFPwTxBnd9Uts6aPbgXHJD7CkCT4nnJJ81h5u6NfEi8bMX0Zmp4cUwpN1RO0M0uNhCVPe3VdT5_-T6__7Lth5d5Ph7-2LIrG",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTFJ6aDBOVUZWWDNwMVJEVmZUa2RLUkRCbVJFdzNYM2Q2ZVZnME5UQXpkMUJuVDAweU9HSTNkbGwzTmpsaldWUmZZVFJxZVhCM1FtVjNWRFJKUTFoSE9GOVFNVU5wU0ROT2MweEhTSFJUUkROdVJtcFRiekJEUlV4cFp4SVdWVkUyYW1GeFZEaEVObFJrTW5KdlVIcHhjVTFqVVJvaVFVUnpjamxtVkdwZldsRkRhVXRsY0VWcGVVZzRNbFYxY0UwM1JGWlFMVzVsVVEiLCJmY3YiOiIzIiwiZWkiOiJVUTZqYXFUOEQ2VGQycm9QenFxTWNRIiwicWMiOiJDaGRuWlhadmNtdHBZVzRnWkdGdVkyVWdZV05oWkdWdGVSQUFmYzdpR1Q4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBtb3N0IHByZXN0aWdpb3VzIGRhbmNlIHNjaG9vbCBpbiB0aGUgd29ybGQ/IiwibGsiOiJHaXB0YjNOMElIQnlaWE4wYVdkcGIzVnpJR1JoYm1ObElITmphRzl2YkNCcGJpQjBhR1VnZDI5eWJHUSIsImJzIjoiYzVXUVBRc0NNUXlHY2Uza2ZGTW1FVDlBdXpoMmNIZHhFQWVIZWhmYmNOb2NUZlh3MzFzUEJVRkIzVUo1bmpkdnFweGFiTHhOUUFMSkk1eFlFalFSSlpFalBndFVOcFFJVW5ybUkxRG9vSmJqc1RKNlVveC14NVZUODI2UmpkaTlKbTdnUUJkOEtObUl5QzdheGw4ZnZoaXRpMW43cDZSMmF2SjYwY0dlUGhWYllRdGJqclhSMDJMY2Z1ZEQ1cS1aVjdVeUcwLWxoNlduZ0lKdjVKcUNzMDB1ZGs4c09RaFZHTEhxd3ZmNXA0d2VGb1A3a090X1RwQm5RcjkzQXciLCJpZCI6ImZjX1VRNmphcVQ4RDZUZDJyb1B6cXFNY1FfMyJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTFJ6aDBOVUZWWDNwMVJEVmZUa2RLUkRCbVJFdzNYM2Q2ZVZnME5UQXpkMUJuVDAweU9HSTNkbGwzTmpsaldWUmZZVFJxZVhCM1FtVjNWRFJKUTFoSE9GOVFNVU5wU0ROT2MweEhTSFJUUkROdVJtcFRiekJEUlV4cFp4SVdWVkUyYW1GeFZEaEVObFJrTW5KdlVIcHhjVTFqVVJvaVFVUnpjamxtVkdwZldsRkRhVXRsY0VWcGVVZzRNbFYxY0UwM1JGWlFMVzVsVVEiLCJmY3YiOiIzIiwiZWkiOiJVUTZqYXFUOEQ2VGQycm9QenFxTWNRIiwicWMiOiJDaGRuWlhadmNtdHBZVzRnWkdGdVkyVWdZV05oWkdWdGVSQUFmYzdpR1Q4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBtb3N0IHByZXN0aWdpb3VzIGRhbmNlIHNjaG9vbCBpbiB0aGUgd29ybGQ%2FIiwibGsiOiJHaXB0YjNOMElIQnlaWE4wYVdkcGIzVnpJR1JoYm1ObElITmphRzl2YkNCcGJpQjBhR1VnZDI5eWJHUSIsImJzIjoiYzVXUVBRc0NNUXlHY2Uza2ZGTW1FVDlBdXpoMmNIZHhFQWVIZWhmYmNOb2NUZlh3MzFzUEJVRkIzVUo1bmpkdnFweGFiTHhOUUFMSkk1eFlFalFSSlpFalBndFVOcFFJVW5ybUkxRG9vSmJqc1RKNlVveC14NVZUODI2UmpkaTlKbTdnUUJkOEtObUl5QzdheGw4ZnZoaXRpMW43cDZSMmF2SjYwY0dlUGhWYllRdGJqclhSMDJMY2Z1ZEQ1cS1aVjdVeUcwLWxoNlduZ0lKdjVKcUNzMDB1ZGs4c09RaFZHTEhxd3ZmNXA0d2VGb1A3a090X1RwQm5RcjkzQXciLCJpZCI6ImZjX1VRNmphcVQ4RDZUZDJyb1B6cXFNY1FfMyJ9"
+  },
+  {
+   "question": "What are the top five dance choreography schools?",
+   "type": "ai_overview",
+   "page_token": "zXvXmHicHdBRbpswAABQ7TL9bAIsnRIpqsawQ1hwZINt8M8EhkBlG9zELYG_3qCH6Kl2mkl7R3gfX_plUH-_ffbO2dtutZqm6bEbx063j3I0q-o2D3IlK63rSqrd048n7_ki9-C9DH9dZYiptSwi6xwkBlGRSNZsKuPSxqCeH0gk4-MmHXqL1vZVBrpkkeaZ3hIEoEqHJms0tCfuonNhL9K_jyQSS3uwb6WCI-HbhQ_d1AA3Y9ZfuRo9zF1BFfkuYz3UWvdoLYKUekuqNm-5F3KaeV5DRST9RCDfAgbRTPkxSBURTcBEnSchNtirIDpxgHAbC8FYT-uFcMKsqDU5ZXE_SACL1Nx_M9NNrdZHxH7eM0pCtGgBesFoLl7LAtIzwD474FmaLW4HeM85IoeXJCQxms9ckJJCR40NMiputSKbKtIB9rslNQ5mhUZpTMjDRb7vg4f_0_s_F-N29jp2_wDzqY4K",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=zXvXmHicHdBRbpswAABQ7TL9bAIsnRIpqsawQ1hwZINt8M8EhkBlG9zELYG_3qCH6Kl2mkl7R3gfX_plUH-_ffbO2dtutZqm6bEbx063j3I0q-o2D3IlK63rSqrd048n7_ki9-C9DH9dZYiptSwi6xwkBlGRSNZsKuPSxqCeH0gk4-MmHXqL1vZVBrpkkeaZ3hIEoEqHJms0tCfuonNhL9K_jyQSS3uwb6WCI-HbhQ_d1AA3Y9ZfuRo9zF1BFfkuYz3UWvdoLYKUekuqNm-5F3KaeV5DRST9RCDfAgbRTPkxSBURTcBEnSchNtirIDpxgHAbC8FYT-uFcMKsqDU5ZXE_SACL1Nx_M9NNrdZHxH7eM0pCtGgBesFoLl7LAtIzwD474FmaLW4HeM85IoeXJCQxms9ckJJCR40NMiputSKbKtIB9rslNQ5mhUZpTMjDRb7vg4f_0_s_F-N29jp2_wDzqY4K",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTFJ6aDBOVUZWWDNwMVJEVmZUa2RLUkRCbVJFdzNYM2Q2ZVZnME5UQXpkMUJuVDAweU9HSTNkbGwzTmpsaldWUmZZVFJxZVhCM1FtVjNWRFJKUTFoSE9GOVFNVU5wU0ROT2MweEhTSFJUUkROdVJtcFRiekJEUlV4cFp4SVdWVkUyYW1GeFZEaEVObFJrTW5KdlVIcHhjVTFqVVJvaVFVUnpjamxtVkdwZldsRkRhVXRsY0VWcGVVZzRNbFYxY0UwM1JGWlFMVzVsVVEiLCJmY3YiOiIzIiwiZWkiOiJVUTZqYXFUOEQ2VGQycm9QenFxTWNRIiwicWMiOiJDaGRuWlhadmNtdHBZVzRnWkdGdVkyVWdZV05oWkdWdGVSQUFmYzdpR1Q4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgdG9wIGZpdmUgZGFuY2UgY2hvcmVvZ3JhcGh5IHNjaG9vbHM/IiwibGsiOiJjNU15S005SUxGRklMRXBWS01rQTR2d0NoYlRNc2xTRmxNUzg1RlNGNUl6OG90VDg5S0xFZ294S2hXSWdMei1uR0FBIiwiYnMiOiJjNVdRUFFzQ01ReUdjZTNrZkZNbUVUOUF1emgyY0hkeEVBZUhlaGZiY05vY1RmWHczMXNQQlVGQjNVSjVuamR2cXB4YWJMeE5RQUxKSTV4WUVqUVJKWkVqUGd0VU5wUUlVbnJtSTFEb29KYmpzVEo2VW94LXg1VlQ4MjZSamRpOUptN2dRQmQ4S05tSXlDN2F4bDhmdmhpdGkxbjdwNlIyYXZKNjBjR2VQaFZiWVF0YmpyWFIwMkxjZnVkRDVxLVpWN1V5RzAtbGg2V25nSUp2NUpxQ3MwMHVkazhzT1FoVkdMSHF3dmY1cDR3ZUZvUDdrT3RfVHBCblFyOTNBdyIsImlkIjoiZmNfVVE2amFxVDhENlRkMnJvUHpxcU1jUV8zIn0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTFJ6aDBOVUZWWDNwMVJEVmZUa2RLUkRCbVJFdzNYM2Q2ZVZnME5UQXpkMUJuVDAweU9HSTNkbGwzTmpsaldWUmZZVFJxZVhCM1FtVjNWRFJKUTFoSE9GOVFNVU5wU0ROT2MweEhTSFJUUkROdVJtcFRiekJEUlV4cFp4SVdWVkUyYW1GeFZEaEVObFJrTW5KdlVIcHhjVTFqVVJvaVFVUnpjamxtVkdwZldsRkRhVXRsY0VWcGVVZzRNbFYxY0UwM1JGWlFMVzVsVVEiLCJmY3YiOiIzIiwiZWkiOiJVUTZqYXFUOEQ2VGQycm9QenFxTWNRIiwicWMiOiJDaGRuWlhadmNtdHBZVzRnWkdGdVkyVWdZV05oWkdWdGVSQUFmYzdpR1Q4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgdG9wIGZpdmUgZGFuY2UgY2hvcmVvZ3JhcGh5IHNjaG9vbHM%2FIiwibGsiOiJjNU15S005SUxGRklMRXBWS01rQTR2d0NoYlRNc2xTRmxNUzg1RlNGNUl6OG90VDg5S0xFZ294S2hXSWdMei1uR0FBIiwiYnMiOiJjNVdRUFFzQ01ReUdjZTNrZkZNbUVUOUF1emgyY0hkeEVBZUhlaGZiY05vY1RmWHczMXNQQlVGQjNVSjVuamR2cXB4YWJMeE5RQUxKSTV4WUVqUVJKWkVqUGd0VU5wUUlVbnJtSTFEb29KYmpzVEo2VW94LXg1VlQ4MjZSamRpOUptN2dRQmQ4S05tSXlDN2F4bDhmdmhpdGkxbjdwNlIyYXZKNjBjR2VQaFZiWVF0YmpyWFIwMkxjZnVkRDVxLVpWN1V5RzAtbGg2V25nSUp2NUpxQ3MwMHVkazhzT1FoVkdMSHF3dmY1cDR3ZUZvUDdrT3RfVHBCblFyOTNBdyIsImlkIjoiZmNfVVE2amFxVDhENlRkMnJvUHpxcU1jUV8zIn0%3D"
+  },
+  {
+   "question": "What is the famous dance school in New York?",
+   "type": "ai_overview",
+   "page_token": "FlJS4nicHdBLUsIwAADQ8TIuhbQVB2YYZypN-Jhg0ubTbJySFApNP0AVys67eCpPo-P-rd7Xt9vX5c9dV3Rde54MBpfL5WHXNDuXP5imGmTnvjYDkzm3yUw5GT2NwPPWTKOPKHw5LkLK21bM2DD2Fp5xrcbz4pgmIU_ltSXSIVs3Pr8RphV5o7JY5TGQ8UGgTP1ZFFyJhEU-g4s1gkNcEbpOxErOrRa1ZbHUC4IYS4ew5NVSSg7e2M3dYqD7fGaztFwGBLYjLB-LjXJAOHbalKATvjvEw7HUJb6xWRRYIILYg74UGGDFPjdKX1jJA8uLyqrWTxWjtmIiBuI1AQRiEYZRoQVP9DFVkK8j6glEe1ONaV7DayIJQ_tlyOakX0vNBdJIH0JoKwpovVylh-LIPHM1aBfYHmCsrH-_NZ9T__5_c_q-rbpJe2p2v2Z_gPk",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=FlJS4nicHdBLUsIwAADQ8TIuhbQVB2YYZypN-Jhg0ubTbJySFApNP0AVys67eCpPo-P-rd7Xt9vX5c9dV3Rde54MBpfL5WHXNDuXP5imGmTnvjYDkzm3yUw5GT2NwPPWTKOPKHw5LkLK21bM2DD2Fp5xrcbz4pgmIU_ltSXSIVs3Pr8RphV5o7JY5TGQ8UGgTP1ZFFyJhEU-g4s1gkNcEbpOxErOrRa1ZbHUC4IYS4ew5NVSSg7e2M3dYqD7fGaztFwGBLYjLB-LjXJAOHbalKATvjvEw7HUJb6xWRRYIILYg74UGGDFPjdKX1jJA8uLyqrWTxWjtmIiBuI1AQRiEYZRoQVP9DFVkK8j6glEe1ONaV7DayIJQ_tlyOakX0vNBdJIH0JoKwpovVylh-LIPHM1aBfYHmCsrH-_NZ9T__5_c_q-rbpJe2p2v2Z_gPk",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTFJ6aDBOVUZWWDNwMVJEVmZUa2RLUkRCbVJFdzNYM2Q2ZVZnME5UQXpkMUJuVDAweU9HSTNkbGwzTmpsaldWUmZZVFJxZVhCM1FtVjNWRFJKUTFoSE9GOVFNVU5wU0ROT2MweEhTSFJUUkROdVJtcFRiekJEUlV4cFp4SVdWVkUyYW1GeFZEaEVObFJrTW5KdlVIcHhjVTFqVVJvaVFVUnpjamxtVkdwZldsRkRhVXRsY0VWcGVVZzRNbFYxY0UwM1JGWlFMVzVsVVEiLCJmY3YiOiIzIiwiZWkiOiJVUTZqYXFUOEQ2VGQycm9QenFxTWNRIiwicWMiOiJDaGRuWlhadmNtdHBZVzRnWkdGdVkyVWdZV05oWkdWdGVSQUFmYzdpR1Q4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBmYW1vdXMgZGFuY2Ugc2Nob29sIGluIE5ldyBZb3JrPyIsImxrIjoiR2l0M2FHRjBJR2x6SUhSb1pTQm1ZVzF2ZFhNZ1pHRnVZMlVnYzJOb2IyOXNJR2x1SUc1bGR5QjViM0pyIiwiYnMiOiJjNVdRUFFzQ01ReUdjZTNrZkZNbUVUOUF1emgyY0hkeEVBZUhlaGZiY05vY1RmWHczMXNQQlVGQjNVSjVuamR2cXB4YWJMeE5RQUxKSTV4WUVqUVJKWkVqUGd0VU5wUUlVbnJtSTFEb29KYmpzVEo2VW94LXg1VlQ4MjZSamRpOUptN2dRQmQ4S05tSXlDN2F4bDhmdmhpdGkxbjdwNlIyYXZKNjBjR2VQaFZiWVF0YmpyWFIwMkxjZnVkRDVxLVpWN1V5RzAtbGg2V25nSUp2NUpxQ3MwMHVkazhzT1FoVkdMSHF3dmY1cDR3ZUZvUDdrT3RfVHBCblFyOTNBdyIsImlkIjoiZmNfVVE2amFxVDhENlRkMnJvUHpxcU1jUV8zIn0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTFJ6aDBOVUZWWDNwMVJEVmZUa2RLUkRCbVJFdzNYM2Q2ZVZnME5UQXpkMUJuVDAweU9HSTNkbGwzTmpsaldWUmZZVFJxZVhCM1FtVjNWRFJKUTFoSE9GOVFNVU5wU0ROT2MweEhTSFJUUkROdVJtcFRiekJEUlV4cFp4SVdWVkUyYW1GeFZEaEVObFJrTW5KdlVIcHhjVTFqVVJvaVFVUnpjamxtVkdwZldsRkRhVXRsY0VWcGVVZzRNbFYxY0UwM1JGWlFMVzVsVVEiLCJmY3YiOiIzIiwiZWkiOiJVUTZqYXFUOEQ2VGQycm9QenFxTWNRIiwicWMiOiJDaGRuWlhadmNtdHBZVzRnWkdGdVkyVWdZV05oWkdWdGVSQUFmYzdpR1Q4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBmYW1vdXMgZGFuY2Ugc2Nob29sIGluIE5ldyBZb3JrPyIsImxrIjoiR2l0M2FHRjBJR2x6SUhSb1pTQm1ZVzF2ZFhNZ1pHRnVZMlVnYzJOb2IyOXNJR2x1SUc1bGR5QjViM0pyIiwiYnMiOiJjNVdRUFFzQ01ReUdjZTNrZkZNbUVUOUF1emgyY0hkeEVBZUhlaGZiY05vY1RmWHczMXNQQlVGQjNVSjVuamR2cXB4YWJMeE5RQUxKSTV4WUVqUVJKWkVqUGd0VU5wUUlVbnJtSTFEb29KYmpzVEo2VW94LXg1VlQ4MjZSamRpOUptN2dRQmQ4S05tSXlDN2F4bDhmdmhpdGkxbjdwNlIyYXZKNjBjR2VQaFZiWVF0YmpyWFIwMkxjZnVkRDVxLVpWN1V5RzAtbGg2V25nSUp2NUpxQ3MwMHVkazhzT1FoVkdMSHF3dmY1cDR3ZUZvUDdrT3RfVHBCblFyOTNBdyIsImlkIjoiZmNfVVE2amFxVDhENlRkMnJvUHpxcU1jUV8zIn0%3D"
+  },
+  {
+   "question": "Which Chinese dance school in Singapore is considered the best?",
+   "type": "ai_overview",
+   "page_token": "FYmz3XicHZHLcpswAACnP5NjLEGaNp7xZEosQehYriQkQJeOkMAOiEcDNYZb_6XHfFG_pmnvO7uH_fXbvXTNnw9v52kaxu1mM8_z7anvT668NX270ePSmY3RzhXaNNv7T_fwsTI71I9PT-McUDEMcs8A93FqOnItOoy0U32-qkACy4tUVoUHvyZuSDUCq2nPP_NWdkSaRWPJrWSvuadq0Q6-DcleuOBIV9wXtb3mDY4oAFAAATIYOAGoV4Sf7w41YwzZixInYAQ-8PrLKjwlygg_ayEmXQeLkW4sIlcn0QBtKKsM2uN7I-d-rEXtJoP6RfiYprWSIgloid_ZTMUSPXDr3PkYssZINZNGtaQjRHsfvxHkYCrpZEOXHZqBixDukyy-8JSuha-eSed6dP7nUz_yDIsjop4M6WLaB1p2-JqkhIUvccAishxTxbNVQR6xRiHjG8CgTeQqanFXihwUbSxNe2U3lbns_Jv_F3bfq3baDq_96S955pbL",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=FYmz3XicHZHLcpswAACnP5NjLEGaNp7xZEosQehYriQkQJeOkMAOiEcDNYZb_6XHfFG_pmnvO7uH_fXbvXTNnw9v52kaxu1mM8_z7anvT668NX270ePSmY3RzhXaNNv7T_fwsTI71I9PT-McUDEMcs8A93FqOnItOoy0U32-qkACy4tUVoUHvyZuSDUCq2nPP_NWdkSaRWPJrWSvuadq0Q6-DcleuOBIV9wXtb3mDY4oAFAAATIYOAGoV4Sf7w41YwzZixInYAQ-8PrLKjwlygg_ayEmXQeLkW4sIlcn0QBtKKsM2uN7I-d-rEXtJoP6RfiYprWSIgloid_ZTMUSPXDr3PkYssZINZNGtaQjRHsfvxHkYCrpZEOXHZqBixDukyy-8JSuha-eSed6dP7nUz_yDIsjop4M6WLaB1p2-JqkhIUvccAishxTxbNVQR6xRiHjG8CgTeQqanFXihwUbSxNe2U3lbns_Jv_F3bfq3baDq_96S955pbL",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTFJ6aDBOVUZWWDNwMVJEVmZUa2RLUkRCbVJFdzNYM2Q2ZVZnME5UQXpkMUJuVDAweU9HSTNkbGwzTmpsaldWUmZZVFJxZVhCM1FtVjNWRFJKUTFoSE9GOVFNVU5wU0ROT2MweEhTSFJUUkROdVJtcFRiekJEUlV4cFp4SVdWVkUyYW1GeFZEaEVObFJrTW5KdlVIcHhjVTFqVVJvaVFVUnpjamxtVkdwZldsRkRhVXRsY0VWcGVVZzRNbFYxY0UwM1JGWlFMVzVsVVEiLCJmY3YiOiIzIiwiZWkiOiJVUTZqYXFUOEQ2VGQycm9QenFxTWNRIiwicWMiOiJDaGRuWlhadmNtdHBZVzRnWkdGdVkyVWdZV05oWkdWdGVSQUFmYzdpR1Q4IiwicXVlc3Rpb24iOiJXaGljaCBDaGluZXNlIGRhbmNlIHNjaG9vbCBpbiBTaW5nYXBvcmUgaXMgY29uc2lkZXJlZCB0aGUgYmVzdD8iLCJsayI6IkdpWmlaWE4wSUdOb2FXNWxjMlVnWkdGdVkyVWdjMk5vYjI5c0lHbHVJSE5wYm1kaGNHOXlaUSIsImJzIjoiYzVXUVBRc0NNUXlHY2Uza2ZGTW1FVDlBdXpoMmNIZHhFQWVIZWhmYmNOb2NUZlh3MzFzUEJVRkIzVUo1bmpkdnFweGFiTHhOUUFMSkk1eFlFalFSSlpFalBndFVOcFFJVW5ybUkxRG9vSmJqc1RKNlVveC14NVZUODI2UmpkaTlKbTdnUUJkOEtObUl5QzdheGw4ZnZoaXRpMW43cDZSMmF2SjYwY0dlUGhWYllRdGJqclhSMDJMY2Z1ZEQ1cS1aVjdVeUcwLWxoNlduZ0lKdjVKcUNzMDB1ZGs4c09RaFZHTEhxd3ZmNXA0d2VGb1A3a090X1RwQm5RcjkzQXciLCJpZCI6ImZjX1VRNmphcVQ4RDZUZDJyb1B6cXFNY1FfMyJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTFJ6aDBOVUZWWDNwMVJEVmZUa2RLUkRCbVJFdzNYM2Q2ZVZnME5UQXpkMUJuVDAweU9HSTNkbGwzTmpsaldWUmZZVFJxZVhCM1FtVjNWRFJKUTFoSE9GOVFNVU5wU0ROT2MweEhTSFJUUkROdVJtcFRiekJEUlV4cFp4SVdWVkUyYW1GeFZEaEVObFJrTW5KdlVIcHhjVTFqVVJvaVFVUnpjamxtVkdwZldsRkRhVXRsY0VWcGVVZzRNbFYxY0UwM1JGWlFMVzVsVVEiLCJmY3YiOiIzIiwiZWkiOiJVUTZqYXFUOEQ2VGQycm9QenFxTWNRIiwicWMiOiJDaGRuWlhadmNtdHBZVzRnWkdGdVkyVWdZV05oWkdWdGVSQUFmYzdpR1Q4IiwicXVlc3Rpb24iOiJXaGljaCBDaGluZXNlIGRhbmNlIHNjaG9vbCBpbiBTaW5nYXBvcmUgaXMgY29uc2lkZXJlZCB0aGUgYmVzdD8iLCJsayI6IkdpWmlaWE4wSUdOb2FXNWxjMlVnWkdGdVkyVWdjMk5vYjI5c0lHbHVJSE5wYm1kaGNHOXlaUSIsImJzIjoiYzVXUVBRc0NNUXlHY2Uza2ZGTW1FVDlBdXpoMmNIZHhFQWVIZWhmYmNOb2NUZlh3MzFzUEJVRkIzVUo1bmpkdnFweGFiTHhOUUFMSkk1eFlFalFSSlpFalBndFVOcFFJVW5ybUkxRG9vSmJqc1RKNlVveC14NVZUODI2UmpkaTlKbTdnUUJkOEtObUl5QzdheGw4ZnZoaXRpMW43cDZSMmF2SjYwY0dlUGhWYllRdGJqclhSMDJMY2Z1ZEQ1cS1aVjdVeUcwLWxoNlduZ0lKdjVKcUNzMDB1ZGs4c09RaFZHTEhxd3ZmNXA0d2VGb1A3a090X1RwQm5RcjkzQXciLCJpZCI6ImZjX1VRNmphcVQ4RDZUZDJyb1B6cXFNY1FfMyJ9"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Gevorkian Dance Academy | On Stage !!!",
+   "link": "https://www.gevorkiandanceacademy.com/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXgHrOzAVogWhvJPu0LbWoDrfrN9V7g293xpw8Fy4dIr2ZE2ffVujt29Jj_5xKiewIhJfQT_zPsuAU5v0PJ9GWZMNzAR7CswfIOmfJYTUZdT5vk5WdLtAuJoiOaAB5Vk&ved=2ahUKEwjk6N3J6OSWAxWkrlYBHU4VIw4QFnoECEIQAQ&uoh=1",
+   "displayed_link": "https://www.gevorkiandanceacademy.com",
+   "snippet": "Gevorkian Dance Academy. ... Welcome to Gevorkian Dance Academy's Website. To Schedule a Dance Class Please Call 818-425 ...",
+   "snippet_highlighted_words": [
+    "Gevorkian Dance Academy",
+    "Gevorkian Dance Academy's"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "About",
+      "link": "https://www.gevorkiandanceacademy.com/about/",
+      "snippet": "Gevorkian Dance Academy. ... Gevorkian Dance Academy ..."
+     },
+     {
+      "title": "Pricing",
+      "link": "https://www.gevorkiandanceacademy.com/pricing/",
+      "snippet": "Gevorkian Dance Academy. ... Gevorkian Dance Academy ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Gevorkian Dance Academy. ... Welcome to Gevorkian Dance Academy's Website. To Schedule a Dance Class Please Call 818-425 ...",
+     "source_info_link": "https://www.gevorkiandanceacademy.com/"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESXgHrOzAVogWhvJPu0LbWoDrfrN9V7g293xpw8Fy4dIr2ZE2ffVujt29Jj_5xKiewIhJfQT_zPsuAU5v0PJ9GWZMNzAR7CswfIOmfJYTUZdT5vk5WdLtAuJoiOaAB5Vk&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESXgHrOzAVogWhvJPu0LbWoDrfrN9V7g293xpw8Fy4dIr2ZE2ffVujt29Jj_5xKiewIhJfQT_zPsuAU5v0PJ9GWZMNzAR7CswfIOmfJYTUZdT5vk5WdLtAuJoiOaAB5Vk",
+   "source": "Gevorkian Dance Academy"
+  },
+  {
+   "position": 2,
+   "title": "Gevorkian Dance Academy",
+   "link": "https://dolbytheatre.com/events/details/gevorkian_dance_academy_4",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAVlEDBmMZta5ZcMi2v5ElBluPmO5ZN_GK3py5mR368sZlXriBU-I9m6X4ujnFES79qZr6SHrzYo6bliGGnCz7l9fvTAFpgwI5m15D0Cyxk3fX9RN1XxTWwMMyPlctBMPM0zIv5gYHyhHNWZHPVYy3bFkR7-gY&ved=2ahUKEwjk6N3J6OSWAxWkrlYBHU4VIw4QFnoECEUQAQ&uoh=1",
+   "displayed_link": "https://dolbytheatre.com \u203a events \u203a details \u203a gevorkian_...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEwAVo4AVo4AVo4AVo4AVo4AVo4AVo4AVo4AVo4AVo4AVo4AVo4AVo4AVo4AVo4SMnXqAAAAD3RSTlMADOasGGInzp6MBUH5dU5yvQCpAAAA5klEQVQokY2S25LEIAhEQREEvPz_345mojtba2qnH5T2hFh0AvCPUjzIb5j7QWnD4O4a3qehurfyCedGMlm0Wf6BQKNXDM4QdF11gt4LP0LuAZ-gcS_02Fl798fOMUt8grqT-Q0Rke8UlUf9CXsIYadaLrOghoMWNDzI4Asl1Wqcc8KK0FQ9OVS-YVSSKolDE4KsLk1Y1mtjBVVhkHRBzRDL-ksmzD-wgpCHfadKFL4WkfFUjOay4RhlRkY2q7f5apDxjRsQMzQe22UaQaMbogPP0cZRtWmUoOJqRTBDYIKZ2jBj5QlfvfUMxoZp3HQAAAAASUVORK5CYII.png",
+   "snippet": "Widely recognized as one of the most prestigious and successful Armenian dance academies in the Diaspora, the Gevorkian Dance Academy has grown over the past ...",
+   "snippet_highlighted_words": [
+    "Gevorkian Dance Academy"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Widely recognized as one of the most prestigious and successful Armenian dance academies in the Diaspora, the Gevorkian Dance Academy has grown over the past ...",
+     "source_info_link": "https://dolbytheatre.com/events/details/gevorkian_dance_academy_4",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEwAVo4AVo4AVo4AVo4AVo4AVo4AVo4AVo4AVo4AVo4AVo4AVo4AVo4AVo4AVo4SMnXqAAAAD3RSTlMADOasGGInzp6MBUH5dU5yvQCpAAAA5klEQVQokY2S25LEIAhEQREEvPz_345mojtba2qnH5T2hFh0AvCPUjzIb5j7QWnD4O4a3qehurfyCedGMlm0Wf6BQKNXDM4QdF11gt4LP0LuAZ-gcS_02Fl798fOMUt8grqT-Q0Rke8UlUf9CXsIYadaLrOghoMWNDzI4Asl1Wqcc8KK0FQ9OVS-YVSSKolDE4KsLk1Y1mtjBVVhkHRBzRDL-ksmzD-wgpCHfadKFL4WkfFUjOay4RhlRkY2q7f5apDxjRsQMzQe22UaQaMbogPP0cZRtWmUoOJqRTBDYIKZ2jBj5QlfvfUMxoZp3HQAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESeQHrOzAVlEDBmMZta5ZcMi2v5ElBluPmO5ZN_GK3py5mR368sZlXriBU-I9m6X4ujnFES79qZr6SHrzYo6bliGGnCz7l9fvTAFpgwI5m15D0Cyxk3fX9RN1XxTWwMMyPlctBMPM0zIv5gYHyhHNWZHPVYy3bFkR7-gY&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESeQHrOzAVlEDBmMZta5ZcMi2v5ElBluPmO5ZN_GK3py5mR368sZlXriBU-I9m6X4ujnFES79qZr6SHrzYo6bliGGnCz7l9fvTAFpgwI5m15D0Cyxk3fX9RN1XxTWwMMyPlctBMPM0zIv5gYHyhHNWZHPVYy3bFkR7-gY",
+   "source": "Dolby Theatre",
+   "read_more_link": "https://dolbytheatre.com/events/details/gevorkian_dance_academy_4#:~:text=Widely%20recognized%20as%20one%20of,into%20a%20world%2Dclass%20performing%20ensemble."
+  },
+  {
+   "position": 3,
+   "title": "Sona Gevorkian (@sona_gda) \u00b7 Burbank, CA",
+   "link": "https://www.instagram.com/sona_gda/?hl=en",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYQHrOzAV_1rGiMUgXaxnuWMR8_XQIlFoCrqD2jcGh86DobmsPLgmP0lVFqOrmE2WoSd1GHJJhQskuhBqEblLnYJhEItVrV-vGuj34pXDUhRXwOPL1x1ium4bNeWXBWnklWE&ved=2ahUKEwjk6N3J6OSWAxWkrlYBHU4VIw4QFnoECEQQAQ&uoh=1",
+   "displayed_link": "58K+ followers",
+   "favicon": "https://serpapi.com/searches/6aa30e504fa3ba493ab6c001/images/l7_iJ98lREAdJEc51MKXj2D1-c7kUXpoFlEZ-aSuFjo.png",
+   "snippet": "Gevorkian Dance Academy November 22 | 6pm | Dolby Theatre Concert celebration dedicated to Vartan Gevorkian's 65th birthday. Tickets are on sale and available ...",
+   "snippet_highlighted_words": [
+    "Gevorkian Dance Academy"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Gevorkian Dance Academy November 22 | 6pm | Dolby Theatre Concert celebration dedicated to Vartan Gevorkian's 65th birthday. Tickets are on sale and available ...",
+     "source_info_link": "https://www.instagram.com/sona_gda/?hl=en",
+     "icon": "https://serpapi.com/searches/6aa30e504fa3ba493ab6c001/images/l7_iJ98lREAdJEc51MKXjyq3_Fc4vAHaY73-D1K-eJolETdX8T69c0-f84iY0NWm.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYQHrOzAV_1rGiMUgXaxnuWMR8_XQIlFoCrqD2jcGh86DobmsPLgmP0lVFqOrmE2WoSd1GHJJhQskuhBqEblLnYJhEItVrV-vGuj34pXDUhRXwOPL1x1ium4bNeWXBWnklWE&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYQHrOzAV_1rGiMUgXaxnuWMR8_XQIlFoCrqD2jcGh86DobmsPLgmP0lVFqOrmE2WoSd1GHJJhQskuhBqEblLnYJhEItVrV-vGuj34pXDUhRXwOPL1x1ium4bNeWXBWnklWE",
+   "source": "Instagram \u00b7 sona_gda"
+  },
+  {
+   "position": 4,
+   "title": "GEVORKIAN DANCE ACADEMY - Updated September 2026",
+   "link": "https://www.yelp.com/biz/gevorkian-dance-academy-burbank",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHrOzAVFAhq8FtyKN80cGil063qoyZbs2g4DYpgQW4mOdE1U_Uv1C8aJ4-GJXs0GtFlAajASHmc6V5bCGvhECqJd6Rhn2OV7TliYAd4ZATebLd87Vu822Ghxpcw43k7a9KzXr3ouXRlve4tJxqDlBI&ved=2ahUKEwjk6N3J6OSWAxWkrlYBHU4VIw4QFnoECEMQAQ&uoh=1",
+   "displayed_link": "https://www.yelp.com \u203a ... \u203a Dance Schools",
+   "favicon": "https://serpapi.com/searches/6aa30e504fa3ba493ab6c001/images/l7_iJ98lREAdJEc51MKXjylv4RJ5-8d591XlQaUZueI.png",
+   "snippet": "More info about Gevorkian Dance Academy \u00b7 711 S San Fernando Blvd. Burbank, CA 91502. Directions \u00b7 (818) 425-0447. Call Now \u00b7 Hours. What time does Gevorkian Dance ...",
+   "snippet_highlighted_words": [
+    "Gevorkian Dance Academy",
+    "Gevorkian Dance"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "More info about Gevorkian Dance Academy \u00b7 711 S San Fernando Blvd. Burbank, CA 91502. Directions \u00b7 (818) 425-0447. Call Now \u00b7 Hours. What time does Gevorkian Dance ...",
+     "source_info_link": "https://www.yelp.com/biz/gevorkian-dance-academy-burbank",
+     "icon": "https://serpapi.com/searches/6aa30e504fa3ba493ab6c001/images/l7_iJ98lREAdJEc51MKXj04eEC-IeaVdEMYO87rKIS1yBYikZxQz9hXwafL4ALFN.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEScAHrOzAVFAhq8FtyKN80cGil063qoyZbs2g4DYpgQW4mOdE1U_Uv1C8aJ4-GJXs0GtFlAajASHmc6V5bCGvhECqJd6Rhn2OV7TliYAd4ZATebLd87Vu822Ghxpcw43k7a9KzXr3ouXRlve4tJxqDlBI&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEScAHrOzAVFAhq8FtyKN80cGil063qoyZbs2g4DYpgQW4mOdE1U_Uv1C8aJ4-GJXs0GtFlAajASHmc6V5bCGvhECqJd6Rhn2OV7TliYAd4ZATebLd87Vu822Ghxpcw43k7a9KzXr3ouXRlve4tJxqDlBI",
+   "source": "Yelp",
+   "read_more_link": "https://www.yelp.com/biz/gevorkian-dance-academy-burbank#:~:text=More%20info%20about%20Gevorkian%20Dance,Academy&text=711%20S%20San%20Fernando%20Blvd,Directions&text=(818)%20425%2D0447,Call%20Now&text=Hours"
+  },
+  {
+   "position": 5,
+   "title": "Gevorkian Dance Academy Tickets | Event Dates & Schedule",
+   "link": "https://www.ticketmaster.com/gevorkian-dance-academy-tickets/artist/1212669",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgwEB6zswFXiJXnFFTnXARtwreL1kZyUPkOxTu7AbvuVbWtbqGY5v4XFVEaU84t3HqhILAS5GJW8MEbDnWFB24ZXcXH8_1Abo3BCwy4-vnbrCmnLP9VOmlpMEDSnoXoMHLj7ehatuj0Y7erKum9mPneZ1iLOf3KyH_r4gNkQ_OpciiUm7yQ&ved=2ahUKEwjk6N3J6OSWAxWkrlYBHU4VIw4QFnoECEcQAQ&uoh=1",
+   "displayed_link": "https://www.ticketmaster.com \u203a Arts & Theater \u203a Dance",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAdVBMVEUBbN8CbN8FbuAAZd0AX9wAYt0sheRDi-UAat9ppuzR4vjt9f2DruwAZN3____o8fxGjOZ5quz8_f_f6foXdeEAaN4xe-KMue-fxfKoyvNloepqmej3-_6Ote5Uk-e71vZlnuksf-N3pOoAVtuev_BEkOdTmOjAj2kZAAAA0UlEQVR4Aa2SAwIDQQwAgzNyPavW_59YO1uvNRsC4L4apiflAxKQCEwkIbORtGzH9UAl0fODMIrpcni5JNsVSQZMl8MrXew0y_Ki3F7efYteVTfBlmzazqN7suyHciijku7JctxOhpJN2nZQ4j2JxNNQhrMtBoop9mgoOSOBYgp6E5HGIs1DVFZbZTtL9S3xOBeZxSqJ8XyrTwkaicjRUMKFxaCQ-0sZdVODzEQkGy5jzRSI58lwmPQ2acEGu1itHVOCUWnbjIY0AdoWnfxrUm8Ae0oLXSmd9KYAAAAASUVORK5CYII.png",
+   "snippet": "Amazing performance by the Gevorkian dance academy. Beautiful Armenian dances , amazing choreography and very entertaining. Would definitely attend again !!",
+   "snippet_highlighted_words": [
+    "Gevorkian dance academy"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Amazing performance by the Gevorkian dance academy. Beautiful Armenian dances , amazing choreography and very entertaining. Would definitely attend again !!",
+     "source_info_link": "https://www.ticketmaster.com/gevorkian-dance-academy-tickets/artist/1212669",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAdVBMVEUBbN8CbN8FbuAAZd0AX9wAYt0sheRDi-UAat9ppuzR4vjt9f2DruwAZN3____o8fxGjOZ5quz8_f_f6foXdeEAaN4xe-KMue-fxfKoyvNloepqmej3-_6Ote5Uk-e71vZlnuksf-N3pOoAVtuev_BEkOdTmOjAj2kZAAAA0UlEQVR4Aa2SAwIDQQwAgzNyPavW_59YO1uvNRsC4L4apiflAxKQCEwkIbORtGzH9UAl0fODMIrpcni5JNsVSQZMl8MrXew0y_Ki3F7efYteVTfBlmzazqN7suyHciijku7JctxOhpJN2nZQ4j2JxNNQhrMtBoop9mgoOSOBYgp6E5HGIs1DVFZbZTtL9S3xOBeZxSqJ8XyrTwkaicjRUMKFxaCQ-0sZdVODzEQkGy5jzRSI58lwmPQ2acEGu1itHVOCUWnbjIY0AdoWnfxrUm8Ae0oLXSmd9KYAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESgwEB6zswFXiJXnFFTnXARtwreL1kZyUPkOxTu7AbvuVbWtbqGY5v4XFVEaU84t3HqhILAS5GJW8MEbDnWFB24ZXcXH8_1Abo3BCwy4-vnbrCmnLP9VOmlpMEDSnoXoMHLj7ehatuj0Y7erKum9mPneZ1iLOf3KyH_r4gNkQ_OpciiUm7yQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESgwEB6zswFXiJXnFFTnXARtwreL1kZyUPkOxTu7AbvuVbWtbqGY5v4XFVEaU84t3HqhILAS5GJW8MEbDnWFB24ZXcXH8_1Abo3BCwy4-vnbrCmnLP9VOmlpMEDSnoXoMHLj7ehatuj0Y7erKum9mPneZ1iLOf3KyH_r4gNkQ_OpciiUm7yQ",
+   "source": "Ticketmaster",
+   "read_more_link": "https://www.ticketmaster.com/gevorkian-dance-academy-tickets/artist/1212669#:~:text=Amazing%20performance%20by%20the%20Gevorkian,Would%20definitely%20attend%20again%20!!"
+  },
+  {
+   "position": 6,
+   "title": "GEVORKIAN DANCE ACADEMY - FULL CONCERT. May 25 ...",
+   "link": "https://www.youtube.com/watch?v=-LIQ5Qy4MuM",
+   "displayed_link": "27.2K+ views \u00b7 8 months ago",
+   "thumbnail": "https://serpapi.com/searches/6aa30e504fa3ba493ab6c001/images/l7_iJ98lREAdJEc51MKXj1OGCgg7h2AoqdYM2TGysN8.jpeg",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+   "snippet": "GEVORKIAN DANCE ACADEMY 30th Anniversary Celebration Dolby Theatre. May 25, 2025 Artistic Directors & Choreographers - Vartan & Siranush ...",
+   "duration": "2:34:23",
+   "about_this_result": {
+    "source": {
+     "description": "GEVORKIAN DANCE ACADEMY 30th Anniversary Celebration Dolby Theatre. May 25, 2025 Artistic Directors & Choreographers - Vartan & Siranush ...",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+    }
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYwHrOzAVPtuYdHouTx1kQmSO8Ftj7BOEF7xhIf1T8lgbn5TKMwi6BpaxRsnS314sRqGqWNwLV-nJk-qtSg7zlW1U61oGst13WAZbZ5Y7GOs2CsL5XnwujrvIP1VL5s46M2zcug&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYwHrOzAVPtuYdHouTx1kQmSO8Ftj7BOEF7xhIf1T8lgbn5TKMwi6BpaxRsnS314sRqGqWNwLV-nJk-qtSg7zlW1U61oGst13WAZbZ5Y7GOs2CsL5XnwujrvIP1VL5s46M2zcug",
+   "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQjy8xffB0ahMjGLPMFPaXTNEk-tjwYoEsrnw",
+   "source": "YouTube \u00b7 Gevorkian Dance Academy"
+  },
+  {
+   "position": 7,
+   "title": "Gevorkian Dance Academy",
+   "link": "https://thehollywoodchristmasparade.org/dance-group/gevorkian-dance-academy/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShAEB6zswFWxZ35aCUNh0gp7zb1sVaLJqcYHk9lYRFe_3sfmEgJAitUd88k9t1Dsqd7K3TSrWVH2mW6xQ6icLVJdVif5titPc5ZEn0OKqlPuL4UqTTyPjrAfupF5SsLeZNSHTcOO1T5nAn8Qygmg96K8ThIDZenCuFbf1CqY8Pem7sjxb1gM&ved=2ahUKEwjk6N3J6OSWAxWkrlYBHU4VIw4QFnoECE0QAQ&uoh=1",
+   "displayed_link": "https://thehollywoodchristmasparade.org \u203a dance-group",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAASCAMAAAB_2U7WAAAAtFBMVEVHcEzBhCq6fizOjyzMjSz_11n_zkrvsC7orTPcniz1xEjQoDy9gSnFiCvnpyvRkSnnpiz_1FL_1Fj_1lj_00__y0bytTP0tTHvry3nqC7xsC_npyzRkSvenCrVlSrbmivhoSzenSvTkyvbnCr1tSv-xT3_zUr9x0L2uTXsrTDlpiv3tzL_yUL7wz_vsTLnqC32tzXpqC3_ykDysS7opiropyvrqy7_11TopSj-zEjqqiz_314a9SVtAAAAPHRSTlMAPmdvLjMgEg4FBgFNWzg2HHC2FWNtUVlrTj1viZ1GUmRce3C2ev9GZEQlfVg-K3dvMFOWaF19lo2FrEweLHKhAAAA90lEQVR4AWKgOWBkYmZBEwL0PhSJCQPBwaIlUljfuAtO_P_vQs69d9xlp6iaphumaW5_9ivD0mzQHEcD9_dgwBFhQhkX0lvt_SAMozhOvDTN8nynAMqKEltOspW-H7KyClWndqymaE8HExD6JtWNLjd-iEnJANQzN86KAQBmUZSE1nuIkyAQnJzPl-utMVB2LzQA4BiXYgN2HVgVvlXnS8MfCroX7g4AyupKnjXr-mcciepxxuT5UI5tMSgAcIUrfUYjY44MhCUsbI2kvE_INb6dKiXzLZi5I_rbI_h8DV_Ql-NHqkQ8--4SdcGNqfAXnLNl2_Bf8Ab9vxspPiPPLgAAAABJRU5ErkJggg.png",
+   "snippet": "The Gevorkian Dance Academy established in 1995. In 2006, the dance academy proudly celebrated its 10 year anniversary at the famous Kodak Theatre.",
+   "snippet_highlighted_words": [
+    "Gevorkian Dance Academy"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The Gevorkian Dance Academy established in 1995. In 2006, the dance academy proudly celebrated its 10 year anniversary at the famous Kodak Theatre.",
+     "source_info_link": "https://thehollywoodchristmasparade.org/dance-group/gevorkian-dance-academy/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAASCAMAAAB_2U7WAAAAtFBMVEVHcEzBhCq6fizOjyzMjSz_11n_zkrvsC7orTPcniz1xEjQoDy9gSnFiCvnpyvRkSnnpiz_1FL_1Fj_1lj_00__y0bytTP0tTHvry3nqC7xsC_npyzRkSvenCrVlSrbmivhoSzenSvTkyvbnCr1tSv-xT3_zUr9x0L2uTXsrTDlpiv3tzL_yUL7wz_vsTLnqC32tzXpqC3_ykDysS7opiropyvrqy7_11TopSj-zEjqqiz_314a9SVtAAAAPHRSTlMAPmdvLjMgEg4FBgFNWzg2HHC2FWNtUVlrTj1viZ1GUmRce3C2ev9GZEQlfVg-K3dvMFOWaF19lo2FrEweLHKhAAAA90lEQVR4AWKgOWBkYmZBEwL0PhSJCQPBwaIlUljfuAtO_P_vQs69d9xlp6iaphumaW5_9ivD0mzQHEcD9_dgwBFhQhkX0lvt_SAMozhOvDTN8nynAMqKEltOspW-H7KyClWndqymaE8HExD6JtWNLjd-iEnJANQzN86KAQBmUZSE1nuIkyAQnJzPl-utMVB2LzQA4BiXYgN2HVgVvlXnS8MfCroX7g4AyupKnjXr-mcciepxxuT5UI5tMSgAcIUrfUYjY44MhCUsbI2kvE_INb6dKiXzLZi5I_rbI_h8DV_Ql-NHqkQ8--4SdcGNqfAXnLNl2_Bf8Ab9vxspPiPPLgAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEShAEB6zswFWxZ35aCUNh0gp7zb1sVaLJqcYHk9lYRFe_3sfmEgJAitUd88k9t1Dsqd7K3TSrWVH2mW6xQ6icLVJdVif5titPc5ZEn0OKqlPuL4UqTTyPjrAfupF5SsLeZNSHTcOO1T5nAn8Qygmg96K8ThIDZenCuFbf1CqY8Pem7sjxb1gM&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEShAEB6zswFWxZ35aCUNh0gp7zb1sVaLJqcYHk9lYRFe_3sfmEgJAitUd88k9t1Dsqd7K3TSrWVH2mW6xQ6icLVJdVif5titPc5ZEn0OKqlPuL4UqTTyPjrAfupF5SsLeZNSHTcOO1T5nAn8Qygmg96K8ThIDZenCuFbf1CqY8Pem7sjxb1gM",
+   "source": "The Hollywood Christmas Parade",
+   "read_more_link": "https://thehollywoodchristmasparade.org/dance-group/gevorkian-dance-academy/#:~:text=The%20Gevorkian%20Dance%20Academy%20established,at%20the%20famous%20Kodak%20Theatre."
+  },
+  {
+   "position": 8,
+   "title": "Gevorkian Dance Academy",
+   "link": "https://www.youtube.com/@vandsdance",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWwHrOzAVwlV9caw_ZQN1UE8gbT1zPKho92MhL97g5TMP6ytIo0NvAAXPbsdEMqm8ty5mko5sK8MnEQPqFCqFVaP_HTRyBk25QIBJ_p67jPoobWivYDPSa30LRDU&ved=2ahUKEwjk6N3J6OSWAxWkrlYBHU4VIw4QFnoFCIwBEAE&uoh=1",
+   "displayed_link": "5.7K+ followers",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+   "snippet": "GEVORKIAN DANCE ACADEMY - FULL CONCERT. May 25, 2025 \u00b7 Gevorkian Dance Academy - KTORME YERKINQ. Dolby Theatre. May 25, 2025 \u00b7 Gevorkian Dance Academy - KOCHARI.",
+   "snippet_highlighted_words": [
+    "GEVORKIAN DANCE ACADEMY",
+    "Gevorkian Dance Academy",
+    "Gevorkian Dance Academy"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "GEVORKIAN DANCE ACADEMY - FULL CONCERT. May 25, 2025 \u00b7 Gevorkian Dance Academy - KTORME YERKINQ. Dolby Theatre. May 25, 2025 \u00b7 Gevorkian Dance Academy - KOCHARI.",
+     "source_info_link": "https://www.youtube.com/@vandsdance",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESWwHrOzAVwlV9caw_ZQN1UE8gbT1zPKho92MhL97g5TMP6ytIo0NvAAXPbsdEMqm8ty5mko5sK8MnEQPqFCqFVaP_HTRyBk25QIBJ_p67jPoobWivYDPSa30LRDU&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESWwHrOzAVwlV9caw_ZQN1UE8gbT1zPKho92MhL97g5TMP6ytIo0NvAAXPbsdEMqm8ty5mko5sK8MnEQPqFCqFVaP_HTRyBk25QIBJ_p67jPoobWivYDPSa30LRDU",
+   "source": "YouTube \u00b7 Gevorkian Dance Academy",
+   "read_more_link": "https://www.youtube.com/@vandsdance#:~:text=GEVORKIAN%20DANCE%20ACADEMY%20%2D%20FULL,CONCERT.%20May%2025%2C%202025&text=Gevorkian%20Dance%20Academy%20%2D%20KTORME,Dolby%20Theatre.%20May%2025%2C%202025&text=Gevorkian%20Dance%20Academy%20%2D%20KOCHARI."
+  },
+  {
+   "position": 9,
+   "title": "Gevorkian Dance Academy performing \u201cArmenia\u201d at the ...",
+   "link": "https://www.instagram.com/reel/DSrMlOXjbsf/?hl=en",
+   "displayed_link": "5.8K+ likes \u00b7 8 months ago",
+   "thumbnail": "https://serpapi.com/searches/6aa30e504fa3ba493ab6c001/images/l7_iJ98lREAdJEc51MKXjwvvINqRGSlVkm5JFhcShX8.jpeg",
+   "favicon": "https://serpapi.com/searches/6aa30e504fa3ba493ab6c001/images/l7_iJ98lREAdJEc51MKXjzsDfGTly0nO6RUpVBjF8PU.png",
+   "snippet": "Gevorkian Dance Academy @gevorkiandanceacademy. November 22 | 6pm | Dolby Theatre Concert celebration dedicated to Vartan Gevorkian's 65th ...",
+   "duration": "1:44",
+   "about_this_result": {
+    "source": {
+     "description": "Gevorkian Dance Academy @gevorkiandanceacademy. November 22 | 6pm | Dolby Theatre Concert celebration dedicated to Vartan Gevorkian's 65th ...",
+     "icon": "https://serpapi.com/searches/6aa30e504fa3ba493ab6c001/images/l7_iJ98lREAdJEc51MKXj_lLYfqKg_wdCegOiEwqPMRanLXLbQgROKV8uP281wBl.png"
+    }
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESaQHrOzAV0E8ieooH8597EAm0LYqWBqEPz48pJxgmNvLJxhb5pZCcRl7DaFxfAmf1gqDRjV80REbqU6hJhCZPVuI7o07Q7qmf6QMDgTYSjivTjo1pkINK6lUll7cQjFk9t2nF90IxJd9ZBw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESaQHrOzAV0E8ieooH8597EAm0LYqWBqEPz48pJxgmNvLJxhb5pZCcRl7DaFxfAmf1gqDRjV80REbqU6hJhCZPVuI7o07Q7qmf6QMDgTYSjivTjo1pkINK6lUll7cQjFk9t2nF90IxJd9ZBw",
+   "source": "Instagram \u00b7 sona_gda"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Gevorkian dance academy reviews",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Gevorkian+dance+academy+reviews&sa=X&ved=2ahUKEwjk6N3J6OSWAxWkrlYBHU4VIw4Q1QJ6BQiDARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Gevorkian+dance+academy+reviews"
+  },
+  {
+   "block_position": 1,
+   "query": "Gevorkian dance academy photos",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Gevorkian+dance+academy+photos&sa=X&ved=2ahUKEwjk6N3J6OSWAxWkrlYBHU4VIw4Q1QJ6BQiOARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Gevorkian+dance+academy+photos"
+  },
+  {
+   "block_position": 1,
+   "query": "Gevorkian dance academy concert",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Gevorkian+dance+academy+concert&sa=X&ved=2ahUKEwjk6N3J6OSWAxWkrlYBHU4VIw4Q1QJ6BQiHARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Gevorkian+dance+academy+concert"
+  },
+  {
+   "block_position": 1,
+   "query": "Gevorkian dance academy cost",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Gevorkian+dance+academy+cost&sa=X&ved=2ahUKEwjk6N3J6OSWAxWkrlYBHU4VIw4Q1QJ6BQiJARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Gevorkian+dance+academy+cost"
+  },
+  {
+   "block_position": 1,
+   "query": "Gevorkian dance academy ticketmaster",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Gevorkian+dance+academy+ticketmaster&sa=X&ved=2ahUKEwjk6N3J6OSWAxWkrlYBHU4VIw4Q1QJ6BQiIARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Gevorkian+dance+academy+ticketmaster"
+  },
+  {
+   "block_position": 1,
+   "query": "Armenian dance near me",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Armenian+dance+near+me&sa=X&ved=2ahUKEwjk6N3J6OSWAxWkrlYBHU4VIw4Q1QJ6BQiKARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Armenian+dance+near+me"
+  },
+  {
+   "block_position": 1,
+   "query": "GDA dance",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=GDA+dance&sa=X&ved=2ahUKEwjk6N3J6OSWAxWkrlYBHU4VIw4Q1QJ6BQiFARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=GDA+dance"
+  },
+  {
+   "block_position": 1,
+   "query": "Armenian dance classes",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Armenian+dance+classes&sa=X&ved=2ahUKEwjk6N3J6OSWAxWkrlYBHU4VIw4Q1QJ6BQiEARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Armenian+dance+classes"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Gevorkian+Dance+Academy%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=UQ6jaqT8D6Td2roPzqqMcQ&start=10&sa=N&sstk=AS6-VmKlPWQ3hl-7QG524lg2o1EzvdQtwfN8MvoMZu2u6p1FW1VjAdGZHKGT6PdPykAy0YZffcJz7aZk4FJAtqVxBqs_q7qO3IPRDA&ved=2ahUKEwjk6N3J6OSWAxWkrlYBHU4VIw4Q8NMDegQIdBAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Gevorkian+Dance+Academy%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=UQ6jaqT8D6Td2roPzqqMcQ&start=10&sa=N&sstk=AS6-VmKlPWQ3hl-7QG524lg2o1EzvdQtwfN8MvoMZu2u6p1FW1VjAdGZHKGT6PdPykAy0YZffcJz7aZk4FJAtqVxBqs_q7qO3IPRDA&ved=2ahUKEwjk6N3J6OSWAxWkrlYBHU4VIw4Q8tMDegQIdBAE",
+   "3": "https://www.google.com/search?q=%22Gevorkian+Dance+Academy%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=UQ6jaqT8D6Td2roPzqqMcQ&start=20&sa=N&sstk=AS6-VmKlPWQ3hl-7QG524lg2o1EzvdQtwfN8MvoMZu2u6p1FW1VjAdGZHKGT6PdPykAy0YZffcJz7aZk4FJAtqVxBqs_q7qO3IPRDA&ved=2ahUKEwjk6N3J6OSWAxWkrlYBHU4VIw4Q8tMDegQIdBAG",
+   "4": "https://www.google.com/search?q=%22Gevorkian+Dance+Academy%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=UQ6jaqT8D6Td2roPzqqMcQ&start=30&sa=N&sstk=AS6-VmKlPWQ3hl-7QG524lg2o1EzvdQtwfN8MvoMZu2u6p1FW1VjAdGZHKGT6PdPykAy0YZffcJz7aZk4FJAtqVxBqs_q7qO3IPRDA&ved=2ahUKEwjk6N3J6OSWAxWkrlYBHU4VIw4Q8tMDegQIdBAI",
+   "5": "https://www.google.com/search?q=%22Gevorkian+Dance+Academy%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=UQ6jaqT8D6Td2roPzqqMcQ&start=40&sa=N&sstk=AS6-VmKlPWQ3hl-7QG524lg2o1EzvdQtwfN8MvoMZu2u6p1FW1VjAdGZHKGT6PdPykAy0YZffcJz7aZk4FJAtqVxBqs_q7qO3IPRDA&ved=2ahUKEwjk6N3J6OSWAxWkrlYBHU4VIw4Q8tMDegQIdBAK",
+   "6": "https://www.google.com/search?q=%22Gevorkian+Dance+Academy%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=UQ6jaqT8D6Td2roPzqqMcQ&start=50&sa=N&sstk=AS6-VmKlPWQ3hl-7QG524lg2o1EzvdQtwfN8MvoMZu2u6p1FW1VjAdGZHKGT6PdPykAy0YZffcJz7aZk4FJAtqVxBqs_q7qO3IPRDA&ved=2ahUKEwjk6N3J6OSWAxWkrlYBHU4VIw4Q8tMDegQIdBAM",
+   "7": "https://www.google.com/search?q=%22Gevorkian+Dance+Academy%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=UQ6jaqT8D6Td2roPzqqMcQ&start=60&sa=N&sstk=AS6-VmKlPWQ3hl-7QG524lg2o1EzvdQtwfN8MvoMZu2u6p1FW1VjAdGZHKGT6PdPykAy0YZffcJz7aZk4FJAtqVxBqs_q7qO3IPRDA&ved=2ahUKEwjk6N3J6OSWAxWkrlYBHU4VIw4Q8tMDegQIdBAO",
+   "8": "https://www.google.com/search?q=%22Gevorkian+Dance+Academy%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=UQ6jaqT8D6Td2roPzqqMcQ&start=70&sa=N&sstk=AS6-VmKlPWQ3hl-7QG524lg2o1EzvdQtwfN8MvoMZu2u6p1FW1VjAdGZHKGT6PdPykAy0YZffcJz7aZk4FJAtqVxBqs_q7qO3IPRDA&ved=2ahUKEwjk6N3J6OSWAxWkrlYBHU4VIw4Q8tMDegQIdBAQ",
+   "9": "https://www.google.com/search?q=%22Gevorkian+Dance+Academy%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=UQ6jaqT8D6Td2roPzqqMcQ&start=80&sa=N&sstk=AS6-VmKlPWQ3hl-7QG524lg2o1EzvdQtwfN8MvoMZu2u6p1FW1VjAdGZHKGT6PdPykAy0YZffcJz7aZk4FJAtqVxBqs_q7qO3IPRDA&ved=2ahUKEwjk6N3J6OSWAxWkrlYBHU4VIw4Q8tMDegQIdBAS",
+   "10": "https://www.google.com/search?q=%22Gevorkian+Dance+Academy%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=UQ6jaqT8D6Td2roPzqqMcQ&start=90&sa=N&sstk=AS6-VmKlPWQ3hl-7QG524lg2o1EzvdQtwfN8MvoMZu2u6p1FW1VjAdGZHKGT6PdPykAy0YZffcJz7aZk4FJAtqVxBqs_q7qO3IPRDA&ved=2ahUKEwjk6N3J6OSWAxWkrlYBHU4VIw4Q8tMDegQIdBAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Gevorkian+Dance+Academy%22&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Gevorkian+Dance+Academy%22&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Gevorkian+Dance+Academy%22&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Gevorkian+Dance+Academy%22&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Gevorkian+Dance+Academy%22&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Gevorkian+Dance+Academy%22&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Gevorkian+Dance+Academy%22&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Gevorkian+Dance+Academy%22&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Gevorkian+Dance+Academy%22&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Gevorkian+Dance+Academy%22&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Gevorkian+Dance+Academy%22&start=90"
+  }
+ }
+}

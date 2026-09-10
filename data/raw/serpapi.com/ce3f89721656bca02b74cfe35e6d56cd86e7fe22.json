@@ -1,0 +1,530 @@
+{
+ "search_information": {
+  "query_displayed": "\"Lafayette Jefferson High School\" Indiana",
+  "total_results": 36000,
+  "time_taken_displayed": 0.3,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Jefferson High School",
+  "type": "High school in Lafayette, Indiana",
+  "entity_type": "local_nav",
+  "kgmid": "/m/08pjc1",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/08pjc1&hl=en-US&q=Jefferson+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F08pjc1&q=Jefferson+High+School",
+  "place_id": "ChIJm0zzqREdE4gRR3Yec_4J3gc",
+  "website": "https://jhs.lsc.k12.in.us/",
+  "description": "Jefferson High School is a high school located in Lafayette, Indiana, United States and administered by the Lafayette School Corporation. Its mascot is the Broncho and its school colors are red and black.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa30f078ffd7b154eaf9e81/images/rCZRY-N_B55D-KFTUlUfo8-SoavL08iiwc4qs1HlCaw.webp",
+   "link": "https://www.google.com/maps/place/Jefferson+High+School/data=!4m2!3m1!1s0x0:0x7de09fe731e7647?sa=X&ved=2ahUKEwj60eel6eSWAxWmkK8BHZ1SDkYQ_BJ6BAgREAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Jefferson_High_School_(Indiana)"
+  },
+  "address": "1801 S 18th St, Lafayette, IN 47905",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=jefferson+high+school+indiana+address&ludocid=566901591552980551&sa=X&ved=2ahUKEwj60eel6eSWAxWmkK8BHZ1SDkYQ6BN6BAggEAI"
+   }
+  ],
+  "founded": "1912",
+  "school_types": "High school, State school",
+  "school_types_links": [
+   {
+    "text": "High school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=High+school&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMppXfNh-OkLk_azmU0uk1AX8WDg6Aey6nZnfzhISz_BahG86fIXhZzQ_5i9gVo2jpkRefi2vb1cuIcbbWsQX1bg-7OrENYaerTHY7HdnuvRnhKl5pb77olUTJcfLc5M6Cvwjs_Lp0KxsYmsYuGkfQ3ePrBclEpMNgDhDtqgNcmpw571FOMQkVfuJds2Si9Fam1HQee2QNg2GXjq5WFR2JwVXsWWeLwOWzYS6e6MkcE-QZrQszXSmO84U3J_2q1RBHKUXdmHA%3D&sa=X&ved=2ahUKEwj60eel6eSWAxWmkK8BHZ1SDkYQmxN6BAglEAI"
+   },
+   {
+    "text": "State school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=State+school&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ybGtCxI0H8z2nV80srIO5hh43iJrpLL9zyTRHToodwNipZCD4kcN2wbzA3OqfyGettl42NpXglwsH4hnJQRSg4KBrFTowpZphOt0qedRcJ2A2gYoj50sEMvFMIYRiUZoHEKVyYIypvkEjXGuy9F2cjkKenrXAqXK3ni5vxcXFg1pmhmIt-1KfcJmQqzaF_xmCnKf_tU9iAH1DYVu-17DKyAyeWAOYhzmkpK8U05eTnFA1bTuL-kteE9HVJ_wFYc6bcmSuNM%3D&sa=X&ved=2ahUKEwj60eel6eSWAxWmkK8BHZ1SDkYQmxN6BAglEAM"
+   }
+  ],
+  "district": "Lafayette School Corporation",
+  "district_links": [
+   {
+    "text": "Lafayette School Corporation",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Lafayette+School+Corporation&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yaaSwVWltRXX62iimz4_eQOOdntW1SrpoA4A_hKJWcS-GrBDXNh3_L4iH4njlq-l-GbNcbVBfQAoI4eclzm6gael6mzEZ6vy4eXu7MmgLsR2Uk7CeuK7kUnfPYreKW03wtqyDWQrmEFR3I6b6D8fbHfSvOFixuUZ6MqO3awYxyNymHVhZA%3D%3D&sa=X&ved=2ahUKEwj60eel6eSWAxWmkK8BHZ1SDkYQmxN6BAgkEAI"
+   }
+  ],
+  "phone": "(765) 772-4700",
+  "raw_hours": "Closed \u00b7 Opens 7 - 30 AM Fri",
+  "hours": {
+   "thursday": {
+    "opens": "7:30\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "friday": {
+    "opens": "7:30\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "7:30\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "tuesday": {
+    "opens": "7:30\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "wednesday": {
+    "opens": "7:30\u202fAM",
+    "closes": "4\u202fPM"
+   }
+  },
+  "unclaimed_listing": true,
+  "profiles": [
+   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/jhsnautilus_/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Lafayette+Jefferson+High+School%22+Indiana",
+    "image": "https://serpapi.com/searches/6aa30f078ffd7b154eaf9e81/images/rCZRY-N_B55D-KFTUlUfo1cOL54Fx8ldUy9rYH5i32UnTSfmqEGE-SIoNXn6ZCSg.png"
+   },
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/LafayetteSchoolCorporation",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Lafayette+Jefferson+High+School%22+Indiana",
+    "image": "https://serpapi.com/searches/6aa30f078ffd7b154eaf9e81/images/rCZRY-N_B55D-KFTUlUfo6Vsleu5TbqgEyCK4t6cPMWNANuYqhCtOTpjH2zxdmea.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "What is the ranking of Jefferson High School in Lafayette, Indiana?",
+   "type": "ai_overview",
+   "page_token": "GO-BRnicHdFRbtowAABQ7TL9LDEBpiGhqSZJGQxrdmzH8c8U20AS7NiUdEn421323QPtNJP2rvB-_7FNd_376aPu-3Bfz2bDMDxfvL_Y07P2blbdp07PdGWtqvR1vfq8Al_PepP6Ybu9DxCzEHhColygQFopix0J1IbIuOWPU8oP6jq-88T0ZYcWqkMRdn5pAP9GuR80DzcVk0mltSUPtDPCHI6FBzS2nBRkhzLYE0pK1e4h5nhkLDscE3Q3Gae6WHbota-YCCTnKKmEhBSggQAZ82RfqcjelOPuuyCAALhQQi5PVFL2YLEB0PHXfY1YFnImm7wBFPE6YV3dVHOD8hhNrEXeMPtmXKiP3UvE5hIXSToRelzk3DZUwCC5nFC06PNo7GXHVxVDOK1NJidwK4UcMZNjWdRz3UKsXCaQQJAR32BGHrq1jiewKwqEjSunMkK8oNfeJGws5-adbwGT8y_UDE9n_WsTP_1_2Pw8u34d3vzlH78ll-I",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=GO-BRnicHdFRbtowAABQ7TL9LDEBpiGhqSZJGQxrdmzH8c8U20AS7NiUdEn421323QPtNJP2rvB-_7FNd_376aPu-3Bfz2bDMDxfvL_Y07P2blbdp07PdGWtqvR1vfq8Al_PepP6Ybu9DxCzEHhColygQFopix0J1IbIuOWPU8oP6jq-88T0ZYcWqkMRdn5pAP9GuR80DzcVk0mltSUPtDPCHI6FBzS2nBRkhzLYE0pK1e4h5nhkLDscE3Q3Gae6WHbota-YCCTnKKmEhBSggQAZ82RfqcjelOPuuyCAALhQQi5PVFL2YLEB0PHXfY1YFnImm7wBFPE6YV3dVHOD8hhNrEXeMPtmXKiP3UvE5hIXSToRelzk3DZUwCC5nFC06PNo7GXHVxVDOK1NJidwK4UcMZNjWdRz3UKsXCaQQJAR32BGHrq1jiewKwqEjSunMkK8oNfeJGws5-adbwGT8y_UDE9n_WsTP_1_2Pw8u34d3vzlH78ll-I",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5UVnJiVXRMUXpScldFaHVTRXc1WTI5WGNWOVdTMngxWjNGbFlXRlBUelJDZGxGTVQwMVViakptYmpaaVVtZFVVbmx0WTNSdlRFOVZkWEo0V2t4UWREVnVhVzE0TUZoUWJqSTBXRVJoY1hRMVpuZG9XbnBPYlRGNWR4SVhSV2N0YW1GMmNVRkdjV0ZvZG5Jd1VHNWhWelZ6UVZFYUlrRkVjM0k1WmxRNWMycEZkRlp4YzNwWVpHcHNVbDlqZVRKNmVqSnZaM05KVVdjIiwiZmN2IjoiMyIsImVpIjoiRWctamF2cUFGcWFodnIwUG5hVzVzQVEiLCJxYyI6IkNpZHNZV1poZVdWMGRHVWdhbVZtWm1WeWMyOXVJR2hwWjJnZ2MyTm9iMjlzSUdsdVpHbGhibUVRQUgxWmpSY18iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIHJhbmtpbmcgb2YgSmVmZmVyc29uIEhpZ2ggU2Nob29sIGluIExhZmF5ZXR0ZSwgSW5kaWFuYT8iLCJsayI6IkdpOXFaV1ptWlhKemIyNGdhR2xuYUNCelkyaHZiMndnYkdGbVlYbGxkSFJsSUdsdVpHbGhibUVnY21GdWEybHVadyIsImJzIjoiYzRXUE1RLUNNQkJHNDNxVGM2ZUxzNG1DZ3pveHVLQnhjekNPVlZwYXhXdENpOGlfRnpFSUdnajd1M3ZmZ3lkc2pvbzcxQmFkRXBoeXVtbUswVWpjQ1NsRmFnMWhxR09GaDRzeUprRk51T2VTRjhJNU1jVXRSWm9URDN5UHphNWZYcjE1LS1HVEdpNHZLN1pXUUFhcjBPUjQ1MVNnZFZra3lGbU1EVHJUR0xwSEJQNmFMVlhQYlNQc0hBUW5XTFNEejhLNm44RTlnUlBXaWJieklBYXZlaDNwaDdhNjlKYU93UlNmemZQX280R0c4ZWdGIiwiaWQiOiJmY19FZy1qYXZxQUZxYWh2cjBQbmFXNXNBUV81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5UVnJiVXRMUXpScldFaHVTRXc1WTI5WGNWOVdTMngxWjNGbFlXRlBUelJDZGxGTVQwMVViakptYmpaaVVtZFVVbmx0WTNSdlRFOVZkWEo0V2t4UWREVnVhVzE0TUZoUWJqSTBXRVJoY1hRMVpuZG9XbnBPYlRGNWR4SVhSV2N0YW1GMmNVRkdjV0ZvZG5Jd1VHNWhWelZ6UVZFYUlrRkVjM0k1WmxRNWMycEZkRlp4YzNwWVpHcHNVbDlqZVRKNmVqSnZaM05KVVdjIiwiZmN2IjoiMyIsImVpIjoiRWctamF2cUFGcWFodnIwUG5hVzVzQVEiLCJxYyI6IkNpZHNZV1poZVdWMGRHVWdhbVZtWm1WeWMyOXVJR2hwWjJnZ2MyTm9iMjlzSUdsdVpHbGhibUVRQUgxWmpSY18iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIHJhbmtpbmcgb2YgSmVmZmVyc29uIEhpZ2ggU2Nob29sIGluIExhZmF5ZXR0ZSwgSW5kaWFuYT8iLCJsayI6IkdpOXFaV1ptWlhKemIyNGdhR2xuYUNCelkyaHZiMndnYkdGbVlYbGxkSFJsSUdsdVpHbGhibUVnY21GdWEybHVadyIsImJzIjoiYzRXUE1RLUNNQkJHNDNxVGM2ZUxzNG1DZ3pveHVLQnhjekNPVlZwYXhXdENpOGlfRnpFSUdnajd1M3ZmZ3lkc2pvbzcxQmFkRXBoeXVtbUswVWpjQ1NsRmFnMWhxR09GaDRzeUprRk51T2VTRjhJNU1jVXRSWm9URDN5UHphNWZYcjE1LS1HVEdpNHZLN1pXUUFhcjBPUjQ1MVNnZFZra3lGbU1EVHJUR0xwSEJQNmFMVlhQYlNQc0hBUW5XTFNEejhLNm44RTlnUlBXaWJieklBYXZlaDNwaDdhNjlKYU93UlNmemZQX280R0c4ZWdGIiwiaWQiOiJmY19FZy1qYXZxQUZxYWh2cjBQbmFXNXNBUV81In0%3D"
+  },
+  {
+   "question": "How many students go to Lafayette Jefferson High School?",
+   "type": "ai_overview",
+   "page_token": "5T26I3icHdBRjqIwAADQzGXmc2yL40YTM0kVasjChgot9GfTFrXSAlWZQfmbK8wZ9lR7mknmHeF9_nPnzv5_-jLD4G-r2Wwcx5dT35_c4UX37UzeHp2eaemcktquFr8W8O2o1-GHxpurxlnhPdtSsIfMHrj3SUdl1jkqHRZsSq8irMu9XUZpyS4SjOOeVVAFBv3m9UTL8FHBuCmhQ4ccJ2lngApfz5xQktpi0juzY_wEqo5ihaKd5LFRloUVMlEJ2ZzuUqKInasoDirkiGI1yNvlnm2xSLbxXIP4PdmAgVpv-TaEGg0XFdC5tssLC-hZtq-bhKR3RbyjJG7yCS9ECw3jt6FuIp4jgDS4pwyKUBC_EEHsVFNHoakj8YCXqhT3rBD3ihukG5ypNirTMsUF7c9ZQSfduLbgMeG5mApi8KExQQHi5k8uTI4yJDdgksiYenw-6o918Pxzvf57bIeVv_anb4Dri6I",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=5T26I3icHdBRjqIwAADQzGXmc2yL40YTM0kVasjChgot9GfTFrXSAlWZQfmbK8wZ9lR7mknmHeF9_nPnzv5_-jLD4G-r2Wwcx5dT35_c4UX37UzeHp2eaemcktquFr8W8O2o1-GHxpurxlnhPdtSsIfMHrj3SUdl1jkqHRZsSq8irMu9XUZpyS4SjOOeVVAFBv3m9UTL8FHBuCmhQ4ccJ2lngApfz5xQktpi0juzY_wEqo5ihaKd5LFRloUVMlEJ2ZzuUqKInasoDirkiGI1yNvlnm2xSLbxXIP4PdmAgVpv-TaEGg0XFdC5tssLC-hZtq-bhKR3RbyjJG7yCS9ECw3jt6FuIp4jgDS4pwyKUBC_EEHsVFNHoakj8YCXqhT3rBD3ihukG5ypNirTMsUF7c9ZQSfduLbgMeG5mApi8KExQQHi5k8uTI4yJDdgksiYenw-6o918Pxzvf57bIeVv_anb4Dri6I",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5UVnJiVXRMUXpScldFaHVTRXc1WTI5WGNWOVdTMngxWjNGbFlXRlBUelJDZGxGTVQwMVViakptYmpaaVVtZFVVbmx0WTNSdlRFOVZkWEo0V2t4UWREVnVhVzE0TUZoUWJqSTBXRVJoY1hRMVpuZG9XbnBPYlRGNWR4SVhSV2N0YW1GMmNVRkdjV0ZvZG5Jd1VHNWhWelZ6UVZFYUlrRkVjM0k1WmxRNWMycEZkRlp4YzNwWVpHcHNVbDlqZVRKNmVqSnZaM05KVVdjIiwiZmN2IjoiMyIsImVpIjoiRWctamF2cUFGcWFodnIwUG5hVzVzQVEiLCJxYyI6IkNpZHNZV1poZVdWMGRHVWdhbVZtWm1WeWMyOXVJR2hwWjJnZ2MyTm9iMjlzSUdsdVpHbGhibUVRQUgxWmpSY18iLCJxdWVzdGlvbiI6IkhvdyBtYW55IHN0dWRlbnRzIGdvIHRvIExhZmF5ZXR0ZSBKZWZmZXJzb24gSGlnaCBTY2hvb2w/IiwibGsiOiJjd1hCMFEyQU1BZ0Z3RDM4ZWxzNEQxRW9tc3BMQ2szVDdiMDdUdWZDSjdHUk5XLU5TalNpaUM0bVc2c1VyNXJwU0FiOGFZNjhuT3dfIiwiYnMiOiJjNFdQTVEtQ01CQkc0M3FUYzZlTHM0bUNnem94dUtCeGN6Q09WVnBheFd0Q2k4aV9GekVJR2dqN3UzdmZneWRzam9vNzFCYWRFcGh5dW1tSzBVamNDU2xGYWcxaHFHT0ZoNHN5SmtGTnVPZVNGOEk1TWNVdFJab1REM3lQemE1ZlhyMTUtLUdUR2k0dks3WldRQWFyME9SNDUxU2dkVmtreUZtTURUclRHTHBIQlA2YUxWWFBiU1BzSEFRbldMU0R6OEs2bjhFOWdSUFdpYmJ6SUFhdmVoM3BoN2E2OUphT3dSU2Z6ZlBfbzRHRzhlZ0YiLCJpZCI6ImZjX0VnLWphdnFBRnFhaHZyMFBuYVc1c0FRXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5UVnJiVXRMUXpScldFaHVTRXc1WTI5WGNWOVdTMngxWjNGbFlXRlBUelJDZGxGTVQwMVViakptYmpaaVVtZFVVbmx0WTNSdlRFOVZkWEo0V2t4UWREVnVhVzE0TUZoUWJqSTBXRVJoY1hRMVpuZG9XbnBPYlRGNWR4SVhSV2N0YW1GMmNVRkdjV0ZvZG5Jd1VHNWhWelZ6UVZFYUlrRkVjM0k1WmxRNWMycEZkRlp4YzNwWVpHcHNVbDlqZVRKNmVqSnZaM05KVVdjIiwiZmN2IjoiMyIsImVpIjoiRWctamF2cUFGcWFodnIwUG5hVzVzQVEiLCJxYyI6IkNpZHNZV1poZVdWMGRHVWdhbVZtWm1WeWMyOXVJR2hwWjJnZ2MyTm9iMjlzSUdsdVpHbGhibUVRQUgxWmpSY18iLCJxdWVzdGlvbiI6IkhvdyBtYW55IHN0dWRlbnRzIGdvIHRvIExhZmF5ZXR0ZSBKZWZmZXJzb24gSGlnaCBTY2hvb2w%2FIiwibGsiOiJjd1hCMFEyQU1BZ0Z3RDM4ZWxzNEQxRW9tc3BMQ2szVDdiMDdUdWZDSjdHUk5XLU5TalNpaUM0bVc2c1VyNXJwU0FiOGFZNjhuT3dfIiwiYnMiOiJjNFdQTVEtQ01CQkc0M3FUYzZlTHM0bUNnem94dUtCeGN6Q09WVnBheFd0Q2k4aV9GekVJR2dqN3UzdmZneWRzam9vNzFCYWRFcGh5dW1tSzBVamNDU2xGYWcxaHFHT0ZoNHN5SmtGTnVPZVNGOEk1TWNVdFJab1REM3lQemE1ZlhyMTUtLUdUR2k0dks3WldRQWFyME9SNDUxU2dkVmtreUZtTURUclRHTHBIQlA2YUxWWFBiU1BzSEFRbldMU0R6OEs2bjhFOWdSUFdpYmJ6SUFhdmVoM3BoN2E2OUphT3dSU2Z6ZlBfbzRHRzhlZ0YiLCJpZCI6ImZjX0VnLWphdnFBRnFhaHZyMFBuYVc1c0FRXzUifQ%3D%3D"
+  },
+  {
+   "question": "What is the best high school in Lafayette, Indiana?",
+   "type": "ai_overview",
+   "page_token": "nxkegnicHdBRbpswAABQ7TL9bGxTOiVSNIlhUBE4xWAD_pnATkKwHdyUhCR_vcLOsFPtNK16gffxPv6Zw1H___G3nyb3vlos5nl-3I_j3mwf5WgX7fvtKBeyNaZrpV49_3yGv3ZyjS8y-H2SQc6c4yEFhUk2-V2cOXYHMZhXbpWh2H8lYTJs6pdZWACp7aOtpSNDAjZW5CL2j1y7JMMNorrHjV6OLWNPikWuiPu3TktYgORFxgyllb8hKLvlgN45jq5t2E8cUZdycy7ANSy9JBGAxx0M0hLRG6sSb1snUJUYNEfsp2ypSWTGjDFUYQwIUrtc80vuUdjq2eNegDpMQwaWZ1UJ_8tDPDKnTUwvTPvDtlROheYsefaEexWJG3xranHNmbg2VY_kEOSdjWpSk4DR8ZAzepeDsRxPcVFNmdQaUkzT7uuA8CXMSlUQC6NCk0HNDzt5WXsP39frPzs7rdxp3H8CLHCLSQ",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=nxkegnicHdBRbpswAABQ7TL9bGxTOiVSNIlhUBE4xWAD_pnATkKwHdyUhCR_vcLOsFPtNK16gffxPv6Zw1H___G3nyb3vlos5nl-3I_j3mwf5WgX7fvtKBeyNaZrpV49_3yGv3ZyjS8y-H2SQc6c4yEFhUk2-V2cOXYHMZhXbpWh2H8lYTJs6pdZWACp7aOtpSNDAjZW5CL2j1y7JMMNorrHjV6OLWNPikWuiPu3TktYgORFxgyllb8hKLvlgN45jq5t2E8cUZdycy7ANSy9JBGAxx0M0hLRG6sSb1snUJUYNEfsp2ypSWTGjDFUYQwIUrtc80vuUdjq2eNegDpMQwaWZ1UJ_8tDPDKnTUwvTPvDtlROheYsefaEexWJG3xranHNmbg2VY_kEOSdjWpSk4DR8ZAzepeDsRxPcVFNmdQaUkzT7uuA8CXMSlUQC6NCk0HNDzt5WXsP39frPzs7rdxp3H8CLHCLSQ",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5UVnJiVXRMUXpScldFaHVTRXc1WTI5WGNWOVdTMngxWjNGbFlXRlBUelJDZGxGTVQwMVViakptYmpaaVVtZFVVbmx0WTNSdlRFOVZkWEo0V2t4UWREVnVhVzE0TUZoUWJqSTBXRVJoY1hRMVpuZG9XbnBPYlRGNWR4SVhSV2N0YW1GMmNVRkdjV0ZvZG5Jd1VHNWhWelZ6UVZFYUlrRkVjM0k1WmxRNWMycEZkRlp4YzNwWVpHcHNVbDlqZVRKNmVqSnZaM05KVVdjIiwiZmN2IjoiMyIsImVpIjoiRWctamF2cUFGcWFodnIwUG5hVzVzQVEiLCJxYyI6IkNpZHNZV1poZVdWMGRHVWdhbVZtWm1WeWMyOXVJR2hwWjJnZ2MyTm9iMjlzSUdsdVpHbGhibUVRQUgxWmpSY18iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgaGlnaCBzY2hvb2wgaW4gTGFmYXlldHRlLCBJbmRpYW5hPyIsImxrIjoiR2lCaVpYTjBJR2hwWjJnZ2MyTm9iMjlzSUdsdUlHeGhabUY1WlhSMFpTQnBiZyIsImJzIjoiYzRXUE1RLUNNQkJHNDNxVGM2ZUxzNG1DZ3pveHVLQnhjekNPVlZwYXhXdENpOGlfRnpFSUdnajd1M3ZmZ3lkc2pvbzcxQmFkRXBoeXVtbUswVWpjQ1NsRmFnMWhxR09GaDRzeUprRk51T2VTRjhJNU1jVXRSWm9URDN5UHphNWZYcjE1LS1HVEdpNHZLN1pXUUFhcjBPUjQ1MVNnZFZra3lGbU1EVHJUR0xwSEJQNmFMVlhQYlNQc0hBUW5XTFNEejhLNm44RTlnUlBXaWJieklBYXZlaDNwaDdhNjlKYU93UlNmemZQX280R0c4ZWdGIiwiaWQiOiJmY19FZy1qYXZxQUZxYWh2cjBQbmFXNXNBUV81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5UVnJiVXRMUXpScldFaHVTRXc1WTI5WGNWOVdTMngxWjNGbFlXRlBUelJDZGxGTVQwMVViakptYmpaaVVtZFVVbmx0WTNSdlRFOVZkWEo0V2t4UWREVnVhVzE0TUZoUWJqSTBXRVJoY1hRMVpuZG9XbnBPYlRGNWR4SVhSV2N0YW1GMmNVRkdjV0ZvZG5Jd1VHNWhWelZ6UVZFYUlrRkVjM0k1WmxRNWMycEZkRlp4YzNwWVpHcHNVbDlqZVRKNmVqSnZaM05KVVdjIiwiZmN2IjoiMyIsImVpIjoiRWctamF2cUFGcWFodnIwUG5hVzVzQVEiLCJxYyI6IkNpZHNZV1poZVdWMGRHVWdhbVZtWm1WeWMyOXVJR2hwWjJnZ2MyTm9iMjlzSUdsdVpHbGhibUVRQUgxWmpSY18iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgaGlnaCBzY2hvb2wgaW4gTGFmYXlldHRlLCBJbmRpYW5hPyIsImxrIjoiR2lCaVpYTjBJR2hwWjJnZ2MyTm9iMjlzSUdsdUlHeGhabUY1WlhSMFpTQnBiZyIsImJzIjoiYzRXUE1RLUNNQkJHNDNxVGM2ZUxzNG1DZ3pveHVLQnhjekNPVlZwYXhXdENpOGlfRnpFSUdnajd1M3ZmZ3lkc2pvbzcxQmFkRXBoeXVtbUswVWpjQ1NsRmFnMWhxR09GaDRzeUprRk51T2VTRjhJNU1jVXRSWm9URDN5UHphNWZYcjE1LS1HVEdpNHZLN1pXUUFhcjBPUjQ1MVNnZFZra3lGbU1EVHJUR0xwSEJQNmFMVlhQYlNQc0hBUW5XTFNEejhLNm44RTlnUlBXaWJieklBYXZlaDNwaDdhNjlKYU93UlNmemZQX280R0c4ZWdGIiwiaWQiOiJmY19FZy1qYXZxQUZxYWh2cjBQbmFXNXNBUV81In0%3D"
+  },
+  {
+   "question": "What division is Lafayette Jefferson High School?",
+   "type": "ai_overview",
+   "page_token": "e0eWInicHdBBbqMwFABQzWW6bGwYMp1IUSUGnJQ2bg3YJt6M4JuEOgbcBIWQ3VxhztBT9TStun3L9-_dvnaHjx__m2Fwp8VsNo7j7b7v97a-hb6dlaepgxmU1lYlHBbzX3N8v4NlfIbwzxFCxp0TUYoykzBhtKQiZJsotGk7HKsDZk9i49dCG-YFcxnrQOUiTKV7oIV4Aqx8IWJEW7LhOMmzWHSyI6cCBSlIG8GKXTRWKFuBr7y7gNp0LNfEZX7zRleYa5vw0sMNvdpWFvSZx8lDubbbPFfDc0QmwInVpJ9Kq4YcJVdNhJcJOwBXpkLjlAoXgJ8EdUFfADW4lhRV2Im6S_zKbCbVuTGPXbnlJ1xz-rMmX2bsNW40URN-2xbqwri6bGXjgQlZ1ZKCFjTkaf_KeHoFY1uO9Drzgktm7Ip6vx-VbaRocSciynKhCcvpkbObHZyX_s339fLvrh0W7tjvPwFBpIxs",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=e0eWInicHdBBbqMwFABQzWW6bGwYMp1IUSUGnJQ2bg3YJt6M4JuEOgbcBIWQ3VxhztBT9TStun3L9-_dvnaHjx__m2Fwp8VsNo7j7b7v97a-hb6dlaepgxmU1lYlHBbzX3N8v4NlfIbwzxFCxp0TUYoykzBhtKQiZJsotGk7HKsDZk9i49dCG-YFcxnrQOUiTKV7oIV4Aqx8IWJEW7LhOMmzWHSyI6cCBSlIG8GKXTRWKFuBr7y7gNp0LNfEZX7zRleYa5vw0sMNvdpWFvSZx8lDubbbPFfDc0QmwInVpJ9Kq4YcJVdNhJcJOwBXpkLjlAoXgJ8EdUFfADW4lhRV2Im6S_zKbCbVuTGPXbnlJ1xz-rMmX2bsNW40URN-2xbqwri6bGXjgQlZ1ZKCFjTkaf_KeHoFY1uO9Drzgktm7Ip6vx-VbaRocSciynKhCcvpkbObHZyX_s339fLvrh0W7tjvPwFBpIxs",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5UVnJiVXRMUXpScldFaHVTRXc1WTI5WGNWOVdTMngxWjNGbFlXRlBUelJDZGxGTVQwMVViakptYmpaaVVtZFVVbmx0WTNSdlRFOVZkWEo0V2t4UWREVnVhVzE0TUZoUWJqSTBXRVJoY1hRMVpuZG9XbnBPYlRGNWR4SVhSV2N0YW1GMmNVRkdjV0ZvZG5Jd1VHNWhWelZ6UVZFYUlrRkVjM0k1WmxRNWMycEZkRlp4YzNwWVpHcHNVbDlqZVRKNmVqSnZaM05KVVdjIiwiZmN2IjoiMyIsImVpIjoiRWctamF2cUFGcWFodnIwUG5hVzVzQVEiLCJxYyI6IkNpZHNZV1poZVdWMGRHVWdhbVZtWm1WeWMyOXVJR2hwWjJnZ2MyTm9iMjlzSUdsdVpHbGhibUVRQUgxWmpSY18iLCJxdWVzdGlvbiI6IldoYXQgZGl2aXNpb24gaXMgTGFmYXlldHRlIEplZmZlcnNvbiBIaWdoIFNjaG9vbD8iLCJsayI6IkdqQjNhR0YwSUdScGRtbHphVzl1SUdseklHeGhabUY1WlhSMFpTQnFaV1ptWlhKemIyNGdhR2xuYUNCelkyaHZiMnciLCJicyI6ImM0V1BNUS1DTUJCRzQzcVRjNmVMczRtQ2d6b3h1S0J4Y3pDT1ZWcGF4V3RDaThpX0Z6RUlHZ2o3dTN2Zmd5ZHNqb283MUJhZEVwaHl1bW1LMFVqY0NTbEZhZzFocUdPRmg0c3lKa0ZOdU9lU0Y4STVNY1V0UlpvVEQzeVB6YTVmWHIxNS0tR1RHaTR2SzdaV1FBYXIwT1I0NTFTZ2RWa2t5Rm1NRFRyVEdMcEhCUDZhTFZYUGJTUHNIQVFuV0xTRHo4SzZuOEU5Z1JQV2liYnpJQWF2ZWgzcGg3YTY5SmFPd1JTZnpmUF9vNEdHOGVnRiIsImlkIjoiZmNfRWctamF2cUFGcWFodnIwUG5hVzVzQVFfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5UVnJiVXRMUXpScldFaHVTRXc1WTI5WGNWOVdTMngxWjNGbFlXRlBUelJDZGxGTVQwMVViakptYmpaaVVtZFVVbmx0WTNSdlRFOVZkWEo0V2t4UWREVnVhVzE0TUZoUWJqSTBXRVJoY1hRMVpuZG9XbnBPYlRGNWR4SVhSV2N0YW1GMmNVRkdjV0ZvZG5Jd1VHNWhWelZ6UVZFYUlrRkVjM0k1WmxRNWMycEZkRlp4YzNwWVpHcHNVbDlqZVRKNmVqSnZaM05KVVdjIiwiZmN2IjoiMyIsImVpIjoiRWctamF2cUFGcWFodnIwUG5hVzVzQVEiLCJxYyI6IkNpZHNZV1poZVdWMGRHVWdhbVZtWm1WeWMyOXVJR2hwWjJnZ2MyTm9iMjlzSUdsdVpHbGhibUVRQUgxWmpSY18iLCJxdWVzdGlvbiI6IldoYXQgZGl2aXNpb24gaXMgTGFmYXlldHRlIEplZmZlcnNvbiBIaWdoIFNjaG9vbD8iLCJsayI6IkdqQjNhR0YwSUdScGRtbHphVzl1SUdseklHeGhabUY1WlhSMFpTQnFaV1ptWlhKemIyNGdhR2xuYUNCelkyaHZiMnciLCJicyI6ImM0V1BNUS1DTUJCRzQzcVRjNmVMczRtQ2d6b3h1S0J4Y3pDT1ZWcGF4V3RDaThpX0Z6RUlHZ2o3dTN2Zmd5ZHNqb283MUJhZEVwaHl1bW1LMFVqY0NTbEZhZzFocUdPRmg0c3lKa0ZOdU9lU0Y4STVNY1V0UlpvVEQzeVB6YTVmWHIxNS0tR1RHaTR2SzdaV1FBYXIwT1I0NTFTZ2RWa2t5Rm1NRFRyVEdMcEhCUDZhTFZYUGJTUHNIQVFuV0xTRHo4SzZuOEU5Z1JQV2liYnpJQWF2ZWgzcGg3YTY5SmFPd1JTZnpmUF9vNEdHOGVnRiIsImlkIjoiZmNfRWctamF2cUFGcWFodnIwUG5hVzVzQVFfNSJ9"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Jefferson High School (Indiana)",
+   "link": "https://en.wikipedia.org/wiki/Jefferson_High_School_(Indiana)",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAVQ8mJJEo5nygICv_5bIFmxfzyKxneH5P_r2xquNHiY_Fi4uUOXz_X-jfCp2Kksa-F3roN0EDUQnhrZrK6-xFyZCKNxe42TPdOikxWrr8J4iLTFPJjxcYqcZqJGs8QEVwe6Vg1fz3yNFI2EcSFBLtyGw&ved=2ahUKEwj60eel6eSWAxWmkK8BHZ1SDkYQFnoECEMQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Jefferson_High_Schoo...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+   "snippet": "Lafayette Jefferson High School. Location. Map. Wikimedia | \u00a9 OpenStreetMap. 1801 South 18th Street. Lafayette. ,. Indiana. 47905. United States. 40\u00b023\u203253\u2033N 86\u00b0 ...",
+   "snippet_highlighted_words": [
+    "Lafayette Jefferson High School",
+    "Indiana"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Lafayette Jefferson High School. Location. Map. Wikimedia | \u00a9 OpenStreetMap. 1801 South 18th Street. Lafayette. ,. Indiana. 47905. United States. 40\u00b023\u203253\u2033N 86\u00b0 ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Jefferson_High_School_(Indiana)",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdQHrOzAVQ8mJJEo5nygICv_5bIFmxfzyKxneH5P_r2xquNHiY_Fi4uUOXz_X-jfCp2Kksa-F3roN0EDUQnhrZrK6-xFyZCKNxe42TPdOikxWrr8J4iLTFPJjxcYqcZqJGs8QEVwe6Vg1fz3yNFI2EcSFBLtyGw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdQHrOzAVQ8mJJEo5nygICv_5bIFmxfzyKxneH5P_r2xquNHiY_Fi4uUOXz_X-jfCp2Kksa-F3roN0EDUQnhrZrK6-xFyZCKNxe42TPdOikxWrr8J4iLTFPJjxcYqcZqJGs8QEVwe6Vg1fz3yNFI2EcSFBLtyGw",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Jefferson_High_School_(Indiana)#:~:text=Lafayette%20Jefferson%20High%20School,40%C2%B023%E2%80%B253%E2%80%B3N%2086%C2%B0"
+  },
+  {
+   "position": 2,
+   "title": "Lafayette Jefferson High School",
+   "link": "https://bronchoathletics.com/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVQHrOzAVELayep-iAJNdc1IwIY3ATg0rpf_tooXDi8LLvh_MT5b76OgMt4U3SCcLu1N5OEVLhcvM4_g2rpIQY5Bz2JE3g71jflbKgQ4MS48D3vYhOqI&ved=2ahUKEwj60eel6eSWAxWmkK8BHZ1SDkYQFnoECEQQAQ&uoh=1",
+   "displayed_link": "https://bronchoathletics.com",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAbFBMVEVHcEz69--Myc0fISQHDxIdHRxCIiEQFRUaHB0lJCJIV3AfKzAJCQopDg-DISFgGRokMzcdIyiyKSm-KyugJSXjMTHILS3cMC9KFhaOIiI5Fhh0Hh8nXl8RJSkkHB8WFhUWGRksLCwaQFBVIiWG8n6rAAAAJHRSTlMAKAGG-JjyzbNbAzT_____IHb____________9CWjJ_uFLEs1HhWusAAABXklEQVR4AczSRWLgIAAF0B8X3CFK0vvfcZi6r_siuIM_psIv6qbt-mHsphnfIU03UMo4F5SO8rsKilJtjHU-WEZHfCbHyJLzhicdnLNL39Uf27fMeMeF0SEkE1zQa0vwjorCebGa1RXCe6utiRsaJiagkHvyJq7CMuuTFal0k7hVhFGxAsW0aB7jcRomlrhGH0KIlg2ZLnxpgJrQ5BNrMDJGWYyUh_9d0IJddwawr8mt8cJNxznTdqAmBBNZ29IGckTRMMtjRn2WXjIw2hA8pbmugSxR5LZNOmM-O5QXcgnBtow-SEj5fAwlT1woPZQXuBfDa3WkiBdkJkL3yASnRDEyfwF7xJt5zxcWQs6n5IMYgevEJ1xeGU9GcWE68Am_VYcn9zlB7fhI2vt4zTsadP306UoJkho8aw4QceKDThFyv3YnAHV87OFjqr_wu45P-M080Q6_2v5Niptu-REA5rUZ8V9iOowAAAAASUVORK5CYII.png",
+   "snippet": "Lafayette Jefferson High School \u00b7 Home of the Bronchos \u00b7 UPCOMING EVENTS \u00b7 LATEST NEWS \u00b7 Galleries \u00b7 RECENT POSTS By @JeffAthletics \u00b7 SHOW SUPPORT FOR Lafayette ...",
+   "snippet_highlighted_words": [
+    "Lafayette Jefferson High School",
+    "Lafayette"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Lafayette Jefferson High School \u00b7 Home of the Bronchos \u00b7 UPCOMING EVENTS \u00b7 LATEST NEWS \u00b7 Galleries \u00b7 RECENT POSTS By @JeffAthletics \u00b7 SHOW SUPPORT FOR Lafayette ...",
+     "source_info_link": "https://bronchoathletics.com/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAbFBMVEVHcEz69--Myc0fISQHDxIdHRxCIiEQFRUaHB0lJCJIV3AfKzAJCQopDg-DISFgGRokMzcdIyiyKSm-KyugJSXjMTHILS3cMC9KFhaOIiI5Fhh0Hh8nXl8RJSkkHB8WFhUWGRksLCwaQFBVIiWG8n6rAAAAJHRSTlMAKAGG-JjyzbNbAzT_____IHb____________9CWjJ_uFLEs1HhWusAAABXklEQVR4AczSRWLgIAAF0B8X3CFK0vvfcZi6r_siuIM_psIv6qbt-mHsphnfIU03UMo4F5SO8rsKilJtjHU-WEZHfCbHyJLzhicdnLNL39Uf27fMeMeF0SEkE1zQa0vwjorCebGa1RXCe6utiRsaJiagkHvyJq7CMuuTFal0k7hVhFGxAsW0aB7jcRomlrhGH0KIlg2ZLnxpgJrQ5BNrMDJGWYyUh_9d0IJddwawr8mt8cJNxznTdqAmBBNZ29IGckTRMMtjRn2WXjIw2hA8pbmugSxR5LZNOmM-O5QXcgnBtow-SEj5fAwlT1woPZQXuBfDa3WkiBdkJkL3yASnRDEyfwF7xJt5zxcWQs6n5IMYgevEJ1xeGU9GcWE68Am_VYcn9zlB7fhI2vt4zTsadP306UoJkho8aw4QceKDThFyv3YnAHV87OFjqr_wu45P-M080Q6_2v5Niptu-REA5rUZ8V9iOowAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESVQHrOzAVELayep-iAJNdc1IwIY3ATg0rpf_tooXDi8LLvh_MT5b76OgMt4U3SCcLu1N5OEVLhcvM4_g2rpIQY5Bz2JE3g71jflbKgQ4MS48D3vYhOqI&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESVQHrOzAVELayep-iAJNdc1IwIY3ATg0rpf_tooXDi8LLvh_MT5b76OgMt4U3SCcLu1N5OEVLhcvM4_g2rpIQY5Bz2JE3g71jflbKgQ4MS48D3vYhOqI",
+   "source": "bronchoathletics.com",
+   "read_more_link": "https://bronchoathletics.com/#:~:text=Lafayette%20Jefferson%20High%20School&text=Home%20of%20the%20Bronchos&text=UPCOMING%20EVENTS&text=LATEST%20NEWS&text=Galleries&text=RECENT%20POSTS%20By%20%40JeffAthletics&text=SHOW%20SUPPORT%20FOR%20Lafayette%20Jefferson,High%20School"
+  },
+  {
+   "position": 3,
+   "title": "Jefferson High School in Lafayette, IN",
+   "link": "https://www.niche.com/k12/jefferson-high-school-lafayette-in/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAVTuntnR92Mit5dcQGNrySL8BQ6pBrhmHdTBsHSkilPLw8_eIGMB131wTGGL6N_H7pnvmWm7pvI09iAQUmJzEJtONCQmiux-yv3JCkrRKCy82mfFDgbvkQCwkesAA5_GKOQyNFX0od9A5NRTjjTrVkUw&ved=2ahUKEwj60eel6eSWAxWmkK8BHZ1SDkYQFnoECFwQAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a Indiana",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png",
+   "snippet": "Lafayette Jefferson High School offers a remarkably diverse and inclusive environment, welcoming students from various cultural and socioeconomic backgrounds.",
+   "snippet_highlighted_words": [
+    "Lafayette Jefferson High School"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 3.9,
+      "reviews": 323
+     },
+     "extensions": [
+      "3.9(323)"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Lafayette Jefferson High School offers a remarkably diverse and inclusive environment, welcoming students from various cultural and socioeconomic backgrounds.",
+     "source_info_link": "https://www.niche.com/k12/jefferson-high-school-lafayette-in/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdQHrOzAVTuntnR92Mit5dcQGNrySL8BQ6pBrhmHdTBsHSkilPLw8_eIGMB131wTGGL6N_H7pnvmWm7pvI09iAQUmJzEJtONCQmiux-yv3JCkrRKCy82mfFDgbvkQCwkesAA5_GKOQyNFX0od9A5NRTjjTrVkUw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdQHrOzAVTuntnR92Mit5dcQGNrySL8BQ6pBrhmHdTBsHSkilPLw8_eIGMB131wTGGL6N_H7pnvmWm7pvI09iAQUmJzEJtONCQmiux-yv3JCkrRKCy82mfFDgbvkQCwkesAA5_GKOQyNFX0od9A5NRTjjTrVkUw",
+   "source": "Niche",
+   "read_more_link": "https://www.niche.com/k12/jefferson-high-school-lafayette-in/#:~:text=Lafayette%20Jefferson%20High%20School%20offers,various%20cultural%20and%20socioeconomic%20backgrounds."
+  },
+  {
+   "position": 4,
+   "title": "Historic Jeff High School in Lafayette Transformation",
+   "link": "https://www.facebook.com/groups/preservehistoriclafayette/posts/3931317347185054/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiQEB6zswFQxyxsb6R6aCc7eHJJXOAxk1XwinY_1y4L9d2uhV6ANxPQyhamgemsP1FspEFPbsz7r8q1yVyq8FkBmWSny2qWLHxKlMv0N-NdK05sn0pa1Qidx0VLA-b5mWTAB0rmpR1Is6MiLu4NQcm8ML0ycShv6AXJP0cZYyUhw9UeQlQu2-5AuIiQ&ved=2ahUKEwj60eel6eSWAxWmkK8BHZ1SDkYQFnoECGUQAQ&uoh=1",
+   "displayed_link": "80+ comments \u00b7 1 year ago",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "snippet": "From classrooms to cozy homes! \ud83c\udfeb\u27a1\ufe0f\ud83c\udfe0 Lafayette\u2019s original Jeff High School was built in 1912 in a grand Tudor style, inspired by the days ...",
+   "sitelinks": {
+    "list": [
+     {
+      "title": "Uncovering the history of Old Jefferson High School in ...",
+      "link": "https://www.facebook.com/groups/2448693395496033/posts/2451468268551879/",
+      "date": "May 12, 2025"
+     },
+     {
+      "title": "Lafayette, IN Jefferson cheer block history - Facebook",
+      "link": "https://www.facebook.com/groups/133605977222413/posts/2004157866833872/",
+      "date": "Mar 6, 2026"
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Mia Fields That's the same year my dad graduated from Lafayette Jefferson High School ... PJ Ruppert \u25bb Jeff High School Class of 75 Lafayette ...",
+     "source_info_link": "https://www.facebook.com/groups/preservehistoriclafayette/posts/3931317347185054/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESiQEB6zswFQxyxsb6R6aCc7eHJJXOAxk1XwinY_1y4L9d2uhV6ANxPQyhamgemsP1FspEFPbsz7r8q1yVyq8FkBmWSny2qWLHxKlMv0N-NdK05sn0pa1Qidx0VLA-b5mWTAB0rmpR1Is6MiLu4NQcm8ML0ycShv6AXJP0cZYyUhw9UeQlQu2-5AuIiQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESiQEB6zswFQxyxsb6R6aCc7eHJJXOAxk1XwinY_1y4L9d2uhV6ANxPQyhamgemsP1FspEFPbsz7r8q1yVyq8FkBmWSny2qWLHxKlMv0N-NdK05sn0pa1Qidx0VLA-b5mWTAB0rmpR1Is6MiLu4NQcm8ML0ycShv6AXJP0cZYyUhw9UeQlQu2-5AuIiQ",
+   "source": "Facebook \u00b7 Preserve Historic Lafayette"
+  },
+  {
+   "position": 5,
+   "title": "Jefferson High School: Home",
+   "link": "https://lscjefferson.ss7.sharpschool.com/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYQHrOzAVGpyj7_HuIygPkXnvERmhcDSTNyXdsZhij9EO9fCAE0scntGy4ELGKX57S0FiIk74v2SLmMiEn5hDoBNTNAwBStl0AqEzO3esNOkpHjzfIO3oUEYiemUdv30LupY&ved=2ahUKEwj60eel6eSWAxWmkK8BHZ1SDkYQFnoECFoQAQ&uoh=1",
+   "displayed_link": "https://lscjefferson.ss7.sharpschool.com",
+   "favicon": "https://serpapi.com/searches/6aa30f078ffd7b154eaf9e81/images/SOBKcMFiwP1hD0DGiJHjdI-Kld5F0yH3YNfjCOcVyl0.png",
+   "snippet": "Lafayette Jefferson High School: Open Gym Boys Basketabll5:45AM - 7:15AM ; BASKETBALL (G V) Practice: Girls Basketball Limited Contact3:00PM - 5:00PM ; JHS Band - ...",
+   "snippet_highlighted_words": [
+    "Lafayette Jefferson High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Lafayette Jefferson High School: Open Gym Boys Basketabll5:45AM - 7:15AM ; BASKETBALL (G V) Practice: Girls Basketball Limited Contact3:00PM - 5:00PM ; JHS Band - ...",
+     "source_info_link": "https://lscjefferson.ss7.sharpschool.com/",
+     "icon": "https://serpapi.com/searches/6aa30f078ffd7b154eaf9e81/images/SOBKcMFiwP1hD0DGiJHjdK6mDBdwy4yyXAOXK3rzddD3q_BSybAyW9q0oPTdSXbV.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYQHrOzAVGpyj7_HuIygPkXnvERmhcDSTNyXdsZhij9EO9fCAE0scntGy4ELGKX57S0FiIk74v2SLmMiEn5hDoBNTNAwBStl0AqEzO3esNOkpHjzfIO3oUEYiemUdv30LupY&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYQHrOzAVGpyj7_HuIygPkXnvERmhcDSTNyXdsZhij9EO9fCAE0scntGy4ELGKX57S0FiIk74v2SLmMiEn5hDoBNTNAwBStl0AqEzO3esNOkpHjzfIO3oUEYiemUdv30LupY",
+   "source": "PowerSchool",
+   "read_more_link": "https://lscjefferson.ss7.sharpschool.com/#:~:text=More%20Events%20%3E&text=More%20Events%20%3E&text=More%20Events%20%3E"
+  },
+  {
+   "position": 6,
+   "title": "Lafayette Jefferson High School (IN) Football",
+   "link": "https://www.maxpreps.com/in/lafayette/lafayette-jefferson-bronchos/football/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShAEB6zswFXTtIyvn8HwQPKj9Bcxc2BdwvgUsaBcge55h1xUGtZZffXlKsFAfBsxnwY64DVEa9fC_aRliHBqItTM9_Yfs3gwdLIhJ3zVOM6ZvO8583w56Na3cQRfb0uJc0rzOhOkhaasAJ2pj-cjoobvpsoTikrW9rmjAy0fzwR2Q5Hncpsc&ved=2ahUKEwj60eel6eSWAxWmkK8BHZ1SDkYQFnoECF8QAQ&uoh=1",
+   "displayed_link": "https://www.maxpreps.com \u203a Football \u203a IN Football",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEzhBADhBADhBADhBQDhBQDhBADhBADhBADhBQDhBQDhBADhBADhBQDhBADhBQBqDGaWAAAAD3RSTlMANHaA7NyWEEjPqCVevglnZLSWAAAAqElEQVQokaWSSxaFIAxDU0pFBM3-d_vkM3pUJ3YAHEJvQwH4GlcIQQUoei_Sv2okD2C7p7ikhrHbzugilnuXMsa1aCZPkYO0pSSgjJWsxs3xW5iV3E6H2v1WsxpXr5OrIbpUQNhjd0XELvoajqadD-Jb5mtNHaLv1obo3rNwhtehRo32wM3ttduJfPled_G5nZr6XVduHt1pXTKXWoHd64PML5nmF_0YP5WLCXU498sLAAAAAElFTkSuQmCC.png",
+   "snippet": "Lafayette Jefferson High School. 1801 S 18th Street. Lafayette, IN 47905. Indiana High School Athletic Association logo IHSAA ...",
+   "snippet_highlighted_words": [
+    "Lafayette Jefferson High School",
+    "Indiana"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Lafayette Jefferson High School. 1801 S 18th Street. Lafayette, IN 47905. Indiana High School Athletic Association logo IHSAA ...",
+     "source_info_link": "https://www.maxpreps.com/in/lafayette/lafayette-jefferson-bronchos/football/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEzhBADhBADhBADhBQDhBQDhBADhBADhBADhBQDhBQDhBADhBADhBQDhBADhBQBqDGaWAAAAD3RSTlMANHaA7NyWEEjPqCVevglnZLSWAAAAqElEQVQokaWSSxaFIAxDU0pFBM3-d_vkM3pUJ3YAHEJvQwH4GlcIQQUoei_Sv2okD2C7p7ikhrHbzugilnuXMsa1aCZPkYO0pSSgjJWsxs3xW5iV3E6H2v1WsxpXr5OrIbpUQNhjd0XELvoajqadD-Jb5mtNHaLv1obo3rNwhtehRo32wM3ttduJfPled_G5nZr6XVduHt1pXTKXWoHd64PML5nmF_0YP5WLCXU498sLAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEShAEB6zswFXTtIyvn8HwQPKj9Bcxc2BdwvgUsaBcge55h1xUGtZZffXlKsFAfBsxnwY64DVEa9fC_aRliHBqItTM9_Yfs3gwdLIhJ3zVOM6ZvO8583w56Na3cQRfb0uJc0rzOhOkhaasAJ2pj-cjoobvpsoTikrW9rmjAy0fzwR2Q5Hncpsc&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEShAEB6zswFXTtIyvn8HwQPKj9Bcxc2BdwvgUsaBcge55h1xUGtZZffXlKsFAfBsxnwY64DVEa9fC_aRliHBqItTM9_Yfs3gwdLIhJ3zVOM6ZvO8583w56Na3cQRfb0uJc0rzOhOkhaasAJ2pj-cjoobvpsoTikrW9rmjAy0fzwR2Q5Hncpsc",
+   "source": "MaxPreps",
+   "read_more_link": "https://www.maxpreps.com/in/lafayette/lafayette-jefferson-bronchos/football/#:~:text=Lafayette%20Jefferson%20High%20School,IHSAA%2C%20Official%20MaxPreps%20partner"
+  },
+  {
+   "position": 7,
+   "title": "Alumni - Jefferson High School - Lafayette School Corporation",
+   "link": "https://jhs.lsc.k12.in.us/alumni",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWAHrOzAVsgCFx_PXMNjrEJjTHu-khut6xOtpRHc_piuALria-CiZqxfL9d8myALMaYdcDP4O3_Don_dqh67ceOzf9sG784zy_dCvI2617h4XHC4XWyA2oOU&ved=2ahUKEwj60eel6eSWAxWmkK8BHZ1SDkYQFnoECFsQAQ&uoh=1",
+   "displayed_link": "https://jhs.lsc.k12.in.us \u203a alumni",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAAA8AAAAQCAYAAADJViUEAAACI0lEQVR4AX2TQ3hlQRSE73awHNu2bdu2jdXYthnbNp9j27btpPJV7EW7_zrqFjbe2tZlA7AawAG2uLSSIV3d6RJ09Un3TPTRrc0PUgKbXGQXn5ZXc7tH2D0WJ5J9DcKz3J8gy-UUchy2IkbxB95BiYhMKkVBKRCZVjOhE0zl5FBbZEluoER2BKnyFwjy84XMKxrvdQKw-poh9j2whZNnWl1zGC1wguLrs2Yw2N0USSkZuPhBWk3ATJIIzsce0cL62xbgnAItcLbj_vsEo_3t2UDXw8IieRlTT-lB077Rg4nHNLgGBYT0Qsz2joN6htcfP8ZHsNmD0pxoWuVlihBmw_ADagwDguPSdfsVfw1QWwcww0wUQVplghIyypksCjBmzpsFGmHR_Y-ME81gerSMlyjY0ppFNh59DWa_746_jbDttLkI0TYGsx2qcEdWVDLyCytbQELWzn7oP-s89p17D4byxzSgEbZfsBq2p27CVxYMinAtNZEQoggvt4As3VcVR7C0guiX4X7x1fugdQrEeIeBYVCAQqzr7M13ceDqLxDkvM_EY-6sUMMbDjSwiXecvyKbgPn2Y6Dr_l9-UAAibQf80RCB4NJdDzFmwXlMWXHVqN0jcbn15Bk9IEwowl4KesA9hiOMPw66zoQZuMb37vS2WfOgfyrOdJ8iIhtZi6sj55_HzDU3cfme2rtufxW_oDi4AMwm46SrTNSUlde3srX9GPVHdlY-Vj8zAwAAAABJRU5ErkJggg.png",
+   "snippet": "The Lafayette Jefferson High School Alumni Association is excited to partner with PCI (also known as Publishing Concepts) once again to publish the 2026 ...",
+   "snippet_highlighted_words": [
+    "Lafayette Jefferson High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The Lafayette Jefferson High School Alumni Association is excited to partner with PCI (also known as Publishing Concepts) once again to publish the 2026 ...",
+     "source_info_link": "https://jhs.lsc.k12.in.us/alumni",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAAA8AAAAQCAYAAADJViUEAAACI0lEQVR4AX2TQ3hlQRSE73awHNu2bdu2jdXYthnbNp9j27btpPJV7EW7_zrqFjbe2tZlA7AawAG2uLSSIV3d6RJ09Un3TPTRrc0PUgKbXGQXn5ZXc7tH2D0WJ5J9DcKz3J8gy-UUchy2IkbxB95BiYhMKkVBKRCZVjOhE0zl5FBbZEluoER2BKnyFwjy84XMKxrvdQKw-poh9j2whZNnWl1zGC1wguLrs2Yw2N0USSkZuPhBWk3ATJIIzsce0cL62xbgnAItcLbj_vsEo_3t2UDXw8IieRlTT-lB077Rg4nHNLgGBYT0Qsz2joN6htcfP8ZHsNmD0pxoWuVlihBmw_ADagwDguPSdfsVfw1QWwcww0wUQVplghIyypksCjBmzpsFGmHR_Y-ME81gerSMlyjY0ppFNh59DWa_746_jbDttLkI0TYGsx2qcEdWVDLyCytbQELWzn7oP-s89p17D4byxzSgEbZfsBq2p27CVxYMinAtNZEQoggvt4As3VcVR7C0guiX4X7x1fugdQrEeIeBYVCAQqzr7M13ceDqLxDkvM_EY-6sUMMbDjSwiXecvyKbgPn2Y6Dr_l9-UAAibQf80RCB4NJdDzFmwXlMWXHVqN0jcbn15Bk9IEwowl4KesA9hiOMPw66zoQZuMb37vS2WfOgfyrOdJ8iIhtZi6sj55_HzDU3cfme2rtufxW_oDi4AMwm46SrTNSUlde3srX9GPVHdlY-Vj8zAwAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESWAHrOzAVsgCFx_PXMNjrEJjTHu-khut6xOtpRHc_piuALria-CiZqxfL9d8myALMaYdcDP4O3_Don_dqh67ceOzf9sG784zy_dCvI2617h4XHC4XWyA2oOU&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESWAHrOzAVsgCFx_PXMNjrEJjTHu-khut6xOtpRHc_piuALria-CiZqxfL9d8myALMaYdcDP4O3_Don_dqh67ceOzf9sG784zy_dCvI2617h4XHC4XWyA2oOU",
+   "source": "Lafayette School Corporation",
+   "read_more_link": "https://jhs.lsc.k12.in.us/alumni#:~:text=FAQ"
+  },
+  {
+   "position": 8,
+   "title": "LAFAYETTE-JEFFERSON HIGH SCHOOL BRONCHOS",
+   "link": "https://sideline.bsnsports.com/schools/indiana/lafayette/lafayette-jefferson-high-school",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkAEB6zswFYIVhAnznvLGVPEPMJr40ydU-n7kejBYkbwPyAhRYO4HhxZloqfsd4Jb0mjVJqYREpiixecQeVTYrzx3lwm0xFmSUI2yXEdl9R_2QxpzsFpAJKmVVh717Sb0KNf-l9seDfe8gTXEctJj6QECIC1QuKQzGbpq3qnZjmG7JbRsnIjo2de0CVA4tsmHZ9A&ved=2ahUKEwj60eel6eSWAxWmkK8BHZ1SDkYQFnoECF0QAQ&uoh=1",
+   "displayed_link": "https://sideline.bsnsports.com \u203a ... \u203a Indiana \u203a Lafayette",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAflBMVEVHcEz86evwjJj71dz0p7LqUmbueYrkIz7tb4D__f_lK0XjFzXpU2bxjZzjDjDjFTToSV371dzmPVPjEjLmNEzueYnkHjvmO1LkKEHpU2fmL0j0oK3____ufYznQVbwg5LsbX3sZ3rpS2PveYr4xs3sZ3n0qLPjEjD82N_4wsyNjwmhAAAAKnRSTlMABnUSPsWV-HQL8f-YYP__xCTH_-NK-3DYqekwAmjWO1-CJyAYnlX_MUbtqhQ-AAABBUlEQVR4AXWSVwKDIBBEwS5LWBVi78Z2_wumd5jft32HfItaNjHKcR0z9PzAyEIG3Fj3IDCKDSxOJKqjKdFHTDM9ozkCyCLUJ5ZXGFUaVNtFCgCGpkeFV8gaqunI4SrR6m7UtfJWtdeNGqQIgP5ANXC8JiJwUmtm7W_T3I5Hp5_7nlwJINWVhU00H-knXHy8sMN1MF5KULz7OJS7AkJACW0SQIArnp5sA8CU22Qr2JWhZO6BPuEsQFyGWRQg4ipKz3nPtDOEqIpdKRFSNe_kUxxQNU2L0i-TYKs_UV3lmBZFKlgyOL83oIOPacla3sf_54kjKVjRVFoLZMy1RrsmOtnLYvDqGWOIEkEmy-lRAAAAAElFTkSuQmCC.png",
+   "snippet": "Shop the official Lafayette-jefferson High School store for premium Jeff Bronchos apparel and spirit wear in Lafayette, Indiana. Find officially licensed ...",
+   "snippet_highlighted_words": [
+    "Lafayette-jefferson High School",
+    "Indiana"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Shop the official Lafayette-jefferson High School store for premium Jeff Bronchos apparel and spirit wear in Lafayette, Indiana. Find officially licensed ...",
+     "source_info_link": "https://sideline.bsnsports.com/schools/indiana/lafayette/lafayette-jefferson-high-school",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAflBMVEVHcEz86evwjJj71dz0p7LqUmbueYrkIz7tb4D__f_lK0XjFzXpU2bxjZzjDjDjFTToSV371dzmPVPjEjLmNEzueYnkHjvmO1LkKEHpU2fmL0j0oK3____ufYznQVbwg5LsbX3sZ3rpS2PveYr4xs3sZ3n0qLPjEjD82N_4wsyNjwmhAAAAKnRSTlMABnUSPsWV-HQL8f-YYP__xCTH_-NK-3DYqekwAmjWO1-CJyAYnlX_MUbtqhQ-AAABBUlEQVR4AXWSVwKDIBBEwS5LWBVi78Z2_wumd5jft32HfItaNjHKcR0z9PzAyEIG3Fj3IDCKDSxOJKqjKdFHTDM9ozkCyCLUJ5ZXGFUaVNtFCgCGpkeFV8gaqunI4SrR6m7UtfJWtdeNGqQIgP5ANXC8JiJwUmtm7W_T3I5Hp5_7nlwJINWVhU00H-knXHy8sMN1MF5KULz7OJS7AkJACW0SQIArnp5sA8CU22Qr2JWhZO6BPuEsQFyGWRQg4ipKz3nPtDOEqIpdKRFSNe_kUxxQNU2L0i-TYKs_UV3lmBZFKlgyOL83oIOPacla3sf_54kjKVjRVFoLZMy1RrsmOtnLYvDqGWOIEkEmy-lRAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESkAEB6zswFYIVhAnznvLGVPEPMJr40ydU-n7kejBYkbwPyAhRYO4HhxZloqfsd4Jb0mjVJqYREpiixecQeVTYrzx3lwm0xFmSUI2yXEdl9R_2QxpzsFpAJKmVVh717Sb0KNf-l9seDfe8gTXEctJj6QECIC1QuKQzGbpq3qnZjmG7JbRsnIjo2de0CVA4tsmHZ9A&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESkAEB6zswFYIVhAnznvLGVPEPMJr40ydU-n7kejBYkbwPyAhRYO4HhxZloqfsd4Jb0mjVJqYREpiixecQeVTYrzx3lwm0xFmSUI2yXEdl9R_2QxpzsFpAJKmVVh717Sb0KNf-l9seDfe8gTXEctJj6QECIC1QuKQzGbpq3qnZjmG7JbRsnIjo2de0CVA4tsmHZ9A",
+   "source": "BSN Sports",
+   "read_more_link": "https://sideline.bsnsports.com/schools/indiana/lafayette/lafayette-jefferson-high-school#:~:text=Shop%20the%20official%20Lafayette%2Djefferson%20High,Lafayette%2C%20Indiana.%20Find%20officially%20licensed"
+  },
+  {
+   "position": 9,
+   "title": "Tickets - Lafayette Jefferson High School",
+   "link": "https://sites.eventlink.com/s/lafayette-jefferson-high-school/Tickets/Passes",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShAEB6zswFSRM-f2d00U-5LN5LPiWbjrJYdDjwKC57bt1vTr4v1OJywlEC7K-jz4IJ2A4X6i5w8WVtO1o_rVVfpYI2MRb5NmVkO98gxu6g7zbgXLNYkMhOltuhAGeEn1LeeefYYHsdxKJ3tbdvgqjwzdGXE_dE1DfT0p-RmV9wLmXaEjh5ew&ved=2ahUKEwj60eel6eSWAxWmkK8BHZ1SDkYQFnoECF4QAQ&uoh=1",
+   "displayed_link": "https://sites.eventlink.com \u203a Tickets \u203a Passes",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAe1BMVEVHcEzn-ra35GOj3DWc2Suh2zKw4VLb8qSc2SaS1QSX2Bam3jzC6nLW9JWa2R7J7n2b2SprXndST1NSSlj49ulXVVcjHyAdGRo7OTnd56peW1xDQEFeXV0-OzwuKywrKCkuKywrKSlqZ2jE6mCIcp6b2Srp96yl3D2r30d98XwuAAAAKXRSTlMAE1ujyrVwG-v_-ns5JvQw1idgQgOL__--CEyifNvy6PnqCgkX4QqSir2-a9YAAACgSURBVHgB3dDVAcIwFAXQW288lAjutv-CeL0dAM5f5Cn-UhBGcZJmGBLm5IWyoTdCIh4IJkmEHqU5JsUUgSYhegys8242F0TP68svLNyTXyIhysxfgNW6tHEvW8OIzN9i2N3Xxr3tn49Uvmng8IWiSsvN8cWgYem8X58EOV_QoWKOqS1MoEk6tISrmmepJAn6QknebhiSpYmObwJjDH7YAwipDkK5XUFqAAAAAElFTkSuQmCC.png",
+   "snippet": "Lafayette Jefferson High School. Home of the Bronchos. Home; Tickets & Passes. Purchase Season Passes. Resend purchased Ticket/Pass. Tickets Season Passes.",
+   "snippet_highlighted_words": [
+    "Lafayette Jefferson High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Lafayette Jefferson High School. Home of the Bronchos. Home; Tickets & Passes. Purchase Season Passes. Resend purchased Ticket/Pass. Tickets Season Passes.",
+     "source_info_link": "https://sites.eventlink.com/s/lafayette-jefferson-high-school/Tickets/Passes",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAe1BMVEVHcEzn-ra35GOj3DWc2Suh2zKw4VLb8qSc2SaS1QSX2Bam3jzC6nLW9JWa2R7J7n2b2SprXndST1NSSlj49ulXVVcjHyAdGRo7OTnd56peW1xDQEFeXV0-OzwuKywrKCkuKywrKSlqZ2jE6mCIcp6b2Srp96yl3D2r30d98XwuAAAAKXRSTlMAE1ujyrVwG-v_-ns5JvQw1idgQgOL__--CEyifNvy6PnqCgkX4QqSir2-a9YAAACgSURBVHgB3dDVAcIwFAXQW288lAjutv-CeL0dAM5f5Cn-UhBGcZJmGBLm5IWyoTdCIh4IJkmEHqU5JsUUgSYhegys8242F0TP68svLNyTXyIhysxfgNW6tHEvW8OIzN9i2N3Xxr3tn49Uvmng8IWiSsvN8cWgYem8X58EOV_QoWKOqS1MoEk6tISrmmepJAn6QknebhiSpYmObwJjDH7YAwipDkK5XUFqAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEShAEB6zswFSRM-f2d00U-5LN5LPiWbjrJYdDjwKC57bt1vTr4v1OJywlEC7K-jz4IJ2A4X6i5w8WVtO1o_rVVfpYI2MRb5NmVkO98gxu6g7zbgXLNYkMhOltuhAGeEn1LeeefYYHsdxKJ3tbdvgqjwzdGXE_dE1DfT0p-RmV9wLmXaEjh5ew&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEShAEB6zswFSRM-f2d00U-5LN5LPiWbjrJYdDjwKC57bt1vTr4v1OJywlEC7K-jz4IJ2A4X6i5w8WVtO1o_rVVfpYI2MRb5NmVkO98gxu6g7zbgXLNYkMhOltuhAGeEn1LeeefYYHsdxKJ3tbdvgqjwzdGXE_dE1DfT0p-RmV9wLmXaEjh5ew",
+   "source": "Eventlink",
+   "read_more_link": "https://sites.eventlink.com/s/lafayette-jefferson-high-school/Tickets/Passes#:~:text=Lafayette%20Jefferson%20High%20School,Season%20Passes"
+  },
+  {
+   "position": 10,
+   "title": "Lafayette Jefferson Bands - Map & Directions",
+   "link": "https://sites.google.com/view/jeffbands/map-directions",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sites.google.com/view/jeffbands/map-directions&ved=2ahUKEwj60eel6eSWAxWmkK8BHZ1SDkYQFnoECGEQAQ",
+   "displayed_link": "https://sites.google.com \u203a view \u203a jeffbands \u203a map-direct...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAJ1BMVEVHcExHWLZHWLZHWLZHWLU4TLH___8xR7DKzeb29_s-UbOjqtbs7faJiFd3AAAABHRSTlMATdbaerUhWgAAAGdJREFUKJHVkjsWwCAIBBeViJj7nzehMA1iPl2mnULGtwDlMiURQHNlEFIsM2JXyr3k6uAhWZpD-JKb45nULo6u4yBlh75PsbfClPOSukcpJluU8gO56Fz-0McNBZM20nrUoGDWmXAAVuAP7H7fmaAAAAAASUVORK5CYII.png",
+   "snippet": "Lafayette Jefferson High School, 1801 S. 18th Street, Lafayette, IN 47905. Scheumann Stadium is located on the Northeast side of the school off S. 22nd ...",
+   "snippet_highlighted_words": [
+    "Lafayette Jefferson High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Lafayette Jefferson High School, 1801 S. 18th Street, Lafayette, IN 47905. Scheumann Stadium is located on the Northeast side of the school off S. 22nd ...",
+     "source_info_link": "https://sites.google.com/view/jeffbands/map-directions",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAJ1BMVEVHcExHWLZHWLZHWLZHWLU4TLH___8xR7DKzeb29_s-UbOjqtbs7faJiFd3AAAABHRSTlMATdbaerUhWgAAAGdJREFUKJHVkjsWwCAIBBeViJj7nzehMA1iPl2mnULGtwDlMiURQHNlEFIsM2JXyr3k6uAhWZpD-JKb45nULo6u4yBlh75PsbfClPOSukcpJluU8gO56Fz-0McNBZM20nrUoGDWmXAAVuAP7H7fmaAAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://sites.google.com/view/jeffbands/map-directions&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fsites.google.com%2Fview%2Fjeffbands%2Fmap-directions",
+   "source": "Google",
+   "read_more_link": "https://sites.google.com/view/jeffbands/map-directions#:~:text=Lafayette%20Jefferson%20High%20School%2C%201801,school%20off%20S.%2022nd%20Street."
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Lafayette jefferson high school indiana football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Lafayette+jefferson+high+school+indiana+football&sa=X&ved=2ahUKEwj60eel6eSWAxWmkK8BHZ1SDkYQ1QJ6BAhgEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Lafayette+jefferson+high+school+indiana+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Lafayette jefferson high school indiana yearbook",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Lafayette+jefferson+high+school+indiana+yearbook&sa=X&ved=2ahUKEwj60eel6eSWAxWmkK8BHZ1SDkYQ1QJ6BQiAARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Lafayette+jefferson+high+school+indiana+yearbook"
+  },
+  {
+   "block_position": 1,
+   "query": "Lafayette jefferson high school indiana ranking",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Lafayette+jefferson+high+school+indiana+ranking&sa=X&ved=2ahUKEwj60eel6eSWAxWmkK8BHZ1SDkYQ1QJ6BAh5EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Lafayette+jefferson+high+school+indiana+ranking"
+  },
+  {
+   "block_position": 1,
+   "query": "Lafayette jefferson high school indiana famous alumni",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Lafayette+jefferson+high+school+indiana+famous+alumni&sa=X&ved=2ahUKEwj60eel6eSWAxWmkK8BHZ1SDkYQ1QJ6BAh2EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Lafayette+jefferson+high+school+indiana+famous+alumni"
+  },
+  {
+   "block_position": 1,
+   "query": "Lafayette Jefferson High School Football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Lafayette+Jefferson+High+School+Football&sa=X&ved=2ahUKEwj60eel6eSWAxWmkK8BHZ1SDkYQ1QJ6BAhuEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Lafayette+Jefferson+High+School+Football"
+  },
+  {
+   "block_position": 1,
+   "query": "Lafayette jefferson high school indiana alumni",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Lafayette+jefferson+high+school+indiana+alumni&sa=X&ved=2ahUKEwj60eel6eSWAxWmkK8BHZ1SDkYQ1QJ6BAhqEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Lafayette+jefferson+high+school+indiana+alumni"
+  },
+  {
+   "block_position": 1,
+   "query": "Lafayette jefferson high school indiana basketball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Lafayette+jefferson+high+school+indiana+basketball&sa=X&ved=2ahUKEwj60eel6eSWAxWmkK8BHZ1SDkYQ1QJ6BAhkEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Lafayette+jefferson+high+school+indiana+basketball"
+  },
+  {
+   "block_position": 1,
+   "query": "Lafayette jefferson high school indiana baseball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Lafayette+jefferson+high+school+indiana+baseball&sa=X&ved=2ahUKEwj60eel6eSWAxWmkK8BHZ1SDkYQ1QJ6BAhiEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Lafayette+jefferson+high+school+indiana+baseball"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Lafayette+Jefferson+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=Eg-javqAFqahvr0PnaW5sAQ&start=10&sa=N&sstk=AS6-VmIJovc0fFEprEYC-24nlRT2TE1UoktkZaSeVzxNXGaVcCyZezSXDNT9pznMJbF6zHuElfgBWlm7_qITpGSAjcfbCjseJGWnEg&ved=2ahUKEwj60eel6eSWAxWmkK8BHZ1SDkYQ8NMDegQITxAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Lafayette+Jefferson+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=Eg-javqAFqahvr0PnaW5sAQ&start=10&sa=N&sstk=AS6-VmIJovc0fFEprEYC-24nlRT2TE1UoktkZaSeVzxNXGaVcCyZezSXDNT9pznMJbF6zHuElfgBWlm7_qITpGSAjcfbCjseJGWnEg&ved=2ahUKEwj60eel6eSWAxWmkK8BHZ1SDkYQ8tMDegQITxAE",
+   "3": "https://www.google.com/search?q=%22Lafayette+Jefferson+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=Eg-javqAFqahvr0PnaW5sAQ&start=20&sa=N&sstk=AS6-VmIJovc0fFEprEYC-24nlRT2TE1UoktkZaSeVzxNXGaVcCyZezSXDNT9pznMJbF6zHuElfgBWlm7_qITpGSAjcfbCjseJGWnEg&ved=2ahUKEwj60eel6eSWAxWmkK8BHZ1SDkYQ8tMDegQITxAG",
+   "4": "https://www.google.com/search?q=%22Lafayette+Jefferson+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=Eg-javqAFqahvr0PnaW5sAQ&start=30&sa=N&sstk=AS6-VmIJovc0fFEprEYC-24nlRT2TE1UoktkZaSeVzxNXGaVcCyZezSXDNT9pznMJbF6zHuElfgBWlm7_qITpGSAjcfbCjseJGWnEg&ved=2ahUKEwj60eel6eSWAxWmkK8BHZ1SDkYQ8tMDegQITxAI",
+   "5": "https://www.google.com/search?q=%22Lafayette+Jefferson+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=Eg-javqAFqahvr0PnaW5sAQ&start=40&sa=N&sstk=AS6-VmIJovc0fFEprEYC-24nlRT2TE1UoktkZaSeVzxNXGaVcCyZezSXDNT9pznMJbF6zHuElfgBWlm7_qITpGSAjcfbCjseJGWnEg&ved=2ahUKEwj60eel6eSWAxWmkK8BHZ1SDkYQ8tMDegQITxAK",
+   "6": "https://www.google.com/search?q=%22Lafayette+Jefferson+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=Eg-javqAFqahvr0PnaW5sAQ&start=50&sa=N&sstk=AS6-VmIJovc0fFEprEYC-24nlRT2TE1UoktkZaSeVzxNXGaVcCyZezSXDNT9pznMJbF6zHuElfgBWlm7_qITpGSAjcfbCjseJGWnEg&ved=2ahUKEwj60eel6eSWAxWmkK8BHZ1SDkYQ8tMDegQITxAM",
+   "7": "https://www.google.com/search?q=%22Lafayette+Jefferson+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=Eg-javqAFqahvr0PnaW5sAQ&start=60&sa=N&sstk=AS6-VmIJovc0fFEprEYC-24nlRT2TE1UoktkZaSeVzxNXGaVcCyZezSXDNT9pznMJbF6zHuElfgBWlm7_qITpGSAjcfbCjseJGWnEg&ved=2ahUKEwj60eel6eSWAxWmkK8BHZ1SDkYQ8tMDegQITxAO",
+   "8": "https://www.google.com/search?q=%22Lafayette+Jefferson+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=Eg-javqAFqahvr0PnaW5sAQ&start=70&sa=N&sstk=AS6-VmIJovc0fFEprEYC-24nlRT2TE1UoktkZaSeVzxNXGaVcCyZezSXDNT9pznMJbF6zHuElfgBWlm7_qITpGSAjcfbCjseJGWnEg&ved=2ahUKEwj60eel6eSWAxWmkK8BHZ1SDkYQ8tMDegQITxAQ",
+   "9": "https://www.google.com/search?q=%22Lafayette+Jefferson+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=Eg-javqAFqahvr0PnaW5sAQ&start=80&sa=N&sstk=AS6-VmIJovc0fFEprEYC-24nlRT2TE1UoktkZaSeVzxNXGaVcCyZezSXDNT9pznMJbF6zHuElfgBWlm7_qITpGSAjcfbCjseJGWnEg&ved=2ahUKEwj60eel6eSWAxWmkK8BHZ1SDkYQ8tMDegQITxAS",
+   "10": "https://www.google.com/search?q=%22Lafayette+Jefferson+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=Eg-javqAFqahvr0PnaW5sAQ&start=90&sa=N&sstk=AS6-VmIJovc0fFEprEYC-24nlRT2TE1UoktkZaSeVzxNXGaVcCyZezSXDNT9pznMJbF6zHuElfgBWlm7_qITpGSAjcfbCjseJGWnEg&ved=2ahUKEwj60eel6eSWAxWmkK8BHZ1SDkYQ8tMDegQITxAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Lafayette+Jefferson+High+School%22+Indiana&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Lafayette+Jefferson+High+School%22+Indiana&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Lafayette+Jefferson+High+School%22+Indiana&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Lafayette+Jefferson+High+School%22+Indiana&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Lafayette+Jefferson+High+School%22+Indiana&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Lafayette+Jefferson+High+School%22+Indiana&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Lafayette+Jefferson+High+School%22+Indiana&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Lafayette+Jefferson+High+School%22+Indiana&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Lafayette+Jefferson+High+School%22+Indiana&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Lafayette+Jefferson+High+School%22+Indiana&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Lafayette+Jefferson+High+School%22+Indiana&start=90"
+  }
+ }
+}

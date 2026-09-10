@@ -1,0 +1,373 @@
+{
+ "search_information": {
+  "query_displayed": "\"Porterville Panther Band\"",
+  "total_results": 1720,
+  "time_taken_displayed": 0.31,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Porterville Panther Band",
+  "type": "Band in Porterville, California",
+  "entity_type": "local_nav",
+  "kgmid": "/g/11c5_39z87",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/g/11c5_39z87&hl=en-US&q=Porterville+Panther+Band",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fg%2F11c5_39z87&q=Porterville+Panther+Band",
+  "place_id": "ChIJn8cXA2m46oARz7QPO4EC6HM",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa3113080f30e00ba62852f/images/YrEBjYK4j_Oy5vbGDkzkLo9xl7oC4-7MQd79Q7NKRvs.webp",
+   "link": "https://www.google.com/maps/place/Porterville+Panther+Band/data=!4m2!3m1!1s0x0:0x73e802813b0fb4cf?sa=X&ved=2ahUKEwjL9aSq6-SWAxU3S_EDHd43DAUQ_BJ6BAgpEAA&hl=en&gl=us"
+  },
+  "rating": 5.0,
+  "review_count": 7,
+  "located_in": "Porterville High School",
+  "located_in_links": [
+   {
+    "text": "Porterville High School",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuCbUanBNkkP5x3AzEz7tk03vk4Zw:1789071668631&q=Porterville+High+School&ludocid=16249624508746657139&lsig=AB86z5VaSGLxLQM5FGmjTPDFVkSZ&sa=X&ved=2ahUKEwjL9aSq6-SWAxU3S_EDHd43DAUQ8G0oAHoECCwQAQ"
+   }
+  ],
+  "address": "S Jaye St, Porterville, CA 93257",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuCbUanBNkkP5x3AzEz7tk03vk4Zw:1789071668631&q=porterville+panther+band+address&ludocid=8351928263023506639&sa=X&ved=2ahUKEwjL9aSq6-SWAxU3S_EDHd43DAUQ6BN6BAgrEAI"
+   }
+  ],
+  "unclaimed_listing": true,
+  "permanently_closed": true,
+  "profiles": [
+   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/portervillepantherband/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Porterville+Panther+Band%22",
+    "image": "https://ssl.gstatic.com/kpui/social/instagram_32x32.png"
+   }
+  ]
+ },
+ "inline_videos": [
+  {
+   "position": 1,
+   "title": "Panther Band Porterville High School - Hollywood Christmas ...",
+   "link": "https://www.youtube.com/watch?v=I_codEuPTOQ",
+   "thumbnail": "https://serpapi.com/searches/6aa3113080f30e00ba62852f/images/p2PSFRNCHi9ESclU9PC0-Cm24gXQOZwzXRvPXr-c2ns.jpeg",
+   "channel": "Los Villalobos Channel",
+   "duration": "1:27",
+   "platform": "YouTube",
+   "date": "Dec 2, 2019"
+  },
+  {
+   "position": 2,
+   "title": "Porterville Panther Band Performance possibly CMEA - 2-27- ...",
+   "link": "https://www.youtube.com/watch?v=9o9HTMwa3EA",
+   "thumbnail": "https://serpapi.com/searches/6aa3113080f30e00ba62852f/images/phZwmdnNPztflcNb2UBM5RUESAZWfIQKl-fvFNxtZ1E.jpeg",
+   "channel": "RosannaFromTexarkana",
+   "duration": "4:15",
+   "platform": "YouTube",
+   "date": "Jan 28, 2026"
+  },
+  {
+   "position": 3,
+   "title": "Porterville High School Panther Marching Band Field Show 11- ...",
+   "link": "https://www.youtube.com/watch?v=1ucaGb6b4j0",
+   "thumbnail": "https://serpapi.com/searches/6aa3113080f30e00ba62852f/images/UtYVT3bLDz7E-yfEcsrmDNtTw-YU7Mixdra0Gb9EMeU.jpeg",
+   "channel": "RosannaFromTexarkana",
+   "duration": "3:02",
+   "platform": "YouTube",
+   "date": "Dec 26, 2024",
+   "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSTLEhRceMfETxcgzwVBtLinzMulHxoGvZd2g"
+  }
+ ],
+ "related_questions": [
+  {
+   "question": "What are the top 3 high school marching bands in the US?",
+   "type": "ai_overview",
+   "page_token": "EmOgyXicHdBfbtowHABg7TJ9LHbDMoGEprr5VzpgcewfOC-VYwMmdoJLI9LkrTfoIXqqnmZTT_BJ3_unO7X268eH6Tr_Op9M-r6_PZ7PR7e_VedmIl-HVk2UdK6Sys7DXyH-fVCL-CrIw0WRnHsPEUUFXpINc1xzHYJbG5ompxKZK7duJwr8d8NnCcei5xZywDNXbU1Y1ckOGocoMkI2kMg79aZiNC1H96fa8pFn9MqBXMSoG7ajlLW6Lm0CsiUps31fIMNlayKBkg6yZZQHfspqeNRbz_KGMh0lLzmKxwq8Y-3jm2pVz0Yd7DP_BJkfGHYPq7RELO4SXt8Pe26wxHmwanBIwTMIAFPr74SbyaoWQ-nuh3Vm6tiUm9zqF7FbYxb7oQQ9FaPJVwHvNOpIeloSmq2HzbbkivEp2J85c-VYZIRR59P_juMOnoqIcEgNuTmo6yK4-Z5ePB-abu4v5-M_DAaNPw",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=EmOgyXicHdBfbtowHABg7TJ9LHbDMoGEprr5VzpgcewfOC-VYwMmdoJLI9LkrTfoIXqqnmZTT_BJ3_unO7X268eH6Tr_Op9M-r6_PZ7PR7e_VedmIl-HVk2UdK6Sys7DXyH-fVCL-CrIw0WRnHsPEUUFXpINc1xzHYJbG5ompxKZK7duJwr8d8NnCcei5xZywDNXbU1Y1ckOGocoMkI2kMg79aZiNC1H96fa8pFn9MqBXMSoG7ajlLW6Lm0CsiUps31fIMNlayKBkg6yZZQHfspqeNRbz_KGMh0lLzmKxwq8Y-3jm2pVz0Yd7DP_BJkfGHYPq7RELO4SXt8Pe26wxHmwanBIwTMIAFPr74SbyaoWQ-nuh3Vm6tiUm9zqF7FbYxb7oQQ9FaPJVwHvNOpIeloSmq2HzbbkivEp2J85c-VYZIRR59P_juMOnoqIcEgNuTmo6yK4-Z5ePB-abu4v5-M_DAaNPw",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmRUSkhXamxaY1ZwYVlrczVZbEZWTVc0NGVtdFdNR0ZXWkhZMVNYUlhaR0pSUm1oRWFWRkNUSFY0UTB4Q1ZWZGZjRGRuWkRkMVJrSnlTRmhhU1Y5dWJGZ3lSMHQ2TTJkcWMxUXlibWMwZURsYVYybGtNSEprVUhsZmR4SVdUa0pIYW1GemRVeEtjbVZYZUdNNFVETjFMWGRMUVJvaVFVUnpjamxtVkROdlMyTktZa2RUVEZoZmJ6QkpVazFPVmpGSFRGaFpSbU16ZHciLCJmY3YiOiIzIiwiZWkiOiJOQkdqYXN1TEpyZVd4YzhQM3Utd0tBIiwicWMiOiJDaGh3YjNKMFpYSjJhV3hzWlNCd1lXNTBhR1Z5SUdKaGJtUVFBSDJvWEE0XyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHRvcCAzIGhpZ2ggc2Nob29sIG1hcmNoaW5nIGJhbmRzIGluIHRoZSBVUz8iLCJsayI6ImM1TXlMODlJTEZGSUxFcFZLTWtBNHZ3Q0JXT0ZqTXowRElYaTVJejhfQnlGM01TaTVJek12SFNGcE1TOGxHS0Z6RHl3dXRKaUFBIiwiYnMiOiJjNTJQTVF2Q01CQ0ZjYzNrM09ta3F5SzJnem9WY1JBVVJCRHBmRTJqZHhBVFNWb0ZSMy01TllpNlNNVWhrT0Y3NzNzbmFqSEpDU3RBcDZDaTV0a1RwRUI4SVBDU3JOVndSQ2VKelFFS05LVUhOb0hiYmJOa0dvMHZfMlJyTDVZaURscjJzTEd1VXU3TVdxcy16R2V3eDZPdFBleXR5NUk0NmwyZTJPbU5nY1FQU2x6RklpZVcxR0tlby1ZR040eGhzTFRHYzZtY0tzT21RdmtxUzRiUjRQRnBhWkt2Sm5IcmlGV3JfSXZ1VWJWdXJxSm1tck9hRFdaSkdvMS1HR0JDU2o1VDNjNGQiLCJpZCI6ImZjX05CR2phc3VMSnJlV3hjOFAzdS13S0FfOCJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmRUSkhXamxaY1ZwYVlrczVZbEZWTVc0NGVtdFdNR0ZXWkhZMVNYUlhaR0pSUm1oRWFWRkNUSFY0UTB4Q1ZWZGZjRGRuWkRkMVJrSnlTRmhhU1Y5dWJGZ3lSMHQ2TTJkcWMxUXlibWMwZURsYVYybGtNSEprVUhsZmR4SVdUa0pIYW1GemRVeEtjbVZYZUdNNFVETjFMWGRMUVJvaVFVUnpjamxtVkROdlMyTktZa2RUVEZoZmJ6QkpVazFPVmpGSFRGaFpSbU16ZHciLCJmY3YiOiIzIiwiZWkiOiJOQkdqYXN1TEpyZVd4YzhQM3Utd0tBIiwicWMiOiJDaGh3YjNKMFpYSjJhV3hzWlNCd1lXNTBhR1Z5SUdKaGJtUVFBSDJvWEE0XyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHRvcCAzIGhpZ2ggc2Nob29sIG1hcmNoaW5nIGJhbmRzIGluIHRoZSBVUz8iLCJsayI6ImM1TXlMODlJTEZGSUxFcFZLTWtBNHZ3Q0JXT0ZqTXowRElYaTVJejhfQnlGM01TaTVJek12SFNGcE1TOGxHS0Z6RHl3dXRKaUFBIiwiYnMiOiJjNTJQTVF2Q01CQ0ZjYzNrM09ta3F5SzJnem9WY1JBVVJCRHBmRTJqZHhBVFNWb0ZSMy01TllpNlNNVWhrT0Y3NzNzbmFqSEpDU3RBcDZDaTV0a1RwRUI4SVBDU3JOVndSQ2VKelFFS05LVUhOb0hiYmJOa0dvMHZfMlJyTDVZaURscjJzTEd1VXU3TVdxcy16R2V3eDZPdFBleXR5NUk0NmwyZTJPbU5nY1FQU2x6RklpZVcxR0tlby1ZR040eGhzTFRHYzZtY0tzT21RdmtxUzRiUjRQRnBhWkt2Sm5IcmlGV3JfSXZ1VWJWdXJxSm1tck9hRFdaSkdvMS1HR0JDU2o1VDNjNGQiLCJpZCI6ImZjX05CR2phc3VMSnJlV3hjOFAzdS13S0FfOCJ9"
+  },
+  {
+   "question": "What is Porterville, CA famous for?",
+   "type": "ai_overview",
+   "page_token": "S2JFP3icHdBRbpswGABg7TJ9bOxmZGqkaBoD02XDFjb-wX6Zgp3EAUNI45TQt91lp9ppNu0A38v367c_Dd2fD8GFMF7Xi8U0TY_H8_no94_m3C9213kwC7PzvtmZbr36tMKfD2aT3tL46-VbXMhxhIQj0WowLX3jwHklsNq_2Jal-qJLSyQav9cY7j8qglTFV7bMEUtybOEfr1zMwLNdRynMaJK9jssOtzZ7liY5YkFIkkuY86S4c0yo7l3W4C-z6aOIp9FNYc_KngRWUy8yKKy3Nz7YQwmOwlMomnarRHe_qYrmsrbRfrDX-l0uBRRILHWmQCJIi8l2jotKPTU1fWVE89RpVnT2omqKy3ScNdiP6t0V-VIGi0KcnbYxf6Ezq7RoUGiphxMMRGlMtqp3d4EivG_dKNsOMfI8PBzM22b58H9z8_PQh_X4ej7-BaZ7gh4",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=S2JFP3icHdBRbpswGABg7TJ9bOxmZGqkaBoD02XDFjb-wX6Zgp3EAUNI45TQt91lp9ppNu0A38v367c_Dd2fD8GFMF7Xi8U0TY_H8_no94_m3C9213kwC7PzvtmZbr36tMKfD2aT3tL46-VbXMhxhIQj0WowLX3jwHklsNq_2Jal-qJLSyQav9cY7j8qglTFV7bMEUtybOEfr1zMwLNdRynMaJK9jssOtzZ7liY5YkFIkkuY86S4c0yo7l3W4C-z6aOIp9FNYc_KngRWUy8yKKy3Nz7YQwmOwlMomnarRHe_qYrmsrbRfrDX-l0uBRRILHWmQCJIi8l2jotKPTU1fWVE89RpVnT2omqKy3ScNdiP6t0V-VIGi0KcnbYxf6Ezq7RoUGiphxMMRGlMtqp3d4EivG_dKNsOMfI8PBzM22b58H9z8_PQh_X4ej7-BaZ7gh4",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmRUSkhXamxaY1ZwYVlrczVZbEZWTVc0NGVtdFdNR0ZXWkhZMVNYUlhaR0pSUm1oRWFWRkNUSFY0UTB4Q1ZWZGZjRGRuWkRkMVJrSnlTRmhhU1Y5dWJGZ3lSMHQ2TTJkcWMxUXlibWMwZURsYVYybGtNSEprVUhsZmR4SVdUa0pIYW1GemRVeEtjbVZYZUdNNFVETjFMWGRMUVJvaVFVUnpjamxtVkROdlMyTktZa2RUVEZoZmJ6QkpVazFPVmpGSFRGaFpSbU16ZHciLCJmY3YiOiIzIiwiZWkiOiJOQkdqYXN1TEpyZVd4YzhQM3Utd0tBIiwicWMiOiJDaGh3YjNKMFpYSjJhV3hzWlNCd1lXNTBhR1Z5SUdKaGJtUVFBSDJvWEE0XyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBQb3J0ZXJ2aWxsZSwgQ0EgZmFtb3VzIGZvcj8iLCJsayI6IkdpRjNhR0YwSUdseklIQnZjblJsY25acGJHeGxJR05oSUdaaGJXOTFjeUJtYjNJIiwiYnMiOiJjNTJQTVF2Q01CQ0ZjYzNrM09ta3F5SzJnem9WY1JBVVJCRHBmRTJqZHhBVFNWb0ZSMy01TllpNlNNVWhrT0Y3NzNzbmFqSEpDU3RBcDZDaTV0a1RwRUI4SVBDU3JOVndSQ2VKelFFS05LVUhOb0hiYmJOa0dvMHZfMlJyTDVZaURscjJzTEd1VXU3TVdxcy16R2V3eDZPdFBleXR5NUk0NmwyZTJPbU5nY1FQU2x6RklpZVcxR0tlby1ZR040eGhzTFRHYzZtY0tzT21RdmtxUzRiUjRQRnBhWkt2Sm5IcmlGV3JfSXZ1VWJWdXJxSm1tck9hRFdaSkdvMS1HR0JDU2o1VDNjNGQiLCJpZCI6ImZjX05CR2phc3VMSnJlV3hjOFAzdS13S0FfOCJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmRUSkhXamxaY1ZwYVlrczVZbEZWTVc0NGVtdFdNR0ZXWkhZMVNYUlhaR0pSUm1oRWFWRkNUSFY0UTB4Q1ZWZGZjRGRuWkRkMVJrSnlTRmhhU1Y5dWJGZ3lSMHQ2TTJkcWMxUXlibWMwZURsYVYybGtNSEprVUhsZmR4SVdUa0pIYW1GemRVeEtjbVZYZUdNNFVETjFMWGRMUVJvaVFVUnpjamxtVkROdlMyTktZa2RUVEZoZmJ6QkpVazFPVmpGSFRGaFpSbU16ZHciLCJmY3YiOiIzIiwiZWkiOiJOQkdqYXN1TEpyZVd4YzhQM3Utd0tBIiwicWMiOiJDaGh3YjNKMFpYSjJhV3hzWlNCd1lXNTBhR1Z5SUdKaGJtUVFBSDJvWEE0XyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBQb3J0ZXJ2aWxsZSwgQ0EgZmFtb3VzIGZvcj8iLCJsayI6IkdpRjNhR0YwSUdseklIQnZjblJsY25acGJHeGxJR05oSUdaaGJXOTFjeUJtYjNJIiwiYnMiOiJjNTJQTVF2Q01CQ0ZjYzNrM09ta3F5SzJnem9WY1JBVVJCRHBmRTJqZHhBVFNWb0ZSMy01TllpNlNNVWhrT0Y3NzNzbmFqSEpDU3RBcDZDaTV0a1RwRUI4SVBDU3JOVndSQ2VKelFFS05LVUhOb0hiYmJOa0dvMHZfMlJyTDVZaURscjJzTEd1VXU3TVdxcy16R2V3eDZPdFBleXR5NUk0NmwyZTJPbU5nY1FQU2x6RklpZVcxR0tlby1ZR040eGhzTFRHYzZtY0tzT21RdmtxUzRiUjRQRnBhWkt2Sm5IcmlGV3JfSXZ1VWJWdXJxSm1tck9hRFdaSkdvMS1HR0JDU2o1VDNjNGQiLCJpZCI6ImZjX05CR2phc3VMSnJlV3hjOFAzdS13S0FfOCJ9"
+  },
+  {
+   "question": "Which high school marching bands in California are considered the best?",
+   "type": "ai_overview",
+   "page_token": "-h4jYXicHdFNbqMwAEBh9TJdNv4JbRMpGikJJGNhIxxswJsRsQmkGHAbWgq73mWWc6I5zVSzft_uff221675e_enHgZ3Wy8W4zg-VH1f2fJB9-2iuE2dXujC2nOhm_Xj0yP8cdEbv7_tdrdxGwvn5J6DU2b2Zeoik2lUHhmJjq7QllvZklnbeElBPzApoQEKlakkeRJ7GtSWJSTi_sBOWDVFVl9z9FlrufrMsF2yxO7Ko_VMC9B3Z9JfZQy5jh_ApIXdhZK_Kss-5CG4UABnAyqc-iQViIylqLsMUI_iYCwAzwQypGiCkDZ84FCitKMeEy4qOqPKjkCB1fY8VwOdGRaSSHFgfShX6IRIUwAyJQmBNFBv3346gWeoRIAVdPskjT1uf84J4Fa0FfZrFcWNec0zBhPfTUqaZT7XMcViMGDYHq5ky49silLFqa_sea7DMPWmUtoX_qKuLGFAIhfkcPWetgrfX_THBt__v7D5dWmHtXvrq3_RMZOQ",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=-h4jYXicHdFNbqMwAEBh9TJdNv4JbRMpGikJJGNhIxxswJsRsQmkGHAbWgq73mWWc6I5zVSzft_uff221675e_enHgZ3Wy8W4zg-VH1f2fJB9-2iuE2dXujC2nOhm_Xj0yP8cdEbv7_tdrdxGwvn5J6DU2b2Zeoik2lUHhmJjq7QllvZklnbeElBPzApoQEKlakkeRJ7GtSWJSTi_sBOWDVFVl9z9FlrufrMsF2yxO7Ko_VMC9B3Z9JfZQy5jh_ApIXdhZK_Kss-5CG4UABnAyqc-iQViIylqLsMUI_iYCwAzwQypGiCkDZ84FCitKMeEy4qOqPKjkCB1fY8VwOdGRaSSHFgfShX6IRIUwAyJQmBNFBv3346gWeoRIAVdPskjT1uf84J4Fa0FfZrFcWNec0zBhPfTUqaZT7XMcViMGDYHq5ky49silLFqa_sea7DMPWmUtoX_qKuLGFAIhfkcPWetgrfX_THBt__v7D5dWmHtXvrq3_RMZOQ",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmRUSkhXamxaY1ZwYVlrczVZbEZWTVc0NGVtdFdNR0ZXWkhZMVNYUlhaR0pSUm1oRWFWRkNUSFY0UTB4Q1ZWZGZjRGRuWkRkMVJrSnlTRmhhU1Y5dWJGZ3lSMHQ2TTJkcWMxUXlibWMwZURsYVYybGtNSEprVUhsZmR4SVdUa0pIYW1GemRVeEtjbVZYZUdNNFVETjFMWGRMUVJvaVFVUnpjamxtVkROdlMyTktZa2RUVEZoZmJ6QkpVazFPVmpGSFRGaFpSbU16ZHciLCJmY3YiOiIzIiwiZWkiOiJOQkdqYXN1TEpyZVd4YzhQM3Utd0tBIiwicWMiOiJDaGh3YjNKMFpYSjJhV3hzWlNCd1lXNTBhR1Z5SUdKaGJtUVFBSDJvWEE0XyIsInF1ZXN0aW9uIjoiV2hpY2ggaGlnaCBzY2hvb2wgbWFyY2hpbmcgYmFuZHMgaW4gQ2FsaWZvcm5pYSBhcmUgY29uc2lkZXJlZCB0aGUgYmVzdD8iLCJsayI6IkdpMWlaWE4wSUdocFoyZ2djMk5vYjI5c0lHMWhjbU5vYVc1bklHSmhibVJ6SUdsdUlHTmhiR2xtYjNKdWFXRSIsImJzIjoiYzUyUE1RdkNNQkNGY2MzazNPbWtxeUsyZ3pvVmNSQVVSQkRwZkUyamR4QVRTVm9GUjMtNU5ZaTZTTVVoa09GNzczc25hakhKQ1N0QXA2Q2k1dGtUcEVCOElQQ1NyTlZ3UkNlSnpRRUtOS1VITm9IYmJiTmtHbzB2XzJSckw1WWlEbHIyc0xHdVV1N01XcXMtekdld3g2T3RQZXl0eTVJNDZsMmUyT21OZ2NRUFNsekZJaWVXMUdLZW8tWUdONHhoc0xUR2M2bWNLc09tUXZrcVM0YlI0UEZwYVpLdkpuSHJpRldyX0l2dVViVnVycUptbXJPYURXWkpHbzEtR0dCQ1NqNVQzYzRkIiwiaWQiOiJmY19OQkdqYXN1TEpyZVd4YzhQM3Utd0tBXzgifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmRUSkhXamxaY1ZwYVlrczVZbEZWTVc0NGVtdFdNR0ZXWkhZMVNYUlhaR0pSUm1oRWFWRkNUSFY0UTB4Q1ZWZGZjRGRuWkRkMVJrSnlTRmhhU1Y5dWJGZ3lSMHQ2TTJkcWMxUXlibWMwZURsYVYybGtNSEprVUhsZmR4SVdUa0pIYW1GemRVeEtjbVZYZUdNNFVETjFMWGRMUVJvaVFVUnpjamxtVkROdlMyTktZa2RUVEZoZmJ6QkpVazFPVmpGSFRGaFpSbU16ZHciLCJmY3YiOiIzIiwiZWkiOiJOQkdqYXN1TEpyZVd4YzhQM3Utd0tBIiwicWMiOiJDaGh3YjNKMFpYSjJhV3hzWlNCd1lXNTBhR1Z5SUdKaGJtUVFBSDJvWEE0XyIsInF1ZXN0aW9uIjoiV2hpY2ggaGlnaCBzY2hvb2wgbWFyY2hpbmcgYmFuZHMgaW4gQ2FsaWZvcm5pYSBhcmUgY29uc2lkZXJlZCB0aGUgYmVzdD8iLCJsayI6IkdpMWlaWE4wSUdocFoyZ2djMk5vYjI5c0lHMWhjbU5vYVc1bklHSmhibVJ6SUdsdUlHTmhiR2xtYjNKdWFXRSIsImJzIjoiYzUyUE1RdkNNQkNGY2MzazNPbWtxeUsyZ3pvVmNSQVVSQkRwZkUyamR4QVRTVm9GUjMtNU5ZaTZTTVVoa09GNzczc25hakhKQ1N0QXA2Q2k1dGtUcEVCOElQQ1NyTlZ3UkNlSnpRRUtOS1VITm9IYmJiTmtHbzB2XzJSckw1WWlEbHIyc0xHdVV1N01XcXMtekdld3g2T3RQZXl0eTVJNDZsMmUyT21OZ2NRUFNsekZJaWVXMUdLZW8tWUdONHhoc0xUR2M2bWNLc09tUXZrcVM0YlI0UEZwYVpLdkpuSHJpRldyX0l2dVViVnVycUptbXJPYURXWkpHbzEtR0dCQ1NqNVQzYzRkIiwiaWQiOiJmY19OQkdqYXN1TEpyZVd4YzhQM3Utd0tBXzgifQ%3D%3D"
+  },
+  {
+   "question": "Which high school marching bands are considered the best in North Carolina?",
+   "type": "ai_overview",
+   "page_token": "FELHaHicHdFdbpswAABg7TJ9bMCErI0UTUsxEBacYmwDfpnAJnGK-clwE8Lb7tLHnmin2bQbfNL3-0Ofu-bPl09lzDCuF4vb7fZ46vuTrh9F3y7K8d6JhSi1rkrRrFdfV_a3o9jAfnx5GW_bhA4D87BFwtjKQr2VwCTYH3g166XM1RXRaVcSfhVe9E4AtOvAeHGrPdkNPQVRnoLnVc3wTHx1KSH-UQWyp55293kUJYT3eyJZkSNMW3SoO1ZI__lVkO9WFiCbUham0J5SPwJpCB1O_bCEKKos3HGojkmuHdSpnbjbexKYFvl4LKmJY__JVDNK6uZpSUP5jgKUsmxwSMNZ5ci3pI1AHWKHBO4laf1RWGqqc3-ZUVWiwLjkDUFsD3GaGVYwOhUAR2XjHgogC6j4IWnk5Z_ZJnC4cyaXxayS2KFGWmYbnKMtDtH9kHEcA8UyKM-idXeii3bcGUBFMai1vFJrmmXgdw9Hcd04D_8XNj-PrVkPv_rTX4h1lME",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=FELHaHicHdFdbpswAABg7TJ9bMCErI0UTUsxEBacYmwDfpnAJnGK-clwE8Lb7tLHnmin2bQbfNL3-0Ofu-bPl09lzDCuF4vb7fZ46vuTrh9F3y7K8d6JhSi1rkrRrFdfV_a3o9jAfnx5GW_bhA4D87BFwtjKQr2VwCTYH3g166XM1RXRaVcSfhVe9E4AtOvAeHGrPdkNPQVRnoLnVc3wTHx1KSH-UQWyp55293kUJYT3eyJZkSNMW3SoO1ZI__lVkO9WFiCbUham0J5SPwJpCB1O_bCEKKos3HGojkmuHdSpnbjbexKYFvl4LKmJY__JVDNK6uZpSUP5jgKUsmxwSMNZ5ci3pI1AHWKHBO4laf1RWGqqc3-ZUVWiwLjkDUFsD3GaGVYwOhUAR2XjHgogC6j4IWnk5Z_ZJnC4cyaXxayS2KFGWmYbnKMtDtH9kHEcA8UyKM-idXeii3bcGUBFMai1vFJrmmXgdw9Hcd04D_8XNj-PrVkPv_rTX4h1lME",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmRUSkhXamxaY1ZwYVlrczVZbEZWTVc0NGVtdFdNR0ZXWkhZMVNYUlhaR0pSUm1oRWFWRkNUSFY0UTB4Q1ZWZGZjRGRuWkRkMVJrSnlTRmhhU1Y5dWJGZ3lSMHQ2TTJkcWMxUXlibWMwZURsYVYybGtNSEprVUhsZmR4SVdUa0pIYW1GemRVeEtjbVZYZUdNNFVETjFMWGRMUVJvaVFVUnpjamxtVkROdlMyTktZa2RUVEZoZmJ6QkpVazFPVmpGSFRGaFpSbU16ZHciLCJmY3YiOiIzIiwiZWkiOiJOQkdqYXN1TEpyZVd4YzhQM3Utd0tBIiwicWMiOiJDaGh3YjNKMFpYSjJhV3hzWlNCd1lXNTBhR1Z5SUdKaGJtUVFBSDJvWEE0XyIsInF1ZXN0aW9uIjoiV2hpY2ggaGlnaCBzY2hvb2wgbWFyY2hpbmcgYmFuZHMgYXJlIGNvbnNpZGVyZWQgdGhlIGJlc3QgaW4gTm9ydGggQ2Fyb2xpbmE/IiwibGsiOiJHakZpWlhOMElHaHBaMmdnYzJOb2IyOXNJRzFoY21Ob2FXNW5JR0poYm1SeklHbHVJRzV2Y25Sb0lHTmhjbTlzYVc1aCIsImJzIjoiYzUyUE1RdkNNQkNGY2MzazNPbWtxeUsyZ3pvVmNSQVVSQkRwZkUyamR4QVRTVm9GUjMtNU5ZaTZTTVVoa09GNzczc25hakhKQ1N0QXA2Q2k1dGtUcEVCOElQQ1NyTlZ3UkNlSnpRRUtOS1VITm9IYmJiTmtHbzB2XzJSckw1WWlEbHIyc0xHdVV1N01XcXMtekdld3g2T3RQZXl0eTVJNDZsMmUyT21OZ2NRUFNsekZJaWVXMUdLZW8tWUdONHhoc0xUR2M2bWNLc09tUXZrcVM0YlI0UEZwYVpLdkpuSHJpRldyX0l2dVViVnVycUptbXJPYURXWkpHbzEtR0dCQ1NqNVQzYzRkIiwiaWQiOiJmY19OQkdqYXN1TEpyZVd4YzhQM3Utd0tBXzgifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmRUSkhXamxaY1ZwYVlrczVZbEZWTVc0NGVtdFdNR0ZXWkhZMVNYUlhaR0pSUm1oRWFWRkNUSFY0UTB4Q1ZWZGZjRGRuWkRkMVJrSnlTRmhhU1Y5dWJGZ3lSMHQ2TTJkcWMxUXlibWMwZURsYVYybGtNSEprVUhsZmR4SVdUa0pIYW1GemRVeEtjbVZYZUdNNFVETjFMWGRMUVJvaVFVUnpjamxtVkROdlMyTktZa2RUVEZoZmJ6QkpVazFPVmpGSFRGaFpSbU16ZHciLCJmY3YiOiIzIiwiZWkiOiJOQkdqYXN1TEpyZVd4YzhQM3Utd0tBIiwicWMiOiJDaGh3YjNKMFpYSjJhV3hzWlNCd1lXNTBhR1Z5SUdKaGJtUVFBSDJvWEE0XyIsInF1ZXN0aW9uIjoiV2hpY2ggaGlnaCBzY2hvb2wgbWFyY2hpbmcgYmFuZHMgYXJlIGNvbnNpZGVyZWQgdGhlIGJlc3QgaW4gTm9ydGggQ2Fyb2xpbmE%2FIiwibGsiOiJHakZpWlhOMElHaHBaMmdnYzJOb2IyOXNJRzFoY21Ob2FXNW5JR0poYm1SeklHbHVJRzV2Y25Sb0lHTmhjbTlzYVc1aCIsImJzIjoiYzUyUE1RdkNNQkNGY2MzazNPbWtxeUsyZ3pvVmNSQVVSQkRwZkUyamR4QVRTVm9GUjMtNU5ZaTZTTVVoa09GNzczc25hakhKQ1N0QXA2Q2k1dGtUcEVCOElQQ1NyTlZ3UkNlSnpRRUtOS1VITm9IYmJiTmtHbzB2XzJSckw1WWlEbHIyc0xHdVV1N01XcXMtekdld3g2T3RQZXl0eTVJNDZsMmUyT21OZ2NRUFNsekZJaWVXMUdLZW8tWUdONHhoc0xUR2M2bWNLc09tUXZrcVM0YlI0UEZwYVpLdkpuSHJpRldyX0l2dVViVnVycUptbXJPYURXWkpHbzEtR0dCQ1NqNVQzYzRkIiwiaWQiOiJmY19OQkdqYXN1TEpyZVd4YzhQM3Utd0tBXzgifQ%3D%3D"
+  }
+ ],
+ "ai_overview": {
+  "page_token": "V-s3H3iczVXbcqpIFP2A-Y7Dy4lyMWpMFXWqG9HgLSKaxLxQ0GCDAUloFDNv8zrfMV91vuY0twQVkzl5mJpdBd0N-7J69169__rHczdPP__424miZ3LNsnEc13EQYM-uo8BnDfK6Qewq8EiInB-OJ9obBnviljAk2IbIdi0ROWHg28zrTmwwiIgcY7viBPbXBtmOBqF9v0dX08a2Fg8Bk3oTddMg9poG268Jq7P09fSt0aWLOqnbm_rsMcQoVOer2rgucHynfssaPlUA_5lIAKiYviU1W5yT_r9zhzGQARiU_Gc-5ZJKslCBjGG2hmq1K1WhqskIVClD1o3_rC1NOjEyjW7ys1qk8g-IUz0IU39Ag-C8YaVkSCWc-_5QV678KpUdJDL-1IRiXB6iUIA0jfMUnyJRgKwcIFazIBjGYB2vsCzL8APcNCGLGDaHicUHalSGqjKPcwjj7j0NzFqYFi3HmiEdeNZFDkonIUlqWZp3uKDXXjRrHhK2_f5wwuEbdbTprlr2XJ67KotMqucFhmVbuqNzP9I1L_BNrtNoX12kJELkjUWkzKJn_1Jq648SH13VR3XIFxSSkoycZolmm64lBZwKzMus8oCXoDgM-S3BNIIildK1yEcHwEBN6rbkGwQqShNWfLHT-kXvR_IOKYlwSqFjaJRCbmoEs9CwDK9QwRhWmFJBJzs8qUIaN85m-Jj9Ksx3Vdiq0lM5RHygTUFqjpwkKmHAHZIzAMfVKBfmaoEXJ4dY5P3NuZrDLVHIxUnWaVisUcWBioeJOnw7A5hvDg6Oie8e7zqVHvUHl8rv3RK5KJ9cEJlOwZWj0j-gDGcoZnDXaAuLLX8l32n9cTx_2N1I3QWopkjgm7_RadD_iURu0YcWue0ZEtnJ5HMSYXrdne1D2bToQy7MSATVMyRSMhJV9CE70yj1oWMSSVqJRNV96Mskkj4kUXYZVZIocVBFoqczJMr7UIlE2mEfOiDRWx96J9FX-pD0pT6UcsrOhsOmtF3js81JJtibTSarcPEqrzcG4haNRbflhyN7hz9tTis_uvYNy7vQXesaCoPo1brQ6Yfg2raYF_GbIEyDMLLDnet59vepsYkcO_wOjY1FfzG-FwYiZzRB37i7eRnBWSTMpjUN4Yf9ttOU8W13r_R7-ksvjluz5nrormZeZyQLYc3Z18I20eYaidCwM1iOZAfvzNl49Qj7XvBs6Po47G4EcxLN2z2JdxvTx-Gzt216Wo265s3be2WwHzS7D9btKFpdIkvrDR0Cb90aEYgpqDjFRsRWy5jH2mA0hleMHyKRHswlBhMV3GNaf9KS0oLWtRTQJ6ZPC6gyZAgydJvsRK5hrmyaLIRMq3Mp8IyPo9dn8ZJnyCYU-V_zwEVD",
+  "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=V-s3H3iczVXbcqpIFP2A-Y7Dy4lyMWpMFXWqG9HgLSKaxLxQ0GCDAUloFDNv8zrfMV91vuY0twQVkzl5mJpdBd0N-7J69169__rHczdPP__424miZ3LNsnEc13EQYM-uo8BnDfK6Qewq8EiInB-OJ9obBnviljAk2IbIdi0ROWHg28zrTmwwiIgcY7viBPbXBtmOBqF9v0dX08a2Fg8Bk3oTddMg9poG268Jq7P09fSt0aWLOqnbm_rsMcQoVOer2rgucHynfssaPlUA_5lIAKiYviU1W5yT_r9zhzGQARiU_Gc-5ZJKslCBjGG2hmq1K1WhqskIVClD1o3_rC1NOjEyjW7ys1qk8g-IUz0IU39Ag-C8YaVkSCWc-_5QV678KpUdJDL-1IRiXB6iUIA0jfMUnyJRgKwcIFazIBjGYB2vsCzL8APcNCGLGDaHicUHalSGqjKPcwjj7j0NzFqYFi3HmiEdeNZFDkonIUlqWZp3uKDXXjRrHhK2_f5wwuEbdbTprlr2XJ67KotMqucFhmVbuqNzP9I1L_BNrtNoX12kJELkjUWkzKJn_1Jq648SH13VR3XIFxSSkoycZolmm64lBZwKzMus8oCXoDgM-S3BNIIildK1yEcHwEBN6rbkGwQqShNWfLHT-kXvR_IOKYlwSqFjaJRCbmoEs9CwDK9QwRhWmFJBJzs8qUIaN85m-Jj9Ksx3Vdiq0lM5RHygTUFqjpwkKmHAHZIzAMfVKBfmaoEXJ4dY5P3NuZrDLVHIxUnWaVisUcWBioeJOnw7A5hvDg6Oie8e7zqVHvUHl8rv3RK5KJ9cEJlOwZWj0j-gDGcoZnDXaAuLLX8l32n9cTx_2N1I3QWopkjgm7_RadD_iURu0YcWue0ZEtnJ5HMSYXrdne1D2bToQy7MSATVMyRSMhJV9CE70yj1oWMSSVqJRNV96Mskkj4kUXYZVZIocVBFoqczJMr7UIlE2mEfOiDRWx96J9FX-pD0pT6UcsrOhsOmtF3js81JJtibTSarcPEqrzcG4haNRbflhyN7hz9tTis_uvYNy7vQXesaCoPo1brQ6Yfg2raYF_GbIEyDMLLDnet59vepsYkcO_wOjY1FfzG-FwYiZzRB37i7eRnBWSTMpjUN4Yf9ttOU8W13r_R7-ksvjluz5nrormZeZyQLYc3Z18I20eYaidCwM1iOZAfvzNl49Qj7XvBs6Po47G4EcxLN2z2JdxvTx-Gzt216Wo265s3be2WwHzS7D9btKFpdIkvrDR0Cb90aEYgpqDjFRsRWy5jH2mA0hleMHyKRHswlBhMV3GNaf9KS0oLWtRTQJ6ZPC6gyZAgydJvsRK5hrmyaLIRMq3Mp8IyPo9dn8ZJnyCYU-V_zwEVD"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Marching Through Time Mural - Welcome to Porterville, CA",
+   "link": "https://www.ci.porterville.ca.us/residents/history_of_porterville/marching_through_time_mural.php",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmQEB6zswFfvZ-LOHjuG7Ds6t1jyk1AS3pUNz0arAUD2I0MEH2BkP8rE1c2VN32Fl_SI9DDMbgdEEDdQnNVp1dy6UakyXk42uYq3i0Ix4sUtcmf9Kw-g0EGWWxQtOyUf9quRpTRwgB9x_u5fIsbKBjqRVFSA_aBXn0uUTOxcNif19C_cMAwlGhvr6LxUtwPsz661vpEp-wnLj4G4&ved=2ahUKEwjL9aSq6-SWAxU3S_EDHd43DAUQFnoECBwQAQ&uoh=1",
+   "displayed_link": "https://www.ci.porterville.ca.us \u203a history_of_porterville",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAABBVBMVEX____-_v7S19aOmYZ0gVl0gEhvfUh3hFaNmH_Cyc39_f_w8viYo5BHWUClqz-6vUPJykKepUOZoEGCjUGEkIPq7PL9_f16iHCjqDd7hUNreD1yf0-JlGSUnWx_iTWGkDd_i2N0g4jHyEt9jk93i4-vt7Wxub2jra2jraCGkoDGzM5mdEPCi1bRo3Vqfnq3vrlicmeCj4uytkjcm2A_U0i8tq2Flldpdk3riDPSspJqbl31jjPTuqZVZlDjjD_PjlLV0cf35dS1iFhZaUXSgjvX3-iWnlzik0zxs3n_9uzpyan15Ni3byiko5XAtqSznoD9nEpdZF5AUzmarLT0pWJ1fG2QnJjUXOzsAAAA7UlEQVR4AWJgYAR0PA5YDENBFH218Wdq27ZtM_vfSZtk8HB8NdDq9AajyWyxyhka2OwOp8vpFsQer1zh8weCoXAkaoxRPOEFkIyl0plsLpcvpN2iCJSC5XKlWvPUG828sRWywCyCmXallvfVOt0Cx4voiX6-ORhqUBqNJ73gFEZOdGfzBbCcrSwRXsMQ1y_HeZsGy01tu6MpGsHOZH84QnOanUqOYALNddlzvlxxG90fT8crg-2UgoV33nb4eL_MHS9QL7c4US_VrxEWsazCIjHFiUjmKedVFlgSoSAJKvstcgFksZWkYlEq2ZT-B20xH1eMsD4PAAAAAElFTkSuQmCC.png",
+   "snippet": "Frank Buck Shaffer really put the Porterville Panther Band on the map over his 37 years as band director beginning in 1953 and Dale Anderson led the first ...",
+   "snippet_highlighted_words": [
+    "Porterville Panther Band"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Frank Buck Shaffer really put the Porterville Panther Band on the map over his 37 years as band director beginning in 1953 and Dale Anderson led the first ...",
+     "source_info_link": "https://www.ci.porterville.ca.us/residents/history_of_porterville/marching_through_time_mural.php",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAABBVBMVEX____-_v7S19aOmYZ0gVl0gEhvfUh3hFaNmH_Cyc39_f_w8viYo5BHWUClqz-6vUPJykKepUOZoEGCjUGEkIPq7PL9_f16iHCjqDd7hUNreD1yf0-JlGSUnWx_iTWGkDd_i2N0g4jHyEt9jk93i4-vt7Wxub2jra2jraCGkoDGzM5mdEPCi1bRo3Vqfnq3vrlicmeCj4uytkjcm2A_U0i8tq2Flldpdk3riDPSspJqbl31jjPTuqZVZlDjjD_PjlLV0cf35dS1iFhZaUXSgjvX3-iWnlzik0zxs3n_9uzpyan15Ni3byiko5XAtqSznoD9nEpdZF5AUzmarLT0pWJ1fG2QnJjUXOzsAAAA7UlEQVR4AWJgYAR0PA5YDENBFH218Wdq27ZtM_vfSZtk8HB8NdDq9AajyWyxyhka2OwOp8vpFsQer1zh8weCoXAkaoxRPOEFkIyl0plsLpcvpN2iCJSC5XKlWvPUG828sRWywCyCmXallvfVOt0Cx4voiX6-ORhqUBqNJ73gFEZOdGfzBbCcrSwRXsMQ1y_HeZsGy01tu6MpGsHOZH84QnOanUqOYALNddlzvlxxG90fT8crg-2UgoV33nb4eL_MHS9QL7c4US_VrxEWsazCIjHFiUjmKedVFlgSoSAJKvstcgFksZWkYlEq2ZT-B20xH1eMsD4PAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESmQEB6zswFfvZ-LOHjuG7Ds6t1jyk1AS3pUNz0arAUD2I0MEH2BkP8rE1c2VN32Fl_SI9DDMbgdEEDdQnNVp1dy6UakyXk42uYq3i0Ix4sUtcmf9Kw-g0EGWWxQtOyUf9quRpTRwgB9x_u5fIsbKBjqRVFSA_aBXn0uUTOxcNif19C_cMAwlGhvr6LxUtwPsz661vpEp-wnLj4G4&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESmQEB6zswFfvZ-LOHjuG7Ds6t1jyk1AS3pUNz0arAUD2I0MEH2BkP8rE1c2VN32Fl_SI9DDMbgdEEDdQnNVp1dy6UakyXk42uYq3i0Ix4sUtcmf9Kw-g0EGWWxQtOyUf9quRpTRwgB9x_u5fIsbKBjqRVFSA_aBXn0uUTOxcNif19C_cMAwlGhvr6LxUtwPsz661vpEp-wnLj4G4",
+   "source": "City of Porterville, CA",
+   "read_more_link": "https://www.ci.porterville.ca.us/residents/history_of_porterville/marching_through_time_mural.php#:~:text=Frank%20Buck%20Shaffer%20really%20put,retirement%20in%20the%20early%202000's."
+  },
+  {
+   "position": 2,
+   "title": "Porterville Panther Band (@PortervillePantherBand)",
+   "link": "https://www.facebook.com/PortervillePantherBand/mentions/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScQHrOzAVASf1P5yb8Jiz6PHuCkOb1YLQv1daTH8smuNS4eursASd5iKqSGoPKPi4wt3Vjw7uTltRs92AK27QaY0gkwd9Uy5Wr15IXNgVnu7kgD2N-Hjrbs4jNnWXGD2DhVnQqXAjSIdiXL7_TXZksDtP&ved=2ahUKEwjL9aSq6-SWAxU3S_EDHd43DAUQFnoECEYQAQ&uoh=1",
+   "displayed_link": "https://www.facebook.com \u203a mentions",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "snippet": "Welcome Panthers! This page is dedicated to the pride & tradition of the Porterville Panther Band. Feel free to share pics & memories on the page..PHS GO!",
+   "snippet_highlighted_words": [
+    "Porterville Panther Band"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Welcome Panthers! This page is dedicated to the pride & tradition of the Porterville Panther Band. Feel free to share pics & memories on the page..PHS GO!",
+     "source_info_link": "https://www.facebook.com/PortervillePantherBand/mentions/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEScQHrOzAVASf1P5yb8Jiz6PHuCkOb1YLQv1daTH8smuNS4eursASd5iKqSGoPKPi4wt3Vjw7uTltRs92AK27QaY0gkwd9Uy5Wr15IXNgVnu7kgD2N-Hjrbs4jNnWXGD2DhVnQqXAjSIdiXL7_TXZksDtP&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEScQHrOzAVASf1P5yb8Jiz6PHuCkOb1YLQv1daTH8smuNS4eursASd5iKqSGoPKPi4wt3Vjw7uTltRs92AK27QaY0gkwd9Uy5Wr15IXNgVnu7kgD2N-Hjrbs4jNnWXGD2DhVnQqXAjSIdiXL7_TXZksDtP",
+   "source": "Facebook",
+   "read_more_link": "https://www.facebook.com/PortervillePantherBand/mentions/#:~:text=Welcome%20Panthers!%20This%20page%20is,memories%20on%20the%20page..PHS%20GO!!!!"
+  },
+  {
+   "position": 3,
+   "title": "Porterville Panther Band",
+   "link": "https://thehollywoodchristmasparade.org/band-and-pageantry/porterville-panther-band/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjAEB6zswFZhJJ_TZkaUJCBf1muGbkxuk8UO-_CIVRS1cPYZVAJA5TjiQKO1eNXvG8tbCidxUoK2_33lmTklXRsni5N4uoQyiAJA9NzQbFjQfH5nbLg9lXsI0-HrokwoCdITgaVqNvAenGF4EXx9BT3jZFAMnOJmsrwMmdi5T_Pj_BO1Dre8yStotQIg9IQ&ved=2ahUKEwjL9aSq6-SWAxU3S_EDHd43DAUQFnoECEIQAQ&uoh=1",
+   "displayed_link": "https://thehollywoodchristmasparade.org \u203a porterville-p...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAASCAMAAAB_2U7WAAAAtFBMVEVHcEzBhCq6fizOjyzMjSz_11n_zkrvsC7orTPcniz1xEjQoDy9gSnFiCvnpyvRkSnnpiz_1FL_1Fj_1lj_00__y0bytTP0tTHvry3nqC7xsC_npyzRkSvenCrVlSrbmivhoSzenSvTkyvbnCr1tSv-xT3_zUr9x0L2uTXsrTDlpiv3tzL_yUL7wz_vsTLnqC32tzXpqC3_ykDysS7opiropyvrqy7_11TopSj-zEjqqiz_314a9SVtAAAAPHRSTlMAPmdvLjMgEg4FBgFNWzg2HHC2FWNtUVlrTj1viZ1GUmRce3C2ev9GZEQlfVg-K3dvMFOWaF19lo2FrEweLHKhAAAA90lEQVR4AWKgOWBkYmZBEwL0PhSJCQPBwaIlUljfuAtO_P_vQs69d9xlp6iaphumaW5_9ivD0mzQHEcD9_dgwBFhQhkX0lvt_SAMozhOvDTN8nynAMqKEltOspW-H7KyClWndqymaE8HExD6JtWNLjd-iEnJANQzN86KAQBmUZSE1nuIkyAQnJzPl-utMVB2LzQA4BiXYgN2HVgVvlXnS8MfCroX7g4AyupKnjXr-mcciepxxuT5UI5tMSgAcIUrfUYjY44MhCUsbI2kvE_INb6dKiXzLZi5I_rbI_h8DV_Ql-NHqkQ8--4SdcGNqfAXnLNl2_Bf8Ab9vxspPiPPLgAAAABJRU5ErkJggg.png",
+   "snippet": "Originally formed in 1902, the 2018-2019 Porterville Panther Band is under the direction of Mr. Clark Keele, with Mrs. Tera Entenman as the auxiliary advisor.",
+   "snippet_highlighted_words": [
+    "Porterville Panther Band"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Originally formed in 1902, the 2018-2019 Porterville Panther Band is under the direction of Mr. Clark Keele, with Mrs. Tera Entenman as the auxiliary advisor.",
+     "source_info_link": "https://thehollywoodchristmasparade.org/band-and-pageantry/porterville-panther-band/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAASCAMAAAB_2U7WAAAAtFBMVEVHcEzBhCq6fizOjyzMjSz_11n_zkrvsC7orTPcniz1xEjQoDy9gSnFiCvnpyvRkSnnpiz_1FL_1Fj_1lj_00__y0bytTP0tTHvry3nqC7xsC_npyzRkSvenCrVlSrbmivhoSzenSvTkyvbnCr1tSv-xT3_zUr9x0L2uTXsrTDlpiv3tzL_yUL7wz_vsTLnqC32tzXpqC3_ykDysS7opiropyvrqy7_11TopSj-zEjqqiz_314a9SVtAAAAPHRSTlMAPmdvLjMgEg4FBgFNWzg2HHC2FWNtUVlrTj1viZ1GUmRce3C2ev9GZEQlfVg-K3dvMFOWaF19lo2FrEweLHKhAAAA90lEQVR4AWKgOWBkYmZBEwL0PhSJCQPBwaIlUljfuAtO_P_vQs69d9xlp6iaphumaW5_9ivD0mzQHEcD9_dgwBFhQhkX0lvt_SAMozhOvDTN8nynAMqKEltOspW-H7KyClWndqymaE8HExD6JtWNLjd-iEnJANQzN86KAQBmUZSE1nuIkyAQnJzPl-utMVB2LzQA4BiXYgN2HVgVvlXnS8MfCroX7g4AyupKnjXr-mcciepxxuT5UI5tMSgAcIUrfUYjY44MhCUsbI2kvE_INb6dKiXzLZi5I_rbI_h8DV_Ql-NHqkQ8--4SdcGNqfAXnLNl2_Bf8Ab9vxspPiPPLgAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESjAEB6zswFZhJJ_TZkaUJCBf1muGbkxuk8UO-_CIVRS1cPYZVAJA5TjiQKO1eNXvG8tbCidxUoK2_33lmTklXRsni5N4uoQyiAJA9NzQbFjQfH5nbLg9lXsI0-HrokwoCdITgaVqNvAenGF4EXx9BT3jZFAMnOJmsrwMmdi5T_Pj_BO1Dre8yStotQIg9IQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESjAEB6zswFZhJJ_TZkaUJCBf1muGbkxuk8UO-_CIVRS1cPYZVAJA5TjiQKO1eNXvG8tbCidxUoK2_33lmTklXRsni5N4uoQyiAJA9NzQbFjQfH5nbLg9lXsI0-HrokwoCdITgaVqNvAenGF4EXx9BT3jZFAMnOJmsrwMmdi5T_Pj_BO1Dre8yStotQIg9IQ",
+   "source": "The Hollywood Christmas Parade",
+   "read_more_link": "https://thehollywoodchristmasparade.org/band-and-pageantry/porterville-panther-band/#:~:text=Originally%20formed%20in%201902%2C%20the,Entenman%20as%20the%20auxiliary%20advisor."
+  },
+  {
+   "position": 4,
+   "title": "Ladies and Gentlemen, the Porterville Panther Band ...",
+   "link": "https://www.instagram.com/p/DJItZkRRIaz/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAVJ1ZpSdCYM7ckuZuPXYsDcIF0TC0JWM8y4-_V5iiXBSMvp77ey9oPEeW1FsRp19CL5zY3_WcdkMUuWDC6s-jEh1PYQEMv6j3WchDfqWzmzu5dWuhyGoDl84nCDA&ved=2ahUKEwjL9aSq6-SWAxU3S_EDHd43DAUQFnoECEcQAQ&uoh=1",
+   "displayed_link": "130+ likes \u00b7 1 year ago",
+   "favicon": "https://serpapi.com/searches/6aa3113080f30e00ba62852f/images/smuHZgJnX8evFnS3sMx_pAzrYxQVXQ5QJNxc4-SOKG4.png",
+   "snippet": "pantherasb on May 1, 2025: \"Ladies and Gentlemen, the Porterville Panther Band is proud to present the 70th annual Panther Band concert!",
+   "snippet_highlighted_words": [
+    "Porterville Panther Band"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "pantherasb on May 1, 2025: \"Ladies and Gentlemen, the Porterville Panther Band is proud to present the 70th annual Panther Band concert!",
+     "source_info_link": "https://www.instagram.com/p/DJItZkRRIaz/",
+     "icon": "https://serpapi.com/searches/6aa3113080f30e00ba62852f/images/smuHZgJnX8evFnS3sMx_pC5LXPRgMxZ0MAziYTgkOXQ5MgrS3NM5vUKZgUdL1bUB.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYAHrOzAVJ1ZpSdCYM7ckuZuPXYsDcIF0TC0JWM8y4-_V5iiXBSMvp77ey9oPEeW1FsRp19CL5zY3_WcdkMUuWDC6s-jEh1PYQEMv6j3WchDfqWzmzu5dWuhyGoDl84nCDA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYAHrOzAVJ1ZpSdCYM7ckuZuPXYsDcIF0TC0JWM8y4-_V5iiXBSMvp77ey9oPEeW1FsRp19CL5zY3_WcdkMUuWDC6s-jEh1PYQEMv6j3WchDfqWzmzu5dWuhyGoDl84nCDA",
+   "source": "Instagram \u00b7 pantherasb"
+  },
+  {
+   "position": 5,
+   "title": "Porterville High School Panther Band",
+   "link": "https://collections.carnegiehall.org/C.aspx?VP3=CMS3&VF=SearchDetailPopupPage&VBID=&IID=2RRM1TTQMHP7",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnAEB6zswFb4g8YIFKs2MD94WJfeuXGkw7L7hbA9IXWvG-HGm4G4MR7z0my--GAaWvyip8VuWeDD1en9TeFARSnHyFxaAwR5iYJxxI2HA5FJMquySRGsVVWQyKcW7-LwEEFLF0-bB8WsiegfXmqHQLJR7gQcafUNLHvyT4yDi03H6NtUI5pXUVYVPaiB8MN42JLML97f5tNxkUah3lWU&ved=2ahUKEwjL9aSq6-SWAxU3S_EDHd43DAUQFnoECEEQAQ&uoh=1",
+   "displayed_link": "https://collections.carnegiehall.org \u203a ...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAASFBMVEVHcEzcIDfiIjbjIjfiIjfiIDbiIjfiIjfiIjfiITbiHTTiEy3lOUvnSlnyoqn-9PX____84-Xuh5D51Nj2w8fhAyLqZXHsdoBOyTcvAAAACnRSTlMAA1CPxer_JaPR1mmSmwAAAY5JREFUeAF8UgeCwzAIy6RX8MCxlfz_pwd2bg91FyRh4ekD87JuO9G-rcs8_cTjhT7h5fGtPK_0Dev8hf78Xmd-Pj7V9-91CZH2xz_1lLXEt475h74cWlUbnmOO9Tb91FA1egOt3cD_AccoIBJ7MxSNZ3KGm9j55axqSGLaRUytaoL0PGwCIhyqpVnPAVMOTGiu3zFPC3HIRgYuLZCih5BcqnfDMq3-MwOtnDljcDmoRh6BTpsfKoPMxWrWXIjZhxBybNPeFRhVtQYrGVcYSeto2CcijllPQQgwVRTNDtU7GGsgKZrMWAAh4944h4RZ-J8F5tTa0YcwJ_EkhsXmOamakRoO4c71IXgM6ZsIeWSUcgE6l0difszFh2haIecRSoZzYbZZL-lBzTQ8khFS79P8Ke25L4skqeaS3Z7ZD-3pFV_WvW7CVa2lRQhQXZxDqSb0eL8wgg5PvXV3BpjW71fOA48534ui5_z90pqz4d7Tx7WePzr4qO3ib3XveHcRQG7916HmPlxZj3DmJZj9Aa-VI-4b6A_DAAAAAElFTkSuQmCC.png",
+   "snippet": "Porterville Panther Band (Licensee). Orchestra: Porterville Panther Band. Conductor: Frank \"Buck\" Shaffer.",
+   "snippet_highlighted_words": [
+    "Porterville Panther Band",
+    "Porterville Panther Band"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Porterville Panther Band (Licensee). Orchestra: Porterville Panther Band. Conductor: Frank \"Buck\" Shaffer.",
+     "source_info_link": "https://collections.carnegiehall.org/C.aspx?VP3=CMS3&VF=SearchDetailPopupPage&VBID=&IID=2RRM1TTQMHP7",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAASFBMVEVHcEzcIDfiIjbjIjfiIjfiIDbiIjfiIjfiIjfiITbiHTTiEy3lOUvnSlnyoqn-9PX____84-Xuh5D51Nj2w8fhAyLqZXHsdoBOyTcvAAAACnRSTlMAA1CPxer_JaPR1mmSmwAAAY5JREFUeAF8UgeCwzAIy6RX8MCxlfz_pwd2bg91FyRh4ekD87JuO9G-rcs8_cTjhT7h5fGtPK_0Dev8hf78Xmd-Pj7V9-91CZH2xz_1lLXEt475h74cWlUbnmOO9Tb91FA1egOt3cD_AccoIBJ7MxSNZ3KGm9j55axqSGLaRUytaoL0PGwCIhyqpVnPAVMOTGiu3zFPC3HIRgYuLZCih5BcqnfDMq3-MwOtnDljcDmoRh6BTpsfKoPMxWrWXIjZhxBybNPeFRhVtQYrGVcYSeto2CcijllPQQgwVRTNDtU7GGsgKZrMWAAh4944h4RZ-J8F5tTa0YcwJ_EkhsXmOamakRoO4c71IXgM6ZsIeWSUcgE6l0difszFh2haIecRSoZzYbZZL-lBzTQ8khFS79P8Ke25L4skqeaS3Z7ZD-3pFV_WvW7CVa2lRQhQXZxDqSb0eL8wgg5PvXV3BpjW71fOA48534ui5_z90pqz4d7Tx7WePzr4qO3ib3XveHcRQG7916HmPlxZj3DmJZj9Aa-VI-4b6A_DAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESnAEB6zswFb4g8YIFKs2MD94WJfeuXGkw7L7hbA9IXWvG-HGm4G4MR7z0my--GAaWvyip8VuWeDD1en9TeFARSnHyFxaAwR5iYJxxI2HA5FJMquySRGsVVWQyKcW7-LwEEFLF0-bB8WsiegfXmqHQLJR7gQcafUNLHvyT4yDi03H6NtUI5pXUVYVPaiB8MN42JLML97f5tNxkUah3lWU&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESnAEB6zswFb4g8YIFKs2MD94WJfeuXGkw7L7hbA9IXWvG-HGm4G4MR7z0my--GAaWvyip8VuWeDD1en9TeFARSnHyFxaAwR5iYJxxI2HA5FJMquySRGsVVWQyKcW7-LwEEFLF0-bB8WsiegfXmqHQLJR7gQcafUNLHvyT4yDi03H6NtUI5pXUVYVPaiB8MN42JLML97f5tNxkUah3lWU",
+   "source": "Carnegie Hall"
+  },
+  {
+   "position": 6,
+   "title": "Panther Band brings crowd to its feet",
+   "link": "https://www.recorderonline.com/panther-band-brings-crowd-to-its-feet/article_36fae71e-437b-5425-8ca7-1d272fb9499d.html",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrgEB6zswFTkvZqxQDyHz13_i6vkal5P8yXkd7j-QgXvGr-f_RSko1_a1nBXQ-4XkxrZvZhvK_lEFNOxLAEHMIxZMbupw-C73EsmGJY-Z2B-QO8aE1HttG7hi8lVAn--GeKpOkzS82h4s95zTo1ThCmBT5wLVD10SDOQ1WW6e4Z1nnkYu-KAKyxySuLUtPzsivR8B0_hAatSs43ntXf0-NlWKgO5XBCXLHg62Ipnhl5I&ved=2ahUKEwjL9aSq6-SWAxU3S_EDHd43DAUQFnoECEQQAQ&uoh=1",
+   "displayed_link": "https://www.recorderonline.com \u203a panther-band-brings-...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAApVBMVEX____BwcFwcHBpaWmurq5_f38PDw-KiYnt7e1ERESXl5e2traysrLJycn8_PzV1dUkJCT5-fnh4eF4eHiZmZnw8PC9vb0-Pj7Ozs6np6f19fWpqaljYmLb2tpXV1cAAAAbGhpUS0bOwLilmJFFS02XjIRNTU0vLy_CrJ7emXDnlmTQgk_uwabYzMPXkGXeoX3cxrfj2NffrZLctJfKrI3u1MT27-M11RlzAAAArUlEQVR4AezLxQECMQAEwI3n3D3B7fD-m8PhhTTA_Ad_PxHKwAU-kUo7rudrzonvB4S4IV6i2EvSLCRBkhell3o-r-qiSbyyBZRblZ2BVbTJayECY7PIiK4bBC0Ab-ilWZZS8CB1m4iCaiYIDG5GXgJJxpOpuJRopucqF02xqAEEJl66VrFVv95si12_PxxThBptArQRkPrQwXlAytDI2MTUVBCHpwTNRNFERgEASFoLyLeRAuoAAAAASUVORK5CYII.png",
+   "date": "May 10, 2010",
+   "snippet": "A concert fit for a New York City audience is what Jim Kusserow's Porterville Panther Band delivered Friday night at the Frank \u201cBuck\u201d ...",
+   "snippet_highlighted_words": [
+    "Porterville Panther Band"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "A concert fit for a New York City audience is what Jim Kusserow's Porterville Panther Band delivered Friday night at the Frank \u201cBuck\u201d ...",
+     "source_info_link": "https://www.recorderonline.com/panther-band-brings-crowd-to-its-feet/article_36fae71e-437b-5425-8ca7-1d272fb9499d.html",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAApVBMVEX____BwcFwcHBpaWmurq5_f38PDw-KiYnt7e1ERESXl5e2traysrLJycn8_PzV1dUkJCT5-fnh4eF4eHiZmZnw8PC9vb0-Pj7Ozs6np6f19fWpqaljYmLb2tpXV1cAAAAbGhpUS0bOwLilmJFFS02XjIRNTU0vLy_CrJ7emXDnlmTQgk_uwabYzMPXkGXeoX3cxrfj2NffrZLctJfKrI3u1MT27-M11RlzAAAArUlEQVR4AezLxQECMQAEwI3n3D3B7fD-m8PhhTTA_Ad_PxHKwAU-kUo7rudrzonvB4S4IV6i2EvSLCRBkhell3o-r-qiSbyyBZRblZ2BVbTJayECY7PIiK4bBC0Ab-ilWZZS8CB1m4iCaiYIDG5GXgJJxpOpuJRopucqF02xqAEEJl66VrFVv95si12_PxxThBptArQRkPrQwXlAytDI2MTUVBCHpwTNRNFERgEASFoLyLeRAuoAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESrgEB6zswFTkvZqxQDyHz13_i6vkal5P8yXkd7j-QgXvGr-f_RSko1_a1nBXQ-4XkxrZvZhvK_lEFNOxLAEHMIxZMbupw-C73EsmGJY-Z2B-QO8aE1HttG7hi8lVAn--GeKpOkzS82h4s95zTo1ThCmBT5wLVD10SDOQ1WW6e4Z1nnkYu-KAKyxySuLUtPzsivR8B0_hAatSs43ntXf0-NlWKgO5XBCXLHg62Ipnhl5I&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESrgEB6zswFTkvZqxQDyHz13_i6vkal5P8yXkd7j-QgXvGr-f_RSko1_a1nBXQ-4XkxrZvZhvK_lEFNOxLAEHMIxZMbupw-C73EsmGJY-Z2B-QO8aE1HttG7hi8lVAn--GeKpOkzS82h4s95zTo1ThCmBT5wLVD10SDOQ1WW6e4Z1nnkYu-KAKyxySuLUtPzsivR8B0_hAatSs43ntXf0-NlWKgO5XBCXLHg62Ipnhl5I",
+   "source": "Porterville Recorder"
+  },
+  {
+   "position": 7,
+   "title": "Porterville Panther Band at Hollywood Christmas Parade",
+   "link": "https://www.youtube.com/watch?v=WIDY4sAk05g",
+   "displayed_link": "14.5K+ views \u00b7 18 years ago",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQf5lCMiEssirtwCXHcG5TqxHIEAirj7PmW727k-iGjowp4SjdAUIVVg&s",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+   "snippet": "The Panther Band performing at the Hollywood Christmas Parade 2007. Porterville Panther Band at Hollywood Christmas Parade ... Porterville panther ...",
+   "duration": "1:22",
+   "about_this_result": {
+    "source": {
+     "description": "The Panther Band performing at the Hollywood Christmas Parade 2007. Porterville Panther Band at Hollywood Christmas Parade ... Porterville panther ...",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+    }
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYwHrOzAVwYR6UCCLyPPhZcxVXXoSCKalVxPS_deH8y9ISdbgCn0i5hH2ybNjWJzLOjcRWUJ_hWIQ5t9ukzM2LD-KuPl_j3XMcnoGnboQfPf-NWxylDvlWoIwg2Zwbw1ZEJ2PVw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYwHrOzAVwYR6UCCLyPPhZcxVXXoSCKalVxPS_deH8y9ISdbgCn0i5hH2ybNjWJzLOjcRWUJ_hWIQ5t9ukzM2LD-KuPl_j3XMcnoGnboQfPf-NWxylDvlWoIwg2Zwbw1ZEJ2PVw",
+   "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR2bJrQ2KbcaX5_TNrfqA48EDYmY_tZ8XKzSg",
+   "source": "YouTube \u00b7 Michael\u2019s Adventures"
+  },
+  {
+   "position": 8,
+   "title": "Porterville Panther Band",
+   "link": "https://www.tiktok.com/discover/porterville-panther-band",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHrOzAVWDFq8cCa9ckekANBCh48pZMPfPSRDnew4zU1JhtNJlFo41QNVA1vGKkPDrr8cH17Vbrwgo6OADsQmQvYvJoRaYQw4q6FQ2vYg52uposQUNKoVtOnGAKZ-kbrdFMBG4NY5WpmGRe86V3RJZw&ved=2ahUKEwjL9aSq6-SWAxU3S_EDHd43DAUQFnoECEUQAQ&uoh=1",
+   "displayed_link": "https://www.tiktok.com \u203a Discover",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAw1BMVEUAAAAAAAAFT1IAQUNBub6u5eexxcpyQ0wIAABaxsv5____9_nGj5oyAAD____84eeEYmvm4uN4f4A5P0MAFBXx-vu019khAAD60tr37vDlmqpXAAsALzAKc3gpo6hjpqr_6O3idYqcbHTSrLP6iJ9rABOc5Ofi-vvJYnXLbn8_AAI9HyWWIDhRz9TH9PffY3oDAAC99vjhSGe7KEenACiF4-f_1961PVaB09bFkZswjJGwuLr__f7xqbYYHh_9tsTiL1Yh8R0_AAAAAXRSTlP-GuMHfQAAANJJREFUeAG90kUCg1AMBNDiPtTd3d2V-5-quMOS2b6vSXI5IjnZIElSyUgzLMcnoSBKspKMUPMpiEKxVE5EVKr5WgTLBkr1BtBsBbHd6fZKOvYHw1F9PAkgSU9njXlNx8Vyxa2XfmxvtoC0M1GH_d6P3QPU8fFkY_Ar7Q0ag3ONIOKQvOB60i0WqSnUG6FnI6rzMJbvkB76zo5-wk0JIf8EGq9ndzN7f9bRrlQBcTYTcT22iAh-X9Ib7_dPm8Q1u5Zvfpq7c4uIQ56otVrLjEYzJX-4mxcG80U-CwAAAABJRU5ErkJggg.png",
+   "snippet": "Exciting Friday Nights with Porterville Panther Band Parents. Join us for thrilling Friday nights as we celebrate our Porterville Panther Band community! 52 ...",
+   "snippet_highlighted_words": [
+    "Porterville Panther Band",
+    "Porterville Panther Band"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Exciting Friday Nights with Porterville Panther Band Parents. Join us for thrilling Friday nights as we celebrate our Porterville Panther Band community! 52 ...",
+     "source_info_link": "https://www.tiktok.com/discover/porterville-panther-band",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAw1BMVEUAAAAAAAAFT1IAQUNBub6u5eexxcpyQ0wIAABaxsv5____9_nGj5oyAAD____84eeEYmvm4uN4f4A5P0MAFBXx-vu019khAAD60tr37vDlmqpXAAsALzAKc3gpo6hjpqr_6O3idYqcbHTSrLP6iJ9rABOc5Ofi-vvJYnXLbn8_AAI9HyWWIDhRz9TH9PffY3oDAAC99vjhSGe7KEenACiF4-f_1961PVaB09bFkZswjJGwuLr__f7xqbYYHh_9tsTiL1Yh8R0_AAAAAXRSTlP-GuMHfQAAANJJREFUeAG90kUCg1AMBNDiPtTd3d2V-5-quMOS2b6vSXI5IjnZIElSyUgzLMcnoSBKspKMUPMpiEKxVE5EVKr5WgTLBkr1BtBsBbHd6fZKOvYHw1F9PAkgSU9njXlNx8Vyxa2XfmxvtoC0M1GH_d6P3QPU8fFkY_Ar7Q0ag3ONIOKQvOB60i0WqSnUG6FnI6rzMJbvkB76zo5-wk0JIf8EGq9ndzN7f9bRrlQBcTYTcT22iAh-X9Ib7_dPm8Q1u5Zvfpq7c4uIQ56otVrLjEYzJX-4mxcG80U-CwAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEScAHrOzAVWDFq8cCa9ckekANBCh48pZMPfPSRDnew4zU1JhtNJlFo41QNVA1vGKkPDrr8cH17Vbrwgo6OADsQmQvYvJoRaYQw4q6FQ2vYg52uposQUNKoVtOnGAKZ-kbrdFMBG4NY5WpmGRe86V3RJZw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEScAHrOzAVWDFq8cCa9ckekANBCh48pZMPfPSRDnew4zU1JhtNJlFo41QNVA1vGKkPDrr8cH17Vbrwgo6OADsQmQvYvJoRaYQw4q6FQ2vYg52uposQUNKoVtOnGAKZ-kbrdFMBG4NY5WpmGRe86V3RJZw",
+   "source": "TikTok"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Porterville+Panther+Band%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuCbUanBNkkP5x3AzEz7tk03vk4Zw:1789071668631&ei=NBGjasuLJreWxc8P3u-wKA&start=10&sa=N&sstk=AS6-VmI_nm4RTlWCGZrElghbA_2oLKaTojiZcGeGDuU2fJr7UZcJcNqzA3vrOTuafnqarKvascIMb3DKBH2gitcI_vwX2xWDqqRn9A&ved=2ahUKEwjL9aSq6-SWAxU3S_EDHd43DAUQ8NMDegQIPhAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Porterville+Panther+Band%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuCbUanBNkkP5x3AzEz7tk03vk4Zw:1789071668631&ei=NBGjasuLJreWxc8P3u-wKA&start=10&sa=N&sstk=AS6-VmI_nm4RTlWCGZrElghbA_2oLKaTojiZcGeGDuU2fJr7UZcJcNqzA3vrOTuafnqarKvascIMb3DKBH2gitcI_vwX2xWDqqRn9A&ved=2ahUKEwjL9aSq6-SWAxU3S_EDHd43DAUQ8tMDegQIPhAE",
+   "3": "https://www.google.com/search?q=%22Porterville+Panther+Band%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuCbUanBNkkP5x3AzEz7tk03vk4Zw:1789071668631&ei=NBGjasuLJreWxc8P3u-wKA&start=20&sa=N&sstk=AS6-VmI_nm4RTlWCGZrElghbA_2oLKaTojiZcGeGDuU2fJr7UZcJcNqzA3vrOTuafnqarKvascIMb3DKBH2gitcI_vwX2xWDqqRn9A&ved=2ahUKEwjL9aSq6-SWAxU3S_EDHd43DAUQ8tMDegQIPhAG",
+   "4": "https://www.google.com/search?q=%22Porterville+Panther+Band%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuCbUanBNkkP5x3AzEz7tk03vk4Zw:1789071668631&ei=NBGjasuLJreWxc8P3u-wKA&start=30&sa=N&sstk=AS6-VmI_nm4RTlWCGZrElghbA_2oLKaTojiZcGeGDuU2fJr7UZcJcNqzA3vrOTuafnqarKvascIMb3DKBH2gitcI_vwX2xWDqqRn9A&ved=2ahUKEwjL9aSq6-SWAxU3S_EDHd43DAUQ8tMDegQIPhAI",
+   "5": "https://www.google.com/search?q=%22Porterville+Panther+Band%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuCbUanBNkkP5x3AzEz7tk03vk4Zw:1789071668631&ei=NBGjasuLJreWxc8P3u-wKA&start=40&sa=N&sstk=AS6-VmI_nm4RTlWCGZrElghbA_2oLKaTojiZcGeGDuU2fJr7UZcJcNqzA3vrOTuafnqarKvascIMb3DKBH2gitcI_vwX2xWDqqRn9A&ved=2ahUKEwjL9aSq6-SWAxU3S_EDHd43DAUQ8tMDegQIPhAK",
+   "6": "https://www.google.com/search?q=%22Porterville+Panther+Band%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuCbUanBNkkP5x3AzEz7tk03vk4Zw:1789071668631&ei=NBGjasuLJreWxc8P3u-wKA&start=50&sa=N&sstk=AS6-VmI_nm4RTlWCGZrElghbA_2oLKaTojiZcGeGDuU2fJr7UZcJcNqzA3vrOTuafnqarKvascIMb3DKBH2gitcI_vwX2xWDqqRn9A&ved=2ahUKEwjL9aSq6-SWAxU3S_EDHd43DAUQ8tMDegQIPhAM",
+   "7": "https://www.google.com/search?q=%22Porterville+Panther+Band%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuCbUanBNkkP5x3AzEz7tk03vk4Zw:1789071668631&ei=NBGjasuLJreWxc8P3u-wKA&start=60&sa=N&sstk=AS6-VmI_nm4RTlWCGZrElghbA_2oLKaTojiZcGeGDuU2fJr7UZcJcNqzA3vrOTuafnqarKvascIMb3DKBH2gitcI_vwX2xWDqqRn9A&ved=2ahUKEwjL9aSq6-SWAxU3S_EDHd43DAUQ8tMDegQIPhAO",
+   "8": "https://www.google.com/search?q=%22Porterville+Panther+Band%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuCbUanBNkkP5x3AzEz7tk03vk4Zw:1789071668631&ei=NBGjasuLJreWxc8P3u-wKA&start=70&sa=N&sstk=AS6-VmI_nm4RTlWCGZrElghbA_2oLKaTojiZcGeGDuU2fJr7UZcJcNqzA3vrOTuafnqarKvascIMb3DKBH2gitcI_vwX2xWDqqRn9A&ved=2ahUKEwjL9aSq6-SWAxU3S_EDHd43DAUQ8tMDegQIPhAQ",
+   "9": "https://www.google.com/search?q=%22Porterville+Panther+Band%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuCbUanBNkkP5x3AzEz7tk03vk4Zw:1789071668631&ei=NBGjasuLJreWxc8P3u-wKA&start=80&sa=N&sstk=AS6-VmI_nm4RTlWCGZrElghbA_2oLKaTojiZcGeGDuU2fJr7UZcJcNqzA3vrOTuafnqarKvascIMb3DKBH2gitcI_vwX2xWDqqRn9A&ved=2ahUKEwjL9aSq6-SWAxU3S_EDHd43DAUQ8tMDegQIPhAS",
+   "10": "https://www.google.com/search?q=%22Porterville+Panther+Band%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuCbUanBNkkP5x3AzEz7tk03vk4Zw:1789071668631&ei=NBGjasuLJreWxc8P3u-wKA&start=90&sa=N&sstk=AS6-VmI_nm4RTlWCGZrElghbA_2oLKaTojiZcGeGDuU2fJr7UZcJcNqzA3vrOTuafnqarKvascIMb3DKBH2gitcI_vwX2xWDqqRn9A&ved=2ahUKEwjL9aSq6-SWAxU3S_EDHd43DAUQ8tMDegQIPhAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Porterville+Panther+Band%22&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Porterville+Panther+Band%22&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Porterville+Panther+Band%22&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Porterville+Panther+Band%22&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Porterville+Panther+Band%22&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Porterville+Panther+Band%22&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Porterville+Panther+Band%22&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Porterville+Panther+Band%22&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Porterville+Panther+Band%22&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Porterville+Panther+Band%22&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Porterville+Panther+Band%22&start=90"
+  }
+ }
+}

@@ -1,0 +1,479 @@
+{
+ "search_information": {
+  "query_displayed": "\"Liberty High School\"",
+  "total_results": 2200000,
+  "time_taken_displayed": 0.35,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "local_map": {
+  "image": "https://www.google.com/maps/vt/data=px73EkxnCskK-8cEKzgGqow2tqYwpuV9QOBkk_lL6W7LPGmiSqZN7E-Qg8JucNQqfYRDmLFYbdn4X6AYTzDexqymOXDc6ERP5R__bfuSTJCo5bUK-wWxwrzLWu118bZRC4aZ4xRO1SEo4f4mk36lOqTbHSmHBTHpelzRNxd7nVPMPENupCr-_t5ZFKCYPcl3q-3rHaXxmYoH2LmRT5ckJw-BTQgXnqqBdMC_1jNs9svQbk9fR8E8oPY0BeGhgvdtkGWxsFrGDlyZ0vLg14fbwXrmyw1I7v2qIrqc1FLeVsrQNhS9QcGlMQTbyMySZwIUhTrYnxtXw3hF-yiI6SX3zgRgg2cPkJ8IEcUEaRoOGXuzPN8XtRDYatQXOV4wZHmneVReGgqviVL5epaUzhXCG31SrDqqEC6Bwk3IaXxYLCRWmELBUPKz0voIap3HB_96KJ9NN5ZxU-DatFcf-q00JhxJnErysSChw5yIYsSmDun7QE8RDXaAW4dbw7DbodBy4BBXCz_BtBzgL63Q_ZUTuFfuOMOV58y5H9cskpvT_CEkwYJTa5bc2goZp0cpq8CLksAwsO76N4ZgnGQERp8G7LVur_JXpHbzFCLU2ohHfqpaZjPcAPKV93HRtxh6UJJXLJTHYes8cYj4Aunu31NkxRxtmhKhRvj4FaAEXtGOR5SrbYRie7umuMQzCGl1A1my3gjX2hEMpKcccufc0eEC_Wfxx7ClcYsJJPo0sE6qwQtog5UhzLhLu0Y9POTG9g5Q8su1eEv8ExICUHCac1sOFaXG1QyaM2gIbBUFyEcJ3k99VSHeMQ",
+  "gps_coordinates": {
+   "latitude": 38.03078569382294,
+   "longitude": -98.173828125
+  }
+ },
+ "local_results": {
+  "places": [
+   {
+    "position": 1,
+    "links": {
+     "website": "https://lhs.lps53.org/",
+     "directions": "https://www.google.com/maps/dir//Liberty+High+School,+200+Blue+Jay+Dr,+Liberty,+MO+64068/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x87c055862495630f:0xe43b1ba95586f83b?sa=X&ved=2ahUKEwiozrO_6eSWAxUPhf0HHTdEBqwQ48ADegQIIhAA&hl=en&gl=us"
+    },
+    "place_id": "16445768878371829819",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=16445768878371829819&q=%22Liberty+High+School%22",
+    "provider_id": "/m/0g7zjz",
+    "gps_coordinates": {
+     "latitude": 39.240865,
+     "longitude": -94.449031
+    },
+    "title": "Liberty High School",
+    "reviews_original": "No reviews",
+    "type": "High school",
+    "phone": "(816) 736-5340",
+    "address": "Liberty, MO",
+    "hours": "Closes soon \u00b7 3:15 PM"
+   },
+   {
+    "position": 2,
+    "links": {
+     "website": "http://www.libertyps.org/",
+     "directions": "https://www.google.com/maps/dir//Liberty+High+School,+2727+E+201st+St+S,+Mounds,+OK+74047/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x87b69b96dac893bf:0xb36b07ff40d8bd14?sa=X&ved=2ahUKEwiozrO_6eSWAxUPhf0HHTdEBqwQ48ADegQIIRAA&hl=en&gl=us"
+    },
+    "place_id": "12928435948183141652",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=12928435948183141652&q=%22Liberty+High+School%22",
+    "provider_id": "/m/076drj4",
+    "gps_coordinates": {
+     "latitude": 35.872101,
+     "longitude": -95.954806
+    },
+    "title": "Liberty High School",
+    "reviews_original": "No reviews",
+    "type": "High school",
+    "phone": "(918) 366-8496",
+    "address": "Mounds, OK",
+    "hours": "Closes soon \u00b7 4 PM"
+   },
+   {
+    "position": 3,
+    "links": {
+     "website": "https://www.friscoisd.org/o/lhs",
+     "directions": "https://www.google.com/maps/dir//Liberty+High+School,+15250+Rolater+Rd,+Frisco,+TX+75035/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x864c16238f9f10f9:0xbed7791af12d9a8?sa=X&ved=2ahUKEwiozrO_6eSWAxUPhf0HHTdEBqwQ48ADegQIMhAA&hl=en&gl=us",
+     "schedule": "https://www.catchcorner.com/facility-page/embedded/rental/liberty-hs?rwg_token=AE37R_ho5E7j7a3KUb8KJIvH2V23xLdCm65v1n2ATwowuVGAECRoBKGA4mdIvbqE84KcXFcfMzldnkeFnM75OPQ7JYuGVa2aSQ%3D%3D&source=cat"
+    },
+    "place_id": "859474571488844200",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=859474571488844200&q=%22Liberty+High+School%22",
+    "provider_id": "/m/0gpmxw",
+    "gps_coordinates": {
+     "latitude": 33.139221,
+     "longitude": -96.742683
+    },
+    "title": "Liberty High School",
+    "reviews_original": "No reviews",
+    "type": "High school",
+    "phone": "(469) 633-5800",
+    "address": "Frisco, TX",
+    "hours": "Open \u00b7 Closes 4:25 PM"
+   }
+  ],
+  "more_locations_link": "https://www.google.com/search?q=%22Liberty+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&udm=1&lsack=SA-jaqiKAo-K9u8Pt4iZ4Ao&sa=X&ved=2ahUKEwiozrO_6eSWAxUPhf0HHTdEBqwQjGp6BAhFEAA"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Liberty High School: Home",
+   "link": "https://lhs.lps53.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTgHrOzAVggXcGcM7oI__XRCAHh4jW-HGEcRV3l_vndP41v9sFJ6k7-JEfHfLyEaPj76IEf2P3p9GMMjgTshOx3F3_gwWd3_FPJ84Abpj8A&ved=2ahUKEwiozrO_6eSWAxUPhf0HHTdEBqwQFnoECB0QAQ&uoh=1",
+   "displayed_link": "https://lhs.lps53.org",
+   "favicon": "https://serpapi.com/searches/6aa30f3f874d509608c10e35/images/O20VukKo2kXTmIashwyBiZiTDt8M9gAzkEXP-nTkRPA.png",
+   "snippet": "Liberty High School provides opportunities for all to pursue their potential and positively influence society. Our Values. Community defines our culture.",
+   "snippet_highlighted_words": [
+    "Liberty High School"
+   ],
+   "sitelinks": {
+    "inline": [
+     {
+      "title": "Academics",
+      "link": "https://lhs.lps53.org/academics"
+     },
+     {
+      "title": "Our School",
+      "link": "https://lhs.lps53.org/our-school/about-us"
+     },
+     {
+      "title": "Our Staff",
+      "link": "https://lhs.lps53.org/our-staff"
+     },
+     {
+      "title": "Activities",
+      "link": "https://lhs.lps53.org/activities"
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Liberty High School provides opportunities for all to pursue their potential and positively influence society. Our Values. Community defines our culture.",
+     "source_info_link": "https://lhs.lps53.org/",
+     "icon": "https://serpapi.com/searches/6aa30f3f874d509608c10e35/images/O20VukKo2kXTmIashwyBiTYx4RC-8ybU6UXs4VbcyF89lLfLF11pGaNZYPTo39R3.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESTgHrOzAVggXcGcM7oI__XRCAHh4jW-HGEcRV3l_vndP41v9sFJ6k7-JEfHfLyEaPj76IEf2P3p9GMMjgTshOx3F3_gwWd3_FPJ84Abpj8A&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESTgHrOzAVggXcGcM7oI__XRCAHh4jW-HGEcRV3l_vndP41v9sFJ6k7-JEfHfLyEaPj76IEf2P3p9GMMjgTshOx3F3_gwWd3_FPJ84Abpj8A",
+   "source": "Liberty Public School District 53",
+   "read_more_link": "https://lhs.lps53.org/#:~:text=Upcoming%20Events"
+  },
+  {
+   "position": 2,
+   "title": "Liberty High School: Home",
+   "link": "https://lhs.luhsd.net/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTgHrOzAV71sPFu-s-7VM3CU11iG7y0A-zHCOWBa_NXLx2LACRw_i3fKH4uB_moTLg2p17K3MlEcX0ft9ie1n6X18hJryd2qPvzUoc4Jwag&ved=2ahUKEwiozrO_6eSWAxUPhf0HHTdEBqwQFnoECBoQAQ&uoh=1",
+   "displayed_link": "https://lhs.luhsd.net",
+   "favicon": "https://serpapi.com/searches/6aa30f3f874d509608c10e35/images/O20VukKo2kXTmIashwyBiYpHRbTSvuT1U95voB2Vwwk.png",
+   "snippet": "Liberty High School will empower students to be confident in their ability to pursue knowledge and post-secondary success, maturing into responsible community ...",
+   "snippet_highlighted_words": [
+    "Liberty High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Liberty High School will empower students to be confident in their ability to pursue knowledge and post-secondary success, maturing into responsible community ...",
+     "source_info_link": "https://lhs.luhsd.net/",
+     "icon": "https://serpapi.com/searches/6aa30f3f874d509608c10e35/images/O20VukKo2kXTmIashwyBiSZqYMVY4-DEVDQp3GClTRtrb6Pk_gXZd9QEvNj760w9.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESTgHrOzAV71sPFu-s-7VM3CU11iG7y0A-zHCOWBa_NXLx2LACRw_i3fKH4uB_moTLg2p17K3MlEcX0ft9ie1n6X18hJryd2qPvzUoc4Jwag&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESTgHrOzAV71sPFu-s-7VM3CU11iG7y0A-zHCOWBa_NXLx2LACRw_i3fKH4uB_moTLg2p17K3MlEcX0ft9ie1n6X18hJryd2qPvzUoc4Jwag",
+   "source": "Liberty High School",
+   "read_more_link": "https://lhs.luhsd.net/#:~:text=Liberty%20High%20School%20will%20empower,maturing%20into%20responsible%20community%20members."
+  },
+  {
+   "position": 3,
+   "title": "Home | Liberty High School",
+   "link": "https://schools.friscoisd.org/campus/high-school/liberty/home",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAVZ-jnZ2bYdNUoz-EBpf1QF9eaq4VeMd3evlmI1IUBT26k6ZBJhFxrZJcjs3EtlYxMNrRQ_7YS0bXHoP8SQLagbdbEbZhan2j_CFSDhLX5iNha6pRVGvZmnefBRME09xbMmChL_zhVkDO-2pwA-h-_rw&ved=2ahUKEwiozrO_6eSWAxUPhf0HHTdEBqwQFnoECBwQAQ&uoh=1",
+   "displayed_link": "https://schools.friscoisd.org \u203a campus \u203a liberty",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAABFFBMVEVHcEz39_SUqLjuzWzq7Or18eD_______zG0Nn68NL7-vagscD___LDztf58dny3qCUp7f56bv346bvx1P2247-_fbvyFP9-Of01n-1nkaotLO_ytOLobPX3uX34qf346fuxEz88Mv578z778z02o-MnJ-MorT02Iby0nLm16L36sT86a3NrkuKiWKqtbW6xtC3xM-In7CZrLuAl6r468GUp7f7-fHxzm7azqL125DfuT3pxmGloHjwwDmlq5qvsZm3s43AvqHpsgj___-brbjl6_Dqth7W3eP8_f7twDnJ09rk6e37_PyptLOppIHFoCPbqACTl364mCOElJKzv8SbkFF8hW2kkTmot8GitMLc5OyepJb2z9_1AAAAQnRSTlMACrrcGSUBBBoaDuAQ_DqYfG2r_Yor8D7W_Mk8rSTRXd9VkXPP5eHip4aKVu7-2HFmz_bE27Kt-pjB_tT27OTv_PU75UWJAAABD0lEQVQokd2Q13KDMBBFITIQOxgCprv37vTeRQumuaX__39EgOEhky_wediR9s7eKy2G7SoU_n-fjIo8io_kHw1nCFS5GzRKNemsm89FECOWYAgWyCJerxXSlOOzvZjZkzbTHu81tgnYzK98Ytiu6xYNxJdpB0CRmMyWrF7Mdd3zn1-m6ofhBrdOh29htJxP5MOip3ufy591CMP36cJySm2hzxNJaiTq9uZ7E1oPExVCeCVJQm7rG0_6b8F6MhiPhYYFYYlnqESsVlDmq79aqEP0EKreQKLSFsVILldObdM058vVXRxDDyzo9IetS3Sjjrq9g4he9zr-AckBAJRO7ZxDS8T3UwrkdmUJ6Zp2gl_-giXRzbNZaQAAAABJRU5ErkJggg.png",
+   "snippet": "Liberty High School. Elementary Schools Middle Schools High Schools Program ... Liberty High School. 15250 Rolater RoadFrisco, TX 75035469.633.5800 ...",
+   "snippet_highlighted_words": [
+    "Liberty High School",
+    "Liberty High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Liberty High School. Elementary Schools Middle Schools High Schools Program ... Liberty High School. 15250 Rolater RoadFrisco, TX 75035469.633.5800 ...",
+     "source_info_link": "https://schools.friscoisd.org/campus/high-school/liberty/home",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAABFFBMVEVHcEz39_SUqLjuzWzq7Or18eD_______zG0Nn68NL7-vagscD___LDztf58dny3qCUp7f56bv346bvx1P2247-_fbvyFP9-Of01n-1nkaotLO_ytOLobPX3uX34qf346fuxEz88Mv578z778z02o-MnJ-MorT02Iby0nLm16L36sT86a3NrkuKiWKqtbW6xtC3xM-In7CZrLuAl6r468GUp7f7-fHxzm7azqL125DfuT3pxmGloHjwwDmlq5qvsZm3s43AvqHpsgj___-brbjl6_Dqth7W3eP8_f7twDnJ09rk6e37_PyptLOppIHFoCPbqACTl364mCOElJKzv8SbkFF8hW2kkTmot8GitMLc5OyepJb2z9_1AAAAQnRSTlMACrrcGSUBBBoaDuAQ_DqYfG2r_Yor8D7W_Mk8rSTRXd9VkXPP5eHip4aKVu7-2HFmz_bE27Kt-pjB_tT27OTv_PU75UWJAAABD0lEQVQokd2Q13KDMBBFITIQOxgCprv37vTeRQumuaX__39EgOEhky_wediR9s7eKy2G7SoU_n-fjIo8io_kHw1nCFS5GzRKNemsm89FECOWYAgWyCJerxXSlOOzvZjZkzbTHu81tgnYzK98Ytiu6xYNxJdpB0CRmMyWrF7Mdd3zn1-m6ofhBrdOh29htJxP5MOip3ufy591CMP36cJySm2hzxNJaiTq9uZ7E1oPExVCeCVJQm7rG0_6b8F6MhiPhYYFYYlnqESsVlDmq79aqEP0EKreQKLSFsVILldObdM058vVXRxDDyzo9IetS3Sjjrq9g4he9zr-AckBAJRO7ZxDS8T3UwrkdmUJ6Zp2gl_-giXRzbNZaQAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdQHrOzAVZ-jnZ2bYdNUoz-EBpf1QF9eaq4VeMd3evlmI1IUBT26k6ZBJhFxrZJcjs3EtlYxMNrRQ_7YS0bXHoP8SQLagbdbEbZhan2j_CFSDhLX5iNha6pRVGvZmnefBRME09xbMmChL_zhVkDO-2pwA-h-_rw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdQHrOzAVZ-jnZ2bYdNUoz-EBpf1QF9eaq4VeMd3evlmI1IUBT26k6ZBJhFxrZJcjs3EtlYxMNrRQ_7YS0bXHoP8SQLagbdbEbZhan2j_CFSDhLX5iNha6pRVGvZmnefBRME09xbMmChL_zhVkDO-2pwA-h-_rw",
+   "source": "Frisco ISD",
+   "read_more_link": "https://schools.friscoisd.org/campus/high-school/liberty/home#:~:text=Liberty%20High%20School&text=Liberty%20High%20School,Rolater%20RoadFrisco%2C%20TX%2075035469.633.5800469.633.5850%20(fax)"
+  },
+  {
+   "position": 4,
+   "title": "Liberty High School - Home",
+   "link": "https://lbhs.osceolaschools.net/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWAHrOzAV-bg6FTyAypi5zMAwhuIyXzIb8_6LsR12QcvIUnvRiWaXsCm2XQP5RvWL0SW-PGFLaz2Pr8Jf7-12IpLd9-ITreBQ2EcSmsZO0kr-K7MhaS5jwqI&ved=2ahUKEwiozrO_6eSWAxUPhf0HHTdEBqwQFnoECBgQAQ&uoh=1",
+   "displayed_link": "https://lbhs.osceolaschools.net",
+   "favicon": "https://serpapi.com/searches/6aa30f3f874d509608c10e35/images/O20VukKo2kXTmIashwyBiRLJAdf5AUcZML5a2WkZg0Y.png",
+   "snippet": "Liberty High School. Address: 4250 Pleasant Hill RoadKissimmee, FL 34746. Phone: 407-933-3910 \u00b7 Site Map \u00b7 Accessibility \u00b7 Sign In. Contents \u00a9 2026 Liberty High ...",
+   "snippet_highlighted_words": [
+    "Liberty High School",
+    "Liberty High"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Liberty High School. Address: 4250 Pleasant Hill RoadKissimmee, FL 34746. Phone: 407-933-3910 \u00b7 Site Map \u00b7 Accessibility \u00b7 Sign In. Contents \u00a9 2026 Liberty High ...",
+     "source_info_link": "https://lbhs.osceolaschools.net/",
+     "icon": "https://serpapi.com/searches/6aa30f3f874d509608c10e35/images/O20VukKo2kXTmIashwyBiWKR_X9I5xxdaSNm-_-e1dzUy4t3gP-pwBmHUe2wL7Fk.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESWAHrOzAV-bg6FTyAypi5zMAwhuIyXzIb8_6LsR12QcvIUnvRiWaXsCm2XQP5RvWL0SW-PGFLaz2Pr8Jf7-12IpLd9-ITreBQ2EcSmsZO0kr-K7MhaS5jwqI&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESWAHrOzAV-bg6FTyAypi5zMAwhuIyXzIb8_6LsR12QcvIUnvRiWaXsCm2XQP5RvWL0SW-PGFLaz2Pr8Jf7-12IpLd9-ITreBQ2EcSmsZO0kr-K7MhaS5jwqI",
+   "source": "Osceola School District",
+   "read_more_link": "https://lbhs.osceolaschools.net/#:~:text=Liberty%20High%20School,%C2%A9%202026%20Liberty%20High%20School"
+  },
+  {
+   "position": 5,
+   "title": "Liberty High School: Home - Iowa City",
+   "link": "https://liberty.iowacityschools.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXAHrOzAVLEl4BvOhz_j9UJpwaBcH5ntrFSVnC6zpCRJFu9opAdw8oYlpdowX6lmWc35j4Pb__YvqmuOh-7zNA8ELTRQxswpTyOmRi4zyw16XkakeXPuG7VidhHy0&ved=2ahUKEwiozrO_6eSWAxUPhf0HHTdEBqwQFnoECBkQAQ&uoh=1",
+   "displayed_link": "https://liberty.iowacityschools.org",
+   "favicon": "https://serpapi.com/searches/6aa30f3f874d509608c10e35/images/O20VukKo2kXTmIashwyBiYSYUmyl8xMXxFVTtdwWCRQ.png",
+   "snippet": "Home - Liberty High School. ... Liberty High School. 1400 South Dubuque Street. North Liberty. Iowa. 52317. (319) 688-1350. (319) 688-1359. Quicklinks. Contact Us ...",
+   "snippet_highlighted_words": [
+    "Liberty High School",
+    "Liberty High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Home - Liberty High School. ... Liberty High School. 1400 South Dubuque Street. North Liberty. Iowa. 52317. (319) 688-1350. (319) 688-1359. Quicklinks. Contact Us ...",
+     "source_info_link": "https://liberty.iowacityschools.org/",
+     "icon": "https://serpapi.com/searches/6aa30f3f874d509608c10e35/images/O20VukKo2kXTmIashwyBib_LDfSXs_RLTgwoukTWrve2FtUwOx-cQTTeHB_e-wH7.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESXAHrOzAVLEl4BvOhz_j9UJpwaBcH5ntrFSVnC6zpCRJFu9opAdw8oYlpdowX6lmWc35j4Pb__YvqmuOh-7zNA8ELTRQxswpTyOmRi4zyw16XkakeXPuG7VidhHy0&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESXAHrOzAVLEl4BvOhz_j9UJpwaBcH5ntrFSVnC6zpCRJFu9opAdw8oYlpdowX6lmWc35j4Pb__YvqmuOh-7zNA8ELTRQxswpTyOmRi4zyw16XkakeXPuG7VidhHy0",
+   "source": "Finalsite",
+   "read_more_link": "https://liberty.iowacityschools.org/#:~:text=Liberty%20High%20School,Contact%20Us"
+  },
+  {
+   "position": 6,
+   "title": "Liberty High School: Home - Hillsboro",
+   "link": "https://liberty.hsd.k12.or.us/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVgHrOzAVfjB7Dpuag0oTc4DAQdrn_tGsUzpUnBzQ3_c7oK6OtSswMWU5KPGUdg5WJeEFcoza59Q1Z_fDKiA4UOeKPXxC5n-uq5WL_FF0t1YuIgF-7Zwh&ved=2ahUKEwiozrO_6eSWAxUPhf0HHTdEBqwQFnoECBsQAQ&uoh=1",
+   "displayed_link": "https://liberty.hsd.k12.or.us",
+   "favicon": "https://serpapi.com/searches/6aa30f3f874d509608c10e35/images/O20VukKo2kXTmIashwyBidPOTwzSBNEh2WeGOTMuWY8.png",
+   "snippet": "Congratulations 2025 Liberty High School Graduates! See photos from their ceremony on Saturday, June 7 at Hillsboro Stadium.. Click Here.",
+   "snippet_highlighted_words": [
+    "Liberty High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Congratulations 2025 Liberty High School Graduates! See photos from their ceremony on Saturday, June 7 at Hillsboro Stadium.. Click Here.",
+     "source_info_link": "https://liberty.hsd.k12.or.us/",
+     "icon": "https://serpapi.com/searches/6aa30f3f874d509608c10e35/images/O20VukKo2kXTmIashwyBiX02ExLuPGJHu8IGyS9wiC-_73oKKJQrjfceScG_c2CC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESVgHrOzAVfjB7Dpuag0oTc4DAQdrn_tGsUzpUnBzQ3_c7oK6OtSswMWU5KPGUdg5WJeEFcoza59Q1Z_fDKiA4UOeKPXxC5n-uq5WL_FF0t1YuIgF-7Zwh&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESVgHrOzAVfjB7Dpuag0oTc4DAQdrn_tGsUzpUnBzQ3_c7oK6OtSswMWU5KPGUdg5WJeEFcoza59Q1Z_fDKiA4UOeKPXxC5n-uq5WL_FF0t1YuIgF-7Zwh",
+   "source": "Hillsboro School District",
+   "read_more_link": "https://liberty.hsd.k12.or.us/#:~:text=Calendar"
+  },
+  {
+   "position": 7,
+   "title": "Liberty High School | Liberty MO",
+   "link": "https://www.facebook.com/LHSJAYS/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWQHrOzAV7Uukw0nwTc87WqXVRw8fxI6PG-nQPaXxJcca9rDCR-cL5GWxbhNnt8PPU2KdntJ-KijACD9HVIhJHfX8RNynD3AUHuAg8fPI_3Y5YKwCN6pd0mVK&ved=2ahUKEwiozrO_6eSWAxUPhf0HHTdEBqwQFnoECBUQAQ&uoh=1",
+   "displayed_link": "2.4K+ followers",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "snippet": "Liberty High School ; 60% recommend (12 reviews) ; Closed now ; 200 Blue Jay Dr, Liberty, MO, United States, 64068 ...",
+   "snippet_highlighted_words": [
+    "Liberty High School"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 3.0,
+      "reviews": 14
+     },
+     "extensions": [
+      "3.0(14)"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Liberty High School ; 60% recommend (12 reviews) ; Closed now ; 200 Blue Jay Dr, Liberty, MO, United States, 64068 ...",
+     "source_info_link": "https://www.facebook.com/LHSJAYS/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESWQHrOzAV7Uukw0nwTc87WqXVRw8fxI6PG-nQPaXxJcca9rDCR-cL5GWxbhNnt8PPU2KdntJ-KijACD9HVIhJHfX8RNynD3AUHuAg8fPI_3Y5YKwCN6pd0mVK&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESWQHrOzAV7Uukw0nwTc87WqXVRw8fxI6PG-nQPaXxJcca9rDCR-cL5GWxbhNnt8PPU2KdntJ-KijACD9HVIhJHfX8RNynD3AUHuAg8fPI_3Y5YKwCN6pd0mVK",
+   "source": "Facebook \u00b7 Liberty High School",
+   "read_more_link": "https://www.facebook.com/LHSJAYS/#:~:text=Liberty%20High%20School&text=60%25%20recommend%20(12%20reviews)&text=Closed%20now&text=200%20Blue%20Jay%20Dr%2C%20Liberty%2C,MO%2C%20United%20States%2C%2064068"
+  },
+  {
+   "position": 8,
+   "title": "Liberty High School - Jersey City",
+   "link": "https://lhs.jcboe.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTgHrOzAV3KfEKAZjPvjVTh3Peqm5A-5j5m1VvPnSxTpYW7qJQ7P9UrDWERXuwSRuaGxz53TB259krysQ8Y77Bp18v8bwuCXyRl3sKFy6nA&ved=2ahUKEwiozrO_6eSWAxUPhf0HHTdEBqwQFnoECBQQAQ&uoh=1",
+   "displayed_link": "https://lhs.jcboe.org",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAbFBMVEX____-_v75-fn39_fu7u7j4-PGxsalpKShoKGYl5e8u7va2drr6-vPz8-4t7fh4eGysbGtrK3o6OjBwMClo6TOzc3v7-_T09M7ODr09PQTExR0cnKIhodFRUQAAABZWFhQTk9oZ2deXF19fHw_cDs_AAABpUlEQVR4AWyPB2KFIAxAQ4QoRFkpUqp_ev87Vn_3eGweI4EvFGKHiPAP2lA_WNs7Hn_7bvLehQgpi_MSfrjwRKm4XIBmV71I-eY4PRvPrcOmEIMUW-XrHquXuL_svA9hYjT9mOjjv-hpCTml6Kv30TmGlQK_X-xP5_PSSq3cplprKQicBA-nC1_S9QYHH0kokvK4mmMoe3JKNa0myGFXChTHCQFUmQiT7zToyCuJyQ0UYK1OA2AShnRXIyqz3u9bdO24Oko8pHUVjAPUtd-sXTej1CGZZoDO4t4rVAgUnbhVw0M6346bqexyhpbTc1O01X0FkGM8ZML5OGnaYJdtIVoYYA7ayAig3CNfFcLN1usVjYhGWbRLGgCCcAYFnb_G0RPfRLO53LiWbpc6DrxLvWxxrSqde5inrXBi2FGFXFWQ72m4NUOXu4FBpBYNB9lbBhjvi3XODHY1XPecC7xRmDbAOUkNs_UGoGzZwQfSm16aZKOoBjYJq0X4pJSBEplQZsOlinMNvlFJovGjnckVTwQ_aVx8pEiSiDP8AcdZt3lv8DriAABZaBt8zsv-owAAAABJRU5ErkJggg.png",
+   "snippet": "Liberty High School is committed to providing its students with a small learning environment that is an alternative to the large comprehensive high schools ...",
+   "snippet_highlighted_words": [
+    "Liberty High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Liberty High School is committed to providing its students with a small learning environment that is an alternative to the large comprehensive high schools ...",
+     "source_info_link": "https://lhs.jcboe.org/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAbFBMVEX____-_v75-fn39_fu7u7j4-PGxsalpKShoKGYl5e8u7va2drr6-vPz8-4t7fh4eGysbGtrK3o6OjBwMClo6TOzc3v7-_T09M7ODr09PQTExR0cnKIhodFRUQAAABZWFhQTk9oZ2deXF19fHw_cDs_AAABpUlEQVR4AWyPB2KFIAxAQ4QoRFkpUqp_ev87Vn_3eGweI4EvFGKHiPAP2lA_WNs7Hn_7bvLehQgpi_MSfrjwRKm4XIBmV71I-eY4PRvPrcOmEIMUW-XrHquXuL_svA9hYjT9mOjjv-hpCTml6Kv30TmGlQK_X-xP5_PSSq3cplprKQicBA-nC1_S9QYHH0kokvK4mmMoe3JKNa0myGFXChTHCQFUmQiT7zToyCuJyQ0UYK1OA2AShnRXIyqz3u9bdO24Oko8pHUVjAPUtd-sXTej1CGZZoDO4t4rVAgUnbhVw0M6346bqexyhpbTc1O01X0FkGM8ZML5OGnaYJdtIVoYYA7ayAig3CNfFcLN1usVjYhGWbRLGgCCcAYFnb_G0RPfRLO53LiWbpc6DrxLvWxxrSqde5inrXBi2FGFXFWQ72m4NUOXu4FBpBYNB9lbBhjvi3XODHY1XPecC7xRmDbAOUkNs_UGoGzZwQfSm16aZKOoBjYJq0X4pJSBEplQZsOlinMNvlFJovGjnckVTwQ_aVx8pEiSiDP8AcdZt3lv8DriAABZaBt8zsv-owAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESTgHrOzAV3KfEKAZjPvjVTh3Peqm5A-5j5m1VvPnSxTpYW7qJQ7P9UrDWERXuwSRuaGxz53TB259krysQ8Y77Bp18v8bwuCXyRl3sKFy6nA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESTgHrOzAV3KfEKAZjPvjVTh3Peqm5A-5j5m1VvPnSxTpYW7qJQ7P9UrDWERXuwSRuaGxz53TB259krysQ8Y77Bp18v8bwuCXyRl3sKFy6nA",
+   "source": "Jersey City Public Schools",
+   "read_more_link": "https://lhs.jcboe.org/#:~:text=Liberty%20High%20School%20is%20committed,high%20schools%20in%20the%20district."
+  },
+  {
+   "position": 9,
+   "title": "Liberty High School: Home",
+   "link": "https://liberty.isd411.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUwHrOzAVmUiGQNepLIOC2lbtoSgdZ1fOY7xYTY0sL761C54gEkvR1kC-uDLRtPYhBtzn34W_VQOdQvidWHE1NT1jB4T4puWjFKSIGIylok3cj10k&ved=2ahUKEwiozrO_6eSWAxUPhf0HHTdEBqwQFnoECFIQAQ&uoh=1",
+   "displayed_link": "https://liberty.isd411.org",
+   "favicon": "https://serpapi.com/searches/6aa30f3f874d509608c10e35/images/O20VukKo2kXTmIashwyBib8Az19K30zX-VfTSgvE4z0.png",
+   "snippet": "Welcome to Liberty High School! Located in Renton, WA, Liberty serves approximately 1,400 students in grades 9-12. Read more about Our School.",
+   "snippet_highlighted_words": [
+    "Liberty High School"
+   ],
+   "sitelinks": {
+    "inline": [
+     {
+      "title": "Our School",
+      "link": "https://liberty.isd411.org/our-school"
+     },
+     {
+      "title": "Academics",
+      "link": "https://liberty.isd411.org/academics"
+     },
+     {
+      "title": "Families & Community",
+      "link": "https://liberty.isd411.org/families-community"
+     },
+     {
+      "title": "Student Life",
+      "link": "https://liberty.isd411.org/student-life"
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Welcome to Liberty High School! Located in Renton, WA, Liberty serves approximately 1,400 students in grades 9-12. Read more about Our School.",
+     "source_info_link": "https://liberty.isd411.org/",
+     "icon": "https://serpapi.com/searches/6aa30f3f874d509608c10e35/images/O20VukKo2kXTmIashwyBiVoaJae4m3Im4y0oXkBsNCA1ehTR3n60tF3TtFpJoKPc.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESUwHrOzAVmUiGQNepLIOC2lbtoSgdZ1fOY7xYTY0sL761C54gEkvR1kC-uDLRtPYhBtzn34W_VQOdQvidWHE1NT1jB4T4puWjFKSIGIylok3cj10k&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESUwHrOzAVmUiGQNepLIOC2lbtoSgdZ1fOY7xYTY0sL761C54gEkvR1kC-uDLRtPYhBtzn34W_VQOdQvidWHE1NT1jB4T4puWjFKSIGIylok3cj10k",
+   "source": "Issaquah School District",
+   "read_more_link": "https://liberty.isd411.org/#:~:text=Welcome%20to%20Liberty%20High%20School!,Read%20more%20about%20Our%20School."
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Liberty High School football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Liberty+High+School+football&sa=X&ved=2ahUKEwiozrO_6eSWAxUPhf0HHTdEBqwQ1QJ6BAhPEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Liberty+High+School+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Liberty high school mn",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Liberty+high+school+mn&sa=X&ved=2ahUKEwiozrO_6eSWAxUPhf0HHTdEBqwQ1QJ6BAhREAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Liberty+high+school+mn"
+  },
+  {
+   "block_position": 1,
+   "query": "Liberty High school 13 Reasons Why",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Liberty+High+school+13+Reasons+Why&sa=X&ved=2ahUKEwiozrO_6eSWAxUPhf0HHTdEBqwQ1QJ6BAhLEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Liberty+High+school+13+Reasons+Why"
+  },
+  {
+   "block_position": 1,
+   "query": "Liberty High School MO",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Liberty+High+School+MO&sa=X&ved=2ahUKEwiozrO_6eSWAxUPhf0HHTdEBqwQ1QJ6BAhMEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Liberty+High+School+MO"
+  },
+  {
+   "block_position": 1,
+   "query": "Liberty High School photos",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Liberty+High+School+photos&sa=X&ved=2ahUKEwiozrO_6eSWAxUPhf0HHTdEBqwQ1QJ6BAhOEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Liberty+High+School+photos"
+  },
+  {
+   "block_position": 1,
+   "query": "Liberty High School AZ",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Liberty+High+School+AZ&sa=X&ved=2ahUKEwiozrO_6eSWAxUPhf0HHTdEBqwQ1QJ6BAhQEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Liberty+High+School+AZ"
+  },
+  {
+   "block_position": 1,
+   "query": "Liberty High School mascot",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Liberty+High+School+mascot&sa=X&ved=2ahUKEwiozrO_6eSWAxUPhf0HHTdEBqwQ1QJ6BAhKEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Liberty+High+School+mascot"
+  },
+  {
+   "block_position": 1,
+   "query": "Liberty High School MaxPreps",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Liberty+High+School+MaxPreps&sa=X&ved=2ahUKEwiozrO_6eSWAxUPhf0HHTdEBqwQ1QJ6BAhNEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Liberty+High+School+MaxPreps"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Liberty+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=SA-jaqiKAo-K9u8Pt4iZ4Ao&start=10&sa=N&sstk=AS6-VmJUXIulccYzi8LgkvJSQ6J67m0o73j7dGgzNbVFau3E79_xmWgbKBY-S9AHUNj_f9PI9v1a1UGcEy-0bhpxxvcvRXDex30zSA&ved=2ahUKEwiozrO_6eSWAxUPhf0HHTdEBqwQ8NMDegQIRhAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Liberty+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=SA-jaqiKAo-K9u8Pt4iZ4Ao&start=10&sa=N&sstk=AS6-VmJUXIulccYzi8LgkvJSQ6J67m0o73j7dGgzNbVFau3E79_xmWgbKBY-S9AHUNj_f9PI9v1a1UGcEy-0bhpxxvcvRXDex30zSA&ved=2ahUKEwiozrO_6eSWAxUPhf0HHTdEBqwQ8tMDegQIRhAE",
+   "3": "https://www.google.com/search?q=%22Liberty+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=SA-jaqiKAo-K9u8Pt4iZ4Ao&start=20&sa=N&sstk=AS6-VmJUXIulccYzi8LgkvJSQ6J67m0o73j7dGgzNbVFau3E79_xmWgbKBY-S9AHUNj_f9PI9v1a1UGcEy-0bhpxxvcvRXDex30zSA&ved=2ahUKEwiozrO_6eSWAxUPhf0HHTdEBqwQ8tMDegQIRhAG",
+   "4": "https://www.google.com/search?q=%22Liberty+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=SA-jaqiKAo-K9u8Pt4iZ4Ao&start=30&sa=N&sstk=AS6-VmJUXIulccYzi8LgkvJSQ6J67m0o73j7dGgzNbVFau3E79_xmWgbKBY-S9AHUNj_f9PI9v1a1UGcEy-0bhpxxvcvRXDex30zSA&ved=2ahUKEwiozrO_6eSWAxUPhf0HHTdEBqwQ8tMDegQIRhAI",
+   "5": "https://www.google.com/search?q=%22Liberty+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=SA-jaqiKAo-K9u8Pt4iZ4Ao&start=40&sa=N&sstk=AS6-VmJUXIulccYzi8LgkvJSQ6J67m0o73j7dGgzNbVFau3E79_xmWgbKBY-S9AHUNj_f9PI9v1a1UGcEy-0bhpxxvcvRXDex30zSA&ved=2ahUKEwiozrO_6eSWAxUPhf0HHTdEBqwQ8tMDegQIRhAK",
+   "6": "https://www.google.com/search?q=%22Liberty+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=SA-jaqiKAo-K9u8Pt4iZ4Ao&start=50&sa=N&sstk=AS6-VmJUXIulccYzi8LgkvJSQ6J67m0o73j7dGgzNbVFau3E79_xmWgbKBY-S9AHUNj_f9PI9v1a1UGcEy-0bhpxxvcvRXDex30zSA&ved=2ahUKEwiozrO_6eSWAxUPhf0HHTdEBqwQ8tMDegQIRhAM",
+   "7": "https://www.google.com/search?q=%22Liberty+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=SA-jaqiKAo-K9u8Pt4iZ4Ao&start=60&sa=N&sstk=AS6-VmJUXIulccYzi8LgkvJSQ6J67m0o73j7dGgzNbVFau3E79_xmWgbKBY-S9AHUNj_f9PI9v1a1UGcEy-0bhpxxvcvRXDex30zSA&ved=2ahUKEwiozrO_6eSWAxUPhf0HHTdEBqwQ8tMDegQIRhAO",
+   "8": "https://www.google.com/search?q=%22Liberty+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=SA-jaqiKAo-K9u8Pt4iZ4Ao&start=70&sa=N&sstk=AS6-VmJUXIulccYzi8LgkvJSQ6J67m0o73j7dGgzNbVFau3E79_xmWgbKBY-S9AHUNj_f9PI9v1a1UGcEy-0bhpxxvcvRXDex30zSA&ved=2ahUKEwiozrO_6eSWAxUPhf0HHTdEBqwQ8tMDegQIRhAQ",
+   "9": "https://www.google.com/search?q=%22Liberty+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=SA-jaqiKAo-K9u8Pt4iZ4Ao&start=80&sa=N&sstk=AS6-VmJUXIulccYzi8LgkvJSQ6J67m0o73j7dGgzNbVFau3E79_xmWgbKBY-S9AHUNj_f9PI9v1a1UGcEy-0bhpxxvcvRXDex30zSA&ved=2ahUKEwiozrO_6eSWAxUPhf0HHTdEBqwQ8tMDegQIRhAS",
+   "10": "https://www.google.com/search?q=%22Liberty+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=SA-jaqiKAo-K9u8Pt4iZ4Ao&start=90&sa=N&sstk=AS6-VmJUXIulccYzi8LgkvJSQ6J67m0o73j7dGgzNbVFau3E79_xmWgbKBY-S9AHUNj_f9PI9v1a1UGcEy-0bhpxxvcvRXDex30zSA&ved=2ahUKEwiozrO_6eSWAxUPhf0HHTdEBqwQ8tMDegQIRhAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Liberty+High+School%22&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Liberty+High+School%22&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Liberty+High+School%22&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Liberty+High+School%22&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Liberty+High+School%22&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Liberty+High+School%22&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Liberty+High+School%22&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Liberty+High+School%22&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Liberty+High+School%22&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Liberty+High+School%22&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Liberty+High+School%22&start=90"
+  }
+ }
+}

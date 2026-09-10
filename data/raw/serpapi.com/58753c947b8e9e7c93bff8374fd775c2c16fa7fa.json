@@ -1,0 +1,660 @@
+{
+ "search_information": {
+  "query_displayed": "\"Maui High School\" Hawaii",
+  "total_results": 196000,
+  "time_taken_displayed": 0.27,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Maui High School",
+  "type": "High school in Kahului, Hawaii",
+  "entity_type": "local_nav",
+  "kgmid": "/m/026slq5",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/026slq5&hl=en-US&q=Maui+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F026slq5&q=Maui+High+School",
+  "place_id": "ChIJc2PBJv3SVHkRsqCqxOUjxCA",
+  "website": "http://mauihigh.org/",
+  "description": "Maui High School is a public high school founded in 1913 in Hamakuapoko, a sugarcane plantation town on the island of Maui in Hawaii. In 1972, the school moved to its new location in Kahului, Hawaii.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa30f919c2312f320c904ca/images/a4j6KHpWmHQ8XeOPRfybFl1sDiwtupjhaQjiYBARXhw.webp",
+   "link": "https://www.google.com/maps/place/Maui+High+School/data=!4m2!3m1!1s0x0:0x20c423e5c4aaa0b2?sa=X&ved=2ahUKEwjEjLnn6eSWAxVY4TgGHdGVGPkQ_BJ6BAhUEAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Maui_High_School"
+  },
+  "address": "660 Lono Ave, Kahului, HI 96732",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=maui+high+school+address&ludocid=2361051574402982066&sa=X&ved=2ahUKEwjEjLnn6eSWAxVY4TgGHdGVGPkQ6BN6BAhWEAI"
+   }
+  ],
+  "color": "Royal blue",
+  "color_links": [
+   {
+    "text": "Color",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=maui+high+school+color&stick=H4sIAAAAAAAAAOPgE-LSz9U3MDIrzik01dLOTrbST00pTU4syczPQ7ASc-Iz84pLMktKQTyr5Pyc_KJFrGK5iaWZChmZ6RkKxckZ-fk5CmAJAM8f-KFUAAAA&sa=X&ved=2ahUKEwjEjLnn6eSWAxVY4TgGHdGVGPkQ6BN6BAhZEAI"
+   },
+   {
+    "text": "Royal blue",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ySFucFmVJiMIoTJ4OD53zfeRbCE5aZDbmf6ASd325RxejgF8DpOj3PujQ1E8sqK3dBEuQdA_Ct79IxZecGwGsfofGr4lFMLVvStpHTvd9tWnewQELTbX3cAhENrCz2yVh9IuuDESD27Z2edvhoHptOTEm8D8&sa=X&ved=2ahUKEwjEjLnn6eSWAxVY4TgGHdGVGPkQmxN6BAhZEAM"
+   }
+  ],
+  "founded": "1913",
+  "founded_links": [
+   {
+    "text": "Founded",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=maui+high+school+founded&stick=H4sIAAAAAAAAAOPgE-LSz9U3MDIrzik01VLNTrbSzy9KT8zLrEosyczPQ-FYpeWX5qWkpixilchNLM1UyMhMz1AoTs7Iz89RgEoBAParJxhQAAAA&sa=X&ved=2ahUKEwjEjLnn6eSWAxVY4TgGHdGVGPkQ6BN6BAhaEAI"
+   }
+  ],
+  "school_type": "Co-education",
+  "school_type_links": [
+   {
+    "text": "School type",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=maui+high+school+school+type&stick=H4sIAAAAAAAAAOPgE-LSz9U3MDIrzik01TLMTrbST00pTU4syczPQ7ASc-Iz84pLMktKQTyr4uSM_PwchZLKgtRFrDK5iaWZChmZ6RkKUHEkaQAGE78BYAAAAA&sa=X&ved=2ahUKEwjEjLnn6eSWAxVY4TgGHdGVGPkQ6BN6BAhbEAI"
+   },
+   {
+    "text": "Co-education",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Co-education&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yVP88BQLNV4l2hiBkjJJlLaOcH_ZS5R9aq12Ur7c9XBUKAm-4qGOf05R0Ulb_qPnKZaZ9yhkuzLNbB3QV5O4D_secRr0N55E5tbQjjnTg9Y61TSmJWdoSc-EYLIZ2rviP1JV0AuNDnPM5uILXxYYzUyzf-rs&sa=X&ved=2ahUKEwjEjLnn6eSWAxVY4TgGHdGVGPkQmxN6BAhbEAM"
+   }
+  ],
+  "phone": "(808) 727-4000",
+  "phone_links": [
+   {
+    "text": "Phone",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=maui+high+school+phone&ludocid=2361051574402982066&sa=X&ved=2ahUKEwjEjLnn6eSWAxVY4TgGHdGVGPkQ6BN6BAhXEAI"
+   }
+  ],
+  "raw_hours": "Open \u00b7 Closes 4 - 30 PM",
+  "hours": {
+   "thursday": {
+    "opens": "7:30\u202fAM",
+    "closes": "4:30\u202fPM"
+   },
+   "friday": {
+    "opens": "7:30\u202fAM",
+    "closes": "4:30\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "7:30\u202fAM",
+    "closes": "4:30\u202fPM"
+   },
+   "tuesday": {
+    "opens": "7:30\u202fAM",
+    "closes": "4:30\u202fPM"
+   },
+   "wednesday": {
+    "opens": "7:30\u202fAM",
+    "closes": "4:30\u202fPM"
+   }
+  },
+  "unclaimed_listing": true,
+  "people_also_search_for": [
+   {
+    "name": "Baldwin High School",
+    "image": "https://serpapi.com/searches/6aa30f919c2312f320c904ca/images/a4j6KHpWmHQ8XeOPRfybFvPYruib5JDc5_X-FLh0jYxCDCEPYKabpgccur9zWz-p.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Henry+Perrine+Baldwin+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67yrCF4pjQZwW4x9TJyZb2nn4JESWqoVfhoHc_FMJn_pRejo8vnnFwv_6cLRHmR6Zlt9xdeu1Vg8K99Jy2iZ6lQL9kA0e2X4vOlnLHSSg11f8us2SSP9Rol89uB4JCJnbkGyngToWLtH11TZzgYrKrxnHumyFbD-tir775x4Ogr5kCpp33drpoMs0aG_uhrTr_iQgTV0gcBytcorFVR8RBl3yvoio4nXlFo88WGgPPgltPUM0_jfSj3ggF3pDprBH-uMTo4WDYfWQz0p1GoMl0Rx0-E-Qk49UV9z9CXpP5eNdjeTaDA%3D%3D&sa=X&ved=2ahUKEwjEjLnn6eSWAxVY4TgGHdGVGPkQxA16BAhTEAQ",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Henry+Perrine+Baldwin+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67yrCF4pjQZwW4x9TJyZb2nn4JESWqoVfhoHc_FMJn_pRejo8vnnFwv_6cLRHmR6Zlt9xdeu1Vg8K99Jy2iZ6lQL9kA0e2X4vOlnLHSSg11f8us2SSP9Rol89uB4JCJnbkGyngToWLtH11TZzgYrKrxnHumyFbD-tir775x4Ogr5kCpp33drpoMs0aG_uhrTr_iQgTV0gcBytcorFVR8RBl3yvoio4nXlFo88WGgPPgltPUM0_jfSj3ggF3pDprBH-uMTo4WDYfWQz0p1GoMl0Rx0-E-Qk49UV9z9CXpP5eNdjeTaDA%3D%3D"
+   },
+   {
+    "name": "President William McKinley High School",
+    "image": "https://serpapi.com/searches/6aa30f919c2312f320c904ca/images/a4j6KHpWmHQ8XeOPRfybFvPYruib5JDc5_X-FLh0jYxWrMar7AHPZhCg6TB1eRVx.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=President+William+McKinley+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ySU1TmRte163Xe2vul9qZhQflXIkF2jfkH1kBG8t4LoStfS7omVj2v2cnhX_7LWcmH7lzq0PutLgRmuLx-pQjTjw6CFrDkaMSVGla9RzusgaIpSbsrq_K_8vBnGbpidD8AEVoiDmYDM0QFwtPt-KUMqcAE6G2zC04xIPm-NkEGbh36URRKUER8vwocLzoXRqmCw6KRZL9Hrz3Y30BsLqnIbs953kvVKq4Cb2EXTz-PHC6rZ7PGBB_CxLAGitYz1G75tlE4Kei05zmlZjYhw17WF63-Ivkn6yh_-rornf7hiM6mbY_g%3D%3D&sa=X&ved=2ahUKEwjEjLnn6eSWAxVY4TgGHdGVGPkQxA16BAhTEAc",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=President+William+McKinley+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ySU1TmRte163Xe2vul9qZhQflXIkF2jfkH1kBG8t4LoStfS7omVj2v2cnhX_7LWcmH7lzq0PutLgRmuLx-pQjTjw6CFrDkaMSVGla9RzusgaIpSbsrq_K_8vBnGbpidD8AEVoiDmYDM0QFwtPt-KUMqcAE6G2zC04xIPm-NkEGbh36URRKUER8vwocLzoXRqmCw6KRZL9Hrz3Y30BsLqnIbs953kvVKq4Cb2EXTz-PHC6rZ7PGBB_CxLAGitYz1G75tlE4Kei05zmlZjYhw17WF63-Ivkn6yh_-rornf7hiM6mbY_g%3D%3D"
+   },
+   {
+    "name": "Radford High School",
+    "image": "https://serpapi.com/searches/6aa30f919c2312f320c904ca/images/a4j6KHpWmHQ8XeOPRfybFvPYruib5JDc5_X-FLh0jYxHjfMMPd8Xwonv8z7uNB68.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Admiral+Arthur+W.+Radford+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67xaxyh-qUcoVx33Wva5pyqAc2UMPbGoMXqDGwIzs7R8v9z6UM033NxdRqEQ4kVLfnbH_aCEEKaiQvcGr5UYGrQl73OPubnLTKZShzLjEOVBeUVFeYipf78z_zmMqCGS2obWnsRAr9hC3RqprE75xJ-pcei0Yv-Zl03M5tF3bkHTY3uZYD4Q-UP5zuVV_4zfWZKkftjPEmYKmRrGZpyTjZiHUWSxnkiglGvfr2pxs6R9Y2hRCtX_KxBIZdbDtZewVcEXGeRWSSlzfGKCUJeE8ki5G8iHw2BYDUWMJQsvsDvXSBnvdqw%3D%3D&sa=X&ved=2ahUKEwjEjLnn6eSWAxVY4TgGHdGVGPkQxA16BAhTEAo",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Admiral+Arthur+W.+Radford+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67xaxyh-qUcoVx33Wva5pyqAc2UMPbGoMXqDGwIzs7R8v9z6UM033NxdRqEQ4kVLfnbH_aCEEKaiQvcGr5UYGrQl73OPubnLTKZShzLjEOVBeUVFeYipf78z_zmMqCGS2obWnsRAr9hC3RqprE75xJ-pcei0Yv-Zl03M5tF3bkHTY3uZYD4Q-UP5zuVV_4zfWZKkftjPEmYKmRrGZpyTjZiHUWSxnkiglGvfr2pxs6R9Y2hRCtX_KxBIZdbDtZewVcEXGeRWSSlzfGKCUJeE8ki5G8iHw2BYDUWMJQsvsDvXSBnvdqw%3D%3D"
+   },
+   {
+    "name": "Kea\u02bbau High School",
+    "image": "https://serpapi.com/searches/6aa30f919c2312f320c904ca/images/a4j6KHpWmHQ8XeOPRfybFvPYruib5JDc5_X-FLh0jYxuTSWWnpsRS7RS3m61eNij.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Kea%CA%BBau+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yRw1pIguZm4HGfBp9n_FZ_5UUHSaLv5NZ9ZqOgZEKnmqxAvpCNCfTf3BIessCsm3AxHOd_gsiimeDquS6cw_J6kV-cQf9_V4WC8zDbQD-gIu_9t3w5YkiPAu7dbAJox382n0OanWu7OcozZz4FrhhCeZzl_jX3AecMOKFxTbGIuLhLJwRYJcV5DutfP7KeX6kS-CwQw19Bf_1V6QLv1JoRt-D5REEX3de0FwvJN7ezjs8Nk_ii8DRZ_K6NaKQzxJV73sMQN3AJWJtIhXIt7arSoB25r2&sa=X&ved=2ahUKEwjEjLnn6eSWAxVY4TgGHdGVGPkQxA16BAhTEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Kea%CA%BBau+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yRw1pIguZm4HGfBp9n_FZ_5UUHSaLv5NZ9ZqOgZEKnmqxAvpCNCfTf3BIessCsm3AxHOd_gsiimeDquS6cw_J6kV-cQf9_V4WC8zDbQD-gIu_9t3w5YkiPAu7dbAJox382n0OanWu7OcozZz4FrhhCeZzl_jX3AecMOKFxTbGIuLhLJwRYJcV5DutfP7KeX6kS-CwQw19Bf_1V6QLv1JoRt-D5REEX3de0FwvJN7ezjs8Nk_ii8DRZ_K6NaKQzxJV73sMQN3AJWJtIhXIt7arSoB25r2"
+   }
+  ],
+  "profiles": [
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/MauiHighSabers",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Maui+High+School%22+Hawaii",
+    "image": "https://serpapi.com/searches/6aa30f919c2312f320c904ca/images/a4j6KHpWmHQ8XeOPRfybFnOW_wSnrVah1lg9Y5oh-1dJUNnW0BcqW7HZzIu2_m7p.png"
+   },
+   {
+    "name": "X (Twitter)",
+    "link": "https://twitter.com/mauihighsabers",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Maui+High+School%22+Hawaii",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAABhUlEQVR4AczOA6xcARCF4X_us23btuLUQR3WZlhbQW3bto2gtm3b2J3GN4tY74uHh3okOi42Nj4AAUDwTvDEhisABCOAEAzYTBh0bN-lc5d0QgAhHPqX4Y4pkd367Zc-xMcXCPDg8TPwxeQH724Uj9N95GJ4pnHxby1xgCmV3v-GsFb7k0Iee7UjaQgmIYe9v9O4-wUKWaATyMPAViwvr1NnOQWDdTV5CHYSaKWLmaGDyvU4mTgQcllracaFr-9uk-yLM8k8fAJff0IUTghRVFu3M1ynkYk4nchiqqU3Ry05RDibMMhjtj6Ht3dJxVk_l1G64cspOusychBsCWm01WNM0jFs0sbEYUtIIuTXNco588OLh09JxE6wweuXEAvfL9PQus3-iU80N34KCaQyUOcxTTuSjEmMRI5rS9JwIZfD1t7ceo34YIpnuQ4nGwP8XXlq_fJZd9jE8KBHC5IwAELJ7dWrZ6fOuNhkgFgAEEIAwA1MQkw0AgDC_wnKycrKSQ2iPAkAVyNzq8rxicIAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/school/maui-high-school/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Maui+High+School%22+Hawaii",
+    "image": "https://serpapi.com/searches/6aa30f919c2312f320c904ca/images/a4j6KHpWmHQ8XeOPRfybFtXr0pOPPIMTjZZW5nwx1JBYNhLac9M9S94gOUUEjkxA.png"
+   },
+   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/mauihighsabers/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Maui+High+School%22+Hawaii",
+    "image": "https://serpapi.com/searches/6aa30f919c2312f320c904ca/images/a4j6KHpWmHQ8XeOPRfybFpZf_tllbtrtQSMrXj6pQymdyr9acYZ-jmb58Z_Fzpy5.png"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Maui+High+School&stick=H4sIAAAAAAAAAONgFuLSz9U3MDIrzik0VUJiawkGZ6aklidWFvulVpQEl6QWFC9iFfBNLM1U8MhMz1AITs7Iz8_ZwcoIAM3fMZhDAAAA&sa=X&ved=2ahUKEwjEjLnn6eSWAxVY4TgGHdGVGPkQMSgAegQIUxAB",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLSz9U3MDIrzik0VUJiawkGZ6aklidWFvulVpQEl6QWFC9iFfBNLM1U8MhMz1AITs7Iz8_ZwcoIAM3fMZhDAAAA"
+ },
+ "related_questions": [
+  {
+   "question": "What is the best high school in Maui?",
+   "type": "ai_overview",
+   "page_token": "zIDtUXicHdBfTsIwHADgeBkfZd1QAwkxDloQpbq2v5b1xczyp7huKzLYxpt38VSeRuINvnzfP25X5r9Xta1rfxj2ek3T3GyrauvWN6YqetmhK03PZM59ZCYf3t3foYeNGeEjjsf7pzgB7-WEBdyt3PIs-zAO2uwzthk4D5HOKdKEl7hhCs6Ji28TSBuGBrUpCJPChAsknSyCzoSOrMEzRaAGx3DCUcYVSVJBSi1IQwXuWDlPZN7iRHltQsu0tG9pRMa0mLdrQAUUg-UioBeNJULoaQLoSRX1dBX5fjaLUxnaFBCzavkYLQIrIUcnAaudCNrDurQvq4lODcYRFzTCVh8vhn26pFyc51RMqwDkgBuOFhxYNN3NYzaj3avSggdIKSJbNjEIPumznLm-EXoPyAum0ImFNL7emNMouv7fHL1vinrov6rtH48ygEA",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=zIDtUXicHdBfTsIwHADgeBkfZd1QAwkxDloQpbq2v5b1xczyp7huKzLYxpt38VSeRuINvnzfP25X5r9Xta1rfxj2ek3T3GyrauvWN6YqetmhK03PZM59ZCYf3t3foYeNGeEjjsf7pzgB7-WEBdyt3PIs-zAO2uwzthk4D5HOKdKEl7hhCs6Ji28TSBuGBrUpCJPChAsknSyCzoSOrMEzRaAGx3DCUcYVSVJBSi1IQwXuWDlPZN7iRHltQsu0tG9pRMa0mLdrQAUUg-UioBeNJULoaQLoSRX1dBX5fjaLUxnaFBCzavkYLQIrIUcnAaudCNrDurQvq4lODcYRFzTCVh8vhn26pFyc51RMqwDkgBuOFhxYNN3NYzaj3avSggdIKSJbNjEIPumznLm-EXoPyAum0ImFNL7emNMouv7fHL1vinrov6rtH48ygEA",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmRXSmtVR1ZIWW05TkxXVlNOMVJEUjA5TlYySllXa0Y1VWxwT1FYbEdhbDlPTlZscGVqQkVYMjFZTUhCWFdVNDNkVTkzZERoUVV6STRPV3BUZG5jdGFVOUVZamhEUjFSNmQxcHdSMFZpVUVGUU9Xc3lUbmw1VkdoZlp4SVdia0V0YW1GelVrOHlUVXhxTkZGZlVuRXRURWxFZHhvaVFVUnpjamxtVW5SZlpHSlNWM1UwTkhWbE1GSnNPRms1Y25NNVJuVk1ja3hsVVEiLCJmY3YiOiIzIiwiZWkiOiJuQS1qYXNSTzJNTGo0UV9ScS1MSUR3IiwicWMiOiJDaGR0WVhWcElHaHBaMmdnYzJOb2IyOXNJR2hoZDJGcGFSQUFmU2pyVHo4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBiZXN0IGhpZ2ggc2Nob29sIGluIE1hdWk/IiwibGsiOiJHaGhpWlhOMElHaHBaMmdnYzJOb2IyOXNJR2x1SUcxaGRXayIsImJzIjoiYzMzUHZRckNNQmlGWVZ5X3lWRXluYVgtVktmZVFBZVhMaUxpb0k3UkJyOUFUWXBKS2Q2OWFZdFlTblVMbkpjbkNXMHBPckgwMEE2ZUZhN0tlYkMtTTl5TnJTMmdEWGF5MG1raXhHeHNmSVNSemhSbnRnNW44LXJ2RHZLcFBzSUdtYXlsRGxJc2x2eXZia2h3RzlPbEp6dGY1Y3I0cmd0UGJsUmtEWEJzZ1RSWml4WF9xanYxZXgwZGFONy1uR1ZaS3FOeWVJdDlrWS13Q3hIVnc5S0dja2hPSjI4IiwiaWQiOiJmY19uQS1qYXNSTzJNTGo0UV9ScS1MSUR3XzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmRXSmtVR1ZIWW05TkxXVlNOMVJEUjA5TlYySllXa0Y1VWxwT1FYbEdhbDlPTlZscGVqQkVYMjFZTUhCWFdVNDNkVTkzZERoUVV6STRPV3BUZG5jdGFVOUVZamhEUjFSNmQxcHdSMFZpVUVGUU9Xc3lUbmw1VkdoZlp4SVdia0V0YW1GelVrOHlUVXhxTkZGZlVuRXRURWxFZHhvaVFVUnpjamxtVW5SZlpHSlNWM1UwTkhWbE1GSnNPRms1Y25NNVJuVk1ja3hsVVEiLCJmY3YiOiIzIiwiZWkiOiJuQS1qYXNSTzJNTGo0UV9ScS1MSUR3IiwicWMiOiJDaGR0WVhWcElHaHBaMmdnYzJOb2IyOXNJR2hoZDJGcGFSQUFmU2pyVHo4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBiZXN0IGhpZ2ggc2Nob29sIGluIE1hdWk%2FIiwibGsiOiJHaGhpWlhOMElHaHBaMmdnYzJOb2IyOXNJR2x1SUcxaGRXayIsImJzIjoiYzMzUHZRckNNQmlGWVZ5X3lWRXluYVgtVktmZVFBZVhMaUxpb0k3UkJyOUFUWXBKS2Q2OWFZdFlTblVMbkpjbkNXMHBPckgwMEE2ZUZhN0tlYkMtTTl5TnJTMmdEWGF5MG1raXhHeHNmSVNSemhSbnRnNW44LXJ2RHZLcFBzSUdtYXlsRGxJc2x2eXZia2h3RzlPbEp6dGY1Y3I0cmd0UGJsUmtEWEJzZ1RSWml4WF9xanYxZXgwZGFONy1uR1ZaS3FOeWVJdDlrWS13Q3hIVnc5S0dja2hPSjI4IiwiaWQiOiJmY19uQS1qYXNSTzJNTGo0UV9ScS1MSUR3XzUifQ%3D%3D"
+  },
+  {
+   "question": "How many high schools are in Maui, Hawaii?",
+   "type": "ai_overview",
+   "page_token": "GLIKUXicHdBdbpswAABg9TJ9bGyQ2hEpqsRiSC3ZGf7B4JfK2EkI2EATOpS89S491U6zaSf4pO_r25-H_s_D3M7zdF2vVsuyPJ3G8eQPT3YMK3O9DXZljfeNsf36-eUZvh7tBn2i9OfHW1rIaSq3DPC41SpPgvHZsdliVUcJJDu_1BEW1ieGxwza_HqnYI5MxghDGjWdg6p7ux2ySZAcDrZzYI-SkgntaZ8NtcQdg-3soNaFOEHhnXSqreigtySUkesBaCK6VABuBdC_XOUWEjSpPUWiYjXLx4WjKa97fDWqiHXOMA8sJdKfTZguBZB3EjAwctqrLAFKoJlX6WKzlKFWfxYcftQV5eKOqchHIMuEWw4JlyzOzzhlO3rbK80PvYQNcNiFHzHb_XM6fOFnyIve33RWKgqT4fFof2_ix_-bm_djmNfTZTz9BdR1gF0",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=GLIKUXicHdBdbpswAABg9TJ9bGyQ2hEpqsRiSC3ZGf7B4JfK2EkI2EATOpS89S491U6zaSf4pO_r25-H_s_D3M7zdF2vVsuyPJ3G8eQPT3YMK3O9DXZljfeNsf36-eUZvh7tBn2i9OfHW1rIaSq3DPC41SpPgvHZsdliVUcJJDu_1BEW1ieGxwza_HqnYI5MxghDGjWdg6p7ux2ySZAcDrZzYI-SkgntaZ8NtcQdg-3soNaFOEHhnXSqreigtySUkesBaCK6VABuBdC_XOUWEjSpPUWiYjXLx4WjKa97fDWqiHXOMA8sJdKfTZguBZB3EjAwctqrLAFKoJlX6WKzlKFWfxYcftQV5eKOqchHIMuEWw4JlyzOzzhlO3rbK80PvYQNcNiFHzHb_XM6fOFnyIve33RWKgqT4fFof2_ix_-bm_djmNfTZTz9BdR1gF0",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmRXSmtVR1ZIWW05TkxXVlNOMVJEUjA5TlYySllXa0Y1VWxwT1FYbEdhbDlPTlZscGVqQkVYMjFZTUhCWFdVNDNkVTkzZERoUVV6STRPV3BUZG5jdGFVOUVZamhEUjFSNmQxcHdSMFZpVUVGUU9Xc3lUbmw1VkdoZlp4SVdia0V0YW1GelVrOHlUVXhxTkZGZlVuRXRURWxFZHhvaVFVUnpjamxtVW5SZlpHSlNWM1UwTkhWbE1GSnNPRms1Y25NNVJuVk1ja3hsVVEiLCJmY3YiOiIzIiwiZWkiOiJuQS1qYXNSTzJNTGo0UV9ScS1MSUR3IiwicWMiOiJDaGR0WVhWcElHaHBaMmdnYzJOb2IyOXNJR2hoZDJGcGFSQUFmU2pyVHo4IiwicXVlc3Rpb24iOiJIb3cgbWFueSBoaWdoIHNjaG9vbHMgYXJlIGluIE1hdWksIEhhd2FpaT8iLCJsayI6IkdpaG9iM2NnYldGdWVTQm9hV2RvSUhOamFHOXZiSE1nWVhKbElHbHVJRzFoZFdrZ2FHRjNZV2xwIiwiYnMiOiJjMzNQdlFyQ01CaUZZVnlfeVZFeW5hWC1WS2ZlUUFlWExpTGlvSTdSQnI5QVRZcEpLZDY5YVl0WVNuVUxuSmNuQ1cwcE9ySDAwQTZlRmE3S2ViQy1NOXlOclMyZ0RYYXkwbWtpeEd4c2ZJU1J6aFJudGc1bjgtcnZEdktwUHNJR21heWxEbElzbHZ5dmJraHdHOU9sSnp0ZjVjcjRyZ3RQYmxSa0RYQnNnVFJaaXhYX3FqdjFleDBkYU43LW5HVlpLcU55ZUl0OWtZLXdDeEhWdzlLR2NraE9KMjgiLCJpZCI6ImZjX25BLWphc1JPMk1MajRRX1JxLUxJRHdfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmRXSmtVR1ZIWW05TkxXVlNOMVJEUjA5TlYySllXa0Y1VWxwT1FYbEdhbDlPTlZscGVqQkVYMjFZTUhCWFdVNDNkVTkzZERoUVV6STRPV3BUZG5jdGFVOUVZamhEUjFSNmQxcHdSMFZpVUVGUU9Xc3lUbmw1VkdoZlp4SVdia0V0YW1GelVrOHlUVXhxTkZGZlVuRXRURWxFZHhvaVFVUnpjamxtVW5SZlpHSlNWM1UwTkhWbE1GSnNPRms1Y25NNVJuVk1ja3hsVVEiLCJmY3YiOiIzIiwiZWkiOiJuQS1qYXNSTzJNTGo0UV9ScS1MSUR3IiwicWMiOiJDaGR0WVhWcElHaHBaMmdnYzJOb2IyOXNJR2hoZDJGcGFSQUFmU2pyVHo4IiwicXVlc3Rpb24iOiJIb3cgbWFueSBoaWdoIHNjaG9vbHMgYXJlIGluIE1hdWksIEhhd2FpaT8iLCJsayI6IkdpaG9iM2NnYldGdWVTQm9hV2RvSUhOamFHOXZiSE1nWVhKbElHbHVJRzFoZFdrZ2FHRjNZV2xwIiwiYnMiOiJjMzNQdlFyQ01CaUZZVnlfeVZFeW5hWC1WS2ZlUUFlWExpTGlvSTdSQnI5QVRZcEpLZDY5YVl0WVNuVUxuSmNuQ1cwcE9ySDAwQTZlRmE3S2ViQy1NOXlOclMyZ0RYYXkwbWtpeEd4c2ZJU1J6aFJudGc1bjgtcnZEdktwUHNJR21heWxEbElzbHZ5dmJraHdHOU9sSnp0ZjVjcjRyZ3RQYmxSa0RYQnNnVFJaaXhYX3FqdjFleDBkYU43LW5HVlpLcU55ZUl0OWtZLXdDeEhWdzlLR2NraE9KMjgiLCJpZCI6ImZjX25BLWphc1JPMk1MajRRX1JxLUxJRHdfNSJ9"
+  },
+  {
+   "question": "How many students are at Maui High School?",
+   "type": "ai_overview",
+   "page_token": "1b7EfnicHdBLUsIwAADQ8TIspR_AkRnGMZK2VJpO_iUbp6T8TGiCVoHuvIun8jQ6HuBt3te3PbTm56bbd51_nw6H5_P5dufczm5utTsO6_drq4e6tnZdazOd3E3Ch62ewQ8Ink4LgLn3Yk4CylaRtDimR3ypowYtGZAqQ0zA_QS1yqM4UTxaXDZJznAMEJOmFzJ069b92ceIRqjfVImrYZIwPu4aiPySkRAHl2JtRUgMH7G5KkXbjLQciyZoTrVU1yr0llseK2FjmiUpMTks4AWUcz4WgekLk7gyFRWJybZI0XjTAoarHDcCkIIhzER-UFb0Et4HLMMjVJmulDmAe_WBaXhaVYiyPkcsdQEX91TTsKCcxOkhByRD11IqVmf5Waceau6XjUGpeLWlCnRUpOpZHslhzTsy2OrPWTz435y9bI_d1L-53S8VS3-s",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=1b7EfnicHdBLUsIwAADQ8TIspR_AkRnGMZK2VJpO_iUbp6T8TGiCVoHuvIun8jQ6HuBt3te3PbTm56bbd51_nw6H5_P5dufczm5utTsO6_drq4e6tnZdazOd3E3Ch62ewQ8Ink4LgLn3Yk4CylaRtDimR3ypowYtGZAqQ0zA_QS1yqM4UTxaXDZJznAMEJOmFzJ069b92ceIRqjfVImrYZIwPu4aiPySkRAHl2JtRUgMH7G5KkXbjLQciyZoTrVU1yr0llseK2FjmiUpMTks4AWUcz4WgekLk7gyFRWJybZI0XjTAoarHDcCkIIhzER-UFb0Et4HLMMjVJmulDmAe_WBaXhaVYiyPkcsdQEX91TTsKCcxOkhByRD11IqVmf5Waceau6XjUGpeLWlCnRUpOpZHslhzTsy2OrPWTz435y9bI_d1L-53S8VS3-s",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmRXSmtVR1ZIWW05TkxXVlNOMVJEUjA5TlYySllXa0Y1VWxwT1FYbEdhbDlPTlZscGVqQkVYMjFZTUhCWFdVNDNkVTkzZERoUVV6STRPV3BUZG5jdGFVOUVZamhEUjFSNmQxcHdSMFZpVUVGUU9Xc3lUbmw1VkdoZlp4SVdia0V0YW1GelVrOHlUVXhxTkZGZlVuRXRURWxFZHhvaVFVUnpjamxtVW5SZlpHSlNWM1UwTkhWbE1GSnNPRms1Y25NNVJuVk1ja3hsVVEiLCJmY3YiOiIzIiwiZWkiOiJuQS1qYXNSTzJNTGo0UV9ScS1MSUR3IiwicWMiOiJDaGR0WVhWcElHaHBaMmdnYzJOb2IyOXNJR2hoZDJGcGFSQUFmU2pyVHo4IiwicXVlc3Rpb24iOiJIb3cgbWFueSBzdHVkZW50cyBhcmUgYXQgTWF1aSBIaWdoIFNjaG9vbD8iLCJsayI6IkdpbG9iM2NnYldGdWVTQnpkSFZrWlc1MGN5QmhjbVVnWVhRZ2JXRjFhU0JvYVdkb0lITmphRzl2YkEiLCJicyI6ImMzM1B2UXJDTUJpRllWeV95VkV5bmFYLVZLZmVRQWVYTGlMaW9JN1JCcjlBVFlwSktkNjlhWXRZU25VTG5KY25DVzBwT3JIMDBBNmVGYTdLZWJDLU05eU5yUzJnRFhheTBta2l4R3hzZklTUnpoUm50ZzVuOC1ydkR2S3BQc0lHbWF5bERsSXNsdnl2Ymtod0c5T2xKenRmNWNyNHJndFBibFJrRFhCc2dUUlppeFhfcWp2MWV4MGRhTjctbkdWWktxTnllSXQ5a1ktd0N4SFZ3OUtHY2toT0oyOCIsImlkIjoiZmNfbkEtamFzUk8yTUxqNFFfUnEtTElEd181In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmRXSmtVR1ZIWW05TkxXVlNOMVJEUjA5TlYySllXa0Y1VWxwT1FYbEdhbDlPTlZscGVqQkVYMjFZTUhCWFdVNDNkVTkzZERoUVV6STRPV3BUZG5jdGFVOUVZamhEUjFSNmQxcHdSMFZpVUVGUU9Xc3lUbmw1VkdoZlp4SVdia0V0YW1GelVrOHlUVXhxTkZGZlVuRXRURWxFZHhvaVFVUnpjamxtVW5SZlpHSlNWM1UwTkhWbE1GSnNPRms1Y25NNVJuVk1ja3hsVVEiLCJmY3YiOiIzIiwiZWkiOiJuQS1qYXNSTzJNTGo0UV9ScS1MSUR3IiwicWMiOiJDaGR0WVhWcElHaHBaMmdnYzJOb2IyOXNJR2hoZDJGcGFSQUFmU2pyVHo4IiwicXVlc3Rpb24iOiJIb3cgbWFueSBzdHVkZW50cyBhcmUgYXQgTWF1aSBIaWdoIFNjaG9vbD8iLCJsayI6IkdpbG9iM2NnYldGdWVTQnpkSFZrWlc1MGN5QmhjbVVnWVhRZ2JXRjFhU0JvYVdkb0lITmphRzl2YkEiLCJicyI6ImMzM1B2UXJDTUJpRllWeV95VkV5bmFYLVZLZmVRQWVYTGlMaW9JN1JCcjlBVFlwSktkNjlhWXRZU25VTG5KY25DVzBwT3JIMDBBNmVGYTdLZWJDLU05eU5yUzJnRFhheTBta2l4R3hzZklTUnpoUm50ZzVuOC1ydkR2S3BQc0lHbWF5bERsSXNsdnl2Ymtod0c5T2xKenRmNWNyNHJndFBibFJrRFhCc2dUUlppeFhfcWp2MWV4MGRhTjctbkdWWktxTnllSXQ5a1ktd0N4SFZ3OUtHY2toT0oyOCIsImlkIjoiZmNfbkEtamFzUk8yTUxqNFFfUnEtTElEd181In0%3D"
+  },
+  {
+   "question": "What happened to Old Maui High School?",
+   "type": "ai_overview",
+   "page_token": "5s4lTXicHdBfToMwHADgeBkfHd0_45LFhNEhKF1o-2uhL2Zr2dAVqMqG65t38VSeRuMNvnxf3_alPf5c9XXfu4_FaDQMw82h6w62utFdM9p-XFo90ltrd1t9XMxv5-h-r5f4hMPVWxLm4JyIaMCjsNWvqcsCGCr8WWaBirgwmydOXFmkhI-FNzD4rDDTTKaXSs6UEGFT4XLGGntWEZlRS9cbOAbktXYlovtdQae0SKZEmigDF7ECfM4pPIFZabEuoaUxrFC8O2IkBJ0LqXDWOsLilJKHA6qa3vKxawUkPpdpBIARC3pOJCEyNgmXs8dc0FyjOqHr2mluPRMWK28ortUpZ-itLAjj_s8fdwGIO6YZyhjQSfyShvSBXDZSgcHTPi8sZGNVknEPyqaKNKahnpQbuCu23oTXe31eTq7_N5fP-6ZfuPfu8AtofoFA",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=5s4lTXicHdBfToMwHADgeBkfHd0_45LFhNEhKF1o-2uhL2Zr2dAVqMqG65t38VSeRuMNvnxf3_alPf5c9XXfu4_FaDQMw82h6w62utFdM9p-XFo90ltrd1t9XMxv5-h-r5f4hMPVWxLm4JyIaMCjsNWvqcsCGCr8WWaBirgwmydOXFmkhI-FNzD4rDDTTKaXSs6UEGFT4XLGGntWEZlRS9cbOAbktXYlovtdQae0SKZEmigDF7ECfM4pPIFZabEuoaUxrFC8O2IkBJ0LqXDWOsLilJKHA6qa3vKxawUkPpdpBIARC3pOJCEyNgmXs8dc0FyjOqHr2mluPRMWK28ortUpZ-itLAjj_s8fdwGIO6YZyhjQSfyShvSBXDZSgcHTPi8sZGNVknEPyqaKNKahnpQbuCu23oTXe31eTq7_N5fP-6ZfuPfu8AtofoFA",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmRXSmtVR1ZIWW05TkxXVlNOMVJEUjA5TlYySllXa0Y1VWxwT1FYbEdhbDlPTlZscGVqQkVYMjFZTUhCWFdVNDNkVTkzZERoUVV6STRPV3BUZG5jdGFVOUVZamhEUjFSNmQxcHdSMFZpVUVGUU9Xc3lUbmw1VkdoZlp4SVdia0V0YW1GelVrOHlUVXhxTkZGZlVuRXRURWxFZHhvaVFVUnpjamxtVW5SZlpHSlNWM1UwTkhWbE1GSnNPRms1Y25NNVJuVk1ja3hsVVEiLCJmY3YiOiIzIiwiZWkiOiJuQS1qYXNSTzJNTGo0UV9ScS1MSUR3IiwicWMiOiJDaGR0WVhWcElHaHBaMmdnYzJOb2IyOXNJR2hoZDJGcGFSQUFmU2pyVHo4IiwicXVlc3Rpb24iOiJXaGF0IGhhcHBlbmVkIHRvIE9sZCBNYXVpIEhpZ2ggU2Nob29sPyIsImxrIjoiR2lWM2FHRjBJR2hoY0hCbGJtVmtJSFJ2SUc5c1pDQnRZWFZwSUdocFoyZ2djMk5vYjI5cyIsImJzIjoiYzMzUHZRckNNQmlGWVZ5X3lWRXluYVgtVktmZVFBZVhMaUxpb0k3UkJyOUFUWXBKS2Q2OWFZdFlTblVMbkpjbkNXMHBPckgwMEE2ZUZhN0tlYkMtTTl5TnJTMmdEWGF5MG1raXhHeHNmSVNSemhSbnRnNW44LXJ2RHZLcFBzSUdtYXlsRGxJc2x2eXZia2h3RzlPbEp6dGY1Y3I0cmd0UGJsUmtEWEJzZ1RSWml4WF9xanYxZXgwZGFONy1uR1ZaS3FOeWVJdDlrWS13Q3hIVnc5S0dja2hPSjI4IiwiaWQiOiJmY19uQS1qYXNSTzJNTGo0UV9ScS1MSUR3XzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmRXSmtVR1ZIWW05TkxXVlNOMVJEUjA5TlYySllXa0Y1VWxwT1FYbEdhbDlPTlZscGVqQkVYMjFZTUhCWFdVNDNkVTkzZERoUVV6STRPV3BUZG5jdGFVOUVZamhEUjFSNmQxcHdSMFZpVUVGUU9Xc3lUbmw1VkdoZlp4SVdia0V0YW1GelVrOHlUVXhxTkZGZlVuRXRURWxFZHhvaVFVUnpjamxtVW5SZlpHSlNWM1UwTkhWbE1GSnNPRms1Y25NNVJuVk1ja3hsVVEiLCJmY3YiOiIzIiwiZWkiOiJuQS1qYXNSTzJNTGo0UV9ScS1MSUR3IiwicWMiOiJDaGR0WVhWcElHaHBaMmdnYzJOb2IyOXNJR2hoZDJGcGFSQUFmU2pyVHo4IiwicXVlc3Rpb24iOiJXaGF0IGhhcHBlbmVkIHRvIE9sZCBNYXVpIEhpZ2ggU2Nob29sPyIsImxrIjoiR2lWM2FHRjBJR2hoY0hCbGJtVmtJSFJ2SUc5c1pDQnRZWFZwSUdocFoyZ2djMk5vYjI5cyIsImJzIjoiYzMzUHZRckNNQmlGWVZ5X3lWRXluYVgtVktmZVFBZVhMaUxpb0k3UkJyOUFUWXBKS2Q2OWFZdFlTblVMbkpjbkNXMHBPckgwMEE2ZUZhN0tlYkMtTTl5TnJTMmdEWGF5MG1raXhHeHNmSVNSemhSbnRnNW44LXJ2RHZLcFBzSUdtYXlsRGxJc2x2eXZia2h3RzlPbEp6dGY1Y3I0cmd0UGJsUmtEWEJzZ1RSWml4WF9xanYxZXgwZGFONy1uR1ZaS3FOeWVJdDlrWS13Q3hIVnc5S0dja2hPSjI4IiwiaWQiOiJmY19uQS1qYXNSTzJNTGo0UV9ScS1MSUR3XzUifQ%3D%3D"
+  }
+ ],
+ "ai_overview": {
+  "text_blocks": [
+   {
+    "type": "paragraph",
+    "snippet": "You can visit the Maui High School Official Website to learn more about its programs, academics, and schedules.",
+    "snippet_links": [
+     {
+      "text": "Maui High School Official Website",
+      "link": "https://www.mauihigh.org/"
+     }
+    ],
+    "snippet_highlighted_words": [
+     "Maui High School Official Website"
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "Maui has several public and private high schools serving different communities across the island:"
+   },
+   {
+    "type": "heading",
+    "snippet": "Public High Schools"
+   },
+   {
+    "type": "list",
+    "list": [
+     {
+      "snippet": "Maui High School: Located in Kahului, serving central Maui with a student population of about 1,550 and career-themed academies."
+     },
+     {
+      "snippet": "Baldwin High School: Located in Wailuku, offering strong academic and athletic programs."
+     },
+     {
+      "snippet": "King Kekaulike High School: Located in Pukalani, serving upcountry Maui."
+     },
+     {
+      "snippet": "Lahainaluna High School: Located in Lahaina, famous as the oldest public high school west of the Rockies."
+     },
+     {
+      "snippet": "Kulanihako\u02bbi High School: Located in Kihei, serving South Maui students."
+     },
+     {
+      "snippet": "Hana High and Elementary School: Located in East Maui, serving remote communities."
+     }
+    ]
+   },
+   {
+    "type": "heading",
+    "snippet": "Charter & Private High Schools"
+   },
+   {
+    "type": "list",
+    "list": [
+     {
+      "snippet": "Kihei Charter School: Publicly funded charter school in Kihei."
+     },
+     {
+      "snippet": "Kamehameha Schools Maui: Private K-12 campus in Pukalani/Makawao focusing on Hawaiian culture and rigorous academics."
+     },
+     {
+      "snippet": "Seabury Hall: Private college-preparatory school in Makawao."
+     }
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "If you are looking for specific details, please let me know:"
+   },
+   {
+    "type": "list",
+    "list": [
+     {
+      "snippet": "Are you looking for registration information, sports schedules, or boundary maps?"
+     },
+     {
+      "snippet": "Do you need information on a specific school?"
+     }
+    ]
+   }
+  ],
+  "references": [
+   {
+    "link": "https://www.mauihigh.org/",
+    "source": "mauihigh.org",
+    "index": 0
+   },
+   {
+    "link": "https://en.wikipedia.org/wiki/Category:Public_high_schools_in_Maui",
+    "source": "en.wikipedia.org",
+    "index": 1
+   },
+   {
+    "link": "https://www.mauicounty.gov/facilities/facility/details/Maui-High-School-277",
+    "source": "mauicounty.gov",
+    "index": 2
+   },
+   {
+    "link": "https://www.mauihigh.org/m/pages/index.jsp?uREC_ID=329952&type=d",
+    "source": "mauihigh.org",
+    "index": 3
+   },
+   {
+    "link": "https://www.mauihigh.org/m/pages/index.jsp?uREC_ID=565062&type=d",
+    "source": "mauihigh.org",
+    "index": 4
+   },
+   {
+    "link": "https://en.wikipedia.org/wiki/Maui_High_School",
+    "source": "en.wikipedia.org",
+    "index": 5
+   },
+   {
+    "link": "https://www.niche.com/k12/search/best-high-schools/c/maui-county-hi/",
+    "source": "niche.com",
+    "index": 6
+   },
+   {
+    "title": "Maui High School",
+    "link": "https://www.mauihigh.org/",
+    "snippet": "Sep 8 GVB: Maui at Baldwin Time: 5:00 PM - 8:30 PM Location: Baldwin High School, 1650 W Kaahumanu Ave, Wailuku, HI 96793, USA Sep 10 GVB: Maui vs Kekaulike Tim...",
+    "source": "Maui High School",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpRQ8DIaibHo3gG52dqdSWlquS2IQ3X_DTEX25oHdUdFaQK7rFdVrjWLHrnqKgRTo1SH89bcWoVpKHszRn17nAyk1Y5ScmOI4wapjI",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.mauihigh.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 7
+   },
+   {
+    "title": "Category:Public high schools in Maui - Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Category:Public_high_schools_in_Maui",
+    "snippet": "K \u00b7 Kihei Charter School \u00b7 King Kekaulike High School. L. Lahainaluna High School. M. Maui High School.",
+    "source": "Wikipedia",
+    "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 8
+   },
+   {
+    "title": "Facilities \u2022 Maui High School",
+    "link": "https://www.mauicounty.gov/facilities/facility/details/Maui-High-School-277",
+    "snippet": "Maui High School opened in 1913 in the community of Hamakuapoko, which is located in the northeast sector of Maui. Maui High School was the first academic high",
+    "source": "Maui County (.gov)",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRTnNkYrb379jeWLMKcrwNLBUAL6gwBV2pkeGhoInzKGZujoM-o11psGoRbljS0ICYMBSk_Lyllbe1gnEqvoy78q6RsrSMXEAu1GnQK",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.mauicounty.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 9
+   },
+   {
+    "title": "School Profile - Maui High School",
+    "link": "https://www.mauihigh.org/m/pages/index.jsp?uREC_ID=329952&type=d",
+    "snippet": "Maui High School is a public high school in central Maui that serves about 1,550 students in grades 9\u201312. The school was founded in 1913 and opened its current",
+    "source": "Maui High School",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQR8_AHIVVoxW_dCoIkNfN0kL0jhgmVs3htf_fEKdC-e44w7OmguD7Pr-N4f-h-yT2uF1mjnSADx1_aTgr2lQHX_P2OJTNR9R5LTZo3",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.mauihigh.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 10
+   },
+   {
+    "title": "Academies - Maui High School",
+    "link": "https://www.mauihigh.org/m/pages/index.jsp?uREC_ID=565062&type=d",
+    "snippet": "Maui High School is a College and Career academy school. All ninth graders belong to the Freshman Academy - \u02bbAhinahina, where they explore their aspirations and...",
+    "source": "Maui High School",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.mauihigh.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 11
+   },
+   {
+    "title": "Maui High School - Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Maui_High_School",
+    "snippet": "Today's Maui High The new campus was built in 1972 at 660 South Lono Avenue in Kahului. In 2009, Maui High School had an approximate enrollment of 1816 studen",
+    "source": "Wikipedia",
+    "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQE2liw45xV6wIhjJRvYwTfGnVA-RYh7aUux72RTlfUQk05KZdvRcb-CPUIBfU2VLG29nFuXfU8r4hzv-Wr7G9L-OgK5zC08XTOLEn2",
+    "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 12
+   },
+   {
+    "title": "2026 Best High Schools in Maui County, HI - Niche",
+    "link": "https://www.niche.com/k12/search/best-high-schools/c/maui-county-hi/",
+    "snippet": "Read 302 reviews grade A minus Overall Niche Grade Students 1,141 Student-teacher ratio 12:1 Kamehameha Schools Maui Campus #4 Best Private High Schools in Maui...",
+    "source": "Niche",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQuSqHx0uGfwIT599W2XjYA8aKb0nLSa9E9yzN7WtMUCvMclD602pKslBsPRtxYQ5a-OCu3_-gwbwf678zYBukNkKSf",
+    "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.niche.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 13
+   }
+  ]
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Maui High School",
+   "link": "https://www.mauihigh.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUQHrOzAVQYqHEft6f6HLx0v2HHEp7Jk5k0ai4iD_8eXZX0nk3EwNpipm4DF4wfhWPUBLTU6jY3io6gWjt3lHG0X6HttTnzgK2sEtlSqWjbhY_w&ved=2ahUKEwjEjLnn6eSWAxVY4TgGHdGVGPkQFnoECBYQAQ&uoh=1",
+   "displayed_link": "https://www.mauihigh.org",
+   "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nys3Ny03NzU3Nzc3Nzc1Ny0tNzc3NzUrNy01KzQrNzI3N__AABEIABwAHAMBIgACEQEDEQH_xAAbAAACAQUAAAAAAAAAAAAAAAAGBwIAAQMEBf_EACsQAAICAQQBAgMJAAAAAAAAAAECAwQRAAUGEiEHMRRRoRMjMkFSYXKRsf_EABgBAAIDAAAAAAAAAAAAAAAAAAIDAQQF_8QAHxEAAgIBBAMAAAAAAAAAAAAAAQIAAyEREjFBBCJh_9oADAMBAAIRAxEAPwAPho3LEE1iCpYlggBMsscLMkYAySzAYHjz51KXb70NVLU1G1HWfHWd4GVGz7YYjBzpn-jkwg45vc5XsI5i_X54jB11PT7k8_Nqm51d8pUnSH7P7tIyUdX7eCrE5wU-utqzyWUt64WUFpBAzkxOHbry1BcajbWoRkWDA4jI_ljH11radPp9zC1y23udLcatVayxBoo40P4CSCrZJz4x8vz0m9whWtuFqvHnpFO8a5OfAYgf5ptVjMxRhoRAdAAGB5hbwnl1Dj-x7rQt17cktwko0KqVXKdfOWB9_wBtR9N-V0eKPuDbhBam-JWIJ8OqnHXvnPZh-oaEMY1WNS1KMGB75gixhp8hR6c8mp8VvW578FmZZoVjUV1UkEHPnsw0N35Vs37VhAQs0zyKG9wCxPn-9YtXAzpgQBi_ZkbjtCz_2Q.jpeg",
+   "snippet": "... Maui High School twitter \u00b7 Maui High School instagram \u00b7 Maui High School youtube. The Hawaii ... Hawaii State Department of Education P.O. Box 2360 Honolulu ...",
+   "snippet_highlighted_words": [
+    "Maui High School",
+    "Maui High School",
+    "Maui High School",
+    "Hawaii",
+    "Hawaii"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "Campus Map",
+      "link": "https://www.mauihigh.org/apps/pages/index.jsp?uREC_ID=330911&type=d",
+      "snippet": "... Maui High School twitter \u00b7 Maui High School instagram \u00b7 Maui ..."
+     },
+     {
+      "title": "Staff Directory",
+      "link": "https://www.mauihigh.org/apps/staff/",
+      "snippet": "... Maui High School facebook \u00b7 Maui High School twitter \u00b7 Maui ..."
+     },
+     {
+      "title": "Contact",
+      "link": "https://www.mauihigh.org/apps/contact/",
+      "snippet": "... Maui High School twitter \u00b7 Maui High School instagram \u00b7 Maui ..."
+     },
+     {
+      "title": "Bell Schedule",
+      "link": "https://www.mauihigh.org/m/pages/index.jsp?type=d&uREC_ID=560745&pREC_ID=1073058",
+      "snippet": "Maui High School Maui High School. \u2630. Search Search ..."
+     },
+     {
+      "title": "Calendar",
+      "link": "https://www.mauihigh.org/apps/pages/index.jsp?uREC_ID=336644&type=d&termREC_ID=&pREC_ID=calendarv2",
+      "snippet": "... Maui High School twitter \u00b7 Maui High School instagram \u00b7 Maui ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "... Maui High School twitter \u00b7 Maui High School instagram \u00b7 Maui High School youtube. The Hawaii ... Hawaii State Department of Education P.O. Box 2360 Honolulu ...",
+     "source_info_link": "https://www.mauihigh.org/",
+     "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nys3Ny03NzU3Nzc3Nzc1Ny0tNzc3NzUrNy01KzQrNzI3N__AABEIABwAHAMBIgACEQEDEQH_xAAbAAACAQUAAAAAAAAAAAAAAAAGBwIAAQMEBf_EACsQAAICAQQBAgMJAAAAAAAAAAECAwQRAAUGEiEHMRRRoRMjMkFSYXKRsf_EABgBAAIDAAAAAAAAAAAAAAAAAAIDAQQF_8QAHxEAAgIBBAMAAAAAAAAAAAAAAQIAAyEREjFBBCJh_9oADAMBAAIRAxEAPwAPho3LEE1iCpYlggBMsscLMkYAySzAYHjz51KXb70NVLU1G1HWfHWd4GVGz7YYjBzpn-jkwg45vc5XsI5i_X54jB11PT7k8_Nqm51d8pUnSH7P7tIyUdX7eCrE5wU-utqzyWUt64WUFpBAzkxOHbry1BcajbWoRkWDA4jI_ljH11radPp9zC1y23udLcatVayxBoo40P4CSCrZJz4x8vz0m9whWtuFqvHnpFO8a5OfAYgf5ptVjMxRhoRAdAAGB5hbwnl1Dj-x7rQt17cktwko0KqVXKdfOWB9_wBtR9N-V0eKPuDbhBam-JWIJ8OqnHXvnPZh-oaEMY1WNS1KMGB75gixhp8hR6c8mp8VvW578FmZZoVjUV1UkEHPnsw0N35Vs37VhAQs0zyKG9wCxPn-9YtXAzpgQBi_ZkbjtCz_2Q.jpeg"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESUQHrOzAVQYqHEft6f6HLx0v2HHEp7Jk5k0ai4iD_8eXZX0nk3EwNpipm4DF4wfhWPUBLTU6jY3io6gWjt3lHG0X6HttTnzgK2sEtlSqWjbhY_w&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESUQHrOzAVQYqHEft6f6HLx0v2HHEp7Jk5k0ai4iD_8eXZX0nk3EwNpipm4DF4wfhWPUBLTU6jY3io6gWjt3lHG0X6HttTnzgK2sEtlSqWjbhY_w",
+   "source": "Maui High School"
+  },
+  {
+   "position": 2,
+   "title": "Maui High School",
+   "link": "https://en.wikipedia.org/wiki/Maui_High_School",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAV_T1l7sRitFfdkyvvMWSyK70D9Y0tTssOvaWCM45AY2gPjodhCm2akuctZgRNs-xcvo4725PbMME0v_16-wbT4YJjrDeqLSEFo1RLYXystPkJ1yqKvcZuoaOQrvIhw6d3NA&ved=2ahUKEwjEjLnn6eSWAxVY4TgGHdGVGPkQFnoECA0QAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Maui_High_School",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+   "snippet": "Maui High School is a public high school founded in 1913 in Hamakuapoko, a sugarcane plantation town on the island of Maui in Hawaii. In 1972, the school ...",
+   "snippet_highlighted_words": [
+    "Maui High School",
+    "Hawaii"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Maui High School is a public high school founded in 1913 in Hamakuapoko, a sugarcane plantation town on the island of Maui in Hawaii. In 1972, the school ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Maui_High_School",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESZgHrOzAV_T1l7sRitFfdkyvvMWSyK70D9Y0tTssOvaWCM45AY2gPjodhCm2akuctZgRNs-xcvo4725PbMME0v_16-wbT4YJjrDeqLSEFo1RLYXystPkJ1yqKvcZuoaOQrvIhw6d3NA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESZgHrOzAV_T1l7sRitFfdkyvvMWSyK70D9Y0tTssOvaWCM45AY2gPjodhCm2akuctZgRNs-xcvo4725PbMME0v_16-wbT4YJjrDeqLSEFo1RLYXystPkJ1yqKvcZuoaOQrvIhw6d3NA",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Maui_High_School#:~:text=Maui%20High%20School%20is%20a,new%20location%20in%20Kahului%2C%20Hawaii."
+  },
+  {
+   "position": 3,
+   "title": "Maui High School in Kahului, HI",
+   "link": "https://www.usnews.com/education/best-high-schools/hawaii/districts/hawaii-department-of-education/maui-high-school-6147",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESsAEB6zswFaAr_lMy5pQxh6hiD14ndByf57CgV4m-fxRjyUH-ZSqE-bp8o2p9MHH81Kbmluu1Y9RULpxbHZ29QJWwBP1rGdQZ0gQH4IiIWkYI-5g3iLCvPZmJlxrBgy2ODc0RRZoFg0VBlxphvzDam44KjpfOUz0EMh2ivhPqavj1OvCGFs8I8sdYIdEbtAv3vHdV8efEhj0ieygO6jTFA7lcchfOWzBJ_9S_BvWhfaAjNQ&ved=2ahUKEwjEjLnn6eSWAxVY4TgGHdGVGPkQFnoECAwQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a education \u203a hawaii \u203a districts",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png",
+   "snippet": "Maui High School is ranked 14th within Hawaii. Students have the opportunity to take Advanced Placement\u00ae coursework and exams. The AP\u00ae participation rate at ...",
+   "snippet_highlighted_words": [
+    "Maui High School",
+    "Hawaii"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Maui High School is ranked 14th within Hawaii. Students have the opportunity to take Advanced Placement\u00ae coursework and exams. The AP\u00ae participation rate at ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/hawaii/districts/hawaii-department-of-education/maui-high-school-6147",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESsAEB6zswFaAr_lMy5pQxh6hiD14ndByf57CgV4m-fxRjyUH-ZSqE-bp8o2p9MHH81Kbmluu1Y9RULpxbHZ29QJWwBP1rGdQZ0gQH4IiIWkYI-5g3iLCvPZmJlxrBgy2ODc0RRZoFg0VBlxphvzDam44KjpfOUz0EMh2ivhPqavj1OvCGFs8I8sdYIdEbtAv3vHdV8efEhj0ieygO6jTFA7lcchfOWzBJ_9S_BvWhfaAjNQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESsAEB6zswFaAr_lMy5pQxh6hiD14ndByf57CgV4m-fxRjyUH-ZSqE-bp8o2p9MHH81Kbmluu1Y9RULpxbHZ29QJWwBP1rGdQZ0gQH4IiIWkYI-5g3iLCvPZmJlxrBgy2ODc0RRZoFg0VBlxphvzDam44KjpfOUz0EMh2ivhPqavj1OvCGFs8I8sdYIdEbtAv3vHdV8efEhj0ieygO6jTFA7lcchfOWzBJ_9S_BvWhfaAjNQ",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/hawaii/districts/hawaii-department-of-education/maui-high-school-6147#:~:text=Maui%20High%20School%20is%20ranked,grade%20enrollment%20is%20415%20students."
+  },
+  {
+   "position": 4,
+   "title": "Maui High School (@mauihighsabers) \u00b7 Kahului, HI",
+   "link": "https://www.instagram.com/mauihighsabers/?hl=en",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZwHrOzAVOUT2ft6zJhypcs8zVZdEokE_gNS3Cb_5yQvcDyaa1Zl_eIe1AvJIUIbK3H7xoqGK_Fm_4Oh9VkBbnXip1dHfhHKrXpnYvlRh4PEw1VHAUZaASkGb622eIecpEe4MpWf36Nk&ved=2ahUKEwjEjLnn6eSWAxVY4TgGHdGVGPkQFnoECA8QAQ&uoh=1",
+   "displayed_link": "5.3K+ followers",
+   "favicon": "https://serpapi.com/searches/6aa30f919c2312f320c904ca/images/4kfEgH0DiMz6X5atvS81Ar9GBsHXhpQ9BL8SnA3mr3M.png",
+   "snippet": "5.3K+ followers \u00b7 1.6K+ posts \u00b7 The official IG of Maui High School #saberlegacy #saberway Visit us at www.mauihigh.org.",
+   "snippet_highlighted_words": [
+    "Maui High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "5.3K+ followers \u00b7 1.6K+ posts \u00b7 The official IG of Maui High School #saberlegacy #saberway Visit us at www.mauihigh.org.",
+     "source_info_link": "https://www.instagram.com/mauihighsabers/?hl=en",
+     "icon": "https://serpapi.com/searches/6aa30f919c2312f320c904ca/images/4kfEgH0DiMz6X5atvS81AmqLVZELM2bbUruiMLbWJk-Twbp5lmIH8gZtlqZhLp48.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESZwHrOzAVOUT2ft6zJhypcs8zVZdEokE_gNS3Cb_5yQvcDyaa1Zl_eIe1AvJIUIbK3H7xoqGK_Fm_4Oh9VkBbnXip1dHfhHKrXpnYvlRh4PEw1VHAUZaASkGb622eIecpEe4MpWf36Nk&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESZwHrOzAVOUT2ft6zJhypcs8zVZdEokE_gNS3Cb_5yQvcDyaa1Zl_eIe1AvJIUIbK3H7xoqGK_Fm_4Oh9VkBbnXip1dHfhHKrXpnYvlRh4PEw1VHAUZaASkGb622eIecpEe4MpWf36Nk",
+   "source": "Instagram \u00b7 mauihighsabers"
+  },
+  {
+   "position": 5,
+   "title": "Maui High School",
+   "link": "https://www.mauicounty.gov/facilities/Facility/Details/277",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScgHrOzAVPNHO4xvb90e76bw7LjHF7BY9OLr2qRWejJo4OaivJQm4lC1OpT_ooj12Bf6UM1Ta0JT1xTTGEHwRGt114fi_Hid62h002T1hwJuEfJrYGnagZ_WU7XPZe0Yv9b_2OKwavbXe2eBD0AvKk6RT-g&ved=2ahUKEwjEjLnn6eSWAxVY4TgGHdGVGPkQFnoECAsQAQ&uoh=1",
+   "displayed_link": "https://www.mauicounty.gov \u203a facilities \u203a Facility \u203a Details",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAABnRSTlMAAAAAAABupgeRAAAB7ElEQVR4AXVSAYfjQBTOjzhAAAEMoIACFlBwAhhFRVGxqFHUCOIpYhT1DGoEFUVFUXWoWFQsTi2qFicOpw7sj7gvttbp2ifijfm-977vvfHuolgYk8RqEOKjSYyj91WUudMjCZyZRjxTnMQts9-jR8n2E40TBSgQZU7VxhRWu4UuV1QsiVP13u3_2qyHEoj92hhraMn0VJvjSa9LHMEpLOlh6OZ0I6Cpy1Tzun-HVlt9yXv7LdH5qo8Xyt3lpURnFL25RMfm177YFbjmY9VYcT1-wx9NwKHnC6_d9U-NJpDnQZxJIpwhgM4NbUjPhFoGeiHUSutDTa9vtKua854zDS2e6kOcrrasdyzTnhwLORHhVESLjsyQd6K5pqey3DDMANwSeAa7zIdunAZqDYSIxgGYbY7kMVD2oWxHR3oQejSOoAyS3ObBHQTZwFih50HU9_HntVCJT1n39LOVhEV5LmtHdv1dl1tVvIh44sdDH-ho4MvvbQ6-y-Xb3xoGsC4PAR7aYXa87KFqPPKhBEwkKvVN3js9F61J6EF8TBaTxsdW6rTjDh33o8OrLtuwsFi5gQpY9T7CTBWeDZ5QtXW45ix2t9dh3BxXIY1j7y6weZTRo7YSFo8hIqGxBBo-va-C03Y7AKEhvJlE3QH-AW_MQXjZN-TLAAAAAElFTkSuQmCC.png",
+   "snippet": "Maui High School opened in 1913 in the community of Hamakuapoko, which is located in the northeast sector of Maui. Maui High School was the first academic ...",
+   "snippet_highlighted_words": [
+    "Maui High School",
+    "Maui High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Maui High School opened in 1913 in the community of Hamakuapoko, which is located in the northeast sector of Maui. Maui High School was the first academic ...",
+     "source_info_link": "https://www.mauicounty.gov/facilities/Facility/Details/277",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAABnRSTlMAAAAAAABupgeRAAAB7ElEQVR4AXVSAYfjQBTOjzhAAAEMoIACFlBwAhhFRVGxqFHUCOIpYhT1DGoEFUVFUXWoWFQsTi2qFicOpw7sj7gvttbp2ifijfm-977vvfHuolgYk8RqEOKjSYyj91WUudMjCZyZRjxTnMQts9-jR8n2E40TBSgQZU7VxhRWu4UuV1QsiVP13u3_2qyHEoj92hhraMn0VJvjSa9LHMEpLOlh6OZ0I6Cpy1Tzun-HVlt9yXv7LdH5qo8Xyt3lpURnFL25RMfm177YFbjmY9VYcT1-wx9NwKHnC6_d9U-NJpDnQZxJIpwhgM4NbUjPhFoGeiHUSutDTa9vtKua854zDS2e6kOcrrasdyzTnhwLORHhVESLjsyQd6K5pqey3DDMANwSeAa7zIdunAZqDYSIxgGYbY7kMVD2oWxHR3oQejSOoAyS3ObBHQTZwFih50HU9_HntVCJT1n39LOVhEV5LmtHdv1dl1tVvIh44sdDH-ho4MvvbQ6-y-Xb3xoGsC4PAR7aYXa87KFqPPKhBEwkKvVN3js9F61J6EF8TBaTxsdW6rTjDh33o8OrLtuwsFi5gQpY9T7CTBWeDZ5QtXW45ix2t9dh3BxXIY1j7y6weZTRo7YSFo8hIqGxBBo-va-C03Y7AKEhvJlE3QH-AW_MQXjZN-TLAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEScgHrOzAVPNHO4xvb90e76bw7LjHF7BY9OLr2qRWejJo4OaivJQm4lC1OpT_ooj12Bf6UM1Ta0JT1xTTGEHwRGt114fi_Hid62h002T1hwJuEfJrYGnagZ_WU7XPZe0Yv9b_2OKwavbXe2eBD0AvKk6RT-g&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEScgHrOzAVPNHO4xvb90e76bw7LjHF7BY9OLr2qRWejJo4OaivJQm4lC1OpT_ooj12Bf6UM1Ta0JT1xTTGEHwRGt114fi_Hid62h002T1hwJuEfJrYGnagZ_WU7XPZe0Yv9b_2OKwavbXe2eBD0AvKk6RT-g",
+   "source": "Maui County (.gov)",
+   "read_more_link": "https://www.mauicounty.gov/facilities/Facility/Details/277#:~:text=Maui%20High%20School%20opened%20in,initial%20enrollment%20of%20sixteen%20students."
+  },
+  {
+   "position": 6,
+   "title": "2026 Best High Schools in Maui County, HI",
+   "link": "https://www.niche.com/k12/search/best-high-schools/c/maui-county-hi/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHrOzAVFLi3Kmkm3BPpIL61Uu5n15wKq47HYSTky8XrA5qRo56RJDNe9U-YHIkWx9Ralt6eJMFr0jeh0v_3VmdEruhaqGczqazMkXdQjDZBzTu7t0Dygqf3QlL-_IS4UVUFDWAJnRNMk121YJJdMmrXpMuI721JaV9wHmA&ved=2ahUKEwjEjLnn6eSWAxVY4TgGHdGVGPkQFnoECBAQAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a America \u203a Hawaii",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png",
+   "snippet": "Maui High School. Hawaii Department Of Education, HI; 9-12. Rating 4.02 out of 5. 325 reviewsreviews. Senior: My time at Maui high school ...",
+   "snippet_highlighted_words": [
+    "Maui High School",
+    "Hawaii",
+    "Maui high school"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Maui High School. Hawaii Department Of Education, HI; 9-12. Rating 4.02 out of 5. 325 reviewsreviews. Senior: My time at Maui high school ...",
+     "source_info_link": "https://www.niche.com/k12/search/best-high-schools/c/maui-county-hi/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESfAHrOzAVFLi3Kmkm3BPpIL61Uu5n15wKq47HYSTky8XrA5qRo56RJDNe9U-YHIkWx9Ralt6eJMFr0jeh0v_3VmdEruhaqGczqazMkXdQjDZBzTu7t0Dygqf3QlL-_IS4UVUFDWAJnRNMk121YJJdMmrXpMuI721JaV9wHmA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESfAHrOzAVFLi3Kmkm3BPpIL61Uu5n15wKq47HYSTky8XrA5qRo56RJDNe9U-YHIkWx9Ralt6eJMFr0jeh0v_3VmdEruhaqGczqazMkXdQjDZBzTu7t0Dygqf3QlL-_IS4UVUFDWAJnRNMk121YJJdMmrXpMuI721JaV9wHmA",
+   "source": "Niche",
+   "read_more_link": "https://www.niche.com/k12/search/best-high-schools/c/maui-county-hi/#:~:text=Maui%20High%20School,found%20outside%20the%20regular%20classroom."
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Maui high school hawaii football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Maui+high+school+hawaii+football&sa=X&ved=2ahUKEwjEjLnn6eSWAxVY4TgGHdGVGPkQ1QJ6BAgSEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Maui+high+school+hawaii+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Maui high school hawaii yearbook",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Maui+high+school+hawaii+yearbook&sa=X&ved=2ahUKEwjEjLnn6eSWAxVY4TgGHdGVGPkQ1QJ6BAg6EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Maui+high+school+hawaii+yearbook"
+  },
+  {
+   "block_position": 1,
+   "query": "Maui High School football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Maui+High+School+football&sa=X&ved=2ahUKEwjEjLnn6eSWAxVY4TgGHdGVGPkQ1QJ6BAg5EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Maui+High+School+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Maui high school hawaii ranking",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Maui+high+school+hawaii+ranking&sa=X&ved=2ahUKEwjEjLnn6eSWAxVY4TgGHdGVGPkQ1QJ6BAgwEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Maui+high+school+hawaii+ranking"
+  },
+  {
+   "block_position": 1,
+   "query": "Maui high school hawaii famous alumni",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Maui+high+school+hawaii+famous+alumni&sa=X&ved=2ahUKEwjEjLnn6eSWAxVY4TgGHdGVGPkQ1QJ6BAgmEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Maui+high+school+hawaii+famous+alumni"
+  },
+  {
+   "block_position": 1,
+   "query": "Maui High School map",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Maui+High+School+map&sa=X&ved=2ahUKEwjEjLnn6eSWAxVY4TgGHdGVGPkQ1QJ6BAggEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Maui+High+School+map"
+  },
+  {
+   "block_position": 1,
+   "query": "Maui high school photos",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Maui+high+school+photos&sa=X&ved=2ahUKEwjEjLnn6eSWAxVY4TgGHdGVGPkQ1QJ6BAgZEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Maui+high+school+photos"
+  },
+  {
+   "block_position": 1,
+   "query": "Old Maui High School",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Old+Maui+High+School&sa=X&ved=2ahUKEwjEjLnn6eSWAxVY4TgGHdGVGPkQ1QJ6BAgUEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Old+Maui+High+School"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Maui+High+School%22+Hawaii&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=nA-jasRO2MLj4Q_Rq-LIDw&start=10&sa=N&sstk=AS6-VmK6SDREGfNxQvqvATVP2QfVCgz3P6m2zpA5HhcDDGN16_dxnPGVxMTdYVXuhFq2QwJ6qEd3zDWN9XIHmkuAWNAS02KpgmwdQg&ved=2ahUKEwjEjLnn6eSWAxVY4TgGHdGVGPkQ8NMDegQIcBAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Maui+High+School%22+Hawaii&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=nA-jasRO2MLj4Q_Rq-LIDw&start=10&sa=N&sstk=AS6-VmK6SDREGfNxQvqvATVP2QfVCgz3P6m2zpA5HhcDDGN16_dxnPGVxMTdYVXuhFq2QwJ6qEd3zDWN9XIHmkuAWNAS02KpgmwdQg&ved=2ahUKEwjEjLnn6eSWAxVY4TgGHdGVGPkQ8tMDegQIcBAE",
+   "3": "https://www.google.com/search?q=%22Maui+High+School%22+Hawaii&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=nA-jasRO2MLj4Q_Rq-LIDw&start=20&sa=N&sstk=AS6-VmK6SDREGfNxQvqvATVP2QfVCgz3P6m2zpA5HhcDDGN16_dxnPGVxMTdYVXuhFq2QwJ6qEd3zDWN9XIHmkuAWNAS02KpgmwdQg&ved=2ahUKEwjEjLnn6eSWAxVY4TgGHdGVGPkQ8tMDegQIcBAG",
+   "4": "https://www.google.com/search?q=%22Maui+High+School%22+Hawaii&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=nA-jasRO2MLj4Q_Rq-LIDw&start=30&sa=N&sstk=AS6-VmK6SDREGfNxQvqvATVP2QfVCgz3P6m2zpA5HhcDDGN16_dxnPGVxMTdYVXuhFq2QwJ6qEd3zDWN9XIHmkuAWNAS02KpgmwdQg&ved=2ahUKEwjEjLnn6eSWAxVY4TgGHdGVGPkQ8tMDegQIcBAI",
+   "5": "https://www.google.com/search?q=%22Maui+High+School%22+Hawaii&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=nA-jasRO2MLj4Q_Rq-LIDw&start=40&sa=N&sstk=AS6-VmK6SDREGfNxQvqvATVP2QfVCgz3P6m2zpA5HhcDDGN16_dxnPGVxMTdYVXuhFq2QwJ6qEd3zDWN9XIHmkuAWNAS02KpgmwdQg&ved=2ahUKEwjEjLnn6eSWAxVY4TgGHdGVGPkQ8tMDegQIcBAK",
+   "6": "https://www.google.com/search?q=%22Maui+High+School%22+Hawaii&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=nA-jasRO2MLj4Q_Rq-LIDw&start=50&sa=N&sstk=AS6-VmK6SDREGfNxQvqvATVP2QfVCgz3P6m2zpA5HhcDDGN16_dxnPGVxMTdYVXuhFq2QwJ6qEd3zDWN9XIHmkuAWNAS02KpgmwdQg&ved=2ahUKEwjEjLnn6eSWAxVY4TgGHdGVGPkQ8tMDegQIcBAM",
+   "7": "https://www.google.com/search?q=%22Maui+High+School%22+Hawaii&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=nA-jasRO2MLj4Q_Rq-LIDw&start=60&sa=N&sstk=AS6-VmK6SDREGfNxQvqvATVP2QfVCgz3P6m2zpA5HhcDDGN16_dxnPGVxMTdYVXuhFq2QwJ6qEd3zDWN9XIHmkuAWNAS02KpgmwdQg&ved=2ahUKEwjEjLnn6eSWAxVY4TgGHdGVGPkQ8tMDegQIcBAO",
+   "8": "https://www.google.com/search?q=%22Maui+High+School%22+Hawaii&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=nA-jasRO2MLj4Q_Rq-LIDw&start=70&sa=N&sstk=AS6-VmK6SDREGfNxQvqvATVP2QfVCgz3P6m2zpA5HhcDDGN16_dxnPGVxMTdYVXuhFq2QwJ6qEd3zDWN9XIHmkuAWNAS02KpgmwdQg&ved=2ahUKEwjEjLnn6eSWAxVY4TgGHdGVGPkQ8tMDegQIcBAQ",
+   "9": "https://www.google.com/search?q=%22Maui+High+School%22+Hawaii&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=nA-jasRO2MLj4Q_Rq-LIDw&start=80&sa=N&sstk=AS6-VmK6SDREGfNxQvqvATVP2QfVCgz3P6m2zpA5HhcDDGN16_dxnPGVxMTdYVXuhFq2QwJ6qEd3zDWN9XIHmkuAWNAS02KpgmwdQg&ved=2ahUKEwjEjLnn6eSWAxVY4TgGHdGVGPkQ8tMDegQIcBAS",
+   "10": "https://www.google.com/search?q=%22Maui+High+School%22+Hawaii&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=nA-jasRO2MLj4Q_Rq-LIDw&start=90&sa=N&sstk=AS6-VmK6SDREGfNxQvqvATVP2QfVCgz3P6m2zpA5HhcDDGN16_dxnPGVxMTdYVXuhFq2QwJ6qEd3zDWN9XIHmkuAWNAS02KpgmwdQg&ved=2ahUKEwjEjLnn6eSWAxVY4TgGHdGVGPkQ8tMDegQIcBAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Maui+High+School%22+Hawaii&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Maui+High+School%22+Hawaii&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Maui+High+School%22+Hawaii&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Maui+High+School%22+Hawaii&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Maui+High+School%22+Hawaii&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Maui+High+School%22+Hawaii&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Maui+High+School%22+Hawaii&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Maui+High+School%22+Hawaii&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Maui+High+School%22+Hawaii&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Maui+High+School%22+Hawaii&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Maui+High+School%22+Hawaii&start=90"
+  }
+ }
+}

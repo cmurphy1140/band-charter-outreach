@@ -1,0 +1,545 @@
+{
+ "search_information": {
+  "query_displayed": "\"Carmel High School\" Indiana",
+  "total_results": 203000,
+  "time_taken_displayed": 0.27,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Carmel High School",
+  "type": "High school in Carmel, Indiana",
+  "entity_type": "local_nav",
+  "kgmid": "/m/09np0p",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/09np0p&hl=en-US&q=Carmel+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F09np0p&q=Carmel+High+School",
+  "place_id": "ChIJA1LyhsKtFIgRown7f3GsFOI",
+  "website": "https://www.ccs.k12.in.us/chs",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa3087d6adf2758cdfa5fa0/images/DF-f0CpjxvHksxVWUuyeEnMNZMKGJVdw9ivh88-R7So.webp",
+   "link": "https://www.google.com/maps/place/Carmel+High+School/data=!4m2!3m1!1s0x0:0xe214ac717ffb09a3?sa=X&ved=2ahUKEwigvuGJ4-SWAxVtjIkEHQqEEIoQ_BJ6BAgYEAA&hl=en&gl=us"
+  },
+  "address": "520 E Main St, Carmel, IN 46032",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt7xrvTvdrMgZPp8w6Gg_hZDLFgew:1789069452935&q=carmel+high+school+address&ludocid=16290835355584367011&sa=X&ved=2ahUKEwigvuGJ4-SWAxVtjIkEHQqEEIoQ6BN6BAggEAI"
+   }
+  ],
+  "colors": "Blue, Gold",
+  "colors_links": [
+   {
+    "text": "Blue",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt7xrvTvdrMgZPp8w6Gg_hZDLFgew:1789069452935&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpvdEmEKP4dQQoWLIwXjhkBjOThA3TO1rl4rjAeqO-nYmlocPkNZT9J4o-pXy75y1IyIEp1VQ0Lt7664V2VFrx608pw0RyLvt2LFHTd1M0AhTPmxYoSPz0LbnsBaUVYqfVph3DOUB3d3eSxuGpaHIjEv12A_R46fmb32BlpZQnYSAG3yH479t21SndFtMiJonCyTes3g%3D&sa=X&ved=2ahUKEwigvuGJ4-SWAxVtjIkEHQqEEIoQmxN6BAgmEAI"
+   },
+   {
+    "text": "Gold",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt7xrvTvdrMgZPp8w6Gg_hZDLFgew:1789069452935&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yU7RztYK-Yab4edFiOhB1UYVMdltt-ZMsiXUtQINgv1cMjAaX6hZmiI_z-b_McNi9zLxkviYlN_jhKxfZZPRaBo3pMNAONP0xC65gT04NuRwss4Xna4csq6J_u0yOEcVR5qlli5eAanlfhj_I6u65KlH3Hvint5svVskoo6MF9mWBWF1ni8NktIIma1bPHwp7MSWD94%3D&sa=X&ved=2ahUKEwigvuGJ4-SWAxVtjIkEHQqEEIoQmxN6BAgmEAM"
+   }
+  ],
+  "founded": "1869",
+  "school_types": "High school, State school, Public school",
+  "school_types_links": [
+   {
+    "text": "High school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt7xrvTvdrMgZPp8w6Gg_hZDLFgew:1789069452935&q=High+school&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMppXfNh-OkLk_azmU0uk1AX8WDg6Aey6nZnfzhISz_BahG86fIXhZzQ_5i9gVo2jpkRefi2vb1cuIcbbWsQX1bg-7OrENYaerTHY7HdnuvRnhDRVmYwRj7RrksdEHNN5Wk85pprtKkEOO0gD0B6kxVlTKsZobXBIqrPHhP-k_BGSxR9pUaHStVGVlWiDpI2TiyRFgoQ9OkuPPFfX74HhTjmeWZa5Ac0SbiGxpes3k_wGBENEji5p0HkIYfMZIcgQDn-xWFrk%3D&sa=X&ved=2ahUKEwigvuGJ4-SWAxVtjIkEHQqEEIoQmxN6BAgoEAI"
+   },
+   {
+    "text": "State school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt7xrvTvdrMgZPp8w6Gg_hZDLFgew:1789069452935&q=State+school&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ybGtCxI0H8z2nV80srIO5hh43iJrpLL9zyTRHToodwNipZCD4kcN2wbzA3OqfyGettl42NpXglwsH4hnJQRSg4KBrFTowpZphOt0qedRcJ2AMY4381eJd7gSHzsWObpKZwjy2sGX42mV9Fo3odBPYKrN96yYdABRb9vRc_8pENuD6V6Yk8QV9clnsRO3Gm-idXoMoAPl8Bkeh3WhuzerwK4WU3vCHdYMgu8vM5vCbtjYTn2EZDrRni-STOqtB9hi2v9UEy8%3D&sa=X&ved=2ahUKEwigvuGJ4-SWAxVtjIkEHQqEEIoQmxN6BAgoEAM"
+   },
+   {
+    "text": "Public school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt7xrvTvdrMgZPp8w6Gg_hZDLFgew:1789069452935&q=Public+school&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpnRjecyiHCyfvh60pbD8ck5PRN1YHP_sJ4SP5ZvhFW1SCqcU73cy8ciuVYm7MIcM9JKjoj5TcP9yh14TUTaTMZ3No418INxdY9bFHeSRgFp7Z4kbyT3qTUYn4Aox7OnygnvHRY07CQcNs2Bx1Gd9x3k80lSslPYX-nat7wpFXuIr6TWTFY_m-Ck-GgtJGPrwdlT1udl6h1FWEzj1i3RvTDCwXwk8m04JI89kMONHWXN-5OksaNf9SZBQxThGLJDpW8pMW9M%3D&sa=X&ved=2ahUKEwigvuGJ4-SWAxVtjIkEHQqEEIoQmxN6BAgoEAQ"
+   }
+  ],
+  "phone": "(317) 846-7721",
+  "raw_hours": "Closes soon \u00b7 4 - 05 PM \u00b7 Opens 9 - 05 AM Fri",
+  "hours": {
+   "thursday": {
+    "opens": "9:05\u202fAM",
+    "closes": "4:05\u202fPM"
+   },
+   "friday": {
+    "opens": "9:05\u202fAM",
+    "closes": "4:05\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "9:05\u202fAM",
+    "closes": "4:05\u202fPM"
+   },
+   "tuesday": {
+    "opens": "9:05\u202fAM",
+    "closes": "4:05\u202fPM"
+   },
+   "wednesday": {
+    "opens": "9:05\u202fAM",
+    "closes": "4:05\u202fPM"
+   }
+  },
+  "people_also_search_for": [
+   {
+    "name": "Fishers High School",
+    "image": "https://serpapi.com/searches/6aa3087d6adf2758cdfa5fa0/images/DF-f0CpjxvHksxVWUuyeEug4SN3iwMZaZ5Pqm8xpju4-GotXGn670RgSntibwQif.png",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt7xrvTvdrMgZPp8w6Gg_hZDLFgew:1789069452935&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yedrd6ubDopvZIjLMqtZCnQjMFcOtY6I5pFNS0DJlKAJQrDbcpIq7Zu0OkkzY9bgBFQlyo8lxFVpFMnM5_akT8LyvEDK6gkGdqm1ZdGZEYlX74Zh-ljXy0rO-AkmvKtfiHZwnzo1jIleLyIVG7VhZ1beHnBP5NHT0wt2MX4wBQD9XxlC0wHHoKezOY3zDhwjsXlDgyx48c-Q5E3VFjMgndA5fzo3FToDuhQVBaPH2K1qN1DPscuKHQql2q3WBpGnZ1JVxsE%3D&q=Fishers+High+School&sa=X&ved=2ahUKEwigvuGJ4-SWAxVtjIkEHQqEEIoQs9oBKAB6BAgfEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Fishers+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yedrd6ubDopvZIjLMqtZCnQjMFcOtY6I5pFNS0DJlKAJQrDbcpIq7Zu0OkkzY9bgBFQlyo8lxFVpFMnM5_akT8LyvEDK6gkGdqm1ZdGZEYlX74Zh-ljXy0rO-AkmvKtfiHZwnzo1jIleLyIVG7VhZ1beHnBP5NHT0wt2MX4wBQD9XxlC0wHHoKezOY3zDhwjsXlDgyx48c-Q5E3VFjMgndA5fzo3FToDuhQVBaPH2K1qN1DPscuKHQql2q3WBpGnZ1JVxsE%3D"
+   },
+   {
+    "name": "Carmel",
+    "image": "https://serpapi.com/searches/6aa3087d6adf2758cdfa5fa0/images/DF-f0CpjxvHksxVWUuyeEug4SN3iwMZaZ5Pqm8xpju7pdPYWI7xwdhdqjeXVcs_c.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt7xrvTvdrMgZPp8w6Gg_hZDLFgew:1789069452935&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpuzvU7Lpg3fvuYSr3KT1UlilBfWRpK28p0dZkQEC5RQAINls6n2vCtGc4doI83M84fjGS4eE26BUoN8T-8Pd7SUFshAs9-IFTKkyi87QEBjn_RPqR9qZ3Kj99KEjIQ5kYkesI3g7hhsQmibxLsfLWFMHPmEnvvHQHskXuFukhosG4pI9YMsB3CIDRkFkmmMsrV66fIlXXzYnoqOBLttQnfF53kLWYCP4Q-lqDUWIHs2q2MkZ6KrmMLlfKpCM7dieXNagFPY%3D&q=Carmel,+Indiana&sa=X&ved=2ahUKEwigvuGJ4-SWAxVtjIkEHQqEEIoQs9oBKAB6BAgfEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Carmel%2C+Indiana&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpuzvU7Lpg3fvuYSr3KT1UlilBfWRpK28p0dZkQEC5RQAINls6n2vCtGc4doI83M84fjGS4eE26BUoN8T-8Pd7SUFshAs9-IFTKkyi87QEBjn_RPqR9qZ3Kj99KEjIQ5kYkesI3g7hhsQmibxLsfLWFMHPmEnvvHQHskXuFukhosG4pI9YMsB3CIDRkFkmmMsrV66fIlXXzYnoqOBLttQnfF53kLWYCP4Q-lqDUWIHs2q2MkZ6KrmMLlfKpCM7dieXNagFPY%3D"
+   },
+   {
+    "name": "Noblesville High School",
+    "image": "https://serpapi.com/searches/6aa3087d6adf2758cdfa5fa0/images/DF-f0CpjxvHksxVWUuyeEug4SN3iwMZaZ5Pqm8xpju6HJ1f3rTLVfbyx9ppNk5UO.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt7xrvTvdrMgZPp8w6Gg_hZDLFgew:1789069452935&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yferwXhQJQjryrYVRWjhIewr7lYx4sru7fTE3F5QyB6sewis5qTPkTDe5UPwM_DpdRTTsUhU1vnp0CmWXbMAWTFDneZlM25WtkLyXa1G8QAiSRiurTPp6gojXd0nqugE3LgM_Vh4J6BAgFqqEHz_cYqJzAM_AQltOeY6yMQAGiMbEKUJ_YDxLIJZsQVFyfqn0V4OaeP51IDtRPaOuCulKUSgay7gbSYJtfpHCQqesMncaoIh65hj-y1H31dqhxIwD6HfGMprg335daulH3Ee_eGGeWp0&q=Noblesville+High+School&sa=X&ved=2ahUKEwigvuGJ4-SWAxVtjIkEHQqEEIoQs9oBKAB6BAgfEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Noblesville+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yferwXhQJQjryrYVRWjhIewr7lYx4sru7fTE3F5QyB6sewis5qTPkTDe5UPwM_DpdRTTsUhU1vnp0CmWXbMAWTFDneZlM25WtkLyXa1G8QAiSRiurTPp6gojXd0nqugE3LgM_Vh4J6BAgFqqEHz_cYqJzAM_AQltOeY6yMQAGiMbEKUJ_YDxLIJZsQVFyfqn0V4OaeP51IDtRPaOuCulKUSgay7gbSYJtfpHCQqesMncaoIh65hj-y1H31dqhxIwD6HfGMprg335daulH3Ee_eGGeWp0"
+   },
+   {
+    "name": "Westfield High School",
+    "image": "https://serpapi.com/searches/6aa3087d6adf2758cdfa5fa0/images/DF-f0CpjxvHksxVWUuyeEug4SN3iwMZaZ5Pqm8xpju6ab5kymtYbpmdU0vK0UX6Q.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt7xrvTvdrMgZPp8w6Gg_hZDLFgew:1789069452935&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ya_kJENqOvRQnKvYMGQSSMhPwDnmUT2Vf44NO1-RLSNlXP1h1N3ZbAmluU49ZPw-aKJeMxsjolfaQ2ucbDDsl4qbN5RWC5hU3t7jaMZMm_Y67wAUFDT5DLNZNwQ2c9nDy9glio_fIDeD0qPN0c4LR4dfs455dKtJj2abk4q2PF4wwjrqO7W1e4p8-W7CJSoIaIdZS9oB8OvbpEDeETdUO4VbO8vl6LkB35WHAvfEwtrADaGcmKp9FqubPxifjLFxPUTmoVArR1PvRRA4b-b9q21w135s&q=Westfield+High+School&sa=X&ved=2ahUKEwigvuGJ4-SWAxVtjIkEHQqEEIoQs9oBKAB6BAgfEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Westfield+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ya_kJENqOvRQnKvYMGQSSMhPwDnmUT2Vf44NO1-RLSNlXP1h1N3ZbAmluU49ZPw-aKJeMxsjolfaQ2ucbDDsl4qbN5RWC5hU3t7jaMZMm_Y67wAUFDT5DLNZNwQ2c9nDy9glio_fIDeD0qPN0c4LR4dfs455dKtJj2abk4q2PF4wwjrqO7W1e4p8-W7CJSoIaIdZS9oB8OvbpEDeETdUO4VbO8vl6LkB35WHAvfEwtrADaGcmKp9FqubPxifjLFxPUTmoVArR1PvRRA4b-b9q21w135s"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt7xrvTvdrMgZPp8w6Gg_hZDLFgew:1789069452935&q=Carmel+High+School&stick=H4sIAAAAAAAAAONgFuLUz9U3sMwrMChQQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iFXJOLMpNzVHwyEzPUAhOzsjPz9nByniLTZLhjUNFYC5fU-eScMNDrNqLNkckBdukh30_DgCgU-AieAAAAA&sa=X&ved=2ahUKEwigvuGJ4-SWAxVtjIkEHQqEEIoQzO0BKAR6BAgfEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLUz9U3sMwrMChQQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iFXJOLMpNzVHwyEzPUAhOzsjPz9nByniLTZLhjUNFYC5fU-eScMNDrNqLNkckBdukh30_DgCgU-AieAAAAA",
+  "profiles": [
+   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/carmelhighschoolindiana/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Carmel+High+School%22+Indiana",
+    "image": "https://serpapi.com/searches/6aa3087d6adf2758cdfa5fa0/images/DF-f0CpjxvHksxVWUuyeEttBM4q87POTGMjpkNFsuqH_CGswjov9l8EcSMgnCNhn.png"
+   },
+   {
+    "name": "TikTok",
+    "link": "https://www.tiktok.com/@carmeldeca",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Carmel+High+School%22+Indiana",
+    "image": "https://serpapi.com/searches/6aa3087d6adf2758cdfa5fa0/images/DF-f0CpjxvHksxVWUuyeEpbIVIswi9u0wX2uEUjgSf9y-txEx5ifWPg6AYiIzZZb.png"
+   },
+   {
+    "name": "X (Twitter)",
+    "link": "https://twitter.com/chsinfo",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Carmel+High+School%22+Indiana",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAABhUlEQVR4AczOA6xcARCF4X_us23btuLUQR3WZlhbQW3bto2gtm3b2J3GN4tY74uHh3okOi42Nj4AAUDwTvDEhisABCOAEAzYTBh0bN-lc5d0QgAhHPqX4Y4pkd367Zc-xMcXCPDg8TPwxeQH724Uj9N95GJ4pnHxby1xgCmV3v-GsFb7k0Iee7UjaQgmIYe9v9O4-wUKWaATyMPAViwvr1NnOQWDdTV5CHYSaKWLmaGDyvU4mTgQcllracaFr-9uk-yLM8k8fAJff0IUTghRVFu3M1ynkYk4nchiqqU3Ry05RDibMMhjtj6Ht3dJxVk_l1G64cspOusychBsCWm01WNM0jFs0sbEYUtIIuTXNco588OLh09JxE6wweuXEAvfL9PQus3-iU80N34KCaQyUOcxTTuSjEmMRI5rS9JwIZfD1t7ceo34YIpnuQ4nGwP8XXlq_fJZd9jE8KBHC5IwAELJ7dWrZ6fOuNhkgFgAEEIAwA1MQkw0AgDC_wnKycrKSQ2iPAkAVyNzq8rxicIAAAAASUVORK5CYII.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "How much does it cost to go to Carmel High School in Indiana?",
+   "type": "ai_overview",
+   "page_token": "rCcG33icHdHLjpswGEBh9WVmOeFSqIgUVWXGzmVqEhv827CpHJPABAOmoYVh13fpug_Up-mou7P9dH79Nq9d8_fDn3oc7X29Wk3T9Fj1fWUuj7pvV-r-1umVVsaclW7W4afQ_XzVG9RPT0_3KabcWnhmToZmzl32MTOwKPllZMDC4zM0InUVw7XMpOG6SV7UruyhqzHpAPg2Uuc22iXw3oYsxK28Qsxz5pdH7SU-2eIpd-NrKmFf3uq3_BZfgVcO5UEvtjZUHdgLsFMubKo4zNAGL2SJ80SaEJy9T7x5TqAONMK0xIdeoOKYesmQIszyhh0SbgPpjF_TpXAuW9szMTYMCkJaI47Z4UYhvuftO8zBhvoWXaCOQUSTlhaly36-mBgxQ-azLE9yoa5yDhTV5UCFGXKJUcqjEzFmKjGmSkQDXeK4mPtXytmib6bl_gHRW5JJp96pNnCp0SP1gBBctOWCf0BnB04frvrnxn_4_2Hz7dqOa_u9r_4B9xmXsA",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=rCcG33icHdHLjpswGEBh9WVmOeFSqIgUVWXGzmVqEhv827CpHJPABAOmoYVh13fpug_Up-mou7P9dH79Nq9d8_fDn3oc7X29Wk3T9Fj1fWUuj7pvV-r-1umVVsaclW7W4afQ_XzVG9RPT0_3KabcWnhmToZmzl32MTOwKPllZMDC4zM0InUVw7XMpOG6SV7UruyhqzHpAPg2Uuc22iXw3oYsxK28Qsxz5pdH7SU-2eIpd-NrKmFf3uq3_BZfgVcO5UEvtjZUHdgLsFMubKo4zNAGL2SJ80SaEJy9T7x5TqAONMK0xIdeoOKYesmQIszyhh0SbgPpjF_TpXAuW9szMTYMCkJaI47Z4UYhvuftO8zBhvoWXaCOQUSTlhaly36-mBgxQ-azLE9yoa5yDhTV5UCFGXKJUcqjEzFmKjGmSkQDXeK4mPtXytmib6bl_gHRW5JJp96pNnCp0SP1gBBctOWCf0BnB04frvrnxn_4_2Hz7dqOa_u9r_4B9xmXsA",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVsUTJVbTFvWTBKSVExQk1Za040TWtjeFJsTjNiRlpDYzFGSGJWaFhSVlJyTVRsc1MzcE9XVmhoUkhBMVlYVkdjVlJXZWtVd1pHbHJRMVl6V0RZM1pqTndZMngwWlVOa0xYSjZVMUZTUjJGcE9XZ3lWMjFuU1hreFVSSVhha0ZwYW1GeFJFbFBUekpaY0hSUlVHbHZha013UVdjYUlrRkVjM0k1WmxSUlRsVXphRmx1V0ZGVU1tVTVaVFp2ZDB0aWVUYzNTR0Z6Tm5jIiwiZmN2IjoiMyIsImVpIjoiakFpamFxRElPTzJZcHRRUGlvakMwQWciLCJxYyI6IkNocGpZWEp0Wld3Z2FHbG5hQ0J6WTJodmIyd2dhVzVrYVdGdVlSQUFmYUtYT2o4IiwicXVlc3Rpb24iOiJIb3cgbXVjaCBkb2VzIGl0IGNvc3QgdG8gZ28gdG8gQ2FybWVsIEhpZ2ggU2Nob29sIGluIEluZGlhbmE/IiwibGsiOiJjeFhFd1FuQU1Bd0R3RDM2MGhvZHh6Z2hNaVFSMUE1ZHZfUWVkOTNVaTNXY2FPcUpLTGl5VU1MUXY5dXotZ1JqRU9tVUptSzNzRzBmIiwiYnMiOiJjNFhRTVF2Q01CQUZZRnd6T1JmRVoyZW5nb09JRkJTeEJUY0ZYV09iSnNFMGdTUlNDdjU0cmJZZFZIUzU2ZDMzdUNNM3NreE1oZkthQ2VTR09VaVB6RGdQYjhCTk05ZlVsa3doa1Z4Z253bGpGS1JHcW5OSk5ZMmpSVEFYdjRIc0JZZ0djQjN3M0NZSkNWUFhOa3c3RXhRVm84cUxHdFN5UjBVWVFMcU9rVjlEWkVQUVN6MjAyNjRPS0t4a09sZDFIRTJDOGFlai1ObjNHWElpczZPZ3Z1bnpnc0ZTZlpHYXd4VF8zakFPUm05d2UycExEQWQzIiwiaWQiOiJmY19qQWlqYXFESU9PMllwdFFQaW9qQzBBZ180In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVsUTJVbTFvWTBKSVExQk1Za040TWtjeFJsTjNiRlpDYzFGSGJWaFhSVlJyTVRsc1MzcE9XVmhoUkhBMVlYVkdjVlJXZWtVd1pHbHJRMVl6V0RZM1pqTndZMngwWlVOa0xYSjZVMUZTUjJGcE9XZ3lWMjFuU1hreFVSSVhha0ZwYW1GeFJFbFBUekpaY0hSUlVHbHZha013UVdjYUlrRkVjM0k1WmxSUlRsVXphRmx1V0ZGVU1tVTVaVFp2ZDB0aWVUYzNTR0Z6Tm5jIiwiZmN2IjoiMyIsImVpIjoiakFpamFxRElPTzJZcHRRUGlvakMwQWciLCJxYyI6IkNocGpZWEp0Wld3Z2FHbG5hQ0J6WTJodmIyd2dhVzVrYVdGdVlSQUFmYUtYT2o4IiwicXVlc3Rpb24iOiJIb3cgbXVjaCBkb2VzIGl0IGNvc3QgdG8gZ28gdG8gQ2FybWVsIEhpZ2ggU2Nob29sIGluIEluZGlhbmE%2FIiwibGsiOiJjeFhFd1FuQU1Bd0R3RDM2MGhvZHh6Z2hNaVFSMUE1ZHZfUWVkOTNVaTNXY2FPcUpLTGl5VU1MUXY5dXotZ1JqRU9tVUptSzNzRzBmIiwiYnMiOiJjNFhRTVF2Q01CQUZZRnd6T1JmRVoyZW5nb09JRkJTeEJUY0ZYV09iSnNFMGdTUlNDdjU0cmJZZFZIUzU2ZDMzdUNNM3NreE1oZkthQ2VTR09VaVB6RGdQYjhCTk05ZlVsa3doa1Z4Z253bGpGS1JHcW5OSk5ZMmpSVEFYdjRIc0JZZ0djQjN3M0NZSkNWUFhOa3c3RXhRVm84cUxHdFN5UjBVWVFMcU9rVjlEWkVQUVN6MjAyNjRPS0t4a09sZDFIRTJDOGFlai1ObjNHWElpczZPZ3Z1bnpnc0ZTZlpHYXd4VF8zakFPUm05d2UycExEQWQzIiwiaWQiOiJmY19qQWlqYXFESU9PMllwdFFQaW9qQzBBZ180In0%3D"
+  },
+  {
+   "question": "Is Carmel, Indiana a wealthy area?",
+   "type": "ai_overview",
+   "page_token": "btSf63icHdBdbpswAABg7TJ9bOyydiJSNIlgs6TFwTa2Y14mYkgomL_VLT9vu8tOtdNU6neE7-8_-9o1_799VM4Nb9vNZpqm-1vf32x5b_p2k78tndmY3NpLbprt048n-PNqduj9EOzHQ0DFMMiQAQ6qmWO98oa9xLWNdEd0Af2AC6eVoktcHwNS24Vay09RBS6ycrFXKJ2ylWMcpb9IqJtmJqpKYoC-81S6Agw191jGFygNwMnpbBsC3Bq3j0tpMSJQOAGZKy1T-iwTswfeSWWQQhIIL4uIRLM8HzwByJLCQlwejlkZHvc5qJh5sM9lNzwz5SMSDeAlJYsIs0MZZu9UVh2qipEqO-ozRlz4SWztVGBMc-WPdA2CbO5fqWCrqW0rwJxcEPI4YgOVNiUtGTVgU9n41izg8YQzWEx3V_Ox8-6-Pne_r63bDn_62yfYT4K8",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=btSf63icHdBdbpswAABg7TJ9bOyydiJSNIlgs6TFwTa2Y14mYkgomL_VLT9vu8tOtdNU6neE7-8_-9o1_799VM4Nb9vNZpqm-1vf32x5b_p2k78tndmY3NpLbprt048n-PNqduj9EOzHQ0DFMMiQAQ6qmWO98oa9xLWNdEd0Af2AC6eVoktcHwNS24Vay09RBS6ycrFXKJ2ylWMcpb9IqJtmJqpKYoC-81S6Agw191jGFygNwMnpbBsC3Bq3j0tpMSJQOAGZKy1T-iwTswfeSWWQQhIIL4uIRLM8HzwByJLCQlwejlkZHvc5qJh5sM9lNzwz5SMSDeAlJYsIs0MZZu9UVh2qipEqO-ozRlz4SWztVGBMc-WPdA2CbO5fqWCrqW0rwJxcEPI4YgOVNiUtGTVgU9n41izg8YQzWEx3V_Ox8-6-Pne_r63bDn_62yfYT4K8",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVsUTJVbTFvWTBKSVExQk1Za040TWtjeFJsTjNiRlpDYzFGSGJWaFhSVlJyTVRsc1MzcE9XVmhoUkhBMVlYVkdjVlJXZWtVd1pHbHJRMVl6V0RZM1pqTndZMngwWlVOa0xYSjZVMUZTUjJGcE9XZ3lWMjFuU1hreFVSSVhha0ZwYW1GeFJFbFBUekpaY0hSUlVHbHZha013UVdjYUlrRkVjM0k1WmxSUlRsVXphRmx1V0ZGVU1tVTVaVFp2ZDB0aWVUYzNTR0Z6Tm5jIiwiZmN2IjoiMyIsImVpIjoiakFpamFxRElPTzJZcHRRUGlvakMwQWciLCJxYyI6IkNocGpZWEp0Wld3Z2FHbG5hQ0J6WTJodmIyd2dhVzVrYVdGdVlSQUFmYUtYT2o4IiwicXVlc3Rpb24iOiJJcyBDYXJtZWwsIEluZGlhbmEgYSB3ZWFsdGh5IGFyZWE/IiwibGsiOiJHaUJwY3lCallYSnRaV3dnYVc1a2FXRnVZU0JoSUhkbFlXeDBhSGtnWVhKbFlRIiwiYnMiOiJjNFhRTVF2Q01CQUZZRnd6T1JmRVoyZW5nb09JRkJTeEJUY0ZYV09iSnNFMGdTUlNDdjU0cmJZZFZIUzU2ZDMzdUNNM3NreE1oZkthQ2VTR09VaVB6RGdQYjhCTk05ZlVsa3doa1Z4Z253bGpGS1JHcW5OSk5ZMmpSVEFYdjRIc0JZZ0djQjN3M0NZSkNWUFhOa3c3RXhRVm84cUxHdFN5UjBVWVFMcU9rVjlEWkVQUVN6MjAyNjRPS0t4a09sZDFIRTJDOGFlai1ObjNHWElpczZPZ3Z1bnpnc0ZTZlpHYXd4VF8zakFPUm05d2UycExEQWQzIiwiaWQiOiJmY19qQWlqYXFESU9PMllwdFFQaW9qQzBBZ180In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVsUTJVbTFvWTBKSVExQk1Za040TWtjeFJsTjNiRlpDYzFGSGJWaFhSVlJyTVRsc1MzcE9XVmhoUkhBMVlYVkdjVlJXZWtVd1pHbHJRMVl6V0RZM1pqTndZMngwWlVOa0xYSjZVMUZTUjJGcE9XZ3lWMjFuU1hreFVSSVhha0ZwYW1GeFJFbFBUekpaY0hSUlVHbHZha013UVdjYUlrRkVjM0k1WmxSUlRsVXphRmx1V0ZGVU1tVTVaVFp2ZDB0aWVUYzNTR0Z6Tm5jIiwiZmN2IjoiMyIsImVpIjoiakFpamFxRElPTzJZcHRRUGlvakMwQWciLCJxYyI6IkNocGpZWEp0Wld3Z2FHbG5hQ0J6WTJodmIyd2dhVzVrYVdGdVlSQUFmYUtYT2o4IiwicXVlc3Rpb24iOiJJcyBDYXJtZWwsIEluZGlhbmEgYSB3ZWFsdGh5IGFyZWE%2FIiwibGsiOiJHaUJwY3lCallYSnRaV3dnYVc1a2FXRnVZU0JoSUhkbFlXeDBhSGtnWVhKbFlRIiwiYnMiOiJjNFhRTVF2Q01CQUZZRnd6T1JmRVoyZW5nb09JRkJTeEJUY0ZYV09iSnNFMGdTUlNDdjU0cmJZZFZIUzU2ZDMzdUNNM3NreE1oZkthQ2VTR09VaVB6RGdQYjhCTk05ZlVsa3doa1Z4Z253bGpGS1JHcW5OSk5ZMmpSVEFYdjRIc0JZZ0djQjN3M0NZSkNWUFhOa3c3RXhRVm84cUxHdFN5UjBVWVFMcU9rVjlEWkVQUVN6MjAyNjRPS0t4a09sZDFIRTJDOGFlai1ObjNHWElpczZPZ3Z1bnpnc0ZTZlpHYXd4VF8zakFPUm05d2UycExEQWQzIiwiaWQiOiJmY19qQWlqYXFESU9PMllwdFFQaW9qQzBBZ180In0%3D"
+  },
+  {
+   "question": "Is Carmel Indiana LGBT friendly?",
+   "type": "ai_overview",
+   "page_token": "UepR7nicHdDBboIwAIDh7GU8aivqgolZhrYqk2oLtNDLUssUpYAoinLbu-yp9jQzO_2X7_R__5hDkf2-3NK6Pl3GvV7TNN19We7NV1eXeU9dHoXuaWXMVulsPHodwbednqDr0plWS4eGpxOfMeAD1whEzkF2X62EjVWROkpwQB5QRhAzDYZSRunUz9mAo6G_tdyUCbghcwYVApaHEQgWtB-LBIQL_SAtjz1kmBb2kEBTqAgvlcUg49L1IryRYNCwrL7qqBw-O1rP3i0RPn1GGm652BP2TiIsvJZd44AXBJFjMoc3X5Bctm7hzZKK5xjHBqsILGsd8E0CMPf6dqD60kFpUlFhqjjCyA_tjWdMk2BMlbAr2jqOvJcHGrJWH00eHtM1yRjiOUxp3y15S1oyhx9-SGolUpcCTEPa2enbxOr8_5x87vJ6fDqX-z-prYDC",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=UepR7nicHdDBboIwAIDh7GU8aivqgolZhrYqk2oLtNDLUssUpYAoinLbu-yp9jQzO_2X7_R__5hDkf2-3NK6Pl3GvV7TNN19We7NV1eXeU9dHoXuaWXMVulsPHodwbednqDr0plWS4eGpxOfMeAD1whEzkF2X62EjVWROkpwQB5QRhAzDYZSRunUz9mAo6G_tdyUCbghcwYVApaHEQgWtB-LBIQL_SAtjz1kmBb2kEBTqAgvlcUg49L1IryRYNCwrL7qqBw-O1rP3i0RPn1GGm652BP2TiIsvJZd44AXBJFjMoc3X5Bctm7hzZKK5xjHBqsILGsd8E0CMPf6dqD60kFpUlFhqjjCyA_tjWdMk2BMlbAr2jqOvJcHGrJWH00eHtM1yRjiOUxp3y15S1oyhx9-SGolUpcCTEPa2enbxOr8_5x87vJ6fDqX-z-prYDC",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVsUTJVbTFvWTBKSVExQk1Za040TWtjeFJsTjNiRlpDYzFGSGJWaFhSVlJyTVRsc1MzcE9XVmhoUkhBMVlYVkdjVlJXZWtVd1pHbHJRMVl6V0RZM1pqTndZMngwWlVOa0xYSjZVMUZTUjJGcE9XZ3lWMjFuU1hreFVSSVhha0ZwYW1GeFJFbFBUekpaY0hSUlVHbHZha013UVdjYUlrRkVjM0k1WmxSUlRsVXphRmx1V0ZGVU1tVTVaVFp2ZDB0aWVUYzNTR0Z6Tm5jIiwiZmN2IjoiMyIsImVpIjoiakFpamFxRElPTzJZcHRRUGlvakMwQWciLCJxYyI6IkNocGpZWEp0Wld3Z2FHbG5hQ0J6WTJodmIyd2dhVzVrYVdGdVlSQUFmYUtYT2o4IiwicXVlc3Rpb24iOiJJcyBDYXJtZWwgSW5kaWFuYSBMR0JUIGZyaWVuZGx5PyIsImxrIjoiR2g5cGN5QmpZWEp0Wld3Z2FXNWthV0Z1WVNCc1oySjBJR1p5YVdWdVpHeDUiLCJicyI6ImM0WFFNUXZDTUJBRllGd3pPUmZFWjJlbmdvT0lGQlN4QlRjRlhXT2JKc0UwZ1NSU0N2NTRyYllkVkhTNTZkMzN1Q00zc2t4TWhmS2FDZVNHT1VpUHpEZ1BiOEJOTTlmVWxrd2hrVnhnbndsakZLUkdxbk5KTlkyalJUQVh2NEhzQllnR2NCM3czQ1lKQ1ZQWE5rdzdFeFFWbzhxTEd0U3lSMFVZUUxxT2tWOURaRVBRU3oyMDI2NE9LS3hrT2xkMUhFMkM4YWVqLU5uM0dYSWlzNk9ndnVuemdzRlNmWkdhd3hUXzNqQU9SbTl3ZTJwTERBZDMiLCJpZCI6ImZjX2pBaWphcURJT08yWXB0UVBpb2pDMEFnXzQifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVsUTJVbTFvWTBKSVExQk1Za040TWtjeFJsTjNiRlpDYzFGSGJWaFhSVlJyTVRsc1MzcE9XVmhoUkhBMVlYVkdjVlJXZWtVd1pHbHJRMVl6V0RZM1pqTndZMngwWlVOa0xYSjZVMUZTUjJGcE9XZ3lWMjFuU1hreFVSSVhha0ZwYW1GeFJFbFBUekpaY0hSUlVHbHZha013UVdjYUlrRkVjM0k1WmxSUlRsVXphRmx1V0ZGVU1tVTVaVFp2ZDB0aWVUYzNTR0Z6Tm5jIiwiZmN2IjoiMyIsImVpIjoiakFpamFxRElPTzJZcHRRUGlvakMwQWciLCJxYyI6IkNocGpZWEp0Wld3Z2FHbG5hQ0J6WTJodmIyd2dhVzVrYVdGdVlSQUFmYUtYT2o4IiwicXVlc3Rpb24iOiJJcyBDYXJtZWwgSW5kaWFuYSBMR0JUIGZyaWVuZGx5PyIsImxrIjoiR2g5cGN5QmpZWEp0Wld3Z2FXNWthV0Z1WVNCc1oySjBJR1p5YVdWdVpHeDUiLCJicyI6ImM0WFFNUXZDTUJBRllGd3pPUmZFWjJlbmdvT0lGQlN4QlRjRlhXT2JKc0UwZ1NSU0N2NTRyYllkVkhTNTZkMzN1Q00zc2t4TWhmS2FDZVNHT1VpUHpEZ1BiOEJOTTlmVWxrd2hrVnhnbndsakZLUkdxbk5KTlkyalJUQVh2NEhzQllnR2NCM3czQ1lKQ1ZQWE5rdzdFeFFWbzhxTEd0U3lSMFVZUUxxT2tWOURaRVBRU3oyMDI2NE9LS3hrT2xkMUhFMkM4YWVqLU5uM0dYSWlzNk9ndnVuemdzRlNmWkdhd3hUXzNqQU9SbTl3ZTJwTERBZDMiLCJpZCI6ImZjX2pBaWphcURJT08yWXB0UVBpb2pDMEFnXzQifQ%3D%3D"
+  },
+  {
+   "question": "What is the ranking of Carmel High School in Indiana?",
+   "type": "ai_overview",
+   "page_token": "oZCIw3icHZBNctowGECnl8kyIBPTwgzTqVL_lAaDPls_1qYjpIBBsjHgxFi7XqFn6KlymqTdvsWbN-_3X3do7NunP1XXtdf5aNT3_f3-dNq753t9qkfqOjR6pJVzW6XtfPp5ir7u9CJ61fjxojGhbcu-wzgX8icLli-FlUkhvqECyQsL9EPB4WWdWg8DOpLGVYZ3g06WqbQhbJNMbT1k2mFR2tmmRFLyuEqyqJMFg5jFX24lzdjqgxHnenOEiNc_Bu4w0AZCJVah8mYjaTWUQXjIxiZhcQYsCldgoRGB9axhSh_j6ZqbpzwwvijoABPjxAQuJphNCcIh8U4ygR-Jx-fM42tZgJIUECQP3Tptdyxd5nRirtvUIRXt-6gyZ8LduRRxlNPZZvWvLY6J4rPzhwPL2-lAKHh9dDW17QBC8gKZJ15rn4_ROqdGPqeVyFGGM3urCbnb6dfF5O7_68WvXd3N28tp_w7MjI3g",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=oZCIw3icHZBNctowGECnl8kyIBPTwgzTqVL_lAaDPls_1qYjpIBBsjHgxFi7XqFn6KlymqTdvsWbN-_3X3do7NunP1XXtdf5aNT3_f3-dNq753t9qkfqOjR6pJVzW6XtfPp5ir7u9CJ61fjxojGhbcu-wzgX8icLli-FlUkhvqECyQsL9EPB4WWdWg8DOpLGVYZ3g06WqbQhbJNMbT1k2mFR2tmmRFLyuEqyqJMFg5jFX24lzdjqgxHnenOEiNc_Bu4w0AZCJVah8mYjaTWUQXjIxiZhcQYsCldgoRGB9axhSh_j6ZqbpzwwvijoABPjxAQuJphNCcIh8U4ygR-Jx-fM42tZgJIUECQP3Tptdyxd5nRirtvUIRXt-6gyZ8LduRRxlNPZZvWvLY6J4rPzhwPL2-lAKHh9dDW17QBC8gKZJ15rn4_ROqdGPqeVyFGGM3urCbnb6dfF5O7_68WvXd3N28tp_w7MjI3g",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVsUTJVbTFvWTBKSVExQk1Za040TWtjeFJsTjNiRlpDYzFGSGJWaFhSVlJyTVRsc1MzcE9XVmhoUkhBMVlYVkdjVlJXZWtVd1pHbHJRMVl6V0RZM1pqTndZMngwWlVOa0xYSjZVMUZTUjJGcE9XZ3lWMjFuU1hreFVSSVhha0ZwYW1GeFJFbFBUekpaY0hSUlVHbHZha013UVdjYUlrRkVjM0k1WmxSUlRsVXphRmx1V0ZGVU1tVTVaVFp2ZDB0aWVUYzNTR0Z6Tm5jIiwiZmN2IjoiMyIsImVpIjoiakFpamFxRElPTzJZcHRRUGlvakMwQWciLCJxYyI6IkNocGpZWEp0Wld3Z2FHbG5hQ0J6WTJodmIyd2dhVzVrYVdGdVlSQUFmYUtYT2o4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSByYW5raW5nIG9mIENhcm1lbCBIaWdoIFNjaG9vbCBpbiBJbmRpYW5hPyIsImxrIjoiR2gxallYSnRaV3dnYVc1a2FXRnVZU0J6WTJodmIyd2djbUZ1YTJsdVp3IiwiYnMiOiJjNFhRTVF2Q01CQUZZRnd6T1JmRVoyZW5nb09JRkJTeEJUY0ZYV09iSnNFMGdTUlNDdjU0cmJZZFZIUzU2ZDMzdUNNM3NreE1oZkthQ2VTR09VaVB6RGdQYjhCTk05ZlVsa3doa1Z4Z253bGpGS1JHcW5OSk5ZMmpSVEFYdjRIc0JZZ0djQjN3M0NZSkNWUFhOa3c3RXhRVm84cUxHdFN5UjBVWVFMcU9rVjlEWkVQUVN6MjAyNjRPS0t4a09sZDFIRTJDOGFlai1ObjNHWElpczZPZ3Z1bnpnc0ZTZlpHYXd4VF8zakFPUm05d2UycExEQWQzIiwiaWQiOiJmY19qQWlqYXFESU9PMllwdFFQaW9qQzBBZ180In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVsUTJVbTFvWTBKSVExQk1Za040TWtjeFJsTjNiRlpDYzFGSGJWaFhSVlJyTVRsc1MzcE9XVmhoUkhBMVlYVkdjVlJXZWtVd1pHbHJRMVl6V0RZM1pqTndZMngwWlVOa0xYSjZVMUZTUjJGcE9XZ3lWMjFuU1hreFVSSVhha0ZwYW1GeFJFbFBUekpaY0hSUlVHbHZha013UVdjYUlrRkVjM0k1WmxSUlRsVXphRmx1V0ZGVU1tVTVaVFp2ZDB0aWVUYzNTR0Z6Tm5jIiwiZmN2IjoiMyIsImVpIjoiakFpamFxRElPTzJZcHRRUGlvakMwQWciLCJxYyI6IkNocGpZWEp0Wld3Z2FHbG5hQ0J6WTJodmIyd2dhVzVrYVdGdVlSQUFmYUtYT2o4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSByYW5raW5nIG9mIENhcm1lbCBIaWdoIFNjaG9vbCBpbiBJbmRpYW5hPyIsImxrIjoiR2gxallYSnRaV3dnYVc1a2FXRnVZU0J6WTJodmIyd2djbUZ1YTJsdVp3IiwiYnMiOiJjNFhRTVF2Q01CQUZZRnd6T1JmRVoyZW5nb09JRkJTeEJUY0ZYV09iSnNFMGdTUlNDdjU0cmJZZFZIUzU2ZDMzdUNNM3NreE1oZkthQ2VTR09VaVB6RGdQYjhCTk05ZlVsa3doa1Z4Z253bGpGS1JHcW5OSk5ZMmpSVEFYdjRIc0JZZ0djQjN3M0NZSkNWUFhOa3c3RXhRVm84cUxHdFN5UjBVWVFMcU9rVjlEWkVQUVN6MjAyNjRPS0t4a09sZDFIRTJDOGFlai1ObjNHWElpczZPZ3Z1bnpnc0ZTZlpHYXd4VF8zakFPUm05d2UycExEQWQzIiwiaWQiOiJmY19qQWlqYXFESU9PMllwdFFQaW9qQzBBZ180In0%3D"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Carmel High School Home",
+   "link": "https://www.ccs.k12.in.us/chs",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVQHrOzAVycntoC88zVK8S60jXfNHCHAHATErx_aObprlR1n8X4L9mo8zxNHTWbHcTp-9NtzlWKnJErTqmptFqu8o5u8wRxdv9ZuJMZi1qbyqM81PGvw&ved=2ahUKEwigvuGJ4-SWAxVtjIkEHQqEEIoQFnoECDwQAQ&uoh=1",
+   "displayed_link": "https://www.ccs.k12.in.us \u203a chs",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAnFBMVEX___91pdA8gLxJicFFhr44fbg0e7hAf7wASqADWKgAS54FWKxAiM5to9cAV6RNjs3i5t__6Zb-42lWks__9sv_zDP_whPfryT_9tDn6-D_yjLvuyVbf3xFg7ZPirn_ySRTjsJZfnxzquacxPBhiZTiyXj__dX9_v__1V_0-v__-N393Yv-1W398dH-wSX-z1f-2nv-vBP84Zv__vbm7dyGAAAAmklEQVR4AV1OAw4DQBCcOdRmXCvs_19RW2GD2rY7ay_xB4J8yPl8vglhJPlMXLEllNbvxH53JKTR_EzI_Xp7TQijizeczmo3W5-I8FBpKzuIkex7ewRSHI-i9VQ9g2oK9d8EgJ8RTZaeSw2H21IHmf86q7yS-9L9MX1kEJb9WWBXe75u8tWzJ3mUpzxBCpxEwrI0bmE8lIk_XABV60gRM1DZ7QAAAABJRU5ErkJggg.png",
+   "snippet": "Carmel High School Celebrates Record 64 National Merit Semifinalists \u00b7 Read More about Carmel High School Celebrates Record 64 National Merit Semifinalists ...",
+   "snippet_highlighted_words": [
+    "Carmel High School",
+    "Carmel High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Carmel High School Celebrates Record 64 National Merit Semifinalists \u00b7 Read More about Carmel High School Celebrates Record 64 National Merit Semifinalists ...",
+     "source_info_link": "https://www.ccs.k12.in.us/chs",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAnFBMVEX___91pdA8gLxJicFFhr44fbg0e7hAf7wASqADWKgAS54FWKxAiM5to9cAV6RNjs3i5t__6Zb-42lWks__9sv_zDP_whPfryT_9tDn6-D_yjLvuyVbf3xFg7ZPirn_ySRTjsJZfnxzquacxPBhiZTiyXj__dX9_v__1V_0-v__-N393Yv-1W398dH-wSX-z1f-2nv-vBP84Zv__vbm7dyGAAAAmklEQVR4AV1OAw4DQBCcOdRmXCvs_19RW2GD2rY7ay_xB4J8yPl8vglhJPlMXLEllNbvxH53JKTR_EzI_Xp7TQijizeczmo3W5-I8FBpKzuIkex7ewRSHI-i9VQ9g2oK9d8EgJ8RTZaeSw2H21IHmf86q7yS-9L9MX1kEJb9WWBXe75u8tWzJ3mUpzxBCpxEwrI0bmE8lIk_XABV60gRM1DZ7QAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESVQHrOzAVycntoC88zVK8S60jXfNHCHAHATErx_aObprlR1n8X4L9mo8zxNHTWbHcTp-9NtzlWKnJErTqmptFqu8o5u8wRxdv9ZuJMZi1qbyqM81PGvw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESVQHrOzAVycntoC88zVK8S60jXfNHCHAHATErx_aObprlR1n8X4L9mo8zxNHTWbHcTp-9NtzlWKnJErTqmptFqu8o5u8wRxdv9ZuJMZi1qbyqM81PGvw",
+   "source": "Carmel Clay Schools",
+   "read_more_link": "https://www.ccs.k12.in.us/chs#:~:text=Carmel%20High%20School%20Celebrates%20Record,64%20National%20Merit%20Semifinalists"
+  },
+  {
+   "position": 2,
+   "title": "Carmel High School (Indiana)",
+   "link": "https://en.wikipedia.org/wiki/Carmel_High_School_(Indiana)",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScgHrOzAVsk_5Yr9BwSWWtAOFkN09X3uPaCZi-JnOZ8uzEsN97VioFAlt6HoyLzZamFpOjgp5XPSf0P8SlbVhI-vo7RmXF3-Im-LDIjY94Ql3hkV07CHiuVAHu-5lSJayZHSkcG4RhCTzzoJ7FY0QE12lqA&ved=2ahUKEwigvuGJ4-SWAxVtjIkEHQqEEIoQFnoECD0QAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Carmel_High_School_...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+   "snippet": "Carmel High School (CHS) is a public high school in Carmel, Indiana, United States. It is part of the Carmel Clay School District and is the institution of its ...",
+   "snippet_highlighted_words": [
+    "Carmel High School",
+    "Indiana"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Carmel High School (CHS) is a public high school in Carmel, Indiana, United States. It is part of the Carmel Clay School District and is the institution of its ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Carmel_High_School_(Indiana)",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEScgHrOzAVsk_5Yr9BwSWWtAOFkN09X3uPaCZi-JnOZ8uzEsN97VioFAlt6HoyLzZamFpOjgp5XPSf0P8SlbVhI-vo7RmXF3-Im-LDIjY94Ql3hkV07CHiuVAHu-5lSJayZHSkcG4RhCTzzoJ7FY0QE12lqA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEScgHrOzAVsk_5Yr9BwSWWtAOFkN09X3uPaCZi-JnOZ8uzEsN97VioFAlt6HoyLzZamFpOjgp5XPSf0P8SlbVhI-vo7RmXF3-Im-LDIjY94Ql3hkV07CHiuVAHu-5lSJayZHSkcG4RhCTzzoJ7FY0QE12lqA",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Carmel_High_School_(Indiana)#:~:text=Carmel%20High%20School%20(CHS)%20is,with%20over%205%2C100%20students%20enrolled."
+  },
+  {
+   "position": 3,
+   "title": "Carmel High School - Indiana",
+   "link": "https://www.usnews.com/education/best-high-schools/indiana/districts/carmel-clay-schools/carmel-high-school-7151",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESqAEB6zswFUESc46uOTWMvy05CdqqYQ3Xc5grLlTEVLmUSMnN3AzbTp3-dNK7fkILxFA1RKsFoxJasB0LqJlRqf4Y8vuU6KBaanMuquGV3NO28I0YbKmqI3vdRJjBtKGoiVNAJuMqjddWWk2CsWPjYPlfI8OndKBGVxZeszg1rwB5_2GthMPM12qqyVzF2-d2z3V7tjgep_y3zx0BnQlUQtzfYDRmXT6YxJE&ved=2ahUKEwigvuGJ4-SWAxVtjIkEHQqEEIoQFnoECFkQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a ... \u203a Carmel Clay Schools",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png",
+   "snippet": "Carmel High School is ranked seventh within Indiana. Students have the opportunity to take Advanced Placement\u00ae coursework and exams. The AP\u00ae participation rate ...",
+   "snippet_highlighted_words": [
+    "Carmel High School",
+    "Indiana"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Carmel High School is ranked seventh within Indiana. Students have the opportunity to take Advanced Placement\u00ae coursework and exams. The AP\u00ae participation rate ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/indiana/districts/carmel-clay-schools/carmel-high-school-7151",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESqAEB6zswFUESc46uOTWMvy05CdqqYQ3Xc5grLlTEVLmUSMnN3AzbTp3-dNK7fkILxFA1RKsFoxJasB0LqJlRqf4Y8vuU6KBaanMuquGV3NO28I0YbKmqI3vdRJjBtKGoiVNAJuMqjddWWk2CsWPjYPlfI8OndKBGVxZeszg1rwB5_2GthMPM12qqyVzF2-d2z3V7tjgep_y3zx0BnQlUQtzfYDRmXT6YxJE&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESqAEB6zswFUESc46uOTWMvy05CdqqYQ3Xc5grLlTEVLmUSMnN3AzbTp3-dNK7fkILxFA1RKsFoxJasB0LqJlRqf4Y8vuU6KBaanMuquGV3NO28I0YbKmqI3vdRJjBtKGoiVNAJuMqjddWWk2CsWPjYPlfI8OndKBGVxZeszg1rwB5_2GthMPM12qqyVzF2-d2z3V7tjgep_y3zx0BnQlUQtzfYDRmXT6YxJE",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/indiana/districts/carmel-clay-schools/carmel-high-school-7151#:~:text=Carmel%20High%20School%20is%20ranked,grade%20enrollment%20is%201364%20students."
+  },
+  {
+   "position": 4,
+   "title": "About",
+   "link": "https://www.ccs.k12.in.us/chs/about",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWwHrOzAVg8DwWjpPnwHAc4nlvozH63N-IYsDj6MXl_wAE9sZ6pz0Q26OB43UMURNfFE_HhWsh9X1HH4SlzmAayyyen7zfyAoExtRe0BoRPIysINHVdYFUMlVPfs&ved=2ahUKEwigvuGJ4-SWAxVtjIkEHQqEEIoQFnoECFwQAQ&uoh=1",
+   "displayed_link": "https://www.ccs.k12.in.us \u203a chs \u203a about",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAnFBMVEX___91pdA8gLxJicFFhr44fbg0e7hAf7wASqADWKgAS54FWKxAiM5to9cAV6RNjs3i5t__6Zb-42lWks__9sv_zDP_whPfryT_9tDn6-D_yjLvuyVbf3xFg7ZPirn_ySRTjsJZfnxzquacxPBhiZTiyXj__dX9_v__1V_0-v__-N393Yv-1W398dH-wSX-z1f-2nv-vBP84Zv__vbm7dyGAAAAmklEQVR4AV1OAw4DQBCcOdRmXCvs_19RW2GD2rY7ay_xB4J8yPl8vglhJPlMXLEllNbvxH53JKTR_EzI_Xp7TQijizeczmo3W5-I8FBpKzuIkex7ewRSHI-i9VQ9g2oK9d8EgJ8RTZaeSw2H21IHmf86q7yS-9L9MX1kEJb9WWBXe75u8tWzJ3mUpzxBCpxEwrI0bmE8lIk_XABV60gRM1DZ7QAAAABJRU5ErkJggg.png",
+   "snippet": "Carmel High School is a four-year comprehensive high school with approximately 5,300 students in grades 9-12. It is fully accredited by the Indiana ...",
+   "snippet_highlighted_words": [
+    "Carmel High School",
+    "Indiana"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Carmel High School is a four-year comprehensive high school with approximately 5,300 students in grades 9-12. It is fully accredited by the Indiana ...",
+     "source_info_link": "https://www.ccs.k12.in.us/chs/about",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAnFBMVEX___91pdA8gLxJicFFhr44fbg0e7hAf7wASqADWKgAS54FWKxAiM5to9cAV6RNjs3i5t__6Zb-42lWks__9sv_zDP_whPfryT_9tDn6-D_yjLvuyVbf3xFg7ZPirn_ySRTjsJZfnxzquacxPBhiZTiyXj__dX9_v__1V_0-v__-N393Yv-1W398dH-wSX-z1f-2nv-vBP84Zv__vbm7dyGAAAAmklEQVR4AV1OAw4DQBCcOdRmXCvs_19RW2GD2rY7ay_xB4J8yPl8vglhJPlMXLEllNbvxH53JKTR_EzI_Xp7TQijizeczmo3W5-I8FBpKzuIkex7ewRSHI-i9VQ9g2oK9d8EgJ8RTZaeSw2H21IHmf86q7yS-9L9MX1kEJb9WWBXe75u8tWzJ3mUpzxBCpxEwrI0bmE8lIk_XABV60gRM1DZ7QAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESWwHrOzAVg8DwWjpPnwHAc4nlvozH63N-IYsDj6MXl_wAE9sZ6pz0Q26OB43UMURNfFE_HhWsh9X1HH4SlzmAayyyen7zfyAoExtRe0BoRPIysINHVdYFUMlVPfs&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESWwHrOzAVg8DwWjpPnwHAc4nlvozH63N-IYsDj6MXl_wAE9sZ6pz0Q26OB43UMURNfFE_HhWsh9X1HH4SlzmAayyyen7zfyAoExtRe0BoRPIysINHVdYFUMlVPfs",
+   "source": "Carmel Clay Schools",
+   "read_more_link": "https://www.ccs.k12.in.us/chs/about#:~:text=Carmel%20High%20School%20is%20a,on%20Accreditation%20and%20School%20Improvement."
+  },
+  {
+   "position": 5,
+   "title": "Carmel High School - Home",
+   "link": "https://chs.carmelschools.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVgHrOzAVyJrvDtpDJq5Oz278dCaNl9QaTBi6FbEGT_rOyH4a4jwNMq8i-HrpcKq8PegSxeIbfuZC8Z5bpy4tDAV8nU-uZk3fF8Qei2OfdwMQhtPzGHdz&ved=2ahUKEwigvuGJ4-SWAxVtjIkEHQqEEIoQFnoECF8QAQ&uoh=1",
+   "displayed_link": "https://chs.carmelschools.org",
+   "snippet": "We embrace individuality, provide opportunities for students to discover and pursue their passions, and ignite a desire to learn. Carmel High School.",
+   "snippet_highlighted_words": [
+    "Carmel High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "We embrace individuality, provide opportunities for students to discover and pursue their passions, and ignite a desire to learn. Carmel High School.",
+     "source_info_link": "https://chs.carmelschools.org/"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESVgHrOzAVyJrvDtpDJq5Oz278dCaNl9QaTBi6FbEGT_rOyH4a4jwNMq8i-HrpcKq8PegSxeIbfuZC8Z5bpy4tDAV8nU-uZk3fF8Qei2OfdwMQhtPzGHdz&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESVgHrOzAVyJrvDtpDJq5Oz278dCaNl9QaTBi6FbEGT_rOyH4a4jwNMq8i-HrpcKq8PegSxeIbfuZC8Z5bpy4tDAV8nU-uZk3fF8Qei2OfdwMQhtPzGHdz",
+   "source": "Carmel Central School District",
+   "read_more_link": "https://chs.carmelschools.org/#:~:text=We%20embrace%20individuality%2C%20provide%20opportunities,Carmel%20High%20School"
+  },
+  {
+   "position": 6,
+   "title": "Carmel Clay Schools",
+   "link": "https://www.facebook.com/CarmelClaySchoolsIndiana/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESagHrOzAV_aRlRs_FoQO2ovGFPd2mr5enYv6wAt7r3wF8iUl71C2H_qEMDpP3hXH2sA1zv_VmY8T7fXBjBK4s8lXgsV6fiOCD81Ub2K9E1eIPuXVHjGzkCwcwVyfITllzMf9WDZEXW0PLnvk&ved=2ahUKEwigvuGJ4-SWAxVtjIkEHQqEEIoQFnoECGIQAQ&uoh=1",
+   "displayed_link": "12.8K+ followers",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "snippet": "Carmel High School delivers world-class academic excellence, deep college readiness, and high-level outcomes while serving all of our students on one campus.",
+   "snippet_highlighted_words": [
+    "Carmel High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Carmel High School delivers world-class academic excellence, deep college readiness, and high-level outcomes while serving all of our students on one campus.",
+     "source_info_link": "https://www.facebook.com/CarmelClaySchoolsIndiana/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESagHrOzAV_aRlRs_FoQO2ovGFPd2mr5enYv6wAt7r3wF8iUl71C2H_qEMDpP3hXH2sA1zv_VmY8T7fXBjBK4s8lXgsV6fiOCD81Ub2K9E1eIPuXVHjGzkCwcwVyfITllzMf9WDZEXW0PLnvk&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESagHrOzAV_aRlRs_FoQO2ovGFPd2mr5enYv6wAt7r3wF8iUl71C2H_qEMDpP3hXH2sA1zv_VmY8T7fXBjBK4s8lXgsV6fiOCD81Ub2K9E1eIPuXVHjGzkCwcwVyfITllzMf9WDZEXW0PLnvk",
+   "source": "Facebook \u00b7 Carmel Clay Schools",
+   "read_more_link": "https://www.facebook.com/CarmelClaySchoolsIndiana/#:~:text=Carmel%20High%20School%20delivers%20world%2Dclass,our%20students%20on%20one%20campus."
+  },
+  {
+   "position": 7,
+   "title": "Carmel High School in Carmel, IN",
+   "link": "https://www.niche.com/k12/carmel-high-school-carmel-in/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAVytjp7Fqz0zYQt7GKnTppm0QJCkUCTy9_HrVyO5FdOtl34-E9w8M8e21on11Cfnhpn85WhsXhAKp33ImksDd4UvnklKz3BEvjvTchV4tu3dumERw9hH5hkEeFHOIWhUFWIIp8kNRYbbfdhA&ved=2ahUKEwigvuGJ4-SWAxVtjIkEHQqEEIoQFnoECF0QAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a Indiana",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png",
+   "snippet": "Carmel High School is a top rated, public school located in CARMEL, IN. It has 5,239 students in grades 9-12 with a student-teacher ratio of 17 to 1.",
+   "snippet_highlighted_words": [
+    "Carmel High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Carmel High School is a top rated, public school located in CARMEL, IN. It has 5,239 students in grades 9-12 with a student-teacher ratio of 17 to 1.",
+     "source_info_link": "https://www.niche.com/k12/carmel-high-school-carmel-in/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESbwHrOzAVytjp7Fqz0zYQt7GKnTppm0QJCkUCTy9_HrVyO5FdOtl34-E9w8M8e21on11Cfnhpn85WhsXhAKp33ImksDd4UvnklKz3BEvjvTchV4tu3dumERw9hH5hkEeFHOIWhUFWIIp8kNRYbbfdhA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESbwHrOzAVytjp7Fqz0zYQt7GKnTppm0QJCkUCTy9_HrVyO5FdOtl34-E9w8M8e21on11Cfnhpn85WhsXhAKp33ImksDd4UvnklKz3BEvjvTchV4tu3dumERw9hH5hkEeFHOIWhUFWIIp8kNRYbbfdhA",
+   "source": "Niche",
+   "read_more_link": "https://www.niche.com/k12/carmel-high-school-carmel-in/#:~:text=Carmel%20High%20School%20is%20a,ratio%20of%2017%20to%201."
+  },
+  {
+   "position": 8,
+   "title": "Carmel Clay Schools: Home",
+   "link": "https://www.ccs.k12.in.us/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUgHrOzAVpwUrT4nFzQfi6yG9vbPeFX7p6l49e84r7SoiHjLiPaPVMZIh4tDakjsLljDpCZpVnJzCm34w4BcXMfAfSphFium0he2TyE2RgrKNmgQ&ved=2ahUKEwigvuGJ4-SWAxVtjIkEHQqEEIoQFnoECGAQAQ&uoh=1",
+   "displayed_link": "https://www.ccs.k12.in.us",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAnFBMVEX___91pdA8gLxJicFFhr44fbg0e7hAf7wASqADWKgAS54FWKxAiM5to9cAV6RNjs3i5t__6Zb-42lWks__9sv_zDP_whPfryT_9tDn6-D_yjLvuyVbf3xFg7ZPirn_ySRTjsJZfnxzquacxPBhiZTiyXj__dX9_v__1V_0-v__-N393Yv-1W398dH-wSX-z1f-2nv-vBP84Zv__vbm7dyGAAAAmklEQVR4AV1OAw4DQBCcOdRmXCvs_19RW2GD2rY7ay_xB4J8yPl8vglhJPlMXLEllNbvxH53JKTR_EzI_Xp7TQijizeczmo3W5-I8FBpKzuIkex7ewRSHI-i9VQ9g2oK9d8EgJ8RTZaeSw2H21IHmf86q7yS-9L9MX1kEJb9WWBXe75u8tWzJ3mUpzxBCpxEwrI0bmE8lIk_XABV60gRM1DZ7QAAAABJRU5ErkJggg.png",
+   "snippet": "Carmel High School \u00b7 Explore. Skip to Main Content. Open Offcanvas Menu. Carmel Clay Schools in Carmel, Indiana CARMEL CLAY SCHOOLS \u00b7 Students \u00b7 Parents \u00b7 Staff ...",
+   "snippet_highlighted_words": [
+    "Carmel High School",
+    "Indiana"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Carmel High School \u00b7 Explore. Skip to Main Content. Open Offcanvas Menu. Carmel Clay Schools in Carmel, Indiana CARMEL CLAY SCHOOLS \u00b7 Students \u00b7 Parents \u00b7 Staff ...",
+     "source_info_link": "https://www.ccs.k12.in.us/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAnFBMVEX___91pdA8gLxJicFFhr44fbg0e7hAf7wASqADWKgAS54FWKxAiM5to9cAV6RNjs3i5t__6Zb-42lWks__9sv_zDP_whPfryT_9tDn6-D_yjLvuyVbf3xFg7ZPirn_ySRTjsJZfnxzquacxPBhiZTiyXj__dX9_v__1V_0-v__-N393Yv-1W398dH-wSX-z1f-2nv-vBP84Zv__vbm7dyGAAAAmklEQVR4AV1OAw4DQBCcOdRmXCvs_19RW2GD2rY7ay_xB4J8yPl8vglhJPlMXLEllNbvxH53JKTR_EzI_Xp7TQijizeczmo3W5-I8FBpKzuIkex7ewRSHI-i9VQ9g2oK9d8EgJ8RTZaeSw2H21IHmf86q7yS-9L9MX1kEJb9WWBXe75u8tWzJ3mUpzxBCpxEwrI0bmE8lIk_XABV60gRM1DZ7QAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESUgHrOzAVpwUrT4nFzQfi6yG9vbPeFX7p6l49e84r7SoiHjLiPaPVMZIh4tDakjsLljDpCZpVnJzCm34w4BcXMfAfSphFium0he2TyE2RgrKNmgQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESUgHrOzAVpwUrT4nFzQfi6yG9vbPeFX7p6l49e84r7SoiHjLiPaPVMZIh4tDakjsLljDpCZpVnJzCm34w4BcXMfAfSphFium0he2TyE2RgrKNmgQ",
+   "source": "Carmel Clay Schools",
+   "read_more_link": "https://www.ccs.k12.in.us/#:~:text=CARMEL%20CLAY,SCHOOLS"
+  },
+  {
+   "position": 9,
+   "title": "Carmel High School (@carmelhighschoolofficial)",
+   "link": "https://www.instagram.com/carmelhighschoolofficial/?hl=en",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScQHrOzAVLL5rmN0hGEMPnN0eeVRYXp4N1Ac6nEGqgd4Xyj9yXxPnphTvPHmvkQVjf2izuGovD3a7NuYM-I-42ZVZTA--Y45p1Kh-tgoZ_2kpsKA2xYUkP1gSEumzuGJ1R7YjVmBiLKf1ezMBMJ6mPXyx&ved=2ahUKEwigvuGJ4-SWAxVtjIkEHQqEEIoQFnoECGUQAQ&uoh=1",
+   "displayed_link": "8.8K+ followers",
+   "favicon": "https://serpapi.com/searches/6aa3087d6adf2758cdfa5fa0/images/PyJsdnyGy055iVpWBRu9nP0JWLz-9tdhN54rQxVNMNU.png",
+   "snippet": "The official Instagram account for Carmel High School. Carmel, IN | Enrollment: 5,230 \u00b7 Show up and be loud\u203c\ufe0f\u203c\ufe0f #CarmelHighSchool #BringTheBannerHome ...",
+   "snippet_highlighted_words": [
+    "Carmel High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The official Instagram account for Carmel High School. Carmel, IN | Enrollment: 5,230 \u00b7 Show up and be loud\u203c\ufe0f\u203c\ufe0f #CarmelHighSchool #BringTheBannerHome ...",
+     "source_info_link": "https://www.instagram.com/carmelhighschoolofficial/?hl=en",
+     "icon": "https://serpapi.com/searches/6aa3087d6adf2758cdfa5fa0/images/PyJsdnyGy055iVpWBRu9nINQ6cRDNG3Zgqt9PmftPIQRD3_SPLmEdVCIU4txfh5m.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEScQHrOzAVLL5rmN0hGEMPnN0eeVRYXp4N1Ac6nEGqgd4Xyj9yXxPnphTvPHmvkQVjf2izuGovD3a7NuYM-I-42ZVZTA--Y45p1Kh-tgoZ_2kpsKA2xYUkP1gSEumzuGJ1R7YjVmBiLKf1ezMBMJ6mPXyx&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEScQHrOzAVLL5rmN0hGEMPnN0eeVRYXp4N1Ac6nEGqgd4Xyj9yXxPnphTvPHmvkQVjf2izuGovD3a7NuYM-I-42ZVZTA--Y45p1Kh-tgoZ_2kpsKA2xYUkP1gSEumzuGJ1R7YjVmBiLKf1ezMBMJ6mPXyx",
+   "source": "Instagram \u00b7 carmelhighschoolofficial",
+   "read_more_link": "https://www.instagram.com/carmelhighschoolofficial/?hl=en#:~:text=The%20official%20Instagram%20account%20for,IN%20%7C%20%F0%9F%93%93%20Enrollment%3A%205%2C230"
+  },
+  {
+   "position": 10,
+   "title": "Carmel High School - Indiana",
+   "link": "https://www.donorschoose.org/schools/indiana/carmel-clay-schools/carmel-senior-high-school/20538",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmAEB6zswFei7524n-25HJTzBPQ9jHz_myG0nhPHvAz5p0rTLM9T7ZIXo2iNZnWmD98xkFo_e9uZTPNmMKr5V1-Zd1oMgC4vCEUEsvdj9zYKvfL2uDVDGCM0dZJBS2HY1mKxdcQCJui0QcOq-ZhiEJUM0wxxAJkMnmF6d9MA0ZL627Dd2b62ffoqVyNUUPzzZf9Tl9swgpcT-qQ&ved=2ahUKEwigvuGJ4-SWAxVtjIkEHQqEEIoQFnoECGEQAQ&uoh=1",
+   "displayed_link": "https://www.donorschoose.org \u203a schools \u203a carmel-senio...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEU4A8E4AcE4AME3CMA1DL8zEb0vGLovGboyE7wwFrslA7hhVcaAd9B9dM9lWcgbALe_u-b____e3PJ3bc25teTEwOixrOE2IbzJxeqKgtORitaoot0AALLp5_drYMqak9minNtEM7_oabQTAAAA3klEQVR4AXWSBRIDIQwAITh1d_v_J0uQTI7SHWUWiAqOTIghAEonFMCvUsa6jPUKOmecJZyfysAcolhs2-PIQkhHHzMmVM3j-dl8gSz9KmYZIEuF8VbrTWW7W-WPNT20q_2GOGTrAaVFUBJHtI5-Rck4hfqvZvJ8OWd5XSVpQEgub6v7g_79J28juX6W0POYvx0ntMoJyWEpLyoFfC_3K-pf375Ha58sT5ONuzfymn944xE8xFUmhjbQbKiDHKeBVlINHeEdU6HbP9Ae1xLXM-jB5gptElrAeOslwMR8AZhOFkQFCdvDAAAAAElFTkSuQmCC.png",
+   "snippet": "Carmel High School is an urban public school in Carmel, Indiana that is part of Carmel Clay Schools. It serves 5,203 students in grades 9 - 12 with a ...",
+   "snippet_highlighted_words": [
+    "Carmel High School",
+    "Indiana"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Carmel High School is an urban public school in Carmel, Indiana that is part of Carmel Clay Schools. It serves 5,203 students in grades 9 - 12 with a ...",
+     "source_info_link": "https://www.donorschoose.org/schools/indiana/carmel-clay-schools/carmel-senior-high-school/20538",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEU4A8E4AcE4AME3CMA1DL8zEb0vGLovGboyE7wwFrslA7hhVcaAd9B9dM9lWcgbALe_u-b____e3PJ3bc25teTEwOixrOE2IbzJxeqKgtORitaoot0AALLp5_drYMqak9minNtEM7_oabQTAAAA3klEQVR4AXWSBRIDIQwAITh1d_v_J0uQTI7SHWUWiAqOTIghAEonFMCvUsa6jPUKOmecJZyfysAcolhs2-PIQkhHHzMmVM3j-dl8gSz9KmYZIEuF8VbrTWW7W-WPNT20q_2GOGTrAaVFUBJHtI5-Rck4hfqvZvJ8OWd5XSVpQEgub6v7g_79J28juX6W0POYvx0ntMoJyWEpLyoFfC_3K-pf375Ha58sT5ONuzfymn944xE8xFUmhjbQbKiDHKeBVlINHeEdU6HbP9Ae1xLXM-jB5gptElrAeOslwMR8AZhOFkQFCdvDAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESmAEB6zswFei7524n-25HJTzBPQ9jHz_myG0nhPHvAz5p0rTLM9T7ZIXo2iNZnWmD98xkFo_e9uZTPNmMKr5V1-Zd1oMgC4vCEUEsvdj9zYKvfL2uDVDGCM0dZJBS2HY1mKxdcQCJui0QcOq-ZhiEJUM0wxxAJkMnmF6d9MA0ZL627Dd2b62ffoqVyNUUPzzZf9Tl9swgpcT-qQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESmAEB6zswFei7524n-25HJTzBPQ9jHz_myG0nhPHvAz5p0rTLM9T7ZIXo2iNZnWmD98xkFo_e9uZTPNmMKr5V1-Zd1oMgC4vCEUEsvdj9zYKvfL2uDVDGCM0dZJBS2HY1mKxdcQCJui0QcOq-ZhiEJUM0wxxAJkMnmF6d9MA0ZL627Dd2b62ffoqVyNUUPzzZf9Tl9swgpcT-qQ",
+   "source": "DonorsChoose",
+   "read_more_link": "https://www.donorschoose.org/schools/indiana/carmel-clay-schools/carmel-senior-high-school/20538#:~:text=Carmel%20High%20School%20is%20an,a%20student%2Fteacher%20ratio%20of%2018.7%3A1."
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Carmel High School Map",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt7xrvTvdrMgZPp8w6Gg_hZDLFgew:1789069452935&q=Carmel+High+School+Map&sa=X&ved=2ahUKEwigvuGJ4-SWAxVtjIkEHQqEEIoQ1QJ6BAheEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Carmel+High+School+Map"
+  },
+  {
+   "block_position": 1,
+   "query": "Carmel High School graduating class size",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt7xrvTvdrMgZPp8w6Gg_hZDLFgew:1789069452935&q=Carmel+High+School+graduating+class+size&sa=X&ved=2ahUKEwigvuGJ4-SWAxVtjIkEHQqEEIoQ1QJ6BAh6EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Carmel+High+School+graduating+class+size"
+  },
+  {
+   "block_position": 1,
+   "query": "Carmel high school prom 2026",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt7xrvTvdrMgZPp8w6Gg_hZDLFgew:1789069452935&q=Carmel+high+school+prom+2026&sa=X&ved=2ahUKEwigvuGJ4-SWAxVtjIkEHQqEEIoQ1QJ6BAh4EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Carmel+high+school+prom+2026"
+  },
+  {
+   "block_position": 1,
+   "query": "Carmel High School Auditorium",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt7xrvTvdrMgZPp8w6Gg_hZDLFgew:1789069452935&q=Carmel+High+School+Auditorium&sa=X&ved=2ahUKEwigvuGJ4-SWAxVtjIkEHQqEEIoQ1QJ6BAhvEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Carmel+High+School+Auditorium"
+  },
+  {
+   "block_position": 1,
+   "query": "Carmel High School Calendar 25 26",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt7xrvTvdrMgZPp8w6Gg_hZDLFgew:1789069452935&q=Carmel+High+School+Calendar+25+26&sa=X&ved=2ahUKEwigvuGJ4-SWAxVtjIkEHQqEEIoQ1QJ6BAhtEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Carmel+High+School+Calendar+25+26"
+  },
+  {
+   "block_position": 1,
+   "query": "Carmel high school square footage",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt7xrvTvdrMgZPp8w6Gg_hZDLFgew:1789069452935&q=Carmel+high+school+square+footage&sa=X&ved=2ahUKEwigvuGJ4-SWAxVtjIkEHQqEEIoQ1QJ6BAhmEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Carmel+high+school+square+footage"
+  },
+  {
+   "block_position": 1,
+   "query": "Carmel High School administration",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt7xrvTvdrMgZPp8w6Gg_hZDLFgew:1789069452935&q=Carmel+High+School+administration&sa=X&ved=2ahUKEwigvuGJ4-SWAxVtjIkEHQqEEIoQ1QJ6BAhkEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Carmel+High+School+administration"
+  },
+  {
+   "block_position": 1,
+   "query": "Carmel High School website",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt7xrvTvdrMgZPp8w6Gg_hZDLFgew:1789069452935&q=Carmel+High+School+website&sa=X&ved=2ahUKEwigvuGJ4-SWAxVtjIkEHQqEEIoQ1QJ6BAhjEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Carmel+High+School+website"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Carmel+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt7xrvTvdrMgZPp8w6Gg_hZDLFgew:1789069452935&ei=jAijaqDIOO2YptQPiojC0Ag&start=10&sa=N&sstk=AS6-VmI6a2ORRG-D_YCMRCkl-wX6ITTqz7vtpwD9OnXvaSfBY5iFgMUQKAEnDuAeM6_jyYdX4wbqEL2TtLOtgmNfHP1O-njvK3GrBQ&ved=2ahUKEwigvuGJ4-SWAxVtjIkEHQqEEIoQ8NMDegQIURAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Carmel+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt7xrvTvdrMgZPp8w6Gg_hZDLFgew:1789069452935&ei=jAijaqDIOO2YptQPiojC0Ag&start=10&sa=N&sstk=AS6-VmI6a2ORRG-D_YCMRCkl-wX6ITTqz7vtpwD9OnXvaSfBY5iFgMUQKAEnDuAeM6_jyYdX4wbqEL2TtLOtgmNfHP1O-njvK3GrBQ&ved=2ahUKEwigvuGJ4-SWAxVtjIkEHQqEEIoQ8tMDegQIURAE",
+   "3": "https://www.google.com/search?q=%22Carmel+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt7xrvTvdrMgZPp8w6Gg_hZDLFgew:1789069452935&ei=jAijaqDIOO2YptQPiojC0Ag&start=20&sa=N&sstk=AS6-VmI6a2ORRG-D_YCMRCkl-wX6ITTqz7vtpwD9OnXvaSfBY5iFgMUQKAEnDuAeM6_jyYdX4wbqEL2TtLOtgmNfHP1O-njvK3GrBQ&ved=2ahUKEwigvuGJ4-SWAxVtjIkEHQqEEIoQ8tMDegQIURAG",
+   "4": "https://www.google.com/search?q=%22Carmel+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt7xrvTvdrMgZPp8w6Gg_hZDLFgew:1789069452935&ei=jAijaqDIOO2YptQPiojC0Ag&start=30&sa=N&sstk=AS6-VmI6a2ORRG-D_YCMRCkl-wX6ITTqz7vtpwD9OnXvaSfBY5iFgMUQKAEnDuAeM6_jyYdX4wbqEL2TtLOtgmNfHP1O-njvK3GrBQ&ved=2ahUKEwigvuGJ4-SWAxVtjIkEHQqEEIoQ8tMDegQIURAI",
+   "5": "https://www.google.com/search?q=%22Carmel+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt7xrvTvdrMgZPp8w6Gg_hZDLFgew:1789069452935&ei=jAijaqDIOO2YptQPiojC0Ag&start=40&sa=N&sstk=AS6-VmI6a2ORRG-D_YCMRCkl-wX6ITTqz7vtpwD9OnXvaSfBY5iFgMUQKAEnDuAeM6_jyYdX4wbqEL2TtLOtgmNfHP1O-njvK3GrBQ&ved=2ahUKEwigvuGJ4-SWAxVtjIkEHQqEEIoQ8tMDegQIURAK",
+   "6": "https://www.google.com/search?q=%22Carmel+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt7xrvTvdrMgZPp8w6Gg_hZDLFgew:1789069452935&ei=jAijaqDIOO2YptQPiojC0Ag&start=50&sa=N&sstk=AS6-VmI6a2ORRG-D_YCMRCkl-wX6ITTqz7vtpwD9OnXvaSfBY5iFgMUQKAEnDuAeM6_jyYdX4wbqEL2TtLOtgmNfHP1O-njvK3GrBQ&ved=2ahUKEwigvuGJ4-SWAxVtjIkEHQqEEIoQ8tMDegQIURAM",
+   "7": "https://www.google.com/search?q=%22Carmel+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt7xrvTvdrMgZPp8w6Gg_hZDLFgew:1789069452935&ei=jAijaqDIOO2YptQPiojC0Ag&start=60&sa=N&sstk=AS6-VmI6a2ORRG-D_YCMRCkl-wX6ITTqz7vtpwD9OnXvaSfBY5iFgMUQKAEnDuAeM6_jyYdX4wbqEL2TtLOtgmNfHP1O-njvK3GrBQ&ved=2ahUKEwigvuGJ4-SWAxVtjIkEHQqEEIoQ8tMDegQIURAO",
+   "8": "https://www.google.com/search?q=%22Carmel+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt7xrvTvdrMgZPp8w6Gg_hZDLFgew:1789069452935&ei=jAijaqDIOO2YptQPiojC0Ag&start=70&sa=N&sstk=AS6-VmI6a2ORRG-D_YCMRCkl-wX6ITTqz7vtpwD9OnXvaSfBY5iFgMUQKAEnDuAeM6_jyYdX4wbqEL2TtLOtgmNfHP1O-njvK3GrBQ&ved=2ahUKEwigvuGJ4-SWAxVtjIkEHQqEEIoQ8tMDegQIURAQ",
+   "9": "https://www.google.com/search?q=%22Carmel+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt7xrvTvdrMgZPp8w6Gg_hZDLFgew:1789069452935&ei=jAijaqDIOO2YptQPiojC0Ag&start=80&sa=N&sstk=AS6-VmI6a2ORRG-D_YCMRCkl-wX6ITTqz7vtpwD9OnXvaSfBY5iFgMUQKAEnDuAeM6_jyYdX4wbqEL2TtLOtgmNfHP1O-njvK3GrBQ&ved=2ahUKEwigvuGJ4-SWAxVtjIkEHQqEEIoQ8tMDegQIURAS",
+   "10": "https://www.google.com/search?q=%22Carmel+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt7xrvTvdrMgZPp8w6Gg_hZDLFgew:1789069452935&ei=jAijaqDIOO2YptQPiojC0Ag&start=90&sa=N&sstk=AS6-VmI6a2ORRG-D_YCMRCkl-wX6ITTqz7vtpwD9OnXvaSfBY5iFgMUQKAEnDuAeM6_jyYdX4wbqEL2TtLOtgmNfHP1O-njvK3GrBQ&ved=2ahUKEwigvuGJ4-SWAxVtjIkEHQqEEIoQ8tMDegQIURAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Carmel+High+School%22+Indiana&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Carmel+High+School%22+Indiana&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Carmel+High+School%22+Indiana&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Carmel+High+School%22+Indiana&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Carmel+High+School%22+Indiana&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Carmel+High+School%22+Indiana&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Carmel+High+School%22+Indiana&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Carmel+High+School%22+Indiana&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Carmel+High+School%22+Indiana&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Carmel+High+School%22+Indiana&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Carmel+High+School%22+Indiana&start=90"
+  }
+ }
+}

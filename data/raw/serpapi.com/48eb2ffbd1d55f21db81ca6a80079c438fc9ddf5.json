@@ -1,0 +1,493 @@
+{
+ "search_information": {
+  "query_displayed": "\"Morgantown High School\" West Virginia",
+  "total_results": 122,
+  "time_taken_displayed": 0.27,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Morgantown High School",
+  "type": "Public school in Morgantown, West Virginia",
+  "entity_type": "local_nav",
+  "kgmid": "/m/0gbjg7",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/0gbjg7&hl=en-US&q=Morgantown+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F0gbjg7&q=Morgantown+High+School",
+  "place_id": "ChIJkQnMk4N8NYgRj59ZS_PA1VE",
+  "website": "http://mohigans.mono.k12.wv.us/",
+  "description": "Morgantown High School is a public high school in Morgantown, West Virginia, United States. It is one of three secondary schools in the Monongalia County School District.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa30fc1b255a8896a1f79cc/images/CeoSiv1wNqFEr14A9CKTNDBvFl6uSy8ksZKMNL9HlgY.webp",
+   "link": "https://www.google.com/maps/place/Morgantown+High+School/data=!4m2!3m1!1s0x0:0x51d5c0f34b599f8f?sa=X&ved=2ahUKEwi-xrj76eSWAxWqr1YBHVBwBwAQ_BJ6BAgQEAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Morgantown_High_School"
+  },
+  "address": "109 Wilson Ave, Morgantown, WV 26501",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=morgantown+high+school+address&ludocid=5896831438285283215&sa=X&ved=2ahUKEwi-xrj76eSWAxWqr1YBHVBwBwAQ6BN6BAggEAI"
+   }
+  ],
+  "founded": "1883",
+  "colors": "Blue, Red",
+  "colors_links": [
+   {
+    "text": "Blue",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpvdEmEKP4dQQoWLIwXjhkBjOThA3TO1rl4rjAeqO-nYm9qS8sXmEcXtSf64wvy5tbgQZ-7LwbJDVHVkPVdnqMFkOEDTqAVOqmb_vKqizxgIvRPyaxZ_9sA11peLpPnRkT7eQnP7LKnNibWKw8gBH50W212BfgFhwTEk0efDU_rf555nKqYUQoiiVr26V307SoP_Ur70%3D&sa=X&ved=2ahUKEwi-xrj76eSWAxWqr1YBHVBwBwAQmxN6BAglEAI"
+   },
+   {
+    "text": "Red",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpl_3AFKcirfI2u2sRI4LGxap_ednnJnut-0nMnDbeo5TvKMSWkaE6KUKoLbaDsLEwuH3yr5yNKLF_Fw5v0bjZV6IBHwdmwNQkOHAhzXgfl0lE9iVXkgWrQdYnXrxJuXxhCbRHUA0KXV6K0mFWjNv7hZk_EEo0INu533_v32yiJjmszqBRpn-u2TtukJVYBcRh8sUQEw%3D&sa=X&ved=2ahUKEwi-xrj76eSWAxWqr1YBHVBwBwAQmxN6BAglEAM"
+   }
+  ],
+  "school_types": "Secondary school, State school, Public school",
+  "school_types_links": [
+   {
+    "text": "Secondary school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Secondary+school&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67-Rsa99rK7fwEET42kD4ZCjk-kwuBlXLYvTk1E00Fqrhwi85KZ1INmxqGZOr3jlJDcUD6ud1MLv8IJ0e6fEDPQWMqzMljtx1MKREnqXNq73iDfAqPMTe7G37-cdlmfEnUNQyUx_RMnD9sdmE1AM1V0i1nOL81oQhN9uAsLKg7IFPhiC04-JIQ82ZgYsNXrZaa79GH4N6sNZWDpq3LAKHhPNWyaS4106OCRY4DjiGG2-9U2OIPH_vaygNu06GnEigvd5iShM%3D&sa=X&ved=2ahUKEwi-xrj76eSWAxWqr1YBHVBwBwAQmxN6BAgoEAI"
+   },
+   {
+    "text": "State school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=State+school&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ybGtCxI0H8z2nV80srIO5hh43iJrpLL9zyTRHToodwNipZCD4kcN2wbzA3OqfyGettl42NpXglwsH4hnJQRSg4KBrFTowpZphOt0qedRcJ2Axv8hN-DpFGlJCxwQv8j050B0lGXecqpszMrGcdP7rv4UAmtdzCRNEMmoeKH5Tt53ycyNZ_OJjJV9kjACfumy2fHoMjAIcjjkKjpm_XSQw3IuuEnBMK_3I1ybAX-DbSQYxLpiSA6QnkHmTSwLR5sUImkGDAo%3D&sa=X&ved=2ahUKEwi-xrj76eSWAxWqr1YBHVBwBwAQmxN6BAgoEAM"
+   },
+   {
+    "text": "Public school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Public+school&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpnRjecyiHCyfvh60pbD8ck5PRN1YHP_sJ4SP5ZvhFW1SCqcU73cy8ciuVYm7MIcM9JKjoj5TcP9yh14TUTaTMZ3No418INxdY9bFHeSRgFp7JZ6cI6FbXcga8efg8J_iiip0GJqIjrYecJ_wdFxiA5jZR-KG4yZ-LzC08RPOTLuQXPPFyi3qtpNnsIcnCbzVWHhS3Ebb_UJg1bs83307C5NuL0-CztAOaTH_Qx_T-QCg0Hzbth9RouO4xRCuTuAwqkApXoA%3D&sa=X&ved=2ahUKEwi-xrj76eSWAxWqr1YBHVBwBwAQmxN6BAgoEAQ"
+   }
+  ],
+  "phone": "(304) 291-9260",
+  "raw_hours": "Closed \u00b7 Opens 7 AM Fri",
+  "hours": {
+   "thursday": {
+    "opens": "7\u202fAM",
+    "closes": "3\u202fPM"
+   },
+   "friday": {
+    "opens": "7\u202fAM",
+    "closes": "3\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "7\u202fAM",
+    "closes": "3\u202fPM"
+   },
+   "tuesday": {
+    "opens": "7\u202fAM",
+    "closes": "3\u202fPM"
+   },
+   "wednesday": {
+    "opens": "7\u202fAM",
+    "closes": "3\u202fPM"
+   }
+  },
+  "unclaimed_listing": true,
+  "people_also_search_for": [
+   {
+    "name": "University High School",
+    "image": "https://serpapi.com/searches/6aa30fc1b255a8896a1f79cc/images/CeoSiv1wNqFEr14A9CKTNDvgiFmyElE3eZRpdS4zcRYCy5aI8B45BCWrxlJGFwld.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW679M7OsDIfcwdyIDwWkQfzX61f7MRarE4IIZabZfy1eMyuAsVFUNRatp7wWE35tI0qHt_1u9ywa3s65_CKxXqlPl3YzcxjwlDSU7dEZ2u_UK0j_qxhSDggH-LfocSfEkNkjpUXoe7T2xpL28oNfCDn3TfrQrvwHDjtTig9-0nOjQFilFTbgOqKva6YXRAanAgawfQjmWwJcXhKekopiWf0Nxh1neCipyDomWHtbdeoWMeMe9SuuwoUAGAK3ycrZudMdPrBx5Ai7xRwRYeM3mLotw7uTHI&q=University+High+School+Morgantown&sa=X&ved=2ahUKEwi-xrj76eSWAxWqr1YBHVBwBwAQs9oBKAB6BAgfEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=University+High+School+Morgantown&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW679M7OsDIfcwdyIDwWkQfzX61f7MRarE4IIZabZfy1eMyuAsVFUNRatp7wWE35tI0qHt_1u9ywa3s65_CKxXqlPl3YzcxjwlDSU7dEZ2u_UK0j_qxhSDggH-LfocSfEkNkjpUXoe7T2xpL28oNfCDn3TfrQrvwHDjtTig9-0nOjQFilFTbgOqKva6YXRAanAgawfQjmWwJcXhKekopiWf0Nxh1neCipyDomWHtbdeoWMeMe9SuuwoUAGAK3ycrZudMdPrBx5Ai7xRwRYeM3mLotw7uTHI"
+   },
+   {
+    "name": "Morgantown",
+    "image": "https://serpapi.com/searches/6aa30fc1b255a8896a1f79cc/images/CeoSiv1wNqFEr14A9CKTNDvgiFmyElE3eZRpdS4zcRa5dRHRNzWyxVzgou3YW-2C.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yZTsXrutyDD8GPtt1_CYGRtw74rz1zulQ93rg-GpiqqSZcFp630gExi8B9555LCzq3Cl5ASfJpjszSG-uByCpUdAhi0bjt6G-uk4aUNLwdagk5aSSlruVlHFHrF2bTdUDWJg-J96KOuEYZy-PvfG6LVA28UjxrHUTahXpU374XIdxv7AaxXEnPERvnGGvKb2Wr0tjogZkfy4yTQ5PCMr-02ZMqXccS47A62Q2psSsjONKSfS_CNTz18gj2bFDTzHH1Cmim4%3D&q=Morgantown&sa=X&ved=2ahUKEwi-xrj76eSWAxWqr1YBHVBwBwAQs9oBKAB6BAgfEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Morgantown&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yZTsXrutyDD8GPtt1_CYGRtw74rz1zulQ93rg-GpiqqSZcFp630gExi8B9555LCzq3Cl5ASfJpjszSG-uByCpUdAhi0bjt6G-uk4aUNLwdagk5aSSlruVlHFHrF2bTdUDWJg-J96KOuEYZy-PvfG6LVA28UjxrHUTahXpU374XIdxv7AaxXEnPERvnGGvKb2Wr0tjogZkfy4yTQ5PCMr-02ZMqXccS47A62Q2psSsjONKSfS_CNTz18gj2bFDTzHH1Cmim4%3D"
+   },
+   {
+    "name": "Wheeling Park High School",
+    "image": "https://serpapi.com/searches/6aa30fc1b255a8896a1f79cc/images/CeoSiv1wNqFEr14A9CKTNDvgiFmyElE3eZRpdS4zcRZ0UvMWYfFux6WyjiL0WXM7.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yavdyKXNeTQh_8hzISq4O6rYpq1tCPIAk1kcVbeQyAV1YA2RXqDKOjfGQyhiQJWIk5OJogU0c__YjmCi5uMQTeqtHl-4jgCyRgwF6EzrtW1fNDzDdziyz_NN3EdQ_bhF7feTC0HisvD9S9Sc71NgDQKIrrF1WISpFLhMnkEkRw8ibYFBXA8-g_NPoS0ljj5c8Y8OR_Zbyj5v-JHNIMz4758QbFZZ_o4LF_sEII0jq4-moGIKU2SfYkIo-LSdTw43zKRMSpvCF5WrmlfmieTZdaV3DKPC&q=Wheeling+Park+High+School&sa=X&ved=2ahUKEwi-xrj76eSWAxWqr1YBHVBwBwAQs9oBKAB6BAgfEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Wheeling+Park+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yavdyKXNeTQh_8hzISq4O6rYpq1tCPIAk1kcVbeQyAV1YA2RXqDKOjfGQyhiQJWIk5OJogU0c__YjmCi5uMQTeqtHl-4jgCyRgwF6EzrtW1fNDzDdziyz_NN3EdQ_bhF7feTC0HisvD9S9Sc71NgDQKIrrF1WISpFLhMnkEkRw8ibYFBXA8-g_NPoS0ljj5c8Y8OR_Zbyj5v-JHNIMz4758QbFZZ_o4LF_sEII0jq4-moGIKU2SfYkIo-LSdTw43zKRMSpvCF5WrmlfmieTZdaV3DKPC"
+   },
+   {
+    "name": "Bridgeport High School",
+    "image": "https://serpapi.com/searches/6aa30fc1b255a8896a1f79cc/images/CeoSiv1wNqFEr14A9CKTNDvgiFmyElE3eZRpdS4zcRYPSV2EIl6zNx11JbG9tqlM.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW671_IUEw8f1oId8dw2aSbYnaCkPM613QKv8tgs2TtUnK_cxL1pWDKCFJ3H_Alm8bW77s7UKFAVFbLNIzh-33inV6l74nZ_ZtH0ezkEFNF9PzYtqFihy_Bllpoq0zOfvswIFhpZ_KdnfLlJxMHRCGbU1XerrvZsPvS9F8ZGHfdVJ3JTUwnbV_C47lbQYhZ5qfEtm-TWjQ-1diDrC6rOYEcFX_cjgWTsRSLxptJVe9mjQKpknInJML5lssVUk71VqbszS260J9uel9iaR5Bvcwn9LGBGXee&q=Bridgeport+High+School&sa=X&ved=2ahUKEwi-xrj76eSWAxWqr1YBHVBwBwAQs9oBKAB6BAgfEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Bridgeport+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW671_IUEw8f1oId8dw2aSbYnaCkPM613QKv8tgs2TtUnK_cxL1pWDKCFJ3H_Alm8bW77s7UKFAVFbLNIzh-33inV6l74nZ_ZtH0ezkEFNF9PzYtqFihy_Bllpoq0zOfvswIFhpZ_KdnfLlJxMHRCGbU1XerrvZsPvS9F8ZGHfdVJ3JTUwnbV_C47lbQYhZ5qfEtm-TWjQ-1diDrC6rOYEcFX_cjgWTsRSLxptJVe9mjQKpknInJML5lssVUk71VqbszS260J9uel9iaR5Bvcwn9LGBGXee"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Morgantown+High+School&stick=H4sIAAAAAAAAAONgFuLUz9U3SE_KSjdXQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iFfPNL0pPzCvJL89T8MhMz1AITs7Iz8_Zwcp4i02S4Y1DRWAuX1PnknDDQ6zaizZHJAXbpId9Pw4A9KQFZ3wAAAA&sa=X&ved=2ahUKEwi-xrj76eSWAxWqr1YBHVBwBwAQzO0BKAR6BAgfEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLUz9U3SE_KSjdXQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iFfPNL0pPzCvJL89T8MhMz1AITs7Iz8_Zwcp4i02S4Y1DRWAuX1PnknDDQ6zaizZHJAXbpId9Pw4A9KQFZ3wAAAA",
+  "profiles": [
+   {
+    "name": "X (Twitter)",
+    "link": "https://twitter.com/ONEMHS",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Morgantown+High+School%22+West+Virginia",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAABhUlEQVR4AczOA6xcARCF4X_us23btuLUQR3WZlhbQW3bto2gtm3b2J3GN4tY74uHh3okOi42Nj4AAUDwTvDEhisABCOAEAzYTBh0bN-lc5d0QgAhHPqX4Y4pkd367Zc-xMcXCPDg8TPwxeQH724Uj9N95GJ4pnHxby1xgCmV3v-GsFb7k0Iee7UjaQgmIYe9v9O4-wUKWaATyMPAViwvr1NnOQWDdTV5CHYSaKWLmaGDyvU4mTgQcllracaFr-9uk-yLM8k8fAJff0IUTghRVFu3M1ynkYk4nchiqqU3Ry05RDibMMhjtj6Ht3dJxVk_l1G64cspOusychBsCWm01WNM0jFs0sbEYUtIIuTXNco588OLh09JxE6wweuXEAvfL9PQus3-iU80N34KCaQyUOcxTTuSjEmMRI5rS9JwIZfD1t7ceo34YIpnuQ4nGwP8XXlq_fJZd9jE8KBHC5IwAELJ7dWrZ6fOuNhkgFgAEEIAwA1MQkw0AgDC_wnKycrKSQ2iPAkAVyNzq8rxicIAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "YouTube",
+    "link": "https://www.youtube.com/channel/UC9lhTbmX4wzQbqg76jwnQBA",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Morgantown+High+School%22+West+Virginia",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAP1BMVEX_____z8__n5__kJD_gID_cHD_YGD_v7__39__ICD_AAD_r6__EBD_7-__oKD_MDD_QED_UFD_X1__j4__f396G04EAAAAhklEQVR4AeXQRQLDQAwDQC3bajj5_1dLYb63czYKf8VY50OcBO9swkyUB_SBkfJQlqOXeKJAz_FEQM9zVCqXInqRIy-RC9W-AJDypgCwyoGiV68LkLJFwX6CVJcr8nBwZJgLXMaDAs9RxsMcLE949IQnEnpoeKjEpC25o12OpVwkTURy_JQX1r4RC2S7kZYAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/MohiganBoosters/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Morgantown+High+School%22+West+Virginia",
+    "image": "https://serpapi.com/searches/6aa30fc1b255a8896a1f79cc/images/CeoSiv1wNqFEr14A9CKTNAd_kX7HnfHoLfvQ84Klmqjsyur2KSjAOs-3UD__RPTb.png"
+   },
+   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/morgantown_high_athletics/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Morgantown+High+School%22+West+Virginia",
+    "image": "https://serpapi.com/searches/6aa30fc1b255a8896a1f79cc/images/CeoSiv1wNqFEr14A9CKTNJHldxoH9AhboerdD0q3xHgQgWcbM6Qf0MxYue3XdylY.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "How many kids go to Morgantown High School, WV?",
+   "type": "ai_overview",
+   "page_token": "eZQ6pnicHdBdbtsgAMBx7TJ9bCBuuiVSNNUzjmXNrsCAP14mAklIDJg6Vv3x1gvsFDvVTrNqB_j_Hv4ff8zVtX-__NbD4O-71Wocx8dL113M6VF2diXus5MrKYw5Ctnunr8-w-9nuUfvOPzRyxAz73lEQDHDRhxaICo14SB1JzQNpfVYmm32WkCfI1OSmwElrUexkJGhBuH223KiKWjYwPiS3ssk7YXFG5W8BHyGB2E1OhqtCwBrRRmQEekJS6PSwpCidBaJJ3yJgaJqXRw2XFrlWCsH1aqCWjDlCU9FS-qCY8gKGGUL8cdSXYV7gUdH1hLE1xyl7mflexHwuHEkydr6KVtPM0cD5VWI6YHnMtBhSZsIfxaviXFIk6dP762u6oChrZa2nqXd4gxtwybsrpiRRd6MZc6E-Y3EmJsOg-mtbjc9qXRecOMI0g22scX44Szf98HD_8_7X2c77HzfXf4B456MUg",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=eZQ6pnicHdBdbtsgAMBx7TJ9bCBuuiVSNNUzjmXNrsCAP14mAklIDJg6Vv3x1gvsFDvVTrNqB_j_Hv4ff8zVtX-__NbD4O-71Wocx8dL113M6VF2diXus5MrKYw5Ctnunr8-w-9nuUfvOPzRyxAz73lEQDHDRhxaICo14SB1JzQNpfVYmm32WkCfI1OSmwElrUexkJGhBuH223KiKWjYwPiS3ssk7YXFG5W8BHyGB2E1OhqtCwBrRRmQEekJS6PSwpCidBaJJ3yJgaJqXRw2XFrlWCsH1aqCWjDlCU9FS-qCY8gKGGUL8cdSXYV7gUdH1hLE1xyl7mflexHwuHEkydr6KVtPM0cD5VWI6YHnMtBhSZsIfxaviXFIk6dP762u6oChrZa2nqXd4gxtwybsrpiRRd6MZc6E-Y3EmJsOg-mtbjc9qXRecOMI0g22scX44Szf98HD_8_7X2c77HzfXf4B456MUg",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXA0QkNtSkJTbWxVTkhSTGRFeG1kamx2WWt4d1lXOVRaMHhYYm1GNWRYWm9kbWN5VkhSNFlVeFZNVTUwVkRWRVVFRnRRMFZJYVRaa2N6VnZibTVHYWxwaFVtWjVhbFU1V2xveFUwOUhha2Q1WDBFdFlqZEdOMk5EWVZacVRHOXRXRUZmU1VaWFVSSVVlRkV0YW1GMk4xQlBZWEptTW5KdlVEQlBRV1FhSWtGRWMzSTVabFE1WTFCSGFVaEpWbXRCV1ZrM1Iwc3pXbE0xY25rMloySndUSGMiLCJmY3YiOiIzIiwiZWkiOiJ4US1qYXY3UE9hcmYycm9QME9BZCIsInFjIjoiQ2lSdGIzSm5ZVzUwYjNkdUlHaHBaMmdnYzJOb2IyOXNJSGRsYzNRZ2RtbHlaMmx1YVdFUUFIMnlHREFfIiwicXVlc3Rpb24iOiJIb3cgbWFueSBraWRzIGdvIHRvIE1vcmdhbnRvd24gSGlnaCBTY2hvb2wsIFdWPyIsImxrIjoiR2kxb2IzY2diV0Z1ZVNCcmFXUnpJR2R2SUhSdklHMXZjbWRoYm5SdmQyNGdhR2xuYUNCelkyaHZiMndnZDNZIiwiYnMiOiJjMzJQTVEtQ01CaEU0OXJKbWVrR3hVVkRRbUljdTdJNEdCTVlUVldrRGJSZjBnS05fMTVCb3BpSS03MTdkLXpNb29ROHREQjNsT3JxVUJCcXdwNXNJVXhOM2lCUmhjVHhJb21xTmJLVXgxR3drVDhRX1VGa2g3Z2VnV19aaVcwelNSQTJoeU9kNHlZME5RNmlhclJSb051RWpjZGhzSmhvX2FwZ2x1M2VKMFlwMXl1VkdmVV9ILVN1UnFwc29Zd1NQTjRGV19rUEhmbDlSN1lEeVE0c3pLU29vZHpFZkZoaHl2eks0MVd3OUVOeTRzMHJPWjg5QUEiLCJpZCI6ImZjX3hRLWphdjdQT2FyZjJyb1AwT0FkXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXA0QkNtSkJTbWxVTkhSTGRFeG1kamx2WWt4d1lXOVRaMHhYYm1GNWRYWm9kbWN5VkhSNFlVeFZNVTUwVkRWRVVFRnRRMFZJYVRaa2N6VnZibTVHYWxwaFVtWjVhbFU1V2xveFUwOUhha2Q1WDBFdFlqZEdOMk5EWVZacVRHOXRXRUZmU1VaWFVSSVVlRkV0YW1GMk4xQlBZWEptTW5KdlVEQlBRV1FhSWtGRWMzSTVabFE1WTFCSGFVaEpWbXRCV1ZrM1Iwc3pXbE0xY25rMloySndUSGMiLCJmY3YiOiIzIiwiZWkiOiJ4US1qYXY3UE9hcmYycm9QME9BZCIsInFjIjoiQ2lSdGIzSm5ZVzUwYjNkdUlHaHBaMmdnYzJOb2IyOXNJSGRsYzNRZ2RtbHlaMmx1YVdFUUFIMnlHREFfIiwicXVlc3Rpb24iOiJIb3cgbWFueSBraWRzIGdvIHRvIE1vcmdhbnRvd24gSGlnaCBTY2hvb2wsIFdWPyIsImxrIjoiR2kxb2IzY2diV0Z1ZVNCcmFXUnpJR2R2SUhSdklHMXZjbWRoYm5SdmQyNGdhR2xuYUNCelkyaHZiMndnZDNZIiwiYnMiOiJjMzJQTVEtQ01CaEU0OXJKbWVrR3hVVkRRbUljdTdJNEdCTVlUVldrRGJSZjBnS05fMTVCb3BpSS03MTdkLXpNb29ROHREQjNsT3JxVUJCcXdwNXNJVXhOM2lCUmhjVHhJb21xTmJLVXgxR3drVDhRX1VGa2g3Z2VnV19aaVcwelNSQTJoeU9kNHlZME5RNmlhclJSb051RWpjZGhzSmhvX2FwZ2x1M2VKMFlwMXl1VkdmVV9ILVN1UnFwc29Zd1NQTjRGV19rUEhmbDlSN1lEeVE0c3pLU29vZHpFZkZoaHl2eks0MVd3OUVOeTRzMHJPWjg5QUEiLCJpZCI6ImZjX3hRLWphdjdQT2FyZjJyb1AwT0FkXzUifQ%3D%3D"
+  },
+  {
+   "question": "Who are some famous alumni of Morgantown High School?",
+   "type": "ai_overview",
+   "page_token": "xiC673icHdBNcpswGIDhyWWyjPmx3cEznk4JyHZaQySQPtCmI4RtBSRQDLFrdr1AT9FT9TT1ZPsunsX7-69-69p_D3_UONphNZtdr9enU9-f9OFJ9mYmhlsnZ1JoXQnZrpZflu7Xo1zHFxw-n2WIqbUsIk7WclUVVsj85NVmuBFfpaKTc9JZdYjIpTKOQye1qCKG7s3evTFFO7eeko8KLMvYy0cau0tcfPOJ0VkWk4FqRGsnyTANEhHHV8pCkDT4nm7VFmBEZZtA0qiGM2QJMKDU3UKOhtJFOw6_IuFxBjrUBOaOBLbBdJiYo15zpDhvwpRvUHs3SNWpbK_18VCQH9DwPYByEmeRcT8e682irz0CYqv83Alo7r2EsSJzmrnvZVH6NA6UNOVNmgDv4yDkYf-GKZlkow3V_BWiWoBJitIwVFEEWbHzyKTPAly7p6PF-PEoL2v_8fPz-ufRjCt77k__Ad-3i7I",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=xiC673icHdBNcpswGIDhyWWyjPmx3cEznk4JyHZaQySQPtCmI4RtBSRQDLFrdr1AT9FT9TT1ZPsunsX7-69-69p_D3_UONphNZtdr9enU9-f9OFJ9mYmhlsnZ1JoXQnZrpZflu7Xo1zHFxw-n2WIqbUsIk7WclUVVsj85NVmuBFfpaKTc9JZdYjIpTKOQye1qCKG7s3evTFFO7eeko8KLMvYy0cau0tcfPOJ0VkWk4FqRGsnyTANEhHHV8pCkDT4nm7VFmBEZZtA0qiGM2QJMKDU3UKOhtJFOw6_IuFxBjrUBOaOBLbBdJiYo15zpDhvwpRvUHs3SNWpbK_18VCQH9DwPYByEmeRcT8e682irz0CYqv83Alo7r2EsSJzmrnvZVH6NA6UNOVNmgDv4yDkYf-GKZlkow3V_BWiWoBJitIwVFEEWbHzyKTPAly7p6PF-PEoL2v_8fPz-ufRjCt77k__Ad-3i7I",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXA0QkNtSkJTbWxVTkhSTGRFeG1kamx2WWt4d1lXOVRaMHhYYm1GNWRYWm9kbWN5VkhSNFlVeFZNVTUwVkRWRVVFRnRRMFZJYVRaa2N6VnZibTVHYWxwaFVtWjVhbFU1V2xveFUwOUhha2Q1WDBFdFlqZEdOMk5EWVZacVRHOXRXRUZmU1VaWFVSSVVlRkV0YW1GMk4xQlBZWEptTW5KdlVEQlBRV1FhSWtGRWMzSTVabFE1WTFCSGFVaEpWbXRCV1ZrM1Iwc3pXbE0xY25rMloySndUSGMiLCJmY3YiOiIzIiwiZWkiOiJ4US1qYXY3UE9hcmYycm9QME9BZCIsInFjIjoiQ2lSdGIzSm5ZVzUwYjNkdUlHaHBaMmdnYzJOb2IyOXNJSGRsYzNRZ2RtbHlaMmx1YVdFUUFIMnlHREFfIiwicXVlc3Rpb24iOiJXaG8gYXJlIHNvbWUgZmFtb3VzIGFsdW1uaSBvZiBNb3JnYW50b3duIEhpZ2ggU2Nob29sPyIsImxrIjoiR2lSdGIzSm5ZVzUwYjNkdUlHaHBaMmdnYzJOb2IyOXNJR1poYlc5MWN5QmhiSFZ0Ym1rIiwiYnMiOiJjMzJQTVEtQ01CaEU0OXJKbWVrR3hVVkRRbUljdTdJNEdCTVlUVldrRGJSZjBnS05fMTVCb3BpSS03MTdkLXpNb29ROHREQjNsT3JxVUJCcXdwNXNJVXhOM2lCUmhjVHhJb21xTmJLVXgxR3drVDhRX1VGa2g3Z2VnV19aaVcwelNSQTJoeU9kNHlZME5RNmlhclJSb051RWpjZGhzSmhvX2FwZ2x1M2VKMFlwMXl1VkdmVV9ILVN1UnFwc29Zd1NQTjRGV19rUEhmbDlSN1lEeVE0c3pLU29vZHpFZkZoaHl2eks0MVd3OUVOeTRzMHJPWjg5QUEiLCJpZCI6ImZjX3hRLWphdjdQT2FyZjJyb1AwT0FkXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXA0QkNtSkJTbWxVTkhSTGRFeG1kamx2WWt4d1lXOVRaMHhYYm1GNWRYWm9kbWN5VkhSNFlVeFZNVTUwVkRWRVVFRnRRMFZJYVRaa2N6VnZibTVHYWxwaFVtWjVhbFU1V2xveFUwOUhha2Q1WDBFdFlqZEdOMk5EWVZacVRHOXRXRUZmU1VaWFVSSVVlRkV0YW1GMk4xQlBZWEptTW5KdlVEQlBRV1FhSWtGRWMzSTVabFE1WTFCSGFVaEpWbXRCV1ZrM1Iwc3pXbE0xY25rMloySndUSGMiLCJmY3YiOiIzIiwiZWkiOiJ4US1qYXY3UE9hcmYycm9QME9BZCIsInFjIjoiQ2lSdGIzSm5ZVzUwYjNkdUlHaHBaMmdnYzJOb2IyOXNJSGRsYzNRZ2RtbHlaMmx1YVdFUUFIMnlHREFfIiwicXVlc3Rpb24iOiJXaG8gYXJlIHNvbWUgZmFtb3VzIGFsdW1uaSBvZiBNb3JnYW50b3duIEhpZ2ggU2Nob29sPyIsImxrIjoiR2lSdGIzSm5ZVzUwYjNkdUlHaHBaMmdnYzJOb2IyOXNJR1poYlc5MWN5QmhiSFZ0Ym1rIiwiYnMiOiJjMzJQTVEtQ01CaEU0OXJKbWVrR3hVVkRRbUljdTdJNEdCTVlUVldrRGJSZjBnS05fMTVCb3BpSS03MTdkLXpNb29ROHREQjNsT3JxVUJCcXdwNXNJVXhOM2lCUmhjVHhJb21xTmJLVXgxR3drVDhRX1VGa2g3Z2VnV19aaVcwelNSQTJoeU9kNHlZME5RNmlhclJSb051RWpjZGhzSmhvX2FwZ2x1M2VKMFlwMXl1VkdmVV9ILVN1UnFwc29Zd1NQTjRGV19rUEhmbDlSN1lEeVE0c3pLU29vZHpFZkZoaHl2eks0MVd3OUVOeTRzMHJPWjg5QUEiLCJpZCI6ImZjX3hRLWphdjdQT2FyZjJyb1AwT0FkXzUifQ%3D%3D"
+  },
+  {
+   "question": "How many high schools are in Morgantown, West Virginia?",
+   "type": "ai_overview",
+   "page_token": "EZAUm3icHdBdbpswAABg7TJ9bOKSZiJSNIlih7FihH-Bl8kxSZxgwE0Qf2-7wE6xU_U0lfYd4fvzz17b-vPbX9P37rFbrcZxfL503cWennXXrNRjbvVKK2uPSte77fct-HHWezhkwdtdBxl3ToRkTSX5kA2YMlltCCKMIVcw3g-0dcFxEVxBPKuwiggya9Voj9V6Sjmej4gQcSNTAcgmuZmfApYZ9cxGL0EsULdI5I-ixXfCKkNrFLIcTzrHqZQYvVNAM8nnEhKaecFZtqZRogq55a_qJiIhfVm9uFcSGsasvaZhNmFQtuoN4ITHabKuX4raeCfr0nwJEIVAvUvxq2LVVh6Moy0CtAYl8dzA1kScDv1wzAWGhmw4BR9FXngc-kY3xawbP0ugH5RBd804WfTNNrz2mW4SwOp4klH5UBylRW6jCpZRcogVP8S0HJ_Oeth7T_-f97_PTb9z9-7yBahQi6Q",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=EZAUm3icHdBdbpswAABg7TJ9bOKSZiJSNIlih7FihH-Bl8kxSZxgwE0Qf2-7wE6xU_U0lfYd4fvzz17b-vPbX9P37rFbrcZxfL503cWennXXrNRjbvVKK2uPSte77fct-HHWezhkwdtdBxl3ToRkTSX5kA2YMlltCCKMIVcw3g-0dcFxEVxBPKuwiggya9Voj9V6Sjmej4gQcSNTAcgmuZmfApYZ9cxGL0EsULdI5I-ixXfCKkNrFLIcTzrHqZQYvVNAM8nnEhKaecFZtqZRogq55a_qJiIhfVm9uFcSGsasvaZhNmFQtuoN4ITHabKuX4raeCfr0nwJEIVAvUvxq2LVVh6Moy0CtAYl8dzA1kScDv1wzAWGhmw4BR9FXngc-kY3xawbP0ugH5RBd804WfTNNrz2mW4SwOp4klH5UBylRW6jCpZRcogVP8S0HJ_Oeth7T_-f97_PTb9z9-7yBahQi6Q",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXA0QkNtSkJTbWxVTkhSTGRFeG1kamx2WWt4d1lXOVRaMHhYYm1GNWRYWm9kbWN5VkhSNFlVeFZNVTUwVkRWRVVFRnRRMFZJYVRaa2N6VnZibTVHYWxwaFVtWjVhbFU1V2xveFUwOUhha2Q1WDBFdFlqZEdOMk5EWVZacVRHOXRXRUZmU1VaWFVSSVVlRkV0YW1GMk4xQlBZWEptTW5KdlVEQlBRV1FhSWtGRWMzSTVabFE1WTFCSGFVaEpWbXRCV1ZrM1Iwc3pXbE0xY25rMloySndUSGMiLCJmY3YiOiIzIiwiZWkiOiJ4US1qYXY3UE9hcmYycm9QME9BZCIsInFjIjoiQ2lSdGIzSm5ZVzUwYjNkdUlHaHBaMmdnYzJOb2IyOXNJSGRsYzNRZ2RtbHlaMmx1YVdFUUFIMnlHREFfIiwicXVlc3Rpb24iOiJIb3cgbWFueSBoaWdoIHNjaG9vbHMgYXJlIGluIE1vcmdhbnRvd24sIFdlc3QgVmlyZ2luaWE/IiwibGsiOiJjd1hCMFFuQU1BZ0Z3RDM2OVpib1FCS0NQa2dVTkVTNmZlLWUxNkt4eFQ4WTFWRERJbFpCY29LT0hhbmlKOXJSc3c0dVUtbVVIdyIsImJzIjoiYzMyUE1RLUNNQmhFNDlySm1la0d4VVZEUW1JY3U3STRHQk1ZVFZXa0RiUmYwZ0tOXzE1Qm9waUktNzE3ZC16TW9vUTh0REIzbE9ycVVCQnF3cDVzSVV4TjNpQlJoY1R4SW9tcU5iS1V4MUd3a1Q4UV9VRmtoN2dlZ1dfWmlXMHpTUkEyaHlPZDR5WTBOUTZpYXJSUm9OdUVqY2Roc0pob19hcGdsdTNlSjBZcDF5dVZHZlVfSC1TdVJxcHNvWXdTUE40Rldfa1BIZmw5UjdZRHlRNHN6S1Nvb2R6RWZGaGh5dnpLNDFXdzlFTnk0czByT1o4OUFBIiwiaWQiOiJmY194US1qYXY3UE9hcmYycm9QME9BZF81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXA0QkNtSkJTbWxVTkhSTGRFeG1kamx2WWt4d1lXOVRaMHhYYm1GNWRYWm9kbWN5VkhSNFlVeFZNVTUwVkRWRVVFRnRRMFZJYVRaa2N6VnZibTVHYWxwaFVtWjVhbFU1V2xveFUwOUhha2Q1WDBFdFlqZEdOMk5EWVZacVRHOXRXRUZmU1VaWFVSSVVlRkV0YW1GMk4xQlBZWEptTW5KdlVEQlBRV1FhSWtGRWMzSTVabFE1WTFCSGFVaEpWbXRCV1ZrM1Iwc3pXbE0xY25rMloySndUSGMiLCJmY3YiOiIzIiwiZWkiOiJ4US1qYXY3UE9hcmYycm9QME9BZCIsInFjIjoiQ2lSdGIzSm5ZVzUwYjNkdUlHaHBaMmdnYzJOb2IyOXNJSGRsYzNRZ2RtbHlaMmx1YVdFUUFIMnlHREFfIiwicXVlc3Rpb24iOiJIb3cgbWFueSBoaWdoIHNjaG9vbHMgYXJlIGluIE1vcmdhbnRvd24sIFdlc3QgVmlyZ2luaWE%2FIiwibGsiOiJjd1hCMFFuQU1BZ0Z3RDM2OVpib1FCS0NQa2dVTkVTNmZlLWUxNkt4eFQ4WTFWRERJbFpCY29LT0hhbmlKOXJSc3c0dVUtbVVIdyIsImJzIjoiYzMyUE1RLUNNQmhFNDlySm1la0d4VVZEUW1JY3U3STRHQk1ZVFZXa0RiUmYwZ0tOXzE1Qm9waUktNzE3ZC16TW9vUTh0REIzbE9ycVVCQnF3cDVzSVV4TjNpQlJoY1R4SW9tcU5iS1V4MUd3a1Q4UV9VRmtoN2dlZ1dfWmlXMHpTUkEyaHlPZDR5WTBOUTZpYXJSUm9OdUVqY2Roc0pob19hcGdsdTNlSjBZcDF5dVZHZlVfSC1TdVJxcHNvWXdTUE40Rldfa1BIZmw5UjdZRHlRNHN6S1Nvb2R6RWZGaGh5dnpLNDFXdzlFTnk0czByT1o4OUFBIiwiaWQiOiJmY194US1qYXY3UE9hcmYycm9QME9BZF81In0%3D"
+  },
+  {
+   "question": "What is Morgantown High School ranked?",
+   "type": "ai_overview",
+   "page_token": "DxrXgHicHdBdboIwAADg7DI-zmLRiYlZZFCVCK7QP_qyQEErUGEb84e33WWn2mmW7DvC9_3TnM7178OH7vvuczEeX6_Xx2PbHpvyUbVmnH3ez2qssqbJM1UvZk8z6_mgln4_d1_ety6mXce8GCQA3Kjn2smghhz0rwnQs4zfBCe0x5MoiA3a4qq4S9O3ZYOgsGKNgTxHa7RnficKz6Xct047EUJMEch4sdsRFkSeuufMqUsv2HCjSVlpwpkTpMYBGZT7BM2vKQvC0mibV9ITULPCj9cFWtlq0FPJ4kNZ0QnnUxgSBnOwHfabKCFVgEPmNmyzukVN10eePickkgVBX7yOoa9jmybWeypSSH1HK5PelXFw6DuudNsTpvGgqsZQgVJK0DoXri0mmvFartN6uqUTS5bUuhS8u2A8OqjLEo7-L5dvB9Mvuo_2-Ae5BH_O",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=DxrXgHicHdBdboIwAADg7DI-zmLRiYlZZFCVCK7QP_qyQEErUGEb84e33WWn2mmW7DvC9_3TnM7178OH7vvuczEeX6_Xx2PbHpvyUbVmnH3ez2qssqbJM1UvZk8z6_mgln4_d1_ety6mXce8GCQA3Kjn2smghhz0rwnQs4zfBCe0x5MoiA3a4qq4S9O3ZYOgsGKNgTxHa7RnficKz6Xct047EUJMEch4sdsRFkSeuufMqUsv2HCjSVlpwpkTpMYBGZT7BM2vKQvC0mibV9ITULPCj9cFWtlq0FPJ4kNZ0QnnUxgSBnOwHfabKCFVgEPmNmyzukVN10eePickkgVBX7yOoa9jmybWeypSSH1HK5PelXFw6DuudNsTpvGgqsZQgVJK0DoXri0mmvFartN6uqUTS5bUuhS8u2A8OqjLEo7-L5dvB9Mvuo_2-Ae5BH_O",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXA0QkNtSkJTbWxVTkhSTGRFeG1kamx2WWt4d1lXOVRaMHhYYm1GNWRYWm9kbWN5VkhSNFlVeFZNVTUwVkRWRVVFRnRRMFZJYVRaa2N6VnZibTVHYWxwaFVtWjVhbFU1V2xveFUwOUhha2Q1WDBFdFlqZEdOMk5EWVZacVRHOXRXRUZmU1VaWFVSSVVlRkV0YW1GMk4xQlBZWEptTW5KdlVEQlBRV1FhSWtGRWMzSTVabFE1WTFCSGFVaEpWbXRCV1ZrM1Iwc3pXbE0xY25rMloySndUSGMiLCJmY3YiOiIzIiwiZWkiOiJ4US1qYXY3UE9hcmYycm9QME9BZCIsInFjIjoiQ2lSdGIzSm5ZVzUwYjNkdUlHaHBaMmdnYzJOb2IyOXNJSGRsYzNRZ2RtbHlaMmx1YVdFUUFIMnlHREFfIiwicXVlc3Rpb24iOiJXaGF0IGlzIE1vcmdhbnRvd24gSGlnaCBTY2hvb2wgcmFua2VkPyIsImxrIjoiR2lWM2FHRjBJR2x6SUcxdmNtZGhiblJ2ZDI0Z2FHbG5hQ0J6WTJodmIyd2djbUZ1YTJWayIsImJzIjoiYzMyUE1RLUNNQmhFNDlySm1la0d4VVZEUW1JY3U3STRHQk1ZVFZXa0RiUmYwZ0tOXzE1Qm9waUktNzE3ZC16TW9vUTh0REIzbE9ycVVCQnF3cDVzSVV4TjNpQlJoY1R4SW9tcU5iS1V4MUd3a1Q4UV9VRmtoN2dlZ1dfWmlXMHpTUkEyaHlPZDR5WTBOUTZpYXJSUm9OdUVqY2Roc0pob19hcGdsdTNlSjBZcDF5dVZHZlVfSC1TdVJxcHNvWXdTUE40Rldfa1BIZmw5UjdZRHlRNHN6S1Nvb2R6RWZGaGh5dnpLNDFXdzlFTnk0czByT1o4OUFBIiwiaWQiOiJmY194US1qYXY3UE9hcmYycm9QME9BZF81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXA0QkNtSkJTbWxVTkhSTGRFeG1kamx2WWt4d1lXOVRaMHhYYm1GNWRYWm9kbWN5VkhSNFlVeFZNVTUwVkRWRVVFRnRRMFZJYVRaa2N6VnZibTVHYWxwaFVtWjVhbFU1V2xveFUwOUhha2Q1WDBFdFlqZEdOMk5EWVZacVRHOXRXRUZmU1VaWFVSSVVlRkV0YW1GMk4xQlBZWEptTW5KdlVEQlBRV1FhSWtGRWMzSTVabFE1WTFCSGFVaEpWbXRCV1ZrM1Iwc3pXbE0xY25rMloySndUSGMiLCJmY3YiOiIzIiwiZWkiOiJ4US1qYXY3UE9hcmYycm9QME9BZCIsInFjIjoiQ2lSdGIzSm5ZVzUwYjNkdUlHaHBaMmdnYzJOb2IyOXNJSGRsYzNRZ2RtbHlaMmx1YVdFUUFIMnlHREFfIiwicXVlc3Rpb24iOiJXaGF0IGlzIE1vcmdhbnRvd24gSGlnaCBTY2hvb2wgcmFua2VkPyIsImxrIjoiR2lWM2FHRjBJR2x6SUcxdmNtZGhiblJ2ZDI0Z2FHbG5hQ0J6WTJodmIyd2djbUZ1YTJWayIsImJzIjoiYzMyUE1RLUNNQmhFNDlySm1la0d4VVZEUW1JY3U3STRHQk1ZVFZXa0RiUmYwZ0tOXzE1Qm9waUktNzE3ZC16TW9vUTh0REIzbE9ycVVCQnF3cDVzSVV4TjNpQlJoY1R4SW9tcU5iS1V4MUd3a1Q4UV9VRmtoN2dlZ1dfWmlXMHpTUkEyaHlPZDR5WTBOUTZpYXJSUm9OdUVqY2Roc0pob19hcGdsdTNlSjBZcDF5dVZHZlVfSC1TdVJxcHNvWXdTUE40Rldfa1BIZmw5UjdZRHlRNHN6S1Nvb2R6RWZGaGh5dnpLNDFXdzlFTnk0czByT1o4OUFBIiwiaWQiOiJmY194US1qYXY3UE9hcmYycm9QME9BZF81In0%3D"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Morgantown High School: Home",
+   "link": "https://mohigans.mono.k12.wv.us/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWAHrOzAVr9l1A-QwiCeQhjnjRGydTW15V9RZmwlkE2yBzL9tfkDFfdK75MDjlJJsbUuvPZmZ0Dttn1FicUjdVYKHn4s9xtp9vj8hiMpaPeHyJM8J-hZhfF4&ved=2ahUKEwi-xrj76eSWAxWqr1YBHVBwBwAQFnoECDwQAQ&uoh=1",
+   "displayed_link": "https://mohigans.mono.k12.wv.us",
+   "favicon": "https://serpapi.com/images/i/UklGRq4AAABXRUJQVlA4IKIAAABQBACdASocABwAPrkurlcnIacnG_DgFwllAC7_wLVrby-0XzT2FXsVrBjoAP734x_Ac0A78IxSbMOGxyp5CMBuvpieU3X20wN9Kz0syf0HjT-pwVFCbwV2ZvgznktbE1GJrUFplkLFGZUDV2Qa9H_q_zb_44x__prVoT4L_9-cZdSy09vJ2M2R-SBSDzq3JqkA-UwlN5jdYXgIpLuOyOAAAAA.webp",
+   "snippet": "Morgantown High School. Skip Gallery. Group of people standing around with a ... Find Us. Morgantown High 109 Wilson Ave Morgantown, WV 26501. Number: 304 ...",
+   "snippet_highlighted_words": [
+    "Morgantown High School",
+    "WV"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "Staff",
+      "link": "https://mohigans.mono.k12.wv.us/staff",
+      "snippet": "Morgantown High School ; Paul Mihalko. Principal. pjmihalko ..."
+     },
+     {
+      "title": "Athletics",
+      "link": "https://mohigans.mono.k12.wv.us/page/athletics",
+      "snippet": "WVSSAC Standardized Calendar (Start Dates for Sports ..."
+     },
+     {
+      "title": "MHS Distinguished Alumni",
+      "link": "https://mohigans.mono.k12.wv.us/page/mhs-distinguished-alumni",
+      "snippet": "Morgantown High School \u00b7 Download our iOS App ..."
+     },
+     {
+      "title": "News",
+      "link": "https://mohigans.mono.k12.wv.us/o/mths/news",
+      "snippet": "Morgantown High School has been ranked the #2 public high ..."
+     },
+     {
+      "title": "Events",
+      "link": "https://mohigans.mono.k12.wv.us/o/mths/events",
+      "snippet": "Morgantown High School \u00b7 Events. Begin typing to filter events by ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Morgantown High School. Skip Gallery. Group of people standing around with a ... Find Us. Morgantown High 109 Wilson Ave Morgantown, WV 26501. Number: 304 ...",
+     "source_info_link": "https://mohigans.mono.k12.wv.us/",
+     "icon": "https://serpapi.com/images/i/UklGRq4AAABXRUJQVlA4IKIAAABQBACdASocABwAPrkurlcnIacnG_DgFwllAC7_wLVrby-0XzT2FXsVrBjoAP734x_Ac0A78IxSbMOGxyp5CMBuvpieU3X20wN9Kz0syf0HjT-pwVFCbwV2ZvgznktbE1GJrUFplkLFGZUDV2Qa9H_q_zb_44x__prVoT4L_9-cZdSy09vJ2M2R-SBSDzq3JqkA-UwlN5jdYXgIpLuOyOAAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESWAHrOzAVr9l1A-QwiCeQhjnjRGydTW15V9RZmwlkE2yBzL9tfkDFfdK75MDjlJJsbUuvPZmZ0Dttn1FicUjdVYKHn4s9xtp9vj8hiMpaPeHyJM8J-hZhfF4&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESWAHrOzAVr9l1A-QwiCeQhjnjRGydTW15V9RZmwlkE2yBzL9tfkDFfdK75MDjlJJsbUuvPZmZ0Dttn1FicUjdVYKHn4s9xtp9vj8hiMpaPeHyJM8J-hZhfF4",
+   "source": "Morgantown High School"
+  },
+  {
+   "position": 2,
+   "title": "Morgantown High School",
+   "link": "https://en.wikipedia.org/wiki/Morgantown_High_School",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHrOzAV48Or-2On65STrVG4uYjI8w55lXDYDnPl7jxXpp2Dbt8yQChe-r1KC-RAVjulkFRB-JRevoV3sr_LF59gKoHiGtSAAwUqJuTIBr-kaivIv17zde-qeCZiQo0BTuPr22kQB5b-6d09cg&ved=2ahUKEwi-xrj76eSWAxWqr1YBHVBwBwAQFnoECEYQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Morgantown_High_Sc...",
+   "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+   "snippet": "Morgantown High School is a public high school in Morgantown, West Virginia, United States. It is one of three secondary schools in the Monongalia County ...",
+   "snippet_highlighted_words": [
+    "Morgantown High School",
+    "West Virginia"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Morgantown High School is a public high school in Morgantown, West Virginia, United States. It is one of three secondary schools in the Monongalia County ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Morgantown_High_School",
+     "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESbAHrOzAV48Or-2On65STrVG4uYjI8w55lXDYDnPl7jxXpp2Dbt8yQChe-r1KC-RAVjulkFRB-JRevoV3sr_LF59gKoHiGtSAAwUqJuTIBr-kaivIv17zde-qeCZiQo0BTuPr22kQB5b-6d09cg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESbAHrOzAV48Or-2On65STrVG4uYjI8w55lXDYDnPl7jxXpp2Dbt8yQChe-r1KC-RAVjulkFRB-JRevoV3sr_LF59gKoHiGtSAAwUqJuTIBr-kaivIv17zde-qeCZiQo0BTuPr22kQB5b-6d09cg",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Morgantown_High_School#:~:text=Morgantown%20High%20School%20is%20a,the%20Monongalia%20County%20School%20District."
+  },
+  {
+   "position": 3,
+   "title": "Morgantown High School - West Virginia",
+   "link": "https://www.usnews.com/education/best-high-schools/west-virginia/districts/monongalia-county-schools/morgantown-high-school-21405",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESugEB6zswFcQdwx_byCsJ-psInk0iOT3d_vDACxQwjHYgqMGxP-zSTK7KUTRK0YO1hzcPz0_SUFTyN1nxjL-QY98piqqTuC3t7DAFiHeWdl7gNaxGTd6dD8oDsAvDVD8EooW1DeuYqCBwqK8NpRS1jCLrOIcIQOjDjXusdUoeu4nmdp3LuK4VploAPOUF7mgWW8cMME9LzTA-lB2Kd-tCn3jsalGW7151OCIT6UT2L9jDUqLDyMAV6R5Cags&ved=2ahUKEwi-xrj76eSWAxWqr1YBHVBwBwAQFnoECGAQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a monongalia-county-schools",
+   "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp",
+   "snippet": "Morgantown High School is ranked third within West Virginia. Students have the opportunity to take Advanced Placement\u00ae coursework and exams.",
+   "snippet_highlighted_words": [
+    "Morgantown High School",
+    "West Virginia"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Morgantown High School is ranked third within West Virginia. Students have the opportunity to take Advanced Placement\u00ae coursework and exams.",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/west-virginia/districts/monongalia-county-schools/morgantown-high-school-21405",
+     "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESugEB6zswFcQdwx_byCsJ-psInk0iOT3d_vDACxQwjHYgqMGxP-zSTK7KUTRK0YO1hzcPz0_SUFTyN1nxjL-QY98piqqTuC3t7DAFiHeWdl7gNaxGTd6dD8oDsAvDVD8EooW1DeuYqCBwqK8NpRS1jCLrOIcIQOjDjXusdUoeu4nmdp3LuK4VploAPOUF7mgWW8cMME9LzTA-lB2Kd-tCn3jsalGW7151OCIT6UT2L9jDUqLDyMAV6R5Cags&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESugEB6zswFcQdwx_byCsJ-psInk0iOT3d_vDACxQwjHYgqMGxP-zSTK7KUTRK0YO1hzcPz0_SUFTyN1nxjL-QY98piqqTuC3t7DAFiHeWdl7gNaxGTd6dD8oDsAvDVD8EooW1DeuYqCBwqK8NpRS1jCLrOIcIQOjDjXusdUoeu4nmdp3LuK4VploAPOUF7mgWW8cMME9LzTA-lB2Kd-tCn3jsalGW7151OCIT6UT2L9jDUqLDyMAV6R5Cags",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/west-virginia/districts/monongalia-county-schools/morgantown-high-school-21405#:~:text=Morgantown%20High%20School%20is%20ranked,Advanced%20Placement%C2%AE%20coursework%20and%20exams."
+  },
+  {
+   "position": 4,
+   "title": "Morgantown High School",
+   "link": "https://www.facebook.com/p/Morgantown-High-School-61588059784330/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAVBCfWsp84eVwmOeNBkLskw12ZRnU_2ST-nJKKz01dyTAeiqYMjOXE2r0FwFyaOTc7F4C0yVvupX4y9V57xvD5HMXMq9Tfj2G2KjhkU5-AGAkbEAz-7vfsNfNEBnNEsrikHRuGdRddyZgdtmN_Nj1w-AzZWwo&ved=2ahUKEwi-xrj76eSWAxWqr1YBHVBwBwAQFnoECFsQAQ&uoh=1",
+   "displayed_link": "1K+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "snippet": "This is the official Morgantown High School facebook page. Morgantown High School , is located in Monongalia County, West Virginia. School.",
+   "snippet_highlighted_words": [
+    "Morgantown High School",
+    "Morgantown High School",
+    "West Virginia"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "This is the official Morgantown High School facebook page. Morgantown High School , is located in Monongalia County, West Virginia. School.",
+     "source_info_link": "https://www.facebook.com/p/Morgantown-High-School-61588059784330/",
+     "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESeQHrOzAVBCfWsp84eVwmOeNBkLskw12ZRnU_2ST-nJKKz01dyTAeiqYMjOXE2r0FwFyaOTc7F4C0yVvupX4y9V57xvD5HMXMq9Tfj2G2KjhkU5-AGAkbEAz-7vfsNfNEBnNEsrikHRuGdRddyZgdtmN_Nj1w-AzZWwo&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESeQHrOzAVBCfWsp84eVwmOeNBkLskw12ZRnU_2ST-nJKKz01dyTAeiqYMjOXE2r0FwFyaOTc7F4C0yVvupX4y9V57xvD5HMXMq9Tfj2G2KjhkU5-AGAkbEAz-7vfsNfNEBnNEsrikHRuGdRddyZgdtmN_Nj1w-AzZWwo",
+   "source": "Facebook \u00b7 Morgantown High School",
+   "read_more_link": "https://www.facebook.com/p/Morgantown-High-School-61588059784330/#:~:text=This%20is%20the%20official%20Morgantown,%F3%B1%9E%B4%20School"
+  },
+  {
+   "position": 5,
+   "title": "Morgantown High School in Morgantown, WV",
+   "link": "https://www.niche.com/k12/morgantown-high-school-morgantown-wv/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdwHrOzAVAmtdyonkvQfPfa5CKpXpTk4I7acLtprskmDcrNP2DnOwsfJ0tu1yy0mizTNHXIzGe1Ks-p1cSSooJgk9fUSx3-Byq51D-HHimgWD7bZDA7vvdBFmbZwS38JGFqWt_dGN16luPMgjiIyYokSDDT-xBKo_&ved=2ahUKEwi-xrj76eSWAxWqr1YBHVBwBwAQFnoECF4QAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a West Virginia",
+   "favicon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAACwBgCdASocABwAPtEutFooIagoGAEAGglAGZo7gYv7m0TPt8r_WYdmpcah9WA48zicEtVrCFOGH4nMtJiaAAD-8Mpqn5wztwFeSDXF5YavmSdrcpv67JtS1tKl7uW6N9aR19WH-vT5VtxqndfSU_QIzB4R0m5fNi1eX3h8GYa_8H28-7o-nc3D2GEvZqGTES8muP_UCP_UIYsGh8QXK7V2sBnUP79qQidv_o8__S3xjZZmmXEG69VP00Dn3HuddwtLR_4xf_0PU8NPn060X-47u3VDw39ZbBgpwK3wP0F5tHUWMrTdTbcT_h7ghKmtPgKiKNIvGUNLHBT4VbzlXgvFo7vCP-ot_w6I_hOg9EcgQfabjpYvU6X4xcxi9BIxh2PJomEF2PA_XoL7FtzFNUuyE0IG83Bax0ZYU-dxj0EhgAAA.webp",
+   "snippet": "Morgantown High School is a highly rated, public school located in MORGANTOWN, WV. It has 1,754 students in grades 9-12 with a student-teacher ratio of 18 ...",
+   "snippet_highlighted_words": [
+    "Morgantown High School",
+    "WV"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Morgantown High School is a highly rated, public school located in MORGANTOWN, WV. It has 1,754 students in grades 9-12 with a student-teacher ratio of 18 ...",
+     "source_info_link": "https://www.niche.com/k12/morgantown-high-school-morgantown-wv/",
+     "icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAACwBgCdASocABwAPtEutFooIagoGAEAGglAGZo7gYv7m0TPt8r_WYdmpcah9WA48zicEtVrCFOGH4nMtJiaAAD-8Mpqn5wztwFeSDXF5YavmSdrcpv67JtS1tKl7uW6N9aR19WH-vT5VtxqndfSU_QIzB4R0m5fNi1eX3h8GYa_8H28-7o-nc3D2GEvZqGTES8muP_UCP_UIYsGh8QXK7V2sBnUP79qQidv_o8__S3xjZZmmXEG69VP00Dn3HuddwtLR_4xf_0PU8NPn060X-47u3VDw39ZbBgpwK3wP0F5tHUWMrTdTbcT_h7ghKmtPgKiKNIvGUNLHBT4VbzlXgvFo7vCP-ot_w6I_hOg9EcgQfabjpYvU6X4xcxi9BIxh2PJomEF2PA_XoL7FtzFNUuyE0IG83Bax0ZYU-dxj0EhgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdwHrOzAVAmtdyonkvQfPfa5CKpXpTk4I7acLtprskmDcrNP2DnOwsfJ0tu1yy0mizTNHXIzGe1Ks-p1cSSooJgk9fUSx3-Byq51D-HHimgWD7bZDA7vvdBFmbZwS38JGFqWt_dGN16luPMgjiIyYokSDDT-xBKo_&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdwHrOzAVAmtdyonkvQfPfa5CKpXpTk4I7acLtprskmDcrNP2DnOwsfJ0tu1yy0mizTNHXIzGe1Ks-p1cSSooJgk9fUSx3-Byq51D-HHimgWD7bZDA7vvdBFmbZwS38JGFqWt_dGN16luPMgjiIyYokSDDT-xBKo_",
+   "source": "Niche",
+   "read_more_link": "https://www.niche.com/k12/morgantown-high-school-morgantown-wv/#:~:text=Morgantown%20High%20School%20is%20a,ratio%20of%2018%20to%201."
+  },
+  {
+   "position": 6,
+   "title": "Morgantown High School - West Virginia",
+   "link": "https://www.greatschools.org/west-virginia/morgantown/568-Morgantown-High-School/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiQEB6zswFVDY5rxz1cpUXyT-jjEDvMmSEEORQKmmD7m0LtloSACUmmn8x9tGiuNYUgTqeZ7IIqMpftlRlm8JQnfS0aOuGwUN2cFx7gZ0xSDDNb6mvMppVK9fAaYv74a1JDx96yI1l7TscBX6OdvPaLaglctuganp_jowvvB2MLL0ixnHOWFCydljNw&ved=2ahUKEwi-xrj76eSWAxWqr1YBHVBwBwAQFnoECFkQAQ&uoh=1",
+   "displayed_link": "https://www.greatschools.org \u203a west-virginia \u203a 568-Mor...",
+   "favicon": "https://serpapi.com/images/i/UklGRnABAABXRUJQVlA4IGQBAABQCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_jtuHbtjAbYDcAbyB6AHSlf6oixRzh8GEWsYxJ825M9RhM3gV5vdPb_m98cAA_vi6aS7Pzd7susCq7-6fF19W_uHxnTUiht4Bnli4K1NZlcvWNx_U9wUWYJNt7XaI9c-ByTdyo4mDmlZ-5yiSyr_u7cBW9GjDY0XOwNkf3M-JPMdorcnf5W3JquL_1XhdMWG9MeU4wxsyWrY1EBIhBEe9pptiUN9e6cDdPncpdjgPIvoHDAfly9B5KtVb-rS2mA85vxw-fVfJkvrbkjL-z0L62bhyC1muRYqxX5mA92DT5WC6rg1GKs3vDTWtEWyQkNCx7JpqOrcRh1tXyd6AvX19XcKdTTPG1ozotzAlVyERstS5yUat0Hnv2de5D6l_B6PNH32glgAMU9TscSW7BeznX-ttUqaHqMZfqKDlq_LuvvKpt3UAAA.webp",
+   "snippet": "Morgantown High School is a public school in Morgantown, WV, offering AP courses and a Gifted & Talented program. It is one of 4 high schools in Monongalia ...",
+   "snippet_highlighted_words": [
+    "Morgantown High School",
+    "WV"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Morgantown High School is a public school in Morgantown, WV, offering AP courses and a Gifted & Talented program. It is one of 4 high schools in Monongalia ...",
+     "source_info_link": "https://www.greatschools.org/west-virginia/morgantown/568-Morgantown-High-School/",
+     "icon": "https://serpapi.com/images/i/UklGRnABAABXRUJQVlA4IGQBAABQCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_jtuHbtjAbYDcAbyB6AHSlf6oixRzh8GEWsYxJ825M9RhM3gV5vdPb_m98cAA_vi6aS7Pzd7susCq7-6fF19W_uHxnTUiht4Bnli4K1NZlcvWNx_U9wUWYJNt7XaI9c-ByTdyo4mDmlZ-5yiSyr_u7cBW9GjDY0XOwNkf3M-JPMdorcnf5W3JquL_1XhdMWG9MeU4wxsyWrY1EBIhBEe9pptiUN9e6cDdPncpdjgPIvoHDAfly9B5KtVb-rS2mA85vxw-fVfJkvrbkjL-z0L62bhyC1muRYqxX5mA92DT5WC6rg1GKs3vDTWtEWyQkNCx7JpqOrcRh1tXyd6AvX19XcKdTTPG1ozotzAlVyERstS5yUat0Hnv2de5D6l_B6PNH32glgAMU9TscSW7BeznX-ttUqaHqMZfqKDlq_LuvvKpt3UAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESiQEB6zswFVDY5rxz1cpUXyT-jjEDvMmSEEORQKmmD7m0LtloSACUmmn8x9tGiuNYUgTqeZ7IIqMpftlRlm8JQnfS0aOuGwUN2cFx7gZ0xSDDNb6mvMppVK9fAaYv74a1JDx96yI1l7TscBX6OdvPaLaglctuganp_jowvvB2MLL0ixnHOWFCydljNw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESiQEB6zswFVDY5rxz1cpUXyT-jjEDvMmSEEORQKmmD7m0LtloSACUmmn8x9tGiuNYUgTqeZ7IIqMpftlRlm8JQnfS0aOuGwUN2cFx7gZ0xSDDNb6mvMppVK9fAaYv74a1JDx96yI1l7TscBX6OdvPaLaglctuganp_jowvvB2MLL0ixnHOWFCydljNw",
+   "source": "GreatSchools"
+  },
+  {
+   "position": 7,
+   "title": "morgantownhigh_school_official",
+   "link": "https://www.instagram.com/morgantownhigh_school_official/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScQHrOzAVrtxHh4w5BxkNwGuVVzLP2pPunrI829rdAsI9_gzvFRcwtZNzWTPaZpf8sp7L8DO9TsLNuI2_Dj8nj1CwXDi0n1orM_dYdDp2MGGcKBzRsk-orZQA-MkutnZfZRat109kI5iM3FKWCfwwuyko&ved=2ahUKEwi-xrj76eSWAxWqr1YBHVBwBwAQFnoECF8QAQ&uoh=1",
+   "displayed_link": "1.2K+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+   "snippet": "This is the 4th year that Morgantown High School has been recognized as a CFWV Champion. What does that take? There are three milestones that the school had to ...",
+   "snippet_highlighted_words": [
+    "Morgantown High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "This is the 4th year that Morgantown High School has been recognized as a CFWV Champion. What does that take? There are three milestones that the school had to ...",
+     "source_info_link": "https://www.instagram.com/morgantownhigh_school_official/",
+     "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEScQHrOzAVrtxHh4w5BxkNwGuVVzLP2pPunrI829rdAsI9_gzvFRcwtZNzWTPaZpf8sp7L8DO9TsLNuI2_Dj8nj1CwXDi0n1orM_dYdDp2MGGcKBzRsk-orZQA-MkutnZfZRat109kI5iM3FKWCfwwuyko&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEScQHrOzAVrtxHh4w5BxkNwGuVVzLP2pPunrI829rdAsI9_gzvFRcwtZNzWTPaZpf8sp7L8DO9TsLNuI2_Dj8nj1CwXDi0n1orM_dYdDp2MGGcKBzRsk-orZQA-MkutnZfZRat109kI5iM3FKWCfwwuyko",
+   "source": "Instagram \u00b7 morgantownhigh_school_official"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Morgantown high school west virginia football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Morgantown+high+school+west+virginia+football&sa=X&ved=2ahUKEwi-xrj76eSWAxWqr1YBHVBwBwAQ1QJ6BAhhEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Morgantown+high+school+west+virginia+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Morgantown high school west virginia yearbook",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Morgantown+high+school+west+virginia+yearbook&sa=X&ved=2ahUKEwi-xrj76eSWAxWqr1YBHVBwBwAQ1QJ6BAh7EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Morgantown+high+school+west+virginia+yearbook"
+  },
+  {
+   "block_position": 1,
+   "query": "Morgantown High School graduation 2026",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Morgantown+High+School+graduation+2026&sa=X&ved=2ahUKEwi-xrj76eSWAxWqr1YBHVBwBwAQ1QJ6BAh5EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Morgantown+High+School+graduation+2026"
+  },
+  {
+   "block_position": 1,
+   "query": "Morgantown high school west virginia principal",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Morgantown+high+school+west+virginia+principal&sa=X&ved=2ahUKEwi-xrj76eSWAxWqr1YBHVBwBwAQ1QJ6BAh4EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Morgantown+high+school+west+virginia+principal"
+  },
+  {
+   "block_position": 1,
+   "query": "Morgantown high school west virginia alumni",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Morgantown+high+school+west+virginia+alumni&sa=X&ved=2ahUKEwi-xrj76eSWAxWqr1YBHVBwBwAQ1QJ6BAhzEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Morgantown+high+school+west+virginia+alumni"
+  },
+  {
+   "block_position": 1,
+   "query": "Morgantown high school west virginia basketball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Morgantown+high+school+west+virginia+basketball&sa=X&ved=2ahUKEwi-xrj76eSWAxWqr1YBHVBwBwAQ1QJ6BAhuEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Morgantown+high+school+west+virginia+basketball"
+  },
+  {
+   "block_position": 1,
+   "query": "Morgantown High School Website",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Morgantown+High+School+Website&sa=X&ved=2ahUKEwi-xrj76eSWAxWqr1YBHVBwBwAQ1QJ6BAhpEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Morgantown+High+School+Website"
+  },
+  {
+   "block_position": 1,
+   "query": "Morgantown High School Band",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Morgantown+High+School+Band&sa=X&ved=2ahUKEwi-xrj76eSWAxWqr1YBHVBwBwAQ1QJ6BAhkEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Morgantown+High+School+Band"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Morgantown+High+School%22+West+Virginia&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=xQ-jav7POarf2roP0OAd&start=10&sa=N&sstk=AS6-VmJYp50zOv1oVDSMBt7Oa2jkMiOCSle8NSkJGrKRCTlrXn30mAt_ro70w4cGjSrn380c6Z1S8GL2LS_pRHF-5fO5v1PMRZghog&ved=2ahUKEwi-xrj76eSWAxWqr1YBHVBwBwAQ8NMDegQITRAQ",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Morgantown+High+School%22+West+Virginia&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=xQ-jav7POarf2roP0OAd&start=10&sa=N&sstk=AS6-VmJYp50zOv1oVDSMBt7Oa2jkMiOCSle8NSkJGrKRCTlrXn30mAt_ro70w4cGjSrn380c6Z1S8GL2LS_pRHF-5fO5v1PMRZghog&ved=2ahUKEwi-xrj76eSWAxWqr1YBHVBwBwAQ8tMDegQITRAE",
+   "3": "https://www.google.com/search?q=%22Morgantown+High+School%22+West+Virginia&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=xQ-jav7POarf2roP0OAd&start=20&sa=N&sstk=AS6-VmJYp50zOv1oVDSMBt7Oa2jkMiOCSle8NSkJGrKRCTlrXn30mAt_ro70w4cGjSrn380c6Z1S8GL2LS_pRHF-5fO5v1PMRZghog&ved=2ahUKEwi-xrj76eSWAxWqr1YBHVBwBwAQ8tMDegQITRAG",
+   "4": "https://www.google.com/search?q=%22Morgantown+High+School%22+West+Virginia&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=xQ-jav7POarf2roP0OAd&start=30&sa=N&sstk=AS6-VmJYp50zOv1oVDSMBt7Oa2jkMiOCSle8NSkJGrKRCTlrXn30mAt_ro70w4cGjSrn380c6Z1S8GL2LS_pRHF-5fO5v1PMRZghog&ved=2ahUKEwi-xrj76eSWAxWqr1YBHVBwBwAQ8tMDegQITRAI",
+   "5": "https://www.google.com/search?q=%22Morgantown+High+School%22+West+Virginia&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=xQ-jav7POarf2roP0OAd&start=40&sa=N&sstk=AS6-VmJYp50zOv1oVDSMBt7Oa2jkMiOCSle8NSkJGrKRCTlrXn30mAt_ro70w4cGjSrn380c6Z1S8GL2LS_pRHF-5fO5v1PMRZghog&ved=2ahUKEwi-xrj76eSWAxWqr1YBHVBwBwAQ8tMDegQITRAK",
+   "6": "https://www.google.com/search?q=%22Morgantown+High+School%22+West+Virginia&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=xQ-jav7POarf2roP0OAd&start=50&sa=N&sstk=AS6-VmJYp50zOv1oVDSMBt7Oa2jkMiOCSle8NSkJGrKRCTlrXn30mAt_ro70w4cGjSrn380c6Z1S8GL2LS_pRHF-5fO5v1PMRZghog&ved=2ahUKEwi-xrj76eSWAxWqr1YBHVBwBwAQ8tMDegQITRAM",
+   "7": "https://www.google.com/search?q=%22Morgantown+High+School%22+West+Virginia&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=xQ-jav7POarf2roP0OAd&start=60&sa=N&sstk=AS6-VmJYp50zOv1oVDSMBt7Oa2jkMiOCSle8NSkJGrKRCTlrXn30mAt_ro70w4cGjSrn380c6Z1S8GL2LS_pRHF-5fO5v1PMRZghog&ved=2ahUKEwi-xrj76eSWAxWqr1YBHVBwBwAQ8tMDegQITRAO"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Morgantown+High+School%22+West+Virginia&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Morgantown+High+School%22+West+Virginia&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Morgantown+High+School%22+West+Virginia&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Morgantown+High+School%22+West+Virginia&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Morgantown+High+School%22+West+Virginia&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Morgantown+High+School%22+West+Virginia&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Morgantown+High+School%22+West+Virginia&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Morgantown+High+School%22+West+Virginia&start=60"
+  }
+ }
+}

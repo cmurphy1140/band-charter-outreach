@@ -1,0 +1,197 @@
+{
+ "news_results": [
+  {
+   "position": 1,
+   "title": "Many Richmond streets to see closures for Dominion Energy Christmas Parade",
+   "source": {
+    "name": "wric.com",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wric.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ryan Nadeau"
+    ]
+   },
+   "link": "https://www.wric.com/news/local-news/richmond/road-closures-no-parking-dominion-christmas-parade-2025/",
+   "thumbnail": "https://www.wric.com/wp-content/uploads/sites/74/2024/12/Screenshot-2024-12-07-132923.png?strip=1",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNZbE5ZZGtkVk1rNVBhM0V4VFJDYUF4anNCU2dLTWdZcE1JaFJIUWs",
+   "date": "12/02/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-02T08:00:00Z"
+  },
+  {
+   "position": 2,
+   "title": "Sunday Story: Merrily We March Along",
+   "source": {
+    "name": "richmondmagazine.com",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://richmondmagazine.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harry Kollatz"
+    ]
+   },
+   "link": "https://richmondmagazine.com/news/sunday-story/merrily-we-march-along/",
+   "thumbnail": "https://richmondmagazine.com/downloads/43654/download/1970-65-70-richmond-christmas-parade_courtesy-the-valentine.jpg?cb=462be33c6becb6a7fa6ea8e3c93d1b1a",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJZV3RTWjNGSVYyUmxPVlpGVFJERUF4aW1CU2dLTWdZQk1ZYlRuQWc",
+   "date": "12/01/2024, 08:00 AM, +0000 UTC",
+   "iso_date": "2024-12-01T08:00:00Z"
+  },
+  {
+   "position": 3,
+   "title": "Holiday parades we're looking forward to this weekend in Petersburg, Tri-Cities",
+   "source": {
+    "name": "The Progress Index",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.progress-index.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kristi K. Higgins"
+    ]
+   },
+   "link": "https://www.progress-index.com/story/entertainment/holiday/christmas/2025/12/04/petersburg-christmas-parade-holiday-events-this-weekend/87358249007/",
+   "thumbnail": "https://www.progress-index.com/gcdn/authoring/authoring-images/2025/11/12/NPRI/87237836007-2024-prince-george-christmas-parade.jpg?crop=1728,972,x0,y0&width=660&height=371&format=pjpg&auto=webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVhSRkZxYmxWS1ltbFVUM2gzVFJEekFoaVVCU2dLTWdrVklaYTJHS3FTelFF",
+   "date": "12/04/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-04T08:00:00Z"
+  },
+  {
+   "position": 4,
+   "title": "Expanded Christmas Parade route spreads joy to Children's Hospital patients",
+   "source": {
+    "name": "richmond.com",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://richmond.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Mike Kropf",
+     "Eva Russo"
+    ]
+   },
+   "link": "https://richmond.com/life-entertainment/local/events/article_e9c8e136-7add-4180-9bb5-8ffdb405b20c.html",
+   "thumbnail": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/e/9c/e9c8e136-7add-4180-9bb5-8ffdb405b20c/69354fb3c6b58.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHdXRzFZTkhZM05HWm9Za2hrVFJDUkF4ajhCU2dLTWdB",
+   "date": "12/07/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-07T08:00:00Z"
+  },
+  {
+   "position": 5,
+   "title": "A look at Central Virginia events this Thanksgiving holiday weekend",
+   "source": {
+    "name": "WTVR.com",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wtvr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Antoinette Essa, M.Div."
+    ]
+   },
+   "link": "https://www.wtvr.com/news/local-news/holiday-events-thanksgiving-weekend-central-virginia-nov-27-2024",
+   "thumbnail": "https://ewscripps.brightspotcdn.com/dims4/default/51b3426/2147483647/strip/false/crop/720x720+280+0/resize/1200x1200!/quality/90/?url=https%3A%2F%2Fcf.cdn.uplynk.com%2Fause%2Fslices%2F565%2Fab537de11df9456cb23cbc1d7e732de9%2F565de9900b5f4d869f4bf3892c9b4809%2Fposter_9508d29702ad4035a5e741aa51b730dd.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDNVekJPZFZObGRWTTFMVTV3VFJEaEFSamhBU2dCTWdrQlVvNFRIU2pnNndF",
+   "date": "11/27/2024, 08:00 AM, +0000 UTC",
+   "iso_date": "2024-11-27T08:00:00Z"
+  },
+  {
+   "position": 6,
+   "title": "When to see holiday parades in Petersburg, Colonial Heights, Richmond, Prince George, more",
+   "source": {
+    "name": "The Progress Index",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.progress-index.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kristi K. Higgins"
+    ]
+   },
+   "link": "https://www.progress-index.com/story/entertainment/holiday/christmas/2024/11/28/christmas-parades-2024-petersburg-richmond-hopewell-chester-amelia-colonial-heights-prince-george/76402032007/",
+   "thumbnail": "https://www.progress-index.com/gcdn/authoring/authoring-images/2024/11/18/NPRI/76404755007-dancers-participate-in-the-2023-colonial-heights-christmas-parade.jpg?width=660&height=406&fit=crop&format=pjpg&auto=webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNlRk5HWnpabWJtOU5PWE4yVFJDV0F4aVVCU2dLTWdZQlFKU0ZKQWc",
+   "date": "11/28/2024, 08:00 AM, +0000 UTC",
+   "iso_date": "2024-11-28T08:00:00Z"
+  },
+  {
+   "position": 7,
+   "title": "Holiday events guide: Celebrate the holiday season with festivities in the Richmond area",
+   "source": {
+    "name": "wric.com",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wric.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Jessie Nguyen"
+    ]
+   },
+   "link": "https://www.wric.com/community/holiday-events-richmond-2025/",
+   "thumbnail": "https://www.wric.com/wp-content/uploads/sites/74/2025/11/GettyImages-1359684304.jpg?strip=1",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBVMUp1VXpRdE1EQnVRVU54VFJER0F4aWtCU2dLTWdhQkZvVENwZ0k",
+   "date": "11/16/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-11-16T08:00:00Z"
+  },
+  {
+   "position": 8,
+   "title": "Student in the hospital after stabbing at Henrico High School",
+   "source": {
+    "name": "richmond.com",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://richmond.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Gwyndolyn Miles",
+     "Luca Powell"
+    ]
+   },
+   "link": "https://richmond.com/news/local/crime-courts/article_e73db0c0-b270-11ef-8131-bb975ec11089.html",
+   "thumbnail": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/4/05/405564ba-e084-5a42-bc8e-392a7775b5ad/6a874d3a32a90.image.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdSMnd4ZEhSbGRYQmFaMU0yVFJDZkF4ampCU2dLTWdZSlE1YmxHZ28",
+   "date": "12/04/2024, 08:00 AM, +0000 UTC",
+   "iso_date": "2024-12-04T08:00:00Z"
+  },
+  {
+   "position": 9,
+   "title": "When to see holiday parades in Hopewell, Petersburg, Colonial Heights, Richmond, more",
+   "source": {
+    "name": "The Progress Index",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.progress-index.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kristi K. Higgins"
+    ]
+   },
+   "link": "https://www.progress-index.com/story/entertainment/holiday/christmas/2025/11/20/christmas-parades-2025-tri-cities-virginia-petersburg-colonial-heights-hopewell/87193500007/",
+   "thumbnail": "https://www.progress-index.com/gcdn/authoring/authoring-images/2025/11/12/NPRI/87233644007-the-grinch-waves-to-the-crowd-during-a-colonial-heights-christmas-parade.jpg?crop=2195,1234,x0,y0&width=660&height=371&format=pjpg&auto=webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWZXa1JaUm0xamJrSllXa2N4VFJDb0FSaXNBaWdCTWdB",
+   "date": "11/20/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-11-20T08:00:00Z"
+  }
+ ],
+ "menu_links": [
+  {
+   "title": "U.S.",
+   "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+  },
+  {
+   "title": "World",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Your local news",
+   "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+  },
+  {
+   "title": "Business",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Technology",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Entertainment",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Sports",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Science",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Health",
+   "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+  }
+ ]
+}

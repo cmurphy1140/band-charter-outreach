@@ -1,0 +1,482 @@
+{
+ "search_information": {
+  "query_displayed": "\"Pennsbury High School\" Pennsylvania",
+  "total_results": 247000,
+  "time_taken_displayed": 0.33,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Pennsbury East High School",
+  "type": "Public school in Fairless Hills, Pennsylvania",
+  "entity_type": "local_nav",
+  "kgmid": "/m/03pfn8",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/03pfn8&hl=en-US&q=Pennsbury+East+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F03pfn8&q=Pennsbury+East+High+School",
+  "place_id": "ChIJZQ6-OxZRwYkRbbMX6q2CiFg",
+  "website": "http://www.pennsburysd.org/pennsburyhighschool_home.aspx",
+  "description": "Pennsbury High School is a four-year public high school located in Fairless Hills, Pennsylvania, United States. It is part of Pennsbury School District.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa30893ff3b7a2c7775c325/images/xf_WzzaPqCH4bALc7jHUI9H6yIKWhJKvcT5BW9pe9vU.webp",
+   "link": "https://www.google.com/maps/place/Pennsbury+East+High+School/data=!4m2!3m1!1s0x0:0x588882adea17b36d?sa=X&ved=2ahUKEwihrOSM4-SWAxXHGFkFHSrSLJUQ_BJ6BAgNEAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Pennsbury_High_School"
+  },
+  "address": "705 Hood Blvd, Fairless Hills, PA 19030",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvHWEPKxtYCxMbmEL4YVnPLyYIFgA:1789069459277&q=pennsbury+high+school+address&ludocid=6379492555638682477&sa=X&ved=2ahUKEwihrOSM4-SWAxXHGFkFHSrSLJUQ6BN6BAghEAI"
+   }
+  ],
+  "mascot": "Falcon",
+  "mascot_links": [
+   {
+    "text": "Falcon",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvHWEPKxtYCxMbmEL4YVnPLyYIFgA:1789069459277&q=&si=APenkKllX05q7xl66dAosm6nb1iuMgV7Bv8meTZS-zIzIS3OM5cBRLSSD_c5ddFPuP84xwtx3q1IE2QLkri4YAa4qQEuJUnaz1IGCC1QN0MSyVtW3wNBf-iRweXwICopcpwhs7sxmLluwQhCb7rgyNdgk0Y88m4m6lBMFOdjAzetzSIdyFe4dVzWlo9W5CbcXg1cHAVh8egG&sa=X&ved=2ahUKEwihrOSM4-SWAxXHGFkFHSrSLJUQmxN6BAgnEAI"
+   }
+  ],
+  "founded": "1951",
+  "colors": "Black, Orange",
+  "colors_links": [
+   {
+    "text": "Black",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvHWEPKxtYCxMbmEL4YVnPLyYIFgA:1789069459277&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpgpRzZQUb1HvfO7YMT0HLL8ab3lUxeOQbKlFMsJDb9RQQbvdNgU6_PN4FeLBbOqaCVfFblxVvNFSu8oSRXSrJ-9gATCDrj5sqLLe5_bCd27-3o6pPZyhfWAw5ILZmN5Fk3bKOtcYiz6cprsJTCqo7mCRDqDaEbYQxU6jeLB7Hk80unaNh5LXMkzSiRoaDj0Z_Th3o4A%3D&sa=X&ved=2ahUKEwihrOSM4-SWAxXHGFkFHSrSLJUQmxN6BAgmEAI"
+   },
+   {
+    "text": "Orange",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvHWEPKxtYCxMbmEL4YVnPLyYIFgA:1789069459277&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpirdpVoGPkGTZCEnaU27WCOVO5A7oGCyxZW0tmg3UGFmX3tzk6BJCpWzdbvbitJ1U-3isKgYq7FBWQGr2cRtDSOLKhZSKq0EhlFauPFDCta8tiX6rIc_jTn9GfEs9sUkI0q_WRkQcb1RQ058l9b0NhR5Same6_qozK3Q3GkZikUhHRqv-IJCPFwrW8V_1x23pseTZfk%3D&sa=X&ved=2ahUKEwihrOSM4-SWAxXHGFkFHSrSLJUQmxN6BAgmEAM"
+   }
+  ],
+  "phone": "(215) 949-6700",
+  "raw_hours": "Open \u00b7 Closes 5 PM",
+  "hours": {
+   "thursday": {
+    "opens": "7\u202fAM",
+    "closes": "5\u202fPM"
+   },
+   "friday": {
+    "opens": "7\u202fAM",
+    "closes": "5\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "7\u202fAM",
+    "closes": "5\u202fPM"
+   },
+   "tuesday": {
+    "opens": "7\u202fAM",
+    "closes": "5\u202fPM"
+   },
+   "wednesday": {
+    "opens": "7\u202fAM",
+    "closes": "5\u202fPM"
+   }
+  },
+  "unclaimed_listing": true,
+  "people_also_search_for": [
+   {
+    "name": "Pennsbury School District",
+    "image": "https://serpapi.com/searches/6aa30893ff3b7a2c7775c325/images/xf_WzzaPqCH4bALc7jHUI2k8wrXHwLHcyF1l9ccCK5FM-IKwZ3t6mylLSKA7E_bt.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvHWEPKxtYCxMbmEL4YVnPLyYIFgA:1789069459277&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yeAMqB1AueGkqXQyCc9YBWzI2vrsYND8BoAkY-pX_DZwAV7UmLCHL9GnaxPzvM1HPW-KoWFZN2_Z3_IguosINspx6BxpRCHzZYwp51q4lODS1h7Kggo69KI0GC2ljG40BYJSh2KcDBCgtV__p-uUh5u3-CKDdsrKjjJGb79aBJDrSm_My40G2KTfEz0AyuQeD-vDbHvUrNB8neVCYSfLUPKrfZ8oRigmNdMK9pe0CAwqwO73Ab5wlACEYgZjgaWcq0Zjt8gddWTRcD-50kvEdnOV7BsL&q=Pennsbury+School+District&sa=X&ved=2ahUKEwihrOSM4-SWAxXHGFkFHSrSLJUQs9oBKAB6BAgbEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pennsbury+School+District&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yeAMqB1AueGkqXQyCc9YBWzI2vrsYND8BoAkY-pX_DZwAV7UmLCHL9GnaxPzvM1HPW-KoWFZN2_Z3_IguosINspx6BxpRCHzZYwp51q4lODS1h7Kggo69KI0GC2ljG40BYJSh2KcDBCgtV__p-uUh5u3-CKDdsrKjjJGb79aBJDrSm_My40G2KTfEz0AyuQeD-vDbHvUrNB8neVCYSfLUPKrfZ8oRigmNdMK9pe0CAwqwO73Ab5wlACEYgZjgaWcq0Zjt8gddWTRcD-50kvEdnOV7BsL"
+   },
+   {
+    "name": "Neshaminy High School",
+    "image": "https://serpapi.com/searches/6aa30893ff3b7a2c7775c325/images/xf_WzzaPqCH4bALc7jHUI2k8wrXHwLHcyF1l9ccCK5Fr-4I76xNaIUFA4rmiapj_.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvHWEPKxtYCxMbmEL4YVnPLyYIFgA:1789069459277&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yUmXdS4Di16rLnp5t_5R8BnUDpe5NsT27t_ip2NdEGh20u0sQAg6pd4Av1KA1n_SsDo6CEmAWJePDPwzrucqhUO0hGOXAzlz5JPbr7Wzo98MliKCIf5z5Yf5KGgFsslOKOI91amO10vbjYLLrEH3EQW3_MpDJ6MHQrEARVkyR3QaIISXfIykhhPlqTnJ8r08MHF3370UTzuOO1SZUkNQ6LIXILr9z3Tn_DMZpt3yRpYhl5fTeMAZVpyRVSaduo4WsewUSwaE4KvjSm3mbQa0_ht3nDdw&q=Neshaminy+High+School&sa=X&ved=2ahUKEwihrOSM4-SWAxXHGFkFHSrSLJUQs9oBKAB6BAgbEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Neshaminy+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yUmXdS4Di16rLnp5t_5R8BnUDpe5NsT27t_ip2NdEGh20u0sQAg6pd4Av1KA1n_SsDo6CEmAWJePDPwzrucqhUO0hGOXAzlz5JPbr7Wzo98MliKCIf5z5Yf5KGgFsslOKOI91amO10vbjYLLrEH3EQW3_MpDJ6MHQrEARVkyR3QaIISXfIykhhPlqTnJ8r08MHF3370UTzuOO1SZUkNQ6LIXILr9z3Tn_DMZpt3yRpYhl5fTeMAZVpyRVSaduo4WsewUSwaE4KvjSm3mbQa0_ht3nDdw"
+   },
+   {
+    "name": "North Penn High School",
+    "image": "https://serpapi.com/searches/6aa30893ff3b7a2c7775c325/images/xf_WzzaPqCH4bALc7jHUI2k8wrXHwLHcyF1l9ccCK5F_rj8zHbr3zZKvjfcDLsGs.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvHWEPKxtYCxMbmEL4YVnPLyYIFgA:1789069459277&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yVHGwPx_dzxbQ-1EcZSNNrrzroHd_NAe3lketKHAio56tgwvggg7hPLAxJGkxwbZWQFVAh56IDmrIcG6s4lhZzw4n4FPtLMpWJGOJjsAssMHSbp0JL0f7CFFQIXMjJq5Ad9cgzxv6qGZyw0chF8zP-If7v_Atuc-Dc-_JOdu1kbatsHpzzxKwAqLGwHekyIFOaUfsrELc9ZkQIsaEStie4xi3IDYDsBwJpWeLovPW2YR5IlrIkH8Y4n-lLkF8oku54q1qwMfSmeqXcU4rsRDSccav54Q&q=North+Penn+High+School&sa=X&ved=2ahUKEwihrOSM4-SWAxXHGFkFHSrSLJUQs9oBKAB6BAgbEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=North+Penn+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yVHGwPx_dzxbQ-1EcZSNNrrzroHd_NAe3lketKHAio56tgwvggg7hPLAxJGkxwbZWQFVAh56IDmrIcG6s4lhZzw4n4FPtLMpWJGOJjsAssMHSbp0JL0f7CFFQIXMjJq5Ad9cgzxv6qGZyw0chF8zP-If7v_Atuc-Dc-_JOdu1kbatsHpzzxKwAqLGwHekyIFOaUfsrELc9ZkQIsaEStie4xi3IDYDsBwJpWeLovPW2YR5IlrIkH8Y4n-lLkF8oku54q1qwMfSmeqXcU4rsRDSccav54Q"
+   },
+   {
+    "name": "Council Rock North High School",
+    "image": "https://serpapi.com/searches/6aa30893ff3b7a2c7775c325/images/xf_WzzaPqCH4bALc7jHUI2k8wrXHwLHcyF1l9ccCK5EHxL9PijKMYqR-3KaUTXkg.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvHWEPKxtYCxMbmEL4YVnPLyYIFgA:1789069459277&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ycPSOsGO7pgnDfzQ6_Bl9fGTp1HYCf-HsIhjOxkKkzecnycOtLNRwS_PuAfkWbMZgX1rPRf-NxJAD5pFrlVX5n6fszT8T46fj4VOCjIOd1m0dV0vX4jYoQyyAgI4E7xIVtP_lzB46lDFaBSr1S_udWsXhMTRmf-OVU_1LP_m1oasQEiShK5TnZNiKLTEcGylAJHvWPKp7aqNQCGmQlQPd0KHyfPNBfiAh6e6FNfCysVmd1GBVyHIt2EgTob3_XNd_yrGoF4rllzVy7aDu5CrDyNqBbuI&q=Council+Rock+High+School+North&sa=X&ved=2ahUKEwihrOSM4-SWAxXHGFkFHSrSLJUQs9oBKAB6BAgbEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Council+Rock+High+School+North&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ycPSOsGO7pgnDfzQ6_Bl9fGTp1HYCf-HsIhjOxkKkzecnycOtLNRwS_PuAfkWbMZgX1rPRf-NxJAD5pFrlVX5n6fszT8T46fj4VOCjIOd1m0dV0vX4jYoQyyAgI4E7xIVtP_lzB46lDFaBSr1S_udWsXhMTRmf-OVU_1LP_m1oasQEiShK5TnZNiKLTEcGylAJHvWPKp7aqNQCGmQlQPd0KHyfPNBfiAh6e6FNfCysVmd1GBVyHIt2EgTob3_XNd_yrGoF4rllzVy7aDu5CrDyNqBbuI"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvHWEPKxtYCxMbmEL4YVnPLyYIFgA:1789069459277&q=Pennsbury+High+School&stick=H4sIAAAAAAAAAONgFuLUz9U3MC5Iy7NQQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iFQ1IzcsrTiotqlTwyEzPUAhOzsjPz9nByniLTZLhjUNFYC5fU-eScMNDrNqLNkckBdukh30_DgBCMsyZewAAAA&sa=X&ved=2ahUKEwihrOSM4-SWAxXHGFkFHSrSLJUQzO0BKAR6BAgbEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLUz9U3MC5Iy7NQQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iFQ1IzcsrTiotqlTwyEzPUAhOzsjPz9nByniLTZLhjUNFYC5fU-eScMNDrNqLNkckBdukh30_DgBCMsyZewAAAA",
+  "profiles": [
+   {
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/in/vaunsh-patel-13141a245",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pennsbury+High+School%22+Pennsylvania",
+    "image": "https://serpapi.com/searches/6aa30893ff3b7a2c7775c325/images/xf_WzzaPqCH4bALc7jHUI6Xvfo7aVC9AChv0edrVHCKeBvXTkL42GEOfjTKKWg-l.png"
+   },
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/pennsburygirlsbasketball",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pennsbury+High+School%22+Pennsylvania",
+    "image": "https://serpapi.com/searches/6aa30893ff3b7a2c7775c325/images/xf_WzzaPqCH4bALc7jHUI5VLZMTm5NLqGGPy1aVj-W6Tq7S1n-GJInANEJW9Ikjq.png"
+   },
+   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/psd_pennsburyhighschool/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pennsbury+High+School%22+Pennsylvania",
+    "image": "https://serpapi.com/searches/6aa30893ff3b7a2c7775c325/images/xf_WzzaPqCH4bALc7jHUI9HrE9mUhfUOEtZ0SCvL-ly2lgoreN1KIMa8UP4EDrf3.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "What famous people went to Pennsbury High School?",
+   "type": "ai_overview",
+   "page_token": "boFgIXicHdDNbpswAABg7WV6bLAhXYkUTUqDR9CgwcV_XCZjCBQbwygriW99hT3DnmpPs2n37_R9_DavVv_59Ktblultt9ms63rfjmNrmns1Dhv5drNqo6QxlVR69_D5AXy5qH30rg5PszrkZJroEXsv9OBKixcOt5HoUSxRiEVPbhk0cWEwJEXNKR19_LUemS6fSJFf5Q2cSn9ylU5sFetAOBKkZlwVCxM8gJ9iQHMJ9VKRLmnYYiuWepKEsNTXo2LtUjjhlyQpuKMutzjNrbkKaA7MRgEH7faZPS7Y6ZVF0w2jxK_9LBJ-d06HspfeFlYIzzQumUTZtwaF64vOZsFPIDU0piw8yT7BKQNH6bLnhtZnpWuQ-thFXT3X0PwQ_J_zaFbyFhRDmCuOisYiLK_ja06wU70ZiNedG54GHNIIQ-HVHshz_RiQOLlID0vGa07yu4t63_t3_6_33y_Dspvmsf0LRMOM7w",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=boFgIXicHdDNbpswAABg7WV6bLAhXYkUTUqDR9CgwcV_XCZjCBQbwygriW99hT3DnmpPs2n37_R9_DavVv_59Ktblultt9ms63rfjmNrmns1Dhv5drNqo6QxlVR69_D5AXy5qH30rg5PszrkZJroEXsv9OBKixcOt5HoUSxRiEVPbhk0cWEwJEXNKR19_LUemS6fSJFf5Q2cSn9ylU5sFetAOBKkZlwVCxM8gJ9iQHMJ9VKRLmnYYiuWepKEsNTXo2LtUjjhlyQpuKMutzjNrbkKaA7MRgEH7faZPS7Y6ZVF0w2jxK_9LBJ-d06HspfeFlYIzzQumUTZtwaF64vOZsFPIDU0piw8yT7BKQNH6bLnhtZnpWuQ-thFXT3X0PwQ_J_zaFbyFhRDmCuOisYiLK_ja06wU70ZiNedG54GHNIIQ-HVHshz_RiQOLlID0vGa07yu4t63_t3_6_33y_Dspvmsf0LRMOM7w",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE5XUmlkWGxyUm5oTlpIRjVjSEJsYVhGNVNFcDRZMDltWkVGSVJqRnpTbGhXVTBkU1VFaGxVVVEwZWt3MmVYbFZSVzV1Y1dGUWFVRnBUbFZNYkdoelRYcHFRVU5mU2xaaU9WWldSSEZmY0dOSE9EQmFhVEI1YlMxWVVSSVhhM2RwYW1GMVIxZEZUV1Y0TlU1dlVIRnhVM3B4VVdzYUlrRkVjM0k1WmxKbGN5MWlVSEZMU25CaFdscERUQzFRYzI1UmNreGthRkl6Wm1jIiwiZmN2IjoiMyIsImVpIjoia3dpamF1R1dFTWV4NU5vUHFxU3pxUWsiLCJxYyI6ImMtTlNLa2pOeXl0T0tpMnFWTWpJVE05UUtFN095TV9QVVFDTFZ1YVVKZVpsSmdvdzFDNmFibVVQQUEiLCJxdWVzdGlvbiI6IldoYXQgZmFtb3VzIHBlb3BsZSB3ZW50IHRvIFBlbm5zYnVyeSBIaWdoIFNjaG9vbD8iLCJsayI6IkdqQjNhR0YwSUdaaGJXOTFjeUJ3Wlc5d2JHVWdkMlZ1ZENCMGJ5QndaVzV1YzJKMWNua2dhR2xuYUNCelkyaHZiMnciLCJicyI6ImMzMlF2UTZDTUJSRzQ5ckptY1hyNU8tZ2ZZSEd6WkhFcUlOVDFRc2wwTjZtaFRTLXZVQ01kVURXNXB6ejVaYmxiSDlWc29aTWFtbzhXQ1JiSVFRME5kUUVLUnJqNzQxN3diSElGWndlaXFnU25DZTc4Ri15WDBsMWt1OGxkbWJMZnFqd3cxVW9EUVVER1RuQlY4a2lmTmpCV0dUWmpXM0dzMDZhRXA5UUdFZ1BnbS1UOVhnNTRsYXlTX2M1Qk5JaGVOSVk3M1h0dEVibm9VM0YyZFNSRm55ZXpHTGF0ay1fdkpFYV9YVHlCZyIsImlkIjoiZmNfa3dpamF1R1dFTWV4NU5vUHFxU3pxUWtfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE5XUmlkWGxyUm5oTlpIRjVjSEJsYVhGNVNFcDRZMDltWkVGSVJqRnpTbGhXVTBkU1VFaGxVVVEwZWt3MmVYbFZSVzV1Y1dGUWFVRnBUbFZNYkdoelRYcHFRVU5mU2xaaU9WWldSSEZmY0dOSE9EQmFhVEI1YlMxWVVSSVhhM2RwYW1GMVIxZEZUV1Y0TlU1dlVIRnhVM3B4VVdzYUlrRkVjM0k1WmxKbGN5MWlVSEZMU25CaFdscERUQzFRYzI1UmNreGthRkl6Wm1jIiwiZmN2IjoiMyIsImVpIjoia3dpamF1R1dFTWV4NU5vUHFxU3pxUWsiLCJxYyI6ImMtTlNLa2pOeXl0T0tpMnFWTWpJVE05UUtFN095TV9QVVFDTFZ1YVVKZVpsSmdvdzFDNmFibVVQQUEiLCJxdWVzdGlvbiI6IldoYXQgZmFtb3VzIHBlb3BsZSB3ZW50IHRvIFBlbm5zYnVyeSBIaWdoIFNjaG9vbD8iLCJsayI6IkdqQjNhR0YwSUdaaGJXOTFjeUJ3Wlc5d2JHVWdkMlZ1ZENCMGJ5QndaVzV1YzJKMWNua2dhR2xuYUNCelkyaHZiMnciLCJicyI6ImMzMlF2UTZDTUJSRzQ5ckptY1hyNU8tZ2ZZSEd6WkhFcUlOVDFRc2wwTjZtaFRTLXZVQ01kVURXNXB6ejVaYmxiSDlWc29aTWFtbzhXQ1JiSVFRME5kUUVLUnJqNzQxN3diSElGWndlaXFnU25DZTc4Ri15WDBsMWt1OGxkbWJMZnFqd3cxVW9EUVVER1RuQlY4a2lmTmpCV0dUWmpXM0dzMDZhRXA5UUdFZ1BnbS1UOVhnNTRsYXlTX2M1Qk5JaGVOSVk3M1h0dEVibm9VM0YyZFNSRm55ZXpHTGF0ay1fdkpFYV9YVHlCZyIsImlkIjoiZmNfa3dpamF1R1dFTWV4NU5vUHFxU3pxUWtfNSJ9"
+  },
+  {
+   "question": "What is Pennsbury High School known for?",
+   "type": "ai_overview",
+   "page_token": "_zkON3icHdBfTsIwHADgeBkfZd0EhYQYwf1hykxr17G-mK6FdePXtcAE3Zt38VSexsTvCN_3DzTd_vfqrPvenWaj0eVyuamtrWF7I60ZidNXJ0dSAFRC7meTuwl62Ml5-LFaLA-rBc6dY0_Ee6NRs811TCnnrxE3RUgwaxXP9isv81i_Zs7HDJbrITOV78w67nHFyIuIdctAP3OwaOOTY2l4sh4ex2_gDpiVQVk4WtCsUeE9yhnXKiY-GepbEaRfPEobFipLEzzGyI2VgVsRc64K5nAHRu5dg9v0wBLdcS_VPISOB-4kQ5TilvTVE6AMMlv5qhGB9asAliSxY4H0ItTqqHw4lBuWMI9lfFMjaqZYbiK67SIiPm2DczLIFkxu2EoWsq98nZTedFJQnmyTLKYwXZYF-sTe_ZDj6508z4Pr_8_5-870M3e09R_hmYPV",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=_zkON3icHdBfTsIwHADgeBkfZd0EhYQYwf1hykxr17G-mK6FdePXtcAE3Zt38VSexsTvCN_3DzTd_vfqrPvenWaj0eVyuamtrWF7I60ZidNXJ0dSAFRC7meTuwl62Ml5-LFaLA-rBc6dY0_Ee6NRs811TCnnrxE3RUgwaxXP9isv81i_Zs7HDJbrITOV78w67nHFyIuIdctAP3OwaOOTY2l4sh4ex2_gDpiVQVk4WtCsUeE9yhnXKiY-GepbEaRfPEobFipLEzzGyI2VgVsRc64K5nAHRu5dg9v0wBLdcS_VPISOB-4kQ5TilvTVE6AMMlv5qhGB9asAliSxY4H0ItTqqHw4lBuWMI9lfFMjaqZYbiK67SIiPm2DczLIFkxu2EoWsq98nZTedFJQnmyTLKYwXZYF-sTe_ZDj6508z4Pr_8_5-870M3e09R_hmYPV",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE5XUmlkWGxyUm5oTlpIRjVjSEJsYVhGNVNFcDRZMDltWkVGSVJqRnpTbGhXVTBkU1VFaGxVVVEwZWt3MmVYbFZSVzV1Y1dGUWFVRnBUbFZNYkdoelRYcHFRVU5mU2xaaU9WWldSSEZmY0dOSE9EQmFhVEI1YlMxWVVSSVhhM2RwYW1GMVIxZEZUV1Y0TlU1dlVIRnhVM3B4VVdzYUlrRkVjM0k1WmxKbGN5MWlVSEZMU25CaFdscERUQzFRYzI1UmNreGthRkl6Wm1jIiwiZmN2IjoiMyIsImVpIjoia3dpamF1R1dFTWV4NU5vUHFxU3pxUWsiLCJxYyI6ImMtTlNLa2pOeXl0T0tpMnFWTWpJVE05UUtFN095TV9QVVFDTFZ1YVVKZVpsSmdvdzFDNmFibVVQQUEiLCJxdWVzdGlvbiI6IldoYXQgaXMgUGVubnNidXJ5IEhpZ2ggU2Nob29sIGtub3duIGZvcj8iLCJsayI6IkdpZDNhR0YwSUdseklIQmxibTV6WW5WeWVTQm9hV2RvSUhOamFHOXZiQ0JyYm05M2JpQm1iM0kiLCJicyI6ImMzMlF2UTZDTUJSRzQ5ckptY1hyNU8tZ2ZZSEd6WkhFcUlOVDFRc2wwTjZtaFRTLXZVQ01kVURXNXB6ejVaYmxiSDlWc29aTWFtbzhXQ1JiSVFRME5kUUVLUnJqNzQxN3diSElGWndlaXFnU25DZTc4Ri15WDBsMWt1OGxkbWJMZnFqd3cxVW9EUVVER1RuQlY4a2lmTmpCV0dUWmpXM0dzMDZhRXA5UUdFZ1BnbS1UOVhnNTRsYXlTX2M1Qk5JaGVOSVk3M1h0dEVibm9VM0YyZFNSRm55ZXpHTGF0ay1fdkpFYV9YVHlCZyIsImlkIjoiZmNfa3dpamF1R1dFTWV4NU5vUHFxU3pxUWtfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE5XUmlkWGxyUm5oTlpIRjVjSEJsYVhGNVNFcDRZMDltWkVGSVJqRnpTbGhXVTBkU1VFaGxVVVEwZWt3MmVYbFZSVzV1Y1dGUWFVRnBUbFZNYkdoelRYcHFRVU5mU2xaaU9WWldSSEZmY0dOSE9EQmFhVEI1YlMxWVVSSVhhM2RwYW1GMVIxZEZUV1Y0TlU1dlVIRnhVM3B4VVdzYUlrRkVjM0k1WmxKbGN5MWlVSEZMU25CaFdscERUQzFRYzI1UmNreGthRkl6Wm1jIiwiZmN2IjoiMyIsImVpIjoia3dpamF1R1dFTWV4NU5vUHFxU3pxUWsiLCJxYyI6ImMtTlNLa2pOeXl0T0tpMnFWTWpJVE05UUtFN095TV9QVVFDTFZ1YVVKZVpsSmdvdzFDNmFibVVQQUEiLCJxdWVzdGlvbiI6IldoYXQgaXMgUGVubnNidXJ5IEhpZ2ggU2Nob29sIGtub3duIGZvcj8iLCJsayI6IkdpZDNhR0YwSUdseklIQmxibTV6WW5WeWVTQm9hV2RvSUhOamFHOXZiQ0JyYm05M2JpQm1iM0kiLCJicyI6ImMzMlF2UTZDTUJSRzQ5ckptY1hyNU8tZ2ZZSEd6WkhFcUlOVDFRc2wwTjZtaFRTLXZVQ01kVURXNXB6ejVaYmxiSDlWc29aTWFtbzhXQ1JiSVFRME5kUUVLUnJqNzQxN3diSElGWndlaXFnU25DZTc4Ri15WDBsMWt1OGxkbWJMZnFqd3cxVW9EUVVER1RuQlY4a2lmTmpCV0dUWmpXM0dzMDZhRXA5UUdFZ1BnbS1UOVhnNTRsYXlTX2M1Qk5JaGVOSVk3M1h0dEVibm9VM0YyZFNSRm55ZXpHTGF0ay1fdkpFYV9YVHlCZyIsImlkIjoiZmNfa3dpamF1R1dFTWV4NU5vUHFxU3pxUWtfNSJ9"
+  },
+  {
+   "question": "What is Pennsbury High School ranked in PA?",
+   "type": "ai_overview",
+   "page_token": "N6gXCXicHdBfToMwHADgeBkfHS2Ibsliwga4KTWU9teOF1OKwKT8UXEw3ryLp_I0Gi_wPXxf3-bY1j8Xp2oY-o_VYjGO41XZdaV5udJds1Af51YvtDImU7peuTcuuiv02v_ceZu3nRfzvocttRJcThke8ZPIfcLoqKAiOtRniYORzp6bWdedaPo9rVELJngkJlUMwymXuRfJaIBtYMAmJxX2cBCTD1Y0gXBmEOZB1NU5us-7NKz2IpwCLvttJoN9xpfJk0gdxp0xtpZd3gyJEH_-1nO1QDxmxhB-uCYQhBpT9AhLoizgsal8IUlNbK9IMIn5XLmAvDPgaUfsg0Nn6vlV_p5j83aQcA8WkFSWiDXLWMuAvbQBVVN3jDmd9atpuIUKtUEFYASa8YHgWzsx9MhYZYu2diK-V-l4WejT2r78_1w_F82w6t-78he9rYHV",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=N6gXCXicHdBfToMwHADgeBkfHS2Ibsliwga4KTWU9teOF1OKwKT8UXEw3ryLp_I0Gi_wPXxf3-bY1j8Xp2oY-o_VYjGO41XZdaV5udJds1Af51YvtDImU7peuTcuuiv02v_ceZu3nRfzvocttRJcThke8ZPIfcLoqKAiOtRniYORzp6bWdedaPo9rVELJngkJlUMwymXuRfJaIBtYMAmJxX2cBCTD1Y0gXBmEOZB1NU5us-7NKz2IpwCLvttJoN9xpfJk0gdxp0xtpZd3gyJEH_-1nO1QDxmxhB-uCYQhBpT9AhLoizgsal8IUlNbK9IMIn5XLmAvDPgaUfsg0Nn6vlV_p5j83aQcA8WkFSWiDXLWMuAvbQBVVN3jDmd9atpuIUKtUEFYASa8YHgWzsx9MhYZYu2diK-V-l4WejT2r78_1w_F82w6t-78he9rYHV",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE5XUmlkWGxyUm5oTlpIRjVjSEJsYVhGNVNFcDRZMDltWkVGSVJqRnpTbGhXVTBkU1VFaGxVVVEwZWt3MmVYbFZSVzV1Y1dGUWFVRnBUbFZNYkdoelRYcHFRVU5mU2xaaU9WWldSSEZmY0dOSE9EQmFhVEI1YlMxWVVSSVhhM2RwYW1GMVIxZEZUV1Y0TlU1dlVIRnhVM3B4VVdzYUlrRkVjM0k1WmxKbGN5MWlVSEZMU25CaFdscERUQzFRYzI1UmNreGthRkl6Wm1jIiwiZmN2IjoiMyIsImVpIjoia3dpamF1R1dFTWV4NU5vUHFxU3pxUWsiLCJxYyI6ImMtTlNLa2pOeXl0T0tpMnFWTWpJVE05UUtFN095TV9QVVFDTFZ1YVVKZVpsSmdvdzFDNmFibVVQQUEiLCJxdWVzdGlvbiI6IldoYXQgaXMgUGVubnNidXJ5IEhpZ2ggU2Nob29sIHJhbmtlZCBpbiBQQT8iLCJsayI6IkdpcDNhR0YwSUdseklIQmxibTV6WW5WeWVTQm9hV2RvSUhOamFHOXZiQ0J5WVc1clpXUWdhVzRnY0dFIiwiYnMiOiJjMzJRdlE2Q01CUkc0OXJKbWNYcjVPLWdmWUhHelpIRXFJTlQxUXNsME42bWhUUy12VUNNZFVEVzVweno1WmJsYkg5VnNvWk1hbW84V0NSYklRUTBOZFFFS1Jyajc0MTd3YkhJRlp3ZWlxZ1NuQ2U3OEYteVgwbDFrdThsZG1iTGZxand3MVVvRFFVREdUbkJWOGtpZk5qQldHVFpqVzNHczA2YUVwOVFHRWdQZ20tVDlYZzU0bGF5U19jNUJOSWhlTklZNzNYdHRFYm5vVTNGMmRTUkZueWV6R0xhdGstX3ZKRWFfWFR5QmciLCJpZCI6ImZjX2t3aWphdUdXRU1leDVOb1BxcVN6cVFrXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE5XUmlkWGxyUm5oTlpIRjVjSEJsYVhGNVNFcDRZMDltWkVGSVJqRnpTbGhXVTBkU1VFaGxVVVEwZWt3MmVYbFZSVzV1Y1dGUWFVRnBUbFZNYkdoelRYcHFRVU5mU2xaaU9WWldSSEZmY0dOSE9EQmFhVEI1YlMxWVVSSVhhM2RwYW1GMVIxZEZUV1Y0TlU1dlVIRnhVM3B4VVdzYUlrRkVjM0k1WmxKbGN5MWlVSEZMU25CaFdscERUQzFRYzI1UmNreGthRkl6Wm1jIiwiZmN2IjoiMyIsImVpIjoia3dpamF1R1dFTWV4NU5vUHFxU3pxUWsiLCJxYyI6ImMtTlNLa2pOeXl0T0tpMnFWTWpJVE05UUtFN095TV9QVVFDTFZ1YVVKZVpsSmdvdzFDNmFibVVQQUEiLCJxdWVzdGlvbiI6IldoYXQgaXMgUGVubnNidXJ5IEhpZ2ggU2Nob29sIHJhbmtlZCBpbiBQQT8iLCJsayI6IkdpcDNhR0YwSUdseklIQmxibTV6WW5WeWVTQm9hV2RvSUhOamFHOXZiQ0J5WVc1clpXUWdhVzRnY0dFIiwiYnMiOiJjMzJRdlE2Q01CUkc0OXJKbWNYcjVPLWdmWUhHelpIRXFJTlQxUXNsME42bWhUUy12VUNNZFVEVzVweno1WmJsYkg5VnNvWk1hbW84V0NSYklRUTBOZFFFS1Jyajc0MTd3YkhJRlp3ZWlxZ1NuQ2U3OEYteVgwbDFrdThsZG1iTGZxand3MVVvRFFVREdUbkJWOGtpZk5qQldHVFpqVzNHczA2YUVwOVFHRWdQZ20tVDlYZzU0bGF5U19jNUJOSWhlTklZNzNYdHRFYm5vVTNGMmRTUkZueWV6R0xhdGstX3ZKRWFfWFR5QmciLCJpZCI6ImZjX2t3aWphdUdXRU1leDVOb1BxcVN6cVFrXzUifQ%3D%3D"
+  },
+  {
+   "question": "Who are some famous performers at Pennsbury Prom?",
+   "type": "ai_overview",
+   "page_token": "M4Me3XicHdBRboIwAADQ7DJ-qoXIgolZplLRKay1LdCfhbYKSgtVUdS_3WWn2mmW7B3hff_oQ139vtzKtrWX8WDQdV2_aJpC7_qyMYP88qjlQOZai1xWY-_VA297OQmuy-nstJwiai2b4-GWKoSAbzdzluFFBLBL75JxrVw-F077kSX-WtR4TSsIRYizJBhFQq8adcSNgPqohquzgJYzoj43oX4gyjwOZIspbmKGQxrwazzXHBnpxLSc5S7cC6Ju3PgrlkRXBso10VUXU4VjUt2R-w4y0xpKSi9y8GVbKSIYTDHEVobRUyXFkDnqRrQ1ifaznMIuWWCSApXu6H0alOqsHH3KUhayIYt4WgBifCRTSHY1xPm9OSCKn_KoDXXL0RbAChkWk4SvI4cCEepzQnmNUrvZhdpVXW8vbxO39_85-dqbdmzPTfEHbJGELw",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=M4Me3XicHdBRboIwAADQ7DJ-qoXIgolZplLRKay1LdCfhbYKSgtVUdS_3WWn2mmW7B3hff_oQ139vtzKtrWX8WDQdV2_aJpC7_qyMYP88qjlQOZai1xWY-_VA297OQmuy-nstJwiai2b4-GWKoSAbzdzluFFBLBL75JxrVw-F077kSX-WtR4TSsIRYizJBhFQq8adcSNgPqohquzgJYzoj43oX4gyjwOZIspbmKGQxrwazzXHBnpxLSc5S7cC6Ju3PgrlkRXBso10VUXU4VjUt2R-w4y0xpKSi9y8GVbKSIYTDHEVobRUyXFkDnqRrQ1ifaznMIuWWCSApXu6H0alOqsHH3KUhayIYt4WgBifCRTSHY1xPm9OSCKn_KoDXXL0RbAChkWk4SvI4cCEepzQnmNUrvZhdpVXW8vbxO39_85-dqbdmzPTfEHbJGELw",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE5XUmlkWGxyUm5oTlpIRjVjSEJsYVhGNVNFcDRZMDltWkVGSVJqRnpTbGhXVTBkU1VFaGxVVVEwZWt3MmVYbFZSVzV1Y1dGUWFVRnBUbFZNYkdoelRYcHFRVU5mU2xaaU9WWldSSEZmY0dOSE9EQmFhVEI1YlMxWVVSSVhhM2RwYW1GMVIxZEZUV1Y0TlU1dlVIRnhVM3B4VVdzYUlrRkVjM0k1WmxKbGN5MWlVSEZMU25CaFdscERUQzFRYzI1UmNreGthRkl6Wm1jIiwiZmN2IjoiMyIsImVpIjoia3dpamF1R1dFTWV4NU5vUHFxU3pxUWsiLCJxYyI6ImMtTlNLa2pOeXl0T0tpMnFWTWpJVE05UUtFN095TV9QVVFDTFZ1YVVKZVpsSmdvdzFDNmFibVVQQUEiLCJxdWVzdGlvbiI6IldobyBhcmUgc29tZSBmYW1vdXMgcGVyZm9ybWVycyBhdCBQZW5uc2J1cnkgUHJvbT8iLCJsayI6IkdoOXdaVzV1YzJKMWNua2djSEp2YlNCd1pYSm1iM0p0WlhKeklHNWhiV1Z6IiwiYnMiOiJjMzJRdlE2Q01CUkc0OXJKbWNYcjVPLWdmWUhHelpIRXFJTlQxUXNsME42bWhUUy12VUNNZFVEVzVweno1WmJsYkg5VnNvWk1hbW84V0NSYklRUTBOZFFFS1Jyajc0MTd3YkhJRlp3ZWlxZ1NuQ2U3OEYteVgwbDFrdThsZG1iTGZxand3MVVvRFFVREdUbkJWOGtpZk5qQldHVFpqVzNHczA2YUVwOVFHRWdQZ20tVDlYZzU0bGF5U19jNUJOSWhlTklZNzNYdHRFYm5vVTNGMmRTUkZueWV6R0xhdGstX3ZKRWFfWFR5QmciLCJpZCI6ImZjX2t3aWphdUdXRU1leDVOb1BxcVN6cVFrXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE5XUmlkWGxyUm5oTlpIRjVjSEJsYVhGNVNFcDRZMDltWkVGSVJqRnpTbGhXVTBkU1VFaGxVVVEwZWt3MmVYbFZSVzV1Y1dGUWFVRnBUbFZNYkdoelRYcHFRVU5mU2xaaU9WWldSSEZmY0dOSE9EQmFhVEI1YlMxWVVSSVhhM2RwYW1GMVIxZEZUV1Y0TlU1dlVIRnhVM3B4VVdzYUlrRkVjM0k1WmxKbGN5MWlVSEZMU25CaFdscERUQzFRYzI1UmNreGthRkl6Wm1jIiwiZmN2IjoiMyIsImVpIjoia3dpamF1R1dFTWV4NU5vUHFxU3pxUWsiLCJxYyI6ImMtTlNLa2pOeXl0T0tpMnFWTWpJVE05UUtFN095TV9QVVFDTFZ1YVVKZVpsSmdvdzFDNmFibVVQQUEiLCJxdWVzdGlvbiI6IldobyBhcmUgc29tZSBmYW1vdXMgcGVyZm9ybWVycyBhdCBQZW5uc2J1cnkgUHJvbT8iLCJsayI6IkdoOXdaVzV1YzJKMWNua2djSEp2YlNCd1pYSm1iM0p0WlhKeklHNWhiV1Z6IiwiYnMiOiJjMzJRdlE2Q01CUkc0OXJKbWNYcjVPLWdmWUhHelpIRXFJTlQxUXNsME42bWhUUy12VUNNZFVEVzVweno1WmJsYkg5VnNvWk1hbW84V0NSYklRUTBOZFFFS1Jyajc0MTd3YkhJRlp3ZWlxZ1NuQ2U3OEYteVgwbDFrdThsZG1iTGZxand3MVVvRFFVREdUbkJWOGtpZk5qQldHVFpqVzNHczA2YUVwOVFHRWdQZ20tVDlYZzU0bGF5U19jNUJOSWhlTklZNzNYdHRFYm5vVTNGMmRTUkZueWV6R0xhdGstX3ZKRWFfWFR5QmciLCJpZCI6ImZjX2t3aWphdUdXRU1leDVOb1BxcVN6cVFrXzUifQ%3D%3D"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Pennsbury High School: Home",
+   "link": "https://phs.pennsburysd.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVAHrOzAVl_sPzVgHEeK35SAWO14WqTVaRTKI70vbx6nSD8X-wLmzngnJHj6oRKZBHUJNyE7GsGyDLa7x4eUTWD1k_aEryCGki7htHyVu_dl2CJm6Ow&ved=2ahUKEwihrOSM4-SWAxXHGFkFHSrSLJUQFnoECEQQAQ&uoh=1",
+   "displayed_link": "https://phs.pennsburysd.org",
+   "favicon": "https://serpapi.com/searches/6aa30893ff3b7a2c7775c325/images/xCpSQuUDQ9A3iUpAzQRTMEKT68NheFTuXEpAMvurKdo.png",
+   "snippet": "Pennsbury High School Rooted in our proud traditions and enriched by our diverse community, Pennsbury empowers each student to achieve excellence in order to ...",
+   "snippet_highlighted_words": [
+    "Pennsbury High School"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "PHS Calendar",
+      "link": "https://phs.pennsburysd.org/p_h_s_calendar",
+      "snippet": "Pennsbury High School Rooted in our proud traditions and ..."
+     },
+     {
+      "title": "Our Staff",
+      "link": "https://phs.pennsburysd.org/our_staff",
+      "snippet": "Pennsbury High School Rooted in our proud traditions and ..."
+     },
+     {
+      "title": "Activities & Athletics",
+      "link": "https://phs.pennsburysd.org/activities___athletics",
+      "snippet": "Pennsbury High School Rooted in our proud traditions and ..."
+     },
+     {
+      "title": "Our School",
+      "link": "https://phs.pennsburysd.org/our_school",
+      "snippet": "Pennsbury High School is a four-year comprehensive high ..."
+     },
+     {
+      "title": "For Students",
+      "link": "https://phs.pennsburysd.org/for_students",
+      "snippet": "Pennsbury High School Rooted in our proud traditions and ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Pennsbury High School Rooted in our proud traditions and enriched by our diverse community, Pennsbury empowers each student to achieve excellence in order to ...",
+     "source_info_link": "https://phs.pennsburysd.org/",
+     "icon": "https://serpapi.com/searches/6aa30893ff3b7a2c7775c325/images/xCpSQuUDQ9A3iUpAzQRTMIIPP2uYknzrDaiF5oT9Y1u4XBfdxz45jmDMkpfI0DYX.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESVAHrOzAVl_sPzVgHEeK35SAWO14WqTVaRTKI70vbx6nSD8X-wLmzngnJHj6oRKZBHUJNyE7GsGyDLa7x4eUTWD1k_aEryCGki7htHyVu_dl2CJm6Ow&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESVAHrOzAVl_sPzVgHEeK35SAWO14WqTVaRTKI70vbx6nSD8X-wLmzngnJHj6oRKZBHUJNyE7GsGyDLa7x4eUTWD1k_aEryCGki7htHyVu_dl2CJm6Ow",
+   "source": "Pennsbury High School"
+  },
+  {
+   "position": 2,
+   "title": "Pennsbury High School",
+   "link": "https://en.wikipedia.org/wiki/Pennsbury_High_School",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESawHrOzAVJE2jYMQdSJO-4qahbCotcmxaDUV6LJuPhzvqI9mGqJasJj4EdQfASRlmHMonP55R7sKFF6iiOuszX_Ge7EA_eybHBJZlF5hFDl7JuI5t8_nUtBXr1Z9P38Ofq5U1rmzFnjY5MXcf&ved=2ahUKEwihrOSM4-SWAxXHGFkFHSrSLJUQFnoECEgQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Pennsbury_High_School",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+   "snippet": "Pennsbury High School is a four-year public high school located in Fairless Hills, Pennsylvania, United States. It is part of Pennsbury School District.",
+   "snippet_highlighted_words": [
+    "Pennsbury High School",
+    "Pennsylvania"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Pennsbury High School is a four-year public high school located in Fairless Hills, Pennsylvania, United States. It is part of Pennsbury School District.",
+     "source_info_link": "https://en.wikipedia.org/wiki/Pennsbury_High_School",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESawHrOzAVJE2jYMQdSJO-4qahbCotcmxaDUV6LJuPhzvqI9mGqJasJj4EdQfASRlmHMonP55R7sKFF6iiOuszX_Ge7EA_eybHBJZlF5hFDl7JuI5t8_nUtBXr1Z9P38Ofq5U1rmzFnjY5MXcf&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESawHrOzAVJE2jYMQdSJO-4qahbCotcmxaDUV6LJuPhzvqI9mGqJasJj4EdQfASRlmHMonP55R7sKFF6iiOuszX_Ge7EA_eybHBJZlF5hFDl7JuI5t8_nUtBXr1Z9P38Ofq5U1rmzFnjY5MXcf",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Pennsbury_High_School#:~:text=Pennsbury%20High%20School%20is%20a,part%20of%20Pennsbury%20School%20District."
+  },
+  {
+   "position": 3,
+   "title": "Pennsbury High School in Fairless Hills, PA",
+   "link": "https://www.usnews.com/education/best-high-schools/pennsylvania/districts/pennsbury-school-district/pennsbury-high-school-17187",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEStwEB6zswFa_eB_L2qBp7fs8a8_pQgxLsHY96OskMXJvX_1kL1KQJ_wACCLNQvHCrMzf3QUTYOqwAeab0DdPAVfM6bF73XivuY8pNR0nh6qXJecvmQY8sqW4makp5IxxWKxQfeU8mxkitOIckHput8OxhuQWOne_cSpSKO809o40wljov4UzESzUTD5JMkS_LSi2j4Ub9yr7AfJq1yavWEwCAQggFKf7BYZh9f3-ReHYQL-jtnDs0oQA&ved=2ahUKEwihrOSM4-SWAxXHGFkFHSrSLJUQFnoECGUQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a ... \u203a Pennsbury School District",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png",
+   "snippet": "Pennsbury High School is ranked #3,762 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+   "snippet_highlighted_words": [
+    "Pennsbury High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Pennsbury High School is ranked #3,762 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/pennsylvania/districts/pennsbury-school-district/pennsbury-high-school-17187",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEStwEB6zswFa_eB_L2qBp7fs8a8_pQgxLsHY96OskMXJvX_1kL1KQJ_wACCLNQvHCrMzf3QUTYOqwAeab0DdPAVfM6bF73XivuY8pNR0nh6qXJecvmQY8sqW4makp5IxxWKxQfeU8mxkitOIckHput8OxhuQWOne_cSpSKO809o40wljov4UzESzUTD5JMkS_LSi2j4Ub9yr7AfJq1yavWEwCAQggFKf7BYZh9f3-ReHYQL-jtnDs0oQA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEStwEB6zswFa_eB_L2qBp7fs8a8_pQgxLsHY96OskMXJvX_1kL1KQJ_wACCLNQvHCrMzf3QUTYOqwAeab0DdPAVfM6bF73XivuY8pNR0nh6qXJecvmQY8sqW4makp5IxxWKxQfeU8mxkitOIckHput8OxhuQWOne_cSpSKO809o40wljov4UzESzUTD5JMkS_LSi2j4Ub9yr7AfJq1yavWEwCAQggFKf7BYZh9f3-ReHYQL-jtnDs0oQA",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/pennsylvania/districts/pennsbury-school-district/pennsbury-high-school-17187#:~:text=Pennsbury%20High%20School%20is%20ranked,they%20prepare%20students%20for%20college."
+  },
+  {
+   "position": 4,
+   "title": "Home - Pennsbury SD",
+   "link": "https://www.pennsburysd.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVAHrOzAVwIpAD0qZodCg5LXiNaoKxrlgnV_oiypp9Y0npHQ5PfN3P9XD8DyNTmHawir_hYCnB7z_RQNSRyWDAS6COivH82MHF5BZno-dAiK8EwJZ8g&ved=2ahUKEwihrOSM4-SWAxXHGFkFHSrSLJUQFnoECGQQAQ&uoh=1",
+   "displayed_link": "https://www.pennsburysd.org",
+   "favicon": "https://serpapi.com/searches/6aa30893ff3b7a2c7775c325/images/xCpSQuUDQ9A3iUpAzQRTMPZPXGvWKyx2_tHBnVVLDYo.png",
+   "snippet": "William Penn Middle School; High School; Pennsbury High School; Academy; The Academy & The Cyber Academy at Pennsbury. Language. Login. Search. Logo for ...",
+   "snippet_highlighted_words": [
+    "Penn",
+    "Pennsbury High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "William Penn Middle School; High School; Pennsbury High School; Academy; The Academy & The Cyber Academy at Pennsbury. Language. Login. Search. Logo for ...",
+     "source_info_link": "https://www.pennsburysd.org/",
+     "icon": "https://serpapi.com/searches/6aa30893ff3b7a2c7775c325/images/xCpSQuUDQ9A3iUpAzQRTMH2OU8vze4OUM-KRhhePAZtiKS-XJlt9vyjDzUQGlE1F.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESVAHrOzAVwIpAD0qZodCg5LXiNaoKxrlgnV_oiypp9Y0npHQ5PfN3P9XD8DyNTmHawir_hYCnB7z_RQNSRyWDAS6COivH82MHF5BZno-dAiK8EwJZ8g&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESVAHrOzAVwIpAD0qZodCg5LXiNaoKxrlgnV_oiypp9Y0npHQ5PfN3P9XD8DyNTmHawir_hYCnB7z_RQNSRyWDAS6COivH82MHF5BZno-dAiK8EwJZ8g",
+   "source": "Pennsbury SD",
+   "read_more_link": "https://www.pennsburysd.org/#:~:text=Pennsbury%20School%20District%20Rooted%20in"
+  },
+  {
+   "position": 5,
+   "title": "Pennsbury High School in Levittown, PA",
+   "link": "https://www.niche.com/k12/pennsbury-high-school-fairless-hills-pa/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESegHrOzAVr27y7r6FJVfXVoGBpc2UabhVtio-TwM4066ShfbximCCZ2TPWMH01Jv2Hc72rg5-EHqZTVomJIZbw479VrXf2E0eKzt3adtjUgueB0uQVqzcqq15XEZQFMRg1iczST5yfjuA5oJm7DLNsEXJXj-w3wz2MTkf&ved=2ahUKEwihrOSM4-SWAxXHGFkFHSrSLJUQFnoECGcQAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a Pennsylvania",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png",
+   "snippet": "Pennsbury High School is a highly rated, public school located in FAIRLESS HILLS, PA. It has 2847 students in grades 9-12 with a student-teacher ratio of 13 ...",
+   "snippet_highlighted_words": [
+    "Pennsbury High School",
+    "PA"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Pennsbury High School is a highly rated, public school located in FAIRLESS HILLS, PA. It has 2847 students in grades 9-12 with a student-teacher ratio of 13 ...",
+     "source_info_link": "https://www.niche.com/k12/pennsbury-high-school-fairless-hills-pa/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESegHrOzAVr27y7r6FJVfXVoGBpc2UabhVtio-TwM4066ShfbximCCZ2TPWMH01Jv2Hc72rg5-EHqZTVomJIZbw479VrXf2E0eKzt3adtjUgueB0uQVqzcqq15XEZQFMRg1iczST5yfjuA5oJm7DLNsEXJXj-w3wz2MTkf&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESegHrOzAVr27y7r6FJVfXVoGBpc2UabhVtio-TwM4066ShfbximCCZ2TPWMH01Jv2Hc72rg5-EHqZTVomJIZbw479VrXf2E0eKzt3adtjUgueB0uQVqzcqq15XEZQFMRg1iczST5yfjuA5oJm7DLNsEXJXj-w3wz2MTkf",
+   "source": "Niche"
+  },
+  {
+   "position": 6,
+   "title": "Pennsbury High School (@psd_pennsburyhighschool)",
+   "link": "https://www.instagram.com/psd_pennsburyhighschool/?hl=en",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHrOzAVXBPpWHW-eG1ROuK6wqmoMPNP13YQDKs-gl6FCbj0XpwCD4wf-sMMER9kdECA4se3C705E__atra5Il5rZK75hVol6ypWFZ_U_ohQslllbx2Be-DFkWoW7cb8bMT6cj212aMi5vfPVX8w-PE&ved=2ahUKEwihrOSM4-SWAxXHGFkFHSrSLJUQFnoECGkQAQ&uoh=1",
+   "displayed_link": "5K+ followers",
+   "favicon": "https://serpapi.com/searches/6aa30893ff3b7a2c7775c325/images/xCpSQuUDQ9A3iUpAzQRTMDNu4H0M5UfR6fgIRxIa9tA.png",
+   "snippet": "Welcome to Pennsbury High School! \u00b7 Prom 2026 \u00b7 PHS and PTO need your help!!! \u00b7 Grab lunch tomorrow and a chance to win a football! \u00b7 We love our SENIORS! \u00b7 Falcons ...",
+   "snippet_highlighted_words": [
+    "Pennsbury High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Welcome to Pennsbury High School! \u00b7 Prom 2026 \u00b7 PHS and PTO need your help!!! \u00b7 Grab lunch tomorrow and a chance to win a football! \u00b7 We love our SENIORS! \u00b7 Falcons ...",
+     "source_info_link": "https://www.instagram.com/psd_pennsburyhighschool/?hl=en",
+     "icon": "https://serpapi.com/searches/6aa30893ff3b7a2c7775c325/images/xCpSQuUDQ9A3iUpAzQRTMCKq5e-6wIZrRz9bJDKv2jJoyLMf8dWwkHRo6dxzTquh.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEScAHrOzAVXBPpWHW-eG1ROuK6wqmoMPNP13YQDKs-gl6FCbj0XpwCD4wf-sMMER9kdECA4se3C705E__atra5Il5rZK75hVol6ypWFZ_U_ohQslllbx2Be-DFkWoW7cb8bMT6cj212aMi5vfPVX8w-PE&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEScAHrOzAVXBPpWHW-eG1ROuK6wqmoMPNP13YQDKs-gl6FCbj0XpwCD4wf-sMMER9kdECA4se3C705E__atra5Il5rZK75hVol6ypWFZ_U_ohQslllbx2Be-DFkWoW7cb8bMT6cj212aMi5vfPVX8w-PE",
+   "source": "Instagram \u00b7 psd_pennsburyhighschool",
+   "read_more_link": "https://www.instagram.com/psd_pennsburyhighschool/?hl=en#:~:text=Welcome%20to%20Pennsbury%20High%20School!"
+  },
+  {
+   "position": 7,
+   "title": "Pennsbury High School Project",
+   "link": "https://www.pennsburysd.org/community/pennsbury_high_school_project",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESewHrOzAVQDChG2af1xFWMCQc6Mx2xueII9l32BVrrU-1GXJtqhH-BwF2lbTRaqis4ZUD1rfHKzTtdNl8yME4u3xxQEdTFQqFp15bLG7xaX2CjqWGZUtOfiA17eZ6DdsAo6rqJS98jMfjBmBMsHI2ih8OmQJFUSz_QkLETQ&ved=2ahUKEwihrOSM4-SWAxXHGFkFHSrSLJUQFnoECGYQAQ&uoh=1",
+   "displayed_link": "https://www.pennsburysd.org \u203a community \u203a pennsbur...",
+   "favicon": "https://serpapi.com/searches/6aa30893ff3b7a2c7775c325/images/xCpSQuUDQ9A3iUpAzQRTMKT5MIRhcdSj1nr2UqGjfv8.png",
+   "snippet": "This page contains updates on the construction of a new Pennsbury High School. Please check back frequently for updates.",
+   "snippet_highlighted_words": [
+    "Pennsbury High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "This page contains updates on the construction of a new Pennsbury High School. Please check back frequently for updates.",
+     "source_info_link": "https://www.pennsburysd.org/community/pennsbury_high_school_project",
+     "icon": "https://serpapi.com/searches/6aa30893ff3b7a2c7775c325/images/xCpSQuUDQ9A3iUpAzQRTMOc53VyIFDFnxEFtZZLvNDKU4BYar0PiYmPw229RXZ-Y.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESewHrOzAVQDChG2af1xFWMCQc6Mx2xueII9l32BVrrU-1GXJtqhH-BwF2lbTRaqis4ZUD1rfHKzTtdNl8yME4u3xxQEdTFQqFp15bLG7xaX2CjqWGZUtOfiA17eZ6DdsAo6rqJS98jMfjBmBMsHI2ih8OmQJFUSz_QkLETQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESewHrOzAVQDChG2af1xFWMCQc6Mx2xueII9l32BVrrU-1GXJtqhH-BwF2lbTRaqis4ZUD1rfHKzTtdNl8yME4u3xxQEdTFQqFp15bLG7xaX2CjqWGZUtOfiA17eZ6DdsAo6rqJS98jMfjBmBMsHI2ih8OmQJFUSz_QkLETQ",
+   "source": "Pennsbury SD",
+   "read_more_link": "https://www.pennsburysd.org/community/pennsbury_high_school_project#:~:text=This%20page%20contains%20updates%20on,check%20back%20frequently%20for%20updates."
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Pennsbury high school pennsylvania yearbook",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvHWEPKxtYCxMbmEL4YVnPLyYIFgA:1789069459277&q=Pennsbury+high+school+pennsylvania+yearbook&sa=X&ved=2ahUKEwihrOSM4-SWAxXHGFkFHSrSLJUQ1QJ6BAhoEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pennsbury+high+school+pennsylvania+yearbook"
+  },
+  {
+   "block_position": 1,
+   "query": "Pennsbury high school pennsylvania football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvHWEPKxtYCxMbmEL4YVnPLyYIFgA:1789069459277&q=Pennsbury+high+school+pennsylvania+football&sa=X&ved=2ahUKEwihrOSM4-SWAxXHGFkFHSrSLJUQ1QJ6BAh9EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pennsbury+high+school+pennsylvania+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Pennsbury high school pennsylvania ranking",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvHWEPKxtYCxMbmEL4YVnPLyYIFgA:1789069459277&q=Pennsbury+high+school+pennsylvania+ranking&sa=X&ved=2ahUKEwihrOSM4-SWAxXHGFkFHSrSLJUQ1QJ6BAh7EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pennsbury+high+school+pennsylvania+ranking"
+  },
+  {
+   "block_position": 1,
+   "query": "Pennsbury high school pennsylvania alumni",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvHWEPKxtYCxMbmEL4YVnPLyYIFgA:1789069459277&q=Pennsbury+high+school+pennsylvania+alumni&sa=X&ved=2ahUKEwihrOSM4-SWAxXHGFkFHSrSLJUQ1QJ6BAh4EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pennsbury+high+school+pennsylvania+alumni"
+  },
+  {
+   "block_position": 1,
+   "query": "Pennsbury High School West",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvHWEPKxtYCxMbmEL4YVnPLyYIFgA:1789069459277&q=Pennsbury+High+School+West&sa=X&ved=2ahUKEwihrOSM4-SWAxXHGFkFHSrSLJUQ1QJ6BAh0EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pennsbury+High+School+West"
+  },
+  {
+   "block_position": 1,
+   "query": "Pennsbury School District",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvHWEPKxtYCxMbmEL4YVnPLyYIFgA:1789069459277&q=Pennsbury+School+District&sa=X&ved=2ahUKEwihrOSM4-SWAxXHGFkFHSrSLJUQ1QJ6BAhyEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pennsbury+School+District"
+  },
+  {
+   "block_position": 1,
+   "query": "Pennsbury High School graduation 2026",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvHWEPKxtYCxMbmEL4YVnPLyYIFgA:1789069459277&q=Pennsbury+High+School+graduation+2026&sa=X&ved=2ahUKEwihrOSM4-SWAxXHGFkFHSrSLJUQ1QJ6BAhuEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pennsbury+High+School+graduation+2026"
+  },
+  {
+   "block_position": 1,
+   "query": "Pennsbury high school pennsylvania baseball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvHWEPKxtYCxMbmEL4YVnPLyYIFgA:1789069459277&q=Pennsbury+high+school+pennsylvania+baseball&sa=X&ved=2ahUKEwihrOSM4-SWAxXHGFkFHSrSLJUQ1QJ6BAhqEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pennsbury+high+school+pennsylvania+baseball"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Pennsbury+High+School%22+Pennsylvania&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvHWEPKxtYCxMbmEL4YVnPLyYIFgA:1789069459277&ei=kwijauGWEMex5NoPqqSzqQk&start=10&sa=N&sstk=AS6-VmJqz5fdh1eSbJCROFFstwpJNnr2QvfUdowR_45iPEAejs6Qpnz2VLGXvB20adBQNsG7ojOgdQjPuv0LBp25fUh-vClhFZ0oeA&ved=2ahUKEwihrOSM4-SWAxXHGFkFHSrSLJUQ8NMDegQIWRAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Pennsbury+High+School%22+Pennsylvania&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvHWEPKxtYCxMbmEL4YVnPLyYIFgA:1789069459277&ei=kwijauGWEMex5NoPqqSzqQk&start=10&sa=N&sstk=AS6-VmJqz5fdh1eSbJCROFFstwpJNnr2QvfUdowR_45iPEAejs6Qpnz2VLGXvB20adBQNsG7ojOgdQjPuv0LBp25fUh-vClhFZ0oeA&ved=2ahUKEwihrOSM4-SWAxXHGFkFHSrSLJUQ8tMDegQIWRAE",
+   "3": "https://www.google.com/search?q=%22Pennsbury+High+School%22+Pennsylvania&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvHWEPKxtYCxMbmEL4YVnPLyYIFgA:1789069459277&ei=kwijauGWEMex5NoPqqSzqQk&start=20&sa=N&sstk=AS6-VmJqz5fdh1eSbJCROFFstwpJNnr2QvfUdowR_45iPEAejs6Qpnz2VLGXvB20adBQNsG7ojOgdQjPuv0LBp25fUh-vClhFZ0oeA&ved=2ahUKEwihrOSM4-SWAxXHGFkFHSrSLJUQ8tMDegQIWRAG",
+   "4": "https://www.google.com/search?q=%22Pennsbury+High+School%22+Pennsylvania&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvHWEPKxtYCxMbmEL4YVnPLyYIFgA:1789069459277&ei=kwijauGWEMex5NoPqqSzqQk&start=30&sa=N&sstk=AS6-VmJqz5fdh1eSbJCROFFstwpJNnr2QvfUdowR_45iPEAejs6Qpnz2VLGXvB20adBQNsG7ojOgdQjPuv0LBp25fUh-vClhFZ0oeA&ved=2ahUKEwihrOSM4-SWAxXHGFkFHSrSLJUQ8tMDegQIWRAI",
+   "5": "https://www.google.com/search?q=%22Pennsbury+High+School%22+Pennsylvania&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvHWEPKxtYCxMbmEL4YVnPLyYIFgA:1789069459277&ei=kwijauGWEMex5NoPqqSzqQk&start=40&sa=N&sstk=AS6-VmJqz5fdh1eSbJCROFFstwpJNnr2QvfUdowR_45iPEAejs6Qpnz2VLGXvB20adBQNsG7ojOgdQjPuv0LBp25fUh-vClhFZ0oeA&ved=2ahUKEwihrOSM4-SWAxXHGFkFHSrSLJUQ8tMDegQIWRAK",
+   "6": "https://www.google.com/search?q=%22Pennsbury+High+School%22+Pennsylvania&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvHWEPKxtYCxMbmEL4YVnPLyYIFgA:1789069459277&ei=kwijauGWEMex5NoPqqSzqQk&start=50&sa=N&sstk=AS6-VmJqz5fdh1eSbJCROFFstwpJNnr2QvfUdowR_45iPEAejs6Qpnz2VLGXvB20adBQNsG7ojOgdQjPuv0LBp25fUh-vClhFZ0oeA&ved=2ahUKEwihrOSM4-SWAxXHGFkFHSrSLJUQ8tMDegQIWRAM",
+   "7": "https://www.google.com/search?q=%22Pennsbury+High+School%22+Pennsylvania&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvHWEPKxtYCxMbmEL4YVnPLyYIFgA:1789069459277&ei=kwijauGWEMex5NoPqqSzqQk&start=60&sa=N&sstk=AS6-VmJqz5fdh1eSbJCROFFstwpJNnr2QvfUdowR_45iPEAejs6Qpnz2VLGXvB20adBQNsG7ojOgdQjPuv0LBp25fUh-vClhFZ0oeA&ved=2ahUKEwihrOSM4-SWAxXHGFkFHSrSLJUQ8tMDegQIWRAO",
+   "8": "https://www.google.com/search?q=%22Pennsbury+High+School%22+Pennsylvania&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvHWEPKxtYCxMbmEL4YVnPLyYIFgA:1789069459277&ei=kwijauGWEMex5NoPqqSzqQk&start=70&sa=N&sstk=AS6-VmJqz5fdh1eSbJCROFFstwpJNnr2QvfUdowR_45iPEAejs6Qpnz2VLGXvB20adBQNsG7ojOgdQjPuv0LBp25fUh-vClhFZ0oeA&ved=2ahUKEwihrOSM4-SWAxXHGFkFHSrSLJUQ8tMDegQIWRAQ",
+   "9": "https://www.google.com/search?q=%22Pennsbury+High+School%22+Pennsylvania&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvHWEPKxtYCxMbmEL4YVnPLyYIFgA:1789069459277&ei=kwijauGWEMex5NoPqqSzqQk&start=80&sa=N&sstk=AS6-VmJqz5fdh1eSbJCROFFstwpJNnr2QvfUdowR_45iPEAejs6Qpnz2VLGXvB20adBQNsG7ojOgdQjPuv0LBp25fUh-vClhFZ0oeA&ved=2ahUKEwihrOSM4-SWAxXHGFkFHSrSLJUQ8tMDegQIWRAS",
+   "10": "https://www.google.com/search?q=%22Pennsbury+High+School%22+Pennsylvania&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvHWEPKxtYCxMbmEL4YVnPLyYIFgA:1789069459277&ei=kwijauGWEMex5NoPqqSzqQk&start=90&sa=N&sstk=AS6-VmJqz5fdh1eSbJCROFFstwpJNnr2QvfUdowR_45iPEAejs6Qpnz2VLGXvB20adBQNsG7ojOgdQjPuv0LBp25fUh-vClhFZ0oeA&ved=2ahUKEwihrOSM4-SWAxXHGFkFHSrSLJUQ8tMDegQIWRAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pennsbury+High+School%22+Pennsylvania&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pennsbury+High+School%22+Pennsylvania&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pennsbury+High+School%22+Pennsylvania&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pennsbury+High+School%22+Pennsylvania&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pennsbury+High+School%22+Pennsylvania&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pennsbury+High+School%22+Pennsylvania&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pennsbury+High+School%22+Pennsylvania&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pennsbury+High+School%22+Pennsylvania&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pennsbury+High+School%22+Pennsylvania&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pennsbury+High+School%22+Pennsylvania&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pennsbury+High+School%22+Pennsylvania&start=90"
+  }
+ }
+}

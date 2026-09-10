@@ -1,0 +1,393 @@
+{
+ "search_information": {
+  "query_displayed": "\"Homestead High School\" California",
+  "total_results": 85400,
+  "time_taken_displayed": 0.32,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Homestead High School",
+  "type": "Public school in Cupertino, California",
+  "entity_type": "local_nav",
+  "kgmid": "/m/05ds6x",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/05ds6x&hl=en-US&q=Homestead+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F05ds6x&q=Homestead+High+School",
+  "place_id": "ChIJf57tZDC0j4ARXYTN0nN6GtM",
+  "website": "https://hhs.fuhsd.org/",
+  "description": "Homestead High School is a four-year public high school serving western Sunnyvale, southern Los Altos, and northwestern Cupertino, in Santa Clara County, California, United States. Established in 1962, the school serves 2,405 students in grades nine to twelve as part of the Fremont Union High School District.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa30a7c7dcfbe85b5cb421d/images/zOZNeZpZ5EaVrUw7PlEUL3vxiv_YjLBQnLcXvtN3iTc.webp",
+   "link": "https://www.google.com/maps/place/Homestead+High+School/data=!4m2!3m1!1s0x0:0xd31a7a73d2cd845d?sa=X&ved=2ahUKEwixt8f_5OSWAxXP8MkDHaPQPBEQ_BJ6BAgYEAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Homestead_High_School_(California)"
+  },
+  "address": "21370 Homestead Rd, Cupertino, CA 95014",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=homestead+high+school+address&ludocid=15211605329273783389&sa=X&ved=2ahUKEwixt8f_5OSWAxXP8MkDHaPQPBEQ6BN6BAgiEAI"
+   }
+  ],
+  "colors": "White, Green",
+  "colors_links": [
+   {
+    "text": "White",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpibuedk9OYloeXAYNSoz7VYnCfMOgei63SgkOJyo7pYY9xgsKZ2waGRNF4676VVsTeOQrvY6Jy-UCPV7SDTZOzKVBXvHnSL9XDulbXe9ffTK1C10_cZOP0dFAP8MnkPQWhYfBYp23TAiUm33qfg8-2b4l3t2JjYIiInXCASgpoJHhfHEXVEbFxp49ndQgx5MnMXrCVI%3D&sa=X&ved=2ahUKEwixt8f_5OSWAxXP8MkDHaPQPBEQmxN6BAgkEAI"
+   },
+   {
+    "text": "Green",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpugluVS_H7pu657Qyj6KrTqp3gx1TYc7YxhZOMLkimwN_9e814ZnZN6dwMoqYyyXpeDpLxY-lW3Sj5gesY9Ov2bkHBGTgL8IG7FXqPfr_FF6ycb-dPNme748qlpL0NdqELD92HUplJ15RcD3m8V7dUgqtV9UqY4oyHFZBIBup6vHWJAmGOHiRfyIx5aVDiGlIe8P2gI%3D&sa=X&ved=2ahUKEwixt8f_5OSWAxXP8MkDHaPQPBEQmxN6BAgkEAM"
+   }
+  ],
+  "founded": "1962",
+  "mascot": "Mustang",
+  "mascot_links": [
+   {
+    "text": "Mustang",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0eyzAWKNpF4V_ghkQZgxapgM50fqq8ysIs5xCQy9LJI0UvFvXeWqdo8bZTGZoOmPzHO7Ys7y5OjLZvCe3ZUhkcODC4QgFik-IADbHSaPbXjI7ld283UHSpcA2m_3s5TkKKIanTx3hQ1OFMYzfwzejN_2jICI&sa=X&ved=2ahUKEwixt8f_5OSWAxXP8MkDHaPQPBEQmxN6BAglEAI"
+   }
+  ],
+  "phone": "(408) 522-2500",
+  "raw_hours": "Open \u00b7 Closes 4 PM",
+  "hours": {
+   "thursday": {
+    "opens": "8\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "friday": {
+    "opens": "8\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "8\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "tuesday": {
+    "opens": "8\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "wednesday": {
+    "opens": "8\u202fAM",
+    "closes": "4\u202fPM"
+   }
+  },
+  "unclaimed_listing": true,
+  "profiles": [
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/HomesteadHighSchoolOrchestra",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Homestead+High+School%22+California",
+    "image": "https://serpapi.com/searches/6aa30a7c7dcfbe85b5cb421d/images/zOZNeZpZ5EaVrUw7PlEUL3kIGITtCYEycS_iIXvXoHcflsrFKqxa0BpUPJE6CBrg.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "What celebrities went to Homestead High School?",
+   "type": "ai_overview",
+   "page_token": "Q1lnpnicHdBRbpswAABQ7TL9bAKITIkUTfXAJKhAccAY_0yOTQLYBidhgfDXK-wMO1VP06oneNJ7_6-aTn78-FcPg7ltFotxHJ_PfX9W1TPv9YLdHh1fcKbUkXG5Wf1cWb9OfOvfOfh95SDNjcEeWmYQFpWEHdeUJQQDnMfqIJczK6h3aEu78vazCJAb2SqL5DTGKnRLVTp8uabMMT53-MDzdc18c6HK7Eodvx017skSD9UubFD7YkUKJlUwhVy7DnGgKQsxYGiSCGKJZgCwb1aZHVulBe5JEL69FvuJ4v5REHxLfD6gjl6ZzafEE6kgiogcjq_FBAReh-kMYNoCSzjqggksM-VbxzzODtIliCg_64BVBUOAvS-mFteUwEtJwp2QIiZ2PSYeSo8z3VdaIYT6Js3RzFul8S4MGBZNnqG_aWPlkVPvYz26zJ4OtIWqksKl49OJ37fO0_f19s9JDxtz7c-fFeeOOw",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Q1lnpnicHdBRbpswAABQ7TL9bAKITIkUTfXAJKhAccAY_0yOTQLYBidhgfDXK-wMO1VP06oneNJ7_6-aTn78-FcPg7ltFotxHJ_PfX9W1TPv9YLdHh1fcKbUkXG5Wf1cWb9OfOvfOfh95SDNjcEeWmYQFpWEHdeUJQQDnMfqIJczK6h3aEu78vazCJAb2SqL5DTGKnRLVTp8uabMMT53-MDzdc18c6HK7Eodvx017skSD9UubFD7YkUKJlUwhVy7DnGgKQsxYGiSCGKJZgCwb1aZHVulBe5JEL69FvuJ4v5REHxLfD6gjl6ZzafEE6kgiogcjq_FBAReh-kMYNoCSzjqggksM-VbxzzODtIliCg_64BVBUOAvS-mFteUwEtJwp2QIiZ2PSYeSo8z3VdaIYT6Js3RzFul8S4MGBZNnqG_aWPlkVPvYz26zJ4OtIWqksKl49OJ37fO0_f19s9JDxtz7c-fFeeOOw",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS01YRTVkelprZFhZemNXMUNTSFpyYUZGT2R6bE5aazVyTUhCaU9VYzNNa1pQU2tkd2RrRktiSE52ZGxWWU1sUldRMDVWWm5JMU1DMXlNa3hEVkhwNmJVdEVOa2xJUWpGTE5XMW9UMmc0YVZOVGJtOHdVbDl3UzBKRlVSSVhhMEZ4YW1GeVIzWkhUVjlvY0RnMFVHODJTSHBwVVVVYUlrRkVjM0k1WmxKaWJXaGFTbk5zTlRFeFducHNNa1UwYlVGUU5YWnVNa3RHUVdjIiwiZmN2IjoiMyIsImVpIjoia0FxamFyR3ZHTV9ocDg0UG82SHppUUUiLCJxYyI6IkNpQm9iMjFsYzNSbFlXUWdhR2xuYUNCelkyaHZiMndnWTJGc2FXWnZjbTVwWVJBQWZhS1hPajgiLCJxdWVzdGlvbiI6IldoYXQgY2VsZWJyaXRpZXMgd2VudCB0byBIb21lc3RlYWQgSGlnaCBTY2hvb2w/IiwibGsiOiJHaTUzYUdGMElHTmxiR1ZpY21sMGFXVnpJSGRsYm5RZ2RHOGdhRzl0WlhOMFpXRmtJR2hwWjJnZ2MyTm9iMjlzIiwiYnMiOiJjNDJQTVFyQ1FCQkZzZDNLT3RXb2hRaWk0Z0dNWWhOckMtdDFNMllIazUyd081b0RlSEZqSUJJaEFic3Azbl9fanpKcWZiRmF3R0NPVjA5Q0dLQkNKeUFNQ1JjWUJIVUtDV1VXenNZeTVfRjJFNjJxb1lqOVJ1d25FcHFJT3FscHdoVmt6Q2xRR1BMT29vbnRVUDJxMTBqRnplQ2FFSXRRY0JBb2ZVMVNSdndJOVUxUExkaFZBems0NnB4dTdCM3BlTHVQZHRVX2lrN3ZSMkctQ3VYVW9SM1ItOHc4Z05mdVRpNXJ1aDhsZWlISHk1OFppMmplLXlPWWxtOGw0OUViIiwiaWQiOiJmY19rQXFqYXJHdkdNX2hwODRQbzZIemlRRV81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS01YRTVkelprZFhZemNXMUNTSFpyYUZGT2R6bE5aazVyTUhCaU9VYzNNa1pQU2tkd2RrRktiSE52ZGxWWU1sUldRMDVWWm5JMU1DMXlNa3hEVkhwNmJVdEVOa2xJUWpGTE5XMW9UMmc0YVZOVGJtOHdVbDl3UzBKRlVSSVhhMEZ4YW1GeVIzWkhUVjlvY0RnMFVHODJTSHBwVVVVYUlrRkVjM0k1WmxKaWJXaGFTbk5zTlRFeFducHNNa1UwYlVGUU5YWnVNa3RHUVdjIiwiZmN2IjoiMyIsImVpIjoia0FxamFyR3ZHTV9ocDg0UG82SHppUUUiLCJxYyI6IkNpQm9iMjFsYzNSbFlXUWdhR2xuYUNCelkyaHZiMndnWTJGc2FXWnZjbTVwWVJBQWZhS1hPajgiLCJxdWVzdGlvbiI6IldoYXQgY2VsZWJyaXRpZXMgd2VudCB0byBIb21lc3RlYWQgSGlnaCBTY2hvb2w%2FIiwibGsiOiJHaTUzYUdGMElHTmxiR1ZpY21sMGFXVnpJSGRsYm5RZ2RHOGdhRzl0WlhOMFpXRmtJR2hwWjJnZ2MyTm9iMjlzIiwiYnMiOiJjNDJQTVFyQ1FCQkZzZDNLT3RXb2hRaWk0Z0dNWWhOckMtdDFNMllIazUyd081b0RlSEZqSUJJaEFic3Azbl9fanpKcWZiRmF3R0NPVjA5Q0dLQkNKeUFNQ1JjWUJIVUtDV1VXenNZeTVfRjJFNjJxb1lqOVJ1d25FcHFJT3FscHdoVmt6Q2xRR1BMT29vbnRVUDJxMTBqRnplQ2FFSXRRY0JBb2ZVMVNSdndJOVUxUExkaFZBems0NnB4dTdCM3BlTHVQZHRVX2lrN3ZSMkctQ3VYVW9SM1ItOHc4Z05mdVRpNXJ1aDhsZWlISHk1OFppMmplLXlPWWxtOGw0OUViIiwiaWQiOiJmY19rQXFqYXJHdkdNX2hwODRQbzZIemlRRV81In0%3D"
+  },
+  {
+   "question": "How good is Homestead High School?",
+   "type": "ai_overview",
+   "page_token": "J8jmUXicHdBbctowFADQyWbyGSzANGGG6YyRZXCxXV9bV0I_HUcCFCM_EigG_rKXrKqraadLOOfzy721xz8PF3s-96f5aDQMw9Oh6w5u96S7ZlSdbq0e6cq510of57NvM_J9rxfh73WwfF8HOe97pOCVkW020vUg0gFrCDMalwW__qhWZraLhimQl0hT9MGLOdBgWxDH08nWQxmkSGyl0bpC-Bcj1Bg8Q_IxU0JqT9SsFI7dsDRTvmKMc9YrCn0REV4Jfwb0ONlJu0ydipNGBYlwJyWer7w2A7bO51R5yQoyju4nx2SakriGe-wJBFkUJBPiulSMiQ2-JBmLN9CYW8qxDa35yCV738p4ZY4mlWM7ZBTy17ta7xoHAN1bzuGua9dwgSRvsChaO0mi0JeeumWl7UqKp3-esCrxkuePe31ZTB7_fy5-7ZvzvP_oDn8BOKOBbQ",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=J8jmUXicHdBbctowFADQyWbyGSzANGGG6YyRZXCxXV9bV0I_HUcCFCM_EigG_rKXrKqraadLOOfzy721xz8PF3s-96f5aDQMw9Oh6w5u96S7ZlSdbq0e6cq510of57NvM_J9rxfh73WwfF8HOe97pOCVkW020vUg0gFrCDMalwW__qhWZraLhimQl0hT9MGLOdBgWxDH08nWQxmkSGyl0bpC-Bcj1Bg8Q_IxU0JqT9SsFI7dsDRTvmKMc9YrCn0REV4Jfwb0ONlJu0ydipNGBYlwJyWer7w2A7bO51R5yQoyju4nx2SakriGe-wJBFkUJBPiulSMiQ2-JBmLN9CYW8qxDa35yCV738p4ZY4mlWM7ZBTy17ta7xoHAN1bzuGua9dwgSRvsChaO0mi0JeeumWl7UqKp3-esCrxkuePe31ZTB7_fy5-7ZvzvP_oDn8BOKOBbQ",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS01YRTVkelprZFhZemNXMUNTSFpyYUZGT2R6bE5aazVyTUhCaU9VYzNNa1pQU2tkd2RrRktiSE52ZGxWWU1sUldRMDVWWm5JMU1DMXlNa3hEVkhwNmJVdEVOa2xJUWpGTE5XMW9UMmc0YVZOVGJtOHdVbDl3UzBKRlVSSVhhMEZ4YW1GeVIzWkhUVjlvY0RnMFVHODJTSHBwVVVVYUlrRkVjM0k1WmxKaWJXaGFTbk5zTlRFeFducHNNa1UwYlVGUU5YWnVNa3RHUVdjIiwiZmN2IjoiMyIsImVpIjoia0FxamFyR3ZHTV9ocDg0UG82SHppUUUiLCJxYyI6IkNpQm9iMjFsYzNSbFlXUWdhR2xuYUNCelkyaHZiMndnWTJGc2FXWnZjbTVwWVJBQWZhS1hPajgiLCJxdWVzdGlvbiI6IkhvdyBnb29kIGlzIEhvbWVzdGVhZCBIaWdoIFNjaG9vbD8iLCJsayI6IkdpRm9iM2NnWjI5dlpDQnBjeUJvYjIxbGMzUmxZV1FnYUdsbmFDQnpZMmh2YjJ3IiwiYnMiOiJjNDJQTVFyQ1FCQkZzZDNLT3RXb2hRaWk0Z0dNWWhOckMtdDFNMllIazUyd081b0RlSEZqSUJJaEFic3Azbl9fanpKcWZiRmF3R0NPVjA5Q0dLQkNKeUFNQ1JjWUJIVUtDV1VXenNZeTVfRjJFNjJxb1lqOVJ1d25FcHFJT3FscHdoVmt6Q2xRR1BMT29vbnRVUDJxMTBqRnplQ2FFSXRRY0JBb2ZVMVNSdndJOVUxUExkaFZBems0NnB4dTdCM3BlTHVQZHRVX2lrN3ZSMkctQ3VYVW9SM1ItOHc4Z05mdVRpNXJ1aDhsZWlISHk1OFppMmplLXlPWWxtOGw0OUViIiwiaWQiOiJmY19rQXFqYXJHdkdNX2hwODRQbzZIemlRRV81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS01YRTVkelprZFhZemNXMUNTSFpyYUZGT2R6bE5aazVyTUhCaU9VYzNNa1pQU2tkd2RrRktiSE52ZGxWWU1sUldRMDVWWm5JMU1DMXlNa3hEVkhwNmJVdEVOa2xJUWpGTE5XMW9UMmc0YVZOVGJtOHdVbDl3UzBKRlVSSVhhMEZ4YW1GeVIzWkhUVjlvY0RnMFVHODJTSHBwVVVVYUlrRkVjM0k1WmxKaWJXaGFTbk5zTlRFeFducHNNa1UwYlVGUU5YWnVNa3RHUVdjIiwiZmN2IjoiMyIsImVpIjoia0FxamFyR3ZHTV9ocDg0UG82SHppUUUiLCJxYyI6IkNpQm9iMjFsYzNSbFlXUWdhR2xuYUNCelkyaHZiMndnWTJGc2FXWnZjbTVwWVJBQWZhS1hPajgiLCJxdWVzdGlvbiI6IkhvdyBnb29kIGlzIEhvbWVzdGVhZCBIaWdoIFNjaG9vbD8iLCJsayI6IkdpRm9iM2NnWjI5dlpDQnBjeUJvYjIxbGMzUmxZV1FnYUdsbmFDQnpZMmh2YjJ3IiwiYnMiOiJjNDJQTVFyQ1FCQkZzZDNLT3RXb2hRaWk0Z0dNWWhOckMtdDFNMllIazUyd081b0RlSEZqSUJJaEFic3Azbl9fanpKcWZiRmF3R0NPVjA5Q0dLQkNKeUFNQ1JjWUJIVUtDV1VXenNZeTVfRjJFNjJxb1lqOVJ1d25FcHFJT3FscHdoVmt6Q2xRR1BMT29vbnRVUDJxMTBqRnplQ2FFSXRRY0JBb2ZVMVNSdndJOVUxUExkaFZBems0NnB4dTdCM3BlTHVQZHRVX2lrN3ZSMkctQ3VYVW9SM1ItOHc4Z05mdVRpNXJ1aDhsZWlISHk1OFppMmplLXlPWWxtOGw0OUViIiwiaWQiOiJmY19rQXFqYXJHdkdNX2hwODRQbzZIemlRRV81In0%3D"
+  },
+  {
+   "question": "What is the most prestigious private High School in California?",
+   "type": "ai_overview",
+   "page_token": "Pl9Tz3icHdHPbpswAIBx7WV6bAxRuzZSNDUEwxg4weA_-DKBHeKAwaxBkHDbu-y8B-rTrNrhe4Cfvt9_zKVvP7781eM4XDer1TzPj2drz-b0KG23Kq_3Xq5kaUxVynbz_PXZ-VbLrW9nz7vOu5QMA91jkIdIZ8vOO5FXJye0ThpzRE0EihwDHIj4BE0tycuo1viCg7FVuY5LQEbVI5qRlzWBepFm9yPxzboMcaZAZItFX6sAuhLorugESA2d8vDNwaF_lxwfmf-UxIQOLERAuuKoGH1iHNok1Bq7aCJguBwCgaoGknyPmryTS9neWtlH9EAUwL3QCqK95OiQMuglTnTPiJrEAjEN7B1xNUlGXcxoh11xk-0Yf2Yrbg5Jo7yKKUy46JMQ3URLPt2vua_Ve8rhr4JHoWoV4q6eD3ucVov4fuoMxtheUoIX2ZiOuKlbBtQpDDbM9-eEkpsilNMOHRM3mjIG4zR9qOW0XT_8_7D9WXfjZni3538Gepfk",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Pl9Tz3icHdHPbpswAIBx7WV6bAxRuzZSNDUEwxg4weA_-DKBHeKAwaxBkHDbu-y8B-rTrNrhe4Cfvt9_zKVvP7781eM4XDer1TzPj2drz-b0KG23Kq_3Xq5kaUxVynbz_PXZ-VbLrW9nz7vOu5QMA91jkIdIZ8vOO5FXJye0ThpzRE0EihwDHIj4BE0tycuo1viCg7FVuY5LQEbVI5qRlzWBepFm9yPxzboMcaZAZItFX6sAuhLorugESA2d8vDNwaF_lxwfmf-UxIQOLERAuuKoGH1iHNok1Bq7aCJguBwCgaoGknyPmryTS9neWtlH9EAUwL3QCqK95OiQMuglTnTPiJrEAjEN7B1xNUlGXcxoh11xk-0Yf2Yrbg5Jo7yKKUy46JMQ3URLPt2vua_Ve8rhr4JHoWoV4q6eD3ucVov4fuoMxtheUoIX2ZiOuKlbBtQpDDbM9-eEkpsilNMOHRM3mjIG4zR9qOW0XT_8_7D9WXfjZni3538Gepfk",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS01YRTVkelprZFhZemNXMUNTSFpyYUZGT2R6bE5aazVyTUhCaU9VYzNNa1pQU2tkd2RrRktiSE52ZGxWWU1sUldRMDVWWm5JMU1DMXlNa3hEVkhwNmJVdEVOa2xJUWpGTE5XMW9UMmc0YVZOVGJtOHdVbDl3UzBKRlVSSVhhMEZ4YW1GeVIzWkhUVjlvY0RnMFVHODJTSHBwVVVVYUlrRkVjM0k1WmxKaWJXaGFTbk5zTlRFeFducHNNa1UwYlVGUU5YWnVNa3RHUVdjIiwiZmN2IjoiMyIsImVpIjoia0FxamFyR3ZHTV9ocDg0UG82SHppUUUiLCJxYyI6IkNpQm9iMjFsYzNSbFlXUWdhR2xuYUNCelkyaHZiMndnWTJGc2FXWnZjbTVwWVJBQWZhS1hPajgiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIG1vc3QgcHJlc3RpZ2lvdXMgcHJpdmF0ZSBIaWdoIFNjaG9vbCBpbiBDYWxpZm9ybmlhPyIsImxrIjoiY3czR3dRMkFNQXdEd0QxNGVSSjJpYXJRV0NvMWFnS3NEX2U2YlhfRENreFVPRTVsNFZxZXhVN2QtWi1QbFNQWUE5bENHdUJFczhGRGE5SS0iLCJicyI6ImM0MlBNUXJDUUJCRnNkM0tPdFdvaFFpaTRnR01ZaE5yQy10MU0yWUhrNTJ3TzVvRGVIRmpJQkloQWJzcDNuX19qekpxZmJGYXdHQ09WMDlDR0tCQ0p5QU1DUmNZQkhVS0NXVVd6c1l5NV9GMkU2MnFvWWo5UnV3bkVwcUlPcWxwd2hWa3pDbFFHUExPb29udFVQMnExMGpGemVDYUVJdFFjQkFvZlUxU1J2d0k5VTFQTGRoVkF6azQ2cHh1N0IzcGVMdVBkdFVfaWs3dlIyRy1DdVhVb1IzUi04dzhnTmZ1VGk1cnVoOGxlaUhIeTU4WmkyamUteU9ZbG04bDQ5RWIiLCJpZCI6ImZjX2tBcWphckd2R01faHA4NFBvNkh6aVFFXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS01YRTVkelprZFhZemNXMUNTSFpyYUZGT2R6bE5aazVyTUhCaU9VYzNNa1pQU2tkd2RrRktiSE52ZGxWWU1sUldRMDVWWm5JMU1DMXlNa3hEVkhwNmJVdEVOa2xJUWpGTE5XMW9UMmc0YVZOVGJtOHdVbDl3UzBKRlVSSVhhMEZ4YW1GeVIzWkhUVjlvY0RnMFVHODJTSHBwVVVVYUlrRkVjM0k1WmxKaWJXaGFTbk5zTlRFeFducHNNa1UwYlVGUU5YWnVNa3RHUVdjIiwiZmN2IjoiMyIsImVpIjoia0FxamFyR3ZHTV9ocDg0UG82SHppUUUiLCJxYyI6IkNpQm9iMjFsYzNSbFlXUWdhR2xuYUNCelkyaHZiMndnWTJGc2FXWnZjbTVwWVJBQWZhS1hPajgiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIG1vc3QgcHJlc3RpZ2lvdXMgcHJpdmF0ZSBIaWdoIFNjaG9vbCBpbiBDYWxpZm9ybmlhPyIsImxrIjoiY3czR3dRMkFNQXdEd0QxNGVSSjJpYXJRV0NvMWFnS3NEX2U2YlhfRENreFVPRTVsNFZxZXhVN2QtWi1QbFNQWUE5bENHdUJFczhGRGE5SS0iLCJicyI6ImM0MlBNUXJDUUJCRnNkM0tPdFdvaFFpaTRnR01ZaE5yQy10MU0yWUhrNTJ3TzVvRGVIRmpJQkloQWJzcDNuX19qekpxZmJGYXdHQ09WMDlDR0tCQ0p5QU1DUmNZQkhVS0NXVVd6c1l5NV9GMkU2MnFvWWo5UnV3bkVwcUlPcWxwd2hWa3pDbFFHUExPb29udFVQMnExMGpGemVDYUVJdFFjQkFvZlUxU1J2d0k5VTFQTGRoVkF6azQ2cHh1N0IzcGVMdVBkdFVfaWs3dlIyRy1DdVhVb1IzUi04dzhnTmZ1VGk1cnVoOGxlaUhIeTU4WmkyamUteU9ZbG04bDQ5RWIiLCJpZCI6ImZjX2tBcWphckd2R01faHA4NFBvNkh6aVFFXzUifQ%3D%3D"
+  },
+  {
+   "question": "What is Homestead High School's ranking in Cupertino, California?",
+   "type": "ai_overview",
+   "page_token": "ApkBoXicHdFRbpswAABQ7TL9bLApmRIpqkQItGS4s8EG_DOBTULANiQhgfC3u-x7B9ppWu0GT3q__6iTaf99-1sPQ39dLxbjOD4fu-6oqmfR6UVxfRixEIVSZSHa9fL7ErwexGbXjdvtdXQx7XvmEStO0FAwhKpE4dK4tkz8SxwAB83uiTT0JaZkojC8UU9uiREO1_UJa7aP4PQo9RXGu9qgNmRRoz7y1KeV508iWN04BD_LN9JT7WOaKSis94kAqRPa2Rmc2I80BJGPtGyZ5trh8gEgMvJeWCtPpgMUzCc8iGzRggJpAHgq81SjcwkZy1tnWdj8XtioKa3hTAxPIutoJ3PdU9u_YYNAnvBJQqaZWs2YrlSayD3KSFIl4Tn_cuSqTysaDUUARkqdfFfLC878c56Fb7KVKIP1-OERXM78vdKKENKdMCWzaJRmAep44-7ztg5LOPTS1FFquBNbQ8-t6UXqycX46SDuG_vp_8Pm10EP6_7SHT8BCrqYAQ",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ApkBoXicHdFRbpswAABQ7TL9bLApmRIpqkQItGS4s8EG_DOBTULANiQhgfC3u-x7B9ppWu0GT3q__6iTaf99-1sPQ39dLxbjOD4fu-6oqmfR6UVxfRixEIVSZSHa9fL7ErwexGbXjdvtdXQx7XvmEStO0FAwhKpE4dK4tkz8SxwAB83uiTT0JaZkojC8UU9uiREO1_UJa7aP4PQo9RXGu9qgNmRRoz7y1KeV508iWN04BD_LN9JT7WOaKSis94kAqRPa2Rmc2I80BJGPtGyZ5trh8gEgMvJeWCtPpgMUzCc8iGzRggJpAHgq81SjcwkZy1tnWdj8XtioKa3hTAxPIutoJ3PdU9u_YYNAnvBJQqaZWs2YrlSayD3KSFIl4Tn_cuSqTysaDUUARkqdfFfLC878c56Fb7KVKIP1-OERXM78vdKKENKdMCWzaJRmAep44-7ztg5LOPTS1FFquBNbQ8-t6UXqycX46SDuG_vp_8Pm10EP6_7SHT8BCrqYAQ",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS01YRTVkelprZFhZemNXMUNTSFpyYUZGT2R6bE5aazVyTUhCaU9VYzNNa1pQU2tkd2RrRktiSE52ZGxWWU1sUldRMDVWWm5JMU1DMXlNa3hEVkhwNmJVdEVOa2xJUWpGTE5XMW9UMmc0YVZOVGJtOHdVbDl3UzBKRlVSSVhhMEZ4YW1GeVIzWkhUVjlvY0RnMFVHODJTSHBwVVVVYUlrRkVjM0k1WmxKaWJXaGFTbk5zTlRFeFducHNNa1UwYlVGUU5YWnVNa3RHUVdjIiwiZmN2IjoiMyIsImVpIjoia0FxamFyR3ZHTV9ocDg0UG82SHppUUUiLCJxYyI6IkNpQm9iMjFsYzNSbFlXUWdhR2xuYUNCelkyaHZiMndnWTJGc2FXWnZjbTVwWVJBQWZhS1hPajgiLCJxdWVzdGlvbiI6IldoYXQgaXMgSG9tZXN0ZWFkIEhpZ2ggU2Nob29sJ3MgcmFua2luZyBpbiBDdXBlcnRpbm8sIENhbGlmb3JuaWE/IiwibGsiOiJHaWRvYjIxbGMzUmxZV1FnYUdsbmFDQnpZMmh2YjJ3Z1kzVndaWEowYVc1dklISmhibXRwYm1jIiwiYnMiOiJjNDJQTVFyQ1FCQkZzZDNLT3RXb2hRaWk0Z0dNWWhOckMtdDFNMllIazUyd081b0RlSEZqSUJJaEFic3Azbl9fanpKcWZiRmF3R0NPVjA5Q0dLQkNKeUFNQ1JjWUJIVUtDV1VXenNZeTVfRjJFNjJxb1lqOVJ1d25FcHFJT3FscHdoVmt6Q2xRR1BMT29vbnRVUDJxMTBqRnplQ2FFSXRRY0JBb2ZVMVNSdndJOVUxUExkaFZBems0NnB4dTdCM3BlTHVQZHRVX2lrN3ZSMkctQ3VYVW9SM1ItOHc4Z05mdVRpNXJ1aDhsZWlISHk1OFppMmplLXlPWWxtOGw0OUViIiwiaWQiOiJmY19rQXFqYXJHdkdNX2hwODRQbzZIemlRRV81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS01YRTVkelprZFhZemNXMUNTSFpyYUZGT2R6bE5aazVyTUhCaU9VYzNNa1pQU2tkd2RrRktiSE52ZGxWWU1sUldRMDVWWm5JMU1DMXlNa3hEVkhwNmJVdEVOa2xJUWpGTE5XMW9UMmc0YVZOVGJtOHdVbDl3UzBKRlVSSVhhMEZ4YW1GeVIzWkhUVjlvY0RnMFVHODJTSHBwVVVVYUlrRkVjM0k1WmxKaWJXaGFTbk5zTlRFeFducHNNa1UwYlVGUU5YWnVNa3RHUVdjIiwiZmN2IjoiMyIsImVpIjoia0FxamFyR3ZHTV9ocDg0UG82SHppUUUiLCJxYyI6IkNpQm9iMjFsYzNSbFlXUWdhR2xuYUNCelkyaHZiMndnWTJGc2FXWnZjbTVwWVJBQWZhS1hPajgiLCJxdWVzdGlvbiI6IldoYXQgaXMgSG9tZXN0ZWFkIEhpZ2ggU2Nob29sJ3MgcmFua2luZyBpbiBDdXBlcnRpbm8sIENhbGlmb3JuaWE%2FIiwibGsiOiJHaWRvYjIxbGMzUmxZV1FnYUdsbmFDQnpZMmh2YjJ3Z1kzVndaWEowYVc1dklISmhibXRwYm1jIiwiYnMiOiJjNDJQTVFyQ1FCQkZzZDNLT3RXb2hRaWk0Z0dNWWhOckMtdDFNMllIazUyd081b0RlSEZqSUJJaEFic3Azbl9fanpKcWZiRmF3R0NPVjA5Q0dLQkNKeUFNQ1JjWUJIVUtDV1VXenNZeTVfRjJFNjJxb1lqOVJ1d25FcHFJT3FscHdoVmt6Q2xRR1BMT29vbnRVUDJxMTBqRnplQ2FFSXRRY0JBb2ZVMVNSdndJOVUxUExkaFZBems0NnB4dTdCM3BlTHVQZHRVX2lrN3ZSMkctQ3VYVW9SM1ItOHc4Z05mdVRpNXJ1aDhsZWlISHk1OFppMmplLXlPWWxtOGw0OUViIiwiaWQiOiJmY19rQXFqYXJHdkdNX2hwODRQbzZIemlRRV81In0%3D"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Homestead High School: Home",
+   "link": "https://hhs.fuhsd.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTgHrOzAVuIGepSgXPX5M6iVZX5_L5pdD0mPocrrToWLCV1nIqMjYiIjsuEN1wMCv8r_KM55juujCSX27d1pCwHyJMoyR26kLrbLyz02qUg&ved=2ahUKEwixt8f_5OSWAxXP8MkDHaPQPBEQFnoECEUQAQ&uoh=1",
+   "displayed_link": "https://hhs.fuhsd.org",
+   "favicon": "https://serpapi.com/images/i/UklGRtoBAABXRUJQVlA4IM4BAACwCQCdASogACAAPtE-tFooIigoFAEAGglsAJ0y1T0Px6jHPR2SAjQXLjqBCqvqkZxfoXgAfsB7F_7HJZUGACxx9AruMfOxqPirMcdUuVwLgxRbLqULAAD-_SxXgKaFYaiPua8lN8trzhwkjI55HF_C5R22_FxiH4v7ehX4KTt7rg7kazHEJL2TGXM41pNK93uuau2P39sPmKdQGP7_E626PEqfI3V4Rf1ZTCzZKFGHwBIE4QxuHInsE5QZI--OHW73y7T1fuftEDEEEoQDdSJnrPr-_yl7_EmiCxns1FWBFm7qRWEpjAz-nTd67Xv5U25IqMqvX3NGn7XMrZDHt3S5xIDiXyHn4qFEjpjYFv1w7edceNgRG63Uf2lfq0ZGfwf7L_m0bFywZjwB_crXeH_DQLpFdIDtGJF3eNKfSMif5x335c8XCOMHywB0dydx553D13eubTNvbeTnYk-1zUyh0tkyBhTMkwVX7BNvW6i1udHi3wbRFbyHv_V45-X4K0vNEtH_-LoGIxjpSFKXkEAm1Vgs96GCc4az5W_Y5FymawFXeAVPnrRRLQ-XzXitj9vg0ZyCpVt4Kb7pqZdohV9kBLTrS4exixSJ9O4IAAA.webp",
+   "snippet": "Homestead High School. 21370 Homestead Road Cupertino, CA 95014. 408.522.2500. Fax: 408.522.2518. Attendance: 408.522.2515. Translate.",
+   "snippet_highlighted_words": [
+    "Homestead High School",
+    "CA"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "Calendar and Events",
+      "link": "https://hhs.fuhsd.org/about-us/general-information/calendar-and-events",
+      "snippet": "Homestead High School. 21370 Homestead Road Cupertino ..."
+     },
+     {
+      "title": "Directory",
+      "link": "https://hhs.fuhsd.org/about-us/general-information/directory",
+      "snippet": "Homestead High School. 21370 Homestead Road Cupertino ..."
+     },
+     {
+      "title": "About Us",
+      "link": "https://hhs.fuhsd.org/about-us",
+      "snippet": "Located in the heart of Silicon Valley, Homestead High School ..."
+     },
+     {
+      "title": "Bell Schedules",
+      "link": "https://hhs.fuhsd.org/about-us/general-information/bell-schedule",
+      "snippet": "Homestead High School. 21370 Homestead Road Cupertino ..."
+     },
+     {
+      "title": "Academics",
+      "link": "https://hhs.fuhsd.org/academics",
+      "snippet": "At Homestead High School, our dedicated teachers and staff are ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Homestead High School. 21370 Homestead Road Cupertino, CA 95014. 408.522.2500. Fax: 408.522.2518. Attendance: 408.522.2515. Translate.",
+     "source_info_link": "https://hhs.fuhsd.org/",
+     "icon": "https://serpapi.com/images/i/UklGRtoBAABXRUJQVlA4IM4BAACwCQCdASogACAAPtE-tFooIigoFAEAGglsAJ0y1T0Px6jHPR2SAjQXLjqBCqvqkZxfoXgAfsB7F_7HJZUGACxx9AruMfOxqPirMcdUuVwLgxRbLqULAAD-_SxXgKaFYaiPua8lN8trzhwkjI55HF_C5R22_FxiH4v7ehX4KTt7rg7kazHEJL2TGXM41pNK93uuau2P39sPmKdQGP7_E626PEqfI3V4Rf1ZTCzZKFGHwBIE4QxuHInsE5QZI--OHW73y7T1fuftEDEEEoQDdSJnrPr-_yl7_EmiCxns1FWBFm7qRWEpjAz-nTd67Xv5U25IqMqvX3NGn7XMrZDHt3S5xIDiXyHn4qFEjpjYFv1w7edceNgRG63Uf2lfq0ZGfwf7L_m0bFywZjwB_crXeH_DQLpFdIDtGJF3eNKfSMif5x335c8XCOMHywB0dydx553D13eubTNvbeTnYk-1zUyh0tkyBhTMkwVX7BNvW6i1udHi3wbRFbyHv_V45-X4K0vNEtH_-LoGIxjpSFKXkEAm1Vgs96GCc4az5W_Y5FymawFXeAVPnrRRLQ-XzXitj9vg0ZyCpVt4Kb7pqZdohV9kBLTrS4exixSJ9O4IAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESTgHrOzAVuIGepSgXPX5M6iVZX5_L5pdD0mPocrrToWLCV1nIqMjYiIjsuEN1wMCv8r_KM55juujCSX27d1pCwHyJMoyR26kLrbLyz02qUg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESTgHrOzAVuIGepSgXPX5M6iVZX5_L5pdD0mPocrrToWLCV1nIqMjYiIjsuEN1wMCv8r_KM55juujCSX27d1pCwHyJMoyR26kLrbLyz02qUg",
+   "source": "Homestead High School"
+  },
+  {
+   "position": 2,
+   "title": "Homestead High School (California)",
+   "link": "https://en.wikipedia.org/wiki/Homestead_High_School_(California)",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeAHrOzAVNhwf-Tn-WqvEDOomOR7TkV9ZE1DOlmQNsyWADtoNoeZ4WuA_9Ep1ejrSzODEHVO2nbm8ctMGrwwZ8MFTPMFDy74P6vZw8EHqJ44047i6a-5qcF0AE_vWnHbfSCwhFy0q_cf9RdFiBDKNqPuyKn1kFc6mhA&ved=2ahUKEwixt8f_5OSWAxXP8MkDHaPQPBEQFnoECEYQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Homestead_High_Sch...",
+   "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+   "snippet": "Homestead High School is a four-year public high school serving western Sunnyvale, southern Los Altos, and northwestern Cupertino, in Santa Clara County, ...",
+   "snippet_highlighted_words": [
+    "Homestead High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Homestead High School is a four-year public high school serving western Sunnyvale, southern Los Altos, and northwestern Cupertino, in Santa Clara County, ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Homestead_High_School_(California)",
+     "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESeAHrOzAVNhwf-Tn-WqvEDOomOR7TkV9ZE1DOlmQNsyWADtoNoeZ4WuA_9Ep1ejrSzODEHVO2nbm8ctMGrwwZ8MFTPMFDy74P6vZw8EHqJ44047i6a-5qcF0AE_vWnHbfSCwhFy0q_cf9RdFiBDKNqPuyKn1kFc6mhA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESeAHrOzAVNhwf-Tn-WqvEDOomOR7TkV9ZE1DOlmQNsyWADtoNoeZ4WuA_9Ep1ejrSzODEHVO2nbm8ctMGrwwZ8MFTPMFDy74P6vZw8EHqJ44047i6a-5qcF0AE_vWnHbfSCwhFy0q_cf9RdFiBDKNqPuyKn1kFc6mhA",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Homestead_High_School_(California)#:~:text=Homestead%20High%20School%20is%20a,Clara%20County%2C%20California%2C%20United%20States."
+  },
+  {
+   "position": 3,
+   "title": "Homestead High School in Cupertino, CA - US News",
+   "link": "https://www.usnews.com/education/best-high-schools/california/districts/fremont-union-high/homestead-high-school-2215",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrQEB6zswFV7-iwiIxEv80k__kKkPDa53FrQGLLy1ll4mJHuHy6SxCIi0KJpQZI3eSyI_cRks_bycl_tllTGCtjTzsTiuW7h_RruRLX17vm31qSKozjUYxirFSsPEPf1Vqz-vUTaR5V7hi2l4LbYwA9M0DuTP77Zqei2rQ1ypbeFz5uFjucB1rNLXrTtLDfo8wTNg7O_gCBACuydA7XFgOyBDNyVDPcMHqN8QMEvrmg&ved=2ahUKEwixt8f_5OSWAxXP8MkDHaPQPBEQFnoECGoQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a ... \u203a Fremont Union High",
+   "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp",
+   "snippet": "Homestead High School is ranked 78th within California. Students have the opportunity to take Advanced Placement\u00ae coursework and exams.",
+   "snippet_highlighted_words": [
+    "Homestead High School",
+    "California"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Homestead High School is ranked 78th within California. Students have the opportunity to take Advanced Placement\u00ae coursework and exams.",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/california/districts/fremont-union-high/homestead-high-school-2215",
+     "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESrQEB6zswFV7-iwiIxEv80k__kKkPDa53FrQGLLy1ll4mJHuHy6SxCIi0KJpQZI3eSyI_cRks_bycl_tllTGCtjTzsTiuW7h_RruRLX17vm31qSKozjUYxirFSsPEPf1Vqz-vUTaR5V7hi2l4LbYwA9M0DuTP77Zqei2rQ1ypbeFz5uFjucB1rNLXrTtLDfo8wTNg7O_gCBACuydA7XFgOyBDNyVDPcMHqN8QMEvrmg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESrQEB6zswFV7-iwiIxEv80k__kKkPDa53FrQGLLy1ll4mJHuHy6SxCIi0KJpQZI3eSyI_cRks_bycl_tllTGCtjTzsTiuW7h_RruRLX17vm31qSKozjUYxirFSsPEPf1Vqz-vUTaR5V7hi2l4LbYwA9M0DuTP77Zqei2rQ1ypbeFz5uFjucB1rNLXrTtLDfo8wTNg7O_gCBACuydA7XFgOyBDNyVDPcMHqN8QMEvrmg",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/california/districts/fremont-union-high/homestead-high-school-2215#:~:text=Homestead%20High%20School%20is%20ranked,Advanced%20Placement%C2%AE%20coursework%20and%20exams."
+  },
+  {
+   "position": 4,
+   "title": "Homestead High School - Cupertino, California - CA",
+   "link": "https://www.greatschools.org/california/cupertino/5498-Homestead-High-School/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShQEB6zswFYcMBCU-AtDlIzHLrpKK0nSW_EMHrlwCMikzxWUbgfyn9K89s9zhKn-yuXtASFrh0Brc9atriXkZ-laX-i-144y6AEO3Cw0tsI4TOrZNAaI5e49eCqdgoNLwy18uT5QbvVfzh2t4ptzUJ89T35VLs4ZXK3vR5wKMf7Q5UMUoBdaN&ved=2ahUKEwixt8f_5OSWAxXP8MkDHaPQPBEQFnoECGwQAQ&uoh=1",
+   "displayed_link": "https://www.greatschools.org \u203a california \u203a 5498-Home...",
+   "favicon": "https://serpapi.com/images/i/UklGRnABAABXRUJQVlA4IGQBAABQCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_jtuHbtjAbYDcAbyB6AHSlf6oixRzh8GEWsYxJ825M9RhM3gV5vdPb_m98cAA_vi6aS7Pzd7susCq7-6fF19W_uHxnTUiht4Bnli4K1NZlcvWNx_U9wUWYJNt7XaI9c-ByTdyo4mDmlZ-5yiSyr_u7cBW9GjDY0XOwNkf3M-JPMdorcnf5W3JquL_1XhdMWG9MeU4wxsyWrY1EBIhBEe9pptiUN9e6cDdPncpdjgPIvoHDAfly9B5KtVb-rS2mA85vxw-fVfJkvrbkjL-z0L62bhyC1muRYqxX5mA92DT5WC6rg1GKs3vDTWtEWyQkNCx7JpqOrcRh1tXyd6AvX19XcKdTTPG1ozotzAlVyERstS5yUat0Hnv2de5D6l_B6PNH32glgAMU9TscSW7BeznX-ttUqaHqMZfqKDlq_LuvvKpt3UAAA.webp",
+   "snippet": "Homestead High School is a public school in Cupertino, CA, offering AP courses and Project Lead The Way curriculum. It is one of 7 high schools in Fremont ...",
+   "snippet_highlighted_words": [
+    "Homestead High School",
+    "CA"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Homestead High School is a public school in Cupertino, CA, offering AP courses and Project Lead The Way curriculum. It is one of 7 high schools in Fremont ...",
+     "source_info_link": "https://www.greatschools.org/california/cupertino/5498-Homestead-High-School/",
+     "icon": "https://serpapi.com/images/i/UklGRnABAABXRUJQVlA4IGQBAABQCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_jtuHbtjAbYDcAbyB6AHSlf6oixRzh8GEWsYxJ825M9RhM3gV5vdPb_m98cAA_vi6aS7Pzd7susCq7-6fF19W_uHxnTUiht4Bnli4K1NZlcvWNx_U9wUWYJNt7XaI9c-ByTdyo4mDmlZ-5yiSyr_u7cBW9GjDY0XOwNkf3M-JPMdorcnf5W3JquL_1XhdMWG9MeU4wxsyWrY1EBIhBEe9pptiUN9e6cDdPncpdjgPIvoHDAfly9B5KtVb-rS2mA85vxw-fVfJkvrbkjL-z0L62bhyC1muRYqxX5mA92DT5WC6rg1GKs3vDTWtEWyQkNCx7JpqOrcRh1tXyd6AvX19XcKdTTPG1ozotzAlVyERstS5yUat0Hnv2de5D6l_B6PNH32glgAMU9TscSW7BeznX-ttUqaHqMZfqKDlq_LuvvKpt3UAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEShQEB6zswFYcMBCU-AtDlIzHLrpKK0nSW_EMHrlwCMikzxWUbgfyn9K89s9zhKn-yuXtASFrh0Brc9atriXkZ-laX-i-144y6AEO3Cw0tsI4TOrZNAaI5e49eCqdgoNLwy18uT5QbvVfzh2t4ptzUJ89T35VLs4ZXK3vR5wKMf7Q5UMUoBdaN&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEShQEB6zswFYcMBCU-AtDlIzHLrpKK0nSW_EMHrlwCMikzxWUbgfyn9K89s9zhKn-yuXtASFrh0Brc9atriXkZ-laX-i-144y6AEO3Cw0tsI4TOrZNAaI5e49eCqdgoNLwy18uT5QbvVfzh2t4ptzUJ89T35VLs4ZXK3vR5wKMf7Q5UMUoBdaN",
+   "source": "GreatSchools"
+  },
+  {
+   "position": 5,
+   "title": "Homestead High School Employees, Location, Alumni",
+   "link": "https://www.linkedin.com/school/homestead-high-school-46/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScQHrOzAVPtyVSGAu7LQvAmcKX3zTe5WjobFzbU2edC8CUqHegS3iu54IMeyfwBuFmKn-mQlBjsUz4N7ihmrbv4C7ayRvJQ5KJRUbSAllT7XUjooG9spTzVPQOcmLDA6aNuydFpCkidaaoVOUJNlQ1Cio&ved=2ahUKEwixt8f_5OSWAxXP8MkDHaPQPBEQFnoECG0QAQ&uoh=1",
+   "displayed_link": "4K+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp",
+   "snippet": "Homestead High School is a company based out of 21370 Homestead Rd., Cupertino, California, United States. Website: https://www.hhs.fuhsd.org.",
+   "snippet_highlighted_words": [
+    "Homestead High School",
+    "California"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Homestead High School is a company based out of 21370 Homestead Rd., Cupertino, California, United States. Website: https://www.hhs.fuhsd.org.",
+     "source_info_link": "https://www.linkedin.com/school/homestead-high-school-46/",
+     "icon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEScQHrOzAVPtyVSGAu7LQvAmcKX3zTe5WjobFzbU2edC8CUqHegS3iu54IMeyfwBuFmKn-mQlBjsUz4N7ihmrbv4C7ayRvJQ5KJRUbSAllT7XUjooG9spTzVPQOcmLDA6aNuydFpCkidaaoVOUJNlQ1Cio&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEScQHrOzAVPtyVSGAu7LQvAmcKX3zTe5WjobFzbU2edC8CUqHegS3iu54IMeyfwBuFmKn-mQlBjsUz4N7ihmrbv4C7ayRvJQ5KJRUbSAllT7XUjooG9spTzVPQOcmLDA6aNuydFpCkidaaoVOUJNlQ1Cio",
+   "source": "LinkedIn \u00b7 Homestead High School",
+   "read_more_link": "https://www.linkedin.com/school/homestead-high-school-46/#:~:text=Homestead%20High%20School%20is%20a,https%3A%2F%2Fwww.hhs.fuhsd.org"
+  },
+  {
+   "position": 6,
+   "title": "Homestead High - School Directory Details ...",
+   "link": "https://www.cde.ca.gov/schooldirectory/details?cdscode=43694684333316",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAV_rhRFzwpEkJZ91UodIBEsSD5Y56DhFmtEaR9Ezlfb8zNt2dkvGYdQvVFWXivKazugk0OW-BZhSsBlaywQ8n4hbBaKpJM9nQTv5Nq5wQ1Cf46A8iXJw6DnKEU9wioVjoob61clp0Nqqp-Um8yGdaaM_2M7aBQ-3Ir&ved=2ahUKEwixt8f_5OSWAxXP8MkDHaPQPBEQFnoECGsQAQ&uoh=1",
+   "displayed_link": "https://www.cde.ca.gov \u203a schooldirectory \u203a details",
+   "favicon": "https://serpapi.com/images/i/UklGRgoBAABXRUJQVlA4IP4AAABQBgCdASogACAAPrkurlcnIacnG_DgFwlpAM3HbNVYEqB7gV_UJYF88X_jH5jxak_srJyMiDiuJceTAAD-9-gn-pwQ-TxGnsYEDO4UrYAd2e6KrsBaDJJMpYVNSc7WbKwRWEZCc_W2YjY2mhOZu2CVT9BEckUN_yR7EZGLkMScINpXY-X7Piv_z7s_n9b21PARjcv95WWo8Qn_H_yJQPovikVTm1Y1OvFDe5hCnBvl0nEGVC0d4IOeCym1YxVDWcTKZUcR0qPVUtR1yGQ2zyLLnboY51uCWfnbtDZ5TXjC8bWvKRJJrQz6leT0DUCd0qEhT1OVpm0sBIplokAAAA.webp",
+   "snippet": "Homestead High ; 21370 Homestead Rd. Cupertino, CA 95014-0203 \u00b7 (408) 522-2500 \u00b7 (408) 738-8631 \u00b7 Information Not Available \u00b7 Information Not Available.",
+   "snippet_highlighted_words": [
+    "CA"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Homestead High ; 21370 Homestead Rd. Cupertino, CA 95014-0203 \u00b7 (408) 522-2500 \u00b7 (408) 738-8631 \u00b7 Information Not Available \u00b7 Information Not Available.",
+     "source_info_link": "https://www.cde.ca.gov/schooldirectory/details?cdscode=43694684333316",
+     "icon": "https://serpapi.com/images/i/UklGRgoBAABXRUJQVlA4IP4AAABQBgCdASogACAAPrkurlcnIacnG_DgFwlpAM3HbNVYEqB7gV_UJYF88X_jH5jxak_srJyMiDiuJceTAAD-9-gn-pwQ-TxGnsYEDO4UrYAd2e6KrsBaDJJMpYVNSc7WbKwRWEZCc_W2YjY2mhOZu2CVT9BEckUN_yR7EZGLkMScINpXY-X7Piv_z7s_n9b21PARjcv95WWo8Qn_H_yJQPovikVTm1Y1OvFDe5hCnBvl0nEGVC0d4IOeCym1YxVDWcTKZUcR0qPVUtR1yGQ2zyLLnboY51uCWfnbtDZ5TXjC8bWvKRJJrQz6leT0DUCd0qEhT1OVpm0sBIplokAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESfQHrOzAV_rhRFzwpEkJZ91UodIBEsSD5Y56DhFmtEaR9Ezlfb8zNt2dkvGYdQvVFWXivKazugk0OW-BZhSsBlaywQ8n4hbBaKpJM9nQTv5Nq5wQ1Cf46A8iXJw6DnKEU9wioVjoob61clp0Nqqp-Um8yGdaaM_2M7aBQ-3Ir&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESfQHrOzAV_rhRFzwpEkJZ91UodIBEsSD5Y56DhFmtEaR9Ezlfb8zNt2dkvGYdQvVFWXivKazugk0OW-BZhSsBlaywQ8n4hbBaKpJM9nQTv5Nq5wQ1Cf46A8iXJw6DnKEU9wioVjoob61clp0Nqqp-Um8yGdaaM_2M7aBQ-3Ir",
+   "source": "California Department of Education (CDE) (.gov)",
+   "read_more_link": "https://www.cde.ca.gov/schooldirectory/details?cdscode=43694684333316#:~:text=Homestead%20High&text=21370%20Homestead%20Rd.,Cupertino%2C%20CA%2095014%2D0203&text=(408)%20522%2D2500&text=(408)%20738%2D8631&text=Information%20Not%20Available&text=Information%20Not%20Available"
+  },
+  {
+   "position": 7,
+   "title": "Fremont Union High School District: Home",
+   "link": "https://www.fuhsd.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTgHrOzAVFEZwiD_nLQNIKdDqvuc0p-CgQQxe3j3jPq76tFTS7PwRXvqte4zoYLgQHJd1UTQA6_zT-o1Q7ZipeAvcAdKfT-OCFdxKAl5EQw&ved=2ahUKEwixt8f_5OSWAxXP8MkDHaPQPBEQFnoECG4QAQ&uoh=1",
+   "displayed_link": "https://www.fuhsd.org",
+   "favicon": "https://serpapi.com/images/i/UklGRtoBAABXRUJQVlA4IM4BAACwCQCdASogACAAPtE-tFooIigoFAEAGglsAJ0y1T0Px6jHPR2SAjQXLjqBCqvqkZxfoXgAfsB7F_7HJZUGACxx9AruMfOxqPirMcdUuVwLgxRbLqULAAD-_SxXgKaFYaiPua8lN8trzhwkjI55HF_C5R22_FxiH4v7ehX4KTt7rg7kazHEJL2TGXM41pNK93uuau2P39sPmKdQGP7_E626PEqfI3V4Rf1ZTCzZKFGHwBIE4QxuHInsE5QZI--OHW73y7T1fuftEDEEEoQDdSJnrPr-_yl7_EmiCxns1FWBFm7qRWEpjAz-nTd67Xv5U25IqMqvX3NGn7XMrZDHt3S5xIDiXyHn4qFEjpjYFv1w7edceNgRG63Uf2lfq0ZGfwf7L_m0bFywZjwB_crXeH_DQLpFdIDtGJF3eNKfSMif5x335c8XCOMHywB0dydx553D13eubTNvbeTnYk-1zUyh0tkyBhTMkwVX7BNvW6i1udHi3wbRFbyHv_V45-X4K0vNEtH_-LoGIxjpSFKXkEAm1Vgs96GCc4az5W_Y5FymawFXeAVPnrRRLQ-XzXitj9vg0ZyCpVt4Kb7pqZdohV9kBLTrS4exixSJ9O4IAAA.webp",
+   "snippet": "Homestead High School \u00b7 Lynbrook High School \u00b7 Monta Vista High School ... We are proud to be consistently rated as one of the highest performing high school ...",
+   "snippet_highlighted_words": [
+    "Homestead High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Homestead High School \u00b7 Lynbrook High School \u00b7 Monta Vista High School ... We are proud to be consistently rated as one of the highest performing high school ...",
+     "source_info_link": "https://www.fuhsd.org/",
+     "icon": "https://serpapi.com/images/i/UklGRtoBAABXRUJQVlA4IM4BAACwCQCdASogACAAPtE-tFooIigoFAEAGglsAJ0y1T0Px6jHPR2SAjQXLjqBCqvqkZxfoXgAfsB7F_7HJZUGACxx9AruMfOxqPirMcdUuVwLgxRbLqULAAD-_SxXgKaFYaiPua8lN8trzhwkjI55HF_C5R22_FxiH4v7ehX4KTt7rg7kazHEJL2TGXM41pNK93uuau2P39sPmKdQGP7_E626PEqfI3V4Rf1ZTCzZKFGHwBIE4QxuHInsE5QZI--OHW73y7T1fuftEDEEEoQDdSJnrPr-_yl7_EmiCxns1FWBFm7qRWEpjAz-nTd67Xv5U25IqMqvX3NGn7XMrZDHt3S5xIDiXyHn4qFEjpjYFv1w7edceNgRG63Uf2lfq0ZGfwf7L_m0bFywZjwB_crXeH_DQLpFdIDtGJF3eNKfSMif5x335c8XCOMHywB0dydx553D13eubTNvbeTnYk-1zUyh0tkyBhTMkwVX7BNvW6i1udHi3wbRFbyHv_V45-X4K0vNEtH_-LoGIxjpSFKXkEAm1Vgs96GCc4az5W_Y5FymawFXeAVPnrRRLQ-XzXitj9vg0ZyCpVt4Kb7pqZdohV9kBLTrS4exixSJ9O4IAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESTgHrOzAVFEZwiD_nLQNIKdDqvuc0p-CgQQxe3j3jPq76tFTS7PwRXvqte4zoYLgQHJd1UTQA6_zT-o1Q7ZipeAvcAdKfT-OCFdxKAl5EQw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESTgHrOzAVFEZwiD_nLQNIKdDqvuc0p-CgQQxe3j3jPq76tFTS7PwRXvqte4zoYLgQHJd1UTQA6_zT-o1Q7ZipeAvcAdKfT-OCFdxKAl5EQw",
+   "source": "Fremont Union High School District",
+   "read_more_link": "https://www.fuhsd.org/#:~:text=Fremont%20Union%20High%20School%20District&text=We%20are%20proud%20to%20be,in%20the%20State%20of%20California."
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Homestead+High+School%22+California&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=kAqjarGvGM_hp84Po6HziQE&start=10&sa=N&sstk=AS6-VmK4xt3hMOIxVWFNVueelWkbb_uDaUnGcV5bk6tpVz9tkKP__Cmd60jtxAaWGwG7MaKACTBs3XiSlnKFgMB0jqbep12bsTj_1A&ved=2ahUKEwixt8f_5OSWAxXP8MkDHaPQPBEQ8NMDegQIWBAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Homestead+High+School%22+California&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=kAqjarGvGM_hp84Po6HziQE&start=10&sa=N&sstk=AS6-VmK4xt3hMOIxVWFNVueelWkbb_uDaUnGcV5bk6tpVz9tkKP__Cmd60jtxAaWGwG7MaKACTBs3XiSlnKFgMB0jqbep12bsTj_1A&ved=2ahUKEwixt8f_5OSWAxXP8MkDHaPQPBEQ8tMDegQIWBAE",
+   "3": "https://www.google.com/search?q=%22Homestead+High+School%22+California&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=kAqjarGvGM_hp84Po6HziQE&start=20&sa=N&sstk=AS6-VmK4xt3hMOIxVWFNVueelWkbb_uDaUnGcV5bk6tpVz9tkKP__Cmd60jtxAaWGwG7MaKACTBs3XiSlnKFgMB0jqbep12bsTj_1A&ved=2ahUKEwixt8f_5OSWAxXP8MkDHaPQPBEQ8tMDegQIWBAG",
+   "4": "https://www.google.com/search?q=%22Homestead+High+School%22+California&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=kAqjarGvGM_hp84Po6HziQE&start=30&sa=N&sstk=AS6-VmK4xt3hMOIxVWFNVueelWkbb_uDaUnGcV5bk6tpVz9tkKP__Cmd60jtxAaWGwG7MaKACTBs3XiSlnKFgMB0jqbep12bsTj_1A&ved=2ahUKEwixt8f_5OSWAxXP8MkDHaPQPBEQ8tMDegQIWBAI",
+   "5": "https://www.google.com/search?q=%22Homestead+High+School%22+California&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=kAqjarGvGM_hp84Po6HziQE&start=40&sa=N&sstk=AS6-VmK4xt3hMOIxVWFNVueelWkbb_uDaUnGcV5bk6tpVz9tkKP__Cmd60jtxAaWGwG7MaKACTBs3XiSlnKFgMB0jqbep12bsTj_1A&ved=2ahUKEwixt8f_5OSWAxXP8MkDHaPQPBEQ8tMDegQIWBAK",
+   "6": "https://www.google.com/search?q=%22Homestead+High+School%22+California&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=kAqjarGvGM_hp84Po6HziQE&start=50&sa=N&sstk=AS6-VmK4xt3hMOIxVWFNVueelWkbb_uDaUnGcV5bk6tpVz9tkKP__Cmd60jtxAaWGwG7MaKACTBs3XiSlnKFgMB0jqbep12bsTj_1A&ved=2ahUKEwixt8f_5OSWAxXP8MkDHaPQPBEQ8tMDegQIWBAM",
+   "7": "https://www.google.com/search?q=%22Homestead+High+School%22+California&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=kAqjarGvGM_hp84Po6HziQE&start=60&sa=N&sstk=AS6-VmK4xt3hMOIxVWFNVueelWkbb_uDaUnGcV5bk6tpVz9tkKP__Cmd60jtxAaWGwG7MaKACTBs3XiSlnKFgMB0jqbep12bsTj_1A&ved=2ahUKEwixt8f_5OSWAxXP8MkDHaPQPBEQ8tMDegQIWBAO",
+   "8": "https://www.google.com/search?q=%22Homestead+High+School%22+California&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=kAqjarGvGM_hp84Po6HziQE&start=70&sa=N&sstk=AS6-VmK4xt3hMOIxVWFNVueelWkbb_uDaUnGcV5bk6tpVz9tkKP__Cmd60jtxAaWGwG7MaKACTBs3XiSlnKFgMB0jqbep12bsTj_1A&ved=2ahUKEwixt8f_5OSWAxXP8MkDHaPQPBEQ8tMDegQIWBAQ",
+   "9": "https://www.google.com/search?q=%22Homestead+High+School%22+California&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=kAqjarGvGM_hp84Po6HziQE&start=80&sa=N&sstk=AS6-VmK4xt3hMOIxVWFNVueelWkbb_uDaUnGcV5bk6tpVz9tkKP__Cmd60jtxAaWGwG7MaKACTBs3XiSlnKFgMB0jqbep12bsTj_1A&ved=2ahUKEwixt8f_5OSWAxXP8MkDHaPQPBEQ8tMDegQIWBAS",
+   "10": "https://www.google.com/search?q=%22Homestead+High+School%22+California&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=kAqjarGvGM_hp84Po6HziQE&start=90&sa=N&sstk=AS6-VmK4xt3hMOIxVWFNVueelWkbb_uDaUnGcV5bk6tpVz9tkKP__Cmd60jtxAaWGwG7MaKACTBs3XiSlnKFgMB0jqbep12bsTj_1A&ved=2ahUKEwixt8f_5OSWAxXP8MkDHaPQPBEQ8tMDegQIWBAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Homestead+High+School%22+California&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Homestead+High+School%22+California&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Homestead+High+School%22+California&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Homestead+High+School%22+California&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Homestead+High+School%22+California&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Homestead+High+School%22+California&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Homestead+High+School%22+California&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Homestead+High+School%22+California&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Homestead+High+School%22+California&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Homestead+High+School%22+California&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Homestead+High+School%22+California&start=90"
+  }
+ }
+}

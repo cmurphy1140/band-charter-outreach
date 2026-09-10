@@ -1,0 +1,331 @@
+{
+ "search_information": {
+  "query_displayed": "\"Segunda Unidad Macan\u00e1 Marching Band\"",
+  "total_results": 10,
+  "time_taken_displayed": 0.27,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "related_questions": [
+  {
+   "question": "What are some famous marching bands?",
+   "type": "featured_snippet",
+   "title": "National marching bands",
+   "link": "https://en.wikipedia.org/wiki/List_of_marching_bands",
+   "list": [
+    "Macy's Great American Marching Band.",
+    "McDonald's All-American Marching Band.",
+    "U.S. Army All-American Marching Band.",
+    "The Band Director's Marching Band."
+   ],
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a List_of_marching_bands",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEUAAAD-_v7MzMw7OzsAAACVlZVJSUnm5uampqYXFxfZ2dkBAQGzs7MnJyeGhoZpaWl5eXkOJSOoAAAAAXRSTlMAQObYZgAAAGpJREFUeAFtz7UBxEAQBMHtgwXpKP9kn_k13pTXIsLH5OfD74d_SLlUtFTL2Tx0E2xvWL-gQQYBzeDRBni9QSoJegeUG6AKMyCtB7R9Q8OZ9gD6anV0mzzBd8X2nF5AVJjKGzYAO4yRv_wzhDIC9UYsU1MAAAAASUVORK5CYII.png",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1dYVkNTVkoxZG1OQlNsbE9aakZKVW01b1ZqVlFkbWRyYjFKSE5GZE5SWEp4V25KQlJXVnVZbEZNU1dnNGFYZzJjMVJFTVUxRE16UkNlbGxzWW5kTFpWUlFPRTVqUjIxNFIybHBlRUpVU1ZGVGFTMXdZVVZCY0ZoWFFSSVhSRkpMYW1Gd04xSlBVRWhvY0RnMFVHOU5MVVF5UVc4YUlrRkVjM0k1WmxSTVgyWnpiRFpUV0RkalEwMUROazVTYUZScGRYTkVNMjF2TWtFIiwiZmN2IjoiMyIsImVpIjoiRFJLamFwN1JPUEhocDg0UG9NLUQyQW8iLCJxYyI6IkNpUnpaV2QxYm1SaElIVnVhV1JoWkNCdFlXTmhic09oSUcxaGNtTm9hVzVuSUdKaGJtUVFBSDNsTHhnXyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgc29tZSBmYW1vdXMgbWFyY2hpbmcgYmFuZHM/IiwibGsiOiJHaU4zYUdGMElHRnlaU0J6YjIxbElHWmhiVzkxY3lCdFlYSmphR2x1WnlCaVlXNWtjdyIsImJzIjoiYy1NSzRGSUp6MGdzVVVnc1NsVW96czlOVlVoTHpNMHZMVmJJVFN4S3pzak1TMWRJU3N4TEtiYVhlR05ocENxbFhFNVlLWmNMbHh6WXhJekVnb0xVdkdLRnpEeFVGZllTMTF5TjVLVmt5X0VwNG5MamtnX1BTTTFUS0U5RXMwQWhVYUVFeExHWGVHOWpwQ0FsVjQ1WGxRQWpBQSIsImlkIjoiZmNfRFJLamFwN1JPUEhocDg0UG9NLUQyQW9fMSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1dYVkNTVkoxZG1OQlNsbE9aakZKVW01b1ZqVlFkbWRyYjFKSE5GZE5SWEp4V25KQlJXVnVZbEZNU1dnNGFYZzJjMVJFTVUxRE16UkNlbGxzWW5kTFpWUlFPRTVqUjIxNFIybHBlRUpVU1ZGVGFTMXdZVVZCY0ZoWFFSSVhSRkpMYW1Gd04xSlBVRWhvY0RnMFVHOU5MVVF5UVc4YUlrRkVjM0k1WmxSTVgyWnpiRFpUV0RkalEwMUROazVTYUZScGRYTkVNMjF2TWtFIiwiZmN2IjoiMyIsImVpIjoiRFJLamFwN1JPUEhocDg0UG9NLUQyQW8iLCJxYyI6IkNpUnpaV2QxYm1SaElIVnVhV1JoWkNCdFlXTmhic09oSUcxaGNtTm9hVzVuSUdKaGJtUVFBSDNsTHhnXyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgc29tZSBmYW1vdXMgbWFyY2hpbmcgYmFuZHM%2FIiwibGsiOiJHaU4zYUdGMElHRnlaU0J6YjIxbElHWmhiVzkxY3lCdFlYSmphR2x1WnlCaVlXNWtjdyIsImJzIjoiYy1NSzRGSUp6MGdzVVVnc1NsVW96czlOVlVoTHpNMHZMVmJJVFN4S3pzak1TMWRJU3N4TEtiYVhlR05ocENxbFhFNVlLWmNMbHh6WXhJekVnb0xVdkdLRnpEeFVGZllTMTF5TjVLVmt5X0VwNG5MamtnX1BTTTFUS0U5RXMwQWhVYUVFeExHWGVHOWpwQ0FsVjQ1WGxRQWpBQSIsImlkIjoiZmNfRFJLamFwN1JPUEhocDg0UG9NLUQyQW9fMSJ9"
+  },
+  {
+   "question": "What happens in marching band?",
+   "type": "featured_snippet",
+   "snippet": "A marching band is a group of musicians who play instruments while they march. Sometimes, they march on a football field, and sometimes they march down the street in a parade.",
+   "title": "Marching Bands - Weiner Elementary Original",
+   "link": "http://www.weinerelementary.org/marching-bands.html#:~:text=A%20marching%20band%20is%20a,the%20street%20in%20a%20parade.",
+   "displayed_link": "http://www.weinerelementary.org \u203a marching-bands",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEVHcEwzO0MyO0MyO0M0PEQyO0MyO0MyO0MyO0M0PUUyO0MyO0MyPEQyO0MyO0MyO0MyO0OiKHtGAAAAEXRSTlMANoFdEXdl_80YvuslsplJ3YDAZTQAAAB4SURBVHgBjYm1AQMxEARHuGKp_2p9hsz0EyxyAecDxJQiBO8gSypRRm0mGfWR1eWcSR69owZdE6Y6NJnD0oatBZrmAScMOYI9qMBkDBOKgKVKxHuTqgU4eeAcwMth9A5Vqs9kePk6pVm9Eg-OpJRMDi9CcuBS4BM3Hd4D829ZlbAAAAAASUVORK5CYII.png",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1dYVkNTVkoxZG1OQlNsbE9aakZKVW01b1ZqVlFkbWRyYjFKSE5GZE5SWEp4V25KQlJXVnVZbEZNU1dnNGFYZzJjMVJFTVUxRE16UkNlbGxzWW5kTFpWUlFPRTVqUjIxNFIybHBlRUpVU1ZGVGFTMXdZVVZCY0ZoWFFSSVhSRkpMYW1Gd04xSlBVRWhvY0RnMFVHOU5MVVF5UVc4YUlrRkVjM0k1WmxSTVgyWnpiRFpUV0RkalEwMUROazVTYUZScGRYTkVNMjF2TWtFIiwiZmN2IjoiMyIsImVpIjoiRFJLamFwN1JPUEhocDg0UG9NLUQyQW8iLCJxYyI6IkNpUnpaV2QxYm1SaElIVnVhV1JoWkNCdFlXTmhic09oSUcxaGNtTm9hVzVuSUdKaGJtUVFBSDNsTHhnXyIsInF1ZXN0aW9uIjoiV2hhdCBoYXBwZW5zIGluIG1hcmNoaW5nIGJhbmQ/IiwibGsiOiJHaDEzYUdGMElHaGhjSEJsYm5NZ2FXNGdiV0Z5WTJocGJtY2dZbUZ1WkEiLCJicyI6ImMtTUs0RklKejBnc1VVZ3NTbFVvenM5TlZVaEx6TTB2TFZiSVRTeEt6c2pNUzFkSVNzeExLYmFYZUdOaHBDcWxYRTVZS1pjTGx4ell4SXpFZ29MVXZHS0Z6RHhVRmZZUzExeU41S1ZreV9FcDRuTGprZ19QU00xVEtFOUVzMEFoVWFFRXhMR1hlRzlqcENBbFY0NVhsUUFqQUEiLCJpZCI6ImZjX0RSS2phcDdST1BIaHA4NFBvTS1EMkFvXzEifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1dYVkNTVkoxZG1OQlNsbE9aakZKVW01b1ZqVlFkbWRyYjFKSE5GZE5SWEp4V25KQlJXVnVZbEZNU1dnNGFYZzJjMVJFTVUxRE16UkNlbGxzWW5kTFpWUlFPRTVqUjIxNFIybHBlRUpVU1ZGVGFTMXdZVVZCY0ZoWFFSSVhSRkpMYW1Gd04xSlBVRWhvY0RnMFVHOU5MVVF5UVc4YUlrRkVjM0k1WmxSTVgyWnpiRFpUV0RkalEwMUROazVTYUZScGRYTkVNMjF2TWtFIiwiZmN2IjoiMyIsImVpIjoiRFJLamFwN1JPUEhocDg0UG9NLUQyQW8iLCJxYyI6IkNpUnpaV2QxYm1SaElIVnVhV1JoWkNCdFlXTmhic09oSUcxaGNtTm9hVzVuSUdKaGJtUVFBSDNsTHhnXyIsInF1ZXN0aW9uIjoiV2hhdCBoYXBwZW5zIGluIG1hcmNoaW5nIGJhbmQ%2FIiwibGsiOiJHaDEzYUdGMElHaGhjSEJsYm5NZ2FXNGdiV0Z5WTJocGJtY2dZbUZ1WkEiLCJicyI6ImMtTUs0RklKejBnc1VVZ3NTbFVvenM5TlZVaEx6TTB2TFZiSVRTeEt6c2pNUzFkSVNzeExLYmFYZUdOaHBDcWxYRTVZS1pjTGx4ell4SXpFZ29MVXZHS0Z6RHhVRmZZUzExeU41S1ZreV9FcDRuTGprZ19QU00xVEtFOUVzMEFoVWFFRXhMR1hlRzlqcENBbFY0NVhsUUFqQUEiLCJpZCI6ImZjX0RSS2phcDdST1BIaHA4NFBvTS1EMkFvXzEifQ%3D%3D"
+  },
+  {
+   "question": "When was marching band a thing?",
+   "type": "featured_snippet",
+   "snippet": "In the 1700s, military marching bands appeared in Revolutionary-era America in the form of fife and drum corps. Fifes are high-pitched wind instruments whose piercing tones are audible at a great distance. The drummers in these corps used rope-tension drums, which were large compared to contemporary marching drums.",
+   "title": "Marching through Time - Yamaha Music",
+   "date": "Jan 30, 2020",
+   "link": "https://hub.yamaha.com/drums/percussion/marching-through-time/#:~:text=In%20the%201700s%2C%20military%20marching,compared%20to%20contemporary%20marching%20drums.",
+   "displayed_link": "https://hub.yamaha.com \u203a drums \u203a percussion \u203a marchin...",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABHklEQVR4AXzRgWbDYBSG4UxQAQUFGEEVQEAMM8PALqAGqCqgALabGAIggqiAAgYoGJihGGAgchEBVfqmXkQbDQ9y8p0T5_8Dnru-1_uPFDlqtKqtpeaEXuMYFRqsESNRbK0xM7YPNuMXBaLe0KzTe4_MkHWIHyoUA-t8dgbqBarzuzs3Tn_AAqH2CrUwE9mTBh7O2sATMvxgia2W1jIzoT154AnHmODbgc_YYa-dtdzMxJ66G9Be7DfHn3_-19ba_CLbDg2Y3Rgwux7gCham-EI5sELpt6lZV_AQ8YIDNnjHCqVW1jY4mvUQvUa84REj_5CgVGJtZIas13garoSEaQBmQsKblIG0MMg2KBbGlpQJZiawHCLA8rFlJoqzMwD88_-_mDBUFQAAAABJRU5ErkJggg.png",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1dYVkNTVkoxZG1OQlNsbE9aakZKVW01b1ZqVlFkbWRyYjFKSE5GZE5SWEp4V25KQlJXVnVZbEZNU1dnNGFYZzJjMVJFTVUxRE16UkNlbGxzWW5kTFpWUlFPRTVqUjIxNFIybHBlRUpVU1ZGVGFTMXdZVVZCY0ZoWFFSSVhSRkpMYW1Gd04xSlBVRWhvY0RnMFVHOU5MVVF5UVc4YUlrRkVjM0k1WmxSTVgyWnpiRFpUV0RkalEwMUROazVTYUZScGRYTkVNMjF2TWtFIiwiZmN2IjoiMyIsImVpIjoiRFJLamFwN1JPUEhocDg0UG9NLUQyQW8iLCJxYyI6IkNpUnpaV2QxYm1SaElIVnVhV1JoWkNCdFlXTmhic09oSUcxaGNtTm9hVzVuSUdKaGJtUVFBSDNsTHhnXyIsInF1ZXN0aW9uIjoiV2hlbiB3YXMgbWFyY2hpbmcgYmFuZCBhIHRoaW5nPyIsImxrIjoiYzVPU0s4OUl6Vk1vVHl4V3lFMHNTczdJekV0WFNFck1TMUZJVkNnQmNRQSIsImJzIjoiYy1NSzRGSUp6MGdzVVVnc1NsVW96czlOVlVoTHpNMHZMVmJJVFN4S3pzak1TMWRJU3N4TEtiYVhlR05ocENxbFhFNVlLWmNMbHh6WXhJekVnb0xVdkdLRnpEeFVGZllTMTF5TjVLVmt5X0VwNG5MamtnX1BTTTFUS0U5RXMwQWhVYUVFeExHWGVHOWpwQ0FsVjQ1WGxRQWpBQSIsImlkIjoiZmNfRFJLamFwN1JPUEhocDg0UG9NLUQyQW9fMSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1dYVkNTVkoxZG1OQlNsbE9aakZKVW01b1ZqVlFkbWRyYjFKSE5GZE5SWEp4V25KQlJXVnVZbEZNU1dnNGFYZzJjMVJFTVUxRE16UkNlbGxzWW5kTFpWUlFPRTVqUjIxNFIybHBlRUpVU1ZGVGFTMXdZVVZCY0ZoWFFSSVhSRkpMYW1Gd04xSlBVRWhvY0RnMFVHOU5MVVF5UVc4YUlrRkVjM0k1WmxSTVgyWnpiRFpUV0RkalEwMUROazVTYUZScGRYTkVNMjF2TWtFIiwiZmN2IjoiMyIsImVpIjoiRFJLamFwN1JPUEhocDg0UG9NLUQyQW8iLCJxYyI6IkNpUnpaV2QxYm1SaElIVnVhV1JoWkNCdFlXTmhic09oSUcxaGNtTm9hVzVuSUdKaGJtUVFBSDNsTHhnXyIsInF1ZXN0aW9uIjoiV2hlbiB3YXMgbWFyY2hpbmcgYmFuZCBhIHRoaW5nPyIsImxrIjoiYzVPU0s4OUl6Vk1vVHl4V3lFMHNTczdJekV0WFNFck1TMUZJVkNnQmNRQSIsImJzIjoiYy1NSzRGSUp6MGdzVVVnc1NsVW96czlOVlVoTHpNMHZMVmJJVFN4S3pzak1TMWRJU3N4TEtiYVhlR05ocENxbFhFNVlLWmNMbHh6WXhJekVnb0xVdkdLRnpEeFVGZllTMTF5TjVLVmt5X0VwNG5MamtnX1BTTTFUS0U5RXMwQWhVYUVFeExHWGVHOWpwQ0FsVjQ1WGxRQWpBQSIsImlkIjoiZmNfRFJLamFwN1JPUEhocDg0UG9NLUQyQW9fMSJ9"
+  }
+ ],
+ "ai_overview": {
+  "page_token": "_Yy_rHiczVbbcqpIFP2A-Y7wkiigEmOqqFPdLYnEqGmRw-iLhQ02KIIBDCFv8zYfMl81XzMNaIK3ZHIepmZXYd_2jd17sfzjL8_1l3__9qcTx-volueTJKnSIKCeXSXBijej1Cf8PPCikDg_HE-2fY568ibi0he5zpFIFjjbldvD7sJcN4eDp46zvmk8Bb1KuwYCLjeXpzMzshfM--si4qc8-1le1NtsUY2qtl8dTkJKQjyaV3rVmiC2qgPeXDEF8J8JAhhQ9otwvjgr9__OHaVAAeCh5L_wqZRUsgUGCoXFGuLTrrDKVLMRYFRk1k7eKuMZm5iFRjs7PC2ofABprgdh7g9oEJw3PClFpohufX-qq5zcRWUHmfS-NGE5jvezUAF6SrYlPs5EBYq6lzEuglCYgEUyp4qiwE_yZgXREyh1M4tP1Jh0sTpKtin02gYLzFuUNa3Az0I2iLxLHJJPwijrZTRqCUFn8AIJXbX6N_byeWaId5JuuOYkrpg24MmM6XmBadnW1JkKP_K1WBMloVVv3lzlICLRO4qiMorWqwZqTidIjG-qj1Uo7iCEsoocV4lVm62RCo4Fbtvs5AWrYHcZynuB2a6KSuXSt6MDYICzvi35BgEmecF2O3bev-TjSj5SyiIcQ-gwtQxCuREsQsNyejsVSuEJUybk6A2PupDFTYoZPUQ_PugkBaNlOUSyd8qS1BwlK1SGgJ9EKRIo-UBZeGVnjnd7NLvEXd0R3DtWyhByaVZ1FpZqTPEB025mDt_vAG5fDj4cAt89fOtc7pg_OFa_95V4f9vPPxCFzg4rB61fhsx9KlUew2tpNCcT3-u0Riu7r6I7peFH-DREgtXsG0xD_k8gcnc8pG9tz4DIziZfg4iyz91ZHiqmHzxUgAjiMyBSCxCd4CG70Cjx0CGIkFYC0Rc89F0QoU9BpO_2jkGUOTgFouUZEG15qAQibZ-H9kD0zkMfIPoVHkK_xEM5puxi2CelzYKeJSeFdmOFWHH795BGzZ9Qf5NMn_Yfh41B8iU5zVfx7cq0vKupa93C2kOcWldTthHc2hb3LF_UappNN75lXuq-a5nWZc8kpn-B6hdAZHP259L16SU0fYupcisvDGTBbGr4LpHUnpe-YuN-MlympCcZ-tprPuiqL7l6615Luk5UU1vJ_TNRDVLpr4djoXL92m29TZ2755u4q7WvBd0OXppjYWM0NylOpZrUeR6kw1EXg7G6XLxu-n69AzvGOkzrfa3uLhfJxKvrMcYbw8Og_dpSnARqTpQnFslGxd6YqLacD8bcKiQyu6UGBX0MDMqaEY0ZRliTo4A9CXuuAVYgFxFzakcvslCfzW1WOUJmVqtRE7kVjdO13BC5yA9l8R8IaEPn",
+  "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=_Yy_rHiczVbbcqpIFP2A-Y7wkiigEmOqqFPdLYnEqGmRw-iLhQ02KIIBDCFv8zYfMl81XzMNaIK3ZHIepmZXYd_2jd17sfzjL8_1l3__9qcTx-volueTJKnSIKCeXSXBijej1Cf8PPCikDg_HE-2fY568ibi0he5zpFIFjjbldvD7sJcN4eDp46zvmk8Bb1KuwYCLjeXpzMzshfM--si4qc8-1le1NtsUY2qtl8dTkJKQjyaV3rVmiC2qgPeXDEF8J8JAhhQ9otwvjgr9__OHaVAAeCh5L_wqZRUsgUGCoXFGuLTrrDKVLMRYFRk1k7eKuMZm5iFRjs7PC2ofABprgdh7g9oEJw3PClFpohufX-qq5zcRWUHmfS-NGE5jvezUAF6SrYlPs5EBYq6lzEuglCYgEUyp4qiwE_yZgXREyh1M4tP1Jh0sTpKtin02gYLzFuUNa3Az0I2iLxLHJJPwijrZTRqCUFn8AIJXbX6N_byeWaId5JuuOYkrpg24MmM6XmBadnW1JkKP_K1WBMloVVv3lzlICLRO4qiMorWqwZqTidIjG-qj1Uo7iCEsoocV4lVm62RCo4Fbtvs5AWrYHcZynuB2a6KSuXSt6MDYICzvi35BgEmecF2O3bev-TjSj5SyiIcQ-gwtQxCuREsQsNyejsVSuEJUybk6A2PupDFTYoZPUQ_PugkBaNlOUSyd8qS1BwlK1SGgJ9EKRIo-UBZeGVnjnd7NLvEXd0R3DtWyhByaVZ1FpZqTPEB025mDt_vAG5fDj4cAt89fOtc7pg_OFa_95V4f9vPPxCFzg4rB61fhsx9KlUew2tpNCcT3-u0Riu7r6I7peFH-DREgtXsG0xD_k8gcnc8pG9tz4DIziZfg4iyz91ZHiqmHzxUgAjiMyBSCxCd4CG70Cjx0CGIkFYC0Rc89F0QoU9BpO_2jkGUOTgFouUZEG15qAQibZ-H9kD0zkMfIPoVHkK_xEM5puxi2CelzYKeJSeFdmOFWHH795BGzZ9Qf5NMn_Yfh41B8iU5zVfx7cq0vKupa93C2kOcWldTthHc2hb3LF_UappNN75lXuq-a5nWZc8kpn-B6hdAZHP259L16SU0fYupcisvDGTBbGr4LpHUnpe-YuN-MlympCcZ-tprPuiqL7l6615Luk5UU1vJ_TNRDVLpr4djoXL92m29TZ2755u4q7WvBd0OXppjYWM0NylOpZrUeR6kw1EXg7G6XLxu-n69AzvGOkzrfa3uLhfJxKvrMcYbw8Og_dpSnARqTpQnFslGxd6YqLacD8bcKiQyu6UGBX0MDMqaEY0ZRliTo4A9CXuuAVYgFxFzakcvslCfzW1WOUJmVqtRE7kVjdO13BC5yA9l8R8IaEPn"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Segunda Unidad Macan\u00e1 Marching Band",
+   "link": "https://thehollywoodchristmasparade.org/band-and-pageantry/segunda-unidad-macana-marching-band/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlwEB6zswFf9pm_7kZpB8Q6ZqZf0sz9tUL8k8ZHMn64fhAliQlJYhCnXSs0Eeaya4fV4jxLoAo5mutgrOeZHIpI5yXmdrWWMOKDjKc0TV7-xahcAMJdfnsFQZ-Bb_H_1PkXluOMrCaUM0IyGH8524bFWZGQrxSfisKG2AyaJbwti0AaUcgYhvuWLN5th4_J3cc7r6wieRKHJS&ved=2ahUKEwjei_SR7OSWAxXx8MkDHaDnAKsQFnoECCAQAQ&uoh=1",
+   "displayed_link": "https://thehollywoodchristmasparade.org \u203a segunda-uni...",
+   "favicon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAABQBACdASocABIAPtE-tFooIigoFAEAGgljALboqcGEgPd6Df6D3g_nw_GAAP72B-DStIJps6Nv88VefS2yoCW2eSqPAIBn8ebA6k2CL9wyhHFO9lZQjo2uSo0h0qR12uxixw6wj_T4q0BDzOYAJG-9vEgDTXq7DqE8P4fHh_12YMhr9KAAAA.webp",
+   "snippet": "The Segunda Unidad Macan\u00e1 Marching Band (SUM), from Escuela Segunda Unidad Gloria M. Borrero Olivera in Guayanilla, Puerto Rico, was founded in 2007 under ...",
+   "snippet_highlighted_words": [
+    "Segunda Unidad Macan\u00e1 Marching Band"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The Segunda Unidad Macan\u00e1 Marching Band (SUM), from Escuela Segunda Unidad Gloria M. Borrero Olivera in Guayanilla, Puerto Rico, was founded in 2007 under ...",
+     "source_info_link": "https://thehollywoodchristmasparade.org/band-and-pageantry/segunda-unidad-macana-marching-band/",
+     "icon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAABQBACdASocABIAPtE-tFooIigoFAEAGgljALboqcGEgPd6Df6D3g_nw_GAAP72B-DStIJps6Nv88VefS2yoCW2eSqPAIBn8ebA6k2CL9wyhHFO9lZQjo2uSo0h0qR12uxixw6wj_T4q0BDzOYAJG-9vEgDTXq7DqE8P4fHh_12YMhr9KAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESlwEB6zswFf9pm_7kZpB8Q6ZqZf0sz9tUL8k8ZHMn64fhAliQlJYhCnXSs0Eeaya4fV4jxLoAo5mutgrOeZHIpI5yXmdrWWMOKDjKc0TV7-xahcAMJdfnsFQZ-Bb_H_1PkXluOMrCaUM0IyGH8524bFWZGQrxSfisKG2AyaJbwti0AaUcgYhvuWLN5th4_J3cc7r6wieRKHJS&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESlwEB6zswFf9pm_7kZpB8Q6ZqZf0sz9tUL8k8ZHMn64fhAliQlJYhCnXSs0Eeaya4fV4jxLoAo5mutgrOeZHIpI5yXmdrWWMOKDjKc0TV7-xahcAMJdfnsFQZ-Bb_H_1PkXluOMrCaUM0IyGH8524bFWZGQrxSfisKG2AyaJbwti0AaUcgYhvuWLN5th4_J3cc7r6wieRKHJS",
+   "source": "The Hollywood Christmas Parade",
+   "read_more_link": "https://thehollywoodchristmasparade.org/band-and-pageantry/segunda-unidad-macana-marching-band/#:~:text=The%20Segunda%20Unidad%20Macan%C3%A1%20Marching,the%20direction%20of%20Armando%20L."
+  },
+  {
+   "position": 2,
+   "title": "Banda SUM De Guayanilla. Segunda Unidad Macan\u00e1 ...",
+   "link": "https://www.facebook.com/BandaSUM/posts/593010309490372/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHrOzAVIKG4KFI-Vlyun_4ctslIQdd_FDrw3qBPIomOLvNxuGxUvpXJSPYUVNzmwcPrM8H3BcanYgYvZMH3U4z_wkgSqcJT5ovinWlxV45guKn3gI9KuSgg-r2MyWbTQNICQ_lrg8dfElkHO1tW1j8&ved=2ahUKEwjei_SR7OSWAxXx8MkDHaDnAKsQFnoECBAQAQ&uoh=1",
+   "displayed_link": "80+ reactions \u00b7 3 years ago",
+   "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "snippet": "... SEGUNDA UNIDAD MACANA MARCHING BAND\u201d parteciper\u00e0 al Festival Internazionale di Giulianova #abruzzo #italia Directamente desde la Isla del ...",
+   "snippet_highlighted_words": [
+    "SEGUNDA UNIDAD MACANA MARCHING BAND"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "... SEGUNDA UNIDAD MACANA MARCHING BAND\u201d parteciper\u00e0 al Festival Internazionale di Giulianova #abruzzo #italia Directamente desde la Isla del ...",
+     "source_info_link": "https://www.facebook.com/BandaSUM/posts/593010309490372/",
+     "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEScAHrOzAVIKG4KFI-Vlyun_4ctslIQdd_FDrw3qBPIomOLvNxuGxUvpXJSPYUVNzmwcPrM8H3BcanYgYvZMH3U4z_wkgSqcJT5ovinWlxV45guKn3gI9KuSgg-r2MyWbTQNICQ_lrg8dfElkHO1tW1j8&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEScAHrOzAVIKG4KFI-Vlyun_4ctslIQdd_FDrw3qBPIomOLvNxuGxUvpXJSPYUVNzmwcPrM8H3BcanYgYvZMH3U4z_wkgSqcJT5ovinWlxV45guKn3gI9KuSgg-r2MyWbTQNICQ_lrg8dfElkHO1tW1j8",
+   "source": "Facebook \u00b7 Banda SUM De Guayanilla. Segunda Unidad Macan\u00e1, Gloria M. Borrero Olivera",
+   "read_more_link": "https://www.facebook.com/BandaSUM/posts/593010309490372/#:~:text=%F0%9F%94%B5%20Direttamente%20dall'isola%20caraibica%20dell'incanto,Directamente%20desde%20la%20Isla%20del"
+  },
+  {
+   "position": 3,
+   "title": "Burton Bulldog Marching Band",
+   "link": "https://thehollywoodchristmasparade.org/band-and-pageantry/burton-bulldog-marching-band-3/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkgEB6zswFUKZaESw5cxUp6rBMkCaZvTvVQAhy_4oDGaDdEzp_8uviMQdLDkeTBbJumBbmoSH3G0JHeear1hzAJOKtyL7uzO6KkaSxdvNL6S4YZonsRVUEGxVQWq09uBO1xQRK0XoWP0vAjTR4J16f_Z8CI9rBD7e99_80dAQIhneBIk0W18CCMVGM8kl5jldlmTFcw&ved=2ahUKEwjei_SR7OSWAxXx8MkDHaDnAKsQFnoECA4QAQ&uoh=1",
+   "displayed_link": "https://thehollywoodchristmasparade.org \u203a burton-bulld...",
+   "favicon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAABQBACdASocABIAPtE-tFooIigoFAEAGgljALboqcGEgPd6Df6D3g_nw_GAAP72B-DStIJps6Nv88VefS2yoCW2eSqPAIBn8ebA6k2CL9wyhHFO9lZQjo2uSo0h0qR12uxixw6wj_T4q0BDzOYAJG-9vEgDTXq7DqE8P4fHh_12YMhr9KAAAA.webp",
+   "snippet": "Segunda Unidad Macan\u00e1 Marching Band. The Segunda Unidad Macan\u00e1 Marching Band (SUM), from Escuela Segunda Unidad Gloria M. Borrero Olivera in Guayanilla ...",
+   "snippet_highlighted_words": [
+    "Segunda Unidad Macan\u00e1 Marching Band",
+    "Segunda Unidad Macan\u00e1 Marching Band"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Segunda Unidad Macan\u00e1 Marching Band. The Segunda Unidad Macan\u00e1 Marching Band (SUM), from Escuela Segunda Unidad Gloria M. Borrero Olivera in Guayanilla ...",
+     "source_info_link": "https://thehollywoodchristmasparade.org/band-and-pageantry/burton-bulldog-marching-band-3/",
+     "icon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAABQBACdASocABIAPtE-tFooIigoFAEAGgljALboqcGEgPd6Df6D3g_nw_GAAP72B-DStIJps6Nv88VefS2yoCW2eSqPAIBn8ebA6k2CL9wyhHFO9lZQjo2uSo0h0qR12uxixw6wj_T4q0BDzOYAJG-9vEgDTXq7DqE8P4fHh_12YMhr9KAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESkgEB6zswFUKZaESw5cxUp6rBMkCaZvTvVQAhy_4oDGaDdEzp_8uviMQdLDkeTBbJumBbmoSH3G0JHeear1hzAJOKtyL7uzO6KkaSxdvNL6S4YZonsRVUEGxVQWq09uBO1xQRK0XoWP0vAjTR4J16f_Z8CI9rBD7e99_80dAQIhneBIk0W18CCMVGM8kl5jldlmTFcw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESkgEB6zswFUKZaESw5cxUp6rBMkCaZvTvVQAhy_4oDGaDdEzp_8uviMQdLDkeTBbJumBbmoSH3G0JHeear1hzAJOKtyL7uzO6KkaSxdvNL6S4YZonsRVUEGxVQWq09uBO1xQRK0XoWP0vAjTR4J16f_Z8CI9rBD7e99_80dAQIhneBIk0W18CCMVGM8kl5jldlmTFcw",
+   "source": "The Hollywood Christmas Parade",
+   "read_more_link": "https://thehollywoodchristmasparade.org/band-and-pageantry/burton-bulldog-marching-band-3/#:~:text=Segunda%20Unidad%20Macan%C3%A1%20Marching%20Band,founded%20in%202007%20under%20the"
+  },
+  {
+   "position": 4,
+   "title": "Vamos bien con el Master Degree \ud83e\udd79\u2705 me falta una clase m\u00e1s ...",
+   "link": "https://www.instagram.com/p/DF6qmDgMywZ/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAVLG6lPlRBCC5UcQqEYADVKr9YPHauU4xtIdK3nLqc3cKX3dVCOgrgEG-HqMcUAZNdZ49TVx27n0zHacq6EoknyXlBEfxtkecozuAyj4kzNVjPsUzODQwQIG1xjw&ved=2ahUKEwjei_SR7OSWAxXx8MkDHaDnAKsQFnoECCEQAQ&uoh=1",
+   "displayed_link": "https://www.instagram.com \u203a ...",
+   "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+   "snippet": "2018 Chicago Thanksgiving Parade Segunda Unidad Macana Marching Band Puerto Rico. sum_colorguard's profile picture. carsaxlicea's profile picture \u00b7 carsaxlicea ...",
+   "snippet_highlighted_words": [
+    "Segunda Unidad Macana Marching Band"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "2018 Chicago Thanksgiving Parade Segunda Unidad Macana Marching Band Puerto Rico. sum_colorguard's profile picture. carsaxlicea's profile picture \u00b7 carsaxlicea ...",
+     "source_info_link": "https://www.instagram.com/p/DF6qmDgMywZ/",
+     "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYAHrOzAVLG6lPlRBCC5UcQqEYADVKr9YPHauU4xtIdK3nLqc3cKX3dVCOgrgEG-HqMcUAZNdZ49TVx27n0zHacq6EoknyXlBEfxtkecozuAyj4kzNVjPsUzODQwQIG1xjw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYAHrOzAVLG6lPlRBCC5UcQqEYADVKr9YPHauU4xtIdK3nLqc3cKX3dVCOgrgEG-HqMcUAZNdZ49TVx27n0zHacq6EoknyXlBEfxtkecozuAyj4kzNVjPsUzODQwQIG1xjw",
+   "source": "Instagram"
+  },
+  {
+   "position": 5,
+   "title": "Cherry Creek High School Marching Band",
+   "link": "https://thehollywoodchristmasparade.org/band-and-pageantry/cherry-creek-high-school-marching-band-3/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnAEB6zswFSp62gGIA08w-BikWnZ0IuT7TzRBRyBIiQwBDXnAz-zUJH-VD4UaL571GFz41gavGnV1YpJ9YNkqjfjLiB7qcYfL1DofYE49p9H_Og9aoQRxkffQoZ9ykbiDD_jtwXJkMjJD4yd74_jg6_21QES6h_tGV6gQxZ92vyxYWVu_clf9wCVA3vyO375B-osFalCwn29jLy_bW74&ved=2ahUKEwjei_SR7OSWAxXx8MkDHaDnAKsQFnoECBQQAQ&uoh=1",
+   "displayed_link": "https://thehollywoodchristmasparade.org \u203a cherry-creek...",
+   "favicon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAABQBACdASocABIAPtE-tFooIigoFAEAGgljALboqcGEgPd6Df6D3g_nw_GAAP72B-DStIJps6Nv88VefS2yoCW2eSqPAIBn8ebA6k2CL9wyhHFO9lZQjo2uSo0h0qR12uxixw6wj_T4q0BDzOYAJG-9vEgDTXq7DqE8P4fHh_12YMhr9KAAAA.webp",
+   "snippet": "Segunda Unidad Macan\u00e1 Marching Band. The Segunda Unidad Macan\u00e1 Marching Band (SUM), from Escuela Segunda Unidad Gloria M. Borrero Olivera in Guayanilla ...",
+   "snippet_highlighted_words": [
+    "Segunda Unidad Macan\u00e1 Marching Band",
+    "Segunda Unidad Macan\u00e1 Marching Band"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Segunda Unidad Macan\u00e1 Marching Band. The Segunda Unidad Macan\u00e1 Marching Band (SUM), from Escuela Segunda Unidad Gloria M. Borrero Olivera in Guayanilla ...",
+     "source_info_link": "https://thehollywoodchristmasparade.org/band-and-pageantry/cherry-creek-high-school-marching-band-3/",
+     "icon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAABQBACdASocABIAPtE-tFooIigoFAEAGgljALboqcGEgPd6Df6D3g_nw_GAAP72B-DStIJps6Nv88VefS2yoCW2eSqPAIBn8ebA6k2CL9wyhHFO9lZQjo2uSo0h0qR12uxixw6wj_T4q0BDzOYAJG-9vEgDTXq7DqE8P4fHh_12YMhr9KAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESnAEB6zswFSp62gGIA08w-BikWnZ0IuT7TzRBRyBIiQwBDXnAz-zUJH-VD4UaL571GFz41gavGnV1YpJ9YNkqjfjLiB7qcYfL1DofYE49p9H_Og9aoQRxkffQoZ9ykbiDD_jtwXJkMjJD4yd74_jg6_21QES6h_tGV6gQxZ92vyxYWVu_clf9wCVA3vyO375B-osFalCwn29jLy_bW74&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESnAEB6zswFSp62gGIA08w-BikWnZ0IuT7TzRBRyBIiQwBDXnAz-zUJH-VD4UaL571GFz41gavGnV1YpJ9YNkqjfjLiB7qcYfL1DofYE49p9H_Og9aoQRxkffQoZ9ykbiDD_jtwXJkMjJD4yd74_jg6_21QES6h_tGV6gQxZ92vyxYWVu_clf9wCVA3vyO375B-osFalCwn29jLy_bW74",
+   "source": "The Hollywood Christmas Parade",
+   "read_more_link": "https://thehollywoodchristmasparade.org/band-and-pageantry/cherry-creek-high-school-marching-band-3/#:~:text=Segunda%20Unidad%20Macan%C3%A1%20Marching%20Band,founded%20in%202007%20under%20the"
+  },
+  {
+   "position": 6,
+   "title": "Si comparamos los primeros videos de mis estudiantes ...",
+   "link": "https://www.instagram.com/p/DFJv3i2vOJf/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAV8monGMQ0uUJWLX5XM1RVPL9GTpGjHKeNCFgJBU57oaL6WkAcLn7Y02FzUU01MpWmCZHoCY65MLYp8cfEcilUas18yq-r9bSjr3dBWq5utR9vcQ1iLy5Z4uQvBw&ved=2ahUKEwjei_SR7OSWAxXx8MkDHaDnAKsQFnoECCQQAQ&uoh=1",
+   "displayed_link": "https://www.instagram.com \u203a ...",
+   "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+   "snippet": "2018 Chicago Thanksgiving Parade Segunda Unidad Macana Marching Band Puerto Rico. sum_colorguard's profile picture. carsaxlicea's profile picture \u00b7 carsaxlicea ...",
+   "snippet_highlighted_words": [
+    "Segunda Unidad Macana Marching Band"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "2018 Chicago Thanksgiving Parade Segunda Unidad Macana Marching Band Puerto Rico. sum_colorguard's profile picture. carsaxlicea's profile picture \u00b7 carsaxlicea ...",
+     "source_info_link": "https://www.instagram.com/p/DFJv3i2vOJf/",
+     "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYAHrOzAV8monGMQ0uUJWLX5XM1RVPL9GTpGjHKeNCFgJBU57oaL6WkAcLn7Y02FzUU01MpWmCZHoCY65MLYp8cfEcilUas18yq-r9bSjr3dBWq5utR9vcQ1iLy5Z4uQvBw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYAHrOzAV8monGMQ0uUJWLX5XM1RVPL9GTpGjHKeNCFgJBU57oaL6WkAcLn7Y02FzUU01MpWmCZHoCY65MLYp8cfEcilUas18yq-r9bSjr3dBWq5utR9vcQ1iLy5Z4uQvBw",
+   "source": "Instagram"
+  },
+  {
+   "position": 7,
+   "title": "Franklin Central Marching Flashes",
+   "link": "https://thehollywoodchristmasparade.org/band-and-pageantry/franklin-central-marching-flashes/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlQEB6zswFWmo4FVn8ZzhBgbgGqw7sfj1lS7bYVr-2f5S05GOHq5zS5hnEHPNwqVlGu2H8mMNP0LV8QKysg3GS90dMoqncYXWiAday6FY10VfroWbc5iXqAyyohsR6b0Ts267YCTMGg3TpPdIEm79wmyTRouXfGg0K-IJsKxW2rV04KXgXv7R4uWy6CRfXR-tUZzJCPI7LA&ved=2ahUKEwjei_SR7OSWAxXx8MkDHaDnAKsQFnoECA0QAQ&uoh=1",
+   "displayed_link": "https://thehollywoodchristmasparade.org \u203a franklin-cent...",
+   "favicon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAABQBACdASocABIAPtE-tFooIigoFAEAGgljALboqcGEgPd6Df6D3g_nw_GAAP72B-DStIJps6Nv88VefS2yoCW2eSqPAIBn8ebA6k2CL9wyhHFO9lZQjo2uSo0h0qR12uxixw6wj_T4q0BDzOYAJG-9vEgDTXq7DqE8P4fHh_12YMhr9KAAAA.webp",
+   "snippet": "Segunda Unidad Macan\u00e1 Marching Band. The Segunda Unidad Macan\u00e1 Marching Band (SUM), from Escuela Segunda Unidad Gloria M. Borrero Olivera in Guayanilla ...",
+   "snippet_highlighted_words": [
+    "Segunda Unidad Macan\u00e1 Marching Band",
+    "Segunda Unidad Macan\u00e1 Marching Band"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Segunda Unidad Macan\u00e1 Marching Band. The Segunda Unidad Macan\u00e1 Marching Band (SUM), from Escuela Segunda Unidad Gloria M. Borrero Olivera in Guayanilla ...",
+     "source_info_link": "https://thehollywoodchristmasparade.org/band-and-pageantry/franklin-central-marching-flashes/",
+     "icon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAABQBACdASocABIAPtE-tFooIigoFAEAGgljALboqcGEgPd6Df6D3g_nw_GAAP72B-DStIJps6Nv88VefS2yoCW2eSqPAIBn8ebA6k2CL9wyhHFO9lZQjo2uSo0h0qR12uxixw6wj_T4q0BDzOYAJG-9vEgDTXq7DqE8P4fHh_12YMhr9KAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESlQEB6zswFWmo4FVn8ZzhBgbgGqw7sfj1lS7bYVr-2f5S05GOHq5zS5hnEHPNwqVlGu2H8mMNP0LV8QKysg3GS90dMoqncYXWiAday6FY10VfroWbc5iXqAyyohsR6b0Ts267YCTMGg3TpPdIEm79wmyTRouXfGg0K-IJsKxW2rV04KXgXv7R4uWy6CRfXR-tUZzJCPI7LA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESlQEB6zswFWmo4FVn8ZzhBgbgGqw7sfj1lS7bYVr-2f5S05GOHq5zS5hnEHPNwqVlGu2H8mMNP0LV8QKysg3GS90dMoqncYXWiAday6FY10VfroWbc5iXqAyyohsR6b0Ts267YCTMGg3TpPdIEm79wmyTRouXfGg0K-IJsKxW2rV04KXgXv7R4uWy6CRfXR-tUZzJCPI7LA",
+   "source": "The Hollywood Christmas Parade",
+   "read_more_link": "https://thehollywoodchristmasparade.org/band-and-pageantry/franklin-central-marching-flashes/#:~:text=Segunda%20Unidad%20Macan%C3%A1%20Marching%20Band,founded%20in%202007%20under%20the"
+  },
+  {
+   "position": 8,
+   "title": "2026 Marching Bands, Dance & Cheer Groups Archives",
+   "link": "https://thehollywoodchristmasparade.org/category/2026-marching-bands-dance-cheer-groups/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkAEB6zswFQF4iK7my_1E2ipzKftBa8xUmGNaXr1Uh2n46Zu8jJykOF2rBh1iKGOmTojiMuGsM78QMybj6ZRqwro4mW7XKhW7RsQ60c4sBMSeYV_A9N7hdrBlHYnFu8pNtG52dZIePIQ1mdecR0wpKCqKuuEFAt2cl4UlHM_ldp3_207OJjS1b67PdWLEimqwFF8&ved=2ahUKEwjei_SR7OSWAxXx8MkDHaDnAKsQFnoECA8QAQ&uoh=1",
+   "displayed_link": "https://thehollywoodchristmasparade.org \u203a category \u203a 2...",
+   "favicon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAABQBACdASocABIAPtE-tFooIigoFAEAGgljALboqcGEgPd6Df6D3g_nw_GAAP72B-DStIJps6Nv88VefS2yoCW2eSqPAIBn8ebA6k2CL9wyhHFO9lZQjo2uSo0h0qR12uxixw6wj_T4q0BDzOYAJG-9vEgDTXq7DqE8P4fHh_12YMhr9KAAAA.webp",
+   "snippet": "Cherry Creek High School Marching Band \u00b7 Sonata Music School Dhol Class \u00b7 Franklin Central Marching Flashes \u00b7 Segunda Unidad Macan\u00e1 Marching Band \u00b7 Burton Bulldog ...",
+   "snippet_highlighted_words": [
+    "Segunda Unidad Macan\u00e1 Marching Band"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Cherry Creek High School Marching Band \u00b7 Sonata Music School Dhol Class \u00b7 Franklin Central Marching Flashes \u00b7 Segunda Unidad Macan\u00e1 Marching Band \u00b7 Burton Bulldog ...",
+     "source_info_link": "https://thehollywoodchristmasparade.org/category/2026-marching-bands-dance-cheer-groups/",
+     "icon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAABQBACdASocABIAPtE-tFooIigoFAEAGgljALboqcGEgPd6Df6D3g_nw_GAAP72B-DStIJps6Nv88VefS2yoCW2eSqPAIBn8ebA6k2CL9wyhHFO9lZQjo2uSo0h0qR12uxixw6wj_T4q0BDzOYAJG-9vEgDTXq7DqE8P4fHh_12YMhr9KAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESkAEB6zswFQF4iK7my_1E2ipzKftBa8xUmGNaXr1Uh2n46Zu8jJykOF2rBh1iKGOmTojiMuGsM78QMybj6ZRqwro4mW7XKhW7RsQ60c4sBMSeYV_A9N7hdrBlHYnFu8pNtG52dZIePIQ1mdecR0wpKCqKuuEFAt2cl4UlHM_ldp3_207OJjS1b67PdWLEimqwFF8&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESkAEB6zswFQF4iK7my_1E2ipzKftBa8xUmGNaXr1Uh2n46Zu8jJykOF2rBh1iKGOmTojiMuGsM78QMybj6ZRqwro4mW7XKhW7RsQ60c4sBMSeYV_A9N7hdrBlHYnFu8pNtG52dZIePIQ1mdecR0wpKCqKuuEFAt2cl4UlHM_ldp3_207OJjS1b67PdWLEimqwFF8",
+   "source": "The Hollywood Christmas Parade",
+   "read_more_link": "https://thehollywoodchristmasparade.org/category/2026-marching-bands-dance-cheer-groups/#:~:text=Cherry%20Creek%20High%20School%20Marching,Band&text=Sonata%20Music%20School%20Dhol%20Class&text=Franklin%20Central%20Marching%20Flashes&text=Segunda%20Unidad%20Macan%C3%A1%20Marching%20Band&text=Burton%20Bulldog%20Marching%20Band"
+  },
+  {
+   "position": 9,
+   "title": "Pero y \u2026 d\u00f3nde est\u00e1 Nicole? \ud83d\udc40 #cerromimeorocovispr\ud83c\uddf5\ud83c\uddf7 ...",
+   "link": "https://www.instagram.com/reel/C5Mpoo4r9GR/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVqCTZpAKx9lrD2ejrajARCEvDkQ4KUTkHPOCxVp_3Aye6T7HCko7XmrpiDxMyvkUm-hHHEUpTVQqZuU-iI6RA-1QuqnvEDifMrR2YNeQyXLqtQsv9567rl7LOX7inuA&ved=2ahUKEwjei_SR7OSWAxXx8MkDHaDnAKsQFnoECEcQAQ&uoh=1",
+   "displayed_link": "20+ likes \u00b7 2 years ago",
+   "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+   "snippet": "... Segunda Unidad Macan\u00e1 Marching Band Compramos Oro - Plata - Relojes Joyer\u00eda Madrid 08:01 Mon Jun 12. liannenrobles's profile picture ...",
+   "snippet_highlighted_words": [
+    "Segunda Unidad Macan\u00e1 Marching Band"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "... Segunda Unidad Macan\u00e1 Marching Band Compramos Oro - Plata - Relojes Joyer\u00eda Madrid 08:01 Mon Jun 12. liannenrobles's profile picture ...",
+     "source_info_link": "https://www.instagram.com/reel/C5Mpoo4r9GR/",
+     "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYwHrOzAVqCTZpAKx9lrD2ejrajARCEvDkQ4KUTkHPOCxVp_3Aye6T7HCko7XmrpiDxMyvkUm-hHHEUpTVQqZuU-iI6RA-1QuqnvEDifMrR2YNeQyXLqtQsv9567rl7LOX7inuA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYwHrOzAVqCTZpAKx9lrD2ejrajARCEvDkQ4KUTkHPOCxVp_3Aye6T7HCko7XmrpiDxMyvkUm-hHHEUpTVQqZuU-iI6RA-1QuqnvEDifMrR2YNeQyXLqtQsv9567rl7LOX7inuA",
+   "source": "Instagram \u00b7 liannenrobles",
+   "read_more_link": "https://www.instagram.com/reel/C5Mpoo4r9GR/#:~:text=Salmo%20139%3A23%2D24%20Conoce%20a%20Jes%C3%BAs,Madrid%2008%3A01%20Mon%20Jun%2012"
+  }
+ ],
+ "dmca_messages": {
+  "title": "Notices about Filtered Results",
+  "messages": [
+   {
+    "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 10 already displayed.If you like, you can repeat the search with the omitted results included.",
+    "highlighted_words": [
+     {
+      "link": "https://www.google.com/search?q=%22Segunda+Unidad+Macan%C3%A1+Marching+Band%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnu5zt1ckkK-PegQOfOVLGGRSOSOyg:1789071885934&filter=0",
+      "text": "repeat the search with the omitted results included"
+     }
+    ]
+   }
+  ]
+ }
+}

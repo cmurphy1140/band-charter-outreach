@@ -1,0 +1,545 @@
+{
+ "search_information": {
+  "query_displayed": "\"Arcadia High School\" California",
+  "total_results": 131000,
+  "time_taken_displayed": 0.27,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Arcadia High School",
+  "type": "School in Arcadia, California",
+  "entity_type": "local_nav",
+  "kgmid": "/m/0cd4hs",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/0cd4hs&hl=en-US&q=Arcadia+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F0cd4hs&q=Arcadia+High+School",
+  "place_id": "ChIJFSsUf8_bwoAROOUk97e7RK0",
+  "website": "https://ahs.ausd.net/",
+  "description": "Arcadia High School is a four-year comprehensive secondary school located in Arcadia, California, United States. It is part of the Arcadia Unified School District. The high school was opened in 1952.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa308e001289b682191a1fb/images/xRenqy9qOWNZlp075GEtYYRcRro0yDtKYfLG9NxtOT0.webp",
+   "link": "https://www.google.com/maps/place/Arcadia+High+School/data=!4m2!3m1!1s0x0:0xad44bbb7f724e538?sa=X&ved=2ahUKEwjEktG84-SWAxVjK0QIHUI-NUQQ_BJ6BAgQEAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Arcadia_High_School_(California)"
+  },
+  "address": "180 Campus Dr, Arcadia, CA 91006",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=arcadia+high+school+address&ludocid=12485310465777657144&sa=X&ved=2ahUKEwjEktG84-SWAxVjK0QIHUI-NUQQ6BN6BAghEAI"
+   }
+  ],
+  "founded": "1952",
+  "color": "Gold",
+  "color_links": [
+   {
+    "text": "Gold",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yYv9a-ZEIw9b3bgmSTQtBIaidFg5CTFKLDlrgt05nx7pwwrB6pv8xhlmtdV-0Td2n_e22efnaFE50p2uqmBQhr2pqeIqVuDeN9T2-JF06z6QEIvj4EHwC1WztC1dY2z4AczHIoU%3D&sa=X&ved=2ahUKEwjEktG84-SWAxVjK0QIHUI-NUQQmxN6BAgoEAI"
+   }
+  ],
+  "school_type": "High school",
+  "school_type_links": [
+   {
+    "text": "High school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=High+school&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMppXfNh-OkLk_azmU0uk1AX-OfC4NSfJnAjXj6Nh8csnAx8KfXQVudZIdPaMnVCPbY2DnfqQyQgYNsKD02NKZFOXts92tq5v7SeB6Wz-JPSMjhvmhe4fzTAvB0V1iuxlQucU2EhmNea6nHYXBuaN080Bc8fLy&sa=X&ved=2ahUKEwjEktG84-SWAxVjK0QIHUI-NUQQmxN6BAgpEAI"
+   }
+  ],
+  "phone": "(626) 821-8370",
+  "raw_hours": "Open \u00b7 Closes 3 - 30 PM",
+  "hours": {
+   "thursday": {
+    "opens": "8:30\u202fAM",
+    "closes": "3:30\u202fPM"
+   },
+   "friday": {
+    "opens": "8:30\u202fAM",
+    "closes": "3:30\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "8:30\u202fAM",
+    "closes": "3:30\u202fPM"
+   },
+   "tuesday": {
+    "opens": "8:30\u202fAM",
+    "closes": "3:30\u202fPM"
+   },
+   "wednesday": {
+    "opens": "9\u202fAM",
+    "closes": "3\u202fPM"
+   }
+  },
+  "people_also_search_for": [
+   {
+    "name": "Temple City High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlR4rOnezulfbyh_a4CMvwjF5FFxWz4xdPS_Iy9K2uRk4qdDsGU4Wqg19hwczmn4jY219VxzJIJXCHquIVq4-OIvB3jZoGMRngoe8bU7xawGzgUwi5HgMwcEJ95AuEh7whA5GY=w172-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yRtgjtv3yeugpMWCxo-9w746q4w7p852EaeuMOs9Q5nnGJ4JGS1AfY7zVio99wasTeLEB_37Ib82DmD5WENMXBW3Bubaiyj6FwX7V3YeToq_8uYC_J8kxi6-DzwO8gAKeC5o_PxNTGiv0h21AfRMgjUFVBwJX4aH0B_g_aa4Zd8psfdR9Q4zNz42s93mvMko4dcD5-GT_OOUEMRMw9os7IIM--BOty8oLlj_QpR_VRYCaAWYDy4odqeP3zXdI85NTWi1IfBk1HDijqx4jP1KD7RNgeFw&q=Temple+City+High+School&sa=X&ved=2ahUKEwjEktG84-SWAxVjK0QIHUI-NUQQs9oBKAB6BAgfEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Temple+City+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yRtgjtv3yeugpMWCxo-9w746q4w7p852EaeuMOs9Q5nnGJ4JGS1AfY7zVio99wasTeLEB_37Ib82DmD5WENMXBW3Bubaiyj6FwX7V3YeToq_8uYC_J8kxi6-DzwO8gAKeC5o_PxNTGiv0h21AfRMgjUFVBwJX4aH0B_g_aa4Zd8psfdR9Q4zNz42s93mvMko4dcD5-GT_OOUEMRMw9os7IIM--BOty8oLlj_QpR_VRYCaAWYDy4odqeP3zXdI85NTWi1IfBk1HDijqx4jP1KD7RNgeFw"
+   },
+   {
+    "name": "San Marino High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlcIRPE_c4IfZGbzA9rnuZ2g8ZLLieS_RIGwdYGnHZldkKs436au2oAdmebWzoJ8R1eaUIrMR_2DXfAWHT02Oh6e7KDphyOSJIiOB_ZhiijCUNuths5Jm1GylHV9xvxESrT1DE=w161-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yZTr2OyQSgYPSr0pRd04xoASolqZusYpFV3Fi936FNC5Pl9JP00vyfI6ZcwjI_Hm_jcahbgvHowYI-9ZIkrm5OQrwqpcBisoJKOQl_qlf0gNdVfswh_s_d_izcYZ2_P-LPoQu1qPVqmIRTSguOpjZsYKrmIvn8J44jrpdis8FrZvnszinBVGqszvnoi9q34WivGbwOFGA_MLnhD714Ca88nPNalaf4frHqUWIHHtz-d2FDh-cEI6b3FVP5KP4HwdDpDLaknqnbN27sfbsWBt2aFwioB3&q=San+Marino+High+School&sa=X&ved=2ahUKEwjEktG84-SWAxVjK0QIHUI-NUQQs9oBKAB6BAgfEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=San+Marino+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yZTr2OyQSgYPSr0pRd04xoASolqZusYpFV3Fi936FNC5Pl9JP00vyfI6ZcwjI_Hm_jcahbgvHowYI-9ZIkrm5OQrwqpcBisoJKOQl_qlf0gNdVfswh_s_d_izcYZ2_P-LPoQu1qPVqmIRTSguOpjZsYKrmIvn8J44jrpdis8FrZvnszinBVGqszvnoi9q34WivGbwOFGA_MLnhD714Ca88nPNalaf4frHqUWIHHtz-d2FDh-cEI6b3FVP5KP4HwdDpDLaknqnbN27sfbsWBt2aFwioB3"
+   },
+   {
+    "name": "Gretchen Whitney High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlJsw8a4R26c96s49v0u0X8uLNwAAIEg41-vTXsCvtJ4DpF_KNzNFITeDPpKN_MhIU-GCDWSt2LYrRTBqfZiNOv59WxLazTrakKKQWxlGAH-skhs4NqMLHCKl_lbWkS1H7AR6zb=w204-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yRs_e-ysjBOAitw7BL2SzQRbhMboiaFVkMt0bLt_ymkHL9mVMhq3bAteea9XXfa1ZPqQnMk07144NhUnwMBzMN4gsNwSEy5YfdDhjQlYiEMCLftRZMk8AAJEpmlQmDZtrjvwltzwN9RJCS7jytyLL7HzxD5IhoGWfNm1KH0ri9KghvPryx76cThmLRPbYfYZTVo6igEnzSE_GiNjeO948qGRzHStZY4gQ7Tct1tvU4GlOjNEGNn88CI21o3tkSDquP56Yys%3D&q=Whitney+High+School&sa=X&ved=2ahUKEwjEktG84-SWAxVjK0QIHUI-NUQQs9oBKAB6BAgfEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Whitney+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yRs_e-ysjBOAitw7BL2SzQRbhMboiaFVkMt0bLt_ymkHL9mVMhq3bAteea9XXfa1ZPqQnMk07144NhUnwMBzMN4gsNwSEy5YfdDhjQlYiEMCLftRZMk8AAJEpmlQmDZtrjvwltzwN9RJCS7jytyLL7HzxD5IhoGWfNm1KH0ri9KghvPryx76cThmLRPbYfYZTVo6igEnzSE_GiNjeO948qGRzHStZY4gQ7Tct1tvU4GlOjNEGNn88CI21o3tkSDquP56Yys%3D"
+   },
+   {
+    "name": "Diamond Bar High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlB0cImohGv7A17HogjNIghv03ZjXptdxRSC7pHFCpNzsf1gq8PPUjNonrQQ2SP-qqGZgubpwGAHLr7jwpsgpmyfQBFtM3nKvXxoobZrGPvlpHx9DRtg7Cbti9nI6lMGEJyvd0O=w153-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yY0ap4Z5QVlnhzzsHKpiomKzwAhYQuyRBrT_7ku7LF-KxwTOEjjCJfMc3Os3dXxlWmYGSOcCxOYjE4WemuD7pzNPuHzhz3dgxy6nu9Bx6WUBP0NXGFUfk9stL03eakhxpEhhOqtCqBITTah_n9-3TIybYOXhX4XG0o0IeJZWkL2Ocd-YlV2721Wy979ELgpNqAboCujCX1OVXSEjhAX1COpM3Wabdc1KHm_UmIkmtlLUwyVhuGmq0CYPqOMJEJLT5Qa756D6HBq5vNMl7Iz7bbEfYPD1&q=Diamond+Bar+High+School&sa=X&ved=2ahUKEwjEktG84-SWAxVjK0QIHUI-NUQQs9oBKAB6BAgfEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Diamond+Bar+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yY0ap4Z5QVlnhzzsHKpiomKzwAhYQuyRBrT_7ku7LF-KxwTOEjjCJfMc3Os3dXxlWmYGSOcCxOYjE4WemuD7pzNPuHzhz3dgxy6nu9Bx6WUBP0NXGFUfk9stL03eakhxpEhhOqtCqBITTah_n9-3TIybYOXhX4XG0o0IeJZWkL2Ocd-YlV2721Wy979ELgpNqAboCujCX1OVXSEjhAX1COpM3Wabdc1KHm_UmIkmtlLUwyVhuGmq0CYPqOMJEJLT5Qa756D6HBq5vNMl7Iz7bbEfYPD1"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Arcadia+High+School&stick=H4sIAAAAAAAAAONgFuLUz9U3SE4xyShWQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iFXYsSk5MyUxU8MhMz1AITs7Iz8_Zwcp4i02S4Y1DRWAuX1PnknDDQ6zaizZHJAXbpId9Pw4A-uzCynkAAAA&sa=X&ved=2ahUKEwjEktG84-SWAxVjK0QIHUI-NUQQzO0BKAR6BAgfEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLUz9U3SE4xyShWQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iFXYsSk5MyUxU8MhMz1AITs7Iz8_Zwcp4i02S4Y1DRWAuX1PnknDDQ6zaizZHJAXbpId9Pw4A-uzCynkAAAA",
+  "profiles": [
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/@ArcadiaUnified/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Arcadia+High+School%22+California",
+    "image": "https://serpapi.com/searches/6aa308e001289b682191a1fb/images/xRenqy9qOWNZlp075GEtYWeX-gbmzpCfAAQ_KI_K9O8ttih4QXubEpTp1PDLdxMt.png"
+   },
+   {
+    "name": "X (Twitter)",
+    "link": "https://twitter.com/arcadiaunified",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Arcadia+High+School%22+California",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAABhUlEQVR4AczOA6xcARCF4X_us23btuLUQR3WZlhbQW3bto2gtm3b2J3GN4tY74uHh3okOi42Nj4AAUDwTvDEhisABCOAEAzYTBh0bN-lc5d0QgAhHPqX4Y4pkd367Zc-xMcXCPDg8TPwxeQH724Uj9N95GJ4pnHxby1xgCmV3v-GsFb7k0Iee7UjaQgmIYe9v9O4-wUKWaATyMPAViwvr1NnOQWDdTV5CHYSaKWLmaGDyvU4mTgQcllracaFr-9uk-yLM8k8fAJff0IUTghRVFu3M1ynkYk4nchiqqU3Ry05RDibMMhjtj6Ht3dJxVk_l1G64cspOusychBsCWm01WNM0jFs0sbEYUtIIuTXNco588OLh09JxE6wweuXEAvfL9PQus3-iU80N34KCaQyUOcxTTuSjEmMRI5rS9JwIZfD1t7ceo34YIpnuQ4nGwP8XXlq_fJZd9jE8KBHC5IwAELJ7dWrZ6fOuNhkgFgAEEIAwA1MQkw0AgDC_wnKycrKSQ2iPAkAVyNzq8rxicIAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/arcadiaunified/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Arcadia+High+School%22+California",
+    "image": "https://serpapi.com/searches/6aa308e001289b682191a1fb/images/xRenqy9qOWNZlp075GEtYQZYa8PVp0gtwTG-OD8NAk04EAmmrdM_z1jrQTx26VcS.png"
+   },
+   {
+    "name": "YouTube",
+    "link": "https://www.youtube.com/channel/UCipryUPpWH7hRhCc2B5zy9A",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Arcadia+High+School%22+California",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAP1BMVEX_____z8__n5__kJD_gID_cHD_YGD_v7__39__ICD_AAD_r6__EBD_7-__oKD_MDD_QED_UFD_X1__j4__f396G04EAAAAhklEQVR4AeXQRQLDQAwDQC3bajj5_1dLYb63czYKf8VY50OcBO9swkyUB_SBkfJQlqOXeKJAz_FEQM9zVCqXInqRIy-RC9W-AJDypgCwyoGiV68LkLJFwX6CVJcr8nBwZJgLXMaDAs9RxsMcLE949IQnEnpoeKjEpC25o12OpVwkTURy_JQX1r4RC2S7kZYAAAAASUVORK5CYII.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "What famous people went to Arcadia High School?",
+   "type": "ai_overview",
+   "page_token": "N21XrnicHdBRbpswAABQ7TL9bDDEWRMpmkRng9LhDIPtwM_kmCSAje0RWpr89Qo7w06102zax7vA-_htOqv_fPrVTpO_bhaLeZ4fL85dzOlRuWEhrzerFkoac5RKb1afV-DLWW3Rm4qfRxXnzHv-lQaFgPvj0P7DrUx1eBreBYm8zxDsJFO3il0h17DLDnouEw1KhAOF_JJr_LJP0a1A7bWw1PEDGVQAcg7ojqB3TJ8BlIJ2ZdKyIlzeCk1HgThi4Ck4JjihEf6WGZ-VlrzKwN1J8jRRDafCVveyJ9_ZAQVVj20zTDXt45mhKmSgrileyz3zQw12_SkhGbFuZiEc6SEGIo0J6yuQJcYdTRPzsnnhYNcpTXDdtxFqFWxC87MS65IE3jDcjAyZvInqFRdryqjrckbvqjcDT_JlLuidlfHIU5JIRl6bEA4SNWktDCktxc38cFZv2-jh__X2x3mYNn50l7_gtIwr",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=N21XrnicHdBRbpswAABQ7TL9bDDEWRMpmkRng9LhDIPtwM_kmCSAje0RWpr89Qo7w06102zax7vA-_htOqv_fPrVTpO_bhaLeZ4fL85dzOlRuWEhrzerFkoac5RKb1afV-DLWW3Rm4qfRxXnzHv-lQaFgPvj0P7DrUx1eBreBYm8zxDsJFO3il0h17DLDnouEw1KhAOF_JJr_LJP0a1A7bWw1PEDGVQAcg7ojqB3TJ8BlIJ2ZdKyIlzeCk1HgThi4Ck4JjihEf6WGZ-VlrzKwN1J8jRRDafCVveyJ9_ZAQVVj20zTDXt45mhKmSgrileyz3zQw12_SkhGbFuZiEc6SEGIo0J6yuQJcYdTRPzsnnhYNcpTXDdtxFqFWxC87MS65IE3jDcjAyZvInqFRdryqjrckbvqjcDT_JlLuidlfHIU5JIRl6bEA4SNWktDCktxc38cFZv2-jh__X2x3mYNn50l7_gtIwr",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlgzSjNVREZ3T1haMlFVdHZNRkZvTUdSVE5FUTFPR2d5VjNOelpDMVVhV3RwVTBsbE5teGFYME5PWjFOaWJsWm1iWEZzVVZvd1R6WlRPVlJsWkc5cWVWWlNPVk5HVUhsQ01HZ3dUVVYyWmtkeGVqVkVObFZqYlRjeFFSSVhPWGRwYW1GdlV6ZEtaVkJYYTFCSlVIZDJlbFZ2VVZFYUlrRkVjM0k1WmxGUE5YRk1abkpRWTFORVprcHFibmRKTTNwTExYVnROWFY0UzFFIiwiZmN2IjoiMyIsImVpIjoiOXdpamFvUzdKZVBXa1BJUHd2elVvUVEiLCJxYyI6IkNoNWhjbU5oWkdsaElHaHBaMmdnYzJOb2IyOXNJR05oYkdsbWIzSnVhV0VRQUgyaWx6b18iLCJxdWVzdGlvbiI6IldoYXQgZmFtb3VzIHBlb3BsZSB3ZW50IHRvIEFyY2FkaWEgSGlnaCBTY2hvb2w/IiwibGsiOiJHaTUzYUdGMElHWmhiVzkxY3lCd1pXOXdiR1VnZDJWdWRDQjBieUJoY21OaFpHbGhJR2hwWjJnZ2MyTm9iMjlzIiwiYnMiOiJjM1dQTVEtQ01CQkc0OXJKdVRIa0lvNkt5aDlBd3FKeGRIQS1hNkdYVkVwb0RmSGZXNGxpTlRyM3ZYZGZtV0RMbzBJSEpWN00xVUlqVGFNbGRMSjI0QXprcmNBeklXeXBVbkFReWhpZHBTdWVkUDhWZkNycW9kaGVZUnNXN2V3ck5vY2lCX1E4YXFkdW5wZVlwUkdma0IxY2dWOEEyN1A0WFFqblFOTks2NmdpUHlWTFozd2FaSUlKSWNhUUpmMmZQZXFVaEhnTkpfXzRVYVVhQ3RSVW1yWW1QMl9KRjkwUEl6emdEVEVZNDlFZCIsImlkIjoiZmNfOXdpamFvUzdKZVBXa1BJUHd2elVvUVFfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlgzSjNVREZ3T1haMlFVdHZNRkZvTUdSVE5FUTFPR2d5VjNOelpDMVVhV3RwVTBsbE5teGFYME5PWjFOaWJsWm1iWEZzVVZvd1R6WlRPVlJsWkc5cWVWWlNPVk5HVUhsQ01HZ3dUVVYyWmtkeGVqVkVObFZqYlRjeFFSSVhPWGRwYW1GdlV6ZEtaVkJYYTFCSlVIZDJlbFZ2VVZFYUlrRkVjM0k1WmxGUE5YRk1abkpRWTFORVprcHFibmRKTTNwTExYVnROWFY0UzFFIiwiZmN2IjoiMyIsImVpIjoiOXdpamFvUzdKZVBXa1BJUHd2elVvUVEiLCJxYyI6IkNoNWhjbU5oWkdsaElHaHBaMmdnYzJOb2IyOXNJR05oYkdsbWIzSnVhV0VRQUgyaWx6b18iLCJxdWVzdGlvbiI6IldoYXQgZmFtb3VzIHBlb3BsZSB3ZW50IHRvIEFyY2FkaWEgSGlnaCBTY2hvb2w%2FIiwibGsiOiJHaTUzYUdGMElHWmhiVzkxY3lCd1pXOXdiR1VnZDJWdWRDQjBieUJoY21OaFpHbGhJR2hwWjJnZ2MyTm9iMjlzIiwiYnMiOiJjM1dQTVEtQ01CQkc0OXJKdVRIa0lvNkt5aDlBd3FKeGRIQS1hNkdYVkVwb0RmSGZXNGxpTlRyM3ZYZGZtV0RMbzBJSEpWN00xVUlqVGFNbGRMSjI0QXprcmNBeklXeXBVbkFReWhpZHBTdWVkUDhWZkNycW9kaGVZUnNXN2V3ck5vY2lCX1E4YXFkdW5wZVlwUkdma0IxY2dWOEEyN1A0WFFqblFOTks2NmdpUHlWTFozd2FaSUlKSWNhUUpmMmZQZXFVaEhnTkpfXzRVYVVhQ3RSVW1yWW1QMl9KRjkwUEl6emdEVEVZNDlFZCIsImlkIjoiZmNfOXdpamFvUzdKZVBXa1BJUHd2elVvUVFfNSJ9"
+  },
+  {
+   "question": "Is Arcadia, CA a wealthy area?",
+   "type": "ai_overview",
+   "page_token": "Q1WeAnicHdBfkpowHADg6WX2cSWitjjjdCYSQDphJyF_lJdOSFZ0_UVQWaG89S49VU_TmX5H-H7_gfP18vfL89T33WM9mw3D8Nq0bQPvr7b1M_P4dbUzawBqYy_r1dcV-n60G_K5w9vbDjPZdSrmQSmrxBCHqVCxTNn8EKBwPyVYzXc904oq5RKtx0MVyzm9jFAHo1FC_eATZOUFee75wmQ4kCHOdOpGqVngyLiX2gY1yZWRy7Mhy08tI1xO1YchuSkS3itSPMW12-sk33KPntT39-IKN52O6ZsE-b7PT0LgpZDNxKdiqDUgB1FhVSQoYgvhv4U2S84G5aJMUeyytqdTgcnJLt0cbgcdiSLoQCbuLgkwF1YrpSMueXtmkk_2A7yKK1EDPKiPsN6i0kFRcqDoTeCVQnRQ0CwYezna5yZ8-f-5-Xn0_bq7t80_-eCBrg",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Q1WeAnicHdBfkpowHADg6WX2cSWitjjjdCYSQDphJyF_lJdOSFZ0_UVQWaG89S49VU_TmX5H-H7_gfP18vfL89T33WM9mw3D8Nq0bQPvr7b1M_P4dbUzawBqYy_r1dcV-n60G_K5w9vbDjPZdSrmQSmrxBCHqVCxTNn8EKBwPyVYzXc904oq5RKtx0MVyzm9jFAHo1FC_eATZOUFee75wmQ4kCHOdOpGqVngyLiX2gY1yZWRy7Mhy08tI1xO1YchuSkS3itSPMW12-sk33KPntT39-IKN52O6ZsE-b7PT0LgpZDNxKdiqDUgB1FhVSQoYgvhv4U2S84G5aJMUeyytqdTgcnJLt0cbgcdiSLoQCbuLgkwF1YrpSMueXtmkk_2A7yKK1EDPKiPsN6i0kFRcqDoTeCVQnRQ0CwYezna5yZ8-f-5-Xn0_bq7t80_-eCBrg",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlgzSjNVREZ3T1haMlFVdHZNRkZvTUdSVE5FUTFPR2d5VjNOelpDMVVhV3RwVTBsbE5teGFYME5PWjFOaWJsWm1iWEZzVVZvd1R6WlRPVlJsWkc5cWVWWlNPVk5HVUhsQ01HZ3dUVVYyWmtkeGVqVkVObFZqYlRjeFFSSVhPWGRwYW1GdlV6ZEtaVkJYYTFCSlVIZDJlbFZ2VVZFYUlrRkVjM0k1WmxGUE5YRk1abkpRWTFORVprcHFibmRKTTNwTExYVnROWFY0UzFFIiwiZmN2IjoiMyIsImVpIjoiOXdpamFvUzdKZVBXa1BJUHd2elVvUVEiLCJxYyI6IkNoNWhjbU5oWkdsaElHaHBaMmdnYzJOb2IyOXNJR05oYkdsbWIzSnVhV0VRQUgyaWx6b18iLCJxdWVzdGlvbiI6IklzIEFyY2FkaWEsIENBIGEgd2VhbHRoeSBhcmVhPyIsImxrIjoiR2h4cGN5QmhjbU5oWkdsaElHTmhJR0VnZDJWaGJIUm9lU0JoY21WaCIsImJzIjoiYzNXUE1RLUNNQkJHNDlySnVUSGtJbzZLeWg5QXdxSnhkSEEtYTZHWFZFcG9EZkhmVzRsaU5UcjN2WGRmbVdETG8wSUhKVjdNMVVJalRhTWxkTEoyNEF6a3JjQXpJV3lwVW5BUXloaWRwU3VlZFA4VmZDcnFvZGhlWVJzVzdld3JOb2NpQl9ROGFxZHVucGVZcFJHZmtCMWNnVjhBMjdQNFhRam5RTk5LNjZnaVB5VkxaM3dhWklJSkljYVFKZjJmUGVxVWhIZ05KX180VWFVYUN0UlVtclltUDJfSkY5MFBJenpnRFRFWTQ5RWQiLCJpZCI6ImZjXzl3aWphb1M3SmVQV2tQSVB3dnpVb1FRXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlgzSjNVREZ3T1haMlFVdHZNRkZvTUdSVE5FUTFPR2d5VjNOelpDMVVhV3RwVTBsbE5teGFYME5PWjFOaWJsWm1iWEZzVVZvd1R6WlRPVlJsWkc5cWVWWlNPVk5HVUhsQ01HZ3dUVVYyWmtkeGVqVkVObFZqYlRjeFFSSVhPWGRwYW1GdlV6ZEtaVkJYYTFCSlVIZDJlbFZ2VVZFYUlrRkVjM0k1WmxGUE5YRk1abkpRWTFORVprcHFibmRKTTNwTExYVnROWFY0UzFFIiwiZmN2IjoiMyIsImVpIjoiOXdpamFvUzdKZVBXa1BJUHd2elVvUVEiLCJxYyI6IkNoNWhjbU5oWkdsaElHaHBaMmdnYzJOb2IyOXNJR05oYkdsbWIzSnVhV0VRQUgyaWx6b18iLCJxdWVzdGlvbiI6IklzIEFyY2FkaWEsIENBIGEgd2VhbHRoeSBhcmVhPyIsImxrIjoiR2h4cGN5QmhjbU5oWkdsaElHTmhJR0VnZDJWaGJIUm9lU0JoY21WaCIsImJzIjoiYzNXUE1RLUNNQkJHNDlySnVUSGtJbzZLeWg5QXdxSnhkSEEtYTZHWFZFcG9EZkhmVzRsaU5UcjN2WGRmbVdETG8wSUhKVjdNMVVJalRhTWxkTEoyNEF6a3JjQXpJV3lwVW5BUXloaWRwU3VlZFA4VmZDcnFvZGhlWVJzVzdld3JOb2NpQl9ROGFxZHVucGVZcFJHZmtCMWNnVjhBMjdQNFhRam5RTk5LNjZnaVB5VkxaM3dhWklJSkljYVFKZjJmUGVxVWhIZ05KX180VWFVYUN0UlVtclltUDJfSkY5MFBJenpnRFRFWTQ5RWQiLCJpZCI6ImZjXzl3aWphb1M3SmVQV2tQSVB3dnpVb1FRXzUifQ%3D%3D"
+  },
+  {
+   "question": "Is Arcadia High School prestigious?",
+   "type": "ai_overview",
+   "page_token": "YyKNe3icHZDBboIwAECzn_E4KahTE7OkQkUzma1tgV4WKCpKaRFRxNv-ZV-1r5nZ8d3ee98_6qiL35db3jTVZdrvt237ejDmoHav0pT95NJp2ZeJUmkii-nobQTe93LmXZdwfl5CzKqKu8TasnsbAKSJJl3q8AHzK2trA4PB6k5cCFO1ulJGHukDsjXggIbAoj43wicW1fAq7AxvtTKyUJSFwhcneMQKtfGJd9IDURqROFai4DR-cF-sUx3ka5SpuEQ1jiCh9tBJbHVJF2Mn8eFCaOLSoiqDSMw5ymsSwX1S3p9c2AHPEY-4WQN4ZABS4vF6aw11EI477maNRCvt5XKY2eochxMaWJViKKuZp3DmiBEPJ4QRc8TPHnlSJfc8O7LU44MNWlKgjfCqz6fDMNaQURdudm7cYdzby9vM6f3_nH3ty2Za1ebwB-1rgpc",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=YyKNe3icHZDBboIwAECzn_E4KahTE7OkQkUzma1tgV4WKCpKaRFRxNv-ZV-1r5nZ8d3ee98_6qiL35db3jTVZdrvt237ejDmoHav0pT95NJp2ZeJUmkii-nobQTe93LmXZdwfl5CzKqKu8TasnsbAKSJJl3q8AHzK2trA4PB6k5cCFO1ulJGHukDsjXggIbAoj43wicW1fAq7AxvtTKyUJSFwhcneMQKtfGJd9IDURqROFai4DR-cF-sUx3ka5SpuEQ1jiCh9tBJbHVJF2Mn8eFCaOLSoiqDSMw5ymsSwX1S3p9c2AHPEY-4WQN4ZABS4vF6aw11EI477maNRCvt5XKY2eochxMaWJViKKuZp3DmiBEPJ4QRc8TPHnlSJfc8O7LU44MNWlKgjfCqz6fDMNaQURdudm7cYdzby9vM6f3_nH3ty2Za1ebwB-1rgpc",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlgzSjNVREZ3T1haMlFVdHZNRkZvTUdSVE5FUTFPR2d5VjNOelpDMVVhV3RwVTBsbE5teGFYME5PWjFOaWJsWm1iWEZzVVZvd1R6WlRPVlJsWkc5cWVWWlNPVk5HVUhsQ01HZ3dUVVYyWmtkeGVqVkVObFZqYlRjeFFSSVhPWGRwYW1GdlV6ZEtaVkJYYTFCSlVIZDJlbFZ2VVZFYUlrRkVjM0k1WmxGUE5YRk1abkpRWTFORVprcHFibmRKTTNwTExYVnROWFY0UzFFIiwiZmN2IjoiMyIsImVpIjoiOXdpamFvUzdKZVBXa1BJUHd2elVvUVEiLCJxYyI6IkNoNWhjbU5oWkdsaElHaHBaMmdnYzJOb2IyOXNJR05oYkdsbWIzSnVhV0VRQUgyaWx6b18iLCJxdWVzdGlvbiI6IklzIEFyY2FkaWEgSGlnaCBTY2hvb2wgcHJlc3RpZ2lvdXM/IiwibGsiOiJHaUpwY3lCaGNtTmhaR2xoSUdocFoyZ2djMk5vYjI5c0lIQnlaWE4wYVdkcGIzVnoiLCJicyI6ImMzV1BNUS1DTUJCRzQ5ckp1VEhrSW82S3loOUF3cUp4ZEhBLWE2R1hWRXBvRGZIZlc0bGlOVHIzdlhkZm1XRExvMElISlY3TTFVSWpUYU1sZExKMjRBemtyY0F6SVd5cFVuQVF5aGlkcFN1ZWRQOFZmQ3Jxb2RoZVlSc1c3ZXdyTm9jaUJfUThhcWR1bnBlWXBSR2ZrQjFjZ1Y4QTI3UDRYUWpuUU5OSzY2Z2lQeVZMWjN3YVpJSUpJY2FRSmYyZlBlcVVoSGdOSl9fNFVhVWFDdFJVbXJZbVAyX0pGOTBQSXp6Z0RURVk0OUVkIiwiaWQiOiJmY185d2lqYW9TN0plUFdrUElQd3Z6VW9RUV81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlgzSjNVREZ3T1haMlFVdHZNRkZvTUdSVE5FUTFPR2d5VjNOelpDMVVhV3RwVTBsbE5teGFYME5PWjFOaWJsWm1iWEZzVVZvd1R6WlRPVlJsWkc5cWVWWlNPVk5HVUhsQ01HZ3dUVVYyWmtkeGVqVkVObFZqYlRjeFFSSVhPWGRwYW1GdlV6ZEtaVkJYYTFCSlVIZDJlbFZ2VVZFYUlrRkVjM0k1WmxGUE5YRk1abkpRWTFORVprcHFibmRKTTNwTExYVnROWFY0UzFFIiwiZmN2IjoiMyIsImVpIjoiOXdpamFvUzdKZVBXa1BJUHd2elVvUVEiLCJxYyI6IkNoNWhjbU5oWkdsaElHaHBaMmdnYzJOb2IyOXNJR05oYkdsbWIzSnVhV0VRQUgyaWx6b18iLCJxdWVzdGlvbiI6IklzIEFyY2FkaWEgSGlnaCBTY2hvb2wgcHJlc3RpZ2lvdXM%2FIiwibGsiOiJHaUpwY3lCaGNtTmhaR2xoSUdocFoyZ2djMk5vYjI5c0lIQnlaWE4wYVdkcGIzVnoiLCJicyI6ImMzV1BNUS1DTUJCRzQ5ckp1VEhrSW82S3loOUF3cUp4ZEhBLWE2R1hWRXBvRGZIZlc0bGlOVHIzdlhkZm1XRExvMElISlY3TTFVSWpUYU1sZExKMjRBemtyY0F6SVd5cFVuQVF5aGlkcFN1ZWRQOFZmQ3Jxb2RoZVlSc1c3ZXdyTm9jaUJfUThhcWR1bnBlWXBSR2ZrQjFjZ1Y4QTI3UDRYUWpuUU5OSzY2Z2lQeVZMWjN3YVpJSUpJY2FRSmYyZlBlcVVoSGdOSl9fNFVhVWFDdFJVbXJZbVAyX0pGOTBQSXp6Z0RURVk0OUVkIiwiaWQiOiJmY185d2lqYW9TN0plUFdrUElQd3Z6VW9RUV81In0%3D"
+  },
+  {
+   "question": "What is the #1 best High School in California?",
+   "type": "ai_overview",
+   "page_token": "28gjEnicHdBdkpowAADg6WX2cQUitjrjdJafaHFhS8iP5KUDiZg1QSKi7PLWK_QMe6o9TTv9jvD9_jCvZ_355Y8aBntdzWbjOD4eu-5oDo-ia2fV9f0sZqIypq6EXi2-LtzvjVjHdxGEvQhyYi2NkIM3vlu16mdmUq-I3-6SjV59Qg3afBvl9ARykl1kFMQpND-oY2_5hNJCQ4wdZxJTQAUO_Bfy1ogIhRSovWBqUWqlMFM3aSg-7O2uLtxdsU3mbDNEEsITclRSwGVJt5Id2NBUjGupTf_ChnnqoSuiAZAb_yI0zzLAw1xnLYn9KXUTK2G25ywJOeuc570MU2KfMaC0iK8eMmhXQ2Wxhoh4SSgpekcTmdfnZEuA7WMlfOmZS8mWOHOsIVD2JDa5BHxB2RIR1L3mBE3iZFoaPU2VNhU_cVwS999UFtU0uVFC_RIcnRTykI8PjbivwcP_6_Wvph1Wtu-OfwEodYw0",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=28gjEnicHdBdkpowAADg6WX2cQUitjrjdJafaHFhS8iP5KUDiZg1QSKi7PLWK_QMe6o9TTv9jvD9_jCvZ_355Y8aBntdzWbjOD4eu-5oDo-ia2fV9f0sZqIypq6EXi2-LtzvjVjHdxGEvQhyYi2NkIM3vlu16mdmUq-I3-6SjV59Qg3afBvl9ARykl1kFMQpND-oY2_5hNJCQ4wdZxJTQAUO_Bfy1ogIhRSovWBqUWqlMFM3aSg-7O2uLtxdsU3mbDNEEsITclRSwGVJt5Id2NBUjGupTf_ChnnqoSuiAZAb_yI0zzLAw1xnLYn9KXUTK2G25ywJOeuc570MU2KfMaC0iK8eMmhXQ2Wxhoh4SSgpekcTmdfnZEuA7WMlfOmZS8mWOHOsIVD2JDa5BHxB2RIR1L3mBE3iZFoaPU2VNhU_cVwS999UFtU0uVFC_RIcnRTykI8PjbivwcP_6_Wvph1Wtu-OfwEodYw0",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlgzSjNVREZ3T1haMlFVdHZNRkZvTUdSVE5FUTFPR2d5VjNOelpDMVVhV3RwVTBsbE5teGFYME5PWjFOaWJsWm1iWEZzVVZvd1R6WlRPVlJsWkc5cWVWWlNPVk5HVUhsQ01HZ3dUVVYyWmtkeGVqVkVObFZqYlRjeFFSSVhPWGRwYW1GdlV6ZEtaVkJYYTFCSlVIZDJlbFZ2VVZFYUlrRkVjM0k1WmxGUE5YRk1abkpRWTFORVprcHFibmRKTTNwTExYVnROWFY0UzFFIiwiZmN2IjoiMyIsImVpIjoiOXdpamFvUzdKZVBXa1BJUHd2elVvUVEiLCJxYyI6IkNoNWhjbU5oWkdsaElHaHBaMmdnYzJOb2IyOXNJR05oYkdsbWIzSnVhV0VRQUgyaWx6b18iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlICMxIGJlc3QgSGlnaCBTY2hvb2wgaW4gQ2FsaWZvcm5pYT8iLCJsayI6IkdpMTNhR0YwSUdseklIUm9aU0FqTVNCaVpYTjBJR2hwWjJnZ2MyTm9iMjlzSUdsdUlHTmhiR2xtYjNKdWFXRSIsImJzIjoiYzNXUE1RLUNNQkJHNDlySnVUSGtJbzZLeWg5QXdxSnhkSEEtYTZHWFZFcG9EZkhmVzRsaU5UcjN2WGRmbVdETG8wSUhKVjdNMVVJalRhTWxkTEoyNEF6a3JjQXpJV3lwVW5BUXloaWRwU3VlZFA4VmZDcnFvZGhlWVJzVzdld3JOb2NpQl9ROGFxZHVucGVZcFJHZmtCMWNnVjhBMjdQNFhRam5RTk5LNjZnaVB5VkxaM3dhWklJSkljYVFKZjJmUGVxVWhIZ05KX180VWFVYUN0UlVtclltUDJfSkY5MFBJenpnRFRFWTQ5RWQiLCJpZCI6ImZjXzl3aWphb1M3SmVQV2tQSVB3dnpVb1FRXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlgzSjNVREZ3T1haMlFVdHZNRkZvTUdSVE5FUTFPR2d5VjNOelpDMVVhV3RwVTBsbE5teGFYME5PWjFOaWJsWm1iWEZzVVZvd1R6WlRPVlJsWkc5cWVWWlNPVk5HVUhsQ01HZ3dUVVYyWmtkeGVqVkVObFZqYlRjeFFSSVhPWGRwYW1GdlV6ZEtaVkJYYTFCSlVIZDJlbFZ2VVZFYUlrRkVjM0k1WmxGUE5YRk1abkpRWTFORVprcHFibmRKTTNwTExYVnROWFY0UzFFIiwiZmN2IjoiMyIsImVpIjoiOXdpamFvUzdKZVBXa1BJUHd2elVvUVEiLCJxYyI6IkNoNWhjbU5oWkdsaElHaHBaMmdnYzJOb2IyOXNJR05oYkdsbWIzSnVhV0VRQUgyaWx6b18iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlICMxIGJlc3QgSGlnaCBTY2hvb2wgaW4gQ2FsaWZvcm5pYT8iLCJsayI6IkdpMTNhR0YwSUdseklIUm9aU0FqTVNCaVpYTjBJR2hwWjJnZ2MyTm9iMjlzSUdsdUlHTmhiR2xtYjNKdWFXRSIsImJzIjoiYzNXUE1RLUNNQkJHNDlySnVUSGtJbzZLeWg5QXdxSnhkSEEtYTZHWFZFcG9EZkhmVzRsaU5UcjN2WGRmbVdETG8wSUhKVjdNMVVJalRhTWxkTEoyNEF6a3JjQXpJV3lwVW5BUXloaWRwU3VlZFA4VmZDcnFvZGhlWVJzVzdld3JOb2NpQl9ROGFxZHVucGVZcFJHZmtCMWNnVjhBMjdQNFhRam5RTk5LNjZnaVB5VkxaM3dhWklJSkljYVFKZjJmUGVxVWhIZ05KX180VWFVYUN0UlVtclltUDJfSkY5MFBJenpnRFRFWTQ5RWQiLCJpZCI6ImZjXzl3aWphb1M3SmVQV2tQSVB3dnpVb1FRXzUifQ%3D%3D"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Arcadia High School",
+   "link": "https://ahs.ausd.net/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTQHrOzAV67zwMiBi2pgvream-HLi94-8prnH8dtbZDGq_0CeQeCWM_n9dgzwrkZwNsirLl-aRGSv25N8dj1b0GS_-byOSKsXxer0sKq_&ved=2ahUKEwjEktG84-SWAxVjK0QIHUI-NUQQFnoECEgQAQ&uoh=1",
+   "displayed_link": "https://ahs.ausd.net",
+   "favicon": "https://serpapi.com/images/i/UklGRpgAAABXRUJQVlA4IIwAAADwBACdASocABwAPtE-tFooIigoFAEAGglsALEehGAABf1wzkGFCImgMV_XycEOk4AA_sNWJA15O83mboStTccB8PCoq7ZP_i0CEjzhUGIgH6QMFHtuPX8c4_VII7SRsF-dTb5y55FNBKhXyCeu5ZdzqAfhnskcCumoOq5oeER4VuQoEwp9MsGP7AAAAA.webp",
+   "snippet": "To challenge and inspire students to make a positive and profound impact on their world. Arcadia High School 180 Campus Drive, Arcadia, CA 91007 Phone: 626.821.",
+   "snippet_highlighted_words": [
+    "Arcadia High School",
+    "CA"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "To challenge and inspire students to make a positive and profound impact on their world. Arcadia High School 180 Campus Drive, Arcadia, CA 91007 Phone: 626.821.",
+     "source_info_link": "https://ahs.ausd.net/",
+     "icon": "https://serpapi.com/images/i/UklGRpgAAABXRUJQVlA4IIwAAADwBACdASocABwAPtE-tFooIigoFAEAGglsALEehGAABf1wzkGFCImgMV_XycEOk4AA_sNWJA15O83mboStTccB8PCoq7ZP_i0CEjzhUGIgH6QMFHtuPX8c4_VII7SRsF-dTb5y55FNBKhXyCeu5ZdzqAfhnskcCumoOq5oeER4VuQoEwp9MsGP7AAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESTQHrOzAV67zwMiBi2pgvream-HLi94-8prnH8dtbZDGq_0CeQeCWM_n9dgzwrkZwNsirLl-aRGSv25N8dj1b0GS_-byOSKsXxer0sKq_&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESTQHrOzAV67zwMiBi2pgvream-HLi94-8prnH8dtbZDGq_0CeQeCWM_n9dgzwrkZwNsirLl-aRGSv25N8dj1b0GS_-byOSKsXxer0sKq_",
+   "source": "Arcadia High School",
+   "read_more_link": "https://ahs.ausd.net/#:~:text=To%20challenge%20and%20inspire%20students,Arcadia%2C%20CA%2091007%20Phone%3A%20626.821.8370"
+  },
+  {
+   "position": 2,
+   "title": "Arcadia High School in Arcadia, CA - US News",
+   "link": "https://www.usnews.com/education/best-high-schools/california/districts/arcadia-unified-school-district/arcadia-high-school-1787",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESuQEB6zswFdpsJVVvF8Fo7z70-8d_5-neZda-gcwTYy6Nf6puXzQ3QSRjGRI3PBHVLa8lwvM-91z4Ac9C9GKjxew1IfB2_pv1FwXVpThpei7rT63H8mqks77jr2C_0jrjJEYXJv15m9jpKaxaCw-QqtjDe3ohwGKRpUpb2gCMR4HH2OxRRo0YtQ75rAUokb2dLfR4w1U_tkBXGhGCroNX5OdDxE0a9UXwTLvXo9MFx6FR_ZhEpFUufwbM6A&ved=2ahUKEwjEktG84-SWAxVjK0QIHUI-NUQQFnoECEYQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a california \u203a districts \u203a arcadi...",
+   "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp",
+   "snippet": "Arcadia High School is ranked 102nd within California. Students have the opportunity to take Advanced Placement\u00ae coursework and exams.",
+   "snippet_highlighted_words": [
+    "Arcadia High School",
+    "California"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Arcadia High School is ranked 102nd within California. Students have the opportunity to take Advanced Placement\u00ae coursework and exams.",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/california/districts/arcadia-unified-school-district/arcadia-high-school-1787",
+     "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESuQEB6zswFdpsJVVvF8Fo7z70-8d_5-neZda-gcwTYy6Nf6puXzQ3QSRjGRI3PBHVLa8lwvM-91z4Ac9C9GKjxew1IfB2_pv1FwXVpThpei7rT63H8mqks77jr2C_0jrjJEYXJv15m9jpKaxaCw-QqtjDe3ohwGKRpUpb2gCMR4HH2OxRRo0YtQ75rAUokb2dLfR4w1U_tkBXGhGCroNX5OdDxE0a9UXwTLvXo9MFx6FR_ZhEpFUufwbM6A&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESuQEB6zswFdpsJVVvF8Fo7z70-8d_5-neZda-gcwTYy6Nf6puXzQ3QSRjGRI3PBHVLa8lwvM-91z4Ac9C9GKjxew1IfB2_pv1FwXVpThpei7rT63H8mqks77jr2C_0jrjJEYXJv15m9jpKaxaCw-QqtjDe3ohwGKRpUpb2gCMR4HH2OxRRo0YtQ75rAUokb2dLfR4w1U_tkBXGhGCroNX5OdDxE0a9UXwTLvXo9MFx6FR_ZhEpFUufwbM6A",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/california/districts/arcadia-unified-school-district/arcadia-high-school-1787#:~:text=Arcadia%20High%20School%20is%20ranked,Advanced%20Placement%C2%AE%20coursework%20and%20exams."
+  },
+  {
+   "position": 3,
+   "title": "Arcadia High School (California)",
+   "link": "https://en.wikipedia.org/wiki/Arcadia_High_School_(California)",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHrOzAVm03VjDdlPlPgFiBTmq6jdtDqK--YQqUtJ9QcB-bbkYMrbC_h_PtyTHe_OEm49CbRT1I4rEkhSt5WzvXsNtKO9-WXzcCw09DG5m9s7YvC5qk5RWta44GVP0PiY_f8KSx5rBaoLq_o8i6bkSTvEozUdxQ&ved=2ahUKEwjEktG84-SWAxVjK0QIHUI-NUQQFnoECF8QAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Arcadia_High_School...",
+   "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+   "snippet": "Arcadia High School is a four-year comprehensive secondary school located in Arcadia, California, United States. It is part of the Arcadia Unified School ...",
+   "snippet_highlighted_words": [
+    "Arcadia High School",
+    "California"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Arcadia High School is a four-year comprehensive secondary school located in Arcadia, California, United States. It is part of the Arcadia Unified School ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Arcadia_High_School_(California)",
+     "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdgHrOzAVm03VjDdlPlPgFiBTmq6jdtDqK--YQqUtJ9QcB-bbkYMrbC_h_PtyTHe_OEm49CbRT1I4rEkhSt5WzvXsNtKO9-WXzcCw09DG5m9s7YvC5qk5RWta44GVP0PiY_f8KSx5rBaoLq_o8i6bkSTvEozUdxQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdgHrOzAVm03VjDdlPlPgFiBTmq6jdtDqK--YQqUtJ9QcB-bbkYMrbC_h_PtyTHe_OEm49CbRT1I4rEkhSt5WzvXsNtKO9-WXzcCw09DG5m9s7YvC5qk5RWta44GVP0PiY_f8KSx5rBaoLq_o8i6bkSTvEozUdxQ",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Arcadia_High_School_(California)#:~:text=Arcadia%20High%20School%20is%20a,the%20Arcadia%20Unified%20School%20District."
+  },
+  {
+   "position": 4,
+   "title": "Arcadia High School: Home",
+   "link": "https://arcadia.susd.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUQHrOzAVtjuPw6n3VzFqIQw4pggHAEQisYPwffj7pR-QTyUQm3xHLdpiVnma0GfSfyTe1mLAjekWUyOLo2xgW9uFVJP_Q0PtbqBg955f9k1ZfQ&ved=2ahUKEwjEktG84-SWAxVjK0QIHUI-NUQQFnoECF0QAQ&uoh=1",
+   "displayed_link": "https://arcadia.susd.org",
+   "favicon": "https://serpapi.com/images/i/UklGRtIAAABXRUJQVlA4IMYAAABwBQCdASocABwAPtE-tFooIigoFAEAGglsAFTizVSvA9rVOQcjoim-p7Ald-4ltkBE-kgAAP79KljfmF3TM_0OP1qXnX_ge8-fRkAOE27WRNku_YMUlfolXmYM73_935Gh_cWhPntoT-Y__KgvuFfCyd7Imh41FGJjhg2LFnz84-6hMqLX0z02nh7Icq3EjPWnBzVWOKRCda_A7Lbvhohr3vcf4Dd271uDI5lgr8sXvjbYwDWbv_B7Ek9649v4-l8A8IrgAAA.webp",
+   "snippet": "Arcadia High School is a public, four-year, comprehensive high school located in Phoenix, Arizona. Arcadia is proud of its diverse student body, its reputation ...",
+   "snippet_highlighted_words": [
+    "Arcadia High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Arcadia High School is a public, four-year, comprehensive high school located in Phoenix, Arizona. Arcadia is proud of its diverse student body, its reputation ...",
+     "source_info_link": "https://arcadia.susd.org/",
+     "icon": "https://serpapi.com/images/i/UklGRtIAAABXRUJQVlA4IMYAAABwBQCdASocABwAPtE-tFooIigoFAEAGglsAFTizVSvA9rVOQcjoim-p7Ald-4ltkBE-kgAAP79KljfmF3TM_0OP1qXnX_ge8-fRkAOE27WRNku_YMUlfolXmYM73_935Gh_cWhPntoT-Y__KgvuFfCyd7Imh41FGJjhg2LFnz84-6hMqLX0z02nh7Icq3EjPWnBzVWOKRCda_A7Lbvhohr3vcf4Dd271uDI5lgr8sXvjbYwDWbv_B7Ek9649v4-l8A8IrgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESUQHrOzAVtjuPw6n3VzFqIQw4pggHAEQisYPwffj7pR-QTyUQm3xHLdpiVnma0GfSfyTe1mLAjekWUyOLo2xgW9uFVJP_Q0PtbqBg955f9k1ZfQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESUQHrOzAVtjuPw6n3VzFqIQw4pggHAEQisYPwffj7pR-QTyUQm3xHLdpiVnma0GfSfyTe1mLAjekWUyOLo2xgW9uFVJP_Q0PtbqBg955f9k1ZfQ",
+   "source": "Scottsdale Unified School District",
+   "read_more_link": "https://arcadia.susd.org/#:~:text=Arcadia%20High%20School%20is%20a,and%20its%20excellent%20teaching%20staff."
+  },
+  {
+   "position": 5,
+   "title": "Arcadia USD",
+   "link": "https://www.ausd.net/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTQHrOzAVlDsAoqxHsyNF4BlWRJehhkGFNaC5ooCrSNt4OyBEOyUf3tqUq2VNi9gqYYyMH8-8G99ZpsFs2KGvYwdQbMAZCwhbQV4cSTyW&ved=2ahUKEwjEktG84-SWAxVjK0QIHUI-NUQQFnoECGIQAQ&uoh=1",
+   "displayed_link": "https://www.ausd.net",
+   "favicon": "https://serpapi.com/images/i/UklGRpgAAABXRUJQVlA4IIwAAADwBACdASocABwAPtE-tFooIigoFAEAGglsALEehGAABf1wzkGFCImgMV_XycEOk4AA_sNWJA15O83mboStTccB8PCoq7ZP_i0CEjzhUGIgH6QMFHtuPX8c4_VII7SRsF-dTb5y55FNBKhXyCeu5ZdzqAfhnskcCumoOq5oeER4VuQoEwp9MsGP7AAAAA.webp",
+   "snippet": "In addition to numerous National Blue Ribbon and California Distinguished schools throughout the district, Arcadia High School has been named a U.S. News ...",
+   "snippet_highlighted_words": [
+    "California",
+    "Arcadia High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "In addition to numerous National Blue Ribbon and California Distinguished schools throughout the district, Arcadia High School has been named a U.S. News ...",
+     "source_info_link": "https://www.ausd.net/",
+     "icon": "https://serpapi.com/images/i/UklGRpgAAABXRUJQVlA4IIwAAADwBACdASocABwAPtE-tFooIigoFAEAGglsALEehGAABf1wzkGFCImgMV_XycEOk4AA_sNWJA15O83mboStTccB8PCoq7ZP_i0CEjzhUGIgH6QMFHtuPX8c4_VII7SRsF-dTb5y55FNBKhXyCeu5ZdzqAfhnskcCumoOq5oeER4VuQoEwp9MsGP7AAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESTQHrOzAVlDsAoqxHsyNF4BlWRJehhkGFNaC5ooCrSNt4OyBEOyUf3tqUq2VNi9gqYYyMH8-8G99ZpsFs2KGvYwdQbMAZCwhbQV4cSTyW&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESTQHrOzAVlDsAoqxHsyNF4BlWRJehhkGFNaC5ooCrSNt4OyBEOyUf3tqUq2VNi9gqYYyMH8-8G99ZpsFs2KGvYwdQbMAZCwhbQV4cSTyW",
+   "source": "Arcadia USD",
+   "read_more_link": "https://www.ausd.net/#:~:text=Read%20More"
+  },
+  {
+   "position": 6,
+   "title": "Arcadia High - School Directory Details ...",
+   "link": "https://www.cde.ca.gov/schooldirectory/details?cdscode=19642611930288",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAVgCPer79t6g_2ILFhbqKvE__IPuj2rQIhXbFENb7AQ0U0Xqzonr7BmFwfPJvuwWC3zXwova6_75ZFoGUA0_jnzKc6S2tSEpDuXWS1A4IfFVib1JgEgjSXbwAngT5PBgAcR-KPiIfwfnhIvtO8-OtngfYInT14hjI9&ved=2ahUKEwjEktG84-SWAxVjK0QIHUI-NUQQFnoECFwQAQ&uoh=1",
+   "displayed_link": "https://www.cde.ca.gov \u203a schooldirectory \u203a details",
+   "favicon": "https://serpapi.com/images/i/UklGRgoBAABXRUJQVlA4IP4AAABQBgCdASogACAAPrkurlcnIacnG_DgFwlpAM3HbNVYEqB7gV_UJYF88X_jH5jxak_srJyMiDiuJceTAAD-9-gn-pwQ-TxGnsYEDO4UrYAd2e6KrsBaDJJMpYVNSc7WbKwRWEZCc_W2YjY2mhOZu2CVT9BEckUN_yR7EZGLkMScINpXY-X7Piv_z7s_n9b21PARjcv95WWo8Qn_H_yJQPovikVTm1Y1OvFDe5hCnBvl0nEGVC0d4IOeCym1YxVDWcTKZUcR0qPVUtR1yGQ2zyLLnboY51uCWfnbtDZ5TXjC8bWvKRJJrQz6leT0DUCd0qEhT1OVpm0sBIplokAAAA.webp",
+   "snippet": "Address 180 Campus Dr. Arcadia, CA 91007-6958. Phone Number (626) 821-1711",
+   "snippet_highlighted_words": [
+    "CA"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Address 180 Campus Dr. Arcadia, CA 91007-6958. Phone Number (626) 821-1711",
+     "source_info_link": "https://www.cde.ca.gov/schooldirectory/details?cdscode=19642611930288",
+     "icon": "https://serpapi.com/images/i/UklGRgoBAABXRUJQVlA4IP4AAABQBgCdASogACAAPrkurlcnIacnG_DgFwlpAM3HbNVYEqB7gV_UJYF88X_jH5jxak_srJyMiDiuJceTAAD-9-gn-pwQ-TxGnsYEDO4UrYAd2e6KrsBaDJJMpYVNSc7WbKwRWEZCc_W2YjY2mhOZu2CVT9BEckUN_yR7EZGLkMScINpXY-X7Piv_z7s_n9b21PARjcv95WWo8Qn_H_yJQPovikVTm1Y1OvFDe5hCnBvl0nEGVC0d4IOeCym1YxVDWcTKZUcR0qPVUtR1yGQ2zyLLnboY51uCWfnbtDZ5TXjC8bWvKRJJrQz6leT0DUCd0qEhT1OVpm0sBIplokAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESfQHrOzAVgCPer79t6g_2ILFhbqKvE__IPuj2rQIhXbFENb7AQ0U0Xqzonr7BmFwfPJvuwWC3zXwova6_75ZFoGUA0_jnzKc6S2tSEpDuXWS1A4IfFVib1JgEgjSXbwAngT5PBgAcR-KPiIfwfnhIvtO8-OtngfYInT14hjI9&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESfQHrOzAVgCPer79t6g_2ILFhbqKvE__IPuj2rQIhXbFENb7AQ0U0Xqzonr7BmFwfPJvuwWC3zXwova6_75ZFoGUA0_jnzKc6S2tSEpDuXWS1A4IfFVib1JgEgjSXbwAngT5PBgAcR-KPiIfwfnhIvtO8-OtngfYInT14hjI9",
+   "source": "California Department of Education (CDE) (.gov)"
+  },
+  {
+   "position": 7,
+   "title": "Arcadia High School in Arcadia, CA",
+   "link": "https://www.niche.com/k12/arcadia-high-school-arcadia-ca/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScQHrOzAViAfwb1l6nRW9A0-TiEYo2PnH7TuwNtmDzimY5lmXKC_l2PiZFi5yRE-bUt6W61puOTBZvsIZ0hrw9ZH7ThJ5q8P4vpjNS3LOWCaMDqj8oMmVRirgkT4vSVaFCSuOUXhhaw74NAIw-WouSWnV&ved=2ahUKEwjEktG84-SWAxVjK0QIHUI-NUQQFnoECGAQAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a California",
+   "favicon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAACwBgCdASocABwAPtEutFooIagoGAEAGglAGZo7gYv7m0TPt8r_WYdmpcah9WA48zicEtVrCFOGH4nMtJiaAAD-8Mpqn5wztwFeSDXF5YavmSdrcpv67JtS1tKl7uW6N9aR19WH-vT5VtxqndfSU_QIzB4R0m5fNi1eX3h8GYa_8H28-7o-nc3D2GEvZqGTES8muP_UCP_UIYsGh8QXK7V2sBnUP79qQidv_o8__S3xjZZmmXEG69VP00Dn3HuddwtLR_4xf_0PU8NPn060X-47u3VDw39ZbBgpwK3wP0F5tHUWMrTdTbcT_h7ghKmtPgKiKNIvGUNLHBT4VbzlXgvFo7vCP-ot_w6I_hOg9EcgQfabjpYvU6X4xcxi9BIxh2PJomEF2PA_XoL7FtzFNUuyE0IG83Bax0ZYU-dxj0EhgAAA.webp",
+   "snippet": "Arcadia High School is a top rated, public school located in ARCADIA, CA. It has 2,939 students in grades 9-12 with a student-teacher ratio of 25 to 1.",
+   "snippet_highlighted_words": [
+    "Arcadia High School",
+    "CA"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Arcadia High School is a top rated, public school located in ARCADIA, CA. It has 2,939 students in grades 9-12 with a student-teacher ratio of 25 to 1.",
+     "source_info_link": "https://www.niche.com/k12/arcadia-high-school-arcadia-ca/",
+     "icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAACwBgCdASocABwAPtEutFooIagoGAEAGglAGZo7gYv7m0TPt8r_WYdmpcah9WA48zicEtVrCFOGH4nMtJiaAAD-8Mpqn5wztwFeSDXF5YavmSdrcpv67JtS1tKl7uW6N9aR19WH-vT5VtxqndfSU_QIzB4R0m5fNi1eX3h8GYa_8H28-7o-nc3D2GEvZqGTES8muP_UCP_UIYsGh8QXK7V2sBnUP79qQidv_o8__S3xjZZmmXEG69VP00Dn3HuddwtLR_4xf_0PU8NPn060X-47u3VDw39ZbBgpwK3wP0F5tHUWMrTdTbcT_h7ghKmtPgKiKNIvGUNLHBT4VbzlXgvFo7vCP-ot_w6I_hOg9EcgQfabjpYvU6X4xcxi9BIxh2PJomEF2PA_XoL7FtzFNUuyE0IG83Bax0ZYU-dxj0EhgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEScQHrOzAViAfwb1l6nRW9A0-TiEYo2PnH7TuwNtmDzimY5lmXKC_l2PiZFi5yRE-bUt6W61puOTBZvsIZ0hrw9ZH7ThJ5q8P4vpjNS3LOWCaMDqj8oMmVRirgkT4vSVaFCSuOUXhhaw74NAIw-WouSWnV&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEScQHrOzAViAfwb1l6nRW9A0-TiEYo2PnH7TuwNtmDzimY5lmXKC_l2PiZFi5yRE-bUt6W61puOTBZvsIZ0hrw9ZH7ThJ5q8P4vpjNS3LOWCaMDqj8oMmVRirgkT4vSVaFCSuOUXhhaw74NAIw-WouSWnV",
+   "source": "Niche",
+   "read_more_link": "https://www.niche.com/k12/arcadia-high-school-arcadia-ca/#:~:text=Arcadia%20High%20School%20is%20a,ratio%20of%2025%20to%201."
+  },
+  {
+   "position": 8,
+   "title": "Arcadia School District (@arcadiaunified)",
+   "link": "https://www.instagram.com/arcadiaunified/?hl=en",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZwHrOzAVdZxT6Fo3ci-P0df8cAL05OijPRGG6vN-e8yYSPWP5FkYgEDLod16q0as5R7JW43yAav83YY1Vc52GR1EdnKWj4YqNnI61AIwVBLffGDZ8WSZgpDl0wPlenVwKFND82RuhO0&ved=2ahUKEwjEktG84-SWAxVjK0QIHUI-NUQQFnoECGMQAQ&uoh=1",
+   "displayed_link": "10.2K+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+   "snippet": "Arcadia High School named U.S. News & World Report Gold Medal School three times. Imagine \u2022 Inquire \u2022 Inspire. Follow. Message ...",
+   "snippet_highlighted_words": [
+    "Arcadia High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Arcadia High School named U.S. News & World Report Gold Medal School three times. Imagine \u2022 Inquire \u2022 Inspire. Follow. Message ...",
+     "source_info_link": "https://www.instagram.com/arcadiaunified/?hl=en",
+     "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESZwHrOzAVdZxT6Fo3ci-P0df8cAL05OijPRGG6vN-e8yYSPWP5FkYgEDLod16q0as5R7JW43yAav83YY1Vc52GR1EdnKWj4YqNnI61AIwVBLffGDZ8WSZgpDl0wPlenVwKFND82RuhO0&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESZwHrOzAVdZxT6Fo3ci-P0df8cAL05OijPRGG6vN-e8yYSPWP5FkYgEDLod16q0as5R7JW43yAav83YY1Vc52GR1EdnKWj4YqNnI61AIwVBLffGDZ8WSZgpDl0wPlenVwKFND82RuhO0",
+   "source": "Instagram \u00b7 arcadiaunified",
+   "read_more_link": "https://www.instagram.com/arcadiaunified/?hl=en#:~:text=Arcadia%20High%20School%20named%20U.S.,Message"
+  },
+  {
+   "position": 9,
+   "title": "Arcadia High School Welcomes Community to Spring ...",
+   "link": "https://www.ausd.net/apps/pages/2024ArcadiaHighSpringPreview",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHrOzAVxwa1cGMGiyftJ1C99H0qJBJuhN87dyu2fE3kY_RRnaOxQsTr9oL_Iu67nyK_qkl-VlSViT6i9azEVJnLYMhWsI0KKCdgq-ltVif3vZ3vUjUh95aiZD_diR3C4mTglpr-DmS7CihSINjAqFtFFAdg&ved=2ahUKEwjEktG84-SWAxVjK0QIHUI-NUQQFnoECGEQAQ&uoh=1",
+   "displayed_link": "https://www.ausd.net \u203a apps \u203a pages",
+   "favicon": "https://serpapi.com/images/i/UklGRpgAAABXRUJQVlA4IIwAAADwBACdASocABwAPtE-tFooIigoFAEAGglsALEehGAABf1wzkGFCImgMV_XycEOk4AA_sNWJA15O83mboStTccB8PCoq7ZP_i0CEjzhUGIgH6QMFHtuPX8c4_VII7SRsF-dTb5y55FNBKhXyCeu5ZdzqAfhnskcCumoOq5oeER4VuQoEwp9MsGP7AAAAA.webp",
+   "snippet": "Arcadia High School, which offers 22 Advanced Placement (AP) and nine Honors courses, has been distinguished as a U.S. News and World Report Gold Medal School ...",
+   "snippet_highlighted_words": [
+    "Arcadia High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Arcadia High School, which offers 22 Advanced Placement (AP) and nine Honors courses, has been distinguished as a U.S. News and World Report Gold Medal School ...",
+     "source_info_link": "https://www.ausd.net/apps/pages/2024ArcadiaHighSpringPreview",
+     "icon": "https://serpapi.com/images/i/UklGRpgAAABXRUJQVlA4IIwAAADwBACdASocABwAPtE-tFooIigoFAEAGglsALEehGAABf1wzkGFCImgMV_XycEOk4AA_sNWJA15O83mboStTccB8PCoq7ZP_i0CEjzhUGIgH6QMFHtuPX8c4_VII7SRsF-dTb5y55FNBKhXyCeu5ZdzqAfhnskcCumoOq5oeER4VuQoEwp9MsGP7AAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdAHrOzAVxwa1cGMGiyftJ1C99H0qJBJuhN87dyu2fE3kY_RRnaOxQsTr9oL_Iu67nyK_qkl-VlSViT6i9azEVJnLYMhWsI0KKCdgq-ltVif3vZ3vUjUh95aiZD_diR3C4mTglpr-DmS7CihSINjAqFtFFAdg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdAHrOzAVxwa1cGMGiyftJ1C99H0qJBJuhN87dyu2fE3kY_RRnaOxQsTr9oL_Iu67nyK_qkl-VlSViT6i9azEVJnLYMhWsI0KKCdgq-ltVif3vZ3vUjUh95aiZD_diR3C4mTglpr-DmS7CihSINjAqFtFFAdg",
+   "source": "Arcadia Unified",
+   "read_more_link": "https://www.ausd.net/apps/pages/2024ArcadiaHighSpringPreview#:~:text=Arcadia%20High%20School%2C%20which%20offers,High%20Schools%20in%20America%20list."
+  },
+  {
+   "position": 10,
+   "title": "Home - Arcadia",
+   "link": "https://arcadiaapaches.com/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUwHrOzAVUGYjzYIPNP7BBUAs3Hr-keXXH2kFyyGUVVhztBE7ay6vIy3UwFej6CZIF2ESkcWn2Gk-PWTM76rd9iWgpI5kQ1mf9pK1IQq1sdbMgoVl&ved=2ahUKEwjEktG84-SWAxVjK0QIHUI-NUQQFnoECGQQAQ&uoh=1",
+   "displayed_link": "https://arcadiaapaches.com",
+   "favicon": "https://serpapi.com/images/i/UklGRjQCAABXRUJQVlA4ICgCAADQCgCdASocABwAPtEutFooIagoGAEAGglsAJ0y0IAfSjwG2z57OySfKOuZtdxWAoE-MTzoM1T0L_1PcG_VL0gPXN-qvsOiy4G0X71ilCft_Zbz6ZbfJuUWSyUV6BPVcAD-9gtewevyRS8nnqPsQksohIE5jf6321qSIQr4zOKjbAjIWW_5P7iWO_uTr1-zfAyCc6Gbe2Oj_vfUxvvw_0NSy31bv1HaDvOzT4I5Ec464915ZtnKxveHMi4CSQAqwghxB_vugNn2Y9Wb_rrUCSQOnlNKgvHv7Fc0Fi0xdNfPt12cKKkDgdodkWoeUUis3zP775LJyuv8MuKR35MBv4_N4rmgV-6XCC-nQDgLCJnBo6Zx2ox8a3Zw-1w_4P1MRcCfxh-fN-z_tHmkxc39qe3F--Sj1g4mGU32taneKIvre3eOvK-zkGecvw2v8LQf1E3AR1L41fEQtuGz2OL5yH6MDRTpHF8TLG0_he3hg-gpL1j1eJ19A0U62J50XfFz7Hg90OYf8vFg1g-606ORt91QglTED1yLyACDjtMXO0-auaUr2_1ABXCftSZYiudntY_fmnDssIcN0p1EyqXkWc0NtNBrcE9L-D79L_v_mfVIL09fNaWX9D_NwNfyP_IiGPrPQW0mP0DnhI4Gfnz75R503pKS7EP9c-Dz7qLKcTgk5AaHd4t_3xHno2GE49R_jLpL98terli5Xd9FyT98_UMR9TmcQNXogAA.webp",
+   "snippet": "Arcadia High School yearbooks are available for all to view. We proudly support our Arcadia High School Apache Mascot; We are building a long lasting ...",
+   "snippet_highlighted_words": [
+    "Arcadia High School",
+    "Arcadia High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Arcadia High School yearbooks are available for all to view. We proudly support our Arcadia High School Apache Mascot; We are building a long lasting ...",
+     "source_info_link": "https://arcadiaapaches.com/",
+     "icon": "https://serpapi.com/images/i/UklGRjQCAABXRUJQVlA4ICgCAADQCgCdASocABwAPtEutFooIagoGAEAGglsAJ0y0IAfSjwG2z57OySfKOuZtdxWAoE-MTzoM1T0L_1PcG_VL0gPXN-qvsOiy4G0X71ilCft_Zbz6ZbfJuUWSyUV6BPVcAD-9gtewevyRS8nnqPsQksohIE5jf6321qSIQr4zOKjbAjIWW_5P7iWO_uTr1-zfAyCc6Gbe2Oj_vfUxvvw_0NSy31bv1HaDvOzT4I5Ec464915ZtnKxveHMi4CSQAqwghxB_vugNn2Y9Wb_rrUCSQOnlNKgvHv7Fc0Fi0xdNfPt12cKKkDgdodkWoeUUis3zP775LJyuv8MuKR35MBv4_N4rmgV-6XCC-nQDgLCJnBo6Zx2ox8a3Zw-1w_4P1MRcCfxh-fN-z_tHmkxc39qe3F--Sj1g4mGU32taneKIvre3eOvK-zkGecvw2v8LQf1E3AR1L41fEQtuGz2OL5yH6MDRTpHF8TLG0_he3hg-gpL1j1eJ19A0U62J50XfFz7Hg90OYf8vFg1g-606ORt91QglTED1yLyACDjtMXO0-auaUr2_1ABXCftSZYiudntY_fmnDssIcN0p1EyqXkWc0NtNBrcE9L-D79L_v_mfVIL09fNaWX9D_NwNfyP_IiGPrPQW0mP0DnhI4Gfnz75R503pKS7EP9c-Dz7qLKcTgk5AaHd4t_3xHno2GE49R_jLpL98terli5Xd9FyT98_UMR9TmcQNXogAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESUwHrOzAVUGYjzYIPNP7BBUAs3Hr-keXXH2kFyyGUVVhztBE7ay6vIy3UwFej6CZIF2ESkcWn2Gk-PWTM76rd9iWgpI5kQ1mf9pK1IQq1sdbMgoVl&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESUwHrOzAVUGYjzYIPNP7BBUAs3Hr-keXXH2kFyyGUVVhztBE7ay6vIy3UwFej6CZIF2ESkcWn2Gk-PWTM76rd9iWgpI5kQ1mf9pK1IQq1sdbMgoVl",
+   "source": "arcadiaapaches.com",
+   "read_more_link": "https://arcadiaapaches.com/#:~:text=Arcadia%20High%20School%20yearbooks%20are,Apache%20people%20on%20the%20reservation."
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Arcadia high school california football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Arcadia+high+school+california+football&sa=X&ved=2ahUKEwjEktG84-SWAxVjK0QIHUI-NUQQ1QJ6BAhlEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Arcadia+high+school+california+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Arcadia high school california ranking",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Arcadia+high+school+california+ranking&sa=X&ved=2ahUKEwjEktG84-SWAxVjK0QIHUI-NUQQ1QJ6BQiEARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Arcadia+high+school+california+ranking"
+  },
+  {
+   "block_position": 1,
+   "query": "Arcadia high school california alumni",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Arcadia+high+school+california+alumni&sa=X&ved=2ahUKEwjEktG84-SWAxVjK0QIHUI-NUQQ1QJ6BQiCARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Arcadia+high+school+california+alumni"
+  },
+  {
+   "block_position": 1,
+   "query": "Arcadia high schools",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Arcadia+high+schools&sa=X&ved=2ahUKEwjEktG84-SWAxVjK0QIHUI-NUQQ1QJ6BQiBARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Arcadia+high+schools"
+  },
+  {
+   "block_position": 1,
+   "query": "Arcadia high school california basketball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Arcadia+high+school+california+basketball&sa=X&ved=2ahUKEwjEktG84-SWAxVjK0QIHUI-NUQQ1QJ6BQiAARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Arcadia+high+school+california+basketball"
+  },
+  {
+   "block_position": 1,
+   "query": "Arcadia high school california famous alumni",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Arcadia+high+school+california+famous+alumni&sa=X&ved=2ahUKEwjEktG84-SWAxVjK0QIHUI-NUQQ1QJ6BAh5EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Arcadia+high+school+california+famous+alumni"
+  },
+  {
+   "block_position": 1,
+   "query": "Arcadia High School Website",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Arcadia+High+School+Website&sa=X&ved=2ahUKEwjEktG84-SWAxVjK0QIHUI-NUQQ1QJ6BAhxEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Arcadia+High+School+Website"
+  },
+  {
+   "block_position": 1,
+   "query": "Arcadia High School photos",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Arcadia+High+School+photos&sa=X&ved=2ahUKEwjEktG84-SWAxVjK0QIHUI-NUQQ1QJ6BAhpEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Arcadia+High+School+photos"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Arcadia+High+School%22+California&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=9wijaoS7JePWkPIPwvzUoQQ&start=10&sa=N&sstk=AS6-VmJ25-sQG0a0KHKzZ7A4iRCVdyXMdE1rjTxqMYcJUp2zRiuGovbaEMNpRaMR82tdglG7H9vrX06tzC3lRgcltM7sWGKtL28xfA&ved=2ahUKEwjEktG84-SWAxVjK0QIHUI-NUQQ8NMDegQIUhAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Arcadia+High+School%22+California&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=9wijaoS7JePWkPIPwvzUoQQ&start=10&sa=N&sstk=AS6-VmJ25-sQG0a0KHKzZ7A4iRCVdyXMdE1rjTxqMYcJUp2zRiuGovbaEMNpRaMR82tdglG7H9vrX06tzC3lRgcltM7sWGKtL28xfA&ved=2ahUKEwjEktG84-SWAxVjK0QIHUI-NUQQ8tMDegQIUhAE",
+   "3": "https://www.google.com/search?q=%22Arcadia+High+School%22+California&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=9wijaoS7JePWkPIPwvzUoQQ&start=20&sa=N&sstk=AS6-VmJ25-sQG0a0KHKzZ7A4iRCVdyXMdE1rjTxqMYcJUp2zRiuGovbaEMNpRaMR82tdglG7H9vrX06tzC3lRgcltM7sWGKtL28xfA&ved=2ahUKEwjEktG84-SWAxVjK0QIHUI-NUQQ8tMDegQIUhAG",
+   "4": "https://www.google.com/search?q=%22Arcadia+High+School%22+California&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=9wijaoS7JePWkPIPwvzUoQQ&start=30&sa=N&sstk=AS6-VmJ25-sQG0a0KHKzZ7A4iRCVdyXMdE1rjTxqMYcJUp2zRiuGovbaEMNpRaMR82tdglG7H9vrX06tzC3lRgcltM7sWGKtL28xfA&ved=2ahUKEwjEktG84-SWAxVjK0QIHUI-NUQQ8tMDegQIUhAI",
+   "5": "https://www.google.com/search?q=%22Arcadia+High+School%22+California&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=9wijaoS7JePWkPIPwvzUoQQ&start=40&sa=N&sstk=AS6-VmJ25-sQG0a0KHKzZ7A4iRCVdyXMdE1rjTxqMYcJUp2zRiuGovbaEMNpRaMR82tdglG7H9vrX06tzC3lRgcltM7sWGKtL28xfA&ved=2ahUKEwjEktG84-SWAxVjK0QIHUI-NUQQ8tMDegQIUhAK",
+   "6": "https://www.google.com/search?q=%22Arcadia+High+School%22+California&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=9wijaoS7JePWkPIPwvzUoQQ&start=50&sa=N&sstk=AS6-VmJ25-sQG0a0KHKzZ7A4iRCVdyXMdE1rjTxqMYcJUp2zRiuGovbaEMNpRaMR82tdglG7H9vrX06tzC3lRgcltM7sWGKtL28xfA&ved=2ahUKEwjEktG84-SWAxVjK0QIHUI-NUQQ8tMDegQIUhAM",
+   "7": "https://www.google.com/search?q=%22Arcadia+High+School%22+California&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=9wijaoS7JePWkPIPwvzUoQQ&start=60&sa=N&sstk=AS6-VmJ25-sQG0a0KHKzZ7A4iRCVdyXMdE1rjTxqMYcJUp2zRiuGovbaEMNpRaMR82tdglG7H9vrX06tzC3lRgcltM7sWGKtL28xfA&ved=2ahUKEwjEktG84-SWAxVjK0QIHUI-NUQQ8tMDegQIUhAO",
+   "8": "https://www.google.com/search?q=%22Arcadia+High+School%22+California&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=9wijaoS7JePWkPIPwvzUoQQ&start=70&sa=N&sstk=AS6-VmJ25-sQG0a0KHKzZ7A4iRCVdyXMdE1rjTxqMYcJUp2zRiuGovbaEMNpRaMR82tdglG7H9vrX06tzC3lRgcltM7sWGKtL28xfA&ved=2ahUKEwjEktG84-SWAxVjK0QIHUI-NUQQ8tMDegQIUhAQ",
+   "9": "https://www.google.com/search?q=%22Arcadia+High+School%22+California&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=9wijaoS7JePWkPIPwvzUoQQ&start=80&sa=N&sstk=AS6-VmJ25-sQG0a0KHKzZ7A4iRCVdyXMdE1rjTxqMYcJUp2zRiuGovbaEMNpRaMR82tdglG7H9vrX06tzC3lRgcltM7sWGKtL28xfA&ved=2ahUKEwjEktG84-SWAxVjK0QIHUI-NUQQ8tMDegQIUhAS",
+   "10": "https://www.google.com/search?q=%22Arcadia+High+School%22+California&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=9wijaoS7JePWkPIPwvzUoQQ&start=90&sa=N&sstk=AS6-VmJ25-sQG0a0KHKzZ7A4iRCVdyXMdE1rjTxqMYcJUp2zRiuGovbaEMNpRaMR82tdglG7H9vrX06tzC3lRgcltM7sWGKtL28xfA&ved=2ahUKEwjEktG84-SWAxVjK0QIHUI-NUQQ8tMDegQIUhAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Arcadia+High+School%22+California&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Arcadia+High+School%22+California&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Arcadia+High+School%22+California&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Arcadia+High+School%22+California&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Arcadia+High+School%22+California&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Arcadia+High+School%22+California&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Arcadia+High+School%22+California&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Arcadia+High+School%22+California&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Arcadia+High+School%22+California&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Arcadia+High+School%22+California&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Arcadia+High+School%22+California&start=90"
+  }
+ }
+}

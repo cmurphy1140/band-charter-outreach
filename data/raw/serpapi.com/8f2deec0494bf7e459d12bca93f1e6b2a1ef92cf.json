@@ -1,0 +1,658 @@
+{
+ "search_information": {
+  "query_displayed": "\"Pendleton Heights High School\" Indiana",
+  "total_results": 83400,
+  "time_taken_displayed": 0.34,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Pendleton Heights High School",
+  "type": "Public school in Pendleton, Indiana",
+  "entity_type": "local_nav",
+  "kgmid": "/m/07k4vv9",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/07k4vv9&hl=en-US&q=Pendleton+Heights+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F07k4vv9&q=Pendleton+Heights+High+School",
+  "place_id": "ChIJSQrAFZDRFIgRVkYAjrCtai4",
+  "website": "https://phhs.smcsc.com/",
+  "description": "Pendleton Heights High School, also known as \"PHHS,\" is a public high school in Pendleton, Indiana. It is part of the South Madison Community School Corporation and has an enrollment of around 1,400 students.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa31099cc56d3d57b621788/images/yU8mAk7_KMARWwjmjQw7q3rY_E5O0pCR0aFUuzFyqeE.webp",
+   "link": "https://www.google.com/maps/place/Pendleton+Heights+High+School/data=!4m2!3m1!1s0x0:0x2e6aadb08e004656?sa=X&ved=2ahUKEwjnh-fn6uSWAxViALkGHXCBPHsQ_BJ6BAhCEAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Pendleton_Heights_High_School"
+  },
+  "address": "1 Arabian Dr, Pendleton, IN 46064",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvi0C3w5wYdVu_oL-lOvc0LrWVVrg:1789071529206&q=pendleton+heights+high+school+address&ludocid=3344676647084246614&sa=X&ved=2ahUKEwjnh-fn6uSWAxViALkGHXCBPHsQ6BN6BAhKEAI"
+   }
+  ],
+  "colors": "White, Green",
+  "colors_links": [
+   {
+    "text": "Colors",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvi0C3w5wYdVu_oL-lOvc0LrWVVrg:1789071529206&q=pendleton+heights+high+school+colors&stick=H4sIAAAAAAAAAOPgE-LSz9U3MM82KSuz1NLOTrbST00pTU4syczPQ7ASc-Iz84pLMktKQTyr5Pyc_KJFrCoFqXkpOakl-XkKGamZ6RklxQoZQEqhODkjPz9HAayqGADV-wWaYgAAAA&sa=X&ved=2ahUKEwjnh-fn6uSWAxViALkGHXCBPHsQ6BN6BAhNEAI"
+   },
+   {
+    "text": "White",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvi0C3w5wYdVu_oL-lOvc0LrWVVrg:1789071529206&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpt2PmrrG0v_NNf8LKgZjBVjwPSJGOBj-fhttCVbIGZaH8kh7OlknhIu4ttC3GF3WL2AeVVeJeijHfuU75izahi9xPRYYCN0iNmIVeESPNtdxBuv_GsJEsYblGmWdrcMiTL69zedXduG0KW1AS_0Jne5a8GupVb5xoyCDAw_PyyK0NJT1TUcxHLsbeGLQLyZb155omJk%3D&sa=X&ved=2ahUKEwjnh-fn6uSWAxViALkGHXCBPHsQmxN6BAhNEAM"
+   },
+   {
+    "text": "Green",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvi0C3w5wYdVu_oL-lOvc0LrWVVrg:1789071529206&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpoz5wXyxWqEflzd6czJ_pS-pVikmYHSXSkhMaaW4zVmAp_H21sIyeDFMTLAC9ZH7dEfWrcgkIL8Zt9THRdAYQ8o4eLh9XUk1ABJFu6COiHNjW9sNA_tsGxWllWXfmMNm7tC8DNWfbW_5nU0OXgvqo6Iadwn6XvxnWd1JiTb1vcY_WHgW6eU_7ZUTl_BH4wVsDoFidyU%3D&sa=X&ved=2ahUKEwjnh-fn6uSWAxViALkGHXCBPHsQmxN6BAhNEAQ"
+   }
+  ],
+  "founded": "1969",
+  "founded_links": [
+   {
+    "text": "Founded",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvi0C3w5wYdVu_oL-lOvc0LrWVVrg:1789071529206&q=pendleton+heights+high+school+founded&stick=H4sIAAAAAAAAAOPgE-LSz9U3MM82KSuz1FLNTrbSzy9KT8zLrEosyczPQ-FYpeWX5qWkpixiVS1IzUvJSS3Jz1PISM1MzygpVsgAUgrFyRn5-TkKUHUAZeh0Ml0AAAA&sa=X&ved=2ahUKEwjnh-fn6uSWAxViALkGHXCBPHsQ6BN6BAhSEAI"
+   }
+  ],
+  "football_coach": "Jed Richman maxpreps.com",
+  "football_coach_links": [
+   {
+    "text": "Football coach",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvi0C3w5wYdVu_oL-lOvc0LrWVVrg:1789071529206&q=pendleton+heights+high+school+football+coach&stick=H4sIAAAAAAAAAOPgE-LSz9U3MM82KSuz1JLOz7bSL87ILypJS0wusUrLzy9JSsyJT85PTM5YxKpTkJqXkpNakp-nkJGamZ5RUqyQAaQUipMz8vNzFKCqcxTAygHLOMwlWgAAAA&sa=X&ved=2ahUKEwjnh-fn6uSWAxViALkGHXCBPHsQ6BN6BAhUEAI"
+   },
+   {
+    "text": "maxpreps.com",
+    "link": "https://www.maxpreps.com/in/pendleton/pendleton-heights-arabians/football/staff/"
+   }
+  ],
+  "school_types": "Secondary school, State school",
+  "school_types_links": [
+   {
+    "text": "School types",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvi0C3w5wYdVu_oL-lOvc0LrWVVrg:1789071529206&q=pendleton+heights+high+school+school+types&stick=H4sIAAAAAAAAAOPgE-LSz9U3MM82KSuz1DLMTrbST00pTU4syczPQ7ASc-Iz84pLMktKQTyr4uSM_PwchZLKgtRFrFoFqXkpOakl-XkKGamZ6RklxQoZQEoBqghJbTEAh-c_-W4AAAA&sa=X&ved=2ahUKEwjnh-fn6uSWAxViALkGHXCBPHsQ6BN6BAhLEAI"
+   },
+   {
+    "text": "Secondary school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvi0C3w5wYdVu_oL-lOvc0LrWVVrg:1789071529206&q=Secondary+school&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67-Rsa99rK7fwEET42kD4ZCjF8QRrSgNUVBuomcnHhCbBYOAtzIHniilZ6q-VIW5zaAD4pksrKiK2fS6FxsBThjIPEi-5kk0kleX3bugH-5OAGqBU-lNap0cwWbwgZQrrxX1I4fYecna5Xr2KOMjd8d0SSPJDXDQvLgJKxzxQgazI9iK_y14fuTstWrc-mwXie5HSOjaoxGj7MF_zHFahfQ-D4T5b0V3BH7NDgFyC3vtqG27xW6qZZ0rurdFnNS0t15M0vCc%3D&sa=X&ved=2ahUKEwjnh-fn6uSWAxViALkGHXCBPHsQmxN6BAhLEAM"
+   },
+   {
+    "text": "State school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvi0C3w5wYdVu_oL-lOvc0LrWVVrg:1789071529206&q=State+school&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ybGtCxI0H8z2nV80srIO5hizwNtt3Ym6Fi28M6pFzMpba6xCjNFIQKbDb7W_yOsUKzHP6t0BoDIq84DgtktiHBvFqPDhCTDRJvE6JLQvR7Ea5CIYOr9kZj5w294CIrfSqkSfBNVerEWO1Jsj1ijfX9S7AWAAhaumgmSXP-BoL9iqMMLUkhyGmKlwIxlG67BieGueFo0Dr-BR6iLuGv6eIeXyXYtf00Q63CY_1vo0FRIV5C_mBkka32p4a_bPDAZNMCK5Opo%3D&sa=X&ved=2ahUKEwjnh-fn6uSWAxViALkGHXCBPHsQmxN6BAhLEAQ"
+   }
+  ],
+  "lowest_grade": "Ninth Grade",
+  "lowest_grade_links": [
+   {
+    "text": "Lowest grade",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvi0C3w5wYdVu_oL-lOvc0LrWVVrg:1789071529206&q=pendleton+heights+high+school+lowest+grade&stick=H4sIAAAAAAAAAOPgE-LSz9U3MM82KSuz1FLMTrbST00pTU4syczP0y9OzsjPz7HKyS9PLS5RSC9KTEldxKpVkJqXkpNakp-nkJGamZ5RUqyQAaQUIIoVkBUDAI9HJxNeAAAA&sa=X&ved=2ahUKEwjnh-fn6uSWAxViALkGHXCBPHsQ6BN6BAhPEAI"
+   },
+   {
+    "text": "Ninth Grade",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvi0C3w5wYdVu_oL-lOvc0LrWVVrg:1789071529206&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ycVufaiHeRm9qcUzZ-riFc-9oKSn3gqbysox9tEbgSTfJPpMmU9KGVNEozprDr5Ju-7iW0cW8xeYYjrIferLHxSnUDWGCl4ug-E7P3mMn6mxjVCmaQ8QRj7qsN22VmqA0iCsL8-3rDspPtPI5K_y9LwjoCEY&sa=X&ved=2ahUKEwjnh-fn6uSWAxViALkGHXCBPHsQmxN6BAhPEAM"
+   }
+  ],
+  "phone": "(765) 778-2161",
+  "phone_links": [
+   {
+    "text": "Phone",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvi0C3w5wYdVu_oL-lOvc0LrWVVrg:1789071529206&q=pendleton+heights+high+school+phone&ludocid=3344676647084246614&sa=X&ved=2ahUKEwjnh-fn6uSWAxViALkGHXCBPHsQ6BN6BAhOEAI"
+   }
+  ],
+  "raw_hours": "Closed \u00b7 Opens 7 - 30 AM Fri",
+  "hours": {
+   "thursday": {
+    "opens": "7:30\u202fAM",
+    "closes": "2:25\u202fPM"
+   },
+   "friday": {
+    "opens": "7:30\u202fAM",
+    "closes": "2:25\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "7:30\u202fAM",
+    "closes": "2:25\u202fPM"
+   },
+   "tuesday": {
+    "opens": "7:30\u202fAM",
+    "closes": "2:25\u202fPM"
+   },
+   "wednesday": {
+    "opens": "7:30\u202fAM",
+    "closes": "2:25\u202fPM"
+   }
+  },
+  "unclaimed_listing": true,
+  "people_also_search_for": [
+   {
+    "name": "Franklin Central High School",
+    "image": "https://serpapi.com/searches/6aa31099cc56d3d57b621788/images/yU8mAk7_KMARWwjmjQw7q8tW-UpZWP1TZlQIVivPsp-P1VoeUzBc13r8cgWCEkX7.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvi0C3w5wYdVu_oL-lOvc0LrWVVrg:1789071529206&q=Franklin+Central+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW675umNoYojF2Zfa15NivI7RTgk1HADyKPM64baUrxxCmVzVMLXR_o0G7pSAznqPWeEmPxO7wtIyvYh4BbIaYvFVJtqS1UKYR9yMeW_UC6znkZVBQlt0SmUkAtVCrEDo-0DggAPVJyy8lKQq5hSZ-PusifNjK0um60H6IfLODLwjwJD-LNzhPlUxlAA2HjQeCPsDVA37NtNW-vy6BrRjb2H3ptpSY2aOJ0r5QNlFQefDh_wl-5gQOqOaZxYAeC_n5jPh8oTIBhgaEUzMwnIEhHN5JUkXxK&sa=X&ved=2ahUKEwjnh-fn6uSWAxViALkGHXCBPHsQxA16BAhAEAQ",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Franklin+Central+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW675umNoYojF2Zfa15NivI7RTgk1HADyKPM64baUrxxCmVzVMLXR_o0G7pSAznqPWeEmPxO7wtIyvYh4BbIaYvFVJtqS1UKYR9yMeW_UC6znkZVBQlt0SmUkAtVCrEDo-0DggAPVJyy8lKQq5hSZ-PusifNjK0um60H6IfLODLwjwJD-LNzhPlUxlAA2HjQeCPsDVA37NtNW-vy6BrRjb2H3ptpSY2aOJ0r5QNlFQefDh_wl-5gQOqOaZxYAeC_n5jPh8oTIBhgaEUzMwnIEhHN5JUkXxK"
+   },
+   {
+    "name": "Roncalli High School",
+    "image": "https://serpapi.com/searches/6aa31099cc56d3d57b621788/images/yU8mAk7_KMARWwjmjQw7q8tW-UpZWP1TZlQIVivPsp-Xi7Zig-F6UFi26cGSzRxb.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvi0C3w5wYdVu_oL-lOvc0LrWVVrg:1789071529206&q=Roncalli+High+School+(Indiana)&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW671nBQ6lrR8i3-n7u1smffMlHs5Iw2EaGe2jvxxQBul9-zQWthL6ndFPiHjkOhM5R7SzO5G8ZhofdHgiH8Kk-ez_4hyH--JnRnZf49EDzq1RcvSA50cya0mctFWJuyc3yUOlvG5FCQHN24_PbFJdSctazGv-S972Fbcdy_1poAzZz668UqYuxiB5V_9B_SVpuK6N12UwQqxY9SYixsDoAec6FeJoRq8yeJ7wfv5QwERRYHs7rMV21jK80FdRv11UtCBeBXfSl8BQwdC9uZdgNCiI4vGny&sa=X&ved=2ahUKEwjnh-fn6uSWAxViALkGHXCBPHsQxA16BAhAEAc",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Roncalli+High+School+%28Indiana%29&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW671nBQ6lrR8i3-n7u1smffMlHs5Iw2EaGe2jvxxQBul9-zQWthL6ndFPiHjkOhM5R7SzO5G8ZhofdHgiH8Kk-ez_4hyH--JnRnZf49EDzq1RcvSA50cya0mctFWJuyc3yUOlvG5FCQHN24_PbFJdSctazGv-S972Fbcdy_1poAzZz668UqYuxiB5V_9B_SVpuK6N12UwQqxY9SYixsDoAec6FeJoRq8yeJ7wfv5QwERRYHs7rMV21jK80FdRv11UtCBeBXfSl8BQwdC9uZdgNCiI4vGny"
+   },
+   {
+    "name": "Columbus North High School",
+    "image": "https://serpapi.com/searches/6aa31099cc56d3d57b621788/images/yU8mAk7_KMARWwjmjQw7q8tW-UpZWP1TZlQIVivPsp_uU9xRGpHZ-wzj2E-Iinpm.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvi0C3w5wYdVu_oL-lOvc0LrWVVrg:1789071529206&q=Columbus+North+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yYO1kk_fSMQ6yU4w1ddiHX3yhxTWqKkYGh6nNP-n2iuSNMRHIS2cqaHJFqPs879ajo4rnAIoV0wyzUkRMMYkoXXsxr1VyEnZwMHP93PkmSJjmee-aukv7cdNkLBtKMnBu0krXAanZtoaF-hUacXkrhtttXZdntgzds1YB6eKJeS6zN_rmizM3C8uPlZ-698dYUTGH1FNSr07JcaAyQXkNuoxwRlCqn-bKfwk0DVEctUmIETx58-3Kxvq_0EqXMSjagFP9geDFDwrnEra53anPCriGIAD&sa=X&ved=2ahUKEwjnh-fn6uSWAxViALkGHXCBPHsQxA16BAhAEAo",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Columbus+North+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yYO1kk_fSMQ6yU4w1ddiHX3yhxTWqKkYGh6nNP-n2iuSNMRHIS2cqaHJFqPs879ajo4rnAIoV0wyzUkRMMYkoXXsxr1VyEnZwMHP93PkmSJjmee-aukv7cdNkLBtKMnBu0krXAanZtoaF-hUacXkrhtttXZdntgzds1YB6eKJeS6zN_rmizM3C8uPlZ-698dYUTGH1FNSr07JcaAyQXkNuoxwRlCqn-bKfwk0DVEctUmIETx58-3Kxvq_0EqXMSjagFP9geDFDwrnEra53anPCriGIAD"
+   },
+   {
+    "name": "Lawrence Central High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnz5lzBt6myeWJjTgegMlg7Mo1DRYGI00LfHg8G9RlLcNBG-aw1z_eXaAfLZaj5TsdzSJQYH6WDSNwTCpgaEFdfhkPnJBLjDI8TMQHUvZAcDwEMDueXc5DTYC7eJlMIWBrDJ9mN=w78-h138-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvi0C3w5wYdVu_oL-lOvc0LrWVVrg:1789071529206&q=Lawrence+Central+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yTm0TmlHqjAQRSXnC5znXAArTg0iz40vtgZEnTivZtNQ_Jj_wL-58sT9IYU9XDA9lhbJfdMHvpmI6II_EXA2bAlUuGTSAR-C5UyUa3fk8KawvqHtiBRkWMQZexw_D21Gr5tiw6q2E4TDT412hih1i3rs_oa01lJuWGGgRNZpOBiaTNxVIdcxbV5QPO4uVDrHKbmAJSoX9fgY3GD2vQ2ma_FocEFRYJNelFkNV-ykh6VlhQefAwQPn4RdsxICiGlJMPLQqFUSRElokaY7L_ItBxcvGSoX&sa=X&ved=2ahUKEwjnh-fn6uSWAxViALkGHXCBPHsQxA16BAhAEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Lawrence+Central+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yTm0TmlHqjAQRSXnC5znXAArTg0iz40vtgZEnTivZtNQ_Jj_wL-58sT9IYU9XDA9lhbJfdMHvpmI6II_EXA2bAlUuGTSAR-C5UyUa3fk8KawvqHtiBRkWMQZexw_D21Gr5tiw6q2E4TDT412hih1i3rs_oa01lJuWGGgRNZpOBiaTNxVIdcxbV5QPO4uVDrHKbmAJSoX9fgY3GD2vQ2ma_FocEFRYJNelFkNV-ykh6VlhQefAwQPn4RdsxICiGlJMPLQqFUSRElokaY7L_ItBxcvGSoX"
+   }
+  ],
+  "profiles": [
+   {
+    "name": "YouTube",
+    "link": "https://www.youtube.com/channel/UCLQ8RfJnjF8EUQLFelJhMXw",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pendleton+Heights+High+School%22+Indiana",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAP1BMVEX_____z8__n5__kJD_gID_cHD_YGD_v7__39__ICD_AAD_r6__EBD_7-__oKD_MDD_QED_UFD_X1__j4__f396G04EAAAAhklEQVR4AeXQRQLDQAwDQC3bajj5_1dLYb63czYKf8VY50OcBO9swkyUB_SBkfJQlqOXeKJAz_FEQM9zVCqXInqRIy-RC9W-AJDypgCwyoGiV68LkLJFwX6CVJcr8nBwZJgLXMaDAs9RxsMcLE949IQnEnpoeKjEpC25o12OpVwkTURy_JQX1r4RC2S7kZYAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/smcscalert",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pendleton+Heights+High+School%22+Indiana",
+    "image": "https://serpapi.com/searches/6aa31099cc56d3d57b621788/images/yU8mAk7_KMARWwjmjQw7q-s76IAIVRupEezltzPs1zc3FaA6GykPvFPA9YURSRAf.png"
+   },
+   {
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/in/chad-smith-1a4597113",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pendleton+Heights+High+School%22+Indiana",
+    "image": "https://serpapi.com/searches/6aa31099cc56d3d57b621788/images/yU8mAk7_KMARWwjmjQw7q8XjJgaHHQ14o6h3jV1U6Dw6erNyUehmgueM33V6hj0t.png"
+   },
+   {
+    "name": "X (Twitter)",
+    "link": "https://twitter.com/phhsgirlssoccer",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pendleton+Heights+High+School%22+Indiana",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAABhUlEQVR4AczOA6xcARCF4X_us23btuLUQR3WZlhbQW3bto2gtm3b2J3GN4tY74uHh3okOi42Nj4AAUDwTvDEhisABCOAEAzYTBh0bN-lc5d0QgAhHPqX4Y4pkd367Zc-xMcXCPDg8TPwxeQH724Uj9N95GJ4pnHxby1xgCmV3v-GsFb7k0Iee7UjaQgmIYe9v9O4-wUKWaATyMPAViwvr1NnOQWDdTV5CHYSaKWLmaGDyvU4mTgQcllracaFr-9uk-yLM8k8fAJff0IUTghRVFu3M1ynkYk4nchiqqU3Ry05RDibMMhjtj6Ht3dJxVk_l1G64cspOusychBsCWm01WNM0jFs0sbEYUtIIuTXNco588OLh09JxE6wweuXEAvfL9PQus3-iU80N34KCaQyUOcxTTuSjEmMRI5rS9JwIZfD1t7ceo34YIpnuQ4nGwP8XXlq_fJZd9jE8KBHC5IwAELJ7dWrZ6fOuNhkgFgAEEIAwA1MQkw0AgDC_wnKycrKSQ2iPAkAVyNzq8rxicIAAAAASUVORK5CYII.png"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvi0C3w5wYdVu_oL-lOvc0LrWVVrg:1789071529206&q=Pendleton+Heights+High+School&stick=H4sIAAAAAAAAAONgFuLSz9U3MM82KSuzVEJiawkGZ6aklidWFvulVpQEl6QWFC9ilQ1IzUvJSS3Jz1PwSM1MzygpVvAAUgrByRn5-Tk7WBkB9kuJE1AAAAA&sa=X&ved=2ahUKEwjnh-fn6uSWAxViALkGHXCBPHsQMSgAegQIQBAB",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLSz9U3MM82KSuzVEJiawkGZ6aklidWFvulVpQEl6QWFC9ilQ1IzUvJSS3Jz1PwSM1MzygpVvAAUgrByRn5-Tk7WBkB9kuJE1AAAAA"
+ },
+ "related_questions": [
+  {
+   "question": "What is the #1 ranked high school in Indiana?",
+   "type": "ai_overview",
+   "page_token": "xPEWVnicHdBfjppAHADg9DL7uMIgNJqYpuOClpVhmb_gSwMDissPwZWVgbdeoWfoqXqaJv2O8P36A5dr8_fL73oY-vt6sRjH8fncdWeonnXXLvL7dNULnQMUuW7W3lfP_nbSG_-h8fZD40T0vXyhFpPJHAdwo4gMHMnXIjhPKoBOC9sIBQPbY5chOEhrFcccvOz6fS44zqIZf1IUnrganaodLsdUkhytYtaaZfQiGXmXHbPAVKnsi507cUcvc99kx10_kBR2mQo_mZQ3JumWCRNy5UKuqFcJioVvtmVABL82k26NR5h9lxyzZK4RRQOX7VFWe8CRuo8aspGoDpXQ00KtLqXlOwcuWb4LVZT2D225AUcNIuLH0q9LIxpyy9IAhE_fmOXb3JZJ7ENU8ZBmprskgs76HVqhhphMdqORIUkKmIp6H6HaLdraIUIe4rR8FcnTST82ztP_683PUzus-4_u_A8AP41X",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=xPEWVnicHdBfjppAHADg9DL7uMIgNJqYpuOClpVhmb_gSwMDissPwZWVgbdeoWfoqXqaJv2O8P36A5dr8_fL73oY-vt6sRjH8fncdWeonnXXLvL7dNULnQMUuW7W3lfP_nbSG_-h8fZD40T0vXyhFpPJHAdwo4gMHMnXIjhPKoBOC9sIBQPbY5chOEhrFcccvOz6fS44zqIZf1IUnrganaodLsdUkhytYtaaZfQiGXmXHbPAVKnsi507cUcvc99kx10_kBR2mQo_mZQ3JumWCRNy5UKuqFcJioVvtmVABL82k26NR5h9lxyzZK4RRQOX7VFWe8CRuo8aspGoDpXQ00KtLqXlOwcuWb4LVZT2D225AUcNIuLH0q9LIxpyy9IAhE_fmOXb3JZJ7ENU8ZBmprskgs76HVqhhphMdqORIUkKmIp6H6HaLdraIUIe4rR8FcnTST82ztP_683PUzus-4_u_A8AP41X",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFN6Y3llVnB3UzFoMFJWTlBiVTAwY0V0eGVXTTVjbnBFVldkMWQyMTFRMFpMUzFnMVUwUXhMVEpGTkVSRk1uVk9XWHA1ZDNOZlJGbDNjREk0ZW1Nek1DMUtZVXMxUlhSVGQwdGxaM3BEWDJwQlpHaE5jVkZZWjFSeWR4SVhjVkpEYW1GeFpWQkVUMHRCTlU5VlVEaEpUSGt5VVdNYUlrRkVjM0k1WmxSbU5rOURTalpaWWxKdlRHRmtiVUpSZEZORU5WVjFUbDlGWlVFIiwiZmN2IjoiMyIsImVpIjoicVJDamFxZVBET0tBNU9VUDhJTHkyUWMiLCJxYyI6IkNpVndaVzVrYkdWMGIyNGdhR1ZwWjJoMGN5Qm9hV2RvSUhOamFHOXZiQ0JwYm1ScFlXNWhFQUI5b3BjNlB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSAjMSByYW5rZWQgaGlnaCBzY2hvb2wgaW4gSW5kaWFuYT8iLCJsayI6IkdpeDNhR0YwSUdseklIUm9aU0FqTVNCeVlXNXJaV1FnYUdsbmFDQnpZMmh2YjJ3Z2FXNGdhVzVrYVdGdVlRIiwiYnMiOiJjNDJRdXc3Q01BeEZ4WnFKdVpNbFVDZWVfWUV5d2xhSmdSR1pKT0NJTmtaSktzVGZFeDZCZ29URWZ1ODUxeFpiTWQ0UUJqQWVBbWtZek1HaFBXb0ZaQTRFWGhKekRjYkN5aXFERnN0aWtvM09feFRNb3lBcWtTZEJwYTJxZFdBN1NqallZOE90aHoyN3NzaXpZU0tmVWpKaE9rRWh4WFRKWjJqUVhzQ0hWbWtiUEtEVEVMc3ZCU3h2YzliM09XVXh5eWIwcV9KMmRTNFFUaXcyeE9sSzBxaWltOE1PNnhva282UXZtNDdkeVB5d3hsZDE0TTlFOTAyZnhIN3ZDZyIsImlkIjoiZmNfcVJDamFxZVBET0tBNU9VUDhJTHkyUWNfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFN6Y3llVnB3UzFoMFJWTlBiVTAwY0V0eGVXTTVjbnBFVldkMWQyMTFRMFpMUzFnMVUwUXhMVEpGTkVSRk1uVk9XWHA1ZDNOZlJGbDNjREk0ZW1Nek1DMUtZVXMxUlhSVGQwdGxaM3BEWDJwQlpHaE5jVkZZWjFSeWR4SVhjVkpEYW1GeFpWQkVUMHRCTlU5VlVEaEpUSGt5VVdNYUlrRkVjM0k1WmxSbU5rOURTalpaWWxKdlRHRmtiVUpSZEZORU5WVjFUbDlGWlVFIiwiZmN2IjoiMyIsImVpIjoicVJDamFxZVBET0tBNU9VUDhJTHkyUWMiLCJxYyI6IkNpVndaVzVrYkdWMGIyNGdhR1ZwWjJoMGN5Qm9hV2RvSUhOamFHOXZiQ0JwYm1ScFlXNWhFQUI5b3BjNlB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSAjMSByYW5rZWQgaGlnaCBzY2hvb2wgaW4gSW5kaWFuYT8iLCJsayI6IkdpeDNhR0YwSUdseklIUm9aU0FqTVNCeVlXNXJaV1FnYUdsbmFDQnpZMmh2YjJ3Z2FXNGdhVzVrYVdGdVlRIiwiYnMiOiJjNDJRdXc3Q01BeEZ4WnFKdVpNbFVDZWVfWUV5d2xhSmdSR1pKT0NJTmtaSktzVGZFeDZCZ29URWZ1ODUxeFpiTWQ0UUJqQWVBbWtZek1HaFBXb0ZaQTRFWGhKekRjYkN5aXFERnN0aWtvM09feFRNb3lBcWtTZEJwYTJxZFdBN1NqallZOE90aHoyN3NzaXpZU0tmVWpKaE9rRWh4WFRKWjJqUVhzQ0hWbWtiUEtEVEVMc3ZCU3h2YzliM09XVXh5eWIwcV9KMmRTNFFUaXcyeE9sSzBxaWltOE1PNnhva282UXZtNDdkeVB5d3hsZDE0TTlFOTAyZnhIN3ZDZyIsImlkIjoiZmNfcVJDamFxZVBET0tBNU9VUDhJTHkyUWNfNSJ9"
+  },
+  {
+   "question": "What is Pendleton, Indiana famous for?",
+   "type": "ai_overview",
+   "page_token": "-GX9GHicHdBdbpswAABg9TJ9bAxU2RIpqkZi06Da1I5_CC8T2EkcMD8tNEDeepedaqeZtO8I3_cfd22qvw83Owxdv14sxnF8urTtxZ2edFsv8n5u9ELnzhW5rtbLH0vv5aw38Gsfbj_2IRVdJ3cMHErUJ9FlKORqLKIplHJ1o0BaHMgsa0LIvJ8gUz0oBAMMSIIb-5UGZDYqflO16zPEDri2E0vj3EQkMY45pojFpXyXoh2ZQkvtOc79yRXKmw6-3eHIGwtfikzYu1QGJRxFZBc2XP7ydUXuSRoGxsFnrNqBR_s5h6vZpNSnNcEZstKAaXt0Zot5GBfAPWOIXhlCV-GjAFoziYp8HFPkBGTvBwA97kmaQIdPPGbHqb1Swe66dLUA_ZipuDq9kvObGnodrWbthYqVcqalxEZ2nNLHs75tgsf_n5vf53pYd5_t5R-vwoKy",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=-GX9GHicHdBdbpswAABg9TJ9bAxU2RIpqkZi06Da1I5_CC8T2EkcMD8tNEDeepedaqeZtO8I3_cfd22qvw83Owxdv14sxnF8urTtxZ2edFsv8n5u9ELnzhW5rtbLH0vv5aw38Gsfbj_2IRVdJ3cMHErUJ9FlKORqLKIplHJ1o0BaHMgsa0LIvJ8gUz0oBAMMSIIb-5UGZDYqflO16zPEDri2E0vj3EQkMY45pojFpXyXoh2ZQkvtOc79yRXKmw6-3eHIGwtfikzYu1QGJRxFZBc2XP7ydUXuSRoGxsFnrNqBR_s5h6vZpNSnNcEZstKAaXt0Zot5GBfAPWOIXhlCV-GjAFoziYp8HFPkBGTvBwA97kmaQIdPPGbHqb1Swe66dLUA_ZipuDq9kvObGnodrWbthYqVcqalxEZ2nNLHs75tgsf_n5vf53pYd5_t5R-vwoKy",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFN6Y3llVnB3UzFoMFJWTlBiVTAwY0V0eGVXTTVjbnBFVldkMWQyMTFRMFpMUzFnMVUwUXhMVEpGTkVSRk1uVk9XWHA1ZDNOZlJGbDNjREk0ZW1Nek1DMUtZVXMxUlhSVGQwdGxaM3BEWDJwQlpHaE5jVkZZWjFSeWR4SVhjVkpEYW1GeFpWQkVUMHRCTlU5VlVEaEpUSGt5VVdNYUlrRkVjM0k1WmxSbU5rOURTalpaWWxKdlRHRmtiVUpSZEZORU5WVjFUbDlGWlVFIiwiZmN2IjoiMyIsImVpIjoicVJDamFxZVBET0tBNU9VUDhJTHkyUWMiLCJxYyI6IkNpVndaVzVrYkdWMGIyNGdhR1ZwWjJoMGN5Qm9hV2RvSUhOamFHOXZiQ0JwYm1ScFlXNWhFQUI5b3BjNlB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIFBlbmRsZXRvbiwgSW5kaWFuYSBmYW1vdXMgZm9yPyIsImxrIjoiR2lSM2FHRjBJR2x6SUhCbGJtUnNaWFJ2YmlCcGJtUnBZVzVoSUdaaGJXOTFjeUJtYjNJIiwiYnMiOiJjNDJRdXc3Q01BeEZ4WnFKdVpNbFVDZWVfWUV5d2xhSmdSR1pKT0NJTmtaSktzVGZFeDZCZ29URWZ1ODUxeFpiTWQ0UUJqQWVBbWtZek1HaFBXb0ZaQTRFWGhKekRjYkN5aXFERnN0aWtvM09feFRNb3lBcWtTZEJwYTJxZFdBN1NqallZOE90aHoyN3NzaXpZU0tmVWpKaE9rRWh4WFRKWjJqUVhzQ0hWbWtiUEtEVEVMc3ZCU3h2YzliM09XVXh5eWIwcV9KMmRTNFFUaXcyeE9sSzBxaWltOE1PNnhva282UXZtNDdkeVB5d3hsZDE0TTlFOTAyZnhIN3ZDZyIsImlkIjoiZmNfcVJDamFxZVBET0tBNU9VUDhJTHkyUWNfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFN6Y3llVnB3UzFoMFJWTlBiVTAwY0V0eGVXTTVjbnBFVldkMWQyMTFRMFpMUzFnMVUwUXhMVEpGTkVSRk1uVk9XWHA1ZDNOZlJGbDNjREk0ZW1Nek1DMUtZVXMxUlhSVGQwdGxaM3BEWDJwQlpHaE5jVkZZWjFSeWR4SVhjVkpEYW1GeFpWQkVUMHRCTlU5VlVEaEpUSGt5VVdNYUlrRkVjM0k1WmxSbU5rOURTalpaWWxKdlRHRmtiVUpSZEZORU5WVjFUbDlGWlVFIiwiZmN2IjoiMyIsImVpIjoicVJDamFxZVBET0tBNU9VUDhJTHkyUWMiLCJxYyI6IkNpVndaVzVrYkdWMGIyNGdhR1ZwWjJoMGN5Qm9hV2RvSUhOamFHOXZiQ0JwYm1ScFlXNWhFQUI5b3BjNlB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIFBlbmRsZXRvbiwgSW5kaWFuYSBmYW1vdXMgZm9yPyIsImxrIjoiR2lSM2FHRjBJR2x6SUhCbGJtUnNaWFJ2YmlCcGJtUnBZVzVoSUdaaGJXOTFjeUJtYjNJIiwiYnMiOiJjNDJRdXc3Q01BeEZ4WnFKdVpNbFVDZWVfWUV5d2xhSmdSR1pKT0NJTmtaSktzVGZFeDZCZ29URWZ1ODUxeFpiTWQ0UUJqQWVBbWtZek1HaFBXb0ZaQTRFWGhKekRjYkN5aXFERnN0aWtvM09feFRNb3lBcWtTZEJwYTJxZFdBN1NqallZOE90aHoyN3NzaXpZU0tmVWpKaE9rRWh4WFRKWjJqUVhzQ0hWbWtiUEtEVEVMc3ZCU3h2YzliM09XVXh5eWIwcV9KMmRTNFFUaXcyeE9sSzBxaWltOE1PNnhva282UXZtNDdkeVB5d3hsZDE0TTlFOTAyZnhIN3ZDZyIsImlkIjoiZmNfcVJDamFxZVBET0tBNU9VUDhJTHkyUWNfNSJ9"
+  },
+  {
+   "question": "How many students are at Pendleton High School?",
+   "type": "ai_overview",
+   "page_token": "mBiltnicHdBfToMwAIDxeBkfHX-2mS1ZTCYFt4TOlrZAX0xtYWxtoToijDev4Bk8lafR-P4lv-T7_DanVv_cfDV97y7r2WwYhrtj1x1NdSc7OxOXaytnUhjzKqReL--X_kMtN-BDbh_f5RZR51iEvSzccxIqi84MEMDCFBgiNE5VEnukcPRVD3Olx0k84SWk3BfA82HQkMx3gHjshIg6wSdek-jowQLSdGoEDl1IwiZhQdMqwEtl8QLaVS7zfcBbuhCF9lLDa5XwXckgOlDD_jxNggUSyfxaGTZkxW48RDDLk2anaN9Cb9XldlySMwzKHM7_GgMt1KlWO0HTkJxVQRPVp3GsM4sfkWYXUWy7PEIjmaSf6UUMGjVSDd_KIjYU4OfMAz7xGToAk1Zkj8uxOyGKJ3k2lk5sWyX8WUawzs0qEcwdKsoiZVZ1NjVlqblTw20tPzbh7f_rzUtt-7V7746_bkWNDw",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=mBiltnicHdBfToMwAIDxeBkfHX-2mS1ZTCYFt4TOlrZAX0xtYWxtoToijDev4Bk8lafR-P4lv-T7_DanVv_cfDV97y7r2WwYhrtj1x1NdSc7OxOXaytnUhjzKqReL--X_kMtN-BDbh_f5RZR51iEvSzccxIqi84MEMDCFBgiNE5VEnukcPRVD3Olx0k84SWk3BfA82HQkMx3gHjshIg6wSdek-jowQLSdGoEDl1IwiZhQdMqwEtl8QLaVS7zfcBbuhCF9lLDa5XwXckgOlDD_jxNggUSyfxaGTZkxW48RDDLk2anaN9Cb9XldlySMwzKHM7_GgMt1KlWO0HTkJxVQRPVp3GsM4sfkWYXUWy7PEIjmaSf6UUMGjVSDd_KIjYU4OfMAz7xGToAk1Zkj8uxOyGKJ3k2lk5sWyX8WUawzs0qEcwdKsoiZVZ1NjVlqblTw20tPzbh7f_rzUtt-7V7746_bkWNDw",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFN6Y3llVnB3UzFoMFJWTlBiVTAwY0V0eGVXTTVjbnBFVldkMWQyMTFRMFpMUzFnMVUwUXhMVEpGTkVSRk1uVk9XWHA1ZDNOZlJGbDNjREk0ZW1Nek1DMUtZVXMxUlhSVGQwdGxaM3BEWDJwQlpHaE5jVkZZWjFSeWR4SVhjVkpEYW1GeFpWQkVUMHRCTlU5VlVEaEpUSGt5VVdNYUlrRkVjM0k1WmxSbU5rOURTalpaWWxKdlRHRmtiVUpSZEZORU5WVjFUbDlGWlVFIiwiZmN2IjoiMyIsImVpIjoicVJDamFxZVBET0tBNU9VUDhJTHkyUWMiLCJxYyI6IkNpVndaVzVrYkdWMGIyNGdhR1ZwWjJoMGN5Qm9hV2RvSUhOamFHOXZiQ0JwYm1ScFlXNWhFQUI5b3BjNlB3IiwicXVlc3Rpb24iOiJIb3cgbWFueSBzdHVkZW50cyBhcmUgYXQgUGVuZGxldG9uIEhpZ2ggU2Nob29sPyIsImxrIjoiR2k1b2IzY2diV0Z1ZVNCemRIVmtaVzUwY3lCaGNtVWdZWFFnY0dWdVpHeGxkRzl1SUdocFoyZ2djMk5vYjI5cyIsImJzIjoiYzQyUXV3N0NNQXhGeFpxSnVaTWxVQ2VlX1lFeXdsYUpnUkdaSk9DSU5rWkpLc1RmRXg2QmdvVEVmdTg1MXhaYk1kNFFCakFlQW1rWXpNR2hQV29GWkE0RVhoSnpEY2JDeWlxREZzdGlrbzNPX3hUTW95QXFrU2RCcGEycWRXQTdTampZWThPdGh6Mjdzc2l6WVNLZlVqSmhPa0VoeFhUSloyalFYc0NIVm1rYlBLRFRFTHN2QlN4dmM5YjNPV1V4eXliMHFfSjJkUzRRVGl3MnhPbEswcWlpbThNTzZ4b2tvNlF2bTQ3ZHlQeXd4bGQxNE05RTkwMmZ4SDd2Q2ciLCJpZCI6ImZjX3FSQ2phcWVQRE9LQTVPVVA4SUx5MlFjXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFN6Y3llVnB3UzFoMFJWTlBiVTAwY0V0eGVXTTVjbnBFVldkMWQyMTFRMFpMUzFnMVUwUXhMVEpGTkVSRk1uVk9XWHA1ZDNOZlJGbDNjREk0ZW1Nek1DMUtZVXMxUlhSVGQwdGxaM3BEWDJwQlpHaE5jVkZZWjFSeWR4SVhjVkpEYW1GeFpWQkVUMHRCTlU5VlVEaEpUSGt5VVdNYUlrRkVjM0k1WmxSbU5rOURTalpaWWxKdlRHRmtiVUpSZEZORU5WVjFUbDlGWlVFIiwiZmN2IjoiMyIsImVpIjoicVJDamFxZVBET0tBNU9VUDhJTHkyUWMiLCJxYyI6IkNpVndaVzVrYkdWMGIyNGdhR1ZwWjJoMGN5Qm9hV2RvSUhOamFHOXZiQ0JwYm1ScFlXNWhFQUI5b3BjNlB3IiwicXVlc3Rpb24iOiJIb3cgbWFueSBzdHVkZW50cyBhcmUgYXQgUGVuZGxldG9uIEhpZ2ggU2Nob29sPyIsImxrIjoiR2k1b2IzY2diV0Z1ZVNCemRIVmtaVzUwY3lCaGNtVWdZWFFnY0dWdVpHeGxkRzl1SUdocFoyZ2djMk5vYjI5cyIsImJzIjoiYzQyUXV3N0NNQXhGeFpxSnVaTWxVQ2VlX1lFeXdsYUpnUkdaSk9DSU5rWkpLc1RmRXg2QmdvVEVmdTg1MXhaYk1kNFFCakFlQW1rWXpNR2hQV29GWkE0RVhoSnpEY2JDeWlxREZzdGlrbzNPX3hUTW95QXFrU2RCcGEycWRXQTdTampZWThPdGh6Mjdzc2l6WVNLZlVqSmhPa0VoeFhUSloyalFYc0NIVm1rYlBLRFRFTHN2QlN4dmM5YjNPV1V4eXliMHFfSjJkUzRRVGl3MnhPbEswcWlpbThNTzZ4b2tvNlF2bTQ3ZHlQeXd4bGQxNE05RTkwMmZ4SDd2Q2ciLCJpZCI6ImZjX3FSQ2phcWVQRE9LQTVPVVA4SUx5MlFjXzUifQ%3D%3D"
+  },
+  {
+   "question": "Who is the head football coach at Pendleton Heights High School?",
+   "type": "ai_overview",
+   "page_token": "Ah1NqHicHZHbbpswAEC1n-ljg0GkSqRoKoldiobXGGywXypjk1BsLh0sXN72L3veB-1rFu0Ljs45v37bj9b8_fKnGsd-2G820zQ9XrvuastH1TUbOSyt2ihpbSGV2W-ftuDrRR1gNx2PwxScad-zE3GStvfLMNoWJ-rnrh9lJ74kQCMObFyywBdmcBR6nlT-DDKEaxaSloTGK-vgJhs2Z8ZfYthHZwcDzaJj1tpAenyVrnW42dX6hKF0xwrnVS8y0UomWlwHMqGoy8K-KxrbFShqMGI_2Uu8Uk9D2ui3c80XDIKtzOFMc5FxgyxN-cjBDseuZolVowCWMHQdY0huEvqfIhUpy0ZGQ-smzviae8Qt6VyRlZEY7XrC6CxX7fD17ljrWrbM5IBwAYwHKz1Tgz95fudA8pY4EKSAnb_De4c0InzuPs6UrKq2DXWGsQyDhbURKhJA8Qv5VoRRytjrRJg-isxiMT1c1O3gPfz_cHi_NOO-_9Fd_wGqw5dg",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Ah1NqHicHZHbbpswAEC1n-ljg0GkSqRoKoldiobXGGywXypjk1BsLh0sXN72L3veB-1rFu0Ljs45v37bj9b8_fKnGsd-2G820zQ9XrvuastH1TUbOSyt2ihpbSGV2W-ftuDrRR1gNx2PwxScad-zE3GStvfLMNoWJ-rnrh9lJ74kQCMObFyywBdmcBR6nlT-DDKEaxaSloTGK-vgJhs2Z8ZfYthHZwcDzaJj1tpAenyVrnW42dX6hKF0xwrnVS8y0UomWlwHMqGoy8K-KxrbFShqMGI_2Uu8Uk9D2ui3c80XDIKtzOFMc5FxgyxN-cjBDseuZolVowCWMHQdY0huEvqfIhUpy0ZGQ-smzviae8Qt6VyRlZEY7XrC6CxX7fD17ljrWrbM5IBwAYwHKz1Tgz95fudA8pY4EKSAnb_De4c0InzuPs6UrKq2DXWGsQyDhbURKhJA8Qv5VoRRytjrRJg-isxiMT1c1O3gPfz_cHi_NOO-_9Fd_wGqw5dg",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFN6Y3llVnB3UzFoMFJWTlBiVTAwY0V0eGVXTTVjbnBFVldkMWQyMTFRMFpMUzFnMVUwUXhMVEpGTkVSRk1uVk9XWHA1ZDNOZlJGbDNjREk0ZW1Nek1DMUtZVXMxUlhSVGQwdGxaM3BEWDJwQlpHaE5jVkZZWjFSeWR4SVhjVkpEYW1GeFpWQkVUMHRCTlU5VlVEaEpUSGt5VVdNYUlrRkVjM0k1WmxSbU5rOURTalpaWWxKdlRHRmtiVUpSZEZORU5WVjFUbDlGWlVFIiwiZmN2IjoiMyIsImVpIjoicVJDamFxZVBET0tBNU9VUDhJTHkyUWMiLCJxYyI6IkNpVndaVzVrYkdWMGIyNGdhR1ZwWjJoMGN5Qm9hV2RvSUhOamFHOXZiQ0JwYm1ScFlXNWhFQUI5b3BjNlB3IiwicXVlc3Rpb24iOiJXaG8gaXMgdGhlIGhlYWQgZm9vdGJhbGwgY29hY2ggYXQgUGVuZGxldG9uIEhlaWdodHMgSGlnaCBTY2hvb2w/IiwibGsiOiJHaXh3Wlc1a2JHVjBiMjRnYUdWcFoyaDBjeUJvYVdkb0lITmphRzl2YkNCbWIyOTBZbUZzYkNCamIyRmphQSIsImJzIjoiYzQyUXV3N0NNQXhGeFpxSnVaTWxVQ2VlX1lFeXdsYUpnUkdaSk9DSU5rWkpLc1RmRXg2QmdvVEVmdTg1MXhaYk1kNFFCakFlQW1rWXpNR2hQV29GWkE0RVhoSnpEY2JDeWlxREZzdGlrbzNPX3hUTW95QXFrU2RCcGEycWRXQTdTampZWThPdGh6Mjdzc2l6WVNLZlVqSmhPa0VoeFhUSloyalFYc0NIVm1rYlBLRFRFTHN2QlN4dmM5YjNPV1V4eXliMHFfSjJkUzRRVGl3MnhPbEswcWlpbThNTzZ4b2tvNlF2bTQ3ZHlQeXd4bGQxNE05RTkwMmZ4SDd2Q2ciLCJpZCI6ImZjX3FSQ2phcWVQRE9LQTVPVVA4SUx5MlFjXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFN6Y3llVnB3UzFoMFJWTlBiVTAwY0V0eGVXTTVjbnBFVldkMWQyMTFRMFpMUzFnMVUwUXhMVEpGTkVSRk1uVk9XWHA1ZDNOZlJGbDNjREk0ZW1Nek1DMUtZVXMxUlhSVGQwdGxaM3BEWDJwQlpHaE5jVkZZWjFSeWR4SVhjVkpEYW1GeFpWQkVUMHRCTlU5VlVEaEpUSGt5VVdNYUlrRkVjM0k1WmxSbU5rOURTalpaWWxKdlRHRmtiVUpSZEZORU5WVjFUbDlGWlVFIiwiZmN2IjoiMyIsImVpIjoicVJDamFxZVBET0tBNU9VUDhJTHkyUWMiLCJxYyI6IkNpVndaVzVrYkdWMGIyNGdhR1ZwWjJoMGN5Qm9hV2RvSUhOamFHOXZiQ0JwYm1ScFlXNWhFQUI5b3BjNlB3IiwicXVlc3Rpb24iOiJXaG8gaXMgdGhlIGhlYWQgZm9vdGJhbGwgY29hY2ggYXQgUGVuZGxldG9uIEhlaWdodHMgSGlnaCBTY2hvb2w%2FIiwibGsiOiJHaXh3Wlc1a2JHVjBiMjRnYUdWcFoyaDBjeUJvYVdkb0lITmphRzl2YkNCbWIyOTBZbUZzYkNCamIyRmphQSIsImJzIjoiYzQyUXV3N0NNQXhGeFpxSnVaTWxVQ2VlX1lFeXdsYUpnUkdaSk9DSU5rWkpLc1RmRXg2QmdvVEVmdTg1MXhaYk1kNFFCakFlQW1rWXpNR2hQV29GWkE0RVhoSnpEY2JDeWlxREZzdGlrbzNPX3hUTW95QXFrU2RCcGEycWRXQTdTampZWThPdGh6Mjdzc2l6WVNLZlVqSmhPa0VoeFhUSloyalFYc0NIVm1rYlBLRFRFTHN2QlN4dmM5YjNPV1V4eXliMHFfSjJkUzRRVGl3MnhPbEswcWlpbThNTzZ4b2tvNlF2bTQ3ZHlQeXd4bGQxNE05RTkwMmZ4SDd2Q2ciLCJpZCI6ImZjX3FSQ2phcWVQRE9LQTVPVVA4SUx5MlFjXzUifQ%3D%3D"
+  }
+ ],
+ "ai_overview": {
+  "text_blocks": [
+   {
+    "type": "paragraph",
+    "snippet": "Pendleton Heights High School is a public high school located at 1 Arabian Drive in Pendleton, Indiana.",
+    "snippet_highlighted_words": [
+     "1 Arabian Drive in Pendleton, Indiana"
+    ]
+   },
+   {
+    "type": "heading",
+    "snippet": "General Information"
+   },
+   {
+    "type": "list",
+    "list": [
+     {
+      "snippet": "District: South Madison Community School Corporation"
+     },
+     {
+      "snippet": "Grades: 9 through 12"
+     },
+     {
+      "snippet": "Enrollment: About 1,400 to 1,500 students"
+     },
+     {
+      "snippet": "Mascout/Team Name: Arabians"
+     },
+     {
+      "snippet": "Phone Number: (765) 778-2161"
+     }
+    ]
+   },
+   {
+    "type": "heading",
+    "snippet": "Academics & Activities"
+   },
+   {
+    "type": "list",
+    "list": [
+     {
+      "snippet": "Offers Advanced Placement (AP) coursework and Project Lead The Way curriculum."
+     },
+     {
+      "snippet": "Competes in regional athletics as part of the Indiana High School Athletic Association (IHSAA)."
+     }
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "If you need specific information like the bell schedule, staff directory, or athletic calendar, let me know how I can help!"
+   }
+  ],
+  "references": [
+   {
+    "link": "https://en.wikipedia.org/wiki/Pendleton_Heights_High_School",
+    "source": "en.wikipedia.org",
+    "index": 0
+   },
+   {
+    "link": "https://indianagps.doe.in.gov/summary/school/4111",
+    "source": "indianagps.doe.in.gov",
+    "index": 1
+   },
+   {
+    "link": "https://phhs.smcsc.com/",
+    "source": "phhs.smcsc.com",
+    "index": 2
+   },
+   {
+    "link": "https://www.donorschoose.org/schools/indiana/south-madison-community-school-district/pendleton-heights-high-school/19725",
+    "source": "donorschoose.org",
+    "index": 3
+   },
+   {
+    "link": "https://www.greatschools.org/indiana/pendleton/1603-Pendleton-Heights-High-School/",
+    "source": "greatschools.org",
+    "index": 4
+   },
+   {
+    "link": "https://www.usnews.com/education/best-high-schools/indiana/districts/south-madison-com-sch-corp/pendleton-heights-high-school-7399",
+    "source": "usnews.com",
+    "index": 5
+   },
+   {
+    "link": "https://www.maxpreps.com/in/pendleton/pendleton-heights-arabians/football/",
+    "source": "maxpreps.com",
+    "index": 6
+   },
+   {
+    "title": "Pendleton Heights High School - Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Pendleton_Heights_High_School",
+    "snippet": "Pendleton Heights High School. Article \u00b7 Talk. Language; Download PDF; Watch \u00b7 Edit. Pendleton Heights High School, also known as \\\"PHHS,\\\" is a public high schoo...",
+    "source": "Wikipedia",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQpCGPH7fdK2TXbOppIK-CDPkuiLn2v86YfE53iRysG95Lgbh9DmU5n3GnU2c5BS5bzhgPZOhnB7rvPiwTCrAG95Os9Pg2ZvCoyGPPZ",
+    "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 7
+   },
+   {
+    "title": "Pendleton Heights High School",
+    "link": "https://indianagps.doe.in.gov/summary/school/4111",
+    "snippet": "Pendleton Heights High School. Add to Favorites. One Arabian Dr, Pendleton, IN 46064; \u2022(765) 778-2161; \u2022 Website; \u2022 School Performance Report; \u2022 View on Map; \u2022",
+    "source": "Indiana Graduates Prepared to Succeed (GPS) (.gov)",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREFSVUU_43lAgnZ9Fszaoz24jJWHW648duRVYwKMa4caWTP9cSKFbf8V3tQZEG0GIjbOjRzjHx_O0DxkLtq3X1K96p",
+    "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianagps.doe.in.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 8
+   },
+   {
+    "title": "Pendleton Heights High School: Home",
+    "link": "https://phhs.smcsc.com/",
+    "snippet": "Welcome to Pendleton Heights High School! Home of the Arabians \u00b7 We are thrilled to welcome you to our vibrant and dynamic community of learners and educators.",
+    "source": "Pendleton Heights High School",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS3YRMBoFxYgRABZDC1chZs29soTKlP8ofSGcs1capEBNphyXAfBLPMn26ShSTKSd6u-w-rfOogOtjt9ajhP5qEQEp-BckxkwpowZ2M",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://phhs.smcsc.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 9
+   },
+   {
+    "title": "Pendleton Heights High School - Indiana - DonorsChoose",
+    "link": "https://www.donorschoose.org/schools/indiana/south-madison-community-school-district/pendleton-heights-high-school/19725",
+    "snippet": "Pendleton Heights High School is a suburban public school in Pendleton, Indiana that is part of South Madison Community School District. It serves 1,379 student...",
+    "source": "DonorsChoose",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYYlAi4rb1sF7MTAmvuL2mQlRtnrN40Tz4vCMbcEpCspmSAIergc29RsKmwn4o9SJUCdiBl0jCVGXjgLQ0AeF5JhDK",
+    "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.donorschoose.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 10
+   },
+   {
+    "title": "Pendleton Heights High School - Indiana - GreatSchools",
+    "link": "https://www.greatschools.org/indiana/pendleton/1603-Pendleton-Heights-High-School/",
+    "snippet": "Overview. Pendleton Heights High School is a public school in Pendleton, IN, offering AP courses, 2 sports, and Project Lead The Way curriculum. It is the only",
+    "source": "GreatSchools",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.greatschools.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 11
+   },
+   {
+    "title": "Pendleton Heights High School - Indiana - USNews.com",
+    "link": "https://www.usnews.com/education/best-high-schools/indiana/districts/south-madison-com-sch-corp/pendleton-heights-high-school-7399",
+    "snippet": "Overview of Pendleton Heights High School. Pendleton Heights High School is ranked 77th within Indiana. Students have the opportunity to take Advanced Placement...",
+    "source": "U.S. News & World Report",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.usnews.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 12
+   },
+   {
+    "title": "Pendleton Heights High School (IN) Football - MaxPreps",
+    "link": "https://www.maxpreps.com/in/pendleton/pendleton-heights-arabians/football/",
+    "snippet": "Game Results. Friday, Aug 21, 2026. On Friday, Aug 21, 2026, the Pendleton Heights Varsity Boys Football team won their game against Lebanon High School by a sc...",
+    "source": "MaxPreps",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3-e6umLxAn1dgYlehyc5wzWoKY-rTCRnWnuWkA7CyN1yAwsfhvgncYSKuwxnqBa3BTKnSXMv5WyylPmIrBKLXy6khTwDETiCeuSTp",
+    "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.maxpreps.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 13
+   }
+  ]
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Pendleton Heights High School: Home",
+   "link": "https://phhs.smcsc.com/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTwHrOzAVc-fAjJCN4Z-80DNaZr1nzYORoRzgGkttFdhPM1K2QHvT8SJwBK1YG5dxMqXh4Gmk7Tb_Cvy-tteVhewYVdomIlnuZm-N-pAqdm4&ved=2ahUKEwjnh-fn6uSWAxViALkGHXCBPHsQFnoECCYQAQ&uoh=1",
+   "displayed_link": "https://phhs.smcsc.com",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAh1BMVEUuUi0ANgD___8AMwDl6OX19vXS2NLv8e7r7uvY3djDysLe4t26w7nK0cnU2tTo6-iuuK1rf2p8jXuEk4Olr6SosqdFYkKToZFCXz4ALQA4WDSYppeKmYlieWAAOwAAOAAAAAAOQAEZRRIAKgBTbFC8xLsAEgBddFoAHwB3inVNaEocRxUiSyEPZECsAAABP0lEQVR4AXzSVYLCMBRAUXjxRql7JtNR2P_6RnBI4H5VTjVvtVo_7e88PA1dA0woI1wQ8giIDKgQUulHQAqKjbXcRiAqAm6T7yv-yg9t3DUo2X6PVS4TcIhXN2D_WGdw5uqGHj4pBg2hALrt-iENrDJEjniaZ98kgSZGyZfNNIf5VaXApLghbplDCH5iMbBvDpSjS9inY2A8vFPF-Uf4Cw0x0Ct4tw2AQJ0PPo_B-2f1pbADpnTufRED3X-_bgfQhgyjXyeAqfv3lYBGOhh951KfiboWxq9PDTlqTQK8h3mmCq0_swXlybUoukXNIey038ok4HmRr0PoqklDEoByW98tde4gBuwwk0xoKiWNB2Y_cvvSI5fuHhDCCaHYUkwx2ASQ1OlMCqENlNokAOOEEYGt4ZQB-x0JGUcHf_bXAQBeIh8uPSu_8AAAAABJRU5ErkJggg.png",
+   "snippet": "Welcome to Pendleton Heights High School! \u00b7 We are thrilled to welcome you to our vibrant and dynamic community of learners and educators. \u00b7 As we begin this ...",
+   "snippet_highlighted_words": [
+    "Pendleton Heights High School"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "Staff Directory",
+      "link": "https://phhs.smcsc.com/our-school/staff-directory",
+      "snippet": "Staff Directory - Pendleton Heights High School."
+     },
+     {
+      "title": "Contact Information",
+      "link": "https://phhs.smcsc.com/our-school/contact-information",
+      "snippet": "Pendleton Heights High School One Arabian Drive Pendleton ..."
+     },
+     {
+      "title": "Our School",
+      "link": "https://phhs.smcsc.com/our-school",
+      "snippet": "Our School - Pendleton Heights High School."
+     },
+     {
+      "title": "Student Life",
+      "link": "https://phhs.smcsc.com/student-life",
+      "snippet": "Student Life - Pendleton Heights High School."
+     },
+     {
+      "title": "Parent Resources",
+      "link": "https://phhs.smcsc.com/parent-resources/parent-resources",
+      "snippet": "Parent Resources - Pendleton Heights High School."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Welcome to Pendleton Heights High School! \u00b7 We are thrilled to welcome you to our vibrant and dynamic community of learners and educators. \u00b7 As we begin this ...",
+     "source_info_link": "https://phhs.smcsc.com/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAh1BMVEUuUi0ANgD___8AMwDl6OX19vXS2NLv8e7r7uvY3djDysLe4t26w7nK0cnU2tTo6-iuuK1rf2p8jXuEk4Olr6SosqdFYkKToZFCXz4ALQA4WDSYppeKmYlieWAAOwAAOAAAAAAOQAEZRRIAKgBTbFC8xLsAEgBddFoAHwB3inVNaEocRxUiSyEPZECsAAABP0lEQVR4AXzSVYLCMBRAUXjxRql7JtNR2P_6RnBI4H5VTjVvtVo_7e88PA1dA0woI1wQ8giIDKgQUulHQAqKjbXcRiAqAm6T7yv-yg9t3DUo2X6PVS4TcIhXN2D_WGdw5uqGHj4pBg2hALrt-iENrDJEjniaZ98kgSZGyZfNNIf5VaXApLghbplDCH5iMbBvDpSjS9inY2A8vFPF-Uf4Cw0x0Ct4tw2AQJ0PPo_B-2f1pbADpnTufRED3X-_bgfQhgyjXyeAqfv3lYBGOhh951KfiboWxq9PDTlqTQK8h3mmCq0_swXlybUoukXNIey038ok4HmRr0PoqklDEoByW98tde4gBuwwk0xoKiWNB2Y_cvvSI5fuHhDCCaHYUkwx2ASQ1OlMCqENlNokAOOEEYGt4ZQB-x0JGUcHf_bXAQBeIh8uPSu_8AAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESTwHrOzAVc-fAjJCN4Z-80DNaZr1nzYORoRzgGkttFdhPM1K2QHvT8SJwBK1YG5dxMqXh4Gmk7Tb_Cvy-tteVhewYVdomIlnuZm-N-pAqdm4&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESTwHrOzAVc-fAjJCN4Z-80DNaZr1nzYORoRzgGkttFdhPM1K2QHvT8SJwBK1YG5dxMqXh4Gmk7Tb_Cvy-tteVhewYVdomIlnuZm-N-pAqdm4",
+   "source": "Pendleton Heights High School"
+  },
+  {
+   "position": 2,
+   "title": "Pendleton Heights High School",
+   "link": "https://en.wikipedia.org/wiki/Pendleton_Heights_High_School",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHrOzAVH7V-O5vhGTTPvNaBd2_qzFikD4BtLXR-L5VQV6dWXwu8FZ9Oe0KAaopYJ6KTcoya1BW4m5UgdqRhhTr7h8FULbhyl_eCM4Dl9mM7mdtvngo_wO1DYDNteWue9VX4arRGb8s8D9dIitsSPEtefAw&ved=2ahUKEwjnh-fn6uSWAxViALkGHXCBPHsQFnoECBgQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Pendleton_Heights_Hi...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+   "snippet": "Pendleton Heights High School, also known as \"PHHS,\" is a public high school in Pendleton, Indiana. It is part of the South Madison Community School ...",
+   "snippet_highlighted_words": [
+    "Pendleton Heights High School",
+    "Indiana"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Pendleton Heights High School, also known as \"PHHS,\" is a public high school in Pendleton, Indiana. It is part of the South Madison Community School ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Pendleton_Heights_High_School",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEScwHrOzAVH7V-O5vhGTTPvNaBd2_qzFikD4BtLXR-L5VQV6dWXwu8FZ9Oe0KAaopYJ6KTcoya1BW4m5UgdqRhhTr7h8FULbhyl_eCM4Dl9mM7mdtvngo_wO1DYDNteWue9VX4arRGb8s8D9dIitsSPEtefAw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEScwHrOzAVH7V-O5vhGTTPvNaBd2_qzFikD4BtLXR-L5VQV6dWXwu8FZ9Oe0KAaopYJ6KTcoya1BW4m5UgdqRhhTr7h8FULbhyl_eCM4Dl9mM7mdtvngo_wO1DYDNteWue9VX4arRGb8s8D9dIitsSPEtefAw",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Pendleton_Heights_High_School#:~:text=Pendleton%20Heights%20High%20School%2C%20also,enrollment%20of%20around%201%2C400%20students."
+  },
+  {
+   "position": 3,
+   "title": "Pendleton Heights High School - Indiana",
+   "link": "https://www.usnews.com/education/best-high-schools/indiana/districts/south-madison-com-sch-corp/pendleton-heights-high-school-7399",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESuwEB6zswFc7rhXs0zLtajkDbwWcJvYYOl4yoHDEsYAw1FD0-hws6CFMePNTCTiTJpDF8-SpXyyprVlSCR7_oz6_GzDcnWeu2rBiXxOwXZfmw7fiEg9rSZTy8mFoLMCLryRecO64Vh4y3ZjlVgB_eIfUthHeLu8nqc6k-GHwrVlTQDV6JBMep3FsDk-MKH487zHBFZ9EftH4E6ylces63pq7cmIwIZ8onk5cKLBTimTFuazTTLuXh-tPWy3h3&ved=2ahUKEwjnh-fn6uSWAxViALkGHXCBPHsQFnoECBkQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a south-madison-com-sch-corp",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png",
+   "snippet": "Pendleton Heights High School is ranked 77th within Indiana. Students have the opportunity to take Advanced Placement\u00ae coursework and exams.",
+   "snippet_highlighted_words": [
+    "Pendleton Heights High School",
+    "Indiana"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Pendleton Heights High School is ranked 77th within Indiana. Students have the opportunity to take Advanced Placement\u00ae coursework and exams.",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/indiana/districts/south-madison-com-sch-corp/pendleton-heights-high-school-7399",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESuwEB6zswFc7rhXs0zLtajkDbwWcJvYYOl4yoHDEsYAw1FD0-hws6CFMePNTCTiTJpDF8-SpXyyprVlSCR7_oz6_GzDcnWeu2rBiXxOwXZfmw7fiEg9rSZTy8mFoLMCLryRecO64Vh4y3ZjlVgB_eIfUthHeLu8nqc6k-GHwrVlTQDV6JBMep3FsDk-MKH487zHBFZ9EftH4E6ylces63pq7cmIwIZ8onk5cKLBTimTFuazTTLuXh-tPWy3h3&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESuwEB6zswFc7rhXs0zLtajkDbwWcJvYYOl4yoHDEsYAw1FD0-hws6CFMePNTCTiTJpDF8-SpXyyprVlSCR7_oz6_GzDcnWeu2rBiXxOwXZfmw7fiEg9rSZTy8mFoLMCLryRecO64Vh4y3ZjlVgB_eIfUthHeLu8nqc6k-GHwrVlTQDV6JBMep3FsDk-MKH487zHBFZ9EftH4E6ylces63pq7cmIwIZ8onk5cKLBTimTFuazTTLuXh-tPWy3h3",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/indiana/districts/south-madison-com-sch-corp/pendleton-heights-high-school-7399#:~:text=Pendleton%20Heights%20High%20School%20is,Advanced%20Placement%C2%AE%20coursework%20and%20exams."
+  },
+  {
+   "position": 4,
+   "title": "Pendleton Heights High School - Indiana",
+   "link": "https://www.greatschools.org/indiana/pendleton/1603-Pendleton-Heights-High-School/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESigEB6zswFZK_7f_FcPt_AHPyAVR7v4aSwK31NZp3g7aC-UGRXU9bgXdFTuQVK2oSvuQoq9UtgcgTW37pxHBIOvP-YXTbryYxp3FF6L7Le_a1CPKzJlpkHijetMWkbuGBO1sP-PWu44a6nzqQiT4HuLqAOi_ziTtqlGsqsdYV2kThM8jlIi22M90hlhU&ved=2ahUKEwjnh-fn6uSWAxViALkGHXCBPHsQFnoECBIQAQ&uoh=1",
+   "displayed_link": "https://www.greatschools.org \u203a indiana \u203a 1603-Pendleto...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX____6_v74_P7N6_jA5vfy-v3V7PiO0e89tuUApd-Ayu0eqeEiquEjquG64PQ_tOWq2vIwruJnw-rj8_vs9vx1yeye2fFav-ix4fQbruMAo9-Hy-yp1vCq3vSw2fGY0O5xwenE5vbe7_lFmiYHAAABRElEQVR4AVzSB5KDMAwFUNGRv-QSanq5_yHX4ImHrOg8d5lyFGVZ1XVVlgX9j6btet6j79rm11oDhmgMAcO0ByqsYxHEiAqAnS2y-QAF-tPJsWpwQRH8V-1m2g3jOE4c_DirINhkrYOKmDSuJdS0qihcu38bVkVoqZZzQ9XF76hsmq0iZENqrsyWBrklFMSqRcca0cUWwHcaw43uGyp3BZU9MmJ5PGPNTjZEX1LJklHBzJ4SCpdUsWaECPhaJFSuqOaM0seAKb9YH_FUEo3uiIdml2qkIZjiBU3NHgfEl2nDMaFw-TMV7mhwzgRomsrvIqwRsTWVFiEvX0NPvlQRQ-9S0tvvwkuoqZnfRENv6Z4XPqVMsexJmMaIh5SlZAuW9ePFzc6s0yHZaZsImBnYz2i--NlgmkOOG-xv2JIm4USNNzsAAN3rGxmBgpZiAAAAAElFTkSuQmCC.png",
+   "snippet": "Pendleton Heights High School is a public school in Pendleton, IN, offering AP courses, 2 sports, and Project Lead The Way curriculum.",
+   "snippet_highlighted_words": [
+    "Pendleton Heights High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Pendleton Heights High School is a public school in Pendleton, IN, offering AP courses, 2 sports, and Project Lead The Way curriculum.",
+     "source_info_link": "https://www.greatschools.org/indiana/pendleton/1603-Pendleton-Heights-High-School/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX____6_v74_P7N6_jA5vfy-v3V7PiO0e89tuUApd-Ayu0eqeEiquEjquG64PQ_tOWq2vIwruJnw-rj8_vs9vx1yeye2fFav-ix4fQbruMAo9-Hy-yp1vCq3vSw2fGY0O5xwenE5vbe7_lFmiYHAAABRElEQVR4AVzSB5KDMAwFUNGRv-QSanq5_yHX4ImHrOg8d5lyFGVZ1XVVlgX9j6btet6j79rm11oDhmgMAcO0ByqsYxHEiAqAnS2y-QAF-tPJsWpwQRH8V-1m2g3jOE4c_DirINhkrYOKmDSuJdS0qihcu38bVkVoqZZzQ9XF76hsmq0iZENqrsyWBrklFMSqRcca0cUWwHcaw43uGyp3BZU9MmJ5PGPNTjZEX1LJklHBzJ4SCpdUsWaECPhaJFSuqOaM0seAKb9YH_FUEo3uiIdml2qkIZjiBU3NHgfEl2nDMaFw-TMV7mhwzgRomsrvIqwRsTWVFiEvX0NPvlQRQ-9S0tvvwkuoqZnfRENv6Z4XPqVMsexJmMaIh5SlZAuW9ePFzc6s0yHZaZsImBnYz2i--NlgmkOOG-xv2JIm4USNNzsAAN3rGxmBgpZiAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESigEB6zswFZK_7f_FcPt_AHPyAVR7v4aSwK31NZp3g7aC-UGRXU9bgXdFTuQVK2oSvuQoq9UtgcgTW37pxHBIOvP-YXTbryYxp3FF6L7Le_a1CPKzJlpkHijetMWkbuGBO1sP-PWu44a6nzqQiT4HuLqAOi_ziTtqlGsqsdYV2kThM8jlIi22M90hlhU&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESigEB6zswFZK_7f_FcPt_AHPyAVR7v4aSwK31NZp3g7aC-UGRXU9bgXdFTuQVK2oSvuQoq9UtgcgTW37pxHBIOvP-YXTbryYxp3FF6L7Le_a1CPKzJlpkHijetMWkbuGBO1sP-PWu44a6nzqQiT4HuLqAOi_ziTtqlGsqsdYV2kThM8jlIi22M90hlhU",
+   "source": "GreatSchools"
+  },
+  {
+   "position": 5,
+   "title": "Pendleton Heights Middle School: Home",
+   "link": "http://phms.smcsc.com/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTgHrOzAV7yQbJv7P6WQt7cfLeyLtLJscQUxw4HcVLD0E1O3PaY8RYIJCsA6UWO_FOyPMkk09EOSWhsyxI0okTtUaIF0NgE518kakk0s83Q&ved=2ahUKEwjnh-fn6uSWAxViALkGHXCBPHsQFnoECGoQAQ&uoh=1",
+   "displayed_link": "http://phms.smcsc.com",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAh1BMVEUuUi0ANgD___8AMwDl6OX19vXS2NLv8e7r7uvY3djDysLe4t26w7nK0cnU2tTo6-iuuK1rf2p8jXuEk4Olr6SosqdFYkKToZFCXz4ALQA4WDSYppeKmYlieWAAOwAAOAAAAAAOQAEZRRIAKgBTbFC8xLsAEgBddFoAHwB3inVNaEocRxUiSyEPZECsAAABP0lEQVR4AXzSVYLCMBRAUXjxRql7JtNR2P_6RnBI4H5VTjVvtVo_7e88PA1dA0woI1wQ8giIDKgQUulHQAqKjbXcRiAqAm6T7yv-yg9t3DUo2X6PVS4TcIhXN2D_WGdw5uqGHj4pBg2hALrt-iENrDJEjniaZ98kgSZGyZfNNIf5VaXApLghbplDCH5iMbBvDpSjS9inY2A8vFPF-Uf4Cw0x0Ct4tw2AQJ0PPo_B-2f1pbADpnTufRED3X-_bgfQhgyjXyeAqfv3lYBGOhh951KfiboWxq9PDTlqTQK8h3mmCq0_swXlybUoukXNIey038ok4HmRr0PoqklDEoByW98tde4gBuwwk0xoKiWNB2Y_cvvSI5fuHhDCCaHYUkwx2ASQ1OlMCqENlNokAOOEEYGt4ZQB-x0JGUcHf_bXAQBeIh8uPSu_8AAAAABJRU5ErkJggg.png",
+   "snippet": "Pendleton Heights High School. Open Menu. Logo Image. Pendleton Heights Middle ... Welcome to Pendleton Heights Middle School! An Indiana 4 Star School. We ...",
+   "snippet_highlighted_words": [
+    "Pendleton Heights High School",
+    "Indiana"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Pendleton Heights High School. Open Menu. Logo Image. Pendleton Heights Middle ... Welcome to Pendleton Heights Middle School! An Indiana 4 Star School. We ...",
+     "source_info_link": "http://phms.smcsc.com/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAh1BMVEUuUi0ANgD___8AMwDl6OX19vXS2NLv8e7r7uvY3djDysLe4t26w7nK0cnU2tTo6-iuuK1rf2p8jXuEk4Olr6SosqdFYkKToZFCXz4ALQA4WDSYppeKmYlieWAAOwAAOAAAAAAOQAEZRRIAKgBTbFC8xLsAEgBddFoAHwB3inVNaEocRxUiSyEPZECsAAABP0lEQVR4AXzSVYLCMBRAUXjxRql7JtNR2P_6RnBI4H5VTjVvtVo_7e88PA1dA0woI1wQ8giIDKgQUulHQAqKjbXcRiAqAm6T7yv-yg9t3DUo2X6PVS4TcIhXN2D_WGdw5uqGHj4pBg2hALrt-iENrDJEjniaZ98kgSZGyZfNNIf5VaXApLghbplDCH5iMbBvDpSjS9inY2A8vFPF-Uf4Cw0x0Ct4tw2AQJ0PPo_B-2f1pbADpnTufRED3X-_bgfQhgyjXyeAqfv3lYBGOhh951KfiboWxq9PDTlqTQK8h3mmCq0_swXlybUoukXNIey038ok4HmRr0PoqklDEoByW98tde4gBuwwk0xoKiWNB2Y_cvvSI5fuHhDCCaHYUkwx2ASQ1OlMCqENlNokAOOEEYGt4ZQB-x0JGUcHf_bXAQBeIh8uPSu_8AAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESTgHrOzAV7yQbJv7P6WQt7cfLeyLtLJscQUxw4HcVLD0E1O3PaY8RYIJCsA6UWO_FOyPMkk09EOSWhsyxI0okTtUaIF0NgE518kakk0s83Q&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESTgHrOzAV7yQbJv7P6WQt7cfLeyLtLJscQUxw4HcVLD0E1O3PaY8RYIJCsA6UWO_FOyPMkk09EOSWhsyxI0okTtUaIF0NgE518kakk0s83Q",
+   "source": "Pendleton Heights Middle School",
+   "read_more_link": "http://phms.smcsc.com/#:~:text=Pendleton%20Heights%20Middle%20School&text=Welcome%20to%20Pendleton%20Heights%20Middle,School!"
+  },
+  {
+   "position": 6,
+   "title": "Pendleton Heights High School - Indiana",
+   "link": "https://www.niche.com/k12/pendleton-heights-high-school-pendleton-in/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAVtiBNih-HG232iX0y-gUbAdu92XT9bY2qNAoDVcU5KUZU-tCa81g4HQHEqIOxuiuFjXN3re00bsvsCNq3H3fPbfPCqUWE7T0sIJLiV_4GFU-Yi-EneiML14ocfLCa9OZ_Q35FsZdARe6S-F7TDIKlV7FZUC_mAjyp&ved=2ahUKEwjnh-fn6uSWAxViALkGHXCBPHsQFnoECGwQAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a Indiana",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png",
+   "date": "Dec 17, 2024",
+   "snippet": "Pendleton Heights High School is an above average, public school located in PENDLETON, IN. It has 1,502 students in grades 9-12 with a ...",
+   "snippet_highlighted_words": [
+    "Pendleton Heights High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Pendleton Heights High School is an above average, public school located in PENDLETON, IN. It has 1,502 students in grades 9-12 with a ...",
+     "source_info_link": "https://www.niche.com/k12/pendleton-heights-high-school-pendleton-in/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESfQHrOzAVtiBNih-HG232iX0y-gUbAdu92XT9bY2qNAoDVcU5KUZU-tCa81g4HQHEqIOxuiuFjXN3re00bsvsCNq3H3fPbfPCqUWE7T0sIJLiV_4GFU-Yi-EneiML14ocfLCa9OZ_Q35FsZdARe6S-F7TDIKlV7FZUC_mAjyp&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESfQHrOzAVtiBNih-HG232iX0y-gUbAdu92XT9bY2qNAoDVcU5KUZU-tCa81g4HQHEqIOxuiuFjXN3re00bsvsCNq3H3fPbfPCqUWE7T0sIJLiV_4GFU-Yi-EneiML14ocfLCa9OZ_Q35FsZdARe6S-F7TDIKlV7FZUC_mAjyp",
+   "source": "Niche",
+   "read_more_link": "https://www.niche.com/k12/pendleton-heights-high-school-pendleton-in/#:~:text=Pendleton%20Heights%20High%20School%20is,ratio%20of%2023%20to%201."
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Pendleton heights high school indiana ranking",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvi0C3w5wYdVu_oL-lOvc0LrWVVrg:1789071529206&q=Pendleton+heights+high+school+indiana+ranking&sa=X&ved=2ahUKEwjnh-fn6uSWAxViALkGHXCBPHsQ1QJ6BAhiEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pendleton+heights+high+school+indiana+ranking"
+  },
+  {
+   "block_position": 1,
+   "query": "Pendleton heights high school indiana football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvi0C3w5wYdVu_oL-lOvc0LrWVVrg:1789071529206&q=Pendleton+heights+high+school+indiana+football&sa=X&ved=2ahUKEwjnh-fn6uSWAxViALkGHXCBPHsQ1QJ6BAhpEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pendleton+heights+high+school+indiana+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Pendleton heights high school indiana basketball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvi0C3w5wYdVu_oL-lOvc0LrWVVrg:1789071529206&q=Pendleton+heights+high+school+indiana+basketball&sa=X&ved=2ahUKEwjnh-fn6uSWAxViALkGHXCBPHsQ1QJ6BAhoEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pendleton+heights+high+school+indiana+basketball"
+  },
+  {
+   "block_position": 1,
+   "query": "Pendleton heights high school indiana yearbook",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvi0C3w5wYdVu_oL-lOvc0LrWVVrg:1789071529206&q=Pendleton+heights+high+school+indiana+yearbook&sa=X&ved=2ahUKEwjnh-fn6uSWAxViALkGHXCBPHsQ1QJ6BAhkEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pendleton+heights+high+school+indiana+yearbook"
+  },
+  {
+   "block_position": 1,
+   "query": "Pendleton heights high school indiana famous alumni",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvi0C3w5wYdVu_oL-lOvc0LrWVVrg:1789071529206&q=Pendleton+heights+high+school+indiana+famous+alumni&sa=X&ved=2ahUKEwjnh-fn6uSWAxViALkGHXCBPHsQ1QJ6BAhlEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pendleton+heights+high+school+indiana+famous+alumni"
+  },
+  {
+   "block_position": 1,
+   "query": "Pendleton Heights High School Football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvi0C3w5wYdVu_oL-lOvc0LrWVVrg:1789071529206&q=Pendleton+Heights+High+School+Football&sa=X&ved=2ahUKEwjnh-fn6uSWAxViALkGHXCBPHsQ1QJ6BAhjEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pendleton+Heights+High+School+Football"
+  },
+  {
+   "block_position": 1,
+   "query": "Pendleton heights middle school",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvi0C3w5wYdVu_oL-lOvc0LrWVVrg:1789071529206&q=Pendleton+heights+middle+school&sa=X&ved=2ahUKEwjnh-fn6uSWAxViALkGHXCBPHsQ1QJ6BAhnEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pendleton+heights+middle+school"
+  },
+  {
+   "block_position": 1,
+   "query": "Pendleton Heights High School graduation 2026",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvi0C3w5wYdVu_oL-lOvc0LrWVVrg:1789071529206&q=Pendleton+Heights+High+School+graduation+2026&sa=X&ved=2ahUKEwjnh-fn6uSWAxViALkGHXCBPHsQ1QJ6BAhmEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pendleton+Heights+High+School+graduation+2026"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Pendleton+Heights+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvi0C3w5wYdVu_oL-lOvc0LrWVVrg:1789071529206&ei=qRCjaqePDOKA5OUP8ILy2Qc&start=10&sa=N&sstk=AS6-VmIFxovIuxCpIQZveLg4zoE13ibSahlZvNMQlYgzHGofS2zxWQ-7J0ZsPCQnkWcjUaOdANA9xpl0_CbJVkDSO055PFQ7sVl69w&ved=2ahUKEwjnh-fn6uSWAxViALkGHXCBPHsQ8NMDegQIYBAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Pendleton+Heights+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvi0C3w5wYdVu_oL-lOvc0LrWVVrg:1789071529206&ei=qRCjaqePDOKA5OUP8ILy2Qc&start=10&sa=N&sstk=AS6-VmIFxovIuxCpIQZveLg4zoE13ibSahlZvNMQlYgzHGofS2zxWQ-7J0ZsPCQnkWcjUaOdANA9xpl0_CbJVkDSO055PFQ7sVl69w&ved=2ahUKEwjnh-fn6uSWAxViALkGHXCBPHsQ8tMDegQIYBAE",
+   "3": "https://www.google.com/search?q=%22Pendleton+Heights+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvi0C3w5wYdVu_oL-lOvc0LrWVVrg:1789071529206&ei=qRCjaqePDOKA5OUP8ILy2Qc&start=20&sa=N&sstk=AS6-VmIFxovIuxCpIQZveLg4zoE13ibSahlZvNMQlYgzHGofS2zxWQ-7J0ZsPCQnkWcjUaOdANA9xpl0_CbJVkDSO055PFQ7sVl69w&ved=2ahUKEwjnh-fn6uSWAxViALkGHXCBPHsQ8tMDegQIYBAG",
+   "4": "https://www.google.com/search?q=%22Pendleton+Heights+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvi0C3w5wYdVu_oL-lOvc0LrWVVrg:1789071529206&ei=qRCjaqePDOKA5OUP8ILy2Qc&start=30&sa=N&sstk=AS6-VmIFxovIuxCpIQZveLg4zoE13ibSahlZvNMQlYgzHGofS2zxWQ-7J0ZsPCQnkWcjUaOdANA9xpl0_CbJVkDSO055PFQ7sVl69w&ved=2ahUKEwjnh-fn6uSWAxViALkGHXCBPHsQ8tMDegQIYBAI",
+   "5": "https://www.google.com/search?q=%22Pendleton+Heights+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvi0C3w5wYdVu_oL-lOvc0LrWVVrg:1789071529206&ei=qRCjaqePDOKA5OUP8ILy2Qc&start=40&sa=N&sstk=AS6-VmIFxovIuxCpIQZveLg4zoE13ibSahlZvNMQlYgzHGofS2zxWQ-7J0ZsPCQnkWcjUaOdANA9xpl0_CbJVkDSO055PFQ7sVl69w&ved=2ahUKEwjnh-fn6uSWAxViALkGHXCBPHsQ8tMDegQIYBAK",
+   "6": "https://www.google.com/search?q=%22Pendleton+Heights+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvi0C3w5wYdVu_oL-lOvc0LrWVVrg:1789071529206&ei=qRCjaqePDOKA5OUP8ILy2Qc&start=50&sa=N&sstk=AS6-VmIFxovIuxCpIQZveLg4zoE13ibSahlZvNMQlYgzHGofS2zxWQ-7J0ZsPCQnkWcjUaOdANA9xpl0_CbJVkDSO055PFQ7sVl69w&ved=2ahUKEwjnh-fn6uSWAxViALkGHXCBPHsQ8tMDegQIYBAM",
+   "7": "https://www.google.com/search?q=%22Pendleton+Heights+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvi0C3w5wYdVu_oL-lOvc0LrWVVrg:1789071529206&ei=qRCjaqePDOKA5OUP8ILy2Qc&start=60&sa=N&sstk=AS6-VmIFxovIuxCpIQZveLg4zoE13ibSahlZvNMQlYgzHGofS2zxWQ-7J0ZsPCQnkWcjUaOdANA9xpl0_CbJVkDSO055PFQ7sVl69w&ved=2ahUKEwjnh-fn6uSWAxViALkGHXCBPHsQ8tMDegQIYBAO",
+   "8": "https://www.google.com/search?q=%22Pendleton+Heights+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvi0C3w5wYdVu_oL-lOvc0LrWVVrg:1789071529206&ei=qRCjaqePDOKA5OUP8ILy2Qc&start=70&sa=N&sstk=AS6-VmIFxovIuxCpIQZveLg4zoE13ibSahlZvNMQlYgzHGofS2zxWQ-7J0ZsPCQnkWcjUaOdANA9xpl0_CbJVkDSO055PFQ7sVl69w&ved=2ahUKEwjnh-fn6uSWAxViALkGHXCBPHsQ8tMDegQIYBAQ",
+   "9": "https://www.google.com/search?q=%22Pendleton+Heights+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvi0C3w5wYdVu_oL-lOvc0LrWVVrg:1789071529206&ei=qRCjaqePDOKA5OUP8ILy2Qc&start=80&sa=N&sstk=AS6-VmIFxovIuxCpIQZveLg4zoE13ibSahlZvNMQlYgzHGofS2zxWQ-7J0ZsPCQnkWcjUaOdANA9xpl0_CbJVkDSO055PFQ7sVl69w&ved=2ahUKEwjnh-fn6uSWAxViALkGHXCBPHsQ8tMDegQIYBAS",
+   "10": "https://www.google.com/search?q=%22Pendleton+Heights+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvi0C3w5wYdVu_oL-lOvc0LrWVVrg:1789071529206&ei=qRCjaqePDOKA5OUP8ILy2Qc&start=90&sa=N&sstk=AS6-VmIFxovIuxCpIQZveLg4zoE13ibSahlZvNMQlYgzHGofS2zxWQ-7J0ZsPCQnkWcjUaOdANA9xpl0_CbJVkDSO055PFQ7sVl69w&ved=2ahUKEwjnh-fn6uSWAxViALkGHXCBPHsQ8tMDegQIYBAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pendleton+Heights+High+School%22+Indiana&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pendleton+Heights+High+School%22+Indiana&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pendleton+Heights+High+School%22+Indiana&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pendleton+Heights+High+School%22+Indiana&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pendleton+Heights+High+School%22+Indiana&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pendleton+Heights+High+School%22+Indiana&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pendleton+Heights+High+School%22+Indiana&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pendleton+Heights+High+School%22+Indiana&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pendleton+Heights+High+School%22+Indiana&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pendleton+Heights+High+School%22+Indiana&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pendleton+Heights+High+School%22+Indiana&start=90"
+  }
+ }
+}
