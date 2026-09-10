@@ -23,7 +23,11 @@ offering on the website.
   by `level`; the East Coast sheet (`data/final/east_coast.csv`, xlsx sheet
   "East Coast") is ME–FL plus DC, VT, WV (`scrapers/common.py: EAST_COAST`).
 - **Respect robots.txt even when the data is tempting.** Google News RSS search
-  is disallowed and is therefore not used (`scrapers/news_east.py` is parked).
+  is disallowed and is never fetched. The same headlines come through SerpAPI's
+  `google_news` engine under the owner's key (`SERPAPI_KEY`, set in the cloud
+  environment on 2026-09-10; owner decision that a keyed API call is not
+  crawling). The key is read from the environment only and never written to
+  cache, sidecars, or CSVs. Rotate it before sharing the environment.
 - **Ask before adding dependencies or credentials.** Approved so far: requests,
   beautifulsoup4, pandas, lxml, openpyxl, pytest. gspread is only added if the
   `--gsheet` export is actually used with a supplied service account.
@@ -87,6 +91,7 @@ Interim files use: `school, band_name, city, state, event, year, source_url`.
 | Hollywood Christmas Parade | `scrapers/hollywood.py` | live, per-year pages 2018–2026 |
 | National Independence Day Parade | `scrapers/july4.py` | live homepage; lineup pages to be discovered |
 | Bands of America finalists (marching.musicforall.org/result/) | `scrapers/boa.py` | live; Grand National finalists parsed from the HTML "Finals Results" block; regional recaps are PDF-only and are counted, not parsed |
+| Google News headlines via SerpAPI (24 East Coast parades + Macy's) | `scrapers/news_east.py` | live with `SERPAPI_KEY` (free plan: 250 searches/month; one pull is ~28); a row needs the headline to name both a High/Middle School band and the parade; blocked without the key |
 | NCES Common Core of Data | `scripts/enrich.py` | live; zips cached in `data/raw/nces/` |
 
 To unblock a blocked source: save the page as HTML into the cache path printed by
@@ -133,8 +138,9 @@ unblocks it, and `docs/TROEN_QUESTIONS.md` for open client questions.
 - More parades: Gasparilla (Tampa), National Cherry Blossom Festival Parade (DC),
   America's Hometown Thanksgiving Celebration (Plymouth, MA), Disney/Universal
   performance program participants if public, Fiesta Bowl Parade.
-- News source: local news (past 18 months) about bands "selected for" or
-  "fundraising for" a parade trip, tagged `news:`; flag in notes as warmest leads.
+- News source: done for headlines (`news_east`, notes flag `news: named in local
+  coverage of ...`). Not done: article bodies ("fundraising for" wording) and
+  parades outside the East Coast list.
 - State band director associations (FL, GA, AL, SC, NC, TN, TX): public assessment
   results, tagged `state-assessment`. Never scrape member directories.
 - Tier A "why them" one-liners → `data/final/tier_a_outreach_notes.csv`. No emails.

@@ -263,10 +263,21 @@ Philadelphia parade).
 
 What blocked a bigger list: no East Coast parade site publishes a lineup that is
 reachable and allowed (see `docs/SCRAPING_HURDLES.md`, "East Coast expansion").
-Google News RSS headlines would have added Macy's (34 schools) and Philadelphia
-(15) rows, but news.google.com/robots.txt disallows the search feed, so
-`scrapers/news_east.py` is parked, not registered. The sanctioned route is a
-licensed search/news API key.
+Google News RSS is disallowed by robots.txt and is never fetched.
+
+**News pull via SerpAPI (2026-09-10).** The owner set `SERPAPI_KEY` in the cloud
+environment and asked for the pull. `scrapers/news_east.py` is now registered in
+`run_all.py`; it searches SerpAPI's `google_news` engine once per phrase (28
+searches of the free plan's 250/month), caches JSON under `data/raw/serpapi.com/`,
+and emits a row only when a headline names both a High/Middle School band and one
+of the listed parades. Result: 15 rows, 13 schools; 9 folded into existing rows
+(new Macy's 2023–2027 appearances for Fishers, Dobyns-Bennett, Marcus, Foothill,
+Pearland, Concord; Philadelphia years for Penn, Kingsway, Biloxi, duPont), 4 new
+stateless schools (Byrnes, Concord, Enloe, Southeast Raleigh). Every news-sourced
+appearance is flagged in `notes` as `news: named in local coverage of ...`.
+Run it alone with `scripts/run_all.py --sources news_east`. The 20 smaller East
+Coast parades yielded nothing: see `SCRAPING_HURDLES.md` for the counts and the
+rules that dropped rows on purpose.
 
 ## 10. Deliverables that exist today
 

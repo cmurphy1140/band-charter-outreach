@@ -35,15 +35,47 @@ marched in a holiday parade or festival. What was found:
 | America's Hometown Thanksgiving Celebration (Plymouth, MA) | Reachable, but invitation-only and publishes no participant list |
 | Raleigh Christmas Parade (grma.org) | Connection reset / 403 |
 | Stamford Downtown Parade Spectacular, Norfolk Festevents, Charlotte Center City | Reachable pages, no lineup content (JS or marketing copy only) |
-| Google News RSS headlines ("Enloe High School band prepares to perform at Raleigh Christmas Parade") | Rich (Macy's 34 named schools, Philadelphia 15), **but news.google.com/robots.txt disallows /rss/search**. Not used, per the robots.txt guardrail. Parser is ready in `scrapers/news_east.py` |
+| Google News RSS headlines ("Enloe High School band prepares to perform at Raleigh Christmas Parade") | Rich, **but news.google.com/robots.txt disallows /rss/search**. The feed is never fetched. Since 2026-09-10 the same headlines come through SerpAPI's `google_news` engine with the owner's key (see below) |
 | Bing / DuckDuckGo / Startpage HTML | Bing reachable but its no-JavaScript results ignore the query; DuckDuckGo returns a challenge; all disallow scraping in robots.txt |
 | Wikipedia | Only the Philadelphia parade article has a band table; no articles for the other East Coast parades |
 
-Net effect: the East Coast sheet is built from sources already in the pipeline
-(Philadelphia 40 schools, Rose 13, BOA 5, Hollywood 1) plus middle schools now
-allowed. What unblocks it: a licensed search or news API key (SerpAPI, Bing Web
-Search, NewsAPI), which is the sanctioned route to the same headlines, or someone
-saving each parade's lineup page from a browser into `data/raw/`.
+Net effect before the key: the East Coast sheet was built from sources already in
+the pipeline (Philadelphia 40 schools, Rose 13, BOA 5, Hollywood 1) plus middle
+schools. What still unblocks more: someone saving each parade's lineup page from
+a browser into `data/raw/`.
+
+### SerpAPI news pull (run 2026-09-10)
+
+The owner supplied a SerpAPI key (`SERPAPI_KEY`, free plan, 250 searches/month).
+`scrapers/news_east.py` sends one `google_news` search per phrase in its parade
+list (28 searches) and caches the JSON under `data/raw/serpapi.com/`. Note that
+serpapi.com's robots.txt lists `/search.json` as disallowed for crawlers; the
+owner's decision is that a keyed API call under SerpAPI's terms is not crawling.
+
+What the first pull found, and why the list is short:
+
+| | |
+|---|---|
+| Headlines returned | 100 for Macy's, 74 + 32 for Philadelphia, 1–14 for each of the 22 other parades |
+| Headlines that named a High/Middle School band | 48 |
+| Kept after the parade had to be named in the headline too | 15 rows, 13 schools (Macy's 7, Philadelphia 6, Raleigh 2) |
+| Of those, folded into schools already in the list | 9 (Dobyns-Bennett, Fishers, Penn, Kingsway, Marcus, Biloxi, Foothill, Pearland, A.I. duPont) |
+| New schools, all with state unknown | Byrnes, Concord, Enloe, Southeast Raleigh |
+
+Rules that dropped rows, deliberately: the event is taken from the headline's
+own words, never from which search returned it (Google returns a Rose Parade
+headline for the Macy's query); headlines about students, grads, or alumni are
+skipped (three students in Macy's Great American Marching Band is not the school
+band); a headline that names the band but not the parade is skipped ("2022
+Parade: Millbrook High School Marching Band", "Wallington ... heads to Boston for
+prestigious event"), even when the link makes the parade obvious. The 20 smaller
+East Coast parades produced no qualifying headline at all: local coverage names
+the parade but rarely a school in the headline.
+
+Levers, in order of expected yield: read article bodies (the SerpAPI link is the
+real article URL; a body fetch would need each outlet's robots.txt honoured and
+would add "selected for" and "fundraising for" wording); add phrases per parade
+that name the local outlet; run the pull each November when coverage peaks.
 
 ## Data-quality hurdles inside the pipeline
 
