@@ -47,5 +47,11 @@
 - states (report only): Bellefontaine and Defiance are listed as DE by Wikipedia's
   2018 Philadelphia lineup; NCES and Wikipedia's 2014 entry put both in OH
 - parades, email-domain: no findings
+- dead-urls (report only, 193 distinct URLs from the cloud container): 29 did not
+  answer 200. Real dead links: 9 x HTTP 404 (Lindbergh, Woodland GA, Jackson
+  Memorial, Londonderry, Lenape, Pearland, Pocono Mountain East, Wando, Twin
+  Lakes) and 1 malformed NCES website ("http://#www.bentonvillek12.org#").
+  Probably the datacenter IP, re-check from a laptop: 7 x 403, 2 x 503, 1 x 429,
+  1 x 409, 5 x SSLError, 4 x ConnectionError. Nothing was changed.
 
 
