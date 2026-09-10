@@ -1,0 +1,120 @@
+PARADE PROSPECTS: AN OVERVIEW FOR TROEN STUDENT PERFORMANCE EVENTS
+Prepared September 10, 2026. Audience: the Troen team.
+
+PART ONE. THE SHORT VERSION
+
+You sell parade and festival trips to school marching bands. The bands most likely to say yes are the ones that already travel: they have boosters who know how to fundraise, school boards that have approved a trip before, and directors who know what a trip involves.
+
+We found those bands. Two hundred and fourteen high school programs across the country with a documented history of marching in major parades, ranked for your Universal Orlando Veterans Day opportunity, with the top fifty ready to contact this week. Every school on the list is traceable to the public page it came from. Nothing on it is guessed.
+
+The list is not a spreadsheet someone typed once. It is a small system that rebuilds itself three times a year as parade lineups are announced, so the list you have in March is not the list you had in October, and nobody has to redo the research.
+
+PART TWO. WHERE THE SCHOOLS CAME FROM
+
+Bands that travel leave a public record: parade organizers publish lineups, competitions publish results, and local news reports when a band is selected. We collected from six kinds of sources.
+
+The Rose Parade in Pasadena, every year from 2015 through 2027, using the published lineups. Ninety-nine schools came from here.
+
+Bands of America Grand National Championships, every finalist from 2018 through 2025. Eighty-four schools. These are the most competitive programs in the country, and a Grand National finalist has the organization to travel.
+
+The Philadelphia Thanksgiving Day Parade, the Hollywood Christmas Parade, and Houston's H-E-B Thanksgiving Day Parade, from their published lineups.
+
+And local news headlines that name a school band in Macy's Thanksgiving Day Parade or one of two dozen East Coast holiday parades, gathered through a licensed news search. "Marcus High School band set to perform at Macy's Thanksgiving Day Parade in 2027" becomes a row on the list, with the article as its source.
+
+Each school was then matched to the federal Common Core of Data, the Department of Education's directory of every public school, to attach the school district, total enrollment, and website. Where the school's website was known, we looked for the band program page, the booster club, and the director's contact information.
+
+Colleges, drum corps, honor bands and all-star bands, military bands, community bands, and groups from outside the United States were set aside. One hundred and eighty such groups were removed so that every row on your list is a real school band you can sell to.
+
+PART THREE. HOW THE LIST IS RANKED FOR ORLANDO
+
+Every school has a score out of one hundred, built from six things.
+
+Thirty points for how many major parades the school has marched. A program that has done it five times is a program that will do it again.
+
+Twenty points for how recent the last appearance was. A trip in 2024 or later earns full marks; each year before that costs five points. Directors change, boosters turn over, and a school that traveled a decade ago may not be the same program today.
+
+Twenty points for proximity to Orlando. Florida earns full marks. Georgia, Alabama, South Carolina, North Carolina, and Tennessee earn three quarters. The rest of the Southeast and Texas earn half. Everywhere else earns a quarter. A drive-in trip is easier to sell to a school board than a flight.
+
+Fifteen points for a cross-country travel signal: any appearance in the Rose Parade, Macy's, or the Hollywood Christmas Parade. A school that has flown a full band to Pasadena or New York has already solved the hard problems of fundraising, chaperones, and instrument transport.
+
+Fifteen points for Bands of America Grand National finalist years, a measure of program strength and organization.
+
+And five points if the school publishes its band director's email, because it means your first call is one step shorter.
+
+The weights are a single settings block. If you tell us Texas should rank above Georgia, or that a Rose Parade offer is next, the list re-ranks in minutes, not in a new project.
+
+Schools are sorted into three tiers. Tier A is the top fifty. Tier B is the next hundred. Tier C is everyone else, kept because a school that marched once may march again.
+
+PART FOUR. THE TEN STRONGEST PROGRAMS
+
+At the top is Dobyns-Bennett High School in Kingsport, Tennessee, with a score of ninety-five: four Grand National finals, a Rose Parade in 2020, and Macy's this November. A Tennessee school is a manageable drive from Orlando.
+
+Four schools tie at eighty-five. Blue Springs High School in Missouri, already invited back to Pasadena for 2027. Broken Arrow High School in Oklahoma, with two Rose Parades and five Grand National finals since 2017. Carmel High School in Indiana, with seven straight Grand National finals and a 2027 Rose Parade invitation, and an enrollment of five thousand two hundred, the largest program on the list. And William Mason High School in Ohio, with nine appearances in ten years, the deepest history of any school.
+
+Then Brownsburg High School in Indiana, which marches in Pasadena this coming January, and The Woodlands High School in Texas, the one school on the list whose district publishes a band director email. Then three Texas programs tied at seventy-three: Flower Mound, the 2025 Grand National runner-up; Marcus, selected for the 2027 Macy's parade; and Ronald Reagan in San Antonio.
+
+The highest-ranked Florida school, Tarpon Springs High School, sits eleventh, with three Grand National finals. It is the most natural drive-market prospect for Orlando, and one weight change in your favor of Florida would move it into the top ten.
+
+Across the whole list, the largest state groups are Texas with thirty schools, Indiana with twenty-one, California with fourteen, Ohio and Georgia with twelve each, Alabama with eight, and Florida with seven.
+
+PART FIVE. WHAT WE DELIBERATELY DID NOT DO
+
+This part matters as much as the list itself, because it is what makes the list safe to use under your name.
+
+We never guessed a contact. A director's name or email is on the list only when a school, district, or booster website prints it next to the words "band director". We did not construct addresses from naming patterns, and we did not use paid directories or scraped mailing lists. As a result, the sheet has only one director email and three director names today. That is fewer than a purchased list would show you, and every one of them is real. The next pass, with your guidance on whether to reach directors, booster presidents, or district fine-arts coordinators, is where the contact column fills in.
+
+We respected every website's rules. Where a site disallowed automated access, we did not take the data, even when it was rich. Google's free news feed, for example, would have added dozens of schools, and its rules forbid it; we used a licensed search service instead.
+
+We collected no student data. Every source is a public lineup, a public result, or a public news story about a school's band.
+
+And we recorded a source for every row, so that if a superintendent ever asks where their school's name came from, the answer is a public web page.
+
+PART SIX. WHAT IS MISSING, AND HOW TO FIX IT
+
+Two sources are missing because their websites block automated access: Macy's own parade site and the Chicago Thanksgiving Parade. Macy's appearances on the list today come from news reports, which catch the schools that made headlines but not the full lineup. The fix is ten minutes of someone's time: open the Macy's and Chicago lineup pages in a normal browser and save them. The system is already built to read the saved pages.
+
+Forty-one schools have no state recorded, because the Hollywood Christmas Parade lists unit names without locations. Those schools could not be matched to federal records and score at the bottom of the geography scale until their states are filled in.
+
+Sixty schools have no website in the federal data, so we could not look for their band pages or contacts. A search step for those schools is straightforward now that a licensed search service is in place.
+
+The Bands of America regional championships, hundreds of events beyond the Grand National finals, publish their results only as PDF files, which we have not parsed yet.
+
+None of these gaps involve guessing. Each one is a known, bounded piece of work, and the list gets stronger with every one that closes.
+
+PART SEVEN. WHAT YOU RECEIVE
+
+The workbook, prospects dot xlsx, with four sheets: Tier A, Tier B, an East Coast list for holiday festival prospects from Maine to Florida, and everything. Filter by state, sort by score, and each school's parade history reads one parade per line.
+
+A one-page brief that says what the list is, how it was built, and what is missing.
+
+A Top 10 spread with each school's parade history.
+
+A four-slide deck for this meeting.
+
+A director-facing sales sheet for the Veterans Day parade, with every trip fact left as a highlighted placeholder for you to fill: dates, price, what is included, application deadline, contact. We wrote the persuasive copy around your facts rather than invent details a director would later hold you to.
+
+PART EIGHT. FIVE DECISIONS THAT CHANGE THE LIST
+
+Your answers to these retarget the list; each is a settings change, not a rebuild.
+
+One. Is the Universal Orlando Veterans Day date confirmed, and for which year? This sets which appearance years still count as recent.
+
+Two. How many bands can the parade take, and is there a size or audition requirement? This decides whether enrollment and competition results become hard filters or stay as signals.
+
+Three. Who do you reach first: the band director, the booster president, or the district fine-arts lead? Today the search looks for the director only.
+
+Four. Does Florida-first geography match how you sell, or should Texas rank higher? One weight change reorders the top fifty.
+
+Five. Are there schools already under contract, or that should never be contacted? A suppression list is applied before anyone sees the sheet, and carried through every refresh.
+
+And one small favor: can someone on your side save the Macy's and Chicago lineup pages from a browser? It fills the two biggest gaps.
+
+PART NINE. WHAT HAPPENS NEXT
+
+Macy's announces its 2027 bands in early October. A refresh is already scheduled for October 8 to pick up that announcement, re-rank the list, and report which schools gained a Macy's appearance and whether the top ten changed. You receive a one-page note of what changed. The same happens after the Rose Parade announcement in March and the fall parade lineups in November.
+
+From there, the natural sequence is: apply your five decisions and the suppression list; fill in Macy's and Chicago; agree on the contact rule and apply it across the list; deliver a Rose Parade list for your next offer from the same engine; and give your sales team a Tier A sheet with one factual line per school on why they belong there.
+
+PART TEN. THE ONE IDEA TO TAKE AWAY
+
+Every school on this list has already done the hardest part of buying a trip from you: they have funded, approved, and executed a major parade trip before. The list tells you who they are, how recently, how far from Orlando, and where the public record says so. It is smaller than a purchased list, and that is the point. It is a list you can put your name behind.
