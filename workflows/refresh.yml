@@ -1,0 +1,51 @@
+name: Seasonal refresh
+
+# Re-scrapes only the current and next parade year, updates prospects.csv, and opens a
+# PR with the diff. Runs after the main lineup announcements: Rose (early March),
+# Macy's (early October), Chicago/Philly/H-E-B/Hollywood and BOA (Oct-Nov).
+# Read-only by design: no exports, no emails, nothing pushed to main.
+
+on:
+  schedule:
+    - cron: "0 12 15 3 *"    # 15 March, 12:00 UTC
+    - cron: "0 12 15 10 *"   # 15 October
+    - cron: "0 12 15 11 *"   # 15 November
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install
+        run: |
+          python -m venv .venv
+          .venv/bin/pip install -q -r requirements.txt
+
+      - name: Tests
+        run: make test
+
+      - name: Refresh current and next parade year
+        run: make refresh | tee refresh.log
+
+      - name: Open pull request with the diff
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: refresh/${{ github.run_id }}
+          title: "Seasonal refresh ${{ github.run_id }}"
+          commit-message: "Seasonal refresh of parade lineups"
+          add-paths: |
+            data/interim/**
+            data/final/**
+          body-path: refresh.log
+          draft: true

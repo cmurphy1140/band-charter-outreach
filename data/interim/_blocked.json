@@ -1,0 +1,41 @@
+{
+  "macys": {
+    "reason": "macys.com returns 403 (Akamai bot block); fandom.com returns 403. Save the page(s) to: data/raw/www.macys.com/91158586139ba794b6d7abe76b4bd0631bf19874.html, data/raw/macysthanksgiving.fandom.com/85f3a3049731cf2f0f120864ae48e9dc5781c4bb.html",
+    "urls": [
+      "https://www.macys.com/social/parade/",
+      "https://macysthanksgiving.fandom.com/wiki/Marching_Bands"
+    ],
+    "cache_dirs": [
+      "data/raw/macysthanksgiving.fandom.com",
+      "data/raw/www.macys.com"
+    ]
+  },
+  "rose": {
+    "reason": "tournamentofroses.com serves a SiteGround captcha challenge (HTTP 202). Save the page(s) to: data/raw/tournamentofroses.com/ec6a9f798a2b21393a773bf6ab44ff414490b5a8.html, data/raw/tournamentofroses.com/0fbc015639bb7160e15626f52483943b5b58861f.html",
+    "urls": [
+      "https://tournamentofroses.com/press-releases/",
+      "https://tournamentofroses.com/rose-parade/participants/"
+    ],
+    "cache_dirs": [
+      "data/raw/tournamentofroses.com"
+    ]
+  },
+  "chicago": {
+    "reason": "TLS handshake failure from this environment. Save the page(s) to: data/raw/www.chicagothanksgivingparade.com/aa59352e3c6b9a9a50e46a3782298a80c540d94e.html",
+    "urls": [
+      "https://www.chicagothanksgivingparade.com/"
+    ],
+    "cache_dirs": [
+      "data/raw/www.chicagothanksgivingparade.com"
+    ]
+  },
+  "july4": {
+    "reason": "page fetched but no lineup found: site reachable but publishes no lineup page (only a recruitment brochure PDF)",
+    "urls": [
+      "https://july4thparade.com/"
+    ],
+    "cache_dirs": [
+      "data/raw/july4thparade.com"
+    ]
+  }
+}
