@@ -51,7 +51,7 @@ def is_east_coast(row: dict) -> bool:
     if row.get("state"):
         return False
     from scrapers.news_east import PARADES  # local import: avoids a cycle at load
-    east_events = {e for e, st, _ in PARADES if st in EAST_COAST} | {"Philadelphia"}
+    east_events = {e for e, st, *_ in PARADES if st in EAST_COAST} | {"Philadelphia"}
     return any(tag.rsplit(" ", 1)[0] in east_events for tag in (row.get("parades") or "").split("; ") if tag)
 
 

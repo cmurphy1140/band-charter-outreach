@@ -7,6 +7,7 @@ Usage:
   python scripts/run_all.py --merge-only   # rebuild prospects.csv from interim CSVs
   python scripts/run_all.py --refresh      # current + next year, merge into existing
                                            # prospects.csv, print a diff, log to CHANGELOG
+  python scripts/run_all.py --sources news_east   # run only these scrapers, then merge
 """
 from __future__ import annotations
 
@@ -21,7 +22,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
-from scrapers import boa, cached_only, heb, hollywood, philly, wikipedia_rose  # noqa: E402
+from scrapers import boa, cached_only, heb, hollywood, news_east, philly, wikipedia_rose  # noqa: E402
 from scrapers.common import (COLUMNS, FINAL_DIR, INTERIM_DIR, INTERIM_COLUMNS, BlockedSource,  # noqa: E402
                              Row, write_interim, write_blocked, clear_blocked)
 from scrapers.exclusions import exclusion_reason, level_from_name  # noqa: E402
@@ -38,8 +39,10 @@ LIVE_SOURCES = {
     "hollywood": hollywood,
     "heb": heb,
     "boa": boa,
-    # news_east is NOT run: news.google.com/robots.txt disallows /rss/search, and the
-    # guardrail is to respect robots.txt. Kept for when a licensed search API exists.
+    # news_east pulls Google News headlines through SerpAPI (owner-supplied key in
+    # SERPAPI_KEY). Without the key it reports itself blocked; the RSS feed is never
+    # fetched because news.google.com/robots.txt disallows it.
+    "news_east": news_east,
 }
 
 
@@ -68,9 +71,11 @@ def write_interim_scoped(name: str, rows: list[Row], years) -> None:
     write_interim(name, unique)
 
 
-def run_scrapers(years) -> dict[str, int]:
+def run_scrapers(years, only: set[str] | None = None) -> dict[str, int]:
     counts: dict[str, int] = {}
     for name, mod in LIVE_SOURCES.items():
+        if only and name not in only:
+            continue
         try:
             rows = mod.scrape(years=years) if years else mod.scrape()
         except BlockedSource as e:
@@ -85,6 +90,8 @@ def run_scrapers(years) -> dict[str, int]:
             print(f"[boa] {len(boa.pdf_only_events)} regional events publish results as PDF only "
                   f"(not parsed); Grand National finalists parsed from HTML")
     for name in cached_only.GENERIC_SOURCES:
+        if only and name not in only:
+            continue
         rows, reason = cached_only.scrape_source(name)
         if reason:
             write_blocked(name, reason, cached_only.GENERIC_SOURCES[name]["urls"])
@@ -170,6 +177,12 @@ def merge(rows: list[dict]) -> tuple[list[dict], list[dict]]:
         name = Counter(it["school"] for it in items).most_common(1)[0][0]
         ordered = sorted(parades.items(), key=lambda kv: (-kv[1], kv[0]))
         years = [y for _, y in ordered if y]
+        notes = [] if state else ["state unknown: source lists no location"]
+        # A school named in local news coverage of a parade is the warmest lead.
+        news_tags = sorted({f"{it['event']} {it['year']}".strip() for it in items
+                            if it.get("_source") == "news_east"})
+        if news_tags:
+            notes.append("news: named in local coverage of " + ", ".join(news_tags))
         out.append({
             "school": name, "band_name": band, "city": city, "state": state,
             "level": level_from_name(name, band),
@@ -182,7 +195,7 @@ def merge(rows: list[dict]) -> tuple[list[dict], list[dict]]:
             "director_phone": "", "booster_org": "",
             "source_urls": "; ".join(sources),
             "score": "", "tier": "",
-            "notes": "" if state else "state unknown: source lists no location",
+            "notes": "; ".join(notes),
         })
     out.sort(key=lambda r: (-r["parades_marched"], r["state"], r["school"]))
     return out, excluded
@@ -225,6 +238,15 @@ def carry_over(new_rows: list[dict], old_rows: list[dict]) -> list[dict]:
                 continue
             if k == "level" and (r.get("level") or (o["level"] == "Middle" and not level_from_name(r["school"], r.get("band_name", "")))):
                 continue  # a level computed from the name wins; a stale "Middle" is dropped
+            if k == "notes":
+                # Union: keep enrichment notes, and merge-time notes (news leads) too.
+                # Old merge-time notes are recomputed, so they are not carried.
+                merge_time = ("news:", "state unknown:")
+                parts = [n for n in (r.get("notes") or "").split("; ") if n]
+                parts += [n for n in o["notes"].split("; ")
+                          if n and n not in parts and not n.startswith(merge_time)]
+                r[k] = "; ".join(parts)
+                continue
             r[k] = o[k]
         if o.get("band_name") and not r["band_name"]:
             r["band_name"] = o["band_name"]
@@ -287,6 +309,8 @@ def main(argv=None) -> int:
     ap.add_argument("--merge-only", action="store_true")
     ap.add_argument("--refresh", action="store_true",
                     help="scrape current+next year and merge into existing prospects.csv")
+    ap.add_argument("--sources", help="comma-separated scraper names to run (others keep "
+                                      "their interim CSVs); e.g. news_east")
     a = ap.parse_args(argv)
 
     years = None
@@ -298,7 +322,11 @@ def main(argv=None) -> int:
 
     old = read_prospects()
     if not a.merge_only:
-        run_scrapers(years)
+        only = {x.strip() for x in a.sources.split(",") if x.strip()} if a.sources else None
+        unknown = (only or set()) - set(LIVE_SOURCES) - set(cached_only.GENERIC_SOURCES)
+        if unknown:
+            ap.error(f"unknown sources: {', '.join(sorted(unknown))}")
+        run_scrapers(years, only)
 
     interim = load_interim()
     rows, excluded = merge(interim)

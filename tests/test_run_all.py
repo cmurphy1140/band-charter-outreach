@@ -75,3 +75,20 @@ def test_carry_over_keeps_enrichment_columns():
     out = run_all.carry_over(new, old)[0]
     assert out["district"] == "Allen ISD" and out["tier"] == "A" and out["city"] == "Allen"
     assert out["source_urls"] == "u1; https://allenisd.org/band"
+
+
+def test_news_rows_are_flagged_as_warm_leads_and_notes_union_on_carry_over():
+    rows = [
+        _row("Enloe High School", "", "Raleigh Christmas Parade", 2019, "https://abc11.com/enloe"),
+        _row("Enloe High School", "NC", "Philadelphia", 2018, "p"),
+    ]
+    rows[0]["_source"] = "news_east"
+    merged, _ = run_all.merge(rows)
+    assert len(merged) == 1
+    enloe = merged[0]
+    assert enloe["state"] == "NC" and enloe["parades_marched"] == 2
+    assert enloe["notes"] == "news: named in local coverage of Raleigh Christmas Parade 2019"
+    old = [{"school": "Enloe High School", "state": "NC", "notes": "nces: matched 'Enloe High' (0.95)"}]
+    out = run_all.carry_over(merged, old)[0]
+    assert out["notes"] == ("news: named in local coverage of Raleigh Christmas Parade 2019; "
+                            "nces: matched 'Enloe High' (0.95)")
