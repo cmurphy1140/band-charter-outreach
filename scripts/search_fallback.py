@@ -53,8 +53,11 @@ REJECT_HOSTS = re.compile(
     r"schoolandcollegelistings|publicschoolsk12|indeed|glassdoor|yellowpages|mapcarta|"
     r"google\.|bing\.|apple\.com|pinterest|reddit|patch\.com|wikia|fandom|spotify|"
     r"teamsnap|leaguelineup|gofundme|snapraise|bandapp|charmsoffice|cutoff|"
-    r"athletic|sports|football|basketball|booster|alumni|foundation)",
+    r"athletic|sports|football|basketball|baseball|soccer|lacrosse|hoops|fb\.|booster|alumni|"
+    r"foundation|(times|news|tribune|herald|gazette|journal|daily|press)(\.|$))",
     re.I)
+BAND_HOST = re.compile(r"band|drumline|colorguard|guard", re.I)
+MAX_PATH_DEPTH = 3   # a school homepage is shallow; /news/some-story/... is an article
 SCHOOL_HOST = re.compile(r"(k12|isd|schools?|sd\.|usd|csd|cusd|ccsd|psd|district|boe|academy|"
                          r"\.edu$|\.us$|hs\.|-hs|highschool)", re.I)
 GENERIC_WORDS = {"high", "school", "middle", "senior", "junior", "academy", "the", "of",
@@ -119,11 +122,15 @@ def pick_site(payload: dict, school: str, state: str = "") -> dict | None:
                 return {"website": kg["website"].strip(), "city": city, "state": st,
                         "via": "knowledge_graph",
                         "note": f"search: website via Google knowledge panel '{title}'"}
+    if not state:
+        return None  # same-named schools exist in many states; only a panel can place one
     words = distinctive_words(school)
     for r in payload.get("organic_results") or []:
         link = r.get("link") or ""
         host = _host(link)
         if not host or REJECT_HOSTS.search(host):
+            continue
+        if len([p for p in urlsplit(link).path.split("/") if p]) > MAX_PATH_DEPTH:
             continue
         # The school's own word must start a host label ("southeastraleighhs.wcpss.net"),
         # not hide inside another word ("ridge" in "cambridge").
@@ -135,6 +142,9 @@ def pick_site(payload: dict, school: str, state: str = "") -> dict | None:
             continue
         if wants_middle(rtitle) != middle:
             continue
+        if BAND_HOST.search(host):
+            return {"website": "", "band_url": link, "city": "", "state": "", "via": "band_site",
+                    "note": f"search: band program site via Google result '{rtitle.strip()}'"}
         return {"website": link, "city": "", "state": "", "via": "organic",
                 "note": f"search: website via Google result '{rtitle.strip()}'"}
     return None
@@ -191,6 +201,49 @@ def apply_nces(row: dict, rec: dict, note: str) -> None:
                              if n not in ("nces: skipped (state unknown)", "state unknown: source lists no location"))
 
 
+def same_name_in_state(school: str, state: str, nces) -> int:
+    """How many NCES schools carry this exact normalized name in the state."""
+    if nces is None or not state:
+        return 0
+    key = _bare_key(normalize_school(school))
+    pool = nces[nces["state"] == state.upper()]
+    pool = pool[pool["key"].map(_bare_key) == key]
+    is_middle = pool["level"].fillna("").str.startswith("Middle")
+    pool = pool[is_middle] if wants_middle(school) else pool[~is_middle]
+    return len(pool)
+
+
+def _bare_key(key: str) -> str:
+    """'salem high' and 'salem' are the same school name (NCES often drops 'School')."""
+    return re.sub(r"\s+(high|middle|junior high)$", "", key).strip()
+
+
+def _same_city(a: str, b: str) -> bool:
+    """'Laporte' ~ 'La Porte'; 'Niceville' ~ 'Niceville High School' (a city column that
+    carries the school name)."""
+    x, y = (re.sub(r"[^a-z]", "", s.lower()) for s in (a, b))
+    return bool(x and y) and (x in y or y in x)
+
+
+def ambiguity(row: dict, pick: dict, nces) -> str:
+    """Reason to refuse a pick, or ''. The pick is only trusted when NCES knows
+    exactly one school of that name in the state, or the cities agree. A county or
+    township in the panel is not a city and settles nothing."""
+    state = row.get("state") or pick.get("state") or ""
+    n = same_name_in_state(row["school"], state, nces)
+    city = (row.get("city") or "").strip()
+    pcity = (pick.get("city") or "").strip()
+    if n == 1:
+        return ""
+    if city and pcity and not _same_city(city, pcity):
+        where = "a county/township" if re.search(r"\b(county|township|parish)$", pcity, re.I) else pcity
+        return (f"Google knowledge panel is in {where}, not {city}, and {n or 'no'} NCES schools "
+                f"carry this name in {state}; not used")
+    if not city and n > 1:
+        return f"ambiguous: {n} NCES schools named '{row['school']}' in {state}; site not used"
+    return ""
+
+
 def resolve_row(row: dict, nces, dry_run: bool = False) -> str:
     """Fill what can be filled; return a one-word outcome for the log."""
     if not row.get("state") and nces is not None:
@@ -204,9 +257,20 @@ def resolve_row(row: dict, nces, dry_run: bool = False) -> str:
         return "uncached"
     payload = serpapi.search("google", q, num=10)
     pick = pick_site(payload, row["school"], row.get("state", ""))
+    if pick and pick["via"] != "band_site":
+        why = ambiguity(row, pick, nces)
+        if why:
+            _note(row, f"search: {why}")
+            return "ambiguous"
     if not pick:
         _note(row, "search: no school site found")
         return "none"
+    if pick["via"] == "band_site":
+        if not row.get("band_url"):
+            row["band_url"] = pick["band_url"]
+            _add_source(row, pick["band_url"])
+        _note(row, pick["note"])
+        return "band_site"
     row["school_url"] = pick["website"]
     _add_source(row, pick["website"])
     _note(row, pick["note"])

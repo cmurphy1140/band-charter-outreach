@@ -46,6 +46,45 @@ def test_organic_result_needs_a_school_domain_and_a_matching_title():
     assert pick and pick["website"] == "https://vrhs.leanderisd.org/"
 
 
+def test_stateless_rows_take_only_a_panel_and_articles_and_band_sites_are_not_school_sites():
+    organic = {"organic_results": [
+        {"title": "Colony High School", "link": "https://cohs.cjuhsd.net/"}]}
+    assert sf.pick_site(organic, "Colony High School") is None          # no state: could be AK or CA
+    article = {"organic_results": [
+        {"title": "Gadsden Band Cross reunites after three-decade hiatus",
+         "link": "https://www.gadsdentimes.com/story/entertainment/local/2018/01/30/gadsden-band/153"}]}
+    assert sf.pick_site(article, "Gadsden Band", state="AL") is None
+    band = {"organic_results": [
+        {"title": "Dublin Coffman Band", "link": "https://www.dublincoffmanband.org/"}]}
+    pick = sf.pick_site(band, "Dublin Coffman Band", state="OH")
+    assert pick and pick["via"] == "band_site" and pick["band_url"] == "https://www.dublincoffmanband.org/"
+    assert pick["website"] == ""
+    football = {"organic_results": [
+        {"title": "Southlake Carroll High School - Dragons Football", "link": "https://www.carrolldragonfb.com/"}]}
+    assert sf.pick_site(football, "Southlake Carroll High School", state="TX") is None
+
+
+def test_same_named_schools_in_a_state_block_a_pick_without_a_city():
+    import pandas as pd
+    nces = pd.DataFrame([
+        {"state": "VA", "key": "salem high", "level": "High", "city": "SALEM"},      # NCES: "Salem High"
+        {"state": "VA", "key": "salem", "level": "High", "city": "VIRGINIA BEACH"},
+        {"state": "TX", "key": "vandegrift", "level": "High", "city": "AUSTIN"},
+    ])
+    pick = {"website": "http://salemhs.vbschools.com/", "city": "", "state": "", "via": "organic"}
+    assert sf.ambiguity({"school": "Salem High School", "state": "VA", "city": ""}, pick, nces).startswith("ambiguous")
+    assert sf.ambiguity({"school": "Salem High School", "state": "VA", "city": "Salem"}, pick, nces) == ""
+    panel = {"website": "x", "city": "Virginia Beach", "state": "VA", "via": "knowledge_graph"}
+    assert "not Salem" in sf.ambiguity({"school": "Salem High School", "state": "VA", "city": "Salem"}, panel, nces)
+    # One school of that name in the state: the panel's district town does not matter.
+    leander = {"website": "x", "city": "Leander", "state": "TX", "via": "knowledge_graph"}
+    assert sf.ambiguity({"school": "Vandegrift High School", "state": "TX", "city": "Austin"}, leander, nces) == ""
+    # Unknown to NCES and the panel names a county: nothing confirms it.
+    county = {"website": "x", "city": "Harris County", "state": "TX", "via": "knowledge_graph"}
+    assert "county" in sf.ambiguity({"school": "Bridgeland High School", "state": "TX", "city": "Cypress"}, county, nces)
+    assert sf._same_city("Laporte", "La Porte") and sf._same_city("Niceville High School", "Niceville")
+
+
 def test_name_matching_tolerates_magnet_and_hs_variants():
     assert sf.name_matches("Southeast Raleigh Magnet High School", "Southeast Raleigh High School")
     assert sf.name_matches("Dobyns-Bennett HS", "Dobyns-Bennett High School")

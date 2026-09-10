@@ -77,7 +77,32 @@ real article URL; a body fetch would need each outlet's robots.txt honoured and
 would add "selected for" and "fundraising for" wording); add phrases per parade
 that name the local outlet; run the pull each November when coverage peaks.
 
+### SerpAPI website fallback (run 2026-09-10)
+
+`scripts/search_fallback.py` sent one Google search per school without a
+website (138 rows, 138 searches; total SerpAPI use this month 164 of 250).
+
+| Outcome | Rows | Rule |
+|---|---|---|
+| Google knowledge panel | 58 | panel title is the school, type says school, and either NCES knows exactly one school of that name in the state or the panel's city matches the row's |
+| Organic school-domain result | 3 | k12/isd/schools-style domain or the school's own word starting a host label, shallow path, title names the school; never for a stateless row |
+| NCES exact national match | 2 | stateless row whose exact name exists once nationwide (fills state too) |
+| Band program site | 2 | domain says "band": goes to `band_url`, not `school_url` |
+| Refused as ambiguous | 3 | Robert E. Lee (Midland): panel was the Baytown school; Salem (VA): two in the state, no city; Olentangy Orange: NCES has no such high school and the panel gives a county |
+| Nothing acceptable | 70 | mostly nickname rows ("Pride of Portage Marching Band") and stateless common names |
+
+Things the rules deliberately refused, with the evidence that they were right to:
+a dictionary page for "Vista Ridge" (the word "ridge" inside cambridge.org), a
+Gadsden Times article for "Gadsden Band", a football site for Southlake Carroll,
+and nine same-named schools (Liberty, Summit, Colony, Concord...) that Google
+returned for rows with no state.
+
 ## Data-quality hurdles inside the pipeline
+
+- **NCES prefix boost can pick a parent-named school.** "Olentangy Orange High
+  School" was matched to "Olentangy High School" (0.92) because NCES has no
+  record under the Orange name; the district/enrollment on that row may belong
+  to the other school. A QA pass should re-check every prefix-boosted match.
 
 - **Band nicknames stand in for school names.** Sources such as Hollywood and
   Philadelphia list "Oak Park Marching Northmen" or "Klein Forest Golden Eagle
@@ -98,9 +123,10 @@ that name the local outlet; run the pull each November when coverage peaks.
 1. Save the four blocked pages manually and re-run `make scrape` (unblocks Macy's,
    Rose press, Chicago).
 2. Approve `pypdf` and parse BOA regional finals recaps.
-3. Approve a search fallback for schools with no NCES website.
+3. Done: search fallback (`scripts/search_fallback.py`, SerpAPI).
 4. Add a headless-browser fetch for school sites that block plain requests.
-5. Fill state for the 41 stateless Hollywood rows (manual or search-assisted).
+5. Fill state for the 43 stateless rows: manual, since search cannot place a
+   common name or a nickname without guessing.
 6. Extract member schools from combined/honor-band rows in `excluded.csv`.
 7. Clean nickname fragments out of the `city` column at merge time.
 8. Copy `workflows/refresh.yml` into `.github/workflows/` from a normal git client.
