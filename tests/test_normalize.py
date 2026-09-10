@@ -38,6 +38,13 @@ def test_exclusions():
     assert exclusion_reason("Jenks High School") == ""
     assert exclusion_reason("Lincoln Middle School") == ""          # middle schools are prospects
     assert exclusion_reason("Gadsden Elementary School") == "elementary/primary school"
+    # Hollywood lists dance, cheer and music-school units next to the bands.
+    assert exclusion_reason("GevorkianDance Academy", "The GevorkianDance Academy") == "dance/cheer/music-school unit, not a school band"
+    assert exclusion_reason("Van Nuys High School", "Van Nuys High School Cheer") == "dance/cheer/music-school unit, not a school band"
+    assert exclusion_reason("Sonata Music School", "Sonata Music School Dhol Class") != ""
+    assert exclusion_reason("LA Catholic School", "LA Catholic School Marching Band") == "all-star/honor/all-district band"
+    assert exclusion_reason("Van Nuys High School", "Van Nuys High School Marching Band") == ""
+    assert exclusion_reason("Compton High School", "Compton High School Band and Attachment") == ""
     from scrapers.exclusions import level_from_name
     assert level_from_name("Lincoln Middle School") == "Middle"
     assert level_from_name("Allen High School") == ""

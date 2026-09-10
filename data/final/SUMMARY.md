@@ -2,18 +2,18 @@
 
 _Generated 2026-09-10 from `data/final/prospects.csv`._
 
-- **214 schools** (Tier A 50, Tier B 100, Tier C 64)
-- 2 with a published director email; 212 with no contact found
+- **206 schools** (Tier A 50, Tier B 100, Tier C 56)
+- 2 with a published director email; 204 with no contact found
 
 ## By state
 
 | State | Schools |
 |---|---|
-| unknown | 36 |
+| unknown | 37 |
 | TX | 30 |
-| IN | 23 |
-| CA | 16 |
-| GA | 15 |
+| IN | 21 |
+| CA | 14 |
+| GA | 12 |
 | OH | 12 |
 | AL | 8 |
 | FL | 7 |
@@ -25,8 +25,8 @@ _Generated 2026-09-10 from `data/final/prospects.csv`._
 | SC | 4 |
 | TN | 4 |
 | WI | 4 |
-| CO | 3 |
 | IL | 3 |
+| CO | 2 |
 | IA | 2 |
 | MI | 2 |
 | MO | 2 |
@@ -38,7 +38,6 @@ _Generated 2026-09-10 from `data/final/prospects.csv`._
 | KS | 1 |
 | LA | 1 |
 | MN | 1 |
-| NC | 1 |
 | NH | 1 |
 | NV | 1 |
 | NY | 1 |
@@ -54,7 +53,7 @@ _Generated 2026-09-10 from `data/final/prospects.csv`._
 | Rose | 100 |
 | BOA Grand National Finalist | 84 |
 | Philadelphia | 82 |
-| Hollywood | 41 |
+| Hollywood | 33 |
 | Macy's | 7 |
 | H-E-B Houston | 6 |
 | Raleigh Christmas Parade | 2 |
@@ -128,7 +127,7 @@ booster site. These schools need a manual lookup:
 | Franklin High School | TN | A | http://www.wcs.edu | https://infocus.wcs.edu/infocus-photos-template/~board/infocus-photos/post/student-musicians-unite-for-orchestra-camp |
 | O'Fallon Township High School | IL | A | http://www.oths.us | http://www.oths.us/academics/music |
 | Bentonville High School | AR | A | http://#www.bentonvillek12.org# |  |
-| Cherry Creek High School | CO | A | http://cherrycreek.cherrycreekschools.org/ |  |
+| Cherry Creek High School | ? | A |  |  |
 | Foothill High School | NV | A | http://www.foothillhenderson.com | http://www.foothillhenderson.com |
 | Greendale High School | WI | A | http://www.greendaleschools.org |  |
 | Homestead High School | CA | A | https://hhs.fuhsd.org/ | https://hhs.fuhsd.org/ |
@@ -141,11 +140,10 @@ booster site. These schools need a manual lookup:
 | Santiago High School | CA | A | http://santiago.cnusd.k12.ca.us | http://santiago.cnusd.k12.ca.us/academics/performing_arts |
 | Brookwood High School | GA | A | http://www.brookwoodhighschool.net/index2.jsp |  |
 | Pebble Hills High School | TX | A | http://www.sisd.net |  |
-| South Paulding High School | GA | A | https://www.paulding.k12.ga.us/ |  |
 | Timber Creek High School | TX | A | http://www.kellerisd.net | http://www.kellerisd.net/students-families/fine-arts/band |
 | Castle High School | IN | A | https://castle.warrick.k12.in.us/ | https://castle.warrick.k12.in.us/performing-arts |
 | Riverview High School | FL | A | http://www.sarasotacountyschools.net/riverview |  |
-| Byrnes High School | ? | B |  |  |
+| Byrnes High School | ? | A |  |  |
 | Clovis High School | CA | B | http://chs.cusd.com/ | http://chs.cusd.com/instrumentalmusic |
 | Colony High School | ? | B |  |  |
 | Concord High School | ? | B |  |  |
@@ -154,35 +152,26 @@ booster site. These schools need a manual lookup:
 | Glendora High School | CA | B | http://www.glendora.k12.ca.us/ |  |
 | Greenwood High School | ? | B |  |  |
 | John H. Castle High School | IN | B |  |  |
-| LA Catholic School | ? | B |  |  |
-| Los Angeles Catholic School | ? | B |  |  |
 | Northview High School | ? | B |  |  |
-| Perez Dance and Tumbling Academy | ? | B |  |  |
 | Salesians of Don Bosco High School | ? | B |  |  |
 | Segunda Unidad Macaná Marching Band | ? | B |  |  |
-| Sonata Music School | ? | B |  |  |
 | The Washington Union Marching Band of Fresno California | ? | B |  |  |
-| Van Nuys High School | CA | B | http://vannuyshs.lausd.org/ |  |
 | Westlake High School | ? | B |  |  |
 | Kingsway Regional High School | NJ | B | http://www.krsd.org |  |
 | Mira Mesa High School | CA | B | http://www.miramesa.sandiegounified.org/ | http://www.miramesa.sandiegounified.org/students/band |
 | Bridgeland High School | TX | B | http://cfisd.net/bridgeland |  |
-| California Springs School | ? | B |  |  |
 | Catalina Foothills High School | AZ | B | http://cfhs.cfsd16.org | http://cfhs.cfsd16.org/band |
 | Compton High School | ? | B |  |  |
 | Dripping Springs High School | TX | B | http://www.dsisd.txed.net |  |
-| GevorkianDance Academy | ? | B |  |  |
 | Northwoods Marching Band | WI | B |  |  |
-| Origin Hip Hop Academy | ? | B |  |  |
 | Pella Community School | IA | B | http://www.pellaschools.org/schools/high-school/ | https://www.pellaschools.org/schools/high-school/staff/fine-arts/ |
 | Rockford High School | MI | B | http://www.rockfordschools.org |  |
+| South Paulding High School | ? | B |  |  |
 | Claudia Taylor Johnson High School | TX | B |  | https://www.johnsonjaguarband.com/ |
 | Olentangy Orange High School | OH | B |  |  |
 | American Fork High School | UT | B | http://www.afhs.alpine.k12.ut.us/ |  |
-| Concord Community High School | IN | B |  |  |
+| Concord Community High School | ? | B |  |  |
 | Downingtown High School | PA | B |  |  |
-| East Coweta High School | GA | B | http://cowetaschools.org |  |
-| Habersham Central High School | GA | B | http://www.habershamschools.com |  |
 | Keller High School | TX | B | http://www.kellerisd.net | http://www.kellerisd.net/students-families/fine-arts/band |
 | Klein Forest Golden Eagle Marching Band | TX | B |  |  |
 | Lassiter High School | GA | B | http://www.cobbk12.org/lassiter | http://www.cobbk12.org/lassiter/band |
@@ -200,10 +189,9 @@ booster site. These schools need a manual lookup:
 | Westbury High School | TX | B | http://www.houstonisd.org | http://www.houstonisd.org/schools-academics/extracurricular-activities-uil/uil-music |
 | East Hills Middle School | PA | B | https://basdwpweb.beth.k12.pa.us/easthills/ |  |
 | Greenwood Marching Woodmen & Irish Guard – Greenwood, Indiana | ? | B |  |  |
-| Mira Costa High School | CA | B | https://www.miracostahigh.org/ |  |
+| Mira Costa High School | ? | B |  |  |
 | Robert E. Hendrickson High School | TX | B |  |  |
 | Robert E. Lee High School | TX | B |  |  |
-| Southeast Raleigh High School | NC | B | https://southeastraleighhs.wcpss.net/ |  |
 | Southlake Carroll High School | TX | B |  |  |
 | The Pride of Pearland Marching Band | TX | B |  |  |
 | West Harrison High School | MS | B | http://www.harrison.k12.ms.us/home/westharrisonhigh.aspx |  |
@@ -218,10 +206,12 @@ booster site. These schools need a manual lookup:
 | Carrollton High School | ? | B |  |  |
 | Crestview High School | FL | B | https://www.okaloosaschools.com/o/crestview |  |
 | Cypress High School | CA | B | http://cypress.auhsd.us |  |
+| East Coweta High School | ? | B |  |  |
 | Etiwanda High School | CA | B | https://ehs.cjuhsd.net/ |  |
 | Franklin Regional High School | PA | B | http://highschool.frsdk12.org/ |  |
 | Grove City High School | OH | B | https://gchs.swcsd.us/ |  |
 | Gulf Coast High School | FL | B | http://www.collierschools.com/gch |  |
+| Habersham Central High School | ? | B |  |  |
 | Henry J. Kaiser High School | CA | B | http://www.fusd.net |  |
 | Kamehameha Schools Kapalama Warrior Marching Band & Color Guard | HI | B |  |  |
 | Lakota West High School | OH | B | https://westhigh.lakotaonline.com/ | https://westhigh.lakotaonline.com/ |
@@ -244,17 +234,17 @@ booster site. These schools need a manual lookup:
 | Salem High School | VA | B |  |  |
 | Saratoga High School | CA | B | http://www.saratogahigh.org | https://www.saratogamusicboosters.org/ |
 | Summit High School | ? | B |  |  |
-| Temple City High School | CA | C | https://tchs.tcusd.net/ | https://tchs.tcusd.net/242065_2 |
-| The Pride of Owasso | OK | C |  |  |
-| Westlake High School | UT | C | http://westlake.alpinedistrict.org/ |  |
-| A.I. DuPont High School | DE | C |  |  |
-| Biloxi High School | MS | C | http://www.biloxischools.net |  |
-| Bainbridge High School | GA | C | http://bhs.boe.dcboe.com/ |  |
-| Brooks High School | AL | C | http://www.lcschools.org |  |
-| Brunswick Marching Pirates | GA | C |  |  |
-| Clearview Regional High School | NJ | C | http://hs.clearviewregional.edu |  |
+| Temple City High School | CA | B | https://tchs.tcusd.net/ | https://tchs.tcusd.net/242065_2 |
+| The Pride of Owasso | OK | B |  |  |
+| Westlake High School | UT | B | http://westlake.alpinedistrict.org/ |  |
+| A.I. DuPont High School | DE | B |  |  |
+| Biloxi High School | MS | B | http://www.biloxischools.net |  |
+| Bainbridge High School | GA | B | http://bhs.boe.dcboe.com/ |  |
+| Brooks High School | AL | B | http://www.lcschools.org |  |
+| Brunswick Marching Pirates | GA | B |  |  |
+| Clearview Regional High School | NJ | B | http://hs.clearviewregional.edu |  |
 | Colquitt County High School | GA | C | http://colquitt.k12.ga.us/cchs/ |  |
-| Decatur Central High School | IN | C | https://www.decaturproud.org/central-high |  |
+| Decatur Central High School | ? | C |  |  |
 | Guntersville High School | AL | C | http://www.guntersville-high.com |  |
 | Huntsville High School | AL | C | http://www.huntsvillecityschools.org |  |
 | Jasper High School | IN | C | https://jhs.gjcs.k12.in.us/ |  |
@@ -269,6 +259,7 @@ booster site. These schools need a manual lookup:
 | Reynoldsburg Raider Marching Band | OH | C |  |  |
 | Rome High School | GA | C | http://www.rcs.rome.ga.us |  |
 | Smiths Station High School | AL | C | http://www.lee.k12.al.us |  |
+| Southeast Raleigh High School | ? | C |  |  |
 | Vandegrift High School | TX | C | http://vhs.leanderisd.org/ |  |
 | Wayne County High School | GA | C | http://www.wayne.k12.ga.us |  |
 | White Knoll High School | SC | C |  |  |
