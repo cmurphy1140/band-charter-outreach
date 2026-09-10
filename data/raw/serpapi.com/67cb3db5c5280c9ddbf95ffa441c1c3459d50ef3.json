@@ -1,0 +1,417 @@
+{
+ "search_information": {
+  "query_displayed": "\"Jasper High School\" Indiana",
+  "total_results": 61100,
+  "time_taken_displayed": 0.71,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Jasper High School",
+  "type": "Public school in Jasper, Indiana",
+  "entity_type": "local_nav",
+  "kgmid": "/m/03d0nd5",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/03d0nd5&hl=en-US&q=Jasper+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F03d0nd5&q=Jasper+High+School",
+  "place_id": "ChIJccMwMqhjbogRk80QA11oa1M",
+  "website": "https://jhs.gjcs.k12.in.us/",
+  "description": "Jasper High School is a public high school located in Jasper, Indiana, United States. It serves grades 9 through 12, and is one of five high schools in the Greater Jasper Consolidated Schools district. The principal is Geoff Mauck. JHS has an enrollment of approximately 1,050 students.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa30ea5f3fc7bbdf8d16914/images/W_xcP4KlVhXnBS1WKh1eCVuXItEULER4MOKzzZIY51o.webp",
+   "link": "https://www.google.com/maps/place/Jasper+High+School/data=!4m2!3m1!1s0x0:0x536b685d0310cd93?sa=X&ved=2ahUKEwiXjKX56OSWAxWVnP0HHW48A-0Q_BJ6BAgQEAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Jasper_High_School_(Indiana)"
+  },
+  "address": "1600 St Charles St, Jasper, IN 47546",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQns5JZLVFsUevkZMcYLn5uHfAhiX3Q:1789071029003&q=jasper+high+school+indiana+address&ludocid=6011012876348738963&sa=X&ved=2ahUKEwiXjKX56OSWAxWVnP0HHW48A-0Q6BN6BAghEAI"
+   }
+  ],
+  "school_types": "Secondary school, High school, State school, Public school",
+  "school_types_links": [
+   {
+    "text": "Secondary school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQns5JZLVFsUevkZMcYLn5uHfAhiX3Q:1789071029003&q=Secondary+school&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67-Rsa99rK7fwEET42kD4ZCjF8QRrSgNUVBuomcnHhCbBYOAtzIHniilZ6q-VIW5zaAD4pksrKiK2fS6FxsBThjIPEi-5kk0kleX3bugH-5OAU9FZjkBvgMf84cLgnM7souu409YfI6VCEiWT11XDxI2Opaeudm5FENXrWwTjvH_0s3OSvmSK3P4WUQaf63uc_dLyMqyhu2sdNuk2aHjxMgd96tBgk0aIN6TlYNW7SAc3xb1cT7nP4vWOQ_FWi0pEg-FjsxM%3D&sa=X&ved=2ahUKEwiXjKX56OSWAxWVnP0HHW48A-0QmxN6BAggEAI"
+   },
+   {
+    "text": "High school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQns5JZLVFsUevkZMcYLn5uHfAhiX3Q:1789071029003&q=High+school&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMppXfNh-OkLk_azmU0uk1AX8sk8s1-2uDG13xvljBKYj-62BC653CUwqsnPBoRGsmoAhp8N1FFUjPXYR75tXwHhUXWv8UBnIL4TF0z5QyYwume_nmN40eKHU4qABUxWtxlpp5QZYGNhE-fXbE2CaXmCtuJ2RwqsLhCZ3ZA5Pbyxckf7FwwGy9z0g_1h_hZ7RtJ8_3hxQyyU5biIfPs9VyFGGqv-Oajk1K2xoSenmvqVszSjjuoWYGsxp0EYHymouHU-qpyqU%3D&sa=X&ved=2ahUKEwiXjKX56OSWAxWVnP0HHW48A-0QmxN6BAggEAM"
+   },
+   {
+    "text": "State school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQns5JZLVFsUevkZMcYLn5uHfAhiX3Q:1789071029003&q=State+school&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ybGtCxI0H8z2nV80srIO5hizwNtt3Ym6Fi28M6pFzMpba6xCjNFIQKbDb7W_yOsUKzHP6t0BoDIq84DgtktiHBvFqPDhCTDRJvE6JLQvR7EaaQ3QG_lld9eIvZISVXHb4SLUithQmCmSZC-ZeuDALxF2g7AFTFp85vUDJBiF9DDoWwIwloASnjyyMKdNEYHzO7R786UknisSX4I4rpmSiWTpL1aKIWfFMuOqe4JJG98E-i6SlstWru-_kyjzBuGxmTi-vjw%3D&sa=X&ved=2ahUKEwiXjKX56OSWAxWVnP0HHW48A-0QmxN6BAggEAQ"
+   },
+   {
+    "text": "Public school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQns5JZLVFsUevkZMcYLn5uHfAhiX3Q:1789071029003&q=Public+school&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpnRjecyiHCyfvh60pbD8ck56NaVb1rRy5mFUEfV53q25U5z4WHsBgSa_e0unuhy-ayBk7Zd2jqvKjlt1IkxJQTjLlr10sRb8WFIeYWfbJ_KmE65LbWDf_7SOiIe8KxtOzjJPu35NPrsqXpn_ie5PD3mGFiUdIN05oL9Tuh5qZ4pt-7_VQU_Lws8r3kbDYRBbxXhln55aALiwAnSls2ZcU-nGJ6NH393yWZjzEi20QxAWdpkeLnjElhnHf_2aXX7JA2ecOh8%3D&sa=X&ved=2ahUKEwiXjKX56OSWAxWVnP0HHW48A-0QmxN6BAggEAU"
+   }
+  ],
+  "district": "Greater Jasper Consolidated Schools",
+  "district_links": [
+   {
+    "text": "Greater Jasper Consolidated Schools",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQns5JZLVFsUevkZMcYLn5uHfAhiX3Q:1789071029003&q=Greater+Jasper+Consolidated+Schools&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0RDtIbolQbhA6S6R-63q6Zgx28PkcqhtS8DPH3_GLcFkDgbH61cLA_D8z56fvhQ_52gg-UoRwHtf9nF6T9n5h7LO3GZugGC3NDxNrGP668RrsSRRNWK8eR9Irzb1ey5ETtUpDzB945JET3f5S05JVKOo_HepRfNu6UG4yN_FnuoeoTI9Jd0Y8W1bI9Cc2ZdnhkIOpKQ%3D&sa=X&ved=2ahUKEwiXjKX56OSWAxWVnP0HHW48A-0QmxN6BAgkEAI"
+   }
+  ],
+  "phone": "(812) 482-6050",
+  "unclaimed_listing": true,
+  "people_also_search_for": [
+   {
+    "name": "Jasper",
+    "image": "https://serpapi.com/searches/6aa30ea5f3fc7bbdf8d16914/images/W_xcP4KlVhXnBS1WKh1eCU4YAbQ9sQOMV45OGp37ebRERV7Nr1RW3Rv6-5vi5EzZ.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQns5JZLVFsUevkZMcYLn5uHfAhiX3Q:1789071029003&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpgmg2hhK3qVS8IY7x3DOhj9jKTLsHi8ZIJgJHQ3_ov3eBpvyK76gXOaAvVJ5Ym3FVJqjzCwVif4w24vTdBwsjmfV7JVJM3Ons2OyUs-gXFsymJmweyK__7V-LXlv1oyV9xJXcq8Ctmnr42VjAwKIqsJvTiTdgXS53qGMsXGHpjLfOTPdQNDeQEa-Jk4zbgoiMb1bhTbSVrJNWOEUkqAr6_7J-8OcHHKBi7Qq5yvxB96x2S-yo5G8n8WnoqWQyTilZL3GddI%3D&q=Jasper,+Indiana&sa=X&ved=2ahUKEwiXjKX56OSWAxWVnP0HHW48A-0Qs9oBKAB6BAgeEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Jasper%2C+Indiana&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpgmg2hhK3qVS8IY7x3DOhj9jKTLsHi8ZIJgJHQ3_ov3eBpvyK76gXOaAvVJ5Ym3FVJqjzCwVif4w24vTdBwsjmfV7JVJM3Ons2OyUs-gXFsymJmweyK__7V-LXlv1oyV9xJXcq8Ctmnr42VjAwKIqsJvTiTdgXS53qGMsXGHpjLfOTPdQNDeQEa-Jk4zbgoiMb1bhTbSVrJNWOEUkqAr6_7J-8OcHHKBi7Qq5yvxB96x2S-yo5G8n8WnoqWQyTilZL3GddI%3D"
+   },
+   {
+    "name": "Castle High School",
+    "image": "https://serpapi.com/searches/6aa30ea5f3fc7bbdf8d16914/images/W_xcP4KlVhXnBS1WKh1eCU4YAbQ9sQOMV45OGp37ebSvFK3RIZ9WXFrBSSge6sUB.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQns5JZLVFsUevkZMcYLn5uHfAhiX3Q:1789071029003&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW678DW4o0hsyISWCK5HCnyH4oQ8WnWdEnKPElmbcpgTHPkVORLMuvNOg9LyLSGIiFyGSWe-HirV9duB8ndvr5M-UfM96CeLKG1TkKf-Fldrx1DBO5Iw2ULc-7LuAazyTzSAiIgjiBRnlflmnx1sdXysG6dGwGcsHQ1BSqPp9Y_tFqI3ySah8NZSWf6_3_FVFaOfooSPYiBuTgyNVAJCzX8SE35zSswya6IQ8HAi06Cs5UbkR1SToskNZ_HAr1HwcG4SwST6ZpCieTaos4cTi0LXVBExIz5&q=John+H.+Castle+High+School&sa=X&ved=2ahUKEwiXjKX56OSWAxWVnP0HHW48A-0Qs9oBKAB6BAgeEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=John+H.+Castle+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW678DW4o0hsyISWCK5HCnyH4oQ8WnWdEnKPElmbcpgTHPkVORLMuvNOg9LyLSGIiFyGSWe-HirV9duB8ndvr5M-UfM96CeLKG1TkKf-Fldrx1DBO5Iw2ULc-7LuAazyTzSAiIgjiBRnlflmnx1sdXysG6dGwGcsHQ1BSqPp9Y_tFqI3ySah8NZSWf6_3_FVFaOfooSPYiBuTgyNVAJCzX8SE35zSswya6IQ8HAi06Cs5UbkR1SToskNZ_HAr1HwcG4SwST6ZpCieTaos4cTi0LXVBExIz5"
+   },
+   {
+    "name": "Francis Joseph Reitz High School",
+    "image": "https://serpapi.com/searches/6aa30ea5f3fc7bbdf8d16914/images/W_xcP4KlVhXnBS1WKh1eCU4YAbQ9sQOMV45OGp37ebRj3qmTRQN7yN-TZelHxkMw.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQns5JZLVFsUevkZMcYLn5uHfAhiX3Q:1789071029003&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yYhKVfezvUfkfoyBBDMhwUITXRnsZQ1vFBkvqMBe0R4peR6MKH2Kn9bbzr0nzMCqSHnQlry1LgbIlpwIuxjGepmQXfpId7UwyrFJ-yq5hVYAkr1UeJJkhlBhII0LYjsf9q0q8fT9jsomiEstZ94t1tL8cvwZ2X40exAYqh1enjDOdRiz77x2_yS4byjPPN5n36Gs9rZWUYA4utK73FbZcgvuo3h_WtcHZaV16IM0k-av_vkVimQV2gO0pRiHvdXDNhPvt-Kf_R8J2nWyslhMf0sonGzj&q=FJ+Reitz+High+School&sa=X&ved=2ahUKEwiXjKX56OSWAxWVnP0HHW48A-0Qs9oBKAB6BAgeEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=FJ+Reitz+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yYhKVfezvUfkfoyBBDMhwUITXRnsZQ1vFBkvqMBe0R4peR6MKH2Kn9bbzr0nzMCqSHnQlry1LgbIlpwIuxjGepmQXfpId7UwyrFJ-yq5hVYAkr1UeJJkhlBhII0LYjsf9q0q8fT9jsomiEstZ94t1tL8cvwZ2X40exAYqh1enjDOdRiz77x2_yS4byjPPN5n36Gs9rZWUYA4utK73FbZcgvuo3h_WtcHZaV16IM0k-av_vkVimQV2gO0pRiHvdXDNhPvt-Kf_R8J2nWyslhMf0sonGzj"
+   },
+   {
+    "name": "Mater Dei High School",
+    "image": "https://serpapi.com/images/i/R0lGODlhAQABAIAAAP_______yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw.gif",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQns5JZLVFsUevkZMcYLn5uHfAhiX3Q:1789071029003&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yTjokL0G-Cil0kCX_D_CS-189BjlAPQY8Fjc-amsfC_IytUGBgFNcqX-Fz9y0kDvPaWUWJd0L6PCWqevbXJMwzRcHM1BnBiAKkiGorWB2I7Varo2r_cimjflx3dPvhQM0HYgYIH6aC0wHdHirc7OO-lKWTGZv7jShhUeWWYUMzKEDTxHYIhFDlniWCq8SDse_J3nYZbWGCYXOYOUp5zDAXXJvHXA8cGjuhX1Ia-D2Lr6IvlHfzJBvIMeV1VzUyhjNnGwederIN56R8xdBzm2Y8l58f6hMe2S5fNCjPcimLNFm5TRqQ%3D%3D&q=Mater+Dei+High+School+(Evansville,+Indiana)&sa=X&ved=2ahUKEwiXjKX56OSWAxWVnP0HHW48A-0Qs9oBKAB6BAgeEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mater+Dei+High+School+%28Evansville%2C+Indiana%29&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yTjokL0G-Cil0kCX_D_CS-189BjlAPQY8Fjc-amsfC_IytUGBgFNcqX-Fz9y0kDvPaWUWJd0L6PCWqevbXJMwzRcHM1BnBiAKkiGorWB2I7Varo2r_cimjflx3dPvhQM0HYgYIH6aC0wHdHirc7OO-lKWTGZv7jShhUeWWYUMzKEDTxHYIhFDlniWCq8SDse_J3nYZbWGCYXOYOUp5zDAXXJvHXA8cGjuhX1Ia-D2Lr6IvlHfzJBvIMeV1VzUyhjNnGwederIN56R8xdBzm2Y8l58f6hMe2S5fNCjPcimLNFm5TRqQ%3D%3D"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQns5JZLVFsUevkZMcYLn5uHfAhiX3Q:1789071029003&q=Jasper+High+School+(Indiana)&stick=H4sIAAAAAAAAAONgFuLSz9U3ME4xyEsxVUJiawkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axCrjlVhckFqk4JGZnqEQnJyRn5-joOGZl5KZmJeouYOV8RabJMMbh4rAXL6mziXhhodYtRdtjkgKtkkP-34cAFEOpkGEAAAA&sa=X&ved=2ahUKEwiXjKX56OSWAxWVnP0HHW48A-0QzO0BKAR6BAgeEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLSz9U3ME4xyEsxVUJiawkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axCrjlVhckFqk4JGZnqEQnJyRn5-joOGZl5KZmJeouYOV8RabJMMbh4rAXL6mziXhhodYtRdtjkgKtkkP-34cAFEOpkGEAAAA",
+  "profiles": [
+   {
+    "name": "YouTube",
+    "link": "https://www.youtube.com/channel/UCnM9inVfSCCxJ_irSo7d7Ig",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Jasper+High+School%22+Indiana",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAP1BMVEX_____z8__n5__kJD_gID_cHD_YGD_v7__39__ICD_AAD_r6__EBD_7-__oKD_MDD_QED_UFD_X1__j4__f396G04EAAAAhklEQVR4AeXQRQLDQAwDQC3bajj5_1dLYb63czYKf8VY50OcBO9swkyUB_SBkfJQlqOXeKJAz_FEQM9zVCqXInqRIy-RC9W-AJDypgCwyoGiV68LkLJFwX6CVJcr8nBwZJgLXMaDAs9RxsMcLE949IQnEnpoeKjEpC25o12OpVwkTURy_JQX1r4RC2S7kZYAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/jhsmediaorg/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Jasper+High+School%22+Indiana",
+    "image": "https://serpapi.com/searches/6aa30ea5f3fc7bbdf8d16914/images/W_xcP4KlVhXnBS1WKh1eCRiIludyk7qPS6z9o1joFe07Ihyh60LODnCy3HFiV1de.png"
+   },
+   {
+    "name": "X (Twitter)",
+    "link": "https://twitter.com/jasperwildcats",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Jasper+High+School%22+Indiana",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAABhUlEQVR4AczOA6xcARCF4X_us23btuLUQR3WZlhbQW3bto2gtm3b2J3GN4tY74uHh3okOi42Nj4AAUDwTvDEhisABCOAEAzYTBh0bN-lc5d0QgAhHPqX4Y4pkd367Zc-xMcXCPDg8TPwxeQH724Uj9N95GJ4pnHxby1xgCmV3v-GsFb7k0Iee7UjaQgmIYe9v9O4-wUKWaATyMPAViwvr1NnOQWDdTV5CHYSaKWLmaGDyvU4mTgQcllracaFr-9uk-yLM8k8fAJff0IUTghRVFu3M1ynkYk4nchiqqU3Ry05RDibMMhjtj6Ht3dJxVk_l1G64cspOusychBsCWm01WNM0jFs0sbEYUtIIuTXNco588OLh09JxE6wweuXEAvfL9PQus3-iU80N34KCaQyUOcxTTuSjEmMRI5rS9JwIZfD1t7ceo34YIpnuQ4nGwP8XXlq_fJZd9jE8KBHC5IwAELJ7dWrZ6fOuNhkgFgAEEIAwA1MQkw0AgDC_wnKycrKSQ2iPAkAVyNzq8rxicIAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/JasperHighSchool.Wildcats",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Jasper+High+School%22+Indiana",
+    "image": "https://serpapi.com/searches/6aa30ea5f3fc7bbdf8d16914/images/W_xcP4KlVhXnBS1WKh1eCWmSoffZrEu1FvIwCL-YHAxaGwKKqxlcedLl0q1FaM7O.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "How big is Jasper High School, Indiana?",
+   "type": "ai_overview",
+   "page_token": "jzi7hXicHdDdboIwGIDh7GZ2qOAPiyZmSRWYP9S10gLfyYLtlNkWiqKoZ7uXXdWuZmbnb56D9_tHf5Xq9-lSNI09jbvdtm07-6ra68-OqEw3P91K0RW51ttcqLH34rmvOzHxz3M0reeIMGv5jDqbxLrYXbhRQlegRgOhgnc-W8w_Q3LFZjRYp7DKXN3EDCLZs8BL0ogDJpmL620ZlCxAAHdyw29UPQyHx2goGdQQsr5U3MMOeJjjWcZOA97DTaKqG_XxMvHtDMKgzPt8StWjda5HXtopdXCQpRTxlPSk5grC0QFMU7Oe3ER-0a7D0Sb2gwEzwzPlOl0l-j1R8sRiHEbMUr-QDomhzlJkco6W_M6GMi4I7oONY0AYVV-E0bs4aMN92EUOvQgTTDdv0qOsMJGSnN4X5zwQ10yjA7TPO3GZ9J__f04-dqYZ22O1_wMF8oLK",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=jzi7hXicHdDdboIwGIDh7GZ2qOAPiyZmSRWYP9S10gLfyYLtlNkWiqKoZ7uXXdWuZmbnb56D9_tHf5Xq9-lSNI09jbvdtm07-6ra68-OqEw3P91K0RW51ttcqLH34rmvOzHxz3M0reeIMGv5jDqbxLrYXbhRQlegRgOhgnc-W8w_Q3LFZjRYp7DKXN3EDCLZs8BL0ogDJpmL620ZlCxAAHdyw29UPQyHx2goGdQQsr5U3MMOeJjjWcZOA97DTaKqG_XxMvHtDMKgzPt8StWjda5HXtopdXCQpRTxlPSk5grC0QFMU7Oe3ER-0a7D0Sb2gwEzwzPlOl0l-j1R8sRiHEbMUr-QDomhzlJkco6W_M6GMi4I7oONY0AYVV-E0bs4aMN92EUOvQgTTDdv0qOsMJGSnN4X5zwQ10yjA7TPO3GZ9J__f04-dqYZ22O1_wMF8oLK",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFIZGhOVmRLZWxCYVZEaHNiMVZHT0d0R2FUSm1ibmhCU1VFMVVVdHBOVlJJVkZCbmRYRkhOQzExVFdoS2MwUnNZbVpvZGtkU00ycElhWEpYVjJzdFJGWm9ORkkwTTI1M05GSjZWRFZLUjJSNmNFRkRZbUl6T1dOU1FSSVhkRUUyYW1Gd1ptbFFTbGMxT1hVNFVEZDJhVTAyUVRRYUlrRkVjM0k1WmxOaVIxWndOazQyYkUwNGRrWklWMmhVZDIxTlN6RTBXREIzWWxFIiwiZmN2IjoiMyIsImVpIjoidEE2amFwZmlQSlc1OXU4UDd2aU02QTQiLCJxYyI6IkNocHFZWE53WlhJZ2FHbG5hQ0J6WTJodmIyd2dhVzVrYVdGdVlSQUFmYUtYT2o4IiwicXVlc3Rpb24iOiJIb3cgYmlnIGlzIEphc3BlciBIaWdoIFNjaG9vbCwgSW5kaWFuYT8iLCJsayI6IkdpVm9iM2NnWW1sbklHbHpJR3BoYzNCbGNpQm9hV2RvSUhOamFHOXZiQ0JwYm1ScFlXNWgiLCJicyI6ImMyMlFNUS1DTUJDRjQ5ckp1WU01TllZRlRXUjFZQlFkZFhBa1Ixdm9DYmFra1BEM0ZVRUI0XzY5ZDk4N2RtRmVaQnRJS0FPcTRJeFZxUnhFbEdtNENtMXQ0Y1BKU0VLRFllRHhqUjdRZTRmcUZxM2VLRkJIc2lOYjNqVFdvOEstQTNKakd3T3BkV0d3NHREMFVGOUZ2eENMMmZaVFZHc0Y2ejA0TkxtU1k4RlhiRkRjY2JfNUc1aHFmazFqZGhnZmNDZ0lDMEFqUWRYYWtJREVLY3hsNjJQVGZzem9JOEFYVWoxczVyRFVKS3FXbVc2Wno1NCIsImlkIjoiZmNfdEE2amFwZmlQSlc1OXU4UDd2aU02QTRfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFIZGhOVmRLZWxCYVZEaHNiMVZHT0d0R2FUSm1ibmhCU1VFMVVVdHBOVlJJVkZCbmRYRkhOQzExVFdoS2MwUnNZbVpvZGtkU00ycElhWEpYVjJzdFJGWm9ORkkwTTI1M05GSjZWRFZLUjJSNmNFRkRZbUl6T1dOU1FSSVhkRUUyYW1Gd1ptbFFTbGMxT1hVNFVEZDJhVTAyUVRRYUlrRkVjM0k1WmxOaVIxWndOazQyYkUwNGRrWklWMmhVZDIxTlN6RTBXREIzWWxFIiwiZmN2IjoiMyIsImVpIjoidEE2amFwZmlQSlc1OXU4UDd2aU02QTQiLCJxYyI6IkNocHFZWE53WlhJZ2FHbG5hQ0J6WTJodmIyd2dhVzVrYVdGdVlSQUFmYUtYT2o4IiwicXVlc3Rpb24iOiJIb3cgYmlnIGlzIEphc3BlciBIaWdoIFNjaG9vbCwgSW5kaWFuYT8iLCJsayI6IkdpVm9iM2NnWW1sbklHbHpJR3BoYzNCbGNpQm9hV2RvSUhOamFHOXZiQ0JwYm1ScFlXNWgiLCJicyI6ImMyMlFNUS1DTUJDRjQ5ckp1WU01TllZRlRXUjFZQlFkZFhBa1Ixdm9DYmFra1BEM0ZVRUI0XzY5ZDk4N2RtRmVaQnRJS0FPcTRJeFZxUnhFbEdtNENtMXQ0Y1BKU0VLRFllRHhqUjdRZTRmcUZxM2VLRkJIc2lOYjNqVFdvOEstQTNKakd3T3BkV0d3NHREMFVGOUZ2eENMMmZaVFZHc0Y2ejA0TkxtU1k4RlhiRkRjY2JfNUc1aHFmazFqZGhnZmNDZ0lDMEFqUWRYYWtJREVLY3hsNjJQVGZzem9JOEFYVWoxczVyRFVKS3FXbVc2Wno1NCIsImlkIjoiZmNfdEE2amFwZmlQSlc1OXU4UDd2aU02QTRfNSJ9"
+  },
+  {
+   "question": "What is Jasper Indiana known for?",
+   "type": "ai_overview",
+   "page_token": "vOH4t3icHdBNbqMwAEBhzWWybIwZMiJSNJITHNJOiOz4B7wZgU2gYMBtmNCym7v0VD1Noy7f8nv_P-xz337-uNXj6K7r5XKapodqGCpbPuihW-bX914vdW5tket2vfq18n5f9Cb6d0DblwMi3Dmxo-DsucwAEkiMGgoqeMRilbcjOfGxFi3mpbU9aQQ6A2N5NAXKr4lqzU8pwluB6WOeJi1lND82RpQYRUWMp9KGcQrDUw4rKJk9F3E9M4F8jd1WRg6LSMxJr54yZi_Uc42MlRQw3LNdFmRMzQSMreAJUzLgZ3n0xQ6_FtAJAzKQSW9bMnXlPNwfZ_J278e7saHQxEns-qi-a5h6yVLU5QI9iZkHhtUk8ZVjTKEEDc-E01k3thN7ACkwxHTK3X90f_jb-ynVsIAYE79OU4_7Zlpc9G3jL75_bv5eunHtXofqCymBgc8",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=vOH4t3icHdBNbqMwAEBhzWWybIwZMiJSNJITHNJOiOz4B7wZgU2gYMBtmNCym7v0VD1Noy7f8nv_P-xz337-uNXj6K7r5XKapodqGCpbPuihW-bX914vdW5tket2vfq18n5f9Cb6d0DblwMi3Dmxo-DsucwAEkiMGgoqeMRilbcjOfGxFi3mpbU9aQQ6A2N5NAXKr4lqzU8pwluB6WOeJi1lND82RpQYRUWMp9KGcQrDUw4rKJk9F3E9M4F8jd1WRg6LSMxJr54yZi_Uc42MlRQw3LNdFmRMzQSMreAJUzLgZ3n0xQ6_FtAJAzKQSW9bMnXlPNwfZ_J278e7saHQxEns-qi-a5h6yVLU5QI9iZkHhtUk8ZVjTKEEDc-E01k3thN7ACkwxHTK3X90f_jb-ynVsIAYE79OU4_7Zlpc9G3jL75_bv5eunHtXofqCymBgc8",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFIZGhOVmRLZWxCYVZEaHNiMVZHT0d0R2FUSm1ibmhCU1VFMVVVdHBOVlJJVkZCbmRYRkhOQzExVFdoS2MwUnNZbVpvZGtkU00ycElhWEpYVjJzdFJGWm9ORkkwTTI1M05GSjZWRFZLUjJSNmNFRkRZbUl6T1dOU1FSSVhkRUUyYW1Gd1ptbFFTbGMxT1hVNFVEZDJhVTAyUVRRYUlrRkVjM0k1WmxOaVIxWndOazQyYkUwNGRrWklWMmhVZDIxTlN6RTBXREIzWWxFIiwiZmN2IjoiMyIsImVpIjoidEE2amFwZmlQSlc1OXU4UDd2aU02QTQiLCJxYyI6IkNocHFZWE53WlhJZ2FHbG5hQ0J6WTJodmIyd2dhVzVrYVdGdVlSQUFmYUtYT2o4IiwicXVlc3Rpb24iOiJXaGF0IGlzIEphc3BlciBJbmRpYW5hIGtub3duIGZvcj8iLCJsayI6IkdpQjNhR0YwSUdseklHcGhjM0JsY2lCcGJtUnBZVzVoSUd0dWIzZHVJR1p2Y2ciLCJicyI6ImMyMlFNUS1DTUJDRjQ5ckp1WU01TllZRlRXUjFZQlFkZFhBa1Ixdm9DYmFra1BEM0ZVRUI0XzY5ZDk4N2RtRmVaQnRJS0FPcTRJeFZxUnhFbEdtNENtMXQ0Y1BKU0VLRFllRHhqUjdRZTRmcUZxM2VLRkJIc2lOYjNqVFdvOEstQTNKakd3T3BkV0d3NHREMFVGOUZ2eENMMmZaVFZHc0Y2ejA0TkxtU1k4RlhiRkRjY2JfNUc1aHFmazFqZGhnZmNDZ0lDMEFqUWRYYWtJREVLY3hsNjJQVGZzem9JOEFYVWoxczVyRFVKS3FXbVc2Wno1NCIsImlkIjoiZmNfdEE2amFwZmlQSlc1OXU4UDd2aU02QTRfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFIZGhOVmRLZWxCYVZEaHNiMVZHT0d0R2FUSm1ibmhCU1VFMVVVdHBOVlJJVkZCbmRYRkhOQzExVFdoS2MwUnNZbVpvZGtkU00ycElhWEpYVjJzdFJGWm9ORkkwTTI1M05GSjZWRFZLUjJSNmNFRkRZbUl6T1dOU1FSSVhkRUUyYW1Gd1ptbFFTbGMxT1hVNFVEZDJhVTAyUVRRYUlrRkVjM0k1WmxOaVIxWndOazQyYkUwNGRrWklWMmhVZDIxTlN6RTBXREIzWWxFIiwiZmN2IjoiMyIsImVpIjoidEE2amFwZmlQSlc1OXU4UDd2aU02QTQiLCJxYyI6IkNocHFZWE53WlhJZ2FHbG5hQ0J6WTJodmIyd2dhVzVrYVdGdVlSQUFmYUtYT2o4IiwicXVlc3Rpb24iOiJXaGF0IGlzIEphc3BlciBJbmRpYW5hIGtub3duIGZvcj8iLCJsayI6IkdpQjNhR0YwSUdseklHcGhjM0JsY2lCcGJtUnBZVzVoSUd0dWIzZHVJR1p2Y2ciLCJicyI6ImMyMlFNUS1DTUJDRjQ5ckp1WU01TllZRlRXUjFZQlFkZFhBa1Ixdm9DYmFra1BEM0ZVRUI0XzY5ZDk4N2RtRmVaQnRJS0FPcTRJeFZxUnhFbEdtNENtMXQ0Y1BKU0VLRFllRHhqUjdRZTRmcUZxM2VLRkJIc2lOYjNqVFdvOEstQTNKakd3T3BkV0d3NHREMFVGOUZ2eENMMmZaVFZHc0Y2ejA0TkxtU1k4RlhiRkRjY2JfNUc1aHFmazFqZGhnZmNDZ0lDMEFqUWRYYWtJREVLY3hsNjJQVGZzem9JOEFYVWoxczVyRFVKS3FXbVc2Wno1NCIsImlkIjoiZmNfdEE2amFwZmlQSlc1OXU4UDd2aU02QTRfNSJ9"
+  },
+  {
+   "question": "What is the #1 ranked High School in Indiana?",
+   "type": "ai_overview",
+   "page_token": "HnlLCnicHdBBbqMwGEBh9TJdNiYMHSVSVNUtmKSCFMf-Id6MwA4hwQaXuA1lN1eYM_RUc5qpZv_0Ld7vL33q2r83fxrn7GU5m12v17tj3x_14U72ZlZePjs5k6XWVSnb5f3Pe--hlqvwQ-KnQeKMWwvPFO3Q-ocgDiWhHhKi6EGnn6qz2Y5Hem8aClpnCUBNJ4pZZ4PqDBeA9JURl3Mf6vIcXlW0qCsmvW0UPanzpknaRbwztJbz3sm5mKoIkh13c_EsrERjksJ6VDq9AFJT0olir9PTllgjOF2r0DPfDcmNQMJr2m0eFNwociALxyY1lqQNqlzHwqObCrl3xh3POCW8UBRygSQ_zrnfDBCLKfEVKhAKZPfoDiCmsFEoY-JtX2BTAn6BiQeKNVnqC8uYwCnuT9_WJM_acJ8HCcOvIm4KGYsRig0DFAwq2mAVKyrJqHl2W8uPlX_7__XqV23c0g798R-_9I4B",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=HnlLCnicHdBBbqMwGEBh9TJdNiYMHSVSVNUtmKSCFMf-Id6MwA4hwQaXuA1lN1eYM_RUc5qpZv_0Ld7vL33q2r83fxrn7GU5m12v17tj3x_14U72ZlZePjs5k6XWVSnb5f3Pe--hlqvwQ-KnQeKMWwvPFO3Q-ocgDiWhHhKi6EGnn6qz2Y5Hem8aClpnCUBNJ4pZZ4PqDBeA9JURl3Mf6vIcXlW0qCsmvW0UPanzpknaRbwztJbz3sm5mKoIkh13c_EsrERjksJ6VDq9AFJT0olir9PTllgjOF2r0DPfDcmNQMJr2m0eFNwociALxyY1lqQNqlzHwqObCrl3xh3POCW8UBRygSQ_zrnfDBCLKfEVKhAKZPfoDiCmsFEoY-JtX2BTAn6BiQeKNVnqC8uYwCnuT9_WJM_acJ8HCcOvIm4KGYsRig0DFAwq2mAVKyrJqHl2W8uPlX_7__XqV23c0g798R-_9I4B",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFIZGhOVmRLZWxCYVZEaHNiMVZHT0d0R2FUSm1ibmhCU1VFMVVVdHBOVlJJVkZCbmRYRkhOQzExVFdoS2MwUnNZbVpvZGtkU00ycElhWEpYVjJzdFJGWm9ORkkwTTI1M05GSjZWRFZLUjJSNmNFRkRZbUl6T1dOU1FSSVhkRUUyYW1Gd1ptbFFTbGMxT1hVNFVEZDJhVTAyUVRRYUlrRkVjM0k1WmxOaVIxWndOazQyYkUwNGRrWklWMmhVZDIxTlN6RTBXREIzWWxFIiwiZmN2IjoiMyIsImVpIjoidEE2amFwZmlQSlc1OXU4UDd2aU02QTQiLCJxYyI6IkNocHFZWE53WlhJZ2FHbG5hQ0J6WTJodmIyd2dhVzVrYVdGdVlSQUFmYUtYT2o4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSAjMSByYW5rZWQgSGlnaCBTY2hvb2wgaW4gSW5kaWFuYT8iLCJsayI6IkdpeDNhR0YwSUdseklIUm9aU0FqTVNCeVlXNXJaV1FnYUdsbmFDQnpZMmh2YjJ3Z2FXNGdhVzVrYVdGdVlRIiwiYnMiOiJjMjJRTVEtQ01CQ0Y0OXJKdVlNNU5ZWUZUV1IxWUJRZGRYQWtSMXZvQ2Jha2tQRDNGVUVCNF82OWQ5ODdkbUZlWkJ0SUtBT3E0SXhWcVJ4RWxHbTRDbTF0NGNQSlNFS0RZZUR4alI3UWU0ZnFGcTNlS0ZCSHNpTmIzalRXbzhLLUEzSmpHd09wZFdHdzR0RDBVRjlGdnhDTDJmWlRWR3NGNnowNE5MbVNZOEZYYkZEY2NiXzVHNWhxZmsxamRoZ2ZjQ2dJQzBBalFkWGFrSURFS2N4bDYyUFRmc3pvSThBWFVqMXM1ckRVSktxV21XNlp6NTQiLCJpZCI6ImZjX3RBNmphcGZpUEpXNTl1OFA3dmlNNkE0XzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFIZGhOVmRLZWxCYVZEaHNiMVZHT0d0R2FUSm1ibmhCU1VFMVVVdHBOVlJJVkZCbmRYRkhOQzExVFdoS2MwUnNZbVpvZGtkU00ycElhWEpYVjJzdFJGWm9ORkkwTTI1M05GSjZWRFZLUjJSNmNFRkRZbUl6T1dOU1FSSVhkRUUyYW1Gd1ptbFFTbGMxT1hVNFVEZDJhVTAyUVRRYUlrRkVjM0k1WmxOaVIxWndOazQyYkUwNGRrWklWMmhVZDIxTlN6RTBXREIzWWxFIiwiZmN2IjoiMyIsImVpIjoidEE2amFwZmlQSlc1OXU4UDd2aU02QTQiLCJxYyI6IkNocHFZWE53WlhJZ2FHbG5hQ0J6WTJodmIyd2dhVzVrYVdGdVlSQUFmYUtYT2o4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSAjMSByYW5rZWQgSGlnaCBTY2hvb2wgaW4gSW5kaWFuYT8iLCJsayI6IkdpeDNhR0YwSUdseklIUm9aU0FqTVNCeVlXNXJaV1FnYUdsbmFDQnpZMmh2YjJ3Z2FXNGdhVzVrYVdGdVlRIiwiYnMiOiJjMjJRTVEtQ01CQ0Y0OXJKdVlNNU5ZWUZUV1IxWUJRZGRYQWtSMXZvQ2Jha2tQRDNGVUVCNF82OWQ5ODdkbUZlWkJ0SUtBT3E0SXhWcVJ4RWxHbTRDbTF0NGNQSlNFS0RZZUR4alI3UWU0ZnFGcTNlS0ZCSHNpTmIzalRXbzhLLUEzSmpHd09wZFdHdzR0RDBVRjlGdnhDTDJmWlRWR3NGNnowNE5MbVNZOEZYYkZEY2NiXzVHNWhxZmsxamRoZ2ZjQ2dJQzBBalFkWGFrSURFS2N4bDYyUFRmc3pvSThBWFVqMXM1ckRVSktxV21XNlp6NTQiLCJpZCI6ImZjX3RBNmphcGZpUEpXNTl1OFA3dmlNNkE0XzUifQ%3D%3D"
+  },
+  {
+   "question": "What is the racial and ethnic breakdown of Jasper, Indiana?",
+   "type": "ai_overview",
+   "page_token": "efJPSnicHdBdbpswAABg9TJ9bDCETIsUTXP4EwuuMLYDfpmMnYSAHZwGQeFtV-gZeqqeptK-I3z_PvX11n09fTTDYB_b1WqappdL31_06UX2ZiUe802upNC6FrLbbn5swK-z3IWjhPs3CXNqLQuwU7hqYklacDdtSKz8HOBDCdJYzs5cEThjV_nHEHW1RkFmUkbblBJPk2JpxIFFZRE2uI67tTS-yADiVRntazPcDiV0RTjEbA_2krGZMRueEnZXtwjkS7YuSr7klBPprF1pNBJBWhCtxsxDG-7pEQPrkPgxUyOHupTvFbVZTRsPt-EgnNCvPXSnBI7IvAPc6Uian-jY2UlodTwwVAhHNarjFXUnt07wtU5UFDbKyQm_VyU0gsE_bKG-Ik2OPG4J4RDB_ppTvMhWGxao9hhUaw5UixbuIKIfmMDkZNKURr-H17LZ5PnzWY477_n_9e7v2Qxb-9ZfvgHMOozA",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=efJPSnicHdBdbpswAABg9TJ9bDCETIsUTXP4EwuuMLYDfpmMnYSAHZwGQeFtV-gZeqqeptK-I3z_PvX11n09fTTDYB_b1WqappdL31_06UX2ZiUe802upNC6FrLbbn5swK-z3IWjhPs3CXNqLQuwU7hqYklacDdtSKz8HOBDCdJYzs5cEThjV_nHEHW1RkFmUkbblBJPk2JpxIFFZRE2uI67tTS-yADiVRntazPcDiV0RTjEbA_2krGZMRueEnZXtwjkS7YuSr7klBPprF1pNBJBWhCtxsxDG-7pEQPrkPgxUyOHupTvFbVZTRsPt-EgnNCvPXSnBI7IvAPc6Uian-jY2UlodTwwVAhHNarjFXUnt07wtU5UFDbKyQm_VyU0gsE_bKG-Ik2OPG4J4RDB_ppTvMhWGxao9hhUaw5UixbuIKIfmMDkZNKURr-H17LZ5PnzWY477_n_9e7v2Qxb-9ZfvgHMOozA",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFIZGhOVmRLZWxCYVZEaHNiMVZHT0d0R2FUSm1ibmhCU1VFMVVVdHBOVlJJVkZCbmRYRkhOQzExVFdoS2MwUnNZbVpvZGtkU00ycElhWEpYVjJzdFJGWm9ORkkwTTI1M05GSjZWRFZLUjJSNmNFRkRZbUl6T1dOU1FSSVhkRUUyYW1Gd1ptbFFTbGMxT1hVNFVEZDJhVTAyUVRRYUlrRkVjM0k1WmxOaVIxWndOazQyYkUwNGRrWklWMmhVZDIxTlN6RTBXREIzWWxFIiwiZmN2IjoiMyIsImVpIjoidEE2amFwZmlQSlc1OXU4UDd2aU02QTQiLCJxYyI6IkNocHFZWE53WlhJZ2FHbG5hQ0J6WTJodmIyd2dhVzVrYVdGdVlSQUFmYUtYT2o4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSByYWNpYWwgYW5kIGV0aG5pYyBicmVha2Rvd24gb2YgSmFzcGVyLCBJbmRpYW5hPyIsImxrIjoiR2g1a1pXMXZaM0poY0docFkzTWdiMllnYW1GemNHVnlJR2x1WkdsaGJtRSIsImJzIjoiYzIyUU1RLUNNQkNGNDlySnVZTTVOWVlGVFdSMVlCUWRkWEFrUjF2b0NiYWtrUEQzRlVFQjRfNjlkOTg3ZG1GZVpCdElLQU9xNEl4VnFSeEVsR200Q20xdDRjUEpTRUtEWWVEeGpSN1FlNGZxRnEzZUtGQkhzaU5iM2pUV284Sy1BM0pqR3dPcGRXR3c0dEQwVUY5RnZ4Q0wyZlpUVkdzRjZ6MDROTG1TWThGWGJGRGNjYl81RzVocWZrMWpkaGdmY0NnSUMwQWpRZFhha0lERUtjeGw2MlBUZnN6b0k4QVhVajFzNXJEVUpLcVdtVzZaejU0IiwiaWQiOiJmY190QTZqYXBmaVBKVzU5dThQN3ZpTTZBNF81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFIZGhOVmRLZWxCYVZEaHNiMVZHT0d0R2FUSm1ibmhCU1VFMVVVdHBOVlJJVkZCbmRYRkhOQzExVFdoS2MwUnNZbVpvZGtkU00ycElhWEpYVjJzdFJGWm9ORkkwTTI1M05GSjZWRFZLUjJSNmNFRkRZbUl6T1dOU1FSSVhkRUUyYW1Gd1ptbFFTbGMxT1hVNFVEZDJhVTAyUVRRYUlrRkVjM0k1WmxOaVIxWndOazQyYkUwNGRrWklWMmhVZDIxTlN6RTBXREIzWWxFIiwiZmN2IjoiMyIsImVpIjoidEE2amFwZmlQSlc1OXU4UDd2aU02QTQiLCJxYyI6IkNocHFZWE53WlhJZ2FHbG5hQ0J6WTJodmIyd2dhVzVrYVdGdVlSQUFmYUtYT2o4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSByYWNpYWwgYW5kIGV0aG5pYyBicmVha2Rvd24gb2YgSmFzcGVyLCBJbmRpYW5hPyIsImxrIjoiR2g1a1pXMXZaM0poY0docFkzTWdiMllnYW1GemNHVnlJR2x1WkdsaGJtRSIsImJzIjoiYzIyUU1RLUNNQkNGNDlySnVZTTVOWVlGVFdSMVlCUWRkWEFrUjF2b0NiYWtrUEQzRlVFQjRfNjlkOTg3ZG1GZVpCdElLQU9xNEl4VnFSeEVsR200Q20xdDRjUEpTRUtEWWVEeGpSN1FlNGZxRnEzZUtGQkhzaU5iM2pUV284Sy1BM0pqR3dPcGRXR3c0dEQwVUY5RnZ4Q0wyZlpUVkdzRjZ6MDROTG1TWThGWGJGRGNjYl81RzVocWZrMWpkaGdmY0NnSUMwQWpRZFhha0lERUtjeGw2MlBUZnN6b0k4QVhVajFzNXJEVUpLcVdtVzZaejU0IiwiaWQiOiJmY190QTZqYXBmaVBKVzU5dThQN3ZpTTZBNF81In0%3D"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Jasper High School: Home",
+   "link": "https://jhs.gjcs.k12.in.us/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUwHrOzAVDa7c7ENstr34c8cXRtdvQTaFxxzSbmeNqvKTwxTMMg5CjQlS6EQjoZJjeLweZOT2PMoDaWzuyQTd8tj0fNXI2Ot50sC0YVdGxYWkoyj0&ved=2ahUKEwiXjKX56OSWAxWVnP0HHW48A-0QFnoECEcQAQ&uoh=1",
+   "displayed_link": "https://jhs.gjcs.k12.in.us",
+   "favicon": "https://serpapi.com/images/i/UklGRogBAABXRUJQVlA4IHwBAABQBgCdASogACAAPtEutFooIagoGAEAGglsAMc8FRK9UMY8eWWw1hyKDTlXp7FK1epnNR77ipa-QjsT2AD-_sLJnobi1QLNl79-GSJtg6o7W_LEnIA8BHK324VRv1ZND84Bu5Gz8zpq_C8Zb5fEJmnI58134YaO8T55vFLtG4H_3bj0_3T_79NgTf7EBvPz03EDN4Z6OCpFLwBTy6YlYGWD_9TTj_wG_HpWdk_-SCCHvzexFe6VSToPp0pa_3k_zhChxdl1eNObI3es_qV4d3fqNccs5qX9KDOtJ8v4aAZMx2W60h-IHqc-pjvCloVnDahiAHT_ahMO83x9tPSCMHRPtqWKxgshy4jE8Afk9qy6YRz62OmRtv72SK_KyLgw_eIxk7iJIySysD76iAQPg2uIYdlLfQyGt7fh8zRoT8X5o-d4LaT_-f1bcOK2SMlcRVyAck6kCHkzh-0Lee-iZ_P_MmvNraGNxu0dVZL4YmpmnxF3QRb_2FuSj0AAAA.webp",
+   "snippet": "Welcome to Jasper High School, part of the Greater Jasper Consolidated School Corporation. We serve students in Grades 9 through 12. At JHS, we believe all ...",
+   "snippet_highlighted_words": [
+    "Jasper High School"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "JHS Staff Directory",
+      "link": "https://jhs.gjcs.k12.in.us/about/staff-directory",
+      "snippet": "JHS Staff Directory - Jasper High School. ... Indiana Youth Survey ..."
+     },
+     {
+      "title": "Forms",
+      "link": "https://jhs.gjcs.k12.in.us/forms",
+      "snippet": "Forms - Jasper High School. ... Indiana Youth Survey ..."
+     },
+     {
+      "title": "Students Parents PowerSchool",
+      "link": "https://jhs.gjcs.k12.in.us/~board/jhs/post/school-sat-date",
+      "snippet": "Welcome to Jasper High School, part of the Greater Jasper ..."
+     },
+     {
+      "title": "Students",
+      "link": "https://jhs.gjcs.k12.in.us/students",
+      "snippet": "Students - Jasper High School. ... Indiana Youth Survey ..."
+     },
+     {
+      "title": "About",
+      "link": "https://jhs.gjcs.k12.in.us/about",
+      "snippet": "Jasper High School is located at: 1600 Saint Charles Street ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Welcome to Jasper High School, part of the Greater Jasper Consolidated School Corporation. We serve students in Grades 9 through 12. At JHS, we believe all ...",
+     "source_info_link": "https://jhs.gjcs.k12.in.us/",
+     "icon": "https://serpapi.com/images/i/UklGRogBAABXRUJQVlA4IHwBAABQBgCdASogACAAPtEutFooIagoGAEAGglsAMc8FRK9UMY8eWWw1hyKDTlXp7FK1epnNR77ipa-QjsT2AD-_sLJnobi1QLNl79-GSJtg6o7W_LEnIA8BHK324VRv1ZND84Bu5Gz8zpq_C8Zb5fEJmnI58134YaO8T55vFLtG4H_3bj0_3T_79NgTf7EBvPz03EDN4Z6OCpFLwBTy6YlYGWD_9TTj_wG_HpWdk_-SCCHvzexFe6VSToPp0pa_3k_zhChxdl1eNObI3es_qV4d3fqNccs5qX9KDOtJ8v4aAZMx2W60h-IHqc-pjvCloVnDahiAHT_ahMO83x9tPSCMHRPtqWKxgshy4jE8Afk9qy6YRz62OmRtv72SK_KyLgw_eIxk7iJIySysD76iAQPg2uIYdlLfQyGt7fh8zRoT8X5o-d4LaT_-f1bcOK2SMlcRVyAck6kCHkzh-0Lee-iZ_P_MmvNraGNxu0dVZL4YmpmnxF3QRb_2FuSj0AAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESUwHrOzAVDa7c7ENstr34c8cXRtdvQTaFxxzSbmeNqvKTwxTMMg5CjQlS6EQjoZJjeLweZOT2PMoDaWzuyQTd8tj0fNXI2Ot50sC0YVdGxYWkoyj0&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESUwHrOzAVDa7c7ENstr34c8cXRtdvQTaFxxzSbmeNqvKTwxTMMg5CjQlS6EQjoZJjeLweZOT2PMoDaWzuyQTd8tj0fNXI2Ot50sC0YVdGxYWkoyj0",
+   "source": "Jasper High School"
+  },
+  {
+   "position": 2,
+   "title": "Jasper High School (Indiana)",
+   "link": "https://en.wikipedia.org/wiki/Jasper_High_School_(Indiana)",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScgHrOzAVKdehsrLzgJernmof6RE-YsIQPWTbaQ5T7Qz979xua7qJlIefD_8d0_Z5eXu7sNBgl4aM3NbtJ3uwu11eW0IWQRYrpokc5fy4YIWuTwNKVRpjqqpCWeMqNJl2kbCSByXxDTXuUn79c1TPbzS02A&ved=2ahUKEwiXjKX56OSWAxWVnP0HHW48A-0QFnoECEQQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Jasper_High_School_(...",
+   "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+   "snippet": "Jasper High School (JHS) is a public high school located in Jasper, Indiana, United States. It serves grades 9 through 12, and is one of five high schools in ...",
+   "snippet_highlighted_words": [
+    "Jasper High School",
+    "Indiana"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Jasper High School (JHS) is a public high school located in Jasper, Indiana, United States. It serves grades 9 through 12, and is one of five high schools in ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Jasper_High_School_(Indiana)",
+     "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEScgHrOzAVKdehsrLzgJernmof6RE-YsIQPWTbaQ5T7Qz979xua7qJlIefD_8d0_Z5eXu7sNBgl4aM3NbtJ3uwu11eW0IWQRYrpokc5fy4YIWuTwNKVRpjqqpCWeMqNJl2kbCSByXxDTXuUn79c1TPbzS02A&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEScgHrOzAVKdehsrLzgJernmof6RE-YsIQPWTbaQ5T7Qz979xua7qJlIefD_8d0_Z5eXu7sNBgl4aM3NbtJ3uwu11eW0IWQRYrpokc5fy4YIWuTwNKVRpjqqpCWeMqNJl2kbCSByXxDTXuUn79c1TPbzS02A",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Jasper_High_School_(Indiana)#:~:text=Jasper%20High%20School%20(JHS)%20is,Greater%20Jasper%20Consolidated%20Schools%20district."
+  },
+  {
+   "position": 3,
+   "title": "Site Map - Greater Jasper Consolidated School Corporation",
+   "link": "https://www.gjcs.k12.in.us/site-map",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWwHrOzAVYGE2PNnelzliUm4X8EbR_h6Zo6ZwBMioWSgiEg1tI9Epo6obXL5LPXbESW6wfVYxgdQc2fELT1xmBNK6cqzwuTWIWp2QtDvxw3kxDRgGNQXApc8c7bY&ved=2ahUKEwiXjKX56OSWAxWVnP0HHW48A-0QFnoECEUQAQ&uoh=1",
+   "displayed_link": "https://www.gjcs.k12.in.us \u203a site-map",
+   "favicon": "https://serpapi.com/images/i/UklGRogBAABXRUJQVlA4IHwBAABQBgCdASogACAAPtEutFooIagoGAEAGglsAMc8FRK9UMY8eWWw1hyKDTlXp7FK1epnNR77ipa-QjsT2AD-_sLJnobi1QLNl79-GSJtg6o7W_LEnIA8BHK324VRv1ZND84Bu5Gz8zpq_C8Zb5fEJmnI58134YaO8T55vFLtG4H_3bj0_3T_79NgTf7EBvPz03EDN4Z6OCpFLwBTy6YlYGWD_9TTj_wG_HpWdk_-SCCHvzexFe6VSToPp0pa_3k_zhChxdl1eNObI3es_qV4d3fqNccs5qX9KDOtJ8v4aAZMx2W60h-IHqc-pjvCloVnDahiAHT_ahMO83x9tPSCMHRPtqWKxgshy4jE8Afk9qy6YRz62OmRtv72SK_KyLgw_eIxk7iJIySysD76iAQPg2uIYdlLfQyGt7fh8zRoT8X5o-d4LaT_-f1bcOK2SMlcRVyAck6kCHkzh-0Lee-iZ_P_MmvNraGNxu0dVZL4YmpmnxF3QRb_2FuSj0AAAA.webp",
+   "snippet": "Jasper High School \u00b7 Jasper Middle School \u00b7 Jasper Elementary School \u00b7 Ireland ... Indiana GPS Data Dashboard \u00b7 Central Office \u00b7 Staff Directory \u00b7 Accountability ...",
+   "snippet_highlighted_words": [
+    "Jasper High School",
+    "Indiana"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Jasper High School \u00b7 Jasper Middle School \u00b7 Jasper Elementary School \u00b7 Ireland ... Indiana GPS Data Dashboard \u00b7 Central Office \u00b7 Staff Directory \u00b7 Accountability ...",
+     "source_info_link": "https://www.gjcs.k12.in.us/site-map",
+     "icon": "https://serpapi.com/images/i/UklGRogBAABXRUJQVlA4IHwBAABQBgCdASogACAAPtEutFooIagoGAEAGglsAMc8FRK9UMY8eWWw1hyKDTlXp7FK1epnNR77ipa-QjsT2AD-_sLJnobi1QLNl79-GSJtg6o7W_LEnIA8BHK324VRv1ZND84Bu5Gz8zpq_C8Zb5fEJmnI58134YaO8T55vFLtG4H_3bj0_3T_79NgTf7EBvPz03EDN4Z6OCpFLwBTy6YlYGWD_9TTj_wG_HpWdk_-SCCHvzexFe6VSToPp0pa_3k_zhChxdl1eNObI3es_qV4d3fqNccs5qX9KDOtJ8v4aAZMx2W60h-IHqc-pjvCloVnDahiAHT_ahMO83x9tPSCMHRPtqWKxgshy4jE8Afk9qy6YRz62OmRtv72SK_KyLgw_eIxk7iJIySysD76iAQPg2uIYdlLfQyGt7fh8zRoT8X5o-d4LaT_-f1bcOK2SMlcRVyAck6kCHkzh-0Lee-iZ_P_MmvNraGNxu0dVZL4YmpmnxF3QRb_2FuSj0AAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESWwHrOzAVYGE2PNnelzliUm4X8EbR_h6Zo6ZwBMioWSgiEg1tI9Epo6obXL5LPXbESW6wfVYxgdQc2fELT1xmBNK6cqzwuTWIWp2QtDvxw3kxDRgGNQXApc8c7bY&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESWwHrOzAVYGE2PNnelzliUm4X8EbR_h6Zo6ZwBMioWSgiEg1tI9Epo6obXL5LPXbESW6wfVYxgdQc2fELT1xmBNK6cqzwuTWIWp2QtDvxw3kxDRgGNQXApc8c7bY",
+   "source": "Greater Jasper Consolidated Schools",
+   "read_more_link": "https://www.gjcs.k12.in.us/site-map#:~:text=Greater%20Jasper%20Consolidated%20School%20Corporation&text=Indiana%20GPS%20Data%20Dashboard,Accountability"
+  },
+  {
+   "position": 4,
+   "title": "Jasper High School (@JasperHighSchool.Wildcats)",
+   "link": "https://www.facebook.com/JasperHighSchool.Wildcats/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESawHrOzAVu1FnRjz26gqL3fUa8euqdu878q1Yuke8ldyHVWe3wDOrEIJq5RatjQfcohwL81hJNlzSAgZ9HNgBJCbs-Gm65iFaEdamaQfaQGtppYfMLQFy9eE4JbRXl-E4rnDpr9MFfcJrmhua&ved=2ahUKEwiXjKX56OSWAxWVnP0HHW48A-0QFnoECEIQAQ&uoh=1",
+   "displayed_link": "3.2K+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "snippet": "Jasper High School is fortunate to have a school-based enterprise (SBE), our school store. SBEs are managed and operated by students as hands-on learning ...",
+   "snippet_highlighted_words": [
+    "Jasper High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Jasper High School is fortunate to have a school-based enterprise (SBE), our school store. SBEs are managed and operated by students as hands-on learning ...",
+     "source_info_link": "https://www.facebook.com/JasperHighSchool.Wildcats/",
+     "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESawHrOzAVu1FnRjz26gqL3fUa8euqdu878q1Yuke8ldyHVWe3wDOrEIJq5RatjQfcohwL81hJNlzSAgZ9HNgBJCbs-Gm65iFaEdamaQfaQGtppYfMLQFy9eE4JbRXl-E4rnDpr9MFfcJrmhua&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESawHrOzAVu1FnRjz26gqL3fUa8euqdu878q1Yuke8ldyHVWe3wDOrEIJq5RatjQfcohwL81hJNlzSAgZ9HNgBJCbs-Gm65iFaEdamaQfaQGtppYfMLQFy9eE4JbRXl-E4rnDpr9MFfcJrmhua",
+   "source": "Facebook \u00b7 Jasper High School",
+   "read_more_link": "https://www.facebook.com/JasperHighSchool.Wildcats/#:~:text=Jasper%20High%20School%20is%20fortunate,hospitality%2C%20human%20resources%2C%20and%20management."
+  },
+  {
+   "position": 5,
+   "title": "Jasper High School - Indiana",
+   "link": "https://www.usnews.com/education/best-high-schools/indiana/districts/greater-jasper-consolidated-schools/jasper-high-school-7236",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESuQEB6zswFRrGTvttNd4PWJ0AGGrCUw1RHtGE511fcsyg5TgpW3POwyI3n7COwSYa2KD2SWN4HAc2KfRfuTjcf9VhidKXhIyvJimfZnTMEU4c98_uC37raf1sLpM0VLrO58skUJlL8O_iXo8KTbVtr3A2vwDi6lw4m2pf2kXAB7ATK1ndJSu3jqcz52bzYKk3sr1tNGq7wTgJm8-WaDHEKKYQdxO_2B1VZmrabEv0p_mW90g9D4jsqFpagA&ved=2ahUKEwiXjKX56OSWAxWVnP0HHW48A-0QFnoECGEQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a education \u203a indiana \u203a districts",
+   "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp",
+   "snippet": "Jasper High School is ranked #3,242 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+   "snippet_highlighted_words": [
+    "Jasper High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Jasper High School is ranked #3,242 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/indiana/districts/greater-jasper-consolidated-schools/jasper-high-school-7236",
+     "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESuQEB6zswFRrGTvttNd4PWJ0AGGrCUw1RHtGE511fcsyg5TgpW3POwyI3n7COwSYa2KD2SWN4HAc2KfRfuTjcf9VhidKXhIyvJimfZnTMEU4c98_uC37raf1sLpM0VLrO58skUJlL8O_iXo8KTbVtr3A2vwDi6lw4m2pf2kXAB7ATK1ndJSu3jqcz52bzYKk3sr1tNGq7wTgJm8-WaDHEKKYQdxO_2B1VZmrabEv0p_mW90g9D4jsqFpagA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESuQEB6zswFRrGTvttNd4PWJ0AGGrCUw1RHtGE511fcsyg5TgpW3POwyI3n7COwSYa2KD2SWN4HAc2KfRfuTjcf9VhidKXhIyvJimfZnTMEU4c98_uC37raf1sLpM0VLrO58skUJlL8O_iXo8KTbVtr3A2vwDi6lw4m2pf2kXAB7ATK1ndJSu3jqcz52bzYKk3sr1tNGq7wTgJm8-WaDHEKKYQdxO_2B1VZmrabEv0p_mW90g9D4jsqFpagA",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/indiana/districts/greater-jasper-consolidated-schools/jasper-high-school-7236#:~:text=Jasper%20High%20School%20is%20ranked,they%20prepare%20students%20for%20college."
+  },
+  {
+   "position": 6,
+   "title": "Jasper High School",
+   "link": "https://jasperathletics.com/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVAHrOzAVkAkPVHCDexB26Emst08ahS-frlVtunEC1NGy_WodV8LIf3bCvAuNgAYKDX3Up2OdCTA_-JAn8ImBpJQ1cselIyogOWMr2g63JCp3dfetYw&ved=2ahUKEwiXjKX56OSWAxWVnP0HHW48A-0QFnoECEYQAQ&uoh=1",
+   "displayed_link": "https://jasperathletics.com",
+   "favicon": "https://serpapi.com/images/i/UklGRooBAABXRUJQVlA4IH4BAABQCACdASogACAAPtE-tFooIigoFAEAGglsALEUrsvKbBDE_F99D-wH0cP1y9iX9VUta_W9MfULjrykZnU7EtMZruEygTqMv9RU14AA_v0qtvJnZrJuIebnto6zKUd3mn76DTxX3KtHMibGW-_r_b_G_dWU4fV_bDdjniOLP3d_qb-JODf_ulXEzrVMeCfNNFms-ZqMgI5__6XuV7fb6yjW9r-6-gLlDqWRhfTzSf2c3GLoGYdfdcSU00brMu9zXiU3k2W0X-pjKDh9mmr18bH5j5157y4JyiyifWoK9j1-43eJPmTGPecJyWAKNzUnnQGlO2m-eKCZSuiJgVyc8q2yKDiTW-k3pYI-oGU14XX8_b13YKtqG8yeZkINuQuo-inYn0FT5cf9jUT5KPTmBA8vxvZeUwkiHFFxkNpniXPcDA397cG4fPov337zzKeHL18n2TmbL25YW1__7xm9z47bz64nOKjJ7tm_ljmHgfc9xE21qM_SXfOdk8644AAA.webp",
+   "snippet": "LATEST NEWS \u00b7 UPCOMING EVENTS \u00b7 RECENT POSTS By @JasperAthletic \u00b7 SHOW SUPPORT FOR Jasper High School \u00b7 Jasper High School.",
+   "snippet_highlighted_words": [
+    "Jasper High School",
+    "Jasper High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "LATEST NEWS \u00b7 UPCOMING EVENTS \u00b7 RECENT POSTS By @JasperAthletic \u00b7 SHOW SUPPORT FOR Jasper High School \u00b7 Jasper High School.",
+     "source_info_link": "https://jasperathletics.com/",
+     "icon": "https://serpapi.com/images/i/UklGRooBAABXRUJQVlA4IH4BAABQCACdASogACAAPtE-tFooIigoFAEAGglsALEUrsvKbBDE_F99D-wH0cP1y9iX9VUta_W9MfULjrykZnU7EtMZruEygTqMv9RU14AA_v0qtvJnZrJuIebnto6zKUd3mn76DTxX3KtHMibGW-_r_b_G_dWU4fV_bDdjniOLP3d_qb-JODf_ulXEzrVMeCfNNFms-ZqMgI5__6XuV7fb6yjW9r-6-gLlDqWRhfTzSf2c3GLoGYdfdcSU00brMu9zXiU3k2W0X-pjKDh9mmr18bH5j5157y4JyiyifWoK9j1-43eJPmTGPecJyWAKNzUnnQGlO2m-eKCZSuiJgVyc8q2yKDiTW-k3pYI-oGU14XX8_b13YKtqG8yeZkINuQuo-inYn0FT5cf9jUT5KPTmBA8vxvZeUwkiHFFxkNpniXPcDA397cG4fPov337zzKeHL18n2TmbL25YW1__7xm9z47bz64nOKjJ7tm_ljmHgfc9xE21qM_SXfOdk8644AAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESVAHrOzAVkAkPVHCDexB26Emst08ahS-frlVtunEC1NGy_WodV8LIf3bCvAuNgAYKDX3Up2OdCTA_-JAn8ImBpJQ1cselIyogOWMr2g63JCp3dfetYw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESVAHrOzAVkAkPVHCDexB26Emst08ahS-frlVtunEC1NGy_WodV8LIf3bCvAuNgAYKDX3Up2OdCTA_-JAn8ImBpJQ1cselIyogOWMr2g63JCp3dfetYw",
+   "source": "Jasper Athletics",
+   "read_more_link": "https://jasperathletics.com/#:~:text=LATEST%20NEWS&text=UPCOMING%20EVENTS&text=RECENT%20POSTS%20By%20%40JasperAthletic&text=SHOW%20SUPPORT%20FOR%20Jasper%20High,School&text=Jasper%20High%20School"
+  },
+  {
+   "position": 7,
+   "title": "Schools - Greater Jasper Consolidated School Corporation",
+   "link": "https://www.gjcs.k12.in.us/schools",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWgHrOzAVLFF_V6htiD0Urm8TGMRt6HZ6FTNZP2qSAUh4264-gj9bz8u87uNVwF2IkJZ3KmLXeIacy3NfZqiKZx0wMH3ACiNK7ZJfUlgXlSK5Pi28skBg7QWODQ&ved=2ahUKEwiXjKX56OSWAxWVnP0HHW48A-0QFnoECEEQAQ&uoh=1",
+   "displayed_link": "https://www.gjcs.k12.in.us \u203a schools",
+   "favicon": "https://serpapi.com/images/i/UklGRogBAABXRUJQVlA4IHwBAABQBgCdASogACAAPtEutFooIagoGAEAGglsAMc8FRK9UMY8eWWw1hyKDTlXp7FK1epnNR77ipa-QjsT2AD-_sLJnobi1QLNl79-GSJtg6o7W_LEnIA8BHK324VRv1ZND84Bu5Gz8zpq_C8Zb5fEJmnI58134YaO8T55vFLtG4H_3bj0_3T_79NgTf7EBvPz03EDN4Z6OCpFLwBTy6YlYGWD_9TTj_wG_HpWdk_-SCCHvzexFe6VSToPp0pa_3k_zhChxdl1eNObI3es_qV4d3fqNccs5qX9KDOtJ8v4aAZMx2W60h-IHqc-pjvCloVnDahiAHT_ahMO83x9tPSCMHRPtqWKxgshy4jE8Afk9qy6YRz62OmRtv72SK_KyLgw_eIxk7iJIySysD76iAQPg2uIYdlLfQyGt7fh8zRoT8X5o-d4LaT_-f1bcOK2SMlcRVyAck6kCHkzh-0Lee-iZ_P_MmvNraGNxu0dVZL4YmpmnxF3QRb_2FuSj0AAAA.webp",
+   "snippet": "Jasper High School. 1600 St. Charles Street Jasper, IN 47546. Principal: Geoff Mauck; Asst. Principal: Cassidy Nalley ; Jasper Middle School. 3600 Portersville ...",
+   "snippet_highlighted_words": [
+    "Jasper High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Jasper High School. 1600 St. Charles Street Jasper, IN 47546. Principal: Geoff Mauck; Asst. Principal: Cassidy Nalley ; Jasper Middle School. 3600 Portersville ...",
+     "source_info_link": "https://www.gjcs.k12.in.us/schools",
+     "icon": "https://serpapi.com/images/i/UklGRogBAABXRUJQVlA4IHwBAABQBgCdASogACAAPtEutFooIagoGAEAGglsAMc8FRK9UMY8eWWw1hyKDTlXp7FK1epnNR77ipa-QjsT2AD-_sLJnobi1QLNl79-GSJtg6o7W_LEnIA8BHK324VRv1ZND84Bu5Gz8zpq_C8Zb5fEJmnI58134YaO8T55vFLtG4H_3bj0_3T_79NgTf7EBvPz03EDN4Z6OCpFLwBTy6YlYGWD_9TTj_wG_HpWdk_-SCCHvzexFe6VSToPp0pa_3k_zhChxdl1eNObI3es_qV4d3fqNccs5qX9KDOtJ8v4aAZMx2W60h-IHqc-pjvCloVnDahiAHT_ahMO83x9tPSCMHRPtqWKxgshy4jE8Afk9qy6YRz62OmRtv72SK_KyLgw_eIxk7iJIySysD76iAQPg2uIYdlLfQyGt7fh8zRoT8X5o-d4LaT_-f1bcOK2SMlcRVyAck6kCHkzh-0Lee-iZ_P_MmvNraGNxu0dVZL4YmpmnxF3QRb_2FuSj0AAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESWgHrOzAVLFF_V6htiD0Urm8TGMRt6HZ6FTNZP2qSAUh4264-gj9bz8u87uNVwF2IkJZ3KmLXeIacy3NfZqiKZx0wMH3ACiNK7ZJfUlgXlSK5Pi28skBg7QWODQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESWgHrOzAVLFF_V6htiD0Urm8TGMRt6HZ6FTNZP2qSAUh4264-gj9bz8u87uNVwF2IkJZ3KmLXeIacy3NfZqiKZx0wMH3ACiNK7ZJfUlgXlSK5Pi28skBg7QWODQ",
+   "source": "Greater Jasper Consolidated Schools",
+   "read_more_link": "https://www.gjcs.k12.in.us/schools#:~:text=Jasper%20High%20School&text=Jasper%20Middle%20School"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Jasper+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQns5JZLVFsUevkZMcYLn5uHfAhiX3Q:1789071029003&ei=tA6japfiPJW59u8P7viM6A4&start=10&sa=N&sstk=AS6-VmJ53wng7VKo8aJGFCaA5IlIHCr6Bg8TZJkZT9a94v3Bj3sjpb17cAG0-MpQdgFWp865FN-F1puFrtAVcLa8ZKl0d1XeUT5TcQ&ved=2ahUKEwiXjKX56OSWAxWVnP0HHW48A-0Q8NMDegQIeBAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Jasper+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQns5JZLVFsUevkZMcYLn5uHfAhiX3Q:1789071029003&ei=tA6japfiPJW59u8P7viM6A4&start=10&sa=N&sstk=AS6-VmJ53wng7VKo8aJGFCaA5IlIHCr6Bg8TZJkZT9a94v3Bj3sjpb17cAG0-MpQdgFWp865FN-F1puFrtAVcLa8ZKl0d1XeUT5TcQ&ved=2ahUKEwiXjKX56OSWAxWVnP0HHW48A-0Q8tMDegQIeBAE",
+   "3": "https://www.google.com/search?q=%22Jasper+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQns5JZLVFsUevkZMcYLn5uHfAhiX3Q:1789071029003&ei=tA6japfiPJW59u8P7viM6A4&start=20&sa=N&sstk=AS6-VmJ53wng7VKo8aJGFCaA5IlIHCr6Bg8TZJkZT9a94v3Bj3sjpb17cAG0-MpQdgFWp865FN-F1puFrtAVcLa8ZKl0d1XeUT5TcQ&ved=2ahUKEwiXjKX56OSWAxWVnP0HHW48A-0Q8tMDegQIeBAG",
+   "4": "https://www.google.com/search?q=%22Jasper+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQns5JZLVFsUevkZMcYLn5uHfAhiX3Q:1789071029003&ei=tA6japfiPJW59u8P7viM6A4&start=30&sa=N&sstk=AS6-VmJ53wng7VKo8aJGFCaA5IlIHCr6Bg8TZJkZT9a94v3Bj3sjpb17cAG0-MpQdgFWp865FN-F1puFrtAVcLa8ZKl0d1XeUT5TcQ&ved=2ahUKEwiXjKX56OSWAxWVnP0HHW48A-0Q8tMDegQIeBAI",
+   "5": "https://www.google.com/search?q=%22Jasper+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQns5JZLVFsUevkZMcYLn5uHfAhiX3Q:1789071029003&ei=tA6japfiPJW59u8P7viM6A4&start=40&sa=N&sstk=AS6-VmJ53wng7VKo8aJGFCaA5IlIHCr6Bg8TZJkZT9a94v3Bj3sjpb17cAG0-MpQdgFWp865FN-F1puFrtAVcLa8ZKl0d1XeUT5TcQ&ved=2ahUKEwiXjKX56OSWAxWVnP0HHW48A-0Q8tMDegQIeBAK",
+   "6": "https://www.google.com/search?q=%22Jasper+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQns5JZLVFsUevkZMcYLn5uHfAhiX3Q:1789071029003&ei=tA6japfiPJW59u8P7viM6A4&start=50&sa=N&sstk=AS6-VmJ53wng7VKo8aJGFCaA5IlIHCr6Bg8TZJkZT9a94v3Bj3sjpb17cAG0-MpQdgFWp865FN-F1puFrtAVcLa8ZKl0d1XeUT5TcQ&ved=2ahUKEwiXjKX56OSWAxWVnP0HHW48A-0Q8tMDegQIeBAM",
+   "7": "https://www.google.com/search?q=%22Jasper+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQns5JZLVFsUevkZMcYLn5uHfAhiX3Q:1789071029003&ei=tA6japfiPJW59u8P7viM6A4&start=60&sa=N&sstk=AS6-VmJ53wng7VKo8aJGFCaA5IlIHCr6Bg8TZJkZT9a94v3Bj3sjpb17cAG0-MpQdgFWp865FN-F1puFrtAVcLa8ZKl0d1XeUT5TcQ&ved=2ahUKEwiXjKX56OSWAxWVnP0HHW48A-0Q8tMDegQIeBAO",
+   "8": "https://www.google.com/search?q=%22Jasper+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQns5JZLVFsUevkZMcYLn5uHfAhiX3Q:1789071029003&ei=tA6japfiPJW59u8P7viM6A4&start=70&sa=N&sstk=AS6-VmJ53wng7VKo8aJGFCaA5IlIHCr6Bg8TZJkZT9a94v3Bj3sjpb17cAG0-MpQdgFWp865FN-F1puFrtAVcLa8ZKl0d1XeUT5TcQ&ved=2ahUKEwiXjKX56OSWAxWVnP0HHW48A-0Q8tMDegQIeBAQ",
+   "9": "https://www.google.com/search?q=%22Jasper+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQns5JZLVFsUevkZMcYLn5uHfAhiX3Q:1789071029003&ei=tA6japfiPJW59u8P7viM6A4&start=80&sa=N&sstk=AS6-VmJ53wng7VKo8aJGFCaA5IlIHCr6Bg8TZJkZT9a94v3Bj3sjpb17cAG0-MpQdgFWp865FN-F1puFrtAVcLa8ZKl0d1XeUT5TcQ&ved=2ahUKEwiXjKX56OSWAxWVnP0HHW48A-0Q8tMDegQIeBAS",
+   "10": "https://www.google.com/search?q=%22Jasper+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQns5JZLVFsUevkZMcYLn5uHfAhiX3Q:1789071029003&ei=tA6japfiPJW59u8P7viM6A4&start=90&sa=N&sstk=AS6-VmJ53wng7VKo8aJGFCaA5IlIHCr6Bg8TZJkZT9a94v3Bj3sjpb17cAG0-MpQdgFWp865FN-F1puFrtAVcLa8ZKl0d1XeUT5TcQ&ved=2ahUKEwiXjKX56OSWAxWVnP0HHW48A-0Q8tMDegQIeBAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Jasper+High+School%22+Indiana&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Jasper+High+School%22+Indiana&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Jasper+High+School%22+Indiana&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Jasper+High+School%22+Indiana&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Jasper+High+School%22+Indiana&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Jasper+High+School%22+Indiana&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Jasper+High+School%22+Indiana&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Jasper+High+School%22+Indiana&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Jasper+High+School%22+Indiana&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Jasper+High+School%22+Indiana&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Jasper+High+School%22+Indiana&start=90"
+  }
+ }
+}

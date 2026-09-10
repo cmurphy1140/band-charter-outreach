@@ -1,0 +1,834 @@
+{
+ "search_information": {
+  "query_displayed": "\"Ronald Reagan High School\" Texas",
+  "total_results": 73,
+  "time_taken_displayed": 0.32,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "events_results": [
+  {
+   "title": "Greenback Night/Meet the Teacher",
+   "date": "Sep 15",
+   "time": "6:00 PM",
+   "source": "Facebook",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVHcEwFZ_8IZ_8IZ_8IaP8IaP8HZP8Iav8HaP_19_8Iav8AT______6-_8L____Uf8HZv____8AUf8HZ_8AWf_6-v8AZP8AYP9Cd__X3_-xwv-csP8VZP9_nP8AQv8AP_9HcEy4-nG4AAAAIXRSTlMAAcrs5qVPEpP7JMrJlZP______________________wAgfganAAABHUlEQVQ4jX2T4XaDIAyFEdFCt52DGkGstu__lkMhENAtP8lHSC65jKVoeslbrVsu-4Zd49FNOsXUPeq8JOkTkeV1oS8hSJFned2YUOSZ7pO8sSNsG4z2ILAGqQ_LqgYf834QIvaX8-M6xHgdgJbVA5DyETgf6VLeLkMF6M7rlwvYV8w65_YATA3rSYcupDcAsPGsL1o8BxgWm498m5wA8wmMVDTO2v-BliUJAd4BePsWwOA5AoaMeDaCBD5RAQrSE_wWcAhwHLMCVhxVolBmmZWK5ZWa9ywUSu2n-IQpPkRILzX5rBsduuK7r0DYKfk3IMuVuwCiWtoaSEuLa18Bee3ROCUgSvcd1qNAZb1g3gzcmJcd9v_59mqrr8L-v-aBNTxivYyHAAAAAElFTkSuQmCC.png",
+   "link": "https://www.facebook.com/events/19000-ronald-reagan-san-antonio-tx/greenback-nightmeet-the-teacher/1384105557231817/?source=ev",
+   "thumbnail": "https://serpapi.com/searches/6aa30a2af05275dd9b82a89d/images/XTbrEr2mqpI9l_ZxIq3jc7g0qU5bOyw_KoLOftS-dZc.jpeg"
+  }
+ ],
+ "knowledge_graph": {
+  "title": "Reagan High School",
+  "type": "High school in San Antonio, Texas",
+  "entity_type": "local_nav",
+  "kgmid": "/m/02rjkxw",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/02rjkxw&hl=en-US&q=Reagan+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F02rjkxw&q=Reagan+High+School",
+  "place_id": "ChIJcb4kfAhiXIYRHQDRmc8I1sk",
+  "website": "http://reagan.neisd.net/",
+  "description": "Ronald Reagan High School is a public high school located in the North East Independent School District in San Antonio, Texas, United States, and named after U.S. President Ronald Reagan. The school serves a portion of Timberwood Park and Stone Oak.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa30a2af05275dd9b82a89d/images/OdjqSJkO23HKJstLwlMz7aKqcUX_Jl3XFWtY5XJcLCk.webp",
+   "link": "https://www.google.com/maps/place/Reagan+High+School/data=!4m2!3m1!1s0x0:0xc9d608cf99d1001d?sa=X&ved=2ahUKEwjzt7LU5OSWAxXm48kDHca5NBkQ_BJ6BAgSEAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Ronald_Reagan_High_School_(San_Antonio)"
+  },
+  "address": "19000 Ronald Reagan Dr, San Antonio, TX 78258",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=ronald+reagan+high+school+san+antonio+address&ludocid=14543821734371459101&sa=X&ved=2ahUKEwjzt7LU5OSWAxXm48kDHca5NBkQ6BN6BAglEAI"
+   }
+  ],
+  "founded": "1999",
+  "colors": "Green, Black, Silver",
+  "colors_links": [
+   {
+    "text": "Green",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpoz5wXyxWqEflzd6czJ_pS-pVikmYHSXSkhMaaW4zVmAKtCeFRp5_L9U9aFcbEZjrjytvTqhSy2iIXrhlcbGVzCL8ol96ePKtpaqk7TLEk6YphERA9asMlo7iRRdt7koRoIEjcKAovAQgnLmD59IVH2ry431HaByP_LkOuyKH8z8GMVoITRf62jFZ9vemaC0HXc2tas%3D&sa=X&ved=2ahUKEwjzt7LU5OSWAxXm48kDHca5NBkQmxN6BAgtEAI"
+   },
+   {
+    "text": "Black",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpraX69jV5X33UKfb-qjUYOsjWjX7nO47WTc3bfTI9Y65fUGHxL7EzWUsouVi1crEYEwvHqdTHQpUM1M30ZYn4Oahejux56V0NnRoInoT9DJIVgv6Iw3hUsDnRDyxmrr3vKRdPHMSS85ErgIZ8qZiuzpjFG3TTJqkAFclQUQoZ2j3HlCD_U9oDvM1r1zUPPuPeNrYMZs%3D&sa=X&ved=2ahUKEwjzt7LU5OSWAxXm48kDHca5NBkQmxN6BAgtEAM"
+   },
+   {
+    "text": "Silver",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yTZg2B97QDgTl8QeoF0Lqtnahv_J1m39M9qmkuDXjbuOC3N9U4NvReR13f9ceMI6RbbS5IquNkwty4u-UEqBLK_vM_6FHtb9c1FRLEhFTKOcCRy8pladr4Usp-y9kwz8dLnNPmMf7MAKewN9wicO_jk8pYcV5_Js1d3YlZLBz2ntEfpEBQw2crfRZt44z_Vt-S9ED9I%3D&sa=X&ved=2ahUKEwjzt7LU5OSWAxXm48kDHca5NBkQmxN6BAgtEAQ"
+   }
+  ],
+  "mascot": "Rattlesnake",
+  "mascot_links": [
+   {
+    "text": "Rattlesnake",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yUL4hdv4PigbcR2mm0R6zB1bVt9r7vlR-uxyY2Q0yMJ9VZ9l-OXJ44y10JjT_vRUgUVjbSe9ViMgAgkmxCO4l6qecGDsULUMC3ZX7dQOKknVPJ1YXytKuiOp9l24oZix2MdTpaVg2eAAvHI5zRyXTibZpS66&sa=X&ved=2ahUKEwjzt7LU5OSWAxXm48kDHca5NBkQmxN6BAguEAI"
+   }
+  ],
+  "phone": "(210) 356-1800",
+  "raw_hours": "Open \u00b7 Closes 4 - 25 PM",
+  "hours": {
+   "thursday": {
+    "opens": "8:55\u202fAM",
+    "closes": "4:25\u202fPM"
+   },
+   "friday": {
+    "opens": "8:55\u202fAM",
+    "closes": "4:25\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "8:55\u202fAM",
+    "closes": "4:25\u202fPM"
+   },
+   "tuesday": {
+    "opens": "8:55\u202fAM",
+    "closes": "4:25\u202fPM"
+   },
+   "wednesday": {
+    "opens": "8:55\u202fAM",
+    "closes": "4:25\u202fPM"
+   }
+  },
+  "merchant_description": "\"Reagan High School offers engaging 9th through 12th grade education and athletics to the San Antonio community. As a part of NEISD, accredited academics and student growth are the priorities of the curriculum.\"",
+  "posts": [
+   {
+    "media": "https://lh3.googleusercontent.com/geougc/AF1QipOgiCsHI1u62GOtRjASsLBogu9mkDigyXaFhRGi=h763-no",
+    "cta": "Learn more",
+    "link": "https://www.neisd.net/calendar",
+    "post_link": "https://search.google.com/local/posts?q=Reagan+High+School&ludocid=14543821734371459101&lpsid=CIHM0ogKEMjv4tOXlr6m1gE&source=sh/x/loc/post/m1/1&lsig=AB86z5VKpxM_HypCtE_7T-68TvYm&shem=epsd1,rimspwouoe&shndl=-1",
+    "description": "We are closed on Monday, May 25 for Memorial Day.",
+    "date": "May 22, 2026"
+   },
+   {
+    "media": "https://lh3.googleusercontent.com/geougc/AF1QipNw7CJABfPrmeDKcS-MT1KYLY52muIiBoO5SQ-f=w1433-h1433-p-no",
+    "cta": "Learn more",
+    "link": "https://www.flickr.com/photos/neisd/albums/72177720333776591/",
+    "post_link": "https://search.google.com/local/posts?q=Reagan+High+School&ludocid=14543821734371459101&lpsid=CIHM0ogKEPzLhaKPoavUtQE&source=sh/x/loc/post/m1/1&lsig=AB86z5VKpxM_HypCtE_7T-68TvYm&shem=epsd1,rimspwouoe&shndl=-1",
+    "description": "Our 2026 North East ISD retirement class helped shape the daily experiences of North East students for generations. Together, they represent 4,766 years of service!\n\nClick below to view all the pictures from the ceremony.",
+    "date": "May 22, 2026"
+   },
+   {
+    "media": "https://lh3.googleusercontent.com/geougc/AF1QipP5gvFxNiDhdJZLXSFyXmpVED7IRJMVPOscJyvO=h763-no",
+    "cta": "Learn more",
+    "link": "https://www.neisd.net/calendar",
+    "post_link": "https://search.google.com/local/posts?q=Reagan+High+School&ludocid=14543821734371459101&lpsid=CIHM0ogKEI7qgebk4r-o0AE&source=sh/x/loc/post/m1/1&lsig=AB86z5VKpxM_HypCtE_7T-68TvYm&shem=epsd1,rimspwouoe&shndl=-1",
+    "description": "We are closed on Friday, April 24 for Battle of Flowers.",
+    "date": "Apr 23, 2026"
+   },
+   {
+    "media": "https://lh3.googleusercontent.com/geougc/AF1QipMQLva3M2_UWO84ZjTGmeMt6vcbPq11I6cdHqeY=h763-no",
+    "cta": "Learn more",
+    "link": "https://www.neisd.net/Calendars/",
+    "post_link": "https://search.google.com/local/posts?q=Reagan+High+School&ludocid=14543821734371459101&lpsid=CIHM0ogKELKE0LjblvXxiQE&source=sh/x/loc/post/m1/1&lsig=AB86z5VKpxM_HypCtE_7T-68TvYm&shem=epsd1,rimspwouoe&shndl=-1",
+    "description": "We are closed on Friday, April 3 for Good Friday.",
+    "date": "Apr 2, 2026"
+   }
+  ],
+  "people_also_search_for": [
+   {
+    "name": "Johnson High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmypYn2f9WWmi3fouA4LigaBeB3u16Jme00hik9x7VB_dVjnXCKN_QBLPoJJblgVAvjIyvgpmQOThdR2h__1OSeZi90rT6I9RrgQLh2OC2uN7QI-4eFblM2OoyReqCQ_IL7CVgWfwHfj0Gg=w152-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW674irDq4mbEqL9l08be-FvPaqmDxLio2kSBtfPK4mEG68bzBCmIX117Eo15QH0BvQvHfqJ42quwdt31bykDiX50DVmuG_Y9yW8l0IeV-ahed8LHmFiBe0rVGkWXK3MiXycRUPgHAtkk12NKjAhLfHVt39P_1OkYLfqOkjMNMUsptDb4k0RjaOWh5n1v6E-VJGJs_Grjpm2of5AfuqKbOLlEo4FbJJpi-FhqqGYdB9YFPNioQuHLtjCP5fINlYdKeZNEvcgmOkz5eMrtJfWupGfh4L1F33&q=Lady+Bird+Johnson+High+School&sa=X&ved=2ahUKEwjzt7LU5OSWAxXm48kDHca5NBkQs9oBKAB6BAgiEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Lady+Bird+Johnson+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW674irDq4mbEqL9l08be-FvPaqmDxLio2kSBtfPK4mEG68bzBCmIX117Eo15QH0BvQvHfqJ42quwdt31bykDiX50DVmuG_Y9yW8l0IeV-ahed8LHmFiBe0rVGkWXK3MiXycRUPgHAtkk12NKjAhLfHVt39P_1OkYLfqOkjMNMUsptDb4k0RjaOWh5n1v6E-VJGJs_Grjpm2of5AfuqKbOLlEo4FbJJpi-FhqqGYdB9YFPNioQuHLtjCP5fINlYdKeZNEvcgmOkz5eMrtJfWupGfh4L1F33"
+   },
+   {
+    "name": "Churchill High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWldQ4BtT8XF5k6umWhxOOBiD_CSlCinpn9F5JIOsTsuh7jYJO7EROAmWE--JLBwmo12onpWIDw8HBw4KpfxTbuIxLrdyumaQPNzKqvJEcZ0pOBtwpcWYi6e3vs8B_cnRuuq71uAi61sZBIl=w152-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW671lsCu9v3DuXxQ3oray2kSNz36NC0uGDgUf4ZogQaiSz9cHisxlJaURtQjlxN2giwFk_x_J8RuHRxT0p9jWS9rjOctmJMHGIVSazYvF_szTOIYHZACOSER8orlKJzE7SDjoXVnFrxgGTDA5ieGZum7V1tc2QSW8-r2Ln7Z7wOpoNkT2Baja2ayZSJCoUgxD1f_G_T1pBq8XhESn27DcbvdrU_Lk6gXkPvmz6r-_tSeAbrbyaqqTL0A_L74S7lG_inGPzk1A2W6LVlUcQxUvuPz0_esjH&q=Winston+Churchill+High+School&sa=X&ved=2ahUKEwjzt7LU5OSWAxXm48kDHca5NBkQs9oBKAB6BAgiEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Winston+Churchill+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW671lsCu9v3DuXxQ3oray2kSNz36NC0uGDgUf4ZogQaiSz9cHisxlJaURtQjlxN2giwFk_x_J8RuHRxT0p9jWS9rjOctmJMHGIVSazYvF_szTOIYHZACOSER8orlKJzE7SDjoXVnFrxgGTDA5ieGZum7V1tc2QSW8-r2Ln7Z7wOpoNkT2Baja2ayZSJCoUgxD1f_G_T1pBq8XhESn27DcbvdrU_Lk6gXkPvmz6r-_tSeAbrbyaqqTL0A_L74S7lG_inGPzk1A2W6LVlUcQxUvuPz0_esjH"
+   },
+   {
+    "name": "Louis D. Brandeis High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn3mzRcVuX9QR6s19L0MLQF7UmclfOfBuW-5LjjQE-qZTiaRKXNuEl7MBgt7hmC58DLOhUKlPKVWRrqmEL5O6XVgAMLLS9D0xtxNuix4sjYqAObsx98snItn9O2dD0YW8qiVMQz=w153-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW673PbctPGgwhOysfbOCc8EvwlBs5u8fqJEmHG2GZUcAHRKId1g3bEFi8XPYR2u_wQPVh_o-IceKfJFd1MC7H_ZhyAcE0Wfm6WnydYayjXDh0tG4BRjk7dZ4OV9WYFge4LTHeX1581P0uhm8DYNJEOhNopjNiuW5PIqXntAT7OZUdcSAG2hePXmOc321rfMjI-Cp1JJzXu_BS-G5vNNI9TADU_Rop6q_iROgWQNUZxldbMvqPceemvG0fINO9qVhiLPzcMtP0gnz1l5rbQ8WncHv8HA3e-&q=Louis+D.+Brandeis+High+School&sa=X&ved=2ahUKEwjzt7LU5OSWAxXm48kDHca5NBkQs9oBKAB6BAgiEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Louis+D.+Brandeis+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW673PbctPGgwhOysfbOCc8EvwlBs5u8fqJEmHG2GZUcAHRKId1g3bEFi8XPYR2u_wQPVh_o-IceKfJFd1MC7H_ZhyAcE0Wfm6WnydYayjXDh0tG4BRjk7dZ4OV9WYFge4LTHeX1581P0uhm8DYNJEOhNopjNiuW5PIqXntAT7OZUdcSAG2hePXmOc321rfMjI-Cp1JJzXu_BS-G5vNNI9TADU_Rop6q_iROgWQNUZxldbMvqPceemvG0fINO9qVhiLPzcMtP0gnz1l5rbQ8WncHv8HA3e-"
+   },
+   {
+    "name": "James Madison High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkZAMXOvOnLdcPGGY5BWpn3R24r1IxV1kv2c0YArmV2LAzSnahPf21dcnGjifZBgSHJLIIVf6FjyTvZFEXXCSeRjdTS8oSmtutcPpCnbRw2VfIWDTEMu--B5pmsAfjNShkCgIhMfHC9eeRr=w115-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW671s0dHjwIYSlQoiLoqsxQLfLUFT6-aEkdtUpjdE3CK4n-TmmmCdAXEfB67qOjrBXi4WcWSB0dyr9U1GlEadsDxT2q8EQW65XEX132Z6Dsmbwh47Tu3Xi6zBL_Kk50i7d4d3nUkLKNCI9AI8oRN5P0zp-0UNLG8B5kBjQ7LRT7hA2z8knyNxP31ckI6lSV48g-1TLriqzVSo1Fv7lnPzd640AusgWlfXRN3uBX7OjPaeUGQ6mWQlXfHSk97vaWAy-GdEKCE28XFcYBNFC1hOiGZ4zPgIG3ClfGv3BikbEz5PrC_an8w%3D%3D&q=James+Madison+High+School+(San+Antonio)&sa=X&ved=2ahUKEwjzt7LU5OSWAxXm48kDHca5NBkQs9oBKAB6BAgiEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=James+Madison+High+School+%28San+Antonio%29&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW671s0dHjwIYSlQoiLoqsxQLfLUFT6-aEkdtUpjdE3CK4n-TmmmCdAXEfB67qOjrBXi4WcWSB0dyr9U1GlEadsDxT2q8EQW65XEX132Z6Dsmbwh47Tu3Xi6zBL_Kk50i7d4d3nUkLKNCI9AI8oRN5P0zp-0UNLG8B5kBjQ7LRT7hA2z8knyNxP31ckI6lSV48g-1TLriqzVSo1Fv7lnPzd640AusgWlfXRN3uBX7OjPaeUGQ6mWQlXfHSk97vaWAy-GdEKCE28XFcYBNFC1hOiGZ4zPgIG3ClfGv3BikbEz5PrC_an8w%3D%3D"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Ronald+Reagan+High+School+(San+Antonio)&stick=H4sIAAAAAAAAAONgFuLSz9U3MCrKyq4oV0JiawkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axKoelJ-XmJOiEJSamJ6Yp-CRmZ6hEJyckZ-fo6ARDBRwzCvJz8vM19zByniLTZLhjUNFYC5fU-eScMNDrNqLNkckBdukh30_DgCIbTdtjwAAAA&sa=X&ved=2ahUKEwjzt7LU5OSWAxXm48kDHca5NBkQzO0BKAR6BAgiEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLSz9U3MCrKyq4oV0JiawkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axKoelJ-XmJOiEJSamJ6Yp-CRmZ6hEJyckZ-fo6ARDBRwzCvJz8vM19zByniLTZLhjUNFYC5fU-eScMNDrNqLNkckBdukh30_DgCIbTdtjwAAAA",
+  "profiles": [
+   {
+    "name": "TikTok",
+    "link": "https://www.tiktok.com/@reaganneisd",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Ronald+Reagan+High+School%22+Texas",
+    "image": "https://ssl.gstatic.com/kpui/social/tiktok_32x32.png"
+   },
+   {
+    "name": "YouTube",
+    "link": "https://www.youtube.com/channel/UCgmja4-QQ3QgJR7C2n8-E7A",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Ronald+Reagan+High+School%22+Texas",
+    "image": "https://ssl.gstatic.com/kpui/social/youtube_32x32.png"
+   },
+   {
+    "name": "Instagram",
+    "link": "https://instagram.com/reaganneisd/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Ronald+Reagan+High+School%22+Texas",
+    "image": "https://ssl.gstatic.com/kpui/social/instagram_32x32.png"
+   },
+   {
+    "name": "X (Twitter)",
+    "link": "https://twitter.com/reaganwayrhs",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Ronald+Reagan+High+School%22+Texas",
+    "image": "https://ssl.gstatic.com/kpui/social/x_32x32.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "Is Reagan High School a good school in San Antonio?",
+   "type": "ai_overview",
+   "page_token": "3RfiOXicHdBdbpswAABg7TJ9bACLbI0UTXJwoCQ4s8E2-GVy7AQC5qcNCglvu8LOsFP1NFV3gk_6_vyzl675-Pa3Gsfhulospml6Lvu-tKdn3bcLdX10eqGVtUelm9Xy-9L9edZrdNNw864hYcPAA-qkDxccZ7kTIR1ZVkymjnEaweteyKVprM9zO4uoqgvPpQrgSUc8OESYkhqjpNsiHNHZhMWdi-FXspUAI_mm0UvKPEtUQF9lK6HhvZe6cs-zqqYASjXjB_aMTDL7Ki4uLDo7qJwqVtsNDmAswh-uaZmThIPCIt7LOY4YkDwLYI5DypTls2HFXTk-zjx_pzI6GOfLKgEXMU3m8q4538mw9LTDocktEii-ococWL59K_KYpI1vi6aaDgElp0gSBiyltL8QRmdd2y99OnaQHtvGP6HrSDrjGVdPpy7eJOjlUABDGHk669saPP2_Xv8-t-NqeO_LT8szjFA",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=3RfiOXicHdBdbpswAABg7TJ9bACLbI0UTXJwoCQ4s8E2-GVy7AQC5qcNCglvu8LOsFP1NFV3gk_6_vyzl675-Pa3Gsfhulospml6Lvu-tKdn3bcLdX10eqGVtUelm9Xy-9L9edZrdNNw864hYcPAA-qkDxccZ7kTIR1ZVkymjnEaweteyKVprM9zO4uoqgvPpQrgSUc8OESYkhqjpNsiHNHZhMWdi-FXspUAI_mm0UvKPEtUQF9lK6HhvZe6cs-zqqYASjXjB_aMTDL7Ki4uLDo7qJwqVtsNDmAswh-uaZmThIPCIt7LOY4YkDwLYI5DypTls2HFXTk-zjx_pzI6GOfLKgEXMU3m8q4538mw9LTDocktEii-ococWL59K_KYpI1vi6aaDgElp0gSBiyltL8QRmdd2y99OnaQHtvGP6HrSDrjGVdPpy7eJOjlUABDGHk669saPP2_Xv8-t-NqeO_LT8szjFA",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTExXUlJURmd0VUdoM2IySkZSVWgzT0RWWFgzWXhlbmRMTjJ4TE1sbE1ORGR1Y1hCQmJHUldYMFJLWWtkRVh6Sm9VSE5rTm5obVJVRkpUSEV4VjNOTWQydHNMV3RUTFhJM2J5MXZVRU40YnpFNVkzRlRlRE5aVnpsNVVSSVhUbEZ4YW1GeVVFcE9aV0pJY0RnMFVIaDJVRk41VVVVYUlrRkVjM0k1WmxSMGJFZFBSblUzY2pBMmJYUmxZMmRpZEVnd1owRkhXV05STTNjIiwiZmN2IjoiMyIsImVpIjoiTlFxamFyUEpOZWJIcDg0UHh2UFN5UUUiLCJxYyI6IkNoOXliMjVoYkdRZ2NtVmhaMkZ1SUdocFoyZ2djMk5vYjI5c0lIUmxlR0Z6RUFCOW9za3ZQdyIsInF1ZXN0aW9uIjoiSXMgUmVhZ2FuIEhpZ2ggU2Nob29sIGEgZ29vZCBzY2hvb2wgaW4gU2FuIEFudG9uaW8/IiwibGsiOiJjNVBTenl4V0tFcE5URV9NVThqSVRNOVFLRTdPeU1fUFVVaFVTTV9QVDRIeGlvR3lpWGtsLVhtWi1RQSIsImJzIjoiYzQzUXZRckRJQlFGWUxvNmRYYTZEMUJva181UXNvUnU2Wm9VT3Rzb0tnUXZxSkE4ZmhVcE5TRkRSdlY4WE04bGlweWZEbHJCSkRQUWFLbWc2eFhpQUF3a0lnZVhUdHBBRndJUDQ5Rm9yTXVDSHJVRG01aUt6SzB4RjE1Wk1tUWkxVnN4RDhGNUpjRHFYZ25uZjBtdW5ROVhmakhwQUM4eE1WZVhGYjJQMjNRMkUzekVSSktpd1JFLVdrYmVvbUVEWDZzOGExalNrX29qbTlCSzRid2lrbXRlTWNiaUp5M3pnc19RY3AwM2VobTN3bXpnZnZjRiIsImlkIjoiZmNfTlFxamFyUEpOZWJIcDg0UHh2UFN5UUVfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTExXUlJURmd0VUdoM2IySkZSVWgzT0RWWFgzWXhlbmRMTjJ4TE1sbE1ORGR1Y1hCQmJHUldYMFJLWWtkRVh6Sm9VSE5rTm5obVJVRkpUSEV4VjNOTWQydHNMV3RUTFhJM2J5MXZVRU40YnpFNVkzRlRlRE5aVnpsNVVSSVhUbEZ4YW1GeVVFcE9aV0pJY0RnMFVIaDJVRk41VVVVYUlrRkVjM0k1WmxSMGJFZFBSblUzY2pBMmJYUmxZMmRpZEVnd1owRkhXV05STTNjIiwiZmN2IjoiMyIsImVpIjoiTlFxamFyUEpOZWJIcDg0UHh2UFN5UUUiLCJxYyI6IkNoOXliMjVoYkdRZ2NtVmhaMkZ1SUdocFoyZ2djMk5vYjI5c0lIUmxlR0Z6RUFCOW9za3ZQdyIsInF1ZXN0aW9uIjoiSXMgUmVhZ2FuIEhpZ2ggU2Nob29sIGEgZ29vZCBzY2hvb2wgaW4gU2FuIEFudG9uaW8%2FIiwibGsiOiJjNVBTenl4V0tFcE5URV9NVThqSVRNOVFLRTdPeU1fUFVVaFVTTV9QVDRIeGlvR3lpWGtsLVhtWi1RQSIsImJzIjoiYzQzUXZRckRJQlFGWUxvNmRYYTZEMUJva181UXNvUnU2Wm9VT3Rzb0tnUXZxSkE4ZmhVcE5TRkRSdlY4WE04bGlweWZEbHJCSkRQUWFLbWc2eFhpQUF3a0lnZVhUdHBBRndJUDQ5Rm9yTXVDSHJVRG01aUt6SzB4RjE1Wk1tUWkxVnN4RDhGNUpjRHFYZ25uZjBtdW5ROVhmakhwQUM4eE1WZVhGYjJQMjNRMkUzekVSSktpd1JFLVdrYmVvbUVEWDZzOGExalNrX29qbTlCSzRid2lrbXRlTWNiaUp5M3pnc19RY3AwM2VobTN3bXpnZnZjRiIsImlkIjoiZmNfTlFxamFyUEpOZWJIcDg0UHh2UFN5UUVfNSJ9"
+  },
+  {
+   "question": "What is the richest school district in San Antonio, Texas?",
+   "type": "ai_overview",
+   "page_token": "5V8SCHicHdBLbtpAGABg9TJZBg-uqUBCkRxjEAG78_jntakmM4DBM9jFTpx41yv0DDlVTtOo-2_1_fnw52v9-e1v1fdtt5hMhmG4PzXNyR_ubRMmpnu_2ok13j8bWy9mP2bo4WiXq1ebPt5siqFteUYiKt5uVHhqILmQjdNOVqmT2whHfewuXOMAiRW9twEBlc1UjVVRQqXMY4Q0RdqO7oWt0frLAwa9KfP2iXt-dTV6k3GamUi9H1Y2YTz_zkNBWUCB1zrZiaIxSD-xLO0I6E5wFR_8fE2AtGraDOxL2XVirPQRHysokMtLMY_oyv2E4G6EnSIn0-lezM3zGe1Y7PYM2lHG9VRxMlOX9IVlTlDRIbNJ95DzfFW5EmT-W8ktpnXiVV0NZUbwYaMxxJ4Q0pwxkNFefIArJwqQInVPBRSZFh7vRN85tN1hPzeEQ4Lx3dG-LuO7_9fLX8fQL9pbc_oHG0CMUg",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=5V8SCHicHdBLbtpAGABg9TJZBg-uqUBCkRxjEAG78_jntakmM4DBM9jFTpx41yv0DDlVTtOo-2_1_fnw52v9-e1v1fdtt5hMhmG4PzXNyR_ubRMmpnu_2ok13j8bWy9mP2bo4WiXq1ebPt5siqFteUYiKt5uVHhqILmQjdNOVqmT2whHfewuXOMAiRW9twEBlc1UjVVRQqXMY4Q0RdqO7oWt0frLAwa9KfP2iXt-dTV6k3GamUi9H1Y2YTz_zkNBWUCB1zrZiaIxSD-xLO0I6E5wFR_8fE2AtGraDOxL2XVirPQRHysokMtLMY_oyv2E4G6EnSIn0-lezM3zGe1Y7PYM2lHG9VRxMlOX9IVlTlDRIbNJ95DzfFW5EmT-W8ktpnXiVV0NZUbwYaMxxJ4Q0pwxkNFefIArJwqQInVPBRSZFh7vRN85tN1hPzeEQ4Lx3dG-LuO7_9fLX8fQL9pbc_oHG0CMUg",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTExXUlJURmd0VUdoM2IySkZSVWgzT0RWWFgzWXhlbmRMTjJ4TE1sbE1ORGR1Y1hCQmJHUldYMFJLWWtkRVh6Sm9VSE5rTm5obVJVRkpUSEV4VjNOTWQydHNMV3RUTFhJM2J5MXZVRU40YnpFNVkzRlRlRE5aVnpsNVVSSVhUbEZ4YW1GeVVFcE9aV0pJY0RnMFVIaDJVRk41VVVVYUlrRkVjM0k1WmxSMGJFZFBSblUzY2pBMmJYUmxZMmRpZEVnd1owRkhXV05STTNjIiwiZmN2IjoiMyIsImVpIjoiTlFxamFyUEpOZWJIcDg0UHh2UFN5UUUiLCJxYyI6IkNoOXliMjVoYkdRZ2NtVmhaMkZ1SUdocFoyZ2djMk5vYjI5c0lIUmxlR0Z6RUFCOW9za3ZQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgcmljaGVzdCBzY2hvb2wgZGlzdHJpY3QgaW4gU2FuIEFudG9uaW8sIFRleGFzPyIsImxrIjoiY3czSndRbkFNQXdEd0QzeTBoaFp4NlFHRzRvTmxTQVp2X25lamJuRGhDUVVqaTlYT0FXdTZIN3hKSFhwZG9GV3NGSlhOdVRILUFNIiwiYnMiOiJjNDNRdlFyRElCUUZZTG82ZFhhNkQxQm9rXzVRc29SdTZab1VPdHNvS2dRdnFKQThmaFVwTlNGRFJ2VjhYTThsaXB5ZkRsckJKRFBRYUttZzZ4WGlBQXdrSWdlWFR0cEFGd0lQNDlGb3JNdUNIclVEbTVpS3pLMHhGMTVaTW1RaTFWc3hEOEY1SmNEcVhnbm5mMG11blE5WGZqSHBBQzh4TVZlWEZiMlAyM1EyRTN6RVJKS2l3UkUtV2tiZW9tRURYNnM4YTFqU2tfb2ptOUJLNGJ3aWttdGVNY2JpSnkzemdzX1FjcDAzZWhtM3dtemdmdmNGIiwiaWQiOiJmY19OUXFqYXJQSk5lYkhwODRQeHZQU3lRRV81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTExXUlJURmd0VUdoM2IySkZSVWgzT0RWWFgzWXhlbmRMTjJ4TE1sbE1ORGR1Y1hCQmJHUldYMFJLWWtkRVh6Sm9VSE5rTm5obVJVRkpUSEV4VjNOTWQydHNMV3RUTFhJM2J5MXZVRU40YnpFNVkzRlRlRE5aVnpsNVVSSVhUbEZ4YW1GeVVFcE9aV0pJY0RnMFVIaDJVRk41VVVVYUlrRkVjM0k1WmxSMGJFZFBSblUzY2pBMmJYUmxZMmRpZEVnd1owRkhXV05STTNjIiwiZmN2IjoiMyIsImVpIjoiTlFxamFyUEpOZWJIcDg0UHh2UFN5UUUiLCJxYyI6IkNoOXliMjVoYkdRZ2NtVmhaMkZ1SUdocFoyZ2djMk5vYjI5c0lIUmxlR0Z6RUFCOW9za3ZQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgcmljaGVzdCBzY2hvb2wgZGlzdHJpY3QgaW4gU2FuIEFudG9uaW8sIFRleGFzPyIsImxrIjoiY3czSndRbkFNQXdEd0QzeTBoaFp4NlFHRzRvTmxTQVp2X25lamJuRGhDUVVqaTlYT0FXdTZIN3hKSFhwZG9GV3NGSlhOdVRILUFNIiwiYnMiOiJjNDNRdlFyRElCUUZZTG82ZFhhNkQxQm9rXzVRc29SdTZab1VPdHNvS2dRdnFKQThmaFVwTlNGRFJ2VjhYTThsaXB5ZkRsckJKRFBRYUttZzZ4WGlBQXdrSWdlWFR0cEFGd0lQNDlGb3JNdUNIclVEbTVpS3pLMHhGMTVaTW1RaTFWc3hEOEY1SmNEcVhnbm5mMG11blE5WGZqSHBBQzh4TVZlWEZiMlAyM1EyRTN6RVJKS2l3UkUtV2tiZW9tRURYNnM4YTFqU2tfb2ptOUJLNGJ3aWttdGVNY2JpSnkzemdzX1FjcDAzZWhtM3dtemdmdmNGIiwiaWQiOiJmY19OUXFqYXJQSk5lYkhwODRQeHZQU3lRRV81In0%3D"
+  },
+  {
+   "question": "How big is Ronald Reagan High School San Antonio?",
+   "type": "ai_overview",
+   "page_token": "53iRynicHdBbbptAFABQdTP5jHnYqWLJqoRhTLA9FsO8mJ-KXGwwc3kkpqbmr1voGrqqrqZSzxLOrz947ezfL7_rcRxu68Vimqbnqu8rPD9D3y6K26ODBRSI7wXY9cvXF_fbBTbRHYLtJwSpGAYZMifjTGaqboyzIlInTAr0BGctj-QMZLgdxCsXNtmdo5rIrvKobx7MEn5Uva89ej_F1M80qXmYCO4Ge2bl1vjmg6lxJ0iwFREule6XipdCtWNLtdkXvJqL2VzAzVfvhNiDIm9MyTwVYwJdMB9j8gOi8UERp8KZHkbhoQjJBGqMKZIjNOWyjJO7ssObdhIJXe4ZHUS5-DkwG03aLW3e0D1XxC8w8LK5RBXCMqrLk9DkI9dJmtkV5raeTiFLz7FJhY-Msf6aCjZDg61w8AqE-NpNdmWD-1TVB9O-NryhmkrJWFiiSJ8ucN_4T_-vN98v7bgePvvqH3GJjZ0",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=53iRynicHdBbbptAFABQdTP5jHnYqWLJqoRhTLA9FsO8mJ-KXGwwc3kkpqbmr1voGrqqrqZSzxLOrz947ezfL7_rcRxu68Vimqbnqu8rPD9D3y6K26ODBRSI7wXY9cvXF_fbBTbRHYLtJwSpGAYZMifjTGaqboyzIlInTAr0BGctj-QMZLgdxCsXNtmdo5rIrvKobx7MEn5Uva89ej_F1M80qXmYCO4Ge2bl1vjmg6lxJ0iwFREule6XipdCtWNLtdkXvJqL2VzAzVfvhNiDIm9MyTwVYwJdMB9j8gOi8UERp8KZHkbhoQjJBGqMKZIjNOWyjJO7ssObdhIJXe4ZHUS5-DkwG03aLW3e0D1XxC8w8LK5RBXCMqrLk9DkI9dJmtkV5raeTiFLz7FJhY-Msf6aCjZDg61w8AqE-NpNdmWD-1TVB9O-NryhmkrJWFiiSJ8ucN_4T_-vN98v7bgePvvqH3GJjZ0",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTExXUlJURmd0VUdoM2IySkZSVWgzT0RWWFgzWXhlbmRMTjJ4TE1sbE1ORGR1Y1hCQmJHUldYMFJLWWtkRVh6Sm9VSE5rTm5obVJVRkpUSEV4VjNOTWQydHNMV3RUTFhJM2J5MXZVRU40YnpFNVkzRlRlRE5aVnpsNVVSSVhUbEZ4YW1GeVVFcE9aV0pJY0RnMFVIaDJVRk41VVVVYUlrRkVjM0k1WmxSMGJFZFBSblUzY2pBMmJYUmxZMmRpZEVnd1owRkhXV05STTNjIiwiZmN2IjoiMyIsImVpIjoiTlFxamFyUEpOZWJIcDg0UHh2UFN5UUUiLCJxYyI6IkNoOXliMjVoYkdRZ2NtVmhaMkZ1SUdocFoyZ2djMk5vYjI5c0lIUmxlR0Z6RUFCOW9za3ZQdyIsInF1ZXN0aW9uIjoiSG93IGJpZyBpcyBSb25hbGQgUmVhZ2FuIEhpZ2ggU2Nob29sIFNhbiBBbnRvbmlvPyIsImxrIjoiR2pCb2IzY2dZbWxuSUdseklISnZibUZzWkNCeVpXRm5ZVzRnYUdsbmFDQnpZMmh2YjJ3Z2MyRnVJR0Z1ZEc5dWFXOCIsImJzIjoiYzQzUXZRckRJQlFGWUxvNmRYYTZEMUJva181UXNvUnU2Wm9VT3Rzb0tnUXZxSkE4ZmhVcE5TRkRSdlY4WE04bGlweWZEbHJCSkRQUWFLbWc2eFhpQUF3a0lnZVhUdHBBRndJUDQ5Rm9yTXVDSHJVRG01aUt6SzB4RjE1Wk1tUWkxVnN4RDhGNUpjRHFYZ25uZjBtdW5ROVhmakhwQUM4eE1WZVhGYjJQMjNRMkUzekVSSktpd1JFLVdrYmVvbUVEWDZzOGExalNrX29qbTlCSzRid2lrbXRlTWNiaUp5M3pnc19RY3AwM2VobTN3bXpnZnZjRiIsImlkIjoiZmNfTlFxamFyUEpOZWJIcDg0UHh2UFN5UUVfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTExXUlJURmd0VUdoM2IySkZSVWgzT0RWWFgzWXhlbmRMTjJ4TE1sbE1ORGR1Y1hCQmJHUldYMFJLWWtkRVh6Sm9VSE5rTm5obVJVRkpUSEV4VjNOTWQydHNMV3RUTFhJM2J5MXZVRU40YnpFNVkzRlRlRE5aVnpsNVVSSVhUbEZ4YW1GeVVFcE9aV0pJY0RnMFVIaDJVRk41VVVVYUlrRkVjM0k1WmxSMGJFZFBSblUzY2pBMmJYUmxZMmRpZEVnd1owRkhXV05STTNjIiwiZmN2IjoiMyIsImVpIjoiTlFxamFyUEpOZWJIcDg0UHh2UFN5UUUiLCJxYyI6IkNoOXliMjVoYkdRZ2NtVmhaMkZ1SUdocFoyZ2djMk5vYjI5c0lIUmxlR0Z6RUFCOW9za3ZQdyIsInF1ZXN0aW9uIjoiSG93IGJpZyBpcyBSb25hbGQgUmVhZ2FuIEhpZ2ggU2Nob29sIFNhbiBBbnRvbmlvPyIsImxrIjoiR2pCb2IzY2dZbWxuSUdseklISnZibUZzWkNCeVpXRm5ZVzRnYUdsbmFDQnpZMmh2YjJ3Z2MyRnVJR0Z1ZEc5dWFXOCIsImJzIjoiYzQzUXZRckRJQlFGWUxvNmRYYTZEMUJva181UXNvUnU2Wm9VT3Rzb0tnUXZxSkE4ZmhVcE5TRkRSdlY4WE04bGlweWZEbHJCSkRQUWFLbWc2eFhpQUF3a0lnZVhUdHBBRndJUDQ5Rm9yTXVDSHJVRG01aUt6SzB4RjE1Wk1tUWkxVnN4RDhGNUpjRHFYZ25uZjBtdW5ROVhmakhwQUM4eE1WZVhGYjJQMjNRMkUzekVSSktpd1JFLVdrYmVvbUVEWDZzOGExalNrX29qbTlCSzRid2lrbXRlTWNiaUp5M3pnc19RY3AwM2VobTN3bXpnZnZjRiIsImlkIjoiZmNfTlFxamFyUEpOZWJIcDg0UHh2UFN5UUVfNSJ9"
+  },
+  {
+   "question": "What is the highest rated high school in San Antonio?",
+   "type": "ai_overview",
+   "page_token": "7xtZUnicHdBRbpswGABg7TJ9bKBAtkWKJmWxk7rDyA7-DX6ZjCEhwQaWoBB46xV2hp1qp6nU7wjf-z97bpv_X_7Ww9DfVovFOI7Pp6472erZdG6hb1NrFkZbW2jTrJZfl_6Po1mju9n8vJoNE30PW-4dss2rar6FVIy-2ENvrBoFIlzi-loA9VhDbwqr8JcAlKTqbjB2WuReAYRwRKzcchm3JMr8bmKe2lcun-S2DpnASCMOaoaWZvYeA-6M_z042NgzAG-VMF4h86l0lCmPJNSeQiOjvc5srlJeCzHU8UupqMxDA_2lkFEKL4_EOH42IvIggEi1dOZzeUylPeudbbQjqoIN0IPvStG_prMdQOI4RdEjtTVBdZmIDP_JM8IOTWTzph6TLWfVXjERWM55d2aCz-ZiHezwUsmHzwC_6cmfY-kP-qKiEuFGI0pEQHeMPR3NfR08fV6vfx_dsOqv3ekDQh-NBg",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=7xtZUnicHdBRbpswGABg7TJ9bKBAtkWKJmWxk7rDyA7-DX6ZjCEhwQaWoBB46xV2hp1qp6nU7wjf-z97bpv_X_7Ww9DfVovFOI7Pp6472erZdG6hb1NrFkZbW2jTrJZfl_6Po1mju9n8vJoNE30PW-4dss2rar6FVIy-2ENvrBoFIlzi-loA9VhDbwqr8JcAlKTqbjB2WuReAYRwRKzcchm3JMr8bmKe2lcun-S2DpnASCMOaoaWZvYeA-6M_z042NgzAG-VMF4h86l0lCmPJNSeQiOjvc5srlJeCzHU8UupqMxDA_2lkFEKL4_EOH42IvIggEi1dOZzeUylPeudbbQjqoIN0IPvStG_prMdQOI4RdEjtTVBdZmIDP_JM8IOTWTzph6TLWfVXjERWM55d2aCz-ZiHezwUsmHzwC_6cmfY-kP-qKiEuFGI0pEQHeMPR3NfR08fV6vfx_dsOqv3ekDQh-NBg",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTExXUlJURmd0VUdoM2IySkZSVWgzT0RWWFgzWXhlbmRMTjJ4TE1sbE1ORGR1Y1hCQmJHUldYMFJLWWtkRVh6Sm9VSE5rTm5obVJVRkpUSEV4VjNOTWQydHNMV3RUTFhJM2J5MXZVRU40YnpFNVkzRlRlRE5aVnpsNVVSSVhUbEZ4YW1GeVVFcE9aV0pJY0RnMFVIaDJVRk41VVVVYUlrRkVjM0k1WmxSMGJFZFBSblUzY2pBMmJYUmxZMmRpZEVnd1owRkhXV05STTNjIiwiZmN2IjoiMyIsImVpIjoiTlFxamFyUEpOZWJIcDg0UHh2UFN5UUUiLCJxYyI6IkNoOXliMjVoYkdRZ2NtVmhaMkZ1SUdocFoyZ2djMk5vYjI5c0lIUmxlR0Z6RUFCOW9za3ZQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgaGlnaGVzdCByYXRlZCBoaWdoIHNjaG9vbCBpbiBTYW4gQW50b25pbz8iLCJsayI6ImM1TXlLYzlJTEZISUxGWW95VWhWeU1oTXowZ3RMbEVvU2l4SlRRSHpGSXFUTV9MemN4UXk4eFNLRV9NVUV2Tks4dk15OHdFIiwiYnMiOiJjNDNRdlFyRElCUUZZTG82ZFhhNkQxQm9rXzVRc29SdTZab1VPdHNvS2dRdnFKQThmaFVwTlNGRFJ2VjhYTThsaXB5ZkRsckJKRFBRYUttZzZ4WGlBQXdrSWdlWFR0cEFGd0lQNDlGb3JNdUNIclVEbTVpS3pLMHhGMTVaTW1RaTFWc3hEOEY1SmNEcVhnbm5mMG11blE5WGZqSHBBQzh4TVZlWEZiMlAyM1EyRTN6RVJKS2l3UkUtV2tiZW9tRURYNnM4YTFqU2tfb2ptOUJLNGJ3aWttdGVNY2JpSnkzemdzX1FjcDAzZWhtM3dtemdmdmNGIiwiaWQiOiJmY19OUXFqYXJQSk5lYkhwODRQeHZQU3lRRV81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTExXUlJURmd0VUdoM2IySkZSVWgzT0RWWFgzWXhlbmRMTjJ4TE1sbE1ORGR1Y1hCQmJHUldYMFJLWWtkRVh6Sm9VSE5rTm5obVJVRkpUSEV4VjNOTWQydHNMV3RUTFhJM2J5MXZVRU40YnpFNVkzRlRlRE5aVnpsNVVSSVhUbEZ4YW1GeVVFcE9aV0pJY0RnMFVIaDJVRk41VVVVYUlrRkVjM0k1WmxSMGJFZFBSblUzY2pBMmJYUmxZMmRpZEVnd1owRkhXV05STTNjIiwiZmN2IjoiMyIsImVpIjoiTlFxamFyUEpOZWJIcDg0UHh2UFN5UUUiLCJxYyI6IkNoOXliMjVoYkdRZ2NtVmhaMkZ1SUdocFoyZ2djMk5vYjI5c0lIUmxlR0Z6RUFCOW9za3ZQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgaGlnaGVzdCByYXRlZCBoaWdoIHNjaG9vbCBpbiBTYW4gQW50b25pbz8iLCJsayI6ImM1TXlLYzlJTEZISUxGWW95VWhWeU1oTXowZ3RMbEVvU2l4SlRRSHpGSXFUTV9MemN4UXk4eFNLRV9NVUV2Tks4dk15OHdFIiwiYnMiOiJjNDNRdlFyRElCUUZZTG82ZFhhNkQxQm9rXzVRc29SdTZab1VPdHNvS2dRdnFKQThmaFVwTlNGRFJ2VjhYTThsaXB5ZkRsckJKRFBRYUttZzZ4WGlBQXdrSWdlWFR0cEFGd0lQNDlGb3JNdUNIclVEbTVpS3pLMHhGMTVaTW1RaTFWc3hEOEY1SmNEcVhnbm5mMG11blE5WGZqSHBBQzh4TVZlWEZiMlAyM1EyRTN6RVJKS2l3UkUtV2tiZW9tRURYNnM4YTFqU2tfb2ptOUJLNGJ3aWttdGVNY2JpSnkzemdzX1FjcDAzZWhtM3dtemdmdmNGIiwiaWQiOiJmY19OUXFqYXJQSk5lYkhwODRQeHZQU3lRRV81In0%3D"
+  }
+ ],
+ "ai_overview": {
+  "text_blocks": [
+   {
+    "type": "paragraph",
+    "snippet": "Ronald Reagan High School is a public high school located in San Antonio, Texas, part of the North East Independent School District (NEISD).",
+    "snippet_highlighted_words": [
+     "San Antonio, Texas"
+    ]
+   },
+   {
+    "type": "heading",
+    "snippet": "Quick Facts"
+   },
+   {
+    "type": "list",
+    "list": [
+     {
+      "snippet": "Address: 19000 Ronald Reagan Drive, San Antonio, TX 78258"
+     },
+     {
+      "snippet": "Phone: (210) 356-1800"
+     },
+     {
+      "snippet": "Mascot: Rattlers"
+     },
+     {
+      "snippet": "Grades: 9\u201312"
+     },
+     {
+      "snippet": "Student Enrollment: Approximately 3,300 to 3,400 students"
+     },
+     {
+      "snippet": "Official Website: You can visit the Reagan High School Official Website for calendars, staff directories, and announcements."
+     }
+    ]
+   },
+   {
+    "type": "heading",
+    "snippet": "Academics and Performance"
+   },
+   {
+    "type": "list",
+    "list": [
+     {
+      "snippet": "District: North East ISD (Bexar County)"
+     },
+     {
+      "snippet": "Ratings: The school routinely performs above the state average, earning an \"A\" rating from the Texas Education Agency and ranking in the upper tier of high schools in Texas."
+     },
+     {
+      "snippet": "Programs: Offers extensive Advanced Placement (AP) courses, a Gifted & Talented program, and various career and technical education options."
+     }
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "If you need specific information, please let me know if you are looking for:"
+   },
+   {
+    "type": "list",
+    "list": [
+     {
+      "snippet": "Athletic schedules or team information"
+     },
+     {
+      "snippet": "A specific faculty or staff contact"
+     },
+     {
+      "snippet": "Registration or enrollment guidelines"
+     }
+    ]
+   },
+   {
+    "type": "top_stories",
+    "top_stories": [
+     {
+      "link": "https://reagan.neisd.net/"
+     },
+     {
+      "link": "https://en.wikipedia.org/wiki/Ronald_Reagan_High_School_(San_Antonio)"
+     },
+     {
+      "link": "https://www.facebook.com/ReaganNEISD/"
+     },
+     {
+      "link": "https://www.usnews.com/education/best-high-schools/texas/districts/north-east-independent-school-district/ronald-reagan-high-school-19631"
+     },
+     {
+      "link": "https://schools.texastribune.org/districts/north-east-isd/reagan-high-school/"
+     },
+     {
+      "link": "https://www.niche.com/k12/reagan-high-school-san-antonio-tx/"
+     },
+     {
+      "link": "https://www.greatschools.org/texas/san-antonio/8747-Reagan-High-School/"
+     },
+     {
+      "link": "https://www.donorschoose.org/schools/texas/north-east-independent-school-district/ronald-reagan-high-school/10437"
+     },
+     {
+      "link": "https://www.publicschoolreview.com/reagan-high-school-profile"
+     },
+     {
+      "link": "https://www.har.com/school/015910007/reagan-high-school"
+     },
+     {
+      "link": "https://moonpreneur.com/school/h/tx/san-antonio/reagan-h-s-16156"
+     }
+    ]
+   }
+  ],
+  "references": [
+   {
+    "link": "https://en.wikipedia.org/wiki/Ronald_Reagan_High_School_(San_Antonio)",
+    "source": "en.wikipedia.org",
+    "index": 0
+   },
+   {
+    "link": "https://reagan.neisd.net/",
+    "source": "reagan.neisd.net",
+    "index": 1
+   },
+   {
+    "link": "https://www.facebook.com/ReaganNEISD/",
+    "source": "facebook.com",
+    "index": 2
+   },
+   {
+    "link": "https://moonpreneur.com/school/h/tx/san-antonio/reagan-h-s-16156",
+    "source": "moonpreneur.com",
+    "index": 3
+   },
+   {
+    "link": "https://www.donorschoose.org/schools/texas/north-east-independent-school-district/ronald-reagan-high-school/10437",
+    "source": "donorschoose.org",
+    "index": 4
+   },
+   {
+    "link": "https://schools.texastribune.org/districts/north-east-isd/reagan-high-school/",
+    "source": "schools.texastribune.org",
+    "index": 5
+   },
+   {
+    "link": "https://www.niche.com/k12/reagan-high-school-san-antonio-tx/",
+    "source": "niche.com",
+    "index": 6
+   },
+   {
+    "link": "https://www.har.com/school/015910007/reagan-high-school",
+    "source": "har.com",
+    "index": 7
+   },
+   {
+    "link": "https://www.usnews.com/education/best-high-schools/texas/districts/north-east-independent-school-district/ronald-reagan-high-school-19631",
+    "source": "usnews.com",
+    "index": 8
+   },
+   {
+    "link": "https://www.publicschoolreview.com/reagan-high-school-profile",
+    "source": "publicschoolreview.com",
+    "index": 9
+   },
+   {
+    "link": "https://www.greatschools.org/texas/san-antonio/8747-Reagan-High-School/",
+    "source": "greatschools.org",
+    "index": 10
+   },
+   {
+    "title": "Ronald Reagan High School (San Antonio) - Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Ronald_Reagan_High_School_(San_Antonio)",
+    "snippet": "Ronald Reagan High School (San Antonio). Article \u00b7 Talk. Language; Download PDF; Watch \u00b7 Edit. Ronald Reagan High School is a public high school located in the",
+    "source": "Wikipedia",
+    "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 11
+   },
+   {
+    "title": "Reagan High School: Home",
+    "link": "https://reagan.neisd.net/",
+    "snippet": "KSAT joins Reagan High School for Pigskin Classic Pep Rally ... School spirit was on full display at Reagan High School Thursday morning as SA Live visited th",
+    "source": "NEISD",
+    "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSF2Gf1rY18fKC0bNmLb43fQcmgnPapYOgPFqLROB5Wkb5H29035AtTM2NlYn80e5RmFQ_GRLllOlYcmPTml-GtwNVqke9_67YcZVJIoVo",
+    "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://reagan.neisd.net&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 12
+   },
+   {
+    "title": "Ronald Reagan High School - North East ISD | San Antonio TX",
+    "link": "https://www.facebook.com/ReaganNEISD/",
+    "snippet": "Ronald Reagan High School - North East ISD | San Antonio TX Ronald Reagan High School - North East ISD Official Facebook page of Reagan High School, part of Nor...",
+    "source": "Facebook",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjDNB8OY76sWBXHA98QMu3Ur-L5YCyLE7lXk7-RLWQPEFSPBl84sh5Y8m1nUicduq3ihueZrNYDc9eUS0UGTSXZ2fWy9TodHIi-ySKUzY",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 13
+   },
+   {
+    "title": "Reagan H S | San-Antonio, TX (For STEM) - Moonpreneur",
+    "link": "https://moonpreneur.com/school/h/tx/san-antonio/reagan-h-s-16156",
+    "snippet": "Reagan H S Contact Information * Address. 19000 RONALD REAGAN, SAN ANTONIO, TX, 78258. View on Map. * Phone. (210) 356-1800. Call Now. * W",
+    "source": "Moonpreneur",
+    "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://moonpreneur.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 14
+   },
+   {
+    "title": "Ronald Reagan High School - Texas - DonorsChoose",
+    "link": "https://www.donorschoose.org/schools/texas/north-east-independent-school-district/ronald-reagan-high-school/10437",
+    "snippet": "Ronald Reagan High School is an urban public school in San Antonio, Texas that is part of North East Independent School District. It serves 3,331 students in gr...",
+    "source": "DonorsChoose",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTB77SkPCQ0uhycMFSzNkeHsQZqZedU94NrCIGAlBmnVhiLW8tAKyomdBqIrf5q5Jt6GRuDaUWeR1Fq51zgeNhH2CHUJw",
+    "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.donorschoose.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 15
+   },
+   {
+    "title": "Reagan High School - Texas Tribune Schools Explorer",
+    "link": "https://schools.texastribune.org/districts/north-east-isd/reagan-high-school/",
+    "snippet": "Reagan High School. Visit campus website. 3,331 students. High school. Reagan High School is a school in North East ISD. The district is located in Bexar County...",
+    "source": "The Texas Tribune",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRThGsHvwYBpQQznJhrW4DwvixAVqVAyfiU5egm3eIfNTl1_jtuHLie65_6UiB50bhcFZrysw1DCPOE55YaDpsyngKTjg",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://schools.texastribune.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 16
+   },
+   {
+    "title": "Reagan High School in San Antonio, TX - Niche",
+    "link": "https://www.niche.com/k12/reagan-high-school-san-antonio-tx/",
+    "snippet": "Overall Niche Grade ... Reagan High School is a top rated, public school located in SAN ANTONIO, TX. It has 3,403 students in grades 9-12 with a student-teach",
+    "source": "Niche",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZaOtV1hDNn5W7MdP3HRyVjiiL-IgMNnJX-4clInM8Xm7flBwuUUJ_D41cQUHvdl9n0xuWpvtZrDfENQZ7Im-qbLr_hW80mfMZOu6ggng",
+    "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.niche.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 17
+   },
+   {
+    "title": "Reagan High School, San Antonio, TX - HAR.com",
+    "link": "https://www.har.com/school/015910007/reagan-high-school",
+    "snippet": "* Address. 19000 RONALD REAGAN, SAN ANTONIO, TX, 78258. Get Directions. * Principal. DR CHARLES REININGER. * School District. NORTH EAST",
+    "source": "HAR.com",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTc_yZtu51cbhcZtKpWW04h9tXpEYb-E2eO4_1obP4W_7erseBhKrQSOUqKKDTjOCq-Q5P-GayE5pokvwyw92MzSNUEZKhQp3gVIPYpIZE",
+    "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.har.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 18
+   },
+   {
+    "title": "Ronald Reagan High School in San Antonio, TX - US News",
+    "link": "https://www.usnews.com/education/best-high-schools/texas/districts/north-east-independent-school-district/ronald-reagan-high-school-19631",
+    "snippet": "Overview of Ronald Reagan High School. Ronald Reagan High School is ranked 118th within Texas. Students have the opportunity to take Advanced Placement\u00ae coursew...",
+    "source": "U.S. News & World Report",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.usnews.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 19
+   },
+   {
+    "title": "Reagan High School (Ranked Top 10% for 2026-27) - San Antonio, TX",
+    "link": "https://www.publicschoolreview.com/reagan-high-school-profile",
+    "snippet": "School Rankings Reagan High School ranks within the top 10% of all 8,096 schools in Texas (based off of combined math and reading proficiency testing data). T",
+    "source": "Public School Review",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTYG7QtpUrsBKggDX-jSj3ttLYptsMeJGDUzyZ48tsJ75agn2kYJweXiIFvSVqJ-CIJM_UotovPxlgycj_noZNkzFEDr0KtCOpQHWpNrxk",
+    "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.publicschoolreview.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 20
+   },
+   {
+    "title": "Reagan High School - San Antonio, Texas - TX - GreatSchools",
+    "link": "https://www.greatschools.org/texas/san-antonio/8747-Reagan-High-School/",
+    "snippet": "Reagan High School is a public school in San Antonio, TX, offering AP courses and a Gifted & Talented program. It is one of 12 high schools in North East Indepe...",
+    "source": "GreatSchools",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS5n2WE3nUH1uSUQfBtAPJaPyVzWd3pN3ZWIr5dgZAEF2FUCkoXJK9V93n0MchNQk6kMBxS4l4e3zuOxrSIPknhPXQ-tqYQe1mkrKn34u0",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.greatschools.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 21
+   }
+  ]
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Ronald Reagan High School (San Antonio)",
+   "link": "https://en.wikipedia.org/wiki/Ronald_Reagan_High_School_(San_Antonio)",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAVRVmM7E5bpPMNhLRZLM02xrUg9nHScTL04WdqPyduTkMosp8bT9vhyciAwV_ytDVpSogVgRkSBl8MBxui8clDDb3sGkbNrQMxBvN4h8Y1AXaOW4E4ed8rwrmrlgLa9nkvW4IriaUnlg5j0qvJdHkGQsu3zfZIWDPs&ved=2ahUKEwjzt7LU5OSWAxXm48kDHca5NBkQFnoECFQQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Ronald_Reagan_High...",
+   "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+   "snippet": "Ronald Reagan High School is a public high school located in the North East Independent School District in San Antonio, Texas, United States, ...",
+   "snippet_highlighted_words": [
+    "Ronald Reagan High School",
+    "Texas"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Ronald Reagan High School is a public high school located in the North East Independent School District in San Antonio, Texas, United States, ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Ronald_Reagan_High_School_(San_Antonio)",
+     "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Ronald_Reagan_High_School_(San_Antonio)#:~:text=Ronald%20Reagan%20High%20School%20is,after%20U.S.%20President%20Ronald%20Reagan."
+  },
+  {
+   "position": 2,
+   "title": "Ronald Reagan High School - San Antonio",
+   "link": "https://www.usnews.com/education/best-high-schools/texas/districts/north-east-independent-school-district/ronald-reagan-high-school-19631",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESwgEB6zswFSLd5ea6hT-qSVNPGcPpncSht496osHfERUJbnDmqb0ImjK8cpXukhNOpQ-Gkk30twtxl2QoTLlAX8ZLIYg4dybWZfYa4KRFUGPFactB1aMb20ye2ch1pMvTjUCz9QDP2C8nI4J-PQIsTCFluBRnfv0LFZfZ7h_CMZ1mkd0V-g201FSKLpDJhGlYW3dWy_8N8dsZO-7qEdR9Mmk10D2nAROrsjG01NSJILzMi-xHJaYNrwn0cACXDDJrqNxGnA&ved=2ahUKEwjzt7LU5OSWAxXm48kDHca5NBkQFnoECFMQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a education \u203a texas \u203a districts",
+   "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp",
+   "snippet": "Ronald Reagan High School is ranked #930 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+   "snippet_highlighted_words": [
+    "Ronald Reagan High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Ronald Reagan High School is ranked #930 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/texas/districts/north-east-independent-school-district/ronald-reagan-high-school-19631",
+     "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/texas/districts/north-east-independent-school-district/ronald-reagan-high-school-19631#:~:text=Ronald%20Reagan%20High%20School%20is,they%20prepare%20students%20for%20college."
+  },
+  {
+   "position": 3,
+   "title": "Ronald Reagan High School (@reaganneisd)",
+   "link": "https://www.instagram.com/reaganneisd/?hl=en",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZAHrOzAV6pNRSDJXkJqKI8j0qEK7Bp3kTDHRA6XmmS2r9tVQU_7sUDCWt4M9ljS0nABUg3TYwPuf1sl_QNyZGi94j1AV2dQP6f4C3M83BQxpJ56OcAYk0fk3g4VHu6v8bStA1c4&ved=2ahUKEwjzt7LU5OSWAxXm48kDHca5NBkQFnoECHYQAQ&uoh=1",
+   "displayed_link": "4.9K+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+   "snippet": "4.9K+ followers \u00b7 113 following \u00b7 382 posts \u00b7 @reaganneisd: \u201cThe official Instagram account of Ronald Reagan High School in San Antonio, Texas.",
+   "snippet_highlighted_words": [
+    "Ronald Reagan High School",
+    "Texas"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "4.9K+ followers \u00b7 113 following \u00b7 382 posts \u00b7 @reaganneisd: \u201cThe official Instagram account of Ronald Reagan High School in San Antonio, Texas.",
+     "source_info_link": "https://www.instagram.com/reaganneisd/?hl=en",
+     "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Instagram \u00b7 reaganneisd"
+  },
+  {
+   "position": 4,
+   "title": "Our Campus | Reagan High School - NEISD",
+   "link": "https://reagan.neisd.net/Discover-Our-Campus/About-Us/Our-Campus/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAVDh8g53LFCOOpymhK1MCOrYEfmAy1G9ZC8CRkLrn9XyyMKkas4t2-h4RtAyDlQdMXcAZng0hwjCquyc3Rw2zthCmTvDvlykK3xNOhbrHp-oymVUUWgTraNVjJo2rnrgZTGvmRl7z8GdboTEJNwIfx8SMPlX4&ved=2ahUKEwjzt7LU5OSWAxXm48kDHca5NBkQFnoECHQQAQ&uoh=1",
+   "displayed_link": "https://reagan.neisd.net \u203a About-Us \u203a Our-Campus",
+   "favicon": "https://serpapi.com/images/i/UklGRloBAABXRUJQVlA4IE4BAAAwBgCdASocABwAPtEutFooIagoGAEAGglAGUB2SWxE-n9QAHVsgFuiAr_iKx9jvDJg77OsMnOotg0AAP72At7A2g-SGdxALmgfwQanQGHZ2MBo-3Yz09bzJXGiCBYuSDkzE2EMtpjtQpHWNR01Hwb-gR1KUumcvFDJCDud0oFjb8JI4EzaYGycwdrSavtufOER00j34jJfk3e7Lx0__BrkTQCfjFq7Dr-2GftoRuCpLJqD0bgsnMp5jnvRrQ-rtreHd1mVfhYyLfvcr9Lp-M1B0DTmwOEfkx7TiZyinnByzGbhra9n09Ash-M1ax3YbN9zZTFG_l-D-JX3tiqBOV_w17nJJFfpXf4Kd2371RH-7W2P4h3SY_TT-H_8j_8-Pjhkw4UHnRuPbH-xZZFuHPj-HE3RPNTmh89eLy5x9f63QIyX8EikznXB9B22gAAA.webp",
+   "snippet": "At Ronald Reagan High School, students are challenged to learn for life and learn for leadership. Through rigorous academics, nationally recognized programs ...",
+   "snippet_highlighted_words": [
+    "Ronald Reagan High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "At Ronald Reagan High School, students are challenged to learn for life and learn for leadership. Through rigorous academics, nationally recognized programs ...",
+     "source_info_link": "https://reagan.neisd.net/Discover-Our-Campus/About-Us/Our-Campus/",
+     "icon": "https://serpapi.com/images/i/UklGRloBAABXRUJQVlA4IE4BAAAwBgCdASocABwAPtEutFooIagoGAEAGglAGUB2SWxE-n9QAHVsgFuiAr_iKx9jvDJg77OsMnOotg0AAP72At7A2g-SGdxALmgfwQanQGHZ2MBo-3Yz09bzJXGiCBYuSDkzE2EMtpjtQpHWNR01Hwb-gR1KUumcvFDJCDud0oFjb8JI4EzaYGycwdrSavtufOER00j34jJfk3e7Lx0__BrkTQCfjFq7Dr-2GftoRuCpLJqD0bgsnMp5jnvRrQ-rtreHd1mVfhYyLfvcr9Lp-M1B0DTmwOEfkx7TiZyinnByzGbhra9n09Ash-M1ax3YbN9zZTFG_l-D-JX3tiqBOV_w17nJJFfpXf4Kd2371RH-7W2P4h3SY_TT-H_8j_8-Pjhkw4UHnRuPbH-xZZFuHPj-HE3RPNTmh89eLy5x9f63QIyX8EikznXB9B22gAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "NEISD",
+   "read_more_link": "https://reagan.neisd.net/Discover-Our-Campus/About-Us/Our-Campus/#:~:text=At%20Ronald%20Reagan%20High%20School%2C,rigorous%20academics%2C%20nationally%20recognized%20programs"
+  },
+  {
+   "position": 5,
+   "title": "Ronald Reagan High School - North East ISD",
+   "link": "https://www.facebook.com/ReaganNEISD/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXQHrOzAVHMa4jPc2X0jWwPLPtP3OifE13V_mSnzfyixCpsxRFTSZHxBzAIzfKYfxGROk2liYqj7fzlKBsI-c2EcbSEu55xK0t2Gaw1KxH8X78nRlm-ZtpEb-FcEmcQ&ved=2ahUKEwjzt7LU5OSWAxXm48kDHca5NBkQFnoECHgQAQ&uoh=1",
+   "displayed_link": "4.2K+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "snippet": "Ronald Reagan High School - North East ISD ... Official Facebook page of Reagan High School, part of North East Independent School District, serving students, ...",
+   "snippet_highlighted_words": [
+    "Ronald Reagan High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Ronald Reagan High School - North East ISD ... Official Facebook page of Reagan High School, part of North East Independent School District, serving students, ...",
+     "source_info_link": "https://www.facebook.com/ReaganNEISD/",
+     "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Facebook \u00b7 Ronald Reagan High School - North East ISD",
+   "read_more_link": "https://www.facebook.com/ReaganNEISD/#:~:text=Ronald%20Reagan%20High%20School%20%2D,North%20East%20ISD&text=Official%20Facebook%20page%20of%20Reagan,and%20the%20San%20Antonio%20community."
+  },
+  {
+   "position": 6,
+   "title": "Reagan High School in San Antonio, TX",
+   "link": "https://www.niche.com/k12/reagan-high-school-san-antonio-tx/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHrOzAVz9onLo-tATKZ08BxgXiCuGzddE9vzjtVEBCBpe3wSK4fHLKfj35n22y5NNwBklzIF9HihKSwknfldqGQtnG-JAyGwZ90PG73vlw_Y_qtp4m_VJbBIVTtslxZxk-qd1_vEYa6r4IF_yIPSYTWTpzB&ved=2ahUKEwjzt7LU5OSWAxXm48kDHca5NBkQFnoECHcQAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a Texas",
+   "favicon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAACwBgCdASocABwAPtEutFooIagoGAEAGglAGZo7gYv7m0TPt8r_WYdmpcah9WA48zicEtVrCFOGH4nMtJiaAAD-8Mpqn5wztwFeSDXF5YavmSdrcpv67JtS1tKl7uW6N9aR19WH-vT5VtxqndfSU_QIzB4R0m5fNi1eX3h8GYa_8H28-7o-nc3D2GEvZqGTES8muP_UCP_UIYsGh8QXK7V2sBnUP79qQidv_o8__S3xjZZmmXEG69VP00Dn3HuddwtLR_4xf_0PU8NPn060X-47u3VDw39ZbBgpwK3wP0F5tHUWMrTdTbcT_h7ghKmtPgKiKNIvGUNLHBT4VbzlXgvFo7vCP-ot_w6I_hOg9EcgQfabjpYvU6X4xcxi9BIxh2PJomEF2PA_XoL7FtzFNUuyE0IG83Bax0ZYU-dxj0EhgAAA.webp",
+   "snippet": "Academically, Ronald Reagan High School is known for its rigorous programs, especially Advanced Placement courses that prepare students well for college. The ...",
+   "snippet_highlighted_words": [
+    "Ronald Reagan High School"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 4.0,
+      "reviews": 739
+     },
+     "extensions": [
+      "4.0(739)"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Academically, Ronald Reagan High School is known for its rigorous programs, especially Advanced Placement courses that prepare students well for college. The ...",
+     "source_info_link": "https://www.niche.com/k12/reagan-high-school-san-antonio-tx/",
+     "icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAACwBgCdASocABwAPtEutFooIagoGAEAGglAGZo7gYv7m0TPt8r_WYdmpcah9WA48zicEtVrCFOGH4nMtJiaAAD-8Mpqn5wztwFeSDXF5YavmSdrcpv67JtS1tKl7uW6N9aR19WH-vT5VtxqndfSU_QIzB4R0m5fNi1eX3h8GYa_8H28-7o-nc3D2GEvZqGTES8muP_UCP_UIYsGh8QXK7V2sBnUP79qQidv_o8__S3xjZZmmXEG69VP00Dn3HuddwtLR_4xf_0PU8NPn060X-47u3VDw39ZbBgpwK3wP0F5tHUWMrTdTbcT_h7ghKmtPgKiKNIvGUNLHBT4VbzlXgvFo7vCP-ot_w6I_hOg9EcgQfabjpYvU6X4xcxi9BIxh2PJomEF2PA_XoL7FtzFNUuyE0IG83Bax0ZYU-dxj0EhgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Niche",
+   "read_more_link": "https://www.niche.com/k12/reagan-high-school-san-antonio-tx/#:~:text=What%20role%20do%20athletics%20play"
+  },
+  {
+   "position": 7,
+   "title": "Ronald Reagan High School in San Antonio, Texas on ...",
+   "link": "https://www.donorschoose.org/schools/texas/north-east-independent-school-district/ronald-reagan-high-school/10437",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESqQEB6zswFXurl_Qa-TVK2aVIEWPmMbtZNUNlySOCfG7Z3JMn_mPEau4a1e5gN3gEvhm_muMCKnRFyUGHgwecBEVvpPaBXemAI3b49qwiYyX82kyghoUuHsld3E68pS-oXbIkTN4XtrehB6QtFNDoUeDGCOzTaz2-7NkotLP8dVuJdJQkydd9AYKMg0Vpg6Jp0mBNgh_lE0du5yHQjS9AQ4b2S1QXmrU_7LZO&ved=2ahUKEwjzt7LU5OSWAxXm48kDHca5NBkQFnoECHMQAQ&uoh=1",
+   "displayed_link": "https://www.donorschoose.org \u203a schools \u203a texas \u203a ronal...",
+   "favicon": "https://serpapi.com/images/i/UklGRswAAABXRUJQVlA4IMAAAABwBQCdASocABwAPtEwtFooIigoGAEAGglsAKknND9QgUiCtSxixOFp4uhGPS57r1rBvQAAAP78Ruvp_RopI31agF2kTcvpn_nJpqDkB-JZ3L4TnmXfH8Lj7_7aH_7LAv_qWkLImNPY960ex9CxAdN4Rj2bYpPBjMs4lAfwcelVvNLkNVmPcrR_CPQWyeuMExXrAK1CRpFOK2_rpU32_y9RFVHtRr1D17PWVgxOgSGl1SdGJuoFHhfsjXVLLo5igAA.webp",
+   "snippet": "Ronald Reagan High School is a public school in San Antonio, Texas that is part of North East Independent School District. It serves 3331 studentsin 9 - 12 ...",
+   "snippet_highlighted_words": [
+    "Ronald Reagan High School",
+    "Texas"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Ronald Reagan High School is a public school in San Antonio, Texas that is part of North East Independent School District. It serves 3331 studentsin 9 - 12 ...",
+     "source_info_link": "https://www.donorschoose.org/schools/texas/north-east-independent-school-district/ronald-reagan-high-school/10437",
+     "icon": "https://serpapi.com/images/i/UklGRswAAABXRUJQVlA4IMAAAABwBQCdASocABwAPtEwtFooIigoGAEAGglsAKknND9QgUiCtSxixOFp4uhGPS57r1rBvQAAAP78Ruvp_RopI31agF2kTcvpn_nJpqDkB-JZ3L4TnmXfH8Lj7_7aH_7LAv_qWkLImNPY960ex9CxAdN4Rj2bYpPBjMs4lAfwcelVvNLkNVmPcrR_CPQWyeuMExXrAK1CRpFOK2_rpU32_y9RFVHtRr1D17PWVgxOgSGl1SdGJuoFHhfsjXVLLo5igAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "DonorsChoose"
+  },
+  {
+   "position": 8,
+   "title": "Athletics | Reagan High School - NEISD",
+   "link": "https://reagan.neisd.net/Student-Life/Discover-Your-Talents/Athletics/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfgHrOzAVYeWP2S7hH3htxyDuidymhXtvYECDEQ8848VAwdHXzaWSyOvBU6ZcAjSaq4DZl3JxGeDLZB7XbSyyG6D-70N5r8_4rmq3w9wRwY7Ej3XrKRqnnD_H7LJLEd1cqUvnc2EyYVxuUwQwn6IFJ_9KFrmKj-pswn43wwiz_A&ved=2ahUKEwjzt7LU5OSWAxXm48kDHca5NBkQFnoECHUQAQ&uoh=1",
+   "displayed_link": "https://reagan.neisd.net \u203a Discover-Your-Talents \u203a Athl...",
+   "favicon": "https://serpapi.com/images/i/UklGRloBAABXRUJQVlA4IE4BAAAwBgCdASocABwAPtEutFooIagoGAEAGglAGUB2SWxE-n9QAHVsgFuiAr_iKx9jvDJg77OsMnOotg0AAP72At7A2g-SGdxALmgfwQanQGHZ2MBo-3Yz09bzJXGiCBYuSDkzE2EMtpjtQpHWNR01Hwb-gR1KUumcvFDJCDud0oFjb8JI4EzaYGycwdrSavtufOER00j34jJfk3e7Lx0__BrkTQCfjFq7Dr-2GftoRuCpLJqD0bgsnMp5jnvRrQ-rtreHd1mVfhYyLfvcr9Lp-M1B0DTmwOEfkx7TiZyinnByzGbhra9n09Ash-M1ax3YbN9zZTFG_l-D-JX3tiqBOV_w17nJJFfpXf4Kd2371RH-7W2P4h3SY_TT-H_8j_8-Pjhkw4UHnRuPbH-xZZFuHPj-HE3RPNTmh89eLy5x9f63QIyX8EikznXB9B22gAAA.webp",
+   "snippet": "Texas High School Football ... We hope you will visit us often and rely on us as your source for all information related to Ronald Reagan High School Athletics.",
+   "snippet_highlighted_words": [
+    "Texas",
+    "Ronald Reagan High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Texas High School Football ... We hope you will visit us often and rely on us as your source for all information related to Ronald Reagan High School Athletics.",
+     "source_info_link": "https://reagan.neisd.net/Student-Life/Discover-Your-Talents/Athletics/",
+     "icon": "https://serpapi.com/images/i/UklGRloBAABXRUJQVlA4IE4BAAAwBgCdASocABwAPtEutFooIagoGAEAGglAGUB2SWxE-n9QAHVsgFuiAr_iKx9jvDJg77OsMnOotg0AAP72At7A2g-SGdxALmgfwQanQGHZ2MBo-3Yz09bzJXGiCBYuSDkzE2EMtpjtQpHWNR01Hwb-gR1KUumcvFDJCDud0oFjb8JI4EzaYGycwdrSavtufOER00j34jJfk3e7Lx0__BrkTQCfjFq7Dr-2GftoRuCpLJqD0bgsnMp5jnvRrQ-rtreHd1mVfhYyLfvcr9Lp-M1B0DTmwOEfkx7TiZyinnByzGbhra9n09Ash-M1ax3YbN9zZTFG_l-D-JX3tiqBOV_w17nJJFfpXf4Kd2371RH-7W2P4h3SY_TT-H_8j_8-Pjhkw4UHnRuPbH-xZZFuHPj-HE3RPNTmh89eLy5x9f63QIyX8EikznXB9B22gAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "NEISD",
+   "read_more_link": "https://reagan.neisd.net/Student-Life/Discover-Your-Talents/Athletics/#:~:text=Texas%20High%20School%20Football&text=We%20hope%20you%20will%20visit,Ronald%20Reagan%20High%20School%20Athletics."
+  },
+  {
+   "position": 9,
+   "title": "Ronald Reagan High School",
+   "link": "https://www.linkedin.com/school/neisd-ronald-reagan-high-school/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeAHrOzAVJ9i7AxV-VOmTtwMTmSJwV3lO9fQSSIHueNuhriP--a25Z72szlU3lDUFZeQs5UuRq32UgmDXm-QoYjAnU_uyExJJ14aM_TRc_4u3SQi_eQzI-wy3UYK5DxoFEVOHKRlnngDf2VzLVKHmHQyQBYoQm311Ww&ved=2ahUKEwjzt7LU5OSWAxXm48kDHca5NBkQFnoECHsQAQ&uoh=1",
+   "displayed_link": "2.5K+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp",
+   "snippet": "Ronald Reagan High School is a public high school located in the North East Independent School District of San Antonio, Texas and is named for U.S. ...",
+   "snippet_highlighted_words": [
+    "Ronald Reagan High School",
+    "Texas"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Ronald Reagan High School is a public high school located in the North East Independent School District of San Antonio, Texas and is named for U.S. ...",
+     "source_info_link": "https://www.linkedin.com/school/neisd-ronald-reagan-high-school/",
+     "icon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "LinkedIn \u00b7 Ronald Reagan High School",
+   "read_more_link": "https://www.linkedin.com/school/neisd-ronald-reagan-high-school/#:~:text=Ronald%20Reagan%20High%20School%20is,for%20U.S.%20President%20Ronald%20Reagan."
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Reagan High School photos",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Reagan+High+School+photos&sa=X&ved=2ahUKEwjzt7LU5OSWAxXm48kDHca5NBkQ1QJ6BAh8EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Reagan+High+School+photos"
+  },
+  {
+   "block_position": 1,
+   "query": "Ronald Reagan High School Track and field",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Ronald+Reagan+High+School+Track+and+field&sa=X&ved=2ahUKEwjzt7LU5OSWAxXm48kDHca5NBkQ1QJ6BQiYARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ronald+Reagan+High+School+Track+and+field"
+  },
+  {
+   "block_position": 1,
+   "query": "Ronald Reagan High school San Antonio reviews",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Ronald+Reagan+High+school+San+Antonio+reviews&sa=X&ved=2ahUKEwjzt7LU5OSWAxXm48kDHca5NBkQ1QJ6BQiTARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ronald+Reagan+High+school+San+Antonio+reviews"
+  },
+  {
+   "block_position": 1,
+   "query": "Ronald reagan high school mascot",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Ronald+reagan+high+school+mascot&sa=X&ved=2ahUKEwjzt7LU5OSWAxXm48kDHca5NBkQ1QJ6BQiSARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ronald+reagan+high+school+mascot"
+  },
+  {
+   "block_position": 1,
+   "query": "Ronald Reagan High School Band",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Ronald+Reagan+High+School+Band&sa=X&ved=2ahUKEwjzt7LU5OSWAxXm48kDHca5NBkQ1QJ6BQiQARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ronald+Reagan+High+School+Band"
+  },
+  {
+   "block_position": 1,
+   "query": "Reagan High school bell Schedule",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Reagan+High+school+bell+Schedule&sa=X&ved=2ahUKEwjzt7LU5OSWAxXm48kDHca5NBkQ1QJ6BQiPARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Reagan+High+school+bell+Schedule"
+  },
+  {
+   "block_position": 1,
+   "query": "Ronald Reagan High School Map",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Ronald+Reagan+High+School+Map&sa=X&ved=2ahUKEwjzt7LU5OSWAxXm48kDHca5NBkQ1QJ6BQiIARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ronald+Reagan+High+School+Map"
+  },
+  {
+   "block_position": 1,
+   "query": "Ronald reagan high school counselors",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Ronald+reagan+high+school+counselors&sa=X&ved=2ahUKEwjzt7LU5OSWAxXm48kDHca5NBkQ1QJ6BQiAARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ronald+reagan+high+school+counselors"
+  }
+ ],
+ "dmca_messages": {
+  "title": "Notices about Filtered Results",
+  "messages": [
+   {
+    "content": "Some results may have been removed under data protection law in Europe. Learn more",
+    "highlighted_words": [
+     {
+      "link": "https://www.google.com/policies/faq",
+      "text": "Learn more"
+     }
+    ]
+   }
+  ]
+ },
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Ronald+Reagan+High+School%22+Texas&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=NQqjarPJNebHp84PxvPSyQE&start=10&sa=N&sstk=AS6-VmJAWPz_x0GYsRAboqyWIPcTnIVZsRKHTpNCq1I92nejycffkdWXxRifv4lcDBbtkp4Th6E2QoT0qQkOlfsUZlZ4oMjMrsxviA&ved=2ahUKEwjzt7LU5OSWAxXm48kDHca5NBkQ8NMDegQIYRAQ",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Ronald+Reagan+High+School%22+Texas&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=NQqjarPJNebHp84PxvPSyQE&start=10&sa=N&sstk=AS6-VmJAWPz_x0GYsRAboqyWIPcTnIVZsRKHTpNCq1I92nejycffkdWXxRifv4lcDBbtkp4Th6E2QoT0qQkOlfsUZlZ4oMjMrsxviA&ved=2ahUKEwjzt7LU5OSWAxXm48kDHca5NBkQ8tMDegQIYRAE",
+   "3": "https://www.google.com/search?q=%22Ronald+Reagan+High+School%22+Texas&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=NQqjarPJNebHp84PxvPSyQE&start=20&sa=N&sstk=AS6-VmJAWPz_x0GYsRAboqyWIPcTnIVZsRKHTpNCq1I92nejycffkdWXxRifv4lcDBbtkp4Th6E2QoT0qQkOlfsUZlZ4oMjMrsxviA&ved=2ahUKEwjzt7LU5OSWAxXm48kDHca5NBkQ8tMDegQIYRAG",
+   "4": "https://www.google.com/search?q=%22Ronald+Reagan+High+School%22+Texas&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=NQqjarPJNebHp84PxvPSyQE&start=30&sa=N&sstk=AS6-VmJAWPz_x0GYsRAboqyWIPcTnIVZsRKHTpNCq1I92nejycffkdWXxRifv4lcDBbtkp4Th6E2QoT0qQkOlfsUZlZ4oMjMrsxviA&ved=2ahUKEwjzt7LU5OSWAxXm48kDHca5NBkQ8tMDegQIYRAI",
+   "5": "https://www.google.com/search?q=%22Ronald+Reagan+High+School%22+Texas&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=NQqjarPJNebHp84PxvPSyQE&start=40&sa=N&sstk=AS6-VmJAWPz_x0GYsRAboqyWIPcTnIVZsRKHTpNCq1I92nejycffkdWXxRifv4lcDBbtkp4Th6E2QoT0qQkOlfsUZlZ4oMjMrsxviA&ved=2ahUKEwjzt7LU5OSWAxXm48kDHca5NBkQ8tMDegQIYRAK",
+   "6": "https://www.google.com/search?q=%22Ronald+Reagan+High+School%22+Texas&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=NQqjarPJNebHp84PxvPSyQE&start=50&sa=N&sstk=AS6-VmJAWPz_x0GYsRAboqyWIPcTnIVZsRKHTpNCq1I92nejycffkdWXxRifv4lcDBbtkp4Th6E2QoT0qQkOlfsUZlZ4oMjMrsxviA&ved=2ahUKEwjzt7LU5OSWAxXm48kDHca5NBkQ8tMDegQIYRAM",
+   "7": "https://www.google.com/search?q=%22Ronald+Reagan+High+School%22+Texas&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=NQqjarPJNebHp84PxvPSyQE&start=60&sa=N&sstk=AS6-VmJAWPz_x0GYsRAboqyWIPcTnIVZsRKHTpNCq1I92nejycffkdWXxRifv4lcDBbtkp4Th6E2QoT0qQkOlfsUZlZ4oMjMrsxviA&ved=2ahUKEwjzt7LU5OSWAxXm48kDHca5NBkQ8tMDegQIYRAO"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Ronald+Reagan+High+School%22+Texas&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Ronald+Reagan+High+School%22+Texas&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Ronald+Reagan+High+School%22+Texas&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Ronald+Reagan+High+School%22+Texas&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Ronald+Reagan+High+School%22+Texas&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Ronald+Reagan+High+School%22+Texas&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Ronald+Reagan+High+School%22+Texas&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Ronald+Reagan+High+School%22+Texas&start=60"
+  }
+ }
+}

@@ -1,0 +1,358 @@
+{
+ "search_information": {
+  "query_displayed": "\"Gadsden Band\"",
+  "total_results": 1580,
+  "time_taken_displayed": 0.25,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "inline_videos": [
+  {
+   "position": 1,
+   "title": "The Gadsden Band on Reels",
+   "link": "https://www.facebook.com/100089077659207/videos/842870901035485/",
+   "thumbnail": "https://serpapi.com/searches/6aa30e4a6e22378b51ece4b2/images/0AEQuuq5K_e9RFlZSgTOuxFIRz5YLllmu2mwEorjp_w.jpeg",
+   "channel": "The Gadsden Band",
+   "duration": "6:10",
+   "platform": "Facebook",
+   "date": "Jun 18, 2024"
+  },
+  {
+   "position": 2,
+   "title": "The Gadsden Band on Reels",
+   "link": "https://www.facebook.com/100089077659207/videos/833115395540647/",
+   "thumbnail": "https://serpapi.com/searches/6aa30e4a6e22378b51ece4b2/images/JB6pmz1DOxMaPXRY_rCHdQscJdPTQ0_AX-7JaeBpofM.jpeg",
+   "channel": "The Gadsden Band",
+   "duration": "0:15",
+   "platform": "Facebook",
+   "date": "Jun 16, 2024"
+  },
+  {
+   "position": 3,
+   "title": "Today's open air service | The Gadsden Band",
+   "link": "https://www.facebook.com/100089077659207/videos/todays-open-air-service/1146987869743813/",
+   "thumbnail": "https://serpapi.com/searches/6aa30e4a6e22378b51ece4b2/images/0VG6nRH-CWA2FUSvZe4d_chzsVZiBsa-VArR8oKXV64.jpeg",
+   "channel": "The Gadsden Band",
+   "duration": "0:16",
+   "platform": "Facebook",
+   "date": "Jun 30, 2024"
+  },
+  {
+   "position": 4,
+   "title": "At Gadsden Music we strive to offer the best prices for our ...",
+   "link": "https://www.facebook.com/gadsdenmusic/posts/at-gadsden-music-we-strive-to-offer-the-best-prices-for-our-customers-we-believe/899352308868768/",
+   "thumbnail": "https://serpapi.com/searches/6aa30e4a6e22378b51ece4b2/images/wS-2-vXT-Bs3un4ZCqwDT82wlu1PgWwADg2vmoD34ok.jpeg",
+   "channel": "Gadsden Music Company",
+   "duration": "0:35",
+   "platform": "Facebook",
+   "date": "May 10, 2024",
+   "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ910YEGORzRYvaOP_DGX_Jddk5uBDeaUaDMw"
+  }
+ ],
+ "related_questions": [
+  {
+   "question": "Who are some rappers from Gadsden, Alabama?",
+   "type": "ai_overview",
+   "page_token": "4sxJCHicHdDNboIwAADg7GU8KtDppolZ0ll0RDFtbYFeltqCBcrPlIly27vsqfY0W3b67t_Xt83r8ufharquvSwmk77vx6emOdl0rJpqIi_3Wk2UtPYoVbmYPc3cl0wt0ecbfP14g5i1LV8R54BufmJDSp1mqlaEiWh3T7nIcU0A9TWOYh-n62CaFvxMy7CJva5MPLfSFYHCQkCGUEoQPKo6hBLsHO64HfduxcFPXAzKQW6IR71ncGCq4zWsWCEyjYKcIQIYEAW1hqWIhJrbq2bE2cbKO9aB4a7IeNTmouAxtsZEG81xRKZJ1b2yaP6YeCQXlb-RrqYhmgccuWbPLERGMz2IjyQm9z1yQ13yfr8iOIzIRq4tpKTJMSODKmzF-O6e2ABtI3NmK709xvrK1kb8WWIAL3QtpqIfZeq6BKP_z-V7VnWL9tycfgGCMoL3",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=4sxJCHicHdDNboIwAADg7GU8KtDppolZ0ll0RDFtbYFeltqCBcrPlIly27vsqfY0W3b67t_Xt83r8ufharquvSwmk77vx6emOdl0rJpqIi_3Wk2UtPYoVbmYPc3cl0wt0ecbfP14g5i1LV8R54BufmJDSp1mqlaEiWh3T7nIcU0A9TWOYh-n62CaFvxMy7CJva5MPLfSFYHCQkCGUEoQPKo6hBLsHO64HfduxcFPXAzKQW6IR71ncGCq4zWsWCEyjYKcIQIYEAW1hqWIhJrbq2bE2cbKO9aB4a7IeNTmouAxtsZEG81xRKZJ1b2yaP6YeCQXlb-RrqYhmgccuWbPLERGMz2IjyQm9z1yQ13yfr8iOIzIRq4tpKTJMSODKmzF-O6e2ABtI3NmK709xvrK1kb8WWIAL3QtpqIfZeq6BKP_z-V7VnWL9tycfgGCMoL3",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk1FVkpZVkEyU1hCZlVrVndkbEJTUVdsUU0wMUViR3hEYUVOU1RteHNZekJvWlcwd2RVOUxXSE5KU2t4UGJXaGpSakZaTTI1dFRXVnRNVTFCZFc1UE1sQlNYMVV0ZW10SlVuVklRVXBsVFRoRU1HcG1ha053VEV4d1p4SVhWSGMyYW1GMGNqaE5UWFpGY0RnMFVEVmtSMmhwUVVrYUlrRkVjM0k1WmxScVNUWTJNM1pyYTJabVlXbHlTMGRrYUdKS1ZVcDBkRGRSTjBFIiwiZmN2IjoiMyIsImVpIjoiVHc2amF0cjhNTXZFcDg0UDVkR2hpQUkiLCJxYyI6IkNneG5ZV1J6WkdWdUlHSmhibVFRQUgwcUdBd18iLCJxdWVzdGlvbiI6IldobyBhcmUgc29tZSByYXBwZXJzIGZyb20gR2Fkc2RlbiwgQWxhYmFtYT8iLCJsayI6IkdnOW5ZV1J6WkdWdUlISmhjSEJsY25NIiwiYnMiOiJjLU55NE5JT3o4aFhTQ3hLVlNqT3owMVZLRW9zS0VndEtsWklLOHJQVlhCUFRDbE9TYzNUVVhETVNVeEt6RTIwTnhLVTRrLUhDTUpVY3ZseDZZZG5KSllnak1oUFV5akpTRlhJVFN4S3pzak1TMWRJU3N4TEtWYkl6RU9ZSWkwbGlTbWJDSkVWWUFRQSIsImlkIjoiZmNfVHc2amF0cjhNTXZFcDg0UDVkR2hpQUlfMyJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk1FVkpZVkEyU1hCZlVrVndkbEJTUVdsUU0wMUViR3hEYUVOU1RteHNZekJvWlcwd2RVOUxXSE5KU2t4UGJXaGpSakZaTTI1dFRXVnRNVTFCZFc1UE1sQlNYMVV0ZW10SlVuVklRVXBsVFRoRU1HcG1ha053VEV4d1p4SVhWSGMyYW1GMGNqaE5UWFpGY0RnMFVEVmtSMmhwUVVrYUlrRkVjM0k1WmxScVNUWTJNM1pyYTJabVlXbHlTMGRrYUdKS1ZVcDBkRGRSTjBFIiwiZmN2IjoiMyIsImVpIjoiVHc2amF0cjhNTXZFcDg0UDVkR2hpQUkiLCJxYyI6IkNneG5ZV1J6WkdWdUlHSmhibVFRQUgwcUdBd18iLCJxdWVzdGlvbiI6IldobyBhcmUgc29tZSByYXBwZXJzIGZyb20gR2Fkc2RlbiwgQWxhYmFtYT8iLCJsayI6IkdnOW5ZV1J6WkdWdUlISmhjSEJsY25NIiwiYnMiOiJjLU55NE5JT3o4aFhTQ3hLVlNqT3owMVZLRW9zS0VndEtsWklLOHJQVlhCUFRDbE9TYzNUVVhETVNVeEt6RTIwTnhLVTRrLUhDTUpVY3ZseDZZZG5KSllnak1oUFV5akpTRlhJVFN4S3pzak1TMWRJU3N4TEtWYkl6RU9ZSWkwbGlTbWJDSkVWWUFRQSIsImlkIjoiZmNfVHc2amF0cjhNTXZFcDg0UDVkR2hpQUlfMyJ9"
+  },
+  {
+   "question": "What are some of the marching bands in Alabama?",
+   "type": "ai_overview",
+   "page_token": "mqh-AnicHdBdbpswAABg9TJ9bDCMbokUTaVgompg2cZ24pfJ2CSAzc8KLSFvu8LO0FP1NJt2g0_f7w_X9Pbz7k89z-O022yWZXm4DMPFVQ966DZqWnu90cq5Umm7e_z6CL6f9T5519Hzq44wG0ceE4-6J58l45to6yl7BgU55Edh4VykUiq7ndRBTgUwNWU6zNJtSinIRAr6qicL9lxQCf4FxS6glmB1MGMZ10Q60hAeFQjCKw_0mgF-rXiOpA2RgtEZFZAhYb08WWbcPi3Sg2vmA46DkaoUh3k6rjiQnKVw5X4d8ThZWAJF5YgU_T93d4U0dp2ydV9y19ACr4pxv-qsp442LH3jmziPqHtZK3FtSgFPsoV9UhtmbvLX6UhWlIDcWL6gmOBckINKXUTJ0GBGbrp1HU8d0t4WYQpszk3PvW-3IuDqB3sJT60BppeE4fuzft8H9_-v9z_P3bwbX4fLX0g4jTI",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=mqh-AnicHdBdbpswAABg9TJ9bDCMbokUTaVgompg2cZ24pfJ2CSAzc8KLSFvu8LO0FP1NJt2g0_f7w_X9Pbz7k89z-O022yWZXm4DMPFVQ966DZqWnu90cq5Umm7e_z6CL6f9T5519Hzq44wG0ceE4-6J58l45to6yl7BgU55Edh4VykUiq7ndRBTgUwNWU6zNJtSinIRAr6qicL9lxQCf4FxS6glmB1MGMZ10Q60hAeFQjCKw_0mgF-rXiOpA2RgtEZFZAhYb08WWbcPi3Sg2vmA46DkaoUh3k6rjiQnKVw5X4d8ThZWAJF5YgU_T93d4U0dp2ydV9y19ACr4pxv-qsp442LH3jmziPqHtZK3FtSgFPsoV9UhtmbvLX6UhWlIDcWL6gmOBckINKXUTJ0GBGbrp1HU8d0t4WYQpszk3PvW-3IuDqB3sJT60BppeE4fuzft8H9_-v9z_P3bwbX4fLX0g4jTI",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk1FVkpZVkEyU1hCZlVrVndkbEJTUVdsUU0wMUViR3hEYUVOU1RteHNZekJvWlcwd2RVOUxXSE5KU2t4UGJXaGpSakZaTTI1dFRXVnRNVTFCZFc1UE1sQlNYMVV0ZW10SlVuVklRVXBsVFRoRU1HcG1ha053VEV4d1p4SVhWSGMyYW1GMGNqaE5UWFpGY0RnMFVEVmtSMmhwUVVrYUlrRkVjM0k1WmxScVNUWTJNM1pyYTJabVlXbHlTMGRrYUdKS1ZVcDBkRGRSTjBFIiwiZmN2IjoiMyIsImVpIjoiVHc2amF0cjhNTXZFcDg0UDVkR2hpQUkiLCJxYyI6IkNneG5ZV1J6WkdWdUlHSmhibVFRQUgwcUdBd18iLCJxdWVzdGlvbiI6IldoYXQgYXJlIHNvbWUgb2YgdGhlIG1hcmNoaW5nIGJhbmRzIGluIEFsYWJhbWE/IiwibGsiOiJHaGx0WVhKamFHbHVaeUJpWVc1a2N5QnBiaUJoYkdGaVlXMWgiLCJicyI6ImMtTnk0TklPejhoWFNDeEtWU2pPejAxVktFb3NLRWd0S2xaSUs4clBWWEJQVENsT1NjM1RVWERNU1V4S3pFMjBOeEtVNGstSENNSlVjdmx4NllkbkpKWWdqTWhQVXlqSlNGWElUU3hLenNqTVMxZElTc3hMS1ZiSXpFT1lJaTBsaVNtYkNKRVZZQVFBIiwiaWQiOiJmY19UdzZqYXRyOE1NdkVwODRQNWRHaGlBSV8zIn0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk1FVkpZVkEyU1hCZlVrVndkbEJTUVdsUU0wMUViR3hEYUVOU1RteHNZekJvWlcwd2RVOUxXSE5KU2t4UGJXaGpSakZaTTI1dFRXVnRNVTFCZFc1UE1sQlNYMVV0ZW10SlVuVklRVXBsVFRoRU1HcG1ha053VEV4d1p4SVhWSGMyYW1GMGNqaE5UWFpGY0RnMFVEVmtSMmhwUVVrYUlrRkVjM0k1WmxScVNUWTJNM1pyYTJabVlXbHlTMGRrYUdKS1ZVcDBkRGRSTjBFIiwiZmN2IjoiMyIsImVpIjoiVHc2amF0cjhNTXZFcDg0UDVkR2hpQUkiLCJxYyI6IkNneG5ZV1J6WkdWdUlHSmhibVFRQUgwcUdBd18iLCJxdWVzdGlvbiI6IldoYXQgYXJlIHNvbWUgb2YgdGhlIG1hcmNoaW5nIGJhbmRzIGluIEFsYWJhbWE%2FIiwibGsiOiJHaGx0WVhKamFHbHVaeUJpWVc1a2N5QnBiaUJoYkdGaVlXMWgiLCJicyI6ImMtTnk0TklPejhoWFNDeEtWU2pPejAxVktFb3NLRWd0S2xaSUs4clBWWEJQVENsT1NjM1RVWERNU1V4S3pFMjBOeEtVNGstSENNSlVjdmx4NllkbkpKWWdqTWhQVXlqSlNGWElUU3hLenNqTVMxZElTc3hMS1ZiSXpFT1lJaTBsaVNtYkNKRVZZQVFBIiwiaWQiOiJmY19UdzZqYXRyOE1NdkVwODRQNWRHaGlBSV8zIn0%3D"
+  }
+ ],
+ "ai_overview": {
+  "page_token": "9p_f13iczVXdcqJIFH6AfY7hZqOAP4mmiprqbtGgo0lH0egNhU3boCIKKHHv9l3mqeZptgFNUDHZzMXWniqgG06f83H6fP39_XPprBa__tjYYbgO7kUxiqIi8zy2pEXiuaIZ7FdEnHnLwCf2d3up0JUQeFufUMdSiO17LhXYUtkGwn6nlAUSKJJAHWUQ3c7N0K91uzt1Xas8Va2W7QBNSMIpxtQM6Jxne50HoiHy2-JbucEnxaBIV8Xnic-IjwezQrdYkuR68VE0Xe4A_jNDAAPG7wgnk6vW-nfhGAMqAO1M_DSmmnGJJxioDKZziPNDYY27xk-AUYqsEf1VGE_5wEw9GvHHfEPZD5AlfhAm8UAfgusLcy1Fitgh9oe-au5blA0QW_fTJRzj-BSFBtBTdCjxJRINqNoJYpwmYTAC82jGVFWFH-DmBdEjWO3EKz5w49bB2iA6QOg2RjyxaDHetJI49flDFh1ik2TgB3Evo0Fd8h4ed5Awt96r0cVmOpKbVX3kmJOwYFIgkin3W3qmRS3DNqTvyVwuyVWpXr6r3SQkIsEbi4Isi9ZuBd0ZEySHteKPIpSPFEJxRS6rxKvN50gDlwYPbZa7wWNw3Az1rcA8g4Yy5dIPTxtAD8d9m4kNPEySgh3f0KR_yfuWvEOKM1xS6Bwap5CTLIJpapiFd3RhDOYs5UYu_vCiC3neKB2xU_bzM-Osk1SMFtkU0clXDrJvq3GhYgYMiZoCOO9G9bgcH_GyeBOPdX8Ljg9wMxRyWFx1npb1uWMbs07sDt_2AB5-DrbPie-c_3ViTR4PjrWvnRIH0z45IFKfI1fOWj9LmWZvQMHQHU5ebntgy3atJaxM5N5iVa9E-RTx3OkXlIb8n0jkHHVIP6y9QiIaDz4nEePH3VUdSodHHXJgSiKIr5BIS0mUo0M09cjo0DmJUD9DohMdQhc69FUSoQ9JlB5GuSSKA-SRaHGFRAcdypCof6pDJyR606F3Ev2ODqHf0qGEUzR9nIrSds6uilNTQsCY01dVmr9q_Wrrecu2lQHdPG9L0afiNHPDe9e0ljeGY93DUjvcWzcGf-HdU0vYKN9KpZZpBRZd_QnNlcWngrv0PUUyK73q41OrWVadycvscfRk3e1wZ9vUG4WZ3bfDVfDaA8ZCisoPFf9uuXiUaL8FyvhZitZyHXTDUn027hjDKp7oHUlXu3XLGe6akm_7kicXbhv7tdHXtfZ68UOvNehLGM0H1nqvw1lnMtL0zUvPosi6S9AEiiGFr3157D0UIsH1icLLX2Ggh8GI8S5DY978vHuRx6-IX7cAq1AIiGnQYKdI5emM8pIQMrXqlZIsuCzcr5WKLAQrX5H_ATH1PFU",
+  "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=9p_f13iczVXdcqJIFH6AfY7hZqOAP4mmiprqbtGgo0lH0egNhU3boCIKKHHv9l3mqeZptgFNUDHZzMXWniqgG06f83H6fP39_XPprBa__tjYYbgO7kUxiqIi8zy2pEXiuaIZ7FdEnHnLwCf2d3up0JUQeFufUMdSiO17LhXYUtkGwn6nlAUSKJJAHWUQ3c7N0K91uzt1Xas8Va2W7QBNSMIpxtQM6Jxne50HoiHy2-JbucEnxaBIV8Xnic-IjwezQrdYkuR68VE0Xe4A_jNDAAPG7wgnk6vW-nfhGAMqAO1M_DSmmnGJJxioDKZziPNDYY27xk-AUYqsEf1VGE_5wEw9GvHHfEPZD5AlfhAm8UAfgusLcy1Fitgh9oe-au5blA0QW_fTJRzj-BSFBtBTdCjxJRINqNoJYpwmYTAC82jGVFWFH-DmBdEjWO3EKz5w49bB2iA6QOg2RjyxaDHetJI49flDFh1ik2TgB3Evo0Fd8h4ed5Awt96r0cVmOpKbVX3kmJOwYFIgkin3W3qmRS3DNqTvyVwuyVWpXr6r3SQkIsEbi4Isi9ZuBd0ZEySHteKPIpSPFEJxRS6rxKvN50gDlwYPbZa7wWNw3Az1rcA8g4Yy5dIPTxtAD8d9m4kNPEySgh3f0KR_yfuWvEOKM1xS6Bwap5CTLIJpapiFd3RhDOYs5UYu_vCiC3neKB2xU_bzM-Osk1SMFtkU0clXDrJvq3GhYgYMiZoCOO9G9bgcH_GyeBOPdX8Ljg9wMxRyWFx1npb1uWMbs07sDt_2AB5-DrbPie-c_3ViTR4PjrWvnRIH0z45IFKfI1fOWj9LmWZvQMHQHU5ebntgy3atJaxM5N5iVa9E-RTx3OkXlIb8n0jkHHVIP6y9QiIaDz4nEePH3VUdSodHHXJgSiKIr5BIS0mUo0M09cjo0DmJUD9DohMdQhc69FUSoQ9JlB5GuSSKA-SRaHGFRAcdypCof6pDJyR606F3Ev2ODqHf0qGEUzR9nIrSds6uilNTQsCY01dVmr9q_Wrrecu2lQHdPG9L0afiNHPDe9e0ljeGY93DUjvcWzcGf-HdU0vYKN9KpZZpBRZd_QnNlcWngrv0PUUyK73q41OrWVadycvscfRk3e1wZ9vUG4WZ3bfDVfDaA8ZCisoPFf9uuXiUaL8FyvhZitZyHXTDUn027hjDKp7oHUlXu3XLGe6akm_7kicXbhv7tdHXtfZ68UOvNehLGM0H1nqvw1lnMtL0zUvPosi6S9AEiiGFr3157D0UIsH1icLLX2Ggh8GI8S5DY978vHuRx6-IX7cAq1AIiGnQYKdI5emM8pIQMrXqlZIsuCzcr5WKLAQrX5H_ATH1PFU"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "The Gadsden Band",
+   "link": "https://www.facebook.com/p/The-Gadsden-Band-100089077659207/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHrOzAV9kFPeHFrjQk0CbEFlqJbkzSiNvwfkaYqNSzI5Y0YFtUYOKo7zF2UwqYR1AGICLBbvCt7_Q8jNPzXdPQfYVTQ-5ZATgjbCpGdcpMwG9RFagRm5VaxN3MiKR6qMmK4QU7vBiX8DNFrMn9vV8fNFyfT&ved=2ahUKEwia4ITJ6OSWAxVL4skDHeVoCCEQFnoECCAQAQ&uoh=1",
+   "displayed_link": "90+ followers",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "snippet": "The Gadsden Band. 95 likes. Brass Band based in Stewartby, Bedfordshire Rehearsals on Tuesdays 8pm at Stewartby United Church.",
+   "snippet_highlighted_words": [
+    "Gadsden Band"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The Gadsden Band. 95 likes. Brass Band based in Stewartby, Bedfordshire Rehearsals on Tuesdays 8pm at Stewartby United Church.",
+     "source_info_link": "https://www.facebook.com/p/The-Gadsden-Band-100089077659207/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdAHrOzAV9kFPeHFrjQk0CbEFlqJbkzSiNvwfkaYqNSzI5Y0YFtUYOKo7zF2UwqYR1AGICLBbvCt7_Q8jNPzXdPQfYVTQ-5ZATgjbCpGdcpMwG9RFagRm5VaxN3MiKR6qMmK4QU7vBiX8DNFrMn9vV8fNFyfT&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdAHrOzAV9kFPeHFrjQk0CbEFlqJbkzSiNvwfkaYqNSzI5Y0YFtUYOKo7zF2UwqYR1AGICLBbvCt7_Q8jNPzXdPQfYVTQ-5ZATgjbCpGdcpMwG9RFagRm5VaxN3MiKR6qMmK4QU7vBiX8DNFrMn9vV8fNFyfT",
+   "source": "Facebook \u00b7 The Gadsden Band"
+  },
+  {
+   "position": 2,
+   "title": "Gadsden Band",
+   "link": "https://thehollywoodchristmasparade.org/band-and-pageantry/gadsden-band/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgAEB6zswFYoXIgaiypQNNCFeFjem2lfzWTfPwZpvAZHupLPYCBUlKyNRacz48M8ScsNKoKQIsl2evJ3DoAfkjzBoMZwA-fWqXKnCpiICHkKKS21F6lsvrvsztPVJjlBJhwlaOFVSzpwyuXGfty-vMSBblmmy2J9mdi9MB71wmaQfvA&ved=2ahUKEwia4ITJ6OSWAxVL4skDHeVoCCEQFnoECDEQAQ&uoh=1",
+   "displayed_link": "https://thehollywoodchristmasparade.org \u203a gadsden-band",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAASCAMAAAB_2U7WAAAAtFBMVEVHcEzBhCq6fizOjyzMjSz_11n_zkrvsC7orTPcniz1xEjQoDy9gSnFiCvnpyvRkSnnpiz_1FL_1Fj_1lj_00__y0bytTP0tTHvry3nqC7xsC_npyzRkSvenCrVlSrbmivhoSzenSvTkyvbnCr1tSv-xT3_zUr9x0L2uTXsrTDlpiv3tzL_yUL7wz_vsTLnqC32tzXpqC3_ykDysS7opiropyvrqy7_11TopSj-zEjqqiz_314a9SVtAAAAPHRSTlMAPmdvLjMgEg4FBgFNWzg2HHC2FWNtUVlrTj1viZ1GUmRce3C2ev9GZEQlfVg-K3dvMFOWaF19lo2FrEweLHKhAAAA90lEQVR4AWKgOWBkYmZBEwL0PhSJCQPBwaIlUljfuAtO_P_vQs69d9xlp6iaphumaW5_9ivD0mzQHEcD9_dgwBFhQhkX0lvt_SAMozhOvDTN8nynAMqKEltOspW-H7KyClWndqymaE8HExD6JtWNLjd-iEnJANQzN86KAQBmUZSE1nuIkyAQnJzPl-utMVB2LzQA4BiXYgN2HVgVvlXnS8MfCroX7g4AyupKnjXr-mcciepxxuT5UI5tMSgAcIUrfUYjY44MhCUsbI2kvE_INb6dKiXzLZi5I_rbI_h8DV_Ql-NHqkQ8--4SdcGNqfAXnLNl2_Bf8Ab9vxspPiPPLgAAAABJRU5ErkJggg.png",
+   "snippet": "Gadsden Band ... The Gadsden Marching Band will be participating one more time in the New Year's Parade in London, England on January 1, 2025. The Marching Band ...",
+   "snippet_highlighted_words": [
+    "Gadsden Band"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Gadsden Band ... The Gadsden Marching Band will be participating one more time in the New Year's Parade in London, England on January 1, 2025. The Marching Band ...",
+     "source_info_link": "https://thehollywoodchristmasparade.org/band-and-pageantry/gadsden-band/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAASCAMAAAB_2U7WAAAAtFBMVEVHcEzBhCq6fizOjyzMjSz_11n_zkrvsC7orTPcniz1xEjQoDy9gSnFiCvnpyvRkSnnpiz_1FL_1Fj_1lj_00__y0bytTP0tTHvry3nqC7xsC_npyzRkSvenCrVlSrbmivhoSzenSvTkyvbnCr1tSv-xT3_zUr9x0L2uTXsrTDlpiv3tzL_yUL7wz_vsTLnqC32tzXpqC3_ykDysS7opiropyvrqy7_11TopSj-zEjqqiz_314a9SVtAAAAPHRSTlMAPmdvLjMgEg4FBgFNWzg2HHC2FWNtUVlrTj1viZ1GUmRce3C2ev9GZEQlfVg-K3dvMFOWaF19lo2FrEweLHKhAAAA90lEQVR4AWKgOWBkYmZBEwL0PhSJCQPBwaIlUljfuAtO_P_vQs69d9xlp6iaphumaW5_9ivD0mzQHEcD9_dgwBFhQhkX0lvt_SAMozhOvDTN8nynAMqKEltOspW-H7KyClWndqymaE8HExD6JtWNLjd-iEnJANQzN86KAQBmUZSE1nuIkyAQnJzPl-utMVB2LzQA4BiXYgN2HVgVvlXnS8MfCroX7g4AyupKnjXr-mcciepxxuT5UI5tMSgAcIUrfUYjY44MhCUsbI2kvE_INb6dKiXzLZi5I_rbI_h8DV_Ql-NHqkQ8--4SdcGNqfAXnLNl2_Bf8Ab9vxspPiPPLgAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESgAEB6zswFYoXIgaiypQNNCFeFjem2lfzWTfPwZpvAZHupLPYCBUlKyNRacz48M8ScsNKoKQIsl2evJ3DoAfkjzBoMZwA-fWqXKnCpiICHkKKS21F6lsvrvsztPVJjlBJhwlaOFVSzpwyuXGfty-vMSBblmmy2J9mdi9MB71wmaQfvA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESgAEB6zswFYoXIgaiypQNNCFeFjem2lfzWTfPwZpvAZHupLPYCBUlKyNRacz48M8ScsNKoKQIsl2evJ3DoAfkjzBoMZwA-fWqXKnCpiICHkKKS21F6lsvrvsztPVJjlBJhwlaOFVSzpwyuXGfty-vMSBblmmy2J9mdi9MB71wmaQfvA",
+   "source": "The Hollywood Christmas Parade",
+   "read_more_link": "https://thehollywoodchristmasparade.org/band-and-pageantry/gadsden-band/#:~:text=Gadsden%20Band&text=The%20Gadsden%20Marching%20Band%20will,Music%20Coordinator%20Martin%20Peralta%20Sr."
+  },
+  {
+   "position": 3,
+   "title": "Gadsden Band",
+   "link": "https://www.brassbandresults.co.uk/bands/gadsden-band",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbQHrOzAVZrMN2yewA0cY-M0zfr_aOwg_gTQmAmDQIH0XOfQhchsPkTsEsd-F4CIlC3lhsLS7e3_hbsms8wvxkXbbAgQAceIQs9o_6RtuCsiKWLiwvWOwfPvl_1rVn7L2DwyyI_X3FzECZh0Ae14&ved=2ahUKEwia4ITJ6OSWAxVL4skDHeVoCCEQFnoECDAQAQ&uoh=1",
+   "displayed_link": "https://www.brassbandresults.co.uk \u203a bands \u203a gadsden-...",
+   "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys1RD84QzRBPCsBCgoKDQwNGxAPGjclHyUtLTc3NzctLTc3NzcrLTcrKys3LS4tKzcrNSsrKzc3LTcrKysrLS0rLCs3NTUtNSsrK__AABEIABwAHAMBIgACEQEDEQH_xAAZAAEAAgMAAAAAAAAAAAAAAAAFAAECBAb_xAAnEAACAQMBBwUBAAAAAAAAAAABAgMABBEFEhMxQVFhcRQhMkKBBv_EABYBAAMAAAAAAAAAAAAAAAAAAAABBf_EABgRAAMBAQAAAAAAAAAAAAAAAAABEQIS_9oADAMBAAIRAxEAPwDnqlWAWICgkngBSNlpTSEPMc5-gPA9zVl6hIWaX_P6WdUvd2yvuFU7bjkeVamoWr2N5LbS_JDjPUdaYt7u_SA20cnpVU5CxYJHmi9WuvWXKyGQyMsYVnPMihao3mGUaxzWx3KiIiQBzkkhccfGaRs5LWwXdtKcuNslj7Hl-ZoKN3jbajYqeoqO7O207Fj1NHIdCWo6osrEWwYA8WPtnuBRdSpTSgm6f__Z.jpeg",
+   "snippet": "Gadsden Band. Also/previously known as: Stewartby Silver. Embed These Results. This is a non-competing band. Region: London and Southern Counties. Rehearsals ...",
+   "snippet_highlighted_words": [
+    "Gadsden Band"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Gadsden Band. Also/previously known as: Stewartby Silver. Embed These Results. This is a non-competing band. Region: London and Southern Counties. Rehearsals ...",
+     "source_info_link": "https://www.brassbandresults.co.uk/bands/gadsden-band",
+     "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys1RD84QzRBPCsBCgoKDQwNGxAPGjclHyUtLTc3NzctLTc3NzcrLTcrKys3LS4tKzcrNSsrKzc3LTcrKysrLS0rLCs3NTUtNSsrK__AABEIABwAHAMBIgACEQEDEQH_xAAZAAEAAgMAAAAAAAAAAAAAAAAFAAECBAb_xAAnEAACAQMBBwUBAAAAAAAAAAABAgMABBEFEhMxQVFhcRQhMkKBBv_EABYBAAMAAAAAAAAAAAAAAAAAAAABBf_EABgRAAMBAQAAAAAAAAAAAAAAAAABEQIS_9oADAMBAAIRAxEAPwDnqlWAWICgkngBSNlpTSEPMc5-gPA9zVl6hIWaX_P6WdUvd2yvuFU7bjkeVamoWr2N5LbS_JDjPUdaYt7u_SA20cnpVU5CxYJHmi9WuvWXKyGQyMsYVnPMihao3mGUaxzWx3KiIiQBzkkhccfGaRs5LWwXdtKcuNslj7Hl-ZoKN3jbajYqeoqO7O207Fj1NHIdCWo6osrEWwYA8WPtnuBRdSpTSgm6f__Z.jpeg"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESbQHrOzAVZrMN2yewA0cY-M0zfr_aOwg_gTQmAmDQIH0XOfQhchsPkTsEsd-F4CIlC3lhsLS7e3_hbsms8wvxkXbbAgQAceIQs9o_6RtuCsiKWLiwvWOwfPvl_1rVn7L2DwyyI_X3FzECZh0Ae14&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESbQHrOzAVZrMN2yewA0cY-M0zfr_aOwg_gTQmAmDQIH0XOfQhchsPkTsEsd-F4CIlC3lhsLS7e3_hbsms8wvxkXbbAgQAceIQs9o_6RtuCsiKWLiwvWOwfPvl_1rVn7L2DwyyI_X3FzECZh0Ae14",
+   "source": "Brass Band Results",
+   "read_more_link": "https://www.brassbandresults.co.uk/bands/gadsden-band#:~:text=Gadsden%20Band,Rehearsals%3A"
+  },
+  {
+   "position": 4,
+   "title": "Gadsden band reunites after three-decade hiatus",
+   "link": "https://www.gadsdentimes.com/story/entertainment/local/2018/01/30/gadsden-band-cross-reunites-after-three-decade-hiatus/15360691007/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESvQEB6zswFar_BmHDrKnihIW-336spRc0JB3ExZ_kggK913hx7qcU8GX5uJiRDuIlKH-00e6uxUII3phlAFOcTC_cMyQAALb0R9Ss6LKUQDWVuyIZFjuBO1rIWS8AumqRQuwmZHYGIzdK6Z2INsGq93e3QJlqT1BDD3VJZQfuPyxM3Ra8wwjiRd5MJLG-cJzpNH5j8ChFbx-6_LZADYZbaTV0KZSPSj2zW66ymXFHMVmY_QW0j3jIvuTWvPHJH4U&ved=2ahUKEwia4ITJ6OSWAxVL4skDHeVoCCEQFnoECC4QAQ&uoh=1",
+   "displayed_link": "https://www.gadsdentimes.com \u203a local \u203a 2018/01/30",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAA7UlEQVR4AdTNIYjEMBBA0XgZW7m6ak1dvY6HyurIqEJNbT0V8fEQqIqrio8IUTERcRFhYA7KbW5P3PkdMXx4DEPwn_lYhL8xx_xd9V6pNqyXPv1dXsvTOmd8u0yHNHy-CqLZpr7rmTDwwrRwvax0CmiNOsRDqdB-lr1XI8_SAAY_G0lDwIZmZJlwpxxiFVOS1PuGcBAJhHk7PFMhC_zCvFIFRGTc6B6JKPIZf7DsdA_cJpSPo3bsUhpdQzwHZjJmlEMA3s0W37GoUSDkuGpEN3fCviPWeF7BuQiImMy2aRsb3g4Ar6z1a1D2MEpgAB-KyIUVjY1ZAAAAAElFTkSuQmCC.png",
+   "date": "Jan 31, 2018",
+   "snippet": "According to Buddy Causey, one of the '70s-Gadsden band's lead singers, a call between him and original keyboard player Dennis Gulley last year ...",
+   "snippet_highlighted_words": [
+    "Gadsden band's"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "According to Buddy Causey, one of the '70s-Gadsden band's lead singers, a call between him and original keyboard player Dennis Gulley last year ...",
+     "source_info_link": "https://www.gadsdentimes.com/story/entertainment/local/2018/01/30/gadsden-band-cross-reunites-after-three-decade-hiatus/15360691007/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAA7UlEQVR4AdTNIYjEMBBA0XgZW7m6ak1dvY6HyurIqEJNbT0V8fEQqIqrio8IUTERcRFhYA7KbW5P3PkdMXx4DEPwn_lYhL8xx_xd9V6pNqyXPv1dXsvTOmd8u0yHNHy-CqLZpr7rmTDwwrRwvax0CmiNOsRDqdB-lr1XI8_SAAY_G0lDwIZmZJlwpxxiFVOS1PuGcBAJhHk7PFMhC_zCvFIFRGTc6B6JKPIZf7DsdA_cJpSPo3bsUhpdQzwHZjJmlEMA3s0W37GoUSDkuGpEN3fCviPWeF7BuQiImMy2aRsb3g4Ar6z1a1D2MEpgAB-KyIUVjY1ZAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESvQEB6zswFar_BmHDrKnihIW-336spRc0JB3ExZ_kggK913hx7qcU8GX5uJiRDuIlKH-00e6uxUII3phlAFOcTC_cMyQAALb0R9Ss6LKUQDWVuyIZFjuBO1rIWS8AumqRQuwmZHYGIzdK6Z2INsGq93e3QJlqT1BDD3VJZQfuPyxM3Ra8wwjiRd5MJLG-cJzpNH5j8ChFbx-6_LZADYZbaTV0KZSPSj2zW66ymXFHMVmY_QW0j3jIvuTWvPHJH4U&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESvQEB6zswFar_BmHDrKnihIW-336spRc0JB3ExZ_kggK913hx7qcU8GX5uJiRDuIlKH-00e6uxUII3phlAFOcTC_cMyQAALb0R9Ss6LKUQDWVuyIZFjuBO1rIWS8AumqRQuwmZHYGIzdK6Z2INsGq93e3QJlqT1BDD3VJZQfuPyxM3Ra8wwjiRd5MJLG-cJzpNH5j8ChFbx-6_LZADYZbaTV0KZSPSj2zW66ymXFHMVmY_QW0j3jIvuTWvPHJH4U",
+   "source": "Gadsden Times",
+   "read_more_link": "https://www.gadsdentimes.com/story/entertainment/local/2018/01/30/gadsden-band-cross-reunites-after-three-decade-hiatus/15360691007/#:~:text=According%20to%20Buddy%20Causey%2C%20one,the%20reunion%20show%20in%20August."
+  },
+  {
+   "position": 5,
+   "title": "Freddie \"Bama Boy\" Hall & His Gadsden Band, Songs ...",
+   "link": "https://www.allmusic.com/artist/freddie-bama-boy-hall-his-gadsden-band-mn0002595899",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiwEB6zswFZ_oO3AUe0Qp7Sy73GLSW1Y6zkOnPNANLzUZctMvcbeCgsmIKipJUZ5Li4kwx735P2c9PDlhEiwzmzeEIL5lszYT7b8CPGzVAJYvAVOjy-LKS-20p83Q7nOYtim4Idbf0ECLOIB_scIIBfOV-G--OKXI7odHeJw6v-37AhJuuj7b0ozAgiye&ved=2ahUKEwia4ITJ6OSWAxVL4skDHeVoCCEQFnoECCsQAQ&uoh=1",
+   "displayed_link": "https://www.allmusic.com \u203a artist \u203a freddie-bama-boy-h...",
+   "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5RTcBCgoKDQwNGg8PGjclHyU3Ny03Nzc3MDc3Nzc3Nzc3Nzc3NzU3Nzc3Nzg3MjcyNzc3Mi04Nzc3Nzc1ODc4LTg1Nv_AABEIABwAHAMBEQACEQEDEQH_xAAaAAACAwEBAAAAAAAAAAAAAAAFBwEDBAYA_8QAKRAAAgEDAwIFBQEAAAAAAAAAAQIEAAMRBRIhBjETIkFhohVScXKBB__EABkBAAIDAQAAAAAAAAAAAAAAAAIDAAEEBf_EACURAAICAgEBCQEAAAAAAAAAAAECABEDIUExBBIjUWGRocHwIv_aAAwDAQACEQMRAD8AVIyzBVBZicADkk1snO6Qi0CJHY2ps9lkKPPaj2fF8P8AZsgceuM00oq6Y79NxAyuwtF16mrmeZDMe3bv2rySItw4S8gI59VIPKn2oWXuiwbENH7xKkURxMu6gjKmzp1h9biZIB3ELn7tp2_LFHgPiCL7SPBb9zv4hzpfTJ-rwpFnS7klL0GFflSFsPsc31byh-PNkYAX2ahbMUUBTvmMTs65HYuLGq8qriDpN23chaxctMhsu0cKyDCNe4L7fn_DTWIKuR0178_czopD4wev9e3F_EB7qz3NdSkORyCQRyCD2oLjKj06Me30x0xpup6vrMHTNR1mTblyGlJhr8ZBgIMY5IIbJ9XPFLyOXazHYsa41Cr0i6_1DSbvT3U97TbZxpjZkwUUAKEuEk9u-DlfwBTBkJUKeIpsSqxYDZnH7qlyqldDDnmdnxvZmxwMnOKkuSXZsbmZsdsnOKkkipKn_9k.jpeg",
+   "snippet": "Explore Freddie \"Bama Boy\" Hall & His Gadsden Band's discography including top tracks, albums, and reviews. Learn all about Freddie \"Bama Boy\" Hall...",
+   "snippet_highlighted_words": [
+    "Gadsden Band's"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Explore Freddie \"Bama Boy\" Hall & His Gadsden Band's discography including top tracks, albums, and reviews. Learn all about Freddie \"Bama Boy\" Hall...",
+     "source_info_link": "https://www.allmusic.com/artist/freddie-bama-boy-hall-his-gadsden-band-mn0002595899",
+     "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5RTcBCgoKDQwNGg8PGjclHyU3Ny03Nzc3MDc3Nzc3Nzc3Nzc3NzU3Nzc3Nzg3MjcyNzc3Mi04Nzc3Nzc1ODc4LTg1Nv_AABEIABwAHAMBEQACEQEDEQH_xAAaAAACAwEBAAAAAAAAAAAAAAAFBwEDBAYA_8QAKRAAAgEDAwIFBQEAAAAAAAAAAQIEAAMRBRIhBjETIkFhohVScXKBB__EABkBAAIDAQAAAAAAAAAAAAAAAAIDAAEEBf_EACURAAICAgEBCQEAAAAAAAAAAAECABEDIUExBBIjUWGRocHwIv_aAAwDAQACEQMRAD8AVIyzBVBZicADkk1snO6Qi0CJHY2ps9lkKPPaj2fF8P8AZsgceuM00oq6Y79NxAyuwtF16mrmeZDMe3bv2rySItw4S8gI59VIPKn2oWXuiwbENH7xKkURxMu6gjKmzp1h9biZIB3ELn7tp2_LFHgPiCL7SPBb9zv4hzpfTJ-rwpFnS7klL0GFflSFsPsc31byh-PNkYAX2ahbMUUBTvmMTs65HYuLGq8qriDpN23chaxctMhsu0cKyDCNe4L7fn_DTWIKuR0178_czopD4wev9e3F_EB7qz3NdSkORyCQRyCD2oLjKj06Me30x0xpup6vrMHTNR1mTblyGlJhr8ZBgIMY5IIbJ9XPFLyOXazHYsa41Cr0i6_1DSbvT3U97TbZxpjZkwUUAKEuEk9u-DlfwBTBkJUKeIpsSqxYDZnH7qlyqldDDnmdnxvZmxwMnOKkuSXZsbmZsdsnOKkkipKn_9k.jpeg"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESiwEB6zswFZ_oO3AUe0Qp7Sy73GLSW1Y6zkOnPNANLzUZctMvcbeCgsmIKipJUZ5Li4kwx735P2c9PDlhEiwzmzeEIL5lszYT7b8CPGzVAJYvAVOjy-LKS-20p83Q7nOYtim4Idbf0ECLOIB_scIIBfOV-G--OKXI7odHeJw6v-37AhJuuj7b0ozAgiye&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESiwEB6zswFZ_oO3AUe0Qp7Sy73GLSW1Y6zkOnPNANLzUZctMvcbeCgsmIKipJUZ5Li4kwx735P2c9PDlhEiwzmzeEIL5lszYT7b8CPGzVAJYvAVOjy-LKS-20p83Q7nOYtim4Idbf0ECLOIB_scIIBfOV-G--OKXI7odHeJw6v-37AhJuuj7b0ozAgiye",
+   "source": "AllMusic"
+  },
+  {
+   "position": 6,
+   "title": "Gadsden High School Band Competition - Anthony, NM",
+   "link": "https://www.nfhsnetwork.com/schools/gadsden-high-school-anthony-nm/band-competition",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiwEB6zswFcFMvFwtOyfgR-zG2-v5UUCs0Wt9yRXLPrNjn-1XVZZkQ7YeZvLSmsrLeKK_Ej4BHAVQMr1ugZIcwycafe2yj4sMV3TG9F83GY1W40UnJreGZqeDn3VqKG3yDeeXi1rgLFWD8GTozXkhvLDqgiAlxes7qVLtkSsrlyL2YXPUFOp5JfE_4nvb&ved=2ahUKEwia4ITJ6OSWAxVL4skDHeVoCCEQFnoECCwQAQ&uoh=1",
+   "displayed_link": "https://www.nfhsnetwork.com \u203a schools \u203a band-compet...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAARVBMVEVHcEwUFBQUFBQUFBQUFBQUFBQUFBQREREAAAAJCQn___-RkZGwsLBhYWEdHR3Z2dnLy8vDw8NAQEB6enrz8_Pk5OSjo6M76K9DAAAAB3RSTlMAT73z_8nI5vE1ZQAAAPRJREFUeAF9kwWCxCAQBGO7NM0QLPD_px5wkVMqghQuU2Ve1u0H6zJPndf2J6__XeVd29z-ZZ6W_-Uyrf_LddoGdKlU_9Wgvz1-SQVg06jUn8LJKUEaCCuW3B2lxT1OGcgYGWzajwxD647ojksWZu7MwSAfwTE65hL1JZti9k2KZ9TGkU-zsGQB9Nlsjv6W5AZDgW4Dyp8DyqdU0PjNNRUPMZJcMiUW60r0ydiCU9YhSkCGd6FkuORECHVKn7IIHLw5onhng9SWrj43KLWrTWlAI0Jhb2-T3fZF77FN1-BMDbdsuNnDYzI-YNN7cDSrHbjBdfgAvqIUspFQipUAAAAASUVORK5CYII.png",
+   "snippet": "Gadsden High School Band Competition. Anthony, NM. /. Gadsden. Gadsden Band Competition Teams. Watch Gadsden Band Competition. No videos to show. Check back ...",
+   "snippet_highlighted_words": [
+    "Gadsden Band",
+    "Gadsden Band"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Gadsden High School Band Competition. Anthony, NM. /. Gadsden. Gadsden Band Competition Teams. Watch Gadsden Band Competition. No videos to show. Check back ...",
+     "source_info_link": "https://www.nfhsnetwork.com/schools/gadsden-high-school-anthony-nm/band-competition",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAARVBMVEVHcEwUFBQUFBQUFBQUFBQUFBQUFBQREREAAAAJCQn___-RkZGwsLBhYWEdHR3Z2dnLy8vDw8NAQEB6enrz8_Pk5OSjo6M76K9DAAAAB3RSTlMAT73z_8nI5vE1ZQAAAPRJREFUeAF9kwWCxCAQBGO7NM0QLPD_px5wkVMqghQuU2Ve1u0H6zJPndf2J6__XeVd29z-ZZ6W_-Uyrf_LddoGdKlU_9Wgvz1-SQVg06jUn8LJKUEaCCuW3B2lxT1OGcgYGWzajwxD647ojksWZu7MwSAfwTE65hL1JZti9k2KZ9TGkU-zsGQB9Nlsjv6W5AZDgW4Dyp8DyqdU0PjNNRUPMZJcMiUW60r0ydiCU9YhSkCGd6FkuORECHVKn7IIHLw5onhng9SWrj43KLWrTWlAI0Jhb2-T3fZF77FN1-BMDbdsuNnDYzI-YNN7cDSrHbjBdfgAvqIUspFQipUAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESiwEB6zswFcFMvFwtOyfgR-zG2-v5UUCs0Wt9yRXLPrNjn-1XVZZkQ7YeZvLSmsrLeKK_Ej4BHAVQMr1ugZIcwycafe2yj4sMV3TG9F83GY1W40UnJreGZqeDn3VqKG3yDeeXi1rgLFWD8GTozXkhvLDqgiAlxes7qVLtkSsrlyL2YXPUFOp5JfE_4nvb&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESiwEB6zswFcFMvFwtOyfgR-zG2-v5UUCs0Wt9yRXLPrNjn-1XVZZkQ7YeZvLSmsrLeKK_Ej4BHAVQMr1ugZIcwycafe2yj4sMV3TG9F83GY1W40UnJreGZqeDn3VqKG3yDeeXi1rgLFWD8GTozXkhvLDqgiAlxes7qVLtkSsrlyL2YXPUFOp5JfE_4nvb",
+   "source": "NFHS Network",
+   "read_more_link": "https://www.nfhsnetwork.com/schools/gadsden-high-school-anthony-nm/band-competition#:~:text=Gadsden%20High%20School%20Band%20Competition,back%20soon%20for%20new%20broadcasts."
+  },
+  {
+   "position": 7,
+   "title": "San Luis student band invited back to London's New Year's ...",
+   "link": "https://www.kawc.org/news/2023-11-09/san-luis-student-band-invited-back-to-londons-new-years-day-parade",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnwEB6zswFSUVY206Apnc1aMkqt6m4NrMm0IO69G84Bmtl7LluMBcfI0QPq9aTr74c65fYjZdIwDnyKXR3aYlu4vM9UfYXOGfP5dmOVOZNWKQTxgIYV_CPmEs9oUb-QDXAuc7NkMI5xEDmtth3ua0BQl4wLWK0BUVU46c2r__-M11Tn5yIWAi5MRcnVcR4fTtbXuLXpKGOfpVdhiFZWc6uns&ved=2ahUKEwia4ITJ6OSWAxVL4skDHeVoCCEQFnoECC8QAQ&uoh=1",
+   "displayed_link": "https://www.kawc.org \u203a news \u203a san-luis-student-band-in...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA4VBMVEX_______7__vzi4d90cm6Vk5Dc29ixr62joqBOT0yCgn_T0tC7urjn5uR7eXX6-fcAAACJh4XMy8m6jYhNGw9oaGXIxsQOBABAPTgjHhccFw3n7vhSVlKFU03Io5-lqbC6v8dkYVzO0dbM1ODt8PPe5O2wu8mEXmHpsq30zcmdYVqJlqMUDABtb3K6yNw4Oj2IjJJMUFOlXVX_29jUk41ZXGGsraqog37uk4vysKrypqHzu7b-___76ufpbmXoXVH1yMTnU0brfHPpYlb54d7siIDlQTHlMh3lPSzkLRXqeG9doHNFAAABSUlEQVR4AcRNNQLDMBA7O8xymTmM5f-_LDx2rzYx_QOM_RJHhzNJVlRZI90wuSXbmuy4MnmKrDJOnCwYAhMN09l8AcWFCtASWNBgrtab7W5PBxyhmDhhqeN8ud5a028JEIQRxUnamQGyHMdr4XfmEWWF6v54vpY28jc0oEIZeLybPWFlQz93sw567G7r8ZM5QlfF5POlgyBLFhNZeMR1IXUmb3qlAw2GYSCM419CwRB7jAIok8u1SS_ptdne_4Em3VSZAuwHEn-44_DlLcx5z1YoNPS4d13H4YQAO36gMeOZhbtdcrC41KadYpoRJDuLvpQF9gALr7xO21AIZvU5AcZhgjN7nFNWFJUFrjIJlir9s68BLWoOsqxcCPAqBBZmiaJ7LMqV1yH6meEF4ESk4l97HKQG6JamHN3GAEd4KnOC_TmT9jfH6__elo0zaaI-WO8AAAAASUVORK5CYII.png",
+   "date": "Nov 9, 2023",
+   "snippet": "The Gadsden band first performed in 2012 and organizers say they have always stood out among the dozens of K-12 and college bands from the U.S. ...",
+   "snippet_highlighted_words": [
+    "Gadsden band"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The Gadsden band first performed in 2012 and organizers say they have always stood out among the dozens of K-12 and college bands from the U.S. ...",
+     "source_info_link": "https://www.kawc.org/news/2023-11-09/san-luis-student-band-invited-back-to-londons-new-years-day-parade",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA4VBMVEX_______7__vzi4d90cm6Vk5Dc29ixr62joqBOT0yCgn_T0tC7urjn5uR7eXX6-fcAAACJh4XMy8m6jYhNGw9oaGXIxsQOBABAPTgjHhccFw3n7vhSVlKFU03Io5-lqbC6v8dkYVzO0dbM1ODt8PPe5O2wu8mEXmHpsq30zcmdYVqJlqMUDABtb3K6yNw4Oj2IjJJMUFOlXVX_29jUk41ZXGGsraqog37uk4vysKrypqHzu7b-___76ufpbmXoXVH1yMTnU0brfHPpYlb54d7siIDlQTHlMh3lPSzkLRXqeG9doHNFAAABSUlEQVR4AcRNNQLDMBA7O8xymTmM5f-_LDx2rzYx_QOM_RJHhzNJVlRZI90wuSXbmuy4MnmKrDJOnCwYAhMN09l8AcWFCtASWNBgrtab7W5PBxyhmDhhqeN8ud5a028JEIQRxUnamQGyHMdr4XfmEWWF6v54vpY28jc0oEIZeLybPWFlQz93sw567G7r8ZM5QlfF5POlgyBLFhNZeMR1IXUmb3qlAw2GYSCM419CwRB7jAIok8u1SS_ptdne_4Em3VSZAuwHEn-44_DlLcx5z1YoNPS4d13H4YQAO36gMeOZhbtdcrC41KadYpoRJDuLvpQF9gALr7xO21AIZvU5AcZhgjN7nFNWFJUFrjIJlir9s68BLWoOsqxcCPAqBBZmiaJ7LMqV1yH6meEF4ESk4l97HKQG6JamHN3GAEd4KnOC_TmT9jfH6__elo0zaaI-WO8AAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESnwEB6zswFSUVY206Apnc1aMkqt6m4NrMm0IO69G84Bmtl7LluMBcfI0QPq9aTr74c65fYjZdIwDnyKXR3aYlu4vM9UfYXOGfP5dmOVOZNWKQTxgIYV_CPmEs9oUb-QDXAuc7NkMI5xEDmtth3ua0BQl4wLWK0BUVU46c2r__-M11Tn5yIWAi5MRcnVcR4fTtbXuLXpKGOfpVdhiFZWc6uns&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESnwEB6zswFSUVY206Apnc1aMkqt6m4NrMm0IO69G84Bmtl7LluMBcfI0QPq9aTr74c65fYjZdIwDnyKXR3aYlu4vM9UfYXOGfP5dmOVOZNWKQTxgIYV_CPmEs9oUb-QDXAuc7NkMI5xEDmtth3ua0BQl4wLWK0BUVU46c2r__-M11Tn5yIWAi5MRcnVcR4fTtbXuLXpKGOfpVdhiFZWc6uns",
+   "source": "kawc.org",
+   "read_more_link": "https://www.kawc.org/news/2023-11-09/san-luis-student-band-invited-back-to-londons-new-years-day-parade#:~:text=The%20Gadsden%20band%20first%20performed,who%20go%20to%20the%20U.K."
+  },
+  {
+   "position": 8,
+   "title": "Gadsden Band performs in London",
+   "link": "https://www.youtube.com/watch?v=4-IBMC-6ZNw",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVXK_JYaOEF6-jhM26wcr7p6yYtf3AQmVpmkLCuu1CDPgw10DI3G266fJ6fbUUqpefX-NDWZBQwKfmFV-iAdQTyJqYrnppDmHKKsDRifNt5kS5pamNf7KIKEJYqK6P8A&ved=2ahUKEwia4ITJ6OSWAxVL4skDHeVoCCEQFnoECCoQAQ&uoh=1",
+   "displayed_link": "https://www.youtube.com \u203a watch",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABJklEQVR4Ae2WpVaFQRSFcaeS4QVwIjTiLbgk7D1w9xeg4FQcOu6acHeXtNnDmsFd7in_WetLI-f7dbYDAFEsAUvgoeAQ5k5iSQFpIH1kkMyQFXJMTsgpwTuc6jlHes2M3qNP71mge7g76DLNg8gygZ1QckGmuSdZJ7Azq8RDCSQTCJGgBCoFBWqVQLegQJcSmPnWIr9oICMXcIr4C4FJJbD9rUX-NtzX-CIQlfVbgS0lcP4jAVNt_UCA7acCZ0oAPxfQdXMLFNUBvpHflvgbAVM7h0B6zrfeD3kB-Ucg_xLKf4biPyLJX3GH9GFUogRSBQUSTSBZEwskQpFs1USyl6E0gRSRJtJPhsnci1B69oVQeqzXzOo9-kmj3juBeDw2BkSxBCyBO-9s03HRLVCoAAAAAElFTkSuQmCC.png",
+   "snippet": "... performance. News 11's Jon Archuleta has more on the sights and sounds. Gadsden Band performs in London. 1.6K views \u00b7 13 years ago ...more. TheJonnyArch. 70.",
+   "snippet_highlighted_words": [
+    "Gadsden Band"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "... performance. News 11's Jon Archuleta has more on the sights and sounds. Gadsden Band performs in London. 1.6K views \u00b7 13 years ago ...more. TheJonnyArch. 70.",
+     "source_info_link": "https://www.youtube.com/watch?v=4-IBMC-6ZNw",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABJklEQVR4Ae2WpVaFQRSFcaeS4QVwIjTiLbgk7D1w9xeg4FQcOu6acHeXtNnDmsFd7in_WetLI-f7dbYDAFEsAUvgoeAQ5k5iSQFpIH1kkMyQFXJMTsgpwTuc6jlHes2M3qNP71mge7g76DLNg8gygZ1QckGmuSdZJ7Azq8RDCSQTCJGgBCoFBWqVQLegQJcSmPnWIr9oICMXcIr4C4FJJbD9rUX-NtzX-CIQlfVbgS0lcP4jAVNt_UCA7acCZ0oAPxfQdXMLFNUBvpHflvgbAVM7h0B6zrfeD3kB-Ucg_xLKf4biPyLJX3GH9GFUogRSBQUSTSBZEwskQpFs1USyl6E0gRSRJtJPhsnci1B69oVQeqzXzOo9-kmj3juBeDw2BkSxBCyBO-9s03HRLVCoAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYwHrOzAVXK_JYaOEF6-jhM26wcr7p6yYtf3AQmVpmkLCuu1CDPgw10DI3G266fJ6fbUUqpefX-NDWZBQwKfmFV-iAdQTyJqYrnppDmHKKsDRifNt5kS5pamNf7KIKEJYqK6P8A&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYwHrOzAVXK_JYaOEF6-jhM26wcr7p6yYtf3AQmVpmkLCuu1CDPgw10DI3G266fJ6fbUUqpefX-NDWZBQwKfmFV-iAdQTyJqYrnppDmHKKsDRifNt5kS5pamNf7KIKEJYqK6P8A",
+   "source": "YouTube"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Gadsden band members",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnsZEMB8pla8qEOi1GBFSRZEjeBgVw:1789070927809&q=Gadsden+band+members&sa=X&ved=2ahUKEwia4ITJ6OSWAxVL4skDHeVoCCEQ1QJ6BAgkEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Gadsden+band+members"
+  },
+  {
+   "block_position": 1,
+   "query": "Gadsden band 2022",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnsZEMB8pla8qEOi1GBFSRZEjeBgVw:1789070927809&q=Gadsden+band+2022&sa=X&ved=2ahUKEwia4ITJ6OSWAxVL4skDHeVoCCEQ1QJ6BAgnEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Gadsden+band+2022"
+  },
+  {
+   "block_position": 1,
+   "query": "Gadsden band videos",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnsZEMB8pla8qEOi1GBFSRZEjeBgVw:1789070927809&q=Gadsden+band+videos&sa=X&ved=2ahUKEwia4ITJ6OSWAxVL4skDHeVoCCEQ1QJ6BAglEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Gadsden+band+videos"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Gadsden+Band%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnsZEMB8pla8qEOi1GBFSRZEjeBgVw:1789070927809&ei=Tw6jatr8MMvEp84P5dGhiAI&start=10&sa=N&sstk=AS6-VmKURw6qzdd9EOrzFy3n8kvl2H9fHFrw4JdRfdkm9eyXjKhnTiN4uGpOA4dFsi9cfh7gMQ8TWUW6D8uQgt7RlZZ08dqiM4vevw&ved=2ahUKEwia4ITJ6OSWAxVL4skDHeVoCCEQ8NMDegQIMxAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Gadsden+Band%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnsZEMB8pla8qEOi1GBFSRZEjeBgVw:1789070927809&ei=Tw6jatr8MMvEp84P5dGhiAI&start=10&sa=N&sstk=AS6-VmKURw6qzdd9EOrzFy3n8kvl2H9fHFrw4JdRfdkm9eyXjKhnTiN4uGpOA4dFsi9cfh7gMQ8TWUW6D8uQgt7RlZZ08dqiM4vevw&ved=2ahUKEwia4ITJ6OSWAxVL4skDHeVoCCEQ8tMDegQIMxAE",
+   "3": "https://www.google.com/search?q=%22Gadsden+Band%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnsZEMB8pla8qEOi1GBFSRZEjeBgVw:1789070927809&ei=Tw6jatr8MMvEp84P5dGhiAI&start=20&sa=N&sstk=AS6-VmKURw6qzdd9EOrzFy3n8kvl2H9fHFrw4JdRfdkm9eyXjKhnTiN4uGpOA4dFsi9cfh7gMQ8TWUW6D8uQgt7RlZZ08dqiM4vevw&ved=2ahUKEwia4ITJ6OSWAxVL4skDHeVoCCEQ8tMDegQIMxAG",
+   "4": "https://www.google.com/search?q=%22Gadsden+Band%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnsZEMB8pla8qEOi1GBFSRZEjeBgVw:1789070927809&ei=Tw6jatr8MMvEp84P5dGhiAI&start=30&sa=N&sstk=AS6-VmKURw6qzdd9EOrzFy3n8kvl2H9fHFrw4JdRfdkm9eyXjKhnTiN4uGpOA4dFsi9cfh7gMQ8TWUW6D8uQgt7RlZZ08dqiM4vevw&ved=2ahUKEwia4ITJ6OSWAxVL4skDHeVoCCEQ8tMDegQIMxAI",
+   "5": "https://www.google.com/search?q=%22Gadsden+Band%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnsZEMB8pla8qEOi1GBFSRZEjeBgVw:1789070927809&ei=Tw6jatr8MMvEp84P5dGhiAI&start=40&sa=N&sstk=AS6-VmKURw6qzdd9EOrzFy3n8kvl2H9fHFrw4JdRfdkm9eyXjKhnTiN4uGpOA4dFsi9cfh7gMQ8TWUW6D8uQgt7RlZZ08dqiM4vevw&ved=2ahUKEwia4ITJ6OSWAxVL4skDHeVoCCEQ8tMDegQIMxAK",
+   "6": "https://www.google.com/search?q=%22Gadsden+Band%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnsZEMB8pla8qEOi1GBFSRZEjeBgVw:1789070927809&ei=Tw6jatr8MMvEp84P5dGhiAI&start=50&sa=N&sstk=AS6-VmKURw6qzdd9EOrzFy3n8kvl2H9fHFrw4JdRfdkm9eyXjKhnTiN4uGpOA4dFsi9cfh7gMQ8TWUW6D8uQgt7RlZZ08dqiM4vevw&ved=2ahUKEwia4ITJ6OSWAxVL4skDHeVoCCEQ8tMDegQIMxAM",
+   "7": "https://www.google.com/search?q=%22Gadsden+Band%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnsZEMB8pla8qEOi1GBFSRZEjeBgVw:1789070927809&ei=Tw6jatr8MMvEp84P5dGhiAI&start=60&sa=N&sstk=AS6-VmKURw6qzdd9EOrzFy3n8kvl2H9fHFrw4JdRfdkm9eyXjKhnTiN4uGpOA4dFsi9cfh7gMQ8TWUW6D8uQgt7RlZZ08dqiM4vevw&ved=2ahUKEwia4ITJ6OSWAxVL4skDHeVoCCEQ8tMDegQIMxAO",
+   "8": "https://www.google.com/search?q=%22Gadsden+Band%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnsZEMB8pla8qEOi1GBFSRZEjeBgVw:1789070927809&ei=Tw6jatr8MMvEp84P5dGhiAI&start=70&sa=N&sstk=AS6-VmKURw6qzdd9EOrzFy3n8kvl2H9fHFrw4JdRfdkm9eyXjKhnTiN4uGpOA4dFsi9cfh7gMQ8TWUW6D8uQgt7RlZZ08dqiM4vevw&ved=2ahUKEwia4ITJ6OSWAxVL4skDHeVoCCEQ8tMDegQIMxAQ",
+   "9": "https://www.google.com/search?q=%22Gadsden+Band%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnsZEMB8pla8qEOi1GBFSRZEjeBgVw:1789070927809&ei=Tw6jatr8MMvEp84P5dGhiAI&start=80&sa=N&sstk=AS6-VmKURw6qzdd9EOrzFy3n8kvl2H9fHFrw4JdRfdkm9eyXjKhnTiN4uGpOA4dFsi9cfh7gMQ8TWUW6D8uQgt7RlZZ08dqiM4vevw&ved=2ahUKEwia4ITJ6OSWAxVL4skDHeVoCCEQ8tMDegQIMxAS",
+   "10": "https://www.google.com/search?q=%22Gadsden+Band%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnsZEMB8pla8qEOi1GBFSRZEjeBgVw:1789070927809&ei=Tw6jatr8MMvEp84P5dGhiAI&start=90&sa=N&sstk=AS6-VmKURw6qzdd9EOrzFy3n8kvl2H9fHFrw4JdRfdkm9eyXjKhnTiN4uGpOA4dFsi9cfh7gMQ8TWUW6D8uQgt7RlZZ08dqiM4vevw&ved=2ahUKEwia4ITJ6OSWAxVL4skDHeVoCCEQ8tMDegQIMxAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Gadsden+Band%22&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Gadsden+Band%22&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Gadsden+Band%22&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Gadsden+Band%22&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Gadsden+Band%22&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Gadsden+Band%22&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Gadsden+Band%22&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Gadsden+Band%22&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Gadsden+Band%22&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Gadsden+Band%22&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Gadsden+Band%22&start=90"
+  }
+ }
+}

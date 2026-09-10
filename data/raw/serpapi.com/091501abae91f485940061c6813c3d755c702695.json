@@ -1,0 +1,536 @@
+{
+ "search_information": {
+  "query_displayed": "\"Grove City High School\" Ohio",
+  "total_results": 92000,
+  "time_taken_displayed": 0.28,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Grove City High School",
+  "type": "High school in Grove City, Ohio",
+  "entity_type": "local_nav",
+  "kgmid": "/m/0gl5m1",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/0gl5m1&hl=en-US&q=Grove+City+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F0gl5m1&q=Grove+City+High+School",
+  "place_id": "ChIJAQAAC7GEOIgR2z1ylq-pk2s",
+  "website": "https://gchs.swcsd.us/",
+  "description": "Grove City High School is a high school in Grove City, Ohio, United States. It is one of the five high schools in the South-Western City Schools district. It houses about 1,900 students in grades 9-12.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa30e8bfd81c8abb0b6f060/images/vC7Dm1w6ylk-CWbKDUW3069NShN2kpugaN7RtoydbPE.webp",
+   "link": "https://www.google.com/maps/place/Grove+City+High+School/data=!4m2!3m1!1s0x0:0x6b93a9af96723ddb?sa=X&ved=2ahUKEwis5qfm6OSWAxUPLFkFHbgYFfgQ_BJ6BAgYEAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Grove_City_High_School"
+  },
+  "address": "4665 Hoover Rd, Grove City, OH 43123",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntS-2f-KLD5J8JS_fevPo1xoDU-gA:1789070989202&q=grove+city+high+school+address&ludocid=7751725955243195867&sa=X&ved=2ahUKEwis5qfm6OSWAxUPLFkFHbgYFfgQ6BN6BAghEAI"
+   }
+  ],
+  "founded": "1970",
+  "colors": "Crimson, Blue",
+  "colors_links": [
+   {
+    "text": "Crimson",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntS-2f-KLD5J8JS_fevPo1xoDU-gA:1789070989202&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yfxm7aOos1gtnSK-oRgADIB-Kv1lZz76cASmOAfUnB3wLQ67o2n95facnAxZT-TY9fkVtRfTD_RraLbFsR0uoQcvwBFNKSGr3Lk8amM52IF4V60kRcOlcMyB2MmgOS0N-ySReuCGvfRKoPPOPvOpiLSLvYGc5pFgQFrtiJ4un8rOdJWp0p-jx4Nx4SDAtUoHquYkuEc%3D&sa=X&ved=2ahUKEwis5qfm6OSWAxUPLFkFHbgYFfgQmxN6BAgmEAI"
+   },
+   {
+    "text": "Blue",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntS-2f-KLD5J8JS_fevPo1xoDU-gA:1789070989202&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpvdEmEKP4dQQoWLIwXjhkBjOThA3TO1rl4rjAeqO-nYm2Jtayp0qt_JeDeqZa6mSnpgrg5vd1dY9btmrpbnDGN3NMW_Zg7s_wHDDM_TaJqUeACBLn96V4n7jhHOTZ_TEPm5gHmUcAI1XbiGsQUulE__0fuWmKQJDLsT6wBgaugd8FCZAEykceTThkVZUun_1jnU9_x0%3D&sa=X&ved=2ahUKEwis5qfm6OSWAxUPLFkFHbgYFfgQmxN6BAgmEAM"
+   }
+  ],
+  "school_types": "Secondary school, Co-education, Public school",
+  "school_types_links": [
+   {
+    "text": "Secondary school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntS-2f-KLD5J8JS_fevPo1xoDU-gA:1789070989202&q=Secondary+school&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67-Rsa99rK7fwEET42kD4ZCjk-kwuBlXLYvTk1E00Fqrhwi85KZ1INmxqGZOr3jlJDcUD6ud1MLv8IJ0e6fEDPQWMqzMljtx1MKREnqXNq73i2oeJO2RtnFvdZe9Mx0A3_3UzNGxgj5q3PXN5E3a3pG2Eo8cIJonMbzPgsZiPB5UXJN7O4XpoGkNpS5bBqVcy4s-ZuJ-6v5sBvEOxYQGGH33xzeZlhZ1f1EOZsqO-ITXOf4jOG1aLwgPbi3oY2xSu4NHS4dY%3D&sa=X&ved=2ahUKEwis5qfm6OSWAxUPLFkFHbgYFfgQmxN6BAgnEAI"
+   },
+   {
+    "text": "Co-education",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntS-2f-KLD5J8JS_fevPo1xoDU-gA:1789070989202&q=Co-education&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yVP88BQLNV4l2hiBkjJJlLbAHHsKddt6Z47BP5wM9p4inb3uXILaErIcvp3VyV5WPvDCQxJUm7raxsjWbK8rFUrHgqjN5okwWatL1sYj6jnjPveoCjSspb_sz41abKRpXNopal2tOEM9CDNWg_OWkxRygy2LHtN4_6B6laVt8VHbEnE4a46XkLrsBdSSNi2Dr7MiItu4EjxMRcsXHSTl32nY40oI8RmttfsBc81FIMECRAq5_VAgjR3v3CY7YERP4kld_aM%3D&sa=X&ved=2ahUKEwis5qfm6OSWAxUPLFkFHbgYFfgQmxN6BAgnEAM"
+   },
+   {
+    "text": "Public school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntS-2f-KLD5J8JS_fevPo1xoDU-gA:1789070989202&q=Public+school&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpnRjecyiHCyfvh60pbD8ck5PRN1YHP_sJ4SP5ZvhFW1SCqcU73cy8ciuVYm7MIcM9JKjoj5TcP9yh14TUTaTMZ3No418INxdY9bFHeSRgFp7jkn6KXc_bDmw9Yj3LCw4CPH5-sg9vuybYAwAhe0nelF_IAd2BNHRz_QVjJ0q4VOVmlI0lwkuWCvmjo-shz4muVpmSMDwWCjMY85A2G_oQbB8T3mMaj08OJ5NiflA5BWg6MukslEixrs8EcTkEu-9niW7N6o%3D&sa=X&ved=2ahUKEwis5qfm6OSWAxUPLFkFHbgYFfgQmxN6BAgnEAQ"
+   }
+  ],
+  "phone": "(614) 801-3300",
+  "raw_hours": "Closed \u00b7 Opens 7 - 30 AM Fri",
+  "hours": {
+   "thursday": {
+    "opens": "7:30\u202fAM",
+    "closes": "2:30\u202fPM"
+   },
+   "friday": {
+    "opens": "7:30\u202fAM",
+    "closes": "2:30\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "7:30\u202fAM",
+    "closes": "2:30\u202fPM"
+   },
+   "tuesday": {
+    "opens": "7:30\u202fAM",
+    "closes": "2:30\u202fPM"
+   },
+   "wednesday": {
+    "opens": "7:30\u202fAM",
+    "closes": "2:30\u202fPM"
+   }
+  },
+  "people_also_search_for": [
+   {
+    "name": "Grove City",
+    "image": "https://serpapi.com/searches/6aa30e8bfd81c8abb0b6f060/images/vC7Dm1w6ylk-CWbKDUW3095yMPBaFN8qjGUS7w8hXz55wgfgZLruKCYiou5XFJQZ.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntS-2f-KLD5J8JS_fevPo1xoDU-gA:1789070989202&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpnu6SYAwtkBW7CLGSjTqDzMaUKAHuRy2pNYjz9v5npwNzCQneTnaePss3h54LB5gjHTYFGdwGr-z_Yi5FTh7tdwvNCXmgMdUxTx8Wpcqa2o-_4DRPf6-obPAZcM9KNKeYHhsSzaYo7lrhW94w_ZWOGletvQ5QQVXf7ZztxEVKQh5H96JN3IeTApWBAYT3gJhwOrkQwgcByEFpZAEKHktGIclrfP5ThQLpg4JqoQAa2FfyrHJCpQNBnO5Z3m-fU8BMO8KRRM%3D&q=Grove+City,+Ohio&sa=X&ved=2ahUKEwis5qfm6OSWAxUPLFkFHbgYFfgQs9oBKAB6BAgdEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Grove+City%2C+Ohio&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpnu6SYAwtkBW7CLGSjTqDzMaUKAHuRy2pNYjz9v5npwNzCQneTnaePss3h54LB5gjHTYFGdwGr-z_Yi5FTh7tdwvNCXmgMdUxTx8Wpcqa2o-_4DRPf6-obPAZcM9KNKeYHhsSzaYo7lrhW94w_ZWOGletvQ5QQVXf7ZztxEVKQh5H96JN3IeTApWBAYT3gJhwOrkQwgcByEFpZAEKHktGIclrfP5ThQLpg4JqoQAa2FfyrHJCpQNBnO5Z3m-fU8BMO8KRRM%3D"
+   },
+   {
+    "name": "Central Crossing High School",
+    "image": "https://serpapi.com/searches/6aa30e8bfd81c8abb0b6f060/images/vC7Dm1w6ylk-CWbKDUW3095yMPBaFN8qjGUS7w8hXz5Zzd4W4ByJ9PLBkaA7U4zM.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntS-2f-KLD5J8JS_fevPo1xoDU-gA:1789070989202&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ycTNt9J0pVAQnuJ4k27cGMWNcTnfF1k0zVAHc_181s3PN_wJ0gTMqFr8xYXUNm0Q0WyXQljb-t-wjkxV4HEU1HxBC-wg36o3JlOec5xj7vB1T2QE3RT7Ou22MXh2qilbW9WOVBwjjAAfSVwHO8wrcy5D_-rmkAtY_KXyvP1PfliCoL0daiG68SIMBEpMKPxuLIgSJuoAZekCd_duDn3tqqLN_PPqdMld34NwtAdpYjK-XQ4BMLaU_nDhjxKP-S9LzfAn3BtA0HkvFQaxiVHySCxm5yGD&q=Central+Crossing+High+School&sa=X&ved=2ahUKEwis5qfm6OSWAxUPLFkFHbgYFfgQs9oBKAB6BAgdEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Central+Crossing+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ycTNt9J0pVAQnuJ4k27cGMWNcTnfF1k0zVAHc_181s3PN_wJ0gTMqFr8xYXUNm0Q0WyXQljb-t-wjkxV4HEU1HxBC-wg36o3JlOec5xj7vB1T2QE3RT7Ou22MXh2qilbW9WOVBwjjAAfSVwHO8wrcy5D_-rmkAtY_KXyvP1PfliCoL0daiG68SIMBEpMKPxuLIgSJuoAZekCd_duDn3tqqLN_PPqdMld34NwtAdpYjK-XQ4BMLaU_nDhjxKP-S9LzfAn3BtA0HkvFQaxiVHySCxm5yGD"
+   },
+   {
+    "name": "Grove City Christian School",
+    "image": "https://serpapi.com/searches/6aa30e8bfd81c8abb0b6f060/images/vC7Dm1w6ylk-CWbKDUW3095yMPBaFN8qjGUS7w8hXz6tszqvgFxJrg4AlgCZTbmV.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntS-2f-KLD5J8JS_fevPo1xoDU-gA:1789070989202&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW6761Cc-kgJVW--MDdoaX17EUUIxufb0pCrRbyMC5L_leY1uC76xpv4RtgWZagbjUjSd0cYro9Ux0b4sMjkqb5Pd2ao-EhGAN_5Pl_gsrN_mPQrd74eyGhXRexIDH36v2Gblf9FOsTJSQsyQD1f91-WuJshr8ZwzzJ3pvO2upYtkrxUPc4DOH-a0QGSxB1haXuYnbLNKEZShi0IgugbwvTh6o_MWqNE5dBe9XxLGNBd-0dO6zdgo8tR-IUhKN_5J1C610UArHspNnz8OhltEZdfe0MJzcJ&q=Grove+City+Christian+School&sa=X&ved=2ahUKEwis5qfm6OSWAxUPLFkFHbgYFfgQs9oBKAB6BAgdEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Grove+City+Christian+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW6761Cc-kgJVW--MDdoaX17EUUIxufb0pCrRbyMC5L_leY1uC76xpv4RtgWZagbjUjSd0cYro9Ux0b4sMjkqb5Pd2ao-EhGAN_5Pl_gsrN_mPQrd74eyGhXRexIDH36v2Gblf9FOsTJSQsyQD1f91-WuJshr8ZwzzJ3pvO2upYtkrxUPc4DOH-a0QGSxB1haXuYnbLNKEZShi0IgugbwvTh6o_MWqNE5dBe9XxLGNBd-0dO6zdgo8tR-IUhKN_5J1C610UArHspNnz8OhltEZdfe0MJzcJ"
+   },
+   {
+    "name": "Jackson Middle School",
+    "image": "https://serpapi.com/searches/6aa30e8bfd81c8abb0b6f060/images/vC7Dm1w6ylk-CWbKDUW3095yMPBaFN8qjGUS7w8hXz62_jNcepCzGc08n0JohECx.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntS-2f-KLD5J8JS_fevPo1xoDU-gA:1789070989202&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW674yPGYCeSxm9JELjjAq1dJwmX9pZALtHt8XVHVIkM3m3Z8jqqkg8FHx0DkvhaEKUwdDDlfyf9CP6dO3i8zjIZ0Zrv5WGxfx55uNnMjvg7hBDasPKjzSbop9Btt2QrjgDZsnYP40CHiWml-u7JBnN55GupAYH2MealkVNu1BgcSleATjj8RloLQgwi_IKY8dieWaPj8Vxc3gtUZpOH6aA5Dr8UU95sdVqd89Z5RCCcBJcxfzGr58LwNnRHgDmQy9mSj_O-zs4_NkeVePBaVEGcx60FZl-&q=Jackson+Middle+School+Grove+City&sa=X&ved=2ahUKEwis5qfm6OSWAxUPLFkFHbgYFfgQs9oBKAB6BAgdEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Jackson+Middle+School+Grove+City&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW674yPGYCeSxm9JELjjAq1dJwmX9pZALtHt8XVHVIkM3m3Z8jqqkg8FHx0DkvhaEKUwdDDlfyf9CP6dO3i8zjIZ0Zrv5WGxfx55uNnMjvg7hBDasPKjzSbop9Btt2QrjgDZsnYP40CHiWml-u7JBnN55GupAYH2MealkVNu1BgcSleATjj8RloLQgwi_IKY8dieWaPj8Vxc3gtUZpOH6aA5Dr8UU95sdVqd89Z5RCCcBJcxfzGr58LwNnRHgDmQy9mSj_O-zs4_NkeVePBaVEGcx60FZl-"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntS-2f-KLD5J8JS_fevPo1xoDU-gA:1789070989202&q=Grove+City+High+School&stick=H4sIAAAAAAAAAONgFuLUz9U3SM8xzTVUQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iFXMvyi9LVXDOLKlU8MhMz1AITs7Iz8_Zwcp4i02S4Y1DRWAuX1PnknDDQ6zaizZHJAXbpId9Pw4A68onDHwAAAA&sa=X&ved=2ahUKEwis5qfm6OSWAxUPLFkFHbgYFfgQzO0BKAR6BAgdEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLUz9U3SM8xzTVUQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iFXMvyi9LVXDOLKlU8MhMz1AITs7Iz8_Zwcp4i02S4Y1DRWAuX1PnknDDQ6zaizZHJAXbpId9Pw4A68onDHwAAAA",
+  "profiles": [
+   {
+    "name": "X (Twitter)",
+    "link": "https://mobile.twitter.com/GCHSDAWGS2022",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Grove+City+High+School%22+Ohio",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAABhUlEQVR4AczOA6xcARCF4X_us23btuLUQR3WZlhbQW3bto2gtm3b2J3GN4tY74uHh3okOi42Nj4AAUDwTvDEhisABCOAEAzYTBh0bN-lc5d0QgAhHPqX4Y4pkd367Zc-xMcXCPDg8TPwxeQH724Uj9N95GJ4pnHxby1xgCmV3v-GsFb7k0Iee7UjaQgmIYe9v9O4-wUKWaATyMPAViwvr1NnOQWDdTV5CHYSaKWLmaGDyvU4mTgQcllracaFr-9uk-yLM8k8fAJff0IUTghRVFu3M1ynkYk4nchiqqU3Ry05RDibMMhjtj6Ht3dJxVk_l1G64cspOusychBsCWm01WNM0jFs0sbEYUtIIuTXNco588OLh09JxE6wweuXEAvfL9PQus3-iU80N34KCaQyUOcxTTuSjEmMRI5rS9JwIZfD1t7ceo34YIpnuQ4nGwP8XXlq_fJZd9jE8KBHC5IwAELJ7dWrZ6fOuNhkgFgAEEIAwA1MQkw0AgDC_wnKycrKSQ2iPAkAVyNzq8rxicIAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "YouTube",
+    "link": "https://www.youtube.com/channel/UC5Q4J-_TU8KYzJljD56DVrg",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Grove+City+High+School%22+Ohio",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAP1BMVEX_____z8__n5__kJD_gID_cHD_YGD_v7__39__ICD_AAD_r6__EBD_7-__oKD_MDD_QED_UFD_X1__j4__f396G04EAAAAhklEQVR4AeXQRQLDQAwDQC3bajj5_1dLYb63czYKf8VY50OcBO9swkyUB_SBkfJQlqOXeKJAz_FEQM9zVCqXInqRIy-RC9W-AJDypgCwyoGiV68LkLJFwX6CVJcr8nBwZJgLXMaDAs9RxsMcLE949IQnEnpoeKjEpC25o12OpVwkTURy_JQX1r4RC2S7kZYAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/gchsoh",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Grove+City+High+School%22+Ohio",
+    "image": "https://serpapi.com/searches/6aa30e8bfd81c8abb0b6f060/images/vC7Dm1w6ylk-CWbKDUW300Qads4TaOmc4dk8TZZgs_5YukHh-o07dKUSiYH2ItaH.png"
+   },
+   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/gchsphoto/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Grove+City+High+School%22+Ohio",
+    "image": "https://serpapi.com/searches/6aa30e8bfd81c8abb0b6f060/images/vC7Dm1w6ylk-CWbKDUW305cht-xWa9OdaoeoGo7dlPTedRz0u5RKtBQD_6pKmDys.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "What is Grove City High School ranked in Ohio?",
+   "type": "ai_overview",
+   "page_token": "H_dMPXicHdBRbpswGABg7TJ9bDAkmYgUTaLgdF1tZmL_GL9UwSbQ8BNIYUmzt16hZ-ipeppNvcD38L194POx_fz23kzTMK5ms8vlclv3fY3Vre272W68Hu3M7hDLnW1Xy-9L8mNv18nZRncvNhJqGCDOPLnJRmjDB-sxInyTM-V8dW94BQBFXgelqieb04Jh0zNFiKFmm20cN0n2aDU9ZJD4OaKxGlIVU8l8MRe6mEppchmza0YHUnqLX6XkiUXulYAndqC88MKzCzJRtXyhJN5VcZSn_6GtfvitSFYIrQgjCM6n1xTYXJJm4EDHPEaPQyMqigFr6Vyq14ARdRFHMOCHDWwWkCdYaG8xqgP8McgN3DfglAmSxp2UNKdCw9K2zNOkJbILhVOvP0G7KI36Z6Gyv_aAnep6Um3II-9cCjkZS2mvOwyX1RGLLdKz8vlJiJu9Pa-Dm6_r9dO-m1bDS1__AyOuisA",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=H_dMPXicHdBRbpswGABg7TJ9bDAkmYgUTaLgdF1tZmL_GL9UwSbQ8BNIYUmzt16hZ-ipeppNvcD38L194POx_fz23kzTMK5ms8vlclv3fY3Vre272W68Hu3M7hDLnW1Xy-9L8mNv18nZRncvNhJqGCDOPLnJRmjDB-sxInyTM-V8dW94BQBFXgelqieb04Jh0zNFiKFmm20cN0n2aDU9ZJD4OaKxGlIVU8l8MRe6mEppchmza0YHUnqLX6XkiUXulYAndqC88MKzCzJRtXyhJN5VcZSn_6GtfvitSFYIrQgjCM6n1xTYXJJm4EDHPEaPQyMqigFr6Vyq14ARdRFHMOCHDWwWkCdYaG8xqgP8McgN3DfglAmSxp2UNKdCw9K2zNOkJbILhVOvP0G7KI36Z6Gyv_aAnep6Um3II-9cCjkZS2mvOwyX1RGLLdKz8vlJiJu9Pa-Dm6_r9dO-m1bDS1__AyOuisA",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpVSXhRVzB0VGxOWVkxQjZibGN6YTJ0NFoxRnNjVEpFU0dGclFpMXNUR2ROWmtOUmEyTktVVXRzVkRCRFZrcHNZM0ZhZVdSd2NFaDFWWFZvTVdwd1pUTk1hVnBxYkZoVWFsSTVOVlJuY1ZGNVJWOHpiVk56UkVSS1p4SVhhbEUyYW1GMWVuSkRORjlaTlU1dlVIVk1TRlYzUVRnYUlrRkVjM0k1WmxSb2NsZzFhVFJ1YjJOV1FuQkpUMlJ0Wm5kRk9YSjZNR1JtTjBFIiwiZmN2IjoiMyIsImVpIjoialE2amF1enJDNF9ZNU5vUHVMSFV3QTgiLCJxYyI6IkNodG5jbTkyWlNCamFYUjVJR2hwWjJnZ2MyTm9iMjlzSUc5b2FXOFFBSDFTVGhjXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBHcm92ZSBDaXR5IEhpZ2ggU2Nob29sIHJhbmtlZCBpbiBPaGlvPyIsImxrIjoiR2kxM2FHRjBJR2x6SUdkeWIzWmxJR05wZEhrZ2FHbG5hQ0J6WTJodmIyd2djbUZ1YTJWa0lHbHVJRzlvYVc4IiwiYnMiOiJjLU5LNU5JTHowZ3NVY2dzVm5BdnlpOUxWWERPTEtsVThNaE16MUFJVHM3SXo4OVJLRXJNeTA1TlVjak1VX0RQeU15M045S1gwaTJINmtnSDYwZ0c2Y2dBNlNoRzE1RVAxTUVWeWFVRnM2SWtJMVZCMlJDbUFGa1AzSGh0S2MxeVlsU0RqWGJta3ZkRWNYaWlRa0ZSWmxsaVNTcFVwYjJSZ3BRY3FrdlJsWENGY21sNDR2Ujlva0o2Zm40SzNEUk5LWFhjX2taUks4QUlBQSIsImlkIjoiZmNfalE2amF1enJDNF9ZNU5vUHVMSFV3QThfMiJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpVSXhRVzB0VGxOWVkxQjZibGN6YTJ0NFoxRnNjVEpFU0dGclFpMXNUR2ROWmtOUmEyTktVVXRzVkRCRFZrcHNZM0ZhZVdSd2NFaDFWWFZvTVdwd1pUTk1hVnBxYkZoVWFsSTVOVlJuY1ZGNVJWOHpiVk56UkVSS1p4SVhhbEUyYW1GMWVuSkRORjlaTlU1dlVIVk1TRlYzUVRnYUlrRkVjM0k1WmxSb2NsZzFhVFJ1YjJOV1FuQkpUMlJ0Wm5kRk9YSjZNR1JtTjBFIiwiZmN2IjoiMyIsImVpIjoialE2amF1enJDNF9ZNU5vUHVMSFV3QTgiLCJxYyI6IkNodG5jbTkyWlNCamFYUjVJR2hwWjJnZ2MyTm9iMjlzSUc5b2FXOFFBSDFTVGhjXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBHcm92ZSBDaXR5IEhpZ2ggU2Nob29sIHJhbmtlZCBpbiBPaGlvPyIsImxrIjoiR2kxM2FHRjBJR2x6SUdkeWIzWmxJR05wZEhrZ2FHbG5hQ0J6WTJodmIyd2djbUZ1YTJWa0lHbHVJRzlvYVc4IiwiYnMiOiJjLU5LNU5JTHowZ3NVY2dzVm5BdnlpOUxWWERPTEtsVThNaE16MUFJVHM3SXo4OVJLRXJNeTA1TlVjak1VX0RQeU15M045S1gwaTJINmtnSDYwZ0c2Y2dBNlNoRzE1RVAxTUVWeWFVRnM2SWtJMVZCMlJDbUFGa1AzSGh0S2MxeVlsU0RqWGJta3ZkRWNYaWlRa0ZSWmxsaVNTcFVwYjJSZ3BRY3FrdlJsWENGY21sNDR2Ujlva0o2Zm40SzNEUk5LWFhjX2taUks4QUlBQSIsImlkIjoiZmNfalE2amF1enJDNF9ZNU5vUHVMSFV3QThfMiJ9"
+  },
+  {
+   "question": "What is the #1 ranked high school in Ohio?",
+   "type": "ai_overview",
+   "page_token": "qbiKFXicHdBRbpswAABQ7TL9bGw60hIpmkRiCGkB4diG-mcyhkBiY0jjhdR_u8tOtdNU6jvC-_tPn4z6_-PWWztdV4vFPM-P3Th2un2U47AQ108jF1JoXQupVsvnJfx1lGv0Jwk3lyQs6DSxLQYHh1_baMo56TzuQXPQwYbueohdX7Wlv-UUng9xCjLk71IUbDLP0rcSgdoVT8UJJjnKPplDc0v7s4iDVCDuCIWbFNyV8BRMCReZy8aGMe-NvdwlyN5l_GJrE25rBG0aMSUp-FkDn-VI5y21ESZ7xIhO8LbJpcdtaRpGvGmJTR-XO2QpYVdcBlQMvmFOF4XpfBzzhJd9iPrmQgm_vFdsKVUKKqggGYKiofeEVU2Yh-OpoNjJsx5YFNywi05pmd2l2b9KFRiJ7L6mCpSRFrSars38cJS39dPD9-f693Gwq-lj7L4AanqCRw",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=qbiKFXicHdBRbpswAABQ7TL9bGw60hIpmkRiCGkB4diG-mcyhkBiY0jjhdR_u8tOtdNU6jvC-_tPn4z6_-PWWztdV4vFPM-P3Th2un2U47AQ108jF1JoXQupVsvnJfx1lGv0Jwk3lyQs6DSxLQYHh1_baMo56TzuQXPQwYbueohdX7Wlv-UUng9xCjLk71IUbDLP0rcSgdoVT8UJJjnKPplDc0v7s4iDVCDuCIWbFNyV8BRMCReZy8aGMe-NvdwlyN5l_GJrE25rBG0aMSUp-FkDn-VI5y21ESZ7xIhO8LbJpcdtaRpGvGmJTR-XO2QpYVdcBlQMvmFOF4XpfBzzhJd9iPrmQgm_vFdsKVUKKqggGYKiofeEVU2Yh-OpoNjJsx5YFNywi05pmd2l2b9KFRiJ7L6mCpSRFrSars38cJS39dPD9-f693Gwq-lj7L4AanqCRw",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpVSXhRVzB0VGxOWVkxQjZibGN6YTJ0NFoxRnNjVEpFU0dGclFpMXNUR2ROWmtOUmEyTktVVXRzVkRCRFZrcHNZM0ZhZVdSd2NFaDFWWFZvTVdwd1pUTk1hVnBxYkZoVWFsSTVOVlJuY1ZGNVJWOHpiVk56UkVSS1p4SVhhbEUyYW1GMWVuSkRORjlaTlU1dlVIVk1TRlYzUVRnYUlrRkVjM0k1WmxSb2NsZzFhVFJ1YjJOV1FuQkpUMlJ0Wm5kRk9YSjZNR1JtTjBFIiwiZmN2IjoiMyIsImVpIjoialE2amF1enJDNF9ZNU5vUHVMSFV3QTgiLCJxYyI6IkNodG5jbTkyWlNCamFYUjVJR2hwWjJnZ2MyTm9iMjlzSUc5b2FXOFFBSDFTVGhjXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgIzEgcmFua2VkIGhpZ2ggc2Nob29sIGluIE9oaW8/IiwibGsiOiJHaWwzYUdGMElHbHpJSFJvWlNBak1TQnlZVzVyWldRZ2FHbG5hQ0J6WTJodmIyd2dhVzRnYjJocGJ3IiwiYnMiOiJjLU5LNU5JTHowZ3NVY2dzVm5BdnlpOUxWWERPTEtsVThNaE16MUFJVHM3SXo4OVJLRXJNeTA1TlVjak1VX0RQeU15M045S1gwaTJINmtnSDYwZ0c2Y2dBNlNoRzE1RVAxTUVWeWFVRnM2SWtJMVZCMlJDbUFGa1AzSGh0S2MxeVlsU0RqWGJta3ZkRWNYaWlRa0ZSWmxsaVNTcFVwYjJSZ3BRY3FrdlJsWENGY21sNDR2Ujlva0o2Zm40SzNEUk5LWFhjX2taUks4QUlBQSIsImlkIjoiZmNfalE2amF1enJDNF9ZNU5vUHVMSFV3QThfMiJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpVSXhRVzB0VGxOWVkxQjZibGN6YTJ0NFoxRnNjVEpFU0dGclFpMXNUR2ROWmtOUmEyTktVVXRzVkRCRFZrcHNZM0ZhZVdSd2NFaDFWWFZvTVdwd1pUTk1hVnBxYkZoVWFsSTVOVlJuY1ZGNVJWOHpiVk56UkVSS1p4SVhhbEUyYW1GMWVuSkRORjlaTlU1dlVIVk1TRlYzUVRnYUlrRkVjM0k1WmxSb2NsZzFhVFJ1YjJOV1FuQkpUMlJ0Wm5kRk9YSjZNR1JtTjBFIiwiZmN2IjoiMyIsImVpIjoialE2amF1enJDNF9ZNU5vUHVMSFV3QTgiLCJxYyI6IkNodG5jbTkyWlNCamFYUjVJR2hwWjJnZ2MyTm9iMjlzSUc5b2FXOFFBSDFTVGhjXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgIzEgcmFua2VkIGhpZ2ggc2Nob29sIGluIE9oaW8%2FIiwibGsiOiJHaWwzYUdGMElHbHpJSFJvWlNBak1TQnlZVzVyWldRZ2FHbG5hQ0J6WTJodmIyd2dhVzRnYjJocGJ3IiwiYnMiOiJjLU5LNU5JTHowZ3NVY2dzVm5BdnlpOUxWWERPTEtsVThNaE16MUFJVHM3SXo4OVJLRXJNeTA1TlVjak1VX0RQeU15M045S1gwaTJINmtnSDYwZ0c2Y2dBNlNoRzE1RVAxTUVWeWFVRnM2SWtJMVZCMlJDbUFGa1AzSGh0S2MxeVlsU0RqWGJta3ZkRWNYaWlRa0ZSWmxsaVNTcFVwYjJSZ3BRY3FrdlJsWENGY21sNDR2Ujlva0o2Zm40SzNEUk5LWFhjX2taUks4QUlBQSIsImlkIjoiZmNfalE2amF1enJDNF9ZNU5vUHVMSFV3QThfMiJ9"
+  },
+  {
+   "question": "Is Grove City a private school?",
+   "type": "ai_overview",
+   "page_token": "BpIdVXicHdBdboIwAADg7DI-KohxwcQsY1AUZ5X-AX1ZoFXRtoATBX3bXXaqnWbLTvAl39e3Plbq5-lWtm1zmY1GXdcND3V90LuhqM0ov9wrMRK51kUu1Gz6PLVf9mIeXJfe23npxbRpmI8sTNsr9yUpLPeKFWrxuF-sdWDHOnKEr20ybjAK-7ugPcYVWiQAlMTnGQmR805ZFlO7ET5sC4b2knZO-mAcKdfJVUkZYDYm8Ibt8sZohOQCaKGiLXf4CSfNNhtfWgngMg8jw2m_Yik8URrcNwkCO-WWMM16AVAITb8iFgh42JrCl1Wi3S007h__OilAFErilVyzDQ2gE5TyTAk_ZymbCrW2UlvZxLixpP2SpdLbePUxpughTtpQExkUdpPCh36SQEfoaFywyKwTnhZWs0FVieJ4sBe3uTP4_5x_7E07az7rwy9FD4Ms",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=BpIdVXicHdBdboIwAADg7DI-KohxwcQsY1AUZ5X-AX1ZoFXRtoATBX3bXXaqnWbLTvAl39e3Plbq5-lWtm1zmY1GXdcND3V90LuhqM0ov9wrMRK51kUu1Gz6PLVf9mIeXJfe23npxbRpmI8sTNsr9yUpLPeKFWrxuF-sdWDHOnKEr20ybjAK-7ugPcYVWiQAlMTnGQmR805ZFlO7ET5sC4b2knZO-mAcKdfJVUkZYDYm8Ibt8sZohOQCaKGiLXf4CSfNNhtfWgngMg8jw2m_Yik8URrcNwkCO-WWMM16AVAITb8iFgh42JrCl1Wi3S007h__OilAFErilVyzDQ2gE5TyTAk_ZymbCrW2UlvZxLixpP2SpdLbePUxpughTtpQExkUdpPCh36SQEfoaFywyKwTnhZWs0FVieJ4sBe3uTP4_5x_7E07az7rwy9FD4Ms",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpVSXhRVzB0VGxOWVkxQjZibGN6YTJ0NFoxRnNjVEpFU0dGclFpMXNUR2ROWmtOUmEyTktVVXRzVkRCRFZrcHNZM0ZhZVdSd2NFaDFWWFZvTVdwd1pUTk1hVnBxYkZoVWFsSTVOVlJuY1ZGNVJWOHpiVk56UkVSS1p4SVhhbEUyYW1GMWVuSkRORjlaTlU1dlVIVk1TRlYzUVRnYUlrRkVjM0k1WmxSb2NsZzFhVFJ1YjJOV1FuQkpUMlJ0Wm5kRk9YSjZNR1JtTjBFIiwiZmN2IjoiMyIsImVpIjoialE2amF1enJDNF9ZNU5vUHVMSFV3QTgiLCJxYyI6IkNodG5jbTkyWlNCamFYUjVJR2hwWjJnZ2MyTm9iMjlzSUc5b2FXOFFBSDFTVGhjXyIsInF1ZXN0aW9uIjoiSXMgR3JvdmUgQ2l0eSBhIHByaXZhdGUgc2Nob29sPyIsImxrIjoiR2g1cGN5Qm5jbTkyWlNCamFYUjVJR0VnY0hKcGRtRjBaU0J6WTJodmIydyIsImJzIjoiYy1OSzVOSUx6MGdzVWNnc1ZuQXZ5aTlMVlhET0xLbFU4TWhNejFBSVRzN0l6ODlSS0VyTXkwNU5VY2pNVV9EUHlNeTNOOUtYMGkySDZrZ0g2MGdHNmNnQTZTaEcxNUVQMU1FVnlhVUZzNklrSTFWQjJSQ21BRmtQM0hodEtjMXlZbFNEalhibWt2ZEVjWGlpUWtGUlpsbGlTU3BVcGIyUmdwUWNxa3ZSbFhDRmNtbDQ0dlI5b2tKNmZuNEszRFJOS1hYY19rWlJLOEFJQUEiLCJpZCI6ImZjX2pRNmphdXpyQzRfWTVOb1B1TEhVd0E4XzIifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpVSXhRVzB0VGxOWVkxQjZibGN6YTJ0NFoxRnNjVEpFU0dGclFpMXNUR2ROWmtOUmEyTktVVXRzVkRCRFZrcHNZM0ZhZVdSd2NFaDFWWFZvTVdwd1pUTk1hVnBxYkZoVWFsSTVOVlJuY1ZGNVJWOHpiVk56UkVSS1p4SVhhbEUyYW1GMWVuSkRORjlaTlU1dlVIVk1TRlYzUVRnYUlrRkVjM0k1WmxSb2NsZzFhVFJ1YjJOV1FuQkpUMlJ0Wm5kRk9YSjZNR1JtTjBFIiwiZmN2IjoiMyIsImVpIjoialE2amF1enJDNF9ZNU5vUHVMSFV3QTgiLCJxYyI6IkNodG5jbTkyWlNCamFYUjVJR2hwWjJnZ2MyTm9iMjlzSUc5b2FXOFFBSDFTVGhjXyIsInF1ZXN0aW9uIjoiSXMgR3JvdmUgQ2l0eSBhIHByaXZhdGUgc2Nob29sPyIsImxrIjoiR2g1cGN5Qm5jbTkyWlNCamFYUjVJR0VnY0hKcGRtRjBaU0J6WTJodmIydyIsImJzIjoiYy1OSzVOSUx6MGdzVWNnc1ZuQXZ5aTlMVlhET0xLbFU4TWhNejFBSVRzN0l6ODlSS0VyTXkwNU5VY2pNVV9EUHlNeTNOOUtYMGkySDZrZ0g2MGdHNmNnQTZTaEcxNUVQMU1FVnlhVUZzNklrSTFWQjJSQ21BRmtQM0hodEtjMXlZbFNEalhibWt2ZEVjWGlpUWtGUlpsbGlTU3BVcGIyUmdwUWNxa3ZSbFhDRmNtbDQ0dlI5b2tKNmZuNEszRFJOS1hYY19rWlJLOEFJQUEiLCJpZCI6ImZjX2pRNmphdXpyQzRfWTVOb1B1TEhVd0E4XzIifQ%3D%3D"
+  },
+  {
+   "question": "Is Grove City High School a good school?",
+   "type": "ai_overview",
+   "page_token": "-CRhtXicHdBbcpswFADQ6Wb8GUuQkNgznk6JhQ2JcYSkC-YnAxJ-RJeHGxob_rqXriqrSSdnCefvPzw19vPHx7Hvu_f5dHq5XG4ObXvA6ka39bR4Hxo91QViWWg79-49-nOvF-xP6D-eQ5-rroNlQgQ8XGJ4cAswrq7zJ8GQ7caQlM1RJggrYykpSPICNgqrunN4HeTCMWKTzqI8MKJM8yFlEeP2MGwzfyudYFu9mSEFS_iIXhJEUtnbW9kEL7CarUoH1mqFsrJXYQin5RriMoM7sU7os6C1YbBMA3wGPC5LFowbcnXjJnkSTv9YjBjuXBx2NJYJ1YNZ-40ejciduJc091KEhh3NWcn8vMvA03ZDMmqprGfcqGsImfG3fnviKhn1G9YqpWfuRlhkMeZW94opomjQ_T9xqwyFgF9U8clefyzcyffn4nVf9_Pud3v4AvAVgX0",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=-CRhtXicHdBbcpswFADQ6Wb8GUuQkNgznk6JhQ2JcYSkC-YnAxJ-RJeHGxob_rqXriqrSSdnCefvPzw19vPHx7Hvu_f5dHq5XG4ObXvA6ka39bR4Hxo91QViWWg79-49-nOvF-xP6D-eQ5-rroNlQgQ8XGJ4cAswrq7zJ8GQ7caQlM1RJggrYykpSPICNgqrunN4HeTCMWKTzqI8MKJM8yFlEeP2MGwzfyudYFu9mSEFS_iIXhJEUtnbW9kEL7CarUoH1mqFsrJXYQin5RriMoM7sU7os6C1YbBMA3wGPC5LFowbcnXjJnkSTv9YjBjuXBx2NJYJ1YNZ-40ejciduJc091KEhh3NWcn8vMvA03ZDMmqprGfcqGsImfG3fnviKhn1G9YqpWfuRlhkMeZW94opomjQ_T9xqwyFgF9U8clefyzcyffn4nVf9_Pud3v4AvAVgX0",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpVSXhRVzB0VGxOWVkxQjZibGN6YTJ0NFoxRnNjVEpFU0dGclFpMXNUR2ROWmtOUmEyTktVVXRzVkRCRFZrcHNZM0ZhZVdSd2NFaDFWWFZvTVdwd1pUTk1hVnBxYkZoVWFsSTVOVlJuY1ZGNVJWOHpiVk56UkVSS1p4SVhhbEUyYW1GMWVuSkRORjlaTlU1dlVIVk1TRlYzUVRnYUlrRkVjM0k1WmxSb2NsZzFhVFJ1YjJOV1FuQkpUMlJ0Wm5kRk9YSjZNR1JtTjBFIiwiZmN2IjoiMyIsImVpIjoialE2amF1enJDNF9ZNU5vUHVMSFV3QTgiLCJxYyI6IkNodG5jbTkyWlNCamFYUjVJR2hwWjJnZ2MyTm9iMjlzSUc5b2FXOFFBSDFTVGhjXyIsInF1ZXN0aW9uIjoiSXMgR3JvdmUgQ2l0eSBIaWdoIFNjaG9vbCBhIGdvb2Qgc2Nob29sPyIsImxrIjoiYzVOU3p5eFdTQ19LTDB0VlNNNHNxVlRJeUV6UFVDaE96c2pQejFGSVZFalB6MC1COGdBIiwiYnMiOiJjLU5LNU5JTHowZ3NVY2dzVm5BdnlpOUxWWERPTEtsVThNaE16MUFJVHM3SXo4OVJLRXJNeTA1TlVjak1VX0RQeU15M045S1gwaTJINmtnSDYwZ0c2Y2dBNlNoRzE1RVAxTUVWeWFVRnM2SWtJMVZCMlJDbUFGa1AzSGh0S2MxeVlsU0RqWGJta3ZkRWNYaWlRa0ZSWmxsaVNTcFVwYjJSZ3BRY3FrdlJsWENGY21sNDR2Ujlva0o2Zm40SzNEUk5LWFhjX2taUks4QUlBQSIsImlkIjoiZmNfalE2amF1enJDNF9ZNU5vUHVMSFV3QThfMiJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpVSXhRVzB0VGxOWVkxQjZibGN6YTJ0NFoxRnNjVEpFU0dGclFpMXNUR2ROWmtOUmEyTktVVXRzVkRCRFZrcHNZM0ZhZVdSd2NFaDFWWFZvTVdwd1pUTk1hVnBxYkZoVWFsSTVOVlJuY1ZGNVJWOHpiVk56UkVSS1p4SVhhbEUyYW1GMWVuSkRORjlaTlU1dlVIVk1TRlYzUVRnYUlrRkVjM0k1WmxSb2NsZzFhVFJ1YjJOV1FuQkpUMlJ0Wm5kRk9YSjZNR1JtTjBFIiwiZmN2IjoiMyIsImVpIjoialE2amF1enJDNF9ZNU5vUHVMSFV3QTgiLCJxYyI6IkNodG5jbTkyWlNCamFYUjVJR2hwWjJnZ2MyTm9iMjlzSUc5b2FXOFFBSDFTVGhjXyIsInF1ZXN0aW9uIjoiSXMgR3JvdmUgQ2l0eSBIaWdoIFNjaG9vbCBhIGdvb2Qgc2Nob29sPyIsImxrIjoiYzVOU3p5eFdTQ19LTDB0VlNNNHNxVlRJeUV6UFVDaE96c2pQejFGSVZFalB6MC1COGdBIiwiYnMiOiJjLU5LNU5JTHowZ3NVY2dzVm5BdnlpOUxWWERPTEtsVThNaE16MUFJVHM3SXo4OVJLRXJNeTA1TlVjak1VX0RQeU15M045S1gwaTJINmtnSDYwZ0c2Y2dBNlNoRzE1RVAxTUVWeWFVRnM2SWtJMVZCMlJDbUFGa1AzSGh0S2MxeVlsU0RqWGJta3ZkRWNYaWlRa0ZSWmxsaVNTcFVwYjJSZ3BRY3FrdlJsWENGY21sNDR2Ujlva0o2Zm40SzNEUk5LWFhjX2taUks4QUlBQSIsImlkIjoiZmNfalE2amF1enJDNF9ZNU5vUHVMSFV3QThfMiJ9"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Grove City High School",
+   "link": "https://en.wikipedia.org/wiki/Grove_City_High_School",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHrOzAVElSyc3mypi9M140eqDmgF1pfFwv8-nfUl7RYKSK6FMqrlrSipGltXhJGWwA11EmnytiTQJvninrIXF5zvcYyk0_DbnmMFX_L4VkuHAxgKJ_GX0q2Okw78-l4SBTu7eBVwIVCrC0R4g&ved=2ahUKEwis5qfm6OSWAxUPLFkFHbgYFfgQFnoECEMQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Grove_City_High_Sch...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+   "snippet": "Grove City High School is a high school in Grove City, Ohio, United States. It is one of the five high schools in the South-Western City Schools district.",
+   "snippet_highlighted_words": [
+    "Grove City High School",
+    "Ohio"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Grove City High School is a high school in Grove City, Ohio, United States. It is one of the five high schools in the South-Western City Schools district.",
+     "source_info_link": "https://en.wikipedia.org/wiki/Grove_City_High_School",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESbAHrOzAVElSyc3mypi9M140eqDmgF1pfFwv8-nfUl7RYKSK6FMqrlrSipGltXhJGWwA11EmnytiTQJvninrIXF5zvcYyk0_DbnmMFX_L4VkuHAxgKJ_GX0q2Okw78-l4SBTu7eBVwIVCrC0R4g&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESbAHrOzAVElSyc3mypi9M140eqDmgF1pfFwv8-nfUl7RYKSK6FMqrlrSipGltXhJGWwA11EmnytiTQJvninrIXF5zvcYyk0_DbnmMFX_L4VkuHAxgKJ_GX0q2Okw78-l4SBTu7eBVwIVCrC0R4g",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Grove_City_High_School#:~:text=Grove%20City%20High%20School%20is,the%20South%2DWestern%20City%20Schools%20district."
+  },
+  {
+   "position": 2,
+   "title": "Greyhound Athletics - Grove City",
+   "link": "https://www.swcsd.us/GCHSAthletics.aspx",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXwHrOzAVPdqfe6ZssnO7otdxGWavmJOxUMJVOIWtRVE40PQoSlRXhqrAYTfD1H8iHjcCDajF_pD7v46-cvS_oPlykF8yMpQyGAl40CLpvikNQ0gDGQ6pf3chbqeTbvbz&ved=2ahUKEwis5qfm6OSWAxUPLFkFHbgYFfgQFnoECEYQAQ&uoh=1",
+   "displayed_link": "https://www.swcsd.us \u203a GCHSAthletics",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADLcPMfAAAAE3RSTlMAESOLwqNzQwj4_92YZu42t9JSWws-HgAAANVJREFUeAGtzweShSAQBNAhD03U-x92TWO20v42-4Au6BdRWn2bsc6Hd2cTASSbi37iZGtqsqZdLQPoZpAB490yTy9jTrP6U99i6ujOhykxeT-bice82QxTk1Jtgc7ru5tNUUvu1OguphOs2tQDdbfMyzOFDUMC9NTdJzM0ZQRiOZUWUk6MaF1hr-rUht3ahF1LaURl9tYcNdXLzJYQA7Hm1QYg7kY8ffbAxzyIyR5i7UWJ0SljxZrk6smk1dgkA-LJJLrkniarZztFBZ-7Z_qK7Oef-QPk8grgSK-AjgAAAABJRU5ErkJggg.png",
+   "snippet": "Welcome to the digital home of Grove City High School Athletics! A proud interscholastic athletics partner of South Western City Schools, we welcome you to the ...",
+   "snippet_highlighted_words": [
+    "Grove City High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Welcome to the digital home of Grove City High School Athletics! A proud interscholastic athletics partner of South Western City Schools, we welcome you to the ...",
+     "source_info_link": "https://www.swcsd.us/GCHSAthletics.aspx",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADLcPMfAAAAE3RSTlMAESOLwqNzQwj4_92YZu42t9JSWws-HgAAANVJREFUeAGtzweShSAQBNAhD03U-x92TWO20v42-4Au6BdRWn2bsc6Hd2cTASSbi37iZGtqsqZdLQPoZpAB490yTy9jTrP6U99i6ujOhykxeT-bice82QxTk1Jtgc7ru5tNUUvu1OguphOs2tQDdbfMyzOFDUMC9NTdJzM0ZQRiOZUWUk6MaF1hr-rUht3ahF1LaURl9tYcNdXLzJYQA7Hm1QYg7kY8ffbAxzyIyR5i7UWJ0SljxZrk6smk1dgkA-LJJLrkniarZztFBZ-7Z_qK7Oef-QPk8grgSK-AjgAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESXwHrOzAVPdqfe6ZssnO7otdxGWavmJOxUMJVOIWtRVE40PQoSlRXhqrAYTfD1H8iHjcCDajF_pD7v46-cvS_oPlykF8yMpQyGAl40CLpvikNQ0gDGQ6pf3chbqeTbvbz&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESXwHrOzAVPdqfe6ZssnO7otdxGWavmJOxUMJVOIWtRVE40PQoSlRXhqrAYTfD1H8iHjcCDajF_pD7v46-cvS_oPlykF8yMpQyGAl40CLpvikNQ0gDGQ6pf3chbqeTbvbz",
+   "source": "South Western City Schools",
+   "read_more_link": "https://www.swcsd.us/GCHSAthletics.aspx#:~:text=Welcome%20to%20the%20digital%20home,Greyhound%20news%2C%20schedules%2C%20and%20updates!"
+  },
+  {
+   "position": 3,
+   "title": "Grove City High School - Ohio",
+   "link": "https://www.usnews.com/education/best-high-schools/ohio/districts/south-western-city/grove-city-high-school-15306",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESqQEB6zswFfKL9KJZBv1jt6JedkaI9bdpOz-6UnrE0xSHTxO7FdM2Hq8Gr9poprW9dnaS79bpg95T4rE-zt-0pXBmublJT9L0nfZJ5J1FKuh7sPq4iyUxZ5ucWBIsWUNk5jMaLGn6qTf8_vE2aaRt1suGL1g-UdnC-FkBNXd33PaITuDcWRcgOAPmUGlSoyn_VnJl1AjMq_OK5MZviljNlDz71Ns97in_dWNk&ved=2ahUKEwis5qfm6OSWAxUPLFkFHbgYFfgQFnoECFcQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a ... \u203a South-Western City",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png",
+   "snippet": "Grove City High School is ranked #7,088 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+   "snippet_highlighted_words": [
+    "Grove City High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Grove City High School is ranked #7,088 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/ohio/districts/south-western-city/grove-city-high-school-15306",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESqQEB6zswFfKL9KJZBv1jt6JedkaI9bdpOz-6UnrE0xSHTxO7FdM2Hq8Gr9poprW9dnaS79bpg95T4rE-zt-0pXBmublJT9L0nfZJ5J1FKuh7sPq4iyUxZ5ucWBIsWUNk5jMaLGn6qTf8_vE2aaRt1suGL1g-UdnC-FkBNXd33PaITuDcWRcgOAPmUGlSoyn_VnJl1AjMq_OK5MZviljNlDz71Ns97in_dWNk&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESqQEB6zswFfKL9KJZBv1jt6JedkaI9bdpOz-6UnrE0xSHTxO7FdM2Hq8Gr9poprW9dnaS79bpg95T4rE-zt-0pXBmublJT9L0nfZJ5J1FKuh7sPq4iyUxZ5ucWBIsWUNk5jMaLGn6qTf8_vE2aaRt1suGL1g-UdnC-FkBNXd33PaITuDcWRcgOAPmUGlSoyn_VnJl1AjMq_OK5MZviljNlDz71Ns97in_dWNk",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/ohio/districts/south-western-city/grove-city-high-school-15306#:~:text=Grove%20City%20High%20School%20is,they%20prepare%20students%20for%20college."
+  },
+  {
+   "position": 4,
+   "title": "Grove City High School - Ohio",
+   "link": "https://www.donorschoose.org/schools/ohio/south-western-city-school-district/grove-city-high-school/84126",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESoQEB6zswFZ6_poS7IB9ZSlvW-Ievu8sO4BQf-dLc0JhOrWtgNSPFgbP8WuMFJ8l7ldAwpADWaRPr1xKLJUV1zw9a3wHhrFM_-9HNlvjiwqeidQFgLsN0hIvgQu_mjmkbm4M2q8ludw_eBRC8xtyZYWQLyj2OFd4Y8j8QRYc8Y5DhHOe_ZpOGkTMSqWrtk5fR7UC0YC-iUeS-kTUzzmYJfU57JQ&ved=2ahUKEwis5qfm6OSWAxUPLFkFHbgYFfgQFnoECFUQAQ&uoh=1",
+   "displayed_link": "https://www.donorschoose.org \u203a schools \u203a ohio \u203a grove...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEU4A8E4AcE4AME3CMA1DL8zEb0vGLovGboyE7wwFrslA7hhVcaAd9B9dM9lWcgbALe_u-b____e3PJ3bc25teTEwOixrOE2IbzJxeqKgtORitaoot0AALLp5_drYMqak9minNtEM7_oabQTAAAA3klEQVR4AXWSBRIDIQwAITh1d_v_J0uQTI7SHWUWiAqOTIghAEonFMCvUsa6jPUKOmecJZyfysAcolhs2-PIQkhHHzMmVM3j-dl8gSz9KmYZIEuF8VbrTWW7W-WPNT20q_2GOGTrAaVFUBJHtI5-Rck4hfqvZvJ8OWd5XSVpQEgub6v7g_79J28juX6W0POYvx0ntMoJyWEpLyoFfC_3K-pf375Ha58sT5ONuzfymn944xE8xFUmhjbQbKiDHKeBVlINHeEdU6HbP9Ae1xLXM-jB5gptElrAeOslwMR8AZhOFkQFCdvDAAAAAElFTkSuQmCC.png",
+   "snippet": "Grove City High School is a public school in Grove City, Ohio that is part of South - Western City School District. It serves 1830 studentsin 9 - 12 with a ...",
+   "snippet_highlighted_words": [
+    "Grove City High School",
+    "Ohio"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Grove City High School is a public school in Grove City, Ohio that is part of South - Western City School District. It serves 1830 studentsin 9 - 12 with a ...",
+     "source_info_link": "https://www.donorschoose.org/schools/ohio/south-western-city-school-district/grove-city-high-school/84126",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEU4A8E4AcE4AME3CMA1DL8zEb0vGLovGboyE7wwFrslA7hhVcaAd9B9dM9lWcgbALe_u-b____e3PJ3bc25teTEwOixrOE2IbzJxeqKgtORitaoot0AALLp5_drYMqak9minNtEM7_oabQTAAAA3klEQVR4AXWSBRIDIQwAITh1d_v_J0uQTI7SHWUWiAqOTIghAEonFMCvUsa6jPUKOmecJZyfysAcolhs2-PIQkhHHzMmVM3j-dl8gSz9KmYZIEuF8VbrTWW7W-WPNT20q_2GOGTrAaVFUBJHtI5-Rck4hfqvZvJ8OWd5XSVpQEgub6v7g_79J28juX6W0POYvx0ntMoJyWEpLyoFfC_3K-pf375Ha58sT5ONuzfymn944xE8xFUmhjbQbKiDHKeBVlINHeEdU6HbP9Ae1xLXM-jB5gptElrAeOslwMR8AZhOFkQFCdvDAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESoQEB6zswFZ6_poS7IB9ZSlvW-Ievu8sO4BQf-dLc0JhOrWtgNSPFgbP8WuMFJ8l7ldAwpADWaRPr1xKLJUV1zw9a3wHhrFM_-9HNlvjiwqeidQFgLsN0hIvgQu_mjmkbm4M2q8ludw_eBRC8xtyZYWQLyj2OFd4Y8j8QRYc8Y5DhHOe_ZpOGkTMSqWrtk5fR7UC0YC-iUeS-kTUzzmYJfU57JQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESoQEB6zswFZ6_poS7IB9ZSlvW-Ievu8sO4BQf-dLc0JhOrWtgNSPFgbP8WuMFJ8l7ldAwpADWaRPr1xKLJUV1zw9a3wHhrFM_-9HNlvjiwqeidQFgLsN0hIvgQu_mjmkbm4M2q8ludw_eBRC8xtyZYWQLyj2OFd4Y8j8QRYc8Y5DhHOe_ZpOGkTMSqWrtk5fR7UC0YC-iUeS-kTUzzmYJfU57JQ",
+   "source": "DonorsChoose"
+  },
+  {
+   "position": 5,
+   "title": "High Schools",
+   "link": "https://www.swcsd.us/HighSchoolsHistory.aspx",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZAHrOzAVh8ZF-Z8zTuLzUwEchwYDhqwVq6qEavaplved8BU1MH1l4umLQC4b9H5hoR44XFIFNXOeClJz5_Ouak8N-QOJKrQ11Y_qZJYY9pdBl7j_2JLwK8_M84F9RBcvwlIxuOU&ved=2ahUKEwis5qfm6OSWAxUPLFkFHbgYFfgQFnoECFkQAQ&uoh=1",
+   "displayed_link": "https://www.swcsd.us \u203a HighSchoolsHistory",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADLcPMfAAAAE3RSTlMAESOLwqNzQwj4_92YZu42t9JSWws-HgAAANVJREFUeAGtzweShSAQBNAhD03U-x92TWO20v42-4Au6BdRWn2bsc6Hd2cTASSbi37iZGtqsqZdLQPoZpAB490yTy9jTrP6U99i6ujOhykxeT-bice82QxTk1Jtgc7ru5tNUUvu1OguphOs2tQDdbfMyzOFDUMC9NTdJzM0ZQRiOZUWUk6MaF1hr-rUht3ahF1LaURl9tYcNdXLzJYQA7Hm1QYg7kY8ffbAxzyIyR5i7UWJ0SljxZrk6smk1dgkA-LJJLrkniarZztFBZ-7Z_qK7Oef-QPk8grgSK-AjgAAAABJRU5ErkJggg.png",
+   "snippet": "Grove City High School \u00b7 Originally opened in 1970 \u00b7 Additions and/or renovations made in 1971, 1976, 1985, 1995, and 2000 ...",
+   "snippet_highlighted_words": [
+    "Grove City High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Grove City High School \u00b7 Originally opened in 1970 \u00b7 Additions and/or renovations made in 1971, 1976, 1985, 1995, and 2000 ...",
+     "source_info_link": "https://www.swcsd.us/HighSchoolsHistory.aspx",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADLcPMfAAAAE3RSTlMAESOLwqNzQwj4_92YZu42t9JSWws-HgAAANVJREFUeAGtzweShSAQBNAhD03U-x92TWO20v42-4Au6BdRWn2bsc6Hd2cTASSbi37iZGtqsqZdLQPoZpAB490yTy9jTrP6U99i6ujOhykxeT-bice82QxTk1Jtgc7ru5tNUUvu1OguphOs2tQDdbfMyzOFDUMC9NTdJzM0ZQRiOZUWUk6MaF1hr-rUht3ahF1LaURl9tYcNdXLzJYQA7Hm1QYg7kY8ffbAxzyIyR5i7UWJ0SljxZrk6smk1dgkA-LJJLrkniarZztFBZ-7Z_qK7Oef-QPk8grgSK-AjgAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESZAHrOzAVh8ZF-Z8zTuLzUwEchwYDhqwVq6qEavaplved8BU1MH1l4umLQC4b9H5hoR44XFIFNXOeClJz5_Ouak8N-QOJKrQ11Y_qZJYY9pdBl7j_2JLwK8_M84F9RBcvwlIxuOU&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESZAHrOzAVh8ZF-Z8zTuLzUwEchwYDhqwVq6qEavaplved8BU1MH1l4umLQC4b9H5hoR44XFIFNXOeClJz5_Ouak8N-QOJKrQ11Y_qZJYY9pdBl7j_2JLwK8_M84F9RBcvwlIxuOU",
+   "source": "South Western City Schools",
+   "read_more_link": "https://www.swcsd.us/HighSchoolsHistory.aspx#:~:text=Grove%20City%20High%20School&text=Westland%20High%20School&text=Westland%20High%20School"
+  },
+  {
+   "position": 6,
+   "title": "Grove City High School",
+   "link": "https://www.facebook.com/gchsoh/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWAHrOzAVehvUNftjW4Gx8SFdMP9ibrSfs0zT9L_ceyOy9mUXn-TAZ8C0rafwQIKWDzbpLolSymNPVglfOxpEugC2ZH4KmNR2cZmc-IMDQ4cXub03jCbDx2c&ved=2ahUKEwis5qfm6OSWAxUPLFkFHbgYFfgQFnoECF4QAQ&uoh=1",
+   "displayed_link": "1.2K+ followers",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "snippet": "Grove City High School is a high school in Grove City, Ohio, United States. Follow. Details. Page \u00b7 High School. gchs.swcsd.us. Posts.",
+   "snippet_highlighted_words": [
+    "Grove City High School",
+    "Ohio"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 4.4,
+      "reviews": 7
+     },
+     "extensions": [
+      "4.4(7)"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Grove City High School is a high school in Grove City, Ohio, United States. Follow. Details. Page \u00b7 High School. gchs.swcsd.us. Posts.",
+     "source_info_link": "https://www.facebook.com/gchsoh/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESWAHrOzAVehvUNftjW4Gx8SFdMP9ibrSfs0zT9L_ceyOy9mUXn-TAZ8C0rafwQIKWDzbpLolSymNPVglfOxpEugC2ZH4KmNR2cZmc-IMDQ4cXub03jCbDx2c&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESWAHrOzAVehvUNftjW4Gx8SFdMP9ibrSfs0zT9L_ceyOy9mUXn-TAZ8C0rafwQIKWDzbpLolSymNPVglfOxpEugC2ZH4KmNR2cZmc-IMDQ4cXub03jCbDx2c",
+   "source": "Facebook \u00b7 Grove City High School",
+   "read_more_link": "https://www.facebook.com/gchsoh/#:~:text=Grove%20City%20High%20School%20is,Posts"
+  },
+  {
+   "position": 7,
+   "title": "Overall Rating - Ohio School Report Cards",
+   "link": "https://reportcard.education.ohio.gov/school/061325",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESawHrOzAVzVttCOYGYw8dVlmb0qjKPJm29GRe4efmB9uqXl-O_SQ6K4h9Lj0odhLcx9ngNvrxSbYzb6wvP-vpZi2r7qooPWTfRFtidku6tKIoJYfd7BXiDsoORd4UN5HPTkQ-448iNS2NGVyx&ved=2ahUKEwis5qfm6OSWAxUPLFkFHbgYFfgQFnoECFoQAQ&uoh=1",
+   "displayed_link": "https://reportcard.education.ohio.gov \u203a school",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAA_UlEQVR4AWJAB29lVLQApdI1VgRRFEVR3GUkaAYJkiADwd01x91dY4iwBJsE7hDhRLSfWuv9du9gl71_b3cJZnELnXjAEjLUOnfBOIzCjFcJ1KAa83iS2SwS3YX3ZUEzot38QCSqZc0JkuyH4zIolUve_mkhTFhSFzIk3Okl51xSL5kc7WQGn0gNoCAeb9jQTi6xq4YBlGzjVjvQYyCIgl78qoL-IAv-1C3shHILc_hASgDhOLxiUzvJghntARTUSiZXXZiSC8V-hPNhxKrzez2SknpEuglGoFzC50h293FMSskT5lGJCszgXmaLSPL2F9OxjGt8iBusI9t5vQVH2cVO7rhEBQAAAABJRU5ErkJggg.png",
+   "snippet": "Grove City High School. School at a glance. School Home \u00b7 Achievement. 4 \u00b7 Progress ... The College, Career, Workforce, and Military Readiness Component is a ...",
+   "snippet_highlighted_words": [
+    "Grove City High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Grove City High School. School at a glance. School Home \u00b7 Achievement. 4 \u00b7 Progress ... The College, Career, Workforce, and Military Readiness Component is a ...",
+     "source_info_link": "https://reportcard.education.ohio.gov/school/061325",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAA_UlEQVR4AWJAB29lVLQApdI1VgRRFEVR3GUkaAYJkiADwd01x91dY4iwBJsE7hDhRLSfWuv9du9gl71_b3cJZnELnXjAEjLUOnfBOIzCjFcJ1KAa83iS2SwS3YX3ZUEzot38QCSqZc0JkuyH4zIolUve_mkhTFhSFzIk3Okl51xSL5kc7WQGn0gNoCAeb9jQTi6xq4YBlGzjVjvQYyCIgl78qoL-IAv-1C3shHILc_hASgDhOLxiUzvJghntARTUSiZXXZiSC8V-hPNhxKrzez2SknpEuglGoFzC50h293FMSskT5lGJCszgXmaLSPL2F9OxjGt8iBusI9t5vQVH2cVO7rhEBQAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESawHrOzAVzVttCOYGYw8dVlmb0qjKPJm29GRe4efmB9uqXl-O_SQ6K4h9Lj0odhLcx9ngNvrxSbYzb6wvP-vpZi2r7qooPWTfRFtidku6tKIoJYfd7BXiDsoORd4UN5HPTkQ-448iNS2NGVyx&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESawHrOzAVzVttCOYGYw8dVlmb0qjKPJm29GRe4efmB9uqXl-O_SQ6K4h9Lj0odhLcx9ngNvrxSbYzb6wvP-vpZi2r7qooPWTfRFtidku6tKIoJYfd7BXiDsoORd4UN5HPTkQ-448iNS2NGVyx",
+   "source": "Ohio.gov",
+   "read_more_link": "https://reportcard.education.ohio.gov/school/061325#:~:text=Grove%20City%20High%20School,School%20at%20a%20glance&text=The%20College%2C%20Career%2C%20Workforce%2C%20and,preparing%20for%20work%20or%20college."
+  },
+  {
+   "position": 8,
+   "title": "Bell Schedules - Grove City",
+   "link": "https://www.swcsd.us/BellSchedulesGCHS.aspx",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAV1AYHx1bWl8mh1-XivU8SMLCYUFbjmHDFX8Q4IvO5r5FsLdHcFhmKptBYdNVydz-cgoILXbqgCg_aeM-8pSaybsju4_gAKPdBLoiSXKhjGx_SM35d9-hGwa87y_-T_g&ved=2ahUKEwis5qfm6OSWAxUPLFkFHbgYFfgQFnoECFsQAQ&uoh=1",
+   "displayed_link": "https://www.swcsd.us \u203a BellSchedulesGCHS",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADLcPMfAAAAE3RSTlMAESOLwqNzQwj4_92YZu42t9JSWws-HgAAANVJREFUeAGtzweShSAQBNAhD03U-x92TWO20v42-4Au6BdRWn2bsc6Hd2cTASSbi37iZGtqsqZdLQPoZpAB490yTy9jTrP6U99i6ujOhykxeT-bice82QxTk1Jtgc7ru5tNUUvu1OguphOs2tQDdbfMyzOFDUMC9NTdJzM0ZQRiOZUWUk6MaF1hr-rUht3ahF1LaURl9tYcNdXLzJYQA7Hm1QYg7kY8ffbAxzyIyR5i7UWJ0SljxZrk6smk1dgkA-LJJLrkniarZztFBZ-7Z_qK7Oef-QPk8grgSK-AjgAAAABJRU5ErkJggg.png",
+   "snippet": "Grove City High School's regular day bell schedule is designed to provide consistent, structured instructional time while supporting student engagement ...",
+   "snippet_highlighted_words": [
+    "Grove City High School's"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Grove City High School's regular day bell schedule is designed to provide consistent, structured instructional time while supporting student engagement ...",
+     "source_info_link": "https://www.swcsd.us/BellSchedulesGCHS.aspx",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADLcPMfAAAAE3RSTlMAESOLwqNzQwj4_92YZu42t9JSWws-HgAAANVJREFUeAGtzweShSAQBNAhD03U-x92TWO20v42-4Au6BdRWn2bsc6Hd2cTASSbi37iZGtqsqZdLQPoZpAB490yTy9jTrP6U99i6ujOhykxeT-bice82QxTk1Jtgc7ru5tNUUvu1OguphOs2tQDdbfMyzOFDUMC9NTdJzM0ZQRiOZUWUk6MaF1hr-rUht3ahF1LaURl9tYcNdXLzJYQA7Hm1QYg7kY8ffbAxzyIyR5i7UWJ0SljxZrk6smk1dgkA-LJJLrkniarZztFBZ-7Z_qK7Oef-QPk8grgSK-AjgAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYwHrOzAV1AYHx1bWl8mh1-XivU8SMLCYUFbjmHDFX8Q4IvO5r5FsLdHcFhmKptBYdNVydz-cgoILXbqgCg_aeM-8pSaybsju4_gAKPdBLoiSXKhjGx_SM35d9-hGwa87y_-T_g&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYwHrOzAV1AYHx1bWl8mh1-XivU8SMLCYUFbjmHDFX8Q4IvO5r5FsLdHcFhmKptBYdNVydz-cgoILXbqgCg_aeM-8pSaybsju4_gAKPdBLoiSXKhjGx_SM35d9-hGwa87y_-T_g",
+   "source": "South Western City Schools",
+   "read_more_link": "https://www.swcsd.us/BellSchedulesGCHS.aspx#:~:text=Grove%20City%20High%20School's%20regular,student%20engagement%20across%20all%20classes."
+  },
+  {
+   "position": 9,
+   "title": "Grove City High School (OH) Football",
+   "link": "https://www.maxpreps.com/oh/grove-city/grove-city-greyhounds/football/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfgHrOzAVWo31rZ-UMOKn-fYGkYb39nqGwsiGDmEgo4jED0R6KsPBQBM4P75mi5MXHhti89MTVhWw4FAJhmOPU2ErXziXD2VaLTNhOtYO0SItEobMvL8CI2unvuVbQDbgpntRRaZKJM3R3aeXG1DGPqAXyFWC0wob4DYFEggGRw&ved=2ahUKEwis5qfm6OSWAxUPLFkFHbgYFfgQFnoECFgQAQ&uoh=1",
+   "displayed_link": "https://www.maxpreps.com \u203a Football \u203a OH Football",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEzhBADhBADhBADhBQDhBQDhBADhBADhBADhBQDhBQDhBADhBADhBQDhBADhBQBqDGaWAAAAD3RSTlMANHaA7NyWEEjPqCVevglnZLSWAAAAqElEQVQokaWSSxaFIAxDU0pFBM3-d_vkM3pUJ3YAHEJvQwH4GlcIQQUoei_Sv2okD2C7p7ikhrHbzugilnuXMsa1aCZPkYO0pSSgjJWsxs3xW5iV3E6H2v1WsxpXr5OrIbpUQNhjd0XELvoajqadD-Jb5mtNHaLv1obo3rNwhtehRo32wM3ttduJfPled_G5nZr6XVduHt1pXTKXWoHd64PML5nmF_0YP5WLCXU498sLAAAAAElFTkSuQmCC.png",
+   "snippet": "On Friday, Aug 21, 2026, the Grove City Varsity Boys Football team won their Grove City High School game against Canal Winchester High School by a score of 28- ...",
+   "snippet_highlighted_words": [
+    "Grove City High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "On Friday, Aug 21, 2026, the Grove City Varsity Boys Football team won their Grove City High School game against Canal Winchester High School by a score of 28- ...",
+     "source_info_link": "https://www.maxpreps.com/oh/grove-city/grove-city-greyhounds/football/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEzhBADhBADhBADhBQDhBQDhBADhBADhBADhBQDhBQDhBADhBADhBQDhBADhBQBqDGaWAAAAD3RSTlMANHaA7NyWEEjPqCVevglnZLSWAAAAqElEQVQokaWSSxaFIAxDU0pFBM3-d_vkM3pUJ3YAHEJvQwH4GlcIQQUoei_Sv2okD2C7p7ikhrHbzugilnuXMsa1aCZPkYO0pSSgjJWsxs3xW5iV3E6H2v1WsxpXr5OrIbpUQNhjd0XELvoajqadD-Jb5mtNHaLv1obo3rNwhtehRo32wM3ttduJfPled_G5nZr6XVduHt1pXTKXWoHd64PML5nmF_0YP5WLCXU498sLAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESfgHrOzAVWo31rZ-UMOKn-fYGkYb39nqGwsiGDmEgo4jED0R6KsPBQBM4P75mi5MXHhti89MTVhWw4FAJhmOPU2ErXziXD2VaLTNhOtYO0SItEobMvL8CI2unvuVbQDbgpntRRaZKJM3R3aeXG1DGPqAXyFWC0wob4DYFEggGRw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESfgHrOzAVWo31rZ-UMOKn-fYGkYb39nqGwsiGDmEgo4jED0R6KsPBQBM4P75mi5MXHhti89MTVhWw4FAJhmOPU2ErXziXD2VaLTNhOtYO0SItEobMvL8CI2unvuVbQDbgpntRRaZKJM3R3aeXG1DGPqAXyFWC0wob4DYFEggGRw",
+   "source": "MaxPreps",
+   "read_more_link": "https://www.maxpreps.com/oh/grove-city/grove-city-greyhounds/football/#:~:text=On%20Friday%2C%20Aug%2021%2C%202026%2C,by%20a%20score%20of%2028%2D27."
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Grove city high school ohio ranking",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntS-2f-KLD5J8JS_fevPo1xoDU-gA:1789070989202&q=Grove+city+high+school+ohio+ranking&sa=X&ved=2ahUKEwis5qfm6OSWAxUPLFkFHbgYFfgQ1QJ6BAhTEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Grove+city+high+school+ohio+ranking"
+  },
+  {
+   "block_position": 1,
+   "query": "Grove city high school ohio football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntS-2f-KLD5J8JS_fevPo1xoDU-gA:1789070989202&q=Grove+city+high+school+ohio+football&sa=X&ved=2ahUKEwis5qfm6OSWAxUPLFkFHbgYFfgQ1QJ6BAhmEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Grove+city+high+school+ohio+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Grove city high school ohio alumni",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntS-2f-KLD5J8JS_fevPo1xoDU-gA:1789070989202&q=Grove+city+high+school+ohio+alumni&sa=X&ved=2ahUKEwis5qfm6OSWAxUPLFkFHbgYFfgQ1QJ6BAhjEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Grove+city+high+school+ohio+alumni"
+  },
+  {
+   "block_position": 1,
+   "query": "Grove city high school ohio basketball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntS-2f-KLD5J8JS_fevPo1xoDU-gA:1789070989202&q=Grove+city+high+school+ohio+basketball&sa=X&ved=2ahUKEwis5qfm6OSWAxUPLFkFHbgYFfgQ1QJ6BAhhEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Grove+city+high+school+ohio+basketball"
+  },
+  {
+   "block_position": 1,
+   "query": "Grove city high school ohio staff",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntS-2f-KLD5J8JS_fevPo1xoDU-gA:1789070989202&q=Grove+city+high+school+ohio+staff&sa=X&ved=2ahUKEwis5qfm6OSWAxUPLFkFHbgYFfgQ1QJ6BAhgEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Grove+city+high+school+ohio+staff"
+  },
+  {
+   "block_position": 1,
+   "query": "Grove city high school ohio famous alumni",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntS-2f-KLD5J8JS_fevPo1xoDU-gA:1789070989202&q=Grove+city+high+school+ohio+famous+alumni&sa=X&ved=2ahUKEwis5qfm6OSWAxUPLFkFHbgYFfgQ1QJ6BAhdEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Grove+city+high+school+ohio+famous+alumni"
+  },
+  {
+   "block_position": 1,
+   "query": "Grove City High school photos",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntS-2f-KLD5J8JS_fevPo1xoDU-gA:1789070989202&q=Grove+City+High+school+photos&sa=X&ved=2ahUKEwis5qfm6OSWAxUPLFkFHbgYFfgQ1QJ6BAhWEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Grove+City+High+school+photos"
+  },
+  {
+   "block_position": 1,
+   "query": "Grove City High school mascot",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntS-2f-KLD5J8JS_fevPo1xoDU-gA:1789070989202&q=Grove+City+High+school+mascot&sa=X&ved=2ahUKEwis5qfm6OSWAxUPLFkFHbgYFfgQ1QJ6BAhUEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Grove+City+High+school+mascot"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Grove+City+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntS-2f-KLD5J8JS_fevPo1xoDU-gA:1789070989202&ei=jQ6jauzrC4_Y5NoPuLHUwA8&start=10&sa=N&sstk=AS6-VmLmZwtqpwrytAQZIhMdz60qUX1KbB53zZeeB0k92Et5fOplnHmbLyPtWZaA4idUyenmt77ESyD8rq4RoJSZl0GtIJWeLBwTBg&ved=2ahUKEwis5qfm6OSWAxUPLFkFHbgYFfgQ8NMDegQIURAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Grove+City+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntS-2f-KLD5J8JS_fevPo1xoDU-gA:1789070989202&ei=jQ6jauzrC4_Y5NoPuLHUwA8&start=10&sa=N&sstk=AS6-VmLmZwtqpwrytAQZIhMdz60qUX1KbB53zZeeB0k92Et5fOplnHmbLyPtWZaA4idUyenmt77ESyD8rq4RoJSZl0GtIJWeLBwTBg&ved=2ahUKEwis5qfm6OSWAxUPLFkFHbgYFfgQ8tMDegQIURAE",
+   "3": "https://www.google.com/search?q=%22Grove+City+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntS-2f-KLD5J8JS_fevPo1xoDU-gA:1789070989202&ei=jQ6jauzrC4_Y5NoPuLHUwA8&start=20&sa=N&sstk=AS6-VmLmZwtqpwrytAQZIhMdz60qUX1KbB53zZeeB0k92Et5fOplnHmbLyPtWZaA4idUyenmt77ESyD8rq4RoJSZl0GtIJWeLBwTBg&ved=2ahUKEwis5qfm6OSWAxUPLFkFHbgYFfgQ8tMDegQIURAG",
+   "4": "https://www.google.com/search?q=%22Grove+City+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntS-2f-KLD5J8JS_fevPo1xoDU-gA:1789070989202&ei=jQ6jauzrC4_Y5NoPuLHUwA8&start=30&sa=N&sstk=AS6-VmLmZwtqpwrytAQZIhMdz60qUX1KbB53zZeeB0k92Et5fOplnHmbLyPtWZaA4idUyenmt77ESyD8rq4RoJSZl0GtIJWeLBwTBg&ved=2ahUKEwis5qfm6OSWAxUPLFkFHbgYFfgQ8tMDegQIURAI",
+   "5": "https://www.google.com/search?q=%22Grove+City+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntS-2f-KLD5J8JS_fevPo1xoDU-gA:1789070989202&ei=jQ6jauzrC4_Y5NoPuLHUwA8&start=40&sa=N&sstk=AS6-VmLmZwtqpwrytAQZIhMdz60qUX1KbB53zZeeB0k92Et5fOplnHmbLyPtWZaA4idUyenmt77ESyD8rq4RoJSZl0GtIJWeLBwTBg&ved=2ahUKEwis5qfm6OSWAxUPLFkFHbgYFfgQ8tMDegQIURAK",
+   "6": "https://www.google.com/search?q=%22Grove+City+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntS-2f-KLD5J8JS_fevPo1xoDU-gA:1789070989202&ei=jQ6jauzrC4_Y5NoPuLHUwA8&start=50&sa=N&sstk=AS6-VmLmZwtqpwrytAQZIhMdz60qUX1KbB53zZeeB0k92Et5fOplnHmbLyPtWZaA4idUyenmt77ESyD8rq4RoJSZl0GtIJWeLBwTBg&ved=2ahUKEwis5qfm6OSWAxUPLFkFHbgYFfgQ8tMDegQIURAM",
+   "7": "https://www.google.com/search?q=%22Grove+City+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntS-2f-KLD5J8JS_fevPo1xoDU-gA:1789070989202&ei=jQ6jauzrC4_Y5NoPuLHUwA8&start=60&sa=N&sstk=AS6-VmLmZwtqpwrytAQZIhMdz60qUX1KbB53zZeeB0k92Et5fOplnHmbLyPtWZaA4idUyenmt77ESyD8rq4RoJSZl0GtIJWeLBwTBg&ved=2ahUKEwis5qfm6OSWAxUPLFkFHbgYFfgQ8tMDegQIURAO",
+   "8": "https://www.google.com/search?q=%22Grove+City+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntS-2f-KLD5J8JS_fevPo1xoDU-gA:1789070989202&ei=jQ6jauzrC4_Y5NoPuLHUwA8&start=70&sa=N&sstk=AS6-VmLmZwtqpwrytAQZIhMdz60qUX1KbB53zZeeB0k92Et5fOplnHmbLyPtWZaA4idUyenmt77ESyD8rq4RoJSZl0GtIJWeLBwTBg&ved=2ahUKEwis5qfm6OSWAxUPLFkFHbgYFfgQ8tMDegQIURAQ",
+   "9": "https://www.google.com/search?q=%22Grove+City+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntS-2f-KLD5J8JS_fevPo1xoDU-gA:1789070989202&ei=jQ6jauzrC4_Y5NoPuLHUwA8&start=80&sa=N&sstk=AS6-VmLmZwtqpwrytAQZIhMdz60qUX1KbB53zZeeB0k92Et5fOplnHmbLyPtWZaA4idUyenmt77ESyD8rq4RoJSZl0GtIJWeLBwTBg&ved=2ahUKEwis5qfm6OSWAxUPLFkFHbgYFfgQ8tMDegQIURAS",
+   "10": "https://www.google.com/search?q=%22Grove+City+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntS-2f-KLD5J8JS_fevPo1xoDU-gA:1789070989202&ei=jQ6jauzrC4_Y5NoPuLHUwA8&start=90&sa=N&sstk=AS6-VmLmZwtqpwrytAQZIhMdz60qUX1KbB53zZeeB0k92Et5fOplnHmbLyPtWZaA4idUyenmt77ESyD8rq4RoJSZl0GtIJWeLBwTBg&ved=2ahUKEwis5qfm6OSWAxUPLFkFHbgYFfgQ8tMDegQIURAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Grove+City+High+School%22+Ohio&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Grove+City+High+School%22+Ohio&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Grove+City+High+School%22+Ohio&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Grove+City+High+School%22+Ohio&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Grove+City+High+School%22+Ohio&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Grove+City+High+School%22+Ohio&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Grove+City+High+School%22+Ohio&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Grove+City+High+School%22+Ohio&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Grove+City+High+School%22+Ohio&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Grove+City+High+School%22+Ohio&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Grove+City+High+School%22+Ohio&start=90"
+  }
+ }
+}

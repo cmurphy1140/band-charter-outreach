@@ -1,0 +1,122 @@
+{
+ "news_results": [
+  {
+   "position": 1,
+   "title": "Channel 2 Presents: The Children's Christmas Parade",
+   "source": {
+    "name": "WSB-TV",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.wsbtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.wsbtv.com/news/local/atlanta/channel-2-presents-the-childrens-christmas-parade/471435476/",
+   "thumbnail": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fd1hfln2sfez66z.cloudfront.net%2F11-27-2019%2Ft_b02b7fce30db452e949dca475429f4ba_name_AE31895A56E2452EAE9D58DDB2041ACD_8.jpg?auth=a5c0aaba768acaeb14507d19fc0d9fef32e391271b049cf791bf995d88130446&width=1200&height=630&smart=true",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNTNiVmxIU2kxUFFWWlBOWGxNVFJDUkF4ajhCU2dLTWdB",
+   "date": "12/03/2016, 08:00 AM, +0000 UTC",
+   "iso_date": "2016-12-03T08:00:00Z"
+  },
+  {
+   "position": 2,
+   "title": "Band of the Week: Soddy-Daisy High School Marching Band",
+   "source": {
+    "name": "Local 3 News",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.local3news.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Greg Glover"
+    ]
+   },
+   "link": "https://www.local3news.com/band-of-the-week-soddy-daisy-high-school-marching-band/article_8bf15624-cb55-509c-8ebb-6879552b320d.html",
+   "thumbnail": "https://bloximages.newyork1.vip.townnews.com/local3news.com/content/tncms/assets/v3/editorial/3/36/336f6000-4e7d-5207-b8c2-f7f8cf84b0ba/61a5d717075b5.image.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRaM2hWWDNwc1pVcERWMDlwVFJEUUFoakFBeWdLTWdZQmNJaVp2QVk",
+   "date": "08/21/2015, 07:00 AM, +0000 UTC",
+   "iso_date": "2015-08-21T07:00:00Z"
+  },
+  {
+   "position": 3,
+   "title": "Audrey Anderson lost her sister to cancer, then had her own scare. Saturday, she will lead the CHOA parade in Atlanta.",
+   "source": {
+    "name": "Forsyth County News",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forsythnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.forsythnews.com/local/lifestyles/audrey-anderson-lost-her-sister-cancer-then-had-her-own-scare-saturday-she-will-lead-choa-parade-atlanta/",
+   "thumbnail": "https://forsythnews.cdn-anvilcms.net/media/images/2018/11/29/images/FCN_AudreyAnderson_1_113018_web.max-640x480.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZhemMyYWxsMmN6TjRWemxQVFJDcUF4aUFCU2dLTWdhVk41cG9IZ2s",
+   "date": "12/01/2018, 08:00 AM, +0000 UTC",
+   "iso_date": "2018-12-01T08:00:00Z"
+  },
+  {
+   "position": 4,
+   "title": "Here's what you need to know about Miss Universe 2019 in Atlanta",
+   "source": {
+    "name": "11Alive.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.11alive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ryan J. Dennis"
+    ]
+   },
+   "link": "https://www.11alive.com/article/entertainment/television/programs/the-a-scene/miss-universe-in-atlanta-info/85-da65fe04-c4a6-4ebd-bd36-a506d6ecf4e0",
+   "thumbnail": "https://media.11alive.com/assets/WXIA/images/f542dabd-c6bc-4a8d-b614-0693f001173a/f542dabd-c6bc-4a8d-b614-0693f001173a_1140x641.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXNaMEpDYWxobmQyeEdNRFkwVFJDZkF4ampCU2dLTWdtZEFaRFVJQ21EaHdJ",
+   "date": "12/03/2019, 08:00 AM, +0000 UTC",
+   "iso_date": "2019-12-03T08:00:00Z"
+  },
+  {
+   "position": 5,
+   "title": "Channel 2 presents: Children's Christmas Parade",
+   "source": {
+    "name": "WSB-TV",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.wsbtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.wsbtv.com/news/local/channel-2-presents-childrens-christmas-parade_ncdd2/242291219/",
+   "thumbnail": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/UVNG76ICAIED3YP63BAYNU6JUM.jpg?smart=true&auth=074cc9cfe4a5931a99d71dc622fc946d2b2ccee65386927855e87c41246ed9c1&width=864&height=486",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUNOWEZsZVZwYWVtOVdRM1pqVFJDb0FSaXNBaWdCTWdB",
+   "date": "12/06/2013, 08:00 AM, +0000 UTC",
+   "iso_date": "2013-12-06T08:00:00Z"
+  }
+ ],
+ "menu_links": [
+  {
+   "title": "U.S.",
+   "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+  },
+  {
+   "title": "World",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Your local news",
+   "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+  },
+  {
+   "title": "Business",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Technology",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Entertainment",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Sports",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Science",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Health",
+   "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+  }
+ ]
+}

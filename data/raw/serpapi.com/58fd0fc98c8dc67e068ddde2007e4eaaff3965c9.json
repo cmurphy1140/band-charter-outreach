@@ -1,0 +1,1121 @@
+{
+ "search_information": {
+  "query_displayed": "\"Origin Hip Hop Academy\"",
+  "total_results": 5750,
+  "time_taken_displayed": 0.29,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "The Origin Hip Hop Performing Arts Academy",
+  "type": "Hip hop dance class in San Diego, California",
+  "entity_type": "local_nav",
+  "kgmid": "/g/1vyk2t3g",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/g/1vyk2t3g&hl=en-US&q=The+Origin+Hip+Hop+Performing+Arts+Academy",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fg%2F1vyk2t3g&q=The+Origin+Hip+Hop+Performing+Arts+Academy",
+  "place_id": "ChIJp6ER1oRX2YARELMYnmxGbqg",
+  "website": "https://originhhpaa.com/",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa3104f86e9fa826276d6d4/images/rvZRGwQIHmzuV7oXRLKpwJYFHg7800305L-tfkD7el8.webp",
+   "link": "https://www.google.com/maps/place/The+Origin+Hip+Hop+Performing+Arts+Academy/data=!4m2!3m1!1s0x0:0xa86e466c9e18b310?sa=X&ved=2ahUKEwj378fP6uSWAxX0HbkGHeu-M7oQ_BJ6BAhLEAA&hl=en&gl=us"
+  },
+  "rating": 4.7,
+  "review_count": 24,
+  "address": "2525 El Camino Real, Carlsbad, CA 92008",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvNwK9yMJ_NTBJQCPTubxN6AvxLgA:1789071478364&q=origin+hip+hop+address&ludocid=12136715478132896528&sa=X&ved=2ahUKEwj378fP6uSWAxX0HbkGHeu-M7oQ6BN6BAhTEAI"
+   }
+  ],
+  "phone": "(619) 905-3645",
+  "phone_links": [
+   {
+    "text": "Phone",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvNwK9yMJ_NTBJQCPTubxN6AvxLgA:1789071478364&q=origin+hip+hop+phone&ludocid=12136715478132896528&sa=X&ved=2ahUKEwj378fP6uSWAxX0HbkGHeu-M7oQ6BN6BAhXEAI"
+   }
+  ],
+  "raw_hours": "Open \u00b7 Closes 9 PM",
+  "hours": {
+   "thursday": {
+    "opens": "7\u202fAM",
+    "closes": "9\u202fPM"
+   },
+   "friday": {
+    "opens": "7\u202fAM",
+    "closes": "9\u202fPM"
+   },
+   "saturday": {
+    "opens": "9\u202fAM",
+    "closes": "7\u202fPM"
+   },
+   "sunday": {
+    "opens": "7\u202fAM",
+    "closes": "9\u202fPM"
+   },
+   "monday": {
+    "opens": "7\u202fAM",
+    "closes": "9\u202fPM"
+   },
+   "tuesday": {
+    "opens": "7\u202fAM",
+    "closes": "9\u202fPM"
+   },
+   "wednesday": {
+    "opens": "7\u202fAM",
+    "closes": "9\u202fPM"
+   }
+  },
+  "popular_times": {
+   "live": {
+    "time": "1 PM",
+    "info": "Usually not too busy"
+   },
+   "graph_results": {
+    "monday": [
+     {
+      "time": "6\u202fAM",
+      "busyness_score": 0
+     },
+     {
+      "time": "7\u202fAM",
+      "info": "Usually not too busy",
+      "busyness_score": 35
+     },
+     {
+      "time": "8\u202fAM",
+      "info": "Usually not too busy",
+      "busyness_score": 25
+     },
+     {
+      "time": "9\u202fAM",
+      "info": "Usually not busy",
+      "busyness_score": 15
+     },
+     {
+      "time": "10\u202fAM",
+      "info": "Usually not busy",
+      "busyness_score": 20
+     },
+     {
+      "time": "11\u202fAM",
+      "info": "Usually not too busy",
+      "busyness_score": 25
+     },
+     {
+      "time": "12\u202fPM",
+      "info": "Usually not too busy",
+      "busyness_score": 30
+     },
+     {
+      "time": "1\u202fPM",
+      "info": "Usually not too busy",
+      "busyness_score": 25
+     },
+     {
+      "time": "2\u202fPM",
+      "info": "Usually not too busy",
+      "busyness_score": 35
+     },
+     {
+      "time": "3\u202fPM",
+      "info": "Usually not too busy",
+      "busyness_score": 40
+     },
+     {
+      "time": "4\u202fPM",
+      "info": "Usually a little busy",
+      "busyness_score": 60
+     },
+     {
+      "time": "5\u202fPM",
+      "info": "Usually a little busy",
+      "busyness_score": 60
+     },
+     {
+      "time": "6\u202fPM",
+      "info": "Usually not too busy",
+      "busyness_score": 50
+     },
+     {
+      "time": "7\u202fPM",
+      "info": "Usually not too busy",
+      "busyness_score": 50
+     },
+     {
+      "time": "8\u202fPM",
+      "info": "Usually not too busy",
+      "busyness_score": 50
+     },
+     {
+      "time": "9\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "10\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "11\u202fPM",
+      "busyness_score": 0
+     }
+    ],
+    "tuesday": [
+     {
+      "time": "6\u202fAM",
+      "busyness_score": 0
+     },
+     {
+      "time": "7\u202fAM",
+      "info": "Usually not too busy",
+      "busyness_score": 45
+     },
+     {
+      "time": "8\u202fAM",
+      "info": "Usually a little busy",
+      "busyness_score": 60
+     },
+     {
+      "time": "9\u202fAM",
+      "info": "Usually a little busy",
+      "busyness_score": 75
+     },
+     {
+      "time": "10\u202fAM",
+      "info": "Usually as busy as it gets",
+      "busyness_score": 90
+     },
+     {
+      "time": "11\u202fAM",
+      "info": "Usually as busy as it gets",
+      "busyness_score": 100
+     },
+     {
+      "time": "12\u202fPM",
+      "info": "Usually a little busy",
+      "busyness_score": 65
+     },
+     {
+      "time": "1\u202fPM",
+      "info": "Usually a little busy",
+      "busyness_score": 60
+     },
+     {
+      "time": "2\u202fPM",
+      "info": "Usually a little busy",
+      "busyness_score": 55
+     },
+     {
+      "time": "3\u202fPM",
+      "info": "Usually a little busy",
+      "busyness_score": 60
+     },
+     {
+      "time": "4\u202fPM",
+      "info": "Usually not too busy",
+      "busyness_score": 40
+     },
+     {
+      "time": "5\u202fPM",
+      "info": "Usually not too busy",
+      "busyness_score": 35
+     },
+     {
+      "time": "6\u202fPM",
+      "info": "Usually not too busy",
+      "busyness_score": 30
+     },
+     {
+      "time": "7\u202fPM",
+      "info": "Usually not too busy",
+      "busyness_score": 45
+     },
+     {
+      "time": "8\u202fPM",
+      "info": "Usually not too busy",
+      "busyness_score": 30
+     },
+     {
+      "time": "9\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "10\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "11\u202fPM",
+      "busyness_score": 0
+     }
+    ],
+    "wednesday": [
+     {
+      "time": "6\u202fAM",
+      "busyness_score": 0
+     },
+     {
+      "time": "7\u202fAM",
+      "info": "Usually not too busy",
+      "busyness_score": 50
+     },
+     {
+      "time": "8\u202fAM",
+      "info": "Usually a little busy",
+      "busyness_score": 70
+     },
+     {
+      "time": "9\u202fAM",
+      "info": "Usually a little busy",
+      "busyness_score": 55
+     },
+     {
+      "time": "10\u202fAM",
+      "info": "Usually not too busy",
+      "busyness_score": 40
+     },
+     {
+      "time": "11\u202fAM",
+      "info": "Usually not too busy",
+      "busyness_score": 30
+     },
+     {
+      "time": "12\u202fPM",
+      "info": "Usually not busy",
+      "busyness_score": 20
+     },
+     {
+      "time": "1\u202fPM",
+      "info": "Usually not busy",
+      "busyness_score": 20
+     },
+     {
+      "time": "2\u202fPM",
+      "info": "Usually not busy",
+      "busyness_score": 15
+     },
+     {
+      "time": "3\u202fPM",
+      "info": "Usually not busy",
+      "busyness_score": 20
+     },
+     {
+      "time": "4\u202fPM",
+      "info": "Usually not busy",
+      "busyness_score": 15
+     },
+     {
+      "time": "5\u202fPM",
+      "info": "Usually not busy",
+      "busyness_score": 5
+     },
+     {
+      "time": "6\u202fPM",
+      "info": "Usually not busy",
+      "busyness_score": 10
+     },
+     {
+      "time": "7\u202fPM",
+      "info": "Usually not too busy",
+      "busyness_score": 25
+     },
+     {
+      "time": "8\u202fPM",
+      "info": "Usually not too busy",
+      "busyness_score": 45
+     },
+     {
+      "time": "9\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "10\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "11\u202fPM",
+      "busyness_score": 0
+     }
+    ],
+    "thursday": [
+     {
+      "time": "6\u202fAM",
+      "busyness_score": 0
+     },
+     {
+      "time": "7\u202fAM",
+      "info": "Usually not too busy",
+      "busyness_score": 45
+     },
+     {
+      "time": "8\u202fAM",
+      "info": "Usually not too busy",
+      "busyness_score": 40
+     },
+     {
+      "time": "9\u202fAM",
+      "info": "Usually not too busy",
+      "busyness_score": 45
+     },
+     {
+      "time": "10\u202fAM",
+      "info": "Usually not too busy",
+      "busyness_score": 45
+     },
+     {
+      "time": "11\u202fAM",
+      "info": "Usually not too busy",
+      "busyness_score": 50
+     },
+     {
+      "time": "12\u202fPM",
+      "info": "Usually not too busy",
+      "busyness_score": 45
+     },
+     {
+      "time": "1\u202fPM",
+      "info": "Usually not too busy",
+      "busyness_score": 35
+     },
+     {
+      "time": "2\u202fPM",
+      "info": "Usually not too busy",
+      "busyness_score": 35
+     },
+     {
+      "time": "3\u202fPM",
+      "info": "Usually not too busy",
+      "busyness_score": 45
+     },
+     {
+      "time": "4\u202fPM",
+      "info": "Usually a little busy",
+      "busyness_score": 55
+     },
+     {
+      "time": "5\u202fPM",
+      "info": "Usually not too busy",
+      "busyness_score": 30
+     },
+     {
+      "time": "6\u202fPM",
+      "info": "Usually not too busy",
+      "busyness_score": 25
+     },
+     {
+      "time": "7\u202fPM",
+      "info": "Usually not busy",
+      "busyness_score": 15
+     },
+     {
+      "time": "8\u202fPM",
+      "info": "Usually not too busy",
+      "busyness_score": 25
+     },
+     {
+      "time": "9\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "10\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "11\u202fPM",
+      "busyness_score": 0
+     }
+    ],
+    "friday": [
+     {
+      "time": "6\u202fAM",
+      "busyness_score": 0
+     },
+     {
+      "time": "7\u202fAM",
+      "info": "Usually not busy",
+      "busyness_score": 20
+     },
+     {
+      "time": "8\u202fAM",
+      "info": "Usually not busy",
+      "busyness_score": 20
+     },
+     {
+      "time": "9\u202fAM",
+      "info": "Usually not too busy",
+      "busyness_score": 35
+     },
+     {
+      "time": "10\u202fAM",
+      "info": "Usually not too busy",
+      "busyness_score": 40
+     },
+     {
+      "time": "11\u202fAM",
+      "info": "Usually not too busy",
+      "busyness_score": 30
+     },
+     {
+      "time": "12\u202fPM",
+      "info": "Usually not too busy",
+      "busyness_score": 25
+     },
+     {
+      "time": "1\u202fPM",
+      "info": "Usually not busy",
+      "busyness_score": 10
+     },
+     {
+      "time": "2\u202fPM",
+      "info": "Usually not busy",
+      "busyness_score": 15
+     },
+     {
+      "time": "3\u202fPM",
+      "info": "Usually not too busy",
+      "busyness_score": 30
+     },
+     {
+      "time": "4\u202fPM",
+      "info": "Usually not too busy",
+      "busyness_score": 45
+     },
+     {
+      "time": "5\u202fPM",
+      "info": "Usually not too busy",
+      "busyness_score": 45
+     },
+     {
+      "time": "6\u202fPM",
+      "info": "Usually not too busy",
+      "busyness_score": 40
+     },
+     {
+      "time": "7\u202fPM",
+      "info": "Usually not too busy",
+      "busyness_score": 40
+     },
+     {
+      "time": "8\u202fPM",
+      "info": "Usually not too busy",
+      "busyness_score": 35
+     },
+     {
+      "time": "9\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "10\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "11\u202fPM",
+      "busyness_score": 0
+     }
+    ],
+    "saturday": [
+     {
+      "time": "6\u202fAM",
+      "busyness_score": 0
+     },
+     {
+      "time": "7\u202fAM",
+      "busyness_score": 0
+     },
+     {
+      "time": "8\u202fAM",
+      "busyness_score": 0
+     },
+     {
+      "time": "9\u202fAM",
+      "info": "Usually not too busy",
+      "busyness_score": 25
+     },
+     {
+      "time": "10\u202fAM",
+      "info": "Usually not too busy",
+      "busyness_score": 30
+     },
+     {
+      "time": "11\u202fAM",
+      "info": "Usually not too busy",
+      "busyness_score": 25
+     },
+     {
+      "time": "12\u202fPM",
+      "info": "Usually not too busy",
+      "busyness_score": 25
+     },
+     {
+      "time": "1\u202fPM",
+      "info": "Usually not too busy",
+      "busyness_score": 35
+     },
+     {
+      "time": "2\u202fPM",
+      "info": "Usually not too busy",
+      "busyness_score": 45
+     },
+     {
+      "time": "3\u202fPM",
+      "info": "Usually not too busy",
+      "busyness_score": 50
+     },
+     {
+      "time": "4\u202fPM",
+      "info": "Usually not too busy",
+      "busyness_score": 50
+     },
+     {
+      "time": "5\u202fPM",
+      "info": "Usually not too busy",
+      "busyness_score": 45
+     },
+     {
+      "time": "6\u202fPM",
+      "info": "Usually not too busy",
+      "busyness_score": 35
+     },
+     {
+      "time": "7\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "8\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "9\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "10\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "11\u202fPM",
+      "busyness_score": 0
+     }
+    ],
+    "sunday": [
+     {
+      "time": "6\u202fAM",
+      "busyness_score": 0
+     },
+     {
+      "time": "7\u202fAM",
+      "info": "Usually not too busy",
+      "busyness_score": 25
+     },
+     {
+      "time": "8\u202fAM",
+      "info": "Usually not too busy",
+      "busyness_score": 45
+     },
+     {
+      "time": "9\u202fAM",
+      "info": "Usually a little busy",
+      "busyness_score": 60
+     },
+     {
+      "time": "10\u202fAM",
+      "info": "Usually a little busy",
+      "busyness_score": 60
+     },
+     {
+      "time": "11\u202fAM",
+      "info": "Usually not too busy",
+      "busyness_score": 50
+     },
+     {
+      "time": "12\u202fPM",
+      "info": "Usually not too busy",
+      "busyness_score": 50
+     },
+     {
+      "time": "1\u202fPM",
+      "info": "Usually not too busy",
+      "busyness_score": 50
+     },
+     {
+      "time": "2\u202fPM",
+      "info": "Usually a little busy",
+      "busyness_score": 55
+     },
+     {
+      "time": "3\u202fPM",
+      "info": "Usually a little busy",
+      "busyness_score": 75
+     },
+     {
+      "time": "4\u202fPM",
+      "info": "Usually a little busy",
+      "busyness_score": 80
+     },
+     {
+      "time": "5\u202fPM",
+      "info": "Usually a little busy",
+      "busyness_score": 80
+     },
+     {
+      "time": "6\u202fPM",
+      "info": "Usually a little busy",
+      "busyness_score": 65
+     },
+     {
+      "time": "7\u202fPM",
+      "info": "Usually not too busy",
+      "busyness_score": 45
+     },
+     {
+      "time": "8\u202fPM",
+      "info": "Usually not too busy",
+      "busyness_score": 45
+     },
+     {
+      "time": "9\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "10\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "11\u202fPM",
+      "busyness_score": 0
+     }
+    ]
+   }
+  },
+  "merchant_description": "\"Hip Hop dance classes in San Diego. Provides Visual and Performance Art Classes with Hip Hop curriculum Dance Art Music Theatre Dance Camps and more\"",
+  "unclaimed_listing": true,
+  "appointment_providers": [
+   {
+    "name": "originhhpaa.com",
+    "link": "http://www.originhhpaa.com/"
+   }
+  ],
+  "people_also_search_for": [
+   {
+    "name": "Ooh La La Dance Academy",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmEcJm5td66N3XetEPTM9wDPkUnL7qwO1xbWxd_Ilu7rAKp0asD1fOu5xoMC3Ag1WPYcZqNF1_OEhi1f2ktyaFkSqrI8WSCw7xWk7soMSGoGdS1ynFEw5lXOrAwJp80X9_ugMlWRg=w166-h78-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvNwK9yMJ_NTBJQCPTubxN6AvxLgA:1789071478364&q=Ooh+La+La+Dance+Academy&si=APenkKnTl1SNyGw93eJictriFKjA8wrAY1gKp22d_AvA68HEcmp1C-gpthI7huYMw9bPc69zmCX2vf_HpimuV2-vVl0GcLx0uUTLadK5ZN49yfweNmT1slbNtO4H54vilDss5qDVtnXbBndp9veLFV7Lm6RCV9bjTV-0H2l79e9BLGsXMWSzwZVIXsIz_a5yNpAWLSPxTl7qLZ4H68GpjtRBpM1-HtthvyVhTHAIxBEBPji5EiNiTZvbT9g8PDgYKLUSctZ9NX1t6TTBhm4dyI-Ft8kJZIt7sTmXzT-bM9XT0gguAesq3y_Q24eAzZ1xufGqeo4qe7ca&sa=X&ved=2ahUKEwj378fP6uSWAxX0HbkGHeu-M7oQxA16BAhjEAQ",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ooh+La+La+Dance+Academy&si=APenkKnTl1SNyGw93eJictriFKjA8wrAY1gKp22d_AvA68HEcmp1C-gpthI7huYMw9bPc69zmCX2vf_HpimuV2-vVl0GcLx0uUTLadK5ZN49yfweNmT1slbNtO4H54vilDss5qDVtnXbBndp9veLFV7Lm6RCV9bjTV-0H2l79e9BLGsXMWSzwZVIXsIz_a5yNpAWLSPxTl7qLZ4H68GpjtRBpM1-HtthvyVhTHAIxBEBPji5EiNiTZvbT9g8PDgYKLUSctZ9NX1t6TTBhm4dyI-Ft8kJZIt7sTmXzT-bM9XT0gguAesq3y_Q24eAzZ1xufGqeo4qe7ca"
+   },
+   {
+    "name": "Stage Door Dance",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk1gtY_hEP2elFiRm0VsPEVH3Aij00fSY8bf33tcEZE33wKhaNcWFKikVLeEUGd6UDXuq0dIzVmDHXEIxOXxWDFORp0Hp6XDvggR2OH_ArNmhQbONafiLE9PQ3tEL-8N9RqX7_2ZkZxfqg=w104-h78-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvNwK9yMJ_NTBJQCPTubxN6AvxLgA:1789071478364&q=Stage+Door+Dance&si=APenkKllX05q7xl66dAosm6nb1iuMgV7Bv8meTZS-zIzIS3OMxXZy27nsr-4EO228xxr6PHp3WAE3FzXzyQ-459Ck7dNkiW7hkTpvp1m4EJmCaoAghPea6pnfiiSHJONalwDsNfP7Rb6If6QMaz082Ly_q3r7diVVmo0SBTWRzhPk1sR83PvHUhj4CfUQVRyXFCAGYNpDeVr1_Y6NxL9gWjet0I-WXDRGqkl5900EFzTeCHsq8EKDdAigu5V6gUWehlOaaU7w-2TUMTYJbfMihKCB0dkcrc7h15PZhsXpyfENji3rwTp3coOhBaYXBZuAw8XTAuE9RiY&sa=X&ved=2ahUKEwj378fP6uSWAxX0HbkGHeu-M7oQxA16BAhjEAc",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Stage+Door+Dance&si=APenkKllX05q7xl66dAosm6nb1iuMgV7Bv8meTZS-zIzIS3OMxXZy27nsr-4EO228xxr6PHp3WAE3FzXzyQ-459Ck7dNkiW7hkTpvp1m4EJmCaoAghPea6pnfiiSHJONalwDsNfP7Rb6If6QMaz082Ly_q3r7diVVmo0SBTWRzhPk1sR83PvHUhj4CfUQVRyXFCAGYNpDeVr1_Y6NxL9gWjet0I-WXDRGqkl5900EFzTeCHsq8EKDdAigu5V6gUWehlOaaU7w-2TUMTYJbfMihKCB0dkcrc7h15PZhsXpyfENji3rwTp3coOhBaYXBZuAw8XTAuE9RiY"
+   },
+   {
+    "name": "Play Studios",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmrX8sqCaTkLzweiXgKKfxkVTRn79_CH4LnrnP7_iBvize1s46CzOoW2SvWkM3OHQT9ff6Ecc-kjVfwiLmGbSPDBjDuKUO-Ujskjl2kNQe-QxxQHMnPiXswJ7QAvaCXa3Aj7lZLWg=w125-h78-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvNwK9yMJ_NTBJQCPTubxN6AvxLgA:1789071478364&q=Play+Studios&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0bRrG_FH_DDuUzNUyvnor9arz8I1GBzxFug2vI3zynYTDlbHBiHIgSSVvCu6WEPYtUJIG91q-7M00aO3lq3SLmRHM8_DHSarVK19U2XC_3V0FB_dKWI2Gsp5YpPPvwgSSvGK9vt33Imlldpls-BuAyyq8KvpHt9raRctS20D0gFsgm1eu5-7vweyJ5LwtARGeThrmMmxzruqLyLtGO7RlXIwsRo2Ur7lUT3np4MBFYmYhu1nr-2GRrJfUmxKHiHdUGeqa4gpmgWsYuWtBhLZJbW4Qfxi&sa=X&ved=2ahUKEwj378fP6uSWAxX0HbkGHeu-M7oQxA16BAhjEAo",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Play+Studios&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0bRrG_FH_DDuUzNUyvnor9arz8I1GBzxFug2vI3zynYTDlbHBiHIgSSVvCu6WEPYtUJIG91q-7M00aO3lq3SLmRHM8_DHSarVK19U2XC_3V0FB_dKWI2Gsp5YpPPvwgSSvGK9vt33Imlldpls-BuAyyq8KvpHt9raRctS20D0gFsgm1eu5-7vweyJ5LwtARGeThrmMmxzruqLyLtGO7RlXIwsRo2Ur7lUT3np4MBFYmYhu1nr-2GRrJfUmxKHiHdUGeqa4gpmgWsYuWtBhLZJbW4Qfxi"
+   },
+   {
+    "name": "Culture Shock San Diego",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnUGxSx70BsS0QMOCw1RuW5EQ9im_TH_273lxXC9GelzFuFWSZqAElJg0e8tsNomy9lfC8GS5HDjEeu875tvSWeHNOUhIxjZr60aEf-yrnM7oxQDNb0W8VNYE1h8oEfd-80jRI=w117-h78-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvNwK9yMJ_NTBJQCPTubxN6AvxLgA:1789071478364&q=Culture+Shock+San+Diego&si=APenkKllX05q7xl66dAosm6nb1iuMgV7Bv8meTZS-zIzIS3OM5-joMw1YTm_T7BlxMXcgik7XQbnSlDxA81IM_7dvyDVw4Wk7DIEvrTIDKcL5DN5GkHJg8VCA2J6lz6uvX6EvHQGOh4sIjH9F5MJd1gwd6sbzguQ5fDKVMXxRKIKQBQeC7kXWSqw-UVGegRuu2tBFaCmLseqK_zzlpIa9g_Uiy7tadqypQAeJqpOfzJwMVB7HVC7ffHK-x9myRq-NThQ8PnEYa2mH-W3XZy6D6a6Qvr0GwhPFZP-Bf_VnYqvTIH6vtH6kl3-BDgpNEgeWMalDVt8hbAG&sa=X&ved=2ahUKEwj378fP6uSWAxX0HbkGHeu-M7oQxA16BAhjEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Culture+Shock+San+Diego&si=APenkKllX05q7xl66dAosm6nb1iuMgV7Bv8meTZS-zIzIS3OM5-joMw1YTm_T7BlxMXcgik7XQbnSlDxA81IM_7dvyDVw4Wk7DIEvrTIDKcL5DN5GkHJg8VCA2J6lz6uvX6EvHQGOh4sIjH9F5MJd1gwd6sbzguQ5fDKVMXxRKIKQBQeC7kXWSqw-UVGegRuu2tBFaCmLseqK_zzlpIa9g_Uiy7tadqypQAeJqpOfzJwMVB7HVC7ffHK-x9myRq-NThQ8PnEYa2mH-W3XZy6D6a6Qvr0GwhPFZP-Bf_VnYqvTIH6vtH6kl3-BDgpNEgeWMalDVt8hbAG"
+   }
+  ],
+  "profiles": [
+   {
+    "name": "YouTube",
+    "link": "https://www.youtube.com/channel/UCa_X5zHrGTV5coSmBG-nNFg",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Origin+Hip+Hop+Academy%22",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAP1BMVEX_____z8__n5__kJD_gID_cHD_YGD_v7__39__ICD_AAD_r6__EBD_7-__oKD_MDD_QED_UFD_X1__j4__f396G04EAAAAhklEQVR4AeXQRQLDQAwDQC3bajj5_1dLYb63czYKf8VY50OcBO9swkyUB_SBkfJQlqOXeKJAz_FEQM9zVCqXInqRIy-RC9W-AJDypgCwyoGiV68LkLJFwX6CVJcr8nBwZJgLXMaDAs9RxsMcLE949IQnEnpoeKjEpC25o12OpVwkTURy_JQX1r4RC2S7kZYAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/originhiphop",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Origin+Hip+Hop+Academy%22",
+    "image": "https://serpapi.com/searches/6aa3104f86e9fa826276d6d4/images/rvZRGwQIHmzuV7oXRLKpwPYCpCMhoPA_o3DnDc7-9N9jesoB3M48J1wEPdaD-M2b.png"
+   },
+   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/originhiphop1/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Origin+Hip+Hop+Academy%22",
+    "image": "https://serpapi.com/searches/6aa3104f86e9fa826276d6d4/images/rvZRGwQIHmzuV7oXRLKpwPxEkN-fFWWA9SFadniJrWiJCea0JvWYkCPDTIK24JVv.png"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvNwK9yMJ_NTBJQCPTubxN6AvxLgA:1789071478364&q=origin+hip+hop&stick=H4sIAAAAAAAAAONgFuLWT9c3LKvMNioxTldC5mgJBmempJYnVhb7pVaUBJekFhQvYuXLL8pMz8xTyMgsUMjIL9jByggAtbq7UUMAAAA&sa=X&ved=2ahUKEwj378fP6uSWAxX0HbkGHeu-M7oQMSgAegQIYxAB",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLWT9c3LKvMNioxTldC5mgJBmempJYnVhb7pVaUBJekFhQvYuXLL8pMz8xTyMgsUMjIL9jByggAtbq7UUMAAAA"
+ },
+ "inline_videos": [
+  {
+   "position": 1,
+   "title": "The Origin Hip Hop Performing Arts Academy ...",
+   "link": "https://www.instagram.com/reel/DbBLoLuzlYc/",
+   "thumbnail": "https://serpapi.com/searches/6aa3104f86e9fa826276d6d4/images/jqdsX541hyzw2JqxzPqA-zH8991iNg6qtUvpEveMl2g.jpeg",
+   "channel": "The Origin Hip Hop Performing Arts Academy",
+   "duration": "0:20",
+   "platform": "Instagram",
+   "date": "1 month ago",
+   "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTphM6lQaQKLKY0xc0x2bJkel7ro1qBXWO-NQ"
+  },
+  {
+   "position": 2,
+   "title": "SUMMER CLASSES ARE HERE! @originhiphop1 ...",
+   "link": "https://www.instagram.com/reel/DY8ANtPyiFl/",
+   "thumbnail": "https://serpapi.com/searches/6aa3104f86e9fa826276d6d4/images/HvvOH0aHpgr9SkMC9AgvyXGVTu1xINtnLb3OIWEHhYU.jpeg",
+   "channel": "The Origin Hip Hop Performing Arts Academy",
+   "duration": "0:16",
+   "platform": "Instagram",
+   "date": "May 29, 2026"
+  },
+  {
+   "position": 3,
+   "title": "LA MESA FALL CLASSES ARE HERE! New season. ...",
+   "link": "https://www.facebook.com/cheryl.armourfrye12/videos/-la-mesa-fall-classes-are-herenew-season-new-goals-same-origin-energy-from-small/1497833679043827/",
+   "thumbnail": "https://serpapi.com/searches/6aa3104f86e9fa826276d6d4/images/GoqX_JNzYfIiw1NrgZskn_rpFhJ9vJ8EpnTHfSt6cCY.jpeg",
+   "channel": "Cheryl Armour Frye",
+   "duration": "0:29",
+   "platform": "Facebook",
+   "date": "1 month ago"
+  }
+ ],
+ "related_questions": [
+  {
+   "question": "Where can I find hip-hop classes for kids in San Diego?",
+   "type": "ai_overview",
+   "page_token": "6JpMb3icHZDdboIwAEazl_FSqUw2TcwSBRR13Shtgd4spQrVlr-JOnu3d9lT7WlG9gDny_nO948-Vur34Sq7rjnPRqPb7TYs6rrQh6GoyxE_3ysxElzrjAs1c54c8JKLuXcJFss2WISkaaiLrEhPFQVTxFcIoXLvMCwxW022B1x00R2EokJvnDJKbWVgtV9yv2mzEwxo5W8zm74jNXWIR92o1Em83iThSROOfYe4EiPt3ZlLG77eeBQwiQja4jEk0PLrjFhjvtbndAzuzLDkUOqWxAIc9GYV6mcTu-EjNnpJq8bPPL3LXBhHappj1bW9y5it4aTnLsIl9iuQKq0YTU_S9uRecQ-2acLK1GIlMQJgQEPYb2KzQOKrPoYEGXHSJak2O5TIc_85h5FlqGYIRqB3lHkaBwZZPtvfBrm4zu3Bf8_5R152s-azLv4AYTyENw",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=6JpMb3icHZDdboIwAEazl_FSqUw2TcwSBRR13Shtgd4spQrVlr-JOnu3d9lT7WlG9gDny_nO948-Vur34Sq7rjnPRqPb7TYs6rrQh6GoyxE_3ysxElzrjAs1c54c8JKLuXcJFss2WISkaaiLrEhPFQVTxFcIoXLvMCwxW022B1x00R2EokJvnDJKbWVgtV9yv2mzEwxo5W8zm74jNXWIR92o1Em83iThSROOfYe4EiPt3ZlLG77eeBQwiQja4jEk0PLrjFhjvtbndAzuzLDkUOqWxAIc9GYV6mcTu-EjNnpJq8bPPL3LXBhHappj1bW9y5it4aTnLsIl9iuQKq0YTU_S9uRecQ-2acLK1GIlMQJgQEPYb2KzQOKrPoYEGXHSJak2O5TIc_85h5FlqGYIRqB3lHkaBwZZPtvfBrm4zu3Bf8_5R152s-azLv4AYTyENw",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGF6ZHdSa0ZSWkRnME5GbGplSFZFVW5RelJ6Qk9Oa1ptVEMxNVVXRXdXbWxLTUZKNmFHSTVPVFZEUW5acGRHRndXVEZtZEZwVVMyWnZSM0l6UVU1NFZXOUNNM1ZWVkZSRlRUQktRVmhRYUVGeU4xWkhNVGxoVUZWaWR4SVhaR2hEYW1GMlptTkdabE0zTlU5VlVEWmZNMDh3VVhNYUlrRkVjM0k1WmxOcWJtMUNlVlV6UjBoT1MyNTFUMVJyYmxZNFNsaFRXVzFhWjJjIiwiZmN2IjoiMyIsImVpIjoiZGhDamF2ZmNGZlM3NU9VUDZfM08wUXMiLCJxYyI6IkNoWnZjbWxuYVc0Z2FHbHdJR2h2Y0NCaFkyRmtaVzE1RUFCOWZySVhQdyIsInF1ZXN0aW9uIjoiV2hlcmUgY2FuIEkgZmluZCBoaXAtaG9wIGNsYXNzZXMgZm9yIGtpZHMgaW4gU2FuIERpZWdvPyIsImxrIjoiR2lKb2FYQWdhRzl3SUdOc1lYTnpaWE1nWm05eUlHdHBaSE1nYzJGdUlHUnBaV2R2IiwiYnMiOiJjNFdPc1FyQ01CQkFjYzBrNGhRN0hDTHE0aElFQjRjc0RqcDNjSlRRcE0zUm1pdEp4TjgzdGJTQ0NJN0hlX2Z1MkkwZHJ0WjRBNFZ5Y0lFU25RYUw3YzVTQzBXalFqQUJTdkpRb3c2QUR2S2tuZEJVSk1XS0w1TUpQODJRTk4xcGJNLXlfb0RHVDVrOFZ1aFVORkxNLVd5YzNrSVhaRWUyT05NVDdvX0NncVpVSG4taUVLWElPTGZmR0FiTWNyYnBsaHR5VlU4eFFsUzFnVWpRR09YZFVKTml5OWYycjlxVnA1TVgiLCJpZCI6ImZjX2RoQ2phdmZjRmZTNzVPVVA2XzNPMFFzXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGF6ZHdSa0ZSWkRnME5GbGplSFZFVW5RelJ6Qk9Oa1ptVEMxNVVXRXdXbWxLTUZKNmFHSTVPVFZEUW5acGRHRndXVEZtZEZwVVMyWnZSM0l6UVU1NFZXOUNNM1ZWVkZSRlRUQktRVmhRYUVGeU4xWkhNVGxoVUZWaWR4SVhaR2hEYW1GMlptTkdabE0zTlU5VlVEWmZNMDh3VVhNYUlrRkVjM0k1WmxOcWJtMUNlVlV6UjBoT1MyNTFUMVJyYmxZNFNsaFRXVzFhWjJjIiwiZmN2IjoiMyIsImVpIjoiZGhDamF2ZmNGZlM3NU9VUDZfM08wUXMiLCJxYyI6IkNoWnZjbWxuYVc0Z2FHbHdJR2h2Y0NCaFkyRmtaVzE1RUFCOWZySVhQdyIsInF1ZXN0aW9uIjoiV2hlcmUgY2FuIEkgZmluZCBoaXAtaG9wIGNsYXNzZXMgZm9yIGtpZHMgaW4gU2FuIERpZWdvPyIsImxrIjoiR2lKb2FYQWdhRzl3SUdOc1lYTnpaWE1nWm05eUlHdHBaSE1nYzJGdUlHUnBaV2R2IiwiYnMiOiJjNFdPc1FyQ01CQkFjYzBrNGhRN0hDTHE0aElFQjRjc0RqcDNjSlRRcE0zUm1pdEp4TjgzdGJTQ0NJN0hlX2Z1MkkwZHJ0WjRBNFZ5Y0lFU25RYUw3YzVTQzBXalFqQUJTdkpRb3c2QUR2S2tuZEJVSk1XS0w1TUpQODJRTk4xcGJNLXlfb0RHVDVrOFZ1aFVORkxNLVd5YzNrSVhaRWUyT05NVDdvX0NncVpVSG4taUVLWElPTGZmR0FiTWNyYnBsaHR5VlU4eFFsUzFnVWpRR09YZFVKTml5OWYycjlxVnA1TVgiLCJpZCI6ImZjX2RoQ2phdmZjRmZTNzVPVVA2XzNPMFFzXzUifQ%3D%3D"
+  },
+  {
+   "question": "Where did hip-hop originate?",
+   "type": "ai_overview",
+   "page_token": "AiZk5nicHZBRboIwAECzy_gpCNNFE7PYDdDOViilQH8WpCAKhU6JaP92l51qp5nZ_3t5yfv-aY5t_fuUVH2vLgvDGIZhfOi6Q1OM804a2eXe5kaeNc0-y-vF7GU2eS3zpXMZwFs3gCBSir0TM2Sg5ZrbXDYqjdV0H8EPfpxsaAJ3yAZbZFY-mWAp1iDFEabEuaFEszKUFSmcqRs8_L1UCK3VDnnzgZm4RSe-DaKpRSbwjCOI82RlC_lsI1elgroud2qrOIEmtdQm85ifadKy-PZFWHUVVHhpzB-cUFkNT0xj-KjaacKoME0zkE7oWqQLLFUJyU9Ecoo18xlbWYnGPnJd7R0hIGt838U8CrWoM4fBopmXedxLqoEpEqCoxc5cQ0hb1x6V-XVpj_6PLT9L2S_UuTv8AR-HeOE",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=AiZk5nicHZBRboIwAECzy_gpCNNFE7PYDdDOViilQH8WpCAKhU6JaP92l51qp5nZ_3t5yfv-aY5t_fuUVH2vLgvDGIZhfOi6Q1OM804a2eXe5kaeNc0-y-vF7GU2eS3zpXMZwFs3gCBSir0TM2Sg5ZrbXDYqjdV0H8EPfpxsaAJ3yAZbZFY-mWAp1iDFEabEuaFEszKUFSmcqRs8_L1UCK3VDnnzgZm4RSe-DaKpRSbwjCOI82RlC_lsI1elgroud2qrOIEmtdQm85ifadKy-PZFWHUVVHhpzB-cUFkNT0xj-KjaacKoME0zkE7oWqQLLFUJyU9Ecoo18xlbWYnGPnJd7R0hIGt838U8CrWoM4fBopmXedxLqoEpEqCoxc5cQ0hb1x6V-XVpj_6PLT9L2S_UuTv8AR-HeOE",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGF6ZHdSa0ZSWkRnME5GbGplSFZFVW5RelJ6Qk9Oa1ptVEMxNVVXRXdXbWxLTUZKNmFHSTVPVFZEUW5acGRHRndXVEZtZEZwVVMyWnZSM0l6UVU1NFZXOUNNM1ZWVkZSRlRUQktRVmhRYUVGeU4xWkhNVGxoVUZWaWR4SVhaR2hEYW1GMlptTkdabE0zTlU5VlVEWmZNMDh3VVhNYUlrRkVjM0k1WmxOcWJtMUNlVlV6UjBoT1MyNTFUMVJyYmxZNFNsaFRXVzFhWjJjIiwiZmN2IjoiMyIsImVpIjoiZGhDamF2ZmNGZlM3NU9VUDZfM08wUXMiLCJxYyI6IkNoWnZjbWxuYVc0Z2FHbHdJR2h2Y0NCaFkyRmtaVzE1RUFCOWZySVhQdyIsInF1ZXN0aW9uIjoiV2hlcmUgZGlkIGhpcC1ob3Agb3JpZ2luYXRlPyIsImxrIjoiR2hKdmNtbG5hVzVoZEdWa0lHaHBjQ0JvYjNBIiwiYnMiOiJjNFdPc1FyQ01CQkFjYzBrNGhRN0hDTHE0aElFQjRjc0RqcDNjSlRRcE0zUm1pdEp4TjgzdGJTQ0NJN0hlX2Z1MkkwZHJ0WjRBNFZ5Y0lFU25RYUw3YzVTQzBXalFqQUJTdkpRb3c2QUR2S2tuZEJVSk1XS0w1TUpQODJRTk4xcGJNLXlfb0RHVDVrOFZ1aFVORkxNLVd5YzNrSVhaRWUyT05NVDdvX0NncVpVSG4taUVLWElPTGZmR0FiTWNyYnBsaHR5VlU4eFFsUzFnVWpRR09YZFVKTml5OWYycjlxVnA1TVgiLCJpZCI6ImZjX2RoQ2phdmZjRmZTNzVPVVA2XzNPMFFzXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGF6ZHdSa0ZSWkRnME5GbGplSFZFVW5RelJ6Qk9Oa1ptVEMxNVVXRXdXbWxLTUZKNmFHSTVPVFZEUW5acGRHRndXVEZtZEZwVVMyWnZSM0l6UVU1NFZXOUNNM1ZWVkZSRlRUQktRVmhRYUVGeU4xWkhNVGxoVUZWaWR4SVhaR2hEYW1GMlptTkdabE0zTlU5VlVEWmZNMDh3VVhNYUlrRkVjM0k1WmxOcWJtMUNlVlV6UjBoT1MyNTFUMVJyYmxZNFNsaFRXVzFhWjJjIiwiZmN2IjoiMyIsImVpIjoiZGhDamF2ZmNGZlM3NU9VUDZfM08wUXMiLCJxYyI6IkNoWnZjbWxuYVc0Z2FHbHdJR2h2Y0NCaFkyRmtaVzE1RUFCOWZySVhQdyIsInF1ZXN0aW9uIjoiV2hlcmUgZGlkIGhpcC1ob3Agb3JpZ2luYXRlPyIsImxrIjoiR2hKdmNtbG5hVzVoZEdWa0lHaHBjQ0JvYjNBIiwiYnMiOiJjNFdPc1FyQ01CQkFjYzBrNGhRN0hDTHE0aElFQjRjc0RqcDNjSlRRcE0zUm1pdEp4TjgzdGJTQ0NJN0hlX2Z1MkkwZHJ0WjRBNFZ5Y0lFU25RYUw3YzVTQzBXalFqQUJTdkpRb3c2QUR2S2tuZEJVSk1XS0w1TUpQODJRTk4xcGJNLXlfb0RHVDVrOFZ1aFVORkxNLVd5YzNrSVhaRWUyT05NVDdvX0NncVpVSG4taUVLWElPTGZmR0FiTWNyYnBsaHR5VlU4eFFsUzFnVWpRR09YZFVKTml5OWYycjlxVnA1TVgiLCJpZCI6ImZjX2RoQ2phdmZjRmZTNzVPVVA2XzNPMFFzXzUifQ%3D%3D"
+  },
+  {
+   "question": "How much does hip-hop cost?",
+   "type": "ai_overview",
+   "page_token": "hHxQiHicHdDBboIwGADg7GU8ChR00cQsQ6mGBZRCf6CXBeq00AJ1sqHc9i57qj3Nlp2_2_f1rapW_jxkou_1dWkYwzBMz113Vm9T3jVGcb233OCFUmXB5XL-OLeeTnzlXQd33Q1uRLWGDTFjRDBF-hahyEywoEEmNOBuAKUJaRYXMK0uqoORp_42TxdZnvY6kaoKzX7kIzg8C4HSXgJlNnj5SKW_Czy9BmntcyQwp-zGU1XFNtsEDdg5qBnPIIcRoyP1X9JG2BGIHdQsKeuwpS1zY8CbyGQqT8WeW8Ij8s9a6EsbfyZyiDEiXYS0ODasJg1LwhEOAM8oG8NDgPG4rXyX7ML7PmUkyaRTKHyj6rgmW8eJG-uSK0HKDGJuq48AzdzJiX-u7Mn_2Or11PRL_d6dfwFN-Hn5",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=hHxQiHicHdDBboIwGADg7GU8ChR00cQsQ6mGBZRCf6CXBeq00AJ1sqHc9i57qj3Nlp2_2_f1rapW_jxkou_1dWkYwzBMz113Vm9T3jVGcb233OCFUmXB5XL-OLeeTnzlXQd33Q1uRLWGDTFjRDBF-hahyEywoEEmNOBuAKUJaRYXMK0uqoORp_42TxdZnvY6kaoKzX7kIzg8C4HSXgJlNnj5SKW_Czy9BmntcyQwp-zGU1XFNtsEDdg5qBnPIIcRoyP1X9JG2BGIHdQsKeuwpS1zY8CbyGQqT8WeW8Ij8s9a6EsbfyZyiDEiXYS0ODasJg1LwhEOAM8oG8NDgPG4rXyX7ML7PmUkyaRTKHyj6rgmW8eJG-uSK0HKDGJuq48AzdzJiX-u7Mn_2Or11PRL_d6dfwFN-Hn5",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGF6ZHdSa0ZSWkRnME5GbGplSFZFVW5RelJ6Qk9Oa1ptVEMxNVVXRXdXbWxLTUZKNmFHSTVPVFZEUW5acGRHRndXVEZtZEZwVVMyWnZSM0l6UVU1NFZXOUNNM1ZWVkZSRlRUQktRVmhRYUVGeU4xWkhNVGxoVUZWaWR4SVhaR2hEYW1GMlptTkdabE0zTlU5VlVEWmZNMDh3VVhNYUlrRkVjM0k1WmxOcWJtMUNlVlV6UjBoT1MyNTFUMVJyYmxZNFNsaFRXVzFhWjJjIiwiZmN2IjoiMyIsImVpIjoiZGhDamF2ZmNGZlM3NU9VUDZfM08wUXMiLCJxYyI6IkNoWnZjbWxuYVc0Z2FHbHdJR2h2Y0NCaFkyRmtaVzE1RUFCOWZySVhQdyIsInF1ZXN0aW9uIjoiSG93IG11Y2ggZG9lcyBoaXAtaG9wIGNvc3Q/IiwibGsiOiJHaHBvYjNjZ2JYVmphQ0JrYjJWeklHaHBjQ0JvYjNBZ1kyOXpkQSIsImJzIjoiYzRXT3NRckNNQkJBY2MwazRoUTdIQ0xxNGhJRUI0Y3NEanAzY0pUUXBNM1JtaXRKeE44M3RiU0NDSTdIZV9mdTJJMGRydFo0QTRWeWNJRVNuUWFMN2M1U0MwV2pRakFCU3ZKUW93NkFEdktrbmRCVUpNV0tMNU1KUDgyUU5OMXBiTS15X29ER1Q1azhWdWhVTkZMTS1XeWMza0lYWkVlMk9OTVQ3b19DZ3FaVUhuLWlFS1hJT0xmZkdBYk1jcmJwbGh0eVZVOHhRbFMxZ1VqUUdPWGRVSk5peTlmMnI5cVZwNU1YIiwiaWQiOiJmY19kaENqYXZmY0ZmUzc1T1VQNl8zTzBRc181In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGF6ZHdSa0ZSWkRnME5GbGplSFZFVW5RelJ6Qk9Oa1ptVEMxNVVXRXdXbWxLTUZKNmFHSTVPVFZEUW5acGRHRndXVEZtZEZwVVMyWnZSM0l6UVU1NFZXOUNNM1ZWVkZSRlRUQktRVmhRYUVGeU4xWkhNVGxoVUZWaWR4SVhaR2hEYW1GMlptTkdabE0zTlU5VlVEWmZNMDh3VVhNYUlrRkVjM0k1WmxOcWJtMUNlVlV6UjBoT1MyNTFUMVJyYmxZNFNsaFRXVzFhWjJjIiwiZmN2IjoiMyIsImVpIjoiZGhDamF2ZmNGZlM3NU9VUDZfM08wUXMiLCJxYyI6IkNoWnZjbWxuYVc0Z2FHbHdJR2h2Y0NCaFkyRmtaVzE1RUFCOWZySVhQdyIsInF1ZXN0aW9uIjoiSG93IG11Y2ggZG9lcyBoaXAtaG9wIGNvc3Q%2FIiwibGsiOiJHaHBvYjNjZ2JYVmphQ0JrYjJWeklHaHBjQ0JvYjNBZ1kyOXpkQSIsImJzIjoiYzRXT3NRckNNQkJBY2MwazRoUTdIQ0xxNGhJRUI0Y3NEanAzY0pUUXBNM1JtaXRKeE44M3RiU0NDSTdIZV9mdTJJMGRydFo0QTRWeWNJRVNuUWFMN2M1U0MwV2pRakFCU3ZKUW93NkFEdktrbmRCVUpNV0tMNU1KUDgyUU5OMXBiTS15X29ER1Q1azhWdWhVTkZMTS1XeWMza0lYWkVlMk9OTVQ3b19DZ3FaVUhuLWlFS1hJT0xmZkdBYk1jcmJwbGh0eVZVOHhRbFMxZ1VqUUdPWGRVSk5peTlmMnI5cVZwNU1YIiwiaWQiOiJmY19kaENqYXZmY0ZmUzc1T1VQNl8zTzBRc181In0%3D"
+  },
+  {
+   "question": "How long does it take to learn hip-hop?",
+   "type": "ai_overview",
+   "page_token": "GE35LXicHdDbboIwAADQ7Gd8nLReNk3MEqR4G1UKLdKXBVsRoQW8DLBv-5d91b5my_7g5Hx9q3NZ_Dw12f1e36b9ftu2z6eqOqnjs6h0P7k9StEXiVKHRBTT8csYvKVihj5X9vyysn1a18whVqA42u4rQwfZdUvvKYvqgEIPBBbGOOKecGjLaT0WDD3e91xjY2chsyuS244P8U6UxERImUPJr3KhymRpA7JnEdMgo6r2JVznUSkRpjwmRca5IYwXMZRIplxLJZbrEX5YwIPd1kNqmLhkhPVkHuXC4BxvwgGuPYBaDrvr8WwNxdKFx4IsgqLbEdg1MWSNjEBDHXdAFyOCMlkkCF_iP2tscU2NACFgPlavJjQ2EV119ikxIleaoaoTrqsDQLIgtDeJIxlhsgmYVNSaeH7JEG97qWhmg97_5-wj1fdpfa1OvwkahGE",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=GE35LXicHdDbboIwAADQ7Gd8nLReNk3MEqR4G1UKLdKXBVsRoQW8DLBv-5d91b5my_7g5Hx9q3NZ_Dw12f1e36b9ftu2z6eqOqnjs6h0P7k9StEXiVKHRBTT8csYvKVihj5X9vyysn1a18whVqA42u4rQwfZdUvvKYvqgEIPBBbGOOKecGjLaT0WDD3e91xjY2chsyuS244P8U6UxERImUPJr3KhymRpA7JnEdMgo6r2JVznUSkRpjwmRca5IYwXMZRIplxLJZbrEX5YwIPd1kNqmLhkhPVkHuXC4BxvwgGuPYBaDrvr8WwNxdKFx4IsgqLbEdg1MWSNjEBDHXdAFyOCMlkkCF_iP2tscU2NACFgPlavJjQ2EV119ikxIleaoaoTrqsDQLIgtDeJIxlhsgmYVNSaeH7JEG97qWhmg97_5-wj1fdpfa1OvwkahGE",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGF6ZHdSa0ZSWkRnME5GbGplSFZFVW5RelJ6Qk9Oa1ptVEMxNVVXRXdXbWxLTUZKNmFHSTVPVFZEUW5acGRHRndXVEZtZEZwVVMyWnZSM0l6UVU1NFZXOUNNM1ZWVkZSRlRUQktRVmhRYUVGeU4xWkhNVGxoVUZWaWR4SVhaR2hEYW1GMlptTkdabE0zTlU5VlVEWmZNMDh3VVhNYUlrRkVjM0k1WmxOcWJtMUNlVlV6UjBoT1MyNTFUMVJyYmxZNFNsaFRXVzFhWjJjIiwiZmN2IjoiMyIsImVpIjoiZGhDamF2ZmNGZlM3NU9VUDZfM08wUXMiLCJxYyI6IkNoWnZjbWxuYVc0Z2FHbHdJR2h2Y0NCaFkyRmtaVzE1RUFCOWZySVhQdyIsInF1ZXN0aW9uIjoiSG93IGxvbmcgZG9lcyBpdCB0YWtlIHRvIGxlYXJuIGhpcC1ob3A/IiwibGsiOiJHaVpvYjNjZ2JHOXVaeUJrYjJWeklHbDBJSFJoYTJVZ2RHOGdiR1ZoY200Z2FHbHdJR2h2Y0EiLCJicyI6ImM0V09zUXJDTUJCQWNjMGs0aFE3SENMcTRoSUVCNGNzRGpwM2NKVFFwTTNSbWl0SnhOODN0YlNDQ0k3SGVfZnUySTBkcnRaNEE0VnljSUVTblFhTDdjNVNDMFdqUWpBQlN2SlFvdzZBRHZLa25kQlVKTVdLTDVNSlA4MlFOTjFwYk0teV9vREdUNWs4VnVoVU5GTE0tV3ljM2tJWFpFZTJPTk1UN29fQ2dxWlVIbi1pRUtYSU9MZmZHQWJNY3JicGxodHlWVTh4UWxTMWdValFHT1hkVUpOaXk5ZjJyOXFWcDVNWCIsImlkIjoiZmNfZGhDamF2ZmNGZlM3NU9VUDZfM08wUXNfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGF6ZHdSa0ZSWkRnME5GbGplSFZFVW5RelJ6Qk9Oa1ptVEMxNVVXRXdXbWxLTUZKNmFHSTVPVFZEUW5acGRHRndXVEZtZEZwVVMyWnZSM0l6UVU1NFZXOUNNM1ZWVkZSRlRUQktRVmhRYUVGeU4xWkhNVGxoVUZWaWR4SVhaR2hEYW1GMlptTkdabE0zTlU5VlVEWmZNMDh3VVhNYUlrRkVjM0k1WmxOcWJtMUNlVlV6UjBoT1MyNTFUMVJyYmxZNFNsaFRXVzFhWjJjIiwiZmN2IjoiMyIsImVpIjoiZGhDamF2ZmNGZlM3NU9VUDZfM08wUXMiLCJxYyI6IkNoWnZjbWxuYVc0Z2FHbHdJR2h2Y0NCaFkyRmtaVzE1RUFCOWZySVhQdyIsInF1ZXN0aW9uIjoiSG93IGxvbmcgZG9lcyBpdCB0YWtlIHRvIGxlYXJuIGhpcC1ob3A%2FIiwibGsiOiJHaVpvYjNjZ2JHOXVaeUJrYjJWeklHbDBJSFJoYTJVZ2RHOGdiR1ZoY200Z2FHbHdJR2h2Y0EiLCJicyI6ImM0V09zUXJDTUJCQWNjMGs0aFE3SENMcTRoSUVCNGNzRGpwM2NKVFFwTTNSbWl0SnhOODN0YlNDQ0k3SGVfZnUySTBkcnRaNEE0VnljSUVTblFhTDdjNVNDMFdqUWpBQlN2SlFvdzZBRHZLa25kQlVKTVdLTDVNSlA4MlFOTjFwYk0teV9vREdUNWs4VnVoVU5GTE0tV3ljM2tJWFpFZTJPTk1UN29fQ2dxWlVIbi1pRUtYSU9MZmZHQWJNY3JicGxodHlWVTh4UWxTMWdValFHT1hkVUpOaXk5ZjJyOXFWcDVNWCIsImlkIjoiZmNfZGhDamF2ZmNGZlM3NU9VUDZfM08wUXNfNSJ9"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "The Origin Hip Hop Performing Arts Academy: Home Page",
+   "link": "https://originhhpaa.com/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUAHrOzAV3tSyjZ4CvlgLyICSGR9BepuGguRcxo1BTqdRObhFiiPdV8onFm-cLTzcTnaTZCrLAbHs1Du-Iw7wx48bhyJDEFx356jHLR3y9iRy&ved=2ahUKEwj378fP6uSWAxX0HbkGHeu-M7oQFnoECBIQAQ&uoh=1",
+   "displayed_link": "https://originhhpaa.com",
+   "favicon": "https://serpapi.com/images/i/UklGRmQBAABXRUJQVlA4IFgBAAAQBgCdASocABwAPtE-tFooIigoFAEAGglsALEUgMcz3kt8c50scbY0DdStUG9m8_q_Kz8g-OnX1AAA_vYE86PwH_yfNV1xBKDdMRucnG33eX1OEA51r-1u8-dxtjBINo8EfUop2vDY7_UGVki10vQznvPZLW6CcAy0mh91pzMxLuJeyf-doVhv-R6rR8jfFTQn2WZ7B_0pMLvRgQm3vu9_Ohi-fM3A1a9x4Z8HPhq4e5gJA27UGVn2UQx6lXfyc0Omj7ozGg_399OPmaqFXyVvrTnyBh5Qf2xZYA0kX-KWj_GrXOi7L1By0bARy6vXyzHo5hD7F_6Ypmruv19uDIYbstWGHK1G5C7euc5fj6svZFlCDq_zJ2FBb3k-vwle_MrBGHMq8E1881__A-x6vqlbbROupf9aYecoq95h1vSi6YtOI3aYblWxzvTfIBfu_bTzbQL35LYAAA.webp",
+   "snippet": "Main Hub: The Origin Hip Hop Academy North County. 2525 El Camino Real ... Studio 2 The Origin Hip Hop Academy East County. 5282 Baltimore Drive La Mesa ...",
+   "snippet_highlighted_words": [
+    "Origin Hip Hop Academy",
+    "Origin Hip Hop Academy"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "Contact Us",
+      "link": "https://originhhpaa.com/contact/",
+      "snippet": "Main Hub: The Origin Hip Hop Academy North County. 2525 El ..."
+     },
+     {
+      "title": "Our Team",
+      "link": "https://originhhpaa.com/our-team/",
+      "snippet": "Her styles of expertise include Hip-Hop, Jazz Funk, Street Jazz ..."
+     },
+     {
+      "title": "Class Schedule",
+      "link": "https://originhhpaa.com/class-schedule/",
+      "snippet": "The Full Experience is the official entry pathway into The Origin ..."
+     },
+     {
+      "title": "Party and Event Hosting",
+      "link": "https://originhhpaa.com/party-and-event-hosting/",
+      "snippet": "Celebrate your special day with music, dancing, games, and ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Main Hub: The Origin Hip Hop Academy North County. 2525 El Camino Real ... Studio 2 The Origin Hip Hop Academy East County. 5282 Baltimore Drive La Mesa ...",
+     "source_info_link": "https://originhhpaa.com/",
+     "icon": "https://serpapi.com/images/i/UklGRmQBAABXRUJQVlA4IFgBAAAQBgCdASocABwAPtE-tFooIigoFAEAGglsALEUgMcz3kt8c50scbY0DdStUG9m8_q_Kz8g-OnX1AAA_vYE86PwH_yfNV1xBKDdMRucnG33eX1OEA51r-1u8-dxtjBINo8EfUop2vDY7_UGVki10vQznvPZLW6CcAy0mh91pzMxLuJeyf-doVhv-R6rR8jfFTQn2WZ7B_0pMLvRgQm3vu9_Ohi-fM3A1a9x4Z8HPhq4e5gJA27UGVn2UQx6lXfyc0Omj7ozGg_399OPmaqFXyVvrTnyBh5Qf2xZYA0kX-KWj_GrXOi7L1By0bARy6vXyzHo5hD7F_6Ypmruv19uDIYbstWGHK1G5C7euc5fj6svZFlCDq_zJ2FBb3k-vwle_MrBGHMq8E1881__A-x6vqlbbROupf9aYecoq95h1vSi6YtOI3aYblWxzvTfIBfu_bTzbQL35LYAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESUAHrOzAV3tSyjZ4CvlgLyICSGR9BepuGguRcxo1BTqdRObhFiiPdV8onFm-cLTzcTnaTZCrLAbHs1Du-Iw7wx48bhyJDEFx356jHLR3y9iRy&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESUAHrOzAV3tSyjZ4CvlgLyICSGR9BepuGguRcxo1BTqdRObhFiiPdV8onFm-cLTzcTnaTZCrLAbHs1Du-Iw7wx48bhyJDEFx356jHLR3y9iRy",
+   "source": "The Origin Hip Hop Performing Arts Academy"
+  },
+  {
+   "position": 2,
+   "title": "The Origin Hip Hop Performing Arts Academy",
+   "link": "https://www.yelp.com/biz/the-origin-hip-hop-performing-arts-academy-la-mesa-2",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShQEB6zswFQawo3VqupJpV4aXR0aQYHGadHpZOlcLOvd4aRYDQetzZ-je4pQWBFY9TLvXw4bCqYOs3SDEwOOktK4Mi4X5B9sBIsQ44g59ERbkbQZSh5Rxq-0qRjC4TPzQOC5GuRzE_G7Ok-2hz9nzUDSG1vKdr2xK00LiH8_Cafde8RqqpIy7&ved=2ahUKEwj378fP6uSWAxX0HbkGHeu-M7oQFnoECA4QAQ&uoh=1",
+   "displayed_link": "https://www.yelp.com \u203a ... \u203a Performing Arts",
+   "favicon": "https://serpapi.com/images/i/UklGRrABAABXRUJQVlA4IKQBAAAQCgCdASogACAAPrkurlcnIacnG_DgFwlsAJ0y7PyVoDbX_pnpgH-d6gDn0fY38jPAArVNoCrAlaPcgw9_NjrSLYDCki6HiaAYVj36NR_DgRtjmp6VzqLnAAD-9-_HVtEfZf1k5Fu5sOhI2730sfPBf_CG_gY7IjdRHgorclQN_UG5FGoT7nVAd5YwzrWsxH6TLxXCUq25cpJOT9z4h4CPS6djcg5y73xYO-MEdL5cmcD11oqlxpeUGrqvbq4UPXtKdespQXJb7V__FwiO42L4KCCpbG2JTSjKGoiWQ0R_KVZ3BS_P7vCXle1a3EM-Jy_Wd1KLIP7ksgtn7CFrwo3uYnAuucwyBN7n99OZNEeORetd5CcQppI2BuvU9UHgrzSFfAr9K9bl1C3aK0jdaqBhzHMfSa2nmKdWaae9fbEZIn9rcXQM_vzXw35X-i18LrAcA4uanHTpWKV416dVDFlmH6zJvcyipDEO-BFNQSfuLsAoa1S8UxXymJGxhbWVTBjsCAgl1zi98k2jrESorHzHlvvRHIUVkuNO4hqk0bPO5cfAAAA.webp",
+   "snippet": "... Origin Hip Hop Academy and are so thankful for this dance academy. \u200bThis is a family owned business and every owner/family member I have spoken to is kind ...",
+   "snippet_highlighted_words": [
+    "Origin Hip Hop Academy"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "... Origin Hip Hop Academy and are so thankful for this dance academy. \u200bThis is a family owned business and every owner/family member I have spoken to is kind ...",
+     "source_info_link": "https://www.yelp.com/biz/the-origin-hip-hop-performing-arts-academy-la-mesa-2",
+     "icon": "https://serpapi.com/images/i/UklGRrABAABXRUJQVlA4IKQBAAAQCgCdASogACAAPrkurlcnIacnG_DgFwlsAJ0y7PyVoDbX_pnpgH-d6gDn0fY38jPAArVNoCrAlaPcgw9_NjrSLYDCki6HiaAYVj36NR_DgRtjmp6VzqLnAAD-9-_HVtEfZf1k5Fu5sOhI2730sfPBf_CG_gY7IjdRHgorclQN_UG5FGoT7nVAd5YwzrWsxH6TLxXCUq25cpJOT9z4h4CPS6djcg5y73xYO-MEdL5cmcD11oqlxpeUGrqvbq4UPXtKdespQXJb7V__FwiO42L4KCCpbG2JTSjKGoiWQ0R_KVZ3BS_P7vCXle1a3EM-Jy_Wd1KLIP7ksgtn7CFrwo3uYnAuucwyBN7n99OZNEeORetd5CcQppI2BuvU9UHgrzSFfAr9K9bl1C3aK0jdaqBhzHMfSa2nmKdWaae9fbEZIn9rcXQM_vzXw35X-i18LrAcA4uanHTpWKV416dVDFlmH6zJvcyipDEO-BFNQSfuLsAoa1S8UxXymJGxhbWVTBjsCAgl1zi98k2jrESorHzHlvvRHIUVkuNO4hqk0bPO5cfAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEShQEB6zswFQawo3VqupJpV4aXR0aQYHGadHpZOlcLOvd4aRYDQetzZ-je4pQWBFY9TLvXw4bCqYOs3SDEwOOktK4Mi4X5B9sBIsQ44g59ERbkbQZSh5Rxq-0qRjC4TPzQOC5GuRzE_G7Ok-2hz9nzUDSG1vKdr2xK00LiH8_Cafde8RqqpIy7&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEShQEB6zswFQawo3VqupJpV4aXR0aQYHGadHpZOlcLOvd4aRYDQetzZ-je4pQWBFY9TLvXw4bCqYOs3SDEwOOktK4Mi4X5B9sBIsQ44g59ERbkbQZSh5Rxq-0qRjC4TPzQOC5GuRzE_G7Ok-2hz9nzUDSG1vKdr2xK00LiH8_Cafde8RqqpIy7",
+   "source": "Yelp",
+   "read_more_link": "https://www.yelp.com/biz/the-origin-hip-hop-performing-arts-academy-la-mesa-2#:~:text=We%20are%20new%20to%20the,family%20owned%20business%20and%20every"
+  },
+  {
+   "position": 3,
+   "title": "THE ORIGIN HIP HOP ACADEMY",
+   "link": "https://www.yelp.com/biz/the-origin-hip-hop-academy-carlsbad",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHrOzAVeHWkzVLiI8ULPn0nDWRx4NY05SQ-OOEYhQDUVPgUvJgw-HSvHQXyLtkwOEmkfZEwI9QTNO_pCyp9tgLuR7LzUF8i8jlfUxKtCpsOkSq5zibOsHLKvgsOhDkleC4Qrp0L5mTbZv9gYkck7OhmrC5Z&ved=2ahUKEwj378fP6uSWAxX0HbkGHeu-M7oQFnoECAoQAQ&uoh=1",
+   "displayed_link": "https://www.yelp.com \u203a ... \u203a Performing Arts",
+   "favicon": "https://serpapi.com/images/i/UklGRrABAABXRUJQVlA4IKQBAAAQCgCdASogACAAPrkurlcnIacnG_DgFwlsAJ0y7PyVoDbX_pnpgH-d6gDn0fY38jPAArVNoCrAlaPcgw9_NjrSLYDCki6HiaAYVj36NR_DgRtjmp6VzqLnAAD-9-_HVtEfZf1k5Fu5sOhI2730sfPBf_CG_gY7IjdRHgorclQN_UG5FGoT7nVAd5YwzrWsxH6TLxXCUq25cpJOT9z4h4CPS6djcg5y73xYO-MEdL5cmcD11oqlxpeUGrqvbq4UPXtKdespQXJb7V__FwiO42L4KCCpbG2JTSjKGoiWQ0R_KVZ3BS_P7vCXle1a3EM-Jy_Wd1KLIP7ksgtn7CFrwo3uYnAuucwyBN7n99OZNEeORetd5CcQppI2BuvU9UHgrzSFfAr9K9bl1C3aK0jdaqBhzHMfSa2nmKdWaae9fbEZIn9rcXQM_vzXw35X-i18LrAcA4uanHTpWKV416dVDFlmH6zJvcyipDEO-BFNQSfuLsAoa1S8UxXymJGxhbWVTBjsCAgl1zi98k2jrESorHzHlvvRHIUVkuNO4hqk0bPO5cfAAAA.webp",
+   "snippet": "The Origin Hip Hop Academy opens at 7:00 AM on Monday, Tuesday, Wednesday, Thursday, Friday and Sunday.The Origin Hip Hop Academy opens at 9:00 AM on Saturday.",
+   "snippet_highlighted_words": [
+    "Origin Hip Hop Academy",
+    "Origin Hip Hop Academy"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The Origin Hip Hop Academy opens at 7:00 AM on Monday, Tuesday, Wednesday, Thursday, Friday and Sunday.The Origin Hip Hop Academy opens at 9:00 AM on Saturday.",
+     "source_info_link": "https://www.yelp.com/biz/the-origin-hip-hop-academy-carlsbad",
+     "icon": "https://serpapi.com/images/i/UklGRrABAABXRUJQVlA4IKQBAAAQCgCdASogACAAPrkurlcnIacnG_DgFwlsAJ0y7PyVoDbX_pnpgH-d6gDn0fY38jPAArVNoCrAlaPcgw9_NjrSLYDCki6HiaAYVj36NR_DgRtjmp6VzqLnAAD-9-_HVtEfZf1k5Fu5sOhI2730sfPBf_CG_gY7IjdRHgorclQN_UG5FGoT7nVAd5YwzrWsxH6TLxXCUq25cpJOT9z4h4CPS6djcg5y73xYO-MEdL5cmcD11oqlxpeUGrqvbq4UPXtKdespQXJb7V__FwiO42L4KCCpbG2JTSjKGoiWQ0R_KVZ3BS_P7vCXle1a3EM-Jy_Wd1KLIP7ksgtn7CFrwo3uYnAuucwyBN7n99OZNEeORetd5CcQppI2BuvU9UHgrzSFfAr9K9bl1C3aK0jdaqBhzHMfSa2nmKdWaae9fbEZIn9rcXQM_vzXw35X-i18LrAcA4uanHTpWKV416dVDFlmH6zJvcyipDEO-BFNQSfuLsAoa1S8UxXymJGxhbWVTBjsCAgl1zi98k2jrESorHzHlvvRHIUVkuNO4hqk0bPO5cfAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdAHrOzAVeHWkzVLiI8ULPn0nDWRx4NY05SQ-OOEYhQDUVPgUvJgw-HSvHQXyLtkwOEmkfZEwI9QTNO_pCyp9tgLuR7LzUF8i8jlfUxKtCpsOkSq5zibOsHLKvgsOhDkleC4Qrp0L5mTbZv9gYkck7OhmrC5Z&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdAHrOzAVeHWkzVLiI8ULPn0nDWRx4NY05SQ-OOEYhQDUVPgUvJgw-HSvHQXyLtkwOEmkfZEwI9QTNO_pCyp9tgLuR7LzUF8i8jlfUxKtCpsOkSq5zibOsHLKvgsOhDkleC4Qrp0L5mTbZv9gYkck7OhmrC5Z",
+   "source": "Yelp",
+   "read_more_link": "https://www.yelp.com/biz/the-origin-hip-hop-academy-carlsbad#:~:text=Payment%20methods"
+  },
+  {
+   "position": 4,
+   "title": "The Origin Hip Hop Performing Arts Academy | Carlsbad CA",
+   "link": "https://www.facebook.com/originhiphop/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXgHrOzAV2TEKZMBbUHB4LoclvSfIRC9VdD35Jansmo378gdKJndgznA4mU1PpI4twAhYonIcKW9vtBG4-piBz23QdBywUHF2c-iKaohYeF6Ask1AF8z6HMXz6LUwqSM&ved=2ahUKEwj378fP6uSWAxX0HbkGHeu-M7oQFnoECAwQAQ&uoh=1",
+   "displayed_link": "5.2K+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "snippet": "The Origin Hip-Hop Academy is holding make-up auditions for all dance divisions \u2014 from youth to adults and even OGs! Crews & Age Divisions: OC-Genesis: Ages ...",
+   "snippet_highlighted_words": [
+    "Origin Hip-Hop Academy"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The Origin Hip-Hop Academy is holding make-up auditions for all dance divisions \u2014 from youth to adults and even OGs! Crews & Age Divisions: OC-Genesis: Ages ...",
+     "source_info_link": "https://www.facebook.com/originhiphop/",
+     "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESXgHrOzAV2TEKZMBbUHB4LoclvSfIRC9VdD35Jansmo378gdKJndgznA4mU1PpI4twAhYonIcKW9vtBG4-piBz23QdBywUHF2c-iKaohYeF6Ask1AF8z6HMXz6LUwqSM&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESXgHrOzAV2TEKZMBbUHB4LoclvSfIRC9VdD35Jansmo378gdKJndgznA4mU1PpI4twAhYonIcKW9vtBG4-piBz23QdBywUHF2c-iKaohYeF6Ask1AF8z6HMXz6LUwqSM",
+   "source": "Facebook \u00b7 The Origin Hip Hop Performing Arts Academy",
+   "read_more_link": "https://www.facebook.com/originhiphop/#:~:text=The%20Origin%20Hip%2DHop%20Academy%20is,Crew%3A%20Ages%2013%E2%80%9317%20%F0%9F%94%B4%20NEW!"
+  },
+  {
+   "position": 5,
+   "title": "Weekly Dance for All Ages by The Origin Hip Hop Performing ...",
+   "link": "https://www.activityhero.com/biz/the-origin-hip-hop-performing-arts-academy/evening-and-weekend-dance-classes",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpQEB6zswFeOqNMOEXZ7B62mMT-H_8hxkkcwcJ5aUkndLZ6HgyTyOxsTpsu9QjhSbFufSJEYF4qGPPMVHgFAgAHF9MmeONGPkv48DazMjM0yR67y_taoJE3Ub6qxPj0A0Flo2RrFm4qAuw6t7A3JYTUWTnxybciKa3MwgSuem75sLvlmyRUzQcgbPjjRak7ZoYMn-98DJQbgzXlzuytZZrvGfj2SYrH4&ved=2ahUKEwj378fP6uSWAxX0HbkGHeu-M7oQFnoECAsQAQ&uoh=1",
+   "displayed_link": "https://www.activityhero.com \u203a biz \u203a evening-and-week...",
+   "favicon": "https://serpapi.com/images/i/UklGRuQAAABXRUJQVlA4INgAAADQBQCdASocABwAPtFAtFooIqgoFAEAGglsAJ0yhHA3gHDjWmBEUhMygVJrzzjiTorko90hXLOAAPxS27RtrwJFxbN-BBlg0GL8mo_jy6bz6jrfR7-JSDFrDr_vuWjG_WmOSiJEP_nM0lJqsO3NPzQCjJQts5WEB7JDJu-fO1PWyu_XNqSyaf2NrJUTNInzl1mrg9h3K6SHHTg4ua01bIWREBQF109t90VPDNBc2xyeoyn1dw0efP0pQc4UxMYW24yR76xSNDfxd5D__6WdJ389FdF4PcsAAAA.webp",
+   "snippet": "The Origin Hip Hop Academy! We are now franchise owners of Parker Anderson Enrichment Programs. Along with our Visual and Performing Arts programming we ...",
+   "snippet_highlighted_words": [
+    "Origin Hip Hop Academy"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The Origin Hip Hop Academy! We are now franchise owners of Parker Anderson Enrichment Programs. Along with our Visual and Performing Arts programming we ...",
+     "source_info_link": "https://www.activityhero.com/biz/the-origin-hip-hop-performing-arts-academy/evening-and-weekend-dance-classes",
+     "icon": "https://serpapi.com/images/i/UklGRuQAAABXRUJQVlA4INgAAADQBQCdASocABwAPtFAtFooIqgoFAEAGglsAJ0yhHA3gHDjWmBEUhMygVJrzzjiTorko90hXLOAAPxS27RtrwJFxbN-BBlg0GL8mo_jy6bz6jrfR7-JSDFrDr_vuWjG_WmOSiJEP_nM0lJqsO3NPzQCjJQts5WEB7JDJu-fO1PWyu_XNqSyaf2NrJUTNInzl1mrg9h3K6SHHTg4ua01bIWREBQF109t90VPDNBc2xyeoyn1dw0efP0pQc4UxMYW24yR76xSNDfxd5D__6WdJ389FdF4PcsAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESpQEB6zswFeOqNMOEXZ7B62mMT-H_8hxkkcwcJ5aUkndLZ6HgyTyOxsTpsu9QjhSbFufSJEYF4qGPPMVHgFAgAHF9MmeONGPkv48DazMjM0yR67y_taoJE3Ub6qxPj0A0Flo2RrFm4qAuw6t7A3JYTUWTnxybciKa3MwgSuem75sLvlmyRUzQcgbPjjRak7ZoYMn-98DJQbgzXlzuytZZrvGfj2SYrH4&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESpQEB6zswFeOqNMOEXZ7B62mMT-H_8hxkkcwcJ5aUkndLZ6HgyTyOxsTpsu9QjhSbFufSJEYF4qGPPMVHgFAgAHF9MmeONGPkv48DazMjM0yR67y_taoJE3Ub6qxPj0A0Flo2RrFm4qAuw6t7A3JYTUWTnxybciKa3MwgSuem75sLvlmyRUzQcgbPjjRak7ZoYMn-98DJQbgzXlzuytZZrvGfj2SYrH4",
+   "source": "Activity Hero"
+  },
+  {
+   "position": 6,
+   "title": "The Origin Hip Hop Performing Arts Academy",
+   "link": "https://ah-preprod.herokuapp.com/biz/the-origin-hip-hop-performing-arts-academy",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShwEB6zswFWr4vP62Jm4onJG1-pWV1Gf_di7-jaGrS8aNhJIoJmrpdZvsg6w2zn0YksWKZd3D_nFCscS3cp0wr2pH-iqj_aHcK2LeoaoNnc0FS8pII85o0LqD-QMCAsQI6tI-DmypGqH10jTfdbONkkVWI0dBDTw2yKFanBsTkSIzavPyrNsCv_0&ved=2ahUKEwj378fP6uSWAxX0HbkGHeu-M7oQFnoECA0QAQ&uoh=1",
+   "displayed_link": "https://ah-preprod.herokuapp.com \u203a biz \u203a the-origin-hi...",
+   "favicon": "https://serpapi.com/images/i/UklGRuQAAABXRUJQVlA4INgAAADQBQCdASocABwAPtFAtFooIqgoFAEAGglsAJ0yhHA3gHDjWmBEUhMygVJrzzjiTorko90hXLOAAPxS27RtrwJFxbN-BBlg0GL8mo_jy6bz6jrfR7-JSDFrDr_vuWjG_WmOSiJEP_nM0lJqsO3NPzQCjJQts5WEB7JDJu-fO1PWyu_XNqSyaf2NrJUTNInzl1mrg9h3K6SHHTg4ua01bIWREBQF109t90VPDNBc2xyeoyn1dw0efP0pQc4UxMYW24yR76xSNDfxd5D__6WdJ389FdF4PcsAAAA.webp",
+   "snippet": "The Origin Hip Hop Academy! We are now franchise owners of Parker Anderson Enrichment Programs. Along with our Visual and Performing Arts programming we will be ...",
+   "snippet_highlighted_words": [
+    "Origin Hip Hop Academy"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The Origin Hip Hop Academy! We are now franchise owners of Parker Anderson Enrichment Programs. Along with our Visual and Performing Arts programming we will be ...",
+     "source_info_link": "https://ah-preprod.herokuapp.com/biz/the-origin-hip-hop-performing-arts-academy",
+     "icon": "https://serpapi.com/images/i/UklGRuQAAABXRUJQVlA4INgAAADQBQCdASocABwAPtFAtFooIqgoFAEAGglsAJ0yhHA3gHDjWmBEUhMygVJrzzjiTorko90hXLOAAPxS27RtrwJFxbN-BBlg0GL8mo_jy6bz6jrfR7-JSDFrDr_vuWjG_WmOSiJEP_nM0lJqsO3NPzQCjJQts5WEB7JDJu-fO1PWyu_XNqSyaf2NrJUTNInzl1mrg9h3K6SHHTg4ua01bIWREBQF109t90VPDNBc2xyeoyn1dw0efP0pQc4UxMYW24yR76xSNDfxd5D__6WdJ389FdF4PcsAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEShwEB6zswFWr4vP62Jm4onJG1-pWV1Gf_di7-jaGrS8aNhJIoJmrpdZvsg6w2zn0YksWKZd3D_nFCscS3cp0wr2pH-iqj_aHcK2LeoaoNnc0FS8pII85o0LqD-QMCAsQI6tI-DmypGqH10jTfdbONkkVWI0dBDTw2yKFanBsTkSIzavPyrNsCv_0&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEShwEB6zswFWr4vP62Jm4onJG1-pWV1Gf_di7-jaGrS8aNhJIoJmrpdZvsg6w2zn0YksWKZd3D_nFCscS3cp0wr2pH-iqj_aHcK2LeoaoNnc0FS8pII85o0LqD-QMCAsQI6tI-DmypGqH10jTfdbONkkVWI0dBDTw2yKFanBsTkSIzavPyrNsCv_0",
+   "source": "Heroku"
+  },
+  {
+   "position": 7,
+   "title": "The Origin Hip Hop Academy and sister School ...",
+   "link": "https://thehollywoodchristmasparade.org/band-and-pageantry/the-origin-hip-hop-academy-and-sister-school-hip-hop-dreamz/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrwEB6zswFTOi6qi-CFGgiLt1_lkXxKYKig6DmmJFZHKYb-rT_PA399h6Hq9ZNx8PG2IZIv5CX4PPj_J_sAnvPkD5ySBvOaxg-4Bx_XL-SJiJD3Zi7bQ_d3wuLfdKn10EeQ-vFs7C-MwCG8zYNDfSLkEoQUNKAC2usY1gE5zWEP0MphsLRYNyzavhPSp_0lFPudkIf9QtkoqEtHF_MlGJ7MP7xWmy5rWue9VOBbXaZqps&ved=2ahUKEwj378fP6uSWAxX0HbkGHeu-M7oQFnoFCIYBEAE&uoh=1",
+   "displayed_link": "https://thehollywoodchristmasparade.org \u203a the-origin-hi...",
+   "favicon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAABQBACdASocABIAPtE-tFooIigoFAEAGgljALboqcGEgPd6Df6D3g_nw_GAAP72B-DStIJps6Nv88VefS2yoCW2eSqPAIBn8ebA6k2CL9wyhHFO9lZQjo2uSo0h0qR12uxixw6wj_T4q0BDzOYAJG-9vEgDTXq7DqE8P4fHh_12YMhr9KAAAA.webp",
+   "snippet": "The Origin Hip Hop Academy and sister School Hip Hop Dreamz is an Award winning Dance school out of San Diego! The Origin is dedicated to promoting the ...",
+   "snippet_highlighted_words": [
+    "Origin Hip Hop Academy"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The Origin Hip Hop Academy and sister School Hip Hop Dreamz is an Award winning Dance school out of San Diego! The Origin is dedicated to promoting the ...",
+     "source_info_link": "https://thehollywoodchristmasparade.org/band-and-pageantry/the-origin-hip-hop-academy-and-sister-school-hip-hop-dreamz/",
+     "icon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAABQBACdASocABIAPtE-tFooIigoFAEAGgljALboqcGEgPd6Df6D3g_nw_GAAP72B-DStIJps6Nv88VefS2yoCW2eSqPAIBn8ebA6k2CL9wyhHFO9lZQjo2uSo0h0qR12uxixw6wj_T4q0BDzOYAJG-9vEgDTXq7DqE8P4fHh_12YMhr9KAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESrwEB6zswFTOi6qi-CFGgiLt1_lkXxKYKig6DmmJFZHKYb-rT_PA399h6Hq9ZNx8PG2IZIv5CX4PPj_J_sAnvPkD5ySBvOaxg-4Bx_XL-SJiJD3Zi7bQ_d3wuLfdKn10EeQ-vFs7C-MwCG8zYNDfSLkEoQUNKAC2usY1gE5zWEP0MphsLRYNyzavhPSp_0lFPudkIf9QtkoqEtHF_MlGJ7MP7xWmy5rWue9VOBbXaZqps&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESrwEB6zswFTOi6qi-CFGgiLt1_lkXxKYKig6DmmJFZHKYb-rT_PA399h6Hq9ZNx8PG2IZIv5CX4PPj_J_sAnvPkD5ySBvOaxg-4Bx_XL-SJiJD3Zi7bQ_d3wuLfdKn10EeQ-vFs7C-MwCG8zYNDfSLkEoQUNKAC2usY1gE5zWEP0MphsLRYNyzavhPSp_0lFPudkIf9QtkoqEtHF_MlGJ7MP7xWmy5rWue9VOBbXaZqps",
+   "source": "The Hollywood Christmas Parade",
+   "read_more_link": "https://thehollywoodchristmasparade.org/band-and-pageantry/the-origin-hip-hop-academy-and-sister-school-hip-hop-dreamz/#:~:text=The%20Origin%20Hip%20Hop%20Academy,to%20their%20community%20and%20beyond."
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Origin hip hop academy reviews",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvNwK9yMJ_NTBJQCPTubxN6AvxLgA:1789071478364&q=Origin+hip+hop+academy+reviews&sa=X&ved=2ahUKEwj378fP6uSWAxX0HbkGHeu-M7oQ1QJ6BAh-EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Origin+hip+hop+academy+reviews"
+  },
+  {
+   "block_position": 1,
+   "query": "The Origin Hip Hop Academy La Mesa",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvNwK9yMJ_NTBJQCPTubxN6AvxLgA:1789071478364&q=The+Origin+Hip+Hop+Academy+La+Mesa&sa=X&ved=2ahUKEwj378fP6uSWAxX0HbkGHeu-M7oQ1QJ6BQiFARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=The+Origin+Hip+Hop+Academy+La+Mesa"
+  },
+  {
+   "block_position": 1,
+   "query": "Origin hip hop academy photos",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvNwK9yMJ_NTBJQCPTubxN6AvxLgA:1789071478364&q=Origin+hip+hop+academy+photos&sa=X&ved=2ahUKEwj378fP6uSWAxX0HbkGHeu-M7oQ1QJ6BQiEARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Origin+hip+hop+academy+photos"
+  },
+  {
+   "block_position": 1,
+   "query": "Hip hop dance classes san diego adults",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvNwK9yMJ_NTBJQCPTubxN6AvxLgA:1789071478364&q=Hip+hop+dance+classes+san+diego+adults&sa=X&ved=2ahUKEwj378fP6uSWAxX0HbkGHeu-M7oQ1QJ6BQiCARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Hip+hop+dance+classes+san+diego+adults"
+  },
+  {
+   "block_position": 1,
+   "query": "Hip hop dance classes San Diego kids",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvNwK9yMJ_NTBJQCPTubxN6AvxLgA:1789071478364&q=Hip+hop+dance+classes+San+Diego+kids&sa=X&ved=2ahUKEwj378fP6uSWAxX0HbkGHeu-M7oQ1QJ6BQiBARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Hip+hop+dance+classes+San+Diego+kids"
+  },
+  {
+   "block_position": 1,
+   "query": "Hip hop dance classes oceanside",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvNwK9yMJ_NTBJQCPTubxN6AvxLgA:1789071478364&q=Hip+hop+dance+classes+oceanside&sa=X&ved=2ahUKEwj378fP6uSWAxX0HbkGHeu-M7oQ1QJ6BQiAARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Hip+hop+dance+classes+oceanside"
+  },
+  {
+   "block_position": 1,
+   "query": "Hip hop dance Academy",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvNwK9yMJ_NTBJQCPTubxN6AvxLgA:1789071478364&q=Hip+hop+dance+Academy&sa=X&ved=2ahUKEwj378fP6uSWAxX0HbkGHeu-M7oQ1QJ6BQiDARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Hip+hop+dance+Academy"
+  },
+  {
+   "block_position": 1,
+   "query": "Origin hip hop photos",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvNwK9yMJ_NTBJQCPTubxN6AvxLgA:1789071478364&q=Origin+hip+hop+photos&sa=X&ved=2ahUKEwj378fP6uSWAxX0HbkGHeu-M7oQ1QJ6BAh_EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Origin+hip+hop+photos"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Origin+Hip+Hop+Academy%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvNwK9yMJ_NTBJQCPTubxN6AvxLgA:1789071478364&ei=dhCjavfcFfS75OUP6_3O0Qs&start=10&sa=N&sstk=AS6-VmIgZogf-LjpQmmASeI_sw9O9B656YIlU5j6rLE5vezZ0g0yb5FiKn3YKRo-NS9dPQ4YNobZyAQy6ZB9bHdAtCZ-1IqYI_F8jw&ved=2ahUKEwj378fP6uSWAxX0HbkGHeu-M7oQ8NMDegQIexAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Origin+Hip+Hop+Academy%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvNwK9yMJ_NTBJQCPTubxN6AvxLgA:1789071478364&ei=dhCjavfcFfS75OUP6_3O0Qs&start=10&sa=N&sstk=AS6-VmIgZogf-LjpQmmASeI_sw9O9B656YIlU5j6rLE5vezZ0g0yb5FiKn3YKRo-NS9dPQ4YNobZyAQy6ZB9bHdAtCZ-1IqYI_F8jw&ved=2ahUKEwj378fP6uSWAxX0HbkGHeu-M7oQ8tMDegQIexAE",
+   "3": "https://www.google.com/search?q=%22Origin+Hip+Hop+Academy%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvNwK9yMJ_NTBJQCPTubxN6AvxLgA:1789071478364&ei=dhCjavfcFfS75OUP6_3O0Qs&start=20&sa=N&sstk=AS6-VmIgZogf-LjpQmmASeI_sw9O9B656YIlU5j6rLE5vezZ0g0yb5FiKn3YKRo-NS9dPQ4YNobZyAQy6ZB9bHdAtCZ-1IqYI_F8jw&ved=2ahUKEwj378fP6uSWAxX0HbkGHeu-M7oQ8tMDegQIexAG",
+   "4": "https://www.google.com/search?q=%22Origin+Hip+Hop+Academy%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvNwK9yMJ_NTBJQCPTubxN6AvxLgA:1789071478364&ei=dhCjavfcFfS75OUP6_3O0Qs&start=30&sa=N&sstk=AS6-VmIgZogf-LjpQmmASeI_sw9O9B656YIlU5j6rLE5vezZ0g0yb5FiKn3YKRo-NS9dPQ4YNobZyAQy6ZB9bHdAtCZ-1IqYI_F8jw&ved=2ahUKEwj378fP6uSWAxX0HbkGHeu-M7oQ8tMDegQIexAI",
+   "5": "https://www.google.com/search?q=%22Origin+Hip+Hop+Academy%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvNwK9yMJ_NTBJQCPTubxN6AvxLgA:1789071478364&ei=dhCjavfcFfS75OUP6_3O0Qs&start=40&sa=N&sstk=AS6-VmIgZogf-LjpQmmASeI_sw9O9B656YIlU5j6rLE5vezZ0g0yb5FiKn3YKRo-NS9dPQ4YNobZyAQy6ZB9bHdAtCZ-1IqYI_F8jw&ved=2ahUKEwj378fP6uSWAxX0HbkGHeu-M7oQ8tMDegQIexAK",
+   "6": "https://www.google.com/search?q=%22Origin+Hip+Hop+Academy%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvNwK9yMJ_NTBJQCPTubxN6AvxLgA:1789071478364&ei=dhCjavfcFfS75OUP6_3O0Qs&start=50&sa=N&sstk=AS6-VmIgZogf-LjpQmmASeI_sw9O9B656YIlU5j6rLE5vezZ0g0yb5FiKn3YKRo-NS9dPQ4YNobZyAQy6ZB9bHdAtCZ-1IqYI_F8jw&ved=2ahUKEwj378fP6uSWAxX0HbkGHeu-M7oQ8tMDegQIexAM",
+   "7": "https://www.google.com/search?q=%22Origin+Hip+Hop+Academy%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvNwK9yMJ_NTBJQCPTubxN6AvxLgA:1789071478364&ei=dhCjavfcFfS75OUP6_3O0Qs&start=60&sa=N&sstk=AS6-VmIgZogf-LjpQmmASeI_sw9O9B656YIlU5j6rLE5vezZ0g0yb5FiKn3YKRo-NS9dPQ4YNobZyAQy6ZB9bHdAtCZ-1IqYI_F8jw&ved=2ahUKEwj378fP6uSWAxX0HbkGHeu-M7oQ8tMDegQIexAO",
+   "8": "https://www.google.com/search?q=%22Origin+Hip+Hop+Academy%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvNwK9yMJ_NTBJQCPTubxN6AvxLgA:1789071478364&ei=dhCjavfcFfS75OUP6_3O0Qs&start=70&sa=N&sstk=AS6-VmIgZogf-LjpQmmASeI_sw9O9B656YIlU5j6rLE5vezZ0g0yb5FiKn3YKRo-NS9dPQ4YNobZyAQy6ZB9bHdAtCZ-1IqYI_F8jw&ved=2ahUKEwj378fP6uSWAxX0HbkGHeu-M7oQ8tMDegQIexAQ",
+   "9": "https://www.google.com/search?q=%22Origin+Hip+Hop+Academy%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvNwK9yMJ_NTBJQCPTubxN6AvxLgA:1789071478364&ei=dhCjavfcFfS75OUP6_3O0Qs&start=80&sa=N&sstk=AS6-VmIgZogf-LjpQmmASeI_sw9O9B656YIlU5j6rLE5vezZ0g0yb5FiKn3YKRo-NS9dPQ4YNobZyAQy6ZB9bHdAtCZ-1IqYI_F8jw&ved=2ahUKEwj378fP6uSWAxX0HbkGHeu-M7oQ8tMDegQIexAS",
+   "10": "https://www.google.com/search?q=%22Origin+Hip+Hop+Academy%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvNwK9yMJ_NTBJQCPTubxN6AvxLgA:1789071478364&ei=dhCjavfcFfS75OUP6_3O0Qs&start=90&sa=N&sstk=AS6-VmIgZogf-LjpQmmASeI_sw9O9B656YIlU5j6rLE5vezZ0g0yb5FiKn3YKRo-NS9dPQ4YNobZyAQy6ZB9bHdAtCZ-1IqYI_F8jw&ved=2ahUKEwj378fP6uSWAxX0HbkGHeu-M7oQ8tMDegQIexAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Origin+Hip+Hop+Academy%22&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Origin+Hip+Hop+Academy%22&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Origin+Hip+Hop+Academy%22&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Origin+Hip+Hop+Academy%22&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Origin+Hip+Hop+Academy%22&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Origin+Hip+Hop+Academy%22&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Origin+Hip+Hop+Academy%22&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Origin+Hip+Hop+Academy%22&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Origin+Hip+Hop+Academy%22&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Origin+Hip+Hop+Academy%22&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Origin+Hip+Hop+Academy%22&start=90"
+  }
+ }
+}

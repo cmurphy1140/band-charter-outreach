@@ -1,0 +1,408 @@
+{
+ "search_information": {
+  "query_displayed": "\"The Pride of Owasso\" Oklahoma",
+  "total_results": 5450,
+  "time_taken_displayed": 0.25,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "inline_videos": [
+  {
+   "position": 1,
+   "title": "The Pride of Owasso (Owasso High School) 2024 OBA 6A ...",
+   "link": "https://www.youtube.com/watch?v=CB0lXaRHSPA",
+   "thumbnail": "https://serpapi.com/searches/6aa3127269819da43880b725/images/M1kFV-nH8-kpVlsfdxd1nBYV3RtNW80LRQylgIlTbCY.jpeg",
+   "channel": "All About Band",
+   "duration": "9:45",
+   "platform": "YouTube",
+   "date": "Nov 3, 2024",
+   "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRrTKmww4N1HJbBSvMMhaDn1U4TWqRrlmnfsA"
+  },
+  {
+   "position": 2,
+   "title": "Checking in on the Pride of Owasso today and how local ...",
+   "link": "https://www.facebook.com/MikeGroganWx/videos/checking-in-on-the-pride-of-owasso-today-and-how-local-marching-bands-deal-with-/2075622906365733/",
+   "thumbnail": "https://serpapi.com/searches/6aa3127269819da43880b725/images/ELMKYRtFzHyi_3TQwGW1YSTLYD_yZl7NpN2Sfl0rIJQ.jpeg",
+   "channel": "Mike Grogan Weather",
+   "duration": "0:47",
+   "platform": "Facebook",
+   "date": "1 month ago"
+  },
+  {
+   "position": 3,
+   "title": "Pride of Owasso \"Fall of the Crown\" 6A OBA 2024 11/2/24",
+   "link": "https://www.youtube.com/watch?v=vpTKIgveBIs",
+   "thumbnail": "https://serpapi.com/searches/6aa3127269819da43880b725/images/qCZXZvwH-cFX_j779eNYinmVSvmmP8S9Ts0u1M5rcx4.jpeg",
+   "channel": "Golfingcub02",
+   "duration": "9:24",
+   "platform": "YouTube",
+   "date": "Nov 2, 2024",
+   "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQdR-2FmVkeH61yxdFFVTPcYUEL1mvbPhqJPQ"
+  }
+ ],
+ "related_questions": [
+  {
+   "question": "How many members are in the Pride of Oklahoma band?",
+   "type": "ai_overview",
+   "page_token": "iL71vXicHdBRbpswAIBh9TJ9bGIzsi5SNCkLRpDi1TY2xi-TMQSITaANCoG3XmFn2Kl2mlW7wK9P_8cf117s34ffzTgO1-1qNU3TU933taueTN-t9HW-mJXRzhXa2O3m6wZ8P5ldcDP7H-9mT_gwiANdMxnfilBFObCTkrTVPIfGYiaXvZ9yACgHqspiKZZYs3PT0ZBmXAaj8JD7bCQV__aFHagVa9dWLg5YGm8knAAFFBpUkgKonMmmwaEbaCCUsWpOvGjO09ovL-gtReiqF7eWC6LVOZrxGV2JHY8YIq5gAgqA85-i3DCJcRL2XmL9SHhNm2WRTzPEdFcqHQw-hn7EQmVTeJ8T0Bz5DABZo_klG-4GDKGAZAqa8sLt-JbL-LXitC0suau0IVUXLPwQU3PvW8LpYs6u4yn2Co_2n7a26CzU6Hks5f5IFoGZqwHuRqCmx5O57bzH_693v07duB3e-_of4SyNRQ",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=iL71vXicHdBRbpswAIBh9TJ9bGIzsi5SNCkLRpDi1TY2xi-TMQSITaANCoG3XmFn2Kl2mlW7wK9P_8cf117s34ffzTgO1-1qNU3TU933taueTN-t9HW-mJXRzhXa2O3m6wZ8P5ldcDP7H-9mT_gwiANdMxnfilBFObCTkrTVPIfGYiaXvZ9yACgHqspiKZZYs3PT0ZBmXAaj8JD7bCQV__aFHagVa9dWLg5YGm8knAAFFBpUkgKonMmmwaEbaCCUsWpOvGjO09ovL-gtReiqF7eWC6LVOZrxGV2JHY8YIq5gAgqA85-i3DCJcRL2XmL9SHhNm2WRTzPEdFcqHQw-hn7EQmVTeJ8T0Bz5DABZo_klG-4GDKGAZAqa8sLt-JbL-LXitC0suau0IVUXLPwQU3PvW8LpYs6u4yn2Co_2n7a26CzU6Hks5f5IFoGZqwHuRqCmx5O57bzH_693v07duB3e-_of4SyNRQ",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpqaHZVbTlGY0hWdVozRk5ia0poWVdzMU5YSk5kbTFHYmtsWFdYYzVOM1JKV1V0WVUwSnJkRnBrTTFsck5EZG5hbUprWDNsVFYzTldUV2MxU1Y5NlJrMXlURkF0ZHpaMlN6TjVSWGhQTkZaTVNHMWpUekpzVkdKeVp4SVhaMUpMYW1GeVQzbEVZbTVFTVdVNFVIcGhNMUF5VVhNYUlrRkVjM0k1WmxRdFkxTmxjRU5GVmkxNmJWbHRRbE42WmtadVpXUXpURlJKVW5jIiwiZmN2IjoiMyIsImVpIjoiZ1JLamFyT3lEYm5EMWU4UHphM1AyUXMiLCJxYyI6IkNoeDBhR1VnY0hKcFpHVWdiMllnYjNkaGMzTnZJRzlyYkdGb2IyMWhFQUI5bXpzWFB3IiwicXVlc3Rpb24iOiJIb3cgbWFueSBtZW1iZXJzIGFyZSBpbiB0aGUgUHJpZGUgb2YgT2tsYWhvbWEgYmFuZD8iLCJsayI6IkdqSm9iM2NnYldGdWVTQnRaVzFpWlhKeklHRnlaU0JwYmlCMGFHVWdjSEpwWkdVZ2IyWWdiMnRzWVdodmJXRWdZbUZ1WkEiLCJicyI6ImMzMlBQV19DUUF4QTFmV216cGxjWUVKTVJfY01MRlNxQkJ1emMzSHdLYmt6T3FlSy11OUpvb1FQSWJGNWVNOS1OclhaN3FXRGdQRWZBb1dDa2dJbUFoLWhaWUpqOGlXQlZIQ29HMlFKQ0FYR01yZmZtZVUzMm1YVzVGRXpQMlp4WW15aEZGSTRkS2dxdlkxeDBIWk1TV3FpM0M2enItNUd5VFBsSnNxbzJaM1lPd2IyWndaMUxOTDBPY214ai1meDJvRGZxcjJDazZoOVZhSnlUQ3hJMjl4dXN2VXd2Tjh5UDJGLXpXcnM5M1A5NW42aHdpQl9DcFdrM0s2eVJUZHhVNy04WXA4ZlZ3IiwiaWQiOiJmY19nUktqYXJPeURibkQxZThQemEzUDJRc181In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpqaHZVbTlGY0hWdVozRk5ia0poWVdzMU5YSk5kbTFHYmtsWFdYYzVOM1JKV1V0WVUwSnJkRnBrTTFsck5EZG5hbUprWDNsVFYzTldUV2MxU1Y5NlJrMXlURkF0ZHpaMlN6TjVSWGhQTkZaTVNHMWpUekpzVkdKeVp4SVhaMUpMYW1GeVQzbEVZbTVFTVdVNFVIcGhNMUF5VVhNYUlrRkVjM0k1WmxRdFkxTmxjRU5GVmkxNmJWbHRRbE42WmtadVpXUXpURlJKVW5jIiwiZmN2IjoiMyIsImVpIjoiZ1JLamFyT3lEYm5EMWU4UHphM1AyUXMiLCJxYyI6IkNoeDBhR1VnY0hKcFpHVWdiMllnYjNkaGMzTnZJRzlyYkdGb2IyMWhFQUI5bXpzWFB3IiwicXVlc3Rpb24iOiJIb3cgbWFueSBtZW1iZXJzIGFyZSBpbiB0aGUgUHJpZGUgb2YgT2tsYWhvbWEgYmFuZD8iLCJsayI6IkdqSm9iM2NnYldGdWVTQnRaVzFpWlhKeklHRnlaU0JwYmlCMGFHVWdjSEpwWkdVZ2IyWWdiMnRzWVdodmJXRWdZbUZ1WkEiLCJicyI6ImMzMlBQV19DUUF4QTFmV216cGxjWUVKTVJfY01MRlNxQkJ1emMzSHdLYmt6T3FlSy11OUpvb1FQSWJGNWVNOS1OclhaN3FXRGdQRWZBb1dDa2dJbUFoLWhaWUpqOGlXQlZIQ29HMlFKQ0FYR01yZmZtZVUzMm1YVzVGRXpQMlp4WW15aEZGSTRkS2dxdlkxeDBIWk1TV3FpM0M2enItNUd5VFBsSnNxbzJaM1lPd2IyWndaMUxOTDBPY214ai1meDJvRGZxcjJDazZoOVZhSnlUQ3hJMjl4dXN2VXd2Tjh5UDJGLXpXcnM5M1A5NW42aHdpQl9DcFdrM0s2eVJUZHhVNy04WXA4ZlZ3IiwiaWQiOiJmY19nUktqYXJPeURibkQxZThQemEzUDJRc181In0%3D"
+  },
+  {
+   "question": "What does Owasso mean in Cherokee?",
+   "type": "ai_overview",
+   "page_token": "x-PSdXicHdDbboIwGADg7GW8VCqZmyZmCRMPnRxa-pfDzQIFRVugKgrzbu-yp9rTzOwNvnzfP-pQy9-nW9m2-jIbjbquG-6bZq-KoWiqUXr5qsVIpEplqZCzycsEve3E3L5urPfTxiKgNV9Qg603rYjyKwDSWWSZDJQfmWqdoYSGssSBQVeeXQaOdJnD1IRFyTavARGQpmMos1jLPl3g1lks3ZhPO3K0EpA4yOGCgiW_hOukFwiQiJI0H-ea2e4uRrzJltY5NbgXm9YmMmjg1Pgmql5T5Mp0pbeu3R-2gJ2i6pvCfn3O79wLj3nojtUHcIpYuO-IMY2LSpicWSgB6vMK1Xb50Mn2FEfYL4AeMkn6hJWkqOw7LDAVfXMgQO_iqCrgGLO78r1QnwiUD0_Oxdg2XSgxl4hGY0qSbrATt7k5-P-cf-6qdqbPzf4P9MqDzA",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=x-PSdXicHdDbboIwGADg7GW8VCqZmyZmCRMPnRxa-pfDzQIFRVugKgrzbu-yp9rTzOwNvnzfP-pQy9-nW9m2-jIbjbquG-6bZq-KoWiqUXr5qsVIpEplqZCzycsEve3E3L5urPfTxiKgNV9Qg603rYjyKwDSWWSZDJQfmWqdoYSGssSBQVeeXQaOdJnD1IRFyTavARGQpmMos1jLPl3g1lks3ZhPO3K0EpA4yOGCgiW_hOukFwiQiJI0H-ea2e4uRrzJltY5NbgXm9YmMmjg1Pgmql5T5Mp0pbeu3R-2gJ2i6pvCfn3O79wLj3nojtUHcIpYuO-IMY2LSpicWSgB6vMK1Xb50Mn2FEfYL4AeMkn6hJWkqOw7LDAVfXMgQO_iqCrgGLO78r1QnwiUD0_Oxdg2XSgxl4hGY0qSbrATt7k5-P-cf-6qdqbPzf4P9MqDzA",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpqaHZVbTlGY0hWdVozRk5ia0poWVdzMU5YSk5kbTFHYmtsWFdYYzVOM1JKV1V0WVUwSnJkRnBrTTFsck5EZG5hbUprWDNsVFYzTldUV2MxU1Y5NlJrMXlURkF0ZHpaMlN6TjVSWGhQTkZaTVNHMWpUekpzVkdKeVp4SVhaMUpMYW1GeVQzbEVZbTVFTVdVNFVIcGhNMUF5VVhNYUlrRkVjM0k1WmxRdFkxTmxjRU5GVmkxNmJWbHRRbE42WmtadVpXUXpURlJKVW5jIiwiZmN2IjoiMyIsImVpIjoiZ1JLamFyT3lEYm5EMWU4UHphM1AyUXMiLCJxYyI6IkNoeDBhR1VnY0hKcFpHVWdiMllnYjNkaGMzTnZJRzlyYkdGb2IyMWhFQUI5bXpzWFB3IiwicXVlc3Rpb24iOiJXaGF0IGRvZXMgT3dhc3NvIG1lYW4gaW4gQ2hlcm9rZWU/IiwibGsiOiJHaUYzYUdGMElHUnZaWE1nYjNkaGMzTnZJRzFsWVc0Z2FXNGdZMmhsY205clpXVSIsImJzIjoiYzMyUFBXX0NRQXhBMWZXbXpwbGNZRUpNUl9jTUxGU3FCQnV6YzNId0tia3pPcWVLLXU5Sm9vUVBJYkY1ZU05LU5yWFo3cVdEZ1BFZkFvV0NrZ0ltQWgtaFpZSmo4aVdCVkhDb0cyUUpDQVhHTXJmZm1lVTMybVhXNUZFelAyWnhZbXloRkZJNGRLZ3F2WTF4MEhaTVNXcWkzQzZ6ci01R3lUUGxKc3FvMlozWU93YjJad1oxTE5MME9jbXhqLWZ4Mm9EZnFyMkNrNmg5VmFKeVRDeEkyOXh1c3ZVd3ZOOHlQMkYteldyczkzUDk1bjZod2lCX0NwV2szSzZ5UlRkeFU3LThZcDhmVnciLCJpZCI6ImZjX2dSS2phck95RGJuRDFlOFB6YTNQMlFzXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpqaHZVbTlGY0hWdVozRk5ia0poWVdzMU5YSk5kbTFHYmtsWFdYYzVOM1JKV1V0WVUwSnJkRnBrTTFsck5EZG5hbUprWDNsVFYzTldUV2MxU1Y5NlJrMXlURkF0ZHpaMlN6TjVSWGhQTkZaTVNHMWpUekpzVkdKeVp4SVhaMUpMYW1GeVQzbEVZbTVFTVdVNFVIcGhNMUF5VVhNYUlrRkVjM0k1WmxRdFkxTmxjRU5GVmkxNmJWbHRRbE42WmtadVpXUXpURlJKVW5jIiwiZmN2IjoiMyIsImVpIjoiZ1JLamFyT3lEYm5EMWU4UHphM1AyUXMiLCJxYyI6IkNoeDBhR1VnY0hKcFpHVWdiMllnYjNkaGMzTnZJRzlyYkdGb2IyMWhFQUI5bXpzWFB3IiwicXVlc3Rpb24iOiJXaGF0IGRvZXMgT3dhc3NvIG1lYW4gaW4gQ2hlcm9rZWU%2FIiwibGsiOiJHaUYzYUdGMElHUnZaWE1nYjNkaGMzTnZJRzFsWVc0Z2FXNGdZMmhsY205clpXVSIsImJzIjoiYzMyUFBXX0NRQXhBMWZXbXpwbGNZRUpNUl9jTUxGU3FCQnV6YzNId0tia3pPcWVLLXU5Sm9vUVBJYkY1ZU05LU5yWFo3cVdEZ1BFZkFvV0NrZ0ltQWgtaFpZSmo4aVdCVkhDb0cyUUpDQVhHTXJmZm1lVTMybVhXNUZFelAyWnhZbXloRkZJNGRLZ3F2WTF4MEhaTVNXcWkzQzZ6ci01R3lUUGxKc3FvMlozWU93YjJad1oxTE5MME9jbXhqLWZ4Mm9EZnFyMkNrNmg5VmFKeVRDeEkyOXh1c3ZVd3ZOOHlQMkYteldyczkzUDk1bjZod2lCX0NwV2szSzZ5UlRkeFU3LThZcDhmVnciLCJpZCI6ImZjX2dSS2phck95RGJuRDFlOFB6YTNQMlFzXzUifQ%3D%3D"
+  },
+  {
+   "question": "Which high school marching band in Oklahoma is considered the best?",
+   "type": "ai_overview",
+   "page_token": "Yraa2XicHdFLjpswAIBh9TKznPAYpiVSVIkBJrEUE9sYgjeVHyQEbHAIhUx2vUvXPVBP01Ev8H-L_9dvfem7v1_-NNNkb-vValmW5_MwnHX9LAez4rePXq4k11pw2a1fv766309ykwzL29ttiRC1toixQ1x1zd6hKUuQ7TVzqQk_oFckzIGzyCNGU8xEB1BF7UzjZqEt3BHXTnXy4gsn9PcOqGCOFtl3gTLBjRcNpyk4yiN7qQrMuZMOqCt65qc-2-q5NsEoPThw4k6VwTh7Z5ks7ZhrpQv6zSG9vaoj-1kV4Q23u4cq1QGXekQl09hAxhOLa2OdwuwC0WIsvJDvPQg_jRETd85iZmEMe-GlJ_nZQ14QkS07kGRCrAsX4qWzoqwkKShJ2yT5A-TYmaKkUT3tpmt1BIea4ovo0J3lDapN8qAxwPI-XBDFD9lqQzWOKteCOlFz1Z0DtlVbEWsgdDoTr7ojjy4UPZ3kvPGf_n_Y_DiZaW3H4fwPJ26YJQ",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Yraa2XicHdFLjpswAIBh9TKznPAYpiVSVIkBJrEUE9sYgjeVHyQEbHAIhUx2vUvXPVBP01Ev8H-L_9dvfem7v1_-NNNkb-vValmW5_MwnHX9LAez4rePXq4k11pw2a1fv766309ykwzL29ttiRC1toixQ1x1zd6hKUuQ7TVzqQk_oFckzIGzyCNGU8xEB1BF7UzjZqEt3BHXTnXy4gsn9PcOqGCOFtl3gTLBjRcNpyk4yiN7qQrMuZMOqCt65qc-2-q5NsEoPThw4k6VwTh7Z5ks7ZhrpQv6zSG9vaoj-1kV4Q23u4cq1QGXekQl09hAxhOLa2OdwuwC0WIsvJDvPQg_jRETd85iZmEMe-GlJ_nZQ14QkS07kGRCrAsX4qWzoqwkKShJ2yT5A-TYmaKkUT3tpmt1BIea4ovo0J3lDapN8qAxwPI-XBDFD9lqQzWOKteCOlFz1Z0DtlVbEWsgdDoTr7ojjy4UPZ3kvPGf_n_Y_DiZaW3H4fwPJ26YJQ",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpqaHZVbTlGY0hWdVozRk5ia0poWVdzMU5YSk5kbTFHYmtsWFdYYzVOM1JKV1V0WVUwSnJkRnBrTTFsck5EZG5hbUprWDNsVFYzTldUV2MxU1Y5NlJrMXlURkF0ZHpaMlN6TjVSWGhQTkZaTVNHMWpUekpzVkdKeVp4SVhaMUpMYW1GeVQzbEVZbTVFTVdVNFVIcGhNMUF5VVhNYUlrRkVjM0k1WmxRdFkxTmxjRU5GVmkxNmJWbHRRbE42WmtadVpXUXpURlJKVW5jIiwiZmN2IjoiMyIsImVpIjoiZ1JLamFyT3lEYm5EMWU4UHphM1AyUXMiLCJxYyI6IkNoeDBhR1VnY0hKcFpHVWdiMllnYjNkaGMzTnZJRzlyYkdGb2IyMWhFQUI5bXpzWFB3IiwicXVlc3Rpb24iOiJXaGljaCBoaWdoIHNjaG9vbCBtYXJjaGluZyBiYW5kIGluIE9rbGFob21hIGlzIGNvbnNpZGVyZWQgdGhlIGJlc3Q/IiwibGsiOiJHaXBpWlhOMElHaHBaMmdnYzJOb2IyOXNJRzFoY21Ob2FXNW5JR0poYm1RZ2FXNGdiMnRzWVdodmJXRSIsImJzIjoiYzMyUFBXX0NRQXhBMWZXbXpwbGNZRUpNUl9jTUxGU3FCQnV6YzNId0tia3pPcWVLLXU5Sm9vUVBJYkY1ZU05LU5yWFo3cVdEZ1BFZkFvV0NrZ0ltQWgtaFpZSmo4aVdCVkhDb0cyUUpDQVhHTXJmZm1lVTMybVhXNUZFelAyWnhZbXloRkZJNGRLZ3F2WTF4MEhaTVNXcWkzQzZ6ci01R3lUUGxKc3FvMlozWU93YjJad1oxTE5MME9jbXhqLWZ4Mm9EZnFyMkNrNmg5VmFKeVRDeEkyOXh1c3ZVd3ZOOHlQMkYteldyczkzUDk1bjZod2lCX0NwV2szSzZ5UlRkeFU3LThZcDhmVnciLCJpZCI6ImZjX2dSS2phck95RGJuRDFlOFB6YTNQMlFzXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpqaHZVbTlGY0hWdVozRk5ia0poWVdzMU5YSk5kbTFHYmtsWFdYYzVOM1JKV1V0WVUwSnJkRnBrTTFsck5EZG5hbUprWDNsVFYzTldUV2MxU1Y5NlJrMXlURkF0ZHpaMlN6TjVSWGhQTkZaTVNHMWpUekpzVkdKeVp4SVhaMUpMYW1GeVQzbEVZbTVFTVdVNFVIcGhNMUF5VVhNYUlrRkVjM0k1WmxRdFkxTmxjRU5GVmkxNmJWbHRRbE42WmtadVpXUXpURlJKVW5jIiwiZmN2IjoiMyIsImVpIjoiZ1JLamFyT3lEYm5EMWU4UHphM1AyUXMiLCJxYyI6IkNoeDBhR1VnY0hKcFpHVWdiMllnYjNkaGMzTnZJRzlyYkdGb2IyMWhFQUI5bXpzWFB3IiwicXVlc3Rpb24iOiJXaGljaCBoaWdoIHNjaG9vbCBtYXJjaGluZyBiYW5kIGluIE9rbGFob21hIGlzIGNvbnNpZGVyZWQgdGhlIGJlc3Q%2FIiwibGsiOiJHaXBpWlhOMElHaHBaMmdnYzJOb2IyOXNJRzFoY21Ob2FXNW5JR0poYm1RZ2FXNGdiMnRzWVdodmJXRSIsImJzIjoiYzMyUFBXX0NRQXhBMWZXbXpwbGNZRUpNUl9jTUxGU3FCQnV6YzNId0tia3pPcWVLLXU5Sm9vUVBJYkY1ZU05LU5yWFo3cVdEZ1BFZkFvV0NrZ0ltQWgtaFpZSmo4aVdCVkhDb0cyUUpDQVhHTXJmZm1lVTMybVhXNUZFelAyWnhZbXloRkZJNGRLZ3F2WTF4MEhaTVNXcWkzQzZ6ci01R3lUUGxKc3FvMlozWU93YjJad1oxTE5MME9jbXhqLWZ4Mm9EZnFyMkNrNmg5VmFKeVRDeEkyOXh1c3ZVd3ZOOHlQMkYteldyczkzUDk1bjZod2lCX0NwV2szSzZ5UlRkeFU3LThZcDhmVnciLCJpZCI6ImZjX2dSS2phck95RGJuRDFlOFB6YTNQMlFzXzUifQ%3D%3D"
+  },
+  {
+   "question": "What is Owasso, Oklahoma famous for?",
+   "type": "ai_overview",
+   "page_token": "JBmb6HicHdBdbpswAABg9TJ9bKCUTokUVcqAEKsxxY5t4pfJ2CTGP4E2pAHedpedaqeZtO8I3-8_rr3Yvw_fehj662qxuN_vT-euO7vmSXZ-Ia7TRS6kcK4W0q5ef7yGbye5Tm-7zc_P3aYkfU8TFGDL943nAbV84NbFyOhYRJuwDtQMSZYLo0cY0Q3Ou0n541RW7gApfxdhj7BBBkbA4Rx0iEFfBeEz3Mbh3qoOkwHhcDfuU50f2Et4nGFRpONNpK5lGX1vEpDjgE6CnuMi11FRUceDQZCcWjxrIgxCjdlNdZXNdaoixpbX2o6ZsophD1pskZHbJWgShPc-u0l2fVEWXVKtLsQOn8cKfDQEtbUtR37QZePTmSQAybFrS4JmaZwnDLQlA3cSZElR6VSRZcFNxg8hjTiLEzjDLSkfT_J7HT3-_1z_Ovlh1X91538S04Th",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=JBmb6HicHdBdbpswAABg9TJ9bKCUTokUVcqAEKsxxY5t4pfJ2CTGP4E2pAHedpedaqeZtO8I3-8_rr3Yvw_fehj662qxuN_vT-euO7vmSXZ-Ia7TRS6kcK4W0q5ef7yGbye5Tm-7zc_P3aYkfU8TFGDL943nAbV84NbFyOhYRJuwDtQMSZYLo0cY0Q3Ou0n541RW7gApfxdhj7BBBkbA4Rx0iEFfBeEz3Mbh3qoOkwHhcDfuU50f2Et4nGFRpONNpK5lGX1vEpDjgE6CnuMi11FRUceDQZCcWjxrIgxCjdlNdZXNdaoixpbX2o6ZsophD1pskZHbJWgShPc-u0l2fVEWXVKtLsQOn8cKfDQEtbUtR37QZePTmSQAybFrS4JmaZwnDLQlA3cSZElR6VSRZcFNxg8hjTiLEzjDLSkfT_J7HT3-_1z_Ovlh1X91538S04Th",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpqaHZVbTlGY0hWdVozRk5ia0poWVdzMU5YSk5kbTFHYmtsWFdYYzVOM1JKV1V0WVUwSnJkRnBrTTFsck5EZG5hbUprWDNsVFYzTldUV2MxU1Y5NlJrMXlURkF0ZHpaMlN6TjVSWGhQTkZaTVNHMWpUekpzVkdKeVp4SVhaMUpMYW1GeVQzbEVZbTVFTVdVNFVIcGhNMUF5VVhNYUlrRkVjM0k1WmxRdFkxTmxjRU5GVmkxNmJWbHRRbE42WmtadVpXUXpURlJKVW5jIiwiZmN2IjoiMyIsImVpIjoiZ1JLamFyT3lEYm5EMWU4UHphM1AyUXMiLCJxYyI6IkNoeDBhR1VnY0hKcFpHVWdiMllnYjNkaGMzTnZJRzlyYkdGb2IyMWhFQUI5bXpzWFB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIE93YXNzbywgT2tsYWhvbWEgZmFtb3VzIGZvcj8iLCJsayI6IkdpSjNhR0YwSUdseklHOTNZWE56YnlCdmEyeGhhRzl0WVNCbVlXMXZkWE1nWm05eSIsImJzIjoiYzMyUFBXX0NRQXhBMWZXbXpwbGNZRUpNUl9jTUxGU3FCQnV6YzNId0tia3pPcWVLLXU5Sm9vUVBJYkY1ZU05LU5yWFo3cVdEZ1BFZkFvV0NrZ0ltQWgtaFpZSmo4aVdCVkhDb0cyUUpDQVhHTXJmZm1lVTMybVhXNUZFelAyWnhZbXloRkZJNGRLZ3F2WTF4MEhaTVNXcWkzQzZ6ci01R3lUUGxKc3FvMlozWU93YjJad1oxTE5MME9jbXhqLWZ4Mm9EZnFyMkNrNmg5VmFKeVRDeEkyOXh1c3ZVd3ZOOHlQMkYteldyczkzUDk1bjZod2lCX0NwV2szSzZ5UlRkeFU3LThZcDhmVnciLCJpZCI6ImZjX2dSS2phck95RGJuRDFlOFB6YTNQMlFzXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpqaHZVbTlGY0hWdVozRk5ia0poWVdzMU5YSk5kbTFHYmtsWFdYYzVOM1JKV1V0WVUwSnJkRnBrTTFsck5EZG5hbUprWDNsVFYzTldUV2MxU1Y5NlJrMXlURkF0ZHpaMlN6TjVSWGhQTkZaTVNHMWpUekpzVkdKeVp4SVhaMUpMYW1GeVQzbEVZbTVFTVdVNFVIcGhNMUF5VVhNYUlrRkVjM0k1WmxRdFkxTmxjRU5GVmkxNmJWbHRRbE42WmtadVpXUXpURlJKVW5jIiwiZmN2IjoiMyIsImVpIjoiZ1JLamFyT3lEYm5EMWU4UHphM1AyUXMiLCJxYyI6IkNoeDBhR1VnY0hKcFpHVWdiMllnYjNkaGMzTnZJRzlyYkdGb2IyMWhFQUI5bXpzWFB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIE93YXNzbywgT2tsYWhvbWEgZmFtb3VzIGZvcj8iLCJsayI6IkdpSjNhR0YwSUdseklHOTNZWE56YnlCdmEyeGhhRzl0WVNCbVlXMXZkWE1nWm05eSIsImJzIjoiYzMyUFBXX0NRQXhBMWZXbXpwbGNZRUpNUl9jTUxGU3FCQnV6YzNId0tia3pPcWVLLXU5Sm9vUVBJYkY1ZU05LU5yWFo3cVdEZ1BFZkFvV0NrZ0ltQWgtaFpZSmo4aVdCVkhDb0cyUUpDQVhHTXJmZm1lVTMybVhXNUZFelAyWnhZbXloRkZJNGRLZ3F2WTF4MEhaTVNXcWkzQzZ6ci01R3lUUGxKc3FvMlozWU93YjJad1oxTE5MME9jbXhqLWZ4Mm9EZnFyMkNrNmg5VmFKeVRDeEkyOXh1c3ZVd3ZOOHlQMkYteldyczkzUDk1bjZod2lCX0NwV2szSzZ5UlRkeFU3LThZcDhmVnciLCJpZCI6ImZjX2dSS2phck95RGJuRDFlOFB6YTNQMlFzXzUifQ%3D%3D"
+  }
+ ],
+ "ai_overview": {
+  "page_token": "Hai14HiczVXbcqpIFP2A-Y7DSxK5SBKTKupUd0sSNEZbzUn0hYIGGhREaSOHVJ2H-Zf5qvmaaUATvCWT8zA1uwr6wr6xe69ef_4VBrPp33_88pfLObsWxTRNazSOaejWSByJFstmRPTikCXE_05D7YUJfqi5MyFbaXWBME0S3ECj_fbESrpZ0541ZbfRe7XqPQUzoTDXTNti7oR7_zlhoiny1_RbvckXNVZzZ7X-OKEkwUPvrFNTJPmq1hWtiCuA_0wQAJjyN8Ll4pjc_jt3lAIdgFbFf-lTr6jkCwx0CvOVASA-7AobXDUfAUZlZs20fjay-cQqNZr5x8OCqh8gLfQgLPyBAQTHDQ8KLH3Ste8PdfWDu6jqIJfOpyY8x9F2FgZAvXRd4v1MDKAbWxnjMgiFKZikHtV1HX6QNy_IYwrP27nFB2pc2tgYpusUOs0nHlh0KG9aSbQTPshiQHxSTBKW9zIaXknxbXaR4LnlOYF5ma2GWevJ7900cTJqq1gkNtcLY8txHdM3pe_FWlbkc-mqftk4LUBE2BuKWBVF80hFl-YYyctG7b4G5Q2EUF6R_SrxavM1MsC-wHWbHTxgA2wOQ38rMN81UKVcj-vRBzDGed9WfIMYN4qCbXbcon_J-5G8p5RH2IfQbmo5hAojWIaG1fQ2KpTCA6ZcyN4f7nUhj5uWM7qLfrzTSTpG02qIdOsrT3Lg63mhcgT8IHqZwG436htzvMmX5oe4qfubc7xOtwKhgOZV52HpgCu2MG3n6vDtDOD652BrF_jB7l8XcsP9wZHxtVtiLcYnF0Sps8HKTutXIXPjqqGXtpLucjrF9-p00pCimdxvvXomPgyROLK_wDTk_wSiYMNDj2vbIyA6yyefg4jy6-4oD5XTdx7KjVqch46AyChBdICH3FKjwkO7IEKDCog-4aGvggh9CKLyMjoIotzBIRBNj4BozUMVEA22eWgLRG889A6i3-Eh9Fs8VGDKLYdtUnqZ0KPkdLfwfNWj0lwHt2o3m4FFf2XpCuzMruin5ORFy-vIcsJTM3CuodJaZs6pyTfia9cRFto3RRn67kkvCRz3JPZOuqnFWMx3T7rT0PLjyBKiMIk1yVJhR6U0eGTWywgNJ_2pdP6aGPTBGIx_hM_G9PVFXijBgwfqwWsDrS6lp0Vkt5VVU-8r3cGFh886A3J313NjGY0bagcGvgLGHdLJLtDo4dlzex0nZmn7mcmr5RJmnjHOPPlm8nM5Bva9cWPWyT29PIsa0L4ls-BWZkVmTEvZPQ66GZu7hhAlRONHo1LwgMET5R2IRhwYvLNRzJ-UPxcA61BgxDJdttKkuu25vFyE2M6VqshCRJfZXFNlgc0STf4HtbRBbA",
+  "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Hai14HiczVXbcqpIFP2A-Y7DSxK5SBKTKupUd0sSNEZbzUn0hYIGGhREaSOHVJ2H-Zf5qvmaaUATvCWT8zA1uwr6wr6xe69ef_4VBrPp33_88pfLObsWxTRNazSOaejWSByJFstmRPTikCXE_05D7YUJfqi5MyFbaXWBME0S3ECj_fbESrpZ0541ZbfRe7XqPQUzoTDXTNti7oR7_zlhoiny1_RbvckXNVZzZ7X-OKEkwUPvrFNTJPmq1hWtiCuA_0wQAJjyN8Ll4pjc_jt3lAIdgFbFf-lTr6jkCwx0CvOVASA-7AobXDUfAUZlZs20fjay-cQqNZr5x8OCqh8gLfQgLPyBAQTHDQ8KLH3Ste8PdfWDu6jqIJfOpyY8x9F2FgZAvXRd4v1MDKAbWxnjMgiFKZikHtV1HX6QNy_IYwrP27nFB2pc2tgYpusUOs0nHlh0KG9aSbQTPshiQHxSTBKW9zIaXknxbXaR4LnlOYF5ma2GWevJ7900cTJqq1gkNtcLY8txHdM3pe_FWlbkc-mqftk4LUBE2BuKWBVF80hFl-YYyctG7b4G5Q2EUF6R_SrxavM1MsC-wHWbHTxgA2wOQ38rMN81UKVcj-vRBzDGed9WfIMYN4qCbXbcon_J-5G8p5RH2IfQbmo5hAojWIaG1fQ2KpTCA6ZcyN4f7nUhj5uWM7qLfrzTSTpG02qIdOsrT3Lg63mhcgT8IHqZwG436htzvMmX5oe4qfubc7xOtwKhgOZV52HpgCu2MG3n6vDtDOD652BrF_jB7l8XcsP9wZHxtVtiLcYnF0Sps8HKTutXIXPjqqGXtpLucjrF9-p00pCimdxvvXomPgyROLK_wDTk_wSiYMNDj2vbIyA6yyefg4jy6-4oD5XTdx7KjVqch46AyChBdICH3FKjwkO7IEKDCog-4aGvggh9CKLyMjoIotzBIRBNj4BozUMVEA22eWgLRG889A6i3-Eh9Fs8VGDKLYdtUnqZ0KPkdLfwfNWj0lwHt2o3m4FFf2XpCuzMruin5ORFy-vIcsJTM3CuodJaZs6pyTfia9cRFto3RRn67kkvCRz3JPZOuqnFWMx3T7rT0PLjyBKiMIk1yVJhR6U0eGTWywgNJ_2pdP6aGPTBGIx_hM_G9PVFXijBgwfqwWsDrS6lp0Vkt5VVU-8r3cGFh886A3J313NjGY0bagcGvgLGHdLJLtDo4dlzex0nZmn7mcmr5RJmnjHOPPlm8nM5Bva9cWPWyT29PIsa0L4ls-BWZkVmTEvZPQ66GZu7hhAlRONHo1LwgMET5R2IRhwYvLNRzJ-UPxcA61BgxDJdttKkuu25vFyE2M6VqshCRJfZXFNlgc0STf4HtbRBbA"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Pride of Owasso",
+   "link": "https://www.facebook.com/OwassoHSB/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWwHrOzAVNGSOpMCa2LHK7z_Nfvtr9bJXgGA6wMTo4QPLaa1ZwLPktEG8gtaEN13Yh0Aj6a3XCjcOIL9CMtyZS2PzztsM6InW3WokUq2htegC8KXRIybTMAXyOrU&ved=2ahUKEwjz9vDI7OSWAxW5YfUHHc3WM7sQFnoECBoQAQ&uoh=1",
+   "displayed_link": "4.6K+ followers",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "snippet": "Marching band season is here, which overlaps with Oklahoma's hottest time of the year. The Pride of Owasso is in its first week of practice, which requires ...",
+   "snippet_highlighted_words": [
+    "Oklahoma's",
+    "The Pride of Owasso"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 5.0,
+      "reviews": 8
+     },
+     "extensions": [
+      "5.0(8)"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Marching band season is here, which overlaps with Oklahoma's hottest time of the year. The Pride of Owasso is in its first week of practice, which requires ...",
+     "source_info_link": "https://www.facebook.com/OwassoHSB/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESWwHrOzAVNGSOpMCa2LHK7z_Nfvtr9bJXgGA6wMTo4QPLaa1ZwLPktEG8gtaEN13Yh0Aj6a3XCjcOIL9CMtyZS2PzztsM6InW3WokUq2htegC8KXRIybTMAXyOrU&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESWwHrOzAVNGSOpMCa2LHK7z_Nfvtr9bJXgGA6wMTo4QPLaa1ZwLPktEG8gtaEN13Yh0Aj6a3XCjcOIL9CMtyZS2PzztsM6InW3WokUq2htegC8KXRIybTMAXyOrU",
+   "source": "Facebook \u00b7 Pride of Owasso",
+   "read_more_link": "https://www.facebook.com/OwassoHSB/#:~:text=Marching%20band%20season%20is%20here%2C,work%20out%20on%20the%20astroturf."
+  },
+  {
+   "position": 2,
+   "title": "Marching Band \u2014 OwassoBands.com",
+   "link": "https://www.owassobands.com/marchingband",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAV2YUAukF2-67-0VsHHNxxNyBKUcMQIwJIGEKizVKcVexWpVGCKn6XXJFwtQburdrtyBfHV8ik1FYJ9ilyjNMh0BfRXfRIulsPDsVMxLSwlGkbncXxIPAigp1Q2w&ved=2ahUKEwjz9vDI7OSWAxW5YfUHHc3WM7sQFnoECCAQAQ&uoh=1",
+   "displayed_link": "https://www.owassobands.com \u203a marchingband",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAgCAMAAAA2a-hwAAAAS1BMVEVHcEzWS0vPLS3NHh7NDQ3MAgLPJCTQLi7NFBTMAADOGBjSNzfOFRXOHBzbWVnNFhb3urrMCgrOHx_PJibPKSnMCgrNGBjNGBjPHh7b2KgXAAAAGXRSTlMAJoO-7Pt8UNn_zj28qA_mCvKUbl7_qKSbBNHIawAAAN5JREFUeAF9k4kShSAIRbFnGu22__-XvkHSsEbPbMItuaBCRFU_Xdf6ZxS8sQ1G2i7V-pDsWloNQho1ZQwHhtbTHLTZUbyEcPFqiPxOGiKa4p7XKxJWmENiA2KnpQOBL7OzAVFRVMU1VMCktQ5vTwo9kMA5BWv4SjLd-x4ojCcDw5ObxCsVL54x28YqFSvkudR5sS6LOi-6sqEz38pRHEJ5fDDlBq_jWV9fP6Z42MQmboVIrMK4e_3YJs5PYLhz91xcry7iAukRHgbKNHaebfMZWHgjTGPhjTL8BCsFgT-NYBCdHJB1GAAAAABJRU5ErkJggg.png",
+   "snippet": "The PRIDE of Owasso marching band has received First Divisions in the OSSAA marching competition for the past 47 consecutive years and has performed in the ...",
+   "snippet_highlighted_words": [
+    "The PRIDE of Owasso"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The PRIDE of Owasso marching band has received First Divisions in the OSSAA marching competition for the past 47 consecutive years and has performed in the ...",
+     "source_info_link": "https://www.owassobands.com/marchingband",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAgCAMAAAA2a-hwAAAAS1BMVEVHcEzWS0vPLS3NHh7NDQ3MAgLPJCTQLi7NFBTMAADOGBjSNzfOFRXOHBzbWVnNFhb3urrMCgrOHx_PJibPKSnMCgrNGBjNGBjPHh7b2KgXAAAAGXRSTlMAJoO-7Pt8UNn_zj28qA_mCvKUbl7_qKSbBNHIawAAAN5JREFUeAF9k4kShSAIRbFnGu22__-XvkHSsEbPbMItuaBCRFU_Xdf6ZxS8sQ1G2i7V-pDsWloNQho1ZQwHhtbTHLTZUbyEcPFqiPxOGiKa4p7XKxJWmENiA2KnpQOBL7OzAVFRVMU1VMCktQ5vTwo9kMA5BWv4SjLd-x4ojCcDw5ObxCsVL54x28YqFSvkudR5sS6LOi-6sqEz38pRHEJ5fDDlBq_jWV9fP6Z42MQmboVIrMK4e_3YJs5PYLhz91xcry7iAukRHgbKNHaebfMZWHgjTGPhjTL8BCsFgT-NYBCdHJB1GAAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYAHrOzAV2YUAukF2-67-0VsHHNxxNyBKUcMQIwJIGEKizVKcVexWpVGCKn6XXJFwtQburdrtyBfHV8ik1FYJ9ilyjNMh0BfRXfRIulsPDsVMxLSwlGkbncXxIPAigp1Q2w&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYAHrOzAV2YUAukF2-67-0VsHHNxxNyBKUcMQIwJIGEKizVKcVexWpVGCKn6XXJFwtQburdrtyBfHV8ik1FYJ9ilyjNMh0BfRXfRIulsPDsVMxLSwlGkbncXxIPAigp1Q2w",
+   "source": "Owasso Bands",
+   "read_more_link": "https://www.owassobands.com/marchingband#:~:text=The%20PRIDE%20of%20Owasso%20marching,the%20Macy's%20Thanksgiving%20Day%20Parade."
+  },
+  {
+   "position": 3,
+   "title": "Music Education in Owasso, Oklahoma",
+   "link": "https://www.owassobands.com/about",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWQHrOzAV8FGJgyzsrJA3z2I4wavc0sXL2biDMh63rgTUfKaM4ptGSiSevNkP0wpqlr-QmoUZDgOAEXJI5fNTd3sTwKj_XpNKN5mOd83x5Sr73ak-wYRwZ_4Y&ved=2ahUKEwjz9vDI7OSWAxW5YfUHHc3WM7sQFnoECB8QAQ&uoh=1",
+   "displayed_link": "https://www.owassobands.com \u203a about",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAgCAMAAAA2a-hwAAAAS1BMVEVHcEzWS0vPLS3NHh7NDQ3MAgLPJCTQLi7NFBTMAADOGBjSNzfOFRXOHBzbWVnNFhb3urrMCgrOHx_PJibPKSnMCgrNGBjNGBjPHh7b2KgXAAAAGXRSTlMAJoO-7Pt8UNn_zj28qA_mCvKUbl7_qKSbBNHIawAAAN5JREFUeAF9k4kShSAIRbFnGu22__-XvkHSsEbPbMItuaBCRFU_Xdf6ZxS8sQ1G2i7V-pDsWloNQho1ZQwHhtbTHLTZUbyEcPFqiPxOGiKa4p7XKxJWmENiA2KnpQOBL7OzAVFRVMU1VMCktQ5vTwo9kMA5BWv4SjLd-x4ojCcDw5ObxCsVL54x28YqFSvkudR5sS6LOi-6sqEz38pRHEJ5fDDlBq_jWV9fP6Z42MQmboVIrMK4e_3YJs5PYLhz91xcry7iAukRHgbKNHaebfMZWHgjTGPhjTL8BCsFgT-NYBCdHJB1GAAAAABJRU5ErkJggg.png",
+   "snippet": "The PRIDE of Owasso is a 1997 recipient of the Sudler Flag of Honor and a 2004 recipient of the Sudler Shield. These international awards are presented by ...",
+   "snippet_highlighted_words": [
+    "The PRIDE of Owasso"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The PRIDE of Owasso is a 1997 recipient of the Sudler Flag of Honor and a 2004 recipient of the Sudler Shield. These international awards are presented by ...",
+     "source_info_link": "https://www.owassobands.com/about",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAgCAMAAAA2a-hwAAAAS1BMVEVHcEzWS0vPLS3NHh7NDQ3MAgLPJCTQLi7NFBTMAADOGBjSNzfOFRXOHBzbWVnNFhb3urrMCgrOHx_PJibPKSnMCgrNGBjNGBjPHh7b2KgXAAAAGXRSTlMAJoO-7Pt8UNn_zj28qA_mCvKUbl7_qKSbBNHIawAAAN5JREFUeAF9k4kShSAIRbFnGu22__-XvkHSsEbPbMItuaBCRFU_Xdf6ZxS8sQ1G2i7V-pDsWloNQho1ZQwHhtbTHLTZUbyEcPFqiPxOGiKa4p7XKxJWmENiA2KnpQOBL7OzAVFRVMU1VMCktQ5vTwo9kMA5BWv4SjLd-x4ojCcDw5ObxCsVL54x28YqFSvkudR5sS6LOi-6sqEz38pRHEJ5fDDlBq_jWV9fP6Z42MQmboVIrMK4e_3YJs5PYLhz91xcry7iAukRHgbKNHaebfMZWHgjTGPhjTL8BCsFgT-NYBCdHJB1GAAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESWQHrOzAV8FGJgyzsrJA3z2I4wavc0sXL2biDMh63rgTUfKaM4ptGSiSevNkP0wpqlr-QmoUZDgOAEXJI5fNTd3sTwKj_XpNKN5mOd83x5Sr73ak-wYRwZ_4Y&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESWQHrOzAV8FGJgyzsrJA3z2I4wavc0sXL2biDMh63rgTUfKaM4ptGSiSevNkP0wpqlr-QmoUZDgOAEXJI5fNTd3sTwKj_XpNKN5mOd83x5Sr73ak-wYRwZ_4Y",
+   "source": "Owasso Bands",
+   "read_more_link": "https://www.owassobands.com/about#:~:text=The%20PRIDE%20of%20Owasso%20is,international%20awards%20are%20presented%20by"
+  },
+  {
+   "position": 4,
+   "title": "owassobands \u00b7 Owasso, Oklahoma",
+   "link": "https://www.instagram.com/owassobands/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXgHrOzAVQ8rOwVwfVEftv3QRS5zcZPPBhBo8HeMM84i6UNg6qswo2c4pKA_I7MZf-BPRggGsbNAZtgFa6gw4GVxKEnyLx0xGgv5CVoBFbiR_go5MziA4PA_3aLiY7cQ&ved=2ahUKEwjz9vDI7OSWAxW5YfUHHc3WM7sQFnoECCUQAQ&uoh=1",
+   "displayed_link": "2.7K+ followers",
+   "favicon": "https://serpapi.com/searches/6aa3127269819da43880b725/images/luJfigYdMDsjaU5BH7o0tOXwuTLjjWyJ6pyvkZg7n3Q.png",
+   "snippet": "Congratulations to the Pride of Owasso for earning 6th place at the BoA St. Louis Super Regional!!! We are so proud of the students for their hard work and ...",
+   "snippet_highlighted_words": [
+    "the Pride of Owasso"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Congratulations to the Pride of Owasso for earning 6th place at the BoA St. Louis Super Regional!!! We are so proud of the students for their hard work and ...",
+     "source_info_link": "https://www.instagram.com/owassobands/",
+     "icon": "https://serpapi.com/searches/6aa3127269819da43880b725/images/luJfigYdMDsjaU5BH7o0tH-s432NJhY_zVPBbLoH82xeOgsik_DhGjDcBop7joGy.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESXgHrOzAVQ8rOwVwfVEftv3QRS5zcZPPBhBo8HeMM84i6UNg6qswo2c4pKA_I7MZf-BPRggGsbNAZtgFa6gw4GVxKEnyLx0xGgv5CVoBFbiR_go5MziA4PA_3aLiY7cQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESXgHrOzAVQ8rOwVwfVEftv3QRS5zcZPPBhBo8HeMM84i6UNg6qswo2c4pKA_I7MZf-BPRggGsbNAZtgFa6gw4GVxKEnyLx0xGgv5CVoBFbiR_go5MziA4PA_3aLiY7cQ",
+   "source": "Instagram"
+  },
+  {
+   "position": 5,
+   "title": "Fine Arts",
+   "link": "https://www.owassops.org/departments/fine-arts",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAV_L6xjVuv8QUVDmGDPqSDcSgKbGtz7-W3VHM5rpEgUxx4bi-T9NvFn3IcVdBDakFuDNdYACwlspXKURB7T7iqFVkIG5AazdZAjwHUmi57ZfJ5iex32q5Hjekf1aPuzbzydA&ved=2ahUKEwjz9vDI7OSWAxW5YfUHHc3WM7sQFnoECCEQAQ&uoh=1",
+   "displayed_link": "https://www.owassops.org \u203a departments \u203a fine-arts",
+   "favicon": "https://serpapi.com/searches/6aa3127269819da43880b725/images/luJfigYdMDsjaU5BH7o0tKmkTZ4CD50OzxuGB-XI0DQ.png",
+   "snippet": "The PRIDE of Owasso is a nationally known band program. The marching band was recently invited to perform (for the 5th time) in the Tournament of Roses ...",
+   "snippet_highlighted_words": [
+    "The PRIDE of Owasso"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The PRIDE of Owasso is a nationally known band program. The marching band was recently invited to perform (for the 5th time) in the Tournament of Roses ...",
+     "source_info_link": "https://www.owassops.org/departments/fine-arts",
+     "icon": "https://serpapi.com/searches/6aa3127269819da43880b725/images/luJfigYdMDsjaU5BH7o0tMqE5oPvxwPLydq7AdiQQoELPGbJlfFBDS8XHjQ2cyTs.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESZgHrOzAV_L6xjVuv8QUVDmGDPqSDcSgKbGtz7-W3VHM5rpEgUxx4bi-T9NvFn3IcVdBDakFuDNdYACwlspXKURB7T7iqFVkIG5AazdZAjwHUmi57ZfJ5iex32q5Hjekf1aPuzbzydA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESZgHrOzAV_L6xjVuv8QUVDmGDPqSDcSgKbGtz7-W3VHM5rpEgUxx4bi-T9NvFn3IcVdBDakFuDNdYACwlspXKURB7T7iqFVkIG5AazdZAjwHUmi57ZfJ5iex32q5Hjekf1aPuzbzydA",
+   "source": "Owasso Public Schools",
+   "read_more_link": "https://www.owassops.org/departments/fine-arts#:~:text=Speech%2FDebate"
+  },
+  {
+   "position": 6,
+   "title": "Close Up Look At The Pride Of Owasso Marching Band",
+   "link": "https://www.newson6.com/story/5e36099f2f69d76f62036142/close-up-look-at-the-pride-of-owasso-marching-band",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESoQEB6zswFR9A9sf0pINzoB9ltm2N3o7iTuG9Ir6x2kUaKd25qan95jeCmcGGUmZf42dBd3sgoH9cpOSK7gtI7DiyC7M_WdwsCEC6iCObhdkeBxtGajWIOVSACekodpODDDqsg9Adlnq_myokfA81M39BT549Jx6FhJrCLbXGgWevqnCJzxLFF3Ev3ueSsGijxODZpbakpiBEZv74keh93HaEpw&ved=2ahUKEwjz9vDI7OSWAxW5YfUHHc3WM7sQFnoECCMQAQ&uoh=1",
+   "displayed_link": "https://www.newson6.com \u203a story \u203a close-up-look-at-the...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAdVBMVEXNyMjIc3XCMTbAJyy_JSnSaGv67u7z19jJSEzId3m-HiO_ICW9GyDfkpT____swMHgl5nXeHv9-fnGPUHlp6nquLnHQUXUbW_nrrD13d346enuxsi9Gh_23-DagYTOV1vQYGP35OXNVFfYfH_vzs_FZmnJYmVLzWKDAAAAoklEQVR4AU3MBQIEIQhAUUacMv52d97_iCvb2E9ApHKq6uum7VRdJdKHGGPKDHwsESpx9h7S2ruEEy08YtyVh4UaTMZM0x-kGUzmo8XE0GAC7RJg6Z8QMrDKwzVsnrDdwM6H5BpYhAJpB_sQo2UOttZjDYdY4lgqDcIJOoPuDdbj_AYrcWEPF-sxstNJFbRhsy0ZV04-3ERuehyT1U1Zd3qXBwnZDM427EJcAAAAAElFTkSuQmCC.png",
+   "date": "Aug 10, 2016",
+   "snippet": "The Pride of Owasso has achieved 30 consecutive years of superior ratings at OSSAA contest in Marching,Concert and Sight Reading. The band was a ...",
+   "snippet_highlighted_words": [
+    "The Pride of Owasso"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The Pride of Owasso has achieved 30 consecutive years of superior ratings at OSSAA contest in Marching,Concert and Sight Reading. The band was a ...",
+     "source_info_link": "https://www.newson6.com/story/5e36099f2f69d76f62036142/close-up-look-at-the-pride-of-owasso-marching-band",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAdVBMVEXNyMjIc3XCMTbAJyy_JSnSaGv67u7z19jJSEzId3m-HiO_ICW9GyDfkpT____swMHgl5nXeHv9-fnGPUHlp6nquLnHQUXUbW_nrrD13d346enuxsi9Gh_23-DagYTOV1vQYGP35OXNVFfYfH_vzs_FZmnJYmVLzWKDAAAAoklEQVR4AU3MBQIEIQhAUUacMv52d97_iCvb2E9ApHKq6uum7VRdJdKHGGPKDHwsESpx9h7S2ruEEy08YtyVh4UaTMZM0x-kGUzmo8XE0GAC7RJg6Z8QMrDKwzVsnrDdwM6H5BpYhAJpB_sQo2UOttZjDYdY4lgqDcIJOoPuDdbj_AYrcWEPF-sxstNJFbRhsy0ZV04-3ERuehyT1U1Zd3qXBwnZDM427EJcAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESoQEB6zswFR9A9sf0pINzoB9ltm2N3o7iTuG9Ir6x2kUaKd25qan95jeCmcGGUmZf42dBd3sgoH9cpOSK7gtI7DiyC7M_WdwsCEC6iCObhdkeBxtGajWIOVSACekodpODDDqsg9Adlnq_myokfA81M39BT549Jx6FhJrCLbXGgWevqnCJzxLFF3Ev3ueSsGijxODZpbakpiBEZv74keh93HaEpw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESoQEB6zswFR9A9sf0pINzoB9ltm2N3o7iTuG9Ir6x2kUaKd25qan95jeCmcGGUmZf42dBd3sgoH9cpOSK7gtI7DiyC7M_WdwsCEC6iCObhdkeBxtGajWIOVSACekodpODDDqsg9Adlnq_myokfA81M39BT549Jx6FhJrCLbXGgWevqnCJzxLFF3Ev3ueSsGijxODZpbakpiBEZv74keh93HaEpw",
+   "source": "News On 6",
+   "read_more_link": "https://www.newson6.com/story/5e36099f2f69d76f62036142/close-up-look-at-the-pride-of-owasso-marching-band#:~:text=The%20Pride%20of%20Owasso%20has,at%20Bands%20of%20America%20St."
+  },
+  {
+   "position": 7,
+   "title": "(TBN7NZ) Travel Bug Dog Tag - Pride of Owasso",
+   "link": "https://www.geocaching.com/track/details.aspx?guid=dd833da4-135f-4db3-93a8-8f1d0f8c2be8",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjwEB6zswFVLD2G0Re71jGQ5Lx3AnZWKkM2YoNZpdJzBpGj310NTdfCa1tU89sCzg_iecb-F0KdJwr6XO6P8C5lAjuTLzEKkyH4v7z-c9cSCLCa9hhDzXvjIrv8voL9a6FNSaoG8ss10GhqCGcf1f7V2abcQyAVUtaI3mUzTKat1u7V6Z6GaUXAN0QUcwM8apFg&ved=2ahUKEwjz9vDI7OSWAxW5YfUHHc3WM7sQFnoECCIQAQ&uoh=1",
+   "displayed_link": "https://www.geocaching.com \u203a track \u203a details",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEUFiE4AhEcDiE4AiE0AhkoAg0L___8AgkF4s5Qskl9oq4cAfTYAgD7i7-hQoXcAejChybOw0sAAgkOaxa5troyBuJrp8-7G3tFAmmwAfjpHnXG518fb6uIAfDcZjVbP5NlbpX4lkV1aCYtCAAABVElEQVR4AX3Q0W6DMAyF4SQ2Jy1JVwosEFKge_-XnAFZazup_xXokwW2kawzzhhiqgBP5iV7YvKezjULButeMF6-CJdrc2sFu54iP09-J4vkcGZBaRgjGc3lS3ITGk-CJQkX-lOyd-A2mw2v8zggLUyKlAXv-rec68UupBoL-hMS6SrMSyrxMJ6whtxgzf5AwzUw8jG44ospA4-oR8gDhn3UETAb4xsMQZFHgLer2R5rJOLz9ykLOtqaE3pLpgqdrFFVlc85AKHaCwVdrgw-9Bl96FCufi8A-5NmnO2RZre37emsj7G1zPIuq7BuvF_I9uW-No8fPYJsnBXjiKPijW7cW52Mh91bp4dPC1vFFUjlFMX2iBa71Jl3bDs8grdiqrwkDOMcBHlCUNHZG4BUBF3GxOZV4zhgy1Ncu9a8xZHrbsO2W6P5l7PzhjwhujfSPenpo7-bnRYOixSjfgAAAABJRU5ErkJggg.png",
+   "snippet": "Owasso High School is the only band in Oklahoma to have received both awards. The Pride of Owasso marching band has received First Divisions in the OSSAA ...",
+   "snippet_highlighted_words": [
+    "Oklahoma",
+    "The Pride of Owasso"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Owasso High School is the only band in Oklahoma to have received both awards. The Pride of Owasso marching band has received First Divisions in the OSSAA ...",
+     "source_info_link": "https://www.geocaching.com/track/details.aspx?guid=dd833da4-135f-4db3-93a8-8f1d0f8c2be8",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEUFiE4AhEcDiE4AiE0AhkoAg0L___8AgkF4s5Qskl9oq4cAfTYAgD7i7-hQoXcAejChybOw0sAAgkOaxa5troyBuJrp8-7G3tFAmmwAfjpHnXG518fb6uIAfDcZjVbP5NlbpX4lkV1aCYtCAAABVElEQVR4AX3Q0W6DMAyF4SQ2Jy1JVwosEFKge_-XnAFZazup_xXokwW2kawzzhhiqgBP5iV7YvKezjULButeMF6-CJdrc2sFu54iP09-J4vkcGZBaRgjGc3lS3ITGk-CJQkX-lOyd-A2mw2v8zggLUyKlAXv-rec68UupBoL-hMS6SrMSyrxMJ6whtxgzf5AwzUw8jG44ospA4-oR8gDhn3UETAb4xsMQZFHgLer2R5rJOLz9ykLOtqaE3pLpgqdrFFVlc85AKHaCwVdrgw-9Bl96FCufi8A-5NmnO2RZre37emsj7G1zPIuq7BuvF_I9uW-No8fPYJsnBXjiKPijW7cW52Mh91bp4dPC1vFFUjlFMX2iBa71Jl3bDs8grdiqrwkDOMcBHlCUNHZG4BUBF3GxOZV4zhgy1Ncu9a8xZHrbsO2W6P5l7PzhjwhujfSPenpo7-bnRYOixSjfgAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESjwEB6zswFVLD2G0Re71jGQ5Lx3AnZWKkM2YoNZpdJzBpGj310NTdfCa1tU89sCzg_iecb-F0KdJwr6XO6P8C5lAjuTLzEKkyH4v7z-c9cSCLCa9hhDzXvjIrv8voL9a6FNSaoG8ss10GhqCGcf1f7V2abcQyAVUtaI3mUzTKat1u7V6Z6GaUXAN0QUcwM8apFg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESjwEB6zswFVLD2G0Re71jGQ5Lx3AnZWKkM2YoNZpdJzBpGj310NTdfCa1tU89sCzg_iecb-F0KdJwr6XO6P8C5lAjuTLzEKkyH4v7z-c9cSCLCa9hhDzXvjIrv8voL9a6FNSaoG8ss10GhqCGcf1f7V2abcQyAVUtaI3mUzTKat1u7V6Z6GaUXAN0QUcwM8apFg",
+   "source": "Geocaching"
+  },
+  {
+   "position": 8,
+   "title": "Pride of Owasso marching band set to perform in New ...",
+   "link": "https://okcfox.com/news/local/pride-of-owasso-marching-band-set-to-perform-in-new-years-day-rose-parade",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnwEB6zswFU38YIlyLPdrpdLe41NiLuZWxl_odE1lcduqVbM3LJ-fyDRW1F9YRKrfOb3MfNC9NI_-NA4puAcS5__s7LT3CbzJvoOpb5kK7ABo8boTsmAQukRGstNmMKXq78t_L6eIC__9rlg779fRMuvs0y8lAkKN2EvgED1KjJf-k2xH_9jMsKGYbo8FoAyXafsG0VSGGqow7nhF_f-eTdk&ved=2ahUKEwjz9vDI7OSWAxW5YfUHHc3WM7sQFnoECCYQAQ&uoh=1",
+   "displayed_link": "https://okcfox.com \u203a news \u203a local \u203a pride-of-owasso-m...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAolBMVEViAQBvAQB0AQBuAQBsAQBpAQBoAQBmAQBkAQBfAQBeAQBZAAB3AQB3AgB4AgBSAABQAAB4AQBoFxaneHjs4OD____w6Oi7l5d6NTVsHR7Os7PZxsa0iopyKCiJTEz17-_49fW-o6Pm19eEJiWqgYF4JyaGQ0OYVlaTS0uacnKoiIiDOTnDrKysfHybYGCALS12EhKiY2N_EhGbamqTQUHBmJisWii5AAABjElEQVR4AWSQBaLbMBBExTLI_lUjOczMfP-rdVZOecJ5fqvxMsYFwjmXSimtjbE2yxjL86KwrCwsCEFimtgHMseKosiNBJP_iDknmOc5M-qXmBigrip8gjFmjf5btKJ2LCEcY4GJEQRjvK4rEDBWfCGFNbYs6du3L-s9TNLY906Isen2bH8wbDPiBImNhzGlmfSnMWXWETQ2A5zj13DYxLiweGtCCMOlIxMNxosY50qtYK0Bu5vJdic8mSix3h8Oa2OOuOZI-unslavJNAhuRCtzQSndRGQazpxMQCxGUXDyMKNChFeczJZgsyO0ut7uPGcPzF8sXYKEpH7C6WD_ovL8FWPYCoxVLZuEOJvflLhy5-Q9QZiEuLphUhg9n6PB5bq80NirgwnEJR_SVpqmmcWwWFDjrqBCkiODiBCnspTBMq0PSD4Hn5yvb9KGu5ugJRAUUuu2lxDcaGWV8L6FIsU5V9UpHoBCY38x2iYJvz5gfpCv_w-ZhH4pf5t0WNLoyL8_qgTx-DGgCkydAJqNK1A4X3L1AAAAAElFTkSuQmCC.png",
+   "date": "Dec 27, 2019",
+   "snippet": "To see the Pride of Owasso march in the Rose Parade all you have to do is tune into Channel 8 on New Year's Day. The parade is set to start at ...",
+   "snippet_highlighted_words": [
+    "the Pride of Owasso"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "To see the Pride of Owasso march in the Rose Parade all you have to do is tune into Channel 8 on New Year's Day. The parade is set to start at ...",
+     "source_info_link": "https://okcfox.com/news/local/pride-of-owasso-marching-band-set-to-perform-in-new-years-day-rose-parade",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAolBMVEViAQBvAQB0AQBuAQBsAQBpAQBoAQBmAQBkAQBfAQBeAQBZAAB3AQB3AgB4AgBSAABQAAB4AQBoFxaneHjs4OD____w6Oi7l5d6NTVsHR7Os7PZxsa0iopyKCiJTEz17-_49fW-o6Pm19eEJiWqgYF4JyaGQ0OYVlaTS0uacnKoiIiDOTnDrKysfHybYGCALS12EhKiY2N_EhGbamqTQUHBmJisWii5AAABjElEQVR4AWSQBaLbMBBExTLI_lUjOczMfP-rdVZOecJ5fqvxMsYFwjmXSimtjbE2yxjL86KwrCwsCEFimtgHMseKosiNBJP_iDknmOc5M-qXmBigrip8gjFmjf5btKJ2LCEcY4GJEQRjvK4rEDBWfCGFNbYs6du3L-s9TNLY906Isen2bH8wbDPiBImNhzGlmfSnMWXWETQ2A5zj13DYxLiweGtCCMOlIxMNxosY50qtYK0Bu5vJdic8mSix3h8Oa2OOuOZI-unslavJNAhuRCtzQSndRGQazpxMQCxGUXDyMKNChFeczJZgsyO0ut7uPGcPzF8sXYKEpH7C6WD_ovL8FWPYCoxVLZuEOJvflLhy5-Q9QZiEuLphUhg9n6PB5bq80NirgwnEJR_SVpqmmcWwWFDjrqBCkiODiBCnspTBMq0PSD4Hn5yvb9KGu5ugJRAUUuu2lxDcaGWV8L6FIsU5V9UpHoBCY38x2iYJvz5gfpCv_w-ZhH4pf5t0WNLoyL8_qgTx-DGgCkydAJqNK1A4X3L1AAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESnwEB6zswFU38YIlyLPdrpdLe41NiLuZWxl_odE1lcduqVbM3LJ-fyDRW1F9YRKrfOb3MfNC9NI_-NA4puAcS5__s7LT3CbzJvoOpb5kK7ABo8boTsmAQukRGstNmMKXq78t_L6eIC__9rlg779fRMuvs0y8lAkKN2EvgED1KjJf-k2xH_9jMsKGYbo8FoAyXafsG0VSGGqow7nhF_f-eTdk&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESnwEB6zswFU38YIlyLPdrpdLe41NiLuZWxl_odE1lcduqVbM3LJ-fyDRW1F9YRKrfOb3MfNC9NI_-NA4puAcS5__s7LT3CbzJvoOpb5kK7ABo8boTsmAQukRGstNmMKXq78t_L6eIC__9rlg779fRMuvs0y8lAkKN2EvgED1KjJf-k2xH_9jMsKGYbo8FoAyXafsG0VSGGqow7nhF_f-eTdk",
+   "source": "KOKH",
+   "read_more_link": "https://okcfox.com/news/local/pride-of-owasso-marching-band-set-to-perform-in-new-years-day-rose-parade#:~:text=To%20see%20the%20Pride%20of,to%20start%20at%2011%20a.m."
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "The pride of owasso oklahoma schedule",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=The+pride+of+owasso+oklahoma+schedule&sa=X&ved=2ahUKEwjz9vDI7OSWAxW5YfUHHc3WM7sQ1QJ6BAhJEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=The+pride+of+owasso+oklahoma+schedule"
+  },
+  {
+   "block_position": 1,
+   "query": "The pride of owasso oklahoma members",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=The+pride+of+owasso+oklahoma+members&sa=X&ved=2ahUKEwjz9vDI7OSWAxW5YfUHHc3WM7sQ1QJ6BAhTEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=The+pride+of+owasso+oklahoma+members"
+  },
+  {
+   "block_position": 1,
+   "query": "The pride of owasso oklahoma history",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=The+pride+of+owasso+oklahoma+history&sa=X&ved=2ahUKEwjz9vDI7OSWAxW5YfUHHc3WM7sQ1QJ6BAhPEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=The+pride+of+owasso+oklahoma+history"
+  },
+  {
+   "block_position": 1,
+   "query": "The pride of owasso oklahoma 2021",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=The+pride+of+owasso+oklahoma+2021&sa=X&ved=2ahUKEwjz9vDI7OSWAxW5YfUHHc3WM7sQ1QJ6BAhSEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=The+pride+of+owasso+oklahoma+2021"
+  },
+  {
+   "block_position": 1,
+   "query": "The pride of owasso oklahoma videos",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=The+pride+of+owasso+oklahoma+videos&sa=X&ved=2ahUKEwjz9vDI7OSWAxW5YfUHHc3WM7sQ1QJ6BAhREAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=The+pride+of+owasso+oklahoma+videos"
+  },
+  {
+   "block_position": 1,
+   "query": "Owasso marching invitational results",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Owasso+marching+invitational+results&sa=X&ved=2ahUKEwjz9vDI7OSWAxW5YfUHHc3WM7sQ1QJ6BAhQEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Owasso+marching+invitational+results"
+  },
+  {
+   "block_position": 1,
+   "query": "Owasso Band calendar",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Owasso+Band+calendar&sa=X&ved=2ahUKEwjz9vDI7OSWAxW5YfUHHc3WM7sQ1QJ6BAhOEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Owasso+Band+calendar"
+  },
+  {
+   "block_position": 1,
+   "query": "Owasso Band Patrons",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Owasso+Band+Patrons&sa=X&ved=2ahUKEwjz9vDI7OSWAxW5YfUHHc3WM7sQ1QJ6BAhMEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Owasso+Band+Patrons"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22The+Pride+of+Owasso%22+Oklahoma&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=gRKjarOyDbnD1e8Pza3P2Qs&start=10&sa=N&sstk=AS6-VmJ9U7kefPNMLZlVD9DW8UKbkQqJzQGr9vmsvW_tUWGn_-c-va02yzPM4d74Ajo_pezCDkoDAmJXZVpjie3oElUZPbP_fPNd9g&ved=2ahUKEwjz9vDI7OSWAxW5YfUHHc3WM7sQ8NMDegQIOxAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22The+Pride+of+Owasso%22+Oklahoma&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=gRKjarOyDbnD1e8Pza3P2Qs&start=10&sa=N&sstk=AS6-VmJ9U7kefPNMLZlVD9DW8UKbkQqJzQGr9vmsvW_tUWGn_-c-va02yzPM4d74Ajo_pezCDkoDAmJXZVpjie3oElUZPbP_fPNd9g&ved=2ahUKEwjz9vDI7OSWAxW5YfUHHc3WM7sQ8tMDegQIOxAE",
+   "3": "https://www.google.com/search?q=%22The+Pride+of+Owasso%22+Oklahoma&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=gRKjarOyDbnD1e8Pza3P2Qs&start=20&sa=N&sstk=AS6-VmJ9U7kefPNMLZlVD9DW8UKbkQqJzQGr9vmsvW_tUWGn_-c-va02yzPM4d74Ajo_pezCDkoDAmJXZVpjie3oElUZPbP_fPNd9g&ved=2ahUKEwjz9vDI7OSWAxW5YfUHHc3WM7sQ8tMDegQIOxAG",
+   "4": "https://www.google.com/search?q=%22The+Pride+of+Owasso%22+Oklahoma&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=gRKjarOyDbnD1e8Pza3P2Qs&start=30&sa=N&sstk=AS6-VmJ9U7kefPNMLZlVD9DW8UKbkQqJzQGr9vmsvW_tUWGn_-c-va02yzPM4d74Ajo_pezCDkoDAmJXZVpjie3oElUZPbP_fPNd9g&ved=2ahUKEwjz9vDI7OSWAxW5YfUHHc3WM7sQ8tMDegQIOxAI",
+   "5": "https://www.google.com/search?q=%22The+Pride+of+Owasso%22+Oklahoma&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=gRKjarOyDbnD1e8Pza3P2Qs&start=40&sa=N&sstk=AS6-VmJ9U7kefPNMLZlVD9DW8UKbkQqJzQGr9vmsvW_tUWGn_-c-va02yzPM4d74Ajo_pezCDkoDAmJXZVpjie3oElUZPbP_fPNd9g&ved=2ahUKEwjz9vDI7OSWAxW5YfUHHc3WM7sQ8tMDegQIOxAK",
+   "6": "https://www.google.com/search?q=%22The+Pride+of+Owasso%22+Oklahoma&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=gRKjarOyDbnD1e8Pza3P2Qs&start=50&sa=N&sstk=AS6-VmJ9U7kefPNMLZlVD9DW8UKbkQqJzQGr9vmsvW_tUWGn_-c-va02yzPM4d74Ajo_pezCDkoDAmJXZVpjie3oElUZPbP_fPNd9g&ved=2ahUKEwjz9vDI7OSWAxW5YfUHHc3WM7sQ8tMDegQIOxAM",
+   "7": "https://www.google.com/search?q=%22The+Pride+of+Owasso%22+Oklahoma&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=gRKjarOyDbnD1e8Pza3P2Qs&start=60&sa=N&sstk=AS6-VmJ9U7kefPNMLZlVD9DW8UKbkQqJzQGr9vmsvW_tUWGn_-c-va02yzPM4d74Ajo_pezCDkoDAmJXZVpjie3oElUZPbP_fPNd9g&ved=2ahUKEwjz9vDI7OSWAxW5YfUHHc3WM7sQ8tMDegQIOxAO",
+   "8": "https://www.google.com/search?q=%22The+Pride+of+Owasso%22+Oklahoma&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=gRKjarOyDbnD1e8Pza3P2Qs&start=70&sa=N&sstk=AS6-VmJ9U7kefPNMLZlVD9DW8UKbkQqJzQGr9vmsvW_tUWGn_-c-va02yzPM4d74Ajo_pezCDkoDAmJXZVpjie3oElUZPbP_fPNd9g&ved=2ahUKEwjz9vDI7OSWAxW5YfUHHc3WM7sQ8tMDegQIOxAQ",
+   "9": "https://www.google.com/search?q=%22The+Pride+of+Owasso%22+Oklahoma&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=gRKjarOyDbnD1e8Pza3P2Qs&start=80&sa=N&sstk=AS6-VmJ9U7kefPNMLZlVD9DW8UKbkQqJzQGr9vmsvW_tUWGn_-c-va02yzPM4d74Ajo_pezCDkoDAmJXZVpjie3oElUZPbP_fPNd9g&ved=2ahUKEwjz9vDI7OSWAxW5YfUHHc3WM7sQ8tMDegQIOxAS",
+   "10": "https://www.google.com/search?q=%22The+Pride+of+Owasso%22+Oklahoma&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=gRKjarOyDbnD1e8Pza3P2Qs&start=90&sa=N&sstk=AS6-VmJ9U7kefPNMLZlVD9DW8UKbkQqJzQGr9vmsvW_tUWGn_-c-va02yzPM4d74Ajo_pezCDkoDAmJXZVpjie3oElUZPbP_fPNd9g&ved=2ahUKEwjz9vDI7OSWAxW5YfUHHc3WM7sQ8tMDegQIOxAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22The+Pride+of+Owasso%22+Oklahoma&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22The+Pride+of+Owasso%22+Oklahoma&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22The+Pride+of+Owasso%22+Oklahoma&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22The+Pride+of+Owasso%22+Oklahoma&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22The+Pride+of+Owasso%22+Oklahoma&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22The+Pride+of+Owasso%22+Oklahoma&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22The+Pride+of+Owasso%22+Oklahoma&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22The+Pride+of+Owasso%22+Oklahoma&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22The+Pride+of+Owasso%22+Oklahoma&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22The+Pride+of+Owasso%22+Oklahoma&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22The+Pride+of+Owasso%22+Oklahoma&start=90"
+  }
+ }
+}

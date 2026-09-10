@@ -1,0 +1,396 @@
+{
+ "search_information": {
+  "query_displayed": "\"Lyman High School\"",
+  "total_results": 140000,
+  "time_taken_displayed": 0.4,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "local_map": {
+  "image": "https://www.google.com/maps/vt/data=DkHEtfT1G8394Kbp1fAAfEUyQNzpEywyyQh6O2S1lTAd1bsmkOqRoLXSxaJwa71jgIw9kwUg-f9HqtWBhWc0IHgTLuMAmNWRUdhDJ8aj-JhjrmYyJ8ULhV-TCJUJRC4lDT5jkfvHQRFG4uf9pUHGhnvbaZtM9cYqnTP81ISBpaq77KiKPcxNF5lMHgniLxnn9ftjazKaerHvZRFxom1BmRZEFrsHID-uqYSbE4Cg_Vn4fsZQ6BJwL03cBpywwbSVjCpEtcw7SB9U_qOKa2lDOqhw9OR9oixaunrkc6F0H1E2c0aOaTq-ju0ER2354cyu_c_5HX-INvxtNdktV_1jGGUytYwUiBZqhpiSuMgfZBAecrBwp9Re-5I1sc3XyQDB712XIeI2qkFnTg9E982cdkUG1_nS6vhuRxnVIylrqatDGalD5rsj9fh-hPGSBvI",
+  "gps_coordinates": {
+   "latitude": 37.64903402157866,
+   "longitude": -95.80078125
+  }
+ },
+ "local_results": {
+  "places": [
+   {
+    "position": 1,
+    "links": {
+     "website": "http://www.lyman.scps.k12.fl.us/",
+     "directions": "https://www.google.com/maps/dir//Lyman+High+School,+865+S+Ronald+Reagan+Blvd,+Longwood,+FL+32750/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88e77203f76fdb6d:0x1a1b7715030dfbb3?sa=X&ved=2ahUKEwiov_XN6eSWAxVk87sIHeiuKNUQ48ADegQINxAA&hl=en&gl=us"
+    },
+    "place_id": "1881228201486580659",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=1881228201486580659&q=%22Lyman+High+School%22",
+    "provider_id": "/m/0fb859",
+    "gps_coordinates": {
+     "latitude": 28.687057,
+     "longitude": -81.34415
+    },
+    "title": "Lyman High School",
+    "reviews_original": "No reviews",
+    "type": "High school",
+    "phone": "(407) 746-2050",
+    "address": "Longwood, FL",
+    "hours": "Closed \u00b7 Opens 7 AM Fri"
+   },
+   {
+    "position": 2,
+    "links": {
+     "website": "https://www.lymaneagles.com/",
+     "directions": "https://www.google.com/maps/dir//Lyman+High+School,+1305+East+Clark+Street,+Lyman,+WY+82937/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x87505573749684d3:0xb83f4e7b9506b4ec?sa=X&ved=2ahUKEwiov_XN6eSWAxVk87sIHeiuKNUQ48ADegQIMhAA&hl=en&gl=us"
+    },
+    "place_id": "13276416519199700204",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=13276416519199700204&q=%22Lyman+High+School%22",
+    "provider_id": "/m/076b831",
+    "gps_coordinates": {
+     "latitude": 41.33227,
+     "longitude": -110.270905
+    },
+    "title": "Lyman High School",
+    "reviews_original": "No reviews",
+    "type": "High school",
+    "phone": "(307) 786-4100",
+    "address": "Lyman, WY"
+   },
+   {
+    "position": 3,
+    "links": {
+     "website": "https://www.lyman.k12.sd.us/",
+     "directions": "https://www.google.com/maps/dir//Lyman+High+School,+201+Birch+Ave,+Presho,+SD+57568/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8781ad973bf284f5:0x75fe9f46eaa57e03?sa=X&ved=2ahUKEwiov_XN6eSWAxVk87sIHeiuKNUQ48ADegQIMRAA&hl=en&gl=us"
+    },
+    "place_id": "8502408273455316483",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=8502408273455316483&q=%22Lyman+High+School%22",
+    "provider_id": "/m/0hnc599",
+    "gps_coordinates": {
+     "latitude": 43.909824,
+     "longitude": -100.063274
+    },
+    "title": "Lyman High School",
+    "reviews_original": "No reviews",
+    "type": "High school",
+    "phone": "(605) 895-2662",
+    "address": "Presho, SD",
+    "hours": "Closes soon \u00b7 4 PM"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "What is Lyman High School known for?",
+   "type": "ai_overview",
+   "page_token": "SIavwnicHdDBcqIwAADQ6c_0WBMQd8cZpzPUALoSSiSB5LKDAUQDEkvaoLf-S7-qX9OdPb_b-_zqThf1_fDRGqPH5WxmrX06DsOxq5_k0M_K8XaRM1l23aGUarn4tYDPjVyh943_ct34KdWarQnY39ko-kmlrnjPcp0kUbUrQ4-TUIiMYpAw8coCBpgb2Cxo0QFtd9wlL0nEYN1Lj4aeos78xvaw2SMsDmFlCKuGmHoZzjDEofhDYGAoIq1wrCnptBCdtrEzGa6Ohtx9G4fbnSg6Q4H1JPgNcYGcHE1xfdG9zEXDlLcmZ0FIsbGVwqCOtrzuOKT5fEp7bvLI17zX4z-7oLYqxQ1eeRFcY9S-shC4BWQpVvNbWQQk9odTSsldnrueBb4vne1QgRHwnN7JmThZTpIU6FMZ4fUhbxVNHxv5sXIf_3-u_ja9Weq34fgDojmC3A",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=SIavwnicHdDBcqIwAADQ6c_0WBMQd8cZpzPUALoSSiSB5LKDAUQDEkvaoLf-S7-qX9OdPb_b-_zqThf1_fDRGqPH5WxmrX06DsOxq5_k0M_K8XaRM1l23aGUarn4tYDPjVyh943_ct34KdWarQnY39ko-kmlrnjPcp0kUbUrQ4-TUIiMYpAw8coCBpgb2Cxo0QFtd9wlL0nEYN1Lj4aeos78xvaw2SMsDmFlCKuGmHoZzjDEofhDYGAoIq1wrCnptBCdtrEzGa6Ohtx9G4fbnSg6Q4H1JPgNcYGcHE1xfdG9zEXDlLcmZ0FIsbGVwqCOtrzuOKT5fEp7bvLI17zX4z-7oLYqxQ1eeRFcY9S-shC4BWQpVvNbWQQk9odTSsldnrueBb4vne1QgRHwnN7JmThZTpIU6FMZ4fUhbxVNHxv5sXIf_3-u_ja9Weq34fgDojmC3A",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWIzaDRUMGhuVGtaV1JuaDVWak5HY2sxUGRYcG9jVGxYTkRkTFRXSTRXRGN5T1VsRVpVSjJhV05YUlVObVNXeHdaa1ZCTms1SWVWSTRlbFZzTmkxa2RrNUNWbU13YW5CamFXSlNVVTFyVDFad2FUSnVWazQzWTNabVp4SVhXbWN0YW1GeGFqQklUMVJ0TjE5VlVEWk9NbWx4VVRBYUlrRkVjM0k1WmxGblMzUjVWVmh1YzBOdlNEUkJWVGszVjBjeE1UUkliRlpOVGtFIiwiZmN2IjoiMyIsImVpIjoiWmctamFxajBIT1RtN19VUDZOMmlxUTAiLCJxYyI6IkNoRnNlVzFoYmlCb2FXZG9JSE5qYUc5dmJCQUFmUjRwVmo4IiwicXVlc3Rpb24iOiJXaGF0IGlzIEx5bWFuIEhpZ2ggU2Nob29sIGtub3duIGZvcj8iLCJsayI6IkdpTjNhR0YwSUdseklHeDViV0Z1SUdocFoyZ2djMk5vYjI5c0lHdHViM2R1SUdadmNnIiwiYnMiOiJjNVdRTVF2Q01CQ0ZjYzNrbk9uQXFxQ0NVSFh1SmdvNk9ZZzRIZG8yUjlORWttangzMnUxMWJiaTBQMTczNzE3Yk11OHZVQUhaR0Z6VDFIQmltSUJ1NVBRV2tLaWRLWWcwaWJ3LTd5WEZaeDhjU0xuYklOaktadVhPaWRDU0xWMWNER2hkUlNUdnRwYWloUXNwVFoweHNCZjhGbldJaGU5Yy16QXBuX2JEeTBZVkFtcHVIWnB3TDNmQnlwZ3FUNnk4ZnBqUlNscnctQ3pITjNRaFlVZzhDZDg5SjBteDZ2Nkp0N3RQQUEiLCJpZCI6ImZjX1pnLWphcWowSE9UbTdfVVA2TjJpcVEwXzMifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWIzaDRUMGhuVGtaV1JuaDVWak5HY2sxUGRYcG9jVGxYTkRkTFRXSTRXRGN5T1VsRVpVSjJhV05YUlVObVNXeHdaa1ZCTms1SWVWSTRlbFZzTmkxa2RrNUNWbU13YW5CamFXSlNVVTFyVDFad2FUSnVWazQzWTNabVp4SVhXbWN0YW1GeGFqQklUMVJ0TjE5VlVEWk9NbWx4VVRBYUlrRkVjM0k1WmxGblMzUjVWVmh1YzBOdlNEUkJWVGszVjBjeE1UUkliRlpOVGtFIiwiZmN2IjoiMyIsImVpIjoiWmctamFxajBIT1RtN19VUDZOMmlxUTAiLCJxYyI6IkNoRnNlVzFoYmlCb2FXZG9JSE5qYUc5dmJCQUFmUjRwVmo4IiwicXVlc3Rpb24iOiJXaGF0IGlzIEx5bWFuIEhpZ2ggU2Nob29sIGtub3duIGZvcj8iLCJsayI6IkdpTjNhR0YwSUdseklHeDViV0Z1SUdocFoyZ2djMk5vYjI5c0lHdHViM2R1SUdadmNnIiwiYnMiOiJjNVdRTVF2Q01CQ0ZjYzNrbk9uQXFxQ0NVSFh1SmdvNk9ZZzRIZG8yUjlORWttangzMnUxMWJiaTBQMTczNzE3Yk11OHZVQUhaR0Z6VDFIQmltSUJ1NVBRV2tLaWRLWWcwaWJ3LTd5WEZaeDhjU0xuYklOaktadVhPaWRDU0xWMWNER2hkUlNUdnRwYWloUXNwVFoweHNCZjhGbldJaGU5Yy16QXBuX2JEeTBZVkFtcHVIWnB3TDNmQnlwZ3FUNnk4ZnBqUlNscnctQ3pITjNRaFlVZzhDZDg5SjBteDZ2Nkp0N3RQQUEiLCJpZCI6ImZjX1pnLWphcWowSE9UbTdfVVA2TjJpcVEwXzMifQ%3D%3D"
+  },
+  {
+   "question": "What is the most prestigious high school in Florida?",
+   "type": "ai_overview",
+   "page_token": "By6hn3icHdDPbpswAIBx7WV6bHCosiVSVIkWQq3h1Ab_wZfK2EkgGAONk5Dc9gp7hj3VnmbVjt_ld_h-_bGNa_9--117P5xWs9n1en089P3B7h51383U6eb0TCtrK6Xb1eL7Ajzv9Tq-6OjlU0eYDgN7JUHeLUHBjCKvELOUFZoN_KtPZI7u_IivArRP6s7OtIClDLI5pYYrvswkrS-lwD5Lo6hKBo_F8Ea7eJKbkzfCZplIFtsCHasAjPnRAi2IZ3P5UzpEmUMN38Ait8uWOlIWLcSaT66yEuauPpcdOe9S2bAUwiogI2_ApYp_BAXDgLTyfcvRYGJTq7lFO1f6bSIXOEwmmsJIOjYx7h2Nl2NG6_zLBTl_C0hRo7g2St7AWIpkzOL6nW2CUACGUft0UyIhWdQ3mJK7PtqOBvaescQZATlKYcgS05TABHQz5TLsQ8Qto_hhry_r8OH_6_XHvvOr4bM__ANd3Y2f",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=By6hn3icHdDPbpswAIBx7WV6bHCosiVSVIkWQq3h1Ab_wZfK2EkgGAONk5Dc9gp7hj3VnmbVjt_ld_h-_bGNa_9--117P5xWs9n1en089P3B7h51383U6eb0TCtrK6Xb1eL7Ajzv9Tq-6OjlU0eYDgN7JUHeLUHBjCKvELOUFZoN_KtPZI7u_IivArRP6s7OtIClDLI5pYYrvswkrS-lwD5Lo6hKBo_F8Ea7eJKbkzfCZplIFtsCHasAjPnRAi2IZ3P5UzpEmUMN38Ait8uWOlIWLcSaT66yEuauPpcdOe9S2bAUwiogI2_ApYp_BAXDgLTyfcvRYGJTq7lFO1f6bSIXOEwmmsJIOjYx7h2Nl2NG6_zLBTl_C0hRo7g2St7AWIpkzOL6nW2CUACGUft0UyIhWdQ3mJK7PtqOBvaescQZATlKYcgS05TABHQz5TLsQ8Qto_hhry_r8OH_6_XHvvOr4bM__ANd3Y2f",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWIzaDRUMGhuVGtaV1JuaDVWak5HY2sxUGRYcG9jVGxYTkRkTFRXSTRXRGN5T1VsRVpVSjJhV05YUlVObVNXeHdaa1ZCTms1SWVWSTRlbFZzTmkxa2RrNUNWbU13YW5CamFXSlNVVTFyVDFad2FUSnVWazQzWTNabVp4SVhXbWN0YW1GeGFqQklUMVJ0TjE5VlVEWk9NbWx4VVRBYUlrRkVjM0k1WmxGblMzUjVWVmh1YzBOdlNEUkJWVGszVjBjeE1UUkliRlpOVGtFIiwiZmN2IjoiMyIsImVpIjoiWmctamFxajBIT1RtN19VUDZOMmlxUTAiLCJxYyI6IkNoRnNlVzFoYmlCb2FXZG9JSE5qYUc5dmJCQUFmUjRwVmo4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBtb3N0IHByZXN0aWdpb3VzIGhpZ2ggc2Nob29sIGluIEZsb3JpZGE/IiwibGsiOiJHak4zYUdGMElHbHpJSFJvWlNCdGIzTjBJSEJ5WlhOMGFXZHBiM1Z6SUdocFoyZ2djMk5vYjI5c0lHbHVJR1pzYjNKcFpHRSIsImJzIjoiYzVXUU1RdkNNQkNGY2Mza25PbkFxcUNDVUhYdUpnbzZPWWc0SGRvMlI5TkVrbWp4MzJ1MTFiYmkwUDE3MzcxN2JNdTh2VUFIWkdGelQxSEJpbUlCdTVQUVdrS2lkS1lnMGlidy03eVhGWng4Y1NMbmJJTmpLWnVYT2lkQ1NMVjFjREdoZFJTVHZ0cGFpaFFzcFRaMHhzQmY4Rm5XSWhlOWMtekFwbl9iRHkwWVZBbXB1SFpwd0wzZkJ5cGdxVDZ5OGZwalJTbHJ3LUN6SE4zUWhZVWc4Q2Q4OUowbXg2djZKdDd0UEFBIiwiaWQiOiJmY19aZy1qYXFqMEhPVG03X1VQNk4yaXFRMF8zIn0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWIzaDRUMGhuVGtaV1JuaDVWak5HY2sxUGRYcG9jVGxYTkRkTFRXSTRXRGN5T1VsRVpVSjJhV05YUlVObVNXeHdaa1ZCTms1SWVWSTRlbFZzTmkxa2RrNUNWbU13YW5CamFXSlNVVTFyVDFad2FUSnVWazQzWTNabVp4SVhXbWN0YW1GeGFqQklUMVJ0TjE5VlVEWk9NbWx4VVRBYUlrRkVjM0k1WmxGblMzUjVWVmh1YzBOdlNEUkJWVGszVjBjeE1UUkliRlpOVGtFIiwiZmN2IjoiMyIsImVpIjoiWmctamFxajBIT1RtN19VUDZOMmlxUTAiLCJxYyI6IkNoRnNlVzFoYmlCb2FXZG9JSE5qYUc5dmJCQUFmUjRwVmo4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBtb3N0IHByZXN0aWdpb3VzIGhpZ2ggc2Nob29sIGluIEZsb3JpZGE%2FIiwibGsiOiJHak4zYUdGMElHbHpJSFJvWlNCdGIzTjBJSEJ5WlhOMGFXZHBiM1Z6SUdocFoyZ2djMk5vYjI5c0lHbHVJR1pzYjNKcFpHRSIsImJzIjoiYzVXUU1RdkNNQkNGY2Mza25PbkFxcUNDVUhYdUpnbzZPWWc0SGRvMlI5TkVrbWp4MzJ1MTFiYmkwUDE3MzcxN2JNdTh2VUFIWkdGelQxSEJpbUlCdTVQUVdrS2lkS1lnMGlidy03eVhGWng4Y1NMbmJJTmpLWnVYT2lkQ1NMVjFjREdoZFJTVHZ0cGFpaFFzcFRaMHhzQmY4Rm5XSWhlOWMtekFwbl9iRHkwWVZBbXB1SFpwd0wzZkJ5cGdxVDZ5OGZwalJTbHJ3LUN6SE4zUWhZVWc4Q2Q4OUowbXg2djZKdDd0UEFBIiwiaWQiOiJmY19aZy1qYXFqMEhPVG03X1VQNk4yaXFRMF8zIn0%3D"
+  },
+  {
+   "question": "What is Lyman High School's ranking in Florida?",
+   "type": "ai_overview",
+   "page_token": "sPYtq3icHdBdbpswAABg9TJ9bPgJmRQpqkoAZ1Q2tQM2-GVy7CT8GHCDF0redoWdYafaaSbtO8L3649uhu7v0-_aWjNtV6t5nl-u43jV5xc59isxLYNcSaH1Schuu_m2cV8vchffZbi_yRAXxtCIOEfPZnAgNQUInxMuYJuCSqN74ZjvRWdGyFBGDzot6Nsi-imoSrwuHzxBvg6lo3kW6Uax1PBWN6wkkwTahX2wQG9yz3k3k0hv5EFx7NWp0GrPihriPvmgjzRnR7fPo7BVPdIMaKwiKkikFtm4yTnmD9XSMmf2J6f8_QSMpYz0vESB8Pk7KUxMEqOroc54Z83xoCYBVIC7NC492yAX3ZBPb1UHF8aCKqNwHddK8MX9rMrkE8b1BwWOX7oUo269iDIhMBwbXJCHbHVf5CREzuQwYDPhzfZEr195QhB3yF4CFxBdDxg_X-R95z__v979uPR2a27j9R_kyI5l",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=sPYtq3icHdBdbpswAABg9TJ9bPgJmRQpqkoAZ1Q2tQM2-GVy7CT8GHCDF0redoWdYafaaSbtO8L3649uhu7v0-_aWjNtV6t5nl-u43jV5xc59isxLYNcSaH1Schuu_m2cV8vchffZbi_yRAXxtCIOEfPZnAgNQUInxMuYJuCSqN74ZjvRWdGyFBGDzot6Nsi-imoSrwuHzxBvg6lo3kW6Uax1PBWN6wkkwTahX2wQG9yz3k3k0hv5EFx7NWp0GrPihriPvmgjzRnR7fPo7BVPdIMaKwiKkikFtm4yTnmD9XSMmf2J6f8_QSMpYz0vESB8Pk7KUxMEqOroc54Z83xoCYBVIC7NC492yAX3ZBPb1UHF8aCKqNwHddK8MX9rMrkE8b1BwWOX7oUo269iDIhMBwbXJCHbHVf5CREzuQwYDPhzfZEr195QhB3yF4CFxBdDxg_X-R95z__v979uPR2a27j9R_kyI5l",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWIzaDRUMGhuVGtaV1JuaDVWak5HY2sxUGRYcG9jVGxYTkRkTFRXSTRXRGN5T1VsRVpVSjJhV05YUlVObVNXeHdaa1ZCTms1SWVWSTRlbFZzTmkxa2RrNUNWbU13YW5CamFXSlNVVTFyVDFad2FUSnVWazQzWTNabVp4SVhXbWN0YW1GeGFqQklUMVJ0TjE5VlVEWk9NbWx4VVRBYUlrRkVjM0k1WmxGblMzUjVWVmh1YzBOdlNEUkJWVGszVjBjeE1UUkliRlpOVGtFIiwiZmN2IjoiMyIsImVpIjoiWmctamFxajBIT1RtN19VUDZOMmlxUTAiLCJxYyI6IkNoRnNlVzFoYmlCb2FXZG9JSE5qYUc5dmJCQUFmUjRwVmo4IiwicXVlc3Rpb24iOiJXaGF0IGlzIEx5bWFuIEhpZ2ggU2Nob29sJ3MgcmFua2luZyBpbiBGbG9yaWRhPyIsImxrIjoiR2lSc2VXMWhiaUJvYVdkb0lITmphRzl2YkNCeVlXNXJhVzVuSUdsdUlHWnNiM0pwWkdFIiwiYnMiOiJjNVdRTVF2Q01CQ0ZjYzNrbk9uQXFxQ0NVSFh1SmdvNk9ZZzRIZG8yUjlORWttangzMnUxMWJiaTBQMTczNzE3Yk11OHZVQUhaR0Z6VDFIQmltSUJ1NVBRV2tLaWRLWWcwaWJ3LTd5WEZaeDhjU0xuYklOaktadVhPaWRDU0xWMWNER2hkUlNUdnRwYWloUXNwVFoweHNCZjhGbldJaGU5Yy16QXBuX2JEeTBZVkFtcHVIWnB3TDNmQnlwZ3FUNnk4ZnBqUlNscnctQ3pITjNRaFlVZzhDZDg5SjBteDZ2Nkp0N3RQQUEiLCJpZCI6ImZjX1pnLWphcWowSE9UbTdfVVA2TjJpcVEwXzMifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWIzaDRUMGhuVGtaV1JuaDVWak5HY2sxUGRYcG9jVGxYTkRkTFRXSTRXRGN5T1VsRVpVSjJhV05YUlVObVNXeHdaa1ZCTms1SWVWSTRlbFZzTmkxa2RrNUNWbU13YW5CamFXSlNVVTFyVDFad2FUSnVWazQzWTNabVp4SVhXbWN0YW1GeGFqQklUMVJ0TjE5VlVEWk9NbWx4VVRBYUlrRkVjM0k1WmxGblMzUjVWVmh1YzBOdlNEUkJWVGszVjBjeE1UUkliRlpOVGtFIiwiZmN2IjoiMyIsImVpIjoiWmctamFxajBIT1RtN19VUDZOMmlxUTAiLCJxYyI6IkNoRnNlVzFoYmlCb2FXZG9JSE5qYUc5dmJCQUFmUjRwVmo4IiwicXVlc3Rpb24iOiJXaGF0IGlzIEx5bWFuIEhpZ2ggU2Nob29sJ3MgcmFua2luZyBpbiBGbG9yaWRhPyIsImxrIjoiR2lSc2VXMWhiaUJvYVdkb0lITmphRzl2YkNCeVlXNXJhVzVuSUdsdUlHWnNiM0pwWkdFIiwiYnMiOiJjNVdRTVF2Q01CQ0ZjYzNrbk9uQXFxQ0NVSFh1SmdvNk9ZZzRIZG8yUjlORWttangzMnUxMWJiaTBQMTczNzE3Yk11OHZVQUhaR0Z6VDFIQmltSUJ1NVBRV2tLaWRLWWcwaWJ3LTd5WEZaeDhjU0xuYklOaktadVhPaWRDU0xWMWNER2hkUlNUdnRwYWloUXNwVFoweHNCZjhGbldJaGU5Yy16QXBuX2JEeTBZVkFtcHVIWnB3TDNmQnlwZ3FUNnk4ZnBqUlNscnctQ3pITjNRaFlVZzhDZDg5SjBteDZ2Nkp0N3RQQUEiLCJpZCI6ImZjX1pnLWphcWowSE9UbTdfVVA2TjJpcVEwXzMifQ%3D%3D"
+  },
+  {
+   "question": "Is Lyman Hall High School a private school?",
+   "type": "ai_overview",
+   "page_token": "ELyd9XicHdBdTsIwAADgeBkfZT-AkYQYJ7RA7Nzaroy-mK4FytqyIhWEN-_iqTyNxht8-b6-7W5vfm5OOgR_HPV65_P5btt1W7u-k53rieNlL3tSWNsIaUbD-2H8uJHj6cc8ez7Ms7Lynk1wRFJPVMIoNgBJGAJespy12ivwlGIXDE3mfZRg0UAuMESfL7V6bypuSKtrStGV7DVVEGA0W8SMPZxy95CXVBfUqFWZWKtStUNuABTUw-aaDwTUJwFZgZIc0ug8WMM8NC4MUateeeJnxISjhPjKAZhLGMVL-xTnEQ90GRJuPjWn07iyvFi3C0tIHMqU9Vd7XGCnZy8M46lWgl_iw6oGBzTVBYNRWseszE3_Iuo_Z9btygpfZWtd5RRCle9I7dNVhC2ZLLAC2RElYIImfIFp9lqWtxt5Gqe3_5_jt40LI__ebX8BIEmCeQ",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ELyd9XicHdBdTsIwAADgeBkfZT-AkYQYJ7RA7Nzaroy-mK4FytqyIhWEN-_iqTyNxht8-b6-7W5vfm5OOgR_HPV65_P5btt1W7u-k53rieNlL3tSWNsIaUbD-2H8uJHj6cc8ez7Ms7Lynk1wRFJPVMIoNgBJGAJespy12ivwlGIXDE3mfZRg0UAuMESfL7V6bypuSKtrStGV7DVVEGA0W8SMPZxy95CXVBfUqFWZWKtStUNuABTUw-aaDwTUJwFZgZIc0ug8WMM8NC4MUateeeJnxISjhPjKAZhLGMVL-xTnEQ90GRJuPjWn07iyvFi3C0tIHMqU9Vd7XGCnZy8M46lWgl_iw6oGBzTVBYNRWseszE3_Iuo_Z9btygpfZWtd5RRCle9I7dNVhC2ZLLAC2RElYIImfIFp9lqWtxt5Gqe3_5_jt40LI__ebX8BIEmCeQ",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWIzaDRUMGhuVGtaV1JuaDVWak5HY2sxUGRYcG9jVGxYTkRkTFRXSTRXRGN5T1VsRVpVSjJhV05YUlVObVNXeHdaa1ZCTms1SWVWSTRlbFZzTmkxa2RrNUNWbU13YW5CamFXSlNVVTFyVDFad2FUSnVWazQzWTNabVp4SVhXbWN0YW1GeGFqQklUMVJ0TjE5VlVEWk9NbWx4VVRBYUlrRkVjM0k1WmxGblMzUjVWVmh1YzBOdlNEUkJWVGszVjBjeE1UUkliRlpOVGtFIiwiZmN2IjoiMyIsImVpIjoiWmctamFxajBIT1RtN19VUDZOMmlxUTAiLCJxYyI6IkNoRnNlVzFoYmlCb2FXZG9JSE5qYUc5dmJCQUFmUjRwVmo4IiwicXVlc3Rpb24iOiJJcyBMeW1hbiBIYWxsIEhpZ2ggU2Nob29sIGEgcHJpdmF0ZSBzY2hvb2w/IiwibGsiOiJjNVBTeWl4V3lLbk1UY3hUeUVqTXlWSEl5RXpQVUNoT3pzalB6MUZJVkNnb3lpeExMRW1GQ2dBQSIsImJzIjoiYzVXUU1RdkNNQkNGY2Mza25PbkFxcUNDVUhYdUpnbzZPWWc0SGRvMlI5TkVrbWp4MzJ1MTFiYmkwUDE3MzcxN2JNdTh2VUFIWkdGelQxSEJpbUlCdTVQUVdrS2lkS1lnMGlidy03eVhGWng4Y1NMbmJJTmpLWnVYT2lkQ1NMVjFjREdoZFJTVHZ0cGFpaFFzcFRaMHhzQmY4Rm5XSWhlOWMtekFwbl9iRHkwWVZBbXB1SFpwd0wzZkJ5cGdxVDZ5OGZwalJTbHJ3LUN6SE4zUWhZVWc4Q2Q4OUowbXg2djZKdDd0UEFBIiwiaWQiOiJmY19aZy1qYXFqMEhPVG03X1VQNk4yaXFRMF8zIn0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWIzaDRUMGhuVGtaV1JuaDVWak5HY2sxUGRYcG9jVGxYTkRkTFRXSTRXRGN5T1VsRVpVSjJhV05YUlVObVNXeHdaa1ZCTms1SWVWSTRlbFZzTmkxa2RrNUNWbU13YW5CamFXSlNVVTFyVDFad2FUSnVWazQzWTNabVp4SVhXbWN0YW1GeGFqQklUMVJ0TjE5VlVEWk9NbWx4VVRBYUlrRkVjM0k1WmxGblMzUjVWVmh1YzBOdlNEUkJWVGszVjBjeE1UUkliRlpOVGtFIiwiZmN2IjoiMyIsImVpIjoiWmctamFxajBIT1RtN19VUDZOMmlxUTAiLCJxYyI6IkNoRnNlVzFoYmlCb2FXZG9JSE5qYUc5dmJCQUFmUjRwVmo4IiwicXVlc3Rpb24iOiJJcyBMeW1hbiBIYWxsIEhpZ2ggU2Nob29sIGEgcHJpdmF0ZSBzY2hvb2w%2FIiwibGsiOiJjNVBTeWl4V3lLbk1UY3hUeUVqTXlWSEl5RXpQVUNoT3pzalB6MUZJVkNnb3lpeExMRW1GQ2dBQSIsImJzIjoiYzVXUU1RdkNNQkNGY2Mza25PbkFxcUNDVUhYdUpnbzZPWWc0SGRvMlI5TkVrbWp4MzJ1MTFiYmkwUDE3MzcxN2JNdTh2VUFIWkdGelQxSEJpbUlCdTVQUVdrS2lkS1lnMGlidy03eVhGWng4Y1NMbmJJTmpLWnVYT2lkQ1NMVjFjREdoZFJTVHZ0cGFpaFFzcFRaMHhzQmY4Rm5XSWhlOWMtekFwbl9iRHkwWVZBbXB1SFpwd0wzZkJ5cGdxVDZ5OGZwalJTbHJ3LUN6SE4zUWhZVWc4Q2Q4OUowbXg2djZKdDd0UEFBIiwiaWQiOiJmY19aZy1qYXFqMEhPVG03X1VQNk4yaXFRMF8zIn0%3D"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Lyman High School - Home",
+   "link": "https://lyman.scps.k12.fl.us/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVQHrOzAVGpLd-w_iNyvuU1YXdYRVUEXZdIS8RSIowTrsL8hYdJfP4lywcjh5XreRIq1uE5rNGnVGMj5j1oIJW8n37vUKVrppWezQTCI5gmQSiCpigEo&ved=2ahUKEwiov_XN6eSWAxVk87sIHeiuKNUQFnoECCwQAQ&uoh=1",
+   "displayed_link": "https://lyman.scps.k12.fl.us",
+   "favicon": "https://serpapi.com/images/i/UklGRswBAABXRUJQVlA4IMABAAAwCQCdASofAB8APtEutFooIagoGAEAGglsAJ0yhH4nyLkR4B3oGWO-gB0nv7hVytugwwTLYwUeBqOz_n5yufDFP5gTNqWIEVBbSnDy9DN2Z4AAAP72EcEGkGi7kNBR4VSzcUx31anOyCur-hpF5Vx2Zbq19RmHfiM0dVThUWjq-_uFeOUX4dFwJBHcg1fxiVBYz4kcU9c7Px137ZlA02wM-WE8Jq2494CED3ft9prbJp5sJUxDkMpBwPtq7CtV1vTzv5gN3bD5hCRY-gXe7JpolXxHycxZQFGD2JYZi05z6vjolB81n9msWjS2erck4VolQlfv94NcFch-zf_-LyGfp3fAOzgAH_wdn9offlbHLvtbe6KXn_4sWvVy32kBQIfzjNMu5e9aurCm9Bbdi612Nur73oxjvgAVqya4BKo-P-bvVTmzklBxZry5xiPujYCEh9Gf7LuNvj7964vRf1UlzfEYqlaAKH9Iv9ZNll4M75F31zj-C-xFd7PO75WRFq4l7WzsNnx7NQgKYp3tfIAOvxh35_tYhR8bvdPuleqNNOqWVt5gX_dDGuzJKuSS744fCsztxJvL1_xAJgRWYAAA.webp",
+   "snippet": "Lyman High School.",
+   "snippet_highlighted_words": [
+    "Lyman High School"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "Staff Home",
+      "link": "https://lyman.scps.k12.fl.us/staff-home",
+      "snippet": "... school-year expectations. Browse by name, department ..."
+     },
+     {
+      "title": "Athletics Home",
+      "link": "https://lyman.scps.k12.fl.us/athletics-home",
+      "snippet": "Athletic Secretary. Karen Bennet Karen_Bennett@scps.k12.fl.us ..."
+     },
+     {
+      "title": "Student Services Home",
+      "link": "https://lyman.scps.k12.fl.us/student-services-home",
+      "snippet": "Lyman High School."
+     },
+     {
+      "title": "About Us",
+      "link": "https://lyman.scps.k12.fl.us/about-us-home",
+      "snippet": "Lyman High School."
+     },
+     {
+      "title": "Lyman History",
+      "link": "https://lyman.scps.k12.fl.us/lyman-history",
+      "snippet": "Lyman High School's history dates all the way back to the early ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Lyman High School.",
+     "source_info_link": "https://lyman.scps.k12.fl.us/",
+     "icon": "https://serpapi.com/images/i/UklGRswBAABXRUJQVlA4IMABAAAwCQCdASofAB8APtEutFooIagoGAEAGglsAJ0yhH4nyLkR4B3oGWO-gB0nv7hVytugwwTLYwUeBqOz_n5yufDFP5gTNqWIEVBbSnDy9DN2Z4AAAP72EcEGkGi7kNBR4VSzcUx31anOyCur-hpF5Vx2Zbq19RmHfiM0dVThUWjq-_uFeOUX4dFwJBHcg1fxiVBYz4kcU9c7Px137ZlA02wM-WE8Jq2494CED3ft9prbJp5sJUxDkMpBwPtq7CtV1vTzv5gN3bD5hCRY-gXe7JpolXxHycxZQFGD2JYZi05z6vjolB81n9msWjS2erck4VolQlfv94NcFch-zf_-LyGfp3fAOzgAH_wdn9offlbHLvtbe6KXn_4sWvVy32kBQIfzjNMu5e9aurCm9Bbdi612Nur73oxjvgAVqya4BKo-P-bvVTmzklBxZry5xiPujYCEh9Gf7LuNvj7964vRf1UlzfEYqlaAKH9Iv9ZNll4M75F31zj-C-xFd7PO75WRFq4l7WzsNnx7NQgKYp3tfIAOvxh35_tYhR8bvdPuleqNNOqWVt5gX_dDGuzJKuSS744fCsztxJvL1_xAJgRWYAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESVQHrOzAVGpLd-w_iNyvuU1YXdYRVUEXZdIS8RSIowTrsL8hYdJfP4lywcjh5XreRIq1uE5rNGnVGMj5j1oIJW8n37vUKVrppWezQTCI5gmQSiCpigEo&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESVQHrOzAVGpLd-w_iNyvuU1YXdYRVUEXZdIS8RSIowTrsL8hYdJfP4lywcjh5XreRIq1uE5rNGnVGMj5j1oIJW8n37vUKVrppWezQTCI5gmQSiCpigEo",
+   "source": "Lyman High School"
+  },
+  {
+   "position": 2,
+   "title": "Lyman High School - Seminole County Florida",
+   "link": "https://www.facebook.com/LymanHighSchool/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYQHrOzAVsYsb2BrXbt7niRleA3pBqOvJFjdgA7E6JIarMnYznMnbmRzx36LwgQHRYRygRT8YfHU2JeIkQS5qNKN1MpXiPngfDLTAd6XYJvBLFLrTyd7yzz_AkkE0VjYdpwo&ved=2ahUKEwiov_XN6eSWAxVk87sIHeiuKNUQFnoECCYQAQ&uoh=1",
+   "displayed_link": "4.9K+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "snippet": "Lyman High School -- Seminole County Florida 865 S. Ronald Reagan Blvd. Longwood Fl, 32750 407.746.2050. High School. Follow. 98% recommend (32 reviews).",
+   "snippet_highlighted_words": [
+    "Lyman High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Lyman High School -- Seminole County Florida 865 S. Ronald Reagan Blvd. Longwood Fl, 32750 407.746.2050. High School. Follow. 98% recommend (32 reviews).",
+     "source_info_link": "https://www.facebook.com/LymanHighSchool/",
+     "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYQHrOzAVsYsb2BrXbt7niRleA3pBqOvJFjdgA7E6JIarMnYznMnbmRzx36LwgQHRYRygRT8YfHU2JeIkQS5qNKN1MpXiPngfDLTAd6XYJvBLFLrTyd7yzz_AkkE0VjYdpwo&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYQHrOzAVsYsb2BrXbt7niRleA3pBqOvJFjdgA7E6JIarMnYznMnbmRzx36LwgQHRYRygRT8YfHU2JeIkQS5qNKN1MpXiPngfDLTAd6XYJvBLFLrTyd7yzz_AkkE0VjYdpwo",
+   "source": "Facebook \u00b7 Lyman High School - Seminole County Florida",
+   "read_more_link": "https://www.facebook.com/LymanHighSchool/#:~:text=Lyman%20High%20School%20%2D%2D%20Seminole,98%25%20recommend%20(32%20reviews)"
+  },
+  {
+   "position": 3,
+   "title": "Lyman High School (Florida)",
+   "link": "https://en.wikipedia.org/wiki/Lyman_High_School_(Florida)",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScQHrOzAVvU9FB2R5BZYBCvzAcIwXm63CkscOlDyEvJSwBzxRmSiU9KSIKNwXSBRODnfFw_upcjA0utgjeMldgJuKzdwRESLfmf1IjX2Z-6DIKw-cl5J-QjPDRvbbIgs1ZzOGPgK00gYw54CpVbWL4wYf&ved=2ahUKEwiov_XN6eSWAxVk87sIHeiuKNUQFnoECCkQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Lyman_High_School_...",
+   "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+   "snippet": "Lyman High School is a public high school located in Longwood, Florida. The school was founded in 1924. Lyman High School. Location.",
+   "snippet_highlighted_words": [
+    "Lyman High School",
+    "Lyman High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Lyman High School is a public high school located in Longwood, Florida. The school was founded in 1924. Lyman High School. Location.",
+     "source_info_link": "https://en.wikipedia.org/wiki/Lyman_High_School_(Florida)",
+     "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEScQHrOzAVvU9FB2R5BZYBCvzAcIwXm63CkscOlDyEvJSwBzxRmSiU9KSIKNwXSBRODnfFw_upcjA0utgjeMldgJuKzdwRESLfmf1IjX2Z-6DIKw-cl5J-QjPDRvbbIgs1ZzOGPgK00gYw54CpVbWL4wYf&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEScQHrOzAVvU9FB2R5BZYBCvzAcIwXm63CkscOlDyEvJSwBzxRmSiU9KSIKNwXSBRODnfFw_upcjA0utgjeMldgJuKzdwRESLfmf1IjX2Z-6DIKw-cl5J-QjPDRvbbIgs1ZzOGPgK00gYw54CpVbWL4wYf",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Lyman_High_School_(Florida)#:~:text=Lyman%20High%20School%20is%20a,Location"
+  },
+  {
+   "position": 4,
+   "title": "Lyman High School - Florida Districts",
+   "link": "https://www.usnews.com/education/best-high-schools/florida/districts/seminole-county-public-schools/lyman-high-school-5567",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESsgEB6zswFbCjOJWgjGNh7k12jc-vqtjNhYUr-PqUCIyqIXmGO9UgW8d7BX4ZBQTBzwpvG8qkoCaIlug6LmCswTSaZh1jq0OEsAuFykNIAQYXbANoQ8ZATi-kw9P15HiwGEW7Yif2bbr2qgYOIKoMQ_-w2jhMNXQNFxiE5qSEfv8_XjtL5J4BriTKvjSG37GDiAOgGS4561VLMlR1WmgXaxuct6IyZI0E9781Ftn0_-_TlpzX&ved=2ahUKEwiov_XN6eSWAxVk87sIHeiuKNUQFnoECFUQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a education \u203a florida \u203a districts",
+   "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp",
+   "snippet": "Lyman High School. 865 S Ronald Reagan Blvd. Longwood, Florida 32750. #3,132 in National Rankings. #196 in Florida High Schools. Nearby Schools.",
+   "snippet_highlighted_words": [
+    "Lyman High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Lyman High School. 865 S Ronald Reagan Blvd. Longwood, Florida 32750. #3,132 in National Rankings. #196 in Florida High Schools. Nearby Schools.",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/florida/districts/seminole-county-public-schools/lyman-high-school-5567",
+     "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESsgEB6zswFbCjOJWgjGNh7k12jc-vqtjNhYUr-PqUCIyqIXmGO9UgW8d7BX4ZBQTBzwpvG8qkoCaIlug6LmCswTSaZh1jq0OEsAuFykNIAQYXbANoQ8ZATi-kw9P15HiwGEW7Yif2bbr2qgYOIKoMQ_-w2jhMNXQNFxiE5qSEfv8_XjtL5J4BriTKvjSG37GDiAOgGS4561VLMlR1WmgXaxuct6IyZI0E9781Ftn0_-_TlpzX&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESsgEB6zswFbCjOJWgjGNh7k12jc-vqtjNhYUr-PqUCIyqIXmGO9UgW8d7BX4ZBQTBzwpvG8qkoCaIlug6LmCswTSaZh1jq0OEsAuFykNIAQYXbANoQ8ZATi-kw9P15HiwGEW7Yif2bbr2qgYOIKoMQ_-w2jhMNXQNFxiE5qSEfv8_XjtL5J4BriTKvjSG37GDiAOgGS4561VLMlR1WmgXaxuct6IyZI0E9781Ftn0_-_TlpzX",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/florida/districts/seminole-county-public-schools/lyman-high-school-5567#:~:text=Lyman%20High%20School,%23196%20in%20Florida%20High%20Schools"
+  },
+  {
+   "position": 5,
+   "title": "Lyman High School (@lymanhs) \u00b7 Longwood, FL",
+   "link": "https://www.instagram.com/lymanhs/?hl=en",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAVAOOsrKoHY8-QiR0JnKqZjaXJQ7UndhFs-Mpk4pMj7z6ObGXmUil16fNFMAtYR3wY0miISN8dW66CSJpo7n1opjQozxeol4klOfZfoqxFaIkoJVkamaHk5oMH8w&ved=2ahUKEwiov_XN6eSWAxVk87sIHeiuKNUQFnoECE8QAQ&uoh=1",
+   "displayed_link": "4.2K+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+   "snippet": "4.3K+ followers \u00b7 143 following \u00b7 1289 posts \u00b7 @lymanhs: \u201c#WeAreLyman Official Instagram for Lyman High School | check out @lyman_athletics\u201d",
+   "snippet_highlighted_words": [
+    "Lyman High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "4.3K+ followers \u00b7 143 following \u00b7 1289 posts \u00b7 @lymanhs: \u201c#WeAreLyman Official Instagram for Lyman High School | check out @lyman_athletics\u201d",
+     "source_info_link": "https://www.instagram.com/lymanhs/?hl=en",
+     "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYAHrOzAVAOOsrKoHY8-QiR0JnKqZjaXJQ7UndhFs-Mpk4pMj7z6ObGXmUil16fNFMAtYR3wY0miISN8dW66CSJpo7n1opjQozxeol4klOfZfoqxFaIkoJVkamaHk5oMH8w&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYAHrOzAVAOOsrKoHY8-QiR0JnKqZjaXJQ7UndhFs-Mpk4pMj7z6ObGXmUil16fNFMAtYR3wY0miISN8dW66CSJpo7n1opjQozxeol4klOfZfoqxFaIkoJVkamaHk5oMH8w",
+   "source": "Instagram \u00b7 lymanhs"
+  },
+  {
+   "position": 6,
+   "title": "Lyman High School - Longwood, Florida - FL",
+   "link": "https://www.greatschools.org/florida/longwood/2837-Lyman-High-School/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAV_LLp8d2UQgCcDOYlH8t2YMRTkEpbuzrDQbrHbXMiMoQR6TS8h20LB9qY7FzgdY1QecrSoqyHfBkZKQZ55SMheEtM4WHpKP05mweb2RpsHK9GEk_w7FfBCYpBCKwaWuTvPkrhHurlpDHCNGihSm6wyiW5wJbzBxwR&ved=2ahUKEwiov_XN6eSWAxVk87sIHeiuKNUQFnoECE4QAQ&uoh=1",
+   "displayed_link": "https://www.greatschools.org \u203a florida \u203a 2837-Lyman-...",
+   "favicon": "https://serpapi.com/images/i/UklGRnABAABXRUJQVlA4IGQBAABQCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_jtuHbtjAbYDcAbyB6AHSlf6oixRzh8GEWsYxJ825M9RhM3gV5vdPb_m98cAA_vi6aS7Pzd7susCq7-6fF19W_uHxnTUiht4Bnli4K1NZlcvWNx_U9wUWYJNt7XaI9c-ByTdyo4mDmlZ-5yiSyr_u7cBW9GjDY0XOwNkf3M-JPMdorcnf5W3JquL_1XhdMWG9MeU4wxsyWrY1EBIhBEe9pptiUN9e6cDdPncpdjgPIvoHDAfly9B5KtVb-rS2mA85vxw-fVfJkvrbkjL-z0L62bhyC1muRYqxX5mA92DT5WC6rg1GKs3vDTWtEWyQkNCx7JpqOrcRh1tXyd6AvX19XcKdTTPG1ozotzAlVyERstS5yUat0Hnv2de5D6l_B6PNH32glgAMU9TscSW7BeznX-ttUqaHqMZfqKDlq_LuvvKpt3UAAA.webp",
+   "snippet": "Lyman High School is a magnet school in Longwood, FL, offering AP courses, 28 sports, and Project Lead The Way curriculum. It is one of 18 high schools in ...",
+   "snippet_highlighted_words": [
+    "Lyman High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Lyman High School is a magnet school in Longwood, FL, offering AP courses, 28 sports, and Project Lead The Way curriculum. It is one of 18 high schools in ...",
+     "source_info_link": "https://www.greatschools.org/florida/longwood/2837-Lyman-High-School/",
+     "icon": "https://serpapi.com/images/i/UklGRnABAABXRUJQVlA4IGQBAABQCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_jtuHbtjAbYDcAbyB6AHSlf6oixRzh8GEWsYxJ825M9RhM3gV5vdPb_m98cAA_vi6aS7Pzd7susCq7-6fF19W_uHxnTUiht4Bnli4K1NZlcvWNx_U9wUWYJNt7XaI9c-ByTdyo4mDmlZ-5yiSyr_u7cBW9GjDY0XOwNkf3M-JPMdorcnf5W3JquL_1XhdMWG9MeU4wxsyWrY1EBIhBEe9pptiUN9e6cDdPncpdjgPIvoHDAfly9B5KtVb-rS2mA85vxw-fVfJkvrbkjL-z0L62bhyC1muRYqxX5mA92DT5WC6rg1GKs3vDTWtEWyQkNCx7JpqOrcRh1tXyd6AvX19XcKdTTPG1ozotzAlVyERstS5yUat0Hnv2de5D6l_B6PNH32glgAMU9TscSW7BeznX-ttUqaHqMZfqKDlq_LuvvKpt3UAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESfQHrOzAV_LLp8d2UQgCcDOYlH8t2YMRTkEpbuzrDQbrHbXMiMoQR6TS8h20LB9qY7FzgdY1QecrSoqyHfBkZKQZ55SMheEtM4WHpKP05mweb2RpsHK9GEk_w7FfBCYpBCKwaWuTvPkrhHurlpDHCNGihSm6wyiW5wJbzBxwR&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESfQHrOzAV_LLp8d2UQgCcDOYlH8t2YMRTkEpbuzrDQbrHbXMiMoQR6TS8h20LB9qY7FzgdY1QecrSoqyHfBkZKQZ55SMheEtM4WHpKP05mweb2RpsHK9GEk_w7FfBCYpBCKwaWuTvPkrhHurlpDHCNGihSm6wyiW5wJbzBxwR",
+   "source": "GreatSchools"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Lyman high school photos",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Lyman+high+school+photos&sa=X&ved=2ahUKEwiov_XN6eSWAxVk87sIHeiuKNUQ1QJ6BAhIEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Lyman+high+school+photos"
+  },
+  {
+   "block_position": 1,
+   "query": "Lyman high school map",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Lyman+high+school+map&sa=X&ved=2ahUKEwiov_XN6eSWAxVk87sIHeiuKNUQ1QJ6BAhMEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Lyman+high+school+map"
+  },
+  {
+   "block_position": 1,
+   "query": "Lyman high school logo",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Lyman+high+school+logo&sa=X&ved=2ahUKEwiov_XN6eSWAxVk87sIHeiuKNUQ1QJ6BAhNEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Lyman+high+school+logo"
+  },
+  {
+   "block_position": 1,
+   "query": "Lyman high school website",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Lyman+high+school+website&sa=X&ved=2ahUKEwiov_XN6eSWAxVk87sIHeiuKNUQ1QJ6BAhLEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Lyman+high+school+website"
+  },
+  {
+   "block_position": 1,
+   "query": "Lyman high school football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Lyman+high+school+football&sa=X&ved=2ahUKEwiov_XN6eSWAxVk87sIHeiuKNUQ1QJ6BAhHEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Lyman+high+school+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Lyman high school address",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Lyman+high+school+address&sa=X&ved=2ahUKEwiov_XN6eSWAxVk87sIHeiuKNUQ1QJ6BAhKEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Lyman+high+school+address"
+  },
+  {
+   "block_position": 1,
+   "query": "Lyman high school band",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Lyman+high+school+band&sa=X&ved=2ahUKEwiov_XN6eSWAxVk87sIHeiuKNUQ1QJ6BAhGEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Lyman+high+school+band"
+  },
+  {
+   "block_position": 1,
+   "query": "Lyman high school ranking",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Lyman+high+school+ranking&sa=X&ved=2ahUKEwiov_XN6eSWAxVk87sIHeiuKNUQ1QJ6BAhJEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Lyman+high+school+ranking"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Lyman+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=Zg-jaqj0HOTm7_UP6N2iqQ0&start=10&sa=N&sstk=AS6-VmJDH0U13cAloqzp-aHL24o3GfXh3mrfzgm9UpiLWr-Tif14EVyVPRuckW-1lx-IsBDQawZMLNIucLqtGr_P1dyC0UCf1sGeQQ&ved=2ahUKEwiov_XN6eSWAxVk87sIHeiuKNUQ8NMDegQIQBAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Lyman+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=Zg-jaqj0HOTm7_UP6N2iqQ0&start=10&sa=N&sstk=AS6-VmJDH0U13cAloqzp-aHL24o3GfXh3mrfzgm9UpiLWr-Tif14EVyVPRuckW-1lx-IsBDQawZMLNIucLqtGr_P1dyC0UCf1sGeQQ&ved=2ahUKEwiov_XN6eSWAxVk87sIHeiuKNUQ8tMDegQIQBAE",
+   "3": "https://www.google.com/search?q=%22Lyman+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=Zg-jaqj0HOTm7_UP6N2iqQ0&start=20&sa=N&sstk=AS6-VmJDH0U13cAloqzp-aHL24o3GfXh3mrfzgm9UpiLWr-Tif14EVyVPRuckW-1lx-IsBDQawZMLNIucLqtGr_P1dyC0UCf1sGeQQ&ved=2ahUKEwiov_XN6eSWAxVk87sIHeiuKNUQ8tMDegQIQBAG",
+   "4": "https://www.google.com/search?q=%22Lyman+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=Zg-jaqj0HOTm7_UP6N2iqQ0&start=30&sa=N&sstk=AS6-VmJDH0U13cAloqzp-aHL24o3GfXh3mrfzgm9UpiLWr-Tif14EVyVPRuckW-1lx-IsBDQawZMLNIucLqtGr_P1dyC0UCf1sGeQQ&ved=2ahUKEwiov_XN6eSWAxVk87sIHeiuKNUQ8tMDegQIQBAI",
+   "5": "https://www.google.com/search?q=%22Lyman+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=Zg-jaqj0HOTm7_UP6N2iqQ0&start=40&sa=N&sstk=AS6-VmJDH0U13cAloqzp-aHL24o3GfXh3mrfzgm9UpiLWr-Tif14EVyVPRuckW-1lx-IsBDQawZMLNIucLqtGr_P1dyC0UCf1sGeQQ&ved=2ahUKEwiov_XN6eSWAxVk87sIHeiuKNUQ8tMDegQIQBAK",
+   "6": "https://www.google.com/search?q=%22Lyman+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=Zg-jaqj0HOTm7_UP6N2iqQ0&start=50&sa=N&sstk=AS6-VmJDH0U13cAloqzp-aHL24o3GfXh3mrfzgm9UpiLWr-Tif14EVyVPRuckW-1lx-IsBDQawZMLNIucLqtGr_P1dyC0UCf1sGeQQ&ved=2ahUKEwiov_XN6eSWAxVk87sIHeiuKNUQ8tMDegQIQBAM",
+   "7": "https://www.google.com/search?q=%22Lyman+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=Zg-jaqj0HOTm7_UP6N2iqQ0&start=60&sa=N&sstk=AS6-VmJDH0U13cAloqzp-aHL24o3GfXh3mrfzgm9UpiLWr-Tif14EVyVPRuckW-1lx-IsBDQawZMLNIucLqtGr_P1dyC0UCf1sGeQQ&ved=2ahUKEwiov_XN6eSWAxVk87sIHeiuKNUQ8tMDegQIQBAO",
+   "8": "https://www.google.com/search?q=%22Lyman+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=Zg-jaqj0HOTm7_UP6N2iqQ0&start=70&sa=N&sstk=AS6-VmJDH0U13cAloqzp-aHL24o3GfXh3mrfzgm9UpiLWr-Tif14EVyVPRuckW-1lx-IsBDQawZMLNIucLqtGr_P1dyC0UCf1sGeQQ&ved=2ahUKEwiov_XN6eSWAxVk87sIHeiuKNUQ8tMDegQIQBAQ",
+   "9": "https://www.google.com/search?q=%22Lyman+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=Zg-jaqj0HOTm7_UP6N2iqQ0&start=80&sa=N&sstk=AS6-VmJDH0U13cAloqzp-aHL24o3GfXh3mrfzgm9UpiLWr-Tif14EVyVPRuckW-1lx-IsBDQawZMLNIucLqtGr_P1dyC0UCf1sGeQQ&ved=2ahUKEwiov_XN6eSWAxVk87sIHeiuKNUQ8tMDegQIQBAS",
+   "10": "https://www.google.com/search?q=%22Lyman+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=Zg-jaqj0HOTm7_UP6N2iqQ0&start=90&sa=N&sstk=AS6-VmJDH0U13cAloqzp-aHL24o3GfXh3mrfzgm9UpiLWr-Tif14EVyVPRuckW-1lx-IsBDQawZMLNIucLqtGr_P1dyC0UCf1sGeQQ&ved=2ahUKEwiov_XN6eSWAxVk87sIHeiuKNUQ8tMDegQIQBAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Lyman+High+School%22&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Lyman+High+School%22&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Lyman+High+School%22&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Lyman+High+School%22&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Lyman+High+School%22&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Lyman+High+School%22&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Lyman+High+School%22&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Lyman+High+School%22&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Lyman+High+School%22&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Lyman+High+School%22&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Lyman+High+School%22&start=90"
+  }
+ }
+}

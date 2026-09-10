@@ -1,0 +1,507 @@
+{
+ "search_information": {
+  "query_displayed": "\"Whiteland Community High School\" Indiana",
+  "total_results": 97500,
+  "time_taken_displayed": 0.27,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Whiteland Community High School",
+  "type": "Public school in Whiteland, Indiana",
+  "entity_type": "local_nav",
+  "kgmid": "/m/02pxfn0",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/02pxfn0&hl=en-US&q=Whiteland+Community+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F02pxfn0&q=Whiteland+Community+High+School",
+  "place_id": "ChIJpUjoiHpoa4gR1CjOsSTCHh0",
+  "website": "https://www.cpcsc.k12.in.us/o/wchs",
+  "description": "Whiteland Community High School is a public high school located in Whiteland, Indiana. It is the only high school in continuous use in the town of Whiteland.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa3131efbbebb6f6303c456/images/RnIYrcogBl6uwQ3Y9Tigp6K8k8p-haLubxnWxPM-bSE.webp",
+   "link": "https://www.google.com/maps/place/Whiteland+Community+High+School/data=!4m2!3m1!1s0x0:0x1d1ec224b1ce28d4?sa=X&ved=2ahUKEwib3Mab7eSWAxVzhVYBHXRdI24Q_BJ6BAhLEAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Whiteland_Community_High_School"
+  },
+  "address": "300 E Main St, Whiteland, IN 46184",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuloAKkDOzp50KHOqs4n-xcxeHBIA:1789072174598&q=whiteland+community+high+school+address&ludocid=2098327939258919124&sa=X&ved=2ahUKEwib3Mab7eSWAxVzhVYBHXRdI24Q6BN6BAhYEAI"
+   }
+  ],
+  "founded": "1965",
+  "founded_links": [
+   {
+    "text": "Founded",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuloAKkDOzp50KHOqs4n-xcxeHBIA:1789072174598&q=whiteland+community+high+school+founded&stick=H4sIAAAAAAAAAOPgE-LSz9U3MCqoSMsz0FLNTrbSzy9KT8zLrEosyczPQ-FYpeWX5qWkpixiVS_PyCxJzUnMS1FIzs_NLc3LLKlUyMhMz1AoTs7Iz89RgKoEAEOHVb1fAAAA&sa=X&ved=2ahUKEwib3Mab7eSWAxVzhVYBHXRdI24Q6BN6BAhaEAI"
+   }
+  ],
+  "mascot": "Warriors cpcsc.k12.in.us",
+  "mascot_links": [
+   {
+    "text": "Mascot",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuloAKkDOzp50KHOqs4n-xcxeHBIA:1789072174598&q=whiteland+community+high+school+mascot&stick=H4sIAAAAAAAAAOPgE-LSz9U3MCqoSMsz0BLJz7bSL87ILypJS0wuscpNLE7OL1nEqlaekVmSmpOYl6KQnJ-bW5qXWVKpkJGZnqFQnJyRn5-jAFEIAGal4DFNAAAA&sa=X&ved=2ahUKEwib3Mab7eSWAxVzhVYBHXRdI24Q6BN6BAhZEAI"
+   },
+   {
+    "text": "cpcsc.k12.in.us",
+    "link": "https://www.cpcsc.k12.in.us/o/wchs"
+   }
+  ],
+  "school_types": "State school, Public school",
+  "school_types_links": [
+   {
+    "text": "School types",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuloAKkDOzp50KHOqs4n-xcxeHBIA:1789072174598&q=whiteland+community+high+school+school+types&stick=H4sIAAAAAAAAAOPgE-LSz9U3MCqoSMsz0DLMTrbST00pTU4syczPQ7ASc-Iz84pLMktKQTyr4uSM_PwchZLKgtRFrDrlGZklqTmJeSkKyfm5uaV5mSWVChmZ6RkKUGVIqosB3UvshHAAAAA&sa=X&ved=2ahUKEwib3Mab7eSWAxVzhVYBHXRdI24Q6BN6BAhcEAI"
+   },
+   {
+    "text": "State school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuloAKkDOzp50KHOqs4n-xcxeHBIA:1789072174598&q=State+school&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ybGtCxI0H8z2nV80srIO5hizwNtt3Ym6Fi28M6pFzMpba6xCjNFIQKbDb7W_yOsUKzHP6t0BoDIq84DgtktiHBvFqPDhCTDRJvE6JLQvR7EavlALptANhU5ci6Ju7rtSLwuDnAWSkYHRTy2Iq8-joCTw1VOSuhy7vR12ATVFOXBgXGbbJxpGFjPXbU1wkvNmULIffk3pLqhHGwPFRtPmhxbP5EBym7N3JY7VvIDRos7gZZB9PRFm4PKE91Hv7x4FJDtOxQk%3D&sa=X&ved=2ahUKEwib3Mab7eSWAxVzhVYBHXRdI24QmxN6BAhcEAM"
+   },
+   {
+    "text": "Public school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuloAKkDOzp50KHOqs4n-xcxeHBIA:1789072174598&q=Public+school&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpnRjecyiHCyfvh60pbD8ck56NaVb1rRy5mFUEfV53q25U5z4WHsBgSa_e0unuhy-ayBk7Zd2jqvKjlt1IkxJQTjLlr10sRb8WFIeYWfbJ_KmuTdkTRok1U_34Eatuvw6Ucp7BBx4QcTfhlRJwGpj_GakWJ6QDm-HpcSjC0siMzD56ubUDWB30lfmWsFEoZbsJ08m21zj93f-xCMeSUDqEk7mZkhe0FUa2LDxsxrq4RGgsvkoE3tJig4jFNFdwZqkbOzu8vo%3D&sa=X&ved=2ahUKEwib3Mab7eSWAxVzhVYBHXRdI24QmxN6BAhcEAQ"
+   }
+  ],
+  "lowest_grade": "Ninth Grade",
+  "lowest_grade_links": [
+   {
+    "text": "Lowest grade",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuloAKkDOzp50KHOqs4n-xcxeHBIA:1789072174598&q=whiteland+community+high+school+lowest+grade&stick=H4sIAAAAAAAAAOPgE-LSz9U3MCqoSMsz0FLMTrbST00pTU4syczP0y9OzsjPz7HKyS9PLS5RSC9KTEldxKpTnpFZkpqTmJeikJyfm1ual1lSqZCRmZ6hAFGugKwcADZ36mVgAAAA&sa=X&ved=2ahUKEwib3Mab7eSWAxVzhVYBHXRdI24Q6BN6BAhbEAI"
+   },
+   {
+    "text": "Ninth Grade",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuloAKkDOzp50KHOqs4n-xcxeHBIA:1789072174598&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ycVufaiHeRm9qcUzZ-riFc-9oKSn3gqbysox9tEbgSTfJPpMmU9KGVNEozprDr5JuztjbjdFARszEdMlstlEL0qM1z1EIOGc4qz4KwsBz82bG8NcpjFyOV289X8oU3IHtPfVgUHa9czCvK01XaJUZi-b9_Id&sa=X&ved=2ahUKEwib3Mab7eSWAxVzhVYBHXRdI24QmxN6BAhbEAM"
+   }
+  ],
+  "phone": "(317) 535-7562",
+  "phone_links": [
+   {
+    "text": "Phone",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuloAKkDOzp50KHOqs4n-xcxeHBIA:1789072174598&q=whiteland+community+high+school+phone&ludocid=2098327939258919124&sa=X&ved=2ahUKEwib3Mab7eSWAxVzhVYBHXRdI24Q6BN6BAhdEAI"
+   }
+  ],
+  "raw_hours": "Closed \u00b7 Opens 7 - 15 AM Fri",
+  "hours": {
+   "thursday": {
+    "opens": "7:15\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "friday": {
+    "opens": "7:15\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "7:15\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "tuesday": {
+    "opens": "7:15\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "wednesday": {
+    "opens": "7:15\u202fAM",
+    "closes": "4\u202fPM"
+   }
+  },
+  "unclaimed_listing": true,
+  "people_also_search_for": [
+   {
+    "name": "Clark-Pleasant Middle School",
+    "image": "https://serpapi.com/searches/6aa3131efbbebb6f6303c456/images/RnIYrcogBl6uwQ3Y9Tigp1G_2u0OTicFJ9brfqbTyauaQxr3vV0tltEPhy1BsAzI.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuloAKkDOzp50KHOqs4n-xcxeHBIA:1789072174598&q=Clark-Pleasant+Middle+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67_mj31HIQbr-4XHewfTQNrnRbg850z9Hu3Ir_N-zofJmlRUu02OABF6I2k-n_6M57byPYTQi9Ovc8rxPR1dmExEqOm1lsqgaRtE7Ukc5bn6NxZ_AnGh76_MlZR_tSSk3KXra7kuMwqHY3jTy3ASsnjfkqZoINNsr7HYdZ7e1w84pQCwFgINiJAc6fFO4TMZYJEA4JRRS-EX1rZtnm8m-v3nI8sBmgrYaDEI_urbOO2uOMfK_tIFyM37j_9c3TjHEf3u0QHvenuH7b8SModGV0ny1_bqP&sa=X&ved=2ahUKEwib3Mab7eSWAxVzhVYBHXRdI24QxA16BAhKEAQ",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Clark-Pleasant+Middle+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67_mj31HIQbr-4XHewfTQNrnRbg850z9Hu3Ir_N-zofJmlRUu02OABF6I2k-n_6M57byPYTQi9Ovc8rxPR1dmExEqOm1lsqgaRtE7Ukc5bn6NxZ_AnGh76_MlZR_tSSk3KXra7kuMwqHY3jTy3ASsnjfkqZoINNsr7HYdZ7e1w84pQCwFgINiJAc6fFO4TMZYJEA4JRRS-EX1rZtnm8m-v3nI8sBmgrYaDEI_urbOO2uOMfK_tIFyM37j_9c3TjHEf3u0QHvenuH7b8SModGV0ny1_bqP"
+   },
+   {
+    "name": "Franklin Community High School",
+    "image": "https://serpapi.com/searches/6aa3131efbbebb6f6303c456/images/RnIYrcogBl6uwQ3Y9Tigp1G_2u0OTicFJ9brfqbTyasUj8ezBfVLYWu_2Ou_GnE-.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuloAKkDOzp50KHOqs4n-xcxeHBIA:1789072174598&q=Franklin+Community+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW675Ke3rR2wKar3UX6QPwWrP-i2YMtF5PgIQCe8fvBEU2_WtyFx0C9j1FOthdQ52VKg0cexsGRACgJKc4mZn6wxgYuYqU1fDBsUWkIWFjI1sQZAxDH3u_LkkXTesB9Vp-y4qadqTyG2BYebDZ2zPXPFTnw_RbwdY8xFb2GB6bgjjJK8q7Qt5R18gyN53nmDIBDy2B2HOUJ1oQ-rwbdj3S51M5BqhpMFLY8eRs-oWptfzRWhmdP2M1M11KBEDWfdCPfHhAsa62gB0OtCEX7_ExUa0wQARDg&sa=X&ved=2ahUKEwib3Mab7eSWAxVzhVYBHXRdI24QxA16BAhKEAc",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Franklin+Community+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW675Ke3rR2wKar3UX6QPwWrP-i2YMtF5PgIQCe8fvBEU2_WtyFx0C9j1FOthdQ52VKg0cexsGRACgJKc4mZn6wxgYuYqU1fDBsUWkIWFjI1sQZAxDH3u_LkkXTesB9Vp-y4qadqTyG2BYebDZ2zPXPFTnw_RbwdY8xFb2GB6bgjjJK8q7Qt5R18gyN53nmDIBDy2B2HOUJ1oQ-rwbdj3S51M5BqhpMFLY8eRs-oWptfzRWhmdP2M1M11KBEDWfdCPfHhAsa62gB0OtCEX7_ExUa0wQARDg"
+   },
+   {
+    "name": "Franklin Central High School",
+    "image": "https://serpapi.com/searches/6aa3131efbbebb6f6303c456/images/RnIYrcogBl6uwQ3Y9Tigp1G_2u0OTicFJ9brfqbTyavf3AMrnQ9QRxo38AlhnqrN.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuloAKkDOzp50KHOqs4n-xcxeHBIA:1789072174598&q=Franklin+Central+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW675umNoYojF2Zfa15NivI7RTgk1HADyKPM64baUrxxCmVzVMLXR_o0G7pSAznqPWeEmPxO7wtIyvYh4BbIaYvFVJtqS1UKYR9yMeW_UC6znkZVBQlt0SmUkAtVCrEDo-0DkViCZWrjqMJIW4H4hXgLM71jbA2ZViBpTX6yBhmD_AYs_TO9f4Vlt326h6Enhzw6CHMaCyif8xTwVCCeoorWPBAnca8-I3j7757asjRpv9D43AdCvmV36VMwGQeayL6VOTZxhpE970Qo5xDxZQkL_GFT9n8&sa=X&ved=2ahUKEwib3Mab7eSWAxVzhVYBHXRdI24QxA16BAhKEAo",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Franklin+Central+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW675umNoYojF2Zfa15NivI7RTgk1HADyKPM64baUrxxCmVzVMLXR_o0G7pSAznqPWeEmPxO7wtIyvYh4BbIaYvFVJtqS1UKYR9yMeW_UC6znkZVBQlt0SmUkAtVCrEDo-0DkViCZWrjqMJIW4H4hXgLM71jbA2ZViBpTX6yBhmD_AYs_TO9f4Vlt326h6Enhzw6CHMaCyif8xTwVCCeoorWPBAnca8-I3j7757asjRpv9D43AdCvmV36VMwGQeayL6VOTZxhpE970Qo5xDxZQkL_GFT9n8"
+   },
+   {
+    "name": "Decatur Central High School",
+    "image": "https://serpapi.com/searches/6aa3131efbbebb6f6303c456/images/RnIYrcogBl6uwQ3Y9Tigp1G_2u0OTicFJ9brfqbTyav3kJgO-2e4Z51tpQ7jvq0v.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuloAKkDOzp50KHOqs4n-xcxeHBIA:1789072174598&q=Decatur+Central+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW677O8s8LY0_UR7UPo1eBqZrGG--4FXmAluBBlqhEiIEYnpVS1MV2BjFfZGp6n24LJGNF3ewhJaYKJx7ZFo__HCPewrd3mS7eo-ktUMNi6n_2Tz4FB3ub_vk95Vu2iFmyFrXtnZSJuspvRIhth9-0VHWcKkhpLVLWS6Lbc0GFqrlyTEjuZXa0Q7x666f2Hsw4V4AYDBsYIK7EBhcudl02NzOlS4yP69PLaC_anW0XvEufP9lHr6Id_93y9vx_arb0m5JzWHEXolPYdckqxpA8jrZSxq2rv&sa=X&ved=2ahUKEwib3Mab7eSWAxVzhVYBHXRdI24QxA16BAhKEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Decatur+Central+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW677O8s8LY0_UR7UPo1eBqZrGG--4FXmAluBBlqhEiIEYnpVS1MV2BjFfZGp6n24LJGNF3ewhJaYKJx7ZFo__HCPewrd3mS7eo-ktUMNi6n_2Tz4FB3ub_vk95Vu2iFmyFrXtnZSJuspvRIhth9-0VHWcKkhpLVLWS6Lbc0GFqrlyTEjuZXa0Q7x666f2Hsw4V4AYDBsYIK7EBhcudl02NzOlS4yP69PLaC_anW0XvEufP9lHr6Id_93y9vx_arb0m5JzWHEXolPYdckqxpA8jrZSxq2rv"
+   }
+  ],
+  "profiles": [
+   {
+    "name": "X (Twitter)",
+    "link": "https://twitter.com/your_wchs",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Whiteland+Community+High+School%22+Indiana",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAABhUlEQVR4AczOA6xcARCF4X_us23btuLUQR3WZlhbQW3bto2gtm3b2J3GN4tY74uHh3okOi42Nj4AAUDwTvDEhisABCOAEAzYTBh0bN-lc5d0QgAhHPqX4Y4pkd367Zc-xMcXCPDg8TPwxeQH724Uj9N95GJ4pnHxby1xgCmV3v-GsFb7k0Iee7UjaQgmIYe9v9O4-wUKWaATyMPAViwvr1NnOQWDdTV5CHYSaKWLmaGDyvU4mTgQcllracaFr-9uk-yLM8k8fAJff0IUTghRVFu3M1ynkYk4nchiqqU3Ry05RDibMMhjtj6Ht3dJxVk_l1G64cspOusychBsCWm01WNM0jFs0sbEYUtIIuTXNco588OLh09JxE6wweuXEAvfL9PQus3-iU80N34KCaQyUOcxTTuSjEmMRI5rS9JwIZfD1t7ceo34YIpnuQ4nGwP8XXlq_fJZd9jE8KBHC5IwAELJ7dWrZ6fOuNhkgFgAEEIAwA1MQkw0AgDC_wnKycrKSQ2iPAkAVyNzq8rxicIAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/YOUR.WCHS",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Whiteland+Community+High+School%22+Indiana",
+    "image": "https://serpapi.com/searches/6aa3131efbbebb6f6303c456/images/RnIYrcogBl6uwQ3Y9Tigp3fWAuwRX_5hHp2xx1lO8b1py62bVVCAxxWBRGqtGRFv.png"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuloAKkDOzp50KHOqs4n-xcxeHBIA:1789072174598&q=Whiteland+Community+High+School&stick=H4sIAAAAAAAAAONgFuLSz9U3MCqoSMszUEJiawkGZ6aklidWFvulVpQEl6QWFC9ilQ_PyCxJzUnMS1Fwzs_NLc3LLKlU8MhMz1AITs7Iz8_ZwcoIAHKlauBSAAAA&sa=X&ved=2ahUKEwib3Mab7eSWAxVzhVYBHXRdI24QMSgAegQIShAB",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLSz9U3MCqoSMszUEJiawkGZ6aklidWFvulVpQEl6QWFC9ilQ_PyCxJzUnMS1Fwzs_NLc3LLKlU8MhMz1AITs7Iz8_ZwcoIAHKlauBSAAAA"
+ },
+ "related_questions": [
+  {
+   "question": "How many students go to Whiteland Community High School?",
+   "type": "ai_overview",
+   "page_token": "TLh_xHicHZBBjpswFEDVy8xygkOTikhRJTeGNB2cYGwT2FTwgXjgG-iEhgm7XqFn6Kl6mkbdv_cW79cffO3avx9-m3EcrpvFYpqm50vfX7B6ht4u8uu9gwXkiEUO7Wb9aU0-17BlN6Bf3oBGahj0TjhxAkRLPhXkMIFrwgQp42hChbwpd_xU7oerkHQWymjhDlmIYp03vlDnfnWUJohd8cKd8Wto0RZONJbJQ5aZA4GoNcEu9mn9orxWNmWgrU5LJiJIsD1qaiRJXeUO50hnxyo5tKDKGzBcKXvIMhU6KaqPGr2QOxjwpXeKFF8WatwJ4rmiXelICb_aw1zus2-x9kLA7CwDn2jVzlXiz5yZVCfkVBDqJszrmCnDnHk_0jMlsh0i6VzvYL3oqN7fZWNEIvrXR3OGBq3qMM_1sI_Zg7Omj-8EK8uxWBIXiPdTz7TOpqcablv36f_r7ffajpvhrb_8AwNsjNo",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=TLh_xHicHZBBjpswFEDVy8xygkOTikhRJTeGNB2cYGwT2FTwgXjgG-iEhgm7XqFn6Kl6mkbdv_cW79cffO3avx9-m3EcrpvFYpqm50vfX7B6ht4u8uu9gwXkiEUO7Wb9aU0-17BlN6Bf3oBGahj0TjhxAkRLPhXkMIFrwgQp42hChbwpd_xU7oerkHQWymjhDlmIYp03vlDnfnWUJohd8cKd8Wto0RZONJbJQ5aZA4GoNcEu9mn9orxWNmWgrU5LJiJIsD1qaiRJXeUO50hnxyo5tKDKGzBcKXvIMhU6KaqPGr2QOxjwpXeKFF8WatwJ4rmiXelICb_aw1zus2-x9kLA7CwDn2jVzlXiz5yZVCfkVBDqJszrmCnDnHk_0jMlsh0i6VzvYL3oqN7fZWNEIvrXR3OGBq3qMM_1sI_Zg7Omj-8EK8uxWBIXiPdTz7TOpqcablv36f_r7ffajpvhrb_8AwNsjNo",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmJYSnJlVWRsTkhkdVZFOXpWakF6TUZSMFptbFpTVFp0ZWtOUlVYUTVSRjlNT1U1SE9VRkNialoxWlZBM01XbG9SRmxtWXpCWWFXUkRWMGRVTVcxdGFUWXpNWE5sTjBkaGRWcFpSVXhwYkVSWWVtbGlNVVprUXpoWGR4SVhUR2hQYW1Gd2RVNUtVRTlMTW5KdlVEbE1jVTQ0VVZrYUlrRkVjM0k1WmxNNWRGQTRNWGRmWW1Wd1FsaFdOa2hETFhOMFVqRnBXR2hqUjNjIiwiZmN2IjoiMyIsImVpIjoiTGhPamFwdU5KUE9LMnJvUDlMcU44UVkiLCJxYyI6IkNpZDNhR2wwWld4aGJtUWdZMjl0YlhWdWFYUjVJR2hwWjJnZ2MyTm9iMjlzSUdsdVpHbGhibUVRQUgyWURsZ18iLCJxdWVzdGlvbiI6IkhvdyBtYW55IHN0dWRlbnRzIGdvIHRvIFdoaXRlbGFuZCBDb21tdW5pdHkgSGlnaCBTY2hvb2w/IiwibGsiOiJjd1hCd1EwQUlBZ0VzRDE4M1JiT1k5UUlpWEFQTU1idGJVc1ZYbGp6aDhnenBtZGdFVWxjMFp5Ny1VQ24yWEhOQjlFbGlDN2tfZyIsImJzIjoiYzRYUVBVOERNUXdHWUxGbVlyNEJ2Uk1DbGVrR1BxYVRZR2xuaGtwc0prblBscEs0dXZpby11X3BGZFNxb2hXcjVjZC1iVGU2NTdsdWtLbHNVVzBNc1ZoRnJ6REZrc1Zpb2hMd3BqbVBSV3lMdWZTTWQ4LXFxV3RmbWllLVlEY0g2dy1XSjF2MzFxM2M2NUxKUUVPRWNjUkFYaWhoQXRHNGlFZUlXZnVCMWl5LVFsZkhOQTlZbENCVXFHdlIzQndYeVVfMUJMb1BOMXZVTXhhMEM2b0I2MFEtVG9HVGZNV3VuVFgzVXZGMzVybHU5LWtlOXpmc3hIUkNwdXJWVHFKZWV0eGRjX3ZQZzM2blhWOTlBdyIsImlkIjoiZmNfTGhPamFwdU5KUE9LMnJvUDlMcU44UVlfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmJYSnJlVWRsTkhkdVZFOXpWakF6TUZSMFptbFpTVFp0ZWtOUlVYUTVSRjlNT1U1SE9VRkNialoxWlZBM01XbG9SRmxtWXpCWWFXUkRWMGRVTVcxdGFUWXpNWE5sTjBkaGRWcFpSVXhwYkVSWWVtbGlNVVprUXpoWGR4SVhUR2hQYW1Gd2RVNUtVRTlMTW5KdlVEbE1jVTQ0VVZrYUlrRkVjM0k1WmxNNWRGQTRNWGRmWW1Wd1FsaFdOa2hETFhOMFVqRnBXR2hqUjNjIiwiZmN2IjoiMyIsImVpIjoiTGhPamFwdU5KUE9LMnJvUDlMcU44UVkiLCJxYyI6IkNpZDNhR2wwWld4aGJtUWdZMjl0YlhWdWFYUjVJR2hwWjJnZ2MyTm9iMjlzSUdsdVpHbGhibUVRQUgyWURsZ18iLCJxdWVzdGlvbiI6IkhvdyBtYW55IHN0dWRlbnRzIGdvIHRvIFdoaXRlbGFuZCBDb21tdW5pdHkgSGlnaCBTY2hvb2w%2FIiwibGsiOiJjd1hCd1EwQUlBZ0VzRDE4M1JiT1k5UUlpWEFQTU1idGJVc1ZYbGp6aDhnenBtZGdFVWxjMFp5Ny1VQ24yWEhOQjlFbGlDN2tfZyIsImJzIjoiYzRYUVBVOERNUXdHWUxGbVlyNEJ2Uk1DbGVrR1BxYVRZR2xuaGtwc0prblBscEs0dXZpby11X3BGZFNxb2hXcjVjZC1iVGU2NTdsdWtLbHNVVzBNc1ZoRnJ6REZrc1Zpb2hMd3BqbVBSV3lMdWZTTWQ4LXFxV3RmbWllLVlEY0g2dy1XSjF2MzFxM2M2NUxKUUVPRWNjUkFYaWhoQXRHNGlFZUlXZnVCMWl5LVFsZkhOQTlZbENCVXFHdlIzQndYeVVfMUJMb1BOMXZVTXhhMEM2b0I2MFEtVG9HVGZNV3VuVFgzVXZGMzVybHU5LWtlOXpmc3hIUkNwdXJWVHFKZWV0eGRjX3ZQZzM2blhWOTlBdyIsImlkIjoiZmNfTGhPamFwdU5KUE9LMnJvUDlMcU44UVlfNSJ9"
+  },
+  {
+   "question": "What are the racial and ethnic demographics of Whiteland, Indiana?",
+   "type": "ai_overview",
+   "page_token": "9tSPH3icHdFLjpswAIBh9TKznPAoqRIpqkQwYVBxhPELbyrHEBhswDMwIWHXu3TdA_U0HXX7L7__12_zOui_X_6082yn_WazLMtzM46NqZ_V2G_k9BjURkljLlLp_fbb1v1-VQcwLsfjtIQ5sZZGyMERmnFiB76KMHdoWjHxJrX6WuPwprCZsGM92bXtOcl8QbMFxy-PajWc8fAogPAVhlrp4H5mdKUGRvhEHAzmVAw2IiDoRZx-XAA8ll7jFhje6lO5ypNlyIRGJEZ-tkC5FpOTmyO_4kjTKVurj5qgUem4K4xoBQeu0qN30aLPWNAWNCVF8uLDvgmEB98RrgjhbYKS0S8HtJUd-kEc20PQuJIiSCO4loOggkHnTHYZpoZVXqtrbsQFWAjX2IC2yiTYvZU8dLG2OXamh-p3-Znc77hrEUPja07QqjrT0yiec7bTGOhH4YYhdD4l3ZQXfsxYB2k-GL9anq7qdvCf_n84_Lz2896-j80_47iXsg",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=9tSPH3icHdFLjpswAIBh9TKznPAoqRIpqkQwYVBxhPELbyrHEBhswDMwIWHXu3TdA_U0HXX7L7__12_zOui_X_6082yn_WazLMtzM46NqZ_V2G_k9BjURkljLlLp_fbb1v1-VQcwLsfjtIQ5sZZGyMERmnFiB76KMHdoWjHxJrX6WuPwprCZsGM92bXtOcl8QbMFxy-PajWc8fAogPAVhlrp4H5mdKUGRvhEHAzmVAw2IiDoRZx-XAA8ll7jFhje6lO5ypNlyIRGJEZ-tkC5FpOTmyO_4kjTKVurj5qgUem4K4xoBQeu0qN30aLPWNAWNCVF8uLDvgmEB98RrgjhbYKS0S8HtJUd-kEc20PQuJIiSCO4loOggkHnTHYZpoZVXqtrbsQFWAjX2IC2yiTYvZU8dLG2OXamh-p3-Znc77hrEUPja07QqjrT0yiec7bTGOhH4YYhdD4l3ZQXfsxYB2k-GL9anq7qdvCf_n84_Lz2896-j80_47iXsg",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmJYSnJlVWRsTkhkdVZFOXpWakF6TUZSMFptbFpTVFp0ZWtOUlVYUTVSRjlNT1U1SE9VRkNialoxWlZBM01XbG9SRmxtWXpCWWFXUkRWMGRVTVcxdGFUWXpNWE5sTjBkaGRWcFpSVXhwYkVSWWVtbGlNVVprUXpoWGR4SVhUR2hQYW1Gd2RVNUtVRTlMTW5KdlVEbE1jVTQ0VVZrYUlrRkVjM0k1WmxNNWRGQTRNWGRmWW1Wd1FsaFdOa2hETFhOMFVqRnBXR2hqUjNjIiwiZmN2IjoiMyIsImVpIjoiTGhPamFwdU5KUE9LMnJvUDlMcU44UVkiLCJxYyI6IkNpZDNhR2wwWld4aGJtUWdZMjl0YlhWdWFYUjVJR2hwWjJnZ2MyTm9iMjlzSUdsdVpHbGhibUVRQUgyWURsZ18iLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSByYWNpYWwgYW5kIGV0aG5pYyBkZW1vZ3JhcGhpY3Mgb2YgV2hpdGVsYW5kLCBJbmRpYW5hPyIsImxrIjoiR2g1M2FHbDBaV3hoYm1RZ2FXNWthV0Z1WVNCa1pXMXZaM0poY0docFkzTSIsImJzIjoiYzRYUVBVOERNUXdHWUxGbVlyNEJ2Uk1DbGVrR1BxYVRZR2xuaGtwc0prblBscEs0dXZpby11X3BGZFNxb2hXcjVjZC1iVGU2NTdsdWtLbHNVVzBNc1ZoRnJ6REZrc1Zpb2hMd3BqbVBSV3lMdWZTTWQ4LXFxV3RmbWllLVlEY0g2dy1XSjF2MzFxM2M2NUxKUUVPRWNjUkFYaWhoQXRHNGlFZUlXZnVCMWl5LVFsZkhOQTlZbENCVXFHdlIzQndYeVVfMUJMb1BOMXZVTXhhMEM2b0I2MFEtVG9HVGZNV3VuVFgzVXZGMzVybHU5LWtlOXpmc3hIUkNwdXJWVHFKZWV0eGRjX3ZQZzM2blhWOTlBdyIsImlkIjoiZmNfTGhPamFwdU5KUE9LMnJvUDlMcU44UVlfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmJYSnJlVWRsTkhkdVZFOXpWakF6TUZSMFptbFpTVFp0ZWtOUlVYUTVSRjlNT1U1SE9VRkNialoxWlZBM01XbG9SRmxtWXpCWWFXUkRWMGRVTVcxdGFUWXpNWE5sTjBkaGRWcFpSVXhwYkVSWWVtbGlNVVprUXpoWGR4SVhUR2hQYW1Gd2RVNUtVRTlMTW5KdlVEbE1jVTQ0VVZrYUlrRkVjM0k1WmxNNWRGQTRNWGRmWW1Wd1FsaFdOa2hETFhOMFVqRnBXR2hqUjNjIiwiZmN2IjoiMyIsImVpIjoiTGhPamFwdU5KUE9LMnJvUDlMcU44UVkiLCJxYyI6IkNpZDNhR2wwWld4aGJtUWdZMjl0YlhWdWFYUjVJR2hwWjJnZ2MyTm9iMjlzSUdsdVpHbGhibUVRQUgyWURsZ18iLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSByYWNpYWwgYW5kIGV0aG5pYyBkZW1vZ3JhcGhpY3Mgb2YgV2hpdGVsYW5kLCBJbmRpYW5hPyIsImxrIjoiR2g1M2FHbDBaV3hoYm1RZ2FXNWthV0Z1WVNCa1pXMXZaM0poY0docFkzTSIsImJzIjoiYzRYUVBVOERNUXdHWUxGbVlyNEJ2Uk1DbGVrR1BxYVRZR2xuaGtwc0prblBscEs0dXZpby11X3BGZFNxb2hXcjVjZC1iVGU2NTdsdWtLbHNVVzBNc1ZoRnJ6REZrc1Zpb2hMd3BqbVBSV3lMdWZTTWQ4LXFxV3RmbWllLVlEY0g2dy1XSjF2MzFxM2M2NUxKUUVPRWNjUkFYaWhoQXRHNGlFZUlXZnVCMWl5LVFsZkhOQTlZbENCVXFHdlIzQndYeVVfMUJMb1BOMXZVTXhhMEM2b0I2MFEtVG9HVGZNV3VuVFgzVXZGMzVybHU5LWtlOXpmc3hIUkNwdXJWVHFKZWV0eGRjX3ZQZzM2blhWOTlBdyIsImlkIjoiZmNfTGhPamFwdU5KUE9LMnJvUDlMcU44UVlfNSJ9"
+  },
+  {
+   "question": "Is Whiteland, Indiana a good place to live?",
+   "type": "ai_overview",
+   "page_token": "j8u3HnicHdBdToMwAADgeBkfHcwww5LFBCljqCwttAVeTH8YHbTQORyTN-_iqTyNxht8-b6-9bHvfm4uahzteb1YTNN01wxDo-s7MZgFO3_2YiGY1pyJbr16WLmPB7EBH7vg6bQLILaWhMjJgTbV1pK6SJCg1smKgOA8pXUkY0HJKe9szFwf82US7cEVpbgqU5C801AGqCUHuKxK3CZT1suJhSSqtVYlVQiTQLECLwlRKziTrDQJy5yx5z16obFyERFz3UcoAwqgsAK0laesa7xqllucI4dT36ZUOcRJd3vgA2i8Z0kjD23RhceNJ409QqPDrCuXspUdv49yrnUPlHxlwD-VReD-2WHunD-F8eEeX695qxBFwxFiNItWG1y8jmJOWhnqvQRoYsYbuJvaEqcR79wI0ySG8PYgLpv72__PzdvBjGv7PjS_AKKE2g",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=j8u3HnicHdBdToMwAADgeBkfHcwww5LFBCljqCwttAVeTH8YHbTQORyTN-_iqTyNxht8-b6-9bHvfm4uahzteb1YTNN01wxDo-s7MZgFO3_2YiGY1pyJbr16WLmPB7EBH7vg6bQLILaWhMjJgTbV1pK6SJCg1smKgOA8pXUkY0HJKe9szFwf82US7cEVpbgqU5C801AGqCUHuKxK3CZT1suJhSSqtVYlVQiTQLECLwlRKziTrDQJy5yx5z16obFyERFz3UcoAwqgsAK0laesa7xqllucI4dT36ZUOcRJd3vgA2i8Z0kjD23RhceNJ409QqPDrCuXspUdv49yrnUPlHxlwD-VReD-2WHunD-F8eEeX695qxBFwxFiNItWG1y8jmJOWhnqvQRoYsYbuJvaEqcR79wI0ySG8PYgLpv72__PzdvBjGv7PjS_AKKE2g",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmJYSnJlVWRsTkhkdVZFOXpWakF6TUZSMFptbFpTVFp0ZWtOUlVYUTVSRjlNT1U1SE9VRkNialoxWlZBM01XbG9SRmxtWXpCWWFXUkRWMGRVTVcxdGFUWXpNWE5sTjBkaGRWcFpSVXhwYkVSWWVtbGlNVVprUXpoWGR4SVhUR2hQYW1Gd2RVNUtVRTlMTW5KdlVEbE1jVTQ0VVZrYUlrRkVjM0k1WmxNNWRGQTRNWGRmWW1Wd1FsaFdOa2hETFhOMFVqRnBXR2hqUjNjIiwiZmN2IjoiMyIsImVpIjoiTGhPamFwdU5KUE9LMnJvUDlMcU44UVkiLCJxYyI6IkNpZDNhR2wwWld4aGJtUWdZMjl0YlhWdWFYUjVJR2hwWjJnZ2MyTm9iMjlzSUdsdVpHbGhibUVRQUgyWURsZ18iLCJxdWVzdGlvbiI6IklzIFdoaXRlbGFuZCwgSW5kaWFuYSBhIGdvb2QgcGxhY2UgdG8gbGl2ZT8iLCJsayI6IkdpbHBjeUIzYUdsMFpXeGhibVFnYVc1a2FXRnVZU0JoSUdkdmIyUWdjR3hoWTJVZ2RHOGdiR2wyWlEiLCJicyI6ImM0WFFQVThETVF3R1lMRm1ZcjRCdlJNQ2xla0dQcWFUWUdsbmhrcHNKa25QbHBLNHV2aW8tdV9wRmRTcW9oV3I1Y2QtYlRlNjU3bHVrS2xzVVcwTXNWaEZyekRGa3NWaW9oTHdwam1QUld5THVmU01kOC1xcVd0Zm1pZS1ZRGNINnctV0oxdjMxcTNjNjVMSlFFT0VjY1JBWGloaEF0RzRpRWVJV2Z1QjFpeS1RbGZITkE5WWxDQlVxR3ZSM0J3WHlVXzFCTG9QTjF2VU14YTBDNm9CNjBRLVRvR1RmTVd1blRYM1V2RjM1cmx1OS1rZTl6ZnN4SFJDcHVyVlRxSmVldHhkY192UGczNm5YVjk5QXciLCJpZCI6ImZjX0xoT2phcHVOSlBPSzJyb1A5THFOOFFZXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmJYSnJlVWRsTkhkdVZFOXpWakF6TUZSMFptbFpTVFp0ZWtOUlVYUTVSRjlNT1U1SE9VRkNialoxWlZBM01XbG9SRmxtWXpCWWFXUkRWMGRVTVcxdGFUWXpNWE5sTjBkaGRWcFpSVXhwYkVSWWVtbGlNVVprUXpoWGR4SVhUR2hQYW1Gd2RVNUtVRTlMTW5KdlVEbE1jVTQ0VVZrYUlrRkVjM0k1WmxNNWRGQTRNWGRmWW1Wd1FsaFdOa2hETFhOMFVqRnBXR2hqUjNjIiwiZmN2IjoiMyIsImVpIjoiTGhPamFwdU5KUE9LMnJvUDlMcU44UVkiLCJxYyI6IkNpZDNhR2wwWld4aGJtUWdZMjl0YlhWdWFYUjVJR2hwWjJnZ2MyTm9iMjlzSUdsdVpHbGhibUVRQUgyWURsZ18iLCJxdWVzdGlvbiI6IklzIFdoaXRlbGFuZCwgSW5kaWFuYSBhIGdvb2QgcGxhY2UgdG8gbGl2ZT8iLCJsayI6IkdpbHBjeUIzYUdsMFpXeGhibVFnYVc1a2FXRnVZU0JoSUdkdmIyUWdjR3hoWTJVZ2RHOGdiR2wyWlEiLCJicyI6ImM0WFFQVThETVF3R1lMRm1ZcjRCdlJNQ2xla0dQcWFUWUdsbmhrcHNKa25QbHBLNHV2aW8tdV9wRmRTcW9oV3I1Y2QtYlRlNjU3bHVrS2xzVVcwTXNWaEZyekRGa3NWaW9oTHdwam1QUld5THVmU01kOC1xcVd0Zm1pZS1ZRGNINnctV0oxdjMxcTNjNjVMSlFFT0VjY1JBWGloaEF0RzRpRWVJV2Z1QjFpeS1RbGZITkE5WWxDQlVxR3ZSM0J3WHlVXzFCTG9QTjF2VU14YTBDNm9CNjBRLVRvR1RmTVd1blRYM1V2RjM1cmx1OS1rZTl6ZnN4SFJDcHVyVlRxSmVldHhkY192UGczNm5YVjk5QXciLCJpZCI6ImZjX0xoT2phcHVOSlBPSzJyb1A5THFOOFFZXzUifQ%3D%3D"
+  },
+  {
+   "question": "What is the mascot of Whiteland Community High School?",
+   "type": "ai_overview",
+   "page_token": "75D5HnicHdBNbqMwAEBhzWW6bAo0nSZSVInEJuMKOvgXvKmwCThgB0JQSdjNFeYMc6o5Tasu3u5bvT__7PHU_v_x14xjf1kvFtM03dddV9vDve7corjcTnqhC2tVodv1088n76XSG_Chw-2gw5T1Pd_hB-KvvKT1TMFkdbAmJ7bzSYQ6GiQ9gXLQgk9xUFrF-kA17cwAKkjUDyrDufQSfsjQ7_wrGqGzAM8-ZdwvnKF4D6PcC0WcmUcyhwi35VbuJKDUbmmGJG74VQOckLYchFvl0odnTuESz_VNNShgzshiNobBesQciXxOJAfGJhzHb5HhwslGNTCOfe8Xi8pKwucppgmnYvkq9_wmXD1x2D4SAUl8QmflxhmYMi7A6pxnoUfbPqUPl5t2q_SNXa-0MVjg7pgyPOvGOr43PgPThAN85BCFam-uB4qZ8nXwZQccyNc0vav0xya4-369ea_cuO6Hrv4E9zuOQw",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=75D5HnicHdBNbqMwAEBhzWW6bAo0nSZSVInEJuMKOvgXvKmwCThgB0JQSdjNFeYMc6o5Tasu3u5bvT__7PHU_v_x14xjf1kvFtM03dddV9vDve7corjcTnqhC2tVodv1088n76XSG_Chw-2gw5T1Pd_hB-KvvKT1TMFkdbAmJ7bzSYQ6GiQ9gXLQgk9xUFrF-kA17cwAKkjUDyrDufQSfsjQ7_wrGqGzAM8-ZdwvnKF4D6PcC0WcmUcyhwi35VbuJKDUbmmGJG74VQOckLYchFvl0odnTuESz_VNNShgzshiNobBesQciXxOJAfGJhzHb5HhwslGNTCOfe8Xi8pKwucppgmnYvkq9_wmXD1x2D4SAUl8QmflxhmYMi7A6pxnoUfbPqUPl5t2q_SNXa-0MVjg7pgyPOvGOr43PgPThAN85BCFam-uB4qZ8nXwZQccyNc0vav0xya4-369ea_cuO6Hrv4E9zuOQw",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmJYSnJlVWRsTkhkdVZFOXpWakF6TUZSMFptbFpTVFp0ZWtOUlVYUTVSRjlNT1U1SE9VRkNialoxWlZBM01XbG9SRmxtWXpCWWFXUkRWMGRVTVcxdGFUWXpNWE5sTjBkaGRWcFpSVXhwYkVSWWVtbGlNVVprUXpoWGR4SVhUR2hQYW1Gd2RVNUtVRTlMTW5KdlVEbE1jVTQ0VVZrYUlrRkVjM0k1WmxNNWRGQTRNWGRmWW1Wd1FsaFdOa2hETFhOMFVqRnBXR2hqUjNjIiwiZmN2IjoiMyIsImVpIjoiTGhPamFwdU5KUE9LMnJvUDlMcU44UVkiLCJxYyI6IkNpZDNhR2wwWld4aGJtUWdZMjl0YlhWdWFYUjVJR2hwWjJnZ2MyTm9iMjlzSUdsdVpHbGhibUVRQUgyWURsZ18iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIG1hc2NvdCBvZiBXaGl0ZWxhbmQgQ29tbXVuaXR5IEhpZ2ggU2Nob29sPyIsImxrIjoiR2laM2FHbDBaV3hoYm1RZ1kyOXRiWFZ1YVhSNUlHaHBaMmdnYzJOb2IyOXNJRzFoYzJOdmRBIiwiYnMiOiJjNFhRUFU4RE1Rd0dZTEZtWXI0QnZSTUNsZWtHUHFhVFlHbG5oa3BzSmtuUGxwSzR1dmlvLXVfcEZkU3FvaFdyNWNkLWJUZTY1N2x1a0tsc1VXME1zVmhGcnpERmtzVmlvaEx3cGptUFJXeUx1ZlNNZDgtcXFXdGZtaWUtWURjSDZ3LVdKMXYzMXEzYzY1TEpRRU9FY2NSQVhpaGhBdEc0aUVlSVdmdUIxaXktUWxmSE5BOVlsQ0JVcUd2UjNCd1h5VV8xQkxvUE4xdlVNeGEwQzZvQjYwUS1Ub0dUZk1XdW5UWDNVdkYzNXJsdTkta2U5emZzeEhSQ3B1clZUcUplZXR4ZGNfdlBnMzZuWFY5OUF3IiwiaWQiOiJmY19MaE9qYXB1TkpQT0sycm9QOUxxTjhRWV81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmJYSnJlVWRsTkhkdVZFOXpWakF6TUZSMFptbFpTVFp0ZWtOUlVYUTVSRjlNT1U1SE9VRkNialoxWlZBM01XbG9SRmxtWXpCWWFXUkRWMGRVTVcxdGFUWXpNWE5sTjBkaGRWcFpSVXhwYkVSWWVtbGlNVVprUXpoWGR4SVhUR2hQYW1Gd2RVNUtVRTlMTW5KdlVEbE1jVTQ0VVZrYUlrRkVjM0k1WmxNNWRGQTRNWGRmWW1Wd1FsaFdOa2hETFhOMFVqRnBXR2hqUjNjIiwiZmN2IjoiMyIsImVpIjoiTGhPamFwdU5KUE9LMnJvUDlMcU44UVkiLCJxYyI6IkNpZDNhR2wwWld4aGJtUWdZMjl0YlhWdWFYUjVJR2hwWjJnZ2MyTm9iMjlzSUdsdVpHbGhibUVRQUgyWURsZ18iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIG1hc2NvdCBvZiBXaGl0ZWxhbmQgQ29tbXVuaXR5IEhpZ2ggU2Nob29sPyIsImxrIjoiR2laM2FHbDBaV3hoYm1RZ1kyOXRiWFZ1YVhSNUlHaHBaMmdnYzJOb2IyOXNJRzFoYzJOdmRBIiwiYnMiOiJjNFhRUFU4RE1Rd0dZTEZtWXI0QnZSTUNsZWtHUHFhVFlHbG5oa3BzSmtuUGxwSzR1dmlvLXVfcEZkU3FvaFdyNWNkLWJUZTY1N2x1a0tsc1VXME1zVmhGcnpERmtzVmlvaEx3cGptUFJXeUx1ZlNNZDgtcXFXdGZtaWUtWURjSDZ3LVdKMXYzMXEzYzY1TEpRRU9FY2NSQVhpaGhBdEc0aUVlSVdmdUIxaXktUWxmSE5BOVlsQ0JVcUd2UjNCd1h5VV8xQkxvUE4xdlVNeGEwQzZvQjYwUS1Ub0dUZk1XdW5UWDNVdkYzNXJsdTkta2U5emZzeEhSQ3B1clZUcUplZXR4ZGNfdlBnMzZuWFY5OUF3IiwiaWQiOiJmY19MaE9qYXB1TkpQT0sycm9QOUxxTjhRWV81In0%3D"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Whiteland Community High School",
+   "link": "https://www.cpcsc.k12.in.us/o/wchs",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWgHrOzAVMUuop06DLDrdfvuaoCDX_USswGlrxsrfABcbeVrq6a99TVS994AdQAgDF27zIo7xDAE4OdeEPlgmVodRrr_A78iDk5-KcCCakDMyS5SGcvp3IGvrQg&ved=2ahUKEwib3Mab7eSWAxVzhVYBHXRdI24QFnoECBQQAQ&uoh=1",
+   "displayed_link": "https://www.cpcsc.k12.in.us \u203a wchs",
+   "favicon": "https://serpapi.com/searches/6aa3131efbbebb6f6303c456/images/2QhRJazILs8leDL3w3-OCNaGi9RblK4A91S44Qqbeh8.png",
+   "snippet": "It is with great pleasure that we welcome you to Whiteland Community High School! WCHS is a growing high school offering numerous graduation pathways to prepare ...",
+   "snippet_highlighted_words": [
+    "Whiteland Community High School"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "Staff",
+      "link": "https://www.cpcsc.k12.in.us/o/wchs/staff",
+      "snippet": "Whiteland Community High School ; Duke Lines. Principal \u00b7 Justin ..."
+     },
+     {
+      "title": "Events",
+      "link": "https://www.cpcsc.k12.in.us/o/wchs/events",
+      "snippet": "Whiteland Community High School300 Main ..."
+     },
+     {
+      "title": "Documents",
+      "link": "https://www.cpcsc.k12.in.us/o/wchs/documents",
+      "snippet": "Whiteland Community High School \u00b7 Documents \u00b7 Documents ..."
+     },
+     {
+      "title": "News",
+      "link": "https://www.cpcsc.k12.in.us/o/wchs/news",
+      "snippet": "Whiteland Community High School Earns 2025 Indiana Purple Star ..."
+     },
+     {
+      "title": "WCHS Construction",
+      "link": "https://www.cpcsc.k12.in.us/o/district/page/wchs-project",
+      "snippet": "The Whiteland Community High School (WCHS) renovation and ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "It is with great pleasure that we welcome you to Whiteland Community High School! WCHS is a growing high school offering numerous graduation pathways to prepare ...",
+     "source_info_link": "https://www.cpcsc.k12.in.us/o/wchs",
+     "icon": "https://serpapi.com/searches/6aa3131efbbebb6f6303c456/images/2QhRJazILs8leDL3w3-OCCoYCRhZixI-qqoWYlx9h7C2r6e19a7A-JJ2KK6fqzR0.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESWgHrOzAVMUuop06DLDrdfvuaoCDX_USswGlrxsrfABcbeVrq6a99TVS994AdQAgDF27zIo7xDAE4OdeEPlgmVodRrr_A78iDk5-KcCCakDMyS5SGcvp3IGvrQg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESWgHrOzAVMUuop06DLDrdfvuaoCDX_USswGlrxsrfABcbeVrq6a99TVS994AdQAgDF27zIo7xDAE4OdeEPlgmVodRrr_A78iDk5-KcCCakDMyS5SGcvp3IGvrQg",
+   "source": "Clark-Pleasant Community School Corporation"
+  },
+  {
+   "position": 2,
+   "title": "Whiteland Community High School",
+   "link": "https://en.wikipedia.org/wiki/Whiteland_Community_High_School",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAV56b0VuyWyCk6Rue7xiXozphVR_oYyMF7SmFxrpSiI-VOgFK8_yRkVEnPgNMs25bqLgKRZ2QriLqhDFed0zv97GbzZnVG27qMj-arssw2GHyYndVU3sjX_k2kS7DpuDuwFEAA9ub3EwcXkRj_h0c2jQ&ved=2ahUKEwib3Mab7eSWAxVzhVYBHXRdI24QFnoECA0QAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Whiteland_Communit...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+   "snippet": "Whiteland Community High School (or WCHS) is a public high school located in Whiteland, Indiana. It is the only high school in continuous use in the town of ...",
+   "snippet_highlighted_words": [
+    "Whiteland Community High School",
+    "Indiana"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Whiteland Community High School (or WCHS) is a public high school located in Whiteland, Indiana. It is the only high school in continuous use in the town of ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Whiteland_Community_High_School",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdQHrOzAV56b0VuyWyCk6Rue7xiXozphVR_oYyMF7SmFxrpSiI-VOgFK8_yRkVEnPgNMs25bqLgKRZ2QriLqhDFed0zv97GbzZnVG27qMj-arssw2GHyYndVU3sjX_k2kS7DpuDuwFEAA9ub3EwcXkRj_h0c2jQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdQHrOzAV56b0VuyWyCk6Rue7xiXozphVR_oYyMF7SmFxrpSiI-VOgFK8_yRkVEnPgNMs25bqLgKRZ2QriLqhDFed0zv97GbzZnVG27qMj-arssw2GHyYndVU3sjX_k2kS7DpuDuwFEAA9ub3EwcXkRj_h0c2jQ",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Whiteland_Community_High_School#:~:text=Whiteland%20Community%20High%20School%20(or,in%20the%20town%20of%20Whiteland."
+  },
+  {
+   "position": 3,
+   "title": "Whiteland Community High School (@YOUR.WCHS)",
+   "link": "https://www.facebook.com/YOUR.WCHS/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWwHrOzAVNcieGQGWKQdsPiKyfv0mwCKEZg_jqZo28F0LtdLn79Y3b0k_fpQk4ZlXShuHmCdwuDQawzz2huh4x3MRg2mwnCA49W4GH2BPWdBMWsZD_m0puZLAyas&ved=2ahUKEwib3Mab7eSWAxVzhVYBHXRdI24QFnoECBAQAQ&uoh=1",
+   "displayed_link": "2.8K+ followers",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "snippet": "IN THE NEWS: Whiteland FFA Brings Home Three State Championships! What an incredible accomplishment for our Whiteland Community High School FFA members!",
+   "snippet_highlighted_words": [
+    "Whiteland Community High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "IN THE NEWS: Whiteland FFA Brings Home Three State Championships! What an incredible accomplishment for our Whiteland Community High School FFA members!",
+     "source_info_link": "https://www.facebook.com/YOUR.WCHS/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESWwHrOzAVNcieGQGWKQdsPiKyfv0mwCKEZg_jqZo28F0LtdLn79Y3b0k_fpQk4ZlXShuHmCdwuDQawzz2huh4x3MRg2mwnCA49W4GH2BPWdBMWsZD_m0puZLAyas&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESWwHrOzAVNcieGQGWKQdsPiKyfv0mwCKEZg_jqZo28F0LtdLn79Y3b0k_fpQk4ZlXShuHmCdwuDQawzz2huh4x3MRg2mwnCA49W4GH2BPWdBMWsZD_m0puZLAyas",
+   "source": "Facebook \u00b7 Whiteland Community High School",
+   "read_more_link": "https://www.facebook.com/YOUR.WCHS/#:~:text=%F0%9F%8C%9F%20IN%20THE%20NEWS%3A%20Whiteland,Community%20High%20School%20FFA%20members!"
+  },
+  {
+   "position": 4,
+   "title": "Whiteland Community High School",
+   "link": "https://www.usnews.com/education/best-high-schools/indiana/districts/clark-pleasant-community-sch-corp/whiteland-community-high-school-7161",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESxAEB6zswFTj1Bgkqn-NrJ7CeTKjmObUn6jMlU7McibZ8YadjUvq7b7VJm2w1f9Th9FK84UAmD8WvMQBLG0m0ZfnLlqz-LSVNEt8LgrcYuEvaaanR0soGnyAl0xK8O4gHM2brX_hSts4XXuh3kRXcCFsBmWWzxEfslnXDvOlO781EhaY93fOdryFDTvcxDHVMbwO_LdFff63tUkb3UkdRZtg7nkzDb5jsv6tr5M3p-O7RxLz1qyS5pzn51XPDeLYlc67jDwk1&ved=2ahUKEwib3Mab7eSWAxVzhVYBHXRdI24QFnoECA8QAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a education \u203a indiana \u203a districts",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png",
+   "snippet": "Whiteland Community High School is ranked 174th within Indiana. Students have the opportunity to take Advanced Placement\u00ae coursework and exams. The AP\u00ae ...",
+   "snippet_highlighted_words": [
+    "Whiteland Community High School",
+    "Indiana"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Whiteland Community High School is ranked 174th within Indiana. Students have the opportunity to take Advanced Placement\u00ae coursework and exams. The AP\u00ae ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/indiana/districts/clark-pleasant-community-sch-corp/whiteland-community-high-school-7161",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESxAEB6zswFTj1Bgkqn-NrJ7CeTKjmObUn6jMlU7McibZ8YadjUvq7b7VJm2w1f9Th9FK84UAmD8WvMQBLG0m0ZfnLlqz-LSVNEt8LgrcYuEvaaanR0soGnyAl0xK8O4gHM2brX_hSts4XXuh3kRXcCFsBmWWzxEfslnXDvOlO781EhaY93fOdryFDTvcxDHVMbwO_LdFff63tUkb3UkdRZtg7nkzDb5jsv6tr5M3p-O7RxLz1qyS5pzn51XPDeLYlc67jDwk1&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESxAEB6zswFTj1Bgkqn-NrJ7CeTKjmObUn6jMlU7McibZ8YadjUvq7b7VJm2w1f9Th9FK84UAmD8WvMQBLG0m0ZfnLlqz-LSVNEt8LgrcYuEvaaanR0soGnyAl0xK8O4gHM2brX_hSts4XXuh3kRXcCFsBmWWzxEfslnXDvOlO781EhaY93fOdryFDTvcxDHVMbwO_LdFff63tUkb3UkdRZtg7nkzDb5jsv6tr5M3p-O7RxLz1qyS5pzn51XPDeLYlc67jDwk1",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/indiana/districts/clark-pleasant-community-sch-corp/whiteland-community-high-school-7161#:~:text=Whiteland%20Community%20High%20School%20is,grade%20enrollment%20is%20495%20students."
+  },
+  {
+   "position": 5,
+   "title": "Clark-Pleasant Community School Corporation",
+   "link": "https://www.cpcsc.k12.in.us/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVAHrOzAVN_vZwWi3b0X-wz1UoVaJijdDkGA8vBJhgVrz_FEzpbEPppKYh1oexa-ld0EkSrYHcDla7-7No9t89gnxnsfLYiXYbyoK8cpSXi_AoQwvKA&ved=2ahUKEwib3Mab7eSWAxVzhVYBHXRdI24QFnoECAwQAQ&uoh=1",
+   "displayed_link": "https://www.cpcsc.k12.in.us",
+   "favicon": "https://serpapi.com/searches/6aa3131efbbebb6f6303c456/images/2QhRJazILs8leDL3w3-OCBKtL3Jk1dZkzq4FEet5zjU.png",
+   "snippet": "At Whiteland Community High School we are dedicated to helping students get ahead in making informed decisions about their post-secondary and career paths. Why ...",
+   "snippet_highlighted_words": [
+    "Whiteland Community High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "At Whiteland Community High School we are dedicated to helping students get ahead in making informed decisions about their post-secondary and career paths. Why ...",
+     "source_info_link": "https://www.cpcsc.k12.in.us/",
+     "icon": "https://serpapi.com/searches/6aa3131efbbebb6f6303c456/images/2QhRJazILs8leDL3w3-OCAnl5wYIWn3OS5M5Y8fYYLmACZEyWNiNhTCAMv3faZtb.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESVAHrOzAVN_vZwWi3b0X-wz1UoVaJijdDkGA8vBJhgVrz_FEzpbEPppKYh1oexa-ld0EkSrYHcDla7-7No9t89gnxnsfLYiXYbyoK8cpSXi_AoQwvKA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESVAHrOzAVN_vZwWi3b0X-wz1UoVaJijdDkGA8vBJhgVrz_FEzpbEPppKYh1oexa-ld0EkSrYHcDla7-7No9t89gnxnsfLYiXYbyoK8cpSXi_AoQwvKA",
+   "source": "Clark-Pleasant Community School Corporation",
+   "read_more_link": "https://www.cpcsc.k12.in.us/#:~:text=Why%20I%20Teach%20at%20Clark%2DPleasant,Community%20Schools"
+  },
+  {
+   "position": 6,
+   "title": "Whiteland Community High School in Bargersville, IN",
+   "link": "https://www.niche.com/k12/whiteland-community-high-school-whiteland-in/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfwHrOzAVcQoZOIex8DRKsmh2VGJ4lfH6nPUWE6z8yqgQK_bhZmfZhGtWP2uGFKtFDpaL67NwBaHpjPYHKnIAWhY7joxBEkGR8ayhOa97NorlcfsmAFO-e5OfMKdAAZzpluV2Yvj1XU0KADCOTrbZe9jkIfg-NYoaO2AZSJjKbAQ&ved=2ahUKEwib3Mab7eSWAxVzhVYBHXRdI24QFnoECAsQAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a Indiana",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png",
+   "snippet": "Whiteland Community High School is an above average, public school located in WHITELAND, IN. It has 2,144 students in grades 9-12 with a student-teacher ...",
+   "snippet_highlighted_words": [
+    "Whiteland Community High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Whiteland Community High School is an above average, public school located in WHITELAND, IN. It has 2,144 students in grades 9-12 with a student-teacher ...",
+     "source_info_link": "https://www.niche.com/k12/whiteland-community-high-school-whiteland-in/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESfwHrOzAVcQoZOIex8DRKsmh2VGJ4lfH6nPUWE6z8yqgQK_bhZmfZhGtWP2uGFKtFDpaL67NwBaHpjPYHKnIAWhY7joxBEkGR8ayhOa97NorlcfsmAFO-e5OfMKdAAZzpluV2Yvj1XU0KADCOTrbZe9jkIfg-NYoaO2AZSJjKbAQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESfwHrOzAVcQoZOIex8DRKsmh2VGJ4lfH6nPUWE6z8yqgQK_bhZmfZhGtWP2uGFKtFDpaL67NwBaHpjPYHKnIAWhY7joxBEkGR8ayhOa97NorlcfsmAFO-e5OfMKdAAZzpluV2Yvj1XU0KADCOTrbZe9jkIfg-NYoaO2AZSJjKbAQ",
+   "source": "Niche",
+   "read_more_link": "https://www.niche.com/k12/whiteland-community-high-school-whiteland-in/#:~:text=Whiteland%20Community%20High%20School%20is,ratio%20of%2018%20to%201."
+  },
+  {
+   "position": 7,
+   "title": "Whiteland Community High School - (9th - 12th)",
+   "link": "https://indianagps.doe.in.gov/Summary/School/3901",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAV528WrEhCHWOP30EfVJ0gZrdZ4Pb8gUz0olU_yoREkVfhiazgp1hA4_uxiRHvgBEpw0dHmUo3mVhgL2x-Uyb6IE2XJ0VM0OAnwlz-53iQdVd0hb1_SgazrqR55QIYdJbMHIvEsg&ved=2ahUKEwib3Mab7eSWAxVzhVYBHXRdI24QFnoECAoQAQ&uoh=1",
+   "displayed_link": "https://indianagps.doe.in.gov \u203a Summary \u203a School",
+   "favicon": "https://serpapi.com/searches/6aa3131efbbebb6f6303c456/images/2QhRJazILs8leDL3w3-OCKi4kYrtpfThoF4W_dceGuo.png",
+   "snippet": "Whiteland Community High School \u00b7 300 Main St, Whiteland, IN 46184 \u00b7 (317) 535-7562 \u00b7 Website \u00b7 School Performance Report \u00b7 View on Map \u00b7 Federal Report Card.",
+   "snippet_highlighted_words": [
+    "Whiteland Community High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Whiteland Community High School \u00b7 300 Main St, Whiteland, IN 46184 \u00b7 (317) 535-7562 \u00b7 Website \u00b7 School Performance Report \u00b7 View on Map \u00b7 Federal Report Card.",
+     "source_info_link": "https://indianagps.doe.in.gov/Summary/School/3901",
+     "icon": "https://serpapi.com/searches/6aa3131efbbebb6f6303c456/images/2QhRJazILs8leDL3w3-OCI42kAT7G4LyzQziqM47ObSVEQ2xdaWgAcBq8tiCbBvS.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESaQHrOzAV528WrEhCHWOP30EfVJ0gZrdZ4Pb8gUz0olU_yoREkVfhiazgp1hA4_uxiRHvgBEpw0dHmUo3mVhgL2x-Uyb6IE2XJ0VM0OAnwlz-53iQdVd0hb1_SgazrqR55QIYdJbMHIvEsg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESaQHrOzAV528WrEhCHWOP30EfVJ0gZrdZ4Pb8gUz0olU_yoREkVfhiazgp1hA4_uxiRHvgBEpw0dHmUo3mVhgL2x-Uyb6IE2XJ0VM0OAnwlz-53iQdVd0hb1_SgazrqR55QIYdJbMHIvEsg",
+   "source": "Indiana Graduates Prepared to Succeed (GPS) (.gov)",
+   "read_more_link": "https://indianagps.doe.in.gov/Summary/School/3901#:~:text=Whiteland%20Community%20High%20School&text=300%20Main%20St%2C%20Whiteland%2C%20IN,46184&text=(317)%20535%2D7562&text=Website&text=School%20Performance%20Report&text=View%20on%20Map&text=Federal%20Report%20Card"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Whiteland community high school indiana football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuloAKkDOzp50KHOqs4n-xcxeHBIA:1789072174598&q=Whiteland+community+high+school+indiana+football&sa=X&ved=2ahUKEwib3Mab7eSWAxVzhVYBHXRdI24Q1QJ6BAhwEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Whiteland+community+high+school+indiana+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Whiteland community high school indiana yearbook",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuloAKkDOzp50KHOqs4n-xcxeHBIA:1789072174598&q=Whiteland+community+high+school+indiana+yearbook&sa=X&ved=2ahUKEwib3Mab7eSWAxVzhVYBHXRdI24Q1QJ6BAhtEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Whiteland+community+high+school+indiana+yearbook"
+  },
+  {
+   "block_position": 1,
+   "query": "Whiteland community high school indiana basketball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuloAKkDOzp50KHOqs4n-xcxeHBIA:1789072174598&q=Whiteland+community+high+school+indiana+basketball&sa=X&ved=2ahUKEwib3Mab7eSWAxVzhVYBHXRdI24Q1QJ6BAhxEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Whiteland+community+high+school+indiana+basketball"
+  },
+  {
+   "block_position": 1,
+   "query": "Whiteland community high school indiana alumni",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuloAKkDOzp50KHOqs4n-xcxeHBIA:1789072174598&q=Whiteland+community+high+school+indiana+alumni&sa=X&ved=2ahUKEwib3Mab7eSWAxVzhVYBHXRdI24Q1QJ6BAhvEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Whiteland+community+high+school+indiana+alumni"
+  },
+  {
+   "block_position": 1,
+   "query": "Whiteland High School graduation 2026",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuloAKkDOzp50KHOqs4n-xcxeHBIA:1789072174598&q=Whiteland+High+School+graduation+2026&sa=X&ved=2ahUKEwib3Mab7eSWAxVzhVYBHXRdI24Q1QJ6BAhuEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Whiteland+High+School+graduation+2026"
+  },
+  {
+   "block_position": 1,
+   "query": "Whiteland Community High School Calendar",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuloAKkDOzp50KHOqs4n-xcxeHBIA:1789072174598&q=Whiteland+Community+High+School+Calendar&sa=X&ved=2ahUKEwib3Mab7eSWAxVzhVYBHXRdI24Q1QJ6BAhrEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Whiteland+Community+High+School+Calendar"
+  },
+  {
+   "block_position": 1,
+   "query": "Whiteland Community High School reviews",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuloAKkDOzp50KHOqs4n-xcxeHBIA:1789072174598&q=Whiteland+Community+High+School+reviews&sa=X&ved=2ahUKEwib3Mab7eSWAxVzhVYBHXRdI24Q1QJ6BAhqEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Whiteland+Community+High+School+reviews"
+  },
+  {
+   "block_position": 1,
+   "query": "Whiteland school calendar 25 26",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuloAKkDOzp50KHOqs4n-xcxeHBIA:1789072174598&q=Whiteland+school+calendar+25+26&sa=X&ved=2ahUKEwib3Mab7eSWAxVzhVYBHXRdI24Q1QJ6BAhsEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Whiteland+school+calendar+25+26"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Whiteland+Community+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuloAKkDOzp50KHOqs4n-xcxeHBIA:1789072174598&ei=LhOjapuNJPOK2roP9LqN8QY&start=10&sa=N&sstk=AS6-VmKFx7qMUhtYfNHTc_neJslc3joVdm47KiMy_cP3dcF3bY1jytaAFvjnELcu_c05kgpQgj4qtTizz-iy8sMfBbrSm6tJRm0fGQ&ved=2ahUKEwib3Mab7eSWAxVzhVYBHXRdI24Q8NMDegQIZxAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Whiteland+Community+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuloAKkDOzp50KHOqs4n-xcxeHBIA:1789072174598&ei=LhOjapuNJPOK2roP9LqN8QY&start=10&sa=N&sstk=AS6-VmKFx7qMUhtYfNHTc_neJslc3joVdm47KiMy_cP3dcF3bY1jytaAFvjnELcu_c05kgpQgj4qtTizz-iy8sMfBbrSm6tJRm0fGQ&ved=2ahUKEwib3Mab7eSWAxVzhVYBHXRdI24Q8tMDegQIZxAE",
+   "3": "https://www.google.com/search?q=%22Whiteland+Community+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuloAKkDOzp50KHOqs4n-xcxeHBIA:1789072174598&ei=LhOjapuNJPOK2roP9LqN8QY&start=20&sa=N&sstk=AS6-VmKFx7qMUhtYfNHTc_neJslc3joVdm47KiMy_cP3dcF3bY1jytaAFvjnELcu_c05kgpQgj4qtTizz-iy8sMfBbrSm6tJRm0fGQ&ved=2ahUKEwib3Mab7eSWAxVzhVYBHXRdI24Q8tMDegQIZxAG",
+   "4": "https://www.google.com/search?q=%22Whiteland+Community+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuloAKkDOzp50KHOqs4n-xcxeHBIA:1789072174598&ei=LhOjapuNJPOK2roP9LqN8QY&start=30&sa=N&sstk=AS6-VmKFx7qMUhtYfNHTc_neJslc3joVdm47KiMy_cP3dcF3bY1jytaAFvjnELcu_c05kgpQgj4qtTizz-iy8sMfBbrSm6tJRm0fGQ&ved=2ahUKEwib3Mab7eSWAxVzhVYBHXRdI24Q8tMDegQIZxAI",
+   "5": "https://www.google.com/search?q=%22Whiteland+Community+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuloAKkDOzp50KHOqs4n-xcxeHBIA:1789072174598&ei=LhOjapuNJPOK2roP9LqN8QY&start=40&sa=N&sstk=AS6-VmKFx7qMUhtYfNHTc_neJslc3joVdm47KiMy_cP3dcF3bY1jytaAFvjnELcu_c05kgpQgj4qtTizz-iy8sMfBbrSm6tJRm0fGQ&ved=2ahUKEwib3Mab7eSWAxVzhVYBHXRdI24Q8tMDegQIZxAK",
+   "6": "https://www.google.com/search?q=%22Whiteland+Community+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuloAKkDOzp50KHOqs4n-xcxeHBIA:1789072174598&ei=LhOjapuNJPOK2roP9LqN8QY&start=50&sa=N&sstk=AS6-VmKFx7qMUhtYfNHTc_neJslc3joVdm47KiMy_cP3dcF3bY1jytaAFvjnELcu_c05kgpQgj4qtTizz-iy8sMfBbrSm6tJRm0fGQ&ved=2ahUKEwib3Mab7eSWAxVzhVYBHXRdI24Q8tMDegQIZxAM",
+   "7": "https://www.google.com/search?q=%22Whiteland+Community+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuloAKkDOzp50KHOqs4n-xcxeHBIA:1789072174598&ei=LhOjapuNJPOK2roP9LqN8QY&start=60&sa=N&sstk=AS6-VmKFx7qMUhtYfNHTc_neJslc3joVdm47KiMy_cP3dcF3bY1jytaAFvjnELcu_c05kgpQgj4qtTizz-iy8sMfBbrSm6tJRm0fGQ&ved=2ahUKEwib3Mab7eSWAxVzhVYBHXRdI24Q8tMDegQIZxAO",
+   "8": "https://www.google.com/search?q=%22Whiteland+Community+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuloAKkDOzp50KHOqs4n-xcxeHBIA:1789072174598&ei=LhOjapuNJPOK2roP9LqN8QY&start=70&sa=N&sstk=AS6-VmKFx7qMUhtYfNHTc_neJslc3joVdm47KiMy_cP3dcF3bY1jytaAFvjnELcu_c05kgpQgj4qtTizz-iy8sMfBbrSm6tJRm0fGQ&ved=2ahUKEwib3Mab7eSWAxVzhVYBHXRdI24Q8tMDegQIZxAQ",
+   "9": "https://www.google.com/search?q=%22Whiteland+Community+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuloAKkDOzp50KHOqs4n-xcxeHBIA:1789072174598&ei=LhOjapuNJPOK2roP9LqN8QY&start=80&sa=N&sstk=AS6-VmKFx7qMUhtYfNHTc_neJslc3joVdm47KiMy_cP3dcF3bY1jytaAFvjnELcu_c05kgpQgj4qtTizz-iy8sMfBbrSm6tJRm0fGQ&ved=2ahUKEwib3Mab7eSWAxVzhVYBHXRdI24Q8tMDegQIZxAS",
+   "10": "https://www.google.com/search?q=%22Whiteland+Community+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuloAKkDOzp50KHOqs4n-xcxeHBIA:1789072174598&ei=LhOjapuNJPOK2roP9LqN8QY&start=90&sa=N&sstk=AS6-VmKFx7qMUhtYfNHTc_neJslc3joVdm47KiMy_cP3dcF3bY1jytaAFvjnELcu_c05kgpQgj4qtTizz-iy8sMfBbrSm6tJRm0fGQ&ved=2ahUKEwib3Mab7eSWAxVzhVYBHXRdI24Q8tMDegQIZxAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Whiteland+Community+High+School%22+Indiana&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Whiteland+Community+High+School%22+Indiana&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Whiteland+Community+High+School%22+Indiana&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Whiteland+Community+High+School%22+Indiana&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Whiteland+Community+High+School%22+Indiana&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Whiteland+Community+High+School%22+Indiana&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Whiteland+Community+High+School%22+Indiana&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Whiteland+Community+High+School%22+Indiana&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Whiteland+Community+High+School%22+Indiana&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Whiteland+Community+High+School%22+Indiana&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Whiteland+Community+High+School%22+Indiana&start=90"
+  }
+ }
+}

@@ -1,0 +1,476 @@
+{
+ "search_information": {
+  "query_displayed": "\"Northview High School\"",
+  "total_results": 288000,
+  "time_taken_displayed": 0.22,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "local_map": {
+  "image": "https://www.google.com/maps/vt/data=ERrhp2FOmiwGQG6nh4LD4QgNSnGlmwVIYKckhaTeb57JRT1srNqcyU4wFj1-gWP9gzuFjUxqKEUlbACArPD1D_1qF7hsqnxtq57dAl3-_YI6eWv_kL7LoyFKL3Bg0fzXAR-1verjnGoaMe3YHuxM7ezxJWBn4xFDVmhTJVMV0CIEjogUnSGVqAQWYT16SQlzbGqfasWZ3-I2J5aolsi-pudi1bhw_iFxmtqurGsaEGjWVzGXx-jI0LmVQD4bxhIsAAx-KM0IZ_6nmF6kvSCQnZyvqdo615J2t97c1WKf1Sed5pCbP9bS5wEqY9g3uOlUr_8RCkG9ny6vSOpxXHUk36WGw_ABloR24XlJ4l9erHB8t-p0xbqC6ZNBas9e1K_HXRw8o0rH4B3CcQoJaue4x9j58SFfQ1EsvwmHHHuZnta5UCkP-cMPSmeMv3X2RIJG8cHr5JhOgyMFugc3oyQSfeWKteLQipXI2ZcsBUFHdGdW4CrD0DolP1XFqnf_tbEUsUaLdYsCfXMoMPxeMibPnz-BxTh-mCGPNy6czCzKCK_k2sr8Cfhi_o6dotA2bgyjZtLAxI4I9K00rc99i2mKIrFd4IcyzIq_vjgDbiKh459cvAnW_4_T2nVoM1dg28Lfx0O88qkA2yB34XeoA8RKuIgGp4MW3FfYgnrmqPowCylDnrZNqE8B3kduG_v4orSklv88NH5QXIu2J_ZTy_fFQwpvUJNODGoXvA22p3VZUh6PBgRDdblwcBVEbhkVtxOnXgs27nXwANZQlie0KzXi11tUl1PpH7WNYa5RAbKLJ1BbjvmNRukfSe690CjGzQGY0k9dq9ZnTDtf4y9Q5P1RU2jfSl1d",
+  "gps_coordinates": {
+   "latitude": 38.20365531807149,
+   "longitude": -101.07421875
+  }
+ },
+ "local_results": {
+  "places": [
+   {
+    "position": 1,
+    "links": {
+     "website": "https://northview.fultonschools.org/",
+     "directions": "https://www.google.com/maps/dir//Northview+High+School,+10625+Parsons+Rd,+Johns+Creek,+GA+30097/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88f598ca194f5405:0x8df396174f3e8f33?sa=X&ved=2ahUKEwj67Z-U6uSWAxV0xTgGHYKdKfEQ48ADegQIKhAA&hl=en&gl=us"
+    },
+    "place_id": "10228684205546442547",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=10228684205546442547&q=%22Northview+High+School%22",
+    "provider_id": "/m/0984q0",
+    "gps_coordinates": {
+     "latitude": 34.039113,
+     "longitude": -84.17774
+    },
+    "title": "Northview High School",
+    "reviews_original": "No reviews",
+    "type": "High school",
+    "phone": "(470) 254-3828",
+    "address": "Johns Creek, GA",
+    "hours": "Closed \u00b7 Opens 8 AM Fri"
+   },
+   {
+    "position": 2,
+    "links": {
+     "website": "https://www.c-vusd.org/domain/23",
+     "directions": "https://www.google.com/maps/dir//Northview+High+School,+1016+Cypress+St,+Covina,+CA+91722/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80c3281732b20e81:0xdbbff83a5ede9f3b?sa=X&ved=2ahUKEwj67Z-U6uSWAxV0xTgGHYKdKfEQ48ADegQIJhAA&hl=en&gl=us"
+    },
+    "place_id": "15834647744441392955",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=15834647744441392955&q=%22Northview+High+School%22",
+    "provider_id": "/m/04gsz5s",
+    "gps_coordinates": {
+     "latitude": 34.094682,
+     "longitude": -117.909948
+    },
+    "title": "Northview High School",
+    "reviews_original": "No reviews",
+    "type": "High school",
+    "phone": "(626) 974-6120",
+    "address": "Covina, CA",
+    "hours": "Open \u00b7 Closes 4 PM"
+   },
+   {
+    "position": 3,
+    "links": {
+     "website": "https://nvps.net/high-school/",
+     "directions": "https://www.google.com/maps/dir//Northview+High+School,+4451+Hunsberger+Ave+NE,+Grand+Rapids,+MI+49525/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8819ab2323317635:0x5332f8e8c0b78dc0?sa=X&ved=2ahUKEwj67Z-U6uSWAxV0xTgGHYKdKfEQ48ADegQIJRAA&hl=en&gl=us"
+    },
+    "place_id": "5995127732532907456",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=5995127732532907456&q=%22Northview+High+School%22",
+    "provider_id": "/m/02wyvwj",
+    "gps_coordinates": {
+     "latitude": 43.04347,
+     "longitude": -85.62487
+    },
+    "title": "Northview High School",
+    "reviews_original": "No reviews",
+    "type": "High school",
+    "phone": "(616) 363-4857",
+    "address": "Grand Rapids, MI",
+    "hours": "Closed \u00b7 Opens 9 AM Fri"
+   }
+  ],
+  "more_locations_link": "https://www.google.com/search?q=%22Northview+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&udm=1&lsack=-Q-jarqNO_SK4-EPgrumiQ8&sa=X&ved=2ahUKEwj67Z-U6uSWAxV0xTgGHYKdKfEQjGp6BAhGEAA"
+ },
+ "related_questions": [
+  {
+   "question": "What happened to Northview High School in Dothan, Alabama?",
+   "type": "ai_overview",
+   "page_token": "_uSw3nicHZBNbqMwGEA1l-myMRDSSaRoNBQsSiEZDP6M2VTgBNxg_hoah-7mCnOGnqqnmaiLt3uLp_f3U712zdePf3KahvNmsdBa39d9X6vjvejbRXGeO7EQhVJlIZrN6mFl_KrE1rsI5_FNODEdBnAJSjqsEosbiYKqBNIIBXPpk2WBAj9VFBU4YITimwtX3uT6yIRJrZ0OYZcndDJutJyiZchsnbjEFWySSecsdz4eC0MBb4M5YkjT028jhHUYZcQHXJvkEVlHehjTzuHABj-i9hg3h-fkVOuymfKIrrPI1HaUBRgAqsIlfunKPWfYLpS87lk-io5eo06agLAjPDyHFD_dGt_BIH_i5uccs6f50OZebsmV-JCBJ8VEE2PkWXBNm3VF0RmFFOLcCoySKbJ3-teYkg9xUi1tuX30CUpd6OIM_NT07NQCTlx5EWxtZmYwHPRdJS5b6-779falaqfN8NbX_wHqI4v6",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=_uSw3nicHZBNbqMwGEA1l-myMRDSSaRoNBQsSiEZDP6M2VTgBNxg_hoah-7mCnOGnqqnmaiLt3uLp_f3U712zdePf3KahvNmsdBa39d9X6vjvejbRXGeO7EQhVJlIZrN6mFl_KrE1rsI5_FNODEdBnAJSjqsEosbiYKqBNIIBXPpk2WBAj9VFBU4YITimwtX3uT6yIRJrZ0OYZcndDJutJyiZchsnbjEFWySSecsdz4eC0MBb4M5YkjT028jhHUYZcQHXJvkEVlHehjTzuHABj-i9hg3h-fkVOuymfKIrrPI1HaUBRgAqsIlfunKPWfYLpS87lk-io5eo06agLAjPDyHFD_dGt_BIH_i5uccs6f50OZebsmV-JCBJ8VEE2PkWXBNm3VF0RmFFOLcCoySKbJ3-teYkg9xUi1tuX30CUpd6OIM_NT07NQCTlx5EWxtZmYwHPRdJS5b6-779falaqfN8NbX_wHqI4v6",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZIQktjbEJmYzBod1JVVjVXRFZMU1hkT1NHOW9ObGgxVjNRNVFUSkJRbVoxWDFkT05HODVNbmRwUjFOeWExazVRV2RLU1Y5dVZreEJPRXc0TlZSak5GRjNWamd3VFY5aExXZGZWa3B2YjBWdmIwRTRXbEJpTjJoelp4SVhMVkV0YW1GeWNVNVBYMU5MTkMxRlVHZHlkVzFwVVRnYUlrRkVjM0k1WmxGS1IwZE5PVGhrWWtvMU9VOWlTV2RCZGxaSlJVVndlR3R2UVVFIiwiZmN2IjoiMyIsImVpIjoiLVEtamFycU5PX1NLNC1FUGdydW1pUTgiLCJxYyI6IkNoVnViM0owYUhacFpYY2dhR2xuYUNCelkyaHZiMndRQUgzYVNrSV8iLCJxdWVzdGlvbiI6IldoYXQgaGFwcGVuZWQgdG8gTm9ydGh2aWV3IEhpZ2ggU2Nob29sIGluIERvdGhhbiwgQWxhYmFtYT8iLCJsayI6ImN3WEJ3UTJBTUF3RHdEMTRlUXpXTVRTcUk1V2tncWhkbjd2ajNHSkJuTlBDR2lvUi1aYVcyNGE4QzktdHpBRVB0Q3d4d01HTEQzOCIsImJzIjoiYzMyUHZRdkNNQkJIY2Mza25PbFVwQW91MWtXNmxFS2hUaTVGM0lUVGhseXdKcVVKMWpfZmZ0QU9wWFJfN19mdTJJOEZkMElIaEVVaHRNakFHYmlhMHRGWGlRb3VTaEtrTHpJbUI2VWhObzVRSHlESzhZa2ZEUDJBbjZ1eHJRZWJHdHNPZHRiYWdKM01IdXpVbHBXZERub1dTdFJ2cFdVako4S1VVdFZKajItbkN6MHNPNUlsYk5Ydk94S3dPWTd2U2FMUVgzT29aaUdKN01aMjgwTnBfVldzaERTaHYtZmVfSjZ0MmF4aGw0c18iLCJpZCI6ImZjXy1RLWphcnFOT19TSzQtRVBncnVtaVE4XzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZIQktjbEJmYzBod1JVVjVXRFZMU1hkT1NHOW9ObGgxVjNRNVFUSkJRbVoxWDFkT05HODVNbmRwUjFOeWExazVRV2RLU1Y5dVZreEJPRXc0TlZSak5GRjNWamd3VFY5aExXZGZWa3B2YjBWdmIwRTRXbEJpTjJoelp4SVhMVkV0YW1GeWNVNVBYMU5MTkMxRlVHZHlkVzFwVVRnYUlrRkVjM0k1WmxGS1IwZE5PVGhrWWtvMU9VOWlTV2RCZGxaSlJVVndlR3R2UVVFIiwiZmN2IjoiMyIsImVpIjoiLVEtamFycU5PX1NLNC1FUGdydW1pUTgiLCJxYyI6IkNoVnViM0owYUhacFpYY2dhR2xuYUNCelkyaHZiMndRQUgzYVNrSV8iLCJxdWVzdGlvbiI6IldoYXQgaGFwcGVuZWQgdG8gTm9ydGh2aWV3IEhpZ2ggU2Nob29sIGluIERvdGhhbiwgQWxhYmFtYT8iLCJsayI6ImN3WEJ3UTJBTUF3RHdEMTRlUXpXTVRTcUk1V2tncWhkbjd2ajNHSkJuTlBDR2lvUi1aYVcyNGE4QzktdHpBRVB0Q3d4d01HTEQzOCIsImJzIjoiYzMyUHZRdkNNQkJIY2Mza25PbFVwQW91MWtXNmxFS2hUaTVGM0lUVGhseXdKcVVKMWpfZmZ0QU9wWFJfN19mdTJJOEZkMElIaEVVaHRNakFHYmlhMHRGWGlRb3VTaEtrTHpJbUI2VWhObzVRSHlESzhZa2ZEUDJBbjZ1eHJRZWJHdHNPZHRiYWdKM01IdXpVbHBXZERub1dTdFJ2cFdVako4S1VVdFZKajItbkN6MHNPNUlsYk5Ydk94S3dPWTd2U2FMUVgzT29aaUdKN01aMjgwTnBfVldzaERTaHYtZmVfSjZ0MmF4aGw0c18iLCJpZCI6ImZjXy1RLWphcnFOT19TSzQtRVBncnVtaVE4XzUifQ%3D%3D"
+  },
+  {
+   "question": "What is Northview High School's ranking in Georgia?",
+   "type": "ai_overview",
+   "page_token": "V5savHicHZBLbqMwAEDVy3TZGJN2lEhRJSZ8ZAUoxh_wZgR2iAM20AaFlN1cYc7QU_U0jWbxpLd6i_f3y5z77vvhn56m8bJdreZ5fjoNw8kcn-RgV9Xls5crWRlTV7Lbvvx6cV4bufOv0vv9Ib2MjiPbY0AiocneVDW96bszGop1CTa6cITBLV1EL2blz2scBraACGbmjjt6SRhoTtBMLaaqQx6JTF_yW5T46i3OAUioMBVUaV0knBI95y5K762zipIlCYSW5DTFkWkFyBxmpwOzmzFeGD7azTuG-iy6KWXUiMwpHdzqto4UpHtxqYMEpYH8JMZcY9IBAVEuoFoIEw23SCj4HIjFO3Bu2qNF65qpCPflpMLn1tdyornzXhboRrpNQ8EFHCjLhIucmhucesM5o3iRrbGUJDz3VcPAmHBr4jwKQl5gF8O1k8FpxlxrNT828rpzH_-_3v1p7LQdP4bTD9IsjWk",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=V5savHicHZBLbqMwAEDVy3TZGJN2lEhRJSZ8ZAUoxh_wZgR2iAM20AaFlN1cYc7QU_U0jWbxpLd6i_f3y5z77vvhn56m8bJdreZ5fjoNw8kcn-RgV9Xls5crWRlTV7Lbvvx6cV4bufOv0vv9Ib2MjiPbY0AiocneVDW96bszGop1CTa6cITBLV1EL2blz2scBraACGbmjjt6SRhoTtBMLaaqQx6JTF_yW5T46i3OAUioMBVUaV0knBI95y5K762zipIlCYSW5DTFkWkFyBxmpwOzmzFeGD7azTuG-iy6KWXUiMwpHdzqto4UpHtxqYMEpYH8JMZcY9IBAVEuoFoIEw23SCj4HIjFO3Bu2qNF65qpCPflpMLn1tdyornzXhboRrpNQ8EFHCjLhIucmhucesM5o3iRrbGUJDz3VcPAmHBr4jwKQl5gF8O1k8FpxlxrNT828rpzH_-_3v1p7LQdP4bTD9IsjWk",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZIQktjbEJmYzBod1JVVjVXRFZMU1hkT1NHOW9ObGgxVjNRNVFUSkJRbVoxWDFkT05HODVNbmRwUjFOeWExazVRV2RLU1Y5dVZreEJPRXc0TlZSak5GRjNWamd3VFY5aExXZGZWa3B2YjBWdmIwRTRXbEJpTjJoelp4SVhMVkV0YW1GeWNVNVBYMU5MTkMxRlVHZHlkVzFwVVRnYUlrRkVjM0k1WmxGS1IwZE5PVGhrWWtvMU9VOWlTV2RCZGxaSlJVVndlR3R2UVVFIiwiZmN2IjoiMyIsImVpIjoiLVEtamFycU5PX1NLNC1FUGdydW1pUTgiLCJxYyI6IkNoVnViM0owYUhacFpYY2dhR2xuYUNCelkyaHZiMndRQUgzYVNrSV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgTm9ydGh2aWV3IEhpZ2ggU2Nob29sJ3MgcmFua2luZyBpbiBHZW9yZ2lhPyIsImxrIjoiR2lWdWIzSjBhSFpwWlhjZ2FHbG5hQ0J6WTJodmIyd2djbUZ1YTJsdVp5Qm5aVzl5WjJsaCIsImJzIjoiYzMyUHZRdkNNQkJIY2Mza25PbFVwQW91MWtXNmxFS2hUaTVGM0lUVGhseXdKcVVKMWpfZmZ0QU9wWFJfN19mdTJJOEZkMElIaEVVaHRNakFHYmlhMHRGWGlRb3VTaEtrTHpJbUI2VWhObzVRSHlESzhZa2ZEUDJBbjZ1eHJRZWJHdHNPZHRiYWdKM01IdXpVbHBXZERub1dTdFJ2cFdVako4S1VVdFZKajItbkN6MHNPNUlsYk5Ydk94S3dPWTd2U2FMUVgzT29aaUdKN01aMjgwTnBfVldzaERTaHYtZmVfSjZ0MmF4aGw0c18iLCJpZCI6ImZjXy1RLWphcnFOT19TSzQtRVBncnVtaVE4XzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZIQktjbEJmYzBod1JVVjVXRFZMU1hkT1NHOW9ObGgxVjNRNVFUSkJRbVoxWDFkT05HODVNbmRwUjFOeWExazVRV2RLU1Y5dVZreEJPRXc0TlZSak5GRjNWamd3VFY5aExXZGZWa3B2YjBWdmIwRTRXbEJpTjJoelp4SVhMVkV0YW1GeWNVNVBYMU5MTkMxRlVHZHlkVzFwVVRnYUlrRkVjM0k1WmxGS1IwZE5PVGhrWWtvMU9VOWlTV2RCZGxaSlJVVndlR3R2UVVFIiwiZmN2IjoiMyIsImVpIjoiLVEtamFycU5PX1NLNC1FUGdydW1pUTgiLCJxYyI6IkNoVnViM0owYUhacFpYY2dhR2xuYUNCelkyaHZiMndRQUgzYVNrSV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgTm9ydGh2aWV3IEhpZ2ggU2Nob29sJ3MgcmFua2luZyBpbiBHZW9yZ2lhPyIsImxrIjoiR2lWdWIzSjBhSFpwWlhjZ2FHbG5hQ0J6WTJodmIyd2djbUZ1YTJsdVp5Qm5aVzl5WjJsaCIsImJzIjoiYzMyUHZRdkNNQkJIY2Mza25PbFVwQW91MWtXNmxFS2hUaTVGM0lUVGhseXdKcVVKMWpfZmZ0QU9wWFJfN19mdTJJOEZkMElIaEVVaHRNakFHYmlhMHRGWGlRb3VTaEtrTHpJbUI2VWhObzVRSHlESzhZa2ZEUDJBbjZ1eHJRZWJHdHNPZHRiYWdKM01IdXpVbHBXZERub1dTdFJ2cFdVako4S1VVdFZKajItbkN6MHNPNUlsYk5Ydk94S3dPWTd2U2FMUVgzT29aaUdKN01aMjgwTnBfVldzaERTaHYtZmVfSjZ0MmF4aGw0c18iLCJpZCI6ImZjXy1RLWphcnFOT19TSzQtRVBncnVtaVE4XzUifQ%3D%3D"
+  },
+  {
+   "question": "What is the #1 high school in GA?",
+   "type": "ai_overview",
+   "page_token": "fXIbU3icHdDBboIwAADQ7Gc8KgXDoolZBghIBNJCC_ayQAGRFqjKBLntX_ZV-5otO7_b-_oWl47_vDzqYZD37Wo1juPy3PdnUS5Z366y-7NjK5YJkWeMb_VXHbxVbLf_PBjm9WBALCWxkBI1cPRd2pSN0eEmAFkERJJSHdsFCVRg-i2cTxjFuV3rgZBuwOsROWCdafWjTNiMGuQhhxq08XymCjPiwakQeI5SGf0ZxTYFzAQTjetrjocQz-_rzGITimkXAakmDgnDlBA_FsExLRLIuVq40s9tpBe2YWEOHB_ANVLZCPmkxtoJ-ERw1sKhtNGduPYcKOhR8o2aa4Gxr9mAI3A9pd4U802FlbtyxARSzQN5IlBo9BeI0cwa0WKF7lFbuJlm3AoVuIjUFmqKZwrwyITdl63MMFxU7LHTFv-fu4-qHbby1p9_ARXBgwA",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=fXIbU3icHdDBboIwAADQ7Gc8KgXDoolZBghIBNJCC_ayQAGRFqjKBLntX_ZV-5otO7_b-_oWl47_vDzqYZD37Wo1juPy3PdnUS5Z366y-7NjK5YJkWeMb_VXHbxVbLf_PBjm9WBALCWxkBI1cPRd2pSN0eEmAFkERJJSHdsFCVRg-i2cTxjFuV3rgZBuwOsROWCdafWjTNiMGuQhhxq08XymCjPiwakQeI5SGf0ZxTYFzAQTjetrjocQz-_rzGITimkXAakmDgnDlBA_FsExLRLIuVq40s9tpBe2YWEOHB_ANVLZCPmkxtoJ-ERw1sKhtNGduPYcKOhR8o2aa4Gxr9mAI3A9pd4U802FlbtyxARSzQN5IlBo9BeI0cwa0WKF7lFbuJlm3AoVuIjUFmqKZwrwyITdl63MMFxU7LHTFv-fu4-qHbby1p9_ARXBgwA",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZIQktjbEJmYzBod1JVVjVXRFZMU1hkT1NHOW9ObGgxVjNRNVFUSkJRbVoxWDFkT05HODVNbmRwUjFOeWExazVRV2RLU1Y5dVZreEJPRXc0TlZSak5GRjNWamd3VFY5aExXZGZWa3B2YjBWdmIwRTRXbEJpTjJoelp4SVhMVkV0YW1GeWNVNVBYMU5MTkMxRlVHZHlkVzFwVVRnYUlrRkVjM0k1WmxGS1IwZE5PVGhrWWtvMU9VOWlTV2RCZGxaSlJVVndlR3R2UVVFIiwiZmN2IjoiMyIsImVpIjoiLVEtamFycU5PX1NLNC1FUGdydW1pUTgiLCJxYyI6IkNoVnViM0owYUhacFpYY2dhR2xuYUNCelkyaHZiMndRQUgzYVNrSV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlICMxIGhpZ2ggc2Nob29sIGluIEdBPyIsImxrIjoiR2lCM2FHRjBJR2x6SUhSb1pTQWpNU0JvYVdkb0lITmphRzl2YkNCcGJpQm5ZUSIsImJzIjoiYzMyUHZRdkNNQkJIY2Mza25PbFVwQW91MWtXNmxFS2hUaTVGM0lUVGhseXdKcVVKMWpfZmZ0QU9wWFJfN19mdTJJOEZkMElIaEVVaHRNakFHYmlhMHRGWGlRb3VTaEtrTHpJbUI2VWhObzVRSHlESzhZa2ZEUDJBbjZ1eHJRZWJHdHNPZHRiYWdKM01IdXpVbHBXZERub1dTdFJ2cFdVako4S1VVdFZKajItbkN6MHNPNUlsYk5Ydk94S3dPWTd2U2FMUVgzT29aaUdKN01aMjgwTnBfVldzaERTaHYtZmVfSjZ0MmF4aGw0c18iLCJpZCI6ImZjXy1RLWphcnFOT19TSzQtRVBncnVtaVE4XzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZIQktjbEJmYzBod1JVVjVXRFZMU1hkT1NHOW9ObGgxVjNRNVFUSkJRbVoxWDFkT05HODVNbmRwUjFOeWExazVRV2RLU1Y5dVZreEJPRXc0TlZSak5GRjNWamd3VFY5aExXZGZWa3B2YjBWdmIwRTRXbEJpTjJoelp4SVhMVkV0YW1GeWNVNVBYMU5MTkMxRlVHZHlkVzFwVVRnYUlrRkVjM0k1WmxGS1IwZE5PVGhrWWtvMU9VOWlTV2RCZGxaSlJVVndlR3R2UVVFIiwiZmN2IjoiMyIsImVpIjoiLVEtamFycU5PX1NLNC1FUGdydW1pUTgiLCJxYyI6IkNoVnViM0owYUhacFpYY2dhR2xuYUNCelkyaHZiMndRQUgzYVNrSV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlICMxIGhpZ2ggc2Nob29sIGluIEdBPyIsImxrIjoiR2lCM2FHRjBJR2x6SUhSb1pTQWpNU0JvYVdkb0lITmphRzl2YkNCcGJpQm5ZUSIsImJzIjoiYzMyUHZRdkNNQkJIY2Mza25PbFVwQW91MWtXNmxFS2hUaTVGM0lUVGhseXdKcVVKMWpfZmZ0QU9wWFJfN19mdTJJOEZkMElIaEVVaHRNakFHYmlhMHRGWGlRb3VTaEtrTHpJbUI2VWhObzVRSHlESzhZa2ZEUDJBbjZ1eHJRZWJHdHNPZHRiYWdKM01IdXpVbHBXZERub1dTdFJ2cFdVako4S1VVdFZKajItbkN6MHNPNUlsYk5Ydk94S3dPWTd2U2FMUVgzT29aaUdKN01aMjgwTnBfVldzaERTaHYtZmVfSjZ0MmF4aGw0c18iLCJpZCI6ImZjXy1RLWphcnFOT19TSzQtRVBncnVtaVE4XzUifQ%3D%3D"
+  },
+  {
+   "question": "What is the #1 high school in San Diego?",
+   "type": "ai_overview",
+   "page_token": "Er6RhnicHdBdbpswAABg7TJ5bPhJmBIpmuKBnTJwYoPNz8sE9giNTXAKLQlvu0tP1dNU6neE7_-Hfrmqzx_v7TiaYbtcTtP0dO77s_73JPpuWQ2Pq1iKSuu6Emrr_fTsX43YBW_P4PftGRBmDPeplQb3ovb5a53JslDtnPllGx9aJ-5GW6LBjbl2GGyPIsCnooNQukalgYy4NjdurR8CbYaiw4nkMC1VeGJ87xQXjtIAX4RjmirfTwzhlZxbwpCOKdKeZHiIODhkOrQwhydihyuSh2_C1klyhZhka4-i-x-Sca_yJYtS4DE06hqCK-EbkHGxyp0NEAcQxLNa05lDjjROAgOCVowssW9FHt5TtWmYNVgR46R0Q7vOND2C_oUwOouL7limLKloyxE9ljN8SDcENDfR0VdjYtl5MmOvnBaNeN-5i-_P3d-mG7fmtT9_AYu0gcs",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Er6RhnicHdBdbpswAABg7TJ5bPhJmBIpmuKBnTJwYoPNz8sE9giNTXAKLQlvu0tP1dNU6neE7_-Hfrmqzx_v7TiaYbtcTtP0dO77s_73JPpuWQ2Pq1iKSuu6Emrr_fTsX43YBW_P4PftGRBmDPeplQb3ovb5a53JslDtnPllGx9aJ-5GW6LBjbl2GGyPIsCnooNQukalgYy4NjdurR8CbYaiw4nkMC1VeGJ87xQXjtIAX4RjmirfTwzhlZxbwpCOKdKeZHiIODhkOrQwhydihyuSh2_C1klyhZhka4-i-x-Sca_yJYtS4DE06hqCK-EbkHGxyp0NEAcQxLNa05lDjjROAgOCVowssW9FHt5TtWmYNVgR46R0Q7vOND2C_oUwOouL7limLKloyxE9ljN8SDcENDfR0VdjYtl5MmOvnBaNeN-5i-_P3d-mG7fmtT9_AYu0gcs",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZIQktjbEJmYzBod1JVVjVXRFZMU1hkT1NHOW9ObGgxVjNRNVFUSkJRbVoxWDFkT05HODVNbmRwUjFOeWExazVRV2RLU1Y5dVZreEJPRXc0TlZSak5GRjNWamd3VFY5aExXZGZWa3B2YjBWdmIwRTRXbEJpTjJoelp4SVhMVkV0YW1GeWNVNVBYMU5MTkMxRlVHZHlkVzFwVVRnYUlrRkVjM0k1WmxGS1IwZE5PVGhrWWtvMU9VOWlTV2RCZGxaSlJVVndlR3R2UVVFIiwiZmN2IjoiMyIsImVpIjoiLVEtamFycU5PX1NLNC1FUGdydW1pUTgiLCJxYyI6IkNoVnViM0owYUhacFpYY2dhR2xuYUNCelkyaHZiMndRQUgzYVNrSV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlICMxIGhpZ2ggc2Nob29sIGluIFNhbiBEaWVnbz8iLCJsayI6IkdpZDNhR0YwSUdseklIUm9aU0FqTVNCb2FXZG9JSE5qYUc5dmJDQnBiaUJ6WVc0Z1pHbGxaMjgiLCJicyI6ImMzMlB2UXZDTUJCSGNjM2tuT2xVcEFvdTFrVzZsRUtoVGk1RjNJVFRobHl3SnFVSjFqX2ZmdEFPcFhSXzdfZnUySThGZDBJSGhFVWh0TWpBR2JpYTB0RlhpUW91U2hLa0x6SW1CNlVoTm81UUh5REs4WWtmRFAyQW42dXhyUWViR3RzT2R0YmFnSjNNSHV6VWxwV2REbm9XU3RSdnBXVWpKOEtVVXRWSmoyLW5DejBzTzVJbGJOWHZPeEt3T1k3dlNhTFFYM09vWmlHSjdNWjI4ME5wX1ZXc2hEU2h2LWZlX0o2dDJheGhsNHNfIiwiaWQiOiJmY18tUS1qYXJxTk9fU0s0LUVQZ3J1bWlROF81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZIQktjbEJmYzBod1JVVjVXRFZMU1hkT1NHOW9ObGgxVjNRNVFUSkJRbVoxWDFkT05HODVNbmRwUjFOeWExazVRV2RLU1Y5dVZreEJPRXc0TlZSak5GRjNWamd3VFY5aExXZGZWa3B2YjBWdmIwRTRXbEJpTjJoelp4SVhMVkV0YW1GeWNVNVBYMU5MTkMxRlVHZHlkVzFwVVRnYUlrRkVjM0k1WmxGS1IwZE5PVGhrWWtvMU9VOWlTV2RCZGxaSlJVVndlR3R2UVVFIiwiZmN2IjoiMyIsImVpIjoiLVEtamFycU5PX1NLNC1FUGdydW1pUTgiLCJxYyI6IkNoVnViM0owYUhacFpYY2dhR2xuYUNCelkyaHZiMndRQUgzYVNrSV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlICMxIGhpZ2ggc2Nob29sIGluIFNhbiBEaWVnbz8iLCJsayI6IkdpZDNhR0YwSUdseklIUm9aU0FqTVNCb2FXZG9JSE5qYUc5dmJDQnBiaUJ6WVc0Z1pHbGxaMjgiLCJicyI6ImMzMlB2UXZDTUJCSGNjM2tuT2xVcEFvdTFrVzZsRUtoVGk1RjNJVFRobHl3SnFVSjFqX2ZmdEFPcFhSXzdfZnUySThGZDBJSGhFVWh0TWpBR2JpYTB0RlhpUW91U2hLa0x6SW1CNlVoTm81UUh5REs4WWtmRFAyQW42dXhyUWViR3RzT2R0YmFnSjNNSHV6VWxwV2REbm9XU3RSdnBXVWpKOEtVVXRWSmoyLW5DejBzTzVJbGJOWHZPeEt3T1k3dlNhTFFYM09vWmlHSjdNWjI4ME5wX1ZXc2hEU2h2LWZlX0o2dDJheGhsNHNfIiwiaWQiOiJmY18tUS1qYXJxTk9fU0s0LUVQZ3J1bWlROF81In0%3D"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Northview High School: Home",
+   "link": "https://northview.fultonschools.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXAHrOzAVyK9Ojisxpy44qo7BGLjjKGfYSCo9QrHtL42NhXe2DqmDqz1biqaIOKRAwQjHMHf2ICeiKVPhRD_OiF4nPm10HAClmNddnA79p-6xe11PZeXRaDg7TPkq&ved=2ahUKEwj67Z-U6uSWAxV0xTgGHYKdKfEQFnoECCMQAQ&uoh=1",
+   "displayed_link": "https://northview.fultonschools.org",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAMFBMVEVHcEwAWUEAWUEAWUEAWUEAWUEAWUEAWUEAWUEAWUEAWUEAWUEAWUEAWUEAWUEAWUGl5XYBAAAAEHRSTlMADUJ4lq_ApYlkTjHd_xvv_Fcc5QAAANpJREFUeAG1wQFEQ1EAAMDrF62tzQRAGSCIEAJZBJCACDFIwkgiMBBUjAESmAAYA4QVAWhJbQ3aXwtJLAYQITwYAOrOv5pZ2tw5PL2sC67u46ADMqX4Z3ft5Hij-fANtrf6MFERNKog-SLI5JGinBOMQ5RNPBPcQKT2SFCFKfEiQQU-J2Njc8AFFL5a1ntAuk7jrfg03xVE3aPibRSvJoYCH80Dk3E2nTVitu3MqNLQPpDZg0ycS_aBQZzFdFtKsPAK5QKCQQ9RB4JUC7U8CK4r3u-MOl9e8bd-AeQqQtPe5XxIAAAAAElFTkSuQmCC.png",
+   "snippet": "Woodland MS. Open Menu. Northview High School Logo. Northview High School. Home of the Titans. SAFETY CONCERNS \u00b7 RESET PASSWORD \u00b7 TECH SUPPORT. Open Search.",
+   "snippet_highlighted_words": [
+    "Northview High School",
+    "Northview High School"
+   ],
+   "sitelinks": {
+    "inline": [
+     {
+      "title": "Calendar",
+      "link": "https://northview.fultonschools.org/calendar24"
+     },
+     {
+      "title": "General Information",
+      "link": "https://northview.fultonschools.org/our-school/about-us"
+     },
+     {
+      "title": "The Northview Experience",
+      "link": "https://northview.fultonschools.org/experience"
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Woodland MS. Open Menu. Northview High School Logo. Northview High School. Home of the Titans. SAFETY CONCERNS \u00b7 RESET PASSWORD \u00b7 TECH SUPPORT. Open Search.",
+     "source_info_link": "https://northview.fultonschools.org/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAMFBMVEVHcEwAWUEAWUEAWUEAWUEAWUEAWUEAWUEAWUEAWUEAWUEAWUEAWUEAWUEAWUEAWUGl5XYBAAAAEHRSTlMADUJ4lq_ApYlkTjHd_xvv_Fcc5QAAANpJREFUeAG1wQFEQ1EAAMDrF62tzQRAGSCIEAJZBJCACDFIwkgiMBBUjAESmAAYA4QVAWhJbQ3aXwtJLAYQITwYAOrOv5pZ2tw5PL2sC67u46ADMqX4Z3ft5Hij-fANtrf6MFERNKog-SLI5JGinBOMQ5RNPBPcQKT2SFCFKfEiQQU-J2Njc8AFFL5a1ntAuk7jrfg03xVE3aPibRSvJoYCH80Dk3E2nTVitu3MqNLQPpDZg0ycS_aBQZzFdFtKsPAK5QKCQQ9RB4JUC7U8CK4r3u-MOl9e8bd-AeQqQtPe5XxIAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESXAHrOzAVyK9Ojisxpy44qo7BGLjjKGfYSCo9QrHtL42NhXe2DqmDqz1biqaIOKRAwQjHMHf2ICeiKVPhRD_OiF4nPm10HAClmNddnA79p-6xe11PZeXRaDg7TPkq&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESXAHrOzAVyK9Ojisxpy44qo7BGLjjKGfYSCo9QrHtL42NhXe2DqmDqz1biqaIOKRAwQjHMHf2ICeiKVPhRD_OiF4nPm10HAClmNddnA79p-6xe11PZeXRaDg7TPkq",
+   "source": "Northview High School",
+   "read_more_link": "https://northview.fultonschools.org/#:~:text=Northview%20High%20School,Home%20of%20the%20Titans"
+  },
+  {
+   "position": 2,
+   "title": "Northview High School: Home - Covina",
+   "link": "https://northviewhigh.c-vusd.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWQHrOzAVwmIvy3qrR48e2H3c-1NqMEC_b6reUOqItG4zNhiJZ9DqLpO08gW5d4u4ri6cb2qrm6hmYRxX46d6lt6Kl0s9MAS8euZd95lpXqdDoHMrBmqA2Rw3&ved=2ahUKEwj67Z-U6uSWAxV0xTgGHYKdKfEQFnoECB0QAQ&uoh=1",
+   "displayed_link": "https://northviewhigh.c-vusd.org",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA81BMVEVHcEwPDw9SUUgAAABWUkEAAAAsKyQMCwcAAAAICQgDAwQ4OThtbWcAAAB5clrFx8i4r5BJRz0mJSA8OTAAAAMODQzExL2dkmxucHI_OigWFQ1FQC8dGxmkopkZFw5dX2AAAAA4NCdDQTctLCdPSjmVj3mFgW8AAACcnJxxbF2Tk5NqZEpiZmgBGzNNT0wBAAAdGxU3NzOpoIBBQ0M1MypjZmYnKCdbXl_Pw5rg17hvaVNqbG1GQS93enuHioqLg2eDelxhXEjDuJCglnSSiGSChIPy8ezn4czU1da6tqiVlY-coqOjqqwsLjGTjHDSy7Tk5OTLBtntAAAALXRSTlMAIewv_gScDRg4SGiqWP3-_FrBiWeF_P7-NlCy0dnsx5bU7u6BmbN7w9i61e_eVXLNAAABSElEQVQokaWR526DQBCEMcYYMBj33p2e6Bq9g3tN8v5PkyIRBROiSJm_387O3B5F_V9cLpsVr6rZsFu-LmTCnl0ReYriWemHma5qW637CS3L43wKFuoqDLebfeTvDqV0o_oMwZW1LWutY5pSTQZDe9vSvVOnkbtI5kQfYET2AGvebFwqJqD0tMauqrpAZzQFsAlYpTUbQAQhMgDANT7RtqQYwDgjFUJd7Wj1ZKQwV3SoYN3xHN95fUhs5ZpnreP4x5N32ux2m7v4GwpFjq-KtIuQoQDDcQxPk4dxpsDeDA-ELIkNFUPRFbvsAjF25gfPLxXTMk1CojPAYRj4tPCVx_fxO1tYC9JGajlcy2DAfXtHz2UCiwTBaskwUbRGjYu710bz1ajWuJ22zfZikjo81_xsIT0uK2wKxspP6X4mpAQp2_lh_g3-QW8Jgi5il7P4SAAAAABJRU5ErkJggg.png",
+   "snippet": "Home - Northview High School. ... Northview High School \u00b7 Report an Absence \u00b7 Lunch Menu \u00b7 ParentSquare \u00b7 New Student Enrollment. Open Search. Search. Clear.",
+   "snippet_highlighted_words": [
+    "Northview High School",
+    "Northview High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Home - Northview High School. ... Northview High School \u00b7 Report an Absence \u00b7 Lunch Menu \u00b7 ParentSquare \u00b7 New Student Enrollment. Open Search. Search. Clear.",
+     "source_info_link": "https://northviewhigh.c-vusd.org/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA81BMVEVHcEwPDw9SUUgAAABWUkEAAAAsKyQMCwcAAAAICQgDAwQ4OThtbWcAAAB5clrFx8i4r5BJRz0mJSA8OTAAAAMODQzExL2dkmxucHI_OigWFQ1FQC8dGxmkopkZFw5dX2AAAAA4NCdDQTctLCdPSjmVj3mFgW8AAACcnJxxbF2Tk5NqZEpiZmgBGzNNT0wBAAAdGxU3NzOpoIBBQ0M1MypjZmYnKCdbXl_Pw5rg17hvaVNqbG1GQS93enuHioqLg2eDelxhXEjDuJCglnSSiGSChIPy8ezn4czU1da6tqiVlY-coqOjqqwsLjGTjHDSy7Tk5OTLBtntAAAALXRSTlMAIewv_gScDRg4SGiqWP3-_FrBiWeF_P7-NlCy0dnsx5bU7u6BmbN7w9i61e_eVXLNAAABSElEQVQokaWR526DQBCEMcYYMBj33p2e6Bq9g3tN8v5PkyIRBROiSJm_387O3B5F_V9cLpsVr6rZsFu-LmTCnl0ReYriWemHma5qW637CS3L43wKFuoqDLebfeTvDqV0o_oMwZW1LWutY5pSTQZDe9vSvVOnkbtI5kQfYET2AGvebFwqJqD0tMauqrpAZzQFsAlYpTUbQAQhMgDANT7RtqQYwDgjFUJd7Wj1ZKQwV3SoYN3xHN95fUhs5ZpnreP4x5N32ux2m7v4GwpFjq-KtIuQoQDDcQxPk4dxpsDeDA-ELIkNFUPRFbvsAjF25gfPLxXTMk1CojPAYRj4tPCVx_fxO1tYC9JGajlcy2DAfXtHz2UCiwTBaskwUbRGjYu710bz1ajWuJ22zfZikjo81_xsIT0uK2wKxspP6X4mpAQp2_lh_g3-QW8Jgi5il7P4SAAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESWQHrOzAVwmIvy3qrR48e2H3c-1NqMEC_b6reUOqItG4zNhiJZ9DqLpO08gW5d4u4ri6cb2qrm6hmYRxX46d6lt6Kl0s9MAS8euZd95lpXqdDoHMrBmqA2Rw3&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESWQHrOzAVwmIvy3qrR48e2H3c-1NqMEC_b6reUOqItG4zNhiJZ9DqLpO08gW5d4u4ri6cb2qrm6hmYRxX46d6lt6Kl0s9MAS8euZd95lpXqdDoHMrBmqA2Rw3",
+   "source": "Covina-Valley Unified School District",
+   "read_more_link": "https://northviewhigh.c-vusd.org/#:~:text=Northview%20High%20School"
+  },
+  {
+   "position": 3,
+   "title": "Northview High School",
+   "link": "https://www.sylvaniaschools.org/northviewhighschool_home.aspx",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAVGKAv7xjW4bH7VFhBY4Hmxrl1wWnljtLZ9SEGFlGpJt_18Z4CK4A2ptHUa6jzx9deVSEGfLap4oKefHtZHGJP5ES99HpwXhlwKkgVtV5r1TOrwCZUVfP80OfwoNUw3kXQT2-Vxj66_exNNZH3alNhpg&ved=2ahUKEwj67Z-U6uSWAxV0xTgGHYKdKfEQFnoECB8QAQ&uoh=1",
+   "displayed_link": "https://www.sylvaniaschools.org \u203a northviewhighschool...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAzFBMVEX______PP_8Lf_-eP_3Vj_7K__9dT_1TP_2U7_-un_8sj_zgb_zQDt-f72_P7_7bm56PqM0_aS2_f_5pT_7KGg4fluy_VOvfIAtPBEwfPS7_z_32nd9f0Ar-8ArvEAqe74zRO92a1kz_kArO_nzCfax06rwnFbuaMAsN8AqvUAru-T0-VKtbKo3fgArvIUufG56vogqte5roL_6tKunXH3jwD7ypr8kwD3kxj4nzT98OEAreb3lB37xo6lnHn3um38___5sWD3mi_9582r57x_AAABIklEQVR4AXXPha6DQBRFUai3SF2Bmb66u-D6___0Lg1hJOFEKiv7BoR8YqksFK5cqRZjrd5oFmJLktlUUcn3tizXRSKdbo-g2JcleZDJcDSeTGckbGqyJEnwRe9NJwbCY8qEcl2S5vO_xQTjJUJL6GhcrTfb3X6JDjBEmzLrHE-7PQZJtyQ3lc55ND3gC0hmk9z00eSwXB7IltdOflLtjGmCDoxMGVHlBYzd7YoyQ_fHkzWIpyiz1_sj8Fssfzfvr69p2TzCXTDn9XXdt8djGiLHB3NNl0t1DGacg7cLewcsDvEBoXMofN5mqk3ueaBLv9gRnH1HDE6XRi_8fRM_lmnGCWXhJLVsSWCaAYUzyuD0x6XTIW1pHAUieROVQBaTtGD_JD4vWOws3A0AAAAASUVORK5CYII.png",
+   "snippet": "Northview High School. 5403 Silica Dr. Sylvania, Ohio 43560. Phone: 419-824-8570. Our Sylvania Schools \u00b7 Website ...",
+   "snippet_highlighted_words": [
+    "Northview High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Northview High School. 5403 Silica Dr. Sylvania, Ohio 43560. Phone: 419-824-8570. Our Sylvania Schools \u00b7 Website ...",
+     "source_info_link": "https://www.sylvaniaschools.org/northviewhighschool_home.aspx",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAzFBMVEX______PP_8Lf_-eP_3Vj_7K__9dT_1TP_2U7_-un_8sj_zgb_zQDt-f72_P7_7bm56PqM0_aS2_f_5pT_7KGg4fluy_VOvfIAtPBEwfPS7_z_32nd9f0Ar-8ArvEAqe74zRO92a1kz_kArO_nzCfax06rwnFbuaMAsN8AqvUAru-T0-VKtbKo3fgArvIUufG56vogqte5roL_6tKunXH3jwD7ypr8kwD3kxj4nzT98OEAreb3lB37xo6lnHn3um38___5sWD3mi_9582r57x_AAABIklEQVR4AXXPha6DQBRFUai3SF2Bmb66u-D6___0Lg1hJOFEKiv7BoR8YqksFK5cqRZjrd5oFmJLktlUUcn3tizXRSKdbo-g2JcleZDJcDSeTGckbGqyJEnwRe9NJwbCY8qEcl2S5vO_xQTjJUJL6GhcrTfb3X6JDjBEmzLrHE-7PQZJtyQ3lc55ND3gC0hmk9z00eSwXB7IltdOflLtjGmCDoxMGVHlBYzd7YoyQ_fHkzWIpyiz1_sj8Fssfzfvr69p2TzCXTDn9XXdt8djGiLHB3NNl0t1DGacg7cLewcsDvEBoXMofN5mqk3ueaBLv9gRnH1HDE6XRi_8fRM_lmnGCWXhJLVsSWCaAYUzyuD0x6XTIW1pHAUieROVQBaTtGD_JD4vWOws3A0AAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdQHrOzAVGKAv7xjW4bH7VFhBY4Hmxrl1wWnljtLZ9SEGFlGpJt_18Z4CK4A2ptHUa6jzx9deVSEGfLap4oKefHtZHGJP5ES99HpwXhlwKkgVtV5r1TOrwCZUVfP80OfwoNUw3kXQT2-Vxj66_exNNZH3alNhpg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdQHrOzAVGKAv7xjW4bH7VFhBY4Hmxrl1wWnljtLZ9SEGFlGpJt_18Z4CK4A2ptHUa6jzx9deVSEGfLap4oKefHtZHGJP5ES99HpwXhlwKkgVtV5r1TOrwCZUVfP80OfwoNUw3kXQT2-Vxj66_exNNZH3alNhpg",
+   "source": "Sylvania Schools",
+   "read_more_link": "https://www.sylvaniaschools.org/northviewhighschool_home.aspx#:~:text=Northview%20High%20School,Statement%20Title%20IX%20Sylvania%20Intranet"
+  },
+  {
+   "position": 4,
+   "title": "Northview High School in Duluth, GA - US News",
+   "link": "https://www.usnews.com/education/best-high-schools/georgia/districts/fulton-county-schools/northview-high-school-5920",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrQEB6zswFQqqhCSvzHsQ-hfho6xJT68UCIlZt_elVtsJIZnh3JSJzEydya8X3ka6h7t-pLLvWmmpmdscZn8n1MPuBanH-yI1HFpt0HQBc-pLElqSFdAT8FNiSPkWnz9o_H2eh73H8yY4mn0U5hPjUMMLAhhQ8Omb2NRS_q8iaZXlq9Y4o5ItyEJbWfVsMVyBPClmZEgt9kMWysNI8Hk7LRE6mOQJIhQ0Hr3DAYPmAg&ved=2ahUKEwj67Z-U6uSWAxV0xTgGHYKdKfEQFnoECCEQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a ... \u203a Fulton County Schools",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png",
+   "snippet": "Northview High School is ranked #318 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+   "snippet_highlighted_words": [
+    "Northview High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Northview High School is ranked #318 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/georgia/districts/fulton-county-schools/northview-high-school-5920",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESrQEB6zswFQqqhCSvzHsQ-hfho6xJT68UCIlZt_elVtsJIZnh3JSJzEydya8X3ka6h7t-pLLvWmmpmdscZn8n1MPuBanH-yI1HFpt0HQBc-pLElqSFdAT8FNiSPkWnz9o_H2eh73H8yY4mn0U5hPjUMMLAhhQ8Omb2NRS_q8iaZXlq9Y4o5ItyEJbWfVsMVyBPClmZEgt9kMWysNI8Hk7LRE6mOQJIhQ0Hr3DAYPmAg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESrQEB6zswFQqqhCSvzHsQ-hfho6xJT68UCIlZt_elVtsJIZnh3JSJzEydya8X3ka6h7t-pLLvWmmpmdscZn8n1MPuBanH-yI1HFpt0HQBc-pLElqSFdAT8FNiSPkWnz9o_H2eh73H8yY4mn0U5hPjUMMLAhhQ8Omb2NRS_q8iaZXlq9Y4o5ItyEJbWfVsMVyBPClmZEgt9kMWysNI8Hk7LRE6mOQJIhQ0Hr3DAYPmAg",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/georgia/districts/fulton-county-schools/northview-high-school-5920#:~:text=Northview%20High%20School%20is%20ranked,they%20prepare%20students%20for%20college."
+  },
+  {
+   "position": 5,
+   "title": "Northview High School (Michigan)",
+   "link": "https://en.wikipedia.org/wiki/Northview_High_School_(Michigan)",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHrOzAVUvNX-vpn3a-C8Crsi7drOXQPOJaJrbT9N2GmqhDZDB9BX_ynqRYLql59-7P8Tv4yqySAQjjWr1Zua5uaHYMmKRaiLk_FDbd72yr1Qhpw3e_ylSwoxVxWyIcnULcIjN4w38Zot3GgC9w_JVZi1Q3RbTI&ved=2ahUKEwj67Z-U6uSWAxV0xTgGHYKdKfEQFnoECB4QAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Northview_High_Scho...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+   "snippet": "Northview High School is located in Plainfield Township, Kent County, Michigan, a Northeastern suburb of Grand Rapids, Michigan.",
+   "snippet_highlighted_words": [
+    "Northview High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Northview High School is located in Plainfield Township, Kent County, Michigan, a Northeastern suburb of Grand Rapids, Michigan.",
+     "source_info_link": "https://en.wikipedia.org/wiki/Northview_High_School_(Michigan)",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdgHrOzAVUvNX-vpn3a-C8Crsi7drOXQPOJaJrbT9N2GmqhDZDB9BX_ynqRYLql59-7P8Tv4yqySAQjjWr1Zua5uaHYMmKRaiLk_FDbd72yr1Qhpw3e_ylSwoxVxWyIcnULcIjN4w38Zot3GgC9w_JVZi1Q3RbTI&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdgHrOzAVUvNX-vpn3a-C8Crsi7drOXQPOJaJrbT9N2GmqhDZDB9BX_ynqRYLql59-7P8Tv4yqySAQjjWr1Zua5uaHYMmKRaiLk_FDbd72yr1Qhpw3e_ylSwoxVxWyIcnULcIjN4w38Zot3GgC9w_JVZi1Q3RbTI",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Northview_High_School_(Michigan)#:~:text=Northview%20High%20School%20is%20located,suburb%20of%20Grand%20Rapids%2C%20Michigan."
+  },
+  {
+   "position": 6,
+   "title": "Northview High School: Home",
+   "link": "https://northview.ssdmo.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVAHrOzAVl0VJ0T-gwd_l_WBXAhLXbHAd8RR5hv7JCnEY1oX7WK2ZfWckO8SGk_roy2RvTb3cju7vuRcDQs5Oz3FlYSF0CDWBsvwIdrGc3aTMt2Kwdg&ved=2ahUKEwj67Z-U6uSWAxV0xTgGHYKdKfEQFnoECCAQAQ&uoh=1",
+   "displayed_link": "https://northview.ssdmo.org",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAeFBMVEUBktEFlNIAjc8Aj9AAi847qtu13_Hf8fmg1u4Rl9Moodeq2u-_4_NauOHz-v3J6PX____U7ffm9PpQtN-Ayejw-PwAis5yw-ZmvuMmm9QAg8rD6fnt8fOzxc9OeZG-y9Tg4uQqW3g1ZYFchJoAOVwAMlYBPV8EP2Gbsk9BAAAAlUlEQVR4AWIgDAAsTIUBwzAMcym8RGVm-v_DlcwgybvCu8pV38H3gzC4Igx8PwxDoohxIdVVIs0M-wVkrYOJ4ZBYcAtGYGGUwvnqLtKAYiSZp5FnCi4oUlBQ8muqOBI4ug-ibhiYagTgwpuCvEXX2dYC9hLtaRinfl6uMvTj2K8b7ft2-R2PHXSex3l-5e50_IcKMAUAOAYRk_h7A2kAAAAASUVORK5CYII.png",
+   "snippet": "Northview High School is dedicated to serving a diverse community and promoting achievement and independence for all. We provide special education services to ...",
+   "snippet_highlighted_words": [
+    "Northview High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Northview High School is dedicated to serving a diverse community and promoting achievement and independence for all. We provide special education services to ...",
+     "source_info_link": "https://northview.ssdmo.org/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAeFBMVEUBktEFlNIAjc8Aj9AAi847qtu13_Hf8fmg1u4Rl9Moodeq2u-_4_NauOHz-v3J6PX____U7ffm9PpQtN-Ayejw-PwAis5yw-ZmvuMmm9QAg8rD6fnt8fOzxc9OeZG-y9Tg4uQqW3g1ZYFchJoAOVwAMlYBPV8EP2Gbsk9BAAAAlUlEQVR4AWIgDAAsTIUBwzAMcym8RGVm-v_DlcwgybvCu8pV38H3gzC4Igx8PwxDoohxIdVVIs0M-wVkrYOJ4ZBYcAtGYGGUwvnqLtKAYiSZp5FnCi4oUlBQ8muqOBI4ug-ibhiYagTgwpuCvEXX2dYC9hLtaRinfl6uMvTj2K8b7ft2-R2PHXSex3l-5e50_IcKMAUAOAYRk_h7A2kAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESVAHrOzAVl0VJ0T-gwd_l_WBXAhLXbHAd8RR5hv7JCnEY1oX7WK2ZfWckO8SGk_roy2RvTb3cju7vuRcDQs5Oz3FlYSF0CDWBsvwIdrGc3aTMt2Kwdg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESVAHrOzAVl0VJ0T-gwd_l_WBXAhLXbHAd8RR5hv7JCnEY1oX7WK2ZfWckO8SGk_roy2RvTb3cju7vuRcDQs5Oz3FlYSF0CDWBsvwIdrGc3aTMt2Kwdg",
+   "source": "Special School District Of St Louis County",
+   "read_more_link": "https://northview.ssdmo.org/#:~:text=Northview%20High%20School%20is%20dedicated,provide%20special%20education%20services%20to"
+  },
+  {
+   "position": 7,
+   "title": "Northview High School (@northviewchiefspage)",
+   "link": "https://www.facebook.com/northviewchiefspage/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZQHrOzAVB-3ka6R095VoZxUX0s3WW_DWMkX_PgUueSFvCaJVFVB0zQaalqR-_iJH2EI-6O2pmkUzJiCl6MoN8zR94KSAecZ6Rj_kEYEye2kS838LUJ3kZXUq5Moyw1arbXHars6A&ved=2ahUKEwj67Z-U6uSWAxV0xTgGHYKdKfEQFnoECFgQAQ&uoh=1",
+   "displayed_link": "3K+ followers",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "snippet": "The official Facebook page of Northview High School 4100 West Highway 4 Bratt, FL 32535 Tel: (850) 761-6000 Fax: (850) 327-6106. High School.",
+   "snippet_highlighted_words": [
+    "Northview High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The official Facebook page of Northview High School 4100 West Highway 4 Bratt, FL 32535 Tel: (850) 761-6000 Fax: (850) 327-6106. High School.",
+     "source_info_link": "https://www.facebook.com/northviewchiefspage/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESZQHrOzAVB-3ka6R095VoZxUX0s3WW_DWMkX_PgUueSFvCaJVFVB0zQaalqR-_iJH2EI-6O2pmkUzJiCl6MoN8zR94KSAecZ6Rj_kEYEye2kS838LUJ3kZXUq5Moyw1arbXHars6A&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESZQHrOzAVB-3ka6R095VoZxUX0s3WW_DWMkX_PgUueSFvCaJVFVB0zQaalqR-_iJH2EI-6O2pmkUzJiCl6MoN8zR94KSAecZ6Rj_kEYEye2kS838LUJ3kZXUq5Moyw1arbXHars6A",
+   "source": "Facebook \u00b7 Northview High School",
+   "read_more_link": "https://www.facebook.com/northviewchiefspage/#:~:text=The%20official%20Facebook%20page%20of,%F3%B1%9E%B4%20High%20School"
+  },
+  {
+   "position": 8,
+   "title": "Northview High School: Home - Grand Rapids",
+   "link": "https://high-school.nvps.net/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVQHrOzAV_DdVYoPgenaed3Rdlh_wxRCsOqXhyQi5lxK6o2TUf55Yvn3rW121ZRBjtKRxL2U7AQvtuAkBSWFSkPsUZD2UtXgszu4Q053wOT3_nAIoWZ8&ved=2ahUKEwj67Z-U6uSWAxV0xTgGHYKdKfEQFnoECFUQAQ&uoh=1",
+   "displayed_link": "https://high-school.nvps.net",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA4VBMVEX____65efztLv2yM353ODztr30vcP99fbeHjfhMUjlWWjxp6_hNkvlUmTbAAbdCCreGTPeGzXumaHdEzDdACPsh5PgKkDlSV_51drZmaLUkZrciJPkoarjrLPy6uv29_f6-vqmq6tbYF-lo6RmbGwAAAAzLzF7eXnV1dXZcn21o6WamJm1tLRLSUkfGxwiHh8VEBGmg4cnLS1mZGWFg4SQjo7FdHxbS006QEBmW11KWFaii47WeITlwcXg39-VbnM3SUi4lpruanpZVlc6NzfKvsDkQlW2eoDMW2jodYHcABudSCW_AAABT0lEQVR4Ac3RBWLCMABA0eBQV9whTWpphrv7_Q-0UCRH2H69r17wJyWScSkA0pl4LZvjmM0XnglpIErxmpzgmFRUTdc13QCGqbIsiSG_rF3U83mzVE5XqtWaXW80W23O2YLOVDVAp9vr97sQOgi3OGqSrhddz0ctEIQkIjQMOJqCYAo_AzgcYTx2SBT1A8xRLlvSZEpINOt2ZxBSNEZB-4MlIFjuHC6Wk1VlvQlwMEYjv_3FVGm72wuHhj8Pw_B4jJzjsPXFnDdaSY0-pJQQeuphRBE_s3V25f2ARixCNgA0EQb8TFv-GbC3YEhHgIVbHMXLdcbkxCb4fsnvq6SLtzmkMPQow96X2rkMw4y9Ho9Go_19CAk54dbm_ZbFYj6fLwqJNrgXi8UVciIaOe-TMw9T0zT1-RdTRVO950CvjzrgVeoeZ-fYun2_iznwf_sFeDYutGkqVOUAAAAASUVORK5CYII.png",
+   "snippet": "Welcome to Northview High School ; School Hours. Monday - Friday, 7:25 AM - 2:30 PM, with the exception of Wednesday mornings where school starts at 8:25 AM.",
+   "snippet_highlighted_words": [
+    "Northview High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Welcome to Northview High School ; School Hours. Monday - Friday, 7:25 AM - 2:30 PM, with the exception of Wednesday mornings where school starts at 8:25 AM.",
+     "source_info_link": "https://high-school.nvps.net/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA4VBMVEX____65efztLv2yM353ODztr30vcP99fbeHjfhMUjlWWjxp6_hNkvlUmTbAAbdCCreGTPeGzXumaHdEzDdACPsh5PgKkDlSV_51drZmaLUkZrciJPkoarjrLPy6uv29_f6-vqmq6tbYF-lo6RmbGwAAAAzLzF7eXnV1dXZcn21o6WamJm1tLRLSUkfGxwiHh8VEBGmg4cnLS1mZGWFg4SQjo7FdHxbS006QEBmW11KWFaii47WeITlwcXg39-VbnM3SUi4lpruanpZVlc6NzfKvsDkQlW2eoDMW2jodYHcABudSCW_AAABT0lEQVR4Ac3RBWLCMABA0eBQV9whTWpphrv7_Q-0UCRH2H69r17wJyWScSkA0pl4LZvjmM0XnglpIErxmpzgmFRUTdc13QCGqbIsiSG_rF3U83mzVE5XqtWaXW80W23O2YLOVDVAp9vr97sQOgi3OGqSrhddz0ctEIQkIjQMOJqCYAo_AzgcYTx2SBT1A8xRLlvSZEpINOt2ZxBSNEZB-4MlIFjuHC6Wk1VlvQlwMEYjv_3FVGm72wuHhj8Pw_B4jJzjsPXFnDdaSY0-pJQQeuphRBE_s3V25f2ARixCNgA0EQb8TFv-GbC3YEhHgIVbHMXLdcbkxCb4fsnvq6SLtzmkMPQow96X2rkMw4y9Ho9Go_19CAk54dbm_ZbFYj6fLwqJNrgXi8UVciIaOe-TMw9T0zT1-RdTRVO950CvjzrgVeoeZ-fYun2_iznwf_sFeDYutGkqVOUAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESVQHrOzAV_DdVYoPgenaed3Rdlh_wxRCsOqXhyQi5lxK6o2TUf55Yvn3rW121ZRBjtKRxL2U7AQvtuAkBSWFSkPsUZD2UtXgszu4Q053wOT3_nAIoWZ8&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESVQHrOzAV_DdVYoPgenaed3Rdlh_wxRCsOqXhyQi5lxK6o2TUf55Yvn3rW121ZRBjtKRxL2U7AQvtuAkBSWFSkPsUZD2UtXgszu4Q053wOT3_nAIoWZ8",
+   "source": "Northview Public Schools",
+   "read_more_link": "https://high-school.nvps.net/#:~:text=Welcome%20to%20Northview%20High%20School&text=School%20Hours,school%20starts%20at%208%3A25%20AM."
+  },
+  {
+   "position": 9,
+   "title": "Northview High School Employees, Location, Alumni",
+   "link": "https://www.linkedin.com/school/northview-hs/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZQHrOzAVJh3hzxBVcO7GJNkM954KE9-IPiE443LyWj5F5TG11WtSbVothuWB4W5vz7jZ4T37TGIkZDUpCxqzh1NvpWS8cl6JcFMsiK4d014NvsBDUML31kv_HCdYbc5eoKgsMgJZ&ved=2ahUKEwj67Z-U6uSWAxV0xTgGHYKdKfEQFnoECFkQAQ&uoh=1",
+   "displayed_link": "1.4K+ followers",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAm0lEQVR4AWP4__8_RRhMyLfs3sNQvOk_KRikB24ATNB2yhEQJtoQuAEwzVAAYtPVAMJe4Cjf8l-0bsd_RkIGQAGc_ej9t_-TDt_7_-vPXzD_6Yfv_-2nHSXWAAT49P33_z9__4HZl559JM2Aqm3XwXyXGcfA_H___pFmgFj9DjCfp3IrTIgkA5ADbbAbQA6mKDPp9x7YBTOAIgwAVba5DGceMlQAAAAASUVORK5CYII.png",
+   "snippet": "Northview High School opened in the Fall of 2002 to serve students residing in northeast Fulton County . A rigorous, well-rounded academic program that ...",
+   "snippet_highlighted_words": [
+    "Northview High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Northview High School opened in the Fall of 2002 to serve students residing in northeast Fulton County . A rigorous, well-rounded academic program that ...",
+     "source_info_link": "https://www.linkedin.com/school/northview-hs/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAm0lEQVR4AWP4__8_RRhMyLfs3sNQvOk_KRikB24ATNB2yhEQJtoQuAEwzVAAYtPVAMJe4Cjf8l-0bsd_RkIGQAGc_ej9t_-TDt_7_-vPXzD_6Yfv_-2nHSXWAAT49P33_z9__4HZl559JM2Aqm3XwXyXGcfA_H___pFmgFj9DjCfp3IrTIgkA5ADbbAbQA6mKDPp9x7YBTOAIgwAVba5DGceMlQAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESZQHrOzAVJh3hzxBVcO7GJNkM954KE9-IPiE443LyWj5F5TG11WtSbVothuWB4W5vz7jZ4T37TGIkZDUpCxqzh1NvpWS8cl6JcFMsiK4d014NvsBDUML31kv_HCdYbc5eoKgsMgJZ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESZQHrOzAVJh3hzxBVcO7GJNkM954KE9-IPiE443LyWj5F5TG11WtSbVothuWB4W5vz7jZ4T37TGIkZDUpCxqzh1NvpWS8cl6JcFMsiK4d014NvsBDUML31kv_HCdYbc5eoKgsMgJZ",
+   "source": "LinkedIn \u00b7 Northview High School",
+   "read_more_link": "https://www.linkedin.com/school/northview-hs/#:~:text=Northview%20High%20School%20opened%20in,for%20further%20study%20after%20graduation."
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Northview High School MI",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Northview+High+School+MI&sa=X&ved=2ahUKEwj67Z-U6uSWAxV0xTgGHYKdKfEQ1QJ6BAhNEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Northview+High+School+MI"
+  },
+  {
+   "block_position": 1,
+   "query": "Northview high school football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Northview+high+school+football&sa=X&ved=2ahUKEwj67Z-U6uSWAxV0xTgGHYKdKfEQ1QJ6BAhTEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Northview+high+school+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Northview high School GA",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Northview+high+School+GA&sa=X&ved=2ahUKEwj67Z-U6uSWAxV0xTgGHYKdKfEQ1QJ6BAhUEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Northview+high+School+GA"
+  },
+  {
+   "block_position": 1,
+   "query": "Northview high school sylvania",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Northview+high+school+sylvania&sa=X&ved=2ahUKEwj67Z-U6uSWAxV0xTgGHYKdKfEQ1QJ6BAhSEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Northview+high+school+sylvania"
+  },
+  {
+   "block_position": 1,
+   "query": "Northview High School logo",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Northview+High+School+logo&sa=X&ved=2ahUKEwj67Z-U6uSWAxV0xTgGHYKdKfEQ1QJ6BAhREAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Northview+High+School+logo"
+  },
+  {
+   "block_position": 1,
+   "query": "Northview High School address",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Northview+High+School+address&sa=X&ved=2ahUKEwj67Z-U6uSWAxV0xTgGHYKdKfEQ1QJ6BAhQEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Northview+High+School+address"
+  },
+  {
+   "block_position": 1,
+   "query": "Northview high school ranking",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Northview+high+school+ranking&sa=X&ved=2ahUKEwj67Z-U6uSWAxV0xTgGHYKdKfEQ1QJ6BAhPEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Northview+high+school+ranking"
+  },
+  {
+   "block_position": 1,
+   "query": "Northview High school Covina",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Northview+High+school+Covina&sa=X&ved=2ahUKEwj67Z-U6uSWAxV0xTgGHYKdKfEQ1QJ6BAhOEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Northview+High+school+Covina"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Northview+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=-Q-jarqNO_SK4-EPgrumiQ8&start=10&sa=N&sstk=AS6-VmLc9Yk-Ui6U9FMoQlxz6-Ud88b2l722NTMjiL65JZB_Vdevt4yNYDeo8-ORPU-Kdk-A6jF71xwG-Po81B3w4ClVVMvftVw0Ww&ved=2ahUKEwj67Z-U6uSWAxV0xTgGHYKdKfEQ8NMDegQIRxAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Northview+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=-Q-jarqNO_SK4-EPgrumiQ8&start=10&sa=N&sstk=AS6-VmLc9Yk-Ui6U9FMoQlxz6-Ud88b2l722NTMjiL65JZB_Vdevt4yNYDeo8-ORPU-Kdk-A6jF71xwG-Po81B3w4ClVVMvftVw0Ww&ved=2ahUKEwj67Z-U6uSWAxV0xTgGHYKdKfEQ8tMDegQIRxAE",
+   "3": "https://www.google.com/search?q=%22Northview+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=-Q-jarqNO_SK4-EPgrumiQ8&start=20&sa=N&sstk=AS6-VmLc9Yk-Ui6U9FMoQlxz6-Ud88b2l722NTMjiL65JZB_Vdevt4yNYDeo8-ORPU-Kdk-A6jF71xwG-Po81B3w4ClVVMvftVw0Ww&ved=2ahUKEwj67Z-U6uSWAxV0xTgGHYKdKfEQ8tMDegQIRxAG",
+   "4": "https://www.google.com/search?q=%22Northview+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=-Q-jarqNO_SK4-EPgrumiQ8&start=30&sa=N&sstk=AS6-VmLc9Yk-Ui6U9FMoQlxz6-Ud88b2l722NTMjiL65JZB_Vdevt4yNYDeo8-ORPU-Kdk-A6jF71xwG-Po81B3w4ClVVMvftVw0Ww&ved=2ahUKEwj67Z-U6uSWAxV0xTgGHYKdKfEQ8tMDegQIRxAI",
+   "5": "https://www.google.com/search?q=%22Northview+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=-Q-jarqNO_SK4-EPgrumiQ8&start=40&sa=N&sstk=AS6-VmLc9Yk-Ui6U9FMoQlxz6-Ud88b2l722NTMjiL65JZB_Vdevt4yNYDeo8-ORPU-Kdk-A6jF71xwG-Po81B3w4ClVVMvftVw0Ww&ved=2ahUKEwj67Z-U6uSWAxV0xTgGHYKdKfEQ8tMDegQIRxAK",
+   "6": "https://www.google.com/search?q=%22Northview+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=-Q-jarqNO_SK4-EPgrumiQ8&start=50&sa=N&sstk=AS6-VmLc9Yk-Ui6U9FMoQlxz6-Ud88b2l722NTMjiL65JZB_Vdevt4yNYDeo8-ORPU-Kdk-A6jF71xwG-Po81B3w4ClVVMvftVw0Ww&ved=2ahUKEwj67Z-U6uSWAxV0xTgGHYKdKfEQ8tMDegQIRxAM",
+   "7": "https://www.google.com/search?q=%22Northview+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=-Q-jarqNO_SK4-EPgrumiQ8&start=60&sa=N&sstk=AS6-VmLc9Yk-Ui6U9FMoQlxz6-Ud88b2l722NTMjiL65JZB_Vdevt4yNYDeo8-ORPU-Kdk-A6jF71xwG-Po81B3w4ClVVMvftVw0Ww&ved=2ahUKEwj67Z-U6uSWAxV0xTgGHYKdKfEQ8tMDegQIRxAO",
+   "8": "https://www.google.com/search?q=%22Northview+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=-Q-jarqNO_SK4-EPgrumiQ8&start=70&sa=N&sstk=AS6-VmLc9Yk-Ui6U9FMoQlxz6-Ud88b2l722NTMjiL65JZB_Vdevt4yNYDeo8-ORPU-Kdk-A6jF71xwG-Po81B3w4ClVVMvftVw0Ww&ved=2ahUKEwj67Z-U6uSWAxV0xTgGHYKdKfEQ8tMDegQIRxAQ",
+   "9": "https://www.google.com/search?q=%22Northview+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=-Q-jarqNO_SK4-EPgrumiQ8&start=80&sa=N&sstk=AS6-VmLc9Yk-Ui6U9FMoQlxz6-Ud88b2l722NTMjiL65JZB_Vdevt4yNYDeo8-ORPU-Kdk-A6jF71xwG-Po81B3w4ClVVMvftVw0Ww&ved=2ahUKEwj67Z-U6uSWAxV0xTgGHYKdKfEQ8tMDegQIRxAS",
+   "10": "https://www.google.com/search?q=%22Northview+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=-Q-jarqNO_SK4-EPgrumiQ8&start=90&sa=N&sstk=AS6-VmLc9Yk-Ui6U9FMoQlxz6-Ud88b2l722NTMjiL65JZB_Vdevt4yNYDeo8-ORPU-Kdk-A6jF71xwG-Po81B3w4ClVVMvftVw0Ww&ved=2ahUKEwj67Z-U6uSWAxV0xTgGHYKdKfEQ8tMDegQIRxAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Northview+High+School%22&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Northview+High+School%22&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Northview+High+School%22&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Northview+High+School%22&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Northview+High+School%22&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Northview+High+School%22&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Northview+High+School%22&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Northview+High+School%22&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Northview+High+School%22&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Northview+High+School%22&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Northview+High+School%22&start=90"
+  }
+ }
+}

@@ -1,0 +1,480 @@
+{
+ "search_information": {
+  "query_displayed": "\"Legacy High School\" Colorado",
+  "total_results": 75500,
+  "time_taken_displayed": 0.24,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Legacy High School",
+  "type": "High school in Broomfield, Colorado",
+  "entity_type": "local_nav",
+  "kgmid": "/m/0ggbbgd",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/0ggbbgd&hl=en-US&q=Legacy+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F0ggbbgd&q=Legacy+High+School",
+  "place_id": "ChIJf2axV2V1bIcRIdSMo2_KHf8",
+  "website": "http://legacy.adams12.org/",
+  "description": "Legacy High School is a high school located in Broomfield, Colorado that opened in 2000. It is within the Adams 12 Five Star Schools District. As of the 2025\u20132026 school year, the school had an enrollment of 2,048 students.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa30f2ca28971cd17bdf3ae/images/YgXMK-z-GQVgSr2OS00NnIacCbFMcSJgLc3WOEvRkoo.webp",
+   "link": "https://www.google.com/maps/place/Legacy+High+School/data=!4m2!3m1!1s0x0:0xff1dca6fa38cd421?sa=X&ved=2ahUKEwjcxZW66eSWAxV3p1YBHeegHp8Q_BJ6BAgOEAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Legacy_High_School_(Colorado)"
+  },
+  "address": "2701 W 136th Ave, Broomfield, CO 80023",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=legacy+high+school+colorado+address&ludocid=18383071834830328865&sa=X&ved=2ahUKEwjcxZW66eSWAxV3p1YBHeegHp8Q6BN6BAggEAI"
+   }
+  ],
+  "founded": "2000",
+  "colors": "Navy Blue, Gold",
+  "colors_links": [
+   {
+    "text": "Navy Blue",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yYUh8av1bdeo-5wogQ727vQgLlpsZmjKW2H6UCstXgr4iuHoTx-45vW414MJxOBwvxUqhG-sJXK4-fUS_AbVQNc2wCVr6yVcyesYlZroQAQ5ejWJE0fhYYk3YF602fouf-rH5whNWF4d15pfeqQL1MnmqGPmO47b_7ItnKTbSTL3wvF4mpBAdf7cKlRM4YUwIWZDgMQ%3D&sa=X&ved=2ahUKEwjcxZW66eSWAxV3p1YBHeegHp8QmxN6BAgnEAI"
+   },
+   {
+    "text": "Gold",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yVTSUpKThlWoIKPxeFqYth2SIDLoP0njeJsXuUgA4WpFcAj4tEVuG9lPguI1JDvLthYiSPRWbU-YI5CoptsUtkzm7thvcrLpVKUaYSinY60sfun4BsYjytd1s8XjrCZYzQowyg7avoLRVskuzeo0MicOkJcAaafGpAGzCOtjGGwXUn6ksrsCaAz2cj5rsJLRvK4HJLU%3D&sa=X&ved=2ahUKEwjcxZW66eSWAxV3p1YBHeegHp8QmxN6BAgnEAM"
+   }
+  ],
+  "school_types": "Secondary school, High school, State school",
+  "school_types_links": [
+   {
+    "text": "Secondary school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Secondary+school&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67-Rsa99rK7fwEET42kD4ZCjF8QRrSgNUVBuomcnHhCbBYOAtzIHniilZ6q-VIW5zaAD4pksrKiK2fS6FxsBThjIPEi-5kk0kleX3bugH-5OAqkXkp68eLPoPGji5WDR2dwg9WwPC9KNFPoumbC04tX0j3amw5qR2mmP2Pce1B-SUtHSZWMjfS-ktiq9uyRhLbuwxvZxe0kDxF80wFzggnoyh6AfFfhKCKKs8mls7wt8eMfdtB-anKbK_IQf8FIIxvITIEHs%3D&sa=X&ved=2ahUKEwjcxZW66eSWAxV3p1YBHeegHp8QmxN6BAgoEAI"
+   },
+   {
+    "text": "High school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=High+school&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMppXfNh-OkLk_azmU0uk1AX8sk8s1-2uDG13xvljBKYj-62BC653CUwqsnPBoRGsmoAhp8N1FFUjPXYR75tXwHhUXWv8UBnIL4TF0z5QyYwumqj8SKV-XIu1itYveLShsOenE6hQ14qeQaEd06cyimn7Loyie8o-ZOuG0hhCVtzBX69y0umAtmpDDIYEORwTcLdbhP2TxyB69Pd3S-69o6DrhEir6TuD-7Q4lD2B1T1tdJv1RC9CayYxVI5Tg4b5rro1CVWE%3D&sa=X&ved=2ahUKEwjcxZW66eSWAxV3p1YBHeegHp8QmxN6BAgoEAM"
+   },
+   {
+    "text": "State school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=State+school&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ybGtCxI0H8z2nV80srIO5hizwNtt3Ym6Fi28M6pFzMpba6xCjNFIQKbDb7W_yOsUKzHP6t0BoDIq84DgtktiHBvFqPDhCTDRJvE6JLQvR7EatHuWV16sAk_ojsDxkw3NijEEA8bj1xPkcSnM8e5h9uVcIDiOdcFGS-MdTYxTZRnCTXG3ZSFSGQJzHS_U6gXnkvoMTvhOgaDpRQoWJ7WpKZffYDN_wULwgSAcEubtCqFOtgok0FYs8LoU23AurXXazDvA8Iw%3D&sa=X&ved=2ahUKEwjcxZW66eSWAxV3p1YBHeegHp8QmxN6BAgoEAQ"
+   }
+  ],
+  "lowest_grade": "Ninth Grade",
+  "lowest_grade_links": [
+   {
+    "text": "Ninth Grade",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ycVufaiHeRm9qcUzZ-riFc-9oKSn3gqbysox9tEbgSTfJPpMmU9KGVNEozprDr5Ju-ceXpamjU5_C3hwAhSjDAylRN6p9MyLvhEw6LCpaKVSX7GFerECKgBX82qiHQgPhi9SZn6zUT03J_HJelsl0hrN9a4b&sa=X&ved=2ahUKEwjcxZW66eSWAxV3p1YBHeegHp8QmxN6BAgkEAI"
+   }
+  ],
+  "phone": "(720) 972-6700",
+  "raw_hours": "Open \u00b7 Closes 3 - 45 PM",
+  "hours": {
+   "thursday": {
+    "opens": "7:15\u202fAM",
+    "closes": "3:45\u202fPM"
+   },
+   "friday": {
+    "opens": "7:15\u202fAM",
+    "closes": "3:45\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "7:15\u202fAM",
+    "closes": "3:45\u202fPM"
+   },
+   "tuesday": {
+    "opens": "7:15\u202fAM",
+    "closes": "3:45\u202fPM"
+   },
+   "wednesday": {
+    "opens": "7:15\u202fAM",
+    "closes": "3:45\u202fPM"
+   }
+  },
+  "people_also_search_for": [
+   {
+    "name": "Broomfield High School",
+    "image": "https://serpapi.com/searches/6aa30f2ca28971cd17bdf3ae/images/YgXMK-z-GQVgSr2OS00NnMBxpHz8a51XtJaMo-JG2Qr0EOIrb18ZWQlPzEBVd4Wq.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW672ov6q57Td1hE6c-ZW7uUQBHz40oftfjMlI8i6g0A9RRFqoxNlfwrAdPewosF4BGnst0VCB4b58YCsYeyGF6EtoCNcN3hNwaectVtPEViugem1rX6ihL1Gsv3XLcd4j940DhMa7_kQEnlbaBW87U3jfssA0Rl8TGs1LmVFpJPsMtB511snwr8YDBXau7jPCmH_I4whViR1mCMlzblreARSH_fGpla0G1VHKehiGYb1jH5JVqK9EMoCqLQJK5Dma6mH8UOx98CPiKLLmu71iBvHgWwtGZ&q=Broomfield+High+School&sa=X&ved=2ahUKEwjcxZW66eSWAxV3p1YBHeegHp8Qs9oBKAB6BAgfEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Broomfield+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW672ov6q57Td1hE6c-ZW7uUQBHz40oftfjMlI8i6g0A9RRFqoxNlfwrAdPewosF4BGnst0VCB4b58YCsYeyGF6EtoCNcN3hNwaectVtPEViugem1rX6ihL1Gsv3XLcd4j940DhMa7_kQEnlbaBW87U3jfssA0Rl8TGs1LmVFpJPsMtB511snwr8YDBXau7jPCmH_I4whViR1mCMlzblreARSH_fGpla0G1VHKehiGYb1jH5JVqK9EMoCqLQJK5Dma6mH8UOx98CPiKLLmu71iBvHgWwtGZ"
+   },
+   {
+    "name": "Northglenn High School",
+    "image": "https://serpapi.com/searches/6aa30f2ca28971cd17bdf3ae/images/YgXMK-z-GQVgSr2OS00NnMBxpHz8a51XtJaMo-JG2QpFYrSsOjtbh8yvxjiGbLk_.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW676Z0yIDuAQlAksqW-4h6zrVgMMnyk8gge9Msc7-GJdECGmfMK2Qaaxm2IPRKBmcCaaerAV0i7C1bxFmupZjCSwivFewWdiTnAf5msQK4oNkQOfdlB84pSXupVHhaamr1s9vgfpp7orcupyg9HBSZkYS7XNN3ROhLHvISfs0OdVswsSkdRQIae-QNGWEyz5RfPSwVPLquyZdOCc8mCAZjlr8blEWOXWiuw1W4446MOKdckb2oq7WBDokUy3eji5wQeBQyd-lp5YIDWUmi6w27MSm4jC5d&q=Northglenn+High+School&sa=X&ved=2ahUKEwjcxZW66eSWAxV3p1YBHeegHp8Qs9oBKAB6BAgfEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Northglenn+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW676Z0yIDuAQlAksqW-4h6zrVgMMnyk8gge9Msc7-GJdECGmfMK2Qaaxm2IPRKBmcCaaerAV0i7C1bxFmupZjCSwivFewWdiTnAf5msQK4oNkQOfdlB84pSXupVHhaamr1s9vgfpp7orcupyg9HBSZkYS7XNN3ROhLHvISfs0OdVswsSkdRQIae-QNGWEyz5RfPSwVPLquyZdOCc8mCAZjlr8blEWOXWiuw1W4446MOKdckb2oq7WBDokUy3eji5wQeBQyd-lp5YIDWUmi6w27MSm4jC5d"
+   },
+   {
+    "name": "Fairview High School",
+    "image": "https://serpapi.com/searches/6aa30f2ca28971cd17bdf3ae/images/YgXMK-z-GQVgSr2OS00NnMBxpHz8a51XtJaMo-JG2QoXhsaNE6mXdPw3FCAj-dlJ.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yep6inbPj_dIG6md_-bFXMEFtGelQQtKbgojzHiBWBzD-XlHpulkAfWh0NfyjILz_UKyXCsNPqMqlkRnA_3sHqBDus8tPZ3y43eSNZlCcPU9nK-y2R_TbZaTrU-oa5vJ2akd5_DDBOJzxcqnNu0256KtGY9592QWLGFxZe-WROqjVVtGQ2cTqAtSiPFbtIobmFIJTKHvJQCXY2apRUrS0dWFUxiMxkT40PQz_NpMizx7fBPMGGcqVxBMZfh1gYJKJxn8HFumzFc5sd5DsJ7dQKMo7K4T&q=Fairview+High+School+(Colorado)&sa=X&ved=2ahUKEwjcxZW66eSWAxV3p1YBHeegHp8Qs9oBKAB6BAgfEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Fairview+High+School+%28Colorado%29&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yep6inbPj_dIG6md_-bFXMEFtGelQQtKbgojzHiBWBzD-XlHpulkAfWh0NfyjILz_UKyXCsNPqMqlkRnA_3sHqBDus8tPZ3y43eSNZlCcPU9nK-y2R_TbZaTrU-oa5vJ2akd5_DDBOJzxcqnNu0256KtGY9592QWLGFxZe-WROqjVVtGQ2cTqAtSiPFbtIobmFIJTKHvJQCXY2apRUrS0dWFUxiMxkT40PQz_NpMizx7fBPMGGcqVxBMZfh1gYJKJxn8HFumzFc5sd5DsJ7dQKMo7K4T"
+   },
+   {
+    "name": "Fossil Ridge High School",
+    "image": "https://serpapi.com/searches/6aa30f2ca28971cd17bdf3ae/images/YgXMK-z-GQVgSr2OS00NnMBxpHz8a51XtJaMo-JG2QqIZGJmLFL9-oSPTF-31BxO.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW677QdnmfYue8hmIbz_VnDvs26RDtPu1pOcKRzQbcdesYWHJ7hKBJQg2BLstV-0da-f5i2cWRtza7IJIvCkWnwe_1H5dhgHeBAYf-8YN4JRWo2Gbv3AzFz4AjMTQ7uykhQuQ-YvRyENpkyos9Ws3DUEYJ10TloCBQXVVhhd4TH5xhzjlYGNRNoxAiuBwl7QcLScNRrq03PmNQowAuOI9WrJzoV3ikA05i3LHFE10wozEUI1IVad4nludsBUKZTgVFMp4D_CHGVEUJVD5sXRSMps0OsetkW&q=Fossil+Ridge+High+School&sa=X&ved=2ahUKEwjcxZW66eSWAxV3p1YBHeegHp8Qs9oBKAB6BAgfEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Fossil+Ridge+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW677QdnmfYue8hmIbz_VnDvs26RDtPu1pOcKRzQbcdesYWHJ7hKBJQg2BLstV-0da-f5i2cWRtza7IJIvCkWnwe_1H5dhgHeBAYf-8YN4JRWo2Gbv3AzFz4AjMTQ7uykhQuQ-YvRyENpkyos9Ws3DUEYJ10TloCBQXVVhhd4TH5xhzjlYGNRNoxAiuBwl7QcLScNRrq03PmNQowAuOI9WrJzoV3ikA05i3LHFE10wozEUI1IVad4nludsBUKZTgVFMp4D_CHGVEUJVD5sXRSMps0OsetkW"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Legacy+High+School+(Colorado)&stick=H4sIAAAAAAAAAONgFuLSz9U3SE9PSkpPUUJiawkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axCrrk5qemFyp4JGZnqEQnJyRn5-joOGcn5NflJiSr7mDlfEWmyTDG4eKwFy-ps4l4YaHWLUXbY5ICrZJD_t-HAAtQpj0hQAAAA&sa=X&ved=2ahUKEwjcxZW66eSWAxV3p1YBHeegHp8QzO0BKAR6BAgfEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLSz9U3SE9PSkpPUUJiawkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axCrrk5qemFyp4JGZnqEQnJyRn5-joOGcn5NflJiSr7mDlfEWmyTDG4eKwFy-ps4l4YaHWLUXbY5ICrZJD_t-HAAtQpj0hQAAAA",
+  "profiles": [
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/lhslightning",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Legacy+High+School%22+Colorado",
+    "image": "https://serpapi.com/searches/6aa30f2ca28971cd17bdf3ae/images/YgXMK-z-GQVgSr2OS00NnK3Aup--CiIlSg_LfqGHGLUCif8Hb-QQkdy5bZlsqEez.png"
+   },
+   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/lhslightning/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Legacy+High+School%22+Colorado",
+    "image": "https://serpapi.com/searches/6aa30f2ca28971cd17bdf3ae/images/YgXMK-z-GQVgSr2OS00NnL380xpaN__nxcQ-EFyZjNqhHNzTp0DTSfqloUWOcV2Y.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "What is Legacy High School ranked in Colorado?",
+   "type": "ai_overview",
+   "page_token": "SBS_qHicHdBdbpswAABg7TJ9bDC03RYpmsawoVliZINN4pfJNiEkNuAkLPy87Qo7Q0_V06zaDT59f97sqTXvn_7Wfe9uy8ViGIbHY9cd7eFRd81C3qZWL7S0Vkltli-fX8C3Sq_gXYc_rjokzDkeUS8Ljr6IkDu0bpPCsZYA74T3BBQERY66IeN2ygIa7_yx3eSozePRp-x1Iuf9yGM40xhIlZSWgv3Mg3KTonXDk27ElpNyxlvVskkWIlcMTuwEKsy5ORh623kjZQGPJC8vZQa20mdDDoi3D-qLip98GlGYx31IkzrlILyTwCHVrlPRUsIRDET0HQhkOY7QJJpy5kWf8sQNhREfrvWzBC7cMjSzRIAP48-C4SusS8IycNnvwueDQZUwXybdfCU4r1_xCYRy7E6E0VmfbcNMTVSMYcromHmUpxHNtjH6rQpe07NIsHGyHB4qfV8FD_-vV7-qpl-6a3f8Bw_gjNg",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=SBS_qHicHdBdbpswAABg7TJ9bDC03RYpmsawoVliZINN4pfJNiEkNuAkLPy87Qo7Q0_V06zaDT59f97sqTXvn_7Wfe9uy8ViGIbHY9cd7eFRd81C3qZWL7S0Vkltli-fX8C3Sq_gXYc_rjokzDkeUS8Ljr6IkDu0bpPCsZYA74T3BBQERY66IeN2ygIa7_yx3eSozePRp-x1Iuf9yGM40xhIlZSWgv3Mg3KTonXDk27ElpNyxlvVskkWIlcMTuwEKsy5ORh623kjZQGPJC8vZQa20mdDDoi3D-qLip98GlGYx31IkzrlILyTwCHVrlPRUsIRDET0HQhkOY7QJJpy5kWf8sQNhREfrvWzBC7cMjSzRIAP48-C4SusS8IycNnvwueDQZUwXybdfCU4r1_xCYRy7E6E0VmfbcNMTVSMYcromHmUpxHNtjH6rQpe07NIsHGyHB4qfV8FD_-vV7-qpl-6a3f8Bw_gjNg",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE5uUmhTRWRFYzAxMlZrOHpXRFUzT0d4bU9ESmZTa3hFUWpKNll6SmxUbXRvVTAxUlMyUnlXa2RPY0ZGQmIwcHphbWRvV1c1WFUxWjFabmRpYTAwM1pIVkxVRk5hYjBaVU1GZHpkbWRzZFZOWVdraFJkSGxwVWs1bFFSSVhVRkV0YW1Gd2VYcEJYMlpQTW5KdlVEVTRTRFl0UVdzYUlrRkVjM0k1WmxGWFVYY3pVVEIzWVhKTExXMUROMkp5UkZwMFQyRnhWMGREWWxFIiwiZmN2IjoiMyIsImVpIjoiUFEtamFweXpBX2ZPMnJvUDU4SDYtQWsiLCJxYyI6IkNodHNaV2RoWTNrZ2FHbG5hQ0J6WTJodmIyd2dZMjlzYjNKaFpHOFFBSDJ5R0RBXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBMZWdhY3kgSGlnaCBTY2hvb2wgcmFua2VkIGluIENvbG9yYWRvPyIsImxrIjoiR2kxM2FHRjBJR2x6SUd4bFoyRmplU0JvYVdkb0lITmphRzl2YkNCeVlXNXJaV1FnYVc0Z1kyOXNiM0poWkc4IiwiYnMiOiJjNVdQdlEtQ01CQkg0OXJKbWVrU0J4Y19vdkZqY0NDUmhjSEV3Y0c1d2trYm9VZmFDdnJmSzBHMEtnN3U5LTc5SHVOc3RCZmNnalN3d1lSSFZ3aGxJbUFYQ2FJVU5GY25qRUVxQ0NnbHpXUHlwMk52V0Q2SXRDWkVSWmhQSW5vUXpGRllnZENiTkVldTZaZmluWEJOcnFKZ3E1Qkt5TGk2Z3JIbkdKVTF3RFhDX1VsTDFsb1RaVWVKYVR5QVlPdFBsOTVjZk9PMnJlX3dSTzkyUm14ZXBmWHJuUmtaQzNqSlVSbFpJT1JhRnR5aXNfZFZ1UEJtNVI5Z0U5cnQzQUEiLCJpZCI6ImZjX1BRLWphcHl6QV9mTzJyb1A1OEg2LUFrXzEifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE5uUmhTRWRFYzAxMlZrOHpXRFUzT0d4bU9ESmZTa3hFUWpKNll6SmxUbXRvVTAxUlMyUnlXa2RPY0ZGQmIwcHphbWRvV1c1WFUxWjFabmRpYTAwM1pIVkxVRk5hYjBaVU1GZHpkbWRzZFZOWVdraFJkSGxwVWs1bFFSSVhVRkV0YW1Gd2VYcEJYMlpQTW5KdlVEVTRTRFl0UVdzYUlrRkVjM0k1WmxGWFVYY3pVVEIzWVhKTExXMUROMkp5UkZwMFQyRnhWMGREWWxFIiwiZmN2IjoiMyIsImVpIjoiUFEtamFweXpBX2ZPMnJvUDU4SDYtQWsiLCJxYyI6IkNodHNaV2RoWTNrZ2FHbG5hQ0J6WTJodmIyd2dZMjlzYjNKaFpHOFFBSDJ5R0RBXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBMZWdhY3kgSGlnaCBTY2hvb2wgcmFua2VkIGluIENvbG9yYWRvPyIsImxrIjoiR2kxM2FHRjBJR2x6SUd4bFoyRmplU0JvYVdkb0lITmphRzl2YkNCeVlXNXJaV1FnYVc0Z1kyOXNiM0poWkc4IiwiYnMiOiJjNVdQdlEtQ01CQkg0OXJKbWVrU0J4Y19vdkZqY0NDUmhjSEV3Y0c1d2trYm9VZmFDdnJmSzBHMEtnN3U5LTc5SHVOc3RCZmNnalN3d1lSSFZ3aGxJbUFYQ2FJVU5GY25qRUVxQ0NnbHpXUHlwMk52V0Q2SXRDWkVSWmhQSW5vUXpGRllnZENiTkVldTZaZmluWEJOcnFKZ3E1Qkt5TGk2Z3JIbkdKVTF3RFhDX1VsTDFsb1RaVWVKYVR5QVlPdFBsOTVjZk9PMnJlX3dSTzkyUm14ZXBmWHJuUmtaQzNqSlVSbFpJT1JhRnR5aXNfZFZ1UEJtNVI5Z0U5cnQzQUEiLCJpZCI6ImZjX1BRLWphcHl6QV9mTzJyb1A1OEg2LUFrXzEifQ%3D%3D"
+  },
+  {
+   "question": "What is the #1 ranked High School in Colorado?",
+   "type": "ai_overview",
+   "page_token": "qxita3icHdBLcpswAIDh6WWyjMGO3eAZT2cULLAnkstDEmiTIUK8JECOVWO86xV6hp6qp2kmq3_7zf_7r24H9e_bn8Zac9kuFtM0PdbjWGv5KMZ-UVzmQSxEofV7IdR2833j_qjEbn8V4OVDgIgYQ_3YSdLmJVdiogFFsuNr4dNUEvuLhmCIsiZBmscsPVi0xMNp73WJBmdEDI_JMYx6i4pAPWFoipzlT0h7RmQxonsc4iHe8Ds4S3awn9XS13lODeRhvSLUywvlnbHL51PAe9ZDgpc3zjM9JY4xhD7P6Yrbkw87zNyfybJJ32kJcFoqqtYIrY4XHBiH0mOFCbeUeC2GYHhlJc8JhSmLSeZ4UPpUYXKbk4A3uYJ835QRSdxznoG1VLDi6nkWvRfhtDng1gXFbWwjEt9Fp3sKa8vDkkhiphNz21eG72WgO6kBixxzjfWnZnqoxHW3evh6vXurers1H2P9H09mjp4",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=qxita3icHdBLcpswAIDh6WWyjMGO3eAZT2cULLAnkstDEmiTIUK8JECOVWO86xV6hp6qp2kmq3_7zf_7r24H9e_bn8Zac9kuFtM0PdbjWGv5KMZ-UVzmQSxEofV7IdR2833j_qjEbn8V4OVDgIgYQ_3YSdLmJVdiogFFsuNr4dNUEvuLhmCIsiZBmscsPVi0xMNp73WJBmdEDI_JMYx6i4pAPWFoipzlT0h7RmQxonsc4iHe8Ds4S3awn9XS13lODeRhvSLUywvlnbHL51PAe9ZDgpc3zjM9JY4xhD7P6Yrbkw87zNyfybJJ32kJcFoqqtYIrY4XHBiH0mOFCbeUeC2GYHhlJc8JhSmLSeZ4UPpUYXKbk4A3uYJ835QRSdxznoG1VLDi6nkWvRfhtDng1gXFbWwjEt9Fp3sKa8vDkkhiphNz21eG72WgO6kBixxzjfWnZnqoxHW3evh6vXurers1H2P9H09mjp4",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE5uUmhTRWRFYzAxMlZrOHpXRFUzT0d4bU9ESmZTa3hFUWpKNll6SmxUbXRvVTAxUlMyUnlXa2RPY0ZGQmIwcHphbWRvV1c1WFUxWjFabmRpYTAwM1pIVkxVRk5hYjBaVU1GZHpkbWRzZFZOWVdraFJkSGxwVWs1bFFSSVhVRkV0YW1Gd2VYcEJYMlpQTW5KdlVEVTRTRFl0UVdzYUlrRkVjM0k1WmxGWFVYY3pVVEIzWVhKTExXMUROMkp5UkZwMFQyRnhWMGREWWxFIiwiZmN2IjoiMyIsImVpIjoiUFEtamFweXpBX2ZPMnJvUDU4SDYtQWsiLCJxYyI6IkNodHNaV2RoWTNrZ2FHbG5hQ0J6WTJodmIyd2dZMjlzYjNKaFpHOFFBSDJ5R0RBXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgIzEgcmFua2VkIEhpZ2ggU2Nob29sIGluIENvbG9yYWRvPyIsImxrIjoiR2kxM2FHRjBJR2x6SUhSb1pTQWpNU0J5WVc1clpXUWdhR2xuYUNCelkyaHZiMndnYVc0Z1kyOXNiM0poWkc4IiwiYnMiOiJjNVdQdlEtQ01CQkg0OXJKbWVrU0J4Y19vdkZqY0NDUmhjSEV3Y0c1d2trYm9VZmFDdnJmSzBHMEtnN3U5LTc5SHVOc3RCZmNnalN3d1lSSFZ3aGxJbUFYQ2FJVU5GY25qRUVxQ0NnbHpXUHlwMk52V0Q2SXRDWkVSWmhQSW5vUXpGRllnZENiTkVldTZaZmluWEJOcnFKZ3E1Qkt5TGk2Z3JIbkdKVTF3RFhDX1VsTDFsb1RaVWVKYVR5QVlPdFBsOTVjZk9PMnJlX3dSTzkyUm14ZXBmWHJuUmtaQzNqSlVSbFpJT1JhRnR5aXNfZFZ1UEJtNVI5Z0U5cnQzQUEiLCJpZCI6ImZjX1BRLWphcHl6QV9mTzJyb1A1OEg2LUFrXzEifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE5uUmhTRWRFYzAxMlZrOHpXRFUzT0d4bU9ESmZTa3hFUWpKNll6SmxUbXRvVTAxUlMyUnlXa2RPY0ZGQmIwcHphbWRvV1c1WFUxWjFabmRpYTAwM1pIVkxVRk5hYjBaVU1GZHpkbWRzZFZOWVdraFJkSGxwVWs1bFFSSVhVRkV0YW1Gd2VYcEJYMlpQTW5KdlVEVTRTRFl0UVdzYUlrRkVjM0k1WmxGWFVYY3pVVEIzWVhKTExXMUROMkp5UkZwMFQyRnhWMGREWWxFIiwiZmN2IjoiMyIsImVpIjoiUFEtamFweXpBX2ZPMnJvUDU4SDYtQWsiLCJxYyI6IkNodHNaV2RoWTNrZ2FHbG5hQ0J6WTJodmIyd2dZMjlzYjNKaFpHOFFBSDJ5R0RBXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgIzEgcmFua2VkIEhpZ2ggU2Nob29sIGluIENvbG9yYWRvPyIsImxrIjoiR2kxM2FHRjBJR2x6SUhSb1pTQWpNU0J5WVc1clpXUWdhR2xuYUNCelkyaHZiMndnYVc0Z1kyOXNiM0poWkc4IiwiYnMiOiJjNVdQdlEtQ01CQkg0OXJKbWVrU0J4Y19vdkZqY0NDUmhjSEV3Y0c1d2trYm9VZmFDdnJmSzBHMEtnN3U5LTc5SHVOc3RCZmNnalN3d1lSSFZ3aGxJbUFYQ2FJVU5GY25qRUVxQ0NnbHpXUHlwMk52V0Q2SXRDWkVSWmhQSW5vUXpGRllnZENiTkVldTZaZmluWEJOcnFKZ3E1Qkt5TGk2Z3JIbkdKVTF3RFhDX1VsTDFsb1RaVWVKYVR5QVlPdFBsOTVjZk9PMnJlX3dSTzkyUm14ZXBmWHJuUmtaQzNqSlVSbFpJT1JhRnR5aXNfZFZ1UEJtNVI5Z0U5cnQzQUEiLCJpZCI6ImZjX1BRLWphcHl6QV9mTzJyb1A1OEg2LUFrXzEifQ%3D%3D"
+  },
+  {
+   "question": "How many students are at Legacy High School Broomfield, CO?",
+   "type": "ai_overview",
+   "page_token": "DtHhTXicHdBdkpowAADg6WX2cU1ArTrjdEohWGaITcgPyUsHEzFIEKqOyL71Cj1DT9XTdGcfvgt8v__65tL--_TH3e_DbTObjeP4eur7kz--mr6bVbfpYmam8v5QmXaz_LyEX2qzTR4m-nY1EeHDIGIKisBNNKWP4uKkCPOJx-J5YCjmDHF9pu0efYXkkjGLLCkBfqvCaC_QelJcQ8tpTZnX1QQdKV1i0vVOSjDPgVjmqWtM4KRMxI1LmGMAFvtUL2lA_WFHdR7bhnKMeex-cKgju_OqKIdFVTpQ-KiTDI0EYKmRy_ROs1zaZ3FGgxJOFckq1CmCR7nOWZjJYxwpJRcxDmh2kLaj7ZBrmF0FB0_eiqYKkBLBHCTOEl7AX6qMFscW1bpdTaZbE8zcd9zAqHr2DeH0zZx9x4VDtMOkeKdLNbeIno309zLsR-NXkHkCCHmpzWMbvnxcb3_W3X0zXPvTf_7qihw",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=DtHhTXicHdBdkpowAADg6WX2cU1ArTrjdEohWGaITcgPyUsHEzFIEKqOyL71Cj1DT9XTdGcfvgt8v__65tL--_TH3e_DbTObjeP4eur7kz--mr6bVbfpYmam8v5QmXaz_LyEX2qzTR4m-nY1EeHDIGIKisBNNKWP4uKkCPOJx-J5YCjmDHF9pu0efYXkkjGLLCkBfqvCaC_QelJcQ8tpTZnX1QQdKV1i0vVOSjDPgVjmqWtM4KRMxI1LmGMAFvtUL2lA_WFHdR7bhnKMeex-cKgju_OqKIdFVTpQ-KiTDI0EYKmRy_ROs1zaZ3FGgxJOFckq1CmCR7nOWZjJYxwpJRcxDmh2kLaj7ZBrmF0FB0_eiqYKkBLBHCTOEl7AX6qMFscW1bpdTaZbE8zcd9zAqHr2DeH0zZx9x4VDtMOkeKdLNbeIno309zLsR-NXkHkCCHmpzWMbvnxcb3_W3X0zXPvTf_7qihw",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE5uUmhTRWRFYzAxMlZrOHpXRFUzT0d4bU9ESmZTa3hFUWpKNll6SmxUbXRvVTAxUlMyUnlXa2RPY0ZGQmIwcHphbWRvV1c1WFUxWjFabmRpYTAwM1pIVkxVRk5hYjBaVU1GZHpkbWRzZFZOWVdraFJkSGxwVWs1bFFSSVhVRkV0YW1Gd2VYcEJYMlpQTW5KdlVEVTRTRFl0UVdzYUlrRkVjM0k1WmxGWFVYY3pVVEIzWVhKTExXMUROMkp5UkZwMFQyRnhWMGREWWxFIiwiZmN2IjoiMyIsImVpIjoiUFEtamFweXpBX2ZPMnJvUDU4SDYtQWsiLCJxYyI6IkNodHNaV2RoWTNrZ2FHbG5hQ0J6WTJodmIyd2dZMjlzYjNKaFpHOFFBSDJ5R0RBXyIsInF1ZXN0aW9uIjoiSG93IG1hbnkgc3R1ZGVudHMgYXJlIGF0IExlZ2FjeSBIaWdoIFNjaG9vbCBCcm9vbWZpZWxkLCBDTz8iLCJsayI6IkdqVm9iM2NnYldGdWVTQnpkSFZrWlc1MGN5QmhkQ0JzWldkaFkza2dhR2xuYUNCelkyaHZiMndnWW5KdmIyMW1hV1ZzWkNCamJ3IiwiYnMiOiJjNVdQdlEtQ01CQkg0OXJKbWVrU0J4Y19vdkZqY0NDUmhjSEV3Y0c1d2trYm9VZmFDdnJmSzBHMEtnN3U5LTc5SHVOc3RCZmNnalN3d1lSSFZ3aGxJbUFYQ2FJVU5GY25qRUVxQ0NnbHpXUHlwMk52V0Q2SXRDWkVSWmhQSW5vUXpGRllnZENiTkVldTZaZmluWEJOcnFKZ3E1Qkt5TGk2Z3JIbkdKVTF3RFhDX1VsTDFsb1RaVWVKYVR5QVlPdFBsOTVjZk9PMnJlX3dSTzkyUm14ZXBmWHJuUmtaQzNqSlVSbFpJT1JhRnR5aXNfZFZ1UEJtNVI5Z0U5cnQzQUEiLCJpZCI6ImZjX1BRLWphcHl6QV9mTzJyb1A1OEg2LUFrXzEifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE5uUmhTRWRFYzAxMlZrOHpXRFUzT0d4bU9ESmZTa3hFUWpKNll6SmxUbXRvVTAxUlMyUnlXa2RPY0ZGQmIwcHphbWRvV1c1WFUxWjFabmRpYTAwM1pIVkxVRk5hYjBaVU1GZHpkbWRzZFZOWVdraFJkSGxwVWs1bFFSSVhVRkV0YW1Gd2VYcEJYMlpQTW5KdlVEVTRTRFl0UVdzYUlrRkVjM0k1WmxGWFVYY3pVVEIzWVhKTExXMUROMkp5UkZwMFQyRnhWMGREWWxFIiwiZmN2IjoiMyIsImVpIjoiUFEtamFweXpBX2ZPMnJvUDU4SDYtQWsiLCJxYyI6IkNodHNaV2RoWTNrZ2FHbG5hQ0J6WTJodmIyd2dZMjlzYjNKaFpHOFFBSDJ5R0RBXyIsInF1ZXN0aW9uIjoiSG93IG1hbnkgc3R1ZGVudHMgYXJlIGF0IExlZ2FjeSBIaWdoIFNjaG9vbCBCcm9vbWZpZWxkLCBDTz8iLCJsayI6IkdqVm9iM2NnYldGdWVTQnpkSFZrWlc1MGN5QmhkQ0JzWldkaFkza2dhR2xuYUNCelkyaHZiMndnWW5KdmIyMW1hV1ZzWkNCamJ3IiwiYnMiOiJjNVdQdlEtQ01CQkg0OXJKbWVrU0J4Y19vdkZqY0NDUmhjSEV3Y0c1d2trYm9VZmFDdnJmSzBHMEtnN3U5LTc5SHVOc3RCZmNnalN3d1lSSFZ3aGxJbUFYQ2FJVU5GY25qRUVxQ0NnbHpXUHlwMk52V0Q2SXRDWkVSWmhQSW5vUXpGRllnZENiTkVldTZaZmluWEJOcnFKZ3E1Qkt5TGk2Z3JIbkdKVTF3RFhDX1VsTDFsb1RaVWVKYVR5QVlPdFBsOTVjZk9PMnJlX3dSTzkyUm14ZXBmWHJuUmtaQzNqSlVSbFpJT1JhRnR5aXNfZFZ1UEJtNVI5Z0U5cnQzQUEiLCJpZCI6ImZjX1BRLWphcHl6QV9mTzJyb1A1OEg2LUFrXzEifQ%3D%3D"
+  },
+  {
+   "question": "What's the most expensive private school in Colorado?",
+   "type": "ai_overview",
+   "page_token": "rG0akXicHdBdcqIwAADg6WX6WBNAq844O9CSUgbTJZgfeOnEBERIxAot6NteYc_QU_U0O7PfEb4_3-Z4an_u_tbDcO7Xs9k4jg-HrjuY8kF1dib760nNlDRmL1W7Xjwu4K9KbcIvFTxdVJDS85k9E5BRPVHO2BsrRNEEcQbQIoe-J4Xv5HSaY0hyeYufBSCVAiZRfEg0iBtG44yG86M2xYe6mYaFGGJUeIX1bqXQOOEF4hxz3jCkdzgtxRbIcOnSqJb65E8ExSAXRc5YzXcRqgkLOEG-u-XLEdthoV8Q3boIb188L3VgilttVWSwcHBPG9RnUQEkhZY46OkN-R4Oh2EPg5S5rJdRN-135ndGYUBB_Kl4P-S2G8NapzSDH7kI5mWLqqJdXpVdpXhXv-IjDOTUHVNKbqoxlkWkpSK98rC-JLSGql0x4iJTNuZTuywhzirS432lvjbu_f_rzXtlh_X50h3-ATLHit4",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=rG0akXicHdBdcqIwAADg6WX6WBNAq844O9CSUgbTJZgfeOnEBERIxAot6NteYc_QU_U0O7PfEb4_3-Z4an_u_tbDcO7Xs9k4jg-HrjuY8kF1dib760nNlDRmL1W7Xjwu4K9KbcIvFTxdVJDS85k9E5BRPVHO2BsrRNEEcQbQIoe-J4Xv5HSaY0hyeYufBSCVAiZRfEg0iBtG44yG86M2xYe6mYaFGGJUeIX1bqXQOOEF4hxz3jCkdzgtxRbIcOnSqJb65E8ExSAXRc5YzXcRqgkLOEG-u-XLEdthoV8Q3boIb188L3VgilttVWSwcHBPG9RnUQEkhZY46OkN-R4Oh2EPg5S5rJdRN-135ndGYUBB_Kl4P-S2G8NapzSDH7kI5mWLqqJdXpVdpXhXv-IjDOTUHVNKbqoxlkWkpSK98rC-JLSGql0x4iJTNuZTuywhzirS432lvjbu_f_rzXtlh_X50h3-ATLHit4",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE5uUmhTRWRFYzAxMlZrOHpXRFUzT0d4bU9ESmZTa3hFUWpKNll6SmxUbXRvVTAxUlMyUnlXa2RPY0ZGQmIwcHphbWRvV1c1WFUxWjFabmRpYTAwM1pIVkxVRk5hYjBaVU1GZHpkbWRzZFZOWVdraFJkSGxwVWs1bFFSSVhVRkV0YW1Gd2VYcEJYMlpQTW5KdlVEVTRTRFl0UVdzYUlrRkVjM0k1WmxGWFVYY3pVVEIzWVhKTExXMUROMkp5UkZwMFQyRnhWMGREWWxFIiwiZmN2IjoiMyIsImVpIjoiUFEtamFweXpBX2ZPMnJvUDU4SDYtQWsiLCJxYyI6IkNodHNaV2RoWTNrZ2FHbG5hQ0J6WTJodmIyd2dZMjlzYjNKaFpHOFFBSDJ5R0RBXyIsInF1ZXN0aW9uIjoiV2hhdCdzIHRoZSBtb3N0IGV4cGVuc2l2ZSBwcml2YXRlIHNjaG9vbCBpbiBDb2xvcmFkbz8iLCJsayI6IkdqUjNhR0YwSjNNZ2RHaGxJRzF2YzNRZ1pYaHdaVzV6YVhabElIQnlhWFpoZEdVZ2MyTm9iMjlzSUdsdUlHTnZiRzl5WVdSdiIsImJzIjoiYzVXUHZRLUNNQkJINDlySm1la1NCeGNfb3ZGamNDQ1JoY0hFd2NHNXdra2JvVWZhQ3ZyZkswRzBLZzd1OS03OUh1TnN0QmZjZ2pTd3dZUkhWd2hsSW1BWENhSVVORmNuakVFcUNDZ2x6V1B5cDJOdldENkl0Q1pFUlpoUElub1F6RkZZZ2RDYk5FZXU2WmZpblhCTnJxSmdxNUJLeUxpNmdySG5HSlUxd0RYQ19VbEwxbG9UWlVlSmFUeUFZT3RQbDk1Y2ZPTzJyZV93Uk85MlJteGVwZlhyblJrWkMzakpVUmxaSU9SYUZ0eWlzX2RWdVBCbTVSOWdFOXJ0M0FBIiwiaWQiOiJmY19QUS1qYXB5ekFfZk8ycm9QNThINi1Ba18xIn0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE5uUmhTRWRFYzAxMlZrOHpXRFUzT0d4bU9ESmZTa3hFUWpKNll6SmxUbXRvVTAxUlMyUnlXa2RPY0ZGQmIwcHphbWRvV1c1WFUxWjFabmRpYTAwM1pIVkxVRk5hYjBaVU1GZHpkbWRzZFZOWVdraFJkSGxwVWs1bFFSSVhVRkV0YW1Gd2VYcEJYMlpQTW5KdlVEVTRTRFl0UVdzYUlrRkVjM0k1WmxGWFVYY3pVVEIzWVhKTExXMUROMkp5UkZwMFQyRnhWMGREWWxFIiwiZmN2IjoiMyIsImVpIjoiUFEtamFweXpBX2ZPMnJvUDU4SDYtQWsiLCJxYyI6IkNodHNaV2RoWTNrZ2FHbG5hQ0J6WTJodmIyd2dZMjlzYjNKaFpHOFFBSDJ5R0RBXyIsInF1ZXN0aW9uIjoiV2hhdCdzIHRoZSBtb3N0IGV4cGVuc2l2ZSBwcml2YXRlIHNjaG9vbCBpbiBDb2xvcmFkbz8iLCJsayI6IkdqUjNhR0YwSjNNZ2RHaGxJRzF2YzNRZ1pYaHdaVzV6YVhabElIQnlhWFpoZEdVZ2MyTm9iMjlzSUdsdUlHTnZiRzl5WVdSdiIsImJzIjoiYzVXUHZRLUNNQkJINDlySm1la1NCeGNfb3ZGamNDQ1JoY0hFd2NHNXdra2JvVWZhQ3ZyZkswRzBLZzd1OS03OUh1TnN0QmZjZ2pTd3dZUkhWd2hsSW1BWENhSVVORmNuakVFcUNDZ2x6V1B5cDJOdldENkl0Q1pFUlpoUElub1F6RkZZZ2RDYk5FZXU2WmZpblhCTnJxSmdxNUJLeUxpNmdySG5HSlUxd0RYQ19VbEwxbG9UWlVlSmFUeUFZT3RQbDk1Y2ZPTzJyZV93Uk85MlJteGVwZlhyblJrWkMzakpVUmxaSU9SYUZ0eWlzX2RWdVBCbTVSOWdFOXJ0M0FBIiwiaWQiOiJmY19QUS1qYXB5ekFfZk8ycm9QNThINi1Ba18xIn0%3D"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Legacy High School: Home",
+   "link": "https://legacy.adams12.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUwHrOzAVTAQkj6tSKo0tkTeRVuzAxP3ybTH7oxuu3L1CB713UDmFRsUYqYwiiLaUZ0Cy5iLFkpfa2oRXgot9gYa7UChYTP_SRwk2E3mq6MxG_m7c&ved=2ahUKEwjcxZW66eSWAxV3p1YBHeegHp8QFnoECFMQAQ&uoh=1",
+   "displayed_link": "https://legacy.adams12.org",
+   "favicon": "https://serpapi.com/images/i/UklGRvQAAABXRUJQVlA4IOgAAABQBQCdASocABwAPrUurVanIacnG_DgFoljAAPg69V_YApx_ZSyIexoUFJlnq17TgkZdAAA_vixmFdeARGY0Hf5Xkvh1j-cREvyqMFdgSdc1RrtqqneSbecpen0i3Y2giWj30_sk0sxuARJy9pzz3dz76_egCZBRaSCazKcTqqNYztzMUouEirNL9r_c1zUokSLYWk-vQoRJwqO1Pda2349t8TCtgAEvoqQRmjoRK0Wv-SgJKI94S6un66zw-xrcwn08gBbC5wzQUISfADH41701G3Oj1JAAbB7rqquAGAwMb52MHN7igAA.webp",
+   "snippet": "WHY CHOOSE US? ... Legacy High School will provide opportunities, expectations, and support for each student to achieve academic excellence. The partnership of ...",
+   "snippet_highlighted_words": [
+    "Legacy High School"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "Calendar",
+      "link": "https://legacy.adams12.org/our-school/calendar",
+      "snippet": "Legacy High School. 2701 West 136th Ave. Broomfield. CO ..."
+     },
+     {
+      "title": "Contact Us",
+      "link": "https://legacy.adams12.org/our-school/contact-us",
+      "snippet": "Contact Us - Legacy High School. ... Address. 2701 W. 136th ..."
+     },
+     {
+      "title": "Staff Directory",
+      "link": "https://legacy.adams12.org/our-school/staff-directory",
+      "snippet": "Legacy High School. 2701 West 136th Ave. Broomfield. CO ..."
+     },
+     {
+      "title": "Bell Schedules",
+      "link": "https://legacy.adams12.org/our-school/bell-schedules",
+      "snippet": "FutureForward Bell Schedules. Bollman \u00b7 Washington Square ..."
+     },
+     {
+      "title": "Athletics & Activities",
+      "link": "https://legacy.adams12.org/athletics-activities",
+      "snippet": "Athletic Stadium Information \u00b7 Legacy High School. 2701 ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "WHY CHOOSE US? ... Legacy High School will provide opportunities, expectations, and support for each student to achieve academic excellence. The partnership of ...",
+     "source_info_link": "https://legacy.adams12.org/",
+     "icon": "https://serpapi.com/images/i/UklGRvQAAABXRUJQVlA4IOgAAABQBQCdASocABwAPrUurVanIacnG_DgFoljAAPg69V_YApx_ZSyIexoUFJlnq17TgkZdAAA_vixmFdeARGY0Hf5Xkvh1j-cREvyqMFdgSdc1RrtqqneSbecpen0i3Y2giWj30_sk0sxuARJy9pzz3dz76_egCZBRaSCazKcTqqNYztzMUouEirNL9r_c1zUokSLYWk-vQoRJwqO1Pda2349t8TCtgAEvoqQRmjoRK0Wv-SgJKI94S6un66zw-xrcwn08gBbC5wzQUISfADH41701G3Oj1JAAbB7rqquAGAwMb52MHN7igAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "adams 12 legacy high school"
+  },
+  {
+   "position": 2,
+   "title": "Legacy High School (Colorado)",
+   "link": "https://en.wikipedia.org/wiki/Legacy_High_School_(Colorado)",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHrOzAVwVgvke6k7-lRDNevW5JI8uLAhvKrsTQw3zmiuDEegtSs1j9gCWssCq5q_wRV_OiUTpAfeIDBy39BrSWSi9zKAVGOd38hs9AOWTL_3s19TtdttHHwcuOIRSajpvOLnVxZtJi9EKl-cg19ZFIRvp8&ved=2ahUKEwjcxZW66eSWAxV3p1YBHeegHp8QFnoECE4QAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Legacy_High_School_...",
+   "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+   "snippet": "Legacy High School is a high school located in Broomfield, Colorado that opened in 2000. It is within the Adams 12 Five Star Schools District.",
+   "snippet_highlighted_words": [
+    "Legacy High School",
+    "Colorado"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Legacy High School is a high school located in Broomfield, Colorado that opened in 2000. It is within the Adams 12 Five Star Schools District.",
+     "source_info_link": "https://en.wikipedia.org/wiki/Legacy_High_School_(Colorado)",
+     "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Legacy_High_School_(Colorado)#:~:text=Legacy%20High%20School%20is%20a,12%20Five%20Star%20Schools%20District."
+  },
+  {
+   "position": 3,
+   "title": "Legacy High School in Broomfield, CO",
+   "link": "https://www.usnews.com/education/best-high-schools/colorado/districts/adams-12-five-star-schools/legacy-high-school-4355",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESsAEB6zswFbBo44WyW3WvxRQIWMFgQogDCqxLFRKWPhdAnCvViIMCgkA4vJSmxARbxaz4eIO-imXYuGuC02au64b5zunk__1d3KfwFiOebruKeh_snLHgrscUGLWglITR4oeAWksxlMRX9F0ra5121YV52o_MGsc8nMKJYWy99EGsLRAX6uJTCpmpeGybBPosuTciTsVwIJLlnQn234JITunBm-MT8rhrl8NzyAzj0AcZxA&ved=2ahUKEwjcxZW66eSWAxV3p1YBHeegHp8QFnoECEsQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a adams-12-five-star-schools",
+   "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp",
+   "snippet": "Legacy High School is ranked 44th within Colorado. Additionally, 24% of students in the school are economically disadvantaged. Legacy High School is 1 of 12 ...",
+   "snippet_highlighted_words": [
+    "Legacy High School",
+    "Colorado",
+    "Legacy High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Legacy High School is ranked 44th within Colorado. Additionally, 24% of students in the school are economically disadvantaged. Legacy High School is 1 of 12 ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/colorado/districts/adams-12-five-star-schools/legacy-high-school-4355",
+     "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/colorado/districts/adams-12-five-star-schools/legacy-high-school-4355#:~:text=Legacy%20High%20School%20is%20ranked,Adams%2012%20Five%20Star%20Schools."
+  },
+  {
+   "position": 4,
+   "title": "Legacy High School | Broomfield CO",
+   "link": "https://www.facebook.com/lhslightning/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXgHrOzAV3GFMIvCBb6r_WmbGG16CeUPQD1zWBE5alqItUl5Zrg_imdFSvNU8atNcQE94QXrGtzk8Cy03odsxEgkvVjY3DiPgTyzAIxCLRNcB7lv-aEZbGj-qqyLJPSc&ved=2ahUKEwjcxZW66eSWAxV3p1YBHeegHp8QFnoECE8QAQ&uoh=1",
+   "displayed_link": "2.3K+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "snippet": "Legacy High School ; Open now ; 2701 West 136th Avenue, Broomfield, CO, United States, 80023 ...",
+   "snippet_highlighted_words": [
+    "Legacy High School",
+    "CO"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Legacy High School ; Open now ; 2701 West 136th Avenue, Broomfield, CO, United States, 80023 ...",
+     "source_info_link": "https://www.facebook.com/lhslightning/",
+     "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Facebook \u00b7 Legacy High School",
+   "read_more_link": "https://www.facebook.com/lhslightning/#:~:text=Legacy%20High%20School&text=Open%20now&text=2701%20West%20136th%20Avenue%2C%20Broomfield%2C,CO%2C%20United%20States%2C%2080023"
+  },
+  {
+   "position": 5,
+   "title": "Legacy (Broomfield, CO) High School Sports",
+   "link": "https://www.maxpreps.com/co/broomfield/legacy-lightning-bolt/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAV_LCQ2pZI3A-VXSug8pUr8mt28sGePIlK5NYuz1eirN9ItnqvaNS4NVmKwzdXLAmLR9YYDk7L5DsgVcI29gKk-JVvdDiuhsw8_o1lCoHpHzgRi2dePJbfU-_aCIfVmqMbbCimC-hQn5aAmUiiwmzmbw&ved=2ahUKEwjcxZW66eSWAxV3p1YBHeegHp8QFnoECFQQAQ&uoh=1",
+   "displayed_link": "https://www.maxpreps.com \u203a Colorado",
+   "favicon": "https://serpapi.com/images/i/UklGRiABAABXRUJQVlA4IBQBAACQBgCdASocABwAPtEwtFooIigoGAEAGglsAMcjXhQIMBLJPoAdLB5QCeA92iBTGskLs8r3XyB_v0YQpEDAAP72B9a-IG-P3R_UdqQnvLoZazJ3_hD6b33Zrtz20RZgJiv79VLCko7nwRuKtV_tKX5qfEnzpjwWAKeeC-Hoi40eGvSLyzF7o0Q3576t2nK2-Te2OXHxzP8JnfVwG8zf3faxGWgPLQuWGTGMoX5Uv3_f_4ujvlktm6Hp1ydL_9_LAhZUQlDz38F2gIRo1k1gl_-zBXz_J3X_mzUXtdhkfGXcvCt3-JWt1TUdYyVEimwb_iG__v19FfYkvr0Givdah3CLEq6DV_OFEpkdb5aSt_-sA7lnAAA.webp",
+   "snippet": "Legacy High School, home of the Lightning, is a public school located in Broomfield, Colorado. LHS is part of the Adams 12 Five Star Schools District with ...",
+   "snippet_highlighted_words": [
+    "Legacy High School",
+    "Colorado"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Legacy High School, home of the Lightning, is a public school located in Broomfield, Colorado. LHS is part of the Adams 12 Five Star Schools District with ...",
+     "source_info_link": "https://www.maxpreps.com/co/broomfield/legacy-lightning-bolt/",
+     "icon": "https://serpapi.com/images/i/UklGRiABAABXRUJQVlA4IBQBAACQBgCdASocABwAPtEwtFooIigoGAEAGglsAMcjXhQIMBLJPoAdLB5QCeA92iBTGskLs8r3XyB_v0YQpEDAAP72B9a-IG-P3R_UdqQnvLoZazJ3_hD6b33Zrtz20RZgJiv79VLCko7nwRuKtV_tKX5qfEnzpjwWAKeeC-Hoi40eGvSLyzF7o0Q3576t2nK2-Te2OXHxzP8JnfVwG8zf3faxGWgPLQuWGTGMoX5Uv3_f_4ujvlktm6Hp1ydL_9_LAhZUQlDz38F2gIRo1k1gl_-zBXz_J3X_mzUXtdhkfGXcvCt3-JWt1TUdYyVEimwb_iG__v19FfYkvr0Givdah3CLEq6DV_OFEpkdb5aSt_-sA7lnAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "MaxPreps",
+   "read_more_link": "https://www.maxpreps.com/co/broomfield/legacy-lightning-bolt/#:~:text=Legacy%20High%20School%2C%20home%20of,students%20and%2022%20varsity%20sports."
+  },
+  {
+   "position": 6,
+   "title": "Legacy High School in Broomfield, CO",
+   "link": "https://www.niche.com/k12/legacy-high-school-broomfield-co/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHrOzAVYDphm85yxtZC07CsrR8vW8xfqXwMWFM2EJKIOM-F1JU8VzfGSgH9vs4IgVCxotNKrhZG5zIs4E02pQ0sb_WXYspNPM81rzlMv7yI596z_UJJIGDZG4Eh6N_fXeYHykKNN6u8CwwvWmqz1u46x_E&ved=2ahUKEwjcxZW66eSWAxV3p1YBHeegHp8QFnoECE0QAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a Colorado",
+   "favicon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAACwBgCdASocABwAPtEutFooIagoGAEAGglAGZo7gYv7m0TPt8r_WYdmpcah9WA48zicEtVrCFOGH4nMtJiaAAD-8Mpqn5wztwFeSDXF5YavmSdrcpv67JtS1tKl7uW6N9aR19WH-vT5VtxqndfSU_QIzB4R0m5fNi1eX3h8GYa_8H28-7o-nc3D2GEvZqGTES8muP_UCP_UIYsGh8QXK7V2sBnUP79qQidv_o8__S3xjZZmmXEG69VP00Dn3HuddwtLR_4xf_0PU8NPn060X-47u3VDw39ZbBgpwK3wP0F5tHUWMrTdTbcT_h7ghKmtPgKiKNIvGUNLHBT4VbzlXgvFo7vCP-ot_w6I_hOg9EcgQfabjpYvU6X4xcxi9BIxh2PJomEF2PA_XoL7FtzFNUuyE0IG83Bax0ZYU-dxj0EhgAAA.webp",
+   "snippet": "Legacy High School is a highly rated, public school located in BROOMFIELD, CO. It has 2052 students in grades 9-12 with a student-teacher ratio of 21 to 1.",
+   "snippet_highlighted_words": [
+    "Legacy High School",
+    "CO"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Legacy High School is a highly rated, public school located in BROOMFIELD, CO. It has 2052 students in grades 9-12 with a student-teacher ratio of 21 to 1.",
+     "source_info_link": "https://www.niche.com/k12/legacy-high-school-broomfield-co/",
+     "icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAACwBgCdASocABwAPtEutFooIagoGAEAGglAGZo7gYv7m0TPt8r_WYdmpcah9WA48zicEtVrCFOGH4nMtJiaAAD-8Mpqn5wztwFeSDXF5YavmSdrcpv67JtS1tKl7uW6N9aR19WH-vT5VtxqndfSU_QIzB4R0m5fNi1eX3h8GYa_8H28-7o-nc3D2GEvZqGTES8muP_UCP_UIYsGh8QXK7V2sBnUP79qQidv_o8__S3xjZZmmXEG69VP00Dn3HuddwtLR_4xf_0PU8NPn060X-47u3VDw39ZbBgpwK3wP0F5tHUWMrTdTbcT_h7ghKmtPgKiKNIvGUNLHBT4VbzlXgvFo7vCP-ot_w6I_hOg9EcgQfabjpYvU6X4xcxi9BIxh2PJomEF2PA_XoL7FtzFNUuyE0IG83Bax0ZYU-dxj0EhgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Niche"
+  },
+  {
+   "position": 7,
+   "title": "Legacy High School (@lhslightning) \u00b7 Broomfield, CO",
+   "link": "https://www.instagram.com/lhslightning/?hl=en",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZQHrOzAV8AKaMWPPQeI47U9vZuGlYb86NVoOMcj8CsQEqB0UtQllKwxowlCgLySq9s3TRLdzJGb_vQkPJBCOjX5LafhTYGY-qcfV_JtHtF-JqOr73202RMzH0vmeDJI8Pg8S7Rn6&ved=2ahUKEwjcxZW66eSWAxV3p1YBHeegHp8QFnoECFIQAQ&uoh=1",
+   "displayed_link": "3.2K+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+   "snippet": "Official account of Legacy High School - Home of the Lightning - Sko Boltz! \u26a1\ufe0fBroomfield CO.",
+   "snippet_highlighted_words": [
+    "Legacy High School",
+    "CO"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Official account of Legacy High School - Home of the Lightning - Sko Boltz! \u26a1\ufe0fBroomfield CO.",
+     "source_info_link": "https://www.instagram.com/lhslightning/?hl=en",
+     "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Instagram \u00b7 lhslightning",
+   "read_more_link": "https://www.instagram.com/lhslightning/?hl=en#:~:text=Official%20account%20of%20Legacy%20High,%2D%20Sko%20Boltz!%20%E2%9A%A1%EF%B8%8FBroomfield%20CO"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Legacy high school colorado football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Legacy+high+school+colorado+football&sa=X&ved=2ahUKEwjcxZW66eSWAxV3p1YBHeegHp8Q1QJ6BAhMEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Legacy+high+school+colorado+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Legacy high school colorado ranking",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Legacy+high+school+colorado+ranking&sa=X&ved=2ahUKEwjcxZW66eSWAxV3p1YBHeegHp8Q1QJ6BAhyEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Legacy+high+school+colorado+ranking"
+  },
+  {
+   "block_position": 1,
+   "query": "Legacy high school colorado yearbook",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Legacy+high+school+colorado+yearbook&sa=X&ved=2ahUKEwjcxZW66eSWAxV3p1YBHeegHp8Q1QJ6BAhtEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Legacy+high+school+colorado+yearbook"
+  },
+  {
+   "block_position": 1,
+   "query": "Legacy high school colorado reviews",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Legacy+high+school+colorado+reviews&sa=X&ved=2ahUKEwjcxZW66eSWAxV3p1YBHeegHp8Q1QJ6BAhlEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Legacy+high+school+colorado+reviews"
+  },
+  {
+   "block_position": 1,
+   "query": "Legacy High School Adams 12",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Legacy+High+School+Adams+12&sa=X&ved=2ahUKEwjcxZW66eSWAxV3p1YBHeegHp8Q1QJ6BAheEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Legacy+High+School+Adams+12"
+  },
+  {
+   "block_position": 1,
+   "query": "Legacy high school colorado staff",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Legacy+high+school+colorado+staff&sa=X&ved=2ahUKEwjcxZW66eSWAxV3p1YBHeegHp8Q1QJ6BAhcEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Legacy+high+school+colorado+staff"
+  },
+  {
+   "block_position": 1,
+   "query": "Legacy high school colorado alumni",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Legacy+high+school+colorado+alumni&sa=X&ved=2ahUKEwjcxZW66eSWAxV3p1YBHeegHp8Q1QJ6BAhYEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Legacy+high+school+colorado+alumni"
+  },
+  {
+   "block_position": 1,
+   "query": "Legacy High school mascot",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Legacy+High+school+mascot&sa=X&ved=2ahUKEwjcxZW66eSWAxV3p1YBHeegHp8Q1QJ6BAhWEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Legacy+High+school+mascot"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Legacy+High+School%22+Colorado&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=PQ-japyzA_fO2roP58H6-Ak&start=10&sa=N&sstk=AS6-VmKUnrqCIDeApWa3R0dhOxVrbZu1yjSjy0PF81HN3hCewIk2IJoVUYBiG04QqWmPcKuUUpnyGVYZp0Oera80RaGxXciUf6YMmw&ved=2ahUKEwjcxZW66eSWAxV3p1YBHeegHp8Q8NMDegUIjQEQFg",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Legacy+High+School%22+Colorado&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=PQ-japyzA_fO2roP58H6-Ak&start=10&sa=N&sstk=AS6-VmKUnrqCIDeApWa3R0dhOxVrbZu1yjSjy0PF81HN3hCewIk2IJoVUYBiG04QqWmPcKuUUpnyGVYZp0Oera80RaGxXciUf6YMmw&ved=2ahUKEwjcxZW66eSWAxV3p1YBHeegHp8Q8tMDegUIjQEQBA",
+   "3": "https://www.google.com/search?q=%22Legacy+High+School%22+Colorado&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=PQ-japyzA_fO2roP58H6-Ak&start=20&sa=N&sstk=AS6-VmKUnrqCIDeApWa3R0dhOxVrbZu1yjSjy0PF81HN3hCewIk2IJoVUYBiG04QqWmPcKuUUpnyGVYZp0Oera80RaGxXciUf6YMmw&ved=2ahUKEwjcxZW66eSWAxV3p1YBHeegHp8Q8tMDegUIjQEQBg",
+   "4": "https://www.google.com/search?q=%22Legacy+High+School%22+Colorado&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=PQ-japyzA_fO2roP58H6-Ak&start=30&sa=N&sstk=AS6-VmKUnrqCIDeApWa3R0dhOxVrbZu1yjSjy0PF81HN3hCewIk2IJoVUYBiG04QqWmPcKuUUpnyGVYZp0Oera80RaGxXciUf6YMmw&ved=2ahUKEwjcxZW66eSWAxV3p1YBHeegHp8Q8tMDegUIjQEQCA",
+   "5": "https://www.google.com/search?q=%22Legacy+High+School%22+Colorado&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=PQ-japyzA_fO2roP58H6-Ak&start=40&sa=N&sstk=AS6-VmKUnrqCIDeApWa3R0dhOxVrbZu1yjSjy0PF81HN3hCewIk2IJoVUYBiG04QqWmPcKuUUpnyGVYZp0Oera80RaGxXciUf6YMmw&ved=2ahUKEwjcxZW66eSWAxV3p1YBHeegHp8Q8tMDegUIjQEQCg",
+   "6": "https://www.google.com/search?q=%22Legacy+High+School%22+Colorado&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=PQ-japyzA_fO2roP58H6-Ak&start=50&sa=N&sstk=AS6-VmKUnrqCIDeApWa3R0dhOxVrbZu1yjSjy0PF81HN3hCewIk2IJoVUYBiG04QqWmPcKuUUpnyGVYZp0Oera80RaGxXciUf6YMmw&ved=2ahUKEwjcxZW66eSWAxV3p1YBHeegHp8Q8tMDegUIjQEQDA",
+   "7": "https://www.google.com/search?q=%22Legacy+High+School%22+Colorado&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=PQ-japyzA_fO2roP58H6-Ak&start=60&sa=N&sstk=AS6-VmKUnrqCIDeApWa3R0dhOxVrbZu1yjSjy0PF81HN3hCewIk2IJoVUYBiG04QqWmPcKuUUpnyGVYZp0Oera80RaGxXciUf6YMmw&ved=2ahUKEwjcxZW66eSWAxV3p1YBHeegHp8Q8tMDegUIjQEQDg",
+   "8": "https://www.google.com/search?q=%22Legacy+High+School%22+Colorado&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=PQ-japyzA_fO2roP58H6-Ak&start=70&sa=N&sstk=AS6-VmKUnrqCIDeApWa3R0dhOxVrbZu1yjSjy0PF81HN3hCewIk2IJoVUYBiG04QqWmPcKuUUpnyGVYZp0Oera80RaGxXciUf6YMmw&ved=2ahUKEwjcxZW66eSWAxV3p1YBHeegHp8Q8tMDegUIjQEQEA",
+   "9": "https://www.google.com/search?q=%22Legacy+High+School%22+Colorado&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=PQ-japyzA_fO2roP58H6-Ak&start=80&sa=N&sstk=AS6-VmKUnrqCIDeApWa3R0dhOxVrbZu1yjSjy0PF81HN3hCewIk2IJoVUYBiG04QqWmPcKuUUpnyGVYZp0Oera80RaGxXciUf6YMmw&ved=2ahUKEwjcxZW66eSWAxV3p1YBHeegHp8Q8tMDegUIjQEQEg",
+   "10": "https://www.google.com/search?q=%22Legacy+High+School%22+Colorado&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=PQ-japyzA_fO2roP58H6-Ak&start=90&sa=N&sstk=AS6-VmKUnrqCIDeApWa3R0dhOxVrbZu1yjSjy0PF81HN3hCewIk2IJoVUYBiG04QqWmPcKuUUpnyGVYZp0Oera80RaGxXciUf6YMmw&ved=2ahUKEwjcxZW66eSWAxV3p1YBHeegHp8Q8tMDegUIjQEQFA"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Legacy+High+School%22+Colorado&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Legacy+High+School%22+Colorado&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Legacy+High+School%22+Colorado&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Legacy+High+School%22+Colorado&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Legacy+High+School%22+Colorado&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Legacy+High+School%22+Colorado&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Legacy+High+School%22+Colorado&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Legacy+High+School%22+Colorado&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Legacy+High+School%22+Colorado&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Legacy+High+School%22+Colorado&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Legacy+High+School%22+Colorado&start=90"
+  }
+ }
+}

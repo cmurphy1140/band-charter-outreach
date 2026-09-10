@@ -1,0 +1,485 @@
+{
+ "search_information": {
+  "query_displayed": "\"Leander High School\" Texas",
+  "total_results": 75300,
+  "time_taken_displayed": 0.33,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Leander High School",
+  "type": "School in Leander, Texas",
+  "entity_type": "local_nav",
+  "kgmid": "/m/0671lh",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/0671lh&hl=en-US&q=Leander+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F0671lh&q=Leander+High+School",
+  "place_id": "ChIJZZJLOXApW4YRF0dVHh7xv2E",
+  "website": "http://lhs.leanderisd.org/",
+  "description": "Leander High School is a secondary school in Leander, Texas, United States, and is part of the Leander Independent School District. It was established in 1983 and was the only high school in district, until the establishment of Cedar Park High School in 1998.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa30a9306ca7f196024f076/images/gBlHAVEttCm8prVslxTlllrbQ6LC-48KTJ8INhb4DCo.webp",
+   "link": "https://www.google.com/maps/place/Leander+High+School/data=!4m2!3m1!1s0x0:0x61bff11e1e554717?sa=X&ved=2ahUKEwiz3oCB5eSWAxU6QEEAHU5lBOcQ_BJ6BAgYEAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Leander_High_School"
+  },
+  "address": "3301 S Bagdad Rd, Leander, TX 78641",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=leander+high+school+address&ludocid=7043613453890963223&sa=X&ved=2ahUKEwiz3oCB5eSWAxU6QEEAHU5lBOcQ6BN6BAgiEAI"
+   }
+  ],
+  "founded": "1983",
+  "color": "Blue",
+  "color_links": [
+   {
+    "text": "Blue",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpgv8628l1vQ7TYLOGAMtAo7chwU1ULhfxDWufp5T8olnZ_lTO1ZF8mnbHrQu_W0PSgEkXpOWqWpBZ-PcUVkepkfUugMQ2wd56KcD0ZH5sBZWgJjqwG1trmYH4Dm4CrETREOxyx4%3D&sa=X&ved=2ahUKEwiz3oCB5eSWAxU6QEEAHU5lBOcQmxN6BAgqEAI"
+   }
+  ],
+  "school_types": "State school, Public high school",
+  "school_types_links": [
+   {
+    "text": "State school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=State+school&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ybGtCxI0H8z2nV80srIO5hh43iJrpLL9zyTRHToodwNipZCD4kcN2wbzA3OqfyGettl42NpXglwsH4hnJQRSg4KBrFTowpZphOt0qedRcJ2ACD48HfHxaPw7cTIUG6UBxFmH5ZUw7zXbAScKJ_zc0hT1rDpe0_C3TqCosOINae9icQp7LFbT3j4IJOoEVmipzi_N_0a6OFTgR3d113QVekzVBux1naZ5zPnZJMc0DZS1ZNCPhBt7HlcQS4FO2dM01OeRwe0%3D&sa=X&ved=2ahUKEwiz3oCB5eSWAxU6QEEAHU5lBOcQmxN6BAgrEAI"
+   },
+   {
+    "text": "Public high school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Public+high+school&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yXuVwxdgcNbksDtbCZOybZH8-MFK1R_MJlq7Fmlx-bCemVeVc8L-Ox0CP8GEz_yCkv0qAfln01zqTNwSclt8g5KDDZ342ZT1yYPwO47QWoTAupfQV7P7YRECwQQ4y4dbGV1KQShKbiKaCujOzs9umSc5TWsHckFFdKx6EKzNVFhiciBqwA-oS-6zVxVR1wOlxE0_6W7EsgKdDPWSSCdtH3MJuxgeuS-o29zuKPB11_FzzA8TSU1uSIOXfA19vy-UGoNG6Xs%3D&sa=X&ved=2ahUKEwiz3oCB5eSWAxU6QEEAHU5lBOcQmxN6BAgrEAM"
+   }
+  ],
+  "phone": "(512) 570-1000",
+  "raw_hours": "Open \u00b7 Closes 4 PM",
+  "hours": {
+   "thursday": {
+    "opens": "7:30\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "friday": {
+    "opens": "7:30\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "7:30\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "tuesday": {
+    "opens": "7:30\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "wednesday": {
+    "opens": "7:30\u202fAM",
+    "closes": "4\u202fPM"
+   }
+  },
+  "unclaimed_listing": true,
+  "people_also_search_for": [
+   {
+    "name": "Rouse High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkKGgUdSU0kJ2nOosVL2yLTarSKdeZ6QIsLJQbcXPdkCqO_-8dGF9CR0jDrIbWm-luc9k1n7i9y2zhVUWZA7AMSMVXPF0JADjVPfA25TC_HEdmWfcqneCszN7tZKMil-vrCcfm0=w204-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW675YFa8_yCaw4Y1Lc0lWrDtbCMoFb6RUF3ot2gvFA27sruCCtn9NRzaUplC7f0W6CiHW_unZayxEDN0sqwUK7gyTjukh9CGTf3S3ovHzQLRPpwFb0qreR4OPoQThdgPgKLSTdemK_7FL7XzPY0UO37gW9iprvDc5cnHUgXXG-PC7BL5-bHqbw3aiVZm6NYIgRGye_-dEt4vpNGJA2d13BPx16XwLvyrYt8rCEQ2fLCTT5PxEsKr9VGiNrck_H_VoVImvgM1M%3D&q=Rouse+High+School&sa=X&ved=2ahUKEwiz3oCB5eSWAxU6QEEAHU5lBOcQs9oBKAB6BAgfEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Rouse+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW675YFa8_yCaw4Y1Lc0lWrDtbCMoFb6RUF3ot2gvFA27sruCCtn9NRzaUplC7f0W6CiHW_unZayxEDN0sqwUK7gyTjukh9CGTf3S3ovHzQLRPpwFb0qreR4OPoQThdgPgKLSTdemK_7FL7XzPY0UO37gW9iprvDc5cnHUgXXG-PC7BL5-bHqbw3aiVZm6NYIgRGye_-dEt4vpNGJA2d13BPx16XwLvyrYt8rCEQ2fLCTT5PxEsKr9VGiNrck_H_VoVImvgM1M%3D"
+   },
+   {
+    "name": "Cedar Park High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlfK5jQh5BrBXbRR_3YwDySi04cftbDqsux8bxv8u8mgM7mJHnfS0x6XQtiG-S-O3zGsg73IjQagLHSdRD19he0IqVI1cJu2fchkNvkbZ27K8DJAgApWoZuNABYqLe7QM1A_mqRQg=w119-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ycYTZyaRk_yuV1nzNFCpWmef9e_WpdbHOHuagmvC8AVh7ITLxIeLpUX0rLg6dmWWZRASOhks9Aw4XM-Xta6XTAp1O22dqlPQD8_34D0GvO5CzI_GIaRYMpTb-Cj0f6Jtf14RqGb1umIULBFbOMGJSo6MwPgH9kFAK1QvKBuiEBOPkQlLMlfRzoX2YqyfPeW0kjb4I9OAz1S68OFNqQWDhDhpYe9AU5o4bbavl6cQNdfpLTChWTUFR7WRXtnjzADTnpDn0cF4SkL070_IwoG5myRItX91&q=Cedar+Park+High+School&sa=X&ved=2ahUKEwiz3oCB5eSWAxU6QEEAHU5lBOcQs9oBKAB6BAgfEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Cedar+Park+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ycYTZyaRk_yuV1nzNFCpWmef9e_WpdbHOHuagmvC8AVh7ITLxIeLpUX0rLg6dmWWZRASOhks9Aw4XM-Xta6XTAp1O22dqlPQD8_34D0GvO5CzI_GIaRYMpTb-Cj0f6Jtf14RqGb1umIULBFbOMGJSo6MwPgH9kFAK1QvKBuiEBOPkQlLMlfRzoX2YqyfPeW0kjb4I9OAz1S68OFNqQWDhDhpYe9AU5o4bbavl6cQNdfpLTChWTUFR7WRXtnjzADTnpDn0cF4SkL070_IwoG5myRItX91"
+   },
+   {
+    "name": "Glenn High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnA8h-3WGqCCoaQ9-hXu0DfCWaFynd72IS1TBzmnCV_OYdnHXDR_fTWr745IvC8uHDzcY3LcCPfcOqRaWWdLy4sjYMCeLgFCxZ8MODw5a-RFXvOWhqmVMKuv-vn71Cm1-foL0bl=w153-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0be3_WdiLvhDhOranOSJsDqJeONkV_smd4YEpxc_YjNxUD_gpLNO9OLJA62I9WPnPY1tIeni5zH0q-N1I3y5BdwTQHgTeGFdrxtKfqZAKN-EBJBbS_PJRP77yh90vVulx42M5IET-Ze4UKoXee3oDYWWuS3Xuh2bKvxynzAg8BTJaK7FpwNhxV7PyuoPciACBptlPiLFauY79O6ksP0XVK-r8GJfA1GZ7D7X_yZogqeAb73nLWGaE02shkemp4547Rp87IG6TOhE7Kzl7tpbt-vkDceC&q=Glenn+High+School&sa=X&ved=2ahUKEwiz3oCB5eSWAxU6QEEAHU5lBOcQs9oBKAB6BAgfEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Glenn+High+School&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0be3_WdiLvhDhOranOSJsDqJeONkV_smd4YEpxc_YjNxUD_gpLNO9OLJA62I9WPnPY1tIeni5zH0q-N1I3y5BdwTQHgTeGFdrxtKfqZAKN-EBJBbS_PJRP77yh90vVulx42M5IET-Ze4UKoXee3oDYWWuS3Xuh2bKvxynzAg8BTJaK7FpwNhxV7PyuoPciACBptlPiLFauY79O6ksP0XVK-r8GJfA1GZ7D7X_yZogqeAb73nLWGaE02shkemp4547Rp87IG6TOhE7Kzl7tpbt-vkDceC"
+   },
+   {
+    "name": "Vista",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmLiJZKFlFGPHWARXaw1g811TzkRZhvlHe2MS27XL8ZCldP8sjKPxoQUS96RIYhTYLcArFUXSiIazKjIvwHjRMBoIwgJM-OF106kpuC8iFn-PQeFaELRl5EPn1fsfwhGaPikEQQ=w153-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yW2kNQOEpy6YggcT4owe0B5eeTC1ZW-aOhYk7o569wRel9K42r280uNDmfwGZ___RhZYdJK-GbcdI4DVTt2sbCsjMO8_QMjHfMLV0kyrEAlNE9mD_IQihHa-tTDG5XAh0THSc8oy-S6pv6-ruP3UEiU9ESCbSZe3Pq4JSSIG8cuL4IP8v9wC2AVB1FWQKmj59vygvQSHN-9IIp_8dqs9Fmo382aZeidKywy4NmoBcCvc5VL-miT7OjQA-m-l6QPD41_dtwU879qXN7NwGapPcyrfEI5y&q=Vista+Ridge+High+School&sa=X&ved=2ahUKEwiz3oCB5eSWAxU6QEEAHU5lBOcQs9oBKAB6BAgfEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Vista+Ridge+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yW2kNQOEpy6YggcT4owe0B5eeTC1ZW-aOhYk7o569wRel9K42r280uNDmfwGZ___RhZYdJK-GbcdI4DVTt2sbCsjMO8_QMjHfMLV0kyrEAlNE9mD_IQihHa-tTDG5XAh0THSc8oy-S6pv6-ruP3UEiU9ESCbSZe3Pq4JSSIG8cuL4IP8v9wC2AVB1FWQKmj59vygvQSHN-9IIp_8dqs9Fmo382aZeidKywy4NmoBcCvc5VL-miT7OjQA-m-l6QPD41_dtwU879qXN7NwGapPcyrfEI5y"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Leander+High+School&stick=H4sIAAAAAAAAAONgFuLUz9U3MDM3zMlQQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iFfZJTcxLSS1S8MhMz1AITs7Iz8_Zwcp4i02S4Y1DRWAuX1PnknDDQ6zaizZHJAXbpId9Pw4AuByDVnkAAAA&sa=X&ved=2ahUKEwiz3oCB5eSWAxU6QEEAHU5lBOcQzO0BKAR6BAgfEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLUz9U3MDM3zMlQQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iFfZJTcxLSS1S8MhMz1AITs7Iz8_Zwcp4i02S4Y1DRWAuX1PnknDDQ6zaizZHJAXbpId9Pw4AuByDVnkAAAA",
+  "profiles": [
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/leanderbasketball",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Leander+High+School%22+Texas",
+    "image": "https://serpapi.com/searches/6aa30a9306ca7f196024f076/images/gBlHAVEttCm8prVslxTlljqOygdOEab3CV6ezArZYm93JbEQAca1E3NKdcB1Oujy.png"
+   },
+   {
+    "name": "X (Twitter)",
+    "link": "https://twitter.com/LeanderHS",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Leander+High+School%22+Texas",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAABhUlEQVR4AczOA6xcARCF4X_us23btuLUQR3WZlhbQW3bto2gtm3b2J3GN4tY74uHh3okOi42Nj4AAUDwTvDEhisABCOAEAzYTBh0bN-lc5d0QgAhHPqX4Y4pkd367Zc-xMcXCPDg8TPwxeQH724Uj9N95GJ4pnHxby1xgCmV3v-GsFb7k0Iee7UjaQgmIYe9v9O4-wUKWaATyMPAViwvr1NnOQWDdTV5CHYSaKWLmaGDyvU4mTgQcllracaFr-9uk-yLM8k8fAJff0IUTghRVFu3M1ynkYk4nchiqqU3Ry05RDibMMhjtj6Ht3dJxVk_l1G64cspOusychBsCWm01WNM0jFs0sbEYUtIIuTXNco588OLh09JxE6wweuXEAvfL9PQus3-iU80N34KCaQyUOcxTTuSjEmMRI5rS9JwIZfD1t7ceo34YIpnuQ4nGwP8XXlq_fJZd9jE8KBHC5IwAELJ7dWrZ6fOuNhkgFgAEEIAwA1MQkw0AgDC_wnKycrKSQ2iPAkAVyNzq8rxicIAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/leanderhscheer/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Leander+High+School%22+Texas",
+    "image": "https://serpapi.com/searches/6aa30a9306ca7f196024f076/images/gBlHAVEttCm8prVslxTllg5y3Dt-GAblsStsLe2qhO9qUSl3zTgTMftGhITlXecH.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "What is Leander High School's ranking in Texas?",
+   "type": "ai_overview",
+   "page_token": "XQQrDHicHdBRToMwAIDheBkfHRQ3kyWLWTe6BQdKSwv0xdB2WweF1o2I7M0reAZP5Wk0XuD_kv_z25y65ufmS_e9u8wnk2EY7o7WHs3-Ttp2Ul3GTk5kZYyoZDOfPcz8x4NchO8Srs4SptQ5tsYeyTEUNXcVQI0oEq4KbkvfPWW19uLAbXngQFYvR97akTVTFiOm483RT9oIqpaZ0kM4reG0JH5fGYef1-zAM8glSmKcs5jUqs4KPQqvfxGd2shNtBJedGIUXXbF0sPUeRQlkPkm5b7TOzrVSahnBCBfNk1fZjogWwuYMYQgPs07fOV_Zk5xw0L11-TDLlOQIwWet2pXXHmy7yIngAQ0gE6so4oYtxIo6kKtzipAb2XBU0LVKCmyZWPSfZd80I7BBNpTSvFV1qZlCJaiNrHITUgRe8qMBKnHQcaW9yLgJEcm4MPtQb4vgtv_14vXQ9vP3dkefwFMI4zU",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=XQQrDHicHdBRToMwAIDheBkfHRQ3kyWLWTe6BQdKSwv0xdB2WweF1o2I7M0reAZP5Wk0XuD_kv_z25y65ufmS_e9u8wnk2EY7o7WHs3-Ttp2Ul3GTk5kZYyoZDOfPcz8x4NchO8Srs4SptQ5tsYeyTEUNXcVQI0oEq4KbkvfPWW19uLAbXngQFYvR97akTVTFiOm483RT9oIqpaZ0kM4reG0JH5fGYef1-zAM8glSmKcs5jUqs4KPQqvfxGd2shNtBJedGIUXXbF0sPUeRQlkPkm5b7TOzrVSahnBCBfNk1fZjogWwuYMYQgPs07fOV_Zk5xw0L11-TDLlOQIwWet2pXXHmy7yIngAQ0gE6so4oYtxIo6kKtzipAb2XBU0LVKCmyZWPSfZd80I7BBNpTSvFV1qZlCJaiNrHITUgRe8qMBKnHQcaW9yLgJEcm4MPtQb4vgtv_14vXQ9vP3dkefwFMI4zU",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1qVlhOa3RtYTFsMWVESndWM2Q0ZGpkb05qRlVVVjlYWVdvemRtSjZXVVZ4VUdWRVdUUkpTM0Y1WlY5UVQwUm5XbmhaVkRSeGRYRkZZVlZqY1dOdlMzcHFPRWg0Ym1SWFptZHBiMGR0YzA5YWVrbGtTMko0U1RGdlp4SVhhM2R4YW1GMlVFbEhjbkZCYUdKSlVIcHpjVkoxUVRRYUlrRkVjM0k1WmxSblJESkhVM0JoUlVaR2NXTjNPRkZ1ZFVacVdqSnRaME5zWkdjIiwiZmN2IjoiMyIsImVpIjoia3dxamF2UElHcnFBaGJJUHpzcVJ1QTQiLCJxYyI6IkNobHNaV0Z1WkdWeUlHaHBaMmdnYzJOb2IyOXNJSFJsZUdGekVBQjlvcGM2UHciLCJxdWVzdGlvbiI6IldoYXQgaXMgTGVhbmRlciBIaWdoIFNjaG9vbCdzIHJhbmtpbmcgaW4gVGV4YXM/IiwibGsiOiJHaVJzWldGdVpHVnlJR2hwWjJnZ2MyTm9iMjlzSUhKaGJtdHBibWNnYVc0Z2RHVjRZWE0iLCJicyI6ImMyMlBQUXZDTUJSRmNjM2tLRUhLUTBSUkMwTC1RQnd0dUZuUWpnOGJtMkJOSUlsWV83MnBIeVZVcHplOHc3M25rb0tzRHhJOUtBYzdnYm9VRnJhcWtyQV9TV1BxdVFPTC1xSjBCVXBETGhwMG5NM290UDZnc2tYZEM0MUIzNEprUTVLc1MwMGhQd0xDWFdEdDVRUFFDdVFzb2VQUS13M3pUUThnQlZsbWY3MENXQmxUeHYyY3JlZ2lTb3ZWZnVrZ04tbnRUdF83NEl4WGN3dkhXTTRvSFhWMnZlZHc4QVEiLCJpZCI6ImZjX2t3cWphdlBJR3JxQWhiSVB6c3FSdUE0XzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1qVlhOa3RtYTFsMWVESndWM2Q0ZGpkb05qRlVVVjlYWVdvemRtSjZXVVZ4VUdWRVdUUkpTM0Y1WlY5UVQwUm5XbmhaVkRSeGRYRkZZVlZqY1dOdlMzcHFPRWg0Ym1SWFptZHBiMGR0YzA5YWVrbGtTMko0U1RGdlp4SVhhM2R4YW1GMlVFbEhjbkZCYUdKSlVIcHpjVkoxUVRRYUlrRkVjM0k1WmxSblJESkhVM0JoUlVaR2NXTjNPRkZ1ZFVacVdqSnRaME5zWkdjIiwiZmN2IjoiMyIsImVpIjoia3dxamF2UElHcnFBaGJJUHpzcVJ1QTQiLCJxYyI6IkNobHNaV0Z1WkdWeUlHaHBaMmdnYzJOb2IyOXNJSFJsZUdGekVBQjlvcGM2UHciLCJxdWVzdGlvbiI6IldoYXQgaXMgTGVhbmRlciBIaWdoIFNjaG9vbCdzIHJhbmtpbmcgaW4gVGV4YXM%2FIiwibGsiOiJHaVJzWldGdVpHVnlJR2hwWjJnZ2MyTm9iMjlzSUhKaGJtdHBibWNnYVc0Z2RHVjRZWE0iLCJicyI6ImMyMlBQUXZDTUJSRmNjM2tLRUhLUTBSUkMwTC1RQnd0dUZuUWpnOGJtMkJOSUlsWV83MnBIeVZVcHplOHc3M25rb0tzRHhJOUtBYzdnYm9VRnJhcWtyQV9TV1BxdVFPTC1xSjBCVXBETGhwMG5NM290UDZnc2tYZEM0MUIzNEprUTVLc1MwMGhQd0xDWFdEdDVRUFFDdVFzb2VQUS13M3pUUThnQlZsbWY3MENXQmxUeHYyY3JlZ2lTb3ZWZnVrZ04tbnRUdF83NEl4WGN3dkhXTTRvSFhWMnZlZHc4QVEiLCJpZCI6ImZjX2t3cWphdlBJR3JxQWhiSVB6c3FSdUE0XzUifQ%3D%3D"
+  },
+  {
+   "question": "Is Leander, TX a wealthy area?",
+   "type": "ai_overview",
+   "page_token": "SieW-nicHdBRTsIwHIDxeBkfpWWCSkJM5toBGcV1a-d8MeXfwXDtVmC6jTfv4qk8jcYTfPl9X9_mUFc_V59l27rzbDTquu5m3zR7U9xAY0fqPNQwAmXMVkE1m95N8eMO5uRj6T8dl34snJMBR2koWZTyUmTGiVoGLLy_VSH9KCzpN2TyHKMVF2alNoHM1Us1SMQn2cK4ZOwSbskYKI1z-1AWpLnNJD8q64I8hTatzVhRP9KXZQek6bmh77zCpAjXk_zlNdoinDJDx4B0pENcCwITLfmT9LRdSxMkppwm9QpDhXcbqRfJgpYwYLMJH05goWWUtNoiFGVMrIks-WUVatF7pNQn7dHjXyNOhB5A0CavTFzUrP_z-cxvDrHgF3g3Voh-SDFTEp075hGUCM7TwO905pLtAUdb23u6u97B59y7_v85f9vZduZOzf4X2gWDmg",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=SieW-nicHdBRTsIwHIDxeBkfpWWCSkJM5toBGcV1a-d8MeXfwXDtVmC6jTfv4qk8jcYTfPl9X9_mUFc_V59l27rzbDTquu5m3zR7U9xAY0fqPNQwAmXMVkE1m95N8eMO5uRj6T8dl34snJMBR2koWZTyUmTGiVoGLLy_VSH9KCzpN2TyHKMVF2alNoHM1Us1SMQn2cK4ZOwSbskYKI1z-1AWpLnNJD8q64I8hTatzVhRP9KXZQek6bmh77zCpAjXk_zlNdoinDJDx4B0pENcCwITLfmT9LRdSxMkppwm9QpDhXcbqRfJgpYwYLMJH05goWWUtNoiFGVMrIks-WUVatF7pNQn7dHjXyNOhB5A0CavTFzUrP_z-cxvDrHgF3g3Voh-SDFTEp075hGUCM7TwO905pLtAUdb23u6u97B59y7_v85f9vZduZOzf4X2gWDmg",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1qVlhOa3RtYTFsMWVESndWM2Q0ZGpkb05qRlVVVjlYWVdvemRtSjZXVVZ4VUdWRVdUUkpTM0Y1WlY5UVQwUm5XbmhaVkRSeGRYRkZZVlZqY1dOdlMzcHFPRWg0Ym1SWFptZHBiMGR0YzA5YWVrbGtTMko0U1RGdlp4SVhhM2R4YW1GMlVFbEhjbkZCYUdKSlVIcHpjVkoxUVRRYUlrRkVjM0k1WmxSblJESkhVM0JoUlVaR2NXTjNPRkZ1ZFVacVdqSnRaME5zWkdjIiwiZmN2IjoiMyIsImVpIjoia3dxamF2UElHcnFBaGJJUHpzcVJ1QTQiLCJxYyI6IkNobHNaV0Z1WkdWeUlHaHBaMmdnYzJOb2IyOXNJSFJsZUdGekVBQjlvcGM2UHciLCJxdWVzdGlvbiI6IklzIExlYW5kZXIsIFRYIGEgd2VhbHRoeSBhcmVhPyIsImxrIjoiR2h4cGN5QnNaV0Z1WkdWeUlIUjRJR0VnZDJWaGJIUm9lU0JoY21WaCIsImJzIjoiYzIyUFBRdkNNQlJGY2Mza0tFSEtRMFJSQzBMLVFCd3R1Rm5Ramc4Ym0yQk5JSWxZXzcycEh5VlVwemU4dzczbmtvS3NEeEk5S0FjN2dib1VGcmFxa3JBX1NXUHF1UU9MLXFKMEJVcERMaHAwbk0zb3RQNmdza1hkQzQxQjM0SmtRNUtzUzAwaFB3TENYV0R0NVFQUUN1UXNvZVBRLXczelRROGdCVmxtZjcwQ1dCbFR4djJjcmVnaVNvdlZmdWtnTi1udFR0Xzc0SXhYY3d2SFdNNG9IWFYydmVkdzhBUSIsImlkIjoiZmNfa3dxamF2UElHcnFBaGJJUHpzcVJ1QTRfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1qVlhOa3RtYTFsMWVESndWM2Q0ZGpkb05qRlVVVjlYWVdvemRtSjZXVVZ4VUdWRVdUUkpTM0Y1WlY5UVQwUm5XbmhaVkRSeGRYRkZZVlZqY1dOdlMzcHFPRWg0Ym1SWFptZHBiMGR0YzA5YWVrbGtTMko0U1RGdlp4SVhhM2R4YW1GMlVFbEhjbkZCYUdKSlVIcHpjVkoxUVRRYUlrRkVjM0k1WmxSblJESkhVM0JoUlVaR2NXTjNPRkZ1ZFVacVdqSnRaME5zWkdjIiwiZmN2IjoiMyIsImVpIjoia3dxamF2UElHcnFBaGJJUHpzcVJ1QTQiLCJxYyI6IkNobHNaV0Z1WkdWeUlHaHBaMmdnYzJOb2IyOXNJSFJsZUdGekVBQjlvcGM2UHciLCJxdWVzdGlvbiI6IklzIExlYW5kZXIsIFRYIGEgd2VhbHRoeSBhcmVhPyIsImxrIjoiR2h4cGN5QnNaV0Z1WkdWeUlIUjRJR0VnZDJWaGJIUm9lU0JoY21WaCIsImJzIjoiYzIyUFBRdkNNQlJGY2Mza0tFSEtRMFJSQzBMLVFCd3R1Rm5Ramc4Ym0yQk5JSWxZXzcycEh5VlVwemU4dzczbmtvS3NEeEk5S0FjN2dib1VGcmFxa3JBX1NXUHF1UU9MLXFKMEJVcERMaHAwbk0zb3RQNmdza1hkQzQxQjM0SmtRNUtzUzAwaFB3TENYV0R0NVFQUUN1UXNvZVBRLXczelRROGdCVmxtZjcwQ1dCbFR4djJjcmVnaVNvdlZmdWtnTi1udFR0Xzc0SXhYY3d2SFdNNG9IWFYydmVkdzhBUSIsImlkIjoiZmNfa3dxamF2UElHcnFBaGJJUHpzcVJ1QTRfNSJ9"
+  },
+  {
+   "question": "Is Leander High School a good high school?",
+   "type": "ai_overview",
+   "page_token": "NugYIXicHdDbboIwAIDh7GW8lAKLmyZmCQICURwttKU3S21VlHJQkdPd3mVPtaeZ2RP8-f7vH3Uu89-XNmua-r7QtK7rpqeqOqnDVFSFxu9DKTTBldpzkS9mbzP94yiWzsO3VlffipK6xjYEiMxjkocRcVkWkV7x3GkwkUgo6PHRH0gy58jOMmr0XqyzgBs1kgb-hAC3sdEDNkqXG5Aw22qhMR_Ruq9xCQuUv4NYz1puNCt5UWfmhVZqZreQBA0HvZ9gxhGIRmEHozCDYOcqZ58zfUdZEHtwtaH4QQfwugXsMwXNBrvYRhd5IwRut-uq22A5w64YQgzRs_fgXpjuaQCdTN6k6V5TyiKUyEEkbpXmKjqUYZ-U2Aqt6hwlcBQXVTz9iHjMwKAOiUp0rmPKYznGlHmRbnnSaQDrJkfRLs3J_8_l17FoFvWtOv0Bh8qDtw",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=NugYIXicHdDbboIwAIDh7GW8lAKLmyZmCQICURwttKU3S21VlHJQkdPd3mVPtaeZ2RP8-f7vH3Uu89-XNmua-r7QtK7rpqeqOqnDVFSFxu9DKTTBldpzkS9mbzP94yiWzsO3VlffipK6xjYEiMxjkocRcVkWkV7x3GkwkUgo6PHRH0gy58jOMmr0XqyzgBs1kgb-hAC3sdEDNkqXG5Aw22qhMR_Ruq9xCQuUv4NYz1puNCt5UWfmhVZqZreQBA0HvZ9gxhGIRmEHozCDYOcqZ58zfUdZEHtwtaH4QQfwugXsMwXNBrvYRhd5IwRut-uq22A5w64YQgzRs_fgXpjuaQCdTN6k6V5TyiKUyEEkbpXmKjqUYZ-U2Aqt6hwlcBQXVTz9iHjMwKAOiUp0rmPKYznGlHmRbnnSaQDrJkfRLs3J_8_l17FoFvWtOv0Bh8qDtw",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1qVlhOa3RtYTFsMWVESndWM2Q0ZGpkb05qRlVVVjlYWVdvemRtSjZXVVZ4VUdWRVdUUkpTM0Y1WlY5UVQwUm5XbmhaVkRSeGRYRkZZVlZqY1dOdlMzcHFPRWg0Ym1SWFptZHBiMGR0YzA5YWVrbGtTMko0U1RGdlp4SVhhM2R4YW1GMlVFbEhjbkZCYUdKSlVIcHpjVkoxUVRRYUlrRkVjM0k1WmxSblJESkhVM0JoUlVaR2NXTjNPRkZ1ZFVacVdqSnRaME5zWkdjIiwiZmN2IjoiMyIsImVpIjoia3dxamF2UElHcnFBaGJJUHpzcVJ1QTQiLCJxYyI6IkNobHNaV0Z1WkdWeUlHaHBaMmdnYzJOb2IyOXNJSFJsZUdGekVBQjlvcGM2UHciLCJxdWVzdGlvbiI6IklzIExlYW5kZXIgSGlnaCBTY2hvb2wgYSBnb29kIGhpZ2ggc2Nob29sPyIsImxrIjoiYzVQU3pDeFd5RWxOekV0SkxWTEl5RXpQVUNoT3pzalB6MUZJVkVqUHowOUJGZ0lBIiwiYnMiOiJjMjJQUFF2Q01CUkZjYzNrS0VIS1EwUlJDMEwtUUJ3dHVGblFqZzhibTJCTklJbFlfNzJwSHlWVXB6ZTh3NzNua29Lc0R4STlLQWM3Z2JvVUZyYXFrckFfU1dQcXVRT0wtcUowQlVwRExocDBuTTNvdFA2Z3NrWGRDNDFCMzRKa1E1S3NTMDBoUHdMQ1hXRHQ1UVBRQ3VRc29lUFEtdzN6VFE4Z0JWbG1mNzBDV0JsVHh2MmNyZWdpU292VmZ1a2dOLW50VHRfNzRJeFhjd3ZIV000b0hYVjJ2ZWR3OEFRIiwiaWQiOiJmY19rd3FqYXZQSUdycUFoYklQenNxUnVBNF81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1qVlhOa3RtYTFsMWVESndWM2Q0ZGpkb05qRlVVVjlYWVdvemRtSjZXVVZ4VUdWRVdUUkpTM0Y1WlY5UVQwUm5XbmhaVkRSeGRYRkZZVlZqY1dOdlMzcHFPRWg0Ym1SWFptZHBiMGR0YzA5YWVrbGtTMko0U1RGdlp4SVhhM2R4YW1GMlVFbEhjbkZCYUdKSlVIcHpjVkoxUVRRYUlrRkVjM0k1WmxSblJESkhVM0JoUlVaR2NXTjNPRkZ1ZFVacVdqSnRaME5zWkdjIiwiZmN2IjoiMyIsImVpIjoia3dxamF2UElHcnFBaGJJUHpzcVJ1QTQiLCJxYyI6IkNobHNaV0Z1WkdWeUlHaHBaMmdnYzJOb2IyOXNJSFJsZUdGekVBQjlvcGM2UHciLCJxdWVzdGlvbiI6IklzIExlYW5kZXIgSGlnaCBTY2hvb2wgYSBnb29kIGhpZ2ggc2Nob29sPyIsImxrIjoiYzVQU3pDeFd5RWxOekV0SkxWTEl5RXpQVUNoT3pzalB6MUZJVkVqUHowOUJGZ0lBIiwiYnMiOiJjMjJQUFF2Q01CUkZjYzNrS0VIS1EwUlJDMEwtUUJ3dHVGblFqZzhibTJCTklJbFlfNzJwSHlWVXB6ZTh3NzNua29Lc0R4STlLQWM3Z2JvVUZyYXFrckFfU1dQcXVRT0wtcUowQlVwRExocDBuTTNvdFA2Z3NrWGRDNDFCMzRKa1E1S3NTMDBoUHdMQ1hXRHQ1UVBRQ3VRc29lUFEtdzN6VFE4Z0JWbG1mNzBDV0JsVHh2MmNyZWdpU292VmZ1a2dOLW50VHRfNzRJeFhjd3ZIV000b0hYVjJ2ZWR3OEFRIiwiaWQiOiJmY19rd3FqYXZQSUdycUFoYklQenNxUnVBNF81In0%3D"
+  },
+  {
+   "question": "What is Leander, Texas famous for?",
+   "type": "ai_overview",
+   "page_token": "okxJFHicHdBdbpswAABg7TJ9bGwo3RYpmkSBQhQ82fgH8jI5dggB_9CGFsjb7rJT7TST9h3h-_3HXN3w98tnN03jbbvZzPP8ePH-Ys6PytuNvK1ObZQ05iTVsH3--gx_tGqXfhTxy1sRYzaOPCGgCmAuevRT1ag8s2wS9hZSwQvtxo68Rq86INGJ8pZUcGigXhjQSZXjJ04J4ynySCzFQaRrY5f4UEFCbQp1sACaFVC6PdHWtLzXo7Y-OsLMl2CaSbD4MtzfNT0aBFkk8i6o8ixhYTxJnlW430MNvtdSoBq5OCjrDuB630prDtKZUAte8wF51XOqQzVVOQKcxgVdIUk7_a7D7K2pj7hielUs881g8NmhhTkeo9hfMSN31RvLhm_3U1JG0umcJvzjPPBSAr2yHIPGsQlfodDzQ6s-d-HD_8_dr9ZO2_HdX_4BUmeDKg",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=okxJFHicHdBdbpswAABg7TJ9bGwo3RYpmkSBQhQ82fgH8jI5dggB_9CGFsjb7rJT7TST9h3h-_3HXN3w98tnN03jbbvZzPP8ePH-Ys6PytuNvK1ObZQ05iTVsH3--gx_tGqXfhTxy1sRYzaOPCGgCmAuevRT1ag8s2wS9hZSwQvtxo68Rq86INGJ8pZUcGigXhjQSZXjJ04J4ynySCzFQaRrY5f4UEFCbQp1sACaFVC6PdHWtLzXo7Y-OsLMl2CaSbD4MtzfNT0aBFkk8i6o8ixhYTxJnlW430MNvtdSoBq5OCjrDuB630prDtKZUAte8wF51XOqQzVVOQKcxgVdIUk7_a7D7K2pj7hielUs881g8NmhhTkeo9hfMSN31RvLhm_3U1JG0umcJvzjPPBSAr2yHIPGsQlfodDzQ6s-d-HD_8_dr9ZO2_HdX_4BUmeDKg",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1qVlhOa3RtYTFsMWVESndWM2Q0ZGpkb05qRlVVVjlYWVdvemRtSjZXVVZ4VUdWRVdUUkpTM0Y1WlY5UVQwUm5XbmhaVkRSeGRYRkZZVlZqY1dOdlMzcHFPRWg0Ym1SWFptZHBiMGR0YzA5YWVrbGtTMko0U1RGdlp4SVhhM2R4YW1GMlVFbEhjbkZCYUdKSlVIcHpjVkoxUVRRYUlrRkVjM0k1WmxSblJESkhVM0JoUlVaR2NXTjNPRkZ1ZFVacVdqSnRaME5zWkdjIiwiZmN2IjoiMyIsImVpIjoia3dxamF2UElHcnFBaGJJUHpzcVJ1QTQiLCJxYyI6IkNobHNaV0Z1WkdWeUlHaHBaMmdnYzJOb2IyOXNJSFJsZUdGekVBQjlvcGM2UHciLCJxdWVzdGlvbiI6IldoYXQgaXMgTGVhbmRlciwgVGV4YXMgZmFtb3VzIGZvcj8iLCJsayI6IkdoaHNaV0Z1WkdWeUlIUmxlR0Z6SUdaaGJXOTFjeUJtYjNJIiwiYnMiOiJjMjJQUFF2Q01CUkZjYzNrS0VIS1EwUlJDMEwtUUJ3dHVGblFqZzhibTJCTklJbFlfNzJwSHlWVXB6ZTh3NzNua29Lc0R4STlLQWM3Z2JvVUZyYXFrckFfU1dQcXVRT0wtcUowQlVwRExocDBuTTNvdFA2Z3NrWGRDNDFCMzRKa1E1S3NTMDBoUHdMQ1hXRHQ1UVBRQ3VRc29lUFEtdzN6VFE4Z0JWbG1mNzBDV0JsVHh2MmNyZWdpU292VmZ1a2dOLW50VHRfNzRJeFhjd3ZIV000b0hYVjJ2ZWR3OEFRIiwiaWQiOiJmY19rd3FqYXZQSUdycUFoYklQenNxUnVBNF81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1qVlhOa3RtYTFsMWVESndWM2Q0ZGpkb05qRlVVVjlYWVdvemRtSjZXVVZ4VUdWRVdUUkpTM0Y1WlY5UVQwUm5XbmhaVkRSeGRYRkZZVlZqY1dOdlMzcHFPRWg0Ym1SWFptZHBiMGR0YzA5YWVrbGtTMko0U1RGdlp4SVhhM2R4YW1GMlVFbEhjbkZCYUdKSlVIcHpjVkoxUVRRYUlrRkVjM0k1WmxSblJESkhVM0JoUlVaR2NXTjNPRkZ1ZFVacVdqSnRaME5zWkdjIiwiZmN2IjoiMyIsImVpIjoia3dxamF2UElHcnFBaGJJUHpzcVJ1QTQiLCJxYyI6IkNobHNaV0Z1WkdWeUlHaHBaMmdnYzJOb2IyOXNJSFJsZUdGekVBQjlvcGM2UHciLCJxdWVzdGlvbiI6IldoYXQgaXMgTGVhbmRlciwgVGV4YXMgZmFtb3VzIGZvcj8iLCJsayI6IkdoaHNaV0Z1WkdWeUlIUmxlR0Z6SUdaaGJXOTFjeUJtYjNJIiwiYnMiOiJjMjJQUFF2Q01CUkZjYzNrS0VIS1EwUlJDMEwtUUJ3dHVGblFqZzhibTJCTklJbFlfNzJwSHlWVXB6ZTh3NzNua29Lc0R4STlLQWM3Z2JvVUZyYXFrckFfU1dQcXVRT0wtcUowQlVwRExocDBuTTNvdFA2Z3NrWGRDNDFCMzRKa1E1S3NTMDBoUHdMQ1hXRHQ1UVBRQ3VRc29lUFEtdzN6VFE4Z0JWbG1mNzBDV0JsVHh2MmNyZWdpU292VmZ1a2dOLW50VHRfNzRJeFhjd3ZIV000b0hYVjJ2ZWR3OEFRIiwiaWQiOiJmY19rd3FqYXZQSUdycUFoYklQenNxUnVBNF81In0%3D"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Leander High School",
+   "link": "https://lhs.leanderisd.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUwHrOzAVdULuXM-NgGijyyldgFqmP-AhyrnfYdVmRPPn2ELKDOXSA49a4nADbanw3wjC89cPwz47dkHPOoan8hT1LgxgHV6BOc89ATOfjCPeV1sJ&ved=2ahUKEwiz3oCB5eSWAxU6QEEAHU5lBOcQFnoECEcQAQ&uoh=1",
+   "displayed_link": "https://lhs.leanderisd.org",
+   "favicon": "https://serpapi.com/searches/6aa30a9306ca7f196024f076/images/vG8cYawTIgnWGw5HnsGJSGZrD8CyXjeaBMnmNSbWl1s.png",
+   "snippet": "Leander High School. 3301 S. Bagdad Rd., Leander, TX 78641. Phone: 512-570-1000 | Fax: 512-570-1005. Report an Accessibility issue \u00b7 Facebook icon. Twitter icon.",
+   "snippet_highlighted_words": [
+    "Leander High School",
+    "TX"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "Directory",
+      "link": "https://lhs.leanderisd.org/directory",
+      "snippet": "Leander High School. 3301 S. Bagdad Rd., Leander, TX ..."
+     },
+     {
+      "title": "Athletics",
+      "link": "https://lhs.leanderisd.org/campus_information/athletics",
+      "snippet": "WElcome to THE Leander High School! Schedules \u00b7 Stadium ..."
+     },
+     {
+      "title": "Calendar",
+      "link": "https://lhs.leanderisd.org/calendar",
+      "snippet": "Leander High School. 3301 S. Bagdad Rd., Leander, TX ..."
+     },
+     {
+      "title": "Campus Info",
+      "link": "https://lhs.leanderisd.org/campus_information",
+      "snippet": "Assessment & Accountability. Accountability Rating \u00b7 Campus ..."
+     },
+     {
+      "title": "Resources",
+      "link": "https://lhs.leanderisd.org/parent_resources",
+      "snippet": "Leander High School. 3301 S. Bagdad Rd., Leander, TX ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Leander High School. 3301 S. Bagdad Rd., Leander, TX 78641. Phone: 512-570-1000 | Fax: 512-570-1005. Report an Accessibility issue \u00b7 Facebook icon. Twitter icon.",
+     "source_info_link": "https://lhs.leanderisd.org/",
+     "icon": "https://serpapi.com/searches/6aa30a9306ca7f196024f076/images/vG8cYawTIgnWGw5HnsGJSEjodYcrBqL_nor6pL_1cj4TFV73BcxNgr-JQM8DmpHO.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESUwHrOzAVdULuXM-NgGijyyldgFqmP-AhyrnfYdVmRPPn2ELKDOXSA49a4nADbanw3wjC89cPwz47dkHPOoan8hT1LgxgHV6BOc89ATOfjCPeV1sJ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESUwHrOzAVdULuXM-NgGijyyldgFqmP-AhyrnfYdVmRPPn2ELKDOXSA49a4nADbanw3wjC89cPwz47dkHPOoan8hT1LgxgHV6BOc89ATOfjCPeV1sJ",
+   "source": "Leander High School"
+  },
+  {
+   "position": 2,
+   "title": "Leander High School",
+   "link": "https://en.wikipedia.org/wiki/Leander_High_School",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVgdpzCfodL3Zwj4vsaCAKwTfZCq7CzmROrDv4ACaWTv72Me066sStT20hL21QW7oYgiIeuR0Qmnsa8YYQNjQxqhOopER4ssfu-QzrEUQ6L6-PXOjAISHqI-M37Lu7zkAL6RDfsQ&ved=2ahUKEwiz3oCB5eSWAxU6QEEAHU5lBOcQFnoECEYQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Leander_High_School",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+   "snippet": "Leander High School is a secondary school in Leander, Texas, United States, and is part of the Leander Independent School District.",
+   "snippet_highlighted_words": [
+    "Leander High School",
+    "Texas"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Leander High School is a secondary school in Leander, Texas, United States, and is part of the Leander Independent School District.",
+     "source_info_link": "https://en.wikipedia.org/wiki/Leander_High_School",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESaQHrOzAVgdpzCfodL3Zwj4vsaCAKwTfZCq7CzmROrDv4ACaWTv72Me066sStT20hL21QW7oYgiIeuR0Qmnsa8YYQNjQxqhOopER4ssfu-QzrEUQ6L6-PXOjAISHqI-M37Lu7zkAL6RDfsQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESaQHrOzAVgdpzCfodL3Zwj4vsaCAKwTfZCq7CzmROrDv4ACaWTv72Me066sStT20hL21QW7oYgiIeuR0Qmnsa8YYQNjQxqhOopER4ssfu-QzrEUQ6L6-PXOjAISHqI-M37Lu7zkAL6RDfsQ",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Leander_High_School#:~:text=Leander%20High%20School%20is%20a,the%20Leander%20Independent%20School%20District."
+  },
+  {
+   "position": 3,
+   "title": "Leander High School",
+   "link": "https://www.usnews.com/education/best-high-schools/texas/districts/leander-independent-school-district/leander-high-school-19429",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESuQEB6zswFbE2nB9_RHC6CLJMsIqgydSwx16wWt70mNv3bwWmWdY76EJaAFi9bO1uotqzxiusGlxQuGGg0uTcSexfJ1pOdptleW3v_NNCgOGgr-LPHDIzd5a-j88NMJa5EpszodZGSlnq65fhWehlYPDFKRgxKAllpzXj_SkOqmjzktmVfmM1MmcdFn547Gcs1AJ0XYlvJKVEiLdhrdj1KOfjrdfUJcOHaMm_jkmVE9FK0EbbOMWVHfC_ng&ved=2ahUKEwiz3oCB5eSWAxU6QEEAHU5lBOcQFnoECGQQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a education \u203a texas \u203a districts",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png",
+   "snippet": "Leander High School is ranked 377th within Texas. Students have the opportunity to take Advanced Placement\u00ae coursework and exams. The AP\u00ae participation rate ...",
+   "snippet_highlighted_words": [
+    "Leander High School",
+    "Texas"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Leander High School is ranked 377th within Texas. Students have the opportunity to take Advanced Placement\u00ae coursework and exams. The AP\u00ae participation rate ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/texas/districts/leander-independent-school-district/leander-high-school-19429",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESuQEB6zswFbE2nB9_RHC6CLJMsIqgydSwx16wWt70mNv3bwWmWdY76EJaAFi9bO1uotqzxiusGlxQuGGg0uTcSexfJ1pOdptleW3v_NNCgOGgr-LPHDIzd5a-j88NMJa5EpszodZGSlnq65fhWehlYPDFKRgxKAllpzXj_SkOqmjzktmVfmM1MmcdFn547Gcs1AJ0XYlvJKVEiLdhrdj1KOfjrdfUJcOHaMm_jkmVE9FK0EbbOMWVHfC_ng&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESuQEB6zswFbE2nB9_RHC6CLJMsIqgydSwx16wWt70mNv3bwWmWdY76EJaAFi9bO1uotqzxiusGlxQuGGg0uTcSexfJ1pOdptleW3v_NNCgOGgr-LPHDIzd5a-j88NMJa5EpszodZGSlnq65fhWehlYPDFKRgxKAllpzXj_SkOqmjzktmVfmM1MmcdFn547Gcs1AJ0XYlvJKVEiLdhrdj1KOfjrdfUJcOHaMm_jkmVE9FK0EbbOMWVHfC_ng",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/texas/districts/leander-independent-school-district/leander-high-school-19429#:~:text=Leander%20High%20School%20is%20ranked,grade%20enrollment%20is%20500%20students."
+  },
+  {
+   "position": 4,
+   "title": "Leander High School",
+   "link": "https://www.facebook.com/LeanderHS/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWwHrOzAVUTo50A3Ny-Vc7OCVUyZZAZEmD_xIMhituFWoZm8CFtDcravh-RF__cPGjvLYXLO3nR1alskuG_dwA6ZWKz2lv6lgdR2-uFXeLuRiWVPcIfvG69rPjVE&ved=2ahUKEwiz3oCB5eSWAxU6QEEAHU5lBOcQFnoECGcQAQ&uoh=1",
+   "displayed_link": "5.8K+ followers",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "snippet": "The Official Leander High School Facebook site, managed by campus administrators. High School. Follow. 3301 S Bagdad Rd, Leander, TX, United States, 78641 ...",
+   "snippet_highlighted_words": [
+    "Leander High School",
+    "TX"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The Official Leander High School Facebook site, managed by campus administrators. High School. Follow. 3301 S Bagdad Rd, Leander, TX, United States, 78641 ...",
+     "source_info_link": "https://www.facebook.com/LeanderHS/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESWwHrOzAVUTo50A3Ny-Vc7OCVUyZZAZEmD_xIMhituFWoZm8CFtDcravh-RF__cPGjvLYXLO3nR1alskuG_dwA6ZWKz2lv6lgdR2-uFXeLuRiWVPcIfvG69rPjVE&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESWwHrOzAVUTo50A3Ny-Vc7OCVUyZZAZEmD_xIMhituFWoZm8CFtDcravh-RF__cPGjvLYXLO3nR1alskuG_dwA6ZWKz2lv6lgdR2-uFXeLuRiWVPcIfvG69rPjVE",
+   "source": "Facebook \u00b7 Leander High School",
+   "read_more_link": "https://www.facebook.com/LeanderHS/#:~:text=The%20Official%20Leander%20High%20School,Leander%2C%20TX%2C%20United%20States%2C%2078641"
+  },
+  {
+   "position": 5,
+   "title": "Schools",
+   "link": "https://www.leanderisd.org/schools/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWwHrOzAVjtkh25h_mv_Dla0z1vngYFwrIQuiXabQNKdotYXJ93-6ASNK8Lxw73JRncH2KILD_puxCcLm80eYph0khE0hfIcObxZ02IbG2kORDhw5_Mwfyqnge-E&ved=2ahUKEwiz3oCB5eSWAxU6QEEAHU5lBOcQFnoECGIQAQ&uoh=1",
+   "displayed_link": "https://www.leanderisd.org \u203a schools",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAVFBMVEVHcEz9uBf_xhD8shn_yA_8txf_yg77sBv0Yiv_zA37rxv9txf9shn_xhH9shn8sRr8sBr_zA38sBr-vRT9tBj8sBr_xxD7sBv9vRT8rxr7sBv_yw0v6x-2AAAAHHRSTlMAG19foJrh4QL__0QRi47e27y5KXb_-fL-Y_-4xgaPEAAAARhJREFUeAGFUwUShDAMxCEpdaX3_39emFOsLM5u4612qOuqjKa9EXT9jWAYy_wEOBUFDJCV-JkDivnSPJNKAxolT4301nkvAmAU3jt7TMYm4xYLgNkuTid7ENBPNHwViAeQ-ODfO0gYSICJXpzfxyH9QgthtZDJ1OLlLj8lrEg5vSwEboWaNw6EiTljJpLOFUFzNr362_Yj_pBe_AtD19RV3XTD37-U_tRj39ZvF1yHF490Zgo0GsGmXZA8EIkkykm8gtylaTBRoKsZeBzSrKhQmF4WAr0cCzU5QwvFaoGTKe1OmqWpWavALiS2F-2OCOHV7ouBMQj6dGBeimoWCHyml0swBFYVgTCVBeNQldF3N4K2KfPH7f8E2v0VRX-3NSkAAAAASUVORK5CYII.png",
+   "snippet": "Leander High School \u00b7 3301 S. Bagdad Rd., Leander, 78641; 512-570-1000; Principal Chris Simpson. Rouse High School \u00b7 1222 Raider Way, Leander, 78641; 512-570- ...",
+   "snippet_highlighted_words": [
+    "Leander High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Leander High School \u00b7 3301 S. Bagdad Rd., Leander, 78641; 512-570-1000; Principal Chris Simpson. Rouse High School \u00b7 1222 Raider Way, Leander, 78641; 512-570- ...",
+     "source_info_link": "https://www.leanderisd.org/schools/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAVFBMVEVHcEz9uBf_xhD8shn_yA_8txf_yg77sBv0Yiv_zA37rxv9txf9shn_xhH9shn8sRr8sBr_zA38sBr-vRT9tBj8sBr_xxD7sBv9vRT8rxr7sBv_yw0v6x-2AAAAHHRSTlMAG19foJrh4QL__0QRi47e27y5KXb_-fL-Y_-4xgaPEAAAARhJREFUeAGFUwUShDAMxCEpdaX3_39emFOsLM5u4612qOuqjKa9EXT9jWAYy_wEOBUFDJCV-JkDivnSPJNKAxolT4301nkvAmAU3jt7TMYm4xYLgNkuTid7ENBPNHwViAeQ-ODfO0gYSICJXpzfxyH9QgthtZDJ1OLlLj8lrEg5vSwEboWaNw6EiTljJpLOFUFzNr362_Yj_pBe_AtD19RV3XTD37-U_tRj39ZvF1yHF490Zgo0GsGmXZA8EIkkykm8gtylaTBRoKsZeBzSrKhQmF4WAr0cCzU5QwvFaoGTKe1OmqWpWavALiS2F-2OCOHV7ouBMQj6dGBeimoWCHyml0swBFYVgTCVBeNQldF3N4K2KfPH7f8E2v0VRX-3NSkAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESWwHrOzAVjtkh25h_mv_Dla0z1vngYFwrIQuiXabQNKdotYXJ93-6ASNK8Lxw73JRncH2KILD_puxCcLm80eYph0khE0hfIcObxZ02IbG2kORDhw5_Mwfyqnge-E&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESWwHrOzAVjtkh25h_mv_Dla0z1vngYFwrIQuiXabQNKdotYXJ93-6ASNK8Lxw73JRncH2KILD_puxCcLm80eYph0khE0hfIcObxZ02IbG2kORDhw5_Mwfyqnge-E",
+   "source": "Leander ISD",
+   "read_more_link": "https://www.leanderisd.org/schools/#:~:text=Leander%20High%20School,512%2D570%2D2000"
+  },
+  {
+   "position": 6,
+   "title": "Leander High School",
+   "link": "https://schools.texastribune.org/districts/leander-isd/leander-high-school/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgwEB6zswFb0oWPrS979n-1ZgG0yQNiisCXGUyH7qMTYzwYIsRfPOB8jJbcN3gkb57-3qa4ugA4sqbK0FIXV1Fz3mfj1-Als5ckbw8B4nVTDRuEAtSrxQqG9K4IqWx6OuRjHML7sGDnEL6G55fe522rWZ_lZpNxWP7fNHtFdbl9eaRzffuw&ved=2ahUKEwiz3oCB5eSWAxU6QEEAHU5lBOcQFnoECGYQAQ&uoh=1",
+   "displayed_link": "https://schools.texastribune.org \u203a districts \u203a leander-isd",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA6UlEQVR4AWJwL_AZUIzCAbRfBjcMgzAAzBIdgQ2YgS-vbMEg3oMVOkH7yLu_LMAcqVVhCVmq2wYcS1Ue94mMfCaWhbfb5JGgjJcECrIp85AE1gMElr8SyEixFPAImAm8ztyni5UAyOe0BbDy5lw6WmDlE01LICEzEmmKIY4nb3rBNdM0VnLXDVDCPdQChvyCtCP5dXQP5B-SF60mLB8SO4q1EcBG1BaAvuvvFwgsfkYc-wZqAkKXt2M5aAksNSa-6w8az1oCiVUtxykInE-yU8BsL8iIH4j7VqDQGqWGIABWyynQNDMRsOAJz6EDhWNyTBIAAAAASUVORK5CYII.png",
+   "snippet": "Leander High School is a school in Leander ISD. The district is located in Williamson County. As of the most recent enrollment data released by the state, ...",
+   "snippet_highlighted_words": [
+    "Leander High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Leander High School is a school in Leander ISD. The district is located in Williamson County. As of the most recent enrollment data released by the state, ...",
+     "source_info_link": "https://schools.texastribune.org/districts/leander-isd/leander-high-school/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA6UlEQVR4AWJwL_AZUIzCAbRfBjcMgzAAzBIdgQ2YgS-vbMEg3oMVOkH7yLu_LMAcqVVhCVmq2wYcS1Ue94mMfCaWhbfb5JGgjJcECrIp85AE1gMElr8SyEixFPAImAm8ztyni5UAyOe0BbDy5lw6WmDlE01LICEzEmmKIY4nb3rBNdM0VnLXDVDCPdQChvyCtCP5dXQP5B-SF60mLB8SO4q1EcBG1BaAvuvvFwgsfkYc-wZqAkKXt2M5aAksNSa-6w8az1oCiVUtxykInE-yU8BsL8iIH4j7VqDQGqWGIABWyynQNDMRsOAJz6EDhWNyTBIAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESgwEB6zswFb0oWPrS979n-1ZgG0yQNiisCXGUyH7qMTYzwYIsRfPOB8jJbcN3gkb57-3qa4ugA4sqbK0FIXV1Fz3mfj1-Als5ckbw8B4nVTDRuEAtSrxQqG9K4IqWx6OuRjHML7sGDnEL6G55fe522rWZ_lZpNxWP7fNHtFdbl9eaRzffuw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESgwEB6zswFb0oWPrS979n-1ZgG0yQNiisCXGUyH7qMTYzwYIsRfPOB8jJbcN3gkb57-3qa4ugA4sqbK0FIXV1Fz3mfj1-Als5ckbw8B4nVTDRuEAtSrxQqG9K4IqWx6OuRjHML7sGDnEL6G55fe522rWZ_lZpNxWP7fNHtFdbl9eaRzffuw",
+   "source": "The Texas Tribune",
+   "read_more_link": "https://schools.texastribune.org/districts/leander-isd/leander-high-school/#:~:text=Leander%20High%20School%20is%20a,white%20and%2028.1%25%20economically%20disadvantaged."
+  },
+  {
+   "position": 7,
+   "title": "Leander High School, Leander, TX",
+   "link": "https://www.har.com/school/246913001/leander-high-school",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHrOzAVZlg-gETSRoEQRYyqVC-mWAyC6yBSYJoyTTJWMQgh2ugszeTb3fbNq9d7urJnm8yENs3HjrNgWZvHDPO6FJxo7jHFEEX_9ZRbf82UGQUkMSyFNv_6iBZAXJEliGy4zgP77pW-Gu3YA4d0GCU&ved=2ahUKEwiz3oCB5eSWAxU6QEEAHU5lBOcQFnoECGMQAQ&uoh=1",
+   "displayed_link": "https://www.har.com \u203a ... \u203a District \u203a Leander ISD",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAWlBMVEVHcEwHOM0HOM0HOM0HOM0HOM0HOM0GOM0IOM4HOM0ANM0ALsxbdtuJneU-XdVuhd99kuIbRdAsUNMAJ8uque3-___g5vn09_3DzfJMatmXqumoOpdWObf_THC7Jm_pAAAACnRSTlMAPI3M5vtf_yTPUBrCFwAAAUFJREFUeAFskQWCxCAMRWtMpgkupdCd-19zA-PycR4SGR4ap3kRYpmncfjUaYG7xHJ6Q-cV3rSeX14U8KnxwT7JCz2LX1BcX14BCYG4cQet6_O12wkolUZjHYIxgM5aazzTZvMCISYTtqRJJp74xMoaYenWNIgMw57STj5vek-Kmk1Th3lL2eu0x1RcznFLkuE0zB1ue86-JlZkmFMMADDzl_c_S85K8Z20lf4nfyrgZq0qSh-H5sGSqYWhaLD7yI3-Lpc_HqhvNLhAF_EW0nG0yRW1Z-crtNWQrMqBirJG3-nMrrBIWW9k9aZapTcjIwFruqUkIoZaiGItoTqK98S0TymW4K0K_gqxQbH0wAMg71ZXa9RWE39cgXW6powpOuQGCA-tL8nG_0ExIrLxJRPcCYyVkXDSxEzU7PBEjTc7AAA5zhwizcfMqgAAAABJRU5ErkJggg.png",
+   "snippet": "Welcome to Leander High School, a cornerstone of educational excellence nestled in the heart of Leander, Texas at 3301 S Bagdad Rd. As a proud member of the ...",
+   "snippet_highlighted_words": [
+    "Leander High School",
+    "Texas"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Welcome to Leander High School, a cornerstone of educational excellence nestled in the heart of Leander, Texas at 3301 S Bagdad Rd. As a proud member of the ...",
+     "source_info_link": "https://www.har.com/school/246913001/leander-high-school",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAWlBMVEVHcEwHOM0HOM0HOM0HOM0HOM0HOM0GOM0IOM4HOM0ANM0ALsxbdtuJneU-XdVuhd99kuIbRdAsUNMAJ8uque3-___g5vn09_3DzfJMatmXqumoOpdWObf_THC7Jm_pAAAACnRSTlMAPI3M5vtf_yTPUBrCFwAAAUFJREFUeAFskQWCxCAMRWtMpgkupdCd-19zA-PycR4SGR4ap3kRYpmncfjUaYG7xHJ6Q-cV3rSeX14U8KnxwT7JCz2LX1BcX14BCYG4cQet6_O12wkolUZjHYIxgM5aazzTZvMCISYTtqRJJp74xMoaYenWNIgMw57STj5vek-Kmk1Th3lL2eu0x1RcznFLkuE0zB1ue86-JlZkmFMMADDzl_c_S85K8Z20lf4nfyrgZq0qSh-H5sGSqYWhaLD7yI3-Lpc_HqhvNLhAF_EW0nG0yRW1Z-crtNWQrMqBirJG3-nMrrBIWW9k9aZapTcjIwFruqUkIoZaiGItoTqK98S0TymW4K0K_gqxQbH0wAMg71ZXa9RWE39cgXW6powpOuQGCA-tL8nG_0ExIrLxJRPcCYyVkXDSxEzU7PBEjTc7AAA5zhwizcfMqgAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEScAHrOzAVZlg-gETSRoEQRYyqVC-mWAyC6yBSYJoyTTJWMQgh2ugszeTb3fbNq9d7urJnm8yENs3HjrNgWZvHDPO6FJxo7jHFEEX_9ZRbf82UGQUkMSyFNv_6iBZAXJEliGy4zgP77pW-Gu3YA4d0GCU&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEScAHrOzAVZlg-gETSRoEQRYyqVC-mWAyC6yBSYJoyTTJWMQgh2ugszeTb3fbNq9d7urJnm8yENs3HjrNgWZvHDPO6FJxo7jHFEEX_9ZRbf82UGQUkMSyFNv_6iBZAXJEliGy4zgP77pW-Gu3YA4d0GCU",
+   "source": "HAR.com",
+   "read_more_link": "https://www.har.com/school/246913001/leander-high-school#:~:text=Welcome%20to%20Leander%20High%20School%2C,a%20proud%20member%20of%20the"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Leander high school texas football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Leander+high+school+texas+football&sa=X&ved=2ahUKEwiz3oCB5eSWAxU6QEEAHU5lBOcQ1QJ6BAhoEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Leander+high+school+texas+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Leander high school texas yearbook",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Leander+high+school+texas+yearbook&sa=X&ved=2ahUKEwiz3oCB5eSWAxU6QEEAHU5lBOcQ1QJ6BAh-EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Leander+high+school+texas+yearbook"
+  },
+  {
+   "block_position": 1,
+   "query": "Leander High School shooting",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Leander+High+School+shooting&sa=X&ved=2ahUKEwiz3oCB5eSWAxU6QEEAHU5lBOcQ1QJ6BAh9EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Leander+High+School+shooting"
+  },
+  {
+   "block_position": 1,
+   "query": "Leander high school texas principal",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Leander+high+school+texas+principal&sa=X&ved=2ahUKEwiz3oCB5eSWAxU6QEEAHU5lBOcQ1QJ6BAh8EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Leander+high+school+texas+principal"
+  },
+  {
+   "block_position": 1,
+   "query": "Leander high school texas famous alumni",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Leander+high+school+texas+famous+alumni&sa=X&ved=2ahUKEwiz3oCB5eSWAxU6QEEAHU5lBOcQ1QJ6BAh7EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Leander+high+school+texas+famous+alumni"
+  },
+  {
+   "block_position": 1,
+   "query": "Leander high school texas baseball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Leander+high+school+texas+baseball&sa=X&ved=2ahUKEwiz3oCB5eSWAxU6QEEAHU5lBOcQ1QJ6BAh1EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Leander+high+school+texas+baseball"
+  },
+  {
+   "block_position": 1,
+   "query": "Leander ISD",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Leander+ISD&sa=X&ved=2ahUKEwiz3oCB5eSWAxU6QEEAHU5lBOcQ1QJ6BAh0EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Leander+ISD"
+  },
+  {
+   "block_position": 1,
+   "query": "Leander high school Website",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Leander+high+school+Website&sa=X&ved=2ahUKEwiz3oCB5eSWAxU6QEEAHU5lBOcQ1QJ6BAhuEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Leander+high+school+Website"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Leander+High+School%22+Texas&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=kwqjavPIGrqAhbIPzsqRuA4&start=10&sa=N&sstk=AS6-VmI9OC8fWzetYDoxEpQphDtNSL7j4wfPnZfOKn5WL7kJ62wxXdhOrsMnkV8BNqu06GijFi7xo6bhnc4kUQRlmWx_ktEqIPg-dQ&ved=2ahUKEwiz3oCB5eSWAxU6QEEAHU5lBOcQ8NMDegQIWRAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Leander+High+School%22+Texas&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=kwqjavPIGrqAhbIPzsqRuA4&start=10&sa=N&sstk=AS6-VmI9OC8fWzetYDoxEpQphDtNSL7j4wfPnZfOKn5WL7kJ62wxXdhOrsMnkV8BNqu06GijFi7xo6bhnc4kUQRlmWx_ktEqIPg-dQ&ved=2ahUKEwiz3oCB5eSWAxU6QEEAHU5lBOcQ8tMDegQIWRAE",
+   "3": "https://www.google.com/search?q=%22Leander+High+School%22+Texas&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=kwqjavPIGrqAhbIPzsqRuA4&start=20&sa=N&sstk=AS6-VmI9OC8fWzetYDoxEpQphDtNSL7j4wfPnZfOKn5WL7kJ62wxXdhOrsMnkV8BNqu06GijFi7xo6bhnc4kUQRlmWx_ktEqIPg-dQ&ved=2ahUKEwiz3oCB5eSWAxU6QEEAHU5lBOcQ8tMDegQIWRAG",
+   "4": "https://www.google.com/search?q=%22Leander+High+School%22+Texas&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=kwqjavPIGrqAhbIPzsqRuA4&start=30&sa=N&sstk=AS6-VmI9OC8fWzetYDoxEpQphDtNSL7j4wfPnZfOKn5WL7kJ62wxXdhOrsMnkV8BNqu06GijFi7xo6bhnc4kUQRlmWx_ktEqIPg-dQ&ved=2ahUKEwiz3oCB5eSWAxU6QEEAHU5lBOcQ8tMDegQIWRAI",
+   "5": "https://www.google.com/search?q=%22Leander+High+School%22+Texas&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=kwqjavPIGrqAhbIPzsqRuA4&start=40&sa=N&sstk=AS6-VmI9OC8fWzetYDoxEpQphDtNSL7j4wfPnZfOKn5WL7kJ62wxXdhOrsMnkV8BNqu06GijFi7xo6bhnc4kUQRlmWx_ktEqIPg-dQ&ved=2ahUKEwiz3oCB5eSWAxU6QEEAHU5lBOcQ8tMDegQIWRAK",
+   "6": "https://www.google.com/search?q=%22Leander+High+School%22+Texas&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=kwqjavPIGrqAhbIPzsqRuA4&start=50&sa=N&sstk=AS6-VmI9OC8fWzetYDoxEpQphDtNSL7j4wfPnZfOKn5WL7kJ62wxXdhOrsMnkV8BNqu06GijFi7xo6bhnc4kUQRlmWx_ktEqIPg-dQ&ved=2ahUKEwiz3oCB5eSWAxU6QEEAHU5lBOcQ8tMDegQIWRAM",
+   "7": "https://www.google.com/search?q=%22Leander+High+School%22+Texas&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=kwqjavPIGrqAhbIPzsqRuA4&start=60&sa=N&sstk=AS6-VmI9OC8fWzetYDoxEpQphDtNSL7j4wfPnZfOKn5WL7kJ62wxXdhOrsMnkV8BNqu06GijFi7xo6bhnc4kUQRlmWx_ktEqIPg-dQ&ved=2ahUKEwiz3oCB5eSWAxU6QEEAHU5lBOcQ8tMDegQIWRAO",
+   "8": "https://www.google.com/search?q=%22Leander+High+School%22+Texas&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=kwqjavPIGrqAhbIPzsqRuA4&start=70&sa=N&sstk=AS6-VmI9OC8fWzetYDoxEpQphDtNSL7j4wfPnZfOKn5WL7kJ62wxXdhOrsMnkV8BNqu06GijFi7xo6bhnc4kUQRlmWx_ktEqIPg-dQ&ved=2ahUKEwiz3oCB5eSWAxU6QEEAHU5lBOcQ8tMDegQIWRAQ",
+   "9": "https://www.google.com/search?q=%22Leander+High+School%22+Texas&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=kwqjavPIGrqAhbIPzsqRuA4&start=80&sa=N&sstk=AS6-VmI9OC8fWzetYDoxEpQphDtNSL7j4wfPnZfOKn5WL7kJ62wxXdhOrsMnkV8BNqu06GijFi7xo6bhnc4kUQRlmWx_ktEqIPg-dQ&ved=2ahUKEwiz3oCB5eSWAxU6QEEAHU5lBOcQ8tMDegQIWRAS",
+   "10": "https://www.google.com/search?q=%22Leander+High+School%22+Texas&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=kwqjavPIGrqAhbIPzsqRuA4&start=90&sa=N&sstk=AS6-VmI9OC8fWzetYDoxEpQphDtNSL7j4wfPnZfOKn5WL7kJ62wxXdhOrsMnkV8BNqu06GijFi7xo6bhnc4kUQRlmWx_ktEqIPg-dQ&ved=2ahUKEwiz3oCB5eSWAxU6QEEAHU5lBOcQ8tMDegQIWRAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Leander+High+School%22+Texas&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Leander+High+School%22+Texas&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Leander+High+School%22+Texas&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Leander+High+School%22+Texas&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Leander+High+School%22+Texas&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Leander+High+School%22+Texas&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Leander+High+School%22+Texas&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Leander+High+School%22+Texas&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Leander+High+School%22+Texas&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Leander+High+School%22+Texas&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Leander+High+School%22+Texas&start=90"
+  }
+ }
+}

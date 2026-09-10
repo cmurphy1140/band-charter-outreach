@@ -1,0 +1,432 @@
+{
+ "search_information": {
+  "query_displayed": "\"Summit High School\"",
+  "total_results": 746000,
+  "time_taken_displayed": 0.38,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "related_questions": [
+  {
+   "question": "What is the wealthiest high school in Utah?",
+   "type": "ai_overview",
+   "page_token": "HHY-FXicHdBRTsIwHIDxeBkfhQ5BJSEmwBpYtKbd2kFfzGiBbf13K1pdtzfv4qk8jcYDfA-_7-sbqsb8XH2W3rv3-WjUdd3NuW3PcLxRrR0V732jRqoAOBTKzGd3M_R4Uov4Y7tcXbZLyp0TazZOa3kSOR1ITJEw5JbvoM-bPRKIMFov-QtOggaN6VAGBtpmggmePXttxCrfJJXayEth0V5GsiUNHrhhtzy_H8Ra7_Ua0kOKfGFlrQFK2ZSBb8iW2a4nOEYS4ekhZuY5VtNiAtkLBi-hnKgoULn7ayM_k_Yh4fihz3elZwPgggdBo-AU4JzUGMmcgUpRr8fhiZjpJC51RY2_7HeJVTGKntJxx2NBZUSyrEJMhrainA2qBstzFHSdOGVppDbujRvVExPo8c_HGuc03iJKr0_qczG5_v-5eD1ZP3dv7fkX4uKGCA",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=HHY-FXicHdBRTsIwHIDxeBkfhQ5BJSEmwBpYtKbd2kFfzGiBbf13K1pdtzfv4qk8jcYDfA-_7-sbqsb8XH2W3rv3-WjUdd3NuW3PcLxRrR0V732jRqoAOBTKzGd3M_R4Uov4Y7tcXbZLyp0TazZOa3kSOR1ITJEw5JbvoM-bPRKIMFov-QtOggaN6VAGBtpmggmePXttxCrfJJXayEth0V5GsiUNHrhhtzy_H8Ra7_Ua0kOKfGFlrQFK2ZSBb8iW2a4nOEYS4ekhZuY5VtNiAtkLBi-hnKgoULn7ayM_k_Yh4fihz3elZwPgggdBo-AU4JzUGMmcgUpRr8fhiZjpJC51RY2_7HeJVTGKntJxx2NBZUSyrEJMhrainA2qBstzFHSdOGVppDbujRvVExPo8c_HGuc03iJKr0_qczG5_v-5eD1ZP3dv7fkX4uKGCA",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmRrTTJNamg2TmxSa2NtaE1Va2Q1UW5GelJsWlBPSG8yUjNwRlpFTlhValpWTTA5VU0wZzBaRGhSY0ZWNVYwSkVTazVTT0dGSVdWcGFjbkphTW05S2FFeFJlR04yUXpCR1dIZE9WRmxzVjBSamQxaExSRWgxTFVWdlFSSVhZa0pMYW1GeVpuQk5kaTB0TUZCRlVHZGpVMDR0VVdjYUlrRkVjM0k1WmxONlUzYzNSbmsyZFhBdGFHdHphV015UVc5SGRIVlpWakZSVWxFIiwiZmN2IjoiMyIsImVpIjoiYkJLamFyZnBNdi0tMFBFUGdjU04tUWciLCJxYyI6IkNoSnpkVzF0YVhRZ2FHbG5hQ0J6WTJodmIyd1FBSDAyVEV3XyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgd2VhbHRoaWVzdCBoaWdoIHNjaG9vbCBpbiBVdGFoPyIsImxrIjoiR2lwM2FHRjBJR2x6SUhSb1pTQjNaV0ZzZEdocFpYTjBJR2hwWjJnZ2MyTm9iMjlzSUdsdUlIVjBZV2ciLCJicyI6ImM0M091dzZDTUJTQTRiaDJjdTUwaE1FYmkzMkJMZ3pvNEVLSWcxTUREZWNZYUllMjl2VUZMd2xSWTl5XzVQX1ptVzFQcUR5UUE0OGFvbGFkUjlMT0ExS0w0R3EwdGdNeVVIbUZVbVI4RV9faVllQ3NZRWx1dFlNeTlEMzVESTRIUUhYVjBGcmJQSzJUSXVIUWpNcmRGWmpMSjJJVlcwMDMwOTE3cjFRR2N0S3RsV0xObF9HbmRZTnRSc3YyTENsc2hEN1VPUExINTB2NlFKNnNrU0xsQzV3bzkwM05aemMiLCJpZCI6ImZjX2JCS2phcmZwTXYtLTBQRVBnY1NOLVFnXzMifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmRrTTJNamg2TmxSa2NtaE1Va2Q1UW5GelJsWlBPSG8yUjNwRlpFTlhValpWTTA5VU0wZzBaRGhSY0ZWNVYwSkVTazVTT0dGSVdWcGFjbkphTW05S2FFeFJlR04yUXpCR1dIZE9WRmxzVjBSamQxaExSRWgxTFVWdlFSSVhZa0pMYW1GeVpuQk5kaTB0TUZCRlVHZGpVMDR0VVdjYUlrRkVjM0k1WmxONlUzYzNSbmsyZFhBdGFHdHphV015UVc5SGRIVlpWakZSVWxFIiwiZmN2IjoiMyIsImVpIjoiYkJLamFyZnBNdi0tMFBFUGdjU04tUWciLCJxYyI6IkNoSnpkVzF0YVhRZ2FHbG5hQ0J6WTJodmIyd1FBSDAyVEV3XyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgd2VhbHRoaWVzdCBoaWdoIHNjaG9vbCBpbiBVdGFoPyIsImxrIjoiR2lwM2FHRjBJR2x6SUhSb1pTQjNaV0ZzZEdocFpYTjBJR2hwWjJnZ2MyTm9iMjlzSUdsdUlIVjBZV2ciLCJicyI6ImM0M091dzZDTUJTQTRiaDJjdTUwaE1FYmkzMkJMZ3pvNEVLSWcxTUREZWNZYUllMjl2VUZMd2xSWTl5XzVQX1ptVzFQcUR5UUE0OGFvbGFkUjlMT0ExS0w0R3EwdGdNeVVIbUZVbVI4RV9faVllQ3NZRWx1dFlNeTlEMzVESTRIUUhYVjBGcmJQSzJUSXVIUWpNcmRGWmpMSjJJVlcwMDMwOTE3cjFRR2N0S3RsV0xObF9HbmRZTnRSc3YyTENsc2hEN1VPUExINTB2NlFKNnNrU0xsQzV3bzkwM05aemMiLCJpZCI6ImZjX2JCS2phcmZwTXYtLTBQRVBnY1NOLVFnXzMifQ%3D%3D"
+  },
+  {
+   "question": "Does Summit, NJ have good schools?",
+   "type": "ai_overview",
+   "page_token": "xAu_tHicHdBRbpswGABg7TJ9bDC0mRQpmsRMSFhI6h_bgF8qaicxtQ1OQ0PC2-6yU_U0lfYd4fv7z7ad-fpx1cPgL4vZbBzHx1Pfn-zhUfZu1lzunZzJxtq3RprF_Occ_TrKZfK5iX-fNzFh3nMMQcFELNMblyHgXWUrWuXDYQ15blD8hu29RjDI0HqOREvoyiiq4rpU52JlmyLVnNAsAeZvdcQrgbMXwnZ7hvn6YBUmdhWJVJeA44BO0ABS4wGLrAj8i3BoIk7VRacnQuOgScZnsTLP-xI0T4c_lItSMRvDu8hzh64yRN1-7beQZh3n5gnSYcO7XVBinYgA3QU2IUQCEq1aYoZzXWVOJijcFsHIEk5EuKO0RSBufUsYTPLdOtbpueA-UFxfSASupHGjXB9tKwslYxM1EIjx4Sivy-jh_-fy9eiGhf_oT9_kpIMQ",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=xAu_tHicHdBRbpswGABg7TJ9bDC0mRQpmsRMSFhI6h_bgF8qaicxtQ1OQ0PC2-6yU_U0lfYd4fv7z7ad-fpx1cPgL4vZbBzHx1Pfn-zhUfZu1lzunZzJxtq3RprF_Occ_TrKZfK5iX-fNzFh3nMMQcFELNMblyHgXWUrWuXDYQ15blD8hu29RjDI0HqOREvoyiiq4rpU52JlmyLVnNAsAeZvdcQrgbMXwnZ7hvn6YBUmdhWJVJeA44BO0ABS4wGLrAj8i3BoIk7VRacnQuOgScZnsTLP-xI0T4c_lItSMRvDu8hzh64yRN1-7beQZh3n5gnSYcO7XVBinYgA3QU2IUQCEq1aYoZzXWVOJijcFsHIEk5EuKO0RSBufUsYTPLdOtbpueA-UFxfSASupHGjXB9tKwslYxM1EIjx4Sivy-jh_-fy9eiGhf_oT9_kpIMQ",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmRrTTJNamg2TmxSa2NtaE1Va2Q1UW5GelJsWlBPSG8yUjNwRlpFTlhValpWTTA5VU0wZzBaRGhSY0ZWNVYwSkVTazVTT0dGSVdWcGFjbkphTW05S2FFeFJlR04yUXpCR1dIZE9WRmxzVjBSamQxaExSRWgxTFVWdlFSSVhZa0pMYW1GeVpuQk5kaTB0TUZCRlVHZGpVMDR0VVdjYUlrRkVjM0k1WmxONlUzYzNSbmsyZFhBdGFHdHphV015UVc5SGRIVlpWakZSVWxFIiwiZmN2IjoiMyIsImVpIjoiYkJLamFyZnBNdi0tMFBFUGdjU04tUWciLCJxYyI6IkNoSnpkVzF0YVhRZ2FHbG5hQ0J6WTJodmIyd1FBSDAyVEV3XyIsInF1ZXN0aW9uIjoiRG9lcyBTdW1taXQsIE5KIGhhdmUgZ29vZCBzY2hvb2xzPyIsImxrIjoiR2lCa2IyVnpJSE4xYlcxcGRDQnVhaUJvWVhabElHZHZiMlFnYzJOb2IyOXNjdyIsImJzIjoiYzQzT3V3NkNNQlNBNGJoMmN1NTBoTUViaTMyQkxnem80RUtJZzFNRERlY1lhSWUyOXZVRkx3bFJZOXlfNVBfWm1XMVBxRHlRQTQ4YW9sYWRSOUxPQTFLTDRHcTB0Z015VUhtRlVtUjhFX19pWWVDc1lFbHV0WU15OUQzNURJNEhRSFhWMEZyYlBLMlRJdUhRak1yZEZaakxKMklWVzAwMzA5MTdyMVFHY3RLdGxXTE5sX0duZFlOdFJzdjJMQ2xzaEQ3VU9QTEg1MHY2UUo2c2tTTGxDNXdvOTAzTlp6YyIsImlkIjoiZmNfYkJLamFyZnBNdi0tMFBFUGdjU04tUWdfMyJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmRrTTJNamg2TmxSa2NtaE1Va2Q1UW5GelJsWlBPSG8yUjNwRlpFTlhValpWTTA5VU0wZzBaRGhSY0ZWNVYwSkVTazVTT0dGSVdWcGFjbkphTW05S2FFeFJlR04yUXpCR1dIZE9WRmxzVjBSamQxaExSRWgxTFVWdlFSSVhZa0pMYW1GeVpuQk5kaTB0TUZCRlVHZGpVMDR0VVdjYUlrRkVjM0k1WmxONlUzYzNSbmsyZFhBdGFHdHphV015UVc5SGRIVlpWakZSVWxFIiwiZmN2IjoiMyIsImVpIjoiYkJLamFyZnBNdi0tMFBFUGdjU04tUWciLCJxYyI6IkNoSnpkVzF0YVhRZ2FHbG5hQ0J6WTJodmIyd1FBSDAyVEV3XyIsInF1ZXN0aW9uIjoiRG9lcyBTdW1taXQsIE5KIGhhdmUgZ29vZCBzY2hvb2xzPyIsImxrIjoiR2lCa2IyVnpJSE4xYlcxcGRDQnVhaUJvWVhabElHZHZiMlFnYzJOb2IyOXNjdyIsImJzIjoiYzQzT3V3NkNNQlNBNGJoMmN1NTBoTUViaTMyQkxnem80RUtJZzFNRERlY1lhSWUyOXZVRkx3bFJZOXlfNVBfWm1XMVBxRHlRQTQ4YW9sYWRSOUxPQTFLTDRHcTB0Z015VUhtRlVtUjhFX19pWWVDc1lFbHV0WU15OUQzNURJNEhRSFhWMEZyYlBLMlRJdUhRak1yZEZaakxKMklWVzAwMzA5MTdyMVFHY3RLdGxXTE5sX0duZFlOdFJzdjJMQ2xzaEQ3VU9QTEg1MHY2UUo2c2tTTGxDNXdvOTAzTlp6YyIsImlkIjoiZmNfYkJLamFyZnBNdi0tMFBFUGdjU04tUWdfMyJ9"
+  },
+  {
+   "question": "What is the #1 high school in San Diego?",
+   "type": "ai_overview",
+   "page_token": "fGjIHHicHdBRboIwAADQ7DJ-CsXp1MQsUapCpKa1LcjPUgtabSuoKNq_3WWn2mmW7B3hff-Y41n_vj1U09S3see1bds9VNXBlF1ZWU_cXmfpSWHMTkg9HnwMwOdeTuA9ms4u0RSzuuYh8emyZsg-cRYYzVyc0zM5CYdC5GKccuxIqB6pLjAPUboL-kbyHEprGvoCWR4enhlAYcplQKhCwmInaNLKFFxWNALIclCcpphakiRADZJwet9qfpemepY69onhQbno34oFytiyeuEej0lmXptl5BKt3nM4dGUK9MbGMxQQKOx8z01xYosmSnxFE2iWMsuFAKP1lg2bHRydoSqOWDeXbRZbCUGw2vgtgxznAaL0CEj-rI6YESdPxjJQXIpwvl7x-Ro5ZXYatDSLSWKLa6nnSgSjmuHOXj4mvc7_5-Rrb5txfa0Of4OAhMY",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=fGjIHHicHdBRboIwAADQ7DJ-CsXp1MQsUapCpKa1LcjPUgtabSuoKNq_3WWn2mmW7B3hff-Y41n_vj1U09S3see1bds9VNXBlF1ZWU_cXmfpSWHMTkg9HnwMwOdeTuA9ms4u0RSzuuYh8emyZsg-cRYYzVyc0zM5CYdC5GKccuxIqB6pLjAPUboL-kbyHEprGvoCWR4enhlAYcplQKhCwmInaNLKFFxWNALIclCcpphakiRADZJwet9qfpemepY69onhQbno34oFytiyeuEej0lmXptl5BKt3nM4dGUK9MbGMxQQKOx8z01xYosmSnxFE2iWMsuFAKP1lg2bHRydoSqOWDeXbRZbCUGw2vgtgxznAaL0CEj-rI6YESdPxjJQXIpwvl7x-Ro5ZXYatDSLSWKLa6nnSgSjmuHOXj4mvc7_5-Rrb5txfa0Of4OAhMY",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmRrTTJNamg2TmxSa2NtaE1Va2Q1UW5GelJsWlBPSG8yUjNwRlpFTlhValpWTTA5VU0wZzBaRGhSY0ZWNVYwSkVTazVTT0dGSVdWcGFjbkphTW05S2FFeFJlR04yUXpCR1dIZE9WRmxzVjBSamQxaExSRWgxTFVWdlFSSVhZa0pMYW1GeVpuQk5kaTB0TUZCRlVHZGpVMDR0VVdjYUlrRkVjM0k1WmxONlUzYzNSbmsyZFhBdGFHdHphV015UVc5SGRIVlpWakZSVWxFIiwiZmN2IjoiMyIsImVpIjoiYkJLamFyZnBNdi0tMFBFUGdjU04tUWciLCJxYyI6IkNoSnpkVzF0YVhRZ2FHbG5hQ0J6WTJodmIyd1FBSDAyVEV3XyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgIzEgaGlnaCBzY2hvb2wgaW4gU2FuIERpZWdvPyIsImxrIjoiR2lkM2FHRjBJR2x6SUhSb1pTQWpNU0JvYVdkb0lITmphRzl2YkNCcGJpQnpZVzRnWkdsbFoyOCIsImJzIjoiYzQzT3V3NkNNQlNBNGJoMmN1NTBoTUViaTMyQkxnem80RUtJZzFNRERlY1lhSWUyOXZVRkx3bFJZOXlfNVBfWm1XMVBxRHlRQTQ4YW9sYWRSOUxPQTFLTDRHcTB0Z015VUhtRlVtUjhFX19pWWVDc1lFbHV0WU15OUQzNURJNEhRSFhWMEZyYlBLMlRJdUhRak1yZEZaakxKMklWVzAwMzA5MTdyMVFHY3RLdGxXTE5sX0duZFlOdFJzdjJMQ2xzaEQ3VU9QTEg1MHY2UUo2c2tTTGxDNXdvOTAzTlp6YyIsImlkIjoiZmNfYkJLamFyZnBNdi0tMFBFUGdjU04tUWdfMyJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmRrTTJNamg2TmxSa2NtaE1Va2Q1UW5GelJsWlBPSG8yUjNwRlpFTlhValpWTTA5VU0wZzBaRGhSY0ZWNVYwSkVTazVTT0dGSVdWcGFjbkphTW05S2FFeFJlR04yUXpCR1dIZE9WRmxzVjBSamQxaExSRWgxTFVWdlFSSVhZa0pMYW1GeVpuQk5kaTB0TUZCRlVHZGpVMDR0VVdjYUlrRkVjM0k1WmxONlUzYzNSbmsyZFhBdGFHdHphV015UVc5SGRIVlpWakZSVWxFIiwiZmN2IjoiMyIsImVpIjoiYkJLamFyZnBNdi0tMFBFUGdjU04tUWciLCJxYyI6IkNoSnpkVzF0YVhRZ2FHbG5hQ0J6WTJodmIyd1FBSDAyVEV3XyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgIzEgaGlnaCBzY2hvb2wgaW4gU2FuIERpZWdvPyIsImxrIjoiR2lkM2FHRjBJR2x6SUhSb1pTQWpNU0JvYVdkb0lITmphRzl2YkNCcGJpQnpZVzRnWkdsbFoyOCIsImJzIjoiYzQzT3V3NkNNQlNBNGJoMmN1NTBoTUViaTMyQkxnem80RUtJZzFNRERlY1lhSWUyOXZVRkx3bFJZOXlfNVBfWm1XMVBxRHlRQTQ4YW9sYWRSOUxPQTFLTDRHcTB0Z015VUhtRlVtUjhFX19pWWVDc1lFbHV0WU15OUQzNURJNEhRSFhWMEZyYlBLMlRJdUhRak1yZEZaakxKMklWVzAwMzA5MTdyMVFHY3RLdGxXTE5sX0duZFlOdFJzdjJMQ2xzaEQ3VU9QTEg1MHY2UUo2c2tTTGxDNXdvOTAzTlp6YyIsImlkIjoiZmNfYkJLamFyZnBNdi0tMFBFUGdjU04tUWdfMyJ9"
+  },
+  {
+   "question": "How much is Summit school tuition?",
+   "type": "ai_overview",
+   "page_token": "LO-JKXicHdBdToMwAADgeBkfXQtsxiWL0VFwZkP7B6MvppQxtrbAXB2MN-_iqTyNid8Rvu8fc2j0782ldq47zyeTvu_v9m27N7s71dqJPF8bNVHSmEIqPZ_dz-BjpRboa_W8PK2eMe-6NCSA6qQpm_pMX2rKrDmxTEgKzUwwck2zId6EKtghM-UsJbuollsveaHwoSpgt6HIEaUdxXwwIjRQRtjLj-WyAHBKowiJ6GnKdXopxmjJ7YNL4ug9943OLPTXrARCJ4CG5edbXI7EMxmNxRWDMlizerZBA97FA6YWDgLWWgCzkseUbD1nOdoE5AoxPpJeZtrLPe4LkA8MCILq8oC1O-XbV6sQ9NYU9BylWHgJYwdIxNAeMCejOhqbhjWjURqwUY-q4b40XShjssIZdm9x4IqYVBzfVuqy8G__PxcflXXz7rPd_wHJKYKe",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=LO-JKXicHdBdToMwAADgeBkfXQtsxiWL0VFwZkP7B6MvppQxtrbAXB2MN-_iqTyNid8Rvu8fc2j0782ldq47zyeTvu_v9m27N7s71dqJPF8bNVHSmEIqPZ_dz-BjpRboa_W8PK2eMe-6NCSA6qQpm_pMX2rKrDmxTEgKzUwwck2zId6EKtghM-UsJbuollsveaHwoSpgt6HIEaUdxXwwIjRQRtjLj-WyAHBKowiJ6GnKdXopxmjJ7YNL4ug9943OLPTXrARCJ4CG5edbXI7EMxmNxRWDMlizerZBA97FA6YWDgLWWgCzkseUbD1nOdoE5AoxPpJeZtrLPe4LkA8MCILq8oC1O-XbV6sQ9NYU9BylWHgJYwdIxNAeMCejOhqbhjWjURqwUY-q4b40XShjssIZdm9x4IqYVBzfVuqy8G__PxcflXXz7rPd_wHJKYKe",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmRrTTJNamg2TmxSa2NtaE1Va2Q1UW5GelJsWlBPSG8yUjNwRlpFTlhValpWTTA5VU0wZzBaRGhSY0ZWNVYwSkVTazVTT0dGSVdWcGFjbkphTW05S2FFeFJlR04yUXpCR1dIZE9WRmxzVjBSamQxaExSRWgxTFVWdlFSSVhZa0pMYW1GeVpuQk5kaTB0TUZCRlVHZGpVMDR0VVdjYUlrRkVjM0k1WmxONlUzYzNSbmsyZFhBdGFHdHphV015UVc5SGRIVlpWakZSVWxFIiwiZmN2IjoiMyIsImVpIjoiYkJLamFyZnBNdi0tMFBFUGdjU04tUWciLCJxYyI6IkNoSnpkVzF0YVhRZ2FHbG5hQ0J6WTJodmIyd1FBSDAyVEV3XyIsInF1ZXN0aW9uIjoiSG93IG11Y2ggaXMgU3VtbWl0IHNjaG9vbCB0dWl0aW9uPyIsImxrIjoiR2lGb2IzY2diWFZqYUNCcGN5QnpkVzF0YVhRZ2MyTm9iMjlzSUhSMWFYUnBiMjQiLCJicyI6ImM0M091dzZDTUJTQTRiaDJjdTUwaE1FYmkzMkJMZ3pvNEVLSWcxTUREZWNZYUllMjl2VUZMd2xSWTl5XzVQX1ptVzFQcUR5UUE0OGFvbGFkUjlMT0ExS0w0R3EwdGdNeVVIbUZVbVI4RV9faVllQ3NZRWx1dFlNeTlEMzVESTRIUUhYVjBGcmJQSzJUSXVIUWpNcmRGWmpMSjJJVlcwMDMwOTE3cjFRR2N0S3RsV0xObF9HbmRZTnRSc3YyTENsc2hEN1VPUExINTB2NlFKNnNrU0xsQzV3bzkwM05aemMiLCJpZCI6ImZjX2JCS2phcmZwTXYtLTBQRVBnY1NOLVFnXzMifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmRrTTJNamg2TmxSa2NtaE1Va2Q1UW5GelJsWlBPSG8yUjNwRlpFTlhValpWTTA5VU0wZzBaRGhSY0ZWNVYwSkVTazVTT0dGSVdWcGFjbkphTW05S2FFeFJlR04yUXpCR1dIZE9WRmxzVjBSamQxaExSRWgxTFVWdlFSSVhZa0pMYW1GeVpuQk5kaTB0TUZCRlVHZGpVMDR0VVdjYUlrRkVjM0k1WmxONlUzYzNSbmsyZFhBdGFHdHphV015UVc5SGRIVlpWakZSVWxFIiwiZmN2IjoiMyIsImVpIjoiYkJLamFyZnBNdi0tMFBFUGdjU04tUWciLCJxYyI6IkNoSnpkVzF0YVhRZ2FHbG5hQ0J6WTJodmIyd1FBSDAyVEV3XyIsInF1ZXN0aW9uIjoiSG93IG11Y2ggaXMgU3VtbWl0IHNjaG9vbCB0dWl0aW9uPyIsImxrIjoiR2lGb2IzY2diWFZqYUNCcGN5QnpkVzF0YVhRZ2MyTm9iMjlzSUhSMWFYUnBiMjQiLCJicyI6ImM0M091dzZDTUJTQTRiaDJjdTUwaE1FYmkzMkJMZ3pvNEVLSWcxTUREZWNZYUllMjl2VUZMd2xSWTl5XzVQX1ptVzFQcUR5UUE0OGFvbGFkUjlMT0ExS0w0R3EwdGdNeVVIbUZVbVI4RV9faVllQ3NZRWx1dFlNeTlEMzVESTRIUUhYVjBGcmJQSzJUSXVIUWpNcmRGWmpMSjJJVlcwMDMwOTE3cjFRR2N0S3RsV0xObF9HbmRZTnRSc3YyTENsc2hEN1VPUExINTB2NlFKNnNrU0xsQzV3bzkwM05aemMiLCJpZCI6ImZjX2JCS2phcmZwTXYtLTBQRVBnY1NOLVFnXzMifQ%3D%3D"
+  }
+ ],
+ "ai_overview": {
+  "page_token": "--Z4pHiczVXbcqM4EP2A_Y7hZWIDvoztVFFTksAxviTIlyT2CwUYy5ibbWwT5m3_Zb9qv2YFGAcSk0n2YWu7CkkttVrqVh_On385lmf__cdxfThsg1uWDcOwSnyfOGbV8F1WCyLPYFe-E-yN9U_iCMeAWTuC6THRSagzRiBwjGkJOhxstP1qOzpVKpwiKcSY3FcwYZLtgqprgbmh3l82AauytLG_1UWqVIOq6VXN551nTlc9voGrNY7vVB9YzaUG4L8TIgGZtpA2AJYalS8VBWOAZCC9TiCUdLkZEisYSOTsEuISVzI1pSIDGYLEixj-qsx1OtBSCzH2c136RRWFiSMAaI_iOK3PhXMW-RxDloQPklG2lITiZ1qYWykLgR47KuozADaV-DIwd6uLTECapVTGcSOmZivQCKXGuFt-ayoSBr0RmWDyzvFbQR6aZQEMAU9PZZeEFi3H6nva8axlrI1ksA_iWkbTDuf3upLfAjNxIPG2JVqyftwtZLiIOOmEWUOndo6vLc2lula5n4nO1_gm16m32jcJiIzggqIgj6KluziOj5Od4tjVYRXyGYTQJQ5UvL5EdXQtRIjOpuj9Wq6oEbh4JgMAculKNKrSF63JoJBHRDiQvOZdNqPIAJL8C79CBIFrEHp7NQohC2SonV0qL7eRmhACr2ylYryP8V3tyiK5eCr8khJXpDAxIfS0rJTv8saxWxrRGifXhGhIrHT7qOgD5jScHUMQ_T1l2T67TyN8Kdxml2waybJE39eyY892Eo6cnpW5nuF8fuJ_C7gmcE53PF6pg0_I4BM2FDJnrLwp_Txk7lp6d2F3FrX2annojhbrrYIPFBG7-8fwOkR8V_8C0xj_KxBlPBRrsBxE9_Hg9yDCGJXzUDrMeMg6Ux_EJSCSUxBd4SEztSjwUBFE_SKIPuShr4MIloMIfgQi_xqIcCmI0gQXQFTkoUIhXHjoFURf5yHtX_JQgikz7YqkdNyQUnLqNnvmPuqN-bu-qqsbbNutX_Ki76kmF_6WnFbu4dbVls6Nai1vYa1_iJY3Kp3wb80lsxO-1WqTo-tah-89i6y_T4y17zt0knGdvS9wWiOSx647w8PWy37c2jx0rO5Ka9bn6ATGmjKZR8PTE2xzZDeubB-7U669GVVmc8UWw0Ezasvmoju1neZ4Gz482Yr52F73PREf77xdrz1FYNv1zR_1miK3R_UHhQNN3bU7U1LXD21pAaNnCxxqq4G3ODaegDidqd6Q325IcrdAeNb97lHktmadY9y9IdCnbBBwj8ETofyB5gAjWrDIp19Ivx8AS5AJDE01g5PA1fWVSdNkGPqy06jxjEsO0VZo8Ezg7QX-H6EuOr8",
+  "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=--Z4pHiczVXbcqM4EP2A_Y7hZWIDvoztVFFTksAxviTIlyT2CwUYy5ibbWwT5m3_Zb9qv2YFGAcSk0n2YWu7CkkttVrqVh_On385lmf__cdxfThsg1uWDcOwSnyfOGbV8F1WCyLPYFe-E-yN9U_iCMeAWTuC6THRSagzRiBwjGkJOhxstP1qOzpVKpwiKcSY3FcwYZLtgqprgbmh3l82AauytLG_1UWqVIOq6VXN551nTlc9voGrNY7vVB9YzaUG4L8TIgGZtpA2AJYalS8VBWOAZCC9TiCUdLkZEisYSOTsEuISVzI1pSIDGYLEixj-qsx1OtBSCzH2c136RRWFiSMAaI_iOK3PhXMW-RxDloQPklG2lITiZ1qYWykLgR47KuozADaV-DIwd6uLTECapVTGcSOmZivQCKXGuFt-ayoSBr0RmWDyzvFbQR6aZQEMAU9PZZeEFi3H6nva8axlrI1ksA_iWkbTDuf3upLfAjNxIPG2JVqyftwtZLiIOOmEWUOndo6vLc2lula5n4nO1_gm16m32jcJiIzggqIgj6KluziOj5Od4tjVYRXyGYTQJQ5UvL5EdXQtRIjOpuj9Wq6oEbh4JgMAculKNKrSF63JoJBHRDiQvOZdNqPIAJL8C79CBIFrEHp7NQohC2SonV0qL7eRmhACr2ylYryP8V3tyiK5eCr8khJXpDAxIfS0rJTv8saxWxrRGifXhGhIrHT7qOgD5jScHUMQ_T1l2T67TyN8Kdxml2waybJE39eyY892Eo6cnpW5nuF8fuJ_C7gmcE53PF6pg0_I4BM2FDJnrLwp_Txk7lp6d2F3FrX2annojhbrrYIPFBG7-8fwOkR8V_8C0xj_KxBlPBRrsBxE9_Hg9yDCGJXzUDrMeMg6Ux_EJSCSUxBd4SEztSjwUBFE_SKIPuShr4MIloMIfgQi_xqIcCmI0gQXQFTkoUIhXHjoFURf5yHtX_JQgikz7YqkdNyQUnLqNnvmPuqN-bu-qqsbbNutX_Ki76kmF_6WnFbu4dbVls6Nai1vYa1_iJY3Kp3wb80lsxO-1WqTo-tah-89i6y_T4y17zt0knGdvS9wWiOSx647w8PWy37c2jx0rO5Ka9bn6ATGmjKZR8PTE2xzZDeubB-7U669GVVmc8UWw0Ezasvmoju1neZ4Gz482Yr52F73PREf77xdrz1FYNv1zR_1miK3R_UHhQNN3bU7U1LXD21pAaNnCxxqq4G3ODaegDidqd6Q325IcrdAeNb97lHktmadY9y9IdCnbBBwj8ETofyB5gAjWrDIp19Ivx8AS5AJDE01g5PA1fWVSdNkGPqy06jxjEsO0VZo8Ezg7QX-H6EuOr8"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Summit High School: Home",
+   "link": "https://shs.summitk12.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUgHrOzAV9cVtF7CykRtfB7PSXL9BcU3ja0zVeax_ObQ1CdSxvOoZgviuP9usyZFaidiXJTPo_Po8lE7nFpw-ntNjm6AGQD9KtrlhlgZzGtCfvPk&ved=2ahUKEwi3z5S_7OSWAxV_HzQIHQFiI48QFnoECBoQAQ&uoh=1",
+   "displayed_link": "https://shs.summitk12.org",
+   "favicon": "https://serpapi.com/images/i/UklGRugAAABXRUJQVlA4INwAAADQBQCdASocABwAPtEutFooIagoGAEAGgllAAgQLmo-jDfbz3PUUj2JUM-sDFO_21n_wX5C6oAAAP72CbhD2RwXboSsnoGTBtThoLnNdUNCbBwzLmgBF1--IVwYAPVzLfCRsGjhlnA5HPafhP554DF1nIV6SIZeaGbqYTeCBBcqqdVW3Fy5zzh3cHkVn2VvVtdnSSayWKSPws0mUYqNZE9OuK7_Rxfypx7DoXukrgvRTu1da0Ecv5g4hdjP18ytX33ffdzAzUCVyeLNn19w1ZsnQ5-FSAfp8fXQqgAA.webp",
+   "snippet": "Welcome to SHS \u00b7 Summit High School continues to build an environment that focuses on student-centered learning while facilitating a culture of academic success.",
+   "snippet_highlighted_words": [
+    "Summit High School"
+   ],
+   "sitelinks": {
+    "inline": [
+     {
+      "title": "Athletics & Activities",
+      "link": "https://shs.summitk12.org/athletics-activities"
+     },
+     {
+      "title": "About SHS",
+      "link": "https://shs.summitk12.org/about"
+     },
+     {
+      "title": "Academics",
+      "link": "https://shs.summitk12.org/academics"
+     },
+     {
+      "title": "Contact Us",
+      "link": "https://shs.summitk12.org/contact-us"
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Welcome to SHS \u00b7 Summit High School continues to build an environment that focuses on student-centered learning while facilitating a culture of academic success.",
+     "source_info_link": "https://shs.summitk12.org/",
+     "icon": "https://serpapi.com/images/i/UklGRugAAABXRUJQVlA4INwAAADQBQCdASocABwAPtEutFooIagoGAEAGgllAAgQLmo-jDfbz3PUUj2JUM-sDFO_21n_wX5C6oAAAP72CbhD2RwXboSsnoGTBtThoLnNdUNCbBwzLmgBF1--IVwYAPVzLfCRsGjhlnA5HPafhP554DF1nIV6SIZeaGbqYTeCBBcqqdVW3Fy5zzh3cHkVn2VvVtdnSSayWKSPws0mUYqNZE9OuK7_Rxfypx7DoXukrgvRTu1da0Ecv5g4hdjP18ytX33ffdzAzUCVyeLNn19w1ZsnQ5-FSAfp8fXQqgAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESUgHrOzAV9cVtF7CykRtfB7PSXL9BcU3ja0zVeax_ObQ1CdSxvOoZgviuP9usyZFaidiXJTPo_Po8lE7nFpw-ntNjm6AGQD9KtrlhlgZzGtCfvPk&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESUgHrOzAV9cVtF7CykRtfB7PSXL9BcU3ja0zVeax_ObQ1CdSxvOoZgviuP9usyZFaidiXJTPo_Po8lE7nFpw-ntNjm6AGQD9KtrlhlgZzGtCfvPk",
+   "source": "Summit School District",
+   "read_more_link": "https://shs.summitk12.org/#:~:text=Welcome%20to%20SHS&text=Summit%20High%20School%20continues%20to,a%20culture%20of%20academic%20success."
+  },
+  {
+   "position": 2,
+   "title": "Summit High School: Home - Fontana",
+   "link": "https://summithigh.fusd.net/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVAHrOzAVfav15-l76tNXPCC52_hTjBh0_muigjRTSXgpri372gPFbiiFctiUoUzXH8ZdOsUpbnvK6RiK1i2D_3SOn5l8_DM56G6WAE1HRmTOZA_DLg&ved=2ahUKEwi3z5S_7OSWAxV_HzQIHQFiI48QFnoECCcQAQ&uoh=1",
+   "displayed_link": "https://summithigh.fusd.net",
+   "favicon": "https://serpapi.com/images/i/UklGRuYBAABXRUJQVlA4INoBAAAQCQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0yhH4m8zgQYDbc3ZRvI6_BWxoAQzXx3r-LHFg0lxlxEH5DGzR957kNjHKO5cYpA09e2zRwEyAA_vfpcf5svwNHlB-CYU4WYKcveFm396nR2BZG1TnCMzXXKT1Mgvs9tOD3CubO_2LzDUHeSg_O6CfISTW8YT0ivZ7n9i2S5fGnGsYtmyyFb1r6fVGFe_B9JfPPUBVWl__AUentfqjbhF1bOXJTB2N2CE59MAIP_K_H8KTAm8os41D6cYe2RkeXfN-KrHZKRM9Buhp0_zAUM6_xnu3bUzbxP455YnM7Wkna1JHwvLPShZZxskAcfP9Z6bM6XNfBNEWtKms0SSlKpEm6r5qGo6kpWL9e4LdrTr3_wz5RJg-X7fj2wDC8I2tvmw04w7H8jL_8r0OuuyL0UGDTECcelq2fNKMD04u1Lz1M-8yLCtuUSnMOYvmfWHGYY1_bUeKHcOavW3sLGH_Ducy1UjkAgTmJUWoEWXYtJunlkDl9Jdf6CDry7jFFBVSYD-_78LI6bOzxxYp_8vlZk9KzujglQpBh1c5XJKT-YdVexbjifyPzB6PcLMyDjbeJX9gABGmN1udpT6uZe76oAAA.webp",
+   "snippet": "This year is especially meaningful as Summit High School celebrates its 20th Anniversary. As we honor \u201c20 Years of Excellence,\u201d we reflect on the achievements, ...",
+   "snippet_highlighted_words": [
+    "Summit High School"
+   ],
+   "sitelinks": {
+    "inline": [
+     {
+      "title": "Academic Programs",
+      "link": "https://summithigh.fusd.net/academic-programs"
+     },
+     {
+      "title": "About Us",
+      "link": "https://summithigh.fusd.net/about-us"
+     },
+     {
+      "title": "Athletics",
+      "link": "https://summithigh.fusd.net/athletics-7e"
+     },
+     {
+      "title": "Counseling",
+      "link": "https://summithigh.fusd.net/counseling-resources"
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "This year is especially meaningful as Summit High School celebrates its 20th Anniversary. As we honor \u201c20 Years of Excellence,\u201d we reflect on the achievements, ...",
+     "source_info_link": "https://summithigh.fusd.net/",
+     "icon": "https://serpapi.com/images/i/UklGRuYBAABXRUJQVlA4INoBAAAQCQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0yhH4m8zgQYDbc3ZRvI6_BWxoAQzXx3r-LHFg0lxlxEH5DGzR957kNjHKO5cYpA09e2zRwEyAA_vfpcf5svwNHlB-CYU4WYKcveFm396nR2BZG1TnCMzXXKT1Mgvs9tOD3CubO_2LzDUHeSg_O6CfISTW8YT0ivZ7n9i2S5fGnGsYtmyyFb1r6fVGFe_B9JfPPUBVWl__AUentfqjbhF1bOXJTB2N2CE59MAIP_K_H8KTAm8os41D6cYe2RkeXfN-KrHZKRM9Buhp0_zAUM6_xnu3bUzbxP455YnM7Wkna1JHwvLPShZZxskAcfP9Z6bM6XNfBNEWtKms0SSlKpEm6r5qGo6kpWL9e4LdrTr3_wz5RJg-X7fj2wDC8I2tvmw04w7H8jL_8r0OuuyL0UGDTECcelq2fNKMD04u1Lz1M-8yLCtuUSnMOYvmfWHGYY1_bUeKHcOavW3sLGH_Ducy1UjkAgTmJUWoEWXYtJunlkDl9Jdf6CDry7jFFBVSYD-_78LI6bOzxxYp_8vlZk9KzujglQpBh1c5XJKT-YdVexbjifyPzB6PcLMyDjbeJX9gABGmN1udpT6uZe76oAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESVAHrOzAVfav15-l76tNXPCC52_hTjBh0_muigjRTSXgpri372gPFbiiFctiUoUzXH8ZdOsUpbnvK6RiK1i2D_3SOn5l8_DM56G6WAE1HRmTOZA_DLg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESVAHrOzAVfav15-l76tNXPCC52_hTjBh0_muigjRTSXgpri372gPFbiiFctiUoUzXH8ZdOsUpbnvK6RiK1i2D_3SOn5l8_DM56G6WAE1HRmTOZA_DLg",
+   "source": "Summit High School",
+   "read_more_link": "https://summithigh.fusd.net/#:~:text=This%20year%20is%20especially%20meaningful,we%20reflect%20on%20the%20achievements%2C"
+  },
+  {
+   "position": 3,
+   "title": "Summit High School",
+   "link": "https://www.summit.k12.nj.us/schools/summit-high-school",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAVp6Xi0UtJPDqecxAzH1l0IpWSA1KMB-QzDqDBtr-ATqYXL5PnDetNVDqY1GRok933jTBaiv4qFmcnUPca8Pc2Ldi4vxVlr5M_oaquk_v3rVEwV1UDr5c3NaVVYl6S8ViECLhHF4Xq6rrICg&ved=2ahUKEwi3z5S_7OSWAxV_HzQIHQFiI48QFnoECCYQAQ&uoh=1",
+   "displayed_link": "https://www.summit.k12.nj.us \u203a schools \u203a summit-high-...",
+   "favicon": "https://serpapi.com/images/i/UklGRioBAABXRUJQVlA4IB4BAABQBgCdASocABwAPtE-tFooIigoFAEAGglsAMTmIA3kgrwQzfxbEJ3kzM7ccgfosSGZG7uaA6NyiJ5N4AD-9gnTHXrqOfWW8fbK_qCmFHMw47dZuVK9mjVULQq4Mt_MUmu66rVV4fv1Di3Nej96fCvvtCdCMF8-bSG-1yXViMLI40c85cPhWHtIl1tGdejx_9G9CJ1czTfn-Ymw2ILYRH3_VSPpDjt7sQhcg6Z59j8pSFZZ59E-TGkfGy8_GdRlxMZsG8vN5WyqD7B9BWfA64FGfPvrDwfgoBV_gGbO0HokXt8-I5EFO0MW9-aasYlLvfqoK3trLfI1_r1uauComCsBF-wgj5ORVWMZ_hvhlVDb3VrBdIx8DY2kVhvowAAA.webp",
+   "snippet": "Welcome to Summit High School. 125 Kent Place Blvd. Summit, NJ 07901. (908) 273-1494. \"Honoring the past . . . Creating the future\".",
+   "snippet_highlighted_words": [
+    "Summit High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Welcome to Summit High School. 125 Kent Place Blvd. Summit, NJ 07901. (908) 273-1494. \"Honoring the past . . . Creating the future\".",
+     "source_info_link": "https://www.summit.k12.nj.us/schools/summit-high-school",
+     "icon": "https://serpapi.com/images/i/UklGRioBAABXRUJQVlA4IB4BAABQBgCdASocABwAPtE-tFooIigoFAEAGglsAMTmIA3kgrwQzfxbEJ3kzM7ccgfosSGZG7uaA6NyiJ5N4AD-9gnTHXrqOfWW8fbK_qCmFHMw47dZuVK9mjVULQq4Mt_MUmu66rVV4fv1Di3Nej96fCvvtCdCMF8-bSG-1yXViMLI40c85cPhWHtIl1tGdejx_9G9CJ1czTfn-Ymw2ILYRH3_VSPpDjt7sQhcg6Z59j8pSFZZ59E-TGkfGy8_GdRlxMZsG8vN5WyqD7B9BWfA64FGfPvrDwfgoBV_gGbO0HokXt8-I5EFO0MW9-aasYlLvfqoK3trLfI1_r1uauComCsBF-wgj5ORVWMZ_hvhlVDb3VrBdIx8DY2kVhvowAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESbwHrOzAVp6Xi0UtJPDqecxAzH1l0IpWSA1KMB-QzDqDBtr-ATqYXL5PnDetNVDqY1GRok933jTBaiv4qFmcnUPca8Pc2Ldi4vxVlr5M_oaquk_v3rVEwV1UDr5c3NaVVYl6S8ViECLhHF4Xq6rrICg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESbwHrOzAVp6Xi0UtJPDqecxAzH1l0IpWSA1KMB-QzDqDBtr-ATqYXL5PnDetNVDqY1GRok933jTBaiv4qFmcnUPca8Pc2Ldi4vxVlr5M_oaquk_v3rVEwV1UDr5c3NaVVYl6S8ViECLhHF4Xq6rrICg",
+   "source": "Summit Public Schools",
+   "read_more_link": "https://www.summit.k12.nj.us/schools/summit-high-school#:~:text=Welcome%20to%20Summit%20High%20School,.%20.%20Creating%20the%20future%22"
+  },
+  {
+   "position": 4,
+   "title": "Summit High School: Home",
+   "link": "https://summit.blschools.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVQHrOzAVDiZFkodk8mBO-hDJEBPq6wQLl1u2EUNG7aDX_EhJjFZdhRJrMmZkf5B92LcVFdWlDmZypR-qrlYjnqr-Fp5vfffcx-lmBHNIxEYVSFfI7TA&ved=2ahUKEwi3z5S_7OSWAxV_HzQIHQFiI48QFnoECCAQAQ&uoh=1",
+   "displayed_link": "https://summit.blschools.org",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAA0UlEQVR4AWJwL_AhGc9S12gFYkB7ZWACMQhD0RkyQ7bpAm7hFjeGU7hBVnAJt_ACfCAUC42e0oMCj4aP9RGJWBT2_usVkZIhE3zDMiGk8QSvFjZ0mVB_dggZtewSJhxnXSaEjCG05CVCXIV2QVFoWmi6qkq7QRgXmq6cyJAQgyFKHoS8wgjpKOwVZqVNcIwKqyJ2cC6ygmxamDoDFDunQMi2CRnZ_3UoymE3Rx2UYrKIzAqfOaWvMCpsKKuFx2mdvMLHCuXOq_7LoSGFO5B7neEL_kADfSGEz18AAAAASUVORK5CYII.png",
+   "snippet": "Summit High School. Schools. BLS Home. Close. Bend-La Pine Schools. Elementary Schools \u00b7 Amity Creek Magnet @ Thompson \u00b7 Bear Creek Elementary ...",
+   "snippet_highlighted_words": [
+    "Summit High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Summit High School. Schools. BLS Home. Close. Bend-La Pine Schools. Elementary Schools \u00b7 Amity Creek Magnet @ Thompson \u00b7 Bear Creek Elementary ...",
+     "source_info_link": "https://summit.blschools.org/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAA0UlEQVR4AWJwL_AhGc9S12gFYkB7ZWACMQhD0RkyQ7bpAm7hFjeGU7hBVnAJt_ACfCAUC42e0oMCj4aP9RGJWBT2_usVkZIhE3zDMiGk8QSvFjZ0mVB_dggZtewSJhxnXSaEjCG05CVCXIV2QVFoWmi6qkq7QRgXmq6cyJAQgyFKHoS8wgjpKOwVZqVNcIwKqyJ2cC6ygmxamDoDFDunQMi2CRnZ_3UoymE3Rx2UYrKIzAqfOaWvMCpsKKuFx2mdvMLHCuXOq_7LoSGFO5B7neEL_kADfSGEz18AAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESVQHrOzAVDiZFkodk8mBO-hDJEBPq6wQLl1u2EUNG7aDX_EhJjFZdhRJrMmZkf5B92LcVFdWlDmZypR-qrlYjnqr-Fp5vfffcx-lmBHNIxEYVSFfI7TA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESVQHrOzAVDiZFkodk8mBO-hDJEBPq6wQLl1u2EUNG7aDX_EhJjFZdhRJrMmZkf5B92LcVFdWlDmZypR-qrlYjnqr-Fp5vfffcx-lmBHNIxEYVSFfI7TA",
+   "source": "Bend-La Pine Schools",
+   "read_more_link": "https://summit.blschools.org/#:~:text=Summit%20High%20School,BLS%20Home"
+  },
+  {
+   "position": 5,
+   "title": "About Us",
+   "link": "https://shs.wcs.edu/about-us",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVAHrOzAVR9lMRGXk2ULJrdu2fBSlgNCZNOkMLLS3RdEvosi7kddSjcwuwfbcjao8l7kNW5dZc-_L6VkHo_R_6sZUnecfqwHmrtz03ZRsxAw92gKYYA&ved=2ahUKEwi3z5S_7OSWAxV_HzQIHQFiI48QFnoECB8QAQ&uoh=1",
+   "displayed_link": "https://shs.wcs.edu \u203a about-us",
+   "favicon": "https://serpapi.com/images/i/UklGRgACAABXRUJQVlA4IPQBAAAQCgCdASogACAAPtEutFooIagoGAEAGglmALsVAA3Qdo2rAlQQw_xX_RnsD_rJ_vvVA9cf7AeyB-oA69g0g3ferD9ioQFWUZlvcP2ZTUf1guoa7_XQ-R5IAAD-9gnQY3oAKM1c2lsSupVUCx8nT8kKtOd92SJp2iTOA4LxaWNvktF3a4Hea9lXtTzA6tFtAmUd2niCpN1sXkaMd26MM-0ZN6yWEvikTz42A2pbw0MLKOgkjO88Vc7hbq1nxuDiUe-F5UdoOglUj-eUYo1Rn7SJWuERqQUeH8VTD5J9MrStzopnSR4u1eGg9BwPwwrZ3LUUFY4dyfJVbkAMo3mGyqLdUlqDAv_FTRJF0OH_E2g7P-OCOOWHq2fm-A-n_ca7Qfzwk3GIA-lXdbO6HV_jIxGXZlR-mW5eqpanWFzWy5gU_2cuq0VZSkBigIpWcZrDs-5malxf0UHwAcy8J04-V5vFK67RkvmfwatrM_0Q-dj_7or5PplsOFKF_qwEn_F6_qE26q4Y96ee79fuEMxVdVaxKRTinSHrMM-D41jf4gdF_p6-D8B3_BNVuznx-bcPgTlAO2_xve_9xaO8-2h7Ts5U-Hv49hTaEoRpul6t3pF77xVKA9huuVvhn8ttlfevbjbosbaJJFadxQW19e8N3L6ZwPSAAA.webp",
+   "snippet": "We Are Summit. Summit High School is part of the Williamson County School District in Middle Tennessee and is located in Spring Hill, TN.",
+   "snippet_highlighted_words": [
+    "Summit High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "We Are Summit. Summit High School is part of the Williamson County School District in Middle Tennessee and is located in Spring Hill, TN.",
+     "source_info_link": "https://shs.wcs.edu/about-us",
+     "icon": "https://serpapi.com/images/i/UklGRgACAABXRUJQVlA4IPQBAAAQCgCdASogACAAPtEutFooIagoGAEAGglmALsVAA3Qdo2rAlQQw_xX_RnsD_rJ_vvVA9cf7AeyB-oA69g0g3ferD9ioQFWUZlvcP2ZTUf1guoa7_XQ-R5IAAD-9gnQY3oAKM1c2lsSupVUCx8nT8kKtOd92SJp2iTOA4LxaWNvktF3a4Hea9lXtTzA6tFtAmUd2niCpN1sXkaMd26MM-0ZN6yWEvikTz42A2pbw0MLKOgkjO88Vc7hbq1nxuDiUe-F5UdoOglUj-eUYo1Rn7SJWuERqQUeH8VTD5J9MrStzopnSR4u1eGg9BwPwwrZ3LUUFY4dyfJVbkAMo3mGyqLdUlqDAv_FTRJF0OH_E2g7P-OCOOWHq2fm-A-n_ca7Qfzwk3GIA-lXdbO6HV_jIxGXZlR-mW5eqpanWFzWy5gU_2cuq0VZSkBigIpWcZrDs-5malxf0UHwAcy8J04-V5vFK67RkvmfwatrM_0Q-dj_7or5PplsOFKF_qwEn_F6_qE26q4Y96ee79fuEMxVdVaxKRTinSHrMM-D41jf4gdF_p6-D8B3_BNVuznx-bcPgTlAO2_xve_9xaO8-2h7Ts5U-Hv49hTaEoRpul6t3pF77xVKA9huuVvhn8ttlfevbjbosbaJJFadxQW19e8N3L6ZwPSAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESVAHrOzAVR9lMRGXk2ULJrdu2fBSlgNCZNOkMLLS3RdEvosi7kddSjcwuwfbcjao8l7kNW5dZc-_L6VkHo_R_6sZUnecfqwHmrtz03ZRsxAw92gKYYA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESVAHrOzAVR9lMRGXk2ULJrdu2fBSlgNCZNOkMLLS3RdEvosi7kddSjcwuwfbcjao8l7kNW5dZc-_L6VkHo_R_6sZUnecfqwHmrtz03ZRsxAw92gKYYA",
+   "source": "Summit High",
+   "read_more_link": "https://shs.wcs.edu/about-us#:~:text=We%20Are%20Summit,located%20in%20Spring%20Hill%2C%20TN."
+  },
+  {
+   "position": 6,
+   "title": "Summit High School - Home - Flagstaff",
+   "link": "https://summithigh.fusd1.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVQHrOzAVjQW4a_Iw18zYXFyI3si49wsXf38zRuvxcxokrkBINyKxIhLTA0mQPS_cSCSTgISMzRWy6hWASsYixU5jfWBMiLd5s_NNA4SgtMPSqH7B_c0&ved=2ahUKEwi3z5S_7OSWAxV_HzQIHQFiI48QFnoECCIQAQ&uoh=1",
+   "displayed_link": "https://summithigh.fusd1.org",
+   "favicon": "https://serpapi.com/images/i/UklGRioBAABXRUJQVlA4IB4BAADQBQCdASocABwAPtE-tFooIigoFAEAGglpAAUSdtQ1AAym2uyiSHM1UTF7h_xP5PillVsjEqAAAP72B7tibYkv921RMS3D99xUv9Hx8IiSowA05Fd8uIsyb4j4rlDs3DSG3r_MK2FhK6fV52AqnXlGd2KXVOVOw9u45W1Da9pH_XVI_RQ0OfB9RcNUKmBs0LPKrSxHprMYDqaejpUP93w4aD9PLvaJmtLKQTflRu_yuyiSW4A9rNW0__vYpeal-cOvyg7jxybo9OJ6xt7sH8X_iMuJCYO1EvwMimIRRlHegq984F468_ZJM7KnLmR_-6UVMmPh0PTg9Mu53sbd94p7976YF_rdH63R1kKxSVYHem2e9NS3LpktktehUgAA.webp",
+   "snippet": "Summit High School is a fully accredited alternative high school serving students in grades 9\u201312 who are seeking a different approach to learning and ...",
+   "snippet_highlighted_words": [
+    "Summit High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Summit High School is a fully accredited alternative high school serving students in grades 9\u201312 who are seeking a different approach to learning and ...",
+     "source_info_link": "https://summithigh.fusd1.org/",
+     "icon": "https://serpapi.com/images/i/UklGRioBAABXRUJQVlA4IB4BAADQBQCdASocABwAPtE-tFooIigoFAEAGglpAAUSdtQ1AAym2uyiSHM1UTF7h_xP5PillVsjEqAAAP72B7tibYkv921RMS3D99xUv9Hx8IiSowA05Fd8uIsyb4j4rlDs3DSG3r_MK2FhK6fV52AqnXlGd2KXVOVOw9u45W1Da9pH_XVI_RQ0OfB9RcNUKmBs0LPKrSxHprMYDqaejpUP93w4aD9PLvaJmtLKQTflRu_yuyiSW4A9rNW0__vYpeal-cOvyg7jxybo9OJ6xt7sH8X_iMuJCYO1EvwMimIRRlHegq984F468_ZJM7KnLmR_-6UVMmPh0PTg9Mu53sbd94p7976YF_rdH63R1kKxSVYHem2e9NS3LpktktehUgAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESVQHrOzAVjQW4a_Iw18zYXFyI3si49wsXf38zRuvxcxokrkBINyKxIhLTA0mQPS_cSCSTgISMzRWy6hWASsYixU5jfWBMiLd5s_NNA4SgtMPSqH7B_c0&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESVQHrOzAVjQW4a_Iw18zYXFyI3si49wsXf38zRuvxcxokrkBINyKxIhLTA0mQPS_cSCSTgISMzRWy6hWASsYixU5jfWBMiLd5s_NNA4SgtMPSqH7B_c0",
+   "source": "Flagstaff Unified School District",
+   "read_more_link": "https://summithigh.fusd1.org/#:~:text=Summit%20High%20School%20is%20a,to%20learning%20and%20personal%20development."
+  },
+  {
+   "position": 7,
+   "title": "Summit High School (New Jersey)",
+   "link": "https://en.wikipedia.org/wiki/Summit_High_School_(New_Jersey)",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAVbCxXFrvAWOSaLnU5WphnZMHmJCuUdvFdmfNzB8j_vr3V9eCwf4YGzyg4gb8TxmccdCCCN3gyinV8yV73MJXeF41AoCVH_pvMsVrQWNRR0jXryqERxHeRHfp5LzrmSbhiYQsbtjfcOwSIABdfSqF5fA&ved=2ahUKEwi3z5S_7OSWAxV_HzQIHQFiI48QFnoECCEQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Summit_High_School...",
+   "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+   "snippet": "Summit High School is a four-year comprehensive public high school in Summit, in Union County, in the U.S. state of New Jersey, serving students in ninth ...",
+   "snippet_highlighted_words": [
+    "Summit High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Summit High School is a four-year comprehensive public high school in Summit, in Union County, in the U.S. state of New Jersey, serving students in ninth ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Summit_High_School_(New_Jersey)",
+     "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdQHrOzAVbCxXFrvAWOSaLnU5WphnZMHmJCuUdvFdmfNzB8j_vr3V9eCwf4YGzyg4gb8TxmccdCCCN3gyinV8yV73MJXeF41AoCVH_pvMsVrQWNRR0jXryqERxHeRHfp5LzrmSbhiYQsbtjfcOwSIABdfSqF5fA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdQHrOzAVbCxXFrvAWOSaLnU5WphnZMHmJCuUdvFdmfNzB8j_vr3V9eCwf4YGzyg4gb8TxmccdCCCN3gyinV8yV73MJXeF41AoCVH_pvMsVrQWNRR0jXryqERxHeRHfp5LzrmSbhiYQsbtjfcOwSIABdfSqF5fA",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Summit_High_School_(New_Jersey)#:~:text=Summit%20High%20School%20is%20a,of%20the%20Summit%20Public%20Schools."
+  },
+  {
+   "position": 8,
+   "title": "Summit High School in Bend, OR - Oregon",
+   "link": "https://www.usnews.com/education/best-high-schools/oregon/districts/bend-lapine-administrative-school-district-1/summit-high-school-16417",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESwgEB6zswFbpt4Y7wdT1BtzwQiIvI8J4cjRIZEsrGdwX1AxMpeRRRB5rhIoYmqdp-vg22P8HnNej48fNTauWHi4PwuLDGKtuKLjEY5iYlJH8yEAmRozQ0N8vYv7km9_RJHLqQHOkxE_seNkLAZdAnjuheU8d7nCEYysD_XsTyqMtj9W0ay3bKySpAXVZAet2h-SlFHlbkTFd3TWK8YBb1A5ow2Mtj7UlYyc-reyDT0tCQ73rzFehZ4ctZqtPZFRaKd6ZvKQ&ved=2ahUKEwi3z5S_7OSWAxV_HzQIHQFiI48QFnoECCQQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a education \u203a oregon \u203a districts",
+   "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp",
+   "snippet": "Summit High School. 2855 Nw Clearwater Dr, Bend, Oregon | (541) 355-4000 ... Overview of Summit High School. At Summit High School, students have the ...",
+   "snippet_highlighted_words": [
+    "Summit High School",
+    "Summit High School",
+    "Summit High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Summit High School. 2855 Nw Clearwater Dr, Bend, Oregon | (541) 355-4000 ... Overview of Summit High School. At Summit High School, students have the ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/oregon/districts/bend-lapine-administrative-school-district-1/summit-high-school-16417",
+     "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESwgEB6zswFbpt4Y7wdT1BtzwQiIvI8J4cjRIZEsrGdwX1AxMpeRRRB5rhIoYmqdp-vg22P8HnNej48fNTauWHi4PwuLDGKtuKLjEY5iYlJH8yEAmRozQ0N8vYv7km9_RJHLqQHOkxE_seNkLAZdAnjuheU8d7nCEYysD_XsTyqMtj9W0ay3bKySpAXVZAet2h-SlFHlbkTFd3TWK8YBb1A5ow2Mtj7UlYyc-reyDT0tCQ73rzFehZ4ctZqtPZFRaKd6ZvKQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESwgEB6zswFbpt4Y7wdT1BtzwQiIvI8J4cjRIZEsrGdwX1AxMpeRRRB5rhIoYmqdp-vg22P8HnNej48fNTauWHi4PwuLDGKtuKLjEY5iYlJH8yEAmRozQ0N8vYv7km9_RJHLqQHOkxE_seNkLAZdAnjuheU8d7nCEYysD_XsTyqMtj9W0ay3bKySpAXVZAet2h-SlFHlbkTFd3TWK8YBb1A5ow2Mtj7UlYyc-reyDT0tCQ73rzFehZ4ctZqtPZFRaKd6ZvKQ",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/oregon/districts/bend-lapine-administrative-school-district-1/summit-high-school-16417#:~:text=Summit%20High%20School,Nw%20Clearwater%20Dr%2C%20Bend%2C%20Oregon&text=Overview%20of%20Summit%20High%20School,Advanced%20Placement%C2%AE%20coursework%20and%20exams."
+  },
+  {
+   "position": 9,
+   "title": "Summit Collegiate High School (@summitcollegiate)",
+   "link": "https://www.facebook.com/summitcollegiate/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYgHrOzAVzaXwtqmuK2uQDs8cy3x12q8xSs1RsdmB0P8uavem3-IC9zepCCS01QCbfAQAcN7D2JwIZ_8N0iAPkyhheqoqeRdbwjCg6E655YgvN8kdWq0kqpbuIX5KhLpVXk71&ved=2ahUKEwi3z5S_7OSWAxV_HzQIHQFiI48QFnoECCUQAQ&uoh=1",
+   "displayed_link": "2K+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "snippet": "Summit High School offers strong academics, career technical education (CTE) pathways, college opportunities, athletics, clubs, and a supportive school ...",
+   "snippet_highlighted_words": [
+    "Summit High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Summit High School offers strong academics, career technical education (CTE) pathways, college opportunities, athletics, clubs, and a supportive school ...",
+     "source_info_link": "https://www.facebook.com/summitcollegiate/",
+     "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYgHrOzAVzaXwtqmuK2uQDs8cy3x12q8xSs1RsdmB0P8uavem3-IC9zepCCS01QCbfAQAcN7D2JwIZ_8N0iAPkyhheqoqeRdbwjCg6E655YgvN8kdWq0kqpbuIX5KhLpVXk71&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYgHrOzAVzaXwtqmuK2uQDs8cy3x12q8xSs1RsdmB0P8uavem3-IC9zepCCS01QCbfAQAcN7D2JwIZ_8N0iAPkyhheqoqeRdbwjCg6E655YgvN8kdWq0kqpbuIX5KhLpVXk71",
+   "source": "Facebook \u00b7 Summit Collegiate High School",
+   "read_more_link": "https://www.facebook.com/summitcollegiate/#:~:text=Summit%20High%20School%20offers%20strong,where%20every%20student%20can%20succeed."
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Summit high school football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuNyItsQvolBFAqVSjJRNKSAy4HHg:1789071980840&q=Summit+high+school+football&sa=X&ved=2ahUKEwi3z5S_7OSWAxV_HzQIHQFiI48Q1QJ6BAhPEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Summit+high+school+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Summit high school jaguars",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuNyItsQvolBFAqVSjJRNKSAy4HHg:1789071980840&q=Summit+high+school+jaguars&sa=X&ved=2ahUKEwi3z5S_7OSWAxV_HzQIHQFiI48Q1QJ6BAhTEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Summit+high+school+jaguars"
+  },
+  {
+   "block_position": 1,
+   "query": "Summit high school nashville",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuNyItsQvolBFAqVSjJRNKSAy4HHg:1789071980840&q=Summit+high+school+nashville&sa=X&ved=2ahUKEwi3z5S_7OSWAxV_HzQIHQFiI48Q1QJ6BAhSEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Summit+high+school+nashville"
+  },
+  {
+   "block_position": 1,
+   "query": "Summit High School NJ",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuNyItsQvolBFAqVSjJRNKSAy4HHg:1789071980840&q=Summit+High+School+NJ&sa=X&ved=2ahUKEwi3z5S_7OSWAxV_HzQIHQFiI48Q1QJ6BAhREAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Summit+High+School+NJ"
+  },
+  {
+   "block_position": 1,
+   "query": "Summit high school basketball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuNyItsQvolBFAqVSjJRNKSAy4HHg:1789071980840&q=Summit+high+school+basketball&sa=X&ved=2ahUKEwi3z5S_7OSWAxV_HzQIHQFiI48Q1QJ6BAhQEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Summit+high+school+basketball"
+  },
+  {
+   "block_position": 1,
+   "query": "Summit high school staff",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuNyItsQvolBFAqVSjJRNKSAy4HHg:1789071980840&q=Summit+high+school+staff&sa=X&ved=2ahUKEwi3z5S_7OSWAxV_HzQIHQFiI48Q1QJ6BAhOEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Summit+high+school+staff"
+  },
+  {
+   "block_position": 1,
+   "query": "Summit High School Calendar",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuNyItsQvolBFAqVSjJRNKSAy4HHg:1789071980840&q=Summit+High+School+Calendar&sa=X&ved=2ahUKEwi3z5S_7OSWAxV_HzQIHQFiI48Q1QJ6BAhNEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Summit+High+School+Calendar"
+  },
+  {
+   "block_position": 1,
+   "query": "Summit High School Phone number",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuNyItsQvolBFAqVSjJRNKSAy4HHg:1789071980840&q=Summit+High+School+Phone+number&sa=X&ved=2ahUKEwi3z5S_7OSWAxV_HzQIHQFiI48Q1QJ6BAhMEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Summit+High+School+Phone+number"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Summit+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuNyItsQvolBFAqVSjJRNKSAy4HHg:1789071980840&ei=bBKjarfpMv--0PEPgcSN-Qg&start=10&sa=N&sstk=AS6-VmIslLPTQR-pOAi-KUzFsXvqAprRbNNW2dd44BwWpJgHrxhIyEzKwqrPja8OJbW0vSO8tVaq-CqF82nWSe56y0Z2tCgZamz7Sw&ved=2ahUKEwi3z5S_7OSWAxV_HzQIHQFiI48Q8NMDegQIPhAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Summit+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuNyItsQvolBFAqVSjJRNKSAy4HHg:1789071980840&ei=bBKjarfpMv--0PEPgcSN-Qg&start=10&sa=N&sstk=AS6-VmIslLPTQR-pOAi-KUzFsXvqAprRbNNW2dd44BwWpJgHrxhIyEzKwqrPja8OJbW0vSO8tVaq-CqF82nWSe56y0Z2tCgZamz7Sw&ved=2ahUKEwi3z5S_7OSWAxV_HzQIHQFiI48Q8tMDegQIPhAE",
+   "3": "https://www.google.com/search?q=%22Summit+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuNyItsQvolBFAqVSjJRNKSAy4HHg:1789071980840&ei=bBKjarfpMv--0PEPgcSN-Qg&start=20&sa=N&sstk=AS6-VmIslLPTQR-pOAi-KUzFsXvqAprRbNNW2dd44BwWpJgHrxhIyEzKwqrPja8OJbW0vSO8tVaq-CqF82nWSe56y0Z2tCgZamz7Sw&ved=2ahUKEwi3z5S_7OSWAxV_HzQIHQFiI48Q8tMDegQIPhAG",
+   "4": "https://www.google.com/search?q=%22Summit+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuNyItsQvolBFAqVSjJRNKSAy4HHg:1789071980840&ei=bBKjarfpMv--0PEPgcSN-Qg&start=30&sa=N&sstk=AS6-VmIslLPTQR-pOAi-KUzFsXvqAprRbNNW2dd44BwWpJgHrxhIyEzKwqrPja8OJbW0vSO8tVaq-CqF82nWSe56y0Z2tCgZamz7Sw&ved=2ahUKEwi3z5S_7OSWAxV_HzQIHQFiI48Q8tMDegQIPhAI",
+   "5": "https://www.google.com/search?q=%22Summit+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuNyItsQvolBFAqVSjJRNKSAy4HHg:1789071980840&ei=bBKjarfpMv--0PEPgcSN-Qg&start=40&sa=N&sstk=AS6-VmIslLPTQR-pOAi-KUzFsXvqAprRbNNW2dd44BwWpJgHrxhIyEzKwqrPja8OJbW0vSO8tVaq-CqF82nWSe56y0Z2tCgZamz7Sw&ved=2ahUKEwi3z5S_7OSWAxV_HzQIHQFiI48Q8tMDegQIPhAK",
+   "6": "https://www.google.com/search?q=%22Summit+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuNyItsQvolBFAqVSjJRNKSAy4HHg:1789071980840&ei=bBKjarfpMv--0PEPgcSN-Qg&start=50&sa=N&sstk=AS6-VmIslLPTQR-pOAi-KUzFsXvqAprRbNNW2dd44BwWpJgHrxhIyEzKwqrPja8OJbW0vSO8tVaq-CqF82nWSe56y0Z2tCgZamz7Sw&ved=2ahUKEwi3z5S_7OSWAxV_HzQIHQFiI48Q8tMDegQIPhAM",
+   "7": "https://www.google.com/search?q=%22Summit+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuNyItsQvolBFAqVSjJRNKSAy4HHg:1789071980840&ei=bBKjarfpMv--0PEPgcSN-Qg&start=60&sa=N&sstk=AS6-VmIslLPTQR-pOAi-KUzFsXvqAprRbNNW2dd44BwWpJgHrxhIyEzKwqrPja8OJbW0vSO8tVaq-CqF82nWSe56y0Z2tCgZamz7Sw&ved=2ahUKEwi3z5S_7OSWAxV_HzQIHQFiI48Q8tMDegQIPhAO",
+   "8": "https://www.google.com/search?q=%22Summit+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuNyItsQvolBFAqVSjJRNKSAy4HHg:1789071980840&ei=bBKjarfpMv--0PEPgcSN-Qg&start=70&sa=N&sstk=AS6-VmIslLPTQR-pOAi-KUzFsXvqAprRbNNW2dd44BwWpJgHrxhIyEzKwqrPja8OJbW0vSO8tVaq-CqF82nWSe56y0Z2tCgZamz7Sw&ved=2ahUKEwi3z5S_7OSWAxV_HzQIHQFiI48Q8tMDegQIPhAQ",
+   "9": "https://www.google.com/search?q=%22Summit+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuNyItsQvolBFAqVSjJRNKSAy4HHg:1789071980840&ei=bBKjarfpMv--0PEPgcSN-Qg&start=80&sa=N&sstk=AS6-VmIslLPTQR-pOAi-KUzFsXvqAprRbNNW2dd44BwWpJgHrxhIyEzKwqrPja8OJbW0vSO8tVaq-CqF82nWSe56y0Z2tCgZamz7Sw&ved=2ahUKEwi3z5S_7OSWAxV_HzQIHQFiI48Q8tMDegQIPhAS",
+   "10": "https://www.google.com/search?q=%22Summit+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuNyItsQvolBFAqVSjJRNKSAy4HHg:1789071980840&ei=bBKjarfpMv--0PEPgcSN-Qg&start=90&sa=N&sstk=AS6-VmIslLPTQR-pOAi-KUzFsXvqAprRbNNW2dd44BwWpJgHrxhIyEzKwqrPja8OJbW0vSO8tVaq-CqF82nWSe56y0Z2tCgZamz7Sw&ved=2ahUKEwi3z5S_7OSWAxV_HzQIHQFiI48Q8tMDegQIPhAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Summit+High+School%22&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Summit+High+School%22&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Summit+High+School%22&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Summit+High+School%22&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Summit+High+School%22&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Summit+High+School%22&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Summit+High+School%22&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Summit+High+School%22&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Summit+High+School%22&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Summit+High+School%22&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Summit+High+School%22&start=90"
+  }
+ }
+}

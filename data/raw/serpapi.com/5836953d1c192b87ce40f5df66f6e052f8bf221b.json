@@ -1,0 +1,508 @@
+{
+ "search_information": {
+  "query_displayed": "\"Foothill High School\" Nevada",
+  "total_results": 77400,
+  "time_taken_displayed": 0.39,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Foothill High School",
+  "type": "Secondary school in Henderson, Nevada",
+  "entity_type": "local_nav",
+  "kgmid": "/m/0fxwr0",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/0fxwr0&hl=en-US&q=Foothill+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F0fxwr0&q=Foothill+High+School",
+  "place_id": "ChIJ0UdRTkbUyIARd_pI59HlKFs",
+  "website": "http://www.foothillhenderson.com",
+  "description": "Foothill High School is a four-year secondary school in the Clark County School District, located in the city of Henderson, Nevada.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa30a5ffbbebb1ea42be137/images/-otQhB_pl5lLVTGos59-jhDsTs8sR2fj6_IuXnyRZ58.webp",
+   "link": "https://www.google.com/maps/place/Foothill+High+School/data=!4m2!3m1!1s0x0:0x5b28e5d1e748fa77?sa=X&ved=2ahUKEwjMiZP15OSWAxU5r5UCHeR9Af0Q_BJ6BAgQEAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Foothill_High_School_(Henderson,_Nevada)"
+  },
+  "address": "800 College Dr, Henderson, NV 89002",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvuOe11ptba-UY_n4xdhxVkAiB9rA:1789069946577&q=foothill+high+school+address&ludocid=6568752746211113591&sa=X&ved=2ahUKEwjMiZP15OSWAxU5r5UCHeR9Af0Q6BN6BAgfEAI"
+   }
+  ],
+  "colors": "Blue, Navy Blue, Gold, Columbia blue",
+  "colors_links": [
+   {
+    "text": "Blue",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvuOe11ptba-UY_n4xdhxVkAiB9rA:1789069946577&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpvdEmEKP4dQQoWLIwXjhkBjOThA3TO1rl4rjAeqO-nYmdvIwuPkJOBOvWa55Tdr4V5dRmxp8wJyOU5PEm3ar3H7GFXifHeNr1rPakm0w-RRJBfZU4jeQLk2YYGFsmUOSGiG_2wc1WhVCwOYR8in6x3ApbETTVfcNY2V-3yiP4E6J35CDI9zg7X32316yUGYf_-A-76A%3D&sa=X&ved=2ahUKEwjMiZP15OSWAxU5r5UCHeR9Af0QmxN6BAgiEAI"
+   },
+   {
+    "text": "Navy Blue",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvuOe11ptba-UY_n4xdhxVkAiB9rA:1789069946577&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yWSNg8aXmecCRjxLN7rFz2H7cRaCVc0ZDejN5BRj8kHUG5GqspGWKfA5E2BzEjWypjyuq2T1wropkLsaA2qFHX2dgse5CNznM1vj-tcyV7kHFvMj8yixL3_-ksG1aO-tIRNYKjN20k8Y8mebu7nTVIWmqNwrxfjPLqQPMiNp9z2l3IIxYME7YTZXLgUR9C604f6d3BQ%3D&sa=X&ved=2ahUKEwjMiZP15OSWAxU5r5UCHeR9Af0QmxN6BAgiEAM"
+   },
+   {
+    "text": "Gold",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvuOe11ptba-UY_n4xdhxVkAiB9rA:1789069946577&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yU7RztYK-Yab4edFiOhB1UYVMdltt-ZMsiXUtQINgv1ca0bqhgi-jkD_kiRpipZA1K2jnLjfTWNU2-coO5oi7o_EGlo9AL0iI5AP3zAu9sTQGzOVcKKcVl9R61jZD7h0NcGRMKdmzWLOSPX71r5NiiQlLNpRTEheJqrnfdeySTZSHH_bHiYa-AidwxDol2zj66ielDc%3D&sa=X&ved=2ahUKEwjMiZP15OSWAxU5r5UCHeR9Af0QmxN6BAgiEAQ"
+   },
+   {
+    "text": "Columbia blue",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvuOe11ptba-UY_n4xdhxVkAiB9rA:1789069946577&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yfY82ala_77w76bkg7PIFtuXanJMmY-XScNjRS7nuzi6DO7aavZGwBChwdFLKeC7R3SZIMIbRIDRDBKbsPiIvPXEiC-p94EKLrK-ZqvaSxiCSjWwmn4PNmpFpTe7LfFyzmFI55T5bTqbIwL2_vZ0_Eia2qNxv0ypkKJEx4s16cYJ4I_0YMVoWflAd5BqgRn1GEoEP_E%3D&sa=X&ved=2ahUKEwjMiZP15OSWAxU5r5UCHeR9Af0QmxN6BAgiEAU"
+   }
+  ],
+  "founded": "1999",
+  "school_types": "Secondary school, High school, State school, Public school",
+  "school_types_links": [
+   {
+    "text": "Secondary school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvuOe11ptba-UY_n4xdhxVkAiB9rA:1789069946577&q=Secondary+school&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67-Rsa99rK7fwEET42kD4ZCjk-kwuBlXLYvTk1E00Fqrhwi85KZ1INmxqGZOr3jlJDcUD6ud1MLv8IJ0e6fEDPQWMqzMljtx1MKREnqXNq73iBmVYUXhVajf4-CJpGY6Yvq6a7FuM4E3wdcpDUY2XpTQOkT9RWL0O9QQAdna-LIW9mnmo3rsVG28kLgg4u7GORNVS-04WGmdzVh3UVkzS_WjWXDjUdgIvYI0T4Ml4SjIDO31BUJvn0G_k7d50AlqPDEaH7QE%3D&sa=X&ved=2ahUKEwjMiZP15OSWAxU5r5UCHeR9Af0QmxN6BAgnEAI"
+   },
+   {
+    "text": "High school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvuOe11ptba-UY_n4xdhxVkAiB9rA:1789069946577&q=High+school&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMppXfNh-OkLk_azmU0uk1AX8WDg6Aey6nZnfzhISz_BahG86fIXhZzQ_5i9gVo2jpkRefi2vb1cuIcbbWsQX1bg-7OrENYaerTHY7HdnuvRnhVmc92BEvB75Ij4W5o7KjuiDW32LhYnifpuhrbgd3kHs_ttZsb4YxgiJ8VCOSo4SwXMKUafZvnRT94U0MQQEnWjiFQhCxVkDXHAA1ACBS6Ev2AAuV_EEw7FMTewGRu6FlCmI50JylUtPt40nWARt083GRgJ0%3D&sa=X&ved=2ahUKEwjMiZP15OSWAxU5r5UCHeR9Af0QmxN6BAgnEAM"
+   },
+   {
+    "text": "State school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvuOe11ptba-UY_n4xdhxVkAiB9rA:1789069946577&q=State+school&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ybGtCxI0H8z2nV80srIO5hh43iJrpLL9zyTRHToodwNipZCD4kcN2wbzA3OqfyGettl42NpXglwsH4hnJQRSg4KBrFTowpZphOt0qedRcJ2A4k_AKBstjQHxLLurxiXWGvq-WarBBiD9mHpjqi7hjVntFSwBsQmg9IasYu2jcai_1tSMbeannr4W5h-tPpLOcuruT-mYem_poZDwdP-HlAq_Hd9L3YSOFxJpv8dDDwmB4eHPRmy9BVhZINdc4zKq2wO3gU4%3D&sa=X&ved=2ahUKEwjMiZP15OSWAxU5r5UCHeR9Af0QmxN6BAgnEAQ"
+   },
+   {
+    "text": "Public school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvuOe11ptba-UY_n4xdhxVkAiB9rA:1789069946577&q=Public+school&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpnRjecyiHCyfvh60pbD8ck5PRN1YHP_sJ4SP5ZvhFW1SCqcU73cy8ciuVYm7MIcM9JKjoj5TcP9yh14TUTaTMZ3No418INxdY9bFHeSRgFp7DQwxnjXbHPdfSM1W2dW35H35NPpuCvkJrM4VVP_EGvXiGaJRT-3DfIMPRMEJdQE7fyb2p8SG0YQWxOW2A-79uUy3g1XT9VMvNyEHs_OLp1_m2FU_Umlg0U94K6L6NwUSChc4vGurLnLsBVi3YwI_84tBMe8%3D&sa=X&ved=2ahUKEwjMiZP15OSWAxU5r5UCHeR9Af0QmxN6BAgnEAU"
+   }
+  ],
+  "phone": "(702) 799-3500",
+  "raw_hours": "Open \u00b7 Closes 3 PM",
+  "hours": {
+   "thursday": {
+    "opens": "6:30\u202fAM",
+    "closes": "3\u202fPM"
+   },
+   "friday": {
+    "opens": "6:30\u202fAM",
+    "closes": "3\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "6:30\u202fAM",
+    "closes": "3\u202fPM"
+   },
+   "tuesday": {
+    "opens": "6:30\u202fAM",
+    "closes": "3\u202fPM"
+   },
+   "wednesday": {
+    "opens": "6:30\u202fAM",
+    "closes": "3\u202fPM"
+   }
+  },
+  "unclaimed_listing": true,
+  "people_also_search_for": [
+   {
+    "name": "Coronado High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn7BuBXq2dzoBA9xshXQTBUotKsmFUc8VeOv9g74uJS2WHigPbMHf0LLhUydlRSwIoFfJPmfrZ5-4P0jEu2C0iYAjOOAccJwO325ovuOj_2eEypqdTBwOfM5S1e2WcEhrE9edhH=w204-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvuOe11ptba-UY_n4xdhxVkAiB9rA:1789069946577&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67yfSCIuGvxm7exY3-8CVxkdcqtsPaVfE-1jIyffQqbKwwjoWodcvQElxygrK8QsGpFASLZaRvikty-RtHx1y42Eb7fM2o1ydX2mXr_aVD_5b0SOiAWENDj9f115aKFMwcsAaCzLUrbsFnWBb-YFusQyiSAAif0hu9bCfC1muqR7emGJK6A5JUpId9bX6VKTedPsxrhqNdCLj0YCbXj-iniHVB7rvrZvzqmjndgJkPc0m5U7DvG2_PZaQfGm8hEatLsotzpWLP1hc9NCTr7yaxdG_hzTL&q=Coronado+High+School+(Nevada)&sa=X&ved=2ahUKEwjMiZP15OSWAxU5r5UCHeR9Af0Qs9oBKAB6BAgeEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Coronado+High+School+%28Nevada%29&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67yfSCIuGvxm7exY3-8CVxkdcqtsPaVfE-1jIyffQqbKwwjoWodcvQElxygrK8QsGpFASLZaRvikty-RtHx1y42Eb7fM2o1ydX2mXr_aVD_5b0SOiAWENDj9f115aKFMwcsAaCzLUrbsFnWBb-YFusQyiSAAif0hu9bCfC1muqR7emGJK6A5JUpId9bX6VKTedPsxrhqNdCLj0YCbXj-iniHVB7rvrZvzqmjndgJkPc0m5U7DvG2_PZaQfGm8hEatLsotzpWLP1hc9NCTr7yaxdG_hzTL"
+   },
+   {
+    "name": "Shadow Ridge High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmlBcwL02-2VmrcaJVzohpnJHFunKGFKWknlIpVuQh82wSKHBvTturnirHbtNVHzrxCM_CA4Qffo9Erw6U_vJPVN9w1OoiYkbrlZn8gFT6Rc_n1Dy8wGXL_-ioICF-TAvXXYxoE=w172-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvuOe11ptba-UY_n4xdhxVkAiB9rA:1789069946577&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW676rCypkOQMmupY24cbBJ8q4s4nVKbzZONE8E82AhQE1tc6xerwQHsVyxcj7sGg__MBkVXD9WTI6rkERxg8Tn9OaeNwO4qwX63DztT1Kla17PV3H8AIocTQo946pnSwmRKGdVQC0DklM6TSU_LDiqAxn72OFquh9DWcVPwENT1bwPvB29jo_yaCbxQHG3kuKln2BtblMxZiluMrotD7GwruE786PDkg5P6cecSQHkzdGK5v132f-_EAXUVSX9xlSSvDevCHt5W1kM60TDe3OQTXcHuVMN&q=Shadow+Ridge+High+School&sa=X&ved=2ahUKEwjMiZP15OSWAxU5r5UCHeR9Af0Qs9oBKAB6BAgeEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Shadow+Ridge+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW676rCypkOQMmupY24cbBJ8q4s4nVKbzZONE8E82AhQE1tc6xerwQHsVyxcj7sGg__MBkVXD9WTI6rkERxg8Tn9OaeNwO4qwX63DztT1Kla17PV3H8AIocTQo946pnSwmRKGdVQC0DklM6TSU_LDiqAxn72OFquh9DWcVPwENT1bwPvB29jo_yaCbxQHG3kuKln2BtblMxZiluMrotD7GwruE786PDkg5P6cecSQHkzdGK5v132f-_EAXUVSX9xlSSvDevCHt5W1kM60TDe3OQTXcHuVMN"
+   },
+   {
+    "name": "Clark High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnxnvRGNTiVCnU-uZ3DYcJpUo_5nZsqoY0aoRA8G4-bKW0gwJSf1OJRF8cQe8XYJo2EnpFvj1POZFZqIGJ4m4r6v1DRiYyoIXZqPCE_ZV8iyRt0dAr41-FqbV7rA-h1ft1KIww=w204-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvuOe11ptba-UY_n4xdhxVkAiB9rA:1789069946577&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67yzcNtSntxFFR-VyIUj8nI5HIDmU_Q3ghX0suxpwLb1dangdY9B3wRJVtlDtcBb0ISctu76wb0BQe_tMElD-0-te6nSLF-Fz91kbB9mMJZ7TfUKNPATENkNtiwrMBkgmheA6uNFcIwS6Clg2Fy9PPUQqF-6-sshJ4HskFWQ_XQvbgYceA4Zf7o1yjivNTb3i5B9wAgZrT2uAPafhqVWdevq6oS-nohVCt-J2-jG1i9rP0TG-c0QEE6B2JN6wCM3GVLAR586T_qL65TV0-9oCojK31bED&q=Ed+W.+Clark+High+School&sa=X&ved=2ahUKEwjMiZP15OSWAxU5r5UCHeR9Af0Qs9oBKAB6BAgeEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ed+W.+Clark+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67yzcNtSntxFFR-VyIUj8nI5HIDmU_Q3ghX0suxpwLb1dangdY9B3wRJVtlDtcBb0ISctu76wb0BQe_tMElD-0-te6nSLF-Fz91kbB9mMJZ7TfUKNPATENkNtiwrMBkgmheA6uNFcIwS6Clg2Fy9PPUQqF-6-sshJ4HskFWQ_XQvbgYceA4Zf7o1yjivNTb3i5B9wAgZrT2uAPafhqVWdevq6oS-nohVCt-J2-jG1i9rP0TG-c0QEE6B2JN6wCM3GVLAR586T_qL65TV0-9oCojK31bED"
+   },
+   {
+    "name": "Basic Academy",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm12kCMvt_7qsHeYoDQjOKpkpS_q4XfMTYENw8Ps3TGljaD9gmiO1oNMebjgsRuhh-Uu_wYL09_hpuZ3IxQuFBVvle4Dy0gBnu6Vml_puWoHDqw0AvBizOddzaqolCh9y61LRb4=w173-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvuOe11ptba-UY_n4xdhxVkAiB9rA:1789069946577&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yTI_OZSx4FyV8KBeg1aaTA9jXBu7wfsrMRez3fvrYzaBW8TPJiUmlslaErLiK0expzHjL9_tT4n1SAweOpJkMYr-i-KeysS8NreCSR-rCTRYd8wmBhVbmipS08H0wqSX4DNp0wpJkEj0ZxJ-yD3Spt7xzjfcxNwKO3pTm-yPctB3tg7cQx4TQYXdTx8hChnZCLeJKzh7-jV2FcBqN-WYcKtrC2Ug1bNPaI9oBqEKm1e2Xic9ti1glCi2-uRu__M_So1OBw-CDjCkAs7sSC1xi9_dVCm0bUzJP3xBXaN24WGW_OyrsA%3D%3D&q=Basic+Academy+of+International+Studies&sa=X&ved=2ahUKEwjMiZP15OSWAxU5r5UCHeR9Af0Qs9oBKAB6BAgeEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Basic+Academy+of+International+Studies&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yTI_OZSx4FyV8KBeg1aaTA9jXBu7wfsrMRez3fvrYzaBW8TPJiUmlslaErLiK0expzHjL9_tT4n1SAweOpJkMYr-i-KeysS8NreCSR-rCTRYd8wmBhVbmipS08H0wqSX4DNp0wpJkEj0ZxJ-yD3Spt7xzjfcxNwKO3pTm-yPctB3tg7cQx4TQYXdTx8hChnZCLeJKzh7-jV2FcBqN-WYcKtrC2Ug1bNPaI9oBqEKm1e2Xic9ti1glCi2-uRu__M_So1OBw-CDjCkAs7sSC1xi9_dVCm0bUzJP3xBXaN24WGW_OyrsA%3D%3D"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvuOe11ptba-UY_n4xdhxVkAiB9rA:1789069946577&q=Foothill+High+School&stick=H4sIAAAAAAAAAONgFuLUz9U3SKsoLzJQQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iFXHLzy_JyMzJUfDITM9QCE7OyM_P2cHKeItNkuGNQ0VgLl9T55Jww0Os2os2RyQF26SHfT8OAJi6VGl6AAAA&sa=X&ved=2ahUKEwjMiZP15OSWAxU5r5UCHeR9Af0QzO0BKAR6BAgeEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLUz9U3SKsoLzJQQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iFXHLzy_JyMzJUfDITM9QCE7OyM_P2cHKeItNkuGNQ0VgLl9T55Jww0Os2os2RyQF26SHfT8OAJi6VGl6AAAA",
+  "profiles": [
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/foothillhighschoolhenderson",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Foothill+High+School%22+Nevada",
+    "image": "https://serpapi.com/searches/6aa30a5ffbbebb1ea42be137/images/-otQhB_pl5lLVTGos59-judydv8N46qpcIq1Wwl68LrcAXLO0w2hfj1Xqkfs86OM.png"
+   },
+   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/foothillhenderson/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Foothill+High+School%22+Nevada",
+    "image": "https://serpapi.com/searches/6aa30a5ffbbebb1ea42be137/images/-otQhB_pl5lLVTGos59-jjCGXH-xMDN9opZh5UQeX-6D_1EBcM6r5U_q3Eious0I.png"
+   },
+   {
+    "name": "X (Twitter)",
+    "link": "https://twitter.com/foothill_hs",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Foothill+High+School%22+Nevada",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAABhUlEQVR4AczOA6xcARCF4X_us23btuLUQR3WZlhbQW3bto2gtm3b2J3GN4tY74uHh3okOi42Nj4AAUDwTvDEhisABCOAEAzYTBh0bN-lc5d0QgAhHPqX4Y4pkd367Zc-xMcXCPDg8TPwxeQH724Uj9N95GJ4pnHxby1xgCmV3v-GsFb7k0Iee7UjaQgmIYe9v9O4-wUKWaATyMPAViwvr1NnOQWDdTV5CHYSaKWLmaGDyvU4mTgQcllracaFr-9uk-yLM8k8fAJff0IUTghRVFu3M1ynkYk4nchiqqU3Ry05RDibMMhjtj6Ht3dJxVk_l1G64cspOusychBsCWm01WNM0jFs0sbEYUtIIuTXNco588OLh09JxE6wweuXEAvfL9PQus3-iU80N34KCaQyUOcxTTuSjEmMRI5rS9JwIZfD1t7ceo34YIpnuQ4nGwP8XXlq_fJZd9jE8KBHC5IwAELJ7dWrZ6fOuNhkgFgAEEIAwA1MQkw0AgDC_wnKycrKSQ2iPAkAVyNzq8rxicIAAAAASUVORK5CYII.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "What celebrities went to Foothill High School?",
+   "type": "ai_overview",
+   "page_token": "FFfpM3icHdBfbpswHABg9TJ9bHBo2BIpqkpjs2bFK2D_AL9MxiYQbP6UoJDkbVfoGXaqnWbTTvBJ36_f9tiZP3ef9TQNp81iMc_zQ9X3lS0fVN8u5OnaqYWS1hZSmY33xUNPB7XFZ-W_jMqP-DDALnaSVL9HjBrAkAuAG0N0LLL9hXL0mNzAgY68s67GKph6adcts1-X2sSewHQVBppwtCfCmSAJ-lXYDUHcVG6-1AcOHEGwzvMr2qf8NKff9Bga-5ZgjUugY2l9kCB21KwixfwTXWoR756RzmzDOHIjZ34sjHUho3uK67aAatJA3wTTXp4iL0b0tWDihTM-gVmdVUqyogFWcmt59uzotvrnh3MZ1GHKgMtOu7jWVrjkI8-oJx17LVp-UYhEFHwUN8L_4ffHiMc31dgWyPoYIZKUOyI1v0ju1q_MoJ5i-B46mugAfDHfH9R5697_v97-PLTTZhj76i-RHYuz",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=FFfpM3icHdBfbpswHABg9TJ9bHBo2BIpqkpjs2bFK2D_AL9MxiYQbP6UoJDkbVfoGXaqnWbTTvBJ36_f9tiZP3ef9TQNp81iMc_zQ9X3lS0fVN8u5OnaqYWS1hZSmY33xUNPB7XFZ-W_jMqP-DDALnaSVL9HjBrAkAuAG0N0LLL9hXL0mNzAgY68s67GKph6adcts1-X2sSewHQVBppwtCfCmSAJ-lXYDUHcVG6-1AcOHEGwzvMr2qf8NKff9Bga-5ZgjUugY2l9kCB21KwixfwTXWoR756RzmzDOHIjZ34sjHUho3uK67aAatJA3wTTXp4iL0b0tWDihTM-gVmdVUqyogFWcmt59uzotvrnh3MZ1GHKgMtOu7jWVrjkI8-oJx17LVp-UYhEFHwUN8L_4ffHiMc31dgWyPoYIZKUOyI1v0ju1q_MoJ5i-B46mugAfDHfH9R5697_v97-PLTTZhj76i-RHYuz",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVpWSm9TV1JFTVZaVVVVSklURlJyY0V0aVNFeG5la2RIV2t0eFVIQkZha3h6VkRCUlNGazRVVTlPWDB0MmFuUjZNa3RUZVVWWE1DMUVNWGRFZVVKV1gxUlVaVGxsV20xaVpreDVTVzVmZWpOcmFUQndhbFJaUTFvMVFSSVhaV2R4YW1GemVtdEpjbTVsTVhOUlVEVlFkVVkyUVRnYUlrRkVjM0k1WmxFek1WUnZYM1ZPTWtaR2VFczVWMk5uU0RWaWJubFZTR2RuWWtFIiwiZmN2IjoiMyIsImVpIjoiZWdxamFzemtJcm5lMXNRUDVQdUY2QTgiLCJxYyI6IkNodG1iMjkwYUdsc2JDQm9hV2RvSUhOamFHOXZiQ0J1WlhaaFpHRVFBSDJ5R0RBXyIsInF1ZXN0aW9uIjoiV2hhdCBjZWxlYnJpdGllcyB3ZW50IHRvIEZvb3RoaWxsIEhpZ2ggU2Nob29sPyIsImxrIjoiR2kxM2FHRjBJR05sYkdWaWNtbDBhV1Z6SUhkbGJuUWdkRzhnWm05dmRHaHBiR3dnYUdsbmFDQnpZMmh2YjJ3IiwiYnMiOiJjMzJRVFF1Q1FCUkZhVHVyMXJPNjBNZEtqVnlHNEM1YzJTS29aVXc2T1FNMkE4NUxDZnJ4bVNFRWF1dDdELWUteHdRTHprb1FNbG5LYTZWSlM0ZEdHZ0paN0swbHBjc1NpUzRVanBteXRvekREZmViS2VMV0UtcER1STVnQjdicUZOcUJsTVJpLTV0Q0c2U3lGcm1Jd3pWZk5uLUxwaXV5RjRzUzItQXV6Qk9PSG5rcmR4QkUwdVNqbTVHMGlheWNOUjdTVXh4R2ZLZW0tTEVMb0hvZXBtWVg1Z190aFoxLVdNQzlvZTRMak5ubXN6YyIsImlkIjoiZmNfZWdxamFzemtJcm5lMXNRUDVQdUY2QThfMSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVpWSm9TV1JFTVZaVVVVSklURlJyY0V0aVNFeG5la2RIV2t0eFVIQkZha3h6VkRCUlNGazRVVTlPWDB0MmFuUjZNa3RUZVVWWE1DMUVNWGRFZVVKV1gxUlVaVGxsV20xaVpreDVTVzVmZWpOcmFUQndhbFJaUTFvMVFSSVhaV2R4YW1GemVtdEpjbTVsTVhOUlVEVlFkVVkyUVRnYUlrRkVjM0k1WmxFek1WUnZYM1ZPTWtaR2VFczVWMk5uU0RWaWJubFZTR2RuWWtFIiwiZmN2IjoiMyIsImVpIjoiZWdxamFzemtJcm5lMXNRUDVQdUY2QTgiLCJxYyI6IkNodG1iMjkwYUdsc2JDQm9hV2RvSUhOamFHOXZiQ0J1WlhaaFpHRVFBSDJ5R0RBXyIsInF1ZXN0aW9uIjoiV2hhdCBjZWxlYnJpdGllcyB3ZW50IHRvIEZvb3RoaWxsIEhpZ2ggU2Nob29sPyIsImxrIjoiR2kxM2FHRjBJR05sYkdWaWNtbDBhV1Z6SUhkbGJuUWdkRzhnWm05dmRHaHBiR3dnYUdsbmFDQnpZMmh2YjJ3IiwiYnMiOiJjMzJRVFF1Q1FCUkZhVHVyMXJPNjBNZEtqVnlHNEM1YzJTS29aVXc2T1FNMkE4NUxDZnJ4bVNFRWF1dDdELWUteHdRTHprb1FNbG5LYTZWSlM0ZEdHZ0paN0swbHBjc1NpUzRVanBteXRvekREZmViS2VMV0UtcER1STVnQjdicUZOcUJsTVJpLTV0Q0c2U3lGcm1Jd3pWZk5uLUxwaXV5RjRzUzItQXV6Qk9PSG5rcmR4QkUwdVNqbTVHMGlheWNOUjdTVXh4R2ZLZW0tTEVMb0hvZXBtWVg1Z190aFoxLVdNQzlvZTRMak5ubXN6YyIsImlkIjoiZmNfZWdxamFzemtJcm5lMXNRUDVQdUY2QThfMSJ9"
+  },
+  {
+   "question": "What is the #1 high school in Nevada?",
+   "type": "ai_overview",
+   "page_token": "qx85PnicHdBRToMwGADgeJk9OgoydcliUke3GfnngLbAi4F2jNEW2IYCe_MunsrTaDzC931962Otfm4-y65rL_PptO_720PTHPT-VjRmml3GWkxFpnWeCTWf3c_QUyEW3scGP582eEfbli0DK1pLO-FtzaryLB2S5oa6UUUuwnRjhgDtSeLmtRzCEH2kFsx806Y8Kk3EvTthS1_U-m1PH08hD4yv9QiezrbewY6vTEkLgVAPCGqIgYAX1FD4tFTsSq3QYsS3ywRMUOQxW8GKdXTV1qEHg8_1a4zwSx69VP4VVGSTSvJhw5bkLVyXYexgmytr9B0JELPjlshzRN07odzAK6VOHXJKYphllh7_PINAZAcMo6BK8RY3xx0NrqLShtrJkNOu5xq3cuVG0nvc8CPSnHbrxEo1Vx1O-0khPhfO5P9z8V6Ybt6em8MvmRSDlg",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=qx85PnicHdBRToMwGADgeJk9OgoydcliUke3GfnngLbAi4F2jNEW2IYCe_MunsrTaDzC931962Otfm4-y65rL_PptO_720PTHPT-VjRmml3GWkxFpnWeCTWf3c_QUyEW3scGP582eEfbli0DK1pLO-FtzaryLB2S5oa6UUUuwnRjhgDtSeLmtRzCEH2kFsx806Y8Kk3EvTthS1_U-m1PH08hD4yv9QiezrbewY6vTEkLgVAPCGqIgYAX1FD4tFTsSq3QYsS3ywRMUOQxW8GKdXTV1qEHg8_1a4zwSx69VP4VVGSTSvJhw5bkLVyXYexgmytr9B0JELPjlshzRN07odzAK6VOHXJKYphllh7_PINAZAcMo6BK8RY3xx0NrqLShtrJkNOu5xq3cuVG0nvc8CPSnHbrxEo1Vx1O-0khPhfO5P9z8V6Ybt6em8MvmRSDlg",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVpWSm9TV1JFTVZaVVVVSklURlJyY0V0aVNFeG5la2RIV2t0eFVIQkZha3h6VkRCUlNGazRVVTlPWDB0MmFuUjZNa3RUZVVWWE1DMUVNWGRFZVVKV1gxUlVaVGxsV20xaVpreDVTVzVmZWpOcmFUQndhbFJaUTFvMVFSSVhaV2R4YW1GemVtdEpjbTVsTVhOUlVEVlFkVVkyUVRnYUlrRkVjM0k1WmxFek1WUnZYM1ZPTWtaR2VFczVWMk5uU0RWaWJubFZTR2RuWWtFIiwiZmN2IjoiMyIsImVpIjoiZWdxamFzemtJcm5lMXNRUDVQdUY2QTgiLCJxYyI6IkNodG1iMjkwYUdsc2JDQm9hV2RvSUhOamFHOXZiQ0J1WlhaaFpHRVFBSDJ5R0RBXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgIzEgaGlnaCBzY2hvb2wgaW4gTmV2YWRhPyIsImxrIjoiR2lSM2FHRjBJR2x6SUhSb1pTQWpNU0JvYVdkb0lITmphRzl2YkNCcGJpQnVaWFpoWkdFIiwiYnMiOiJjMzJRVFF1Q1FCUkZhVHVyMXJPNjBNZEtqVnlHNEM1YzJTS29aVXc2T1FNMkE4NUxDZnJ4bVNFRWF1dDdELWUteHdRTHprb1FNbG5LYTZWSlM0ZEdHZ0paN0swbHBjc1NpUzRVanBteXRvekREZmViS2VMV0UtcER1STVnQjdicUZOcUJsTVJpLTV0Q0c2U3lGcm1Jd3pWZk5uLUxwaXV5RjRzUzItQXV6Qk9PSG5rcmR4QkUwdVNqbTVHMGlheWNOUjdTVXh4R2ZLZW0tTEVMb0hvZXBtWVg1Z190aFoxLVdNQzlvZTRMak5ubXN6YyIsImlkIjoiZmNfZWdxamFzemtJcm5lMXNRUDVQdUY2QThfMSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVpWSm9TV1JFTVZaVVVVSklURlJyY0V0aVNFeG5la2RIV2t0eFVIQkZha3h6VkRCUlNGazRVVTlPWDB0MmFuUjZNa3RUZVVWWE1DMUVNWGRFZVVKV1gxUlVaVGxsV20xaVpreDVTVzVmZWpOcmFUQndhbFJaUTFvMVFSSVhaV2R4YW1GemVtdEpjbTVsTVhOUlVEVlFkVVkyUVRnYUlrRkVjM0k1WmxFek1WUnZYM1ZPTWtaR2VFczVWMk5uU0RWaWJubFZTR2RuWWtFIiwiZmN2IjoiMyIsImVpIjoiZWdxamFzemtJcm5lMXNRUDVQdUY2QTgiLCJxYyI6IkNodG1iMjkwYUdsc2JDQm9hV2RvSUhOamFHOXZiQ0J1WlhaaFpHRVFBSDJ5R0RBXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgIzEgaGlnaCBzY2hvb2wgaW4gTmV2YWRhPyIsImxrIjoiR2lSM2FHRjBJR2x6SUhSb1pTQWpNU0JvYVdkb0lITmphRzl2YkNCcGJpQnVaWFpoWkdFIiwiYnMiOiJjMzJRVFF1Q1FCUkZhVHVyMXJPNjBNZEtqVnlHNEM1YzJTS29aVXc2T1FNMkE4NUxDZnJ4bVNFRWF1dDdELWUteHdRTHprb1FNbG5LYTZWSlM0ZEdHZ0paN0swbHBjc1NpUzRVanBteXRvekREZmViS2VMV0UtcER1STVnQjdicUZOcUJsTVJpLTV0Q0c2U3lGcm1Jd3pWZk5uLUxwaXV5RjRzUzItQXV6Qk9PSG5rcmR4QkUwdVNqbTVHMGlheWNOUjdTVXh4R2ZLZW0tTEVMb0hvZXBtWVg1Z190aFoxLVdNQzlvZTRMak5ubXN6YyIsImlkIjoiZmNfZWdxamFzemtJcm5lMXNRUDVQdUY2QThfMSJ9"
+  },
+  {
+   "question": "How many students attend Foothill High School Henderson, NV?",
+   "type": "ai_overview",
+   "page_token": "-m-ptHicHdBLjpswAABQ9TKznNimUCVSVI3DR2JmnGKwwd5UYJMQbAfyZcKuV-gZeqo5Tavu3-r9-mMPR_P55Xd3vY6X1WIxTdPzfhj2tn1Wg1vUl8dRLVRtbVMrswq-BfD7Tq2ju8Kbs8IZG0ceUpD3_FYmF08eM1gD8soQBRQsNxXqgjbuNtKzr7TSSJTLMAM2kCjy3woJ2qhDrVliEhJJXHaVlXnIkG8J1IeC6YQyjXMuxyL5KIWjKTt2RRlaJg1M3jketYm_CkQSguhNzB0kTk9vFTm9Ox_X7DJrIG_qAP2ioiduJWt6g8qSb5qZgBzSYhtJLnouZen_yE1aaUYeAthHG9q4dWmqrEHKo1ZaAhtEztqM96jTVnrxSVQkqP_ZxrEPBeOMcAxpL_EWD4eM0Vn11jFHzxXw-6YQD1HhnBbdIPrUqyPe17OMhPeC9PS0U_e19_T_ev1z566r8Tzs_wKXdowE",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=-m-ptHicHdBLjpswAABQ9TKznNimUCVSVI3DR2JmnGKwwd5UYJMQbAfyZcKuV-gZeqo5Tavu3-r9-mMPR_P55Xd3vY6X1WIxTdPzfhj2tn1Wg1vUl8dRLVRtbVMrswq-BfD7Tq2ju8Kbs8IZG0ceUpD3_FYmF08eM1gD8soQBRQsNxXqgjbuNtKzr7TSSJTLMAM2kCjy3woJ2qhDrVliEhJJXHaVlXnIkG8J1IeC6YQyjXMuxyL5KIWjKTt2RRlaJg1M3jketYm_CkQSguhNzB0kTk9vFTm9Ox_X7DJrIG_qAP2ioiduJWt6g8qSb5qZgBzSYhtJLnouZen_yE1aaUYeAthHG9q4dWmqrEHKo1ZaAhtEztqM96jTVnrxSVQkqP_ZxrEPBeOMcAxpL_EWD4eM0Vn11jFHzxXw-6YQD1HhnBbdIPrUqyPe17OMhPeC9PS0U_e19_T_ev1z566r8Tzs_wKXdowE",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVpWSm9TV1JFTVZaVVVVSklURlJyY0V0aVNFeG5la2RIV2t0eFVIQkZha3h6VkRCUlNGazRVVTlPWDB0MmFuUjZNa3RUZVVWWE1DMUVNWGRFZVVKV1gxUlVaVGxsV20xaVpreDVTVzVmZWpOcmFUQndhbFJaUTFvMVFSSVhaV2R4YW1GemVtdEpjbTVsTVhOUlVEVlFkVVkyUVRnYUlrRkVjM0k1WmxFek1WUnZYM1ZPTWtaR2VFczVWMk5uU0RWaWJubFZTR2RuWWtFIiwiZmN2IjoiMyIsImVpIjoiZWdxamFzemtJcm5lMXNRUDVQdUY2QTgiLCJxYyI6IkNodG1iMjkwYUdsc2JDQm9hV2RvSUhOamFHOXZiQ0J1WlhaaFpHRVFBSDJ5R0RBXyIsInF1ZXN0aW9uIjoiSG93IG1hbnkgc3R1ZGVudHMgYXR0ZW5kIEZvb3RoaWxsIEhpZ2ggU2Nob29sIEhlbmRlcnNvbiwgTlY/IiwibGsiOiJjNU95eXNndlY4aE56S3RVS0M0cFRVbk5LeWxXU0N3cFNjMUxVVWpMenlfSnlNekpVY2pJVE05UUtFN095TThIc29FeXFVWEYtWGtLZVdVQSIsImJzIjoiYzMyUVRRdUNRQlJGYVR1cjFyTzYwTWRLalZ5RzRDNWMyU0tvWlV3Nk9RTTJBODVMQ2ZyeG1TRUVhdXQ3RC1lLXh3UUx6a29RTWxuS2E2VkpTNGRHR2dKWjdLMGxwY3NTaVM0VWpwbXl0b3pERGZlYktlTFdFLXBEdUk1Z0I3YnFGTnFCbE1SaS01dENHNlN5RnJtSXd6VmZObi1McGl1eUY0c1MyLUF1ekJPT0hua3JkeEJFMHVTam01RzBpYXljTlI3U1V4eEdmS2VtLUxFTG9Ib2VwbVlYNWdfdGhaMS1XTUM5b2U0TGpObm1zemMiLCJpZCI6ImZjX2VncWphc3prSXJuZTFzUVA1UHVGNkE4XzEifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVpWSm9TV1JFTVZaVVVVSklURlJyY0V0aVNFeG5la2RIV2t0eFVIQkZha3h6VkRCUlNGazRVVTlPWDB0MmFuUjZNa3RUZVVWWE1DMUVNWGRFZVVKV1gxUlVaVGxsV20xaVpreDVTVzVmZWpOcmFUQndhbFJaUTFvMVFSSVhaV2R4YW1GemVtdEpjbTVsTVhOUlVEVlFkVVkyUVRnYUlrRkVjM0k1WmxFek1WUnZYM1ZPTWtaR2VFczVWMk5uU0RWaWJubFZTR2RuWWtFIiwiZmN2IjoiMyIsImVpIjoiZWdxamFzemtJcm5lMXNRUDVQdUY2QTgiLCJxYyI6IkNodG1iMjkwYUdsc2JDQm9hV2RvSUhOamFHOXZiQ0J1WlhaaFpHRVFBSDJ5R0RBXyIsInF1ZXN0aW9uIjoiSG93IG1hbnkgc3R1ZGVudHMgYXR0ZW5kIEZvb3RoaWxsIEhpZ2ggU2Nob29sIEhlbmRlcnNvbiwgTlY%2FIiwibGsiOiJjNU95eXNndlY4aE56S3RVS0M0cFRVbk5LeWxXU0N3cFNjMUxVVWpMenlfSnlNekpVY2pJVE05UUtFN095TThIc29FeXFVWEYtWGtLZVdVQSIsImJzIjoiYzMyUVRRdUNRQlJGYVR1cjFyTzYwTWRLalZ5RzRDNWMyU0tvWlV3Nk9RTTJBODVMQ2ZyeG1TRUVhdXQ3RC1lLXh3UUx6a29RTWxuS2E2VkpTNGRHR2dKWjdLMGxwY3NTaVM0VWpwbXl0b3pERGZlYktlTFdFLXBEdUk1Z0I3YnFGTnFCbE1SaS01dENHNlN5RnJtSXd6VmZObi1McGl1eUY0c1MyLUF1ekJPT0hua3JkeEJFMHVTam01RzBpYXljTlI3U1V4eEdmS2VtLUxFTG9Ib2VwbVlYNWdfdGhaMS1XTUM5b2U0TGpObm1zemMiLCJpZCI6ImZjX2VncWphc3prSXJuZTFzUVA1UHVGNkE4XzEifQ%3D%3D"
+  },
+  {
+   "question": "How many students go to Foothill High School?",
+   "type": "ai_overview",
+   "page_token": "4t_5MnicHdBRbpswGABg7TJ9bOyQZGqkaBoNZCBwisE_4JcJ7BICv4E2KBDedoWdYafaaSbtO8L36w9eu_bvl9_1OA63_Wo1TdPzpe8v-P6serMqbo9OrVSBWBaq3e--7ui3Sh2cu7JfP5UdiWGAIycxeJQnatYLXssTH_MMb8oZMUUpBPCCu_xVO-2k27kP0VvKlH-8d_UsO_-u19sGDNjh8n0MyRhAWr_liKSkziYktClTOoORsTajJ2kNYcpNTvQg2zqMEl9qUp-TRPsRoacic6scAeKjrkLBg5DyI1i-E61pdz6yQFjAwZIpb4AF6WSVZDOyhs154hGJ7jaNKQgXWmVeTHnabhLhu2BmD1Lwyh8YQAaLU2uUlvuRZ2xXEHyURsyKuhEDm_JG2me7v0aCL6pBIxJGAF_e8jXNCiLtWLgPjnwpzJYnhN0TlzE5PVXqfrCe_l8fflZm3A-f_eUfawWMqA",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=4t_5MnicHdBRbpswGABg7TJ9bOyQZGqkaBoNZCBwisE_4JcJ7BICv4E2KBDedoWdYafaaSbtO8L36w9eu_bvl9_1OA63_Wo1TdPzpe8v-P6serMqbo9OrVSBWBaq3e--7ui3Sh2cu7JfP5UdiWGAIycxeJQnatYLXssTH_MMb8oZMUUpBPCCu_xVO-2k27kP0VvKlH-8d_UsO_-u19sGDNjh8n0MyRhAWr_liKSkziYktClTOoORsTajJ2kNYcpNTvQg2zqMEl9qUp-TRPsRoacic6scAeKjrkLBg5DyI1i-E61pdz6yQFjAwZIpb4AF6WSVZDOyhs154hGJ7jaNKQgXWmVeTHnabhLhu2BmD1Lwyh8YQAaLU2uUlvuRZ2xXEHyURsyKuhEDm_JG2me7v0aCL6pBIxJGAF_e8jXNCiLtWLgPjnwpzJYnhN0TlzE5PVXqfrCe_l8fflZm3A-f_eUfawWMqA",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVpWSm9TV1JFTVZaVVVVSklURlJyY0V0aVNFeG5la2RIV2t0eFVIQkZha3h6VkRCUlNGazRVVTlPWDB0MmFuUjZNa3RUZVVWWE1DMUVNWGRFZVVKV1gxUlVaVGxsV20xaVpreDVTVzVmZWpOcmFUQndhbFJaUTFvMVFSSVhaV2R4YW1GemVtdEpjbTVsTVhOUlVEVlFkVVkyUVRnYUlrRkVjM0k1WmxFek1WUnZYM1ZPTWtaR2VFczVWMk5uU0RWaWJubFZTR2RuWWtFIiwiZmN2IjoiMyIsImVpIjoiZWdxamFzemtJcm5lMXNRUDVQdUY2QTgiLCJxYyI6IkNodG1iMjkwYUdsc2JDQm9hV2RvSUhOamFHOXZiQ0J1WlhaaFpHRVFBSDJ5R0RBXyIsInF1ZXN0aW9uIjoiSG93IG1hbnkgc3R1ZGVudHMgZ28gdG8gRm9vdGhpbGwgSGlnaCBTY2hvb2w/IiwibGsiOiJHaXhvYjNjZ2JXRnVlU0J6ZEhWa1pXNTBjeUJuYnlCMGJ5Qm1iMjkwYUdsc2JDQm9hV2RvSUhOamFHOXZiQSIsImJzIjoiYzMyUVRRdUNRQlJGYVR1cjFyTzYwTWRLalZ5RzRDNWMyU0tvWlV3Nk9RTTJBODVMQ2ZyeG1TRUVhdXQ3RC1lLXh3UUx6a29RTWxuS2E2VkpTNGRHR2dKWjdLMGxwY3NTaVM0VWpwbXl0b3pERGZlYktlTFdFLXBEdUk1Z0I3YnFGTnFCbE1SaS01dENHNlN5RnJtSXd6VmZObi1McGl1eUY0c1MyLUF1ekJPT0hua3JkeEJFMHVTam01RzBpYXljTlI3U1V4eEdmS2VtLUxFTG9Ib2VwbVlYNWdfdGhaMS1XTUM5b2U0TGpObm1zemMiLCJpZCI6ImZjX2VncWphc3prSXJuZTFzUVA1UHVGNkE4XzEifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVpWSm9TV1JFTVZaVVVVSklURlJyY0V0aVNFeG5la2RIV2t0eFVIQkZha3h6VkRCUlNGazRVVTlPWDB0MmFuUjZNa3RUZVVWWE1DMUVNWGRFZVVKV1gxUlVaVGxsV20xaVpreDVTVzVmZWpOcmFUQndhbFJaUTFvMVFSSVhaV2R4YW1GemVtdEpjbTVsTVhOUlVEVlFkVVkyUVRnYUlrRkVjM0k1WmxFek1WUnZYM1ZPTWtaR2VFczVWMk5uU0RWaWJubFZTR2RuWWtFIiwiZmN2IjoiMyIsImVpIjoiZWdxamFzemtJcm5lMXNRUDVQdUY2QTgiLCJxYyI6IkNodG1iMjkwYUdsc2JDQm9hV2RvSUhOamFHOXZiQ0J1WlhaaFpHRVFBSDJ5R0RBXyIsInF1ZXN0aW9uIjoiSG93IG1hbnkgc3R1ZGVudHMgZ28gdG8gRm9vdGhpbGwgSGlnaCBTY2hvb2w%2FIiwibGsiOiJHaXhvYjNjZ2JXRnVlU0J6ZEhWa1pXNTBjeUJuYnlCMGJ5Qm1iMjkwYUdsc2JDQm9hV2RvSUhOamFHOXZiQSIsImJzIjoiYzMyUVRRdUNRQlJGYVR1cjFyTzYwTWRLalZ5RzRDNWMyU0tvWlV3Nk9RTTJBODVMQ2ZyeG1TRUVhdXQ3RC1lLXh3UUx6a29RTWxuS2E2VkpTNGRHR2dKWjdLMGxwY3NTaVM0VWpwbXl0b3pERGZlYktlTFdFLXBEdUk1Z0I3YnFGTnFCbE1SaS01dENHNlN5RnJtSXd6VmZObi1McGl1eUY0c1MyLUF1ekJPT0hua3JkeEJFMHVTam01RzBpYXljTlI3U1V4eEdmS2VtLUxFTG9Ib2VwbVlYNWdfdGhaMS1XTUM5b2U0TGpObm1zemMiLCJpZCI6ImZjX2VncWphc3prSXJuZTFzUVA1UHVGNkE4XzEifQ%3D%3D"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Foothill High School: Home",
+   "link": "http://www.foothillhenderson.com/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWQHrOzAVYQGVai8xjFTigSUcyzyxiWAbCd4Ol39aB_kJHbaxWvNKu606BqipoVzmCbhLLACkGxVCECXpF7Wq2KszwtQ0TdfmI1Su5Qh_MOQ_qsZsKzAFTny5&ved=2ahUKEwjMiZP15OSWAxU5r5UCHeR9Af0QFnoECD0QAQ&uoh=1",
+   "displayed_link": "http://www.foothillhenderson.com",
+   "favicon": "https://serpapi.com/images/i/UklGRl4BAABXRUJQVlA4IFIBAACQBgCdASodACAAPtE-tFooIigoFAEAGgljAFSszNygR3IQ_WG05E1Bxu9fasAUFD3aTjAXo7Y6plD2MIXoAP78nal2zdFgdX8kV-mYYekkWTumd1Exx-mMD-OU7BOKzjr51R_Btl3N0298gK8g97QFZeK5bbXv6_1X3_9Cr3_tC5PEEKRtQgtn8J__XelirD9lVcNd7Qw7ZyidcpwYVwpwR7ZjZdzSt3tK1ZS1pRqcsdLWVyDOs2X0UA1wiIpGGTNSacp9iX2mfpIOILw3zK0Gvomo8moM3gN9X7wDwMn90KsyxCEOil13_f6Rz4qyB4uOtpbB_RmbGwM-8jaIgSJjPKhmxGBTx8c8aHnTeJ28MHvkyOF-6E66Psj4mQFcY1GRch1a-KVqK_5UGIO5qAgsvUwo3RIttjiXlINGs-5EDU3iEIJC_YPOq2--R_tEuhAAAA.webp",
+   "snippet": "Home - Foothill High School is located in Henderson, NV.",
+   "snippet_highlighted_words": [
+    "Foothill High School",
+    "NV"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "Athletics",
+      "link": "http://www.foothillhenderson.com/athletics",
+      "snippet": "Athletics - Foothill High School is located in Henderson, NV."
+     },
+     {
+      "title": "Staff",
+      "link": "http://www.foothillhenderson.com/about-us/staff",
+      "snippet": "Staff - Foothill High School is located in Henderson, NV."
+     },
+     {
+      "title": "View All Events",
+      "link": "http://www.foothillhenderson.com/view-all-events",
+      "snippet": "View All Events - Foothill High School is located in Henderson ..."
+     },
+     {
+      "title": "About Us",
+      "link": "http://www.foothillhenderson.com/about-us",
+      "snippet": "About Us - Foothill High School is located in Henderson, NV ..."
+     },
+     {
+      "title": "About Foothill High School",
+      "link": "http://www.foothillhenderson.com/about-us/about-foothill-high-school",
+      "snippet": "About Foothill High School - Foothill High School is located ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Home - Foothill High School is located in Henderson, NV.",
+     "source_info_link": "http://www.foothillhenderson.com/",
+     "icon": "https://serpapi.com/images/i/UklGRl4BAABXRUJQVlA4IFIBAACQBgCdASodACAAPtE-tFooIigoFAEAGgljAFSszNygR3IQ_WG05E1Bxu9fasAUFD3aTjAXo7Y6plD2MIXoAP78nal2zdFgdX8kV-mYYekkWTumd1Exx-mMD-OU7BOKzjr51R_Btl3N0298gK8g97QFZeK5bbXv6_1X3_9Cr3_tC5PEEKRtQgtn8J__XelirD9lVcNd7Qw7ZyidcpwYVwpwR7ZjZdzSt3tK1ZS1pRqcsdLWVyDOs2X0UA1wiIpGGTNSacp9iX2mfpIOILw3zK0Gvomo8moM3gN9X7wDwMn90KsyxCEOil13_f6Rz4qyB4uOtpbB_RmbGwM-8jaIgSJjPKhmxGBTx8c8aHnTeJ28MHvkyOF-6E66Psj4mQFcY1GRch1a-KVqK_5UGIO5qAgsvUwo3RIttjiXlINGs-5EDU3iEIJC_YPOq2--R_tEuhAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESWQHrOzAVYQGVai8xjFTigSUcyzyxiWAbCd4Ol39aB_kJHbaxWvNKu606BqipoVzmCbhLLACkGxVCECXpF7Wq2KszwtQ0TdfmI1Su5Qh_MOQ_qsZsKzAFTny5&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESWQHrOzAVYQGVai8xjFTigSUcyzyxiWAbCd4Ol39aB_kJHbaxWvNKu606BqipoVzmCbhLLACkGxVCECXpF7Wq2KszwtQ0TdfmI1Su5Qh_MOQ_qsZsKzAFTny5",
+   "source": "Foothill HS"
+  },
+  {
+   "position": 2,
+   "title": "Foothill High School in Henderson, NV",
+   "link": "https://www.usnews.com/education/best-high-schools/nevada/districts/clark-county-school-district/foothill-high-school-12261",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESswEB6zswFXsIL7S9hiViJPEJQfbxpOm6uIirtA5lzYNQey1egOjHrqWdDIGQzCMiCT7hsCMR4ZiyZ9iEbxsOIVnMdoVmd5H8Uj8KuZs8-cfyAKK3g53pyHr3IA3ZZLMjc0t8SxsqrYkXNHvPvCYoXYPOgC6uWpry4KKhE_uXD1g0COmYMglMN_yoYJ9eyamNMXldOMx1hsgjzg_jnmHKCA1gdfnVHlZm1TFe6yuE20gjWOz-2Q&ved=2ahUKEwjMiZP15OSWAxU5r5UCHeR9Af0QFnoECEQQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a clark-county-school-district",
+   "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp",
+   "snippet": "Foothill High School is ranked #4,106 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+   "snippet_highlighted_words": [
+    "Foothill High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Foothill High School is ranked #4,106 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/nevada/districts/clark-county-school-district/foothill-high-school-12261",
+     "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESswEB6zswFXsIL7S9hiViJPEJQfbxpOm6uIirtA5lzYNQey1egOjHrqWdDIGQzCMiCT7hsCMR4ZiyZ9iEbxsOIVnMdoVmd5H8Uj8KuZs8-cfyAKK3g53pyHr3IA3ZZLMjc0t8SxsqrYkXNHvPvCYoXYPOgC6uWpry4KKhE_uXD1g0COmYMglMN_yoYJ9eyamNMXldOMx1hsgjzg_jnmHKCA1gdfnVHlZm1TFe6yuE20gjWOz-2Q&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESswEB6zswFXsIL7S9hiViJPEJQfbxpOm6uIirtA5lzYNQey1egOjHrqWdDIGQzCMiCT7hsCMR4ZiyZ9iEbxsOIVnMdoVmd5H8Uj8KuZs8-cfyAKK3g53pyHr3IA3ZZLMjc0t8SxsqrYkXNHvPvCYoXYPOgC6uWpry4KKhE_uXD1g0COmYMglMN_yoYJ9eyamNMXldOMx1hsgjzg_jnmHKCA1gdfnVHlZm1TFe6yuE20gjWOz-2Q",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/nevada/districts/clark-county-school-district/foothill-high-school-12261#:~:text=Foothill%20High%20School%20is%20ranked,they%20prepare%20students%20for%20college."
+  },
+  {
+   "position": 3,
+   "title": "Foothill High School (Henderson, Nevada)",
+   "link": "https://en.wikipedia.org/wiki/Foothill_High_School_(Henderson,_Nevada)",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfgHrOzAVdAmRRaQcI1oVrHGZKSMNv4SVx7WNJ_q_inB-297hqhrNuBtS8tMj5f8NJ_jguRkPO2QwmBGWPc7z0iADVi5RlW9PP0CaGAm07dkJiDRTIhjxWwh3iP9IOluwDqi8MNBK0JPS3vm14RSRI7fUXw_fFGiXDovVQtTusQ&ved=2ahUKEwjMiZP15OSWAxU5r5UCHeR9Af0QFnoECEMQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Foothill_High_School...",
+   "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+   "snippet": "Foothill High School is a four-year secondary school in the Clark County School District, located in the city of Henderson, Nevada.",
+   "snippet_highlighted_words": [
+    "Foothill High School",
+    "Nevada"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Foothill High School is a four-year secondary school in the Clark County School District, located in the city of Henderson, Nevada.",
+     "source_info_link": "https://en.wikipedia.org/wiki/Foothill_High_School_(Henderson,_Nevada)",
+     "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESfgHrOzAVdAmRRaQcI1oVrHGZKSMNv4SVx7WNJ_q_inB-297hqhrNuBtS8tMj5f8NJ_jguRkPO2QwmBGWPc7z0iADVi5RlW9PP0CaGAm07dkJiDRTIhjxWwh3iP9IOluwDqi8MNBK0JPS3vm14RSRI7fUXw_fFGiXDovVQtTusQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESfgHrOzAVdAmRRaQcI1oVrHGZKSMNv4SVx7WNJ_q_inB-297hqhrNuBtS8tMj5f8NJ_jguRkPO2QwmBGWPc7z0iADVi5RlW9PP0CaGAm07dkJiDRTIhjxWwh3iP9IOluwDqi8MNBK0JPS3vm14RSRI7fUXw_fFGiXDovVQtTusQ",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Foothill_High_School_(Henderson,_Nevada)#:~:text=Foothill%20High%20School%20is%20a,the%20city%20of%20Henderson%2C%20Nevada."
+  },
+  {
+   "position": 4,
+   "title": "Foothill High School in Henderson, NV",
+   "link": "https://www.niche.com/k12/foothill-high-school-henderson-nv/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHrOzAVp13OtZDheodelucAIbZeMrymWKzkmVkNgxEJ0-zOD4VHQaKYFW63kfZdgPCZPS2nR32q3aWwoCsYJIOUitqMz3MQCHv5Q2DsniZi5t3Auc8Krk2lDGMWG15cEpTXW9_jGbgr653gnFX5384lvVmv&ved=2ahUKEwjMiZP15OSWAxU5r5UCHeR9Af0QFnoECGkQAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a Nevada",
+   "favicon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAACwBgCdASocABwAPtEutFooIagoGAEAGglAGZo7gYv7m0TPt8r_WYdmpcah9WA48zicEtVrCFOGH4nMtJiaAAD-8Mpqn5wztwFeSDXF5YavmSdrcpv67JtS1tKl7uW6N9aR19WH-vT5VtxqndfSU_QIzB4R0m5fNi1eX3h8GYa_8H28-7o-nc3D2GEvZqGTES8muP_UCP_UIYsGh8QXK7V2sBnUP79qQidv_o8__S3xjZZmmXEG69VP00Dn3HuddwtLR_4xf_0PU8NPn060X-47u3VDw39ZbBgpwK3wP0F5tHUWMrTdTbcT_h7ghKmtPgKiKNIvGUNLHBT4VbzlXgvFo7vCP-ot_w6I_hOg9EcgQfabjpYvU6X4xcxi9BIxh2PJomEF2PA_XoL7FtzFNUuyE0IG83Bax0ZYU-dxj0EhgAAA.webp",
+   "snippet": "Foothill High School is an above average, public school located in HENDERSON, NV. It has 2,406 students in grades 9-12 with a student-teacher ratio of 24 to ...",
+   "snippet_highlighted_words": [
+    "Foothill High School",
+    "NV"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Foothill High School is an above average, public school located in HENDERSON, NV. It has 2,406 students in grades 9-12 with a student-teacher ratio of 24 to ...",
+     "source_info_link": "https://www.niche.com/k12/foothill-high-school-henderson-nv/",
+     "icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAACwBgCdASocABwAPtEutFooIagoGAEAGglAGZo7gYv7m0TPt8r_WYdmpcah9WA48zicEtVrCFOGH4nMtJiaAAD-8Mpqn5wztwFeSDXF5YavmSdrcpv67JtS1tKl7uW6N9aR19WH-vT5VtxqndfSU_QIzB4R0m5fNi1eX3h8GYa_8H28-7o-nc3D2GEvZqGTES8muP_UCP_UIYsGh8QXK7V2sBnUP79qQidv_o8__S3xjZZmmXEG69VP00Dn3HuddwtLR_4xf_0PU8NPn060X-47u3VDw39ZbBgpwK3wP0F5tHUWMrTdTbcT_h7ghKmtPgKiKNIvGUNLHBT4VbzlXgvFo7vCP-ot_w6I_hOg9EcgQfabjpYvU6X4xcxi9BIxh2PJomEF2PA_XoL7FtzFNUuyE0IG83Bax0ZYU-dxj0EhgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdAHrOzAVp13OtZDheodelucAIbZeMrymWKzkmVkNgxEJ0-zOD4VHQaKYFW63kfZdgPCZPS2nR32q3aWwoCsYJIOUitqMz3MQCHv5Q2DsniZi5t3Auc8Krk2lDGMWG15cEpTXW9_jGbgr653gnFX5384lvVmv&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdAHrOzAVp13OtZDheodelucAIbZeMrymWKzkmVkNgxEJ0-zOD4VHQaKYFW63kfZdgPCZPS2nR32q3aWwoCsYJIOUitqMz3MQCHv5Q2DsniZi5t3Auc8Krk2lDGMWG15cEpTXW9_jGbgr653gnFX5384lvVmv",
+   "source": "Niche",
+   "read_more_link": "https://www.niche.com/k12/foothill-high-school-henderson-nv/#:~:text=Foothill%20High%20School%20is%20an,ratio%20of%2024%20to%201."
+  },
+  {
+   "position": 5,
+   "title": "Foothill High School (Henderson, NV) Football",
+   "link": "https://www.maxpreps.com/nv/henderson/foothill-falcons/football/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeAHrOzAVbazD_RdIOwzwZFB8Pd4uNxQBNZ7t_5OA2e-_JoBgmDnd7VApozQdC_ClflSa5FYBIYyYWpKdjs5Y_UYAJ_4RICbDZpItKHu0v9FhA8H4dxUtMU6WYONy2oGa5yDntePKR-YxrvGb8ks2ytn66M5TIFntyg&ved=2ahUKEwjMiZP15OSWAxU5r5UCHeR9Af0QFnoECGYQAQ&uoh=1",
+   "displayed_link": "https://www.maxpreps.com \u203a Football \u203a NV Football",
+   "favicon": "https://serpapi.com/images/i/UklGRiABAABXRUJQVlA4IBQBAACQBgCdASocABwAPtEwtFooIigoGAEAGglsAMcjXhQIMBLJPoAdLB5QCeA92iBTGskLs8r3XyB_v0YQpEDAAP72B9a-IG-P3R_UdqQnvLoZazJ3_hD6b33Zrtz20RZgJiv79VLCko7nwRuKtV_tKX5qfEnzpjwWAKeeC-Hoi40eGvSLyzF7o0Q3576t2nK2-Te2OXHxzP8JnfVwG8zf3faxGWgPLQuWGTGMoX5Uv3_f_4ujvlktm6Hp1ydL_9_LAhZUQlDz38F2gIRo1k1gl_-zBXz_J3X_mzUXtdhkfGXcvCt3-JWt1TUdYyVEimwb_iG__v19FfYkvr0Givdah3CLEq6DV_OFEpkdb5aSt_-sA7lnAAA.webp",
+   "snippet": "Foothill High School. 800 College Dr. Henderson, NV 89002. Nevada Interscholastic Activities Association logo NIAA, Official MaxPreps partner.",
+   "snippet_highlighted_words": [
+    "Foothill High School",
+    "NV",
+    "Nevada"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Foothill High School. 800 College Dr. Henderson, NV 89002. Nevada Interscholastic Activities Association logo NIAA, Official MaxPreps partner.",
+     "source_info_link": "https://www.maxpreps.com/nv/henderson/foothill-falcons/football/",
+     "icon": "https://serpapi.com/images/i/UklGRiABAABXRUJQVlA4IBQBAACQBgCdASocABwAPtEwtFooIigoGAEAGglsAMcjXhQIMBLJPoAdLB5QCeA92iBTGskLs8r3XyB_v0YQpEDAAP72B9a-IG-P3R_UdqQnvLoZazJ3_hD6b33Zrtz20RZgJiv79VLCko7nwRuKtV_tKX5qfEnzpjwWAKeeC-Hoi40eGvSLyzF7o0Q3576t2nK2-Te2OXHxzP8JnfVwG8zf3faxGWgPLQuWGTGMoX5Uv3_f_4ujvlktm6Hp1ydL_9_LAhZUQlDz38F2gIRo1k1gl_-zBXz_J3X_mzUXtdhkfGXcvCt3-JWt1TUdYyVEimwb_iG__v19FfYkvr0Givdah3CLEq6DV_OFEpkdb5aSt_-sA7lnAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESeAHrOzAVbazD_RdIOwzwZFB8Pd4uNxQBNZ7t_5OA2e-_JoBgmDnd7VApozQdC_ClflSa5FYBIYyYWpKdjs5Y_UYAJ_4RICbDZpItKHu0v9FhA8H4dxUtMU6WYONy2oGa5yDntePKR-YxrvGb8ks2ytn66M5TIFntyg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESeAHrOzAVbazD_RdIOwzwZFB8Pd4uNxQBNZ7t_5OA2e-_JoBgmDnd7VApozQdC_ClflSa5FYBIYyYWpKdjs5Y_UYAJ_4RICbDZpItKHu0v9FhA8H4dxUtMU6WYONy2oGa5yDntePKR-YxrvGb8ks2ytn66M5TIFntyg",
+   "source": "MaxPreps",
+   "read_more_link": "https://www.maxpreps.com/nv/henderson/foothill-falcons/football/#:~:text=Foothill%20High%20School,NIAA%2C%20Official%20MaxPreps%20partner"
+  },
+  {
+   "position": 6,
+   "title": "Foothill High School - Henderson, NV",
+   "link": "https://www.nfhsnetwork.com/schools/foothill-high-school-henderson-nv",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAVOJ4Ldy5jUSTJ-yRjAWFpnCN9e5ywzjW0F4qnGLKCGpIqjbVwau0a33vLXm0---G79vfkZBxS5-kA-TJRWMutoIHSjbDPaBwIsF7Cv2PRB1VW-xaC5jObETqVCNatbwJ5RFclvMuRw4LR4bfBAoBRmiNhHMUQkVII&ved=2ahUKEwjMiZP15OSWAxU5r5UCHeR9Af0QFnoECGcQAQ&uoh=1",
+   "displayed_link": "https://www.nfhsnetwork.com \u203a Schools",
+   "favicon": "https://serpapi.com/images/i/UklGRloBAABXRUJQVlA4IE4BAACQBwCdASocABwAPtEutFooIagoGAEAGglpAAdR6ywbHT6A_4XuB_qv1OfQd_SAfb_wlWSDLCXIzfUbHO-MPk6R2GH3MYAAzj-PvbeW9F8z4fv_HU71j5-gWCHhrjtPBKMgsbVp1jZYJ3nrLeHyfCjWIkf5z3v0fyrFOkbP8wSNm7CdoOyL9f0VQRLoJNZkvvwY2YhuOYd9sxvl7ahUx-rBCeYh9rkdEp9iOEWN0WeEeIrUr0_yGZC0SaCSt8_WPOeYFZw1fyNUyggjuQZxg-f_ljv7T_0ze__r2GmT-mcHZP_-V4m-OfWb_0R3bb-ff3AAzGfzpxyY0XQGpF-kptd48ANIWoLLCYhdNPXcjE0tM9_zSmULP-fyUHTbP40eS3vpU588Zv7dOcXPrB_rIrMP0G-MwIORwjqf_cD4n6d4FeopS02dsQV1h5Av-AAA.webp",
+   "snippet": "Foothill High School, located in the city of Henderson, NV, is a top-tier educational institution that prides itself on offering a well-rounded experience for ...",
+   "snippet_highlighted_words": [
+    "Foothill High School",
+    "NV"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Foothill High School, located in the city of Henderson, NV, is a top-tier educational institution that prides itself on offering a well-rounded experience for ...",
+     "source_info_link": "https://www.nfhsnetwork.com/schools/foothill-high-school-henderson-nv",
+     "icon": "https://serpapi.com/images/i/UklGRloBAABXRUJQVlA4IE4BAACQBwCdASocABwAPtEutFooIagoGAEAGglpAAdR6ywbHT6A_4XuB_qv1OfQd_SAfb_wlWSDLCXIzfUbHO-MPk6R2GH3MYAAzj-PvbeW9F8z4fv_HU71j5-gWCHhrjtPBKMgsbVp1jZYJ3nrLeHyfCjWIkf5z3v0fyrFOkbP8wSNm7CdoOyL9f0VQRLoJNZkvvwY2YhuOYd9sxvl7ahUx-rBCeYh9rkdEp9iOEWN0WeEeIrUr0_yGZC0SaCSt8_WPOeYFZw1fyNUyggjuQZxg-f_ljv7T_0ze__r2GmT-mcHZP_-V4m-OfWb_0R3bb-ff3AAzGfzpxyY0XQGpF-kptd48ANIWoLLCYhdNPXcjE0tM9_zSmULP-fyUHTbP40eS3vpU588Zv7dOcXPrB_rIrMP0G-MwIORwjqf_cD4n6d4FeopS02dsQV1h5Av-AAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESfQHrOzAVOJ4Ldy5jUSTJ-yRjAWFpnCN9e5ywzjW0F4qnGLKCGpIqjbVwau0a33vLXm0---G79vfkZBxS5-kA-TJRWMutoIHSjbDPaBwIsF7Cv2PRB1VW-xaC5jObETqVCNatbwJ5RFclvMuRw4LR4bfBAoBRmiNhHMUQkVII&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESfQHrOzAVOJ4Ldy5jUSTJ-yRjAWFpnCN9e5ywzjW0F4qnGLKCGpIqjbVwau0a33vLXm0---G79vfkZBxS5-kA-TJRWMutoIHSjbDPaBwIsF7Cv2PRB1VW-xaC5jObETqVCNatbwJ5RFclvMuRw4LR4bfBAoBRmiNhHMUQkVII",
+   "source": "NFHS Network",
+   "read_more_link": "https://www.nfhsnetwork.com/schools/foothill-high-school-henderson-nv#:~:text=Foothill%20High%20School%2C%20located%20in,well%2Drounded%20experience%20for%20its%20students."
+  },
+  {
+   "position": 7,
+   "title": "Foothill High School | High School Sports | Home",
+   "link": "https://fan.hudl.com/usa/nv/henderson/organization/7599/foothill-high-school",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShAEB6zswFdXpDeJnjW4qzLqw1tCR0FyssBrNYcB8RX0RugDCJ7GKk6YKzhoGn7z2jgD7RjYS86gSoYvgy_WSxx3gyuJELo_jWBSbtKtHqaTOXBKlS3S7JY6Z7L4K3YOf7xBXpMS3tLNYoIuB2jhD9uDh7-6OvMv8nvSQiutP6gKJQ1HAq98&ved=2ahUKEwjMiZP15OSWAxU5r5UCHeR9Af0QFnoECGoQAQ&uoh=1",
+   "displayed_link": "https://fan.hudl.com \u203a usa \u203a henderson \u203a organization \u203a f...",
+   "favicon": "https://serpapi.com/images/i/UklGRqIBAABXRUJQVlA4IJYBAACQCQCdASogACAAPrUurVanIacnG_DgFolsAJ0yhHp_nPGcuHWA8st4B5gOgBvB_oAdKV5TKeBQAe65hjvYFQUTZDCUGv5kjNe6N__NzHF9gC1GIEwAAP74t80-okQNPInVv8VZ7bc0DtCD1jMSe8Qbea6VHAUS_6g3j_zWXtI7wJFbpR7ch_KcZZbbhsfYdh3lSCfrDkX9_GUsp3kv9g3SLz1PT-5pQpGTzrZmsSRLuCDot9cW9ZSw_C7ColLxfuMnRER_q70MaxOMkYtJ69d3mRNPbrhxRxz8v6dcymSa2wAiunrloSzPvmpfsi7TYUKYIQ3kRe8O6Bs8z8k4272A1U4dQ-8G7a-185IUQi5X_R4oXRrVElhEMjVJhzmJ-23qY2A_nLSfTeNYijh3_r_rnOjff8xupEXSz6RXEOxab-FF-_-mqLL8f6kiWpUjoLo5xjdXUnmXA-BoedmYiS_qiSmmTJOuxOVD3R1HakG4c8Nz6o5g1RLOvD3aOADQjZaHR_P6PQf1lcJyFOiFPFdBnDW1AAAA.webp",
+   "snippet": "Foothill High School. Henderson, NV. Favorite. home. schedule \u00b7 teams \u00b7 video ... Nevada Sloan Canyon Mens Varsity Basketball. Varsity Boys Basketball. Thumbnail ...",
+   "snippet_highlighted_words": [
+    "Foothill High School",
+    "NV",
+    "Nevada"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Foothill High School. Henderson, NV. Favorite. home. schedule \u00b7 teams \u00b7 video ... Nevada Sloan Canyon Mens Varsity Basketball. Varsity Boys Basketball. Thumbnail ...",
+     "source_info_link": "https://fan.hudl.com/usa/nv/henderson/organization/7599/foothill-high-school",
+     "icon": "https://serpapi.com/images/i/UklGRqIBAABXRUJQVlA4IJYBAACQCQCdASogACAAPrUurVanIacnG_DgFolsAJ0yhHp_nPGcuHWA8st4B5gOgBvB_oAdKV5TKeBQAe65hjvYFQUTZDCUGv5kjNe6N__NzHF9gC1GIEwAAP74t80-okQNPInVv8VZ7bc0DtCD1jMSe8Qbea6VHAUS_6g3j_zWXtI7wJFbpR7ch_KcZZbbhsfYdh3lSCfrDkX9_GUsp3kv9g3SLz1PT-5pQpGTzrZmsSRLuCDot9cW9ZSw_C7ColLxfuMnRER_q70MaxOMkYtJ69d3mRNPbrhxRxz8v6dcymSa2wAiunrloSzPvmpfsi7TYUKYIQ3kRe8O6Bs8z8k4272A1U4dQ-8G7a-185IUQi5X_R4oXRrVElhEMjVJhzmJ-23qY2A_nLSfTeNYijh3_r_rnOjff8xupEXSz6RXEOxab-FF-_-mqLL8f6kiWpUjoLo5xjdXUnmXA-BoedmYiS_qiSmmTJOuxOVD3R1HakG4c8Nz6o5g1RLOvD3aOADQjZaHR_P6PQf1lcJyFOiFPFdBnDW1AAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEShAEB6zswFdXpDeJnjW4qzLqw1tCR0FyssBrNYcB8RX0RugDCJ7GKk6YKzhoGn7z2jgD7RjYS86gSoYvgy_WSxx3gyuJELo_jWBSbtKtHqaTOXBKlS3S7JY6Z7L4K3YOf7xBXpMS3tLNYoIuB2jhD9uDh7-6OvMv8nvSQiutP6gKJQ1HAq98&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEShAEB6zswFdXpDeJnjW4qzLqw1tCR0FyssBrNYcB8RX0RugDCJ7GKk6YKzhoGn7z2jgD7RjYS86gSoYvgy_WSxx3gyuJELo_jWBSbtKtHqaTOXBKlS3S7JY6Z7L4K3YOf7xBXpMS3tLNYoIuB2jhD9uDh7-6OvMv8nvSQiutP6gKJQ1HAq98",
+   "source": "Hudl - Fan",
+   "read_more_link": "https://fan.hudl.com/usa/nv/henderson/organization/7599/foothill-high-school#:~:text=Foothill%20High%20School,video&text=Foothill%20High%20School%20vs%20Pinecrest,Varsity%20Boys%20Basketball"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Foothill high school nevada football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvuOe11ptba-UY_n4xdhxVkAiB9rA:1789069946577&q=Foothill+high+school+nevada+football&sa=X&ved=2ahUKEwjMiZP15OSWAxU5r5UCHeR9Af0Q1QJ6BAhrEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Foothill+high+school+nevada+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Foothill High School Henderson",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvuOe11ptba-UY_n4xdhxVkAiB9rA:1789069946577&q=Foothill+High+School+Henderson&sa=X&ved=2ahUKEwjMiZP15OSWAxU5r5UCHeR9Af0Q1QJ6BAh9EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Foothill+High+School+Henderson"
+  },
+  {
+   "block_position": 1,
+   "query": "Foothill high school nevada basketball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvuOe11ptba-UY_n4xdhxVkAiB9rA:1789069946577&q=Foothill+high+school+nevada+basketball&sa=X&ved=2ahUKEwjMiZP15OSWAxU5r5UCHeR9Af0Q1QJ6BAh7EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Foothill+high+school+nevada+basketball"
+  },
+  {
+   "block_position": 1,
+   "query": "Foothill high school nevada ranking",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvuOe11ptba-UY_n4xdhxVkAiB9rA:1789069946577&q=Foothill+high+school+nevada+ranking&sa=X&ved=2ahUKEwjMiZP15OSWAxU5r5UCHeR9Af0Q1QJ6BAh6EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Foothill+high+school+nevada+ranking"
+  },
+  {
+   "block_position": 1,
+   "query": "Foothill high school nevada yearbook",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvuOe11ptba-UY_n4xdhxVkAiB9rA:1789069946577&q=Foothill+high+school+nevada+yearbook&sa=X&ved=2ahUKEwjMiZP15OSWAxU5r5UCHeR9Af0Q1QJ6BAh2EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Foothill+high+school+nevada+yearbook"
+  },
+  {
+   "block_position": 1,
+   "query": "Foothill high school nevada famous alumni",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvuOe11ptba-UY_n4xdhxVkAiB9rA:1789069946577&q=Foothill+high+school+nevada+famous+alumni&sa=X&ved=2ahUKEwjMiZP15OSWAxU5r5UCHeR9Af0Q1QJ6BAhzEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Foothill+high+school+nevada+famous+alumni"
+  },
+  {
+   "block_position": 1,
+   "query": "Foothill High School Albuquerque",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvuOe11ptba-UY_n4xdhxVkAiB9rA:1789069946577&q=Foothill+High+School+Albuquerque&sa=X&ved=2ahUKEwjMiZP15OSWAxU5r5UCHeR9Af0Q1QJ6BAhxEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Foothill+High+School+Albuquerque"
+  },
+  {
+   "block_position": 1,
+   "query": "Foothill high school nevada alumni",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvuOe11ptba-UY_n4xdhxVkAiB9rA:1789069946577&q=Foothill+high+school+nevada+alumni&sa=X&ved=2ahUKEwjMiZP15OSWAxU5r5UCHeR9Af0Q1QJ6BAhuEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Foothill+high+school+nevada+alumni"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Foothill+High+School%22+Nevada&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvuOe11ptba-UY_n4xdhxVkAiB9rA:1789069946577&ei=egqjaszkIrne1sQP5PuF6A8&start=10&sa=N&sstk=AS6-VmLVOUs7cv6umJ8HatnhdFD4PICcLuzMn0Xb5aBDe6b0ygNdzgage6la8-W-9-N4HLyRE8LAXxoXkg3ihXJefsnkSvR7TU97Cw&ved=2ahUKEwjMiZP15OSWAxU5r5UCHeR9Af0Q8NMDegQIXhAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Foothill+High+School%22+Nevada&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvuOe11ptba-UY_n4xdhxVkAiB9rA:1789069946577&ei=egqjaszkIrne1sQP5PuF6A8&start=10&sa=N&sstk=AS6-VmLVOUs7cv6umJ8HatnhdFD4PICcLuzMn0Xb5aBDe6b0ygNdzgage6la8-W-9-N4HLyRE8LAXxoXkg3ihXJefsnkSvR7TU97Cw&ved=2ahUKEwjMiZP15OSWAxU5r5UCHeR9Af0Q8tMDegQIXhAE",
+   "3": "https://www.google.com/search?q=%22Foothill+High+School%22+Nevada&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvuOe11ptba-UY_n4xdhxVkAiB9rA:1789069946577&ei=egqjaszkIrne1sQP5PuF6A8&start=20&sa=N&sstk=AS6-VmLVOUs7cv6umJ8HatnhdFD4PICcLuzMn0Xb5aBDe6b0ygNdzgage6la8-W-9-N4HLyRE8LAXxoXkg3ihXJefsnkSvR7TU97Cw&ved=2ahUKEwjMiZP15OSWAxU5r5UCHeR9Af0Q8tMDegQIXhAG",
+   "4": "https://www.google.com/search?q=%22Foothill+High+School%22+Nevada&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvuOe11ptba-UY_n4xdhxVkAiB9rA:1789069946577&ei=egqjaszkIrne1sQP5PuF6A8&start=30&sa=N&sstk=AS6-VmLVOUs7cv6umJ8HatnhdFD4PICcLuzMn0Xb5aBDe6b0ygNdzgage6la8-W-9-N4HLyRE8LAXxoXkg3ihXJefsnkSvR7TU97Cw&ved=2ahUKEwjMiZP15OSWAxU5r5UCHeR9Af0Q8tMDegQIXhAI",
+   "5": "https://www.google.com/search?q=%22Foothill+High+School%22+Nevada&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvuOe11ptba-UY_n4xdhxVkAiB9rA:1789069946577&ei=egqjaszkIrne1sQP5PuF6A8&start=40&sa=N&sstk=AS6-VmLVOUs7cv6umJ8HatnhdFD4PICcLuzMn0Xb5aBDe6b0ygNdzgage6la8-W-9-N4HLyRE8LAXxoXkg3ihXJefsnkSvR7TU97Cw&ved=2ahUKEwjMiZP15OSWAxU5r5UCHeR9Af0Q8tMDegQIXhAK",
+   "6": "https://www.google.com/search?q=%22Foothill+High+School%22+Nevada&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvuOe11ptba-UY_n4xdhxVkAiB9rA:1789069946577&ei=egqjaszkIrne1sQP5PuF6A8&start=50&sa=N&sstk=AS6-VmLVOUs7cv6umJ8HatnhdFD4PICcLuzMn0Xb5aBDe6b0ygNdzgage6la8-W-9-N4HLyRE8LAXxoXkg3ihXJefsnkSvR7TU97Cw&ved=2ahUKEwjMiZP15OSWAxU5r5UCHeR9Af0Q8tMDegQIXhAM",
+   "7": "https://www.google.com/search?q=%22Foothill+High+School%22+Nevada&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvuOe11ptba-UY_n4xdhxVkAiB9rA:1789069946577&ei=egqjaszkIrne1sQP5PuF6A8&start=60&sa=N&sstk=AS6-VmLVOUs7cv6umJ8HatnhdFD4PICcLuzMn0Xb5aBDe6b0ygNdzgage6la8-W-9-N4HLyRE8LAXxoXkg3ihXJefsnkSvR7TU97Cw&ved=2ahUKEwjMiZP15OSWAxU5r5UCHeR9Af0Q8tMDegQIXhAO",
+   "8": "https://www.google.com/search?q=%22Foothill+High+School%22+Nevada&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvuOe11ptba-UY_n4xdhxVkAiB9rA:1789069946577&ei=egqjaszkIrne1sQP5PuF6A8&start=70&sa=N&sstk=AS6-VmLVOUs7cv6umJ8HatnhdFD4PICcLuzMn0Xb5aBDe6b0ygNdzgage6la8-W-9-N4HLyRE8LAXxoXkg3ihXJefsnkSvR7TU97Cw&ved=2ahUKEwjMiZP15OSWAxU5r5UCHeR9Af0Q8tMDegQIXhAQ",
+   "9": "https://www.google.com/search?q=%22Foothill+High+School%22+Nevada&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvuOe11ptba-UY_n4xdhxVkAiB9rA:1789069946577&ei=egqjaszkIrne1sQP5PuF6A8&start=80&sa=N&sstk=AS6-VmLVOUs7cv6umJ8HatnhdFD4PICcLuzMn0Xb5aBDe6b0ygNdzgage6la8-W-9-N4HLyRE8LAXxoXkg3ihXJefsnkSvR7TU97Cw&ved=2ahUKEwjMiZP15OSWAxU5r5UCHeR9Af0Q8tMDegQIXhAS",
+   "10": "https://www.google.com/search?q=%22Foothill+High+School%22+Nevada&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvuOe11ptba-UY_n4xdhxVkAiB9rA:1789069946577&ei=egqjaszkIrne1sQP5PuF6A8&start=90&sa=N&sstk=AS6-VmLVOUs7cv6umJ8HatnhdFD4PICcLuzMn0Xb5aBDe6b0ygNdzgage6la8-W-9-N4HLyRE8LAXxoXkg3ihXJefsnkSvR7TU97Cw&ved=2ahUKEwjMiZP15OSWAxU5r5UCHeR9Af0Q8tMDegQIXhAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Foothill+High+School%22+Nevada&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Foothill+High+School%22+Nevada&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Foothill+High+School%22+Nevada&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Foothill+High+School%22+Nevada&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Foothill+High+School%22+Nevada&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Foothill+High+School%22+Nevada&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Foothill+High+School%22+Nevada&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Foothill+High+School%22+Nevada&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Foothill+High+School%22+Nevada&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Foothill+High+School%22+Nevada&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Foothill+High+School%22+Nevada&start=90"
+  }
+ }
+}

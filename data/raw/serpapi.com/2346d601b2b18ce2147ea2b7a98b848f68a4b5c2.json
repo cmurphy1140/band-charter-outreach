@@ -1,0 +1,535 @@
+{
+ "search_information": {
+  "query_displayed": "\"Wando High School\" South Carolina",
+  "total_results": 186000,
+  "time_taken_displayed": 0.39,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Wando High School",
+  "type": "High school in Mount Pleasant, South Carolina",
+  "entity_type": "education, locations, local_nav",
+  "place_id": "ChIJWRy0cexx_ogRNlA6-iMKI2M",
+  "website": "https://www.ccsdschools.com/wandohigh",
+  "colors": "White, Black, Red",
+  "colors_links": [
+   {
+    "text": "White",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntEmRfbeCiETxJA5Wj1hJQ7WNEh-A:1789070152889&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpibuedk9OYloeXAYNSoz7VYnCfMOgei63SgkOJyo7pYYYxIfABVQ0-Ya5AJwi8t3QsrTT2_01aFBXlMKsEquaHvrEU3lXG5iLmc_Sf4liRopNtrpfjXrhuJIpUQuqRc-wxj_kb9-KPQZM0h--ujLs-uTeEtsr-slT28mb5vBmm6SEVVh_kcgEdCM8YPFH99JFdij5kw%3D&sa=X&ved=2ahUKEwjepsPX5eSWAxX0DDQIHRecNV0QmxN6BAhAEAI"
+   },
+   {
+    "text": "Black",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntEmRfbeCiETxJA5Wj1hJQ7WNEh-A:1789070152889&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpgpRzZQUb1HvfO7YMT0HLL8ab3lUxeOQbKlFMsJDb9RQHEJAMfHSef8djpY2qbMqfWdpL86ZUT21xmGftBCWbwEmNmpLXmSvypXjlgITvsbRZnuzXzH5wOx1YdkZ3FUmbgijI2_2pqE4gKxBPfOdRGs9dBkXFMAkOcyjw5sLWeqzCVoJYIWTHhskng_kHX54MOKhi68%3D&sa=X&ved=2ahUKEwjepsPX5eSWAxX0DDQIHRecNV0QmxN6BAhAEAM"
+   },
+   {
+    "text": "Red",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntEmRfbeCiETxJA5Wj1hJQ7WNEh-A:1789070152889&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpl_3AFKcirfI2u2sRI4LGxap_ednnJnut-0nMnDbeo5Tegsa5-jVC74mP69DL7O2di1qS7uNSXBvKeHHYAotkbw0-bOyJGa4gd82Gd2W0p9fd75KjDshMGgIC3HXxELl-Y2-BRDutAoXF_Ny8NRAcp5inwrC-n2-GZe-44Ww_Dh8BkdA94vsuwSZ4VJIBiAsVFVmC2Y%3D&sa=X&ved=2ahUKEwjepsPX5eSWAxX0DDQIHRecNV0QmxN6BAhAEAQ"
+   }
+  ],
+  "founded": "1973",
+  "school_type": "Secondary school",
+  "school_type_links": [
+   {
+    "text": "Secondary school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntEmRfbeCiETxJA5Wj1hJQ7WNEh-A:1789070152889&q=Secondary+school&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67-Rsa99rK7fwEET42kD4ZCi60HGmNZn5BhwPsOfBnKMjzmDf592P6mJsoW5452rqk_F6EtGEv5zsZVb-hXLyojtJajXEns5CBqG_vnGFzV43bN4CadarGc2-YY1FqdzP7qKhcY3Rlea4n0OtULJJQ0_9eEZ_lTU0gslsOSrtLZc9OCPGJQ%3D%3D&sa=X&ved=2ahUKEwjepsPX5eSWAxX0DDQIHRecNV0QmxN6BAhCEAI"
+   }
+  ],
+  "district": "Charleston County School District",
+  "district_links": [
+   {
+    "text": "Charleston County School District",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntEmRfbeCiETxJA5Wj1hJQ7WNEh-A:1789070152889&q=Charleston+County+School+District&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yUATzGsBJ8ra8Xn6XOaPBgn2C6KGqZiwQF6YeogmBDDzasomNQWzvVIeEDruUl9vH7pGT4-7C_j_fOPNy3l0llxa-a_GLfahu6rwH8rcuh6O3QtHY4ynbPsIBPqFfPwfqpWFwLYkDbvZEOPwTbZmX4_uJpe4iQG3bTFM00eRvr5BBulaUbzUsqPqcd9zhri_f3s2O2A%3D&sa=X&ved=2ahUKEwjepsPX5eSWAxX0DDQIHRecNV0QmxN6BAhBEAI"
+   }
+  ],
+  "wrestling_coach": "Coach Adam Schneider dvidshub.net",
+  "wrestling_coach_links": [
+   {
+    "text": "dvidshub.net",
+    "link": "https://www.dvidshub.net/news/486269/wando-high-school-marine-wrestling-challenge"
+   }
+  ],
+  "profiles": [
+   {
+    "name": "TikTok",
+    "link": "https://www.tiktok.com/@wandohighschool",
+    "image": "https://ssl.gstatic.com/kpui/social/tiktok_32x32.png"
+   },
+   {
+    "name": "X (Twitter)",
+    "link": "https://twitter.com/wandohigh",
+    "image": "https://ssl.gstatic.com/kpui/social/x_32x32.png"
+   },
+   {
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/in/nikkiarnold",
+    "image": "https://ssl.gstatic.com/kpui/social/linkedin_32x32.png"
+   },
+   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/wandohighschool/",
+    "image": "https://ssl.gstatic.com/kpui/social/instagram_32x32.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "What famous people went to Wando High School?",
+   "type": "ai_overview",
+   "page_token": "cj-RIXicHdBRbpswGABg7TJ9bCA0mYgUVaKYkaxQ2fj_TfwyGTsJCQaThDWBt11hZ9ipdppJ-47w_fpjT13z98vvehj622o2u9_vz0fnjnb_rF07U7ex0zOtrK2UblbLr0v_9aDX5FNHb1cdUeh7jJlXwGOBXUSwYw7S6AGxGdELl_yMAls6sXO2YF6yK30m91z27yJpPoSJKTcn7Sdcjf6FN76tSOjlIvREg4X2hsDwZCPBZjLNRX6uf35g_S0rYeQEkcFiTsscK0zidzAv0MpMNANDtFEBGx9ISIoGH0W3GbJUfjdpvy144pRNJgy2SkE97EXYVoGJwGfX3cQ6LoYxL6Ou4HKSnE4ZYUE5NxmfZ37V2DRPtzmpDaclXnYlDRQsWvDdHQjSKjYXnCRD5k4U2KTPtoVyu0PObmZitkrpC8TJKevyNwx6t4fQqlKPlD4d9Oc6ePp_vf5xaIdVf3XHf9H2jQk",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=cj-RIXicHdBRbpswGABg7TJ9bCA0mYgUVaKYkaxQ2fj_TfwyGTsJCQaThDWBt11hZ9ipdppJ-47w_fpjT13z98vvehj622o2u9_vz0fnjnb_rF07U7ex0zOtrK2UblbLr0v_9aDX5FNHb1cdUeh7jJlXwGOBXUSwYw7S6AGxGdELl_yMAls6sXO2YF6yK30m91z27yJpPoSJKTcn7Sdcjf6FN76tSOjlIvREg4X2hsDwZCPBZjLNRX6uf35g_S0rYeQEkcFiTsscK0zidzAv0MpMNANDtFEBGx9ISIoGH0W3GbJUfjdpvy144pRNJgy2SkE97EXYVoGJwGfX3cQ6LoYxL6Ou4HKSnE4ZYUE5NxmfZ37V2DRPtzmpDaclXnYlDRQsWvDdHQjSKjYXnCRD5k4U2KTPtoVyu0PObmZitkrpC8TJKevyNwx6t4fQqlKPlD4d9Oc6ePp_vf5xaIdVf3XHf9H2jQk",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1YwWm1lVmxyVTBRMmIwSjRZWFpvVTBoTk0wSnVYM05mVDJoUVVYRkZNbHAxVlZCU09HTmpjamhPY1dORWNVWkNkbXBaUmxnM01sRTNTR0oyTVV0TU1XTmxSa3hZWVZCemVXbERhbFJ6TUhaRVowNTBVbmhoYjNrMlFSSVhVMEYxYW1GME4ybE9abE5hTUZCRlVHdzNhbGMyVVZVYUlrRkVjM0k1WmxOcVVFMUxjazg0UjJrNFlVOU5lSFp6YTE5U04yeHFaall6Y0VFIiwiZmN2IjoiMyIsImVpIjoiU0F1amF0N2lOZlNaMFBFUGw3alc2UVUiLCJxYyI6IkNpQjNZVzVrYnlCb2FXZG9JSE5qYUc5dmJDQnpiM1YwYUNCallYSnZiR2x1WVJBQWZXeUdOajgiLCJxdWVzdGlvbiI6IldoYXQgZmFtb3VzIHBlb3BsZSB3ZW50IHRvIFdhbmRvIEhpZ2ggU2Nob29sPyIsImxrIjoiR2l4M2FHRjBJR1poYlc5MWN5QndaVzl3YkdVZ2QyVnVkQ0IwYnlCM1lXNWtieUJvYVdkb0lITmphRzl2YkEiLCJicyI6ImMzWFBQdy1DTUJBRjhMaDJjbVo2MGNtSUd2a0NEQ3c0TTdCcExsQnRrOUlqdEVqODl2Skhvd2s2M2REN3ZYc1ZGN0hMRlhsY3FlTFdvWlpjRzRsT1dnX1B5TW1XakZUZkZMSkNNWnM0MmdkaDl4OTBJMUFEY0NNUTd3UGF3U3VKOWZIN0Zkb2k0OVlySk5TdzBaWS1CXzRDTjRMaUJjUlpIRkx1VUpGOXdQbTI3SnM0VUNQUlo4ejZoOGlTT05vR0d6VW5mdDYtSHlJVnE1T2JrZ1lOd28yNVJHMm9rTU9YamI3TE9Gb0ZRLUVwd0JVX2w1YUxKdyIsImlkIjoiZmNfU0F1amF0N2lOZlNaMFBFUGw3alc2UVVfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1YwWm1lVmxyVTBRMmIwSjRZWFpvVTBoTk0wSnVYM05mVDJoUVVYRkZNbHAxVlZCU09HTmpjamhPY1dORWNVWkNkbXBaUmxnM01sRTNTR0oyTVV0TU1XTmxSa3hZWVZCemVXbERhbFJ6TUhaRVowNTBVbmhoYjNrMlFSSVhVMEYxYW1GME4ybE9abE5hTUZCRlVHdzNhbGMyVVZVYUlrRkVjM0k1WmxOcVVFMUxjazg0UjJrNFlVOU5lSFp6YTE5U04yeHFaall6Y0VFIiwiZmN2IjoiMyIsImVpIjoiU0F1amF0N2lOZlNaMFBFUGw3alc2UVUiLCJxYyI6IkNpQjNZVzVrYnlCb2FXZG9JSE5qYUc5dmJDQnpiM1YwYUNCallYSnZiR2x1WVJBQWZXeUdOajgiLCJxdWVzdGlvbiI6IldoYXQgZmFtb3VzIHBlb3BsZSB3ZW50IHRvIFdhbmRvIEhpZ2ggU2Nob29sPyIsImxrIjoiR2l4M2FHRjBJR1poYlc5MWN5QndaVzl3YkdVZ2QyVnVkQ0IwYnlCM1lXNWtieUJvYVdkb0lITmphRzl2YkEiLCJicyI6ImMzWFBQdy1DTUJBRjhMaDJjbVo2MGNtSUd2a0NEQ3c0TTdCcExsQnRrOUlqdEVqODl2Skhvd2s2M2REN3ZYc1ZGN0hMRlhsY3FlTFdvWlpjRzRsT1dnX1B5TW1XakZUZkZMSkNNWnM0MmdkaDl4OTBJMUFEY0NNUTd3UGF3U3VKOWZIN0Zkb2k0OVlySk5TdzBaWS1CXzRDTjRMaUJjUlpIRkx1VUpGOXdQbTI3SnM0VUNQUlo4ejZoOGlTT05vR0d6VW5mdDYtSHlJVnE1T2JrZ1lOd28yNVJHMm9rTU9YamI3TE9Gb0ZRLUVwd0JVX2w1YUxKdyIsImlkIjoiZmNfU0F1amF0N2lOZlNaMFBFUGw3alc2UVVfNSJ9"
+  },
+  {
+   "question": "What is the #1 high school in South Carolina?",
+   "type": "ai_overview",
+   "page_token": "YmyovHicHdBPbptAFIBx9TJZxgyYVLFkVcIwIAQoDLwHZlMND2NsDzD-kxCzyxVyhp6qp6nV_bf46fv6ow7D6e-P7-5209fVYjFN0_N-HPdq90xjv5DX-0ALkkrVkk6rl58v7FdLa--DnM2FnBS0RlcYGRPLHARkyE-ZlQQZ6w5Nn_AddMfK1AK9ca5VuEkVfYIZwrbk425I75nH3ugY3rdGEsVBYscGNxPAqDTFRprMqINupqBCylgQu42TF9cZWcMQwiju7TYGvDRBt6TBW9KjTXOMsqExKkAWc2UBD9vCJTtHZ5PPyiLgEk3mPJi26PWMftdK63RDPwzr4vOc9KgSbAo5OHalQlf4ryWopKtcLsjv7NzA0OuaPC3xvC1TS4LdAxsn8DCt3eaMcyVQjIcUxExH1UOheYGvb1Lp99oX7xRoRmYD8s6MrGAWQhVV01NLH2vr6f_r9e-2v630Zdz_A53Fi0c",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=YmyovHicHdBPbptAFIBx9TJZxgyYVLFkVcIwIAQoDLwHZlMND2NsDzD-kxCzyxVyhp6qp6nV_bf46fv6ow7D6e-P7-5209fVYjFN0_N-HPdq90xjv5DX-0ALkkrVkk6rl58v7FdLa--DnM2FnBS0RlcYGRPLHARkyE-ZlQQZ6w5Nn_AddMfK1AK9ca5VuEkVfYIZwrbk425I75nH3ugY3rdGEsVBYscGNxPAqDTFRprMqINupqBCylgQu42TF9cZWcMQwiju7TYGvDRBt6TBW9KjTXOMsqExKkAWc2UBD9vCJTtHZ5PPyiLgEk3mPJi26PWMftdK63RDPwzr4vOc9KgSbAo5OHalQlf4ryWopKtcLsjv7NzA0OuaPC3xvC1TS4LdAxsn8DCt3eaMcyVQjIcUxExH1UOheYGvb1Lp99oX7xRoRmYD8s6MrGAWQhVV01NLH2vr6f_r9e-2v630Zdz_A53Fi0c",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1YwWm1lVmxyVTBRMmIwSjRZWFpvVTBoTk0wSnVYM05mVDJoUVVYRkZNbHAxVlZCU09HTmpjamhPY1dORWNVWkNkbXBaUmxnM01sRTNTR0oyTVV0TU1XTmxSa3hZWVZCemVXbERhbFJ6TUhaRVowNTBVbmhoYjNrMlFSSVhVMEYxYW1GME4ybE9abE5hTUZCRlVHdzNhbGMyVVZVYUlrRkVjM0k1WmxOcVVFMUxjazg0UjJrNFlVOU5lSFp6YTE5U04yeHFaall6Y0VFIiwiZmN2IjoiMyIsImVpIjoiU0F1amF0N2lOZlNaMFBFUGw3alc2UVUiLCJxYyI6IkNpQjNZVzVrYnlCb2FXZG9JSE5qYUc5dmJDQnpiM1YwYUNCallYSnZiR2x1WVJBQWZXeUdOajgiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlICMxIGhpZ2ggc2Nob29sIGluIFNvdXRoIENhcm9saW5hPyIsImxrIjoiR2l4M2FHRjBJR2x6SUhSb1pTQWpNU0JvYVdkb0lITmphRzl2YkNCcGJpQnpiM1YwYUNCallYSnZiR2x1WVEiLCJicyI6ImMzWFBQdy1DTUJBRjhMaDJjbVo2MGNtSUd2a0NEQ3c0TTdCcExsQnRrOUlqdEVqODl2Skhvd2s2M2REN3ZYc1ZGN0hMRlhsY3FlTFdvWlpjRzRsT1dnX1B5TW1XakZUZkZMSkNNWnM0MmdkaDl4OTBJMUFEY0NNUTd3UGF3U3VKOWZIN0Zkb2k0OVlySk5TdzBaWS1CXzRDTjRMaUJjUlpIRkx1VUpGOXdQbTI3SnM0VUNQUlo4ejZoOGlTT05vR0d6VW5mdDYtSHlJVnE1T2JrZ1lOd28yNVJHMm9rTU9YamI3TE9Gb0ZRLUVwd0JVX2w1YUxKdyIsImlkIjoiZmNfU0F1amF0N2lOZlNaMFBFUGw3alc2UVVfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1YwWm1lVmxyVTBRMmIwSjRZWFpvVTBoTk0wSnVYM05mVDJoUVVYRkZNbHAxVlZCU09HTmpjamhPY1dORWNVWkNkbXBaUmxnM01sRTNTR0oyTVV0TU1XTmxSa3hZWVZCemVXbERhbFJ6TUhaRVowNTBVbmhoYjNrMlFSSVhVMEYxYW1GME4ybE9abE5hTUZCRlVHdzNhbGMyVVZVYUlrRkVjM0k1WmxOcVVFMUxjazg0UjJrNFlVOU5lSFp6YTE5U04yeHFaall6Y0VFIiwiZmN2IjoiMyIsImVpIjoiU0F1amF0N2lOZlNaMFBFUGw3alc2UVUiLCJxYyI6IkNpQjNZVzVrYnlCb2FXZG9JSE5qYUc5dmJDQnpiM1YwYUNCallYSnZiR2x1WVJBQWZXeUdOajgiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlICMxIGhpZ2ggc2Nob29sIGluIFNvdXRoIENhcm9saW5hPyIsImxrIjoiR2l4M2FHRjBJR2x6SUhSb1pTQWpNU0JvYVdkb0lITmphRzl2YkNCcGJpQnpiM1YwYUNCallYSnZiR2x1WVEiLCJicyI6ImMzWFBQdy1DTUJBRjhMaDJjbVo2MGNtSUd2a0NEQ3c0TTdCcExsQnRrOUlqdEVqODl2Skhvd2s2M2REN3ZYc1ZGN0hMRlhsY3FlTFdvWlpjRzRsT1dnX1B5TW1XakZUZkZMSkNNWnM0MmdkaDl4OTBJMUFEY0NNUTd3UGF3U3VKOWZIN0Zkb2k0OVlySk5TdzBaWS1CXzRDTjRMaUJjUlpIRkx1VUpGOXdQbTI3SnM0VUNQUlo4ejZoOGlTT05vR0d6VW5mdDYtSHlJVnE1T2JrZ1lOd28yNVJHMm9rTU9YamI3TE9Gb0ZRLUVwd0JVX2w1YUxKdyIsImlkIjoiZmNfU0F1amF0N2lOZlNaMFBFUGw3alc2UVVfNSJ9"
+  },
+  {
+   "question": "How many students are at Wando High School, SC?",
+   "type": "ai_overview",
+   "page_token": "M92JT3icHdBNjpswAEBh9TKznNgQUiVSVDWDTUJrIoxtwJvKGAgB85MJAsquV-gZeqqepqPe4H3v1x9z75q_n35X4zg8D5vNPM-vt76_meJV9-1GPX92eqOVMZnSzWH3eQe_lPqIJn16e9enkA-DcCmI1mqnXLIojkvCHRC11Essx5b1aWIox9L1J4lEfMXUCZrnkrZDcj37qbIoIrEhRbNcFPY74eI-4EuZAJ9RjDGtiR2dv4KsFkt0TrcMVn2GpJG1iXIgmu-8cj7a4qIOqIABJYL60pgui8dv-g1SCdE2R_DK1koIrwoiNG41Hy6FwZ309ha1fci4AJnNrajZXwhyEgn8knWSqFV6Gaju7MNStMsUeOJBYzOhKmdhIh5pEtqKOy2H_cyRCDM3f4hVUkH7e8jpqmvTcstxiQhSagcyNEYGvJkZl20Wg6XgeycCCMr5pdTT0X75__r4o2zHw_De3_4BT4OLxA",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=M92JT3icHdBNjpswAEBh9TKznNgQUiVSVDWDTUJrIoxtwJvKGAgB85MJAsquV-gZeqqepqPe4H3v1x9z75q_n35X4zg8D5vNPM-vt76_meJV9-1GPX92eqOVMZnSzWH3eQe_lPqIJn16e9enkA-DcCmI1mqnXLIojkvCHRC11Essx5b1aWIox9L1J4lEfMXUCZrnkrZDcj37qbIoIrEhRbNcFPY74eI-4EuZAJ9RjDGtiR2dv4KsFkt0TrcMVn2GpJG1iXIgmu-8cj7a4qIOqIABJYL60pgui8dv-g1SCdE2R_DK1koIrwoiNG41Hy6FwZ309ha1fci4AJnNrajZXwhyEgn8knWSqFV6Gaju7MNStMsUeOJBYzOhKmdhIh5pEtqKOy2H_cyRCDM3f4hVUkH7e8jpqmvTcstxiQhSagcyNEYGvJkZl20Wg6XgeycCCMr5pdTT0X75__r4o2zHw_De3_4BT4OLxA",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1YwWm1lVmxyVTBRMmIwSjRZWFpvVTBoTk0wSnVYM05mVDJoUVVYRkZNbHAxVlZCU09HTmpjamhPY1dORWNVWkNkbXBaUmxnM01sRTNTR0oyTVV0TU1XTmxSa3hZWVZCemVXbERhbFJ6TUhaRVowNTBVbmhoYjNrMlFSSVhVMEYxYW1GME4ybE9abE5hTUZCRlVHdzNhbGMyVVZVYUlrRkVjM0k1WmxOcVVFMUxjazg0UjJrNFlVOU5lSFp6YTE5U04yeHFaall6Y0VFIiwiZmN2IjoiMyIsImVpIjoiU0F1amF0N2lOZlNaMFBFUGw3alc2UVUiLCJxYyI6IkNpQjNZVzVrYnlCb2FXZG9JSE5qYUc5dmJDQnpiM1YwYUNCallYSnZiR2x1WVJBQWZXeUdOajgiLCJxdWVzdGlvbiI6IkhvdyBtYW55IHN0dWRlbnRzIGFyZSBhdCBXYW5kbyBIaWdoIFNjaG9vbCwgU0M/IiwibGsiOiJHaWxvYjNjZ2JXRnVlU0J6ZEhWa1pXNTBjeUJoZENCM1lXNWtieUJvYVdkb0lITmphRzl2YkNCell3IiwiYnMiOiJjM1hQUHctQ01CQUY4TGgyY21aNjBjbUlHdmtDREN3NE03QnBMbEJ0azlJanRFajg5dkpIb3drNjNkRDd2WHNWRjdITEZYbGNxZUxXb1paY0c0bE9XZ19QeU1tV2pGVGZGTEpDTVpzNDJnZGg5eDkwSTFBRGNDTVE3d1Bhd1N1SjlmSDdGZG9pNDlZckpOU3cwWlktQl80Q040TGlCY1JaSEZMdVVKRjl3UG0yN0pzNFVDUFJaOHo2aDhpU09Ob0dHelVuZnQ2LUh5SVZxNU9ia2dZTndvMjVSRzJva01PWGpiN0xPRm9GUS1FcHdCVV9sNWFMSnciLCJpZCI6ImZjX1NBdWphdDdpTmZTWjBQRVBsN2pXNlFVXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1YwWm1lVmxyVTBRMmIwSjRZWFpvVTBoTk0wSnVYM05mVDJoUVVYRkZNbHAxVlZCU09HTmpjamhPY1dORWNVWkNkbXBaUmxnM01sRTNTR0oyTVV0TU1XTmxSa3hZWVZCemVXbERhbFJ6TUhaRVowNTBVbmhoYjNrMlFSSVhVMEYxYW1GME4ybE9abE5hTUZCRlVHdzNhbGMyVVZVYUlrRkVjM0k1WmxOcVVFMUxjazg0UjJrNFlVOU5lSFp6YTE5U04yeHFaall6Y0VFIiwiZmN2IjoiMyIsImVpIjoiU0F1amF0N2lOZlNaMFBFUGw3alc2UVUiLCJxYyI6IkNpQjNZVzVrYnlCb2FXZG9JSE5qYUc5dmJDQnpiM1YwYUNCallYSnZiR2x1WVJBQWZXeUdOajgiLCJxdWVzdGlvbiI6IkhvdyBtYW55IHN0dWRlbnRzIGFyZSBhdCBXYW5kbyBIaWdoIFNjaG9vbCwgU0M%2FIiwibGsiOiJHaWxvYjNjZ2JXRnVlU0J6ZEhWa1pXNTBjeUJoZENCM1lXNWtieUJvYVdkb0lITmphRzl2YkNCell3IiwiYnMiOiJjM1hQUHctQ01CQUY4TGgyY21aNjBjbUlHdmtDREN3NE03QnBMbEJ0azlJanRFajg5dkpIb3drNjNkRDd2WHNWRjdITEZYbGNxZUxXb1paY0c0bE9XZ19QeU1tV2pGVGZGTEpDTVpzNDJnZGg5eDkwSTFBRGNDTVE3d1Bhd1N1SjlmSDdGZG9pNDlZckpOU3cwWlktQl80Q040TGlCY1JaSEZMdVVKRjl3UG0yN0pzNFVDUFJaOHo2aDhpU09Ob0dHelVuZnQ2LUh5SVZxNU9ia2dZTndvMjVSRzJva01PWGpiN0xPRm9GUS1FcHdCVV9sNWFMSnciLCJpZCI6ImZjX1NBdWphdDdpTmZTWjBQRVBsN2pXNlFVXzUifQ%3D%3D"
+  },
+  {
+   "question": "Is Wando, SC a good place to live?",
+   "type": "ai_overview",
+   "page_token": "CSR1V3icHZDdTsIwGIbjzXgodBMMJMRkAjKUaju-dt2J6brBRr_9IJOfnnkvXpVXI_H4fZ7kyfv9g2Vtf2-ORde1h3Gvdzqd7rZNs8X8zjRVTx8utekZjZhqY8fDhyF53JjJ7CsMnvZhwKBtxZT3IxJojpkWfRHkdTFkku9WPnbKEnrdFq9SgLYjkTp8oS7TzMd3LQfUxKETiDavyFFWRal8sYgcd2axIpE3OgDOlwbEl7Jnwjxeqnh7eZOJhMU8TiAcJBFpKM67xNGOypEVUBBGCsnF7H7dzxqJ4XnlDTgHvLC43Wd22TcxHnOgn0IojxGcK4dU7oLS1MYxUPf5c1vPimzNYrFXMfM1DCogzQlmgqXTbC9cwgVvSgbXzh1W4CUeXS9f0-fiJZ2q7u3qSLCXNQkgQlxduZax2405Tvzb_z8nH5uqG7efzfYP8nWEnQ",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=CSR1V3icHZDdTsIwGIbjzXgodBMMJMRkAjKUaju-dt2J6brBRr_9IJOfnnkvXpVXI_H4fZ7kyfv9g2Vtf2-ORde1h3Gvdzqd7rZNs8X8zjRVTx8utekZjZhqY8fDhyF53JjJ7CsMnvZhwKBtxZT3IxJojpkWfRHkdTFkku9WPnbKEnrdFq9SgLYjkTp8oS7TzMd3LQfUxKETiDavyFFWRal8sYgcd2axIpE3OgDOlwbEl7Jnwjxeqnh7eZOJhMU8TiAcJBFpKM67xNGOypEVUBBGCsnF7H7dzxqJ4XnlDTgHvLC43Wd22TcxHnOgn0IojxGcK4dU7oLS1MYxUPf5c1vPimzNYrFXMfM1DCogzQlmgqXTbC9cwgVvSgbXzh1W4CUeXS9f0-fiJZ2q7u3qSLCXNQkgQlxduZax2405Tvzb_z8nH5uqG7efzfYP8nWEnQ",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1YwWm1lVmxyVTBRMmIwSjRZWFpvVTBoTk0wSnVYM05mVDJoUVVYRkZNbHAxVlZCU09HTmpjamhPY1dORWNVWkNkbXBaUmxnM01sRTNTR0oyTVV0TU1XTmxSa3hZWVZCemVXbERhbFJ6TUhaRVowNTBVbmhoYjNrMlFSSVhVMEYxYW1GME4ybE9abE5hTUZCRlVHdzNhbGMyVVZVYUlrRkVjM0k1WmxOcVVFMUxjazg0UjJrNFlVOU5lSFp6YTE5U04yeHFaall6Y0VFIiwiZmN2IjoiMyIsImVpIjoiU0F1amF0N2lOZlNaMFBFUGw3alc2UVUiLCJxYyI6IkNpQjNZVzVrYnlCb2FXZG9JSE5qYUc5dmJDQnpiM1YwYUNCallYSnZiR2x1WVJBQWZXeUdOajgiLCJxdWVzdGlvbiI6IklzIFdhbmRvLCBTQyBhIGdvb2QgcGxhY2UgdG8gbGl2ZT8iLCJsayI6IkdpQnBjeUIzWVc1a2J5QnpZeUJoSUdkdmIyUWdjR3hoWTJVZ2RHOGdiR2wyWlEiLCJicyI6ImMzWFBQdy1DTUJBRjhMaDJjbVo2MGNtSUd2a0NEQ3c0TTdCcExsQnRrOUlqdEVqODl2Skhvd2s2M2REN3ZYc1ZGN0hMRlhsY3FlTFdvWlpjRzRsT1dnX1B5TW1XakZUZkZMSkNNWnM0MmdkaDl4OTBJMUFEY0NNUTd3UGF3U3VKOWZIN0Zkb2k0OVlySk5TdzBaWS1CXzRDTjRMaUJjUlpIRkx1VUpGOXdQbTI3SnM0VUNQUlo4ejZoOGlTT05vR0d6VW5mdDYtSHlJVnE1T2JrZ1lOd28yNVJHMm9rTU9YamI3TE9Gb0ZRLUVwd0JVX2w1YUxKdyIsImlkIjoiZmNfU0F1amF0N2lOZlNaMFBFUGw3alc2UVVfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1YwWm1lVmxyVTBRMmIwSjRZWFpvVTBoTk0wSnVYM05mVDJoUVVYRkZNbHAxVlZCU09HTmpjamhPY1dORWNVWkNkbXBaUmxnM01sRTNTR0oyTVV0TU1XTmxSa3hZWVZCemVXbERhbFJ6TUhaRVowNTBVbmhoYjNrMlFSSVhVMEYxYW1GME4ybE9abE5hTUZCRlVHdzNhbGMyVVZVYUlrRkVjM0k1WmxOcVVFMUxjazg0UjJrNFlVOU5lSFp6YTE5U04yeHFaall6Y0VFIiwiZmN2IjoiMyIsImVpIjoiU0F1amF0N2lOZlNaMFBFUGw3alc2UVUiLCJxYyI6IkNpQjNZVzVrYnlCb2FXZG9JSE5qYUc5dmJDQnpiM1YwYUNCallYSnZiR2x1WVJBQWZXeUdOajgiLCJxdWVzdGlvbiI6IklzIFdhbmRvLCBTQyBhIGdvb2QgcGxhY2UgdG8gbGl2ZT8iLCJsayI6IkdpQnBjeUIzWVc1a2J5QnpZeUJoSUdkdmIyUWdjR3hoWTJVZ2RHOGdiR2wyWlEiLCJicyI6ImMzWFBQdy1DTUJBRjhMaDJjbVo2MGNtSUd2a0NEQ3c0TTdCcExsQnRrOUlqdEVqODl2Skhvd2s2M2REN3ZYc1ZGN0hMRlhsY3FlTFdvWlpjRzRsT1dnX1B5TW1XakZUZkZMSkNNWnM0MmdkaDl4OTBJMUFEY0NNUTd3UGF3U3VKOWZIN0Zkb2k0OVlySk5TdzBaWS1CXzRDTjRMaUJjUlpIRkx1VUpGOXdQbTI3SnM0VUNQUlo4ejZoOGlTT05vR0d6VW5mdDYtSHlJVnE1T2JrZ1lOd28yNVJHMm9rTU9YamI3TE9Gb0ZRLUVwd0JVX2w1YUxKdyIsImlkIjoiZmNfU0F1amF0N2lOZlNaMFBFUGw3alc2UVVfNSJ9"
+  }
+ ],
+ "ai_overview": {
+  "text_blocks": [
+   {
+    "type": "paragraph",
+    "snippet": "Wando High School is a large public high school located at 1000 Warrior Way in Mount Pleasant, South Carolina.",
+    "snippet_highlighted_words": [
+     "1000 Warrior Way in Mount Pleasant, South Carolina"
+    ],
+    "reference_indexes": [
+     1
+    ]
+   },
+   {
+    "type": "heading",
+    "snippet": "Quick Facts"
+   },
+   {
+    "type": "list",
+    "list": [
+     {
+      "snippet": "District: Charleston County School District",
+      "snippet_links": [
+       {
+        "text": "Charleston County School District",
+        "link": "https://www.ccsdschools.com/"
+       }
+      ]
+     },
+     {
+      "snippet": "Grades: 9 through 12"
+     },
+     {
+      "snippet": "Enrollment: Around 2,500 students"
+     },
+     {
+      "snippet": "Phone: (843) 881-8200"
+     }
+    ]
+   },
+   {
+    "type": "heading",
+    "snippet": "Academics & Campus"
+   },
+   {
+    "type": "list",
+    "list": [
+     {
+      "snippet": "Courses: Offers over 200 courses, including Advanced Placement (AP) classes and career-technical education."
+     },
+     {
+      "snippet": "Campus: Shares a site with the East Cooper Center for Advanced Studies."
+     },
+     {
+      "snippet": "Rankings: Frequently ranked among the top high schools in South Carolina by U.S. News & World Report.",
+      "snippet_links": [
+       {
+        "text": "U.S. News & World Report",
+        "link": "https://www.usnews.com/education/best-high-schools/south-carolina/districts/charleston-county-school-district/wando-high-school-17571"
+       }
+      ]
+     }
+    ],
+    "reference_indexes": [
+     2,
+     3,
+     4
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "If you'd like, let me know if you are looking for:"
+   },
+   {
+    "type": "list",
+    "list": [
+     {
+      "snippet": "Athletic schedules or team info"
+     },
+     {
+      "snippet": "Admissions or registration guidelines"
+     },
+     {
+      "snippet": "Staff or administration contacts"
+     }
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "I can give you the specific details you need."
+   }
+  ],
+  "references": [
+   {
+    "title": "Wando High School - Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Wando_High_School",
+    "snippet": "Wando High School. Article \u00b7 Talk. Language; Download PDF; Watch \u00b7 Edit. Wando High School (often shortened to \\\"Wando\\\") is a public high school within the Charl...",
+    "source": "en.wikipedia.org",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Yt9ZrGr57YBUfSWWeLaTGA81sOFJ4ECxzlQwJpYAp7McY7klGsunfrenjcTLP1j7FbvxHymiCIoKBl7OzMpf0tw4rrzMSk8HvfLQiTI",
+    "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 0
+   },
+   {
+    "title": "Wando High School - South Carolina - DonorsChoose",
+    "link": "https://www.donorschoose.org/schools/south-carolina/charleston-county-school-district/wando-high-school/6484",
+    "snippet": "Wando High School is a suburban public school in Mount Pleasant, South Carolina that is part of Charleston County School District. It serves 2,563 students in g...",
+    "source": "donorschoose.org",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTB77SkPCQ0uhycMFSzNkeHsQZqZedU94NrCIGAlBmnVhiLW8tAKyomdBqIrf5q5Jt6GRuDaUWeR1Fq51zgeNhH2CHUJw",
+    "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.donorschoose.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 1
+   },
+   {
+    "title": "Wando High School - Mount Pleasant - Homes.com",
+    "link": "https://www.homes.com/school/mount-pleasant-sc/wando-high-school/f0nwex6ss79ce/",
+    "snippet": "Serving grades nine through twelve in the East Charleston/Mt. Pleasant area, Wando offers more than 200 academic courses including Advance Placement, honors, du...",
+    "source": "homes.com",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT0Hj_ZP_e-W0PDmQkqIO1eSB0uZPznzFMUmM6nHd4O_ytXYr7n-Ti0Hk3p7nYgGiMqHyS9voj1QK6fXX-OHuqfzEqPF0rWVYSMdrkTmfE",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.homes.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 2
+   },
+   {
+    "title": "Wando High School: Home",
+    "link": "https://wandohigh.ccsdschools.com/",
+    "snippet": "Ranked 8th Best High School in SC. Proudly ranked among the Top 10 high schools in South Carolina by U.S. News & World Report. ... Ranked 8th Best High School i...",
+    "source": "wandohigh.ccsdschools.com",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTon0CKQOft6EkDcl_xTeP3l9upurKVkAvDiiZ4XJIB8o5nquaIUFJ1mEtY0i_GdyH8ZyYzuUGrICfvpG2i6VzmOm3RqyQ4YS0_sKtxwW0",
+    "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://wandohigh.ccsdschools.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 3
+   },
+   {
+    "title": "Wando High School in Mount Pleasant, SC - US News",
+    "link": "https://www.usnews.com/education/best-high-schools/south-carolina/districts/charleston-county-school-district/wando-high-school-17571",
+    "snippet": "Overview of Wando High School. Wando High School is ranked 10th within South Carolina. Students have the opportunity to take Advanced Placement\u00ae coursework and",
+    "source": "usnews.com",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrUPeF73NbrmfuZcaiZS3U8IB4hdqJdmdPc7vRt0WWsjWJxJfSR5sO3VqiGUPtyDrOxJ60t3KZrleDjLi89DUdqCOpKRGobtYDCxJP9lk",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.usnews.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 4
+   }
+  ]
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Wando High School: Home",
+   "link": "https://wandohigh.ccsdschools.com/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://wandohigh.ccsdschools.com/&ved=2ahUKEwjepsPX5eSWAxX0DDQIHRecNV0QFnoECC4QAQ",
+   "displayed_link": "https://wandohigh.ccsdschools.com",
+   "favicon": "https://serpapi.com/searches/6aa30b2710b5cf331cd11fe6/images/6flX1yLA7iiA_0m3R2lv57rsO8_NHJEwKKX3vNm3MqY.png",
+   "snippet": "Why Wando High School. Previous. 2,708. Students Served. Student Population ... Proudly ranked among the Top 10 high schools in South Carolina by U.S. News & ...",
+   "snippet_highlighted_words": [
+    "Wando High School",
+    "South Carolina"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "Calendar",
+      "link": "https://wandohigh.ccsdschools.com/calendar",
+      "snippet": "Calendar - Wando High School. ... South Carolina Report Card ..."
+     },
+     {
+      "title": "Directory",
+      "link": "https://wandohigh.ccsdschools.com/directory",
+      "snippet": "Directory - Wando High School. ... South Carolina Report Card ..."
+     },
+     {
+      "title": "Program of Studies",
+      "link": "https://wandohigh.ccsdschools.com/about-us/program-of-studies",
+      "snippet": "Program of Studies - Wando High School. ... South Carolina ..."
+     },
+     {
+      "title": "Parents & Students",
+      "link": "https://wandohigh.ccsdschools.com/parents-students",
+      "snippet": "Parents & Students - Wando High School. ... South Carolina ..."
+     },
+     {
+      "title": "Administration",
+      "link": "https://wandohigh.ccsdschools.com/about-us/administration",
+      "snippet": "Administration - Wando High School. ... South Carolina. After ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Why Wando High School. Previous. 2,708. Students Served. Student Population ... Proudly ranked among the Top 10 high schools in South Carolina by U.S. News & ...",
+     "source_info_link": "https://wandohigh.ccsdschools.com/",
+     "icon": "https://serpapi.com/searches/6aa30b2710b5cf331cd11fe6/images/6flX1yLA7iiA_0m3R2lv50zn5sqboxWiNFWTivc31SDWdRKUnUfTA22u5l6j4rau.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://wandohigh.ccsdschools.com/&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwandohigh.ccsdschools.com%2F",
+   "source": "Wando High School"
+  },
+  {
+   "position": 2,
+   "title": "Wando High School in Mount Pleasant, SC - US News",
+   "link": "https://www.usnews.com/education/best-high-schools/south-carolina/districts/charleston-county-school-district/wando-high-school-17571",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.usnews.com/education/best-high-schools/south-carolina/districts/charleston-county-school-district/wando-high-school-17571&ved=2ahUKEwjepsPX5eSWAxX0DDQIHRecNV0QFnoECFYQAQ",
+   "displayed_link": "https://www.usnews.com \u203a south-carolina \u203a districts \u203a w...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png",
+   "snippet": "Wando High School is ranked #1,123 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+   "snippet_highlighted_words": [
+    "Wando High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Wando High School is ranked #1,123 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/south-carolina/districts/charleston-county-school-district/wando-high-school-17571",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.usnews.com/education/best-high-schools/south-carolina/districts/charleston-county-school-district/wando-high-school-17571&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.usnews.com%2Feducation%2Fbest-high-schools%2Fsouth-carolina%2Fdistricts%2Fcharleston-county-school-district%2Fwando-high-school-17571",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/south-carolina/districts/charleston-county-school-district/wando-high-school-17571#:~:text=Wando%20High%20School%20is%20ranked,they%20prepare%20students%20for%20college."
+  },
+  {
+   "position": 3,
+   "title": "Wando High School",
+   "link": "https://en.wikipedia.org/wiki/Wando_High_School",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Wando_High_School&ved=2ahUKEwjepsPX5eSWAxX0DDQIHRecNV0QFnoECFUQAQ",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Wando_High_School",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+   "snippet": "Wando High School (often shortened to \"Wando\") is a public high school within the Charleston County School District, located in Mt. Pleasant, South Carolina ...",
+   "snippet_highlighted_words": [
+    "Wando High School",
+    "South Carolina"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Wando High School (often shortened to \"Wando\") is a public high school within the Charleston County School District, located in Mt. Pleasant, South Carolina ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Wando_High_School",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Wando_High_School&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FWando_High_School",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Wando_High_School#:~:text=Wando%20High%20School%20(often%20shortened,Pleasant%2C%20South%20Carolina%2C%20United%20States."
+  },
+  {
+   "position": 4,
+   "title": "Wando High School | Mount Pleasant SC",
+   "link": "https://www.facebook.com/wandohighschool/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/wandohighschool/&ved=2ahUKEwjepsPX5eSWAxX0DDQIHRecNV0QFnoECFgQAQ",
+   "displayed_link": "17.2K+ followers",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "snippet": "Wando High School, Mount Pleasant. 17175 likes \u00b7 2111 talking about this \u00b7 22205 were here. Wando High School is a public high school in Mt. Pleasant, SC.",
+   "snippet_highlighted_words": [
+    "Wando High School",
+    "Wando High School",
+    "SC"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Wando High School, Mount Pleasant. 17175 likes \u00b7 2111 talking about this \u00b7 22205 were here. Wando High School is a public high school in Mt. Pleasant, SC.",
+     "source_info_link": "https://www.facebook.com/wandohighschool/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/wandohighschool/&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fwandohighschool%2F",
+   "source": "Facebook \u00b7 Wando High School"
+  },
+  {
+   "position": 5,
+   "title": "Wando High School - South Carolina",
+   "link": "https://www.donorschoose.org/schools/south-carolina/charleston-county-school-district/wando-high-school/6484",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.donorschoose.org/schools/south-carolina/charleston-county-school-district/wando-high-school/6484&ved=2ahUKEwjepsPX5eSWAxX0DDQIHRecNV0QFnoECFcQAQ",
+   "displayed_link": "https://www.donorschoose.org \u203a schools \u203a south-carolina",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEU4A8E4AcE4AME3CMA1DL8zEb0vGLovGboyE7wwFrslA7hhVcaAd9B9dM9lWcgbALe_u-b____e3PJ3bc25teTEwOixrOE2IbzJxeqKgtORitaoot0AALLp5_drYMqak9minNtEM7_oabQTAAAA3klEQVR4AXWSBRIDIQwAITh1d_v_J0uQTI7SHWUWiAqOTIghAEonFMCvUsa6jPUKOmecJZyfysAcolhs2-PIQkhHHzMmVM3j-dl8gSz9KmYZIEuF8VbrTWW7W-WPNT20q_2GOGTrAaVFUBJHtI5-Rck4hfqvZvJ8OWd5XSVpQEgub6v7g_79J28juX6W0POYvx0ntMoJyWEpLyoFfC_3K-pf375Ha58sT5ONuzfymn944xE8xFUmhjbQbKiDHKeBVlINHeEdU6HbP9Ae1xLXM-jB5gptElrAeOslwMR8AZhOFkQFCdvDAAAAAElFTkSuQmCC.png",
+   "snippet": "Wando High School is a public school in Mount Pleasant, South Carolina that is part of Charleston County School District. It serves 2563 studentsin 9 - 12 ...",
+   "snippet_highlighted_words": [
+    "Wando High School",
+    "South Carolina"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Wando High School is a public school in Mount Pleasant, South Carolina that is part of Charleston County School District. It serves 2563 studentsin 9 - 12 ...",
+     "source_info_link": "https://www.donorschoose.org/schools/south-carolina/charleston-county-school-district/wando-high-school/6484",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEU4A8E4AcE4AME3CMA1DL8zEb0vGLovGboyE7wwFrslA7hhVcaAd9B9dM9lWcgbALe_u-b____e3PJ3bc25teTEwOixrOE2IbzJxeqKgtORitaoot0AALLp5_drYMqak9minNtEM7_oabQTAAAA3klEQVR4AXWSBRIDIQwAITh1d_v_J0uQTI7SHWUWiAqOTIghAEonFMCvUsa6jPUKOmecJZyfysAcolhs2-PIQkhHHzMmVM3j-dl8gSz9KmYZIEuF8VbrTWW7W-WPNT20q_2GOGTrAaVFUBJHtI5-Rck4hfqvZvJ8OWd5XSVpQEgub6v7g_79J28juX6W0POYvx0ntMoJyWEpLyoFfC_3K-pf375Ha58sT5ONuzfymn944xE8xFUmhjbQbKiDHKeBVlINHeEdU6HbP9Ae1xLXM-jB5gptElrAeOslwMR8AZhOFkQFCdvDAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.donorschoose.org/schools/south-carolina/charleston-county-school-district/wando-high-school/6484&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.donorschoose.org%2Fschools%2Fsouth-carolina%2Fcharleston-county-school-district%2Fwando-high-school%2F6484",
+   "source": "DonorsChoose"
+  },
+  {
+   "position": 6,
+   "title": "Wando High School (Mt. Pleasant, SC) Athletics - Schedules ...",
+   "link": "https://www.wandoathletics.com/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wandoathletics.com/&ved=2ahUKEwjepsPX5eSWAxX0DDQIHRecNV0QFnoECFQQAQ",
+   "displayed_link": "https://www.wandoathletics.com",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAXVBMVEVHcEyhDDWfADCvQlmWAADXrraVAACFAAC3TmOWmZhyAACgACbSxMgAAACYAADduMAmMS9JUE94enphY2I5OTn-_v6-vr7n5-fQ0NCuPlaRlJSnp6egACaHAACBAAAhyfZxAAAAH3RSTlMAK6v_d_9rEf__Ct7__7b_________________1hIPWANLlgAAAKhJREFUeAHUUjUCAjEQPIm7EAf-_0xScopVbLPuM_wjjeOLgGl6ETDP534AITrzY0IpYScBXEgp-LFfaSOl0erQD63sZOF-BObaeWsv3nvN8c78RBgXYoo5WCMIWN1vKpBKKYMLiaYuUFimcREww9rtKaeQRRcqnKdx20LG0HKgsrdAu0PaGlwL3uore73mV4d6ferhRmol9xfvBr8B5jFgkiOcaIcgAADNxgk_KJsFdQAAAABJRU5ErkJggg.png",
+   "snippet": "The official home of wando high school Warriors athletics. Get the latest schedules, scores, news, broadcasting, and more for wando high school Warriors in ...",
+   "snippet_highlighted_words": [
+    "wando high school",
+    "wando high school"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The official home of wando high school Warriors athletics. Get the latest schedules, scores, news, broadcasting, and more for wando high school Warriors in ...",
+     "source_info_link": "https://www.wandoathletics.com/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAXVBMVEVHcEyhDDWfADCvQlmWAADXrraVAACFAAC3TmOWmZhyAACgACbSxMgAAACYAADduMAmMS9JUE94enphY2I5OTn-_v6-vr7n5-fQ0NCuPlaRlJSnp6egACaHAACBAAAhyfZxAAAAH3RSTlMAK6v_d_9rEf__Ct7__7b_________________1hIPWANLlgAAAKhJREFUeAHUUjUCAjEQPIm7EAf-_0xScopVbLPuM_wjjeOLgGl6ETDP534AITrzY0IpYScBXEgp-LFfaSOl0erQD63sZOF-BObaeWsv3nvN8c78RBgXYoo5WCMIWN1vKpBKKYMLiaYuUFimcREww9rtKaeQRRcqnKdx20LG0HKgsrdAu0PaGlwL3uore73mV4d6ferhRmol9xfvBr8B5jFgkiOcaIcgAADNxgk_KJsFdQAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.wandoathletics.com/&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.wandoathletics.com%2F",
+   "source": "wandoathletics.com"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Wando high school south carolina football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntEmRfbeCiETxJA5Wj1hJQ7WNEh-A:1789070152889&q=Wando+high+school+south+carolina+football&sa=X&ved=2ahUKEwjepsPX5eSWAxX0DDQIHRecNV0Q1QJ6BAhQEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Wando+high+school+south+carolina+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Wando high school south carolina basketball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntEmRfbeCiETxJA5Wj1hJQ7WNEh-A:1789070152889&q=Wando+high+school+south+carolina+basketball&sa=X&ved=2ahUKEwjepsPX5eSWAxX0DDQIHRecNV0Q1QJ6BAhhEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Wando+high+school+south+carolina+basketball"
+  },
+  {
+   "block_position": 1,
+   "query": "Wando high school south carolina principal",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntEmRfbeCiETxJA5Wj1hJQ7WNEh-A:1789070152889&q=Wando+high+school+south+carolina+principal&sa=X&ved=2ahUKEwjepsPX5eSWAxX0DDQIHRecNV0Q1QJ6BAhdEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Wando+high+school+south+carolina+principal"
+  },
+  {
+   "block_position": 1,
+   "query": "Wando high school photos",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntEmRfbeCiETxJA5Wj1hJQ7WNEh-A:1789070152889&q=Wando+high+school+photos&sa=X&ved=2ahUKEwjepsPX5eSWAxX0DDQIHRecNV0Q1QJ6BAhcEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Wando+high+school+photos"
+  },
+  {
+   "block_position": 1,
+   "query": "Wando high school website",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntEmRfbeCiETxJA5Wj1hJQ7WNEh-A:1789070152889&q=Wando+high+school+website&sa=X&ved=2ahUKEwjepsPX5eSWAxX0DDQIHRecNV0Q1QJ6BAhaEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Wando+high+school+website"
+  },
+  {
+   "block_position": 1,
+   "query": "Wando high school Calendar",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntEmRfbeCiETxJA5Wj1hJQ7WNEh-A:1789070152889&q=Wando+high+school+Calendar&sa=X&ved=2ahUKEwjepsPX5eSWAxX0DDQIHRecNV0Q1QJ6BAhZEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Wando+high+school+Calendar"
+  },
+  {
+   "block_position": 1,
+   "query": "Wando high school mascot",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntEmRfbeCiETxJA5Wj1hJQ7WNEh-A:1789070152889&q=Wando+high+school+mascot&sa=X&ved=2ahUKEwjepsPX5eSWAxX0DDQIHRecNV0Q1QJ6BAhTEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Wando+high+school+mascot"
+  },
+  {
+   "block_position": 1,
+   "query": "Wando high school logo",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntEmRfbeCiETxJA5Wj1hJQ7WNEh-A:1789070152889&q=Wando+high+school+logo&sa=X&ved=2ahUKEwjepsPX5eSWAxX0DDQIHRecNV0Q1QJ6BAhSEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Wando+high+school+logo"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Wando+High+School%22+South+Carolina&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntEmRfbeCiETxJA5Wj1hJQ7WNEh-A:1789070152889&ei=SAujat7iNfSZ0PEPl7jW6QU&start=10&sa=N&sstk=AS6-VmItjNJmaP1t0LDgT32H3znhZUCqXcMqgAhpOkmqUS-Dgl3hCnrhGOXmh1_lkYR2U_CGJn6zz6yKtmr1hAIRu67ZPiUJXNV7ow&ved=2ahUKEwjepsPX5eSWAxX0DDQIHRecNV0Q8NMDegQITRAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Wando+High+School%22+South+Carolina&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntEmRfbeCiETxJA5Wj1hJQ7WNEh-A:1789070152889&ei=SAujat7iNfSZ0PEPl7jW6QU&start=10&sa=N&sstk=AS6-VmItjNJmaP1t0LDgT32H3znhZUCqXcMqgAhpOkmqUS-Dgl3hCnrhGOXmh1_lkYR2U_CGJn6zz6yKtmr1hAIRu67ZPiUJXNV7ow&ved=2ahUKEwjepsPX5eSWAxX0DDQIHRecNV0Q8tMDegQITRAE",
+   "3": "https://www.google.com/search?q=%22Wando+High+School%22+South+Carolina&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntEmRfbeCiETxJA5Wj1hJQ7WNEh-A:1789070152889&ei=SAujat7iNfSZ0PEPl7jW6QU&start=20&sa=N&sstk=AS6-VmItjNJmaP1t0LDgT32H3znhZUCqXcMqgAhpOkmqUS-Dgl3hCnrhGOXmh1_lkYR2U_CGJn6zz6yKtmr1hAIRu67ZPiUJXNV7ow&ved=2ahUKEwjepsPX5eSWAxX0DDQIHRecNV0Q8tMDegQITRAG",
+   "4": "https://www.google.com/search?q=%22Wando+High+School%22+South+Carolina&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntEmRfbeCiETxJA5Wj1hJQ7WNEh-A:1789070152889&ei=SAujat7iNfSZ0PEPl7jW6QU&start=30&sa=N&sstk=AS6-VmItjNJmaP1t0LDgT32H3znhZUCqXcMqgAhpOkmqUS-Dgl3hCnrhGOXmh1_lkYR2U_CGJn6zz6yKtmr1hAIRu67ZPiUJXNV7ow&ved=2ahUKEwjepsPX5eSWAxX0DDQIHRecNV0Q8tMDegQITRAI",
+   "5": "https://www.google.com/search?q=%22Wando+High+School%22+South+Carolina&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntEmRfbeCiETxJA5Wj1hJQ7WNEh-A:1789070152889&ei=SAujat7iNfSZ0PEPl7jW6QU&start=40&sa=N&sstk=AS6-VmItjNJmaP1t0LDgT32H3znhZUCqXcMqgAhpOkmqUS-Dgl3hCnrhGOXmh1_lkYR2U_CGJn6zz6yKtmr1hAIRu67ZPiUJXNV7ow&ved=2ahUKEwjepsPX5eSWAxX0DDQIHRecNV0Q8tMDegQITRAK",
+   "6": "https://www.google.com/search?q=%22Wando+High+School%22+South+Carolina&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntEmRfbeCiETxJA5Wj1hJQ7WNEh-A:1789070152889&ei=SAujat7iNfSZ0PEPl7jW6QU&start=50&sa=N&sstk=AS6-VmItjNJmaP1t0LDgT32H3znhZUCqXcMqgAhpOkmqUS-Dgl3hCnrhGOXmh1_lkYR2U_CGJn6zz6yKtmr1hAIRu67ZPiUJXNV7ow&ved=2ahUKEwjepsPX5eSWAxX0DDQIHRecNV0Q8tMDegQITRAM",
+   "7": "https://www.google.com/search?q=%22Wando+High+School%22+South+Carolina&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntEmRfbeCiETxJA5Wj1hJQ7WNEh-A:1789070152889&ei=SAujat7iNfSZ0PEPl7jW6QU&start=60&sa=N&sstk=AS6-VmItjNJmaP1t0LDgT32H3znhZUCqXcMqgAhpOkmqUS-Dgl3hCnrhGOXmh1_lkYR2U_CGJn6zz6yKtmr1hAIRu67ZPiUJXNV7ow&ved=2ahUKEwjepsPX5eSWAxX0DDQIHRecNV0Q8tMDegQITRAO",
+   "8": "https://www.google.com/search?q=%22Wando+High+School%22+South+Carolina&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntEmRfbeCiETxJA5Wj1hJQ7WNEh-A:1789070152889&ei=SAujat7iNfSZ0PEPl7jW6QU&start=70&sa=N&sstk=AS6-VmItjNJmaP1t0LDgT32H3znhZUCqXcMqgAhpOkmqUS-Dgl3hCnrhGOXmh1_lkYR2U_CGJn6zz6yKtmr1hAIRu67ZPiUJXNV7ow&ved=2ahUKEwjepsPX5eSWAxX0DDQIHRecNV0Q8tMDegQITRAQ",
+   "9": "https://www.google.com/search?q=%22Wando+High+School%22+South+Carolina&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntEmRfbeCiETxJA5Wj1hJQ7WNEh-A:1789070152889&ei=SAujat7iNfSZ0PEPl7jW6QU&start=80&sa=N&sstk=AS6-VmItjNJmaP1t0LDgT32H3znhZUCqXcMqgAhpOkmqUS-Dgl3hCnrhGOXmh1_lkYR2U_CGJn6zz6yKtmr1hAIRu67ZPiUJXNV7ow&ved=2ahUKEwjepsPX5eSWAxX0DDQIHRecNV0Q8tMDegQITRAS",
+   "10": "https://www.google.com/search?q=%22Wando+High+School%22+South+Carolina&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntEmRfbeCiETxJA5Wj1hJQ7WNEh-A:1789070152889&ei=SAujat7iNfSZ0PEPl7jW6QU&start=90&sa=N&sstk=AS6-VmItjNJmaP1t0LDgT32H3znhZUCqXcMqgAhpOkmqUS-Dgl3hCnrhGOXmh1_lkYR2U_CGJn6zz6yKtmr1hAIRu67ZPiUJXNV7ow&ved=2ahUKEwjepsPX5eSWAxX0DDQIHRecNV0Q8tMDegQITRAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Wando+High+School%22+South+Carolina&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Wando+High+School%22+South+Carolina&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Wando+High+School%22+South+Carolina&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Wando+High+School%22+South+Carolina&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Wando+High+School%22+South+Carolina&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Wando+High+School%22+South+Carolina&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Wando+High+School%22+South+Carolina&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Wando+High+School%22+South+Carolina&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Wando+High+School%22+South+Carolina&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Wando+High+School%22+South+Carolina&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Wando+High+School%22+South+Carolina&start=90"
+  }
+ }
+}

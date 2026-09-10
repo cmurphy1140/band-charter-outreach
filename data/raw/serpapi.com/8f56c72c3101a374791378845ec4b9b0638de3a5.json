@@ -1,0 +1,494 @@
+{
+ "search_information": {
+  "query_displayed": "\"Ayala High School\" California",
+  "total_results": 141000,
+  "time_taken_displayed": 0.4,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Ruben S. Ayala High School",
+  "type": "High school in Chino Hills, California",
+  "entity_type": "local_nav",
+  "kgmid": "/m/06rqzg",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/06rqzg&hl=en-US&q=Ruben+S.+Ayala+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F06rqzg&q=Ruben+S.+Ayala+High+School",
+  "place_id": "ChIJO4QQAqwyw4ARdtF56YkP0Sk",
+  "website": "https://ayala.chino.k12.ca.us/",
+  "description": "Senator Ruben S. Ayala Senior High School, often abbreviated as Ayala High School or AHS, is located in Chino Hills, California. It is one of the four comprehensive high schools in the Chino Valley Unified School District. The school was established in 1990 and named after California state senator Ruben S. Ayala.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa30be941ffc81cff0da991/images/6gkQ0RFBI9LRC-9t6Vs8Y1UsI6scpKU_xnhDFordrrc.webp",
+   "link": "https://www.google.com/maps/place/Ruben+S.+Ayala+High+School/data=!4m2!3m1!1s0x0:0x29d10f89e979d176?sa=X&ved=2ahUKEwjq_pm65uSWAxURjuEIHVKzM24Q_BJ6BAgREAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Ruben_S._Ayala_High_School"
+  },
+  "address": "14255 Peyton Dr, Chino Hills, CA 91709",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=ruben+s.+ayala+high+school+address&ludocid=3013206710689583478&sa=X&ved=2ahUKEwjq_pm65uSWAxURjuEIHVKzM24Q6BN6BAggEAI"
+   }
+  ],
+  "colors": "Black, Red, Silver",
+  "colors_links": [
+   {
+    "text": "Black",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpgpRzZQUb1HvfO7YMT0HLL8ab3lUxeOQbKlFMsJDb9RQK376ErnlLc6FJ2w7UxnEY40gWhutIOJh1FGt64fvh_yt5zA5-O-C_wvzB5x_0RWsS4yT9EhhSa3Um9jkOF8VydX94_60O_fWnVC0ZSY5QwUxL0v-xYhdjrk5cTixj-RVQgo4U8A3TMXuO0j8BkLozl-jPTY%3D&sa=X&ved=2ahUKEwjq_pm65uSWAxURjuEIHVKzM24QmxN6BAglEAI"
+   },
+   {
+    "text": "Red",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpl_3AFKcirfI2u2sRI4LGxap_ednnJnut-0nMnDbeo5TVHs4p72S5DA-hRfTAlSXLNlG0rLXWB3hrSOaX3aLhLIUVv1fBPFbkRYrsZPXaM7x6E_eKNsVk8xanPzFR8MBl7zf23-SnFjAPFoCO4o7j7sNSERX-OeQiIXSLga4bSziJaTv8Xp29vpD69vDCEcOzYmn6CE%3D&sa=X&ved=2ahUKEwjq_pm65uSWAxURjuEIHVKzM24QmxN6BAglEAM"
+   },
+   {
+    "text": "Silver",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yZf7_qxYcR7ZZOHXhZ12Gqd8YANeyCg9KWGonKHp7NI4ZpeIEMN9uU77MY5XXR0E03KAX_B7VBXCm0r2mklBJBHDr9ZGuQU2iZl4SLNTr4h2BjHet8stLksiqrcIzcGbF6ConzWBcDFKVixC2M8ZkwNBw_lguzpMDyYhO8mLIO-mWeI75cQdO6GwlLUZkpQUGFI_guE%3D&sa=X&ved=2ahUKEwjq_pm65uSWAxURjuEIHVKzM24QmxN6BAglEAQ"
+   }
+  ],
+  "founded": "1990",
+  "mascot": "Bulldogs",
+  "mascot_links": [
+   {
+    "text": "Bulldogs",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW674aCQoMU6D7tNuCqT2GdMRswlZkRnFRE-GrdjykNpWudWo5BeHkNG0xI6uPxIigjPi6UVwrD8c8_qnRphpPqw7lND7vqUJtc_7kzKu08DJBhX_rTLcKk__LMvpJo8oXS1i7Uzzru0Gir1c3n4V6IOeq4V66e&sa=X&ved=2ahUKEwjq_pm65uSWAxURjuEIHVKzM24QmxN6BAgoEAI"
+   }
+  ],
+  "grades": "Grades 9-12",
+  "phone": "(909) 627-3584",
+  "raw_hours": "Open \u00b7 Closes 4 PM",
+  "hours": {
+   "thursday": {
+    "opens": "7\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "friday": {
+    "opens": "7\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "7\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "tuesday": {
+    "opens": "7\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "wednesday": {
+    "opens": "7\u202fAM",
+    "closes": "4\u202fPM"
+   }
+  },
+  "people_also_search_for": [
+   {
+    "name": "Chino Hills High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlh-LspxyXuSq9ZVQmG1QarhhXk8OdF7lmHDlu_uLBuy1wEXrcryrQRv0cFeCvBYZAyfFYtd-1vgLsD7Lha2bDJb6K23jrQkFwJn7udaIbAsuvGcZl7hFXuiwWhmVPMb_zSdmA1CA=w236-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yQRKBlQqW-6KrbXyu9UiedB7zNW7_Zzvuwi_NkfzKDpc3o6ONalwS68mks5zIXOLLF2wCH5s3ZMrLTZpBkrO6SxO4db7ifkSuR7JQ-Xis64qBPgJGCOuuv_UK4h0DDVTAy9sikeV44Rqn3EaJKnoXeFc0GYPyGCsUtfSoLb3zaxRiUJZ4H2AyH5MccD4NYCFgGBN4XM4RptI3pgB6OGPJjvfga_2mbPLv0vkXiAI9_aAVzYncgbqiw_8PfbRKlsnqsVq9mzVRox-No9Oa2e2h_j3sJK6&q=Chino+Hills+High+School&sa=X&ved=2ahUKEwjq_pm65uSWAxURjuEIHVKzM24Qs9oBKAB6BAgfEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Chino+Hills+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yQRKBlQqW-6KrbXyu9UiedB7zNW7_Zzvuwi_NkfzKDpc3o6ONalwS68mks5zIXOLLF2wCH5s3ZMrLTZpBkrO6SxO4db7ifkSuR7JQ-Xis64qBPgJGCOuuv_UK4h0DDVTAy9sikeV44Rqn3EaJKnoXeFc0GYPyGCsUtfSoLb3zaxRiUJZ4H2AyH5MccD4NYCFgGBN4XM4RptI3pgB6OGPJjvfga_2mbPLv0vkXiAI9_aAVzYncgbqiw_8PfbRKlsnqsVq9mzVRox-No9Oa2e2h_j3sJK6"
+   },
+   {
+    "name": "Don Antonio Lugo High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmYGsf4qjIW5wcAT9eE8I7Ndd8jyYmtJ2bHU4eIN5nUKW5KK0l3JxIJHDYLSiXC-O0GbEHhARS5Vwrf983Juw5A0dspksXTfAaqK4bbgq75q7R4MqpzBcx0umACwsGPdPWsD2Y=w204-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67wmXoaIx6c118gYEoRongMtsviIyUGDNPTvb7U1Klj07bz1IRTzN99YcIUtif8wGNG8N1lHpWFoTp1s5dHSiIQjM96ytFI8nyjZytJUww5W6Nxyr3aOjNPk6s_SCOYyqGpTFSX8htBElEtq5xPEWYJFEJaybRs8-B5E-Wa8YImRyvyO5pdr0WrdNf2g3tcbgxFSEemKhDTK3NGbGYHAmABiBh6mtct_7ZAyFaLwHzkZbJwyaki968j3Q5WO7YaOkMcBOgOvGNKU_WPnaw3uNqgyEKcrM&q=Don+Antonio+Lugo+High+School&sa=X&ved=2ahUKEwjq_pm65uSWAxURjuEIHVKzM24Qs9oBKAB6BAgfEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Don+Antonio+Lugo+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67wmXoaIx6c118gYEoRongMtsviIyUGDNPTvb7U1Klj07bz1IRTzN99YcIUtif8wGNG8N1lHpWFoTp1s5dHSiIQjM96ytFI8nyjZytJUww5W6Nxyr3aOjNPk6s_SCOYyqGpTFSX8htBElEtq5xPEWYJFEJaybRs8-B5E-Wa8YImRyvyO5pdr0WrdNf2g3tcbgxFSEemKhDTK3NGbGYHAmABiBh6mtct_7ZAyFaLwHzkZbJwyaki968j3Q5WO7YaOkMcBOgOvGNKU_WPnaw3uNqgyEKcrM"
+   },
+   {
+    "name": "Canyon Hills Junior High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl0QYwhZuAKz5qFKotHmC71iLJ0vHhoHkfzBJabOi9jTHIB_o11RqhndynmsKKTEVPuCfIKoA8CCqnmMdSe13JIWGlYMEf2zu_jIrd84A5xy5UqcsjxPlLQGp6DD52wBmjNdCg=w153-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67yOyco2eEf6ueB6TaIF5A_m0gGLn7zQ_DghwTMTq6o1TFMGsGWmmQ8Ldk96HgcJYuHgu4K__L6IjLXo526m4r9M_0xkXB7y5aWIo9z2fwD1uTYQNDkOX_JzCkA9aKYRtJok_d-EIJ4P_dWBl2DbRbmYGsMwx7-0aG31zrRaBrsQY02zfr5iBmTg70UVg9DXTMRqkPauJrIAsiQkVRsZDpE3hFRQ4oJgt3frDoEMOtLCOvyj30pF0cifIui3i3a1w4MQwnI4Pvc6QcQ2rSlD9-3M0lvqY&q=Canyon+Hills+Junior+High+School&sa=X&ved=2ahUKEwjq_pm65uSWAxURjuEIHVKzM24Qs9oBKAB6BAgfEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Canyon+Hills+Junior+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67yOyco2eEf6ueB6TaIF5A_m0gGLn7zQ_DghwTMTq6o1TFMGsGWmmQ8Ldk96HgcJYuHgu4K__L6IjLXo526m4r9M_0xkXB7y5aWIo9z2fwD1uTYQNDkOX_JzCkA9aKYRtJok_d-EIJ4P_dWBl2DbRbmYGsMwx7-0aG31zrRaBrsQY02zfr5iBmTg70UVg9DXTMRqkPauJrIAsiQkVRsZDpE3hFRQ4oJgt3frDoEMOtLCOvyj30pF0cifIui3i3a1w4MQwnI4Pvc6QcQ2rSlD9-3M0lvqY"
+   },
+   {
+    "name": "Chino Valley Unified School District",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRouIj46gSmEQEdFxJr5_o09o2rjYPgLRAa5hIf&s=0",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yRxglPCNhPydQp45RManrvtQxss7F0xEtC_0ZLvrwqRMn6vEAyXa7dCr9B-c1WTSCf2BEcW_6ZEiJmyXymyGu46U7LdzsfATopRKNj2Bh7VFehN_sGp2yVuXuEPpC6b3R4jgAiBzB2Uriq-grOKG_N0rZ7s7TpYeAk1ilb5yaMdJ-DVKEEkhSv8G8KMRBcnOpfychtYauw6Ck-g0wfWN_cGJaOTsh76DhJGwTdRJJL7_LhSU9pKNIAeH9iH7mHOfnMP76xDqznKnAoAOlBgkJV4UeQ9kLHWIG67ZqvStxbnhNnZdaQ%3D%3D&q=Chino+Valley+Unified+School+District&sa=X&ved=2ahUKEwjq_pm65uSWAxURjuEIHVKzM24Qs9oBKAB6BAgfEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Chino+Valley+Unified+School+District&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yRxglPCNhPydQp45RManrvtQxss7F0xEtC_0ZLvrwqRMn6vEAyXa7dCr9B-c1WTSCf2BEcW_6ZEiJmyXymyGu46U7LdzsfATopRKNj2Bh7VFehN_sGp2yVuXuEPpC6b3R4jgAiBzB2Uriq-grOKG_N0rZ7s7TpYeAk1ilb5yaMdJ-DVKEEkhSv8G8KMRBcnOpfychtYauw6Ck-g0wfWN_cGJaOTsh76DhJGwTdRJJL7_LhSU9pKNIAeH9iH7mHOfnMP76xDqznKnAoAOlBgkJV4UeQ9kLHWIG67ZqvStxbnhNnZdaQ%3D%3D"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Ruben+S.+Ayala+High+School&stick=H4sIAAAAAAAAAONgFuLUz9U3MCsqrEpXQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1ilQoqTUrNUwjWU3CsTMxJVPDITM9QCE7OyM_P2cHKeItNkuGNQ0VgLl9T55Jww0Os2os2RyQF26SHfT8OANHOBpqAAAAA&sa=X&ved=2ahUKEwjq_pm65uSWAxURjuEIHVKzM24QzO0BKAR6BAgfEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLUz9U3MCsqrEpXQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1ilQoqTUrNUwjWU3CsTMxJVPDITM9QCE7OyM_P2cHKeItNkuGNQ0VgLl9T55Jww0Os2os2RyQF26SHfT8OANHOBpqAAAAA",
+  "profiles": [
+   {
+    "name": "YouTube",
+    "link": "https://www.youtube.com/channel/UC0fGAbNY0zuPZir_rb5kbWw",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Ayala+High+School%22+California",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAP1BMVEX_____z8__n5__kJD_gID_cHD_YGD_v7__39__ICD_AAD_r6__EBD_7-__oKD_MDD_QED_UFD_X1__j4__f396G04EAAAAhklEQVR4AeXQRQLDQAwDQC3bajj5_1dLYb63czYKf8VY50OcBO9swkyUB_SBkfJQlqOXeKJAz_FEQM9zVCqXInqRIy-RC9W-AJDypgCwyoGiV68LkLJFwX6CVJcr8nBwZJgLXMaDAs9RxsMcLE949IQnEnpoeKjEpC25o12OpVwkTURy_JQX1r4RC2S7kZYAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "TikTok",
+    "link": "https://www.tiktok.com/@ayalabulldogtimes",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Ayala+High+School%22+California",
+    "image": "https://serpapi.com/searches/6aa30be941ffc81cff0da991/images/6gkQ0RFBI9LRC-9t6Vs8Y48v3ok9E_x0S1K9GyvY7lAViUoV4RZXV1mO5N4ZOZrL.png"
+   },
+   {
+    "name": "X (Twitter)",
+    "link": "https://mobile.twitter.com/bulldogs411",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Ayala+High+School%22+California",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAABhUlEQVR4AczOA6xcARCF4X_us23btuLUQR3WZlhbQW3bto2gtm3b2J3GN4tY74uHh3okOi42Nj4AAUDwTvDEhisABCOAEAzYTBh0bN-lc5d0QgAhHPqX4Y4pkd367Zc-xMcXCPDg8TPwxeQH724Uj9N95GJ4pnHxby1xgCmV3v-GsFb7k0Iee7UjaQgmIYe9v9O4-wUKWaATyMPAViwvr1NnOQWDdTV5CHYSaKWLmaGDyvU4mTgQcllracaFr-9uk-yLM8k8fAJff0IUTghRVFu3M1ynkYk4nchiqqU3Ry05RDibMMhjtj6Ht3dJxVk_l1G64cspOusychBsCWm01WNM0jFs0sbEYUtIIuTXNco588OLh09JxE6wweuXEAvfL9PQus3-iU80N34KCaQyUOcxTTuSjEmMRI5rS9JwIZfD1t7ceo34YIpnuQ4nGwP8XXlq_fJZd9jE8KBHC5IwAELJ7dWrZ6fOuNhkgFgAEEIAwA1MQkw0AgDC_wnKycrKSQ2iPAkAVyNzq8rxicIAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/ayalahighschool",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Ayala+High+School%22+California",
+    "image": "https://serpapi.com/searches/6aa30be941ffc81cff0da991/images/6gkQ0RFBI9LRC-9t6Vs8Ywzcvk1BfDqbhO8fD-D346rRW-wHno9OyDPoUBXOZSdV.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "What is the ranking of Ayala High School in California?",
+   "type": "ai_overview",
+   "page_token": "T02QnHicHdBLjpswGABg9TKznPAY0mmkqBKJIULCI4zND95UxA4BP2ImQSHMrlfoGXqqnmZGXX377_dfM1z0v29_-mkab5vVap7n57NzZ3N6Fs6u2ttyESvRGnNshd6sv6_9n53YoruId1cRF2wcqz3xStWPhX1dGkhqol1IA3wDdA4YjGGLshKqLOY6uXMmG2wxPQGvGYvCKniJmsHvyd5MVYox7PyA-RgxJjlVsWo8tnAr3yh6FBRwT4JpD-zVAy27fPCzHKYrP8ScGzdDOirQZg2ILyfNPKnihF3I8FYT1ficFHUfAOA8T0jRppPNWdSWNeYSxgint-kI074AuRM2Wkrb30stImZ_RCVNqLhU1_KAHg3NKtTLVIbmvamTByB_JgF20uIiP1QD_egJEDcUjHwIZSzTWXe0-iX3iCvDDL4EUDiuDvhRKvyehzGT81Mn7tvw6f_19ldnp814dedPQ-aNWg",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=T02QnHicHdBLjpswGABg9TKznPAY0mmkqBKJIULCI4zND95UxA4BP2ImQSHMrlfoGXqqnmZGXX377_dfM1z0v29_-mkab5vVap7n57NzZ3N6Fs6u2ttyESvRGnNshd6sv6_9n53YoruId1cRF2wcqz3xStWPhX1dGkhqol1IA3wDdA4YjGGLshKqLOY6uXMmG2wxPQGvGYvCKniJmsHvyd5MVYox7PyA-RgxJjlVsWo8tnAr3yh6FBRwT4JpD-zVAy27fPCzHKYrP8ScGzdDOirQZg2ILyfNPKnihF3I8FYT1ficFHUfAOA8T0jRppPNWdSWNeYSxgint-kI074AuRM2Wkrb30stImZ_RCVNqLhU1_KAHg3NKtTLVIbmvamTByB_JgF20uIiP1QD_egJEDcUjHwIZSzTWXe0-iX3iCvDDL4EUDiuDvhRKvyehzGT81Mn7tvw6f_19ldnp814dedPQ-aNWg",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlJIVm5VM1EzVkVOdFNYUlFiVGR2VTBGeWFIVjFNbko1Ylc1RlF6RmhOSEZTTVdSMWNGaFViWEZFVHpKeExYSkxNMjl0TUZsRWRIQmFRbk5vY1c5NVZVc3RjRXROWVU1ZmMwVTRXRlJWZG5ORE1XeHdhSGRSVlMxM2R4SVhSbmQ1YW1GeGNWaE5jRWRqYUhaalVEQjFZazg0VVZrYUlrRkVjM0k1WmxJd04yRjNhemgxUVZJMU9UVTVZVWxEYVhaV1FsOUdXV1pZTWxFIiwiZmN2IjoiMyIsImVpIjoiRnd5amFxcVhNcEdjaHZjUDB1Yk84UVkiLCJxYyI6IkNoeGhlV0ZzWVNCb2FXZG9JSE5qYUc5dmJDQmpZV3hwWm05eWJtbGhFQUI5c2hnd1B3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSByYW5raW5nIG9mIEF5YWxhIEhpZ2ggU2Nob29sIGluIENhbGlmb3JuaWE/IiwibGsiOiJHaFpoZVdGc1lTQm9hV2RvSUhOamFHOXZiQ0J5WVc1ciIsImJzIjoiYzMzT1BRdUNVQlNBWVZyUDFCUnhwd05tWDVzdWpSSXRMZzNoNEh5dzlGNjBjMENGaV84LTdVT01HLTBQTHk4a2NFZzF0V2dhYlBVTmEtTFNjSUdTNDdHamlqQTJoY1lrMHlJVkdzWVRWU2FYbWcxRjRWSXQ2R24wWUpxWEdRSndodFVuNmxaS0ZzdllSNkxRVjU1OU83YzBPa2hoTjMzMGduOVhlN1cxMzNnYTdYRTJZcmpBT2hhTGQtSU9TM050c0JCc3hYMk93bzN5OVFfcFhNOW5EdyIsImlkIjoiZmNfRnd5amFxcVhNcEdjaHZjUDB1Yk84UVlfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlJIVm5VM1EzVkVOdFNYUlFiVGR2VTBGeWFIVjFNbko1Ylc1RlF6RmhOSEZTTVdSMWNGaFViWEZFVHpKeExYSkxNMjl0TUZsRWRIQmFRbk5vY1c5NVZVc3RjRXROWVU1ZmMwVTRXRlJWZG5ORE1XeHdhSGRSVlMxM2R4SVhSbmQ1YW1GeGNWaE5jRWRqYUhaalVEQjFZazg0VVZrYUlrRkVjM0k1WmxJd04yRjNhemgxUVZJMU9UVTVZVWxEYVhaV1FsOUdXV1pZTWxFIiwiZmN2IjoiMyIsImVpIjoiRnd5amFxcVhNcEdjaHZjUDB1Yk84UVkiLCJxYyI6IkNoeGhlV0ZzWVNCb2FXZG9JSE5qYUc5dmJDQmpZV3hwWm05eWJtbGhFQUI5c2hnd1B3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSByYW5raW5nIG9mIEF5YWxhIEhpZ2ggU2Nob29sIGluIENhbGlmb3JuaWE%2FIiwibGsiOiJHaFpoZVdGc1lTQm9hV2RvSUhOamFHOXZiQ0J5WVc1ciIsImJzIjoiYzMzT1BRdUNVQlNBWVZyUDFCUnhwd05tWDVzdWpSSXRMZzNoNEh5dzlGNjBjMENGaV84LTdVT01HLTBQTHk4a2NFZzF0V2dhYlBVTmEtTFNjSUdTNDdHamlqQTJoY1lrMHlJVkdzWVRWU2FYbWcxRjRWSXQ2R24wWUpxWEdRSndodFVuNmxaS0ZzdllSNkxRVjU1OU83YzBPa2hoTjMzMGduOVhlN1cxMzNnYTdYRTJZcmpBT2hhTGQtSU9TM050c0JCc3hYMk93bzN5OVFfcFhNOW5EdyIsImlkIjoiZmNfRnd5amFxcVhNcEdjaHZjUDB1Yk84UVlfNSJ9"
+  },
+  {
+   "question": "What is Ayala High School known for?",
+   "type": "ai_overview",
+   "page_token": "JbJUMnicHdBLboJAGADg9DIuhRG1qYlpgvKQBCjDPIBNM86gID8PKwV017v0VD1Nmx7g23xf31A21c_TUPR9d9to2jiO83PbniGfy7bWxO3eSE0KgKOQ1Wb9vEavJ7m1Pg_m7nowI9p1bI_1GMwp5bajdDqSygvimrkh727c9oYUdU0KcKXEJMHFpAlSNbdfihisEbusIQ1UuJ5uamEhoStQhodTA6-OhjlJYpdSZxa-yN5_sCZ2i6vQsxXVM-tYRT0BufQTFR8rcHzD20WoEOrijcRmn3mlHAyQJDrahzTY5Q4O_b2iWZUNEUdJ1piZeOCHtP27RIcl51ikiyxihBlWoRxlwDVN7IlbaMSLoFV1EPkuK8mjwBy3ZUT_7AVqyqAMrWlQiyUiDXvLk_PEE1UItwilQ1HuBJ0aZyc5bI3Z_-f2_VT3m-6jPf8CEpiEzg",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=JbJUMnicHdBLboJAGADg9DIuhRG1qYlpgvKQBCjDPIBNM86gID8PKwV017v0VD1Nmx7g23xf31A21c_TUPR9d9to2jiO83PbniGfy7bWxO3eSE0KgKOQ1Wb9vEavJ7m1Pg_m7nowI9p1bI_1GMwp5bajdDqSygvimrkh727c9oYUdU0KcKXEJMHFpAlSNbdfihisEbusIQ1UuJ5uamEhoStQhodTA6-OhjlJYpdSZxa-yN5_sCZ2i6vQsxXVM-tYRT0BufQTFR8rcHzD20WoEOrijcRmn3mlHAyQJDrahzTY5Q4O_b2iWZUNEUdJ1piZeOCHtP27RIcl51ikiyxihBlWoRxlwDVN7IlbaMSLoFV1EPkuK8mjwBy3ZUT_7AVqyqAMrWlQiyUiDXvLk_PEE1UItwilQ1HuBJ0aZyc5bI3Z_-f2_VT3m-6jPf8CEpiEzg",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlJIVm5VM1EzVkVOdFNYUlFiVGR2VTBGeWFIVjFNbko1Ylc1RlF6RmhOSEZTTVdSMWNGaFViWEZFVHpKeExYSkxNMjl0TUZsRWRIQmFRbk5vY1c5NVZVc3RjRXROWVU1ZmMwVTRXRlJWZG5ORE1XeHdhSGRSVlMxM2R4SVhSbmQ1YW1GeGNWaE5jRWRqYUhaalVEQjFZazg0VVZrYUlrRkVjM0k1WmxJd04yRjNhemgxUVZJMU9UVTVZVWxEYVhaV1FsOUdXV1pZTWxFIiwiZmN2IjoiMyIsImVpIjoiRnd5amFxcVhNcEdjaHZjUDB1Yk84UVkiLCJxYyI6IkNoeGhlV0ZzWVNCb2FXZG9JSE5qYUc5dmJDQmpZV3hwWm05eWJtbGhFQUI5c2hnd1B3IiwicXVlc3Rpb24iOiJXaGF0IGlzIEF5YWxhIEhpZ2ggU2Nob29sIGtub3duIGZvcj8iLCJsayI6IkdpTjNhR0YwSUdseklHRjVZV3hoSUdocFoyZ2djMk5vYjI5c0lHdHViM2R1SUdadmNnIiwiYnMiOiJjMzNPUFF1Q1VCU0FZVnJQMUJSeHB3Tm1YNXN1alJJdExnM2g0SHl3OUY2MGMwQ0ZpXzgtN1VPTUctMFBMeThrY0VnMXRXZ2FiUFVOYS1MU2NJR1M0N0dqaWpBMmhjWWsweUlWR3NZVFZTYVhtZzFGNFZJdDZHbjBZSnFYR1FKd2h0VW42bFpLRnN2WVI2TFFWNTU5TzdjME9raGhOMzMwZ245WGU3VzEzM2dhN1hFMllyakFPaGFMZC1JT1MzTnRzQkJzeFgyT3dvM3k5UV9wWE05bkR3IiwiaWQiOiJmY19Gd3lqYXFxWE1wR2NodmNQMHViTzhRWV81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlJIVm5VM1EzVkVOdFNYUlFiVGR2VTBGeWFIVjFNbko1Ylc1RlF6RmhOSEZTTVdSMWNGaFViWEZFVHpKeExYSkxNMjl0TUZsRWRIQmFRbk5vY1c5NVZVc3RjRXROWVU1ZmMwVTRXRlJWZG5ORE1XeHdhSGRSVlMxM2R4SVhSbmQ1YW1GeGNWaE5jRWRqYUhaalVEQjFZazg0VVZrYUlrRkVjM0k1WmxJd04yRjNhemgxUVZJMU9UVTVZVWxEYVhaV1FsOUdXV1pZTWxFIiwiZmN2IjoiMyIsImVpIjoiRnd5amFxcVhNcEdjaHZjUDB1Yk84UVkiLCJxYyI6IkNoeGhlV0ZzWVNCb2FXZG9JSE5qYUc5dmJDQmpZV3hwWm05eWJtbGhFQUI5c2hnd1B3IiwicXVlc3Rpb24iOiJXaGF0IGlzIEF5YWxhIEhpZ2ggU2Nob29sIGtub3duIGZvcj8iLCJsayI6IkdpTjNhR0YwSUdseklHRjVZV3hoSUdocFoyZ2djMk5vYjI5c0lHdHViM2R1SUdadmNnIiwiYnMiOiJjMzNPUFF1Q1VCU0FZVnJQMUJSeHB3Tm1YNXN1alJJdExnM2g0SHl3OUY2MGMwQ0ZpXzgtN1VPTUctMFBMeThrY0VnMXRXZ2FiUFVOYS1MU2NJR1M0N0dqaWpBMmhjWWsweUlWR3NZVFZTYVhtZzFGNFZJdDZHbjBZSnFYR1FKd2h0VW42bFpLRnN2WVI2TFFWNTU5TzdjME9raGhOMzMwZ245WGU3VzEzM2dhN1hFMllyakFPaGFMZC1JT1MzTnRzQkJzeFgyT3dvM3k5UV9wWE05bkR3IiwiaWQiOiJmY19Gd3lqYXFxWE1wR2NodmNQMHViTzhRWV81In0%3D"
+  },
+  {
+   "question": "What is the #1 High School in California?",
+   "type": "ai_overview",
+   "page_token": "F9aAW3icHdBNcoIwGIDh6WVcVlJH2zrjdAblz5a0fELQbDohASOEEJUKsutdeqqepk7377N5v3_UQVe_dxfZtuY8H4-7rrvfN81e5fe8qcfsfNV8zJlSGePVfPY4Qy8FXzhfgb08BnaUGENWYG3KqIv0mpAtnuAybFOPzERlilwJBIkbZxpQniIf9Pr11vgbJTq2wuc4FrUo8RqI2Ykl6ln11GJP2FkNF0h7RhUEHGFIalVgi56FEkea0iOuyEAdbOJYsRDthtyXMl2iWUICizl9z5TwGHm-4lSxGPHuPYFVtnUN1-qD1qQKNZyYJyfMm_YwiFYkWFMtaaily2IbHCk8MVHH3dbtUwd18IAbUeMo9MkhHiSk0ByiBAZeqpr4N-tNydZqZa7odOOsy101JcyDN66FG2rT0G5U8MtiMvr_ufgs6nZuTs3-D5Xchxg",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=F9aAW3icHdBNcoIwGIDh6WVcVlJH2zrjdAblz5a0fELQbDohASOEEJUKsutdeqqepk7377N5v3_UQVe_dxfZtuY8H4-7rrvfN81e5fe8qcfsfNV8zJlSGePVfPY4Qy8FXzhfgb08BnaUGENWYG3KqIv0mpAtnuAybFOPzERlilwJBIkbZxpQniIf9Pr11vgbJTq2wuc4FrUo8RqI2Ykl6ln11GJP2FkNF0h7RhUEHGFIalVgi56FEkea0iOuyEAdbOJYsRDthtyXMl2iWUICizl9z5TwGHm-4lSxGPHuPYFVtnUN1-qD1qQKNZyYJyfMm_YwiFYkWFMtaaily2IbHCk8MVHH3dbtUwd18IAbUeMo9MkhHiSk0ByiBAZeqpr4N-tNydZqZa7odOOsy101JcyDN66FG2rT0G5U8MtiMvr_ufgs6nZuTs3-D5Xchxg",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlJIVm5VM1EzVkVOdFNYUlFiVGR2VTBGeWFIVjFNbko1Ylc1RlF6RmhOSEZTTVdSMWNGaFViWEZFVHpKeExYSkxNMjl0TUZsRWRIQmFRbk5vY1c5NVZVc3RjRXROWVU1ZmMwVTRXRlJWZG5ORE1XeHdhSGRSVlMxM2R4SVhSbmQ1YW1GeGNWaE5jRWRqYUhaalVEQjFZazg0VVZrYUlrRkVjM0k1WmxJd04yRjNhemgxUVZJMU9UVTVZVWxEYVhaV1FsOUdXV1pZTWxFIiwiZmN2IjoiMyIsImVpIjoiRnd5amFxcVhNcEdjaHZjUDB1Yk84UVkiLCJxYyI6IkNoeGhlV0ZzWVNCb2FXZG9JSE5qYUc5dmJDQmpZV3hwWm05eWJtbGhFQUI5c2hnd1B3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSAjMSBIaWdoIFNjaG9vbCBpbiBDYWxpZm9ybmlhPyIsImxrIjoiR2loM2FHRjBJR2x6SUhSb1pTQWpNU0JvYVdkb0lITmphRzl2YkNCcGJpQmpZV3hwWm05eWJtbGgiLCJicyI6ImMzM09QUXVDVUJTQVlWclAxQlJ4cHdObVg1c3VqUkl0TGczaDRIeXc5RjYwYzBDRmlfOC03VU9NRy0wUEx5OGtjRWcxdFdnYWJQVU5hLUxTY0lHUzQ3R2ppakEyaGNZazB5SVZHc1lUVlNhWG1nMUY0Vkl0NkduMFlKcVhHUUp3aHRVbjZsWktGc3ZZUjZMUVY1NTlPN2MwT2toaE4zMzBnbjlYZTdXMTMzZ2E3WEUyWXJqQU9oYUxkLUlPUzNOdHNCQnN4WDJPd28zeTlRX3BYTTluRHciLCJpZCI6ImZjX0Z3eWphcXFYTXBHY2h2Y1AwdWJPOFFZXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlJIVm5VM1EzVkVOdFNYUlFiVGR2VTBGeWFIVjFNbko1Ylc1RlF6RmhOSEZTTVdSMWNGaFViWEZFVHpKeExYSkxNMjl0TUZsRWRIQmFRbk5vY1c5NVZVc3RjRXROWVU1ZmMwVTRXRlJWZG5ORE1XeHdhSGRSVlMxM2R4SVhSbmQ1YW1GeGNWaE5jRWRqYUhaalVEQjFZazg0VVZrYUlrRkVjM0k1WmxJd04yRjNhemgxUVZJMU9UVTVZVWxEYVhaV1FsOUdXV1pZTWxFIiwiZmN2IjoiMyIsImVpIjoiRnd5amFxcVhNcEdjaHZjUDB1Yk84UVkiLCJxYyI6IkNoeGhlV0ZzWVNCb2FXZG9JSE5qYUc5dmJDQmpZV3hwWm05eWJtbGhFQUI5c2hnd1B3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSAjMSBIaWdoIFNjaG9vbCBpbiBDYWxpZm9ybmlhPyIsImxrIjoiR2loM2FHRjBJR2x6SUhSb1pTQWpNU0JvYVdkb0lITmphRzl2YkNCcGJpQmpZV3hwWm05eWJtbGgiLCJicyI6ImMzM09QUXVDVUJTQVlWclAxQlJ4cHdObVg1c3VqUkl0TGczaDRIeXc5RjYwYzBDRmlfOC03VU9NRy0wUEx5OGtjRWcxdFdnYWJQVU5hLUxTY0lHUzQ3R2ppakEyaGNZazB5SVZHc1lUVlNhWG1nMUY0Vkl0NkduMFlKcVhHUUp3aHRVbjZsWktGc3ZZUjZMUVY1NTlPN2MwT2toaE4zMzBnbjlYZTdXMTMzZ2E3WEUyWXJqQU9oYUxkLUlPUzNOdHNCQnN4WDJPd28zeTlRX3BYTTluRHciLCJpZCI6ImZjX0Z3eWphcXFYTXBHY2h2Y1AwdWJPOFFZXzUifQ%3D%3D"
+  },
+  {
+   "question": "How many kids go to Ayala High School?",
+   "type": "ai_overview",
+   "page_token": "PMAaznicHdDNboIwAADg7GU8CgVx08QsQwFxg9jaH-hlwYKiFKizE-G2d9lT7Wm27Podv69veWqqn4dbqbW6zg2j67rxsW2PshiLtjaya98IQ2RS7jNRzaePU_B8EAvvM3SXl9CFRCm6Qib26DUfXkxBN3fk-X20FiZlDi5W-cB8t8YBsVh1X2PpZhGuQJFwENkbG1mhTRJEaKXOwo9LypRiAd-m0ncKbyajxt1CC914Dy47FnbCmziRLTVMFOcSbYX1ZO1YPECmeu7T9s8OsR2HyARmIdNJwdCZ1mhIK4AygJYJmJk75tB04GHagzeBecdrLYUJHV6VkCSqIXLWeGUe5La8pIl_Zx7okBW3eR3DaE1PeCgRQ-0JEjSIs6ypT5d7QjpWa40t9QotRXamr1NMFfViHQXgRODoIG4Le_T_uXg_1HquPtrjL3jEgvk",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=PMAaznicHdDNboIwAADg7GU8CgVx08QsQwFxg9jaH-hlwYKiFKizE-G2d9lT7Wm27Podv69veWqqn4dbqbW6zg2j67rxsW2PshiLtjaya98IQ2RS7jNRzaePU_B8EAvvM3SXl9CFRCm6Qib26DUfXkxBN3fk-X20FiZlDi5W-cB8t8YBsVh1X2PpZhGuQJFwENkbG1mhTRJEaKXOwo9LypRiAd-m0ncKbyajxt1CC914Dy47FnbCmziRLTVMFOcSbYX1ZO1YPECmeu7T9s8OsR2HyARmIdNJwdCZ1mhIK4AygJYJmJk75tB04GHagzeBecdrLYUJHV6VkCSqIXLWeGUe5La8pIl_Zx7okBW3eR3DaE1PeCgRQ-0JEjSIs6ypT5d7QjpWa40t9QotRXamr1NMFfViHQXgRODoIG4Le_T_uXg_1HquPtrjL3jEgvk",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlJIVm5VM1EzVkVOdFNYUlFiVGR2VTBGeWFIVjFNbko1Ylc1RlF6RmhOSEZTTVdSMWNGaFViWEZFVHpKeExYSkxNMjl0TUZsRWRIQmFRbk5vY1c5NVZVc3RjRXROWVU1ZmMwVTRXRlJWZG5ORE1XeHdhSGRSVlMxM2R4SVhSbmQ1YW1GeGNWaE5jRWRqYUhaalVEQjFZazg0VVZrYUlrRkVjM0k1WmxJd04yRjNhemgxUVZJMU9UVTVZVWxEYVhaV1FsOUdXV1pZTWxFIiwiZmN2IjoiMyIsImVpIjoiRnd5amFxcVhNcEdjaHZjUDB1Yk84UVkiLCJxYyI6IkNoeGhlV0ZzWVNCb2FXZG9JSE5qYUc5dmJDQmpZV3hwWm05eWJtbGhFQUI5c2hnd1B3IiwicXVlc3Rpb24iOiJIb3cgbWFueSBraWRzIGdvIHRvIEF5YWxhIEhpZ2ggU2Nob29sPyIsImxrIjoiR2lWb2IzY2diV0Z1ZVNCcmFXUnpJR2R2SUhSdklHRjVZV3hoSUdocFoyZ2djMk5vYjI5cyIsImJzIjoiYzMzT1BRdUNVQlNBWVZyUDFCUnhwd05tWDVzdWpSSXRMZzNoNEh5dzlGNjBjMENGaV84LTdVT01HLTBQTHk4a2NFZzF0V2dhYlBVTmEtTFNjSUdTNDdHamlqQTJoY1lrMHlJVkdzWVRWU2FYbWcxRjRWSXQ2R24wWUpxWEdRSndodFVuNmxaS0ZzdllSNkxRVjU1OU83YzBPa2hoTjMzMGduOVhlN1cxMzNnYTdYRTJZcmpBT2hhTGQtSU9TM050c0JCc3hYMk93bzN5OVFfcFhNOW5EdyIsImlkIjoiZmNfRnd5amFxcVhNcEdjaHZjUDB1Yk84UVlfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlJIVm5VM1EzVkVOdFNYUlFiVGR2VTBGeWFIVjFNbko1Ylc1RlF6RmhOSEZTTVdSMWNGaFViWEZFVHpKeExYSkxNMjl0TUZsRWRIQmFRbk5vY1c5NVZVc3RjRXROWVU1ZmMwVTRXRlJWZG5ORE1XeHdhSGRSVlMxM2R4SVhSbmQ1YW1GeGNWaE5jRWRqYUhaalVEQjFZazg0VVZrYUlrRkVjM0k1WmxJd04yRjNhemgxUVZJMU9UVTVZVWxEYVhaV1FsOUdXV1pZTWxFIiwiZmN2IjoiMyIsImVpIjoiRnd5amFxcVhNcEdjaHZjUDB1Yk84UVkiLCJxYyI6IkNoeGhlV0ZzWVNCb2FXZG9JSE5qYUc5dmJDQmpZV3hwWm05eWJtbGhFQUI5c2hnd1B3IiwicXVlc3Rpb24iOiJIb3cgbWFueSBraWRzIGdvIHRvIEF5YWxhIEhpZ2ggU2Nob29sPyIsImxrIjoiR2lWb2IzY2diV0Z1ZVNCcmFXUnpJR2R2SUhSdklHRjVZV3hoSUdocFoyZ2djMk5vYjI5cyIsImJzIjoiYzMzT1BRdUNVQlNBWVZyUDFCUnhwd05tWDVzdWpSSXRMZzNoNEh5dzlGNjBjMENGaV84LTdVT01HLTBQTHk4a2NFZzF0V2dhYlBVTmEtTFNjSUdTNDdHamlqQTJoY1lrMHlJVkdzWVRWU2FYbWcxRjRWSXQ2R24wWUpxWEdRSndodFVuNmxaS0ZzdllSNkxRVjU1OU83YzBPa2hoTjMzMGduOVhlN1cxMzNnYTdYRTJZcmpBT2hhTGQtSU9TM050c0JCc3hYMk93bzN5OVFfcFhNOW5EdyIsImlkIjoiZmNfRnd5amFxcVhNcEdjaHZjUDB1Yk84UVlfNSJ9"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Ayala High School",
+   "link": "https://ayala.chino.k12.ca.us/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVgHrOzAVA-OTdG3l5OgC2o1bWlDnJEBPUCxalpip9kbctuv_DkTAVLanLK15w4vrmrk6NueP_LV0DadP5NtZLAVKTiWlDHSoAiyyiu-aJrJH6AX7eaji&ved=2ahUKEwjq_pm65uSWAxURjuEIHVKzM24QFnoECEcQAQ&uoh=1",
+   "displayed_link": "https://ayala.chino.k12.ca.us",
+   "favicon": "https://serpapi.com/searches/6aa30be941ffc81cff0da991/images/Lp-gUecWhjVoktvR6Akaoo60B9l5NHjZyry5XuRvbrA.png",
+   "snippet": "Ayala High School is now ranked in the top 5% of all public high schools in the nation according to the 2025-26 U.S News and World Report high school rankings!",
+   "snippet_highlighted_words": [
+    "Ayala High School"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "Bulldog Highlights",
+      "link": "https://ayala.chino.k12.ca.us/64354",
+      "snippet": "Ayala High School is now ranked in the top 5% of all public high ..."
+     },
+     {
+      "title": "Registrar/Records Office",
+      "link": "https://ayala.chino.k12.ca.us/238060_2",
+      "snippet": "California Scholarship Federation (CSF) \u00b7 Career Center \u00b7 Career ..."
+     },
+     {
+      "title": "School Profile",
+      "link": "https://ayala.chino.k12.ca.us/school-profile",
+      "snippet": "California Scholarship Federation (CSF) \u00b7 Career Center \u00b7 Career ..."
+     },
+     {
+      "title": "Attendance",
+      "link": "https://ayala.chino.k12.ca.us/attendance",
+      "snippet": "At Ayala High School we are committed to providing our ..."
+     },
+     {
+      "title": "Distinguished School",
+      "link": "https://ayala.chino.k12.ca.us/distinguished-school",
+      "snippet": "Overview of Ayala High School's Statewide Academic Awards ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Ayala High School is now ranked in the top 5% of all public high schools in the nation according to the 2025-26 U.S News and World Report high school rankings!",
+     "source_info_link": "https://ayala.chino.k12.ca.us/",
+     "icon": "https://serpapi.com/searches/6aa30be941ffc81cff0da991/images/Lp-gUecWhjVoktvR6Akaoi6HZQJCrEl3SyfJaZRfo585E-UjA-0_rPu2VaB2pNfp.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESVgHrOzAVA-OTdG3l5OgC2o1bWlDnJEBPUCxalpip9kbctuv_DkTAVLanLK15w4vrmrk6NueP_LV0DadP5NtZLAVKTiWlDHSoAiyyiu-aJrJH6AX7eaji&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESVgHrOzAVA-OTdG3l5OgC2o1bWlDnJEBPUCxalpip9kbctuv_DkTAVLanLK15w4vrmrk6NueP_LV0DadP5NtZLAVKTiWlDHSoAiyyiu-aJrJH6AX7eaji",
+   "source": "Ayala High"
+  },
+  {
+   "position": 2,
+   "title": "Ruben S. Ayala High School",
+   "link": "https://en.wikipedia.org/wiki/Ruben_S._Ayala_High_School",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHrOzAV7sP5LAPsCx-HwJRoFsKyMSIdqvlYx6AvnU-nhUStorL5hZQGChZxSt72Y4UyOkMxzq2w5KIDdPCvVM5GIh9AQdzZLGQHp0azThYS56Jfhfct-hceeA7L2ahnoqmLxOa-JnriEGKxb9yNvE0&ved=2ahUKEwjq_pm65uSWAxURjuEIHVKzM24QFnoECEgQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Ruben_S._Ayala_High...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+   "snippet": "Ayala Senior High School, often abbreviated as Ayala High School or AHS, is located in Chino Hills, California. It is one of the four comprehensive high schools ...",
+   "snippet_highlighted_words": [
+    "Ayala High School",
+    "California"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Ayala Senior High School, often abbreviated as Ayala High School or AHS, is located in Chino Hills, California. It is one of the four comprehensive high schools ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Ruben_S._Ayala_High_School",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEScAHrOzAV7sP5LAPsCx-HwJRoFsKyMSIdqvlYx6AvnU-nhUStorL5hZQGChZxSt72Y4UyOkMxzq2w5KIDdPCvVM5GIh9AQdzZLGQHp0azThYS56Jfhfct-hceeA7L2ahnoqmLxOa-JnriEGKxb9yNvE0&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEScAHrOzAV7sP5LAPsCx-HwJRoFsKyMSIdqvlYx6AvnU-nhUStorL5hZQGChZxSt72Y4UyOkMxzq2w5KIDdPCvVM5GIh9AQdzZLGQHp0azThYS56Jfhfct-hceeA7L2ahnoqmLxOa-JnriEGKxb9yNvE0",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Ruben_S._Ayala_High_School#:~:text=Ayala%20Senior%20High%20School%2C%20often,Chino%20Valley%20Unified%20School%20District."
+  },
+  {
+   "position": 3,
+   "title": "Ruben S. Ayala High School in Chino Hills, CA - US News",
+   "link": "https://www.usnews.com/education/best-high-schools/california/districts/chino-valley-unified-school-district/ruben-s-ayala-high-school-1957",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESxAEB6zswFQ3iC-bKQ12fs7cCh_IsWcccM_9-gL15ZGX_tTqsvXD2DdQhKmgZiqIR6qz0gsOe2_2FRe25n968AHyt08qNJfjKZXB6ayIT9wq74NXRc7Cs06knLlNEBx7lYVQyl1IDe6Sj-kQgKJMC4J3UaOBMQmPtOzuu19H2EP_T2yODaMnVoaPpFigKHAwTjYmYSZNWmAqoViw_shyo-OCKmBD1L0krjYMai7of1G0hG-23ZSvqd_AjzmixZYmYw43L8GKW&ved=2ahUKEwjq_pm65uSWAxURjuEIHVKzM24QFnoECGcQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a california \u203a districts \u203a ruben-...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png",
+   "snippet": "Ayala High School is 60%, and the 12th grade enrollment is 669 students. Ruben S. Ayala High School is 1 of 7 high schools in the Chino Valley Unified School ...",
+   "snippet_highlighted_words": [
+    "Ayala High School",
+    "Ayala High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Ayala High School is 60%, and the 12th grade enrollment is 669 students. Ruben S. Ayala High School is 1 of 7 high schools in the Chino Valley Unified School ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/california/districts/chino-valley-unified-school-district/ruben-s-ayala-high-school-1957",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESxAEB6zswFQ3iC-bKQ12fs7cCh_IsWcccM_9-gL15ZGX_tTqsvXD2DdQhKmgZiqIR6qz0gsOe2_2FRe25n968AHyt08qNJfjKZXB6ayIT9wq74NXRc7Cs06knLlNEBx7lYVQyl1IDe6Sj-kQgKJMC4J3UaOBMQmPtOzuu19H2EP_T2yODaMnVoaPpFigKHAwTjYmYSZNWmAqoViw_shyo-OCKmBD1L0krjYMai7of1G0hG-23ZSvqd_AjzmixZYmYw43L8GKW&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESxAEB6zswFQ3iC-bKQ12fs7cCh_IsWcccM_9-gL15ZGX_tTqsvXD2DdQhKmgZiqIR6qz0gsOe2_2FRe25n968AHyt08qNJfjKZXB6ayIT9wq74NXRc7Cs06knLlNEBx7lYVQyl1IDe6Sj-kQgKJMC4J3UaOBMQmPtOzuu19H2EP_T2yODaMnVoaPpFigKHAwTjYmYSZNWmAqoViw_shyo-OCKmBD1L0krjYMai7of1G0hG-23ZSvqd_AjzmixZYmYw43L8GKW",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/california/districts/chino-valley-unified-school-district/ruben-s-ayala-high-school-1957#:~:text=Ayala%20High%20School%20is%2060%25%2C,Chino%20Valley%20Unified%20School%20District."
+  },
+  {
+   "position": 4,
+   "title": "Ruben S. Ayala High - School Directory Details ...",
+   "link": "https://www.cde.ca.gov/schooldirectory/details?cdscode=36676783630522",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAV1ITnpwB0-QUbGk3J6zpvjoUZjzAQHhsAkwBk_z1p5CTqtlufWeHorvzkWGDsnRQq-OdLe6pxxvS5qQ5oKbtlFs55Q3zp9S9rBgD9dvPt1KLKjmZLLQI-ebY642UYvq0ZvdC4XYGUKysVOChiZ7knLMqBXB86Llgx&ved=2ahUKEwjq_pm65uSWAxURjuEIHVKzM24QFnoECGQQAQ&uoh=1",
+   "displayed_link": "https://www.cde.ca.gov \u203a schooldirectory \u203a details",
+   "favicon": "https://serpapi.com/searches/6aa30be941ffc81cff0da991/images/Lp-gUecWhjVoktvR6AkaosybOaXyTYJcin_kce8o8yA.png",
+   "snippet": "School Address 14255 Peyton Ave. Chino Hills, CA 91709-1607 \u2026 5130 Riverside Dr. Chino, CA 91710-4130 Phone Number (909) 627-3584 Fax Number (909) 548-6005 ...",
+   "snippet_highlighted_words": [
+    "CA",
+    "CA"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "School Address 14255 Peyton Ave. Chino Hills, CA 91709-1607 \u2026 5130 Riverside Dr. Chino, CA 91710-4130 Phone Number (909) 627-3584 Fax Number (909) 548-6005 ...",
+     "source_info_link": "https://www.cde.ca.gov/schooldirectory/details?cdscode=36676783630522",
+     "icon": "https://serpapi.com/searches/6aa30be941ffc81cff0da991/images/Lp-gUecWhjVoktvR6AkaollJdEP_KYriOz14fKMYr3lFMmRSHIuc5D1nmlGy7umH.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESfQHrOzAV1ITnpwB0-QUbGk3J6zpvjoUZjzAQHhsAkwBk_z1p5CTqtlufWeHorvzkWGDsnRQq-OdLe6pxxvS5qQ5oKbtlFs55Q3zp9S9rBgD9dvPt1KLKjmZLLQI-ebY642UYvq0ZvdC4XYGUKysVOChiZ7knLMqBXB86Llgx&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESfQHrOzAV1ITnpwB0-QUbGk3J6zpvjoUZjzAQHhsAkwBk_z1p5CTqtlufWeHorvzkWGDsnRQq-OdLe6pxxvS5qQ5oKbtlFs55Q3zp9S9rBgD9dvPt1KLKjmZLLQI-ebY642UYvq0ZvdC4XYGUKysVOChiZ7knLMqBXB86Llgx",
+   "source": "California Department of Education (CDE) (.gov)"
+  },
+  {
+   "position": 5,
+   "title": "Ayala High School in Chino Hills, California ...",
+   "link": "https://www.donorschoose.org/schools/california/chino-valley-unified-school-district/ayala-high-school/25088",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpAEB6zswFSGBBn6_PE_sDRRB28jfLVn-44poUDagmQu5DCqxGyMt1mv6OidPYEr8pUXCkYee0qiIvn0h-S2NnJptppY1ECAZ2VGFn0wUYu-DSXnXA09ys1OQXhUpMW9LBMOm9f3ve_tvrO0Xd6Tz5-m4-9TP2WFbGXF3lR5NpHQNPMtfuWR19erZ__hHh8p4muTG-KljE3OUHOgkzBQwXUA2pkg5cA&ved=2ahUKEwjq_pm65uSWAxURjuEIHVKzM24QFnoECGgQAQ&uoh=1",
+   "displayed_link": "https://www.donorschoose.org \u203a schools \u203a california \u203a a...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEU4A8E4AcE4AME3CMA1DL8zEb0vGLovGboyE7wwFrslA7hhVcaAd9B9dM9lWcgbALe_u-b____e3PJ3bc25teTEwOixrOE2IbzJxeqKgtORitaoot0AALLp5_drYMqak9minNtEM7_oabQTAAAA3klEQVR4AXWSBRIDIQwAITh1d_v_J0uQTI7SHWUWiAqOTIghAEonFMCvUsa6jPUKOmecJZyfysAcolhs2-PIQkhHHzMmVM3j-dl8gSz9KmYZIEuF8VbrTWW7W-WPNT20q_2GOGTrAaVFUBJHtI5-Rck4hfqvZvJ8OWd5XSVpQEgub6v7g_79J28juX6W0POYvx0ntMoJyWEpLyoFfC_3K-pf375Ha58sT5ONuzfymn944xE8xFUmhjbQbKiDHKeBVlINHeEdU6HbP9Ae1xLXM-jB5gptElrAeOslwMR8AZhOFkQFCdvDAAAAAElFTkSuQmCC.png",
+   "snippet": "Ayala High School is a public school in Chino Hills, California that is part of Chino Valley Unified School District. It serves 2564 studentsin 9 - 12 with ...",
+   "snippet_highlighted_words": [
+    "Ayala High School",
+    "California"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Ayala High School is a public school in Chino Hills, California that is part of Chino Valley Unified School District. It serves 2564 studentsin 9 - 12 with ...",
+     "source_info_link": "https://www.donorschoose.org/schools/california/chino-valley-unified-school-district/ayala-high-school/25088",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEU4A8E4AcE4AME3CMA1DL8zEb0vGLovGboyE7wwFrslA7hhVcaAd9B9dM9lWcgbALe_u-b____e3PJ3bc25teTEwOixrOE2IbzJxeqKgtORitaoot0AALLp5_drYMqak9minNtEM7_oabQTAAAA3klEQVR4AXWSBRIDIQwAITh1d_v_J0uQTI7SHWUWiAqOTIghAEonFMCvUsa6jPUKOmecJZyfysAcolhs2-PIQkhHHzMmVM3j-dl8gSz9KmYZIEuF8VbrTWW7W-WPNT20q_2GOGTrAaVFUBJHtI5-Rck4hfqvZvJ8OWd5XSVpQEgub6v7g_79J28juX6W0POYvx0ntMoJyWEpLyoFfC_3K-pf375Ha58sT5ONuzfymn944xE8xFUmhjbQbKiDHKeBVlINHeEdU6HbP9Ae1xLXM-jB5gptElrAeOslwMR8AZhOFkQFCdvDAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESpAEB6zswFSGBBn6_PE_sDRRB28jfLVn-44poUDagmQu5DCqxGyMt1mv6OidPYEr8pUXCkYee0qiIvn0h-S2NnJptppY1ECAZ2VGFn0wUYu-DSXnXA09ys1OQXhUpMW9LBMOm9f3ve_tvrO0Xd6Tz5-m4-9TP2WFbGXF3lR5NpHQNPMtfuWR19erZ__hHh8p4muTG-KljE3OUHOgkzBQwXUA2pkg5cA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESpAEB6zswFSGBBn6_PE_sDRRB28jfLVn-44poUDagmQu5DCqxGyMt1mv6OidPYEr8pUXCkYee0qiIvn0h-S2NnJptppY1ECAZ2VGFn0wUYu-DSXnXA09ys1OQXhUpMW9LBMOm9f3ve_tvrO0Xd6Tz5-m4-9TP2WFbGXF3lR5NpHQNPMtfuWR19erZ__hHh8p4muTG-KljE3OUHOgkzBQwXUA2pkg5cA",
+   "source": "DonorsChoose"
+  },
+  {
+   "position": 6,
+   "title": "2026 Ruben S. Ayala High School Rankings",
+   "link": "https://www.niche.com/k12/ruben-s-ayala-high-school-chino-hills-ca/rankings/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShAEB6zswFUXM2Y9tEoXpz5fvdcdxJXt0MGMG1weA2SFFkx5NZnt935MrzLF2bnEvVDWyAx3K48KFbMI0iaeOYp8PFcU4ihnX-CKiAD_fYb-iZGSIoymq38rnINtwTourbVYtDFNMoH5fG0cNXGfe-EzZzaPDrMhDkAV0SVxidOH20ky37WE&ved=2ahUKEwjq_pm65uSWAxURjuEIHVKzM24QFnoECGYQAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a rankings",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png",
+   "snippet": "Chino Valley Unified School District. Ruben S. Ayala High School. grade A. Overall Grade; Public; 9-12; Chino Hills, CA. Rating 3.73 out of 5. 762reviews.",
+   "snippet_highlighted_words": [
+    "Ayala High School",
+    "CA"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Chino Valley Unified School District. Ruben S. Ayala High School. grade A. Overall Grade; Public; 9-12; Chino Hills, CA. Rating 3.73 out of 5. 762reviews.",
+     "source_info_link": "https://www.niche.com/k12/ruben-s-ayala-high-school-chino-hills-ca/rankings/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEShAEB6zswFUXM2Y9tEoXpz5fvdcdxJXt0MGMG1weA2SFFkx5NZnt935MrzLF2bnEvVDWyAx3K48KFbMI0iaeOYp8PFcU4ihnX-CKiAD_fYb-iZGSIoymq38rnINtwTourbVYtDFNMoH5fG0cNXGfe-EzZzaPDrMhDkAV0SVxidOH20ky37WE&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEShAEB6zswFUXM2Y9tEoXpz5fvdcdxJXt0MGMG1weA2SFFkx5NZnt935MrzLF2bnEvVDWyAx3K48KFbMI0iaeOYp8PFcU4ihnX-CKiAD_fYb-iZGSIoymq38rnINtwTourbVYtDFNMoH5fG0cNXGfe-EzZzaPDrMhDkAV0SVxidOH20ky37WE",
+   "source": "Niche",
+   "read_more_link": "https://www.niche.com/k12/ruben-s-ayala-high-school-chino-hills-ca/rankings/#:~:text=Chino%20Valley%20Unified%20School%20District,762"
+  },
+  {
+   "position": 7,
+   "title": "Ayala High School - Chino Hills, CA",
+   "link": "https://www.nfhsnetwork.com/schools/ruben-ayala-high-school-chino-hills-ca",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESggEB6zswFUzqiCB-EX2uVczkbZv76raOKeb2qrRzNaASoCGu8peeTZMlMxoniY5tMQxlvM-jkv0JkellX2tPdniyKKGLYMFu0C8Lb6nuxa-cJHu0pqm1OC4L4FD0YyDBS7fyQRWUb2xxEPUJTCbuFtBues80ZXUyZx4BQLpSBBaK0iVE&ved=2ahUKEwjq_pm65uSWAxURjuEIHVKzM24QFnoECGUQAQ&uoh=1",
+   "displayed_link": "https://www.nfhsnetwork.com \u203a Schools",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAARVBMVEVHcEwUFBQUFBQUFBQUFBQUFBQUFBQREREAAAAJCQn___-RkZGwsLBhYWEdHR3Z2dnLy8vDw8NAQEB6enrz8_Pk5OSjo6M76K9DAAAAB3RSTlMAT73z_8nI5vE1ZQAAAPRJREFUeAF9kwWCxCAQBGO7NM0QLPD_px5wkVMqghQuU2Ve1u0H6zJPndf2J6__XeVd29z-ZZ6W_-Uyrf_LddoGdKlU_9Wgvz1-SQVg06jUn8LJKUEaCCuW3B2lxT1OGcgYGWzajwxD647ojksWZu7MwSAfwTE65hL1JZti9k2KZ9TGkU-zsGQB9Nlsjv6W5AZDgW4Dyp8DyqdU0PjNNRUPMZJcMiUW60r0ydiCU9YhSkCGd6FkuORECHVKn7IIHLw5onhng9SWrj43KLWrTWlAI0Jhb2-T3fZF77FN1-BMDbdsuNnDYzI-YNN7cDSrHbjBdfgAvqIUspFQipUAAAAASUVORK5CYII.png",
+   "snippet": "Ayala High School, located in the city of Chino Hills, California, is an example of excellence when it comes to education and extracurricular activities. With a ...",
+   "snippet_highlighted_words": [
+    "Ayala High School",
+    "California"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Ayala High School, located in the city of Chino Hills, California, is an example of excellence when it comes to education and extracurricular activities. With a ...",
+     "source_info_link": "https://www.nfhsnetwork.com/schools/ruben-ayala-high-school-chino-hills-ca",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAARVBMVEVHcEwUFBQUFBQUFBQUFBQUFBQUFBQREREAAAAJCQn___-RkZGwsLBhYWEdHR3Z2dnLy8vDw8NAQEB6enrz8_Pk5OSjo6M76K9DAAAAB3RSTlMAT73z_8nI5vE1ZQAAAPRJREFUeAF9kwWCxCAQBGO7NM0QLPD_px5wkVMqghQuU2Ve1u0H6zJPndf2J6__XeVd29z-ZZ6W_-Uyrf_LddoGdKlU_9Wgvz1-SQVg06jUn8LJKUEaCCuW3B2lxT1OGcgYGWzajwxD647ojksWZu7MwSAfwTE65hL1JZti9k2KZ9TGkU-zsGQB9Nlsjv6W5AZDgW4Dyp8DyqdU0PjNNRUPMZJcMiUW60r0ydiCU9YhSkCGd6FkuORECHVKn7IIHLw5onhng9SWrj43KLWrTWlAI0Jhb2-T3fZF77FN1-BMDbdsuNnDYzI-YNN7cDSrHbjBdfgAvqIUspFQipUAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESggEB6zswFUzqiCB-EX2uVczkbZv76raOKeb2qrRzNaASoCGu8peeTZMlMxoniY5tMQxlvM-jkv0JkellX2tPdniyKKGLYMFu0C8Lb6nuxa-cJHu0pqm1OC4L4FD0YyDBS7fyQRWUb2xxEPUJTCbuFtBues80ZXUyZx4BQLpSBBaK0iVE&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESggEB6zswFUzqiCB-EX2uVczkbZv76raOKeb2qrRzNaASoCGu8peeTZMlMxoniY5tMQxlvM-jkv0JkellX2tPdniyKKGLYMFu0C8Lb6nuxa-cJHu0pqm1OC4L4FD0YyDBS7fyQRWUb2xxEPUJTCbuFtBues80ZXUyZx4BQLpSBBaK0iVE",
+   "source": "NFHS Network",
+   "read_more_link": "https://www.nfhsnetwork.com/schools/ruben-ayala-high-school-chino-hills-ca#:~:text=Ayala%20High%20School%2C%20located%20in,out%20as%20a%20top%2Dtier%20institution."
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Ayala high school california football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Ayala+high+school+california+football&sa=X&ved=2ahUKEwjq_pm65uSWAxURjuEIHVKzM24Q1QJ6BAhpEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ayala+high+school+california+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Ayala High school shooting",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Ayala+High+school+shooting&sa=X&ved=2ahUKEwjq_pm65uSWAxURjuEIHVKzM24Q1QJ6BAh_EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ayala+High+school+shooting"
+  },
+  {
+   "block_position": 1,
+   "query": "Ayala High School Calendar",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Ayala+High+School+Calendar&sa=X&ved=2ahUKEwjq_pm65uSWAxURjuEIHVKzM24Q1QJ6BAh7EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ayala+High+School+Calendar"
+  },
+  {
+   "block_position": 1,
+   "query": "Ayala high school california ranking",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Ayala+high+school+california+ranking&sa=X&ved=2ahUKEwjq_pm65uSWAxURjuEIHVKzM24Q1QJ6BAh4EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ayala+high+school+california+ranking"
+  },
+  {
+   "block_position": 1,
+   "query": "Ayala High School calendar 25 26",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Ayala+High+School+calendar+25+26&sa=X&ved=2ahUKEwjq_pm65uSWAxURjuEIHVKzM24Q1QJ6BAhyEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ayala+High+School+calendar+25+26"
+  },
+  {
+   "block_position": 1,
+   "query": "Ayala high school california alumni",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Ayala+high+school+california+alumni&sa=X&ved=2ahUKEwjq_pm65uSWAxURjuEIHVKzM24Q1QJ6BAhsEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ayala+high+school+california+alumni"
+  },
+  {
+   "block_position": 1,
+   "query": "Ayala high school california famous alumni",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Ayala+high+school+california+famous+alumni&sa=X&ved=2ahUKEwjq_pm65uSWAxURjuEIHVKzM24Q1QJ6BAhrEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ayala+high+school+california+famous+alumni"
+  },
+  {
+   "block_position": 1,
+   "query": "Ayala High School bell schedule",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Ayala+High+School+bell+schedule&sa=X&ved=2ahUKEwjq_pm65uSWAxURjuEIHVKzM24Q1QJ6BAhqEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ayala+High+School+bell+schedule"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Ayala+High+School%22+California&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=FwyjaqqXMpGchvcP0ubO8QY&start=10&sa=N&sstk=AS6-VmL0rXIKlXu-LziYLSrvNLVpj74_v0fV82B0UJ3RNODj1ymm4neMOY-a9OQI0Tt5fWdINPwjchAc_lDPjnSms57Ha81XNkOiWw&ved=2ahUKEwjq_pm65uSWAxURjuEIHVKzM24Q8NMDegQIWhAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Ayala+High+School%22+California&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=FwyjaqqXMpGchvcP0ubO8QY&start=10&sa=N&sstk=AS6-VmL0rXIKlXu-LziYLSrvNLVpj74_v0fV82B0UJ3RNODj1ymm4neMOY-a9OQI0Tt5fWdINPwjchAc_lDPjnSms57Ha81XNkOiWw&ved=2ahUKEwjq_pm65uSWAxURjuEIHVKzM24Q8tMDegQIWhAE",
+   "3": "https://www.google.com/search?q=%22Ayala+High+School%22+California&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=FwyjaqqXMpGchvcP0ubO8QY&start=20&sa=N&sstk=AS6-VmL0rXIKlXu-LziYLSrvNLVpj74_v0fV82B0UJ3RNODj1ymm4neMOY-a9OQI0Tt5fWdINPwjchAc_lDPjnSms57Ha81XNkOiWw&ved=2ahUKEwjq_pm65uSWAxURjuEIHVKzM24Q8tMDegQIWhAG",
+   "4": "https://www.google.com/search?q=%22Ayala+High+School%22+California&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=FwyjaqqXMpGchvcP0ubO8QY&start=30&sa=N&sstk=AS6-VmL0rXIKlXu-LziYLSrvNLVpj74_v0fV82B0UJ3RNODj1ymm4neMOY-a9OQI0Tt5fWdINPwjchAc_lDPjnSms57Ha81XNkOiWw&ved=2ahUKEwjq_pm65uSWAxURjuEIHVKzM24Q8tMDegQIWhAI",
+   "5": "https://www.google.com/search?q=%22Ayala+High+School%22+California&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=FwyjaqqXMpGchvcP0ubO8QY&start=40&sa=N&sstk=AS6-VmL0rXIKlXu-LziYLSrvNLVpj74_v0fV82B0UJ3RNODj1ymm4neMOY-a9OQI0Tt5fWdINPwjchAc_lDPjnSms57Ha81XNkOiWw&ved=2ahUKEwjq_pm65uSWAxURjuEIHVKzM24Q8tMDegQIWhAK",
+   "6": "https://www.google.com/search?q=%22Ayala+High+School%22+California&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=FwyjaqqXMpGchvcP0ubO8QY&start=50&sa=N&sstk=AS6-VmL0rXIKlXu-LziYLSrvNLVpj74_v0fV82B0UJ3RNODj1ymm4neMOY-a9OQI0Tt5fWdINPwjchAc_lDPjnSms57Ha81XNkOiWw&ved=2ahUKEwjq_pm65uSWAxURjuEIHVKzM24Q8tMDegQIWhAM",
+   "7": "https://www.google.com/search?q=%22Ayala+High+School%22+California&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=FwyjaqqXMpGchvcP0ubO8QY&start=60&sa=N&sstk=AS6-VmL0rXIKlXu-LziYLSrvNLVpj74_v0fV82B0UJ3RNODj1ymm4neMOY-a9OQI0Tt5fWdINPwjchAc_lDPjnSms57Ha81XNkOiWw&ved=2ahUKEwjq_pm65uSWAxURjuEIHVKzM24Q8tMDegQIWhAO",
+   "8": "https://www.google.com/search?q=%22Ayala+High+School%22+California&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=FwyjaqqXMpGchvcP0ubO8QY&start=70&sa=N&sstk=AS6-VmL0rXIKlXu-LziYLSrvNLVpj74_v0fV82B0UJ3RNODj1ymm4neMOY-a9OQI0Tt5fWdINPwjchAc_lDPjnSms57Ha81XNkOiWw&ved=2ahUKEwjq_pm65uSWAxURjuEIHVKzM24Q8tMDegQIWhAQ",
+   "9": "https://www.google.com/search?q=%22Ayala+High+School%22+California&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=FwyjaqqXMpGchvcP0ubO8QY&start=80&sa=N&sstk=AS6-VmL0rXIKlXu-LziYLSrvNLVpj74_v0fV82B0UJ3RNODj1ymm4neMOY-a9OQI0Tt5fWdINPwjchAc_lDPjnSms57Ha81XNkOiWw&ved=2ahUKEwjq_pm65uSWAxURjuEIHVKzM24Q8tMDegQIWhAS",
+   "10": "https://www.google.com/search?q=%22Ayala+High+School%22+California&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=FwyjaqqXMpGchvcP0ubO8QY&start=90&sa=N&sstk=AS6-VmL0rXIKlXu-LziYLSrvNLVpj74_v0fV82B0UJ3RNODj1ymm4neMOY-a9OQI0Tt5fWdINPwjchAc_lDPjnSms57Ha81XNkOiWw&ved=2ahUKEwjq_pm65uSWAxURjuEIHVKzM24Q8tMDegQIWhAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Ayala+High+School%22+California&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Ayala+High+School%22+California&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Ayala+High+School%22+California&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Ayala+High+School%22+California&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Ayala+High+School%22+California&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Ayala+High+School%22+California&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Ayala+High+School%22+California&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Ayala+High+School%22+California&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Ayala+High+School%22+California&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Ayala+High+School%22+California&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Ayala+High+School%22+California&start=90"
+  }
+ }
+}

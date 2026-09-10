@@ -1,0 +1,412 @@
+{
+ "search_information": {
+  "query_displayed": "\"Jackson High School\" Ohio",
+  "total_results": 176000,
+  "time_taken_displayed": 0.29,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "local_map": {
+  "image": "https://www.google.com/maps/vt/data=Csx9M7JsKXD4YG2aa1zfmo-JthTODK3CfDnre6SmcdK_CdOmoaxmoPmJoDtMbyWFYDeV7IQKEkAW7BlA6Nkq_Ka2NvrPrzTibZ3BU9hb9cqT4UbbrhMPZibPOYKaVFzUSDEExAK0LeQeRvsm8cUBpfPvdLHVgE_bemDMaLFCEoSdG8Ap4PwUMj_OJgUirQm0i-devQXuX-ANqg1HntdJJqPsYlP2UAvr5C4GvZkOac87QIyyw7CL0MQAfgjvdFFZ0kZV9TD5o-B3gVA2x5zXUPVX5is1gDPHONvOYKTjlBrOe39wFfK0mkT-FfGVmwG2lObjWfzI468NGGNc7Pbe3U6lOQnxjYpSd1ZINc0qz6PPG3jTF1RTMAZ7BFm6SgYU",
+  "gps_coordinates": {
+   "latitude": 40.069664523297774,
+   "longitude": -82.06787109375
+  }
+ },
+ "local_results": {
+  "places": [
+   {
+    "position": 1,
+    "links": {
+     "website": "http://jackson.stark.k12.oh.us/",
+     "directions": "https://www.google.com/maps/dir//Jackson+High+School,+7600+Fulton+Dr+NW,+Massillon,+OH+44646/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8836d646e332d123:0xba2e0cb77c7932b0?sa=X&ved=2ahUKEwitsYnx6OSWAxXipZUCHRPzBjsQ48ADegQIIhAA&hl=en&gl=us"
+    },
+    "place_id": "13415674322190152368",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=13415674322190152368&q=%22Jackson+High+School%22+Ohio",
+    "provider_id": "/m/0769p4g",
+    "gps_coordinates": {
+     "latitude": 40.859437,
+     "longitude": -81.491387
+    },
+    "title": "Jackson High School",
+    "reviews_original": "No reviews",
+    "type": "High school",
+    "phone": "(330) 837-3501",
+    "address": "Massillon, OH",
+    "hours": "Closed \u00b7 Opens 7:40 AM Fri"
+   },
+   {
+    "position": 2,
+    "links": {
+     "website": "http://jcs.k12.oh.us/wordpress/?page_id=20",
+     "directions": "https://www.google.com/maps/dir//Jackson+High+School,+500+Vaughn+St,+Jackson,+OH+45640/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88464b870e2ea633:0x61b13bbc133809e3?sa=X&ved=2ahUKEwitsYnx6OSWAxXipZUCHRPzBjsQ48ADegQIKhAA&hl=en&gl=us"
+    },
+    "place_id": "7039473371519125987",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=7039473371519125987&q=%22Jackson+High+School%22+Ohio",
+    "provider_id": "/m/027wvm1",
+    "gps_coordinates": {
+     "latitude": 39.038997,
+     "longitude": -82.64242
+    },
+    "title": "Jackson High School",
+    "reviews_original": "No reviews",
+    "type": "High school",
+    "phone": "(740) 286-7575",
+    "address": "Jackson, OH",
+    "hours": "Closed \u00b7 Opens 7 AM Fri"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "How many kids go to Jackson High School in Ohio?",
+   "type": "ai_overview",
+   "page_token": "5c5FhnicHdBRbpswAIBh7TJ9bPCIMjVSNNXFQNBCi7FN8Mtk7CQONoY1LIDfdoWdYafaaVbtBL--_9cfe3Xm76ffehyH23a1mqbp8dL3F3t6lH23ErfFyZUU1jZCmu3mywZ8Pcsdukv48i5hQYeBRTgoCUZlioXsnigx6oZDPpbVWJ-S_FqbMWZOzwTlbzLk-ybJ1oekADgYQY6mSaTI8yrnr8QE-Cg9IXghkdIyZaT00JBqfsWJSvMYt2WkSmIzipN4z8waUNZPh0hXBws3KuUJQXr5xupQWS0awwsSYH0i2cJdvGatgnWndO5gi-n4s0zZGw2hr6J4U3S2Las5rYPhXBE2nJwB5AXcmgXsxTFLPzqe2yf34XBIq7vy_Ed9pJ6hGRA0zRLEhViArtsMEtxfC4q9bG1HKabss4UC6LZm2jQO2pwcvKjwTOPnME845dPDWd534cP_17vv527cDu_95R-rg49t",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=5c5FhnicHdBRbpswAIBh7TJ9bPCIMjVSNNXFQNBCi7FN8Mtk7CQONoY1LIDfdoWdYafaaVbtBL--_9cfe3Xm76ffehyH23a1mqbp8dL3F3t6lH23ErfFyZUU1jZCmu3mywZ8Pcsdukv48i5hQYeBRTgoCUZlioXsnigx6oZDPpbVWJ-S_FqbMWZOzwTlbzLk-ybJ1oekADgYQY6mSaTI8yrnr8QE-Cg9IXghkdIyZaT00JBqfsWJSvMYt2WkSmIzipN4z8waUNZPh0hXBws3KuUJQXr5xupQWS0awwsSYH0i2cJdvGatgnWndO5gi-n4s0zZGw2hr6J4U3S2Las5rYPhXBE2nJwB5AXcmgXsxTFLPzqe2yf34XBIq7vy_Ed9pJ6hGRA0zRLEhViArtsMEtxfC4q9bG1HKabss4UC6LZm2jQO2pwcvKjwTOPnME845dPDWd534cP_17vv527cDu_95R-rg49t",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSll6VTRWWGx1VlRWTVowa3pObEJxZDBwR2NWUTRNemRDYmtJelQwRjNZMko2VUZGdlNIQTJWR3RUUzJsTFNsVTJOVmxpVEU5emFVcHNSVmc1ZGkxRVdXTnRPRmRpVW5wTlIzZzJSMFZFTTFWTGVHSjROVkY0U0RWRmR4SVhiM2MyYW1GMU0xUk1kVXhNTVhOUlVHc3RZV0l5UVUwYUlrRkVjM0k1WmxGVGIxSk5SVWRSYm0xUk0yWnBOM041Y2pWUGVFSk5SbWhuZDJjIiwiZmN2IjoiMyIsImVpIjoib3c2amF1M1RMdUxMMXNRUGstYWIyQU0iLCJxYyI6IkNoaHFZV05yYzI5dUlHaHBaMmdnYzJOb2IyOXNJRzlvYVc4UUFIM0l3elVfIiwicXVlc3Rpb24iOiJIb3cgbWFueSBraWRzIGdvIHRvIEphY2tzb24gSGlnaCBTY2hvb2wgaW4gT2hpbz8iLCJsayI6IkdpOW9iM2NnYldGdWVTQnJhV1J6SUdkdklIUnZJR3BoWTJ0emIyNGdhR2xuYUNCelkyaHZiMndnYVc0Z2IyaHBidyIsImJzIjoiYzNXUHNRckNNQlJGY2Mza25FRXVWamRCMnhfbzRsQVZjWEJ3Y0FwdGJXTFRQRENCNE5fYlNpTVU0bjdPNFY1V3MxMUJIcDB3YjdTcXNtZ0lqbkFVWld2Sm9GQ054TFdVUkJySzRDSVY1Vm5LdHpMaVBFZEhEbzc5T2RRN2JNOXdrOEpCMlpEZWZHTm9EWG1EQjczeURIemhSeWFrYUlLd0UwdEN4Y2thU1JyZnQtSkxQOFZpay00c085am9VVTJsY0hVMWtHZGhyZEk2ek0yek5VXy1fT3dDMnVmbnN3OCIsImlkIjoiZmNfb3c2amF1M1RMdUxMMXNRUGstYWIyQU1fNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSll6VTRWWGx1VlRWTVowa3pObEJxZDBwR2NWUTRNemRDYmtJelQwRjNZMko2VUZGdlNIQTJWR3RUUzJsTFNsVTJOVmxpVEU5emFVcHNSVmc1ZGkxRVdXTnRPRmRpVW5wTlIzZzJSMFZFTTFWTGVHSjROVkY0U0RWRmR4SVhiM2MyYW1GMU0xUk1kVXhNTVhOUlVHc3RZV0l5UVUwYUlrRkVjM0k1WmxGVGIxSk5SVWRSYm0xUk0yWnBOM041Y2pWUGVFSk5SbWhuZDJjIiwiZmN2IjoiMyIsImVpIjoib3c2amF1M1RMdUxMMXNRUGstYWIyQU0iLCJxYyI6IkNoaHFZV05yYzI5dUlHaHBaMmdnYzJOb2IyOXNJRzlvYVc4UUFIM0l3elVfIiwicXVlc3Rpb24iOiJIb3cgbWFueSBraWRzIGdvIHRvIEphY2tzb24gSGlnaCBTY2hvb2wgaW4gT2hpbz8iLCJsayI6IkdpOW9iM2NnYldGdWVTQnJhV1J6SUdkdklIUnZJR3BoWTJ0emIyNGdhR2xuYUNCelkyaHZiMndnYVc0Z2IyaHBidyIsImJzIjoiYzNXUHNRckNNQlJGY2Mza25FRXVWamRCMnhfbzRsQVZjWEJ3Y0FwdGJXTFRQRENCNE5fYlNpTVU0bjdPNFY1V3MxMUJIcDB3YjdTcXNtZ0lqbkFVWld2Sm9GQ054TFdVUkJySzRDSVY1Vm5LdHpMaVBFZEhEbzc5T2RRN2JNOXdrOEpCMlpEZWZHTm9EWG1EQjczeURIemhSeWFrYUlLd0UwdEN4Y2thU1JyZnQtSkxQOFZpay00c085am9VVTJsY0hVMWtHZGhyZEk2ek0yek5VXy1fT3dDMnVmbnN3OCIsImlkIjoiZmNfb3c2amF1M1RMdUxMMXNRUGstYWIyQU1fNSJ9"
+  },
+  {
+   "question": "What is Jackson, Ohio known for?",
+   "type": "ai_overview",
+   "page_token": "chdro3icHdDbboIwAIDh7GW8FKrDTROzBKUikSqVlsPNAkVE2gIqcrrbu-yp9jRze4E_-b-vb3Ep-M9Lk9V1dV8oStu243NZnsVpzEqpRPe-YAqLhIgjxheztxn4SNnSeGz11XWrO6Sq6BqrRw6zsBBXOmFtwNEqgRR4prAR715DObewWltUhA4m1dpeATWZvGu0KLXYzDDOg97OEz-a1I94ijIvtyDjqEYcBn9d17MH29QR85PG9p2eSlTvKXwc8_B2lKR1vXaIiqqnKu_2RHN2JBEnDlMKdA152i3g1uFYQIl6tXMHUcVyHmEQ0tMaQo9bauzCg71JbrYUe48AsaeWbmRJkwzhNfDJQI0OuEbbMQCdqAdZkFu6i8uLQ_DAciGpiTtsWlNv8zzcGL0r5nrgPk0ATXcU5oSzqeOMUtYsp6N_z-VnKutFdSvPv7tihTM",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=chdro3icHdDbboIwAIDh7GW8FKrDTROzBKUikSqVlsPNAkVE2gIqcrrbu-yp9jRze4E_-b-vb3Ep-M9Lk9V1dV8oStu243NZnsVpzEqpRPe-YAqLhIgjxheztxn4SNnSeGz11XWrO6Sq6BqrRw6zsBBXOmFtwNEqgRR4prAR715DObewWltUhA4m1dpeATWZvGu0KLXYzDDOg97OEz-a1I94ijIvtyDjqEYcBn9d17MH29QR85PG9p2eSlTvKXwc8_B2lKR1vXaIiqqnKu_2RHN2JBEnDlMKdA152i3g1uFYQIl6tXMHUcVyHmEQ0tMaQo9bauzCg71JbrYUe48AsaeWbmRJkwzhNfDJQI0OuEbbMQCdqAdZkFu6i8uLQ_DAciGpiTtsWlNv8zzcGL0r5nrgPk0ATXcU5oSzqeOMUtYsp6N_z-VnKutFdSvPv7tihTM",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSll6VTRWWGx1VlRWTVowa3pObEJxZDBwR2NWUTRNemRDYmtJelQwRjNZMko2VUZGdlNIQTJWR3RUUzJsTFNsVTJOVmxpVEU5emFVcHNSVmc1ZGkxRVdXTnRPRmRpVW5wTlIzZzJSMFZFTTFWTGVHSjROVkY0U0RWRmR4SVhiM2MyYW1GMU0xUk1kVXhNTVhOUlVHc3RZV0l5UVUwYUlrRkVjM0k1WmxGVGIxSk5SVWRSYm0xUk0yWnBOM041Y2pWUGVFSk5SbWhuZDJjIiwiZmN2IjoiMyIsImVpIjoib3c2amF1M1RMdUxMMXNRUGstYWIyQU0iLCJxYyI6IkNoaHFZV05yYzI5dUlHaHBaMmdnYzJOb2IyOXNJRzlvYVc4UUFIM0l3elVfIiwicXVlc3Rpb24iOiJXaGF0IGlzIEphY2tzb24sIE9oaW8ga25vd24gZm9yPyIsImxrIjoiR2g1M2FHRjBJR2x6SUdwaFkydHpiMjRnYjJocGJ5QnJibTkzYmlCbWIzSSIsImJzIjoiYzNXUHNRckNNQlJGY2Mza25FRXVWamRCMnhfbzRsQVZjWEJ3Y0FwdGJXTFRQRENCNE5fYlNpTVU0bjdPNFY1V3MxMUJIcDB3YjdTcXNtZ0lqbkFVWld2Sm9GQ054TFdVUkJySzRDSVY1Vm5LdHpMaVBFZEhEbzc5T2RRN2JNOXdrOEpCMlpEZWZHTm9EWG1EQjczeURIemhSeWFrYUlLd0UwdEN4Y2thU1JyZnQtSkxQOFZpay00c085am9VVTJsY0hVMWtHZGhyZEk2ek0yek5VXy1fT3dDMnVmbnN3OCIsImlkIjoiZmNfb3c2amF1M1RMdUxMMXNRUGstYWIyQU1fNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSll6VTRWWGx1VlRWTVowa3pObEJxZDBwR2NWUTRNemRDYmtJelQwRjNZMko2VUZGdlNIQTJWR3RUUzJsTFNsVTJOVmxpVEU5emFVcHNSVmc1ZGkxRVdXTnRPRmRpVW5wTlIzZzJSMFZFTTFWTGVHSjROVkY0U0RWRmR4SVhiM2MyYW1GMU0xUk1kVXhNTVhOUlVHc3RZV0l5UVUwYUlrRkVjM0k1WmxGVGIxSk5SVWRSYm0xUk0yWnBOM041Y2pWUGVFSk5SbWhuZDJjIiwiZmN2IjoiMyIsImVpIjoib3c2amF1M1RMdUxMMXNRUGstYWIyQU0iLCJxYyI6IkNoaHFZV05yYzI5dUlHaHBaMmdnYzJOb2IyOXNJRzlvYVc4UUFIM0l3elVfIiwicXVlc3Rpb24iOiJXaGF0IGlzIEphY2tzb24sIE9oaW8ga25vd24gZm9yPyIsImxrIjoiR2g1M2FHRjBJR2x6SUdwaFkydHpiMjRnYjJocGJ5QnJibTkzYmlCbWIzSSIsImJzIjoiYzNXUHNRckNNQlJGY2Mza25FRXVWamRCMnhfbzRsQVZjWEJ3Y0FwdGJXTFRQRENCNE5fYlNpTVU0bjdPNFY1V3MxMUJIcDB3YjdTcXNtZ0lqbkFVWld2Sm9GQ054TFdVUkJySzRDSVY1Vm5LdHpMaVBFZEhEbzc5T2RRN2JNOXdrOEpCMlpEZWZHTm9EWG1EQjczeURIemhSeWFrYUlLd0UwdEN4Y2thU1JyZnQtSkxQOFZpay00c085am9VVTJsY0hVMWtHZGhyZEk2ek0yek5VXy1fT3dDMnVmbnN3OCIsImlkIjoiZmNfb3c2amF1M1RMdUxMMXNRUGstYWIyQU1fNSJ9"
+  },
+  {
+   "question": "What is the #1 High School in Ohio?",
+   "type": "ai_overview",
+   "page_token": "lbkpcHicHdBLjtowAABQ9TKzHOwEpi0SqhRqD1glM_EviTdVYkOM43woHgLZ9S49VU9Tqe8I7_cff-7bv59uNoTxul4spml6boah8cdnPXSL6vro9UJX3teVbtcvn1_gt5PeoI99sr3sk0yMo_xOAXNJxDsD89ZWOv96pkhlrKfiKGRgjooamvTgbGX6seDxANLIsgOgJd_C4sBJpzGNlLMJwzgpYQNrR3asb-bU2TbnChjnlwKQi4BkeSy8pK8S105HrLNKCflDFkn6xulNRGGkwrJMpo_MU1UjsJSQvOtXGd52eJXvTM9iv5UeB56HjzK_wwqrYCBxfBZ3ga4xi1YxsuZmZnUpCzFLdIccTXcNcVY9oC0dSTgdzpmgs3a-E-0XoAFWIiZpjcjeMLBkaJVRb99VPrq6x8hMTyd928RP_z83P09dWI-_huYf1CaCzQ",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=lbkpcHicHdBLjtowAABQ9TKzHOwEpi0SqhRqD1glM_EviTdVYkOM43woHgLZ9S49VU9Tqe8I7_cff-7bv59uNoTxul4spml6boah8cdnPXSL6vro9UJX3teVbtcvn1_gt5PeoI99sr3sk0yMo_xOAXNJxDsD89ZWOv96pkhlrKfiKGRgjooamvTgbGX6seDxANLIsgOgJd_C4sBJpzGNlLMJwzgpYQNrR3asb-bU2TbnChjnlwKQi4BkeSy8pK8S105HrLNKCflDFkn6xulNRGGkwrJMpo_MU1UjsJSQvOtXGd52eJXvTM9iv5UeB56HjzK_wwqrYCBxfBZ3ga4xi1YxsuZmZnUpCzFLdIccTXcNcVY9oC0dSTgdzpmgs3a-E-0XoAFWIiZpjcjeMLBkaJVRb99VPrq6x8hMTyd928RP_z83P09dWI-_huYf1CaCzQ",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSll6VTRWWGx1VlRWTVowa3pObEJxZDBwR2NWUTRNemRDYmtJelQwRjNZMko2VUZGdlNIQTJWR3RUUzJsTFNsVTJOVmxpVEU5emFVcHNSVmc1ZGkxRVdXTnRPRmRpVW5wTlIzZzJSMFZFTTFWTGVHSjROVkY0U0RWRmR4SVhiM2MyYW1GMU0xUk1kVXhNTVhOUlVHc3RZV0l5UVUwYUlrRkVjM0k1WmxGVGIxSk5SVWRSYm0xUk0yWnBOM041Y2pWUGVFSk5SbWhuZDJjIiwiZmN2IjoiMyIsImVpIjoib3c2amF1M1RMdUxMMXNRUGstYWIyQU0iLCJxYyI6IkNoaHFZV05yYzI5dUlHaHBaMmdnYzJOb2IyOXNJRzlvYVc4UUFIM0l3elVfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSAjMSBIaWdoIFNjaG9vbCBpbiBPaGlvPyIsImxrIjoiR2lKM2FHRjBJR2x6SUhSb1pTQWpNU0JvYVdkb0lITmphRzl2YkNCcGJpQnZhR2x2IiwiYnMiOiJjM1dQc1FyQ01CUkZjYzNrbkVFdVZqZEIyeF9vNGxBVmNYQndjQXB0YldMVFBEQ0I0Tl9iU2lNVTRuN080VjVXczExQkhwMHdiN1Nxc21nSWpuQVVaV3ZKb0ZDTnhMV1VSQnJLNENJVjVWbkt0ekxpUEVkSERvNzlPZFE3Yk05d2s4SkIyWkRlZkdOb0RYbURCNzN5REh6aFJ5YWthSUt3RTB0Q3hja2FTUnJmdC1KTFA4VmlrLTRzTzlqb1VVMmxjSFUxa0dkaHJkSTZ6TTJ6TlVfLV9Pd0MydWZuc3c4IiwiaWQiOiJmY19vdzZqYXUzVEx1TEwxc1FQay1hYjJBTV81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSll6VTRWWGx1VlRWTVowa3pObEJxZDBwR2NWUTRNemRDYmtJelQwRjNZMko2VUZGdlNIQTJWR3RUUzJsTFNsVTJOVmxpVEU5emFVcHNSVmc1ZGkxRVdXTnRPRmRpVW5wTlIzZzJSMFZFTTFWTGVHSjROVkY0U0RWRmR4SVhiM2MyYW1GMU0xUk1kVXhNTVhOUlVHc3RZV0l5UVUwYUlrRkVjM0k1WmxGVGIxSk5SVWRSYm0xUk0yWnBOM041Y2pWUGVFSk5SbWhuZDJjIiwiZmN2IjoiMyIsImVpIjoib3c2amF1M1RMdUxMMXNRUGstYWIyQU0iLCJxYyI6IkNoaHFZV05yYzI5dUlHaHBaMmdnYzJOb2IyOXNJRzlvYVc4UUFIM0l3elVfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSAjMSBIaWdoIFNjaG9vbCBpbiBPaGlvPyIsImxrIjoiR2lKM2FHRjBJR2x6SUhSb1pTQWpNU0JvYVdkb0lITmphRzl2YkNCcGJpQnZhR2x2IiwiYnMiOiJjM1dQc1FyQ01CUkZjYzNrbkVFdVZqZEIyeF9vNGxBVmNYQndjQXB0YldMVFBEQ0I0Tl9iU2lNVTRuN080VjVXczExQkhwMHdiN1Nxc21nSWpuQVVaV3ZKb0ZDTnhMV1VSQnJLNENJVjVWbkt0ekxpUEVkSERvNzlPZFE3Yk05d2s4SkIyWkRlZkdOb0RYbURCNzN5REh6aFJ5YWthSUt3RTB0Q3hja2FTUnJmdC1KTFA4VmlrLTRzTzlqb1VVMmxjSFUxa0dkaHJkSTZ6TTJ6TlVfLV9Pd0MydWZuc3c4IiwiaWQiOiJmY19vdzZqYXUzVEx1TEwxc1FQay1hYjJBTV81In0%3D"
+  },
+  {
+   "question": "Is Jackson High School located in Massillon, Ohio?",
+   "type": "ai_overview",
+   "page_token": "oZ0xWnicHdBdbqMwFEBhzWb62MTQMEqkaCQKhmRKOjbYgF9Gxk7ikMtPAg2Et9lC19BVdTWtZgXn0_n3Aaf6_Pnj3fR9261ms2EYHo9Nc4T9o2qqmezutZopCVBIdV45Px3066DW_k25z1flEta23KPzuNSV9iBKKjO9BmhM0HaTMr3hKUZpaSyFwNkz88ZZS6Jpm4kAudwTgQiWlzwzeF9yYMBPelJWmsCztnUUZ9Eoav07rWBBMZh8rm1it05R4q5Iu5GG0Mlg69C5CSVi46tHS1VHA59cT6baSrDwJNvVJKPX7_ZF15jzZPci2eKuQbT7kA_SGss03EHMdFSEriiw_kMq_UQZZAWmgntwUcHmrgLTpKy3Y77EvtE3PYlvN5u4P6LEH0aFMJF3ZPJy6ya0ORFGJ1VCxaplri3aZ5MaipDTHIwdn0XPsP9E2GLkNm4JeTio29p--P96_fdQ9av22hy_AB0Pj6g",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=oZ0xWnicHdBdbqMwFEBhzWb62MTQMEqkaCQKhmRKOjbYgF9Gxk7ikMtPAg2Et9lC19BVdTWtZgXn0_n3Aaf6_Pnj3fR9261ms2EYHo9Nc4T9o2qqmezutZopCVBIdV45Px3066DW_k25z1flEta23KPzuNSV9iBKKjO9BmhM0HaTMr3hKUZpaSyFwNkz88ZZS6Jpm4kAudwTgQiWlzwzeF9yYMBPelJWmsCztnUUZ9Eoav07rWBBMZh8rm1it05R4q5Iu5GG0Mlg69C5CSVi46tHS1VHA59cT6baSrDwJNvVJKPX7_ZF15jzZPci2eKuQbT7kA_SGss03EHMdFSEriiw_kMq_UQZZAWmgntwUcHmrgLTpKy3Y77EvtE3PYlvN5u4P6LEH0aFMJF3ZPJy6ya0ORFGJ1VCxaplri3aZ5MaipDTHIwdn0XPsP9E2GLkNm4JeTio29p--P96_fdQ9av22hy_AB0Pj6g",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSll6VTRWWGx1VlRWTVowa3pObEJxZDBwR2NWUTRNemRDYmtJelQwRjNZMko2VUZGdlNIQTJWR3RUUzJsTFNsVTJOVmxpVEU5emFVcHNSVmc1ZGkxRVdXTnRPRmRpVW5wTlIzZzJSMFZFTTFWTGVHSjROVkY0U0RWRmR4SVhiM2MyYW1GMU0xUk1kVXhNTVhOUlVHc3RZV0l5UVUwYUlrRkVjM0k1WmxGVGIxSk5SVWRSYm0xUk0yWnBOM041Y2pWUGVFSk5SbWhuZDJjIiwiZmN2IjoiMyIsImVpIjoib3c2amF1M1RMdUxMMXNRUGstYWIyQU0iLCJxYyI6IkNoaHFZV05yYzI5dUlHaHBaMmdnYzJOb2IyOXNJRzlvYVc4UUFIM0l3elVfIiwicXVlc3Rpb24iOiJJcyBKYWNrc29uIEhpZ2ggU2Nob29sIGxvY2F0ZWQgaW4gTWFzc2lsbG9uLCBPaGlvPyIsImxrIjoiR2lOcVlXTnJjMjl1SUdocFoyZ2djMk5vYjI5c0lHbHVJRzFoYzNOcGJHeHZiaUJ2YUEiLCJicyI6ImMzV1BzUXJDTUJSRmNjM2tuRUV1VmpkQjJ4X280bEFWY1hCd2NBcHRiV0xUUERDQjROX2JTaU1VNG43TzRWNVdzMTFCSHAwd2I3U3FzbWdJam5BVVpXdkpvRkNOeExXVVJCcks0Q0lWNVZuS3R6TGlQRWRIRG83OU9kUTdiTTl3azhKQjJaRGVmR05vRFhtREI3M3lESHpoUnlha2FJS3dFMHRDeGNrYVNScmZ0LUpMUDhWaWstNHNPOWpvVVUybGNIVTFrR2RocmRJNnpNMnpOVV8tX093QzJ1Zm5zdzgiLCJpZCI6ImZjX293NmphdTNUTHVMTDFzUVBrLWFiMkFNXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSll6VTRWWGx1VlRWTVowa3pObEJxZDBwR2NWUTRNemRDYmtJelQwRjNZMko2VUZGdlNIQTJWR3RUUzJsTFNsVTJOVmxpVEU5emFVcHNSVmc1ZGkxRVdXTnRPRmRpVW5wTlIzZzJSMFZFTTFWTGVHSjROVkY0U0RWRmR4SVhiM2MyYW1GMU0xUk1kVXhNTVhOUlVHc3RZV0l5UVUwYUlrRkVjM0k1WmxGVGIxSk5SVWRSYm0xUk0yWnBOM041Y2pWUGVFSk5SbWhuZDJjIiwiZmN2IjoiMyIsImVpIjoib3c2amF1M1RMdUxMMXNRUGstYWIyQU0iLCJxYyI6IkNoaHFZV05yYzI5dUlHaHBaMmdnYzJOb2IyOXNJRzlvYVc4UUFIM0l3elVfIiwicXVlc3Rpb24iOiJJcyBKYWNrc29uIEhpZ2ggU2Nob29sIGxvY2F0ZWQgaW4gTWFzc2lsbG9uLCBPaGlvPyIsImxrIjoiR2lOcVlXTnJjMjl1SUdocFoyZ2djMk5vYjI5c0lHbHVJRzFoYzNOcGJHeHZiaUJ2YUEiLCJicyI6ImMzV1BzUXJDTUJSRmNjM2tuRUV1VmpkQjJ4X280bEFWY1hCd2NBcHRiV0xUUERDQjROX2JTaU1VNG43TzRWNVdzMTFCSHAwd2I3U3FzbWdJam5BVVpXdkpvRkNOeExXVVJCcks0Q0lWNVZuS3R6TGlQRWRIRG83OU9kUTdiTTl3azhKQjJaRGVmR05vRFhtREI3M3lESHpoUnlha2FJS3dFMHRDeGNrYVNScmZ0LUpMUDhWaWstNHNPOWpvVVUybGNIVTFrR2RocmRJNnpNMnpOVV8tX093QzJ1Zm5zdzgiLCJpZCI6ImZjX293NmphdTNUTHVMTDFzUVBrLWFiMkFNXzUifQ%3D%3D"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Home - Jackson Local",
+   "link": "https://www.jackson.stark.k12.oh.us/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXAHrOzAVv_3A-Urpm9WOwSv150Y14umMjyLorQQR2j1tKx8yOIUO26ge73okq17HW2YMtXN1FtBlI2JbSDqF3JCK-j1rqK8RCc9esU4qlkZiiROYt3kFlRfU3pLd&ved=2ahUKEwitsYnx6OSWAxXipZUCHRPzBjsQFnoECCYQAQ&uoh=1",
+   "displayed_link": "https://www.jackson.stark.k12.oh.us",
+   "favicon": "https://serpapi.com/searches/6aa30e9a71a41d714bce9042/images/n1a1L26HkF4n5GPRJqN_qgU-XJawZSA393oAjvb2euE.png",
+   "snippet": "Ohio Academic Content Standards toggle Ohio Academic Content Standards ... Jackson High School AP Results Outpace National Rate. September 3, 2026. 93 ...",
+   "snippet_highlighted_words": [
+    "Ohio",
+    "Ohio",
+    "Jackson High School"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "Jackson High School",
+      "link": "https://jhs.jackson.stark.k12.oh.us/",
+      "snippet": "Home - Jackson High School. ... Ohio Academic Content ..."
+     },
+     {
+      "title": "Athletics",
+      "link": "https://jhs.jackson.stark.k12.oh.us/athletics",
+      "snippet": "Athletics - Jackson High School. ... Ohio Academic Content ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Ohio Academic Content Standards toggle Ohio Academic Content Standards ... Jackson High School AP Results Outpace National Rate. September 3, 2026. 93 ...",
+     "source_info_link": "https://www.jackson.stark.k12.oh.us/",
+     "icon": "https://serpapi.com/searches/6aa30e9a71a41d714bce9042/images/n1a1L26HkF4n5GPRJqN_qn2FMo9pRMqAa8ayPgnWyyC8L5zzbOAQQ_W8UcGrlWVH.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Jackson Local Schools"
+  },
+  {
+   "position": 2,
+   "title": "Home | Jackson High School",
+   "link": "https://www.jcs.k12.oh.us/o/jhs",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVwHrOzAVThERZ4QEVPzojZZgRqzto6v-MkIZz2bTWDjtuj8jDZbAKf7bNwE-plSccChdZM4ZOkuSVBb63wJBOn-9L-iQ6tuTlmqArWco9Hl_Pe9jkU_SZg&ved=2ahUKEwitsYnx6OSWAxXipZUCHRPzBjsQFnoECB8QAQ&uoh=1",
+   "displayed_link": "https://www.jcs.k12.oh.us \u203a jhs",
+   "favicon": "https://serpapi.com/searches/6aa30e9a71a41d714bce9042/images/n1a1L26HkF4n5GPRJqN_qq955TeYFMj_vo5r-hKv3So.png",
+   "snippet": "Jackson High School. 500 Vaughn Street, Jackson, OH 45640. Phone: 740-286-7575.",
+   "snippet_highlighted_words": [
+    "Jackson High School",
+    "OH"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Jackson High School. 500 Vaughn Street, Jackson, OH 45640. Phone: 740-286-7575.",
+     "source_info_link": "https://www.jcs.k12.oh.us/o/jhs",
+     "icon": "https://serpapi.com/searches/6aa30e9a71a41d714bce9042/images/n1a1L26HkF4n5GPRJqN_qg3XQICb_C-WWBFrbx8kNMu4oXCe8flG0kVYPpoF6yxU.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Jackson City Schools",
+   "read_more_link": "https://www.jcs.k12.oh.us/o/jhs#:~:text=Jackson%20High%20School,Phone%3A%20740%2D286%2D7575"
+  },
+  {
+   "position": 3,
+   "title": "Jackson High School (Stark County, Ohio)",
+   "link": "https://en.wikipedia.org/wiki/Jackson_High_School_(Stark_County,_Ohio)",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfgHrOzAVoNrhPHJeSBwTAHAjXLdYYvPwaw39hf8cSDaxWu3aXVZfi299rvHd_yipPRDQPrKOrw-A8xJD3rrwfD0vFQn6dIQz8_LDv3rJR6J8efeGIOHbOMLw3IxL-t9RcVosy5J5sO-0hwEt4pH5cUrj2M1MnVKDa1wWqkqihA&ved=2ahUKEwitsYnx6OSWAxXipZUCHRPzBjsQFnoECB0QAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Jackson_High_School...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+   "snippet": "Jackson High School is a public high school located in Jackson Township, Ohio, United States, near Massillon. Part of the Jackson Local School District, ...",
+   "snippet_highlighted_words": [
+    "Jackson High School",
+    "Ohio"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Jackson High School is a public high school located in Jackson Township, Ohio, United States, near Massillon. Part of the Jackson Local School District, ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Jackson_High_School_(Stark_County,_Ohio)",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Jackson_High_School_(Stark_County,_Ohio)#:~:text=Jackson%20High%20School%20is%20a,serves%20grades%209%20through%2012."
+  },
+  {
+   "position": 4,
+   "title": "Jackson High School in Massillon, OH",
+   "link": "https://www.usnews.com/education/best-high-schools/ohio/districts/jackson-local/jackson-high-school-15729",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESoQEB6zswFUC_YO9JtGRoTic0CEewkY4HFXKpCsdEEwqgHMqYxXdRSgwstQIhJ5VJ6Z8jbP6XKR9rw8_kj_FcbBkJWqY2bkwIXhv_YgIJYVz1DeCIyxMKJkRYvEUZXyQ0ZnZJwuDuCIRVgW5HMGt_jDB-T8S1qGuYwlkfGkFvd-2PNgn0wPimbGtufqzcWmFzPugZB0j8G9haTL-kVF9SBMO13g&ved=2ahUKEwitsYnx6OSWAxXipZUCHRPzBjsQFnoECBwQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a ... \u203a Jackson Local",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png",
+   "snippet": "Jackson High School is ranked #1,928 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+   "snippet_highlighted_words": [
+    "Jackson High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Jackson High School is ranked #1,928 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/ohio/districts/jackson-local/jackson-high-school-15729",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/ohio/districts/jackson-local/jackson-high-school-15729#:~:text=Jackson%20High%20School%20is%20ranked,they%20prepare%20students%20for%20college."
+  },
+  {
+   "position": 5,
+   "title": "Jackson Local Schools - Massillon, OH",
+   "link": "https://www.facebook.com/JacksonLocalSchools/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZQHrOzAVInYNsIsOPdbrJjwb4IototLypahHLHrYW314HSvgHQVV4GJOSRqMCb0bEug2dZRt8wxfQOMUQZPtw27ZKCv2Z09X-28wyVJjvi8xBJMafG37KxfXI0Fnb6WRhsn1oZZJ&ved=2ahUKEwitsYnx6OSWAxXipZUCHRPzBjsQFnoECCgQAQ&uoh=1",
+   "displayed_link": "9.6K+ followers",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "snippet": "That's Jackson. Last year, 93% of Jackson High School students who took an Advanced Placement exam earned a score of 3 or higher \u2014 compared with 73% nationally.",
+   "snippet_highlighted_words": [
+    "Jackson High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "That's Jackson. Last year, 93% of Jackson High School students who took an Advanced Placement exam earned a score of 3 or higher \u2014 compared with 73% nationally.",
+     "source_info_link": "https://www.facebook.com/JacksonLocalSchools/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Facebook \u00b7 Jackson Local Schools - Massillon, OH",
+   "read_more_link": "https://www.facebook.com/JacksonLocalSchools/#:~:text=That's%20Jackson.%20Last%20year%2C%2093%25,%E2%80%94%20compared%20with%2073%25%20nationally."
+  },
+  {
+   "position": 6,
+   "title": "Jackson High School (Massillon, OH) Football",
+   "link": "https://www.maxpreps.com/oh/massillon/jackson-polar-bears/football/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESewHrOzAVwiWVtQZDNH--K-aBvgEx2MpQkziZELVSNK2mMk6Ar9ybGIDPkbaZYO2GvlD6MTl-Mgks6sZygfGqPNbUAF55HEMg0O-mNmMM0yXiDfGzegYAl3c0WVRloSP2kTrDG3vxNB_8Jmd_KoyNB0MhTYaQgDUxiXXZLg&ved=2ahUKEwitsYnx6OSWAxXipZUCHRPzBjsQFnoECFcQAQ&uoh=1",
+   "displayed_link": "https://www.maxpreps.com \u203a Football \u203a OH Football",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEzhBADhBADhBADhBQDhBQDhBADhBADhBADhBQDhBQDhBADhBADhBQDhBADhBQBqDGaWAAAAD3RSTlMANHaA7NyWEEjPqCVevglnZLSWAAAAqElEQVQokaWSSxaFIAxDU0pFBM3-d_vkM3pUJ3YAHEJvQwH4GlcIQQUoei_Sv2okD2C7p7ikhrHbzugilnuXMsa1aCZPkYO0pSSgjJWsxs3xW5iV3E6H2v1WsxpXr5OrIbpUQNhjd0XELvoajqadD-Jb5mtNHaLv1obo3rNwhtehRo32wM3ttduJfPled_G5nZr6XVduHt1pXTKXWoHd64PML5nmF_0YP5WLCXU498sLAAAAAElFTkSuQmCC.png",
+   "snippet": "Jackson High School. 7600 Fulton Dr NW. Massillon, OH 44646. Ohio High School Athletic Association logo OHSAA, Official MaxPreps partner.",
+   "snippet_highlighted_words": [
+    "Jackson High School",
+    "OH",
+    "Ohio"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Jackson High School. 7600 Fulton Dr NW. Massillon, OH 44646. Ohio High School Athletic Association logo OHSAA, Official MaxPreps partner.",
+     "source_info_link": "https://www.maxpreps.com/oh/massillon/jackson-polar-bears/football/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEzhBADhBADhBADhBQDhBQDhBADhBADhBADhBQDhBQDhBADhBADhBQDhBADhBQBqDGaWAAAAD3RSTlMANHaA7NyWEEjPqCVevglnZLSWAAAAqElEQVQokaWSSxaFIAxDU0pFBM3-d_vkM3pUJ3YAHEJvQwH4GlcIQQUoei_Sv2okD2C7p7ikhrHbzugilnuXMsa1aCZPkYO0pSSgjJWsxs3xW5iV3E6H2v1WsxpXr5OrIbpUQNhjd0XELvoajqadD-Jb5mtNHaLv1obo3rNwhtehRo32wM3ttduJfPled_G5nZr6XVduHt1pXTKXWoHd64PML5nmF_0YP5WLCXU498sLAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "MaxPreps",
+   "read_more_link": "https://www.maxpreps.com/oh/massillon/jackson-polar-bears/football/#:~:text=Jackson%20High%20School,OHSAA%2C%20Official%20MaxPreps%20partner"
+  },
+  {
+   "position": 7,
+   "title": "Jackson High School in Jackson Township, OH",
+   "link": "https://www.niche.com/k12/jackson-high-school-massillon-oh/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHrOzAV1_dFaXH1H3POh4RxbBNsM3fAL8pWQ1XWaquu78w60piiWoF53s-TVgL_Hzqupa4HDobSjCHHPhceMDVAjpwjXsBC6KszvueapIv4YHGTQsdWMKRgw_8-opDfkwi5lXi3WFutTZ49Et3HCLgUhQ4&ved=2ahUKEwitsYnx6OSWAxXipZUCHRPzBjsQFnoECFEQAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a Ohio",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png",
+   "snippet": "Jackson High School is a highly rated, public school located in MASSILLON, OH. It has 1,881 students in grades 9-12 with a student-teacher ratio of 20 to 1.",
+   "snippet_highlighted_words": [
+    "Jackson High School",
+    "OH"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Jackson High School is a highly rated, public school located in MASSILLON, OH. It has 1,881 students in grades 9-12 with a student-teacher ratio of 20 to 1.",
+     "source_info_link": "https://www.niche.com/k12/jackson-high-school-massillon-oh/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Niche",
+   "read_more_link": "https://www.niche.com/k12/jackson-high-school-massillon-oh/#:~:text=Jackson%20High%20School%20is%20a,ratio%20of%2020%20to%201."
+  },
+  {
+   "position": 8,
+   "title": "Home | Jackson High School",
+   "link": "https://jacksonpolarbears.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVgHrOzAVixLKZwLmIJuQBxI204sEfTZ3QjLQo8N5NYQM9z9SD0z6nxza4Josf8MZFcIdl6O5WcUIStLUPumFdVe7ynjz5hJKwPM1QaMU4fmln-j4Vqvg&ved=2ahUKEwitsYnx6OSWAxXipZUCHRPzBjsQFnoECFQQAQ&uoh=1",
+   "displayed_link": "https://jacksonpolarbears.org",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAUCAMAAACpgK3LAAAAvVBMVEVHcExLKZFRNYc8N59OLJJQUFpLK5FxTIFWOoopFoxcSYL__6xWNo1MK5NUNYpMKJMWAJ5JKpA0EZTSnC1xXZNRL5BIKo9jQYdbOIufc2S0hk1rSX-tf1lTLHatgFKGX2OIYW27i0iTamn-wBT9uwH-vQD_wADxtRROKpPPmkD_wgDorx5HIpV8VXz0ugdCHJWQZnDHlUQ5E5qbcGvhqShbOIz_xgAzCpu9jFBVMY-yhFn4vgBlQoeIX3Wqe14nBPHYAAAAI3RSTlMArkcP6wnM_loYLQKB2I3sNZVjbjvnfePu9uDT3SmzUNqMpCT8_PQAAADYSURBVCiRrdDXcoMwEAVQMEWSiXt6T0ZadUAUg1v-_7Pi8RsKfsudfTuzszs3CP4lBEdXLfokr2Q5bvOvzfq0fCZj9rFZrIw9tumITb5D6xDwH_609u3tHfVSOQDN4MFHXEglVdlLtD3Yew9flATTVl1XHZG58bDcWtTZhkOjndglA0se--rEGaP0PHuRDTdX1f7AtdacU6qLyRBnTtGcXsKawjuaupwxBqByyKWZDnFuyrJud4VAdS1C79sEp2JxJ2ZxGMcY-y2cCwyiKbkNsr9ySXZVRvILk7UYmqfUYvoAAAAASUVORK5CYII.png",
+   "snippet": "Upcoming Events ; Thu, Sep 10 3:00 PM EDTJunior Varsity Football. Jackson High School vs Warren Harding High School (Football) ; Thu, Sep 10 2:30 PMFreshman ...",
+   "snippet_highlighted_words": [
+    "Jackson High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Upcoming Events ; Thu, Sep 10 3:00 PM EDTJunior Varsity Football. Jackson High School vs Warren Harding High School (Football) ; Thu, Sep 10 2:30 PMFreshman ...",
+     "source_info_link": "https://jacksonpolarbears.org/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAUCAMAAACpgK3LAAAAvVBMVEVHcExLKZFRNYc8N59OLJJQUFpLK5FxTIFWOoopFoxcSYL__6xWNo1MK5NUNYpMKJMWAJ5JKpA0EZTSnC1xXZNRL5BIKo9jQYdbOIufc2S0hk1rSX-tf1lTLHatgFKGX2OIYW27i0iTamn-wBT9uwH-vQD_wADxtRROKpPPmkD_wgDorx5HIpV8VXz0ugdCHJWQZnDHlUQ5E5qbcGvhqShbOIz_xgAzCpu9jFBVMY-yhFn4vgBlQoeIX3Wqe14nBPHYAAAAI3RSTlMArkcP6wnM_loYLQKB2I3sNZVjbjvnfePu9uDT3SmzUNqMpCT8_PQAAADYSURBVCiRrdDXcoMwEAVQMEWSiXt6T0ZadUAUg1v-_7Pi8RsKfsudfTuzszs3CP4lBEdXLfokr2Q5bvOvzfq0fCZj9rFZrIw9tumITb5D6xDwH_609u3tHfVSOQDN4MFHXEglVdlLtD3Yew9flATTVl1XHZG58bDcWtTZhkOjndglA0se--rEGaP0PHuRDTdX1f7AtdacU6qLyRBnTtGcXsKawjuaupwxBqByyKWZDnFuyrJud4VAdS1C79sEp2JxJ2ZxGMcY-y2cCwyiKbkNsr9ySXZVRvILk7UYmqfUYvoAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Jackson High School Polar Bears",
+   "read_more_link": "https://jacksonpolarbears.org/#:~:text=Upcoming%20Events&text=Thu%2C%20Sep%2010%203%3A00%20PM,EDTJunior%20Varsity%20Football&text=Thu%2C%20Sep%2010%202%3A30%20PMFreshman,Volleyball"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Jackson high school ohio football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnst0PkAqOtp6pNnYXuzUuT1zRqRNA:1789071011771&q=Jackson+high+school+ohio+football&sa=X&ved=2ahUKEwitsYnx6OSWAxXipZUCHRPzBjsQ1QJ6BAhLEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Jackson+high+school+ohio+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Jackson high school ohio ranking",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnst0PkAqOtp6pNnYXuzUuT1zRqRNA:1789071011771&q=Jackson+high+school+ohio+ranking&sa=X&ved=2ahUKEwitsYnx6OSWAxXipZUCHRPzBjsQ1QJ6BAhQEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Jackson+high+school+ohio+ranking"
+  },
+  {
+   "block_position": 1,
+   "query": "Jackson high school ohio yearbook",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnst0PkAqOtp6pNnYXuzUuT1zRqRNA:1789071011771&q=Jackson+high+school+ohio+yearbook&sa=X&ved=2ahUKEwitsYnx6OSWAxXipZUCHRPzBjsQ1QJ6BAhOEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Jackson+high+school+ohio+yearbook"
+  },
+  {
+   "block_position": 1,
+   "query": "Jackson high school ohio basketball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnst0PkAqOtp6pNnYXuzUuT1zRqRNA:1789071011771&q=Jackson+high+school+ohio+basketball&sa=X&ved=2ahUKEwitsYnx6OSWAxXipZUCHRPzBjsQ1QJ6BAhPEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Jackson+high+school+ohio+basketball"
+  },
+  {
+   "block_position": 1,
+   "query": "Jackson High School Polar Bears",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnst0PkAqOtp6pNnYXuzUuT1zRqRNA:1789071011771&q=Jackson+High+School+Polar+Bears&sa=X&ved=2ahUKEwitsYnx6OSWAxXipZUCHRPzBjsQ1QJ6BAhNEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Jackson+High+School+Polar+Bears"
+  },
+  {
+   "block_position": 1,
+   "query": "Jackson High School photos",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnst0PkAqOtp6pNnYXuzUuT1zRqRNA:1789071011771&q=Jackson+High+School+photos&sa=X&ved=2ahUKEwitsYnx6OSWAxXipZUCHRPzBjsQ1QJ6BAhMEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Jackson+High+School+photos"
+  },
+  {
+   "block_position": 1,
+   "query": "Massillon Jackson High School",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnst0PkAqOtp6pNnYXuzUuT1zRqRNA:1789071011771&q=Massillon+Jackson+High+School&sa=X&ved=2ahUKEwitsYnx6OSWAxXipZUCHRPzBjsQ1QJ6BAhKEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Massillon+Jackson+High+School"
+  },
+  {
+   "block_position": 1,
+   "query": "Jackson high school ohio famous alumni",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnst0PkAqOtp6pNnYXuzUuT1zRqRNA:1789071011771&q=Jackson+high+school+ohio+famous+alumni&sa=X&ved=2ahUKEwitsYnx6OSWAxXipZUCHRPzBjsQ1QJ6BAhJEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Jackson+high+school+ohio+famous+alumni"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Jackson+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnst0PkAqOtp6pNnYXuzUuT1zRqRNA:1789071011771&ei=ow6jau3TLuLL1sQPk-ab2AM&start=10&sa=N&sstk=AS6-VmLV0XsicMZnblrOZ24py1Yq5y9oukAJqneC8wpQpLJNMVAKMsBlZUW3mw2uRNBMhUt3mlHP361KkF-RnQ2a6kU0LIy-88Lzqw&ved=2ahUKEwitsYnx6OSWAxXipZUCHRPzBjsQ8NMDegQIQxAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Jackson+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnst0PkAqOtp6pNnYXuzUuT1zRqRNA:1789071011771&ei=ow6jau3TLuLL1sQPk-ab2AM&start=10&sa=N&sstk=AS6-VmLV0XsicMZnblrOZ24py1Yq5y9oukAJqneC8wpQpLJNMVAKMsBlZUW3mw2uRNBMhUt3mlHP361KkF-RnQ2a6kU0LIy-88Lzqw&ved=2ahUKEwitsYnx6OSWAxXipZUCHRPzBjsQ8tMDegQIQxAE",
+   "3": "https://www.google.com/search?q=%22Jackson+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnst0PkAqOtp6pNnYXuzUuT1zRqRNA:1789071011771&ei=ow6jau3TLuLL1sQPk-ab2AM&start=20&sa=N&sstk=AS6-VmLV0XsicMZnblrOZ24py1Yq5y9oukAJqneC8wpQpLJNMVAKMsBlZUW3mw2uRNBMhUt3mlHP361KkF-RnQ2a6kU0LIy-88Lzqw&ved=2ahUKEwitsYnx6OSWAxXipZUCHRPzBjsQ8tMDegQIQxAG",
+   "4": "https://www.google.com/search?q=%22Jackson+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnst0PkAqOtp6pNnYXuzUuT1zRqRNA:1789071011771&ei=ow6jau3TLuLL1sQPk-ab2AM&start=30&sa=N&sstk=AS6-VmLV0XsicMZnblrOZ24py1Yq5y9oukAJqneC8wpQpLJNMVAKMsBlZUW3mw2uRNBMhUt3mlHP361KkF-RnQ2a6kU0LIy-88Lzqw&ved=2ahUKEwitsYnx6OSWAxXipZUCHRPzBjsQ8tMDegQIQxAI",
+   "5": "https://www.google.com/search?q=%22Jackson+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnst0PkAqOtp6pNnYXuzUuT1zRqRNA:1789071011771&ei=ow6jau3TLuLL1sQPk-ab2AM&start=40&sa=N&sstk=AS6-VmLV0XsicMZnblrOZ24py1Yq5y9oukAJqneC8wpQpLJNMVAKMsBlZUW3mw2uRNBMhUt3mlHP361KkF-RnQ2a6kU0LIy-88Lzqw&ved=2ahUKEwitsYnx6OSWAxXipZUCHRPzBjsQ8tMDegQIQxAK",
+   "6": "https://www.google.com/search?q=%22Jackson+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnst0PkAqOtp6pNnYXuzUuT1zRqRNA:1789071011771&ei=ow6jau3TLuLL1sQPk-ab2AM&start=50&sa=N&sstk=AS6-VmLV0XsicMZnblrOZ24py1Yq5y9oukAJqneC8wpQpLJNMVAKMsBlZUW3mw2uRNBMhUt3mlHP361KkF-RnQ2a6kU0LIy-88Lzqw&ved=2ahUKEwitsYnx6OSWAxXipZUCHRPzBjsQ8tMDegQIQxAM",
+   "7": "https://www.google.com/search?q=%22Jackson+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnst0PkAqOtp6pNnYXuzUuT1zRqRNA:1789071011771&ei=ow6jau3TLuLL1sQPk-ab2AM&start=60&sa=N&sstk=AS6-VmLV0XsicMZnblrOZ24py1Yq5y9oukAJqneC8wpQpLJNMVAKMsBlZUW3mw2uRNBMhUt3mlHP361KkF-RnQ2a6kU0LIy-88Lzqw&ved=2ahUKEwitsYnx6OSWAxXipZUCHRPzBjsQ8tMDegQIQxAO",
+   "8": "https://www.google.com/search?q=%22Jackson+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnst0PkAqOtp6pNnYXuzUuT1zRqRNA:1789071011771&ei=ow6jau3TLuLL1sQPk-ab2AM&start=70&sa=N&sstk=AS6-VmLV0XsicMZnblrOZ24py1Yq5y9oukAJqneC8wpQpLJNMVAKMsBlZUW3mw2uRNBMhUt3mlHP361KkF-RnQ2a6kU0LIy-88Lzqw&ved=2ahUKEwitsYnx6OSWAxXipZUCHRPzBjsQ8tMDegQIQxAQ",
+   "9": "https://www.google.com/search?q=%22Jackson+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnst0PkAqOtp6pNnYXuzUuT1zRqRNA:1789071011771&ei=ow6jau3TLuLL1sQPk-ab2AM&start=80&sa=N&sstk=AS6-VmLV0XsicMZnblrOZ24py1Yq5y9oukAJqneC8wpQpLJNMVAKMsBlZUW3mw2uRNBMhUt3mlHP361KkF-RnQ2a6kU0LIy-88Lzqw&ved=2ahUKEwitsYnx6OSWAxXipZUCHRPzBjsQ8tMDegQIQxAS",
+   "10": "https://www.google.com/search?q=%22Jackson+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnst0PkAqOtp6pNnYXuzUuT1zRqRNA:1789071011771&ei=ow6jau3TLuLL1sQPk-ab2AM&start=90&sa=N&sstk=AS6-VmLV0XsicMZnblrOZ24py1Yq5y9oukAJqneC8wpQpLJNMVAKMsBlZUW3mw2uRNBMhUt3mlHP361KkF-RnQ2a6kU0LIy-88Lzqw&ved=2ahUKEwitsYnx6OSWAxXipZUCHRPzBjsQ8tMDegQIQxAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Jackson+High+School%22+Ohio&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Jackson+High+School%22+Ohio&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Jackson+High+School%22+Ohio&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Jackson+High+School%22+Ohio&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Jackson+High+School%22+Ohio&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Jackson+High+School%22+Ohio&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Jackson+High+School%22+Ohio&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Jackson+High+School%22+Ohio&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Jackson+High+School%22+Ohio&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Jackson+High+School%22+Ohio&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Jackson+High+School%22+Ohio&start=90"
+  }
+ }
+}

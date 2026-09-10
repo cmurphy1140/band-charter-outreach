@@ -1,0 +1,398 @@
+{
+ "search_information": {
+  "query_displayed": "\"Greenwood High School\"",
+  "total_results": 431000,
+  "time_taken_displayed": 0.22,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "ai_overview": {
+  "page_token": "OxFf13iczVXbkqI6FP2A8x3Dy7QCiq12FTWVRGyxb2a8jb5QGGJAwTig0vbb-ZfzVedrTgDtxlv39DxMnV0FubAvi529sv_-x_cW83__Wrmr1TK6keU4jouMc-bTIuGBbEfbBZGn3I9C4n5jvr6OJNfX6ULabvSyRCJdkain0_h6Zm96hfvReqwVjM71BkEPmFJqrlsTO6Iz4f15FsmWLF7zL-WGWBSjIl0Uv49DRkLcmxYeiiVFrRefZDsQCuCPCQIYMPFGOF1clNtfc8cYMABo5_xnPo2cSrLAwGAwW0N83hU2hWoyAowyZI34pTCaiImdaTSSj-cF5T9AlupBmPoDXQguG56VDCliO9_v6hpnd1HeQSIPH5oIjKNDFCZAnXiX4lMkJjDMA8Q4C8JgDGbxlBmGAd_BLRLSj2HlLrF4R03IHTZ78Q7CQ2MoAssOE0WryJNQDKrsEZekkzBKahn16gpvPW0gYUH9sUbnPydDtVnpDz17vCrYFMhkIvR8bjvUsVxL-Zau1ZJaUerlau0qJRGJXlkU5Vm0DDRUtcZIXdWK90Wo7imEkoycZklkW6yRCU4F7srs7AGbYH8YxmuCxa6Jcunq70YXQI6Tus35BhyTNGH7HZrWL3k7kjdISYRTCh1DSyiUGsEsNMzD26swBs-YCiEnf3hShSJunM3YMfvxUSUZGM3zIeKDrwJk1zWSRCUMGBAjA3BcjcbeHO_xsuQQ93l_dY53cHMU8liSdRGWdYViG7O7RB2-ngHc_RxsHxPfO_7rVJrCHxyZn7sldmJ-cEFkOnuuHJV-njJN2x90eoYLhlrDUx7j-pr73ZaloeienacIDyaf6DTk_0Qib9-H-jvbCySiyeRjEjFx3V3sQ9n0rQ9lJIL4AonMjERn-hDNNHJ96JhEqJsj0Qd96LMkQu-SKLuMzpIocXCORPMLJNr1oRyJuod96IBEr33ojUS_04fQb_WhlFM0Gw6b0nrGLjYnY271rB4a-IuX2TyckGCz5qrJty17GX_YnKbB6iawHf_K8pwbWGqvts6VJTb4DXWkn_qXUuk2pHQRc-58bXnM_dolLue-2JcCP-S6Ymva5GU8r7rAsdf9--vus3sb-L3b0AeMD6cPlYpjeyu-1cqG01Ce-mvQ6vgaV_EoqKFZy3i22XJMy3HQrnEnsl82s1J4bWhm_Ud1tCFUadXuHnGtpsCgMx2DQgHABzRAZBQOFi-DxspHCwWtKWn-QM1ytTmNWIor0ptKNMRD2sHfFSkIiS5ORGPgEYMhE4WHRoIPoqARF08snmuADShFxLZotNGV8mRKRZYImTh1raRKAVttl7qmStEi1NX_AOhXPi0",
+  "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=OxFf13iczVXbkqI6FP2A8x3Dy7QCiq12FTWVRGyxb2a8jb5QGGJAwTig0vbb-ZfzVedrTgDtxlv39DxMnV0FubAvi529sv_-x_cW83__Wrmr1TK6keU4jouMc-bTIuGBbEfbBZGn3I9C4n5jvr6OJNfX6ULabvSyRCJdkain0_h6Zm96hfvReqwVjM71BkEPmFJqrlsTO6Iz4f15FsmWLF7zL-WGWBSjIl0Uv49DRkLcmxYeiiVFrRefZDsQCuCPCQIYMPFGOF1clNtfc8cYMABo5_xnPo2cSrLAwGAwW0N83hU2hWoyAowyZI34pTCaiImdaTSSj-cF5T9AlupBmPoDXQguG56VDCliO9_v6hpnd1HeQSIPH5oIjKNDFCZAnXiX4lMkJjDMA8Q4C8JgDGbxlBmGAd_BLRLSj2HlLrF4R03IHTZ78Q7CQ2MoAssOE0WryJNQDKrsEZekkzBKahn16gpvPW0gYUH9sUbnPydDtVnpDz17vCrYFMhkIvR8bjvUsVxL-Zau1ZJaUerlau0qJRGJXlkU5Vm0DDRUtcZIXdWK90Wo7imEkoycZklkW6yRCU4F7srs7AGbYH8YxmuCxa6Jcunq70YXQI6Tus35BhyTNGH7HZrWL3k7kjdISYRTCh1DSyiUGsEsNMzD26swBs-YCiEnf3hShSJunM3YMfvxUSUZGM3zIeKDrwJk1zWSRCUMGBAjA3BcjcbeHO_xsuQQ93l_dY53cHMU8liSdRGWdYViG7O7RB2-ngHc_RxsHxPfO_7rVJrCHxyZn7sldmJ-cEFkOnuuHJV-njJN2x90eoYLhlrDUx7j-pr73ZaloeienacIDyaf6DTk_0Qib9-H-jvbCySiyeRjEjFx3V3sQ9n0rQ9lJIL4AonMjERn-hDNNHJ96JhEqJsj0Qd96LMkQu-SKLuMzpIocXCORPMLJNr1oRyJuod96IBEr33ojUS_04fQb_WhlFM0Gw6b0nrGLjYnY271rB4a-IuX2TyckGCz5qrJty17GX_YnKbB6iawHf_K8pwbWGqvts6VJTb4DXWkn_qXUuk2pHQRc-58bXnM_dolLue-2JcCP-S6Ymva5GU8r7rAsdf9--vus3sb-L3b0AeMD6cPlYpjeyu-1cqG01Ce-mvQ6vgaV_EoqKFZy3i22XJMy3HQrnEnsl82s1J4bWhm_Ud1tCFUadXuHnGtpsCgMx2DQgHABzRAZBQOFi-DxspHCwWtKWn-QM1ytTmNWIor0ptKNMRD2sHfFSkIiS5ORGPgEYMhE4WHRoIPoqARF08snmuADShFxLZotNGV8mRKRZYImTh1raRKAVttl7qmStEi1NX_AOhXPi0"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Greenwood High School - Home",
+   "link": "https://ghs.gwd50.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTgHrOzAVbAG1oi2NRzvDi2igbQjNGDmx6cZ6UjYGF59JnTEYayWYnTNgvTKmgV9-jtKbbbSbYbU031uXsqqjHf6aoJehpu1MU438s5b75A&ved=2ahUKEwi0qP_d6OSWAxWLzDgGHWp4ACEQFnoECA4QAQ&uoh=1",
+   "displayed_link": "https://ghs.gwd50.org",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVHcEz________________-__7_______________-Mw5-828cAiywAkj4AjjS10L4IlUfX6N1Ip2ucyKsBUSIrZD9PeFzq9e5utogAOwAPVSsARAd3lICIoZBYrXZzkX1ninKgm0CYAAAACnRSTlMATZPJ7P4QpP8bpVw2CgAAAUVJREFUeAF0kYUCwyAQQ7cW1iBHXeb7_69cgLm8ei8nhNUL66JUWquyWK9-sKnwQrX5jBf4oHhPV_hCvRQx-Il55OMP9xoKf1D3-f6hi3sDewcJZ63TjyYVlV5upLAEkRBqkIoCEN_cAFDfPrwFob8g4SloGWeJQIUDsP4asZMm9ICLOcnQEmQYycT_mH0jC0hPoQPKbMJ2R4b9OKPm_xm5rdhohU6CgVAywlJw7xVL6Sw4HI_HA4vsa1YWJE4iJwruPkfdsBvOThqfW0hukYdkgRa4DMM0s3UP4sJtyCLPsHeYYwVEiyiepWmCBops1H43TJchzgDnGelOgfc-GbXKgl1axQRgYUyEVweSN4stIvtJg1gvxC_3zdoAeoqca2RmezrZ9jpEmmICeRIVwESYCCU5gomWYLInnHEIZz3CmZdg9gcAOqojOG0EWb0AAAAASUVORK5CYII.png",
+   "snippet": "Greenwood High School. Home of the Eagles. Home \u00b7 Administration \u00b7 Mr. Jim Still - Principal \u00b7 Ms. Sally Moore - Associate Principal, Grade 12, Grade 10 Q-Z ...",
+   "snippet_highlighted_words": [
+    "Greenwood High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Greenwood High School. Home of the Eagles. Home \u00b7 Administration \u00b7 Mr. Jim Still - Principal \u00b7 Ms. Sally Moore - Associate Principal, Grade 12, Grade 10 Q-Z ...",
+     "source_info_link": "https://ghs.gwd50.org/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVHcEz________________-__7_______________-Mw5-828cAiywAkj4AjjS10L4IlUfX6N1Ip2ucyKsBUSIrZD9PeFzq9e5utogAOwAPVSsARAd3lICIoZBYrXZzkX1ninKgm0CYAAAACnRSTlMATZPJ7P4QpP8bpVw2CgAAAUVJREFUeAF0kYUCwyAQQ7cW1iBHXeb7_69cgLm8ei8nhNUL66JUWquyWK9-sKnwQrX5jBf4oHhPV_hCvRQx-Il55OMP9xoKf1D3-f6hi3sDewcJZ63TjyYVlV5upLAEkRBqkIoCEN_cAFDfPrwFob8g4SloGWeJQIUDsP4asZMm9ICLOcnQEmQYycT_mH0jC0hPoQPKbMJ2R4b9OKPm_xm5rdhohU6CgVAywlJw7xVL6Sw4HI_HA4vsa1YWJE4iJwruPkfdsBvOThqfW0hukYdkgRa4DMM0s3UP4sJtyCLPsHeYYwVEiyiepWmCBops1H43TJchzgDnGelOgfc-GbXKgl1axQRgYUyEVweSN4stIvtJg1gvxC_3zdoAeoqca2RmezrZ9jpEmmICeRIVwESYCCU5gomWYLInnHEIZz3CmZdg9gcAOqojOG0EWb0AAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESTgHrOzAVbAG1oi2NRzvDi2igbQjNGDmx6cZ6UjYGF59JnTEYayWYnTNgvTKmgV9-jtKbbbSbYbU031uXsqqjHf6aoJehpu1MU438s5b75A&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESTgHrOzAVbAG1oi2NRzvDi2igbQjNGDmx6cZ6UjYGF59JnTEYayWYnTNgvTKmgV9-jtKbbbSbYbU031uXsqqjHf6aoJehpu1MU438s5b75A",
+   "source": "Greenwood School District 50",
+   "read_more_link": "https://ghs.gwd50.org/#:~:text=Greenwood%20High%20School,Home%20of%20the%20Eagles"
+  },
+  {
+   "position": 2,
+   "title": "Greenwood High School: Home",
+   "link": "https://greenwood.warrencountyschools.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYgHrOzAV87LcNxLf4X_kRwtueBXTev9uBW-UU_vkygk0IwRCtW6FQU1wnTaA4PXDki5gPVu28DMjtvohkSfFO7wADK7DydXJ3aq66OptPBO_dlXl6vDv4dAzx1ts-lP7O7KP&ved=2ahUKEwi0qP_d6OSWAxWLzDgGHWp4ACEQFnoECBoQAQ&uoh=1",
+   "displayed_link": "https://greenwood.warrencountyschools.org",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA5FBMVEVHcEz____39_j____Ew8T________________29vb____________________Y2dz____r6-sAAADQ0dK2trb___-SOyEAAACSaAoMOiUPNSH_wxnbnRH_vxcuMS7-tRK7iRc-PjsbQCj_vBpCLgWLjpBmaGoWTTameQ9JSk0OJhtydXqenZ7mpA4AEAtaRBMmUTSwr7DIysxuUBLMkQ8OSTVSVFSkcgW6ubYAGQE7RUdROgjzrhmFiY5uZiYZBwFLPCC1gRKMbic4RBh-goeEhIStjSs3NDbOvKF2YDpJXzO9l1c3omxOAAAAFnRSTlMAcptH8VMgX2u5ggUmnA-3fLEh3v4sNaFJMgAAAQ1JREFUKJHVkFdug1AURMGGAK6peoVHL6H34l7Ts__9BMW2ZMVkAT6_R_dqZijqSuHom_8Um2qe1Wl3PT_SEXInDHuhnibyNLEDWQfglR9RfZ4_v4tAgmZe5TX23XoMZFk4qS7jT0u8cpzdHiVJggHGnpsd03WrKXaU73gyW-6_nhuQrmNwd6jAyEgV8yxYWtlspza8rUqk3f7KMcAxUWxf_vzYBHa8LVQIiTY8fO2AsoYLSCRDkSQShpIkFiDtH5fREMxFw1AUI1ybwDLr_EUYnNKm0XwLmyvDgaS22c64d7YjXQGniE3TJAsYCdQfhvaaiA0hcC9c0_Rh6W7mms9w923Dj1ie5gZt5mr4AaJ2IfbTUDFhAAAAAElFTkSuQmCC.png",
+   "snippet": "Dear Greenwood High School Students and Families, Welcome to the 2026\u20132027 school year! We hope you have had a wonderful summer and are as excited as we are ...",
+   "snippet_highlighted_words": [
+    "Greenwood High School"
+   ],
+   "sitelinks": {
+    "inline": [
+     {
+      "title": "Admin & Teacher Contacts",
+      "link": "https://greenwood.warrencountyschools.org/websites"
+     },
+     {
+      "title": "Activities",
+      "link": "https://greenwood.warrencountyschools.org/activities"
+     },
+     {
+      "title": "About GHS",
+      "link": "https://greenwood.warrencountyschools.org/about-ghs"
+     },
+     {
+      "title": "Academics/Guidance",
+      "link": "https://greenwood.warrencountyschools.org/academicsguidance"
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Dear Greenwood High School Students and Families, Welcome to the 2026\u20132027 school year! We hope you have had a wonderful summer and are as excited as we are ...",
+     "source_info_link": "https://greenwood.warrencountyschools.org/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA5FBMVEVHcEz____39_j____Ew8T________________29vb____________________Y2dz____r6-sAAADQ0dK2trb___-SOyEAAACSaAoMOiUPNSH_wxnbnRH_vxcuMS7-tRK7iRc-PjsbQCj_vBpCLgWLjpBmaGoWTTameQ9JSk0OJhtydXqenZ7mpA4AEAtaRBMmUTSwr7DIysxuUBLMkQ8OSTVSVFSkcgW6ubYAGQE7RUdROgjzrhmFiY5uZiYZBwFLPCC1gRKMbic4RBh-goeEhIStjSs3NDbOvKF2YDpJXzO9l1c3omxOAAAAFnRSTlMAcptH8VMgX2u5ggUmnA-3fLEh3v4sNaFJMgAAAQ1JREFUKJHVkFdug1AURMGGAK6peoVHL6H34l7Ts__9BMW2ZMVkAT6_R_dqZijqSuHom_8Um2qe1Wl3PT_SEXInDHuhnibyNLEDWQfglR9RfZ4_v4tAgmZe5TX23XoMZFk4qS7jT0u8cpzdHiVJggHGnpsd03WrKXaU73gyW-6_nhuQrmNwd6jAyEgV8yxYWtlspza8rUqk3f7KMcAxUWxf_vzYBHa8LVQIiTY8fO2AsoYLSCRDkSQShpIkFiDtH5fREMxFw1AUI1ybwDLr_EUYnNKm0XwLmyvDgaS22c64d7YjXQGniE3TJAsYCdQfhvaaiA0hcC9c0_Rh6W7mms9w923Dj1ie5gZt5mr4AaJ2IfbTUDFhAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYgHrOzAV87LcNxLf4X_kRwtueBXTev9uBW-UU_vkygk0IwRCtW6FQU1wnTaA4PXDki5gPVu28DMjtvohkSfFO7wADK7DydXJ3aq66OptPBO_dlXl6vDv4dAzx1ts-lP7O7KP&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYgHrOzAV87LcNxLf4X_kRwtueBXTev9uBW-UU_vkygk0IwRCtW6FQU1wnTaA4PXDki5gPVu28DMjtvohkSfFO7wADK7DydXJ3aq66OptPBO_dlXl6vDv4dAzx1ts-lP7O7KP",
+   "source": "Warren County Public Schools",
+   "read_more_link": "https://greenwood.warrencountyschools.org/#:~:text=Dear%20Greenwood%20High%20School%20Students,year%20at%20Greenwood%20High%20School."
+  },
+  {
+   "position": 3,
+   "title": "Greenwood ISD - Home - Midland",
+   "link": "https://www.greenwood.esc18.net/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWAHrOzAVOH3unBB3kPZ0WYD-kecCg9RRhHTNHYjUlkZ3DubazT-8pW8tWsH0yfY2jBi5m3qwavqx0AR2rKIU6BP5xvcrEHwmxA9rxvNgQS3lvVV6674E9-E&ved=2ahUKEwi0qP_d6OSWAxWLzDgGHWp4ACEQFnoECBAQAQ&uoh=1",
+   "displayed_link": "https://www.greenwood.esc18.net",
+   "favicon": "https://serpapi.com/searches/6aa30e54526c4801e74f2891/images/UouCU0PT_miaCAvW-4nqbMjO3txwxa7uN4g9WcNU9Ms.png",
+   "snippet": "Greenwood High School \u00b7 Greenwood Intermediate School \u00b7 James R. Brooks Middle School \u00b7 Pre-K \u00b7 Administration \u00b7 Administration Home \u00b7 Campus Staff \u00b7 Campus ...",
+   "snippet_highlighted_words": [
+    "Greenwood High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Greenwood High School \u00b7 Greenwood Intermediate School \u00b7 James R. Brooks Middle School \u00b7 Pre-K \u00b7 Administration \u00b7 Administration Home \u00b7 Campus Staff \u00b7 Campus ...",
+     "source_info_link": "https://www.greenwood.esc18.net/",
+     "icon": "https://serpapi.com/searches/6aa30e54526c4801e74f2891/images/UouCU0PT_miaCAvW-4nqbOm4TNw7zD57JPV8HCxTnzHPDFrMmm-kZcP4mRJJSrnB.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESWAHrOzAVOH3unBB3kPZ0WYD-kecCg9RRhHTNHYjUlkZ3DubazT-8pW8tWsH0yfY2jBi5m3qwavqx0AR2rKIU6BP5xvcrEHwmxA9rxvNgQS3lvVV6674E9-E&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESWAHrOzAVOH3unBB3kPZ0WYD-kecCg9RRhHTNHYjUlkZ3DubazT-8pW8tWsH0yfY2jBi5m3qwavqx0AR2rKIU6BP5xvcrEHwmxA9rxvNgQS3lvVV6674E9-E",
+   "source": "Greenwood ISD",
+   "read_more_link": "https://www.greenwood.esc18.net/#:~:text=Lunch%20Menus"
+  },
+  {
+   "position": 4,
+   "title": "Greenwood High School",
+   "link": "https://www.greenwoodk12.com/o/ghs",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWgHrOzAVHHfXrXPec9XCaSW1U_7YubYc9QE7Ce_MRzB3VjUYMLPz9HvjNrgARt3mg_7nNI8PpxmAeX15A4kpykcnv6LyzkMeBZnbOmTqcf2KMKl1zAJZbAB-wg&ved=2ahUKEwi0qP_d6OSWAxWLzDgGHWp4ACEQFnoECBMQAQ&uoh=1",
+   "displayed_link": "https://www.greenwoodk12.com \u203a ghs",
+   "favicon": "https://serpapi.com/searches/6aa30e54526c4801e74f2891/images/UouCU0PT_miaCAvW-4nqbJJTO0OSvWVMrRpTK4xE3Ms.png",
+   "snippet": "Greenwood High School is consistently ranked among the top-performing high schools in the state of Arkansas. Students have a myriad of extracurricular ...",
+   "snippet_highlighted_words": [
+    "Greenwood High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Greenwood High School is consistently ranked among the top-performing high schools in the state of Arkansas. Students have a myriad of extracurricular ...",
+     "source_info_link": "https://www.greenwoodk12.com/o/ghs",
+     "icon": "https://serpapi.com/searches/6aa30e54526c4801e74f2891/images/UouCU0PT_miaCAvW-4nqbKW6cZ5R1gkZrmiV0bOnaX7U704VYQSeTVy2ueREALkZ.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESWgHrOzAVHHfXrXPec9XCaSW1U_7YubYc9QE7Ce_MRzB3VjUYMLPz9HvjNrgARt3mg_7nNI8PpxmAeX15A4kpykcnv6LyzkMeBZnbOmTqcf2KMKl1zAJZbAB-wg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESWgHrOzAVHHfXrXPec9XCaSW1U_7YubYc9QE7Ce_MRzB3VjUYMLPz9HvjNrgARt3mg_7nNI8PpxmAeX15A4kpykcnv6LyzkMeBZnbOmTqcf2KMKl1zAJZbAB-wg",
+   "source": "GREENWOOD PUBLIC SCHOOLS",
+   "read_more_link": "https://www.greenwoodk12.com/o/ghs#:~:text=GREENWOOD%20HIGH%20SCHOOL"
+  },
+  {
+   "position": 5,
+   "title": "Greenwood High School | Bowling Green KY",
+   "link": "https://www.facebook.com/GreenwoodHighSchoolWCPS/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVyNirc977LzFuiMPPrJmZCJUdZWRMaWGXZCMPJl1kOtU79AN_MZsLjBLUwsQ0MG3YIMswwaNX7mzbMlP0laH9KdoIAe3DQxCF_pfs_4Jom1W--pSuYDOPe4rewCmVQnHVTTt3wg&ved=2ahUKEwi0qP_d6OSWAxWLzDgGHWp4ACEQFnoECBEQAQ&uoh=1",
+   "displayed_link": "3.3K+ followers",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "snippet": "Opening in the fall of 1990, Greenwood High School is one of five high schools in the Warren County Public School System. Greenwood consists of grades 9-12, ...",
+   "snippet_highlighted_words": [
+    "Greenwood High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Opening in the fall of 1990, Greenwood High School is one of five high schools in the Warren County Public School System. Greenwood consists of grades 9-12, ...",
+     "source_info_link": "https://www.facebook.com/GreenwoodHighSchoolWCPS/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESaQHrOzAVyNirc977LzFuiMPPrJmZCJUdZWRMaWGXZCMPJl1kOtU79AN_MZsLjBLUwsQ0MG3YIMswwaNX7mzbMlP0laH9KdoIAe3DQxCF_pfs_4Jom1W--pSuYDOPe4rewCmVQnHVTTt3wg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESaQHrOzAVyNirc977LzFuiMPPrJmZCJUdZWRMaWGXZCMPJl1kOtU79AN_MZsLjBLUwsQ0MG3YIMswwaNX7mzbMlP0laH9KdoIAe3DQxCF_pfs_4Jom1W--pSuYDOPe4rewCmVQnHVTTt3wg",
+   "source": "Facebook \u00b7 Greenwood High School",
+   "read_more_link": "https://www.facebook.com/GreenwoodHighSchoolWCPS/#:~:text=Opening%20in%20the%20fall%20of,enrollment%20of%20over%201400%20students."
+  },
+  {
+   "position": 6,
+   "title": "Greenwood High School - South Carolina",
+   "link": "https://www.usnews.com/education/best-high-schools/south-carolina/districts/greenwood-50/greenwood-high-school-17637",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrAEB6zswFQdkQDZW_22u2OziQmYYX9XxMKIGgeXgwkx2Of_njk44lxV8qIdSqX7yf_BhPjYD-mZNkqdO_lfFMj3ap34monwVLAHYJDqPMEmcnRwDjn5RWY57sxGVXWoAUXiD3XetsJPCiRj7tcSGWfLkli-88uMwRVFORneMk5aoRccR6yp7rsAiB1rkF8tWAEItX6GFUkR5exXBpVSSmE9q8Tkx5xx9549zdTPS&ved=2ahUKEwi0qP_d6OSWAxWLzDgGHWp4ACEQFnoECBIQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a ... \u203a Greenwood 50",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png",
+   "snippet": "Greenwood High School is ranked #8,916 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+   "snippet_highlighted_words": [
+    "Greenwood High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Greenwood High School is ranked #8,916 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/south-carolina/districts/greenwood-50/greenwood-high-school-17637",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESrAEB6zswFQdkQDZW_22u2OziQmYYX9XxMKIGgeXgwkx2Of_njk44lxV8qIdSqX7yf_BhPjYD-mZNkqdO_lfFMj3ap34monwVLAHYJDqPMEmcnRwDjn5RWY57sxGVXWoAUXiD3XetsJPCiRj7tcSGWfLkli-88uMwRVFORneMk5aoRccR6yp7rsAiB1rkF8tWAEItX6GFUkR5exXBpVSSmE9q8Tkx5xx9549zdTPS&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESrAEB6zswFQdkQDZW_22u2OziQmYYX9XxMKIGgeXgwkx2Of_njk44lxV8qIdSqX7yf_BhPjYD-mZNkqdO_lfFMj3ap34monwVLAHYJDqPMEmcnRwDjn5RWY57sxGVXWoAUXiD3XetsJPCiRj7tcSGWfLkli-88uMwRVFORneMk5aoRccR6yp7rsAiB1rkF8tWAEItX6GFUkR5exXBpVSSmE9q8Tkx5xx9549zdTPS",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/south-carolina/districts/greenwood-50/greenwood-high-school-17637#:~:text=Greenwood%20High%20School%20is%20ranked,they%20prepare%20students%20for%20college."
+  },
+  {
+   "position": 7,
+   "title": "Greenwood High School (South Carolina)",
+   "link": "https://en.wikipedia.org/wiki/Greenwood_High_School_(South_Carolina)",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHrOzAVbW07V9tmGAtcQxMkvc7agN6yNAvNZKYIy6jBavlYB0EftfhpixAsQlq-Gs_vDgdYZlCMwQ23fHpf2xfXkjQMRDxJ4EwOvJTEbmhGxOseSefWHJuuuJZFMr9xuGvBiAD7qJc1cOrrgGlmqe2a0KLSDwuCEwYQIMs&ved=2ahUKEwi0qP_d6OSWAxWLzDgGHWp4ACEQFnoECBcQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Greenwood_High_Sch...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+   "snippet": "Greenwood High School is a public school located in the city of Greenwood, South Carolina. The school has approximately 1,600 students and is one of two ...",
+   "snippet_highlighted_words": [
+    "Greenwood High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Greenwood High School is a public school located in the city of Greenwood, South Carolina. The school has approximately 1,600 students and is one of two ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Greenwood_High_School_(South_Carolina)",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESfAHrOzAVbW07V9tmGAtcQxMkvc7agN6yNAvNZKYIy6jBavlYB0EftfhpixAsQlq-Gs_vDgdYZlCMwQ23fHpf2xfXkjQMRDxJ4EwOvJTEbmhGxOseSefWHJuuuJZFMr9xuGvBiAD7qJc1cOrrgGlmqe2a0KLSDwuCEwYQIMs&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESfAHrOzAVbW07V9tmGAtcQxMkvc7agN6yNAvNZKYIy6jBavlYB0EftfhpixAsQlq-Gs_vDgdYZlCMwQ23fHpf2xfXkjQMRDxJ4EwOvJTEbmhGxOseSefWHJuuuJZFMr9xuGvBiAD7qJc1cOrrgGlmqe2a0KLSDwuCEwYQIMs",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Greenwood_High_School_(South_Carolina)#:~:text=Greenwood%20High%20School%20is%20a,Greenwood%20County%20School%20District%2050."
+  },
+  {
+   "position": 8,
+   "title": "SCHOOL DISTRICT OF GREENWOOD: Home",
+   "link": "https://www.greenwood.k12.wi.us/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWAHrOzAVea__tQkYV-HUdXmk0HRnK2oVCk-tglihWihfKfSVeyATr8-ZpALx87nopKDER0y7Dx_Bg6WyFV24Ms3ZhR30FepZchZ2AxjPeURUeBJa352uO_E&ved=2ahUKEwi0qP_d6OSWAxWLzDgGHWp4ACEQFnoECBwQAQ&uoh=1",
+   "displayed_link": "https://www.greenwood.k12.wi.us",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAclBMVEVHcEzz3d389vb89_fMgoL__v7u0NCvRUXGdHS8Y2OzTU3htLT___--YmLy3d378vK4VFTXnJz____98_PRkpL____t0tLhu7v68PDFd3fjt7fOiYnlvr7cqamZAACXAACcERGbBwegHBylJiasOzunMTEcEUVXAAAAHnRSTlMAXEks6hNw-dbn-JYJ_IY-77YjYNsCqtxz7MDBd8QC4Db_AAABMUlEQVQokcVSx5LDIBR7tADG3cZxGuD2_78YWrLZQ247s5qBAYTgIQHwr2AEo5MHwqT8zZS47oRsC86LVopu7j84fK2O1S3WGuObW_k46Ew118raQJjUhw2VYvFENG6vJZfUYVydvFYjuqa52aUQkjsbYUYCQF46JxUmpFFyMet27JzOoBXPOnlnQEjfTGePaZrqBthoEsl9BQMVQtAIMdYacBU5swgMMC3OlxRh2ztAvSfhdmPQ0_yUcAv19dS5nKMrYSgyFTZ37Ee53hqYhZRyT2Rx9wa_7jS8Q_NcT-esvjQhi8ea2cNbED1IB0Xr0SW9xQTznMnu7SrGVp4u2U_zNt_7jlImGj_aLRhug2xx68bpdWDvPzCoHHRMWg1Ef2QNus9fBDWEwRdo0N-ov8MTAnsoWa7XcI0AAAAASUVORK5CYII.png",
+   "snippet": "Class of 2026 Graduation Ceremony Saturday, May 23, 2026 at 11:00am Greenwood High School West Gym Live Stream: https://cesa10.mediaspace.kaltura.com/media ...",
+   "snippet_highlighted_words": [
+    "Greenwood High School"
+   ],
+   "sitelinks": {
+    "inline": [
+     {
+      "title": "School Supply Lists 2026-2027",
+      "link": "https://www.greenwood.k12.wi.us/article/3030292"
+     },
+     {
+      "title": "Summer Meals for Kids 2026",
+      "link": "https://www.greenwood.k12.wi.us/article/2982129"
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Class of 2026 Graduation Ceremony Saturday, May 23, 2026 at 11:00am Greenwood High School West Gym Live Stream: https://cesa10.mediaspace.kaltura.com/media ...",
+     "source_info_link": "https://www.greenwood.k12.wi.us/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAclBMVEVHcEzz3d389vb89_fMgoL__v7u0NCvRUXGdHS8Y2OzTU3htLT___--YmLy3d378vK4VFTXnJz____98_PRkpL____t0tLhu7v68PDFd3fjt7fOiYnlvr7cqamZAACXAACcERGbBwegHBylJiasOzunMTEcEUVXAAAAHnRSTlMAXEks6hNw-dbn-JYJ_IY-77YjYNsCqtxz7MDBd8QC4Db_AAABMUlEQVQokcVSx5LDIBR7tADG3cZxGuD2_78YWrLZQ247s5qBAYTgIQHwr2AEo5MHwqT8zZS47oRsC86LVopu7j84fK2O1S3WGuObW_k46Ew118raQJjUhw2VYvFENG6vJZfUYVydvFYjuqa52aUQkjsbYUYCQF46JxUmpFFyMet27JzOoBXPOnlnQEjfTGePaZrqBthoEsl9BQMVQtAIMdYacBU5swgMMC3OlxRh2ztAvSfhdmPQ0_yUcAv19dS5nKMrYSgyFTZ37Ee53hqYhZRyT2Rx9wa_7jS8Q_NcT-esvjQhi8ea2cNbED1IB0Xr0SW9xQTznMnu7SrGVp4u2U_zNt_7jlImGj_aLRhug2xx68bpdWDvPzCoHHRMWg1Ef2QNus9fBDWEwRdo0N-ov8MTAnsoWa7XcI0AAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESWAHrOzAVea__tQkYV-HUdXmk0HRnK2oVCk-tglihWihfKfSVeyATr8-ZpALx87nopKDER0y7Dx_Bg6WyFV24Ms3ZhR30FepZchZ2AxjPeURUeBJa352uO_E&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESWAHrOzAVea__tQkYV-HUdXmk0HRnK2oVCk-tglihWihfKfSVeyATr8-ZpALx87nopKDER0y7Dx_Bg6WyFV24Ms3ZhR30FepZchZ2AxjPeURUeBJa352uO_E",
+   "source": "SCHOOL DISTRICT OF GREENWOOD",
+   "read_more_link": "https://www.greenwood.k12.wi.us/#:~:text=CEP%20Donations%20Needed"
+  },
+  {
+   "position": 9,
+   "title": "Greenwood High School - Arkansas",
+   "link": "https://www.niche.com/k12/greenwood-high-school-greenwood-ar/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAV5ObdeVKCjL4Wa2ev8-C3-t39dpnPNb9bevOvCAAumZPN9ffUSvbgmwp5_5ZKw3mlvXh4i583T6T0RK2QGGYV-EBQ__YBdL67N9e-yFRF6jhnHd-fGl6CJE9PSJjgCHOwerG_QjIZZJ4cCvgwdV6aWg&ved=2ahUKEwi0qP_d6OSWAxWLzDgGHWp4ACEQFnoECA8QAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a Arkansas",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png",
+   "snippet": "Greenwood High School is a highly rated, public school located in GREENWOOD, AR. It has 1161 students in grades 9-12 with a student-teacher ratio of 8 to 1.",
+   "snippet_highlighted_words": [
+    "Greenwood High School"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 4.1,
+      "reviews": 343
+     },
+     "extensions": [
+      "4.1(343)"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Greenwood High School is a highly rated, public school located in GREENWOOD, AR. It has 1161 students in grades 9-12 with a student-teacher ratio of 8 to 1.",
+     "source_info_link": "https://www.niche.com/k12/greenwood-high-school-greenwood-ar/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdQHrOzAV5ObdeVKCjL4Wa2ev8-C3-t39dpnPNb9bevOvCAAumZPN9ffUSvbgmwp5_5ZKw3mlvXh4i583T6T0RK2QGGYV-EBQ__YBdL67N9e-yFRF6jhnHd-fGl6CJE9PSJjgCHOwerG_QjIZZJ4cCvgwdV6aWg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdQHrOzAV5ObdeVKCjL4Wa2ev8-C3-t39dpnPNb9bevOvCAAumZPN9ffUSvbgmwp5_5ZKw3mlvXh4i583T6T0RK2QGGYV-EBQ__YBdL67N9e-yFRF6jhnHd-fGl6CJE9PSJjgCHOwerG_QjIZZJ4cCvgwdV6aWg",
+   "source": "Niche"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Greenwood high school football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Greenwood+high+school+football&sa=X&ved=2ahUKEwi0qP_d6OSWAxWLzDgGHWp4ACEQ1QJ6BAhLEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Greenwood+high+school+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Greenwood High School SC",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Greenwood+High+School+SC&sa=X&ved=2ahUKEwi0qP_d6OSWAxWLzDgGHWp4ACEQ1QJ6BAhIEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Greenwood+High+School+SC"
+  },
+  {
+   "block_position": 1,
+   "query": "Greenwood High School MS",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Greenwood+High+School+MS&sa=X&ved=2ahUKEwi0qP_d6OSWAxWLzDgGHWp4ACEQ1QJ6BAhNEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Greenwood+High+School+MS"
+  },
+  {
+   "block_position": 1,
+   "query": "Greenwood High School logo",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Greenwood+High+School+logo&sa=X&ved=2ahUKEwi0qP_d6OSWAxWLzDgGHWp4ACEQ1QJ6BAhHEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Greenwood+High+School+logo"
+  },
+  {
+   "block_position": 1,
+   "query": "Greenwood High School PA",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Greenwood+High+School+PA&sa=X&ved=2ahUKEwi0qP_d6OSWAxWLzDgGHWp4ACEQ1QJ6BAhJEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Greenwood+High+School+PA"
+  },
+  {
+   "block_position": 1,
+   "query": "Greenwood High School Calendar",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Greenwood+High+School+Calendar&sa=X&ved=2ahUKEwi0qP_d6OSWAxWLzDgGHWp4ACEQ1QJ6BAhOEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Greenwood+High+School+Calendar"
+  },
+  {
+   "block_position": 1,
+   "query": "Greenwood high school tx",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Greenwood+high+school+tx&sa=X&ved=2ahUKEwi0qP_d6OSWAxWLzDgGHWp4ACEQ1QJ6BAhMEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Greenwood+high+school+tx"
+  },
+  {
+   "block_position": 1,
+   "query": "Greenwood High School website",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Greenwood+High+School+website&sa=X&ved=2ahUKEwi0qP_d6OSWAxWLzDgGHWp4ACEQ1QJ6BAhKEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Greenwood+High+School+website"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Greenwood+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=ew6javT-LYuZ4-EP6vCBiAI&start=10&sa=N&sstk=AS6-VmLwPZhCiOEfZnxqVlqk7l0Zj-HmOiQpW0XGGOkwuZxEY4upvzyzlaLU87TLypQX5MLCDx4bOSFODoHi98-4b8PcebQ4hWI9HQ&ved=2ahUKEwi0qP_d6OSWAxWLzDgGHWp4ACEQ8NMDegQIRRAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Greenwood+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=ew6javT-LYuZ4-EP6vCBiAI&start=10&sa=N&sstk=AS6-VmLwPZhCiOEfZnxqVlqk7l0Zj-HmOiQpW0XGGOkwuZxEY4upvzyzlaLU87TLypQX5MLCDx4bOSFODoHi98-4b8PcebQ4hWI9HQ&ved=2ahUKEwi0qP_d6OSWAxWLzDgGHWp4ACEQ8tMDegQIRRAE",
+   "3": "https://www.google.com/search?q=%22Greenwood+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=ew6javT-LYuZ4-EP6vCBiAI&start=20&sa=N&sstk=AS6-VmLwPZhCiOEfZnxqVlqk7l0Zj-HmOiQpW0XGGOkwuZxEY4upvzyzlaLU87TLypQX5MLCDx4bOSFODoHi98-4b8PcebQ4hWI9HQ&ved=2ahUKEwi0qP_d6OSWAxWLzDgGHWp4ACEQ8tMDegQIRRAG",
+   "4": "https://www.google.com/search?q=%22Greenwood+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=ew6javT-LYuZ4-EP6vCBiAI&start=30&sa=N&sstk=AS6-VmLwPZhCiOEfZnxqVlqk7l0Zj-HmOiQpW0XGGOkwuZxEY4upvzyzlaLU87TLypQX5MLCDx4bOSFODoHi98-4b8PcebQ4hWI9HQ&ved=2ahUKEwi0qP_d6OSWAxWLzDgGHWp4ACEQ8tMDegQIRRAI",
+   "5": "https://www.google.com/search?q=%22Greenwood+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=ew6javT-LYuZ4-EP6vCBiAI&start=40&sa=N&sstk=AS6-VmLwPZhCiOEfZnxqVlqk7l0Zj-HmOiQpW0XGGOkwuZxEY4upvzyzlaLU87TLypQX5MLCDx4bOSFODoHi98-4b8PcebQ4hWI9HQ&ved=2ahUKEwi0qP_d6OSWAxWLzDgGHWp4ACEQ8tMDegQIRRAK",
+   "6": "https://www.google.com/search?q=%22Greenwood+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=ew6javT-LYuZ4-EP6vCBiAI&start=50&sa=N&sstk=AS6-VmLwPZhCiOEfZnxqVlqk7l0Zj-HmOiQpW0XGGOkwuZxEY4upvzyzlaLU87TLypQX5MLCDx4bOSFODoHi98-4b8PcebQ4hWI9HQ&ved=2ahUKEwi0qP_d6OSWAxWLzDgGHWp4ACEQ8tMDegQIRRAM",
+   "7": "https://www.google.com/search?q=%22Greenwood+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=ew6javT-LYuZ4-EP6vCBiAI&start=60&sa=N&sstk=AS6-VmLwPZhCiOEfZnxqVlqk7l0Zj-HmOiQpW0XGGOkwuZxEY4upvzyzlaLU87TLypQX5MLCDx4bOSFODoHi98-4b8PcebQ4hWI9HQ&ved=2ahUKEwi0qP_d6OSWAxWLzDgGHWp4ACEQ8tMDegQIRRAO",
+   "8": "https://www.google.com/search?q=%22Greenwood+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=ew6javT-LYuZ4-EP6vCBiAI&start=70&sa=N&sstk=AS6-VmLwPZhCiOEfZnxqVlqk7l0Zj-HmOiQpW0XGGOkwuZxEY4upvzyzlaLU87TLypQX5MLCDx4bOSFODoHi98-4b8PcebQ4hWI9HQ&ved=2ahUKEwi0qP_d6OSWAxWLzDgGHWp4ACEQ8tMDegQIRRAQ",
+   "9": "https://www.google.com/search?q=%22Greenwood+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=ew6javT-LYuZ4-EP6vCBiAI&start=80&sa=N&sstk=AS6-VmLwPZhCiOEfZnxqVlqk7l0Zj-HmOiQpW0XGGOkwuZxEY4upvzyzlaLU87TLypQX5MLCDx4bOSFODoHi98-4b8PcebQ4hWI9HQ&ved=2ahUKEwi0qP_d6OSWAxWLzDgGHWp4ACEQ8tMDegQIRRAS",
+   "10": "https://www.google.com/search?q=%22Greenwood+High+School%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=ew6javT-LYuZ4-EP6vCBiAI&start=90&sa=N&sstk=AS6-VmLwPZhCiOEfZnxqVlqk7l0Zj-HmOiQpW0XGGOkwuZxEY4upvzyzlaLU87TLypQX5MLCDx4bOSFODoHi98-4b8PcebQ4hWI9HQ&ved=2ahUKEwi0qP_d6OSWAxWLzDgGHWp4ACEQ8tMDegQIRRAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Greenwood+High+School%22&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Greenwood+High+School%22&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Greenwood+High+School%22&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Greenwood+High+School%22&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Greenwood+High+School%22&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Greenwood+High+School%22&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Greenwood+High+School%22&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Greenwood+High+School%22&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Greenwood+High+School%22&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Greenwood+High+School%22&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Greenwood+High+School%22&start=90"
+  }
+ }
+}

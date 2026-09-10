@@ -1,0 +1,363 @@
+{
+ "search_information": {
+  "query_displayed": "\"Northwest Guilford Marching Viking Band\"",
+  "total_results": 247,
+  "time_taken_displayed": 0.26,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "inline_videos": [
+  {
+   "position": 1,
+   "title": "Northwest Guilford High School Marching Band at ...",
+   "link": "https://www.youtube.com/watch?v=GX842pl_cZY",
+   "thumbnail": "https://serpapi.com/searches/6aa30ffb919dfa51f0e2e22e/images/jWtJfybkTKkzfxAaOECIcgu9pMG6rQVZaG0sdubC-eg.jpeg",
+   "channel": "Marching Band Enthusiast",
+   "duration": "8:55",
+   "platform": "YouTube",
+   "date": "Oct 31, 2024"
+  },
+  {
+   "position": 2,
+   "title": "NW Viking Band \"Duae Turres\"",
+   "link": "https://www.youtube.com/watch?v=AGE6MxeIrO8",
+   "thumbnail": "https://serpapi.com/searches/6aa30ffb919dfa51f0e2e22e/images/nPw_61eYQHFIV1R7RxLB2sy2cI1PF-xCfWR3JwMqsfA.jpeg",
+   "channel": "bajmc",
+   "duration": "8:30",
+   "platform": "YouTube",
+   "date": "Oct 8, 2012"
+  },
+  {
+   "position": 3,
+   "title": "Northwest Guilford Marching Band's Beetlejuice Show",
+   "link": "https://www.tiktok.com/@_colt__/video/7165716549981179182",
+   "thumbnail": "https://serpapi.com/searches/6aa30ffb919dfa51f0e2e22e/images/hiUqEVfMmSkRC0e_S4oGvyawcqUDKlWemt9i2arCrqk.jpeg",
+   "channel": "_colt__",
+   "duration": "7:56",
+   "platform": "TikTok",
+   "date": "Nov 13, 2022",
+   "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTeGYR9OVe7cWBQuE2J_clj1ilXO9-YEpBi5w"
+  }
+ ],
+ "related_questions": [
+  {
+   "question": "What is the best high school marching band in North Carolina?",
+   "type": "ai_overview",
+   "page_token": "XmtAnHicHdFRbpswAABQ7TL9bGJoWjVSVCnFJGHDCGOb2D8V2AEa20CLOyf89S793oF2mlU7wtP7_DKvvf7740_n3DitFwvv_W07DK053crBLqrp2suFrIypK6nX9w_34KmRGzj45-fJb3M6jizCy4LGQB3Z9VcZRximoICXgLHkICx0J4iA2o2A2IRQEg9kOfl6Ts7Egoj3imALfN4fXF3iQxpwwKlglVZQhglk-pKo5R2QEN5xRoPSGMQD0ZziGNa7kWa7DtXLFZUauIy0DmsWVkY7ZVHGrEKUqhWbWcj62KXQRKRML0g7npXjPmfmTUZbewxQUZhtJ03qKTBJdlTnqlxxSoTmM_rA4ABUj3ZZKYPC8GtZAJ6RbiIwLjKCtTTcKbJ9JyHuYad-fnvf-FHwGsYNieW3-zFHEd7nRGCGh9ec4lmejaVhN6ZWzdQyJgI8i71cpRTvuWnDImi9gOlF-JtG_t6EN_8fNi-NdevxfWj_AVnylyk",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=XmtAnHicHdFRbpswAABQ7TL9bGJoWjVSVCnFJGHDCGOb2D8V2AEa20CLOyf89S793oF2mlU7wtP7_DKvvf7740_n3DitFwvv_W07DK053crBLqrp2suFrIypK6nX9w_34KmRGzj45-fJb3M6jizCy4LGQB3Z9VcZRximoICXgLHkICx0J4iA2o2A2IRQEg9kOfl6Ts7Egoj3imALfN4fXF3iQxpwwKlglVZQhglk-pKo5R2QEN5xRoPSGMQD0ZziGNa7kWa7DtXLFZUauIy0DmsWVkY7ZVHGrEKUqhWbWcj62KXQRKRML0g7npXjPmfmTUZbewxQUZhtJ03qKTBJdlTnqlxxSoTmM_rA4ABUj3ZZKYPC8GtZAJ6RbiIwLjKCtTTcKbJ9JyHuYad-fnvf-FHwGsYNieW3-zFHEd7nRGCGh9ec4lmejaVhN6ZWzdQyJgI8i71cpRTvuWnDImi9gOlF-JtG_t6EN_8fNi-NdevxfWj_AVnylyk",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFYyNDJOVWhhTFROUFJXZFdiMjEzWW5JeFlUaFVMVWsyTVVZM1ZGbzJkelZsU21KVGIydHBWVTVQY1VrdGNsOUNha2g1U0Y5V1JVRnVUMUl5Vm1SMU0yeDFZelEyZDNSTU16UXlTMWRaWVcxVmRqRnBNV3c1V21GNFVSSVhTbmhEYW1GMldHeEJYMHhYTlU1dlVEUTBSMEUyVVZVYUlrRkVjM0k1WmxGcFpWaHdVM2h4ZHpaMFNVeG9kbXA1T0RGT09HVmhVVU5DYm5jIiwiZmN2IjoiMyIsImVpIjoiSnhDamF2WGxBX0xXNU5vUDQ0R0E2UVUiLCJxYyI6ImMtTlN6OHN2S3Nrb1R5MHVVVWd2emN4Snl5OUtVY2hOTEVyT3lNeExWeWpMekFaUlNZbDVLUUlNdFZlNkZld0IiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgaGlnaCBzY2hvb2wgbWFyY2hpbmcgYmFuZCBpbiBOb3J0aCBDYXJvbGluYT8iLCJsayI6ImN3WEIwUW5BTUFnRndEMzY5UWJwTXNhRVBDRlJVS0hyOS01NVAwckRDczJGc2FwQjIwUXBJdzZ1cE5KOFk0aFBtTU1qbTFESk9PYnlBdyIsImJzIjoiYzUyUExiUENNQkJGNTltb3B4aW02am8wNVVNQkZhQ1JvTGZ0MGdUU0xKTUVPaWotT2lVODhaQmdkLTg1dTFmZDFYS3ZLY0lFUk0wb09VUm8wMmlFU290WXRPUXJiVnlEa2x3TjQ3QVZIelhXNU1VYVIwVy15aGJkUndLWEJOV2ZRSzNWYUs4RjVEbnhMYmNsLXdBNXZIUlBhR2RPdmFESWg5bmczX3FhcGltaGptcnlhdUZDOUplV1hReko2Q1NDckpXTzAtbTNYMEtSVDdKeDl5bW1STTAyZ3B0YzBIREVtVXlOZ19pLS1EUFJwd21WV01zTnYzTkZQcy1tOVJmZzc4OEQiLCJpZCI6ImZjX0p4Q2phdlhsQV9MVzVOb1A0NEdBNlFVXzcifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFYyNDJOVWhhTFROUFJXZFdiMjEzWW5JeFlUaFVMVWsyTVVZM1ZGbzJkelZsU21KVGIydHBWVTVQY1VrdGNsOUNha2g1U0Y5V1JVRnVUMUl5Vm1SMU0yeDFZelEyZDNSTU16UXlTMWRaWVcxVmRqRnBNV3c1V21GNFVSSVhTbmhEYW1GMldHeEJYMHhYTlU1dlVEUTBSMEUyVVZVYUlrRkVjM0k1WmxGcFpWaHdVM2h4ZHpaMFNVeG9kbXA1T0RGT09HVmhVVU5DYm5jIiwiZmN2IjoiMyIsImVpIjoiSnhDamF2WGxBX0xXNU5vUDQ0R0E2UVUiLCJxYyI6ImMtTlN6OHN2S3Nrb1R5MHVVVWd2emN4Snl5OUtVY2hOTEVyT3lNeExWeWpMekFaUlNZbDVLUUlNdFZlNkZld0IiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgaGlnaCBzY2hvb2wgbWFyY2hpbmcgYmFuZCBpbiBOb3J0aCBDYXJvbGluYT8iLCJsayI6ImN3WEIwUW5BTUFnRndEMzY5UWJwTXNhRVBDRlJVS0hyOS01NVAwckRDczJGc2FwQjIwUXBJdzZ1cE5KOFk0aFBtTU1qbTFESk9PYnlBdyIsImJzIjoiYzUyUExiUENNQkJGNTltb3B4aW02am8wNVVNQkZhQ1JvTGZ0MGdUU0xKTUVPaWotT2lVODhaQmdkLTg1dTFmZDFYS3ZLY0lFUk0wb09VUm8wMmlFU290WXRPUXJiVnlEa2x3TjQ3QVZIelhXNU1VYVIwVy15aGJkUndLWEJOV2ZRSzNWYUs4RjVEbnhMYmNsLXdBNXZIUlBhR2RPdmFESWg5bmczX3FhcGltaGptcnlhdUZDOUplV1hReko2Q1NDckpXTzAtbTNYMEtSVDdKeDl5bW1STTAyZ3B0YzBIREVtVXlOZ19pLS1EUFJwd21WV01zTnYzTkZQcy1tOVJmZzc4OEQiLCJpZCI6ImZjX0p4Q2phdlhsQV9MVzVOb1A0NEdBNlFVXzcifQ%3D%3D"
+  },
+  {
+   "question": "Who are the members of the band Viking?",
+   "type": "ai_overview",
+   "page_token": "_UIkbHicHZBBbuIwFEDVy3RZcFGoQEKVUpKUzuCpHX8HvKkcGzCxY4fBTVp2c5c5VU9T1N1bPT29f__d0duvm97E2J3no9EwDHeHEA5ud6dCO5LnT69GSjpXS2Xn04cpetyrRfa-Sp9Oq5RA1_ElHZcsl6pKmh17eSUbfq7sR6usIxKipReaiyJE4k0lsqSq0UtkDS3kOF9rb_zaudPWdhh4KkXjjEaQgNcRjghJn_ZbMEFXSa74zEGLwtW9LHMOooLhT4mqHehO2q4UE-xKwNO6yC7cJveaq6ieccFybmiGguDqU3HTs4048goXv5k7Xbkjnk4EzLAADDTjSI8_0szoX7sMn7Ybsa2zfM9yhVg7I3hJnwkTlNNwJEAvqnEtLzS5thqJRL9u3Gu9NJ6itAGbMFXEdH1JV2K43at-Mbn9-bl427dx3v0Nh29MoYV2",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=_UIkbHicHZBBbuIwFEDVy3RZcFGoQEKVUpKUzuCpHX8HvKkcGzCxY4fBTVp2c5c5VU9T1N1bPT29f__d0duvm97E2J3no9EwDHeHEA5ud6dCO5LnT69GSjpXS2Xn04cpetyrRfa-Sp9Oq5RA1_ElHZcsl6pKmh17eSUbfq7sR6usIxKipReaiyJE4k0lsqSq0UtkDS3kOF9rb_zaudPWdhh4KkXjjEaQgNcRjghJn_ZbMEFXSa74zEGLwtW9LHMOooLhT4mqHehO2q4UE-xKwNO6yC7cJveaq6ieccFybmiGguDqU3HTs4048goXv5k7Xbkjnk4EzLAADDTjSI8_0szoX7sMn7Ybsa2zfM9yhVg7I3hJnwkTlNNwJEAvqnEtLzS5thqJRL9u3Gu9NJ6itAGbMFXEdH1JV2K43at-Mbn9-bl427dx3v0Nh29MoYV2",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFYyNDJOVWhhTFROUFJXZFdiMjEzWW5JeFlUaFVMVWsyTVVZM1ZGbzJkelZsU21KVGIydHBWVTVQY1VrdGNsOUNha2g1U0Y5V1JVRnVUMUl5Vm1SMU0yeDFZelEyZDNSTU16UXlTMWRaWVcxVmRqRnBNV3c1V21GNFVSSVhTbmhEYW1GMldHeEJYMHhYTlU1dlVEUTBSMEUyVVZVYUlrRkVjM0k1WmxGcFpWaHdVM2h4ZHpaMFNVeG9kbXA1T0RGT09HVmhVVU5DYm5jIiwiZmN2IjoiMyIsImVpIjoiSnhDamF2WGxBX0xXNU5vUDQ0R0E2UVUiLCJxYyI6ImMtTlN6OHN2S3Nrb1R5MHVVVWd2emN4Snl5OUtVY2hOTEVyT3lNeExWeWpMekFaUlNZbDVLUUlNdFZlNkZld0IiLCJxdWVzdGlvbiI6IldobyBhcmUgdGhlIG1lbWJlcnMgb2YgdGhlIGJhbmQgVmlraW5nPyIsImxrIjoiR2hadFpXMWlaWEp6SUc5bUlIWnBhMmx1WnlCaVlXNWsiLCJicyI6ImM1MlBMYlBDTUJCRjU5bW9weGltNmpvMDVVTUJGYUNSb0xmdDBnVFNMSk1FT2lqLU9pVTg4WkJnZC04NXUxZmQxWEt2S2NJRVJNMG9PVVJvMDJpRVNvdFl0T1FyYlZ5RGtsd040N0FWSHpYVzVNVWFSMFcteWhiZFJ3S1hCTldmUUszVmFLOEY1RG54TGJjbC13QTV2SFJQYUdkT3ZhREloOW5nM19xYXBpbWhqbXJ5YXVGQzlKZVdYUXpKNkNTQ3JKV08wLW0zWDBLUlQ3Sng5eW1tUk0wMmdwdGMwSERFbVV5TmdfaS0tRFBScHdtVldNc052M05GUHMtbTlSZmc3ODhEIiwiaWQiOiJmY19KeENqYXZYbEFfTFc1Tm9QNDRHQTZRVV83In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFYyNDJOVWhhTFROUFJXZFdiMjEzWW5JeFlUaFVMVWsyTVVZM1ZGbzJkelZsU21KVGIydHBWVTVQY1VrdGNsOUNha2g1U0Y5V1JVRnVUMUl5Vm1SMU0yeDFZelEyZDNSTU16UXlTMWRaWVcxVmRqRnBNV3c1V21GNFVSSVhTbmhEYW1GMldHeEJYMHhYTlU1dlVEUTBSMEUyVVZVYUlrRkVjM0k1WmxGcFpWaHdVM2h4ZHpaMFNVeG9kbXA1T0RGT09HVmhVVU5DYm5jIiwiZmN2IjoiMyIsImVpIjoiSnhDamF2WGxBX0xXNU5vUDQ0R0E2UVUiLCJxYyI6ImMtTlN6OHN2S3Nrb1R5MHVVVWd2emN4Snl5OUtVY2hOTEVyT3lNeExWeWpMekFaUlNZbDVLUUlNdFZlNkZld0IiLCJxdWVzdGlvbiI6IldobyBhcmUgdGhlIG1lbWJlcnMgb2YgdGhlIGJhbmQgVmlraW5nPyIsImxrIjoiR2hadFpXMWlaWEp6SUc5bUlIWnBhMmx1WnlCaVlXNWsiLCJicyI6ImM1MlBMYlBDTUJCRjU5bW9weGltNmpvMDVVTUJGYUNSb0xmdDBnVFNMSk1FT2lqLU9pVTg4WkJnZC04NXUxZmQxWEt2S2NJRVJNMG9PVVJvMDJpRVNvdFl0T1FyYlZ5RGtsd040N0FWSHpYVzVNVWFSMFcteWhiZFJ3S1hCTldmUUszVmFLOEY1RG54TGJjbC13QTV2SFJQYUdkT3ZhREloOW5nM19xYXBpbWhqbXJ5YXVGQzlKZVdYUXpKNkNTQ3JKV08wLW0zWDBLUlQ3Sng5eW1tUk0wMmdwdGMwSERFbVV5TmdfaS0tRFBScHdtVldNc052M05GUHMtbTlSZmc3ODhEIiwiaWQiOiJmY19KeENqYXZYbEFfTFc1Tm9QNDRHQTZRVV83In0%3D"
+  },
+  {
+   "question": "What instruments are not allowed in marching bands?",
+   "type": "ai_overview",
+   "page_token": "2qHQPXicHdBbbptAFABQZTP5jA3YVFiyohAYKBbjMI-L4afCM2BsZoD4heEvW-gauqquplF3cHS-_qhj2_x9-l1fr_1lNZsNw_By6LqDKl9Ep2fFZWzFTBRK7QvRrOwftvFaibV_F-77WbgJ73vwyJwycsnb3uYTuUOLKAsiFqdqZL6zBcv1QT9w6qug8MiN82VWtnVDzeU7C8imbJakUM4t1kuUtX3I5tKIdf2ZW7hK5jiDEFHa4EXOe5OxNytjkcFP-AI78OPRQHHj2PxEKmb2U5pCLHcu2nK8kaiZyC5ZUCWnb9MoR4Mm6RVLAJVy5yfXzgcL4ERMx2Ueqrce0nEIKtZS57zmLJS3Apwjtt4eosntvQkFTcHya7kpffyZ7fJs76OKIWEw7STYI2HCcgKkOyacTOKk9Lf9iFlkM3MxlB5EiQWBADATHp2xGdHczx9yeK7EfW09_79e_6r0ddWfu8M_g6uLSg",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=2qHQPXicHdBbbptAFABQZTP5jA3YVFiyohAYKBbjMI-L4afCM2BsZoD4heEvW-gauqquplF3cHS-_qhj2_x9-l1fr_1lNZsNw_By6LqDKl9Ep2fFZWzFTBRK7QvRrOwftvFaibV_F-77WbgJ73vwyJwycsnb3uYTuUOLKAsiFqdqZL6zBcv1QT9w6qug8MiN82VWtnVDzeU7C8imbJakUM4t1kuUtX3I5tKIdf2ZW7hK5jiDEFHa4EXOe5OxNytjkcFP-AI78OPRQHHj2PxEKmb2U5pCLHcu2nK8kaiZyC5ZUCWnb9MoR4Mm6RVLAJVy5yfXzgcL4ERMx2Ueqrce0nEIKtZS57zmLJS3Apwjtt4eosntvQkFTcHya7kpffyZ7fJs76OKIWEw7STYI2HCcgKkOyacTOKk9Lf9iFlkM3MxlB5EiQWBADATHp2xGdHczx9yeK7EfW09_79e_6r0ddWfu8M_g6uLSg",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFYyNDJOVWhhTFROUFJXZFdiMjEzWW5JeFlUaFVMVWsyTVVZM1ZGbzJkelZsU21KVGIydHBWVTVQY1VrdGNsOUNha2g1U0Y5V1JVRnVUMUl5Vm1SMU0yeDFZelEyZDNSTU16UXlTMWRaWVcxVmRqRnBNV3c1V21GNFVSSVhTbmhEYW1GMldHeEJYMHhYTlU1dlVEUTBSMEUyVVZVYUlrRkVjM0k1WmxGcFpWaHdVM2h4ZHpaMFNVeG9kbXA1T0RGT09HVmhVVU5DYm5jIiwiZmN2IjoiMyIsImVpIjoiSnhDamF2WGxBX0xXNU5vUDQ0R0E2UVUiLCJxYyI6ImMtTlN6OHN2S3Nrb1R5MHVVVWd2emN4Snl5OUtVY2hOTEVyT3lNeExWeWpMekFaUlNZbDVLUUlNdFZlNkZld0IiLCJxdWVzdGlvbiI6IldoYXQgaW5zdHJ1bWVudHMgYXJlIG5vdCBhbGxvd2VkIGluIG1hcmNoaW5nIGJhbmRzPyIsImxrIjoiR2pGM2FHRjBJR2x1YzNSeWRXMWxiblJ6SUdGeVpTQnViM1FnWVd4c2IzZGxaQ0JwYmlCdFlYSmphR2x1WnlCaVlXNWsiLCJicyI6ImM1MlBMYlBDTUJCRjU5bW9weGltNmpvMDVVTUJGYUNSb0xmdDBnVFNMSk1FT2lqLU9pVTg4WkJnZC04NXUxZmQxWEt2S2NJRVJNMG9PVVJvMDJpRVNvdFl0T1FyYlZ5RGtsd040N0FWSHpYVzVNVWFSMFcteWhiZFJ3S1hCTldmUUszVmFLOEY1RG54TGJjbC13QTV2SFJQYUdkT3ZhREloOW5nM19xYXBpbWhqbXJ5YXVGQzlKZVdYUXpKNkNTQ3JKV08wLW0zWDBLUlQ3Sng5eW1tUk0wMmdwdGMwSERFbVV5TmdfaS0tRFBScHdtVldNc052M05GUHMtbTlSZmc3ODhEIiwiaWQiOiJmY19KeENqYXZYbEFfTFc1Tm9QNDRHQTZRVV83In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFYyNDJOVWhhTFROUFJXZFdiMjEzWW5JeFlUaFVMVWsyTVVZM1ZGbzJkelZsU21KVGIydHBWVTVQY1VrdGNsOUNha2g1U0Y5V1JVRnVUMUl5Vm1SMU0yeDFZelEyZDNSTU16UXlTMWRaWVcxVmRqRnBNV3c1V21GNFVSSVhTbmhEYW1GMldHeEJYMHhYTlU1dlVEUTBSMEUyVVZVYUlrRkVjM0k1WmxGcFpWaHdVM2h4ZHpaMFNVeG9kbXA1T0RGT09HVmhVVU5DYm5jIiwiZmN2IjoiMyIsImVpIjoiSnhDamF2WGxBX0xXNU5vUDQ0R0E2UVUiLCJxYyI6ImMtTlN6OHN2S3Nrb1R5MHVVVWd2emN4Snl5OUtVY2hOTEVyT3lNeExWeWpMekFaUlNZbDVLUUlNdFZlNkZld0IiLCJxdWVzdGlvbiI6IldoYXQgaW5zdHJ1bWVudHMgYXJlIG5vdCBhbGxvd2VkIGluIG1hcmNoaW5nIGJhbmRzPyIsImxrIjoiR2pGM2FHRjBJR2x1YzNSeWRXMWxiblJ6SUdGeVpTQnViM1FnWVd4c2IzZGxaQ0JwYmlCdFlYSmphR2x1WnlCaVlXNWsiLCJicyI6ImM1MlBMYlBDTUJCRjU5bW9weGltNmpvMDVVTUJGYUNSb0xmdDBnVFNMSk1FT2lqLU9pVTg4WkJnZC04NXUxZmQxWEt2S2NJRVJNMG9PVVJvMDJpRVNvdFl0T1FyYlZ5RGtsd040N0FWSHpYVzVNVWFSMFcteWhiZFJ3S1hCTldmUUszVmFLOEY1RG54TGJjbC13QTV2SFJQYUdkT3ZhREloOW5nM19xYXBpbWhqbXJ5YXVGQzlKZVdYUXpKNkNTQ3JKV08wLW0zWDBLUlQ3Sng5eW1tUk0wMmdwdGMwSERFbVV5TmdfaS0tRFBScHdtVldNc052M05GUHMtbTlSZmc3ODhEIiwiaWQiOiJmY19KeENqYXZYbEFfTFc1Tm9QNDRHQTZRVV83In0%3D"
+  },
+  {
+   "question": "Do you get paid for being in a college marching band?",
+   "type": "ai_overview",
+   "page_token": "P9yhanicHZBdbqMwGADVy_SxwSR0lUhRJQqYEtnIX7BJ_LICQ8KPDTRFheStV-gZ9lR7mkZ9H41G8_VP1137_-G7GsfhY7NYTNP0dO77sy6fVG8W2ce1UwuVaZ1nqt08_3lGLye19T-V-3pRLuPDIDywEkyugOmO4_lGG4IyT9b7VLIYrybW6J6HwFMezSqt5iJdZ9JmqzjVRGFiJ15wOF7Rfn-ThOBIEy0s4PMy8ysHkJjLg3RTPIwQuqgQEB07agnh0rs_UGK9yxEZkzZAuaZhnEDHU99SNWLCLkAJWtGwaJgRknBh7uySWNGr5NOYt-u3ONRRYZwq4bOkXSQBSwc6N4qx06Ve4JW-UyemmmioHNW4Ntjjxa-KXenT9-NBHnM_OCWBQolZM-pByBIJAvqacbipRhvejiwNAYM_N1kjVnDQb2UX7e7ljgp0W5jpWkyPJ_W5XT7-vt7-PZlxM1z68w9Elows",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=P9yhanicHZBdbqMwGADVy_SxwSR0lUhRJQqYEtnIX7BJ_LICQ8KPDTRFheStV-gZ9lR7mkZ9H41G8_VP1137_-G7GsfhY7NYTNP0dO77sy6fVG8W2ce1UwuVaZ1nqt08_3lGLye19T-V-3pRLuPDIDywEkyugOmO4_lGG4IyT9b7VLIYrybW6J6HwFMezSqt5iJdZ9JmqzjVRGFiJ15wOF7Rfn-ThOBIEy0s4PMy8ysHkJjLg3RTPIwQuqgQEB07agnh0rs_UGK9yxEZkzZAuaZhnEDHU99SNWLCLkAJWtGwaJgRknBh7uySWNGr5NOYt-u3ONRRYZwq4bOkXSQBSwc6N4qx06Ve4JW-UyemmmioHNW4Ntjjxa-KXenT9-NBHnM_OCWBQolZM-pByBIJAvqacbipRhvejiwNAYM_N1kjVnDQb2UX7e7ljgp0W5jpWkyPJ_W5XT7-vt7-PZlxM1z68w9Elows",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFYyNDJOVWhhTFROUFJXZFdiMjEzWW5JeFlUaFVMVWsyTVVZM1ZGbzJkelZsU21KVGIydHBWVTVQY1VrdGNsOUNha2g1U0Y5V1JVRnVUMUl5Vm1SMU0yeDFZelEyZDNSTU16UXlTMWRaWVcxVmRqRnBNV3c1V21GNFVSSVhTbmhEYW1GMldHeEJYMHhYTlU1dlVEUTBSMEUyVVZVYUlrRkVjM0k1WmxGcFpWaHdVM2h4ZHpaMFNVeG9kbXA1T0RGT09HVmhVVU5DYm5jIiwiZmN2IjoiMyIsImVpIjoiSnhDamF2WGxBX0xXNU5vUDQ0R0E2UVUiLCJxYyI6ImMtTlN6OHN2S3Nrb1R5MHVVVWd2emN4Snl5OUtVY2hOTEVyT3lNeExWeWpMekFaUlNZbDVLUUlNdFZlNkZld0IiLCJxdWVzdGlvbiI6IkRvIHlvdSBnZXQgcGFpZCBmb3IgYmVpbmcgaW4gYSBjb2xsZWdlIG1hcmNoaW5nIGJhbmQ/IiwibGsiOiJHalJrYnlCNWIzVWdaMlYwSUhCaGFXUWdabTl5SUdKbGFXNW5JR2x1SUdFZ1kyOXNiR1ZuWlNCdFlYSmphR2x1WnlCaVlXNWsiLCJicyI6ImM1MlBMYlBDTUJCRjU5bW9weGltNmpvMDVVTUJGYUNSb0xmdDBnVFNMSk1FT2lqLU9pVTg4WkJnZC04NXUxZmQxWEt2S2NJRVJNMG9PVVJvMDJpRVNvdFl0T1FyYlZ5RGtsd040N0FWSHpYVzVNVWFSMFcteWhiZFJ3S1hCTldmUUszVmFLOEY1RG54TGJjbC13QTV2SFJQYUdkT3ZhREloOW5nM19xYXBpbWhqbXJ5YXVGQzlKZVdYUXpKNkNTQ3JKV08wLW0zWDBLUlQ3Sng5eW1tUk0wMmdwdGMwSERFbVV5TmdfaS0tRFBScHdtVldNc052M05GUHMtbTlSZmc3ODhEIiwiaWQiOiJmY19KeENqYXZYbEFfTFc1Tm9QNDRHQTZRVV83In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFYyNDJOVWhhTFROUFJXZFdiMjEzWW5JeFlUaFVMVWsyTVVZM1ZGbzJkelZsU21KVGIydHBWVTVQY1VrdGNsOUNha2g1U0Y5V1JVRnVUMUl5Vm1SMU0yeDFZelEyZDNSTU16UXlTMWRaWVcxVmRqRnBNV3c1V21GNFVSSVhTbmhEYW1GMldHeEJYMHhYTlU1dlVEUTBSMEUyVVZVYUlrRkVjM0k1WmxGcFpWaHdVM2h4ZHpaMFNVeG9kbXA1T0RGT09HVmhVVU5DYm5jIiwiZmN2IjoiMyIsImVpIjoiSnhDamF2WGxBX0xXNU5vUDQ0R0E2UVUiLCJxYyI6ImMtTlN6OHN2S3Nrb1R5MHVVVWd2emN4Snl5OUtVY2hOTEVyT3lNeExWeWpMekFaUlNZbDVLUUlNdFZlNkZld0IiLCJxdWVzdGlvbiI6IkRvIHlvdSBnZXQgcGFpZCBmb3IgYmVpbmcgaW4gYSBjb2xsZWdlIG1hcmNoaW5nIGJhbmQ%2FIiwibGsiOiJHalJrYnlCNWIzVWdaMlYwSUhCaGFXUWdabTl5SUdKbGFXNW5JR2x1SUdFZ1kyOXNiR1ZuWlNCdFlYSmphR2x1WnlCaVlXNWsiLCJicyI6ImM1MlBMYlBDTUJCRjU5bW9weGltNmpvMDVVTUJGYUNSb0xmdDBnVFNMSk1FT2lqLU9pVTg4WkJnZC04NXUxZmQxWEt2S2NJRVJNMG9PVVJvMDJpRVNvdFl0T1FyYlZ5RGtsd040N0FWSHpYVzVNVWFSMFcteWhiZFJ3S1hCTldmUUszVmFLOEY1RG54TGJjbC13QTV2SFJQYUdkT3ZhREloOW5nM19xYXBpbWhqbXJ5YXVGQzlKZVdYUXpKNkNTQ3JKV08wLW0zWDBLUlQ3Sng5eW1tUk0wMmdwdGMwSERFbVV5TmdfaS0tRFBScHdtVldNc052M05GUHMtbTlSZmc3ODhEIiwiaWQiOiJmY19KeENqYXZYbEFfTFc1Tm9QNDRHQTZRVV83In0%3D"
+  }
+ ],
+ "ai_overview": {
+  "page_token": "X4H8vHiczZbdcqJKEIAf4DzHcpNERNFoqqitmXGiEP9m8WfNDYWAA4JiBCXuxVaddzlPtU-zA2iCivFkL06drsKZge6epqc_2r__8Zyl--uvn3YYroIHno-iqEB9n3pWwfAXvB7slgY_871gbdhfqSdtAs72JGvJ7bZSmTMCqchZjqS8orm-_e4BrT2udP2-KDZBlQy5xFzSpnpgzZn313nAazz7cb-UG2xRCArWsqCttvevvVazquNCqVgqF3q8vmAK4D8TBAig7BeRZHFRmv_OHaUAA6Bk_Kc-cUYlXhCAKUzXkOS7IjJTjUdAUBpZI_pxN5myiZ5qNOKH-YKyDyBN9CBM_AEVgsuGuZJGiuje94e6OPcuyjqIpXPVhMU4OY5CBqgf7VN8HskEYPkoYpJuQmEE5tGMYozhB3GzhAwjWHmKLT5QY_JE5EG0D6HTGAMZ8CZlRVvkp2s2CLxj2EYyWQdxLaNBvei3WmsX9_ukqI0GnWA6epWX1WaE_Wl7THhjyvQ8XzctU7O14tdkLZSESrFevq_dJhAZwRtFQZai1UJE99ozEsJaoV2AwgEhlhs5J0ss22yNZHAucF9muQc8AYfDwG8JZjvIKJOu4X60AfRJXLcZ38AnRpKwwx0rqV_j_UjeQ4p3OEfoNDSGkJMYwXRrmA3voEIpzDFlYpy94VkVsn2jdEZP6ScnlYQJcrNbREdPWZCqjeNExQSMDJwGcFqN-GBODvHS-BAPeUfw6DHOIuTQOOtsW6oyRYXQp9gc7s-AArh_Oaicgu-cvnUij8wfnMif-0rsRb7ygUh1DqyclP4RMveqO1U2L-pg7lbMrqCDR3E9f_kuRjbJR8RfTD_RaYz_E0TOoQ8N97YXILLiyXWIKPvcXexD6fTQhxyYQgTJBYjkFKKcPmSlGpk-dAoRUjMQXelDn4UIfQhR-jHKhSh2kAeRewGipA8dQaQe96EjiN760DtEf9KH0B_1oYQpKx2Om9JmTi82p0faLLVabfTc_dboYD1sw5Kodt1e4P-Irjan2SJ8WOimd6s55gMsKeHOvNXYDf_BMrkX6Uup1PXXoR1ZQXjT3DjezF-bNx2d_al0lvRm5LjxAPWlyTS5hbf2paIu9tsbRZiYc1tsyxMD0HqlWhYUOlIc0yWE9lV5OCijzki9J21huHIofqpXu7quOqpPt4JRLtc6q9pYBLu7cqvmWatFPfyGKjsBD-2mXntxtqFWIygMlvpGGWm1joyDzewZ9R57vqDU79rNR_M1okk8gUTCluMS3MYtwi3WhsTORqSgS8CYshJEE0YGK23ksytiVxUQDLnA0DUr2ErF8nRmsXwZxtSsiyWBW9Bwt5JEgQuWa0n4DYHTQDc",
+  "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=X4H8vHiczZbdcqJKEIAf4DzHcpNERNFoqqitmXGiEP9m8WfNDYWAA4JiBCXuxVaddzlPtU-zA2iCivFkL06drsKZge6epqc_2r__8Zyl--uvn3YYroIHno-iqEB9n3pWwfAXvB7slgY_871gbdhfqSdtAs72JGvJ7bZSmTMCqchZjqS8orm-_e4BrT2udP2-KDZBlQy5xFzSpnpgzZn313nAazz7cb-UG2xRCArWsqCttvevvVazquNCqVgqF3q8vmAK4D8TBAig7BeRZHFRmv_OHaUAA6Bk_Kc-cUYlXhCAKUzXkOS7IjJTjUdAUBpZI_pxN5myiZ5qNOKH-YKyDyBN9CBM_AEVgsuGuZJGiuje94e6OPcuyjqIpXPVhMU4OY5CBqgf7VN8HskEYPkoYpJuQmEE5tGMYozhB3GzhAwjWHmKLT5QY_JE5EG0D6HTGAMZ8CZlRVvkp2s2CLxj2EYyWQdxLaNBvei3WmsX9_ukqI0GnWA6epWX1WaE_Wl7THhjyvQ8XzctU7O14tdkLZSESrFevq_dJhAZwRtFQZai1UJE99ozEsJaoV2AwgEhlhs5J0ss22yNZHAucF9muQc8AYfDwG8JZjvIKJOu4X60AfRJXLcZ38AnRpKwwx0rqV_j_UjeQ4p3OEfoNDSGkJMYwXRrmA3voEIpzDFlYpy94VkVsn2jdEZP6ScnlYQJcrNbREdPWZCqjeNExQSMDJwGcFqN-GBODvHS-BAPeUfw6DHOIuTQOOtsW6oyRYXQp9gc7s-AArh_Oaicgu-cvnUij8wfnMif-0rsRb7ygUh1DqyclP4RMveqO1U2L-pg7lbMrqCDR3E9f_kuRjbJR8RfTD_RaYz_E0TOoQ8N97YXILLiyXWIKPvcXexD6fTQhxyYQgTJBYjkFKKcPmSlGpk-dAoRUjMQXelDn4UIfQhR-jHKhSh2kAeRewGipA8dQaQe96EjiN760DtEf9KH0B_1oYQpKx2Om9JmTi82p0faLLVabfTc_dboYD1sw5Kodt1e4P-Irjan2SJ8WOimd6s55gMsKeHOvNXYDf_BMrkX6Uup1PXXoR1ZQXjT3DjezF-bNx2d_al0lvRm5LjxAPWlyTS5hbf2paIu9tsbRZiYc1tsyxMD0HqlWhYUOlIc0yWE9lV5OCijzki9J21huHIofqpXu7quOqpPt4JRLtc6q9pYBLu7cqvmWatFPfyGKjsBD-2mXntxtqFWIygMlvpGGWm1joyDzewZ9R57vqDU79rNR_M1okk8gUTCluMS3MYtwi3WhsTORqSgS8CYshJEE0YGK23ksytiVxUQDLnA0DUr2ErF8nRmsXwZxtSsiyWBW9Bwt5JEgQuWa0n4DYHTQDc"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Northwest Guilford Marching Viking Band",
+   "link": "https://thehollywoodchristmasparade.org/band-and-pageantry/northwest-guilford-marching-viking-band/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmwEB6zswFcD56lhipevBtZXP2otlMuJNpyq7tYvWKBiOoGOrLDd5rU3Du2TGy1nsFSet5iFVMVr_2Zv2XhLOMle85yOTG6oXUmn4mWvdwVDwSFohmlHbqeTucIF4SzjSEYF-UCJa2V0wkDvq22HQ0rqZ4CCIN2KRcBi4covHvl5VHCk8CYsd6tKTNHeSZdiSBNVNObUuN5soW68_Lg&ved=2ahUKEwi1leCp6uSWAxVyK1kFHeMAIF0QFnoECC8QAQ&uoh=1",
+   "displayed_link": "https://thehollywoodchristmasparade.org \u203a northwest-g...",
+   "favicon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAABQBACdASocABIAPtE-tFooIigoFAEAGgljALboqcGEgPd6Df6D3g_nw_GAAP72B-DStIJps6Nv88VefS2yoCW2eSqPAIBn8ebA6k2CL9wyhHFO9lZQjo2uSo0h0qR12uxixw6wj_T4q0BDzOYAJG-9vEgDTXq7DqE8P4fHh_12YMhr9KAAAA.webp",
+   "snippet": "The Northwest Guilford Marching Viking Band is part of a comprehensive band program located in Greensboro, North Carolina. The program consists of a Concert ...",
+   "snippet_highlighted_words": [
+    "Northwest Guilford Marching Viking Band"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The Northwest Guilford Marching Viking Band is part of a comprehensive band program located in Greensboro, North Carolina. The program consists of a Concert ...",
+     "source_info_link": "https://thehollywoodchristmasparade.org/band-and-pageantry/northwest-guilford-marching-viking-band/",
+     "icon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAABQBACdASocABIAPtE-tFooIigoFAEAGgljALboqcGEgPd6Df6D3g_nw_GAAP72B-DStIJps6Nv88VefS2yoCW2eSqPAIBn8ebA6k2CL9wyhHFO9lZQjo2uSo0h0qR12uxixw6wj_T4q0BDzOYAJG-9vEgDTXq7DqE8P4fHh_12YMhr9KAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESmwEB6zswFcD56lhipevBtZXP2otlMuJNpyq7tYvWKBiOoGOrLDd5rU3Du2TGy1nsFSet5iFVMVr_2Zv2XhLOMle85yOTG6oXUmn4mWvdwVDwSFohmlHbqeTucIF4SzjSEYF-UCJa2V0wkDvq22HQ0rqZ4CCIN2KRcBi4covHvl5VHCk8CYsd6tKTNHeSZdiSBNVNObUuN5soW68_Lg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESmwEB6zswFcD56lhipevBtZXP2otlMuJNpyq7tYvWKBiOoGOrLDd5rU3Du2TGy1nsFSet5iFVMVr_2Zv2XhLOMle85yOTG6oXUmn4mWvdwVDwSFohmlHbqeTucIF4SzjSEYF-UCJa2V0wkDvq22HQ0rqZ4CCIN2KRcBi4covHvl5VHCk8CYsd6tKTNHeSZdiSBNVNObUuN5soW68_Lg",
+   "source": "The Hollywood Christmas Parade",
+   "read_more_link": "https://thehollywoodchristmasparade.org/band-and-pageantry/northwest-guilford-marching-viking-band/#:~:text=The%20Northwest%20Guilford%20Marching%20Viking,program%20consists%20of%20a%20Concert"
+  },
+  {
+   "position": 2,
+   "title": "Northwest Guilford Viking Band | Oak Ridge NC",
+   "link": "https://www.facebook.com/61578845034979/?locale=he_IL",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbQHrOzAVbny5WrTU26Bc3T6qqKle9N3fxtzDmXEaVP_EKCRL400WPCtviWda6vx_1VhSqHGMyHXN-F-IUPFa0VMtoFyjOTKWbtueEmOSmUzr-AF2UptfQ-Yqj2iA7bfT0bUFjxkkGeipI203mBM&ved=2ahUKEwi1leCp6uSWAxVyK1kFHeMAIF0QFnoECCoQAQ&uoh=1",
+   "displayed_link": "9.8K+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "snippet": "The outstanding students of the Northwest Guilford Marching Viking Band are working incredibly hard to make this a truly special season, which is why we ...",
+   "snippet_highlighted_words": [
+    "Northwest Guilford Marching Viking Band"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The outstanding students of the Northwest Guilford Marching Viking Band are working incredibly hard to make this a truly special season, which is why we ...",
+     "source_info_link": "https://www.facebook.com/61578845034979/?locale=he_IL",
+     "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESbQHrOzAVbny5WrTU26Bc3T6qqKle9N3fxtzDmXEaVP_EKCRL400WPCtviWda6vx_1VhSqHGMyHXN-F-IUPFa0VMtoFyjOTKWbtueEmOSmUzr-AF2UptfQ-Yqj2iA7bfT0bUFjxkkGeipI203mBM&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESbQHrOzAVbny5WrTU26Bc3T6qqKle9N3fxtzDmXEaVP_EKCRL400WPCtviWda6vx_1VhSqHGMyHXN-F-IUPFa0VMtoFyjOTKWbtueEmOSmUzr-AF2UptfQ-Yqj2iA7bfT0bUFjxkkGeipI203mBM",
+   "source": "Facebook \u00b7 Northwest Guilford Viking Band",
+   "read_more_link": "https://www.facebook.com/61578845034979/?locale=he_IL#:~:text=%F0%9F%94%A5%20The%20outstanding%20students%20of,your%20help%20in%20supporting%20them!"
+  },
+  {
+   "position": 3,
+   "title": "Northwest Vikings Guilford High School Nc Marching Band",
+   "link": "https://www.tiktok.com/discover/northwest-vikings-guilford-high-school-nc-marching-band",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjwEB6zswFaH42L1NL0Gama9B70ISGt594kYWBe3wqMMh7ZanVhj7iKjo-_mGajIJEj8aBIkie0qWbTUKoEaiwtMSNP7Z19fKh0qxACVHytFeOwW7BhgMWH-9Nrl2hBjrEs1SXxnb2vPYxy8uiIgiLPSI6lk_42JT_0qfwVUdBrHtXF4cr3iNFGr8BCM3E6f7Yg&ved=2ahUKEwi1leCp6uSWAxVyK1kFHeMAIF0QFnoECCsQAQ&uoh=1",
+   "displayed_link": "https://www.tiktok.com \u203a Discover",
+   "favicon": "https://serpapi.com/images/i/UklGRt4AAABXRUJQVlA4INIAAAAQBQCdASocABwAPtEwtFooIigoGAEAGglqAM7t3At_tZAJkQvdasA_TiHmb7n9FyAAAP7-zMa8xfDsmgP7xucvFaqjgucV4bdksbH7T5hWZ7Spp4joaSpJkn8f-b3-hzHaYTR3orLW5n-k7-6LIWmkysnxryZWSCxzHX2r67D70GXzxOu61ckD56q8XtZWK_x58R4ZRGkSqRdrXLaacnMarnQXOhN4g7KbuRJ_RBQPlFto--LuPK0SDJ5nzs4aUXU65BLOB25fWHRS9zx-6YMAAAA.webp",
+   "date": "Aug 31, 2026",
+   "snippet": "TikTok video from Colt (@_colt__): Experience. 40451w ago. _colt__. Colt. Northwest Guilford marching Viking band 2022 show titled Beetlejuice ...",
+   "snippet_highlighted_words": [
+    "Northwest Guilford marching Viking band"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "TikTok video from Colt (@_colt__): Experience. 40451w ago. _colt__. Colt. Northwest Guilford marching Viking band 2022 show titled Beetlejuice ...",
+     "source_info_link": "https://www.tiktok.com/discover/northwest-vikings-guilford-high-school-nc-marching-band",
+     "icon": "https://serpapi.com/images/i/UklGRt4AAABXRUJQVlA4INIAAAAQBQCdASocABwAPtEwtFooIigoGAEAGglqAM7t3At_tZAJkQvdasA_TiHmb7n9FyAAAP7-zMa8xfDsmgP7xucvFaqjgucV4bdksbH7T5hWZ7Spp4joaSpJkn8f-b3-hzHaYTR3orLW5n-k7-6LIWmkysnxryZWSCxzHX2r67D70GXzxOu61ckD56q8XtZWK_x58R4ZRGkSqRdrXLaacnMarnQXOhN4g7KbuRJ_RBQPlFto--LuPK0SDJ5nzs4aUXU65BLOB25fWHRS9zx-6YMAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESjwEB6zswFaH42L1NL0Gama9B70ISGt594kYWBe3wqMMh7ZanVhj7iKjo-_mGajIJEj8aBIkie0qWbTUKoEaiwtMSNP7Z19fKh0qxACVHytFeOwW7BhgMWH-9Nrl2hBjrEs1SXxnb2vPYxy8uiIgiLPSI6lk_42JT_0qfwVUdBrHtXF4cr3iNFGr8BCM3E6f7Yg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESjwEB6zswFaH42L1NL0Gama9B70ISGt594kYWBe3wqMMh7ZanVhj7iKjo-_mGajIJEj8aBIkie0qWbTUKoEaiwtMSNP7Z19fKh0qxACVHytFeOwW7BhgMWH-9Nrl2hBjrEs1SXxnb2vPYxy8uiIgiLPSI6lk_42JT_0qfwVUdBrHtXF4cr3iNFGr8BCM3E6f7Yg",
+   "source": "TikTok",
+   "read_more_link": "https://www.tiktok.com/discover/northwest-vikings-guilford-high-school-nc-marching-band#:~:text=40451w%20ago,band%202022%20show%20titled%20Beetlejuice"
+  },
+  {
+   "position": 4,
+   "title": "Northwest Guilford High School",
+   "link": "https://en.wikipedia.org/wiki/Northwest_Guilford_High_School",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHrOzAVSVPnLLOyIRUgJi6nslO6VV0nGC8X7tS_iV3gC535-W7M1zjk-DPmu6yNxgbIzNKodNw3UJK2hUJcu0Ir1_yBmVyPwgzGiQfQS8usCGgNlj5ukDXsJu0IC63k6JL5PMNnjrlErMRXzebEgBBDiuAg&ved=2ahUKEwi1leCp6uSWAxVyK1kFHeMAIF0QFnoECC0QAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Northwest_Guilford_H...",
+   "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+   "snippet": "\u2191 \"Northwest Guilford Marching Viking Band\". The Hollywood Christmas Parade. Retrieved September 18, 2024. \u2191 \"2023 Archives |\". Retrieved September 18 ...",
+   "snippet_highlighted_words": [
+    "Northwest Guilford Marching Viking Band"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "\u2191 \"Northwest Guilford Marching Viking Band\". The Hollywood Christmas Parade. Retrieved September 18, 2024. \u2191 \"2023 Archives |\". Retrieved September 18 ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Northwest_Guilford_High_School",
+     "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdAHrOzAVSVPnLLOyIRUgJi6nslO6VV0nGC8X7tS_iV3gC535-W7M1zjk-DPmu6yNxgbIzNKodNw3UJK2hUJcu0Ir1_yBmVyPwgzGiQfQS8usCGgNlj5ukDXsJu0IC63k6JL5PMNnjrlErMRXzebEgBBDiuAg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdAHrOzAVSVPnLLOyIRUgJi6nslO6VV0nGC8X7tS_iV3gC535-W7M1zjk-DPmu6yNxgbIzNKodNw3UJK2hUJcu0Ir1_yBmVyPwgzGiQfQS8usCGgNlj5ukDXsJu0IC63k6JL5PMNnjrlErMRXzebEgBBDiuAg",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Northwest_Guilford_High_School#:~:text=%E2%86%91,%7C%22.%20Retrieved%20September%2018%2C%202024."
+  },
+  {
+   "position": 5,
+   "title": "Northwest Guilford Viking Band Alumni",
+   "link": "https://www.facebook.com/groups/135525949796720/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaAHrOzAVz1hNeZlkUssn9aQRuXfD9gdrXyxYlH1A8AUDqO14nxJrULhYZQ2uBo7OIHOlG2JLGqJ4fUcadOsmWzq6iA_01iyn64WUErm1fJC_USxOPbhRlX88QjAvPyBLN6gAajTaFJpD&ved=2ahUKEwi1leCp6uSWAxVyK1kFHeMAIF0QFnoECCcQAQ&uoh=1",
+   "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+   "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "snippet": "Are you an Alumnus of the Northwest Guilford Marching Viking Band of Greensboro, NC? If so, PLEASE join this group to stay up to date with all events,...",
+   "snippet_highlighted_words": [
+    "Northwest Guilford Marching Viking Band"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Are you an Alumnus of the Northwest Guilford Marching Viking Band of Greensboro, NC? If so, PLEASE join this group to stay up to date with all events,...",
+     "source_info_link": "https://www.facebook.com/groups/135525949796720/",
+     "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESaAHrOzAVz1hNeZlkUssn9aQRuXfD9gdrXyxYlH1A8AUDqO14nxJrULhYZQ2uBo7OIHOlG2JLGqJ4fUcadOsmWzq6iA_01iyn64WUErm1fJC_USxOPbhRlX88QjAvPyBLN6gAajTaFJpD&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESaAHrOzAVz1hNeZlkUssn9aQRuXfD9gdrXyxYlH1A8AUDqO14nxJrULhYZQ2uBo7OIHOlG2JLGqJ4fUcadOsmWzq6iA_01iyn64WUErm1fJC_USxOPbhRlX88QjAvPyBLN6gAajTaFJpD",
+   "source": "Facebook"
+  },
+  {
+   "position": 6,
+   "title": "Summit High School",
+   "link": "https://thehollywoodchristmasparade.org/band-and-pageantry/summit-high-school/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShgEB6zswFW099ICYfA3ysaxfxPYYMRpAMLAltzAkJFuZdb-MlLRgx8EEMZFek9m3KLLem_gcJyJmkoWCs6CMWAyaiaIMFyVHi_6mgsMOdjIprPb-R70C57KH2xCyGhUgoDQ4s2-TCeOx4riMuku864k9DAS-DhsXlFuhorkDKwsepCT7wURbrQ&ved=2ahUKEwi1leCp6uSWAxVyK1kFHeMAIF0QFnoECCkQAQ&uoh=1",
+   "displayed_link": "https://thehollywoodchristmasparade.org \u203a summit-high...",
+   "favicon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAABQBACdASocABIAPtE-tFooIigoFAEAGgljALboqcGEgPd6Df6D3g_nw_GAAP72B-DStIJps6Nv88VefS2yoCW2eSqPAIBn8ebA6k2CL9wyhHFO9lZQjo2uSo0h0qR12uxixw6wj_T4q0BDzOYAJG-9vEgDTXq7DqE8P4fHh_12YMhr9KAAAA.webp",
+   "snippet": "Northwest Guilford Marching Viking Band. The Northwest Guilford Marching Viking Band is part of a comprehensive band program located in Greensboro, North ...",
+   "snippet_highlighted_words": [
+    "Northwest Guilford Marching Viking Band",
+    "Northwest Guilford Marching Viking Band"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Northwest Guilford Marching Viking Band. The Northwest Guilford Marching Viking Band is part of a comprehensive band program located in Greensboro, North ...",
+     "source_info_link": "https://thehollywoodchristmasparade.org/band-and-pageantry/summit-high-school/",
+     "icon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAABQBACdASocABIAPtE-tFooIigoFAEAGgljALboqcGEgPd6Df6D3g_nw_GAAP72B-DStIJps6Nv88VefS2yoCW2eSqPAIBn8ebA6k2CL9wyhHFO9lZQjo2uSo0h0qR12uxixw6wj_T4q0BDzOYAJG-9vEgDTXq7DqE8P4fHh_12YMhr9KAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEShgEB6zswFW099ICYfA3ysaxfxPYYMRpAMLAltzAkJFuZdb-MlLRgx8EEMZFek9m3KLLem_gcJyJmkoWCs6CMWAyaiaIMFyVHi_6mgsMOdjIprPb-R70C57KH2xCyGhUgoDQ4s2-TCeOx4riMuku864k9DAS-DhsXlFuhorkDKwsepCT7wURbrQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEShgEB6zswFW099ICYfA3ysaxfxPYYMRpAMLAltzAkJFuZdb-MlLRgx8EEMZFek9m3KLLem_gcJyJmkoWCs6CMWAyaiaIMFyVHi_6mgsMOdjIprPb-R70C57KH2xCyGhUgoDQ4s2-TCeOx4riMuku864k9DAS-DhsXlFuhorkDKwsepCT7wURbrQ",
+   "source": "The Hollywood Christmas Parade",
+   "read_more_link": "https://thehollywoodchristmasparade.org/band-and-pageantry/summit-high-school/#:~:text=Northwest%20Guilford%20Marching%20Viking%20Band,located%20in%20Greensboro%2C%20North%20Carolina."
+  },
+  {
+   "position": 7,
+   "title": "Favorites",
+   "link": "https://www.youtube.com/playlist?list=FL49-AGe18TmFHpZ0RNIMkSQ",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHrOzAV7OpTk6uB9EtPU-0-3JXjPu1eMeOtlEI2xyXzbYCf0ygi7xlcucOlilL9ShLM2PG_tv6BsAQTHXYmWHeRpbEr4Na2WP_GsXH7osAqNPiQ5uR6RsQG32t20w8HhsAT1H79YZ_5KkAQt4iKa_7_VSR54Mw&ved=2ahUKEwi1leCp6uSWAxVyK1kFHeMAIF0QFnoECC4QAQ&uoh=1",
+   "displayed_link": "https://www.youtube.com \u203a playlist",
+   "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+   "snippet": "... festival. Chase Alfman. 146 views \u2022 12 years ago. 11:49 \u00b7 NORTHWEST GUILFORD MARCHING VIKING BAND THE BIRDS 2014. bgoodsmile1. 1.5K views \u2022 11 years ago. 4:12 ...",
+   "snippet_highlighted_words": [
+    "NORTHWEST GUILFORD MARCHING VIKING BAND"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "... festival. Chase Alfman. 146 views \u2022 12 years ago. 11:49 \u00b7 NORTHWEST GUILFORD MARCHING VIKING BAND THE BIRDS 2014. bgoodsmile1. 1.5K views \u2022 11 years ago. 4:12 ...",
+     "source_info_link": "https://www.youtube.com/playlist?list=FL49-AGe18TmFHpZ0RNIMkSQ",
+     "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdgHrOzAV7OpTk6uB9EtPU-0-3JXjPu1eMeOtlEI2xyXzbYCf0ygi7xlcucOlilL9ShLM2PG_tv6BsAQTHXYmWHeRpbEr4Na2WP_GsXH7osAqNPiQ5uR6RsQG32t20w8HhsAT1H79YZ_5KkAQt4iKa_7_VSR54Mw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdgHrOzAV7OpTk6uB9EtPU-0-3JXjPu1eMeOtlEI2xyXzbYCf0ygi7xlcucOlilL9ShLM2PG_tv6BsAQTHXYmWHeRpbEr4Na2WP_GsXH7osAqNPiQ5uR6RsQG32t20w8HhsAT1H79YZ_5KkAQt4iKa_7_VSR54Mw",
+   "source": "YouTube"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Northwest Guilford Band",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvPF-J4LpfHmWXRCXv_CzcWvZcEUg:1789071399069&q=Northwest+Guilford+Band&sa=X&ved=2ahUKEwi1leCp6uSWAxVyK1kFHeMAIF0Q1QJ6BAggEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Northwest+Guilford+Band"
+  },
+  {
+   "block_position": 1,
+   "query": "Northwest Guilford Band competition",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvPF-J4LpfHmWXRCXv_CzcWvZcEUg:1789071399069&q=Northwest+Guilford+Band+competition&sa=X&ved=2ahUKEwi1leCp6uSWAxVyK1kFHeMAIF0Q1QJ6BAgxEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Northwest+Guilford+Band+competition"
+  },
+  {
+   "block_position": 1,
+   "query": "Northwest guilford band director",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvPF-J4LpfHmWXRCXv_CzcWvZcEUg:1789071399069&q=Northwest+guilford+band+director&sa=X&ved=2ahUKEwi1leCp6uSWAxVyK1kFHeMAIF0Q1QJ6BAgsEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Northwest+guilford+band+director"
+  },
+  {
+   "block_position": 1,
+   "query": "Viking band calendar",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvPF-J4LpfHmWXRCXv_CzcWvZcEUg:1789071399069&q=Viking+band+calendar&sa=X&ved=2ahUKEwi1leCp6uSWAxVyK1kFHeMAIF0Q1QJ6BAgoEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Viking+band+calendar"
+  },
+  {
+   "block_position": 1,
+   "query": "Northwest marching band competition",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvPF-J4LpfHmWXRCXv_CzcWvZcEUg:1789071399069&q=Northwest+marching+band+competition&sa=X&ved=2ahUKEwi1leCp6uSWAxVyK1kFHeMAIF0Q1QJ6BAglEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Northwest+marching+band+competition"
+  },
+  {
+   "block_position": 1,
+   "query": "Viking Marching Band",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvPF-J4LpfHmWXRCXv_CzcWvZcEUg:1789071399069&q=Viking+Marching+Band&sa=X&ved=2ahUKEwi1leCp6uSWAxVyK1kFHeMAIF0Q1QJ6BAgkEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Viking+Marching+Band"
+  },
+  {
+   "block_position": 1,
+   "query": "Northwest Guilford High School",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvPF-J4LpfHmWXRCXv_CzcWvZcEUg:1789071399069&q=Northwest+Guilford+High+School&sa=X&ved=2ahUKEwi1leCp6uSWAxVyK1kFHeMAIF0Q1QJ6BAgjEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Northwest+Guilford+High+School"
+  },
+  {
+   "block_position": 1,
+   "query": "Northwest High School marching Band",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvPF-J4LpfHmWXRCXv_CzcWvZcEUg:1789071399069&q=Northwest+High+School+marching+Band&sa=X&ved=2ahUKEwi1leCp6uSWAxVyK1kFHeMAIF0Q1QJ6BAghEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Northwest+High+School+marching+Band"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Northwest+Guilford+Marching+Viking+Band%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvPF-J4LpfHmWXRCXv_CzcWvZcEUg:1789071399069&ei=JxCjavXlA_LW5NoP44GA6QU&start=10&sa=N&sstk=AS6-VmI8Qp-rkpEWI7VzX85fNMTE-t2xEZhKzXDaF_ZfjYXOJCed8DokZPEUgYK6wssg1QiLeYYFBHBcWatHlslPoOBWcyWTcJlNkg&ved=2ahUKEwi1leCp6uSWAxVyK1kFHeMAIF0Q8NMDegQIOhAU",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Northwest+Guilford+Marching+Viking+Band%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvPF-J4LpfHmWXRCXv_CzcWvZcEUg:1789071399069&ei=JxCjavXlA_LW5NoP44GA6QU&start=10&sa=N&sstk=AS6-VmI8Qp-rkpEWI7VzX85fNMTE-t2xEZhKzXDaF_ZfjYXOJCed8DokZPEUgYK6wssg1QiLeYYFBHBcWatHlslPoOBWcyWTcJlNkg&ved=2ahUKEwi1leCp6uSWAxVyK1kFHeMAIF0Q8tMDegQIOhAE",
+   "3": "https://www.google.com/search?q=%22Northwest+Guilford+Marching+Viking+Band%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvPF-J4LpfHmWXRCXv_CzcWvZcEUg:1789071399069&ei=JxCjavXlA_LW5NoP44GA6QU&start=20&sa=N&sstk=AS6-VmI8Qp-rkpEWI7VzX85fNMTE-t2xEZhKzXDaF_ZfjYXOJCed8DokZPEUgYK6wssg1QiLeYYFBHBcWatHlslPoOBWcyWTcJlNkg&ved=2ahUKEwi1leCp6uSWAxVyK1kFHeMAIF0Q8tMDegQIOhAG",
+   "4": "https://www.google.com/search?q=%22Northwest+Guilford+Marching+Viking+Band%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvPF-J4LpfHmWXRCXv_CzcWvZcEUg:1789071399069&ei=JxCjavXlA_LW5NoP44GA6QU&start=30&sa=N&sstk=AS6-VmI8Qp-rkpEWI7VzX85fNMTE-t2xEZhKzXDaF_ZfjYXOJCed8DokZPEUgYK6wssg1QiLeYYFBHBcWatHlslPoOBWcyWTcJlNkg&ved=2ahUKEwi1leCp6uSWAxVyK1kFHeMAIF0Q8tMDegQIOhAI",
+   "5": "https://www.google.com/search?q=%22Northwest+Guilford+Marching+Viking+Band%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvPF-J4LpfHmWXRCXv_CzcWvZcEUg:1789071399069&ei=JxCjavXlA_LW5NoP44GA6QU&start=40&sa=N&sstk=AS6-VmI8Qp-rkpEWI7VzX85fNMTE-t2xEZhKzXDaF_ZfjYXOJCed8DokZPEUgYK6wssg1QiLeYYFBHBcWatHlslPoOBWcyWTcJlNkg&ved=2ahUKEwi1leCp6uSWAxVyK1kFHeMAIF0Q8tMDegQIOhAK",
+   "6": "https://www.google.com/search?q=%22Northwest+Guilford+Marching+Viking+Band%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvPF-J4LpfHmWXRCXv_CzcWvZcEUg:1789071399069&ei=JxCjavXlA_LW5NoP44GA6QU&start=50&sa=N&sstk=AS6-VmI8Qp-rkpEWI7VzX85fNMTE-t2xEZhKzXDaF_ZfjYXOJCed8DokZPEUgYK6wssg1QiLeYYFBHBcWatHlslPoOBWcyWTcJlNkg&ved=2ahUKEwi1leCp6uSWAxVyK1kFHeMAIF0Q8tMDegQIOhAM",
+   "7": "https://www.google.com/search?q=%22Northwest+Guilford+Marching+Viking+Band%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvPF-J4LpfHmWXRCXv_CzcWvZcEUg:1789071399069&ei=JxCjavXlA_LW5NoP44GA6QU&start=60&sa=N&sstk=AS6-VmI8Qp-rkpEWI7VzX85fNMTE-t2xEZhKzXDaF_ZfjYXOJCed8DokZPEUgYK6wssg1QiLeYYFBHBcWatHlslPoOBWcyWTcJlNkg&ved=2ahUKEwi1leCp6uSWAxVyK1kFHeMAIF0Q8tMDegQIOhAO",
+   "8": "https://www.google.com/search?q=%22Northwest+Guilford+Marching+Viking+Band%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvPF-J4LpfHmWXRCXv_CzcWvZcEUg:1789071399069&ei=JxCjavXlA_LW5NoP44GA6QU&start=70&sa=N&sstk=AS6-VmI8Qp-rkpEWI7VzX85fNMTE-t2xEZhKzXDaF_ZfjYXOJCed8DokZPEUgYK6wssg1QiLeYYFBHBcWatHlslPoOBWcyWTcJlNkg&ved=2ahUKEwi1leCp6uSWAxVyK1kFHeMAIF0Q8tMDegQIOhAQ",
+   "9": "https://www.google.com/search?q=%22Northwest+Guilford+Marching+Viking+Band%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvPF-J4LpfHmWXRCXv_CzcWvZcEUg:1789071399069&ei=JxCjavXlA_LW5NoP44GA6QU&start=80&sa=N&sstk=AS6-VmI8Qp-rkpEWI7VzX85fNMTE-t2xEZhKzXDaF_ZfjYXOJCed8DokZPEUgYK6wssg1QiLeYYFBHBcWatHlslPoOBWcyWTcJlNkg&ved=2ahUKEwi1leCp6uSWAxVyK1kFHeMAIF0Q8tMDegQIOhAS"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Northwest+Guilford+Marching+Viking+Band%22&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Northwest+Guilford+Marching+Viking+Band%22&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Northwest+Guilford+Marching+Viking+Band%22&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Northwest+Guilford+Marching+Viking+Band%22&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Northwest+Guilford+Marching+Viking+Band%22&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Northwest+Guilford+Marching+Viking+Band%22&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Northwest+Guilford+Marching+Viking+Band%22&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Northwest+Guilford+Marching+Viking+Band%22&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Northwest+Guilford+Marching+Viking+Band%22&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Northwest+Guilford+Marching+Viking+Band%22&start=80"
+  }
+ }
+}

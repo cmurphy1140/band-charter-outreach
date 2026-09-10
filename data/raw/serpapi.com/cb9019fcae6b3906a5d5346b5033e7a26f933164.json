@@ -1,0 +1,489 @@
+{
+ "search_information": {
+  "query_displayed": "\"Van Nuys High School\"",
+  "total_results": 72800,
+  "time_taken_displayed": 0.38,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Van Nuys High School",
+  "type": "State school in Los Angeles, California",
+  "entity_type": "local_nav",
+  "kgmid": "/m/061kl5",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/061kl5&hl=en-US&q=Van+Nuys+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F061kl5&q=Van+Nuys+High+School",
+  "place_id": "ChIJN0Qp2hGXwoAR6yI80S4MZB0",
+  "website": "http://vannuyshs.lausd.org/",
+  "description": "Van Nuys High School is a public high school in the Van Nuys district of Los Angeles, belonging to the Los Angeles Unified School District: District 2. The school is home to a Residential Program and three Magnet Programs\u2014Math/Science, Performing Arts, and Medical.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa312baf7ae8d2720b821ca/images/Wo_NCndQKgZkdVqv97fyCOY83MN1iydy0erjFNZ7Wyo.webp",
+   "link": "https://www.google.com/maps/place/Van+Nuys+High+School/data=!4m2!3m1!1s0x0:0x1d640c2ed13c22eb?sa=X&ved=2ahUKEwi73c3o7OSWAxVxGVkFHYIPLGoQ_BJ6BAgSEAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Van_Nuys_High_School"
+  },
+  "address": "6535 Cedros Ave, Van Nuys, CA 91411",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=van+nuys+high+school+address&ludocid=2117831119989383915&sa=X&ved=2ahUKEwi73c3o7OSWAxVxGVkFHYIPLGoQ6BN6BAgiEAI"
+   }
+  ],
+  "founded": "1914",
+  "color": "Gray & White",
+  "color_links": [
+   {
+    "text": "Gray & White",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67w502LErV7XMqW4msMXgm9J2aSmMXsGCT1_CBDspDNJ7N2KtXuL3zMZKVYhSOGYlN8w_nM1-P9R8aC52CosriYT-4vk_arKFs82D_D5LbYJPb3nZVmszAZimr5GNOAKuHJ1y5z9eFFZEIjeXcvVtcyuiISPH&sa=X&ved=2ahUKEwi73c3o7OSWAxVxGVkFHYIPLGoQmxN6BAgnEAI"
+   }
+  ],
+  "school_types": "High school, State school, Comprehensive high school",
+  "school_types_links": [
+   {
+    "text": "High school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=High+school&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMppXfNh-OkLk_azmU0uk1AX8WDg6Aey6nZnfzhISz_BahG86fIXhZzQ_5i9gVo2jpkRefi2vb1cuIcbbWsQX1bg-7OrENYaerTHY7HdnuvRnhB7IGVoaV_iV3P8VCaCMDuhSnlFCL8SIiACqhh9aHLLFHrRaw5HUBBIoApudzNrJpc-H7zlmQeuWJj7-Xd6dMGlsUKWiHtcg6B-0zDqQFjRcRLuf_wgVrA83d3s4KmU2KEZySEXtnh4D13ZhG4bUh7FisfEg%3D&sa=X&ved=2ahUKEwi73c3o7OSWAxVxGVkFHYIPLGoQmxN6BAgoEAI"
+   },
+   {
+    "text": "State school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=State+school&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ybGtCxI0H8z2nV80srIO5hh43iJrpLL9zyTRHToodwNipZCD4kcN2wbzA3OqfyGettl42NpXglwsH4hnJQRSg4KBrFTowpZphOt0qedRcJ2AHwyP7gYG3ccNoUPT-VC0FRFmQE8kNCdkYxgeVMCOo-wWA5dkybQXHLoal7JG5RQFgOLhaNBuD7GB82t5bkMU9sZVfN8e4jdx05DXojJ-_LZxhkNW9Rrpqdjn1qr8GUlaDWmtSE0I2Co3mXcMFp0z33XmuIg%3D&sa=X&ved=2ahUKEwi73c3o7OSWAxVxGVkFHYIPLGoQmxN6BAgoEAM"
+   },
+   {
+    "text": "Comprehensive high school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Comprehensive+high+school&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yeCYond4lFjB04ZfJ95sEN8C-P6LcH5oxtRhPWmX9vaWXH_SifYqSR5gJs-Uf0wW2qDh8-keoIHlcU-NfEveOPb4dODKHTbRmXZVsrlddo1UirjWPlI1D_5BrfWbMK6X8pQDoaGf_Oez935kkQ5cM1RyVRXwjUObfcGMdCo-i1UFotZvAMaKDDgnugqmL-MeahnPFWSn6L8Y480dNAcUOn18gRdXD2xHKMzPTPcCyl-7j9M37UUgndUbiICoaDY5c1ennFyEcEitcxqPL5VpjthqCUtt&sa=X&ved=2ahUKEwi73c3o7OSWAxVxGVkFHYIPLGoQmxN6BAgoEAQ"
+   }
+  ],
+  "phone": "(818) 778-6800",
+  "raw_hours": "Open \u00b7 Closes 4 PMUpdated by phone call 6 weeks agoUpdated by phone call 6 weeks ago",
+  "hours": {
+   "thursday": {
+    "opens": "8:30\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "friday": {
+    "opens": "8:30\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "8:30\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "tuesday": {
+    "opens": "8:30\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "wednesday": {
+    "opens": "8:30\u202fAM",
+    "closes": "4\u202fPM"
+   }
+  },
+  "unclaimed_listing": true,
+  "people_also_search_for": [
+   {
+    "name": "Van Nuys",
+    "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcT493sX8_5_fx6NEbQyRjysAW5tGDm_BeYdFuM46BASobztSm3U16NxFjlzI5ZN7BfiEgpg-JGM&s=19",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMprYKKnoZJcJeLoDcfv7XnXS-RwfyHHit3uy7qn4w5hqYOaE6oLVHe97Pl6XtFs315qfgkmByINVA4NVF3YverEvMXa1FzZC1EOfRuP01zC07qL-mHk8jkIp8h1KWmOx7hZO65-TjYwKJWN05xpQn6UqYX5RLJlc9u-IRkSxjVscgV9WSmOoU73LMjAuU1ayNVnew1aaYerIL-INsErJpDEfqkPbm161wjHPk3nOIglkDBePzA_kaBME0EaQ7mI4xzmYBWMs%3D&q=Van+Nuys&sa=X&ved=2ahUKEwi73c3o7OSWAxVxGVkFHYIPLGoQs9oBKAB6BAggEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Van+Nuys&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMprYKKnoZJcJeLoDcfv7XnXS-RwfyHHit3uy7qn4w5hqYOaE6oLVHe97Pl6XtFs315qfgkmByINVA4NVF3YverEvMXa1FzZC1EOfRuP01zC07qL-mHk8jkIp8h1KWmOx7hZO65-TjYwKJWN05xpQn6UqYX5RLJlc9u-IRkSxjVscgV9WSmOoU73LMjAuU1ayNVnew1aaYerIL-INsErJpDEfqkPbm161wjHPk3nOIglkDBePzA_kaBME0EaQ7mI4xzmYBWMs%3D"
+   },
+   {
+    "name": "Van Nuys Middle School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnRBbmXCRJOXGrCp9npo_m0ZM6NaVq7wQe-fXXVv-HqgAkpd3PViTCIy868e0gfJ1i-SGaEQiwjL0EkqnsrHEBqyBp9rocsran8dlorB73EtdIxJkHMb1LCPvDLG1I1Gzm6OHg=w115-h153-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW678ew2DLR3kmcSpd-QVZgIHMq_mEv_3L2qzVyTIE-7CJCvL4eEUazwSLYqUt_KExgwVOL5B9fZsjDDnHO-iEleHUCzUKyQ6AhafQvW9Y_R1ndw2DTfZAsU6-NPB13daHLdxNTR1CTk5pFqvWuGgVZbHA_Cr_P48aykMUoEMEivrd8iN--rWXzfCNbjEiN6y6Lw0WyhGYaszt5ORbcYtH7fq-JeUcBxCKtCTa9JNa2ir_LFYx_898QHg-QDiPKYgwNibW7KHM2zR8kLavEE2ZojNDKPHxt&q=Van+Nuys+Middle+School&sa=X&ved=2ahUKEwi73c3o7OSWAxVxGVkFHYIPLGoQs9oBKAB6BAggEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Van+Nuys+Middle+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW678ew2DLR3kmcSpd-QVZgIHMq_mEv_3L2qzVyTIE-7CJCvL4eEUazwSLYqUt_KExgwVOL5B9fZsjDDnHO-iEleHUCzUKyQ6AhafQvW9Y_R1ndw2DTfZAsU6-NPB13daHLdxNTR1CTk5pFqvWuGgVZbHA_Cr_P48aykMUoEMEivrd8iN--rWXzfCNbjEiN6y6Lw0WyhGYaszt5ORbcYtH7fq-JeUcBxCKtCTa9JNa2ir_LFYx_898QHg-QDiPKYgwNibW7KHM2zR8kLavEE2ZojNDKPHxt"
+   },
+   {
+    "name": "Birmingham Community High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkNiZp_Q4oJHGCJOZqNaVlf-xTKGyRwwhwVyO0ZL_Bk1qtMgy1wN76bfL9HfIZAdFJEJO3vF63Pu0tOlOUAOcwyphNMxWBgbRMs-pWdRpddMjccNY9jVXX2LHKh2OIKPkJaX6E4bA=w115-h119-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yeIOo1TSAAE5bKRK0MGwzaHVGLCgju3FsGjO1C6rle0ftPY5FWHz3neXgl4jqQu3UXMB6d6oDTHNdrXl2oDjU2X-AuLd2xwJu6yjY_fTn-nTzoThVcClzyKavErqBzvOdpzHWa1fqt357LOSo91KLxBUfj2lvMdxzMKkwnjSCHIK5R-OlQQCd3aUng-sbBUyl77IpuRIL5TXU9u3HAGNAQijQ7bJUDAdpMXucNfCF0rVCvJaQKYe3n__QsgbOke968HEGrlUWQVzIowYtt0e7JcfNPXl&q=Birmingham+High+School&sa=X&ved=2ahUKEwi73c3o7OSWAxVxGVkFHYIPLGoQs9oBKAB6BAggEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Birmingham+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yeIOo1TSAAE5bKRK0MGwzaHVGLCgju3FsGjO1C6rle0ftPY5FWHz3neXgl4jqQu3UXMB6d6oDTHNdrXl2oDjU2X-AuLd2xwJu6yjY_fTn-nTzoThVcClzyKavErqBzvOdpzHWa1fqt357LOSo91KLxBUfj2lvMdxzMKkwnjSCHIK5R-OlQQCd3aUng-sbBUyl77IpuRIL5TXU9u3HAGNAQijQ7bJUDAdpMXucNfCF0rVCvJaQKYe3n__QsgbOke968HEGrlUWQVzIowYtt0e7JcfNPXl"
+   },
+   {
+    "name": "Panorama High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmTDRFJnB4VXdS8reVpGtYhxyn7NnTJlRLG2pBKB-31JLmMrogNYbv4ObjIpj09Ygf5jzT6I90jSdvkMN9aEJ4_Lp0X7mzfunQluQeI70hONSbfkclxdSCrQeYZZwQbzD8J4ZGG=w115-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW678UmnQt5BI64ZyFmLOTOBFDaYvNll92N__3wBmGkYwtIbtKtR3p1KxJoRCHUCurw8XPetkrwd1MrLyvCddMyWr7jtxo6jqvoAvCn6FQMv7pK7U91XvUUTTWQsADFvg-dY4omJspXzU2dNDwTCcO7dCXPX9tJsk4V955QTNOm4K4kxW_SIh_du3rLm3T4AKyGE6eK-vm24er2yrdcROz5TEmKDqMCTcTpeJo3xZxwGF6N2MIfUgIaYuaTuOiDIo6WksBRFG7jbpjCSE0XwMitee7Iz_IU&q=Panorama+High+School&sa=X&ved=2ahUKEwi73c3o7OSWAxVxGVkFHYIPLGoQs9oBKAB6BAggEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Panorama+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW678UmnQt5BI64ZyFmLOTOBFDaYvNll92N__3wBmGkYwtIbtKtR3p1KxJoRCHUCurw8XPetkrwd1MrLyvCddMyWr7jtxo6jqvoAvCn6FQMv7pK7U91XvUUTTWQsADFvg-dY4omJspXzU2dNDwTCcO7dCXPX9tJsk4V955QTNOm4K4kxW_SIh_du3rLm3T4AKyGE6eK-vm24er2yrdcROz5TEmKDqMCTcTpeJo3xZxwGF6N2MIfUgIaYuaTuOiDIo6WksBRFG7jbpjCSE0XwMitee7Iz_IU"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Van+Nuys+High+School&stick=H4sIAAAAAAAAAONgFuLUz9U3MDPMzjFVQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iFQlLzFPwK60sVvDITM9QCE7OyM_P2cHKeItNkuGNQ0VgLl9T55Jww0Os2os2RyQF26SHfT8OAJGIhOh6AAAA&sa=X&ved=2ahUKEwi73c3o7OSWAxVxGVkFHYIPLGoQzO0BKAR6BAggEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLUz9U3MDPMzjFVQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iFQlLzFPwK60sVvDITM9QCE7OyM_P2cHKeItNkuGNQ0VgLl9T55Jww0Os2os2RyQF26SHfT8OAJGIhOh6AAAA",
+  "profiles": [
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/vnhs.magnets",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Van+Nuys+High+School%22",
+    "image": "https://serpapi.com/searches/6aa312baf7ae8d2720b821ca/images/Wo_NCndQKgZkdVqv97fyCIWFukPo0S-IS2uk_ZxhxlhEdfAIE9JZji4TQ4Ep5XhQ.png"
+   },
+   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/vnhsmagnets/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Van+Nuys+High+School%22",
+    "image": "https://serpapi.com/searches/6aa312baf7ae8d2720b821ca/images/Wo_NCndQKgZkdVqv97fyCNC1tQsptVe0bO601Ny4m2Ey6yqQ5rGp4XsLophc6Qlo.png"
+   },
+   {
+    "name": "X (Twitter)",
+    "link": "https://twitter.com/lausdcio",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Van+Nuys+High+School%22",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAABhUlEQVR4AczOA6xcARCF4X_us23btuLUQR3WZlhbQW3bto2gtm3b2J3GN4tY74uHh3okOi42Nj4AAUDwTvDEhisABCOAEAzYTBh0bN-lc5d0QgAhHPqX4Y4pkd367Zc-xMcXCPDg8TPwxeQH724Uj9N95GJ4pnHxby1xgCmV3v-GsFb7k0Iee7UjaQgmIYe9v9O4-wUKWaATyMPAViwvr1NnOQWDdTV5CHYSaKWLmaGDyvU4mTgQcllracaFr-9uk-yLM8k8fAJff0IUTghRVFu3M1ynkYk4nchiqqU3Ry05RDibMMhjtj6Ht3dJxVk_l1G64cspOusychBsCWm01WNM0jFs0sbEYUtIIuTXNco588OLh09JxE6wweuXEAvfL9PQus3-iU80N34KCaQyUOcxTTuSjEmMRI5rS9JwIZfD1t7ceo34YIpnuQ4nGwP8XXlq_fJZd9jE8KBHC5IwAELJ7dWrZ6fOuNhkgFgAEEIAwA1MQkw0AgDC_wnKycrKSQ2iPAkAVyNzq8rxicIAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "YouTube",
+    "link": "https://www.youtube.com/c/VanNuysHighSchool",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Van+Nuys+High+School%22",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAP1BMVEX_____z8__n5__kJD_gID_cHD_YGD_v7__39__ICD_AAD_r6__EBD_7-__oKD_MDD_QED_UFD_X1__j4__f396G04EAAAAhklEQVR4AeXQRQLDQAwDQC3bajj5_1dLYb63czYKf8VY50OcBO9swkyUB_SBkfJQlqOXeKJAz_FEQM9zVCqXInqRIy-RC9W-AJDypgCwyoGiV68LkLJFwX6CVJcr8nBwZJgLXMaDAs9RxsMcLE949IQnEnpoeKjEpC25o12OpVwkTURy_JQX1r4RC2S7kZYAAAAASUVORK5CYII.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "What famous people went to Van Nuys High School?",
+   "type": "ai_overview",
+   "page_token": "Dspev3icHdBvbpswGIBx9TL92NhhSdVI0VQKpKMFBcd-Df4ygZ2ExMbQxA1_vu0KO8NOtdOs2gWen_T8-mNOVv-9-107111Xs1nf9w_Htj2a_YNsm1l5Ha2cydKYqpR6tXxc4u8HuQ5v0n-5SD9jXQcBQfS1wzxnY8nTb_uwe0mxyXdTHFBQGDi2cmILEbFF5T3jNIqyvY0dCYWXalUXlnzsoq8UjQQ36Zuax3UVgSgpLDiLgxzHTG6G4H2HP6l2nGGzTTYKsrNfFIi8U-hQquulCtIbNGoUVn1yra4UEyg3YiusRCT80VPGXIKZx8-ActRddpMaqtfYJag-E24cmStTNqJOdB3zwO8FTwew_lDlYDKdjITBLZm7KKyVtw_dR5GLudJDQzyNafOUCe_ZqcknnLSnjJFJnk3DAL7YAYlNiIBdPdKIpbJmS6L4VDE8AlZFlt0f5G3t3f9_vf55aNyqu7THfym7jYo",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Dspev3icHdBvbpswGIBx9TL92NhhSdVI0VQKpKMFBcd-Df4ygZ2ExMbQxA1_vu0KO8NOtdOs2gWen_T8-mNOVv-9-107111Xs1nf9w_Htj2a_YNsm1l5Ha2cydKYqpR6tXxc4u8HuQ5v0n-5SD9jXQcBQfS1wzxnY8nTb_uwe0mxyXdTHFBQGDi2cmILEbFF5T3jNIqyvY0dCYWXalUXlnzsoq8UjQQ36Zuax3UVgSgpLDiLgxzHTG6G4H2HP6l2nGGzTTYKsrNfFIi8U-hQquulCtIbNGoUVn1yra4UEyg3YiusRCT80VPGXIKZx8-ActRddpMaqtfYJag-E24cmStTNqJOdB3zwO8FTwew_lDlYDKdjITBLZm7KKyVtw_dR5GLudJDQzyNafOUCe_ZqcknnLSnjJFJnk3DAL7YAYlNiIBdPdKIpbJmS6L4VDE8AlZFlt0f5G3t3f9_vf55aNyqu7THfym7jYo",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGVXeFBlWGw1U0UxQ1ptTXRaa3hpYmtjNFFXWm5USFpVTUhreFEwcFBXRE56TlRSYWRUZEtUbWhEVFVoc1ZIcHFNa3BQYTJ4eFh6RnNOa2hyWTNNM2FHZGZWekY0UVRWeVRGVjFNalZTVW5NMFdXOTJhV3hqVVRGVlFSSVhkM2hMYW1GMmRuWk1aa2Q1TlU1dlVHZHdMWGN3VVZrYUlrRkVjM0k1WmxOdVUwVkxiemRPZVhBd1dsVnNWMGxmVjB0RllXMVhjalkwT1VFIiwiZmN2IjoiMyIsImVpIjoid3hLamF2dnZMZkd5NU5vUGdwLXcwUVkiLCJxYyI6IkNoUjJZVzRnYm5WNWN5Qm9hV2RvSUhOamFHOXZiQkFBZlhBTVZUOCIsInF1ZXN0aW9uIjoiV2hhdCBmYW1vdXMgcGVvcGxlIHdlbnQgdG8gVmFuIE51eXMgSGlnaCBTY2hvb2w/IiwibGsiOiJHaTkzYUdGMElHWmhiVzkxY3lCd1pXOXdiR1VnZDJWdWRDQjBieUIyWVc0Z2JuVjVjeUJvYVdkb0lITmphRzl2YkEiLCJicyI6ImMzWFFNUS1DTUJBRjRMaDJjdTUwaVJJblJmd0RMQTQ2NklDSkxDNUlEOW9FT05JV2lQX2VvaVpxVXZiM3ZYczVobXlieXN4Q2tkWFVHV2lSMmdwaHdNYUNKYmhtRFp5N2g0R0RLaVZjY2tsVXhidUloOE8wNloxcFJpTkhZMTZHbmRqeWFMeDEwR28wVnBYS1ZjVzdnQy1VOFZiODV0aU5SYWxVdVlTYWVvWEczZFlJaGFwcUZPQ0ctV2V2ZVBDSmY1UGVzUm5iN0pXQWhPNm9MU1FvQ3RJQ1Nwci1TTWpYd2duOUZ2cFAtRTdNWjA4IiwiaWQiOiJmY193eEtqYXZ2dkxmR3k1Tm9QZ3AtdzBRWV81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGVXeFBlWGw1U0UxQ1ptTXRaa3hpYmtjNFFXWm5USFpVTUhreFEwcFBXRE56TlRSYWRUZEtUbWhEVFVoc1ZIcHFNa3BQYTJ4eFh6RnNOa2hyWTNNM2FHZGZWekY0UVRWeVRGVjFNalZTVW5NMFdXOTJhV3hqVVRGVlFSSVhkM2hMYW1GMmRuWk1aa2Q1TlU1dlVHZHdMWGN3VVZrYUlrRkVjM0k1WmxOdVUwVkxiemRPZVhBd1dsVnNWMGxmVjB0RllXMVhjalkwT1VFIiwiZmN2IjoiMyIsImVpIjoid3hLamF2dnZMZkd5NU5vUGdwLXcwUVkiLCJxYyI6IkNoUjJZVzRnYm5WNWN5Qm9hV2RvSUhOamFHOXZiQkFBZlhBTVZUOCIsInF1ZXN0aW9uIjoiV2hhdCBmYW1vdXMgcGVvcGxlIHdlbnQgdG8gVmFuIE51eXMgSGlnaCBTY2hvb2w%2FIiwibGsiOiJHaTkzYUdGMElHWmhiVzkxY3lCd1pXOXdiR1VnZDJWdWRDQjBieUIyWVc0Z2JuVjVjeUJvYVdkb0lITmphRzl2YkEiLCJicyI6ImMzWFFNUS1DTUJBRjRMaDJjdTUwaVJJblJmd0RMQTQ2NklDSkxDNUlEOW9FT05JV2lQX2VvaVpxVXZiM3ZYczVobXlieXN4Q2tkWFVHV2lSMmdwaHdNYUNKYmhtRFp5N2g0R0RLaVZjY2tsVXhidUloOE8wNloxcFJpTkhZMTZHbmRqeWFMeDEwR28wVnBYS1ZjVzdnQy1VOFZiODV0aU5SYWxVdVlTYWVvWEczZFlJaGFwcUZPQ0ctV2V2ZVBDSmY1UGVzUm5iN0pXQWhPNm9MU1FvQ3RJQ1Nwci1TTWpYd2duOUZ2cFAtRTdNWjA4IiwiaWQiOiJmY193eEtqYXZ2dkxmR3k1Tm9QZ3AtdzBRWV81In0%3D"
+  },
+  {
+   "question": "Is Van Nuys High School prestigious?",
+   "type": "ai_overview",
+   "page_token": "utplyHicHdBdbqMwFEBhzWby2GDoZIZIUVUSnB-pRjbYDvdl5NgEgm0gU1ravM1eZlVdTatu4OjT-fffXTr78eO1GcfheTmfT9N0V_d97ao73fu5en7v9Fwr505K2-Xi1wI9nPUqfdkn6-s-oXwYxIYFeZEQ4QTJMKHc4nW2oaPEYPNtjVSR-COKS719QmTj7sElWbbDLUhWFlKsc2tCtUUBCUUI4VeEC6ZbctX8EJHIyFMQ0xwfGFjk-U7sJecROMFUCmA60jwFgBUvkULpz9IB5ltMaTAggwDrbvDV0eQlGnZftuQYQpNJWCtkruzWtKegvhUcvVcWlcTHqZSjOnU4ShsTVel4LY8QGvvmWWRR4WMK0eNobgmTrL9Qzm66dZ7bw6XaJIqGU8hdfDat8Rr_nlQAOaADr6R4MdPsrF9X0ez75-rP2Y_L4W9ffwK2oIEs",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=utplyHicHdBdbqMwFEBhzWby2GDoZIZIUVUSnB-pRjbYDvdl5NgEgm0gU1ravM1eZlVdTatu4OjT-fffXTr78eO1GcfheTmfT9N0V_d97ao73fu5en7v9Fwr505K2-Xi1wI9nPUqfdkn6-s-oXwYxIYFeZEQ4QTJMKHc4nW2oaPEYPNtjVSR-COKS719QmTj7sElWbbDLUhWFlKsc2tCtUUBCUUI4VeEC6ZbctX8EJHIyFMQ0xwfGFjk-U7sJecROMFUCmA60jwFgBUvkULpz9IB5ltMaTAggwDrbvDV0eQlGnZftuQYQpNJWCtkruzWtKegvhUcvVcWlcTHqZSjOnU4ShsTVel4LY8QGvvmWWRR4WMK0eNobgmTrL9Qzm66dZ7bw6XaJIqGU8hdfDat8Rr_nlQAOaADr6R4MdPsrF9X0ez75-rP2Y_L4W9ffwK2oIEs",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGVXeFBlWGw1U0UxQ1ptTXRaa3hpYmtjNFFXWm5USFpVTUhreFEwcFBXRE56TlRSYWRUZEtUbWhEVFVoc1ZIcHFNa3BQYTJ4eFh6RnNOa2hyWTNNM2FHZGZWekY0UVRWeVRGVjFNalZTVW5NMFdXOTJhV3hqVVRGVlFSSVhkM2hMYW1GMmRuWk1aa2Q1TlU1dlVHZHdMWGN3VVZrYUlrRkVjM0k1WmxOdVUwVkxiemRPZVhBd1dsVnNWMGxmVjB0RllXMVhjalkwT1VFIiwiZmN2IjoiMyIsImVpIjoid3hLamF2dnZMZkd5NU5vUGdwLXcwUVkiLCJxYyI6IkNoUjJZVzRnYm5WNWN5Qm9hV2RvSUhOamFHOXZiQkFBZlhBTVZUOCIsInF1ZXN0aW9uIjoiSXMgVmFuIE51eXMgSGlnaCBTY2hvb2wgcHJlc3RpZ2lvdXM/IiwibGsiOiJHaU5wY3lCMllXNGdiblY1Y3lCb2FXZG9JSE5qYUc5dmJDQndjbVZ6ZEdsbmFXOTFjdyIsImJzIjoiYzNYUU1RLUNNQkFGNExoMmN1NTBpUkluUmZ3RExBNDY2SUNKTEM1SUQ5b0VPTklXaVBfZW9pWnFVdmIzdlhzNWhteWJ5c3hDa2RYVUdXaVIyZ3Bod01hQ0piaG1EWnk3aDRHREtpVmNja2xVeGJ1SWg4TzA2WjFwUmlOSFkxNkduZGp5YUx4MTBHbzBWcFhLVmNXN2dDLVU4VmI4NXRpTlJhbFV1WVNhZW9YRzNkWUloYXBxRk9DRy1XZXZlUENKZjVQZXNSbmI3SldBaE82b0xTUW9DdElDU3ByLVNNalh3Z245RnZwUC1FN01aMDgiLCJpZCI6ImZjX3d4S2phdnZ2TGZHeTVOb1BncC13MFFZXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGVXeFBlWGw1U0UxQ1ptTXRaa3hpYmtjNFFXWm5USFpVTUhreFEwcFBXRE56TlRSYWRUZEtUbWhEVFVoc1ZIcHFNa3BQYTJ4eFh6RnNOa2hyWTNNM2FHZGZWekY0UVRWeVRGVjFNalZTVW5NMFdXOTJhV3hqVVRGVlFSSVhkM2hMYW1GMmRuWk1aa2Q1TlU1dlVHZHdMWGN3VVZrYUlrRkVjM0k1WmxOdVUwVkxiemRPZVhBd1dsVnNWMGxmVjB0RllXMVhjalkwT1VFIiwiZmN2IjoiMyIsImVpIjoid3hLamF2dnZMZkd5NU5vUGdwLXcwUVkiLCJxYyI6IkNoUjJZVzRnYm5WNWN5Qm9hV2RvSUhOamFHOXZiQkFBZlhBTVZUOCIsInF1ZXN0aW9uIjoiSXMgVmFuIE51eXMgSGlnaCBTY2hvb2wgcHJlc3RpZ2lvdXM%2FIiwibGsiOiJHaU5wY3lCMllXNGdiblY1Y3lCb2FXZG9JSE5qYUc5dmJDQndjbVZ6ZEdsbmFXOTFjdyIsImJzIjoiYzNYUU1RLUNNQkFGNExoMmN1NTBpUkluUmZ3RExBNDY2SUNKTEM1SUQ5b0VPTklXaVBfZW9pWnFVdmIzdlhzNWhteWJ5c3hDa2RYVUdXaVIyZ3Bod01hQ0piaG1EWnk3aDRHREtpVmNja2xVeGJ1SWg4TzA2WjFwUmlOSFkxNkduZGp5YUx4MTBHbzBWcFhLVmNXN2dDLVU4VmI4NXRpTlJhbFV1WVNhZW9YRzNkWUloYXBxRk9DRy1XZXZlUENKZjVQZXNSbmI3SldBaE82b0xTUW9DdElDU3ByLVNNalh3Z245RnZwUC1FN01aMDgiLCJpZCI6ImZjX3d4S2phdnZ2TGZHeTVOb1BncC13MFFZXzUifQ%3D%3D"
+  },
+  {
+   "question": "Which movies were filmed at Van Nuys High School?",
+   "type": "ai_overview",
+   "page_token": "BlWgO3icHdBbjpswFABQdTPzOYmhSZVIUVXCI6HBKQ9fB_9UYJPA2IAncYfHX7fQNcyqZjWtuoRzfr-rppMfn_7UxujHdrEYhuH51vc3VT3zvl0Uj6njC14oVRZcbtdf1ujrle-8N-7s79yJidbgJst0Cet0Qqf4IifqionvUYMv-Fxa9Y8qCzGzmZsuNy5QXwqJ8izgq5iIc3rwX9nhOJbtGJE9mgrJHoWHopLgz5GrAgIqOoHz60RX6yrwlaB-g2eomRuaMqgbRv2oeEl0SVFYBGrIQYQxqa-g2MyIOaZ2YhM6dpmnv0cSs6jjM6MGnQ-6zbzQgL_pI3WzKjniiqy8HBwby_FOpOl4dzQnshqqVtcwJ0MB-pFLBF4t7Mozr_mFWUKObWJLlLWbmNnfjJidhCZ9E5Nk5i-qJahH-bK3BLAQu0z9M9CL5SsOfALLQ6CEJPHTlb_t7Kf_17uf19Zs9b2__QXcB455",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=BlWgO3icHdBbjpswFABQdTPzOYmhSZVIUVXCI6HBKQ9fB_9UYJPA2IAncYfHX7fQNcyqZjWtuoRzfr-rppMfn_7UxujHdrEYhuH51vc3VT3zvl0Uj6njC14oVRZcbtdf1ujrle-8N-7s79yJidbgJst0Cet0Qqf4IifqionvUYMv-Fxa9Y8qCzGzmZsuNy5QXwqJ8izgq5iIc3rwX9nhOJbtGJE9mgrJHoWHopLgz5GrAgIqOoHz60RX6yrwlaB-g2eomRuaMqgbRv2oeEl0SVFYBGrIQYQxqa-g2MyIOaZ2YhM6dpmnv0cSs6jjM6MGnQ-6zbzQgL_pI3WzKjniiqy8HBwby_FOpOl4dzQnshqqVtcwJ0MB-pFLBF4t7Mozr_mFWUKObWJLlLWbmNnfjJidhCZ9E5Nk5i-qJahH-bK3BLAQu0z9M9CL5SsOfALLQ6CEJPHTlb_t7Kf_17uf19Zs9b2__QXcB455",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGVXeFBlWGw1U0UxQ1ptTXRaa3hpYmtjNFFXWm5USFpVTUhreFEwcFBXRE56TlRSYWRUZEtUbWhEVFVoc1ZIcHFNa3BQYTJ4eFh6RnNOa2hyWTNNM2FHZGZWekY0UVRWeVRGVjFNalZTVW5NMFdXOTJhV3hqVVRGVlFSSVhkM2hMYW1GMmRuWk1aa2Q1TlU1dlVHZHdMWGN3VVZrYUlrRkVjM0k1WmxOdVUwVkxiemRPZVhBd1dsVnNWMGxmVjB0RllXMVhjalkwT1VFIiwiZmN2IjoiMyIsImVpIjoid3hLamF2dnZMZkd5NU5vUGdwLXcwUVkiLCJxYyI6IkNoUjJZVzRnYm5WNWN5Qm9hV2RvSUhOamFHOXZiQkFBZlhBTVZUOCIsInF1ZXN0aW9uIjoiV2hpY2ggbW92aWVzIHdlcmUgZmlsbWVkIGF0IFZhbiBOdXlzIEhpZ2ggU2Nob29sPyIsImxrIjoiR2lWdGIzWnBaWE1nWm1sc2JXVmtJR0YwSUhaaGJpQnVkWGx6SUdocFoyZ2djMk5vYjI5cyIsImJzIjoiYzNYUU1RLUNNQkFGNExoMmN1NTBpUkluUmZ3RExBNDY2SUNKTEM1SUQ5b0VPTklXaVBfZW9pWnFVdmIzdlhzNWhteWJ5c3hDa2RYVUdXaVIyZ3Bod01hQ0piaG1EWnk3aDRHREtpVmNja2xVeGJ1SWg4TzA2WjFwUmlOSFkxNkduZGp5YUx4MTBHbzBWcFhLVmNXN2dDLVU4VmI4NXRpTlJhbFV1WVNhZW9YRzNkWUloYXBxRk9DRy1XZXZlUENKZjVQZXNSbmI3SldBaE82b0xTUW9DdElDU3ByLVNNalh3Z245RnZwUC1FN01aMDgiLCJpZCI6ImZjX3d4S2phdnZ2TGZHeTVOb1BncC13MFFZXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGVXeFBlWGw1U0UxQ1ptTXRaa3hpYmtjNFFXWm5USFpVTUhreFEwcFBXRE56TlRSYWRUZEtUbWhEVFVoc1ZIcHFNa3BQYTJ4eFh6RnNOa2hyWTNNM2FHZGZWekY0UVRWeVRGVjFNalZTVW5NMFdXOTJhV3hqVVRGVlFSSVhkM2hMYW1GMmRuWk1aa2Q1TlU1dlVHZHdMWGN3VVZrYUlrRkVjM0k1WmxOdVUwVkxiemRPZVhBd1dsVnNWMGxmVjB0RllXMVhjalkwT1VFIiwiZmN2IjoiMyIsImVpIjoid3hLamF2dnZMZkd5NU5vUGdwLXcwUVkiLCJxYyI6IkNoUjJZVzRnYm5WNWN5Qm9hV2RvSUhOamFHOXZiQkFBZlhBTVZUOCIsInF1ZXN0aW9uIjoiV2hpY2ggbW92aWVzIHdlcmUgZmlsbWVkIGF0IFZhbiBOdXlzIEhpZ2ggU2Nob29sPyIsImxrIjoiR2lWdGIzWnBaWE1nWm1sc2JXVmtJR0YwSUhaaGJpQnVkWGx6SUdocFoyZ2djMk5vYjI5cyIsImJzIjoiYzNYUU1RLUNNQkFGNExoMmN1NTBpUkluUmZ3RExBNDY2SUNKTEM1SUQ5b0VPTklXaVBfZW9pWnFVdmIzdlhzNWhteWJ5c3hDa2RYVUdXaVIyZ3Bod01hQ0piaG1EWnk3aDRHREtpVmNja2xVeGJ1SWg4TzA2WjFwUmlOSFkxNkduZGp5YUx4MTBHbzBWcFhLVmNXN2dDLVU4VmI4NXRpTlJhbFV1WVNhZW9YRzNkWUloYXBxRk9DRy1XZXZlUENKZjVQZXNSbmI3SldBaE82b0xTUW9DdElDU3ByLVNNalh3Z245RnZwUC1FN01aMDgiLCJpZCI6ImZjX3d4S2phdnZ2TGZHeTVOb1BncC13MFFZXzUifQ%3D%3D"
+  },
+  {
+   "question": "Did Robert Redford go to Van Nuys High School?",
+   "type": "ai_overview",
+   "page_token": "T7xSXHicHdBtbpswHIBx7TL92NjQMiVSVJWFvFiDjj9-Cf4ygZ2EgAE3oYX4W6_QM-xUO82qHeDRT3o-_phz1_z99lkNg70uZrNxHO9PfX8yh3vVt7PieuvUTBXGlIVqFsH3AD8d1TJ6V-GPiwpTZi1fAco8GZQtvmVbHQMmV70nTjXzIBbJpjTKpd46Tk2yk1S5nBurkN7kaLrE4vEneKYoHZwLRqRsq1F3dlfQMJBOBhStI95ZwuoIZ4x3vNZWedBpTMYS6wbqk69uCAkDEho8pmKiL3t9zcVAuZNvSc1GMMmvTOSDNPCQYsAQTY9sQy6aV0O8JqRYhauMxmPik6T0eq9Y7fyyQQ-JmXuUARLbCiW-5EmLc7oFGVXaP0TDa76Xnm6mFvwG03aeSv950C4EAf05ZeBUbVrWzN1B8LCIODoIy77iN33GU9Y9fzmEp2w36fHuqN6X_t3_18vfx3ZY2Et_-gfMNo08",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=T7xSXHicHdBtbpswHIBx7TL92NjQMiVSVJWFvFiDjj9-Cf4ygZ2EgAE3oYX4W6_QM-xUO82qHeDRT3o-_phz1_z99lkNg70uZrNxHO9PfX8yh3vVt7PieuvUTBXGlIVqFsH3AD8d1TJ6V-GPiwpTZi1fAco8GZQtvmVbHQMmV70nTjXzIBbJpjTKpd46Tk2yk1S5nBurkN7kaLrE4vEneKYoHZwLRqRsq1F3dlfQMJBOBhStI95ZwuoIZ4x3vNZWedBpTMYS6wbqk69uCAkDEho8pmKiL3t9zcVAuZNvSc1GMMmvTOSDNPCQYsAQTY9sQy6aV0O8JqRYhauMxmPik6T0eq9Y7fyyQQ-JmXuUARLbCiW-5EmLc7oFGVXaP0TDa76Xnm6mFvwG03aeSv950C4EAf05ZeBUbVrWzN1B8LCIODoIy77iN33GU9Y9fzmEp2w36fHuqN6X_t3_18vfx3ZY2Et_-gfMNo08",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGVXeFBlWGw1U0UxQ1ptTXRaa3hpYmtjNFFXWm5USFpVTUhreFEwcFBXRE56TlRSYWRUZEtUbWhEVFVoc1ZIcHFNa3BQYTJ4eFh6RnNOa2hyWTNNM2FHZGZWekY0UVRWeVRGVjFNalZTVW5NMFdXOTJhV3hqVVRGVlFSSVhkM2hMYW1GMmRuWk1aa2Q1TlU1dlVHZHdMWGN3VVZrYUlrRkVjM0k1WmxOdVUwVkxiemRPZVhBd1dsVnNWMGxmVjB0RllXMVhjalkwT1VFIiwiZmN2IjoiMyIsImVpIjoid3hLamF2dnZMZkd5NU5vUGdwLXcwUVkiLCJxYyI6IkNoUjJZVzRnYm5WNWN5Qm9hV2RvSUhOamFHOXZiQkFBZlhBTVZUOCIsInF1ZXN0aW9uIjoiRGlkIFJvYmVydCBSZWRmb3JkIGdvIHRvIFZhbiBOdXlzIEhpZ2ggU2Nob29sPyIsImxrIjoiR2kxa2FXUWdjbTlpWlhKMElISmxaR1p2Y21RZ1oyOGdkRzhnZG1GdUlHNTFlWE1nYUdsbmFDQnpZMmh2YjJ3IiwiYnMiOiJjM1hRTVEtQ01CQUY0TGgyY3U1MGlSSW5SZndETEE0NjZJQ0pMQzVJRDlvRU9OSVdpUF9lb2lacVV2YjN2WHM1aG15YnlzeENrZFhVR1dpUjJncGh3TWFDSmJobURaeTdoNEdES2lWY2NrbFV4YnVJaDhPMDZaMXBSaU5IWTE2R25kanlhTHgxMEdvMFZwWEtWY1c3Z0MtVThWYjg1dGlOUmFsVXVZU2Flb1hHM2RZSWhhcHFGT0NHLVdldmVQQ0pmNVBlc1JuYjdKV0FoTzZvTFNRb0N0SUNTcHItU01qWHdnbjlGdnBQLUU3TVowOCIsImlkIjoiZmNfd3hLamF2dnZMZkd5NU5vUGdwLXcwUVlfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGVXeFBlWGw1U0UxQ1ptTXRaa3hpYmtjNFFXWm5USFpVTUhreFEwcFBXRE56TlRSYWRUZEtUbWhEVFVoc1ZIcHFNa3BQYTJ4eFh6RnNOa2hyWTNNM2FHZGZWekY0UVRWeVRGVjFNalZTVW5NMFdXOTJhV3hqVVRGVlFSSVhkM2hMYW1GMmRuWk1aa2Q1TlU1dlVHZHdMWGN3VVZrYUlrRkVjM0k1WmxOdVUwVkxiemRPZVhBd1dsVnNWMGxmVjB0RllXMVhjalkwT1VFIiwiZmN2IjoiMyIsImVpIjoid3hLamF2dnZMZkd5NU5vUGdwLXcwUVkiLCJxYyI6IkNoUjJZVzRnYm5WNWN5Qm9hV2RvSUhOamFHOXZiQkFBZlhBTVZUOCIsInF1ZXN0aW9uIjoiRGlkIFJvYmVydCBSZWRmb3JkIGdvIHRvIFZhbiBOdXlzIEhpZ2ggU2Nob29sPyIsImxrIjoiR2kxa2FXUWdjbTlpWlhKMElISmxaR1p2Y21RZ1oyOGdkRzhnZG1GdUlHNTFlWE1nYUdsbmFDQnpZMmh2YjJ3IiwiYnMiOiJjM1hRTVEtQ01CQUY0TGgyY3U1MGlSSW5SZndETEE0NjZJQ0pMQzVJRDlvRU9OSVdpUF9lb2lacVV2YjN2WHM1aG15YnlzeENrZFhVR1dpUjJncGh3TWFDSmJobURaeTdoNEdES2lWY2NrbFV4YnVJaDhPMDZaMXBSaU5IWTE2R25kanlhTHgxMEdvMFZwWEtWY1c3Z0MtVThWYjg1dGlOUmFsVXVZU2Flb1hHM2RZSWhhcHFGT0NHLVdldmVQQ0pmNVBlc1JuYjdKV0FoTzZvTFNRb0N0SUNTcHItU01qWHdnbjlGdnBQLUU3TVowOCIsImlkIjoiZmNfd3hLamF2dnZMZkd5NU5vUGdwLXcwUVlfNSJ9"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Van Nuys High School",
+   "link": "https://vannuyshs.lausd.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVAHrOzAVvkShqpkyo4oW9NHJP9KN5KmaDrK4wsnvjtS5zbMBPjUEj_uPD-wnhPHxzBawd51D02kCGrxGmQZbr2k1v3Cqo5WHc0EUJTEQkGXXnnwITQ&ved=2ahUKEwi73c3o7OSWAxVxGVkFHYIPLGoQFnoECEUQAQ&uoh=1",
+   "displayed_link": "https://vannuyshs.lausd.org",
+   "favicon": "https://serpapi.com/images/i/UklGRvwBAABXRUJQVlA4IPABAADQCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhILIgrd1sM53GazgH66fqr71XRgdQBvGxXopk3jo-kN_AKpQgLELbY15h7Qx7UNzvLJPXnG10eMHWwAA_vYTQm9etoyexBvt61F8OtPL1Y9VbfT4hRET74r937qDlKa3-RvGC1AifDLUG6xEGaCb2kVtp9O-mpFv53r5rZhlTN0opcugp2NU69ihIuyarrEEHGM1Gfz-Ilk2E664Y8AKQyAb1ed48IkVix2Uv7pVO8UFmG-NgAQxepmXFjZl9oOA6z96giGzhzpm8MId4ePqL0PY_tBDfRVG9cYU6HROGJtHR-dA2GBLGo_phwIlfAtLV77whGRZW9NkS8xv0ALnKdoP3bmeZBgC0DI0TKOIv48VKQreSJ-yls9h866Ck4acPewqpfhe-nf5F7GtclxtE1X62atzpIA6-zfVbLcjSaUl2VvRxzyueYJhN1dKxa0CGbsMRJkQXRz_8NUkKO0Vshcq_OI6d0vEx_LQAVAtfmWBt_Pes0MbGA8hIPFThD4YBQei_b6om5eurkBIHlxlz7KHkctzLaJBZRKm-v92Ceb-NOlDWt9BSyHDy3Vn5q2Kr621jQG2MJxzkUlJHRTYeO7_xyan5--kQ-MWSDTehF_oAAAA.webp",
+   "snippet": "Van Nuys High School is committed to creating a secure and safe environment where students will become academically capable and self-sufficient individuals, ...",
+   "snippet_highlighted_words": [
+    "Van Nuys High School"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "Staff Directory",
+      "link": "https://vannuyshs.lausd.org/apps/staff/",
+      "snippet": "Van Nuys High School is located in Van Nuys, CA."
+     },
+     {
+      "title": "Bell Schedule",
+      "link": "https://vannuyshs.lausd.org/apps/pages/index.jsp?uREC_ID=4260469&type=d&pREC_ID=2519246",
+      "snippet": "Van Nuys High School is located in Van Nuys, CA."
+     },
+     {
+      "title": "Events",
+      "link": "https://vannuyshs.lausd.org/apps/events/?id=0",
+      "snippet": "Van Nuys High School is located in Van Nuys, CA."
+     },
+     {
+      "title": "VNHS 2026-2027 School Year",
+      "link": "https://vannuyshs.lausd.org/apps/pages/index.jsp?uREC_ID=4418604&type=d",
+      "snippet": "Van Nuys High School is located in Van Nuys, CA."
+     },
+     {
+      "title": "Magnet Programs",
+      "link": "https://vannuyshs.lausd.org/apps/pages/index.jsp?uREC_ID=4265145&type=d",
+      "snippet": "Van Nuys High School is located in Van Nuys, CA."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Van Nuys High School is committed to creating a secure and safe environment where students will become academically capable and self-sufficient individuals, ...",
+     "source_info_link": "https://vannuyshs.lausd.org/",
+     "icon": "https://serpapi.com/images/i/UklGRvwBAABXRUJQVlA4IPABAADQCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhILIgrd1sM53GazgH66fqr71XRgdQBvGxXopk3jo-kN_AKpQgLELbY15h7Qx7UNzvLJPXnG10eMHWwAA_vYTQm9etoyexBvt61F8OtPL1Y9VbfT4hRET74r937qDlKa3-RvGC1AifDLUG6xEGaCb2kVtp9O-mpFv53r5rZhlTN0opcugp2NU69ihIuyarrEEHGM1Gfz-Ilk2E664Y8AKQyAb1ed48IkVix2Uv7pVO8UFmG-NgAQxepmXFjZl9oOA6z96giGzhzpm8MId4ePqL0PY_tBDfRVG9cYU6HROGJtHR-dA2GBLGo_phwIlfAtLV77whGRZW9NkS8xv0ALnKdoP3bmeZBgC0DI0TKOIv48VKQreSJ-yls9h866Ck4acPewqpfhe-nf5F7GtclxtE1X62atzpIA6-zfVbLcjSaUl2VvRxzyueYJhN1dKxa0CGbsMRJkQXRz_8NUkKO0Vshcq_OI6d0vEx_LQAVAtfmWBt_Pes0MbGA8hIPFThD4YBQei_b6om5eurkBIHlxlz7KHkctzLaJBZRKm-v92Ceb-NOlDWt9BSyHDy3Vn5q2Kr621jQG2MJxzkUlJHRTYeO7_xyan5--kQ-MWSDTehF_oAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESVAHrOzAVvkShqpkyo4oW9NHJP9KN5KmaDrK4wsnvjtS5zbMBPjUEj_uPD-wnhPHxzBawd51D02kCGrxGmQZbr2k1v3Cqo5WHc0EUJTEQkGXXnnwITQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESVAHrOzAVvkShqpkyo4oW9NHJP9KN5KmaDrK4wsnvjtS5zbMBPjUEj_uPD-wnhPHxzBawd51D02kCGrxGmQZbr2k1v3Cqo5WHc0EUJTEQkGXXnnwITQ",
+   "source": "Van Nuys High School"
+  },
+  {
+   "position": 2,
+   "title": "Van Nuys High School",
+   "link": "https://en.wikipedia.org/wiki/Van_Nuys_High_School",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESagHrOzAVKVPctkXFUFMEDjnL1t_tUSl677na6_2VKjuWob20GCBZqMQcyXblQJFlS54M9XVm9BWmedfMvyD1RYioyiWeMDBtawJ2UWa6Vb1mEyDxfE5bnjI5f9a1-f8CuMN-rtDCtYq9EBY&ved=2ahUKEwi73c3o7OSWAxVxGVkFHYIPLGoQFnoECDkQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Van_Nuys_High_School",
+   "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+   "snippet": "Van Nuys High School (VNHS) is a public high school in the Van Nuys district of Los Angeles, belonging to the Los Angeles Unified School District: District ...",
+   "snippet_highlighted_words": [
+    "Van Nuys High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Van Nuys High School (VNHS) is a public high school in the Van Nuys district of Los Angeles, belonging to the Los Angeles Unified School District: District ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Van_Nuys_High_School",
+     "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESagHrOzAVKVPctkXFUFMEDjnL1t_tUSl677na6_2VKjuWob20GCBZqMQcyXblQJFlS54M9XVm9BWmedfMvyD1RYioyiWeMDBtawJ2UWa6Vb1mEyDxfE5bnjI5f9a1-f8CuMN-rtDCtYq9EBY&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESagHrOzAVKVPctkXFUFMEDjnL1t_tUSl677na6_2VKjuWob20GCBZqMQcyXblQJFlS54M9XVm9BWmedfMvyD1RYioyiWeMDBtawJ2UWa6Vb1mEyDxfE5bnjI5f9a1-f8CuMN-rtDCtYq9EBY",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Van_Nuys_High_School#:~:text=Van%20Nuys%20High%20School%20(VNHS),Unified%20School%20District%3A%20District%202."
+  },
+  {
+   "position": 3,
+   "title": "VAN NUYS HIGH SCHOOL - Updated September 2026",
+   "link": "https://www.yelp.com/biz/van-nuys-high-school-van-nuys",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbgHrOzAVX1OEMDUeez7V1vgWittGp70zQ5m5ncDAX-B5tv191QtlQpIgx9XC1n0EkzIx5a9TdJ6ssUwtbFq79c63emSN0I_UVvdF7cQNHCrETHj_ZP0DHGCMMWfsZY8nsPBAKFKIpRz1HFGKESI9&ved=2ahUKEwi73c3o7OSWAxVxGVkFHYIPLGoQFnoECGMQAQ&uoh=1",
+   "displayed_link": "https://www.yelp.com \u203a biz \u203a van-nuys-high-school-van-...",
+   "favicon": "https://serpapi.com/images/i/UklGRrABAABXRUJQVlA4IKQBAAAQCgCdASogACAAPrkurlcnIacnG_DgFwlsAJ0y7PyVoDbX_pnpgH-d6gDn0fY38jPAArVNoCrAlaPcgw9_NjrSLYDCki6HiaAYVj36NR_DgRtjmp6VzqLnAAD-9-_HVtEfZf1k5Fu5sOhI2730sfPBf_CG_gY7IjdRHgorclQN_UG5FGoT7nVAd5YwzrWsxH6TLxXCUq25cpJOT9z4h4CPS6djcg5y73xYO-MEdL5cmcD11oqlxpeUGrqvbq4UPXtKdespQXJb7V__FwiO42L4KCCpbG2JTSjKGoiWQ0R_KVZ3BS_P7vCXle1a3EM-Jy_Wd1KLIP7ksgtn7CFrwo3uYnAuucwyBN7n99OZNEeORetd5CcQppI2BuvU9UHgrzSFfAr9K9bl1C3aK0jdaqBhzHMfSa2nmKdWaae9fbEZIn9rcXQM_vzXw35X-i18LrAcA4uanHTpWKV416dVDFlmH6zJvcyipDEO-BFNQSfuLsAoa1S8UxXymJGxhbWVTBjsCAgl1zi98k2jrESorHzHlvvRHIUVkuNO4hqk0bPO5cfAAAA.webp",
+   "snippet": "6535 Cedros Ave. Van Nuys, CA 91411. Van Nuys. Directions \u00b7 (818) 778-6800. Call Now \u00b7 Hours. What time does Van Nuys High School open? What time does Van Nuys ...",
+   "snippet_highlighted_words": [
+    "Van Nuys High School",
+    "Van Nuys"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "6535 Cedros Ave. Van Nuys, CA 91411. Van Nuys. Directions \u00b7 (818) 778-6800. Call Now \u00b7 Hours. What time does Van Nuys High School open? What time does Van Nuys ...",
+     "source_info_link": "https://www.yelp.com/biz/van-nuys-high-school-van-nuys",
+     "icon": "https://serpapi.com/images/i/UklGRrABAABXRUJQVlA4IKQBAAAQCgCdASogACAAPrkurlcnIacnG_DgFwlsAJ0y7PyVoDbX_pnpgH-d6gDn0fY38jPAArVNoCrAlaPcgw9_NjrSLYDCki6HiaAYVj36NR_DgRtjmp6VzqLnAAD-9-_HVtEfZf1k5Fu5sOhI2730sfPBf_CG_gY7IjdRHgorclQN_UG5FGoT7nVAd5YwzrWsxH6TLxXCUq25cpJOT9z4h4CPS6djcg5y73xYO-MEdL5cmcD11oqlxpeUGrqvbq4UPXtKdespQXJb7V__FwiO42L4KCCpbG2JTSjKGoiWQ0R_KVZ3BS_P7vCXle1a3EM-Jy_Wd1KLIP7ksgtn7CFrwo3uYnAuucwyBN7n99OZNEeORetd5CcQppI2BuvU9UHgrzSFfAr9K9bl1C3aK0jdaqBhzHMfSa2nmKdWaae9fbEZIn9rcXQM_vzXw35X-i18LrAcA4uanHTpWKV416dVDFlmH6zJvcyipDEO-BFNQSfuLsAoa1S8UxXymJGxhbWVTBjsCAgl1zi98k2jrESorHzHlvvRHIUVkuNO4hqk0bPO5cfAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESbgHrOzAVX1OEMDUeez7V1vgWittGp70zQ5m5ncDAX-B5tv191QtlQpIgx9XC1n0EkzIx5a9TdJ6ssUwtbFq79c63emSN0I_UVvdF7cQNHCrETHj_ZP0DHGCMMWfsZY8nsPBAKFKIpRz1HFGKESI9&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESbgHrOzAVX1OEMDUeez7V1vgWittGp70zQ5m5ncDAX-B5tv191QtlQpIgx9XC1n0EkzIx5a9TdJ6ssUwtbFq79c63emSN0I_UVvdF7cQNHCrETHj_ZP0DHGCMMWfsZY8nsPBAKFKIpRz1HFGKESI9",
+   "source": "Yelp",
+   "read_more_link": "https://www.yelp.com/biz/van-nuys-high-school-van-nuys#:~:text=6535%20Cedros%20Ave,Directions&text=(818)%20778%2D6800,Call%20Now&text=Hours"
+  },
+  {
+   "position": 4,
+   "title": "The Mirror \u2013 The Student News Site of Van Nuys High School",
+   "link": "https://vnhsmirror.com/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTwHrOzAV5z5J3LH4_FK1r3nvYP7sZe7mgPow_6l_mK-ej4bmVkzupoCykbJLyRaqkgyz5QlK-TVXKICIms37R5e9y6TkxBnJi7H6IcPe1jc&ved=2ahUKEwi73c3o7OSWAxVxGVkFHYIPLGoQFnoECGcQAQ&uoh=1",
+   "displayed_link": "https://vnhsmirror.com",
+   "favicon": "https://serpapi.com/images/i/UklGRmoBAABXRUJQVlA4IF4BAAAQCACdASoZABwAPtE-tFooIigoFAEAGglpABFLYsFYCgaC5_GV8z-wR-snUA_Sv2EP13Dsq9FslfHjH7XjmRWGr6F2uLREVJAAAP7zUpOFYJnPqCzLuDaJyR0ViJlIlLzr9Tp7jZEjNmiF-u1vh_uGq_B1Fc1Ss1Tv1Tmk_1Nj4p_rp5bAnr81p8IDME_N5ysycXgIbFNqhQDhyy_CDj6i7MRv8TMHN6KNdxExAfElqNBMBCD2mhQbmut_C3CnKUlqc8yDQpDjdl9av-Ltxk6sTzjH1enTiigHVl5_t2biJPmQhx_Xj3BX-xnONxMvvJ9j4I_HQVHQhEl3bepY1-8eWvutSP3rYPRisF6mZPLL9N9AM44y_F_9FwQuWSuEQcPeYPh53xTe0jizpxQbpg_qssn0WfrTIenVRP40v51BJbN_RT1ucXf_6EdyXcTZy4apQEmmLnK7mgzTVAAAAA.webp",
+   "snippet": "The Student News Site of Van Nuys High School.",
+   "snippet_highlighted_words": [
+    "Van Nuys High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The Student News Site of Van Nuys High School.",
+     "source_info_link": "https://vnhsmirror.com/",
+     "icon": "https://serpapi.com/images/i/UklGRmoBAABXRUJQVlA4IF4BAAAQCACdASoZABwAPtE-tFooIigoFAEAGglpABFLYsFYCgaC5_GV8z-wR-snUA_Sv2EP13Dsq9FslfHjH7XjmRWGr6F2uLREVJAAAP7zUpOFYJnPqCzLuDaJyR0ViJlIlLzr9Tp7jZEjNmiF-u1vh_uGq_B1Fc1Ss1Tv1Tmk_1Nj4p_rp5bAnr81p8IDME_N5ysycXgIbFNqhQDhyy_CDj6i7MRv8TMHN6KNdxExAfElqNBMBCD2mhQbmut_C3CnKUlqc8yDQpDjdl9av-Ltxk6sTzjH1enTiigHVl5_t2biJPmQhx_Xj3BX-xnONxMvvJ9j4I_HQVHQhEl3bepY1-8eWvutSP3rYPRisF6mZPLL9N9AM44y_F_9FwQuWSuEQcPeYPh53xTe0jizpxQbpg_qssn0WfrTIenVRP40v51BJbN_RT1ucXf_6EdyXcTZy4apQEmmLnK7mgzTVAAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESTwHrOzAV5z5J3LH4_FK1r3nvYP7sZe7mgPow_6l_mK-ej4bmVkzupoCykbJLyRaqkgyz5QlK-TVXKICIms37R5e9y6TkxBnJi7H6IcPe1jc&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESTwHrOzAV5z5J3LH4_FK1r3nvYP7sZe7mgPow_6l_mK-ej4bmVkzupoCykbJLyRaqkgyz5QlK-TVXKICIms37R5e9y6TkxBnJi7H6IcPe1jc",
+   "source": "vnhsmirror.com"
+  },
+  {
+   "position": 5,
+   "title": "Van Nuys Senior High School in Los Angeles, CA",
+   "link": "https://www.niche.com/k12/van-nuys-senior-high-school-van-nuys-ca/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESegHrOzAV0qhy2Ket11ugcxeXW3ikdYOQqGa0jWexu0cI2OzGLf4gZ6EG-FCDlfNTcOgrIrMOYJxXpa9nxDfW6H3TSpAGN0KxvA_eGCAt3Wh1WsyZ7_PWpH9HAnnMIPF7IMAbIYzcmwxQ4zUI1VG1AgCxoK0R9LFep4r6&ved=2ahUKEwi73c3o7OSWAxVxGVkFHYIPLGoQFnoECG0QAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a California",
+   "favicon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAACwBgCdASocABwAPtEutFooIagoGAEAGglAGZo7gYv7m0TPt8r_WYdmpcah9WA48zicEtVrCFOGH4nMtJiaAAD-8Mpqn5wztwFeSDXF5YavmSdrcpv67JtS1tKl7uW6N9aR19WH-vT5VtxqndfSU_QIzB4R0m5fNi1eX3h8GYa_8H28-7o-nc3D2GEvZqGTES8muP_UCP_UIYsGh8QXK7V2sBnUP79qQidv_o8__S3xjZZmmXEG69VP00Dn3HuddwtLR_4xf_0PU8NPn060X-47u3VDw39ZbBgpwK3wP0F5tHUWMrTdTbcT_h7ghKmtPgKiKNIvGUNLHBT4VbzlXgvFo7vCP-ot_w6I_hOg9EcgQfabjpYvU6X4xcxi9BIxh2PJomEF2PA_XoL7FtzFNUuyE0IG83Bax0ZYU-dxj0EhgAAA.webp",
+   "snippet": "Van Nuys High School boasts a vibrant extracurricular scene, including numerous clubs, sports teams, and arts programs. Students can join academic clubs like ...",
+   "snippet_highlighted_words": [
+    "Van Nuys High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Van Nuys High School boasts a vibrant extracurricular scene, including numerous clubs, sports teams, and arts programs. Students can join academic clubs like ...",
+     "source_info_link": "https://www.niche.com/k12/van-nuys-senior-high-school-van-nuys-ca/",
+     "icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAACwBgCdASocABwAPtEutFooIagoGAEAGglAGZo7gYv7m0TPt8r_WYdmpcah9WA48zicEtVrCFOGH4nMtJiaAAD-8Mpqn5wztwFeSDXF5YavmSdrcpv67JtS1tKl7uW6N9aR19WH-vT5VtxqndfSU_QIzB4R0m5fNi1eX3h8GYa_8H28-7o-nc3D2GEvZqGTES8muP_UCP_UIYsGh8QXK7V2sBnUP79qQidv_o8__S3xjZZmmXEG69VP00Dn3HuddwtLR_4xf_0PU8NPn060X-47u3VDw39ZbBgpwK3wP0F5tHUWMrTdTbcT_h7ghKmtPgKiKNIvGUNLHBT4VbzlXgvFo7vCP-ot_w6I_hOg9EcgQfabjpYvU6X4xcxi9BIxh2PJomEF2PA_XoL7FtzFNUuyE0IG83Bax0ZYU-dxj0EhgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESegHrOzAV0qhy2Ket11ugcxeXW3ikdYOQqGa0jWexu0cI2OzGLf4gZ6EG-FCDlfNTcOgrIrMOYJxXpa9nxDfW6H3TSpAGN0KxvA_eGCAt3Wh1WsyZ7_PWpH9HAnnMIPF7IMAbIYzcmwxQ4zUI1VG1AgCxoK0R9LFep4r6&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESegHrOzAV0qhy2Ket11ugcxeXW3ikdYOQqGa0jWexu0cI2OzGLf4gZ6EG-FCDlfNTcOgrIrMOYJxXpa9nxDfW6H3TSpAGN0KxvA_eGCAt3Wh1WsyZ7_PWpH9HAnnMIPF7IMAbIYzcmwxQ4zUI1VG1AgCxoK0R9LFep4r6",
+   "source": "Niche",
+   "read_more_link": "https://www.niche.com/k12/van-nuys-senior-high-school-van-nuys-ca/#:~:text=How%20strong%20is%20the%20performing"
+  },
+  {
+   "position": 6,
+   "title": "Van Nuys High School and Magnets (@vnhsmagnets)",
+   "link": "https://www.instagram.com/vnhsmagnets/?hl=en",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZAHrOzAVp8HMmaOoEsgCj6R8zJWi8_7yYG7Mly7Jy-5tCEuVSFGxi3ywriCJ4ZDtJfMAuVPvgWNJQFqiHej94NDY8CeUC44Fafcnu_t9gWPOptp1xwwsIs3K5EO_1xomCBJTTMI&ved=2ahUKEwi73c3o7OSWAxVxGVkFHYIPLGoQFnoECGgQAQ&uoh=1",
+   "displayed_link": "2.8K+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+   "snippet": "Van Nuys High School and Magnetsthey/them. 2,796 followers. 320 following. VNHS ...",
+   "snippet_highlighted_words": [
+    "Van Nuys High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Van Nuys High School and Magnetsthey/them. 2,796 followers. 320 following. VNHS ...",
+     "source_info_link": "https://www.instagram.com/vnhsmagnets/?hl=en",
+     "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESZAHrOzAVp8HMmaOoEsgCj6R8zJWi8_7yYG7Mly7Jy-5tCEuVSFGxi3ywriCJ4ZDtJfMAuVPvgWNJQFqiHej94NDY8CeUC44Fafcnu_t9gWPOptp1xwwsIs3K5EO_1xomCBJTTMI&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESZAHrOzAVp8HMmaOoEsgCj6R8zJWi8_7yYG7Mly7Jy-5tCEuVSFGxi3ywriCJ4ZDtJfMAuVPvgWNJQFqiHej94NDY8CeUC44Fafcnu_t9gWPOptp1xwwsIs3K5EO_1xomCBJTTMI",
+   "source": "Instagram \u00b7 vnhsmagnets",
+   "read_more_link": "https://www.instagram.com/vnhsmagnets/?hl=en#:~:text=Van%20Nuys%20High%20School%20and,VNHS%20%F0%9F%A7%B2%20Magnets"
+  },
+  {
+   "position": 7,
+   "title": "Van Nuys High School - California",
+   "link": "https://www.donorschoose.org/schools/california/los-angeles-unified-school-district/van-nuys-high-school/7173",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpQEB6zswFa_prfVHOtKgS70yKBXdbntMFNDrpM3LjvzaJDgjxSqdn2WmAnfcvSaP4C4NN3D90givKp7PCGnUHPXIIV-FoQ30m41RLf6oSY2jRq-dL64vhhMrQK1bXayKmI51RTxyUBMuViTzZYZ-GIPbUJTCPITVdjIWqbKFB8wP5BrTTKanVuTY_jFzud6uUe1IPDs95KpbaytEjMlYgpGcB02wcxg&ved=2ahUKEwi73c3o7OSWAxVxGVkFHYIPLGoQFnoECGoQAQ&uoh=1",
+   "displayed_link": "https://www.donorschoose.org \u203a schools \u203a california",
+   "favicon": "https://serpapi.com/images/i/UklGRswAAABXRUJQVlA4IMAAAABwBQCdASocABwAPtEwtFooIigoGAEAGglsAKknND9QgUiCtSxixOFp4uhGPS57r1rBvQAAAP78Ruvp_RopI31agF2kTcvpn_nJpqDkB-JZ3L4TnmXfH8Lj7_7aH_7LAv_qWkLImNPY960ex9CxAdN4Rj2bYpPBjMs4lAfwcelVvNLkNVmPcrR_CPQWyeuMExXrAK1CRpFOK2_rpU32_y9RFVHtRr1D17PWVgxOgSGl1SdGJuoFHhfsjXVLLo5igAA.webp",
+   "snippet": "Van Nuys High School is a public school in Van Nuys, California that is part of Los Angeles Unified School District. It serves 1773 studentsin 9 - 12 with a ...",
+   "snippet_highlighted_words": [
+    "Van Nuys High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Van Nuys High School is a public school in Van Nuys, California that is part of Los Angeles Unified School District. It serves 1773 studentsin 9 - 12 with a ...",
+     "source_info_link": "https://www.donorschoose.org/schools/california/los-angeles-unified-school-district/van-nuys-high-school/7173",
+     "icon": "https://serpapi.com/images/i/UklGRswAAABXRUJQVlA4IMAAAABwBQCdASocABwAPtEwtFooIigoGAEAGglsAKknND9QgUiCtSxixOFp4uhGPS57r1rBvQAAAP78Ruvp_RopI31agF2kTcvpn_nJpqDkB-JZ3L4TnmXfH8Lj7_7aH_7LAv_qWkLImNPY960ex9CxAdN4Rj2bYpPBjMs4lAfwcelVvNLkNVmPcrR_CPQWyeuMExXrAK1CRpFOK2_rpU32_y9RFVHtRr1D17PWVgxOgSGl1SdGJuoFHhfsjXVLLo5igAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESpQEB6zswFa_prfVHOtKgS70yKBXdbntMFNDrpM3LjvzaJDgjxSqdn2WmAnfcvSaP4C4NN3D90givKp7PCGnUHPXIIV-FoQ30m41RLf6oSY2jRq-dL64vhhMrQK1bXayKmI51RTxyUBMuViTzZYZ-GIPbUJTCPITVdjIWqbKFB8wP5BrTTKanVuTY_jFzud6uUe1IPDs95KpbaytEjMlYgpGcB02wcxg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESpQEB6zswFa_prfVHOtKgS70yKBXdbntMFNDrpM3LjvzaJDgjxSqdn2WmAnfcvSaP4C4NN3D90givKp7PCGnUHPXIIV-FoQ30m41RLf6oSY2jRq-dL64vhhMrQK1bXayKmI51RTxyUBMuViTzZYZ-GIPbUJTCPITVdjIWqbKFB8wP5BrTTKanVuTY_jFzud6uUe1IPDs95KpbaytEjMlYgpGcB02wcxg",
+   "source": "DonorsChoose"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Van Nuys High school Bell Schedule",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Van+Nuys+High+school+Bell+Schedule&sa=X&ved=2ahUKEwi73c3o7OSWAxVxGVkFHYIPLGoQ1QJ6BAhpEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Van+Nuys+High+school+Bell+Schedule"
+  },
+  {
+   "block_position": 1,
+   "query": "Van nuys high school football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Van+nuys+high+school+football&sa=X&ved=2ahUKEwi73c3o7OSWAxVxGVkFHYIPLGoQ1QJ6BAhsEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Van+nuys+high+school+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Van nuys high school ranking",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Van+nuys+high+school+ranking&sa=X&ved=2ahUKEwi73c3o7OSWAxVxGVkFHYIPLGoQ1QJ6BAh5EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Van+nuys+high+school+ranking"
+  },
+  {
+   "block_position": 1,
+   "query": "Van Nuys High School News",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Van+Nuys+High+School+News&sa=X&ved=2ahUKEwi73c3o7OSWAxVxGVkFHYIPLGoQ1QJ6BAh7EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Van+Nuys+High+School+News"
+  },
+  {
+   "block_position": 1,
+   "query": "Van nuys high school greatschools",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Van+nuys+high+school+greatschools&sa=X&ved=2ahUKEwi73c3o7OSWAxVxGVkFHYIPLGoQ1QJ6BAh6EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Van+nuys+high+school+greatschools"
+  },
+  {
+   "block_position": 1,
+   "query": "Van Nuys High School Map",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Van+Nuys+High+School+Map&sa=X&ved=2ahUKEwi73c3o7OSWAxVxGVkFHYIPLGoQ1QJ6BAh3EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Van+Nuys+High+School+Map"
+  },
+  {
+   "block_position": 1,
+   "query": "Van Nuys High School teacher died",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Van+Nuys+High+School+teacher+died&sa=X&ved=2ahUKEwi73c3o7OSWAxVxGVkFHYIPLGoQ1QJ6BAh0EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Van+Nuys+High+School+teacher+died"
+  },
+  {
+   "block_position": 1,
+   "query": "Van Nuys High School Young Sheldon",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Van+Nuys+High+School+Young+Sheldon&sa=X&ved=2ahUKEwi73c3o7OSWAxVxGVkFHYIPLGoQ1QJ6BAhvEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Van+Nuys+High+School+Young+Sheldon"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Van+Nuys+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=wxKjavvvLfGy5NoPgp-w0QY&start=10&sa=N&sstk=AS6-VmLXIoOwu8FGAczxLu53GeC_4J8aH3jvXesaL5sJrRXMMqH3HJkO8EkPMiVjU8dcWGme57Qw5-CjVdjy9NgdlkbH3WdYLkvFTQ&ved=2ahUKEwi73c3o7OSWAxVxGVkFHYIPLGoQ8NMDegUIgAEQFg",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Van+Nuys+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=wxKjavvvLfGy5NoPgp-w0QY&start=10&sa=N&sstk=AS6-VmLXIoOwu8FGAczxLu53GeC_4J8aH3jvXesaL5sJrRXMMqH3HJkO8EkPMiVjU8dcWGme57Qw5-CjVdjy9NgdlkbH3WdYLkvFTQ&ved=2ahUKEwi73c3o7OSWAxVxGVkFHYIPLGoQ8tMDegUIgAEQBA",
+   "3": "https://www.google.com/search?q=%22Van+Nuys+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=wxKjavvvLfGy5NoPgp-w0QY&start=20&sa=N&sstk=AS6-VmLXIoOwu8FGAczxLu53GeC_4J8aH3jvXesaL5sJrRXMMqH3HJkO8EkPMiVjU8dcWGme57Qw5-CjVdjy9NgdlkbH3WdYLkvFTQ&ved=2ahUKEwi73c3o7OSWAxVxGVkFHYIPLGoQ8tMDegUIgAEQBg",
+   "4": "https://www.google.com/search?q=%22Van+Nuys+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=wxKjavvvLfGy5NoPgp-w0QY&start=30&sa=N&sstk=AS6-VmLXIoOwu8FGAczxLu53GeC_4J8aH3jvXesaL5sJrRXMMqH3HJkO8EkPMiVjU8dcWGme57Qw5-CjVdjy9NgdlkbH3WdYLkvFTQ&ved=2ahUKEwi73c3o7OSWAxVxGVkFHYIPLGoQ8tMDegUIgAEQCA",
+   "5": "https://www.google.com/search?q=%22Van+Nuys+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=wxKjavvvLfGy5NoPgp-w0QY&start=40&sa=N&sstk=AS6-VmLXIoOwu8FGAczxLu53GeC_4J8aH3jvXesaL5sJrRXMMqH3HJkO8EkPMiVjU8dcWGme57Qw5-CjVdjy9NgdlkbH3WdYLkvFTQ&ved=2ahUKEwi73c3o7OSWAxVxGVkFHYIPLGoQ8tMDegUIgAEQCg",
+   "6": "https://www.google.com/search?q=%22Van+Nuys+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=wxKjavvvLfGy5NoPgp-w0QY&start=50&sa=N&sstk=AS6-VmLXIoOwu8FGAczxLu53GeC_4J8aH3jvXesaL5sJrRXMMqH3HJkO8EkPMiVjU8dcWGme57Qw5-CjVdjy9NgdlkbH3WdYLkvFTQ&ved=2ahUKEwi73c3o7OSWAxVxGVkFHYIPLGoQ8tMDegUIgAEQDA",
+   "7": "https://www.google.com/search?q=%22Van+Nuys+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=wxKjavvvLfGy5NoPgp-w0QY&start=60&sa=N&sstk=AS6-VmLXIoOwu8FGAczxLu53GeC_4J8aH3jvXesaL5sJrRXMMqH3HJkO8EkPMiVjU8dcWGme57Qw5-CjVdjy9NgdlkbH3WdYLkvFTQ&ved=2ahUKEwi73c3o7OSWAxVxGVkFHYIPLGoQ8tMDegUIgAEQDg",
+   "8": "https://www.google.com/search?q=%22Van+Nuys+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=wxKjavvvLfGy5NoPgp-w0QY&start=70&sa=N&sstk=AS6-VmLXIoOwu8FGAczxLu53GeC_4J8aH3jvXesaL5sJrRXMMqH3HJkO8EkPMiVjU8dcWGme57Qw5-CjVdjy9NgdlkbH3WdYLkvFTQ&ved=2ahUKEwi73c3o7OSWAxVxGVkFHYIPLGoQ8tMDegUIgAEQEA",
+   "9": "https://www.google.com/search?q=%22Van+Nuys+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=wxKjavvvLfGy5NoPgp-w0QY&start=80&sa=N&sstk=AS6-VmLXIoOwu8FGAczxLu53GeC_4J8aH3jvXesaL5sJrRXMMqH3HJkO8EkPMiVjU8dcWGme57Qw5-CjVdjy9NgdlkbH3WdYLkvFTQ&ved=2ahUKEwi73c3o7OSWAxVxGVkFHYIPLGoQ8tMDegUIgAEQEg",
+   "10": "https://www.google.com/search?q=%22Van+Nuys+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=wxKjavvvLfGy5NoPgp-w0QY&start=90&sa=N&sstk=AS6-VmLXIoOwu8FGAczxLu53GeC_4J8aH3jvXesaL5sJrRXMMqH3HJkO8EkPMiVjU8dcWGme57Qw5-CjVdjy9NgdlkbH3WdYLkvFTQ&ved=2ahUKEwi73c3o7OSWAxVxGVkFHYIPLGoQ8tMDegUIgAEQFA"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Van+Nuys+High+School%22&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Van+Nuys+High+School%22&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Van+Nuys+High+School%22&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Van+Nuys+High+School%22&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Van+Nuys+High+School%22&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Van+Nuys+High+School%22&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Van+Nuys+High+School%22&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Van+Nuys+High+School%22&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Van+Nuys+High+School%22&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Van+Nuys+High+School%22&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Van+Nuys+High+School%22&start=90"
+  }
+ }
+}

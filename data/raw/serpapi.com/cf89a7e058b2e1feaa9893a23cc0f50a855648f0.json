@@ -1,0 +1,109 @@
+{
+ "news_results": [
+  {
+   "position": 1,
+   "title": "CELEBRATE THE SEASON! Pittsburgh\u2019s Holiday Parade",
+   "source": {
+    "name": "New Pittsburgh Courier",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://newpittsburghcourier.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://newpittsburghcourier.com/2019/12/30/celebrate-the-season-pittsburghs-holiday-parade/",
+   "thumbnail": "https://newpittsburghcourier.com/wp-content/uploads/sites/3/2019/12/ladieswithsanta.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNXVUl0YkZCWUxYRmxVR2xEVFJDM0F4aTZCU2dLTWdZSllveEdQUVk",
+   "date": "12/30/2019, 08:00 AM, +0000 UTC",
+   "iso_date": "2019-12-30T08:00:00Z"
+  },
+  {
+   "position": 2,
+   "title": "WPXI Holiday Parade Presented by Pittsburgh Public Schools history",
+   "source": {
+    "name": "WPXI",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wpxi.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.wpxi.com/news/parade-history/197615965/",
+   "thumbnail": "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/v2/MPIMYFZ3MOV42H5OVPMADPUD4E.jpg?smart=true&auth=662b97bc86b37856bd278bbb1646cfef74a2493e726bbc44a17907e365d8cb8e&width=1920&height=1080",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVFhMjFoY3pGVU16TXlPSFZaVFJDb0FSaXNBaWdCTWdB",
+   "date": "11/08/2012, 08:00 AM, +0000 UTC",
+   "iso_date": "2012-11-08T08:00:00Z"
+  },
+  {
+   "position": 3,
+   "title": "The Ultimate Pittsburgh Holiday Festival & Event Guide 2019",
+   "source": {
+    "name": "Good Food Pittsburgh",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://goodfoodpittsburgh.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Madeline Quigley"
+    ]
+   },
+   "link": "https://goodfoodpittsburgh.com/the-ultimate-pittsburgh-holiday-festival-event-guide-2019/",
+   "thumbnail": "https://goodfoodpittsburgh.com/wp-content/uploads/2019/11/73321467_2717395861656667_8523804997723357184_o-1024x682.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU9NMFZQWjNsWWNYWmpiV2N3VFJERUF4aW5CU2dLTWdrQmtJYUp0U05WRWdF",
+   "date": "11/17/2019, 08:00 AM, +0000 UTC",
+   "iso_date": "2019-11-17T08:00:00Z"
+  },
+  {
+   "position": 4,
+   "title": "45+ not-so-scary Halloween events in Pittsburgh for kids",
+   "source": {
+    "name": "Kidsburgh",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.kidsburgh.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sally Quinn"
+    ]
+   },
+   "link": "https://www.kidsburgh.org/not-so-scary-halloween-events-in-the-pittsburgh-area-for-kids-2024/",
+   "thumbnail": "https://www.kidsburgh.org/wp-content/uploads/2024/09/OCT-PghZoo_JOLE1-e1726929634316.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBPV28xUXpaeVQxWnpaVkF5VFJERUF4aW5CU2dLTWdhQk5JNW52Z1U",
+   "date": "09/25/2024, 07:00 AM, +0000 UTC",
+   "iso_date": "2024-09-25T07:00:00Z"
+  }
+ ],
+ "menu_links": [
+  {
+   "title": "U.S.",
+   "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+  },
+  {
+   "title": "World",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Your local news",
+   "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+  },
+  {
+   "title": "Business",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Technology",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Entertainment",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Sports",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Science",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Health",
+   "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+  }
+ ]
+}

@@ -1,0 +1,399 @@
+{
+ "search_information": {
+  "query_displayed": "\"Defiance High School\" Delaware",
+  "total_results": 53300,
+  "time_taken_displayed": 0.28,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "related_questions": [
+  {
+   "question": "What is Defiance High School known for?",
+   "type": "ai_overview",
+   "page_token": "yqz9mHicHdBRboIwAADQ7DJ-ainOZSZmGQoDHCilLdCfpbYqSoGqCMLf7rJT7TRL9o7wvn_UqSp-n9q8afRtPpl0XTc-1vVR7ceiLif81ldiIrhSOy6K-exlZrwdxMK-e9by4lkR0ZquEIgrv8ew64UTDQjUhkgkFicDxBDZIlH3oGBeCJqCE4olzCkDtykfwgRTiyWpbDGlAwVyicDzilGrC5Q_ozi0meG0lMiKGKzlqeWngzPg1P8UrnQR8Mx92ZyZWQ_BGbk8EX1MHtvNCnmc5OuwEE2g3iGmuRkDIxNuiBjIPxL6mmSV3lI36CPDunOoUwJRsFMF5I7c7Fxd2bmEBPuXLHWyrKA9tvWV2CoKetBkpbLYoz5FBA3irEpShTaFOpaYhuSscFixdQaN6V45GJcoioDdkGh0EO3CHP1_Lr4OZTPX1_r4B1BIg6M",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=yqz9mHicHdBRboIwAADQ7DJ-ainOZSZmGQoDHCilLdCfpbYqSoGqCMLf7rJT7TRL9o7wvn_UqSp-n9q8afRtPpl0XTc-1vVR7ceiLif81ldiIrhSOy6K-exlZrwdxMK-e9by4lkR0ZquEIgrv8ew64UTDQjUhkgkFicDxBDZIlH3oGBeCJqCE4olzCkDtykfwgRTiyWpbDGlAwVyicDzilGrC5Q_ozi0meG0lMiKGKzlqeWngzPg1P8UrnQR8Mx92ZyZWQ_BGbk8EX1MHtvNCnmc5OuwEE2g3iGmuRkDIxNuiBjIPxL6mmSV3lI36CPDunOoUwJRsFMF5I7c7Fxd2bmEBPuXLHWyrKA9tvWV2CoKetBkpbLYoz5FBA3irEpShTaFOpaYhuSscFixdQaN6V45GJcoioDdkGh0EO3CHP1_Lr4OZTPX1_r4B1BIg6M",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGFHSkVUV28zTUVSRE5tVklhSHBoVkVKVmVFRlJkbmR0UTJOamVEbFJVa1kwTURSTFVEaFFVMDlvZG5GU1RqaHFSVkZuZVVkaFoxTktURUV0TUVaNGFtb3RiMkZtVUc1cGRXMDJkSHA1TkRsWGNVNVhjRGhoVDBKSlFSSVhkbEV5YW1GeFdHSkZja3hLYTFCSlVETXRMV0pwUVdjYUlrRkVjM0k1WmxJNFUwdEhTR2hKZGpSM1dFaFhWUzFCY0dReVdETldaRVJDVWxFIiwiZmN2IjoiMyIsImVpIjoidlEyamFxWGJFckxKa1BJUDMtLWJpQWciLCJxYyI6IkNoMWtaV1pwWVc1alpTQm9hV2RvSUhOamFHOXZiQ0JrWld4aGQyRnlaUkFBZlJhMURqOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyBEZWZpYW5jZSBIaWdoIFNjaG9vbCBrbm93biBmb3I/IiwibGsiOiJHaVozYUdGMElHbHpJR1JsWm1saGJtTmxJR2hwWjJnZ2MyTm9iMjlzSUd0dWIzZHVJR1p2Y2ciLCJicyI6ImM0MlBNUS1DTUJCRzQzcVRjNmRURW5VUnRILUF4UUZuQnVlVEZ0c0kxNFNXTlA1N05ZRkVEU1R1NzkxOUQwcllYZ3dGdEI1UHVyYkVsY2JDM2d5V2xYR3V3VHU3eUZpN0xwYzdzWWtEcWtiVXZGSF9nMElGMlhnMEdJM2N0MWZkb2VOdjN2THJaVU9ST3AzTGcwampYNG9hRkNCSUN4ZXhKWDZnRDczU0hEeFNDSnJWWkVvdU03RTNjOFpVRVp4aF9kbVJIQ2VuSjJJVjU2aHg3WEx4QkEiLCJpZCI6ImZjX3ZRMmphcVhiRXJMSmtQSVAzLS1iaUFnXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGFHSkVUV28zTUVSRE5tVklhSHBoVkVKVmVFRlJkbmR0UTJOamVEbFJVa1kwTURSTFVEaFFVMDlvZG5GU1RqaHFSVkZuZVVkaFoxTktURUV0TUVaNGFtb3RiMkZtVUc1cGRXMDJkSHA1TkRsWGNVNVhjRGhoVDBKSlFSSVhkbEV5YW1GeFdHSkZja3hLYTFCSlVETXRMV0pwUVdjYUlrRkVjM0k1WmxJNFUwdEhTR2hKZGpSM1dFaFhWUzFCY0dReVdETldaRVJDVWxFIiwiZmN2IjoiMyIsImVpIjoidlEyamFxWGJFckxKa1BJUDMtLWJpQWciLCJxYyI6IkNoMWtaV1pwWVc1alpTQm9hV2RvSUhOamFHOXZiQ0JrWld4aGQyRnlaUkFBZlJhMURqOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyBEZWZpYW5jZSBIaWdoIFNjaG9vbCBrbm93biBmb3I%2FIiwibGsiOiJHaVozYUdGMElHbHpJR1JsWm1saGJtTmxJR2hwWjJnZ2MyTm9iMjlzSUd0dWIzZHVJR1p2Y2ciLCJicyI6ImM0MlBNUS1DTUJCRzQzcVRjNmRURW5VUnRILUF4UUZuQnVlVEZ0c0kxNFNXTlA1N05ZRkVEU1R1NzkxOUQwcllYZ3dGdEI1UHVyYkVsY2JDM2d5V2xYR3V3VHU3eUZpN0xwYzdzWWtEcWtiVXZGSF9nMElGMlhnMEdJM2N0MWZkb2VOdjN2THJaVU9ST3AzTGcwampYNG9hRkNCSUN4ZXhKWDZnRDczU0hEeFNDSnJWWkVvdU03RTNjOFpVRVp4aF9kbVJIQ2VuSjJJVjU2aHg3WEx4QkEiLCJpZCI6ImZjX3ZRMmphcVhiRXJMSmtQSVAzLS1iaUFnXzUifQ%3D%3D"
+  },
+  {
+   "question": "What is the number one high school in Delaware?",
+   "type": "ai_overview",
+   "page_token": "af9F2nicHZBBrpswFADVy_zljwGFqpGiSk4CvzSQGvADs6nAJhBsYpfQH-Jdr9Az9FQ9TaPuZjUaza8_6nKVfz_87ufZ3Dar1f1-f-207lT7yvW4qm-PK1_xWqmm5nLjf_Sdz2e-PbxzvJs4JtQY2KcocxJ2gmDiZaWp2-vSRj4rgiO4wT4JK0KsGBvLl3aoUP6Gv9aFM1FUhcL232owUWMhjNHsZ1IdMyUMKdOlyTFjyKQQdnOG-pOQailteiID1iWCt0yml-qKj-3FccHBfh5EUA14bPeR38pPXk3Fs6fflTbYJUPstuMS1qqCRkVe_mThffGKMSkFEn3igKkh0pwij7vrCkYI2vLZBGaklHlxmMYE3dacgj30wqV59IOVAWMSHvnBTPSgSPxAMxsVrhZ9ITS1fFBPi9LEU2cydI6Qa5JA9JMVTpwVTt5KdUv2ion7y5m_b72X_6-338_jvDGT7v4BFTeOQg",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=af9F2nicHZBBrpswFADVy_zljwGFqpGiSk4CvzSQGvADs6nAJhBsYpfQH-Jdr9Az9FQ9TaPuZjUaza8_6nKVfz_87ufZ3Dar1f1-f-207lT7yvW4qm-PK1_xWqmm5nLjf_Sdz2e-PbxzvJs4JtQY2KcocxJ2gmDiZaWp2-vSRj4rgiO4wT4JK0KsGBvLl3aoUP6Gv9aFM1FUhcL232owUWMhjNHsZ1IdMyUMKdOlyTFjyKQQdnOG-pOQailteiID1iWCt0yml-qKj-3FccHBfh5EUA14bPeR38pPXk3Fs6fflTbYJUPstuMS1qqCRkVe_mThffGKMSkFEn3igKkh0pwij7vrCkYI2vLZBGaklHlxmMYE3dacgj30wqV59IOVAWMSHvnBTPSgSPxAMxsVrhZ9ITS1fFBPi9LEU2cydI6Qa5JA9JMVTpwVTt5KdUv2ion7y5m_b72X_6-338_jvDGT7v4BFTeOQg",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGFHSkVUV28zTUVSRE5tVklhSHBoVkVKVmVFRlJkbmR0UTJOamVEbFJVa1kwTURSTFVEaFFVMDlvZG5GU1RqaHFSVkZuZVVkaFoxTktURUV0TUVaNGFtb3RiMkZtVUc1cGRXMDJkSHA1TkRsWGNVNVhjRGhoVDBKSlFSSVhkbEV5YW1GeFdHSkZja3hLYTFCSlVETXRMV0pwUVdjYUlrRkVjM0k1WmxJNFUwdEhTR2hKZGpSM1dFaFhWUzFCY0dReVdETldaRVJDVWxFIiwiZmN2IjoiMyIsImVpIjoidlEyamFxWGJFckxKa1BJUDMtLWJpQWciLCJxYyI6IkNoMWtaV1pwWVc1alpTQm9hV2RvSUhOamFHOXZiQ0JrWld4aGQyRnlaUkFBZlJhMURqOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbnVtYmVyIG9uZSBoaWdoIHNjaG9vbCBpbiBEZWxhd2FyZT8iLCJsayI6IkdpNTNhR0YwSUdseklIUm9aU0J1ZFcxaVpYSWdiMjVsSUdocFoyZ2djMk5vYjI5c0lHbHVJR1JsYkdGM1lYSmwiLCJicyI6ImM0MlBNUS1DTUJCRzQzcVRjNmRURW5VUnRILUF4UUZuQnVlVEZ0c0kxNFNXTlA1N05ZRkVEU1R1NzkxOUQwcllYZ3dGdEI1UHVyYkVsY2JDM2d5V2xYR3V3VHU3eUZpN0xwYzdzWWtEcWtiVXZGSF9nMElGMlhnMEdJM2N0MWZkb2VOdjN2THJaVU9ST3AzTGcwampYNG9hRkNCSUN4ZXhKWDZnRDczU0hEeFNDSnJWWkVvdU03RTNjOFpVRVp4aF9kbVJIQ2VuSjJJVjU2aHg3WEx4QkEiLCJpZCI6ImZjX3ZRMmphcVhiRXJMSmtQSVAzLS1iaUFnXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGFHSkVUV28zTUVSRE5tVklhSHBoVkVKVmVFRlJkbmR0UTJOamVEbFJVa1kwTURSTFVEaFFVMDlvZG5GU1RqaHFSVkZuZVVkaFoxTktURUV0TUVaNGFtb3RiMkZtVUc1cGRXMDJkSHA1TkRsWGNVNVhjRGhoVDBKSlFSSVhkbEV5YW1GeFdHSkZja3hLYTFCSlVETXRMV0pwUVdjYUlrRkVjM0k1WmxJNFUwdEhTR2hKZGpSM1dFaFhWUzFCY0dReVdETldaRVJDVWxFIiwiZmN2IjoiMyIsImVpIjoidlEyamFxWGJFckxKa1BJUDMtLWJpQWciLCJxYyI6IkNoMWtaV1pwWVc1alpTQm9hV2RvSUhOamFHOXZiQ0JrWld4aGQyRnlaUkFBZlJhMURqOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbnVtYmVyIG9uZSBoaWdoIHNjaG9vbCBpbiBEZWxhd2FyZT8iLCJsayI6IkdpNTNhR0YwSUdseklIUm9aU0J1ZFcxaVpYSWdiMjVsSUdocFoyZ2djMk5vYjI5c0lHbHVJR1JsYkdGM1lYSmwiLCJicyI6ImM0MlBNUS1DTUJCRzQzcVRjNmRURW5VUnRILUF4UUZuQnVlVEZ0c0kxNFNXTlA1N05ZRkVEU1R1NzkxOUQwcllYZ3dGdEI1UHVyYkVsY2JDM2d5V2xYR3V3VHU3eUZpN0xwYzdzWWtEcWtiVXZGSF9nMElGMlhnMEdJM2N0MWZkb2VOdjN2THJaVU9ST3AzTGcwampYNG9hRkNCSUN4ZXhKWDZnRDczU0hEeFNDSnJWWkVvdU03RTNjOFpVRVp4aF9kbVJIQ2VuSjJJVjU2aHg3WEx4QkEiLCJpZCI6ImZjX3ZRMmphcVhiRXJMSmtQSVAzLS1iaUFnXzUifQ%3D%3D"
+  },
+  {
+   "question": "How many students attend Defiance High School?",
+   "type": "ai_overview",
+   "page_token": "_07kUXicHdDBkpMwAADQ8Wf2uE2ArdKZjiMW6FI3SCBJk4uDSdt0kxC2zZbFm7_gN_hVfo2Op3d_P3_b82D-vPulQxivq8Vimqb7k_cne7iX3i366zzIheyt_d5Ls1q-X8KPR7nObzL7fJFZQ8aRbjDoygDrfVWyvc6EU694-zhhUrk9rK7Ijrt_JoKlQAF9IxY39baZ6QzL3jxsiNM7RODcOXSuWxD6UqO2lAk3qpM2D9yquYMisFL4bpsZHqFadDq0HW0Og_7agzETg5laaE1LPkwcpDXeYowoxu0zyvq4-kKGChJQGQV4wMx6WuoXTk1CIz8fioKi4tNMipQqlooepE5u7FnFHlCXPCiGlofCJ9jYSFEV51pFpKte-L7g3NC5y8cLyW3zNIPAnc3Emz83BP-Qz9aR4RGSnNZ4U4Ae2h2K7RMpT2-IialhANBIsKa5O8rbOr77f73-dnRhNV786S85EYxO",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=_07kUXicHdDBkpMwAADQ8Wf2uE2ArdKZjiMW6FI3SCBJk4uDSdt0kxC2zZbFm7_gN_hVfo2Op3d_P3_b82D-vPulQxivq8Vimqb7k_cne7iX3i366zzIheyt_d5Ls1q-X8KPR7nObzL7fJFZQ8aRbjDoygDrfVWyvc6EU694-zhhUrk9rK7Ijrt_JoKlQAF9IxY39baZ6QzL3jxsiNM7RODcOXSuWxD6UqO2lAk3qpM2D9yquYMisFL4bpsZHqFadDq0HW0Og_7agzETg5laaE1LPkwcpDXeYowoxu0zyvq4-kKGChJQGQV4wMx6WuoXTk1CIz8fioKi4tNMipQqlooepE5u7FnFHlCXPCiGlofCJ9jYSFEV51pFpKte-L7g3NC5y8cLyW3zNIPAnc3Emz83BP-Qz9aR4RGSnNZ4U4Ae2h2K7RMpT2-IialhANBIsKa5O8rbOr77f73-dnRhNV786S85EYxO",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGFHSkVUV28zTUVSRE5tVklhSHBoVkVKVmVFRlJkbmR0UTJOamVEbFJVa1kwTURSTFVEaFFVMDlvZG5GU1RqaHFSVkZuZVVkaFoxTktURUV0TUVaNGFtb3RiMkZtVUc1cGRXMDJkSHA1TkRsWGNVNVhjRGhoVDBKSlFSSVhkbEV5YW1GeFdHSkZja3hLYTFCSlVETXRMV0pwUVdjYUlrRkVjM0k1WmxJNFUwdEhTR2hKZGpSM1dFaFhWUzFCY0dReVdETldaRVJDVWxFIiwiZmN2IjoiMyIsImVpIjoidlEyamFxWGJFckxKa1BJUDMtLWJpQWciLCJxYyI6IkNoMWtaV1pwWVc1alpTQm9hV2RvSUhOamFHOXZiQ0JrWld4aGQyRnlaUkFBZlJhMURqOCIsInF1ZXN0aW9uIjoiSG93IG1hbnkgc3R1ZGVudHMgYXR0ZW5kIERlZmlhbmNlIEhpZ2ggU2Nob29sPyIsImxrIjoiR2kxb2IzY2diV0Z1ZVNCemRIVmtaVzUwY3lCaGRIUmxibVFnWkdWbWFXRnVZMlVnYUdsbmFDQnpZMmh2YjJ3IiwiYnMiOiJjNDJQTVEtQ01CQkc0M3FUYzZkVEVuVVJ0SC1BeFFGbkJ1ZVRGdHNJMTRTV05QNTdOWUZFRFNUdTc5MTlEMHJZWGd3RnRCNVB1cmJFbGNiQzNneVdsWEd1d1R1N3lGaTdMcGM3c1lrRHFrYlV2RkhfZzBJRjJYZzBHSTNjdDFmZG9lTnYzdkxyWlVPUk9wM0xnMGpqWDRvYUZDQklDeGV4Slg2Z0Q3M1NIRHhTQ0pyVlpFb3VNN0UzYzhaVUVaeGhfZG1SSENlbkoySVY1Nmh4N1hMeEJBIiwiaWQiOiJmY192UTJqYXFYYkVyTEprUElQMy0tYmlBZ181In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGFHSkVUV28zTUVSRE5tVklhSHBoVkVKVmVFRlJkbmR0UTJOamVEbFJVa1kwTURSTFVEaFFVMDlvZG5GU1RqaHFSVkZuZVVkaFoxTktURUV0TUVaNGFtb3RiMkZtVUc1cGRXMDJkSHA1TkRsWGNVNVhjRGhoVDBKSlFSSVhkbEV5YW1GeFdHSkZja3hLYTFCSlVETXRMV0pwUVdjYUlrRkVjM0k1WmxJNFUwdEhTR2hKZGpSM1dFaFhWUzFCY0dReVdETldaRVJDVWxFIiwiZmN2IjoiMyIsImVpIjoidlEyamFxWGJFckxKa1BJUDMtLWJpQWciLCJxYyI6IkNoMWtaV1pwWVc1alpTQm9hV2RvSUhOamFHOXZiQ0JrWld4aGQyRnlaUkFBZlJhMURqOCIsInF1ZXN0aW9uIjoiSG93IG1hbnkgc3R1ZGVudHMgYXR0ZW5kIERlZmlhbmNlIEhpZ2ggU2Nob29sPyIsImxrIjoiR2kxb2IzY2diV0Z1ZVNCemRIVmtaVzUwY3lCaGRIUmxibVFnWkdWbWFXRnVZMlVnYUdsbmFDQnpZMmh2YjJ3IiwiYnMiOiJjNDJQTVEtQ01CQkc0M3FUYzZkVEVuVVJ0SC1BeFFGbkJ1ZVRGdHNJMTRTV05QNTdOWUZFRFNUdTc5MTlEMHJZWGd3RnRCNVB1cmJFbGNiQzNneVdsWEd1d1R1N3lGaTdMcGM3c1lrRHFrYlV2RkhfZzBJRjJYZzBHSTNjdDFmZG9lTnYzdkxyWlVPUk9wM0xnMGpqWDRvYUZDQklDeGV4Slg2Z0Q3M1NIRHhTQ0pyVlpFb3VNN0UzYzhaVUVaeGhfZG1SSENlbkoySVY1Nmh4N1hMeEJBIiwiaWQiOiJmY192UTJqYXFYYkVyTEprUElQMy0tYmlBZ181In0%3D"
+  },
+  {
+   "question": "What is the #1 school in Delaware?",
+   "type": "ai_overview",
+   "page_token": "qJDx63icHdBLcoIwAIDh6WVcKoKxozNOZ1Dig4Il5mHYdCDxgUkgKhVl17v0VD1NnR7g_xb_948uSvX7cjvWtb2Oe72mabqHqjroXVdUppddH6XoiUzrPBNqPHwd9t_2YhJ8Lf3peeknxFo6Qw5eVICd6HpTpl7MLKDMDtAJhtxDA0T6U9r6NJ3pgioUIiptSkerpCWDOOB1xu5q66Bz5toCO4DIUmNZ0jCG_l7M5CNSyt160CcMmk0QO9RVbh5Ql-B4lRigOIYftK_cxNO3aEERao_Rtj3S1NR1boDG85HhFFlkJF7j2CEnAUigl7sSFnjhn4kjSaRsiJyBKwi8vhPoBUf59FdnvoWcK_rAgb08myR6ODU32k_vVZEQ1IqTNoTJNGdgkc_vG24ATCEHGVNAEAR3cxhmTLay6ezFbeJ1_n9OPvemHttLdfgDe-GDCw",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=qJDx63icHdBLcoIwAIDh6WVcKoKxozNOZ1Dig4Il5mHYdCDxgUkgKhVl17v0VD1NnR7g_xb_948uSvX7cjvWtb2Oe72mabqHqjroXVdUppddH6XoiUzrPBNqPHwd9t_2YhJ8Lf3peeknxFo6Qw5eVICd6HpTpl7MLKDMDtAJhtxDA0T6U9r6NJ3pgioUIiptSkerpCWDOOB1xu5q66Bz5toCO4DIUmNZ0jCG_l7M5CNSyt160CcMmk0QO9RVbh5Ql-B4lRigOIYftK_cxNO3aEERao_Rtj3S1NR1boDG85HhFFlkJF7j2CEnAUigl7sSFnjhn4kjSaRsiJyBKwi8vhPoBUf59FdnvoWcK_rAgb08myR6ODU32k_vVZEQ1IqTNoTJNGdgkc_vG24ATCEHGVNAEAR3cxhmTLay6ezFbeJ1_n9OPvemHttLdfgDe-GDCw",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGFHSkVUV28zTUVSRE5tVklhSHBoVkVKVmVFRlJkbmR0UTJOamVEbFJVa1kwTURSTFVEaFFVMDlvZG5GU1RqaHFSVkZuZVVkaFoxTktURUV0TUVaNGFtb3RiMkZtVUc1cGRXMDJkSHA1TkRsWGNVNVhjRGhoVDBKSlFSSVhkbEV5YW1GeFdHSkZja3hLYTFCSlVETXRMV0pwUVdjYUlrRkVjM0k1WmxJNFUwdEhTR2hKZGpSM1dFaFhWUzFCY0dReVdETldaRVJDVWxFIiwiZmN2IjoiMyIsImVpIjoidlEyamFxWGJFckxKa1BJUDMtLWJpQWciLCJxYyI6IkNoMWtaV1pwWVc1alpTQm9hV2RvSUhOamFHOXZiQ0JrWld4aGQyRnlaUkFBZlJhMURqOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgIzEgc2Nob29sIGluIERlbGF3YXJlPyIsImxrIjoiR2lGM2FHRjBJR2x6SUhSb1pTQWpNU0J6WTJodmIyd2dhVzRnWkdWc1lYZGhjbVUiLCJicyI6ImM0MlBNUS1DTUJCRzQzcVRjNmRURW5VUnRILUF4UUZuQnVlVEZ0c0kxNFNXTlA1N05ZRkVEU1R1NzkxOUQwcllYZ3dGdEI1UHVyYkVsY2JDM2d5V2xYR3V3VHU3eUZpN0xwYzdzWWtEcWtiVXZGSF9nMElGMlhnMEdJM2N0MWZkb2VOdjN2THJaVU9ST3AzTGcwampYNG9hRkNCSUN4ZXhKWDZnRDczU0hEeFNDSnJWWkVvdU03RTNjOFpVRVp4aF9kbVJIQ2VuSjJJVjU2aHg3WEx4QkEiLCJpZCI6ImZjX3ZRMmphcVhiRXJMSmtQSVAzLS1iaUFnXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGFHSkVUV28zTUVSRE5tVklhSHBoVkVKVmVFRlJkbmR0UTJOamVEbFJVa1kwTURSTFVEaFFVMDlvZG5GU1RqaHFSVkZuZVVkaFoxTktURUV0TUVaNGFtb3RiMkZtVUc1cGRXMDJkSHA1TkRsWGNVNVhjRGhoVDBKSlFSSVhkbEV5YW1GeFdHSkZja3hLYTFCSlVETXRMV0pwUVdjYUlrRkVjM0k1WmxJNFUwdEhTR2hKZGpSM1dFaFhWUzFCY0dReVdETldaRVJDVWxFIiwiZmN2IjoiMyIsImVpIjoidlEyamFxWGJFckxKa1BJUDMtLWJpQWciLCJxYyI6IkNoMWtaV1pwWVc1alpTQm9hV2RvSUhOamFHOXZiQ0JrWld4aGQyRnlaUkFBZlJhMURqOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgIzEgc2Nob29sIGluIERlbGF3YXJlPyIsImxrIjoiR2lGM2FHRjBJR2x6SUhSb1pTQWpNU0J6WTJodmIyd2dhVzRnWkdWc1lYZGhjbVUiLCJicyI6ImM0MlBNUS1DTUJCRzQzcVRjNmRURW5VUnRILUF4UUZuQnVlVEZ0c0kxNFNXTlA1N05ZRkVEU1R1NzkxOUQwcllYZ3dGdEI1UHVyYkVsY2JDM2d5V2xYR3V3VHU3eUZpN0xwYzdzWWtEcWtiVXZGSF9nMElGMlhnMEdJM2N0MWZkb2VOdjN2THJaVU9ST3AzTGcwampYNG9hRkNCSUN4ZXhKWDZnRDczU0hEeFNDSnJWWkVvdU03RTNjOFpVRVp4aF9kbVJIQ2VuSjJJVjU2aHg3WEx4QkEiLCJpZCI6ImZjX3ZRMmphcVhiRXJMSmtQSVAzLS1iaUFnXzUifQ%3D%3D"
+  }
+ ],
+ "ai_overview": {
+  "page_token": "ksPpCHiczVXbcqJKFP2A8x3DS6KImkRTRU11t2QCxkt7jb5Q0EKDclEgEvMwVedfzledrzkNqMFbMpmHqbOroC_s3r3YvVevv_9xbG_x718_rShahvc8H8dxkfo-dYwi8V1eCzce4U3fCQNifaeO-BJyliMaHrdZixWOhGKJM2xxjctzbfWsS8GTsujK3UqhoNuAculyUdW10Jiz6K_zkFd59lp8qzTYoBgWDa_YmwaUBHhgFlrFckmoFzu85jIH8McMAQwoeyOcDi7aj18LRymQAFBy8bOYUs4lGWAgUZiNIT4fCsvMNWkBRhmyRvxWmOiso2UejeTjeUP5D5CmfhCm8UAfgssLz1qGFNFt7A99pbOzKB8gsdanSxjGySEKGaBuvE3xKRIZSPIBYpxtQmEM5rFJJUmCH-BmCRnG8KaZrPjAjVkTy4N4C6HVGLON-RllRVvi9YA1Am8Ti6SdIExqGQ3qJf-xs4aEuvV2zVis9LHwcDMc29o0KmgG4InO_Bxfmxkz1VJL39OxUBZuSvXKXe06JREJ9ywK8yxaulV0p06RENWKT0Uo7CiEkoycZollm42RDE4Nbsvs7AHLYHcY0j7BbFZGuXQNt60FoI-Tus3FBj4macJ27kZav-T9SN4hJTucUugYGqOQnS5iIeBwh-igmBi1KTyzlBk5-cOTKmT7xlmPHrKf3RlHlSRhtMhvER98ZSD7lpQkKmHAiEgZgONqlHbL8Q4vTQ5xl_d9cLyFm6OQTZOss21pnzkqmDYTd7g_A7j9OagcE98-_uvUHlg8OJG_dktsTf7kgsh8dlw5Kv08ZX44rq4rz2rzcaDEcqeDohLtwbYfeENwniK-q39Bacj_iUT2ToeG27UXSGQknc9JRNl1d1GHsu5Oh2yYkQj2LpBIzkh0RoeMzCOnQ8ckQv0ciQ50CJ3o0FdJhD4kUXYZnSVREuAciRYXSLTVoRyJ-oc6dECivQ69k-h3dAj9lg6lnDKy5lCUXub0sjhZ9a7zNNQhbbVttelMm8pmvajLysrEn4qT6Ub3rjZzrlV7dg_LSrSZXatswr83ZtxK_FYuNwzT1jxiXD3a1LrqE8v3HTZ91TAcLdYCg3OdwBdLWnWplL2X0Sbq2vayYurWxNDizkAtSP1G6w0DoRSta47jKw0FzVuhu9J6bnk03wy7pqeGUquibm7BfDVu94LRevRaeGi9jrpOg0Cvv243VaU6MCdvT2A86tdoRa7f1OaT9h0ev5pToWPezQoP9HnsrOL2Q4TB3JJq3jpFFopx9fbtJdQfu52QcwMisrOpUtDGYExZCaIJYwYrbeSzJ2bPLcAS5EKiqUa4FksV3TRYvgjRZ_VqWeBcGm2WYlXgQi8Qhf8AoBBDXA",
+  "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ksPpCHiczVXbcqJKFP2A8x3DS6KImkRTRU11t2QCxkt7jb5Q0EKDclEgEvMwVedfzledrzkNqMFbMpmHqbOroC_s3r3YvVevv_9xbG_x718_rShahvc8H8dxkfo-dYwi8V1eCzce4U3fCQNifaeO-BJyliMaHrdZixWOhGKJM2xxjctzbfWsS8GTsujK3UqhoNuAculyUdW10Jiz6K_zkFd59lp8qzTYoBgWDa_YmwaUBHhgFlrFckmoFzu85jIH8McMAQwoeyOcDi7aj18LRymQAFBy8bOYUs4lGWAgUZiNIT4fCsvMNWkBRhmyRvxWmOiso2UejeTjeUP5D5CmfhCm8UAfgssLz1qGFNFt7A99pbOzKB8gsdanSxjGySEKGaBuvE3xKRIZSPIBYpxtQmEM5rFJJUmCH-BmCRnG8KaZrPjAjVkTy4N4C6HVGLON-RllRVvi9YA1Am8Ti6SdIExqGQ3qJf-xs4aEuvV2zVis9LHwcDMc29o0KmgG4InO_Bxfmxkz1VJL39OxUBZuSvXKXe06JREJ9ywK8yxaulV0p06RENWKT0Uo7CiEkoycZollm42RDE4Nbsvs7AHLYHcY0j7BbFZGuXQNt60FoI-Tus3FBj4macJ27kZav-T9SN4hJTucUugYGqOQnS5iIeBwh-igmBi1KTyzlBk5-cOTKmT7xlmPHrKf3RlHlSRhtMhvER98ZSD7lpQkKmHAiEgZgONqlHbL8Q4vTQ5xl_d9cLyFm6OQTZOss21pnzkqmDYTd7g_A7j9OagcE98-_uvUHlg8OJG_dktsTf7kgsh8dlw5Kv08ZX44rq4rz2rzcaDEcqeDohLtwbYfeENwniK-q39Bacj_iUT2ToeG27UXSGQknc9JRNl1d1GHsu5Oh2yYkQj2LpBIzkh0RoeMzCOnQ8ckQv0ciQ50CJ3o0FdJhD4kUXYZnSVREuAciRYXSLTVoRyJ-oc6dECivQ69k-h3dAj9lg6lnDKy5lCUXub0sjhZ9a7zNNQhbbVttelMm8pmvajLysrEn4qT6Ub3rjZzrlV7dg_LSrSZXatswr83ZtxK_FYuNwzT1jxiXD3a1LrqE8v3HTZ91TAcLdYCg3OdwBdLWnWplL2X0Sbq2vayYurWxNDizkAtSP1G6w0DoRSta47jKw0FzVuhu9J6bnk03wy7pqeGUquibm7BfDVu94LRevRaeGi9jrpOg0Cvv243VaU6MCdvT2A86tdoRa7f1OaT9h0ev5pToWPezQoP9HnsrOL2Q4TB3JJq3jpFFopx9fbtJdQfu52QcwMisrOpUtDGYExZCaIJYwYrbeSzJ2bPLcAS5EKiqUa4FksV3TRYvgjRZ_VqWeBcGm2WYlXgQi8Qhf8AoBBDXA"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Defiance High School - Javier Moreno de Santiago",
+   "link": "https://www.defiancecityschools.org/o/dhs/page/javier-moreno-de-santiago",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgAEB6zswFVjJ5E5bp3Tv990e0FYo3aPUUhgnKbMSPLkVCoC93zi3oInbPhxMIKw23A6-nRRba4dN9F67dglLloIqrlSHQ0rgZ5S__FK0gU6BdNfWMnvzLUpcEbKN9AyHaqc12DgARrT6EUdOUYIfzzzopZ3kB6JVghg5V4HHToaLpQ&ved=2ahUKEwjlrZeD6OSWAxWyJEQIHd_3BoEQFnoECCQQAQ&uoh=1",
+   "displayed_link": "https://www.defiancecityschools.org \u203a dhs \u203a page \u203a javie...",
+   "favicon": "https://serpapi.com/searches/6aa30db2e6590eabd9563366/images/6ZsO8igYPfa3FvamkSTaxbuFen0eVWtgBf-wsjoALhs.png",
+   "snippet": "Defiance High School ; Grade: Junior ; Plans After High School: College ; Favorite Sports Movie: Coach Carter ; Favorite Hype Song: NA ; Favorite Pregame Meal: ...",
+   "snippet_highlighted_words": [
+    "Defiance High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Defiance High School ; Grade: Junior ; Plans After High School: College ; Favorite Sports Movie: Coach Carter ; Favorite Hype Song: NA ; Favorite Pregame Meal: ...",
+     "source_info_link": "https://www.defiancecityschools.org/o/dhs/page/javier-moreno-de-santiago",
+     "icon": "https://serpapi.com/searches/6aa30db2e6590eabd9563366/images/6ZsO8igYPfa3FvamkSTaxbZK0_opSOlnQwpnt_wd9rxtm5_vmrB6VcfxP6ytqngd.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESgAEB6zswFVjJ5E5bp3Tv990e0FYo3aPUUhgnKbMSPLkVCoC93zi3oInbPhxMIKw23A6-nRRba4dN9F67dglLloIqrlSHQ0rgZ5S__FK0gU6BdNfWMnvzLUpcEbKN9AyHaqc12DgARrT6EUdOUYIfzzzopZ3kB6JVghg5V4HHToaLpQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESgAEB6zswFVjJ5E5bp3Tv990e0FYo3aPUUhgnKbMSPLkVCoC93zi3oInbPhxMIKw23A6-nRRba4dN9F67dglLloIqrlSHQ0rgZ5S__FK0gU6BdNfWMnvzLUpcEbKN9AyHaqc12DgARrT6EUdOUYIfzzzopZ3kB6JVghg5V4HHToaLpQ",
+   "source": "Defiance City School District"
+  },
+  {
+   "position": 2,
+   "title": "Defiance High School - Ohio",
+   "link": "https://www.greatschools.org/ohio/defiance/737-Defiance-High-School/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHrOzAVTOAGOlgUjbPvI3xcD4sjiwvzZAQJI-JG1QQ1CmWQN9HNW-yqwP8UpcXJAel0m4K8IXNWAK_Vz96r07j7gTYBM9lXkd7f7GRtlFJ0Wvm6D6iaekd7PFeLNsSgygffCApXEe-HfsNNguSZ-NbCEe0hY3HBNLBZXy8&ved=2ahUKEwjlrZeD6OSWAxWyJEQIHd_3BoEQFnoECCoQAQ&uoh=1",
+   "displayed_link": "https://www.greatschools.org \u203a ohio \u203a 737-Defiance-Hi...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX____6_v74_P7N6_jA5vfy-v3V7PiO0e89tuUApd-Ayu0eqeEiquEjquG64PQ_tOWq2vIwruJnw-rj8_vs9vx1yeye2fFav-ix4fQbruMAo9-Hy-yp1vCq3vSw2fGY0O5xwenE5vbe7_lFmiYHAAABRElEQVR4AVzSB5KDMAwFUNGRv-QSanq5_yHX4ImHrOg8d5lyFGVZ1XVVlgX9j6btet6j79rm11oDhmgMAcO0ByqsYxHEiAqAnS2y-QAF-tPJsWpwQRH8V-1m2g3jOE4c_DirINhkrYOKmDSuJdS0qihcu38bVkVoqZZzQ9XF76hsmq0iZENqrsyWBrklFMSqRcca0cUWwHcaw43uGyp3BZU9MmJ5PGPNTjZEX1LJklHBzJ4SCpdUsWaECPhaJFSuqOaM0seAKb9YH_FUEo3uiIdml2qkIZjiBU3NHgfEl2nDMaFw-TMV7mhwzgRomsrvIqwRsTWVFiEvX0NPvlQRQ-9S0tvvwkuoqZnfRENv6Z4XPqVMsexJmMaIh5SlZAuW9ePFzc6s0yHZaZsImBnYz2i--NlgmkOOG-xv2JIm4USNNzsAAN3rGxmBgpZiAAAAAElFTkSuQmCC.png",
+   "snippet": "Defiance High School is a public school in Defiance, OH, offering AP courses and a Gifted & Talented program. It is the only high school in Defiance City School ...",
+   "snippet_highlighted_words": [
+    "Defiance High School"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 3.2,
+      "reviews": 4
+     },
+     "extensions": [
+      "3.2(4)"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Defiance High School is a public school in Defiance, OH, offering AP courses and a Gifted & Talented program. It is the only high school in Defiance City School ...",
+     "source_info_link": "https://www.greatschools.org/ohio/defiance/737-Defiance-High-School/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX____6_v74_P7N6_jA5vfy-v3V7PiO0e89tuUApd-Ayu0eqeEiquEjquG64PQ_tOWq2vIwruJnw-rj8_vs9vx1yeye2fFav-ix4fQbruMAo9-Hy-yp1vCq3vSw2fGY0O5xwenE5vbe7_lFmiYHAAABRElEQVR4AVzSB5KDMAwFUNGRv-QSanq5_yHX4ImHrOg8d5lyFGVZ1XVVlgX9j6btet6j79rm11oDhmgMAcO0ByqsYxHEiAqAnS2y-QAF-tPJsWpwQRH8V-1m2g3jOE4c_DirINhkrYOKmDSuJdS0qihcu38bVkVoqZZzQ9XF76hsmq0iZENqrsyWBrklFMSqRcca0cUWwHcaw43uGyp3BZU9MmJ5PGPNTjZEX1LJklHBzJ4SCpdUsWaECPhaJFSuqOaM0seAKb9YH_FUEo3uiIdml2qkIZjiBU3NHgfEl2nDMaFw-TMV7mhwzgRomsrvIqwRsTWVFiEvX0NPvlQRQ-9S0tvvwkuoqZnfRENv6Z4XPqVMsexJmMaIh5SlZAuW9ePFzc6s0yHZaZsImBnYz2i--NlgmkOOG-xv2JIm4USNNzsAAN3rGxmBgpZiAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESfAHrOzAVTOAGOlgUjbPvI3xcD4sjiwvzZAQJI-JG1QQ1CmWQN9HNW-yqwP8UpcXJAel0m4K8IXNWAK_Vz96r07j7gTYBM9lXkd7f7GRtlFJ0Wvm6D6iaekd7PFeLNsSgygffCApXEe-HfsNNguSZ-NbCEe0hY3HBNLBZXy8&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESfAHrOzAVTOAGOlgUjbPvI3xcD4sjiwvzZAQJI-JG1QQ1CmWQN9HNW-yqwP8UpcXJAel0m4K8IXNWAK_Vz96r07j7gTYBM9lXkd7f7GRtlFJ0Wvm6D6iaekd7PFeLNsSgygffCApXEe-HfsNNguSZ-NbCEe0hY3HBNLBZXy8",
+   "source": "GreatSchools",
+   "read_more_link": "https://www.greatschools.org/ohio/defiance/737-Defiance-High-School/#:~:text=Defiance%20High%20School%20is%20a,in%20Defiance%20City%20School%20District."
+  },
+  {
+   "position": 3,
+   "title": "Join us as we celebrate the best of Defiance athletics! \ud83c\udfc6 ...",
+   "link": "https://www.facebook.com/DefianceAthleticBoosters/posts/join-us-as-we-celebrate-the-best-of-defiance-athletics-the-dhs-athletic-hall-of-/1377264657539779/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES0wEB6zswFdjWtSylKXAge-Z5WSsZK8llNcnDgjme3tNDewd0asM5Kfa5TySE1ZWowO73ciSBrOsMz6WKcjmyxovgxS9_bPKAgJeTeDutTNmnWbv224r8Q5kQ1dYpRZgNzdSeX3YEqrrqTOMXp41oQDNbgjute6QRlwSZWGINMzRd1TFcRAzDvRUjHbok2NWR72815R5xsTVh07oeXcuN8H22VT9Jfu-xCdLkFc5fgHLKBlfpMhwvJ2NIiJhcy_2Lfzn3wNHVqcU5TaYOlTcvlyM8yxeK&ved=2ahUKEwjlrZeD6OSWAxWyJEQIHd_3BoEQFnoECC4QAQ&uoh=1",
+   "displayed_link": "10+ reactions \u00b7 4 months ago",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "snippet": "This past week, we presented a check in support of the Defiance High School Track & Field, Baseball, and Softball teams. Donation across ...",
+   "snippet_highlighted_words": [
+    "Defiance High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "This past week, we presented a check in support of the Defiance High School Track & Field, Baseball, and Softball teams. Donation across ...",
+     "source_info_link": "https://www.facebook.com/DefianceAthleticBoosters/posts/join-us-as-we-celebrate-the-best-of-defiance-athletics-the-dhs-athletic-hall-of-/1377264657539779/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAES0wEB6zswFdjWtSylKXAge-Z5WSsZK8llNcnDgjme3tNDewd0asM5Kfa5TySE1ZWowO73ciSBrOsMz6WKcjmyxovgxS9_bPKAgJeTeDutTNmnWbv224r8Q5kQ1dYpRZgNzdSeX3YEqrrqTOMXp41oQDNbgjute6QRlwSZWGINMzRd1TFcRAzDvRUjHbok2NWR72815R5xsTVh07oeXcuN8H22VT9Jfu-xCdLkFc5fgHLKBlfpMhwvJ2NIiJhcy_2Lfzn3wNHVqcU5TaYOlTcvlyM8yxeK&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAES0wEB6zswFdjWtSylKXAge-Z5WSsZK8llNcnDgjme3tNDewd0asM5Kfa5TySE1ZWowO73ciSBrOsMz6WKcjmyxovgxS9_bPKAgJeTeDutTNmnWbv224r8Q5kQ1dYpRZgNzdSeX3YEqrrqTOMXp41oQDNbgjute6QRlwSZWGINMzRd1TFcRAzDvRUjHbok2NWR72815R5xsTVh07oeXcuN8H22VT9Jfu-xCdLkFc5fgHLKBlfpMhwvJ2NIiJhcy_2Lfzn3wNHVqcU5TaYOlTcvlyM8yxeK",
+   "source": "Facebook \u00b7 Defiance Athletic Boosters",
+   "read_more_link": "https://www.facebook.com/DefianceAthleticBoosters/posts/join-us-as-we-celebrate-the-best-of-defiance-athletics-the-dhs-athletic-hall-of-/1377264657539779/#:~:text=This%20past%20week%2C%20we%20presented,reaching%20different%20accolades%20of%20performance."
+  },
+  {
+   "position": 4,
+   "title": "Fort Defiance High School Reviews",
+   "link": "https://www.niche.com/k12/fort-defiance-high-school-fort-defiance-va/reviews/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShQEB6zswFRfXnEuTKB7uQJ8gbACpB7V-Lb5oLWASbSM_KEN6bm0DXK7QC2I2JAdqlGt36j2a5jjevFLvT5J7E4iIEKEeQP3LRDFTreknrsYvd3uBLtPZIPY7J16NiduczANIM3A2Weu502LRgGhPqPX3COYnVEzyXnFPQMuBUqBL9evROd3U&ved=2ahUKEwjlrZeD6OSWAxWyJEQIHd_3BoEQFnoECDAQAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a Fort Defiance High School",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png",
+   "snippet": "Fort Defiance High School Reviews ... Overall, Fort Defiance provides a friendly and supportive learning environment. Facilities are older and sports related ...",
+   "snippet_highlighted_words": [
+    "Defiance High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Fort Defiance High School Reviews ... Overall, Fort Defiance provides a friendly and supportive learning environment. Facilities are older and sports related ...",
+     "source_info_link": "https://www.niche.com/k12/fort-defiance-high-school-fort-defiance-va/reviews/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEShQEB6zswFRfXnEuTKB7uQJ8gbACpB7V-Lb5oLWASbSM_KEN6bm0DXK7QC2I2JAdqlGt36j2a5jjevFLvT5J7E4iIEKEeQP3LRDFTreknrsYvd3uBLtPZIPY7J16NiduczANIM3A2Weu502LRgGhPqPX3COYnVEzyXnFPQMuBUqBL9evROd3U&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEShQEB6zswFRfXnEuTKB7uQJ8gbACpB7V-Lb5oLWASbSM_KEN6bm0DXK7QC2I2JAdqlGt36j2a5jjevFLvT5J7E4iIEKEeQP3LRDFTreknrsYvd3uBLtPZIPY7J16NiduczANIM3A2Weu502LRgGhPqPX3COYnVEzyXnFPQMuBUqBL9evROd3U",
+   "source": "Niche",
+   "read_more_link": "https://www.niche.com/k12/fort-defiance-high-school-fort-defiance-va/reviews/#:~:text=Fort%20Defiance%20High%20School%20Reviews&text=Overall%2C%20Fort%20Defiance%20provides%20a,related%20fields%2Ffacilities%20could%20use%20updating."
+  },
+  {
+   "position": 5,
+   "title": "Fort Defiance High School",
+   "link": "https://www.augusta.k12.va.us/o/fort-defiance/news",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESagHrOzAVLcXP_Xqtj99sfSdULEEqIwyJltS2vSuqZUBIpkDjnMFOzGKseXJzIVLdMOPifECk475h7Dopl-tOTurZIWHx5WEigBDJ4eYcsj7l4eah756tprv1FbRracd0lm0GYBmTvTfqnhM&ved=2ahUKEwjlrZeD6OSWAxWyJEQIHd_3BoEQFnoECCwQAQ&uoh=1",
+   "displayed_link": "https://www.augusta.k12.va.us \u203a fort-defiance \u203a news",
+   "favicon": "https://serpapi.com/searches/6aa30db2e6590eabd9563366/images/6ZsO8igYPfa3FvamkSTaxVIjMjnVzKKOdG-8hfXwKW4.png",
+   "snippet": "Fort Defiance High School ; Fee Collection and Annual Online Registration for 2026-2027 is OPEN!! August 3, 2026 ; Meal Benefits 2026-2027. July 20, 2026 ; School ...",
+   "snippet_highlighted_words": [
+    "Defiance High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Fort Defiance High School ; Fee Collection and Annual Online Registration for 2026-2027 is OPEN!! August 3, 2026 ; Meal Benefits 2026-2027. July 20, 2026 ; School ...",
+     "source_info_link": "https://www.augusta.k12.va.us/o/fort-defiance/news",
+     "icon": "https://serpapi.com/searches/6aa30db2e6590eabd9563366/images/6ZsO8igYPfa3FvamkSTaxXQskItqzMoV-A8IjZY5TAkLFw_T8G1jZ5ZNXvvTfrGH.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESagHrOzAVLcXP_Xqtj99sfSdULEEqIwyJltS2vSuqZUBIpkDjnMFOzGKseXJzIVLdMOPifECk475h7Dopl-tOTurZIWHx5WEigBDJ4eYcsj7l4eah756tprv1FbRracd0lm0GYBmTvTfqnhM&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESagHrOzAVLcXP_Xqtj99sfSdULEEqIwyJltS2vSuqZUBIpkDjnMFOzGKseXJzIVLdMOPifECk475h7Dopl-tOTurZIWHx5WEigBDJ4eYcsj7l4eah756tprv1FbRracd0lm0GYBmTvTfqnhM",
+   "source": "Augusta County Public Schools",
+   "read_more_link": "https://www.augusta.k12.va.us/o/fort-defiance/news#:~:text=Fort%20Defiance%20High%20School&text=Fee%20Collection%20and%20Annual%20Online,August%203%2C%202026&text=Meal%20Benefits%202026%2D2027,July%2020%2C%202026&text=School%20Board%20Letter%20Regarding%20Conduct,2026%2D2027"
+  },
+  {
+   "position": 6,
+   "title": "Defiance Schedule",
+   "link": "https://go.dragonflyathletics.com/sites/OHSAA/H7LCHW",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHrOzAVMOUNkuwCfWjzbKI-uA4QJupmha3AjW5D9qw1ZROZyFc77OCAUEsY7XymLEanScmDzXa4lMzoYV3Ux-86MQAWyeqpZ2fi5tNSQoIAg3nbli5lYJSopNkyvfVI1RGUxArBHt6wvbLafg&ved=2ahUKEwjlrZeD6OSWAxWyJEQIHd_3BoEQFnoECCsQAQ&uoh=1",
+   "displayed_link": "https://go.dragonflyathletics.com \u203a sites \u203a OHSAA",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABUklEQVR4AZXNM5RdURQG4H-f2Lad9HGdlGlTxbaTOl0wtm3btm3basY4-2FYvXXvt9bhFpSqjUnY1PD40duU58-NodbY2dNVEuC84qz9UKPgw4cTC0SsW8XpaSehRtV_s71SVwyhbwC15olYglh36pYEuKmzcj2UGL1-PV2SYEnrtIv054LQNRILUEKC9AVzAjL13t1vTbfveC9A20CsY9_3H87BkMy__3dKAutWU1frBiwZWb9-vh3EJVEhN2FIzc3r56eIeIwEY40irOdMWsfV8TEXYUhlScGGehCXEXH1mbPVMdduvEoWkLHa4mhaz1CieMvmiVgCRwEcrl3B2hUIYt8Ll8qgRKSL_fpIAvsC7A1ij6V7U-8QQQ1PIaSjEGxPxP5udoegRmtV8QErAttrJ_9-eP-IquKID5_2WUKwzZUrxVAr5OVLY4dfHx8pzdcAVl6e84jaKLkAAAAASUVORK5CYII.png",
+   "snippet": "Defiance High School \u00b7 Location \u00b7 Contact \u00b7 Links.",
+   "snippet_highlighted_words": [
+    "Defiance High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Defiance High School \u00b7 Location \u00b7 Contact \u00b7 Links.",
+     "source_info_link": "https://go.dragonflyathletics.com/sites/OHSAA/H7LCHW",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABUklEQVR4AZXNM5RdURQG4H-f2Lad9HGdlGlTxbaTOl0wtm3btm3basY4-2FYvXXvt9bhFpSqjUnY1PD40duU58-NodbY2dNVEuC84qz9UKPgw4cTC0SsW8XpaSehRtV_s71SVwyhbwC15olYglh36pYEuKmzcj2UGL1-PV2SYEnrtIv054LQNRILUEKC9AVzAjL13t1vTbfveC9A20CsY9_3H87BkMy__3dKAutWU1frBiwZWb9-vh3EJVEhN2FIzc3r56eIeIwEY40irOdMWsfV8TEXYUhlScGGehCXEXH1mbPVMdduvEoWkLHa4mhaz1CieMvmiVgCRwEcrl3B2hUIYt8Ll8qgRKSL_fpIAvsC7A1ij6V7U-8QQQ1PIaSjEGxPxP5udoegRmtV8QErAttrJ_9-eP-IquKID5_2WUKwzZUrxVAr5OVLY4dfHx8pzdcAVl6e84jaKLkAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESbAHrOzAVMOUNkuwCfWjzbKI-uA4QJupmha3AjW5D9qw1ZROZyFc77OCAUEsY7XymLEanScmDzXa4lMzoYV3Ux-86MQAWyeqpZ2fi5tNSQoIAg3nbli5lYJSopNkyvfVI1RGUxArBHt6wvbLafg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESbAHrOzAVMOUNkuwCfWjzbKI-uA4QJupmha3AjW5D9qw1ZROZyFc77OCAUEsY7XymLEanScmDzXa4lMzoYV3Ux-86MQAWyeqpZ2fi5tNSQoIAg3nbli5lYJSopNkyvfVI1RGUxArBHt6wvbLafg",
+   "source": "DragonFly Athletics",
+   "read_more_link": "https://go.dragonflyathletics.com/sites/OHSAA/H7LCHW#:~:text=Defiance%20High%20School&text=Location&text=Contact&text=Links"
+  },
+  {
+   "position": 7,
+   "title": "Defiance High School HS Defiance OH Vintage Sports Tank Top",
+   "link": "https://www.amazon.com/-/es/Defiance-High-School-Vintage-Sports/dp/B0FZ2G7KG3",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShQEB6zswFaNUy2qSKK0iGqLoeJSLcqF9vmEoXW79qtSDbMFJeD2exC0fjuB5WOoXfkEavOtblnydo6eqpZuycXUwS-CnEKa95CR2jV0CMr-y4N2dLgcpN1gZoN4r4Ysp7pWYD7tg4lfCG51bDUfD4i67YLw-Ifa19SQxq-EfS9zwUGTk-Rq5&ved=2ahUKEwjlrZeD6OSWAxWyJEQIHd_3BoEQFnoECCgQAQ&uoh=1",
+   "displayed_link": "https://www.amazon.com \u203a Defianc...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+   "snippet": "Esta cl\u00e1sica camiseta Defiance High School HS es un regalo genial para estudiantes, graduados, pap\u00e1s, madres, exalumnos, profesores y fan\u00e1ticos del deporte. El ...",
+   "snippet_highlighted_words": [
+    "Defiance High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Esta cl\u00e1sica camiseta Defiance High School HS es un regalo genial para estudiantes, graduados, pap\u00e1s, madres, exalumnos, profesores y fan\u00e1ticos del deporte. El ...",
+     "source_info_link": "https://www.amazon.com/-/es/Defiance-High-School-Vintage-Sports/dp/B0FZ2G7KG3",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEShQEB6zswFaNUy2qSKK0iGqLoeJSLcqF9vmEoXW79qtSDbMFJeD2exC0fjuB5WOoXfkEavOtblnydo6eqpZuycXUwS-CnEKa95CR2jV0CMr-y4N2dLgcpN1gZoN4r4Ysp7pWYD7tg4lfCG51bDUfD4i67YLw-Ifa19SQxq-EfS9zwUGTk-Rq5&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEShQEB6zswFaNUy2qSKK0iGqLoeJSLcqF9vmEoXW79qtSDbMFJeD2exC0fjuB5WOoXfkEavOtblnydo6eqpZuycXUwS-CnEKa95CR2jV0CMr-y4N2dLgcpN1gZoN4r4Ysp7pWYD7tg4lfCG51bDUfD4i67YLw-Ifa19SQxq-EfS9zwUGTk-Rq5",
+   "source": "Amazon.com"
+  },
+  {
+   "position": 8,
+   "title": "Varsity Boys Basketball - Defiance High School",
+   "link": "https://fan.hudl.com/usa/oh/defiance/organization/18244/defiance-high-school/team/48403/boys-varsity-basketball",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpwEB6zswFePxBjBof09u5AgO20iWySsvOK6yQVo84Nyj_zGZNwnrv34KyzciXORb32vUmZu9i7FOZaSCdB4yGlnH63Ly4L82G17vsKDbVRFdS-9n_NjPGf8a3Wp4HtcXLRBuhFZiZoqfV3lwjhmqoWQGJNpzF7c9Vf-0vLQkMMlIYwySY06NNappTQYw6m6lO9XI2EmLN2xZRRR4TLEcK35TfRAFLzYgyA&ved=2ahUKEwjlrZeD6OSWAxWyJEQIHd_3BoEQFnoECCkQAQ&uoh=1",
+   "displayed_link": "https://fan.hudl.com \u203a usa \u203a defiance-high-school \u203a team",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACoUlEQVR4AWIYcgBQezXAWBJEwTrbtm3btm3bts3obNv2BWfbtu27vurN5KczXy87-yup4UO1u1VLpFRtsJC8oVrjJe8PyBOqLRbw3lA1QfSQT9oeGZk4put9JEKrdijMhGvIP6Qy-IGcqDohVvATtkIyJsymmiMOg00h_waxNU6RHVUzRDFsM_PfSVKZZI08oW15MjHfc4kE0bgWje_ag3kJ3sSokbD8Ps2P3x9yI32TwhP4swX5z3QSCFnKmooIC3wfJvB7zJpNYm_jRPzxVZ4c78mFrIWyuj_YCjJf4L8ZJqh8oDDxX9rO9tWetOkqjJPAdFotrPJGgn40V1iYMmYNrBA5tUZe-AHtZopitUIJ06mXwOmr7nACAS0EsX6Z84ruhHF1x_JT_TMggKqHSLR_7kfAQtjBBHV9OJxUnREVQjBWMfp89xLrvll6s-rSejB-RY7XpYIBoYhMOpmHmEe9Tb-5bYbHFRAKDsAYOzwIOOdt-KS2GfaFQzDmdlvM32QVbyteZJtxETgEY-wz4v0gG_pzeORyoKAQEPDM1fEkBaLRPGvIfTP3ApDDvr68J8fq5dvqZwX4ntVXm1W3FL82RO0lxwSj_aNpgjCSX7UvXvZJJAyNrpE_rRGgBVx2Lb1tEBumbXskJxPBB3Qca4H6QUGDJeO3QVDCjohvCrD4hv876bmBfGd816LreYhVWu8XLZvnFBsDGgLFW6m2kiXgOKmEHEq_8rrdyZu2qbwupNBTJZ06WAKWk8ohZ0IMY-drdabeDpMv1LGczGYZgpn4FzlINJ0LOmYr6wCihDyg2iEnQhKqGyIw8D1B8jkIFFRr9PO79-eBBoGBdQBpi_0-BAxAoKHaIxxrYjSTvTUSX-G3-gg4bMNUnyH1fhIO8B9y2hgKJeIXdgAAAABJRU5ErkJggg.png",
+   "snippet": "View livestreams, highlights and upcoming events for Defiance High School in Defiance, OH.",
+   "snippet_highlighted_words": [
+    "Defiance High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "View livestreams, highlights and upcoming events for Defiance High School in Defiance, OH.",
+     "source_info_link": "https://fan.hudl.com/usa/oh/defiance/organization/18244/defiance-high-school/team/48403/boys-varsity-basketball",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACoUlEQVR4AWIYcgBQezXAWBJEwTrbtm3btm3bts3obNv2BWfbtu27vurN5KczXy87-yup4UO1u1VLpFRtsJC8oVrjJe8PyBOqLRbw3lA1QfSQT9oeGZk4put9JEKrdijMhGvIP6Qy-IGcqDohVvATtkIyJsymmiMOg00h_waxNU6RHVUzRDFsM_PfSVKZZI08oW15MjHfc4kE0bgWje_ag3kJ3sSokbD8Ps2P3x9yI32TwhP4swX5z3QSCFnKmooIC3wfJvB7zJpNYm_jRPzxVZ4c78mFrIWyuj_YCjJf4L8ZJqh8oDDxX9rO9tWetOkqjJPAdFotrPJGgn40V1iYMmYNrBA5tUZe-AHtZopitUIJ06mXwOmr7nACAS0EsX6Z84ruhHF1x_JT_TMggKqHSLR_7kfAQtjBBHV9OJxUnREVQjBWMfp89xLrvll6s-rSejB-RY7XpYIBoYhMOpmHmEe9Tb-5bYbHFRAKDsAYOzwIOOdt-KS2GfaFQzDmdlvM32QVbyteZJtxETgEY-wz4v0gG_pzeORyoKAQEPDM1fEkBaLRPGvIfTP3ApDDvr68J8fq5dvqZwX4ntVXm1W3FL82RO0lxwSj_aNpgjCSX7UvXvZJJAyNrpE_rRGgBVx2Lb1tEBumbXskJxPBB3Qca4H6QUGDJeO3QVDCjohvCrD4hv876bmBfGd816LreYhVWu8XLZvnFBsDGgLFW6m2kiXgOKmEHEq_8rrdyZu2qbwupNBTJZ06WAKWk8ohZ0IMY-drdabeDpMv1LGczGYZgpn4FzlINJ0LOmYr6wCihDyg2iEnQhKqGyIw8D1B8jkIFFRr9PO79-eBBoGBdQBpi_0-BAxAoKHaIxxrYjSTvTUSX-G3-gg4bMNUnyH1fhIO8B9y2hgKJeIXdgAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESpwEB6zswFePxBjBof09u5AgO20iWySsvOK6yQVo84Nyj_zGZNwnrv34KyzciXORb32vUmZu9i7FOZaSCdB4yGlnH63Ly4L82G17vsKDbVRFdS-9n_NjPGf8a3Wp4HtcXLRBuhFZiZoqfV3lwjhmqoWQGJNpzF7c9Vf-0vLQkMMlIYwySY06NNappTQYw6m6lO9XI2EmLN2xZRRR4TLEcK35TfRAFLzYgyA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESpwEB6zswFePxBjBof09u5AgO20iWySsvOK6yQVo84Nyj_zGZNwnrv34KyzciXORb32vUmZu9i7FOZaSCdB4yGlnH63Ly4L82G17vsKDbVRFdS-9n_NjPGf8a3Wp4HtcXLRBuhFZiZoqfV3lwjhmqoWQGJNpzF7c9Vf-0vLQkMMlIYwySY06NNappTQYw6m6lO9XI2EmLN2xZRRR4TLEcK35TfRAFLzYgyA",
+   "source": "Hudl"
+  },
+  {
+   "position": 9,
+   "title": "Fort Defiance High School (\u00c9cole)",
+   "link": "https://mapy.com/fr/?source=osm&id=128291430",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZAHrOzAVpgV_4AnFJVBd4X7X94QivAwSsuWWcPUUACFBWONuAhsKsbDxGmR15qNNGXiqv-7G4V4Dt2_r_F9ihJoHJKBJJFQ3_BOi2c_PgtHgLlYSihd-rX2QZ7HoU-6G7NfGj5k&ved=2ahUKEwjlrZeD6OSWAxWyJEQIHd_3BoEQFnoECC0QAQ&uoh=1",
+   "displayed_link": "https://mapy.com \u203a ...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEUergAUrAAAqAAAqgBUu0r2-_Xp9ug9tS8AqwCMzob____v-O6Fy4B9yXap2qVxxWqY05Jgv1dJuD7I58af1pvR6880syPA4735_Pi44LTE5MHd8NtYvU0ApAD8__s5tCqc1ZgqsRc7BjUmAAAAqklEQVR4AczPRQLDMAwAwUoKbpkh_P9PtmG-1xfDyILN_y5Rk1VzXM9f0yCErdZHm-EO2Jdf9bC1JfT0dzjCKVhAziIX4GoTvJV41wcLaE9eb3BeJX4mqB6RlEC85TnBAN7Js7TE5TBGOUJoD1w_sJRbMEJ7QyZyEdnYbBR9UQ4pZVzKXoYmZ8ibcHUnaHfozhHHERb0Hcp5PEnwft36B5lMWeh3HAxDAAAArE0IOFnaOYEAAAAASUVORK5CYII.png",
+   "snippet": "Fort Defiance High School, connue sous le nom de FDHS ou Fort, est une \u00e9cole publique situ\u00e9e \u00e0 Fort Defiance, en Virginie. Elle a \u00e9t\u00e9 enti\u00e8rement accr\u00e9dit\u00e9e ...",
+   "snippet_highlighted_words": [
+    "Defiance High School",
+    "de"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Fort Defiance High School, connue sous le nom de FDHS ou Fort, est une \u00e9cole publique situ\u00e9e \u00e0 Fort Defiance, en Virginie. Elle a \u00e9t\u00e9 enti\u00e8rement accr\u00e9dit\u00e9e ...",
+     "source_info_link": "https://mapy.com/fr/?source=osm&id=128291430",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEUergAUrAAAqAAAqgBUu0r2-_Xp9ug9tS8AqwCMzob____v-O6Fy4B9yXap2qVxxWqY05Jgv1dJuD7I58af1pvR6880syPA4735_Pi44LTE5MHd8NtYvU0ApAD8__s5tCqc1ZgqsRc7BjUmAAAAqklEQVR4AczPRQLDMAwAwUoKbpkh_P9PtmG-1xfDyILN_y5Rk1VzXM9f0yCErdZHm-EO2Jdf9bC1JfT0dzjCKVhAziIX4GoTvJV41wcLaE9eb3BeJX4mqB6RlEC85TnBAN7Js7TE5TBGOUJoD1w_sJRbMEJ7QyZyEdnYbBR9UQ4pZVzKXoYmZ8ibcHUnaHfozhHHERb0Hcp5PEnwft36B5lMWeh3HAxDAAAArE0IOFnaOYEAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESZAHrOzAVpgV_4AnFJVBd4X7X94QivAwSsuWWcPUUACFBWONuAhsKsbDxGmR15qNNGXiqv-7G4V4Dt2_r_F9ihJoHJKBJJFQ3_BOi2c_PgtHgLlYSihd-rX2QZ7HoU-6G7NfGj5k&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESZAHrOzAVpgV_4AnFJVBd4X7X94QivAwSsuWWcPUUACFBWONuAhsKsbDxGmR15qNNGXiqv-7G4V4Dt2_r_F9ihJoHJKBJJFQ3_BOi2c_PgtHgLlYSihd-rX2QZ7HoU-6G7NfGj5k",
+   "source": "Mapy.com",
+   "read_more_link": "https://mapy.com/fr/?source=osm&id=128291430#:~:text=Fort%20Defiance%20High%20School%2C%20connue,Elle%20a%20%C3%A9t%C3%A9%20enti%C3%A8rement%20accr%C3%A9dit%C3%A9e"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Defiance high school delaware football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Defiance+high+school+delaware+football&sa=X&ved=2ahUKEwjlrZeD6OSWAxWyJEQIHd_3BoEQ1QJ6BAgvEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Defiance+high+school+delaware+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Defiance high school delaware yearbook",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Defiance+high+school+delaware+yearbook&sa=X&ved=2ahUKEwjlrZeD6OSWAxWyJEQIHd_3BoEQ1QJ6BAhGEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Defiance+high+school+delaware+yearbook"
+  },
+  {
+   "block_position": 1,
+   "query": "Defiance high school delaware baseball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Defiance+high+school+delaware+baseball&sa=X&ved=2ahUKEwjlrZeD6OSWAxWyJEQIHd_3BoEQ1QJ6BAhHEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Defiance+high+school+delaware+baseball"
+  },
+  {
+   "block_position": 1,
+   "query": "Defiance high school delaware basketball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Defiance+high+school+delaware+basketball&sa=X&ved=2ahUKEwjlrZeD6OSWAxWyJEQIHd_3BoEQ1QJ6BAhIEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Defiance+high+school+delaware+basketball"
+  },
+  {
+   "block_position": 1,
+   "query": "Defiance high school delaware alumni",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Defiance+high+school+delaware+alumni&sa=X&ved=2ahUKEwjlrZeD6OSWAxWyJEQIHd_3BoEQ1QJ6BAhDEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Defiance+high+school+delaware+alumni"
+  },
+  {
+   "block_position": 1,
+   "query": "Defiance City Schools",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Defiance+City+Schools&sa=X&ved=2ahUKEwjlrZeD6OSWAxWyJEQIHd_3BoEQ1QJ6BAg9EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Defiance+City+Schools"
+  },
+  {
+   "block_position": 1,
+   "query": "Defiance high School phone number",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Defiance+high+School+phone+number&sa=X&ved=2ahUKEwjlrZeD6OSWAxWyJEQIHd_3BoEQ1QJ6BAgyEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Defiance+high+School+phone+number"
+  },
+  {
+   "block_position": 1,
+   "query": "Defiance high School Calendar",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Defiance+high+School+Calendar&sa=X&ved=2ahUKEwjlrZeD6OSWAxWyJEQIHd_3BoEQ1QJ6BAgxEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Defiance+high+School+Calendar"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Defiance+High+School%22+Delaware&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=vQ2jaqXbErLJkPIP3--biAg&start=10&sa=N&sstk=AS6-VmLzYbNpeqDqdurCo6c6tFqIcrqmIUFXM60yL3ROD6hdWl1yc8MTpaKMgcs1szN3qYKeVOKbhpKYW01NNnhpQ9Lg65NxGLP8Hw&ved=2ahUKEwjlrZeD6OSWAxWyJEQIHd_3BoEQ8NMDegQISRAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Defiance+High+School%22+Delaware&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=vQ2jaqXbErLJkPIP3--biAg&start=10&sa=N&sstk=AS6-VmLzYbNpeqDqdurCo6c6tFqIcrqmIUFXM60yL3ROD6hdWl1yc8MTpaKMgcs1szN3qYKeVOKbhpKYW01NNnhpQ9Lg65NxGLP8Hw&ved=2ahUKEwjlrZeD6OSWAxWyJEQIHd_3BoEQ8tMDegQISRAE",
+   "3": "https://www.google.com/search?q=%22Defiance+High+School%22+Delaware&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=vQ2jaqXbErLJkPIP3--biAg&start=20&sa=N&sstk=AS6-VmLzYbNpeqDqdurCo6c6tFqIcrqmIUFXM60yL3ROD6hdWl1yc8MTpaKMgcs1szN3qYKeVOKbhpKYW01NNnhpQ9Lg65NxGLP8Hw&ved=2ahUKEwjlrZeD6OSWAxWyJEQIHd_3BoEQ8tMDegQISRAG",
+   "4": "https://www.google.com/search?q=%22Defiance+High+School%22+Delaware&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=vQ2jaqXbErLJkPIP3--biAg&start=30&sa=N&sstk=AS6-VmLzYbNpeqDqdurCo6c6tFqIcrqmIUFXM60yL3ROD6hdWl1yc8MTpaKMgcs1szN3qYKeVOKbhpKYW01NNnhpQ9Lg65NxGLP8Hw&ved=2ahUKEwjlrZeD6OSWAxWyJEQIHd_3BoEQ8tMDegQISRAI",
+   "5": "https://www.google.com/search?q=%22Defiance+High+School%22+Delaware&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=vQ2jaqXbErLJkPIP3--biAg&start=40&sa=N&sstk=AS6-VmLzYbNpeqDqdurCo6c6tFqIcrqmIUFXM60yL3ROD6hdWl1yc8MTpaKMgcs1szN3qYKeVOKbhpKYW01NNnhpQ9Lg65NxGLP8Hw&ved=2ahUKEwjlrZeD6OSWAxWyJEQIHd_3BoEQ8tMDegQISRAK",
+   "6": "https://www.google.com/search?q=%22Defiance+High+School%22+Delaware&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=vQ2jaqXbErLJkPIP3--biAg&start=50&sa=N&sstk=AS6-VmLzYbNpeqDqdurCo6c6tFqIcrqmIUFXM60yL3ROD6hdWl1yc8MTpaKMgcs1szN3qYKeVOKbhpKYW01NNnhpQ9Lg65NxGLP8Hw&ved=2ahUKEwjlrZeD6OSWAxWyJEQIHd_3BoEQ8tMDegQISRAM",
+   "7": "https://www.google.com/search?q=%22Defiance+High+School%22+Delaware&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=vQ2jaqXbErLJkPIP3--biAg&start=60&sa=N&sstk=AS6-VmLzYbNpeqDqdurCo6c6tFqIcrqmIUFXM60yL3ROD6hdWl1yc8MTpaKMgcs1szN3qYKeVOKbhpKYW01NNnhpQ9Lg65NxGLP8Hw&ved=2ahUKEwjlrZeD6OSWAxWyJEQIHd_3BoEQ8tMDegQISRAO",
+   "8": "https://www.google.com/search?q=%22Defiance+High+School%22+Delaware&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=vQ2jaqXbErLJkPIP3--biAg&start=70&sa=N&sstk=AS6-VmLzYbNpeqDqdurCo6c6tFqIcrqmIUFXM60yL3ROD6hdWl1yc8MTpaKMgcs1szN3qYKeVOKbhpKYW01NNnhpQ9Lg65NxGLP8Hw&ved=2ahUKEwjlrZeD6OSWAxWyJEQIHd_3BoEQ8tMDegQISRAQ",
+   "9": "https://www.google.com/search?q=%22Defiance+High+School%22+Delaware&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=vQ2jaqXbErLJkPIP3--biAg&start=80&sa=N&sstk=AS6-VmLzYbNpeqDqdurCo6c6tFqIcrqmIUFXM60yL3ROD6hdWl1yc8MTpaKMgcs1szN3qYKeVOKbhpKYW01NNnhpQ9Lg65NxGLP8Hw&ved=2ahUKEwjlrZeD6OSWAxWyJEQIHd_3BoEQ8tMDegQISRAS",
+   "10": "https://www.google.com/search?q=%22Defiance+High+School%22+Delaware&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=vQ2jaqXbErLJkPIP3--biAg&start=90&sa=N&sstk=AS6-VmLzYbNpeqDqdurCo6c6tFqIcrqmIUFXM60yL3ROD6hdWl1yc8MTpaKMgcs1szN3qYKeVOKbhpKYW01NNnhpQ9Lg65NxGLP8Hw&ved=2ahUKEwjlrZeD6OSWAxWyJEQIHd_3BoEQ8tMDegQISRAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Defiance+High+School%22+Delaware&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Defiance+High+School%22+Delaware&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Defiance+High+School%22+Delaware&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Defiance+High+School%22+Delaware&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Defiance+High+School%22+Delaware&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Defiance+High+School%22+Delaware&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Defiance+High+School%22+Delaware&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Defiance+High+School%22+Delaware&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Defiance+High+School%22+Delaware&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Defiance+High+School%22+Delaware&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Defiance+High+School%22+Delaware&start=90"
+  }
+ }
+}

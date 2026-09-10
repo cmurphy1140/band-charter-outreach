@@ -1,0 +1,343 @@
+{
+ "search_information": {
+  "query_displayed": "\"Heights Marching Band\"",
+  "total_results": 29100,
+  "time_taken_displayed": 0.27,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "related_questions": [
+  {
+   "question": "What are the top 3 high school marching bands in the US?",
+   "type": "ai_overview",
+   "page_token": "-LPz8nicHZBRcpswFACnl8lnjEyc1p7xdEoMtWkQQUYC66cjBIagh1BsYmT-eoWcIafqaerpBXZn988nvGr198tHMwzmvJrNxnG8r_u-hupe9t1MnK9azqQAKIRUq8evj-j7Ua79i_SeTtJLqDFsQ5w9CzO8Cd2CsibOsJPm4eWZ9aNk5Z5tzSUD5RxyhaSD2qwNXdmCTSbmEB1gwpYgUthFKZwIfLN7Vi7ohF8KZGyp7FvRsS1tG11o3qUtLIrUQ9HcsaXejeUcbl4fJWowuLNN4fvOYQqs7GDH2mAhA_ySu6Vm4F2FVq6gyybe8JY7QGXOWPyzzCJEQMzREbc7FFF2xtQfeBo9PLN6qDqDsPsDCWSSg0Km0pz7TTkkKX875Pi9ogxxFYzxhiQlW26LDIiw_WtCyXRr7GgeTDfWlSt4wCjMSA6_IlUjoY2Nt95TlSeWj3dHeVm7d_9fr38fu2FlTn39Dx9cj4w",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=-LPz8nicHZBRcpswFACnl8lnjEyc1p7xdEoMtWkQQUYC66cjBIagh1BsYmT-eoWcIafqaerpBXZn988nvGr198tHMwzmvJrNxnG8r_u-hupe9t1MnK9azqQAKIRUq8evj-j7Ua79i_SeTtJLqDFsQ5w9CzO8Cd2CsibOsJPm4eWZ9aNk5Z5tzSUD5RxyhaSD2qwNXdmCTSbmEB1gwpYgUthFKZwIfLN7Vi7ohF8KZGyp7FvRsS1tG11o3qUtLIrUQ9HcsaXejeUcbl4fJWowuLNN4fvOYQqs7GDH2mAhA_ySu6Vm4F2FVq6gyybe8JY7QGXOWPyzzCJEQMzREbc7FFF2xtQfeBo9PLN6qDqDsPsDCWSSg0Km0pz7TTkkKX875Pi9ogxxFYzxhiQlW26LDIiw_WtCyXRr7GgeTDfWlSt4wCjMSA6_IlUjoY2Nt95TlSeWj3dHeVm7d_9fr38fu2FlTn39Dx9cj4w",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZUZ3pNMlV0WWpSQlpIWnNabTlxWW5ZMlYyWmxNV2x2TkhCRWVXbGlPVE5zTjJWMFptaGpNbUZWV0dWTmFHcHdVRTlGVjFCMUxUbFVUVk0yZFhkT1NrODVTM05OTmpKb2VXcHNRM0JuVWpoUmJWQnNkMjVpTVhKdlFSSVhiVUUyYW1GemJubEZkV1pCY0RnMFVIVmZSMjFwVVdzYUlrRkVjM0k1WmxOQlJrTnBRMTgzTldsRmFrTmlka2hhTmtkeGVtZHlUalEyZG5jIiwiZmN2IjoiMyIsImVpIjoibUE2amFzbnlFdWZBcDg0UHVfR21pUWsiLCJxYyI6IkNoVm9aV2xuYUhSeklHMWhjbU5vYVc1bklHSmhibVFRQUgzc1p3MF8iLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSB0b3AgMyBoaWdoIHNjaG9vbCBtYXJjaGluZyBiYW5kcyBpbiB0aGUgVVM/IiwibGsiOiJjNU15TDg5SUxGRklMRXBWS01rQTR2d0NCV09Gak16MERJWGk1SXo4X0J5RjNNU2k1SXpNdkhTRnBNUzhsR0tGekR5d3V0SmlBQSIsImJzIjoiYzUyT1BRdkNRQXlHY2Mza2ZDRG1ENmhRVWV2VXpkVkJwSzdwaDAyZzNzbmRsZjU5anl1Q3hjVTZaRW1lNTgwTEhhUTVrMGV5TlhvT1k1NjRSWmFHMFpWc1RJc1BzaVdMYnJBZ1hUa1VIYm5ySlV1TzZ0RF80M1lPQ05ieHJiaTRZYkpWN2Z5WUQzblkxSUhSM21USlJxMzZLUWJjWUplemxEd3F4RFRveGJjYnlwMVp3cWVsV3NUenBfY21UQ0RBd1NHV196MzQxQm9yRldWSnF2YjlOUFUtcVBQWkN3IiwiaWQiOiJmY19tQTZqYXNueUV1ZkFwODRQdV9HbWlRa181In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZUZ3pNMlV0WWpSQlpIWnNabTlxWW5ZMlYyWmxNV2x2TkhCRWVXbGlPVE5zTjJWMFptaGpNbUZWV0dWTmFHcHdVRTlGVjFCMUxUbFVUVk0yZFhkT1NrODVTM05OTmpKb2VXcHNRM0JuVWpoUmJWQnNkMjVpTVhKdlFSSVhiVUUyYW1GemJubEZkV1pCY0RnMFVIVmZSMjFwVVdzYUlrRkVjM0k1WmxOQlJrTnBRMTgzTldsRmFrTmlka2hhTmtkeGVtZHlUalEyZG5jIiwiZmN2IjoiMyIsImVpIjoibUE2amFzbnlFdWZBcDg0UHVfR21pUWsiLCJxYyI6IkNoVm9aV2xuYUhSeklHMWhjbU5vYVc1bklHSmhibVFRQUgzc1p3MF8iLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSB0b3AgMyBoaWdoIHNjaG9vbCBtYXJjaGluZyBiYW5kcyBpbiB0aGUgVVM%2FIiwibGsiOiJjNU15TDg5SUxGRklMRXBWS01rQTR2d0NCV09Gak16MERJWGk1SXo4X0J5RjNNU2k1SXpNdkhTRnBNUzhsR0tGekR5d3V0SmlBQSIsImJzIjoiYzUyT1BRdkNRQXlHY2Mza2ZDRG1ENmhRVWV2VXpkVkJwSzdwaDAyZzNzbmRsZjU5anl1Q3hjVTZaRW1lNTgwTEhhUTVrMGV5TlhvT1k1NjRSWmFHMFpWc1RJc1BzaVdMYnJBZ1hUa1VIYm5ySlV1TzZ0RF80M1lPQ05ieHJiaTRZYkpWN2Z5WUQzblkxSUhSM21USlJxMzZLUWJjWUplemxEd3F4RFRveGJjYnlwMVp3cWVsV3NUenBfY21UQ0RBd1NHV196MzQxQm9yRldWSnF2YjlOUFUtcVBQWkN3IiwiaWQiOiJmY19tQTZqYXNueUV1ZkFwODRQdV9HbWlRa181In0%3D"
+  },
+  {
+   "question": "What is the hardest marching band to get into?",
+   "type": "ai_overview",
+   "page_token": "-G-8wnicHdBdbptAFEBhdTN5jBkTu40lqyoG7CABmn-Yl2q4xMbMYGgMBvOWLXQNXVVXkygbONJ33v_Z88X8__a36vvuulksxnF8PLXtyb4-Qtss9PV-gQVoawsNZrP-vkY_j7ANbuDt3sDDvOuETxzKolXBlA91dY2NTaFOAsKMo2QwEy6yzI0C2TgzHGwNtZ2pnyOZvbiljWxZe732yV07T0t5KY2gKNDCYjZXS23CtDBinZtSK15R5jzfafDSJ0s7ylDswKgneYiGnEee3v9wlTNlymC38BNcyDJOM-hp06XijmghooFlrZNI5ZAar8Sy77ghgWBkF6PYTcLc0RxxYIlitdrri3eTYTdrvhro7J1zHq6ZEHVQlT1m6k-eJcMrF0iZcEx9gkvxfCikJXpqz5iT-dPZcLcysI8nQN5ntKxBTpIdkiHJyonaX5PeIYHxwxFuW_fh6_X297HpN91be_oA7_aOBg",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=-G-8wnicHdBdbptAFEBhdTN5jBkTu40lqyoG7CABmn-Yl2q4xMbMYGgMBvOWLXQNXVVXkygbONJ33v_Z88X8__a36vvuulksxnF8PLXtyb4-Qtss9PV-gQVoawsNZrP-vkY_j7ANbuDt3sDDvOuETxzKolXBlA91dY2NTaFOAsKMo2QwEy6yzI0C2TgzHGwNtZ2pnyOZvbiljWxZe732yV07T0t5KY2gKNDCYjZXS23CtDBinZtSK15R5jzfafDSJ0s7ylDswKgneYiGnEee3v9wlTNlymC38BNcyDJOM-hp06XijmghooFlrZNI5ZAar8Sy77ghgWBkF6PYTcLc0RxxYIlitdrri3eTYTdrvhro7J1zHq6ZEHVQlT1m6k-eJcMrF0iZcEx9gkvxfCikJXpqz5iT-dPZcLcysI8nQN5ntKxBTpIdkiHJyonaX5PeIYHxwxFuW_fh6_X297HpN91be_oA7_aOBg",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZUZ3pNMlV0WWpSQlpIWnNabTlxWW5ZMlYyWmxNV2x2TkhCRWVXbGlPVE5zTjJWMFptaGpNbUZWV0dWTmFHcHdVRTlGVjFCMUxUbFVUVk0yZFhkT1NrODVTM05OTmpKb2VXcHNRM0JuVWpoUmJWQnNkMjVpTVhKdlFSSVhiVUUyYW1GemJubEZkV1pCY0RnMFVIVmZSMjFwVVdzYUlrRkVjM0k1WmxOQlJrTnBRMTgzTldsRmFrTmlka2hhTmtkeGVtZHlUalEyZG5jIiwiZmN2IjoiMyIsImVpIjoibUE2amFzbnlFdWZBcDg0UHVfR21pUWsiLCJxYyI6IkNoVm9aV2xuYUhSeklHMWhjbU5vYVc1bklHSmhibVFRQUgzc1p3MF8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGhhcmRlc3QgbWFyY2hpbmcgYmFuZCB0byBnZXQgaW50bz8iLCJsayI6IkdpMTNhR0YwSUdseklIUm9aU0JvWVhKa1pYTjBJRzFoY21Ob2FXNW5JR0poYm1RZ2RHOGdaMlYwSUdsdWRHOCIsImJzIjoiYzUyT1BRdkNRQXlHY2Mza2ZDRG1ENmhRVWV2VXpkVkJwSzdwaDAyZzNzbmRsZjU5anl1Q3hjVTZaRW1lNTgwTEhhUTVrMGV5TlhvT1k1NjRSWmFHMFpWc1RJc1BzaVdMYnJBZ1hUa1VIYm5ySlV1TzZ0RF80M1lPQ05ieHJiaTRZYkpWN2Z5WUQzblkxSUhSM21USlJxMzZLUWJjWUplemxEd3F4RFRveGJjYnlwMVp3cWVsV3NUenBfY21UQ0RBd1NHV196MzQxQm9yRldWSnF2YjlOUFUtcVBQWkN3IiwiaWQiOiJmY19tQTZqYXNueUV1ZkFwODRQdV9HbWlRa181In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZUZ3pNMlV0WWpSQlpIWnNabTlxWW5ZMlYyWmxNV2x2TkhCRWVXbGlPVE5zTjJWMFptaGpNbUZWV0dWTmFHcHdVRTlGVjFCMUxUbFVUVk0yZFhkT1NrODVTM05OTmpKb2VXcHNRM0JuVWpoUmJWQnNkMjVpTVhKdlFSSVhiVUUyYW1GemJubEZkV1pCY0RnMFVIVmZSMjFwVVdzYUlrRkVjM0k1WmxOQlJrTnBRMTgzTldsRmFrTmlka2hhTmtkeGVtZHlUalEyZG5jIiwiZmN2IjoiMyIsImVpIjoibUE2amFzbnlFdWZBcDg0UHVfR21pUWsiLCJxYyI6IkNoVm9aV2xuYUhSeklHMWhjbU5vYVc1bklHSmhibVFRQUgzc1p3MF8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGhhcmRlc3QgbWFyY2hpbmcgYmFuZCB0byBnZXQgaW50bz8iLCJsayI6IkdpMTNhR0YwSUdseklIUm9aU0JvWVhKa1pYTjBJRzFoY21Ob2FXNW5JR0poYm1RZ2RHOGdaMlYwSUdsdWRHOCIsImJzIjoiYzUyT1BRdkNRQXlHY2Mza2ZDRG1ENmhRVWV2VXpkVkJwSzdwaDAyZzNzbmRsZjU5anl1Q3hjVTZaRW1lNTgwTEhhUTVrMGV5TlhvT1k1NjRSWmFHMFpWc1RJc1BzaVdMYnJBZ1hUa1VIYm5ySlV1TzZ0RF80M1lPQ05ieHJiaTRZYkpWN2Z5WUQzblkxSUhSM21USlJxMzZLUWJjWUplemxEd3F4RFRveGJjYnlwMVp3cWVsV3NUenBfY21UQ0RBd1NHV196MzQxQm9yRldWSnF2YjlOUFUtcVBQWkN3IiwiaWQiOiJmY19tQTZqYXNueUV1ZkFwODRQdV9HbWlRa181In0%3D"
+  },
+  {
+   "question": "Which high school has the best marching band in Ohio?",
+   "type": "ai_overview",
+   "page_token": "4PBA4nicHdBZjpswAABQ9TLzOTFL0iZSVJUQK8wonjFewP6pwGYJGHAyTCD89Qo9Q0_V01TqO8L79cdc-vbvl9_1ONqP3Wo1TdNzNQyVKZ7V0K2yj0evViozJs9Uu9t83TjfS7U_3lVwuKkAM2t5GAPCX-acoXUe6kjDbZkkziA6hPILeGDggKznVjPdUB5fEzbHmNtIdPydeIFPXL4QWIscWF8weCHJ4KdL8Jq5c1TAuikafSbQ3njaTgXTJ0x_gDPfCtFwmIP6TRoNEJM-7e0r90ynzFbQNICk0WsSxtf8xBbV6UNmvo2SxmXBHMK86iFbJElfjUWDBuXau-LDjN0xw039KcF64bC-IjZvSBef6YlL6spGJEgeaz1iKq8iRZ8F445s4fQWxljz7SlPTJzNwwWzeFGN6Vj78l4kYi1p9KAePLIE-Ulf0xTolhl00GEE5PRUqvvee_p_vf9ZduPO3obqH4DAjt0",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=4PBA4nicHdBZjpswAABQ9TLzOTFL0iZSVJUQK8wonjFewP6pwGYJGHAyTCD89Qo9Q0_V01TqO8L79cdc-vbvl9_1ONqP3Wo1TdNzNQyVKZ7V0K2yj0evViozJs9Uu9t83TjfS7U_3lVwuKkAM2t5GAPCX-acoXUe6kjDbZkkziA6hPILeGDggKznVjPdUB5fEzbHmNtIdPydeIFPXL4QWIscWF8weCHJ4KdL8Jq5c1TAuikafSbQ3njaTgXTJ0x_gDPfCtFwmIP6TRoNEJM-7e0r90ynzFbQNICk0WsSxtf8xBbV6UNmvo2SxmXBHMK86iFbJElfjUWDBuXau-LDjN0xw039KcF64bC-IjZvSBef6YlL6spGJEgeaz1iKq8iRZ8F445s4fQWxljz7SlPTJzNwwWzeFGN6Vj78l4kYi1p9KAePLIE-Ulf0xTolhl00GEE5PRUqvvee_p_vf9ZduPO3obqH4DAjt0",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZUZ3pNMlV0WWpSQlpIWnNabTlxWW5ZMlYyWmxNV2x2TkhCRWVXbGlPVE5zTjJWMFptaGpNbUZWV0dWTmFHcHdVRTlGVjFCMUxUbFVUVk0yZFhkT1NrODVTM05OTmpKb2VXcHNRM0JuVWpoUmJWQnNkMjVpTVhKdlFSSVhiVUUyYW1GemJubEZkV1pCY0RnMFVIVmZSMjFwVVdzYUlrRkVjM0k1WmxOQlJrTnBRMTgzTldsRmFrTmlka2hhTmtkeGVtZHlUalEyZG5jIiwiZmN2IjoiMyIsImVpIjoibUE2amFzbnlFdWZBcDg0UHVfR21pUWsiLCJxYyI6IkNoVm9aV2xuYUhSeklHMWhjbU5vYVc1bklHSmhibVFRQUgzc1p3MF8iLCJxdWVzdGlvbiI6IldoaWNoIGhpZ2ggc2Nob29sIGhhcyB0aGUgYmVzdCBtYXJjaGluZyBiYW5kIGluIE9oaW8/IiwibGsiOiJHaDFpWlhOMElHaHBaMmdnYzJOb2IyOXNJR0poYm1RZ2FXNGdiMmhwYnciLCJicyI6ImM1Mk9QUXZDUUF5R2NjM2tmQ0RtRDZoUVVldlV6ZFZCcEs3cGgwMmczc25kbGY1OWp5dUN4Y1U2WkVtZTU4MExIYVE1azBleU5Yb09ZNTY0UlphRzBaVnNUSXNQc2lXTGJyQWdYVGtVSGJuckpVdU82dERfNDNZT0NOYnhyYmk0WWJKVjdmeVlEM25ZMUlIUjNtVEpScTM2S1FiY1lKZXpsRHdxeERUb3hiY2J5cDFad3FlbFdzVHpwX2NtVENEQXdTR1dfejM0MUJvckZXVkpxdmI5TlBVLXFQUFpDdyIsImlkIjoiZmNfbUE2amFzbnlFdWZBcDg0UHVfR21pUWtfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZUZ3pNMlV0WWpSQlpIWnNabTlxWW5ZMlYyWmxNV2x2TkhCRWVXbGlPVE5zTjJWMFptaGpNbUZWV0dWTmFHcHdVRTlGVjFCMUxUbFVUVk0yZFhkT1NrODVTM05OTmpKb2VXcHNRM0JuVWpoUmJWQnNkMjVpTVhKdlFSSVhiVUUyYW1GemJubEZkV1pCY0RnMFVIVmZSMjFwVVdzYUlrRkVjM0k1WmxOQlJrTnBRMTgzTldsRmFrTmlka2hhTmtkeGVtZHlUalEyZG5jIiwiZmN2IjoiMyIsImVpIjoibUE2amFzbnlFdWZBcDg0UHVfR21pUWsiLCJxYyI6IkNoVm9aV2xuYUhSeklHMWhjbU5vYVc1bklHSmhibVFRQUgzc1p3MF8iLCJxdWVzdGlvbiI6IldoaWNoIGhpZ2ggc2Nob29sIGhhcyB0aGUgYmVzdCBtYXJjaGluZyBiYW5kIGluIE9oaW8%2FIiwibGsiOiJHaDFpWlhOMElHaHBaMmdnYzJOb2IyOXNJR0poYm1RZ2FXNGdiMmhwYnciLCJicyI6ImM1Mk9QUXZDUUF5R2NjM2tmQ0RtRDZoUVVldlV6ZFZCcEs3cGgwMmczc25kbGY1OWp5dUN4Y1U2WkVtZTU4MExIYVE1azBleU5Yb09ZNTY0UlphRzBaVnNUSXNQc2lXTGJyQWdYVGtVSGJuckpVdU82dERfNDNZT0NOYnhyYmk0WWJKVjdmeVlEM25ZMUlIUjNtVEpScTM2S1FiY1lKZXpsRHdxeERUb3hiY2J5cDFad3FlbFdzVHpwX2NtVENEQXdTR1dfejM0MUJvckZXVkpxdmI5TlBVLXFQUFpDdyIsImlkIjoiZmNfbUE2amFzbnlFdWZBcDg0UHVfR21pUWtfNSJ9"
+  },
+  {
+   "question": "What high school has the best marching band in Florida?",
+   "type": "ai_overview",
+   "page_token": "aof5vnicHdBbbuIwFABQdTP9hDwKI5BQJVqSwBBT39hO8M8o2EDwI_FAhoT8dQuzhllVV1NpzhLO5z9zqfXX09-qbd1tPh53XTc6N83ZHEeisePy9qjFWJTGHEqh59MfU__1JBaru1i-XcUSU-fYO3gklgEpZCwVSjLtP6QxrWTUw8VyWdJVKMJ1SAJEiI5MpvZdZmcNUEZJzdU2nwC27MY9YyFH91TjByLRGx_4gAK0BtorRF2dUpMcNTgZILf3TcX05OeWnUPu-RzllS_qjWXx7IOsuKJhVUoNTUqg4XTzQvUkOtj2JWfoigvTksFM0MCRiDbRoXAXriQB7R7SxwPEsDvmrNv7EdkWrN4VUSgSGWSEF8irhlUlW0z4732B_hwp87mOut07YMlmySE3UPbNBVMYhDKWMqCcpD2PeSXVps4S3cu4n4JtrxC4VCreU_x8EvdF-Pz_evHrZNu5uzbnb3lQj40",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=aof5vnicHdBbbuIwFABQdTP9hDwKI5BQJVqSwBBT39hO8M8o2EDwI_FAhoT8dQuzhllVV1NpzhLO5z9zqfXX09-qbd1tPh53XTc6N83ZHEeisePy9qjFWJTGHEqh59MfU__1JBaru1i-XcUSU-fYO3gklgEpZCwVSjLtP6QxrWTUw8VyWdJVKMJ1SAJEiI5MpvZdZmcNUEZJzdU2nwC27MY9YyFH91TjByLRGx_4gAK0BtorRF2dUpMcNTgZILf3TcX05OeWnUPu-RzllS_qjWXx7IOsuKJhVUoNTUqg4XTzQvUkOtj2JWfoigvTksFM0MCRiDbRoXAXriQB7R7SxwPEsDvmrNv7EdkWrN4VUSgSGWSEF8irhlUlW0z4732B_hwp87mOut07YMlmySE3UPbNBVMYhDKWMqCcpD2PeSXVps4S3cu4n4JtrxC4VCreU_x8EvdF-Pz_evHrZNu5uzbnb3lQj40",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZUZ3pNMlV0WWpSQlpIWnNabTlxWW5ZMlYyWmxNV2x2TkhCRWVXbGlPVE5zTjJWMFptaGpNbUZWV0dWTmFHcHdVRTlGVjFCMUxUbFVUVk0yZFhkT1NrODVTM05OTmpKb2VXcHNRM0JuVWpoUmJWQnNkMjVpTVhKdlFSSVhiVUUyYW1GemJubEZkV1pCY0RnMFVIVmZSMjFwVVdzYUlrRkVjM0k1WmxOQlJrTnBRMTgzTldsRmFrTmlka2hhTmtkeGVtZHlUalEyZG5jIiwiZmN2IjoiMyIsImVpIjoibUE2amFzbnlFdWZBcDg0UHVfR21pUWsiLCJxYyI6IkNoVm9aV2xuYUhSeklHMWhjbU5vYVc1bklHSmhibVFRQUgzc1p3MF8iLCJxdWVzdGlvbiI6IldoYXQgaGlnaCBzY2hvb2wgaGFzIHRoZSBiZXN0IG1hcmNoaW5nIGJhbmQgaW4gRmxvcmlkYT8iLCJsayI6ImN3WEIyd25BTUF3RHdEMzZwU202al9Kb1pFaHRpQTFkdjNmWF9Za0YyUkt5SzJKRFRKUW0yc3pDeTlObHZ0RG9BLVo0ZGh3Yl9BRSIsImJzIjoiYzUyT1BRdkNRQXlHY2Mza2ZDRG1ENmhRVWV2VXpkVkJwSzdwaDAyZzNzbmRsZjU5anl1Q3hjVTZaRW1lNTgwTEhhUTVrMGV5TlhvT1k1NjRSWmFHMFpWc1RJc1BzaVdMYnJBZ1hUa1VIYm5ySlV1TzZ0RF80M1lPQ05ieHJiaTRZYkpWN2Z5WUQzblkxSUhSM21USlJxMzZLUWJjWUplemxEd3F4RFRveGJjYnlwMVp3cWVsV3NUenBfY21UQ0RBd1NHV196MzQxQm9yRldWSnF2YjlOUFUtcVBQWkN3IiwiaWQiOiJmY19tQTZqYXNueUV1ZkFwODRQdV9HbWlRa181In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZUZ3pNMlV0WWpSQlpIWnNabTlxWW5ZMlYyWmxNV2x2TkhCRWVXbGlPVE5zTjJWMFptaGpNbUZWV0dWTmFHcHdVRTlGVjFCMUxUbFVUVk0yZFhkT1NrODVTM05OTmpKb2VXcHNRM0JuVWpoUmJWQnNkMjVpTVhKdlFSSVhiVUUyYW1GemJubEZkV1pCY0RnMFVIVmZSMjFwVVdzYUlrRkVjM0k1WmxOQlJrTnBRMTgzTldsRmFrTmlka2hhTmtkeGVtZHlUalEyZG5jIiwiZmN2IjoiMyIsImVpIjoibUE2amFzbnlFdWZBcDg0UHVfR21pUWsiLCJxYyI6IkNoVm9aV2xuYUhSeklHMWhjbU5vYVc1bklHSmhibVFRQUgzc1p3MF8iLCJxdWVzdGlvbiI6IldoYXQgaGlnaCBzY2hvb2wgaGFzIHRoZSBiZXN0IG1hcmNoaW5nIGJhbmQgaW4gRmxvcmlkYT8iLCJsayI6ImN3WEIyd25BTUF3RHdEMzZwU202al9Kb1pFaHRpQTFkdjNmWF9Za0YyUkt5SzJKRFRKUW0yc3pDeTlObHZ0RG9BLVo0ZGh3Yl9BRSIsImJzIjoiYzUyT1BRdkNRQXlHY2Mza2ZDRG1ENmhRVWV2VXpkVkJwSzdwaDAyZzNzbmRsZjU5anl1Q3hjVTZaRW1lNTgwTEhhUTVrMGV5TlhvT1k1NjRSWmFHMFpWc1RJc1BzaVdMYnJBZ1hUa1VIYm5ySlV1TzZ0RF80M1lPQ05ieHJiaTRZYkpWN2Z5WUQzblkxSUhSM21USlJxMzZLUWJjWUplemxEd3F4RFRveGJjYnlwMVp3cWVsV3NUenBfY21UQ0RBd1NHV196MzQxQm9yRldWSnF2YjlOUFUtcVBQWkN3IiwiaWQiOiJmY19tQTZqYXNueUV1ZkFwODRQdV9HbWlRa181In0%3D"
+  }
+ ],
+ "ai_overview": {
+  "page_token": "2HcFVHiczVZdcuI4ED7AnmP8MgEbYgKkyjUlCYeYEIICzix5oWxZyAb_BMvEIW9zlz3VnmZlGxLzl2zmYWu7ypbU6j-1-nP711--Fy7-_mPtJskTv5TlNE2rLIqYT6skCmSLr0MizyKfx8T9waNVTKjnaMSNo4BKzNdWXHJ9jYbS-lk7lwjXFIl6WgAu5hYP1_pqBp5a6nA17QYeXki5OW1qW5zOhbeXOZensngtvp13xKLKqzSs3j_GjMR4PKvcVutKrV29k61ACID_jBAAmIk3wsXiFHX_nTnGgA5Ar2S_sKmXRLIFBjqDxRri46awIUSzEWBURNZJXysTW0ysQqKTbR4nVN6ALJeDMLcHRhCcVjxKRaSIbWx_KKsf5aKygYxuP1URMU52ozAAGqabFB9GYgDd2IkYF04YTME8nTFd1-EHcYuEmCls3GQaH4gJusHGON2EcNv5KRzLDhNFq8h2LIaa7BGX5JOYZ7WMxm0lumqajYpP6qtu92agsGvcDzuzCzrWxx6WiS3k_MhyqDN1p8qPfF2r1xpK-7zZOstBRPgbingZRU-BiprTR1RLWtV-Fda2EEJZRg6zJLIt1sgAhwQ3ZXb0gg2wvQz9LcGCa6BSuszN6AIY4axuS7ZBhEmesC2H5vVL3q_kPaTMwyGE9kPLIJQrwcI1LIe3FWEMHlEVRA5OeFCFwm9azNg--vFeJekYLcou0p1dEeTI1bNEZQh4IHoRQMkGytzrW3W85bHsErd5R3BnWy9DyGNZ1oVbNhKCPcxuMnX4dgdwczjY2we-t3_qnK6EPTgxvvaVeDvtxx-IQmaLlb3SL0Omu25U-vFFYzwjj6F_3R4HdGCgK10NOT4OkSiwv9BpyP8JRN62D5kb3RMgotnkcxAx8bk72YeK6XsfKkAE8QkQGQWIjvQhWkiU-tA-iNCoBKJP-tBXQYQ-BJG55R2CKDNwDESLEyDa9KESiEa7fWgHRG996B1Ev9OH0G_1oRxTtBh2m9Jqzk42p676WpumNDGHyzqnEycendtxuuwq9zD9tDnNguQysBz_bOo5l7DeS9bO2VQwokvqSEvtW71-TT3mJvz7rSX-LL2QfYdW6Ai-FPhxpClW88Hz1736n6N7q5sukwcdqj36fAfns6St9uOH-TNIPDyeDMylYhtDslws1Zf5sDVpKyb1Kvar5zcb4Q28SHpInXReJ3fJJOi3WoY9mtmVlqk6A2KZVguPXCt4oSGng8dKu-n5_aRtRi9DtzGKQR4M19TUGQyaIW6KX9ggJpq4BpWBAQY_mag2NBEgEFWMIvGk4rkAWIcSJ9aU8mdNObdnVKSGENtpq_WaFLBk_aSpNYmHsVb7B2o0QNg",
+  "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=2HcFVHiczVZdcuI4ED7AnmP8MgEbYgKkyjUlCYeYEIICzix5oWxZyAb_BMvEIW9zlz3VnmZlGxLzl2zmYWu7ypbU6j-1-nP711--Fy7-_mPtJskTv5TlNE2rLIqYT6skCmSLr0MizyKfx8T9waNVTKjnaMSNo4BKzNdWXHJ9jYbS-lk7lwjXFIl6WgAu5hYP1_pqBp5a6nA17QYeXki5OW1qW5zOhbeXOZensngtvp13xKLKqzSs3j_GjMR4PKvcVutKrV29k61ACID_jBAAmIk3wsXiFHX_nTnGgA5Ar2S_sKmXRLIFBjqDxRri46awIUSzEWBURNZJXysTW0ysQqKTbR4nVN6ALJeDMLcHRhCcVjxKRaSIbWx_KKsf5aKygYxuP1URMU52ozAAGqabFB9GYgDd2IkYF04YTME8nTFd1-EHcYuEmCls3GQaH4gJusHGON2EcNv5KRzLDhNFq8h2LIaa7BGX5JOYZ7WMxm0lumqajYpP6qtu92agsGvcDzuzCzrWxx6WiS3k_MhyqDN1p8qPfF2r1xpK-7zZOstBRPgbingZRU-BiprTR1RLWtV-Fda2EEJZRg6zJLIt1sgAhwQ3ZXb0gg2wvQz9LcGCa6BSuszN6AIY4axuS7ZBhEmesC2H5vVL3q_kPaTMwyGE9kPLIJQrwcI1LIe3FWEMHlEVRA5OeFCFwm9azNg--vFeJekYLcou0p1dEeTI1bNEZQh4IHoRQMkGytzrW3W85bHsErd5R3BnWy9DyGNZ1oVbNhKCPcxuMnX4dgdwczjY2we-t3_qnK6EPTgxvvaVeDvtxx-IQmaLlb3SL0Omu25U-vFFYzwjj6F_3R4HdGCgK10NOT4OkSiwv9BpyP8JRN62D5kb3RMgotnkcxAx8bk72YeK6XsfKkAE8QkQGQWIjvQhWkiU-tA-iNCoBKJP-tBXQYQ-BJG55R2CKDNwDESLEyDa9KESiEa7fWgHRG996B1Ev9OH0G_1oRxTtBh2m9Jqzk42p676WpumNDGHyzqnEycendtxuuwq9zD9tDnNguQysBz_bOo5l7DeS9bO2VQwokvqSEvtW71-TT3mJvz7rSX-LL2QfYdW6Ai-FPhxpClW88Hz1736n6N7q5sukwcdqj36fAfns6St9uOH-TNIPDyeDMylYhtDslws1Zf5sDVpKyb1Kvar5zcb4Q28SHpInXReJ3fJJOi3WoY9mtmVlqk6A2KZVguPXCt4oSGng8dKu-n5_aRtRi9DtzGKQR4M19TUGQyaIW6KX9ggJpq4BpWBAQY_mag2NBEgEFWMIvGk4rkAWIcSJ9aU8mdNObdnVKSGENtpq_WaFLBk_aSpNYmHsVb7B2o0QNg"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Crown Heights Marching Band Takes Center Stage At Some Of ...",
+   "link": "https://connecticut.news12.com/crown-heights-marching-band-takes-center-stage-at-some-of-nycs-biggest-events",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpAEB6zswFUpYj966QXI29inIvM_A8d0qZ4Yvoxo_Uno3L4bDoZC8WGjRwX4Wxg90cmM2bejK9UULd1jWeTKOZxfh0OgKqo0iAWubOcEV-NnPpqxTpar4kTQhHF9h1Oky7BgW8dn1830fzy3ttRi_q1L4-X_wkOliShlFj_zDuMGYnUUNye2jNPOm0LjAct7FAmJlu1GG_tHvFmyIKyD6n4xAcKqS-g&ved=2ahUKEwjJns7r6OSWAxVn4MkDHbu4KZEQFnoECB4QAQ&uoh=1",
+   "displayed_link": "https://connecticut.news12.com \u203a crown-heights-marchi...",
+   "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBgCdASocABwAPtE-tFooIigoFAEAGglsALUXgaQfma8M95dlnZ25yFgWAuhixL3XMec1k8SgqKi8s5X1wAD-9hDYfZscoUyz7x1XoAyIp_GHnyeFOnHW6jkBr0pNavYjeUx5wX5Iemw_QAfSy4fZ43LBZzcKT5S9Kkianz7AbgfnlOiWtAeGQNmd5nTGXw4yVE_FeS8A0qEpF-9siDdqN0sY13aqQEVnRNxMFgqXEkleCANAsfRaDZxos-rEuwy6v9f-P-fr2M8ERmJbM9o4WSKXPJzjhx9_c_iFIxaxQzBwz8BEB7ER3dPY_XttRzpjktfNeVjOnSdgI8ZEyn8nqtLmWQr2b3-pMhObgpnrKFP3MKklZPuatcXc3YPYAAA.webp",
+   "snippet": "Crown Heights marching band takes center stage at some of NYC's biggest events. Brooklyn United was given the opportunity of a lifetime to perform at the ...",
+   "snippet_highlighted_words": [
+    "Heights marching band"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Crown Heights marching band takes center stage at some of NYC's biggest events. Brooklyn United was given the opportunity of a lifetime to perform at the ...",
+     "source_info_link": "https://connecticut.news12.com/crown-heights-marching-band-takes-center-stage-at-some-of-nycs-biggest-events",
+     "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBgCdASocABwAPtE-tFooIigoFAEAGglsALUXgaQfma8M95dlnZ25yFgWAuhixL3XMec1k8SgqKi8s5X1wAD-9hDYfZscoUyz7x1XoAyIp_GHnyeFOnHW6jkBr0pNavYjeUx5wX5Iemw_QAfSy4fZ43LBZzcKT5S9Kkianz7AbgfnlOiWtAeGQNmd5nTGXw4yVE_FeS8A0qEpF-9siDdqN0sY13aqQEVnRNxMFgqXEkleCANAsfRaDZxos-rEuwy6v9f-P-fr2M8ERmJbM9o4WSKXPJzjhx9_c_iFIxaxQzBwz8BEB7ER3dPY_XttRzpjktfNeVjOnSdgI8ZEyn8nqtLmWQr2b3-pMhObgpnrKFP3MKklZPuatcXc3YPYAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESpAEB6zswFUpYj966QXI29inIvM_A8d0qZ4Yvoxo_Uno3L4bDoZC8WGjRwX4Wxg90cmM2bejK9UULd1jWeTKOZxfh0OgKqo0iAWubOcEV-NnPpqxTpar4kTQhHF9h1Oky7BgW8dn1830fzy3ttRi_q1L4-X_wkOliShlFj_zDuMGYnUUNye2jNPOm0LjAct7FAmJlu1GG_tHvFmyIKyD6n4xAcKqS-g&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESpAEB6zswFUpYj966QXI29inIvM_A8d0qZ4Yvoxo_Uno3L4bDoZC8WGjRwX4Wxg90cmM2bejK9UULd1jWeTKOZxfh0OgKqo0iAWubOcEV-NnPpqxTpar4kTQhHF9h1Oky7BgW8dn1830fzy3ttRi_q1L4-X_wkOliShlFj_zDuMGYnUUNye2jNPOm0LjAct7FAmJlu1GG_tHvFmyIKyD6n4xAcKqS-g",
+   "source": "News12 | Connecticut"
+  },
+  {
+   "position": 2,
+   "title": "Hasbrouck Heights Marching Band",
+   "link": "https://www.flickr.com/groups/923492@N23/pool/page2/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHrOzAVw51quNGWQ0lkqdIE_55h93kEoHeaMf-SIX02Smktm8-KMWBcaWCa7_CcxXK29eYWaIDZY_tf3xgtOFVtNlRWxuYE5KSmju0Or2MDODr1ojPD6VlyNglsweqCBfpm2jvP8lUzrP87FQ&ved=2ahUKEwjJns7r6OSWAxVn4MkDHbu4KZEQFnoECDAQAQ&uoh=1",
+   "displayed_link": "https://www.flickr.com \u203a groups \u203a pool \u203a page2",
+   "favicon": "https://serpapi.com/images/i/UklGRtoAAABXRUJQVlA4IM4AAAAQBQCdASocABwAPtEutFooIagoGAEAGglsADUACnOF_rPyqKRb5cR5IwWhTSN5ib4AAP72ASfmB9MTiQUa5whhF10lohgH4cfrK_TSEndYmX_1d61fJxEWpqanJpQ_3-zBpYtnv8_5_pv4df336gmxPx_Y9LFNjLjuDkMie7N4E8GQ__9nqf2j_460on56gVgZxWOAHTbwu19YnbcDD2z3HiqGZ9sdTIlT4839Rpob0p3sv5_sfbCmDdxnTiFzItUY9b9Ln9X38TjBtPQAAA.webp",
+   "snippet": "Photos from Hasbrouck Heights Marching Band.",
+   "snippet_highlighted_words": [
+    "Heights Marching Band"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Photos from Hasbrouck Heights Marching Band.",
+     "source_info_link": "https://www.flickr.com/groups/923492@N23/pool/page2/",
+     "icon": "https://serpapi.com/images/i/UklGRtoAAABXRUJQVlA4IM4AAAAQBQCdASocABwAPtEutFooIagoGAEAGglsADUACnOF_rPyqKRb5cR5IwWhTSN5ib4AAP72ASfmB9MTiQUa5whhF10lohgH4cfrK_TSEndYmX_1d61fJxEWpqanJpQ_3-zBpYtnv8_5_pv4df336gmxPx_Y9LFNjLjuDkMie7N4E8GQ__9nqf2j_460on56gVgZxWOAHTbwu19YnbcDD2z3HiqGZ9sdTIlT4839Rpob0p3sv5_sfbCmDdxnTiFzItUY9b9Ln9X38TjBtPQAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESbAHrOzAVw51quNGWQ0lkqdIE_55h93kEoHeaMf-SIX02Smktm8-KMWBcaWCa7_CcxXK29eYWaIDZY_tf3xgtOFVtNlRWxuYE5KSmju0Or2MDODr1ojPD6VlyNglsweqCBfpm2jvP8lUzrP87FQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESbAHrOzAVw51quNGWQ0lkqdIE_55h93kEoHeaMf-SIX02Smktm8-KMWBcaWCa7_CcxXK29eYWaIDZY_tf3xgtOFVtNlRWxuYE5KSmju0Or2MDODr1ojPD6VlyNglsweqCBfpm2jvP8lUzrP87FQ",
+   "source": "Flickr"
+  },
+  {
+   "position": 3,
+   "title": "Colonial Heights Band & Guard",
+   "link": "https://sites.google.com/chbandsandguard.org/colonial-heights-band/home",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sites.google.com/chbandsandguard.org/colonial-heights-band/home&ved=2ahUKEwjJns7r6OSWAxVn4MkDHbu4KZEQFnoECCwQAQ",
+   "displayed_link": "https://sites.google.com \u203a chbandsandguard.org \u203a colon...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAJ1BMVEVHcExHWLZHWLZHWLZHWLU4TLH___8xR7DKzeb29_s-UbOjqtbs7faJiFd3AAAABHRSTlMATdbaerUhWgAAAGdJREFUKJHVkjsWwCAIBBeViJj7nzehMA1iPl2mnULGtwDlMiURQHNlEFIsM2JXyr3k6uAhWZpD-JKb45nULo6u4yBlh75PsbfClPOSukcpJluU8gO56Fz-0McNBZM20nrUoGDWmXAAVuAP7H7fmaAAAAAASUVORK5CYII.png",
+   "snippet": "The Colonial Heights Marching Band and Guard are among the finest in the Commonwealth of Virginia. The ensembles at Colonial Heights High School have ...",
+   "snippet_highlighted_words": [
+    "Heights Marching Band"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The Colonial Heights Marching Band and Guard are among the finest in the Commonwealth of Virginia. The ensembles at Colonial Heights High School have ...",
+     "source_info_link": "https://sites.google.com/chbandsandguard.org/colonial-heights-band/home",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAJ1BMVEVHcExHWLZHWLZHWLZHWLU4TLH___8xR7DKzeb29_s-UbOjqtbs7faJiFd3AAAABHRSTlMATdbaerUhWgAAAGdJREFUKJHVkjsWwCAIBBeViJj7nzehMA1iPl2mnULGtwDlMiURQHNlEFIsM2JXyr3k6uAhWZpD-JKb45nULo6u4yBlh75PsbfClPOSukcpJluU8gO56Fz-0McNBZM20nrUoGDWmXAAVuAP7H7fmaAAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://sites.google.com/chbandsandguard.org/colonial-heights-band/home&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fsites.google.com%2Fchbandsandguard.org%2Fcolonial-heights-band%2Fhome",
+   "source": "Google",
+   "read_more_link": "https://sites.google.com/chbandsandguard.org/colonial-heights-band/home#:~:text=The%20Colonial%20Heights%20Marching%20Band,at%20Marching%20and%20Concert%20Assessments."
+  },
+  {
+   "position": 4,
+   "title": "It's coming ... the Hasbrouck Heights Marching Band will ...",
+   "link": "https://www.instagram.com/reel/DOgR8ZJAPW4/",
+   "displayed_link": "70+ likes \u00b7 12 months ago",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiIcgcQCmvGMg5PGJn3z3iFZo_9yMI6gv2iLgwEG6mWS8yKTVbZclN2g&s",
+   "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+   "snippet": "It's coming ... the Hasbrouck Heights Marching Band will perform at tonight's home game when the Aviators host New Milford at Depken Field. Look ...",
+   "duration": "0:24",
+   "about_this_result": {
+    "source": {
+     "description": "It's coming ... the Hasbrouck Heights Marching Band will perform at tonight's home game when the Aviators host New Milford at Depken Field. Look ...",
+     "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYwHrOzAVE5uISKv6LXoSdMgrrtgUQMerMfnmUXDmKk70eRR4eodkeP_7-Lf2O9XQoonJnynv0YEX0b_bECQ_u-lysUUnASCzFyY6j8iuo3BKmTMIb8Gdd2G6lAX4HgszwUgLGQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYwHrOzAVE5uISKv6LXoSdMgrrtgUQMerMfnmUXDmKk70eRR4eodkeP_7-Lf2O9XQoonJnynv0YEX0b_bECQ_u-lysUUnASCzFyY6j8iuo3BKmTMIb8Gdd2G6lAX4HgszwUgLGQ",
+   "source": "Instagram \u00b7 taphasbrouckheightswrteterboro"
+  },
+  {
+   "position": 5,
+   "title": "After Weathering Noise Complaints, Downpours, Crown ...",
+   "link": "https://www.bkreader.com/arts-entertainment/brooklyn-united-marching-band-crown-heights-new-home-church-no-noise-complaints-6547850",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESvAEB6zswFRXWtcycDzMbP6SoVewZBV0K_fsyZYUqETRAYV3thz1cGHgICJjlvNtinRS2yJIDIBDiVksnvjPDZWjDA_HixkuHlJv7-s_0aL9YEeFvR-u9TFKye5ufefZoEBfd_j0Hiu2GicPjSaGuZ84C_-A6doAO7sHd_FRihcIugnWaBud_wSXJ2aEKKMUyUMWo6UikfDn0jgvgo-QCStWdEtFrCwmJuBWsakfSEfItk-H51Nf5ml9L8QnLtQ&ved=2ahUKEwjJns7r6OSWAxVn4MkDHbu4KZEQFnoECC0QAQ&uoh=1",
+   "displayed_link": "https://www.bkreader.com \u203a arts-entertainment \u203a brookl...",
+   "favicon": "https://serpapi.com/images/i/UklGRpQBAABXRUJQVlA4IIgBAACQBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0v1dYDbAERG8wNIF7y6CHPhOrHFuhVNJ2UecYXXyUy527NWdc4QjwyHIAA_vP6MLLGKMrdfTzDHt_EL2r9G0UH-RE93vjh49QYVnviyCymkgO8eg3g1SeRWC_gmeOr_RU-RPAe8zwFAQ3-toSVczjJlqVTmSwQgH4oi5Jl_Guv_MeYwkEweqlNyUE8OC7vgGhv8H0dejhuZz7FauMZUSK_KGj3q2gg8PI_6Sd7VmXQvAVJEfHmGn6GKxtWlYiEWqNSIiVZMYttukwXus-jBFvLkxUBJEMEFrIFl2pwth35XswlH4HSViyD_Acznn48CAazYjao4nkKzL0BAn-x9pk2poNRcDuURDUy2PshF_yzOGlywda7_TbFBPdWCO3FfxBQvyYy6KuDLX5BM-Nj6Xfg4d-9kKVtB85bxZVX2BZrX9aKs06q19NpuYvs70CH2ujGPXurzQNLZ_tOF7aNveWJ9ndRQuxqk7t8-QAAAA.webp",
+   "date": "Oct 25, 2021",
+   "snippet": "After Weathering Noise Complaints, Downpours, Crown Heights Marching Band Finally Gets a Place to Call Home. BU Marching Band finally has a ...",
+   "snippet_highlighted_words": [
+    "Heights Marching Band"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "After Weathering Noise Complaints, Downpours, Crown Heights Marching Band Finally Gets a Place to Call Home. BU Marching Band finally has a ...",
+     "source_info_link": "https://www.bkreader.com/arts-entertainment/brooklyn-united-marching-band-crown-heights-new-home-church-no-noise-complaints-6547850",
+     "icon": "https://serpapi.com/images/i/UklGRpQBAABXRUJQVlA4IIgBAACQBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0v1dYDbAERG8wNIF7y6CHPhOrHFuhVNJ2UecYXXyUy527NWdc4QjwyHIAA_vP6MLLGKMrdfTzDHt_EL2r9G0UH-RE93vjh49QYVnviyCymkgO8eg3g1SeRWC_gmeOr_RU-RPAe8zwFAQ3-toSVczjJlqVTmSwQgH4oi5Jl_Guv_MeYwkEweqlNyUE8OC7vgGhv8H0dejhuZz7FauMZUSK_KGj3q2gg8PI_6Sd7VmXQvAVJEfHmGn6GKxtWlYiEWqNSIiVZMYttukwXus-jBFvLkxUBJEMEFrIFl2pwth35XswlH4HSViyD_Acznn48CAazYjao4nkKzL0BAn-x9pk2poNRcDuURDUy2PshF_yzOGlywda7_TbFBPdWCO3FfxBQvyYy6KuDLX5BM-Nj6Xfg4d-9kKVtB85bxZVX2BZrX9aKs06q19NpuYvs70CH2ujGPXurzQNLZ_tOF7aNveWJ9ndRQuxqk7t8-QAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESvAEB6zswFRXWtcycDzMbP6SoVewZBV0K_fsyZYUqETRAYV3thz1cGHgICJjlvNtinRS2yJIDIBDiVksnvjPDZWjDA_HixkuHlJv7-s_0aL9YEeFvR-u9TFKye5ufefZoEBfd_j0Hiu2GicPjSaGuZ84C_-A6doAO7sHd_FRihcIugnWaBud_wSXJ2aEKKMUyUMWo6UikfDn0jgvgo-QCStWdEtFrCwmJuBWsakfSEfItk-H51Nf5ml9L8QnLtQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESvAEB6zswFRXWtcycDzMbP6SoVewZBV0K_fsyZYUqETRAYV3thz1cGHgICJjlvNtinRS2yJIDIBDiVksnvjPDZWjDA_HixkuHlJv7-s_0aL9YEeFvR-u9TFKye5ufefZoEBfd_j0Hiu2GicPjSaGuZ84C_-A6doAO7sHd_FRihcIugnWaBud_wSXJ2aEKKMUyUMWo6UikfDn0jgvgo-QCStWdEtFrCwmJuBWsakfSEfItk-H51Nf5ml9L8QnLtQ",
+   "source": "BKReader",
+   "read_more_link": "https://www.bkreader.com/arts-entertainment/brooklyn-united-marching-band-crown-heights-new-home-church-no-noise-complaints-6547850#:~:text=After%20Weathering%20Noise%20Complaints%2C%20Downpours%2C,Gala%20and%20other%20top%20events"
+  },
+  {
+   "position": 6,
+   "title": "Dixie Heights Marching Band",
+   "link": "https://eyeswithpride.net/ensembles/marching-band/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESagHrOzAV3eB1JKDjY_egEJo2TMxG5tJtTSnpnlbr8KHUhkNz-hioGQEwGmCULpqVSSc5_rcwzikxYeKqKXomsmB-i1vafPfNQ7Khxeg2-NWI4DF0lNgQLaXIoBpjG8I_2UM5Bmu5Zb0b4KU&ved=2ahUKEwjJns7r6OSWAxVn4MkDHbu4KZEQFnoECC8QAQ&uoh=1",
+   "displayed_link": "https://eyeswithpride.net \u203a Ensembles",
+   "favicon": "https://serpapi.com/images/i/UklGRuAAAABXRUJQVlA4INQAAADQBACdASocABwAPtE-tFooIigoFAEAGgliAAPjSQr9u8PUPdcv-L1eCvqCOeJ0AAD-9gF27hYXWHfh-nuVmyNlgySTnbACX5KJzx556qOpdd-EHjul9e8tvSMi_6_GDZCKHUv5YF1OjWe1ZKhO99nH_VUAIptIvKUWsiH9hON6Y7CNEGCbm1wK4ca7217_7erIQMhlPdtDN2vJc76BF-TeH7z2_5vvbT4PG-x6LoDSR_ubeFO-wPbVV-LFwR3KnxBvWu8Ifc_qs61Fh4oM4lxRhGIAAA.webp",
+   "snippet": "The Dixie Heights Marching Band enjoys a rich history of competitive success that spans over 35 years. Most recently, the Marching Colonels returned to ...",
+   "snippet_highlighted_words": [
+    "Heights Marching Band"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The Dixie Heights Marching Band enjoys a rich history of competitive success that spans over 35 years. Most recently, the Marching Colonels returned to ...",
+     "source_info_link": "https://eyeswithpride.net/ensembles/marching-band/",
+     "icon": "https://serpapi.com/images/i/UklGRuAAAABXRUJQVlA4INQAAADQBACdASocABwAPtE-tFooIigoFAEAGgliAAPjSQr9u8PUPdcv-L1eCvqCOeJ0AAD-9gF27hYXWHfh-nuVmyNlgySTnbACX5KJzx556qOpdd-EHjul9e8tvSMi_6_GDZCKHUv5YF1OjWe1ZKhO99nH_VUAIptIvKUWsiH9hON6Y7CNEGCbm1wK4ca7217_7erIQMhlPdtDN2vJc76BF-TeH7z2_5vvbT4PG-x6LoDSR_ubeFO-wPbVV-LFwR3KnxBvWu8Ifc_qs61Fh4oM4lxRhGIAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESagHrOzAV3eB1JKDjY_egEJo2TMxG5tJtTSnpnlbr8KHUhkNz-hioGQEwGmCULpqVSSc5_rcwzikxYeKqKXomsmB-i1vafPfNQ7Khxeg2-NWI4DF0lNgQLaXIoBpjG8I_2UM5Bmu5Zb0b4KU&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESagHrOzAV3eB1JKDjY_egEJo2TMxG5tJtTSnpnlbr8KHUhkNz-hioGQEwGmCULpqVSSc5_rcwzikxYeKqKXomsmB-i1vafPfNQ7Khxeg2-NWI4DF0lNgQLaXIoBpjG8I_2UM5Bmu5Zb0b4KU",
+   "source": "Dixie Heights Marching Band",
+   "read_more_link": "https://eyeswithpride.net/ensembles/marching-band/#:~:text=The%20Dixie%20Heights%20Marching%20Band,World%20spectators%20in%20October%202023."
+  },
+  {
+   "position": 7,
+   "title": "'Don't be a Karen:' Crown Heights marching band getting ...",
+   "link": "https://www.reddit.com/r/Brooklyn/comments/om7rar/dont_be_a_karen_crown_heights_marching_band/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlgEB6zswFbDvd2bAoayF4dq-iL9acsH34-HgnFhATA2O57iEZDl1q0G6xMW1_o_eZwzIhwQRWgri7xFKSkb_aY0Ej5CCFZF5vFctwJ3SBnlcfI0MBybcjAF2VEhGUafEvtffdoTRHDujZJS9XkZ8JW8NbyO916nAaW4bGGHU17GDv2LXvb90fcUpf1wpsmIQ5r8dA1xwtqw&ved=2ahUKEwjJns7r6OSWAxVn4MkDHbu4KZEQFnoECDoQAQ&uoh=1",
+   "displayed_link": "100+ comments \u00b7 5 years ago",
+   "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+   "snippet": "'Don't be a Karen:' Crown Heights marching band getting new complaints ... Archived post. New comments cannot be posted and votes cannot be cast.",
+   "snippet_highlighted_words": [
+    "Heights marching band"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "'Don't be a Karen:' Crown Heights marching band getting new complaints ... Archived post. New comments cannot be posted and votes cannot be cast.",
+     "source_info_link": "https://www.reddit.com/r/Brooklyn/comments/om7rar/dont_be_a_karen_crown_heights_marching_band/",
+     "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESlgEB6zswFbDvd2bAoayF4dq-iL9acsH34-HgnFhATA2O57iEZDl1q0G6xMW1_o_eZwzIhwQRWgri7xFKSkb_aY0Ej5CCFZF5vFctwJ3SBnlcfI0MBybcjAF2VEhGUafEvtffdoTRHDujZJS9XkZ8JW8NbyO916nAaW4bGGHU17GDv2LXvb90fcUpf1wpsmIQ5r8dA1xwtqw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESlgEB6zswFbDvd2bAoayF4dq-iL9acsH34-HgnFhATA2O57iEZDl1q0G6xMW1_o_eZwzIhwQRWgri7xFKSkb_aY0Ej5CCFZF5vFctwJ3SBnlcfI0MBybcjAF2VEhGUafEvtffdoTRHDujZJS9XkZ8JW8NbyO916nAaW4bGGHU17GDv2LXvb90fcUpf1wpsmIQ5r8dA1xwtqw",
+   "source": "Reddit \u00b7 r/Brooklyn",
+   "read_more_link": "https://www.reddit.com/r/Brooklyn/comments/om7rar/dont_be_a_karen_crown_heights_marching_band/#:~:text='Don't%20be%20a%20Karen%3A'%20Crown,marching%20band%20getting%20new%20complaints&text=Archived%20post.%20New%20comments%20cannot,and%20votes%20cannot%20be%20cast."
+  },
+  {
+   "position": 8,
+   "title": "Cambria Heights marching band fundraiser winners ...",
+   "link": "https://www.facebook.com/CambriaHeightsSD/posts/the-marching-band-would-like-to-thank-everyone-who-participated-in-our-free-gas-/1037071911766416/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESywEB6zswFQnnUoPF4EBOBhhDbBBh7c0VSOmql05NgN46XJ7BcOGlWmHquB5qbLmYdQ9LShvlR2jAPSUa1Nsw9pf-Y0dMtqinCFSYF3TJrdzmGTacaU7Qy42ROtwwBMudy-c_-dsEAD9heo52XshgBfMdxlxrmJImMqMlgINOiMqxHegYUIVdclZX2_tROB3862bYXte-E6U13mg8jptcUcpJ_jB_5CwbNcpjqekHhKBfb0FFZrWbdsjq4g9H-J_EwGRaB-mfPlvIZmsDTg&ved=2ahUKEwjJns7r6OSWAxVn4MkDHbu4KZEQFnoECDEQAQ&uoh=1",
+   "displayed_link": "40+ reactions \u00b7 1 year ago",
+   "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "snippet": "Cambria Heights SD | Cambria Heights marching band fundraiser winners announced. \udb84\udf96. Cambria Heights marching band fundraiser winners announced.",
+   "snippet_highlighted_words": [
+    "Heights marching band",
+    "Heights marching band"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Cambria Heights SD | Cambria Heights marching band fundraiser winners announced. \udb84\udf96. Cambria Heights marching band fundraiser winners announced.",
+     "source_info_link": "https://www.facebook.com/CambriaHeightsSD/posts/the-marching-band-would-like-to-thank-everyone-who-participated-in-our-free-gas-/1037071911766416/",
+     "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESywEB6zswFQnnUoPF4EBOBhhDbBBh7c0VSOmql05NgN46XJ7BcOGlWmHquB5qbLmYdQ9LShvlR2jAPSUa1Nsw9pf-Y0dMtqinCFSYF3TJrdzmGTacaU7Qy42ROtwwBMudy-c_-dsEAD9heo52XshgBfMdxlxrmJImMqMlgINOiMqxHegYUIVdclZX2_tROB3862bYXte-E6U13mg8jptcUcpJ_jB_5CwbNcpjqekHhKBfb0FFZrWbdsjq4g9H-J_EwGRaB-mfPlvIZmsDTg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESywEB6zswFQnnUoPF4EBOBhhDbBBh7c0VSOmql05NgN46XJ7BcOGlWmHquB5qbLmYdQ9LShvlR2jAPSUa1Nsw9pf-Y0dMtqinCFSYF3TJrdzmGTacaU7Qy42ROtwwBMudy-c_-dsEAD9heo52XshgBfMdxlxrmJImMqMlgINOiMqxHegYUIVdclZX2_tROB3862bYXte-E6U13mg8jptcUcpJ_jB_5CwbNcpjqekHhKBfb0FFZrWbdsjq4g9H-J_EwGRaB-mfPlvIZmsDTg",
+   "source": "Facebook \u00b7 Cambria Heights SD",
+   "read_more_link": "https://www.facebook.com/CambriaHeightsSD/posts/the-marching-band-would-like-to-thank-everyone-who-participated-in-our-free-gas-/1037071911766416/#:~:text=Cambria%20Heights%20SD%20%7C%20Cambria,marching%20band%20fundraiser%20winners%20announced"
+  },
+  {
+   "position": 9,
+   "title": "Cambria Heights marching band keeps halftime 'upbeat and ...",
+   "link": "https://www.yahoo.com/lifestyle/strike-band-cambria-heights-marching-114600355.html",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiwEB6zswFZKfzhjhl15acXgG0YZ5EnOTP-QErQKusG8Egn5i-a9rkHhFg1JEZJslKnhN7gii6OAmOePjpI-CnVmnqAcHFzRhzQcduy-mmIF1ZYVov5l5QZYotbWkouWMDv2_HqnIqfajaYU7EYTsj38twUGiuSyp_QDQrR4FV_k5C16MTcKZ6_97iJl6&ved=2ahUKEwjJns7r6OSWAxVn4MkDHbu4KZEQFnoECDsQAQ&uoh=1",
+   "displayed_link": "https://www.yahoo.com \u203a lifestyle \u203a strike-band-cambri...",
+   "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0y1Tw_rqeMyPAHiJa72CusnhawJMmBUuzLIMAAAP5EilGHfSrv1c3raO7TMHCGEE0tanMuC4V63zPenGYvtPz_5miYFkvaNxoWFtqMmi-ZsnEGEWLyTen-1PcFiwqmOBEDdA2Bm4NzFKD-TDXjhuG3e7uKnQ0zqZhi8wQIDft34vQCWtH1diJyyQZvVUQhczt9vEuHYtoxJ3Gi7pHK8HONj47luWPosGLQpyPC5T2PfP3NbGwe_c16iS8OYJQdl3kAK7Xu9_Hgx1RwHhh6AAA.webp",
+   "snippet": "Strike Up the Band | Cambria Heights marching band keeps halftime 'upbeat and lively' with Latin tunes. Joshua Byers, The Tribune-Democrat, Johnstown, Pa ...",
+   "snippet_highlighted_words": [
+    "Heights marching band"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Strike Up the Band | Cambria Heights marching band keeps halftime 'upbeat and lively' with Latin tunes. Joshua Byers, The Tribune-Democrat, Johnstown, Pa ...",
+     "source_info_link": "https://www.yahoo.com/lifestyle/strike-band-cambria-heights-marching-114600355.html",
+     "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0y1Tw_rqeMyPAHiJa72CusnhawJMmBUuzLIMAAAP5EilGHfSrv1c3raO7TMHCGEE0tanMuC4V63zPenGYvtPz_5miYFkvaNxoWFtqMmi-ZsnEGEWLyTen-1PcFiwqmOBEDdA2Bm4NzFKD-TDXjhuG3e7uKnQ0zqZhi8wQIDft34vQCWtH1diJyyQZvVUQhczt9vEuHYtoxJ3Gi7pHK8HONj47luWPosGLQpyPC5T2PfP3NbGwe_c16iS8OYJQdl3kAK7Xu9_Hgx1RwHhh6AAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESiwEB6zswFZKfzhjhl15acXgG0YZ5EnOTP-QErQKusG8Egn5i-a9rkHhFg1JEZJslKnhN7gii6OAmOePjpI-CnVmnqAcHFzRhzQcduy-mmIF1ZYVov5l5QZYotbWkouWMDv2_HqnIqfajaYU7EYTsj38twUGiuSyp_QDQrR4FV_k5C16MTcKZ6_97iJl6&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESiwEB6zswFZKfzhjhl15acXgG0YZ5EnOTP-QErQKusG8Egn5i-a9rkHhFg1JEZJslKnhN7gii6OAmOePjpI-CnVmnqAcHFzRhzQcduy-mmIF1ZYVov5l5QZYotbWkouWMDv2_HqnIqfajaYU7EYTsj38twUGiuSyp_QDQrR4FV_k5C16MTcKZ6_97iJl6",
+   "source": "Yahoo"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Heights marching band schedule",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Heights+marching+band+schedule&sa=X&ved=2ahUKEwjJns7r6OSWAxVn4MkDHbu4KZEQ1QJ6BAgrEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Heights+marching+band+schedule"
+  },
+  {
+   "block_position": 1,
+   "query": "Heights marching band members",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Heights+marching+band+members&sa=X&ved=2ahUKEwjJns7r6OSWAxVn4MkDHbu4KZEQ1QJ6BAguEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Heights+marching+band+members"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Heights+Marching+Band%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=mA6jasnyEufAp84Pu_GmiQk&start=10&sa=N&sstk=AS6-VmIVUEycs7AD-pveN0VFmZX3lVYD2mzEWdCBcllzF8W2i8GoEMgzEbLzrSTj2yjIJymh31FxPNWrvgdmj1ice7-lCfvc00h0Ig&ved=2ahUKEwjJns7r6OSWAxVn4MkDHbu4KZEQ8NMDegQINBAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Heights+Marching+Band%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=mA6jasnyEufAp84Pu_GmiQk&start=10&sa=N&sstk=AS6-VmIVUEycs7AD-pveN0VFmZX3lVYD2mzEWdCBcllzF8W2i8GoEMgzEbLzrSTj2yjIJymh31FxPNWrvgdmj1ice7-lCfvc00h0Ig&ved=2ahUKEwjJns7r6OSWAxVn4MkDHbu4KZEQ8tMDegQINBAE",
+   "3": "https://www.google.com/search?q=%22Heights+Marching+Band%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=mA6jasnyEufAp84Pu_GmiQk&start=20&sa=N&sstk=AS6-VmIVUEycs7AD-pveN0VFmZX3lVYD2mzEWdCBcllzF8W2i8GoEMgzEbLzrSTj2yjIJymh31FxPNWrvgdmj1ice7-lCfvc00h0Ig&ved=2ahUKEwjJns7r6OSWAxVn4MkDHbu4KZEQ8tMDegQINBAG",
+   "4": "https://www.google.com/search?q=%22Heights+Marching+Band%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=mA6jasnyEufAp84Pu_GmiQk&start=30&sa=N&sstk=AS6-VmIVUEycs7AD-pveN0VFmZX3lVYD2mzEWdCBcllzF8W2i8GoEMgzEbLzrSTj2yjIJymh31FxPNWrvgdmj1ice7-lCfvc00h0Ig&ved=2ahUKEwjJns7r6OSWAxVn4MkDHbu4KZEQ8tMDegQINBAI",
+   "5": "https://www.google.com/search?q=%22Heights+Marching+Band%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=mA6jasnyEufAp84Pu_GmiQk&start=40&sa=N&sstk=AS6-VmIVUEycs7AD-pveN0VFmZX3lVYD2mzEWdCBcllzF8W2i8GoEMgzEbLzrSTj2yjIJymh31FxPNWrvgdmj1ice7-lCfvc00h0Ig&ved=2ahUKEwjJns7r6OSWAxVn4MkDHbu4KZEQ8tMDegQINBAK",
+   "6": "https://www.google.com/search?q=%22Heights+Marching+Band%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=mA6jasnyEufAp84Pu_GmiQk&start=50&sa=N&sstk=AS6-VmIVUEycs7AD-pveN0VFmZX3lVYD2mzEWdCBcllzF8W2i8GoEMgzEbLzrSTj2yjIJymh31FxPNWrvgdmj1ice7-lCfvc00h0Ig&ved=2ahUKEwjJns7r6OSWAxVn4MkDHbu4KZEQ8tMDegQINBAM",
+   "7": "https://www.google.com/search?q=%22Heights+Marching+Band%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=mA6jasnyEufAp84Pu_GmiQk&start=60&sa=N&sstk=AS6-VmIVUEycs7AD-pveN0VFmZX3lVYD2mzEWdCBcllzF8W2i8GoEMgzEbLzrSTj2yjIJymh31FxPNWrvgdmj1ice7-lCfvc00h0Ig&ved=2ahUKEwjJns7r6OSWAxVn4MkDHbu4KZEQ8tMDegQINBAO",
+   "8": "https://www.google.com/search?q=%22Heights+Marching+Band%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=mA6jasnyEufAp84Pu_GmiQk&start=70&sa=N&sstk=AS6-VmIVUEycs7AD-pveN0VFmZX3lVYD2mzEWdCBcllzF8W2i8GoEMgzEbLzrSTj2yjIJymh31FxPNWrvgdmj1ice7-lCfvc00h0Ig&ved=2ahUKEwjJns7r6OSWAxVn4MkDHbu4KZEQ8tMDegQINBAQ",
+   "9": "https://www.google.com/search?q=%22Heights+Marching+Band%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=mA6jasnyEufAp84Pu_GmiQk&start=80&sa=N&sstk=AS6-VmIVUEycs7AD-pveN0VFmZX3lVYD2mzEWdCBcllzF8W2i8GoEMgzEbLzrSTj2yjIJymh31FxPNWrvgdmj1ice7-lCfvc00h0Ig&ved=2ahUKEwjJns7r6OSWAxVn4MkDHbu4KZEQ8tMDegQINBAS",
+   "10": "https://www.google.com/search?q=%22Heights+Marching+Band%22&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=mA6jasnyEufAp84Pu_GmiQk&start=90&sa=N&sstk=AS6-VmIVUEycs7AD-pveN0VFmZX3lVYD2mzEWdCBcllzF8W2i8GoEMgzEbLzrSTj2yjIJymh31FxPNWrvgdmj1ice7-lCfvc00h0Ig&ved=2ahUKEwjJns7r6OSWAxVn4MkDHbu4KZEQ8tMDegQINBAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Heights+Marching+Band%22&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Heights+Marching+Band%22&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Heights+Marching+Band%22&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Heights+Marching+Band%22&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Heights+Marching+Band%22&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Heights+Marching+Band%22&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Heights+Marching+Band%22&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Heights+Marching+Band%22&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Heights+Marching+Band%22&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Heights+Marching+Band%22&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Heights+Marching+Band%22&start=90"
+  }
+ }
+}

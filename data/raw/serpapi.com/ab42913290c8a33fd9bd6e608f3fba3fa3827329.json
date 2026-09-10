@@ -1,0 +1,559 @@
+{
+ "search_information": {
+  "query_displayed": "\"Los Angeles Catholic School\"",
+  "total_results": 10200,
+  "time_taken_displayed": 0.3,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "related_questions": [
+  {
+   "question": "What is the best Catholic high school in Los Angeles?",
+   "type": "ai_overview",
+   "page_token": "ysTGQXicHdBdbtowAABg9TJ9LDiBrkVC01xiUCEG_we_TI6TELDz0xII5K1X6Bl2qp1m0r4jfF9__LF2fx--y65rz7PRqO_7p0PTHHz-ZJtqZM732o6s8T411s2efzyDn4WdR1cL3z4tJKJt5YKOmc_MVrxu4sCFMmgAU5MpY-BoPLxg1-5YLQct3q_pCrEsyQbjWx_XVFgGTqSiUkbAKNVGLKQX7fDaciilm47TsGUsuhVykWmJ5FkredGy5CzAci_AB_H0bcvfC-7AnQR0ohZwlzq84TXe5ksRbKNWp55eeRBPJcJQL7uBK782CK35HeyEeEWZAqVRL10exePUow3h0ORLcFFeN9ahmo19xRFMuJM4515GZbYXDHzsE7mK3SRMBnLTvCTxyYZ2hSGnzZEIOtiTr0QiepM4IBGM4hr1WFGgkl835stO1T4yFZkK8ljY6zx8_H89_11U3az9bA7_ACPhjOw",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ysTGQXicHdBdbtowAABg9TJ9LDiBrkVC01xiUCEG_we_TI6TELDz0xII5K1X6Bl2qp1m0r4jfF9__LF2fx--y65rz7PRqO_7p0PTHHz-ZJtqZM732o6s8T411s2efzyDn4WdR1cL3z4tJKJt5YKOmc_MVrxu4sCFMmgAU5MpY-BoPLxg1-5YLQct3q_pCrEsyQbjWx_XVFgGTqSiUkbAKNVGLKQX7fDaciilm47TsGUsuhVykWmJ5FkredGy5CzAci_AB_H0bcvfC-7AnQR0ohZwlzq84TXe5ksRbKNWp55eeRBPJcJQL7uBK782CK35HeyEeEWZAqVRL10exePUow3h0ORLcFFeN9ahmo19xRFMuJM4515GZbYXDHzsE7mK3SRMBnLTvCTxyYZ2hSGnzZEIOtiTr0QiepM4IBGM4hr1WFGgkl835stO1T4yFZkK8ljY6zx8_H89_11U3az9bA7_ACPhjOw",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk5FWkNWVFIyWlhJM2IxVllVV3hZWm5WVldXc3lNamhEY1ZNelZXYzBlWGxwVVdWQmRIY3RVa04xWjB4elNrdGhkMlprYkZScFoxSnBkbUZYT1ZaMlprdENUVFZXTUhac1lWRjFPREIxUjFvekxVeDNWMXB4V0RCd1FSSVhXRkV0YW1GMVJ6Sk9OMTgwTVdVNFVESTNOM0J6UVUwYUlrRkVjM0k1WmxKWlIzTkphbVppVkc5MWVHMXNhR2gxUVhCelpEbGlaMUo1Wm5jIiwiZmN2IjoiMyIsImVpIjoiWFEtamF1RzJON180MWU4UDI3N3BzQU0iLCJxYyI6IkNodHNiM01nWVc1blpXeGxjeUJqWVhSb2IyeHBZeUJ6WTJodmIyd1FBSDBySkEwXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCBDYXRob2xpYyBoaWdoIHNjaG9vbCBpbiBMb3MgQW5nZWxlcz8iLCJsayI6ImN3WEJ3UWtBTVFnRXdEN3kyaUxTa0NlU0ZTUS1Wa2o3TjdQMm93MVNHQWEtME1CdDJKVU81aUhrN0M3a1JiVmc5MFNGZmciLCJicyI6ImM1V1BNUXZDTUJCR2NjM2tuT2ttY1ZPTE9saWhTRmQzNTNpRVhpRHRTWk5heEQ5dnNLS3h0WVBiRGVfZDR4TXNOaWRTSG93RFR4ck8ybm5JbFNlMkJvRk1RZUNRbUMyWUNvN3M0RkFWMm1xWEpWdTVidnNpam9nMmlLb1R4VjJrY2JEazRGM3FZSnZDY09QQ2JhN0s2N0hzWHU3YV9fUTRybDVyVlIwSUx2Vm5hc2U3WGc5eWJpcF95NUs1bk9FUE5Qb04tRVNGRnN1dmZTcGc3d3BTVXlNTlJxM2tvdTA3T0hTaTJuVHlBQSIsImlkIjoiZmNfWFEtamF1RzJON180MWU4UDI3N3BzQU1fNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk5FWkNWVFIyWlhJM2IxVllVV3hZWm5WVldXc3lNamhEY1ZNelZXYzBlWGxwVVdWQmRIY3RVa04xWjB4elNrdGhkMlprYkZScFoxSnBkbUZYT1ZaMlprdENUVFZXTUhac1lWRjFPREIxUjFvekxVeDNWMXB4V0RCd1FSSVhXRkV0YW1GMVJ6Sk9OMTgwTVdVNFVESTNOM0J6UVUwYUlrRkVjM0k1WmxKWlIzTkphbVppVkc5MWVHMXNhR2gxUVhCelpEbGlaMUo1Wm5jIiwiZmN2IjoiMyIsImVpIjoiWFEtamF1RzJON180MWU4UDI3N3BzQU0iLCJxYyI6IkNodHNiM01nWVc1blpXeGxjeUJqWVhSb2IyeHBZeUJ6WTJodmIyd1FBSDBySkEwXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCBDYXRob2xpYyBoaWdoIHNjaG9vbCBpbiBMb3MgQW5nZWxlcz8iLCJsayI6ImN3WEJ3UWtBTVFnRXdEN3kyaUxTa0NlU0ZTUS1Wa2o3TjdQMm93MVNHQWEtME1CdDJKVU81aUhrN0M3a1JiVmc5MFNGZmciLCJicyI6ImM1V1BNUXZDTUJCR2NjM2tuT2ttY1ZPTE9saWhTRmQzNTNpRVhpRHRTWk5heEQ5dnNLS3h0WVBiRGVfZDR4TXNOaWRTSG93RFR4ck8ybm5JbFNlMkJvRk1RZUNRbUMyWUNvN3M0RkFWMm1xWEpWdTVidnNpam9nMmlLb1R4VjJrY2JEazRGM3FZSnZDY09QQ2JhN0s2N0hzWHU3YV9fUTRybDVyVlIwSUx2Vm5hc2U3WGc5eWJpcF95NUs1bk9FUE5Qb04tRVNGRnN1dmZTcGc3d3BTVXlNTlJxM2tvdTA3T0hTaTJuVHlBQSIsImlkIjoiZmNfWFEtamF1RzJON180MWU4UDI3N3BzQU1fNSJ9"
+  },
+  {
+   "question": "What is the most prestigious private school in Los Angeles?",
+   "type": "ai_overview",
+   "page_token": "1Pc9V3icHdBRbpswAABQ7TL9bEJMsjVSVJVCzLICsrEN-GeyDcEFAy6hJeFvV9gZeqqdZtNO8KT369O89u2fL7_1NNnLfrWa5_m-HobaVPdq6FbicuvVSgljpFDtfvd15zye1SH4UN7zqDxErWU-XqdrnVBQb9HmdCtz80zZsM16NmPAM0yetmXoAdW0U9VHgITGS6EpRB_PabblPG-vGGokjYWKIEDJ0YpAF2IxmYTsLAPbs8XsZBf_oIE7MRNzAR23oPOE2cN37j8B4RdX1VqDAxZHGXblUoAYRo4MS1h13xwJow1d9JiFaI7Xp0vi85H7J00adlO5WqO85AlsXcQ4rHJrOHWACmrnn_kWhSWR8DhG2XTCwI6BLguaOm9FzsKodUG-oCsnGkWNAiqMPYKHV0TxohrTMd87JqmzYBInL7maS4Cu1fHh_YVgkG5sJBqsEbo7q48DuPt_ffh57qa9HYf6L6DHjR8",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=1Pc9V3icHdBRbpswAABQ7TL9bEJMsjVSVJVCzLICsrEN-GeyDcEFAy6hJeFvV9gZeqqdZtNO8KT369O89u2fL7_1NNnLfrWa5_m-HobaVPdq6FbicuvVSgljpFDtfvd15zye1SH4UN7zqDxErWU-XqdrnVBQb9HmdCtz80zZsM16NmPAM0yetmXoAdW0U9VHgITGS6EpRB_PabblPG-vGGokjYWKIEDJ0YpAF2IxmYTsLAPbs8XsZBf_oIE7MRNzAR23oPOE2cN37j8B4RdX1VqDAxZHGXblUoAYRo4MS1h13xwJow1d9JiFaI7Xp0vi85H7J00adlO5WqO85AlsXcQ4rHJrOHWACmrnn_kWhSWR8DhG2XTCwI6BLguaOm9FzsKodUG-oCsnGkWNAiqMPYKHV0TxohrTMd87JqmzYBInL7maS4Cu1fHh_YVgkG5sJBqsEbo7q48DuPt_ffh57qa9HYf6L6DHjR8",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk5FWkNWVFIyWlhJM2IxVllVV3hZWm5WVldXc3lNamhEY1ZNelZXYzBlWGxwVVdWQmRIY3RVa04xWjB4elNrdGhkMlprYkZScFoxSnBkbUZYT1ZaMlprdENUVFZXTUhac1lWRjFPREIxUjFvekxVeDNWMXB4V0RCd1FSSVhXRkV0YW1GMVJ6Sk9OMTgwTVdVNFVESTNOM0J6UVUwYUlrRkVjM0k1WmxKWlIzTkphbVppVkc5MWVHMXNhR2gxUVhCelpEbGlaMUo1Wm5jIiwiZmN2IjoiMyIsImVpIjoiWFEtamF1RzJON180MWU4UDI3N3BzQU0iLCJxYyI6IkNodHNiM01nWVc1blpXeGxjeUJqWVhSb2IyeHBZeUJ6WTJodmIyd1FBSDBySkEwXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbW9zdCBwcmVzdGlnaW91cyBwcml2YXRlIHNjaG9vbCBpbiBMb3MgQW5nZWxlcz8iLCJsayI6ImN3M0d3UTJBTUF3RHdEMTRlUTYyaVZEVVJBbzF3aW1zRF9lNmJYX0RHaWwwT0U2cWNkMnV6cEZjLXAtUHRVTkhrSVdjS0FvMmg1ZnJBdyIsImJzIjoiYzVXUE1RdkNNQkJHY2Mza25Pa21jVk9MT2xpaFNGZDM1M2lFWGlEdFNaTmF4RDl2c0tLeHRZUGJEZV9kNHhNc05pZFNIb3dEVHhyTzJubklsU2UyQm9GTVFlQ1FtQzJZQ283czRGQVYybXFYSlZ1NWJ2c2lqb2cyaUtvVHhWMmtjYkRrNEYzcVlKdkNjT1BDYmE3SzY3SHNYdTdhX19RNHJsNXJWUjBJTHZWbmFzZTdYZzl5YmlwX3k1SzVuT0VQTlBvTi1FU0ZGc3V2ZlNwZzd3cFNVeU1OUnEza291MDdPSFNpMm5UeUFBIiwiaWQiOiJmY19YUS1qYXVHMk43XzQxZThQMjc3cHNBTV81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk5FWkNWVFIyWlhJM2IxVllVV3hZWm5WVldXc3lNamhEY1ZNelZXYzBlWGxwVVdWQmRIY3RVa04xWjB4elNrdGhkMlprYkZScFoxSnBkbUZYT1ZaMlprdENUVFZXTUhac1lWRjFPREIxUjFvekxVeDNWMXB4V0RCd1FSSVhXRkV0YW1GMVJ6Sk9OMTgwTVdVNFVESTNOM0J6UVUwYUlrRkVjM0k1WmxKWlIzTkphbVppVkc5MWVHMXNhR2gxUVhCelpEbGlaMUo1Wm5jIiwiZmN2IjoiMyIsImVpIjoiWFEtamF1RzJON180MWU4UDI3N3BzQU0iLCJxYyI6IkNodHNiM01nWVc1blpXeGxjeUJqWVhSb2IyeHBZeUJ6WTJodmIyd1FBSDBySkEwXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbW9zdCBwcmVzdGlnaW91cyBwcml2YXRlIHNjaG9vbCBpbiBMb3MgQW5nZWxlcz8iLCJsayI6ImN3M0d3UTJBTUF3RHdEMTRlUTYyaVZEVVJBbzF3aW1zRF9lNmJYX0RHaWwwT0U2cWNkMnV6cEZjLXAtUHRVTkhrSVdjS0FvMmg1ZnJBdyIsImJzIjoiYzVXUE1RdkNNQkJHY2Mza25Pa21jVk9MT2xpaFNGZDM1M2lFWGlEdFNaTmF4RDl2c0tLeHRZUGJEZV9kNHhNc05pZFNIb3dEVHhyTzJubklsU2UyQm9GTVFlQ1FtQzJZQ283czRGQVYybXFYSlZ1NWJ2c2lqb2cyaUtvVHhWMmtjYkRrNEYzcVlKdkNjT1BDYmE3SzY3SHNYdTdhX19RNHJsNXJWUjBJTHZWbmFzZTdYZzl5YmlwX3k1SzVuT0VQTlBvTi1FU0ZGc3V2ZlNwZzd3cFNVeU1OUnEza291MDdPSFNpMm5UeUFBIiwiaWQiOiJmY19YUS1qYXVHMk43XzQxZThQMjc3cHNBTV81In0%3D"
+  },
+  {
+   "question": "What are some Catholic schools in Los Angeles County?",
+   "type": "ai_overview",
+   "page_token": "-lE-3XicHdBRbpswGABg7TJ9bGxImBIpmkSDQ9DwYuPfBF4msElobANrUKG87Qo7w06102zaDT59P3_b1878-fSrHcfhsVutpml6vvX9zTbPqner6vHRqZWqrK0rZXbB5wB_uap99K7ClzcVMhgGeeAo62yf343HPArKca_ukrPwNmEJ5CTRmAo0B40Z-9qMRAi6aIdnZaa5Pk6-IhFWoHAFhKS2DTiAT6UWNeK4wskDIozkInnmyDl9wT4nBQa0zdKOxLXdrgUmcy6TgaMBhNAXZbZnKu3CDM2E1TPFw7fmqDaZt4HUtD6DzQE8m3A0j5UpS523LTXbe3ZMQhknKD_yQrjTh4A1ri3BuaEBgDxRLMMmtiRqdQEZ_lFcZJyatX9Z2FyKlqV35auYhoL3rwz4ou7W_XO2VUQO2g1fyzjhhWlP-YUzCuNVd_bROO2APV3V-95_-n-9_3514254629_AblBi0M",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=-lE-3XicHdBRbpswGABg7TJ9bGxImBIpmkSDQ9DwYuPfBF4msElobANrUKG87Qo7w06102zaDT59P3_b1878-fSrHcfhsVutpml6vvX9zTbPqner6vHRqZWqrK0rZXbB5wB_uap99K7ClzcVMhgGeeAo62yf343HPArKca_ukrPwNmEJ5CTRmAo0B40Z-9qMRAi6aIdnZaa5Pk6-IhFWoHAFhKS2DTiAT6UWNeK4wskDIozkInnmyDl9wT4nBQa0zdKOxLXdrgUmcy6TgaMBhNAXZbZnKu3CDM2E1TPFw7fmqDaZt4HUtD6DzQE8m3A0j5UpS523LTXbe3ZMQhknKD_yQrjTh4A1ri3BuaEBgDxRLMMmtiRqdQEZ_lFcZJyatX9Z2FyKlqV35auYhoL3rwz4ou7W_XO2VUQO2g1fyzjhhWlP-YUzCuNVd_bROO2APV3V-95_-n-9_3514254629_AblBi0M",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk5FWkNWVFIyWlhJM2IxVllVV3hZWm5WVldXc3lNamhEY1ZNelZXYzBlWGxwVVdWQmRIY3RVa04xWjB4elNrdGhkMlprYkZScFoxSnBkbUZYT1ZaMlprdENUVFZXTUhac1lWRjFPREIxUjFvekxVeDNWMXB4V0RCd1FSSVhXRkV0YW1GMVJ6Sk9OMTgwTVdVNFVESTNOM0J6UVUwYUlrRkVjM0k1WmxKWlIzTkphbVppVkc5MWVHMXNhR2gxUVhCelpEbGlaMUo1Wm5jIiwiZmN2IjoiMyIsImVpIjoiWFEtamF1RzJON180MWU4UDI3N3BzQU0iLCJxYyI6IkNodHNiM01nWVc1blpXeGxjeUJqWVhSb2IyeHBZeUJ6WTJodmIyd1FBSDBySkEwXyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgc29tZSBDYXRob2xpYyBzY2hvb2xzIGluIExvcyBBbmdlbGVzIENvdW50eT8iLCJsayI6IkdpWmpZWFJvYjJ4cFl5QnpZMmh2YjJ4eklHbHVJR3h2Y3lCaGJtZGxiR1Z6SUdOdmRXNTBlUSIsImJzIjoiYzVXUE1RdkNNQkJHY2Mza25Pa21jVk9MT2xpaFNGZDM1M2lFWGlEdFNaTmF4RDl2c0tLeHRZUGJEZV9kNHhNc05pZFNIb3dEVHhyTzJubklsU2UyQm9GTVFlQ1FtQzJZQ283czRGQVYybXFYSlZ1NWJ2c2lqb2cyaUtvVHhWMmtjYkRrNEYzcVlKdkNjT1BDYmE3SzY3SHNYdTdhX19RNHJsNXJWUjBJTHZWbmFzZTdYZzl5YmlwX3k1SzVuT0VQTlBvTi1FU0ZGc3V2ZlNwZzd3cFNVeU1OUnEza291MDdPSFNpMm5UeUFBIiwiaWQiOiJmY19YUS1qYXVHMk43XzQxZThQMjc3cHNBTV81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk5FWkNWVFIyWlhJM2IxVllVV3hZWm5WVldXc3lNamhEY1ZNelZXYzBlWGxwVVdWQmRIY3RVa04xWjB4elNrdGhkMlprYkZScFoxSnBkbUZYT1ZaMlprdENUVFZXTUhac1lWRjFPREIxUjFvekxVeDNWMXB4V0RCd1FSSVhXRkV0YW1GMVJ6Sk9OMTgwTVdVNFVESTNOM0J6UVUwYUlrRkVjM0k1WmxKWlIzTkphbVppVkc5MWVHMXNhR2gxUVhCelpEbGlaMUo1Wm5jIiwiZmN2IjoiMyIsImVpIjoiWFEtamF1RzJON180MWU4UDI3N3BzQU0iLCJxYyI6IkNodHNiM01nWVc1blpXeGxjeUJqWVhSb2IyeHBZeUJ6WTJodmIyd1FBSDBySkEwXyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgc29tZSBDYXRob2xpYyBzY2hvb2xzIGluIExvcyBBbmdlbGVzIENvdW50eT8iLCJsayI6IkdpWmpZWFJvYjJ4cFl5QnpZMmh2YjJ4eklHbHVJR3h2Y3lCaGJtZGxiR1Z6SUdOdmRXNTBlUSIsImJzIjoiYzVXUE1RdkNNQkJHY2Mza25Pa21jVk9MT2xpaFNGZDM1M2lFWGlEdFNaTmF4RDl2c0tLeHRZUGJEZV9kNHhNc05pZFNIb3dEVHhyTzJubklsU2UyQm9GTVFlQ1FtQzJZQ283czRGQVYybXFYSlZ1NWJ2c2lqb2cyaUtvVHhWMmtjYkRrNEYzcVlKdkNjT1BDYmE3SzY3SHNYdTdhX19RNHJsNXJWUjBJTHZWbmFzZTdYZzl5YmlwX3k1SzVuT0VQTlBvTi1FU0ZGc3V2ZlNwZzd3cFNVeU1OUnEza291MDdPSFNpMm5UeUFBIiwiaWQiOiJmY19YUS1qYXVHMk43XzQxZThQMjc3cHNBTV81In0%3D"
+  },
+  {
+   "question": "What is the main Catholic church in Los Angeles?",
+   "type": "ai_overview",
+   "page_token": "qpv7nXicHdBhbpswGIBh7TL92UBpmYgUTUqAMLc4w_AZ-P5MjknigA2EoITyb1fYGXaqnqbVLvDq0fvnnz63zce3v2oc--tysbjf74-nrjvpw6PszEJc31u5kELrvZDN0v3u2j-OchXc5HozyHUCfc99ZqUmdLmPGvNkygtEVjPDgbUYkqF0lIjzcM4K9iZr9URz-5W2ZCds7y19IlsZ6bYyE2f5tMmN4hTwWuaek8zhsbS8kBvtljCdv5oXaFifwtQJH3cJhOcssBnWoZsC_wnNdKuafhSGBLLhbZXRUtjolwXLpVVdYKscMdOIbV8sVqvh0H55LUxTIDvUnsjsxIpnJBJ6k1pExxpHKKiPPuVoercKwlsxx8-BqkpI7UtZ8Chunp1iTibMVBLX0pERXWesOyfAZllrAy3xM9CvB3j5tbc9vp-pDUWVSZ8OLMJNpRXB-8NR3lbOw__Xq99HMy77oTt9Am9PjjU",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=qpv7nXicHdBhbpswGIBh7TL92UBpmYgUTUqAMLc4w_AZ-P5MjknigA2EoITyb1fYGXaqnqbVLvDq0fvnnz63zce3v2oc--tysbjf74-nrjvpw6PszEJc31u5kELrvZDN0v3u2j-OchXc5HozyHUCfc99ZqUmdLmPGvNkygtEVjPDgbUYkqF0lIjzcM4K9iZr9URz-5W2ZCds7y19IlsZ6bYyE2f5tMmN4hTwWuaek8zhsbS8kBvtljCdv5oXaFifwtQJH3cJhOcssBnWoZsC_wnNdKuafhSGBLLhbZXRUtjolwXLpVVdYKscMdOIbV8sVqvh0H55LUxTIDvUnsjsxIpnJBJ6k1pExxpHKKiPPuVoercKwlsxx8-BqkpI7UtZ8Chunp1iTibMVBLX0pERXWesOyfAZllrAy3xM9CvB3j5tbc9vp-pDUWVSZ8OLMJNpRXB-8NR3lbOw__Xq99HMy77oTt9Am9PjjU",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk5FWkNWVFIyWlhJM2IxVllVV3hZWm5WVldXc3lNamhEY1ZNelZXYzBlWGxwVVdWQmRIY3RVa04xWjB4elNrdGhkMlprYkZScFoxSnBkbUZYT1ZaMlprdENUVFZXTUhac1lWRjFPREIxUjFvekxVeDNWMXB4V0RCd1FSSVhXRkV0YW1GMVJ6Sk9OMTgwTVdVNFVESTNOM0J6UVUwYUlrRkVjM0k1WmxKWlIzTkphbVppVkc5MWVHMXNhR2gxUVhCelpEbGlaMUo1Wm5jIiwiZmN2IjoiMyIsImVpIjoiWFEtamF1RzJON180MWU4UDI3N3BzQU0iLCJxYyI6IkNodHNiM01nWVc1blpXeGxjeUJqWVhSb2IyeHBZeUJ6WTJodmIyd1FBSDBySkEwXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbWFpbiBDYXRob2xpYyBjaHVyY2ggaW4gTG9zIEFuZ2VsZXM/IiwibGsiOiJHaTkzYUdGMElHbHpJSFJvWlNCdFlXbHVJR05oZEdodmJHbGpJR05vZFhKamFDQnBiaUJzYjNNZ1lXNW5aV3hsY3ciLCJicyI6ImM1V1BNUXZDTUJCR2NjM2tuT2ttY1ZPTE9saWhTRmQzNTNpRVhpRHRTWk5heEQ5dnNLS3h0WVBiRGVfZDR4TXNOaWRTSG93RFR4ck8ybm5JbFNlMkJvRk1RZUNRbUMyWUNvN3M0RkFWMm1xWEpWdTVidnNpam9nMmlLb1R4VjJrY2JEazRGM3FZSnZDY09QQ2JhN0s2N0hzWHU3YV9fUTRybDVyVlIwSUx2Vm5hc2U3WGc5eWJpcF95NUs1bk9FUE5Qb04tRVNGRnN1dmZTcGc3d3BTVXlNTlJxM2tvdTA3T0hTaTJuVHlBQSIsImlkIjoiZmNfWFEtamF1RzJON180MWU4UDI3N3BzQU1fNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk5FWkNWVFIyWlhJM2IxVllVV3hZWm5WVldXc3lNamhEY1ZNelZXYzBlWGxwVVdWQmRIY3RVa04xWjB4elNrdGhkMlprYkZScFoxSnBkbUZYT1ZaMlprdENUVFZXTUhac1lWRjFPREIxUjFvekxVeDNWMXB4V0RCd1FSSVhXRkV0YW1GMVJ6Sk9OMTgwTVdVNFVESTNOM0J6UVUwYUlrRkVjM0k1WmxKWlIzTkphbVppVkc5MWVHMXNhR2gxUVhCelpEbGlaMUo1Wm5jIiwiZmN2IjoiMyIsImVpIjoiWFEtamF1RzJON180MWU4UDI3N3BzQU0iLCJxYyI6IkNodHNiM01nWVc1blpXeGxjeUJqWVhSb2IyeHBZeUJ6WTJodmIyd1FBSDBySkEwXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbWFpbiBDYXRob2xpYyBjaHVyY2ggaW4gTG9zIEFuZ2VsZXM%2FIiwibGsiOiJHaTkzYUdGMElHbHpJSFJvWlNCdFlXbHVJR05oZEdodmJHbGpJR05vZFhKamFDQnBiaUJzYjNNZ1lXNW5aV3hsY3ciLCJicyI6ImM1V1BNUXZDTUJCR2NjM2tuT2ttY1ZPTE9saWhTRmQzNTNpRVhpRHRTWk5heEQ5dnNLS3h0WVBiRGVfZDR4TXNOaWRTSG93RFR4ck8ybm5JbFNlMkJvRk1RZUNRbUMyWUNvN3M0RkFWMm1xWEpWdTVidnNpam9nMmlLb1R4VjJrY2JEazRGM3FZSnZDY09QQ2JhN0s2N0hzWHU3YV9fUTRybDVyVlIwSUx2Vm5hc2U3WGc5eWJpcF95NUs1bk9FUE5Qb04tRVNGRnN1dmZTcGc3d3BTVXlNTlJxM2tvdTA3T0hTaTJuVHlBQSIsImlkIjoiZmNfWFEtamF1RzJON180MWU4UDI3N3BzQU1fNSJ9"
+  }
+ ],
+ "ai_overview": {
+  "text_blocks": [
+   {
+    "type": "paragraph",
+    "snippet": "The Archdiocese of Los Angeles operates the largest Catholic school system in the United States, with more than 245 schools across Los Angeles, Ventura, and Santa Barbara counties.",
+    "snippet_highlighted_words": [
+     "more than 245 schools across Los Angeles, Ventura, and Santa Barbara counties"
+    ]
+   },
+   {
+    "type": "heading",
+    "snippet": "Overview of Schools"
+   },
+   {
+    "type": "list",
+    "list": [
+     {
+      "snippet": "Elementary & Preschool: Serves around 43,000 students from Transitional Kindergarten (TK) through 8th grade. Programs feature specialized options like STEM networks, microschools, and dual language immersion (such as English-Spanish and English-Mandarin)."
+     },
+     {
+      "snippet": "High Schools: Includes over 50 Catholic high schools spanning archdiocesan, parish-run, and private/independent formats. Well-known examples include Loyola High School (boys) and Immaculate Heart High School (girls) in the central LA area."
+     }
+    ]
+   },
+   {
+    "type": "heading",
+    "snippet": "Admissions & Application"
+   },
+   {
+    "type": "list",
+    "list": [
+     {
+      "snippet": "Elementary: Rolling admissions are common for preschool, TK, and elementary grades year-round if space allows."
+     },
+     {
+      "snippet": "High School: Applications are typically due in January with decisions released in February."
+     }
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "You can look up specific neighborhood campuses through the official LA Catholic Schools Locator tool.",
+    "snippet_links": [
+     {
+      "text": "LA Catholic Schools Locator",
+      "link": "https://www.lacatholicschools.org/"
+     }
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "If you'd like, let me know:"
+   },
+   {
+    "type": "list",
+    "list": [
+     {
+      "snippet": "Whether you are looking for elementary or high school"
+     },
+     {
+      "snippet": "Your specific neighborhood or zip code in Los Angeles"
+     },
+     {
+      "snippet": "Any preference for co-ed or single-gender education"
+     }
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "I can help narrow down the closest and most suitable options for you."
+   }
+  ],
+  "references": [
+   {
+    "link": "https://www.lacatholicschools.org/",
+    "source": "lacatholicschools.org",
+    "index": 0
+   },
+   {
+    "link": "https://www.quora.com/What-are-the-best-Catholic-schools-in-Los-Angeles",
+    "source": "quora.com",
+    "index": 1
+   },
+   {
+    "link": "https://www.lacatholicschools.org/explore-our-schools/elementary-school",
+    "source": "lacatholicschools.org",
+    "index": 2
+   },
+   {
+    "link": "https://www.lacatholicschools.org/explore-our-schools/dual-language-immersion",
+    "source": "lacatholicschools.org",
+    "index": 3
+   },
+   {
+    "link": "https://www.lacatholicschools.org/explore-our-schools/high-school",
+    "source": "lacatholicschools.org",
+    "index": 4
+   },
+   {
+    "link": "https://en.wikipedia.org/wiki/List_of_schools_in_the_Roman_Catholic_Archdiocese_of_Los_Angeles",
+    "source": "en.wikipedia.org",
+    "index": 5
+   },
+   {
+    "link": "https://www.lacatholicschools.org/faq",
+    "source": "lacatholicschools.org",
+    "index": 6
+   },
+   {
+    "title": "LA Catholic Schools",
+    "link": "https://www.lacatholicschools.org/",
+    "snippet": "We believe. that excellence builds bright futures. Since 1851, Catholic schools in the Archdiocese of Los Angeles have been committed to educating, inspiring, a...",
+    "source": "LA Catholic Schools",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ87VZygbtbTWjldQIlWlPUt-u9YrT_2gqcbeocYIItG4wHBP0nGcSWWtnUW03a7smH4U6IuxpfRY2OrNnVLEu0IQmPcCusTKFUYQ_aptk",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.lacatholicschools.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 7
+   },
+   {
+    "title": "What are the best Catholic schools in Los Angeles? - Quora",
+    "link": "https://www.quora.com/What-are-the-best-Catholic-schools-in-Los-Angeles",
+    "snippet": "Catholic High Schools Overview: The Archdiocese of Los Angeles includes 53 Catholic high schools across Los Angeles, Ventura, and Santa Barbara counties, which",
+    "source": "Quora",
+    "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.quora.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 8
+   },
+   {
+    "title": "Elementary School - The Roman Catholic Archbishop of Los Angeles",
+    "link": "https://www.lacatholicschools.org/explore-our-schools/elementary-school",
+    "snippet": "We educate approximately 43,000 students each year in grades TK through eighth across the three counties within our Archdiocese. While each school has its own c...",
+    "source": "LA Catholic Schools",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCxj2CIxT79PYoxTc8Jt_8KctrhUEFVIX9sQmlomX03gs4M2cEn0LpYZFU1VG-LZXpwEYGf6jmBZgtLn73LmeKB4PCx7GpAMNkwZIwTJw",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.lacatholicschools.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 9
+   },
+   {
+    "title": "Dual Language Immersion - Los Angeles - LA Catholic Schools",
+    "link": "https://www.lacatholicschools.org/explore-our-schools/dual-language-immersion",
+    "snippet": "Dual Language Immersion elementary schools in the Archdiocese of Los Angeles are innovative learning communities where students learn to become biliterate, mast...",
+    "source": "LA Catholic Schools",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSwjkh3F__LuagfcoDsWeu2hNTwWPR0oqpJTUPvZDPcsU6l3EMcpa9HZVrDytK0ZNcqKWcBVEqc0fsiW4t_JCzWrLeaVhmq1JIqzCpLeIc",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.lacatholicschools.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 10
+   },
+   {
+    "title": "High School - The Roman Catholic Archbishop of Los Angeles",
+    "link": "https://www.lacatholicschools.org/explore-our-schools/high-school",
+    "snippet": "* Archdiocesan High Schools. There are 19 high schools operated by the Archdiocese of Los Angeles under the auspices of the Department of Catholic Scho",
+    "source": "LA Catholic Schools",
+    "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNids2sOIejX1Cz4rAsNYES6FtA60enWdi5kAzXjdoetnedQWSXT_W29eoy5TX2lk0keC4jV2Sqpsl-SaIi6ErPWAvUgsrL-hsiA0DGR4",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.lacatholicschools.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 11
+   },
+   {
+    "title": "List of schools in the Roman Catholic Archdiocese of Los Angeles",
+    "link": "https://en.wikipedia.org/wiki/List_of_schools_in_the_Roman_Catholic_Archdiocese_of_Los_Angeles",
+    "snippet": "Bishop Alemany High School, Mission Hills Bishop Conaty-Our Lady of Loretto High School (Girls), Harvard Heights Bishop Mora Salesian High School (Boys), Boyle",
+    "source": "Wikipedia",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSmoJzGiJ9dlqVuCZ1pUJYVWLMXpbEF69jJkDL9p9tbV9g3G1-mpWnXk6hycwsdQyyzqas2dwEp8aQpwsdtABVHRO7KjfiK-_UbIbRFD8Q",
+    "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 12
+   },
+   {
+    "title": "FAQ - The Roman Catholic Archbishop of Los Angeles",
+    "link": "https://www.lacatholicschools.org/faq",
+    "snippet": "How and when do I apply and enroll? It's never too late! Our schools that offer preschool, transitional kindergarten, and elementary grades do not have strict a...",
+    "source": "LA Catholic Schools",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvpuYMMqVJ-PKby8PvbUWmCWa7rValBxE4hbltKaSjv1DshOAXktzMdl_AeqRDcEogIGxl10nmImA376gLjYRjdw72quUfehSdSUy9sOY",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.lacatholicschools.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 13
+   }
+  ]
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "TOP 10 BEST Catholic Schools in Los Angeles, CA",
+   "link": "https://www.yelp.com/search?find_desc=Catholic+Schools&find_loc=Los+Angeles%2C+CA",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiQEB6zswFQx8wmOZhBpq7RNDrfD6puCu1inhb7SpwKfFkzvoS3EuPH3Frlm_S6p6vO1OUxk-UODED1SJ8fDO08FM7QsgKudg4BIeCngBKhBD9K5ZAKLVMFC2dk9vdkKijOedcT6EQz3nHV_BGJ5ZZruAPzu8JjGoppQEp2srDI232tBWMcus-YJJXQ&ved=2ahUKEwih2erJ6eSWAxU_fPUHHVtfGjYQFnoECBoQAQ&uoh=1",
+   "displayed_link": "https://www.yelp.com \u203a Education",
+   "favicon": "https://serpapi.com/images/i/UklGRrABAABXRUJQVlA4IKQBAAAQCgCdASogACAAPrkurlcnIacnG_DgFwlsAJ0y7PyVoDbX_pnpgH-d6gDn0fY38jPAArVNoCrAlaPcgw9_NjrSLYDCki6HiaAYVj36NR_DgRtjmp6VzqLnAAD-9-_HVtEfZf1k5Fu5sOhI2730sfPBf_CG_gY7IjdRHgorclQN_UG5FGoT7nVAd5YwzrWsxH6TLxXCUq25cpJOT9z4h4CPS6djcg5y73xYO-MEdL5cmcD11oqlxpeUGrqvbq4UPXtKdespQXJb7V__FwiO42L4KCCpbG2JTSjKGoiWQ0R_KVZ3BS_P7vCXle1a3EM-Jy_Wd1KLIP7ksgtn7CFrwo3uYnAuucwyBN7n99OZNEeORetd5CcQppI2BuvU9UHgrzSFfAr9K9bl1C3aK0jdaqBhzHMfSa2nmKdWaae9fbEZIn9rcXQM_vzXw35X-i18LrAcA4uanHTpWKV416dVDFlmH6zJvcyipDEO-BFNQSfuLsAoa1S8UxXymJGxhbWVTBjsCAgl1zi98k2jrESorHzHlvvRHIUVkuNO4hqk0bPO5cfAAAA.webp",
+   "snippet": "... Los Angeles Catholic School system. Teacher to student ratios are in the student's favor (small class sizes) especially when compared to local and ...",
+   "snippet_highlighted_words": [
+    "Los Angeles Catholic School"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 4.4,
+      "reviews": 1402
+     },
+     "extensions": [
+      "4.4(1,402)"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "... Los Angeles Catholic School system. Teacher to student ratios are in the student's favor (small class sizes) especially when compared to local and ...",
+     "source_info_link": "https://www.yelp.com/search?find_desc=Catholic+Schools&find_loc=Los+Angeles%2C+CA",
+     "icon": "https://serpapi.com/images/i/UklGRrABAABXRUJQVlA4IKQBAAAQCgCdASogACAAPrkurlcnIacnG_DgFwlsAJ0y7PyVoDbX_pnpgH-d6gDn0fY38jPAArVNoCrAlaPcgw9_NjrSLYDCki6HiaAYVj36NR_DgRtjmp6VzqLnAAD-9-_HVtEfZf1k5Fu5sOhI2730sfPBf_CG_gY7IjdRHgorclQN_UG5FGoT7nVAd5YwzrWsxH6TLxXCUq25cpJOT9z4h4CPS6djcg5y73xYO-MEdL5cmcD11oqlxpeUGrqvbq4UPXtKdespQXJb7V__FwiO42L4KCCpbG2JTSjKGoiWQ0R_KVZ3BS_P7vCXle1a3EM-Jy_Wd1KLIP7ksgtn7CFrwo3uYnAuucwyBN7n99OZNEeORetd5CcQppI2BuvU9UHgrzSFfAr9K9bl1C3aK0jdaqBhzHMfSa2nmKdWaae9fbEZIn9rcXQM_vzXw35X-i18LrAcA4uanHTpWKV416dVDFlmH6zJvcyipDEO-BFNQSfuLsAoa1S8UxXymJGxhbWVTBjsCAgl1zi98k2jrESorHzHlvvRHIUVkuNO4hqk0bPO5cfAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESiQEB6zswFQx8wmOZhBpq7RNDrfD6puCu1inhb7SpwKfFkzvoS3EuPH3Frlm_S6p6vO1OUxk-UODED1SJ8fDO08FM7QsgKudg4BIeCngBKhBD9K5ZAKLVMFC2dk9vdkKijOedcT6EQz3nHV_BGJ5ZZruAPzu8JjGoppQEp2srDI232tBWMcus-YJJXQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESiQEB6zswFQx8wmOZhBpq7RNDrfD6puCu1inhb7SpwKfFkzvoS3EuPH3Frlm_S6p6vO1OUxk-UODED1SJ8fDO08FM7QsgKudg4BIeCngBKhBD9K5ZAKLVMFC2dk9vdkKijOedcT6EQz3nHV_BGJ5ZZruAPzu8JjGoppQEp2srDI232tBWMcus-YJJXQ",
+   "source": "Yelp",
+   "read_more_link": "https://www.yelp.com/search?find_desc=Catholic+Schools&find_loc=Los+Angeles,+CA#:~:text=St%20Anthony's%20is%20a%20true,when%20compared%20to%20local%20and"
+  },
+  {
+   "position": 2,
+   "title": "Catholic School PreK - 8th West Los Angeles | St. Sebastian",
+   "link": "https://saintsebastianschool.com/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWQHrOzAV-NCzil4erHpnW8qylp7VH6GDoQ6neW5KPEnUixibZbdWAoJwO_Pu1C6JHi1FqelSNUN0ck_xN-D54Am8hOQW5CGfYaTlH_GK6dRQNL4yihznh3HB&ved=2ahUKEwih2erJ6eSWAxU_fPUHHVtfGjYQFnoECDQQAQ&uoh=1",
+   "displayed_link": "https://saintsebastianschool.com",
+   "favicon": "https://serpapi.com/images/i/UklGRvwBAABXRUJQVlA4IPABAABwCACdASogACAAAsBMJbACuVY27knCnJuAD4CQAlQTxbnysyz077AnlR-t_9pfYl_YA3H_bLVVey_UOU8U64-4TTco8lesgooLPBUAAP71e9JuLIwU1OUjWysbE2dg2hBuAklWpZn6Ou2I3W4UUVW-QF5rK24IY-t-H65BlBDr2Ug9UZdAuzs6il9inhj-RUoBf4qydqIadWPjb0xu1EY2us90weLbbMZAvW9IsjtiEe5C65yNmqE-h0zvBUNK53xbx-Xfxl9H1D4smrdJ9cb8S6M4a-rodarMSwwUsAS_2wmRii0TPzJwG1XjqmIri2YYmdr0WVbzrwrZ9F33v3fPiQXpa0x5cHzAS2jBPDLvbd1FDulFjpOp6q9yg65NnRowmHL191fmx3PdranBwcFa8DarqiUec_T1rLeLp8ON5r2iLK67_1huCxolHNhpTUl0v_rEasRGxLgt6SUNGIXcpqZe7K-jBxQmk4U4C1pFyzFz_OJBtbrtIPm2Mr50cHw65tKjELN_qFr26wwvwNVqnq8uzY1VLcIkbZvjs4aEw-b7PXWQKeG94blWrJ_aB_ZUDRK4Wu87QBVZFHbQUb75BBGeBj1aNlhGTQra7_uK0GuwSPNA_4_ZT_DhEh9zffjeVrDqyaSvAYYTKtevzAAA.webp",
+   "snippet": "sebastian school logo west los angeles catholic school. St. Sebastian School, West LA. Pre-K to 8th Grade. Dual Language Immersion. APPLY \u00b7 HOME \u00b7 Dual Language ...",
+   "snippet_highlighted_words": [
+    "los angeles catholic school"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "sebastian school logo west los angeles catholic school. St. Sebastian School, West LA. Pre-K to 8th Grade. Dual Language Immersion. APPLY \u00b7 HOME \u00b7 Dual Language ...",
+     "source_info_link": "https://saintsebastianschool.com/",
+     "icon": "https://serpapi.com/images/i/UklGRvwBAABXRUJQVlA4IPABAABwCACdASogACAAAsBMJbACuVY27knCnJuAD4CQAlQTxbnysyz077AnlR-t_9pfYl_YA3H_bLVVey_UOU8U64-4TTco8lesgooLPBUAAP71e9JuLIwU1OUjWysbE2dg2hBuAklWpZn6Ou2I3W4UUVW-QF5rK24IY-t-H65BlBDr2Ug9UZdAuzs6il9inhj-RUoBf4qydqIadWPjb0xu1EY2us90weLbbMZAvW9IsjtiEe5C65yNmqE-h0zvBUNK53xbx-Xfxl9H1D4smrdJ9cb8S6M4a-rodarMSwwUsAS_2wmRii0TPzJwG1XjqmIri2YYmdr0WVbzrwrZ9F33v3fPiQXpa0x5cHzAS2jBPDLvbd1FDulFjpOp6q9yg65NnRowmHL191fmx3PdranBwcFa8DarqiUec_T1rLeLp8ON5r2iLK67_1huCxolHNhpTUl0v_rEasRGxLgt6SUNGIXcpqZe7K-jBxQmk4U4C1pFyzFz_OJBtbrtIPm2Mr50cHw65tKjELN_qFr26wwvwNVqnq8uzY1VLcIkbZvjs4aEw-b7PXWQKeG94blWrJ_aB_ZUDRK4Wu87QBVZFHbQUb75BBGeBj1aNlhGTQra7_uK0GuwSPNA_4_ZT_DhEh9zffjeVrDqyaSvAYYTKtevzAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESWQHrOzAV-NCzil4erHpnW8qylp7VH6GDoQ6neW5KPEnUixibZbdWAoJwO_Pu1C6JHi1FqelSNUN0ck_xN-D54Am8hOQW5CGfYaTlH_GK6dRQNL4yihznh3HB&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESWQHrOzAV-NCzil4erHpnW8qylp7VH6GDoQ6neW5KPEnUixibZbdWAoJwO_Pu1C6JHi1FqelSNUN0ck_xN-D54Am8hOQW5CGfYaTlH_GK6dRQNL4yihznh3HB",
+   "source": "saintsebastianschool.com",
+   "read_more_link": "https://saintsebastianschool.com/#:~:text=St.%20Sebastian%20School%2C%20West%20LA,APPLY"
+  },
+  {
+   "position": 3,
+   "title": "Dual Language Immersion - Los Angeles, CA",
+   "link": "https://lacatholicschools.net/dual-language-immersion",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbQHrOzAVcKnpCfI2HGsLA0ikkm3MtbNFvkExvmJHKW5G9oCEw1rAft4wVn0_RqNLfDI9NyJyYK0w4Jp2rV_UKqZ9VKAMyTzipIyj6nM9t76zxbAN5gpSJXJY-z-oDU9INrpYtc482ql3AMjIAMo&ved=2ahUKEwih2erJ6eSWAxU_fPUHHVtfGjYQFnoECDcQAQ&uoh=1",
+   "displayed_link": "https://lacatholicschools.net \u203a dual-language-immersion",
+   "favicon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAACwBQCdASoSACAAPtEutFooIagoGAEAGglsAKwzEwKt-ON4AeBXkDgmE0kVJcKpQcKyVbdEU9AA_vYRFivO3mAyYNkadiomnHJFkUPjwzWP67AGfRsF2NQiKMq9t_GVFJXV44Y9hu8e1SxwRK1w3uIXl6lpei4QvJL06n5eTAUsSatYe9EYse4Yarkjhjzvefwbs71tDxTd94nTdXbVX4bjVjeAtb7sF25Pu1Tk-OTMMItpNDASGFP8aPRIUZZb1sipv0ld7LtWk8bYRPwDP16PeNfiiiA0_00upsY0nfBIHMXG-9F_dwrtlzu8CM5nAAA.webp",
+   "snippet": "Los Angeles Catholic school students matriculate to college and graduate from college at a higher rate than their public school peers. Students go on to be ...",
+   "snippet_highlighted_words": [
+    "Los Angeles Catholic school"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Los Angeles Catholic school students matriculate to college and graduate from college at a higher rate than their public school peers. Students go on to be ...",
+     "source_info_link": "https://lacatholicschools.net/dual-language-immersion",
+     "icon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAACwBQCdASoSACAAPtEutFooIagoGAEAGglsAKwzEwKt-ON4AeBXkDgmE0kVJcKpQcKyVbdEU9AA_vYRFivO3mAyYNkadiomnHJFkUPjwzWP67AGfRsF2NQiKMq9t_GVFJXV44Y9hu8e1SxwRK1w3uIXl6lpei4QvJL06n5eTAUsSatYe9EYse4Yarkjhjzvefwbs71tDxTd94nTdXbVX4bjVjeAtb7sF25Pu1Tk-OTMMItpNDASGFP8aPRIUZZb1sipv0ld7LtWk8bYRPwDP16PeNfiiiA0_00upsY0nfBIHMXG-9F_dwrtlzu8CM5nAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESbQHrOzAVcKnpCfI2HGsLA0ikkm3MtbNFvkExvmJHKW5G9oCEw1rAft4wVn0_RqNLfDI9NyJyYK0w4Jp2rV_UKqZ9VKAMyTzipIyj6nM9t76zxbAN5gpSJXJY-z-oDU9INrpYtc482ql3AMjIAMo&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESbQHrOzAVcKnpCfI2HGsLA0ikkm3MtbNFvkExvmJHKW5G9oCEw1rAft4wVn0_RqNLfDI9NyJyYK0w4Jp2rV_UKqZ9VKAMyTzipIyj6nM9t76zxbAN5gpSJXJY-z-oDU9INrpYtc482ql3AMjIAMo",
+   "source": "lacatholicschools.net",
+   "read_more_link": "https://lacatholicschools.net/dual-language-immersion#:~:text=Dual%20Language%20Schools%20in%20the"
+  },
+  {
+   "position": 4,
+   "title": "Los Angeles Catholic School Directory",
+   "link": "https://www.facebook.com/fb-answers/los-angeles-catholic-school-directory/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESggEB6zswFSPbR7coPskLlx1_akW8hBmKscJwoRR86kbneAjAfVg6q1wNX7y-N7gauY-A0_2O19VSt2Iyk7_FYhu3z1tMfQnby4bLhg1yXFaBnTCforegJxEwi35atk8yJkiLcGYFZ9KtbWBo5uxN5z1PQhKiyDxWl4qIiTWoydODdaJ0&ved=2ahUKEwih2erJ6eSWAxU_fPUHHVtfGjYQFnoECDUQAQ&uoh=1",
+   "displayed_link": "https://www.facebook.com \u203a fb-answers \u203a los-angeles-c...",
+   "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "snippet": "Los Angeles Catholic School Directory. 47 people talking about this. The Archdiocese of Los Angeles runs 48 Catholic schools serving about 67,000 students ...",
+   "snippet_highlighted_words": [
+    "Los Angeles Catholic School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Los Angeles Catholic School Directory. 47 people talking about this. The Archdiocese of Los Angeles runs 48 Catholic schools serving about 67,000 students ...",
+     "source_info_link": "https://www.facebook.com/fb-answers/los-angeles-catholic-school-directory/",
+     "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESggEB6zswFSPbR7coPskLlx1_akW8hBmKscJwoRR86kbneAjAfVg6q1wNX7y-N7gauY-A0_2O19VSt2Iyk7_FYhu3z1tMfQnby4bLhg1yXFaBnTCforegJxEwi35atk8yJkiLcGYFZ9KtbWBo5uxN5z1PQhKiyDxWl4qIiTWoydODdaJ0&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESggEB6zswFSPbR7coPskLlx1_akW8hBmKscJwoRR86kbneAjAfVg6q1wNX7y-N7gauY-A0_2O19VSt2Iyk7_FYhu3z1tMfQnby4bLhg1yXFaBnTCforegJxEwi35atk8yJkiLcGYFZ9KtbWBo5uxN5z1PQhKiyDxWl4qIiTWoydODdaJ0",
+   "source": "Facebook",
+   "read_more_link": "https://www.facebook.com/fb-answers/los-angeles-catholic-school-directory/#:~:text=Los%20Angeles%20Catholic%20School%20Directory,a%20school%20finder%20at%20lacatholicschools.org."
+  },
+  {
+   "position": 5,
+   "title": "Los Angeles Catholic school enrollment grows after huge dip",
+   "link": "https://www.latimes.com/california/story/2023-01-15/los-angeles-catholic-school-enrollment-increase",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmwEB6zswFelw1XebzfSkVpNc6gqkliGLJ86hnBdoM2lFRCFgmwsrDhAcnI2IrB2zemIHMGEuEPSU6fObAc53MsEav4cP00MDIS6HPpQcD-NUOSt_2d_jWZN0ubD6JD33iy5kQg7FmJ2oZem8AI8XvBdWcBRWIK9SMX7KwDu91oOKQsa6arbee0qpkEFwOiJxpLv7Cgkyvcgp3ZDXcw&ved=2ahUKEwih2erJ6eSWAxU_fPUHHVtfGjYQFnoECDoQAQ&uoh=1",
+   "displayed_link": "https://www.latimes.com \u203a california \u203a story \u203a los-angel...",
+   "favicon": "https://serpapi.com/images/i/UklGRt4AAABXRUJQVlA4INIAAAAwBQCdASocABwAPtE-tFooIigoFAEAGglpAAPkM8rDja7bQSGvVRJhOs4G4wg_AHgUAAD-8pffwrUZli3NudTYpr_zXVeatav3KPViRQxK1BqKs2cZbEsseqsDR26mOBh5zUKB1Zv8wPsX0CDyHqDgd_vsb3780tfnncOtN_ooDD5vAd-sFb5WANeG15khMr8yY1iUci-F6Qgl1c1bq4L7hsX_2m87fzM3LCJj_BfkH77eYGAPBjT0_iHxsP9I2DPc2kuGv7WI3P4wc86nsARWAAA.webp",
+   "date": "Jan 15, 2023",
+   "snippet": "The archdiocese reported a 2.05% increase for this school year during its October survey, contributing to total growth of 4.58% in enrollment ...",
+   "about_this_result": {
+    "source": {
+     "description": "The archdiocese reported a 2.05% increase for this school year during its October survey, contributing to total growth of 4.58% in enrollment ...",
+     "source_info_link": "https://www.latimes.com/california/story/2023-01-15/los-angeles-catholic-school-enrollment-increase",
+     "icon": "https://serpapi.com/images/i/UklGRt4AAABXRUJQVlA4INIAAAAwBQCdASocABwAPtE-tFooIigoFAEAGglpAAPkM8rDja7bQSGvVRJhOs4G4wg_AHgUAAD-8pffwrUZli3NudTYpr_zXVeatav3KPViRQxK1BqKs2cZbEsseqsDR26mOBh5zUKB1Zv8wPsX0CDyHqDgd_vsb3780tfnncOtN_ooDD5vAd-sFb5WANeG15khMr8yY1iUci-F6Qgl1c1bq4L7hsX_2m87fzM3LCJj_BfkH77eYGAPBjT0_iHxsP9I2DPc2kuGv7WI3P4wc86nsARWAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESmwEB6zswFelw1XebzfSkVpNc6gqkliGLJ86hnBdoM2lFRCFgmwsrDhAcnI2IrB2zemIHMGEuEPSU6fObAc53MsEav4cP00MDIS6HPpQcD-NUOSt_2d_jWZN0ubD6JD33iy5kQg7FmJ2oZem8AI8XvBdWcBRWIK9SMX7KwDu91oOKQsa6arbee0qpkEFwOiJxpLv7Cgkyvcgp3ZDXcw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESmwEB6zswFelw1XebzfSkVpNc6gqkliGLJ86hnBdoM2lFRCFgmwsrDhAcnI2IrB2zemIHMGEuEPSU6fObAc53MsEav4cP00MDIS6HPpQcD-NUOSt_2d_jWZN0ubD6JD33iy5kQg7FmJ2oZem8AI8XvBdWcBRWIK9SMX7KwDu91oOKQsa6arbee0qpkEFwOiJxpLv7Cgkyvcgp3ZDXcw",
+   "source": "Los Angeles Times"
+  },
+  {
+   "position": 6,
+   "title": "Archdioceses of Los Angeles Catholic School System",
+   "link": "https://gradesofgreen.org/school-district/archdioceses-of-los-angeles-catholic-school-system/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlQEB6zswFZEvlruO2ZDtrORz5EHZN_YDxZ1LtH1760-ErPEuxLPMh87f4s7VyH6JR7SyccG60htLIdTAEVwrCvDAOWz9S_tLraCt665N2cedWyXIJYZNVEG5wHEzU__qE36aBYHf9F_XN5AUr71mJQW5WuBbRDrwjhgOZCNeD49rRVtjV7hJD7QbeiNU_Ol_E9M298qExg&ved=2ahUKEwih2erJ6eSWAxU_fPUHHVtfGjYQFnoECDkQAQ&uoh=1",
+   "displayed_link": "https://gradesofgreen.org \u203a school-district \u203a archdiocese...",
+   "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAABwBgCdASocABwAPtEutFooIagoGAEAGglsALUa43-AgEiBlxTl4xBdqgiV6LAfAgbD1I8T2Io7_NdlsAAA_vAaFuAF3V7VEc3OvcDb5Q-IBHWFUI-1Xv4ANwT3cPdmfuni-BopAyzHUyoeodDicvjmI2xVRdjSp8-QrgH_lnGS7AZG22dOHURCYCh-vNYrZKUlsGwFRf_4UIrkrZsaZsNjMDU_oDnHvjroDCAN8G21gg7IfMuZ6p-nAFhBbwRVh5l3OG0yoOLNTHpBbYGnayr5wmiPDKH9vsBdvWMXOxYco5FyLDhtyb9xdamLGrg3iBiYXDkXV3d-DhFemUYfUk59lWfIR7Mhgau-6oip248AP__MygYDi22bANI2Zf7YAAA.webp",
+   "snippet": "Archdioceses of Los Angeles Catholic School System \u00b7 Our Student's Impact \u00b7 Our Historical Impact \u00b7 Teams \u00b7 Schools.",
+   "snippet_highlighted_words": [
+    "Los Angeles Catholic School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Archdioceses of Los Angeles Catholic School System \u00b7 Our Student's Impact \u00b7 Our Historical Impact \u00b7 Teams \u00b7 Schools.",
+     "source_info_link": "https://gradesofgreen.org/school-district/archdioceses-of-los-angeles-catholic-school-system/",
+     "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAABwBgCdASocABwAPtEutFooIagoGAEAGglsALUa43-AgEiBlxTl4xBdqgiV6LAfAgbD1I8T2Io7_NdlsAAA_vAaFuAF3V7VEc3OvcDb5Q-IBHWFUI-1Xv4ANwT3cPdmfuni-BopAyzHUyoeodDicvjmI2xVRdjSp8-QrgH_lnGS7AZG22dOHURCYCh-vNYrZKUlsGwFRf_4UIrkrZsaZsNjMDU_oDnHvjroDCAN8G21gg7IfMuZ6p-nAFhBbwRVh5l3OG0yoOLNTHpBbYGnayr5wmiPDKH9vsBdvWMXOxYco5FyLDhtyb9xdamLGrg3iBiYXDkXV3d-DhFemUYfUk59lWfIR7Mhgau-6oip248AP__MygYDi22bANI2Zf7YAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESlQEB6zswFZEvlruO2ZDtrORz5EHZN_YDxZ1LtH1760-ErPEuxLPMh87f4s7VyH6JR7SyccG60htLIdTAEVwrCvDAOWz9S_tLraCt665N2cedWyXIJYZNVEG5wHEzU__qE36aBYHf9F_XN5AUr71mJQW5WuBbRDrwjhgOZCNeD49rRVtjV7hJD7QbeiNU_Ol_E9M298qExg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESlQEB6zswFZEvlruO2ZDtrORz5EHZN_YDxZ1LtH1760-ErPEuxLPMh87f4s7VyH6JR7SyccG60htLIdTAEVwrCvDAOWz9S_tLraCt665N2cedWyXIJYZNVEG5wHEzU__qE36aBYHf9F_XN5AUr71mJQW5WuBbRDrwjhgOZCNeD49rRVtjV7hJD7QbeiNU_Ol_E9M298qExg",
+   "source": "Grades of Green"
+  },
+  {
+   "position": 7,
+   "title": "Los Angeles Catholic school thrives in an area marked by ...",
+   "link": "https://catholictimescolumbus.org/news/los-angeles-catholic-school-thrives-area-marked-gang-violence/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnQEB6zswFQmH9mb7BnMsH-z1E6C8y-GDaHXhy4PZS9qcvc5-i3AOTff7g2U3UXtGiiLMuujy4U6x5iN-DQJUg1rzpBKXWhL_sF6VIVYvUnjz-v5Y_ZC7bqk2uH-EiGNYYrkIMZ_iU7OxgqrXpRX8hR2OQWakuh67xVP38zhc1p5cBz-A8DBLr_MDn_9JF-blT2aRXN7Xq1qCSi_RrjUy&ved=2ahUKEwih2erJ6eSWAxU_fPUHHVtfGjYQFnoECDgQAQ&uoh=1",
+   "displayed_link": "https://catholictimescolumbus.org \u203a news \u203a los-angeles-...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAA3klEQVR4AaXLIYjDMBhH8b8-PTc_PTvPzPR5mIfq85VVNRWlXtVWVYe6wVzkXFSgnsA78UWUhc302R9PfGk3-nZyU105CL4Ovttg-r0CsOgM3KGNxGCYDsKaBbHFuS5Ms-FdPbkTjE_qMDUBEHjJkxthXHHBP1-GjZQoM7xJADipmZdKt2VupN7woB_DI8CgCuCaURnnB0BvuLaGF8kwbZDR8C8jbBFDJwVyj3fkpIlcVeBLF6yoAvEaAEhHMbwjqW9mvzTnbi1O87gClJjbicM3rHX7hGmU1MYCy3bgPwqrq1xpcE3UAAAAAElFTkSuQmCC.png",
+   "snippet": "Los Angeles Catholic school thrives in an area marked by gang violence. Avatar photo by Jonah McKeown September 9, 2022. Share this: Share on Facebook ...",
+   "snippet_highlighted_words": [
+    "Los Angeles Catholic school"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Los Angeles Catholic school thrives in an area marked by gang violence. Avatar photo by Jonah McKeown September 9, 2022. Share this: Share on Facebook ...",
+     "source_info_link": "https://catholictimescolumbus.org/news/los-angeles-catholic-school-thrives-area-marked-gang-violence/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAA3klEQVR4AaXLIYjDMBhH8b8-PTc_PTvPzPR5mIfq85VVNRWlXtVWVYe6wVzkXFSgnsA78UWUhc302R9PfGk3-nZyU105CL4Ovttg-r0CsOgM3KGNxGCYDsKaBbHFuS5Ms-FdPbkTjE_qMDUBEHjJkxthXHHBP1-GjZQoM7xJADipmZdKt2VupN7woB_DI8CgCuCaURnnB0BvuLaGF8kwbZDR8C8jbBFDJwVyj3fkpIlcVeBLF6yoAvEaAEhHMbwjqW9mvzTnbi1O87gClJjbicM3rHX7hGmU1MYCy3bgPwqrq1xpcE3UAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESnQEB6zswFQmH9mb7BnMsH-z1E6C8y-GDaHXhy4PZS9qcvc5-i3AOTff7g2U3UXtGiiLMuujy4U6x5iN-DQJUg1rzpBKXWhL_sF6VIVYvUnjz-v5Y_ZC7bqk2uH-EiGNYYrkIMZ_iU7OxgqrXpRX8hR2OQWakuh67xVP38zhc1p5cBz-A8DBLr_MDn_9JF-blT2aRXN7Xq1qCSi_RrjUy&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESnQEB6zswFQmH9mb7BnMsH-z1E6C8y-GDaHXhy4PZS9qcvc5-i3AOTff7g2U3UXtGiiLMuujy4U6x5iN-DQJUg1rzpBKXWhL_sF6VIVYvUnjz-v5Y_ZC7bqk2uH-EiGNYYrkIMZ_iU7OxgqrXpRX8hR2OQWakuh67xVP38zhc1p5cBz-A8DBLr_MDn_9JF-blT2aRXN7Xq1qCSi_RrjUy",
+   "source": "The Catholic Times",
+   "read_more_link": "https://catholictimescolumbus.org/news/los-angeles-catholic-school-thrives-area-marked-gang-violence/#:~:text=Los%20Angeles%20Catholic%20school%20thrives,Facebook"
+  },
+  {
+   "position": 8,
+   "title": "139 Catholic school jobs in Los Angeles, CA",
+   "link": "https://www.glassdoor.com/Job/los-angeles-catholic-school-jobs-SRCH_IL.0,11_IC1146821_KO12,27.htm",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmQEB6zswFUaDY9Pyw-WHBvncrNsZVRdgggc8WkHYiQEoAXFDi1Qeyn1hQLT1fGANrjEZzM8bznhraxvMNOBwAtmYekTELD-5691XXTHTFnftlgO1c3R1fZJcU-3PIg30TmOxKRj-ZaVBlalhMKbv5V6fsCjir_32qjZZZFuZ4o6bdF4QNeZKrrJCKs2UTSEEGVkbUQu60muPL8E&ved=2ahUKEwih2erJ6eSWAxU_fPUHHVtfGjYQFnoECDYQAQ&uoh=1",
+   "displayed_link": "https://www.glassdoor.com \u203a ... \u203a Catholic School Jobs",
+   "favicon": "https://serpapi.com/images/i/UklGRrAAAABXRUJQVlA4IKQAAACQBACdASocABwAPtEutFooIagoGAEAGglsAM7saF_XElmMaLG_KCQCvZpciAAA_v7CJie1yWsSMQay3bxkbCDg7QbT_JTP8U8d7XkD8LO6-5-7Qe8_1Pf4nS2K4HSOvWmMQHKAXaN1VOxNWFQNWN1-7nUbUIspZr6WPaQrhzuSMFc6JoZ2pUHgoU_G1G4j_nwLdFrIc1OHAtnJ-TrXcj8HtwAAAA.webp",
+   "snippet": "Search Catholic school jobs in Los Angeles, CA with company ratings & salaries. 139 open jobs for Catholic school in Los Angeles.",
+   "about_this_result": {
+    "source": {
+     "description": "Search Catholic school jobs in Los Angeles, CA with company ratings & salaries. 139 open jobs for Catholic school in Los Angeles.",
+     "source_info_link": "https://www.glassdoor.com/Job/los-angeles-catholic-school-jobs-SRCH_IL.0,11_IC1146821_KO12,27.htm",
+     "icon": "https://serpapi.com/images/i/UklGRrAAAABXRUJQVlA4IKQAAACQBACdASocABwAPtEutFooIagoGAEAGglsAM7saF_XElmMaLG_KCQCvZpciAAA_v7CJie1yWsSMQay3bxkbCDg7QbT_JTP8U8d7XkD8LO6-5-7Qe8_1Pf4nS2K4HSOvWmMQHKAXaN1VOxNWFQNWN1-7nUbUIspZr6WPaQrhzuSMFc6JoZ2pUHgoU_G1G4j_nwLdFrIc1OHAtnJ-TrXcj8HtwAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESmQEB6zswFUaDY9Pyw-WHBvncrNsZVRdgggc8WkHYiQEoAXFDi1Qeyn1hQLT1fGANrjEZzM8bznhraxvMNOBwAtmYekTELD-5691XXTHTFnftlgO1c3R1fZJcU-3PIg30TmOxKRj-ZaVBlalhMKbv5V6fsCjir_32qjZZZFuZ4o6bdF4QNeZKrrJCKs2UTSEEGVkbUQu60muPL8E&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESmQEB6zswFUaDY9Pyw-WHBvncrNsZVRdgggc8WkHYiQEoAXFDi1Qeyn1hQLT1fGANrjEZzM8bznhraxvMNOBwAtmYekTELD-5691XXTHTFnftlgO1c3R1fZJcU-3PIg30TmOxKRj-ZaVBlalhMKbv5V6fsCjir_32qjZZZFuZ4o6bdF4QNeZKrrJCKs2UTSEEGVkbUQu60muPL8E",
+   "source": "Glassdoor"
+  },
+  {
+   "position": 9,
+   "title": "Catholic High Schools in Los Angeles, CA - HSPT Prep",
+   "link": "https://hsptprep.app/catholic-schools/california/los-angeles",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHrOzAVba--XFpEthniKylyRqX0UV160YhI9yIyLIWcBeeciNggz_7pY6V539okFVVgsfgO-Z33PkfRgLPxJB7jEWXd73iwkQcExmYOYf85qNEmKkCGyjJiHyT2Wq7bH6vEbmPIgakskuAOUpbOPY20WUlr&ved=2ahUKEwih2erJ6eSWAxU_fPUHHVtfGjYQFnoECDMQAQ&uoh=1",
+   "displayed_link": "https://hsptprep.app \u203a catholic-schools \u203a california \u203a los-...",
+   "snippet": "Los Angeles Catholic school overview. Schools: 7 serving high-school grades. Students listed: 2,935 across 7 schools reporting enrollment. Average enrollment ...",
+   "snippet_highlighted_words": [
+    "Los Angeles Catholic school"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Los Angeles Catholic school overview. Schools: 7 serving high-school grades. Students listed: 2,935 across 7 schools reporting enrollment. Average enrollment ...",
+     "source_info_link": "https://hsptprep.app/catholic-schools/california/los-angeles"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdAHrOzAVba--XFpEthniKylyRqX0UV160YhI9yIyLIWcBeeciNggz_7pY6V539okFVVgsfgO-Z33PkfRgLPxJB7jEWXd73iwkQcExmYOYf85qNEmKkCGyjJiHyT2Wq7bH6vEbmPIgakskuAOUpbOPY20WUlr&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdAHrOzAVba--XFpEthniKylyRqX0UV160YhI9yIyLIWcBeeciNggz_7pY6V539okFVVgsfgO-Z33PkfRgLPxJB7jEWXd73iwkQcExmYOYf85qNEmKkCGyjJiHyT2Wq7bH6vEbmPIgakskuAOUpbOPY20WUlr",
+   "source": "hsptprep.app",
+   "read_more_link": "https://hsptprep.app/catholic-schools/california/los-angeles#:~:text=Los%20Angeles%20Catholic%20school%20overview,Average%20enrollment"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Los angeles catholic school ranking",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvWohByU3ITCMVS3jpAyakozc_Acw:1789071197916&q=Los+angeles+catholic+school+ranking&sa=X&ved=2ahUKEwih2erJ6eSWAxU_fPUHHVtfGjYQ1QJ6BAhZEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Los+angeles+catholic+school+ranking"
+  },
+  {
+   "block_position": 1,
+   "query": "Los angeles catholic school tuition",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvWohByU3ITCMVS3jpAyakozc_Acw:1789071197916&q=Los+angeles+catholic+school+tuition&sa=X&ved=2ahUKEwih2erJ6eSWAxU_fPUHHVtfGjYQ1QJ6BAhbEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Los+angeles+catholic+school+tuition"
+  },
+  {
+   "block_position": 1,
+   "query": "Los angeles catholic school uniform",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvWohByU3ITCMVS3jpAyakozc_Acw:1789071197916&q=Los+angeles+catholic+school+uniform&sa=X&ved=2ahUKEwih2erJ6eSWAxU_fPUHHVtfGjYQ1QJ6BAhUEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Los+angeles+catholic+school+uniform"
+  },
+  {
+   "block_position": 1,
+   "query": "Los angeles catholic school fees",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvWohByU3ITCMVS3jpAyakozc_Acw:1789071197916&q=Los+angeles+catholic+school+fees&sa=X&ved=2ahUKEwih2erJ6eSWAxU_fPUHHVtfGjYQ1QJ6BAhXEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Los+angeles+catholic+school+fees"
+  },
+  {
+   "block_position": 1,
+   "query": "Catholic High schools Los Angeles",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvWohByU3ITCMVS3jpAyakozc_Acw:1789071197916&q=Catholic+High+schools+Los+Angeles&sa=X&ved=2ahUKEwih2erJ6eSWAxU_fPUHHVtfGjYQ1QJ6BAhWEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Catholic+High+schools+Los+Angeles"
+  },
+  {
+   "block_position": 1,
+   "query": "Catholic Elementary schools Los Angeles",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvWohByU3ITCMVS3jpAyakozc_Acw:1789071197916&q=Catholic+Elementary+schools+Los+Angeles&sa=X&ved=2ahUKEwih2erJ6eSWAxU_fPUHHVtfGjYQ1QJ6BAhYEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Catholic+Elementary+schools+Los+Angeles"
+  },
+  {
+   "block_position": 1,
+   "query": "Best Catholic elementary schools in Los Angeles",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvWohByU3ITCMVS3jpAyakozc_Acw:1789071197916&q=Best+Catholic+elementary+schools+in+Los+Angeles&sa=X&ved=2ahUKEwih2erJ6eSWAxU_fPUHHVtfGjYQ1QJ6BAhVEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+Catholic+elementary+schools+in+Los+Angeles"
+  },
+  {
+   "block_position": 1,
+   "query": "Best Catholic High schools in Los Angeles",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvWohByU3ITCMVS3jpAyakozc_Acw:1789071197916&q=Best+Catholic+High+schools+in+Los+Angeles&sa=X&ved=2ahUKEwih2erJ6eSWAxU_fPUHHVtfGjYQ1QJ6BAhaEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+Catholic+High+schools+in+Los+Angeles"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Los+Angeles+Catholic+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvWohByU3ITCMVS3jpAyakozc_Acw:1789071197916&ei=XQ-jauG2N7_41e8P277psAM&start=10&sa=N&sstk=AS6-VmJ_jo23RKnEaRi16DZ9ZUKJLOcK4JGM-1FdKFfQBoNSTdkYUAMZXCREGIni_5zn4T3yjW_7G8FD4aH2R3XdaOOMEV2vLDETfg&ved=2ahUKEwih2erJ6eSWAxU_fPUHHVtfGjYQ8NMDegQIUhAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Los+Angeles+Catholic+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvWohByU3ITCMVS3jpAyakozc_Acw:1789071197916&ei=XQ-jauG2N7_41e8P277psAM&start=10&sa=N&sstk=AS6-VmJ_jo23RKnEaRi16DZ9ZUKJLOcK4JGM-1FdKFfQBoNSTdkYUAMZXCREGIni_5zn4T3yjW_7G8FD4aH2R3XdaOOMEV2vLDETfg&ved=2ahUKEwih2erJ6eSWAxU_fPUHHVtfGjYQ8tMDegQIUhAE",
+   "3": "https://www.google.com/search?q=%22Los+Angeles+Catholic+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvWohByU3ITCMVS3jpAyakozc_Acw:1789071197916&ei=XQ-jauG2N7_41e8P277psAM&start=20&sa=N&sstk=AS6-VmJ_jo23RKnEaRi16DZ9ZUKJLOcK4JGM-1FdKFfQBoNSTdkYUAMZXCREGIni_5zn4T3yjW_7G8FD4aH2R3XdaOOMEV2vLDETfg&ved=2ahUKEwih2erJ6eSWAxU_fPUHHVtfGjYQ8tMDegQIUhAG",
+   "4": "https://www.google.com/search?q=%22Los+Angeles+Catholic+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvWohByU3ITCMVS3jpAyakozc_Acw:1789071197916&ei=XQ-jauG2N7_41e8P277psAM&start=30&sa=N&sstk=AS6-VmJ_jo23RKnEaRi16DZ9ZUKJLOcK4JGM-1FdKFfQBoNSTdkYUAMZXCREGIni_5zn4T3yjW_7G8FD4aH2R3XdaOOMEV2vLDETfg&ved=2ahUKEwih2erJ6eSWAxU_fPUHHVtfGjYQ8tMDegQIUhAI",
+   "5": "https://www.google.com/search?q=%22Los+Angeles+Catholic+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvWohByU3ITCMVS3jpAyakozc_Acw:1789071197916&ei=XQ-jauG2N7_41e8P277psAM&start=40&sa=N&sstk=AS6-VmJ_jo23RKnEaRi16DZ9ZUKJLOcK4JGM-1FdKFfQBoNSTdkYUAMZXCREGIni_5zn4T3yjW_7G8FD4aH2R3XdaOOMEV2vLDETfg&ved=2ahUKEwih2erJ6eSWAxU_fPUHHVtfGjYQ8tMDegQIUhAK",
+   "6": "https://www.google.com/search?q=%22Los+Angeles+Catholic+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvWohByU3ITCMVS3jpAyakozc_Acw:1789071197916&ei=XQ-jauG2N7_41e8P277psAM&start=50&sa=N&sstk=AS6-VmJ_jo23RKnEaRi16DZ9ZUKJLOcK4JGM-1FdKFfQBoNSTdkYUAMZXCREGIni_5zn4T3yjW_7G8FD4aH2R3XdaOOMEV2vLDETfg&ved=2ahUKEwih2erJ6eSWAxU_fPUHHVtfGjYQ8tMDegQIUhAM",
+   "7": "https://www.google.com/search?q=%22Los+Angeles+Catholic+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvWohByU3ITCMVS3jpAyakozc_Acw:1789071197916&ei=XQ-jauG2N7_41e8P277psAM&start=60&sa=N&sstk=AS6-VmJ_jo23RKnEaRi16DZ9ZUKJLOcK4JGM-1FdKFfQBoNSTdkYUAMZXCREGIni_5zn4T3yjW_7G8FD4aH2R3XdaOOMEV2vLDETfg&ved=2ahUKEwih2erJ6eSWAxU_fPUHHVtfGjYQ8tMDegQIUhAO",
+   "8": "https://www.google.com/search?q=%22Los+Angeles+Catholic+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvWohByU3ITCMVS3jpAyakozc_Acw:1789071197916&ei=XQ-jauG2N7_41e8P277psAM&start=70&sa=N&sstk=AS6-VmJ_jo23RKnEaRi16DZ9ZUKJLOcK4JGM-1FdKFfQBoNSTdkYUAMZXCREGIni_5zn4T3yjW_7G8FD4aH2R3XdaOOMEV2vLDETfg&ved=2ahUKEwih2erJ6eSWAxU_fPUHHVtfGjYQ8tMDegQIUhAQ",
+   "9": "https://www.google.com/search?q=%22Los+Angeles+Catholic+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvWohByU3ITCMVS3jpAyakozc_Acw:1789071197916&ei=XQ-jauG2N7_41e8P277psAM&start=80&sa=N&sstk=AS6-VmJ_jo23RKnEaRi16DZ9ZUKJLOcK4JGM-1FdKFfQBoNSTdkYUAMZXCREGIni_5zn4T3yjW_7G8FD4aH2R3XdaOOMEV2vLDETfg&ved=2ahUKEwih2erJ6eSWAxU_fPUHHVtfGjYQ8tMDegQIUhAS",
+   "10": "https://www.google.com/search?q=%22Los+Angeles+Catholic+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvWohByU3ITCMVS3jpAyakozc_Acw:1789071197916&ei=XQ-jauG2N7_41e8P277psAM&start=90&sa=N&sstk=AS6-VmJ_jo23RKnEaRi16DZ9ZUKJLOcK4JGM-1FdKFfQBoNSTdkYUAMZXCREGIni_5zn4T3yjW_7G8FD4aH2R3XdaOOMEV2vLDETfg&ved=2ahUKEwih2erJ6eSWAxU_fPUHHVtfGjYQ8tMDegQIUhAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Los+Angeles+Catholic+School%22&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Los+Angeles+Catholic+School%22&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Los+Angeles+Catholic+School%22&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Los+Angeles+Catholic+School%22&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Los+Angeles+Catholic+School%22&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Los+Angeles+Catholic+School%22&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Los+Angeles+Catholic+School%22&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Los+Angeles+Catholic+School%22&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Los+Angeles+Catholic+School%22&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Los+Angeles+Catholic+School%22&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Los+Angeles+Catholic+School%22&start=90"
+  }
+ }
+}

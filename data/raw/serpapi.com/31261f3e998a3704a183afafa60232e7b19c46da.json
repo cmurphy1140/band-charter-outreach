@@ -1,0 +1,551 @@
+{
+ "search_information": {
+  "query_displayed": "\"William Mason High School\" Ohio",
+  "total_results": 130000,
+  "time_taken_displayed": 0.29,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Mason High School",
+  "type": "Public school in Mason, Ohio",
+  "entity_type": "local_nav",
+  "kgmid": "/m/0bb7wg",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/0bb7wg&hl=en-US&q=Mason+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F0bb7wg&q=Mason+High+School",
+  "place_id": "ChIJO2MHihhZQIgRbtG0zmabggA",
+  "website": "https://mhs.masonohioschools.com/",
+  "description": "William Mason High School, also known as Mason High School, is a four-year public high school located in the Mason City Schools district in Mason, Ohio, a suburb of Cincinnati, Ohio.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa3087897c19ff7a455a8d6/images/cjOMevv11jWtJ0vCVxuS4PBy7NwgDgj5U5gez4mhVXE.webp",
+   "link": "https://www.google.com/maps/place/Mason+High+School/data=!4m2!3m1!1s0x0:0x829b66ceb4d16e?sa=X&ved=2ahUKEwj1ztGB4-SWAxW0GVkFHWEXAqEQ_BJ6BAgQEAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/William_Mason_High_School_(Mason,_Ohio)"
+  },
+  "address": "6100 Mason Montgomery Rd, Mason, OH 45040",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=william+mason+high+school+address&ludocid=36762612829311342&sa=X&ved=2ahUKEwj1ztGB4-SWAxW0GVkFHWEXAqEQ6BN6BAghEAI"
+   }
+  ],
+  "founded": "1886",
+  "school_types": "State school, Co-education",
+  "school_types_links": [
+   {
+    "text": "State school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=State+school&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ybGtCxI0H8z2nV80srIO5hh43iJrpLL9zyTRHToodwNipZCD4kcN2wbzA3OqfyGettl42NpXglwsH4hnJQRSg4KBrFTowpZphOt0qedRcJ2AX71sFVCMGHvXT0INicAuWTYDqPahk8cu3jUeP3VnCJBS3nmoax4NR5RFQKZBJajfby35AhVcl0ss1x18-apz25YQ5d1cUFexCUrMOJ-fbhqoVZaitf8JZ0HA88bx2355SgjZcpoFV6r4BhfnzwEEvk4NO0I%3D&sa=X&ved=2ahUKEwj1ztGB4-SWAxW0GVkFHWEXAqEQmxN6BAgkEAI"
+   },
+   {
+    "text": "Co-education",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Co-education&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yVP88BQLNV4l2hiBkjJJlLbAHHsKddt6Z47BP5wM9p4inb3uXILaErIcvp3VyV5WPvDCQxJUm7raxsjWbK8rFUrHgqjN5okwWatL1sYj6jnjfBKhP46s_i7jn5xONpYzSoLTA0Njg1JSNjU645kpdPYDMtn4mufOhpcMPTTvticQYH_PvZOg9476U5B4FkObK8OicBdk7_JAw1qIMWTfbHEvcHPmLksZizVJaN54TVdiTMxp_0gNvz3H4q5UaBbaV8j-h6E%3D&sa=X&ved=2ahUKEwj1ztGB4-SWAxW0GVkFHWEXAqEQmxN6BAgkEAM"
+   }
+  ],
+  "district": "Mason City School District",
+  "district_links": [
+   {
+    "text": "Mason City School District",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Mason+City+School+District&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0ZYTM62vfXejDsZ2Uxqqx-G4PUYMnS7KSJYdPmzlNKqur5fdDUuG00CYNwONF0AVEyTrLVP_AhHIjlcWReXhRO3V-29aOK534neCkii28HSA_UBxpaKyx0gdiQs8L4JIHLDvFnNViwduvoF4qT2uyjJqD3l4HdyIA_1hldQQ1f98LB2tvnH8xvWijLOiTj-0o400QwA%3D&sa=X&ved=2ahUKEwj1ztGB4-SWAxW0GVkFHWEXAqEQmxN6BAgqEAI"
+   }
+  ],
+  "phone": "(513) 398-5025",
+  "raw_hours": "Closed \u00b7 Opens 7 - 30 AM Fri",
+  "hours": {
+   "thursday": {
+    "opens": "7:30\u202fAM",
+    "closes": "2:30\u202fPM"
+   },
+   "friday": {
+    "opens": "7:30\u202fAM",
+    "closes": "2:30\u202fPM"
+   },
+   "saturday": {
+    "opens": "8\u202fAM",
+    "closes": "5\u202fPM"
+   },
+   "sunday": {
+    "opens": "8:15\u202fAM",
+    "closes": "3\u202fPM"
+   },
+   "monday": {
+    "opens": "7:30\u202fAM",
+    "closes": "2:30\u202fPM"
+   },
+   "tuesday": {
+    "opens": "7:30\u202fAM",
+    "closes": "2:30\u202fPM"
+   },
+   "wednesday": {
+    "opens": "7:30\u202fAM",
+    "closes": "2:30\u202fPM"
+   }
+  },
+  "unclaimed_listing": true,
+  "people_also_search_for": [
+   {
+    "name": "Walnut Hills High School",
+    "image": "https://serpapi.com/searches/6aa3087897c19ff7a455a8d6/images/cjOMevv11jWtJ0vCVxuS4DwHaMjUkdqnTQY2ahueGz4jv9JSAunC4ZUDag3tYUHf.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yWCtgcpWrOovf1Q3w2aIfM0bt_P-db7MvIcVfc3blqa7YEs6WuB52ppOS1ySrtddgHe8M2R1qaz0lvrONkeA-6QIMcT9WOYCCWyfK65QL57e9T1-NGSnoixsVxq6CiBb8vQVGxnV50u0rXD-i9Lv9Jl29ziGeW9EiZm1l_JBWinS1jQEHuipYaw_QOMkLOiR55Qmd8Tu8pukp36iUXJjObQ4tv-izum_X1KVtucK33vWVZ8Fcx96-za2mwZGQRjQhvjeUGKHFSXFWYVM8OYgJk2SUGsj&q=Walnut+Hills+High+School&sa=X&ved=2ahUKEwj1ztGB4-SWAxW0GVkFHWEXAqEQs9oBKAB6BAgfEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Walnut+Hills+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yWCtgcpWrOovf1Q3w2aIfM0bt_P-db7MvIcVfc3blqa7YEs6WuB52ppOS1ySrtddgHe8M2R1qaz0lvrONkeA-6QIMcT9WOYCCWyfK65QL57e9T1-NGSnoixsVxq6CiBb8vQVGxnV50u0rXD-i9Lv9Jl29ziGeW9EiZm1l_JBWinS1jQEHuipYaw_QOMkLOiR55Qmd8Tu8pukp36iUXJjObQ4tv-izum_X1KVtucK33vWVZ8Fcx96-za2mwZGQRjQhvjeUGKHFSXFWYVM8OYgJk2SUGsj"
+   },
+   {
+    "name": "Sycamore High School",
+    "image": "https://serpapi.com/searches/6aa3087897c19ff7a455a8d6/images/cjOMevv11jWtJ0vCVxuS4DwHaMjUkdqnTQY2ahueGz5i9QN9rLZJcgIiol8lPYth.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW674XvPpvu8zdFrA6qZfQMX5FTbE8yoMmnYw2CEUSxCuKX-aeChP_e06ivK9-7zr4DxMlLxcz2GSEDy0NE6xCv1Vq8oIsWIaqDHzRsjwX-nPS0TEFfhX0exuNAbrCRJdClMY-O3jB_q4sjCDk4QsK5S86gxqpI3tJNx4YbVN93-yMbMInwh5bNfRwLuzTI0i-FwynH10QU6uI4jJYw-5kWQJwqommAIfWaLMKSt1Quf4SqQUPmUj8uMpl9RLIuV45jn1b_vj9hGu7KlWUXz7dWDUeOT1kO&q=Sycamore+High+School&sa=X&ved=2ahUKEwj1ztGB4-SWAxW0GVkFHWEXAqEQs9oBKAB6BAgfEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Sycamore+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW674XvPpvu8zdFrA6qZfQMX5FTbE8yoMmnYw2CEUSxCuKX-aeChP_e06ivK9-7zr4DxMlLxcz2GSEDy0NE6xCv1Vq8oIsWIaqDHzRsjwX-nPS0TEFfhX0exuNAbrCRJdClMY-O3jB_q4sjCDk4QsK5S86gxqpI3tJNx4YbVN93-yMbMInwh5bNfRwLuzTI0i-FwynH10QU6uI4jJYw-5kWQJwqommAIfWaLMKSt1Quf4SqQUPmUj8uMpl9RLIuV45jn1b_vj9hGu7KlWUXz7dWDUeOT1kO"
+   },
+   {
+    "name": "Lakota East High School",
+    "image": "https://serpapi.com/searches/6aa3087897c19ff7a455a8d6/images/cjOMevv11jWtJ0vCVxuS4DwHaMjUkdqnTQY2ahueGz79QvXpeEPmHGlX6XKxIslr.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67w50Gc5LXVoj_ddVcKnHG_q_3pBpaK4NxvrATsXWZy4vnPVbCBX-7tBeMS1ddl-6UG9x1hsknXz4lYG_-9OD1LFCvoP6Qx77zehWr1nP7wxULXk3n_kwuCVIvMRroZM1HZMwAoZozGEWxK9EvppBjEfD7bksp_jwFRsCPLGGz-aPbq_GWbnS8t2s7dXbPpm52ReZAc3bfuj5_ONh_bei9YURQVHyKOiYIRU2XLtyaX1kdpiA78NpMs28kl_bi5y03gLzVgWxk_hC_Ouw-SIJrDeWWdl6&q=Lakota+East+High+School&sa=X&ved=2ahUKEwj1ztGB4-SWAxW0GVkFHWEXAqEQs9oBKAB6BAgfEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Lakota+East+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67w50Gc5LXVoj_ddVcKnHG_q_3pBpaK4NxvrATsXWZy4vnPVbCBX-7tBeMS1ddl-6UG9x1hsknXz4lYG_-9OD1LFCvoP6Qx77zehWr1nP7wxULXk3n_kwuCVIvMRroZM1HZMwAoZozGEWxK9EvppBjEfD7bksp_jwFRsCPLGGz-aPbq_GWbnS8t2s7dXbPpm52ReZAc3bfuj5_ONh_bei9YURQVHyKOiYIRU2XLtyaX1kdpiA78NpMs28kl_bi5y03gLzVgWxk_hC_Ouw-SIJrDeWWdl6"
+   },
+   {
+    "name": "Lakota West High School",
+    "image": "https://serpapi.com/searches/6aa3087897c19ff7a455a8d6/images/cjOMevv11jWtJ0vCVxuS4DwHaMjUkdqnTQY2ahueGz50l9iAMWy9Sd4WVlS8nA4D.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yUyKG25X5uJaKmN4ay_pMhIxmYhJ1kaZ4lBx19Zq1GIZcD4Es2m5u4BL5jjyzXKZH8YrjM24Hq9DJWum5smmTlf1AbGA2nDXDfKagMGeKMItslxntI1XHKFczPpYyUoA8nzevAxyKk43bl-8E_CHcypPWXLXX4wBx3zPDllfSFGt08LMSV43X14NLqzqvtOxF3h4W9_1Mt4RkG3RX_4xygaWS1QVD0qsWVFt8HrfT8e_D4RXHoSJnF9ChSEq568oDZ-W24yYQKgJ0C7SK7oUsOHcxP2B&q=Lakota+West+High+School&sa=X&ved=2ahUKEwj1ztGB4-SWAxW0GVkFHWEXAqEQs9oBKAB6BAgfEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Lakota+West+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yUyKG25X5uJaKmN4ay_pMhIxmYhJ1kaZ4lBx19Zq1GIZcD4Es2m5u4BL5jjyzXKZH8YrjM24Hq9DJWum5smmTlf1AbGA2nDXDfKagMGeKMItslxntI1XHKFczPpYyUoA8nzevAxyKk43bl-8E_CHcypPWXLXX4wBx3zPDllfSFGt08LMSV43X14NLqzqvtOxF3h4W9_1Mt4RkG3RX_4xygaWS1QVD0qsWVFt8HrfT8e_D4RXHoSJnF9ChSEq568oDZ-W24yYQKgJ0C7SK7oUsOHcxP2B"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=William+Mason+High+School&stick=H4sIAAAAAAAAAONgFuLUz9U3SEoyL09XQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1ilQzPzMnJTMxV8E0szs9T8MhMz1AITs7Iz8_Zwcp4i02S4Y1DRWAuX1PnknDDQ6zaizZHJAXbpId9Pw4Aubwj2H8AAAA&sa=X&ved=2ahUKEwj1ztGB4-SWAxW0GVkFHWEXAqEQzO0BKAR6BAgfEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLUz9U3SEoyL09XQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1ilQzPzMnJTMxV8E0szs9T8MhMz1AITs7Iz8_Zwcp4i02S4Y1DRWAuX1PnknDDQ6zaizZHJAXbpId9Pw4Aubwj2H8AAAA",
+  "profiles": [
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/MasonHIghSchoolPTO",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22William+Mason+High+School%22+Ohio",
+    "image": "https://serpapi.com/searches/6aa3087897c19ff7a455a8d6/images/cjOMevv11jWtJ0vCVxuS4CQjrDXPXNJhbBilLMlIuRT-9Ivd61WUbgC_fKO4Uv0p.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "What is William Mason High School's ranking in Ohio?",
+   "type": "ai_overview",
+   "page_token": "wgmJwnicHdBdbpswAABg9TJ9bPgR2YgUTWJgJ2i4xfgH_DKBSQKxDV5ilSRvu0LP0FPtNJt2g0_f7089TurP08fgnL1uVqtlWV5O83zShxc5m1V7vU9yJVutu1aqzfrL2v92lNvsXSbfLzIpqbUsxV5lBoXgzWGIE5rikQXFHRFUMD9eCL_NmAFCM4dwgAGCLJXnfN9C_1YFYKRZE1YcUDHhdQe_OsyLpSEMURW_tsbP6xCPhdEjCQqvoQ4WO3n_wdmFeNEepxoctApKhc59CMZqsnlf9z7ZJRHNaNAotOtqcexh7JGpjASNM34WLXogw0E_CA_oSvmuNHYngr1jLI9eoXur0h4gztra1z6D--Wfe13V-npgOMmGXveB_tXUed1l0Z2Gs09MXCKYBRXXSXebx5LihzxrQ7l4CGXrkmvGaza2nmiQsqqZhlJMeiAqsv3yfJTv2_D5__X259G4jb3Mp78GWYxy",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=wgmJwnicHdBdbpswAABg9TJ9bPgR2YgUTWJgJ2i4xfgH_DKBSQKxDV5ilSRvu0LP0FPtNJt2g0_f7089TurP08fgnL1uVqtlWV5O83zShxc5m1V7vU9yJVutu1aqzfrL2v92lNvsXSbfLzIpqbUsxV5lBoXgzWGIE5rikQXFHRFUMD9eCL_NmAFCM4dwgAGCLJXnfN9C_1YFYKRZE1YcUDHhdQe_OsyLpSEMURW_tsbP6xCPhdEjCQqvoQ4WO3n_wdmFeNEepxoctApKhc59CMZqsnlf9z7ZJRHNaNAotOtqcexh7JGpjASNM34WLXogw0E_CA_oSvmuNHYngr1jLI9eoXur0h4gztra1z6D--Wfe13V-npgOMmGXveB_tXUed1l0Z2Gs09MXCKYBRXXSXebx5LihzxrQ7l4CGXrkmvGaza2nmiQsqqZhlJMeiAqsv3yfJTv2_D5__X259G4jb3Mp78GWYxy",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk1WRnNUVEZPWjFwbWFFNWtlbFJITmxSQk1WOW1VVXBoYWtKbmRIaG1iMUJuVXpSNE5VRmFNRXhmVEU5SVltcHNZbGhmVWxobFIyRTBSRGhXYWtneldqUlJVSFZ0Tm0wMlEyUXRUemQ2YkhSNE1UUlphVXgwUTB4TGR4SVhaWGRwYW1GeVYyeE9jbE42TlU1dlVEUmhOa2xwUVc4YUlrRkVjM0k1WmxGcFZIZEJRelptVERSbWEzZFhkelV6UTIwdFdtbE1VVEJNYkZFIiwiZmN2IjoiMyIsImVpIjoiZXdpamFyV2xOclN6NU5vUDRhNklpQW8iLCJxYyI6IkNoNTNhV3hzYVdGdElHMWhjMjl1SUdocFoyZ2djMk5vYjI5c0lHOW9hVzhRQUgzUTBoRV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgV2lsbGlhbSBNYXNvbiBIaWdoIFNjaG9vbCdzIHJhbmtpbmcgaW4gT2hpbz8iLCJsayI6IkdpbDNhV3hzYVdGdElHMWhjMjl1SUdocFoyZ2djMk5vYjI5c0lISmhibXRwYm1jZ2FXNGdiMmhwYnciLCJicyI6ImM0M1FzUXVDUUJRR2NGcHZhcGFRQncyUlNaQzAyMmhETkRSSVMzQ28tQjZlOThBN0VQXzc5Q3hLYkdqX2ZkXzdlQ0lUeHhTbEJUS1FrbElrYTdoSXd4b1NLaEZ1R1RLcmpZRkc2b3AwQ2FUaGlzUnh0UE8yN2N2WHp1UGdqZlBmbW5zdDdpSjRIN0ZZd1ByZ1JKRlBRcFBxZjdTclBnbl9iTWJKb2N1RGhMYVF5bUlIc2lsa0hQbmVxbThhUl9JY2lJZllKOXoyUUhkUVVXNmdaTEE4XzhKbllPZ0YtQ014XzhOd2JybDRBZyIsImlkIjoiZmNfZXdpamFyV2xOclN6NU5vUDRhNklpQW9fNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk1WRnNUVEZPWjFwbWFFNWtlbFJITmxSQk1WOW1VVXBoYWtKbmRIaG1iMUJuVXpSNE5VRmFNRXhmVEU5SVltcHNZbGhmVWxobFIyRTBSRGhXYWtneldqUlJVSFZ0Tm0wMlEyUXRUemQ2YkhSNE1UUlphVXgwUTB4TGR4SVhaWGRwYW1GeVYyeE9jbE42TlU1dlVEUmhOa2xwUVc4YUlrRkVjM0k1WmxGcFZIZEJRelptVERSbWEzZFhkelV6UTIwdFdtbE1VVEJNYkZFIiwiZmN2IjoiMyIsImVpIjoiZXdpamFyV2xOclN6NU5vUDRhNklpQW8iLCJxYyI6IkNoNTNhV3hzYVdGdElHMWhjMjl1SUdocFoyZ2djMk5vYjI5c0lHOW9hVzhRQUgzUTBoRV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgV2lsbGlhbSBNYXNvbiBIaWdoIFNjaG9vbCdzIHJhbmtpbmcgaW4gT2hpbz8iLCJsayI6IkdpbDNhV3hzYVdGdElHMWhjMjl1SUdocFoyZ2djMk5vYjI5c0lISmhibXRwYm1jZ2FXNGdiMmhwYnciLCJicyI6ImM0M1FzUXVDUUJRR2NGcHZhcGFRQncyUlNaQzAyMmhETkRSSVMzQ28tQjZlOThBN0VQXzc5Q3hLYkdqX2ZkXzdlQ0lUeHhTbEJUS1FrbElrYTdoSXd4b1NLaEZ1R1RLcmpZRkc2b3AwQ2FUaGlzUnh0UE8yN2N2WHp1UGdqZlBmbW5zdDdpSjRIN0ZZd1ByZ1JKRlBRcFBxZjdTclBnbl9iTWJKb2N1RGhMYVF5bUlIc2lsa0hQbmVxbThhUl9JY2lJZllKOXoyUUhkUVVXNmdaTEE4XzhKbllPZ0YtQ014XzhOd2JybDRBZyIsImlkIjoiZmNfZXdpamFyV2xOclN6NU5vUDRhNklpQW9fNSJ9"
+  },
+  {
+   "question": "What is the #1 ranked high school in Ohio?",
+   "type": "ai_overview",
+   "page_token": "Yi5ndHicHdBRcqIwGADg2cv0sZLQuq0zTkdqQFnFTTR_gJcOISotCcQlC-Jb79JT9TQ7s98Rvs8v_d7U3z_6yjnbzSaTYRjuz2171sf7sjWTohubclIWWsuirGfTn1P0cirn5O86eL2sA8qthSXz9rUL5IEgSPUpD8Hw2m1gZTsgYUd96ySC33kUG2XYSI3NeKQEW7HDbrW4Fsu4z28BTjw7PeoKZwjqTDx2RWSF4M8XSeLtgSvKoaplU3m5ztmxWXjguYSharPhTw-JUHnGodnzwe2Ia1m6HnOgGITaZuYabF-RYCn0CQ4DMCjb-voX6KebSs9-sdIf-TLAfI9SCBe-xNonldIK60uWxqkkjyP3W3QwzzSJCN4LHchr-045u5Uf2kCEGKvJjY0IU-P6DEOlwtCHSNGdiEGmtlDD3ans5_7d_8_528m4mf3Tnv8BctmDGg",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Yi5ndHicHdBRcqIwGADg2cv0sZLQuq0zTkdqQFnFTTR_gJcOISotCcQlC-Jb79JT9TQ7s98Rvs8v_d7U3z_6yjnbzSaTYRjuz2171sf7sjWTohubclIWWsuirGfTn1P0cirn5O86eL2sA8qthSXz9rUL5IEgSPUpD8Hw2m1gZTsgYUd96ySC33kUG2XYSI3NeKQEW7HDbrW4Fsu4z28BTjw7PeoKZwjqTDx2RWSF4M8XSeLtgSvKoaplU3m5ztmxWXjguYSharPhTw-JUHnGodnzwe2Ia1m6HnOgGITaZuYabF-RYCn0CQ4DMCjb-voX6KebSs9-sdIf-TLAfI9SCBe-xNonldIK60uWxqkkjyP3W3QwzzSJCN4LHchr-045u5Uf2kCEGKvJjY0IU-P6DEOlwtCHSNGdiEGmtlDD3ans5_7d_8_528m4mf3Tnv8BctmDGg",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk1WRnNUVEZPWjFwbWFFNWtlbFJITmxSQk1WOW1VVXBoYWtKbmRIaG1iMUJuVXpSNE5VRmFNRXhmVEU5SVltcHNZbGhmVWxobFIyRTBSRGhXYWtneldqUlJVSFZ0Tm0wMlEyUXRUemQ2YkhSNE1UUlphVXgwUTB4TGR4SVhaWGRwYW1GeVYyeE9jbE42TlU1dlVEUmhOa2xwUVc4YUlrRkVjM0k1WmxGcFZIZEJRelptVERSbWEzZFhkelV6UTIwdFdtbE1VVEJNYkZFIiwiZmN2IjoiMyIsImVpIjoiZXdpamFyV2xOclN6NU5vUDRhNklpQW8iLCJxYyI6IkNoNTNhV3hzYVdGdElHMWhjMjl1SUdocFoyZ2djMk5vYjI5c0lHOW9hVzhRQUgzUTBoRV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlICMxIHJhbmtlZCBoaWdoIHNjaG9vbCBpbiBPaGlvPyIsImxrIjoiR2lsM2FHRjBJR2x6SUhSb1pTQWpNU0J5WVc1clpXUWdhR2xuYUNCelkyaHZiMndnYVc0Z2IyaHBidyIsImJzIjoiYzQzUXNRdUNRQlFHY0ZwdmFwYVFCdzJSU1pDMDIyaERORFJJUzNDby1CNmU5OEE3RVBfNzlDeEtiR2pfZmRfN2VDSVR4eFNsQlRLUWtsSWthN2hJd3hvU0toRnVHVEtyallGRzZvcDBDYVRoaXNSeHRQTzI3Y3ZYenVQZ2pmUGZtbnN0N2lKNEg3Rll3UHJnUkpGUFFwUHFmN1NyUGduX2JNYkpvY3VEaExhUXltSUhzaWxrSFBuZXFtOGFSX0ljaUlmWUo5ejJRSGRRVVc2Z1pMQThfOEpuWU9nRi1DTXhfOE53YnJsNEFnIiwiaWQiOiJmY19ld2lqYXJXbE5yU3o1Tm9QNGE2SWlBb181In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk1WRnNUVEZPWjFwbWFFNWtlbFJITmxSQk1WOW1VVXBoYWtKbmRIaG1iMUJuVXpSNE5VRmFNRXhmVEU5SVltcHNZbGhmVWxobFIyRTBSRGhXYWtneldqUlJVSFZ0Tm0wMlEyUXRUemQ2YkhSNE1UUlphVXgwUTB4TGR4SVhaWGRwYW1GeVYyeE9jbE42TlU1dlVEUmhOa2xwUVc4YUlrRkVjM0k1WmxGcFZIZEJRelptVERSbWEzZFhkelV6UTIwdFdtbE1VVEJNYkZFIiwiZmN2IjoiMyIsImVpIjoiZXdpamFyV2xOclN6NU5vUDRhNklpQW8iLCJxYyI6IkNoNTNhV3hzYVdGdElHMWhjMjl1SUdocFoyZ2djMk5vYjI5c0lHOW9hVzhRQUgzUTBoRV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlICMxIHJhbmtlZCBoaWdoIHNjaG9vbCBpbiBPaGlvPyIsImxrIjoiR2lsM2FHRjBJR2x6SUhSb1pTQWpNU0J5WVc1clpXUWdhR2xuYUNCelkyaHZiMndnYVc0Z2IyaHBidyIsImJzIjoiYzQzUXNRdUNRQlFHY0ZwdmFwYVFCdzJSU1pDMDIyaERORFJJUzNDby1CNmU5OEE3RVBfNzlDeEtiR2pfZmRfN2VDSVR4eFNsQlRLUWtsSWthN2hJd3hvU0toRnVHVEtyallGRzZvcDBDYVRoaXNSeHRQTzI3Y3ZYenVQZ2pmUGZtbnN0N2lKNEg3Rll3UHJnUkpGUFFwUHFmN1NyUGduX2JNYkpvY3VEaExhUXltSUhzaWxrSFBuZXFtOGFSX0ljaUlmWUo5ejJRSGRRVVc2Z1pMQThfOEpuWU9nRi1DTXhfOE53YnJsNEFnIiwiaWQiOiJmY19ld2lqYXJXbE5yU3o1Tm9QNGE2SWlBb181In0%3D"
+  },
+  {
+   "question": "Is Mason, Ohio a wealthy area?",
+   "type": "ai_overview",
+   "page_token": "eT5v_HicHZBBbuIwFEDVy3RZsAMdgYSqYbCngcbIxt9JvBklNhBiO0kLBcKud-mp5jSDZvH0Nm_1vr79oXF_H87V6dQdp4PB5XJ52rft3m-fTBsGxbFvzMAU3peFcdPnH8_oZWdm5DOe_3qP5xy6Ti3EcNNURIbh6d4lkP3sc1lFSbCMO6UkJpEN9pzha2xv9LpWdJU6hrTUY4FZXDZ6BLVyFviIRXfTrk_wRBdO87ymtPSCFciDgrzXYSKThYi2SkRAK29ldUleFXlTQm_TeLwBceBIieJG2zXJR6AmCTiC1ikl_I6pdWMQewW0xzxVgmOaqwXFb7LyMqCjBPupnWhIZb3F_j3PlllJxj1ELZJhwtlvgjepn5fX9sBB3EztA7ixA8yO2VA4HdhKErXaKDaXZBnrmu4kLBPgjztznkWP_3_O_uzCadp9tPt_sH6B7Q",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=eT5v_HicHZBBbuIwFEDVy3RZsAMdgYSqYbCngcbIxt9JvBklNhBiO0kLBcKud-mp5jSDZvH0Nm_1vr79oXF_H87V6dQdp4PB5XJ52rft3m-fTBsGxbFvzMAU3peFcdPnH8_oZWdm5DOe_3qP5xy6Ti3EcNNURIbh6d4lkP3sc1lFSbCMO6UkJpEN9pzha2xv9LpWdJU6hrTUY4FZXDZ6BLVyFviIRXfTrk_wRBdO87ymtPSCFciDgrzXYSKThYi2SkRAK29ldUleFXlTQm_TeLwBceBIieJG2zXJR6AmCTiC1ikl_I6pdWMQewW0xzxVgmOaqwXFb7LyMqCjBPupnWhIZb3F_j3PlllJxj1ELZJhwtlvgjepn5fX9sBB3EztA7ixA8yO2VA4HdhKErXaKDaXZBnrmu4kLBPgjztznkWP_3_O_uzCadp9tPt_sH6B7Q",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk1WRnNUVEZPWjFwbWFFNWtlbFJITmxSQk1WOW1VVXBoYWtKbmRIaG1iMUJuVXpSNE5VRmFNRXhmVEU5SVltcHNZbGhmVWxobFIyRTBSRGhXYWtneldqUlJVSFZ0Tm0wMlEyUXRUemQ2YkhSNE1UUlphVXgwUTB4TGR4SVhaWGRwYW1GeVYyeE9jbE42TlU1dlVEUmhOa2xwUVc4YUlrRkVjM0k1WmxGcFZIZEJRelptVERSbWEzZFhkelV6UTIwdFdtbE1VVEJNYkZFIiwiZmN2IjoiMyIsImVpIjoiZXdpamFyV2xOclN6NU5vUDRhNklpQW8iLCJxYyI6IkNoNTNhV3hzYVdGdElHMWhjMjl1SUdocFoyZ2djMk5vYjI5c0lHOW9hVzhRQUgzUTBoRV8iLCJxdWVzdGlvbiI6IklzIE1hc29uLCBPaGlvIGEgd2VhbHRoeSBhcmVhPyIsImxrIjoiR2h4cGN5QnRZWE52YmlCdmFHbHZJR0VnZDJWaGJIUm9lU0JoY21WaCIsImJzIjoiYzQzUXNRdUNRQlFHY0ZwdmFwYVFCdzJSU1pDMDIyaERORFJJUzNDby1CNmU5OEE3RVBfNzlDeEtiR2pfZmRfN2VDSVR4eFNsQlRLUWtsSWthN2hJd3hvU0toRnVHVEtyallGRzZvcDBDYVRoaXNSeHRQTzI3Y3ZYenVQZ2pmUGZtbnN0N2lKNEg3Rll3UHJnUkpGUFFwUHFmN1NyUGduX2JNYkpvY3VEaExhUXltSUhzaWxrSFBuZXFtOGFSX0ljaUlmWUo5ejJRSGRRVVc2Z1pMQThfOEpuWU9nRi1DTXhfOE53YnJsNEFnIiwiaWQiOiJmY19ld2lqYXJXbE5yU3o1Tm9QNGE2SWlBb181In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk1WRnNUVEZPWjFwbWFFNWtlbFJITmxSQk1WOW1VVXBoYWtKbmRIaG1iMUJuVXpSNE5VRmFNRXhmVEU5SVltcHNZbGhmVWxobFIyRTBSRGhXYWtneldqUlJVSFZ0Tm0wMlEyUXRUemQ2YkhSNE1UUlphVXgwUTB4TGR4SVhaWGRwYW1GeVYyeE9jbE42TlU1dlVEUmhOa2xwUVc4YUlrRkVjM0k1WmxGcFZIZEJRelptVERSbWEzZFhkelV6UTIwdFdtbE1VVEJNYkZFIiwiZmN2IjoiMyIsImVpIjoiZXdpamFyV2xOclN6NU5vUDRhNklpQW8iLCJxYyI6IkNoNTNhV3hzYVdGdElHMWhjMjl1SUdocFoyZ2djMk5vYjI5c0lHOW9hVzhRQUgzUTBoRV8iLCJxdWVzdGlvbiI6IklzIE1hc29uLCBPaGlvIGEgd2VhbHRoeSBhcmVhPyIsImxrIjoiR2h4cGN5QnRZWE52YmlCdmFHbHZJR0VnZDJWaGJIUm9lU0JoY21WaCIsImJzIjoiYzQzUXNRdUNRQlFHY0ZwdmFwYVFCdzJSU1pDMDIyaERORFJJUzNDby1CNmU5OEE3RVBfNzlDeEtiR2pfZmRfN2VDSVR4eFNsQlRLUWtsSWthN2hJd3hvU0toRnVHVEtyallGRzZvcDBDYVRoaXNSeHRQTzI3Y3ZYenVQZ2pmUGZtbnN0N2lKNEg3Rll3UHJnUkpGUFFwUHFmN1NyUGduX2JNYkpvY3VEaExhUXltSUhzaWxrSFBuZXFtOGFSX0ljaUlmWUo5ejJRSGRRVVc2Z1pMQThfOEpuWU9nRi1DTXhfOE53YnJsNEFnIiwiaWQiOiJmY19ld2lqYXJXbE5yU3o1Tm9QNGE2SWlBb181In0%3D"
+  },
+  {
+   "question": "How many kids go to Mason High School in Ohio?",
+   "type": "ai_overview",
+   "page_token": "RlIQWXicHdBdbpswAABg9TJ9bDCEbIkUTXLAbV1hgoMN9ssUTBIn2MUtEX9vvULPsFPtNJP2HeH7-mOu783fh299v7tus1gMw_B0aduLOT2p1i6O3fSuFupoTHVUzWb1YwV-ndU27hXcfSqYMed4RL1DzvdkByAL4Jv0X0fR6OFg9JyAuqMGNmkkJt44WjCKZFlLaYggBr8WRdiRUj7TCO_VDEEyAf-EGk8cABL--spjkElEIhnAktz4IABMjlaAtFguFfjpZTn0UzaiGq3fEu8CBNATQ7BPS9KrW-IXHA-VWeuqIJRFOKxKPJ1QFuYG78VsWB64kdpQCoYyWbqecLiinpsLJruc0Tbdgal-IWnF9cgD6uiMcaxrU_vmQ5S4rOJwYkELcrvOyHPsHwoDq7G9ZozO6mYsf6n3JxZiEei7AKSRSHvCxkFmgZB2ORKLb_XweFb9Nnj8f739fbb3jftsL_8AYROLAg",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=RlIQWXicHdBdbpswAABg9TJ9bDCEbIkUTXLAbV1hgoMN9ssUTBIn2MUtEX9vvULPsFPtNJP2HeH7-mOu783fh299v7tus1gMw_B0aduLOT2p1i6O3fSuFupoTHVUzWb1YwV-ndU27hXcfSqYMed4RL1DzvdkByAL4Jv0X0fR6OFg9JyAuqMGNmkkJt44WjCKZFlLaYggBr8WRdiRUj7TCO_VDEEyAf-EGk8cABL--spjkElEIhnAktz4IABMjlaAtFguFfjpZTn0UzaiGq3fEu8CBNATQ7BPS9KrW-IXHA-VWeuqIJRFOKxKPJ1QFuYG78VsWB64kdpQCoYyWbqecLiinpsLJruc0Tbdgal-IWnF9cgD6uiMcaxrU_vmQ5S4rOJwYkELcrvOyHPsHwoDq7G9ZozO6mYsf6n3JxZiEei7AKSRSHvCxkFmgZB2ORKLb_XweFb9Nnj8f739fbb3jftsL_8AYROLAg",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk1WRnNUVEZPWjFwbWFFNWtlbFJITmxSQk1WOW1VVXBoYWtKbmRIaG1iMUJuVXpSNE5VRmFNRXhmVEU5SVltcHNZbGhmVWxobFIyRTBSRGhXYWtneldqUlJVSFZ0Tm0wMlEyUXRUemQ2YkhSNE1UUlphVXgwUTB4TGR4SVhaWGRwYW1GeVYyeE9jbE42TlU1dlVEUmhOa2xwUVc4YUlrRkVjM0k1WmxGcFZIZEJRelptVERSbWEzZFhkelV6UTIwdFdtbE1VVEJNYkZFIiwiZmN2IjoiMyIsImVpIjoiZXdpamFyV2xOclN6NU5vUDRhNklpQW8iLCJxYyI6IkNoNTNhV3hzYVdGdElHMWhjMjl1SUdocFoyZ2djMk5vYjI5c0lHOW9hVzhRQUgzUTBoRV8iLCJxdWVzdGlvbiI6IkhvdyBtYW55IGtpZHMgZ28gdG8gTWFzb24gSGlnaCBTY2hvb2wgaW4gT2hpbz8iLCJsayI6IkdpcG9iM2NnYldGdWVTQnJhV1J6SUdkdklIUnZJRzFoYzI5dUlHaHBaMmdnYzJOb2IyOXNJRzlvYVc4IiwiYnMiOiJjNDNRc1F1Q1FCUUdjRnB2YXBhUUJ3MlJTWkMwMjJoRE5EUklTM0NvLUI2ZTk4QTdFUF83OUN4S2JHal9mZF83ZUNJVHh4U2xCVEtRa2xJa2E3aEl3eG9TS2hGdUdUS3JqWUZHNm9wMENhVGhpc1J4dFBPMjdjdlh6dVBnamZQZm1uc3Q3aUo0SDdGWXdQcmdSSkZQUXBQcWY3U3JQZ25fYk1iSm9jdURoTGFReW1JSHNpbGtIUG5lcW04YVJfSWNpSWZZSjl6MlFIZFFVVzZnWkxBOF84Sm5ZT2dGLUNNeF84Tndicmw0QWciLCJpZCI6ImZjX2V3aWphcldsTnJTejVOb1A0YTZJaUFvXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk1WRnNUVEZPWjFwbWFFNWtlbFJITmxSQk1WOW1VVXBoYWtKbmRIaG1iMUJuVXpSNE5VRmFNRXhmVEU5SVltcHNZbGhmVWxobFIyRTBSRGhXYWtneldqUlJVSFZ0Tm0wMlEyUXRUemQ2YkhSNE1UUlphVXgwUTB4TGR4SVhaWGRwYW1GeVYyeE9jbE42TlU1dlVEUmhOa2xwUVc4YUlrRkVjM0k1WmxGcFZIZEJRelptVERSbWEzZFhkelV6UTIwdFdtbE1VVEJNYkZFIiwiZmN2IjoiMyIsImVpIjoiZXdpamFyV2xOclN6NU5vUDRhNklpQW8iLCJxYyI6IkNoNTNhV3hzYVdGdElHMWhjMjl1SUdocFoyZ2djMk5vYjI5c0lHOW9hVzhRQUgzUTBoRV8iLCJxdWVzdGlvbiI6IkhvdyBtYW55IGtpZHMgZ28gdG8gTWFzb24gSGlnaCBTY2hvb2wgaW4gT2hpbz8iLCJsayI6IkdpcG9iM2NnYldGdWVTQnJhV1J6SUdkdklIUnZJRzFoYzI5dUlHaHBaMmdnYzJOb2IyOXNJRzlvYVc4IiwiYnMiOiJjNDNRc1F1Q1FCUUdjRnB2YXBhUUJ3MlJTWkMwMjJoRE5EUklTM0NvLUI2ZTk4QTdFUF83OUN4S2JHal9mZF83ZUNJVHh4U2xCVEtRa2xJa2E3aEl3eG9TS2hGdUdUS3JqWUZHNm9wMENhVGhpc1J4dFBPMjdjdlh6dVBnamZQZm1uc3Q3aUo0SDdGWXdQcmdSSkZQUXBQcWY3U3JQZ25fYk1iSm9jdURoTGFReW1JSHNpbGtIUG5lcW04YVJfSWNpSWZZSjl6MlFIZFFVVzZnWkxBOF84Sm5ZT2dGLUNNeF84Tndicmw0QWciLCJpZCI6ImZjX2V3aWphcldsTnJTejVOb1A0YTZJaUFvXzUifQ%3D%3D"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "William Mason High School - Ohio",
+   "link": "https://www.usnews.com/education/best-high-schools/ohio/districts/mason-city/william-mason-high-school-15778",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpAEB6zswFX4pUAvmg-fSin4NA_5GhqXuj-pwlkvIdUbjwQX2OhG-ZnWzWm8MF0FRAC582yCAC8XFYAX_wJ98xL2u6mV8YGc5b_VSh-K-JzUZvvdC7njnUVlPV3sVZpkXMN5t2RDnFxRC2nSZM7BdzGOnyZtWKqm4KJQa7oVt1-se7gXXrx8Com4pOPdK8LQIvfQy0VRDNu1X88-rM-srjXUH-8dRvw&ved=2ahUKEwj1ztGB4-SWAxW0GVkFHWEXAqEQFnoECEAQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a ... \u203a Mason City",
+   "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp",
+   "snippet": "William Mason High School is ranked #560 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+   "snippet_highlighted_words": [
+    "William Mason High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "William Mason High School is ranked #560 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/ohio/districts/mason-city/william-mason-high-school-15778",
+     "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESpAEB6zswFX4pUAvmg-fSin4NA_5GhqXuj-pwlkvIdUbjwQX2OhG-ZnWzWm8MF0FRAC582yCAC8XFYAX_wJ98xL2u6mV8YGc5b_VSh-K-JzUZvvdC7njnUVlPV3sVZpkXMN5t2RDnFxRC2nSZM7BdzGOnyZtWKqm4KJQa7oVt1-se7gXXrx8Com4pOPdK8LQIvfQy0VRDNu1X88-rM-srjXUH-8dRvw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESpAEB6zswFX4pUAvmg-fSin4NA_5GhqXuj-pwlkvIdUbjwQX2OhG-ZnWzWm8MF0FRAC582yCAC8XFYAX_wJ98xL2u6mV8YGc5b_VSh-K-JzUZvvdC7njnUVlPV3sVZpkXMN5t2RDnFxRC2nSZM7BdzGOnyZtWKqm4KJQa7oVt1-se7gXXrx8Com4pOPdK8LQIvfQy0VRDNu1X88-rM-srjXUH-8dRvw",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/ohio/districts/mason-city/william-mason-high-school-15778#:~:text=William%20Mason%20High%20School%20is,they%20prepare%20students%20for%20college."
+  },
+  {
+   "position": 2,
+   "title": "William Mason High School (Mason, Ohio)",
+   "link": "https://en.wikipedia.org/wiki/William_Mason_High_School_(Mason,_Ohio)",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAV9pjXnAtRwFEy2SEUTaLtXabfvbVyBkclK4HDHFIm-jORgFUU230sRX54i-AtwncjF6ID8keqMz1OOgrnyJCEY4qLCoTolvguf-78UmfA5xGEQLbrEmwNgHToEhRf6ELk4EO45x4Ps7c7b_Gc0yedVpzQ6VP_6_L3&ved=2ahUKEwj1ztGB4-SWAxW0GVkFHWEXAqEQFnoECEkQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a William_Mason_High...",
+   "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+   "snippet": "William Mason High School, also known as Mason High School (WMHS or MHS), is a four-year public high school located in the Mason City Schools district in ...",
+   "snippet_highlighted_words": [
+    "William Mason High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "William Mason High School, also known as Mason High School (WMHS or MHS), is a four-year public high school located in the Mason City Schools district in ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/William_Mason_High_School_(Mason,_Ohio)",
+     "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESfQHrOzAV9pjXnAtRwFEy2SEUTaLtXabfvbVyBkclK4HDHFIm-jORgFUU230sRX54i-AtwncjF6ID8keqMz1OOgrnyJCEY4qLCoTolvguf-78UmfA5xGEQLbrEmwNgHToEhRf6ELk4EO45x4Ps7c7b_Gc0yedVpzQ6VP_6_L3&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESfQHrOzAV9pjXnAtRwFEy2SEUTaLtXabfvbVyBkclK4HDHFIm-jORgFUU230sRX54i-AtwncjF6ID8keqMz1OOgrnyJCEY4qLCoTolvguf-78UmfA5xGEQLbrEmwNgHToEhRf6ELk4EO45x4Ps7c7b_Gc0yedVpzQ6VP_6_L3",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/William_Mason_High_School_(Mason,_Ohio)#:~:text=William%20Mason%20High%20School%2C%20also,a%20suburb%20of%20Cincinnati%2C%20Ohio."
+  },
+  {
+   "position": 3,
+   "title": "About MHS - Mason High School",
+   "link": "https://mhs.masonohioschools.com/aboutmhs",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYQHrOzAVFh7BVUxbcqOcjxqjPXxn7mlRLA9pkgk46FajdM79jUZOaglqiSepAVdpd8f5T_vQrJneEy-zAxkKxusnb0AnbFz5g9GjFjt9DaPG1Qo5TcPAtd8n-vw0mH723rE&ved=2ahUKEwj1ztGB4-SWAxW0GVkFHWEXAqEQFnoECGMQAQ&uoh=1",
+   "displayed_link": "https://mhs.masonohioschools.com \u203a aboutmhs",
+   "favicon": "https://serpapi.com/images/i/UklGRg4BAABXRUJQVlA4IAIBAAAQBgCdASocABwAPtE-tFooIigoFAEAGglsALboTXBXvMJXzO8AhX-P3ctIyuwtGssHGg4XFR3-wAAA_vYCWNaJrDO7Y9LMkjKIsEZEkMCsGM5Q73sS5qgm5hTY7uJ3SC8CRViLrGWbOIy9PGJ-l4don4H754BRg4wHljvmfQlrOQ5ZQ8karbzg6ljOkbJ9tvw9IAApmEnynYjSvH_yByUjUx5i9gv57AriiMfHn5PV8IHbl8dW-mbrJeA9Sv5C-AXLcU558ebPPXQBaA2F-4lCTbyRBvvqhQ_QgtNAMwSQzpcQIOQ6lzjVYHko3ueb2YWbeQNn5nXyHSiy957TF4UHIAA.webp",
+   "snippet": "Our name, William Mason High School, is shown proudly on the banner. William Mason was the American Revolutionary War veteran who, in 1803, purchased the 640 ...",
+   "snippet_highlighted_words": [
+    "William Mason High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Our name, William Mason High School, is shown proudly on the banner. William Mason was the American Revolutionary War veteran who, in 1803, purchased the 640 ...",
+     "source_info_link": "https://mhs.masonohioschools.com/aboutmhs",
+     "icon": "https://serpapi.com/images/i/UklGRg4BAABXRUJQVlA4IAIBAAAQBgCdASocABwAPtE-tFooIigoFAEAGglsALboTXBXvMJXzO8AhX-P3ctIyuwtGssHGg4XFR3-wAAA_vYCWNaJrDO7Y9LMkjKIsEZEkMCsGM5Q73sS5qgm5hTY7uJ3SC8CRViLrGWbOIy9PGJ-l4don4H754BRg4wHljvmfQlrOQ5ZQ8karbzg6ljOkbJ9tvw9IAApmEnynYjSvH_yByUjUx5i9gv57AriiMfHn5PV8IHbl8dW-mbrJeA9Sv5C-AXLcU558ebPPXQBaA2F-4lCTbyRBvvqhQ_QgtNAMwSQzpcQIOQ6lzjVYHko3ueb2YWbeQNn5nXyHSiy957TF4UHIAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYQHrOzAVFh7BVUxbcqOcjxqjPXxn7mlRLA9pkgk46FajdM79jUZOaglqiSepAVdpd8f5T_vQrJneEy-zAxkKxusnb0AnbFz5g9GjFjt9DaPG1Qo5TcPAtd8n-vw0mH723rE&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYQHrOzAVFh7BVUxbcqOcjxqjPXxn7mlRLA9pkgk46FajdM79jUZOaglqiSepAVdpd8f5T_vQrJneEy-zAxkKxusnb0AnbFz5g9GjFjt9DaPG1Qo5TcPAtd8n-vw0mH723rE",
+   "source": "Mason High School",
+   "read_more_link": "https://mhs.masonohioschools.com/aboutmhs#:~:text=MHS%20Handbook%20%26%20Fees"
+  },
+  {
+   "position": 4,
+   "title": "Mason City Schools (@masonohschools)",
+   "link": "https://www.facebook.com/masonohschools/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAV36lslpZsmJ9aJWMoEdUpnfmGCedP7Xm_6tUluECItnLe_yrhv6-yOjbwi498QSx-pYm9TPs4tixhQr4SqOu7uL8oZIWyFhic8crEhCQRlt2XJVsWlckgveft5g&ved=2ahUKEwj1ztGB4-SWAxW0GVkFHWEXAqEQFnoECF8QAQ&uoh=1",
+   "displayed_link": "18.1K+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "snippet": "William Mason High School has once again been recognized among the nation's top high schools in the latest U.S. News & World Report Best High Schools rankings.",
+   "snippet_highlighted_words": [
+    "William Mason High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "William Mason High School has once again been recognized among the nation's top high schools in the latest U.S. News & World Report Best High Schools rankings.",
+     "source_info_link": "https://www.facebook.com/masonohschools/",
+     "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYAHrOzAV36lslpZsmJ9aJWMoEdUpnfmGCedP7Xm_6tUluECItnLe_yrhv6-yOjbwi498QSx-pYm9TPs4tixhQr4SqOu7uL8oZIWyFhic8crEhCQRlt2XJVsWlckgveft5g&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYAHrOzAV36lslpZsmJ9aJWMoEdUpnfmGCedP7Xm_6tUluECItnLe_yrhv6-yOjbwi498QSx-pYm9TPs4tixhQr4SqOu7uL8oZIWyFhic8crEhCQRlt2XJVsWlckgveft5g",
+   "source": "Facebook \u00b7 Mason City Schools",
+   "read_more_link": "https://www.facebook.com/masonohschools/#:~:text=William%20Mason%20High%20School%20has,Report%20Best%20High%20Schools%20rankings."
+  },
+  {
+   "position": 5,
+   "title": "William Mason High School in Mason, OH",
+   "link": "https://www.niche.com/k12/william-mason-high-school-mason-oh/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAVc426IYteDSsDo6_mtSWh9Hxmc_dptjM7yaODhwgptwzsbRGwaPqux5-XSetJbqYkevuVLUac6mHjb-7JWKPbeRjy8R7XQCndiTMV60pmAYHDF8Sfn5BfqqfwMSnW8K2_EHb7TRIMjRkRuuq7ofAk8g&ved=2ahUKEwj1ztGB4-SWAxW0GVkFHWEXAqEQFnoECF4QAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a Ohio",
+   "favicon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAACwBgCdASocABwAPtEutFooIagoGAEAGglAGZo7gYv7m0TPt8r_WYdmpcah9WA48zicEtVrCFOGH4nMtJiaAAD-8Mpqn5wztwFeSDXF5YavmSdrcpv67JtS1tKl7uW6N9aR19WH-vT5VtxqndfSU_QIzB4R0m5fNi1eX3h8GYa_8H28-7o-nc3D2GEvZqGTES8muP_UCP_UIYsGh8QXK7V2sBnUP79qQidv_o8__S3xjZZmmXEG69VP00Dn3HuddwtLR_4xf_0PU8NPn060X-47u3VDw39ZbBgpwK3wP0F5tHUWMrTdTbcT_h7ghKmtPgKiKNIvGUNLHBT4VbzlXgvFo7vCP-ot_w6I_hOg9EcgQfabjpYvU6X4xcxi9BIxh2PJomEF2PA_XoL7FtzFNUuyE0IG83Bax0ZYU-dxj0EhgAAA.webp",
+   "snippet": "William Mason High School is a top rated, public school located in MASON, OH. It has 3,435 students in grades 9-12 with a student-teacher ratio of 25 to 1.",
+   "snippet_highlighted_words": [
+    "William Mason High School",
+    "OH"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 4.2,
+      "reviews": 1006
+     },
+     "extensions": [
+      "4.2(1,006)"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "William Mason High School is a top rated, public school located in MASON, OH. It has 3,435 students in grades 9-12 with a student-teacher ratio of 25 to 1.",
+     "source_info_link": "https://www.niche.com/k12/william-mason-high-school-mason-oh/",
+     "icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAACwBgCdASocABwAPtEutFooIagoGAEAGglAGZo7gYv7m0TPt8r_WYdmpcah9WA48zicEtVrCFOGH4nMtJiaAAD-8Mpqn5wztwFeSDXF5YavmSdrcpv67JtS1tKl7uW6N9aR19WH-vT5VtxqndfSU_QIzB4R0m5fNi1eX3h8GYa_8H28-7o-nc3D2GEvZqGTES8muP_UCP_UIYsGh8QXK7V2sBnUP79qQidv_o8__S3xjZZmmXEG69VP00Dn3HuddwtLR_4xf_0PU8NPn060X-47u3VDw39ZbBgpwK3wP0F5tHUWMrTdTbcT_h7ghKmtPgKiKNIvGUNLHBT4VbzlXgvFo7vCP-ot_w6I_hOg9EcgQfabjpYvU6X4xcxi9BIxh2PJomEF2PA_XoL7FtzFNUuyE0IG83Bax0ZYU-dxj0EhgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdQHrOzAVc426IYteDSsDo6_mtSWh9Hxmc_dptjM7yaODhwgptwzsbRGwaPqux5-XSetJbqYkevuVLUac6mHjb-7JWKPbeRjy8R7XQCndiTMV60pmAYHDF8Sfn5BfqqfwMSnW8K2_EHb7TRIMjRkRuuq7ofAk8g&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdQHrOzAVc426IYteDSsDo6_mtSWh9Hxmc_dptjM7yaODhwgptwzsbRGwaPqux5-XSetJbqYkevuVLUac6mHjb-7JWKPbeRjy8R7XQCndiTMV60pmAYHDF8Sfn5BfqqfwMSnW8K2_EHb7TRIMjRkRuuq7ofAk8g",
+   "source": "Niche",
+   "read_more_link": "https://www.niche.com/k12/william-mason-high-school-mason-oh/#:~:text=William%20Mason%20High%20School%20is,ratio%20of%2025%20to%201."
+  },
+  {
+   "position": 6,
+   "title": "William Mason High School - Ohio School Report Cards",
+   "link": "https://reportcard.education.ohio.gov/school/home/041376",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHrOzAVDm9Yga7EltTnxuSccg5MBlTscOwXdHuB4zvHwlAKH2k_opyaYjMlQGEpz4e9jJPeE8SlSsd3QGDZnpd15zYFkUJQy1o9CIagdzOhIbWxhs5wHKCqWYR9IjJgTm5Jrf2hs7D8xpD4Iaepc5w&ved=2ahUKEwj1ztGB4-SWAxW0GVkFHWEXAqEQFnoECGcQAQ&uoh=1",
+   "displayed_link": "https://reportcard.education.ohio.gov \u203a school \u203a home",
+   "favicon": "https://serpapi.com/images/i/UklGRqgAAABXRUJQVlA4IJwAAAAQBACdASoQABAAAsBMJbACdD3_9MA_wH7AfAB5ABMl-YAa9DnX0LMtxAD-9BT9_20wQpK_V5brhdexHZrfyg64udw_vU75N532rpfHGQH6PmdTl0huhUq0Dqs0M1qVzCv37mTa3oB2wLYs_14WZZjFPL9EMhdl9xlf2UiBC7toDGwJnybpmTUAj3IlvLMXL5UaaEUh8koCjitUgAA.webp",
+   "snippet": "William Mason High School. School at a glance. School Home \u00b7 Achievement. 5 ... The College, Career, Workforce, and Military Readiness Component is a measure of ...",
+   "snippet_highlighted_words": [
+    "William Mason High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "William Mason High School. School at a glance. School Home \u00b7 Achievement. 5 ... The College, Career, Workforce, and Military Readiness Component is a measure of ...",
+     "source_info_link": "https://reportcard.education.ohio.gov/school/home/041376",
+     "icon": "https://serpapi.com/images/i/UklGRqgAAABXRUJQVlA4IJwAAAAQBACdASoQABAAAsBMJbACdD3_9MA_wH7AfAB5ABMl-YAa9DnX0LMtxAD-9BT9_20wQpK_V5brhdexHZrfyg64udw_vU75N532rpfHGQH6PmdTl0huhUq0Dqs0M1qVzCv37mTa3oB2wLYs_14WZZjFPL9EMhdl9xlf2UiBC7toDGwJnybpmTUAj3IlvLMXL5UaaEUh8koCjitUgAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEScAHrOzAVDm9Yga7EltTnxuSccg5MBlTscOwXdHuB4zvHwlAKH2k_opyaYjMlQGEpz4e9jJPeE8SlSsd3QGDZnpd15zYFkUJQy1o9CIagdzOhIbWxhs5wHKCqWYR9IjJgTm5Jrf2hs7D8xpD4Iaepc5w&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEScAHrOzAVDm9Yga7EltTnxuSccg5MBlTscOwXdHuB4zvHwlAKH2k_opyaYjMlQGEpz4e9jJPeE8SlSsd3QGDZnpd15zYFkUJQy1o9CIagdzOhIbWxhs5wHKCqWYR9IjJgTm5Jrf2hs7D8xpD4Iaepc5w",
+   "source": "Ohio.gov",
+   "read_more_link": "https://reportcard.education.ohio.gov/school/home/041376#:~:text=William%20Mason%20High%20School,School%20at%20a%20glance&text=The%20College%2C%20Career%2C%20Workforce%2C%20and,preparing%20for%20work%20or%20college."
+  },
+  {
+   "position": 7,
+   "title": "Group Profile - William Mason High School",
+   "link": "https://innerview.org/group/648/william-mason-high-school",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScQHrOzAVjIW90aASknGZaYrJZt4XIXbyNbFdvBm0Wrf61rQRWOxAozlShQeoXCVtitljAIR-ZLfqVbgdLocOo0RlDozTHA9OZXpn1ptvQuuCJXkrPa0zBJLerHux23O5U-U7UeXTznGH24J_4D-bAqt7&ved=2ahUKEwj1ztGB4-SWAxW0GVkFHWEXAqEQFnoECGIQAQ&uoh=1",
+   "displayed_link": "https://innerview.org \u203a group \u203a william-mason-high-school",
+   "favicon": "https://serpapi.com/images/i/UklGRkQBAABXRUJQVlA4IDgBAABQBgCdASogACAAPtEutFooIagoGAEAGglsALsVAAdYBc7q__7su60Fe6K7Gy6VmtcNA0hlYvDr2NuAAAD--ln072LH_3COMbjGpo7fOqeffeMv0yvfrj6AZzTCb7dusu-vu-Q8FGwNYAtdIPsPOatCfBI_n3WgI_SGFAbW2rJD_lWGTs42bDIEFiW8-ZvWov1wFvzHxpwaX1CZlR-TsGk8EHL64mZEfY4-CfC3UNYjVaVe7JlUzFNbfEc5thnZYsgv1Kd98hAp_TI8ysbpZwLExiqeyenXR-whLqRNzq9fP2_dn9uUJyDKFc37XDsviNBnWQGKXBCXT-d-av_564c7MH6KF0Y7pQqgv9G6AuyrZOmuDrrOSfNnAKgIswLekTuwaF2evxJVYOh2MTSDaIvNRoESZi6AAAA.webp",
+   "snippet": "William Mason High School, also known as Mason High School (WMHS or MHS), is a four-year public high school located in the Mason City Schools district in ...",
+   "snippet_highlighted_words": [
+    "William Mason High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "William Mason High School, also known as Mason High School (WMHS or MHS), is a four-year public high school located in the Mason City Schools district in ...",
+     "source_info_link": "https://innerview.org/group/648/william-mason-high-school",
+     "icon": "https://serpapi.com/images/i/UklGRkQBAABXRUJQVlA4IDgBAABQBgCdASogACAAPtEutFooIagoGAEAGglsALsVAAdYBc7q__7su60Fe6K7Gy6VmtcNA0hlYvDr2NuAAAD--ln072LH_3COMbjGpo7fOqeffeMv0yvfrj6AZzTCb7dusu-vu-Q8FGwNYAtdIPsPOatCfBI_n3WgI_SGFAbW2rJD_lWGTs42bDIEFiW8-ZvWov1wFvzHxpwaX1CZlR-TsGk8EHL64mZEfY4-CfC3UNYjVaVe7JlUzFNbfEc5thnZYsgv1Kd98hAp_TI8ysbpZwLExiqeyenXR-whLqRNzq9fP2_dn9uUJyDKFc37XDsviNBnWQGKXBCXT-d-av_564c7MH6KF0Y7pQqgv9G6AuyrZOmuDrrOSfNnAKgIswLekTuwaF2evxJVYOh2MTSDaIvNRoESZi6AAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEScQHrOzAVjIW90aASknGZaYrJZt4XIXbyNbFdvBm0Wrf61rQRWOxAozlShQeoXCVtitljAIR-ZLfqVbgdLocOo0RlDozTHA9OZXpn1ptvQuuCJXkrPa0zBJLerHux23O5U-U7UeXTznGH24J_4D-bAqt7&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEScQHrOzAVjIW90aASknGZaYrJZt4XIXbyNbFdvBm0Wrf61rQRWOxAozlShQeoXCVtitljAIR-ZLfqVbgdLocOo0RlDozTHA9OZXpn1ptvQuuCJXkrPa0zBJLerHux23O5U-U7UeXTznGH24J_4D-bAqt7",
+   "source": "InnerView.org"
+  },
+  {
+   "position": 8,
+   "title": "William Mason High School - Ohio",
+   "link": "https://www.greatschools.org/ohio/mason/4474-William-Mason-High-School/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfwHrOzAVJjDasmk2kUhLUZfBHuhIgy-EPk1N0d0mbPLxKNw3bIHuEr4etiE9j2B3Bv2zSVnbXMo6Hqkl-FFzvihO_30Os3C52gxMuTy-6Nvo4cCDvTuObB3ZtJGzsO9KfTMcMSwCgYhN6y_kmQwXVI85W7UXvzAX-RCAADcyriQ&ved=2ahUKEwj1ztGB4-SWAxW0GVkFHWEXAqEQFnoECF0QAQ&uoh=1",
+   "displayed_link": "https://www.greatschools.org \u203a ohio \u203a 4474-William-M...",
+   "favicon": "https://serpapi.com/images/i/UklGRnABAABXRUJQVlA4IGQBAABQCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_jtuHbtjAbYDcAbyB6AHSlf6oixRzh8GEWsYxJ825M9RhM3gV5vdPb_m98cAA_vi6aS7Pzd7susCq7-6fF19W_uHxnTUiht4Bnli4K1NZlcvWNx_U9wUWYJNt7XaI9c-ByTdyo4mDmlZ-5yiSyr_u7cBW9GjDY0XOwNkf3M-JPMdorcnf5W3JquL_1XhdMWG9MeU4wxsyWrY1EBIhBEe9pptiUN9e6cDdPncpdjgPIvoHDAfly9B5KtVb-rS2mA85vxw-fVfJkvrbkjL-z0L62bhyC1muRYqxX5mA92DT5WC6rg1GKs3vDTWtEWyQkNCx7JpqOrcRh1tXyd6AvX19XcKdTTPG1ozotzAlVyERstS5yUat0Hnv2de5D6l_B6PNH32glgAMU9TscSW7BeznX-ttUqaHqMZfqKDlq_LuvvKpt3UAAA.webp",
+   "snippet": "William Mason High School is a public school in Mason, OH, offering AP courses and a Gifted & Talented program. It is the only high school in Mason City ...",
+   "snippet_highlighted_words": [
+    "William Mason High School",
+    "OH"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 3.0,
+      "reviews": 5
+     },
+     "extensions": [
+      "3.0(5)"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "William Mason High School is a public school in Mason, OH, offering AP courses and a Gifted & Talented program. It is the only high school in Mason City ...",
+     "source_info_link": "https://www.greatschools.org/ohio/mason/4474-William-Mason-High-School/",
+     "icon": "https://serpapi.com/images/i/UklGRnABAABXRUJQVlA4IGQBAABQCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_jtuHbtjAbYDcAbyB6AHSlf6oixRzh8GEWsYxJ825M9RhM3gV5vdPb_m98cAA_vi6aS7Pzd7susCq7-6fF19W_uHxnTUiht4Bnli4K1NZlcvWNx_U9wUWYJNt7XaI9c-ByTdyo4mDmlZ-5yiSyr_u7cBW9GjDY0XOwNkf3M-JPMdorcnf5W3JquL_1XhdMWG9MeU4wxsyWrY1EBIhBEe9pptiUN9e6cDdPncpdjgPIvoHDAfly9B5KtVb-rS2mA85vxw-fVfJkvrbkjL-z0L62bhyC1muRYqxX5mA92DT5WC6rg1GKs3vDTWtEWyQkNCx7JpqOrcRh1tXyd6AvX19XcKdTTPG1ozotzAlVyERstS5yUat0Hnv2de5D6l_B6PNH32glgAMU9TscSW7BeznX-ttUqaHqMZfqKDlq_LuvvKpt3UAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESfwHrOzAVJjDasmk2kUhLUZfBHuhIgy-EPk1N0d0mbPLxKNw3bIHuEr4etiE9j2B3Bv2zSVnbXMo6Hqkl-FFzvihO_30Os3C52gxMuTy-6Nvo4cCDvTuObB3ZtJGzsO9KfTMcMSwCgYhN6y_kmQwXVI85W7UXvzAX-RCAADcyriQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESfwHrOzAVJjDasmk2kUhLUZfBHuhIgy-EPk1N0d0mbPLxKNw3bIHuEr4etiE9j2B3Bv2zSVnbXMo6Hqkl-FFzvihO_30Os3C52gxMuTy-6Nvo4cCDvTuObB3ZtJGzsO9KfTMcMSwCgYhN6y_kmQwXVI85W7UXvzAX-RCAADcyriQ",
+   "source": "GreatSchools"
+  },
+  {
+   "position": 9,
+   "title": "New Student Resources - Mason High School",
+   "link": "https://mhs.masonohioschools.com/aboutmhs/mhs-counseling-department/new-students",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiAEB6zswFRffQU3N_lc_5ZqMOdiKTjKcqlz1uqf6pjIV7UsStPPXgbjg80v7PrRX80QWxE1VL_FJrHAAPhAPt4OOQLdxy32-RnlwtItOA9mtQ_w1OQJhZZgK8cn1wHUXMjQJPexWLyAI1PX23SqrRDaVyhm6bp2Z71tco0d_cWo4-dKZmr-RjyDr&ved=2ahUKEwj1ztGB4-SWAxW0GVkFHWEXAqEQFnoECGEQAQ&uoh=1",
+   "displayed_link": "https://mhs.masonohioschools.com \u203a aboutmhs \u203a new-st...",
+   "favicon": "https://serpapi.com/images/i/UklGRg4BAABXRUJQVlA4IAIBAAAQBgCdASocABwAPtE-tFooIigoFAEAGglsALboTXBXvMJXzO8AhX-P3ctIyuwtGssHGg4XFR3-wAAA_vYCWNaJrDO7Y9LMkjKIsEZEkMCsGM5Q73sS5qgm5hTY7uJ3SC8CRViLrGWbOIy9PGJ-l4don4H754BRg4wHljvmfQlrOQ5ZQ8karbzg6ljOkbJ9tvw9IAApmEnynYjSvH_yByUjUx5i9gv57AriiMfHn5PV8IHbl8dW-mbrJeA9Sv5C-AXLcU558ebPPXQBaA2F-4lCTbyRBvvqhQ_QgtNAMwSQzpcQIOQ6lzjVYHko3ueb2YWbeQNn5nXyHSiy957TF4UHIAA.webp",
+   "snippet": "Mason, Ohio 45040. School Hours. 7:45 - 2 ... Chromebooks and chargers must be returned when a student withdraws from William Mason High School or graduates.",
+   "snippet_highlighted_words": [
+    "Ohio",
+    "William Mason High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Mason, Ohio 45040. School Hours. 7:45 - 2 ... Chromebooks and chargers must be returned when a student withdraws from William Mason High School or graduates.",
+     "source_info_link": "https://mhs.masonohioschools.com/aboutmhs/mhs-counseling-department/new-students",
+     "icon": "https://serpapi.com/images/i/UklGRg4BAABXRUJQVlA4IAIBAAAQBgCdASocABwAPtE-tFooIigoFAEAGglsALboTXBXvMJXzO8AhX-P3ctIyuwtGssHGg4XFR3-wAAA_vYCWNaJrDO7Y9LMkjKIsEZEkMCsGM5Q73sS5qgm5hTY7uJ3SC8CRViLrGWbOIy9PGJ-l4don4H754BRg4wHljvmfQlrOQ5ZQ8karbzg6ljOkbJ9tvw9IAApmEnynYjSvH_yByUjUx5i9gv57AriiMfHn5PV8IHbl8dW-mbrJeA9Sv5C-AXLcU558ebPPXQBaA2F-4lCTbyRBvvqhQ_QgtNAMwSQzpcQIOQ6lzjVYHko3ueb2YWbeQNn5nXyHSiy957TF4UHIAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESiAEB6zswFRffQU3N_lc_5ZqMOdiKTjKcqlz1uqf6pjIV7UsStPPXgbjg80v7PrRX80QWxE1VL_FJrHAAPhAPt4OOQLdxy32-RnlwtItOA9mtQ_w1OQJhZZgK8cn1wHUXMjQJPexWLyAI1PX23SqrRDaVyhm6bp2Z71tco0d_cWo4-dKZmr-RjyDr&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESiAEB6zswFRffQU3N_lc_5ZqMOdiKTjKcqlz1uqf6pjIV7UsStPPXgbjg80v7PrRX80QWxE1VL_FJrHAAPhAPt4OOQLdxy32-RnlwtItOA9mtQ_w1OQJhZZgK8cn1wHUXMjQJPexWLyAI1PX23SqrRDaVyhm6bp2Z71tco0d_cWo4-dKZmr-RjyDr",
+   "source": "Mason High School",
+   "read_more_link": "https://mhs.masonohioschools.com/aboutmhs/mhs-counseling-department/new-students#:~:text=Mason%2C%20Ohio%2045040,7%3A45%20%2D%202%3A30pm&text=Mason%20Connects"
+  },
+  {
+   "position": 10,
+   "title": "Mason City Schools (@masoncityschools)",
+   "link": "https://www.instagram.com/masoncityschools/?hl=en",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVPmIeGS2QAAnCxYl4_fIs0eQ7uVepAZU5xor3uXgceHp8O2tizPXmAjUNiRJT74C7hVHn0opifeyFfzxM3mMC5wvtxQHrK0QdEbPRdC1KD2bG-aRLI--DRg1U0UNnpbqict-yPg&ved=2ahUKEwj1ztGB4-SWAxW0GVkFHWEXAqEQFnoECGYQAQ&uoh=1",
+   "displayed_link": "6.8K+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+   "snippet": "TOP 3% IN THE NATION! William Mason High School has once again been recognized among the nation's top high ...",
+   "snippet_highlighted_words": [
+    "William Mason High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "TOP 3% IN THE NATION! William Mason High School has once again been recognized among the nation's top high ...",
+     "source_info_link": "https://www.instagram.com/masoncityschools/?hl=en",
+     "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESaQHrOzAVPmIeGS2QAAnCxYl4_fIs0eQ7uVepAZU5xor3uXgceHp8O2tizPXmAjUNiRJT74C7hVHn0opifeyFfzxM3mMC5wvtxQHrK0QdEbPRdC1KD2bG-aRLI--DRg1U0UNnpbqict-yPg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESaQHrOzAVPmIeGS2QAAnCxYl4_fIs0eQ7uVepAZU5xor3uXgceHp8O2tizPXmAjUNiRJT74C7hVHn0opifeyFfzxM3mMC5wvtxQHrK0QdEbPRdC1KD2bG-aRLI--DRg1U0UNnpbqict-yPg",
+   "source": "Instagram \u00b7 masoncityschools"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Mason High School Cincinnati",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Mason+High+School+Cincinnati&sa=X&ved=2ahUKEwj1ztGB4-SWAxW0GVkFHWEXAqEQ1QJ6BAhgEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mason+High+School+Cincinnati"
+  },
+  {
+   "block_position": 1,
+   "query": "William Mason High School photos",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=William+Mason+High+School+photos&sa=X&ved=2ahUKEwj1ztGB4-SWAxW0GVkFHWEXAqEQ1QJ6BAh2EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=William+Mason+High+School+photos"
+  },
+  {
+   "block_position": 1,
+   "query": "Mason High School graduating class size",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Mason+High+School+graduating+class+size&sa=X&ved=2ahUKEwj1ztGB4-SWAxW0GVkFHWEXAqEQ1QJ6BAhyEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mason+High+School+graduating+class+size"
+  },
+  {
+   "block_position": 1,
+   "query": "William Mason High School reviews",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=William+Mason+High+School+reviews&sa=X&ved=2ahUKEwj1ztGB4-SWAxW0GVkFHWEXAqEQ1QJ6BAhvEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=William+Mason+High+School+reviews"
+  },
+  {
+   "block_position": 1,
+   "query": "Mason High School enrollment",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Mason+High+School+enrollment&sa=X&ved=2ahUKEwj1ztGB4-SWAxW0GVkFHWEXAqEQ1QJ6BAhpEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mason+High+School+enrollment"
+  },
+  {
+   "block_position": 1,
+   "query": "William Mason High School Yearbook",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=William+Mason+High+School+Yearbook&sa=X&ved=2ahUKEwj1ztGB4-SWAxW0GVkFHWEXAqEQ1QJ6BAhoEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=William+Mason+High+School+Yearbook"
+  },
+  {
+   "block_position": 1,
+   "query": "Mason High School Calendar",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Mason+High+School+Calendar&sa=X&ved=2ahUKEwj1ztGB4-SWAxW0GVkFHWEXAqEQ1QJ6BAhlEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mason+High+School+Calendar"
+  },
+  {
+   "block_position": 1,
+   "query": "Mason High school mascot",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Mason+High+school+mascot&sa=X&ved=2ahUKEwj1ztGB4-SWAxW0GVkFHWEXAqEQ1QJ6BAhkEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mason+High+school+mascot"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22William+Mason+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=ewijarWlNrSz5NoP4a6IiAo&start=10&sa=N&sstk=AS6-VmKkyFUAeSRQAaAG4UgbLgzg93q7UcGhvYqchZHI4Ewgd3sEax3VuneSz59sVk9FtnQT8RSmTn0helEPwWJDX3U3yn0idSoErQ&ved=2ahUKEwj1ztGB4-SWAxW0GVkFHWEXAqEQ8NMDegQIUhAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22William+Mason+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=ewijarWlNrSz5NoP4a6IiAo&start=10&sa=N&sstk=AS6-VmKkyFUAeSRQAaAG4UgbLgzg93q7UcGhvYqchZHI4Ewgd3sEax3VuneSz59sVk9FtnQT8RSmTn0helEPwWJDX3U3yn0idSoErQ&ved=2ahUKEwj1ztGB4-SWAxW0GVkFHWEXAqEQ8tMDegQIUhAE",
+   "3": "https://www.google.com/search?q=%22William+Mason+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=ewijarWlNrSz5NoP4a6IiAo&start=20&sa=N&sstk=AS6-VmKkyFUAeSRQAaAG4UgbLgzg93q7UcGhvYqchZHI4Ewgd3sEax3VuneSz59sVk9FtnQT8RSmTn0helEPwWJDX3U3yn0idSoErQ&ved=2ahUKEwj1ztGB4-SWAxW0GVkFHWEXAqEQ8tMDegQIUhAG",
+   "4": "https://www.google.com/search?q=%22William+Mason+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=ewijarWlNrSz5NoP4a6IiAo&start=30&sa=N&sstk=AS6-VmKkyFUAeSRQAaAG4UgbLgzg93q7UcGhvYqchZHI4Ewgd3sEax3VuneSz59sVk9FtnQT8RSmTn0helEPwWJDX3U3yn0idSoErQ&ved=2ahUKEwj1ztGB4-SWAxW0GVkFHWEXAqEQ8tMDegQIUhAI",
+   "5": "https://www.google.com/search?q=%22William+Mason+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=ewijarWlNrSz5NoP4a6IiAo&start=40&sa=N&sstk=AS6-VmKkyFUAeSRQAaAG4UgbLgzg93q7UcGhvYqchZHI4Ewgd3sEax3VuneSz59sVk9FtnQT8RSmTn0helEPwWJDX3U3yn0idSoErQ&ved=2ahUKEwj1ztGB4-SWAxW0GVkFHWEXAqEQ8tMDegQIUhAK",
+   "6": "https://www.google.com/search?q=%22William+Mason+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=ewijarWlNrSz5NoP4a6IiAo&start=50&sa=N&sstk=AS6-VmKkyFUAeSRQAaAG4UgbLgzg93q7UcGhvYqchZHI4Ewgd3sEax3VuneSz59sVk9FtnQT8RSmTn0helEPwWJDX3U3yn0idSoErQ&ved=2ahUKEwj1ztGB4-SWAxW0GVkFHWEXAqEQ8tMDegQIUhAM",
+   "7": "https://www.google.com/search?q=%22William+Mason+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=ewijarWlNrSz5NoP4a6IiAo&start=60&sa=N&sstk=AS6-VmKkyFUAeSRQAaAG4UgbLgzg93q7UcGhvYqchZHI4Ewgd3sEax3VuneSz59sVk9FtnQT8RSmTn0helEPwWJDX3U3yn0idSoErQ&ved=2ahUKEwj1ztGB4-SWAxW0GVkFHWEXAqEQ8tMDegQIUhAO",
+   "8": "https://www.google.com/search?q=%22William+Mason+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=ewijarWlNrSz5NoP4a6IiAo&start=70&sa=N&sstk=AS6-VmKkyFUAeSRQAaAG4UgbLgzg93q7UcGhvYqchZHI4Ewgd3sEax3VuneSz59sVk9FtnQT8RSmTn0helEPwWJDX3U3yn0idSoErQ&ved=2ahUKEwj1ztGB4-SWAxW0GVkFHWEXAqEQ8tMDegQIUhAQ",
+   "9": "https://www.google.com/search?q=%22William+Mason+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=ewijarWlNrSz5NoP4a6IiAo&start=80&sa=N&sstk=AS6-VmKkyFUAeSRQAaAG4UgbLgzg93q7UcGhvYqchZHI4Ewgd3sEax3VuneSz59sVk9FtnQT8RSmTn0helEPwWJDX3U3yn0idSoErQ&ved=2ahUKEwj1ztGB4-SWAxW0GVkFHWEXAqEQ8tMDegQIUhAS",
+   "10": "https://www.google.com/search?q=%22William+Mason+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=ewijarWlNrSz5NoP4a6IiAo&start=90&sa=N&sstk=AS6-VmKkyFUAeSRQAaAG4UgbLgzg93q7UcGhvYqchZHI4Ewgd3sEax3VuneSz59sVk9FtnQT8RSmTn0helEPwWJDX3U3yn0idSoErQ&ved=2ahUKEwj1ztGB4-SWAxW0GVkFHWEXAqEQ8tMDegQIUhAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22William+Mason+High+School%22+Ohio&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22William+Mason+High+School%22+Ohio&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22William+Mason+High+School%22+Ohio&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22William+Mason+High+School%22+Ohio&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22William+Mason+High+School%22+Ohio&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22William+Mason+High+School%22+Ohio&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22William+Mason+High+School%22+Ohio&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22William+Mason+High+School%22+Ohio&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22William+Mason+High+School%22+Ohio&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22William+Mason+High+School%22+Ohio&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22William+Mason+High+School%22+Ohio&start=90"
+  }
+ }
+}

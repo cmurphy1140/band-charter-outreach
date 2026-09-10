@@ -1,0 +1,486 @@
+{
+ "search_information": {
+  "query_displayed": "\"Martin Luther King, Jr. High School\" Georgia",
+  "total_results": 205000,
+  "time_taken_displayed": 0.32,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Martin Luther King High School",
+  "type": "Public school in Lithonia, Georgia",
+  "entity_type": "local_nav",
+  "kgmid": "/m/025w6dh",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/025w6dh&hl=en-US&q=Martin+Luther+King+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F025w6dh&q=Martin+Luther+King+High+School",
+  "place_id": "ChIJKd1aLU2r9YgRfNLEwI1Lcss",
+  "website": "https://www.mlkinghs.dekalb.k12.ga.us/",
+  "description": "Martin Luther King Jr. High School is a public high school located in unincorporated DeKalb County, Georgia, United States, with a Lithonia postal address. It opened in August 2001 as the newest high school in the DeKalb County School System, and was named after the late civil rights leader Martin Luther King Jr.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa30f892771433448edec87/images/Oy7uPVggCkvfOL13CvAAFVyPvie--a0qyjdIKMX-GaY.webp",
+   "link": "https://www.google.com/maps/place/Martin+Luther+King+High+School/data=!4m2!3m1!1s0x0:0xcb724b8dc0c4d27c?sa=X&ved=2ahUKEwjd8-3h6eSWAxVngFYBHdQTKw0Q_BJ6BAgPEAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr._High_School_(Georgia)"
+  },
+  "address": "3991 Snapfinger Rd, Stonecrest, GA 30038",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=martin+luther+king+jr.+high+school+address&ludocid=14659862809240982140&sa=X&ved=2ahUKEwjd8-3h6eSWAxVngFYBHdQTKw0Q6BN6BAgjEAI"
+   }
+  ],
+  "founded": "August 2001",
+  "colors": "Crimson, Black, Silver",
+  "colors_links": [
+   {
+    "text": "Crimson",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yVYJQhXoKZeeJXN6aYl8PtL4VG-acvrobJLViz5zaa2qKQltvW_ZODvkxjlh-S__N-RxgXntRG4BFh7UxVDtulhalZi1aOgHZI0IWbFNM37MJMJYSBLbnaXv-XPK_QhKWJCF9Et84H1JMeCXSJdlRP1YljSTKPB-Ml65L0LtjXTi41I6a2PHUY7ULAUuSshfAirL5g8%3D&sa=X&ved=2ahUKEwjd8-3h6eSWAxVngFYBHdQTKw0QmxN6BAgiEAI"
+   },
+   {
+    "text": "Black",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpraX69jV5X33UKfb-qjUYOsjWjX7nO47WTc3bfTI9Y65IJUjHlG5B3G9nl-CMWDzDGobFsYYtIYdeQyO_Nb4NJuoz7-Jb4D1q0wV_y-GgCsuHA_CNuU2UJd6wriIYY0UBHO2Sfa5KNZhKEk8npxVUZEew5oP61PTIFTT-Fgoc6yvuDCz1VrWojWNg46YbYExt3vEymo%3D&sa=X&ved=2ahUKEwjd8-3h6eSWAxVngFYBHdQTKw0QmxN6BAgiEAM"
+   },
+   {
+    "text": "Silver",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yTZg2B97QDgTl8QeoF0Lqtnahv_J1m39M9qmkuDXjbuOLU45Gb1sOwdEQPX1cRfQDtxaryCiLjnU5drKK66gCAAN7pUTKsKawkYRY-2suZImUeqj6fZdOHX7ar8OTRYkaeqAD4EFnaKAMg1azcFMw31HcmOhYTaG_mJOcNpi8_7y_gN1iv7Dytu_Z_iAgiKl3OYd2mM%3D&sa=X&ved=2ahUKEwjd8-3h6eSWAxVngFYBHdQTKw0QmxN6BAgiEAQ"
+   }
+  ],
+  "school_types": "High school, State school",
+  "school_types_links": [
+   {
+    "text": "High school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=High+school&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMppXfNh-OkLk_azmU0uk1AX8sk8s1-2uDG13xvljBKYj-62BC653CUwqsnPBoRGsmoAhp8N1FFUjPXYR75tXwHhUXWv8UBnIL4TF0z5QyYwumaZ8_WLzDGd5YSLlXeYlJ5gyiDfhKDTwFxvTJawSL5Y75L9xT7ofe-1ByONfPiLTwHdFnRubMosxQ3nYPpsoyuuF5K1GlCii7CYkwM9R9Ez2YWQM8im8QR6uVyz4WzaBwU_9r3DWHzaKKdCkI_CQWEX1hsPY%3D&sa=X&ved=2ahUKEwjd8-3h6eSWAxVngFYBHdQTKw0QmxN6BAgmEAI"
+   },
+   {
+    "text": "State school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=State+school&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ybGtCxI0H8z2nV80srIO5hizwNtt3Ym6Fi28M6pFzMpba6xCjNFIQKbDb7W_yOsUKzHP6t0BoDIq84DgtktiHBvFqPDhCTDRJvE6JLQvR7EaMliEQdYXx6MSWVwPB_K6DjxEYhIL0Uv8tCHm3Tz3JyTN83J63txZt1sKQyr_xgCu8SZAFzKC8C-mWSDErmQrkYT9l79OB1TfPb9P4YQVvHNuVUxbH25wSwy72IPT-50q4Gk0gcmRkklDviop76JQqb6MAnU%3D&sa=X&ved=2ahUKEwjd8-3h6eSWAxVngFYBHdQTKw0QmxN6BAgmEAM"
+   }
+  ],
+  "phone": "(678) 874-5402",
+  "raw_hours": "Closed \u00b7 Opens 7 AM Fri",
+  "hours": {
+   "thursday": {
+    "opens": "7\u202fAM",
+    "closes": "3:20\u202fPM"
+   },
+   "friday": {
+    "opens": "7\u202fAM",
+    "closes": "3:20\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "7\u202fAM",
+    "closes": "3:20\u202fPM"
+   },
+   "tuesday": {
+    "opens": "7\u202fAM",
+    "closes": "3:20\u202fPM"
+   },
+   "wednesday": {
+    "opens": "7\u202fAM",
+    "closes": "3:20\u202fPM"
+   }
+  },
+  "unclaimed_listing": true,
+  "people_also_search_for": [
+   {
+    "name": "Arabia Mountain High School",
+    "image": "https://serpapi.com/searches/6aa30f892771433448edec87/images/Oy7uPVggCkvfOL13CvAAFSqbTlP1eVuFWTU1SjuB5sVC-pWTFK8QyaMbZCzgxG94.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKllX05q7xl66dAosm6nb1iufu-bJlxCkZH1IWMVBt1d4EnHPt8tHgcqtbz7yW2eruhSlQf7DZrDuGd13sH-lkPYMTTHsUu7tSpDkW1CrtgGroFCPcqCslus6Weo_uHBK0B05UBXErH1UVdmutnRf-hExAaT05CuQdZjXkRWn0OXCZ-SbIUOYwLWev9P5urcK109OIhUMjbfsT1HVjuuXXmdKAl2g9veB2TItUxE14EyBoYUac-eSP5Dj-Kwh-GoSyY7uFZt7NDfpM0c7x6JcnGtSTFkTYC_ew6KDhd0p5i6IVJfLCvpCYxzmn4eSd2xHYErCbfE&q=Arabia+Mountain+High+School&sa=X&ved=2ahUKEwjd8-3h6eSWAxVngFYBHdQTKw0Qs9oBKAB6BAgeEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Arabia+Mountain+High+School&si=APenkKllX05q7xl66dAosm6nb1iufu-bJlxCkZH1IWMVBt1d4EnHPt8tHgcqtbz7yW2eruhSlQf7DZrDuGd13sH-lkPYMTTHsUu7tSpDkW1CrtgGroFCPcqCslus6Weo_uHBK0B05UBXErH1UVdmutnRf-hExAaT05CuQdZjXkRWn0OXCZ-SbIUOYwLWev9P5urcK109OIhUMjbfsT1HVjuuXXmdKAl2g9veB2TItUxE14EyBoYUac-eSP5Dj-Kwh-GoSyY7uFZt7NDfpM0c7x6JcnGtSTFkTYC_ew6KDhd0p5i6IVJfLCvpCYxzmn4eSd2xHYErCbfE"
+   },
+   {
+    "name": "Redan High School",
+    "image": "https://serpapi.com/searches/6aa30f892771433448edec87/images/Oy7uPVggCkvfOL13CvAAFSqbTlP1eVuFWTU1SjuB5sVVEN4xz4xe8ls6qo9XMnTs.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yea-xW840NveEq7zN7zazGS-lVE2sQajnR_Ff8ukAtgoJJoIWevWCGXkn4lhb8v57v5_WWQT-XaiNM0L3zikVzwFJF0x5PoeC6AMHRwWUxAyrCi8JlaZ1AVDiRBLL2ZWRxldRr6_CaK4y-0aLfiW0NHKNSE1nNp7OzWw2DTFKLS01RuV4f7eZRlPvURRGDa_DIgIgecL-0CfRz4mULDWV__IpLXRn6YO9zIMWauOdUfd8QYsGd1IdcjaSuVyMd2yZgUx_u4%3D&q=Redan+High+School&sa=X&ved=2ahUKEwjd8-3h6eSWAxVngFYBHdQTKw0Qs9oBKAB6BAgeEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Redan+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yea-xW840NveEq7zN7zazGS-lVE2sQajnR_Ff8ukAtgoJJoIWevWCGXkn4lhb8v57v5_WWQT-XaiNM0L3zikVzwFJF0x5PoeC6AMHRwWUxAyrCi8JlaZ1AVDiRBLL2ZWRxldRr6_CaK4y-0aLfiW0NHKNSE1nNp7OzWw2DTFKLS01RuV4f7eZRlPvURRGDa_DIgIgecL-0CfRz4mULDWV__IpLXRn6YO9zIMWauOdUfd8QYsGd1IdcjaSuVyMd2yZgUx_u4%3D"
+   },
+   {
+    "name": "Lithonia High School",
+    "image": "https://serpapi.com/searches/6aa30f892771433448edec87/images/Oy7uPVggCkvfOL13CvAAFSqbTlP1eVuFWTU1SjuB5sVhh7dHzFxgb37veCJDReAq.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW674XOpGjzAMkW6rZ7XKd-awZqegUy8hmwNV9Dk1Onk2AbSkVg9Z0p-gEhrsyM6dinDCZNRmugL0dn7rO3MpEowRj3x4xxN64ZdMjCD1UXhtUYfyo0oe2NcRnTgFYPdNvm70yFJEwT-TEzygitgEMvNyDNrhLg46NEcB93Afi8Rx1RQTsWAnRfpmojxjrXo-zNLP8_b08ymBSPD1ETFLrPhfe1npgTqfevXoSjZOLOABULMBKYOsItVPkmi000WylgnbijYRLD1P_pqahoKWGyl8ueUQGf&q=Lithonia+High+School&sa=X&ved=2ahUKEwjd8-3h6eSWAxVngFYBHdQTKw0Qs9oBKAB6BAgeEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Lithonia+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW674XOpGjzAMkW6rZ7XKd-awZqegUy8hmwNV9Dk1Onk2AbSkVg9Z0p-gEhrsyM6dinDCZNRmugL0dn7rO3MpEowRj3x4xxN64ZdMjCD1UXhtUYfyo0oe2NcRnTgFYPdNvm70yFJEwT-TEzygitgEMvNyDNrhLg46NEcB93Afi8Rx1RQTsWAnRfpmojxjrXo-zNLP8_b08ymBSPD1ETFLrPhfe1npgTqfevXoSjZOLOABULMBKYOsItVPkmi000WylgnbijYRLD1P_pqahoKWGyl8ueUQGf"
+   },
+   {
+    "name": "Southwest DeKalb High School",
+    "image": "https://serpapi.com/searches/6aa30f892771433448edec87/images/Oy7uPVggCkvfOL13CvAAFSqbTlP1eVuFWTU1SjuB5sUWJss-uA9RybhCxwAeDwf3.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67xiK7W4Wm1Fvvq92HQEYWtoIIrViTPB0doa0DWF8rBH1HDb5n3acz_7RRTsuLcFhnjY3tJVh7RnDvhlleOvBfeCOqzAf7V9J92r5F5yHAE7x0Z_ZLbiIhcw5BedFpTzGLXRClpA7fFSXCYL3TZO7aUP_3Xr7Q9TEj5BkBXjvM-TpnODAJ0OamHKifMoVJ_JX4YR1rIcoKPW33zEZgLsdxC375-UUgSqG7sPdWD4XBU4b0NtLh4iiVQxZmHE92PbCI9jsRxhVZ4bxLyTziwhbLaKNqMco&q=Southwest+DeKalb+High+School&sa=X&ved=2ahUKEwjd8-3h6eSWAxVngFYBHdQTKw0Qs9oBKAB6BAgeEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Southwest+DeKalb+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67xiK7W4Wm1Fvvq92HQEYWtoIIrViTPB0doa0DWF8rBH1HDb5n3acz_7RRTsuLcFhnjY3tJVh7RnDvhlleOvBfeCOqzAf7V9J92r5F5yHAE7x0Z_ZLbiIhcw5BedFpTzGLXRClpA7fFSXCYL3TZO7aUP_3Xr7Q9TEj5BkBXjvM-TpnODAJ0OamHKifMoVJ_JX4YR1rIcoKPW33zEZgLsdxC375-UUgSqG7sPdWD4XBU4b0NtLh4iiVQxZmHE92PbCI9jsRxhVZ4bxLyTziwhbLaKNqMco"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Martin+Luther+King+Jr.+High+School&stick=H4sIAAAAAAAAAONgFuLSz9U3MDItN0vJUEJiawkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axKrkm1hUkpmn4FNakpFapOCdmZeu4FWkp-CRmZ6hEJyckZ-fs4OV8RabJMMbh4rAXL6mziXhhodYtRdtjkgKtkkP-34cAChoMRaKAAAA&sa=X&ved=2ahUKEwjd8-3h6eSWAxVngFYBHdQTKw0QzO0BKAR6BAgeEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLSz9U3MDItN0vJUEJiawkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axKrkm1hUkpmn4FNakpFapOCdmZeu4FWkp-CRmZ6hEJyckZ-fs4OV8RabJMMbh4rAXL6mziXhhodYtRdtjkgKtkkP-34cAChoMRaKAAAA",
+  "profiles": [
+   {
+    "name": "X (Twitter)",
+    "link": "https://twitter.com/MLKLionsHoops",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Martin+Luther+King%2C+Jr.+High+School%22+Georgia",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAABhUlEQVR4AczOA6xcARCF4X_us23btuLUQR3WZlhbQW3bto2gtm3b2J3GN4tY74uHh3okOi42Nj4AAUDwTvDEhisABCOAEAzYTBh0bN-lc5d0QgAhHPqX4Y4pkd367Zc-xMcXCPDg8TPwxeQH724Uj9N95GJ4pnHxby1xgCmV3v-GsFb7k0Iee7UjaQgmIYe9v9O4-wUKWaATyMPAViwvr1NnOQWDdTV5CHYSaKWLmaGDyvU4mTgQcllracaFr-9uk-yLM8k8fAJff0IUTghRVFu3M1ynkYk4nchiqqU3Ry05RDibMMhjtj6Ht3dJxVk_l1G64cspOusychBsCWm01WNM0jFs0sbEYUtIIuTXNco588OLh09JxE6wweuXEAvfL9PQus3-iU80N34KCaQyUOcxTTuSjEmMRI5rS9JwIZfD1t7ceo34YIpnuQ4nGwP8XXlq_fJZd9jE8KBHC5IwAELJ7dWrZ6fOuNhkgFgAEEIAwA1MQkw0AgDC_wnKycrKSQ2iPAkAVyNzq8rxicIAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/mlk_footballga/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Martin+Luther+King%2C+Jr.+High+School%22+Georgia",
+    "image": "https://serpapi.com/searches/6aa30f892771433448edec87/images/Oy7uPVggCkvfOL13CvAAFXq6bPpP-LkeaV3F7ONi7vObyU1BMKlnTeFocgqfcOuU.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "Was Martin Luther King Jr. born in Atlanta, GA?",
+   "type": "ai_overview",
+   "page_token": "nNdY5XicHdBLcpswAADQyWWyjBGEtPaMpzMEhE35RLJ-aNMBYVsB8YmtxoVdbpBD9FQ9TTvdvfX7-G1eh-7P3ae2drpuVqvb7fZwHsezOT6osV9V13lQK1UZU1eq2zx9eQLfTmobvZfB80UFiE4TC7FzoAChQVvhdF4WGl7F6yTbGYe0wfci8nnKG8oFHFKBi8rBJQLnRzmDpQHyJ4d539BENxADJeRzvZgYtbKoW52iYfQUWw_yANIilrSJ9Em4ltbCwGq3XxiDSc1_tbwr3bLzKSEyz3rtVZ1-OVBpj2EzM7gHGZVh2TYwJdocjRb_TBlhe-FqmztTkItg5oblBcdJs2teqiixJX_0a2-aVPzVz-LRzTiOCKBOpOUFHcBbKdCiOmYkjWbVr1FGrVEuxPFrEuBdPhdcErKoW-2WPulsibm5IrOO8wVfSQh9KpiLSBDcn9T71rv_P739certZrqM57-0NouH",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=nNdY5XicHdBLcpswAADQyWWyjBGEtPaMpzMEhE35RLJ-aNMBYVsB8YmtxoVdbpBD9FQ9TTvdvfX7-G1eh-7P3ae2drpuVqvb7fZwHsezOT6osV9V13lQK1UZU1eq2zx9eQLfTmobvZfB80UFiE4TC7FzoAChQVvhdF4WGl7F6yTbGYe0wfci8nnKG8oFHFKBi8rBJQLnRzmDpQHyJ4d539BENxADJeRzvZgYtbKoW52iYfQUWw_yANIilrSJ9Em4ltbCwGq3XxiDSc1_tbwr3bLzKSEyz3rtVZ1-OVBpj2EzM7gHGZVh2TYwJdocjRb_TBlhe-FqmztTkItg5oblBcdJs2teqiixJX_0a2-aVPzVz-LRzTiOCKBOpOUFHcBbKdCiOmYkjWbVr1FGrVEuxPFrEuBdPhdcErKoW-2WPulsibm5IrOO8wVfSQh9KpiLSBDcn9T71rv_P739certZrqM57-0NouH",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS2FFNWphMjF1UkRsc1RHSXdNV1k0TlRKdlNVcEhWM0poTlRSRWFWTXljbXhFYWxjMldXY3hhMVIxYVRsWmNHRlVTRWs0VGt4MGNuWlNTMTkxY25SclVsODVTbUpJVkZoT2JXUkhUREJaTW1OTFpYSXlVRFpUVjJaV1p4SVdhMEV0YW1GME0zSkZaV1ZCTW5KdlVERkxaWE5oVVJvaVFVUnpjamxtVkMxUlpuSkNaRjlGWmtFd1N6SlBiR0pMUVhsVWNtTldUWEJuUVEiLCJmY3YiOiIzIiwiZWkiOiJrQS1qYXQzckVlZUEycm9QMUtlc2FRIiwicWMiOiJDaWx0WVhKMGFXNGdiSFYwYUdWeUlHdHBibWNnYW5JZ2FHbG5hQ0J6WTJodmIyd2daMlZ2Y21kcFlSQUFmYklZTUQ4IiwicXVlc3Rpb24iOiJXYXMgTWFydGluIEx1dGhlciBLaW5nIEpyLiBib3JuIGluIEF0bGFudGEsIEdBPyIsImxrIjoiR2pGdFlYSjBhVzRnYkhWMGFHVnlJR3RwYm1jZ2FuSWdkMkZ6SUdKdmNtNGdhVzRnWVhSc1lXNTBZU0JuWlc5eVoybGgiLCJicyI6ImM0V1FPd3ZDTUJTRmNjM2szT21BcUlzbzF1NVNGQVFmZzFQbnE0MUpiRXdnalJUX3ZhMUJFWl9yNWZ2T1BmZXlBeHRsVkdKRHppdUQ5ZGxMN3JCU1JtRHBodGhaWjFEUFU2X0plQnBna1U3alNUUS1CVndIdkdqd28wTlZCOTBOQ2dZRXQwNG9ZbHZXeXlSNXFCSzFnODRZVWdtSmNpLXQxWTJ3Q09BMDdrZmQ2aWQ1anp5eVNWYXY1OGhWX3UwQVllSHRjOEN0ZnZYUVBoX3laakhOa3VmNlZ1ZTg5S19GNW54RmVvZVpQUnRfQ2I5S29yajY2LVc4YUx6OXpZT2dkdXNLIiwiaWQiOiJmY19rQS1qYXQzckVlZUEycm9QMUtlc2FRXzIifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS2FFNWphMjF1UkRsc1RHSXdNV1k0TlRKdlNVcEhWM0poTlRSRWFWTXljbXhFYWxjMldXY3hhMVIxYVRsWmNHRlVTRWs0VGt4MGNuWlNTMTkxY25SclVsODVTbUpJVkZoT2JXUkhUREJaTW1OTFpYSXlVRFpUVjJaV1p4SVdhMEV0YW1GME0zSkZaV1ZCTW5KdlVERkxaWE5oVVJvaVFVUnpjamxtVkMxUlpuSkNaRjlGWmtFd1N6SlBiR0pMUVhsVWNtTldUWEJuUVEiLCJmY3YiOiIzIiwiZWkiOiJrQS1qYXQzckVlZUEycm9QMUtlc2FRIiwicWMiOiJDaWx0WVhKMGFXNGdiSFYwYUdWeUlHdHBibWNnYW5JZ2FHbG5hQ0J6WTJodmIyd2daMlZ2Y21kcFlSQUFmYklZTUQ4IiwicXVlc3Rpb24iOiJXYXMgTWFydGluIEx1dGhlciBLaW5nIEpyLiBib3JuIGluIEF0bGFudGEsIEdBPyIsImxrIjoiR2pGdFlYSjBhVzRnYkhWMGFHVnlJR3RwYm1jZ2FuSWdkMkZ6SUdKdmNtNGdhVzRnWVhSc1lXNTBZU0JuWlc5eVoybGgiLCJicyI6ImM0V1FPd3ZDTUJTRmNjM2szT21BcUlzbzF1NVNGQVFmZzFQbnE0MUpiRXdnalJUX3ZhMUJFWl9yNWZ2T1BmZXlBeHRsVkdKRHppdUQ5ZGxMN3JCU1JtRHBodGhaWjFEUFU2X0plQnBna1U3alNUUS1CVndIdkdqd28wTlZCOTBOQ2dZRXQwNG9ZbHZXeXlSNXFCSzFnODRZVWdtSmNpLXQxWTJ3Q09BMDdrZmQ2aWQ1anp5eVNWYXY1OGhWX3UwQVllSHRjOEN0ZnZYUVBoX3laakhOa3VmNlZ1ZTg5S19GNW54RmVvZVpQUnRfQ2I5S29yajY2LVc4YUx6OXpZT2dkdXNLIiwiaWQiOiJmY19rQS1qYXQzckVlZUEycm9QMUtlc2FRXzIifQ%3D%3D"
+  },
+  {
+   "question": "What is the #1 high school in Georgia?",
+   "type": "ai_overview",
+   "page_token": "hX3bhHicHdDPboIwAIDx7GU8yj9x0cQsYxTRhRIKLdDLAi2K0AIqCnLbu-yp9jQzu36nX77vH3Fq6t-Xvuz77rpWlGEY5se2PYpizlqpZNdHwxSWCZFnrF4vX5fa24FtwA1YH-edFeCuIzZSQ7mvfKcERZMauc7MzLZMFHGd2sEUqMPIgafHogMFaM2iJmEh-yp3vIklhOSgvHgNtOMth4XL61BymBvtAgHu-YkYCEHU02mZu-hSJGyIpvdFbPMOutY93NIgqoma1-iM9dVANZ5ytR5D27H4s0ODI7IlkJJ9SxueogY_rVAjsZAcaEYsuYkrIX0MG991PikYH7ltGaCklyDUzmkSTKwmgmLwYHIVeLgXTHfQ9rS3kAsffkwRTaDtxZ5aJOKWVUzj2k6P5HjCTmmxCl1jrDWzA7tvjNn_zc3XQfbr7tIe_wCarIMZ",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=hX3bhHicHdDPboIwAIDx7GU8yj9x0cQsYxTRhRIKLdDLAi2K0AIqCnLbu-yp9jQzu36nX77vH3Fq6t-Xvuz77rpWlGEY5se2PYpizlqpZNdHwxSWCZFnrF4vX5fa24FtwA1YH-edFeCuIzZSQ7mvfKcERZMauc7MzLZMFHGd2sEUqMPIgafHogMFaM2iJmEh-yp3vIklhOSgvHgNtOMth4XL61BymBvtAgHu-YkYCEHU02mZu-hSJGyIpvdFbPMOutY93NIgqoma1-iM9dVANZ5ytR5D27H4s0ODI7IlkJJ9SxueogY_rVAjsZAcaEYsuYkrIX0MG991PikYH7ltGaCklyDUzmkSTKwmgmLwYHIVeLgXTHfQ9rS3kAsffkwRTaDtxZ5aJOKWVUzj2k6P5HjCTmmxCl1jrDWzA7tvjNn_zc3XQfbr7tIe_wCarIMZ",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS2FFNWphMjF1UkRsc1RHSXdNV1k0TlRKdlNVcEhWM0poTlRSRWFWTXljbXhFYWxjMldXY3hhMVIxYVRsWmNHRlVTRWs0VGt4MGNuWlNTMTkxY25SclVsODVTbUpJVkZoT2JXUkhUREJaTW1OTFpYSXlVRFpUVjJaV1p4SVdhMEV0YW1GME0zSkZaV1ZCTW5KdlVERkxaWE5oVVJvaVFVUnpjamxtVkMxUlpuSkNaRjlGWmtFd1N6SlBiR0pMUVhsVWNtTldUWEJuUVEiLCJmY3YiOiIzIiwiZWkiOiJrQS1qYXQzckVlZUEycm9QMUtlc2FRIiwicWMiOiJDaWx0WVhKMGFXNGdiSFYwYUdWeUlHdHBibWNnYW5JZ2FHbG5hQ0J6WTJodmIyd2daMlZ2Y21kcFlSQUFmYklZTUQ4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSAjMSBoaWdoIHNjaG9vbCBpbiBHZW9yZ2lhPyIsImxrIjoiR2lWM2FHRjBJR2x6SUhSb1pTQWpNU0JvYVdkb0lITmphRzl2YkNCcGJpQm5aVzl5WjJsaCIsImJzIjoiYzRXUU93dkNNQlNGY2MzazNPbUFxSXNvMXU1U0ZBUWZnMVBucTQxSmJFd2dqUlRfdmExQkVaX3I1ZnZPUGZleUF4dGxWR0pEeml1RDlkbEw3ckJTUm1EcGh0aFpaMURQVTZfSmVCcGdrVTdqU1RRLUJWd0h2R2p3bzBOVkI5ME5DZ1lFdDA0b1lsdld5eVI1cUJLMWc4NFlVZ21KY2ktdDFZMndDT0EwN2tmZDZpZDVqenl5U1ZhdjU4aFZfdTBBWWVIdGM4Q3RmdlhRUGhfeVpqSE5rdWY2VnVlODlLX0Y1bnhGZW9lWlBSdF9DYjlLb3JqNjYtVzhhTHo5ellPZ2R1c0siLCJpZCI6ImZjX2tBLWphdDNyRWVlQTJyb1AxS2VzYVFfMiJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS2FFNWphMjF1UkRsc1RHSXdNV1k0TlRKdlNVcEhWM0poTlRSRWFWTXljbXhFYWxjMldXY3hhMVIxYVRsWmNHRlVTRWs0VGt4MGNuWlNTMTkxY25SclVsODVTbUpJVkZoT2JXUkhUREJaTW1OTFpYSXlVRFpUVjJaV1p4SVdhMEV0YW1GME0zSkZaV1ZCTW5KdlVERkxaWE5oVVJvaVFVUnpjamxtVkMxUlpuSkNaRjlGWmtFd1N6SlBiR0pMUVhsVWNtTldUWEJuUVEiLCJmY3YiOiIzIiwiZWkiOiJrQS1qYXQzckVlZUEycm9QMUtlc2FRIiwicWMiOiJDaWx0WVhKMGFXNGdiSFYwYUdWeUlHdHBibWNnYW5JZ2FHbG5hQ0J6WTJodmIyd2daMlZ2Y21kcFlSQUFmYklZTUQ4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSAjMSBoaWdoIHNjaG9vbCBpbiBHZW9yZ2lhPyIsImxrIjoiR2lWM2FHRjBJR2x6SUhSb1pTQWpNU0JvYVdkb0lITmphRzl2YkNCcGJpQm5aVzl5WjJsaCIsImJzIjoiYzRXUU93dkNNQlNGY2MzazNPbUFxSXNvMXU1U0ZBUWZnMVBucTQxSmJFd2dqUlRfdmExQkVaX3I1ZnZPUGZleUF4dGxWR0pEeml1RDlkbEw3ckJTUm1EcGh0aFpaMURQVTZfSmVCcGdrVTdqU1RRLUJWd0h2R2p3bzBOVkI5ME5DZ1lFdDA0b1lsdld5eVI1cUJLMWc4NFlVZ21KY2ktdDFZMndDT0EwN2tmZDZpZDVqenl5U1ZhdjU4aFZfdTBBWWVIdGM4Q3RmdlhRUGhfeVpqSE5rdWY2VnVlODlLX0Y1bnhGZW9lWlBSdF9DYjlLb3JqNjYtVzhhTHo5ellPZ2R1c0siLCJpZCI6ImZjX2tBLWphdDNyRWVlQTJyb1AxS2VzYVFfMiJ9"
+  },
+  {
+   "question": "Where did Martin Luther King Jr. go to high school?",
+   "type": "ai_overview",
+   "page_token": "2I4-1XicHdBLbqMwAABQzWWyTGwyZESkaBTKr7R2i41N8aYCm0CC-TQwJbCbG8wheqqeptVs3_L9_dDntv788a8ax37YbzbTNK3Lrit1sZZds8mGuZUbmWmdZ7Le737t4O-TPLjvqX13lXbE-p47BMR--VPV00K1PcZt38UM8oJ3pnLCAAO8Yy4DiFmDcPtG-hZndWmkYCRIi-4xGbaZASMEdJZu2ay0FZK4grzWS_zCsTSwg7h9ZpwshStuaVNNj_xopgA_09pMmOPdqUY9EG5dksQDEvYnegkpbcNQJWrI2-OMAg4zHdrUqHZPQdWQpH9mTMc0wAFbNMrjCufAgoXLRuIrhOERIui95bUZffs9cQhVFxsUHNtuJa4RhW_pS7TImmvB3Fk2VoTYqKXhEf8c2iTA81MiiArCP6QV18THt7QtTd4ITwE45v6NCagf8hmS1Um-H7ar_9OH11Mz7vtrV34BYRmK9Q",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=2I4-1XicHdBLbqMwAABQzWWyTGwyZESkaBTKr7R2i41N8aYCm0CC-TQwJbCbG8wheqqeptVs3_L9_dDntv788a8ax37YbzbTNK3Lrit1sZZds8mGuZUbmWmdZ7Le737t4O-TPLjvqX13lXbE-p47BMR--VPV00K1PcZt38UM8oJ3pnLCAAO8Yy4DiFmDcPtG-hZndWmkYCRIi-4xGbaZASMEdJZu2ay0FZK4grzWS_zCsTSwg7h9ZpwshStuaVNNj_xopgA_09pMmOPdqUY9EG5dksQDEvYnegkpbcNQJWrI2-OMAg4zHdrUqHZPQdWQpH9mTMc0wAFbNMrjCufAgoXLRuIrhOERIui95bUZffs9cQhVFxsUHNtuJa4RhW_pS7TImmvB3Fk2VoTYqKXhEf8c2iTA81MiiArCP6QV18THt7QtTd4ITwE45v6NCagf8hmS1Um-H7ar_9OH11Mz7vtrV34BYRmK9Q",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS2FFNWphMjF1UkRsc1RHSXdNV1k0TlRKdlNVcEhWM0poTlRSRWFWTXljbXhFYWxjMldXY3hhMVIxYVRsWmNHRlVTRWs0VGt4MGNuWlNTMTkxY25SclVsODVTbUpJVkZoT2JXUkhUREJaTW1OTFpYSXlVRFpUVjJaV1p4SVdhMEV0YW1GME0zSkZaV1ZCTW5KdlVERkxaWE5oVVJvaVFVUnpjamxtVkMxUlpuSkNaRjlGWmtFd1N6SlBiR0pMUVhsVWNtTldUWEJuUVEiLCJmY3YiOiIzIiwiZWkiOiJrQS1qYXQzckVlZUEycm9QMUtlc2FRIiwicWMiOiJDaWx0WVhKMGFXNGdiSFYwYUdWeUlHdHBibWNnYW5JZ2FHbG5hQ0J6WTJodmIyd2daMlZ2Y21kcFlSQUFmYklZTUQ4IiwicXVlc3Rpb24iOiJXaGVyZSBkaWQgTWFydGluIEx1dGhlciBLaW5nIEpyLiBnbyB0byBoaWdoIHNjaG9vbD8iLCJsayI6IkdqRjNhR1Z5WlNCa2FXUWdiV0Z5ZEdsdUlHeDFkR2hsY2lCcmFXNW5JR3B5SUdkdklIUnZJR2hwWjJnZ2MyTm9iMjlzIiwiYnMiOiJjNFdRT3d2Q01CU0ZjYzNrM09tQXFJc28xdTVTRkFRZmcxUG5xNDFKYkV3Z2pSVF92YTFCRVpfcjVmdk9QZmV5QXh0bFZHSkR6aXVEOWRsTDdyQlNSbURwaHRoWloxRFBVNl9KZUJwZ2tVN2pTVFEtQlZ3SHZHandvME5WQjkwTkNnWUV0MDRvWWx2V3l5UjVxQksxZzg0WVVnbUpjaS10MVkyd0NPQTA3a2ZkNmlkNWp6eXlTVmF2NThoVl91MEFZZUh0YzhDdGZ2WFFQaF95WmpITmt1ZjZWdWU4OUtfRjVueEZlb2VaUFJ0X0NiOUtvcmo2Ni1XOGFMejl6WU9nZHVzSyIsImlkIjoiZmNfa0EtamF0M3JFZWVBMnJvUDFLZXNhUV8yIn0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS2FFNWphMjF1UkRsc1RHSXdNV1k0TlRKdlNVcEhWM0poTlRSRWFWTXljbXhFYWxjMldXY3hhMVIxYVRsWmNHRlVTRWs0VGt4MGNuWlNTMTkxY25SclVsODVTbUpJVkZoT2JXUkhUREJaTW1OTFpYSXlVRFpUVjJaV1p4SVdhMEV0YW1GME0zSkZaV1ZCTW5KdlVERkxaWE5oVVJvaVFVUnpjamxtVkMxUlpuSkNaRjlGWmtFd1N6SlBiR0pMUVhsVWNtTldUWEJuUVEiLCJmY3YiOiIzIiwiZWkiOiJrQS1qYXQzckVlZUEycm9QMUtlc2FRIiwicWMiOiJDaWx0WVhKMGFXNGdiSFYwYUdWeUlHdHBibWNnYW5JZ2FHbG5hQ0J6WTJodmIyd2daMlZ2Y21kcFlSQUFmYklZTUQ4IiwicXVlc3Rpb24iOiJXaGVyZSBkaWQgTWFydGluIEx1dGhlciBLaW5nIEpyLiBnbyB0byBoaWdoIHNjaG9vbD8iLCJsayI6IkdqRjNhR1Z5WlNCa2FXUWdiV0Z5ZEdsdUlHeDFkR2hsY2lCcmFXNW5JR3B5SUdkdklIUnZJR2hwWjJnZ2MyTm9iMjlzIiwiYnMiOiJjNFdRT3d2Q01CU0ZjYzNrM09tQXFJc28xdTVTRkFRZmcxUG5xNDFKYkV3Z2pSVF92YTFCRVpfcjVmdk9QZmV5QXh0bFZHSkR6aXVEOWRsTDdyQlNSbURwaHRoWloxRFBVNl9KZUJwZ2tVN2pTVFEtQlZ3SHZHandvME5WQjkwTkNnWUV0MDRvWWx2V3l5UjVxQksxZzg0WVVnbUpjaS10MVkyd0NPQTA3a2ZkNmlkNWp6eXlTVmF2NThoVl91MEFZZUh0YzhDdGZ2WFFQaF95WmpITmt1ZjZWdWU4OUtfRjVueEZlb2VaUFJ0X0NiOUtvcmo2Ni1XOGFMejl6WU9nZHVzSyIsImlkIjoiZmNfa0EtamF0M3JFZWVBMnJvUDFLZXNhUV8yIn0%3D"
+  },
+  {
+   "question": "What is the oldest high school in DeKalb County, GA?",
+   "type": "ai_overview",
+   "page_token": "ptQ-hnicHdBLbqMwAABQ9TJdNjgJGU2kqBLlFyaYYrAx3ozAJiFgBwo0fHa9QQ8xp5rTtOoR3vv4J6-3-v_DZzkMbb9frcZxfLo0zUUWT7xRq6yfb3zFMynzjNf73a8deD7zg3VPjZeOGyFuW2IiLaogYYuAiY3HrGKvSMIliI0_zJnmovb6UBMoo_Y2c63Jv7H3QpXpKWEoqtuOr0UYELLjFaqjpHSym-EmFmzI2qvYBrIcl3pCYUyAccyTIUyBMKm21TMXTpDCda6VRAByRwp0gU0CP0ZdEYtIgPIYUtYLAF9PEZiIGsxCeoA4Xuarfotdec5NoueU2YHrHU8YL0gNM9wQLV1KGtdeJBQbT1QO0MZz4ugOqZFtlawLI_CW0nDhNZEMWzNXv0MfD5KvbeRcPQO5cA6-fYFpvBQV2pJkuvqmDL4Nb0wShSOgcwptYaHN45nfD5vHn-nD37Ma9m3XXL4ABFWMZg",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ptQ-hnicHdBLbqMwAABQ9TJdNjgJGU2kqBLlFyaYYrAx3ozAJiFgBwo0fHa9QQ8xp5rTtOoR3vv4J6-3-v_DZzkMbb9frcZxfLo0zUUWT7xRq6yfb3zFMynzjNf73a8deD7zg3VPjZeOGyFuW2IiLaogYYuAiY3HrGKvSMIliI0_zJnmovb6UBMoo_Y2c63Jv7H3QpXpKWEoqtuOr0UYELLjFaqjpHSym-EmFmzI2qvYBrIcl3pCYUyAccyTIUyBMKm21TMXTpDCda6VRAByRwp0gU0CP0ZdEYtIgPIYUtYLAF9PEZiIGsxCeoA4Xuarfotdec5NoueU2YHrHU8YL0gNM9wQLV1KGtdeJBQbT1QO0MZz4ugOqZFtlawLI_CW0nDhNZEMWzNXv0MfD5KvbeRcPQO5cA6-fYFpvBQV2pJkuvqmDL4Nb0wShSOgcwptYaHN45nfD5vHn-nD37Ma9m3XXL4ABFWMZg",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS2FFNWphMjF1UkRsc1RHSXdNV1k0TlRKdlNVcEhWM0poTlRSRWFWTXljbXhFYWxjMldXY3hhMVIxYVRsWmNHRlVTRWs0VGt4MGNuWlNTMTkxY25SclVsODVTbUpJVkZoT2JXUkhUREJaTW1OTFpYSXlVRFpUVjJaV1p4SVdhMEV0YW1GME0zSkZaV1ZCTW5KdlVERkxaWE5oVVJvaVFVUnpjamxtVkMxUlpuSkNaRjlGWmtFd1N6SlBiR0pMUVhsVWNtTldUWEJuUVEiLCJmY3YiOiIzIiwiZWkiOiJrQS1qYXQzckVlZUEycm9QMUtlc2FRIiwicWMiOiJDaWx0WVhKMGFXNGdiSFYwYUdWeUlHdHBibWNnYW5JZ2FHbG5hQ0J6WTJodmIyd2daMlZ2Y21kcFlSQUFmYklZTUQ4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBvbGRlc3QgaGlnaCBzY2hvb2wgaW4gRGVLYWxiIENvdW50eSwgR0E/IiwibGsiOiJHakozYUdGMElHbHpJSFJvWlNCdmJHUmxjM1FnYUdsbmFDQnpZMmh2YjJ3Z2FXNGdaR1ZyWVd4aUlHTnZkVzUwZVNCbllRIiwiYnMiOiJjNFdRT3d2Q01CU0ZjYzNrM09tQXFJc28xdTVTRkFRZmcxUG5xNDFKYkV3Z2pSVF92YTFCRVpfcjVmdk9QZmV5QXh0bFZHSkR6aXVEOWRsTDdyQlNSbURwaHRoWloxRFBVNl9KZUJwZ2tVN2pTVFEtQlZ3SHZHandvME5WQjkwTkNnWUV0MDRvWWx2V3l5UjVxQksxZzg0WVVnbUpjaS10MVkyd0NPQTA3a2ZkNmlkNWp6eXlTVmF2NThoVl91MEFZZUh0YzhDdGZ2WFFQaF95WmpITmt1ZjZWdWU4OUtfRjVueEZlb2VaUFJ0X0NiOUtvcmo2Ni1XOGFMejl6WU9nZHVzSyIsImlkIjoiZmNfa0EtamF0M3JFZWVBMnJvUDFLZXNhUV8yIn0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS2FFNWphMjF1UkRsc1RHSXdNV1k0TlRKdlNVcEhWM0poTlRSRWFWTXljbXhFYWxjMldXY3hhMVIxYVRsWmNHRlVTRWs0VGt4MGNuWlNTMTkxY25SclVsODVTbUpJVkZoT2JXUkhUREJaTW1OTFpYSXlVRFpUVjJaV1p4SVdhMEV0YW1GME0zSkZaV1ZCTW5KdlVERkxaWE5oVVJvaVFVUnpjamxtVkMxUlpuSkNaRjlGWmtFd1N6SlBiR0pMUVhsVWNtTldUWEJuUVEiLCJmY3YiOiIzIiwiZWkiOiJrQS1qYXQzckVlZUEycm9QMUtlc2FRIiwicWMiOiJDaWx0WVhKMGFXNGdiSFYwYUdWeUlHdHBibWNnYW5JZ2FHbG5hQ0J6WTJodmIyd2daMlZ2Y21kcFlSQUFmYklZTUQ4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBvbGRlc3QgaGlnaCBzY2hvb2wgaW4gRGVLYWxiIENvdW50eSwgR0E%2FIiwibGsiOiJHakozYUdGMElHbHpJSFJvWlNCdmJHUmxjM1FnYUdsbmFDQnpZMmh2YjJ3Z2FXNGdaR1ZyWVd4aUlHTnZkVzUwZVNCbllRIiwiYnMiOiJjNFdRT3d2Q01CU0ZjYzNrM09tQXFJc28xdTVTRkFRZmcxUG5xNDFKYkV3Z2pSVF92YTFCRVpfcjVmdk9QZmV5QXh0bFZHSkR6aXVEOWRsTDdyQlNSbURwaHRoWloxRFBVNl9KZUJwZ2tVN2pTVFEtQlZ3SHZHandvME5WQjkwTkNnWUV0MDRvWWx2V3l5UjVxQksxZzg0WVVnbUpjaS10MVkyd0NPQTA3a2ZkNmlkNWp6eXlTVmF2NThoVl91MEFZZUh0YzhDdGZ2WFFQaF95WmpITmt1ZjZWdWU4OUtfRjVueEZlb2VaUFJ0X0NiOUtvcmo2Ni1XOGFMejl6WU9nZHVzSyIsImlkIjoiZmNfa0EtamF0M3JFZWVBMnJvUDFLZXNhUV8yIn0%3D"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Martin Luther King Jr. High School",
+   "link": "https://www.mlkinghs.dekalb.k12.ga.us/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXgHrOzAVL4aMlNBUpH4xndm0b5b8greAPV9Vee5H48GgsgpQeEGEBqeMT5Uatx5yu-69X_tmH-cpBezwba_lyPidKZJmQangYHpuCaDJY3vOgIGlI4anU0ABIpIbOzg&ved=2ahUKEwjd8-3h6eSWAxVngFYBHdQTKw0QFnoECEUQAQ&uoh=1",
+   "displayed_link": "https://www.mlkinghs.dekalb.k12.ga.us",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACO0lEQVR4AZTMA4wlUABD0a5t27Zt27Zt27Zt296xbdu29fqNYHSSxrcoKIbfmUHzWqYMfzEKhSVCX0_jN5AWXZyEWXMn8Ruky_rL0BYck954z3Pvvb9tolpDC0O_TuZzkEFvZkOK3o_miPugiPgwBSpp2aJM67UmXujwgZjwl1WXGcbseOZ7VB68buFIvQXPFfHLhbwCMt61jbDYepbej-cjIDa9ers1xj7o_ZXF5-sTM3SIoT-JwT8oj6y37uP3SV8Z69GKh0CG_B8GKXG5Jvmwx31M3m99GL2-sPgCfRafrStfsTm6xIDvfGYpBjLTugqPV0mi9aU5DDVtAykaHDok9oPC5fFw_LGOGoGhP1hEEctXYq4eZaczjzrflwf3elhzD8h7Iz-K6_0NxGqQQUYDIBOfmFm2ymzdeIz9zeJzlPGUf0S3zzz_LXA3lBhtXprflh_i3grR9NQfAm0zrzh_QO8vxIBvxODvRI_PvPgzaAekTj012N133fNXD_RCWiAv3y0j2-176b2z4RoT7zNfAvdC6sQzwz2ospyovYZovoVos4vn31mtQ0EcfKB7Qh732E8MPEr0O0zUWs3es66aoSA6jjpljyabpPERov9hxXrsY9FeBxgUGlcD-dlx6edp1FmjjuUbfIwou5jP3phNQX6-6bmMQoWlRJc9mrjGKradfMEjKimtPPKTmJJeqs-aB_rouZ9ouomouZod5lxzEmQxFIa9W4hkPB2LDkeZp86e_vzNZ3F0eQAE0U6iP-egHgAAAABJRU5ErkJggg.png",
+   "snippet": "Martin Luther King, Jr. High School. Dekalb County Schools. Registration ... 3991 Snapfinger Rd. Lithonia, GA 30038. Phone: 678.874.5402; Fax: 678.874.5410.",
+   "snippet_highlighted_words": [
+    "Martin Luther King, Jr. High School",
+    "GA"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "Staff",
+      "link": "https://mlkinghs.dekalb.k12.ga.us/Staff.aspx",
+      "snippet": "3991 Snapfinger Rd. Lithonia, GA 30038. Phone: 678.874.5402 ..."
+     },
+     {
+      "title": "Registrar",
+      "link": "https://www.mlkinghs.dekalb.k12.ga.us/registrar.aspx",
+      "snippet": "Georgia Milestones \u00b7 Resources \u00b7 OEC \u00b7 Virtual Learning Options ..."
+     },
+     {
+      "title": "Athletics",
+      "link": "https://mlkinghs.dekalb.k12.ga.us/Athletics.aspx",
+      "snippet": "Georgia Milestones \u00b7 Resources \u00b7 OEC \u00b7 Virtual Learning Options ..."
+     },
+     {
+      "title": "About Us",
+      "link": "https://mlkinghs.dekalb.k12.ga.us/AboutUs.aspx",
+      "snippet": "This beautiful facility is home to grades 9-12. The Dr. Martin ..."
+     },
+     {
+      "title": "Administration",
+      "link": "https://mlkinghs.dekalb.k12.ga.us/Administration.aspx",
+      "snippet": "3991 Snapfinger Rd. Lithonia, GA 30038. Phone: 678.874.5402 ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Martin Luther King, Jr. High School. Dekalb County Schools. Registration ... 3991 Snapfinger Rd. Lithonia, GA 30038. Phone: 678.874.5402; Fax: 678.874.5410.",
+     "source_info_link": "https://www.mlkinghs.dekalb.k12.ga.us/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACO0lEQVR4AZTMA4wlUABD0a5t27Zt27Zt27Zt296xbdu29fqNYHSSxrcoKIbfmUHzWqYMfzEKhSVCX0_jN5AWXZyEWXMn8Ruky_rL0BYck954z3Pvvb9tolpDC0O_TuZzkEFvZkOK3o_miPugiPgwBSpp2aJM67UmXujwgZjwl1WXGcbseOZ7VB68buFIvQXPFfHLhbwCMt61jbDYepbej-cjIDa9ers1xj7o_ZXF5-sTM3SIoT-JwT8oj6y37uP3SV8Z69GKh0CG_B8GKXG5Jvmwx31M3m99GL2-sPgCfRafrStfsTm6xIDvfGYpBjLTugqPV0mi9aU5DDVtAykaHDok9oPC5fFw_LGOGoGhP1hEEctXYq4eZaczjzrflwf3elhzD8h7Iz-K6_0NxGqQQUYDIBOfmFm2ymzdeIz9zeJzlPGUf0S3zzz_LXA3lBhtXprflh_i3grR9NQfAm0zrzh_QO8vxIBvxODvRI_PvPgzaAekTj012N133fNXD_RCWiAv3y0j2-176b2z4RoT7zNfAvdC6sQzwz2ospyovYZovoVos4vn31mtQ0EcfKB7Qh732E8MPEr0O0zUWs3es66aoSA6jjpljyabpPERov9hxXrsY9FeBxgUGlcD-dlx6edp1FmjjuUbfIwou5jP3phNQX6-6bmMQoWlRJc9mrjGKradfMEjKimtPPKTmJJeqs-aB_rouZ9ouomouZod5lxzEmQxFIa9W4hkPB2LDkeZp86e_vzNZ3F0eQAE0U6iP-egHgAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESXgHrOzAVL4aMlNBUpH4xndm0b5b8greAPV9Vee5H48GgsgpQeEGEBqeMT5Uatx5yu-69X_tmH-cpBezwba_lyPidKZJmQangYHpuCaDJY3vOgIGlI4anU0ABIpIbOzg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESXgHrOzAVL4aMlNBUpH4xndm0b5b8greAPV9Vee5H48GgsgpQeEGEBqeMT5Uatx5yu-69X_tmH-cpBezwba_lyPidKZJmQangYHpuCaDJY3vOgIGlI4anU0ABIpIbOzg",
+   "source": "Martin Luther King Jr. High School"
+  },
+  {
+   "position": 2,
+   "title": "Martin Luther King Jr. High School (Georgia)",
+   "link": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr._High_School_(Georgia)",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESggEB6zswFT7y8HjSYc-qAKGsJUiiSCDYK_QJH2lyBxQoFWR11KfeO5pf4-o9kWxOSh-tt47opOtgj-VQbrJ_bq8j3tBQxOZCxoaqyZVfTj1m2lxY3mJpUwkJDAZRfwTqEckllfZNqxZ6ZaHryR4iY1kcb9vYFaISJ0CWbu5GjcRn35gt&ved=2ahUKEwjd8-3h6eSWAxVngFYBHdQTKw0QFnoECEIQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Martin_Luther_King_J...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+   "snippet": "Martin Luther King Jr. High School is a public high school located in unincorporated DeKalb County, Georgia, United States, with a Lithonia postal address.",
+   "snippet_highlighted_words": [
+    "Martin Luther King Jr. High School",
+    "Georgia"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Martin Luther King Jr. High School is a public high school located in unincorporated DeKalb County, Georgia, United States, with a Lithonia postal address.",
+     "source_info_link": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr._High_School_(Georgia)",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESggEB6zswFT7y8HjSYc-qAKGsJUiiSCDYK_QJH2lyBxQoFWR11KfeO5pf4-o9kWxOSh-tt47opOtgj-VQbrJ_bq8j3tBQxOZCxoaqyZVfTj1m2lxY3mJpUwkJDAZRfwTqEckllfZNqxZ6ZaHryR4iY1kcb9vYFaISJ0CWbu5GjcRn35gt&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESggEB6zswFT7y8HjSYc-qAKGsJUiiSCDYK_QJH2lyBxQoFWR11KfeO5pf4-o9kWxOSh-tt47opOtgj-VQbrJ_bq8j3tBQxOZCxoaqyZVfTj1m2lxY3mJpUwkJDAZRfwTqEckllfZNqxZ6ZaHryR4iY1kcb9vYFaISJ0CWbu5GjcRn35gt",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr._High_School_(Georgia)#:~:text=Martin%20Luther%20King%20Jr.%20High,with%20a%20Lithonia%20postal%20address."
+  },
+  {
+   "position": 3,
+   "title": "Martin Luther King- Jr. High School - Lithonia, Georgia - GA",
+   "link": "https://www.greatschools.org/georgia/lithonia/2588-Martin-Luther-King--Jr.-High-School/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjwEB6zswFR8IqlOpnvLCzxzTunGMBAfpqpiCWxqo1T63oiPo-jJSN23usnio-Nj2QSKB6O1MKEAh-WdDjjcH2OIdGorrmYQJBP9Kesk-15ejizty43KnkQ3hF8EiJlGyR2HCFJtSx1dGQ6fkfmf3A3CNSF-v9u19888lj3aZhSyUbxCNjPzmTa3lOJkNhuKXeA&ved=2ahUKEwjd8-3h6eSWAxVngFYBHdQTKw0QFnoECEcQAQ&uoh=1",
+   "displayed_link": "https://www.greatschools.org \u203a georgia \u203a 2588-Martin-...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX____6_v74_P7N6_jA5vfy-v3V7PiO0e89tuUApd-Ayu0eqeEiquEjquG64PQ_tOWq2vIwruJnw-rj8_vs9vx1yeye2fFav-ix4fQbruMAo9-Hy-yp1vCq3vSw2fGY0O5xwenE5vbe7_lFmiYHAAABRElEQVR4AVzSB5KDMAwFUNGRv-QSanq5_yHX4ImHrOg8d5lyFGVZ1XVVlgX9j6btet6j79rm11oDhmgMAcO0ByqsYxHEiAqAnS2y-QAF-tPJsWpwQRH8V-1m2g3jOE4c_DirINhkrYOKmDSuJdS0qihcu38bVkVoqZZzQ9XF76hsmq0iZENqrsyWBrklFMSqRcca0cUWwHcaw43uGyp3BZU9MmJ5PGPNTjZEX1LJklHBzJ4SCpdUsWaECPhaJFSuqOaM0seAKb9YH_FUEo3uiIdml2qkIZjiBU3NHgfEl2nDMaFw-TMV7mhwzgRomsrvIqwRsTWVFiEvX0NPvlQRQ-9S0tvvwkuoqZnfRENv6Z4XPqVMsexJmMaIh5SlZAuW9ePFzc6s0yHZaZsImBnYz2i--NlgmkOOG-xv2JIm4USNNzsAAN3rGxmBgpZiAAAAAElFTkSuQmCC.png",
+   "snippet": "Martin Luther King- Jr. High School is a public school in Lithonia, GA, offering AP courses, International Baccalaureate, and 24 sports.",
+   "snippet_highlighted_words": [
+    "Martin Luther King- Jr. High School",
+    "GA"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Martin Luther King- Jr. High School is a public school in Lithonia, GA, offering AP courses, International Baccalaureate, and 24 sports.",
+     "source_info_link": "https://www.greatschools.org/georgia/lithonia/2588-Martin-Luther-King--Jr.-High-School/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX____6_v74_P7N6_jA5vfy-v3V7PiO0e89tuUApd-Ayu0eqeEiquEjquG64PQ_tOWq2vIwruJnw-rj8_vs9vx1yeye2fFav-ix4fQbruMAo9-Hy-yp1vCq3vSw2fGY0O5xwenE5vbe7_lFmiYHAAABRElEQVR4AVzSB5KDMAwFUNGRv-QSanq5_yHX4ImHrOg8d5lyFGVZ1XVVlgX9j6btet6j79rm11oDhmgMAcO0ByqsYxHEiAqAnS2y-QAF-tPJsWpwQRH8V-1m2g3jOE4c_DirINhkrYOKmDSuJdS0qihcu38bVkVoqZZzQ9XF76hsmq0iZENqrsyWBrklFMSqRcca0cUWwHcaw43uGyp3BZU9MmJ5PGPNTjZEX1LJklHBzJ4SCpdUsWaECPhaJFSuqOaM0seAKb9YH_FUEo3uiIdml2qkIZjiBU3NHgfEl2nDMaFw-TMV7mhwzgRomsrvIqwRsTWVFiEvX0NPvlQRQ-9S0tvvwkuoqZnfRENv6Z4XPqVMsexJmMaIh5SlZAuW9ePFzc6s0yHZaZsImBnYz2i--NlgmkOOG-xv2JIm4USNNzsAAN3rGxmBgpZiAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESjwEB6zswFR8IqlOpnvLCzxzTunGMBAfpqpiCWxqo1T63oiPo-jJSN23usnio-Nj2QSKB6O1MKEAh-WdDjjcH2OIdGorrmYQJBP9Kesk-15ejizty43KnkQ3hF8EiJlGyR2HCFJtSx1dGQ6fkfmf3A3CNSF-v9u19888lj3aZhSyUbxCNjPzmTa3lOJkNhuKXeA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESjwEB6zswFR8IqlOpnvLCzxzTunGMBAfpqpiCWxqo1T63oiPo-jJSN23usnio-Nj2QSKB6O1MKEAh-WdDjjcH2OIdGorrmYQJBP9Kesk-15ejizty43KnkQ3hF8EiJlGyR2HCFJtSx1dGQ6fkfmf3A3CNSF-v9u19888lj3aZhSyUbxCNjPzmTa3lOJkNhuKXeA",
+   "source": "GreatSchools"
+  },
+  {
+   "position": 4,
+   "title": "Martin Luther King- Jr. High School - Georgia",
+   "link": "https://www.usnews.com/education/best-high-schools/georgia/districts/dekalb-county-school-district/martin-luther-king-jr-high-school-5853",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESwgEB6zswFb-Lqi3jGP8twuVNs1QAF0JE2G8pRnmUMiYTjtu7DTc8TETzB0ip3hUG1HbBbc2O8I3a1raZLPYNElBmEvYHOgoTTYUBpVYx-xHALyYt0mSKDQFRHb4dtQWUTzNgJKQwuyj2FrfcVB6KH3K7S-PRYIDddm_-gyFl9cmXydEHdc9xIxYxLSqOFfmjOOlZhzY2MeuYNTiqc14JS6Ln8CEmmonmKjqHs8XE9IwlYF2dSVR5NbALiiiqNsxUqttObg&ved=2ahUKEwjd8-3h6eSWAxVngFYBHdQTKw0QFnoECEYQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a dekalb-county-school-district",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png",
+   "snippet": "Martin Luther King- Jr. High School is ranked 336-437th within Georgia. Students have the opportunity to take Advanced Placement\u00ae coursework and exams. The AP\u00ae ...",
+   "snippet_highlighted_words": [
+    "Martin Luther King- Jr. High School",
+    "Georgia"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Martin Luther King- Jr. High School is ranked 336-437th within Georgia. Students have the opportunity to take Advanced Placement\u00ae coursework and exams. The AP\u00ae ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/georgia/districts/dekalb-county-school-district/martin-luther-king-jr-high-school-5853",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESwgEB6zswFb-Lqi3jGP8twuVNs1QAF0JE2G8pRnmUMiYTjtu7DTc8TETzB0ip3hUG1HbBbc2O8I3a1raZLPYNElBmEvYHOgoTTYUBpVYx-xHALyYt0mSKDQFRHb4dtQWUTzNgJKQwuyj2FrfcVB6KH3K7S-PRYIDddm_-gyFl9cmXydEHdc9xIxYxLSqOFfmjOOlZhzY2MeuYNTiqc14JS6Ln8CEmmonmKjqHs8XE9IwlYF2dSVR5NbALiiiqNsxUqttObg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESwgEB6zswFb-Lqi3jGP8twuVNs1QAF0JE2G8pRnmUMiYTjtu7DTc8TETzB0ip3hUG1HbBbc2O8I3a1raZLPYNElBmEvYHOgoTTYUBpVYx-xHALyYt0mSKDQFRHb4dtQWUTzNgJKQwuyj2FrfcVB6KH3K7S-PRYIDddm_-gyFl9cmXydEHdc9xIxYxLSqOFfmjOOlZhzY2MeuYNTiqc14JS6Ln8CEmmonmKjqHs8XE9IwlYF2dSVR5NbALiiiqNsxUqttObg",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/georgia/districts/dekalb-county-school-district/martin-luther-king-jr-high-school-5853#:~:text=Martin%20Luther%20King%2D%20Jr.%20High,at%20Martin%20Luther%20King%2D%20Jr."
+  },
+  {
+   "position": 5,
+   "title": "Dr. Martin Luther King Jr. HS (@mlkinghs)",
+   "link": "https://www.instagram.com/mlkinghs/?hl=en",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYQHrOzAVJtMwEz6kyznNMJRP1Cfgxv5eMPPwcY2STM-T3EbfLYf0utpi0EMf593ooRg16EccgGnlM5SmUKOtfX6d6dDax95HfRsZiMGRpZgQCWLn-yhwtWpYUDUBaTP_wSM&ved=2ahUKEwjd8-3h6eSWAxVngFYBHdQTKw0QFnoECEgQAQ&uoh=1",
+   "displayed_link": "1.7K+ followers",
+   "favicon": "https://serpapi.com/searches/6aa30f892771433448edec87/images/vTt_44V7txedtq5mvjr2csyjA2ZYaRM3853FB7qcAxE.png",
+   "snippet": "Martin Luther King Jr. High School, Lithonia, GA This is a special Title 1 Parent & Family Engagement event you don't want to miss! RSVP by October 10th ...",
+   "snippet_highlighted_words": [
+    "Martin Luther King Jr. High School",
+    "GA"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Martin Luther King Jr. High School, Lithonia, GA This is a special Title 1 Parent & Family Engagement event you don't want to miss! RSVP by October 10th ...",
+     "source_info_link": "https://www.instagram.com/mlkinghs/?hl=en",
+     "icon": "https://serpapi.com/searches/6aa30f892771433448edec87/images/vTt_44V7txedtq5mvjr2cuBpY0shOcmAZ3MKJpTz37cYdz-EtpgTBBwizLq2bOGE.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYQHrOzAVJtMwEz6kyznNMJRP1Cfgxv5eMPPwcY2STM-T3EbfLYf0utpi0EMf593ooRg16EccgGnlM5SmUKOtfX6d6dDax95HfRsZiMGRpZgQCWLn-yhwtWpYUDUBaTP_wSM&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYQHrOzAVJtMwEz6kyznNMJRP1Cfgxv5eMPPwcY2STM-T3EbfLYf0utpi0EMf593ooRg16EccgGnlM5SmUKOtfX6d6dDax95HfRsZiMGRpZgQCWLn-yhwtWpYUDUBaTP_wSM",
+   "source": "Instagram \u00b7 mlkinghs"
+  },
+  {
+   "position": 6,
+   "title": "Martin Luther King Jr. High School in GA",
+   "link": "https://www.niche.com/k12/martin-luther-king-jr-high-school-lithonia-ga/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgAEB6zswFYmbx_d8xINCKdBO7iVAi_MbKTnVQPKYHmYmXcHBi2VO7uqfA2BuhvwHXBoLUxCJZLd1ZxgGIqYJSHQ4G1TmM3ZCGbrkJTNlmbrN3r78P4GWCb5KRxPN8d2H_I9__S809ivW8sjGwNODr6qgWL_gxXTZOwesmVO0hxC3Jg&ved=2ahUKEwjd8-3h6eSWAxVngFYBHdQTKw0QFnoECEMQAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a Georgia",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png",
+   "snippet": "Martin Luther King Jr. High School is a public school located in LITHONIA, GA. It has 1,370 students in grades 9-12 with a student-teacher ratio of 16 to 1.",
+   "snippet_highlighted_words": [
+    "Martin Luther King Jr. High School",
+    "GA"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Martin Luther King Jr. High School is a public school located in LITHONIA, GA. It has 1,370 students in grades 9-12 with a student-teacher ratio of 16 to 1.",
+     "source_info_link": "https://www.niche.com/k12/martin-luther-king-jr-high-school-lithonia-ga/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESgAEB6zswFYmbx_d8xINCKdBO7iVAi_MbKTnVQPKYHmYmXcHBi2VO7uqfA2BuhvwHXBoLUxCJZLd1ZxgGIqYJSHQ4G1TmM3ZCGbrkJTNlmbrN3r78P4GWCb5KRxPN8d2H_I9__S809ivW8sjGwNODr6qgWL_gxXTZOwesmVO0hxC3Jg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESgAEB6zswFYmbx_d8xINCKdBO7iVAi_MbKTnVQPKYHmYmXcHBi2VO7uqfA2BuhvwHXBoLUxCJZLd1ZxgGIqYJSHQ4G1TmM3ZCGbrkJTNlmbrN3r78P4GWCb5KRxPN8d2H_I9__S809ivW8sjGwNODr6qgWL_gxXTZOwesmVO0hxC3Jg",
+   "source": "Niche",
+   "read_more_link": "https://www.niche.com/k12/martin-luther-king-jr-high-school-lithonia-ga/#:~:text=Martin%20Luther%20King%20Jr.%20High,ratio%20of%2016%20to%201."
+  },
+  {
+   "position": 7,
+   "title": "Martin Luther King Jr. High School - Stonecrest",
+   "link": "https://www.neighborhoodscout.com/ga/stonecrest/schools/130174002479",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHrOzAVA3Pjnn1DkhaPOKgY5nIEiuSYKg6owT0aiPvGwqHf4N3hjZmhh6vzTowYJaZOQ9pu5VbGXFOmOEndgR80xsDTwsnXwuueyB4oDUblILG64Ggvyiua3A6Rf6hrZiL1Yb0LfRL00igf4ofHEI8JUMw4fB2ZhuDORDc&ved=2ahUKEwjd8-3h6eSWAxVngFYBHdQTKw0QFnoECEEQAQ&uoh=1",
+   "displayed_link": "https://www.neighborhoodscout.com \u203a ... \u203a schools",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAXVBMVEVHcEyKvs1PlaxOk6tAjKYxhKBHkKlboLbf7vErgZ0aeZcTdpUXeJYrgZ5YnLNTmbAcepgjfZsifJllp7skfZslf5w4hqIrgp5ZmrDH5u1zr8BUl65vq75Fj6hYmbBqasc3AAAAH3RSTlMAG1qgu8d6Pgbb____5zNM__73Iu2RtvaKDjV1UcqzN6pPlgAAAI5JREFUeAFFjsUBwDAMAwtBO6Ayd_8ty3Avo6TkJM1yIUWutEkutCV2Jz5cfQSBuCjhfHUNBIPqPItNa-9BR-D-1jLvgGwcko-cAaJOqvAMRssEOIdaPbamlzUcAM6ThzRM9rzyyc8gCVRc5Txef-03WNgv63q9iGdAji-jIt7RS7gD1G31WOisP8jCFXYHGX4IYIUQQjAAAAAASUVORK5CYII.png",
+   "snippet": "Find out how Martin Luther King Jr. High School in Stonecrest, GA rates compared to other schools in Dekalb County School District district and nationwide.",
+   "snippet_highlighted_words": [
+    "Martin Luther King Jr. High School",
+    "GA"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Find out how Martin Luther King Jr. High School in Stonecrest, GA rates compared to other schools in Dekalb County School District district and nationwide.",
+     "source_info_link": "https://www.neighborhoodscout.com/ga/stonecrest/schools/130174002479",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAXVBMVEVHcEyKvs1PlaxOk6tAjKYxhKBHkKlboLbf7vErgZ0aeZcTdpUXeJYrgZ5YnLNTmbAcepgjfZsifJllp7skfZslf5w4hqIrgp5ZmrDH5u1zr8BUl65vq75Fj6hYmbBqasc3AAAAH3RSTlMAG1qgu8d6Pgbb____5zNM__73Iu2RtvaKDjV1UcqzN6pPlgAAAI5JREFUeAFFjsUBwDAMAwtBO6Ayd_8ty3Avo6TkJM1yIUWutEkutCV2Jz5cfQSBuCjhfHUNBIPqPItNa-9BR-D-1jLvgGwcko-cAaJOqvAMRssEOIdaPbamlzUcAM6ThzRM9rzyyc8gCVRc5Txef-03WNgv63q9iGdAji-jIt7RS7gD1G31WOisP8jCFXYHGX4IYIUQQjAAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESfAHrOzAVA3Pjnn1DkhaPOKgY5nIEiuSYKg6owT0aiPvGwqHf4N3hjZmhh6vzTowYJaZOQ9pu5VbGXFOmOEndgR80xsDTwsnXwuueyB4oDUblILG64Ggvyiua3A6Rf6hrZiL1Yb0LfRL00igf4ofHEI8JUMw4fB2ZhuDORDc&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESfAHrOzAVA3Pjnn1DkhaPOKgY5nIEiuSYKg6owT0aiPvGwqHf4N3hjZmhh6vzTowYJaZOQ9pu5VbGXFOmOEndgR80xsDTwsnXwuueyB4oDUblILG64Ggvyiua3A6Rf6hrZiL1Yb0LfRL00igf4ofHEI8JUMw4fB2ZhuDORDc",
+   "source": "NeighborhoodScout"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Martin Luther King Jr High School Atlanta",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Martin+Luther+King+Jr+High+School+Atlanta&sa=X&ved=2ahUKEwjd8-3h6eSWAxVngFYBHdQTKw0Q1QJ6BQiFARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Martin+Luther+King+Jr+High+School+Atlanta"
+  },
+  {
+   "block_position": 1,
+   "query": "Martin Luther King Jr High School photos",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Martin+Luther+King+Jr+High+School+photos&sa=X&ved=2ahUKEwjd8-3h6eSWAxVngFYBHdQTKw0Q1QJ6BQiLARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Martin+Luther+King+Jr+High+School+photos"
+  },
+  {
+   "block_position": 1,
+   "query": "Martin Luther King Jr high school shooting",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Martin+Luther+King+Jr+high+school+shooting&sa=X&ved=2ahUKEwjd8-3h6eSWAxVngFYBHdQTKw0Q1QJ6BQiKARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Martin+Luther+King+Jr+high+school+shooting"
+  },
+  {
+   "block_position": 1,
+   "query": "Martin luther king jr high school address",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Martin+luther+king+jr+high+school+address&sa=X&ved=2ahUKEwjd8-3h6eSWAxVngFYBHdQTKw0Q1QJ6BQiJARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Martin+luther+king+jr+high+school+address"
+  },
+  {
+   "block_position": 1,
+   "query": "Martin Luther King Jr High school reviews",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Martin+Luther+King+Jr+High+school+reviews&sa=X&ved=2ahUKEwjd8-3h6eSWAxVngFYBHdQTKw0Q1QJ6BQiEARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Martin+Luther+King+Jr+High+school+reviews"
+  },
+  {
+   "block_position": 1,
+   "query": "Martin Luther King Jr High School Football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Martin+Luther+King+Jr+High+School+Football&sa=X&ved=2ahUKEwjd8-3h6eSWAxVngFYBHdQTKw0Q1QJ6BQiGARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Martin+Luther+King+Jr+High+School+Football"
+  },
+  {
+   "block_position": 1,
+   "query": "Martin luther king jr high school logo",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Martin+luther+king+jr+high+school+logo&sa=X&ved=2ahUKEwjd8-3h6eSWAxVngFYBHdQTKw0Q1QJ6BQiHARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Martin+luther+king+jr+high+school+logo"
+  },
+  {
+   "block_position": 1,
+   "query": "Martin luther king School Atlanta",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Martin+luther+king+School+Atlanta&sa=X&ved=2ahUKEwjd8-3h6eSWAxVngFYBHdQTKw0Q1QJ6BQiIARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Martin+luther+king+School+Atlanta"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Martin+Luther+King,+Jr.+High+School%22+Georgia&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=kA-jat3rEeeA2roP1KesaQ&start=10&sa=N&sstk=AS6-VmJFucwZlg-XbXKbYllVLjd6pUOtvRAA61Xw3EtSY14NH5CYLXFO776_h3w04BumfjoF_bLqPjQynEiMJ8E-N7lOIrpNQs252w&ved=2ahUKEwjd8-3h6eSWAxVngFYBHdQTKw0Q8NMDegQIdhAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Martin+Luther+King,+Jr.+High+School%22+Georgia&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=kA-jat3rEeeA2roP1KesaQ&start=10&sa=N&sstk=AS6-VmJFucwZlg-XbXKbYllVLjd6pUOtvRAA61Xw3EtSY14NH5CYLXFO776_h3w04BumfjoF_bLqPjQynEiMJ8E-N7lOIrpNQs252w&ved=2ahUKEwjd8-3h6eSWAxVngFYBHdQTKw0Q8tMDegQIdhAE",
+   "3": "https://www.google.com/search?q=%22Martin+Luther+King,+Jr.+High+School%22+Georgia&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=kA-jat3rEeeA2roP1KesaQ&start=20&sa=N&sstk=AS6-VmJFucwZlg-XbXKbYllVLjd6pUOtvRAA61Xw3EtSY14NH5CYLXFO776_h3w04BumfjoF_bLqPjQynEiMJ8E-N7lOIrpNQs252w&ved=2ahUKEwjd8-3h6eSWAxVngFYBHdQTKw0Q8tMDegQIdhAG",
+   "4": "https://www.google.com/search?q=%22Martin+Luther+King,+Jr.+High+School%22+Georgia&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=kA-jat3rEeeA2roP1KesaQ&start=30&sa=N&sstk=AS6-VmJFucwZlg-XbXKbYllVLjd6pUOtvRAA61Xw3EtSY14NH5CYLXFO776_h3w04BumfjoF_bLqPjQynEiMJ8E-N7lOIrpNQs252w&ved=2ahUKEwjd8-3h6eSWAxVngFYBHdQTKw0Q8tMDegQIdhAI",
+   "5": "https://www.google.com/search?q=%22Martin+Luther+King,+Jr.+High+School%22+Georgia&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=kA-jat3rEeeA2roP1KesaQ&start=40&sa=N&sstk=AS6-VmJFucwZlg-XbXKbYllVLjd6pUOtvRAA61Xw3EtSY14NH5CYLXFO776_h3w04BumfjoF_bLqPjQynEiMJ8E-N7lOIrpNQs252w&ved=2ahUKEwjd8-3h6eSWAxVngFYBHdQTKw0Q8tMDegQIdhAK",
+   "6": "https://www.google.com/search?q=%22Martin+Luther+King,+Jr.+High+School%22+Georgia&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=kA-jat3rEeeA2roP1KesaQ&start=50&sa=N&sstk=AS6-VmJFucwZlg-XbXKbYllVLjd6pUOtvRAA61Xw3EtSY14NH5CYLXFO776_h3w04BumfjoF_bLqPjQynEiMJ8E-N7lOIrpNQs252w&ved=2ahUKEwjd8-3h6eSWAxVngFYBHdQTKw0Q8tMDegQIdhAM",
+   "7": "https://www.google.com/search?q=%22Martin+Luther+King,+Jr.+High+School%22+Georgia&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=kA-jat3rEeeA2roP1KesaQ&start=60&sa=N&sstk=AS6-VmJFucwZlg-XbXKbYllVLjd6pUOtvRAA61Xw3EtSY14NH5CYLXFO776_h3w04BumfjoF_bLqPjQynEiMJ8E-N7lOIrpNQs252w&ved=2ahUKEwjd8-3h6eSWAxVngFYBHdQTKw0Q8tMDegQIdhAO",
+   "8": "https://www.google.com/search?q=%22Martin+Luther+King,+Jr.+High+School%22+Georgia&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=kA-jat3rEeeA2roP1KesaQ&start=70&sa=N&sstk=AS6-VmJFucwZlg-XbXKbYllVLjd6pUOtvRAA61Xw3EtSY14NH5CYLXFO776_h3w04BumfjoF_bLqPjQynEiMJ8E-N7lOIrpNQs252w&ved=2ahUKEwjd8-3h6eSWAxVngFYBHdQTKw0Q8tMDegQIdhAQ",
+   "9": "https://www.google.com/search?q=%22Martin+Luther+King,+Jr.+High+School%22+Georgia&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=kA-jat3rEeeA2roP1KesaQ&start=80&sa=N&sstk=AS6-VmJFucwZlg-XbXKbYllVLjd6pUOtvRAA61Xw3EtSY14NH5CYLXFO776_h3w04BumfjoF_bLqPjQynEiMJ8E-N7lOIrpNQs252w&ved=2ahUKEwjd8-3h6eSWAxVngFYBHdQTKw0Q8tMDegQIdhAS",
+   "10": "https://www.google.com/search?q=%22Martin+Luther+King,+Jr.+High+School%22+Georgia&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=kA-jat3rEeeA2roP1KesaQ&start=90&sa=N&sstk=AS6-VmJFucwZlg-XbXKbYllVLjd6pUOtvRAA61Xw3EtSY14NH5CYLXFO776_h3w04BumfjoF_bLqPjQynEiMJ8E-N7lOIrpNQs252w&ved=2ahUKEwjd8-3h6eSWAxVngFYBHdQTKw0Q8tMDegQIdhAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Martin+Luther+King%2C+Jr.+High+School%22+Georgia&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Martin+Luther+King%2C+Jr.+High+School%22+Georgia&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Martin+Luther+King%2C+Jr.+High+School%22+Georgia&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Martin+Luther+King%2C+Jr.+High+School%22+Georgia&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Martin+Luther+King%2C+Jr.+High+School%22+Georgia&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Martin+Luther+King%2C+Jr.+High+School%22+Georgia&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Martin+Luther+King%2C+Jr.+High+School%22+Georgia&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Martin+Luther+King%2C+Jr.+High+School%22+Georgia&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Martin+Luther+King%2C+Jr.+High+School%22+Georgia&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Martin+Luther+King%2C+Jr.+High+School%22+Georgia&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Martin+Luther+King%2C+Jr.+High+School%22+Georgia&start=90"
+  }
+ }
+}

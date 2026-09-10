@@ -1,0 +1,483 @@
+{
+ "search_information": {
+  "query_displayed": "\"South Paulding High School\" Georgia",
+  "total_results": 181000,
+  "time_taken_displayed": 0.42,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "South Paulding High School",
+  "type": "Public school in Paulding County, Georgia",
+  "entity_type": "local_nav",
+  "kgmid": "/m/0hzrr4d",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/0hzrr4d&hl=en-US&q=South+Paulding+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F0hzrr4d&q=South+Paulding+High+School",
+  "place_id": "ChIJfVWFwa4u9YgRmDGkZ671K9Q",
+  "website": "https://www.paulding.k12.ga.us/",
+  "description": "South Paulding High School is a public high school located in Paulding County, Georgia, United States. Opened in 2006, South Paulding is a part of the Paulding County School District. Beginning its second year, a 12th grade class was added and the student body was composed of 1657 students.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa3122832f11d1d2eec8ef4/images/qtY4vR5uVOUrlCBTLefghZl7h1A3YQKmJg9hhp5Rraw.webp",
+   "link": "https://www.google.com/maps/place/South+Paulding+High+School/data=!4m2!3m1!1s0x0:0xd42bf5ae67a43198?sa=X&ved=2ahUKEwjb9LGh7OSWAxVMjIkEHVPtLFYQ_BJ6BAgXEAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/South_Paulding_High_School"
+  },
+  "address": "1364 Winn Rd, Douglasville, GA 30134",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=south+paulding+high+school+address&ludocid=15288583489451209112&sa=X&ved=2ahUKEwjb9LGh7OSWAxVMjIkEHVPtLFYQ6BN6BAggEAI"
+   }
+  ],
+  "founded": "2006",
+  "colors": "Crimson, Gold",
+  "colors_links": [
+   {
+    "text": "Crimson",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yVYJQhXoKZeeJXN6aYl8PtL4VG-acvrobJLViz5zaa2qQbbA9YUKungwyKxAjQNPp1cI0ZSrW8eR4tKiIGuuf3SuIn1rrkxbP8CX2R-cxD1KsAdhNNLOPYS3ANxzzY3f75R1sqsYUqtQUEkxOe5els96TJgk0Ay-jia03K2ySzUxNy03oG-i-YhDNSTGbjjXD4eW6xM%3D&sa=X&ved=2ahUKEwjb9LGh7OSWAxVMjIkEHVPtLFYQmxN6BAgjEAI"
+   },
+   {
+    "text": "Gold",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yVTSUpKThlWoIKPxeFqYth2SIDLoP0njeJsXuUgA4WpFCkpVnxy3IrQuFN-YumJDeVqMO4c9VQjVM5LaF5EPbI6B_ElMSnBtRuqb7_w9_1zY2JrU6fk9WRxM6VZjkDituAG9HpfZBerHzcAjk671Xxc93xzQkZt8YgB9_yfJK7PC1Zi1DOx9cFvsW6czLcjUSO8AsJo%3D&sa=X&ved=2ahUKEwjb9LGh7OSWAxVMjIkEHVPtLFYQmxN6BAgjEAM"
+   }
+  ],
+  "school_types": "High school, State school",
+  "school_types_links": [
+   {
+    "text": "High school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=High+school&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMppXfNh-OkLk_azmU0uk1AX8sk8s1-2uDG13xvljBKYj-62BC653CUwqsnPBoRGsmoAhp8N1FFUjPXYR75tXwHhUXWv8UBnIL4TF0z5QyYwumy7veyfKVd-VTITazlAr0Sy1tPy5Xox6ozEoB_e5fqXLSEI4uHdLuGGMuN4HjxyTMuQVaAAtJyb7_YRoorPm4VSVvjEKopgGTWciR_mXs_5ay8u639nQstzTJQcl4mmBbwU9w-hFF9DmXTENbAJkWaJOtuQE%3D&sa=X&ved=2ahUKEwjb9LGh7OSWAxVMjIkEHVPtLFYQmxN6BAghEAI"
+   },
+   {
+    "text": "State school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=State+school&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ybGtCxI0H8z2nV80srIO5hizwNtt3Ym6Fi28M6pFzMpba6xCjNFIQKbDb7W_yOsUKzHP6t0BoDIq84DgtktiHBvFqPDhCTDRJvE6JLQvR7EaZMfnfl4NvtU1HfVwjQ5kFWDZEW-BjJCLEuqaBQSbYnOJNlhiRiEmUadoq5Gc5wGWbQq9j0PFR-e3AJgUYELAXAtDax4kMD33yxtjejIKN6RdsU1QaUtpPW5Sshz4u2LvACSCXLPbeP_aD2n7M4nW3KMFltk%3D&sa=X&ved=2ahUKEwjb9LGh7OSWAxVMjIkEHVPtLFYQmxN6BAghEAM"
+   }
+  ],
+  "district": "Paulding County School District",
+  "district_links": [
+   {
+    "text": "Paulding County School District",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Paulding+County+School+District&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67wTUldOfOk-vWbf_LVAeXyouEWus8He3xfSuuN0ziOs2eVtKrRITqynFYbnr2ZTjaJb7xe_q7asUokINakq4DcRoqNg637Bfu9N_a1tPyFqJp4B1FTSihcKdmb37igcSsY5G7_eYYBtJk9lKpe7Qjf4HswDlAHz9PB_c_WZhxJInu_a3po9Jv4AycpiQ92WhlHuRnE0%3D&sa=X&ved=2ahUKEwjb9LGh7OSWAxVMjIkEHVPtLFYQmxN6BAgiEAI"
+   }
+  ],
+  "phone": "(770) 949-9221",
+  "raw_hours": "Closed \u00b7 Opens 8 AM Fri",
+  "hours": {
+   "thursday": {
+    "opens": "8\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "friday": {
+    "opens": "8\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "8\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "tuesday": {
+    "opens": "8\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "wednesday": {
+    "opens": "8\u202fAM",
+    "closes": "4\u202fPM"
+   }
+  },
+  "people_also_search_for": [
+   {
+    "name": "Paulding County High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmX3oz8wu10uMO5UNVS9fEvupayaZ7vTnNoenln99gxGoB9AwGfpd3Zi-LlUGmbDQkl4VqHXH8_BRIvXNj7cSeIYIqvQxsDoAoAuFD15TWGzHCbQ_u2mcMo06DwxVyv8sEc7zh7=w172-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW677DU37B0YWX73c1qUwMGK9dMi6IXMR2BTUw4OjAYzJVBJtFpAYiiGwylZTRKQTPukRWVVYEko2IfoHaiOqxZ7Segjn2atFSU_i00Ff7aL3dIMIlu94Yo4GK5C6azLm1A_K5pPrvtrgkJPGQBv-dS0J44jHBad8qs2G6eF6J3drYF0q8wDVc4397aEU7TLZiaQsnUXuyZ7dRVqafSLhY-MoDfhaMLJJU7v0RGwfmBLDCKAn9shFJ5SolMviQN4FIwz9X1zHrN8owj6qV0OiJ4lvg4s_q7&q=Paulding+County+High+School&sa=X&ved=2ahUKEwjb9LGh7OSWAxVMjIkEHVPtLFYQs9oBKAB6BAgeEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Paulding+County+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW677DU37B0YWX73c1qUwMGK9dMi6IXMR2BTUw4OjAYzJVBJtFpAYiiGwylZTRKQTPukRWVVYEko2IfoHaiOqxZ7Segjn2atFSU_i00Ff7aL3dIMIlu94Yo4GK5C6azLm1A_K5pPrvtrgkJPGQBv-dS0J44jHBad8qs2G6eF6J3drYF0q8wDVc4397aEU7TLZiaQsnUXuyZ7dRVqafSLhY-MoDfhaMLJJU7v0RGwfmBLDCKAn9shFJ5SolMviQN4FIwz9X1zHrN8owj6qV0OiJ4lvg4s_q7"
+   },
+   {
+    "name": "North Paulding High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnLwBtbpWrWiTci_Ynp9W_rgS5a7mDTg_g-w593eEcBkiDhyQQgsmiaTmTanW-RIURfGcVApdDNbqEuin4m8fcRJUoLjXxb4xKxw2lpWr6HSDVRlJqDIyZQmZKq0zGPldhf0MU9=w188-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67_OcJ3jd2P8ExqL_4_js-MmS72p9XgDjq_oJga8GAwMyS37glxp7zj259Udh1Af0qGtza67bk9uPya0GYtzJLrLqe7LQVD8q4O85nY0RQapnJ2XNO0aQvpT56HHIaM4lmi2uLXyNhierpcU3qIBY2w_qK6Rfyu1AVhtYBSH8pTfmGCV-h9qjli_DAJSP-r3LYoUMPDbVdCLyN91kAY8PR0iw3WZxvn43JVSijXkW5q7j26oMvEryfuIhiHf6sSX7OyHMYcHChRANAzqVH-DRs_UnjnuW&q=North+Paulding+High+School&sa=X&ved=2ahUKEwjb9LGh7OSWAxVMjIkEHVPtLFYQs9oBKAB6BAgeEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=North+Paulding+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67_OcJ3jd2P8ExqL_4_js-MmS72p9XgDjq_oJga8GAwMyS37glxp7zj259Udh1Af0qGtza67bk9uPya0GYtzJLrLqe7LQVD8q4O85nY0RQapnJ2XNO0aQvpT56HHIaM4lmi2uLXyNhierpcU3qIBY2w_qK6Rfyu1AVhtYBSH8pTfmGCV-h9qjli_DAJSP-r3LYoUMPDbVdCLyN91kAY8PR0iw3WZxvn43JVSijXkW5q7j26oMvEryfuIhiHf6sSX7OyHMYcHChRANAzqVH-DRs_UnjnuW"
+   },
+   {
+    "name": "East Paulding High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnhbkTCi3n-SJserNnLb4Ev8ALtE5cz8cUQ_KzCxb8DHyAPr0ZJNWcSy-veRWyaRvyHRpPfheRc7MiHRCYkHN6PUT8SHl9aMRTA6LwTLd4ZOBKENHKWcSwwg282DT3O8BblKj9hhg=w172-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW675wsvclGF8sULEwl1qUXK7eq7XdbTvYhwoeeKhNOr0x8-Q4q2eEXiqnfES-p9g695KL-FIBb6TGR7mhcMUZ7gNow9Iq2dTqCTb6fauRtXSShrwl3M3wuVSGqWifINaoUsArsHCMzL86_5h1w1DNTVMlm9pOetnMY0elOaNsAKuzMvHDMw4Bcj5RxEta6fHAvf4OVMr8BawoTZXcNkDBhANZfSb0KdT5VCdd0VBGCVDaO_Pz1ZK4CY_Ymf1bNC_KxefsMVrroaRIY7QNuwKPStF-zRayX&q=East+Paulding+High+School&sa=X&ved=2ahUKEwjb9LGh7OSWAxVMjIkEHVPtLFYQs9oBKAB6BAgeEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=East+Paulding+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW675wsvclGF8sULEwl1qUXK7eq7XdbTvYhwoeeKhNOr0x8-Q4q2eEXiqnfES-p9g695KL-FIBb6TGR7mhcMUZ7gNow9Iq2dTqCTb6fauRtXSShrwl3M3wuVSGqWifINaoUsArsHCMzL86_5h1w1DNTVMlm9pOetnMY0elOaNsAKuzMvHDMw4Bcj5RxEta6fHAvf4OVMr8BawoTZXcNkDBhANZfSb0KdT5VCdd0VBGCVDaO_Pz1ZK4CY_Ymf1bNC_KxefsMVrroaRIY7QNuwKPStF-zRayX"
+   },
+   {
+    "name": "Hiram High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkQ6M-KhCE_W7KVlCWAUvYuWOgiwRJml2RpMVs08QXRhg2Mbi9meLpEpqSirB_kP3F24MoUOFr4DQ-svdKO-tv92VIPHrAU1x-rwriQ2AqbBdNawQjSrGkINiGowt8YOBnBGBJBTg=w172-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW672pIZxcAo65Qw5sAA7qeoTXSQNEEaRbTCN76S7ondKZdAZ2faNgeO5pmAMCC74CaoYKj-3eTV7wfMWPEdsm7TLKN0-lQCZkW6hQuZkI82PUGoadLlLpH_k4pho4Pp5VC7vsI3FGiu8KvYHFEpotuL7N9N80PIOITZmhcKkGIKmzZh_payHOhpzlBhLitUL1--4xByhUjFoREnrCKZgxOVPg79pTeAi5xt_yWGwFAJde4dudd0ufEhUgznVa8TajQLHBlYDVaXd7b-DFzLQ06hSnhMdg2&q=Hiram+High+School&sa=X&ved=2ahUKEwjb9LGh7OSWAxVMjIkEHVPtLFYQs9oBKAB6BAgeEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Hiram+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW672pIZxcAo65Qw5sAA7qeoTXSQNEEaRbTCN76S7ondKZdAZ2faNgeO5pmAMCC74CaoYKj-3eTV7wfMWPEdsm7TLKN0-lQCZkW6hQuZkI82PUGoadLlLpH_k4pho4Pp5VC7vsI3FGiu8KvYHFEpotuL7N9N80PIOITZmhcKkGIKmzZh_payHOhpzlBhLitUL1--4xByhUjFoREnrCKZgxOVPg79pTeAi5xt_yWGwFAJde4dudd0ufEhUgznVa8TajQLHBlYDVaXd7b-DFzLQ06hSnhMdg2"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=South+Paulding+High+School&stick=H4sIAAAAAAAAAONgFuLSz9U3yKgqKjJJUUJiawkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axCoVnF9akqEQkFiak5KZl67gkZmeoRCcnJGfn7ODlfEWmyTDG4eKwFy-ps4l4YaHWLUXbY5ICrZJD_t-HABgaOYgggAAAA&sa=X&ved=2ahUKEwjb9LGh7OSWAxVMjIkEHVPtLFYQzO0BKAR6BAgeEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLSz9U3yKgqKjJJUUJiawkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axCoVnF9akqEQkFiak5KZl67gkZmeoRCcnJGfn7ODlfEWmyTDG4eKwFy-ps4l4YaHWLUXbY5ICrZJD_t-HABgaOYgggAAAA",
+  "profiles": [
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/southpauldinghigh/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22South+Paulding+High+School%22+Georgia",
+    "image": "https://serpapi.com/searches/6aa3122832f11d1d2eec8ef4/images/qtY4vR5uVOUrlCBTLefghZQKFobtw__kPCL7TjgqipSeMSOI93Lw6F4sMRDrZZNK.png"
+   },
+   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/pauldingcountyschooldistrict/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22South+Paulding+High+School%22+Georgia",
+    "image": "https://serpapi.com/searches/6aa3122832f11d1d2eec8ef4/images/qtY4vR5uVOUrlCBTLefghXoeG3eddqiDKgvisTqTKzTWVO1izAh9LeKWqxGOnIPH.png"
+   },
+   {
+    "name": "X (Twitter)",
+    "link": "https://twitter.com/pauldingboe",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22South+Paulding+High+School%22+Georgia",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAABhUlEQVR4AczOA6xcARCF4X_us23btuLUQR3WZlhbQW3bto2gtm3b2J3GN4tY74uHh3okOi42Nj4AAUDwTvDEhisABCOAEAzYTBh0bN-lc5d0QgAhHPqX4Y4pkd367Zc-xMcXCPDg8TPwxeQH724Uj9N95GJ4pnHxby1xgCmV3v-GsFb7k0Iee7UjaQgmIYe9v9O4-wUKWaATyMPAViwvr1NnOQWDdTV5CHYSaKWLmaGDyvU4mTgQcllracaFr-9uk-yLM8k8fAJff0IUTghRVFu3M1ynkYk4nchiqqU3Ry05RDibMMhjtj6Ht3dJxVk_l1G64cspOusychBsCWm01WNM0jFs0sbEYUtIIuTXNco588OLh09JxE6wweuXEAvfL9PQus3-iU80N34KCaQyUOcxTTuSjEmMRI5rS9JwIZfD1t7ceo34YIpnuQ4nGwP8XXlq_fJZd9jE8KBHC5IwAELJ7dWrZ6fOuNhkgFgAEEIAwA1MQkw0AgDC_wnKycrKSQ2iPAkAVyNzq8rxicIAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "YouTube",
+    "link": "https://www.youtube.com/c/PauldingCountySchoolDistrict",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22South+Paulding+High+School%22+Georgia",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAP1BMVEX_____z8__n5__kJD_gID_cHD_YGD_v7__39__ICD_AAD_r6__EBD_7-__oKD_MDD_QED_UFD_X1__j4__f396G04EAAAAhklEQVR4AeXQRQLDQAwDQC3bajj5_1dLYb63czYKf8VY50OcBO9swkyUB_SBkfJQlqOXeKJAz_FEQM9zVCqXInqRIy-RC9W-AJDypgCwyoGiV68LkLJFwX6CVJcr8nBwZJgLXMaDAs9RxsMcLE949IQnEnpoeKjEpC25o12OpVwkTURy_JQX1r4RC2S7kZYAAAAASUVORK5CYII.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "Who are some famous people who attended South Paulding High School?",
+   "type": "ai_overview",
+   "page_token": "8HYpHnicHdFfbpswHABg7TJ9bPgTujVSNCnFToqIIzv4B_hlIjYJiQ24hcQ0b7vLnnegnWZVL_C9fL__mHOn_33724yjHRazmXPu8dT3J1M_yr6dVcNHJ2eyMuZQSb14-v7k_zzKJerdy8vgVpRbCzHz9r68HzSbQ_68364jxC-rgngqp4Aj8JnHEX4jrRAQN7HywDHT3GRu51nIpoy7OQmThnpJBPeVrrDtyB0i6Q3eDv9wslBXGSS3LFSrfYEmqiMMa5zxDNJD3DhxJwXB1K-CyAg9hXkLtkZC8wKngJpXetE-CcS7bJFXBjxKi2QlEc5lZ6M8f-4YtoxqvGOBPe_AprI1QAAo25BShaIsOZ6XoLgCGDgSU42mjcr96x5NjmrVcy3KPJ8E98waNWpbofGtLJh_QIrUYJzCmG5jM9UdYcD6M-XsLi-m5X4TEWPtftOMRYDPaqOun_4uhdcoixPDuqQR7uEob8vw4eth-evYjgv73p_-A16zlpY",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=8HYpHnicHdFfbpswHABg7TJ9bPgTujVSNCnFToqIIzv4B_hlIjYJiQ24hcQ0b7vLnnegnWZVL_C9fL__mHOn_33724yjHRazmXPu8dT3J1M_yr6dVcNHJ2eyMuZQSb14-v7k_zzKJerdy8vgVpRbCzHz9r68HzSbQ_68364jxC-rgngqp4Aj8JnHEX4jrRAQN7HywDHT3GRu51nIpoy7OQmThnpJBPeVrrDtyB0i6Q3eDv9wslBXGSS3LFSrfYEmqiMMa5zxDNJD3DhxJwXB1K-CyAg9hXkLtkZC8wKngJpXetE-CcS7bJFXBjxKi2QlEc5lZ6M8f-4YtoxqvGOBPe_AprI1QAAo25BShaIsOZ6XoLgCGDgSU42mjcr96x5NjmrVcy3KPJ8E98waNWpbofGtLJh_QIrUYJzCmG5jM9UdYcD6M-XsLi-m5X4TEWPtftOMRYDPaqOun_4uhdcoixPDuqQR7uEob8vw4eth-evYjgv73p_-A16zlpY",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmFYVnhUMDVETjBOSlZFOXFVRTloYTFGeFoxWlhZbVJJY0VnM1VWSkVWV0Z3T1RCcFRXbEpkbGd5ZFcxYWRIcHFWVTVYWXkxdk5GRm5ZVGQ0WjBKYWNYQk9NWGR3Tm05SloxUlNVa05rU25aZmJtNDBORzR0UWxoRVp4SVhUR2hMYW1GMGRXeEhUWGxaY0hSUlVEQTVjWHB6VVZVYUlrRkVjM0k1WmxGM2JrTlJha014Um1zNFpuTnZOelJ1ZUUwMFdVdHZaVFZoYkdjIiwiZmN2IjoiMyIsImVpIjoiTGhLamF0dWxHTXlZcHRRUDA5cXpzUVUiLCJxYyI6IkNpSnpiM1YwYUNCd1lYVnNaR2x1WnlCb2FXZG9JSE5qYUc5dmJDQm5aVzl5WjJsaEVBQjlob2NyUHciLCJxdWVzdGlvbiI6IldobyBhcmUgc29tZSBmYW1vdXMgcGVvcGxlIHdobyBhdHRlbmRlZCBTb3V0aCBQYXVsZGluZyBIaWdoIFNjaG9vbD8iLCJsayI6IkdpaHpiM1YwYUNCd1lYVnNaR2x1WnlCb2FXZG9JSE5qYUc5dmJDQm1ZVzF2ZFhNZ2NHVnZjR3hsIiwiYnMiOiJjNFdQSVlfQ1FCQ0ZnMTJGcm5xU1FNOFVQQ0VJaWlOQm9CQjc3Rnkzb2QwcHpHd2FfdjFCdzBFcTZPbnZ2ZmZObUl0Wkh6ekRYZ25DTmVISDFod0ZEWEZURWRvSFVxWGd5R0hQVVQxMk5sYXVEQVh5c3ZEWW56eHp0Y3lteVVRNjNQeGhfOERTNGY2b09acDBLd05yc0NpWTNiTzh6TDZTV1NrWW1PX2x6ZG5NYzI1UjIzQ0RhSFFVVk80QktBOS1zRWd5XzZIMldXMHFzemg0cTdnZnFKN3dUYUs5MDhydzFxMDVCcjJsMkt3NldfdFA3LVU3ZFQwVWRqejZCUSIsImlkIjoiZmNfTGhLamF0dWxHTXlZcHRRUDA5cXpzUVVfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmFYVnhUMDVETjBOSlZFOXFVRTloYTFGeFoxWlhZbVJJY0VnM1VWSkVWV0Z3T1RCcFRXbEpkbGd5ZFcxYWRIcHFWVTVYWXkxdk5GRm5ZVGQ0WjBKYWNYQk9NWGR3Tm05SloxUlNVa05rU25aZmJtNDBORzR0UWxoRVp4SVhUR2hMYW1GMGRXeEhUWGxaY0hSUlVEQTVjWHB6VVZVYUlrRkVjM0k1WmxGM2JrTlJha014Um1zNFpuTnZOelJ1ZUUwMFdVdHZaVFZoYkdjIiwiZmN2IjoiMyIsImVpIjoiTGhLamF0dWxHTXlZcHRRUDA5cXpzUVUiLCJxYyI6IkNpSnpiM1YwYUNCd1lYVnNaR2x1WnlCb2FXZG9JSE5qYUc5dmJDQm5aVzl5WjJsaEVBQjlob2NyUHciLCJxdWVzdGlvbiI6IldobyBhcmUgc29tZSBmYW1vdXMgcGVvcGxlIHdobyBhdHRlbmRlZCBTb3V0aCBQYXVsZGluZyBIaWdoIFNjaG9vbD8iLCJsayI6IkdpaHpiM1YwYUNCd1lYVnNaR2x1WnlCb2FXZG9JSE5qYUc5dmJDQm1ZVzF2ZFhNZ2NHVnZjR3hsIiwiYnMiOiJjNFdQSVlfQ1FCQ0ZnMTJGcm5xU1FNOFVQQ0VJaWlOQm9CQjc3Rnkzb2QwcHpHd2FfdjFCdzBFcTZPbnZ2ZmZObUl0Wkh6ekRYZ25DTmVISDFod0ZEWEZURWRvSFVxWGd5R0hQVVQxMk5sYXVEQVh5c3ZEWW56eHp0Y3lteVVRNjNQeGhfOERTNGY2b09acDBLd05yc0NpWTNiTzh6TDZTV1NrWW1PX2x6ZG5NYzI1UjIzQ0RhSFFVVk80QktBOS1zRWd5XzZIMldXMHFzemg0cTdnZnFKN3dUYUs5MDhydzFxMDVCcjJsMkt3NldfdFA3LVU3ZFQwVWRqejZCUSIsImlkIjoiZmNfTGhLamF0dWxHTXlZcHRRUDA5cXpzUVVfNSJ9"
+  },
+  {
+   "question": "Is South Paulding High School a good school?",
+   "type": "ai_overview",
+   "page_token": "1zHKN3icHdBbboJAFADQdDP9rAwEm5iYpigQH4zhylwePw0Myqh3BmxRtH_dS1fV1bTpBs7H-fqmgzn9PFxV33cfk9FoGIanpm0b2j3JVo_Kj7uRI1kSVaU8TcbPY_ayl1P_svBm54UXi67DOVjblMYxqpVgaHKNl0QjT7YsFKZWOWK0Tmu7cLyDsIAk8QEtsiuBGzFv3CqVrHSWoUwaJlKYcaLVZsZuPAS_MupUsLqsKHYz9srW2TKsdHDGoLiX2XJVOgAiVPBnm_yIDkfpxsbb5HbLJMMsIbJrgzeZgeCEfWQplmf0vvXBlTbrMrtxa6voMe2F0LgXPiCGAfiqjkq_P-cZsMqv-Q5pqIMgjuZ02xkOCO0hFvApj6SFUWF0ggXXbAFHtUbNrJ3vjrmgLglRbU3hFsPjXl6nzuP_5_Rtr_tJ9942vyWMgkY",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=1zHKN3icHdBbboJAFADQdDP9rAwEm5iYpigQH4zhylwePw0Myqh3BmxRtH_dS1fV1bTpBs7H-fqmgzn9PFxV33cfk9FoGIanpm0b2j3JVo_Kj7uRI1kSVaU8TcbPY_ayl1P_svBm54UXi67DOVjblMYxqpVgaHKNl0QjT7YsFKZWOWK0Tmu7cLyDsIAk8QEtsiuBGzFv3CqVrHSWoUwaJlKYcaLVZsZuPAS_MupUsLqsKHYz9srW2TKsdHDGoLiX2XJVOgAiVPBnm_yIDkfpxsbb5HbLJMMsIbJrgzeZgeCEfWQplmf0vvXBlTbrMrtxa6voMe2F0LgXPiCGAfiqjkq_P-cZsMqv-Q5pqIMgjuZ02xkOCO0hFvApj6SFUWF0ggXXbAFHtUbNrJ3vjrmgLglRbU3hFsPjXl6nzuP_5_Rtr_tJ9942vyWMgkY",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmFYVnhUMDVETjBOSlZFOXFVRTloYTFGeFoxWlhZbVJJY0VnM1VWSkVWV0Z3T1RCcFRXbEpkbGd5ZFcxYWRIcHFWVTVYWXkxdk5GRm5ZVGQ0WjBKYWNYQk9NWGR3Tm05SloxUlNVa05rU25aZmJtNDBORzR0UWxoRVp4SVhUR2hMYW1GMGRXeEhUWGxaY0hSUlVEQTVjWHB6VVZVYUlrRkVjM0k1WmxGM2JrTlJha014Um1zNFpuTnZOelJ1ZUUwMFdVdHZaVFZoYkdjIiwiZmN2IjoiMyIsImVpIjoiTGhLamF0dWxHTXlZcHRRUDA5cXpzUVUiLCJxYyI6IkNpSnpiM1YwYUNCd1lYVnNaR2x1WnlCb2FXZG9JSE5qYUc5dmJDQm5aVzl5WjJsaEVBQjlob2NyUHciLCJxdWVzdGlvbiI6IklzIFNvdXRoIFBhdWxkaW5nIEhpZ2ggU2Nob29sIGEgZ29vZCBzY2hvb2w/IiwibGsiOiJjNVBTeml4V0tNNHZMY2xRS0Vnc3pVbkp6RXRYeU1oTXoxQW9UczdJejg5UlNGUkl6ODlQZ2ZJQSIsImJzIjoiYzRXUElZX0NRQkNGZzEyRnJucVNRTThVUENFSWlpTkJvQkI3N0Z5M29kMHB6R3dhX3YxQncwRXE2T252dmZmTm1JdFpIenpEWGduQ05lSEgxaHdGRFhGVEVkb0hVcVhneUdIUFVUMTJObGF1REFYeXN2RFluenh6dGN5bXlVUTYzUHhoXzhEUzRmNm9PWnAwS3dOcnNDaVkzYk84ekw2U1dTa1ltT19semRuTWMyNVIyM0NEYUhRVVZPNEJLQTktc0VneV82SDJXVzBxc3poNHE3Z2ZxSjd3VGFLOTA4cncxcTA1QnIybDJLdzZXX3RQNy1VN2RUMFVkano2QlEiLCJpZCI6ImZjX0xoS2phdHVsR015WXB0UVAwOXF6c1FVXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmFYVnhUMDVETjBOSlZFOXFVRTloYTFGeFoxWlhZbVJJY0VnM1VWSkVWV0Z3T1RCcFRXbEpkbGd5ZFcxYWRIcHFWVTVYWXkxdk5GRm5ZVGQ0WjBKYWNYQk9NWGR3Tm05SloxUlNVa05rU25aZmJtNDBORzR0UWxoRVp4SVhUR2hMYW1GMGRXeEhUWGxaY0hSUlVEQTVjWHB6VVZVYUlrRkVjM0k1WmxGM2JrTlJha014Um1zNFpuTnZOelJ1ZUUwMFdVdHZaVFZoYkdjIiwiZmN2IjoiMyIsImVpIjoiTGhLamF0dWxHTXlZcHRRUDA5cXpzUVUiLCJxYyI6IkNpSnpiM1YwYUNCd1lYVnNaR2x1WnlCb2FXZG9JSE5qYUc5dmJDQm5aVzl5WjJsaEVBQjlob2NyUHciLCJxdWVzdGlvbiI6IklzIFNvdXRoIFBhdWxkaW5nIEhpZ2ggU2Nob29sIGEgZ29vZCBzY2hvb2w%2FIiwibGsiOiJjNVBTeml4V0tNNHZMY2xRS0Vnc3pVbkp6RXRYeU1oTXoxQW9UczdJejg5UlNGUkl6ODlQZ2ZJQSIsImJzIjoiYzRXUElZX0NRQkNGZzEyRnJucVNRTThVUENFSWlpTkJvQkI3N0Z5M29kMHB6R3dhX3YxQncwRXE2T252dmZmTm1JdFpIenpEWGduQ05lSEgxaHdGRFhGVEVkb0hVcVhneUdIUFVUMTJObGF1REFYeXN2RFluenh6dGN5bXlVUTYzUHhoXzhEUzRmNm9PWnAwS3dOcnNDaVkzYk84ekw2U1dTa1ltT19semRuTWMyNVIyM0NEYUhRVVZPNEJLQTktc0VneV82SDJXVzBxc3poNHE3Z2ZxSjd3VGFLOTA4cncxcTA1QnIybDJLdzZXX3RQNy1VN2RUMFVkano2QlEiLCJpZCI6ImZjX0xoS2phdHVsR015WXB0UVAwOXF6c1FVXzUifQ%3D%3D"
+  },
+  {
+   "question": "How many students go to South Paulding High School?",
+   "type": "ai_overview",
+   "page_token": "5IIcnnicHdBbctowAEDR6Wb4DNgmSWGG6YzBMqSRGAs9jH46smRQZPkRcPHjL1vIGrqqrCZJd3DPffvnXqri48e7advmupxOu667O9f12eV3qi6n8jpUaqqkc5lUxfLh8cH7dVKr6KbC9UWFCW0atsEzEqNTzhebQ9z3-xTDxApDGDCat5XaijlMDUeB6hH3GLIMoS24pKOOMqqvgqKGBLSnzhyeCQi5c6Oyu1bz3peeqdNxN-hR_OUcPUHe3_aM7Tgvesl_zjVt18RqC73FlUR1gMACYA5ibkVCRvH7mCYDBm4tS9g-E-hj5koW30ekAAHbYopsKDO362gJtnomDhScfTR4ZE-fBAdhQapjl1nzmhBz0cDB3DIbGQ1l1L4eU-xlkUY5c50GIIEb1-cVwgzXLwnFXwZX0oDdUOxG4RpGxyTIGByOLPSl3323W7ERse4mJ3VbBZP_r1d_TmW7bC71-RObh5A-",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=5IIcnnicHdBbctowAEDR6Wb4DNgmSWGG6YzBMqSRGAs9jH46smRQZPkRcPHjL1vIGrqqrCZJd3DPffvnXqri48e7advmupxOu667O9f12eV3qi6n8jpUaqqkc5lUxfLh8cH7dVKr6KbC9UWFCW0atsEzEqNTzhebQ9z3-xTDxApDGDCat5XaijlMDUeB6hH3GLIMoS24pKOOMqqvgqKGBLSnzhyeCQi5c6Oyu1bz3peeqdNxN-hR_OUcPUHe3_aM7Tgvesl_zjVt18RqC73FlUR1gMACYA5ibkVCRvH7mCYDBm4tS9g-E-hj5koW30ekAAHbYopsKDO362gJtnomDhScfTR4ZE-fBAdhQapjl1nzmhBz0cDB3DIbGQ1l1L4eU-xlkUY5c50GIIEb1-cVwgzXLwnFXwZX0oDdUOxG4RpGxyTIGByOLPSl3323W7ERse4mJ3VbBZP_r1d_TmW7bC71-RObh5A-",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmFYVnhUMDVETjBOSlZFOXFVRTloYTFGeFoxWlhZbVJJY0VnM1VWSkVWV0Z3T1RCcFRXbEpkbGd5ZFcxYWRIcHFWVTVYWXkxdk5GRm5ZVGQ0WjBKYWNYQk9NWGR3Tm05SloxUlNVa05rU25aZmJtNDBORzR0UWxoRVp4SVhUR2hMYW1GMGRXeEhUWGxaY0hSUlVEQTVjWHB6VVZVYUlrRkVjM0k1WmxGM2JrTlJha014Um1zNFpuTnZOelJ1ZUUwMFdVdHZaVFZoYkdjIiwiZmN2IjoiMyIsImVpIjoiTGhLamF0dWxHTXlZcHRRUDA5cXpzUVUiLCJxYyI6IkNpSnpiM1YwYUNCd1lYVnNaR2x1WnlCb2FXZG9JSE5qYUc5dmJDQm5aVzl5WjJsaEVBQjlob2NyUHciLCJxdWVzdGlvbiI6IkhvdyBtYW55IHN0dWRlbnRzIGdvIHRvIFNvdXRoIFBhdWxkaW5nIEhpZ2ggU2Nob29sPyIsImxrIjoiR2pKb2IzY2diV0Z1ZVNCemRIVmtaVzUwY3lCbmJ5QjBieUJ6YjNWMGFDQndZWFZzWkdsdVp5Qm9hV2RvSUhOamFHOXZiQSIsImJzIjoiYzRXUElZX0NRQkNGZzEyRnJucVNRTThVUENFSWlpTkJvQkI3N0Z5M29kMHB6R3dhX3YxQncwRXE2T252dmZmTm1JdFpIenpEWGduQ05lSEgxaHdGRFhGVEVkb0hVcVhneUdIUFVUMTJObGF1REFYeXN2RFluenh6dGN5bXlVUTYzUHhoXzhEUzRmNm9PWnAwS3dOcnNDaVkzYk84ekw2U1dTa1ltT19semRuTWMyNVIyM0NEYUhRVVZPNEJLQTktc0VneV82SDJXVzBxc3poNHE3Z2ZxSjd3VGFLOTA4cncxcTA1QnIybDJLdzZXX3RQNy1VN2RUMFVkano2QlEiLCJpZCI6ImZjX0xoS2phdHVsR015WXB0UVAwOXF6c1FVXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmFYVnhUMDVETjBOSlZFOXFVRTloYTFGeFoxWlhZbVJJY0VnM1VWSkVWV0Z3T1RCcFRXbEpkbGd5ZFcxYWRIcHFWVTVYWXkxdk5GRm5ZVGQ0WjBKYWNYQk9NWGR3Tm05SloxUlNVa05rU25aZmJtNDBORzR0UWxoRVp4SVhUR2hMYW1GMGRXeEhUWGxaY0hSUlVEQTVjWHB6VVZVYUlrRkVjM0k1WmxGM2JrTlJha014Um1zNFpuTnZOelJ1ZUUwMFdVdHZaVFZoYkdjIiwiZmN2IjoiMyIsImVpIjoiTGhLamF0dWxHTXlZcHRRUDA5cXpzUVUiLCJxYyI6IkNpSnpiM1YwYUNCd1lYVnNaR2x1WnlCb2FXZG9JSE5qYUc5dmJDQm5aVzl5WjJsaEVBQjlob2NyUHciLCJxdWVzdGlvbiI6IkhvdyBtYW55IHN0dWRlbnRzIGdvIHRvIFNvdXRoIFBhdWxkaW5nIEhpZ2ggU2Nob29sPyIsImxrIjoiR2pKb2IzY2diV0Z1ZVNCemRIVmtaVzUwY3lCbmJ5QjBieUJ6YjNWMGFDQndZWFZzWkdsdVp5Qm9hV2RvSUhOamFHOXZiQSIsImJzIjoiYzRXUElZX0NRQkNGZzEyRnJucVNRTThVUENFSWlpTkJvQkI3N0Z5M29kMHB6R3dhX3YxQncwRXE2T252dmZmTm1JdFpIenpEWGduQ05lSEgxaHdGRFhGVEVkb0hVcVhneUdIUFVUMTJObGF1REFYeXN2RFluenh6dGN5bXlVUTYzUHhoXzhEUzRmNm9PWnAwS3dOcnNDaVkzYk84ekw2U1dTa1ltT19semRuTWMyNVIyM0NEYUhRVVZPNEJLQTktc0VneV82SDJXVzBxc3poNHE3Z2ZxSjd3VGFLOTA4cncxcTA1QnIybDJLdzZXX3RQNy1VN2RUMFVkano2QlEiLCJpZCI6ImZjX0xoS2phdHVsR015WXB0UVAwOXF6c1FVXzUifQ%3D%3D"
+  },
+  {
+   "question": "What is the best high school in Paulding County, GA?",
+   "type": "ai_overview",
+   "page_token": "EKZL5HicHdBtbtowAIBh7TL9WWygTCChSWnisIy483fiP5NxIDR2PihZA_63K-wMO9VOs2oneB-9v_741879_fT7PI7DdTObTdP0WPd97Y-Ptm9n5nrv7Mwa7w_Gus3q8wp-Odlt8m6j5zcbETEMMqaAOf0zbyvPAlnSlCwx0Pdifp1E8nVeJVTYgJfHAvc6JXfaZTFz6MnEmFBXL3CKEIeIqw7lVsCLUIjlDZIvO8ls0CvDtXrZ-VBKGVmkiz2PmsMuUhJGaa7WSoI1pMn6Jjs7muL8LH027jk2pRvKCuhxz0AQUguB0IktakB9dlOONjRkXn94ufdBBvqdSw0NyniefnQX7i7SW6ASX6iA3_JEt6rzDKcQJecqN8l4KQsKD0mFj9JPFUIkj_3t2GEqaf9KBA228a1wOBKBUtFUaQVgodqx57HEZeue2ByEEqwdIQ8n-75dPPx_vf1xasfN8NbX_wAA-4z6",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=EKZL5HicHdBtbtowAIBh7TL9WWygTCChSWnisIy483fiP5NxIDR2PihZA_63K-wMO9VOs2oneB-9v_741879_fT7PI7DdTObTdP0WPd97Y-Ptm9n5nrv7Mwa7w_Gus3q8wp-Odlt8m6j5zcbETEMMqaAOf0zbyvPAlnSlCwx0Pdifp1E8nVeJVTYgJfHAvc6JXfaZTFz6MnEmFBXL3CKEIeIqw7lVsCLUIjlDZIvO8ls0CvDtXrZ-VBKGVmkiz2PmsMuUhJGaa7WSoI1pMn6Jjs7muL8LH027jk2pRvKCuhxz0AQUguB0IktakB9dlOONjRkXn94ufdBBvqdSw0NyniefnQX7i7SW6ASX6iA3_JEt6rzDKcQJecqN8l4KQsKD0mFj9JPFUIkj_3t2GEqaf9KBA228a1wOBKBUtFUaQVgodqx57HEZeue2ByEEqwdIQ8n-75dPPx_vf1xasfN8NbX_wAA-4z6",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmFYVnhUMDVETjBOSlZFOXFVRTloYTFGeFoxWlhZbVJJY0VnM1VWSkVWV0Z3T1RCcFRXbEpkbGd5ZFcxYWRIcHFWVTVYWXkxdk5GRm5ZVGQ0WjBKYWNYQk9NWGR3Tm05SloxUlNVa05rU25aZmJtNDBORzR0UWxoRVp4SVhUR2hMYW1GMGRXeEhUWGxaY0hSUlVEQTVjWHB6VVZVYUlrRkVjM0k1WmxGM2JrTlJha014Um1zNFpuTnZOelJ1ZUUwMFdVdHZaVFZoYkdjIiwiZmN2IjoiMyIsImVpIjoiTGhLamF0dWxHTXlZcHRRUDA5cXpzUVUiLCJxYyI6IkNpSnpiM1YwYUNCd1lYVnNaR2x1WnlCb2FXZG9JSE5qYUc5dmJDQm5aVzl5WjJsaEVBQjlob2NyUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgaGlnaCBzY2hvb2wgaW4gUGF1bGRpbmcgQ291bnR5LCBHQT8iLCJsayI6IkdqSjNhR0YwSUdseklIUm9aU0JpWlhOMElHaHBaMmdnYzJOb2IyOXNJR2x1SUhCaGRXeGthVzVuSUdOdmRXNTBlU0JuWVEiLCJicyI6ImM0V1BJWV9DUUJDRmcxMkZybnFTUU04VVBDRUlpaU5Cb0JCNzdGeTNvZDBwekd3YV92MUJ3MEVxNk9udnZmZk5tSXRaSHp6RFhnbkNOZUhIMWh3RkRYRlRFZG9IVXFYZ3lHSFBVVDEyTmxhdURBWHlzdkRZbnp4enRjeW15VVE2M1B4aF84RFM0ZjZvT1pwMEt3TnJzQ2lZM2JPOHpMNlNXU2tZbU9fbHpkbk1jMjVSMjNDRGFIUVVWTzRCS0E5LXNFZ3lfNkgyV1cwcXN6aDRxN2dmcUo3d1RhSzkwOHJ3MXEwNUJyMmwyS3c2V190UDctVTdkVDBVZGp6NkJRIiwiaWQiOiJmY19MaEtqYXR1bEdNeVlwdFFQMDlxenNRVV81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmFYVnhUMDVETjBOSlZFOXFVRTloYTFGeFoxWlhZbVJJY0VnM1VWSkVWV0Z3T1RCcFRXbEpkbGd5ZFcxYWRIcHFWVTVYWXkxdk5GRm5ZVGQ0WjBKYWNYQk9NWGR3Tm05SloxUlNVa05rU25aZmJtNDBORzR0UWxoRVp4SVhUR2hMYW1GMGRXeEhUWGxaY0hSUlVEQTVjWHB6VVZVYUlrRkVjM0k1WmxGM2JrTlJha014Um1zNFpuTnZOelJ1ZUUwMFdVdHZaVFZoYkdjIiwiZmN2IjoiMyIsImVpIjoiTGhLamF0dWxHTXlZcHRRUDA5cXpzUVUiLCJxYyI6IkNpSnpiM1YwYUNCd1lYVnNaR2x1WnlCb2FXZG9JSE5qYUc5dmJDQm5aVzl5WjJsaEVBQjlob2NyUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgaGlnaCBzY2hvb2wgaW4gUGF1bGRpbmcgQ291bnR5LCBHQT8iLCJsayI6IkdqSjNhR0YwSUdseklIUm9aU0JpWlhOMElHaHBaMmdnYzJOb2IyOXNJR2x1SUhCaGRXeGthVzVuSUdOdmRXNTBlU0JuWVEiLCJicyI6ImM0V1BJWV9DUUJDRmcxMkZybnFTUU04VVBDRUlpaU5Cb0JCNzdGeTNvZDBwekd3YV92MUJ3MEVxNk9udnZmZk5tSXRaSHp6RFhnbkNOZUhIMWh3RkRYRlRFZG9IVXFYZ3lHSFBVVDEyTmxhdURBWHlzdkRZbnp4enRjeW15VVE2M1B4aF84RFM0ZjZvT1pwMEt3TnJzQ2lZM2JPOHpMNlNXU2tZbU9fbHpkbk1jMjVSMjNDRGFIUVVWTzRCS0E5LXNFZ3lfNkgyV1cwcXN6aDRxN2dmcUo3d1RhSzkwOHJ3MXEwNUJyMmwyS3c2V190UDctVTdkVDBVZGp6NkJRIiwiaWQiOiJmY19MaEtqYXR1bEdNeVlwdFFQMDlxenNRVV81In0%3D"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "South Paulding High: Home",
+   "link": "https://sphs.paulding.k12.ga.us/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWAHrOzAVxuIT40bIJ8uVQdV4pNTjUn3K-9jxzPIrM33vc4XAH43PItVSbvBT8iy4dxU3z4i7izG-mCBcbVWNPSp2T7mHdL7onVUo9SXVcyKxPZsnL-pYhqk&ved=2ahUKEwjb9LGh7OSWAxVMjIkEHVPtLFYQFnoECD4QAQ&uoh=1",
+   "displayed_link": "https://sphs.paulding.k12.ga.us",
+   "snippet": "SOUTH PAULDING HIGH SCHOOL REVTRAK. Home. News & Announcements. View All News ... Paulding County School District students are reaching new heights on the 2026 ...",
+   "snippet_highlighted_words": [
+    "SOUTH PAULDING HIGH SCHOOL"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "Our School",
+      "link": "https://sphs.paulding.k12.ga.us/our-school",
+      "snippet": "South Paulding High School opened its doors in 2006 and is ..."
+     },
+     {
+      "title": "Parent Resources",
+      "link": "https://sphs.paulding.k12.ga.us/our-school/parent-resources",
+      "snippet": "South Paulding High School opened its doors in 2006 and is ..."
+     },
+     {
+      "title": "Student Resources",
+      "link": "https://sphs.paulding.k12.ga.us/our-school/student-resources",
+      "snippet": "South Paulding High School is a comprehensive high school ..."
+     },
+     {
+      "title": "Thomas, Edward",
+      "link": "https://sphs.paulding.k12.ga.us/staff-websites/thomas-edward",
+      "snippet": "After a rewarding yet brief stint in Florida teaching Theatre and ..."
+     },
+     {
+      "title": "Student Parking",
+      "link": "https://sphs.paulding.k12.ga.us/our-school/student-resources/student-parking",
+      "snippet": "Georgia Milestone Parent Letter \u00b7 Georgia Milestone Test Out ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "SOUTH PAULDING HIGH SCHOOL REVTRAK. Home. News & Announcements. View All News ... Paulding County School District students are reaching new heights on the 2026 ...",
+     "source_info_link": "https://sphs.paulding.k12.ga.us/"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESWAHrOzAVxuIT40bIJ8uVQdV4pNTjUn3K-9jxzPIrM33vc4XAH43PItVSbvBT8iy4dxU3z4i7izG-mCBcbVWNPSp2T7mHdL7onVUo9SXVcyKxPZsnL-pYhqk&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESWAHrOzAVxuIT40bIJ8uVQdV4pNTjUn3K-9jxzPIrM33vc4XAH43PItVSbvBT8iy4dxU3z4i7izG-mCBcbVWNPSp2T7mHdL7onVUo9SXVcyKxPZsnL-pYhqk",
+   "source": "Paulding County School District"
+  },
+  {
+   "position": 2,
+   "title": "Paulding County School District: Home",
+   "link": "https://www.paulding.k12.ga.us/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVwHrOzAVIzLo6xlv2NEN9IQfAC6LjiACrnz8ofMfRCkHDdXd9wvilEGLzqeWeFYBZHoWm-CpnrtUWgB7tBSN-stoEwhd4wLOnxXO32W5ugKILl8eXtAVqw&ved=2ahUKEwjb9LGh7OSWAxVMjIkEHVPtLFYQFnoECEEQAQ&uoh=1",
+   "displayed_link": "https://www.paulding.k12.ga.us",
+   "snippet": "Paulding County School District students are reaching new heights on the 2026 Georgia Milestones. ... South Paulding High School. Read More about Board of ...",
+   "snippet_highlighted_words": [
+    "Georgia",
+    "South Paulding High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Paulding County School District students are reaching new heights on the 2026 Georgia Milestones. ... South Paulding High School. Read More about Board of ...",
+     "source_info_link": "https://www.paulding.k12.ga.us/"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESVwHrOzAVIzLo6xlv2NEN9IQfAC6LjiACrnz8ofMfRCkHDdXd9wvilEGLzqeWeFYBZHoWm-CpnrtUWgB7tBSN-stoEwhd4wLOnxXO32W5ugKILl8eXtAVqw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESVwHrOzAVIzLo6xlv2NEN9IQfAC6LjiACrnz8ofMfRCkHDdXd9wvilEGLzqeWeFYBZHoWm-CpnrtUWgB7tBSN-stoEwhd4wLOnxXO32W5ugKILl8eXtAVqw",
+   "source": "Paulding County School District",
+   "read_more_link": "https://www.paulding.k12.ga.us/#:~:text=Paulding%20County%20School%20District%20students,on%20the%202026%20Georgia%20Milestones.&text=Upcoming%20Events"
+  },
+  {
+   "position": 3,
+   "title": "South Paulding High School | Douglasville GA",
+   "link": "https://www.facebook.com/southpauldinghigh/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAV-BDZNQ00MEQHa-iA62EuGZEEECjB5zihTsYTw9ws8L7TtQwRCVumej7YSxY_eOIQkkzFuWsLG6Lv5Lir9mdh3TDXIWDcJStoK2vbok5ORT61IrVJzCrw4c7QrAFu6A&ved=2ahUKEwjb9LGh7OSWAxVMjIkEHVPtLFYQFnoECEoQAQ&uoh=1",
+   "displayed_link": "6.9K+ followers",
+   "snippet": "South Paulding High School in located in Douglasville, Georgia, and serves students in grades 9 - 12. High School \u00b7 $. Follow. 88% recommend (293 reviews).",
+   "snippet_highlighted_words": [
+    "South Paulding High School",
+    "Georgia"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "South Paulding High School in located in Douglasville, Georgia, and serves students in grades 9 - 12. High School \u00b7 $. Follow. 88% recommend (293 reviews).",
+     "source_info_link": "https://www.facebook.com/southpauldinghigh/"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYwHrOzAV-BDZNQ00MEQHa-iA62EuGZEEECjB5zihTsYTw9ws8L7TtQwRCVumej7YSxY_eOIQkkzFuWsLG6Lv5Lir9mdh3TDXIWDcJStoK2vbok5ORT61IrVJzCrw4c7QrAFu6A&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYwHrOzAV-BDZNQ00MEQHa-iA62EuGZEEECjB5zihTsYTw9ws8L7TtQwRCVumej7YSxY_eOIQkkzFuWsLG6Lv5Lir9mdh3TDXIWDcJStoK2vbok5ORT61IrVJzCrw4c7QrAFu6A",
+   "source": "Facebook \u00b7 South Paulding High School",
+   "read_more_link": "https://www.facebook.com/southpauldinghigh/#:~:text=South%20Paulding%20High%20School%20in,88%25%20recommend%20(293%20reviews)"
+  },
+  {
+   "position": 4,
+   "title": "South Paulding High School in Douglasville, GA",
+   "link": "https://www.usnews.com/education/best-high-schools/georgia/districts/paulding-county-public-schools/south-paulding-high-school-6045",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESvAEB6zswFWK69q_UsgWlzCK-nYqt2mVM5QapFrJb9YQe8O_e7whrL-ZdvC11dsWt-72xwYaZ6gajKq6aVckT5vIxuXTP_eItNUHfs0BoSJOht8EcqpQUiNPY49jBj0wLPEb805z6YQg3z-T-JKxsKCsgqDamDqRt9KLHZFKu5sCzzdm8GFwmgDbYIBYazfGrRDUH0Hb510_C26-6fAyVKN8LG0uLtMm6OoUwMH3RzHaBiq9cUWp656DgRXxSTg&ved=2ahUKEwjb9LGh7OSWAxVMjIkEHVPtLFYQFnoECGMQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a paulding-county-public-schools",
+   "snippet": "South Paulding High School is ranked #12,621 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well ...",
+   "snippet_highlighted_words": [
+    "South Paulding High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "South Paulding High School is ranked #12,621 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/georgia/districts/paulding-county-public-schools/south-paulding-high-school-6045"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESvAEB6zswFWK69q_UsgWlzCK-nYqt2mVM5QapFrJb9YQe8O_e7whrL-ZdvC11dsWt-72xwYaZ6gajKq6aVckT5vIxuXTP_eItNUHfs0BoSJOht8EcqpQUiNPY49jBj0wLPEb805z6YQg3z-T-JKxsKCsgqDamDqRt9KLHZFKu5sCzzdm8GFwmgDbYIBYazfGrRDUH0Hb510_C26-6fAyVKN8LG0uLtMm6OoUwMH3RzHaBiq9cUWp656DgRXxSTg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESvAEB6zswFWK69q_UsgWlzCK-nYqt2mVM5QapFrJb9YQe8O_e7whrL-ZdvC11dsWt-72xwYaZ6gajKq6aVckT5vIxuXTP_eItNUHfs0BoSJOht8EcqpQUiNPY49jBj0wLPEb805z6YQg3z-T-JKxsKCsgqDamDqRt9KLHZFKu5sCzzdm8GFwmgDbYIBYazfGrRDUH0Hb510_C26-6fAyVKN8LG0uLtMm6OoUwMH3RzHaBiq9cUWp656DgRXxSTg",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/georgia/districts/paulding-county-public-schools/south-paulding-high-school-6045#:~:text=South%20Paulding%20High%20School%20is,they%20prepare%20students%20for%20college."
+  },
+  {
+   "position": 5,
+   "title": "South Paulding High School",
+   "link": "https://en.wikipedia.org/wiki/South_Paulding_High_School",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHrOzAVjgpnq5W8cqNJTsfCX4anW35-lLiIzDU6ZuFTFKnhj9UlZgBOeb2v35JJ-_6KwC9SlQ55UFTe2ikJu0ABTyXT-8MTv7QNHqWkMAkHgXT-h4vRWosljW-QZyLtle8KKuTbxc71YT895Oo0Q_k&ved=2ahUKEwjb9LGh7OSWAxVMjIkEHVPtLFYQFnoECGQQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a South_Paulding_High_...",
+   "snippet": "South Paulding High School is a public high school located in Paulding County, Georgia, United States. Opened in 2006, South Paulding is a part of the ...",
+   "snippet_highlighted_words": [
+    "South Paulding High School",
+    "Georgia"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "South Paulding High School is a public high school located in Paulding County, Georgia, United States. Opened in 2006, South Paulding is a part of the ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/South_Paulding_High_School"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEScAHrOzAVjgpnq5W8cqNJTsfCX4anW35-lLiIzDU6ZuFTFKnhj9UlZgBOeb2v35JJ-_6KwC9SlQ55UFTe2ikJu0ABTyXT-8MTv7QNHqWkMAkHgXT-h4vRWosljW-QZyLtle8KKuTbxc71YT895Oo0Q_k&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEScAHrOzAVjgpnq5W8cqNJTsfCX4anW35-lLiIzDU6ZuFTFKnhj9UlZgBOeb2v35JJ-_6KwC9SlQ55UFTe2ikJu0ABTyXT-8MTv7QNHqWkMAkHgXT-h4vRWosljW-QZyLtle8KKuTbxc71YT895Oo0Q_k",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/South_Paulding_High_School#:~:text=South%20Paulding%20High%20School%20is,the%20Paulding%20County%20School%20District."
+  },
+  {
+   "position": 6,
+   "title": "South Paulding (Douglasville, GA) High School Sports",
+   "link": "https://www.maxpreps.com/ga/douglasville/south-paulding-spartans/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAVvtOFsbGGNx53I6w5CwOlQO2xznkUb_Nevw9hWWBLFzIfhE_5iDXz_lpSAx_MSeOqS3iuY6MoNOOqieZDPyceth2-wRic49XIQ6HEeOrcIW_UafonKWzBtFfqBkABNN_NR5UglCPo6x6S6gPx7M5Ms4RjNTU&ved=2ahUKEwjb9LGh7OSWAxVMjIkEHVPtLFYQFnoECGgQAQ&uoh=1",
+   "displayed_link": "https://www.maxpreps.com \u203a Georgia",
+   "snippet": "Coverage of South Paulding High School sports including Baseball, Basketball, Cheer, Flag Football, Football, Soccer, Softball, Tennis, Track & Field, ...",
+   "snippet_highlighted_words": [
+    "South Paulding High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Coverage of South Paulding High School sports including Baseball, Basketball, Cheer, Flag Football, Football, Soccer, Softball, Tennis, Track & Field, ...",
+     "source_info_link": "https://www.maxpreps.com/ga/douglasville/south-paulding-spartans/"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESeQHrOzAVvtOFsbGGNx53I6w5CwOlQO2xznkUb_Nevw9hWWBLFzIfhE_5iDXz_lpSAx_MSeOqS3iuY6MoNOOqieZDPyceth2-wRic49XIQ6HEeOrcIW_UafonKWzBtFfqBkABNN_NR5UglCPo6x6S6gPx7M5Ms4RjNTU&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESeQHrOzAVvtOFsbGGNx53I6w5CwOlQO2xznkUb_Nevw9hWWBLFzIfhE_5iDXz_lpSAx_MSeOqS3iuY6MoNOOqieZDPyceth2-wRic49XIQ6HEeOrcIW_UafonKWzBtFfqBkABNN_NR5UglCPo6x6S6gPx7M5Ms4RjNTU",
+   "source": "MaxPreps"
+  },
+  {
+   "position": 7,
+   "title": "South Paulding High School - Driving directions",
+   "link": "https://www.waze.com/live-map/directions/south-paulding-high-school-winn-rd-1364-douglasville?to=place.w.180355410.1803357491.3018574",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESvgEB6zswFUNPhbQHUWW8FoNTReTSIs-m25WxIknRRQ3sDZ2rZ-ZPsKx-iox8h7Rs3BumbYxOpTe1n9gebuj4jxqW7PuPHxlAgkiIMWYn1OJtQG4yYmqOnAb1ZlaoiAp6aHVAqM-s2fQKMKyIhC81g2R-9zG3AZqqmqu3kOBT-uRi5pqV46oRKHbhp5LHjjdRng0Htsz8tRmlu1iLxNPDA3Ti1IYTYUAaBYYHvz5EmsZpCG70VeKRqm-nEOHakxk5&ved=2ahUKEwjb9LGh7OSWAxVMjIkEHVPtLFYQFnoECGIQAQ&uoh=1",
+   "displayed_link": "https://www.waze.com \u203a live-map \u203a directions \u203a south-pa...",
+   "snippet": "Realtime driving directions to South Paulding High School, 1364 Winn Rd, Douglasville, based on live traffic updates and road conditions \u2013 from Waze fellow ...",
+   "snippet_highlighted_words": [
+    "South Paulding High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Realtime driving directions to South Paulding High School, 1364 Winn Rd, Douglasville, based on live traffic updates and road conditions \u2013 from Waze fellow ...",
+     "source_info_link": "https://www.waze.com/live-map/directions/south-paulding-high-school-winn-rd-1364-douglasville?to=place.w.180355410.1803357491.3018574"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESvgEB6zswFUNPhbQHUWW8FoNTReTSIs-m25WxIknRRQ3sDZ2rZ-ZPsKx-iox8h7Rs3BumbYxOpTe1n9gebuj4jxqW7PuPHxlAgkiIMWYn1OJtQG4yYmqOnAb1ZlaoiAp6aHVAqM-s2fQKMKyIhC81g2R-9zG3AZqqmqu3kOBT-uRi5pqV46oRKHbhp5LHjjdRng0Htsz8tRmlu1iLxNPDA3Ti1IYTYUAaBYYHvz5EmsZpCG70VeKRqm-nEOHakxk5&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESvgEB6zswFUNPhbQHUWW8FoNTReTSIs-m25WxIknRRQ3sDZ2rZ-ZPsKx-iox8h7Rs3BumbYxOpTe1n9gebuj4jxqW7PuPHxlAgkiIMWYn1OJtQG4yYmqOnAb1ZlaoiAp6aHVAqM-s2fQKMKyIhC81g2R-9zG3AZqqmqu3kOBT-uRi5pqV46oRKHbhp5LHjjdRng0Htsz8tRmlu1iLxNPDA3Ti1IYTYUAaBYYHvz5EmsZpCG70VeKRqm-nEOHakxk5",
+   "source": "Waze"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "South paulding high school georgia football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=South+paulding+high+school+georgia+football&sa=X&ved=2ahUKEwjb9LGh7OSWAxVMjIkEHVPtLFYQ1QJ6BAhlEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=South+paulding+high+school+georgia+football"
+  },
+  {
+   "block_position": 1,
+   "query": "South paulding high school georgia basketball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=South+paulding+high+school+georgia+basketball&sa=X&ved=2ahUKEwjb9LGh7OSWAxVMjIkEHVPtLFYQ1QJ6BAh4EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=South+paulding+high+school+georgia+basketball"
+  },
+  {
+   "block_position": 1,
+   "query": "South paulding high school georgia baseball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=South+paulding+high+school+georgia+baseball&sa=X&ved=2ahUKEwjb9LGh7OSWAxVMjIkEHVPtLFYQ1QJ6BAh8EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=South+paulding+high+school+georgia+baseball"
+  },
+  {
+   "block_position": 1,
+   "query": "South paulding high school georgia alumni",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=South+paulding+high+school+georgia+alumni&sa=X&ved=2ahUKEwjb9LGh7OSWAxVMjIkEHVPtLFYQ1QJ6BAh2EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=South+paulding+high+school+georgia+alumni"
+  },
+  {
+   "block_position": 1,
+   "query": "Paulding County High School",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Paulding+County+High+School&sa=X&ved=2ahUKEwjb9LGh7OSWAxVMjIkEHVPtLFYQ1QJ6BAhxEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Paulding+County+High+School"
+  },
+  {
+   "block_position": 1,
+   "query": "West Paulding High School",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=West+Paulding+High+School&sa=X&ved=2ahUKEwjb9LGh7OSWAxVMjIkEHVPtLFYQ1QJ6BAhuEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=West+Paulding+High+School"
+  },
+  {
+   "block_position": 1,
+   "query": "Paulding County School District",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Paulding+County+School+District&sa=X&ved=2ahUKEwjb9LGh7OSWAxVMjIkEHVPtLFYQ1QJ6BAhsEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Paulding+County+School+District"
+  },
+  {
+   "block_position": 1,
+   "query": "South Paulding Middle School",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=South+Paulding+Middle+School&sa=X&ved=2ahUKEwjb9LGh7OSWAxVMjIkEHVPtLFYQ1QJ6BAhpEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=South+Paulding+Middle+School"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22South+Paulding+High+School%22+Georgia&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=LhKjatulGMyYptQP09qzsQU&start=10&sa=N&sstk=AS6-VmJadaCze2JMBoFdk5Gh0ZLUWP2u3LDwRmK7LIxvfk3Q8Ka7CoGd9iGgt1OtoxEk_j57V15P3tn333zEgsH6XlfXFF8lb8hk5Q&ved=2ahUKEwjb9LGh7OSWAxVMjIkEHVPtLFYQ8NMDegQIUxAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22South+Paulding+High+School%22+Georgia&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=LhKjatulGMyYptQP09qzsQU&start=10&sa=N&sstk=AS6-VmJadaCze2JMBoFdk5Gh0ZLUWP2u3LDwRmK7LIxvfk3Q8Ka7CoGd9iGgt1OtoxEk_j57V15P3tn333zEgsH6XlfXFF8lb8hk5Q&ved=2ahUKEwjb9LGh7OSWAxVMjIkEHVPtLFYQ8tMDegQIUxAE",
+   "3": "https://www.google.com/search?q=%22South+Paulding+High+School%22+Georgia&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=LhKjatulGMyYptQP09qzsQU&start=20&sa=N&sstk=AS6-VmJadaCze2JMBoFdk5Gh0ZLUWP2u3LDwRmK7LIxvfk3Q8Ka7CoGd9iGgt1OtoxEk_j57V15P3tn333zEgsH6XlfXFF8lb8hk5Q&ved=2ahUKEwjb9LGh7OSWAxVMjIkEHVPtLFYQ8tMDegQIUxAG",
+   "4": "https://www.google.com/search?q=%22South+Paulding+High+School%22+Georgia&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=LhKjatulGMyYptQP09qzsQU&start=30&sa=N&sstk=AS6-VmJadaCze2JMBoFdk5Gh0ZLUWP2u3LDwRmK7LIxvfk3Q8Ka7CoGd9iGgt1OtoxEk_j57V15P3tn333zEgsH6XlfXFF8lb8hk5Q&ved=2ahUKEwjb9LGh7OSWAxVMjIkEHVPtLFYQ8tMDegQIUxAI",
+   "5": "https://www.google.com/search?q=%22South+Paulding+High+School%22+Georgia&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=LhKjatulGMyYptQP09qzsQU&start=40&sa=N&sstk=AS6-VmJadaCze2JMBoFdk5Gh0ZLUWP2u3LDwRmK7LIxvfk3Q8Ka7CoGd9iGgt1OtoxEk_j57V15P3tn333zEgsH6XlfXFF8lb8hk5Q&ved=2ahUKEwjb9LGh7OSWAxVMjIkEHVPtLFYQ8tMDegQIUxAK",
+   "6": "https://www.google.com/search?q=%22South+Paulding+High+School%22+Georgia&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=LhKjatulGMyYptQP09qzsQU&start=50&sa=N&sstk=AS6-VmJadaCze2JMBoFdk5Gh0ZLUWP2u3LDwRmK7LIxvfk3Q8Ka7CoGd9iGgt1OtoxEk_j57V15P3tn333zEgsH6XlfXFF8lb8hk5Q&ved=2ahUKEwjb9LGh7OSWAxVMjIkEHVPtLFYQ8tMDegQIUxAM",
+   "7": "https://www.google.com/search?q=%22South+Paulding+High+School%22+Georgia&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=LhKjatulGMyYptQP09qzsQU&start=60&sa=N&sstk=AS6-VmJadaCze2JMBoFdk5Gh0ZLUWP2u3LDwRmK7LIxvfk3Q8Ka7CoGd9iGgt1OtoxEk_j57V15P3tn333zEgsH6XlfXFF8lb8hk5Q&ved=2ahUKEwjb9LGh7OSWAxVMjIkEHVPtLFYQ8tMDegQIUxAO",
+   "8": "https://www.google.com/search?q=%22South+Paulding+High+School%22+Georgia&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=LhKjatulGMyYptQP09qzsQU&start=70&sa=N&sstk=AS6-VmJadaCze2JMBoFdk5Gh0ZLUWP2u3LDwRmK7LIxvfk3Q8Ka7CoGd9iGgt1OtoxEk_j57V15P3tn333zEgsH6XlfXFF8lb8hk5Q&ved=2ahUKEwjb9LGh7OSWAxVMjIkEHVPtLFYQ8tMDegQIUxAQ",
+   "9": "https://www.google.com/search?q=%22South+Paulding+High+School%22+Georgia&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=LhKjatulGMyYptQP09qzsQU&start=80&sa=N&sstk=AS6-VmJadaCze2JMBoFdk5Gh0ZLUWP2u3LDwRmK7LIxvfk3Q8Ka7CoGd9iGgt1OtoxEk_j57V15P3tn333zEgsH6XlfXFF8lb8hk5Q&ved=2ahUKEwjb9LGh7OSWAxVMjIkEHVPtLFYQ8tMDegQIUxAS",
+   "10": "https://www.google.com/search?q=%22South+Paulding+High+School%22+Georgia&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=LhKjatulGMyYptQP09qzsQU&start=90&sa=N&sstk=AS6-VmJadaCze2JMBoFdk5Gh0ZLUWP2u3LDwRmK7LIxvfk3Q8Ka7CoGd9iGgt1OtoxEk_j57V15P3tn333zEgsH6XlfXFF8lb8hk5Q&ved=2ahUKEwjb9LGh7OSWAxVMjIkEHVPtLFYQ8tMDegQIUxAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22South+Paulding+High+School%22+Georgia&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22South+Paulding+High+School%22+Georgia&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22South+Paulding+High+School%22+Georgia&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22South+Paulding+High+School%22+Georgia&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22South+Paulding+High+School%22+Georgia&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22South+Paulding+High+School%22+Georgia&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22South+Paulding+High+School%22+Georgia&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22South+Paulding+High+School%22+Georgia&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22South+Paulding+High+School%22+Georgia&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22South+Paulding+High+School%22+Georgia&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22South+Paulding+High+School%22+Georgia&start=90"
+  }
+ }
+}

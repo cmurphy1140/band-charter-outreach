@@ -1,0 +1,444 @@
+{
+ "search_information": {
+  "query_displayed": "\"Winchester Community High School\" Indiana",
+  "total_results": 54900,
+  "time_taken_displayed": 0.37,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Winchester Community High School",
+  "type": "Public school in Winchester, Indiana",
+  "entity_type": "local_nav",
+  "kgmid": "/g/11cmdh3dy7",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/g/11cmdh3dy7&hl=en-US&q=Winchester+Community+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fg%2F11cmdh3dy7&q=Winchester+Community+High+School",
+  "place_id": "ChIJ0bKZ6slfFYgRvfKXw2GmpCo",
+  "website": "https://www.rc.k12.in.us/o/winchester-community-high-school",
+  "description": "Winchester Community High School is a public high school located in Winchester, Indiana, United States. The School serves the town of Winchester and surrounding area. In 2023 the student body was about 93 percent white and 4 percent hispanic.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa3133099d5f4fc6ce5da9c/images/jusy6_BMc3A8Pr_BX9Kh4dpFvihgmFHceVwg_fH1pSI.webp",
+   "link": "https://www.google.com/maps/place/Winchester+Community+High+School/data=!4m2!3m1!1s0x0:0x2aa4a661c397f2bd?sa=X&ved=2ahUKEwinxfKd7eSWAxXjFhAIHfKoEGYQ_BJ6BAgQEAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Winchester_Community_High_School"
+  },
+  "address": "700 N Union St, Winchester, IN 47394",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=5a6de5ad61aa0ca3&hl=en&gl=us&sxsrf=APpeQnt8pmDJYI1g7f3aVZFftSaS3oPp1w:1789072179510&q=winchester+community+high+school+address&ludocid=3072763784597074621&sa=X&ved=2ahUKEwinxfKd7eSWAxXjFhAIHfKoEGYQ6BN6BAggEAI"
+   }
+  ],
+  "school_type": "State school",
+  "school_type_links": [
+   {
+    "text": "State school",
+    "link": "https://www.google.com/search?sca_esv=5a6de5ad61aa0ca3&hl=en&gl=us&sxsrf=APpeQnt8pmDJYI1g7f3aVZFftSaS3oPp1w:1789072179510&q=State+school&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ybGtCxI0H8z2nV80srIO5hjViyillkK5kkfBMbqSqsCGlkwruwTbKGnCaupsYC72jUW_-A7e7_6oxTWDDWROEmknAN66OKEGtZMoDyqvbv8JC8KeQlNS2_K4xKW9nQHKIo6pYFp68c2d9mGUNgLU347Q3qn-w4Ws6sJHpIZ7GO2-QnL6Sg%3D%3D&sa=X&ved=2ahUKEwinxfKd7eSWAxXjFhAIHfKoEGYQmxN6BAghEAI"
+   }
+  ],
+  "district": "Randolph Central School Corporation",
+  "district_links": [
+   {
+    "text": "Randolph Central School Corporation",
+    "link": "https://www.google.com/search?sca_esv=5a6de5ad61aa0ca3&hl=en&gl=us&sxsrf=APpeQnt8pmDJYI1g7f3aVZFftSaS3oPp1w:1789072179510&q=Randolph+Central+School+Corporation&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW670IGSwbbtcFTJGbgebgNopfhLOF1cEHu2-wcvc29Z-kHBviO0ZJz3M-lBLM1aSWLz1N-pnJ-4b756PPBrjXTolvqcqVCVk2Jec9yY7_TXIPfSV-p5rk98_nynoSRhRU0-HrW_z0Qo-p9Bw0PTrxnhP7YC4ysJp7glqiURBpkcaJq1fGn7YXyuoi20LD201ijAKeoomo%3D&sa=X&ved=2ahUKEwinxfKd7eSWAxXjFhAIHfKoEGYQmxN6BAgiEAI"
+   }
+  ],
+  "phone": "(765) 584-8201",
+  "unclaimed_listing": true,
+  "people_also_search_for": [
+   {
+    "name": "Blue River Valley Jr./Sr. High School",
+    "image": "https://serpapi.com/searches/6aa3133099d5f4fc6ce5da9c/images/jusy6_BMc3A8Pr_BX9Kh4eBnBsCwHXiMOQDaxx1QQH4mAurUQPRvhaB8zYLG6liN.jpeg",
+    "link": "https://www.google.com/search?sca_esv=5a6de5ad61aa0ca3&hl=en&gl=us&sxsrf=APpeQnt8pmDJYI1g7f3aVZFftSaS3oPp1w:1789072179510&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67xjFuW5ZhmsylNm7aqmmAKjna39wcR1LwHcIXYgMJ8e6whhH21kJPtroUlefwsAb2yVpGRUrmztDJZGtO3nuvygoUqoyx8PZlFjQY3GWmfrti5QjrrVhQ1OFqHnJKKl0E9elOKKENjyVF-lCyrP8-8smzfqIeBVQL71BBjv9LboqJ0wWgSv-4ZMiqv9Pg2ynprYClO6HZ7CiPqcm0loUtOvyIlzNVjg9sd9fOSJHGTbVjX_tnLasFM-u5rhxh55QbIMp9Z6Dm3BC9R7WlA1cw8v4ycCuVsqbHMEphoA1Bk6ogC7VMw%3D%3D&q=Blue+river+valley+high+school&sa=X&ved=2ahUKEwinxfKd7eSWAxXjFhAIHfKoEGYQs9oBKAB6BAgeEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Blue+river+valley+high+school&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67xjFuW5ZhmsylNm7aqmmAKjna39wcR1LwHcIXYgMJ8e6whhH21kJPtroUlefwsAb2yVpGRUrmztDJZGtO3nuvygoUqoyx8PZlFjQY3GWmfrti5QjrrVhQ1OFqHnJKKl0E9elOKKENjyVF-lCyrP8-8smzfqIeBVQL71BBjv9LboqJ0wWgSv-4ZMiqv9Pg2ynprYClO6HZ7CiPqcm0loUtOvyIlzNVjg9sd9fOSJHGTbVjX_tnLasFM-u5rhxh55QbIMp9Z6Dm3BC9R7WlA1cw8v4ycCuVsqbHMEphoA1Bk6ogC7VMw%3D%3D"
+   },
+   {
+    "name": "Monroe Central Jr./Sr. High School",
+    "image": "https://serpapi.com/searches/6aa3133099d5f4fc6ce5da9c/images/jusy6_BMc3A8Pr_BX9Kh4eBnBsCwHXiMOQDaxx1QQH4NT9AU20WFL3LdmAhTo-Ny.jpeg",
+    "link": "https://www.google.com/search?sca_esv=5a6de5ad61aa0ca3&hl=en&gl=us&sxsrf=APpeQnt8pmDJYI1g7f3aVZFftSaS3oPp1w:1789072179510&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW676g1fqUSsMSXVtfB3RRvO2nc5zBHs-W1ziZlxh3gG9OQSC3lNRncgfXiE4rgzMNSF87Agh6lx9RAE0HB3_xvvoVLtSYuvXqZa2O-CctJZsbwV9ofaoIrUbS1dx6Q9o_xwyHy4JRGz3PsKbYvzwbWIy21pVmClIQO03FAh7n9_XBxy5Bywkluw4OZCH5kJHbqS1euhxYlw5l_8Zgi6mcrypIAZmDkIB2ZZJLp48ZT16CyquJSqVDWusp2gdTAc2TRmSo-WxshOOnp6gwSw3fdXy_bryYBamVvVl1dyT1ucrabp_LNkQ%3D%3D&q=Monroe+Central+Junior-Senior+High+School&sa=X&ved=2ahUKEwinxfKd7eSWAxXjFhAIHfKoEGYQs9oBKAB6BAgeEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Monroe+Central+Junior-Senior+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW676g1fqUSsMSXVtfB3RRvO2nc5zBHs-W1ziZlxh3gG9OQSC3lNRncgfXiE4rgzMNSF87Agh6lx9RAE0HB3_xvvoVLtSYuvXqZa2O-CctJZsbwV9ofaoIrUbS1dx6Q9o_xwyHy4JRGz3PsKbYvzwbWIy21pVmClIQO03FAh7n9_XBxy5Bywkluw4OZCH5kJHbqS1euhxYlw5l_8Zgi6mcrypIAZmDkIB2ZZJLp48ZT16CyquJSqVDWusp2gdTAc2TRmSo-WxshOOnp6gwSw3fdXy_bryYBamVvVl1dyT1ucrabp_LNkQ%3D%3D"
+   },
+   {
+    "name": "Eastbrook High School",
+    "image": "https://serpapi.com/searches/6aa3133099d5f4fc6ce5da9c/images/jusy6_BMc3A8Pr_BX9Kh4eBnBsCwHXiMOQDaxx1QQH7TFOukRV1rusXaZvJB2rfb.jpeg",
+    "link": "https://www.google.com/search?sca_esv=5a6de5ad61aa0ca3&hl=en&gl=us&sxsrf=APpeQnt8pmDJYI1g7f3aVZFftSaS3oPp1w:1789072179510&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW674wgiI9cMCKPto-F6sUvNWG7n2ri089L3nKW75RQnMlJBl1UvkzfpR0qTucdNhdhlToV9UFwQacOPEDA-m6Kfv1WvUKeDQcmoV6xFOB3oj4Hwyjfh3CaNwX0X3by3aAz3sX0WMuahjpprYl81pwK-Xdk8ef3vz69FHrHKAWyta3iR_F5brGNKYxLlMwfjPP8qD8INqRLD4zQJUAYEwxROoQuMb1oHushAnSiuA2VhZRB1Z4vBhO32H-EJaNTvpL7P5ZxQPDluAOKS9T5ooDCFmqxHgwq&q=Eastbrook+High+School&sa=X&ved=2ahUKEwinxfKd7eSWAxXjFhAIHfKoEGYQs9oBKAB6BAgeEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Eastbrook+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW674wgiI9cMCKPto-F6sUvNWG7n2ri089L3nKW75RQnMlJBl1UvkzfpR0qTucdNhdhlToV9UFwQacOPEDA-m6Kfv1WvUKeDQcmoV6xFOB3oj4Hwyjfh3CaNwX0X3by3aAz3sX0WMuahjpprYl81pwK-Xdk8ef3vz69FHrHKAWyta3iR_F5brGNKYxLlMwfjPP8qD8INqRLD4zQJUAYEwxROoQuMb1oHushAnSiuA2VhZRB1Z4vBhO32H-EJaNTvpL7P5ZxQPDluAOKS9T5ooDCFmqxHgwq"
+   },
+   {
+    "name": "Cowan Community Schools",
+    "image": "https://serpapi.com/searches/6aa3133099d5f4fc6ce5da9c/images/jusy6_BMc3A8Pr_BX9Kh4eBnBsCwHXiMOQDaxx1QQH72byHuek8dkxKpmxRYQYiV.jpeg",
+    "link": "https://www.google.com/search?sca_esv=5a6de5ad61aa0ca3&hl=en&gl=us&sxsrf=APpeQnt8pmDJYI1g7f3aVZFftSaS3oPp1w:1789072179510&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ySHr-01u_3KXi9HR7JYZMFvMizoyzSGQLYat1n1HUIDnR-E5rKW02yU3yDLXkbC_bQuT2y4izr1vz2IkpzaaJA9r_Nz5I5lIVLY88uMLDbtkA68VggYIlBteiIIeVdO0s6XJXqw3lJ8I8B1bYOFM8kzxkU1h937xhsHre-G70xH2AIjEeKbckv4mQqLxN9ZvzqSpq876QHMu3cKyHiSKrZBZEz47K2z2VFj8ljjPXezXy8whT33_obBxyzRsEV9_tcyGyY7tdAxf5AQ8s1cv2JUZOHNKckIlMjjYq6Qii-8Kmut8lA%3D%3D&q=Cowan+Junior-Senior+High+School&sa=X&ved=2ahUKEwinxfKd7eSWAxXjFhAIHfKoEGYQs9oBKAB6BAgeEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Cowan+Junior-Senior+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ySHr-01u_3KXi9HR7JYZMFvMizoyzSGQLYat1n1HUIDnR-E5rKW02yU3yDLXkbC_bQuT2y4izr1vz2IkpzaaJA9r_Nz5I5lIVLY88uMLDbtkA68VggYIlBteiIIeVdO0s6XJXqw3lJ8I8B1bYOFM8kzxkU1h937xhsHre-G70xH2AIjEeKbckv4mQqLxN9ZvzqSpq876QHMu3cKyHiSKrZBZEz47K2z2VFj8ljjPXezXy8whT33_obBxyzRsEV9_tcyGyY7tdAxf5AQ8s1cv2JUZOHNKckIlMjjYq6Qii-8Kmut8lA%3D%3D"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=5a6de5ad61aa0ca3&hl=en&gl=us&sxsrf=APpeQnt8pmDJYI1g7f3aVZFftSaS3oPp1w:1789072179510&q=Winchester+Community+High+School&stick=H4sIAAAAAAAAAONgFuLVT9c3NEzOTckwTqk0V0LlagkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axKoQnpmXnJFaXJJapOCcn5tbmpdZUqngkZmeoRCcnJGfn7ODlfEWmyTDG4eKwFy-ps4l4YaHWLUXbY5ICrZJD_t-HAB7Kk9ejgAAAA&sa=X&ved=2ahUKEwinxfKd7eSWAxXjFhAIHfKoEGYQzO0BKAR6BAgeEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLVT9c3NEzOTckwTqk0V0LlagkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axKoQnpmXnJFaXJJapOCcn5tbmpdZUqngkZmeoRCcnJGfn7ODlfEWmyTDG4eKwFy-ps4l4YaHWLUXbY5ICrZJD_t-HAB7Kk9ejgAAAA",
+  "profiles": [
+   {
+    "name": "X (Twitter)",
+    "link": "https://twitter.com/winchestercomm1",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Winchester+Community+High+School%22+Indiana",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAABhUlEQVR4AczOA6xcARCF4X_us23btuLUQR3WZlhbQW3bto2gtm3b2J3GN4tY74uHh3okOi42Nj4AAUDwTvDEhisABCOAEAzYTBh0bN-lc5d0QgAhHPqX4Y4pkd367Zc-xMcXCPDg8TPwxeQH724Uj9N95GJ4pnHxby1xgCmV3v-GsFb7k0Iee7UjaQgmIYe9v9O4-wUKWaATyMPAViwvr1NnOQWDdTV5CHYSaKWLmaGDyvU4mTgQcllracaFr-9uk-yLM8k8fAJff0IUTghRVFu3M1ynkYk4nchiqqU3Ry05RDibMMhjtj6Ht3dJxVk_l1G64cspOusychBsCWm01WNM0jFs0sbEYUtIIuTXNco588OLh09JxE6wweuXEAvfL9PQus3-iU80N34KCaQyUOcxTTuSjEmMRI5rS9JwIZfD1t7ceo34YIpnuQ4nGwP8XXlq_fJZd9jE8KBHC5IwAELJ7dWrZ6fOuNhkgFgAEEIAwA1MQkw0AgDC_wnKycrKSQ2iPAkAVyNzq8rxicIAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/WinchesterCommunityHighSchoolGoldenFalcons/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Winchester+Community+High+School%22+Indiana",
+    "image": "https://serpapi.com/searches/6aa3133099d5f4fc6ce5da9c/images/jusy6_BMc3A8Pr_BX9Kh4Qz3srunYZRyaOM5ZkV-uCVg81N5BTeViRsGV32b15Ls.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "What is the #1 high school in Indiana?",
+   "type": "ai_overview",
+   "page_token": "Q6pRk3icHdBRjqIwGADg7GV8HCnNssHEbILQHZsRpy39gb5ssKBoW6ijo4xvc5c91Z5mkvmO8H3-s8fB_P9x669Xf1nM5_f7_ekwjgfbPenRzZvLx6DnurF212iziH5F6PdeL7P3dbI6rxMmvYeUB0LStzJVXmK7EkTVMs0ekOYsD1HTSX_bORuJIce1s-8b01ZdxmELVAigWADZ6EdCJTogFl5-bpA9q8GTIjBYGNrUcnop3PWVh34SkBQy1BOzcdAaclOGThrlK4GtKMAPuzKumSWFJqopbdxsy_akSjJJ1FL5nJMd2ECh3ivHJoX4qzY-4n8ofgELBfQIHETdiQxZ3-ZdFp_rCpwyPSowxzIjbPvM1wznScnHI5P8oU_WQXYJqjB76EFtu8pzADpuyjhtyhg45EcBtpJstte3JZ59fy7_7t114d_GwxfSy4KW",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Q6pRk3icHdBRjqIwGADg7GV8HCnNssHEbILQHZsRpy39gb5ssKBoW6ijo4xvc5c91Z5mkvmO8H3-s8fB_P9x669Xf1nM5_f7_ekwjgfbPenRzZvLx6DnurF212iziH5F6PdeL7P3dbI6rxMmvYeUB0LStzJVXmK7EkTVMs0ekOYsD1HTSX_bORuJIce1s-8b01ZdxmELVAigWADZ6EdCJTogFl5-bpA9q8GTIjBYGNrUcnop3PWVh34SkBQy1BOzcdAaclOGThrlK4GtKMAPuzKumSWFJqopbdxsy_akSjJJ1FL5nJMd2ECh3ivHJoX4qzY-4n8ofgELBfQIHETdiQxZ3-ZdFp_rCpwyPSowxzIjbPvM1wznScnHI5P8oU_WQXYJqjB76EFtu8pzADpuyjhtyhg45EcBtpJstte3JZ59fy7_7t114d_GwxfSy4KW",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGJHMWxZbnBIV0ROV2Rqa3hOalJ1Y1dNdFpFMWFUbWhIYlhZMWRHbHhXRnBOUzJKdlMyNW5OM1o1YkRrdFJYbFhjUzA0YTBRM1lVbEtUbUprUnpGYU56QkJNazlSWTJGd1ZEaE1RV2hVZUZWcGFHcHVPVEpDVEdwUVFSSVhUWGhQYW1GMVptWklkVTkwZDFCQlVEaDBTRU56UVZrYUlrRkVjM0k1WmxOVVEyWmxZM2RLYURCSFozWXROMmh6Vmt4bE9UaHBUMnhhWWtFIiwiZmN2IjoiMyIsImVpIjoiTXhPamF1ZmZIdU90d1BBUDh0SENzQVkiLCJxYyI6IkNpaDNhVzVqYUdWemRHVnlJR052YlcxMWJtbDBlU0JvYVdkb0lITmphRzl2YkNCcGJtUnBZVzVoRUFCOWxKUTRQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgIzEgaGlnaCBzY2hvb2wgaW4gSW5kaWFuYT8iLCJsayI6IkdpVjNhR0YwSUdseklIUm9aU0FqTVNCb2FXZG9JSE5qYUc5dmJDQnBiaUJwYm1ScFlXNWgiLCJicyI6ImMzMk9NUXZDTUJCR2NiM0pPWWdjaUxWSVFab18wTmxSRkRwS1RLTTVLSWtra2Z4OVk5VlNzSFgtM3J0N2NJQ3MxaUlnZVF4YTRhcEVUVGVOWG1wcld5U0RlOU9RTUtMaUc3YU9mMGw2azNDR1hYZnlzelRrZ3lQWmlUVVpxWlVQeWhYZncwbXJlTUcyY1VLSnZkSV9PRUk1YkxadGszYThQeTR0eWNuOEpWdGN5U1Z1b3ZvRS1hRGFvM0RxTlk4VVZ6eG5XUnhoZjFQbnN5YyIsImlkIjoiZmNfTXhPamF1ZmZIdU90d1BBUDh0SENzQVlfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGJHMWxZbnBIV0ROV2Rqa3hOalJ1Y1dNdFpFMWFUbWhIYlhZMWRHbHhXRnBOUzJKdlMyNW5OM1o1YkRrdFJYbFhjUzA0YTBRM1lVbEtUbUprUnpGYU56QkJNazlSWTJGd1ZEaE1RV2hVZUZWcGFHcHVPVEpDVEdwUVFSSVhUWGhQYW1GMVptWklkVTkwZDFCQlVEaDBTRU56UVZrYUlrRkVjM0k1WmxOVVEyWmxZM2RLYURCSFozWXROMmh6Vmt4bE9UaHBUMnhhWWtFIiwiZmN2IjoiMyIsImVpIjoiTXhPamF1ZmZIdU90d1BBUDh0SENzQVkiLCJxYyI6IkNpaDNhVzVqYUdWemRHVnlJR052YlcxMWJtbDBlU0JvYVdkb0lITmphRzl2YkNCcGJtUnBZVzVoRUFCOWxKUTRQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgIzEgaGlnaCBzY2hvb2wgaW4gSW5kaWFuYT8iLCJsayI6IkdpVjNhR0YwSUdseklIUm9aU0FqTVNCb2FXZG9JSE5qYUc5dmJDQnBiaUJwYm1ScFlXNWgiLCJicyI6ImMzMk9NUXZDTUJCR2NiM0pPWWdjaUxWSVFab18wTmxSRkRwS1RLTTVLSWtra2Z4OVk5VlNzSFgtM3J0N2NJQ3MxaUlnZVF4YTRhcEVUVGVOWG1wcld5U0RlOU9RTUtMaUc3YU9mMGw2azNDR1hYZnlzelRrZ3lQWmlUVVpxWlVQeWhYZncwbXJlTUcyY1VLSnZkSV9PRUk1YkxadGszYThQeTR0eWNuOEpWdGN5U1Z1b3ZvRS1hRGFvM0RxTlk4VVZ6eG5XUnhoZjFQbnN5YyIsImlkIjoiZmNfTXhPamF1ZmZIdU90d1BBUDh0SENzQVlfNSJ9"
+  },
+  {
+   "question": "What school district is Winchester, Indiana in?",
+   "type": "ai_overview",
+   "page_token": "EEGkcnicHdBLjtowAABQ9TKzHOykoQIJjeRiT4jGhjj-BG-qxDEJifPpkALDrlfoGXqqnqZVb_D0fv7256H78-lXM8_TZb1Y3G6353oca--e7dgvisvHYBe28L4sbLdeflnCl5Pd4KtFX98tSuU0qS0HWb-67uM60KLaKYJwJozJhNdS-YPD9-1eVUhvCXDSEBUmF9cZyQOF5Rk8eEeY0Wx57KPZxAgUgmEXT43NVeAIz7kmsMJRInCEM51QrfhZAZYd4WpSMbrTsEpSz2La-pMgE7KKflCvDlIn1_xRzXxgqOxgxiEDjhjkBpMo1ehSzjl9hVTJVZBheKWv80GCW1QGZicADirfvJXg_lYOU097A1zrmcRVi5uKObz6fsxVb7oGipCHEpN0H_NdGjKk-XhOJX_Y1vdSsC6F9WfRw5C2O1B20Y9_fm-2XBWELVWeJDJ9OtnrJnz6f735durn9fQ-1n8BM36Jxw",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=EEGkcnicHdBLjtowAABQ9TKzHOykoQIJjeRiT4jGhjj-BG-qxDEJifPpkALDrlfoGXqqnqZVb_D0fv7256H78-lXM8_TZb1Y3G6353oca--e7dgvisvHYBe28L4sbLdeflnCl5Pd4KtFX98tSuU0qS0HWb-67uM60KLaKYJwJozJhNdS-YPD9-1eVUhvCXDSEBUmF9cZyQOF5Rk8eEeY0Wx57KPZxAgUgmEXT43NVeAIz7kmsMJRInCEM51QrfhZAZYd4WpSMbrTsEpSz2La-pMgE7KKflCvDlIn1_xRzXxgqOxgxiEDjhjkBpMo1ehSzjl9hVTJVZBheKWv80GCW1QGZicADirfvJXg_lYOU097A1zrmcRVi5uKObz6fsxVb7oGipCHEpN0H_NdGjKk-XhOJX_Y1vdSsC6F9WfRw5C2O1B20Y9_fm-2XBWELVWeJDJ9OtnrJnz6f735durn9fQ-1n8BM36Jxw",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGJHMWxZbnBIV0ROV2Rqa3hOalJ1Y1dNdFpFMWFUbWhIYlhZMWRHbHhXRnBOUzJKdlMyNW5OM1o1YkRrdFJYbFhjUzA0YTBRM1lVbEtUbUprUnpGYU56QkJNazlSWTJGd1ZEaE1RV2hVZUZWcGFHcHVPVEpDVEdwUVFSSVhUWGhQYW1GMVptWklkVTkwZDFCQlVEaDBTRU56UVZrYUlrRkVjM0k1WmxOVVEyWmxZM2RLYURCSFozWXROMmh6Vmt4bE9UaHBUMnhhWWtFIiwiZmN2IjoiMyIsImVpIjoiTXhPamF1ZmZIdU90d1BBUDh0SENzQVkiLCJxYyI6IkNpaDNhVzVqYUdWemRHVnlJR052YlcxMWJtbDBlU0JvYVdkb0lITmphRzl2YkNCcGJtUnBZVzVoRUFCOWxKUTRQdyIsInF1ZXN0aW9uIjoiV2hhdCBzY2hvb2wgZGlzdHJpY3QgaXMgV2luY2hlc3RlciwgSW5kaWFuYSBpbj8iLCJsayI6IkdpcDNhR0YwSUhOamFHOXZiQ0JrYVhOMGNtbGpkQ0JwY3lCM2FXNWphR1Z6ZEdWeUlHbHVaR2xoYm1FIiwiYnMiOiJjMzJPTVF2Q01CQkdjYjNKT1lnY2lMVklRWm9fME5sUkZEcEtUS001S0lra2tmeDlZOVZTc0hYLTNydDdjSUNzMWlJZ2VReGE0YXBFVFRlTlhtcHJXeVNEZTlPUU1LTGlHN2FPZjBsNmszQ0dYWGZ5c3pUa2d5UFppVFVacVpVUHloWGZ3MG1yZU1HMmNVS0p2ZElfT0VJNWJMWnRrM2E4UHk0dHljbjhKVnRjeVNWdW92b0UtYURhbzNEcU5ZOFVWenhuV1J4aGYxUG5zeWMiLCJpZCI6ImZjX014T2phdWZmSHVPdHdQQVA4dEhDc0FZXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGJHMWxZbnBIV0ROV2Rqa3hOalJ1Y1dNdFpFMWFUbWhIYlhZMWRHbHhXRnBOUzJKdlMyNW5OM1o1YkRrdFJYbFhjUzA0YTBRM1lVbEtUbUprUnpGYU56QkJNazlSWTJGd1ZEaE1RV2hVZUZWcGFHcHVPVEpDVEdwUVFSSVhUWGhQYW1GMVptWklkVTkwZDFCQlVEaDBTRU56UVZrYUlrRkVjM0k1WmxOVVEyWmxZM2RLYURCSFozWXROMmh6Vmt4bE9UaHBUMnhhWWtFIiwiZmN2IjoiMyIsImVpIjoiTXhPamF1ZmZIdU90d1BBUDh0SENzQVkiLCJxYyI6IkNpaDNhVzVqYUdWemRHVnlJR052YlcxMWJtbDBlU0JvYVdkb0lITmphRzl2YkNCcGJtUnBZVzVoRUFCOWxKUTRQdyIsInF1ZXN0aW9uIjoiV2hhdCBzY2hvb2wgZGlzdHJpY3QgaXMgV2luY2hlc3RlciwgSW5kaWFuYSBpbj8iLCJsayI6IkdpcDNhR0YwSUhOamFHOXZiQ0JrYVhOMGNtbGpkQ0JwY3lCM2FXNWphR1Z6ZEdWeUlHbHVaR2xoYm1FIiwiYnMiOiJjMzJPTVF2Q01CQkdjYjNKT1lnY2lMVklRWm9fME5sUkZEcEtUS001S0lra2tmeDlZOVZTc0hYLTNydDdjSUNzMWlJZ2VReGE0YXBFVFRlTlhtcHJXeVNEZTlPUU1LTGlHN2FPZjBsNmszQ0dYWGZ5c3pUa2d5UFppVFVacVpVUHloWGZ3MG1yZU1HMmNVS0p2ZElfT0VJNWJMWnRrM2E4UHk0dHljbjhKVnRjeVNWdW92b0UtYURhbzNEcU5ZOFVWenhuV1J4aGYxUG5zeWMiLCJpZCI6ImZjX014T2phdWZmSHVPdHdQQVA4dEhDc0FZXzUifQ%3D%3D"
+  },
+  {
+   "question": "What is the oldest public high school in Indiana?",
+   "type": "ai_overview",
+   "page_token": "K67nb3icHdBRbpswGABg7TJ9bGwcujZSNCnBhFjDET_2T-BlIoaEFhMIYSXhrVfoGXqqnWbTbvDp-_iyr-f6z7fPahi662I2G8fx8dS2J1s-mraZ5df72cxMbu0hN_Xi6fsT_XE0S_5uVuverCLddegBUYEvS41rcMxcNqgOjn_Jmdhov0Pp0LTgA0Ly7EROFptJQqZlWjb4GxwxxlO2xxruwKt1ofmU6zkLeaci4nqoi34XU7dshipNum2k_CrbZ61CeQMCP0sMR0ioZ0gXFES2qLf3nMhruLndsBFjaW0qmRChZy95TKfUpiT0_1E8cdYKNmjFuFOiR69qC-5KE4h5vqlYoiXEXjgpmiVArJu9YX_QFUn2Zs6rQpb85ZLuscnqiioGTHM_2gWwjZhcJdC-Rhom82YbXVumHHqViWSKAgO7uhwIuljLQAadKBKcsvHhaN6X7OH_9fLXsRkWXd-e_gL9F4rY",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=K67nb3icHdBRbpswGABg7TJ9bGwcujZSNCnBhFjDET_2T-BlIoaEFhMIYSXhrVfoGXqqnWbTbvDp-_iyr-f6z7fPahi662I2G8fx8dS2J1s-mraZ5df72cxMbu0hN_Xi6fsT_XE0S_5uVuverCLddegBUYEvS41rcMxcNqgOjn_Jmdhov0Pp0LTgA0Ly7EROFptJQqZlWjb4GxwxxlO2xxruwKt1ofmU6zkLeaci4nqoi34XU7dshipNum2k_CrbZ61CeQMCP0sMR0ioZ0gXFES2qLf3nMhruLndsBFjaW0qmRChZy95TKfUpiT0_1E8cdYKNmjFuFOiR69qC-5KE4h5vqlYoiXEXjgpmiVArJu9YX_QFUn2Zs6rQpb85ZLuscnqiioGTHM_2gWwjZhcJdC-Rhom82YbXVumHHqViWSKAgO7uhwIuljLQAadKBKcsvHhaN6X7OH_9fLXsRkWXd-e_gL9F4rY",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGJHMWxZbnBIV0ROV2Rqa3hOalJ1Y1dNdFpFMWFUbWhIYlhZMWRHbHhXRnBOUzJKdlMyNW5OM1o1YkRrdFJYbFhjUzA0YTBRM1lVbEtUbUprUnpGYU56QkJNazlSWTJGd1ZEaE1RV2hVZUZWcGFHcHVPVEpDVEdwUVFSSVhUWGhQYW1GMVptWklkVTkwZDFCQlVEaDBTRU56UVZrYUlrRkVjM0k1WmxOVVEyWmxZM2RLYURCSFozWXROMmh6Vmt4bE9UaHBUMnhhWWtFIiwiZmN2IjoiMyIsImVpIjoiTXhPamF1ZmZIdU90d1BBUDh0SENzQVkiLCJxYyI6IkNpaDNhVzVqYUdWemRHVnlJR052YlcxMWJtbDBlU0JvYVdkb0lITmphRzl2YkNCcGJtUnBZVzVoRUFCOWxKUTRQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgb2xkZXN0IHB1YmxpYyBoaWdoIHNjaG9vbCBpbiBJbmRpYW5hPyIsImxrIjoiR2h4bWFYSnpkQ0JvYVdkb0lITmphRzl2YkNCcGJpQnBibVJwWVc1aCIsImJzIjoiYzMyT01RdkNNQkJHY2IzSk9ZZ2NpTFZJUVpvXzBObFJGRHBLVEtNNUtJa2trZng5WTlWU3NIWC0zcnQ3Y0lDczFpSWdlUXhhNGFwRVRUZU5YbXByV3lTRGU5T1FNS0xpRzdhT2YwbDZrM0NHWFhmeXN6VGtneVBaaVRVWnFaVVB5aFhmdzBtcmVNRzJjVUtKdmRJX09FSTViTFp0azNhOFB5NHR5Y244SlZ0Y3lTVnVvdm9FLWFEYW8zRHFOWThVVnp4bldSeGhmMVBuc3ljIiwiaWQiOiJmY19NeE9qYXVmZkh1T3R3UEFQOHRIQ3NBWV81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGJHMWxZbnBIV0ROV2Rqa3hOalJ1Y1dNdFpFMWFUbWhIYlhZMWRHbHhXRnBOUzJKdlMyNW5OM1o1YkRrdFJYbFhjUzA0YTBRM1lVbEtUbUprUnpGYU56QkJNazlSWTJGd1ZEaE1RV2hVZUZWcGFHcHVPVEpDVEdwUVFSSVhUWGhQYW1GMVptWklkVTkwZDFCQlVEaDBTRU56UVZrYUlrRkVjM0k1WmxOVVEyWmxZM2RLYURCSFozWXROMmh6Vmt4bE9UaHBUMnhhWWtFIiwiZmN2IjoiMyIsImVpIjoiTXhPamF1ZmZIdU90d1BBUDh0SENzQVkiLCJxYyI6IkNpaDNhVzVqYUdWemRHVnlJR052YlcxMWJtbDBlU0JvYVdkb0lITmphRzl2YkNCcGJtUnBZVzVoRUFCOWxKUTRQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgb2xkZXN0IHB1YmxpYyBoaWdoIHNjaG9vbCBpbiBJbmRpYW5hPyIsImxrIjoiR2h4bWFYSnpkQ0JvYVdkb0lITmphRzl2YkNCcGJpQnBibVJwWVc1aCIsImJzIjoiYzMyT01RdkNNQkJHY2IzSk9ZZ2NpTFZJUVpvXzBObFJGRHBLVEtNNUtJa2trZng5WTlWU3NIWC0zcnQ3Y0lDczFpSWdlUXhhNGFwRVRUZU5YbXByV3lTRGU5T1FNS0xpRzdhT2YwbDZrM0NHWFhmeXN6VGtneVBaaVRVWnFaVVB5aFhmdzBtcmVNRzJjVUtKdmRJX09FSTViTFp0azNhOFB5NHR5Y244SlZ0Y3lTVnVvdm9FLWFEYW8zRHFOWThVVnp4bldSeGhmMVBuc3ljIiwiaWQiOiJmY19NeE9qYXVmZkh1T3R3UEFQOHRIQ3NBWV81In0%3D"
+  },
+  {
+   "question": "What schools are in Winchester, Indiana?",
+   "type": "ai_overview",
+   "page_token": "-Wsug3icHdDBboIwAADQ7Gd2VKDRqYlZwtYKRMoobYVellqUKkVgMkFu-5d91b5my87v9r6-zelS_jzcdNc119V02vf9pKjrwhwmqq6m8nq_qKmSxuylKlfzp7n9fFRr-Om7L63vxqxp-CuxKFwMERUdsQKZsYVNuY4UQ5sQ-h3bBUMKCiuxOk9sEA5tV2YOaaUjiKpM_eeCwWW2peK6twbAnWW75Tk6lLOXvclNfMYzzjUQhkSJHSCyy087rzmqUTQU6ZampFQXDiTkfmaWcQz4W1iJIbcCj6GsJ9B2cxawFORUptoPN8UYAiwpK_qwHDAuF3fOEQzH4JaVpuaOdqHO8QEu2yzllSi1TQEBDKI48ogfA-zuSH2KGRnV2VTsDLsI5k2CGkyARpIN88RDs8OGjYltJHcwYPHjUd3W4PH_c_1-rLpV81EXv_hegas",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=-Wsug3icHdDBboIwAADQ7Gd2VKDRqYlZwtYKRMoobYVellqUKkVgMkFu-5d91b5my87v9r6-zelS_jzcdNc119V02vf9pKjrwhwmqq6m8nq_qKmSxuylKlfzp7n9fFRr-Om7L63vxqxp-CuxKFwMERUdsQKZsYVNuY4UQ5sQ-h3bBUMKCiuxOk9sEA5tV2YOaaUjiKpM_eeCwWW2peK6twbAnWW75Tk6lLOXvclNfMYzzjUQhkSJHSCyy087rzmqUTQU6ZampFQXDiTkfmaWcQz4W1iJIbcCj6GsJ9B2cxawFORUptoPN8UYAiwpK_qwHDAuF3fOEQzH4JaVpuaOdqHO8QEu2yzllSi1TQEBDKI48ogfA-zuSH2KGRnV2VTsDLsI5k2CGkyARpIN88RDs8OGjYltJHcwYPHjUd3W4PH_c_1-rLpV81EXv_hegas",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGJHMWxZbnBIV0ROV2Rqa3hOalJ1Y1dNdFpFMWFUbWhIYlhZMWRHbHhXRnBOUzJKdlMyNW5OM1o1YkRrdFJYbFhjUzA0YTBRM1lVbEtUbUprUnpGYU56QkJNazlSWTJGd1ZEaE1RV2hVZUZWcGFHcHVPVEpDVEdwUVFSSVhUWGhQYW1GMVptWklkVTkwZDFCQlVEaDBTRU56UVZrYUlrRkVjM0k1WmxOVVEyWmxZM2RLYURCSFozWXROMmh6Vmt4bE9UaHBUMnhhWWtFIiwiZmN2IjoiMyIsImVpIjoiTXhPamF1ZmZIdU90d1BBUDh0SENzQVkiLCJxYyI6IkNpaDNhVzVqYUdWemRHVnlJR052YlcxMWJtbDBlU0JvYVdkb0lITmphRzl2YkNCcGJtUnBZVzVoRUFCOWxKUTRQdyIsInF1ZXN0aW9uIjoiV2hhdCBzY2hvb2xzIGFyZSBpbiBXaW5jaGVzdGVyLCBJbmRpYW5hPyIsImxrIjoiR2laM2FHRjBJSE5qYUc5dmJITWdZWEpsSUdsdUlIZHBibU5vWlhOMFpYSWdhVzVrYVdGdVlRIiwiYnMiOiJjMzJPTVF2Q01CQkdjYjNKT1lnY2lMVklRWm9fME5sUkZEcEtUS001S0lra2tmeDlZOVZTc0hYLTNydDdjSUNzMWlJZ2VReGE0YXBFVFRlTlhtcHJXeVNEZTlPUU1LTGlHN2FPZjBsNmszQ0dYWGZ5c3pUa2d5UFppVFVacVpVUHloWGZ3MG1yZU1HMmNVS0p2ZElfT0VJNWJMWnRrM2E4UHk0dHljbjhKVnRjeVNWdW92b0UtYURhbzNEcU5ZOFVWenhuV1J4aGYxUG5zeWMiLCJpZCI6ImZjX014T2phdWZmSHVPdHdQQVA4dEhDc0FZXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGJHMWxZbnBIV0ROV2Rqa3hOalJ1Y1dNdFpFMWFUbWhIYlhZMWRHbHhXRnBOUzJKdlMyNW5OM1o1YkRrdFJYbFhjUzA0YTBRM1lVbEtUbUprUnpGYU56QkJNazlSWTJGd1ZEaE1RV2hVZUZWcGFHcHVPVEpDVEdwUVFSSVhUWGhQYW1GMVptWklkVTkwZDFCQlVEaDBTRU56UVZrYUlrRkVjM0k1WmxOVVEyWmxZM2RLYURCSFozWXROMmh6Vmt4bE9UaHBUMnhhWWtFIiwiZmN2IjoiMyIsImVpIjoiTXhPamF1ZmZIdU90d1BBUDh0SENzQVkiLCJxYyI6IkNpaDNhVzVqYUdWemRHVnlJR052YlcxMWJtbDBlU0JvYVdkb0lITmphRzl2YkNCcGJtUnBZVzVoRUFCOWxKUTRQdyIsInF1ZXN0aW9uIjoiV2hhdCBzY2hvb2xzIGFyZSBpbiBXaW5jaGVzdGVyLCBJbmRpYW5hPyIsImxrIjoiR2laM2FHRjBJSE5qYUc5dmJITWdZWEpsSUdsdUlIZHBibU5vWlhOMFpYSWdhVzVrYVdGdVlRIiwiYnMiOiJjMzJPTVF2Q01CQkdjYjNKT1lnY2lMVklRWm9fME5sUkZEcEtUS001S0lra2tmeDlZOVZTc0hYLTNydDdjSUNzMWlJZ2VReGE0YXBFVFRlTlhtcHJXeVNEZTlPUU1LTGlHN2FPZjBsNmszQ0dYWGZ5c3pUa2d5UFppVFVacVpVUHloWGZ3MG1yZU1HMmNVS0p2ZElfT0VJNWJMWnRrM2E4UHk0dHljbjhKVnRjeVNWdW92b0UtYURhbzNEcU5ZOFVWenhuV1J4aGYxUG5zeWMiLCJpZCI6ImZjX014T2phdWZmSHVPdHdQQVA4dEhDc0FZXzUifQ%3D%3D"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Winchester Community High School",
+   "link": "https://www.rc.k12.in.us/o/winchester-community-high-school",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHrOzAVEBrUex02ejox9vakzmW-Mls8b0q2PZHsB3PMhG1XCZy3gMVX03yzZrQOKPacp9bwgrFG9DCrU2jZ8DheuY8jpd_z_p5xhyR6BFrhBvM3RFVQsX_gR1ndAIdKDgqgW0MBNQTsc0YGzoGYg_Goho4&ved=2ahUKEwinxfKd7eSWAxXjFhAIHfKoEGYQFnoECEYQAQ&uoh=1",
+   "displayed_link": "https://www.rc.k12.in.us \u203a winchester-community-high-s...",
+   "favicon": "https://serpapi.com/images/i/UklGRsIBAABXRUJQVlA4ILYBAADQBgCdASogACAAAsBMJQAq6zP6LIegmcLIEcCuAlQQyHxlPlzhP8j-1gz9wCYJ9kMk_NCsVe0VSVNAYitFJsAA_vqtcMmK3BJ9lq1aZJsWNEkN8AoTuQrHjpL8S1rZv8xVaaZ7bBUlyopxN8IMeLJQ6PkfizEa7u04HMkQZG2tbbvUXgxl6_Gd53H5QIcG6fqPcj4qD9G2z5vfPzngKVlaRKHKDoBNxwjPq_v3zqiI0YMnQKdzUqZfeYD3DUTig8UJmJJPsR4qVc3LNiGPnUKP3ZcihOV-39pA_S-nb7s1WrOS0xYlZly4nZo4v-D_McJRd66WNtqu5XxzlQAFCESR692_j6goC5WabkVhnR365vzjoBD9OdPumomGPKEXoQGFEZaXUEuyB7roEV1mnLR8B2m_Aasod8mvIDa5JE-xBbLj3ovz6MDWE0DMewq51OrAsRzyJJFsvmLTdmSIYgI_zS45W0fZIWRJD9ODPbYp9b-b2SJud9f66IbjWfuNGtrHG315dES4HcTCyYxoo5Q6OnpWBb_AvFpUVOUkrnf1YpBMm7qIbQmmL8CsHyWMTKpdyuIVgAA.webp",
+   "snippet": "Winchester Community High School. Inspire, Challenge, Educate \u00b7 EnrollmentDrop ... Find Us. Winchester Community High School700 Union Street Winchester, IN ...",
+   "snippet_highlighted_words": [
+    "Winchester Community High School",
+    "Winchester Community High School"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "Staff",
+      "link": "https://www.rc.k12.in.us/o/winchester-community-high-school/staff",
+      "snippet": "Winchester Community High School ; Karla Reed Ext. 1511 ..."
+     },
+     {
+      "title": "Events",
+      "link": "https://www.rc.k12.in.us/o/winchester-community-high-school/events",
+      "snippet": "Winchester Community High School. Inspire, Challenge ..."
+     },
+     {
+      "title": "Athletics",
+      "link": "https://wchs.rc.k12.in.us/o/winchester-community-high-school/athletics",
+      "snippet": "Winchester Community High School700 Union Street ..."
+     },
+     {
+      "title": "Documents",
+      "link": "https://www.rc.k12.in.us/o/winchester-community-high-school/documents/79945",
+      "snippet": "Winchester Community High School \u00b7 Documents. Name ..."
+     },
+     {
+      "title": "Dining",
+      "link": "https://www.rc.k12.in.us/o/winchester-community-high-school/dining",
+      "snippet": "USDA is an equal opportunity provider, employer, and lender ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Winchester Community High School. Inspire, Challenge, Educate \u00b7 EnrollmentDrop ... Find Us. Winchester Community High School700 Union Street Winchester, IN ...",
+     "source_info_link": "https://www.rc.k12.in.us/o/winchester-community-high-school",
+     "icon": "https://serpapi.com/images/i/UklGRsIBAABXRUJQVlA4ILYBAADQBgCdASogACAAAsBMJQAq6zP6LIegmcLIEcCuAlQQyHxlPlzhP8j-1gz9wCYJ9kMk_NCsVe0VSVNAYitFJsAA_vqtcMmK3BJ9lq1aZJsWNEkN8AoTuQrHjpL8S1rZv8xVaaZ7bBUlyopxN8IMeLJQ6PkfizEa7u04HMkQZG2tbbvUXgxl6_Gd53H5QIcG6fqPcj4qD9G2z5vfPzngKVlaRKHKDoBNxwjPq_v3zqiI0YMnQKdzUqZfeYD3DUTig8UJmJJPsR4qVc3LNiGPnUKP3ZcihOV-39pA_S-nb7s1WrOS0xYlZly4nZo4v-D_McJRd66WNtqu5XxzlQAFCESR692_j6goC5WabkVhnR365vzjoBD9OdPumomGPKEXoQGFEZaXUEuyB7roEV1mnLR8B2m_Aasod8mvIDa5JE-xBbLj3ovz6MDWE0DMewq51OrAsRzyJJFsvmLTdmSIYgI_zS45W0fZIWRJD9ODPbYp9b-b2SJud9f66IbjWfuNGtrHG315dES4HcTCyYxoo5Q6OnpWBb_AvFpUVOUkrnf1YpBMm7qIbQmmL8CsHyWMTKpdyuIVgAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEScwHrOzAVEBrUex02ejox9vakzmW-Mls8b0q2PZHsB3PMhG1XCZy3gMVX03yzZrQOKPacp9bwgrFG9DCrU2jZ8DheuY8jpd_z_p5xhyR6BFrhBvM3RFVQsX_gR1ndAIdKDgqgW0MBNQTsc0YGzoGYg_Goho4&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEScwHrOzAVEBrUex02ejox9vakzmW-Mls8b0q2PZHsB3PMhG1XCZy3gMVX03yzZrQOKPacp9bwgrFG9DCrU2jZ8DheuY8jpd_z_p5xhyR6BFrhBvM3RFVQsX_gR1ndAIdKDgqgW0MBNQTsc0YGzoGYg_Goho4",
+   "source": "Randolph Central School Corporation"
+  },
+  {
+   "position": 2,
+   "title": "Winchester Community High School, Winchester, Indiana",
+   "link": "https://www.facebook.com/WinchesterCommunityHighSchoolGoldenFalcons/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHrOzAV1pHzv2yTPMfosylKkvFy_BJzKEJht3s2H4duEoJxXk4cZQL5IIeSO70Vm8qzl7BnfeTNSiWCwnqhXY0-WJp5zYTNldVe82wuxquXcu7ccTfNzlflOKP3LIXYkMcIrlOSC4pGoLgDVZwRVSXRFq5MaDmW47zfrkc&ved=2ahUKEwinxfKd7eSWAxXjFhAIHfKoEGYQFnoECEEQAQ&uoh=1",
+   "displayed_link": "5.5K+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "snippet": "Winchester Community High School is the only high school in the Randolph Central School Corporation located in east central Indiana in Randolph County.",
+   "snippet_highlighted_words": [
+    "Winchester Community High School",
+    "Indiana"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Winchester Community High School is the only high school in the Randolph Central School Corporation located in east central Indiana in Randolph County.",
+     "source_info_link": "https://www.facebook.com/WinchesterCommunityHighSchoolGoldenFalcons/",
+     "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESfAHrOzAV1pHzv2yTPMfosylKkvFy_BJzKEJht3s2H4duEoJxXk4cZQL5IIeSO70Vm8qzl7BnfeTNSiWCwnqhXY0-WJp5zYTNldVe82wuxquXcu7ccTfNzlflOKP3LIXYkMcIrlOSC4pGoLgDVZwRVSXRFq5MaDmW47zfrkc&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESfAHrOzAV1pHzv2yTPMfosylKkvFy_BJzKEJht3s2H4duEoJxXk4cZQL5IIeSO70Vm8qzl7BnfeTNSiWCwnqhXY0-WJp5zYTNldVe82wuxquXcu7ccTfNzlflOKP3LIXYkMcIrlOSC4pGoLgDVZwRVSXRFq5MaDmW47zfrkc",
+   "source": "Facebook \u00b7 Winchester Community High School, Winchester, Indiana",
+   "read_more_link": "https://www.facebook.com/WinchesterCommunityHighSchoolGoldenFalcons/#:~:text=Winchester%20Community%20High%20School%20is,central%20Indiana%20in%20Randolph%20County."
+  },
+  {
+   "position": 3,
+   "title": "Winchester Community High School",
+   "link": "https://en.wikipedia.org/wiki/Winchester_Community_High_School",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHrOzAVXtYb9zJHSNBFrMa3oeZA0Pzg_DkWSG6_q5AOdG9RMjIe76FkWZWKcFAVvo9uI6MsoBTar7tlzEG6yOtCjA_K6ZzgnJ88LXL0dT3ZZdgfrezk1FeWSmnKxuNKAjiI_FqkDGe0pDufi5s8C0rWAJWQv6c&ved=2ahUKEwinxfKd7eSWAxXjFhAIHfKoEGYQFnoECEQQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Winchester_Communit...",
+   "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+   "snippet": "Winchester Community High School is a public high school located in Winchester, Indiana, United States. The School serves the town of Winchester and ...",
+   "snippet_highlighted_words": [
+    "Winchester Community High School",
+    "Indiana"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Winchester Community High School is a public high school located in Winchester, Indiana, United States. The School serves the town of Winchester and ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Winchester_Community_High_School",
+     "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdgHrOzAVXtYb9zJHSNBFrMa3oeZA0Pzg_DkWSG6_q5AOdG9RMjIe76FkWZWKcFAVvo9uI6MsoBTar7tlzEG6yOtCjA_K6ZzgnJ88LXL0dT3ZZdgfrezk1FeWSmnKxuNKAjiI_FqkDGe0pDufi5s8C0rWAJWQv6c&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdgHrOzAVXtYb9zJHSNBFrMa3oeZA0Pzg_DkWSG6_q5AOdG9RMjIe76FkWZWKcFAVvo9uI6MsoBTar7tlzEG6yOtCjA_K6ZzgnJ88LXL0dT3ZZdgfrezk1FeWSmnKxuNKAjiI_FqkDGe0pDufi5s8C0rWAJWQv6c",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Winchester_Community_High_School#:~:text=Winchester%20Community%20High%20School%20is,of%20Winchester%20and%20surrounding%20area."
+  },
+  {
+   "position": 4,
+   "title": "Winchester Community High School - Indiana",
+   "link": "https://www.usnews.com/education/best-high-schools/indiana/districts/randolph-central-school-corp/winchester-community-high-school-7160",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESwAEB6zswFYxamy3ZponG-MaG4PjgUxH3oUTuVmh3evHAOEPL3c6mbINiHuvmPUEY7JG_f709eqGqo8MXPe4SXCmBQ-4erWTWZY6q8F7HYQwMeGN4oiRypG5GLeGqe9ueKgNjkzGGtfZtUPKcrgqlaxzwAigrlXdKavSnNxJKxhJoI-2POO__r9EnfuU30OJhHcLPz2RRccequoc7qhUWW9wAx4sfRFKSEYgM7-0NV4lcS39BHNgHHJQaog1C3y7rrR4&ved=2ahUKEwinxfKd7eSWAxXjFhAIHfKoEGYQFnoECEIQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a randolph-central-school-corp",
+   "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp",
+   "snippet": "Winchester Community High School is ranked 321-404th within Indiana. Additionally, 43% of students in the school are economically disadvantaged.",
+   "snippet_highlighted_words": [
+    "Winchester Community High School",
+    "Indiana"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Winchester Community High School is ranked 321-404th within Indiana. Additionally, 43% of students in the school are economically disadvantaged.",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/indiana/districts/randolph-central-school-corp/winchester-community-high-school-7160",
+     "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESwAEB6zswFYxamy3ZponG-MaG4PjgUxH3oUTuVmh3evHAOEPL3c6mbINiHuvmPUEY7JG_f709eqGqo8MXPe4SXCmBQ-4erWTWZY6q8F7HYQwMeGN4oiRypG5GLeGqe9ueKgNjkzGGtfZtUPKcrgqlaxzwAigrlXdKavSnNxJKxhJoI-2POO__r9EnfuU30OJhHcLPz2RRccequoc7qhUWW9wAx4sfRFKSEYgM7-0NV4lcS39BHNgHHJQaog1C3y7rrR4&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESwAEB6zswFYxamy3ZponG-MaG4PjgUxH3oUTuVmh3evHAOEPL3c6mbINiHuvmPUEY7JG_f709eqGqo8MXPe4SXCmBQ-4erWTWZY6q8F7HYQwMeGN4oiRypG5GLeGqe9ueKgNjkzGGtfZtUPKcrgqlaxzwAigrlXdKavSnNxJKxhJoI-2POO__r9EnfuU30OJhHcLPz2RRccequoc7qhUWW9wAx4sfRFKSEYgM7-0NV4lcS39BHNgHHJQaog1C3y7rrR4",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/indiana/districts/randolph-central-school-corp/winchester-community-high-school-7160#:~:text=Winchester%20Community%20High%20School%20is,the%20school%20are%20economically%20disadvantaged."
+  },
+  {
+   "position": 5,
+   "title": "Winchester Community High School",
+   "link": "https://www.niche.com/k12/winchester-community-high-school-winchester-in/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgQEB6zswFU8OqvKncBNZowtCHvI5ZFDP2xDWLrM2HSr9EcvqUEHx_E3IqFwpEx1tjCMHE3btcByHZCY-qWT4DhR8luxlwlpLSjnHjVpnOjjaT_JWAHOboYQbpPgVxqtOeFpScfa2W7sbwzYpIIM2RicClZ0lwOQgrAWjWKIHrKbQAjA&ved=2ahUKEwinxfKd7eSWAxXjFhAIHfKoEGYQFnoECEAQAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a Indiana",
+   "favicon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAACwBgCdASocABwAPtEutFooIagoGAEAGglAGZo7gYv7m0TPt8r_WYdmpcah9WA48zicEtVrCFOGH4nMtJiaAAD-8Mpqn5wztwFeSDXF5YavmSdrcpv67JtS1tKl7uW6N9aR19WH-vT5VtxqndfSU_QIzB4R0m5fNi1eX3h8GYa_8H28-7o-nc3D2GEvZqGTES8muP_UCP_UIYsGh8QXK7V2sBnUP79qQidv_o8__S3xjZZmmXEG69VP00Dn3HuddwtLR_4xf_0PU8NPn060X-47u3VDw39ZbBgpwK3wP0F5tHUWMrTdTbcT_h7ghKmtPgKiKNIvGUNLHBT4VbzlXgvFo7vCP-ot_w6I_hOg9EcgQfabjpYvU6X4xcxi9BIxh2PJomEF2PA_XoL7FtzFNUuyE0IG83Bax0ZYU-dxj0EhgAAA.webp",
+   "snippet": "Winchester Community High School is an above average, public school located in WINCHESTER, IN. It has 399 students in grades 9-12 with a student-teacher ...",
+   "snippet_highlighted_words": [
+    "Winchester Community High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Winchester Community High School is an above average, public school located in WINCHESTER, IN. It has 399 students in grades 9-12 with a student-teacher ...",
+     "source_info_link": "https://www.niche.com/k12/winchester-community-high-school-winchester-in/",
+     "icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAACwBgCdASocABwAPtEutFooIagoGAEAGglAGZo7gYv7m0TPt8r_WYdmpcah9WA48zicEtVrCFOGH4nMtJiaAAD-8Mpqn5wztwFeSDXF5YavmSdrcpv67JtS1tKl7uW6N9aR19WH-vT5VtxqndfSU_QIzB4R0m5fNi1eX3h8GYa_8H28-7o-nc3D2GEvZqGTES8muP_UCP_UIYsGh8QXK7V2sBnUP79qQidv_o8__S3xjZZmmXEG69VP00Dn3HuddwtLR_4xf_0PU8NPn060X-47u3VDw39ZbBgpwK3wP0F5tHUWMrTdTbcT_h7ghKmtPgKiKNIvGUNLHBT4VbzlXgvFo7vCP-ot_w6I_hOg9EcgQfabjpYvU6X4xcxi9BIxh2PJomEF2PA_XoL7FtzFNUuyE0IG83Bax0ZYU-dxj0EhgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESgQEB6zswFU8OqvKncBNZowtCHvI5ZFDP2xDWLrM2HSr9EcvqUEHx_E3IqFwpEx1tjCMHE3btcByHZCY-qWT4DhR8luxlwlpLSjnHjVpnOjjaT_JWAHOboYQbpPgVxqtOeFpScfa2W7sbwzYpIIM2RicClZ0lwOQgrAWjWKIHrKbQAjA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESgQEB6zswFU8OqvKncBNZowtCHvI5ZFDP2xDWLrM2HSr9EcvqUEHx_E3IqFwpEx1tjCMHE3btcByHZCY-qWT4DhR8luxlwlpLSjnHjVpnOjjaT_JWAHOboYQbpPgVxqtOeFpScfa2W7sbwzYpIIM2RicClZ0lwOQgrAWjWKIHrKbQAjA",
+   "source": "Niche"
+  },
+  {
+   "position": 6,
+   "title": "Winchester Community High School - Indiana",
+   "link": "https://www.donorschoose.org/schools/indiana/randolph-central-school-corporation/winchester-community-high-school/20697",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrwEB6zswFW4w1zQhHp800OjZDr34jrdxCaOre29_GQakazfe7kPWR40PQ93G9FOOWU_A3opw07xAIt_6lRerzBEU51iJnULurJ9NuT2xcPJUv9jHnfgU0KRe7qh-5w-Bj-6Ni_OXi-iR-WEeGT0E_s6vyKGicW0Q3oigfA-pHl6lBJzJtrrbvdV9EDA-_QH-Z-tlPIWeOD1_ioQJdVt62HhURXD6SjE2Dgxijr71OuPv&ved=2ahUKEwinxfKd7eSWAxXjFhAIHfKoEGYQFnoECEMQAQ&uoh=1",
+   "displayed_link": "https://www.donorschoose.org \u203a schools \u203a indiana \u203a wi...",
+   "favicon": "https://serpapi.com/images/i/UklGRswAAABXRUJQVlA4IMAAAABwBQCdASocABwAPtEwtFooIigoGAEAGglsAKknND9QgUiCtSxixOFp4uhGPS57r1rBvQAAAP78Ruvp_RopI31agF2kTcvpn_nJpqDkB-JZ3L4TnmXfH8Lj7_7aH_7LAv_qWkLImNPY960ex9CxAdN4Rj2bYpPBjMs4lAfwcelVvNLkNVmPcrR_CPQWyeuMExXrAK1CRpFOK2_rpU32_y9RFVHtRr1D17PWVgxOgSGl1SdGJuoFHhfsjXVLLo5igAA.webp",
+   "snippet": "Winchester Community High School is a town public school in Winchester, Indiana that is part of Randolph Central School Corporation. It serves 379 students in ...",
+   "snippet_highlighted_words": [
+    "Winchester Community High School",
+    "Indiana"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Winchester Community High School is a town public school in Winchester, Indiana that is part of Randolph Central School Corporation. It serves 379 students in ...",
+     "source_info_link": "https://www.donorschoose.org/schools/indiana/randolph-central-school-corporation/winchester-community-high-school/20697",
+     "icon": "https://serpapi.com/images/i/UklGRswAAABXRUJQVlA4IMAAAABwBQCdASocABwAPtEwtFooIigoGAEAGglsAKknND9QgUiCtSxixOFp4uhGPS57r1rBvQAAAP78Ruvp_RopI31agF2kTcvpn_nJpqDkB-JZ3L4TnmXfH8Lj7_7aH_7LAv_qWkLImNPY960ex9CxAdN4Rj2bYpPBjMs4lAfwcelVvNLkNVmPcrR_CPQWyeuMExXrAK1CRpFOK2_rpU32_y9RFVHtRr1D17PWVgxOgSGl1SdGJuoFHhfsjXVLLo5igAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESrwEB6zswFW4w1zQhHp800OjZDr34jrdxCaOre29_GQakazfe7kPWR40PQ93G9FOOWU_A3opw07xAIt_6lRerzBEU51iJnULurJ9NuT2xcPJUv9jHnfgU0KRe7qh-5w-Bj-6Ni_OXi-iR-WEeGT0E_s6vyKGicW0Q3oigfA-pHl6lBJzJtrrbvdV9EDA-_QH-Z-tlPIWeOD1_ioQJdVt62HhURXD6SjE2Dgxijr71OuPv&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESrwEB6zswFW4w1zQhHp800OjZDr34jrdxCaOre29_GQakazfe7kPWR40PQ93G9FOOWU_A3opw07xAIt_6lRerzBEU51iJnULurJ9NuT2xcPJUv9jHnfgU0KRe7qh-5w-Bj-6Ni_OXi-iR-WEeGT0E_s6vyKGicW0Q3oigfA-pHl6lBJzJtrrbvdV9EDA-_QH-Z-tlPIWeOD1_ioQJdVt62HhURXD6SjE2Dgxijr71OuPv",
+   "source": "DonorsChoose",
+   "read_more_link": "https://www.donorschoose.org/schools/indiana/randolph-central-school-corporation/winchester-community-high-school/20697#:~:text=Winchester%20Community%20High%20School%20is,a%20student%2Fteacher%20ratio%20of%2012.2%3A1."
+  },
+  {
+   "position": 7,
+   "title": "Winchester Community High School - Falcons Official Athletic ...",
+   "link": "https://www.winchestercommunityathletics.com/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZQHrOzAVFNOiZmi0Dh6niQE_HwcMzC33k5-ScjP3YO0F_P0ckHZ-RoJHEvof77uekp04zEabimPcP7sSli9_1An1UrIetKwEue9QL9hOik13Wct89hGxRI5qWBzMJVNGr7EAMCzL&ved=2ahUKEwinxfKd7eSWAxXjFhAIHfKoEGYQFnoECEcQAQ&uoh=1",
+   "displayed_link": "https://www.winchestercommunityathletics.com",
+   "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAAAwBgCdASocABwAPtEutFooIagoGAEAGglsAJ0yy7A3qDjQTSyREQnI0KDyGshWmprEj_ijSfqae7XQAP3RQbC2AO2Nq4nZ5l3e3nGCowK4pcGpAgcT61gX1OKjnWnUvWsrNIWJ6OoOuuI32AF1_-7-xUDPWfM2Z86ulcOfMCDqAA5AfGHYy3C4kecfhVsutIQGkwppf03fv-eNdRfHhXQtTCD7gO_8vyfVfJwiYPq32ab7LLqTa8n63tOK8QP_TBkXz_V9fdjxC_nP_8bklIgfWIPPPmcoZhwUlt6jS97-W2X5TeOMLGzA0jqjGJmW_v2v8qX3r9wSkuIbvGpWpcnkrFqCiYlVgNl11xMSS5_JeQt2S4nqJP8mpyVN_La0AAA.webp",
+   "snippet": "Welcome to the official athletic website for the Winchester Community High School Falcons. Stay up to date with Winchester Community High School event ...",
+   "snippet_highlighted_words": [
+    "Winchester Community High School",
+    "Winchester Community High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Welcome to the official athletic website for the Winchester Community High School Falcons. Stay up to date with Winchester Community High School event ...",
+     "source_info_link": "https://www.winchestercommunityathletics.com/",
+     "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAAAwBgCdASocABwAPtEutFooIagoGAEAGglsAJ0yy7A3qDjQTSyREQnI0KDyGshWmprEj_ijSfqae7XQAP3RQbC2AO2Nq4nZ5l3e3nGCowK4pcGpAgcT61gX1OKjnWnUvWsrNIWJ6OoOuuI32AF1_-7-xUDPWfM2Z86ulcOfMCDqAA5AfGHYy3C4kecfhVsutIQGkwppf03fv-eNdRfHhXQtTCD7gO_8vyfVfJwiYPq32ab7LLqTa8n63tOK8QP_TBkXz_V9fdjxC_nP_8bklIgfWIPPPmcoZhwUlt6jS97-W2X5TeOMLGzA0jqjGJmW_v2v8qX3r9wSkuIbvGpWpcnkrFqCiYlVgNl11xMSS5_JeQt2S4nqJP8mpyVN_La0AAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESZQHrOzAVFNOiZmi0Dh6niQE_HwcMzC33k5-ScjP3YO0F_P0ckHZ-RoJHEvof77uekp04zEabimPcP7sSli9_1An1UrIetKwEue9QL9hOik13Wct89hGxRI5qWBzMJVNGr7EAMCzL&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESZQHrOzAVFNOiZmi0Dh6niQE_HwcMzC33k5-ScjP3YO0F_P0ckHZ-RoJHEvof77uekp04zEabimPcP7sSli9_1An1UrIetKwEue9QL9hOik13Wct89hGxRI5qWBzMJVNGr7EAMCzL",
+   "source": "winchestercommunityathletics.com"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Winchester community high school indiana staff",
+   "link": "https://www.google.com/search?sca_esv=5a6de5ad61aa0ca3&hl=en&gl=us&sxsrf=APpeQnt8pmDJYI1g7f3aVZFftSaS3oPp1w:1789072179510&q=Winchester+community+high+school+indiana+staff&sa=X&ved=2ahUKEwinxfKd7eSWAxXjFhAIHfKoEGYQ1QJ6BAh8EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Winchester+community+high+school+indiana+staff"
+  },
+  {
+   "block_position": 1,
+   "query": "Winchester community high school indiana yearbook",
+   "link": "https://www.google.com/search?sca_esv=5a6de5ad61aa0ca3&hl=en&gl=us&sxsrf=APpeQnt8pmDJYI1g7f3aVZFftSaS3oPp1w:1789072179510&q=Winchester+community+high+school+indiana+yearbook&sa=X&ved=2ahUKEwinxfKd7eSWAxXjFhAIHfKoEGYQ1QJ6BQiAARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Winchester+community+high+school+indiana+yearbook"
+  },
+  {
+   "block_position": 1,
+   "query": "Winchester community high school indiana football",
+   "link": "https://www.google.com/search?sca_esv=5a6de5ad61aa0ca3&hl=en&gl=us&sxsrf=APpeQnt8pmDJYI1g7f3aVZFftSaS3oPp1w:1789072179510&q=Winchester+community+high+school+indiana+football&sa=X&ved=2ahUKEwinxfKd7eSWAxXjFhAIHfKoEGYQ1QJ6BQiBARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Winchester+community+high+school+indiana+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Winchester community high school indiana basketball",
+   "link": "https://www.google.com/search?sca_esv=5a6de5ad61aa0ca3&hl=en&gl=us&sxsrf=APpeQnt8pmDJYI1g7f3aVZFftSaS3oPp1w:1789072179510&q=Winchester+community+high+school+indiana+basketball&sa=X&ved=2ahUKEwinxfKd7eSWAxXjFhAIHfKoEGYQ1QJ6BAh_EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Winchester+community+high+school+indiana+basketball"
+  },
+  {
+   "block_position": 1,
+   "query": "Winchester community high school photos",
+   "link": "https://www.google.com/search?sca_esv=5a6de5ad61aa0ca3&hl=en&gl=us&sxsrf=APpeQnt8pmDJYI1g7f3aVZFftSaS3oPp1w:1789072179510&q=Winchester+community+high+school+photos&sa=X&ved=2ahUKEwinxfKd7eSWAxXjFhAIHfKoEGYQ1QJ6BAh7EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Winchester+community+high+school+photos"
+  },
+  {
+   "block_position": 1,
+   "query": "Winchester community high school indiana famous alumni",
+   "link": "https://www.google.com/search?sca_esv=5a6de5ad61aa0ca3&hl=en&gl=us&sxsrf=APpeQnt8pmDJYI1g7f3aVZFftSaS3oPp1w:1789072179510&q=Winchester+community+high+school+indiana+famous+alumni&sa=X&ved=2ahUKEwinxfKd7eSWAxXjFhAIHfKoEGYQ1QJ6BAh-EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Winchester+community+high+school+indiana+famous+alumni"
+  },
+  {
+   "block_position": 1,
+   "query": "Winchester community high school indiana alumni",
+   "link": "https://www.google.com/search?sca_esv=5a6de5ad61aa0ca3&hl=en&gl=us&sxsrf=APpeQnt8pmDJYI1g7f3aVZFftSaS3oPp1w:1789072179510&q=Winchester+community+high+school+indiana+alumni&sa=X&ved=2ahUKEwinxfKd7eSWAxXjFhAIHfKoEGYQ1QJ6BAh6EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Winchester+community+high+school+indiana+alumni"
+  },
+  {
+   "block_position": 1,
+   "query": "Winchester community high school indiana baseball",
+   "link": "https://www.google.com/search?sca_esv=5a6de5ad61aa0ca3&hl=en&gl=us&sxsrf=APpeQnt8pmDJYI1g7f3aVZFftSaS3oPp1w:1789072179510&q=Winchester+community+high+school+indiana+baseball&sa=X&ved=2ahUKEwinxfKd7eSWAxXjFhAIHfKoEGYQ1QJ6BAh9EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Winchester+community+high+school+indiana+baseball"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Winchester+Community+High+School%22+Indiana&sca_esv=5a6de5ad61aa0ca3&hl=en&gl=us&sxsrf=APpeQnt8pmDJYI1g7f3aVZFftSaS3oPp1w:1789072179510&ei=MxOjauffHuOtwPAP8tHCsAY&start=10&sa=N&sstk=AS6-VmLXRdYTaiB86714YyrtllMR9hXpRqMIDRfbMI0OaRSfdpR6ik2Qrdq-N-t1NchVfujMAzwCggKiPKo8pDm-vVMhLJMGfDs5bQ&ved=2ahUKEwinxfKd7eSWAxXjFhAIHfKoEGYQ8NMDegQIdBAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Winchester+Community+High+School%22+Indiana&sca_esv=5a6de5ad61aa0ca3&hl=en&gl=us&sxsrf=APpeQnt8pmDJYI1g7f3aVZFftSaS3oPp1w:1789072179510&ei=MxOjauffHuOtwPAP8tHCsAY&start=10&sa=N&sstk=AS6-VmLXRdYTaiB86714YyrtllMR9hXpRqMIDRfbMI0OaRSfdpR6ik2Qrdq-N-t1NchVfujMAzwCggKiPKo8pDm-vVMhLJMGfDs5bQ&ved=2ahUKEwinxfKd7eSWAxXjFhAIHfKoEGYQ8tMDegQIdBAE",
+   "3": "https://www.google.com/search?q=%22Winchester+Community+High+School%22+Indiana&sca_esv=5a6de5ad61aa0ca3&hl=en&gl=us&sxsrf=APpeQnt8pmDJYI1g7f3aVZFftSaS3oPp1w:1789072179510&ei=MxOjauffHuOtwPAP8tHCsAY&start=20&sa=N&sstk=AS6-VmLXRdYTaiB86714YyrtllMR9hXpRqMIDRfbMI0OaRSfdpR6ik2Qrdq-N-t1NchVfujMAzwCggKiPKo8pDm-vVMhLJMGfDs5bQ&ved=2ahUKEwinxfKd7eSWAxXjFhAIHfKoEGYQ8tMDegQIdBAG",
+   "4": "https://www.google.com/search?q=%22Winchester+Community+High+School%22+Indiana&sca_esv=5a6de5ad61aa0ca3&hl=en&gl=us&sxsrf=APpeQnt8pmDJYI1g7f3aVZFftSaS3oPp1w:1789072179510&ei=MxOjauffHuOtwPAP8tHCsAY&start=30&sa=N&sstk=AS6-VmLXRdYTaiB86714YyrtllMR9hXpRqMIDRfbMI0OaRSfdpR6ik2Qrdq-N-t1NchVfujMAzwCggKiPKo8pDm-vVMhLJMGfDs5bQ&ved=2ahUKEwinxfKd7eSWAxXjFhAIHfKoEGYQ8tMDegQIdBAI",
+   "5": "https://www.google.com/search?q=%22Winchester+Community+High+School%22+Indiana&sca_esv=5a6de5ad61aa0ca3&hl=en&gl=us&sxsrf=APpeQnt8pmDJYI1g7f3aVZFftSaS3oPp1w:1789072179510&ei=MxOjauffHuOtwPAP8tHCsAY&start=40&sa=N&sstk=AS6-VmLXRdYTaiB86714YyrtllMR9hXpRqMIDRfbMI0OaRSfdpR6ik2Qrdq-N-t1NchVfujMAzwCggKiPKo8pDm-vVMhLJMGfDs5bQ&ved=2ahUKEwinxfKd7eSWAxXjFhAIHfKoEGYQ8tMDegQIdBAK",
+   "6": "https://www.google.com/search?q=%22Winchester+Community+High+School%22+Indiana&sca_esv=5a6de5ad61aa0ca3&hl=en&gl=us&sxsrf=APpeQnt8pmDJYI1g7f3aVZFftSaS3oPp1w:1789072179510&ei=MxOjauffHuOtwPAP8tHCsAY&start=50&sa=N&sstk=AS6-VmLXRdYTaiB86714YyrtllMR9hXpRqMIDRfbMI0OaRSfdpR6ik2Qrdq-N-t1NchVfujMAzwCggKiPKo8pDm-vVMhLJMGfDs5bQ&ved=2ahUKEwinxfKd7eSWAxXjFhAIHfKoEGYQ8tMDegQIdBAM",
+   "7": "https://www.google.com/search?q=%22Winchester+Community+High+School%22+Indiana&sca_esv=5a6de5ad61aa0ca3&hl=en&gl=us&sxsrf=APpeQnt8pmDJYI1g7f3aVZFftSaS3oPp1w:1789072179510&ei=MxOjauffHuOtwPAP8tHCsAY&start=60&sa=N&sstk=AS6-VmLXRdYTaiB86714YyrtllMR9hXpRqMIDRfbMI0OaRSfdpR6ik2Qrdq-N-t1NchVfujMAzwCggKiPKo8pDm-vVMhLJMGfDs5bQ&ved=2ahUKEwinxfKd7eSWAxXjFhAIHfKoEGYQ8tMDegQIdBAO",
+   "8": "https://www.google.com/search?q=%22Winchester+Community+High+School%22+Indiana&sca_esv=5a6de5ad61aa0ca3&hl=en&gl=us&sxsrf=APpeQnt8pmDJYI1g7f3aVZFftSaS3oPp1w:1789072179510&ei=MxOjauffHuOtwPAP8tHCsAY&start=70&sa=N&sstk=AS6-VmLXRdYTaiB86714YyrtllMR9hXpRqMIDRfbMI0OaRSfdpR6ik2Qrdq-N-t1NchVfujMAzwCggKiPKo8pDm-vVMhLJMGfDs5bQ&ved=2ahUKEwinxfKd7eSWAxXjFhAIHfKoEGYQ8tMDegQIdBAQ",
+   "9": "https://www.google.com/search?q=%22Winchester+Community+High+School%22+Indiana&sca_esv=5a6de5ad61aa0ca3&hl=en&gl=us&sxsrf=APpeQnt8pmDJYI1g7f3aVZFftSaS3oPp1w:1789072179510&ei=MxOjauffHuOtwPAP8tHCsAY&start=80&sa=N&sstk=AS6-VmLXRdYTaiB86714YyrtllMR9hXpRqMIDRfbMI0OaRSfdpR6ik2Qrdq-N-t1NchVfujMAzwCggKiPKo8pDm-vVMhLJMGfDs5bQ&ved=2ahUKEwinxfKd7eSWAxXjFhAIHfKoEGYQ8tMDegQIdBAS",
+   "10": "https://www.google.com/search?q=%22Winchester+Community+High+School%22+Indiana&sca_esv=5a6de5ad61aa0ca3&hl=en&gl=us&sxsrf=APpeQnt8pmDJYI1g7f3aVZFftSaS3oPp1w:1789072179510&ei=MxOjauffHuOtwPAP8tHCsAY&start=90&sa=N&sstk=AS6-VmLXRdYTaiB86714YyrtllMR9hXpRqMIDRfbMI0OaRSfdpR6ik2Qrdq-N-t1NchVfujMAzwCggKiPKo8pDm-vVMhLJMGfDs5bQ&ved=2ahUKEwinxfKd7eSWAxXjFhAIHfKoEGYQ8tMDegQIdBAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Winchester+Community+High+School%22+Indiana&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Winchester+Community+High+School%22+Indiana&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Winchester+Community+High+School%22+Indiana&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Winchester+Community+High+School%22+Indiana&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Winchester+Community+High+School%22+Indiana&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Winchester+Community+High+School%22+Indiana&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Winchester+Community+High+School%22+Indiana&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Winchester+Community+High+School%22+Indiana&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Winchester+Community+High+School%22+Indiana&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Winchester+Community+High+School%22+Indiana&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Winchester+Community+High+School%22+Indiana&start=90"
+  }
+ }
+}

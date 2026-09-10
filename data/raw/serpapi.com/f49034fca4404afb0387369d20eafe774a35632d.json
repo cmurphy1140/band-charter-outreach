@@ -1,0 +1,492 @@
+{
+ "search_information": {
+  "query_displayed": "\"Downingtown High School\" Pennsylvania",
+  "total_results": 259000,
+  "time_taken_displayed": 0.32,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "local_map": {
+  "image": "https://www.google.com/maps/vt/data=JWjxhVo_kJIpfapwy-sNsFD8ijfWYEEDeu4RPkHAAV1HRTo79QBJ1mI_xfyUhjSFGd3FYA407ro05zHFzP6WUkF9Rd1Mo4OuH-zADPRG29P0unAgoRm04JL8hepqnOglHq4JV4t5Apce22t_Gz51yd9F60D0fAguKFF-5rMsHVG3pyF150IYlPMYn_8AyEZU9eJJ_zVf13nZabC8vg7Vz0JOv9yGyltosjxck0FL52zlo3ZY1xbK6I9TXaapo_MbL0MXVLTrB_nT1WyfTHzWkqHDMEu6trYQGvHCy5rM754B-Btn-htlLDjWn5h3vB2WE0GIDLGik1leabakIMOnBcUmubEFmhBKYOXEmvr76yd3NeFx594FwT6EwWHIixcZD8jfjshiTA",
+  "gps_coordinates": {
+   "latitude": 40.02840311521536,
+   "longitude": -75.68979263305664
+  }
+ },
+ "local_results": {
+  "places": [
+   {
+    "position": 1,
+    "links": {
+     "website": "https://de.dasd.org/",
+     "directions": "https://www.google.com/maps/dir//Downingtown+East+High+School,+50+Devon+Dr,+Exton,+PA+19341/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c6f4e0d2f53fb5:0x1faf9005202d2510?sa=X&ved=2ahUKEwjM8K-I6OSWAxX9l4kEHTiyKF0Q48ADegQIGBAA&hl=en&gl=us"
+    },
+    "place_id": "2283201887789196560",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=2283201887789196560&q=%22Downingtown+High+School%22+Pennsylvania",
+    "provider_id": "/m/05t_8h4",
+    "gps_coordinates": {
+     "latitude": 40.041559,
+     "longitude": -75.661439
+    },
+    "title": "Downingtown East High School",
+    "reviews_original": "No reviews",
+    "type": "High school",
+    "phone": "(610) 363-6400",
+    "address": "Exton, PA",
+    "hours": "Closed \u00b7 Opens 7:40 AM Fri"
+   },
+   {
+    "position": 2,
+    "links": {
+     "website": "http://dasd.org/",
+     "directions": "https://www.google.com/maps/dir//Downingtown+West+High+School,+445+Manor+Ave,+Downingtown,+PA+19335/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c65f5fd1b707ff:0x14d9292592568475?sa=X&ved=2ahUKEwjM8K-I6OSWAxX9l4kEHTiyKF0Q48ADegQIGRAA&hl=en&gl=us"
+    },
+    "place_id": "1502277192050443381",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=1502277192050443381&q=%22Downingtown+High+School%22+Pennsylvania",
+    "provider_id": "/g/1pxyw_hfg",
+    "gps_coordinates": {
+     "latitude": 40.011637,
+     "longitude": -75.718214
+    },
+    "title": "Downingtown West High School",
+    "reviews_original": "No reviews",
+    "type": "High school",
+    "phone": "(610) 269-4400",
+    "address": "445 Manor Ave",
+    "hours": "Closed \u00b7 Opens 7:15 AM Fri"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "What high school is ranked #1 in PA?",
+   "type": "ai_overview",
+   "page_token": "o7mNmnicHdBdbpswAABg7TJ9bEwZ2RIpquQGQ7Ji5F8cXiZjQ0gw4Ca0pHnbXXaqnmbSviN8f_6609B9fftop8lf14vFPM-Px3E8uvrRjP1CXz8HszDauUqbbr38sQyeG7OJ33fw5W0HifBebilgQDKTIkyKaM6T6Grilcb3UhxCG-TFlNUDVSJpYZZ8f2IIp0XhXikoUwZ2IU07QBTsSd_G-rxvFVhFrwprKwmoAlzksrwIIRFGPqmEPJj4ltdKloa7jHfjJDt7YqGPq20GssInKvgZYSC97m_QbPGWDVbZM2xw4p4yhKAOaUed14f7LsQc_lIA3XBo7pg7VEjLaoRh3NqI8P3bQeGlAbjJhnK2CBErVlzzkko6noigd3N2vUzbUhQ45XHLCGjfc9FeqpcA2bOYa45YXeyJnR8a87EJH_5_bn43_bT2l_H4DyNVgWk",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=o7mNmnicHdBdbpswAABg7TJ9bEwZ2RIpquQGQ7Ji5F8cXiZjQ0gw4Ca0pHnbXXaqnmbSviN8f_6609B9fftop8lf14vFPM-Px3E8uvrRjP1CXz8HszDauUqbbr38sQyeG7OJ33fw5W0HifBebilgQDKTIkyKaM6T6Grilcb3UhxCG-TFlNUDVSJpYZZ8f2IIp0XhXikoUwZ2IU07QBTsSd_G-rxvFVhFrwprKwmoAlzksrwIIRFGPqmEPJj4ltdKloa7jHfjJDt7YqGPq20GssInKvgZYSC97m_QbPGWDVbZM2xw4p4yhKAOaUed14f7LsQc_lIA3XBo7pg7VEjLaoRh3NqI8P3bQeGlAbjJhnK2CBErVlzzkko6noigd3N2vUzbUhQ45XHLCGjfc9FeqpcA2bOYa45YXeyJnR8a87EJH_5_bn43_bT2l_H4DyNVgWk",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVdFMVRaRE4zWDFOTVFURjVWM2gwU0Y5eE5EaDVjWEpMTkdOV1dETlhTbXAxU1VGUVQzcHFhM015U0VJNWJtUjVNWHBmUTFoM2JteDNjbmc0WTJZM1JsTkxibnByV0VSaVlqbFVWalZDTFVFNWVEWm9SRXR0Y25wT1FSSVhlVUV5YW1GemVuTkRYekoyY0hSUlVIVlBVMmsyVVZVYUlrRkVjM0k1WmxSVWEwcExiVU5EZGxWcVJXNWZlV1pDZDBaVllXRkRWbTVoWjFFIiwiZmN2IjoiMyIsImVpIjoieUEyamFzenNDXzJ2cHRRUHVPU2k2UVUiLCJxYyI6IkNpUmtiM2R1YVc1bmRHOTNiaUJvYVdkb0lITmphRzl2YkNCd1pXNXVjM2xzZG1GdWFXRVFBSDJpbHpvXyIsInF1ZXN0aW9uIjoiV2hhdCBoaWdoIHNjaG9vbCBpcyByYW5rZWQgIzEgaW4gUEE/IiwibGsiOiJHaU4zYUdGMElHaHBaMmdnYzJOb2IyOXNJR2x6SUhKaGJtdGxaQ0FqTVNCcGJpQndZUSIsImJzIjoiYzRXT1BRdkNNQlJGY2MzazNFRXVmbXd1VnAwY1NrSEJSUkFjSE9WaDB5Ylk1RWtUS2Y1N1V4V01nemk5TjV4ejd4VTdNVDRxOGxDNlVuQm54VnhET3pSa0w3TEFhQVp0c2MtemRKS00ybl9jbGNSSnJJNktRWTJFWXlOUmt1R2JBOVUzWXpXNHhKcGJxMjNsdzhHRzNGZGdsaUlaRkJFZ08tQXJRbXpGOExrM2RFZFIwN0FSRjlzNUpUZFpPa3pRdnFrNDcwb2ZTQml4MkhJTFJVM1JjZHJETXlvWkpCdWVlT2ZCUzRQOFRJVTA5eXhkSm5QMTI0dnJYT2ZSeS12M0hnIiwiaWQiOiJmY195QTJqYXN6c0NfMnZwdFFQdU9TaTZRVV82In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVdFMVRaRE4zWDFOTVFURjVWM2gwU0Y5eE5EaDVjWEpMTkdOV1dETlhTbXAxU1VGUVQzcHFhM015U0VJNWJtUjVNWHBmUTFoM2JteDNjbmc0WTJZM1JsTkxibnByV0VSaVlqbFVWalZDTFVFNWVEWm9SRXR0Y25wT1FSSVhlVUV5YW1GemVuTkRYekoyY0hSUlVIVlBVMmsyVVZVYUlrRkVjM0k1WmxSVWEwcExiVU5EZGxWcVJXNWZlV1pDZDBaVllXRkRWbTVoWjFFIiwiZmN2IjoiMyIsImVpIjoieUEyamFzenNDXzJ2cHRRUHVPU2k2UVUiLCJxYyI6IkNpUmtiM2R1YVc1bmRHOTNiaUJvYVdkb0lITmphRzl2YkNCd1pXNXVjM2xzZG1GdWFXRVFBSDJpbHpvXyIsInF1ZXN0aW9uIjoiV2hhdCBoaWdoIHNjaG9vbCBpcyByYW5rZWQgIzEgaW4gUEE%2FIiwibGsiOiJHaU4zYUdGMElHaHBaMmdnYzJOb2IyOXNJR2x6SUhKaGJtdGxaQ0FqTVNCcGJpQndZUSIsImJzIjoiYzRXT1BRdkNNQlJGY2MzazNFRXVmbXd1VnAwY1NrSEJSUkFjSE9WaDB5Ylk1RWtUS2Y1N1V4V01nemk5TjV4ejd4VTdNVDRxOGxDNlVuQm54VnhET3pSa0w3TEFhQVp0c2MtemRKS00ybl9jbGNSSnJJNktRWTJFWXlOUmt1R2JBOVUzWXpXNHhKcGJxMjNsdzhHRzNGZGdsaUlaRkJFZ08tQXJRbXpGOExrM2RFZFIwN0FSRjlzNUpUZFpPa3pRdnFrNDcwb2ZTQml4MkhJTFJVM1JjZHJETXlvWkpCdWVlT2ZCUzRQOFRJVTA5eXhkSm5QMTI0dnJYT2ZSeS12M0hnIiwiaWQiOiJmY195QTJqYXN6c0NfMnZwdFFQdU9TaTZRVV82In0%3D"
+  },
+  {
+   "question": "Who are some famous alumni of Downingtown East high school?",
+   "type": "ai_overview",
+   "page_token": "5BQIHHicHdBRbptAFEBRdTP5jPEQqGzJquQaMDSMBbz3sOengplgbAaYOsgY_rKFrqGr6moadQNXR_fjj750zd8vv-thMO_rxWIcx-dz35_127Ps20XxPnVyIQuty0I2a_eru_xWyY13l9vvN7lN0BjapVamzQ3mZqScD9Kq24z5RarFxFnE5I465aUN5KZ6BdVyK73Tjl-hebwCi06yicLsKO7ce5nRDofDPhJ5O4CyaAaLQhkMogzSfdY6LvfMpZyW4rNvZexxJXu7L_HlAQxHIMrQW7nSNj_iWXDZaRFDLTAXKFGzbBeFgFFWEL9RwynzRBADMrA9R1E9HY7aAsBJ5ekSfXJFTuEpd5w31Cb2VgeCswXo2F6tnASiX6cjd6XFq7gTo_L9ROEKChAppf0lwXSWV91SwMcEBz_RysVcV_RpIFRxGTy6mJm8bJ0qSZ4qed_YT_9fb35W7bA2t_78DzKmjBI",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=5BQIHHicHdBRbptAFEBRdTP5jPEQqGzJquQaMDSMBbz3sOengplgbAaYOsgY_rKFrqGr6moadQNXR_fjj750zd8vv-thMO_rxWIcx-dz35_127Ps20XxPnVyIQuty0I2a_eru_xWyY13l9vvN7lN0BjapVamzQ3mZqScD9Kq24z5RarFxFnE5I465aUN5KZ6BdVyK73Tjl-hebwCi06yicLsKO7ce5nRDofDPhJ5O4CyaAaLQhkMogzSfdY6LvfMpZyW4rNvZexxJXu7L_HlAQxHIMrQW7nSNj_iWXDZaRFDLTAXKFGzbBeFgFFWEL9RwynzRBADMrA9R1E9HY7aAsBJ5ekSfXJFTuEpd5w31Cb2VgeCswXo2F6tnASiX6cjd6XFq7gTo_L9ROEKChAppf0lwXSWV91SwMcEBz_RysVcV_RpIFRxGTy6mJm8bJ0qSZ4qed_YT_9fb35W7bA2t_78DzKmjBI",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVdFMVRaRE4zWDFOTVFURjVWM2gwU0Y5eE5EaDVjWEpMTkdOV1dETlhTbXAxU1VGUVQzcHFhM015U0VJNWJtUjVNWHBmUTFoM2JteDNjbmc0WTJZM1JsTkxibnByV0VSaVlqbFVWalZDTFVFNWVEWm9SRXR0Y25wT1FSSVhlVUV5YW1GemVuTkRYekoyY0hSUlVIVlBVMmsyVVZVYUlrRkVjM0k1WmxSVWEwcExiVU5EZGxWcVJXNWZlV1pDZDBaVllXRkRWbTVoWjFFIiwiZmN2IjoiMyIsImVpIjoieUEyamFzenNDXzJ2cHRRUHVPU2k2UVUiLCJxYyI6IkNpUmtiM2R1YVc1bmRHOTNiaUJvYVdkb0lITmphRzl2YkNCd1pXNXVjM2xzZG1GdWFXRVFBSDJpbHpvXyIsInF1ZXN0aW9uIjoiV2hvIGFyZSBzb21lIGZhbW91cyBhbHVtbmkgb2YgRG93bmluZ3Rvd24gRWFzdCBoaWdoIHNjaG9vbD8iLCJsayI6IkdoNWtiM2R1YVc1bmRHOTNiaUJsWVhOMElHWmhiVzkxY3lCaGJIVnRibWsiLCJicyI6ImM0V09QUXZDTUJSRmNjM2szRUV1Zm13dVZwMGNTa0hCUlJBY0hPVmgweWJZNUVrVEtmNTdVeFdNZ3ppOU41eHo3eFU3TVQ0cThsQzZVbkJueFZ4RE96UmtMN0xBYUFadHNjLXpkSktNMm5fY2xjUkpySTZLUVkyRVl5TlJrdUdiQTlVM1l6VzR4SnBicTIzbHc4R0czRmRnbGlJWkZCRWdPLUFyUW16RjhMazNkRWRSMDdBUkY5czVKVGRaT2t6UXZxazQ3MG9mU0JpeDJISUxSVTNSY2RyRE15b1pKQnVlZU9mQlM0UDhUSVUwOXl4ZEpuUDEyNHZyWE9mUnktdjNIZyIsImlkIjoiZmNfeUEyamFzenNDXzJ2cHRRUHVPU2k2UVVfNiJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVdFMVRaRE4zWDFOTVFURjVWM2gwU0Y5eE5EaDVjWEpMTkdOV1dETlhTbXAxU1VGUVQzcHFhM015U0VJNWJtUjVNWHBmUTFoM2JteDNjbmc0WTJZM1JsTkxibnByV0VSaVlqbFVWalZDTFVFNWVEWm9SRXR0Y25wT1FSSVhlVUV5YW1GemVuTkRYekoyY0hSUlVIVlBVMmsyVVZVYUlrRkVjM0k1WmxSVWEwcExiVU5EZGxWcVJXNWZlV1pDZDBaVllXRkRWbTVoWjFFIiwiZmN2IjoiMyIsImVpIjoieUEyamFzenNDXzJ2cHRRUHVPU2k2UVUiLCJxYyI6IkNpUmtiM2R1YVc1bmRHOTNiaUJvYVdkb0lITmphRzl2YkNCd1pXNXVjM2xzZG1GdWFXRVFBSDJpbHpvXyIsInF1ZXN0aW9uIjoiV2hvIGFyZSBzb21lIGZhbW91cyBhbHVtbmkgb2YgRG93bmluZ3Rvd24gRWFzdCBoaWdoIHNjaG9vbD8iLCJsayI6IkdoNWtiM2R1YVc1bmRHOTNiaUJsWVhOMElHWmhiVzkxY3lCaGJIVnRibWsiLCJicyI6ImM0V09QUXZDTUJSRmNjM2szRUV1Zm13dVZwMGNTa0hCUlJBY0hPVmgweWJZNUVrVEtmNTdVeFdNZ3ppOU41eHo3eFU3TVQ0cThsQzZVbkJueFZ4RE96UmtMN0xBYUFadHNjLXpkSktNMm5fY2xjUkpySTZLUVkyRVl5TlJrdUdiQTlVM1l6VzR4SnBicTIzbHc4R0czRmRnbGlJWkZCRWdPLUFyUW16RjhMazNkRWRSMDdBUkY5czVKVGRaT2t6UXZxazQ3MG9mU0JpeDJISUxSVTNSY2RyRE15b1pKQnVlZU9mQlM0UDhUSVUwOXl4ZEpuUDEyNHZyWE9mUnktdjNIZyIsImlkIjoiZmNfeUEyamFzenNDXzJ2cHRRUHVPU2k2UVVfNiJ9"
+  },
+  {
+   "question": "What is Downingtown, PA known for?",
+   "type": "ai_overview",
+   "page_token": "F3z47nicHdBdboIwAADg7DI-zkLVRROzxAkys9a19Af6smArMmkBhYnjbXfZqXaaLbvA9_B9fdv3qvy5uxZd17SL8bjv-_tjXR_t4V7Xbpy1n5Ue68zafabLxexh5j3mehl8PK-ezs8rwptGrCmImbiok2mZBF0ymK1OUsClhsKFyX5AE1Q2LzGzCPs0Z9LbEHmLiI-hKsGgRDDF68JXbs6wVwwU0vMe9D53oiWD2WB3ezJWhYdNC1RJdzI6Djiy-S7EUwSN4IGRJtlCxmluguZCbeCZU3HlAHuE04_UBiBjWx_JLmfVKk6lmGCJIJJzf7emFXd4grymiF23SqF4lZGBQWGmhG3PaYJnGuAcVao3YUgMn7OMKSpo_f5nD_pknYgM0GGTSEs-WWBgFqmLLKfnuLTX1BdpKm-KkFGur0s4-v9cvuWuWzSX-vgLtaOCtQ",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=F3z47nicHdBdboIwAADg7DI-zkLVRROzxAkys9a19Af6smArMmkBhYnjbXfZqXaaLbvA9_B9fdv3qvy5uxZd17SL8bjv-_tjXR_t4V7Xbpy1n5Ue68zafabLxexh5j3mehl8PK-ezs8rwptGrCmImbiok2mZBF0ymK1OUsClhsKFyX5AE1Q2LzGzCPs0Z9LbEHmLiI-hKsGgRDDF68JXbs6wVwwU0vMe9D53oiWD2WB3ezJWhYdNC1RJdzI6Djiy-S7EUwSN4IGRJtlCxmluguZCbeCZU3HlAHuE04_UBiBjWx_JLmfVKk6lmGCJIJJzf7emFXd4grymiF23SqF4lZGBQWGmhG3PaYJnGuAcVao3YUgMn7OMKSpo_f5nD_pknYgM0GGTSEs-WWBgFqmLLKfnuLTX1BdpKm-KkFGur0s4-v9cvuWuWzSX-vgLtaOCtQ",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVdFMVRaRE4zWDFOTVFURjVWM2gwU0Y5eE5EaDVjWEpMTkdOV1dETlhTbXAxU1VGUVQzcHFhM015U0VJNWJtUjVNWHBmUTFoM2JteDNjbmc0WTJZM1JsTkxibnByV0VSaVlqbFVWalZDTFVFNWVEWm9SRXR0Y25wT1FSSVhlVUV5YW1GemVuTkRYekoyY0hSUlVIVlBVMmsyVVZVYUlrRkVjM0k1WmxSVWEwcExiVU5EZGxWcVJXNWZlV1pDZDBaVllXRkRWbTVoWjFFIiwiZmN2IjoiMyIsImVpIjoieUEyamFzenNDXzJ2cHRRUHVPU2k2UVUiLCJxYyI6IkNpUmtiM2R1YVc1bmRHOTNiaUJvYVdkb0lITmphRzl2YkNCd1pXNXVjM2xzZG1GdWFXRVFBSDJpbHpvXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBEb3duaW5ndG93biwgUEEga25vd24gZm9yPyIsImxrIjoiYzVOU0tNOUlMRkhJTEZaSXlTX1B5OHhMTHdGU0NnV0pDdGw1SUVaYWZoRUEiLCJicyI6ImM0V09QUXZDTUJSRmNjM2szRUV1Zm13dVZwMGNTa0hCUlJBY0hPVmgweWJZNUVrVEtmNTdVeFdNZ3ppOU41eHo3eFU3TVQ0cThsQzZVbkJueFZ4RE96UmtMN0xBYUFadHNjLXpkSktNMm5fY2xjUkpySTZLUVkyRVl5TlJrdUdiQTlVM1l6VzR4SnBicTIzbHc4R0czRmRnbGlJWkZCRWdPLUFyUW16RjhMazNkRWRSMDdBUkY5czVKVGRaT2t6UXZxazQ3MG9mU0JpeDJISUxSVTNSY2RyRE15b1pKQnVlZU9mQlM0UDhUSVUwOXl4ZEpuUDEyNHZyWE9mUnktdjNIZyIsImlkIjoiZmNfeUEyamFzenNDXzJ2cHRRUHVPU2k2UVVfNiJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVdFMVRaRE4zWDFOTVFURjVWM2gwU0Y5eE5EaDVjWEpMTkdOV1dETlhTbXAxU1VGUVQzcHFhM015U0VJNWJtUjVNWHBmUTFoM2JteDNjbmc0WTJZM1JsTkxibnByV0VSaVlqbFVWalZDTFVFNWVEWm9SRXR0Y25wT1FSSVhlVUV5YW1GemVuTkRYekoyY0hSUlVIVlBVMmsyVVZVYUlrRkVjM0k1WmxSVWEwcExiVU5EZGxWcVJXNWZlV1pDZDBaVllXRkRWbTVoWjFFIiwiZmN2IjoiMyIsImVpIjoieUEyamFzenNDXzJ2cHRRUHVPU2k2UVUiLCJxYyI6IkNpUmtiM2R1YVc1bmRHOTNiaUJvYVdkb0lITmphRzl2YkNCd1pXNXVjM2xzZG1GdWFXRVFBSDJpbHpvXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBEb3duaW5ndG93biwgUEEga25vd24gZm9yPyIsImxrIjoiYzVOU0tNOUlMRkhJTEZaSXlTX1B5OHhMTHdGU0NnV0pDdGw1SUVaYWZoRUEiLCJicyI6ImM0V09QUXZDTUJSRmNjM2szRUV1Zm13dVZwMGNTa0hCUlJBY0hPVmgweWJZNUVrVEtmNTdVeFdNZ3ppOU41eHo3eFU3TVQ0cThsQzZVbkJueFZ4RE96UmtMN0xBYUFadHNjLXpkSktNMm5fY2xjUkpySTZLUVkyRVl5TlJrdUdiQTlVM1l6VzR4SnBicTIzbHc4R0czRmRnbGlJWkZCRWdPLUFyUW16RjhMazNkRWRSMDdBUkY5czVKVGRaT2t6UXZxazQ3MG9mU0JpeDJISUxSVTNSY2RyRE15b1pKQnVlZU9mQlM0UDhUSVUwOXl4ZEpuUDEyNHZyWE9mUnktdjNIZyIsImlkIjoiZmNfeUEyamFzenNDXzJ2cHRRUHVPU2k2UVVfNiJ9"
+  },
+  {
+   "question": "How hard is it to get into Downingtown Stem Academy?",
+   "type": "ai_overview",
+   "page_token": "2g5eYXicHZBBbuIwFEDVy3RZQtpkBBIaqWB7RJUfxdjOxJuRsYGQ2IkLKS7Z9Qo9w5xqTjO0i7d7i6f38dceu_bf3Wc9DP48n0xCCA-Hvj_Y3YPu3USdr52eaGXtVul2nv5Ipz_3eoEu-nl50s8F916saLRhtgBWp_KXTUsuEEf-ncez18rJxGC4SCxTwyEC7Hllqc_LJEgyMN3iNV0BYaW-7lByI4sFwVBF75ZdpxnEdcsa-2iwINoZoVtz2pZ-BR0WBhXDxpl-h_wLd-BA0E5F65RZ2iinI4qSOivtmxqhAyIuMMW5caJn5Pyk4xnoNgu5WC_zr2aMbTZawjurtjGFrIRmI2TO3TmoxvalkMedsOOWRAHVJinY-rX6DamOYJ91MhiMC8NnTDFJBe2PBaejbqzjrLjeGmMljFCWPt08xAhlMq5f2HLaVlE2ynC_15fF4_3368WfvRvm_tQf_gNJFI53",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=2g5eYXicHZBBbuIwFEDVy3RZQtpkBBIaqWB7RJUfxdjOxJuRsYGQ2IkLKS7Z9Qo9w5xqTjO0i7d7i6f38dceu_bf3Wc9DP48n0xCCA-Hvj_Y3YPu3USdr52eaGXtVul2nv5Ipz_3eoEu-nl50s8F916saLRhtgBWp_KXTUsuEEf-ncez18rJxGC4SCxTwyEC7Hllqc_LJEgyMN3iNV0BYaW-7lByI4sFwVBF75ZdpxnEdcsa-2iwINoZoVtz2pZ-BR0WBhXDxpl-h_wLd-BA0E5F65RZ2iinI4qSOivtmxqhAyIuMMW5caJn5Pyk4xnoNgu5WC_zr2aMbTZawjurtjGFrIRmI2TO3TmoxvalkMedsOOWRAHVJinY-rX6DamOYJ91MhiMC8NnTDFJBe2PBaejbqzjrLjeGmMljFCWPt08xAhlMq5f2HLaVlE2ynC_15fF4_3368WfvRvm_tQf_gNJFI53",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVdFMVRaRE4zWDFOTVFURjVWM2gwU0Y5eE5EaDVjWEpMTkdOV1dETlhTbXAxU1VGUVQzcHFhM015U0VJNWJtUjVNWHBmUTFoM2JteDNjbmc0WTJZM1JsTkxibnByV0VSaVlqbFVWalZDTFVFNWVEWm9SRXR0Y25wT1FSSVhlVUV5YW1GemVuTkRYekoyY0hSUlVIVlBVMmsyVVZVYUlrRkVjM0k1WmxSVWEwcExiVU5EZGxWcVJXNWZlV1pDZDBaVllXRkRWbTVoWjFFIiwiZmN2IjoiMyIsImVpIjoieUEyamFzenNDXzJ2cHRRUHVPU2k2UVUiLCJxYyI6IkNpUmtiM2R1YVc1bmRHOTNiaUJvYVdkb0lITmphRzl2YkNCd1pXNXVjM2xzZG1GdWFXRVFBSDJpbHpvXyIsInF1ZXN0aW9uIjoiSG93IGhhcmQgaXMgaXQgdG8gZ2V0IGludG8gRG93bmluZ3Rvd24gU3RlbSBBY2FkZW15PyIsImxrIjoiYzVNeXpzZ3ZWOGhJTEVwUnlDeFd5Q3hSS01sWFNFOHRVY2pNQXpKUzhzdnpNdlBTUzRDVVFuRkphcTVDWW5KaVNtcHVKUUEiLCJicyI6ImM0V09QUXZDTUJSRmNjM2szRUV1Zm13dVZwMGNTa0hCUlJBY0hPVmgweWJZNUVrVEtmNTdVeFdNZ3ppOU41eHo3eFU3TVQ0cThsQzZVbkJueFZ4RE96UmtMN0xBYUFadHNjLXpkSktNMm5fY2xjUkpySTZLUVkyRVl5TlJrdUdiQTlVM1l6VzR4SnBicTIzbHc4R0czRmRnbGlJWkZCRWdPLUFyUW16RjhMazNkRWRSMDdBUkY5czVKVGRaT2t6UXZxazQ3MG9mU0JpeDJISUxSVTNSY2RyRE15b1pKQnVlZU9mQlM0UDhUSVUwOXl4ZEpuUDEyNHZyWE9mUnktdjNIZyIsImlkIjoiZmNfeUEyamFzenNDXzJ2cHRRUHVPU2k2UVVfNiJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVdFMVRaRE4zWDFOTVFURjVWM2gwU0Y5eE5EaDVjWEpMTkdOV1dETlhTbXAxU1VGUVQzcHFhM015U0VJNWJtUjVNWHBmUTFoM2JteDNjbmc0WTJZM1JsTkxibnByV0VSaVlqbFVWalZDTFVFNWVEWm9SRXR0Y25wT1FSSVhlVUV5YW1GemVuTkRYekoyY0hSUlVIVlBVMmsyVVZVYUlrRkVjM0k1WmxSVWEwcExiVU5EZGxWcVJXNWZlV1pDZDBaVllXRkRWbTVoWjFFIiwiZmN2IjoiMyIsImVpIjoieUEyamFzenNDXzJ2cHRRUHVPU2k2UVUiLCJxYyI6IkNpUmtiM2R1YVc1bmRHOTNiaUJvYVdkb0lITmphRzl2YkNCd1pXNXVjM2xzZG1GdWFXRVFBSDJpbHpvXyIsInF1ZXN0aW9uIjoiSG93IGhhcmQgaXMgaXQgdG8gZ2V0IGludG8gRG93bmluZ3Rvd24gU3RlbSBBY2FkZW15PyIsImxrIjoiYzVNeXpzZ3ZWOGhJTEVwUnlDeFd5Q3hSS01sWFNFOHRVY2pNQXpKUzhzdnpNdlBTUzRDVVFuRkphcTVDWW5KaVNtcHVKUUEiLCJicyI6ImM0V09QUXZDTUJSRmNjM2szRUV1Zm13dVZwMGNTa0hCUlJBY0hPVmgweWJZNUVrVEtmNTdVeFdNZ3ppOU41eHo3eFU3TVQ0cThsQzZVbkJueFZ4RE96UmtMN0xBYUFadHNjLXpkSktNMm5fY2xjUkpySTZLUVkyRVl5TlJrdUdiQTlVM1l6VzR4SnBicTIzbHc4R0czRmRnbGlJWkZCRWdPLUFyUW16RjhMazNkRWRSMDdBUkY5czVKVGRaT2t6UXZxazQ3MG9mU0JpeDJISUxSVTNSY2RyRE15b1pKQnVlZU9mQlM0UDhUSVUwOXl4ZEpuUDEyNHZyWE9mUnktdjNIZyIsImlkIjoiZmNfeUEyamFzenNDXzJ2cHRRUHVPU2k2UVVfNiJ9"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Downingtown Area School District: where every student is ...",
+   "link": "https://www.dasd.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTQHrOzAVm9iIjtfiJKeTs_ZQUL11N7jOvk69YsMyEj-uLq3PvkhE4_tS2uPjryUgj75ahd9c2VJj6AcpFUcLwuRbnmY9VzRDghuWI-au&ved=2ahUKEwjM8K-I6OSWAxX9l4kEHTiyKF0QFnoECCMQAQ&uoh=1",
+   "displayed_link": "https://www.dasd.org",
+   "favicon": "https://serpapi.com/searches/6aa30dbed2d7406d2889b977/images/VkNwbRup9xgSSZY2lM5BrfLGAiQNW68U_512ikl-_zI.png",
+   "snippet": "Downingtown High School East \u00b7 Downingtown High School West \u00b7 Downingtown STEM ... As a close-knit yet diverse community, the seventh largest in PA, DASD ...",
+   "snippet_highlighted_words": [
+    "Downingtown High School",
+    "Downingtown High School",
+    "PA"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Downingtown High School East \u00b7 Downingtown High School West \u00b7 Downingtown STEM ... As a close-knit yet diverse community, the seventh largest in PA, DASD ...",
+     "source_info_link": "https://www.dasd.org/",
+     "icon": "https://serpapi.com/searches/6aa30dbed2d7406d2889b977/images/VkNwbRup9xgSSZY2lM5BrROi6JFCKIRphkGqWA5Hhi_oFPctzrJbmDITeaa4R7VL.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Downingtown Area School District",
+   "read_more_link": "https://www.dasd.org/#:~:text=Menu&text=As%20a%20close%2Dknit%20yet%20diverse,educators%20and%20innovative%20teaching%20methods."
+  },
+  {
+   "position": 2,
+   "title": "Downingtown High School",
+   "link": "https://en.wikipedia.org/wiki/Downingtown_High_School",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbQHrOzAVY_KOv6BNME8Ju-_JnQ4NvYlSORdNufEJFVDyCndQCQZ-XbTL5dduMNpgLYHPOl8UhBxeyXODcbUoxe8ju7ZZq-yjhrdtAI1VWyyEWyztDijdFlPjD3F9TtK4-8SeqaI4DxIspHLYjKI&ved=2ahUKEwjM8K-I6OSWAxX9l4kEHTiyKF0QFnoECCQQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Downingtown_High_S...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+   "snippet": "Downingtown High School is an American secondary school located in Downingtown, Pennsylvania and Uwchlan Township, Pennsylvania. Population growth in the ...",
+   "snippet_highlighted_words": [
+    "Downingtown High School",
+    "Pennsylvania",
+    "Pennsylvania"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Downingtown High School is an American secondary school located in Downingtown, Pennsylvania and Uwchlan Township, Pennsylvania. Population growth in the ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Downingtown_High_School",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Downingtown_High_School#:~:text=Downingtown%20High%20School%20is%20an,Pennsylvania.%20Population%20growth%20in%20the"
+  },
+  {
+   "position": 3,
+   "title": "High Schools in Downingtown Area School District",
+   "link": "https://www.usnews.com/education/best-high-schools/pennsylvania/districts/downingtown-area-school-district-101839",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESqQEB6zswFaG9VHWgv6KB9QEZd45e1TvWO-9v60eDUgOa4F9HD3SetYHzGlYVzdJuIyiQPr1BndA3JMr1o2wK9X3qLwaD36zGDD1yAZ4_Svy7h9GOwNYritirY2A1OZDpI021S41rACKEuoNYj0rkOlOun0QuGztZqI08DETgzthfFg8OfyxtVq8YzR37rDKRXBCFG6N4mLqhfchD2_PpZIEZVBy1re_yTYaW&ved=2ahUKEwjM8K-I6OSWAxX9l4kEHTiyKF0QFnoECCcQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a ... \u203a Pennsylvania Districts",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png",
+   "snippet": "#55 in Pennsylvania Rankings. Downingtown High School East Campus is ranked 55th within Pennsylvania. Students have the opportunity to take Advanced ...",
+   "snippet_highlighted_words": [
+    "Pennsylvania",
+    "Downingtown High School",
+    "Pennsylvania"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "#55 in Pennsylvania Rankings. Downingtown High School East Campus is ranked 55th within Pennsylvania. Students have the opportunity to take Advanced ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/pennsylvania/districts/downingtown-area-school-district-101839",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/pennsylvania/districts/downingtown-area-school-district-101839#:~:text=%2355%20in%20Pennsylvania%20Rankings"
+  },
+  {
+   "position": 4,
+   "title": "Downingtown Area School District",
+   "link": "https://www.facebook.com/downingtownschools/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZAHrOzAV6niUW9x4oB-XaLZ5p2CcvARAhFm329Z9hQ_2-SGEUVak0Bbu6auCvjFQ8rQ3FDca7HNCHF492bMSRGAoGYvqA5oC6aN3ot-NlpLC_JyGpVwNQ2c8_slES9QchWbCNDk&ved=2ahUKEwjM8K-I6OSWAxX9l4kEHTiyKF0QFnoECCgQAQ&uoh=1",
+   "displayed_link": "24.2K+ followers",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "snippet": "Track Closure Notice The tracks at Downingtown High School East and Downingtown High School West will remain closed to the public while renovations are ...",
+   "snippet_highlighted_words": [
+    "Downingtown High School",
+    "Downingtown High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Track Closure Notice The tracks at Downingtown High School East and Downingtown High School West will remain closed to the public while renovations are ...",
+     "source_info_link": "https://www.facebook.com/downingtownschools/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Facebook \u00b7 Downingtown Area School District",
+   "read_more_link": "https://www.facebook.com/downingtownschools/#:~:text=Track%20Closure%20Notice%20%F0%9F%93%A2%20The,public%20while%20renovations%20are%20underway."
+  },
+  {
+   "position": 5,
+   "title": "Downingtown High School East: Home",
+   "link": "https://de.dasd.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTAHrOzAVq8xE9FrPE5wHtQ05FbruTMB0qtFBsNH6zIzI52-iSz14C-OpVvWP1CrHJUrt5y-YVPl5eA11NKzvm0u4EbcGpc57xE-ul-8&ved=2ahUKEwjM8K-I6OSWAxX9l4kEHTiyKF0QFnoECD0QAQ&uoh=1",
+   "displayed_link": "https://de.dasd.org",
+   "favicon": "https://serpapi.com/searches/6aa30dbed2d7406d2889b977/images/VkNwbRup9xgSSZY2lM5BrXf52OflciK63c30ms-wFZg.png",
+   "snippet": "Downingtown High School East. 50 Devon Drive. Exton. PA. 19341. (610) 363-6400. Accessibility \u00b7 Privacy Policy \u00b7 Safety & Wellness ...",
+   "snippet_highlighted_words": [
+    "Downingtown High School",
+    "PA"
+   ],
+   "sitelinks": {
+    "inline": [
+     {
+      "title": "Our Staff",
+      "link": "https://de.dasd.org/dedirectory"
+     },
+     {
+      "title": "About Us",
+      "link": "https://de.dasd.org/deabout-us"
+     },
+     {
+      "title": "News & Events",
+      "link": "https://de.dasd.org/denews-events"
+     },
+     {
+      "title": "Resources",
+      "link": "https://de.dasd.org/deresources"
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Downingtown High School East. 50 Devon Drive. Exton. PA. 19341. (610) 363-6400. Accessibility \u00b7 Privacy Policy \u00b7 Safety & Wellness ...",
+     "source_info_link": "https://de.dasd.org/",
+     "icon": "https://serpapi.com/searches/6aa30dbed2d7406d2889b977/images/VkNwbRup9xgSSZY2lM5BraR1Zck_01j0Z-Zu9aR2nlKmg9_-f2fEBeEmLmUHbosx.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Downingtown High School East",
+   "read_more_link": "https://de.dasd.org/#:~:text=Downingtown%20High%20School%20East,Safety%20%26%20Wellness"
+  },
+  {
+   "position": 6,
+   "title": "Downingtown High School West",
+   "link": "https://www.niche.com/k12/downingtown-high-school-west-downingtown-pa/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfgHrOzAVDvYmbE6aTlpaHYkmnDEAD0A1c8SzwDBy4fuNzu4W1AqIMLaKcabD9JwJBroaHLOFQEVigC087Q0WHYKV4Upnvti6p1AjR_WYirye3oOl0Qqr7u8d30qr7bPR4859IQtUtGkMldIhVl3tqnme6si7I6MBJ30heMvA9w&ved=2ahUKEwjM8K-I6OSWAxX9l4kEHTiyKF0QFnoECCIQAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a Pennsylvania",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png",
+   "snippet": "Downingtown High School West is a highly rated, public school located in DOWNINGTOWN, PA. It has 1,796 students in grades 9-12 with a student-teacher ratio ...",
+   "snippet_highlighted_words": [
+    "Downingtown High School",
+    "PA"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 3.9,
+      "reviews": 238
+     },
+     "extensions": [
+      "3.9(238)"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Downingtown High School West is a highly rated, public school located in DOWNINGTOWN, PA. It has 1,796 students in grades 9-12 with a student-teacher ratio ...",
+     "source_info_link": "https://www.niche.com/k12/downingtown-high-school-west-downingtown-pa/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Niche",
+   "read_more_link": "https://www.niche.com/k12/downingtown-high-school-west-downingtown-pa/#:~:text=Downingtown%20High%20School%20West%20is,ratio%20of%2013%20to%201."
+  },
+  {
+   "position": 7,
+   "title": "Downingtown High School West: Home",
+   "link": "https://dw.dasd.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTAHrOzAVuWZZglgBxuLaFmWNoq2V3FoMZMpfm4dbALGe2t9WhDijdCPphReSGb0sLeu8qy_vmSvnCvFbZRaWOW_HxAmuXnm2HfyaeKc&ved=2ahUKEwjM8K-I6OSWAxX9l4kEHTiyKF0QFnoECFAQAQ&uoh=1",
+   "displayed_link": "https://dw.dasd.org",
+   "favicon": "https://serpapi.com/searches/6aa30dbed2d7406d2889b977/images/VkNwbRup9xgSSZY2lM5BrcTqOVMZCR94AJMrGs_IdtU.png",
+   "snippet": "College Placement Rate. 1; 2; 3. Downingtown High School West. 445 Manor Avenue. Downingtown. PA. 19335. (610) 269-4400. Accessibility ...",
+   "snippet_highlighted_words": [
+    "Downingtown High School",
+    "PA"
+   ],
+   "sitelinks": {
+    "inline": [
+     {
+      "title": "Our Staff",
+      "link": "https://dw.dasd.org/dwdirectory"
+     },
+     {
+      "title": "About Us",
+      "link": "https://dw.dasd.org/dwaboutus"
+     },
+     {
+      "title": "News & Events",
+      "link": "https://dw.dasd.org/dwnews-events"
+     },
+     {
+      "title": "Resources",
+      "link": "https://dw.dasd.org/dwresources"
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "College Placement Rate. 1; 2; 3. Downingtown High School West. 445 Manor Avenue. Downingtown. PA. 19335. (610) 269-4400. Accessibility ...",
+     "source_info_link": "https://dw.dasd.org/",
+     "icon": "https://serpapi.com/searches/6aa30dbed2d7406d2889b977/images/VkNwbRup9xgSSZY2lM5BrZOz-stejzWO4-niBmVRubwSaVDthGgYUnL1H-OMSqqf.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Downingtown High School West",
+   "read_more_link": "https://dw.dasd.org/#:~:text=1,Accessibility"
+  },
+  {
+   "position": 8,
+   "title": "Downingtown High School East Campus",
+   "link": "https://www.greatschools.org/pennsylvania/exton/6026-Downingtown-High-School-East-Campus/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkQEB6zswFaG2kOI6WllJESq67lYzAcYsnNe3SumvY5Yo95fW-C0LfQ5NHQqwCOzrGzBlX0OJ557ExQi8JEddVOHYFsT1oXmPBTUS_jHNM8avlFnL8oPPG2w2PSws3lAsG4vm5brpDBs-D-5Fe-CAb2CIM7Oek46Mip-Mxx00Xhla6mNHFd0wUvRZN4HJ2YnK7JrT&ved=2ahUKEwjM8K-I6OSWAxX9l4kEHTiyKF0QFnoECCUQAQ&uoh=1",
+   "displayed_link": "https://www.greatschools.org \u203a pennsylvania \u203a exton",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX____6_v74_P7N6_jA5vfy-v3V7PiO0e89tuUApd-Ayu0eqeEiquEjquG64PQ_tOWq2vIwruJnw-rj8_vs9vx1yeye2fFav-ix4fQbruMAo9-Hy-yp1vCq3vSw2fGY0O5xwenE5vbe7_lFmiYHAAABRElEQVR4AVzSB5KDMAwFUNGRv-QSanq5_yHX4ImHrOg8d5lyFGVZ1XVVlgX9j6btet6j79rm11oDhmgMAcO0ByqsYxHEiAqAnS2y-QAF-tPJsWpwQRH8V-1m2g3jOE4c_DirINhkrYOKmDSuJdS0qihcu38bVkVoqZZzQ9XF76hsmq0iZENqrsyWBrklFMSqRcca0cUWwHcaw43uGyp3BZU9MmJ5PGPNTjZEX1LJklHBzJ4SCpdUsWaECPhaJFSuqOaM0seAKb9YH_FUEo3uiIdml2qkIZjiBU3NHgfEl2nDMaFw-TMV7mhwzgRomsrvIqwRsTWVFiEvX0NPvlQRQ-9S0tvvwkuoqZnfRENv6Z4XPqVMsexJmMaIh5SlZAuW9ePFzc6s0yHZaZsImBnYz2i--NlgmkOOG-xv2JIm4USNNzsAAN3rGxmBgpZiAAAAAElFTkSuQmCC.png",
+   "snippet": "Downingtown High School East Campus is a public school in Exton, PA, offering AP courses, Project Lead The Way curriculum, and a Gifted & Talented program.",
+   "snippet_highlighted_words": [
+    "Downingtown High School",
+    "PA"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 3.3,
+      "reviews": 16
+     },
+     "extensions": [
+      "3.3(16)"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Downingtown High School East Campus is a public school in Exton, PA, offering AP courses, Project Lead The Way curriculum, and a Gifted & Talented program.",
+     "source_info_link": "https://www.greatschools.org/pennsylvania/exton/6026-Downingtown-High-School-East-Campus/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX____6_v74_P7N6_jA5vfy-v3V7PiO0e89tuUApd-Ayu0eqeEiquEjquG64PQ_tOWq2vIwruJnw-rj8_vs9vx1yeye2fFav-ix4fQbruMAo9-Hy-yp1vCq3vSw2fGY0O5xwenE5vbe7_lFmiYHAAABRElEQVR4AVzSB5KDMAwFUNGRv-QSanq5_yHX4ImHrOg8d5lyFGVZ1XVVlgX9j6btet6j79rm11oDhmgMAcO0ByqsYxHEiAqAnS2y-QAF-tPJsWpwQRH8V-1m2g3jOE4c_DirINhkrYOKmDSuJdS0qihcu38bVkVoqZZzQ9XF76hsmq0iZENqrsyWBrklFMSqRcca0cUWwHcaw43uGyp3BZU9MmJ5PGPNTjZEX1LJklHBzJ4SCpdUsWaECPhaJFSuqOaM0seAKb9YH_FUEo3uiIdml2qkIZjiBU3NHgfEl2nDMaFw-TMV7mhwzgRomsrvIqwRsTWVFiEvX0NPvlQRQ-9S0tvvwkuoqZnfRENv6Z4XPqVMsexJmMaIh5SlZAuW9ePFzc6s0yHZaZsImBnYz2i--NlgmkOOG-xv2JIm4USNNzsAAN3rGxmBgpZiAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "GreatSchools"
+  },
+  {
+   "position": 9,
+   "title": "Downingtown High School West Campus",
+   "link": "https://www.usnews.com/education/best-high-schools/pennsylvania/districts/downingtown-area-school-district/downingtown-high-school-west-campus-16925",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESzQEB6zswFWBB8uDFqsNjjM_tvMGqYgYb3FpTcEb5VjMDiHWHgEE4sX40ZJPNPkHePLuaqVh9WtOFDqdmSVGH9GUGq7kIT2K-3MSAkk-U9-kFdiK-SmGX3kkdLordldr8BUujoGdl1B_L2uo_BWsirwxRA4sA0X8dkdwQqEajUS6BdKtwmKvZScG9W8npeLsdLtkqP9nChSxuTcgdUV-vcb0iNvH8FWYYF-7wNMS7Czv-LVAxVKEiiNOSTqm7SchMHcl-P0t_-2pEStTONTJ9&ved=2ahUKEwjM8K-I6OSWAxX9l4kEHTiyKF0QFnoECCEQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a pennsylvania \u203a districts \u203a do...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png",
+   "snippet": "Downingtown High School West Campus is ranked 89th within Pennsylvania. Students have the opportunity to take Advanced Placement\u00ae coursework and exams. The AP\u00ae ...",
+   "snippet_highlighted_words": [
+    "Downingtown High School",
+    "Pennsylvania"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Downingtown High School West Campus is ranked 89th within Pennsylvania. Students have the opportunity to take Advanced Placement\u00ae coursework and exams. The AP\u00ae ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/pennsylvania/districts/downingtown-area-school-district/downingtown-high-school-west-campus-16925",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/pennsylvania/districts/downingtown-area-school-district/downingtown-high-school-west-campus-16925#:~:text=Downingtown%20High%20School%20West%20Campus,grade%20enrollment%20is%20457%20students."
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Downingtown high school pennsylvania yearbook",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Downingtown+high+school+pennsylvania+yearbook&sa=X&ved=2ahUKEwjM8K-I6OSWAxX9l4kEHTiyKF0Q1QJ6BAhKEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Downingtown+high+school+pennsylvania+yearbook"
+  },
+  {
+   "block_position": 1,
+   "query": "Downingtown high school pennsylvania football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Downingtown+high+school+pennsylvania+football&sa=X&ved=2ahUKEwjM8K-I6OSWAxX9l4kEHTiyKF0Q1QJ6BAhPEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Downingtown+high+school+pennsylvania+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Downingtown East High School",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Downingtown+East+High+School&sa=X&ved=2ahUKEwjM8K-I6OSWAxX9l4kEHTiyKF0Q1QJ6BAhOEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Downingtown+East+High+School"
+  },
+  {
+   "block_position": 1,
+   "query": "Downingtown high school pennsylvania staff",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Downingtown+high+school+pennsylvania+staff&sa=X&ved=2ahUKEwjM8K-I6OSWAxX9l4kEHTiyKF0Q1QJ6BAhLEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Downingtown+high+school+pennsylvania+staff"
+  },
+  {
+   "block_position": 1,
+   "query": "Downingtown West High School",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Downingtown+West+High+School&sa=X&ved=2ahUKEwjM8K-I6OSWAxX9l4kEHTiyKF0Q1QJ6BAhNEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Downingtown+West+High+School"
+  },
+  {
+   "block_position": 1,
+   "query": "Downingtown high school pennsylvania alumni",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Downingtown+high+school+pennsylvania+alumni&sa=X&ved=2ahUKEwjM8K-I6OSWAxX9l4kEHTiyKF0Q1QJ6BAhMEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Downingtown+high+school+pennsylvania+alumni"
+  },
+  {
+   "block_position": 1,
+   "query": "Downingtown School District",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Downingtown+School+District&sa=X&ved=2ahUKEwjM8K-I6OSWAxX9l4kEHTiyKF0Q1QJ6BAhJEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Downingtown+School+District"
+  },
+  {
+   "block_position": 1,
+   "query": "Downingtown School District Calendar 2026 2027",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Downingtown+School+District+Calendar+2026+2027&sa=X&ved=2ahUKEwjM8K-I6OSWAxX9l4kEHTiyKF0Q1QJ6BAhIEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Downingtown+School+District+Calendar+2026+2027"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Downingtown+High+School%22+Pennsylvania&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=yA2jaszsC_2vptQPuOSi6QU&start=10&sa=N&sstk=AS6-VmISWSsb11nXDstDFWA92j8p-f7wZGcsbyZKfdiVT-Jmf-AmsSz0RZxAcTLcmyb05EbPa15BTeankn05g_OJmVKrGpDvH_Yhtg&ved=2ahUKEwjM8K-I6OSWAxX9l4kEHTiyKF0Q8NMDegQIQRAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Downingtown+High+School%22+Pennsylvania&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=yA2jaszsC_2vptQPuOSi6QU&start=10&sa=N&sstk=AS6-VmISWSsb11nXDstDFWA92j8p-f7wZGcsbyZKfdiVT-Jmf-AmsSz0RZxAcTLcmyb05EbPa15BTeankn05g_OJmVKrGpDvH_Yhtg&ved=2ahUKEwjM8K-I6OSWAxX9l4kEHTiyKF0Q8tMDegQIQRAE",
+   "3": "https://www.google.com/search?q=%22Downingtown+High+School%22+Pennsylvania&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=yA2jaszsC_2vptQPuOSi6QU&start=20&sa=N&sstk=AS6-VmISWSsb11nXDstDFWA92j8p-f7wZGcsbyZKfdiVT-Jmf-AmsSz0RZxAcTLcmyb05EbPa15BTeankn05g_OJmVKrGpDvH_Yhtg&ved=2ahUKEwjM8K-I6OSWAxX9l4kEHTiyKF0Q8tMDegQIQRAG",
+   "4": "https://www.google.com/search?q=%22Downingtown+High+School%22+Pennsylvania&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=yA2jaszsC_2vptQPuOSi6QU&start=30&sa=N&sstk=AS6-VmISWSsb11nXDstDFWA92j8p-f7wZGcsbyZKfdiVT-Jmf-AmsSz0RZxAcTLcmyb05EbPa15BTeankn05g_OJmVKrGpDvH_Yhtg&ved=2ahUKEwjM8K-I6OSWAxX9l4kEHTiyKF0Q8tMDegQIQRAI",
+   "5": "https://www.google.com/search?q=%22Downingtown+High+School%22+Pennsylvania&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=yA2jaszsC_2vptQPuOSi6QU&start=40&sa=N&sstk=AS6-VmISWSsb11nXDstDFWA92j8p-f7wZGcsbyZKfdiVT-Jmf-AmsSz0RZxAcTLcmyb05EbPa15BTeankn05g_OJmVKrGpDvH_Yhtg&ved=2ahUKEwjM8K-I6OSWAxX9l4kEHTiyKF0Q8tMDegQIQRAK",
+   "6": "https://www.google.com/search?q=%22Downingtown+High+School%22+Pennsylvania&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=yA2jaszsC_2vptQPuOSi6QU&start=50&sa=N&sstk=AS6-VmISWSsb11nXDstDFWA92j8p-f7wZGcsbyZKfdiVT-Jmf-AmsSz0RZxAcTLcmyb05EbPa15BTeankn05g_OJmVKrGpDvH_Yhtg&ved=2ahUKEwjM8K-I6OSWAxX9l4kEHTiyKF0Q8tMDegQIQRAM",
+   "7": "https://www.google.com/search?q=%22Downingtown+High+School%22+Pennsylvania&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=yA2jaszsC_2vptQPuOSi6QU&start=60&sa=N&sstk=AS6-VmISWSsb11nXDstDFWA92j8p-f7wZGcsbyZKfdiVT-Jmf-AmsSz0RZxAcTLcmyb05EbPa15BTeankn05g_OJmVKrGpDvH_Yhtg&ved=2ahUKEwjM8K-I6OSWAxX9l4kEHTiyKF0Q8tMDegQIQRAO",
+   "8": "https://www.google.com/search?q=%22Downingtown+High+School%22+Pennsylvania&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=yA2jaszsC_2vptQPuOSi6QU&start=70&sa=N&sstk=AS6-VmISWSsb11nXDstDFWA92j8p-f7wZGcsbyZKfdiVT-Jmf-AmsSz0RZxAcTLcmyb05EbPa15BTeankn05g_OJmVKrGpDvH_Yhtg&ved=2ahUKEwjM8K-I6OSWAxX9l4kEHTiyKF0Q8tMDegQIQRAQ",
+   "9": "https://www.google.com/search?q=%22Downingtown+High+School%22+Pennsylvania&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=yA2jaszsC_2vptQPuOSi6QU&start=80&sa=N&sstk=AS6-VmISWSsb11nXDstDFWA92j8p-f7wZGcsbyZKfdiVT-Jmf-AmsSz0RZxAcTLcmyb05EbPa15BTeankn05g_OJmVKrGpDvH_Yhtg&ved=2ahUKEwjM8K-I6OSWAxX9l4kEHTiyKF0Q8tMDegQIQRAS",
+   "10": "https://www.google.com/search?q=%22Downingtown+High+School%22+Pennsylvania&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=yA2jaszsC_2vptQPuOSi6QU&start=90&sa=N&sstk=AS6-VmISWSsb11nXDstDFWA92j8p-f7wZGcsbyZKfdiVT-Jmf-AmsSz0RZxAcTLcmyb05EbPa15BTeankn05g_OJmVKrGpDvH_Yhtg&ved=2ahUKEwjM8K-I6OSWAxX9l4kEHTiyKF0Q8tMDegQIQRAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Downingtown+High+School%22+Pennsylvania&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Downingtown+High+School%22+Pennsylvania&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Downingtown+High+School%22+Pennsylvania&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Downingtown+High+School%22+Pennsylvania&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Downingtown+High+School%22+Pennsylvania&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Downingtown+High+School%22+Pennsylvania&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Downingtown+High+School%22+Pennsylvania&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Downingtown+High+School%22+Pennsylvania&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Downingtown+High+School%22+Pennsylvania&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Downingtown+High+School%22+Pennsylvania&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Downingtown+High+School%22+Pennsylvania&start=90"
+  }
+ }
+}

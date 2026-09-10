@@ -1,0 +1,83 @@
+{
+ "news_results": [
+  {
+   "position": 1,
+   "title": "Annual Winter Festival to light up downtown Tallahassee",
+   "source": {
+    "name": "Tallahassee Democrat",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.tallahassee.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Mark Hinson"
+    ]
+   },
+   "link": "https://www.tallahassee.com/story/entertainment/2018/11/29/winter-festival-tallahassee-celebration-lights-music-arts/2130737002/",
+   "thumbnail": "https://www.tallahassee.com/gcdn/presto/2018/11/27/PTAL/21f0b6ff-e410-47a9-af84-41c53d0d1ec5-Winter_Festival_inside_art_2.jpg?width=660&height=499&fit=crop&format=pjpg&auto=webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU5MVkE1WVRsd1MyOXRiVE54VFJEaEF4ajlCQ2dLTWdrQnNJb29RbVUxa0FF",
+   "date": "11/29/2018, 08:00 AM, +0000 UTC",
+   "iso_date": "2018-11-29T08:00:00Z"
+  },
+  {
+   "position": 2,
+   "title": "Things to do in Tallahassee: Shop 'One More' market, take Holiday Stroll at Cascades",
+   "source": {
+    "name": "Tallahassee Democrat",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.tallahassee.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Martha Gruender"
+    ]
+   },
+   "link": "https://www.tallahassee.com/story/entertainment/things-to-do/2021/12/09/things-do-tallahassee-florida-shop-stroll-listen-blues-and-holiday-carols/6433596001/",
+   "thumbnail": "https://www.tallahassee.com/gcdn/presto/2021/12/08/PTAL/ec2511bf-9c84-433f-9e51-b0d35c66e696-Ben_Prestage_image-asset.jpeg?width=660&height=441&fit=crop&format=pjpg&auto=webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJSazR3YzAxc1RHMDRkRzVaVFJDNUF4aVVCU2dLTWdZVklvd1VFUXM",
+   "date": "12/09/2021, 08:00 AM, +0000 UTC",
+   "iso_date": "2021-12-09T08:00:00Z"
+  }
+ ],
+ "menu_links": [
+  {
+   "title": "U.S.",
+   "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+  },
+  {
+   "title": "World",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Your local news",
+   "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+  },
+  {
+   "title": "Business",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Technology",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Entertainment",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Sports",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Science",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Health",
+   "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+  }
+ ]
+}

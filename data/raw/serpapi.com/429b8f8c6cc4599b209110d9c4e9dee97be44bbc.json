@@ -1,0 +1,618 @@
+{
+ "search_information": {
+  "query_displayed": "\"Vista Ridge High School\" Texas",
+  "total_results": 150,
+  "time_taken_displayed": 0.54,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "local_map": {
+  "link": "https://www.google.com/search?q=vista&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt8OTb2d-2f_L_VzCIViQZiKmfEMA:1789070117557&udm=1&lsack=JQujasfcIeyRnesPxaSP6QQ&sa=X&ved=2ahUKEwiHg9fG5eSWAxXsSGcHHUXSI00QtgN6BAgkEAM",
+  "image": "https://serpapi.com/searches/6aa30b143d87014ad3831e09/images/XKNrApuhbPC8SGf77moT1Q.png",
+  "gps_coordinates": {
+   "latitude": 32.834019798849624,
+   "longitude": -96.71058654785156
+  }
+ },
+ "local_results": {
+  "places": [
+   {
+    "position": 1,
+    "rating": 4.7,
+    "reviews": 135,
+    "reviews_original": "(135)",
+    "description": "\"Highly recommend The Vista for a comfortable and stylish living experience.\"",
+    "links": {
+     "website": "https://www.vistadallas.com/?utm_knock=g",
+     "directions": "https://www.google.com/maps/dir//The+Vista,+2345+N+Houston+St,+Dallas,+TX+75219/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x864e993eadb39ee9:0xf85b75521ab308a3?sa=X&ved=2ahUKEwiHg9fG5eSWAxXsSGcHHUXSI00Q48ADegQIHxAA&hl=en&gl=us"
+    },
+    "place_id": "17896026539782506659",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=17896026539782506659&q=%22Vista+Ridge+High+School%22+Texas",
+    "provider_id": "/g/1wn3426r",
+    "gps_coordinates": {
+     "latitude": 32.786754,
+     "longitude": -96.809014
+    },
+    "title": "The Vista",
+    "type": "Apartment complex",
+    "phone": "(469) 296-4998",
+    "address": "Dallas, TX",
+    "hours": "Open \u00b7 Closes 5:30 PM"
+   },
+   {
+    "position": 2,
+    "rating": 4.3,
+    "reviews": 1200,
+    "reviews_original": "(1.2K)",
+    "description": "Onsite services",
+    "links": {
+     "directions": "https://www.google.com/maps/dir//Vista+Crossing,+2110+N+Galloway+Ave,+Mesquite,+TX+75150/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x864ea5c884413e19:0x63d627e8a2dd5850?sa=X&ved=2ahUKEwiHg9fG5eSWAxXsSGcHHUXSI00Q48ADegQIIRAA&hl=en&gl=us"
+    },
+    "place_id": "7193981334889257040",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=7193981334889257040&q=%22Vista+Ridge+High+School%22+Texas",
+    "provider_id": "/g/11h7rpfr4b",
+    "gps_coordinates": {
+     "latitude": 32.795303,
+     "longitude": -96.610811
+    },
+    "title": "Vista Crossing",
+    "type": "Shopping mall",
+    "address": "Mesquite, TX",
+    "hours": "Open \u00b7 Closes 9 PM"
+   },
+   {
+    "position": 3,
+    "rating": 4.3,
+    "reviews": 14,
+    "reviews_original": "(14)",
+    "description": "\"Vista Bank will make all your wildest dreams come true!\"",
+    "links": {
+     "website": "https://vistabank.com/",
+     "directions": "https://www.google.com/maps/dir//Vista+Bank,+5840+W+Northwest+Hwy,+Dallas,+TX+75225/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x864e9e43dbb65787:0xab6a5d27aff6428f?sa=X&ved=2ahUKEwiHg9fG5eSWAxXsSGcHHUXSI00Q48ADegQIIBAA&hl=en&gl=us"
+    },
+    "place_id": "12351787353054265999",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=12351787353054265999&q=%22Vista+Ridge+High+School%22+Texas",
+    "provider_id": "/g/11f3xqf17z",
+    "gps_coordinates": {
+     "latitude": 32.865221,
+     "longitude": -96.810116
+    },
+    "title": "Vista Bank",
+    "type": "Bank",
+    "phone": "(214) 416-8300",
+    "address": "Dallas, TX",
+    "hours": "Open \u00b7 Closes 4 PM"
+   }
+  ],
+  "more_locations_link": "https://www.google.com/search?q=vista&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt8OTb2d-2f_L_VzCIViQZiKmfEMA:1789070117557&udm=1&lsack=JQujasfcIeyRnesPxaSP6QQ&sa=X&ved=2ahUKEwiHg9fG5eSWAxXsSGcHHUXSI00QjGp6BAgjEAE"
+ },
+ "related_questions": [
+  {
+   "question": "What does Vista mean?",
+   "type": "ai_overview",
+   "page_token": "J8ABP3icHdBRboIwAADQ7DJ-Kqi4YGKWoFSiFkZLW-zPAq2oWGijbEX_dpedaqeZ2Q1e3vePOreX35f81HXmNh-NrLXDo9ZHdRgK3YyK270VI1EoVRbiMp-9zty3SizCmw2W2gYpMYaukJOF_WcSxjoJQU6YjyHRHiT-SVwAl0Bb6VKXErkRob8rXG0PLexou9llQE4OK25xLmv6CJL4QfUeu9usoTV1plY0PBJrk2AmZ6RF75L0AVQbLgm6FKFPYHsKUBtHZQQ9FvKrzNJxWdMc5tzgOgAFUXEJAMUMVGXTwySkd05Bky0dDByDJDMnMeY1ZtQjjaeEG0z3NE5jBdD6vAlQFN8TxrF4PD3j_r5nfp2On95abSVzE0RMTxuqYWvQoBJfi8ngf2zxUTXd3Fz18Q_0-nn9",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=J8ABP3icHdBRboIwAADQ7DJ-Kqi4YGKWoFSiFkZLW-zPAq2oWGijbEX_dpedaqeZ2Q1e3vePOreX35f81HXmNh-NrLXDo9ZHdRgK3YyK270VI1EoVRbiMp-9zty3SizCmw2W2gYpMYaukJOF_WcSxjoJQU6YjyHRHiT-SVwAl0Bb6VKXErkRob8rXG0PLexou9llQE4OK25xLmv6CJL4QfUeu9usoTV1plY0PBJrk2AmZ6RF75L0AVQbLgm6FKFPYHsKUBtHZQQ9FvKrzNJxWdMc5tzgOgAFUXEJAMUMVGXTwySkd05Bky0dDByDJDMnMeY1ZtQjjaeEG0z3NE5jBdD6vAlQFN8TxrF4PD3j_r5nfp2On95abSVzE0RMTxuqYWvQoBJfi8ngf2zxUTXd3Fz18Q_0-nn9",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFRGQnVSV2hKZEU4emFHNXdiVXAxWDBkeWIwWndia0ZIVlZCdE1VNXVTMjR3VEVsMk1XdFRjMUk0TFcxQlVGTlVPVGxEVDBOR1lrRmljVkp2UTI5M1dsVnhTV05sUVRab016WmZhVUpyV2xKWGIyWk9NeTFrYnpWUlFSSVhTbEYxYW1GelptTkpaWGxTYm1WelVIaGhVMUEyVVZFYUlrRkVjM0k1WmxGTlduSnRRVmhHZDFSaFpIWlNhMFpGZFVkak5WSkJValZSU0hjIiwiZmN2IjoiMyIsImVpIjoiSlF1amFzZmNJZXlSbmVzUHhhU1A2UVEiLCJxYyI6IkNnVjJhWE4wWVJBQWZWLTZLVDgiLCJxdWVzdGlvbiI6IldoYXQgZG9lcyBWaXN0YSBtZWFuPyIsImxrIjoiR2hSM2FHRjBJR1J2WlhNZ2RtbHpkR0VnYldWaGJnIiwiYnMiOiJjLVBTNXhJTnowZ3NVVWpKVHkxV0NNc3NMa2xVeUUxTnpMTTNFcE1TS1lkTGxNRWx1Snk1NU1FYU1vc1ZFdlB5U3pKU2l4VEs4NHRTRk5MeWl5RDY3WTBVcE9US2NTa0JtOFJseWlVQk13UmlKNUFOVktjUTVtaHZKQ2tsRHROZGhpeFhsc2hseVNYbENkTUJFaXBPekUxVlNBU0pwSmJiRzBsTFNjTDFJTXVXQVdVRkdBRSIsImlkIjoiZmNfSlF1amFzZmNJZXlSbmVzUHhhU1A2UVFfNCJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFRGQnVSV2hKZEU4emFHNXdiVXAxWDBkeWIwWndia0ZIVlZCdE1VNXVTMjR3VEVsMk1XdFRjMUk0TFcxQlVGTlVPVGxEVDBOR1lrRmljVkp2UTI5M1dsVnhTV05sUVRab016WmZhVUpyV2xKWGIyWk9NeTFrYnpWUlFSSVhTbEYxYW1GelptTkpaWGxTYm1WelVIaGhVMUEyVVZFYUlrRkVjM0k1WmxGTlduSnRRVmhHZDFSaFpIWlNhMFpGZFVkak5WSkJValZSU0hjIiwiZmN2IjoiMyIsImVpIjoiSlF1amFzZmNJZXlSbmVzUHhhU1A2UVEiLCJxYyI6IkNnVjJhWE4wWVJBQWZWLTZLVDgiLCJxdWVzdGlvbiI6IldoYXQgZG9lcyBWaXN0YSBtZWFuPyIsImxrIjoiR2hSM2FHRjBJR1J2WlhNZ2RtbHpkR0VnYldWaGJnIiwiYnMiOiJjLVBTNXhJTnowZ3NVVWpKVHkxV0NNc3NMa2xVeUUxTnpMTTNFcE1TS1lkTGxNRWx1Snk1NU1FYU1vc1ZFdlB5U3pKU2l4VEs4NHRTRk5MeWl5RDY3WTBVcE9US2NTa0JtOFJseWlVQk13UmlKNUFOVktjUTVtaHZKQ2tsRHROZGhpeFhsc2hseVNYbENkTUJFaXBPekUxVlNBU0pwSmJiRzBsTFNjTDFJTXVXQVdVRkdBRSIsImlkIjoiZmNfSlF1amFzZmNJZXlSbmVzUHhhU1A2UVFfNCJ9"
+  },
+  {
+   "question": "What is another word for Vista?",
+   "type": "ai_overview",
+   "page_token": "KRiGs3icHdBRboIwAADQ7DJ-aqnDBROzDLFgN-sotEB_llpEtFWIoFX_dpedaqdZsneE9_1j9if9-5TXfd9209HIWjvcNc3ObIeqOY5kdz-pkZLGbKTS08nLxHmt1GzRWX_eWD9mbcsDChImTtTx5txgy8I23uToEkPxLgN-JSHtMiMeDOB5rK1TpBrIMa5L4Ll87-gc4E-ZmiKF9VIF_oVFjUugF2zS0l3lpJKwtWVEYILMWQGvTyBfSo2X8UHfGMJplmN_m4vbBmJLGF98pPVZQkyLMVpw3a-T3AQ8QoIA0wnGKwZIWAZvCQItLbO2VlAckoy77Oga5fjPBScxMYiGe-zTiNzXmWDx2A_TqA4Kp8xY5k2YFuc0QFf6MKv4iO7ZoqeDSl1n48H_2OyrOvbT9tzs_gA4vXbd",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=KRiGs3icHdBRboIwAADQ7DJ-aqnDBROzDLFgN-sotEB_llpEtFWIoFX_dpedaqdZsneE9_1j9if9-5TXfd9209HIWjvcNc3ObIeqOY5kdz-pkZLGbKTS08nLxHmt1GzRWX_eWD9mbcsDChImTtTx5txgy8I23uToEkPxLgN-JSHtMiMeDOB5rK1TpBrIMa5L4Ll87-gc4E-ZmiKF9VIF_oVFjUugF2zS0l3lpJKwtWVEYILMWQGvTyBfSo2X8UHfGMJplmN_m4vbBmJLGF98pPVZQkyLMVpw3a-T3AQ8QoIA0wnGKwZIWAZvCQItLbO2VlAckoy77Oga5fjPBScxMYiGe-zTiNzXmWDx2A_TqA4Kp8xY5k2YFuc0QFf6MKv4iO7ZoqeDSl1n48H_2OyrOvbT9tzs_gA4vXbd",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFRGQnVSV2hKZEU4emFHNXdiVXAxWDBkeWIwWndia0ZIVlZCdE1VNXVTMjR3VEVsMk1XdFRjMUk0TFcxQlVGTlVPVGxEVDBOR1lrRmljVkp2UTI5M1dsVnhTV05sUVRab016WmZhVUpyV2xKWGIyWk9NeTFrYnpWUlFSSVhTbEYxYW1GelptTkpaWGxTYm1WelVIaGhVMUEyVVZFYUlrRkVjM0k1WmxGTlduSnRRVmhHZDFSaFpIWlNhMFpGZFVkak5WSkJValZSU0hjIiwiZmN2IjoiMyIsImVpIjoiSlF1amFzZmNJZXlSbmVzUHhhU1A2UVEiLCJxYyI6IkNnVjJhWE4wWVJBQWZWLTZLVDgiLCJxdWVzdGlvbiI6IldoYXQgaXMgYW5vdGhlciB3b3JkIGZvciBWaXN0YT8iLCJsayI6IkdoNTNhR0YwSUdseklHRnViM1JvWlhJZ2QyOXlaQ0JtYjNJZ2RtbHpkR0UiLCJicyI6ImMtUFM1eElOejBnc1VVakpUeTFXQ01zc0xrbFV5RTFOekxNM0VwTVNLWWRMbE1FbHVKeTU1TUVhTW9zVkV2UHlTekpTaXhUSzg0dFNGTkx5aXlENjdZMFVwT1RLY1NrQm04Umx5aVVCTXdSaUo1QU5WS2NRNW1odkpDa2xEdE5kaGl4WGxzaGx5U1hsQ2RNQkVpcE96RTFWU0FTSnBKYmJHMGxMU2NMMUlNdVdBV1VGR0FFIiwiaWQiOiJmY19KUXVqYXNmY0lleVJuZXNQeGFTUDZRUV80In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFRGQnVSV2hKZEU4emFHNXdiVXAxWDBkeWIwWndia0ZIVlZCdE1VNXVTMjR3VEVsMk1XdFRjMUk0TFcxQlVGTlVPVGxEVDBOR1lrRmljVkp2UTI5M1dsVnhTV05sUVRab016WmZhVUpyV2xKWGIyWk9NeTFrYnpWUlFSSVhTbEYxYW1GelptTkpaWGxTYm1WelVIaGhVMUEyVVZFYUlrRkVjM0k1WmxGTlduSnRRVmhHZDFSaFpIWlNhMFpGZFVkak5WSkJValZSU0hjIiwiZmN2IjoiMyIsImVpIjoiSlF1amFzZmNJZXlSbmVzUHhhU1A2UVEiLCJxYyI6IkNnVjJhWE4wWVJBQWZWLTZLVDgiLCJxdWVzdGlvbiI6IldoYXQgaXMgYW5vdGhlciB3b3JkIGZvciBWaXN0YT8iLCJsayI6IkdoNTNhR0YwSUdseklHRnViM1JvWlhJZ2QyOXlaQ0JtYjNJZ2RtbHpkR0UiLCJicyI6ImMtUFM1eElOejBnc1VVakpUeTFXQ01zc0xrbFV5RTFOekxNM0VwTVNLWWRMbE1FbHVKeTU1TUVhTW9zVkV2UHlTekpTaXhUSzg0dFNGTkx5aXlENjdZMFVwT1RLY1NrQm04Umx5aVVCTXdSaUo1QU5WS2NRNW1odkpDa2xEdE5kaGl4WGxzaGx5U1hsQ2RNQkVpcE96RTFWU0FTSnBKYmJHMGxMU2NMMUlNdVdBV1VGR0FFIiwiaWQiOiJmY19KUXVqYXNmY0lleVJuZXNQeGFTUDZRUV80In0%3D"
+  },
+  {
+   "question": "What is Vista at the VA?",
+   "type": "ai_overview",
+   "page_token": "VTkkG3icHdDdboIwGADQ7GW8FFuHGyZmCf4bB9LaD-RmaYsI8iHdRKve7V32VHuaJTuPcL5_sDxVv09J0bbmPHQca2330DQH3Hd1UzvyfD9pR0tEJXU1HLwMyFuuR9Oz9ceN9SNhDExYjxNz5jVhchtcwsnqJuakZSVZcoTonWSreOrBDrKxqrJTUL-2W_AqRotNdMysBqScZiKItVULTVRVEUV8lwm3VBOkWhDY4fImRebup7BWC2ETWoRbgFKid2HETFKCuazMXByLMAb0OQUBPTeNqJdzYFdVe59yxvLogbiO2wckgs96hmWxKTRNjzwGV9QuauI_7yCIApyxebny2SK4h3HK1RS34cK47LTCqEovUX1oE-JzSVPLRbvZJdjv5Po66nf-x0Yfed0OzVdz-ANudnkZ",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=VTkkG3icHdDdboIwGADQ7GW8FFuHGyZmCf4bB9LaD-RmaYsI8iHdRKve7V32VHuaJTuPcL5_sDxVv09J0bbmPHQca2330DQH3Hd1UzvyfD9pR0tEJXU1HLwMyFuuR9Oz9ceN9SNhDExYjxNz5jVhchtcwsnqJuakZSVZcoTonWSreOrBDrKxqrJTUL-2W_AqRotNdMysBqScZiKItVULTVRVEUV8lwm3VBOkWhDY4fImRebup7BWC2ETWoRbgFKid2HETFKCuazMXByLMAb0OQUBPTeNqJdzYFdVe59yxvLogbiO2wckgs96hmWxKTRNjzwGV9QuauI_7yCIApyxebny2SK4h3HK1RS34cK47LTCqEovUX1oE-JzSVPLRbvZJdjv5Po66nf-x0Yfed0OzVdz-ANudnkZ",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFRGQnVSV2hKZEU4emFHNXdiVXAxWDBkeWIwWndia0ZIVlZCdE1VNXVTMjR3VEVsMk1XdFRjMUk0TFcxQlVGTlVPVGxEVDBOR1lrRmljVkp2UTI5M1dsVnhTV05sUVRab016WmZhVUpyV2xKWGIyWk9NeTFrYnpWUlFSSVhTbEYxYW1GelptTkpaWGxTYm1WelVIaGhVMUEyVVZFYUlrRkVjM0k1WmxGTlduSnRRVmhHZDFSaFpIWlNhMFpGZFVkak5WSkJValZSU0hjIiwiZmN2IjoiMyIsImVpIjoiSlF1amFzZmNJZXlSbmVzUHhhU1A2UVEiLCJxYyI6IkNnVjJhWE4wWVJBQWZWLTZLVDgiLCJxdWVzdGlvbiI6IldoYXQgaXMgVmlzdGEgYXQgdGhlIFZBPyIsImxrIjoiR2hkM2FHRjBJR2x6SUhacGMzUmhJR0YwSUhSb1pTQjJZUSIsImJzIjoiYy1QUzV4SU56MGdzVVVqSlR5MVdDTXNzTGtsVXlFMU56TE0zRXBNU0tZZExsTUVsdUp5NTVNRWFNb3NWRXZQeVN6SlNpeFRLODR0U0ZOTHlpeUQ2N1kwVXBPVEtjU2tCbThSbHlpVUJNd1JpSjVBTlZLY1E1bWh2SkNrbER0TmRoaXhYbHNobHlTWGxDZE1CRWlwT3pFMVZTQVNKcEpiYkcwbExTY0wxSU11V0FXVUZHQUUiLCJpZCI6ImZjX0pRdWphc2ZjSWV5Um5lc1B4YVNQNlFRXzQifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFRGQnVSV2hKZEU4emFHNXdiVXAxWDBkeWIwWndia0ZIVlZCdE1VNXVTMjR3VEVsMk1XdFRjMUk0TFcxQlVGTlVPVGxEVDBOR1lrRmljVkp2UTI5M1dsVnhTV05sUVRab016WmZhVUpyV2xKWGIyWk9NeTFrYnpWUlFSSVhTbEYxYW1GelptTkpaWGxTYm1WelVIaGhVMUEyVVZFYUlrRkVjM0k1WmxGTlduSnRRVmhHZDFSaFpIWlNhMFpGZFVkak5WSkJValZSU0hjIiwiZmN2IjoiMyIsImVpIjoiSlF1amFzZmNJZXlSbmVzUHhhU1A2UVEiLCJxYyI6IkNnVjJhWE4wWVJBQWZWLTZLVDgiLCJxdWVzdGlvbiI6IldoYXQgaXMgVmlzdGEgYXQgdGhlIFZBPyIsImxrIjoiR2hkM2FHRjBJR2x6SUhacGMzUmhJR0YwSUhSb1pTQjJZUSIsImJzIjoiYy1QUzV4SU56MGdzVVVqSlR5MVdDTXNzTGtsVXlFMU56TE0zRXBNU0tZZExsTUVsdUp5NTVNRWFNb3NWRXZQeVN6SlNpeFRLODR0U0ZOTHlpeUQ2N1kwVXBPVEtjU2tCbThSbHlpVUJNd1JpSjVBTlZLY1E1bWh2SkNrbER0TmRoaXhYbHNobHlTWGxDZE1CRWlwT3pFMVZTQVNKcEpiYkcwbExTY0wxSU11V0FXVUZHQUUiLCJpZCI6ImZjX0pRdWphc2ZjSWV5Um5lc1B4YVNQNlFRXzQifQ%3D%3D"
+  },
+  {
+   "question": "Is Vista the same as View?",
+   "type": "ai_overview",
+   "page_token": "XATE6HicHdBRboIwAADQ7DJ-ChV108QsAwRDRpECLe3PAkWtUKRTYsG_3WWn2mm27ALv4319y_Ol-XnKRd-r29owtNbTU9ed5GHKu9YobuOFG7yQsix4s14-L8HrkW-2N207nbbjTCnsIjP1AlrNlI68NzNs5ma4zcAhYzj1ezcEIqhSRGIsncqHLsmE5pYaUY3vqGVO5oA5SVmMRxNEOdxxsgAFCHLmSQgvMEM7263MXlYt0ASLFnpKV1K66UwDjBlF7apmvrYS4t1Yw67YghGtBc1n6Apb8UgejFAgBPtTQvNloJgPZEsTz1SoIkrwGasTghdZu5Ac2HOKYQylh_xzYKMdHCPC0rAO7NyiQwxWn6Vb7UtXvrMmHtNc7SMyjCWQ1uTI7xtr8j-2-Ti2_Vpdu9Mvsd94Ow",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=XATE6HicHdBRboIwAADQ7DJ-ChV108QsAwRDRpECLe3PAkWtUKRTYsG_3WWn2mm27ALv4319y_Ol-XnKRd-r29owtNbTU9ed5GHKu9YobuOFG7yQsix4s14-L8HrkW-2N207nbbjTCnsIjP1AlrNlI68NzNs5ma4zcAhYzj1ezcEIqhSRGIsncqHLsmE5pYaUY3vqGVO5oA5SVmMRxNEOdxxsgAFCHLmSQgvMEM7263MXlYt0ASLFnpKV1K66UwDjBlF7apmvrYS4t1Yw67YghGtBc1n6Apb8UgejFAgBPtTQvNloJgPZEsTz1SoIkrwGasTghdZu5Ac2HOKYQylh_xzYKMdHCPC0rAO7NyiQwxWn6Vb7UtXvrMmHtNc7SMyjCWQ1uTI7xtr8j-2-Ti2_Vpdu9Mvsd94Ow",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFRGQnVSV2hKZEU4emFHNXdiVXAxWDBkeWIwWndia0ZIVlZCdE1VNXVTMjR3VEVsMk1XdFRjMUk0TFcxQlVGTlVPVGxEVDBOR1lrRmljVkp2UTI5M1dsVnhTV05sUVRab016WmZhVUpyV2xKWGIyWk9NeTFrYnpWUlFSSVhTbEYxYW1GelptTkpaWGxTYm1WelVIaGhVMUEyVVZFYUlrRkVjM0k1WmxGTlduSnRRVmhHZDFSaFpIWlNhMFpGZFVkak5WSkJValZSU0hjIiwiZmN2IjoiMyIsImVpIjoiSlF1amFzZmNJZXlSbmVzUHhhU1A2UVEiLCJxYyI6IkNnVjJhWE4wWVJBQWZWLTZLVDgiLCJxdWVzdGlvbiI6IklzIFZpc3RhIHRoZSBzYW1lIGFzIFZpZXc/IiwibGsiOiJHaGxwY3lCMmFYTjBZU0IwYUdVZ2MyRnRaU0JoY3lCMmFXVjMiLCJicyI6ImMtUFM1eElOejBnc1VVakpUeTFXQ01zc0xrbFV5RTFOekxNM0VwTVNLWWRMbE1FbHVKeTU1TUVhTW9zVkV2UHlTekpTaXhUSzg0dFNGTkx5aXlENjdZMFVwT1RLY1NrQm04Umx5aVVCTXdSaUo1QU5WS2NRNW1odkpDa2xEdE5kaGl4WGxzaGx5U1hsQ2RNQkVpcE96RTFWU0FTSnBKYmJHMGxMU2NMMUlNdVdBV1VGR0FFIiwiaWQiOiJmY19KUXVqYXNmY0lleVJuZXNQeGFTUDZRUV80In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFRGQnVSV2hKZEU4emFHNXdiVXAxWDBkeWIwWndia0ZIVlZCdE1VNXVTMjR3VEVsMk1XdFRjMUk0TFcxQlVGTlVPVGxEVDBOR1lrRmljVkp2UTI5M1dsVnhTV05sUVRab016WmZhVUpyV2xKWGIyWk9NeTFrYnpWUlFSSVhTbEYxYW1GelptTkpaWGxTYm1WelVIaGhVMUEyVVZFYUlrRkVjM0k1WmxGTlduSnRRVmhHZDFSaFpIWlNhMFpGZFVkak5WSkJValZSU0hjIiwiZmN2IjoiMyIsImVpIjoiSlF1amFzZmNJZXlSbmVzUHhhU1A2UVEiLCJxYyI6IkNnVjJhWE4wWVJBQWZWLTZLVDgiLCJxdWVzdGlvbiI6IklzIFZpc3RhIHRoZSBzYW1lIGFzIFZpZXc%2FIiwibGsiOiJHaGxwY3lCMmFYTjBZU0IwYUdVZ2MyRnRaU0JoY3lCMmFXVjMiLCJicyI6ImMtUFM1eElOejBnc1VVakpUeTFXQ01zc0xrbFV5RTFOekxNM0VwTVNLWWRMbE1FbHVKeTU1TUVhTW9zVkV2UHlTekpTaXhUSzg0dFNGTkx5aXlENjdZMFVwT1RLY1NrQm04Umx5aVVCTXdSaUo1QU5WS2NRNW1odkpDa2xEdE5kaGl4WGxzaGx5U1hsQ2RNQkVpcE96RTFWU0FTSnBKYmJHMGxMU2NMMUlNdVdBV1VGR0FFIiwiaWQiOiJmY19KUXVqYXNmY0lleVJuZXNQeGFTUDZRUV80In0%3D"
+  }
+ ],
+ "ai_overview": {
+  "text_blocks": [
+   {
+    "type": "paragraph",
+    "snippet": "Vista most commonly refers to a distant view or a wide panoramic landscape seen through an opening or from a high place.",
+    "snippet_highlighted_words": [
+     "a distant view or a wide panoramic landscape seen through an opening or from a high place"
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "Because the word is used in many different contexts, it can also refer to several famous places, programs, and products."
+   },
+   {
+    "type": "heading",
+    "snippet": "Common Meanings and Places"
+   },
+   {
+    "type": "list",
+    "list": [
+     {
+      "snippet": "Definition: A broad, sweeping view or a mental outlook on the future."
+     },
+     {
+      "snippet": "Vista, California: A medium-sized city in San Diego County, California, located about seven miles inland from the Pacific Ocean."
+     },
+     {
+      "snippet": "The Vista (Columbia, South Carolina): A popular arts, dining, and entertainment district in the heart of Columbia, South Carolina."
+     }
+    ]
+   },
+   {
+    "type": "heading",
+    "snippet": "Programs and Technology"
+   },
+   {
+    "type": "list",
+    "list": [
+     {
+      "snippet": "Windows Vista: A major release of the Microsoft Windows operating system that followed Windows XP in 2007."
+     },
+     {
+      "snippet": "AmeriCorps VISTA: A national service program in the United States designed to fight poverty through community-based volunteering."
+     },
+     {
+      "snippet": "VistA (Veterans Health Information Systems and Technology Architecture): The electronic health record system used by the U.S. Department of Veterans Affairs."
+     },
+     {
+      "snippet": "Vista Equity Partners: A major American investment firm that focuses on software, data, and technology-enabled businesses."
+     }
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "If you are looking for information on a specific Vista topic, tell me which one you mean so I can give you more details."
+   }
+  ],
+  "references": [
+   {
+    "link": "https://www.merriam-webster.com/dictionary/vista",
+    "source": "merriam-webster.com",
+    "index": 0
+   },
+   {
+    "link": "https://www.youtube.com/watch?v=JMZCET4idDc",
+    "source": "youtube.com",
+    "index": 1
+   },
+   {
+    "link": "https://www.vistacolumbia.com/",
+    "source": "vistacolumbia.com",
+    "index": 2
+   },
+   {
+    "link": "https://en.wikipedia.org/wiki/Vista,_California",
+    "source": "en.wikipedia.org",
+    "index": 3
+   },
+   {
+    "link": "https://www.vista.gov/residents/about-vista",
+    "source": "vista.gov",
+    "index": 4
+   },
+   {
+    "link": "https://en.wikipedia.org/wiki/Windows_Vista",
+    "source": "en.wikipedia.org",
+    "index": 5
+   },
+   {
+    "link": "https://en.wikipedia.org/wiki/VistA",
+    "source": "en.wikipedia.org",
+    "index": 6
+   },
+   {
+    "title": "VISTA Definition & Meaning - Merriam-Webster",
+    "link": "https://www.merriam-webster.com/dictionary/vista",
+    "snippet": "Did you know? Vista is generally used today for broad sweeping views of the kind you might see from a mountaintop. But the word originally meant an avenue-like",
+    "source": "Merriam-Webster",
+    "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.merriam-webster.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 7
+   },
+   {
+    "title": "Vista Meaning - Vistas Examples - Vista Definition - IELTS Vocabulary ...",
+    "link": "https://www.youtube.com/watch?v=JMZCET4idDc",
+    "snippet": "hi there students a vista countable noun very often we use this in the plural. vistas. okay a vista is a view yeah a beautiful view especially from a high place",
+    "source": "YouTube",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSf2CLR6_vBVwBXWe3IQvKOSFVvBzpceuFyy4s3k6Aix0tRaB98gHLEy3yb_bFkmUWIR_w996XLt8go_HyrRUODE3sNN1WbuTlzIK6EheA",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 8
+   },
+   {
+    "title": "The Vista",
+    "link": "https://www.vistacolumbia.com/",
+    "snippet": "Family Adventure. In the heart of Columbia, the Vista is adjacent to the South Carolina State House and the University of South Carolina, and our historic Gover...",
+    "source": "Columbia, the Vista",
+    "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT2Qjt7jkW5sZRs9KQxm4PLeTljrgRu85qpkjHkfar_A8mPeh-CmmaenxolfSZZZBrg_ZbEWTs4ibhECTo6yqwOPrrvsvbR4vNnY67deg4",
+    "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.vistacolumbia.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 9
+   },
+   {
+    "title": "Vista, California - Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Vista,_California",
+    "snippet": "Vista (/\u02c8v\u026ast\u0259/; Spanish for \\\"view\\\") is a city in San Diego County, California, United States. It is a medium-sized city within the San Diego-Carlsbad metropoli...",
+    "source": "Wikipedia",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9ofkxwthhEkYCqbYX2CIqDf6C7uQZAAY5fEoKB8a_POLb-x5CNdLbnPFDsbttxGsqt9fcQ5GbMXqWqJ3dqAsQ8QshsUw92Irn1QHEcUE",
+    "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 10
+   },
+   {
+    "title": "About Vista - City of Vista",
+    "link": "https://www.vista.gov/residents/about-vista",
+    "snippet": "The City of Vista is a Charter Law city and was incorporated on January 28, 1963. Located just seven miles inland from the Pacific Ocean in northern San Diego C...",
+    "source": "City of Vista (.gov)",
+    "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.vista.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 11
+   },
+   {
+    "title": "Windows Vista - Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Windows_Vista",
+    "snippet": "Windows Vista is a major release of the Windows NT operating system developed by Microsoft. It was the direct successor to Windows XP, released five years earli...",
+    "source": "Wikipedia",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqsOdJrxK7VYNPWK-XU70lilejEPvkFcEZaG5LJc5UGNzOPPH7Pkg1uFmCG5aIVQgDWD4-1FvYNVOuKLKD4BRozAcCyEW5c_0z855JseA",
+    "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 12
+   },
+   {
+    "title": "VistA - Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/VistA",
+    "snippet": "VistA modules and projects * Database backend. VistA was developed using the M or MUMPS integrated application database. The VA currently runs its Vis",
+    "source": "Wikipedia",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxpQH_aBYShtk3EXSWTGkvOrdI_JA2fegMyxAaixctUs5zGpHttaZDyGD0eE85QfszWg0VWhwIBWqksDwpvnm19OrBLvsZF-SrwrJZ7jc",
+    "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 13
+   }
+  ]
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Vista Higher Learning: Corporate Site",
+   "link": "https://vistahigherlearning.com/?srsltid=AfmBOopsrPxYfngJLMUWdJF8pLPsqdh-tWkbQOOhN9KaMGzppVv7ZY_Z",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmQEB6zswFdaDc20MlPFUaEJHOSjCvLn3PgZu_hzHsIK9f8i-drCO4IMPK39Clp4ZxiDQhhObjMDasuFN_lEFQTLb4hiZJ0Fb8GrSKu7X7bGHZe7p-g35atH2klMpl62HIcvCC_ScZVPhL07EBh-OhrUapLyTbmrF0IE6T-lKZkDhvBEVPB06wo4hoJJhrDW5hn3mKMM2f2Gagyk&ved=2ahUKEwiHg9fG5eSWAxXsSGcHHUXSI00QFnoECBwQAQ&uoh=1",
+   "displayed_link": "https://vistahigherlearning.com",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEzFDhXFDhXFDhXFDhXFDhXFDhXFDhXFDhXFDhXFDhXFDhXFDhXFDhXFDhXFDhXFDhXPqrzSAAAAEXRSTlMAAVC0gijc_13IphbvC26UOUaiB3AAAADCSURBVHgBYhgowMjIiClAFABUQxUGDsQwTGEy3P7TfvipHaAKmm1Z538rvLMnB0JMtj9XtikGmCPlVNZvaUrK-FG0LtGY5Vp_NodGhU8kF2oncOlyFNHqXFWRmE_-5W5rIqJYSuxPquGUH6aYopI3POBJYyrPNBg8hXwDfAnDPRQPNB_L0wXONa-enKBD3OomO2GEzJtK6wIQnN3csn3AgNl9qRgjaraIabojBdeaC0c6-stiR39ewqDWfr0DN3wuvgBoaQUodlednwAAAABJRU5ErkJggg.png",
+   "snippet": "Vista Higher Learning's singular focus is developing print and digital solutions that meet the needs of all language learners\u2014those learning a new language, ...",
+   "snippet_highlighted_words": [
+    "Vista Higher Learning"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Vista Higher Learning's singular focus is developing print and digital solutions that meet the needs of all language learners\u2014those learning a new language, ...",
+     "source_info_link": "https://vistahigherlearning.com/?srsltid=AfmBOopsrPxYfngJLMUWdJF8pLPsqdh-tWkbQOOhN9KaMGzppVv7ZY_Z",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEzFDhXFDhXFDhXFDhXFDhXFDhXFDhXFDhXFDhXFDhXFDhXFDhXFDhXFDhXFDhXFDhXPqrzSAAAAEXRSTlMAAVC0gijc_13IphbvC26UOUaiB3AAAADCSURBVHgBYhgowMjIiClAFABUQxUGDsQwTGEy3P7TfvipHaAKmm1Z538rvLMnB0JMtj9XtikGmCPlVNZvaUrK-FG0LtGY5Vp_NodGhU8kF2oncOlyFNHqXFWRmE_-5W5rIqJYSuxPquGUH6aYopI3POBJYyrPNBg8hXwDfAnDPRQPNB_L0wXONa-enKBD3OomO2GEzJtK6wIQnN3csn3AgNl9qRgjaraIabojBdeaC0c6-stiR39ewqDWfr0DN3wuvgBoaQUodlednwAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESmQEB6zswFdaDc20MlPFUaEJHOSjCvLn3PgZu_hzHsIK9f8i-drCO4IMPK39Clp4ZxiDQhhObjMDasuFN_lEFQTLb4hiZJ0Fb8GrSKu7X7bGHZe7p-g35atH2klMpl62HIcvCC_ScZVPhL07EBh-OhrUapLyTbmrF0IE6T-lKZkDhvBEVPB06wo4hoJJhrDW5hn3mKMM2f2Gagyk&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESmQEB6zswFdaDc20MlPFUaEJHOSjCvLn3PgZu_hzHsIK9f8i-drCO4IMPK39Clp4ZxiDQhhObjMDasuFN_lEFQTLb4hiZJ0Fb8GrSKu7X7bGHZe7p-g35atH2klMpl62HIcvCC_ScZVPhL07EBh-OhrUapLyTbmrF0IE6T-lKZkDhvBEVPB06wo4hoJJhrDW5hn3mKMM2f2Gagyk",
+   "source": "Vista Higher Learning",
+   "read_more_link": "https://vistahigherlearning.com/?srsltid=AfmBOopsrPxYfngJLMUWdJF8pLPsqdh-tWkbQOOhN9KaMGzppVv7ZY_Z#:~:text=Vista%20Higher%20Learning's%20singular%20focus,or%20perfecting%20their%20native%20language."
+  },
+  {
+   "position": 2,
+   "title": "VISTA Definition & Meaning",
+   "link": "https://www.merriam-webster.com/dictionary/vista",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaAHrOzAVAVSAe5jz2mzWSUqiBtoDT2v3ezfrBvMnzjYNLckuRdC05jzwF65SongMPoGqEfTzRYdUF2ZHlcSarwtIqRnWnOMsKQBURDq97494LkW4CpcT7rF2Lf5WMi6e77VBz10URzxO&ved=2ahUKEwiHg9fG5eSWAxXsSGcHHUXSI00QFnoECDEQAQ&uoh=1",
+   "displayed_link": "https://www.merriam-webster.com \u203a dictionary \u203a vista",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAolBMVEX____65-jqmpzcRUrWAADUAADcQUbpk5X77O3gYGTke37zxsf--vr0y8zmhYjfV1vwtrjso6XurrDrnqD54OHXBRT-9vfhZWn76uvjdXj4-vzn7PPx9Pjp9PreTlKdr8oAKYO2w9cAOYpXealFbaOvvtTX3-oARY773NvbOD4nWpkzYJwAHX-QpMO-ytt8lbvR2eZgf60PT5N-m8AAFHzZKjAX17AGAAABGUlEQVR4Aa3S1WKDMABA0VtGitY9UDdc1___tFk143E7SNzDP2hpb7oQetto8ZtpCdsxXdfsdPWeWkxfGDwMxJAXIzFWupkYr-2mKNzJo62ptrtmtbiaGTQMe9dwLlya9GtvowWSHxLpeXi-73tL49rdymG92cJ6t8XfHzhuTv55G4TXDuYQxRCfgVPENvE44Op8E1O8ND5l67MEzv4-X2-PIK6FLsU6y0sqr96f0jr34r0Ece8227LLiQvg9F5QlXx3e5tQviY_yTgFqKDO4DYhzZZZhuSUZRLwQQKacdsEaJrcttTSaOivlF1WTJ9Zfd1FdRnyoE1Mpd2lq16TwWtiiGLe041gCm6gTVat5tU02t9XMzTG_N0nS8QVm4bIwcgAAAAASUVORK5CYII.png",
+   "date": "8 days ago",
+   "snippet": "The meaning of VISTA is a distant view through or along an avenue or opening : prospect. Vista is generally used today for broad sweeping views ...",
+   "snippet_highlighted_words": [
+    "a distant view through or along an avenue or opening"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The meaning of VISTA is a distant view through or along an avenue or opening : prospect. Vista is generally used today for broad sweeping views ...",
+     "source_info_link": "https://www.merriam-webster.com/dictionary/vista",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAolBMVEX____65-jqmpzcRUrWAADUAADcQUbpk5X77O3gYGTke37zxsf--vr0y8zmhYjfV1vwtrjso6XurrDrnqD54OHXBRT-9vfhZWn76uvjdXj4-vzn7PPx9Pjp9PreTlKdr8oAKYO2w9cAOYpXealFbaOvvtTX3-oARY773NvbOD4nWpkzYJwAHX-QpMO-ytt8lbvR2eZgf60PT5N-m8AAFHzZKjAX17AGAAABGUlEQVR4Aa3S1WKDMABA0VtGitY9UDdc1___tFk143E7SNzDP2hpb7oQetto8ZtpCdsxXdfsdPWeWkxfGDwMxJAXIzFWupkYr-2mKNzJo62ptrtmtbiaGTQMe9dwLlya9GtvowWSHxLpeXi-73tL49rdymG92cJ6t8XfHzhuTv55G4TXDuYQxRCfgVPENvE44Op8E1O8ND5l67MEzv4-X2-PIK6FLsU6y0sqr96f0jr34r0Ece8227LLiQvg9F5QlXx3e5tQviY_yTgFqKDO4DYhzZZZhuSUZRLwQQKacdsEaJrcttTSaOivlF1WTJ9Zfd1FdRnyoE1Mpd2lq16TwWtiiGLe041gCm6gTVat5tU02t9XMzTG_N0nS8QVm4bIwcgAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESaAHrOzAVAVSAe5jz2mzWSUqiBtoDT2v3ezfrBvMnzjYNLckuRdC05jzwF65SongMPoGqEfTzRYdUF2ZHlcSarwtIqRnWnOMsKQBURDq97494LkW4CpcT7rF2Lf5WMi6e77VBz10URzxO&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESaAHrOzAVAVSAe5jz2mzWSUqiBtoDT2v3ezfrBvMnzjYNLckuRdC05jzwF65SongMPoGqEfTzRYdUF2ZHlcSarwtIqRnWnOMsKQBURDq97494LkW4CpcT7rF2Lf5WMi6e77VBz10URzxO",
+   "source": "Merriam-Webster"
+  },
+  {
+   "position": 3,
+   "title": "Windows Vista",
+   "link": "https://en.wikipedia.org/wiki/Windows_Vista",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVPIZWZdvJdUwfppDRHECuOcpcRUYCniQfkXAkA57-2uDMl5vHX_Yrnz9e_SzEMUcIIY5CU6MXJaBY72cDbI2a8G7kLav13ps8Rg8f5Zb99vUxoyQ4Znzus6QJrEvdZw&ved=2ahUKEwiHg9fG5eSWAxXsSGcHHUXSI00QFnoECC0QAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Windows_Vista",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+   "snippet": "Windows Vista is a major release of the Windows NT operating system developed by Microsoft. It was the direct successor to Windows XP, released five years ...",
+   "snippet_highlighted_words": [
+    "Windows Vista"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Windows Vista is a major release of the Windows NT operating system developed by Microsoft. It was the direct successor to Windows XP, released five years ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Windows_Vista",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYwHrOzAVPIZWZdvJdUwfppDRHECuOcpcRUYCniQfkXAkA57-2uDMl5vHX_Yrnz9e_SzEMUcIIY5CU6MXJaBY72cDbI2a8G7kLav13ps8Rg8f5Zb99vUxoyQ4Znzus6QJrEvdZw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYwHrOzAVPIZWZdvJdUwfppDRHECuOcpcRUYCniQfkXAkA57-2uDMl5vHX_Yrnz9e_SzEMUcIIY5CU6MXJaBY72cDbI2a8G7kLav13ps8Rg8f5Zb99vUxoyQ4Znzus6QJrEvdZw",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Windows_Vista#:~:text=Windows%20Vista%20is%20a%20major,successive%20releases%20of%20Microsoft%20Windows."
+  },
+  {
+   "position": 4,
+   "title": "City of Vista | Home",
+   "link": "https://www.vista.gov/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTgHrOzAVBsE7lurJBJDjOnBb34VqwK0I2Om7UqQsXUWfEkZDw4tnhcNg5_KH28dJInyB7rzx6MfKWSBAd4gvkshSo02jMIJSPYnuV5h80A&ved=2ahUKEwiHg9fG5eSWAxXsSGcHHUXSI00QFnoECC8QAQ&uoh=1",
+   "displayed_link": "https://www.vista.gov",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEzmrk3lrUvotVzsw3rnsVTrvW_nsVXmr1Hnsljmr1HotV7pumfnslgAlEblq0g0UrfIAAAADnRSTlMA0OgnBHUNj7teqDkYS4PsR_EAAAEkSURBVCiRbVNZssQgCBQRWYzl_W874JKXyRu-rHT1wpKUHlW80q-q2JSYWdv1hi41yGNWtvZFryrjUaBPjBYJmEjJYOT2xkSxRqKKPOT21cCy1jtzlUH7jRA0h2o3AApOH7CohRwzx5pNY_aoeFwvJwL6B5mRWB3UCZbqEmP4h8IhgGUbhU1pyVWhLYGx-nON3MNQkzMkVPO2Tl2WcaqW7AEOITJ_yFY_zPoY4O6D5Hh6wlPT0C1FTtp7wEMWlnrmaWahUzubgBHuJdpoqVgMdgldiNfepQ8ueg0zwPf2NU_rS36gHoDKcp4DP4I-0-7j4rrl87qD3hCxdXYo01l3OV1kgHVmoH83VvrXgfn9fQW4SG426__LbXHSpA3rG1rq75_hAz8YEQnEq3nrAAAAAElFTkSuQmCC.png",
+   "snippet": "*City - Popular Searches. News \u00b7 Events \u00b7 Permits & Forms \u00b7 Report It \u00b7 Current Topics \u00b7 Parks & Recreation \u00b7 Contact \u00b7 Location and Hours.",
+   "snippet_highlighted_words": [
+    "News"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "*City - Popular Searches. News \u00b7 Events \u00b7 Permits & Forms \u00b7 Report It \u00b7 Current Topics \u00b7 Parks & Recreation \u00b7 Contact \u00b7 Location and Hours.",
+     "source_info_link": "https://www.vista.gov/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEzmrk3lrUvotVzsw3rnsVTrvW_nsVXmr1Hnsljmr1HotV7pumfnslgAlEblq0g0UrfIAAAADnRSTlMA0OgnBHUNj7teqDkYS4PsR_EAAAEkSURBVCiRbVNZssQgCBQRWYzl_W874JKXyRu-rHT1wpKUHlW80q-q2JSYWdv1hi41yGNWtvZFryrjUaBPjBYJmEjJYOT2xkSxRqKKPOT21cCy1jtzlUH7jRA0h2o3AApOH7CohRwzx5pNY_aoeFwvJwL6B5mRWB3UCZbqEmP4h8IhgGUbhU1pyVWhLYGx-nON3MNQkzMkVPO2Tl2WcaqW7AEOITJ_yFY_zPoY4O6D5Hh6wlPT0C1FTtp7wEMWlnrmaWahUzubgBHuJdpoqVgMdgldiNfepQ8ueg0zwPf2NU_rS36gHoDKcp4DP4I-0-7j4rrl87qD3hCxdXYo01l3OV1kgHVmoH83VvrXgfn9fQW4SG426__LbXHSpA3rG1rq75_hAz8YEQnEq3nrAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESTgHrOzAVBsE7lurJBJDjOnBb34VqwK0I2Om7UqQsXUWfEkZDw4tnhcNg5_KH28dJInyB7rzx6MfKWSBAd4gvkshSo02jMIJSPYnuV5h80A&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESTgHrOzAVBsE7lurJBJDjOnBb34VqwK0I2Om7UqQsXUWfEkZDw4tnhcNg5_KH28dJInyB7rzx6MfKWSBAd4gvkshSo02jMIJSPYnuV5h80A",
+   "source": "City of Vista (.gov)",
+   "read_more_link": "https://www.vista.gov/#:~:text=Service%20Finder"
+  },
+  {
+   "position": 5,
+   "title": "Welcome to VISTA",
+   "link": "https://www.vsu.edu/techservices/vista.php",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYgHrOzAVYAR5Rn0fciJVUodKON6rCbVv5WQGW93W7TgjgE-0ewxAxUyVwQy8hm9joZk785QeXNF7ke7pgGXRdWPC9QhR9Wuft0TZXDceg-zSTEO5d-ZL8W1ejhDYaw1gC0s2&ved=2ahUKEwiHg9fG5eSWAxXsSGcHHUXSI00QFnoECDMQAQ&uoh=1",
+   "displayed_link": "https://www.vsu.edu \u203a techservices \u203a vista",
+   "favicon": "https://serpapi.com/searches/6aa30b143d87014ad3831e09/images/QKWa6tBbmAm02G-WfNa_xcHODt35efEg-WDt5Rt1oWs.png",
+   "snippet": "VISTA (VSU Identification System for Technology Access) is our new Identity Access Management (IAM) and Single Sign-On (SSO) solution.",
+   "snippet_highlighted_words": [
+    "VISTA"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "VISTA (VSU Identification System for Technology Access) is our new Identity Access Management (IAM) and Single Sign-On (SSO) solution.",
+     "source_info_link": "https://www.vsu.edu/techservices/vista.php",
+     "icon": "https://serpapi.com/searches/6aa30b143d87014ad3831e09/images/QKWa6tBbmAm02G-WfNa_xWVsArVb14A54UwEmui_ci7vPxc_dzrcY4tYQimjbnrW.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYgHrOzAVYAR5Rn0fciJVUodKON6rCbVv5WQGW93W7TgjgE-0ewxAxUyVwQy8hm9joZk785QeXNF7ke7pgGXRdWPC9QhR9Wuft0TZXDceg-zSTEO5d-ZL8W1ejhDYaw1gC0s2&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYgHrOzAVYAR5Rn0fciJVUodKON6rCbVv5WQGW93W7TgjgE-0ewxAxUyVwQy8hm9joZk785QeXNF7ke7pgGXRdWPC9QhR9Wuft0TZXDceg-zSTEO5d-ZL8W1ejhDYaw1gC0s2",
+   "source": "Virginia State University"
+  },
+  {
+   "position": 6,
+   "title": "Home - Vista Theater Hollywood",
+   "link": "https://www.vistatheaterhollywood.com/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXgHrOzAVidWZ3jUU67YmBEfaJDmRufI_hfa-Gcl3Ol5W_ZFANE07jp0x13w-IBoN7h_sHYYDzM9-kDtEfL9jU-ut_kMF4H4vUBb-dSihB0MAws9etsXKSqNUepYru1s&ved=2ahUKEwiHg9fG5eSWAxXsSGcHHUXSI00QFnoECC4QAQ&uoh=1",
+   "displayed_link": "https://www.vistatheaterhollywood.com",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAbFBMVEUAAAAEBgJ8tkKa4lFIayaDwEWt_Vup-FmS1k1Ocymj71ZGZyV_ukOm81eNzkpomjen9VhAXSKCvkWh7FWIx0h2rj43UB0zSxuj7lY7Vx9UfC1hjzQPFwhbhjCQ1E1zqD0eLBBtoTopPhYjNBMa891tAAAAy0lEQVR4AcXO0VLCMBBG4UgsWw9sXbotRqFa9P3f0QuMGxzv-e_OfLOZpHvtYZNzfqzVbWXbBz5tQXa19ooOgc8Gcqg1qusUOCsux0B0DNwoyEutSaFFisvrL1K0wVnB3moNSosnw3Uf6C0ehEKp1UOL5wzFlp96B7oU-zAHP18jU3RucHVAh4p-g2kRB7s-VuAWU2cO2q8pJY_LuslwlMuaxKkYtwJgPirwF9NJCoDi8dvY52BQcGgwtpuKKhS7pP_2tXTZJB_TvfYNbFoM5EWUfGoAAAAASUVORK5CYII.png",
+   "snippet": "Vista Theatre is a historic single-screen movie theater in Los Angeles, California, located in Los Feliz on the border with East Hollywood.",
+   "snippet_highlighted_words": [
+    "Vista Theatre"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Vista Theatre is a historic single-screen movie theater in Los Angeles, California, located in Los Feliz on the border with East Hollywood.",
+     "source_info_link": "https://www.vistatheaterhollywood.com/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAbFBMVEUAAAAEBgJ8tkKa4lFIayaDwEWt_Vup-FmS1k1Ocymj71ZGZyV_ukOm81eNzkpomjen9VhAXSKCvkWh7FWIx0h2rj43UB0zSxuj7lY7Vx9UfC1hjzQPFwhbhjCQ1E1zqD0eLBBtoTopPhYjNBMa891tAAAAy0lEQVR4AcXO0VLCMBBG4UgsWw9sXbotRqFa9P3f0QuMGxzv-e_OfLOZpHvtYZNzfqzVbWXbBz5tQXa19ooOgc8Gcqg1qusUOCsux0B0DNwoyEutSaFFisvrL1K0wVnB3moNSosnw3Uf6C0ehEKp1UOL5wzFlp96B7oU-zAHP18jU3RucHVAh4p-g2kRB7s-VuAWU2cO2q8pJY_LuslwlMuaxKkYtwJgPirwF9NJCoDi8dvY52BQcGgwtpuKKhS7pP_2tXTZJB_TvfYNbFoM5EWUfGoAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESXgHrOzAVidWZ3jUU67YmBEfaJDmRufI_hfa-Gcl3Ol5W_ZFANE07jp0x13w-IBoN7h_sHYYDzM9-kDtEfL9jU-ut_kMF4H4vUBb-dSihB0MAws9etsXKSqNUepYru1s&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESXgHrOzAVidWZ3jUU67YmBEfaJDmRufI_hfa-Gcl3Ol5W_ZFANE07jp0x13w-IBoN7h_sHYYDzM9-kDtEfL9jU-ut_kMF4H4vUBb-dSihB0MAws9etsXKSqNUepYru1s",
+   "source": "Vista Theater Hollywood"
+  },
+  {
+   "position": 7,
+   "title": "VISTA | definition in the Cambridge English Dictionary",
+   "link": "https://dictionary.cambridge.org/us/dictionary/english/vista",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHrOzAV2WOiZEmqfrH1lzQwbVWl57hyC2Lvnjojj8lFdkRfKhupqLKjVAdtmcNXyKN5lOomspmt2KtkahQb9Y3cAWebUdOtvrVSb8UZ3yI4d1bbnSjBAo9DI2VOe3nAXAzYcS4Xvljz7EopqQPOY5PZcgpm&ved=2ahUKEwiHg9fG5eSWAxXsSGcHHUXSI00QFnoECCwQAQ&uoh=1",
+   "displayed_link": "https://dictionary.cambridge.org \u203a dictionary \u203a vista",
+   "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkOBwgNCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kHDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3NTc3Nzc4NTc3Nzc3NzczNzgrNzcuNzc3Nys3ODUvNjc1NzUvN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAACAwEAAAAAAAAAAAAAAAAFBgIEBwH_xAAmEAACAQMDAwQDAAAAAAAAAAABAgMABBEFITESQVEGEyKRgYKh_8QAGQEAAgMBAAAAAAAAAAAAAAAAAQMCBAUA_8QAJhEAAgIBAwMDBQAAAAAAAAAAAAECAxEEIVFBYaEx0fAFEhNxwf_aAAwDAQACEQMRAD8AylRV9Chm0r0hqWo2plgmtVQWxuSJHcHoGM8RnfcVWf1CiNkq3nMd3sOjpbJpNdf6D9U02bTrj252RmKhsxkkYOfIHirOnvhqa1ZX6MRZB1y-2QPKmp4BkiooJHM1P0frVpcaIsUksEElhZM-GIjZ2TAAY5-anuOOKydTRqPzSajmOMrHPDNLT3QVcU5dt-ndcftegqerL-PVNVaWIIFWMRgxp0qcZ3A_P8rV0VVlenStSUuuDP1Fina3F7fOQCV3pzQrJ3TZBDf27s3SqyqWbHAzufqltbExxF9YfL27y1QHcZsI2Ix-wye-Tx4zUIt8Pz7Ba7rwD9fvYJLOJIZLaVuodTRWixtsNt-snHbGO322D36-fYhIWmfejk7BFOaCCy1HTUQZyXigzkVG5pTJn__Z.jpeg",
+   "snippet": "VISTA meaning: 1. a view, especially a beautiful view from a high position: 2. a possible future action or event\u2026. Learn more.",
+   "snippet_highlighted_words": [
+    "a view, especially a beautiful view from a high position"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "VISTA meaning: 1. a view, especially a beautiful view from a high position: 2. a possible future action or event\u2026. Learn more.",
+     "source_info_link": "https://dictionary.cambridge.org/us/dictionary/english/vista",
+     "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkOBwgNCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kHDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3NTc3Nzc4NTc3Nzc3NzczNzgrNzcuNzc3Nys3ODUvNjc1NzUvN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAACAwEAAAAAAAAAAAAAAAAFBgIEBwH_xAAmEAACAQMDAwQDAAAAAAAAAAABAgMABBEFITESQVEGEyKRgYKh_8QAGQEAAgMBAAAAAAAAAAAAAAAAAQMCBAUA_8QAJhEAAgIBAwMDBQAAAAAAAAAAAAECAxEEIVFBYaEx0fAFEhNxwf_aAAwDAQACEQMRAD8AylRV9Chm0r0hqWo2plgmtVQWxuSJHcHoGM8RnfcVWf1CiNkq3nMd3sOjpbJpNdf6D9U02bTrj252RmKhsxkkYOfIHirOnvhqa1ZX6MRZB1y-2QPKmp4BkiooJHM1P0frVpcaIsUksEElhZM-GIjZ2TAAY5-anuOOKydTRqPzSajmOMrHPDNLT3QVcU5dt-ndcftegqerL-PVNVaWIIFWMRgxp0qcZ3A_P8rV0VVlenStSUuuDP1Fina3F7fOQCV3pzQrJ3TZBDf27s3SqyqWbHAzufqltbExxF9YfL27y1QHcZsI2Ix-wye-Tx4zUIt8Pz7Ba7rwD9fvYJLOJIZLaVuodTRWixtsNt-snHbGO322D36-fYhIWmfejk7BFOaCCy1HTUQZyXigzkVG5pTJn__Z.jpeg"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdAHrOzAV2WOiZEmqfrH1lzQwbVWl57hyC2Lvnjojj8lFdkRfKhupqLKjVAdtmcNXyKN5lOomspmt2KtkahQb9Y3cAWebUdOtvrVSb8UZ3yI4d1bbnSjBAo9DI2VOe3nAXAzYcS4Xvljz7EopqQPOY5PZcgpm&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdAHrOzAV2WOiZEmqfrH1lzQwbVWl57hyC2Lvnjojj8lFdkRfKhupqLKjVAdtmcNXyKN5lOomspmt2KtkahQb9Y3cAWebUdOtvrVSb8UZ3yI4d1bbnSjBAo9DI2VOe3nAXAzYcS4Xvljz7EopqQPOY5PZcgpm",
+   "source": "Cambridge Dictionary"
+  },
+  {
+   "position": 8,
+   "title": "About VistA",
+   "link": "https://worldvista.org/about-vista/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWwHrOzAVw5P5kPce27i24OzTSAT8xp0r47zLDbXtfU64kkfMAYpCtTYEFfucAG6KzvvBC-W9hJFa6Mo9CFbvpyvg7-jw38vLhVRs_gKzJi_UzqXnHBl_ueTb89w&ved=2ahUKEwiHg9fG5eSWAxXsSGcHHUXSI00QFnoECDAQAQ&uoh=1",
+   "displayed_link": "https://worldvista.org \u203a about-vista",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAYFBMVEVHcEwbFxQoJSIoJCE1MzBLSUcwLSp2dXS1tLTg39_z8_L5-fk7OTZMSkicnJv____Pz86vr66joqG_vr1sa2k8Ojc0Mi9CQD5GREIoJCGTkpGHhoXs6-tdW1p9fHvIyMdauJVOAAAADnRSTlMAIWSXtMra______9Q_h7kEeUAAAHRSURBVHgBfVOHlsMwCMtq7ZhzyAJn9___8tBzbw912UCRIFB8QlnVze3W1FVZ_Ibq7nwbiELr3b364X6JHXHoh3Ec-sDUxZev_sYRT7OoGFTmiYNrPvvvnvuoaXkiaex5uH_yT9yZ-xPSuvH0HtF43nX5AtkP5qF56nPcrSJpSWLf-FrSyYDLSmM4rm0bNjl9t137No6SLgZChL_qGOeHBUwtjo9RcoaDuwoKCWZaLbEusBvFoh4Bnkxn6fgku12oQhHbCVSaLZzsyqLyYfVIrDBvdmpxktEOa_BVUbe9zhCxABHJTksGFdPat3XRhEG0fed42GkEhxx86RCa4kadyPiTQw8yHrpZwCgpsUFzBkNEMppUEACKrH63Xpo5c6SZXRJQQKS1PnOkvT0zh7Gui0KklWnxkVBH0r7Tg1GHtpMsgjLLi-e06AQOUYr2V3CIWUFTotWT5XbgWPdWUwTHugWxfxFGohrZxK3B7Gu_PQVL7yVFPCxDJMj04AjybMVIJqOn-D4wmqAekVkwHauOeWDyyDnNrXhv97Du7JvPQ7t2Vij8WXAcMbRfxn7Jj8OwEh8P9vfvi0NGJAZFU8g131dvxOr5P1YvL-_13_L-uf6vePo2T-yho50AAAAASUVORK5CYII.png",
+   "snippet": "VistA Electronic Health Record systems (EHR) are essential to improving health quality and managing health care delivery, whether in a large health system, ...",
+   "snippet_highlighted_words": [
+    "VistA Electronic Health Record systems (EHR"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "VistA Electronic Health Record systems (EHR) are essential to improving health quality and managing health care delivery, whether in a large health system, ...",
+     "source_info_link": "https://worldvista.org/about-vista/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAYFBMVEVHcEwbFxQoJSIoJCE1MzBLSUcwLSp2dXS1tLTg39_z8_L5-fk7OTZMSkicnJv____Pz86vr66joqG_vr1sa2k8Ojc0Mi9CQD5GREIoJCGTkpGHhoXs6-tdW1p9fHvIyMdauJVOAAAADnRSTlMAIWSXtMra______9Q_h7kEeUAAAHRSURBVHgBfVOHlsMwCMtq7ZhzyAJn9___8tBzbw912UCRIFB8QlnVze3W1FVZ_Ibq7nwbiELr3b364X6JHXHoh3Ec-sDUxZev_sYRT7OoGFTmiYNrPvvvnvuoaXkiaex5uH_yT9yZ-xPSuvH0HtF43nX5AtkP5qF56nPcrSJpSWLf-FrSyYDLSmM4rm0bNjl9t137No6SLgZChL_qGOeHBUwtjo9RcoaDuwoKCWZaLbEusBvFoh4Bnkxn6fgku12oQhHbCVSaLZzsyqLyYfVIrDBvdmpxktEOa_BVUbe9zhCxABHJTksGFdPat3XRhEG0fed42GkEhxx86RCa4kadyPiTQw8yHrpZwCgpsUFzBkNEMppUEACKrH63Xpo5c6SZXRJQQKS1PnOkvT0zh7Gui0KklWnxkVBH0r7Tg1GHtpMsgjLLi-e06AQOUYr2V3CIWUFTotWT5XbgWPdWUwTHugWxfxFGohrZxK3B7Gu_PQVL7yVFPCxDJMj04AjybMVIJqOn-D4wmqAekVkwHauOeWDyyDnNrXhv97Du7JvPQ7t2Vij8WXAcMbRfxn7Jj8OwEh8P9vfvi0NGJAZFU8g131dvxOr5P1YvL-_13_L-uf6vePo2T-yho50AAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESWwHrOzAVw5P5kPce27i24OzTSAT8xp0r47zLDbXtfU64kkfMAYpCtTYEFfucAG6KzvvBC-W9hJFa6Mo9CFbvpyvg7-jw38vLhVRs_gKzJi_UzqXnHBl_ueTb89w&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESWwHrOzAVw5P5kPce27i24OzTSAT8xp0r47zLDbXtfU64kkfMAYpCtTYEFfucAG6KzvvBC-W9hJFa6Mo9CFbvpyvg7-jw38vLhVRs_gKzJi_UzqXnHBl_ueTb89w",
+   "source": "WorldVistA"
+  },
+  {
+   "position": 9,
+   "title": "Vista",
+   "link": "https://www.linkedin.com/company/vista-entertainment-solutions",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHrOzAV--57w64qGOuHEQUI_76XN3OYh61eesXrXj484j3U-7KJcv17JHJUxO5wFNwKS_ArMFI8dL9W1_NyDjrs3btW7yCtRzOFBoEBuVvJU8InY2jlQN_UrO3n8xJypbZv_EWOyfICsRCABxtPEjpdYzXIlqw&ved=2ahUKEwiHg9fG5eSWAxXsSGcHHUXSI00QFnoECDIQAQ&uoh=1",
+   "displayed_link": "35.2K+ followers",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAm0lEQVR4AWP4__8_RRhMyLfs3sNQvOk_KRikB24ATNB2yhEQJtoQuAEwzVAAYtPVAMJe4Cjf8l-0bsd_RkIGQAGc_ej9t_-TDt_7_-vPXzD_6Yfv_-2nHSXWAAT49P33_z9__4HZl559JM2Aqm3XwXyXGcfA_H___pFmgFj9DjCfp3IrTIgkA5ADbbAbQA6mKDPp9x7YBTOAIgwAVba5DGceMlQAAAAASUVORK5CYII.png",
+   "snippet": "Vista designs and develops cinema management solutions for the international cinema exhibition industry. Our software is installed in cinemas in over 90 ...",
+   "snippet_highlighted_words": [
+    "Vista designs and develops cinema management solutions"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Vista designs and develops cinema management solutions for the international cinema exhibition industry. Our software is installed in cinemas in over 90 ...",
+     "source_info_link": "https://www.linkedin.com/company/vista-entertainment-solutions",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAm0lEQVR4AWP4__8_RRhMyLfs3sNQvOk_KRikB24ATNB2yhEQJtoQuAEwzVAAYtPVAMJe4Cjf8l-0bsd_RkIGQAGc_ej9t_-TDt_7_-vPXzD_6Yfv_-2nHSXWAAT49P33_z9__4HZl559JM2Aqm3XwXyXGcfA_H___pFmgFj9DjCfp3IrTIgkA5ADbbAbQA6mKDPp9x7YBTOAIgwAVba5DGceMlQAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdgHrOzAV--57w64qGOuHEQUI_76XN3OYh61eesXrXj484j3U-7KJcv17JHJUxO5wFNwKS_ArMFI8dL9W1_NyDjrs3btW7yCtRzOFBoEBuVvJU8InY2jlQN_UrO3n8xJypbZv_EWOyfICsRCABxtPEjpdYzXIlqw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdgHrOzAV--57w64qGOuHEQUI_76XN3OYh61eesXrXj484j3U-7KJcv17JHJUxO5wFNwKS_ArMFI8dL9W1_NyDjrs3btW7yCtRzOFBoEBuVvJU8InY2jlQN_UrO3n8xJypbZv_EWOyfICsRCABxtPEjpdYzXIlqw",
+   "source": "LinkedIn \u00b7 Vista",
+   "read_more_link": "https://www.linkedin.com/company/vista-entertainment-solutions#:~:text=Vista%20designs%20and%20develops%20cinema,cinemas%20in%20over%2090%20countries."
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Vista VHL",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt8OTb2d-2f_L_VzCIViQZiKmfEMA:1789070117557&q=Vista+VHL&sa=X&ved=2ahUKEwiHg9fG5eSWAxXsSGcHHUXSI00Q1QJ6BAhaEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Vista+VHL"
+  },
+  {
+   "block_position": 1,
+   "query": "Vista website",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt8OTb2d-2f_L_VzCIViQZiKmfEMA:1789070117557&q=Vista+website&sa=X&ved=2ahUKEwiHg9fG5eSWAxXsSGcHHUXSI00Q1QJ6BAhfEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Vista+website"
+  },
+  {
+   "block_position": 1,
+   "query": "Vista One Piece",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt8OTb2d-2f_L_VzCIViQZiKmfEMA:1789070117557&q=Vista+One+Piece&sa=X&ved=2ahUKEwiHg9fG5eSWAxXsSGcHHUXSI00Q1QJ6BAheEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Vista+One+Piece"
+  },
+  {
+   "block_position": 1,
+   "query": "VISTA VSU",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt8OTb2d-2f_L_VzCIViQZiKmfEMA:1789070117557&q=VISTA+VSU&sa=X&ved=2ahUKEwiHg9fG5eSWAxXsSGcHHUXSI00Q1QJ6BAhcEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=VISTA+VSU"
+  },
+  {
+   "block_position": 1,
+   "query": "La vista theater",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt8OTb2d-2f_L_VzCIViQZiKmfEMA:1789070117557&q=La+vista+theater&sa=X&ved=2ahUKEwiHg9fG5eSWAxXsSGcHHUXSI00Q1QJ6BAhYEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=La+vista+theater"
+  },
+  {
+   "block_position": 1,
+   "query": "Vista Clever",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt8OTb2d-2f_L_VzCIViQZiKmfEMA:1789070117557&q=Vista+Clever&sa=X&ved=2ahUKEwiHg9fG5eSWAxXsSGcHHUXSI00Q1QJ6BAhdEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Vista+Clever"
+  },
+  {
+   "block_position": 1,
+   "query": "Vista login",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt8OTb2d-2f_L_VzCIViQZiKmfEMA:1789070117557&q=Vista+login&sa=X&ved=2ahUKEwiHg9fG5eSWAxXsSGcHHUXSI00Q1QJ6BAhZEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Vista+login"
+  },
+  {
+   "block_position": 1,
+   "query": "Vista Higher learning",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt8OTb2d-2f_L_VzCIViQZiKmfEMA:1789070117557&q=Vista+Higher+learning&sa=X&ved=2ahUKEwiHg9fG5eSWAxXsSGcHHUXSI00Q1QJ6BAhbEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Vista+Higher+learning"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=vista&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt8OTb2d-2f_L_VzCIViQZiKmfEMA:1789070117557&ei=JQujasfcIeyRnesPxaSP6QQ&start=10&sa=N&sstk=AS6-VmKncbLCdHycgIdoOdrYo2Pk23dq-rVsiQ8HwnONHUdwa45BA46G72tcX64GRrFSzEFjCIUWgxZQPhpYTD53WApQODMMK9uBFw&ved=2ahUKEwiHg9fG5eSWAxXsSGcHHUXSI00Q8NMDegQIShAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=vista&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt8OTb2d-2f_L_VzCIViQZiKmfEMA:1789070117557&ei=JQujasfcIeyRnesPxaSP6QQ&start=10&sa=N&sstk=AS6-VmKncbLCdHycgIdoOdrYo2Pk23dq-rVsiQ8HwnONHUdwa45BA46G72tcX64GRrFSzEFjCIUWgxZQPhpYTD53WApQODMMK9uBFw&ved=2ahUKEwiHg9fG5eSWAxXsSGcHHUXSI00Q8tMDegQIShAE",
+   "3": "https://www.google.com/search?q=vista&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt8OTb2d-2f_L_VzCIViQZiKmfEMA:1789070117557&ei=JQujasfcIeyRnesPxaSP6QQ&start=20&sa=N&sstk=AS6-VmKncbLCdHycgIdoOdrYo2Pk23dq-rVsiQ8HwnONHUdwa45BA46G72tcX64GRrFSzEFjCIUWgxZQPhpYTD53WApQODMMK9uBFw&ved=2ahUKEwiHg9fG5eSWAxXsSGcHHUXSI00Q8tMDegQIShAG",
+   "4": "https://www.google.com/search?q=vista&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt8OTb2d-2f_L_VzCIViQZiKmfEMA:1789070117557&ei=JQujasfcIeyRnesPxaSP6QQ&start=30&sa=N&sstk=AS6-VmKncbLCdHycgIdoOdrYo2Pk23dq-rVsiQ8HwnONHUdwa45BA46G72tcX64GRrFSzEFjCIUWgxZQPhpYTD53WApQODMMK9uBFw&ved=2ahUKEwiHg9fG5eSWAxXsSGcHHUXSI00Q8tMDegQIShAI",
+   "5": "https://www.google.com/search?q=vista&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt8OTb2d-2f_L_VzCIViQZiKmfEMA:1789070117557&ei=JQujasfcIeyRnesPxaSP6QQ&start=40&sa=N&sstk=AS6-VmKncbLCdHycgIdoOdrYo2Pk23dq-rVsiQ8HwnONHUdwa45BA46G72tcX64GRrFSzEFjCIUWgxZQPhpYTD53WApQODMMK9uBFw&ved=2ahUKEwiHg9fG5eSWAxXsSGcHHUXSI00Q8tMDegQIShAK",
+   "6": "https://www.google.com/search?q=vista&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt8OTb2d-2f_L_VzCIViQZiKmfEMA:1789070117557&ei=JQujasfcIeyRnesPxaSP6QQ&start=50&sa=N&sstk=AS6-VmKncbLCdHycgIdoOdrYo2Pk23dq-rVsiQ8HwnONHUdwa45BA46G72tcX64GRrFSzEFjCIUWgxZQPhpYTD53WApQODMMK9uBFw&ved=2ahUKEwiHg9fG5eSWAxXsSGcHHUXSI00Q8tMDegQIShAM",
+   "7": "https://www.google.com/search?q=vista&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt8OTb2d-2f_L_VzCIViQZiKmfEMA:1789070117557&ei=JQujasfcIeyRnesPxaSP6QQ&start=60&sa=N&sstk=AS6-VmKncbLCdHycgIdoOdrYo2Pk23dq-rVsiQ8HwnONHUdwa45BA46G72tcX64GRrFSzEFjCIUWgxZQPhpYTD53WApQODMMK9uBFw&ved=2ahUKEwiHg9fG5eSWAxXsSGcHHUXSI00Q8tMDegQIShAO",
+   "8": "https://www.google.com/search?q=vista&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt8OTb2d-2f_L_VzCIViQZiKmfEMA:1789070117557&ei=JQujasfcIeyRnesPxaSP6QQ&start=70&sa=N&sstk=AS6-VmKncbLCdHycgIdoOdrYo2Pk23dq-rVsiQ8HwnONHUdwa45BA46G72tcX64GRrFSzEFjCIUWgxZQPhpYTD53WApQODMMK9uBFw&ved=2ahUKEwiHg9fG5eSWAxXsSGcHHUXSI00Q8tMDegQIShAQ",
+   "9": "https://www.google.com/search?q=vista&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt8OTb2d-2f_L_VzCIViQZiKmfEMA:1789070117557&ei=JQujasfcIeyRnesPxaSP6QQ&start=80&sa=N&sstk=AS6-VmKncbLCdHycgIdoOdrYo2Pk23dq-rVsiQ8HwnONHUdwa45BA46G72tcX64GRrFSzEFjCIUWgxZQPhpYTD53WApQODMMK9uBFw&ved=2ahUKEwiHg9fG5eSWAxXsSGcHHUXSI00Q8tMDegQIShAS",
+   "10": "https://www.google.com/search?q=vista&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnt8OTb2d-2f_L_VzCIViQZiKmfEMA:1789070117557&ei=JQujasfcIeyRnesPxaSP6QQ&start=90&sa=N&sstk=AS6-VmKncbLCdHycgIdoOdrYo2Pk23dq-rVsiQ8HwnONHUdwa45BA46G72tcX64GRrFSzEFjCIUWgxZQPhpYTD53WApQODMMK9uBFw&ved=2ahUKEwiHg9fG5eSWAxXsSGcHHUXSI00Q8tMDegQIShAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=vista&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=vista&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=vista&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=vista&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=vista&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=vista&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=vista&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=vista&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=vista&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=vista&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=vista&start=90"
+  }
+ }
+}

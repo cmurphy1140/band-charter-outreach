@@ -1,0 +1,460 @@
+{
+ "search_information": {
+  "query_displayed": "\"Dublin Jerome High School\" Ohio",
+  "total_results": 52800,
+  "time_taken_displayed": 0.41,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Dublin Jerome High School",
+  "type": "Public school in Dublin, Ohio",
+  "entity_type": "education, locations, local_nav",
+  "place_id": "ChIJA7AmK2_rOIgR96QI2L-WmdU",
+  "website": "https://jerome.dublinschools.net/",
+  "founded": "2004",
+  "colors": "Forest Green, Vegas Gold",
+  "colors_links": [
+   {
+    "text": "Forest Green",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuLfHBJFfFUKBdlTLuUkov4x_oOIQ:1789070821097&q=&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW679zObwwkn2Z82diTh9bIfwJKlE07x8THVdDS3D38pFQEDzGPoWnsztQIKD1p1Wn1JpQ8hGQzs7KiBOOi3hzPhQ1X4S8FjWvQQJ2Ra6H7KnnmmLnS4Lb7_4tCm6XYH1Vu1IP_EUj1gXZRDhWaH1lOgLO-hnmLUfw63pZenPL7QqCCeYeaX2uyFJ9xFy-JklAj5UCXmps%3D&sa=X&ved=2ahUKEwjBwZOW6OSWAxX1p5UCHfz5Gw4QmxN6BAhsEAI"
+   },
+   {
+    "text": "Vegas Gold",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuLfHBJFfFUKBdlTLuUkov4x_oOIQ:1789070821097&q=&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67w0O2Rs6r8QNVrP_IdpD3NAXwdHvRZqQglKsESNHGTPlPzUp19FWSvfnQMsDgM1ZjfHszrcVrUHTnSa73ndrsH6uydrJWFsNkgsBtcbO9fr-u_yFmjhU-Vd2bMfJmTx5t190I5K2eMCcrpeHVL4afSYCjd4FypivzwRGcyWiRvIUBa8yZJGJhTsGPMczD5WBVWyRMH0%3D&sa=X&ved=2ahUKEwjBwZOW6OSWAxX1p5UCHfz5Gw4QmxN6BAhsEAM"
+   }
+  ],
+  "school_types": "Secondary school, High school, State school, Co-education, Public school",
+  "school_types_links": [
+   {
+    "text": "Secondary school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuLfHBJFfFUKBdlTLuUkov4x_oOIQ:1789070821097&q=Secondary+school&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67-Rsa99rK7fwEET42kD4ZCjk-kwuBlXLYvTk1E00Fqrhwi85KZ1INmxqGZOr3jlJDcUD6ud1MLv8IJ0e6fEDPQWMqzMljtx1MKREnqXNq73iOAvoaGW0jT_LE0lz9VrPTKjN2Vmje5tnmNwqe1QJOXUMCDelZzNBSLXbyiQzU_EGSL2Z50OsOIx8L967_JT95TnRmFQ0aMD4I_2P6hR2NnX17CNFdsyesAD7D3QK7-HGlVPiyBEIYzqgok57fiWk4lXrWgI%3D&sa=X&ved=2ahUKEwjBwZOW6OSWAxX1p5UCHfz5Gw4QmxN6BAhuEAI"
+   },
+   {
+    "text": "High school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuLfHBJFfFUKBdlTLuUkov4x_oOIQ:1789070821097&q=High+school&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMppXfNh-OkLk_azmU0uk1AX8WDg6Aey6nZnfzhISz_BahG86fIXhZzQ_5i9gVo2jpkRefi2vb1cuIcbbWsQX1bg-7OrENYaerTHY7HdnuvRnhD633RgLsD29YxW_zBBx6jlb9zZfyvGVj8dk0dnOwe3PYZoa4K2dLuROpL9ttEGU9UsPHiiunLsDvcpSfqTJH9K5iOKpuC1FhQ27dlb1VRLh0PNcvz3X05Sf1j6acFL5-764HCXG9TOk1uyetb6mNeSlRZbo%3D&sa=X&ved=2ahUKEwjBwZOW6OSWAxX1p5UCHfz5Gw4QmxN6BAhuEAM"
+   },
+   {
+    "text": "State school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuLfHBJFfFUKBdlTLuUkov4x_oOIQ:1789070821097&q=State+school&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ybGtCxI0H8z2nV80srIO5hh43iJrpLL9zyTRHToodwNipZCD4kcN2wbzA3OqfyGettl42NpXglwsH4hnJQRSg4KBrFTowpZphOt0qedRcJ2AmJtGvvuWmo42pqapfrIsHrP4Z2RYcWperhMTx7zyHpguLIHyDM7pPsptCmHMZAUrtbbqTVP4yObuwPO1wzIGCCTScYjKS58PuXr1wvfi4U4WyxhQmrOhx0dt5ccSC3-Q_BrstUjfYsdwJSVozqS_5JGdpcU%3D&sa=X&ved=2ahUKEwjBwZOW6OSWAxX1p5UCHfz5Gw4QmxN6BAhuEAQ"
+   },
+   {
+    "text": "Co-education",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuLfHBJFfFUKBdlTLuUkov4x_oOIQ:1789070821097&q=Co-education&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yVP88BQLNV4l2hiBkjJJlLbAHHsKddt6Z47BP5wM9p4inb3uXILaErIcvp3VyV5WPvDCQxJUm7raxsjWbK8rFUrHgqjN5okwWatL1sYj6jnjYDceXZY6KpoE7KBGjr0p6W6JjtsHbGT0WLcr2T_OjbnYh6n80fgv2GvcBwxyxgeQ8CqRdM0FKhKU1HH6lWMakPQ3Unv80ZtmAq_RBxg9mKpuDvpefy77ACNxCYMZMrIKlwSqfGuMu6-cbeNhH6XnBYSucrw%3D&sa=X&ved=2ahUKEwjBwZOW6OSWAxX1p5UCHfz5Gw4QmxN6BAhuEAU"
+   },
+   {
+    "text": "Public school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuLfHBJFfFUKBdlTLuUkov4x_oOIQ:1789070821097&q=Public+school&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpnRjecyiHCyfvh60pbD8ck5PRN1YHP_sJ4SP5ZvhFW1SCqcU73cy8ciuVYm7MIcM9JKjoj5TcP9yh14TUTaTMZ3No418INxdY9bFHeSRgFp7T3NYq4WQ_gK1G0L-XXc09js_h-FGtKOvSN4w9uKDYDZm0Nl0QWKVqjg8eVPwJ3Fhskx0X2uKADSU9UApkFIsbRIIGtapK4oEMFGNqAtGj8QhVo7-dLSPzRZASdFCq6R_fVsEgh732U3SXr85hOa4cDvb6FU%3D&sa=X&ved=2ahUKEwjBwZOW6OSWAxX1p5UCHfz5Gw4QmxN6BAhuEAY"
+   }
+  ],
+  "lowest_grade": "Ninth Grade",
+  "lowest_grade_links": [
+   {
+    "text": "Ninth Grade",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuLfHBJFfFUKBdlTLuUkov4x_oOIQ:1789070821097&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yfBd4DHd1lXSWNB4bGgo3oUJ-a20DdpJyxra-_-8AjAZ0yuws4sRZiOY8cqMEtu8USvp92CaAweuyr4S7gqHLUwq5PyAOMr04aZgF3eCfZTNw0feK3OsGmTg9LZxlVfgamPW--E%3D&sa=X&ved=2ahUKEwjBwZOW6OSWAxX1p5UCHfz5Gw4QmxN6BAhoEAI"
+   }
+  ],
+  "district": "Dublin City School District",
+  "district_links": [
+   {
+    "text": "Dublin City School District",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuLfHBJFfFUKBdlTLuUkov4x_oOIQ:1789070821097&q=Dublin+City+School+District&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ySNDyOGbe-KFnR1ydxoP3w-UgydXUOhMcpIiBpL7YIvoRFLRFpPYDhOVS41WhABxbEjyprkoc9r1dPca1JBKZLgCYqdpd6fJYGdqLVt7tq-29OWcQlz4V7iilcQFHjQv1qKyWNmxsOeSne34_XwQUCsMiOjf3F5damiytm1FwY-3nkZPdg%3D%3D&sa=X&ved=2ahUKEwjBwZOW6OSWAxX1p5UCHfz5Gw4QmxN6BAhqEAI"
+   }
+  ],
+  "mascot": "the Celtic Warrior dublinschools.net",
+  "mascot_links": [
+   {
+    "text": "dublinschools.net",
+    "link": "https://jerome.dublinschools.net/about"
+   }
+  ],
+  "accreditation": "North Central Association of Colleges and Schools",
+  "accreditation_links": [
+   {
+    "text": "North Central Association of Colleges and Schools",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuLfHBJFfFUKBdlTLuUkov4x_oOIQ:1789070821097&q=North+Central+Association+of+Colleges+and+Schools&stick=H4sIAAAAAAAAAONgVuLUz9U3MMvOMTZYxGrol19UkqHgnJpXUpSYo-BYXJyfnJlYkpmfp5CfpuCcn5OTmp5arJCYl6IQnJyRn59TDADPkhrAQQAAAA&sa=X&ved=2ahUKEwjBwZOW6OSWAxX1p5UCHfz5Gw4QmxN6BAhpEAI"
+   }
+  ],
+  "athletics_conference": "Ohio Capital Conference",
+  "athletics_conference_links": [
+   {
+    "text": "Ohio Capital",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuLfHBJFfFUKBdlTLuUkov4x_oOIQ:1789070821097&q=Ohio+Capital&stick=H4sIAAAAAAAAAONgVuLQz9U3MCzOzV3EyuOfkZmv4JxYkFmSmAMAX8ynQBsAAAA&sa=X&ved=2ahUKEwjBwZOW6OSWAxX1p5UCHfz5Gw4QmxN6BAhiEAI"
+   }
+  ],
+  "principal": "Mike Aurin",
+  "principal_links": [
+   {
+    "text": "Mike Aurin",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuLfHBJFfFUKBdlTLuUkov4x_oOIQ:1789070821097&q=Mike+Aurin&stick=H4sIAAAAAAAAAONgVuLVT9c3NEwzqMorzCm2XMTK5ZuZnargWFqUmQcADGB4Wx4AAAA&sa=X&ved=2ahUKEwjBwZOW6OSWAxX1p5UCHfz5Gw4QmxN6BAhtEAI"
+   }
+  ],
+  "student_to_teacher_ratio": "21.70",
+  "profiles": [
+   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/dublinschools/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Dublin+Jerome+High+School%22+Ohio",
+    "image": "https://serpapi.com/searches/6aa30de173d22457d0a0552c/images/1Eua2z2WMC5b3kRZXkHtzIp2lgHWZuiSc6w8L6rDtQeHrOK9dMEoHqff2w6Kb0EI.png"
+   },
+   {
+    "name": "YouTube",
+    "link": "https://www.youtube.com/channel/UCovUee6HDqxSQpbAJWlHZAg",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Dublin+Jerome+High+School%22+Ohio",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAP1BMVEX_____z8__n5__kJD_gID_cHD_YGD_v7__39__ICD_AAD_r6__EBD_7-__oKD_MDD_QED_UFD_X1__j4__f396G04EAAAAhklEQVR4AeXQRQLDQAwDQC3bajj5_1dLYb63czYKf8VY50OcBO9swkyUB_SBkfJQlqOXeKJAz_FEQM9zVCqXInqRIy-RC9W-AJDypgCwyoGiV68LkLJFwX6CVJcr8nBwZJgLXMaDAs9RxsMcLE949IQnEnpoeKjEpC25o12OpVwkTURy_JQX1r4RC2S7kZYAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "X (Twitter)",
+    "link": "https://twitter.com/dublinjeromehs",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Dublin+Jerome+High+School%22+Ohio",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAABhUlEQVR4AczOA6xcARCF4X_us23btuLUQR3WZlhbQW3bto2gtm3b2J3GN4tY74uHh3okOi42Nj4AAUDwTvDEhisABCOAEAzYTBh0bN-lc5d0QgAhHPqX4Y4pkd367Zc-xMcXCPDg8TPwxeQH724Uj9N95GJ4pnHxby1xgCmV3v-GsFb7k0Iee7UjaQgmIYe9v9O4-wUKWaATyMPAViwvr1NnOQWDdTV5CHYSaKWLmaGDyvU4mTgQcllracaFr-9uk-yLM8k8fAJff0IUTghRVFu3M1ynkYk4nchiqqU3Ry05RDibMMhjtj6Ht3dJxVk_l1G64cspOusychBsCWm01WNM0jFs0sbEYUtIIuTXNco588OLh09JxE6wweuXEAvfL9PQus3-iU80N34KCaQyUOcxTTuSjEmMRI5rS9JwIZfD1t7ceo34YIpnuQ4nGwP8XXlq_fJZd9jE8KBHC5IwAELJ7dWrZ6fOuNhkgFgAEEIAwA1MQkw0AgDC_wnKycrKSQ2iPAkAVyNzq8rxicIAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/DublinSchools",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Dublin+Jerome+High+School%22+Ohio",
+    "image": "https://serpapi.com/searches/6aa30de173d22457d0a0552c/images/1Eua2z2WMC5b3kRZXkHtzA8PNiAOaDHjVNTB_MYow8ZUbysQKPqGiQ3EKqxGlq18.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "Who are some famous alumni of Dublin Jerome High School?",
+   "type": "ai_overview",
+   "page_token": "BHOiAHicHdBRToMwGADgeJk9uhbmzJYsxm4UxFCk0L_Ci4Gyja2F4YaD7c0beAhP5Wk0nuBLvs9vs2v0z81X1XXtaT4e931_uz0ctmZ9qw71OD9dGjVWuTFFrvR8ej_FDxu1cM4pWR4ViUTbwoqjeF9FybW0UmRANG0lJNfg9gNQiiI00NRqr5kXXGIosayxzzVruE1R4cDHep9eAWbPjGpbYGIzyVbBnpxkDcesKbFAHcq9J8Q066THdOhFdwX1n5SGOAHzLj3fKiz8waxhqmjQBwDLUKBL7OIXLukpQIEtHDwRlAchpW6OoCr2hKWGWllihkSzzVrjRuk7EBpewDJOanUdc6HOKRO58Je87uxST-xQ6N6pUiwS_z2VM48hv5b0cVCYRq-YRGXNiLvzCffYJZRZnAj6Kkw2KUy2VCs-KREzSlbH4s_JYJYkNiejjTov7NH_9OJtU3fz9njY_gJoZoju",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=BHOiAHicHdBRToMwGADgeJk9uhbmzJYsxm4UxFCk0L_Ci4Gyja2F4YaD7c0beAhP5Wk0nuBLvs9vs2v0z81X1XXtaT4e931_uz0ctmZ9qw71OD9dGjVWuTFFrvR8ej_FDxu1cM4pWR4ViUTbwoqjeF9FybW0UmRANG0lJNfg9gNQiiI00NRqr5kXXGIosayxzzVruE1R4cDHep9eAWbPjGpbYGIzyVbBnpxkDcesKbFAHcq9J8Q066THdOhFdwX1n5SGOAHzLj3fKiz8waxhqmjQBwDLUKBL7OIXLukpQIEtHDwRlAchpW6OoCr2hKWGWllihkSzzVrjRuk7EBpewDJOanUdc6HOKRO58Je87uxST-xQ6N6pUiwS_z2VM48hv5b0cVCYRq-YRGXNiLvzCffYJZRZnAj6Kkw2KUy2VCs-KREzSlbH4s_JYJYkNiejjTov7NH_9OJtU3fz9njY_gJoZoju",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmJ6Rm9NVTVVZVhaM2JGVlhYMEpETW5WWWFpMWhlazh4UXpkVVlWZFRkMTlOTUhSNFF6VjVUVmR1Vm1aWU1YbFllVWgyZFRKNFNHbEVlVk41Y0hBeloyOWtiRlZ1WWt4UU9TMHdOelZaUkRRd2QzcERaVW96WWs5cmR4SVdOVkV5YW1GdlJ6ZENabGhRTVhOUlVGOVFVSFpqUVJvaVFVUnpjamxtVkZGcWRHZEpObk0yT0RWSFlWZDNZbkpwYWpZME5WcFhTblF0VVEiLCJmY3YiOiIzIiwiZWkiOiI1UTJqYW9HN0JmWFAxc1FQX1BQdmNBIiwicWMiOiJDaDVrZFdKc2FXNGdhbVZ5YjIxbElHaHBaMmdnYzJOb2IyOXNJRzlvYVc4UUFIMm5TQzRfIiwicXVlc3Rpb24iOiJXaG8gYXJlIHNvbWUgZmFtb3VzIGFsdW1uaSBvZiBEdWJsaW4gSmVyb21lIEhpZ2ggU2Nob29sPyIsImxrIjoiR2lka2RXSnNhVzRnYW1WeWIyMWxJR2hwWjJnZ2MyTm9iMjlzSUdaaGJXOTFjeUJoYkhWdGJtayIsImJzIjoiYzMyTklSZUNNQlJHajNYSnZQUWFSN0U0RFRhS0FTMEdBOEUwWWJDbmJPOGN0aDJQXzE0UWc0U1I3XzN1eHhRN0ZKcEFkZ29jR1FXMU5CUWN5RFlZaTBBMUhNTzlSUXRuMVEwNHgwYkR0ZFJFYlNaV1BLbEctaGlwSHFqNzBtbUlJUk01dmNCSS13Ym5RNldzZDlBUWVKbzcyUEd0anF5aXgtekcwcE9MVjBIMkJhcC1kaVkyZkkwdW5wdnFyR1Q3UWtzUE9QT1FPT2lrZmFKdG9PY1hqWlNKbEtfaUYzODI5Zlp5OFFFIiwiaWQiOiJmY181UTJqYW9HN0JmWFAxc1FQX1BQdmNBXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmJ6Rm9NVTVVZVhaM2JGVlhYMEpETW5WWWFpMWhlazh4UXpkVVlWZFRkMTlOTUhSNFF6VjVUVmR1Vm1aWU1YbFllVWgyZFRKNFNHbEVlVk41Y0hBeloyOWtiRlZ1WWt4UU9TMHdOelZaUkRRd2QzcERaVW96WWs5cmR4SVdOVkV5YW1GdlJ6ZENabGhRTVhOUlVGOVFVSFpqUVJvaVFVUnpjamxtVkZGcWRHZEpObk0yT0RWSFlWZDNZbkpwYWpZME5WcFhTblF0VVEiLCJmY3YiOiIzIiwiZWkiOiI1UTJqYW9HN0JmWFAxc1FQX1BQdmNBIiwicWMiOiJDaDVrZFdKc2FXNGdhbVZ5YjIxbElHaHBaMmdnYzJOb2IyOXNJRzlvYVc4UUFIMm5TQzRfIiwicXVlc3Rpb24iOiJXaG8gYXJlIHNvbWUgZmFtb3VzIGFsdW1uaSBvZiBEdWJsaW4gSmVyb21lIEhpZ2ggU2Nob29sPyIsImxrIjoiR2lka2RXSnNhVzRnYW1WeWIyMWxJR2hwWjJnZ2MyTm9iMjlzSUdaaGJXOTFjeUJoYkhWdGJtayIsImJzIjoiYzMyTklSZUNNQlJHajNYSnZQUWFSN0U0RFRhS0FTMEdBOEUwWWJDbmJPOGN0aDJQXzE0UWc0U1I3XzN1eHhRN0ZKcEFkZ29jR1FXMU5CUWN5RFlZaTBBMUhNTzlSUXRuMVEwNHgwYkR0ZFJFYlNaV1BLbEctaGlwSHFqNzBtbUlJUk01dmNCSS13Ym5RNldzZDlBUWVKbzcyUEd0anF5aXgtekcwcE9MVjBIMkJhcC1kaVkyZkkwdW5wdnFyR1Q3UWtzUE9QT1FPT2lrZmFKdG9PY1hqWlNKbEtfaUYzODI5Zlp5OFFFIiwiaWQiOiJmY181UTJqYW9HN0JmWFAxc1FQX1BQdmNBXzUifQ%3D%3D"
+  },
+  {
+   "question": "How many students go to Dublin Jerome High School?",
+   "type": "ai_overview",
+   "page_token": "AAxNU3icHdBfbpswHABg9TJ9bHCATo0UVXP4V1ocYfjZhZfJ2AkktoEmKAl56w12iJ1qp5m07wjf9x9z6PXfh9_dNI3n1WJxvV6f2mFoze5JDnYhznMvF1IY0wipV88_ntHrXq7DS4U3J4lzGEcWUKcoWbADFW3BVBCoA7Njnxma8bIWOTJLcdReE6dZ3qczsdM5LxmHz2ouEX5vbI0p0EREqiCIWhXom3BNz0N2rdiYKz6dqwP6YugN7YBYBeDnTuuKqLoTPnXAs5mb1FHx6IgEMxn6R7HUS7L0fBUwXjjIy21EBffjJpCe4lFXWMrJBuEtb13g_gfVpidBimtTx9tkvOwgnATr3EIrWh9NlGmEMhcTMIMXdhWCMv2q-EtCnNTy6OdNoij_RDhXluD4kGKakHnLa2g26FL2dUhZ9Faa-gR26kGrO9zr20fZvZfA8ONeXtbu4__p9a-9nVbjaWj_AcKRiuY",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=AAxNU3icHdBfbpswHABg9TJ9bHCATo0UVXP4V1ocYfjZhZfJ2AkktoEmKAl56w12iJ1qp5m07wjf9x9z6PXfh9_dNI3n1WJxvV6f2mFoze5JDnYhznMvF1IY0wipV88_ntHrXq7DS4U3J4lzGEcWUKcoWbADFW3BVBCoA7Njnxma8bIWOTJLcdReE6dZ3qczsdM5LxmHz2ouEX5vbI0p0EREqiCIWhXom3BNz0N2rdiYKz6dqwP6YugN7YBYBeDnTuuKqLoTPnXAs5mb1FHx6IgEMxn6R7HUS7L0fBUwXjjIy21EBffjJpCe4lFXWMrJBuEtb13g_gfVpidBimtTx9tkvOwgnATr3EIrWh9NlGmEMhcTMIMXdhWCMv2q-EtCnNTy6OdNoij_RDhXluD4kGKakHnLa2g26FL2dUhZ9Faa-gR26kGrO9zr20fZvZfA8ONeXtbu4__p9a-9nVbjaWj_AcKRiuY",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmJ6Rm9NVTVVZVhaM2JGVlhYMEpETW5WWWFpMWhlazh4UXpkVVlWZFRkMTlOTUhSNFF6VjVUVmR1Vm1aWU1YbFllVWgyZFRKNFNHbEVlVk41Y0hBeloyOWtiRlZ1WWt4UU9TMHdOelZaUkRRd2QzcERaVW96WWs5cmR4SVdOVkV5YW1GdlJ6ZENabGhRTVhOUlVGOVFVSFpqUVJvaVFVUnpjamxtVkZGcWRHZEpObk0yT0RWSFlWZDNZbkpwYWpZME5WcFhTblF0VVEiLCJmY3YiOiIzIiwiZWkiOiI1UTJqYW9HN0JmWFAxc1FQX1BQdmNBIiwicWMiOiJDaDVrZFdKc2FXNGdhbVZ5YjIxbElHaHBaMmdnYzJOb2IyOXNJRzlvYVc4UUFIMm5TQzRfIiwicXVlc3Rpb24iOiJIb3cgbWFueSBzdHVkZW50cyBnbyB0byBEdWJsaW4gSmVyb21lIEhpZ2ggU2Nob29sPyIsImxrIjoiR2pGb2IzY2diV0Z1ZVNCemRIVmtaVzUwY3lCbmJ5QjBieUJrZFdKc2FXNGdhbVZ5YjIxbElHaHBaMmdnYzJOb2IyOXMiLCJicyI6ImMzMk5JUmVDTUJSR2ozWEp2UFFhUjdFNERUYUtBUzBHQThFMFliQ25iTzhjdGgyUF8xNFFnNFNSN18zdXh4UTdGSnBBZGdvY0dRVzFOQlFjeURZWWkwQTFITU85UlF0bjFRMDR4MGJEdGRSRWJTWldQS2xHLWhpcEhxajcwbW1JSVJNNXZjQkktd2JuUTZXc2Q5QVFlSm83MlBHdGpxeWl4LXpHMHBPTFYwSDJCYXAtZGlZMmZJMHVucHZxckdUN1Frc1BPUE9RT09pa2ZhSnRvT2NYalpTSmxLX2lGMzgyOWZaeThRRSIsImlkIjoiZmNfNVEyamFvRzdCZlhQMXNRUF9QUHZjQV81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmJ6Rm9NVTVVZVhaM2JGVlhYMEpETW5WWWFpMWhlazh4UXpkVVlWZFRkMTlOTUhSNFF6VjVUVmR1Vm1aWU1YbFllVWgyZFRKNFNHbEVlVk41Y0hBeloyOWtiRlZ1WWt4UU9TMHdOelZaUkRRd2QzcERaVW96WWs5cmR4SVdOVkV5YW1GdlJ6ZENabGhRTVhOUlVGOVFVSFpqUVJvaVFVUnpjamxtVkZGcWRHZEpObk0yT0RWSFlWZDNZbkpwYWpZME5WcFhTblF0VVEiLCJmY3YiOiIzIiwiZWkiOiI1UTJqYW9HN0JmWFAxc1FQX1BQdmNBIiwicWMiOiJDaDVrZFdKc2FXNGdhbVZ5YjIxbElHaHBaMmdnYzJOb2IyOXNJRzlvYVc4UUFIMm5TQzRfIiwicXVlc3Rpb24iOiJIb3cgbWFueSBzdHVkZW50cyBnbyB0byBEdWJsaW4gSmVyb21lIEhpZ2ggU2Nob29sPyIsImxrIjoiR2pGb2IzY2diV0Z1ZVNCemRIVmtaVzUwY3lCbmJ5QjBieUJrZFdKc2FXNGdhbVZ5YjIxbElHaHBaMmdnYzJOb2IyOXMiLCJicyI6ImMzMk5JUmVDTUJSR2ozWEp2UFFhUjdFNERUYUtBUzBHQThFMFliQ25iTzhjdGgyUF8xNFFnNFNSN18zdXh4UTdGSnBBZGdvY0dRVzFOQlFjeURZWWkwQTFITU85UlF0bjFRMDR4MGJEdGRSRWJTWldQS2xHLWhpcEhxajcwbW1JSVJNNXZjQkktd2JuUTZXc2Q5QVFlSm83MlBHdGpxeWl4LXpHMHBPTFYwSDJCYXAtZGlZMmZJMHVucHZxckdUN1Frc1BPUE9RT09pa2ZhSnRvT2NYalpTSmxLX2lGMzgyOWZaeThRRSIsImlkIjoiZmNfNVEyamFvRzdCZlhQMXNRUF9QUHZjQV81In0%3D"
+  },
+  {
+   "question": "Is Dublin Jerome High School a good school?",
+   "type": "ai_overview",
+   "page_token": "mKInQnicHdBRboIwAADQ7DJ-KlXmxMQsMqDIQgmUttCfBYuK0lKcKOjf7rJT7TRbdoD3876-5bGpf566quvay3Iy6ft-fND6IHdjodWkuNwbMRGFlNtC1Mv5yxy87sXKvbr223ljx6RtqZMYWKJHXoN96HBHUItiGbh5iihzaI8dmUUEbCK35WKqO-QHV14PTYlBtoMdL7zFHbuHPgW0SYA1wyfXYNJWOfHSLfS80PXqmAZz5EtNGpsiWGY5EyZXXEesZEgtui2zYDkdIKq1yWBpIkeYxR_FaRXvFDd3Ke0yQ55EWr4nxjMuDHlFUBuJ0d4IQyR8JBFS9IxPfM4BStwqByQNzjmzfGQEinnrQQAvzoAdlwrZ8BjYiY_uEeOEZfJBanlPIRjCbNMnJBhCf93ns6oJAaJcBfZoL26r2eh_c_WxV92y_dSHXz2jgOE",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=mKInQnicHdBRboIwAADQ7DJ-KlXmxMQsMqDIQgmUttCfBYuK0lKcKOjf7rJT7TRbdoD3876-5bGpf566quvay3Iy6ft-fND6IHdjodWkuNwbMRGFlNtC1Mv5yxy87sXKvbr223ljx6RtqZMYWKJHXoN96HBHUItiGbh5iihzaI8dmUUEbCK35WKqO-QHV14PTYlBtoMdL7zFHbuHPgW0SYA1wyfXYNJWOfHSLfS80PXqmAZz5EtNGpsiWGY5EyZXXEesZEgtui2zYDkdIKq1yWBpIkeYxR_FaRXvFDd3Ke0yQ55EWr4nxjMuDHlFUBuJ0d4IQyR8JBFS9IxPfM4BStwqByQNzjmzfGQEinnrQQAvzoAdlwrZ8BjYiY_uEeOEZfJBanlPIRjCbNMnJBhCf93ns6oJAaJcBfZoL26r2eh_c_WxV92y_dSHXz2jgOE",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmJ6Rm9NVTVVZVhaM2JGVlhYMEpETW5WWWFpMWhlazh4UXpkVVlWZFRkMTlOTUhSNFF6VjVUVmR1Vm1aWU1YbFllVWgyZFRKNFNHbEVlVk41Y0hBeloyOWtiRlZ1WWt4UU9TMHdOelZaUkRRd2QzcERaVW96WWs5cmR4SVdOVkV5YW1GdlJ6ZENabGhRTVhOUlVGOVFVSFpqUVJvaVFVUnpjamxtVkZGcWRHZEpObk0yT0RWSFlWZDNZbkpwYWpZME5WcFhTblF0VVEiLCJmY3YiOiIzIiwiZWkiOiI1UTJqYW9HN0JmWFAxc1FQX1BQdmNBIiwicWMiOiJDaDVrZFdKc2FXNGdhbVZ5YjIxbElHaHBaMmdnYzJOb2IyOXNJRzlvYVc4UUFIMm5TQzRfIiwicXVlc3Rpb24iOiJJcyBEdWJsaW4gSmVyb21lIEhpZ2ggU2Nob29sIGEgZ29vZCBzY2hvb2w/IiwibGsiOiJjNVBTeWl4V1NDbE55c25NVThoS0xjclBUVlhJeUV6UFVDaE96c2pQejFGSVZFalB6MC1COGdBIiwiYnMiOiJjMzJOSVJlQ01CUkdqM1hKdlBRYVI3RTREVGFLQVMwR0E4RTBZYkNuYk84Y3RoMlBfMTRRZzRTUjdfM3V4eFE3RkpwQWRnb2NHUVcxTkJRY3lEWVlpMEExSE1POVJRdG4xUTA0eDBiRHRkUkViU1pXUEtsRy1oaXBIcWo3MG1tSUlSTTV2Y0JJLXdiblE2V3NkOUFRZUpvNzJQR3RqcXlpeC16RzBwT0xWMEgyQmFwLWRpWTJmSTB1bnB2cXJHVDdRa3NQT1BPUU9PaWtmYUp0b09jWGpaU0psS19pRjM4MjlmWnk4UUUiLCJpZCI6ImZjXzVRMmphb0c3QmZYUDFzUVBfUFB2Y0FfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmJ6Rm9NVTVVZVhaM2JGVlhYMEpETW5WWWFpMWhlazh4UXpkVVlWZFRkMTlOTUhSNFF6VjVUVmR1Vm1aWU1YbFllVWgyZFRKNFNHbEVlVk41Y0hBeloyOWtiRlZ1WWt4UU9TMHdOelZaUkRRd2QzcERaVW96WWs5cmR4SVdOVkV5YW1GdlJ6ZENabGhRTVhOUlVGOVFVSFpqUVJvaVFVUnpjamxtVkZGcWRHZEpObk0yT0RWSFlWZDNZbkpwYWpZME5WcFhTblF0VVEiLCJmY3YiOiIzIiwiZWkiOiI1UTJqYW9HN0JmWFAxc1FQX1BQdmNBIiwicWMiOiJDaDVrZFdKc2FXNGdhbVZ5YjIxbElHaHBaMmdnYzJOb2IyOXNJRzlvYVc4UUFIMm5TQzRfIiwicXVlc3Rpb24iOiJJcyBEdWJsaW4gSmVyb21lIEhpZ2ggU2Nob29sIGEgZ29vZCBzY2hvb2w%2FIiwibGsiOiJjNVBTeWl4V1NDbE55c25NVThoS0xjclBUVlhJeUV6UFVDaE96c2pQejFGSVZFalB6MC1COGdBIiwiYnMiOiJjMzJOSVJlQ01CUkdqM1hKdlBRYVI3RTREVGFLQVMwR0E4RTBZYkNuYk84Y3RoMlBfMTRRZzRTUjdfM3V4eFE3RkpwQWRnb2NHUVcxTkJRY3lEWVlpMEExSE1POVJRdG4xUTA0eDBiRHRkUkViU1pXUEtsRy1oaXBIcWo3MG1tSUlSTTV2Y0JJLXdiblE2V3NkOUFRZUpvNzJQR3RqcXlpeC16RzBwT0xWMEgyQmFwLWRpWTJmSTB1bnB2cXJHVDdRa3NQT1BPUU9PaWtmYUp0b09jWGpaU0psS19pRjM4MjlmWnk4UUUiLCJpZCI6ImZjXzVRMmphb0c3QmZYUDFzUVBfUFB2Y0FfNSJ9"
+  },
+  {
+   "question": "What is Dublin Jerome High School's ranking in Ohio?",
+   "type": "ai_overview",
+   "page_token": "GAczc3icHdBdbpswAABg7TJ9bGxosiVSNNWtDbKCMxubH79MxIyQYgMlNHHythvsEDvVTrNpJ_ik7-dve-q7P59-tfM8njeLxfV6fTwOw9H-eDSDW1TnW28WprL2UJlus_q8gl8bs8WXEr1MBnE1jtmrAGmopXZXXwa2SaIWp6p-0Z3Y1UUZprY-87xVWXgEpaW4BAqYXAEd0yqPRJf0LNHKf_DOvzLCn5JwnGRfcwV8eSDW79QXL4AflBS-CJZPqdR8J-ldFTRIco-lzT4KmOUHyGZmyVjc0Uq_IafwfMtOINRRB_75k7JrJyAh6f15Ti07CVxzadc3rkjDeqQqB7GQNFYxXeo3GmSOaBnN31jAWuYEZoEd99F6wm0JlaTvZb6OGaAuJ8_eQMILiHjtGIpOFImY3fa5TtNeLAXUfQWRN1E7Z1C_J_FY7rEeD2p5SUmLHhpz2YYP_6e33xs3b8ZpOP4FrV-KiA",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=GAczc3icHdBdbpswAABg7TJ9bGxosiVSNNWtDbKCMxubH79MxIyQYgMlNHHythvsEDvVTrNpJ_ik7-dve-q7P59-tfM8njeLxfV6fTwOw9H-eDSDW1TnW28WprL2UJlus_q8gl8bs8WXEr1MBnE1jtmrAGmopXZXXwa2SaIWp6p-0Z3Y1UUZprY-87xVWXgEpaW4BAqYXAEd0yqPRJf0LNHKf_DOvzLCn5JwnGRfcwV8eSDW79QXL4AflBS-CJZPqdR8J-ldFTRIco-lzT4KmOUHyGZmyVjc0Uq_IafwfMtOINRRB_75k7JrJyAh6f15Ti07CVxzadc3rkjDeqQqB7GQNFYxXeo3GmSOaBnN31jAWuYEZoEd99F6wm0JlaTvZb6OGaAuJ8_eQMILiHjtGIpOFImY3fa5TtNeLAXUfQWRN1E7Z1C_J_FY7rEeD2p5SUmLHhpz2YYP_6e33xs3b8ZpOP4FrV-KiA",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmJ6Rm9NVTVVZVhaM2JGVlhYMEpETW5WWWFpMWhlazh4UXpkVVlWZFRkMTlOTUhSNFF6VjVUVmR1Vm1aWU1YbFllVWgyZFRKNFNHbEVlVk41Y0hBeloyOWtiRlZ1WWt4UU9TMHdOelZaUkRRd2QzcERaVW96WWs5cmR4SVdOVkV5YW1GdlJ6ZENabGhRTVhOUlVGOVFVSFpqUVJvaVFVUnpjamxtVkZGcWRHZEpObk0yT0RWSFlWZDNZbkpwYWpZME5WcFhTblF0VVEiLCJmY3YiOiIzIiwiZWkiOiI1UTJqYW9HN0JmWFAxc1FQX1BQdmNBIiwicWMiOiJDaDVrZFdKc2FXNGdhbVZ5YjIxbElHaHBaMmdnYzJOb2IyOXNJRzlvYVc4UUFIMm5TQzRfIiwicXVlc3Rpb24iOiJXaGF0IGlzIER1YmxpbiBKZXJvbWUgSGlnaCBTY2hvb2wncyByYW5raW5nIGluIE9oaW8/IiwibGsiOiJHaWxrZFdKc2FXNGdhbVZ5YjIxbElHaHBaMmdnYzJOb2IyOXNJSEpoYm10cGJtY2dhVzRnYjJocGJ3IiwiYnMiOiJjMzJOSVJlQ01CUkdqM1hKdlBRYVI3RTREVGFLQVMwR0E4RTBZYkNuYk84Y3RoMlBfMTRRZzRTUjdfM3V4eFE3RkpwQWRnb2NHUVcxTkJRY3lEWVlpMEExSE1POVJRdG4xUTA0eDBiRHRkUkViU1pXUEtsRy1oaXBIcWo3MG1tSUlSTTV2Y0JJLXdiblE2V3NkOUFRZUpvNzJQR3RqcXlpeC16RzBwT0xWMEgyQmFwLWRpWTJmSTB1bnB2cXJHVDdRa3NQT1BPUU9PaWtmYUp0b09jWGpaU0psS19pRjM4MjlmWnk4UUUiLCJpZCI6ImZjXzVRMmphb0c3QmZYUDFzUVBfUFB2Y0FfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmJ6Rm9NVTVVZVhaM2JGVlhYMEpETW5WWWFpMWhlazh4UXpkVVlWZFRkMTlOTUhSNFF6VjVUVmR1Vm1aWU1YbFllVWgyZFRKNFNHbEVlVk41Y0hBeloyOWtiRlZ1WWt4UU9TMHdOelZaUkRRd2QzcERaVW96WWs5cmR4SVdOVkV5YW1GdlJ6ZENabGhRTVhOUlVGOVFVSFpqUVJvaVFVUnpjamxtVkZGcWRHZEpObk0yT0RWSFlWZDNZbkpwYWpZME5WcFhTblF0VVEiLCJmY3YiOiIzIiwiZWkiOiI1UTJqYW9HN0JmWFAxc1FQX1BQdmNBIiwicWMiOiJDaDVrZFdKc2FXNGdhbVZ5YjIxbElHaHBaMmdnYzJOb2IyOXNJRzlvYVc4UUFIMm5TQzRfIiwicXVlc3Rpb24iOiJXaGF0IGlzIER1YmxpbiBKZXJvbWUgSGlnaCBTY2hvb2wncyByYW5raW5nIGluIE9oaW8%2FIiwibGsiOiJHaWxrZFdKc2FXNGdhbVZ5YjIxbElHaHBaMmdnYzJOb2IyOXNJSEpoYm10cGJtY2dhVzRnYjJocGJ3IiwiYnMiOiJjMzJOSVJlQ01CUkdqM1hKdlBRYVI3RTREVGFLQVMwR0E4RTBZYkNuYk84Y3RoMlBfMTRRZzRTUjdfM3V4eFE3RkpwQWRnb2NHUVcxTkJRY3lEWVlpMEExSE1POVJRdG4xUTA0eDBiRHRkUkViU1pXUEtsRy1oaXBIcWo3MG1tSUlSTTV2Y0JJLXdiblE2V3NkOUFRZUpvNzJQR3RqcXlpeC16RzBwT0xWMEgyQmFwLWRpWTJmSTB1bnB2cXJHVDdRa3NQT1BPUU9PaWtmYUp0b09jWGpaU0psS19pRjM4MjlmWnk4UUUiLCJpZCI6ImZjXzVRMmphb0c3QmZYUDFzUVBfUFB2Y0FfNSJ9"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Jerome High school: Home",
+   "link": "https://jerome.dublinschools.net/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWQHrOzAVWsj-JuWUvYhOqsm_xyJ7J6e1WjMJDqJZsI-fLL2yJ5BLpR0wuvBv-XbsAiNB8IidMw1PSrfCmteSmtSCuqo-zz77yWzHX7cH5tGC27TYpHOjsbfW&ved=2ahUKEwjBwZOW6OSWAxX1p5UCHfz5Gw4QFnoECDAQAQ&uoh=1",
+   "displayed_link": "https://jerome.dublinschools.net",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAV1BMVEVHcEwAaFMAaFMAgl8AaVMAaFMAaFMAaFMAaFMAZVIAaFMAYVAAhGAAnGsAkWYAsnYAx4EAxH8AwX4Ae1wAjWQAp3EAW00Au3sAcFcAxH8AzYQAlYcAaFPxZbEMAAAAHXRSTlMAH0kyaf_eoIn_wf___v7-______7-__7-alUFV6TwWV0AAAE8SURBVHgBfZOFosMwCEXrfTySFSLz___OZYSuTO-kdorTNG1n1bfNq4bxRdPc_QREfz8B0fABAABD_L8B6PwObSwvAC7EtKC1YQBAdBRCoAjlHGwcAmDKyXMBeAfosl8JBcQ6cxBgn8v5ATXbCsCOgopdNZTURgXQ8wNIwrJXE321IPFVHeSfVguDxuApWHHej1XzmkW8h2mQDFsptA7HlA8bQBkf1VTAleeWAAsApkCLc2wA6wKOBzrEfc3lsFDheMEtSHRMGTFSzcDH4mwZTZqOyBd-tU8OixRo70BJG0fMWwDwPBKnIK3RUtlGaL9PdIQRagRco3gAjQDFgVpg8UNuBer4n-UaHBPl_f3fo2lEUa8jjfGII8AR8GWsL6NqNWzfF03jJ5n163_ulRDT2_Jemmdduquqe13_G7-2Iha2K4U-AAAAAElFTkSuQmCC.png",
+   "snippet": "After four years as assistant principal at Dublin Jerome High School, Dr. Bryan Arnold is taking over as principal. He is also a Scioto High School grad!",
+   "snippet_highlighted_words": [
+    "Dublin Jerome High School"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "Athletics",
+      "link": "https://jeromeathletics.dublinschools.net/",
+      "snippet": "On May 6th, 2026 Dublin Jerome High School Athletes ..."
+     },
+     {
+      "title": "Contact",
+      "link": "https://jerome.dublinschools.net/contact-jerome-high-school",
+      "snippet": "Dublin Jerome High School. 8300 Hyland-Croy Rd. Dublin, OH ..."
+     },
+     {
+      "title": "Jerome Families",
+      "link": "https://jerome.dublinschools.net/about",
+      "snippet": "Dublin Jerome High School was named after Jerome Township ..."
+     },
+     {
+      "title": "Administration",
+      "link": "https://jerome.dublinschools.net/about/administration",
+      "snippet": "Jay Schwanke - Athletic Director ... On behalf of our staff, I would ..."
+     },
+     {
+      "title": "Hall of Fame",
+      "link": "https://jerome.dublinschools.net/about/hall-of-fame",
+      "snippet": "Dublin Jerome High School intends to recognize graduates ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "After four years as assistant principal at Dublin Jerome High School, Dr. Bryan Arnold is taking over as principal. He is also a Scioto High School grad!",
+     "source_info_link": "https://jerome.dublinschools.net/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAV1BMVEVHcEwAaFMAaFMAgl8AaVMAaFMAaFMAaFMAaFMAZVIAaFMAYVAAhGAAnGsAkWYAsnYAx4EAxH8AwX4Ae1wAjWQAp3EAW00Au3sAcFcAxH8AzYQAlYcAaFPxZbEMAAAAHXRSTlMAH0kyaf_eoIn_wf___v7-______7-__7-alUFV6TwWV0AAAE8SURBVHgBfZOFosMwCEXrfTySFSLz___OZYSuTO-kdorTNG1n1bfNq4bxRdPc_QREfz8B0fABAABD_L8B6PwObSwvAC7EtKC1YQBAdBRCoAjlHGwcAmDKyXMBeAfosl8JBcQ6cxBgn8v5ATXbCsCOgopdNZTURgXQ8wNIwrJXE321IPFVHeSfVguDxuApWHHej1XzmkW8h2mQDFsptA7HlA8bQBkf1VTAleeWAAsApkCLc2wA6wKOBzrEfc3lsFDheMEtSHRMGTFSzcDH4mwZTZqOyBd-tU8OixRo70BJG0fMWwDwPBKnIK3RUtlGaL9PdIQRagRco3gAjQDFgVpg8UNuBer4n-UaHBPl_f3fo2lEUa8jjfGII8AR8GWsL6NqNWzfF03jJ5n163_ulRDT2_Jemmdduquqe13_G7-2Iha2K4U-AAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Dublin Jerome High School"
+  },
+  {
+   "position": 2,
+   "title": "Dublin Jerome High School",
+   "link": "https://en.wikipedia.org/wiki/Dublin_Jerome_High_School",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAVozGErLNZqI9cRvz7yF7slq-zAHpToktLRKwfNNTUopE1Fp84id_9Dx7oFytVZzJ0ATrLKnKFsm3V17iIjPtXD6EYWiDq38AYi-i_EVSDozNWOVBVeSx6pggr7J68TWNpPxVmfovFo1Dl1g&ved=2ahUKEwjBwZOW6OSWAxX1p5UCHfz5Gw4QFnoECBEQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Dublin_Jerome_High_...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+   "snippet": "Dublin Jerome High School is a public high school located in Dublin, Ohio, northwest of Columbus, Ohio. It is the newest of the three high schools in the ...",
+   "snippet_highlighted_words": [
+    "Dublin Jerome High School",
+    "Ohio",
+    "Ohio"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Dublin Jerome High School is a public high school located in Dublin, Ohio, northwest of Columbus, Ohio. It is the newest of the three high schools in the ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Dublin_Jerome_High_School",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Dublin_Jerome_High_School#:~:text=Dublin%20Jerome%20High%20School%20is,the%20Dublin%20City%20Schools%20district."
+  },
+  {
+   "position": 3,
+   "title": "Dublin Jerome High School",
+   "link": "https://www.usnews.com/education/best-high-schools/ohio/districts/dublin-city/dublin-jerome-high-school-15520",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpQEB6zswFQYMebvylfT8_yy0dHiTCSDFA3GUADAIY2HvBfWtAWo8-VtPmPAuSc2dNCXyoQzeBLkyy42JTRX3wTdbFajq5GPBDXZtXvgyMiIDBJa8QvGYYC497WH_FPifFzGtp7xNaeFMyBRHdVE5BddtUJE07HoEOBj2xZ1Y9ZbandkAehgKinSwx9R7VD5UTeBFli0HfhCqZgdHSRO_QMuMUMeWAY8&ved=2ahUKEwjBwZOW6OSWAxX1p5UCHfz5Gw4QFnoECBMQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a ... \u203a Dublin City",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png",
+   "snippet": "Get information on Dublin Jerome High School in Dublin, OH including enrollment, state testing assessments and student body breakdown.",
+   "snippet_highlighted_words": [
+    "Dublin Jerome High School",
+    "OH"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Get information on Dublin Jerome High School in Dublin, OH including enrollment, state testing assessments and student body breakdown.",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/ohio/districts/dublin-city/dublin-jerome-high-school-15520",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "U.S. News & World Report"
+  },
+  {
+   "position": 4,
+   "title": "Dublin Jerome High School in Dublin, OH",
+   "link": "https://www.niche.com/k12/dublin-jerome-high-school-dublin-oh/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHrOzAVv8TRh3ous0AWHmxFDB8fH9CEr-Vp8WrmHUDkIpOgCAfSwTWdQ9q9iB3Ua432kTAYSHxoRz0_njbmOQP0Ps5PQYjIVJv4dtHpEuUS13kAwfhjnpYOxxo9d6OFNUJzMiKty1ALRnb4GxhYl9Wmaimn_FQ&ved=2ahUKEwjBwZOW6OSWAxX1p5UCHfz5Gw4QFnoECDMQAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a Ohio",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png",
+   "snippet": "Dublin Jerome High School is a top rated, public school located in DUBLIN, OH. It has 2,075 students in grades 9-12 with a student-teacher ratio of 22 to 1.",
+   "snippet_highlighted_words": [
+    "Dublin Jerome High School",
+    "OH"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Dublin Jerome High School is a top rated, public school located in DUBLIN, OH. It has 2,075 students in grades 9-12 with a student-teacher ratio of 22 to 1.",
+     "source_info_link": "https://www.niche.com/k12/dublin-jerome-high-school-dublin-oh/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Niche",
+   "read_more_link": "https://www.niche.com/k12/dublin-jerome-high-school-dublin-oh/#:~:text=Dublin%20Jerome%20High%20School%20is,ratio%20of%2022%20to%201."
+  },
+  {
+   "position": 5,
+   "title": "Dublin Jerome High School | Dublin OH",
+   "link": "https://www.facebook.com/dublinjeromehs/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAVLNtjDpTuYunG1lLyAc4OiagueZGV-aJggfPLxSIVR-4zTCaK1Ax07dfHaGz61kObgfYG0HRMvR238-JrP6BcfvGNfCHNWc-lPtG0q_Xrb1AoifoWDD_Wr_UmKA&ved=2ahUKEwjBwZOW6OSWAxX1p5UCHfz5Gw4QFnoECBQQAQ&uoh=1",
+   "displayed_link": "1.7K+ followers",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "snippet": "Welcome to Dublin Jerome High School, one of three high schools in @DublinSchools in Dublin, Ohio. ... Dublin Jerome High School is at Dublin Jerome High School.",
+   "snippet_highlighted_words": [
+    "Dublin Jerome High School",
+    "Ohio",
+    "Dublin Jerome High School",
+    "Dublin Jerome High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Welcome to Dublin Jerome High School, one of three high schools in @DublinSchools in Dublin, Ohio. ... Dublin Jerome High School is at Dublin Jerome High School.",
+     "source_info_link": "https://www.facebook.com/dublinjeromehs/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Facebook \u00b7 Dublin Jerome High School",
+   "read_more_link": "https://www.facebook.com/dublinjeromehs/#:~:text=Welcome%20to%20Dublin%20Jerome%20High,in%20%40DublinSchools%20in%20Dublin%2C%20Ohio.&text=Dublin%20Jerome%20High%20School%20is,at%20Dublin%20Jerome%20High%20School."
+  },
+  {
+   "position": 6,
+   "title": "Dublin Jerome High School (@dublinjeromehs)",
+   "link": "https://www.instagram.com/dublinjeromehs/?hl=en",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZwHrOzAVM3e0P_aniHTOcoYOkrCV6xDLsNjb-seVAFsRkz0k4tRmGm5OuqYIfSWhHZ_K_cIUvcUsgxnHoP8Lp32_gDQi1wQbA0StODBompgC3aR2AXbFeuNopvhN95WZLWTPV1ktKQE&ved=2ahUKEwjBwZOW6OSWAxX1p5UCHfz5Gw4QFnoECBYQAQ&uoh=1",
+   "displayed_link": "5K+ followers",
+   "favicon": "https://serpapi.com/searches/6aa30de173d22457d0a0552c/images/QAeDiG0bFxfCrzN2nBh7P0vAzPocQuweTEwNWasOQ8o.png",
+   "snippet": "Welcome to Dublin Jerome High School, one of three high schools in @DublinSchools in Dublin, Ohio. Home of the Celtics. FB & Twitter: @dublinjeromehs.",
+   "snippet_highlighted_words": [
+    "Dublin Jerome High School",
+    "Ohio"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Welcome to Dublin Jerome High School, one of three high schools in @DublinSchools in Dublin, Ohio. Home of the Celtics. FB & Twitter: @dublinjeromehs.",
+     "source_info_link": "https://www.instagram.com/dublinjeromehs/?hl=en",
+     "icon": "https://serpapi.com/searches/6aa30de173d22457d0a0552c/images/QAeDiG0bFxfCrzN2nBh7PwwAWDeGHXvcDJVBVa4hKSw6tD17R1jzvYrDvcUrJL1i.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Instagram \u00b7 dublinjeromehs",
+   "read_more_link": "https://www.instagram.com/dublinjeromehs/?hl=en#:~:text=Welcome%20to%20Dublin%20Jerome%20High,FB%20%26%20Twitter%3A%20%40dublinjeromehs"
+  },
+  {
+   "position": 7,
+   "title": "Overall Rating - Ohio School Report Cards",
+   "link": "https://reportcard.education.ohio.gov/school/146928",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESawHrOzAVctUcRd8A35jyru1ybP0xJJHt9joqjsN0D40mQ86kt679Opc-5Ky8WVmdgiJQgvxNp6JDuSf04Blreg3aPm1JTFJXk1Ggm7Ixe-LolV9iwe7aosfnnEySiY8Ycj6ytiEmJ4KUqWu_&ved=2ahUKEwjBwZOW6OSWAxX1p5UCHfz5Gw4QFnoECDwQAQ&uoh=1",
+   "displayed_link": "https://reportcard.education.ohio.gov \u203a school",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAA_UlEQVR4AWJAB29lVLQApdI1VgRRFEVR3GUkaAYJkiADwd01x91dY4iwBJsE7hDhRLSfWuv9du9gl71_b3cJZnELnXjAEjLUOnfBOIzCjFcJ1KAa83iS2SwS3YX3ZUEzot38QCSqZc0JkuyH4zIolUve_mkhTFhSFzIk3Okl51xSL5kc7WQGn0gNoCAeb9jQTi6xq4YBlGzjVjvQYyCIgl78qoL-IAv-1C3shHILc_hASgDhOLxiUzvJghntARTUSiZXXZiSC8V-hPNhxKrzez2SknpEuglGoFzC50h293FMSskT5lGJCszgXmaLSPL2F9OxjGt8iBusI9t5vQVH2cVO7rhEBQAAAABJRU5ErkJggg.png",
+   "snippet": "Dublin Jerome High School. School at a glance. School Home \u00b7 Achievement. 5 ... The College, Career, Workforce, and Military Readiness Component is a measure of ...",
+   "snippet_highlighted_words": [
+    "Dublin Jerome High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Dublin Jerome High School. School at a glance. School Home \u00b7 Achievement. 5 ... The College, Career, Workforce, and Military Readiness Component is a measure of ...",
+     "source_info_link": "https://reportcard.education.ohio.gov/school/146928",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAA_UlEQVR4AWJAB29lVLQApdI1VgRRFEVR3GUkaAYJkiADwd01x91dY4iwBJsE7hDhRLSfWuv9du9gl71_b3cJZnELnXjAEjLUOnfBOIzCjFcJ1KAa83iS2SwS3YX3ZUEzot38QCSqZc0JkuyH4zIolUve_mkhTFhSFzIk3Okl51xSL5kc7WQGn0gNoCAeb9jQTi6xq4YBlGzjVjvQYyCIgl78qoL-IAv-1C3shHILc_hASgDhOLxiUzvJghntARTUSiZXXZiSC8V-hPNhxKrzez2SknpEuglGoFzC50h293FMSskT5lGJCszgXmaLSPL2F9OxjGt8iBusI9t5vQVH2cVO7rhEBQAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Ohio.gov",
+   "read_more_link": "https://reportcard.education.ohio.gov/school/146928#:~:text=Dublin%20Jerome%20High%20School,School%20at%20a%20glance&text=The%20College%2C%20Career%2C%20Workforce%2C%20and,preparing%20for%20work%20or%20college."
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Dublin jerome high school ohio yearbook",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuLfHBJFfFUKBdlTLuUkov4x_oOIQ:1789070821097&q=Dublin+jerome+high+school+ohio+yearbook&sa=X&ved=2ahUKEwjBwZOW6OSWAxX1p5UCHfz5Gw4Q1QJ6BAh1EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Dublin+jerome+high+school+ohio+yearbook"
+  },
+  {
+   "block_position": 1,
+   "query": "Dublin jerome high school ohio ranking",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuLfHBJFfFUKBdlTLuUkov4x_oOIQ:1789070821097&q=Dublin+jerome+high+school+ohio+ranking&sa=X&ved=2ahUKEwjBwZOW6OSWAxX1p5UCHfz5Gw4Q1QJ6BAh3EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Dublin+jerome+high+school+ohio+ranking"
+  },
+  {
+   "block_position": 1,
+   "query": "Dublin jerome high school ohio football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuLfHBJFfFUKBdlTLuUkov4x_oOIQ:1789070821097&q=Dublin+jerome+high+school+ohio+football&sa=X&ved=2ahUKEwjBwZOW6OSWAxX1p5UCHfz5Gw4Q1QJ6BAh4EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Dublin+jerome+high+school+ohio+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Dublin jerome High School Map",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuLfHBJFfFUKBdlTLuUkov4x_oOIQ:1789070821097&q=Dublin+jerome+High+School+Map&sa=X&ved=2ahUKEwjBwZOW6OSWAxX1p5UCHfz5Gw4Q1QJ6BAh5EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Dublin+jerome+High+School+Map"
+  },
+  {
+   "block_position": 1,
+   "query": "Dublin Jerome High School photos",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuLfHBJFfFUKBdlTLuUkov4x_oOIQ:1789070821097&q=Dublin+Jerome+High+School+photos&sa=X&ved=2ahUKEwjBwZOW6OSWAxX1p5UCHfz5Gw4Q1QJ6BAh7EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Dublin+Jerome+High+School+photos"
+  },
+  {
+   "block_position": 1,
+   "query": "Dublin jerome high school ohio principal",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuLfHBJFfFUKBdlTLuUkov4x_oOIQ:1789070821097&q=Dublin+jerome+high+school+ohio+principal&sa=X&ved=2ahUKEwjBwZOW6OSWAxX1p5UCHfz5Gw4Q1QJ6BAh8EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Dublin+jerome+high+school+ohio+principal"
+  },
+  {
+   "block_position": 1,
+   "query": "Dublin jerome high school ohio alumni",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuLfHBJFfFUKBdlTLuUkov4x_oOIQ:1789070821097&q=Dublin+jerome+high+school+ohio+alumni&sa=X&ved=2ahUKEwjBwZOW6OSWAxX1p5UCHfz5Gw4Q1QJ6BAh2EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Dublin+jerome+high+school+ohio+alumni"
+  },
+  {
+   "block_position": 1,
+   "query": "Dublin jerome high school ohio basketball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuLfHBJFfFUKBdlTLuUkov4x_oOIQ:1789070821097&q=Dublin+jerome+high+school+ohio+basketball&sa=X&ved=2ahUKEwjBwZOW6OSWAxX1p5UCHfz5Gw4Q1QJ6BAh6EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Dublin+jerome+high+school+ohio+basketball"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Dublin+Jerome+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuLfHBJFfFUKBdlTLuUkov4x_oOIQ:1789070821097&ei=5Q2jaoG7BfXP1sQP_PPvcA&start=10&sa=N&sstk=AS6-VmIq68iGkZcBbtvHs4KSahnZBtHNRN-NRkT2oADfflab871Md1vs_vhvA52I7IRZFY-GAh-4AT7rac7SgiQu9EqKvl5IjCIC_w&ved=2ahUKEwjBwZOW6OSWAxX1p5UCHfz5Gw4Q8NMDegQIchAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Dublin+Jerome+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuLfHBJFfFUKBdlTLuUkov4x_oOIQ:1789070821097&ei=5Q2jaoG7BfXP1sQP_PPvcA&start=10&sa=N&sstk=AS6-VmIq68iGkZcBbtvHs4KSahnZBtHNRN-NRkT2oADfflab871Md1vs_vhvA52I7IRZFY-GAh-4AT7rac7SgiQu9EqKvl5IjCIC_w&ved=2ahUKEwjBwZOW6OSWAxX1p5UCHfz5Gw4Q8tMDegQIchAE",
+   "3": "https://www.google.com/search?q=%22Dublin+Jerome+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuLfHBJFfFUKBdlTLuUkov4x_oOIQ:1789070821097&ei=5Q2jaoG7BfXP1sQP_PPvcA&start=20&sa=N&sstk=AS6-VmIq68iGkZcBbtvHs4KSahnZBtHNRN-NRkT2oADfflab871Md1vs_vhvA52I7IRZFY-GAh-4AT7rac7SgiQu9EqKvl5IjCIC_w&ved=2ahUKEwjBwZOW6OSWAxX1p5UCHfz5Gw4Q8tMDegQIchAG",
+   "4": "https://www.google.com/search?q=%22Dublin+Jerome+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuLfHBJFfFUKBdlTLuUkov4x_oOIQ:1789070821097&ei=5Q2jaoG7BfXP1sQP_PPvcA&start=30&sa=N&sstk=AS6-VmIq68iGkZcBbtvHs4KSahnZBtHNRN-NRkT2oADfflab871Md1vs_vhvA52I7IRZFY-GAh-4AT7rac7SgiQu9EqKvl5IjCIC_w&ved=2ahUKEwjBwZOW6OSWAxX1p5UCHfz5Gw4Q8tMDegQIchAI",
+   "5": "https://www.google.com/search?q=%22Dublin+Jerome+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuLfHBJFfFUKBdlTLuUkov4x_oOIQ:1789070821097&ei=5Q2jaoG7BfXP1sQP_PPvcA&start=40&sa=N&sstk=AS6-VmIq68iGkZcBbtvHs4KSahnZBtHNRN-NRkT2oADfflab871Md1vs_vhvA52I7IRZFY-GAh-4AT7rac7SgiQu9EqKvl5IjCIC_w&ved=2ahUKEwjBwZOW6OSWAxX1p5UCHfz5Gw4Q8tMDegQIchAK",
+   "6": "https://www.google.com/search?q=%22Dublin+Jerome+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuLfHBJFfFUKBdlTLuUkov4x_oOIQ:1789070821097&ei=5Q2jaoG7BfXP1sQP_PPvcA&start=50&sa=N&sstk=AS6-VmIq68iGkZcBbtvHs4KSahnZBtHNRN-NRkT2oADfflab871Md1vs_vhvA52I7IRZFY-GAh-4AT7rac7SgiQu9EqKvl5IjCIC_w&ved=2ahUKEwjBwZOW6OSWAxX1p5UCHfz5Gw4Q8tMDegQIchAM",
+   "7": "https://www.google.com/search?q=%22Dublin+Jerome+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuLfHBJFfFUKBdlTLuUkov4x_oOIQ:1789070821097&ei=5Q2jaoG7BfXP1sQP_PPvcA&start=60&sa=N&sstk=AS6-VmIq68iGkZcBbtvHs4KSahnZBtHNRN-NRkT2oADfflab871Md1vs_vhvA52I7IRZFY-GAh-4AT7rac7SgiQu9EqKvl5IjCIC_w&ved=2ahUKEwjBwZOW6OSWAxX1p5UCHfz5Gw4Q8tMDegQIchAO",
+   "8": "https://www.google.com/search?q=%22Dublin+Jerome+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuLfHBJFfFUKBdlTLuUkov4x_oOIQ:1789070821097&ei=5Q2jaoG7BfXP1sQP_PPvcA&start=70&sa=N&sstk=AS6-VmIq68iGkZcBbtvHs4KSahnZBtHNRN-NRkT2oADfflab871Md1vs_vhvA52I7IRZFY-GAh-4AT7rac7SgiQu9EqKvl5IjCIC_w&ved=2ahUKEwjBwZOW6OSWAxX1p5UCHfz5Gw4Q8tMDegQIchAQ",
+   "9": "https://www.google.com/search?q=%22Dublin+Jerome+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuLfHBJFfFUKBdlTLuUkov4x_oOIQ:1789070821097&ei=5Q2jaoG7BfXP1sQP_PPvcA&start=80&sa=N&sstk=AS6-VmIq68iGkZcBbtvHs4KSahnZBtHNRN-NRkT2oADfflab871Md1vs_vhvA52I7IRZFY-GAh-4AT7rac7SgiQu9EqKvl5IjCIC_w&ved=2ahUKEwjBwZOW6OSWAxX1p5UCHfz5Gw4Q8tMDegQIchAS",
+   "10": "https://www.google.com/search?q=%22Dublin+Jerome+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuLfHBJFfFUKBdlTLuUkov4x_oOIQ:1789070821097&ei=5Q2jaoG7BfXP1sQP_PPvcA&start=90&sa=N&sstk=AS6-VmIq68iGkZcBbtvHs4KSahnZBtHNRN-NRkT2oADfflab871Md1vs_vhvA52I7IRZFY-GAh-4AT7rac7SgiQu9EqKvl5IjCIC_w&ved=2ahUKEwjBwZOW6OSWAxX1p5UCHfz5Gw4Q8tMDegQIchAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Dublin+Jerome+High+School%22+Ohio&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Dublin+Jerome+High+School%22+Ohio&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Dublin+Jerome+High+School%22+Ohio&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Dublin+Jerome+High+School%22+Ohio&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Dublin+Jerome+High+School%22+Ohio&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Dublin+Jerome+High+School%22+Ohio&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Dublin+Jerome+High+School%22+Ohio&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Dublin+Jerome+High+School%22+Ohio&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Dublin+Jerome+High+School%22+Ohio&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Dublin+Jerome+High+School%22+Ohio&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Dublin+Jerome+High+School%22+Ohio&start=90"
+  }
+ }
+}

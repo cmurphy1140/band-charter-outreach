@@ -1,0 +1,524 @@
+{
+ "search_information": {
+  "query_displayed": "\"Clover High School\" South Carolina",
+  "total_results": 53300,
+  "time_taken_displayed": 0.26,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Clover High School",
+  "type": "High school in York County, South Carolina",
+  "entity_type": "local_nav",
+  "kgmid": "/m/02z5vkk",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/02z5vkk&hl=en-US&q=Clover+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F02z5vkk&q=Clover+High+School",
+  "place_id": "ChIJqWyTKDztVogR5-9rNv6yNu8",
+  "website": "https://www.clover.k12.sc.us/CHS",
+  "description": "Clover High School is a public high school located in Clover, South Carolina, United States, about 28 miles from Charlotte. It is the only high school in the Clover School District. As of the 2024-2025 school year, the principal is Donna Farris.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa30d2c30239418e85650cd/images/ykYvPu3p8_QMOW_-zc4jf1rnaf2gQcuH_sYxYO2n3dY.webp",
+   "link": "https://www.google.com/maps/place/Clover+High+School/data=!4m2!3m1!1s0x0:0xef36b2fe366befe7?sa=X&ved=2ahUKEwiG3JrY5-SWAxWRna8BHXigB9kQ_BJ6BAgREAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Clover_High_School"
+  },
+  "address": "1625 Hwy 55 E, Clover, SC 29710",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnsEuiMhLFBI-um2Vh_LVp4oEqV3ag:1789070691191&q=clover+high+school+address&ludocid=17237161428711632871&sa=X&ved=2ahUKEwiG3JrY5-SWAxWRna8BHXigB9kQ6BN6BAgkEAI"
+   }
+  ],
+  "color": "Blue",
+  "color_links": [
+   {
+    "text": "Blue",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnsEuiMhLFBI-um2Vh_LVp4oEqV3ag:1789070691191&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpp8BNd2nn3lkHrfQr20Q4sYcbA27VAj5UeLqp-dI9p_z_iCmRBypODazbK6ErIM8DgR8_jrPG4kmprG7ecfxh1AXpXlnOyj19LMy5h5fMAHSgNZvHMFuoGJX7vUViLWG9ryplZs%3D&sa=X&ved=2ahUKEwiG3JrY5-SWAxWRna8BHXigB9kQmxN6BAglEAI"
+   }
+  ],
+  "school_types": "Secondary school, High school",
+  "school_types_links": [
+   {
+    "text": "Secondary school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnsEuiMhLFBI-um2Vh_LVp4oEqV3ag:1789070691191&q=Secondary+school&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67-Rsa99rK7fwEET42kD4ZCjF8QRrSgNUVBuomcnHhCbBYOAtzIHniilZ6q-VIW5zaAD4pksrKiK2fS6FxsBThjIPEi-5kk0kleX3bugH-5OAQY1RhHIOpkNEp4mv-ZJbmmFioDyy7DiM09fzFD8kuSPMqtwSXv2Zl6yVEKlusXHU7q8j_UgVF6MAjggOFY46HF_n7a6123SwJUXkx5WZ7RybNuceVWKjJ4pyDbiO1o-XSXA3mcOe3zLPzyqsWDGquayc0UY%3D&sa=X&ved=2ahUKEwiG3JrY5-SWAxWRna8BHXigB9kQmxN6BAgjEAI"
+   },
+   {
+    "text": "High school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnsEuiMhLFBI-um2Vh_LVp4oEqV3ag:1789070691191&q=High+school&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMppXfNh-OkLk_azmU0uk1AX8sk8s1-2uDG13xvljBKYj-62BC653CUwqsnPBoRGsmoAhp8N1FFUjPXYR75tXwHhUXWv8UBnIL4TF0z5QyYwumGUgGwaY_WDOVjHTiHXhEIOMLqTZ2zQRlA1k9RbuZ0Lxz3SqlYq-wMgf3mK2Wtx8wZEryE3EDYU4iHmR_SdeGeFvEJvzuqEXkcIQTD49tIrCDuxJ7UooKOCY1uY3IlqWiRHMYHhQ4M5awkPO0vYpkIQJjgm4%3D&sa=X&ved=2ahUKEwiG3JrY5-SWAxWRna8BHXigB9kQmxN6BAgjEAM"
+   }
+  ],
+  "lowest_grade": "Ninth Grade",
+  "lowest_grade_links": [
+   {
+    "text": "Ninth Grade",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnsEuiMhLFBI-um2Vh_LVp4oEqV3ag:1789070691191&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ycVufaiHeRm9qcUzZ-riFc-9oKSn3gqbysox9tEbgSTfJPpMmU9KGVNEozprDr5Ju-VG3ZybA8Fn7mU7yih74F6gtx5x4qHo0AXyX9H-On3E4VdtfxLKsTKQ3NnhAhToPnNMnonyl4NoXWztvzdP3dYlFwNZ&sa=X&ved=2ahUKEwiG3JrY5-SWAxWRna8BHXigB9kQmxN6BAgpEAI"
+   }
+  ],
+  "phone": "(803) 810-8200",
+  "raw_hours": "Closed \u00b7 Opens 9 AM Fri",
+  "hours": {
+   "thursday": {
+    "opens": "9\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "friday": {
+    "opens": "9\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "9\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "tuesday": {
+    "opens": "9\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "wednesday": {
+    "opens": "9\u202fAM",
+    "closes": "4\u202fPM"
+   }
+  },
+  "unclaimed_listing": true,
+  "people_also_search_for": [
+   {
+    "name": "Clover Middle School",
+    "image": "https://serpapi.com/searches/6aa30d2c30239418e85650cd/images/ykYvPu3p8_QMOW_-zc4jfwoBnlSdqI34vE3Csr6SoXZgdrmrX7gZ9sKi4eGkHNPM.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnsEuiMhLFBI-um2Vh_LVp4oEqV3ag:1789070691191&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0eVasu_x1Q_xdL-ea1oUHpsfq0llRKx61UhKPXvpayvaKN1HuSYLtISI6AbFZ2-dWm0NzXW1pYl-EDw1A9NG9Pu8p4VaJq4swtQ2llbFyURPO2z3v8_mimrAPnqAsC-QdR_KAimJmDL4s99ZFvo5s95n-e0wQUu72uiurym28GMjJ6XFcs8cbeVHfGz9l1ccIsb3x2n2LSbb-r4jbk2DL3qQ-uB7Qw-q67opgJAsIQEEqVQ-7O7zDZ0Xj_cDXUkhEDhEczMrYChknzzfE326aU--8nbf&q=Clover+Middle+School&sa=X&ved=2ahUKEwiG3JrY5-SWAxWRna8BHXigB9kQs9oBKAB6BAgfEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Clover+Middle+School&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0eVasu_x1Q_xdL-ea1oUHpsfq0llRKx61UhKPXvpayvaKN1HuSYLtISI6AbFZ2-dWm0NzXW1pYl-EDw1A9NG9Pu8p4VaJq4swtQ2llbFyURPO2z3v8_mimrAPnqAsC-QdR_KAimJmDL4s99ZFvo5s95n-e0wQUu72uiurym28GMjJ6XFcs8cbeVHfGz9l1ccIsb3x2n2LSbb-r4jbk2DL3qQ-uB7Qw-q67opgJAsIQEEqVQ-7O7zDZ0Xj_cDXUkhEDhEczMrYChknzzfE326aU--8nbf"
+   },
+   {
+    "name": "Oakridge Middle School",
+    "image": "https://serpapi.com/searches/6aa30d2c30239418e85650cd/images/ykYvPu3p8_QMOW_-zc4jfwoBnlSdqI34vE3Csr6SoXYFsJZ9AWOvmicKwV4Z2m_Y.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnsEuiMhLFBI-um2Vh_LVp4oEqV3ag:1789070691191&si=APenkKllX05q7xl66dAosm6nb1iuMgV7Bv8meTZS-zIzIS3OM-ScqjM_UuQtCoxnL7bCW5w9TdJHuXPaFPuTcqsYq-RdHvi8XQwXliuip5aSETwGZbzbNKcr_dee_qm8JaqN0lB_WQidfkjz9x_6QDBTeYT9cjZ5H-NWmkdz6qSJ4GC0gzoNnj1bLUaJXHe6ZtfI5XGV3KlVRILalUIwqppAMEvH4zn_PCAymnGbQQ8TuMFMqglc3mAsWj9u9Kbs3pp_b5PzA7-Y2wE6Q7_QUwBh3g73lJwaF8bVgoBamxzPnpO9DZIx23FR3XxbU6E3d-uFVtyB81wr&q=Oakridge+Middle+School&sa=X&ved=2ahUKEwiG3JrY5-SWAxWRna8BHXigB9kQs9oBKAB6BAgfEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Oakridge+Middle+School&si=APenkKllX05q7xl66dAosm6nb1iuMgV7Bv8meTZS-zIzIS3OM-ScqjM_UuQtCoxnL7bCW5w9TdJHuXPaFPuTcqsYq-RdHvi8XQwXliuip5aSETwGZbzbNKcr_dee_qm8JaqN0lB_WQidfkjz9x_6QDBTeYT9cjZ5H-NWmkdz6qSJ4GC0gzoNnj1bLUaJXHe6ZtfI5XGV3KlVRILalUIwqppAMEvH4zn_PCAymnGbQQ8TuMFMqglc3mAsWj9u9Kbs3pp_b5PzA7-Y2wE6Q7_QUwBh3g73lJwaF8bVgoBamxzPnpO9DZIx23FR3XxbU6E3d-uFVtyB81wr"
+   },
+   {
+    "name": "Nation Ford High School",
+    "image": "https://serpapi.com/searches/6aa30d2c30239418e85650cd/images/ykYvPu3p8_QMOW_-zc4jfwoBnlSdqI34vE3Csr6SoXZ8WBI0ywZganjB3Ud5YDCv.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnsEuiMhLFBI-um2Vh_LVp4oEqV3ag:1789070691191&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW677Wx-Axg4VnlJcn0JclvZi0sNQ4tbfMt3b1v7B7Cn-CUD98i8DL9GpnTFyJIVviLzFBz0-Ms3NfLFj_XIAt98xFcES22cabCbDPPvJfJomTCR_b7hkaM_wohnq6Pu70ZSJfnHnwcWqAYXAFrz3-cc3BBKnFLTHNxW1ZLmz-PVH3cur6Zu5dm09Bhcu9VaGaapRri367YgqC07MvnaN_0id8-cZ5aRmXA83Pg_c7OmewVBSalAaMEA_xnThamCIokVrVS_MGBUBIunyEEz5NxhF1-xZn7&q=Nation+Ford+High+School&sa=X&ved=2ahUKEwiG3JrY5-SWAxWRna8BHXigB9kQs9oBKAB6BAgfEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Nation+Ford+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW677Wx-Axg4VnlJcn0JclvZi0sNQ4tbfMt3b1v7B7Cn-CUD98i8DL9GpnTFyJIVviLzFBz0-Ms3NfLFj_XIAt98xFcES22cabCbDPPvJfJomTCR_b7hkaM_wohnq6Pu70ZSJfnHnwcWqAYXAFrz3-cc3BBKnFLTHNxW1ZLmz-PVH3cur6Zu5dm09Bhcu9VaGaapRri367YgqC07MvnaN_0id8-cZ5aRmXA83Pg_c7OmewVBSalAaMEA_xnThamCIokVrVS_MGBUBIunyEEz5NxhF1-xZn7"
+   },
+   {
+    "name": "Catawba Ridge High School",
+    "image": "https://serpapi.com/searches/6aa30d2c30239418e85650cd/images/ykYvPu3p8_QMOW_-zc4jfwoBnlSdqI34vE3Csr6SoXZC4F3u2yALatW8skab10h1.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnsEuiMhLFBI-um2Vh_LVp4oEqV3ag:1789070691191&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0XP31YqmvqBRHSvpGs5NGXfp-c_PL6qB05pDZb_WIVaWuWEDf7HBDPvF3J5-Moh47Yy4pMfDvx4YcIK7v2AJGWWZ1IS8nUnzIbYRWJhPxodi9dTeASgyH7cV_3JWz7CAHTO5I1egVQhidWug3BUqlreQEj-Fa8qiTVAKjhQwr_s68KFk3-v2eYvLANJYOHMne0Ob_ZlTOFtywXrEXRaGu_eR-w1ciREhVgL7WhjrmGzu-f869ShJu_NrhkTTVUMuNL85yIlGzc1sG9ijAjTOJ2EeU0xV&q=Catawba+Ridge+High+School&sa=X&ved=2ahUKEwiG3JrY5-SWAxWRna8BHXigB9kQs9oBKAB6BAgfEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Catawba+Ridge+High+School&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0XP31YqmvqBRHSvpGs5NGXfp-c_PL6qB05pDZb_WIVaWuWEDf7HBDPvF3J5-Moh47Yy4pMfDvx4YcIK7v2AJGWWZ1IS8nUnzIbYRWJhPxodi9dTeASgyH7cV_3JWz7CAHTO5I1egVQhidWug3BUqlreQEj-Fa8qiTVAKjhQwr_s68KFk3-v2eYvLANJYOHMne0Ob_ZlTOFtywXrEXRaGu_eR-w1ciREhVgL7WhjrmGzu-f869ShJu_NrhkTTVUMuNL85yIlGzc1sG9ijAjTOJ2EeU0xV"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnsEuiMhLFBI-um2Vh_LVp4oEqV3ag:1789070691191&q=Clover+High+School&stick=H4sIAAAAAAAAAONgFuLSz9U3MKoyLcvOVkJiawkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axCrknJNfllqk4JGZnqEQnJyRn5-zg5XxFpskwxuHisBcvqbOJeGGh1i1F22OSAq2SQ_7fhwAsadB6noAAAA&sa=X&ved=2ahUKEwiG3JrY5-SWAxWRna8BHXigB9kQzO0BKAR6BAgfEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLSz9U3MKoyLcvOVkJiawkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axCrknJNfllqk4JGZnqEQnJyRn5-zg5XxFpskwxuHisBcvqbOJeGGh1i1F22OSAq2SQ_7fhwAsadB6noAAAA",
+  "profiles": [
+   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/chs_blueeagles/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Clover+High+School%22+South+Carolina",
+    "image": "https://serpapi.com/searches/6aa30d2c30239418e85650cd/images/ykYvPu3p8_QMOW_-zc4jf_u9r8RuG1Noai8Wdxf5VSkMe5SX9m_sm4p5jvUHLIE_.png"
+   },
+   {
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/in/mrs-johnson-johnson-82428b27",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Clover+High+School%22+South+Carolina",
+    "image": "https://serpapi.com/searches/6aa30d2c30239418e85650cd/images/ykYvPu3p8_QMOW_-zc4jf8trzLeNt9b9eYXNZANhiu3c3WvUarIQnJ4f89sqakru.png"
+   },
+   {
+    "name": "X (Twitter)",
+    "link": "https://twitter.com/chs_blueeagles",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Clover+High+School%22+South+Carolina",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAABhUlEQVR4AczOA6xcARCF4X_us23btuLUQR3WZlhbQW3bto2gtm3b2J3GN4tY74uHh3okOi42Nj4AAUDwTvDEhisABCOAEAzYTBh0bN-lc5d0QgAhHPqX4Y4pkd367Zc-xMcXCPDg8TPwxeQH724Uj9N95GJ4pnHxby1xgCmV3v-GsFb7k0Iee7UjaQgmIYe9v9O4-wUKWaATyMPAViwvr1NnOQWDdTV5CHYSaKWLmaGDyvU4mTgQcllracaFr-9uk-yLM8k8fAJff0IUTghRVFu3M1ynkYk4nchiqqU3Ry05RDibMMhjtj6Ht3dJxVk_l1G64cspOusychBsCWm01WNM0jFs0sbEYUtIIuTXNco588OLh09JxE6wweuXEAvfL9PQus3-iU80N34KCaQyUOcxTTuSjEmMRI5rS9JwIZfD1t7ceo34YIpnuQ4nGwP8XXlq_fJZd9jE8KBHC5IwAELJ7dWrZ6fOuNhkgFgAEEIAwA1MQkw0AgDC_wnKycrKSQ2iPAkAVyNzq8rxicIAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/CloverHighSchool",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Clover+High+School%22+South+Carolina",
+    "image": "https://serpapi.com/searches/6aa30d2c30239418e85650cd/images/ykYvPu3p8_QMOW_-zc4jf6nUqZvXagmD6QBFp9gd3orS8HjCEmXxlvrFUYyJVpHz.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "What is the #1 high school in SC?",
+   "type": "ai_overview",
+   "page_token": "AWEchnicHdDdToMwGIDheDMeCgWdumQxqfy71lEog54YaN0QPn6GuM2eeS9elVej8QbePHm_vuGtb38ujvU8j-9LwzidTlf7YdjD65UcOqN8_-ylIUuAqpTtcnG7QA87uXI_Qvx4CHHMxzFzmJk0mCVtaFJTuNKKRgZiwRp4Ip60KNBzroHTnK3V9j5JnfqmcgXmvQqI7WmCoo0K6lR5NaHofshcBn_NufJDVNp0Vs7eLkARCawnTeQl1k3-CuEsWthQXh-Vlta2Q-utj6YU3ZlprwgBXFR8bBP_Tqfam2ReT6VDI6JVlHTCpIFoZIB9Zc1Bloux4uhaZexZcjVVfLbdWgmlo0OR01pwgphWlmxwvObIETlggoe3mDMtG-gyn9rsTx-n6lNY7LHowK1cmnETDc_BeCq684HHlzt5XNmX_z9XL7tuXo7TsP8FgwmC-g",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=AWEchnicHdDdToMwGIDheDMeCgWdumQxqfy71lEog54YaN0QPn6GuM2eeS9elVej8QbePHm_vuGtb38ujvU8j-9LwzidTlf7YdjD65UcOqN8_-ylIUuAqpTtcnG7QA87uXI_Qvx4CHHMxzFzmJk0mCVtaFJTuNKKRgZiwRp4Ip60KNBzroHTnK3V9j5JnfqmcgXmvQqI7WmCoo0K6lR5NaHofshcBn_NufJDVNp0Vs7eLkARCawnTeQl1k3-CuEsWthQXh-Vlta2Q-utj6YU3ZlprwgBXFR8bBP_Tqfam2ReT6VDI6JVlHTCpIFoZIB9Zc1Bloux4uhaZexZcjVVfLbdWgmlo0OR01pwgphWlmxwvObIETlggoe3mDMtG-gyn9rsTx-n6lNY7LHowK1cmnETDc_BeCq684HHlzt5XNmX_z9XL7tuXo7TsP8FgwmC-g",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlUzVmxha1ZNWmxZelJHWldVMGxKZWtGalVEWkphR0pvZWxWNWVYZ3dlVUpPY0RKR2J6TmlOM2xaYWpadlJVWmllVmhEWHpKUk1GcFNjazlVVGxoUFZFaElXVmxGZFhWRWNYWmZXWGRyTVhVemJ6RllOWGR1YlZWd1VSSVhXWGN5YW1GellXVkROVWMzZG5Jd1VDMU5RMlY1UVRBYUlrRkVjM0k1WmxGdlpUWnRlbkYwZVdaalJHcFVNVk5ZUm14bFRWQnNObWxRUmxFIiwiZmN2IjoiMyIsImVpIjoiWXcyamFzYWVDNUc3dnIwUC1NQ2V5QTAiLCJxYyI6IkNpRmpiRzkyWlhJZ2FHbG5hQ0J6WTJodmIyd2djMjkxZEdnZ1kyRnliMnhwYm1FUUFIMmlsem9fIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSAjMSBoaWdoIHNjaG9vbCBpbiBTQz8iLCJsayI6IkdpQjNhR0YwSUdseklIUm9aU0FqTVNCb2FXZG9JSE5qYUc5dmJDQnBiaUJ6WXciLCJicyI6ImMzMlF1dzZDUUJCRlk3dVY5ZnJJVlZzTmtRLVFSQXJwS2F4WFdGZ2k3Q1RzSXZIdlJSQWtSdTBtbVh2dW1RdzdzZFZaQ1l2TXdDcUp6UjRxU3hWTXBJaHlaQnFoNzdscmp2cHZ5RVRzd3B5QWFoUkMzMkZzRlV0dERWS0NKZmc1M1dTSjRNbUVMYk50YXgyLVV6LVFxRVBHbXNZUnMtUDRXQzBLQ1VxNldkYWZSM1hhUmtXVlZmQkZTWG1taGVjdS1meEwtbVZzTEFlMjZDMURoWS1ycGxvam9kSnpGM3pXdjJPZzN2dnA1QUUiLCJpZCI6ImZjX1l3Mmphc2FlQzVHN3ZyMFAtTUNleUEwXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlUzVmxha1ZNWmxZelJHWldVMGxKZWtGalVEWkphR0pvZWxWNWVYZ3dlVUpPY0RKR2J6TmlOM2xaYWpadlJVWmllVmhEWHpKUk1GcFNjazlVVGxoUFZFaElXVmxGZFhWRWNYWmZXWGRyTVhVemJ6RllOWGR1YlZWd1VSSVhXWGN5YW1GellXVkROVWMzZG5Jd1VDMU5RMlY1UVRBYUlrRkVjM0k1WmxGdlpUWnRlbkYwZVdaalJHcFVNVk5ZUm14bFRWQnNObWxRUmxFIiwiZmN2IjoiMyIsImVpIjoiWXcyamFzYWVDNUc3dnIwUC1NQ2V5QTAiLCJxYyI6IkNpRmpiRzkyWlhJZ2FHbG5hQ0J6WTJodmIyd2djMjkxZEdnZ1kyRnliMnhwYm1FUUFIMmlsem9fIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSAjMSBoaWdoIHNjaG9vbCBpbiBTQz8iLCJsayI6IkdpQjNhR0YwSUdseklIUm9aU0FqTVNCb2FXZG9JSE5qYUc5dmJDQnBiaUJ6WXciLCJicyI6ImMzMlF1dzZDUUJCRlk3dVY5ZnJJVlZzTmtRLVFSQXJwS2F4WFdGZ2k3Q1RzSXZIdlJSQWtSdTBtbVh2dW1RdzdzZFZaQ1l2TXdDcUp6UjRxU3hWTXBJaHlaQnFoNzdscmp2cHZ5RVRzd3B5QWFoUkMzMkZzRlV0dERWS0NKZmc1M1dTSjRNbUVMYk50YXgyLVV6LVFxRVBHbXNZUnMtUDRXQzBLQ1VxNldkYWZSM1hhUmtXVlZmQkZTWG1taGVjdS1meEwtbVZzTEFlMjZDMURoWS1ycGxvam9kSnpGM3pXdjJPZzN2dnA1QUUiLCJpZCI6ImZjX1l3Mmphc2FlQzVHN3ZyMFAtTUNleUEwXzUifQ%3D%3D"
+  },
+  {
+   "question": "How many students go to Clover High School, SC?",
+   "type": "ai_overview",
+   "page_token": "h_25yXicHdBdbtowAABg7TI8FhxTtiKhSgZMCLWjmNgxfplim5Afh5g2a7q87Qo9Q0_V07TaDT59_z5cdW0-f7yXfe9fltPpMAx3l667uPOd6dpp_vL3aqYmd07nplkufi7AY2FW21eD1s8GJdx7sWGz4-x-YAEWGkb7FLMbASjIMY7i3QMxWxFp_KDymh5MTbOM21ZlGB0xe4tTK2kdzWPeQ-YQ5U5hGlqZYnxgGagISAK9Y3EsfUEbtrZC3AQQexW6kQBHVTW7pwJBdcWdHE_zE0CVcGbUYbQwIfaZ2M_TxsZaNsF5QxfHnR-fRPlH8QskO9p_G0rBGRSSBZr_AhLuZ4JzYJ0ANlVF2tqMB2qd1kzmtb2Rq6i3pVV2jG4nSUvFCWCjDUyNkicONko6RFBXJZyNpnYt56eBuwiZkBZnp7wIHdEBTSw2UDfWG-6gGiaFeV3Byf_r1e-i7Zf-ubt8AbQ9iwM",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=h_25yXicHdBdbtowAABg7TI8FhxTtiKhSgZMCLWjmNgxfplim5Afh5g2a7q87Qo9Q0_V07TaDT59_z5cdW0-f7yXfe9fltPpMAx3l667uPOd6dpp_vL3aqYmd07nplkufi7AY2FW21eD1s8GJdx7sWGz4-x-YAEWGkb7FLMbASjIMY7i3QMxWxFp_KDymh5MTbOM21ZlGB0xe4tTK2kdzWPeQ-YQ5U5hGlqZYnxgGagISAK9Y3EsfUEbtrZC3AQQexW6kQBHVTW7pwJBdcWdHE_zE0CVcGbUYbQwIfaZ2M_TxsZaNsF5QxfHnR-fRPlH8QskO9p_G0rBGRSSBZr_AhLuZ4JzYJ0ANlVF2tqMB2qd1kzmtb2Rq6i3pVV2jG4nSUvFCWCjDUyNkicONko6RFBXJZyNpnYt56eBuwiZkBZnp7wIHdEBTSw2UDfWG-6gGiaFeV3Byf_r1e-i7Zf-ubt8AbQ9iwM",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlUzVmxha1ZNWmxZelJHWldVMGxKZWtGalVEWkphR0pvZWxWNWVYZ3dlVUpPY0RKR2J6TmlOM2xaYWpadlJVWmllVmhEWHpKUk1GcFNjazlVVGxoUFZFaElXVmxGZFhWRWNYWmZXWGRyTVhVemJ6RllOWGR1YlZWd1VSSVhXWGN5YW1GellXVkROVWMzZG5Jd1VDMU5RMlY1UVRBYUlrRkVjM0k1WmxGdlpUWnRlbkYwZVdaalJHcFVNVk5ZUm14bFRWQnNObWxRUmxFIiwiZmN2IjoiMyIsImVpIjoiWXcyamFzYWVDNUc3dnIwUC1NQ2V5QTAiLCJxYyI6IkNpRmpiRzkyWlhJZ2FHbG5hQ0J6WTJodmIyd2djMjkxZEdnZ1kyRnliMnhwYm1FUUFIMmlsem9fIiwicXVlc3Rpb24iOiJIb3cgbWFueSBzdHVkZW50cyBnbyB0byBDbG92ZXIgSGlnaCBTY2hvb2wsIFNDPyIsImxrIjoiR2kxb2IzY2diV0Z1ZVNCemRIVmtaVzUwY3lCbmJ5QjBieUJqYkc5MlpYSWdhR2xuYUNCelkyaHZiMndnYzJNIiwiYnMiOiJjMzJRdXc2Q1FCQkZZN3VWOWZySVZWc05rUS1RUkFycEtheFhXRmdpN0NUc0l2SHZSUkFrUnUwbW1YdnVtUXc3c2RWWkNZdk13Q3FKelI0cVN4Vk1wSWh5WkJxaDc3bHJqdnB2eUVUc3dweUFhaFJDMzJGc0ZVdHREVktDSmZnNTNXU0o0TW1FTGJOdGF4Mi1Vei1RcUVQR21zWVJzLVA0V0MwS0NVcTZXZGFmUjNYYVJrV1ZWZkJGU1htbWhlY3UtZnhMLW1Wc0xBZTI2QzFEaFktcnBsb2pvZEp6RjN6V3YyT2czdnZwNUFFIiwiaWQiOiJmY19ZdzJqYXNhZUM1Rzd2cjBQLU1DZXlBMF81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlUzVmxha1ZNWmxZelJHWldVMGxKZWtGalVEWkphR0pvZWxWNWVYZ3dlVUpPY0RKR2J6TmlOM2xaYWpadlJVWmllVmhEWHpKUk1GcFNjazlVVGxoUFZFaElXVmxGZFhWRWNYWmZXWGRyTVhVemJ6RllOWGR1YlZWd1VSSVhXWGN5YW1GellXVkROVWMzZG5Jd1VDMU5RMlY1UVRBYUlrRkVjM0k1WmxGdlpUWnRlbkYwZVdaalJHcFVNVk5ZUm14bFRWQnNObWxRUmxFIiwiZmN2IjoiMyIsImVpIjoiWXcyamFzYWVDNUc3dnIwUC1NQ2V5QTAiLCJxYyI6IkNpRmpiRzkyWlhJZ2FHbG5hQ0J6WTJodmIyd2djMjkxZEdnZ1kyRnliMnhwYm1FUUFIMmlsem9fIiwicXVlc3Rpb24iOiJIb3cgbWFueSBzdHVkZW50cyBnbyB0byBDbG92ZXIgSGlnaCBTY2hvb2wsIFNDPyIsImxrIjoiR2kxb2IzY2diV0Z1ZVNCemRIVmtaVzUwY3lCbmJ5QjBieUJqYkc5MlpYSWdhR2xuYUNCelkyaHZiMndnYzJNIiwiYnMiOiJjMzJRdXc2Q1FCQkZZN3VWOWZySVZWc05rUS1RUkFycEtheFhXRmdpN0NUc0l2SHZSUkFrUnUwbW1YdnVtUXc3c2RWWkNZdk13Q3FKelI0cVN4Vk1wSWh5WkJxaDc3bHJqdnB2eUVUc3dweUFhaFJDMzJGc0ZVdHREVktDSmZnNTNXU0o0TW1FTGJOdGF4Mi1Vei1RcUVQR21zWVJzLVA0V0MwS0NVcTZXZGFmUjNYYVJrV1ZWZkJGU1htbWhlY3UtZnhMLW1Wc0xBZTI2QzFEaFktcnBsb2pvZEp6RjN6V3YyT2czdnZwNUFFIiwiaWQiOiJmY19ZdzJqYXNhZUM1Rzd2cjBQLU1DZXlBMF81In0%3D"
+  },
+  {
+   "question": "What is the name of the new high school in Clover, South Carolina?",
+   "type": "ai_overview",
+   "page_token": "cq1trXicHdFNbptAGIBh5TJZxoBFWixZkQk_NjI0M8yPPZsKZmzG8TdA6lEgs8tduu6BeppGPcCrZ_F-_oZLf_1790dbO95Wi8U0TQ_dMHRwepCDWTS3j14uZAPQNvK6evz26D-d5Todpufn2xQjOo4swV4diB0yoatgmIjDL20Wv9T5yAnvPsqtpiQdfQwq2xNwtZOOciGQ6aZjEBGS6ZLwTB-NnSvYzI2Zz7wXRtICU6N2ogd76jPTBLZuGH5rHBxqqDTdilHlqUUGQpzpsAmyqjXUb_MQfVkN6guNAkgUCFx63z3O7YFd55Tzwf3IdUE8f1ctu1luGanznScBUkKUqE3kEbbxmK8TnI_7lg5LQfBeJJug9SMsgzkoeeW--osC7bcZC1tghdjGOtVKKFe8HQ-VFrT0sVOBfI3RnvqJOEBcxsMFUezkKxhK5xthERKOXaTTSEHklVfoa2PDU15ZzMUkpvuzfF8v7_9_WP88G7safw3dPxsvmPE",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=cq1trXicHdFNbptAGIBh5TJZxoBFWixZkQk_NjI0M8yPPZsKZmzG8TdA6lEgs8tduu6BeppGPcCrZ_F-_oZLf_1790dbO95Wi8U0TQ_dMHRwepCDWTS3j14uZAPQNvK6evz26D-d5Todpufn2xQjOo4swV4diB0yoatgmIjDL20Wv9T5yAnvPsqtpiQdfQwq2xNwtZOOciGQ6aZjEBGS6ZLwTB-NnSvYzI2Zz7wXRtICU6N2ogd76jPTBLZuGH5rHBxqqDTdilHlqUUGQpzpsAmyqjXUb_MQfVkN6guNAkgUCFx63z3O7YFd55Tzwf3IdUE8f1ctu1luGanznScBUkKUqE3kEbbxmK8TnI_7lg5LQfBeJJug9SMsgzkoeeW--osC7bcZC1tghdjGOtVKKFe8HQ-VFrT0sVOBfI3RnvqJOEBcxsMFUezkKxhK5xthERKOXaTTSEHklVfoa2PDU15ZzMUkpvuzfF8v7_9_WP88G7safw3dPxsvmPE",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlUzVmxha1ZNWmxZelJHWldVMGxKZWtGalVEWkphR0pvZWxWNWVYZ3dlVUpPY0RKR2J6TmlOM2xaYWpadlJVWmllVmhEWHpKUk1GcFNjazlVVGxoUFZFaElXVmxGZFhWRWNYWmZXWGRyTVhVemJ6RllOWGR1YlZWd1VSSVhXWGN5YW1GellXVkROVWMzZG5Jd1VDMU5RMlY1UVRBYUlrRkVjM0k1WmxGdlpUWnRlbkYwZVdaalJHcFVNVk5ZUm14bFRWQnNObWxRUmxFIiwiZmN2IjoiMyIsImVpIjoiWXcyamFzYWVDNUc3dnIwUC1NQ2V5QTAiLCJxYyI6IkNpRmpiRzkyWlhJZ2FHbG5hQ0J6WTJodmIyd2djMjkxZEdnZ1kyRnliMnhwYm1FUUFIMmlsem9fIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBuYW1lIG9mIHRoZSBuZXcgaGlnaCBzY2hvb2wgaW4gQ2xvdmVyLCBTb3V0aCBDYXJvbGluYT8iLCJsayI6IkdoeHVaWGNnYUdsbmFDQnpZMmh2YjJ3Z2FXNGdZMnh2ZG1WeUlITmoiLCJicyI6ImMzMlF1dzZDUUJCRlk3dVY5ZnJJVlZzTmtRLVFSQXJwS2F4WFdGZ2k3Q1RzSXZIdlJSQWtSdTBtbVh2dW1RdzdzZFZaQ1l2TXdDcUp6UjRxU3hWTXBJaHlaQnFoNzdscmp2cHZ5RVRzd3B5QWFoUkMzMkZzRlV0dERWS0NKZmc1M1dTSjRNbUVMYk50YXgyLVV6LVFxRVBHbXNZUnMtUDRXQzBLQ1VxNldkYWZSM1hhUmtXVlZmQkZTWG1taGVjdS1meEwtbVZzTEFlMjZDMURoWS1ycGxvam9kSnpGM3pXdjJPZzN2dnA1QUUiLCJpZCI6ImZjX1l3Mmphc2FlQzVHN3ZyMFAtTUNleUEwXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlUzVmxha1ZNWmxZelJHWldVMGxKZWtGalVEWkphR0pvZWxWNWVYZ3dlVUpPY0RKR2J6TmlOM2xaYWpadlJVWmllVmhEWHpKUk1GcFNjazlVVGxoUFZFaElXVmxGZFhWRWNYWmZXWGRyTVhVemJ6RllOWGR1YlZWd1VSSVhXWGN5YW1GellXVkROVWMzZG5Jd1VDMU5RMlY1UVRBYUlrRkVjM0k1WmxGdlpUWnRlbkYwZVdaalJHcFVNVk5ZUm14bFRWQnNObWxRUmxFIiwiZmN2IjoiMyIsImVpIjoiWXcyamFzYWVDNUc3dnIwUC1NQ2V5QTAiLCJxYyI6IkNpRmpiRzkyWlhJZ2FHbG5hQ0J6WTJodmIyd2djMjkxZEdnZ1kyRnliMnhwYm1FUUFIMmlsem9fIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBuYW1lIG9mIHRoZSBuZXcgaGlnaCBzY2hvb2wgaW4gQ2xvdmVyLCBTb3V0aCBDYXJvbGluYT8iLCJsayI6IkdoeHVaWGNnYUdsbmFDQnpZMmh2YjJ3Z2FXNGdZMnh2ZG1WeUlITmoiLCJicyI6ImMzMlF1dzZDUUJCRlk3dVY5ZnJJVlZzTmtRLVFSQXJwS2F4WFdGZ2k3Q1RzSXZIdlJSQWtSdTBtbVh2dW1RdzdzZFZaQ1l2TXdDcUp6UjRxU3hWTXBJaHlaQnFoNzdscmp2cHZ5RVRzd3B5QWFoUkMzMkZzRlV0dERWS0NKZmc1M1dTSjRNbUVMYk50YXgyLVV6LVFxRVBHbXNZUnMtUDRXQzBLQ1VxNldkYWZSM1hhUmtXVlZmQkZTWG1taGVjdS1meEwtbVZzTEFlMjZDMURoWS1ycGxvam9kSnpGM3pXdjJPZzN2dnA1QUUiLCJpZCI6ImZjX1l3Mmphc2FlQzVHN3ZyMFAtTUNleUEwXzUifQ%3D%3D"
+  },
+  {
+   "question": "What is Clover, SC known for?",
+   "type": "ai_overview",
+   "page_token": "f8IDznicHdBNbqMwGABQzWW6bDAWmZlI0UgUmgQFj_iwsfGmAjvBARPIxPlj17vMqXqaVt2_1Xv_bw_H7uPH1Tg3nhez2e12e26GobG7ZzX0s-r8OKqZqqytK9Ut5j_n6M9eLePLJnw5bcKMjWMRgUdjsmZrc-P8d5x7yAHVskYF5919L2khFU-DqiUvKS7mu9UvXPteoKNsqjzjZNygcuqQ6hLOe7mpWPnIOZlyLBET5lxPFgpE2K7VpMLhhWHrw8o5as2dWThpAdkuIl8o-VtEOqfxOK9bSTlzI6EdqpG5AG8eqg_WIMhWtxZpaooaDzg_Fvd0giRdJaXwEkEZlMIPcGy01FNyKgUxkqUIJu2rNsy2DEVS2DANh0PGYFKt7Rl7DfLerUtf9mnvIGuTHDy4qghIzpBgLWCWPe3VdYmfvj-Xb_veLcZ_Q_MJ9KOC-A",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=f8IDznicHdBNbqMwGABQzWW6bDAWmZlI0UgUmgQFj_iwsfGmAjvBARPIxPlj17vMqXqaVt2_1Xv_bw_H7uPH1Tg3nhez2e12e26GobG7ZzX0s-r8OKqZqqytK9Ut5j_n6M9eLePLJnw5bcKMjWMRgUdjsmZrc-P8d5x7yAHVskYF5919L2khFU-DqiUvKS7mu9UvXPteoKNsqjzjZNygcuqQ6hLOe7mpWPnIOZlyLBET5lxPFgpE2K7VpMLhhWHrw8o5as2dWThpAdkuIl8o-VtEOqfxOK9bSTlzI6EdqpG5AG8eqg_WIMhWtxZpaooaDzg_Fvd0giRdJaXwEkEZlMIPcGy01FNyKgUxkqUIJu2rNsy2DEVS2DANh0PGYFKt7Rl7DfLerUtf9mnvIGuTHDy4qghIzpBgLWCWPe3VdYmfvj-Xb_veLcZ_Q_MJ9KOC-A",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlUzVmxha1ZNWmxZelJHWldVMGxKZWtGalVEWkphR0pvZWxWNWVYZ3dlVUpPY0RKR2J6TmlOM2xaYWpadlJVWmllVmhEWHpKUk1GcFNjazlVVGxoUFZFaElXVmxGZFhWRWNYWmZXWGRyTVhVemJ6RllOWGR1YlZWd1VSSVhXWGN5YW1GellXVkROVWMzZG5Jd1VDMU5RMlY1UVRBYUlrRkVjM0k1WmxGdlpUWnRlbkYwZVdaalJHcFVNVk5ZUm14bFRWQnNObWxRUmxFIiwiZmN2IjoiMyIsImVpIjoiWXcyamFzYWVDNUc3dnIwUC1NQ2V5QTAiLCJxYyI6IkNpRmpiRzkyWlhJZ2FHbG5hQ0J6WTJodmIyd2djMjkxZEdnZ1kyRnliMnhwYm1FUUFIMmlsem9fIiwicXVlc3Rpb24iOiJXaGF0IGlzIENsb3ZlciwgU0Mga25vd24gZm9yPyIsImxrIjoiR2h0M2FHRjBJR2x6SUdOc2IzWmxjaUJ6WXlCcmJtOTNiaUJtYjNJIiwiYnMiOiJjMzJRdXc2Q1FCQkZZN3VWOWZySVZWc05rUS1RUkFycEtheFhXRmdpN0NUc0l2SHZSUkFrUnUwbW1YdnVtUXc3c2RWWkNZdk13Q3FKelI0cVN4Vk1wSWh5WkJxaDc3bHJqdnB2eUVUc3dweUFhaFJDMzJGc0ZVdHREVktDSmZnNTNXU0o0TW1FTGJOdGF4Mi1Vei1RcUVQR21zWVJzLVA0V0MwS0NVcTZXZGFmUjNYYVJrV1ZWZkJGU1htbWhlY3UtZnhMLW1Wc0xBZTI2QzFEaFktcnBsb2pvZEp6RjN6V3YyT2czdnZwNUFFIiwiaWQiOiJmY19ZdzJqYXNhZUM1Rzd2cjBQLU1DZXlBMF81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlUzVmxha1ZNWmxZelJHWldVMGxKZWtGalVEWkphR0pvZWxWNWVYZ3dlVUpPY0RKR2J6TmlOM2xaYWpadlJVWmllVmhEWHpKUk1GcFNjazlVVGxoUFZFaElXVmxGZFhWRWNYWmZXWGRyTVhVemJ6RllOWGR1YlZWd1VSSVhXWGN5YW1GellXVkROVWMzZG5Jd1VDMU5RMlY1UVRBYUlrRkVjM0k1WmxGdlpUWnRlbkYwZVdaalJHcFVNVk5ZUm14bFRWQnNObWxRUmxFIiwiZmN2IjoiMyIsImVpIjoiWXcyamFzYWVDNUc3dnIwUC1NQ2V5QTAiLCJxYyI6IkNpRmpiRzkyWlhJZ2FHbG5hQ0J6WTJodmIyd2djMjkxZEdnZ1kyRnliMnhwYm1FUUFIMmlsem9fIiwicXVlc3Rpb24iOiJXaGF0IGlzIENsb3ZlciwgU0Mga25vd24gZm9yPyIsImxrIjoiR2h0M2FHRjBJR2x6SUdOc2IzWmxjaUJ6WXlCcmJtOTNiaUJtYjNJIiwiYnMiOiJjMzJRdXc2Q1FCQkZZN3VWOWZySVZWc05rUS1RUkFycEtheFhXRmdpN0NUc0l2SHZSUkFrUnUwbW1YdnVtUXc3c2RWWkNZdk13Q3FKelI0cVN4Vk1wSWh5WkJxaDc3bHJqdnB2eUVUc3dweUFhaFJDMzJGc0ZVdHREVktDSmZnNTNXU0o0TW1FTGJOdGF4Mi1Vei1RcUVQR21zWVJzLVA0V0MwS0NVcTZXZGFmUjNYYVJrV1ZWZkJGU1htbWhlY3UtZnhMLW1Wc0xBZTI2QzFEaFktcnBsb2pvZEp6RjN6V3YyT2czdnZwNUFFIiwiaWQiOiJmY19ZdzJqYXNhZUM1Rzd2cjBQLU1DZXlBMF81In0%3D"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Home | Clover High School",
+   "link": "https://www.clover.k12.sc.us/CHS",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWAHrOzAVd-RMWFdWfLnUEwvBnX-IDw7RYYLgAnpK3Rg_4IQ0vRzAuAzc4dxVLT0nOt6cbifCCTSQXpwiZc0YzKuPoa4hRD8CAWbmgadA5frMiYHlP_nARGg&ved=2ahUKEwiG3JrY5-SWAxWRna8BHXigB9kQFnoECEUQAQ&uoh=1",
+   "displayed_link": "https://www.clover.k12.sc.us \u203a CHS",
+   "favicon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAAAwBQCdASocABwAPtE-tFooIigoFAEAGglmAMimIAHI8pyBsI3fwgP1un9NwGzUUyGTYAD-_Spufzqzn6H05LFZUf__HM1ceRrNbHifAOZ3TstRP_8bhIGS9f1Ll_5IfU7Y-yYPhVD-jeULsEh6p_bY4grbV5zr8L7OvTaUH2v1n-Vdd5WwOGEzmrhQzim7A_GvchgOYci6wUBZf-6kyuhmM1QyL9ZDVAN8-XNivNXtxOsX6hTM8xpfxrcAMnH90s9eit9yQY7In-h0Dom1V3astpV8kitXwakht1-G5hE8EpIU_AO_6pFwsbBbL9JoAAA.webp",
+   "snippet": "Clover High School \u00b7 calendar \u00b7 parent portal \u00b7 food service \u00b7 transportation \u00b7 peachjar \u00b7 registration \u00b7 SC Curriculum Standards ...",
+   "snippet_highlighted_words": [
+    "Clover High School",
+    "SC"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "Contact Us",
+      "link": "https://www.clover.k12.sc.us/o/chs/page/contact-us",
+      "snippet": "Clover High School is located at 1625 Highway 55 East in Clover ..."
+     },
+     {
+      "title": "Staff Directory",
+      "link": "https://www.clover.k12.sc.us/o/chs/staff",
+      "snippet": "Jump to Page. Find Us. Clover High School1625 Highway 55 ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Clover High School \u00b7 calendar \u00b7 parent portal \u00b7 food service \u00b7 transportation \u00b7 peachjar \u00b7 registration \u00b7 SC Curriculum Standards ...",
+     "source_info_link": "https://www.clover.k12.sc.us/CHS",
+     "icon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAAAwBQCdASocABwAPtE-tFooIigoFAEAGglmAMimIAHI8pyBsI3fwgP1un9NwGzUUyGTYAD-_Spufzqzn6H05LFZUf__HM1ceRrNbHifAOZ3TstRP_8bhIGS9f1Ll_5IfU7Y-yYPhVD-jeULsEh6p_bY4grbV5zr8L7OvTaUH2v1n-Vdd5WwOGEzmrhQzim7A_GvchgOYci6wUBZf-6kyuhmM1QyL9ZDVAN8-XNivNXtxOsX6hTM8xpfxrcAMnH90s9eit9yQY7In-h0Dom1V3astpV8kitXwakht1-G5hE8EpIU_AO_6pFwsbBbL9JoAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Clover School District"
+  },
+  {
+   "position": 2,
+   "title": "Clover High School",
+   "link": "https://en.wikipedia.org/wiki/Clover_High_School",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaAHrOzAV4JC4TODV9bsrnhbUP1tjBC7N1O025x8VztIUwz1VYb9uKVnDoGInLrMMJ-eaeyxjvYiRlvafGXFjiLfvTs4mlmCsyNKD3herv8Kg8jZgHu8-yAEt12SuZrgF9hYTm371cGpt&ved=2ahUKEwiG3JrY5-SWAxWRna8BHXigB9kQFnoECEYQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Clover_High_School",
+   "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+   "snippet": "Clover High School is a public high school located in Clover, South Carolina, United States, about 28 miles from Charlotte. It is the only high school in ...",
+   "snippet_highlighted_words": [
+    "Clover High School",
+    "South Carolina"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Clover High School is a public high school located in Clover, South Carolina, United States, about 28 miles from Charlotte. It is the only high school in ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Clover_High_School",
+     "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Clover_High_School#:~:text=Clover%20High%20School%20is%20a,in%20the%20Clover%20School%20District."
+  },
+  {
+   "position": 3,
+   "title": "Clover High School - South Carolina",
+   "link": "https://www.usnews.com/education/best-high-schools/south-carolina/districts/york-02/clover-high-school-17739",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpAEB6zswFWz9GPWu1PQBTd-1trqOrEQ3S0qxYgpJVddPMmuGrTQGFCb9GGnzgCuO8sM0taMgZSEYRnUiNn3O6JUt0eWMbHWb0t86b_1LWfjs6j_aICbcl74VR54baSXXNHqG972ldxoaFH8sVHks-RZl_-5p17fpEh-nuySWxxLyBM5Mh4_rMfaxkuK1Grt9FOxrrp_RG_uuZs_bB61Zp1tnLkWmqw&ved=2ahUKEwiG3JrY5-SWAxWRna8BHXigB9kQFnoECE8QAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a ... \u203a York 02",
+   "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp",
+   "snippet": "Overview of Clover High School. Clover High School is ranked 52nd within South Carolina. Students have the opportunity to take Advanced Placement\u00ae coursework ...",
+   "snippet_highlighted_words": [
+    "Clover High School",
+    "Clover High School",
+    "South Carolina"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Overview of Clover High School. Clover High School is ranked 52nd within South Carolina. Students have the opportunity to take Advanced Placement\u00ae coursework ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/south-carolina/districts/york-02/clover-high-school-17739",
+     "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/south-carolina/districts/york-02/clover-high-school-17739#:~:text=Overview%20of%20Clover%20High%20School,Advanced%20Placement%C2%AE%20coursework%20and%20exams."
+  },
+  {
+   "position": 4,
+   "title": "Ninth Grade Campus",
+   "link": "https://www.clover.k12.sc.us/o/ngc",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWgHrOzAVzIKIysaKvnfRKtUN_FsFmljH_-iTRKjkdYhy2Ho13aPn7WbegWAXikwytZXKOn-CGg9RizIRdYcuG28Mt16A2KlbWa5dvmg3pPdHd-skGZQPgMSI-w&ved=2ahUKEwiG3JrY5-SWAxWRna8BHXigB9kQFnoECHQQAQ&uoh=1",
+   "displayed_link": "https://www.clover.k12.sc.us \u203a ngc",
+   "favicon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAAAwBQCdASocABwAPtE-tFooIigoFAEAGglmAMimIAHI8pyBsI3fwgP1un9NwGzUUyGTYAD-_Spufzqzn6H05LFZUf__HM1ceRrNbHifAOZ3TstRP_8bhIGS9f1Ll_5IfU7Y-yYPhVD-jeULsEh6p_bY4grbV5zr8L7OvTaUH2v1n-Vdd5WwOGEzmrhQzim7A_GvchgOYci6wUBZf-6kyuhmM1QyL9ZDVAN8-XNivNXtxOsX6hTM8xpfxrcAMnH90s9eit9yQY7In-h0Dom1V3astpV8kitXwakht1-G5hE8EpIU_AO_6pFwsbBbL9JoAAA.webp",
+   "snippet": "Clover High School Student Handbook \u00b7 Teacher Links. Teacher Links. More Show ... SC Curriculum standards. About. Student writing. The Ninth Grade Campus is ...",
+   "snippet_highlighted_words": [
+    "Clover High School",
+    "SC"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Clover High School Student Handbook \u00b7 Teacher Links. Teacher Links. More Show ... SC Curriculum standards. About. Student writing. The Ninth Grade Campus is ...",
+     "source_info_link": "https://www.clover.k12.sc.us/o/ngc",
+     "icon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAAAwBQCdASocABwAPtE-tFooIigoFAEAGglmAMimIAHI8pyBsI3fwgP1un9NwGzUUyGTYAD-_Spufzqzn6H05LFZUf__HM1ceRrNbHifAOZ3TstRP_8bhIGS9f1Ll_5IfU7Y-yYPhVD-jeULsEh6p_bY4grbV5zr8L7OvTaUH2v1n-Vdd5WwOGEzmrhQzim7A_GvchgOYci6wUBZf-6kyuhmM1QyL9ZDVAN8-XNivNXtxOsX6hTM8xpfxrcAMnH90s9eit9yQY7In-h0Dom1V3astpV8kitXwakht1-G5hE8EpIU_AO_6pFwsbBbL9JoAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Clover School District",
+   "read_more_link": "https://www.clover.k12.sc.us/o/ngc#:~:text=Ninth%20Grade%20Campus&text=SC%20Curriculum%20standards,Blue%20Eagles%20learn%20to%20fly."
+  },
+  {
+   "position": 5,
+   "title": "Clover School District: Home",
+   "link": "https://www.clover.k12.sc.us/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVQHrOzAVPBbBWw4ReRs55XTG6BU-hvKol_4earcC3_Q1jV_fDGdP1PUARxdiq1mMvtx64BzWEhXzCWwOEnaoCyLE4afxiCDBSuqVUcWPetY-pmBvq1s&ved=2ahUKEwiG3JrY5-SWAxWRna8BHXigB9kQFnoECHAQAQ&uoh=1",
+   "displayed_link": "https://www.clover.k12.sc.us",
+   "favicon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAAAwBQCdASocABwAPtE-tFooIigoFAEAGglmAMimIAHI8pyBsI3fwgP1un9NwGzUUyGTYAD-_Spufzqzn6H05LFZUf__HM1ceRrNbHifAOZ3TstRP_8bhIGS9f1Ll_5IfU7Y-yYPhVD-jeULsEh6p_bY4grbV5zr8L7OvTaUH2v1n-Vdd5WwOGEzmrhQzim7A_GvchgOYci6wUBZf-6kyuhmM1QyL9ZDVAN8-XNivNXtxOsX6hTM8xpfxrcAMnH90s9eit9yQY7In-h0Dom1V3astpV8kitXwakht1-G5hE8EpIU_AO_6pFwsbBbL9JoAAA.webp",
+   "snippet": "1428 Cannonball Run, York, SC 29745, USA ... Not every budding author sees his or her name on a book jacket while still in high school, but Clover High School ( ...",
+   "snippet_highlighted_words": [
+    "SC",
+    "Clover High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "1428 Cannonball Run, York, SC 29745, USA ... Not every budding author sees his or her name on a book jacket while still in high school, but Clover High School ( ...",
+     "source_info_link": "https://www.clover.k12.sc.us/",
+     "icon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAAAwBQCdASocABwAPtE-tFooIigoFAEAGglmAMimIAHI8pyBsI3fwgP1un9NwGzUUyGTYAD-_Spufzqzn6H05LFZUf__HM1ceRrNbHifAOZ3TstRP_8bhIGS9f1Ll_5IfU7Y-yYPhVD-jeULsEh6p_bY4grbV5zr8L7OvTaUH2v1n-Vdd5WwOGEzmrhQzim7A_GvchgOYci6wUBZf-6kyuhmM1QyL9ZDVAN8-XNivNXtxOsX6hTM8xpfxrcAMnH90s9eit9yQY7In-h0Dom1V3astpV8kitXwakht1-G5hE8EpIU_AO_6pFwsbBbL9JoAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Clover School District",
+   "read_more_link": "https://www.clover.k12.sc.us/#:~:text=1428%20Cannonball%20Run%2C%20York%2C%20SC,29745%2C%20USA&text=Find%20Us"
+  },
+  {
+   "position": 6,
+   "title": "Clover High School - South Carolina",
+   "link": "https://www.mapquest.com/us/south-carolina/clover-high-school-3617584",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAVCwVWIXYbBlmZe5_J7fTfToskH-AUi_SIVkKMfttaxJE2WcaTc2fdiExodxC19BcfTJ6nmzj_8kb_nu8ccKaC_zwCI8PZgModComxX7rVDddWJl7yjRSL-2XhWMjFIdABXyzTkrkH8su84zDYs3_JPbJ3DIZl-3gH&ved=2ahUKEwiG3JrY5-SWAxWRna8BHXigB9kQFnoECG0QAQ&uoh=1",
+   "displayed_link": "https://www.mapquest.com \u203a ... \u203a Clover \u203a 29710",
+   "favicon": "https://serpapi.com/images/i/UklGRgwBAABXRUJQVlA4IAABAADwBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHAnBD1EskjkoPFA37Mh51iL7_EZKvKpB-RmfBAaMU9viDcAAP72B_N9t2ykYVP5BUH1Cpa5xihCJrd0UVo4oC6-MkrN9Vjf89_qkDsaxAoKA2HnFnnZ6-yfknZDxSwj4L6fTpJmfWufrmCBmcQPPeSGsxkRZmZKnrkWMBpfYV8O4JKQAMJI-qXcObxk10XwmkZiTYEYNU6fafhvl6x-XM3oC5TMsScmKKFfoePT-Ei8ylBciwMsCurdSG38aB8lnzLxgNLivDqicb8votHngqWj3MSX0JBBN2S7eWmxnSP4OAAA.webp",
+   "snippet": "Clover High School is a comprehensive high school that offers academic track, which includes honors, advanced placement and distance learning curricula to ...",
+   "snippet_highlighted_words": [
+    "Clover High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Clover High School is a comprehensive high school that offers academic track, which includes honors, advanced placement and distance learning curricula to ...",
+     "source_info_link": "https://www.mapquest.com/us/south-carolina/clover-high-school-3617584",
+     "icon": "https://serpapi.com/images/i/UklGRgwBAABXRUJQVlA4IAABAADwBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHAnBD1EskjkoPFA37Mh51iL7_EZKvKpB-RmfBAaMU9viDcAAP72B_N9t2ykYVP5BUH1Cpa5xihCJrd0UVo4oC6-MkrN9Vjf89_qkDsaxAoKA2HnFnnZ6-yfknZDxSwj4L6fTpJmfWufrmCBmcQPPeSGsxkRZmZKnrkWMBpfYV8O4JKQAMJI-qXcObxk10XwmkZiTYEYNU6fafhvl6x-XM3oC5TMsScmKKFfoePT-Ei8ylBciwMsCurdSG38aB8lnzLxgNLivDqicb8votHngqWj3MSX0JBBN2S7eWmxnSP4OAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "MapQuest",
+   "read_more_link": "https://www.mapquest.com/us/south-carolina/clover-high-school-3617584#:~:text=Clover%20High%20School%20is%20a,prepare%20students%20for%20further%20studies."
+  },
+  {
+   "position": 7,
+   "title": "Clover High School",
+   "link": "https://www.visityorkcounty.com/listing/clover-high-school/1715/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeAHrOzAVn2VbZcc9x7Kt2wLhUua7dQggi76A7sBqKujlvcz8GAuqiN1_5Ic8BNNOgMOhP2420ncp0YgqJOvKf34FDjfxn4pcjDMvWwv27vfWSedb-_hbnrqNlprsFadYZQEGmMDnUe3Q6GweQ4NDGkP68pNzGM0BFw&ved=2ahUKEwiG3JrY5-SWAxWRna8BHXigB9kQFnoECHIQAQ&uoh=1",
+   "displayed_link": "https://www.visityorkcounty.com \u203a listing \u203a clover-high-...",
+   "favicon": "https://serpapi.com/images/i/UklGRmQAAABXRUJQVlA4IFgAAABQAgCdASoQABAAAsBMJQBOgCHw-pFWZZdo44AA_vo4OCn85RocA5m6XEgpcTalO_1FHhhXly_JXwIDXOepXRb2GTelVTVOjb1Eu3TBi09UUM0aLmCY2zAA.webp",
+   "snippet": "Clover High School is a public high school located in Clover, South Carolina, United States, about 28 miles from Charlotte.",
+   "snippet_highlighted_words": [
+    "Clover High School",
+    "South Carolina"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Clover High School is a public high school located in Clover, South Carolina, United States, about 28 miles from Charlotte.",
+     "source_info_link": "https://www.visityorkcounty.com/listing/clover-high-school/1715/",
+     "icon": "https://serpapi.com/images/i/UklGRmQAAABXRUJQVlA4IFgAAABQAgCdASoQABAAAsBMJQBOgCHw-pFWZZdo44AA_vo4OCn85RocA5m6XEgpcTalO_1FHhhXly_JXwIDXOepXRb2GTelVTVOjb1Eu3TBi09UUM0aLmCY2zAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Visit York County"
+  },
+  {
+   "position": 8,
+   "title": "Clover High School in SC",
+   "link": "https://www.niche.com/k12/clover-high-school-clover-sc/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAVXOeKITWkfknBhh7z3M0CgyE_4DjpHjQxFcdX5PXZSeaGyWKCoIMlKvqJte8r0TSRvPX7hVHCnBLmAvTdskwsOIyRnY5hu4XliBxenYNWPBe3r7-e8BTMLxGAM20Gj0Z4ZaqJB0myZ7Kx7g&ved=2ahUKEwiG3JrY5-SWAxWRna8BHXigB9kQFnoECG8QAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a South Carolina",
+   "favicon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAACwBgCdASocABwAPtEutFooIagoGAEAGglAGZo7gYv7m0TPt8r_WYdmpcah9WA48zicEtVrCFOGH4nMtJiaAAD-8Mpqn5wztwFeSDXF5YavmSdrcpv67JtS1tKl7uW6N9aR19WH-vT5VtxqndfSU_QIzB4R0m5fNi1eX3h8GYa_8H28-7o-nc3D2GEvZqGTES8muP_UCP_UIYsGh8QXK7V2sBnUP79qQidv_o8__S3xjZZmmXEG69VP00Dn3HuddwtLR_4xf_0PU8NPn060X-47u3VDw39ZbBgpwK3wP0F5tHUWMrTdTbcT_h7ghKmtPgKiKNIvGUNLHBT4VbzlXgvFo7vCP-ot_w6I_hOg9EcgQfabjpYvU6X4xcxi9BIxh2PJomEF2PA_XoL7FtzFNUuyE0IG83Bax0ZYU-dxj0EhgAAA.webp",
+   "snippet": "Clover High School is a highly rated, public school located in CLOVER, SC. It has 2,713 students in grades 9-12 with a student-teacher ratio of 15 to 1.",
+   "snippet_highlighted_words": [
+    "Clover High School",
+    "SC"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Clover High School is a highly rated, public school located in CLOVER, SC. It has 2,713 students in grades 9-12 with a student-teacher ratio of 15 to 1.",
+     "source_info_link": "https://www.niche.com/k12/clover-high-school-clover-sc/",
+     "icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAACwBgCdASocABwAPtEutFooIagoGAEAGglAGZo7gYv7m0TPt8r_WYdmpcah9WA48zicEtVrCFOGH4nMtJiaAAD-8Mpqn5wztwFeSDXF5YavmSdrcpv67JtS1tKl7uW6N9aR19WH-vT5VtxqndfSU_QIzB4R0m5fNi1eX3h8GYa_8H28-7o-nc3D2GEvZqGTES8muP_UCP_UIYsGh8QXK7V2sBnUP79qQidv_o8__S3xjZZmmXEG69VP00Dn3HuddwtLR_4xf_0PU8NPn060X-47u3VDw39ZbBgpwK3wP0F5tHUWMrTdTbcT_h7ghKmtPgKiKNIvGUNLHBT4VbzlXgvFo7vCP-ot_w6I_hOg9EcgQfabjpYvU6X4xcxi9BIxh2PJomEF2PA_XoL7FtzFNUuyE0IG83Bax0ZYU-dxj0EhgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Niche",
+   "read_more_link": "https://www.niche.com/k12/clover-high-school-clover-sc/#:~:text=Clover%20High%20School%20is%20a,ratio%20of%2015%20to%201."
+  },
+  {
+   "position": 9,
+   "title": "Clover (SC) High School Sports",
+   "link": "https://www.maxpreps.com/sc/clover/clover-eagles/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVOiAfzhRY92_yn3lSVmRFTbX7xBLGJo9d3ScUMw7kJaZaiGN9ZAFJfID8vEEvFLR6UlJ7jJ0sX77RCEfXnbulwu9z5TQdoQtZPXLCPbqpc5LWr-SOn9xrZD5mqujk25yO9UQUHA&ved=2ahUKEwiG3JrY5-SWAxWRna8BHXigB9kQFnoECHEQAQ&uoh=1",
+   "displayed_link": "https://www.maxpreps.com \u203a South Carolina",
+   "favicon": "https://serpapi.com/images/i/UklGRiABAABXRUJQVlA4IBQBAACQBgCdASocABwAPtEwtFooIigoGAEAGglsAMcjXhQIMBLJPoAdLB5QCeA92iBTGskLs8r3XyB_v0YQpEDAAP72B9a-IG-P3R_UdqQnvLoZazJ3_hD6b33Zrtz20RZgJiv79VLCko7nwRuKtV_tKX5qfEnzpjwWAKeeC-Hoi40eGvSLyzF7o0Q3576t2nK2-Te2OXHxzP8JnfVwG8zf3faxGWgPLQuWGTGMoX5Uv3_f_4ujvlktm6Hp1ydL_9_LAhZUQlDz38F2gIRo1k1gl_-zBXz_J3X_mzUXtdhkfGXcvCt3-JWt1TUdYyVEimwb_iG__v19FfYkvr0Givdah3CLEq6DV_OFEpkdb5aSt_-sA7lnAAA.webp",
+   "snippet": "Clover High School is renowned for its commitment to developing well-rounded student-athletes who excel both on and off the field. With a wide range of sports ...",
+   "snippet_highlighted_words": [
+    "Clover High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Clover High School is renowned for its commitment to developing well-rounded student-athletes who excel both on and off the field. With a wide range of sports ...",
+     "source_info_link": "https://www.maxpreps.com/sc/clover/clover-eagles/",
+     "icon": "https://serpapi.com/images/i/UklGRiABAABXRUJQVlA4IBQBAACQBgCdASocABwAPtEwtFooIigoGAEAGglsAMcjXhQIMBLJPoAdLB5QCeA92iBTGskLs8r3XyB_v0YQpEDAAP72B9a-IG-P3R_UdqQnvLoZazJ3_hD6b33Zrtz20RZgJiv79VLCko7nwRuKtV_tKX5qfEnzpjwWAKeeC-Hoi40eGvSLyzF7o0Q3576t2nK2-Te2OXHxzP8JnfVwG8zf3faxGWgPLQuWGTGMoX5Uv3_f_4ujvlktm6Hp1ydL_9_LAhZUQlDz38F2gIRo1k1gl_-zBXz_J3X_mzUXtdhkfGXcvCt3-JWt1TUdYyVEimwb_iG__v19FfYkvr0Givdah3CLEq6DV_OFEpkdb5aSt_-sA7lnAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "MaxPreps",
+   "read_more_link": "https://www.maxpreps.com/sc/clover/clover-eagles/#:~:text=Clover%20High%20School%20is%20renowned,a%20wide%20range%20of%20sports"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Clover high school south carolina football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnsEuiMhLFBI-um2Vh_LVp4oEqV3ag:1789070691191&q=Clover+high+school+south+carolina+football&sa=X&ved=2ahUKEwiG3JrY5-SWAxWRna8BHXigB9kQ1QJ6BAh1EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Clover+high+school+south+carolina+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Clover high school south carolina basketball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnsEuiMhLFBI-um2Vh_LVp4oEqV3ag:1789070691191&q=Clover+high+school+south+carolina+basketball&sa=X&ved=2ahUKEwiG3JrY5-SWAxWRna8BHXigB9kQ1QJ6BQiKARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Clover+high+school+south+carolina+basketball"
+  },
+  {
+   "block_position": 1,
+   "query": "Clover high school south carolina yearbook",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnsEuiMhLFBI-um2Vh_LVp4oEqV3ag:1789070691191&q=Clover+high+school+south+carolina+yearbook&sa=X&ved=2ahUKEwiG3JrY5-SWAxWRna8BHXigB9kQ1QJ6BQiMARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Clover+high+school+south+carolina+yearbook"
+  },
+  {
+   "block_position": 1,
+   "query": "Clover high school south carolina staff",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnsEuiMhLFBI-um2Vh_LVp4oEqV3ag:1789070691191&q=Clover+high+school+south+carolina+staff&sa=X&ved=2ahUKEwiG3JrY5-SWAxWRna8BHXigB9kQ1QJ6BQiLARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Clover+high+school+south+carolina+staff"
+  },
+  {
+   "block_position": 1,
+   "query": "Clover high school south carolina alumni",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnsEuiMhLFBI-um2Vh_LVp4oEqV3ag:1789070691191&q=Clover+high+school+south+carolina+alumni&sa=X&ved=2ahUKEwiG3JrY5-SWAxWRna8BHXigB9kQ1QJ6BQiGARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Clover+high+school+south+carolina+alumni"
+  },
+  {
+   "block_position": 1,
+   "query": "Clover High School photos",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnsEuiMhLFBI-um2Vh_LVp4oEqV3ag:1789070691191&q=Clover+High+School+photos&sa=X&ved=2ahUKEwiG3JrY5-SWAxWRna8BHXigB9kQ1QJ6BQiCARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Clover+High+School+photos"
+  },
+  {
+   "block_position": 1,
+   "query": "Clover High School Bell Schedule",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnsEuiMhLFBI-um2Vh_LVp4oEqV3ag:1789070691191&q=Clover+High+School+Bell+Schedule&sa=X&ved=2ahUKEwiG3JrY5-SWAxWRna8BHXigB9kQ1QJ6BAh9EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Clover+High+School+Bell+Schedule"
+  },
+  {
+   "block_position": 1,
+   "query": "Clover High School Choraliers Tickets",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnsEuiMhLFBI-um2Vh_LVp4oEqV3ag:1789070691191&q=Clover+High+School+Choraliers+Tickets&sa=X&ved=2ahUKEwiG3JrY5-SWAxWRna8BHXigB9kQ1QJ6BAh6EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Clover+High+School+Choraliers+Tickets"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Clover+High+School%22+South+Carolina&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnsEuiMhLFBI-um2Vh_LVp4oEqV3ag:1789070691191&ei=Yw2jasaeC5G7vr0P-MCeyA0&start=10&sa=N&sstk=AS6-VmKoDjgUjqrKUvkbGTi3pWNUGQeLE7Q6vCnA3AcFxhRU-pWEpp5FqVtWLLq2n8oeINM0_Y8ZZWe_jyABx-nz_aYMMMo2Tga17Q&ved=2ahUKEwiG3JrY5-SWAxWRna8BHXigB9kQ8NMDegQIXBAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Clover+High+School%22+South+Carolina&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnsEuiMhLFBI-um2Vh_LVp4oEqV3ag:1789070691191&ei=Yw2jasaeC5G7vr0P-MCeyA0&start=10&sa=N&sstk=AS6-VmKoDjgUjqrKUvkbGTi3pWNUGQeLE7Q6vCnA3AcFxhRU-pWEpp5FqVtWLLq2n8oeINM0_Y8ZZWe_jyABx-nz_aYMMMo2Tga17Q&ved=2ahUKEwiG3JrY5-SWAxWRna8BHXigB9kQ8tMDegQIXBAE",
+   "3": "https://www.google.com/search?q=%22Clover+High+School%22+South+Carolina&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnsEuiMhLFBI-um2Vh_LVp4oEqV3ag:1789070691191&ei=Yw2jasaeC5G7vr0P-MCeyA0&start=20&sa=N&sstk=AS6-VmKoDjgUjqrKUvkbGTi3pWNUGQeLE7Q6vCnA3AcFxhRU-pWEpp5FqVtWLLq2n8oeINM0_Y8ZZWe_jyABx-nz_aYMMMo2Tga17Q&ved=2ahUKEwiG3JrY5-SWAxWRna8BHXigB9kQ8tMDegQIXBAG",
+   "4": "https://www.google.com/search?q=%22Clover+High+School%22+South+Carolina&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnsEuiMhLFBI-um2Vh_LVp4oEqV3ag:1789070691191&ei=Yw2jasaeC5G7vr0P-MCeyA0&start=30&sa=N&sstk=AS6-VmKoDjgUjqrKUvkbGTi3pWNUGQeLE7Q6vCnA3AcFxhRU-pWEpp5FqVtWLLq2n8oeINM0_Y8ZZWe_jyABx-nz_aYMMMo2Tga17Q&ved=2ahUKEwiG3JrY5-SWAxWRna8BHXigB9kQ8tMDegQIXBAI",
+   "5": "https://www.google.com/search?q=%22Clover+High+School%22+South+Carolina&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnsEuiMhLFBI-um2Vh_LVp4oEqV3ag:1789070691191&ei=Yw2jasaeC5G7vr0P-MCeyA0&start=40&sa=N&sstk=AS6-VmKoDjgUjqrKUvkbGTi3pWNUGQeLE7Q6vCnA3AcFxhRU-pWEpp5FqVtWLLq2n8oeINM0_Y8ZZWe_jyABx-nz_aYMMMo2Tga17Q&ved=2ahUKEwiG3JrY5-SWAxWRna8BHXigB9kQ8tMDegQIXBAK",
+   "6": "https://www.google.com/search?q=%22Clover+High+School%22+South+Carolina&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnsEuiMhLFBI-um2Vh_LVp4oEqV3ag:1789070691191&ei=Yw2jasaeC5G7vr0P-MCeyA0&start=50&sa=N&sstk=AS6-VmKoDjgUjqrKUvkbGTi3pWNUGQeLE7Q6vCnA3AcFxhRU-pWEpp5FqVtWLLq2n8oeINM0_Y8ZZWe_jyABx-nz_aYMMMo2Tga17Q&ved=2ahUKEwiG3JrY5-SWAxWRna8BHXigB9kQ8tMDegQIXBAM",
+   "7": "https://www.google.com/search?q=%22Clover+High+School%22+South+Carolina&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnsEuiMhLFBI-um2Vh_LVp4oEqV3ag:1789070691191&ei=Yw2jasaeC5G7vr0P-MCeyA0&start=60&sa=N&sstk=AS6-VmKoDjgUjqrKUvkbGTi3pWNUGQeLE7Q6vCnA3AcFxhRU-pWEpp5FqVtWLLq2n8oeINM0_Y8ZZWe_jyABx-nz_aYMMMo2Tga17Q&ved=2ahUKEwiG3JrY5-SWAxWRna8BHXigB9kQ8tMDegQIXBAO",
+   "8": "https://www.google.com/search?q=%22Clover+High+School%22+South+Carolina&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnsEuiMhLFBI-um2Vh_LVp4oEqV3ag:1789070691191&ei=Yw2jasaeC5G7vr0P-MCeyA0&start=70&sa=N&sstk=AS6-VmKoDjgUjqrKUvkbGTi3pWNUGQeLE7Q6vCnA3AcFxhRU-pWEpp5FqVtWLLq2n8oeINM0_Y8ZZWe_jyABx-nz_aYMMMo2Tga17Q&ved=2ahUKEwiG3JrY5-SWAxWRna8BHXigB9kQ8tMDegQIXBAQ",
+   "9": "https://www.google.com/search?q=%22Clover+High+School%22+South+Carolina&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnsEuiMhLFBI-um2Vh_LVp4oEqV3ag:1789070691191&ei=Yw2jasaeC5G7vr0P-MCeyA0&start=80&sa=N&sstk=AS6-VmKoDjgUjqrKUvkbGTi3pWNUGQeLE7Q6vCnA3AcFxhRU-pWEpp5FqVtWLLq2n8oeINM0_Y8ZZWe_jyABx-nz_aYMMMo2Tga17Q&ved=2ahUKEwiG3JrY5-SWAxWRna8BHXigB9kQ8tMDegQIXBAS",
+   "10": "https://www.google.com/search?q=%22Clover+High+School%22+South+Carolina&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnsEuiMhLFBI-um2Vh_LVp4oEqV3ag:1789070691191&ei=Yw2jasaeC5G7vr0P-MCeyA0&start=90&sa=N&sstk=AS6-VmKoDjgUjqrKUvkbGTi3pWNUGQeLE7Q6vCnA3AcFxhRU-pWEpp5FqVtWLLq2n8oeINM0_Y8ZZWe_jyABx-nz_aYMMMo2Tga17Q&ved=2ahUKEwiG3JrY5-SWAxWRna8BHXigB9kQ8tMDegQIXBAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Clover+High+School%22+South+Carolina&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Clover+High+School%22+South+Carolina&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Clover+High+School%22+South+Carolina&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Clover+High+School%22+South+Carolina&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Clover+High+School%22+South+Carolina&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Clover+High+School%22+South+Carolina&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Clover+High+School%22+South+Carolina&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Clover+High+School%22+South+Carolina&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Clover+High+School%22+South+Carolina&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Clover+High+School%22+South+Carolina&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Clover+High+School%22+South+Carolina&start=90"
+  }
+ }
+}

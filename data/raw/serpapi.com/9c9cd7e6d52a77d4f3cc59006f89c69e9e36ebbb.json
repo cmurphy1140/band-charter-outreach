@@ -1,0 +1,602 @@
+{
+ "search_information": {
+  "query_displayed": "\"Anthony Wayne High School\" Ohio",
+  "total_results": 86,
+  "time_taken_displayed": 0.38,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Anthony Wayne High School",
+  "type": "Public school in Whitehouse, Ohio",
+  "entity_type": "local_nav",
+  "kgmid": "/m/09zb_8",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/09zb_8&hl=en-US&q=Anthony+Wayne+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F09zb_8&q=Anthony+Wayne+High+School",
+  "place_id": "ChIJCbS0HRRuPIgRhDOaY478MWY",
+  "website": "http://anthonywayneschools.org/",
+  "description": "Anthony Wayne High School is a public high school in Whitehouse, Ohio, a suburb of Toledo. The school has an enrollment of approximately 1,330 students in grades 9\u201312 as of 2019\u201320. The school is named for General Anthony Wayne, who led troops in the nearby Battle of Fallen Timbers during the Northwest Indian War.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa30be63d0e4e933a45c968/images/PrFJgXjbKDPB8CB2Y4boW6FyXVXPqD6E_-cV8LZR5KQ.webp",
+   "link": "https://www.google.com/maps/place/Anthony+Wayne+High+School/data=!4m2!3m1!1s0x0:0x6631fc8e639a3384?sa=X&ved=2ahUKEwiQssOj5uSWAxVXlSsGHWRTB0gQ_BJ6BAgeEAA&hl=en&gl=us"
+  },
+  "review_count": 1,
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Anthony_Wayne_High_School"
+  },
+  "address": "5967 Finzel Rd, Whitehouse, OH 43571",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsYiSux1fI62zq3FzzEHAz9r9gQ1g:1789070312272&q=anthony+wayne+high+school+address&ludocid=7363944554214077316&sa=X&ved=2ahUKEwiQssOj5uSWAxVXlSsGHWRTB0gQ6BN6BAgjEAI"
+   }
+  ],
+  "colors": "White, Blue, Royal blue",
+  "colors_links": [
+   {
+    "text": "White",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsYiSux1fI62zq3FzzEHAz9r9gQ1g:1789070312272&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpibuedk9OYloeXAYNSoz7VYnCfMOgei63SgkOJyo7pYYCcMrOsy64FS9cFmZ9RV-wrfdVgwlHSviOHb3_jBFBSlYOtyvALAGNRJDSm4A0bNeBg-XUHjQE0fEFg39cSpl05TouhcGLavkWGH4bPPPSnhUOOQnORNd6N9mAqQDNMpfvGe7QbWDK-IHVJ_kCaOx0t0Dkqw%3D&sa=X&ved=2ahUKEwiQssOj5uSWAxVXlSsGHWRTB0gQmxN6BAgpEAI"
+   },
+   {
+    "text": "Blue",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsYiSux1fI62zq3FzzEHAz9r9gQ1g:1789070312272&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpvdEmEKP4dQQoWLIwXjhkBjOThA3TO1rl4rjAeqO-nYmJPyGzMyeuoKF7Nypi32kAyulrs4oxi7hnEviLEIA05zvg6BSNuyYn_HJmJBQTWpVK_jBJhHqn-rhQlfVQQUUZkNnfrLxDenKyVEIclu4_hanNWViSTu1EwRzwOF8jlAQWv24V8uG9Mayu5pR05mpZ2H1rak%3D&sa=X&ved=2ahUKEwiQssOj5uSWAxVXlSsGHWRTB0gQmxN6BAgpEAM"
+   },
+   {
+    "text": "Royal blue",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsYiSux1fI62zq3FzzEHAz9r9gQ1g:1789070312272&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ye6clNZgt_uHrkS7PAhkqJzzunkmIY9DcxVRf36oxnRLqLluxtisDRsA6ITqAUzqeYUvqVRObUHWasZaji4YLDKFRN2_n-PGVWSyJlEFiZhv8KnzXQ8FFwizB6sewsfsMHuPV2a3O6VBMPPjQM4YtRbTgnCvxHBJ9vAJb9AOFszh8Af6v_QbXtpMzNlwOP0aF74ykvs%3D&sa=X&ved=2ahUKEwiQssOj5uSWAxVXlSsGHWRTB0gQmxN6BAgpEAQ"
+   }
+  ],
+  "founded": "1951",
+  "school_types": "High school, State school, Co-education, Public school",
+  "school_types_links": [
+   {
+    "text": "High school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsYiSux1fI62zq3FzzEHAz9r9gQ1g:1789070312272&q=High+school&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMppXfNh-OkLk_azmU0uk1AX8WDg6Aey6nZnfzhISz_BahG86fIXhZzQ_5i9gVo2jpkRefi2vb1cuIcbbWsQX1bg-7OrENYaerTHY7HdnuvRnhfrzAYX6L3AXwV7aDhAJzOwNzrmUD5rohW2z_tT5K7UEpTlbZII9bS-dFmXK-YcavWAVtQKRcCFMUB5mSUvoE1jXmZ6RQhMxa-9-UD6hIf2fCwrogui_rxElll9ADuIudol_Cl3EJ3FaZ8XTJZmlGF9_nuyk%3D&sa=X&ved=2ahUKEwiQssOj5uSWAxVXlSsGHWRTB0gQmxN6BAghEAI"
+   },
+   {
+    "text": "State school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsYiSux1fI62zq3FzzEHAz9r9gQ1g:1789070312272&q=State+school&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ybGtCxI0H8z2nV80srIO5hh43iJrpLL9zyTRHToodwNipZCD4kcN2wbzA3OqfyGettl42NpXglwsH4hnJQRSg4KBrFTowpZphOt0qedRcJ2AjDlRBb5gsKMve4bKBwUhzeuXbR6BwTKoSTDf3cXrFq1XiTzArjyAHbtoK5_VrakWXKqAOXEqc8ik6Wo4epY2TtgkfFG-wExNY_O6HKw3QMW0T4ZiRzhmgws7E4ghjgukJfX31A2HbKM5NpwUfYT833H0t74%3D&sa=X&ved=2ahUKEwiQssOj5uSWAxVXlSsGHWRTB0gQmxN6BAghEAM"
+   },
+   {
+    "text": "Co-education",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsYiSux1fI62zq3FzzEHAz9r9gQ1g:1789070312272&q=Co-education&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yVP88BQLNV4l2hiBkjJJlLbAHHsKddt6Z47BP5wM9p4inb3uXILaErIcvp3VyV5WPvDCQxJUm7raxsjWbK8rFUrHgqjN5okwWatL1sYj6jnjrFLauViwoBZWLvngMGUny-8O43oM-G6I-STcroqrDPEV78pGn7LkcavI_R1WimZwozaQwkFOZQ-XLlYX5vpeh6-1cVxafCOTstZ3pD62jpedsf5pdgVNg7wxTa1j7Vy8KRbpy5Hkmr65xrfPys2qh7OOT7A%3D&sa=X&ved=2ahUKEwiQssOj5uSWAxVXlSsGHWRTB0gQmxN6BAghEAQ"
+   },
+   {
+    "text": "Public school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsYiSux1fI62zq3FzzEHAz9r9gQ1g:1789070312272&q=Public+school&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpnRjecyiHCyfvh60pbD8ck5PRN1YHP_sJ4SP5ZvhFW1SCqcU73cy8ciuVYm7MIcM9JKjoj5TcP9yh14TUTaTMZ3No418INxdY9bFHeSRgFp7z0DNGRtsL6_bJdpjGgBl-3gers_6t6A8rbvtRmvQ-WuiwFPUbBlHMpgM_d3fiay3JnhfXFHOTPABcZ-d6REZImM5AVz1x3RRMl9sqM1sGGaC_1xZaNBe9IXbdelHJqpV_I_JSRZWXUG1f9RKgvGArUHX900%3D&sa=X&ved=2ahUKEwiQssOj5uSWAxVXlSsGHWRTB0gQmxN6BAghEAU"
+   }
+  ],
+  "phone": "(419) 877-0466",
+  "raw_hours": "Closed \u00b7 Opens 7 AM Fri",
+  "hours": {
+   "thursday": {
+    "opens": "7\u202fAM",
+    "closes": "3\u202fPM"
+   },
+   "friday": {
+    "opens": "7\u202fAM",
+    "closes": "3\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "7\u202fAM",
+    "closes": "3\u202fPM"
+   },
+   "tuesday": {
+    "opens": "7\u202fAM",
+    "closes": "3\u202fPM"
+   },
+   "wednesday": {
+    "opens": "7\u202fAM",
+    "closes": "3\u202fPM"
+   }
+  },
+  "unclaimed_listing": true,
+  "people_also_search_for": [
+   {
+    "name": "Sylvania Northview High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkfjLnbyNIaMDVnkLHpK-WffSPs70-UC-AhMpacIBnQvarqjOSTboK5GVuNdc3NAx449Y9zB-9XBbTccyOrT4jVLLXrD2jtn3zN2U33OTZMNEJTb4gpxH-KsVEQVs3hH9Z4WB8=w153-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsYiSux1fI62zq3FzzEHAz9r9gQ1g:1789070312272&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ybxgb9VDWwsm2z_lI7zaY-0YuHvae_tUhOhyZ56O4GE-_bMThocouZ6n40XRlMIHjttQhv1_r8kCd2wOHEUe1cS1IbiyXxJwWS7uD06HFk0AsZoFdldEt4PXNbUb9ZkM9ITSPXnrVFk3IemuLyjq_CW8-wiXj7z78UuS7hhuoOvtqngvEQ5QqypbR1mXGmYe5XRV6NbWCAVR2Yu6UBJoT46jWvhwU7j22eWv1qKYE5AzDTkgkXj6DF69oLfI2e1QW8_4ILKgcVqpoUzsR4LcuAhzCGhT&q=Sylvania+Northview+High+School&sa=X&ved=2ahUKEwiQssOj5uSWAxVXlSsGHWRTB0gQs9oBKAB6BAhAEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Sylvania+Northview+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ybxgb9VDWwsm2z_lI7zaY-0YuHvae_tUhOhyZ56O4GE-_bMThocouZ6n40XRlMIHjttQhv1_r8kCd2wOHEUe1cS1IbiyXxJwWS7uD06HFk0AsZoFdldEt4PXNbUb9ZkM9ITSPXnrVFk3IemuLyjq_CW8-wiXj7z78UuS7hhuoOvtqngvEQ5QqypbR1mXGmYe5XRV6NbWCAVR2Yu6UBJoT46jWvhwU7j22eWv1qKYE5AzDTkgkXj6DF69oLfI2e1QW8_4ILKgcVqpoUzsR4LcuAhzCGhT"
+   },
+   {
+    "name": "Sylvania Southview High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmaXEx7sppB-aPha2njayGCqI_yBiDsqdfLyVdWNAYiw0IV4bFHNLPnGGltlZbhh-Jz_te0zOGXwXZaNHfPR4C07-VRqwJpNowRtdBP2IgSFZuv3g2S-eR1aKCV_9Q56PZRINCQ-Q=w153-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsYiSux1fI62zq3FzzEHAz9r9gQ1g:1789070312272&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yYTkVZJ-lVcKC9u2IIPD1y26eqp_ScIxTwJMBR_BQdqFQYQILTnS9zxCFOdR0DIu1oFJ1ydpHojnv8Ga5-iRH6zoxctzNGeq3ojYmISOg96kTseBDG8sPApw3-alHtGxtTWdOT3t1-TU4mXUsFs8zGGkIgL1g85_3-J4gFCcENE0Ttlou5PbupInJHzZ0tXF1R15u1VNaoq7y_jCRnTBegZJjNJuqGTaHRjSWhUYuXA_btL0jOMjTnj3aeR0Tt1Z-6RwPKBMfb2JKXwvcKhBcsRcHNgR&q=Sylvania+Southview+High+School&sa=X&ved=2ahUKEwiQssOj5uSWAxVXlSsGHWRTB0gQs9oBKAB6BAhAEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Sylvania+Southview+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yYTkVZJ-lVcKC9u2IIPD1y26eqp_ScIxTwJMBR_BQdqFQYQILTnS9zxCFOdR0DIu1oFJ1ydpHojnv8Ga5-iRH6zoxctzNGeq3ojYmISOg96kTseBDG8sPApw3-alHtGxtTWdOT3t1-TU4mXUsFs8zGGkIgL1g85_3-J4gFCcENE0Ttlou5PbupInJHzZ0tXF1R15u1VNaoq7y_jCRnTBegZJjNJuqGTaHRjSWhUYuXA_btL0jOMjTnj3aeR0Tt1Z-6RwPKBMfb2JKXwvcKhBcsRcHNgR"
+   },
+   {
+    "name": "Clay High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl5rjlZW_BvRopWVGufoH1M7UM0JLlMQRU94Nc9SgO0qUjkCg3HeTmp3LbfwhDOfIcCCQ-aaO4nizPLC8vqkBI-ACC7iEHRGH2eKLOZhIfgHHD1Dq_soDVxCQ2KK0KoF8mBuNfQwA=w153-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsYiSux1fI62zq3FzzEHAz9r9gQ1g:1789070312272&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yePfmPF_tSfKz7qktGJZPjD7cgFR1ANSqfCP5w92KqCDLMa_udQaWXPPNcMpSbpzPeyJdwx2RhqkmlE8e2AkcjGmG7YWvjGV2m2mKj-XjIZm2JlfLB0q98WhERERhuDZGo08SxAx_ChMN2Ikmo21-AYHhC3B0KrX52Lq2P-oiqG07kna7Fmgi963HKeepW-d8t6J0jx0tyc7ld-23WX6g9HQ5VVYt23oU7KGkTznftl0l0jL2IPcjUufnqEbfqTq88VeFbEwBzqoq4g1mwHYyy4ZlNcI&q=Clay+High+School+(Oregon,+Ohio)&sa=X&ved=2ahUKEwiQssOj5uSWAxVXlSsGHWRTB0gQs9oBKAB6BAhAEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Clay+High+School+%28Oregon%2C+Ohio%29&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yePfmPF_tSfKz7qktGJZPjD7cgFR1ANSqfCP5w92KqCDLMa_udQaWXPPNcMpSbpzPeyJdwx2RhqkmlE8e2AkcjGmG7YWvjGV2m2mKj-XjIZm2JlfLB0q98WhERERhuDZGo08SxAx_ChMN2Ikmo21-AYHhC3B0KrX52Lq2P-oiqG07kna7Fmgi963HKeepW-d8t6J0jx0tyc7ld-23WX6g9HQ5VVYt23oU7KGkTznftl0l0jL2IPcjUufnqEbfqTq88VeFbEwBzqoq4g1mwHYyy4ZlNcI"
+   },
+   {
+    "name": "Springfield High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlEpFbOMpeRvpXM84T2R0X2HoF2FJlyyXjbKGvD8YNU_7qIgw2rlkhQCJh4_ijWv5rJ-7z-XvfsysAfJwYefU12N3R5Kse9a_pOYg56Zu4_wIbmJNwxQ_mr8we91AzYafW3Rqp_JA=w337-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsYiSux1fI62zq3FzzEHAz9r9gQ1g:1789070312272&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yeSNmxidRGOWvigTJt9YR36fBr7ggiXdrNyuSbXSEUCl13tDaT-HGgC_gZxZTMJzTOf32A4cLe8w4Zz0LuUs0k2tR9BFd_-1-G3fAxFSmv3jhbm-YpxPxYBLd4BBFIb7e0mHP_KMhJlTzNoWLAKnzoJBb1mt4p9XZ8kKO0oHtkPkP2EZQSW3NJvaoN9zcWg22jZbju3X05dydG3P955cylDnV6VnR_WX9qjHPVySDBt330WM8tC7frTNAyeLxBkbQdWlBD9usTca4dty1w2tCipMt6obZ3A1pzrX6KMozWWqHZDy_w%3D%3D&q=Springfield+High+School+(Holland,+Ohio)&sa=X&ved=2ahUKEwiQssOj5uSWAxVXlSsGHWRTB0gQs9oBKAB6BAhAEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Springfield+High+School+%28Holland%2C+Ohio%29&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yeSNmxidRGOWvigTJt9YR36fBr7ggiXdrNyuSbXSEUCl13tDaT-HGgC_gZxZTMJzTOf32A4cLe8w4Zz0LuUs0k2tR9BFd_-1-G3fAxFSmv3jhbm-YpxPxYBLd4BBFIb7e0mHP_KMhJlTzNoWLAKnzoJBb1mt4p9XZ8kKO0oHtkPkP2EZQSW3NJvaoN9zcWg22jZbju3X05dydG3P955cylDnV6VnR_WX9qjHPVySDBt330WM8tC7frTNAyeLxBkbQdWlBD9usTca4dty1w2tCipMt6obZ3A1pzrX6KMozWWqHZDy_w%3D%3D"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsYiSux1fI62zq3FzzEHAz9r9gQ1g:1789070312272&q=Anthony+Wayne+High+School&stick=H4sIAAAAAAAAAONgFuLUz9U3sKxKirdQQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1ilXTMK8nIz6tUCE-szEtV8MhMz1AITs7Iz8_Zwcp4i02S4Y1DRWAuX1PnknDDQ6zaizZHJAXbpId9Pw4AuxaoQH8AAAA&sa=X&ved=2ahUKEwiQssOj5uSWAxVXlSsGHWRTB0gQzO0BKAR6BAhAEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLUz9U3sKxKirdQQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1ilXTMK8nIz6tUCE-szEtV8MhMz1AITs7Iz8_Zwcp4i02S4Y1DRWAuX1PnknDDQ6zaizZHJAXbpId9Pw4AuxaoQH8AAAA",
+  "profiles": [
+   {
+    "name": "YouTube",
+    "link": "https://www.youtube.com/@anthonywaynelocalschools3668",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Anthony+Wayne+High+School%22+Ohio",
+    "image": "https://ssl.gstatic.com/kpui/social/youtube_32x32.png"
+   },
+   {
+    "name": "X (Twitter)",
+    "link": "https://twitter.com/awgenerals",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Anthony+Wayne+High+School%22+Ohio",
+    "image": "https://ssl.gstatic.com/kpui/social/x_32x32.png"
+   },
+   {
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/in/renee-pellerite-3b764574",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Anthony+Wayne+High+School%22+Ohio",
+    "image": "https://ssl.gstatic.com/kpui/social/linkedin_32x32.png"
+   },
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/awathleticboosters/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Anthony+Wayne+High+School%22+Ohio",
+    "image": "https://ssl.gstatic.com/kpui/social/fb_32x32.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "What division is Anthony Wayne High School in Ohio?",
+   "type": "ai_overview",
+   "page_token": "EF5Dh3icHdBNbqMwGABQ9TJdNkCbjogUjeQAIQw4tbE_wJsRGEgA8zMNCYTdXKFn6Kl6mo5m_1bv76equubr4eM8jsNls1pN0_R06vuTKp5k367Sy72TK5kqlaWy2bz-eNV_lnJr3yTavUtE-DCARbVQmQlYuBMW9ZlGda4lGuPrgNqOU3BBCuWUmXZYMwP0FEyEdVUzQ-0ybt7yWiVga0ZoOUCaocPMMxKgITbEWwHwHPIx8iNdg_r0krlw5I2nxEKDdC94Gg1X6tIDtHNSNN7V5-D6MZ4Dxznke_OK97kbqOFXpuE-0dHRZ2gd1XlJIvqC-ezHi7wHDt4VtlfhvRnRxYvZwme2IASxc2dAjDC6TFnrlOmCRtp6nn2WBonhTxIjS3A4in8u50AwH8_CzRGnfUU4XWStWt4GyxH6OYzmS8GQR3RV5faZ004MUaVDooQQ02Mpb9vnx__X299lO26G9_70DWGNjLI",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=EF5Dh3icHdBNbqMwGABQ9TJdNkCbjogUjeQAIQw4tbE_wJsRGEgA8zMNCYTdXKFn6Kl6mo5m_1bv76equubr4eM8jsNls1pN0_R06vuTKp5k367Sy72TK5kqlaWy2bz-eNV_lnJr3yTavUtE-DCARbVQmQlYuBMW9ZlGda4lGuPrgNqOU3BBCuWUmXZYMwP0FEyEdVUzQ-0ybt7yWiVga0ZoOUCaocPMMxKgITbEWwHwHPIx8iNdg_r0krlw5I2nxEKDdC94Gg1X6tIDtHNSNN7V5-D6MZ4Dxznke_OK97kbqOFXpuE-0dHRZ2gd1XlJIvqC-ezHi7wHDt4VtlfhvRnRxYvZwme2IASxc2dAjDC6TFnrlOmCRtp6nn2WBonhTxIjS3A4in8u50AwH8_CzRGnfUU4XWStWt4GyxH6OYzmS8GQR3RV5faZ004MUaVDooQQ02Mpb9vnx__X299lO26G9_70DWGNjLI",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVYxWnBSR3A0WW5vMVFrTkhWMU5ZUTB4blVUTldZekJGVlVabFdtUlBSSGd6Tm5KTVZIQnlja00xZFhweVVITlFlRTlTVDFVelpXTmthWGx6WkhwbFpGbHNkemhRTWtGVlZHaERUbnBtY3pGT00ycEhVVFpLTTFaS1FSSVhOa0YxYW1Gd1EyVkZUbVZ4Y25WRlVEVkxZV1IzUVZFYUlrRkVjM0k1WmxGQllXcDNZa2hGUnpGSmVVeGZXRkZ5YTBKV1VXTXpSMFpxVm5jIiwiZmN2IjoiMyIsImVpIjoiNkF1amFwQ2VFTmVxcnVFUDVLYWR3QVEiLCJxYyI6IkNoNWhiblJvYjI1NUlIZGhlVzVsSUdocFoyZ2djMk5vYjI5c0lHOW9hVzhRQUgyUU1GOF8iLCJxdWVzdGlvbiI6IldoYXQgZGl2aXNpb24gaXMgQW50aG9ueSBXYXluZSBIaWdoIFNjaG9vbCBpbiBPaGlvPyIsImxrIjoiY3dYQndRbUFRQkFEd0Q1OHBRWTdXbFJNUUpMSEhuZGM5ODRjNTJJTjNKcHF4VkNqUEJodnJOcC1RTDFFWDB3LXlBaVZIdyIsImJzIjoiYzQyUU1RLUNRQXlGNDNxVDgwMVYxRVNkUE4ySm0wNE1Ec1R4QW1nYlRKdHdGeV84ZXhHSkVYUndfNzczMnFkS3RVM1Jlc2pwVG82RWdSenMyYU53RGFtdHVZQURYUkZPR1lyY2dCZ1NKSW5OVHBzdzFHeW5oVmJEcC1iZW1qU2FPcXRWVzliQUhndUlObEJaTG90OENMODYxbm9aX3FIYjZFVE5QNk9SbkplcUJybjB2NG5OUXNfQ2I3QjN2enFxYVRlTTh4VmxfbnNZNHRoRWVoS0dWSDhINHZIb0FRIiwiaWQiOiJmY182QXVqYXBDZUVOZXFydUVQNUthZHdBUV80In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVYxWnBSR3A0WW5vMVFrTkhWMU5ZUTB4blVUTldZekJGVlVabFdtUlBSSGd6Tm5KTVZIQnlja00xZFhweVVITlFlRTlTVDFVelpXTmthWGx6WkhwbFpGbHNkemhRTWtGVlZHaERUbnBtY3pGT00ycEhVVFpLTTFaS1FSSVhOa0YxYW1Gd1EyVkZUbVZ4Y25WRlVEVkxZV1IzUVZFYUlrRkVjM0k1WmxGQllXcDNZa2hGUnpGSmVVeGZXRkZ5YTBKV1VXTXpSMFpxVm5jIiwiZmN2IjoiMyIsImVpIjoiNkF1amFwQ2VFTmVxcnVFUDVLYWR3QVEiLCJxYyI6IkNoNWhiblJvYjI1NUlIZGhlVzVsSUdocFoyZ2djMk5vYjI5c0lHOW9hVzhRQUgyUU1GOF8iLCJxdWVzdGlvbiI6IldoYXQgZGl2aXNpb24gaXMgQW50aG9ueSBXYXluZSBIaWdoIFNjaG9vbCBpbiBPaGlvPyIsImxrIjoiY3dYQndRbUFRQkFEd0Q1OHBRWTdXbFJNUUpMSEhuZGM5ODRjNTJJTjNKcHF4VkNqUEJodnJOcC1RTDFFWDB3LXlBaVZIdyIsImJzIjoiYzQyUU1RLUNRQXlGNDNxVDgwMVYxRVNkUE4ySm0wNE1Ec1R4QW1nYlRKdHdGeV84ZXhHSkVYUndfNzczMnFkS3RVM1Jlc2pwVG82RWdSenMyYU53RGFtdHVZQURYUkZPR1lyY2dCZ1NKSW5OVHBzdzFHeW5oVmJEcC1iZW1qU2FPcXRWVzliQUhndUlObEJaTG90OENMODYxbm9aX3FIYjZFVE5QNk9SbkplcUJybjB2NG5OUXNfQ2I3QjN2enFxYVRlTTh4VmxfbnNZNHRoRWVoS0dWSDhINHZIb0FRIiwiaWQiOiJmY182QXVqYXBDZUVOZXFydUVQNUthZHdBUV80In0%3D"
+  },
+  {
+   "question": "What is the #1 ranked high school in Ohio?",
+   "type": "ai_overview",
+   "page_token": "DxosonicHZDdToMwGEDjy-zS8RNmWLIYGeC2aLXIV6A3prSDKl3pHBtb73wXn8qncfH-nItzvn_Uh-5-b05yGMxhPp2O43jb9n2rtre8303Z4aL5lDOlasa7-exu5t43fJEc19Fyv44wGEPizHlzVIQgKyuHKqwfxspSwqw04Imx9uVnpiWDJKyoFYdc02OWBJcXYhqk1JLG4lRagYs8jYCkuPaCgOnNiabc2z6Kr4psZsyRe1EEr8InRwShrjvqXxmJOrEu4s4iL1ghlZlnHWHend-Qpk8sB4dDeCBl2lAIFXLcGSkEzuHsIhjiOpYFW5mS58n4vDJQdK0PoAIoQp1I7uGS7KsyiimQF1qmFwEEXz1JVyKCrP_AkFn-qXbX_jOyaCAOdnL94DI3jIVtL8hGnkjMptipJeBJw08Lf_L_c_He7Ia5-erbP3CohJE",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=DxosonicHZDdToMwGEDjy-zS8RNmWLIYGeC2aLXIV6A3prSDKl3pHBtb73wXn8qncfH-nItzvn_Uh-5-b05yGMxhPp2O43jb9n2rtre8303Z4aL5lDOlasa7-exu5t43fJEc19Fyv44wGEPizHlzVIQgKyuHKqwfxspSwqw04Imx9uVnpiWDJKyoFYdc02OWBJcXYhqk1JLG4lRagYs8jYCkuPaCgOnNiabc2z6Kr4psZsyRe1EEr8InRwShrjvqXxmJOrEu4s4iL1ghlZlnHWHend-Qpk8sB4dDeCBl2lAIFXLcGSkEzuHsIhjiOpYFW5mS58n4vDJQdK0PoAIoQp1I7uGS7KsyiimQF1qmFwEEXz1JVyKCrP_AkFn-qXbX_jOyaCAOdnL94DI3jIVtL8hGnkjMptipJeBJw08Lf_L_c_He7Ia5-erbP3CohJE",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVYxWnBSR3A0WW5vMVFrTkhWMU5ZUTB4blVUTldZekJGVlVabFdtUlBSSGd6Tm5KTVZIQnlja00xZFhweVVITlFlRTlTVDFVelpXTmthWGx6WkhwbFpGbHNkemhRTWtGVlZHaERUbnBtY3pGT00ycEhVVFpLTTFaS1FSSVhOa0YxYW1Gd1EyVkZUbVZ4Y25WRlVEVkxZV1IzUVZFYUlrRkVjM0k1WmxGQllXcDNZa2hGUnpGSmVVeGZXRkZ5YTBKV1VXTXpSMFpxVm5jIiwiZmN2IjoiMyIsImVpIjoiNkF1amFwQ2VFTmVxcnVFUDVLYWR3QVEiLCJxYyI6IkNoNWhiblJvYjI1NUlIZGhlVzVsSUdocFoyZ2djMk5vYjI5c0lHOW9hVzhRQUgyUU1GOF8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlICMxIHJhbmtlZCBoaWdoIHNjaG9vbCBpbiBPaGlvPyIsImxrIjoiR2lsM2FHRjBJR2x6SUhSb1pTQWpNU0J5WVc1clpXUWdhR2xuYUNCelkyaHZiMndnYVc0Z2IyaHBidyIsImJzIjoiYzQyUU1RLUNRQXlGNDNxVDgwMVYxRVNkUE4ySm0wNE1Ec1R4QW1nYlRKdHdGeV84ZXhHSkVYUndfNzczMnFkS3RVM1Jlc2pwVG82RWdSenMyYU53RGFtdHVZQURYUkZPR1lyY2dCZ1NKSW5OVHBzdzFHeW5oVmJEcC1iZW1qU2FPcXRWVzliQUhndUlObEJaTG90OENMODYxbm9aX3FIYjZFVE5QNk9SbkplcUJybjB2NG5OUXNfQ2I3QjN2enFxYVRlTTh4VmxfbnNZNHRoRWVoS0dWSDhINHZIb0FRIiwiaWQiOiJmY182QXVqYXBDZUVOZXFydUVQNUthZHdBUV80In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVYxWnBSR3A0WW5vMVFrTkhWMU5ZUTB4blVUTldZekJGVlVabFdtUlBSSGd6Tm5KTVZIQnlja00xZFhweVVITlFlRTlTVDFVelpXTmthWGx6WkhwbFpGbHNkemhRTWtGVlZHaERUbnBtY3pGT00ycEhVVFpLTTFaS1FSSVhOa0YxYW1Gd1EyVkZUbVZ4Y25WRlVEVkxZV1IzUVZFYUlrRkVjM0k1WmxGQllXcDNZa2hGUnpGSmVVeGZXRkZ5YTBKV1VXTXpSMFpxVm5jIiwiZmN2IjoiMyIsImVpIjoiNkF1amFwQ2VFTmVxcnVFUDVLYWR3QVEiLCJxYyI6IkNoNWhiblJvYjI1NUlIZGhlVzVsSUdocFoyZ2djMk5vYjI5c0lHOW9hVzhRQUgyUU1GOF8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlICMxIHJhbmtlZCBoaWdoIHNjaG9vbCBpbiBPaGlvPyIsImxrIjoiR2lsM2FHRjBJR2x6SUhSb1pTQWpNU0J5WVc1clpXUWdhR2xuYUNCelkyaHZiMndnYVc0Z2IyaHBidyIsImJzIjoiYzQyUU1RLUNRQXlGNDNxVDgwMVYxRVNkUE4ySm0wNE1Ec1R4QW1nYlRKdHdGeV84ZXhHSkVYUndfNzczMnFkS3RVM1Jlc2pwVG82RWdSenMyYU53RGFtdHVZQURYUkZPR1lyY2dCZ1NKSW5OVHBzdzFHeW5oVmJEcC1iZW1qU2FPcXRWVzliQUhndUlObEJaTG90OENMODYxbm9aX3FIYjZFVE5QNk9SbkplcUJybjB2NG5OUXNfQ2I3QjN2enFxYVRlTTh4VmxfbnNZNHRoRWVoS0dWSDhINHZIb0FRIiwiaWQiOiJmY182QXVqYXBDZUVOZXFydUVQNUthZHdBUV80In0%3D"
+  },
+  {
+   "question": "What is the history of Anthony Wayne?",
+   "type": "ai_overview",
+   "page_token": "qfNKmHicHdDdTuowAADg-DJeCmUyDQk5SVmLeA4j3fozemNqKytbWQdMt_XuvItP5dNofIIv-f5_umNTf9182K5rr4vJpO_7u9L70r3daX-aqOvY6IlWzr0qXS_ihxj8Oeglet_A1XkDCWtbnmRTmriaCLfVSTkwh9dmPT8SSgba1IFGEO0QTt8Y6aRwCQObkUdW7JC55CwTPMFHFszWYFMwNMRMACcE3-sEtpq6f2Rq73M0eFXYSx7ZK-U222Iem-Z5zKs6ZNPUy7XdU2S2eZWeaSjn6mTbApSDwbBnkVGEgUStebyj0IsKvvOZC5LDzgiwSmsdVLB_yQwIM8NeIhkhq2ek4Od9ARPJ-E4WeDSMk5R1Vj4ZyDJ_JCwLunInVvNAmrLX9ZDKEawIlzivLEjp81xNH4HCP05_e9Afy-j293P5cjh1i_biy29DV4TG",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=qfNKmHicHdDdTuowAADg-DJeCmUyDQk5SVmLeA4j3fozemNqKytbWQdMt_XuvItP5dNofIIv-f5_umNTf9182K5rr4vJpO_7u9L70r3daX-aqOvY6IlWzr0qXS_ihxj8Oeglet_A1XkDCWtbnmRTmriaCLfVSTkwh9dmPT8SSgba1IFGEO0QTt8Y6aRwCQObkUdW7JC55CwTPMFHFszWYFMwNMRMACcE3-sEtpq6f2Rq73M0eFXYSx7ZK-U222Iem-Z5zKs6ZNPUy7XdU2S2eZWeaSjn6mTbApSDwbBnkVGEgUStebyj0IsKvvOZC5LDzgiwSmsdVLB_yQwIM8NeIhkhq2ek4Od9ARPJ-E4WeDSMk5R1Vj4ZyDJ_JCwLunInVvNAmrLX9ZDKEawIlzivLEjp81xNH4HCP05_e9Afy-j293P5cjh1i_biy29DV4TG",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVYxWnBSR3A0WW5vMVFrTkhWMU5ZUTB4blVUTldZekJGVlVabFdtUlBSSGd6Tm5KTVZIQnlja00xZFhweVVITlFlRTlTVDFVelpXTmthWGx6WkhwbFpGbHNkemhRTWtGVlZHaERUbnBtY3pGT00ycEhVVFpLTTFaS1FSSVhOa0YxYW1Gd1EyVkZUbVZ4Y25WRlVEVkxZV1IzUVZFYUlrRkVjM0k1WmxGQllXcDNZa2hGUnpGSmVVeGZXRkZ5YTBKV1VXTXpSMFpxVm5jIiwiZmN2IjoiMyIsImVpIjoiNkF1amFwQ2VFTmVxcnVFUDVLYWR3QVEiLCJxYyI6IkNoNWhiblJvYjI1NUlIZGhlVzVsSUdocFoyZ2djMk5vYjI5c0lHOW9hVzhRQUgyUU1GOF8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGhpc3Rvcnkgb2YgQW50aG9ueSBXYXluZT8iLCJsayI6IkdpUjNhR0YwSUdseklIUm9aU0JvYVhOMGIzSjVJRzltSUdGdWRHaHZibmtnZDJGNWJtVSIsImJzIjoiYzQyUU1RLUNRQXlGNDNxVDgwMVYxRVNkUE4ySm0wNE1Ec1R4QW1nYlRKdHdGeV84ZXhHSkVYUndfNzczMnFkS3RVM1Jlc2pwVG82RWdSenMyYU53RGFtdHVZQURYUkZPR1lyY2dCZ1NKSW5OVHBzdzFHeW5oVmJEcC1iZW1qU2FPcXRWVzliQUhndUlObEJaTG90OENMODYxbm9aX3FIYjZFVE5QNk9SbkplcUJybjB2NG5OUXNfQ2I3QjN2enFxYVRlTTh4VmxfbnNZNHRoRWVoS0dWSDhINHZIb0FRIiwiaWQiOiJmY182QXVqYXBDZUVOZXFydUVQNUthZHdBUV80In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVYxWnBSR3A0WW5vMVFrTkhWMU5ZUTB4blVUTldZekJGVlVabFdtUlBSSGd6Tm5KTVZIQnlja00xZFhweVVITlFlRTlTVDFVelpXTmthWGx6WkhwbFpGbHNkemhRTWtGVlZHaERUbnBtY3pGT00ycEhVVFpLTTFaS1FSSVhOa0YxYW1Gd1EyVkZUbVZ4Y25WRlVEVkxZV1IzUVZFYUlrRkVjM0k1WmxGQllXcDNZa2hGUnpGSmVVeGZXRkZ5YTBKV1VXTXpSMFpxVm5jIiwiZmN2IjoiMyIsImVpIjoiNkF1amFwQ2VFTmVxcnVFUDVLYWR3QVEiLCJxYyI6IkNoNWhiblJvYjI1NUlIZGhlVzVsSUdocFoyZ2djMk5vYjI5c0lHOW9hVzhRQUgyUU1GOF8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGhpc3Rvcnkgb2YgQW50aG9ueSBXYXluZT8iLCJsayI6IkdpUjNhR0YwSUdseklIUm9aU0JvYVhOMGIzSjVJRzltSUdGdWRHaHZibmtnZDJGNWJtVSIsImJzIjoiYzQyUU1RLUNRQXlGNDNxVDgwMVYxRVNkUE4ySm0wNE1Ec1R4QW1nYlRKdHdGeV84ZXhHSkVYUndfNzczMnFkS3RVM1Jlc2pwVG82RWdSenMyYU53RGFtdHVZQURYUkZPR1lyY2dCZ1NKSW5OVHBzdzFHeW5oVmJEcC1iZW1qU2FPcXRWVzliQUhndUlObEJaTG90OENMODYxbm9aX3FIYjZFVE5QNk9SbkplcUJybjB2NG5OUXNfQ2I3QjN2enFxYVRlTTh4VmxfbnNZNHRoRWVoS0dWSDhINHZIb0FRIiwiaWQiOiJmY182QXVqYXBDZUVOZXFydUVQNUthZHdBUV80In0%3D"
+  },
+  {
+   "question": "What district is Anthony Wayne in?",
+   "type": "ai_overview",
+   "page_token": "vDNfPXicHdBbboJAFADQdDN-Vh7RRhPThPJQUofMwJ2R-WmGGQT1CqhUKn_dS1fV1TTpWcL5_sFDc_p9utd9392W0-kwDM9V21ZYPuv2PFW3R6OnWiEWSp-W85e5_brXq-Bz471dNh6FruM-s9KRRKm1WDOBrDwaWwsTZn5IuYMNbwhRgE16xFw5JqPA3ayRrBAz5GhGQNOTKM4ZdvHWjYfUihOCHk1FmIjo1hM3TvIsd3hghAYJ-sjSRJCUOGYjwBBqxw6x2IFgqJTtbRXPXW3hQfq1Urwatc0C5tYtWJZNIpvJ8zCDgCSJfxokeu8i6rrtzqR6lFdowq-CoxvU2qE7fsl3ni-BJ3IXPgxwSqCv5dp4wNoDBTbqI565H_OCL2g2skeB7Vg23kCC7k5EXIsIZiWEPtDJXt9X7uT_c_WxP_fL7tpWf9BIg10",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=vDNfPXicHdBbboJAFADQdDN-Vh7RRhPThPJQUofMwJ2R-WmGGQT1CqhUKn_dS1fV1TTpWcL5_sFDc_p9utd9392W0-kwDM9V21ZYPuv2PFW3R6OnWiEWSp-W85e5_brXq-Bz471dNh6FruM-s9KRRKm1WDOBrDwaWwsTZn5IuYMNbwhRgE16xFw5JqPA3ayRrBAz5GhGQNOTKM4ZdvHWjYfUihOCHk1FmIjo1hM3TvIsd3hghAYJ-sjSRJCUOGYjwBBqxw6x2IFgqJTtbRXPXW3hQfq1Urwatc0C5tYtWJZNIpvJ8zCDgCSJfxokeu8i6rrtzqR6lFdowq-CoxvU2qE7fsl3ni-BJ3IXPgxwSqCv5dp4wNoDBTbqI565H_OCL2g2skeB7Vg23kCC7k5EXIsIZiWEPtDJXt9X7uT_c_WxP_fL7tpWf9BIg10",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVYxWnBSR3A0WW5vMVFrTkhWMU5ZUTB4blVUTldZekJGVlVabFdtUlBSSGd6Tm5KTVZIQnlja00xZFhweVVITlFlRTlTVDFVelpXTmthWGx6WkhwbFpGbHNkemhRTWtGVlZHaERUbnBtY3pGT00ycEhVVFpLTTFaS1FSSVhOa0YxYW1Gd1EyVkZUbVZ4Y25WRlVEVkxZV1IzUVZFYUlrRkVjM0k1WmxGQllXcDNZa2hGUnpGSmVVeGZXRkZ5YTBKV1VXTXpSMFpxVm5jIiwiZmN2IjoiMyIsImVpIjoiNkF1amFwQ2VFTmVxcnVFUDVLYWR3QVEiLCJxYyI6IkNoNWhiblJvYjI1NUlIZGhlVzVsSUdocFoyZ2djMk5vYjI5c0lHOW9hVzhRQUgyUU1GOF8iLCJxdWVzdGlvbiI6IldoYXQgZGlzdHJpY3QgaXMgQW50aG9ueSBXYXluZSBpbj8iLCJsayI6IkdpRjNhR0YwSUdScGMzUnlhV04wSUdseklHRnVkR2h2Ym5rZ2QyRjVibVVnYVc0IiwiYnMiOiJjNDJRTVEtQ1FBeUY0M3FUODAxVjFFU2RQTjJKbTA0TURzVHhBbWdiVEp0d0Z5XzhleEdKRVhSd183NzMycWRLdFUzUmVzanBUbzZFZ1J6czJhTndEYW10dVlBRFhSRk9HWXJjZ0JnU0pJbk5UcHN3MUd5bmhWYkRwLWJlbWpTYU9xdFZXOWJBSGd1SU5sQlpMb3Q4Q0w4NjFub1pfcUhiNkVUTlA2T1JuSmVxQnJuMHY0bk5Rc19DYjdCM3Z6cXFhVGVNOHhWbF9uc1k0dGhFZWhLR1ZIOEg0dkhvQVEiLCJpZCI6ImZjXzZBdWphcENlRU5lcXJ1RVA1S2Fkd0FRXzQifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVYxWnBSR3A0WW5vMVFrTkhWMU5ZUTB4blVUTldZekJGVlVabFdtUlBSSGd6Tm5KTVZIQnlja00xZFhweVVITlFlRTlTVDFVelpXTmthWGx6WkhwbFpGbHNkemhRTWtGVlZHaERUbnBtY3pGT00ycEhVVFpLTTFaS1FSSVhOa0YxYW1Gd1EyVkZUbVZ4Y25WRlVEVkxZV1IzUVZFYUlrRkVjM0k1WmxGQllXcDNZa2hGUnpGSmVVeGZXRkZ5YTBKV1VXTXpSMFpxVm5jIiwiZmN2IjoiMyIsImVpIjoiNkF1amFwQ2VFTmVxcnVFUDVLYWR3QVEiLCJxYyI6IkNoNWhiblJvYjI1NUlIZGhlVzVsSUdocFoyZ2djMk5vYjI5c0lHOW9hVzhRQUgyUU1GOF8iLCJxdWVzdGlvbiI6IldoYXQgZGlzdHJpY3QgaXMgQW50aG9ueSBXYXluZSBpbj8iLCJsayI6IkdpRjNhR0YwSUdScGMzUnlhV04wSUdseklHRnVkR2h2Ym5rZ2QyRjVibVVnYVc0IiwiYnMiOiJjNDJRTVEtQ1FBeUY0M3FUODAxVjFFU2RQTjJKbTA0TURzVHhBbWdiVEp0d0Z5XzhleEdKRVhSd183NzMycWRLdFUzUmVzanBUbzZFZ1J6czJhTndEYW10dVlBRFhSRk9HWXJjZ0JnU0pJbk5UcHN3MUd5bmhWYkRwLWJlbWpTYU9xdFZXOWJBSGd1SU5sQlpMb3Q4Q0w4NjFub1pfcUhiNkVUTlA2T1JuSmVxQnJuMHY0bk5Rc19DYjdCM3Z6cXFhVGVNOHhWbF9uc1k0dGhFZWhLR1ZIOEg0dkhvQVEiLCJpZCI6ImZjXzZBdWphcENlRU5lcXJ1RVA1S2Fkd0FRXzQifQ%3D%3D"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Anthony Wayne High School",
+   "link": "https://www.anthonywayneschools.org/AWHS",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAVeU6ldBsbIEPuo9FHJrd-61lntuIH5fzBliP05yMDS33spcDamEGPOWBfbFb5iFCLmD95TZJp6-xPAmLyJ5gP-POWfT1vYBieEaAFhnt7m9E-DBWq8dXQTPJsUg&ved=2ahUKEwiQssOj5uSWAxVXlSsGHWRTB0gQFnoECB8QAQ&uoh=1",
+   "displayed_link": "https://www.anthonywayneschools.org \u203a AWHS",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACO0lEQVR4AZTMA4wlUABD0a5t27Zt27Zt27Zt296xbdu29fqNYHSSxrcoKIbfmUHzWqYMfzEKhSVCX0_jN5AWXZyEWXMn8Ruky_rL0BYck954z3Pvvb9tolpDC0O_TuZzkEFvZkOK3o_miPugiPgwBSpp2aJM67UmXujwgZjwl1WXGcbseOZ7VB68buFIvQXPFfHLhbwCMt61jbDYepbej-cjIDa9ers1xj7o_ZXF5-sTM3SIoT-JwT8oj6y37uP3SV8Z69GKh0CG_B8GKXG5Jvmwx31M3m99GL2-sPgCfRafrStfsTm6xIDvfGYpBjLTugqPV0mi9aU5DDVtAykaHDok9oPC5fFw_LGOGoGhP1hEEctXYq4eZaczjzrflwf3elhzD8h7Iz-K6_0NxGqQQUYDIBOfmFm2ymzdeIz9zeJzlPGUf0S3zzz_LXA3lBhtXprflh_i3grR9NQfAm0zrzh_QO8vxIBvxODvRI_PvPgzaAekTj012N133fNXD_RCWiAv3y0j2-176b2z4RoT7zNfAvdC6sQzwz2ospyovYZovoVos4vn31mtQ0EcfKB7Qh732E8MPEr0O0zUWs3es66aoSA6jjpljyabpPERov9hxXrsY9FeBxgUGlcD-dlx6edp1FmjjuUbfIwou5jP3phNQX6-6bmMQoWlRJc9mrjGKradfMEjKimtPPKTmJJeqs-aB_rouZ9ouomouZod5lxzEmQxFIa9W4hkPB2LDkeZp86e_vzNZ3F0eQAE0U6iP-egHgAAAABJRU5ErkJggg.png",
+   "snippet": "Anthony Wayne High School News. Archived News. A quote from President Harry S ... Contact Us. 5967 Finzel Road , Whitehouse, OH 43571. Phone: 419-877-0466.",
+   "snippet_highlighted_words": [
+    "Anthony Wayne High School",
+    "OH"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Anthony Wayne High School News. Archived News. A quote from President Harry S ... Contact Us. 5967 Finzel Road , Whitehouse, OH 43571. Phone: 419-877-0466.",
+     "source_info_link": "https://www.anthonywayneschools.org/AWHS",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACO0lEQVR4AZTMA4wlUABD0a5t27Zt27Zt27Zt296xbdu29fqNYHSSxrcoKIbfmUHzWqYMfzEKhSVCX0_jN5AWXZyEWXMn8Ruky_rL0BYck954z3Pvvb9tolpDC0O_TuZzkEFvZkOK3o_miPugiPgwBSpp2aJM67UmXujwgZjwl1WXGcbseOZ7VB68buFIvQXPFfHLhbwCMt61jbDYepbej-cjIDa9ers1xj7o_ZXF5-sTM3SIoT-JwT8oj6y37uP3SV8Z69GKh0CG_B8GKXG5Jvmwx31M3m99GL2-sPgCfRafrStfsTm6xIDvfGYpBjLTugqPV0mi9aU5DDVtAykaHDok9oPC5fFw_LGOGoGhP1hEEctXYq4eZaczjzrflwf3elhzD8h7Iz-K6_0NxGqQQUYDIBOfmFm2ymzdeIz9zeJzlPGUf0S3zzz_LXA3lBhtXprflh_i3grR9NQfAm0zrzh_QO8vxIBvxODvRI_PvPgzaAekTj012N133fNXD_RCWiAv3y0j2-176b2z4RoT7zNfAvdC6sQzwz2ospyovYZovoVos4vn31mtQ0EcfKB7Qh732E8MPEr0O0zUWs3es66aoSA6jjpljyabpPERov9hxXrsY9FeBxgUGlcD-dlx6edp1FmjjuUbfIwou5jP3phNQX6-6bmMQoWlRJc9mrjGKradfMEjKimtPPKTmJJeqs-aB_rouZ9ouomouZod5lxzEmQxFIa9W4hkPB2LDkeZp86e_vzNZ3F0eQAE0U6iP-egHgAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYAHrOzAVeU6ldBsbIEPuo9FHJrd-61lntuIH5fzBliP05yMDS33spcDamEGPOWBfbFb5iFCLmD95TZJp6-xPAmLyJ5gP-POWfT1vYBieEaAFhnt7m9E-DBWq8dXQTPJsUg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYAHrOzAVeU6ldBsbIEPuo9FHJrd-61lntuIH5fzBliP05yMDS33spcDamEGPOWBfbFb5iFCLmD95TZJp6-xPAmLyJ5gP-POWfT1vYBieEaAFhnt7m9E-DBWq8dXQTPJsUg",
+   "source": "Anthony Wayne Local Schools",
+   "read_more_link": "https://www.anthonywayneschools.org/AWHS#:~:text=Anthony%20Wayne%20High%20School%20News,Archived%20News&text=Contact%20Us,Phone%3A%20419%2D877%2D0466"
+  },
+  {
+   "position": 2,
+   "title": "Anthony Wayne Local School District",
+   "link": "https://www.anthonywayneschools.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXAHrOzAV4UNnRTFLgjpJYqCpZwdu3ekRFiDbnycOVWH_u1ZSMqnwJfs0iMFODOH-LauABc89MV92rUn6lEGs07yOZzl_WkzDgx8hYzbq9Yvp2irjLRN0eHjd3_cN&ved=2ahUKEwiQssOj5uSWAxVXlSsGHWRTB0gQFnoECEgQAQ&uoh=1",
+   "displayed_link": "https://www.anthonywayneschools.org",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACO0lEQVR4AZTMA4wlUABD0a5t27Zt27Zt27Zt296xbdu29fqNYHSSxrcoKIbfmUHzWqYMfzEKhSVCX0_jN5AWXZyEWXMn8Ruky_rL0BYck954z3Pvvb9tolpDC0O_TuZzkEFvZkOK3o_miPugiPgwBSpp2aJM67UmXujwgZjwl1WXGcbseOZ7VB68buFIvQXPFfHLhbwCMt61jbDYepbej-cjIDa9ers1xj7o_ZXF5-sTM3SIoT-JwT8oj6y37uP3SV8Z69GKh0CG_B8GKXG5Jvmwx31M3m99GL2-sPgCfRafrStfsTm6xIDvfGYpBjLTugqPV0mi9aU5DDVtAykaHDok9oPC5fFw_LGOGoGhP1hEEctXYq4eZaczjzrflwf3elhzD8h7Iz-K6_0NxGqQQUYDIBOfmFm2ymzdeIz9zeJzlPGUf0S3zzz_LXA3lBhtXprflh_i3grR9NQfAm0zrzh_QO8vxIBvxODvRI_PvPgzaAekTj012N133fNXD_RCWiAv3y0j2-176b2z4RoT7zNfAvdC6sQzwz2ospyovYZovoVos4vn31mtQ0EcfKB7Qh732E8MPEr0O0zUWs3es66aoSA6jjpljyabpPERov9hxXrsY9FeBxgUGlcD-dlx6edp1FmjjuUbfIwou5jP3phNQX6-6bmMQoWlRJc9mrjGKradfMEjKimtPPKTmJJeqs-aB_rouZ9ouomouZod5lxzEmQxFIa9W4hkPB2LDkeZp86e_vzNZ3F0eQAE0U6iP-egHgAAAABJRU5ErkJggg.png",
+   "snippet": "Anthony Wayne High School \u00b7 Anthony Wayne Junior High \u00b7 Fallen Timbers Middle ... Contact Us. 9565 Bucher Rd., P.O. Box 2487. Whitehouse, OH 43571. Phone: 419 ...",
+   "snippet_highlighted_words": [
+    "Anthony Wayne High School",
+    "OH"
+   ],
+   "sitelinks": {
+    "inline": [
+     {
+      "title": "Our Schools",
+      "link": "https://www.anthonywayneschools.org/AWHS"
+     },
+     {
+      "title": "About Our District",
+      "link": "https://www.anthonywayneschools.org/Contact"
+     },
+     {
+      "title": "Quick Links",
+      "link": "https://www.anthonywayneschools.org/returningstudentregistration"
+     },
+     {
+      "title": "Students & Families",
+      "link": "https://www.anthonywayneschools.org/CareerEducation"
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Anthony Wayne High School \u00b7 Anthony Wayne Junior High \u00b7 Fallen Timbers Middle ... Contact Us. 9565 Bucher Rd., P.O. Box 2487. Whitehouse, OH 43571. Phone: 419 ...",
+     "source_info_link": "https://www.anthonywayneschools.org/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACO0lEQVR4AZTMA4wlUABD0a5t27Zt27Zt27Zt296xbdu29fqNYHSSxrcoKIbfmUHzWqYMfzEKhSVCX0_jN5AWXZyEWXMn8Ruky_rL0BYck954z3Pvvb9tolpDC0O_TuZzkEFvZkOK3o_miPugiPgwBSpp2aJM67UmXujwgZjwl1WXGcbseOZ7VB68buFIvQXPFfHLhbwCMt61jbDYepbej-cjIDa9ers1xj7o_ZXF5-sTM3SIoT-JwT8oj6y37uP3SV8Z69GKh0CG_B8GKXG5Jvmwx31M3m99GL2-sPgCfRafrStfsTm6xIDvfGYpBjLTugqPV0mi9aU5DDVtAykaHDok9oPC5fFw_LGOGoGhP1hEEctXYq4eZaczjzrflwf3elhzD8h7Iz-K6_0NxGqQQUYDIBOfmFm2ymzdeIz9zeJzlPGUf0S3zzz_LXA3lBhtXprflh_i3grR9NQfAm0zrzh_QO8vxIBvxODvRI_PvPgzaAekTj012N133fNXD_RCWiAv3y0j2-176b2z4RoT7zNfAvdC6sQzwz2ospyovYZovoVos4vn31mtQ0EcfKB7Qh732E8MPEr0O0zUWs3es66aoSA6jjpljyabpPERov9hxXrsY9FeBxgUGlcD-dlx6edp1FmjjuUbfIwou5jP3phNQX6-6bmMQoWlRJc9mrjGKradfMEjKimtPPKTmJJeqs-aB_rouZ9ouomouZod5lxzEmQxFIa9W4hkPB2LDkeZp86e_vzNZ3F0eQAE0U6iP-egHgAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESXAHrOzAV4UNnRTFLgjpJYqCpZwdu3ekRFiDbnycOVWH_u1ZSMqnwJfs0iMFODOH-LauABc89MV92rUn6lEGs07yOZzl_WkzDgx8hYzbq9Yvp2irjLRN0eHjd3_cN&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESXAHrOzAV4UNnRTFLgjpJYqCpZwdu3ekRFiDbnycOVWH_u1ZSMqnwJfs0iMFODOH-LauABc89MV92rUn6lEGs07yOZzl_WkzDgx8hYzbq9Yvp2irjLRN0eHjd3_cN",
+   "source": "Anthony Wayne Local Schools",
+   "read_more_link": "https://www.anthonywayneschools.org/#:~:text=Anthony%20Wayne&text=Contact%20Us,Phone%3A%20419%2D877%2D5377"
+  },
+  {
+   "position": 3,
+   "title": "Anthony Wayne High School",
+   "link": "https://en.wikipedia.org/wiki/Anthony_Wayne_High_School",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAVRU6myuoRH1uHRp_krywWUb5G9Wv5lfnyGBgUKEEzNxmkhvbHLShHiVpPMCUqBGlJyhADG_RRiZ1BvnNxVRgI9N_JeRqczZq9PLMG3owgjfjnetWT4kakrHO0P7IzmKPQey3ftrSgZHFpkw&ved=2ahUKEwiQssOj5uSWAxVXlSsGHWRTB0gQFnoECEQQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Anthony_Wayne_Hig...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+   "snippet": "Anthony Wayne High School is a public high school in Whitehouse, Ohio, a suburb of Toledo. The school has an enrollment of approximately 1,330 students in ...",
+   "snippet_highlighted_words": [
+    "Anthony Wayne High School",
+    "Ohio"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Anthony Wayne High School is a public high school in Whitehouse, Ohio, a suburb of Toledo. The school has an enrollment of approximately 1,330 students in ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Anthony_Wayne_High_School",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESbwHrOzAVRU6myuoRH1uHRp_krywWUb5G9Wv5lfnyGBgUKEEzNxmkhvbHLShHiVpPMCUqBGlJyhADG_RRiZ1BvnNxVRgI9N_JeRqczZq9PLMG3owgjfjnetWT4kakrHO0P7IzmKPQey3ftrSgZHFpkw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESbwHrOzAVRU6myuoRH1uHRp_krywWUb5G9Wv5lfnyGBgUKEEzNxmkhvbHLShHiVpPMCUqBGlJyhADG_RRiZ1BvnNxVRgI9N_JeRqczZq9PLMG3owgjfjnetWT4kakrHO0P7IzmKPQey3ftrSgZHFpkw",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Anthony_Wayne_High_School#:~:text=Anthony%20Wayne%20High%20School%20is,grades%209%E2%80%9312%20as%20of%202019%E2%80%9320."
+  },
+  {
+   "position": 4,
+   "title": "Anthony Wayne High School in Whitehouse, OH",
+   "link": "https://www.usnews.com/education/best-high-schools/ohio/districts/anthony-wayne-local/anthony-wayne-high-school-15601",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrQEB6zswFQt1ynxwsYUfCWJ0Pt8KG6EldAIdpzhJKNXCsbzdLQ0CqiWbJxhuyWGUioA9T7K4oqY7aIPeAiybUwERg7W7vOWNmJKbUhu7L69CXedo6MuILsk_5nIEO6w3ccpcYSgRCvBwNVB884NcruglXvDWavskgOeCal6BLtUBgcDKHqDNs8GHjUidhUKz1LsTIm3JFJYkR4zKKwgvtkdMYc7-rbPQVlWbgnCj7Q&ved=2ahUKEwiQssOj5uSWAxVXlSsGHWRTB0gQFnoECG0QAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a ... \u203a Anthony Wayne Local",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png",
+   "snippet": "Anthony Wayne High School is ranked #2,615 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well ...",
+   "snippet_highlighted_words": [
+    "Anthony Wayne High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Anthony Wayne High School is ranked #2,615 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/ohio/districts/anthony-wayne-local/anthony-wayne-high-school-15601",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESrQEB6zswFQt1ynxwsYUfCWJ0Pt8KG6EldAIdpzhJKNXCsbzdLQ0CqiWbJxhuyWGUioA9T7K4oqY7aIPeAiybUwERg7W7vOWNmJKbUhu7L69CXedo6MuILsk_5nIEO6w3ccpcYSgRCvBwNVB884NcruglXvDWavskgOeCal6BLtUBgcDKHqDNs8GHjUidhUKz1LsTIm3JFJYkR4zKKwgvtkdMYc7-rbPQVlWbgnCj7Q&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESrQEB6zswFQt1ynxwsYUfCWJ0Pt8KG6EldAIdpzhJKNXCsbzdLQ0CqiWbJxhuyWGUioA9T7K4oqY7aIPeAiybUwERg7W7vOWNmJKbUhu7L69CXedo6MuILsk_5nIEO6w3ccpcYSgRCvBwNVB884NcruglXvDWavskgOeCal6BLtUBgcDKHqDNs8GHjUidhUKz1LsTIm3JFJYkR4zKKwgvtkdMYc7-rbPQVlWbgnCj7Q",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/ohio/districts/anthony-wayne-local/anthony-wayne-high-school-15601#:~:text=Anthony%20Wayne%20High%20School%20is,they%20prepare%20students%20for%20college."
+  },
+  {
+   "position": 5,
+   "title": "Athletics",
+   "link": "https://www.anthonywayneschools.org/athletics",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZQHrOzAVjzSsXrty6pKtRWZshimHz_TJTnKDxNTLZ0bJXJ3vdA5VxSTDi-KR2z3QuafvMbw-ZeMGHwQoKgvx6Z8XAec4IhqChJUQp_435Uew_442dONT4p083wCrOScaCd3geltg&ved=2ahUKEwiQssOj5uSWAxVXlSsGHWRTB0gQFnoECEMQAQ&uoh=1",
+   "displayed_link": "https://www.anthonywayneschools.org \u203a athletics",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACO0lEQVR4AZTMA4wlUABD0a5t27Zt27Zt27Zt296xbdu29fqNYHSSxrcoKIbfmUHzWqYMfzEKhSVCX0_jN5AWXZyEWXMn8Ruky_rL0BYck954z3Pvvb9tolpDC0O_TuZzkEFvZkOK3o_miPugiPgwBSpp2aJM67UmXujwgZjwl1WXGcbseOZ7VB68buFIvQXPFfHLhbwCMt61jbDYepbej-cjIDa9ers1xj7o_ZXF5-sTM3SIoT-JwT8oj6y37uP3SV8Z69GKh0CG_B8GKXG5Jvmwx31M3m99GL2-sPgCfRafrStfsTm6xIDvfGYpBjLTugqPV0mi9aU5DDVtAykaHDok9oPC5fFw_LGOGoGhP1hEEctXYq4eZaczjzrflwf3elhzD8h7Iz-K6_0NxGqQQUYDIBOfmFm2ymzdeIz9zeJzlPGUf0S3zzz_LXA3lBhtXprflh_i3grR9NQfAm0zrzh_QO8vxIBvxODvRI_PvPgzaAekTj012N133fNXD_RCWiAv3y0j2-176b2z4RoT7zNfAvdC6sQzwz2ospyovYZovoVos4vn31mtQ0EcfKB7Qh732E8MPEr0O0zUWs3es66aoSA6jjpljyabpPERov9hxXrsY9FeBxgUGlcD-dlx6edp1FmjjuUbfIwou5jP3phNQX6-6bmMQoWlRJc9mrjGKradfMEjKimtPPKTmJJeqs-aB_rouZ9ouomouZod5lxzEmQxFIa9W4hkPB2LDkeZp86e_vzNZ3F0eQAE0U6iP-egHgAAAABJRU5ErkJggg.png",
+   "snippet": "We compete within the Northern Lakes League (NLL) Buckeye Division and are a member of the Ohio High School Athletic Association. ... Anthony Wayne's High School ...",
+   "snippet_highlighted_words": [
+    "Ohio",
+    "Anthony Wayne's High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "We compete within the Northern Lakes League (NLL) Buckeye Division and are a member of the Ohio High School Athletic Association. ... Anthony Wayne's High School ...",
+     "source_info_link": "https://www.anthonywayneschools.org/athletics",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACO0lEQVR4AZTMA4wlUABD0a5t27Zt27Zt27Zt296xbdu29fqNYHSSxrcoKIbfmUHzWqYMfzEKhSVCX0_jN5AWXZyEWXMn8Ruky_rL0BYck954z3Pvvb9tolpDC0O_TuZzkEFvZkOK3o_miPugiPgwBSpp2aJM67UmXujwgZjwl1WXGcbseOZ7VB68buFIvQXPFfHLhbwCMt61jbDYepbej-cjIDa9ers1xj7o_ZXF5-sTM3SIoT-JwT8oj6y37uP3SV8Z69GKh0CG_B8GKXG5Jvmwx31M3m99GL2-sPgCfRafrStfsTm6xIDvfGYpBjLTugqPV0mi9aU5DDVtAykaHDok9oPC5fFw_LGOGoGhP1hEEctXYq4eZaczjzrflwf3elhzD8h7Iz-K6_0NxGqQQUYDIBOfmFm2ymzdeIz9zeJzlPGUf0S3zzz_LXA3lBhtXprflh_i3grR9NQfAm0zrzh_QO8vxIBvxODvRI_PvPgzaAekTj012N133fNXD_RCWiAv3y0j2-176b2z4RoT7zNfAvdC6sQzwz2ospyovYZovoVos4vn31mtQ0EcfKB7Qh732E8MPEr0O0zUWs3es66aoSA6jjpljyabpPERov9hxXrsY9FeBxgUGlcD-dlx6edp1FmjjuUbfIwou5jP3phNQX6-6bmMQoWlRJc9mrjGKradfMEjKimtPPKTmJJeqs-aB_rouZ9ouomouZod5lxzEmQxFIa9W4hkPB2LDkeZp86e_vzNZ3F0eQAE0U6iP-egHgAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESZQHrOzAVjzSsXrty6pKtRWZshimHz_TJTnKDxNTLZ0bJXJ3vdA5VxSTDi-KR2z3QuafvMbw-ZeMGHwQoKgvx6Z8XAec4IhqChJUQp_435Uew_442dONT4p083wCrOScaCd3geltg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESZQHrOzAVjzSsXrty6pKtRWZshimHz_TJTnKDxNTLZ0bJXJ3vdA5VxSTDi-KR2z3QuafvMbw-ZeMGHwQoKgvx6Z8XAec4IhqChJUQp_435Uew_442dONT4p083wCrOScaCd3geltg",
+   "source": "Anthony Wayne Local Schools",
+   "read_more_link": "https://www.anthonywayneschools.org/athletics#:~:text=We%20compete%20within%20the%20Northern,Ohio%20High%20School%20Athletic%20Association.&text=Anthony%20Wayne's%20High%20School%20Code,is%20365525."
+  },
+  {
+   "position": 6,
+   "title": "District Home - Ohio School Report Cards",
+   "link": "https://reportcard.education.ohio.gov/district/048207",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbQHrOzAVDGBpaOyLkYQe5yN9ajZSbP8YJyWv2kXbKQy62GTf0GHz0dxrA_a3Z6eFoGLkKNYfVEiWU7OAw00J5H7gM8KEIJ06ZtUl5Q6-uIWU6bvk7rAGE_pUK6brJpkvVi3tihNVJ4rGvN9bzIE&ved=2ahUKEwiQssOj5uSWAxVXlSsGHWRTB0gQFnoECEUQAQ&uoh=1",
+   "displayed_link": "https://reportcard.education.ohio.gov \u203a district",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAA_UlEQVR4AWJAB29lVLQApdI1VgRRFEVR3GUkaAYJkiADwd01x91dY4iwBJsE7hDhRLSfWuv9du9gl71_b3cJZnELnXjAEjLUOnfBOIzCjFcJ1KAa83iS2SwS3YX3ZUEzot38QCSqZc0JkuyH4zIolUve_mkhTFhSFzIk3Okl51xSL5kc7WQGn0gNoCAeb9jQTi6xq4YBlGzjVjvQYyCIgl78qoL-IAv-1C3shHILc_hASgDhOLxiUzvJghntARTUSiZXXZiSC8V-hPNhxKrzez2SknpEuglGoFzC50h293FMSskT5lGJCszgXmaLSPL2F9OxjGt8iBusI9t5vQVH2cVO7rhEBQAAAABJRU5ErkJggg.png",
+   "snippet": "Your District's Schools. Schools, Overall Rating, Achievement, Progress, Gap Closing, Graduation Rate, Early Literacy, CCWM Readiness. Anthony Wayne High School.",
+   "snippet_highlighted_words": [
+    "Anthony Wayne High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Your District's Schools. Schools, Overall Rating, Achievement, Progress, Gap Closing, Graduation Rate, Early Literacy, CCWM Readiness. Anthony Wayne High School.",
+     "source_info_link": "https://reportcard.education.ohio.gov/district/048207",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAA_UlEQVR4AWJAB29lVLQApdI1VgRRFEVR3GUkaAYJkiADwd01x91dY4iwBJsE7hDhRLSfWuv9du9gl71_b3cJZnELnXjAEjLUOnfBOIzCjFcJ1KAa83iS2SwS3YX3ZUEzot38QCSqZc0JkuyH4zIolUve_mkhTFhSFzIk3Okl51xSL5kc7WQGn0gNoCAeb9jQTi6xq4YBlGzjVjvQYyCIgl78qoL-IAv-1C3shHILc_hASgDhOLxiUzvJghntARTUSiZXXZiSC8V-hPNhxKrzez2SknpEuglGoFzC50h293FMSskT5lGJCszgXmaLSPL2F9OxjGt8iBusI9t5vQVH2cVO7rhEBQAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESbQHrOzAVDGBpaOyLkYQe5yN9ajZSbP8YJyWv2kXbKQy62GTf0GHz0dxrA_a3Z6eFoGLkKNYfVEiWU7OAw00J5H7gM8KEIJ06ZtUl5Q6-uIWU6bvk7rAGE_pUK6brJpkvVi3tihNVJ4rGvN9bzIE&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESbQHrOzAVDGBpaOyLkYQe5yN9ajZSbP8YJyWv2kXbKQy62GTf0GHz0dxrA_a3Z6eFoGLkKNYfVEiWU7OAw00J5H7gM8KEIJ06ZtUl5Q6-uIWU6bvk7rAGE_pUK6brJpkvVi3tihNVJ4rGvN9bzIE",
+   "source": "Ohio.gov",
+   "read_more_link": "https://reportcard.education.ohio.gov/district/048207#:~:text=Your%20District's%20Schools,Anthony%20Wayne%20High%20School"
+  },
+  {
+   "position": 7,
+   "title": "Anthony Wayne Athletic Department",
+   "link": "https://www.facebook.com/awgenerals1/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXQHrOzAVxBguje1PalFUi0rxg3piW6hdtmZw2mSJcr7XQmlsF1PphsQ2CHytXkJtZcZlSUsJE8nb6cCtkbIycydUYMNuQegyO_VWLMk9QxR55TfAp5q476AbnHJDhQ&ved=2ahUKEwiQssOj5uSWAxVXlSsGHWRTB0gQFnoECHEQAQ&uoh=1",
+   "displayed_link": "2.6K+ followers",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "snippet": "The Anthony Wayne High School football program hosted its fifth annual Victory Day on July 30, 2026, providing an opportunity for students with cognitive ...",
+   "snippet_highlighted_words": [
+    "Anthony Wayne High School"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 5.0,
+      "reviews": 1
+     },
+     "extensions": [
+      "5.0(1)"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "The Anthony Wayne High School football program hosted its fifth annual Victory Day on July 30, 2026, providing an opportunity for students with cognitive ...",
+     "source_info_link": "https://www.facebook.com/awgenerals1/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESXQHrOzAVxBguje1PalFUi0rxg3piW6hdtmZw2mSJcr7XQmlsF1PphsQ2CHytXkJtZcZlSUsJE8nb6cCtkbIycydUYMNuQegyO_VWLMk9QxR55TfAp5q476AbnHJDhQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESXQHrOzAVxBguje1PalFUi0rxg3piW6hdtmZw2mSJcr7XQmlsF1PphsQ2CHytXkJtZcZlSUsJE8nb6cCtkbIycydUYMNuQegyO_VWLMk9QxR55TfAp5q476AbnHJDhQ",
+   "source": "Facebook \u00b7 Anthony Wayne Athletic Department",
+   "read_more_link": "https://www.facebook.com/awgenerals1/#:~:text=The%20Anthony%20Wayne%20High%20School,a%20touchdown%20in%20Schaller%20Stadium."
+  },
+  {
+   "position": 8,
+   "title": "Anthony Wayne High School - Whitehouse, Ohio - OH",
+   "link": "https://www.greatschools.org/ohio/whitehouse/2700-Anthony-Wayne-High-School/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShAEB6zswFd_y66s5hCKHuuXnTxlrTe-KGhOwtizeUUUBtRQDXc47QqdwZ9_v4Zn4YNX-Gyk1p2lGZSzBbyK2CZ_Au9uEhzZMGxySBDA2tzCfTHU-RDLl5sznaw2L-LAWR19lBG5Xe-l9TV_6cn9xsoJM1-QPx1t7ED45jQbyA9ojyZB8nQo&ved=2ahUKEwiQssOj5uSWAxVXlSsGHWRTB0gQFnoECHMQAQ&uoh=1",
+   "displayed_link": "https://www.greatschools.org \u203a ohio \u203a 2700-Anthony-...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX____6_v74_P7N6_jA5vfy-v3V7PiO0e89tuUApd-Ayu0eqeEiquEjquG64PQ_tOWq2vIwruJnw-rj8_vs9vx1yeye2fFav-ix4fQbruMAo9-Hy-yp1vCq3vSw2fGY0O5xwenE5vbe7_lFmiYHAAABRElEQVR4AVzSB5KDMAwFUNGRv-QSanq5_yHX4ImHrOg8d5lyFGVZ1XVVlgX9j6btet6j79rm11oDhmgMAcO0ByqsYxHEiAqAnS2y-QAF-tPJsWpwQRH8V-1m2g3jOE4c_DirINhkrYOKmDSuJdS0qihcu38bVkVoqZZzQ9XF76hsmq0iZENqrsyWBrklFMSqRcca0cUWwHcaw43uGyp3BZU9MmJ5PGPNTjZEX1LJklHBzJ4SCpdUsWaECPhaJFSuqOaM0seAKb9YH_FUEo3uiIdml2qkIZjiBU3NHgfEl2nDMaFw-TMV7mhwzgRomsrvIqwRsTWVFiEvX0NPvlQRQ-9S0tvvwkuoqZnfRENv6Z4XPqVMsexJmMaIh5SlZAuW9ePFzc6s0yHZaZsImBnYz2i--NlgmkOOG-xv2JIm4USNNzsAAN3rGxmBgpZiAAAAAElFTkSuQmCC.png",
+   "snippet": "Anthony Wayne High School is performing above average compared to public and charter schools in Ohio with the same grade levels. 7/10. GreatSchools Rating ...",
+   "snippet_highlighted_words": [
+    "Anthony Wayne High School",
+    "Ohio"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 3.2,
+      "reviews": 4
+     },
+     "extensions": [
+      "3.2(4)"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Anthony Wayne High School is performing above average compared to public and charter schools in Ohio with the same grade levels. 7/10. GreatSchools Rating ...",
+     "source_info_link": "https://www.greatschools.org/ohio/whitehouse/2700-Anthony-Wayne-High-School/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX____6_v74_P7N6_jA5vfy-v3V7PiO0e89tuUApd-Ayu0eqeEiquEjquG64PQ_tOWq2vIwruJnw-rj8_vs9vx1yeye2fFav-ix4fQbruMAo9-Hy-yp1vCq3vSw2fGY0O5xwenE5vbe7_lFmiYHAAABRElEQVR4AVzSB5KDMAwFUNGRv-QSanq5_yHX4ImHrOg8d5lyFGVZ1XVVlgX9j6btet6j79rm11oDhmgMAcO0ByqsYxHEiAqAnS2y-QAF-tPJsWpwQRH8V-1m2g3jOE4c_DirINhkrYOKmDSuJdS0qihcu38bVkVoqZZzQ9XF76hsmq0iZENqrsyWBrklFMSqRcca0cUWwHcaw43uGyp3BZU9MmJ5PGPNTjZEX1LJklHBzJ4SCpdUsWaECPhaJFSuqOaM0seAKb9YH_FUEo3uiIdml2qkIZjiBU3NHgfEl2nDMaFw-TMV7mhwzgRomsrvIqwRsTWVFiEvX0NPvlQRQ-9S0tvvwkuoqZnfRENv6Z4XPqVMsexJmMaIh5SlZAuW9ePFzc6s0yHZaZsImBnYz2i--NlgmkOOG-xv2JIm4USNNzsAAN3rGxmBgpZiAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEShAEB6zswFd_y66s5hCKHuuXnTxlrTe-KGhOwtizeUUUBtRQDXc47QqdwZ9_v4Zn4YNX-Gyk1p2lGZSzBbyK2CZ_Au9uEhzZMGxySBDA2tzCfTHU-RDLl5sznaw2L-LAWR19lBG5Xe-l9TV_6cn9xsoJM1-QPx1t7ED45jQbyA9ojyZB8nQo&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEShAEB6zswFd_y66s5hCKHuuXnTxlrTe-KGhOwtizeUUUBtRQDXc47QqdwZ9_v4Zn4YNX-Gyk1p2lGZSzBbyK2CZ_Au9uEhzZMGxySBDA2tzCfTHU-RDLl5sznaw2L-LAWR19lBG5Xe-l9TV_6cn9xsoJM1-QPx1t7ED45jQbyA9ojyZB8nQo",
+   "source": "GreatSchools",
+   "read_more_link": "https://www.greatschools.org/ohio/whitehouse/2700-Anthony-Wayne-High-School/#:~:text=Anthony%20Wayne%20High%20School%20is,GreatSchools%20Rating"
+  },
+  {
+   "position": 9,
+   "title": "District News",
+   "link": "https://www.anthonywayneschools.org/News",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAV0Ag4BgxJhlgHNAnPj2uzFN3HaovyhmDfW_uL9Po10yZItdxzJkjazwA2AeDEZyAphnG2wZmY31inB7wQ07znbRqABFN_-GC6FKbhyxduNlH7JCqO_N8z2UkHWA&ved=2ahUKEwiQssOj5uSWAxVXlSsGHWRTB0gQFnoECEEQAQ&uoh=1",
+   "displayed_link": "https://www.anthonywayneschools.org \u203a News",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACO0lEQVR4AZTMA4wlUABD0a5t27Zt27Zt27Zt296xbdu29fqNYHSSxrcoKIbfmUHzWqYMfzEKhSVCX0_jN5AWXZyEWXMn8Ruky_rL0BYck954z3Pvvb9tolpDC0O_TuZzkEFvZkOK3o_miPugiPgwBSpp2aJM67UmXujwgZjwl1WXGcbseOZ7VB68buFIvQXPFfHLhbwCMt61jbDYepbej-cjIDa9ers1xj7o_ZXF5-sTM3SIoT-JwT8oj6y37uP3SV8Z69GKh0CG_B8GKXG5Jvmwx31M3m99GL2-sPgCfRafrStfsTm6xIDvfGYpBjLTugqPV0mi9aU5DDVtAykaHDok9oPC5fFw_LGOGoGhP1hEEctXYq4eZaczjzrflwf3elhzD8h7Iz-K6_0NxGqQQUYDIBOfmFm2ymzdeIz9zeJzlPGUf0S3zzz_LXA3lBhtXprflh_i3grR9NQfAm0zrzh_QO8vxIBvxODvRI_PvPgzaAekTj012N133fNXD_RCWiAv3y0j2-176b2z4RoT7zNfAvdC6sQzwz2ospyovYZovoVos4vn31mtQ0EcfKB7Qh732E8MPEr0O0zUWs3es66aoSA6jjpljyabpPERov9hxXrsY9FeBxgUGlcD-dlx6edp1FmjjuUbfIwou5jP3phNQX6-6bmMQoWlRJc9mrjGKradfMEjKimtPPKTmJJeqs-aB_rouZ9ouomouZod5lxzEmQxFIa9W4hkPB2LDkeZp86e_vzNZ3F0eQAE0U6iP-egHgAAAABJRU5ErkJggg.png",
+   "snippet": "Anthony Wayne High School Student Artists Featured in 55th Annual FOCUS Show. Exhibition runs through September 12. The Generals Post: Digital Newsletter for ...",
+   "snippet_highlighted_words": [
+    "Anthony Wayne High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Anthony Wayne High School Student Artists Featured in 55th Annual FOCUS Show. Exhibition runs through September 12. The Generals Post: Digital Newsletter for ...",
+     "source_info_link": "https://www.anthonywayneschools.org/News",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACO0lEQVR4AZTMA4wlUABD0a5t27Zt27Zt27Zt296xbdu29fqNYHSSxrcoKIbfmUHzWqYMfzEKhSVCX0_jN5AWXZyEWXMn8Ruky_rL0BYck954z3Pvvb9tolpDC0O_TuZzkEFvZkOK3o_miPugiPgwBSpp2aJM67UmXujwgZjwl1WXGcbseOZ7VB68buFIvQXPFfHLhbwCMt61jbDYepbej-cjIDa9ers1xj7o_ZXF5-sTM3SIoT-JwT8oj6y37uP3SV8Z69GKh0CG_B8GKXG5Jvmwx31M3m99GL2-sPgCfRafrStfsTm6xIDvfGYpBjLTugqPV0mi9aU5DDVtAykaHDok9oPC5fFw_LGOGoGhP1hEEctXYq4eZaczjzrflwf3elhzD8h7Iz-K6_0NxGqQQUYDIBOfmFm2ymzdeIz9zeJzlPGUf0S3zzz_LXA3lBhtXprflh_i3grR9NQfAm0zrzh_QO8vxIBvxODvRI_PvPgzaAekTj012N133fNXD_RCWiAv3y0j2-176b2z4RoT7zNfAvdC6sQzwz2ospyovYZovoVos4vn31mtQ0EcfKB7Qh732E8MPEr0O0zUWs3es66aoSA6jjpljyabpPERov9hxXrsY9FeBxgUGlcD-dlx6edp1FmjjuUbfIwou5jP3phNQX6-6bmMQoWlRJc9mrjGKradfMEjKimtPPKTmJJeqs-aB_rouZ9ouomouZod5lxzEmQxFIa9W4hkPB2LDkeZp86e_vzNZ3F0eQAE0U6iP-egHgAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYAHrOzAV0Ag4BgxJhlgHNAnPj2uzFN3HaovyhmDfW_uL9Po10yZItdxzJkjazwA2AeDEZyAphnG2wZmY31inB7wQ07znbRqABFN_-GC6FKbhyxduNlH7JCqO_N8z2UkHWA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYAHrOzAV0Ag4BgxJhlgHNAnPj2uzFN3HaovyhmDfW_uL9Po10yZItdxzJkjazwA2AeDEZyAphnG2wZmY31inB7wQ07znbRqABFN_-GC6FKbhyxduNlH7JCqO_N8z2UkHWA",
+   "source": "Anthony Wayne Local Schools",
+   "read_more_link": "https://www.anthonywayneschools.org/News#:~:text=Anthony%20Wayne%20High%20School%20Student,Exhibition%20runs%20through%20September%2012"
+  },
+  {
+   "position": 10,
+   "title": "Driving directions to Anthony Wayne High School, 5967 ...",
+   "link": "https://www.waze.com/live-map/directions/anthony-wayne-high-school-finzel-rd-5967-whitehouse?to=place.w.181010847.1810239545.267346",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESvAEB6zswFdTZFqfQqG3NvgEnqLMEdXLBkr8TIr7YMz2zm_BUI501FlcDnfU1dD5HVj1edPpQEVAmMlkFmr2g-PTzf338uf2dL4tRQK_z-CPvK8zpmES6BChChQqPwSpiL4_Op8vtnBxuVoFiQKJGDWYhovnmVD4EeTZyc_fDbs4y8TZYrKCXYoRB00IoIm4YtVFtw1u0UqLBKso-qVpHIz1YYv5YTLHucF5ub1jqe65Uek1DUYSCTBtolsDU6A&ved=2ahUKEwiQssOj5uSWAxVXlSsGHWRTB0gQFnoECEYQAQ&uoh=1",
+   "displayed_link": "https://www.waze.com \u203a live-map \u203a directions \u203a anthony...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAnFBMVEX___8AAAAAAAAAAAAAAAAAAAAAAAAAAAAGBgYkJCQPDw8AAAAAAAAAAAARERGHh4ff39_____v7--bm5ssLCy_v78dHR0AAAAAAABAQEBjY2NTU1MvLy8AAACLi4sAAACPj4_Pz89eXl4vLy9fX18PDw-vr69vb28AAAA_Pz-fn59_f39PT08fHx8fHx9PT093d3cAAACsrKw9PT2OeT7UAAAANHRSTlMAMJDQ_-CgUPbg7nAQsPDu____9uj_6_Bg6-vt60D3IP__5P______wP___-j_7f_wgPXnWPjZAAAAAVBJREFUeAGVkwVyxDAQBA1thngVhmNm-v_fUluW6zjQB4ZpseSc4no-ShBGzg2iAIiTJEnVyS7jvIDyoRLFPD6B757XHlA-ypHnF17fTvNX3o2c8QFHIw_4lEseeXUbIeRLrvnAt3mL2MgNXrBjKWjLLZ4JHKVDLDWmK5ZeT_-fiFTI6Nt8wNDmo5Eaj4R1F8ciSjViYESZwERL1G1MMU3Fs-ZuWFeVosIrco8EFfiHYKShuinMR1XTh4EosQo5qVgWzSjmjPSm0snu-CzFYgasxiLVEOb6_IDnBLA2cjRQGM1FKXEdLtZhvlkxm1R2wQOdpa3cwZS6FC705DbvTHWQO-LbxidBbrdTvBdzAJbmGJuv444L4X2Nctx47Rg_Px6ZVyxjDc24H0OheUPuc4V28Mj0NyFDQcfdoiY7psc2psfaXvPrs0uY623uqdoM8RsjPzADs0ZfiwAAAABJRU5ErkJggg.png",
+   "snippet": "Realtime driving directions to Anthony Wayne High School, 5967 Finzel Rd, Whitehouse, based on live traffic updates and road conditions \u2013 from Waze fellow ...",
+   "snippet_highlighted_words": [
+    "Anthony Wayne High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Realtime driving directions to Anthony Wayne High School, 5967 Finzel Rd, Whitehouse, based on live traffic updates and road conditions \u2013 from Waze fellow ...",
+     "source_info_link": "https://www.waze.com/live-map/directions/anthony-wayne-high-school-finzel-rd-5967-whitehouse?to=place.w.181010847.1810239545.267346",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAnFBMVEX___8AAAAAAAAAAAAAAAAAAAAAAAAAAAAGBgYkJCQPDw8AAAAAAAAAAAARERGHh4ff39_____v7--bm5ssLCy_v78dHR0AAAAAAABAQEBjY2NTU1MvLy8AAACLi4sAAACPj4_Pz89eXl4vLy9fX18PDw-vr69vb28AAAA_Pz-fn59_f39PT08fHx8fHx9PT093d3cAAACsrKw9PT2OeT7UAAAANHRSTlMAMJDQ_-CgUPbg7nAQsPDu____9uj_6_Bg6-vt60D3IP__5P______wP___-j_7f_wgPXnWPjZAAAAAVBJREFUeAGVkwVyxDAQBA1thngVhmNm-v_fUluW6zjQB4ZpseSc4no-ShBGzg2iAIiTJEnVyS7jvIDyoRLFPD6B757XHlA-ypHnF17fTvNX3o2c8QFHIw_4lEseeXUbIeRLrvnAt3mL2MgNXrBjKWjLLZ4JHKVDLDWmK5ZeT_-fiFTI6Nt8wNDmo5Eaj4R1F8ciSjViYESZwERL1G1MMU3Fs-ZuWFeVosIrco8EFfiHYKShuinMR1XTh4EosQo5qVgWzSjmjPSm0snu-CzFYgasxiLVEOb6_IDnBLA2cjRQGM1FKXEdLtZhvlkxm1R2wQOdpa3cwZS6FC705DbvTHWQO-LbxidBbrdTvBdzAJbmGJuv444L4X2Nctx47Rg_Px6ZVyxjDc24H0OheUPuc4V28Mj0NyFDQcfdoiY7psc2psfaXvPrs0uY623uqdoM8RsjPzADs0ZfiwAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESvAEB6zswFdTZFqfQqG3NvgEnqLMEdXLBkr8TIr7YMz2zm_BUI501FlcDnfU1dD5HVj1edPpQEVAmMlkFmr2g-PTzf338uf2dL4tRQK_z-CPvK8zpmES6BChChQqPwSpiL4_Op8vtnBxuVoFiQKJGDWYhovnmVD4EeTZyc_fDbs4y8TZYrKCXYoRB00IoIm4YtVFtw1u0UqLBKso-qVpHIz1YYv5YTLHucF5ub1jqe65Uek1DUYSCTBtolsDU6A&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESvAEB6zswFdTZFqfQqG3NvgEnqLMEdXLBkr8TIr7YMz2zm_BUI501FlcDnfU1dD5HVj1edPpQEVAmMlkFmr2g-PTzf338uf2dL4tRQK_z-CPvK8zpmES6BChChQqPwSpiL4_Op8vtnBxuVoFiQKJGDWYhovnmVD4EeTZyc_fDbs4y8TZYrKCXYoRB00IoIm4YtVFtw1u0UqLBKso-qVpHIz1YYv5YTLHucF5ub1jqe65Uek1DUYSCTBtolsDU6A",
+   "source": "Waze"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Anthony Wayne High School Yearbook",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsYiSux1fI62zq3FzzEHAz9r9gQ1g:1789070312272&q=Anthony+Wayne+High+School+Yearbook&sa=X&ved=2ahUKEwiQssOj5uSWAxVXlSsGHWRTB0gQ1QJ6BAhyEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Anthony+Wayne+High+School+Yearbook"
+  },
+  {
+   "block_position": 1,
+   "query": "Anthony Wayne Schools",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsYiSux1fI62zq3FzzEHAz9r9gQ1g:1789070312272&q=Anthony+Wayne+Schools&sa=X&ved=2ahUKEwiQssOj5uSWAxVXlSsGHWRTB0gQ1QJ6BAh-EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Anthony+Wayne+Schools"
+  },
+  {
+   "block_position": 1,
+   "query": "Anthony Wayne Junior High",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsYiSux1fI62zq3FzzEHAz9r9gQ1g:1789070312272&q=Anthony+Wayne+Junior+High&sa=X&ved=2ahUKEwiQssOj5uSWAxVXlSsGHWRTB0gQ1QJ6BAhwEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Anthony+Wayne+Junior+High"
+  },
+  {
+   "block_position": 1,
+   "query": "Anthony Wayne High School graduation 2026",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsYiSux1fI62zq3FzzEHAz9r9gQ1g:1789070312272&q=Anthony+Wayne+High+School+graduation+2026&sa=X&ved=2ahUKEwiQssOj5uSWAxVXlSsGHWRTB0gQ1QJ6BQiBARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Anthony+Wayne+High+School+graduation+2026"
+  },
+  {
+   "block_position": 1,
+   "query": "Anthony Wayne school calendar 25 26",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsYiSux1fI62zq3FzzEHAz9r9gQ1g:1789070312272&q=Anthony+Wayne+school+calendar+25+26&sa=X&ved=2ahUKEwiQssOj5uSWAxVXlSsGHWRTB0gQ1QJ6BAh_EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Anthony+Wayne+school+calendar+25+26"
+  },
+  {
+   "block_position": 1,
+   "query": "Anthony Wayne High School Football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsYiSux1fI62zq3FzzEHAz9r9gQ1g:1789070312272&q=Anthony+Wayne+High+School+Football&sa=X&ved=2ahUKEwiQssOj5uSWAxVXlSsGHWRTB0gQ1QJ6BQiAARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Anthony+Wayne+High+School+Football"
+  },
+  {
+   "block_position": 1,
+   "query": "Anthony Wayne high School enrollment",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsYiSux1fI62zq3FzzEHAz9r9gQ1g:1789070312272&q=Anthony+Wayne+high+School+enrollment&sa=X&ved=2ahUKEwiQssOj5uSWAxVXlSsGHWRTB0gQ1QJ6BAh8EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Anthony+Wayne+high+School+enrollment"
+  },
+  {
+   "block_position": 1,
+   "query": "Anthony Wayne High School calendar",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsYiSux1fI62zq3FzzEHAz9r9gQ1g:1789070312272&q=Anthony+Wayne+High+School+calendar&sa=X&ved=2ahUKEwiQssOj5uSWAxVXlSsGHWRTB0gQ1QJ6BAh2EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Anthony+Wayne+High+School+calendar"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Anthony+Wayne+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsYiSux1fI62zq3FzzEHAz9r9gQ1g:1789070312272&ei=6AujapCeENeqruEP5KadwAQ&start=10&sa=N&sstk=AS6-VmK9c2mDJxxMmc_hv0bV0v_KRiEMxTQo3St76xdCXmwy86S-P8QJaf-y-icbKNM7QiqD_7V1JvjolfCoL0x1QdwiI51mYD8hww&ved=2ahUKEwiQssOj5uSWAxVXlSsGHWRTB0gQ8NMDegQINRAQ",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Anthony+Wayne+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsYiSux1fI62zq3FzzEHAz9r9gQ1g:1789070312272&ei=6AujapCeENeqruEP5KadwAQ&start=10&sa=N&sstk=AS6-VmK9c2mDJxxMmc_hv0bV0v_KRiEMxTQo3St76xdCXmwy86S-P8QJaf-y-icbKNM7QiqD_7V1JvjolfCoL0x1QdwiI51mYD8hww&ved=2ahUKEwiQssOj5uSWAxVXlSsGHWRTB0gQ8tMDegQINRAE",
+   "3": "https://www.google.com/search?q=%22Anthony+Wayne+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsYiSux1fI62zq3FzzEHAz9r9gQ1g:1789070312272&ei=6AujapCeENeqruEP5KadwAQ&start=20&sa=N&sstk=AS6-VmK9c2mDJxxMmc_hv0bV0v_KRiEMxTQo3St76xdCXmwy86S-P8QJaf-y-icbKNM7QiqD_7V1JvjolfCoL0x1QdwiI51mYD8hww&ved=2ahUKEwiQssOj5uSWAxVXlSsGHWRTB0gQ8tMDegQINRAG",
+   "4": "https://www.google.com/search?q=%22Anthony+Wayne+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsYiSux1fI62zq3FzzEHAz9r9gQ1g:1789070312272&ei=6AujapCeENeqruEP5KadwAQ&start=30&sa=N&sstk=AS6-VmK9c2mDJxxMmc_hv0bV0v_KRiEMxTQo3St76xdCXmwy86S-P8QJaf-y-icbKNM7QiqD_7V1JvjolfCoL0x1QdwiI51mYD8hww&ved=2ahUKEwiQssOj5uSWAxVXlSsGHWRTB0gQ8tMDegQINRAI",
+   "5": "https://www.google.com/search?q=%22Anthony+Wayne+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsYiSux1fI62zq3FzzEHAz9r9gQ1g:1789070312272&ei=6AujapCeENeqruEP5KadwAQ&start=40&sa=N&sstk=AS6-VmK9c2mDJxxMmc_hv0bV0v_KRiEMxTQo3St76xdCXmwy86S-P8QJaf-y-icbKNM7QiqD_7V1JvjolfCoL0x1QdwiI51mYD8hww&ved=2ahUKEwiQssOj5uSWAxVXlSsGHWRTB0gQ8tMDegQINRAK",
+   "6": "https://www.google.com/search?q=%22Anthony+Wayne+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsYiSux1fI62zq3FzzEHAz9r9gQ1g:1789070312272&ei=6AujapCeENeqruEP5KadwAQ&start=50&sa=N&sstk=AS6-VmK9c2mDJxxMmc_hv0bV0v_KRiEMxTQo3St76xdCXmwy86S-P8QJaf-y-icbKNM7QiqD_7V1JvjolfCoL0x1QdwiI51mYD8hww&ved=2ahUKEwiQssOj5uSWAxVXlSsGHWRTB0gQ8tMDegQINRAM",
+   "7": "https://www.google.com/search?q=%22Anthony+Wayne+High+School%22+Ohio&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsYiSux1fI62zq3FzzEHAz9r9gQ1g:1789070312272&ei=6AujapCeENeqruEP5KadwAQ&start=60&sa=N&sstk=AS6-VmK9c2mDJxxMmc_hv0bV0v_KRiEMxTQo3St76xdCXmwy86S-P8QJaf-y-icbKNM7QiqD_7V1JvjolfCoL0x1QdwiI51mYD8hww&ved=2ahUKEwiQssOj5uSWAxVXlSsGHWRTB0gQ8tMDegQINRAO"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Anthony+Wayne+High+School%22+Ohio&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Anthony+Wayne+High+School%22+Ohio&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Anthony+Wayne+High+School%22+Ohio&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Anthony+Wayne+High+School%22+Ohio&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Anthony+Wayne+High+School%22+Ohio&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Anthony+Wayne+High+School%22+Ohio&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Anthony+Wayne+High+School%22+Ohio&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Anthony+Wayne+High+School%22+Ohio&start=60"
+  }
+ }
+}

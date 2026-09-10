@@ -1,0 +1,291 @@
+{
+ "search_information": {
+  "query_displayed": "\"California Springs School\"",
+  "total_results": 74,
+  "time_taken_displayed": 0.2,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "ai_overview": {
+  "page_token": "3fKxPHiczZVfc6o4FMA_wH6Oy8ttBfzT1s4wd5JILbaVRrSoLw6GGFAQBSn1vu3bfpD9VPtpNoC6aLHd3oedPTOQhJycHE7OL-f3Pz13ufjrtz-czWYV3YpikiQVFgTMoxUS-KIVbZdEnAVeFBLnRxTEIaGurRAnDHwqOJ5ClwLzlDgStq9KTSCRIgnUVd7wdm6F-qumD_uNbvD82pmiGEdCZk6ZTK2Izvlub_NInIj8tfhWa_FBJarQZaU3DhkJcX92-VSpSnKzoouWzxXAfyYIYMD4G-FscFba_84cY0AFoFOwn9tUCyrpAAOVwXwMcbkprHHVtAUY5Z61kp-XoynvWLlGK50sF1ScgCzTgzCzBwwIzi8sldxTxHa2P9RVS7-iooFUnj5dwn0cHXuhAfSc7EL83hMNqNqRxzjfhMEEzJMZU1UVfuA3D8gggY2HdMUHalwesNZPdi48tUy-sWgznrSSOA15I4sucUjWCaM0l1G_KQX3-iskzG92b-hiPTXlu8bAdK3x5tKiQCRTrucFlk3tiTORfmRjuSo3pGbt-uYig4hEB4qiIkUrv46uJ2Mkb24qjxUo7xFCaUTeR4lHm4-RBt4L3KVZ6QFrYH8Y6iHA3IyGCuEa7FoHwACneVuwDQJMsoDt1WmWv6RX2OHgIShD6NQ1jpCbLeKuwME-SY-SiaPNYMlSLuTdH77LQr5vkvfYKf34JJNUjBbFLZKjWe6k4ahpoFICXqiaRoaA02xU98vx3l-WHuI-7gfjeOduASGXpVHn2zKDK3Ywe0jV4eEM4O7nYOcUfPf0r3PjnDE40r52S-xE--SCyHX2rJykfhEZ1YaaNgR34aQXXTVWcZKMfhKa0C7ErByRwJ9-odKQ_xNE7r4ODXZrz0BE087nEDF-3Z2tQ3l3X4dcmEMEe2cg0nKISuoQzTUKdegUImQUIPqkDn0VIuNDiPLLqBSi1EAZRIszEO3qUAEi47gOHUF0qEP_QPQrdQj9Uh3KmKJ5c1yU4jk7W5za3UvkBItWvOoZ5lOdJvrw_s3FM9wC-NPiNPM3t75lexcT176F1c5ma19M-IfgltrCWvlWrSLLc2dBuHSt78YqdJcs-m4QJwg8Pif4XhgoktVYzMdNQ37r202n7Umdx7gFjPq9PjTDrT6HW5tcafX13Tyq1Wrrm3jVpB2nPQ6mGLacUd9yQNx3np-7kh_q63boLeqNt06XBN1u1xijh4muP2xftveDoemawxd9vX6U7SFuR-amIYEn89rU4pbbq8VJ5k-keMPw2Ruu0L0vCfxfIqrIgh8ShZ9KnYEuBibjyYdGnAme1CjgT8KfK4BVKETEmtDoVZFq0xnlkSJkajfrVW6BbbYrpS4L0TJU5L8Bf-BILg",
+  "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=3fKxPHiczZVfc6o4FMA_wH6Oy8ttBfzT1s4wd5JILbaVRrSoLw6GGFAQBSn1vu3bfpD9VPtpNoC6aLHd3oedPTOQhJycHE7OL-f3Pz13ufjrtz-czWYV3YpikiQVFgTMoxUS-KIVbZdEnAVeFBLnRxTEIaGurRAnDHwqOJ5ClwLzlDgStq9KTSCRIgnUVd7wdm6F-qumD_uNbvD82pmiGEdCZk6ZTK2Izvlub_NInIj8tfhWa_FBJarQZaU3DhkJcX92-VSpSnKzoouWzxXAfyYIYMD4G-FscFba_84cY0AFoFOwn9tUCyrpAAOVwXwMcbkprHHVtAUY5Z61kp-XoynvWLlGK50sF1ScgCzTgzCzBwwIzi8sldxTxHa2P9RVS7-iooFUnj5dwn0cHXuhAfSc7EL83hMNqNqRxzjfhMEEzJMZU1UVfuA3D8gggY2HdMUHalwesNZPdi48tUy-sWgznrSSOA15I4sucUjWCaM0l1G_KQX3-iskzG92b-hiPTXlu8bAdK3x5tKiQCRTrucFlk3tiTORfmRjuSo3pGbt-uYig4hEB4qiIkUrv46uJ2Mkb24qjxUo7xFCaUTeR4lHm4-RBt4L3KVZ6QFrYH8Y6iHA3IyGCuEa7FoHwACneVuwDQJMsoDt1WmWv6RX2OHgIShD6NQ1jpCbLeKuwME-SY-SiaPNYMlSLuTdH77LQr5vkvfYKf34JJNUjBbFLZKjWe6k4ahpoFICXqiaRoaA02xU98vx3l-WHuI-7gfjeOduASGXpVHn2zKDK3Ywe0jV4eEM4O7nYOcUfPf0r3PjnDE40r52S-xE--SCyHX2rJykfhEZ1YaaNgR34aQXXTVWcZKMfhKa0C7ErByRwJ9-odKQ_xNE7r4ODXZrz0BE087nEDF-3Z2tQ3l3X4dcmEMEe2cg0nKISuoQzTUKdegUImQUIPqkDn0VIuNDiPLLqBSi1EAZRIszEO3qUAEi47gOHUF0qEP_QPQrdQj9Uh3KmKJ5c1yU4jk7W5za3UvkBItWvOoZ5lOdJvrw_s3FM9wC-NPiNPM3t75lexcT176F1c5ma19M-IfgltrCWvlWrSLLc2dBuHSt78YqdJcs-m4QJwg8Pif4XhgoktVYzMdNQ37r202n7Umdx7gFjPq9PjTDrT6HW5tcafX13Tyq1Wrrm3jVpB2nPQ6mGLacUd9yQNx3np-7kh_q63boLeqNt06XBN1u1xijh4muP2xftveDoemawxd9vX6U7SFuR-amIYEn89rU4pbbq8VJ5k-keMPw2Ruu0L0vCfxfIqrIgh8ShZ9KnYEuBibjyYdGnAme1CjgT8KfK4BVKETEmtDoVZFq0xnlkSJkajfrVW6BbbYrpS4L0TJU5L8Bf-BILg"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "California Springs School of Rhythmic Gymnastics",
+   "link": "https://www.sportsengine.com/org/california-springs-school-of-rhythmic-gymnastics",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiQEB6zswFS3j9hW_FJBeSE82nkarWxtFE2lRS7Ys7Da0TWBG6nbPREa3WFcvH70s2aOj6MC7AqUW_rSP34AWxjQFXzeml7Jhl3u1nWCged5fdLKjfEkig1nQR9HJ3QcxgTHZFLkDQ6B59D5dP6aqXbNmBZgAbtZndEyQwGz8mkAaib1fjuLtcsPf6w&ved=2ahUKEwjzpYSN5-SWAxXlKVkFHTyLMLcQFnoECB0QAQ&uoh=1",
+   "displayed_link": "https://www.sportsengine.com \u203a org \u203a california-springs-...",
+   "snippet": "North Hollywood, CA \u00b7 www.facebook.com/California-Springs-School-of-Rhythmic-Gymnastics-158362244082/ \u00b7 (818) 317-9787 ...",
+   "snippet_highlighted_words": [
+    "California-Springs-School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "North Hollywood, CA \u00b7 www.facebook.com/California-Springs-School-of-Rhythmic-Gymnastics-158362244082/ \u00b7 (818) 317-9787 ...",
+     "source_info_link": "https://www.sportsengine.com/org/california-springs-school-of-rhythmic-gymnastics"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESiQEB6zswFS3j9hW_FJBeSE82nkarWxtFE2lRS7Ys7Da0TWBG6nbPREa3WFcvH70s2aOj6MC7AqUW_rSP34AWxjQFXzeml7Jhl3u1nWCged5fdLKjfEkig1nQR9HJ3QcxgTHZFLkDQ6B59D5dP6aqXbNmBZgAbtZndEyQwGz8mkAaib1fjuLtcsPf6w&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESiQEB6zswFS3j9hW_FJBeSE82nkarWxtFE2lRS7Ys7Da0TWBG6nbPREa3WFcvH70s2aOj6MC7AqUW_rSP34AWxjQFXzeml7Jhl3u1nWCged5fdLKjfEkig1nQR9HJ3QcxgTHZFLkDQ6B59D5dP6aqXbNmBZgAbtZndEyQwGz8mkAaib1fjuLtcsPf6w",
+   "source": "SportsEngine",
+   "read_more_link": "https://www.sportsengine.com/org/california-springs-school-of-rhythmic-gymnastics#:~:text=North%20Hollywood%2C%20CA&text=www.facebook.com%2FCalifornia%2DSprings%2DSchool%2Dof%2DRhythmic%2DGymnastics%2D158362244082%2F&text=(818)%20317%2D9787"
+  },
+  {
+   "position": 2,
+   "title": "California Springs School of Rhythmic Gymnastics",
+   "link": "https://www.facebook.com/California-Springs-School-of-Rhythmic-Gymnastics-158362244082/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjwEB6zswFRHmW2qcTnq9x-vKXgceQK0eOepFVDoSMz9F4Xva6XxJI-xBN8ydMefn16k1NNAWcyuYgzEhgNcUABpi1IvydGZsw9k9TZsUh9c4OYETOsAJ2c_E4uq1VZ1sij-iT5ccZvKj2vOOGak7-OX7hmWM6zvAE5uyikXkyahvxOzkjMHxJXQ9IGsSSsbBCw&ved=2ahUKEwjzpYSN5-SWAxXlKVkFHTyLMLcQFnoECCAQAQ&uoh=1",
+   "displayed_link": "640+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "snippet": "California Springs School of Rhythmic Gymnastics. Elite Rhythmic Gymnastics School in Los Angeles for over 25 years. Intensive, Competitive, and Recreational ...",
+   "snippet_highlighted_words": [
+    "California Springs School"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 5.0,
+      "reviews": 1
+     },
+     "extensions": [
+      "5.0(1)"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "California Springs School of Rhythmic Gymnastics. Elite Rhythmic Gymnastics School in Los Angeles for over 25 years. Intensive, Competitive, and Recreational ...",
+     "source_info_link": "https://www.facebook.com/California-Springs-School-of-Rhythmic-Gymnastics-158362244082/",
+     "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESjwEB6zswFRHmW2qcTnq9x-vKXgceQK0eOepFVDoSMz9F4Xva6XxJI-xBN8ydMefn16k1NNAWcyuYgzEhgNcUABpi1IvydGZsw9k9TZsUh9c4OYETOsAJ2c_E4uq1VZ1sij-iT5ccZvKj2vOOGak7-OX7hmWM6zvAE5uyikXkyahvxOzkjMHxJXQ9IGsSSsbBCw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESjwEB6zswFRHmW2qcTnq9x-vKXgceQK0eOepFVDoSMz9F4Xva6XxJI-xBN8ydMefn16k1NNAWcyuYgzEhgNcUABpi1IvydGZsw9k9TZsUh9c4OYETOsAJ2c_E4uq1VZ1sij-iT5ccZvKj2vOOGak7-OX7hmWM6zvAE5uyikXkyahvxOzkjMHxJXQ9IGsSSsbBCw",
+   "source": "Facebook \u00b7 California Springs School of Rhythmic Gymnastics | North Hollywood CA",
+   "read_more_link": "https://www.facebook.com/California-Springs-School-of-Rhythmic-Gymnastics-158362244082/#:~:text=California%20Springs%20School%20of%20Rhythmic,Intensive%2C%20Competitive%2C%20and%20Recreational%20programs."
+  },
+  {
+   "position": 3,
+   "title": "California Springs R. G. (@casprings_rhythmicgymnastics)",
+   "link": "https://www.instagram.com/casprings_rhythmicgymnastics/?hl=en",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAV9Yym76cpYbxOKQxatbVXIfg1amsvmjw5uJhZHw_rjB6FSUQdm8wPR05vHwelm6sk2SDCij78tUbB1qbiAFa6iC3tlYRwpJHW3GfkjcLHDV1baOxS9zgobsZbgQypLV3cUMNjkEif8dsN8BIm2t4_VQ&ved=2ahUKEwjzpYSN5-SWAxXlKVkFHTyLMLcQFnoECCkQAQ&uoh=1",
+   "displayed_link": "2.2K+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+   "snippet": "... California Springs School of Rhythmic Gymnastics! This is more than a class\u2014it is a chance to step into your daughter's world and experience the strength ...",
+   "snippet_highlighted_words": [
+    "California Springs School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "... California Springs School of Rhythmic Gymnastics! This is more than a class\u2014it is a chance to step into your daughter's world and experience the strength ...",
+     "source_info_link": "https://www.instagram.com/casprings_rhythmicgymnastics/?hl=en",
+     "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdQHrOzAV9Yym76cpYbxOKQxatbVXIfg1amsvmjw5uJhZHw_rjB6FSUQdm8wPR05vHwelm6sk2SDCij78tUbB1qbiAFa6iC3tlYRwpJHW3GfkjcLHDV1baOxS9zgobsZbgQypLV3cUMNjkEif8dsN8BIm2t4_VQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdQHrOzAV9Yym76cpYbxOKQxatbVXIfg1amsvmjw5uJhZHw_rjB6FSUQdm8wPR05vHwelm6sk2SDCij78tUbB1qbiAFa6iC3tlYRwpJHW3GfkjcLHDV1baOxS9zgobsZbgQypLV3cUMNjkEif8dsN8BIm2t4_VQ",
+   "source": "Instagram \u00b7 casprings_rhythmicgymnastics"
+  },
+  {
+   "position": 4,
+   "title": "California Springs School of Rhythmic Gymnastics on Reels",
+   "link": "https://www.facebook.com/100057240325283/videos/393004591361779/",
+   "displayed_link": "https://www.facebook.com \u00b7 Aug 20, 2026",
+   "thumbnail": "https://serpapi.com/searches/6aa30cbf550cc4acf28deefb/images/DGvB_IMm0_UGtGr3osNrHd8W_UkEIpgbrHwD7Wp7oUM.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "snippet": "Video by California Springs School of Rhythmic Gymnastics.",
+   "duration": "0:13",
+   "about_this_result": {
+    "source": {
+     "description": "Video by California Springs School of Rhythmic Gymnastics.",
+     "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESeAHrOzAVsMnktSatt7pfhtERJS0qXmmdQUtZiUbFRWcUtpFoAVHuzhDZfDju6m8c__Dx5YMdfRq7OhFpEeFxG91d06C1p6OeSql2ig-vbzgNSTnc1EtJJ72VL1Hh2-QnnEraS1-jSjOL3CY8u92KJnMriglRbBxDKw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESeAHrOzAVsMnktSatt7pfhtERJS0qXmmdQUtZiUbFRWcUtpFoAVHuzhDZfDju6m8c__Dx5YMdfRq7OhFpEeFxG91d06C1p6OeSql2ig-vbzgNSTnc1EtJJ72VL1Hh2-QnnEraS1-jSjOL3CY8u92KJnMriglRbBxDKw",
+   "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ4FU6Gfo6y6v09CHaZeHqRpxgTnFU0Q9pF5w",
+   "source": "Facebook \u00b7 California Springs School of Rhythmic Gymnastics | North Hollywood CA"
+  },
+  {
+   "position": 5,
+   "title": "California Springs School of Rhythmic Gymnastics",
+   "link": "https://thehollywoodchristmasparade.org/dance-group/california-springs-school-of-rhythmic-gymnastics/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnQEB6zswFXN-VPtbBcXZcydVtnv1ktFLogwidjYVj5xpkLMns63V393lfVWzKRODZlnWVvLh8Y9ejrJ5Z8lqdcvtWm-d9NngMw2rP58jzY8-3T7BVAlAhkCw5L3xVX3rzp-RN0XvFj2qLWbkDK-iaOCFLAZdjq723P6Ddj36MaWF07zoNWnE6Q6EB7urIVNOD8B7ciWRY08-8mgNzvZk&ved=2ahUKEwjzpYSN5-SWAxXlKVkFHTyLMLcQFnoECCwQAQ&uoh=1",
+   "displayed_link": "https://thehollywoodchristmasparade.org \u203a dance-group",
+   "favicon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAABQBACdASocABIAPtE-tFooIigoFAEAGgljALboqcGEgPd6Df6D3g_nw_GAAP72B-DStIJps6Nv88VefS2yoCW2eSqPAIBn8ebA6k2CL9wyhHFO9lZQjo2uSo0h0qR12uxixw6wj_T4q0BDzOYAJG-9vEgDTXq7DqE8P4fHh_12YMhr9KAAAA.webp",
+   "snippet": "California Springs School of Rhythmic Gymnastics was founded in 1993 by Hasmik Gulanyan, head coach of Armenia's National Team. In the last 30 years, ...",
+   "snippet_highlighted_words": [
+    "California Springs School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "California Springs School of Rhythmic Gymnastics was founded in 1993 by Hasmik Gulanyan, head coach of Armenia's National Team. In the last 30 years, ...",
+     "source_info_link": "https://thehollywoodchristmasparade.org/dance-group/california-springs-school-of-rhythmic-gymnastics/",
+     "icon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAABQBACdASocABIAPtE-tFooIigoFAEAGgljALboqcGEgPd6Df6D3g_nw_GAAP72B-DStIJps6Nv88VefS2yoCW2eSqPAIBn8ebA6k2CL9wyhHFO9lZQjo2uSo0h0qR12uxixw6wj_T4q0BDzOYAJG-9vEgDTXq7DqE8P4fHh_12YMhr9KAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESnQEB6zswFXN-VPtbBcXZcydVtnv1ktFLogwidjYVj5xpkLMns63V393lfVWzKRODZlnWVvLh8Y9ejrJ5Z8lqdcvtWm-d9NngMw2rP58jzY8-3T7BVAlAhkCw5L3xVX3rzp-RN0XvFj2qLWbkDK-iaOCFLAZdjq723P6Ddj36MaWF07zoNWnE6Q6EB7urIVNOD8B7ciWRY08-8mgNzvZk&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESnQEB6zswFXN-VPtbBcXZcydVtnv1ktFLogwidjYVj5xpkLMns63V393lfVWzKRODZlnWVvLh8Y9ejrJ5Z8lqdcvtWm-d9NngMw2rP58jzY8-3T7BVAlAhkCw5L3xVX3rzp-RN0XvFj2qLWbkDK-iaOCFLAZdjq723P6Ddj36MaWF07zoNWnE6Q6EB7urIVNOD8B7ciWRY08-8mgNzvZk",
+   "source": "The Hollywood Christmas Parade",
+   "read_more_link": "https://thehollywoodchristmasparade.org/dance-group/california-springs-school-of-rhythmic-gymnastics/#:~:text=California%20Springs%20School%20of%20Rhythmic,In%20the%20last%2030%20years%2C"
+  },
+  {
+   "position": 6,
+   "title": "California Springs School of Rhythmic Gymnastics",
+   "link": "https://gymnasticshq.com/gym-directory/california-springs-school-of-rhythmic-gymnastics/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkAEB6zswFcbL9oZHRcEhSqmDygid_kb4AF71YZppJCbB8TFlaMdjSXLGswSGDtnG-JvLqMkVKrNpqUFTUCDQ4ht0GKH3MqC0LlGXUNQIB9nMJt6Ejt9XsukMXPwsrBNnA0bdw6KfDQp-jycgQTCCo-Q3CZ5eYKw4hevEGELmEe5J3AKUKXUQrGfPKejA5yhHd0o&ved=2ahUKEwjzpYSN5-SWAxXlKVkFHTyLMLcQFnoECCgQAQ&uoh=1",
+   "displayed_link": "https://gymnasticshq.com \u203a gym-directory \u203a california-sp...",
+   "favicon": "https://serpapi.com/images/i/UklGRnwAAABXRUJQVlA4IHAAAABQAgCdASoQABAAAsBMJQACH9eMKC5InmhG5SAA_vdDCsdua7H-xNSY4MK-3w0t1qylFXdcxndXXWbhfPajxo4OrnMzcb4L6yfmTRnMbvLnBIOffOZbM0nwAT9yRoWyR3EVgfisNubMnNNncJe_jyAA.webp",
+   "snippet": "California Springs School of Rhythmic Gymnastics. Looking for a gymnastics gym near you? gymnastics gym directory. Finding the perfect gymnastics gym is hard ...",
+   "snippet_highlighted_words": [
+    "California Springs School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "California Springs School of Rhythmic Gymnastics. Looking for a gymnastics gym near you? gymnastics gym directory. Finding the perfect gymnastics gym is hard ...",
+     "source_info_link": "https://gymnasticshq.com/gym-directory/california-springs-school-of-rhythmic-gymnastics/",
+     "icon": "https://serpapi.com/images/i/UklGRnwAAABXRUJQVlA4IHAAAABQAgCdASoQABAAAsBMJQACH9eMKC5InmhG5SAA_vdDCsdua7H-xNSY4MK-3w0t1qylFXdcxndXXWbhfPajxo4OrnMzcb4L6yfmTRnMbvLnBIOffOZbM0nwAT9yRoWyR3EVgfisNubMnNNncJe_jyAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESkAEB6zswFcbL9oZHRcEhSqmDygid_kb4AF71YZppJCbB8TFlaMdjSXLGswSGDtnG-JvLqMkVKrNpqUFTUCDQ4ht0GKH3MqC0LlGXUNQIB9nMJt6Ejt9XsukMXPwsrBNnA0bdw6KfDQp-jycgQTCCo-Q3CZ5eYKw4hevEGELmEe5J3AKUKXUQrGfPKejA5yhHd0o&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESkAEB6zswFcbL9oZHRcEhSqmDygid_kb4AF71YZppJCbB8TFlaMdjSXLGswSGDtnG-JvLqMkVKrNpqUFTUCDQ4ht0GKH3MqC0LlGXUNQIB9nMJt6Ejt9XsukMXPwsrBNnA0bdw6KfDQp-jycgQTCCo-Q3CZ5eYKw4hevEGELmEe5J3AKUKXUQrGfPKejA5yhHd0o",
+   "source": "GymnasticsHQ",
+   "read_more_link": "https://gymnasticshq.com/gym-directory/california-springs-school-of-rhythmic-gymnastics/#:~:text=California%20Springs%20School%20of%20Rhythmic,gymnastics%20gym%20directory%20can%20help."
+  },
+  {
+   "position": 7,
+   "title": "Dear California Springs Parents, We are excited to invite ...",
+   "link": "https://www.instagram.com/p/Dcy6_2JNByR/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAVtAjsdfCKGo4W60u1JJM225X87GX3HjQi5jNDWlZnH0dmcfxPoftzv8evWLeju5EwSSvWsDOjof-_5y0teix4HiQp7BzgcNcIn1zHLs4RLUWNpVETF9ej0B9-3g&ved=2ahUKEwjzpYSN5-SWAxXlKVkFHTyLMLcQFnoECC0QAQ&uoh=1",
+   "displayed_link": "30+ likes \u00b7 1 week ago",
+   "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+   "snippet": "We are excited to invite you to a very special Mother-Daughter Training Day at California Springs School of Rhythmic Gymnastics! This is more ...",
+   "snippet_highlighted_words": [
+    "California Springs School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "We are excited to invite you to a very special Mother-Daughter Training Day at California Springs School of Rhythmic Gymnastics! This is more ...",
+     "source_info_link": "https://www.instagram.com/p/Dcy6_2JNByR/",
+     "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYAHrOzAVtAjsdfCKGo4W60u1JJM225X87GX3HjQi5jNDWlZnH0dmcfxPoftzv8evWLeju5EwSSvWsDOjof-_5y0teix4HiQp7BzgcNcIn1zHLs4RLUWNpVETF9ej0B9-3g&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYAHrOzAVtAjsdfCKGo4W60u1JJM225X87GX3HjQi5jNDWlZnH0dmcfxPoftzv8evWLeju5EwSSvWsDOjof-_5y0teix4HiQp7BzgcNcIn1zHLs4RLUWNpVETF9ej0B9-3g",
+   "source": "Instagram \u00b7 casprings_rhythmicgymnastics",
+   "read_more_link": "https://www.instagram.com/p/Dcy6_2JNByR/#:~:text=We%20are%20excited%20to%20invite,This%20is%20more"
+  },
+  {
+   "position": 8,
+   "title": "Happiest birthday to the founder and head coach of California ...",
+   "link": "https://www.facebook.com/100057240325283/videos/happiest-birthday-to-the-founder-and-head-coach-of-california-springs-hasmik-gul/796611580717570/?locale=ru_RU",
+   "displayed_link": "20+ reactions \u00b7 2 weeks ago",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtcJIcZRa1f583YVr3OK44vOHcibLj4CdiaLqMFtd0q_5wMti-WYPFeg&s",
+   "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "snippet": "California Springs School of Rhythmic Gymnastics. 20 \u043d\u043e\u044f\u0431. 2018\u0433.\u00b7 \udb81\udfe0. \udb8c\udd2b. Happiest birthday to the founder and head coach of California Springs Hasmik ...",
+   "duration": "0:15",
+   "about_this_result": {
+    "source": {
+     "description": "California Springs School of Rhythmic Gymnastics. 20 \u043d\u043e\u044f\u0431. 2018\u0433.\u00b7 \udb81\udfe0. \udb8c\udd2b. Happiest birthday to the founder and head coach of California Springs Hasmik ...",
+     "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAES1wEB6zswFfwOoP59T1lmZ9w5vtemZRfR-fHhGqRWemVnJdGYZPpPwPT8EATeauG-e2uBhf0FwTZQRr-hYDN1CwkGunmWS-Fbh1BMCyAmxzHi-ilt2ujEFxmUiihIfrFatOB8_s8sSKjI9PKp79uq2dLH7qIRLloFOueQV_kwP39zOezXxvH-I5Rt5mVKLRPkTPCdP6oAHtEkhOXRxIaTtOrw9GsB8iQzBA99_r7I4ZaCmZSalKAAYZbiY0Xb_TPVrcDOVkhBbq1ySog2vNfGoauwyeKc7UU1zg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAES1wEB6zswFfwOoP59T1lmZ9w5vtemZRfR-fHhGqRWemVnJdGYZPpPwPT8EATeauG-e2uBhf0FwTZQRr-hYDN1CwkGunmWS-Fbh1BMCyAmxzHi-ilt2ujEFxmUiihIfrFatOB8_s8sSKjI9PKp79uq2dLH7qIRLloFOueQV_kwP39zOezXxvH-I5Rt5mVKLRPkTPCdP6oAHtEkhOXRxIaTtOrw9GsB8iQzBA99_r7I4ZaCmZSalKAAYZbiY0Xb_TPVrcDOVkhBbq1ySog2vNfGoauwyeKc7UU1zg",
+   "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQrWAUaUhHfcR2eLuSVjWQGWEWAJEcFt6TqwA",
+   "source": "Facebook \u00b7 California Springs School of Rhythmic Gymnastics | North Hollywood CA"
+  },
+  {
+   "position": 9,
+   "title": "Petition \u00b7 DVP Leotard Restriction 2026 - United States",
+   "link": "https://www.change.org/p/dvp-leotard-restriction-2026",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbQHrOzAVVI8abGzi1XqPzm-uSGSPO0Wi9JRGO6D5qtX3jNbIPQjWtBwFFBb61nUw0s9WTMp13bhudtQjtb1w4v0tuCsWxjZvbIsRxGgk_G2aU8B18F3cZgsde0hNfaYlvzHSG-NfgxGnKM-rmSk&ved=2ahUKEwjzpYSN5-SWAxXlKVkFHTyLMLcQFnoECC8QAQ&uoh=1",
+   "displayed_link": "https://www.change.org \u203a Business and Economy",
+   "favicon": "https://serpapi.com/images/i/UklGRhYBAABXRUJQVlA4IAoBAADQBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHXg_XQDbNeJnkuW8sERfuwAeHUeWJ3k5XyMgnVNO_G72QAA_PcnGvvROxrejVTrfG5ZCx8Fb9FoW4ZIo2fM9usrS2T_-JTzsvsntjG71XqDwzAfEcwsX9ghQUQeqjfD7kt6G3a1L3FG7xzL3l5SsQv3P-uk33IUxIbB2gW-IW1bQ4DW5z9-QtzsDZ1Giczutcy48jGwETwbQBjR7mqwLoR1E30jr_H6Z0_4Xg4HOhxB_7CIr6Wdc-7M5VCSxQ3_Eimpa-m1IAEYRaOhKitzwoZoTAjpDb2Baw_MjhOKCIlbz_rDSuKwa0UFTdAAAA.webp",
+   "date": "May 19, 2025",
+   "snippet": "My name is Karine Mantashyan and I am the head coach of California Springs School of Rhythmic Gymnastics - an institution with over 30 years of ...",
+   "snippet_highlighted_words": [
+    "California Springs School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "My name is Karine Mantashyan and I am the head coach of California Springs School of Rhythmic Gymnastics - an institution with over 30 years of ...",
+     "source_info_link": "https://www.change.org/p/dvp-leotard-restriction-2026",
+     "icon": "https://serpapi.com/images/i/UklGRhYBAABXRUJQVlA4IAoBAADQBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHXg_XQDbNeJnkuW8sERfuwAeHUeWJ3k5XyMgnVNO_G72QAA_PcnGvvROxrejVTrfG5ZCx8Fb9FoW4ZIo2fM9usrS2T_-JTzsvsntjG71XqDwzAfEcwsX9ghQUQeqjfD7kt6G3a1L3FG7xzL3l5SsQv3P-uk33IUxIbB2gW-IW1bQ4DW5z9-QtzsDZ1Giczutcy48jGwETwbQBjR7mqwLoR1E30jr_H6Z0_4Xg4HOhxB_7CIr6Wdc-7M5VCSxQ3_Eimpa-m1IAEYRaOhKitzwoZoTAjpDb2Baw_MjhOKCIlbz_rDSuKwa0UFTdAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESbQHrOzAVVI8abGzi1XqPzm-uSGSPO0Wi9JRGO6D5qtX3jNbIPQjWtBwFFBb61nUw0s9WTMp13bhudtQjtb1w4v0tuCsWxjZvbIsRxGgk_G2aU8B18F3cZgsde0hNfaYlvzHSG-NfgxGnKM-rmSk&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESbQHrOzAVVI8abGzi1XqPzm-uSGSPO0Wi9JRGO6D5qtX3jNbIPQjWtBwFFBb61nUw0s9WTMp13bhudtQjtb1w4v0tuCsWxjZvbIsRxGgk_G2aU8B18F3cZgsde0hNfaYlvzHSG-NfgxGnKM-rmSk",
+   "source": "Change.org",
+   "read_more_link": "https://www.change.org/p/dvp-leotard-restriction-2026#:~:text=My%20name%20is%20Karine%20Mantashyan,over%2030%20years%20of%20history."
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22California+Springs+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvyekua5J_-7x53faRxq8vjOLmD9Q:1789070533540&ei=xQyjarOvIOXT5NoPvJbCuQs&start=10&sa=N&sstk=AS6-VmJ60O2nwLfbBSbXwuzogpfGnhZuAruPpQD7W3TtE9dmqR3kOXuO0N6QOPebja25qA_Kar-AB1XmgWfJ72chBF5aWWG3HHceHg&ved=2ahUKEwjzpYSN5-SWAxXlKVkFHTyLMLcQ8NMDegQIJBAQ",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22California+Springs+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvyekua5J_-7x53faRxq8vjOLmD9Q:1789070533540&ei=xQyjarOvIOXT5NoPvJbCuQs&start=10&sa=N&sstk=AS6-VmJ60O2nwLfbBSbXwuzogpfGnhZuAruPpQD7W3TtE9dmqR3kOXuO0N6QOPebja25qA_Kar-AB1XmgWfJ72chBF5aWWG3HHceHg&ved=2ahUKEwjzpYSN5-SWAxXlKVkFHTyLMLcQ8tMDegQIJBAE",
+   "3": "https://www.google.com/search?q=%22California+Springs+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvyekua5J_-7x53faRxq8vjOLmD9Q:1789070533540&ei=xQyjarOvIOXT5NoPvJbCuQs&start=20&sa=N&sstk=AS6-VmJ60O2nwLfbBSbXwuzogpfGnhZuAruPpQD7W3TtE9dmqR3kOXuO0N6QOPebja25qA_Kar-AB1XmgWfJ72chBF5aWWG3HHceHg&ved=2ahUKEwjzpYSN5-SWAxXlKVkFHTyLMLcQ8tMDegQIJBAG",
+   "4": "https://www.google.com/search?q=%22California+Springs+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvyekua5J_-7x53faRxq8vjOLmD9Q:1789070533540&ei=xQyjarOvIOXT5NoPvJbCuQs&start=30&sa=N&sstk=AS6-VmJ60O2nwLfbBSbXwuzogpfGnhZuAruPpQD7W3TtE9dmqR3kOXuO0N6QOPebja25qA_Kar-AB1XmgWfJ72chBF5aWWG3HHceHg&ved=2ahUKEwjzpYSN5-SWAxXlKVkFHTyLMLcQ8tMDegQIJBAI",
+   "5": "https://www.google.com/search?q=%22California+Springs+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvyekua5J_-7x53faRxq8vjOLmD9Q:1789070533540&ei=xQyjarOvIOXT5NoPvJbCuQs&start=40&sa=N&sstk=AS6-VmJ60O2nwLfbBSbXwuzogpfGnhZuAruPpQD7W3TtE9dmqR3kOXuO0N6QOPebja25qA_Kar-AB1XmgWfJ72chBF5aWWG3HHceHg&ved=2ahUKEwjzpYSN5-SWAxXlKVkFHTyLMLcQ8tMDegQIJBAK",
+   "6": "https://www.google.com/search?q=%22California+Springs+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvyekua5J_-7x53faRxq8vjOLmD9Q:1789070533540&ei=xQyjarOvIOXT5NoPvJbCuQs&start=50&sa=N&sstk=AS6-VmJ60O2nwLfbBSbXwuzogpfGnhZuAruPpQD7W3TtE9dmqR3kOXuO0N6QOPebja25qA_Kar-AB1XmgWfJ72chBF5aWWG3HHceHg&ved=2ahUKEwjzpYSN5-SWAxXlKVkFHTyLMLcQ8tMDegQIJBAM",
+   "7": "https://www.google.com/search?q=%22California+Springs+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnvyekua5J_-7x53faRxq8vjOLmD9Q:1789070533540&ei=xQyjarOvIOXT5NoPvJbCuQs&start=60&sa=N&sstk=AS6-VmJ60O2nwLfbBSbXwuzogpfGnhZuAruPpQD7W3TtE9dmqR3kOXuO0N6QOPebja25qA_Kar-AB1XmgWfJ72chBF5aWWG3HHceHg&ved=2ahUKEwjzpYSN5-SWAxXlKVkFHTyLMLcQ8tMDegQIJBAO"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22California+Springs+School%22&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22California+Springs+School%22&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22California+Springs+School%22&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22California+Springs+School%22&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22California+Springs+School%22&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22California+Springs+School%22&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22California+Springs+School%22&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22California+Springs+School%22&start=60"
+  }
+ }
+}

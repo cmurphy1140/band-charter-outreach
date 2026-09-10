@@ -1,0 +1,400 @@
+{
+ "search_information": {
+  "query_displayed": "\"LA Catholic School\"",
+  "total_results": 5790,
+  "time_taken_displayed": 0.54,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "local_map": {
+  "image": "https://www.google.com/maps/vt/data=7tpNW4X60Yr2-p7JoYP4U1osERbRSzAmhJ4St-LLHJUX1UVCqLFiKq7c99u9PUXwBvBM_LA_87NRoL8J4Eqtsss0s7nW9KK-LhTeBStqePzyflZyMLTIQxiVOHR_61IDiIn754VkMmsReSO3HEPEmDce3NkMpU9VXBtkHLNSBbTBZhpQygl7hvGMGyArjdIYCLWbiYcmrsD_Vh0SL8JhuAFEThTp52AhG5DvllXgfNbFtRQmZeffqxagr-TSVSo2rspC1WzD5lKyQlJU59DMgusvitTt0t5axWwlmmXHPiuYO96osOYZWv85A5rA-fZP-24G0Ff6EUyyXfNJJcwKrY_m13uOrB1aTfkPM2BoKCDtvYrbKwy73gqNNpi1qMXtSwGc6DaxUd0XUeLL5GAGT8MYQ0s_86H7NJYXftwFT8NS9hvpVunTEnT8qXe5UJyq1tvkwX2doxppeulUQUL3ICU5U6nnMLv40gqmqXPSHfdOk0cXFIivO3g51ZC4q0NWR6OFlc2d1YbC8xTMaY0_MssN5Mcr2WcPyKWo8AbafuqoH8QQ5RYVrGl0pRiqXAq83UPv4EfWeSyx9sEUGgTOGXu0J_bzeOVTj7HXMl0q7ow-QE1LgoRknUryRMMk3Frct3pOTNs4PcTHnx4OUWPDNqH7KUBh7t9xSI2aWrjYeT6Zou9HQqhYpv1cfwI1Muo3MhHn9wHk5PNO6G0MfedhrVePoDJd2fBkA1mEw7DC3tl3FFdDB3-Yv84dAbothg0FnzdxkG7RlsNAHaRyyrPFlkxDytkAhMknwpol2ozO4jtU0yH7xoZXX39sX-QVW1gI1VqpuFWuS-BGGqeRO5ni1UQK2bieDp4BdX9DZ1dZJGLnjDbJCoJz-vrd75mzLt7V28_HDFjBoRObn7_mC8Tggnwh0yodikNPKi8MdKspriTb9F79CJR93FsQgOr1Akljq_vO9BMa79XTzR9xrw",
+  "gps_coordinates": {
+   "latitude": 34.0833745509365,
+   "longitude": -118.31794738769531
+  }
+ },
+ "local_results": {
+  "places": [
+   {
+    "position": 1,
+    "links": {
+     "website": "http://www.saintthomasla.org/",
+     "directions": "https://www.google.com/maps/dir//St+Thomas+Apostle+School,+2632+W+15th+St,+Los+Angeles,+CA+90006/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80c2c7878d7b3fc5:0x86e28c048e1adaa6?sa=X&ved=2ahUKEwiGx-Cf6eSWAxWXVKQEHePyBkEQ48ADegQIJRAA&hl=en&gl=us"
+    },
+    "place_id": "9719484897010834086",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=9719484897010834086&q=%22LA+Catholic+School%22",
+    "provider_id": "/g/1wg5y8d9",
+    "gps_coordinates": {
+     "latitude": 34.045285,
+     "longitude": -118.299057
+    },
+    "title": "St Thomas Apostle School",
+    "reviews_original": "No reviews",
+    "type": "Catholic school",
+    "phone": "(323) 737-4730",
+    "address": "Los Angeles, CA",
+    "hours": "Open 24 hours"
+   },
+   {
+    "position": 2,
+    "links": {
+     "website": "https://saintsebastianschool.com/",
+     "directions": "https://www.google.com/maps/dir//St.+Sebastian+School,+1430+Federal+Ave,+Los+Angeles,+CA+90025/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80c2bb6593e45e4d:0x3d194c256f89a134?sa=X&ved=2ahUKEwiGx-Cf6eSWAxWXVKQEHePyBkEQ48ADegQIJhAA&hl=en&gl=us"
+    },
+    "place_id": "4402633834400162100",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=4402633834400162100&q=%22LA+Catholic+School%22",
+    "provider_id": "/g/1hc1l8cjz",
+    "gps_coordinates": {
+     "latitude": 34.046806,
+     "longitude": -118.455642
+    },
+    "title": "St. Sebastian School",
+    "reviews_original": "No reviews",
+    "type": "Catholic school",
+    "phone": "(310) 473-3337",
+    "address": "Los Angeles, CA",
+    "hours": "Open \u00b7 Closes 6 PM"
+   },
+   {
+    "position": 3,
+    "description": "Online classes",
+    "links": {
+     "website": "http://www.olglions.org/",
+     "directions": "https://www.google.com/maps/dir//Our+Lady+of+Guadalupe+School+-+Los+Angeles,+436+N+Hazard+Ave,+Los+Angeles,+CA+90063/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80c2cf61c85b5267:0xdcc5fa3be12ef8e4?sa=X&ved=2ahUKEwiGx-Cf6eSWAxWXVKQEHePyBkEQ48ADegQIJxAA&hl=en&gl=us"
+    },
+    "place_id": "15908396393844111588",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=15908396393844111588&q=%22LA+Catholic+School%22",
+    "provider_id": "/g/1tfgk29w",
+    "gps_coordinates": {
+     "latitude": 34.041653,
+     "longitude": -118.179626
+    },
+    "title": "Our Lady of Guadalupe School - Los Angeles",
+    "reviews_original": "No reviews",
+    "type": "Catholic school",
+    "phone": "(323) 269-4998",
+    "address": "Los Angeles, CA",
+    "hours": "Open \u00b7 Closes 4 PM"
+   }
+  ],
+  "more_locations_link": "https://www.google.com/search?q=%22LA+Catholic+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&udm=1&lsack=BQ-jasawKJepkdUP4-WbiAQ&sa=X&ved=2ahUKEwiGx-Cf6eSWAxWXVKQEHePyBkEQjGp6BAg8EAA"
+ },
+ "related_questions": [
+  {
+   "question": "What is the best Catholic high school in Los Angeles?",
+   "type": "ai_overview",
+   "page_token": "4xhdSnicHdBdbpswAABg7TJ9bDAJnYgUTYXgJbQ4tbEd8MsEJsQFY9wElZ-3XWFn2Kl6mkn7jvD9_qvfTfv17Y8aBnvfrlbjOD5e-_6qL4-y71bFfTZyJQuty0K226fvT-BHLXfRpwzCmwwws5bviUMhbFKq3ooGCmasxY0yYiFGuHpMo-klb-GbgNrL2VQzJhLR-eHl53VI3NiWMNnQiMzy7B8r_TwIrRJsonVKMai4OmCj2kKrEUV-WnZozgDfJIagtJVz2tozzxDMOR8x8z8uDC8F8yhvJ3xiQ0jXxONtNdIMtqcs5olLTvKgz4iiV2SsV0IEJIOWsfhV7LWhnTqmS8CLRfQViD0awSNmd6ecwT45KCy0TyJVhSwFH3mGVOUMLyILbgJyjEKQ5Z0OGOnfMSOLbHTHgKqxK6Z84X3m-MuZVSRbqyBtyCQPMShcZ1OND7X83K0f_l_vftXdsLW3_voPFDCOKw",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=4xhdSnicHdBdbpswAABg7TJ9bDAJnYgUTYXgJbQ4tbEd8MsEJsQFY9wElZ-3XWFn2Kl6mkn7jvD9_qvfTfv17Y8aBnvfrlbjOD5e-_6qL4-y71bFfTZyJQuty0K226fvT-BHLXfRpwzCmwwws5bviUMhbFKq3ooGCmasxY0yYiFGuHpMo-klb-GbgNrL2VQzJhLR-eHl53VI3NiWMNnQiMzy7B8r_TwIrRJsonVKMai4OmCj2kKrEUV-WnZozgDfJIagtJVz2tozzxDMOR8x8z8uDC8F8yhvJ3xiQ0jXxONtNdIMtqcs5olLTvKgz4iiV2SsV0IEJIOWsfhV7LWhnTqmS8CLRfQViD0awSNmd6ecwT45KCy0TyJVhSwFH3mGVOUMLyILbgJyjEKQ5Z0OGOnfMSOLbHTHgKqxK6Z84X3m-MuZVSRbqyBtyCQPMShcZ1OND7X83K0f_l_vftXdsLW3_voPFDCOKw",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1ZtSnBhR1pwYkc5eVUwSnJUMGgzWjJ3NFlrMTFabmswWlVjd1QyaElVMk5TYmt0SlMwNVlVMHhPYzFaWlNWcHRPV2hJUkV0Mk56Rk1VR3BRU1hrelNURkVWalk1WDA1eFgycERRV2wwTm1SS1lUa3lVWEpVUlVJd1p4SVhRbEV0YW1GellYZExTbVZ3YTJSVlVEUXRWMkpwUVZFYUlrRkVjM0k1WmxGRVVVOUlUV0pJWVhOZlpWbGZOR05SWm5GelIxcHJPVWMxWkhjIiwiZmN2IjoiMyIsImVpIjoiQlEtamFzYXdLSmVwa2RVUDQtV2JpQVEiLCJxYyI6IkNoSnNZU0JqWVhSb2IyeHBZeUJ6WTJodmIyd1FBSDNreHBZLSIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCBDYXRob2xpYyBoaWdoIHNjaG9vbCBpbiBMb3MgQW5nZWxlcz8iLCJsayI6ImN3WEJ3UWtBTVFnRXdEN3kyaUxTa0NlU0ZTUS1Wa2o3TjdQMm93MVNHQWEtME1CdDJKVU81aUhrN0M3a1JiVmc5MFNGZmciLCJicyI6ImM0MlFNUS1DUUF4RzQzcVRNNE4yVkRkUlhBbGhJbUZucm1mRE5UazV3cDBRX3IwSEpHQklUSmo3WHJfMkUwWkVoVUlIYk1FcGdpZFpCeWs2WlRSTFVGd3FzRklabzRFcnlJMkZwQ3BKazQzRFIzRHYxcUw4STJvdjRpU0tWQnl6VVdrSWNJbksyaDV5d3ZKRGNRakJnUmRrWHNvZTBTTWlDbkZPX0hDMnB5anJyM0NPR2tDSkwzcXpSSzM3T0x3RUpfU3czQUFMRnVGWXh5QU1iemxUUXdSMXd5MDZtczExRjdmZzJtMnlmb3JZNzc0IiwiaWQiOiJmY19CUS1qYXNhd0tKZXBrZFVQNC1XYmlBUV81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1ZtSnBhR1pwYkc5eVUwSnJUMGgzWjJ3NFlrMTFabmswWlVjd1QyaElVMk5TYmt0SlMwNVlVMHhPYzFaWlNWcHRPV2hJUkV0Mk56Rk1VR3BRU1hrelNURkVWalk1WDA1eFgycERRV2wwTm1SS1lUa3lVWEpVUlVJd1p4SVhRbEV0YW1GellYZExTbVZ3YTJSVlVEUXRWMkpwUVZFYUlrRkVjM0k1WmxGRVVVOUlUV0pJWVhOZlpWbGZOR05SWm5GelIxcHJPVWMxWkhjIiwiZmN2IjoiMyIsImVpIjoiQlEtamFzYXdLSmVwa2RVUDQtV2JpQVEiLCJxYyI6IkNoSnNZU0JqWVhSb2IyeHBZeUJ6WTJodmIyd1FBSDNreHBZLSIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCBDYXRob2xpYyBoaWdoIHNjaG9vbCBpbiBMb3MgQW5nZWxlcz8iLCJsayI6ImN3WEJ3UWtBTVFnRXdEN3kyaUxTa0NlU0ZTUS1Wa2o3TjdQMm93MVNHQWEtME1CdDJKVU81aUhrN0M3a1JiVmc5MFNGZmciLCJicyI6ImM0MlFNUS1DUUF4RzQzcVRNNE4yVkRkUlhBbGhJbUZucm1mRE5UazV3cDBRX3IwSEpHQklUSmo3WHJfMkUwWkVoVUlIYk1FcGdpZFpCeWs2WlRSTFVGd3FzRklabzRFcnlJMkZwQ3BKazQzRFIzRHYxcUw4STJvdjRpU0tWQnl6VVdrSWNJbksyaDV5d3ZKRGNRakJnUmRrWHNvZTBTTWlDbkZPX0hDMnB5anJyM0NPR2tDSkwzcXpSSzM3T0x3RUpfU3czQUFMRnVGWXh5QU1iemxUUXdSMXd5MDZtczExRjdmZzJtMnlmb3JZNzc0IiwiaWQiOiJmY19CUS1qYXNhd0tKZXBrZFVQNC1XYmlBUV81In0%3D"
+  },
+  {
+   "question": "Is there a Catholic Ivy League?",
+   "type": "ai_overview",
+   "page_token": "JQZnMXicHdBbcoIwFADQ6Wb8rATRjs44nYLGSjUtIbk8fjohqAiXh4qi_nUvXVVX02k3cD7O1zfuq-Ln4ZK1bXOa9Ptd1z3u6nqHm0ddl311ulW6rxVionQxGT2NyPNWT-fnpe0clrYnmwZm3BAze8nucuBX9U2UrrUJX9rIbM7vIjJZzqPUoCWn81uAOE8C9wABqRWwzKsyJypwkATDNc_5PZZu6ZuNpSvsfIfcVC6HzCfg4dgTi9byjasCQpEJ_BAIJ0nsIchsmQLuFU2pMiOSQGYyaXWQ40JQHkQl2skrLAIRu6GBdSwQV_LK1Ywd1vLU8RAqjnHk47jwTLR1cOXzLHWkTw5RyLLUaN_i0D7GFDzmkPDPk7zee5LfdY6lhOaSLPCo78gBpKEKGsrAvSQGjFaCkk3BrLjrbfVlOuj9f04_t2U7aY717hezKoRN",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=JQZnMXicHdBbcoIwFADQ6Wb8rATRjs44nYLGSjUtIbk8fjohqAiXh4qi_nUvXVVX02k3cD7O1zfuq-Ln4ZK1bXOa9Ptd1z3u6nqHm0ddl311ulW6rxVionQxGT2NyPNWT-fnpe0clrYnmwZm3BAze8nucuBX9U2UrrUJX9rIbM7vIjJZzqPUoCWn81uAOE8C9wABqRWwzKsyJypwkATDNc_5PZZu6ZuNpSvsfIfcVC6HzCfg4dgTi9byjasCQpEJ_BAIJ0nsIchsmQLuFU2pMiOSQGYyaXWQ40JQHkQl2skrLAIRu6GBdSwQV_LK1Ywd1vLU8RAqjnHk47jwTLR1cOXzLHWkTw5RyLLUaN_i0D7GFDzmkPDPk7zee5LfdY6lhOaSLPCo78gBpKEKGsrAvSQGjFaCkk3BrLjrbfVlOuj9f04_t2U7aY717hezKoRN",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1ZtSnBhR1pwYkc5eVUwSnJUMGgzWjJ3NFlrMTFabmswWlVjd1QyaElVMk5TYmt0SlMwNVlVMHhPYzFaWlNWcHRPV2hJUkV0Mk56Rk1VR3BRU1hrelNURkVWalk1WDA1eFgycERRV2wwTm1SS1lUa3lVWEpVUlVJd1p4SVhRbEV0YW1GellYZExTbVZ3YTJSVlVEUXRWMkpwUVZFYUlrRkVjM0k1WmxGRVVVOUlUV0pJWVhOZlpWbGZOR05SWm5GelIxcHJPVWMxWkhjIiwiZmN2IjoiMyIsImVpIjoiQlEtamFzYXdLSmVwa2RVUDQtV2JpQVEiLCJxYyI6IkNoSnNZU0JqWVhSb2IyeHBZeUJ6WTJodmIyd1FBSDNreHBZLSIsInF1ZXN0aW9uIjoiSXMgdGhlcmUgYSBDYXRob2xpYyBJdnkgTGVhZ3VlPyIsImxrIjoiR2g1cGN5QjBhR1Z5WlNCaElHTmhkR2h2YkdsaklHbDJlU0JzWldGbmRXVSIsImJzIjoiYzQyUU1RLUNRQXhHNDNxVE00TjJWRGRSWEFsaEltRm5ybWZETlRrNXdwMFFfcjBISkdCSVRKajdYcl8yRTBaRWhVSUhiTUVwZ2lkWkJ5azZaVFJMVUZ3cXNGSVpvNEVyeUkyRnBDcEprNDNEUjNEdjFxTDhJMm92NGlTS1ZCeXpVV2tJY0luSzJoNXl3dkpEY1FqQmdSZGtYc29lMFNNaUNuRk9fSEMycHlqcnIzQ09Ha0NKTDNxelJLMzdPTHdFSl9TdzNBQUxGdUZZeHlBTWJ6bFRRd1Ixd3kwNm1zMTFGN2ZnMm0yeWZvclk3NzQiLCJpZCI6ImZjX0JRLWphc2F3S0plcGtkVVA0LVdiaUFRXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1ZtSnBhR1pwYkc5eVUwSnJUMGgzWjJ3NFlrMTFabmswWlVjd1QyaElVMk5TYmt0SlMwNVlVMHhPYzFaWlNWcHRPV2hJUkV0Mk56Rk1VR3BRU1hrelNURkVWalk1WDA1eFgycERRV2wwTm1SS1lUa3lVWEpVUlVJd1p4SVhRbEV0YW1GellYZExTbVZ3YTJSVlVEUXRWMkpwUVZFYUlrRkVjM0k1WmxGRVVVOUlUV0pJWVhOZlpWbGZOR05SWm5GelIxcHJPVWMxWkhjIiwiZmN2IjoiMyIsImVpIjoiQlEtamFzYXdLSmVwa2RVUDQtV2JpQVEiLCJxYyI6IkNoSnNZU0JqWVhSb2IyeHBZeUJ6WTJodmIyd1FBSDNreHBZLSIsInF1ZXN0aW9uIjoiSXMgdGhlcmUgYSBDYXRob2xpYyBJdnkgTGVhZ3VlPyIsImxrIjoiR2g1cGN5QjBhR1Z5WlNCaElHTmhkR2h2YkdsaklHbDJlU0JzWldGbmRXVSIsImJzIjoiYzQyUU1RLUNRQXhHNDNxVE00TjJWRGRSWEFsaEltRm5ybWZETlRrNXdwMFFfcjBISkdCSVRKajdYcl8yRTBaRWhVSUhiTUVwZ2lkWkJ5azZaVFJMVUZ3cXNGSVpvNEVyeUkyRnBDcEprNDNEUjNEdjFxTDhJMm92NGlTS1ZCeXpVV2tJY0luSzJoNXl3dkpEY1FqQmdSZGtYc29lMFNNaUNuRk9fSEMycHlqcnIzQ09Ha0NKTDNxelJLMzdPTHdFSl9TdzNBQUxGdUZZeHlBTWJ6bFRRd1Ixd3kwNm1zMTFGN2ZnMm0yeWZvclk3NzQiLCJpZCI6ImZjX0JRLWphc2F3S0plcGtkVVA0LVdiaUFRXzUifQ%3D%3D"
+  },
+  {
+   "question": "Are Catholic schools better academically?",
+   "type": "ai_overview",
+   "page_token": "5uInAnicHdBRboIwGADg7DJ7nLQEl5mYJSigbPxLoS3QlwXbKUIrVZkib7vLTrXTbNkNvnxf33p_aH_uLnXf2_NsMrlerw-7rtvpjwfZmUl1vh3kRFZabyrZzqaPU_S8lfPgc-0vjmufMGv5MnUyFK8l40YG9emV80DknVMFYk-ZihPMNcXnEUzrbXjaJtGT98ZCQorSBZz0kqoRgqHiNBXQ1Fa4Ik8MdID8hOT2QgPgdI88iJ5yjuKcuIpU2GZwEIli3pI1NaggBoVRTJ0B5w3YTYROst31ZFRYrtajoqEHuLzSg_KpFjh1_hyFv8po3ULR3WgDN1bETrayq4xrN6jVgmXoWBZQK6d_EYV_EiEnsEBFabTP0m5PWDrKRhuG-JCYYbvR8TSPlCcjfWT5cCmLdFGZECkT3gi538rL3L3__5y_b00_s6du9wtTPYLD",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=5uInAnicHdBRboIwGADg7DJ7nLQEl5mYJSigbPxLoS3QlwXbKUIrVZkib7vLTrXTbNkNvnxf33p_aH_uLnXf2_NsMrlerw-7rtvpjwfZmUl1vh3kRFZabyrZzqaPU_S8lfPgc-0vjmufMGv5MnUyFK8l40YG9emV80DknVMFYk-ZihPMNcXnEUzrbXjaJtGT98ZCQorSBZz0kqoRgqHiNBXQ1Fa4Ik8MdID8hOT2QgPgdI88iJ5yjuKcuIpU2GZwEIli3pI1NaggBoVRTJ0B5w3YTYROst31ZFRYrtajoqEHuLzSg_KpFjh1_hyFv8po3ULR3WgDN1bETrayq4xrN6jVgmXoWBZQK6d_EYV_EiEnsEBFabTP0m5PWDrKRhuG-JCYYbvR8TSPlCcjfWT5cCmLdFGZECkT3gi538rL3L3__5y_b00_s6du9wtTPYLD",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1ZtSnBhR1pwYkc5eVUwSnJUMGgzWjJ3NFlrMTFabmswWlVjd1QyaElVMk5TYmt0SlMwNVlVMHhPYzFaWlNWcHRPV2hJUkV0Mk56Rk1VR3BRU1hrelNURkVWalk1WDA1eFgycERRV2wwTm1SS1lUa3lVWEpVUlVJd1p4SVhRbEV0YW1GellYZExTbVZ3YTJSVlVEUXRWMkpwUVZFYUlrRkVjM0k1WmxGRVVVOUlUV0pJWVhOZlpWbGZOR05SWm5GelIxcHJPVWMxWkhjIiwiZmN2IjoiMyIsImVpIjoiQlEtamFzYXdLSmVwa2RVUDQtV2JpQVEiLCJxYyI6IkNoSnNZU0JqWVhSb2IyeHBZeUJ6WTJodmIyd1FBSDNreHBZLSIsInF1ZXN0aW9uIjoiQXJlIENhdGhvbGljIHNjaG9vbHMgYmV0dGVyIGFjYWRlbWljYWxseT8iLCJsayI6IkdpaGhjbVVnWTJGMGFHOXNhV01nYzJOb2IyOXNjeUJpWlhSMFpYSWdZV05oWkdWdGFXTmhiR3g1IiwiYnMiOiJjNDJRTVEtQ1FBeEc0M3FUTTROMlZEZFJYQWxoSW1GbnJtZkROVGs1d3AwUV9yMEhKR0JJVEpqN1hyXzJFMFpFaFVJSGJNRXBnaWRaQnlrNlpUUkxVRndxc0ZJWm80RXJ5STJGcENwSms0M0RSM0R2MXFMOEkyb3Y0aVNLVkJ5elVXa0ljSW5LMmg1eXd2SkRjUWpCZ1Jka1hzb2UwU01pQ25GT19IQzJweWpycjNDT0drQ0pMM3F6UkszN09Md0VKX1N3M0FBTEZ1Rll4eUFNYnpsVFF3UjF3eTA2bXMxMUY3ZmcybTJ5Zm9yWTc3NCIsImlkIjoiZmNfQlEtamFzYXdLSmVwa2RVUDQtV2JpQVFfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1ZtSnBhR1pwYkc5eVUwSnJUMGgzWjJ3NFlrMTFabmswWlVjd1QyaElVMk5TYmt0SlMwNVlVMHhPYzFaWlNWcHRPV2hJUkV0Mk56Rk1VR3BRU1hrelNURkVWalk1WDA1eFgycERRV2wwTm1SS1lUa3lVWEpVUlVJd1p4SVhRbEV0YW1GellYZExTbVZ3YTJSVlVEUXRWMkpwUVZFYUlrRkVjM0k1WmxGRVVVOUlUV0pJWVhOZlpWbGZOR05SWm5GelIxcHJPVWMxWkhjIiwiZmN2IjoiMyIsImVpIjoiQlEtamFzYXdLSmVwa2RVUDQtV2JpQVEiLCJxYyI6IkNoSnNZU0JqWVhSb2IyeHBZeUJ6WTJodmIyd1FBSDNreHBZLSIsInF1ZXN0aW9uIjoiQXJlIENhdGhvbGljIHNjaG9vbHMgYmV0dGVyIGFjYWRlbWljYWxseT8iLCJsayI6IkdpaGhjbVVnWTJGMGFHOXNhV01nYzJOb2IyOXNjeUJpWlhSMFpYSWdZV05oWkdWdGFXTmhiR3g1IiwiYnMiOiJjNDJRTVEtQ1FBeEc0M3FUTTROMlZEZFJYQWxoSW1GbnJtZkROVGs1d3AwUV9yMEhKR0JJVEpqN1hyXzJFMFpFaFVJSGJNRXBnaWRaQnlrNlpUUkxVRndxc0ZJWm80RXJ5STJGcENwSms0M0RSM0R2MXFMOEkyb3Y0aVNLVkJ5elVXa0ljSW5LMmg1eXd2SkRjUWpCZ1Jka1hzb2UwU01pQ25GT19IQzJweWpycjNDT0drQ0pMM3F6UkszN09Md0VKX1N3M0FBTEZ1Rll4eUFNYnpsVFF3UjF3eTA2bXMxMUY3ZmcybTJ5Zm9yWTc3NCIsImlkIjoiZmNfQlEtamFzYXdLSmVwa2RVUDQtV2JpQVFfNSJ9"
+  },
+  {
+   "question": "What are the top 5 private schools in Los Angeles?",
+   "type": "ai_overview",
+   "page_token": "s0NKznicHdBfcqIwAIDx2cv0sSYptqMzTmcQQks1lpB_8NKBIKIEyCJV5K1X6Bn2VHua7ewNvt_39ccc2_rvr-9qGOx5OZtdr9f7Q9cdzP5ed80sO99aPdOZMXmm6-Xj0yN8LvXKv2h33Ws34tYKj4J4SsaoDt_4FJ5z73VgqPCYMkeFHJg0Q1mwAyJgdLPWnwvjMn0ydtuGIeO0lM1ix09mQ1Wqdi_GSSAWPBiPG-ZGWiwsk3xMYJhJ7NbiBu1OCsslFtvgPG6lXccAAxoYtK-LDfOLi_R-ioK5QxH5zGUYCER7ihZ9Hsxv-RR61Ic2hZW7C2hbBHjUAS4JJqfthKeC86t6oJ-6Ee-R0ZM4VWEKiCNrojgrbMYp8atizWP4O1GkKsDwliq3T7GIyBqqpDEup90x4nT6MTYcUicDFumWOrp5RTHogMA1Il74spfjJvbpexTdlfqyerj7_3r1UTbD0vbd4R8-04vv",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=s0NKznicHdBfcqIwAIDx2cv0sSYptqMzTmcQQks1lpB_8NKBIKIEyCJV5K1X6Bn2VHua7ewNvt_39ccc2_rvr-9qGOx5OZtdr9f7Q9cdzP5ed80sO99aPdOZMXmm6-Xj0yN8LvXKv2h33Ws34tYKj4J4SsaoDt_4FJ5z73VgqPCYMkeFHJg0Q1mwAyJgdLPWnwvjMn0ydtuGIeO0lM1ix09mQ1Wqdi_GSSAWPBiPG-ZGWiwsk3xMYJhJ7NbiBu1OCsslFtvgPG6lXccAAxoYtK-LDfOLi_R-ioK5QxH5zGUYCER7ihZ9Hsxv-RR61Ic2hZW7C2hbBHjUAS4JJqfthKeC86t6oJ-6Ee-R0ZM4VWEKiCNrojgrbMYp8atizWP4O1GkKsDwliq3T7GIyBqqpDEup90x4nT6MTYcUicDFumWOrp5RTHogMA1Il74spfjJvbpexTdlfqyerj7_3r1UTbD0vbd4R8-04vv",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1ZtSnBhR1pwYkc5eVUwSnJUMGgzWjJ3NFlrMTFabmswWlVjd1QyaElVMk5TYmt0SlMwNVlVMHhPYzFaWlNWcHRPV2hJUkV0Mk56Rk1VR3BRU1hrelNURkVWalk1WDA1eFgycERRV2wwTm1SS1lUa3lVWEpVUlVJd1p4SVhRbEV0YW1GellYZExTbVZ3YTJSVlVEUXRWMkpwUVZFYUlrRkVjM0k1WmxGRVVVOUlUV0pJWVhOZlpWbGZOR05SWm5GelIxcHJPVWMxWkhjIiwiZmN2IjoiMyIsImVpIjoiQlEtamFzYXdLSmVwa2RVUDQtV2JpQVEiLCJxYyI6IkNoSnNZU0JqWVhSb2IyeHBZeUJ6WTJodmIyd1FBSDNreHBZLSIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHRvcCA1IHByaXZhdGUgc2Nob29scyBpbiBMb3MgQW5nZWxlcz8iLCJsayI6IkdqRjNhR0YwSUdGeVpTQjBhR1VnZEc5d0lEVWdjSEpwZG1GMFpTQnpZMmh2YjJ4eklHbHVJR3h2Y3lCaGJtZGxiR1Z6IiwiYnMiOiJjNDJRTVEtQ1FBeEc0M3FUTTROMlZEZFJYQWxoSW1GbnJtZkROVGs1d3AwUV9yMEhKR0JJVEpqN1hyXzJFMFpFaFVJSGJNRXBnaWRaQnlrNlpUUkxVRndxc0ZJWm80RXJ5STJGcENwSms0M0RSM0R2MXFMOEkyb3Y0aVNLVkJ5elVXa0ljSW5LMmg1eXd2SkRjUWpCZ1Jka1hzb2UwU01pQ25GT19IQzJweWpycjNDT0drQ0pMM3F6UkszN09Md0VKX1N3M0FBTEZ1Rll4eUFNYnpsVFF3UjF3eTA2bXMxMUY3ZmcybTJ5Zm9yWTc3NCIsImlkIjoiZmNfQlEtamFzYXdLSmVwa2RVUDQtV2JpQVFfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1ZtSnBhR1pwYkc5eVUwSnJUMGgzWjJ3NFlrMTFabmswWlVjd1QyaElVMk5TYmt0SlMwNVlVMHhPYzFaWlNWcHRPV2hJUkV0Mk56Rk1VR3BRU1hrelNURkVWalk1WDA1eFgycERRV2wwTm1SS1lUa3lVWEpVUlVJd1p4SVhRbEV0YW1GellYZExTbVZ3YTJSVlVEUXRWMkpwUVZFYUlrRkVjM0k1WmxGRVVVOUlUV0pJWVhOZlpWbGZOR05SWm5GelIxcHJPVWMxWkhjIiwiZmN2IjoiMyIsImVpIjoiQlEtamFzYXdLSmVwa2RVUDQtV2JpQVEiLCJxYyI6IkNoSnNZU0JqWVhSb2IyeHBZeUJ6WTJodmIyd1FBSDNreHBZLSIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHRvcCA1IHByaXZhdGUgc2Nob29scyBpbiBMb3MgQW5nZWxlcz8iLCJsayI6IkdqRjNhR0YwSUdGeVpTQjBhR1VnZEc5d0lEVWdjSEpwZG1GMFpTQnpZMmh2YjJ4eklHbHVJR3h2Y3lCaGJtZGxiR1Z6IiwiYnMiOiJjNDJRTVEtQ1FBeEc0M3FUTTROMlZEZFJYQWxoSW1GbnJtZkROVGs1d3AwUV9yMEhKR0JJVEpqN1hyXzJFMFpFaFVJSGJNRXBnaWRaQnlrNlpUUkxVRndxc0ZJWm80RXJ5STJGcENwSms0M0RSM0R2MXFMOEkyb3Y0aVNLVkJ5elVXa0ljSW5LMmg1eXd2SkRjUWpCZ1Jka1hzb2UwU01pQ25GT19IQzJweWpycjNDT0drQ0pMM3F6UkszN09Md0VKX1N3M0FBTEZ1Rll4eUFNYnpsVFF3UjF3eTA2bXMxMUY3ZmcybTJ5Zm9yWTc3NCIsImlkIjoiZmNfQlEtamFzYXdLSmVwa2RVUDQtV2JpQVFfNSJ9"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "LA Catholic school students head to Vatican to honor Pope ...",
+   "link": "https://lacatholics.org/2025/05/23/la-catholic-school-students-head-to-vatican-to-honor-pope-francis/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnQEB6zswFQlcG_AU54o6PVlQwmsmrmQXHa_owtv7RoQ-0-1vbZNstedrAv3Bh_jih_RDWRZwq1f1cxCOl_TAJgUB4-FtwUiDgEC5ltoTzWI2Kb8yRm9N4jMp5KW2qQYEuV2TbdlaABIOn6r1aw2c3u7uFZEOWAyvCC0y4iUMDRUuWinjfcIDvluE4TrhGnXM7dae14ui889w0Ied0Q-Q&ved=2ahUKEwiGx-Cf6eSWAxWXVKQEHePyBkEQFnoECCIQAQ&uoh=1",
+   "displayed_link": "https://lacatholics.org \u203a Uncategorized",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEVHcEwyj8wyj8wyj8wyj8wyj8wyj8wyj8wyj8wyj8wyj8wyj8wyj8xQBfdEAAAADXRSTlMAoSkM9P-HzUkbaeBWreuBoQAAALVJREFUeAFjgABGAQZkoCiEzGN2DTEAMxCKieayuYYkIJlUmqQWboBQGsTRoIpQPnVBewVXJJzbOtOjZWYEjNe-xbLm-OToGih3qZiR9WblxCgYd0IGA0MbJ5yrUMnAMJ0JzlV2YmBQMULIbmNgyGZCcEsMmN2RuFsFGKORuKkRrWFI3NJA0XAkbmtYagwSd2mSVhQSt1sxqQaJayG1sBmJy2CVzIDgrjlzoufMKRj3aCgYgLgAAjM4HSsa0RQAAAAASUVORK5CYII.png",
+   "date": "May 23, 2025",
+   "snippet": "LA Catholic school students head to Vatican to honor Pope Francis. Four students from Los Angeles-area Catholic high schools will visit the ...",
+   "snippet_highlighted_words": [
+    "LA Catholic school"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "LA Catholic school students head to Vatican to honor Pope Francis. Four students from Los Angeles-area Catholic high schools will visit the ...",
+     "source_info_link": "https://lacatholics.org/2025/05/23/la-catholic-school-students-head-to-vatican-to-honor-pope-francis/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEVHcEwyj8wyj8wyj8wyj8wyj8wyj8wyj8wyj8wyj8wyj8wyj8wyj8xQBfdEAAAADXRSTlMAoSkM9P-HzUkbaeBWreuBoQAAALVJREFUeAFjgABGAQZkoCiEzGN2DTEAMxCKieayuYYkIJlUmqQWboBQGsTRoIpQPnVBewVXJJzbOtOjZWYEjNe-xbLm-OToGih3qZiR9WblxCgYd0IGA0MbJ5yrUMnAMJ0JzlV2YmBQMULIbmNgyGZCcEsMmN2RuFsFGKORuKkRrWFI3NJA0XAkbmtYagwSd2mSVhQSt1sxqQaJayG1sBmJy2CVzIDgrjlzoufMKRj3aCgYgLgAAjM4HSsa0RQAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESnQEB6zswFQlcG_AU54o6PVlQwmsmrmQXHa_owtv7RoQ-0-1vbZNstedrAv3Bh_jih_RDWRZwq1f1cxCOl_TAJgUB4-FtwUiDgEC5ltoTzWI2Kb8yRm9N4jMp5KW2qQYEuV2TbdlaABIOn6r1aw2c3u7uFZEOWAyvCC0y4iUMDRUuWinjfcIDvluE4TrhGnXM7dae14ui889w0Ied0Q-Q&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESnQEB6zswFQlcG_AU54o6PVlQwmsmrmQXHa_owtv7RoQ-0-1vbZNstedrAv3Bh_jih_RDWRZwq1f1cxCOl_TAJgUB4-FtwUiDgEC5ltoTzWI2Kb8yRm9N4jMp5KW2qQYEuV2TbdlaABIOn6r1aw2c3u7uFZEOWAyvCC0y4iUMDRUuWinjfcIDvluE4TrhGnXM7dae14ui889w0Ied0Q-Q",
+   "source": "LA Catholics",
+   "read_more_link": "https://lacatholics.org/2025/05/23/la-catholic-school-students-head-to-vatican-to-honor-pope-francis/#:~:text=LA%20Catholic%20school%20students%20head,high%20schools%20will%20visit%20the"
+  },
+  {
+   "position": 2,
+   "title": "Catholic Schools in the Los Angeles Area",
+   "link": "https://www.facebook.com/fb-answers/catholic-schools-in-los-angeles-area/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgQEB6zswFUeP--XeP1GcFqxmZ7UT-38666oSl60nnoebXTibvkjtIbIpRnkYkBmi3ghUDj1_sVPZTMvaSwFyj0mBiU623UUX5WrFgepte7Km1izlz-CK2jWaGXllcNnzD0EVTehuAgR4pIpFSgI_LHdJlowV-0zHCckMWsj6P_AJYww&ved=2ahUKEwiGx-Cf6eSWAxWXVKQEHePyBkEQFnoECCEQAQ&uoh=1",
+   "displayed_link": "https://www.facebook.com \u203a fb-answers \u203a catholic-scho...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "snippet": "Please forward this survey link to everyone you know who has children in the LA Catholic School System. It doesn't matter what their opinion is forward the ...",
+   "snippet_highlighted_words": [
+    "LA Catholic School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Please forward this survey link to everyone you know who has children in the LA Catholic School System. It doesn't matter what their opinion is forward the ...",
+     "source_info_link": "https://www.facebook.com/fb-answers/catholic-schools-in-los-angeles-area/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESgQEB6zswFUeP--XeP1GcFqxmZ7UT-38666oSl60nnoebXTibvkjtIbIpRnkYkBmi3ghUDj1_sVPZTMvaSwFyj0mBiU623UUX5WrFgepte7Km1izlz-CK2jWaGXllcNnzD0EVTehuAgR4pIpFSgI_LHdJlowV-0zHCckMWsj6P_AJYww&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESgQEB6zswFUeP--XeP1GcFqxmZ7UT-38666oSl60nnoebXTibvkjtIbIpRnkYkBmi3ghUDj1_sVPZTMvaSwFyj0mBiU623UUX5WrFgepte7Km1izlz-CK2jWaGXllcNnzD0EVTehuAgR4pIpFSgI_LHdJlowV-0zHCckMWsj6P_AJYww",
+   "source": "Facebook",
+   "read_more_link": "https://www.facebook.com/fb-answers/catholic-schools-in-los-angeles-area/#:~:text=Please%20forward%20this%20survey%20link,them%20to%20fill%20it%20out."
+  },
+  {
+   "position": 3,
+   "title": "Over 15 years in LA, Archbishop Gomez has championed ...",
+   "link": "https://lacatholics.org/2026/03/19/over-15-years-in-la-archbishop-gomez-has-championed-catholic-schools/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESoAEB6zswFbO4WQvBfm2TbBIK-mUxWH9tz6epspUI2cmiVtQHPiagDbolANnLQiLOpx3TOPHuwDRb3zzSxzyclNgqYr5dUXCRUUeKQQrp__2Tw_kfpKw11Er3y6eCS6uF5l9G8QTLG5x03izYbKBDshoiv_5TwfvsV2RHZPaiqa3gaerzPn1OuvG0uSw3f-oQrd2GVji4e3WnZNwcftSJOYCB&ved=2ahUKEwiGx-Cf6eSWAxWXVKQEHePyBkEQFnoECB8QAQ&uoh=1",
+   "displayed_link": "https://lacatholics.org \u203a Uncategorized",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEVHcEwyj8wyj8wyj8wyj8wyj8wyj8wyj8wyj8wyj8wyj8wyj8wyj8xQBfdEAAAADXRSTlMAoSkM9P-HzUkbaeBWreuBoQAAALVJREFUeAFjgABGAQZkoCiEzGN2DTEAMxCKieayuYYkIJlUmqQWboBQGsTRoIpQPnVBewVXJJzbOtOjZWYEjNe-xbLm-OToGih3qZiR9WblxCgYd0IGA0MbJ5yrUMnAMJ0JzlV2YmBQMULIbmNgyGZCcEsMmN2RuFsFGKORuKkRrWFI3NJA0XAkbmtYagwSd2mSVhQSt1sxqQaJayG1sBmJy2CVzIDgrjlzoufMKRj3aCgYgLgAAjM4HSsa0RQAAAAASUVORK5CYII.png",
+   "date": "Mar 19, 2026",
+   "snippet": "In the years that followed, both men would go on to work with Archbishop Gomez as superintendent of LA's Catholic school system \u2014 Baxter ...",
+   "snippet_highlighted_words": [
+    "LA's Catholic school"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "In the years that followed, both men would go on to work with Archbishop Gomez as superintendent of LA's Catholic school system \u2014 Baxter ...",
+     "source_info_link": "https://lacatholics.org/2026/03/19/over-15-years-in-la-archbishop-gomez-has-championed-catholic-schools/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEVHcEwyj8wyj8wyj8wyj8wyj8wyj8wyj8wyj8wyj8wyj8wyj8wyj8xQBfdEAAAADXRSTlMAoSkM9P-HzUkbaeBWreuBoQAAALVJREFUeAFjgABGAQZkoCiEzGN2DTEAMxCKieayuYYkIJlUmqQWboBQGsTRoIpQPnVBewVXJJzbOtOjZWYEjNe-xbLm-OToGih3qZiR9WblxCgYd0IGA0MbJ5yrUMnAMJ0JzlV2YmBQMULIbmNgyGZCcEsMmN2RuFsFGKORuKkRrWFI3NJA0XAkbmtYagwSd2mSVhQSt1sxqQaJayG1sBmJy2CVzIDgrjlzoufMKRj3aCgYgLgAAjM4HSsa0RQAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESoAEB6zswFbO4WQvBfm2TbBIK-mUxWH9tz6epspUI2cmiVtQHPiagDbolANnLQiLOpx3TOPHuwDRb3zzSxzyclNgqYr5dUXCRUUeKQQrp__2Tw_kfpKw11Er3y6eCS6uF5l9G8QTLG5x03izYbKBDshoiv_5TwfvsV2RHZPaiqa3gaerzPn1OuvG0uSw3f-oQrd2GVji4e3WnZNwcftSJOYCB&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESoAEB6zswFbO4WQvBfm2TbBIK-mUxWH9tz6epspUI2cmiVtQHPiagDbolANnLQiLOpx3TOPHuwDRb3zzSxzyclNgqYr5dUXCRUUeKQQrp__2Tw_kfpKw11Er3y6eCS6uF5l9G8QTLG5x03izYbKBDshoiv_5TwfvsV2RHZPaiqa3gaerzPn1OuvG0uSw3f-oQrd2GVji4e3WnZNwcftSJOYCB",
+   "source": "LA Catholics",
+   "read_more_link": "https://lacatholics.org/2026/03/19/over-15-years-in-la-archbishop-gomez-has-championed-catholic-schools/#:~:text=In%20the%20years%20that%20followed%2C,from%202019%20to%20the%20present."
+  },
+  {
+   "position": 4,
+   "title": "Archbishop Gomez: A champion of LA's Catholic schools",
+   "link": "https://angelusnews.com/local/la-catholics/gomez-catholic-schools-15/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAVYPtEJevyrXbQwfIHzNto3yM3EPSl1q7sBMFIr_emZ7yYZiigY8Lzv-lI4f2h11RUK3aoedAEyC6Lrp3DzB5erVJQlIsWGidVcAkSTYlzOR0sRl9tnuDWlAeKvwm_CoE6DGoH0oo5BWnU5mpcvqs6wtDpKA2mKpdN&ved=2ahUKEwiGx-Cf6eSWAxWXVKQEHePyBkEQFnoECCQQAQ&uoh=1",
+   "displayed_link": "https://angelusnews.com \u203a local \u203a gomez-catholic-schoo...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAo0lEQVR4AWJwL_AZUDy0HaA-6QKg3TqwACCGASi6wc3TLbpEhzluhAyQ2TpFLkfKIcRFrkGLD0TzVNH6lALgxcB1CdJvYC2ALEaOJPRCviwtY6kRciUEIEuBI2dgYaxrpqCqB3AFAq5swPkLYAPGbBagLw-gVIDUpTSAtAGLvoH2mq2zAajMw0xAU-ZbPmADIn9ExoFFmS8G2PUrPrT88zogtRtHensRZPFFNAAAAABJRU5ErkJggg.png",
+   "date": "Mar 19, 2026",
+   "snippet": "In the years that followed, both men would go on to work with Archbishop Gomez as superintendent of LA's Catholic school system \u2014 Baxter ...",
+   "snippet_highlighted_words": [
+    "LA's Catholic school"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "In the years that followed, both men would go on to work with Archbishop Gomez as superintendent of LA's Catholic school system \u2014 Baxter ...",
+     "source_info_link": "https://angelusnews.com/local/la-catholics/gomez-catholic-schools-15/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAo0lEQVR4AWJwL_AZUDy0HaA-6QKg3TqwACCGASi6wc3TLbpEhzluhAyQ2TpFLkfKIcRFrkGLD0TzVNH6lALgxcB1CdJvYC2ALEaOJPRCviwtY6kRciUEIEuBI2dgYaxrpqCqB3AFAq5swPkLYAPGbBagLw-gVIDUpTSAtAGLvoH2mq2zAajMw0xAU-ZbPmADIn9ExoFFmS8G2PUrPrT88zogtRtHensRZPFFNAAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESfQHrOzAVYPtEJevyrXbQwfIHzNto3yM3EPSl1q7sBMFIr_emZ7yYZiigY8Lzv-lI4f2h11RUK3aoedAEyC6Lrp3DzB5erVJQlIsWGidVcAkSTYlzOR0sRl9tnuDWlAeKvwm_CoE6DGoH0oo5BWnU5mpcvqs6wtDpKA2mKpdN&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESfQHrOzAVYPtEJevyrXbQwfIHzNto3yM3EPSl1q7sBMFIr_emZ7yYZiigY8Lzv-lI4f2h11RUK3aoedAEyC6Lrp3DzB5erVJQlIsWGidVcAkSTYlzOR0sRl9tnuDWlAeKvwm_CoE6DGoH0oo5BWnU5mpcvqs6wtDpKA2mKpdN",
+   "source": "Angelus News",
+   "read_more_link": "https://angelusnews.com/local/la-catholics/gomez-catholic-schools-15/#:~:text=In%20the%20years%20that%20followed%2C,from%202019%20to%20the%20present."
+  },
+  {
+   "position": 5,
+   "title": "Best HSPT Prep in Los Angeles",
+   "link": "https://www.cardinaleducation.com/los-angeles-homepage/los-angeles-hspt/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgAEB6zswFTS4eyfq_CwbzAB6gjwfrKEQrpdR1EopiGF04kw6zPJcWtOLvRt3V3I4gKc040CWBXHcyN0JNwI1g5Q7MXJx6zzEqoViQCvQu9pWOo4zmzpsDuOvcAh8RIr1cmhd3bI6Jy6GZHNO_O96KBPdszAqRY0hpOaY-I-Er_u-XQ&ved=2ahUKEwiGx-Cf6eSWAxWXVKQEHePyBkEQFnoECCAQAQ&uoh=1",
+   "displayed_link": "https://www.cardinaleducation.com \u203a los-angeles-hspt",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAb1BMVEX______vv-_ff--uf888X76ZD754n75Hz876_--eH-_PL__vr___7988L52kj51Sv40BT4zAD40Rv51jP631_76pf87qj63FH88LX99Mr87KH64Gf99tX63Vj---_52D7-99j64m7--eT75YH743RV71DKAAAB20lEQVR4AXVSB4LcIAykuCMMwr2X9f_fGLCXDZvcjSto1AaREJTxKE7SNE3iLC8EkC8Ak2mpNL5hqrrJQ0rRdhp1l_SDRTROxpKqmXjAsCDqWgqAZw1zbRmZDyEyY4OOLAy5ToiJt4_a2iUlX-Abdu94vbXrlt6V7lE2tv2wMwKZrh6fvELEmlkzb7etW46lq1Qp4VSVuLt_ua5mV0mlp2EFADbUuDBal8wRThegY0Q0WjfMl7hsBTlvIaBFi9GlxFQQj16tXl_XsJ5d0SoPekgLH2xzmnEiEa9ABxB-cSpL2FY4ENt321yQALu5CayzhZz5Psh-LHlImB-Cy2SM0dr1fP5CmOLrmpbNhASfgt8pgABlPG-eDsMizQ4X4vEu_P4ADdvEnkj9pQMZGhEIhResJWIMxEMchyN4qZ0Q0qAZPMOuEiB7z_xh6R5oprCSj4Awb3onrFOrP24sC7u7GH3I2arVKDcgs1HFZ2D0aKsuhnjbttJedXaCSLEWn5FDdecHsebzzhkAgcFgEwwtVpYRAHiJWsKb0SsXoxV_KZAvdod_lvPkJnvJVnAgNI9dYUkQkcnDRammV9wkr-WOOOUkBOXt1VXmwbZcbU7JPwAqivXcbRdrIehTzx_hjisaHTDc2QAAAABJRU5ErkJggg.png",
+   "snippet": "Ready to Turn One HSPT Attempt Into an LA Catholic School Acceptance? There's no makeup date for the HSPT\u2014whatever your child scores in that one December or ...",
+   "snippet_highlighted_words": [
+    "LA Catholic School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Ready to Turn One HSPT Attempt Into an LA Catholic School Acceptance? There's no makeup date for the HSPT\u2014whatever your child scores in that one December or ...",
+     "source_info_link": "https://www.cardinaleducation.com/los-angeles-homepage/los-angeles-hspt/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAb1BMVEX______vv-_ff--uf888X76ZD754n75Hz876_--eH-_PL__vr___7988L52kj51Sv40BT4zAD40Rv51jP631_76pf87qj63FH88LX99Mr87KH64Gf99tX63Vj---_52D7-99j64m7--eT75YH743RV71DKAAAB20lEQVR4AXVSB4LcIAykuCMMwr2X9f_fGLCXDZvcjSto1AaREJTxKE7SNE3iLC8EkC8Ak2mpNL5hqrrJQ0rRdhp1l_SDRTROxpKqmXjAsCDqWgqAZw1zbRmZDyEyY4OOLAy5ToiJt4_a2iUlX-Abdu94vbXrlt6V7lE2tv2wMwKZrh6fvELEmlkzb7etW46lq1Qp4VSVuLt_ua5mV0mlp2EFADbUuDBal8wRThegY0Q0WjfMl7hsBTlvIaBFi9GlxFQQj16tXl_XsJ5d0SoPekgLH2xzmnEiEa9ABxB-cSpL2FY4ENt321yQALu5CayzhZz5Psh-LHlImB-Cy2SM0dr1fP5CmOLrmpbNhASfgt8pgABlPG-eDsMizQ4X4vEu_P4ADdvEnkj9pQMZGhEIhResJWIMxEMchyN4qZ0Q0qAZPMOuEiB7z_xh6R5oprCSj4Awb3onrFOrP24sC7u7GH3I2arVKDcgs1HFZ2D0aKsuhnjbttJedXaCSLEWn5FDdecHsebzzhkAgcFgEwwtVpYRAHiJWsKb0SsXoxV_KZAvdod_lvPkJnvJVnAgNI9dYUkQkcnDRammV9wkr-WOOOUkBOXt1VXmwbZcbU7JPwAqivXcbRdrIehTzx_hjisaHTDc2QAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESgAEB6zswFTS4eyfq_CwbzAB6gjwfrKEQrpdR1EopiGF04kw6zPJcWtOLvRt3V3I4gKc040CWBXHcyN0JNwI1g5Q7MXJx6zzEqoViQCvQu9pWOo4zmzpsDuOvcAh8RIr1cmhd3bI6Jy6GZHNO_O96KBPdszAqRY0hpOaY-I-Er_u-XQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESgAEB6zswFTS4eyfq_CwbzAB6gjwfrKEQrpdR1EopiGF04kw6zPJcWtOLvRt3V3I4gKc040CWBXHcyN0JNwI1g5Q7MXJx6zzEqoViQCvQu9pWOo4zmzpsDuOvcAh8RIr1cmhd3bI6Jy6GZHNO_O96KBPdszAqRY0hpOaY-I-Er_u-XQ",
+   "source": "Cardinal Education",
+   "read_more_link": "https://www.cardinaleducation.com/los-angeles-homepage/los-angeles-hspt/#:~:text=Ready%20to%20Turn%20One%20HSPT,on%20the%20list%20will%20see."
+  },
+  {
+   "position": 6,
+   "title": "Opelousas (La.) Catholic School - Summary from LegiStorm",
+   "link": "https://www.legistorm.com/organization/summary/150084/Opelousas_La_Catholic_School.html",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjwEB6zswFZmDhp1mAx-hqOrzwCaflVuZyJJxSljq-NzcEZBTnzGB454Iv3k2LotyoU66PZekv6OzhzqAhaiO8sJNObK1psKMUexi9BdsGhOqECHlDtroxpJSXldSn4Tae8PpjJ1Ta4aJqx_cURMK054pYyUcLM0aaEYmZn_MfpsjuqGqEgdKtEOEeSCOZnaRow&ved=2ahUKEwiGx-Cf6eSWAxWXVKQEHePyBkEQFnoECFAQAQ&uoh=1",
+   "displayed_link": "https://www.legistorm.com \u203a organization \u203a Opelousas_L...",
+   "snippet": "LegiStorm's information on Opelousas (La.) Catholic School including any related organizations, trips sponsored, lobbying information, earmarks and more.",
+   "snippet_highlighted_words": [
+    "La.) Catholic School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "LegiStorm's information on Opelousas (La.) Catholic School including any related organizations, trips sponsored, lobbying information, earmarks and more.",
+     "source_info_link": "https://www.legistorm.com/organization/summary/150084/Opelousas_La_Catholic_School.html"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESjwEB6zswFZmDhp1mAx-hqOrzwCaflVuZyJJxSljq-NzcEZBTnzGB454Iv3k2LotyoU66PZekv6OzhzqAhaiO8sJNObK1psKMUexi9BdsGhOqECHlDtroxpJSXldSn4Tae8PpjJ1Ta4aJqx_cURMK054pYyUcLM0aaEYmZn_MfpsjuqGqEgdKtEOEeSCOZnaRow&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESjwEB6zswFZmDhp1mAx-hqOrzwCaflVuZyJJxSljq-NzcEZBTnzGB454Iv3k2LotyoU66PZekv6OzhzqAhaiO8sJNObK1psKMUexi9BdsGhOqECHlDtroxpJSXldSn4Tae8PpjJ1Ta4aJqx_cURMK054pYyUcLM0aaEYmZn_MfpsjuqGqEgdKtEOEeSCOZnaRow",
+   "source": "LegiStorm"
+  },
+  {
+   "position": 7,
+   "title": "An LA Catholic school librarian's accidental 'dream come true'",
+   "link": "https://lacatholics.org/2024/06/20/an-la-catholic-school-librarians-accidental-dream-come-true/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlwEB6zswFQfpzDoXcW5qWIsrMwR9XsPUtDlznH8oqtyZ2u2_a_0QwKgev4VrWORkJznxgdoK6zcO_MDijyop6nSsAoi4xFE6i-OdeOgQN-tQvbzC3ldFgGVnl5lKaPRePKF56alrQBeL_KqVUfgu_5EDP0gKM1DW7g_CxOKOOuRlMRsf2sIeUVm0trQFyjP2ZjmCoUrCtBx2&ved=2ahUKEwiGx-Cf6eSWAxWXVKQEHePyBkEQFnoECFEQAQ&uoh=1",
+   "displayed_link": "https://lacatholics.org \u203a Uncategorized",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEVHcEwyj8wyj8wyj8wyj8wyj8wyj8wyj8wyj8wyj8wyj8wyj8wyj8xQBfdEAAAADXRSTlMAoSkM9P-HzUkbaeBWreuBoQAAALVJREFUeAFjgABGAQZkoCiEzGN2DTEAMxCKieayuYYkIJlUmqQWboBQGsTRoIpQPnVBewVXJJzbOtOjZWYEjNe-xbLm-OToGih3qZiR9WblxCgYd0IGA0MbJ5yrUMnAMJ0JzlV2YmBQMULIbmNgyGZCcEsMmN2RuFsFGKORuKkRrWFI3NJA0XAkbmtYagwSd2mSVhQSt1sxqQaJayG1sBmJy2CVzIDgrjlzoufMKRj3aCgYgLgAAjM4HSsa0RQAAAAASUVORK5CYII.png",
+   "snippet": "An LA Catholic school librarian's accidental 'dream come true'. The final weeks of MaryLou Lia's 43 years as the librarian at St. Cyril of Jerusalem School ...",
+   "snippet_highlighted_words": [
+    "LA Catholic school"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "An LA Catholic school librarian's accidental 'dream come true'. The final weeks of MaryLou Lia's 43 years as the librarian at St. Cyril of Jerusalem School ...",
+     "source_info_link": "https://lacatholics.org/2024/06/20/an-la-catholic-school-librarians-accidental-dream-come-true/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEVHcEwyj8wyj8wyj8wyj8wyj8wyj8wyj8wyj8wyj8wyj8wyj8wyj8xQBfdEAAAADXRSTlMAoSkM9P-HzUkbaeBWreuBoQAAALVJREFUeAFjgABGAQZkoCiEzGN2DTEAMxCKieayuYYkIJlUmqQWboBQGsTRoIpQPnVBewVXJJzbOtOjZWYEjNe-xbLm-OToGih3qZiR9WblxCgYd0IGA0MbJ5yrUMnAMJ0JzlV2YmBQMULIbmNgyGZCcEsMmN2RuFsFGKORuKkRrWFI3NJA0XAkbmtYagwSd2mSVhQSt1sxqQaJayG1sBmJy2CVzIDgrjlzoufMKRj3aCgYgLgAAjM4HSsa0RQAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESlwEB6zswFQfpzDoXcW5qWIsrMwR9XsPUtDlznH8oqtyZ2u2_a_0QwKgev4VrWORkJznxgdoK6zcO_MDijyop6nSsAoi4xFE6i-OdeOgQN-tQvbzC3ldFgGVnl5lKaPRePKF56alrQBeL_KqVUfgu_5EDP0gKM1DW7g_CxOKOOuRlMRsf2sIeUVm0trQFyjP2ZjmCoUrCtBx2&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESlwEB6zswFQfpzDoXcW5qWIsrMwR9XsPUtDlznH8oqtyZ2u2_a_0QwKgev4VrWORkJznxgdoK6zcO_MDijyop6nSsAoi4xFE6i-OdeOgQN-tQvbzC3ldFgGVnl5lKaPRePKF56alrQBeL_KqVUfgu_5EDP0gKM1DW7g_CxOKOOuRlMRsf2sIeUVm0trQFyjP2ZjmCoUrCtBx2",
+   "source": "LA Catholics"
+  },
+  {
+   "position": 8,
+   "title": "what was up with Catholic school service hours : r/excatholic",
+   "link": "https://www.reddit.com/r/excatholic/comments/1vacwp4/what_was_up_with_catholic_school_service_hours/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnAEB6zswFc11SRZPl1Zd5rBmSsJiIQW1gS92_QdbfK_nIbblIuvARlwXNn17JAsVyMKWihg-igI7K8SHcyhek47D1tLRsrbTO6R-sYIHoZoaKPiMiiL1eMURHkE2atBeK6k0pb4wa5HH4WGFdMZlDblwsvj8bPplDjn0aEjsgFEtIm2aTKffulYKYSdqbzmdA6TmTkD9lZVmN13D4Bg&ved=2ahUKEwiGx-Cf6eSWAxWXVKQEHePyBkEQFnoECFgQAQ&uoh=1",
+   "displayed_link": "20+ comments \u00b7 1 month ago",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+   "snippet": "Hi so I (F22) went to a catholic k-8 and then all girls Catholic HS. This was in LA. These schools, like most, had tuitions. Yknow, literally PAYING ...",
+   "about_this_result": {
+    "source": {
+     "description": "If you google \u201cla catholic school parent service hours\u201d pretty much every school has a page on their website listing how many hours they ...",
+     "source_info_link": "https://www.reddit.com/r/excatholic/comments/1vacwp4/what_was_up_with_catholic_school_service_hours/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESnAEB6zswFc11SRZPl1Zd5rBmSsJiIQW1gS92_QdbfK_nIbblIuvARlwXNn17JAsVyMKWihg-igI7K8SHcyhek47D1tLRsrbTO6R-sYIHoZoaKPiMiiL1eMURHkE2atBeK6k0pb4wa5HH4WGFdMZlDblwsvj8bPplDjn0aEjsgFEtIm2aTKffulYKYSdqbzmdA6TmTkD9lZVmN13D4Bg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESnAEB6zswFc11SRZPl1Zd5rBmSsJiIQW1gS92_QdbfK_nIbblIuvARlwXNn17JAsVyMKWihg-igI7K8SHcyhek47D1tLRsrbTO6R-sYIHoZoaKPiMiiL1eMURHkE2atBeK6k0pb4wa5HH4WGFdMZlDblwsvj8bPplDjn0aEjsgFEtIm2aTKffulYKYSdqbzmdA6TmTkD9lZVmN13D4Bg",
+   "source": "Reddit \u00b7 r/excatholic"
+  },
+  {
+   "position": 9,
+   "title": "Campus Ministry - New Orleans",
+   "link": "https://www.brothermartin.com/academics/campus-ministry/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHrOzAVEo8pxnNP6aKh_jdv-jw_YR2LLZ-JMkm2yguPiM9ynXnI8kouKUBYA4GXfQHY8LlCmt-yDGo4jbXfmHlWjE2cNqFBcvNwRLV4gS2n5VCEqwAgLUKqeixnNB0UUBWu4IivBDQPw848wPerI04&ved=2ahUKEwiGx-Cf6eSWAxWXVKQEHePyBkEQFnoECFwQAQ&uoh=1",
+   "displayed_link": "https://www.brothermartin.com \u203a Academics",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAASFBMVEVHcEy2mFq1mVq5pV-3n1zCxGywhVKaACubDi2bHSycFy6bCyyfMDWpZUecFS6bFy-bFS6bES2kRz22mlubCSyhOjibDCytdEyjyehzAAAAF3RSTlMABmA3SA8eYLAl_5H_____7v______x3Ra5LMAAADySURBVHgBjZJVAsQgDESR4JDUe_-TrhBYl76vYV4FE7-R6let7lbDLQK3YJRshbbdKgO1BGfhUmsA632PwVUptY8pWG1DyqXkFtHrJoloGIjGaZ6nkXO8yVjpkkc3iQtzkWuL1OWWC7PP895ivslpfmPdjkiPY2W5TmjhjA-zpRgx8myRIiLGVKWARE9Lofps6ttH8dJQlzxyIKoMkWEZmcBSmyHSqxyMrlKCowpLzg76MRr_-llvQDSUTM8yCSVuKOMeZ-sMu4aGsNG4znNG2oIG8YS5vryUsgxOKiteAZAJMUmAzzdVh6CVEZ-xir94iDPbKhcagsi38AAAAABJRU5ErkJggg.png",
+   "snippet": "We are proud to be one of the top Catholic high school for boys in New Orleans LA. 4401 Elysian Fields Avenue New Orleans, LA 70122-3898 (504) 283-1561",
+   "about_this_result": {
+    "source": {
+     "description": "We are proud to be one of the top Catholic high school for boys in New Orleans LA. 4401 Elysian Fields Avenue New Orleans, LA 70122-3898 (504) 283-1561",
+     "source_info_link": "https://www.brothermartin.com/academics/campus-ministry/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAASFBMVEVHcEy2mFq1mVq5pV-3n1zCxGywhVKaACubDi2bHSycFy6bCyyfMDWpZUecFS6bFy-bFS6bES2kRz22mlubCSyhOjibDCytdEyjyehzAAAAF3RSTlMABmA3SA8eYLAl_5H_____7v______x3Ra5LMAAADySURBVHgBjZJVAsQgDESR4JDUe_-TrhBYl76vYV4FE7-R6let7lbDLQK3YJRshbbdKgO1BGfhUmsA632PwVUptY8pWG1DyqXkFtHrJoloGIjGaZ6nkXO8yVjpkkc3iQtzkWuL1OWWC7PP895ivslpfmPdjkiPY2W5TmjhjA-zpRgx8myRIiLGVKWARE9Lofps6ttH8dJQlzxyIKoMkWEZmcBSmyHSqxyMrlKCowpLzg76MRr_-llvQDSUTM8yCSVuKOMeZ-sMu4aGsNG4znNG2oIG8YS5vryUsgxOKiteAZAJMUmAzzdVh6CVEZ-xir94iDPbKhcagsi38AAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEScAHrOzAVEo8pxnNP6aKh_jdv-jw_YR2LLZ-JMkm2yguPiM9ynXnI8kouKUBYA4GXfQHY8LlCmt-yDGo4jbXfmHlWjE2cNqFBcvNwRLV4gS2n5VCEqwAgLUKqeixnNB0UUBWu4IivBDQPw848wPerI04&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEScAHrOzAVEo8pxnNP6aKh_jdv-jw_YR2LLZ-JMkm2yguPiM9ynXnI8kouKUBYA4GXfQHY8LlCmt-yDGo4jbXfmHlWjE2cNqFBcvNwRLV4gS2n5VCEqwAgLUKqeixnNB0UUBWu4IivBDQPw848wPerI04",
+   "source": "Brother Martin High School"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22LA+Catholic+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=BQ-jasawKJepkdUP4-WbiAQ&start=10&sa=N&sstk=AS6-VmJ-AhESodBs7EbbP3etSOw8e8xK2h1RdEJ98svLFItGowrf-6GM_weLmydF1XHJXRaouwFFq5tRMvsfCaArtaqMMmwXmDRNLA&ved=2ahUKEwiGx-Cf6eSWAxWXVKQEHePyBkEQ8NMDegQITxAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22LA+Catholic+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=BQ-jasawKJepkdUP4-WbiAQ&start=10&sa=N&sstk=AS6-VmJ-AhESodBs7EbbP3etSOw8e8xK2h1RdEJ98svLFItGowrf-6GM_weLmydF1XHJXRaouwFFq5tRMvsfCaArtaqMMmwXmDRNLA&ved=2ahUKEwiGx-Cf6eSWAxWXVKQEHePyBkEQ8tMDegQITxAE",
+   "3": "https://www.google.com/search?q=%22LA+Catholic+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=BQ-jasawKJepkdUP4-WbiAQ&start=20&sa=N&sstk=AS6-VmJ-AhESodBs7EbbP3etSOw8e8xK2h1RdEJ98svLFItGowrf-6GM_weLmydF1XHJXRaouwFFq5tRMvsfCaArtaqMMmwXmDRNLA&ved=2ahUKEwiGx-Cf6eSWAxWXVKQEHePyBkEQ8tMDegQITxAG",
+   "4": "https://www.google.com/search?q=%22LA+Catholic+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=BQ-jasawKJepkdUP4-WbiAQ&start=30&sa=N&sstk=AS6-VmJ-AhESodBs7EbbP3etSOw8e8xK2h1RdEJ98svLFItGowrf-6GM_weLmydF1XHJXRaouwFFq5tRMvsfCaArtaqMMmwXmDRNLA&ved=2ahUKEwiGx-Cf6eSWAxWXVKQEHePyBkEQ8tMDegQITxAI",
+   "5": "https://www.google.com/search?q=%22LA+Catholic+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=BQ-jasawKJepkdUP4-WbiAQ&start=40&sa=N&sstk=AS6-VmJ-AhESodBs7EbbP3etSOw8e8xK2h1RdEJ98svLFItGowrf-6GM_weLmydF1XHJXRaouwFFq5tRMvsfCaArtaqMMmwXmDRNLA&ved=2ahUKEwiGx-Cf6eSWAxWXVKQEHePyBkEQ8tMDegQITxAK",
+   "6": "https://www.google.com/search?q=%22LA+Catholic+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=BQ-jasawKJepkdUP4-WbiAQ&start=50&sa=N&sstk=AS6-VmJ-AhESodBs7EbbP3etSOw8e8xK2h1RdEJ98svLFItGowrf-6GM_weLmydF1XHJXRaouwFFq5tRMvsfCaArtaqMMmwXmDRNLA&ved=2ahUKEwiGx-Cf6eSWAxWXVKQEHePyBkEQ8tMDegQITxAM",
+   "7": "https://www.google.com/search?q=%22LA+Catholic+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=BQ-jasawKJepkdUP4-WbiAQ&start=60&sa=N&sstk=AS6-VmJ-AhESodBs7EbbP3etSOw8e8xK2h1RdEJ98svLFItGowrf-6GM_weLmydF1XHJXRaouwFFq5tRMvsfCaArtaqMMmwXmDRNLA&ved=2ahUKEwiGx-Cf6eSWAxWXVKQEHePyBkEQ8tMDegQITxAO",
+   "8": "https://www.google.com/search?q=%22LA+Catholic+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=BQ-jasawKJepkdUP4-WbiAQ&start=70&sa=N&sstk=AS6-VmJ-AhESodBs7EbbP3etSOw8e8xK2h1RdEJ98svLFItGowrf-6GM_weLmydF1XHJXRaouwFFq5tRMvsfCaArtaqMMmwXmDRNLA&ved=2ahUKEwiGx-Cf6eSWAxWXVKQEHePyBkEQ8tMDegQITxAQ",
+   "9": "https://www.google.com/search?q=%22LA+Catholic+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=BQ-jasawKJepkdUP4-WbiAQ&start=80&sa=N&sstk=AS6-VmJ-AhESodBs7EbbP3etSOw8e8xK2h1RdEJ98svLFItGowrf-6GM_weLmydF1XHJXRaouwFFq5tRMvsfCaArtaqMMmwXmDRNLA&ved=2ahUKEwiGx-Cf6eSWAxWXVKQEHePyBkEQ8tMDegQITxAS",
+   "10": "https://www.google.com/search?q=%22LA+Catholic+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=BQ-jasawKJepkdUP4-WbiAQ&start=90&sa=N&sstk=AS6-VmJ-AhESodBs7EbbP3etSOw8e8xK2h1RdEJ98svLFItGowrf-6GM_weLmydF1XHJXRaouwFFq5tRMvsfCaArtaqMMmwXmDRNLA&ved=2ahUKEwiGx-Cf6eSWAxWXVKQEHePyBkEQ8tMDegQITxAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22LA+Catholic+School%22&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22LA+Catholic+School%22&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22LA+Catholic+School%22&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22LA+Catholic+School%22&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22LA+Catholic+School%22&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22LA+Catholic+School%22&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22LA+Catholic+School%22&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22LA+Catholic+School%22&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22LA+Catholic+School%22&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22LA+Catholic+School%22&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22LA+Catholic+School%22&start=90"
+  }
+ }
+}

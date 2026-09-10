@@ -1,0 +1,434 @@
+{
+ "search_information": {
+  "query_displayed": "\"Castle High School\" Indiana",
+  "total_results": 89800,
+  "time_taken_displayed": 0.48,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Castle High School",
+  "type": "Public school in Newburgh, Indiana",
+  "entity_type": "local_nav",
+  "kgmid": "/m/0267by5",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/0267by5&hl=en-US&q=Castle+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F0267by5&q=Castle+High+School",
+  "place_id": "ChIJNQg6RHwtbogRU4OhabTB4x4",
+  "website": "https://castle.warrick.k12.in.us/",
+  "description": "Castle High School, previously known as John H. Castle High School is a public high school located about a mile northeast of Newburgh, Indiana on Indiana 261. Castle is one of three high schools in the Warrick County School Corporation.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa30a375c4bf43ffe514314/images/swD2zxht8QNzzugII4m9xbocfKAEDJ0oUyvnYqEXgX8.webp",
+   "link": "https://www.google.com/maps/place/Castle+High+School/data=!4m2!3m1!1s0x0:0x1ee3c1b469a18353?sa=X&ved=2ahUKEwiD68be5OSWAxUrYEEAHVmvKwIQ_BJ6BAgXEAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/John_H._Castle_High_School"
+  },
+  "address": "3344 IN-261, Newburgh, IN 47630",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=john+h.+castle+high+school+address&ludocid=2225835621461623635&sa=X&ved=2ahUKEwiD68be5OSWAxUrYEEAHVmvKwIQ6BN6BAgjEAI"
+   }
+  ],
+  "founded": "1959",
+  "colors": "White, Navy Blue, Gold",
+  "colors_links": [
+   {
+    "text": "White",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpt2PmrrG0v_NNf8LKgZjBVjwPSJGOBj-fhttCVbIGZaHT8zkmLipEHPiQY65myk41S_Fw63wUNc9UTfSxf68z7uFrrt0W713neVyKjZ8D6L4P6ucyYuXGU6bdi31gZBBgmv6oyQNp5GrCGbMq6zWIl_-vjukRaWHDdMJHZImqoAFmRrVVZReR_n84Zx1U-2bhn3Hs1Q%3D&sa=X&ved=2ahUKEwiD68be5OSWAxUrYEEAHVmvKwIQmxN6BAgkEAI"
+   },
+   {
+    "text": "Navy Blue",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yYUh8av1bdeo-5wogQ727vQgLlpsZmjKW2H6UCstXgr41-Eok3DFwqXDH9c93xAguqt0XZe66XkgQpifS3mU5iUk-EUPE2ZLyxJV6DDffsi9aR5maIWerZBfu4UkxD8QbWo2Wc9Dwv12L1xezllWUnKoL32SMxwaCDk-oIHCq8vDOUkxXK9lie-BCrDDc91jjVHJ3u8%3D&sa=X&ved=2ahUKEwiD68be5OSWAxUrYEEAHVmvKwIQmxN6BAgkEAM"
+   },
+   {
+    "text": "Gold",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yVTSUpKThlWoIKPxeFqYth2SIDLoP0njeJsXuUgA4WpFftQAhxW0wvBxXIrji2HToKpL0AUhfmG0vT6WgFd-wskec_VYdD5sB6tlWpif-PJEShRaHQ0zesBkoWXvxyqBH6QTTrd0viulISuH0uJzozYHXez1KsAAwUulA_9Y9lwdFP5SY6wf6_9gYwpWKSwLsz4dzQk%3D&sa=X&ved=2ahUKEwiD68be5OSWAxUrYEEAHVmvKwIQmxN6BAgkEAQ"
+   }
+  ],
+  "school_types": "High school, State school, Public school",
+  "school_types_links": [
+   {
+    "text": "High school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=High+school&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMppXfNh-OkLk_azmU0uk1AX8sk8s1-2uDG13xvljBKYj-62BC653CUwqsnPBoRGsmoAhp8N1FFUjPXYR75tXwHhUXWv8UBnIL4TF0z5QyYwumXpx7FSAha7VwevzpRFFpfKKn2bTzlKXfKfZPowYETDTrogybc7K8AccJbReDk33KtAsAcz8HwyuMQMk01_ILRGsPcvH-GvTOETNYhmXw9CZFdPwbzjJmXq2DukzpNQn4KamOD662lNgnXEMKp9AzopUfUzs%3D&sa=X&ved=2ahUKEwiD68be5OSWAxUrYEEAHVmvKwIQmxN6BAgmEAI"
+   },
+   {
+    "text": "State school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=State+school&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ybGtCxI0H8z2nV80srIO5hizwNtt3Ym6Fi28M6pFzMpba6xCjNFIQKbDb7W_yOsUKzHP6t0BoDIq84DgtktiHBvFqPDhCTDRJvE6JLQvR7Ea1lZyT9KDWodcNWP_Jvrc_-RLl-2I8pgrx1dHCTsveJ4_et16dYbQ4lYPCk4NuzylA1GyKkk-ylYlijaaigDrtKTbEBhPq7iFAIAa_HgVI0_uXduuxmxYP1ovTRbH0LsO7pVtUPpcBKNAaSGKSNTBbNCtYVQ%3D&sa=X&ved=2ahUKEwiD68be5OSWAxUrYEEAHVmvKwIQmxN6BAgmEAM"
+   },
+   {
+    "text": "Public school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Public+school&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpnRjecyiHCyfvh60pbD8ck56NaVb1rRy5mFUEfV53q25U5z4WHsBgSa_e0unuhy-ayBk7Zd2jqvKjlt1IkxJQTjLlr10sRb8WFIeYWfbJ_Km0raaFuAtPg5kVHqdWfhYQInZcdzOi7FomBK6mNP_6KQI9CRcnjTkCdCJ8_pp9LvE9tFmO4P5zP2nmPBe2yNr7W4FT-D9HIrTsJrJYcOJCIODxgJJZtbN7vdcz9HzRiKmFMVmrc3rWTiQO-Z4AwkW16LEsXA%3D&sa=X&ved=2ahUKEwiD68be5OSWAxUrYEEAHVmvKwIQmxN6BAgmEAQ"
+   }
+  ],
+  "phone": "(812) 853-3331",
+  "raw_hours": "Closes soon \u00b7 3 - 30 PM \u00b7 Opens 7 AM Fri",
+  "hours": {
+   "thursday": {
+    "opens": "7\u202fAM",
+    "closes": "3:30\u202fPM"
+   },
+   "friday": {
+    "opens": "7\u202fAM",
+    "closes": "3:30\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "7\u202fAM",
+    "closes": "3:30\u202fPM"
+   },
+   "tuesday": {
+    "opens": "7\u202fAM",
+    "closes": "3:30\u202fPM"
+   },
+   "wednesday": {
+    "opens": "7\u202fAM",
+    "closes": "3:30\u202fPM"
+   }
+  },
+  "unclaimed_listing": true,
+  "people_also_search_for": [
+   {
+    "name": "Central High School",
+    "image": "https://serpapi.com/searches/6aa30a375c4bf43ffe514314/images/swD2zxht8QNzzugII4m9xR0iOifGgOuuMJ6IejoYZsm_c5tPhumLHPYmru69qPbK.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yeHyBFxDcKRHWHV7QBuuwQISHZUk7FhRvhvPVLHPgge7AcatLbeAGGR2H3ggqIq_4gB7MJVAQKAUdkaE_2RAj1Qud4_7vo0eMyoVHrT0soaHKwKx2rlauVYMLmASSI7TkzZvH10A-c-4fUHXX3OjdxGGMv361cYzydedhndUaHeQsoWz-EZhw1J8eayzlx53r4W16HQbyf6eTC7MsytjAnhkeEqRvFmKiP-O6-9Y23pfvDiu6CsvWHvrsIdInt6ETXaY3LvGiaamHDAfWviglyudTr_7&q=Evansville+Central+High+School&sa=X&ved=2ahUKEwiD68be5OSWAxUrYEEAHVmvKwIQs9oBKAB6BAgeEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Evansville+Central+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yeHyBFxDcKRHWHV7QBuuwQISHZUk7FhRvhvPVLHPgge7AcatLbeAGGR2H3ggqIq_4gB7MJVAQKAUdkaE_2RAj1Qud4_7vo0eMyoVHrT0soaHKwKx2rlauVYMLmASSI7TkzZvH10A-c-4fUHXX3OjdxGGMv361cYzydedhndUaHeQsoWz-EZhw1J8eayzlx53r4W16HQbyf6eTC7MsytjAnhkeEqRvFmKiP-O6-9Y23pfvDiu6CsvWHvrsIdInt6ETXaY3LvGiaamHDAfWviglyudTr_7"
+   },
+   {
+    "name": "Francis Joseph Reitz High School",
+    "image": "https://serpapi.com/searches/6aa30a375c4bf43ffe514314/images/swD2zxht8QNzzugII4m9xR0iOifGgOuuMJ6IejoYZsmljTUXRf24DkhA3cpyayBq.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yYhKVfezvUfkfoyBBDMhwUITXRnsZQ1vFBkvqMBe0R4peR6MKH2Kn9bbzr0nzMCqSHnQlry1LgbIlpwIuxjGepmQXfpId7UwyrFJ-yq5hVYAkr1UeJJkhlBhII0LYjsf9nt8Zw8ldBaqhO_jdoXgseXf6RniTor-9TD7YZOPyILxl2OjrfNxaK7eeDcmDfHghrAautpC8miFc4SVxMx-HQv51IQPPcIEftH1IICtK31SPG2-ET8n6SzWsqK2uAqrNTRSWeGBzV0pLBOs977_SW7N-iPy&q=FJ+Reitz+High+School&sa=X&ved=2ahUKEwiD68be5OSWAxUrYEEAHVmvKwIQs9oBKAB6BAgeEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=FJ+Reitz+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yYhKVfezvUfkfoyBBDMhwUITXRnsZQ1vFBkvqMBe0R4peR6MKH2Kn9bbzr0nzMCqSHnQlry1LgbIlpwIuxjGepmQXfpId7UwyrFJ-yq5hVYAkr1UeJJkhlBhII0LYjsf9nt8Zw8ldBaqhO_jdoXgseXf6RniTor-9TD7YZOPyILxl2OjrfNxaK7eeDcmDfHghrAautpC8miFc4SVxMx-HQv51IQPPcIEftH1IICtK31SPG2-ET8n6SzWsqK2uAqrNTRSWeGBzV0pLBOs977_SW7N-iPy"
+   },
+   {
+    "name": "North High School",
+    "image": "https://serpapi.com/searches/6aa30a375c4bf43ffe514314/images/swD2zxht8QNzzugII4m9xR0iOifGgOuuMJ6IejoYZsnLf7DyLlQXwSxONM4ZBnHl.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ycr8cMr7OMd5JtKEAPdndtKX7x_Xv3s8fHmEuN0S6yc_req4JXXpUa4LnP6I9AFYUhqUt79e-k6dCYet3WYTsCE4IUmRshbBCieDW5FRjyaa2EuPg9g5rO7uOGII5OECbSrsZ2PLnadPPekZURho8L-l0f3UA_54MSgxWqQZ5KZTLXbcNy-mu5sjsE3Yq8Z8S0J5y0_bC1-io6OmaV6Y7e9_DEE8nP0RZfpvl8wvCIli2zOaC4BmG_wfpCn02wBYWBAFAomHQ5Sz1EzfZUiyZ3vF2pPY&q=North+High+School+(Indiana)&sa=X&ved=2ahUKEwiD68be5OSWAxUrYEEAHVmvKwIQs9oBKAB6BAgeEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=North+High+School+%28Indiana%29&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ycr8cMr7OMd5JtKEAPdndtKX7x_Xv3s8fHmEuN0S6yc_req4JXXpUa4LnP6I9AFYUhqUt79e-k6dCYet3WYTsCE4IUmRshbBCieDW5FRjyaa2EuPg9g5rO7uOGII5OECbSrsZ2PLnadPPekZURho8L-l0f3UA_54MSgxWqQZ5KZTLXbcNy-mu5sjsE3Yq8Z8S0J5y0_bC1-io6OmaV6Y7e9_DEE8nP0RZfpvl8wvCIli2zOaC4BmG_wfpCn02wBYWBAFAomHQ5Sz1EzfZUiyZ3vF2pPY"
+   },
+   {
+    "name": "Mater Dei High School",
+    "image": "https://serpapi.com/searches/6aa30a375c4bf43ffe514314/images/swD2zxht8QNzzugII4m9xR0iOifGgOuuMJ6IejoYZslDRM82_L87ssIm4UVgd10l.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yTjokL0G-Cil0kCX_D_CS-189BjlAPQY8Fjc-amsfC_IytUGBgFNcqX-Fz9y0kDvPaWUWJd0L6PCWqevbXJMwzRcHM1BnBiAKkiGorWB2I7Varo2r_cimjflx3dPvhQM0HYgYIH6aC0wHdHirc7OO-nFNCrTq7MOoh7E0XHxaS4D4DiVrgNZe9oZekLTJnRez29U2tDUAIWoCUXQ9aUTB5ca1ln1RC7OjgjOyJDuewy5OO3x_pxAbNY8qRzeZ5l9phtwqfuvrrLSDtha5l-IAfGvxp2DTzvpd7yn0PDKNWrFNx6IkQ%3D%3D&q=Mater+Dei+High+School+(Evansville,+Indiana)&sa=X&ved=2ahUKEwiD68be5OSWAxUrYEEAHVmvKwIQs9oBKAB6BAgeEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mater+Dei+High+School+%28Evansville%2C+Indiana%29&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yTjokL0G-Cil0kCX_D_CS-189BjlAPQY8Fjc-amsfC_IytUGBgFNcqX-Fz9y0kDvPaWUWJd0L6PCWqevbXJMwzRcHM1BnBiAKkiGorWB2I7Varo2r_cimjflx3dPvhQM0HYgYIH6aC0wHdHirc7OO-nFNCrTq7MOoh7E0XHxaS4D4DiVrgNZe9oZekLTJnRez29U2tDUAIWoCUXQ9aUTB5ca1ln1RC7OjgjOyJDuewy5OO3x_pxAbNY8qRzeZ5l9phtwqfuvrrLSDtha5l-IAfGvxp2DTzvpd7yn0PDKNWrFNx6IkQ%3D%3D"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=John+H.+Castle+High+School&stick=H4sIAAAAAAAAAONgFuLSz9U3MDIzT6o0VUJiawkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axCrllZ-Rp-Chp-CcWFwCVOCRmZ6hEJyckZ-fs4OV8RabJMMbh4rAXL6mziXhhodYtRdtjkgKtkkP-34cABfxRo2CAAAA&sa=X&ved=2ahUKEwiD68be5OSWAxUrYEEAHVmvKwIQzO0BKAR6BAgeEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLSz9U3MDIzT6o0VUJiawkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axCrllZ-Rp-Chp-CcWFwCVOCRmZ6hEJyckZ-fs4OV8RabJMMbh4rAXL6mziXhhodYtRdtjkgKtkkP-34cABfxRo2CAAAA",
+  "profiles": [
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/castleknights",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Castle+High+School%22+Indiana",
+    "image": "https://serpapi.com/searches/6aa30a375c4bf43ffe514314/images/swD2zxht8QNzzugII4m9xbX25KIESk9IsrVpqNk-dHWraqPi1G6jT_CmBeRGhIxr.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "How long has Castle High School been around?",
+   "type": "ai_overview",
+   "page_token": "Z2ygFnicHdDdToMwGIDheDMeOn50xiWLCUI7cS2j0I-fE9O1sDo6YI7JtjPvxavyalw8eM-fvN8_5qNtfm8GPQz9YTaZjON4t-m6januZLebiMO5lRMpjFkL2cymj1P7uZbz4Bh4L_tXL-Z9Dz6zUhzWCgJ7bSlKAEXcsgnnBinQJsPoJFOGIozeCo5qCl4TLXSf5eWy9Iux4vf3xC51xR88EdAlAJoKCzoBeptftGC5TlUenyoDK8o7l-bQJgZcZl6HKNeYZpSUW89RF5ZUgNqYQyMQPy1TLSr0tGCACu6oMfPDI8G9Xru9IXx4YVsmhAMDu5Ah88szxSascBkmW9YGukyVi_ZFTldZQxzVoK5oTEx2saM4MPwRemxBz1FWJum1OAUrwaerB02T1DzIhtp0YVbMZyCN593W8mvu3v7fnL_Xu2HWf3abP64tggs",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Z2ygFnicHdDdToMwGIDheDMeOn50xiWLCUI7cS2j0I-fE9O1sDo6YI7JtjPvxavyalw8eM-fvN8_5qNtfm8GPQz9YTaZjON4t-m6januZLebiMO5lRMpjFkL2cymj1P7uZbz4Bh4L_tXL-Z9Dz6zUhzWCgJ7bSlKAEXcsgnnBinQJsPoJFOGIozeCo5qCl4TLXSf5eWy9Iux4vf3xC51xR88EdAlAJoKCzoBeptftGC5TlUenyoDK8o7l-bQJgZcZl6HKNeYZpSUW89RF5ZUgNqYQyMQPy1TLSr0tGCACu6oMfPDI8G9Xru9IXx4YVsmhAMDu5Ah88szxSascBkmW9YGukyVi_ZFTldZQxzVoK5oTEx2saM4MPwRemxBz1FWJum1OAUrwaerB02T1DzIhtp0YVbMZyCN593W8mvu3v7fnL_Xu2HWf3abP64tggs",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTVZuaGxNbk4zVUV3NFFXeE9jSGhqWlhSR2RtTTNUR3cxZWw4ME5tNXVNVkJMTkZoWGFWRjFSVFJSZWs1WFoydFFkbEpEYzBodVIwWkNVamRVZDNkTVRWUklSelZsYXpsV2JWbzNWRkV3UW1zNFpqTmxVRFZoZDNSWFp4SVdVM2R4YW1GelQxcEROblpCYUdKSlVESmtOblZGVVJvaVFVUnpjamxtVXpkek5raHhaVU0yUmxJeVVVNWhTbVJtV2xaRFdtTkVUSHBVUVEiLCJmY3YiOiIzIiwiZWkiOiJTd3FqYXNPWkM2dkFoYklQMmQ2dUVRIiwicWMiOiJDaHBqWVhOMGJHVWdhR2xuYUNCelkyaHZiMndnYVc1a2FXRnVZUkFBZmI2X1Z6OCIsInF1ZXN0aW9uIjoiSG93IGxvbmcgaGFzIENhc3RsZSBIaWdoIFNjaG9vbCBiZWVuIGFyb3VuZD8iLCJsayI6IkdpdG9iM2NnYkc5dVp5Qm9ZWE1nWTJGemRHeGxJR2hwWjJnZ2MyTm9iMjlzSUdKbFpXNGdZWEp2ZFc1ayIsImJzIjoiYzQyUU1RdkNNQkJHY2IzSk9kT0JpRWhiUWY5QUJaZDJFeHdFUWVSc1FoTWFrdEtrOU85YmFhVkZNempmLTk2RGd6dkVtZTFRVzFPaUpJY25jbDRMekZRcDhWSklhelUtaFRCSWpXME5UdzhKaS1TY0x3WmV2bm4zdzBNRng2c2tqOHFobHdLZGI3a3dIbXRidDVxOHNqM29RMDFsTURkY2thSDBzR0hyUUVVTjU1a0tIcERNWTZzOU5tUXF3YjkyazNuSDR1NmZ3ZGlDRzBSNThFVTljNmFHdUhJaW52UVIyNnJnaDNxOEh2R1BlN2w0QVEiLCJpZCI6ImZjX1N3cWphc09aQzZ2QWhiSVAyZDZ1RVFfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTVZuaGxNbk4zVUV3NFFXeE9jSGhqWlhSR2RtTTNUR3cxZWw4ME5tNXVNVkJMTkZoWGFWRjFSVFJSZWs1WFoydFFkbEpEYzBodVIwWkNVamRVZDNkTVRWUklSelZsYXpsV2JWbzNWRkV3UW1zNFpqTmxVRFZoZDNSWFp4SVdVM2R4YW1GelQxcEROblpCYUdKSlVESmtOblZGVVJvaVFVUnpjamxtVXpkek5raHhaVU0yUmxJeVVVNWhTbVJtV2xaRFdtTkVUSHBVUVEiLCJmY3YiOiIzIiwiZWkiOiJTd3FqYXNPWkM2dkFoYklQMmQ2dUVRIiwicWMiOiJDaHBqWVhOMGJHVWdhR2xuYUNCelkyaHZiMndnYVc1a2FXRnVZUkFBZmI2X1Z6OCIsInF1ZXN0aW9uIjoiSG93IGxvbmcgaGFzIENhc3RsZSBIaWdoIFNjaG9vbCBiZWVuIGFyb3VuZD8iLCJsayI6IkdpdG9iM2NnYkc5dVp5Qm9ZWE1nWTJGemRHeGxJR2hwWjJnZ2MyTm9iMjlzSUdKbFpXNGdZWEp2ZFc1ayIsImJzIjoiYzQyUU1RdkNNQkJHY2IzSk9kT0JpRWhiUWY5QUJaZDJFeHdFUWVSc1FoTWFrdEtrOU85YmFhVkZNempmLTk2RGd6dkVtZTFRVzFPaUpJY25jbDRMekZRcDhWSklhelUtaFRCSWpXME5UdzhKaS1TY0x3WmV2bm4zdzBNRng2c2tqOHFobHdLZGI3a3dIbXRidDVxOHNqM29RMDFsTURkY2thSDBzR0hyUUVVTjU1a0tIcERNWTZzOU5tUXF3YjkyazNuSDR1NmZ3ZGlDRzBSNThFVTljNmFHdUhJaW52UVIyNnJnaDNxOEh2R1BlN2w0QVEiLCJpZCI6ImZjX1N3cWphc09aQzZ2QWhiSVAyZDZ1RVFfNSJ9"
+  },
+  {
+   "question": "What is the student population at Castle High School in Indiana?",
+   "type": "ai_overview",
+   "page_token": "l3r1k3icHdFLbqMwAABQzWW6bPgERo0UVXLApLSQ2tgQvKmITXDGNpDAlJBd79JlT9TTzKgneIv38alPrfr-9SXHsR9Wi8U0TfdN1zW6vuedWVTD3PIFr7Q-VFyt_N--_Xjk67AbNpthAoj2fR5gK7PYud7YfmqXc2L3Fw4fALXwrS76IDeaFK0mxPFQZeIbs8aoCqXKWqhJm1yJGq-HrRhEQD1O5bl0gWYufjno-BXN1swC6TECFLJhlzhpRXO9JJTFOwIv2Giw26c9j5olz2GUGjQdAuGx9slDystrJf8i9bDZRaNPItkLLSGmo5_tRUlD-YRuYiw0fiYaBtiOT9iWihq9rbdMigj7__1racSUQeAhh1rM6pPawIpGjYOMB-oif8_-6KIOWYRd-BxKRoQLz-U-fS1U4ggFu1JplBjkCJrj6BQDvE3nXcEouWmLwZQkBjuExDaiY_JC2bKyJBD7bi6MBHdH_r52734W1m9HM676S9f8A7PYlak",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=l3r1k3icHdFLbqMwAABQzWW6bPgERo0UVXLApLSQ2tgQvKmITXDGNpDAlJBd79JlT9TTzKgneIv38alPrfr-9SXHsR9Wi8U0TfdN1zW6vuedWVTD3PIFr7Q-VFyt_N--_Xjk67AbNpthAoj2fR5gK7PYud7YfmqXc2L3Fw4fALXwrS76IDeaFK0mxPFQZeIbs8aoCqXKWqhJm1yJGq-HrRhEQD1O5bl0gWYufjno-BXN1swC6TECFLJhlzhpRXO9JJTFOwIv2Giw26c9j5olz2GUGjQdAuGx9slDystrJf8i9bDZRaNPItkLLSGmo5_tRUlD-YRuYiw0fiYaBtiOT9iWihq9rbdMigj7__1racSUQeAhh1rM6pPawIpGjYOMB-oif8_-6KIOWYRd-BxKRoQLz-U-fS1U4ggFu1JplBjkCJrj6BQDvE3nXcEouWmLwZQkBjuExDaiY_JC2bKyJBD7bi6MBHdH_r52734W1m9HM676S9f8A7PYlak",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTVZuaGxNbk4zVUV3NFFXeE9jSGhqWlhSR2RtTTNUR3cxZWw4ME5tNXVNVkJMTkZoWGFWRjFSVFJSZWs1WFoydFFkbEpEYzBodVIwWkNVamRVZDNkTVRWUklSelZsYXpsV2JWbzNWRkV3UW1zNFpqTmxVRFZoZDNSWFp4SVdVM2R4YW1GelQxcEROblpCYUdKSlVESmtOblZGVVJvaVFVUnpjamxtVXpkek5raHhaVU0yUmxJeVVVNWhTbVJtV2xaRFdtTkVUSHBVUVEiLCJmY3YiOiIzIiwiZWkiOiJTd3FqYXNPWkM2dkFoYklQMmQ2dUVRIiwicWMiOiJDaHBqWVhOMGJHVWdhR2xuYUNCelkyaHZiMndnYVc1a2FXRnVZUkFBZmI2X1Z6OCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgc3R1ZGVudCBwb3B1bGF0aW9uIGF0IENhc3RsZSBIaWdoIFNjaG9vbCBpbiBJbmRpYW5hPyIsImxrIjoiR2lWallYTjBiR1VnYUdsbmFDQnpZMmh2YjJ3Z2FXNWthV0Z1WVNCd2IzQjFiR0YwYVc5dSIsImJzIjoiYzQyUU1RdkNNQkJHY2IzSk9kT0JpRWhiUWY5QUJaZDJFeHdFUWVSc1FoTWFrdEtrOU85YmFhVkZNempmLTk2RGd6dkVtZTFRVzFPaUpJY25jbDRMekZRcDhWSklhelUtaFRCSWpXME5UdzhKaS1TY0x3WmV2bm4zdzBNRng2c2tqOHFobHdLZGI3a3dIbXRidDVxOHNqM29RMDFsTURkY2thSDBzR0hyUUVVTjU1a0tIcERNWTZzOU5tUXF3YjkyazNuSDR1NmZ3ZGlDRzBSNThFVTljNmFHdUhJaW52UVIyNnJnaDNxOEh2R1BlN2w0QVEiLCJpZCI6ImZjX1N3cWphc09aQzZ2QWhiSVAyZDZ1RVFfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTVZuaGxNbk4zVUV3NFFXeE9jSGhqWlhSR2RtTTNUR3cxZWw4ME5tNXVNVkJMTkZoWGFWRjFSVFJSZWs1WFoydFFkbEpEYzBodVIwWkNVamRVZDNkTVRWUklSelZsYXpsV2JWbzNWRkV3UW1zNFpqTmxVRFZoZDNSWFp4SVdVM2R4YW1GelQxcEROblpCYUdKSlVESmtOblZGVVJvaVFVUnpjamxtVXpkek5raHhaVU0yUmxJeVVVNWhTbVJtV2xaRFdtTkVUSHBVUVEiLCJmY3YiOiIzIiwiZWkiOiJTd3FqYXNPWkM2dkFoYklQMmQ2dUVRIiwicWMiOiJDaHBqWVhOMGJHVWdhR2xuYUNCelkyaHZiMndnYVc1a2FXRnVZUkFBZmI2X1Z6OCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgc3R1ZGVudCBwb3B1bGF0aW9uIGF0IENhc3RsZSBIaWdoIFNjaG9vbCBpbiBJbmRpYW5hPyIsImxrIjoiR2lWallYTjBiR1VnYUdsbmFDQnpZMmh2YjJ3Z2FXNWthV0Z1WVNCd2IzQjFiR0YwYVc5dSIsImJzIjoiYzQyUU1RdkNNQkJHY2IzSk9kT0JpRWhiUWY5QUJaZDJFeHdFUWVSc1FoTWFrdEtrOU85YmFhVkZNempmLTk2RGd6dkVtZTFRVzFPaUpJY25jbDRMekZRcDhWSklhelUtaFRCSWpXME5UdzhKaS1TY0x3WmV2bm4zdzBNRng2c2tqOHFobHdLZGI3a3dIbXRidDVxOHNqM29RMDFsTURkY2thSDBzR0hyUUVVTjU1a0tIcERNWTZzOU5tUXF3YjkyazNuSDR1NmZ3ZGlDRzBSNThFVTljNmFHdUhJaW52UVIyNnJnaDNxOEh2R1BlN2w0QVEiLCJpZCI6ImZjX1N3cWphc09aQzZ2QWhiSVAyZDZ1RVFfNSJ9"
+  },
+  {
+   "question": "What is the #1 ranked high school in Indiana?",
+   "type": "ai_overview",
+   "page_token": "8YgN-nicHdBdbpswAABg7TJ9bGwnZCNSNIkEU9DiFsc_4JcJcAiNfyCBJU3fdoMdYqfqaTrtAt_D9_uvffXm48ufbpqGcTWb3W63x2PfH-3hsendrBrvvpk1lbV11ZjV8usSfm-bdXwto82liXI-DGJLwb7goIotpCD07IRFyTIjeViKp-wXxzphjqNn_A0SHgBViFZAkkrTqQO27lCQvXITlcnuRpL4TgqbaMcnFStSGngh83RBTnpUTp0radPahoYlIRBQbfVJZVras5A9Yh5zJS2XW32tcbSrHN0IQGGJNGMomGqvQfXejTXEOUFqk8M0EElwZr4rZGxLmdiNFFlERdjqWF8pJj-kFC_aRp56lVEwLPfy7T3uFNNzfC4L8iLNDmmD-9LYfOdypLmgyes_44ncn6WimuNFw3DagHFBZJcLSFOKdEBP2GoxLGvU-Ye2ua7nD_-n1z9bN62GS3_8BPOzik8",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=8YgN-nicHdBdbpswAABg7TJ9bGwnZCNSNIkEU9DiFsc_4JcJcAiNfyCBJU3fdoMdYqfqaTrtAt_D9_uvffXm48ufbpqGcTWb3W63x2PfH-3hsendrBrvvpk1lbV11ZjV8usSfm-bdXwto82liXI-DGJLwb7goIotpCD07IRFyTIjeViKp-wXxzphjqNn_A0SHgBViFZAkkrTqQO27lCQvXITlcnuRpL4TgqbaMcnFStSGngh83RBTnpUTp0radPahoYlIRBQbfVJZVras5A9Yh5zJS2XW32tcbSrHN0IQGGJNGMomGqvQfXejTXEOUFqk8M0EElwZr4rZGxLmdiNFFlERdjqWF8pJj-kFC_aRp56lVEwLPfy7T3uFNNzfC4L8iLNDmmD-9LYfOdypLmgyes_44ncn6WimuNFw3DagHFBZJcLSFOKdEBP2GoxLGvU-Ye2ua7nD_-n1z9bN62GS3_8BPOzik8",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTVZuaGxNbk4zVUV3NFFXeE9jSGhqWlhSR2RtTTNUR3cxZWw4ME5tNXVNVkJMTkZoWGFWRjFSVFJSZWs1WFoydFFkbEpEYzBodVIwWkNVamRVZDNkTVRWUklSelZsYXpsV2JWbzNWRkV3UW1zNFpqTmxVRFZoZDNSWFp4SVdVM2R4YW1GelQxcEROblpCYUdKSlVESmtOblZGVVJvaVFVUnpjamxtVXpkek5raHhaVU0yUmxJeVVVNWhTbVJtV2xaRFdtTkVUSHBVUVEiLCJmY3YiOiIzIiwiZWkiOiJTd3FqYXNPWkM2dkFoYklQMmQ2dUVRIiwicWMiOiJDaHBqWVhOMGJHVWdhR2xuYUNCelkyaHZiMndnYVc1a2FXRnVZUkFBZmI2X1Z6OCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgIzEgcmFua2VkIGhpZ2ggc2Nob29sIGluIEluZGlhbmE/IiwibGsiOiJHaXgzYUdGMElHbHpJSFJvWlNBak1TQnlZVzVyWldRZ2FHbG5hQ0J6WTJodmIyd2dhVzRnYVc1a2FXRnVZUSIsImJzIjoiYzQyUU1RdkNNQkJHY2IzSk9kT0JpRWhiUWY5QUJaZDJFeHdFUWVSc1FoTWFrdEtrOU85YmFhVkZNempmLTk2RGd6dkVtZTFRVzFPaUpJY25jbDRMekZRcDhWSklhelUtaFRCSWpXME5UdzhKaS1TY0x3WmV2bm4zdzBNRng2c2tqOHFobHdLZGI3a3dIbXRidDVxOHNqM29RMDFsTURkY2thSDBzR0hyUUVVTjU1a0tIcERNWTZzOU5tUXF3YjkyazNuSDR1NmZ3ZGlDRzBSNThFVTljNmFHdUhJaW52UVIyNnJnaDNxOEh2R1BlN2w0QVEiLCJpZCI6ImZjX1N3cWphc09aQzZ2QWhiSVAyZDZ1RVFfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTVZuaGxNbk4zVUV3NFFXeE9jSGhqWlhSR2RtTTNUR3cxZWw4ME5tNXVNVkJMTkZoWGFWRjFSVFJSZWs1WFoydFFkbEpEYzBodVIwWkNVamRVZDNkTVRWUklSelZsYXpsV2JWbzNWRkV3UW1zNFpqTmxVRFZoZDNSWFp4SVdVM2R4YW1GelQxcEROblpCYUdKSlVESmtOblZGVVJvaVFVUnpjamxtVXpkek5raHhaVU0yUmxJeVVVNWhTbVJtV2xaRFdtTkVUSHBVUVEiLCJmY3YiOiIzIiwiZWkiOiJTd3FqYXNPWkM2dkFoYklQMmQ2dUVRIiwicWMiOiJDaHBqWVhOMGJHVWdhR2xuYUNCelkyaHZiMndnYVc1a2FXRnVZUkFBZmI2X1Z6OCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgIzEgcmFua2VkIGhpZ2ggc2Nob29sIGluIEluZGlhbmE%2FIiwibGsiOiJHaXgzYUdGMElHbHpJSFJvWlNBak1TQnlZVzVyWldRZ2FHbG5hQ0J6WTJodmIyd2dhVzRnYVc1a2FXRnVZUSIsImJzIjoiYzQyUU1RdkNNQkJHY2IzSk9kT0JpRWhiUWY5QUJaZDJFeHdFUWVSc1FoTWFrdEtrOU85YmFhVkZNempmLTk2RGd6dkVtZTFRVzFPaUpJY25jbDRMekZRcDhWSklhelUtaFRCSWpXME5UdzhKaS1TY0x3WmV2bm4zdzBNRng2c2tqOHFobHdLZGI3a3dIbXRidDVxOHNqM29RMDFsTURkY2thSDBzR0hyUUVVTjU1a0tIcERNWTZzOU5tUXF3YjkyazNuSDR1NmZ3ZGlDRzBSNThFVTljNmFHdUhJaW52UVIyNnJnaDNxOEh2R1BlN2w0QVEiLCJpZCI6ImZjX1N3cWphc09aQzZ2QWhiSVAyZDZ1RVFfNSJ9"
+  },
+  {
+   "question": "Is Castle High School in Paradise, Indiana?",
+   "type": "ai_overview",
+   "page_token": "xNeicHicHdDNboIwAADg7GU8TqDgoolZoqMgWcuoLT-9LNiCdS2CikO87V32VHuaLbt95-_r2xyO-uehV33fXRbT6TAMj_u23ZvqUbTNtLyMRzEVpTG7UujF7GlmP9di6V_91fq0WSWs69IXYm2BtBglRUVNKUMDCbvhIuNR7OO6zHAWU-Mi7aXIQhYO4Fk40kH39M-2y_QtoT6zMVVNdbBjDNAo4fzKrN6twu5UBcoVfu9uj50ROYTIgTkKBlfmLZCBdrgfBfxDjKRJ2Svr1e6udHVUVprhMM7NjbJes4yHCJBAQDEwo84l2IDkHoGttR-F4Zz7dlo26kAtz6NBRHzFqQTwVOT4LdPIkRq2hTYJahJHspQEh2hFQjzGGd-KZj5SQ644h0oyRXYwGQjEs9LxUpF5a6rJalKLzyWY_G8u3-umX3Tndv8LKGmBUg",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=xNeicHicHdDNboIwAADg7GU8TqDgoolZoqMgWcuoLT-9LNiCdS2CikO87V32VHuaLbt95-_r2xyO-uehV33fXRbT6TAMj_u23ZvqUbTNtLyMRzEVpTG7UujF7GlmP9di6V_91fq0WSWs69IXYm2BtBglRUVNKUMDCbvhIuNR7OO6zHAWU-Mi7aXIQhYO4Fk40kH39M-2y_QtoT6zMVVNdbBjDNAo4fzKrN6twu5UBcoVfu9uj50ROYTIgTkKBlfmLZCBdrgfBfxDjKRJ2Svr1e6udHVUVprhMM7NjbJes4yHCJBAQDEwo84l2IDkHoGttR-F4Zz7dlo26kAtz6NBRHzFqQTwVOT4LdPIkRq2hTYJahJHspQEh2hFQjzGGd-KZj5SQ644h0oyRXYwGQjEs9LxUpF5a6rJalKLzyWY_G8u3-umX3Tndv8LKGmBUg",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTVZuaGxNbk4zVUV3NFFXeE9jSGhqWlhSR2RtTTNUR3cxZWw4ME5tNXVNVkJMTkZoWGFWRjFSVFJSZWs1WFoydFFkbEpEYzBodVIwWkNVamRVZDNkTVRWUklSelZsYXpsV2JWbzNWRkV3UW1zNFpqTmxVRFZoZDNSWFp4SVdVM2R4YW1GelQxcEROblpCYUdKSlVESmtOblZGVVJvaVFVUnpjamxtVXpkek5raHhaVU0yUmxJeVVVNWhTbVJtV2xaRFdtTkVUSHBVUVEiLCJmY3YiOiIzIiwiZWkiOiJTd3FqYXNPWkM2dkFoYklQMmQ2dUVRIiwicWMiOiJDaHBqWVhOMGJHVWdhR2xuYUNCelkyaHZiMndnYVc1a2FXRnVZUkFBZmI2X1Z6OCIsInF1ZXN0aW9uIjoiSXMgQ2FzdGxlIEhpZ2ggU2Nob29sIGluIFBhcmFkaXNlLCBJbmRpYW5hPyIsImxrIjoiR2lscGN5QmpZWE4wYkdVZ2FHbG5hQ0J6WTJodmIyd2dhVzRnY0dGeVlXUnBjMlVnYVc1a2FXRnVZUSIsImJzIjoiYzQyUU1RdkNNQkJHY2IzSk9kT0JpRWhiUWY5QUJaZDJFeHdFUWVSc1FoTWFrdEtrOU85YmFhVkZNempmLTk2RGd6dkVtZTFRVzFPaUpJY25jbDRMekZRcDhWSklhelUtaFRCSWpXME5UdzhKaS1TY0x3WmV2bm4zdzBNRng2c2tqOHFobHdLZGI3a3dIbXRidDVxOHNqM29RMDFsTURkY2thSDBzR0hyUUVVTjU1a0tIcERNWTZzOU5tUXF3YjkyazNuSDR1NmZ3ZGlDRzBSNThFVTljNmFHdUhJaW52UVIyNnJnaDNxOEh2R1BlN2w0QVEiLCJpZCI6ImZjX1N3cWphc09aQzZ2QWhiSVAyZDZ1RVFfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTVZuaGxNbk4zVUV3NFFXeE9jSGhqWlhSR2RtTTNUR3cxZWw4ME5tNXVNVkJMTkZoWGFWRjFSVFJSZWs1WFoydFFkbEpEYzBodVIwWkNVamRVZDNkTVRWUklSelZsYXpsV2JWbzNWRkV3UW1zNFpqTmxVRFZoZDNSWFp4SVdVM2R4YW1GelQxcEROblpCYUdKSlVESmtOblZGVVJvaVFVUnpjamxtVXpkek5raHhaVU0yUmxJeVVVNWhTbVJtV2xaRFdtTkVUSHBVUVEiLCJmY3YiOiIzIiwiZWkiOiJTd3FqYXNPWkM2dkFoYklQMmQ2dUVRIiwicWMiOiJDaHBqWVhOMGJHVWdhR2xuYUNCelkyaHZiMndnYVc1a2FXRnVZUkFBZmI2X1Z6OCIsInF1ZXN0aW9uIjoiSXMgQ2FzdGxlIEhpZ2ggU2Nob29sIGluIFBhcmFkaXNlLCBJbmRpYW5hPyIsImxrIjoiR2lscGN5QmpZWE4wYkdVZ2FHbG5hQ0J6WTJodmIyd2dhVzRnY0dGeVlXUnBjMlVnYVc1a2FXRnVZUSIsImJzIjoiYzQyUU1RdkNNQkJHY2IzSk9kT0JpRWhiUWY5QUJaZDJFeHdFUWVSc1FoTWFrdEtrOU85YmFhVkZNempmLTk2RGd6dkVtZTFRVzFPaUpJY25jbDRMekZRcDhWSklhelUtaFRCSWpXME5UdzhKaS1TY0x3WmV2bm4zdzBNRng2c2tqOHFobHdLZGI3a3dIbXRidDVxOHNqM29RMDFsTURkY2thSDBzR0hyUUVVTjU1a0tIcERNWTZzOU5tUXF3YjkyazNuSDR1NmZ3ZGlDRzBSNThFVTljNmFHdUhJaW52UVIyNnJnaDNxOEh2R1BlN2w0QVEiLCJpZCI6ImZjX1N3cWphc09aQzZ2QWhiSVAyZDZ1RVFfNSJ9"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Castle High School - Home",
+   "link": "https://castle.warrick.k12.in.us/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWQHrOzAV1RGMMnVShcnJyzI2f3AlqOyq0AULnmIwIW66fL6p4gEB93GA-8ZUbWrZm6YMiCyEGyZSIqPu4fEtROt2oaQ_i65ARqG0largnDw66mtwSYVx3Q4L&ved=2ahUKEwiD68be5OSWAxUrYEEAHVmvKwIQFnoECEQQAQ&uoh=1",
+   "displayed_link": "https://castle.warrick.k12.in.us",
+   "favicon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAACwBgCdASogACAAPtEutFooIagoGAEAGglsAMKHUS2McSAT9P7MjCIapORVBHlxYirJrprwSfSvNQE0IX7NAAD-9q8I3zLIVn-r24Sv1rhAKj0I4HRX-Jsbk0ZwHb4R7Rh30xUUWuqRfEDL9F1re-eq0Vewy5_mp0qO56h8rHBn_HOmuH8onZ8hFXPtojkJHrJ9bSXYp1OkrcSVrCXE4MIqowP7Sqv3HtE4508DDbH_t8SastTrokxMa-eilXok3b5Gn4wKP-y2gNV2cT7jHe__Wfxojnp_5WrKDKX-YB-Agxvv8_qRrwx1i81dQP_jB29vkiogmksig02wlVk0SfLIO39DtdDIQwQnnKq-PnPqKwKU9W1z8H_1Cy7ZdfmgwxXz2RxN6Ufw2WQ8ob-swmJA-owKFPMmpn9-vP3zq3FV___dW2epu49nxZsDbG-_maIp-PyKYyfHXI9gNPkVvHFUL4245YGu0TsxAc9JM0kqSRwA.webp",
+   "snippet": "Picture Day for Castle High School is scheduled for Tuesday, September 15 Order pictures online with Inter State Studio. This event's Order Code is 0500QSF.",
+   "snippet_highlighted_words": [
+    "Castle High School"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "Faculty Directory",
+      "link": "https://castle.warrick.k12.in.us/faculty-directory",
+      "snippet": "Skip to main content. Welcome. Home. \u00d7. Close. Castle High ..."
+     },
+     {
+      "title": "Directions / Contact",
+      "link": "https://castle.warrick.k12.in.us/directions-contact",
+      "snippet": "Castle High School. Address: 3344 State Route 261Newburgh, IN ..."
+     },
+     {
+      "title": "2026-2027 School Calendar",
+      "link": "https://castle.warrick.k12.in.us/142271_2",
+      "snippet": "Castle High School."
+     },
+     {
+      "title": "Bell Schedules",
+      "link": "https://castle.warrick.k12.in.us/bell-schedules",
+      "snippet": "Skip to main content. Welcome. Home. \u00d7. Close. Castle High ..."
+     },
+     {
+      "title": "Senior Class Information",
+      "link": "https://castle.warrick.k12.in.us/senior-class-information",
+      "snippet": "Castle High School. Address: 3344 State Route 261Newburgh, IN ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Picture Day for Castle High School is scheduled for Tuesday, September 15 Order pictures online with Inter State Studio. This event's Order Code is 0500QSF.",
+     "source_info_link": "https://castle.warrick.k12.in.us/",
+     "icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAACwBgCdASogACAAPtEutFooIagoGAEAGglsAMKHUS2McSAT9P7MjCIapORVBHlxYirJrprwSfSvNQE0IX7NAAD-9q8I3zLIVn-r24Sv1rhAKj0I4HRX-Jsbk0ZwHb4R7Rh30xUUWuqRfEDL9F1re-eq0Vewy5_mp0qO56h8rHBn_HOmuH8onZ8hFXPtojkJHrJ9bSXYp1OkrcSVrCXE4MIqowP7Sqv3HtE4508DDbH_t8SastTrokxMa-eilXok3b5Gn4wKP-y2gNV2cT7jHe__Wfxojnp_5WrKDKX-YB-Agxvv8_qRrwx1i81dQP_jB29vkiogmksig02wlVk0SfLIO39DtdDIQwQnnKq-PnPqKwKU9W1z8H_1Cy7ZdfmgwxXz2RxN6Ufw2WQ8ob-swmJA-owKFPMmpn9-vP3zq3FV___dW2epu49nxZsDbG-_maIp-PyKYyfHXI9gNPkVvHFUL4245YGu0TsxAc9JM0kqSRwA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESWQHrOzAV1RGMMnVShcnJyzI2f3AlqOyq0AULnmIwIW66fL6p4gEB93GA-8ZUbWrZm6YMiCyEGyZSIqPu4fEtROt2oaQ_i65ARqG0largnDw66mtwSYVx3Q4L&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESWQHrOzAV1RGMMnVShcnJyzI2f3AlqOyq0AULnmIwIW66fL6p4gEB93GA-8ZUbWrZm6YMiCyEGyZSIqPu4fEtROt2oaQ_i65ARqG0largnDw66mtwSYVx3Q4L",
+   "source": "Castle High School"
+  },
+  {
+   "position": 2,
+   "title": "John H. Castle High School",
+   "link": "https://en.wikipedia.org/wiki/John_H._Castle_High_School",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHrOzAV7Ox2JFmNFE_fuTmJvBRuuEF2X5zzHgWgaSZEU44Hr2u7Fp2LnVjAbpVmWQ-hM2AEKfQFQ_nggNu3OzgXtUNZgyIuIrDMuDhw7gEpBFyTKXQNUzR2QAAphuZkq0NWRc8nB7-rWenG933UCGQ&ved=2ahUKEwiD68be5OSWAxUrYEEAHVmvKwIQFnoECEIQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a John_H._Castle_High_...",
+   "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+   "snippet": "Castle High School is a public high school located about a mile northeast of Newburgh, Indiana on Indiana 261. Castle is one of three high schools in the ...",
+   "snippet_highlighted_words": [
+    "Castle High School",
+    "Indiana",
+    "Indiana"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Castle High School is a public high school located about a mile northeast of Newburgh, Indiana on Indiana 261. Castle is one of three high schools in the ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/John_H._Castle_High_School",
+     "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEScAHrOzAV7Ox2JFmNFE_fuTmJvBRuuEF2X5zzHgWgaSZEU44Hr2u7Fp2LnVjAbpVmWQ-hM2AEKfQFQ_nggNu3OzgXtUNZgyIuIrDMuDhw7gEpBFyTKXQNUzR2QAAphuZkq0NWRc8nB7-rWenG933UCGQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEScAHrOzAV7Ox2JFmNFE_fuTmJvBRuuEF2X5zzHgWgaSZEU44Hr2u7Fp2LnVjAbpVmWQ-hM2AEKfQFQ_nggNu3OzgXtUNZgyIuIrDMuDhw7gEpBFyTKXQNUzR2QAAphuZkq0NWRc8nB7-rWenG933UCGQ",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/John_H._Castle_High_School#:~:text=Castle%20High%20School%20is%20a,the%20Warrick%20County%20School%20Corporation."
+  },
+  {
+   "position": 3,
+   "title": "Castle High School in Newburgh, IN - Indiana Districts",
+   "link": "https://www.usnews.com/education/best-high-schools/indiana/districts/warrick-county-school-corp/castle-high-school-7455",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrwEB6zswFZU9CUUnR6Xhj7rTiO2FIyOxWFSaB-7Z9dsk7ljsJPEHBD-09zG5sg3kP3iTPvitzg546TChKiaiv2Ws_fn0mNFXiK39zqHwHOidVmmA765b1jwiHs45lh5LOX7dKUPhT5L8xvRv7l-kMrS_GxEBeS2hvrdOgwQc0uHmMJnj9KbTHW64qCuUNvSO5SxbM4rkgXiLrnAc5AonhO4XqqSqpY8k_MelVMgUZZL-&ved=2ahUKEwiD68be5OSWAxUrYEEAHVmvKwIQFnoECGMQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a warrick-county-school-corp",
+   "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp",
+   "snippet": "Castle High School is ranked #1,509 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+   "snippet_highlighted_words": [
+    "Castle High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Castle High School is ranked #1,509 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/indiana/districts/warrick-county-school-corp/castle-high-school-7455",
+     "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESrwEB6zswFZU9CUUnR6Xhj7rTiO2FIyOxWFSaB-7Z9dsk7ljsJPEHBD-09zG5sg3kP3iTPvitzg546TChKiaiv2Ws_fn0mNFXiK39zqHwHOidVmmA765b1jwiHs45lh5LOX7dKUPhT5L8xvRv7l-kMrS_GxEBeS2hvrdOgwQc0uHmMJnj9KbTHW64qCuUNvSO5SxbM4rkgXiLrnAc5AonhO4XqqSqpY8k_MelVMgUZZL-&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESrwEB6zswFZU9CUUnR6Xhj7rTiO2FIyOxWFSaB-7Z9dsk7ljsJPEHBD-09zG5sg3kP3iTPvitzg546TChKiaiv2Ws_fn0mNFXiK39zqHwHOidVmmA765b1jwiHs45lh5LOX7dKUPhT5L8xvRv7l-kMrS_GxEBeS2hvrdOgwQc0uHmMJnj9KbTHW64qCuUNvSO5SxbM4rkgXiLrnAc5AonhO4XqqSqpY8k_MelVMgUZZL-",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/indiana/districts/warrick-county-school-corp/castle-high-school-7455#:~:text=Castle%20High%20School%20is%20ranked,they%20prepare%20students%20for%20college."
+  },
+  {
+   "position": 4,
+   "title": "Castle High School (@castleknights)",
+   "link": "https://www.facebook.com/castleknights/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXwHrOzAVUp2osvKpOWy7kdPA7Gisc41Pua_RsLZ0iX_a5g4vqHXPhur85O_2YfSGg5JISUWyE51KUm8IzW_Jg48msLW1ThfApGZLjM0jFJW1JPBn0RMeSPrXznfV2M9_&ved=2ahUKEwiD68be5OSWAxUrYEEAHVmvKwIQFnoECGYQAQ&uoh=1",
+   "displayed_link": "6.3K+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "snippet": "Castle High School \u00b7 We are honored to be highest-ranked public school in Southern Indiana according to the latest U.S. News & World Report. \u00b7 Congratulations ...",
+   "snippet_highlighted_words": [
+    "Castle High School",
+    "Indiana"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Castle High School \u00b7 We are honored to be highest-ranked public school in Southern Indiana according to the latest U.S. News & World Report. \u00b7 Congratulations ...",
+     "source_info_link": "https://www.facebook.com/castleknights/",
+     "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESXwHrOzAVUp2osvKpOWy7kdPA7Gisc41Pua_RsLZ0iX_a5g4vqHXPhur85O_2YfSGg5JISUWyE51KUm8IzW_Jg48msLW1ThfApGZLjM0jFJW1JPBn0RMeSPrXznfV2M9_&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESXwHrOzAVUp2osvKpOWy7kdPA7Gisc41Pua_RsLZ0iX_a5g4vqHXPhur85O_2YfSGg5JISUWyE51KUm8IzW_Jg48msLW1ThfApGZLjM0jFJW1JPBn0RMeSPrXznfV2M9_",
+   "source": "Facebook \u00b7 Castle High School",
+   "read_more_link": "https://www.facebook.com/castleknights/#:~:text=Castle%20High%20School&text=We%20are%20honored%20to%20be,U.S.%20News%20%26%20World%20Report.&text=%F0%9F%8F%86%20Congratulations%20to%20Castle%20High,School's%20own%20Mrs."
+  },
+  {
+   "position": 5,
+   "title": "Castle High School - Newburgh, Indiana - IN",
+   "link": "https://www.greatschools.org/indiana/newburgh/1856-Castle-High-School/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfgHrOzAVMSINS7xEjW7x_aAp4nOL9JkOjJAN4zLItTvQ7dQILx4iytmwBRZnfDMvyhQxAPSNCqCWNRFFCVLIpY1J8hHms2Xsl9ItekPhiI31cGksa1kpW5n9pnlitlqAIe3Pixnitkr2An-V77daY9wPRqZ3NG2qToO8ERtfCw&ved=2ahUKEwiD68be5OSWAxUrYEEAHVmvKwIQFnoECGQQAQ&uoh=1",
+   "displayed_link": "https://www.greatschools.org \u203a indiana \u203a 1856-Castle-H...",
+   "favicon": "https://serpapi.com/images/i/UklGRnABAABXRUJQVlA4IGQBAABQCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_jtuHbtjAbYDcAbyB6AHSlf6oixRzh8GEWsYxJ825M9RhM3gV5vdPb_m98cAA_vi6aS7Pzd7susCq7-6fF19W_uHxnTUiht4Bnli4K1NZlcvWNx_U9wUWYJNt7XaI9c-ByTdyo4mDmlZ-5yiSyr_u7cBW9GjDY0XOwNkf3M-JPMdorcnf5W3JquL_1XhdMWG9MeU4wxsyWrY1EBIhBEe9pptiUN9e6cDdPncpdjgPIvoHDAfly9B5KtVb-rS2mA85vxw-fVfJkvrbkjL-z0L62bhyC1muRYqxX5mA92DT5WC6rg1GKs3vDTWtEWyQkNCx7JpqOrcRh1tXyd6AvX19XcKdTTPG1ozotzAlVyERstS5yUat0Hnv2de5D6l_B6PNH32glgAMU9TscSW7BeznX-ttUqaHqMZfqKDlq_LuvvKpt3UAAA.webp",
+   "snippet": "Castle High School is a public school in Newburgh, IN, offering AP courses, 2 sports, and Project Lead The Way curriculum. It is one of 4 high schools in ...",
+   "snippet_highlighted_words": [
+    "Castle High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Castle High School is a public school in Newburgh, IN, offering AP courses, 2 sports, and Project Lead The Way curriculum. It is one of 4 high schools in ...",
+     "source_info_link": "https://www.greatschools.org/indiana/newburgh/1856-Castle-High-School/",
+     "icon": "https://serpapi.com/images/i/UklGRnABAABXRUJQVlA4IGQBAABQCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_jtuHbtjAbYDcAbyB6AHSlf6oixRzh8GEWsYxJ825M9RhM3gV5vdPb_m98cAA_vi6aS7Pzd7susCq7-6fF19W_uHxnTUiht4Bnli4K1NZlcvWNx_U9wUWYJNt7XaI9c-ByTdyo4mDmlZ-5yiSyr_u7cBW9GjDY0XOwNkf3M-JPMdorcnf5W3JquL_1XhdMWG9MeU4wxsyWrY1EBIhBEe9pptiUN9e6cDdPncpdjgPIvoHDAfly9B5KtVb-rS2mA85vxw-fVfJkvrbkjL-z0L62bhyC1muRYqxX5mA92DT5WC6rg1GKs3vDTWtEWyQkNCx7JpqOrcRh1tXyd6AvX19XcKdTTPG1ozotzAlVyERstS5yUat0Hnv2de5D6l_B6PNH32glgAMU9TscSW7BeznX-ttUqaHqMZfqKDlq_LuvvKpt3UAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESfgHrOzAVMSINS7xEjW7x_aAp4nOL9JkOjJAN4zLItTvQ7dQILx4iytmwBRZnfDMvyhQxAPSNCqCWNRFFCVLIpY1J8hHms2Xsl9ItekPhiI31cGksa1kpW5n9pnlitlqAIe3Pixnitkr2An-V77daY9wPRqZ3NG2qToO8ERtfCw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESfgHrOzAVMSINS7xEjW7x_aAp4nOL9JkOjJAN4zLItTvQ7dQILx4iytmwBRZnfDMvyhQxAPSNCqCWNRFFCVLIpY1J8hHms2Xsl9ItekPhiI31cGksa1kpW5n9pnlitlqAIe3Pixnitkr2An-V77daY9wPRqZ3NG2qToO8ERtfCw",
+   "source": "GreatSchools"
+  },
+  {
+   "position": 6,
+   "title": "Castle High School in Newburgh, Indiana on DonorsChoose",
+   "link": "https://www.donorschoose.org/schools/indiana/warrick-county-school-district/castle-high-school/20528",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnAEB6zswFWqI-gz1u61jidYDW-9eeaD3XTfwA_qjXdm8qinDR0wLH2EARpGF0VHXIjZUZmtpLp839GafDgEsV8A03Z3XUv9khucRtWTJOLd8ZkqtMckd3lUx4yf8r5vEgedFhU8vAZBEiWQ73P8FGz-8kt7ggA_x1TgG4KOULiDhAiUidJiWrYiIhqd5UdNGm5RUfqJtob41Ne_mI9o&ved=2ahUKEwiD68be5OSWAxUrYEEAHVmvKwIQFnoECGUQAQ&uoh=1",
+   "displayed_link": "https://www.donorschoose.org \u203a schools \u203a indiana \u203a cas...",
+   "favicon": "https://serpapi.com/images/i/UklGRswAAABXRUJQVlA4IMAAAABwBQCdASocABwAPtEwtFooIigoGAEAGglsAKknND9QgUiCtSxixOFp4uhGPS57r1rBvQAAAP78Ruvp_RopI31agF2kTcvpn_nJpqDkB-JZ3L4TnmXfH8Lj7_7aH_7LAv_qWkLImNPY960ex9CxAdN4Rj2bYpPBjMs4lAfwcelVvNLkNVmPcrR_CPQWyeuMExXrAK1CRpFOK2_rpU32_y9RFVHtRr1D17PWVgxOgSGl1SdGJuoFHhfsjXVLLo5igAA.webp",
+   "snippet": "Castle High School is a suburban public school in Newburgh, Indiana that is part of Warrick County School District. It serves 1,887 students in grades 9 - 12 ...",
+   "snippet_highlighted_words": [
+    "Castle High School",
+    "Indiana"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Castle High School is a suburban public school in Newburgh, Indiana that is part of Warrick County School District. It serves 1,887 students in grades 9 - 12 ...",
+     "source_info_link": "https://www.donorschoose.org/schools/indiana/warrick-county-school-district/castle-high-school/20528",
+     "icon": "https://serpapi.com/images/i/UklGRswAAABXRUJQVlA4IMAAAABwBQCdASocABwAPtEwtFooIigoGAEAGglsAKknND9QgUiCtSxixOFp4uhGPS57r1rBvQAAAP78Ruvp_RopI31agF2kTcvpn_nJpqDkB-JZ3L4TnmXfH8Lj7_7aH_7LAv_qWkLImNPY960ex9CxAdN4Rj2bYpPBjMs4lAfwcelVvNLkNVmPcrR_CPQWyeuMExXrAK1CRpFOK2_rpU32_y9RFVHtRr1D17PWVgxOgSGl1SdGJuoFHhfsjXVLLo5igAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESnAEB6zswFWqI-gz1u61jidYDW-9eeaD3XTfwA_qjXdm8qinDR0wLH2EARpGF0VHXIjZUZmtpLp839GafDgEsV8A03Z3XUv9khucRtWTJOLd8ZkqtMckd3lUx4yf8r5vEgedFhU8vAZBEiWQ73P8FGz-8kt7ggA_x1TgG4KOULiDhAiUidJiWrYiIhqd5UdNGm5RUfqJtob41Ne_mI9o&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESnAEB6zswFWqI-gz1u61jidYDW-9eeaD3XTfwA_qjXdm8qinDR0wLH2EARpGF0VHXIjZUZmtpLp839GafDgEsV8A03Z3XUv9khucRtWTJOLd8ZkqtMckd3lUx4yf8r5vEgedFhU8vAZBEiWQ73P8FGz-8kt7ggA_x1TgG4KOULiDhAiUidJiWrYiIhqd5UdNGm5RUfqJtob41Ne_mI9o",
+   "source": "DonorsChoose",
+   "read_more_link": "https://www.donorschoose.org/schools/indiana/warrick-county-school-district/castle-high-school/20528#:~:text=Castle%20High%20School%20is%20a,a%20student%2Fteacher%20ratio%20of%2018.7%3A1."
+  },
+  {
+   "position": 7,
+   "title": "Castle High School",
+   "link": "https://www.castleknightsathletics.com/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXwHrOzAVDimkYaqwBnT3AkR-R9PmGf6nUlldnB1ZrEIFLcnN6wwl99MRDZ7ZWR2g7AEGLTvRi7AbVz4HM6N6MiJL8zj0ht1HW9sCaf5Dx4DGqEdUv0yw_F7W0V3YXhs9&ved=2ahUKEwiD68be5OSWAxUrYEEAHVmvKwIQFnoECGIQAQ&uoh=1",
+   "displayed_link": "https://www.castleknightsathletics.com",
+   "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCACdASodACAAPtEutFooIagoGAEAGglsALEJiw8Au0neSTaA0gUzTxifS2-r9EBaqBgcWocrHFP3rt74ZEndqE0kCGctxbooIiJAAP7-wpu2rN1mTb63OJhlD0Yf9s940BpzzOe7IswsLJx97smyt62IW9RvYnhbVMGxiuYSFiKmAascv4D1t7hZf8LIeTh6OQKycm0nuKOQA58_eL7pC9L21D3n-hJd-Ba0rmZZimqoSxdB_czAQGXT7NrjgMrv_HW4vVQ2wDlHzWEZAbC4wlCLuvO6wKIYjd17o0fHIdV635E6tccCuM7jHGXjJedXGHXw6PUrrpzVATF9PHOQj443KkHDwWi-jNVUR5znAliQz-8N1niTd-cMZiycLNyRrRJz_rK3q6_OC5-suHV6_9j_zKG_x-nc2H4dGdTMcoVtC4nbBGQ5gZiNsLcJ18oa85b_qHFsejhWO4Lo9rXIqaPP_ZHFvnSYIpQT1PvRqdLImL1iZjnpWjK_H75b6T-qoYevoDaXHvo12w84g0_D2W7TXZ-87Hs-UnwwERcw-8_7-JR8iSF6Q0x9HYATsIJNW2Rc_CbhLM3I4AA.webp",
+   "snippet": "LATEST NEWS \u00b7 UPCOMING EVENTS \u00b7 RECENT POSTS By @CastleAthletics \u00b7 SHOW SUPPORT FOR Castle High School \u00b7 Castle High School.",
+   "snippet_highlighted_words": [
+    "Castle High School",
+    "Castle High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "LATEST NEWS \u00b7 UPCOMING EVENTS \u00b7 RECENT POSTS By @CastleAthletics \u00b7 SHOW SUPPORT FOR Castle High School \u00b7 Castle High School.",
+     "source_info_link": "https://www.castleknightsathletics.com/",
+     "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCACdASodACAAPtEutFooIagoGAEAGglsALEJiw8Au0neSTaA0gUzTxifS2-r9EBaqBgcWocrHFP3rt74ZEndqE0kCGctxbooIiJAAP7-wpu2rN1mTb63OJhlD0Yf9s940BpzzOe7IswsLJx97smyt62IW9RvYnhbVMGxiuYSFiKmAascv4D1t7hZf8LIeTh6OQKycm0nuKOQA58_eL7pC9L21D3n-hJd-Ba0rmZZimqoSxdB_czAQGXT7NrjgMrv_HW4vVQ2wDlHzWEZAbC4wlCLuvO6wKIYjd17o0fHIdV635E6tccCuM7jHGXjJedXGHXw6PUrrpzVATF9PHOQj443KkHDwWi-jNVUR5znAliQz-8N1niTd-cMZiycLNyRrRJz_rK3q6_OC5-suHV6_9j_zKG_x-nc2H4dGdTMcoVtC4nbBGQ5gZiNsLcJ18oa85b_qHFsejhWO4Lo9rXIqaPP_ZHFvnSYIpQT1PvRqdLImL1iZjnpWjK_H75b6T-qoYevoDaXHvo12w84g0_D2W7TXZ-87Hs-UnwwERcw-8_7-JR8iSF6Q0x9HYATsIJNW2Rc_CbhLM3I4AA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESXwHrOzAVDimkYaqwBnT3AkR-R9PmGf6nUlldnB1ZrEIFLcnN6wwl99MRDZ7ZWR2g7AEGLTvRi7AbVz4HM6N6MiJL8zj0ht1HW9sCaf5Dx4DGqEdUv0yw_F7W0V3YXhs9&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESXwHrOzAVDimkYaqwBnT3AkR-R9PmGf6nUlldnB1ZrEIFLcnN6wwl99MRDZ7ZWR2g7AEGLTvRi7AbVz4HM6N6MiJL8zj0ht1HW9sCaf5Dx4DGqEdUv0yw_F7W0V3YXhs9",
+   "source": "castleknightsathletics.com",
+   "read_more_link": "https://www.castleknightsathletics.com/#:~:text=LATEST%20NEWS&text=UPCOMING%20EVENTS&text=RECENT%20POSTS%20By%20%40CastleAthletics&text=SHOW%20SUPPORT%20FOR%20Castle%20High,School&text=Castle%20High%20School"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Castle+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=SwqjasOZC6vAhbIP2d6uEQ&start=10&sa=N&sstk=AS6-VmJt0UNUBAnmOTeHqJHKRlTjNsfXeiyRLtVcZ1aUhfM5X3GF0By5ElWz71nCusB9Bz3iLm-PmIkjXindyGVIoOPNgxGOCKGqbw&ved=2ahUKEwiD68be5OSWAxUrYEEAHVmvKwIQ8NMDegQIWBAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Castle+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=SwqjasOZC6vAhbIP2d6uEQ&start=10&sa=N&sstk=AS6-VmJt0UNUBAnmOTeHqJHKRlTjNsfXeiyRLtVcZ1aUhfM5X3GF0By5ElWz71nCusB9Bz3iLm-PmIkjXindyGVIoOPNgxGOCKGqbw&ved=2ahUKEwiD68be5OSWAxUrYEEAHVmvKwIQ8tMDegQIWBAE",
+   "3": "https://www.google.com/search?q=%22Castle+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=SwqjasOZC6vAhbIP2d6uEQ&start=20&sa=N&sstk=AS6-VmJt0UNUBAnmOTeHqJHKRlTjNsfXeiyRLtVcZ1aUhfM5X3GF0By5ElWz71nCusB9Bz3iLm-PmIkjXindyGVIoOPNgxGOCKGqbw&ved=2ahUKEwiD68be5OSWAxUrYEEAHVmvKwIQ8tMDegQIWBAG",
+   "4": "https://www.google.com/search?q=%22Castle+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=SwqjasOZC6vAhbIP2d6uEQ&start=30&sa=N&sstk=AS6-VmJt0UNUBAnmOTeHqJHKRlTjNsfXeiyRLtVcZ1aUhfM5X3GF0By5ElWz71nCusB9Bz3iLm-PmIkjXindyGVIoOPNgxGOCKGqbw&ved=2ahUKEwiD68be5OSWAxUrYEEAHVmvKwIQ8tMDegQIWBAI",
+   "5": "https://www.google.com/search?q=%22Castle+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=SwqjasOZC6vAhbIP2d6uEQ&start=40&sa=N&sstk=AS6-VmJt0UNUBAnmOTeHqJHKRlTjNsfXeiyRLtVcZ1aUhfM5X3GF0By5ElWz71nCusB9Bz3iLm-PmIkjXindyGVIoOPNgxGOCKGqbw&ved=2ahUKEwiD68be5OSWAxUrYEEAHVmvKwIQ8tMDegQIWBAK",
+   "6": "https://www.google.com/search?q=%22Castle+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=SwqjasOZC6vAhbIP2d6uEQ&start=50&sa=N&sstk=AS6-VmJt0UNUBAnmOTeHqJHKRlTjNsfXeiyRLtVcZ1aUhfM5X3GF0By5ElWz71nCusB9Bz3iLm-PmIkjXindyGVIoOPNgxGOCKGqbw&ved=2ahUKEwiD68be5OSWAxUrYEEAHVmvKwIQ8tMDegQIWBAM",
+   "7": "https://www.google.com/search?q=%22Castle+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=SwqjasOZC6vAhbIP2d6uEQ&start=60&sa=N&sstk=AS6-VmJt0UNUBAnmOTeHqJHKRlTjNsfXeiyRLtVcZ1aUhfM5X3GF0By5ElWz71nCusB9Bz3iLm-PmIkjXindyGVIoOPNgxGOCKGqbw&ved=2ahUKEwiD68be5OSWAxUrYEEAHVmvKwIQ8tMDegQIWBAO",
+   "8": "https://www.google.com/search?q=%22Castle+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=SwqjasOZC6vAhbIP2d6uEQ&start=70&sa=N&sstk=AS6-VmJt0UNUBAnmOTeHqJHKRlTjNsfXeiyRLtVcZ1aUhfM5X3GF0By5ElWz71nCusB9Bz3iLm-PmIkjXindyGVIoOPNgxGOCKGqbw&ved=2ahUKEwiD68be5OSWAxUrYEEAHVmvKwIQ8tMDegQIWBAQ",
+   "9": "https://www.google.com/search?q=%22Castle+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=SwqjasOZC6vAhbIP2d6uEQ&start=80&sa=N&sstk=AS6-VmJt0UNUBAnmOTeHqJHKRlTjNsfXeiyRLtVcZ1aUhfM5X3GF0By5ElWz71nCusB9Bz3iLm-PmIkjXindyGVIoOPNgxGOCKGqbw&ved=2ahUKEwiD68be5OSWAxUrYEEAHVmvKwIQ8tMDegQIWBAS",
+   "10": "https://www.google.com/search?q=%22Castle+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=SwqjasOZC6vAhbIP2d6uEQ&start=90&sa=N&sstk=AS6-VmJt0UNUBAnmOTeHqJHKRlTjNsfXeiyRLtVcZ1aUhfM5X3GF0By5ElWz71nCusB9Bz3iLm-PmIkjXindyGVIoOPNgxGOCKGqbw&ved=2ahUKEwiD68be5OSWAxUrYEEAHVmvKwIQ8tMDegQIWBAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Castle+High+School%22+Indiana&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Castle+High+School%22+Indiana&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Castle+High+School%22+Indiana&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Castle+High+School%22+Indiana&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Castle+High+School%22+Indiana&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Castle+High+School%22+Indiana&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Castle+High+School%22+Indiana&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Castle+High+School%22+Indiana&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Castle+High+School%22+Indiana&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Castle+High+School%22+Indiana&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Castle+High+School%22+Indiana&start=90"
+  }
+ }
+}

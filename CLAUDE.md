@@ -40,7 +40,8 @@ offering on the website.
 ```
 scrapers/        one module per source; each exposes parse(html, url, ...) and scrape()
 scrapers/common.py  fetch() with robots/throttle/cache, Row dataclass, BlockedSource
-data/raw/        cached HTML/JSON (gitignored)
+data/raw/        cached HTML/JSON (gitignored, except data/raw/serpapi.com/: tracked,
+                 because every search costs quota and the JSON holds no key)
 data/interim/    per-source CSVs (tracked)
 data/final/      prospects.csv and derived outputs (tracked)
 scripts/         run_all.py, enrich.py, search_fallback.py, score.py, export.py

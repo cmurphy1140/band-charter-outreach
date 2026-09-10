@@ -1,0 +1,333 @@
+{
+ "search_information": {
+  "query_displayed": "\"Baldwinsville Central School\" New York",
+  "total_results": 48600,
+  "time_taken_displayed": 0.3,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "related_questions": [
+  {
+   "question": "What is Baldwinsville, NY famous for?",
+   "type": "ai_overview",
+   "page_token": "tRjmhnicHdBRcqIwGADg6WX6WANod3TG6QxtAGmJTSQh8rITkiKaPwIrW5S33mVPtafpTL8jfF__4Hi2_-8-m2HoLqvZbBzHh0PbHuDjQbdupi63s55pBVApbVePvx69p1qv8d9N-NxvQsq7TrwwtHPDbR9EIZF24Lh820VkKuK0VrBc5HHznqGDn8HScjCoTMopByH4FE4GQ8FOjPCJpNvCzmXApsxfNtUL0Nzv-AduwlyWknomJj6JNY586q7HCpe5CkpC_M18m5T9mwRcWagJGucc0YVIolhIQwWGXifZYs8Xt91JEIGiV2VTjzt0JZHZZpydiySqq5xMu6KhXFJfYRPgxhAqod9LligLryy-eLlbUoMAVDwwfW2PlLNJn8BxlN6US7PcDT2XHeWRSdgUesLNUSVCS87iuRzva_25Du5_Pte_azesuj_t4Rtq54Ks",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=tRjmhnicHdBRcqIwGADg6WX6WANod3TG6QxtAGmJTSQh8rITkiKaPwIrW5S33mVPtafpTL8jfF__4Hi2_-8-m2HoLqvZbBzHh0PbHuDjQbdupi63s55pBVApbVePvx69p1qv8d9N-NxvQsq7TrwwtHPDbR9EIZF24Lh820VkKuK0VrBc5HHznqGDn8HScjCoTMopByH4FE4GQ8FOjPCJpNvCzmXApsxfNtUL0Nzv-AduwlyWknomJj6JNY586q7HCpe5CkpC_M18m5T9mwRcWagJGucc0YVIolhIQwWGXifZYs8Xt91JEIGiV2VTjzt0JZHZZpydiySqq5xMu6KhXFJfYRPgxhAqod9LligLryy-eLlbUoMAVDwwfW2PlLNJn8BxlN6US7PcDT2XHeWRSdgUesLNUSVCS87iuRzva_25Du5_Pte_azesuj_t4Rtq54Ks",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VHMTROM0p5WHpWMlZuUmhObDkyZUhoSk5DMVhXSG95U1U1RGFVUkdXR3huZUdwUlpVZEJjbEZMTVVwUFJURk5jV2RWU0dJelYwczFYMjlqYWxGWFZUQTNXV2wwWTNsQlVrSTNNSEJqV2xkTVZYZzJaVGN3ZVhkTlVSSVhUVUY1YW1GMFIycEpTa1JyTlU1dlVIZEpaV2hyVVhNYUlrRkVjM0k1WmxOQlNEWnNRVTVyYWxneFFreEllbWx0TkZKTlVVMDBha2N3VUVFIiwiZmN2IjoiMyIsImVpIjoiTUF5amF0R2pJSkRrNU5vUHdJZWhrUXMiLCJxYyI6IkNpVmlZV3hrZDJsdWMzWnBiR3hsSUdObGJuUnlZV3dnYzJOb2IyOXNJRzVsZHlCNWIzSnJFQUI5TnM5YlB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIEJhbGR3aW5zdmlsbGUsIE5ZIGZhbW91cyBmb3I/IiwibGsiOiJHaU4zYUdGMElHbHpJR0poYkdSM2FXNXpkbWxzYkdVZ2Jua2dabUZ0YjNWeklHWnZjZyIsImJzIjoiYzQyUHYydkRNQlNFNmFxcHM2YURrcTBFVi1sdTZKUXVXVEtFaklxbFdBOHJlc1Y2c2NoX25fUVgyRFdCN3ZmZDNhYzJhckVMVmtBWmJ6YTZRaWtQRktOX3htYVBvejN4T2VQSWZXMFctcW44QkFfaklOSmxsRk9rekctZkJEX3RSRzRDYzRTakxEMDFndDZtamxKYm01Vi1LU1BxOEI5S09WVzl6MV83Z2ozM0hTeGFab2VQYUJzUFlVUWFmRzBxdlp3TDNKRExQVVIxYXJYbWdwTzllV1k1TzU4a3c0cjQ1UDdZcmFrTjJINmRyYzJyTnVFZU5wMFBuOWkzNC1QREZRIiwiaWQiOiJmY19NQXlqYXRHaklKRGs1Tm9Qd0llaGtRc181In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VHMTROM0p5WHpWMlZuUmhObDkyZUhoSk5DMVhXSG95U1U1RGFVUkdXR3huZUdwUlpVZEJjbEZMTVVwUFJURk5jV2RWU0dJelYwczFYMjlqYWxGWFZUQTNXV2wwWTNsQlVrSTNNSEJqV2xkTVZYZzJaVGN3ZVhkTlVSSVhUVUY1YW1GMFIycEpTa1JyTlU1dlVIZEpaV2hyVVhNYUlrRkVjM0k1WmxOQlNEWnNRVTVyYWxneFFreEllbWx0TkZKTlVVMDBha2N3VUVFIiwiZmN2IjoiMyIsImVpIjoiTUF5amF0R2pJSkRrNU5vUHdJZWhrUXMiLCJxYyI6IkNpVmlZV3hrZDJsdWMzWnBiR3hsSUdObGJuUnlZV3dnYzJOb2IyOXNJRzVsZHlCNWIzSnJFQUI5TnM5YlB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIEJhbGR3aW5zdmlsbGUsIE5ZIGZhbW91cyBmb3I%2FIiwibGsiOiJHaU4zYUdGMElHbHpJR0poYkdSM2FXNXpkbWxzYkdVZ2Jua2dabUZ0YjNWeklHWnZjZyIsImJzIjoiYzQyUHYydkRNQlNFNmFxcHM2YURrcTBFVi1sdTZKUXVXVEtFaklxbFdBOHJlc1Y2c2NoX25fUVgyRFdCN3ZmZDNhYzJhckVMVmtBWmJ6YTZRaWtQRktOX3htYVBvejN4T2VQSWZXMFctcW44QkFfaklOSmxsRk9rekctZkJEX3RSRzRDYzRTakxEMDFndDZtamxKYm01Vi1LU1BxOEI5S09WVzl6MV83Z2ozM0hTeGFab2VQYUJzUFlVUWFmRzBxdlp3TDNKRExQVVIxYXJYbWdwTzllV1k1TzU4a3c0cjQ1UDdZcmFrTjJINmRyYzJyTnVFZU5wMFBuOWkzNC1QREZRIiwiaWQiOiJmY19NQXlqYXRHaklKRGs1Tm9Qd0llaGtRc181In0%3D"
+  },
+  {
+   "question": "What is the Baldwinsville school district ranking?",
+   "type": "ai_overview",
+   "page_token": "X0J9KnicHdBRbtowAABQ7TL9LIlD2gYJVQskTqExs2s7wT-TsYEUO4kHLgH-doWeYafaaVbtAu_j_f5j3zvz99tn4707TUajYRju932_t9t71bcjebp2aqSktRupzOTh8SF83qlpdlbp7KhSzJzjcxK8tYlXJmy3B3EhvB-XLOlQJ46scNdyFn7IunGyyHx5EzMENJL26UYjsV5Hi-WqIEvKRPBG7QuhKC5Z3IgobSqaR-LQoFUmKK5dgY04V4b_UACPWY4gbnWsOBkrQHblNZQ6R5LN-RIZFJBgAatCQ85zWAdZRODiQxk_Q1VCXqnNdL2PsbVnkTuHDUe8KC-Y5vEGJnNaCaDtlwNeBh0QSrp0tc0WA6rJuAyTNGs0wrX9ta5JIY1dEngKaZtgHVgroSfq0r9jRm7qYFtefI--NC-Ae93kqEM2rVaczAn0Fw54zEAMxHC3U-dpdPf_evpz1_qJO_b7fzP3isg",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=X0J9KnicHdBRbtowAABQ7TL9LIlD2gYJVQskTqExs2s7wT-TsYEUO4kHLgH-doWeYafaaVbtAu_j_f5j3zvz99tn4707TUajYRju932_t9t71bcjebp2aqSktRupzOTh8SF83qlpdlbp7KhSzJzjcxK8tYlXJmy3B3EhvB-XLOlQJ46scNdyFn7IunGyyHx5EzMENJL26UYjsV5Hi-WqIEvKRPBG7QuhKC5Z3IgobSqaR-LQoFUmKK5dgY04V4b_UACPWY4gbnWsOBkrQHblNZQ6R5LN-RIZFJBgAatCQ85zWAdZRODiQxk_Q1VCXqnNdL2PsbVnkTuHDUe8KC-Y5vEGJnNaCaDtlwNeBh0QSrp0tc0WA6rJuAyTNGs0wrX9ta5JIY1dEngKaZtgHVgroSfq0r9jRm7qYFtefI--NC-Ae93kqEM2rVaczAn0Fw54zEAMxHC3U-dpdPf_evpz1_qJO_b7fzP3isg",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VHMTROM0p5WHpWMlZuUmhObDkyZUhoSk5DMVhXSG95U1U1RGFVUkdXR3huZUdwUlpVZEJjbEZMTVVwUFJURk5jV2RWU0dJelYwczFYMjlqYWxGWFZUQTNXV2wwWTNsQlVrSTNNSEJqV2xkTVZYZzJaVGN3ZVhkTlVSSVhUVUY1YW1GMFIycEpTa1JyTlU1dlVIZEpaV2hyVVhNYUlrRkVjM0k1WmxOQlNEWnNRVTVyYWxneFFreEllbWx0TkZKTlVVMDBha2N3VUVFIiwiZmN2IjoiMyIsImVpIjoiTUF5amF0R2pJSkRrNU5vUHdJZWhrUXMiLCJxYyI6IkNpVmlZV3hrZDJsdWMzWnBiR3hsSUdObGJuUnlZV3dnYzJOb2IyOXNJRzVsZHlCNWIzSnJFQUI5TnM5YlB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBCYWxkd2luc3ZpbGxlIHNjaG9vbCBkaXN0cmljdCByYW5raW5nPyIsImxrIjoiR2pGM2FHRjBJR2x6SUhSb1pTQmlZV3hrZDJsdWMzWnBiR3hsSUhOamFHOXZiQ0JrYVhOMGNtbGpkQ0J5WVc1cmFXNW4iLCJicyI6ImM0MlB2MnZETUJTRTZhcXBzNmFEa3EwRVYtbHU2SlF1V1RLRWpJcWxXQThyZXNWNnNjaF9uX1FYMkRXQjd2ZmQzYWMyYXJFTFZrQVpiemE2UWlrUEZLTl94bWFQb3ozeE9lUElmVzBXLXFuOEJBX2pJTkpsbEZPa3pHLWZCRF90Ukc0Q2M0U2pMRDAxZ3Q2bWpsSmJtNVYtS1NQcThCOUtPVlc5ejFfN2dqMzNIU3hhWm9lUGFCc1BZVVFhZkcwcXZad0wzSkRMUFVSMWFyWG1ncE85ZVdZNU81OGt3NHI0NVA3WXJha04ySDZkcmMyck51RWVOcDBQbjlpMzQtUERGUSIsImlkIjoiZmNfTUF5amF0R2pJSkRrNU5vUHdJZWhrUXNfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VHMTROM0p5WHpWMlZuUmhObDkyZUhoSk5DMVhXSG95U1U1RGFVUkdXR3huZUdwUlpVZEJjbEZMTVVwUFJURk5jV2RWU0dJelYwczFYMjlqYWxGWFZUQTNXV2wwWTNsQlVrSTNNSEJqV2xkTVZYZzJaVGN3ZVhkTlVSSVhUVUY1YW1GMFIycEpTa1JyTlU1dlVIZEpaV2hyVVhNYUlrRkVjM0k1WmxOQlNEWnNRVTVyYWxneFFreEllbWx0TkZKTlVVMDBha2N3VUVFIiwiZmN2IjoiMyIsImVpIjoiTUF5amF0R2pJSkRrNU5vUHdJZWhrUXMiLCJxYyI6IkNpVmlZV3hrZDJsdWMzWnBiR3hsSUdObGJuUnlZV3dnYzJOb2IyOXNJRzVsZHlCNWIzSnJFQUI5TnM5YlB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBCYWxkd2luc3ZpbGxlIHNjaG9vbCBkaXN0cmljdCByYW5raW5nPyIsImxrIjoiR2pGM2FHRjBJR2x6SUhSb1pTQmlZV3hrZDJsdWMzWnBiR3hsSUhOamFHOXZiQ0JrYVhOMGNtbGpkQ0J5WVc1cmFXNW4iLCJicyI6ImM0MlB2MnZETUJTRTZhcXBzNmFEa3EwRVYtbHU2SlF1V1RLRWpJcWxXQThyZXNWNnNjaF9uX1FYMkRXQjd2ZmQzYWMyYXJFTFZrQVpiemE2UWlrUEZLTl94bWFQb3ozeE9lUElmVzBXLXFuOEJBX2pJTkpsbEZPa3pHLWZCRF90Ukc0Q2M0U2pMRDAxZ3Q2bWpsSmJtNVYtS1NQcThCOUtPVlc5ejFfN2dqMzNIU3hhWm9lUGFCc1BZVVFhZkcwcXZad0wzSkRMUFVSMWFyWG1ncE85ZVdZNU81OGt3NHI0NVA3WXJha04ySDZkcmMyck51RWVOcDBQbjlpMzQtUERGUSIsImlkIjoiZmNfTUF5amF0R2pJSkRrNU5vUHdJZWhrUXNfNSJ9"
+  },
+  {
+   "question": "Is Baldwinsville, New York a good place to live?",
+   "type": "ai_overview",
+   "page_token": "irTv23icHZBNbqMwGEA1l-mywTDJKJGiSgQcmggzGBtjbypik1D4DExCfppdr9Az9FQ9zXRm-_QWT-_9E1679uvHRz2Ow2kxmVyv18dD3x-getS9nZSnt05PdAmwK3W7mP2aoae9XoYX7a-O2k_5MOQBdTIXJybAZ9GZ0ESbiHX-JXXgt45UEvONLS2KTauE8dQ-Y6RhggRpW9_icHqvrPZUCIwxdWYRFNozMs2_bUwJsaM0DrIxMps4wE2Fc2ac-XPKas6RsmWrp5m4bRXjbxIN9wTLcRfVK2E3NeF4xRu85g5ssw6wWOdMcO5wMMeEI7wDf1oBZVwYWRWYZfZf39CQJh8Ik64UJpCef-KumlUMorL9eUuKugtrQ9IC_siCfjPY0vUJMTtPjQNQrkeqb_1ryuldN2A5iu87L1cmp5IExqVYHSmen5V7GLMcGmFRpq4Pe31Zeg__Xy9f9nZcDMf-8BeyyY3j",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=irTv23icHZBNbqMwGEA1l-mywTDJKJGiSgQcmggzGBtjbypik1D4DExCfppdr9Az9FQ9zXRm-_QWT-_9E1679uvHRz2Ow2kxmVyv18dD3x-getS9nZSnt05PdAmwK3W7mP2aoae9XoYX7a-O2k_5MOQBdTIXJybAZ9GZ0ESbiHX-JXXgt45UEvONLS2KTauE8dQ-Y6RhggRpW9_icHqvrPZUCIwxdWYRFNozMs2_bUwJsaM0DrIxMps4wE2Fc2ac-XPKas6RsmWrp5m4bRXjbxIN9wTLcRfVK2E3NeF4xRu85g5ssw6wWOdMcO5wMMeEI7wDf1oBZVwYWRWYZfZf39CQJh8Ik64UJpCef-KumlUMorL9eUuKugtrQ9IC_siCfjPY0vUJMTtPjQNQrkeqb_1ryuldN2A5iu87L1cmp5IExqVYHSmen5V7GLMcGmFRpq4Pe31Zeg__Xy9f9nZcDMf-8BeyyY3j",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VHMTROM0p5WHpWMlZuUmhObDkyZUhoSk5DMVhXSG95U1U1RGFVUkdXR3huZUdwUlpVZEJjbEZMTVVwUFJURk5jV2RWU0dJelYwczFYMjlqYWxGWFZUQTNXV2wwWTNsQlVrSTNNSEJqV2xkTVZYZzJaVGN3ZVhkTlVSSVhUVUY1YW1GMFIycEpTa1JyTlU1dlVIZEpaV2hyVVhNYUlrRkVjM0k1WmxOQlNEWnNRVTVyYWxneFFreEllbWx0TkZKTlVVMDBha2N3VUVFIiwiZmN2IjoiMyIsImVpIjoiTUF5amF0R2pJSkRrNU5vUHdJZWhrUXMiLCJxYyI6IkNpVmlZV3hrZDJsdWMzWnBiR3hsSUdObGJuUnlZV3dnYzJOb2IyOXNJRzVsZHlCNWIzSnJFQUI5TnM5YlB3IiwicXVlc3Rpb24iOiJJcyBCYWxkd2luc3ZpbGxlLCBOZXcgWW9yayBhIGdvb2QgcGxhY2UgdG8gbGl2ZT8iLCJsayI6IkdpNXBjeUJpWVd4a2QybHVjM1pwYkd4bElHNWxkeUI1YjNKcklHRWdaMjl2WkNCd2JHRmpaU0IwYnlCc2FYWmwiLCJicyI6ImM0MlB2MnZETUJTRTZhcXBzNmFEa3EwRVYtbHU2SlF1V1RLRWpJcWxXQThyZXNWNnNjaF9uX1FYMkRXQjd2ZmQzYWMyYXJFTFZrQVpiemE2UWlrUEZLTl94bWFQb3ozeE9lUElmVzBXLXFuOEJBX2pJTkpsbEZPa3pHLWZCRF90Ukc0Q2M0U2pMRDAxZ3Q2bWpsSmJtNVYtS1NQcThCOUtPVlc5ejFfN2dqMzNIU3hhWm9lUGFCc1BZVVFhZkcwcXZad0wzSkRMUFVSMWFyWG1ncE85ZVdZNU81OGt3NHI0NVA3WXJha04ySDZkcmMyck51RWVOcDBQbjlpMzQtUERGUSIsImlkIjoiZmNfTUF5amF0R2pJSkRrNU5vUHdJZWhrUXNfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VHMTROM0p5WHpWMlZuUmhObDkyZUhoSk5DMVhXSG95U1U1RGFVUkdXR3huZUdwUlpVZEJjbEZMTVVwUFJURk5jV2RWU0dJelYwczFYMjlqYWxGWFZUQTNXV2wwWTNsQlVrSTNNSEJqV2xkTVZYZzJaVGN3ZVhkTlVSSVhUVUY1YW1GMFIycEpTa1JyTlU1dlVIZEpaV2hyVVhNYUlrRkVjM0k1WmxOQlNEWnNRVTVyYWxneFFreEllbWx0TkZKTlVVMDBha2N3VUVFIiwiZmN2IjoiMyIsImVpIjoiTUF5amF0R2pJSkRrNU5vUHdJZWhrUXMiLCJxYyI6IkNpVmlZV3hrZDJsdWMzWnBiR3hsSUdObGJuUnlZV3dnYzJOb2IyOXNJRzVsZHlCNWIzSnJFQUI5TnM5YlB3IiwicXVlc3Rpb24iOiJJcyBCYWxkd2luc3ZpbGxlLCBOZXcgWW9yayBhIGdvb2QgcGxhY2UgdG8gbGl2ZT8iLCJsayI6IkdpNXBjeUJpWVd4a2QybHVjM1pwYkd4bElHNWxkeUI1YjNKcklHRWdaMjl2WkNCd2JHRmpaU0IwYnlCc2FYWmwiLCJicyI6ImM0MlB2MnZETUJTRTZhcXBzNmFEa3EwRVYtbHU2SlF1V1RLRWpJcWxXQThyZXNWNnNjaF9uX1FYMkRXQjd2ZmQzYWMyYXJFTFZrQVpiemE2UWlrUEZLTl94bWFQb3ozeE9lUElmVzBXLXFuOEJBX2pJTkpsbEZPa3pHLWZCRF90Ukc0Q2M0U2pMRDAxZ3Q2bWpsSmJtNVYtS1NQcThCOUtPVlc5ejFfN2dqMzNIU3hhWm9lUGFCc1BZVVFhZkcwcXZad0wzSkRMUFVSMWFyWG1ncE85ZVdZNU81OGt3NHI0NVA3WXJha04ySDZkcmMyck51RWVOcDBQbjlpMzQtUERGUSIsImlkIjoiZmNfTUF5amF0R2pJSkRrNU5vUHdJZWhrUXNfNSJ9"
+  },
+  {
+   "question": "How many students attend Baldwinsville High School?",
+   "type": "ai_overview",
+   "page_token": "SO4zLXicHZBdcpswGACnl8ljjCBOU894OuVHEFIrQejH8NLBn4IVkAy1iXH01iv0DD1VT1NPD7C7M_vrj3k79H8__dbTNJ5Wi8U8z7f7Ydib11sY7KI5fRxgAY0xuwb61f3ne_S1hXVyhjA6QljwcRQx9UqBG5CqI3IKROS5yoflTi6RZLktUOFVsp9JzBEw4napHiCDoMTf7tiBLp-ljstknJlfa2kvuPIfP5gZKe1VxiIU8gg1JEItT3OjEjzzBLmmw_0rw0fIwoDhsagl-X5l-i2irRLmbuNoyI3oePpw9eLuWYyYdbWo-_GdutBuAr3cOvMIvXYVy3OB9RNByvJYnDYMJyTNw8Y--BDX76WvHbHKIwKLwlfnRCtSbM3PakuzpjdPND0hZr8UyjOmSScKl-Gt4NRBZyx3ZgA_uVSszspUCCmn6dqp6oN5AaPZDgui5psWzuvg5v_r9Y_WTqvxOOz_Aecgjds",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=SO4zLXicHZBdcpswGACnl8ljjCBOU894OuVHEFIrQejH8NLBn4IVkAy1iXH01iv0DD1VT1NPD7C7M_vrj3k79H8__dbTNJ5Wi8U8z7f7Ydib11sY7KI5fRxgAY0xuwb61f3ne_S1hXVyhjA6QljwcRQx9UqBG5CqI3IKROS5yoflTi6RZLktUOFVsp9JzBEw4napHiCDoMTf7tiBLp-ljstknJlfa2kvuPIfP5gZKe1VxiIU8gg1JEItT3OjEjzzBLmmw_0rw0fIwoDhsagl-X5l-i2irRLmbuNoyI3oePpw9eLuWYyYdbWo-_GdutBuAr3cOvMIvXYVy3OB9RNByvJYnDYMJyTNw8Y--BDX76WvHbHKIwKLwlfnRCtSbM3PakuzpjdPND0hZr8UyjOmSScKl-Gt4NRBZyx3ZgA_uVSszspUCCmn6dqp6oN5AaPZDgui5psWzuvg5v_r9Y_WTqvxOOz_Aecgjds",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VHMTROM0p5WHpWMlZuUmhObDkyZUhoSk5DMVhXSG95U1U1RGFVUkdXR3huZUdwUlpVZEJjbEZMTVVwUFJURk5jV2RWU0dJelYwczFYMjlqYWxGWFZUQTNXV2wwWTNsQlVrSTNNSEJqV2xkTVZYZzJaVGN3ZVhkTlVSSVhUVUY1YW1GMFIycEpTa1JyTlU1dlVIZEpaV2hyVVhNYUlrRkVjM0k1WmxOQlNEWnNRVTVyYWxneFFreEllbWx0TkZKTlVVMDBha2N3VUVFIiwiZmN2IjoiMyIsImVpIjoiTUF5amF0R2pJSkRrNU5vUHdJZWhrUXMiLCJxYyI6IkNpVmlZV3hrZDJsdWMzWnBiR3hsSUdObGJuUnlZV3dnYzJOb2IyOXNJRzVsZHlCNWIzSnJFQUI5TnM5YlB3IiwicXVlc3Rpb24iOiJIb3cgbWFueSBzdHVkZW50cyBhdHRlbmQgQmFsZHdpbnN2aWxsZSBIaWdoIFNjaG9vbD8iLCJsayI6IkdqSm9iM2NnYldGdWVTQnpkSFZrWlc1MGN5QmhkSFJsYm1RZ1ltRnNaSGRwYm5OMmFXeHNaU0JvYVdkb0lITmphRzl2YkEiLCJicyI6ImM0MlB2MnZETUJTRTZhcXBzNmFEa3EwRVYtbHU2SlF1V1RLRWpJcWxXQThyZXNWNnNjaF9uX1FYMkRXQjd2ZmQzYWMyYXJFTFZrQVpiemE2UWlrUEZLTl94bWFQb3ozeE9lUElmVzBXLXFuOEJBX2pJTkpsbEZPa3pHLWZCRF90Ukc0Q2M0U2pMRDAxZ3Q2bWpsSmJtNVYtS1NQcThCOUtPVlc5ejFfN2dqMzNIU3hhWm9lUGFCc1BZVVFhZkcwcXZad0wzSkRMUFVSMWFyWG1ncE85ZVdZNU81OGt3NHI0NVA3WXJha04ySDZkcmMyck51RWVOcDBQbjlpMzQtUERGUSIsImlkIjoiZmNfTUF5amF0R2pJSkRrNU5vUHdJZWhrUXNfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VHMTROM0p5WHpWMlZuUmhObDkyZUhoSk5DMVhXSG95U1U1RGFVUkdXR3huZUdwUlpVZEJjbEZMTVVwUFJURk5jV2RWU0dJelYwczFYMjlqYWxGWFZUQTNXV2wwWTNsQlVrSTNNSEJqV2xkTVZYZzJaVGN3ZVhkTlVSSVhUVUY1YW1GMFIycEpTa1JyTlU1dlVIZEpaV2hyVVhNYUlrRkVjM0k1WmxOQlNEWnNRVTVyYWxneFFreEllbWx0TkZKTlVVMDBha2N3VUVFIiwiZmN2IjoiMyIsImVpIjoiTUF5amF0R2pJSkRrNU5vUHdJZWhrUXMiLCJxYyI6IkNpVmlZV3hrZDJsdWMzWnBiR3hsSUdObGJuUnlZV3dnYzJOb2IyOXNJRzVsZHlCNWIzSnJFQUI5TnM5YlB3IiwicXVlc3Rpb24iOiJIb3cgbWFueSBzdHVkZW50cyBhdHRlbmQgQmFsZHdpbnN2aWxsZSBIaWdoIFNjaG9vbD8iLCJsayI6IkdqSm9iM2NnYldGdWVTQnpkSFZrWlc1MGN5QmhkSFJsYm1RZ1ltRnNaSGRwYm5OMmFXeHNaU0JvYVdkb0lITmphRzl2YkEiLCJicyI6ImM0MlB2MnZETUJTRTZhcXBzNmFEa3EwRVYtbHU2SlF1V1RLRWpJcWxXQThyZXNWNnNjaF9uX1FYMkRXQjd2ZmQzYWMyYXJFTFZrQVpiemE2UWlrUEZLTl94bWFQb3ozeE9lUElmVzBXLXFuOEJBX2pJTkpsbEZPa3pHLWZCRF90Ukc0Q2M0U2pMRDAxZ3Q2bWpsSmJtNVYtS1NQcThCOUtPVlc5ejFfN2dqMzNIU3hhWm9lUGFCc1BZVVFhZkcwcXZad0wzSkRMUFVSMWFyWG1ncE85ZVdZNU81OGt3NHI0NVA3WXJha04ySDZkcmMyck51RWVOcDBQbjlpMzQtUERGUSIsImlkIjoiZmNfTUF5amF0R2pJSkRrNU5vUHdJZWhrUXNfNSJ9"
+  }
+ ],
+ "ai_overview": {
+  "page_token": "t6ZPw3iczVXLcuI4FP2A-Y72JuENnZAqV5cklMRAklacQJsNZWQhG2wULINDdr2fz5ivmq8Z2YbEvJJOL7rmVtmSrPvy1T06P__xvdn037_-dqPoSV6USnEcF7kQ3GdFKoKSLVczWhoLX4bU_SbFIqTMc3TqhiJgGvf1hdRcX2czbbXUaxqVelljnn4DVhM7upoY7da0cSu-xwZzp0RqqTt9OLIlm6hozxNZGpbUa_ql1lKLoiyyWfF-EHIakodx4aZYLVeaxbuSHSgF8McEAQK4eiOSLo7K1a-54xxgANo5_5lPnFNJFgRgDrM1JIddEUOpJiMgKMusFb8UrJGa2JlGK9k8LCi_AXmqB2HqD5gQHDc8KFmmiK99v6uLD35FeQeJ3HxoonK0trMwAPoer0u8n4kBsLGVMcmCcBiDSTzmGGP4Tt6qII8xbHQSi3fUlHSI8RCvU7hp9VXgksNV05ZLo1ANlZJHXZpOQpn0MnpolsX13RJSHjRvz9l0PupXLhuPfc8eRAWbgRIdKT1f2A5zhu6w_C1dV6qVRrlZOzs_TUFE5SuKZB5FT0EdnQ0HqBKdF7tFWNlACCUV2a-SqrZaIwPsC1y32f4BU2AYYHMY-LXAKoKBcuV6XI8ugIIkfZvzDQShacE2X1jav_TtSN5SSiLsQ2g3NQUhLzWCWWiYT2-jwjl8M83_F939x_0uVHHjbMZ30U92OgkTNM1nF2_tqiRNFyeFShDQozhLYLcb8cacrPMFPDnETd0R3NrGeQh5PKm6CstNpdgm005iDl_PAK5_DrZ3ge_t_nUql8oftIzP3RJrMT64IDKdDVZ2Wj8PGYx7bbtX6PYbcc1btc7nBuvMMH72xAM4DBERjD7BNPT_BCJvw0OPa9sjIGLJ5GMQcXXdHeWhbLrhIQ9mIILkCIiMDERrHkI5HmKZRo6HdkGEzByIPuChz4IIvQui7DI6CKLEwSEQTY-AaM1DORCZ2zy0BaJXHnoD0e_wEPotHkoxxbJhm5QWE36UnHDP7fdr7sAPjXLr9mVqTM5od_D1rsmeyYfkNA6ii8B2_NOh51zAajtaOadD9UFcMEeb61-qVWj7TuzN5NLzfXaC2CwKbf_EpK4Qvto-uWXxiSXCqRb4odDLdqP3w4Kj-wYZXXX9VaFzz_pG_-n5xZMhbnSj8SK8Mqs9dyg644nL4YtZM4QlOJo3uoJehtPHGlyO69DBEppLbpk3y_l1gdNRSBaEes3L2UPvqg6Xy_lgRSQOw-Xl4g4MO9EcteTE-jE7s0xuBiFI85F6Z4HOrs-HovdkaUFIdXUydQ5uCehz1YDIUrhQjY2EemL1fAUEQ01Se8jkUi_XRmOmqkXpyGnWqxUt4NHqSa9XNDkL9cp_vYFKyw",
+  "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=t6ZPw3iczVXLcuI4FP2A-Y72JuENnZAqV5cklMRAklacQJsNZWQhG2wULINDdr2fz5ivmq8Z2YbEvJJOL7rmVtmSrPvy1T06P__xvdn037_-dqPoSV6USnEcF7kQ3GdFKoKSLVczWhoLX4bU_SbFIqTMc3TqhiJgGvf1hdRcX2czbbXUaxqVelljnn4DVhM7upoY7da0cSu-xwZzp0RqqTt9OLIlm6hozxNZGpbUa_ql1lKLoiyyWfF-EHIakodx4aZYLVeaxbuSHSgF8McEAQK4eiOSLo7K1a-54xxgANo5_5lPnFNJFgRgDrM1JIddEUOpJiMgKMusFb8UrJGa2JlGK9k8LCi_AXmqB2HqD5gQHDc8KFmmiK99v6uLD35FeQeJ3HxoonK0trMwAPoer0u8n4kBsLGVMcmCcBiDSTzmGGP4Tt6qII8xbHQSi3fUlHSI8RCvU7hp9VXgksNV05ZLo1ANlZJHXZpOQpn0MnpolsX13RJSHjRvz9l0PupXLhuPfc8eRAWbgRIdKT1f2A5zhu6w_C1dV6qVRrlZOzs_TUFE5SuKZB5FT0EdnQ0HqBKdF7tFWNlACCUV2a-SqrZaIwPsC1y32f4BU2AYYHMY-LXAKoKBcuV6XI8ugIIkfZvzDQShacE2X1jav_TtSN5SSiLsQ2g3NQUhLzWCWWiYT2-jwjl8M83_F939x_0uVHHjbMZ30U92OgkTNM1nF2_tqiRNFyeFShDQozhLYLcb8cacrPMFPDnETd0R3NrGeQh5PKm6CstNpdgm005iDl_PAK5_DrZ3ge_t_nUql8oftIzP3RJrMT64IDKdDVZ2Wj8PGYx7bbtX6PYbcc1btc7nBuvMMH72xAM4DBERjD7BNPT_BCJvw0OPa9sjIGLJ5GMQcXXdHeWhbLrhIQ9mIILkCIiMDERrHkI5HmKZRo6HdkGEzByIPuChz4IIvQui7DI6CKLEwSEQTY-AaM1DORCZ2zy0BaJXHnoD0e_wEPotHkoxxbJhm5QWE36UnHDP7fdr7sAPjXLr9mVqTM5od_D1rsmeyYfkNA6ii8B2_NOh51zAajtaOadD9UFcMEeb61-qVWj7TuzN5NLzfXaC2CwKbf_EpK4Qvto-uWXxiSXCqRb4odDLdqP3w4Kj-wYZXXX9VaFzz_pG_-n5xZMhbnSj8SK8Mqs9dyg644nL4YtZM4QlOJo3uoJehtPHGlyO69DBEppLbpk3y_l1gdNRSBaEes3L2UPvqg6Xy_lgRSQOw-Xl4g4MO9EcteTE-jE7s0xuBiFI85F6Z4HOrs-HovdkaUFIdXUydQ5uCehz1YDIUrhQjY2EemL1fAUEQ01Se8jkUi_XRmOmqkXpyGnWqxUt4NHqSa9XNDkL9cp_vYFKyw"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Baldwinsville Central School District - Home",
+   "link": "https://bville.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESSwHrOzAVVcUkPcRA4LCRrfk3vFwLFCi5u5YNTU19nvf8rJiGR-PNk4rcmMW9KK8rfeoPbUPFxnoeC7X9SLp2hZfAe2r55y1fYTiKwA&ved=2ahUKEwjR-_3F5uSWAxUQMlkFHcBDKLIQFnoECBsQAQ&uoh=1",
+   "displayed_link": "https://bville.org",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACDUlEQVR4AV3RQ4A0RxQA4O_VzGZj27Zt27Zt32Je_1Ns6xbbtm1z7Znul7nOft1lVwWc8ttO6naKMAdWwvKYr1EmnrjlyZeGZu7N_YhRfCfzy_b3z_c3ltjY4HGza570047qVpYodsRZWBdzAb7Hz7gSc2FIxOfN5ba9nnxo7ruqVmcgnbAtbsPOWBC9kJVWUhGJHsyHLYjrpUNi5qJIM-NULKzbBAbqNEyO6jYHcWqOjC9UsAzWM136PbP81mrrw3emC6uIxpoFS2Fe3erkof--7ftjwXlb4-R9mNAlZhOxYsFcaGMU_-IjXIIZ8664sKmpguoe8ly8hb8xggnMFUf9s_mCWA6Zcgh_oQ955wKvgbg7RVBX5sLCwdxoqNq_Nm877hEBpIxEZtYiwp3mAfXCixFJVUipUyC0qxTtg347CNejiQn8ioc6s1wbEQOO2UEyc5OjdQKWxmyIVpVXFwyiidkxP9bGFcLZH_79k0ZrdoVDMQMbYSHMjpkxWJKf0KdbwYGrz7v0IqMLfjJLcChm7n5lo8nXBT_gPdOEWDSysVhzcrZ5sZzp0pdV7eNSxASuw5-6zZzM3ZlkjmA23UZqrp1lrsZfpa3Wyvo5HIOn8DemoBGNmTKjmRS00YfXkpOFe-uxWul9YHE9paeW9ZM4ALvhaJyPL_EnLsSx2DPTnn8N1fdkrdXY-XP_A4bM2IcD4T01AAAAAElFTkSuQmCC.png",
+   "snippet": "The Baldwinsville Central School District invites students, staff, parents and community members to join us for the first Community Caf\u00e9 of the 2026-2027 school ...",
+   "snippet_highlighted_words": [
+    "Baldwinsville Central School"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "All Calendars",
+      "link": "https://bville.org/calendars",
+      "snippet": "Skip to main content. Welcome. Home. \u00d7. Close. Schools ..."
+     },
+     {
+      "title": "Contact Us",
+      "link": "https://bville.org/contact",
+      "snippet": "Baldwinsville Central School District. ... Contact Us ..."
+     },
+     {
+      "title": "Human Resources Home",
+      "link": "https://bville.org/hr",
+      "snippet": "The Baldwinsville Central School District is currently accepting ..."
+     },
+     {
+      "title": "District",
+      "link": "https://bville.org/district",
+      "snippet": "Skip to main content. Welcome. Home. \u00d7. Close. Schools ..."
+     },
+     {
+      "title": "Athletics Home",
+      "link": "https://bville.org/42092_3",
+      "snippet": "Baldwinsville, New York 13027. Questions: Review the Athletic ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "The Baldwinsville Central School District invites students, staff, parents and community members to join us for the first Community Caf\u00e9 of the 2026-2027 school ...",
+     "source_info_link": "https://bville.org/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACDUlEQVR4AV3RQ4A0RxQA4O_VzGZj27Zt27Zt32Je_1Ns6xbbtm1z7Znul7nOft1lVwWc8ttO6naKMAdWwvKYr1EmnrjlyZeGZu7N_YhRfCfzy_b3z_c3ltjY4HGza570047qVpYodsRZWBdzAb7Hz7gSc2FIxOfN5ba9nnxo7ruqVmcgnbAtbsPOWBC9kJVWUhGJHsyHLYjrpUNi5qJIM-NULKzbBAbqNEyO6jYHcWqOjC9UsAzWM136PbP81mrrw3emC6uIxpoFS2Fe3erkof--7ftjwXlb4-R9mNAlZhOxYsFcaGMU_-IjXIIZ8664sKmpguoe8ly8hb8xggnMFUf9s_mCWA6Zcgh_oQ955wKvgbg7RVBX5sLCwdxoqNq_Nm877hEBpIxEZtYiwp3mAfXCixFJVUipUyC0qxTtg347CNejiQn8ioc6s1wbEQOO2UEyc5OjdQKWxmyIVpVXFwyiidkxP9bGFcLZH_79k0ZrdoVDMQMbYSHMjpkxWJKf0KdbwYGrz7v0IqMLfjJLcChm7n5lo8nXBT_gPdOEWDSysVhzcrZ5sZzp0pdV7eNSxASuw5-6zZzM3ZlkjmA23UZqrp1lrsZfpa3Wyvo5HIOn8DemoBGNmTKjmRS00YfXkpOFe-uxWul9YHE9paeW9ZM4ALvhaJyPL_EnLsSx2DPTnn8N1fdkrdXY-XP_A4bM2IcD4T01AAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESSwHrOzAVVcUkPcRA4LCRrfk3vFwLFCi5u5YNTU19nvf8rJiGR-PNk4rcmMW9KK8rfeoPbUPFxnoeC7X9SLp2hZfAe2r55y1fYTiKwA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESSwHrOzAVVcUkPcRA4LCRrfk3vFwLFCi5u5YNTU19nvf8rJiGR-PNk4rcmMW9KK8rfeoPbUPFxnoeC7X9SLp2hZfAe2r55y1fYTiKwA",
+   "source": "Baldwinsville Central School District"
+  },
+  {
+   "position": 2,
+   "title": "Baldwinsville Central School District (@Bvillebees)",
+   "link": "https://www.facebook.com/Bvillebees/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXAHrOzAVtvojHCr_5XXtKXFHrA-FsOR-r6A5my52VOllp01Oet8q7KmTYHnPzSdYoMChesCd801HF3Eg1qM_NkCtTLgA-WPeDbOheG0j0jq8IUAvBIUgjtCyZDK1&ved=2ahUKEwjR-_3F5uSWAxUQMlkFHcBDKLIQFnoECDQQAQ&uoh=1",
+   "displayed_link": "13.5K+ followers",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "snippet": "This is the official Facebook page of the Baldwinsville Central School District. Visit our website. Public School.",
+   "snippet_highlighted_words": [
+    "Baldwinsville Central School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "This is the official Facebook page of the Baldwinsville Central School District. Visit our website. Public School.",
+     "source_info_link": "https://www.facebook.com/Bvillebees/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESXAHrOzAVtvojHCr_5XXtKXFHrA-FsOR-r6A5my52VOllp01Oet8q7KmTYHnPzSdYoMChesCd801HF3Eg1qM_NkCtTLgA-WPeDbOheG0j0jq8IUAvBIUgjtCyZDK1&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESXAHrOzAVtvojHCr_5XXtKXFHrA-FsOR-r6A5my52VOllp01Oet8q7KmTYHnPzSdYoMChesCd801HF3Eg1qM_NkCtTLgA-WPeDbOheG0j0jq8IUAvBIUgjtCyZDK1",
+   "source": "Facebook \u00b7 Baldwinsville Central School District",
+   "read_more_link": "https://www.facebook.com/Bvillebees/#:~:text=This%20is%20the%20official%20Facebook,%F3%B1%9E%B4%20Public%20School"
+  },
+  {
+   "position": 3,
+   "title": "Baldwinsville Central School District",
+   "link": "https://en.wikipedia.org/wiki/Baldwinsville_Central_School_District",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESewHrOzAVtoj4NiMnbVvebIrssl_mweZN0hT1l25AIbxCjH6v-jyxZHAtMVCypENWS-3-O1I_Bsr0Vhthn3t-gytIXuSPAgBs5LXT3yG1pguxfJdL3PTwccWmXi2hYTNdBoP-y8_pIyw7joZNlb70n4YqE65iP_tFNULNmg&ved=2ahUKEwjR-_3F5uSWAxUQMlkFHcBDKLIQFnoECDsQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Baldwinsville_Central_...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+   "snippet": "Baldwinsville Central School District is a public school district serving the Baldwinsville, New York community. The superintendent is Joseph M. DeBarbieri.",
+   "snippet_highlighted_words": [
+    "Baldwinsville Central School",
+    "New York"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Baldwinsville Central School District is a public school district serving the Baldwinsville, New York community. The superintendent is Joseph M. DeBarbieri.",
+     "source_info_link": "https://en.wikipedia.org/wiki/Baldwinsville_Central_School_District",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESewHrOzAVtoj4NiMnbVvebIrssl_mweZN0hT1l25AIbxCjH6v-jyxZHAtMVCypENWS-3-O1I_Bsr0Vhthn3t-gytIXuSPAgBs5LXT3yG1pguxfJdL3PTwccWmXi2hYTNdBoP-y8_pIyw7joZNlb70n4YqE65iP_tFNULNmg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESewHrOzAVtoj4NiMnbVvebIrssl_mweZN0hT1l25AIbxCjH6v-jyxZHAtMVCypENWS-3-O1I_Bsr0Vhthn3t-gytIXuSPAgBs5LXT3yG1pguxfJdL3PTwccWmXi2hYTNdBoP-y8_pIyw7joZNlb70n4YqE65iP_tFNULNmg",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Baldwinsville_Central_School_District#:~:text=Baldwinsville%20Central%20School%20District%20is,superintendent%20is%20Joseph%20M.%20DeBarbieri."
+  },
+  {
+   "position": 4,
+   "title": "Baldwinsville Central School District - New York",
+   "link": "https://www.niche.com/k12/d/baldwinsville-central-school-district-ny/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAV1xtraL4bxQI-snHh6HofeN5ZejAnxIPaTRZwDaWPVWvNyUQuiQy7b0moyzDo_V9WAjJdWXQabQbwHgR9MERZKutTWz-YeRajn2LxWyxQJAdMQvMGzWjd_Ak8yS8JJM7DBnN0zSmV8_OyRULAJcbBKqUQKkKAW2qa&ved=2ahUKEwjR-_3F5uSWAxUQMlkFHcBDKLIQFnoECDUQAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a School Districts \u203a New York",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png",
+   "snippet": "Baldwinsville Central School District is an above average, public school district located in BALDWINSVILLE, NY. It has 5465 students in grades PK, K-12 with ...",
+   "snippet_highlighted_words": [
+    "Baldwinsville Central School",
+    "NY"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Baldwinsville Central School District is an above average, public school district located in BALDWINSVILLE, NY. It has 5465 students in grades PK, K-12 with ...",
+     "source_info_link": "https://www.niche.com/k12/d/baldwinsville-central-school-district-ny/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESfQHrOzAV1xtraL4bxQI-snHh6HofeN5ZejAnxIPaTRZwDaWPVWvNyUQuiQy7b0moyzDo_V9WAjJdWXQabQbwHgR9MERZKutTWz-YeRajn2LxWyxQJAdMQvMGzWjd_Ak8yS8JJM7DBnN0zSmV8_OyRULAJcbBKqUQKkKAW2qa&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESfQHrOzAV1xtraL4bxQI-snHh6HofeN5ZejAnxIPaTRZwDaWPVWvNyUQuiQy7b0moyzDo_V9WAjJdWXQabQbwHgR9MERZKutTWz-YeRajn2LxWyxQJAdMQvMGzWjd_Ak8yS8JJM7DBnN0zSmV8_OyRULAJcbBKqUQKkKAW2qa",
+   "source": "Niche"
+  },
+  {
+   "position": 5,
+   "title": "Baldwinsville Central School District",
+   "link": "https://www.usnews.com/education/k12/new-york/districts/baldwinsville-central-school-district-109965",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnAEB6zswFRrc50EU6-xX0iGTwo40sZSAAGqdKBMBv0vl64NUEmz1CESlRIWD3KdPmtlFRzNNlyd_LAsxemcNJUg4a_4WY4wQRNZlj-KzqeE81mnXqKUpcncZdgYu26IfKGpHpoIQosZQ34hYRGu8Hv6k4W_ryCkWUPebAmPncv2KS-tlqf_sUodpMZPbsxRQLsPRFn3fMwrt_AzRWQM&ved=2ahUKEwjR-_3F5uSWAxUQMlkFHcBDKLIQFnoECDIQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a Education \u203a K-12",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png",
+   "snippet": "Baldwinsville Central School District contains 8 schools and 5,496 students. The district's minority enrollment is 10%. Also, 22.2% of students are economically ...",
+   "snippet_highlighted_words": [
+    "Baldwinsville Central School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Baldwinsville Central School District contains 8 schools and 5,496 students. The district's minority enrollment is 10%. Also, 22.2% of students are economically ...",
+     "source_info_link": "https://www.usnews.com/education/k12/new-york/districts/baldwinsville-central-school-district-109965",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESnAEB6zswFRrc50EU6-xX0iGTwo40sZSAAGqdKBMBv0vl64NUEmz1CESlRIWD3KdPmtlFRzNNlyd_LAsxemcNJUg4a_4WY4wQRNZlj-KzqeE81mnXqKUpcncZdgYu26IfKGpHpoIQosZQ34hYRGu8Hv6k4W_ryCkWUPebAmPncv2KS-tlqf_sUodpMZPbsxRQLsPRFn3fMwrt_AzRWQM&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESnAEB6zswFRrc50EU6-xX0iGTwo40sZSAAGqdKBMBv0vl64NUEmz1CESlRIWD3KdPmtlFRzNNlyd_LAsxemcNJUg4a_4WY4wQRNZlj-KzqeE81mnXqKUpcncZdgYu26IfKGpHpoIQosZQ34hYRGu8Hv6k4W_ryCkWUPebAmPncv2KS-tlqf_sUodpMZPbsxRQLsPRFn3fMwrt_AzRWQM",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/k12/new-york/districts/baldwinsville-central-school-district-109965#:~:text=Baldwinsville%20Central%20School%20District%20contains,of%20students%20are%20economically%20disadvantaged."
+  },
+  {
+   "position": 6,
+   "title": "Featured - Baldwinsville Central School District BoardDocs\u00ae Pro",
+   "link": "https://go.boarddocs.com/ny/bville/Board.nsf/Public",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESawHrOzAVqei5SaN1-Lvp02eF5jDnxpbTMnWKbpGdITnYFlxgLRG3UioGXv9XJVLQ60WFQYTmTeljfUUwhVwawtXv4D618nMUy_olmEwUarLN-BG4ppmPjbWbzKT_nAGv-ssN-uSJarMdJqWA&ved=2ahUKEwjR-_3F5uSWAxUQMlkFHcBDKLIQFnoECDcQAQ&uoh=1",
+   "displayed_link": "https://go.boarddocs.com \u203a bville \u203a Board.nsf \u203a Public",
+   "favicon": "https://serpapi.com/searches/6aa30c1957c44bf8a8a7ab0a/images/GvkDVVy9dzg6Iw5GPTaszJX9i6EeeBlnOCJiy_mlVCE.png",
+   "snippet": "The Baldwinsville Central School District offers a wide range of educational and athletic programs and services, including Advanced Placement courses, New York ...",
+   "snippet_highlighted_words": [
+    "Baldwinsville Central School",
+    "New York"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The Baldwinsville Central School District offers a wide range of educational and athletic programs and services, including Advanced Placement courses, New York ...",
+     "source_info_link": "https://go.boarddocs.com/ny/bville/Board.nsf/Public",
+     "icon": "https://serpapi.com/searches/6aa30c1957c44bf8a8a7ab0a/images/GvkDVVy9dzg6Iw5GPTaszKrbL05EzYsL0DjLdwQr-5p-YGy8KyZ4TwwCh-XebNpJ.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESawHrOzAVqei5SaN1-Lvp02eF5jDnxpbTMnWKbpGdITnYFlxgLRG3UioGXv9XJVLQ60WFQYTmTeljfUUwhVwawtXv4D618nMUy_olmEwUarLN-BG4ppmPjbWbzKT_nAGv-ssN-uSJarMdJqWA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESawHrOzAVqei5SaN1-Lvp02eF5jDnxpbTMnWKbpGdITnYFlxgLRG3UioGXv9XJVLQ60WFQYTmTeljfUUwhVwawtXv4D618nMUy_olmEwUarLN-BG4ppmPjbWbzKT_nAGv-ssN-uSJarMdJqWA",
+   "source": "boarddocs.com",
+   "read_more_link": "https://go.boarddocs.com/ny/bville/Board.nsf/Public#:~:text=The%20Baldwinsville%20Central%20School%20District,Advanced%20Placement%20courses%2C%20New%20York"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Baldwinsville central school new york staff",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Baldwinsville+central+school+new+york+staff&sa=X&ved=2ahUKEwjR-_3F5uSWAxUQMlkFHcBDKLIQ1QJ6BAgpEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Baldwinsville+central+school+new+york+staff"
+  },
+  {
+   "block_position": 1,
+   "query": "Baldwinsville central school new york reviews",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Baldwinsville+central+school+new+york+reviews&sa=X&ved=2ahUKEwjR-_3F5uSWAxUQMlkFHcBDKLIQ1QJ6BAg5EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Baldwinsville+central+school+new+york+reviews"
+  },
+  {
+   "block_position": 1,
+   "query": "Baldwinsville central school new york ranking",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Baldwinsville+central+school+new+york+ranking&sa=X&ved=2ahUKEwjR-_3F5uSWAxUQMlkFHcBDKLIQ1QJ6BAg2EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Baldwinsville+central+school+new+york+ranking"
+  },
+  {
+   "block_position": 1,
+   "query": "Baldwinsville High School",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Baldwinsville+High+School&sa=X&ved=2ahUKEwjR-_3F5uSWAxUQMlkFHcBDKLIQ1QJ6BAgxEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Baldwinsville+High+School"
+  },
+  {
+   "block_position": 1,
+   "query": "Baldwinsville central school new york principal",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Baldwinsville+central+school+new+york+principal&sa=X&ved=2ahUKEwjR-_3F5uSWAxUQMlkFHcBDKLIQ1QJ6BAgoEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Baldwinsville+central+school+new+york+principal"
+  },
+  {
+   "block_position": 1,
+   "query": "Baldwinsville Central School District phone number",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Baldwinsville+Central+School+District+phone+number&sa=X&ved=2ahUKEwjR-_3F5uSWAxUQMlkFHcBDKLIQ1QJ6BAgvEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Baldwinsville+Central+School+District+phone+number"
+  },
+  {
+   "block_position": 1,
+   "query": "Baldwinsville schools",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Baldwinsville+schools&sa=X&ved=2ahUKEwjR-_3F5uSWAxUQMlkFHcBDKLIQ1QJ6BAguEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Baldwinsville+schools"
+  },
+  {
+   "block_position": 1,
+   "query": "Baldwinsville central school district staff directory",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Baldwinsville+central+school+district+staff+directory&sa=X&ved=2ahUKEwjR-_3F5uSWAxUQMlkFHcBDKLIQ1QJ6BAgrEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Baldwinsville+central+school+district+staff+directory"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Baldwinsville+Central+School%22+New+York&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=MAyjatGjIJDk5NoPwIehkQs&start=10&sa=N&sstk=AS6-VmLlgEJwkzpGSyNGSKqw3r2KmnsMUMyEYSD5STKKJH_QazJY6wLIzhZDceXOSkhmXn5pkxNBB-pLZUWl1tv3lITTgrOCXawukQ&ved=2ahUKEwjR-_3F5uSWAxUQMlkFHcBDKLIQ8NMDegQIJBAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Baldwinsville+Central+School%22+New+York&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=MAyjatGjIJDk5NoPwIehkQs&start=10&sa=N&sstk=AS6-VmLlgEJwkzpGSyNGSKqw3r2KmnsMUMyEYSD5STKKJH_QazJY6wLIzhZDceXOSkhmXn5pkxNBB-pLZUWl1tv3lITTgrOCXawukQ&ved=2ahUKEwjR-_3F5uSWAxUQMlkFHcBDKLIQ8tMDegQIJBAE",
+   "3": "https://www.google.com/search?q=%22Baldwinsville+Central+School%22+New+York&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=MAyjatGjIJDk5NoPwIehkQs&start=20&sa=N&sstk=AS6-VmLlgEJwkzpGSyNGSKqw3r2KmnsMUMyEYSD5STKKJH_QazJY6wLIzhZDceXOSkhmXn5pkxNBB-pLZUWl1tv3lITTgrOCXawukQ&ved=2ahUKEwjR-_3F5uSWAxUQMlkFHcBDKLIQ8tMDegQIJBAG",
+   "4": "https://www.google.com/search?q=%22Baldwinsville+Central+School%22+New+York&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=MAyjatGjIJDk5NoPwIehkQs&start=30&sa=N&sstk=AS6-VmLlgEJwkzpGSyNGSKqw3r2KmnsMUMyEYSD5STKKJH_QazJY6wLIzhZDceXOSkhmXn5pkxNBB-pLZUWl1tv3lITTgrOCXawukQ&ved=2ahUKEwjR-_3F5uSWAxUQMlkFHcBDKLIQ8tMDegQIJBAI",
+   "5": "https://www.google.com/search?q=%22Baldwinsville+Central+School%22+New+York&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=MAyjatGjIJDk5NoPwIehkQs&start=40&sa=N&sstk=AS6-VmLlgEJwkzpGSyNGSKqw3r2KmnsMUMyEYSD5STKKJH_QazJY6wLIzhZDceXOSkhmXn5pkxNBB-pLZUWl1tv3lITTgrOCXawukQ&ved=2ahUKEwjR-_3F5uSWAxUQMlkFHcBDKLIQ8tMDegQIJBAK",
+   "6": "https://www.google.com/search?q=%22Baldwinsville+Central+School%22+New+York&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=MAyjatGjIJDk5NoPwIehkQs&start=50&sa=N&sstk=AS6-VmLlgEJwkzpGSyNGSKqw3r2KmnsMUMyEYSD5STKKJH_QazJY6wLIzhZDceXOSkhmXn5pkxNBB-pLZUWl1tv3lITTgrOCXawukQ&ved=2ahUKEwjR-_3F5uSWAxUQMlkFHcBDKLIQ8tMDegQIJBAM",
+   "7": "https://www.google.com/search?q=%22Baldwinsville+Central+School%22+New+York&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=MAyjatGjIJDk5NoPwIehkQs&start=60&sa=N&sstk=AS6-VmLlgEJwkzpGSyNGSKqw3r2KmnsMUMyEYSD5STKKJH_QazJY6wLIzhZDceXOSkhmXn5pkxNBB-pLZUWl1tv3lITTgrOCXawukQ&ved=2ahUKEwjR-_3F5uSWAxUQMlkFHcBDKLIQ8tMDegQIJBAO",
+   "8": "https://www.google.com/search?q=%22Baldwinsville+Central+School%22+New+York&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=MAyjatGjIJDk5NoPwIehkQs&start=70&sa=N&sstk=AS6-VmLlgEJwkzpGSyNGSKqw3r2KmnsMUMyEYSD5STKKJH_QazJY6wLIzhZDceXOSkhmXn5pkxNBB-pLZUWl1tv3lITTgrOCXawukQ&ved=2ahUKEwjR-_3F5uSWAxUQMlkFHcBDKLIQ8tMDegQIJBAQ",
+   "9": "https://www.google.com/search?q=%22Baldwinsville+Central+School%22+New+York&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=MAyjatGjIJDk5NoPwIehkQs&start=80&sa=N&sstk=AS6-VmLlgEJwkzpGSyNGSKqw3r2KmnsMUMyEYSD5STKKJH_QazJY6wLIzhZDceXOSkhmXn5pkxNBB-pLZUWl1tv3lITTgrOCXawukQ&ved=2ahUKEwjR-_3F5uSWAxUQMlkFHcBDKLIQ8tMDegQIJBAS",
+   "10": "https://www.google.com/search?q=%22Baldwinsville+Central+School%22+New+York&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=MAyjatGjIJDk5NoPwIehkQs&start=90&sa=N&sstk=AS6-VmLlgEJwkzpGSyNGSKqw3r2KmnsMUMyEYSD5STKKJH_QazJY6wLIzhZDceXOSkhmXn5pkxNBB-pLZUWl1tv3lITTgrOCXawukQ&ved=2ahUKEwjR-_3F5uSWAxUQMlkFHcBDKLIQ8tMDegQIJBAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Baldwinsville+Central+School%22+New+York&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Baldwinsville+Central+School%22+New+York&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Baldwinsville+Central+School%22+New+York&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Baldwinsville+Central+School%22+New+York&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Baldwinsville+Central+School%22+New+York&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Baldwinsville+Central+School%22+New+York&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Baldwinsville+Central+School%22+New+York&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Baldwinsville+Central+School%22+New+York&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Baldwinsville+Central+School%22+New+York&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Baldwinsville+Central+School%22+New+York&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Baldwinsville+Central+School%22+New+York&start=90"
+  }
+ }
+}

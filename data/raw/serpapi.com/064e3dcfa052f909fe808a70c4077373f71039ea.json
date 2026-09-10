@@ -1,0 +1,489 @@
+{
+ "search_information": {
+  "query_displayed": "\"Crestview High School\" Florida",
+  "total_results": 78100,
+  "time_taken_displayed": 0.23,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Crestview High School",
+  "type": "High school in Crestview, Florida",
+  "entity_type": "local_nav",
+  "kgmid": "/g/1jlk0lblb",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/g/1jlk0lblb&hl=en-US&q=Crestview+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fg%2F1jlk0lblb&q=Crestview+High+School",
+  "place_id": "ChIJgVY-Q0ZykYgROV-rucpqUog",
+  "website": "https://www.okaloosaschools.com/o/crestview",
+  "description": "Crestview High School is the only high school in the city of Crestview, Florida. It was founded in 1926, and was part of a racially segregated system, serving only white students until 1966, when the students from Carver-Hill, the school for African-Americans, were transferred there.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa30da595a6947b4b6c59cb/images/adsvl7gRkatFnJV8L1LNodrxUapnndX-fVhx2AGNglw.webp",
+   "link": "https://www.google.com/maps/place/Crestview+High+School/data=!4m2!3m1!1s0x0:0x88526acab9ab5f39?sa=X&ved=2ahUKEwiL0qz45-SWAxULm-EIHbMuFkAQ_BJ6BAgNEAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Crestview_High_School_(Florida)"
+  },
+  "address": "1250 N Ferdon Blvd, Crestview, FL 32536",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=crestview+high+school+address&ludocid=9823031156179427129&sa=X&ved=2ahUKEwiL0qz45-SWAxULm-EIHbMuFkAQ6BN6BAggEAI"
+   }
+  ],
+  "founded": "1969",
+  "color": "Red",
+  "color_links": [
+   {
+    "text": "Red",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpheOiC1eFDJfwkuxhbxiRW1nCHWB2EAbu3MKkiGryraoYQd_VE4z0W94gRbaRKM8BJV5wDiE3hQ7Ri8XrDBwqZ5nRUpKdsA_TwAggU1a5k1ZrjqAZt_i6vDkoSYNrJo_q5zwEadL5vctprqvWu8yg6MJxe6a&sa=X&ved=2ahUKEwiL0qz45-SWAxULm-EIHbMuFkAQmxN6BAgoEAI"
+   }
+  ],
+  "lowest_grade": "Ninth Grade",
+  "lowest_grade_links": [
+   {
+    "text": "Ninth Grade",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yZWXx13U6v78jQWp7JU_oR42Gqngg2cJ54Rd-QH6uWODKUFldkBTfUh-jDh-n8rOhotQacEWDvRiaRI2xEQTGnmd6FthZxGR1vM2K__EY6Nusd0LoW-oFpaZ-JHhNlcLUG-DExFlaPpKAw-9-EztbblH86X8&sa=X&ved=2ahUKEwiL0qz45-SWAxULm-EIHbMuFkAQmxN6BAgrEAI"
+   }
+  ],
+  "phone": "(850) 689-7177",
+  "raw_hours": "Closed \u00b7 Opens 7 AM Fri",
+  "hours": {
+   "thursday": {
+    "opens": "7\u202fAM",
+    "closes": "1:55\u202fPM"
+   },
+   "friday": {
+    "opens": "7\u202fAM",
+    "closes": "1:55\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "7\u202fAM",
+    "closes": "1:55\u202fPM"
+   },
+   "tuesday": {
+    "opens": "7\u202fAM",
+    "closes": "1:55\u202fPM"
+   },
+   "wednesday": {
+    "opens": "7\u202fAM",
+    "closes": "1:55\u202fPM"
+   }
+  },
+  "band_director": "Joseph Wayne (Jody) Dunn crestviewbrm.com",
+  "band_director_links": [
+   {
+    "text": "crestviewbrm.com",
+    "link": "https://www.crestviewbrm.com/about.html"
+   }
+  ],
+  "unclaimed_listing": true,
+  "people_also_search_for": [
+   {
+    "name": "Crestview",
+    "image": "https://serpapi.com/searches/6aa30da595a6947b4b6c59cb/images/adsvl7gRkatFnJV8L1LNoWOo73MZ6QYr7MHrWjnBGGjNtiF6CXZ6-VgnXTGuw2xp.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpjlUxoc1T5b4k2cfh1iRU6FIy9kaECX8IKVb59GVHSRYHp0R3k731vQPmc6zWv_Jh1-xtrsCg1kzOqEpx24XdT4ftjZg0AXsJf0-Mavhv1aDrztiv7-d9hZxrq8xYxHqN7C0cpDugM3GiqWbLL3RTywQywiTgphxL0Qa8keEm2e8OMnIVaYoK2Ktb3k28w5uqnQmGa7kv2WHzeg_G00aYoj2LiPpJkl73O_C_tlHESSY5Pq6lIMkZTEDPZEwB0HEzmHCmEBp5YXD7M6kLHBK8OjgCJHh&q=Crestview,+Florida&sa=X&ved=2ahUKEwiL0qz45-SWAxULm-EIHbMuFkAQs9oBKAB6BAgbEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crestview%2C+Florida&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpjlUxoc1T5b4k2cfh1iRU6FIy9kaECX8IKVb59GVHSRYHp0R3k731vQPmc6zWv_Jh1-xtrsCg1kzOqEpx24XdT4ftjZg0AXsJf0-Mavhv1aDrztiv7-d9hZxrq8xYxHqN7C0cpDugM3GiqWbLL3RTywQywiTgphxL0Qa8keEm2e8OMnIVaYoK2Ktb3k28w5uqnQmGa7kv2WHzeg_G00aYoj2LiPpJkl73O_C_tlHESSY5Pq6lIMkZTEDPZEwB0HEzmHCmEBp5YXD7M6kLHBK8OjgCJHh"
+   },
+   {
+    "name": "Davidson Middle School",
+    "image": "https://serpapi.com/searches/6aa30da595a6947b4b6c59cb/images/adsvl7gRkatFnJV8L1LNoWOo73MZ6QYr7MHrWjnBGGg05-17PBkOyAK00BEY76xi.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW673VoUMxqC-VqUPmp7gFZElhMLxtIVaW8ZGXLXe-SPvwcmmoPsHXNZ1iBDUzglMEHOhzIXBMF4RAwJV-pbCN2QPJjVun93LdEx8zvsem1-DPOzGepER_vilE0rhzOeaTIl624Lf2LZ2UoyiS8e_xdISEOmdCuXhq1JFmJ4Y_p5WDiFFBB8EKgxCq9wadQmQmaioOkA33-UzfXaRgN8pCTG1_FWQP1jETZ4AvoGELThl17l399lbxpfjsl6Bo0uN56dO7T1Qtjww-B-ygfWU18MrTfVY1P&q=Davidson+Middle+School&sa=X&ved=2ahUKEwiL0qz45-SWAxULm-EIHbMuFkAQs9oBKAB6BAgbEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Davidson+Middle+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW673VoUMxqC-VqUPmp7gFZElhMLxtIVaW8ZGXLXe-SPvwcmmoPsHXNZ1iBDUzglMEHOhzIXBMF4RAwJV-pbCN2QPJjVun93LdEx8zvsem1-DPOzGepER_vilE0rhzOeaTIl624Lf2LZ2UoyiS8e_xdISEOmdCuXhq1JFmJ4Y_p5WDiFFBB8EKgxCq9wadQmQmaioOkA33-UzfXaRgN8pCTG1_FWQP1jETZ4AvoGELThl17l399lbxpfjsl6Bo0uN56dO7T1Qtjww-B-ygfWU18MrTfVY1P"
+   },
+   {
+    "name": "Choctawhatchee High School",
+    "image": "https://serpapi.com/searches/6aa30da595a6947b4b6c59cb/images/adsvl7gRkatFnJV8L1LNoWOo73MZ6QYr7MHrWjnBGGjWrl2IURVjTktFiOy2Ga-H.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yQWqpYcyDM9xg9Ifj8NxIZuM7QW-kuJuUma7DPPpJ5mgc0X6B7che812a7legRGPJDbLAE2Hg9baBvkVBNG6TM9mfF-pdz2n6E_Sgtl4BBmIkizyQDdRWXXtRmbLqRilmXYjfA7akk9fKgzxfTWzxPKyRRV_mjf-M-G8xmNklYRJHIa16rx9BR8Ze_GNYfvGB4YPDKgqFMy-_e_tjB3zF44ZgcR54zwSrlQirxET2RglT-s7QxqzLhohm7jgdQZOgvinL-di63BqKZ2Xu_CIJaSsmDKF&q=Choctawhatchee+High+School&sa=X&ved=2ahUKEwiL0qz45-SWAxULm-EIHbMuFkAQs9oBKAB6BAgbEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Choctawhatchee+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yQWqpYcyDM9xg9Ifj8NxIZuM7QW-kuJuUma7DPPpJ5mgc0X6B7che812a7legRGPJDbLAE2Hg9baBvkVBNG6TM9mfF-pdz2n6E_Sgtl4BBmIkizyQDdRWXXtRmbLqRilmXYjfA7akk9fKgzxfTWzxPKyRRV_mjf-M-G8xmNklYRJHIa16rx9BR8Ze_GNYfvGB4YPDKgqFMy-_e_tjB3zF44ZgcR54zwSrlQirxET2RglT-s7QxqzLhohm7jgdQZOgvinL-di63BqKZ2Xu_CIJaSsmDKF"
+   },
+   {
+    "name": "Baker High School",
+    "image": "https://serpapi.com/searches/6aa30da595a6947b4b6c59cb/images/adsvl7gRkatFnJV8L1LNoWOo73MZ6QYr7MHrWjnBGGjPiw4ZJNQREC6uGblwulO1.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW671c-QquzhJ0FIwmOmRtIAbGW5REGP0JsVbe8tNZG8uD0heJkUfsRiiCFxxgfl16qgJtZfHO_bkhPx2WLcuH9-z4zdxVxIxt9heH71nQMiwBdAhCxXY3o9xKIGM24gyG0747nc3CGQVwRiD_T9fWX4_NjKR1TsW6lNZQIxp-NISFCFx9KYD5owvL7Q2b7bsQ8zxY64NgiG307D9uCANnWajsIUs4umwSmvt-ROCVflCmpFmvT81Iu5dThqEiypnmTjHdOImVwbSptGfnanUoIr4XxDsoJ&q=Baker+School&sa=X&ved=2ahUKEwiL0qz45-SWAxULm-EIHbMuFkAQs9oBKAB6BAgbEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Baker+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW671c-QquzhJ0FIwmOmRtIAbGW5REGP0JsVbe8tNZG8uD0heJkUfsRiiCFxxgfl16qgJtZfHO_bkhPx2WLcuH9-z4zdxVxIxt9heH71nQMiwBdAhCxXY3o9xKIGM24gyG0747nc3CGQVwRiD_T9fWX4_NjKR1TsW6lNZQIxp-NISFCFx9KYD5owvL7Q2b7bsQ8zxY64NgiG307D9uCANnWajsIUs4umwSmvt-ROCVflCmpFmvT81Iu5dThqEiypnmTjHdOImVwbSptGfnanUoIr4XxDsoJ"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Crestview+High+School&stick=H4sIAAAAAAAAAONgFuLRT9c3zMrJNshJyklSQuFpCQZnpqSWJ1YW-6VWlASXpBYU_2IUC0jNL8hJVUjMKc5XKE5NLErOUEjLL1rEKupclFpcUpaZWq7gkZmeoRCcnJGfn7ODlfEWmyTDG4eKwFy-ps4l4YaHWLUXbY5ICrZJD_t-HABj6OGDgQAAAA&sa=X&ved=2ahUKEwiL0qz45-SWAxULm-EIHbMuFkAQzO0BKAR6BAgbEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLRT9c3zMrJNshJyklSQuFpCQZnpqSWJ1YW-6VWlASXpBYU_2IUC0jNL8hJVUjMKc5XKE5NLErOUEjLL1rEKupclFpcUpaZWq7gkZmeoRCcnJGfn7ODlfEWmyTDG4eKwFy-ps4l4YaHWLUXbY5ICrZJD_t-HABj6OGDgQAAAA",
+  "profiles": [
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/CHSBulldogs1/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Crestview+High+School%22+Florida",
+    "image": "https://serpapi.com/searches/6aa30da595a6947b4b6c59cb/images/adsvl7gRkatFnJV8L1LNodSIdu_TmB583MnqLMTQ8V0KMzWsEnVVHMCb_3lF_dtV.png"
+   },
+   {
+    "name": "X (Twitter)",
+    "link": "https://twitter.com/CrestviewHS",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Crestview+High+School%22+Florida",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAABhUlEQVR4AczOA6xcARCF4X_us23btuLUQR3WZlhbQW3bto2gtm3b2J3GN4tY74uHh3okOi42Nj4AAUDwTvDEhisABCOAEAzYTBh0bN-lc5d0QgAhHPqX4Y4pkd367Zc-xMcXCPDg8TPwxeQH724Uj9N95GJ4pnHxby1xgCmV3v-GsFb7k0Iee7UjaQgmIYe9v9O4-wUKWaATyMPAViwvr1NnOQWDdTV5CHYSaKWLmaGDyvU4mTgQcllracaFr-9uk-yLM8k8fAJff0IUTghRVFu3M1ynkYk4nchiqqU3Ry05RDibMMhjtj6Ht3dJxVk_l1G64cspOusychBsCWm01WNM0jFs0sbEYUtIIuTXNco588OLh09JxE6wweuXEAvfL9PQus3-iU80N34KCaQyUOcxTTuSjEmMRI5rS9JwIZfD1t7ceo34YIpnuQ4nGwP8XXlq_fJZd9jE8KBHC5IwAELJ7dWrZ6fOuNhkgFgAEEIAwA1MQkw0AgDC_wnKycrKSQ2iPAkAVyNzq8rxicIAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/crestviewbulldogs/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Crestview+High+School%22+Florida",
+    "image": "https://serpapi.com/searches/6aa30da595a6947b4b6c59cb/images/adsvl7gRkatFnJV8L1LNoemVBq-9aQYY3CqQkhy7bUwseFuD-MBd2ior4luRO5F1.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "How many students attend Crestview High School in Florida?",
+   "type": "ai_overview",
+   "page_token": "o4b3bHicHdBNcpswAEDhyWWyjCVo0sYzns7YlnBIkIt-MZuOENgYCVBsamJ2uULPkFPlNM10-xbf4r1_uGNnP2_-1sPgz_PZbBzHu0PfH1x1Z_p2ps_XzsyMdq7Qxs4fvj_An3uzQBezXJ3MMhXeyzUFzCXTdp2vTFC_bTEOlMO1ai1MxaA0yM8MOKuRlzqCtMK4lohOPCg94_ioBNxoEF-_-pKvbVi53L1wKWhWe4G-jUmWXzioI6bcltlcys5jFUnAwloWkewLd7hyNTxzuAsS4UGS-Y1BjygJyFPVpvcVJr2xsDNOvpKWpFrQJ4rxxHnM2AryXYcbLuOItiBkWW23-AcoJtmSJl8njTxViO5EmIxyEz8zJCmqyzGf4tedegwKa0HJ4778cs1kJ6XKpaD9MRV0Mo1rRVgy3pFfBSJtFniXQPKnEoPmjTvqhtxXCIpyvN2byyK8_f968XvfDnN_6g__AFrejak",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=o4b3bHicHdBNcpswAEDhyWWyjCVo0sYzns7YlnBIkIt-MZuOENgYCVBsamJ2uULPkFPlNM10-xbf4r1_uGNnP2_-1sPgz_PZbBzHu0PfH1x1Z_p2ps_XzsyMdq7Qxs4fvj_An3uzQBezXJ3MMhXeyzUFzCXTdp2vTFC_bTEOlMO1ai1MxaA0yM8MOKuRlzqCtMK4lohOPCg94_ioBNxoEF-_-pKvbVi53L1wKWhWe4G-jUmWXzioI6bcltlcys5jFUnAwloWkewLd7hyNTxzuAsS4UGS-Y1BjygJyFPVpvcVJr2xsDNOvpKWpFrQJ4rxxHnM2AryXYcbLuOItiBkWW23-AcoJtmSJl8njTxViO5EmIxyEz8zJCmqyzGf4tedegwKa0HJ4778cs1kJ6XKpaD9MRV0Mo1rRVgy3pFfBSJtFniXQPKnEoPmjTvqhtxXCIpyvN2byyK8_f968XvfDnN_6g__AFrejak",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2RWaFVMVFJSV1hoUlVWbHlkRTEwYm1kaGNsTmxURGhRVERGNlgyVldTMEl0WVZGTGVUY3lVRVYzVURKZk0xTmhRV1E1WVVoUloxQmxSWEZaV1VGb1MyaGxVM2xKV1hWclJqWkdjamRQZDJKM2FWTjVjemh6WW1GMFFSSVhjR2N5YW1GdmRtNUpOSFV5YUhaalVITTVNMWxuUVZFYUlrRkVjM0k1WmxGS2FsSnFOR1ZvYmxWclMwd3lSWFJtU2xVdFpHOUxjSGRDWkdjIiwiZmN2IjoiMyIsImVpIjoicGcyamFvdm5JNHUyaHZjUHM5M1lnQVEiLCJxYyI6IkNoMWpjbVZ6ZEhacFpYY2dhR2xuYUNCelkyaHZiMndnWm14dmNtbGtZUkFBZmFLWE9qOCIsInF1ZXN0aW9uIjoiSG93IG1hbnkgc3R1ZGVudHMgYXR0ZW5kIENyZXN0dmlldyBIaWdoIFNjaG9vbCBpbiBGbG9yaWRhPyIsImxrIjoiR2pab2IzY2diV0Z1ZVNCemRIVmtaVzUwY3lCaGRIUmxibVFnWTNKbGMzUjJhV1YzSUdocFoyZ2djMk5vYjI5c0lHWnNiM0pwWkdFIiwiYnMiOiJjNDJRT3d2Q01CU0ZjYzNrM0VFT2lGc1ZMQ0xpMGtFcERtNE9UaUtoVFV4b213dEphdkRmcV9pb2dnWDM4NTBYTzdQbGhnSnFiaTV3dmltRThRN2NlMkVLckt4d19xeEZ3RWFmRkhhNUlxcWdEYktLckM1NG1peWl1ZXFpOHpldDdyUjcwUEtCc2pYRFhuRVA3ZHFZR05rV3BhRmdJTW1tQ2FKQmVHcGFNMW0xRW5aazQ1ZUxWd0xES1N3M3BTaS1JajhMVDZJNF9BTzhhaDdZYks4STNBbzRxZ1VrcjZtNVRheWEybWlRX1AxUm1veWlZY2YtVDROLTd3byIsImlkIjoiZmNfcGcyamFvdm5JNHUyaHZjUHM5M1lnQVFfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2RWaFVMVFJSV1hoUlVWbHlkRTEwYm1kaGNsTmxURGhRVERGNlgyVldTMEl0WVZGTGVUY3lVRVYzVURKZk0xTmhRV1E1WVVoUloxQmxSWEZaV1VGb1MyaGxVM2xKV1hWclJqWkdjamRQZDJKM2FWTjVjemh6WW1GMFFSSVhjR2N5YW1GdmRtNUpOSFV5YUhaalVITTVNMWxuUVZFYUlrRkVjM0k1WmxGS2FsSnFOR1ZvYmxWclMwd3lSWFJtU2xVdFpHOUxjSGRDWkdjIiwiZmN2IjoiMyIsImVpIjoicGcyamFvdm5JNHUyaHZjUHM5M1lnQVEiLCJxYyI6IkNoMWpjbVZ6ZEhacFpYY2dhR2xuYUNCelkyaHZiMndnWm14dmNtbGtZUkFBZmFLWE9qOCIsInF1ZXN0aW9uIjoiSG93IG1hbnkgc3R1ZGVudHMgYXR0ZW5kIENyZXN0dmlldyBIaWdoIFNjaG9vbCBpbiBGbG9yaWRhPyIsImxrIjoiR2pab2IzY2diV0Z1ZVNCemRIVmtaVzUwY3lCaGRIUmxibVFnWTNKbGMzUjJhV1YzSUdocFoyZ2djMk5vYjI5c0lHWnNiM0pwWkdFIiwiYnMiOiJjNDJRT3d2Q01CU0ZjYzNrM0VFT2lGc1ZMQ0xpMGtFcERtNE9UaUtoVFV4b213dEphdkRmcV9pb2dnWDM4NTBYTzdQbGhnSnFiaTV3dmltRThRN2NlMkVLckt4d19xeEZ3RWFmRkhhNUlxcWdEYktLckM1NG1peWl1ZXFpOHpldDdyUjcwUEtCc2pYRFhuRVA3ZHFZR05rV3BhRmdJTW1tQ2FKQmVHcGFNMW0xRW5aazQ1ZUxWd0xES1N3M3BTaS1JajhMVDZJNF9BTzhhaDdZYks4STNBbzRxZ1VrcjZtNVRheWEybWlRX1AxUm1veWlZY2YtVDROLTd3byIsImlkIjoiZmNfcGcyamFvdm5JNHUyaHZjUHM5M1lnQVFfNSJ9"
+  },
+  {
+   "question": "What is Crestview, FL known for?",
+   "type": "ai_overview",
+   "page_token": "62GxfXicHdBfboIwHADg7DJ7nKX-WWZiliFUZYKh0CJ9WQpFmf0hdTLRvu0uO9VOs2X5bvB9fcP7Uf_cXequM-fpYND3_cO-bfdQPZRtM5Dn27EclBKgkKWeTh4nzvOunPmfK3d-WrkxM4Z7FCWYsMSyMUcRVEvepBZ4nu1HGxb4sc17tlWvEhmIHGJEwzEfEqyy-iLZmDK_myeL66nQ7Br6lCRDIaRHNjzlcXUIVnlWW-q56zVfOXJJQGE6SrF_y3V3LXw-Dy041eLsJMsXFCPzqlCgC8aDhItEQmCKVI8FPIURAGyyDqeH-kwP4MiU4JSoPGKdieYIbzwaUwRhRajr16oXNjjl2RMutEYqDVrVRHFptc0y5TLavseM2vIADV_WTGn-yVkd8uyP5-6qrVgULL_lIJoCESH6-115mQ3v_z9nb7umm5qPdv8L3Q6D1Q",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=62GxfXicHdBfboIwHADg7DJ7nKX-WWZiliFUZYKh0CJ9WQpFmf0hdTLRvu0uO9VOs2X5bvB9fcP7Uf_cXequM-fpYND3_cO-bfdQPZRtM5Dn27EclBKgkKWeTh4nzvOunPmfK3d-WrkxM4Z7FCWYsMSyMUcRVEvepBZ4nu1HGxb4sc17tlWvEhmIHGJEwzEfEqyy-iLZmDK_myeL66nQ7Br6lCRDIaRHNjzlcXUIVnlWW-q56zVfOXJJQGE6SrF_y3V3LXw-Dy041eLsJMsXFCPzqlCgC8aDhItEQmCKVI8FPIURAGyyDqeH-kwP4MiU4JSoPGKdieYIbzwaUwRhRajr16oXNjjl2RMutEYqDVrVRHFptc0y5TLavseM2vIADV_WTGn-yVkd8uyP5-6qrVgULL_lIJoCESH6-115mQ3v_z9nb7umm5qPdv8L3Q6D1Q",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2RWaFVMVFJSV1hoUlVWbHlkRTEwYm1kaGNsTmxURGhRVERGNlgyVldTMEl0WVZGTGVUY3lVRVYzVURKZk0xTmhRV1E1WVVoUloxQmxSWEZaV1VGb1MyaGxVM2xKV1hWclJqWkdjamRQZDJKM2FWTjVjemh6WW1GMFFSSVhjR2N5YW1GdmRtNUpOSFV5YUhaalVITTVNMWxuUVZFYUlrRkVjM0k1WmxGS2FsSnFOR1ZvYmxWclMwd3lSWFJtU2xVdFpHOUxjSGRDWkdjIiwiZmN2IjoiMyIsImVpIjoicGcyamFvdm5JNHUyaHZjUHM5M1lnQVEiLCJxYyI6IkNoMWpjbVZ6ZEhacFpYY2dhR2xuYUNCelkyaHZiMndnWm14dmNtbGtZUkFBZmFLWE9qOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyBDcmVzdHZpZXcsIEZMIGtub3duIGZvcj8iLCJsayI6IkdoNTNhR0YwSUdseklHTnlaWE4wZG1sbGR5Qm1iQ0JyYm05M2JpQm1iM0kiLCJicyI6ImM0MlFPd3ZDTUJTRmNjM2szRUVPaUZzVkxDTGkwa0VwRG00T1RpS2hUVXhvbXd0SmF2RGZxX2lvZ2dYMzg1MFhPN1BsaGdKcWJpNXd2aW1FOFE3Y2UyRUtyS3h3X3F4RndFYWZGSGE1SXFxZ0RiS0tyQzU0bWl5aXVlcWk4emV0N3JSNzBQS0JzalhEWG5FUDdkcVlHTmtXcGFGZ0lNbW1DYUpCZUdwYU0xbTFFblprNDVlTFZ3TERLU3czcFNpLUlqOExUNkk0X0FPOGFoN1liSzhJM0FvNHFnVWtyNm01VGF5YTJtaVFfUDFSbW95aVljZi1UNE4tN3dvIiwiaWQiOiJmY19wZzJqYW92bkk0dTJodmNQczkzWWdBUV81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2RWaFVMVFJSV1hoUlVWbHlkRTEwYm1kaGNsTmxURGhRVERGNlgyVldTMEl0WVZGTGVUY3lVRVYzVURKZk0xTmhRV1E1WVVoUloxQmxSWEZaV1VGb1MyaGxVM2xKV1hWclJqWkdjamRQZDJKM2FWTjVjemh6WW1GMFFSSVhjR2N5YW1GdmRtNUpOSFV5YUhaalVITTVNMWxuUVZFYUlrRkVjM0k1WmxGS2FsSnFOR1ZvYmxWclMwd3lSWFJtU2xVdFpHOUxjSGRDWkdjIiwiZmN2IjoiMyIsImVpIjoicGcyamFvdm5JNHUyaHZjUHM5M1lnQVEiLCJxYyI6IkNoMWpjbVZ6ZEhacFpYY2dhR2xuYUNCelkyaHZiMndnWm14dmNtbGtZUkFBZmFLWE9qOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyBDcmVzdHZpZXcsIEZMIGtub3duIGZvcj8iLCJsayI6IkdoNTNhR0YwSUdseklHTnlaWE4wZG1sbGR5Qm1iQ0JyYm05M2JpQm1iM0kiLCJicyI6ImM0MlFPd3ZDTUJTRmNjM2szRUVPaUZzVkxDTGkwa0VwRG00T1RpS2hUVXhvbXd0SmF2RGZxX2lvZ2dYMzg1MFhPN1BsaGdKcWJpNXd2aW1FOFE3Y2UyRUtyS3h3X3F4RndFYWZGSGE1SXFxZ0RiS0tyQzU0bWl5aXVlcWk4emV0N3JSNzBQS0JzalhEWG5FUDdkcVlHTmtXcGFGZ0lNbW1DYUpCZUdwYU0xbTFFblprNDVlTFZ3TERLU3czcFNpLUlqOExUNkk0X0FPOGFoN1liSzhJM0FvNHFnVWtyNm01VGF5YTJtaVFfUDFSbW95aVljZi1UNE4tN3dvIiwiaWQiOiJmY19wZzJqYW92bkk0dTJodmNQczkzWWdBUV81In0%3D"
+  },
+  {
+   "question": "What is the #1 ranked high school in Florida?",
+   "type": "ai_overview",
+   "page_token": "Tw-wJ3icHdDBcqIwGADg2ZfpsYJUOzrjdJaSFGECQyB_NJdOTFRqCKCyItz6Cn2Gfap9mu30-h2_z7_VR23-_foqu669LieTvu8fj01zrPaPqrETeR1qNVGyqnZSmeX8ee6-HNQK3ZT_elF-xtoWAuoUSLjUgmRO5xFsnvYgYh4SF976Mbd4yJhO97lrgZcSUD_S6Z1nlT4nTjfPAVzKZ7DzfKxqiinoODMU2Im5KqBnUVe-CnUtN4nUNtqoWpd5aDw9JleNYUg35ToN6JoEvwfFkz9FoVFixKseaUkxuhcnsJxTkk9FpGCxZSi6FI7YSpwM5OQHgs-uAkVxivGBbNpLGtKbtrAWIxD2bdLeoQh1Slz1xAyOUKl7MUbnLV9Md8Y4uogabZNMjWbkXPuMNh8Zo6M6VZa5IhZv4Oki6aQTzTRvOQkhBr5Y79giUGh7z7KHg7qtvIef69X7wXbL9tIc_wMZQY3q",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Tw-wJ3icHdDBcqIwGADg2ZfpsYJUOzrjdJaSFGECQyB_NJdOTFRqCKCyItz6Cn2Gfap9mu30-h2_z7_VR23-_foqu669LieTvu8fj01zrPaPqrETeR1qNVGyqnZSmeX8ee6-HNQK3ZT_elF-xtoWAuoUSLjUgmRO5xFsnvYgYh4SF976Mbd4yJhO97lrgZcSUD_S6Z1nlT4nTjfPAVzKZ7DzfKxqiinoODMU2Im5KqBnUVe-CnUtN4nUNtqoWpd5aDw9JleNYUg35ToN6JoEvwfFkz9FoVFixKseaUkxuhcnsJxTkk9FpGCxZSi6FI7YSpwM5OQHgs-uAkVxivGBbNpLGtKbtrAWIxD2bdLeoQh1Slz1xAyOUKl7MUbnLV9Md8Y4uogabZNMjWbkXPuMNh8Zo6M6VZa5IhZv4Oki6aQTzTRvOQkhBr5Y79giUGh7z7KHg7qtvIef69X7wXbL9tIc_wMZQY3q",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2RWaFVMVFJSV1hoUlVWbHlkRTEwYm1kaGNsTmxURGhRVERGNlgyVldTMEl0WVZGTGVUY3lVRVYzVURKZk0xTmhRV1E1WVVoUloxQmxSWEZaV1VGb1MyaGxVM2xKV1hWclJqWkdjamRQZDJKM2FWTjVjemh6WW1GMFFSSVhjR2N5YW1GdmRtNUpOSFV5YUhaalVITTVNMWxuUVZFYUlrRkVjM0k1WmxGS2FsSnFOR1ZvYmxWclMwd3lSWFJtU2xVdFpHOUxjSGRDWkdjIiwiZmN2IjoiMyIsImVpIjoicGcyamFvdm5JNHUyaHZjUHM5M1lnQVEiLCJxYyI6IkNoMWpjbVZ6ZEhacFpYY2dhR2xuYUNCelkyaHZiMndnWm14dmNtbGtZUkFBZmFLWE9qOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgIzEgcmFua2VkIGhpZ2ggc2Nob29sIGluIEZsb3JpZGE/IiwibGsiOiJHaXgzYUdGMElHbHpJSFJvWlNBak1TQnlZVzVyWldRZ2FHbG5hQ0J6WTJodmIyd2dhVzRnWm14dmNtbGtZUSIsImJzIjoiYzQyUU93dkNNQlNGY2MzazNFRU9pRnNWTENMaTBrRXBEbTRPVGlLaFRVeG9td3RKYXZEZnFfaW9nZ1gzODUwWE83UGxoZ0pxYmk1d3ZpbUU4UTdjZTJFS3JLeHdfcXhGd0VhZkZIYTVJcXFnRGJLS3JDNTRtaXlpdWVxaTh6ZXQ3clI3MFBLQnNqWERYbkVQN2RxWUdOa1dwYUZnSU1tbUNhSkJlR3BhTTFtMUVuWms0NWVMVndMREtTdzNwU2ktSWo4TFQ2STRfQU84YWg3WWJLOEkzQW80cWdVa3I2bTVUYXlhMm1pUV9QMVJtb3lpWWNmLVQ0Ti03d28iLCJpZCI6ImZjX3BnMmphb3ZuSTR1Mmh2Y1BzOTNZZ0FRXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2RWaFVMVFJSV1hoUlVWbHlkRTEwYm1kaGNsTmxURGhRVERGNlgyVldTMEl0WVZGTGVUY3lVRVYzVURKZk0xTmhRV1E1WVVoUloxQmxSWEZaV1VGb1MyaGxVM2xKV1hWclJqWkdjamRQZDJKM2FWTjVjemh6WW1GMFFSSVhjR2N5YW1GdmRtNUpOSFV5YUhaalVITTVNMWxuUVZFYUlrRkVjM0k1WmxGS2FsSnFOR1ZvYmxWclMwd3lSWFJtU2xVdFpHOUxjSGRDWkdjIiwiZmN2IjoiMyIsImVpIjoicGcyamFvdm5JNHUyaHZjUHM5M1lnQVEiLCJxYyI6IkNoMWpjbVZ6ZEhacFpYY2dhR2xuYUNCelkyaHZiMndnWm14dmNtbGtZUkFBZmFLWE9qOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgIzEgcmFua2VkIGhpZ2ggc2Nob29sIGluIEZsb3JpZGE%2FIiwibGsiOiJHaXgzYUdGMElHbHpJSFJvWlNBak1TQnlZVzVyWldRZ2FHbG5hQ0J6WTJodmIyd2dhVzRnWm14dmNtbGtZUSIsImJzIjoiYzQyUU93dkNNQlNGY2MzazNFRU9pRnNWTENMaTBrRXBEbTRPVGlLaFRVeG9td3RKYXZEZnFfaW9nZ1gzODUwWE83UGxoZ0pxYmk1d3ZpbUU4UTdjZTJFS3JLeHdfcXhGd0VhZkZIYTVJcXFnRGJLS3JDNTRtaXlpdWVxaTh6ZXQ3clI3MFBLQnNqWERYbkVQN2RxWUdOa1dwYUZnSU1tbUNhSkJlR3BhTTFtMUVuWms0NWVMVndMREtTdzNwU2ktSWo4TFQ2STRfQU84YWg3WWJLOEkzQW80cWdVa3I2bTVUYXlhMm1pUV9QMVJtb3lpWWNmLVQ0Ti03d28iLCJpZCI6ImZjX3BnMmphb3ZuSTR1Mmh2Y1BzOTNZZ0FRXzUifQ%3D%3D"
+  },
+  {
+   "question": "Who are some famous alumni of Crestview High School?",
+   "type": "ai_overview",
+   "page_token": "gHWP3nicHdBNbqMwGIBhzWWybGpTMkqkaCQK-bEKUxL7o3gzAtuJg01wiVNSdnOFOcOcqqdp1dW7ffT-_W9PZ_Px45_23l0W0-kwDHfHrjtadSe6dlpd3s9iKipr60qYxeznDP06iGXyJqLHXkQ5cw7i3f0-kE4w-5gjMpNWZtDofm9cXyN4UCa7VqvjjbJwlSNoGL5VgH2SYsj5-ualCfUTLX1xhlKMX32Rm9K4uLb6VtIIUtCIQjaoFxLugfxWds6BwUVZd4WYbFOWB5WZP6UF7ylaXTPMYzC2zxLyXDQQcBaepPFUtSGTG0sqE2KOs7gc7ZrGPKA2SjnjSFm9Ewy9gnWNMH5dYs5o4p9rpG2KdM7PklImo0TLgY_ktSzmuDbmXlLSyTbLxWjGopAR23WnnO1G0dgW4kjXVHY8JrgEN6gm2qbI-f3GOZXwVsDqiz85iLdlMPl-vfxzaP3C9d3xEylJj64",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=gHWP3nicHdBNbqMwGIBhzWWybGpTMkqkaCQK-bEKUxL7o3gzAtuJg01wiVNSdnOFOcOcqqdp1dW7ffT-_W9PZ_Px45_23l0W0-kwDHfHrjtadSe6dlpd3s9iKipr60qYxeznDP06iGXyJqLHXkQ5cw7i3f0-kE4w-5gjMpNWZtDofm9cXyN4UCa7VqvjjbJwlSNoGL5VgH2SYsj5-ualCfUTLX1xhlKMX32Rm9K4uLb6VtIIUtCIQjaoFxLugfxWds6BwUVZd4WYbFOWB5WZP6UF7ylaXTPMYzC2zxLyXDQQcBaepPFUtSGTG0sqE2KOs7gc7ZrGPKA2SjnjSFm9Ewy9gnWNMH5dYs5o4p9rpG2KdM7PklImo0TLgY_ktSzmuDbmXlLSyTbLxWjGopAR23WnnO1G0dgW4kjXVHY8JrgEN6gm2qbI-f3GOZXwVsDqiz85iLdlMPl-vfxzaP3C9d3xEylJj64",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2RWaFVMVFJSV1hoUlVWbHlkRTEwYm1kaGNsTmxURGhRVERGNlgyVldTMEl0WVZGTGVUY3lVRVYzVURKZk0xTmhRV1E1WVVoUloxQmxSWEZaV1VGb1MyaGxVM2xKV1hWclJqWkdjamRQZDJKM2FWTjVjemh6WW1GMFFSSVhjR2N5YW1GdmRtNUpOSFV5YUhaalVITTVNMWxuUVZFYUlrRkVjM0k1WmxGS2FsSnFOR1ZvYmxWclMwd3lSWFJtU2xVdFpHOUxjSGRDWkdjIiwiZmN2IjoiMyIsImVpIjoicGcyamFvdm5JNHUyaHZjUHM5M1lnQVEiLCJxYyI6IkNoMWpjbVZ6ZEhacFpYY2dhR2xuYUNCelkyaHZiMndnWm14dmNtbGtZUkFBZmFLWE9qOCIsInF1ZXN0aW9uIjoiV2hvIGFyZSBzb21lIGZhbW91cyBhbHVtbmkgb2YgQ3Jlc3R2aWV3IEhpZ2ggU2Nob29sPyIsImxrIjoiR2lOamNtVnpkSFpwWlhjZ2FHbG5hQ0J6WTJodmIyd2dabUZ0YjNWeklHRnNkVzF1YVEiLCJicyI6ImM0MlFPd3ZDTUJTRmNjM2szRUVPaUZzVkxDTGkwa0VwRG00T1RpS2hUVXhvbXd0SmF2RGZxX2lvZ2dYMzg1MFhPN1BsaGdKcWJpNXd2aW1FOFE3Y2UyRUtyS3h3X3F4RndFYWZGSGE1SXFxZ0RiS0tyQzU0bWl5aXVlcWk4emV0N3JSNzBQS0JzalhEWG5FUDdkcVlHTmtXcGFGZ0lNbW1DYUpCZUdwYU0xbTFFblprNDVlTFZ3TERLU3czcFNpLUlqOExUNkk0X0FPOGFoN1liSzhJM0FvNHFnVWtyNm01VGF5YTJtaVFfUDFSbW95aVljZi1UNE4tN3dvIiwiaWQiOiJmY19wZzJqYW92bkk0dTJodmNQczkzWWdBUV81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2RWaFVMVFJSV1hoUlVWbHlkRTEwYm1kaGNsTmxURGhRVERGNlgyVldTMEl0WVZGTGVUY3lVRVYzVURKZk0xTmhRV1E1WVVoUloxQmxSWEZaV1VGb1MyaGxVM2xKV1hWclJqWkdjamRQZDJKM2FWTjVjemh6WW1GMFFSSVhjR2N5YW1GdmRtNUpOSFV5YUhaalVITTVNMWxuUVZFYUlrRkVjM0k1WmxGS2FsSnFOR1ZvYmxWclMwd3lSWFJtU2xVdFpHOUxjSGRDWkdjIiwiZmN2IjoiMyIsImVpIjoicGcyamFvdm5JNHUyaHZjUHM5M1lnQVEiLCJxYyI6IkNoMWpjbVZ6ZEhacFpYY2dhR2xuYUNCelkyaHZiMndnWm14dmNtbGtZUkFBZmFLWE9qOCIsInF1ZXN0aW9uIjoiV2hvIGFyZSBzb21lIGZhbW91cyBhbHVtbmkgb2YgQ3Jlc3R2aWV3IEhpZ2ggU2Nob29sPyIsImxrIjoiR2lOamNtVnpkSFpwWlhjZ2FHbG5hQ0J6WTJodmIyd2dabUZ0YjNWeklHRnNkVzF1YVEiLCJicyI6ImM0MlFPd3ZDTUJTRmNjM2szRUVPaUZzVkxDTGkwa0VwRG00T1RpS2hUVXhvbXd0SmF2RGZxX2lvZ2dYMzg1MFhPN1BsaGdKcWJpNXd2aW1FOFE3Y2UyRUtyS3h3X3F4RndFYWZGSGE1SXFxZ0RiS0tyQzU0bWl5aXVlcWk4emV0N3JSNzBQS0JzalhEWG5FUDdkcVlHTmtXcGFGZ0lNbW1DYUpCZUdwYU0xbTFFblprNDVlTFZ3TERLU3czcFNpLUlqOExUNkk0X0FPOGFoN1liSzhJM0FvNHFnVWtyNm01VGF5YTJtaVFfUDFSbW95aVljZi1UNE4tN3dvIiwiaWQiOiJmY19wZzJqYW92bkk0dTJodmNQczkzWWdBUV81In0%3D"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Crestview High School",
+   "link": "https://www.okaloosaschools.com/o/crestview",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVp5fpndY36fCVy8Z1oQUocU1Y-8ZkvPjk800RwUB3pXXWg-Q7gm0VPTYwOTG3Adfx3yAXSXzGtixZVXowBzW17Tg7sif0t8t1_SQBXx14rrVIzjcsECY0D3lpuyBipA&ved=2ahUKEwiL0qz45-SWAxULm-EIHbMuFkAQFnoECEYQAQ&uoh=1",
+   "displayed_link": "https://www.okaloosaschools.com \u203a crestview",
+   "snippet": "Find Us. Crestview High School1250 N Ferdon BlvdCrestview, FL 32536Phone ... Florida law, e-mail addresses are public records. If you do not want your e ...",
+   "snippet_highlighted_words": [
+    "Crestview High School",
+    "FL",
+    "Florida"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "Staff",
+      "link": "https://www2.okaloosaschools.com/o/crestview/staff",
+      "snippet": "All Rights Reserved - Crestview High School - Privacy Statement ..."
+     },
+     {
+      "title": "Contact Us",
+      "link": "https://www2.okaloosaschools.com/o/crestview/page/contact-us",
+      "snippet": "Contact Info. Crestview High School. Victoria Hayden ..."
+     },
+     {
+      "title": "Athletics",
+      "link": "https://www2.okaloosaschools.com/o/crestview/page/athletics",
+      "snippet": "All Rights Reserved - Crestview High School - Privacy Statement ..."
+     },
+     {
+      "title": "Football",
+      "link": "https://www.okaloosaschools.com/o/crestview/page/football",
+      "snippet": "All Rights Reserved - Crestview High School - Privacy Statement ..."
+     },
+     {
+      "title": "Bell Schedules",
+      "link": "https://www2.okaloosaschools.com/o/crestview/page/bell-schedule",
+      "snippet": "All Rights Reserved - Crestview High School - Privacy Statement ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Find Us. Crestview High School1250 N Ferdon BlvdCrestview, FL 32536Phone ... Florida law, e-mail addresses are public records. If you do not want your e ...",
+     "source_info_link": "https://www.okaloosaschools.com/o/crestview"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYwHrOzAVp5fpndY36fCVy8Z1oQUocU1Y-8ZkvPjk800RwUB3pXXWg-Q7gm0VPTYwOTG3Adfx3yAXSXzGtixZVXowBzW17Tg7sif0t8t1_SQBXx14rrVIzjcsECY0D3lpuyBipA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYwHrOzAVp5fpndY36fCVy8Z1oQUocU1Y-8ZkvPjk800RwUB3pXXWg-Q7gm0VPTYwOTG3Adfx3yAXSXzGtixZVXowBzW17Tg7sif0t8t1_SQBXx14rrVIzjcsECY0D3lpuyBipA",
+   "source": "Okaloosa County School District"
+  },
+  {
+   "position": 2,
+   "title": "Crestview High School (Florida)",
+   "link": "https://en.wikipedia.org/wiki/Crestview_High_School_(Florida)",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAVO4ON_oYQAD8jiOxMVvj9lhW2h6XGn1-Kkf6xYMFh55XG0MHxFn1YSt8UQbKa4fobk34SggR0_WdBIemb3IclGP_yBrCtThDJSDfEg3f3qSLLFJasAp9oMk3VTuTFYJWzlaSbmke4pk0XRTw3ZYBVJA&ved=2ahUKEwiL0qz45-SWAxULm-EIHbMuFkAQFnoECEcQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Crestview_High_Scho...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+   "snippet": "Crestview High School (CHS) is the only high school in the city of Crestview, Florida. It was founded in 1926, and was part of a racially segregated system, ...",
+   "snippet_highlighted_words": [
+    "Crestview High School",
+    "Florida"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Crestview High School (CHS) is the only high school in the city of Crestview, Florida. It was founded in 1926, and was part of a racially segregated system, ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Crestview_High_School_(Florida)",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdQHrOzAVO4ON_oYQAD8jiOxMVvj9lhW2h6XGn1-Kkf6xYMFh55XG0MHxFn1YSt8UQbKa4fobk34SggR0_WdBIemb3IclGP_yBrCtThDJSDfEg3f3qSLLFJasAp9oMk3VTuTFYJWzlaSbmke4pk0XRTw3ZYBVJA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdQHrOzAVO4ON_oYQAD8jiOxMVvj9lhW2h6XGn1-Kkf6xYMFh55XG0MHxFn1YSt8UQbKa4fobk34SggR0_WdBIemb3IclGP_yBrCtThDJSDfEg3f3qSLLFJasAp9oMk3VTuTFYJWzlaSbmke4pk0XRTw3ZYBVJA",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Crestview_High_School_(Florida)#:~:text=Crestview%20High%20School%20(CHS)%20is,of%20a%20racially%20segregated%20system%2C"
+  },
+  {
+   "position": 3,
+   "title": "Crestview High School - Florida",
+   "link": "https://www.usnews.com/education/best-high-schools/florida/districts/okaloosa-county-school-district/crestview-high-school-5284",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEStwEB6zswFQKjw1BJZGEyCEXzJHeG0oqsuRuXeNdVPnGUYpcXyXZKGmmXRdiSXklM6BBMcCBGKS_Zc1NEKTY9kqD3d8e0Ek7VPJ-5cAfM23aLZvjnVG7x52hYSUIGVQPYnyQGPn_gGDdrbfrr-lJl7qwcUukZrs4yQwAbwHETXTGhXI8tS9rz-7MuqXGvtDgrM-8XLC1k8PMekww2OCyxYywUfvmE_H3IamJqduVHHG5aAm1LICL2RKA&ved=2ahUKEwiL0qz45-SWAxULm-EIHbMuFkAQFnoECGgQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a education \u203a florida \u203a districts",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png",
+   "snippet": "Crestview High School is ranked 293rd within Florida. Students have the opportunity to take Advanced Placement\u00ae coursework and exams.",
+   "snippet_highlighted_words": [
+    "Crestview High School",
+    "Florida"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Crestview High School is ranked 293rd within Florida. Students have the opportunity to take Advanced Placement\u00ae coursework and exams.",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/florida/districts/okaloosa-county-school-district/crestview-high-school-5284",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEStwEB6zswFQKjw1BJZGEyCEXzJHeG0oqsuRuXeNdVPnGUYpcXyXZKGmmXRdiSXklM6BBMcCBGKS_Zc1NEKTY9kqD3d8e0Ek7VPJ-5cAfM23aLZvjnVG7x52hYSUIGVQPYnyQGPn_gGDdrbfrr-lJl7qwcUukZrs4yQwAbwHETXTGhXI8tS9rz-7MuqXGvtDgrM-8XLC1k8PMekww2OCyxYywUfvmE_H3IamJqduVHHG5aAm1LICL2RKA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEStwEB6zswFQKjw1BJZGEyCEXzJHeG0oqsuRuXeNdVPnGUYpcXyXZKGmmXRdiSXklM6BBMcCBGKS_Zc1NEKTY9kqD3d8e0Ek7VPJ-5cAfM23aLZvjnVG7x52hYSUIGVQPYnyQGPn_gGDdrbfrr-lJl7qwcUukZrs4yQwAbwHETXTGhXI8tS9rz-7MuqXGvtDgrM-8XLC1k8PMekww2OCyxYywUfvmE_H3IamJqduVHHG5aAm1LICL2RKA",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/florida/districts/okaloosa-county-school-district/crestview-high-school-5284#:~:text=Crestview%20High%20School%20is%20ranked,Advanced%20Placement%C2%AE%20coursework%20and%20exams."
+  },
+  {
+   "position": 4,
+   "title": "Crestview High School (@CHSBulldogs1)",
+   "link": "https://www.facebook.com/CHSBulldogs1/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXgHrOzAVkGPwcL3diP1Qy-LByRzCtFoOeUkOuBF_GDJ0vNO-NVXEeoJg5GjcFNPJDxzC3qy5MFwVY6qAILQ4dw_HglCjiTAeRi_1ecalo9XCydJdOBqG94nuiQTNoSs&ved=2ahUKEwiL0qz45-SWAxULm-EIHbMuFkAQFnoECGkQAQ&uoh=1",
+   "displayed_link": "13.9K+ followers",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "snippet": "Crestview High School Boys Basketball Interest Meeting Calling all Bulldogs interested in trying out for the CHS Boys Basketball Team! Students are invited ...",
+   "snippet_highlighted_words": [
+    "Crestview High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Crestview High School Boys Basketball Interest Meeting Calling all Bulldogs interested in trying out for the CHS Boys Basketball Team! Students are invited ...",
+     "source_info_link": "https://www.facebook.com/CHSBulldogs1/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESXgHrOzAVkGPwcL3diP1Qy-LByRzCtFoOeUkOuBF_GDJ0vNO-NVXEeoJg5GjcFNPJDxzC3qy5MFwVY6qAILQ4dw_HglCjiTAeRi_1ecalo9XCydJdOBqG94nuiQTNoSs&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESXgHrOzAVkGPwcL3diP1Qy-LByRzCtFoOeUkOuBF_GDJ0vNO-NVXEeoJg5GjcFNPJDxzC3qy5MFwVY6qAILQ4dw_HglCjiTAeRi_1ecalo9XCydJdOBqG94nuiQTNoSs",
+   "source": "Facebook \u00b7 Crestview High School",
+   "read_more_link": "https://www.facebook.com/CHSBulldogs1/#:~:text=%F0%9F%8F%80%20Crestview%20High%20School%20Boys,upcoming%20season%20and%20tryout%20opportunities."
+  },
+  {
+   "position": 5,
+   "title": "Crestview High School in FL",
+   "link": "https://www.niche.com/k12/crestview-high-school-crestview-fl/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAVpAZ-oIJxFplLJGyoMzY8pM5u0ofZm6yIAQLTi-DPNTdWcR2Li0IFxWLhxoeltAPKVq34t_zFeczJL5_4pAKqkiTY-XwM5wm8GepSH8n_1T9Um0ebJcfLF_W3VoIlMaQPISvEY-eowO003-AojX837A&ved=2ahUKEwiL0qz45-SWAxULm-EIHbMuFkAQFnoECGQQAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a Florida",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png",
+   "snippet": "Crestview High School is an above average, public school located in CRESTVIEW, FL. It has 2,376 students in grades 9-12 with a student-teacher ratio of 24 ...",
+   "snippet_highlighted_words": [
+    "Crestview High School",
+    "FL"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Crestview High School is an above average, public school located in CRESTVIEW, FL. It has 2,376 students in grades 9-12 with a student-teacher ratio of 24 ...",
+     "source_info_link": "https://www.niche.com/k12/crestview-high-school-crestview-fl/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdQHrOzAVpAZ-oIJxFplLJGyoMzY8pM5u0ofZm6yIAQLTi-DPNTdWcR2Li0IFxWLhxoeltAPKVq34t_zFeczJL5_4pAKqkiTY-XwM5wm8GepSH8n_1T9Um0ebJcfLF_W3VoIlMaQPISvEY-eowO003-AojX837A&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdQHrOzAVpAZ-oIJxFplLJGyoMzY8pM5u0ofZm6yIAQLTi-DPNTdWcR2Li0IFxWLhxoeltAPKVq34t_zFeczJL5_4pAKqkiTY-XwM5wm8GepSH8n_1T9Um0ebJcfLF_W3VoIlMaQPISvEY-eowO003-AojX837A",
+   "source": "Niche",
+   "read_more_link": "https://www.niche.com/k12/crestview-high-school-crestview-fl/#:~:text=Crestview%20High%20School%20is%20an,ratio%20of%2024%20to%201."
+  },
+  {
+   "position": 6,
+   "title": "Crestview Football Schedule",
+   "link": "https://www.maxpreps.com/fl/crestview/crestview-bulldogs/football/schedule/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgwEB6zswFYdYUR9fBptk578uau4c3xci8GFAO73wvKK7jIbhzuKy831_gXvEM6iP1j4GaFyqZp0BoGNFOqu2NA8Dltktx4Kls4P5oEq74_rRMxAPmlmWlyecbHICVs1fYWJpOBotub98xGwczYGbfH0-_2qQLDUSqDLan1AFO7bSSJxOYg&ved=2ahUKEwiL0qz45-SWAxULm-EIHbMuFkAQFnoECGYQAQ&uoh=1",
+   "displayed_link": "https://www.maxpreps.com \u203a crestview-bulldogs \u203a sche...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEzhBADhBADhBADhBQDhBQDhBADhBADhBADhBQDhBQDhBADhBADhBQDhBADhBQBqDGaWAAAAD3RSTlMANHaA7NyWEEjPqCVevglnZLSWAAAAqElEQVQokaWSSxaFIAxDU0pFBM3-d_vkM3pUJ3YAHEJvQwH4GlcIQQUoei_Sv2okD2C7p7ikhrHbzugilnuXMsa1aCZPkYO0pSSgjJWsxs3xW5iV3E6H2v1WsxpXr5OrIbpUQNhjd0XELvoajqadD-Jb5mtNHaLv1obo3rNwhtehRo32wM3ttduJfPled_G5nZr6XVduHt1pXTKXWoHd64PML5nmF_0YP5WLCXU498sLAAAAAElFTkSuQmCC.png",
+   "snippet": "Crestview High School. 1250 N Ferdon Blvd. Crestview, FL 32536-1799. Florida High School Athletic Association logo FHSAA, Official ...",
+   "snippet_highlighted_words": [
+    "Crestview High School",
+    "FL",
+    "Florida"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Crestview High School. 1250 N Ferdon Blvd. Crestview, FL 32536-1799. Florida High School Athletic Association logo FHSAA, Official ...",
+     "source_info_link": "https://www.maxpreps.com/fl/crestview/crestview-bulldogs/football/schedule/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEzhBADhBADhBADhBQDhBQDhBADhBADhBADhBQDhBQDhBADhBADhBQDhBADhBQBqDGaWAAAAD3RSTlMANHaA7NyWEEjPqCVevglnZLSWAAAAqElEQVQokaWSSxaFIAxDU0pFBM3-d_vkM3pUJ3YAHEJvQwH4GlcIQQUoei_Sv2okD2C7p7ikhrHbzugilnuXMsa1aCZPkYO0pSSgjJWsxs3xW5iV3E6H2v1WsxpXr5OrIbpUQNhjd0XELvoajqadD-Jb5mtNHaLv1obo3rNwhtehRo32wM3ttduJfPled_G5nZr6XVduHt1pXTKXWoHd64PML5nmF_0YP5WLCXU498sLAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESgwEB6zswFYdYUR9fBptk578uau4c3xci8GFAO73wvKK7jIbhzuKy831_gXvEM6iP1j4GaFyqZp0BoGNFOqu2NA8Dltktx4Kls4P5oEq74_rRMxAPmlmWlyecbHICVs1fYWJpOBotub98xGwczYGbfH0-_2qQLDUSqDLan1AFO7bSSJxOYg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESgwEB6zswFYdYUR9fBptk578uau4c3xci8GFAO73wvKK7jIbhzuKy831_gXvEM6iP1j4GaFyqZp0BoGNFOqu2NA8Dltktx4Kls4P5oEq74_rRMxAPmlmWlyecbHICVs1fYWJpOBotub98xGwczYGbfH0-_2qQLDUSqDLan1AFO7bSSJxOYg",
+   "source": "MaxPreps",
+   "read_more_link": "https://www.maxpreps.com/fl/crestview/crestview-bulldogs/football/schedule/#:~:text=Crestview%20High%20School,FHSAA%2C%20Official%20MaxPreps%20partner"
+  },
+  {
+   "position": 7,
+   "title": "Crestview High School - Florida",
+   "link": "https://www.donorschoose.org/schools/florida/okaloosa-county-school-district/crestview-high-school/46627",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESoAEB6zswFSA0BLb0z8I_Z-D_IpGpPRigwF9ed7VyUPf4zIYcWp2EbeZSDT-nmkCevTkWbtFOTdVWVHeWm5MIYij93p3GZnDLSYGyMH1dBRaYniKYPo3Sv2ydBEJZt8npG1La6MvKmCdM8Ufk3dyD3i5cthZc3G7zyThPj7R2m3EqsC6qP94JAF4Iij5yUM2Bp5kU-IDdmc6c7uqqsCE8fzCI&ved=2ahUKEwiL0qz45-SWAxULm-EIHbMuFkAQFnoECGcQAQ&uoh=1",
+   "displayed_link": "https://www.donorschoose.org \u203a schools \u203a florida \u203a cres...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEU4A8E4AcE4AME3CMA1DL8zEb0vGLovGboyE7wwFrslA7hhVcaAd9B9dM9lWcgbALe_u-b____e3PJ3bc25teTEwOixrOE2IbzJxeqKgtORitaoot0AALLp5_drYMqak9minNtEM7_oabQTAAAA3klEQVR4AXWSBRIDIQwAITh1d_v_J0uQTI7SHWUWiAqOTIghAEonFMCvUsa6jPUKOmecJZyfysAcolhs2-PIQkhHHzMmVM3j-dl8gSz9KmYZIEuF8VbrTWW7W-WPNT20q_2GOGTrAaVFUBJHtI5-Rck4hfqvZvJ8OWd5XSVpQEgub6v7g_79J28juX6W0POYvx0ntMoJyWEpLyoFfC_3K-pf375Ha58sT5ONuzfymn944xE8xFUmhjbQbKiDHKeBVlINHeEdU6HbP9Ae1xLXM-jB5gptElrAeOslwMR8AZhOFkQFCdvDAAAAAElFTkSuQmCC.png",
+   "snippet": "Crestview High School is a town public school in Crestview, Florida that is part of Okaloosa County School District. It serves 2,375 students in grades 9 ...",
+   "snippet_highlighted_words": [
+    "Crestview High School",
+    "Florida"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Crestview High School is a town public school in Crestview, Florida that is part of Okaloosa County School District. It serves 2,375 students in grades 9 ...",
+     "source_info_link": "https://www.donorschoose.org/schools/florida/okaloosa-county-school-district/crestview-high-school/46627",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEU4A8E4AcE4AME3CMA1DL8zEb0vGLovGboyE7wwFrslA7hhVcaAd9B9dM9lWcgbALe_u-b____e3PJ3bc25teTEwOixrOE2IbzJxeqKgtORitaoot0AALLp5_drYMqak9minNtEM7_oabQTAAAA3klEQVR4AXWSBRIDIQwAITh1d_v_J0uQTI7SHWUWiAqOTIghAEonFMCvUsa6jPUKOmecJZyfysAcolhs2-PIQkhHHzMmVM3j-dl8gSz9KmYZIEuF8VbrTWW7W-WPNT20q_2GOGTrAaVFUBJHtI5-Rck4hfqvZvJ8OWd5XSVpQEgub6v7g_79J28juX6W0POYvx0ntMoJyWEpLyoFfC_3K-pf375Ha58sT5ONuzfymn944xE8xFUmhjbQbKiDHKeBVlINHeEdU6HbP9Ae1xLXM-jB5gptElrAeOslwMR8AZhOFkQFCdvDAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESoAEB6zswFSA0BLb0z8I_Z-D_IpGpPRigwF9ed7VyUPf4zIYcWp2EbeZSDT-nmkCevTkWbtFOTdVWVHeWm5MIYij93p3GZnDLSYGyMH1dBRaYniKYPo3Sv2ydBEJZt8npG1La6MvKmCdM8Ufk3dyD3i5cthZc3G7zyThPj7R2m3EqsC6qP94JAF4Iij5yUM2Bp5kU-IDdmc6c7uqqsCE8fzCI&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESoAEB6zswFSA0BLb0z8I_Z-D_IpGpPRigwF9ed7VyUPf4zIYcWp2EbeZSDT-nmkCevTkWbtFOTdVWVHeWm5MIYij93p3GZnDLSYGyMH1dBRaYniKYPo3Sv2ydBEJZt8npG1La6MvKmCdM8Ufk3dyD3i5cthZc3G7zyThPj7R2m3EqsC6qP94JAF4Iij5yUM2Bp5kU-IDdmc6c7uqqsCE8fzCI",
+   "source": "DonorsChoose",
+   "read_more_link": "https://www.donorschoose.org/schools/florida/okaloosa-county-school-district/crestview-high-school/46627#:~:text=Crestview%20High%20School%20is%20a,a%20student%2Fteacher%20ratio%20of%2024.7%3A1."
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Crestview high school florida football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Crestview+high+school+florida+football&sa=X&ved=2ahUKEwiL0qz45-SWAxULm-EIHbMuFkAQ1QJ6BAhlEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crestview+high+school+florida+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Crestview high school florida ranking",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Crestview+high+school+florida+ranking&sa=X&ved=2ahUKEwiL0qz45-SWAxULm-EIHbMuFkAQ1QJ6BAh7EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crestview+high+school+florida+ranking"
+  },
+  {
+   "block_position": 1,
+   "query": "Crestview high school florida baseball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Crestview+high+school+florida+baseball&sa=X&ved=2ahUKEwiL0qz45-SWAxULm-EIHbMuFkAQ1QJ6BAh5EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crestview+high+school+florida+baseball"
+  },
+  {
+   "block_position": 1,
+   "query": "Crestview high school website",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Crestview+high+school+website&sa=X&ved=2ahUKEwiL0qz45-SWAxULm-EIHbMuFkAQ1QJ6BAh0EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crestview+high+school+website"
+  },
+  {
+   "block_position": 1,
+   "query": "Crestview High School photos",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Crestview+High+School+photos&sa=X&ved=2ahUKEwiL0qz45-SWAxULm-EIHbMuFkAQ1QJ6BAhyEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crestview+High+School+photos"
+  },
+  {
+   "block_position": 1,
+   "query": "Crestview high school map",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Crestview+high+school+map&sa=X&ved=2ahUKEwiL0qz45-SWAxULm-EIHbMuFkAQ1QJ6BAhsEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crestview+high+school+map"
+  },
+  {
+   "block_position": 1,
+   "query": "Crestview high school graduation 2026",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Crestview+high+school+graduation+2026&sa=X&ved=2ahUKEwiL0qz45-SWAxULm-EIHbMuFkAQ1QJ6BAhrEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crestview+high+school+graduation+2026"
+  },
+  {
+   "block_position": 1,
+   "query": "Crestview high school florida basketball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Crestview+high+school+florida+basketball&sa=X&ved=2ahUKEwiL0qz45-SWAxULm-EIHbMuFkAQ1QJ6BAhqEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crestview+high+school+florida+basketball"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Crestview+High+School%22+Florida&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=pg2jaovnI4u2hvcPs93YgAQ&start=10&sa=N&sstk=AS6-VmJfN910RZNxzHx7OM22qCcUegythWfUTsBFTKoTrpRP1OWI608FnWOfeeG43eiyV9MxrtsnCwp5Vw_JVbpebPvJGVwYbxIZww&ved=2ahUKEwiL0qz45-SWAxULm-EIHbMuFkAQ8NMDegQIWRAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Crestview+High+School%22+Florida&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=pg2jaovnI4u2hvcPs93YgAQ&start=10&sa=N&sstk=AS6-VmJfN910RZNxzHx7OM22qCcUegythWfUTsBFTKoTrpRP1OWI608FnWOfeeG43eiyV9MxrtsnCwp5Vw_JVbpebPvJGVwYbxIZww&ved=2ahUKEwiL0qz45-SWAxULm-EIHbMuFkAQ8tMDegQIWRAE",
+   "3": "https://www.google.com/search?q=%22Crestview+High+School%22+Florida&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=pg2jaovnI4u2hvcPs93YgAQ&start=20&sa=N&sstk=AS6-VmJfN910RZNxzHx7OM22qCcUegythWfUTsBFTKoTrpRP1OWI608FnWOfeeG43eiyV9MxrtsnCwp5Vw_JVbpebPvJGVwYbxIZww&ved=2ahUKEwiL0qz45-SWAxULm-EIHbMuFkAQ8tMDegQIWRAG",
+   "4": "https://www.google.com/search?q=%22Crestview+High+School%22+Florida&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=pg2jaovnI4u2hvcPs93YgAQ&start=30&sa=N&sstk=AS6-VmJfN910RZNxzHx7OM22qCcUegythWfUTsBFTKoTrpRP1OWI608FnWOfeeG43eiyV9MxrtsnCwp5Vw_JVbpebPvJGVwYbxIZww&ved=2ahUKEwiL0qz45-SWAxULm-EIHbMuFkAQ8tMDegQIWRAI",
+   "5": "https://www.google.com/search?q=%22Crestview+High+School%22+Florida&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=pg2jaovnI4u2hvcPs93YgAQ&start=40&sa=N&sstk=AS6-VmJfN910RZNxzHx7OM22qCcUegythWfUTsBFTKoTrpRP1OWI608FnWOfeeG43eiyV9MxrtsnCwp5Vw_JVbpebPvJGVwYbxIZww&ved=2ahUKEwiL0qz45-SWAxULm-EIHbMuFkAQ8tMDegQIWRAK",
+   "6": "https://www.google.com/search?q=%22Crestview+High+School%22+Florida&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=pg2jaovnI4u2hvcPs93YgAQ&start=50&sa=N&sstk=AS6-VmJfN910RZNxzHx7OM22qCcUegythWfUTsBFTKoTrpRP1OWI608FnWOfeeG43eiyV9MxrtsnCwp5Vw_JVbpebPvJGVwYbxIZww&ved=2ahUKEwiL0qz45-SWAxULm-EIHbMuFkAQ8tMDegQIWRAM",
+   "7": "https://www.google.com/search?q=%22Crestview+High+School%22+Florida&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=pg2jaovnI4u2hvcPs93YgAQ&start=60&sa=N&sstk=AS6-VmJfN910RZNxzHx7OM22qCcUegythWfUTsBFTKoTrpRP1OWI608FnWOfeeG43eiyV9MxrtsnCwp5Vw_JVbpebPvJGVwYbxIZww&ved=2ahUKEwiL0qz45-SWAxULm-EIHbMuFkAQ8tMDegQIWRAO",
+   "8": "https://www.google.com/search?q=%22Crestview+High+School%22+Florida&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=pg2jaovnI4u2hvcPs93YgAQ&start=70&sa=N&sstk=AS6-VmJfN910RZNxzHx7OM22qCcUegythWfUTsBFTKoTrpRP1OWI608FnWOfeeG43eiyV9MxrtsnCwp5Vw_JVbpebPvJGVwYbxIZww&ved=2ahUKEwiL0qz45-SWAxULm-EIHbMuFkAQ8tMDegQIWRAQ",
+   "9": "https://www.google.com/search?q=%22Crestview+High+School%22+Florida&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=pg2jaovnI4u2hvcPs93YgAQ&start=80&sa=N&sstk=AS6-VmJfN910RZNxzHx7OM22qCcUegythWfUTsBFTKoTrpRP1OWI608FnWOfeeG43eiyV9MxrtsnCwp5Vw_JVbpebPvJGVwYbxIZww&ved=2ahUKEwiL0qz45-SWAxULm-EIHbMuFkAQ8tMDegQIWRAS",
+   "10": "https://www.google.com/search?q=%22Crestview+High+School%22+Florida&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=pg2jaovnI4u2hvcPs93YgAQ&start=90&sa=N&sstk=AS6-VmJfN910RZNxzHx7OM22qCcUegythWfUTsBFTKoTrpRP1OWI608FnWOfeeG43eiyV9MxrtsnCwp5Vw_JVbpebPvJGVwYbxIZww&ved=2ahUKEwiL0qz45-SWAxULm-EIHbMuFkAQ8tMDegQIWRAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Crestview+High+School%22+Florida&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Crestview+High+School%22+Florida&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Crestview+High+School%22+Florida&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Crestview+High+School%22+Florida&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Crestview+High+School%22+Florida&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Crestview+High+School%22+Florida&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Crestview+High+School%22+Florida&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Crestview+High+School%22+Florida&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Crestview+High+School%22+Florida&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Crestview+High+School%22+Florida&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Crestview+High+School%22+Florida&start=90"
+  }
+ }
+}

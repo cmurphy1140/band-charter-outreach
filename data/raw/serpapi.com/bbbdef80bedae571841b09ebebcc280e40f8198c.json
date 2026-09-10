@@ -1,0 +1,577 @@
+{
+ "search_information": {
+  "query_displayed": "\"Enloe High School\"",
+  "total_results": 55800,
+  "time_taken_displayed": 0.44,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Enloe Magnet High School",
+  "type": "Magnet school in Raleigh, North Carolina",
+  "entity_type": "local_nav",
+  "kgmid": "/m/07rdqd",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/07rdqd&hl=en-US&q=Enloe+Magnet+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F07rdqd&q=Enloe+Magnet+High+School",
+  "place_id": "ChIJ60etduderIkRsYrPVrBdXTM",
+  "website": "http://enloehs.wcpss.net/",
+  "description": "William G. Enloe GT/IB Magnet Center for the Humanities, Sciences and the Arts, also known as Enloe Magnet High School or Enloe High School, is a public magnet high school offering Gifted & Talented and International Baccalaureate programs located in eastern Raleigh, North Carolina, United States.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa30dec6f1e4041aee39e77/images/HzgKYJIzjWDMxpsNF5pJEQkiAzTkglgNS2IgYdQQRgI.webp",
+   "link": "https://www.google.com/maps/place/Enloe+Magnet+High+School/data=!4m2!3m1!1s0x0:0x335d5db056cf8ab1?sa=X&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQ_BJ6BAgPEAA&hl=en&gl=us"
+  },
+  "see_photos_link": "https://www.google.com/local/place/fid/0x89ac5ee776ad47eb:0x335d5db056cf8ab1/photosphere?iu=https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid%3DuxAPwdwEZibV3D_ZXl_1ag%26cb_client%3Dsearch.gws-prod.gps%26yaw%3D41.079906%26pitch%3D0%26thumbfov%3D100%26w%3D0%26h%3D0&ik=CAISFnV4QVB3ZHdFWmliVjNEX1pYbF8xYWc%3D&sa=X&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQpx96BAgaEAU",
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Enloe_High_School"
+  },
+  "address": "128 Clarendon Crescent, Raleigh, NC 27610",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=enloe+high+school+address&ludocid=3701217480720485041&sa=X&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQ6BN6BAgiEAI"
+   }
+  ],
+  "founded": "1962",
+  "colors": "Gold, Forest Green",
+  "colors_links": [
+   {
+    "text": "Gold",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yU7RztYK-Yab4edFiOhB1UYVMdltt-ZMsiXUtQINgv1cZmpUEOnUor_VlvYkXpqE3fT3BZgfa6shkrROC8Xf29kWfDwBEcenRXzOArkQ9nBUEMpjxHwFWnmEq3_iGMUtOqrlQ1R7UvXCdByfDO82-ReL3nCZ8hSzJDjc1Ew91DWeJYR-HmAserMPIwylbROOujYJ_4M%3D&sa=X&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQmxN6BAgsEAI"
+   },
+   {
+    "text": "Forest Green",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW679zObwwkn2Z82diTh9bIfwJKlE07x8THVdDS3D38pFQE3ZFITqykavT6Bg-zrrvoYSQ-mb8g8DtYaysNGvJ4JM4oGWS1stZ1wuOiKQMsepGalXnqettyijzZUWn4SbAJBMeZ1r1EXPfPuUI2WOCB63cw3bgsctoGf_I38-mXZmb5VhsZ9aM3CV-cisMokpQDVFk8vps%3D&sa=X&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQmxN6BAgsEAM"
+   }
+  ],
+  "mascot": "Enloe Eagle",
+  "mascot_links": [
+   {
+    "text": "Enloe Eagle",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67y4rig3_sQv-m8xe00h3DrocTShgCDQJBiBghqCa2d8ja_dMTqK3pD9U1HzPBPpEkrfMQUmvRCKlgD9QPLcZtfMwsZw8QU8u-hAzKUB_2NAi4mB5MZe9-nMiEinis9l88q-g7nbj73_M2XaRSn9YWthUSWDG&sa=X&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQmxN6BAgtEAI"
+   }
+  ],
+  "school_types": "High school, Magnet school, State school, Secondary education, Gifted education, Public school",
+  "school_types_links": [
+   {
+    "text": "High school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=High+school&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMppXfNh-OkLk_azmU0uk1AX8WDg6Aey6nZnfzhISz_BahG86fIXhZzQ_5i9gVo2jpkRefi2vb1cuIcbbWsQX1bg-7OrENYaerTHY7HdnuvRnhNtuiXBEuzPrFAtjwWqzIs43SVaJH9S-o5ndgSzM1V0mveJRodDElgzOMUCuhoc9cvothnHApwgjRwOd7SaQ-R2dLp7eRdJ19dSUAyFhHOqGkJFG-SZfFRU1CqsAKR4I7RzjmPaGhyuxhdu5Aag07poCB3Cw%3D&sa=X&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQmxN6BAglEAI"
+   },
+   {
+    "text": "Magnet school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Magnet+school&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yVtv0kY9l1hKD5LTpxCFjLxpooWwQPj3z-vdD5W8qtEpmqaGvLBCyKPoNVLQPvdOBPoU_QI1pz6Pq6evuA1pxYF4uNaoIPvBdrSJLxLo83LGMi2in4VPH2R9T_3SAlIkekOLbOkrW8VmprIBf1WeahWoQvXPTRqrtuVTHogjgbytzm2J8KZ-fUmombzt3JgAB8CDUSmNi4kafRjtWzH_Z8SJZe2z2cPzmKH6KHrLhO-svzk82HZFw-DxVmoKZrlgoP5bEHY%3D&sa=X&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQmxN6BAglEAM"
+   },
+   {
+    "text": "State school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=State+school&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ybGtCxI0H8z2nV80srIO5hh43iJrpLL9zyTRHToodwNipZCD4kcN2wbzA3OqfyGettl42NpXglwsH4hnJQRSg4KBrFTowpZphOt0qedRcJ2ArweoVR9-S8tMInZnViWcfrGU2JIJ4MdrrSJy1KenRonOrQ-Cl7cwAvAUi2rCCbFQ_SJCIKxsJuYjZ9GQZXpe8aCOlHkykmvxaDfX_4rvEHbU6AKfkQMWOCCrWx1E6ejDR7x41PCB0as2VVTGR08m58dWQ-g%3D&sa=X&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQmxN6BAglEAQ"
+   },
+   {
+    "text": "Secondary education",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Secondary+education&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpsB1thhr825tE0CNh1t19p8cS5xpYL-iE4F4NnWpa0oeLQ0Gy_4RijawM7Rh6Uqf6rSiC-UlSHu7OZAkssTMJyfX0qyWr9TZzOP8xOjEfhi3bcZHqRFbLyM5Jdmm3Ji9vxUECHuMqoDHBQgqj6a49JR820hU4U6OEnkljHhywv4MLozllAUvBTS8A_xQO5HsJo2zcn7P4T331sfPoGRneWdV6u5ORm-U5WqI1jMtLqHNUXOyt46nnGdTnpyp6L3e8pLceSs%3D&sa=X&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQmxN6BAglEAU"
+   },
+   {
+    "text": "Gifted education",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Gifted+education&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yek2znJ9I5md0EXMRqnK9ndZQYt2o08B17m4s5DWNRVvDqPLKIiGrsVyzh102WIdsj6Kbr5EdDI9QaeT6VLMcKbLcGEtNpTz50Dg2d7awgWZqmYnCZINDdrMl2aWhB9GMqrUREtGp0TftNJkDVupkW4Z8TAplqeAtAi674V0P95fTP9igzCdxxQgt2FRTdFeDkf_rTFT8Z0da-omQSr7UTABPnOqYyToJXeixrGNfXyZ7sOv4UWAkK6ZCw86CQSMx8RJ6ps%3D&sa=X&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQmxN6BAglEAY"
+   },
+   {
+    "text": "Public school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Public+school&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpnRjecyiHCyfvh60pbD8ck5PRN1YHP_sJ4SP5ZvhFW1SCqcU73cy8ciuVYm7MIcM9JKjoj5TcP9yh14TUTaTMZ3No418INxdY9bFHeSRgFp7athm1sV4caTyQgk4tZliI30JVu4y_nJFp5v5teG1sxBfHtQnx9jwYEZVbZNMoiCXp7uzLMLr1_V15gS1U1es3lTFaO_spDuZDiE4ZRCiNM1Uvt1etg4eNkOre4NVrwzrSTWdQxFgeBnraBxU-u3lg9kci3U%3D&sa=X&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQmxN6BAglEAc"
+   }
+  ],
+  "phone": "(919) 856-7918",
+  "raw_hours": "Closed \u00b7 Opens 7 - 25 AM FriUpdated by phone call 6 weeks agoUpdated by phone call 6 weeks ago",
+  "hours": {
+   "thursday": {
+    "opens": "7:25\u202fAM",
+    "closes": "2:20\u202fPM"
+   },
+   "friday": {
+    "opens": "7:25\u202fAM",
+    "closes": "2:20\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "7:25\u202fAM",
+    "closes": "2:20\u202fPM"
+   },
+   "tuesday": {
+    "opens": "7:25\u202fAM",
+    "closes": "2:20\u202fPM"
+   },
+   "wednesday": {
+    "opens": "7:25\u202fAM",
+    "closes": "2:20\u202fPM"
+   }
+  },
+  "unclaimed_listing": true,
+  "people_also_search_for": [
+   {
+    "name": "Broughton Magnet High School",
+    "image": "https://serpapi.com/searches/6aa30dec6f1e4041aee39e77/images/HzgKYJIzjWDMxpsNF5pJEV_4Ga4dwf9TF65T7ww-ChdBkvOy1Yj5fMzYafuPx2CZ.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW677WEctp4BdkcAYLImI2o_q_PasBq3GpNzL0ZVMCoOU3KcBUIwCF0hw83p_Jf5YM1zGc8LKy6tMvqR_6dCEr5TPX9OaYuFAdwdL7x-q1mKH2j8fZKy0hw4lTKAGTbu1pfzKdbz8Y6wSDuU3Dz74GM7fA7F2UGwrA4r3qniEnzdsNtPPEr7-hIZs8Q4oOUDK_hF46JMo9eitmb_QwRUSp2f7seFkFUMK2qkVfdJbWlw7Zl-k9sA9h_vEquqHMqn_AoCOzgl8NqofHN4jvLs2BJjs3um_Y2&q=Needham+B.+Broughton+High+School&sa=X&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQs9oBKAB6BAgfEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Needham+B.+Broughton+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW677WEctp4BdkcAYLImI2o_q_PasBq3GpNzL0ZVMCoOU3KcBUIwCF0hw83p_Jf5YM1zGc8LKy6tMvqR_6dCEr5TPX9OaYuFAdwdL7x-q1mKH2j8fZKy0hw4lTKAGTbu1pfzKdbz8Y6wSDuU3Dz74GM7fA7F2UGwrA4r3qniEnzdsNtPPEr7-hIZs8Q4oOUDK_hF46JMo9eitmb_QwRUSp2f7seFkFUMK2qkVfdJbWlw7Zl-k9sA9h_vEquqHMqn_AoCOzgl8NqofHN4jvLs2BJjs3um_Y2"
+   },
+   {
+    "name": "Athens Drive Magnet High School",
+    "image": "https://serpapi.com/searches/6aa30dec6f1e4041aee39e77/images/HzgKYJIzjWDMxpsNF5pJEV_4Ga4dwf9TF65T7ww-CheuADVK5j9knI4cb022UCxQ.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yeNVLpOjqFUCaLkasaYSzak8B3j5NtTC74ZzI7bDL5mql-uziLi8R5pdPNvtq4Tm4FvrQWjlulYW2p8kQOyydAJ-3VFCnrK6aw3f4Vg4yGUxVVCuGgzkkE85FuBbjLiTowKYWOZp8lo0roX3MSFAGSe5W4CuAt0H-rQXXVYu6hxq_ULPToJCPUx_xp2eM6SZ7gON4LIuK-nMGJtQUZFNcII8cy3ULp7-TzeGVH75bZu7-GiI-Tf23Zo5tuI8z85ZVZe6y0I1SbP1Fl8SFNVWDc6h8sSe&q=Athens+Drive+High+School&sa=X&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQs9oBKAB6BAgfEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Athens+Drive+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yeNVLpOjqFUCaLkasaYSzak8B3j5NtTC74ZzI7bDL5mql-uziLi8R5pdPNvtq4Tm4FvrQWjlulYW2p8kQOyydAJ-3VFCnrK6aw3f4Vg4yGUxVVCuGgzkkE85FuBbjLiTowKYWOZp8lo0roX3MSFAGSe5W4CuAt0H-rQXXVYu6hxq_ULPToJCPUx_xp2eM6SZ7gON4LIuK-nMGJtQUZFNcII8cy3ULp7-TzeGVH75bZu7-GiI-Tf23Zo5tuI8z85ZVZe6y0I1SbP1Fl8SFNVWDc6h8sSe"
+   },
+   {
+    "name": "Millbrook Magnet High School",
+    "image": "https://serpapi.com/searches/6aa30dec6f1e4041aee39e77/images/HzgKYJIzjWDMxpsNF5pJEV_4Ga4dwf9TF65T7ww-ChdMSK_X2LnC9DWmHWFo1weJ.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yRmdApSZx2x-miH818PTSdfYBUaqCzVCdNW5TKScoBsYYo0ZSJhrIHCeVXDzO4YsdifhUn2fPKKlgPPQhAWFWXUhVGNRY4pYS7-DKSLcIWBgs2f_Xa_eEPEqFTI5KakCPgkgo6lLlSKRIMBjkwz9qyw502ViwlX25RsCHVzhroTmpTBp-XCiwS2-9pbyKURn62xnQ6833Gr7uBcM1TN_ll0B93lsRQ5BJCpXy8nqIZQXJrZglSozZjeWd6NJCfOVfFOp4pnZ4xz0ylZPyMkc5Sb9dgCM&q=Millbrook+High+School&sa=X&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQs9oBKAB6BAgfEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Millbrook+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yRmdApSZx2x-miH818PTSdfYBUaqCzVCdNW5TKScoBsYYo0ZSJhrIHCeVXDzO4YsdifhUn2fPKKlgPPQhAWFWXUhVGNRY4pYS7-DKSLcIWBgs2f_Xa_eEPEqFTI5KakCPgkgo6lLlSKRIMBjkwz9qyw502ViwlX25RsCHVzhroTmpTBp-XCiwS2-9pbyKURn62xnQ6833Gr7uBcM1TN_ll0B93lsRQ5BJCpXy8nqIZQXJrZglSozZjeWd6NJCfOVfFOp4pnZ4xz0ylZPyMkc5Sb9dgCM"
+   },
+   {
+    "name": "Green Hope High School",
+    "image": "https://serpapi.com/searches/6aa30dec6f1e4041aee39e77/images/HzgKYJIzjWDMxpsNF5pJEV_4Ga4dwf9TF65T7ww-ChffLK11pQtxCHfaVVRtjUDl.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ycHRz1bY5RFClXl8EAAx8hCTd0VkqS-deOWJ1G1ANp1itu867TSz1EUMB07UeV0YTNqR7FQehDavdhZB7WUyl-S5vJsWoDjwCZWzEnqyIgJ5qJ3yiGvF1-t6zItm-h4wHLU-KYjeMzQiW-C7PCvl0y2z5gp4OEiGJrRmZ_dkbh8dSn32rW7ZZzG3QaOc2SoLfnTJz4Y7_R3jrpXiSP0xdEjrVtloGQRsHHhtjFNodelqfGKCJSWZv3vxyO-7DFZKR-NYOBUdd7385X7gFaic-7FiKe19&q=Green+Hope+High+School&sa=X&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQs9oBKAB6BAgfEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Green+Hope+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ycHRz1bY5RFClXl8EAAx8hCTd0VkqS-deOWJ1G1ANp1itu867TSz1EUMB07UeV0YTNqR7FQehDavdhZB7WUyl-S5vJsWoDjwCZWzEnqyIgJ5qJ3yiGvF1-t6zItm-h4wHLU-KYjeMzQiW-C7PCvl0y2z5gp4OEiGJrRmZ_dkbh8dSn32rW7ZZzG3QaOc2SoLfnTJz4Y7_R3jrpXiSP0xdEjrVtloGQRsHHhtjFNodelqfGKCJSWZv3vxyO-7DFZKR-NYOBUdd7385X7gFaic-7FiKe19"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Enloe+High+School&stick=H4sIAAAAAAAAAONgFuLUz9U3MC9KKUxRQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iFXTNy8lPVfDITM9QCE7OyM_P2cHKeItNkuGNQ0VgLl9T55Jww0Os2os2RyQF26SHfT8OAB_-tRR3AAAA&sa=X&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQzO0BKAR6BAgfEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLUz9U3MC9KKUxRQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iFXTNy8lPVfDITM9QCE7OyM_P2cHKeItNkuGNQ0VgLl9T55Jww0Os2os2RyQF26SHfT8OAB_-tRR3AAAA",
+  "profiles": [
+   {
+    "name": "X (Twitter)",
+    "link": "https://mobile.twitter.com/EnloeMagnetHS",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Enloe+High+School%22",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAABhUlEQVR4AczOA6xcARCF4X_us23btuLUQR3WZlhbQW3bto2gtm3b2J3GN4tY74uHh3okOi42Nj4AAUDwTvDEhisABCOAEAzYTBh0bN-lc5d0QgAhHPqX4Y4pkd367Zc-xMcXCPDg8TPwxeQH724Uj9N95GJ4pnHxby1xgCmV3v-GsFb7k0Iee7UjaQgmIYe9v9O4-wUKWaATyMPAViwvr1NnOQWDdTV5CHYSaKWLmaGDyvU4mTgQcllracaFr-9uk-yLM8k8fAJff0IUTghRVFu3M1ynkYk4nchiqqU3Ry05RDibMMhjtj6Ht3dJxVk_l1G64cspOusychBsCWm01WNM0jFs0sbEYUtIIuTXNco588OLh09JxE6wweuXEAvfL9PQus3-iU80N34KCaQyUOcxTTuSjEmMRI5rS9JwIZfD1t7ceo34YIpnuQ4nGwP8XXlq_fJZd9jE8KBHC5IwAELJ7dWrZ6fOuNhkgFgAEEIAwA1MQkw0AgDC_wnKycrKSQ2iPAkAVyNzq8rxicIAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/enloehseagles/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Enloe+High+School%22",
+    "image": "https://serpapi.com/searches/6aa30dec6f1e4041aee39e77/images/HzgKYJIzjWDMxpsNF5pJEQUTTxrbJgvu7pTC1xAWx2e2fraGn_TyoWRIZEdZJy3e.png"
+   },
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/EnloeMagnetHS",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Enloe+High+School%22",
+    "image": "https://serpapi.com/searches/6aa30dec6f1e4041aee39e77/images/HzgKYJIzjWDMxpsNF5pJERDW3TSrqg8KMjz0e2LaEeGA-r6RReSvSeKgSnd5KVHf.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "What famous people went to Enloe High School?",
+   "type": "ai_overview",
+   "page_token": "KcUGX3icHdBLbqMwAABQ9TJdNgaSzDRSNBIBkyLsBINt7M3IsckP82lqNYVdb9BDzKnmNFPNBd7iff6xl675-_B1dm54W81m9_v96dT3J1s_6b6dqbex0zOtrD0o3ayWP5ber6Nex-8i3Nx0mNNhYBEBZQypuJodh9SRCEZlQF7q-GVkAdmwMszKLS5IRQMekb3a5j69GsD5eY86mSEA5-yKPmQCRVZ4EW8Hm1PcFq1tkb8Icp52ZkojbHsfcQ8o4MaSuvGQYB9vQ4pLfMlYfsfAMt0Ip66sE6UkNX_GOrEDbtIENw4TD94ODclqiIXh5Ez8n5Mq2ZxwNmRsSPMg7bXvljSZO-0RUXk5-PZzRCUiVex_G8BMEMZnGclJvgr-3FRBCqQ187zwrIntvo5hkFzSkGzxuOOyqCZDEV3sVXMKdjDs68RsFGO98Q0Tnlwg8BE-HvX7Onj8P73-fWzdarj1p38AP4j7",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=KcUGX3icHdBLbqMwAABQ9TJdNgaSzDRSNBIBkyLsBINt7M3IsckP82lqNYVdb9BDzKnmNFPNBd7iff6xl675-_B1dm54W81m9_v96dT3J1s_6b6dqbex0zOtrD0o3ayWP5ber6Nex-8i3Nx0mNNhYBEBZQypuJodh9SRCEZlQF7q-GVkAdmwMszKLS5IRQMekb3a5j69GsD5eY86mSEA5-yKPmQCRVZ4EW8Hm1PcFq1tkb8Icp52ZkojbHsfcQ8o4MaSuvGQYB9vQ4pLfMlYfsfAMt0Ip66sE6UkNX_GOrEDbtIENw4TD94ODclqiIXh5Ez8n5Mq2ZxwNmRsSPMg7bXvljSZO-0RUXk5-PZzRCUiVex_G8BMEMZnGclJvgr-3FRBCqQ187zwrIntvo5hkFzSkGzxuOOyqCZDEV3sVXMKdjDs68RsFGO98Q0Tnlwg8BE-HvX7Onj8P73-fWzdarj1p38AP4j7",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTVh6bGFURWhSZEdOeGNIaGhNRlp5ZUY5a1JXRlNiMU00VDAxeVoxVXhPRTV0VEZKWmJGaDBRMlpIUVRWV01VNXFkbEl0TUhsSFlUazRha3hSUmxCU01GbE1WRkI1U0hkT1JVTk5aMjVWWjNkcWVXOUVWa0ZJWW5aQ2R4SVdRMmMyYW1GdlpGOXlkR1pYZUVFdFpYUkpUM2hCZHhvaVFVUnpjamxtVTFoQlduRjNjMTgyVTJFek1sb3RNR05FTTFGaWNIaFRXbVV4ZHciLCJmY3YiOiIzIiwiZWkiOiJDZzZqYW9kX3J0Zld4QS1ldElPeEF3IiwicWMiOiJDaEZsYm14dlpTQm9hV2RvSUhOamFHOXZiQkFBZmQyZ0x6OCIsInF1ZXN0aW9uIjoiV2hhdCBmYW1vdXMgcGVvcGxlIHdlbnQgdG8gRW5sb2UgSGlnaCBTY2hvb2w/IiwibGsiOiJHaXgzYUdGMElHWmhiVzkxY3lCd1pXOXdiR1VnZDJWdWRDQjBieUJsYm14dlpTQm9hV2RvSUhOamFHOXZiQSIsImJzIjoiYzRYTk1RdkNNQkNHWVZ3ek9XYzZFR3lWS05nXzBFRUZKd2VMdUFnUzdka0VZMUthU1A2LWJWU29GblU5bnU4OWNpQ1RuZUFPenZ4cWJoWktOS1ZDOEtnZE9BTkxyUXpDU2hZQ3NwTXdScVhKbERMX2ZZQmhJSnFCRFFPU2tTZzhrTFpiZzRyckMtWWdOYXpuYVJMVG9YX1NUcWRGOVluc0NYdEZuVUE0b25WdnVGWWJyckMtc0ZCbWRPel8tT3JobV9xV3hPMzZZUFpwTTY1aEliRXdhVEtpa2Y5cGJXM3p4dlo3ZHciLCJpZCI6ImZjX0NnNmphb2RfcnRmV3hBLWV0SU94QXdfMiJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTVh6bGFURWhSZEdOeGNIaGhNRlp5ZUY5a1JXRlNiMU00VDAxeVoxVXhPRTV0VEZKWmJGaDBRMlpIUVRWV01VNXFkbEl0TUhsSFlUazRha3hSUmxCU01GbE1WRkI1U0hkT1JVTk5aMjVWWjNkcWVXOUVWa0ZJWW5aQ2R4SVdRMmMyYW1GdlpGOXlkR1pYZUVFdFpYUkpUM2hCZHhvaVFVUnpjamxtVTFoQlduRjNjMTgyVTJFek1sb3RNR05FTTFGaWNIaFRXbVV4ZHciLCJmY3YiOiIzIiwiZWkiOiJDZzZqYW9kX3J0Zld4QS1ldElPeEF3IiwicWMiOiJDaEZsYm14dlpTQm9hV2RvSUhOamFHOXZiQkFBZmQyZ0x6OCIsInF1ZXN0aW9uIjoiV2hhdCBmYW1vdXMgcGVvcGxlIHdlbnQgdG8gRW5sb2UgSGlnaCBTY2hvb2w%2FIiwibGsiOiJHaXgzYUdGMElHWmhiVzkxY3lCd1pXOXdiR1VnZDJWdWRDQjBieUJsYm14dlpTQm9hV2RvSUhOamFHOXZiQSIsImJzIjoiYzRYTk1RdkNNQkNHWVZ3ek9XYzZFR3lWS05nXzBFRUZKd2VMdUFnUzdka0VZMUthU1A2LWJWU29GblU5bnU4OWNpQ1RuZUFPenZ4cWJoWktOS1ZDOEtnZE9BTkxyUXpDU2hZQ3NwTXdScVhKbERMX2ZZQmhJSnFCRFFPU2tTZzhrTFpiZzRyckMtWWdOYXpuYVJMVG9YX1NUcWRGOVluc0NYdEZuVUE0b25WdnVGWWJyckMtc0ZCbWRPel8tT3JobV9xV3hPMzZZUFpwTTY1aEliRXdhVEtpa2Y5cGJXM3p4dlo3ZHciLCJpZCI6ImZjX0NnNmphb2RfcnRmV3hBLWV0SU94QXdfMiJ9"
+  },
+  {
+   "question": "What is Enloe High School ranked in NC?",
+   "type": "ai_overview",
+   "page_token": "L4RunXicHdBRcqIwGADg2cv4WBNQd-qMs1NKItI13aTwR_KyAwmKkkja2gq89S49VU_TmX5H-D4-7fHcfv26NJeLf11Op9fr9ebQdQdb3-jOTcvX4aynurS2KnW7XPxe4D97vSJvJLp_3kQ89x5igbL4blaOUcpa5qpRvZRYyS0VSCCcsNjQnApaJoAq1x_lWmyrk90YqzG3xVifvec5G2oo-oyIELCIBKHEBOAZhVQ5iPjJJizTqJa85xh2WWjfWZhGAI3PkgI9Zk1TYUOzYHZla7vQjrltvgkMtvEO06GQBP2V8wcu5yh38CDP0OcY1lmQbgpnwLQmLSQMKp8PhRMhaVSsRvVcyNt2F6ZIWTPjT9gaYv_VhIbrYxqJhA2PUj3xnedV0FPAHpX2NpG2udfQdFvSjUKmSuW9mOz1-yqc_Gyu_u_dZelfusM3wP6Aig",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=L4RunXicHdBRcqIwGADg2cv4WBNQd-qMs1NKItI13aTwR_KyAwmKkkja2gq89S49VU_TmX5H-D4-7fHcfv26NJeLf11Op9fr9ebQdQdb3-jOTcvX4aynurS2KnW7XPxe4D97vSJvJLp_3kQ89x5igbL4blaOUcpa5qpRvZRYyS0VSCCcsNjQnApaJoAq1x_lWmyrk90YqzG3xVifvec5G2oo-oyIELCIBKHEBOAZhVQ5iPjJJizTqJa85xh2WWjfWZhGAI3PkgI9Zk1TYUOzYHZla7vQjrltvgkMtvEO06GQBP2V8wcu5yh38CDP0OcY1lmQbgpnwLQmLSQMKp8PhRMhaVSsRvVcyNt2F6ZIWTPjT9gaYv_VhIbrYxqJhA2PUj3xnedV0FPAHpX2NpG2udfQdFvSjUKmSuW9mOz1-yqc_Gyu_u_dZelfusM3wP6Aig",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTVh6bGFURWhSZEdOeGNIaGhNRlp5ZUY5a1JXRlNiMU00VDAxeVoxVXhPRTV0VEZKWmJGaDBRMlpIUVRWV01VNXFkbEl0TUhsSFlUazRha3hSUmxCU01GbE1WRkI1U0hkT1JVTk5aMjVWWjNkcWVXOUVWa0ZJWW5aQ2R4SVdRMmMyYW1GdlpGOXlkR1pYZUVFdFpYUkpUM2hCZHhvaVFVUnpjamxtVTFoQlduRjNjMTgyVTJFek1sb3RNR05FTTFGaWNIaFRXbVV4ZHciLCJmY3YiOiIzIiwiZWkiOiJDZzZqYW9kX3J0Zld4QS1ldElPeEF3IiwicWMiOiJDaEZsYm14dlpTQm9hV2RvSUhOamFHOXZiQkFBZmQyZ0x6OCIsInF1ZXN0aW9uIjoiV2hhdCBpcyBFbmxvZSBIaWdoIFNjaG9vbCByYW5rZWQgaW4gTkM/IiwibGsiOiJHaVozYUdGMElHbHpJR1Z1Ykc5bElHaHBaMmdnYzJOb2IyOXNJSEpoYm10bFpDQnBiaUJ1WXciLCJicyI6ImM0WE5NUXZDTUJDR1lWd3pPV2M2RUd5VktOZ18wRUVGSndlTHVBZ1M3ZGtFWTFLYVNQNi1iVlNvRm5VOW51ODljaUNUbmVBT3p2eHFiaFpLTktWQzhLZ2RPQU5MclF6Q1NoWUNzcE13UnFYSmxETF9mWUJoSUpxQkRRT1NrU2c4a0xaYmc0cnJDLVlnTmF6bmFSTFRvWF9TVHFkRjlZbnNDWHRGblVBNG9uVnZ1RllicnJDLXNGQm1kT3pfLU9yaG1fcVd4TzM2WVBacE02NWhJYkV3YVRLaWtmOXBiVzN6eHZaN2R3IiwiaWQiOiJmY19DZzZqYW9kX3J0Zld4QS1ldElPeEF3XzIifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTVh6bGFURWhSZEdOeGNIaGhNRlp5ZUY5a1JXRlNiMU00VDAxeVoxVXhPRTV0VEZKWmJGaDBRMlpIUVRWV01VNXFkbEl0TUhsSFlUazRha3hSUmxCU01GbE1WRkI1U0hkT1JVTk5aMjVWWjNkcWVXOUVWa0ZJWW5aQ2R4SVdRMmMyYW1GdlpGOXlkR1pYZUVFdFpYUkpUM2hCZHhvaVFVUnpjamxtVTFoQlduRjNjMTgyVTJFek1sb3RNR05FTTFGaWNIaFRXbVV4ZHciLCJmY3YiOiIzIiwiZWkiOiJDZzZqYW9kX3J0Zld4QS1ldElPeEF3IiwicWMiOiJDaEZsYm14dlpTQm9hV2RvSUhOamFHOXZiQkFBZmQyZ0x6OCIsInF1ZXN0aW9uIjoiV2hhdCBpcyBFbmxvZSBIaWdoIFNjaG9vbCByYW5rZWQgaW4gTkM%2FIiwibGsiOiJHaVozYUdGMElHbHpJR1Z1Ykc5bElHaHBaMmdnYzJOb2IyOXNJSEpoYm10bFpDQnBiaUJ1WXciLCJicyI6ImM0WE5NUXZDTUJDR1lWd3pPV2M2RUd5VktOZ18wRUVGSndlTHVBZ1M3ZGtFWTFLYVNQNi1iVlNvRm5VOW51ODljaUNUbmVBT3p2eHFiaFpLTktWQzhLZ2RPQU5MclF6Q1NoWUNzcE13UnFYSmxETF9mWUJoSUpxQkRRT1NrU2c4a0xaYmc0cnJDLVlnTmF6bmFSTFRvWF9TVHFkRjlZbnNDWHRGblVBNG9uVnZ1RllicnJDLXNGQm1kT3pfLU9yaG1fcVd4TzM2WVBacE02NWhJYkV3YVRLaWtmOXBiVzN6eHZaN2R3IiwiaWQiOiJmY19DZzZqYW9kX3J0Zld4QS1ldElPeEF3XzIifQ%3D%3D"
+  },
+  {
+   "question": "What is the best high school in Raleigh, NC?",
+   "type": "ai_overview",
+   "page_token": "dOiNx3icHdBLbqMwAABQzWW6bPgkGREpqkRi0lqB1gZ_4s3I2AQoNjgNE1J2vUtP1dOMNO8I7-vbtH3382tsxtFdN4vFNE2P9TDUpnpUg13I62evFkoaU0rVbda_1_7TWW3BXxDvLi8xIs7RPfbyWdiS1CtNwJxZYRCDSLb-R9VlHPfDhIOxxbnPddjMkutlDtycHe4JYb6rep3JLjrqULhiDy_ERug1iY80aXa6b1LBhvHE3VUyestpvGacdtS4rgiGSQCx1M80EIHyJSGjNjDQZPBlAk8lwcec1hOycJUdojx9N0zuIWBceSdfvNEZFyVvbjS4BylbtbrHSJI0qADFoBF7MYvLiUUdD6EnjF6i3DcamLcKJOGhhTF-zj5fmSioxS_Cml1JRFPRaOJhg1R3h-id2sIbU-ll4cNZ3bbhw__N7Z-zHTfuY6j_AV7EgzI",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=dOiNx3icHdBLbqMwAABQzWW6bPgkGREpqkRi0lqB1gZ_4s3I2AQoNjgNE1J2vUtP1dOMNO8I7-vbtH3382tsxtFdN4vFNE2P9TDUpnpUg13I62evFkoaU0rVbda_1_7TWW3BXxDvLi8xIs7RPfbyWdiS1CtNwJxZYRCDSLb-R9VlHPfDhIOxxbnPddjMkutlDtycHe4JYb6rep3JLjrqULhiDy_ERug1iY80aXa6b1LBhvHE3VUyestpvGacdtS4rgiGSQCx1M80EIHyJSGjNjDQZPBlAk8lwcec1hOycJUdojx9N0zuIWBceSdfvNEZFyVvbjS4BylbtbrHSJI0qADFoBF7MYvLiUUdD6EnjF6i3DcamLcKJOGhhTF-zj5fmSioxS_Cml1JRFPRaOJhg1R3h-id2sIbU-ll4cNZ3bbhw__N7Z-zHTfuY6j_AV7EgzI",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTVh6bGFURWhSZEdOeGNIaGhNRlp5ZUY5a1JXRlNiMU00VDAxeVoxVXhPRTV0VEZKWmJGaDBRMlpIUVRWV01VNXFkbEl0TUhsSFlUazRha3hSUmxCU01GbE1WRkI1U0hkT1JVTk5aMjVWWjNkcWVXOUVWa0ZJWW5aQ2R4SVdRMmMyYW1GdlpGOXlkR1pYZUVFdFpYUkpUM2hCZHhvaVFVUnpjamxtVTFoQlduRjNjMTgyVTJFek1sb3RNR05FTTFGaWNIaFRXbVV4ZHciLCJmY3YiOiIzIiwiZWkiOiJDZzZqYW9kX3J0Zld4QS1ldElPeEF3IiwicWMiOiJDaEZsYm14dlpTQm9hV2RvSUhOamFHOXZiQkFBZmQyZ0x6OCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCBoaWdoIHNjaG9vbCBpbiBSYWxlaWdoLCBOQz8iLCJsayI6IkdpcDNhR0YwSUdseklIUm9aU0JpWlhOMElHaHBaMmdnYzJOb2IyOXNJR2x1SUhKaGJHVnBaMmdnYm1NIiwiYnMiOiJjNFhOTVF2Q01CQ0dZVnd6T1djNkVHeVZLTmdfMEVFRkp3ZUx1QWdTN2RrRVkxS2FTUDYtYlZTb0ZuVTludTg5Y2lDVG5lQU96dnhxYmhaS05LVkM4S2dkT0FOTHJRekNTaFlDc3BNd1JxWEpsRExfZllCaElKcUJEUU9Ta1NnOGtMWmJnNHJyQy1ZZ05hem5hUkxUb1hfU1RxZEY5WW5zQ1h0Rm5VQTRvblZ2dUZZYnJyQy1zRkJtZE96Xy1PcmhtX3FXeE8zNllQWnBNNjVoSWJFd2FUS2lrZjlwYlczenh2WjdkdyIsImlkIjoiZmNfQ2c2amFvZF9ydGZXeEEtZXRJT3hBd18yIn0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTVh6bGFURWhSZEdOeGNIaGhNRlp5ZUY5a1JXRlNiMU00VDAxeVoxVXhPRTV0VEZKWmJGaDBRMlpIUVRWV01VNXFkbEl0TUhsSFlUazRha3hSUmxCU01GbE1WRkI1U0hkT1JVTk5aMjVWWjNkcWVXOUVWa0ZJWW5aQ2R4SVdRMmMyYW1GdlpGOXlkR1pYZUVFdFpYUkpUM2hCZHhvaVFVUnpjamxtVTFoQlduRjNjMTgyVTJFek1sb3RNR05FTTFGaWNIaFRXbVV4ZHciLCJmY3YiOiIzIiwiZWkiOiJDZzZqYW9kX3J0Zld4QS1ldElPeEF3IiwicWMiOiJDaEZsYm14dlpTQm9hV2RvSUhOamFHOXZiQkFBZmQyZ0x6OCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCBoaWdoIHNjaG9vbCBpbiBSYWxlaWdoLCBOQz8iLCJsayI6IkdpcDNhR0YwSUdseklIUm9aU0JpWlhOMElHaHBaMmdnYzJOb2IyOXNJR2x1SUhKaGJHVnBaMmdnYm1NIiwiYnMiOiJjNFhOTVF2Q01CQ0dZVnd6T1djNkVHeVZLTmdfMEVFRkp3ZUx1QWdTN2RrRVkxS2FTUDYtYlZTb0ZuVTludTg5Y2lDVG5lQU96dnhxYmhaS05LVkM4S2dkT0FOTHJRekNTaFlDc3BNd1JxWEpsRExfZllCaElKcUJEUU9Ta1NnOGtMWmJnNHJyQy1ZZ05hem5hUkxUb1hfU1RxZEY5WW5zQ1h0Rm5VQTRvblZ2dUZZYnJyQy1zRkJtZE96Xy1PcmhtX3FXeE8zNllQWnBNNjVoSWJFd2FUS2lrZjlwYlczenh2WjdkdyIsImlkIjoiZmNfQ2c2amFvZF9ydGZXeEEtZXRJT3hBd18yIn0%3D"
+  },
+  {
+   "question": "What is the #1 high school in San Diego?",
+   "type": "ai_overview",
+   "page_token": "umIl2HicHdBNcoIwGIDh6WVcKgFr1RmnUyS0xYLlQwJk00EC_iSBqLECu96lp-pp2un-XTzzfn2LQ81_7vRea3WZj0a32224a5qdKIdFI0f5pauLUZELsc0LPp88TNBjVSzwFdvL06sdxkoRB4wI2YjyVhJz9hzznQ7J3iGyrbKeuKV0ac7B3_beGXrcMQsukUO8JH0aM7xvqEOjqKY-OZKQCLEqMVWBnPZZrJc5avo1RkDMzEgIc2OpjrRWkEltbJLQLGRrApqaCQ-WG0QR2Xh94AjTd23tG8F9aFK1QawqRdBtE90lApq_RlGpw9L1e0h9MxPkmhNildhToRUIeAHA-z9VT09ZMuOp5RlUsHEYIcGweC-xaz0fPBtegm6dUGAxIDDux2VM32jKVjn3LgHXPotpCh1qwYV6UBWfC2vwf3PxUUk9V-dm9wvDHIKq",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=umIl2HicHdBNcoIwGIDh6WVcKgFr1RmnUyS0xYLlQwJk00EC_iSBqLECu96lp-pp2un-XTzzfn2LQ81_7vRea3WZj0a32224a5qdKIdFI0f5pauLUZELsc0LPp88TNBjVSzwFdvL06sdxkoRB4wI2YjyVhJz9hzznQ7J3iGyrbKeuKV0ac7B3_beGXrcMQsukUO8JH0aM7xvqEOjqKY-OZKQCLEqMVWBnPZZrJc5avo1RkDMzEgIc2OpjrRWkEltbJLQLGRrApqaCQ-WG0QR2Xh94AjTd23tG8F9aFK1QawqRdBtE90lApq_RlGpw9L1e0h9MxPkmhNildhToRUIeAHA-z9VT09ZMuOp5RlUsHEYIcGweC-xaz0fPBtegm6dUGAxIDDux2VM32jKVjn3LgHXPotpCh1qwYV6UBWfC2vwf3PxUUk9V-dm9wvDHIKq",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTVh6bGFURWhSZEdOeGNIaGhNRlp5ZUY5a1JXRlNiMU00VDAxeVoxVXhPRTV0VEZKWmJGaDBRMlpIUVRWV01VNXFkbEl0TUhsSFlUazRha3hSUmxCU01GbE1WRkI1U0hkT1JVTk5aMjVWWjNkcWVXOUVWa0ZJWW5aQ2R4SVdRMmMyYW1GdlpGOXlkR1pYZUVFdFpYUkpUM2hCZHhvaVFVUnpjamxtVTFoQlduRjNjMTgyVTJFek1sb3RNR05FTTFGaWNIaFRXbVV4ZHciLCJmY3YiOiIzIiwiZWkiOiJDZzZqYW9kX3J0Zld4QS1ldElPeEF3IiwicWMiOiJDaEZsYm14dlpTQm9hV2RvSUhOamFHOXZiQkFBZmQyZ0x6OCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgIzEgaGlnaCBzY2hvb2wgaW4gU2FuIERpZWdvPyIsImxrIjoiR2lkM2FHRjBJR2x6SUhSb1pTQWpNU0JvYVdkb0lITmphRzl2YkNCcGJpQnpZVzRnWkdsbFoyOCIsImJzIjoiYzRYTk1RdkNNQkNHWVZ3ek9XYzZFR3lWS05nXzBFRUZKd2VMdUFnUzdka0VZMUthU1A2LWJWU29GblU5bnU4OWNpQ1RuZUFPenZ4cWJoWktOS1ZDOEtnZE9BTkxyUXpDU2hZQ3NwTXdScVhKbERMX2ZZQmhJSnFCRFFPU2tTZzhrTFpiZzRyckMtWWdOYXpuYVJMVG9YX1NUcWRGOVluc0NYdEZuVUE0b25WdnVGWWJyckMtc0ZCbWRPel8tT3JobV9xV3hPMzZZUFpwTTY1aEliRXdhVEtpa2Y5cGJXM3p4dlo3ZHciLCJpZCI6ImZjX0NnNmphb2RfcnRmV3hBLWV0SU94QXdfMiJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTVh6bGFURWhSZEdOeGNIaGhNRlp5ZUY5a1JXRlNiMU00VDAxeVoxVXhPRTV0VEZKWmJGaDBRMlpIUVRWV01VNXFkbEl0TUhsSFlUazRha3hSUmxCU01GbE1WRkI1U0hkT1JVTk5aMjVWWjNkcWVXOUVWa0ZJWW5aQ2R4SVdRMmMyYW1GdlpGOXlkR1pYZUVFdFpYUkpUM2hCZHhvaVFVUnpjamxtVTFoQlduRjNjMTgyVTJFek1sb3RNR05FTTFGaWNIaFRXbVV4ZHciLCJmY3YiOiIzIiwiZWkiOiJDZzZqYW9kX3J0Zld4QS1ldElPeEF3IiwicWMiOiJDaEZsYm14dlpTQm9hV2RvSUhOamFHOXZiQkFBZmQyZ0x6OCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgIzEgaGlnaCBzY2hvb2wgaW4gU2FuIERpZWdvPyIsImxrIjoiR2lkM2FHRjBJR2x6SUhSb1pTQWpNU0JvYVdkb0lITmphRzl2YkNCcGJpQnpZVzRnWkdsbFoyOCIsImJzIjoiYzRYTk1RdkNNQkNHWVZ3ek9XYzZFR3lWS05nXzBFRUZKd2VMdUFnUzdka0VZMUthU1A2LWJWU29GblU5bnU4OWNpQ1RuZUFPenZ4cWJoWktOS1ZDOEtnZE9BTkxyUXpDU2hZQ3NwTXdScVhKbERMX2ZZQmhJSnFCRFFPU2tTZzhrTFpiZzRyckMtWWdOYXpuYVJMVG9YX1NUcWRGOVluc0NYdEZuVUE0b25WdnVGWWJyckMtc0ZCbWRPel8tT3JobV9xV3hPMzZZUFpwTTY1aEliRXdhVEtpa2Y5cGJXM3p4dlo3ZHciLCJpZCI6ImZjX0NnNmphb2RfcnRmV3hBLWV0SU94QXdfMiJ9"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "About Us - Enloe Magnet High School",
+   "link": "https://enloehs.wcpss.net/our-school/about-us",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZQHrOzAVH5Qyf674NVk74yetlkUc2g67r6VDhE1SZCXQ0_F1D_h1LhnT2q6wrdRSBL1_qLk8hSg53AcqlOhgarw_RFrKkr5o0V7-M50fUl_hbDGK2y1xktyfiCRRswAInYld8yeF&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQFnoECEwQAQ&uoh=1",
+   "displayed_link": "https://enloehs.wcpss.net \u203a our-school \u203a about-us",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAANlBMVEUArdAgt9YwvNlAwdxQxt5gzOEQstPv-vzf9fm_6_P___8ft9aP2-pw0eTP8Pag4O2v5vCA1udfy4gSAAAAfElEQVR4AcXSQQ7EIAhAURBFcFTb-192ogtjLdu2f0FCXtgBL4SOEPZ86DGEKB54LH6ipt4PckoZcCyyI_VZbHTSZyT7spZ2FEUblc5GD2BpWmqwUdLoM6wmCo5FJ-Y75ol0R4KZ7nis_yFXFIRV24LxZNgi9uN52DE82x9tZw5LZfQ9rAAAAABJRU5ErkJggg.png",
+   "snippet": "Enloe High School prepares all students for the global society by giving them a broad spectrum of opportunities to prepare for education and employment ...",
+   "snippet_highlighted_words": [
+    "Enloe High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Enloe High School prepares all students for the global society by giving them a broad spectrum of opportunities to prepare for education and employment ...",
+     "source_info_link": "https://enloehs.wcpss.net/our-school/about-us",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAANlBMVEUArdAgt9YwvNlAwdxQxt5gzOEQstPv-vzf9fm_6_P___8ft9aP2-pw0eTP8Pag4O2v5vCA1udfy4gSAAAAfElEQVR4AcXSQQ7EIAhAURBFcFTb-192ogtjLdu2f0FCXtgBL4SOEPZ86DGEKB54LH6ipt4PckoZcCyyI_VZbHTSZyT7spZ2FEUblc5GD2BpWmqwUdLoM6wmCo5FJ-Y75ol0R4KZ7nis_yFXFIRV24LxZNgi9uN52DE82x9tZw5LZfQ9rAAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESZQHrOzAVH5Qyf674NVk74yetlkUc2g67r6VDhE1SZCXQ0_F1D_h1LhnT2q6wrdRSBL1_qLk8hSg53AcqlOhgarw_RFrKkr5o0V7-M50fUl_hbDGK2y1xktyfiCRRswAInYld8yeF&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESZQHrOzAVH5Qyf674NVk74yetlkUc2g67r6VDhE1SZCXQ0_F1D_h1LhnT2q6wrdRSBL1_qLk8hSg53AcqlOhgarw_RFrKkr5o0V7-M50fUl_hbDGK2y1xktyfiCRRswAInYld8yeF",
+   "source": "Enloe Magnet High",
+   "read_more_link": "https://enloehs.wcpss.net/our-school/about-us#:~:text=Enloe%20High%20School%20prepares%20all,and%20employment%20beyond%20high%20school."
+  },
+  {
+   "position": 2,
+   "title": "Enloe High School",
+   "link": "https://en.wikipedia.org/wiki/Enloe_High_School",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZwHrOzAV4Ay7bOkqAOfIQHtFG18OliENn9jiRiL2qp9ZxyyBkcm0Ldg4D3uYkx6CDai3Jhi4g2TyWTZHZRJkroFdZMxYzvqSrlVBbCXcWEV3eDMJEq0nXvvCdY5MEVivtR-hsFT-7ls&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQFnoECEUQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Enloe_High_School",
+   "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+   "snippet": "Enloe High School ; Front entrance of Enloe's West Campus \u00b7 Map. Wikimedia | \u00a9 OpenStreetMap. 128 Clarendon Crescent. Raleigh, North Carolina. 27610. United ...",
+   "snippet_highlighted_words": [
+    "Enloe High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Enloe High School ; Front entrance of Enloe's West Campus \u00b7 Map. Wikimedia | \u00a9 OpenStreetMap. 128 Clarendon Crescent. Raleigh, North Carolina. 27610. United ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Enloe_High_School",
+     "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESZwHrOzAV4Ay7bOkqAOfIQHtFG18OliENn9jiRiL2qp9ZxyyBkcm0Ldg4D3uYkx6CDai3Jhi4g2TyWTZHZRJkroFdZMxYzvqSrlVBbCXcWEV3eDMJEq0nXvvCdY5MEVivtR-hsFT-7ls&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESZwHrOzAV4Ay7bOkqAOfIQHtFG18OliENn9jiRiL2qp9ZxyyBkcm0Ldg4D3uYkx6CDai3Jhi4g2TyWTZHZRJkroFdZMxYzvqSrlVBbCXcWEV3eDMJEq0nXvvCdY5MEVivtR-hsFT-7ls",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Enloe_High_School#:~:text=Enloe%20High%20School&text=Front%20entrance%20of%20Enloe's%20West,Campus&text=Wikimedia%20%7C%20%C2%A9%20OpenStreetMap,United%20States"
+  },
+  {
+   "position": 3,
+   "title": "William G Enloe High School in Raleigh, NC",
+   "link": "https://www.usnews.com/education/best-high-schools/north-carolina/districts/wake-county-schools/william-g-enloe-high-school-14753",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESugEB6zswFRYpVT1OKOquu5Wv2yuEeg4_rL7KiIqYtvA34kQ6XPWsCPwAxo7Ur3ZLYJBuv1nCODRwffpWbD1ZIdMabkVZjRUVVidotZfHJQVqVDHYSJBV1NBGD9EAeIBKQ5plVSHiGyQEqPkY3sKHwV6Ym5uhV2fZ_fsSxj049BofybExa7sv6In6mZ6Rxvt10mykNSkQ52qFdNzMo-J0WPaJ7fges-3cVO-kibNZqXNE8y8oDnieTFS6dCM&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQFnoECEYQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a ... \u203a Wake County Schools",
+   "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp",
+   "snippet": "William G Enloe High School is ranked 39th within North Carolina. Students have the opportunity to take Advanced Placement\u00ae coursework and exams.",
+   "snippet_highlighted_words": [
+    "Enloe High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "William G Enloe High School is ranked 39th within North Carolina. Students have the opportunity to take Advanced Placement\u00ae coursework and exams.",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/north-carolina/districts/wake-county-schools/william-g-enloe-high-school-14753",
+     "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESugEB6zswFRYpVT1OKOquu5Wv2yuEeg4_rL7KiIqYtvA34kQ6XPWsCPwAxo7Ur3ZLYJBuv1nCODRwffpWbD1ZIdMabkVZjRUVVidotZfHJQVqVDHYSJBV1NBGD9EAeIBKQ5plVSHiGyQEqPkY3sKHwV6Ym5uhV2fZ_fsSxj049BofybExa7sv6In6mZ6Rxvt10mykNSkQ52qFdNzMo-J0WPaJ7fges-3cVO-kibNZqXNE8y8oDnieTFS6dCM&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESugEB6zswFRYpVT1OKOquu5Wv2yuEeg4_rL7KiIqYtvA34kQ6XPWsCPwAxo7Ur3ZLYJBuv1nCODRwffpWbD1ZIdMabkVZjRUVVidotZfHJQVqVDHYSJBV1NBGD9EAeIBKQ5plVSHiGyQEqPkY3sKHwV6Ym5uhV2fZ_fsSxj049BofybExa7sv6In6mZ6Rxvt10mykNSkQ52qFdNzMo-J0WPaJ7fges-3cVO-kibNZqXNE8y8oDnieTFS6dCM",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/north-carolina/districts/wake-county-schools/william-g-enloe-high-school-14753#:~:text=William%20G%20Enloe%20High%20School,Advanced%20Placement%C2%AE%20coursework%20and%20exams."
+  },
+  {
+   "position": 4,
+   "title": "William G. Enloe High School in Raleigh, NC",
+   "link": "https://www.niche.com/k12/william-g-enloe-high-school-raleigh-nc/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAVLB-XrqYc2sSpIdH1BDDYRFDYU7xGWthk-ITgb1BmnyzGpsHmZv9gbL6vMuBgtkW4rpTU7BtgJ9slfCs3ObWP8o8GSXSab_m_CvnGPg8Bnna2nuEurXUr6_Y5jsVDT69lcKPmvTwzF3Tt7R3QvmOYbHkDL2M&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQFnoECEsQAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a North Carolina",
+   "favicon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAACwBgCdASocABwAPtEutFooIagoGAEAGglAGZo7gYv7m0TPt8r_WYdmpcah9WA48zicEtVrCFOGH4nMtJiaAAD-8Mpqn5wztwFeSDXF5YavmSdrcpv67JtS1tKl7uW6N9aR19WH-vT5VtxqndfSU_QIzB4R0m5fNi1eX3h8GYa_8H28-7o-nc3D2GEvZqGTES8muP_UCP_UIYsGh8QXK7V2sBnUP79qQidv_o8__S3xjZZmmXEG69VP00Dn3HuddwtLR_4xf_0PU8NPn060X-47u3VDw39ZbBgpwK3wP0F5tHUWMrTdTbcT_h7ghKmtPgKiKNIvGUNLHBT4VbzlXgvFo7vCP-ot_w6I_hOg9EcgQfabjpYvU6X4xcxi9BIxh2PJomEF2PA_XoL7FtzFNUuyE0IG83Bax0ZYU-dxj0EhgAAA.webp",
+   "snippet": "Enloe High School is a top rated, public, magnet school located in RALEIGH, NC. It has 2,643 students in grades 9-12 with a student-teacher ratio of 18 to 1 ...",
+   "snippet_highlighted_words": [
+    "Enloe High School"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 3.8,
+      "reviews": 822
+     },
+     "extensions": [
+      "3.8(822)"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Enloe High School is a top rated, public, magnet school located in RALEIGH, NC. It has 2,643 students in grades 9-12 with a student-teacher ratio of 18 to 1 ...",
+     "source_info_link": "https://www.niche.com/k12/william-g-enloe-high-school-raleigh-nc/",
+     "icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAACwBgCdASocABwAPtEutFooIagoGAEAGglAGZo7gYv7m0TPt8r_WYdmpcah9WA48zicEtVrCFOGH4nMtJiaAAD-8Mpqn5wztwFeSDXF5YavmSdrcpv67JtS1tKl7uW6N9aR19WH-vT5VtxqndfSU_QIzB4R0m5fNi1eX3h8GYa_8H28-7o-nc3D2GEvZqGTES8muP_UCP_UIYsGh8QXK7V2sBnUP79qQidv_o8__S3xjZZmmXEG69VP00Dn3HuddwtLR_4xf_0PU8NPn060X-47u3VDw39ZbBgpwK3wP0F5tHUWMrTdTbcT_h7ghKmtPgKiKNIvGUNLHBT4VbzlXgvFo7vCP-ot_w6I_hOg9EcgQfabjpYvU6X4xcxi9BIxh2PJomEF2PA_XoL7FtzFNUuyE0IG83Bax0ZYU-dxj0EhgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESeQHrOzAVLB-XrqYc2sSpIdH1BDDYRFDYU7xGWthk-ITgb1BmnyzGpsHmZv9gbL6vMuBgtkW4rpTU7BtgJ9slfCs3ObWP8o8GSXSab_m_CvnGPg8Bnna2nuEurXUr6_Y5jsVDT69lcKPmvTwzF3Tt7R3QvmOYbHkDL2M&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESeQHrOzAVLB-XrqYc2sSpIdH1BDDYRFDYU7xGWthk-ITgb1BmnyzGpsHmZv9gbL6vMuBgtkW4rpTU7BtgJ9slfCs3ObWP8o8GSXSab_m_CvnGPg8Bnna2nuEurXUr6_Y5jsVDT69lcKPmvTwzF3Tt7R3QvmOYbHkDL2M",
+   "source": "Niche",
+   "read_more_link": "https://www.niche.com/k12/william-g-enloe-high-school-raleigh-nc/#:~:text=Enloe%20High%20School%20is%20a,ratio%20of%2018%20to%201."
+  },
+  {
+   "position": 5,
+   "title": "Enloe Magnet High School (@enloehseagles)",
+   "link": "https://www.instagram.com/enloehseagles/?hl=en",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAV4zzynwvsg5kj06dLMTmZWxFHW7C4S0Vxa_rzXb_gox924AOcpi1t7dfi1WRVcDxzEoopvXCCKbmf4QAO4JsoyHd_KyqYunyNrT-Mh2E7_SGtg1-Hjl1mrfin_ah3cdPkAw&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQFnoECE0QAQ&uoh=1",
+   "displayed_link": "3.9K+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+   "snippet": "Please join us for the Enloe Arts Guild's annual headshot fundraiser. All proceeds will go to support the arts at Enloe High School! Sign-up here! https://m.",
+   "snippet_highlighted_words": [
+    "Enloe High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Please join us for the Enloe Arts Guild's annual headshot fundraiser. All proceeds will go to support the arts at Enloe High School! Sign-up here! https://m.",
+     "source_info_link": "https://www.instagram.com/enloehseagles/?hl=en",
+     "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESZgHrOzAV4zzynwvsg5kj06dLMTmZWxFHW7C4S0Vxa_rzXb_gox924AOcpi1t7dfi1WRVcDxzEoopvXCCKbmf4QAO4JsoyHd_KyqYunyNrT-Mh2E7_SGtg1-Hjl1mrfin_ah3cdPkAw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESZgHrOzAV4zzynwvsg5kj06dLMTmZWxFHW7C4S0Vxa_rzXb_gox924AOcpi1t7dfi1WRVcDxzEoopvXCCKbmf4QAO4JsoyHd_KyqYunyNrT-Mh2E7_SGtg1-Hjl1mrfin_ah3cdPkAw",
+   "source": "Instagram \u00b7 enloehseagles"
+  },
+  {
+   "position": 6,
+   "title": "Enloe High School - Eagles Official Athletic Website",
+   "link": "https://www.enloeathleticzone.com/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWgHrOzAVnReWwnagO9bV1OVdF9a_gZHDn-OtqW0qfsvz6Uiu70dZRhAGKShtZ9_hhmfmKHP9I2M2oKM2rpX7PoArOpVz_udko3DlNok2iLbTPzgOHys-Zfv7rA&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQFnoECEQQAQ&uoh=1",
+   "displayed_link": "https://www.enloeathleticzone.com",
+   "favicon": "https://serpapi.com/images/i/UklGRsIAAABXRUJQVlA4ILYAAADwBACdASocABwAPtE-tFooIigoFAEAGglsAMxLABVr5xtj4oyKX8kazDwqaW6X9AAA_tia4Ju0T1A8hYguU92rX0Pq34B1-rUdFcMoN2MJZNl24rMgm_BMJmeVXyiYgxShtmx3w-JGP7oSfxyBV4zghiDqKoFC-z_gNTfsBO7zWWe2Zw_i6GmBDRMpt_Rre_ze_ynIEl-96-RmWfIKLF6-UFJ3MxKR7NfxpNL6Z5Pstf46wDYAAA.webp",
+   "snippet": "Welcome to the official athletic website for the Enloe High School Eagles. Stay up to date with Enloe High School event schedules, team rosters, photos, ...",
+   "snippet_highlighted_words": [
+    "Enloe High School",
+    "Enloe High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Welcome to the official athletic website for the Enloe High School Eagles. Stay up to date with Enloe High School event schedules, team rosters, photos, ...",
+     "source_info_link": "https://www.enloeathleticzone.com/",
+     "icon": "https://serpapi.com/images/i/UklGRsIAAABXRUJQVlA4ILYAAADwBACdASocABwAPtE-tFooIigoFAEAGglsAMxLABVr5xtj4oyKX8kazDwqaW6X9AAA_tia4Ju0T1A8hYguU92rX0Pq34B1-rUdFcMoN2MJZNl24rMgm_BMJmeVXyiYgxShtmx3w-JGP7oSfxyBV4zghiDqKoFC-z_gNTfsBO7zWWe2Zw_i6GmBDRMpt_Rre_ze_ynIEl-96-RmWfIKLF6-UFJ3MxKR7NfxpNL6Z5Pstf46wDYAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESWgHrOzAVnReWwnagO9bV1OVdF9a_gZHDn-OtqW0qfsvz6Uiu70dZRhAGKShtZ9_hhmfmKHP9I2M2oKM2rpX7PoArOpVz_udko3DlNok2iLbTPzgOHys-Zfv7rA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESWgHrOzAVnReWwnagO9bV1OVdF9a_gZHDn-OtqW0qfsvz6Uiu70dZRhAGKShtZ9_hhmfmKHP9I2M2oKM2rpX7PoArOpVz_udko3DlNok2iLbTPzgOHys-Zfv7rA",
+   "source": "enloeathleticzone.com"
+  },
+  {
+   "position": 7,
+   "title": "Enloe Magnet High School in Raleigh, North Carolina ...",
+   "link": "https://www.donorschoose.org/schools/north-carolina/wake-county-public-school-system/enloe-high-school/1831",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESowEB6zswFQ25N0qoJyKCpRpo5ayvDBrM9itCObMOROdUt2b7hGtgLzOEU7lndLzPlQ86dS72KqQ6GQseZurVTS5VjCOt1u3VnhYmOPWEc0GCvtRWYq3TxRM_1jpmjD108sijJBcE5j8auitvCD2pHWpENThZuOYK-0_xSsMmABkIiERNc3ycnIfGGNRw1lZCgud-2RfQmV9-qmnyYr13xIrzCmiN&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQFnoECE8QAQ&uoh=1",
+   "displayed_link": "https://www.donorschoose.org \u203a schools \u203a north-carolina",
+   "favicon": "https://serpapi.com/images/i/UklGRswAAABXRUJQVlA4IMAAAABwBQCdASocABwAPtEwtFooIigoGAEAGglsAKknND9QgUiCtSxixOFp4uhGPS57r1rBvQAAAP78Ruvp_RopI31agF2kTcvpn_nJpqDkB-JZ3L4TnmXfH8Lj7_7aH_7LAv_qWkLImNPY960ex9CxAdN4Rj2bYpPBjMs4lAfwcelVvNLkNVmPcrR_CPQWyeuMExXrAK1CRpFOK2_rpU32_y9RFVHtRr1D17PWVgxOgSGl1SdGJuoFHhfsjXVLLo5igAA.webp",
+   "snippet": "... enloe-high-school/1831\"}. North Carolina \u00b7 Wake County Public School System. Enloe Magnet High School. Join the 196 supporters who believe in this school. Give ...",
+   "snippet_highlighted_words": [
+    "enloe-high-school"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "... enloe-high-school/1831\"}. North Carolina \u00b7 Wake County Public School System. Enloe Magnet High School. Join the 196 supporters who believe in this school. Give ...",
+     "source_info_link": "https://www.donorschoose.org/schools/north-carolina/wake-county-public-school-system/enloe-high-school/1831",
+     "icon": "https://serpapi.com/images/i/UklGRswAAABXRUJQVlA4IMAAAABwBQCdASocABwAPtEwtFooIigoGAEAGglsAKknND9QgUiCtSxixOFp4uhGPS57r1rBvQAAAP78Ruvp_RopI31agF2kTcvpn_nJpqDkB-JZ3L4TnmXfH8Lj7_7aH_7LAv_qWkLImNPY960ex9CxAdN4Rj2bYpPBjMs4lAfwcelVvNLkNVmPcrR_CPQWyeuMExXrAK1CRpFOK2_rpU32_y9RFVHtRr1D17PWVgxOgSGl1SdGJuoFHhfsjXVLLo5igAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESowEB6zswFQ25N0qoJyKCpRpo5ayvDBrM9itCObMOROdUt2b7hGtgLzOEU7lndLzPlQ86dS72KqQ6GQseZurVTS5VjCOt1u3VnhYmOPWEc0GCvtRWYq3TxRM_1jpmjD108sijJBcE5j8auitvCD2pHWpENThZuOYK-0_xSsMmABkIiERNc3ycnIfGGNRw1lZCgud-2RfQmV9-qmnyYr13xIrzCmiN&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESowEB6zswFQ25N0qoJyKCpRpo5ayvDBrM9itCObMOROdUt2b7hGtgLzOEU7lndLzPlQ86dS72KqQ6GQseZurVTS5VjCOt1u3VnhYmOPWEc0GCvtRWYq3TxRM_1jpmjD108sijJBcE5j8auitvCD2pHWpENThZuOYK-0_xSsMmABkIiERNc3ycnIfGGNRw1lZCgud-2RfQmV9-qmnyYr13xIrzCmiN",
+   "source": "DonorsChoose",
+   "read_more_link": "https://www.donorschoose.org/schools/north-carolina/wake-county-public-school-system/enloe-high-school/1831#:~:text=Wake%20County%20Public%20School%20System,Give%20to%20this%20school"
+  },
+  {
+   "position": 8,
+   "title": "Enloe Magnet High School",
+   "link": "https://www.wral.com/tags/enloe-magnet-high-school/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESawHrOzAVEEy1rSTfLlLkusxBTyRLKK9WeiQWmZIdh1djpl8vyBFsG3vnZ4cmyQNLy_yJJPN0WHXStm3ohpD-5qjGRRfMXDhd-O7qw9LZMS72POH2I8w-rIrAPHlP9Xn5Wnr_NSh1nlUv3PMU&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQFnoECHgQAQ&uoh=1",
+   "displayed_link": "https://www.wral.com \u203a tags \u203a enloe-magnet-high-school",
+   "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAAAwBQCdASocABwAPtE-tFooIigoFAEAGglkAJ0va5iqP9HyoHsAcbXBD6NONzwtSp1YoAD-7nOK8IEswJkdqU9_MEa7on7d0ZrrWLJxBmZ36mgeFpFpL3ATWvaSvDrxBKrgnX_z9vgb0MbS4Zfi5-eGwPrxDGfr85aP3uqUutb72yJeY30pDHz2gfIVBUP-lyp62us5d-qe7l-v2Jv-U-r6ICXKnRERQ1EZxvY86PNdXZbGB7SjkoxWnT6MMHXCxmmfrvT3dIn5ewf1872CgEfL-Cr9SfvlPT8wyMOzKGTIJke5BAWebK-RoAA.webp",
+   "snippet": "An 18-year-old student at Enloe High School was arrested and charged with a misdemeanor this week after an alleged secret peeping incident on school grounds.",
+   "snippet_highlighted_words": [
+    "Enloe High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "An 18-year-old student at Enloe High School was arrested and charged with a misdemeanor this week after an alleged secret peeping incident on school grounds.",
+     "source_info_link": "https://www.wral.com/tags/enloe-magnet-high-school/",
+     "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAAAwBQCdASocABwAPtE-tFooIigoFAEAGglkAJ0va5iqP9HyoHsAcbXBD6NONzwtSp1YoAD-7nOK8IEswJkdqU9_MEa7on7d0ZrrWLJxBmZ36mgeFpFpL3ATWvaSvDrxBKrgnX_z9vgb0MbS4Zfi5-eGwPrxDGfr85aP3uqUutb72yJeY30pDHz2gfIVBUP-lyp62us5d-qe7l-v2Jv-U-r6ICXKnRERQ1EZxvY86PNdXZbGB7SjkoxWnT6MMHXCxmmfrvT3dIn5ewf1872CgEfL-Cr9SfvlPT8wyMOzKGTIJke5BAWebK-RoAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESawHrOzAVEEy1rSTfLlLkusxBTyRLKK9WeiQWmZIdh1djpl8vyBFsG3vnZ4cmyQNLy_yJJPN0WHXStm3ohpD-5qjGRRfMXDhd-O7qw9LZMS72POH2I8w-rIrAPHlP9Xn5Wnr_NSh1nlUv3PMU&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESawHrOzAVEEy1rSTfLlLkusxBTyRLKK9WeiQWmZIdh1djpl8vyBFsG3vnZ4cmyQNLy_yJJPN0WHXStm3ohpD-5qjGRRfMXDhd-O7qw9LZMS72POH2I8w-rIrAPHlP9Xn5Wnr_NSh1nlUv3PMU",
+   "source": "WRAL",
+   "read_more_link": "https://www.wral.com/tags/enloe-magnet-high-school/#:~:text=An%2018%2Dyear%2Dold%20student%20at%20Enloe,peeping%20incident%20on%20school%20grounds."
+  },
+  {
+   "position": 9,
+   "title": "Enloe Magnet High School in Raleigh, NC United States",
+   "link": "https://maps.apple.com/place?place-id=IA05D98EB55385651",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAVGKG7__-xnVLV8AH_r9UArrK1AEjjfd7Akk-s_pRdesi4HbxXAsXS1lP6qoZHixmTdcmiXX8Yoeo4DSdO9Af0Yv4NsNS85qRGcQFrVIjKIWTwVZapAwPBB8Xfymy3SJ22cfARgI9QmkHc5A&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQFnoECHsQAQ&uoh=1",
+   "displayed_link": "https://maps.apple.com \u203a place",
+   "favicon": "https://serpapi.com/images/i/UklGRmoBAABXRUJQVlA4IF4BAABQCQCdASocABwAPtEutFooIagoGAEAGglsAJ0y3rmYtve9sM5yGW2wG4A88DqVd6DrI0iB2Wrnx23PsrLmtmfkndorhJ3MV6kUm1gylHjr5abgAAD-8KXD-FIwVlSdF5Xnekpm5REjSXdUlE2z4Cj4-2Lh_5k5Ng9aiqlxwEn7LWRG89F3fOBtAbLgWKJ0MBYfvN8RByY2PLo-esbfQefPKDGUhDjXHgiaVr7vngRk89JlNIP8TMSK75RW3dUFlnQ_71UviGRyYhyOJmMqqms-E5_-amZx6bWf8BgcYu8fjxQpPDXk6hMnGIQI4LItf25p_wePGBp5bJo9lDp4CC2fFikALzzQYFn7gRg0S3OZAV7TIt76c7jBIh5qLQDD1HmoEktga3T9UOgmQgGZGSb8RsFffxRC_2OpCRvn1WWvskvK6KNQf0wuaIyfGNBzdy9uyUR_XHWyiKvkndAAAA.webp",
+   "snippet": "Enloe GT/IB Center for the Humanities, Sciences, and the Arts, also called Enloe Magnet High School and Enloe High School, is a public magnet high school ...",
+   "snippet_highlighted_words": [
+    "Enloe High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Enloe GT/IB Center for the Humanities, Sciences, and the Arts, also called Enloe Magnet High School and Enloe High School, is a public magnet high school ...",
+     "source_info_link": "https://maps.apple.com/place?place-id=IA05D98EB55385651",
+     "icon": "https://serpapi.com/images/i/UklGRmoBAABXRUJQVlA4IF4BAABQCQCdASocABwAPtEutFooIagoGAEAGglsAJ0y3rmYtve9sM5yGW2wG4A88DqVd6DrI0iB2Wrnx23PsrLmtmfkndorhJ3MV6kUm1gylHjr5abgAAD-8KXD-FIwVlSdF5Xnekpm5REjSXdUlE2z4Cj4-2Lh_5k5Ng9aiqlxwEn7LWRG89F3fOBtAbLgWKJ0MBYfvN8RByY2PLo-esbfQefPKDGUhDjXHgiaVr7vngRk89JlNIP8TMSK75RW3dUFlnQ_71UviGRyYhyOJmMqqms-E5_-amZx6bWf8BgcYu8fjxQpPDXk6hMnGIQI4LItf25p_wePGBp5bJo9lDp4CC2fFikALzzQYFn7gRg0S3OZAV7TIt76c7jBIh5qLQDD1HmoEktga3T9UOgmQgGZGSb8RsFffxRC_2OpCRvn1WWvskvK6KNQf0wuaIyfGNBzdy9uyUR_XHWyiKvkndAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESbwHrOzAVGKG7__-xnVLV8AH_r9UArrK1AEjjfd7Akk-s_pRdesi4HbxXAsXS1lP6qoZHixmTdcmiXX8Yoeo4DSdO9Af0Yv4NsNS85qRGcQFrVIjKIWTwVZapAwPBB8Xfymy3SJ22cfARgI9QmkHc5A&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESbwHrOzAVGKG7__-xnVLV8AH_r9UArrK1AEjjfd7Akk-s_pRdesi4HbxXAsXS1lP6qoZHixmTdcmiXX8Yoeo4DSdO9Af0Yv4NsNS85qRGcQFrVIjKIWTwVZapAwPBB8Xfymy3SJ22cfARgI9QmkHc5A",
+   "source": "Apple Maps",
+   "read_more_link": "https://maps.apple.com/place?place-id=IA05D98EB55385651#:~:text=Enloe%20GT%2FIB%20Center%20for%20the,in%20eastern%20Raleigh%2C%20North%20Carolina."
+  },
+  {
+   "position": 10,
+   "title": "Enloe High School Employees, Location, Alumni",
+   "link": "https://www.linkedin.com/school/enloe-high-school/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESagHrOzAVsi60FQxW9OVxCy7g5vj_b2AY0net3itXrt8xksPjOtXAoENg65_hIHK5NPTJnvUGInoP8Fpo044SJjyLAmUCq-25mgw6aMLo5sAg9jacs5pXLGMmsjP2oSnC31KQCrmrbz3xPmA&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQFnoECHkQAQ&uoh=1",
+   "displayed_link": "2.8K+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp",
+   "snippet": "Enloe High School is a company based out of 128 Clarendon Crescent, Raleigh, North Carolina, United States. Website: https://www.wcpss.net/enloehs.",
+   "snippet_highlighted_words": [
+    "Enloe High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Enloe High School is a company based out of 128 Clarendon Crescent, Raleigh, North Carolina, United States. Website: https://www.wcpss.net/enloehs.",
+     "source_info_link": "https://www.linkedin.com/school/enloe-high-school/",
+     "icon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESagHrOzAVsi60FQxW9OVxCy7g5vj_b2AY0net3itXrt8xksPjOtXAoENg65_hIHK5NPTJnvUGInoP8Fpo044SJjyLAmUCq-25mgw6aMLo5sAg9jacs5pXLGMmsjP2oSnC31KQCrmrbz3xPmA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESagHrOzAVsi60FQxW9OVxCy7g5vj_b2AY0net3itXrt8xksPjOtXAoENg65_hIHK5NPTJnvUGInoP8Fpo044SJjyLAmUCq-25mgw6aMLo5sAg9jacs5pXLGMmsjP2oSnC31KQCrmrbz3xPmA",
+   "source": "LinkedIn \u00b7 Enloe High School",
+   "read_more_link": "https://www.linkedin.com/school/enloe-high-school/#:~:text=Enloe%20High%20School%20is%20a,https%3A%2F%2Fwww.wcpss.net%2Fenloehs"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Enloe high school football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Enloe+high+school+football&sa=X&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQ1QJ6BAh6EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Enloe+high+school+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Enloe high School bell schedule",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Enloe+high+School+bell+schedule&sa=X&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQ1QJ6BQiGARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Enloe+high+School+bell+schedule"
+  },
+  {
+   "block_position": 1,
+   "query": "Enloe high school Calendar",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Enloe+high+school+Calendar&sa=X&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQ1QJ6BQiFARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Enloe+high+school+Calendar"
+  },
+  {
+   "block_position": 1,
+   "query": "Enloe high school website",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Enloe+high+school+website&sa=X&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQ1QJ6BQiEARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Enloe+high+school+website"
+  },
+  {
+   "block_position": 1,
+   "query": "Enloe high school staff",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Enloe+high+school+staff&sa=X&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQ1QJ6BQiBARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Enloe+high+school+staff"
+  },
+  {
+   "block_position": 1,
+   "query": "Enloe high school basketball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Enloe+high+school+basketball&sa=X&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQ1QJ6BAh-EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Enloe+high+school+basketball"
+  },
+  {
+   "block_position": 1,
+   "query": "Enloe high school ranking",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Enloe+high+school+ranking&sa=X&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQ1QJ6BAh9EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Enloe+high+school+ranking"
+  },
+  {
+   "block_position": 1,
+   "query": "Enloe high school map",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Enloe+high+school+map&sa=X&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQ1QJ6BAh8EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Enloe+high+school+map"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Enloe+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=Cg6jaod_rtfWxA-etIOxAw&start=10&sa=N&sstk=AS6-VmL5BAQwEuRyt6TqmegO7aKWwxXDyQLCs5F0OLf355KYAovnXPMj-XSqOMN8HzfZLXHLtNCTRMFg9WDZQY2oOcG1xTgGfkOpcA&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQ8NMDegQIchAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Enloe+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=Cg6jaod_rtfWxA-etIOxAw&start=10&sa=N&sstk=AS6-VmL5BAQwEuRyt6TqmegO7aKWwxXDyQLCs5F0OLf355KYAovnXPMj-XSqOMN8HzfZLXHLtNCTRMFg9WDZQY2oOcG1xTgGfkOpcA&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQ8tMDegQIchAE",
+   "3": "https://www.google.com/search?q=%22Enloe+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=Cg6jaod_rtfWxA-etIOxAw&start=20&sa=N&sstk=AS6-VmL5BAQwEuRyt6TqmegO7aKWwxXDyQLCs5F0OLf355KYAovnXPMj-XSqOMN8HzfZLXHLtNCTRMFg9WDZQY2oOcG1xTgGfkOpcA&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQ8tMDegQIchAG",
+   "4": "https://www.google.com/search?q=%22Enloe+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=Cg6jaod_rtfWxA-etIOxAw&start=30&sa=N&sstk=AS6-VmL5BAQwEuRyt6TqmegO7aKWwxXDyQLCs5F0OLf355KYAovnXPMj-XSqOMN8HzfZLXHLtNCTRMFg9WDZQY2oOcG1xTgGfkOpcA&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQ8tMDegQIchAI",
+   "5": "https://www.google.com/search?q=%22Enloe+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=Cg6jaod_rtfWxA-etIOxAw&start=40&sa=N&sstk=AS6-VmL5BAQwEuRyt6TqmegO7aKWwxXDyQLCs5F0OLf355KYAovnXPMj-XSqOMN8HzfZLXHLtNCTRMFg9WDZQY2oOcG1xTgGfkOpcA&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQ8tMDegQIchAK",
+   "6": "https://www.google.com/search?q=%22Enloe+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=Cg6jaod_rtfWxA-etIOxAw&start=50&sa=N&sstk=AS6-VmL5BAQwEuRyt6TqmegO7aKWwxXDyQLCs5F0OLf355KYAovnXPMj-XSqOMN8HzfZLXHLtNCTRMFg9WDZQY2oOcG1xTgGfkOpcA&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQ8tMDegQIchAM",
+   "7": "https://www.google.com/search?q=%22Enloe+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=Cg6jaod_rtfWxA-etIOxAw&start=60&sa=N&sstk=AS6-VmL5BAQwEuRyt6TqmegO7aKWwxXDyQLCs5F0OLf355KYAovnXPMj-XSqOMN8HzfZLXHLtNCTRMFg9WDZQY2oOcG1xTgGfkOpcA&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQ8tMDegQIchAO",
+   "8": "https://www.google.com/search?q=%22Enloe+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=Cg6jaod_rtfWxA-etIOxAw&start=70&sa=N&sstk=AS6-VmL5BAQwEuRyt6TqmegO7aKWwxXDyQLCs5F0OLf355KYAovnXPMj-XSqOMN8HzfZLXHLtNCTRMFg9WDZQY2oOcG1xTgGfkOpcA&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQ8tMDegQIchAQ",
+   "9": "https://www.google.com/search?q=%22Enloe+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=Cg6jaod_rtfWxA-etIOxAw&start=80&sa=N&sstk=AS6-VmL5BAQwEuRyt6TqmegO7aKWwxXDyQLCs5F0OLf355KYAovnXPMj-XSqOMN8HzfZLXHLtNCTRMFg9WDZQY2oOcG1xTgGfkOpcA&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQ8tMDegQIchAS",
+   "10": "https://www.google.com/search?q=%22Enloe+High+School%22&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=Cg6jaod_rtfWxA-etIOxAw&start=90&sa=N&sstk=AS6-VmL5BAQwEuRyt6TqmegO7aKWwxXDyQLCs5F0OLf355KYAovnXPMj-XSqOMN8HzfZLXHLtNCTRMFg9WDZQY2oOcG1xTgGfkOpcA&ved=2ahUKEwiHrOGn6OSWAxWuq5UCHR7aIDYQ8tMDegQIchAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Enloe+High+School%22&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Enloe+High+School%22&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Enloe+High+School%22&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Enloe+High+School%22&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Enloe+High+School%22&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Enloe+High+School%22&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Enloe+High+School%22&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Enloe+High+School%22&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Enloe+High+School%22&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Enloe+High+School%22&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Enloe+High+School%22&start=90"
+  }
+ }
+}

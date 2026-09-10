@@ -1,0 +1,594 @@
+{
+ "search_information": {
+  "query_displayed": "\"Twin Lakes High School\" Indiana",
+  "total_results": 18800,
+  "time_taken_displayed": 0.25,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Twin Lakes High School",
+  "type": "Public school in Monticello, Indiana",
+  "entity_type": "local_nav",
+  "kgmid": "/g/11cn9ncnw_",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/g/11cn9ncnw_&hl=en-US&q=Twin+Lakes+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fg%2F11cn9ncnw_&q=Twin+Lakes+High+School",
+  "place_id": "ChIJG9x9J9uvE4gR3LE-XMTjC2s",
+  "website": "https://www.tlschools.org/o/tlhs",
+  "description": "Twin Lakes Senior High School is a public high school located in Monticello, Indiana. Twin Lakes Senior High School was formed from the consolidation of Monticello High School and two other local high schools.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa312b3d08cfee0ae14c611/images/eQbfCRFWTTjG20OVonb2a_ZPsNPSCtLvFcWNf68bAz8.webp",
+   "link": "https://www.google.com/maps/place/Twin+Lakes+High+School/data=!4m2!3m1!1s0x0:0x6b0be3c45c3eb1dc?sa=X&ved=2ahUKEwiOxZzi7OSWAxX9aHADHSl8CAMQ_BJ6BAgREAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Twin_Lakes_High_School"
+  },
+  "address": "300 S 3rd St, Monticello, IN 47960",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuKOtXVtbxVh7r36pONf1AAupZ_Kw:1789072054368&q=twin+lakes+high+school+address&ludocid=7713509219302814172&sa=X&ved=2ahUKEwiOxZzi7OSWAxX9aHADHSl8CAMQ6BN6BAghEAI"
+   }
+  ],
+  "color": "Red",
+  "color_links": [
+   {
+    "text": "Red",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuKOtXVtbxVh7r36pONf1AAupZ_Kw:1789072054368&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpufkvtGXS8N9P9VQM0TUm5SpTZgIa0qNrJ3tpFMWnt-uwciidD-Jynd8BB9cvmnRt9h3xA5QWMZx-9yjCjEVX3EKzpxBaknFrD7t0VH-ecfE0a4kMsYdKBmtqG20FiwPcEl3tX88BZ24AEnX5Ga-WX7Ktidu&sa=X&ved=2ahUKEwiOxZzi7OSWAxX9aHADHSl8CAMQmxN6BAglEAI"
+   }
+  ],
+  "school_type": "State school",
+  "school_type_links": [
+   {
+    "text": "State school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuKOtXVtbxVh7r36pONf1AAupZ_Kw:1789072054368&q=State+school&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ybGtCxI0H8z2nV80srIO5hjViyillkK5kkfBMbqSqsCGlkwruwTbKGnCaupsYC72jUW_-A7e7_6oxTWDDWROEmlr50jQXUgm81F2G-zL0rUDXv4fTcCVrRnU1_5HSSAN-q_TCf3P9cQLbRaJCtFHsNFuqvvUHu6W5JYL006aYC4HL_fquQ%3D%3D&sa=X&ved=2ahUKEwiOxZzi7OSWAxX9aHADHSl8CAMQmxN6BAgiEAI"
+   }
+  ],
+  "phone": "(574) 583-7108",
+  "raw_hours": "Closed \u00b7 Opens 8 - 25 AM Fri",
+  "hours": {
+   "thursday": {
+    "opens": "8:25\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "friday": {
+    "opens": "8:25\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "8:25\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "tuesday": {
+    "opens": "8:25\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "wednesday": {
+    "opens": "8:25\u202fAM",
+    "closes": "4\u202fPM"
+   }
+  },
+  "unclaimed_listing": true,
+  "people_also_search_for": [
+   {
+    "name": "Hamilton Heights High School",
+    "image": "https://serpapi.com/searches/6aa312b3d08cfee0ae14c611/images/eQbfCRFWTTjG20OVonb2a57qdv343Csp5PIXXhXXjLTkVSp9ywK7pFL5rwyXqteg.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuKOtXVtbxVh7r36pONf1AAupZ_Kw:1789072054368&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW679xQIQpiEaH1Vsc5rV3CfIBPpTwbX65G5yfe6OPHi6cq17mNhEzx3FMGh7EYZClyu8EHA8xfDU7f0T-jz7mO_yXcWFM_5M6BrZVL03xN2YIcNlxM_ujdaYiv0_vG4oK90oIhGnMJmru9LUqsYjHnLgxSqyABzG5qHqtXQ22PbPqCVWPiMuMu9gZm7KR2dQtw_Nhx5NVZyjPVAOdkR04GxeAmf0IVmY26ti6K6Tknp76gXwyDJWkzh2hXMyzfYg0s4jwUDO4SQQRiwFH6rtEFbwCXcV-Nu_hnXnH8decK6ztt4fXp4Q%3D%3D&q=Hamilton+Heights+High+School&sa=X&ved=2ahUKEwiOxZzi7OSWAxX9aHADHSl8CAMQs9oBKAB6BAgfEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Hamilton+Heights+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW679xQIQpiEaH1Vsc5rV3CfIBPpTwbX65G5yfe6OPHi6cq17mNhEzx3FMGh7EYZClyu8EHA8xfDU7f0T-jz7mO_yXcWFM_5M6BrZVL03xN2YIcNlxM_ujdaYiv0_vG4oK90oIhGnMJmru9LUqsYjHnLgxSqyABzG5qHqtXQ22PbPqCVWPiMuMu9gZm7KR2dQtw_Nhx5NVZyjPVAOdkR04GxeAmf0IVmY26ti6K6Tknp76gXwyDJWkzh2hXMyzfYg0s4jwUDO4SQQRiwFH6rtEFbwCXcV-Nu_hnXnH8decK6ztt4fXp4Q%3D%3D"
+   },
+   {
+    "name": "Rensselaer Central High School",
+    "image": "https://serpapi.com/searches/6aa312b3d08cfee0ae14c611/images/eQbfCRFWTTjG20OVonb2a57qdv343Csp5PIXXhXXjLTYNUWlHuglg6vHUJUmK-W0.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuKOtXVtbxVh7r36pONf1AAupZ_Kw:1789072054368&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW674xWO66FXNEPMNWjSYzrd0_04ZUVF4f9NPKYvwdbnbFjbiKdA8LVy5a-mZ0AKztEqWbsNY0mKjyeXH26D5gmGLSfwNWZFOyl1vss7wcYiT_CwcZjn8EwotXONVtaCUSykK4sN8WgCGRaQev29LPWFrGdcMSWpuoW7bGluN4rwjLuqEy9zaAGdC9cvPNogrXoif4W8CXRsbGsWXt0mXaMc1xN_e-hG-UM4H1P_UM2BzBSXPOTRSGIcl8jQl3fBL2bZ2JsMCZPWEhyOgNG8noa8K2vJ118aXmB5wl7M182VQM7wb7u-w%3D%3D&q=Rensselaer+Central+High+School&sa=X&ved=2ahUKEwiOxZzi7OSWAxX9aHADHSl8CAMQs9oBKAB6BAgfEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Rensselaer+Central+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW674xWO66FXNEPMNWjSYzrd0_04ZUVF4f9NPKYvwdbnbFjbiKdA8LVy5a-mZ0AKztEqWbsNY0mKjyeXH26D5gmGLSfwNWZFOyl1vss7wcYiT_CwcZjn8EwotXONVtaCUSykK4sN8WgCGRaQev29LPWFrGdcMSWpuoW7bGluN4rwjLuqEy9zaAGdC9cvPNogrXoif4W8CXRsbGsWXt0mXaMc1xN_e-hG-UM4H1P_UM2BzBSXPOTRSGIcl8jQl3fBL2bZ2JsMCZPWEhyOgNG8noa8K2vJ118aXmB5wl7M182VQM7wb7u-w%3D%3D"
+   },
+   {
+    "name": "Western High School",
+    "image": "https://serpapi.com/searches/6aa312b3d08cfee0ae14c611/images/eQbfCRFWTTjG20OVonb2a57qdv343Csp5PIXXhXXjLTCLCcHHRqZ9Wcbl0DGU0Ei.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuKOtXVtbxVh7r36pONf1AAupZ_Kw:1789072054368&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0fr3U-_gue9ncv4cJoDZLjLndFZYhKITe0JgelICRzfOHPeTIHyFV85h2u_tpq6L_jBuXE1nEKNTnM-bRSaV4x7JoGF-KeQMSRc9QrG5NTGqGtG7RH6tU04_oH2GlO4zMLZK4aHmrmfVB7v25LT_DueI8VB4OUUsq1_LIkzxlMuOV0BPrkrQpthGul9GvqJ7RKwg8nP210PSmvq-WXcIQrhT5fzN9pqRnKleFT8OOphQaJWP4srcWP_J22wvbnAaHmH0epBjI3cUj9bFBPjgBsZXywvtPaaUB7b_1C1V7pacWZNRog%3D%3D&q=Western+High+School+(Indiana)&sa=X&ved=2ahUKEwiOxZzi7OSWAxX9aHADHSl8CAMQs9oBKAB6BAgfEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Western+High+School+%28Indiana%29&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0fr3U-_gue9ncv4cJoDZLjLndFZYhKITe0JgelICRzfOHPeTIHyFV85h2u_tpq6L_jBuXE1nEKNTnM-bRSaV4x7JoGF-KeQMSRc9QrG5NTGqGtG7RH6tU04_oH2GlO4zMLZK4aHmrmfVB7v25LT_DueI8VB4OUUsq1_LIkzxlMuOV0BPrkrQpthGul9GvqJ7RKwg8nP210PSmvq-WXcIQrhT5fzN9pqRnKleFT8OOphQaJWP4srcWP_J22wvbnAaHmH0epBjI3cUj9bFBPjgBsZXywvtPaaUB7b_1C1V7pacWZNRog%3D%3D"
+   },
+   {
+    "name": "Benton Central Jr Sr High School",
+    "image": "https://serpapi.com/searches/6aa312b3d08cfee0ae14c611/images/eQbfCRFWTTjG20OVonb2a57qdv343Csp5PIXXhXXjLRpVrSYelsoMbvmxaE_soqe.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuKOtXVtbxVh7r36pONf1AAupZ_Kw:1789072054368&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67_ckRzDbY1KH9_ePI7r96LT8BnJmh6SEu6rmfGwV8ZALBIY5B_w3izsOlEQ1bZ8KuS-ZWWBbVBGCaNJzw811EGoyX4p8OLjEQJzcSdcekhaOkhLOfTR4w3Vrc_TFrOB0BvnJiHV4-EdPrYIi-L7mG2m4rH58Cci8DYj0NbxEFwx5HACFspc06u67Eu-lYjXc3cYrAtTpm-d96kA2vOFEIUTPjOVcuOdY2nZaf35nm3h1owxFPLghbac_nU6eMAYRkk_tUxX8VYlUMMdK0SDYFsIsldyNWuGITf9BjwlQk3Dw5DGYPQ%3D%3D&q=Benton+Central+Junior-Senior+High+School&sa=X&ved=2ahUKEwiOxZzi7OSWAxX9aHADHSl8CAMQs9oBKAB6BAgfEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Benton+Central+Junior-Senior+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67_ckRzDbY1KH9_ePI7r96LT8BnJmh6SEu6rmfGwV8ZALBIY5B_w3izsOlEQ1bZ8KuS-ZWWBbVBGCaNJzw811EGoyX4p8OLjEQJzcSdcekhaOkhLOfTR4w3Vrc_TFrOB0BvnJiHV4-EdPrYIi-L7mG2m4rH58Cci8DYj0NbxEFwx5HACFspc06u67Eu-lYjXc3cYrAtTpm-d96kA2vOFEIUTPjOVcuOdY2nZaf35nm3h1owxFPLghbac_nU6eMAYRkk_tUxX8VYlUMMdK0SDYFsIsldyNWuGITf9BjwlQk3Dw5DGYPQ%3D%3D"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuKOtXVtbxVh7r36pONf1AAupZ_Kw:1789072054368&q=Twin+Lakes+High+School&stick=H4sIAAAAAAAAAONgFuLVT9c3NEzOs8xLziuPV0LlagkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axCoWUp6Zp-CTmJ1arOCRmZ6hEJyckZ-fs4OV8RabJMMbh4rAXL6mziXhhodYtRdtjkgKtkkP-34cAARGOXKEAAAA&sa=X&ved=2ahUKEwiOxZzi7OSWAxX9aHADHSl8CAMQzO0BKAR6BAgfEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLVT9c3NEzOs8xLziuPV0LlagkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axCoWUp6Zp-CTmJ1arOCRmZ6hEJyckZ-fs4OV8RabJMMbh4rAXL6mziXhhodYtRdtjkgKtkkP-34cAARGOXKEAAAA",
+  "profiles": [
+   {
+    "name": "X (Twitter)",
+    "link": "https://twitter.com/tl_indians",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Twin+Lakes+High+School%22+Indiana",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAABhUlEQVR4AczOA6xcARCF4X_us23btuLUQR3WZlhbQW3bto2gtm3b2J3GN4tY74uHh3okOi42Nj4AAUDwTvDEhisABCOAEAzYTBh0bN-lc5d0QgAhHPqX4Y4pkd367Zc-xMcXCPDg8TPwxeQH724Uj9N95GJ4pnHxby1xgCmV3v-GsFb7k0Iee7UjaQgmIYe9v9O4-wUKWaATyMPAViwvr1NnOQWDdTV5CHYSaKWLmaGDyvU4mTgQcllracaFr-9uk-yLM8k8fAJff0IUTghRVFu3M1ynkYk4nchiqqU3Ry05RDibMMhjtj6Ht3dJxVk_l1G64cspOusychBsCWm01WNM0jFs0sbEYUtIIuTXNco588OLh09JxE6wweuXEAvfL9PQus3-iU80N34KCaQyUOcxTTuSjEmMRI5rS9JwIZfD1t7ceo34YIpnuQ4nGwP8XXlq_fJZd9jE8KBHC5IwAELJ7dWrZ6fOuNhkgFgAEEIAwA1MQkw0AgDC_wnKycrKSQ2iPAkAVyNzq8rxicIAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/j22burton/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Twin+Lakes+High+School%22+Indiana",
+    "image": "https://serpapi.com/searches/6aa312b3d08cfee0ae14c611/images/eQbfCRFWTTjG20OVonb2a8VVVx9nAOzbEoozEVPWC4D_QdU7y-b6gC4s60GxGwih.png"
+   },
+   {
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/in/janae-garcia-81767b236",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Twin+Lakes+High+School%22+Indiana",
+    "image": "https://serpapi.com/searches/6aa312b3d08cfee0ae14c611/images/eQbfCRFWTTjG20OVonb2a1pnl9ONgVVxwH55U0prwgUlgjDrh0zmnm73LsgBvMqI.png"
+   },
+   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/tlhskeyclub/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Twin+Lakes+High+School%22+Indiana",
+    "image": "https://serpapi.com/searches/6aa312b3d08cfee0ae14c611/images/eQbfCRFWTTjG20OVonb2a36nXcrstNcOZhRv0PrmE-HYKX4cHYQSlWlUcnJK_xW8.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "What is the #1 ranked high school in Indiana?",
+   "type": "ai_overview",
+   "page_token": "EihOeXicHdBLbqMwAABQzWW6bDBu0xIpqkTBEFSMMP4AmxHYJQQMeBJaGna9QQ_RU_U0M5oDvM37_Nansf_59dXOs7nsNptlWW6P03TUr7dyGjbV5TrKjay0rivZ77YPW_DUyL3_XrjPZ-mmzBjuEYsGqpGBeRYdKYVf3Gd922UhXsRIkBCmZJq8ccFjCqdFelHIBwLSzh1rgGG2clqH-J9ROR7RKsI2yYG6kx05UIguBUTJq-BWaumPHKIXajtGeLGNV-4nfnRIM6D5GAHRtYTl5o0NqI-B0Sk42GTgV6pVyXLCE0-tymIL8Xia-c5dQtWp7oioNd7GtF9pb7JycIo60A1fVaa4Hip7hgXo73HvrFWnUM0eF78trcqf_xTi0WZWaccgggXEqRSlqXzlBqfIJSG-JqJk5AqsmrpBhohH2cdZWapSHjaV1aIYOEAix71p5Pse3vyf3v9uhnlnztPxL7BYikQ",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=EihOeXicHdBLbqMwAABQzWW6bDBu0xIpqkTBEFSMMP4AmxHYJQQMeBJaGna9QQ_RU_U0M5oDvM37_Nansf_59dXOs7nsNptlWW6P03TUr7dyGjbV5TrKjay0rivZ77YPW_DUyL3_XrjPZ-mmzBjuEYsGqpGBeRYdKYVf3Gd922UhXsRIkBCmZJq8ccFjCqdFelHIBwLSzh1rgGG2clqH-J9ROR7RKsI2yYG6kx05UIguBUTJq-BWaumPHKIXajtGeLGNV-4nfnRIM6D5GAHRtYTl5o0NqI-B0Sk42GTgV6pVyXLCE0-tymIL8Xia-c5dQtWp7oioNd7GtF9pb7JycIo60A1fVaa4Hip7hgXo73HvrFWnUM0eF78trcqf_xTi0WZWaccgggXEqRSlqXzlBqfIJSG-JqJk5AqsmrpBhohH2cdZWapSHjaV1aIYOEAix71p5Pse3vyf3v9uhnlnztPxL7BYikQ",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmVHTnBRVXd0WW5FNWNWbzNkakJ4TUVodGIyZHFZVmhhVDFsWGMzZHRTQzFEVVdsYWFXNDJSbVZwWTJ0aFNtTlpVVGQyTURVNGJWOXdiekpHWm5Nd1dUSk5VbnBOVVRNMWQxbzBTWEl5WDNVMmExUnJOMWwyY3prNGR4SVdkR2hMYW1Gdk5sTkdkak5TZDJOelVIRm1hV2hIUVJvaVFVUnpjamxtVTFGUE16RmxWMVp4VFhObFMxTlpTRXB0UzFCdGVXdG9ka2t6ZHciLCJmY3YiOiIzIiwiZWkiOiJ0aEtqYW82U0Z2M1J3Y3NQcWZpaEdBIiwicWMiOiJDaDUwZDJsdUlHeGhhMlZ6SUdocFoyZ2djMk5vYjI5c0lHbHVaR2xoYm1FUUFIM2VHUjhfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSAjMSByYW5rZWQgaGlnaCBzY2hvb2wgaW4gSW5kaWFuYT8iLCJsayI6IkdpeDNhR0YwSUdseklIUm9aU0FqTVNCeVlXNXJaV1FnYUdsbmFDQnpZMmh2YjJ3Z2FXNGdhVzVrYVdGdVlRIiwiYnMiOiJjNDJQeXdyQ01CUkVjWHRYcm9PUEt6NVdWckItUU5hQzRFYW9PNGxOTktIeHBqU1JfTDZLdEZhbzRIck9ESFBnQkVtbVJVRGpNV2lGMHpWV2dnb2xVWnVyUnA5cjV5d2F3aTFKSTBqd2RNV1c4Wi1DZVJkZ0RfTk1LMEpwSkI3aU05aUpRdmt2MnBXS2VMcGdzMWlENFFYYVRoQTRET3ZIcmIyQ1hDUzh1SXFuSXpab0huNTJHZ0NPc0drci01dXdWdm1BNWYxc1RmNVRmTUxHRGRydDJ1ODlBQSIsImlkIjoiZmNfdGhLamFvNlNGdjNSd2NzUHFmaWhHQV8xIn0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmVHTnBRVXd0WW5FNWNWbzNkakJ4TUVodGIyZHFZVmhhVDFsWGMzZHRTQzFEVVdsYWFXNDJSbVZwWTJ0aFNtTlpVVGQyTURVNGJWOXdiekpHWm5Nd1dUSk5VbnBOVVRNMWQxbzBTWEl5WDNVMmExUnJOMWwyY3prNGR4SVdkR2hMYW1Gdk5sTkdkak5TZDJOelVIRm1hV2hIUVJvaVFVUnpjamxtVTFGUE16RmxWMVp4VFhObFMxTlpTRXB0UzFCdGVXdG9ka2t6ZHciLCJmY3YiOiIzIiwiZWkiOiJ0aEtqYW82U0Z2M1J3Y3NQcWZpaEdBIiwicWMiOiJDaDUwZDJsdUlHeGhhMlZ6SUdocFoyZ2djMk5vYjI5c0lHbHVaR2xoYm1FUUFIM2VHUjhfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSAjMSByYW5rZWQgaGlnaCBzY2hvb2wgaW4gSW5kaWFuYT8iLCJsayI6IkdpeDNhR0YwSUdseklIUm9aU0FqTVNCeVlXNXJaV1FnYUdsbmFDQnpZMmh2YjJ3Z2FXNGdhVzVrYVdGdVlRIiwiYnMiOiJjNDJQeXdyQ01CUkVjWHRYcm9PUEt6NVdWckItUU5hQzRFYW9PNGxOTktIeHBqU1JfTDZLdEZhbzRIck9ESFBnQkVtbVJVRGpNV2lGMHpWV2dnb2xVWnVyUnA5cjV5d2F3aTFKSTBqd2RNV1c4Wi1DZVJkZ0RfTk1LMEpwSkI3aU05aUpRdmt2MnBXS2VMcGdzMWlENFFYYVRoQTRET3ZIcmIyQ1hDUzh1SXFuSXpab0huNTJHZ0NPc0drci01dXdWdm1BNWYxc1RmNVRmTUxHRGRydDJ1ODlBQSIsImlkIjoiZmNfdGhLamFvNlNGdjNSd2NzUHFmaWhHQV8xIn0%3D"
+  },
+  {
+   "question": "When did Twin Lakes high school open?",
+   "type": "ai_overview",
+   "page_token": "6LEhyXicHdBRboIwAADQ7DJ-KgVxamKWIC3IZg2tpdKfpRQUoVicTCZ_u8tOtdMs2TvC-_7R50v9-9SVXdfelpNJ3_fjkzEnXYyVaSby9rioiZJaZ1LVy9nzDLwc1Qp-Qm993Xgxa9vEJ9Y-QLctdylrXLQ7CJNqEuxBaXbMrfYc6-wScVXnVXopd2oNKLMFY7p2VaWn22DhkKA7Z7zlJBEhsb5A3Ih9bOM11cTE9vyR-5pJTWA6kCtFC4tA8Zo7GtM6lyLBPatKyRrTFwH2WYNk0hB0sK1BJIurqsQnqVuUBJ2VMTRQVjuSGYdyPMU1mAlYVlxDQBIPYQ7dIiQeLIUlYXdN-dxmlrC3IHJSB8eKi1bC3AvOkUdC_NhxQbdwDpgfpUWI35SO7OLg-RLoQUF0p83GVTYgo6O6r5zR_-bq_dh0y_bDnP4AbYCABA",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=6LEhyXicHdBRboIwAADQ7DJ-KgVxamKWIC3IZg2tpdKfpRQUoVicTCZ_u8tOtdMs2TvC-_7R50v9-9SVXdfelpNJ3_fjkzEnXYyVaSby9rioiZJaZ1LVy9nzDLwc1Qp-Qm993Xgxa9vEJ9Y-QLctdylrXLQ7CJNqEuxBaXbMrfYc6-wScVXnVXopd2oNKLMFY7p2VaWn22DhkKA7Z7zlJBEhsb5A3Ih9bOM11cTE9vyR-5pJTWA6kCtFC4tA8Zo7GtM6lyLBPatKyRrTFwH2WYNk0hB0sK1BJIurqsQnqVuUBJ2VMTRQVjuSGYdyPMU1mAlYVlxDQBIPYQ7dIiQeLIUlYXdN-dxmlrC3IHJSB8eKi1bC3AvOkUdC_NhxQbdwDpgfpUWI35SO7OLg-RLoQUF0p83GVTYgo6O6r5zR_-bq_dh0y_bDnP4AbYCABA",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmVHTnBRVXd0WW5FNWNWbzNkakJ4TUVodGIyZHFZVmhhVDFsWGMzZHRTQzFEVVdsYWFXNDJSbVZwWTJ0aFNtTlpVVGQyTURVNGJWOXdiekpHWm5Nd1dUSk5VbnBOVVRNMWQxbzBTWEl5WDNVMmExUnJOMWwyY3prNGR4SVdkR2hMYW1Gdk5sTkdkak5TZDJOelVIRm1hV2hIUVJvaVFVUnpjamxtVTFGUE16RmxWMVp4VFhObFMxTlpTRXB0UzFCdGVXdG9ka2t6ZHciLCJmY3YiOiIzIiwiZWkiOiJ0aEtqYW82U0Z2M1J3Y3NQcWZpaEdBIiwicWMiOiJDaDUwZDJsdUlHeGhhMlZ6SUdocFoyZ2djMk5vYjI5c0lHbHVaR2xoYm1FUUFIM2VHUjhfIiwicXVlc3Rpb24iOiJXaGVuIGRpZCBUd2luIExha2VzIGhpZ2ggc2Nob29sIG9wZW4/IiwibGsiOiJHaVIzYUdWdUlHUnBaQ0IwZDJsdUlHeGhhMlZ6SUdocFoyZ2djMk5vYjI5c0lHOXdaVzQiLCJicyI6ImM0MlB5d3JDTUJSRWNYdFhyb09QS3o1V1ZyQi1RTmFDNEVhb080bE5OS0h4cGpTUl9MNkt0RmFvNEhyT0RIUGdCRW1tUlVEak1XaUYwelZXZ2dvbFVadXJScDlyNXl3YXdpMUpJMGp3ZE1XVzhaLUNlUmRnRF9OTUswSnBKQjdpTTlpSlF2a3YycFdLZUxwZ3MxaUQ0UVhhVGhBNERPdkhyYjJDWENTOHVJcW5JelpvSG41MkdnQ09zR2tyLTV1d1Z2bUE1ZjFzVGY1VGZNTEdEZHJ0MnU4OUFBIiwiaWQiOiJmY190aEtqYW82U0Z2M1J3Y3NQcWZpaEdBXzEifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmVHTnBRVXd0WW5FNWNWbzNkakJ4TUVodGIyZHFZVmhhVDFsWGMzZHRTQzFEVVdsYWFXNDJSbVZwWTJ0aFNtTlpVVGQyTURVNGJWOXdiekpHWm5Nd1dUSk5VbnBOVVRNMWQxbzBTWEl5WDNVMmExUnJOMWwyY3prNGR4SVdkR2hMYW1Gdk5sTkdkak5TZDJOelVIRm1hV2hIUVJvaVFVUnpjamxtVTFGUE16RmxWMVp4VFhObFMxTlpTRXB0UzFCdGVXdG9ka2t6ZHciLCJmY3YiOiIzIiwiZWkiOiJ0aEtqYW82U0Z2M1J3Y3NQcWZpaEdBIiwicWMiOiJDaDUwZDJsdUlHeGhhMlZ6SUdocFoyZ2djMk5vYjI5c0lHbHVaR2xoYm1FUUFIM2VHUjhfIiwicXVlc3Rpb24iOiJXaGVuIGRpZCBUd2luIExha2VzIGhpZ2ggc2Nob29sIG9wZW4%2FIiwibGsiOiJHaVIzYUdWdUlHUnBaQ0IwZDJsdUlHeGhhMlZ6SUdocFoyZ2djMk5vYjI5c0lHOXdaVzQiLCJicyI6ImM0MlB5d3JDTUJSRWNYdFhyb09QS3o1V1ZyQi1RTmFDNEVhb080bE5OS0h4cGpTUl9MNkt0RmFvNEhyT0RIUGdCRW1tUlVEak1XaUYwelZXZ2dvbFVadXJScDlyNXl3YXdpMUpJMGp3ZE1XVzhaLUNlUmRnRF9OTUswSnBKQjdpTTlpSlF2a3YycFdLZUxwZ3MxaUQ0UVhhVGhBNERPdkhyYjJDWENTOHVJcW5JelpvSG41MkdnQ09zR2tyLTV1d1Z2bUE1ZjFzVGY1VGZNTEdEZHJ0MnU4OUFBIiwiaWQiOiJmY190aEtqYW82U0Z2M1J3Y3NQcWZpaEdBXzEifQ%3D%3D"
+  },
+  {
+   "question": "What is Twin Lakes known for?",
+   "type": "ai_overview",
+   "page_token": "4IxsTnicHdBdboIwAADg7DI-alvETROzDCm4LsVZ2oJ9WWpRUcqPk4nytrvsVDvNkn1H-L5_7LEqfh_avG2by2w06rpueKjrg90NTV2O9OVemZHR1m61KWaTxwl83ps5_sLe4vzqrUXTSJ-BOFV3Y_Nx7BNPh_liJyIap0Eely7TMEhYQDqFbu-r0ErGs7HicqWwlUJiFPUFSsroTBFcUqfpdifSRSkJ2cn0SUo7kUrCYRALa2stiZZ-hDiiN41uXIDp0RQwZnYacocFBrJJ6khfFuRtA9wiK5tYg1xr4F5MSfhW1v0Ok7V2ArgtXSx5VLGeAimIz3qPCauKbJlXOFdA4_a8SZ6QAApRSJyNE61NohqNMy88Eo8to_sqUYJbtsmEhQrTMU-mV1m9ABPaozlZmhRjNz4pZ7A317kz-N-cf-zLdtZ81oc_oN9_zg",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=4IxsTnicHdBdboIwAADg7DI-alvETROzDCm4LsVZ2oJ9WWpRUcqPk4nytrvsVDvNkn1H-L5_7LEqfh_avG2by2w06rpueKjrg90NTV2O9OVemZHR1m61KWaTxwl83ps5_sLe4vzqrUXTSJ-BOFV3Y_Nx7BNPh_liJyIap0Eely7TMEhYQDqFbu-r0ErGs7HicqWwlUJiFPUFSsroTBFcUqfpdifSRSkJ2cn0SUo7kUrCYRALa2stiZZ-hDiiN41uXIDp0RQwZnYacocFBrJJ6khfFuRtA9wiK5tYg1xr4F5MSfhW1v0Ok7V2ArgtXSx5VLGeAimIz3qPCauKbJlXOFdA4_a8SZ6QAApRSJyNE61NohqNMy88Eo8to_sqUYJbtsmEhQrTMU-mV1m9ABPaozlZmhRjNz4pZ7A317kz-N-cf-zLdtZ81oc_oN9_zg",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmVHTnBRVXd0WW5FNWNWbzNkakJ4TUVodGIyZHFZVmhhVDFsWGMzZHRTQzFEVVdsYWFXNDJSbVZwWTJ0aFNtTlpVVGQyTURVNGJWOXdiekpHWm5Nd1dUSk5VbnBOVVRNMWQxbzBTWEl5WDNVMmExUnJOMWwyY3prNGR4SVdkR2hMYW1Gdk5sTkdkak5TZDJOelVIRm1hV2hIUVJvaVFVUnpjamxtVTFGUE16RmxWMVp4VFhObFMxTlpTRXB0UzFCdGVXdG9ka2t6ZHciLCJmY3YiOiIzIiwiZWkiOiJ0aEtqYW82U0Z2M1J3Y3NQcWZpaEdBIiwicWMiOiJDaDUwZDJsdUlHeGhhMlZ6SUdocFoyZ2djMk5vYjI5c0lHbHVaR2xoYm1FUUFIM2VHUjhfIiwicXVlc3Rpb24iOiJXaGF0IGlzIFR3aW4gTGFrZXMga25vd24gZm9yPyIsImxrIjoiR2h4M2FHRjBJR2x6SUhSM2FXNGdiR0ZyWlhNZ2EyNXZkMjRnWm05eSIsImJzIjoiYzQyUHl3ckNNQlJFY1h0WHJvT1BLejVXVnJCLVFOYUM0RWFvTzRsTk5LSHhwalNSX0w2S3RGYW80SHJPREhQZ0JFbW1SVURqTVdpRjB6VldnZ29sVVp1clJwOXI1eXdhd2kxSkkwandkTVdXOFotQ2VSZGdEX05NSzBKcEpCN2lNOWlKUXZrdjJwV0tlTHBnczFpRDRRWGFUaEE0RE92SHJiMkNYQ1M4dUlxbkl6Wm9IbjUyR2dDT3NHa3ItNXV3VnZtQTVmMXNUZjVUZk1MR0RkcnQydTg5QUEiLCJpZCI6ImZjX3RoS2phbzZTRnYzUndjc1BxZmloR0FfMSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmVHTnBRVXd0WW5FNWNWbzNkakJ4TUVodGIyZHFZVmhhVDFsWGMzZHRTQzFEVVdsYWFXNDJSbVZwWTJ0aFNtTlpVVGQyTURVNGJWOXdiekpHWm5Nd1dUSk5VbnBOVVRNMWQxbzBTWEl5WDNVMmExUnJOMWwyY3prNGR4SVdkR2hMYW1Gdk5sTkdkak5TZDJOelVIRm1hV2hIUVJvaVFVUnpjamxtVTFGUE16RmxWMVp4VFhObFMxTlpTRXB0UzFCdGVXdG9ka2t6ZHciLCJmY3YiOiIzIiwiZWkiOiJ0aEtqYW82U0Z2M1J3Y3NQcWZpaEdBIiwicWMiOiJDaDUwZDJsdUlHeGhhMlZ6SUdocFoyZ2djMk5vYjI5c0lHbHVaR2xoYm1FUUFIM2VHUjhfIiwicXVlc3Rpb24iOiJXaGF0IGlzIFR3aW4gTGFrZXMga25vd24gZm9yPyIsImxrIjoiR2h4M2FHRjBJR2x6SUhSM2FXNGdiR0ZyWlhNZ2EyNXZkMjRnWm05eSIsImJzIjoiYzQyUHl3ckNNQlJFY1h0WHJvT1BLejVXVnJCLVFOYUM0RWFvTzRsTk5LSHhwalNSX0w2S3RGYW80SHJPREhQZ0JFbW1SVURqTVdpRjB6VldnZ29sVVp1clJwOXI1eXdhd2kxSkkwandkTVdXOFotQ2VSZGdEX05NSzBKcEpCN2lNOWlKUXZrdjJwV0tlTHBnczFpRDRRWGFUaEE0RE92SHJiMkNYQ1M4dUlxbkl6Wm9IbjUyR2dDT3NHa3ItNXV3VnZtQTVmMXNUZjVUZk1MR0RkcnQydTg5QUEiLCJpZCI6ImZjX3RoS2phbzZTRnYzUndjc1BxZmloR0FfMSJ9"
+  },
+  {
+   "question": "What is the smallest public high school in Indiana?",
+   "type": "ai_overview",
+   "page_token": "fv_gaHicHdBdbpswAABg9TJ9bAys2YgUTSJ1TL0CtcF28ctkbAgJ5ieBlpC33qCH2Kl2mkn7jvB9_rHHrvl791VP0zBuVqt5nh8OfX-w5YPu25Ual06vtLK2ULrZrL-vnZ-V3sKPPNhddEDYMPAnCtKbXZeNdaWLd6mwr-TE0_x2uCaIjqQdFxHyvgx5XYaBiLifKHhtOHg8ckBcug-AQsDLOI806JcS-YoijNPWeNTDqGzZo2R4ehHW4adoLvdSmHDoCub_Krjfi9YmkhuWeRhHnQmpDSK6j6lAuBFvuC2eTC26Z8dAe07eMEjYFVGIXQ7rXZrRiVs-mhvOozCeSRZXrHmeM2jX-pR_iztcGeTvlOu8E0eeinZPYS2BgtM5Fz9cBqQbOdjLvZhoIQcFTYCOOKBhvCRCUhbKV46uF5JBQG3dRcw_54As7Ia7rKtHnjrBfaU_tt79_-nt76qdNsOlP_wDcG-Kng",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=fv_gaHicHdBdbpswAABg9TJ9bAys2YgUTSJ1TL0CtcF28ctkbAgJ5ieBlpC33qCH2Kl2mkn7jvB9_rHHrvl791VP0zBuVqt5nh8OfX-w5YPu25Ual06vtLK2ULrZrL-vnZ-V3sKPPNhddEDYMPAnCtKbXZeNdaWLd6mwr-TE0_x2uCaIjqQdFxHyvgx5XYaBiLifKHhtOHg8ckBcug-AQsDLOI806JcS-YoijNPWeNTDqGzZo2R4ehHW4adoLvdSmHDoCub_Krjfi9YmkhuWeRhHnQmpDSK6j6lAuBFvuC2eTC26Z8dAe07eMEjYFVGIXQ7rXZrRiVs-mhvOozCeSRZXrHmeM2jX-pR_iztcGeTvlOu8E0eeinZPYS2BgtM5Fz9cBqQbOdjLvZhoIQcFTYCOOKBhvCRCUhbKV46uF5JBQG3dRcw_54As7Ia7rKtHnjrBfaU_tt79_-nt76qdNsOlP_wDcG-Kng",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmVHTnBRVXd0WW5FNWNWbzNkakJ4TUVodGIyZHFZVmhhVDFsWGMzZHRTQzFEVVdsYWFXNDJSbVZwWTJ0aFNtTlpVVGQyTURVNGJWOXdiekpHWm5Nd1dUSk5VbnBOVVRNMWQxbzBTWEl5WDNVMmExUnJOMWwyY3prNGR4SVdkR2hMYW1Gdk5sTkdkak5TZDJOelVIRm1hV2hIUVJvaVFVUnpjamxtVTFGUE16RmxWMVp4VFhObFMxTlpTRXB0UzFCdGVXdG9ka2t6ZHciLCJmY3YiOiIzIiwiZWkiOiJ0aEtqYW82U0Z2M1J3Y3NQcWZpaEdBIiwicWMiOiJDaDUwZDJsdUlHeGhhMlZ6SUdocFoyZ2djMk5vYjI5c0lHbHVaR2xoYm1FUUFIM2VHUjhfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBzbWFsbGVzdCBwdWJsaWMgaGlnaCBzY2hvb2wgaW4gSW5kaWFuYT8iLCJsayI6IkdoOXpiV0ZzYkdWemRDQm9hV2RvSUhOamFHOXZiQ0JwYmlCcGJtUnBZVzVoIiwiYnMiOiJjNDJQeXdyQ01CUkVjWHRYcm9PUEt6NVdWckItUU5hQzRFYW9PNGxOTktIeHBqU1JfTDZLdEZhbzRIck9ESFBnQkVtbVJVRGpNV2lGMHpWV2dnb2xVWnVyUnA5cjV5d2F3aTFKSTBqd2RNV1c4Wi1DZVJkZ0RfTk1LMEpwSkI3aU05aUpRdmt2MnBXS2VMcGdzMWlENFFYYVRoQTRET3ZIcmIyQ1hDUzh1SXFuSXpab0huNTJHZ0NPc0drci01dXdWdm1BNWYxc1RmNVRmTUxHRGRydDJ1ODlBQSIsImlkIjoiZmNfdGhLamFvNlNGdjNSd2NzUHFmaWhHQV8xIn0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSmVHTnBRVXd0WW5FNWNWbzNkakJ4TUVodGIyZHFZVmhhVDFsWGMzZHRTQzFEVVdsYWFXNDJSbVZwWTJ0aFNtTlpVVGQyTURVNGJWOXdiekpHWm5Nd1dUSk5VbnBOVVRNMWQxbzBTWEl5WDNVMmExUnJOMWwyY3prNGR4SVdkR2hMYW1Gdk5sTkdkak5TZDJOelVIRm1hV2hIUVJvaVFVUnpjamxtVTFGUE16RmxWMVp4VFhObFMxTlpTRXB0UzFCdGVXdG9ka2t6ZHciLCJmY3YiOiIzIiwiZWkiOiJ0aEtqYW82U0Z2M1J3Y3NQcWZpaEdBIiwicWMiOiJDaDUwZDJsdUlHeGhhMlZ6SUdocFoyZ2djMk5vYjI5c0lHbHVaR2xoYm1FUUFIM2VHUjhfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBzbWFsbGVzdCBwdWJsaWMgaGlnaCBzY2hvb2wgaW4gSW5kaWFuYT8iLCJsayI6IkdoOXpiV0ZzYkdWemRDQm9hV2RvSUhOamFHOXZiQ0JwYmlCcGJtUnBZVzVoIiwiYnMiOiJjNDJQeXdyQ01CUkVjWHRYcm9PUEt6NVdWckItUU5hQzRFYW9PNGxOTktIeHBqU1JfTDZLdEZhbzRIck9ESFBnQkVtbVJVRGpNV2lGMHpWV2dnb2xVWnVyUnA5cjV5d2F3aTFKSTBqd2RNV1c4Wi1DZVJkZ0RfTk1LMEpwSkI3aU05aUpRdmt2MnBXS2VMcGdzMWlENFFYYVRoQTRET3ZIcmIyQ1hDUzh1SXFuSXpab0huNTJHZ0NPc0drci01dXdWdm1BNWYxc1RmNVRmTUxHRGRydDJ1ODlBQSIsImlkIjoiZmNfdGhLamFvNlNGdjNSd2NzUHFmaWhHQV8xIn0%3D"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Twin Lakes School Corporation - Home",
+   "link": "https://www.tlschools.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUgHrOzAVHWojo0iq15HGOmzgT-ZncrE7mG4pSFEt8p6m_GBrDBWxEZnMyY7DuyG5rlFxe8u6gMyxAq4Xjw1p4dMzjbDayfkCQNUC5Ax-YhA1OWg&ved=2ahUKEwiOxZzi7OSWAxX9aHADHSl8CAMQFnoECEoQAQ&uoh=1",
+   "displayed_link": "https://www.tlschools.org",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAh1BMVEVHcEwAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAD____CGiHBICbEExt0eHhcDRBgX1-doKDKTVCEhYU7OjqpqqpHRUUjLS2ws7O9v78WGRmRlJSIUFI8CAmpUlRRUFCZWlu9Q0a-XmCpRUhrVFXh4uLKLTF2PD3P0dFqa2uJQkOueHrv8vLSwiR-AAAACnRSTlMACdH_SuYXl3MsjY0OcQAAAa5JREFUKJFlkteaozAMhZMIQnFs3OklBAhk5v2fb2XDZHeyutDN_x3pqJxO70jiCCO4nv6LcwSV7jm3AGH8wWLQzAolCsWVyiH4l12AGWZ1pSHPmRAMor8sBC5sXhT11jR1DXkt9JtebMkrY3gjb_RRpCmDWumjcZyXChjvFkpuxMG0wC6QeJ_AFNiRECJvB0wNCHVxMIKsGhYUyVxSusO0rzIvBZRRiiIJYzexqS0RzpA5xwlMd0K_kC566iShj9JLkTo7kpBBE5QySrB6U-5dM7ieohwH6CxCyu6uOPNNV4SBg7Tjk1P2DQrvwsP5Bw4q5c7ReEBTrN87jCsOqYf0B-rH66nBzRJAC6sY0Er39LBOe0ro4N2eMauNLl0v1hfCUTM0QBCGbu1tC1xagyaeaOsm5YL9hwzc6gOUQu0c8jsumFCfhhbO_pptdkBKZYdmnk03fh33TiBrQSG0r4mJcv6eKzQZvh8o0321pmZO983Z1u3uTWu8N6ayNAx6U-j91HsEeHBl8DE135QQPPz1vPi2GzOCb2WR9_D5uOdrFEJl8woun-iIa5L8qvcH9S8nJexe8AgAAAAASUVORK5CYII.png",
+   "snippet": "FREE Heart Screenings. Twin Lakes High School is hosting free heart screenings for youth ages 12\u201322 on August 24 & 25, 2026, from 8:00 AM\u20134:00 PM in the ...",
+   "snippet_highlighted_words": [
+    "Twin Lakes High School"
+   ],
+   "sitelinks": {
+    "inline": [
+     {
+      "title": "Search",
+      "link": "https://www.tlschools.org/search"
+     },
+     {
+      "title": "Students",
+      "link": "https://www.tlschools.org/students"
+     },
+     {
+      "title": "Parents",
+      "link": "https://www.tlschools.org/parents"
+     },
+     {
+      "title": "Staff",
+      "link": "https://www.tlschools.org/staff"
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "FREE Heart Screenings. Twin Lakes High School is hosting free heart screenings for youth ages 12\u201322 on August 24 & 25, 2026, from 8:00 AM\u20134:00 PM in the ...",
+     "source_info_link": "https://www.tlschools.org/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAh1BMVEVHcEwAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAD____CGiHBICbEExt0eHhcDRBgX1-doKDKTVCEhYU7OjqpqqpHRUUjLS2ws7O9v78WGRmRlJSIUFI8CAmpUlRRUFCZWlu9Q0a-XmCpRUhrVFXh4uLKLTF2PD3P0dFqa2uJQkOueHrv8vLSwiR-AAAACnRSTlMACdH_SuYXl3MsjY0OcQAAAa5JREFUKJFlkteaozAMhZMIQnFs3OklBAhk5v2fb2XDZHeyutDN_x3pqJxO70jiCCO4nv6LcwSV7jm3AGH8wWLQzAolCsWVyiH4l12AGWZ1pSHPmRAMor8sBC5sXhT11jR1DXkt9JtebMkrY3gjb_RRpCmDWumjcZyXChjvFkpuxMG0wC6QeJ_AFNiRECJvB0wNCHVxMIKsGhYUyVxSusO0rzIvBZRRiiIJYzexqS0RzpA5xwlMd0K_kC566iShj9JLkTo7kpBBE5QySrB6U-5dM7ieohwH6CxCyu6uOPNNV4SBg7Tjk1P2DQrvwsP5Bw4q5c7ReEBTrN87jCsOqYf0B-rH66nBzRJAC6sY0Er39LBOe0ro4N2eMauNLl0v1hfCUTM0QBCGbu1tC1xagyaeaOsm5YL9hwzc6gOUQu0c8jsumFCfhhbO_pptdkBKZYdmnk03fh33TiBrQSG0r4mJcv6eKzQZvh8o0321pmZO983Z1u3uTWu8N6ayNAx6U-j91HsEeHBl8DE135QQPPz1vPi2GzOCb2WR9_D5uOdrFEJl8woun-iIa5L8qvcH9S8nJexe8AgAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESUgHrOzAVHWojo0iq15HGOmzgT-ZncrE7mG4pSFEt8p6m_GBrDBWxEZnMyY7DuyG5rlFxe8u6gMyxAq4Xjw1p4dMzjbDayfkCQNUC5Ax-YhA1OWg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESUgHrOzAVHWojo0iq15HGOmzgT-ZncrE7mG4pSFEt8p6m_GBrDBWxEZnMyY7DuyG5rlFxe8u6gMyxAq4Xjw1p4dMzjbDayfkCQNUC5Ax-YhA1OWg",
+   "source": "Twin Lakes School Corporation",
+   "read_more_link": "https://www.tlschools.org/#:~:text=Twin%20Lakes%20School%20Corporation"
+  },
+  {
+   "position": 2,
+   "title": "Twin Lakes High School - Home",
+   "link": "https://tlhs.tlschools.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUwHrOzAVFC_SbFOqZ8UXVOrRkhre_BKSbXzIfTHRtNRvUT5pW-7bc_X36Ay01dOwniwG7jy_-EVlMgIWMGL-mtUorc64gOcO9gXmCFwLVAZyyGB4&ved=2ahUKEwiOxZzi7OSWAxX9aHADHSl8CAMQFnoECE4QAQ&uoh=1",
+   "displayed_link": "https://tlhs.tlschools.org",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAh1BMVEVHcEwAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAD____CGiHBICbEExt0eHhcDRBgX1-doKDKTVCEhYU7OjqpqqpHRUUjLS2ws7O9v78WGRmRlJSIUFI8CAmpUlRRUFCZWlu9Q0a-XmCpRUhrVFXh4uLKLTF2PD3P0dFqa2uJQkOueHrv8vLSwiR-AAAACnRSTlMACdH_SuYXl3MsjY0OcQAAAa5JREFUKJFlkteaozAMhZMIQnFs3OklBAhk5v2fb2XDZHeyutDN_x3pqJxO70jiCCO4nv6LcwSV7jm3AGH8wWLQzAolCsWVyiH4l12AGWZ1pSHPmRAMor8sBC5sXhT11jR1DXkt9JtebMkrY3gjb_RRpCmDWumjcZyXChjvFkpuxMG0wC6QeJ_AFNiRECJvB0wNCHVxMIKsGhYUyVxSusO0rzIvBZRRiiIJYzexqS0RzpA5xwlMd0K_kC566iShj9JLkTo7kpBBE5QySrB6U-5dM7ieohwH6CxCyu6uOPNNV4SBg7Tjk1P2DQrvwsP5Bw4q5c7ReEBTrN87jCsOqYf0B-rH66nBzRJAC6sY0Er39LBOe0ro4N2eMauNLl0v1hfCUTM0QBCGbu1tC1xagyaeaOsm5YL9hwzc6gOUQu0c8jsumFCfhhbO_pptdkBKZYdmnk03fh33TiBrQSG0r4mJcv6eKzQZvh8o0321pmZO983Z1u3uTWu8N6ayNAx6U-j91HsEeHBl8DE135QQPPz1vPi2GzOCb2WR9_D5uOdrFEJl8woun-iIa5L8qvcH9S8nJexe8AgAAAAASUVORK5CYII.png",
+   "snippet": "FREE Heart Screenings. Twin Lakes High School is hosting free heart screenings for youth ages 12\u201322 on August 24 & 25, 2026, from 8:00 AM\u20134:00 PM in the ...",
+   "snippet_highlighted_words": [
+    "Twin Lakes High School"
+   ],
+   "sitelinks": {
+    "inline": [
+     {
+      "title": "Staff",
+      "link": "https://tlhs.tlschools.org/staff"
+     },
+     {
+      "title": "Search",
+      "link": "https://tlhs.tlschools.org/search"
+     },
+     {
+      "title": "Students",
+      "link": "https://tlhs.tlschools.org/students"
+     },
+     {
+      "title": "Parents",
+      "link": "https://tlhs.tlschools.org/parents"
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "FREE Heart Screenings. Twin Lakes High School is hosting free heart screenings for youth ages 12\u201322 on August 24 & 25, 2026, from 8:00 AM\u20134:00 PM in the ...",
+     "source_info_link": "https://tlhs.tlschools.org/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAh1BMVEVHcEwAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAD____CGiHBICbEExt0eHhcDRBgX1-doKDKTVCEhYU7OjqpqqpHRUUjLS2ws7O9v78WGRmRlJSIUFI8CAmpUlRRUFCZWlu9Q0a-XmCpRUhrVFXh4uLKLTF2PD3P0dFqa2uJQkOueHrv8vLSwiR-AAAACnRSTlMACdH_SuYXl3MsjY0OcQAAAa5JREFUKJFlkteaozAMhZMIQnFs3OklBAhk5v2fb2XDZHeyutDN_x3pqJxO70jiCCO4nv6LcwSV7jm3AGH8wWLQzAolCsWVyiH4l12AGWZ1pSHPmRAMor8sBC5sXhT11jR1DXkt9JtebMkrY3gjb_RRpCmDWumjcZyXChjvFkpuxMG0wC6QeJ_AFNiRECJvB0wNCHVxMIKsGhYUyVxSusO0rzIvBZRRiiIJYzexqS0RzpA5xwlMd0K_kC566iShj9JLkTo7kpBBE5QySrB6U-5dM7ieohwH6CxCyu6uOPNNV4SBg7Tjk1P2DQrvwsP5Bw4q5c7ReEBTrN87jCsOqYf0B-rH66nBzRJAC6sY0Er39LBOe0ro4N2eMauNLl0v1hfCUTM0QBCGbu1tC1xagyaeaOsm5YL9hwzc6gOUQu0c8jsumFCfhhbO_pptdkBKZYdmnk03fh33TiBrQSG0r4mJcv6eKzQZvh8o0321pmZO983Z1u3uTWu8N6ayNAx6U-j91HsEeHBl8DE135QQPPz1vPi2GzOCb2WR9_D5uOdrFEJl8woun-iIa5L8qvcH9S8nJexe8AgAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESUwHrOzAVFC_SbFOqZ8UXVOrRkhre_BKSbXzIfTHRtNRvUT5pW-7bc_X36Ay01dOwniwG7jy_-EVlMgIWMGL-mtUorc64gOcO9gXmCFwLVAZyyGB4&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESUwHrOzAVFC_SbFOqZ8UXVOrRkhre_BKSbXzIfTHRtNRvUT5pW-7bc_X36Ay01dOwniwG7jy_-EVlMgIWMGL-mtUorc64gOcO9gXmCFwLVAZyyGB4",
+   "source": "Twin Lakes School Corporation",
+   "read_more_link": "https://tlhs.tlschools.org/#:~:text=Twin%20Lakes%20High%20School"
+  },
+  {
+   "position": 3,
+   "title": "Twin Lakes High School",
+   "link": "https://en.wikipedia.org/wiki/Twin_Lakes_High_School",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHrOzAV8AgGm8HeKXqqMhlsnKe3S7ZrSn9w0JJF3hEEG686X_VxXvq0y-zsRGN-ABP_rFUjGJCxZ0OVoGmh2UeoWbPWJub_C5L5anZpehXZfJVaAyjUmkjx1S9yX9cOBC_kaI0VK97gJ2_Vog&ved=2ahUKEwiOxZzi7OSWAxX9aHADHSl8CAMQFnoECE0QAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Twin_Lakes_High_Sc...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+   "snippet": "Twin Lakes Senior High School is a public high school located in Monticello, Indiana. ... \"Twin Lakes High School\". National Center for Education Statistics ...",
+   "snippet_highlighted_words": [
+    "Indiana",
+    "Twin Lakes High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Twin Lakes Senior High School is a public high school located in Monticello, Indiana. ... \"Twin Lakes High School\". National Center for Education Statistics ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Twin_Lakes_High_School",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESbAHrOzAV8AgGm8HeKXqqMhlsnKe3S7ZrSn9w0JJF3hEEG686X_VxXvq0y-zsRGN-ABP_rFUjGJCxZ0OVoGmh2UeoWbPWJub_C5L5anZpehXZfJVaAyjUmkjx1S9yX9cOBC_kaI0VK97gJ2_Vog&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESbAHrOzAV8AgGm8HeKXqqMhlsnKe3S7ZrSn9w0JJF3hEEG686X_VxXvq0y-zsRGN-ABP_rFUjGJCxZ0OVoGmh2UeoWbPWJub_C5L5anZpehXZfJVaAyjUmkjx1S9yX9cOBC_kaI0VK97gJ2_Vog",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Twin_Lakes_High_School#:~:text=Twin%20Lakes%20Senior%20High%20School,school%20located%20in%20Monticello%2C%20Indiana.&text=%22Twin%20Lakes%20High%20School%22.%20National,Center%20for%20Education%20Statistics."
+  },
+  {
+   "position": 4,
+   "title": "Twin Lakes High School -Monticello, IN",
+   "link": "https://www.facebook.com/p/Twin-Lakes-High-School-Monticello-IN-61566188706508/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShwEB6zswFSb53KxSWyD9qAdwgmjLwWyKEOyI8AhpnLOh-vLlmdmRMcU9I8K25pT6WsVFqOmlfhJK7Z_OSrqEIiGEpPdd5-t2_kLOUOV2hUY0nBys-CAysnn44Kn_Ur1jfD-arS2vnYnvVIW53Yq_080yLiNDGN-BaotZxbxuSoOfyomqgYjzgKM&ved=2ahUKEwiOxZzi7OSWAxX9aHADHSl8CAMQFnoECEkQAQ&uoh=1",
+   "displayed_link": "1K+ followers",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "snippet": "Twin Lakes High School -Monticello, IN. 1058 likes \u00b7 299 talking about this. The Official Twin Lakes High School Facebook page.",
+   "snippet_highlighted_words": [
+    "Twin Lakes High School",
+    "Twin Lakes High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Twin Lakes High School -Monticello, IN. 1058 likes \u00b7 299 talking about this. The Official Twin Lakes High School Facebook page.",
+     "source_info_link": "https://www.facebook.com/p/Twin-Lakes-High-School-Monticello-IN-61566188706508/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEShwEB6zswFSb53KxSWyD9qAdwgmjLwWyKEOyI8AhpnLOh-vLlmdmRMcU9I8K25pT6WsVFqOmlfhJK7Z_OSrqEIiGEpPdd5-t2_kLOUOV2hUY0nBys-CAysnn44Kn_Ur1jfD-arS2vnYnvVIW53Yq_080yLiNDGN-BaotZxbxuSoOfyomqgYjzgKM&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEShwEB6zswFSb53KxSWyD9qAdwgmjLwWyKEOyI8AhpnLOh-vLlmdmRMcU9I8K25pT6WsVFqOmlfhJK7Z_OSrqEIiGEpPdd5-t2_kLOUOV2hUY0nBys-CAysnn44Kn_Ur1jfD-arS2vnYnvVIW53Yq_080yLiNDGN-BaotZxbxuSoOfyomqgYjzgKM",
+   "source": "Facebook \u00b7 Twin Lakes High School -Monticello, IN"
+  },
+  {
+   "position": 5,
+   "title": "Twin Lakes Senior High School in Monticello, IN",
+   "link": "https://www.niche.com/k12/twin-lakes-senior-high-school-monticello-in/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfgHrOzAV4noQQefIhdMO-hNbGzFP-lxib9BhBnVN4680XfcoGdUpGSmyy-slegMY4GKAfeYM-2jIZDrZ8dlUqmRf5sHb0BqGYAY7-SZCRN8eAb8cjI0qSE3IjgwNBJky023PIxosTRGJfwz6TQtJ9xja48X1s0_2MjV4VKNbLQ&ved=2ahUKEwiOxZzi7OSWAxX9aHADHSl8CAMQFnoECEwQAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a Indiana",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png",
+   "snippet": "Twin Lakes High School faces some challenges with social dynamics, including issues with peer pressure, cliques, and favoritism. Students outside of the popular ...",
+   "snippet_highlighted_words": [
+    "Twin Lakes High School"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 3.8,
+      "reviews": 95
+     },
+     "extensions": [
+      "3.8(95)"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Twin Lakes High School faces some challenges with social dynamics, including issues with peer pressure, cliques, and favoritism. Students outside of the popular ...",
+     "source_info_link": "https://www.niche.com/k12/twin-lakes-senior-high-school-monticello-in/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESfgHrOzAV4noQQefIhdMO-hNbGzFP-lxib9BhBnVN4680XfcoGdUpGSmyy-slegMY4GKAfeYM-2jIZDrZ8dlUqmRf5sHb0BqGYAY7-SZCRN8eAb8cjI0qSE3IjgwNBJky023PIxosTRGJfwz6TQtJ9xja48X1s0_2MjV4VKNbLQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESfgHrOzAV4noQQefIhdMO-hNbGzFP-lxib9BhBnVN4680XfcoGdUpGSmyy-slegMY4GKAfeYM-2jIZDrZ8dlUqmRf5sHb0BqGYAY7-SZCRN8eAb8cjI0qSE3IjgwNBJky023PIxosTRGJfwz6TQtJ9xja48X1s0_2MjV4VKNbLQ",
+   "source": "Niche",
+   "read_more_link": "https://www.niche.com/k12/twin-lakes-senior-high-school-monticello-in/#:~:text=View%20all%20questions"
+  },
+  {
+   "position": 6,
+   "title": "Twin Lakes High School - Indiana",
+   "link": "https://www.donorschoose.org/schools/indiana/twin-lakes-school-corporation/twin-lakes-high-school/19473",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnwEB6zswFfs5FPnx_OzKspM7MnWT9BP3NXWNST6hoOTLv6jvsxJCrr0ZBH6hhtv84OkdLXdzrI-_tMA6b_D58MgL-R_VD7dRd3EdWG1JIsTUUdlkj8lDaFSk-ttMQ05rq7EAAWlSSj5aTPqIEEJ-HJWtYOJbpfHi6z3gCkauVP3NiXYJR5xNpMGl4nILByuO2F6ECk9PQlqCdNOsk0IC8GY&ved=2ahUKEwiOxZzi7OSWAxX9aHADHSl8CAMQFnoECEQQAQ&uoh=1",
+   "displayed_link": "https://www.donorschoose.org \u203a schools \u203a indiana \u203a twi...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEU4A8E4AcE4AME3CMA1DL8zEb0vGLovGboyE7wwFrslA7hhVcaAd9B9dM9lWcgbALe_u-b____e3PJ3bc25teTEwOixrOE2IbzJxeqKgtORitaoot0AALLp5_drYMqak9minNtEM7_oabQTAAAA3klEQVR4AXWSBRIDIQwAITh1d_v_J0uQTI7SHWUWiAqOTIghAEonFMCvUsa6jPUKOmecJZyfysAcolhs2-PIQkhHHzMmVM3j-dl8gSz9KmYZIEuF8VbrTWW7W-WPNT20q_2GOGTrAaVFUBJHtI5-Rck4hfqvZvJ8OWd5XSVpQEgub6v7g_79J28juX6W0POYvx0ntMoJyWEpLyoFfC_3K-pf375Ha58sT5ONuzfymn944xE8xFUmhjbQbKiDHKeBVlINHeEdU6HbP9Ae1xLXM-jB5gptElrAeOslwMR8AZhOFkQFCdvDAAAAAElFTkSuQmCC.png",
+   "snippet": "Twin Lakes High School is a town public school in Monticello, Indiana that is part of Twin Lakes School Corporation. It serves 609 students in grades 9 - 12 ...",
+   "snippet_highlighted_words": [
+    "Twin Lakes High School",
+    "Indiana"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Twin Lakes High School is a town public school in Monticello, Indiana that is part of Twin Lakes School Corporation. It serves 609 students in grades 9 - 12 ...",
+     "source_info_link": "https://www.donorschoose.org/schools/indiana/twin-lakes-school-corporation/twin-lakes-high-school/19473",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEU4A8E4AcE4AME3CMA1DL8zEb0vGLovGboyE7wwFrslA7hhVcaAd9B9dM9lWcgbALe_u-b____e3PJ3bc25teTEwOixrOE2IbzJxeqKgtORitaoot0AALLp5_drYMqak9minNtEM7_oabQTAAAA3klEQVR4AXWSBRIDIQwAITh1d_v_J0uQTI7SHWUWiAqOTIghAEonFMCvUsa6jPUKOmecJZyfysAcolhs2-PIQkhHHzMmVM3j-dl8gSz9KmYZIEuF8VbrTWW7W-WPNT20q_2GOGTrAaVFUBJHtI5-Rck4hfqvZvJ8OWd5XSVpQEgub6v7g_79J28juX6W0POYvx0ntMoJyWEpLyoFfC_3K-pf375Ha58sT5ONuzfymn944xE8xFUmhjbQbKiDHKeBVlINHeEdU6HbP9Ae1xLXM-jB5gptElrAeOslwMR8AZhOFkQFCdvDAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESnwEB6zswFfs5FPnx_OzKspM7MnWT9BP3NXWNST6hoOTLv6jvsxJCrr0ZBH6hhtv84OkdLXdzrI-_tMA6b_D58MgL-R_VD7dRd3EdWG1JIsTUUdlkj8lDaFSk-ttMQ05rq7EAAWlSSj5aTPqIEEJ-HJWtYOJbpfHi6z3gCkauVP3NiXYJR5xNpMGl4nILByuO2F6ECk9PQlqCdNOsk0IC8GY&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESnwEB6zswFfs5FPnx_OzKspM7MnWT9BP3NXWNST6hoOTLv6jvsxJCrr0ZBH6hhtv84OkdLXdzrI-_tMA6b_D58MgL-R_VD7dRd3EdWG1JIsTUUdlkj8lDaFSk-ttMQ05rq7EAAWlSSj5aTPqIEEJ-HJWtYOJbpfHi6z3gCkauVP3NiXYJR5xNpMGl4nILByuO2F6ECk9PQlqCdNOsk0IC8GY",
+   "source": "DonorsChoose",
+   "read_more_link": "https://www.donorschoose.org/schools/indiana/twin-lakes-school-corporation/twin-lakes-high-school/19473#:~:text=Twin%20Lakes%20High%20School%20is,a%20student%2Fteacher%20ratio%20of%2011.9%3A1."
+  },
+  {
+   "position": 7,
+   "title": "Twin Lakes High School",
+   "link": "https://websites.eventlink.com/s/twin-lakes",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAV4dEpSFyegHyTr_l98_9qiF8iQOLfgqqYBGhE-bpowt7qJi5WHwMvHVqzEvfcqpVu24BxcXsIm_qKXWzi389_Eqk7sxwQvzXeBVOlddaDiFIBazOhgEeUmWpchxaz3g&ved=2ahUKEwiOxZzi7OSWAxX9aHADHSl8CAMQFnoECEIQAQ&uoh=1",
+   "displayed_link": "https://websites.eventlink.com \u203a twin-lakes",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAe1BMVEVHcEzn-ra35GOj3DWc2Suh2zKw4VLb8qSc2SaS1QSX2Bam3jzC6nLW9JWa2R7J7n2b2SprXndST1NSSlj49ulXVVcjHyAdGRo7OTnd56peW1xDQEFeXV0-OzwuKywrKCkuKywrKSlqZ2jE6mCIcp6b2Srp96yl3D2r30d98XwuAAAAKXRSTlMAE1ujyrVwG-v_-ns5JvQw1idgQgOL__--CEyifNvy6PnqCgkX4QqSir2-a9YAAACgSURBVHgB3dDVAcIwFAXQW288lAjutv-CeL0dAM5f5Cn-UhBGcZJmGBLm5IWyoTdCIh4IJkmEHqU5JsUUgSYhegys8242F0TP68svLNyTXyIhysxfgNW6tHEvW8OIzN9i2N3Xxr3tn49Uvmng8IWiSsvN8cWgYem8X58EOV_QoWKOqS1MoEk6tISrmmepJAn6QknebhiSpYmObwJjDH7YAwipDkK5XUFqAAAAAElFTkSuQmCC.png",
+   "snippet": "Twin Lakes High School. Powered By Eventlink logo. 300 S 3RD ST. MONTICELLO, IN 47960. 574-583-4854. Privacy Policy \u00b7 Terms Of Service. English Espa\u00f1ol. Toggle ...",
+   "snippet_highlighted_words": [
+    "Twin Lakes High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Twin Lakes High School. Powered By Eventlink logo. 300 S 3RD ST. MONTICELLO, IN 47960. 574-583-4854. Privacy Policy \u00b7 Terms Of Service. English Espa\u00f1ol. Toggle ...",
+     "source_info_link": "https://websites.eventlink.com/s/twin-lakes",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAe1BMVEVHcEzn-ra35GOj3DWc2Suh2zKw4VLb8qSc2SaS1QSX2Bam3jzC6nLW9JWa2R7J7n2b2SprXndST1NSSlj49ulXVVcjHyAdGRo7OTnd56peW1xDQEFeXV0-OzwuKywrKCkuKywrKSlqZ2jE6mCIcp6b2Srp96yl3D2r30d98XwuAAAAKXRSTlMAE1ujyrVwG-v_-ns5JvQw1idgQgOL__--CEyifNvy6PnqCgkX4QqSir2-a9YAAACgSURBVHgB3dDVAcIwFAXQW288lAjutv-CeL0dAM5f5Cn-UhBGcZJmGBLm5IWyoTdCIh4IJkmEHqU5JsUUgSYhegys8242F0TP68svLNyTXyIhysxfgNW6tHEvW8OIzN9i2N3Xxr3tn49Uvmng8IWiSsvN8cWgYem8X58EOV_QoWKOqS1MoEk6tISrmmepJAn6QknebhiSpYmObwJjDH7YAwipDkK5XUFqAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYwHrOzAV4dEpSFyegHyTr_l98_9qiF8iQOLfgqqYBGhE-bpowt7qJi5WHwMvHVqzEvfcqpVu24BxcXsIm_qKXWzi389_Eqk7sxwQvzXeBVOlddaDiFIBazOhgEeUmWpchxaz3g&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYwHrOzAV4dEpSFyegHyTr_l98_9qiF8iQOLfgqqYBGhE-bpowt7qJi5WHwMvHVqzEvfcqpVu24BxcXsIm_qKXWzi389_Eqk7sxwQvzXeBVOlddaDiFIBazOhgEeUmWpchxaz3g",
+   "source": "Eventlink",
+   "read_more_link": "https://websites.eventlink.com/s/twin-lakes#:~:text=Twin%20Lakes%20High%20School,Toggle%20High%20Contrast%20Mode"
+  },
+  {
+   "position": 8,
+   "title": "Twin Lakes (Monticello, IN) High School Sports",
+   "link": "https://www.maxpreps.com/in/monticello/twin-lakes-indians/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScgHrOzAVfdsu6pdZrrDDBUwWLTsoKGeQn-4Hg6GeNnQ0_oNpnOfd17Aq9pCnBkPrAPb0dBWxPgnw33kcsbaZR8Y4afD0Q7-d05aNaSHW4kLkLtdnSUgJSqEIxWSGdPPwt9AKzF7Fu62NB6LKfPY_JbAhnA&ved=2ahUKEwiOxZzi7OSWAxX9aHADHSl8CAMQFnoECHkQAQ&uoh=1",
+   "displayed_link": "https://www.maxpreps.com \u203a Indiana",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEzhBADhBADhBADhBQDhBQDhBADhBADhBADhBQDhBQDhBADhBADhBQDhBADhBQBqDGaWAAAAD3RSTlMANHaA7NyWEEjPqCVevglnZLSWAAAAqElEQVQokaWSSxaFIAxDU0pFBM3-d_vkM3pUJ3YAHEJvQwH4GlcIQQUoei_Sv2okD2C7p7ikhrHbzugilnuXMsa1aCZPkYO0pSSgjJWsxs3xW5iV3E6H2v1WsxpXr5OrIbpUQNhjd0XELvoajqadD-Jb5mtNHaLv1obo3rNwhtehRo32wM3ttduJfPled_G5nZr6XVduHt1pXTKXWoHd64PML5nmF_0YP5WLCXU498sLAAAAAElFTkSuQmCC.png",
+   "snippet": "Coverage of Twin Lakes High School sports including Baseball, Basketball, Cross Country, Flag Football, Football, Golf, Soccer, Softball, Swimming, Tennis, ...",
+   "snippet_highlighted_words": [
+    "Twin Lakes High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Coverage of Twin Lakes High School sports including Baseball, Basketball, Cross Country, Flag Football, Football, Golf, Soccer, Softball, Swimming, Tennis, ...",
+     "source_info_link": "https://www.maxpreps.com/in/monticello/twin-lakes-indians/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEzhBADhBADhBADhBQDhBQDhBADhBADhBADhBQDhBQDhBADhBADhBQDhBADhBQBqDGaWAAAAD3RSTlMANHaA7NyWEEjPqCVevglnZLSWAAAAqElEQVQokaWSSxaFIAxDU0pFBM3-d_vkM3pUJ3YAHEJvQwH4GlcIQQUoei_Sv2okD2C7p7ikhrHbzugilnuXMsa1aCZPkYO0pSSgjJWsxs3xW5iV3E6H2v1WsxpXr5OrIbpUQNhjd0XELvoajqadD-Jb5mtNHaLv1obo3rNwhtehRo32wM3ttduJfPled_G5nZr6XVduHt1pXTKXWoHd64PML5nmF_0YP5WLCXU498sLAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEScgHrOzAVfdsu6pdZrrDDBUwWLTsoKGeQn-4Hg6GeNnQ0_oNpnOfd17Aq9pCnBkPrAPb0dBWxPgnw33kcsbaZR8Y4afD0Q7-d05aNaSHW4kLkLtdnSUgJSqEIxWSGdPPwt9AKzF7Fu62NB6LKfPY_JbAhnA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEScgHrOzAVfdsu6pdZrrDDBUwWLTsoKGeQn-4Hg6GeNnQ0_oNpnOfd17Aq9pCnBkPrAPb0dBWxPgnw33kcsbaZR8Y4afD0Q7-d05aNaSHW4kLkLtdnSUgJSqEIxWSGdPPwt9AKzF7Fu62NB6LKfPY_JbAhnA",
+   "source": "MaxPreps"
+  },
+  {
+   "position": 9,
+   "title": "Twin Lakes Indians (@twinlakesindians) \u00b7 Monticello, IN",
+   "link": "https://www.instagram.com/twinlakesindians/?hl=en",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVEYEwfmaFIKosckjDNozh1ksiDslZFVpPtAmUoz1PVhNW_e6UTCYOSoC9RJIBWHJkUwdYe27In-H0JGZBH0c6nJ073K6YoN4-PwPwCADtkr6ZAEzNJxCriLv66-INOEa6lKq-Nw&ved=2ahUKEwiOxZzi7OSWAxX9aHADHSl8CAMQFnoECHsQAQ&uoh=1",
+   "displayed_link": "1.6K+ followers",
+   "favicon": "https://serpapi.com/searches/6aa312b3d08cfee0ae14c611/images/0a4vx4wK2YA8NF2lfa2P_R_sXBzcBgJndt3MnGpioL0.png",
+   "snippet": "Twin Lakes High School Academic All Stars The following students are Twin Lakes High School Rising Stars of Indiana ... Indiana Association of School ...",
+   "snippet_highlighted_words": [
+    "Twin Lakes High School",
+    "Twin Lakes High School",
+    "Indiana",
+    "Indiana"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Twin Lakes High School Academic All Stars The following students are Twin Lakes High School Rising Stars of Indiana ... Indiana Association of School ...",
+     "source_info_link": "https://www.instagram.com/twinlakesindians/?hl=en",
+     "icon": "https://serpapi.com/searches/6aa312b3d08cfee0ae14c611/images/0a4vx4wK2YA8NF2lfa2P_XgsJnR8CGsestUIVfEjOCNEF_RxnQRrVODJmoEutKSd.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESaQHrOzAVEYEwfmaFIKosckjDNozh1ksiDslZFVpPtAmUoz1PVhNW_e6UTCYOSoC9RJIBWHJkUwdYe27In-H0JGZBH0c6nJ073K6YoN4-PwPwCADtkr6ZAEzNJxCriLv66-INOEa6lKq-Nw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESaQHrOzAVEYEwfmaFIKosckjDNozh1ksiDslZFVpPtAmUoz1PVhNW_e6UTCYOSoC9RJIBWHJkUwdYe27In-H0JGZBH0c6nJ073K6YoN4-PwPwCADtkr6ZAEzNJxCriLv66-INOEa6lKq-Nw",
+   "source": "Instagram \u00b7 twinlakesindians"
+  },
+  {
+   "position": 10,
+   "title": "Twin Lakes High School, 300 S 3rd St, Monticello, IN ...",
+   "link": "https://www.monticelloin.gov/information/events-listing?view=location&id=36",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgwEB6zswFW23nvCrGpy0KHAhNj4a6vJVqaiAE2P4wyIFICGlkA8vpZQZivRA5xk7j9A8PAKaJFU7aa8Dn0NN5R9Hsxt6XrLxxvqNvP3WJtbzEYsyfXXWaSZBR3XKwzA_lofFQCvy5MB_CGXL_nhYCiC8v3BHJ4u9NfEzc06AkoL1xADmNQ&ved=2ahUKEwiOxZzi7OSWAxX9aHADHSl8CAMQFnoECHoQAQ&uoh=1",
+   "displayed_link": "https://www.monticelloin.gov \u203a events-listing",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAyVBMVEX____0-vDZ7M32-_P-9Of848j--vTD4a9puyBwvTDU6sb6zZr1lQD1mQB5wUL-9-_2nxr2nhR2wD34tWFzvzfv7NL2nRCDxVKVzW797t3m8933qj33pzP3rEf72tjxbnT3qjzsFSH-9-WHymH5xcjsAAntKzPydoD8267958Ts8vnY6OHX7PrsAA1ontJRkc3Q3_A8h8l5sd_sABT4uLr0--mh03aky-vsCxrtJS7vT1VCisqwyuZ3ptaEuuT96en-sa_sAADxZGloh_nwAAABM0lEQVR4AbTLxRWEQAAE0QbG3VfzTxO3BPjXeoUndf2AG0IZTlxIoXDSxhp6fsI5J4cOC-aJCSFa7HrplioTh8_W2jAzBJtBuEVKpdoW29JawLmWOb3eqS4p27nFD05fmd4AmdsP-Nj4x42ShYPY2Kba5yKxYRgKAuiUmdswg9kWFaSaff9D1dAk0gEy2_dxOpsDLy89wOjs46HXW8yWy_nqvjeFnv7r6_rifoLN1lrazr1j4MnNY62X6NSFEc9_r3sBBJuwVhMj4r_X31xSxmsVn0YjI9HX-803ZYT9bKT61ZHGcYKvxmIOWEqZSFKgsQzIpWVpljBC4ojHtRXL-dKyrHKjbewS86JUymoitaGNsHpvXgkhGwxzoxMe2uT51tJPojEjNe2ykaGa6Y_CSI5j5g_fpShclpdmlQAAAABJRU5ErkJggg.png",
+   "snippet": "Twin Lakes High School, 300 S 3rd St, Monticello, IN 47960, USA \u00b7 Location information \u00b7 Upcoming events.",
+   "snippet_highlighted_words": [
+    "Twin Lakes High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Twin Lakes High School, 300 S 3rd St, Monticello, IN 47960, USA \u00b7 Location information \u00b7 Upcoming events.",
+     "source_info_link": "https://www.monticelloin.gov/information/events-listing?view=location&id=36",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAyVBMVEX____0-vDZ7M32-_P-9Of848j--vTD4a9puyBwvTDU6sb6zZr1lQD1mQB5wUL-9-_2nxr2nhR2wD34tWFzvzfv7NL2nRCDxVKVzW797t3m8933qj33pzP3rEf72tjxbnT3qjzsFSH-9-WHymH5xcjsAAntKzPydoD8267958Ts8vnY6OHX7PrsAA1ontJRkc3Q3_A8h8l5sd_sABT4uLr0--mh03aky-vsCxrtJS7vT1VCisqwyuZ3ptaEuuT96en-sa_sAADxZGloh_nwAAABM0lEQVR4AbTLxRWEQAAE0QbG3VfzTxO3BPjXeoUndf2AG0IZTlxIoXDSxhp6fsI5J4cOC-aJCSFa7HrplioTh8_W2jAzBJtBuEVKpdoW29JawLmWOb3eqS4p27nFD05fmd4AmdsP-Nj4x42ShYPY2Kba5yKxYRgKAuiUmdswg9kWFaSaff9D1dAk0gEy2_dxOpsDLy89wOjs46HXW8yWy_nqvjeFnv7r6_rifoLN1lrazr1j4MnNY62X6NSFEc9_r3sBBJuwVhMj4r_X31xSxmsVn0YjI9HX-803ZYT9bKT61ZHGcYKvxmIOWEqZSFKgsQzIpWVpljBC4ojHtRXL-dKyrHKjbewS86JUymoitaGNsHpvXgkhGwxzoxMe2uT51tJPojEjNe2ykaGa6Y_CSI5j5g_fpShclpdmlQAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESgwEB6zswFW23nvCrGpy0KHAhNj4a6vJVqaiAE2P4wyIFICGlkA8vpZQZivRA5xk7j9A8PAKaJFU7aa8Dn0NN5R9Hsxt6XrLxxvqNvP3WJtbzEYsyfXXWaSZBR3XKwzA_lofFQCvy5MB_CGXL_nhYCiC8v3BHJ4u9NfEzc06AkoL1xADmNQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESgwEB6zswFW23nvCrGpy0KHAhNj4a6vJVqaiAE2P4wyIFICGlkA8vpZQZivRA5xk7j9A8PAKaJFU7aa8Dn0NN5R9Hsxt6XrLxxvqNvP3WJtbzEYsyfXXWaSZBR3XKwzA_lofFQCvy5MB_CGXL_nhYCiC8v3BHJ4u9NfEzc06AkoL1xADmNQ",
+   "source": "City of Monticello, Indiana (.gov)",
+   "read_more_link": "https://www.monticelloin.gov/information/events-listing?view=location&id=36#:~:text=Twin%20Lakes%20High%20School%2C%20300,St%2C%20Monticello%2C%20IN%2047960%2C%20USA&text=Location%20information&text=Upcoming%20events"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Twin lakes high school indiana football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuKOtXVtbxVh7r36pONf1AAupZ_Kw:1789072054368&q=Twin+lakes+high+school+indiana+football&sa=X&ved=2ahUKEwiOxZzi7OSWAxX9aHADHSl8CAMQ1QJ6BAh4EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Twin+lakes+high+school+indiana+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Twin Lakes School Corporation",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuKOtXVtbxVh7r36pONf1AAupZ_Kw:1789072054368&q=Twin+Lakes+School+Corporation&sa=X&ved=2ahUKEwiOxZzi7OSWAxX9aHADHSl8CAMQ1QJ6BQiKARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Twin+Lakes+School+Corporation"
+  },
+  {
+   "block_position": 1,
+   "query": "Twin lakes high school indiana basketball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuKOtXVtbxVh7r36pONf1AAupZ_Kw:1789072054368&q=Twin+lakes+high+school+indiana+basketball&sa=X&ved=2ahUKEwiOxZzi7OSWAxX9aHADHSl8CAMQ1QJ6BQiIARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Twin+lakes+high+school+indiana+basketball"
+  },
+  {
+   "block_position": 1,
+   "query": "Twin lakes high school indiana alumni",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuKOtXVtbxVh7r36pONf1AAupZ_Kw:1789072054368&q=Twin+lakes+high+school+indiana+alumni&sa=X&ved=2ahUKEwiOxZzi7OSWAxX9aHADHSl8CAMQ1QJ6BQiGARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Twin+lakes+high+school+indiana+alumni"
+  },
+  {
+   "block_position": 1,
+   "query": "Twin lakes high school indiana staff",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuKOtXVtbxVh7r36pONf1AAupZ_Kw:1789072054368&q=Twin+lakes+high+school+indiana+staff&sa=X&ved=2ahUKEwiOxZzi7OSWAxX9aHADHSl8CAMQ1QJ6BQiCARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Twin+lakes+high+school+indiana+staff"
+  },
+  {
+   "block_position": 1,
+   "query": "Twin Lakes School Calendar 25 26",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuKOtXVtbxVh7r36pONf1AAupZ_Kw:1789072054368&q=Twin+Lakes+School+Calendar+25+26&sa=X&ved=2ahUKEwiOxZzi7OSWAxX9aHADHSl8CAMQ1QJ6BAh-EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Twin+Lakes+School+Calendar+25+26"
+  },
+  {
+   "block_position": 1,
+   "query": "Twin lakes high school indiana baseball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuKOtXVtbxVh7r36pONf1AAupZ_Kw:1789072054368&q=Twin+lakes+high+school+indiana+baseball&sa=X&ved=2ahUKEwiOxZzi7OSWAxX9aHADHSl8CAMQ1QJ6BAh9EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Twin+lakes+high+school+indiana+baseball"
+  },
+  {
+   "block_position": 1,
+   "query": "Twin Lakes Intermediate School",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuKOtXVtbxVh7r36pONf1AAupZ_Kw:1789072054368&q=Twin+Lakes+Intermediate+School&sa=X&ved=2ahUKEwiOxZzi7OSWAxX9aHADHSl8CAMQ1QJ6BAh8EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Twin+Lakes+Intermediate+School"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Twin+Lakes+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuKOtXVtbxVh7r36pONf1AAupZ_Kw:1789072054368&ei=thKjao6SFv3RwcsPqfihGA&start=10&sa=N&sstk=AS6-VmI2ev3YWlcxrBo7glOV5ZmaFkaSAzXFXwV1vqawwAaKPfJ_d0CPG93OG692H9igEHgFB21HIQjRK9AgE8tM8aPTPA5t1PxINQ&ved=2ahUKEwiOxZzi7OSWAxX9aHADHSl8CAMQ8NMDegQIchAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Twin+Lakes+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuKOtXVtbxVh7r36pONf1AAupZ_Kw:1789072054368&ei=thKjao6SFv3RwcsPqfihGA&start=10&sa=N&sstk=AS6-VmI2ev3YWlcxrBo7glOV5ZmaFkaSAzXFXwV1vqawwAaKPfJ_d0CPG93OG692H9igEHgFB21HIQjRK9AgE8tM8aPTPA5t1PxINQ&ved=2ahUKEwiOxZzi7OSWAxX9aHADHSl8CAMQ8tMDegQIchAE",
+   "3": "https://www.google.com/search?q=%22Twin+Lakes+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuKOtXVtbxVh7r36pONf1AAupZ_Kw:1789072054368&ei=thKjao6SFv3RwcsPqfihGA&start=20&sa=N&sstk=AS6-VmI2ev3YWlcxrBo7glOV5ZmaFkaSAzXFXwV1vqawwAaKPfJ_d0CPG93OG692H9igEHgFB21HIQjRK9AgE8tM8aPTPA5t1PxINQ&ved=2ahUKEwiOxZzi7OSWAxX9aHADHSl8CAMQ8tMDegQIchAG",
+   "4": "https://www.google.com/search?q=%22Twin+Lakes+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuKOtXVtbxVh7r36pONf1AAupZ_Kw:1789072054368&ei=thKjao6SFv3RwcsPqfihGA&start=30&sa=N&sstk=AS6-VmI2ev3YWlcxrBo7glOV5ZmaFkaSAzXFXwV1vqawwAaKPfJ_d0CPG93OG692H9igEHgFB21HIQjRK9AgE8tM8aPTPA5t1PxINQ&ved=2ahUKEwiOxZzi7OSWAxX9aHADHSl8CAMQ8tMDegQIchAI",
+   "5": "https://www.google.com/search?q=%22Twin+Lakes+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuKOtXVtbxVh7r36pONf1AAupZ_Kw:1789072054368&ei=thKjao6SFv3RwcsPqfihGA&start=40&sa=N&sstk=AS6-VmI2ev3YWlcxrBo7glOV5ZmaFkaSAzXFXwV1vqawwAaKPfJ_d0CPG93OG692H9igEHgFB21HIQjRK9AgE8tM8aPTPA5t1PxINQ&ved=2ahUKEwiOxZzi7OSWAxX9aHADHSl8CAMQ8tMDegQIchAK",
+   "6": "https://www.google.com/search?q=%22Twin+Lakes+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuKOtXVtbxVh7r36pONf1AAupZ_Kw:1789072054368&ei=thKjao6SFv3RwcsPqfihGA&start=50&sa=N&sstk=AS6-VmI2ev3YWlcxrBo7glOV5ZmaFkaSAzXFXwV1vqawwAaKPfJ_d0CPG93OG692H9igEHgFB21HIQjRK9AgE8tM8aPTPA5t1PxINQ&ved=2ahUKEwiOxZzi7OSWAxX9aHADHSl8CAMQ8tMDegQIchAM",
+   "7": "https://www.google.com/search?q=%22Twin+Lakes+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuKOtXVtbxVh7r36pONf1AAupZ_Kw:1789072054368&ei=thKjao6SFv3RwcsPqfihGA&start=60&sa=N&sstk=AS6-VmI2ev3YWlcxrBo7glOV5ZmaFkaSAzXFXwV1vqawwAaKPfJ_d0CPG93OG692H9igEHgFB21HIQjRK9AgE8tM8aPTPA5t1PxINQ&ved=2ahUKEwiOxZzi7OSWAxX9aHADHSl8CAMQ8tMDegQIchAO",
+   "8": "https://www.google.com/search?q=%22Twin+Lakes+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuKOtXVtbxVh7r36pONf1AAupZ_Kw:1789072054368&ei=thKjao6SFv3RwcsPqfihGA&start=70&sa=N&sstk=AS6-VmI2ev3YWlcxrBo7glOV5ZmaFkaSAzXFXwV1vqawwAaKPfJ_d0CPG93OG692H9igEHgFB21HIQjRK9AgE8tM8aPTPA5t1PxINQ&ved=2ahUKEwiOxZzi7OSWAxX9aHADHSl8CAMQ8tMDegQIchAQ",
+   "9": "https://www.google.com/search?q=%22Twin+Lakes+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuKOtXVtbxVh7r36pONf1AAupZ_Kw:1789072054368&ei=thKjao6SFv3RwcsPqfihGA&start=80&sa=N&sstk=AS6-VmI2ev3YWlcxrBo7glOV5ZmaFkaSAzXFXwV1vqawwAaKPfJ_d0CPG93OG692H9igEHgFB21HIQjRK9AgE8tM8aPTPA5t1PxINQ&ved=2ahUKEwiOxZzi7OSWAxX9aHADHSl8CAMQ8tMDegQIchAS",
+   "10": "https://www.google.com/search?q=%22Twin+Lakes+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuKOtXVtbxVh7r36pONf1AAupZ_Kw:1789072054368&ei=thKjao6SFv3RwcsPqfihGA&start=90&sa=N&sstk=AS6-VmI2ev3YWlcxrBo7glOV5ZmaFkaSAzXFXwV1vqawwAaKPfJ_d0CPG93OG692H9igEHgFB21HIQjRK9AgE8tM8aPTPA5t1PxINQ&ved=2ahUKEwiOxZzi7OSWAxX9aHADHSl8CAMQ8tMDegQIchAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Twin+Lakes+High+School%22+Indiana&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Twin+Lakes+High+School%22+Indiana&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Twin+Lakes+High+School%22+Indiana&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Twin+Lakes+High+School%22+Indiana&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Twin+Lakes+High+School%22+Indiana&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Twin+Lakes+High+School%22+Indiana&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Twin+Lakes+High+School%22+Indiana&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Twin+Lakes+High+School%22+Indiana&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Twin+Lakes+High+School%22+Indiana&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Twin+Lakes+High+School%22+Indiana&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Twin+Lakes+High+School%22+Indiana&start=90"
+  }
+ }
+}

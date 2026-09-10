@@ -1,0 +1,452 @@
+{
+ "search_information": {
+  "query_displayed": "\"Mount Vernon High School\" Indiana",
+  "total_results": 51600,
+  "time_taken_displayed": 0.22,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "local_map": {
+  "image": "https://www.google.com/maps/vt/data=l0XUui44S-10_Jaaol37BXTfKJWN2ARJ1i0jqyHlX1EKgg-8Sos8eFL47LHQL5fJwXKO7tp11mbXvuZlWcT5y4QySuFHhThwi5EuS5pKcZ1oGF28oWcW7nShLsIeLpguUrXsoLAX6sAOhB_tUtV6UVjlNG4jNiGM4nJedeYEUvAvxc58FgofDSYfowSrgbx9bL_pTHWIK6EoI-FbYYi6Gluk3ctNHfbc2zPVzXBE41AUeP_ZAvwEJtR2PURNEhWO0aMnMS5Nj_9EFtAzxUZIqv75UJLY9kgsHsBx4uQmDavfBwSfeeHsGoMBiSR97ekKnJMHlgZFyHgDcuc2qFkr0GmOYq5DtpXG7kZUr0PJcuU7BQvlBZBovliizlo9KNPBt0I",
+  "gps_coordinates": {
+   "latitude": 39.04478604850143,
+   "longitude": -86.868896484375
+  }
+ },
+ "local_results": {
+  "places": [
+   {
+    "position": 1,
+    "links": {
+     "website": "https://mvhs.mvcsc.k12.in.us/",
+     "directions": "https://www.google.com/maps/dir//Mt+Vernon+High+School,+8112+N+200+W,+Fortville,+IN+46040/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x886b335155c21a19:0x5f31ff85e3f574da?sa=X&ved=2ahUKEwi_4bn96eSWAxXQjeEIHQITMp8Q48ADegQIGRAA&hl=en&gl=us"
+    },
+    "place_id": "6859544657982223578",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=6859544657982223578&q=%22Mount+Vernon+High+School%22+Indiana",
+    "provider_id": "/m/0f_9f_",
+    "gps_coordinates": {
+     "latitude": 39.901374,
+     "longitude": -85.84411
+    },
+    "title": "Mt Vernon High School",
+    "reviews_original": "No reviews",
+    "type": "High school",
+    "phone": "(317) 485-3131",
+    "address": "Fortville, IN",
+    "hours": "Closed \u00b7 Opens 8 AM Fri"
+   },
+   {
+    "position": 2,
+    "links": {
+     "website": "http://www.mvschool.org/mvhs/home",
+     "directions": "https://www.google.com/maps/dir//Mt+Vernon+High+School,+700+Harriett+St,+Mt+Vernon,+IN+47620/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88704ae76a7cd6a3:0x4acd54871c9f1f84?sa=X&ved=2ahUKEwi_4bn96eSWAxXQjeEIHQITMp8Q48ADegQIGBAA&hl=en&gl=us"
+    },
+    "place_id": "5390057268309860228",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=5390057268309860228&q=%22Mount+Vernon+High+School%22+Indiana",
+    "provider_id": "/m/02w2wz8",
+    "gps_coordinates": {
+     "latitude": 37.937318,
+     "longitude": -87.887025
+    },
+    "title": "Mt Vernon High School",
+    "reviews_original": "No reviews",
+    "type": "High school",
+    "phone": "(812) 838-4356",
+    "address": "Mt Vernon, IN",
+    "hours": "Closes soon \u00b7 3:30 PM"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "How many students attend Mount Vernon High School in Indiana?",
+   "type": "ai_overview",
+   "page_token": "_SERMHicHdFdbpswAABg7TJ9bIydZUqkqBIJhNJAZBsb4peK2AFTm58WOn7edpc970A7zabe4JO-X79t1Zi_3_7oYej63Wo1juNj2balvT_Ktl7l_dzIlcytveXS7DY_Ns5TIfdeOx4O_ehi1nX8SEByJBEPfE-ZbU0aUREz1cQ3IK7VJ21UcTPDy52LTVoBkPJtzuy2Z6dxpKiFEm5PLOVaGG2vjV2T1K7ZkQHpuKHiYU3h0CQnoWlSgtx4A8tUdE75C4d4JoyvL1w9R2zwWSYOBDiIBh0mKWfXpiu4131cMj5i2z1ni2Bnpi4sCw-5NyVJ3fn5KTyLQIskCCsCB0S5axNbLonx7Q21joAApZnb0SD-jGwcJPXU80X51APobsaZpRpiML3F_40MRoOn1XcxO-_XLCw4iw2GYavqGAvkV5Q6JJ_aCjOyyDdbM9MixfWRL_E7Q9aNAz3Fvivk7GjJDYwBrzB-KOTPPXr4eti_FvWw6z7a8h9OAZeF",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=_SERMHicHdFdbpswAABg7TJ9bIydZUqkqBIJhNJAZBsb4peK2AFTm58WOn7edpc970A7zabe4JO-X79t1Zi_3_7oYej63Wo1juNj2balvT_Ktl7l_dzIlcytveXS7DY_Ns5TIfdeOx4O_ehi1nX8SEByJBEPfE-ZbU0aUREz1cQ3IK7VJ21UcTPDy52LTVoBkPJtzuy2Z6dxpKiFEm5PLOVaGG2vjV2T1K7ZkQHpuKHiYU3h0CQnoWlSgtx4A8tUdE75C4d4JoyvL1w9R2zwWSYOBDiIBh0mKWfXpiu4131cMj5i2z1ni2Bnpi4sCw-5NyVJ3fn5KTyLQIskCCsCB0S5axNbLonx7Q21joAApZnb0SD-jGwcJPXU80X51APobsaZpRpiML3F_40MRoOn1XcxO-_XLCw4iw2GYavqGAvkV5Q6JJ_aCjOyyDdbM9MixfWRL_E7Q9aNAz3Fvivk7GjJDYwBrzB-KOTPPXr4eti_FvWw6z7a8h9OAZeF",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWRFZ3RlVFE1VW1KQ1dtMXFaelZoY1ZJMk9VTkdVSFJ5ZWxkaGVteDBTVXB5TjNWZlFsOW9TalZKWjJ4NVJHSXpNVEp3VDBWbFRVRnZjelJUUzFkV1JFbHpVMm96YmtSNlgwaFFYMUp1TVVRMk1uVnpkSEJCYzFacmR4SVhlV2N0YW1GeVgxVkRaRU5pYUhaalVHZHhZa2t0VVdzYUlrRkVjM0k1WmxGbmJYTlRUREpsV0RGVmRtOUhhMmRoU25OaWJHOTZOR0ZDTm1jIiwiZmN2IjoiMyIsImVpIjoieWctamFyX1VDZENiaHZjUGdxYkktUWsiLCJxYyI6IkNpQnRiM1Z1ZENCMlpYSnViMjRnYUdsbmFDQnpZMmh2YjJ3Z2FXNWthV0Z1WVJBQWZhS1hPajgiLCJxdWVzdGlvbiI6IkhvdyBtYW55IHN0dWRlbnRzIGF0dGVuZCBNb3VudCBWZXJub24gSGlnaCBTY2hvb2wgaW4gSW5kaWFuYT8iLCJsayI6ImN3WEIwUTJBTUFnRndEMzhlbE80RHhGU1NPd2pFYlRwOXQ0ZHAtZkNGRzVVdjJyc2duUWJGYlB4MmNNa1BJYWpMcy04RWRRUXlnOCIsImJzIjoiYzMyUE1RdkNNQkJHY2MzazNPbEFWTlNwRmNSRmlrNTFVQkJCY1l3bW1FQjdLYzNWMEg5dmpSU2hwZTdmZV9lT1ZXeVRHQWNaeHdvc2xVSWlXZUJFRWdVY1RJa0VGMW1nUVVqMFU4SDVvWXhKUVNQc1VXaU9QSTdXd1VyMUNUS0MxNWRXSDlvMnRFZlpqYzJ2aWhNb251Y1NwYWlwM3BOeHRBaG1ycjNPX0xwN2dwM1l4S3UxQlZJU1JtRXI0SmNfRGNidTc3S3AxU3p5eXVOdUMzbktLMWxZY1BXelFPWlA5VElJdlI3dnZFUDExUThIYnciLCJpZCI6ImZjX3lnLWphcl9VQ2RDYmh2Y1BncWJJLVFrXzYifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWRFZ3RlVFE1VW1KQ1dtMXFaelZoY1ZJMk9VTkdVSFJ5ZWxkaGVteDBTVXB5TjNWZlFsOW9TalZKWjJ4NVJHSXpNVEp3VDBWbFRVRnZjelJUUzFkV1JFbHpVMm96YmtSNlgwaFFYMUp1TVVRMk1uVnpkSEJCYzFacmR4SVhlV2N0YW1GeVgxVkRaRU5pYUhaalVHZHhZa2t0VVdzYUlrRkVjM0k1WmxGbmJYTlRUREpsV0RGVmRtOUhhMmRoU25OaWJHOTZOR0ZDTm1jIiwiZmN2IjoiMyIsImVpIjoieWctamFyX1VDZENiaHZjUGdxYkktUWsiLCJxYyI6IkNpQnRiM1Z1ZENCMlpYSnViMjRnYUdsbmFDQnpZMmh2YjJ3Z2FXNWthV0Z1WVJBQWZhS1hPajgiLCJxdWVzdGlvbiI6IkhvdyBtYW55IHN0dWRlbnRzIGF0dGVuZCBNb3VudCBWZXJub24gSGlnaCBTY2hvb2wgaW4gSW5kaWFuYT8iLCJsayI6ImN3WEIwUTJBTUFnRndEMzhlbE80RHhGU1NPd2pFYlRwOXQ0ZHAtZkNGRzVVdjJyc2duUWJGYlB4MmNNa1BJYWpMcy04RWRRUXlnOCIsImJzIjoiYzMyUE1RdkNNQkJHY2MzazNPbEFWTlNwRmNSRmlrNTFVQkJCY1l3bW1FQjdLYzNWMEg5dmpSU2hwZTdmZV9lT1ZXeVRHQWNaeHdvc2xVSWlXZUJFRWdVY1RJa0VGMW1nUVVqMFU4SDVvWXhKUVNQc1VXaU9QSTdXd1VyMUNUS0MxNWRXSDlvMnRFZlpqYzJ2aWhNb251Y1NwYWlwM3BOeHRBaG1ycjNPX0xwN2dwM1l4S3UxQlZJU1JtRXI0SmNfRGNidTc3S3AxU3p5eXVOdUMzbktLMWxZY1BXelFPWlA5VElJdlI3dnZFUDExUThIYnciLCJpZCI6ImZjX3lnLWphcl9VQ2RDYmh2Y1BncWJJLVFrXzYifQ%3D%3D"
+  },
+  {
+   "question": "What happened at Mount Vernon High School?",
+   "type": "ai_overview",
+   "page_token": "QnvZnXicHdDPToMwAIDx-DIeXaEydcliMkdlOHFtaYFeDLT7g7SUbWzAbr6LT-XTuHj_8jt83z-6rKvfm_OubZvjZDTquu5ua-1Wr--kNaP8ONRyJHOti1xWk_HD2HneyKl_Wsxe9osZZk3D5wRQKIhybB_rJouT_ojdZlAVOTDwhAqDOgo8kWk-iIp0KVSn9asuBeg8krKWOsi-m6dcmBYmSKDsEkEBcZ_DWSChYNTVUIIFvJphYh69AmzbeC7dNVNvzFWc1rrNA06lyQbhM6jSKC585cqgOWPg3X8g20aGj-mrtyIalRHiS66VkXp34RVfFfDaJaEvTH-KjfdOa1L7O-WJwdlnabjhLKqwG1plIiwgKil1SN7bEjNykV_asIqL_MKXy4REPNAnkYa9iGdBCpqEA9yzSvcY327keQpv_39OPzemnTQHu_0DunKEhg",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=QnvZnXicHdDPToMwAIDx-DIeXaEydcliMkdlOHFtaYFeDLT7g7SUbWzAbr6LT-XTuHj_8jt83z-6rKvfm_OubZvjZDTquu5ua-1Wr--kNaP8ONRyJHOti1xWk_HD2HneyKl_Wsxe9osZZk3D5wRQKIhybB_rJouT_ojdZlAVOTDwhAqDOgo8kWk-iIp0KVSn9asuBeg8krKWOsi-m6dcmBYmSKDsEkEBcZ_DWSChYNTVUIIFvJphYh69AmzbeC7dNVNvzFWc1rrNA06lyQbhM6jSKC585cqgOWPg3X8g20aGj-mrtyIalRHiS66VkXp34RVfFfDaJaEvTH-KjfdOa1L7O-WJwdlnabjhLKqwG1plIiwgKil1SN7bEjNykV_asIqL_MKXy4REPNAnkYa9iGdBCpqEA9yzSvcY327keQpv_39OPzemnTQHu_0DunKEhg",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWRFZ3RlVFE1VW1KQ1dtMXFaelZoY1ZJMk9VTkdVSFJ5ZWxkaGVteDBTVXB5TjNWZlFsOW9TalZKWjJ4NVJHSXpNVEp3VDBWbFRVRnZjelJUUzFkV1JFbHpVMm96YmtSNlgwaFFYMUp1TVVRMk1uVnpkSEJCYzFacmR4SVhlV2N0YW1GeVgxVkRaRU5pYUhaalVHZHhZa2t0VVdzYUlrRkVjM0k1WmxGbmJYTlRUREpsV0RGVmRtOUhhMmRoU25OaWJHOTZOR0ZDTm1jIiwiZmN2IjoiMyIsImVpIjoieWctamFyX1VDZENiaHZjUGdxYkktUWsiLCJxYyI6IkNpQnRiM1Z1ZENCMlpYSnViMjRnYUdsbmFDQnpZMmh2YjJ3Z2FXNWthV0Z1WVJBQWZhS1hPajgiLCJxdWVzdGlvbiI6IldoYXQgaGFwcGVuZWQgYXQgTW91bnQgVmVybm9uIEhpZ2ggU2Nob29sPyIsImxrIjoiR2lsM2FHRjBJR2hoY0hCbGJtVmtJR0YwSUcxdmRXNTBJSFpsY201dmJpQm9hV2RvSUhOamFHOXZiQSIsImJzIjoiYzMyUE1RdkNNQkJHY2MzazNPbEFWTlNwRmNSRmlrNTFVQkJCY1l3bW1FQjdLYzNWMEg5dmpSU2hwZTdmZV9lT1ZXeVRHQWNaeHdvc2xVSWlXZUJFRWdVY1RJa0VGMW1nUVVqMFU4SDVvWXhKUVNQc1VXaU9QSTdXd1VyMUNUS0MxNWRXSDlvMnRFZlpqYzJ2aWhNb251Y1NwYWlwM3BOeHRBaG1ycjNPX0xwN2dwM1l4S3UxQlZJU1JtRXI0SmNfRGNidTc3S3AxU3p5eXVOdUMzbktLMWxZY1BXelFPWlA5VElJdlI3dnZFUDExUThIYnciLCJpZCI6ImZjX3lnLWphcl9VQ2RDYmh2Y1BncWJJLVFrXzYifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWRFZ3RlVFE1VW1KQ1dtMXFaelZoY1ZJMk9VTkdVSFJ5ZWxkaGVteDBTVXB5TjNWZlFsOW9TalZKWjJ4NVJHSXpNVEp3VDBWbFRVRnZjelJUUzFkV1JFbHpVMm96YmtSNlgwaFFYMUp1TVVRMk1uVnpkSEJCYzFacmR4SVhlV2N0YW1GeVgxVkRaRU5pYUhaalVHZHhZa2t0VVdzYUlrRkVjM0k1WmxGbmJYTlRUREpsV0RGVmRtOUhhMmRoU25OaWJHOTZOR0ZDTm1jIiwiZmN2IjoiMyIsImVpIjoieWctamFyX1VDZENiaHZjUGdxYkktUWsiLCJxYyI6IkNpQnRiM1Z1ZENCMlpYSnViMjRnYUdsbmFDQnpZMmh2YjJ3Z2FXNWthV0Z1WVJBQWZhS1hPajgiLCJxdWVzdGlvbiI6IldoYXQgaGFwcGVuZWQgYXQgTW91bnQgVmVybm9uIEhpZ2ggU2Nob29sPyIsImxrIjoiR2lsM2FHRjBJR2hoY0hCbGJtVmtJR0YwSUcxdmRXNTBJSFpsY201dmJpQm9hV2RvSUhOamFHOXZiQSIsImJzIjoiYzMyUE1RdkNNQkJHY2MzazNPbEFWTlNwRmNSRmlrNTFVQkJCY1l3bW1FQjdLYzNWMEg5dmpSU2hwZTdmZV9lT1ZXeVRHQWNaeHdvc2xVSWlXZUJFRWdVY1RJa0VGMW1nUVVqMFU4SDVvWXhKUVNQc1VXaU9QSTdXd1VyMUNUS0MxNWRXSDlvMnRFZlpqYzJ2aWhNb251Y1NwYWlwM3BOeHRBaG1ycjNPX0xwN2dwM1l4S3UxQlZJU1JtRXI0SmNfRGNidTc3S3AxU3p5eXVOdUMzbktLMWxZY1BXelFPWlA5VElJdlI3dnZFUDExUThIYnciLCJpZCI6ImZjX3lnLWphcl9VQ2RDYmh2Y1BncWJJLVFrXzYifQ%3D%3D"
+  },
+  {
+   "question": "What is the #1 high school in Indiana?",
+   "type": "ai_overview",
+   "page_token": "mRd7mnicHdDbToMwAADQ-DM-bgV0ZksWIwN2yS72PvpiSitjowXmcIW9-S9-lV-j8QtOcr6-zbEqf-6uRds2l8lw6JwbHOr6YN4HqrZDeekrNVTSmEyqcjJ6GnnPuZrGn8twdl6GkDYNixDAJQCE64ia2CEgFlta5Nx2V1Ytg2wfhruIycy6nltvk4EHjyQoSi3sdnHyipOVlBy1NO7Axmg_9Q0isYg4i1tVdhgFBUqNvmLuesbGva7MmXIQYN_5Gwx6ESQoo48PkCRLypggSTNStElUzNawRItsLmaqLDsZFPuMIKs9xN-rFweBPu7YmBIu9tK89GS-Cf68mT6FQVzoR9F753S_yhndltBf1dpu4Z91xNhDsquPkKKbOhlLuTEpYTdGWcWp7vVJzLHfAUhFgW6pW_PxjML7XF2nwf3_5_Qtt-2k-agPvyUSg-c",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=mRd7mnicHdDbToMwAADQ-DM-bgV0ZksWIwN2yS72PvpiSitjowXmcIW9-S9-lV-j8QtOcr6-zbEqf-6uRds2l8lw6JwbHOr6YN4HqrZDeekrNVTSmEyqcjJ6GnnPuZrGn8twdl6GkDYNixDAJQCE64ia2CEgFlta5Nx2V1Ytg2wfhruIycy6nltvk4EHjyQoSi3sdnHyipOVlBy1NO7Axmg_9Q0isYg4i1tVdhgFBUqNvmLuesbGva7MmXIQYN_5Gwx6ESQoo48PkCRLypggSTNStElUzNawRItsLmaqLDsZFPuMIKs9xN-rFweBPu7YmBIu9tK89GS-Cf68mT6FQVzoR9F753S_yhndltBf1dpu4Z91xNhDsquPkKKbOhlLuTEpYTdGWcWp7vVJzLHfAUhFgW6pW_PxjML7XF2nwf3_5_Qtt-2k-agPvyUSg-c",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWRFZ3RlVFE1VW1KQ1dtMXFaelZoY1ZJMk9VTkdVSFJ5ZWxkaGVteDBTVXB5TjNWZlFsOW9TalZKWjJ4NVJHSXpNVEp3VDBWbFRVRnZjelJUUzFkV1JFbHpVMm96YmtSNlgwaFFYMUp1TVVRMk1uVnpkSEJCYzFacmR4SVhlV2N0YW1GeVgxVkRaRU5pYUhaalVHZHhZa2t0VVdzYUlrRkVjM0k1WmxGbmJYTlRUREpsV0RGVmRtOUhhMmRoU25OaWJHOTZOR0ZDTm1jIiwiZmN2IjoiMyIsImVpIjoieWctamFyX1VDZENiaHZjUGdxYkktUWsiLCJxYyI6IkNpQnRiM1Z1ZENCMlpYSnViMjRnYUdsbmFDQnpZMmh2YjJ3Z2FXNWthV0Z1WVJBQWZhS1hPajgiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlICMxIGhpZ2ggc2Nob29sIGluIEluZGlhbmE/IiwibGsiOiJHaVYzYUdGMElHbHpJSFJvWlNBak1TQm9hV2RvSUhOamFHOXZiQ0JwYmlCcGJtUnBZVzVoIiwiYnMiOiJjMzJQTVF2Q01CQkdjYzNrM09sQVZOU3BGY1JGaWs1MVVCQkJjWXdtbUVCN0tjM1YwSDl2alJTaHBlN2ZlX2VPVld5VEdBY1p4d29zbFVJaVdlQkVFZ1VjVElrRUYxbWdRVWowVThINW9ZeEpRU1BzVVdpT1BJN1d3VXIxQ1RLQzE1ZFdIOW8ydEVmWmpjMnZpaE1vbnVjU3BhaXAzcE54dEFobXJyM09fTHA3Z3AzWXhLdTFCVklTUm1FcjRKY19EY2J1NzdLcDFTenl5dU51QzNuS0sxbFljUFd6UU9aUDlUSUl2Ujd2dkVQMTFROEhidyIsImlkIjoiZmNfeWctamFyX1VDZENiaHZjUGdxYkktUWtfNiJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWRFZ3RlVFE1VW1KQ1dtMXFaelZoY1ZJMk9VTkdVSFJ5ZWxkaGVteDBTVXB5TjNWZlFsOW9TalZKWjJ4NVJHSXpNVEp3VDBWbFRVRnZjelJUUzFkV1JFbHpVMm96YmtSNlgwaFFYMUp1TVVRMk1uVnpkSEJCYzFacmR4SVhlV2N0YW1GeVgxVkRaRU5pYUhaalVHZHhZa2t0VVdzYUlrRkVjM0k1WmxGbmJYTlRUREpsV0RGVmRtOUhhMmRoU25OaWJHOTZOR0ZDTm1jIiwiZmN2IjoiMyIsImVpIjoieWctamFyX1VDZENiaHZjUGdxYkktUWsiLCJxYyI6IkNpQnRiM1Z1ZENCMlpYSnViMjRnYUdsbmFDQnpZMmh2YjJ3Z2FXNWthV0Z1WVJBQWZhS1hPajgiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlICMxIGhpZ2ggc2Nob29sIGluIEluZGlhbmE%2FIiwibGsiOiJHaVYzYUdGMElHbHpJSFJvWlNBak1TQm9hV2RvSUhOamFHOXZiQ0JwYmlCcGJtUnBZVzVoIiwiYnMiOiJjMzJQTVF2Q01CQkdjYzNrM09sQVZOU3BGY1JGaWs1MVVCQkJjWXdtbUVCN0tjM1YwSDl2alJTaHBlN2ZlX2VPVld5VEdBY1p4d29zbFVJaVdlQkVFZ1VjVElrRUYxbWdRVWowVThINW9ZeEpRU1BzVVdpT1BJN1d3VXIxQ1RLQzE1ZFdIOW8ydEVmWmpjMnZpaE1vbnVjU3BhaXAzcE54dEFobXJyM09fTHA3Z3AzWXhLdTFCVklTUm1FcjRKY19EY2J1NzdLcDFTenl5dU51QzNuS0sxbFljUFd6UU9aUDlUSUl2Ujd2dkVQMTFROEhidyIsImlkIjoiZmNfeWctamFyX1VDZENiaHZjUGdxYkktUWtfNiJ9"
+  },
+  {
+   "question": "What NBA players went to Mount Vernon High School?",
+   "type": "ai_overview",
+   "page_token": "KXy8WHicHdBLjtowAABQ9TKzHGIyUAkJVRNil2YaQ2xsE29GwSaY2PkMifLb9Qo9Q0_V07SaC7zF-_XH3Sv798tv03VNu1kshmF4vtX1zV2fVV0usnaq1EJlzl0yZTfrr2vwLVdb2Ktg91BBwpqGh8SjM_6JCwTj023ms2vjO1grjpoL0mdd6jZlA9Ant8O-ZBfWdMSueFy8jplnX2Inc-qRDjt5oDaC172jcciFCqMjKfCPZNnwGBiYFmbGMJ4piv2zh6eDSJcU1pOo4JxYM2GEVwKOveSSX3nQXQCiPDRcCOsxz3xke33EYbQn3_Ub9oM2LZuTLsh_0fW6CvZsiSrs4UIg61M2ehS5F2kZIJV5k0itDjsQnjiqoNErOYGP9BzlnGGbLKNalziRPrpTCkg21veEkVkVrmSMP1RhfIZgJ5wBshz7-CynDEqBrTkSj8xyeMpVv_WfPq-373nZbZpHffsHOuSOJw",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=KXy8WHicHdBLjtowAABQ9TKzHGIyUAkJVRNil2YaQ2xsE29GwSaY2PkMifLb9Qo9Q0_V07SaC7zF-_XH3Sv798tv03VNu1kshmF4vtX1zV2fVV0usnaq1EJlzl0yZTfrr2vwLVdb2Ktg91BBwpqGh8SjM_6JCwTj023ms2vjO1grjpoL0mdd6jZlA9Ant8O-ZBfWdMSueFy8jplnX2Inc-qRDjt5oDaC172jcciFCqMjKfCPZNnwGBiYFmbGMJ4piv2zh6eDSJcU1pOo4JxYM2GEVwKOveSSX3nQXQCiPDRcCOsxz3xke33EYbQn3_Ub9oM2LZuTLsh_0fW6CvZsiSrs4UIg61M2ehS5F2kZIJV5k0itDjsQnjiqoNErOYGP9BzlnGGbLKNalziRPrpTCkg21veEkVkVrmSMP1RhfIZgJ5wBshz7-CynDEqBrTkSj8xyeMpVv_WfPq-373nZbZpHffsHOuSOJw",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWRFZ3RlVFE1VW1KQ1dtMXFaelZoY1ZJMk9VTkdVSFJ5ZWxkaGVteDBTVXB5TjNWZlFsOW9TalZKWjJ4NVJHSXpNVEp3VDBWbFRVRnZjelJUUzFkV1JFbHpVMm96YmtSNlgwaFFYMUp1TVVRMk1uVnpkSEJCYzFacmR4SVhlV2N0YW1GeVgxVkRaRU5pYUhaalVHZHhZa2t0VVdzYUlrRkVjM0k1WmxGbmJYTlRUREpsV0RGVmRtOUhhMmRoU25OaWJHOTZOR0ZDTm1jIiwiZmN2IjoiMyIsImVpIjoieWctamFyX1VDZENiaHZjUGdxYkktUWsiLCJxYyI6IkNpQnRiM1Z1ZENCMlpYSnViMjRnYUdsbmFDQnpZMmh2YjJ3Z2FXNWthV0Z1WVJBQWZhS1hPajgiLCJxdWVzdGlvbiI6IldoYXQgTkJBIHBsYXllcnMgd2VudCB0byBNb3VudCBWZXJub24gSGlnaCBTY2hvb2w/IiwibGsiOiJHakYzYUdGMElHNWlZU0J3YkdGNVpYSnpJSGRsYm5RZ2RHOGdiVzkxYm5RZ2RtVnlibTl1SUdocFoyZ2djMk5vYjI5cyIsImJzIjoiYzMyUE1RdkNNQkJHY2MzazNPbEFWTlNwRmNSRmlrNTFVQkJCY1l3bW1FQjdLYzNWMEg5dmpSU2hwZTdmZV9lT1ZXeVRHQWNaeHdvc2xVSWlXZUJFRWdVY1RJa0VGMW1nUVVqMFU4SDVvWXhKUVNQc1VXaU9QSTdXd1VyMUNUS0MxNWRXSDlvMnRFZlpqYzJ2aWhNb251Y1NwYWlwM3BOeHRBaG1ycjNPX0xwN2dwM1l4S3UxQlZJU1JtRXI0SmNfRGNidTc3S3AxU3p5eXVOdUMzbktLMWxZY1BXelFPWlA5VElJdlI3dnZFUDExUThIYnciLCJpZCI6ImZjX3lnLWphcl9VQ2RDYmh2Y1BncWJJLVFrXzYifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWRFZ3RlVFE1VW1KQ1dtMXFaelZoY1ZJMk9VTkdVSFJ5ZWxkaGVteDBTVXB5TjNWZlFsOW9TalZKWjJ4NVJHSXpNVEp3VDBWbFRVRnZjelJUUzFkV1JFbHpVMm96YmtSNlgwaFFYMUp1TVVRMk1uVnpkSEJCYzFacmR4SVhlV2N0YW1GeVgxVkRaRU5pYUhaalVHZHhZa2t0VVdzYUlrRkVjM0k1WmxGbmJYTlRUREpsV0RGVmRtOUhhMmRoU25OaWJHOTZOR0ZDTm1jIiwiZmN2IjoiMyIsImVpIjoieWctamFyX1VDZENiaHZjUGdxYkktUWsiLCJxYyI6IkNpQnRiM1Z1ZENCMlpYSnViMjRnYUdsbmFDQnpZMmh2YjJ3Z2FXNWthV0Z1WVJBQWZhS1hPajgiLCJxdWVzdGlvbiI6IldoYXQgTkJBIHBsYXllcnMgd2VudCB0byBNb3VudCBWZXJub24gSGlnaCBTY2hvb2w%2FIiwibGsiOiJHakYzYUdGMElHNWlZU0J3YkdGNVpYSnpJSGRsYm5RZ2RHOGdiVzkxYm5RZ2RtVnlibTl1SUdocFoyZ2djMk5vYjI5cyIsImJzIjoiYzMyUE1RdkNNQkJHY2MzazNPbEFWTlNwRmNSRmlrNTFVQkJCY1l3bW1FQjdLYzNWMEg5dmpSU2hwZTdmZV9lT1ZXeVRHQWNaeHdvc2xVSWlXZUJFRWdVY1RJa0VGMW1nUVVqMFU4SDVvWXhKUVNQc1VXaU9QSTdXd1VyMUNUS0MxNWRXSDlvMnRFZlpqYzJ2aWhNb251Y1NwYWlwM3BOeHRBaG1ycjNPX0xwN2dwM1l4S3UxQlZJU1JtRXI0SmNfRGNidTc3S3AxU3p5eXVOdUMzbktLMWxZY1BXelFPWlA5VElJdlI3dnZFUDExUThIYnciLCJpZCI6ImZjX3lnLWphcl9VQ2RDYmh2Y1BncWJJLVFrXzYifQ%3D%3D"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "MV High School",
+   "link": "https://www.mvschool.org/mvhs/home",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWgHrOzAVi5tBxfsk_mjUDW-TuZOpOs6M5hBKxu6jRqtCovRIJRInfSipcO0LDZnd_IIQ7ZRPbP59BkXBm0SQ-9qKi7uerIAdd2lljXAlDhkvLzyFVruwthnNLw&ved=2ahUKEwi_4bn96eSWAxXQjeEIHQITMp8QFnoECCUQAQ&uoh=1",
+   "displayed_link": "https://www.mvschool.org \u203a mvhs",
+   "favicon": "https://serpapi.com/images/i/UklGRooBAABXRUJQVlA4IH4BAABQBwCdASogACAAPtEutFooIagoGAEAGglmAMaDad6Gr9ObT4OxjbPxTDsmImIHly_M_7WmTSf4mvQd7Hlrznno1mkAAP7-w5Aat8b79MTEmgHzvBBGQl3SDdIFsjyykQFiDbS9pB4FOavCh0ft7E9KCw26rCX75M5meiKSsKBZiAI-vMPrL5muzZmLRNWtQbb13YXAX4tWXE0osRFdAEqYcorZVw7pWfpb-wwIDyUIy-BMpa8okXTZ92lteMUo-KZJCb6vU57WoX_mvG_WnXgpS6lMaVMdmNHUKEi9FY44f-zLCfFry_qpXgLO9GpjU9PoAFse1_-KgFDWgqH3YYkFc78nv14gmZW2xfXxGjCC8KbO971hSZz4Mtr79eCz6P2wfxd8HP0nYOt18JnyI6p5UQIxOLz-_JIsKw9bOnebq5RJJXzs_fVMwXTvEStSotN2LpgEwYXsbLF7YRsCBb1SbCBRLCJNzBr6ooU83cDuheSUldVtOUKht25sAAAA.webp",
+   "snippet": "Mount Vernon High School \u00b7 JDH School of Welding \u00b7 Mount Vernon Junior High School \u00b7 Farmersville Elementary School \u00b7 Marrs Elementary School \u00b7 West Elementary ...",
+   "snippet_highlighted_words": [
+    "Mount Vernon High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Mount Vernon High School \u00b7 JDH School of Welding \u00b7 Mount Vernon Junior High School \u00b7 Farmersville Elementary School \u00b7 Marrs Elementary School \u00b7 West Elementary ...",
+     "source_info_link": "https://www.mvschool.org/mvhs/home",
+     "icon": "https://serpapi.com/images/i/UklGRooBAABXRUJQVlA4IH4BAABQBwCdASogACAAPtEutFooIagoGAEAGglmAMaDad6Gr9ObT4OxjbPxTDsmImIHly_M_7WmTSf4mvQd7Hlrznno1mkAAP7-w5Aat8b79MTEmgHzvBBGQl3SDdIFsjyykQFiDbS9pB4FOavCh0ft7E9KCw26rCX75M5meiKSsKBZiAI-vMPrL5muzZmLRNWtQbb13YXAX4tWXE0osRFdAEqYcorZVw7pWfpb-wwIDyUIy-BMpa8okXTZ92lteMUo-KZJCb6vU57WoX_mvG_WnXgpS6lMaVMdmNHUKEi9FY44f-zLCfFry_qpXgLO9GpjU9PoAFse1_-KgFDWgqH3YYkFc78nv14gmZW2xfXxGjCC8KbO971hSZz4Mtr79eCz6P2wfxd8HP0nYOt18JnyI6p5UQIxOLz-_JIsKw9bOnebq5RJJXzs_fVMwXTvEStSotN2LpgEwYXsbLF7YRsCBb1SbCBRLCJNzBr6ooU83cDuheSUldVtOUKht25sAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESWgHrOzAVi5tBxfsk_mjUDW-TuZOpOs6M5hBKxu6jRqtCovRIJRInfSipcO0LDZnd_IIQ7ZRPbP59BkXBm0SQ-9qKi7uerIAdd2lljXAlDhkvLzyFVruwthnNLw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESWgHrOzAVi5tBxfsk_mjUDW-TuZOpOs6M5hBKxu6jRqtCovRIJRInfSipcO0LDZnd_IIQ7ZRPbP59BkXBm0SQ-9qKi7uerIAdd2lljXAlDhkvLzyFVruwthnNLw",
+   "source": "MSD of Mount Vernon",
+   "read_more_link": "https://www.mvschool.org/mvhs/home#:~:text=Enrollment"
+  },
+  {
+   "position": 2,
+   "title": "Mount Vernon High School (Fortville, Indiana)",
+   "link": "https://en.wikipedia.org/wiki/Mount_Vernon_High_School_(Fortville,_Indiana)",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgwEB6zswFaSeKbe-8WFcuNPYEUn5YABXUm1LFRyk009ZPb3O08FYv1ikd0ybc2yCHUnCUeTaBepHA1ngQPLKllOfU0Hz4UqFJsTIQ_FbVERfeMoTHRNZNgmsqY3Qsj9LHHoz-pUgjCD6BspqmVOExaWzkrbFIwk9XFaxrMgdnNVCwuslZw&ved=2ahUKEwi_4bn96eSWAxXQjeEIHQITMp8QFnoECCkQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Mount_Vernon_High_...",
+   "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+   "snippet": "Mount Vernon High School (Fortville, Indiana) ; 8112 North 200 West. Fortville. ,. Indiana. 46040. United States.",
+   "snippet_highlighted_words": [
+    "Mount Vernon High School",
+    "Indiana",
+    "Indiana"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Mount Vernon High School (Fortville, Indiana) ; 8112 North 200 West. Fortville. ,. Indiana. 46040. United States.",
+     "source_info_link": "https://en.wikipedia.org/wiki/Mount_Vernon_High_School_(Fortville,_Indiana)",
+     "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESgwEB6zswFaSeKbe-8WFcuNPYEUn5YABXUm1LFRyk009ZPb3O08FYv1ikd0ybc2yCHUnCUeTaBepHA1ngQPLKllOfU0Hz4UqFJsTIQ_FbVERfeMoTHRNZNgmsqY3Qsj9LHHoz-pUgjCD6BspqmVOExaWzkrbFIwk9XFaxrMgdnNVCwuslZw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESgwEB6zswFaSeKbe-8WFcuNPYEUn5YABXUm1LFRyk009ZPb3O08FYv1ikd0ybc2yCHUnCUeTaBepHA1ngQPLKllOfU0Hz4UqFJsTIQ_FbVERfeMoTHRNZNgmsqY3Qsj9LHHoz-pUgjCD6BspqmVOExaWzkrbFIwk9XFaxrMgdnNVCwuslZw",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Mount_Vernon_High_School_(Fortville,_Indiana)#:~:text=Mount%20Vernon%20High%20School%20(Fortville%2C,Indiana)&text=8112%20North%20200%20West,United%20States"
+  },
+  {
+   "position": 3,
+   "title": "Mount Vernon High School - Indiana",
+   "link": "https://www.usnews.com/education/best-high-schools/indiana/districts/m-s-d-mount-vernon/mount-vernon-high-school-7309",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrQEB6zswFYylUJq4l0OKZESiRNm_2XEcxnEJSLDA6FrmgFdTWN3yNWQ1Y0owlWN-4lQhkjo-nqJtmQ4AIVLQAwSAnynVgcZdwhaoFRzY7qnaSP3mh5V4x-erieCB8xV0ZGrbXq5ijAJ3LGFiUNmITTKF2_URXhjlWhSv43AJ4QyFz6YqwgDlE5vaJK1FGdd3hwiEv9iiUCuU9wycLeF3gwal9CBPZBc6oYkGkZNAqA&ved=2ahUKEwi_4bn96eSWAxXQjeEIHQITMp8QFnoECCgQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a ... \u203a M S D Mount Vernon",
+   "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp",
+   "snippet": "Mount Vernon High School is ranked 204th within Indiana. Students have the opportunity to take Advanced Placement\u00ae coursework and exams. The AP\u00ae participation ...",
+   "snippet_highlighted_words": [
+    "Mount Vernon High School",
+    "Indiana"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Mount Vernon High School is ranked 204th within Indiana. Students have the opportunity to take Advanced Placement\u00ae coursework and exams. The AP\u00ae participation ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/indiana/districts/m-s-d-mount-vernon/mount-vernon-high-school-7309",
+     "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESrQEB6zswFYylUJq4l0OKZESiRNm_2XEcxnEJSLDA6FrmgFdTWN3yNWQ1Y0owlWN-4lQhkjo-nqJtmQ4AIVLQAwSAnynVgcZdwhaoFRzY7qnaSP3mh5V4x-erieCB8xV0ZGrbXq5ijAJ3LGFiUNmITTKF2_URXhjlWhSv43AJ4QyFz6YqwgDlE5vaJK1FGdd3hwiEv9iiUCuU9wycLeF3gwal9CBPZBc6oYkGkZNAqA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESrQEB6zswFYylUJq4l0OKZESiRNm_2XEcxnEJSLDA6FrmgFdTWN3yNWQ1Y0owlWN-4lQhkjo-nqJtmQ4AIVLQAwSAnynVgcZdwhaoFRzY7qnaSP3mh5V4x-erieCB8xV0ZGrbXq5ijAJ3LGFiUNmITTKF2_URXhjlWhSv43AJ4QyFz6YqwgDlE5vaJK1FGdd3hwiEv9iiUCuU9wycLeF3gwal9CBPZBc6oYkGkZNAqA",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/indiana/districts/m-s-d-mount-vernon/mount-vernon-high-school-7309#:~:text=Mount%20Vernon%20High%20School%20is,grade%20enrollment%20is%20127%20students."
+  },
+  {
+   "position": 4,
+   "title": "Mount Vernon High School",
+   "link": "https://mvwildcats.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTwHrOzAVID80N8e5on_-09mYBt3hPyweG_G0zl5VWjdtUHoZJjOtLADCgTBAiroDzW59synGNr-KQdX48bKb7Wz2yCzWe0hAzV7BOXzjNVo&ved=2ahUKEwi_4bn96eSWAxXQjeEIHQITMp8QFnoECCwQAQ&uoh=1",
+   "displayed_link": "https://mvwildcats.org",
+   "favicon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAACwBwCdASogACAAPtEutFooIagoGAEAGgljAMsw82qHf0F7Af6p_8PsAegB-sy2tih9VZKKCQy0wkaNvMwSTcj9WIpI22MAAP7-wj5-VmvDrpP8Gv6aBGa4zTtaQ9Jyf2Y9tXZX5P9wOZSQHv5LD-2nPPSuIQUfZcrSWS4D3EOw3U9jkUhkMPiHXdaq-2mjGFIjZpZI7Z2HyqvApimQ2DdH3ytX0CqW5Zobjxyv-vszwukXNz02BRdu7GH1-rFMJif_0tyUL4Uccc4yYjsX25fTpFbLR_vDaEJ6Z4_-BDhP_fH2YF6j8STP5ZbfLvm23tPhkJrJia9Cblha0TOGzk7VY_5FinW9JWVykqQGra4R5-Xy9UPcaOrIrvLfFyjY10f93uhYnlXhlpFf3YxxEqBqnGstKsx8MptO9kOU-TPUs_wYHAfyX90FcD-BAhzFqMMc-_u466OIW--Iv3LYWVdKZTDjS0hkcF_8ygrSkjHYmOwA.webp",
+   "snippet": "Mount Vernon High School. Powered By Eventlink logo. 700 HARRIETT ST. MOUNT VERNON, IN 47620. 812-838-4356. Privacy Policy \u00b7 Terms Of Service. English Espa\u00f1ol.",
+   "snippet_highlighted_words": [
+    "Mount Vernon High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Mount Vernon High School. Powered By Eventlink logo. 700 HARRIETT ST. MOUNT VERNON, IN 47620. 812-838-4356. Privacy Policy \u00b7 Terms Of Service. English Espa\u00f1ol.",
+     "source_info_link": "https://mvwildcats.org/",
+     "icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAACwBwCdASogACAAPtEutFooIagoGAEAGgljAMsw82qHf0F7Af6p_8PsAegB-sy2tih9VZKKCQy0wkaNvMwSTcj9WIpI22MAAP7-wj5-VmvDrpP8Gv6aBGa4zTtaQ9Jyf2Y9tXZX5P9wOZSQHv5LD-2nPPSuIQUfZcrSWS4D3EOw3U9jkUhkMPiHXdaq-2mjGFIjZpZI7Z2HyqvApimQ2DdH3ytX0CqW5Zobjxyv-vszwukXNz02BRdu7GH1-rFMJif_0tyUL4Uccc4yYjsX25fTpFbLR_vDaEJ6Z4_-BDhP_fH2YF6j8STP5ZbfLvm23tPhkJrJia9Cblha0TOGzk7VY_5FinW9JWVykqQGra4R5-Xy9UPcaOrIrvLfFyjY10f93uhYnlXhlpFf3YxxEqBqnGstKsx8MptO9kOU-TPUs_wYHAfyX90FcD-BAhzFqMMc-_u466OIW--Iv3LYWVdKZTDjS0hkcF_8ygrSkjHYmOwA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESTwHrOzAVID80N8e5on_-09mYBt3hPyweG_G0zl5VWjdtUHoZJjOtLADCgTBAiroDzW59synGNr-KQdX48bKb7Wz2yCzWe0hAzV7BOXzjNVo&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESTwHrOzAVID80N8e5on_-09mYBt3hPyweG_G0zl5VWjdtUHoZJjOtLADCgTBAiroDzW59synGNr-KQdX48bKb7Wz2yCzWe0hAzV7BOXzjNVo",
+   "source": "mvwildcats.org",
+   "read_more_link": "https://mvwildcats.org/#:~:text=Mount%20Vernon%20High%20School,English%20Espa%C3%B1ol"
+  },
+  {
+   "position": 5,
+   "title": "Mount Vernon High School - Indiana",
+   "link": "https://www.donorschoose.org/schools/indiana/mount-vernon-community-school-district/mt-vernon-high-school/19855",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpwEB6zswFaNStk9N9ncKTbm_Jvayjx3LoBuNqO_YrZdq03np9MokVkKtdEemqBcbNRokR7lf5tTn1ktKmQxaokdnGEXseM2qXRm3tGMFe63zQ_nh8Y4NEF2OH2qvkAd9H0LQVQ6OIfXOW9UZS-3ftX6uvZJ5P3DCyRcCLo7Fvt69mOrDyRBs9hCsmd2LygqPRJpLz7tPhq7B8NWj0RPwAZHvjYhdRZ8t_A&ved=2ahUKEwi_4bn96eSWAxXQjeEIHQITMp8QFnoECCcQAQ&uoh=1",
+   "displayed_link": "https://www.donorschoose.org \u203a schools \u203a indiana \u203a mt...",
+   "favicon": "https://serpapi.com/images/i/UklGRswAAABXRUJQVlA4IMAAAABwBQCdASocABwAPtEwtFooIigoGAEAGglsAKknND9QgUiCtSxixOFp4uhGPS57r1rBvQAAAP78Ruvp_RopI31agF2kTcvpn_nJpqDkB-JZ3L4TnmXfH8Lj7_7aH_7LAv_qWkLImNPY960ex9CxAdN4Rj2bYpPBjMs4lAfwcelVvNLkNVmPcrR_CPQWyeuMExXrAK1CRpFOK2_rpU32_y9RFVHtRr1D17PWVgxOgSGl1SdGJuoFHhfsjXVLLo5igAA.webp",
+   "snippet": "Mount Vernon High School is a public school in Fortville, Indiana that is part of Mount Vernon Community School District. It serves 1539 studentsin 9 - 12 ...",
+   "snippet_highlighted_words": [
+    "Mount Vernon High School",
+    "Indiana"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Mount Vernon High School is a public school in Fortville, Indiana that is part of Mount Vernon Community School District. It serves 1539 studentsin 9 - 12 ...",
+     "source_info_link": "https://www.donorschoose.org/schools/indiana/mount-vernon-community-school-district/mt-vernon-high-school/19855",
+     "icon": "https://serpapi.com/images/i/UklGRswAAABXRUJQVlA4IMAAAABwBQCdASocABwAPtEwtFooIigoGAEAGglsAKknND9QgUiCtSxixOFp4uhGPS57r1rBvQAAAP78Ruvp_RopI31agF2kTcvpn_nJpqDkB-JZ3L4TnmXfH8Lj7_7aH_7LAv_qWkLImNPY960ex9CxAdN4Rj2bYpPBjMs4lAfwcelVvNLkNVmPcrR_CPQWyeuMExXrAK1CRpFOK2_rpU32_y9RFVHtRr1D17PWVgxOgSGl1SdGJuoFHhfsjXVLLo5igAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESpwEB6zswFaNStk9N9ncKTbm_Jvayjx3LoBuNqO_YrZdq03np9MokVkKtdEemqBcbNRokR7lf5tTn1ktKmQxaokdnGEXseM2qXRm3tGMFe63zQ_nh8Y4NEF2OH2qvkAd9H0LQVQ6OIfXOW9UZS-3ftX6uvZJ5P3DCyRcCLo7Fvt69mOrDyRBs9hCsmd2LygqPRJpLz7tPhq7B8NWj0RPwAZHvjYhdRZ8t_A&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESpwEB6zswFaNStk9N9ncKTbm_Jvayjx3LoBuNqO_YrZdq03np9MokVkKtdEemqBcbNRokR7lf5tTn1ktKmQxaokdnGEXseM2qXRm3tGMFe63zQ_nh8Y4NEF2OH2qvkAd9H0LQVQ6OIfXOW9UZS-3ftX6uvZJ5P3DCyRcCLo7Fvt69mOrDyRBs9hCsmd2LygqPRJpLz7tPhq7B8NWj0RPwAZHvjYhdRZ8t_A",
+   "source": "DonorsChoose"
+  },
+  {
+   "position": 6,
+   "title": "Mount Vernon High School (Fortville, Indiana) - Home",
+   "link": "https://www.facebook.com/pages/Mount-Vernon-High-School-Fortville-Indiana/109713112380896",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkQEB6zswFeJ4lPCsl_XT3FGNnUTgbrSzRfRswqFJJrVdBgEphEsIHSS3fMvr02PLjPefoC-sjS9BI9R0__ssVO5AYVnDXl1wXOsWv1yiSblFwg5WF7c09S6Hx78TnYYuWeOvhx8oET3MdWphjEMR1zIz-xyFad5tZbZzYCcr5AoSBNGlTU15FSuXFK14Oy8L3Knn&ved=2ahUKEwi_4bn96eSWAxXQjeEIHQITMp8QFnoECCYQAQ&uoh=1",
+   "displayed_link": "https://www.facebook.com \u203a pages \u203a Mount-Vernon-Hi...",
+   "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "snippet": "Mount Vernon High School (Fortville, Indiana). 2K likes. Mt. Vernon High School is a public high school located in Fortville, Indiana and is part of the Mt.",
+   "snippet_highlighted_words": [
+    "Mount Vernon High School",
+    "Indiana",
+    "Indiana"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Mount Vernon High School (Fortville, Indiana). 2K likes. Mt. Vernon High School is a public high school located in Fortville, Indiana and is part of the Mt.",
+     "source_info_link": "https://www.facebook.com/pages/Mount-Vernon-High-School-Fortville-Indiana/109713112380896",
+     "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESkQEB6zswFeJ4lPCsl_XT3FGNnUTgbrSzRfRswqFJJrVdBgEphEsIHSS3fMvr02PLjPefoC-sjS9BI9R0__ssVO5AYVnDXl1wXOsWv1yiSblFwg5WF7c09S6Hx78TnYYuWeOvhx8oET3MdWphjEMR1zIz-xyFad5tZbZzYCcr5AoSBNGlTU15FSuXFK14Oy8L3Knn&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESkQEB6zswFeJ4lPCsl_XT3FGNnUTgbrSzRfRswqFJJrVdBgEphEsIHSS3fMvr02PLjPefoC-sjS9BI9R0__ssVO5AYVnDXl1wXOsWv1yiSblFwg5WF7c09S6Hx78TnYYuWeOvhx8oET3MdWphjEMR1zIz-xyFad5tZbZzYCcr5AoSBNGlTU15FSuXFK14Oy8L3Knn",
+   "source": "Facebook",
+   "read_more_link": "https://www.facebook.com/pages/Mount-Vernon-High-School-Fortville-Indiana/109713112380896#:~:text=Mount%20Vernon%20High%20School%20(Fortville%2C,is%20part%20of%20the%20Mt."
+  },
+  {
+   "position": 7,
+   "title": "Mount Vernon Jr High School - (6th - 8th)",
+   "link": "https://indianagps.doe.in.gov/Summary/School/3405",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVMwrgBQySsQt7y120rd2Mk_wOvQhcM1HUqaiWea_gqa8eG4JOD_6jwVhFXQbmuKr1AIRcSfxk4VLhg_FVBWs4Qo8aKEUbEnX5vfZuUcKnfDIqAuSWvJ32QsTAOmwsXv074c7wuQ&ved=2ahUKEwi_4bn96eSWAxXQjeEIHQITMp8QFnoECE4QAQ&uoh=1",
+   "displayed_link": "https://indianagps.doe.in.gov \u203a Summary \u203a School",
+   "favicon": "https://serpapi.com/images/i/UklGRpABAABXRUJQVlA4IIQBAAAQCACdASogACAAPtEutFooIagoGAEAGglsAJ0zNDA3tduHa5DAbaAZ4JncYK_n_o9gI3dumwK6Q9c16V0Ml-0A0L5fNTLZEbAAAP72Et_rgLdFeYfP03A8MNrFPfMV6wmyV38Jn4Vg83fD0zjd38mq5tnlzwhrYnl3qUU4CiVvoVRbBUtkwB0uZFsvRepSAWLjJDPn47gfXWXZyD4lzRgEUUC0z86BO2LYqlxJYPmpWtVSh1Rkbk3ImDS9zPer0U6EOQLYGG43CWV4yTPHeOTkDNzjWBVRaNuHdPzPLGL90uzjQf6j57NCtsan47wV5WdtnXz1dW5uT9ThnE8cuvGM66Qw-FyC8Iv9OdAA_OccvWv6Hv0llrii9xfnlIwsm2mfEFBv1O-NdRuMgtDSCtbcH1R6OyGCDh4ImyEr4lnKFCrT7Se-A_8GbSv_PkcxyOz3YNZgJsMm6SlDeIbbU5aGwcWgRufGKYbBSulUDnOLYj2Xpft_Enyw8_iju_YtcfA4yAAA.webp",
+   "snippet": "Farmersville Elementary School - (PreK - 5th) \u00b7 Marrs Elementary School - (Kindergarten - 5th) \u00b7 Mount Vernon High School - (9th - 12th) \u00b7 West Elementary School - ...",
+   "snippet_highlighted_words": [
+    "Mount Vernon High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Farmersville Elementary School - (PreK - 5th) \u00b7 Marrs Elementary School - (Kindergarten - 5th) \u00b7 Mount Vernon High School - (9th - 12th) \u00b7 West Elementary School - ...",
+     "source_info_link": "https://indianagps.doe.in.gov/Summary/School/3405",
+     "icon": "https://serpapi.com/images/i/UklGRpABAABXRUJQVlA4IIQBAAAQCACdASogACAAPtEutFooIagoGAEAGglsAJ0zNDA3tduHa5DAbaAZ4JncYK_n_o9gI3dumwK6Q9c16V0Ml-0A0L5fNTLZEbAAAP72Et_rgLdFeYfP03A8MNrFPfMV6wmyV38Jn4Vg83fD0zjd38mq5tnlzwhrYnl3qUU4CiVvoVRbBUtkwB0uZFsvRepSAWLjJDPn47gfXWXZyD4lzRgEUUC0z86BO2LYqlxJYPmpWtVSh1Rkbk3ImDS9zPer0U6EOQLYGG43CWV4yTPHeOTkDNzjWBVRaNuHdPzPLGL90uzjQf6j57NCtsan47wV5WdtnXz1dW5uT9ThnE8cuvGM66Qw-FyC8Iv9OdAA_OccvWv6Hv0llrii9xfnlIwsm2mfEFBv1O-NdRuMgtDSCtbcH1R6OyGCDh4ImyEr4lnKFCrT7Se-A_8GbSv_PkcxyOz3YNZgJsMm6SlDeIbbU5aGwcWgRufGKYbBSulUDnOLYj2Xpft_Enyw8_iju_YtcfA4yAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESaQHrOzAVMwrgBQySsQt7y120rd2Mk_wOvQhcM1HUqaiWea_gqa8eG4JOD_6jwVhFXQbmuKr1AIRcSfxk4VLhg_FVBWs4Qo8aKEUbEnX5vfZuUcKnfDIqAuSWvJ32QsTAOmwsXv074c7wuQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESaQHrOzAVMwrgBQySsQt7y120rd2Mk_wOvQhcM1HUqaiWea_gqa8eG4JOD_6jwVhFXQbmuKr1AIRcSfxk4VLhg_FVBWs4Qo8aKEUbEnX5vfZuUcKnfDIqAuSWvJ32QsTAOmwsXv074c7wuQ",
+   "source": "Indiana Graduates Prepared to Succeed (GPS) (.gov)",
+   "read_more_link": "https://indianagps.doe.in.gov/Summary/School/3405#:~:text=Farmersville%20Elementary%20School%20%2D%20(PreK,%2D%205th)&text=Marrs%20Elementary%20School%20%2D%20(Kindergarten,%2D%205th)&text=Mount%20Vernon%20High%20School%20%2D,(9th%20%2D%2012th)&text=West%20Elementary%20School%20%2D%20(PreK,%2D%205th)"
+  },
+  {
+   "position": 8,
+   "title": "About Mt. Vernon High School",
+   "link": "https://www.mvschool.org/mvhs/about-mvhs",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAVwYXhw6S-2zR0VY2orNGYJggteJUgf-3Dl_at_664dDjPl8YxqRVNju64TbRbJrJ85fR6Z5L6dGFS8ghRx8FhI-WkSE-j50Mt7tWzKEw4FfOnPOT9SYsTZ8e8Iw&ved=2ahUKEwi_4bn96eSWAxXQjeEIHQITMp8QFnoECCQQAQ&uoh=1",
+   "displayed_link": "https://www.mvschool.org \u203a mvhs \u203a about-mvhs",
+   "favicon": "https://serpapi.com/images/i/UklGRooBAABXRUJQVlA4IH4BAABQBwCdASogACAAPtEutFooIagoGAEAGglmAMaDad6Gr9ObT4OxjbPxTDsmImIHly_M_7WmTSf4mvQd7Hlrznno1mkAAP7-w5Aat8b79MTEmgHzvBBGQl3SDdIFsjyykQFiDbS9pB4FOavCh0ft7E9KCw26rCX75M5meiKSsKBZiAI-vMPrL5muzZmLRNWtQbb13YXAX4tWXE0osRFdAEqYcorZVw7pWfpb-wwIDyUIy-BMpa8okXTZ92lteMUo-KZJCb6vU57WoX_mvG_WnXgpS6lMaVMdmNHUKEi9FY44f-zLCfFry_qpXgLO9GpjU9PoAFse1_-KgFDWgqH3YYkFc78nv14gmZW2xfXxGjCC8KbO971hSZz4Mtr79eCz6P2wfxd8HP0nYOt18JnyI6p5UQIxOLz-_JIsKw9bOnebq5RJJXzs_fVMwXTvEStSotN2LpgEwYXsbLF7YRsCBb1SbCBRLCJNzBr6ooU83cDuheSUldVtOUKht25sAAAA.webp",
+   "snippet": "Mount Vernon High School \u00b7 JDH School of Welding \u00b7 Mount Vernon Junior High School \u00b7 Farmersville Elementary School \u00b7 Marrs Elementary School \u00b7 West Elementary ...",
+   "snippet_highlighted_words": [
+    "Mount Vernon High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Mount Vernon High School \u00b7 JDH School of Welding \u00b7 Mount Vernon Junior High School \u00b7 Farmersville Elementary School \u00b7 Marrs Elementary School \u00b7 West Elementary ...",
+     "source_info_link": "https://www.mvschool.org/mvhs/about-mvhs",
+     "icon": "https://serpapi.com/images/i/UklGRooBAABXRUJQVlA4IH4BAABQBwCdASogACAAPtEutFooIagoGAEAGglmAMaDad6Gr9ObT4OxjbPxTDsmImIHly_M_7WmTSf4mvQd7Hlrznno1mkAAP7-w5Aat8b79MTEmgHzvBBGQl3SDdIFsjyykQFiDbS9pB4FOavCh0ft7E9KCw26rCX75M5meiKSsKBZiAI-vMPrL5muzZmLRNWtQbb13YXAX4tWXE0osRFdAEqYcorZVw7pWfpb-wwIDyUIy-BMpa8okXTZ92lteMUo-KZJCb6vU57WoX_mvG_WnXgpS6lMaVMdmNHUKEi9FY44f-zLCfFry_qpXgLO9GpjU9PoAFse1_-KgFDWgqH3YYkFc78nv14gmZW2xfXxGjCC8KbO971hSZz4Mtr79eCz6P2wfxd8HP0nYOt18JnyI6p5UQIxOLz-_JIsKw9bOnebq5RJJXzs_fVMwXTvEStSotN2LpgEwYXsbLF7YRsCBb1SbCBRLCJNzBr6ooU83cDuheSUldVtOUKht25sAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYAHrOzAVwYXhw6S-2zR0VY2orNGYJggteJUgf-3Dl_at_664dDjPl8YxqRVNju64TbRbJrJ85fR6Z5L6dGFS8ghRx8FhI-WkSE-j50Mt7tWzKEw4FfOnPOT9SYsTZ8e8Iw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYAHrOzAVwYXhw6S-2zR0VY2orNGYJggteJUgf-3Dl_at_664dDjPl8YxqRVNju64TbRbJrJ85fR6Z5L6dGFS8ghRx8FhI-WkSE-j50Mt7tWzKEw4FfOnPOT9SYsTZ8e8Iw",
+   "source": "MSD of Mount Vernon",
+   "read_more_link": "https://www.mvschool.org/mvhs/about-mvhs#:~:text=About%20Mt.%20Vernon%20High%20School"
+  },
+  {
+   "position": 9,
+   "title": "Mount Vernon High School - Indiana",
+   "link": "https://www.greatschools.org/indiana/mount-vernon/1148-Mount-Vernon-High-School/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiAEB6zswFWPyWQcplR2IPr0Rn5SyS0q7Dn3QIPG-NFUwweqDpKT7_Ki03YJhpIUN5jyYNDqCFt2xNKydAFHaRXmam48DUcrXKNW6zAIEG6m-xas_-6M2y11AtqnbwTarTQkzQh6XM4Q2mVsx1ZoLuOJRCozL9LhezOBVaaSRKtzC4ViTgIKYwL4Y&ved=2ahUKEwi_4bn96eSWAxXQjeEIHQITMp8QFnoECCMQAQ&uoh=1",
+   "displayed_link": "https://www.greatschools.org \u203a indiana \u203a 1148-Mount-...",
+   "favicon": "https://serpapi.com/images/i/UklGRnABAABXRUJQVlA4IGQBAABQCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_jtuHbtjAbYDcAbyB6AHSlf6oixRzh8GEWsYxJ825M9RhM3gV5vdPb_m98cAA_vi6aS7Pzd7susCq7-6fF19W_uHxnTUiht4Bnli4K1NZlcvWNx_U9wUWYJNt7XaI9c-ByTdyo4mDmlZ-5yiSyr_u7cBW9GjDY0XOwNkf3M-JPMdorcnf5W3JquL_1XhdMWG9MeU4wxsyWrY1EBIhBEe9pptiUN9e6cDdPncpdjgPIvoHDAfly9B5KtVb-rS2mA85vxw-fVfJkvrbkjL-z0L62bhyC1muRYqxX5mA92DT5WC6rg1GKs3vDTWtEWyQkNCx7JpqOrcRh1tXyd6AvX19XcKdTTPG1ozotzAlVyERstS5yUat0Hnv2de5D6l_B6PNH32glgAMU9TscSW7BeznX-ttUqaHqMZfqKDlq_LuvvKpt3UAAA.webp",
+   "snippet": "Mount Vernon High School is a public school in Mount Vernon, IN, offering AP courses, 2 sports, and Project Lead The Way curriculum.",
+   "snippet_highlighted_words": [
+    "Mount Vernon High School"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 4.0,
+      "reviews": 4
+     },
+     "extensions": [
+      "4.0(4)"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Mount Vernon High School is a public school in Mount Vernon, IN, offering AP courses, 2 sports, and Project Lead The Way curriculum.",
+     "source_info_link": "https://www.greatschools.org/indiana/mount-vernon/1148-Mount-Vernon-High-School/",
+     "icon": "https://serpapi.com/images/i/UklGRnABAABXRUJQVlA4IGQBAABQCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_jtuHbtjAbYDcAbyB6AHSlf6oixRzh8GEWsYxJ825M9RhM3gV5vdPb_m98cAA_vi6aS7Pzd7susCq7-6fF19W_uHxnTUiht4Bnli4K1NZlcvWNx_U9wUWYJNt7XaI9c-ByTdyo4mDmlZ-5yiSyr_u7cBW9GjDY0XOwNkf3M-JPMdorcnf5W3JquL_1XhdMWG9MeU4wxsyWrY1EBIhBEe9pptiUN9e6cDdPncpdjgPIvoHDAfly9B5KtVb-rS2mA85vxw-fVfJkvrbkjL-z0L62bhyC1muRYqxX5mA92DT5WC6rg1GKs3vDTWtEWyQkNCx7JpqOrcRh1tXyd6AvX19XcKdTTPG1ozotzAlVyERstS5yUat0Hnv2de5D6l_B6PNH32glgAMU9TscSW7BeznX-ttUqaHqMZfqKDlq_LuvvKpt3UAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESiAEB6zswFWPyWQcplR2IPr0Rn5SyS0q7Dn3QIPG-NFUwweqDpKT7_Ki03YJhpIUN5jyYNDqCFt2xNKydAFHaRXmam48DUcrXKNW6zAIEG6m-xas_-6M2y11AtqnbwTarTQkzQh6XM4Q2mVsx1ZoLuOJRCozL9LhezOBVaaSRKtzC4ViTgIKYwL4Y&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESiAEB6zswFWPyWQcplR2IPr0Rn5SyS0q7Dn3QIPG-NFUwweqDpKT7_Ki03YJhpIUN5jyYNDqCFt2xNKydAFHaRXmam48DUcrXKNW6zAIEG6m-xas_-6M2y11AtqnbwTarTQkzQh6XM4Q2mVsx1ZoLuOJRCozL9LhezOBVaaSRKtzC4ViTgIKYwL4Y",
+   "source": "GreatSchools"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Mount vernon high school indiana football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsPs2WFfG2ydIhCSs-VpQSfA3pFbg:1789071306166&q=Mount+vernon+high+school+indiana+football&sa=X&ved=2ahUKEwi_4bn96eSWAxXQjeEIHQITMp8Q1QJ6BAhFEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mount+vernon+high+school+indiana+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Mount vernon high school indiana basketball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsPs2WFfG2ydIhCSs-VpQSfA3pFbg:1789071306166&q=Mount+vernon+high+school+indiana+basketball&sa=X&ved=2ahUKEwi_4bn96eSWAxXQjeEIHQITMp8Q1QJ6BAhNEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mount+vernon+high+school+indiana+basketball"
+  },
+  {
+   "block_position": 1,
+   "query": "Mount vernon high school indiana ranking",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsPs2WFfG2ydIhCSs-VpQSfA3pFbg:1789071306166&q=Mount+vernon+high+school+indiana+ranking&sa=X&ved=2ahUKEwi_4bn96eSWAxXQjeEIHQITMp8Q1QJ6BAhKEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mount+vernon+high+school+indiana+ranking"
+  },
+  {
+   "block_position": 1,
+   "query": "Mount vernon high school indiana yearbook",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsPs2WFfG2ydIhCSs-VpQSfA3pFbg:1789071306166&q=Mount+vernon+high+school+indiana+yearbook&sa=X&ved=2ahUKEwi_4bn96eSWAxXQjeEIHQITMp8Q1QJ6BAhJEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mount+vernon+high+school+indiana+yearbook"
+  },
+  {
+   "block_position": 1,
+   "query": "Mount Vernon School Corporation",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsPs2WFfG2ydIhCSs-VpQSfA3pFbg:1789071306166&q=Mount+Vernon+School+Corporation&sa=X&ved=2ahUKEwi_4bn96eSWAxXQjeEIHQITMp8Q1QJ6BAhIEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mount+Vernon+School+Corporation"
+  },
+  {
+   "block_position": 1,
+   "query": "Mt Vernon High School athletics",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsPs2WFfG2ydIhCSs-VpQSfA3pFbg:1789071306166&q=Mt+Vernon+High+School+athletics&sa=X&ved=2ahUKEwi_4bn96eSWAxXQjeEIHQITMp8Q1QJ6BAhLEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mt+Vernon+High+School+athletics"
+  },
+  {
+   "block_position": 1,
+   "query": "Mt Vernon High School website",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsPs2WFfG2ydIhCSs-VpQSfA3pFbg:1789071306166&q=Mt+Vernon+High+School+website&sa=X&ved=2ahUKEwi_4bn96eSWAxXQjeEIHQITMp8Q1QJ6BAhHEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mt+Vernon+High+School+website"
+  },
+  {
+   "block_position": 1,
+   "query": "Mt Vernon High School photos",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsPs2WFfG2ydIhCSs-VpQSfA3pFbg:1789071306166&q=Mt+Vernon+High+School+photos&sa=X&ved=2ahUKEwi_4bn96eSWAxXQjeEIHQITMp8Q1QJ6BAhGEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mt+Vernon+High+School+photos"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Mount+Vernon+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsPs2WFfG2ydIhCSs-VpQSfA3pFbg:1789071306166&ei=yg-jar_UCdCbhvcPgqbI-Qk&start=10&sa=N&sstk=AS6-VmLibWtDOXw35zFw8TNwRVBFcCk3mz7KQaVTNZZauat7Ux7zlf4lPWLRDurUvQV6Jkz4TQBcpyuBw2YDsZh72y2ZEj2gnAVp4Q&ved=2ahUKEwi_4bn96eSWAxXQjeEIHQITMp8Q8NMDegQIQhAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Mount+Vernon+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsPs2WFfG2ydIhCSs-VpQSfA3pFbg:1789071306166&ei=yg-jar_UCdCbhvcPgqbI-Qk&start=10&sa=N&sstk=AS6-VmLibWtDOXw35zFw8TNwRVBFcCk3mz7KQaVTNZZauat7Ux7zlf4lPWLRDurUvQV6Jkz4TQBcpyuBw2YDsZh72y2ZEj2gnAVp4Q&ved=2ahUKEwi_4bn96eSWAxXQjeEIHQITMp8Q8tMDegQIQhAE",
+   "3": "https://www.google.com/search?q=%22Mount+Vernon+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsPs2WFfG2ydIhCSs-VpQSfA3pFbg:1789071306166&ei=yg-jar_UCdCbhvcPgqbI-Qk&start=20&sa=N&sstk=AS6-VmLibWtDOXw35zFw8TNwRVBFcCk3mz7KQaVTNZZauat7Ux7zlf4lPWLRDurUvQV6Jkz4TQBcpyuBw2YDsZh72y2ZEj2gnAVp4Q&ved=2ahUKEwi_4bn96eSWAxXQjeEIHQITMp8Q8tMDegQIQhAG",
+   "4": "https://www.google.com/search?q=%22Mount+Vernon+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsPs2WFfG2ydIhCSs-VpQSfA3pFbg:1789071306166&ei=yg-jar_UCdCbhvcPgqbI-Qk&start=30&sa=N&sstk=AS6-VmLibWtDOXw35zFw8TNwRVBFcCk3mz7KQaVTNZZauat7Ux7zlf4lPWLRDurUvQV6Jkz4TQBcpyuBw2YDsZh72y2ZEj2gnAVp4Q&ved=2ahUKEwi_4bn96eSWAxXQjeEIHQITMp8Q8tMDegQIQhAI",
+   "5": "https://www.google.com/search?q=%22Mount+Vernon+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsPs2WFfG2ydIhCSs-VpQSfA3pFbg:1789071306166&ei=yg-jar_UCdCbhvcPgqbI-Qk&start=40&sa=N&sstk=AS6-VmLibWtDOXw35zFw8TNwRVBFcCk3mz7KQaVTNZZauat7Ux7zlf4lPWLRDurUvQV6Jkz4TQBcpyuBw2YDsZh72y2ZEj2gnAVp4Q&ved=2ahUKEwi_4bn96eSWAxXQjeEIHQITMp8Q8tMDegQIQhAK",
+   "6": "https://www.google.com/search?q=%22Mount+Vernon+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsPs2WFfG2ydIhCSs-VpQSfA3pFbg:1789071306166&ei=yg-jar_UCdCbhvcPgqbI-Qk&start=50&sa=N&sstk=AS6-VmLibWtDOXw35zFw8TNwRVBFcCk3mz7KQaVTNZZauat7Ux7zlf4lPWLRDurUvQV6Jkz4TQBcpyuBw2YDsZh72y2ZEj2gnAVp4Q&ved=2ahUKEwi_4bn96eSWAxXQjeEIHQITMp8Q8tMDegQIQhAM",
+   "7": "https://www.google.com/search?q=%22Mount+Vernon+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsPs2WFfG2ydIhCSs-VpQSfA3pFbg:1789071306166&ei=yg-jar_UCdCbhvcPgqbI-Qk&start=60&sa=N&sstk=AS6-VmLibWtDOXw35zFw8TNwRVBFcCk3mz7KQaVTNZZauat7Ux7zlf4lPWLRDurUvQV6Jkz4TQBcpyuBw2YDsZh72y2ZEj2gnAVp4Q&ved=2ahUKEwi_4bn96eSWAxXQjeEIHQITMp8Q8tMDegQIQhAO",
+   "8": "https://www.google.com/search?q=%22Mount+Vernon+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsPs2WFfG2ydIhCSs-VpQSfA3pFbg:1789071306166&ei=yg-jar_UCdCbhvcPgqbI-Qk&start=70&sa=N&sstk=AS6-VmLibWtDOXw35zFw8TNwRVBFcCk3mz7KQaVTNZZauat7Ux7zlf4lPWLRDurUvQV6Jkz4TQBcpyuBw2YDsZh72y2ZEj2gnAVp4Q&ved=2ahUKEwi_4bn96eSWAxXQjeEIHQITMp8Q8tMDegQIQhAQ",
+   "9": "https://www.google.com/search?q=%22Mount+Vernon+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsPs2WFfG2ydIhCSs-VpQSfA3pFbg:1789071306166&ei=yg-jar_UCdCbhvcPgqbI-Qk&start=80&sa=N&sstk=AS6-VmLibWtDOXw35zFw8TNwRVBFcCk3mz7KQaVTNZZauat7Ux7zlf4lPWLRDurUvQV6Jkz4TQBcpyuBw2YDsZh72y2ZEj2gnAVp4Q&ved=2ahUKEwi_4bn96eSWAxXQjeEIHQITMp8Q8tMDegQIQhAS",
+   "10": "https://www.google.com/search?q=%22Mount+Vernon+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnsPs2WFfG2ydIhCSs-VpQSfA3pFbg:1789071306166&ei=yg-jar_UCdCbhvcPgqbI-Qk&start=90&sa=N&sstk=AS6-VmLibWtDOXw35zFw8TNwRVBFcCk3mz7KQaVTNZZauat7Ux7zlf4lPWLRDurUvQV6Jkz4TQBcpyuBw2YDsZh72y2ZEj2gnAVp4Q&ved=2ahUKEwi_4bn96eSWAxXQjeEIHQITMp8Q8tMDegQIQhAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Mount+Vernon+High+School%22+Indiana&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Mount+Vernon+High+School%22+Indiana&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Mount+Vernon+High+School%22+Indiana&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Mount+Vernon+High+School%22+Indiana&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Mount+Vernon+High+School%22+Indiana&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Mount+Vernon+High+School%22+Indiana&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Mount+Vernon+High+School%22+Indiana&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Mount+Vernon+High+School%22+Indiana&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Mount+Vernon+High+School%22+Indiana&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Mount+Vernon+High+School%22+Indiana&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Mount+Vernon+High+School%22+Indiana&start=90"
+  }
+ }
+}

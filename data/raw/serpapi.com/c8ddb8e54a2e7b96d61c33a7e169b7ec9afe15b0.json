@@ -1,0 +1,381 @@
+{
+ "search_information": {
+  "query_displayed": "\"Dublin Coffman Band\" Ohio",
+  "total_results": 1460,
+  "time_taken_displayed": 0.37,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Dublin Coffman Marching Band",
+  "type": "Live music venue in Dublin, Ohio",
+  "entity_type": "local_nav",
+  "kgmid": "/g/11l5tmr3fs",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/g/11l5tmr3fs&hl=en-US&q=Dublin+Coffman+Marching+Band",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fg%2F11l5tmr3fs&q=Dublin+Coffman+Marching+Band",
+  "place_id": "ChIJWbI_wdHsOIgRBDz8tQMdkM8",
+  "website": "http://www.dublincoffmanband.org/aws/DCMB/pt/sp/contact",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa30dc932f11d764f9b2f4a/images/zQ1-v1G0W35_Ay69lYDAze4A-nOXqEDOVjE4Zggx4q4.webp",
+   "link": "https://www.google.com/maps/place/Dublin+Coffman+Marching+Band/data=!4m2!3m1!1s0x0:0xcf901d03b5fc3c04?sa=X&ved=2ahUKEwjL9ciS6OSWAxVjr5UCHeUEOCQQ_BJ6BAhHEAA&hl=en&gl=us"
+  },
+  "address": "7030 Coffman Rd, Dublin, OH 43017",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=dublin+coffman+marching+band+address&ludocid=14956486264272731140&sa=X&ved=2ahUKEwjL9ciS6OSWAxVjr5UCHeUEOCQQ6BN6BAhKEAI"
+   }
+  ],
+  "phone": "(614) 764-5905",
+  "phone_links": [
+   {
+    "text": "Phone",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=dublin+coffman+marching+band+phone&ludocid=14956486264272731140&sa=X&ved=2ahUKEwjL9ciS6OSWAxVjr5UCHeUEOCQQ6BN6BAhTEAI"
+   }
+  ],
+  "unclaimed_listing": true
+ },
+ "related_questions": [
+  {
+   "question": "Who is the best high school marching band in Ohio?",
+   "type": "ai_overview",
+   "page_token": "EjOPxHicHdBNjpswAEBh9TKznGAzoSJSVCmNCUWyU_8C3lRgJiHYBDehgWQ3V-gZeqqeZkaze5tv897-udPZ_v_ytx1Hf10tFtM0PR-H4ehen83QL6rr_WwWpnKuroxdRV8j8O1g1uhmNt8vZkOl92rLArFLEOmUY5JQAce8AO2lhqPnHESiX45Guvtr6i0ujhMpWkJtIwRalvs0CRuwIXJLP1AyaA5-EhATk6ieOtbTEE-ijzssp4DbKxQiyQyKbxgxUUI0ml5djCW6TjdbDl3OZUZwPqcs1UylrVfwx10HmuZFhrjKImrpEtu4kg8dVAGammCucJDdRIEeDDYlli3bJ7qrgS5xrlMh_YtyA-RyeNnLGYpOhag1Dymy32UeA4XsKHdyNiChRLk_GsaMs-FEJXuYzvXSmrDOp7kO2iuFytJz65sdiXCRnXCefLQSkj4dzG0dPn2-Xv869OPKX4bjO3CHjAM",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=EjOPxHicHdBNjpswAEBh9TKznGAzoSJSVCmNCUWyU_8C3lRgJiHYBDehgWQ3V-gZeqqeZkaze5tv897-udPZ_v_ytx1Hf10tFtM0PR-H4ehen83QL6rr_WwWpnKuroxdRV8j8O1g1uhmNt8vZkOl92rLArFLEOmUY5JQAce8AO2lhqPnHESiX45Guvtr6i0ujhMpWkJtIwRalvs0CRuwIXJLP1AyaA5-EhATk6ieOtbTEE-ijzssp4DbKxQiyQyKbxgxUUI0ml5djCW6TjdbDl3OZUZwPqcs1UylrVfwx10HmuZFhrjKImrpEtu4kg8dVAGammCucJDdRIEeDDYlli3bJ7qrgS5xrlMh_YtyA-RyeNnLGYpOhag1Dymy32UeA4XsKHdyNiChRLk_GsaMs-FEJXuYzvXSmrDOp7kO2iuFytJz65sdiXCRnXCefLQSkj4dzG0dPn2-Xv869OPKX4bjO3CHjAM",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVpsZGxNVzVXU1dsYVJrNVNZVVUwUmpFdGNGcHlaVUZpU1RGV2JqbGlURkpDZEdGWmNsaEpSRlppUlVsMFVteGlTbXhTY0hWNlYxa3hSVUpKY0Vsb2IyRXdabFI2VVMxMVIyaENTSGgyZURObGNIWjRUalIwYVdaV1VSSVhNMUV5YW1GdmRWUkpMVkJsTVhOUlVEVlpibWR2VVVrYUlrRkVjM0k1WmxOaGNGUXdTa1pFWXpob1dTMDVSRUZKWmtkeVVWTTBiVXRFVEZFIiwiZmN2IjoiMyIsImVpIjoiM1EyamFvdVRJLVBlMXNRUDVZbmdvUUkiLCJxYyI6IkNoaGtkV0pzYVc0Z1kyOW1abTFoYmlCaVlXNWtJRzlvYVc4UUFIMTVEaHNfIiwicXVlc3Rpb24iOiJXaG8gaXMgdGhlIGJlc3QgaGlnaCBzY2hvb2wgbWFyY2hpbmcgYmFuZCBpbiBPaGlvPyIsImxrIjoiR2pGM2FHOGdhWE1nZEdobElHSmxjM1FnYUdsbmFDQnpZMmh2YjJ3Z2JXRnlZMmhwYm1jZ1ltRnVaQ0JwYmlCdmFHbHYiLCJicyI6ImM1MlFzVTdEUUJCRWxmYXFSSFN1cGlLVWNKRVNhTEFFdElnaVFxblA5anA3a24yTHZIZms5OEZIZ3BJaVJkS081czNzanZIR2JsamdGWkVKRldrRS15MURheGJwMEx1aFpoLTJxRnhvNEFNLTJFdHBGOFhEN2hKS2ZpbVR6T09HWFlRYktHTlJ2ckE0ei1rSWpyN1BkV21maXRYdUdqYXBlVGJ6XzFxVm50QzZYcEx1ZmUwZ1BkNVMxZmxRMnB0aWRxUTJXVFZpWGpOUDN4U2lfc1hVVEUzcXFFRXJRLTRaWjhFNnVraDRQeHp5c25fZTN0dGxhZS1LMjNFRmFEYWRMblRJeTlicDVBYyIsImlkIjoiZmNfM1EyamFvdVRJLVBlMXNRUDVZbmdvUUlfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVpsZGxNVzVXU1dsYVJrNVNZVVUwUmpFdGNGcHlaVUZpU1RGV2JqbGlURkpDZEdGWmNsaEpSRlppUlVsMFVteGlTbXhTY0hWNlYxa3hSVUpKY0Vsb2IyRXdabFI2VVMxMVIyaENTSGgyZURObGNIWjRUalIwYVdaV1VSSVhNMUV5YW1GdmRWUkpMVkJsTVhOUlVEVlpibWR2VVVrYUlrRkVjM0k1WmxOaGNGUXdTa1pFWXpob1dTMDVSRUZKWmtkeVVWTTBiVXRFVEZFIiwiZmN2IjoiMyIsImVpIjoiM1EyamFvdVRJLVBlMXNRUDVZbmdvUUkiLCJxYyI6IkNoaGtkV0pzYVc0Z1kyOW1abTFoYmlCaVlXNWtJRzlvYVc4UUFIMTVEaHNfIiwicXVlc3Rpb24iOiJXaG8gaXMgdGhlIGJlc3QgaGlnaCBzY2hvb2wgbWFyY2hpbmcgYmFuZCBpbiBPaGlvPyIsImxrIjoiR2pGM2FHOGdhWE1nZEdobElHSmxjM1FnYUdsbmFDQnpZMmh2YjJ3Z2JXRnlZMmhwYm1jZ1ltRnVaQ0JwYmlCdmFHbHYiLCJicyI6ImM1MlFzVTdEUUJCRWxmYXFSSFN1cGlLVWNKRVNhTEFFdElnaVFxblA5anA3a24yTHZIZms5OEZIZ3BJaVJkS081czNzanZIR2JsamdGWkVKRldrRS15MURheGJwMEx1aFpoLTJxRnhvNEFNLTJFdHBGOFhEN2hKS2ZpbVR6T09HWFlRYktHTlJ2ckE0ei1rSWpyN1BkV21maXRYdUdqYXBlVGJ6XzFxVm50QzZYcEx1ZmUwZ1BkNVMxZmxRMnB0aWRxUTJXVFZpWGpOUDN4U2lfc1hVVEUzcXFFRXJRLTRaWjhFNnVraDRQeHp5c25fZTN0dGxhZS1LMjNFRmFEYWRMblRJeTlicDVBYyIsImlkIjoiZmNfM1EyamFvdVRJLVBlMXNRUDVZbmdvUUlfNSJ9"
+  },
+  {
+   "question": "What are the top 3 high school marching bands in the US?",
+   "type": "ai_overview",
+   "page_token": "ul06aXicHdBdbpswAABg7TJ9bGwIXYkUTWMYEiSj2tim8ctk7ECKzU9aFghvu8LOsFPtNJt2ge_h-_nbvfX2z6dfl2kaP3abzTzPj80wNO78qIduoz7uvd5o5VyltN09fX6CX2q9RzcdfXvXEeHjKGIKis71jD_fla897gXHitM4dw2o2q9bE5PAePRFiqxl_XGt4uxVllkvDznHIFyktYFKcUBhhHlqmHHhtejggMESEG8kRZ9fWQqWAoR1hTKf92LG3sXLSyrMal65FYi1WVqg7XQ-jBYn4m6Qu9KSewYFgKzJSGMx8w4q7rtagak04p-1kulsnxcFoGV-Row1SoHlRab5ja4SMiFPUkRD1SVZDhKctwnT6LhFF71yll1PZQgFshNP-aJhQnLhfkgvpAUd3ginq25dx1vaGj5aZYNI2GZSHCYUDsvJdwGGApOSHuT8UOvb3n_4f73_XnfTbnwfmr8Wgovj",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ul06aXicHdBdbpswAABg7TJ9bGwIXYkUTWMYEiSj2tim8ctk7ECKzU9aFghvu8LOsFPtNJt2ge_h-_nbvfX2z6dfl2kaP3abzTzPj80wNO78qIduoz7uvd5o5VyltN09fX6CX2q9RzcdfXvXEeHjKGIKis71jD_fla897gXHitM4dw2o2q9bE5PAePRFiqxl_XGt4uxVllkvDznHIFyktYFKcUBhhHlqmHHhtejggMESEG8kRZ9fWQqWAoR1hTKf92LG3sXLSyrMal65FYi1WVqg7XQ-jBYn4m6Qu9KSewYFgKzJSGMx8w4q7rtagak04p-1kulsnxcFoGV-Row1SoHlRab5ja4SMiFPUkRD1SVZDhKctwnT6LhFF71yll1PZQgFshNP-aJhQnLhfkgvpAUd3ginq25dx1vaGj5aZYNI2GZSHCYUDsvJdwGGApOSHuT8UOvb3n_4f73_XnfTbnwfmr8Wgovj",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVpsZGxNVzVXU1dsYVJrNVNZVVUwUmpFdGNGcHlaVUZpU1RGV2JqbGlURkpDZEdGWmNsaEpSRlppUlVsMFVteGlTbXhTY0hWNlYxa3hSVUpKY0Vsb2IyRXdabFI2VVMxMVIyaENTSGgyZURObGNIWjRUalIwYVdaV1VSSVhNMUV5YW1GdmRWUkpMVkJsTVhOUlVEVlpibWR2VVVrYUlrRkVjM0k1WmxOaGNGUXdTa1pFWXpob1dTMDVSRUZKWmtkeVVWTTBiVXRFVEZFIiwiZmN2IjoiMyIsImVpIjoiM1EyamFvdVRJLVBlMXNRUDVZbmdvUUkiLCJxYyI6IkNoaGtkV0pzYVc0Z1kyOW1abTFoYmlCaVlXNWtJRzlvYVc4UUFIMTVEaHNfIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgdG9wIDMgaGlnaCBzY2hvb2wgbWFyY2hpbmcgYmFuZHMgaW4gdGhlIFVTPyIsImxrIjoiYzVNeUw4OUlMRkZJTEVwVktNa0E0dndDQldPRmpNejBESVhpNUl6OF9CeUYzTVNpNUl6TXZIU0ZwTVM4bEdLRnpEeXd1dEppQUEiLCJicyI6ImM1MlFzVTdEUUJCRWxmYXFSSFN1cGlLVWNKRVNhTEFFdElnaVFxblA5anA3a24yTHZIZms5OEZIZ3BJaVJkS081czNzanZIR2JsamdGWkVKRldrRS15MURheGJwMEx1aFpoLTJxRnhvNEFNLTJFdHBGOFhEN2hKS2ZpbVR6T09HWFlRYktHTlJ2ckE0ei1rSWpyN1BkV21maXRYdUdqYXBlVGJ6XzFxVm50QzZYcEx1ZmUwZ1BkNVMxZmxRMnB0aWRxUTJXVFZpWGpOUDN4U2lfc1hVVEUzcXFFRXJRLTRaWjhFNnVraDRQeHp5c25fZTN0dGxhZS1LMjNFRmFEYWRMblRJeTlicDVBYyIsImlkIjoiZmNfM1EyamFvdVRJLVBlMXNRUDVZbmdvUUlfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVpsZGxNVzVXU1dsYVJrNVNZVVUwUmpFdGNGcHlaVUZpU1RGV2JqbGlURkpDZEdGWmNsaEpSRlppUlVsMFVteGlTbXhTY0hWNlYxa3hSVUpKY0Vsb2IyRXdabFI2VVMxMVIyaENTSGgyZURObGNIWjRUalIwYVdaV1VSSVhNMUV5YW1GdmRWUkpMVkJsTVhOUlVEVlpibWR2VVVrYUlrRkVjM0k1WmxOaGNGUXdTa1pFWXpob1dTMDVSRUZKWmtkeVVWTTBiVXRFVEZFIiwiZmN2IjoiMyIsImVpIjoiM1EyamFvdVRJLVBlMXNRUDVZbmdvUUkiLCJxYyI6IkNoaGtkV0pzYVc0Z1kyOW1abTFoYmlCaVlXNWtJRzlvYVc4UUFIMTVEaHNfIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgdG9wIDMgaGlnaCBzY2hvb2wgbWFyY2hpbmcgYmFuZHMgaW4gdGhlIFVTPyIsImxrIjoiYzVNeUw4OUlMRkZJTEVwVktNa0E0dndDQldPRmpNejBESVhpNUl6OF9CeUYzTVNpNUl6TXZIU0ZwTVM4bEdLRnpEeXd1dEppQUEiLCJicyI6ImM1MlFzVTdEUUJCRWxmYXFSSFN1cGlLVWNKRVNhTEFFdElnaVFxblA5anA3a24yTHZIZms5OEZIZ3BJaVJkS081czNzanZIR2JsamdGWkVKRldrRS15MURheGJwMEx1aFpoLTJxRnhvNEFNLTJFdHBGOFhEN2hKS2ZpbVR6T09HWFlRYktHTlJ2ckE0ei1rSWpyN1BkV21maXRYdUdqYXBlVGJ6XzFxVm50QzZYcEx1ZmUwZ1BkNVMxZmxRMnB0aWRxUTJXVFZpWGpOUDN4U2lfc1hVVEUzcXFFRXJRLTRaWjhFNnVraDRQeHp5c25fZTN0dGxhZS1LMjNFRmFEYWRMblRJeTlicDVBYyIsImlkIjoiZmNfM1EyamFvdVRJLVBlMXNRUDVZbmdvUUlfNSJ9"
+  },
+  {
+   "question": "What are some famous bands from Dublin?",
+   "type": "ai_overview",
+   "page_token": "-zZ1y3icHdDBboIwAIDh7GU8DgqZiyZm2SZFcS1ppaX2skBR0BYoypRx27vsqfY0W3b78x3_r29zbPTP3bXqe3uZO87tdrsv27Y0-3vV1k52-WyUozJj8kzp-fRxCp4OahF8rF9eu_ULYdbyJXW33ESUzeKtN7sSYfU-hD4N8FgI2cvagK2mTbziLHdLV42yTgI45Iy-shM8yNBk0lQd8WmnAowzL1oTodw9lC3SRuQpGLAXnfJEbjBkQ8axv2sKSNxiiBldohUBykiBTjB7E9Yv4PqBNSWIk2dPCssSX_tIVIDWfJOmFULQnmUaTRlQfZwU5z_vEoh6ajikY7FLVwUNKjWyJOp26QzwQPcsZIMCkGBuPqQ3o1vaHgmjozqZmocD3tfIQwH5zLWtpbaXTMOkgFgLIKFq_vo2Oajrwp_8_1y8H-p-bs9t-QtQHIQ1",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=-zZ1y3icHdDBboIwAIDh7GU8DgqZiyZm2SZFcS1ppaX2skBR0BYoypRx27vsqfY0W3b78x3_r29zbPTP3bXqe3uZO87tdrsv27Y0-3vV1k52-WyUozJj8kzp-fRxCp4OahF8rF9eu_ULYdbyJXW33ESUzeKtN7sSYfU-hD4N8FgI2cvagK2mTbziLHdLV42yTgI45Iy-shM8yNBk0lQd8WmnAowzL1oTodw9lC3SRuQpGLAXnfJEbjBkQ8axv2sKSNxiiBldohUBykiBTjB7E9Yv4PqBNSWIk2dPCssSX_tIVIDWfJOmFULQnmUaTRlQfZwU5z_vEoh6ajikY7FLVwUNKjWyJOp26QzwQPcsZIMCkGBuPqQ3o1vaHgmjozqZmocD3tfIQwH5zLWtpbaXTMOkgFgLIKFq_vo2Oajrwp_8_1y8H-p-bs9t-QtQHIQ1",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVpsZGxNVzVXU1dsYVJrNVNZVVUwUmpFdGNGcHlaVUZpU1RGV2JqbGlURkpDZEdGWmNsaEpSRlppUlVsMFVteGlTbXhTY0hWNlYxa3hSVUpKY0Vsb2IyRXdabFI2VVMxMVIyaENTSGgyZURObGNIWjRUalIwYVdaV1VSSVhNMUV5YW1GdmRWUkpMVkJsTVhOUlVEVlpibWR2VVVrYUlrRkVjM0k1WmxOaGNGUXdTa1pFWXpob1dTMDVSRUZKWmtkeVVWTTBiVXRFVEZFIiwiZmN2IjoiMyIsImVpIjoiM1EyamFvdVRJLVBlMXNRUDVZbmdvUUkiLCJxYyI6IkNoaGtkV0pzYVc0Z1kyOW1abTFoYmlCaVlXNWtJRzlvYVc4UUFIMTVEaHNfIiwicXVlc3Rpb24iOiJXaGF0IGFyZSBzb21lIGZhbW91cyBiYW5kcyBmcm9tIER1Ymxpbj8iLCJsayI6IkdoRmlZVzVrY3lCbWNtOXRJR1IxWW14cGJnIiwiYnMiOiJjNTJRc1U3RFFCQkVsZmFxUkhTdXBpS1VjSkVTYUxBRXRJZ2lRcW5QOWpwN2tuMkx2SGZrOThGSGdwSWlSZEtPNXMzc2p2SEdibGpnRlpFSkZXa0UteTFEYXhicDBMdWhaaC0ycUZ4bzRBTS0yRXRwRjhYRDdoSktmaW1Uek9PR1hZUWJLR05SdnJBNHota0lqcjdQZFdtZml0WHVHamFwZVRiel8xcVZudEM2WHBMdWZlMGdQZDVTMWZsUTJwdGlkcVEyV1RWaVhqTlAzeFNpX3NYVVRFM3FxRUVyUS00Wlo4RTZ1a2g0UHh6eXNuX2UzdHRsYWUtSzIzRUZhRGFkTG5USXk5YnA1QWMiLCJpZCI6ImZjXzNRMmphb3VUSS1QZTFzUVA1WW5nb1FJXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVpsZGxNVzVXU1dsYVJrNVNZVVUwUmpFdGNGcHlaVUZpU1RGV2JqbGlURkpDZEdGWmNsaEpSRlppUlVsMFVteGlTbXhTY0hWNlYxa3hSVUpKY0Vsb2IyRXdabFI2VVMxMVIyaENTSGgyZURObGNIWjRUalIwYVdaV1VSSVhNMUV5YW1GdmRWUkpMVkJsTVhOUlVEVlpibWR2VVVrYUlrRkVjM0k1WmxOaGNGUXdTa1pFWXpob1dTMDVSRUZKWmtkeVVWTTBiVXRFVEZFIiwiZmN2IjoiMyIsImVpIjoiM1EyamFvdVRJLVBlMXNRUDVZbmdvUUkiLCJxYyI6IkNoaGtkV0pzYVc0Z1kyOW1abTFoYmlCaVlXNWtJRzlvYVc4UUFIMTVEaHNfIiwicXVlc3Rpb24iOiJXaGF0IGFyZSBzb21lIGZhbW91cyBiYW5kcyBmcm9tIER1Ymxpbj8iLCJsayI6IkdoRmlZVzVrY3lCbWNtOXRJR1IxWW14cGJnIiwiYnMiOiJjNTJRc1U3RFFCQkVsZmFxUkhTdXBpS1VjSkVTYUxBRXRJZ2lRcW5QOWpwN2tuMkx2SGZrOThGSGdwSWlSZEtPNXMzc2p2SEdibGpnRlpFSkZXa0UteTFEYXhicDBMdWhaaC0ycUZ4bzRBTS0yRXRwRjhYRDdoSktmaW1Uek9PR1hZUWJLR05SdnJBNHota0lqcjdQZFdtZml0WHVHamFwZVRiel8xcVZudEM2WHBMdWZlMGdQZDVTMWZsUTJwdGlkcVEyV1RWaVhqTlAzeFNpX3NYVVRFM3FxRUVyUS00Wlo4RTZ1a2g0UHh6eXNuX2UzdHRsYWUtSzIzRUZhRGFkTG5USXk5YnA1QWMiLCJpZCI6ImZjXzNRMmphb3VUSS1QZTFzUVA1WW5nb1FJXzUifQ%3D%3D"
+  },
+  {
+   "question": "What events are scheduled for the Ohio State Marching Band in 2026?",
+   "type": "ai_overview",
+   "page_token": "HvSIc3icHdFLjpswAABQ9TKznNgg0iZSNBLB_FQ7tcEmsKnAJiFgPjOQ8tn1Ll33QD1Nq27f9v38pR9d8-fT72qahvG4283z_Hrv-7suX2Xf7vJx7eRO5loXuWyO-897-HaTJ9TP5_M425QPg3AYiD208jpYRGOlpAutwlF21FoiQtMzQ0uaX1VNDbcuE2Zjf4Ai0SPzCWZwyLEpLlGtAsaZkxvAip0QU82cCAr7Csl2QeGWOPaj8AePJ-r5zzQxJlpyYMSIjKmuZtJmq_DmKWvclcXYjDsClCBX5i3fCiAaCRRWpotpXLnMtfMINQvmGiaxYNgNvbId7OQBptIP07SrPsra3iInfCfiC7i46pmcAbyCCVBN1xLdzcIPLOFpmKNhn5phEG_hJTfIhiq58Th8T5MDFKiZuMcXCV1KhH5mxoFFrH9QzjZZ61a4GaXJATFDGaTOgq982TgM4xwJBze6ybYUqPnlJn-czJf_D6fvt3Y6Dh_9_S9Wv5UA",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=HvSIc3icHdFLjpswAABQ9TKznNgg0iZSNBLB_FQ7tcEmsKnAJiFgPjOQ8tn1Ll33QD1Nq27f9v38pR9d8-fT72qahvG4283z_Hrv-7suX2Xf7vJx7eRO5loXuWyO-897-HaTJ9TP5_M425QPg3AYiD208jpYRGOlpAutwlF21FoiQtMzQ0uaX1VNDbcuE2Zjf4Ai0SPzCWZwyLEpLlGtAsaZkxvAip0QU82cCAr7Csl2QeGWOPaj8AePJ-r5zzQxJlpyYMSIjKmuZtJmq_DmKWvclcXYjDsClCBX5i3fCiAaCRRWpotpXLnMtfMINQvmGiaxYNgNvbId7OQBptIP07SrPsra3iInfCfiC7i46pmcAbyCCVBN1xLdzcIPLOFpmKNhn5phEG_hJTfIhiq58Th8T5MDFKiZuMcXCV1KhH5mxoFFrH9QzjZZ61a4GaXJATFDGaTOgq982TgM4xwJBze6ybYUqPnlJn-czJf_D6fvt3Y6Dh_9_S9Wv5UA",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVpsZGxNVzVXU1dsYVJrNVNZVVUwUmpFdGNGcHlaVUZpU1RGV2JqbGlURkpDZEdGWmNsaEpSRlppUlVsMFVteGlTbXhTY0hWNlYxa3hSVUpKY0Vsb2IyRXdabFI2VVMxMVIyaENTSGgyZURObGNIWjRUalIwYVdaV1VSSVhNMUV5YW1GdmRWUkpMVkJsTVhOUlVEVlpibWR2VVVrYUlrRkVjM0k1WmxOaGNGUXdTa1pFWXpob1dTMDVSRUZKWmtkeVVWTTBiVXRFVEZFIiwiZmN2IjoiMyIsImVpIjoiM1EyamFvdVRJLVBlMXNRUDVZbmdvUUkiLCJxYyI6IkNoaGtkV0pzYVc0Z1kyOW1abTFoYmlCaVlXNWtJRzlvYVc4UUFIMTVEaHNfIiwicXVlc3Rpb24iOiJXaGF0IGV2ZW50cyBhcmUgc2NoZWR1bGVkIGZvciB0aGUgT2hpbyBTdGF0ZSBNYXJjaGluZyBCYW5kIGluIDIwMjY/IiwibGsiOiJHaVp2YUdsdklITjBZWFJsSUcxaGNtTm9hVzVuSUdKaGJtUWdjMk5vWldSMWJHVWdNakF5TmciLCJicyI6ImM1MlFzVTdEUUJCRWxmYXFSSFN1cGlLVWNKRVNhTEFFdElnaVFxblA5anA3a24yTHZIZms5OEZIZ3BJaVJkS081czNzanZIR2JsamdGWkVKRldrRS15MURheGJwMEx1aFpoLTJxRnhvNEFNLTJFdHBGOFhEN2hKS2ZpbVR6T09HWFlRYktHTlJ2ckE0ei1rSWpyN1BkV21maXRYdUdqYXBlVGJ6XzFxVm50QzZYcEx1ZmUwZ1BkNVMxZmxRMnB0aWRxUTJXVFZpWGpOUDN4U2lfc1hVVEUzcXFFRXJRLTRaWjhFNnVraDRQeHp5c25fZTN0dGxhZS1LMjNFRmFEYWRMblRJeTlicDVBYyIsImlkIjoiZmNfM1EyamFvdVRJLVBlMXNRUDVZbmdvUUlfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVpsZGxNVzVXU1dsYVJrNVNZVVUwUmpFdGNGcHlaVUZpU1RGV2JqbGlURkpDZEdGWmNsaEpSRlppUlVsMFVteGlTbXhTY0hWNlYxa3hSVUpKY0Vsb2IyRXdabFI2VVMxMVIyaENTSGgyZURObGNIWjRUalIwYVdaV1VSSVhNMUV5YW1GdmRWUkpMVkJsTVhOUlVEVlpibWR2VVVrYUlrRkVjM0k1WmxOaGNGUXdTa1pFWXpob1dTMDVSRUZKWmtkeVVWTTBiVXRFVEZFIiwiZmN2IjoiMyIsImVpIjoiM1EyamFvdVRJLVBlMXNRUDVZbmdvUUkiLCJxYyI6IkNoaGtkV0pzYVc0Z1kyOW1abTFoYmlCaVlXNWtJRzlvYVc4UUFIMTVEaHNfIiwicXVlc3Rpb24iOiJXaGF0IGV2ZW50cyBhcmUgc2NoZWR1bGVkIGZvciB0aGUgT2hpbyBTdGF0ZSBNYXJjaGluZyBCYW5kIGluIDIwMjY%2FIiwibGsiOiJHaVp2YUdsdklITjBZWFJsSUcxaGNtTm9hVzVuSUdKaGJtUWdjMk5vWldSMWJHVWdNakF5TmciLCJicyI6ImM1MlFzVTdEUUJCRWxmYXFSSFN1cGlLVWNKRVNhTEFFdElnaVFxblA5anA3a24yTHZIZms5OEZIZ3BJaVJkS081czNzanZIR2JsamdGWkVKRldrRS15MURheGJwMEx1aFpoLTJxRnhvNEFNLTJFdHBGOFhEN2hKS2ZpbVR6T09HWFlRYktHTlJ2ckE0ei1rSWpyN1BkV21maXRYdUdqYXBlVGJ6XzFxVm50QzZYcEx1ZmUwZ1BkNVMxZmxRMnB0aWRxUTJXVFZpWGpOUDN4U2lfc1hVVEUzcXFFRXJRLTRaWjhFNnVraDRQeHp5c25fZTN0dGxhZS1LMjNFRmFEYWRMblRJeTlicDVBYyIsImlkIjoiZmNfM1EyamFvdVRJLVBlMXNRUDVZbmdvUUlfNSJ9"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Dublin Coffman Band: Home",
+   "link": "https://www.dublincoffmanband.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWgHrOzAVj0qvDTspz4BWzCzm6Kufim-L9rH3Oh6faBssStpOEjfiEcwjdTgzJN0vXx0zVUSOg1f75eBPSdhUf8en6tm0G8cWZbQbf3wI45jHc5VtPn_yhuv21g&ved=2ahUKEwjL9ciS6OSWAxVjr5UCHeUEOCQQFnoECBQQAQ&uoh=1",
+   "displayed_link": "https://www.dublincoffmanband.org",
+   "snippet": "\u200b. Epcot Parade 2025.webp. Dublin Coffman Band Program. Life Skills Through Band. Upcoming Events. Band Camp 2026. When. Aug 02, 2026, 1 ...",
+   "snippet_highlighted_words": [
+    "Dublin Coffman Band"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "Directors",
+      "link": "https://www.dublincoffmanband.org/unlisteddirectors",
+      "snippet": "top of page. DUBLIN COFFMAN BAND \u00b7 Youtube \u00b7 Facebook ..."
+     },
+     {
+      "title": "Band Camp",
+      "link": "https://www.dublincoffmanband.org/band-camp",
+      "snippet": "top of page. DUBLIN COFFMAN BAND \u00b7 Youtube \u00b7 Facebook ..."
+     },
+     {
+      "title": "Band on the Run 5k",
+      "link": "https://www.dublincoffmanband.org/5k",
+      "snippet": "top of page. DUBLIN COFFMAN BAND \u00b7 Youtube \u00b7 Facebook ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "\u200b. Epcot Parade 2025.webp. Dublin Coffman Band Program. Life Skills Through Band. Upcoming Events. Band Camp 2026. When. Aug 02, 2026, 1 ...",
+     "source_info_link": "https://www.dublincoffmanband.org/"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESWgHrOzAVj0qvDTspz4BWzCzm6Kufim-L9rH3Oh6faBssStpOEjfiEcwjdTgzJN0vXx0zVUSOg1f75eBPSdhUf8en6tm0G8cWZbQbf3wI45jHc5VtPn_yhuv21g&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESWgHrOzAVj0qvDTspz4BWzCzm6Kufim-L9rH3Oh6faBssStpOEjfiEcwjdTgzJN0vXx0zVUSOg1f75eBPSdhUf8en6tm0G8cWZbQbf3wI45jHc5VtPn_yhuv21g",
+   "source": "Dublin Coffman Band"
+  },
+  {
+   "position": 2,
+   "title": "Dublin (Coffman) High School Marching Band Alumni",
+   "link": "https://www.facebook.com/groups/10463095596/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZAHrOzAVrMCh29d5cc_lR5K7-3a-b8LfuGBRFeke0JqSqsDnkdjaXMtsKPZcIlX_ZvgyuHluiTn6WRr3lNN7m14BS7zBaH0PWBU-WMnXPf_Gt-8gMUvSEHjjkYn2NmEQWKUgQ6Y&ved=2ahUKEwjL9ciS6OSWAxVjr5UCHeUEOCQQFnoECBUQAQ&uoh=1",
+   "displayed_link": "900+ followers",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "snippet": "Join us for the Dublin Coffman Band on the Run 5K on 9/13\u2014 it's going to be a blast! Sign up today: https://raceroster. com/events/2025/102923/dublin ...",
+   "snippet_highlighted_words": [
+    "Dublin Coffman Band"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Join us for the Dublin Coffman Band on the Run 5K on 9/13\u2014 it's going to be a blast! Sign up today: https://raceroster. com/events/2025/102923/dublin ...",
+     "source_info_link": "https://www.facebook.com/groups/10463095596/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESZAHrOzAVrMCh29d5cc_lR5K7-3a-b8LfuGBRFeke0JqSqsDnkdjaXMtsKPZcIlX_ZvgyuHluiTn6WRr3lNN7m14BS7zBaH0PWBU-WMnXPf_Gt-8gMUvSEHjjkYn2NmEQWKUgQ6Y&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESZAHrOzAVrMCh29d5cc_lR5K7-3a-b8LfuGBRFeke0JqSqsDnkdjaXMtsKPZcIlX_ZvgyuHluiTn6WRr3lNN7m14BS7zBaH0PWBU-WMnXPf_Gt-8gMUvSEHjjkYn2NmEQWKUgQ6Y",
+   "source": "Facebook \u00b7 Dublin (Coffman) High School Marching Band Alumni",
+   "read_more_link": "https://www.facebook.com/groups/10463095596/#:~:text=Join%20us%20for%20the%20Dublin,up%20today%3A%20https%3A%2F%2Fraceroster.%20com%2Fevents%2F2025%2F102923%2Fdublin%2Dcoffmans%2Dband%2Don%2D%20the%2Drun%2D5k"
+  },
+  {
+   "position": 3,
+   "title": "Dublin Coffman Band On The Run 5K",
+   "link": "https://runsignup.com/Race/OH/PlainCity/DublinCoffmanBandOnTheRun5K",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESewHrOzAVqtcB1AQf6hOuj_Z4mTMO9rhr83KFxwumi-WLXelT76x9ExUWmm4HBMZfsiFiwxbqx7KmO5pU2Ti5enRFwRP-BEY3ebw9wRhB2KHh7lFH3JSnMGCDpQ6szIaAoUKhqKsN8w8da92-7Mpge0VUzYGD1d7ByMBKWg&ved=2ahUKEwjL9ciS6OSWAxVjr5UCHeUEOCQQFnoECA4QAQ&uoh=1",
+   "displayed_link": "https://runsignup.com \u203a Race \u203a PlainCity \u203a DublinCoff...",
+   "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0uIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5NTcBCgoKDQwOGg8PGzclHyU3NzY3NzcsNyszNzc3Nzc1NysrMTc3NzU1Ny03NzcrNTc3LS8vNzcsMC8yNSsxMzUtLv_AABEIABwAHAMBEQACEQEDEQH_xAAaAAABBQEAAAAAAAAAAAAAAAADAgQFBgcB_8QAJxAAAgEDAwMDBQAAAAAAAAAAAQIDAAURBCExBhJBImGBBxMjcZH_xAAaAQABBQEAAAAAAAAAAAAAAAAAAQIDBAUG_8QAIhEAAgIBAwQDAAAAAAAAAAAAAAECAxESITEEBUHwE3GR_9oADAMBAAIRAxEAPwAkjhBk1ZO6bDm13hlDLa9aVIyCIG4_lJqRUfWU5xrX6NQ7xyNFMjJIpwyOpBU-4PFKWIzUllBqB4y1zEK36oGSNN6ig6omitp6Z1MMKCL833O3c7dvKnbnioI6fJytEunTl8yz79la-pM2na-6ZImQ6lIMTlPG_pB9-fgin18Gn2pSVbzxnYgozlBUhtIDqou9TjyKBskWK8dXF7laNVbDqUTRqRNE57VlBwCMA4OwO54OKjUNnkxqu3tQnGzG_BF9RT2-43h9bbI5o1nHdKsqgevyRgnnb5zToppblzo6ra69FngAowoFOL6O80ADaNc8UCYFKoXgUC4FUAf_2Q.jpeg",
+   "snippet": "Dublin Coffman Band On The Run 5K. September 19, 2026. Glacier Ridge Metro Park Plain City, OH 43064 US. Enter your message. Register for the Dublin Coffman ...",
+   "snippet_highlighted_words": [
+    "Dublin Coffman Band",
+    "Dublin Coffman"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Dublin Coffman Band On The Run 5K. September 19, 2026. Glacier Ridge Metro Park Plain City, OH 43064 US. Enter your message. Register for the Dublin Coffman ...",
+     "source_info_link": "https://runsignup.com/Race/OH/PlainCity/DublinCoffmanBandOnTheRun5K",
+     "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0uIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5NTcBCgoKDQwOGg8PGzclHyU3NzY3NzcsNyszNzc3Nzc1NysrMTc3NzU1Ny03NzcrNTc3LS8vNzcsMC8yNSsxMzUtLv_AABEIABwAHAMBEQACEQEDEQH_xAAaAAABBQEAAAAAAAAAAAAAAAADAgQFBgcB_8QAJxAAAgEDAwMDBQAAAAAAAAAAAQIDAAURBCExBhJBImGBBxMjcZH_xAAaAQABBQEAAAAAAAAAAAAAAAAAAQIDBAUG_8QAIhEAAgIBAwQDAAAAAAAAAAAAAAECAxESITEEBUHwE3GR_9oADAMBAAIRAxEAPwAkjhBk1ZO6bDm13hlDLa9aVIyCIG4_lJqRUfWU5xrX6NQ7xyNFMjJIpwyOpBU-4PFKWIzUllBqB4y1zEK36oGSNN6ig6omitp6Z1MMKCL833O3c7dvKnbnioI6fJytEunTl8yz79la-pM2na-6ZImQ6lIMTlPG_pB9-fgin18Gn2pSVbzxnYgozlBUhtIDqou9TjyKBskWK8dXF7laNVbDqUTRqRNE57VlBwCMA4OwO54OKjUNnkxqu3tQnGzG_BF9RT2-43h9bbI5o1nHdKsqgevyRgnnb5zToppblzo6ra69FngAowoFOL6O80ADaNc8UCYFKoXgUC4FUAf_2Q.jpeg"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESewHrOzAVqtcB1AQf6hOuj_Z4mTMO9rhr83KFxwumi-WLXelT76x9ExUWmm4HBMZfsiFiwxbqx7KmO5pU2Ti5enRFwRP-BEY3ebw9wRhB2KHh7lFH3JSnMGCDpQ6szIaAoUKhqKsN8w8da92-7Mpge0VUzYGD1d7ByMBKWg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESewHrOzAVqtcB1AQf6hOuj_Z4mTMO9rhr83KFxwumi-WLXelT76x9ExUWmm4HBMZfsiFiwxbqx7KmO5pU2Ti5enRFwRP-BEY3ebw9wRhB2KHh7lFH3JSnMGCDpQ6szIaAoUKhqKsN8w8da92-7Mpge0VUzYGD1d7ByMBKWg",
+   "source": "RunSignup",
+   "read_more_link": "https://runsignup.com/Race/OH/PlainCity/DublinCoffmanBandOnTheRun5K#:~:text=Dublin%20Coffman%20Band%20On%20The,Plain%20City%2C%20OH%2043064%20US"
+  },
+  {
+   "position": 4,
+   "title": "Dublin Coffman Band (@CoffmanBand) / X",
+   "link": "https://x.com/CoffmanBand",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUQHrOzAVMecgQi-6dAGs0mlWNB9KZbVlrR4z4eZ_jxjHEOT7nOt5PXPs-Cj-Gx3PUEjW8tTqQ39srB4rP03MmZcJSYP733aiX2Gft_-9igjxFA&ved=2ahUKEwjL9ciS6OSWAxVjr5UCHeUEOCQQFnoECBIQAQ&uoh=1",
+   "displayed_link": "660+ followers",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAqUlEQVR4AdXQEQwCUQDG8b87pFkcRmGuyfFpFB-HuZ20_DA4yndLHj17dHJ08G_V1qp7vvWjT77t28cfKlIIMS54KmPa8uli35l4WGvNtyQ7G2CmF37M7WncQe-NidKW5CyYyDhboY5kRZelLshz5OyevK0dySVZNz1iT07r0LkpbJmqdcUoJyt-VVrAxkB0NRnzKhysGQfevt--mgavfOpi844hhFjyf-4xHWjgrPr73gAAAABJRU5ErkJggg.png",
+   "snippet": "Dublin Coffman Band. @CoffmanBand. Dublin, OH. Joined August 2010 \u00b7 73. Following ... @TBDBITL @OhioSt_Drumline @OhioState. 00:00. 2 \u00b7 49.",
+   "snippet_highlighted_words": [
+    "Dublin Coffman Band",
+    "OhioSt_Drumline",
+    "OhioState"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Dublin Coffman Band. @CoffmanBand. Dublin, OH. Joined August 2010 \u00b7 73. Following ... @TBDBITL @OhioSt_Drumline @OhioState. 00:00. 2 \u00b7 49.",
+     "source_info_link": "https://x.com/CoffmanBand",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAqUlEQVR4AdXQEQwCUQDG8b87pFkcRmGuyfFpFB-HuZ20_DA4yndLHj17dHJ08G_V1qp7vvWjT77t28cfKlIIMS54KmPa8uli35l4WGvNtyQ7G2CmF37M7WncQe-NidKW5CyYyDhboY5kRZelLshz5OyevK0dySVZNz1iT07r0LkpbJmqdcUoJyt-VVrAxkB0NRnzKhysGQfevt--mgavfOpi844hhFjyf-4xHWjgrPr73gAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESUQHrOzAVMecgQi-6dAGs0mlWNB9KZbVlrR4z4eZ_jxjHEOT7nOt5PXPs-Cj-Gx3PUEjW8tTqQ39srB4rP03MmZcJSYP733aiX2Gft_-9igjxFA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESUQHrOzAVMecgQi-6dAGs0mlWNB9KZbVlrR4z4eZ_jxjHEOT7nOt5PXPs-Cj-Gx3PUEjW8tTqQ39srB4rP03MmZcJSYP733aiX2Gft_-9igjxFA",
+   "source": "X \u00b7 CoffmanBand",
+   "read_more_link": "https://x.com/CoffmanBand#:~:text=Dublin%20Coffman%20Band,Following&text=%40TBDBITL%20%40OhioSt_Drumline%20%40OhioState,49"
+  },
+  {
+   "position": 5,
+   "title": "2025 \u2014 Dublin Coffman's Band On The Run 5K",
+   "link": "https://raceroster.com/events/2025/102923/dublin-coffmans-band-on-the-run-5k",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShAEB6zswFeYOjnWMMEtQ1qDOPp74fKF6Z7vnk8OUPM7zxbLk9du8SA6hOAGq3WF-ajMs6YMrxPAnwrrA6rU_6FDzHl2PRJRZY4xn4VjwIzGxJ3_B0QzksJm8irnnuPL5ReS4BvWjuGmpA_LRBW68TuKzWibuBIqRGoovbwCeX15qLCTIEec&ved=2ahUKEwjL9ciS6OSWAxVjr5UCHeUEOCQQFnoECBAQAQ&uoh=1",
+   "displayed_link": "https://raceroster.com \u203a events",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlTPQ5AAAAD3RSTlMAmbJsMHzj9B4Mz4lawlEFHuSPAAAAxUlEQVQoka1S2xbDIAgTvNVb8_9_O7R2q3Tr0_IChxyEBI35LxLRdis28IgBgOaK1HxPJEK3ktRKTyIQdCcL2Ub0VnMEm3ZwpePtZUEGSbTSzbpNxkQzyay4DXN7J5F0Zzgb9lY0Z8xY0N3rJ9wXeW9kmacFOuY0km5CVSTma7JxREx60lCRAGfqoXZR0W8QsJtugtqpWsSSp6PlZlC9mEbjMhfswGcYg_1y6sXRrD5CKheB7fwu3-DRVf2CpYcLyJgncuAFlrQH_LbSgCsAAAAASUVORK5CYII.png",
+   "date": "Sep 13, 2025",
+   "snippet": "Dublin Coffman's Band On The Run 5K All proceeds benefit the DCMB students. Online registration closed. Sat, September 13, 2025 8:30 AM EDT.",
+   "snippet_highlighted_words": [
+    "Dublin Coffman's Band"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Dublin Coffman's Band On The Run 5K All proceeds benefit the DCMB students. Online registration closed. Sat, September 13, 2025 8:30 AM EDT.",
+     "source_info_link": "https://raceroster.com/events/2025/102923/dublin-coffmans-band-on-the-run-5k",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlTPQ5AAAAD3RSTlMAmbJsMHzj9B4Mz4lawlEFHuSPAAAAxUlEQVQoka1S2xbDIAgTvNVb8_9_O7R2q3Tr0_IChxyEBI35LxLRdis28IgBgOaK1HxPJEK3ktRKTyIQdCcL2Ub0VnMEm3ZwpePtZUEGSbTSzbpNxkQzyay4DXN7J5F0Zzgb9lY0Z8xY0N3rJ9wXeW9kmacFOuY0km5CVSTma7JxREx60lCRAGfqoXZR0W8QsJtugtqpWsSSp6PlZlC9mEbjMhfswGcYg_1y6sXRrD5CKheB7fwu3-DRVf2CpYcLyJgncuAFlrQH_LbSgCsAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEShAEB6zswFeYOjnWMMEtQ1qDOPp74fKF6Z7vnk8OUPM7zxbLk9du8SA6hOAGq3WF-ajMs6YMrxPAnwrrA6rU_6FDzHl2PRJRZY4xn4VjwIzGxJ3_B0QzksJm8irnnuPL5ReS4BvWjuGmpA_LRBW68TuKzWibuBIqRGoovbwCeX15qLCTIEec&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEShAEB6zswFeYOjnWMMEtQ1qDOPp74fKF6Z7vnk8OUPM7zxbLk9du8SA6hOAGq3WF-ajMs6YMrxPAnwrrA6rU_6FDzHl2PRJRZY4xn4VjwIzGxJ3_B0QzksJm8irnnuPL5ReS4BvWjuGmpA_LRBW68TuKzWibuBIqRGoovbwCeX15qLCTIEec",
+   "source": "Race Roster",
+   "read_more_link": "https://raceroster.com/events/2025/102923/dublin-coffmans-band-on-the-run-5k#:~:text=Dublin%20Coffman's%20Band%20On%20The,8%3A30%20AM%20EDT"
+  },
+  {
+   "position": 6,
+   "title": "Dublin Coffman's Band On The Run, 19 Sep 2026",
+   "link": "https://gotrail.run/en/event/dublin-coffmans-band-on-the-run",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHrOzAV5kQDiKmhiXFOrppLoX5Him014JQM7Q4pCXZoI7vspJ1dgyBqdJIZZFqP0FfY5sCiFpqbWWn_EFdXX3y6iWqB9ozSaMRJSFGfKsDtf_kWMp-iRPKLf_o6bRhFNrV7aEfvCUnOQ-kx41laau40jdgx&ved=2ahUKEwjL9ciS6OSWAxVjr5UCHeUEOCQQFnoECAwQAQ&uoh=1",
+   "displayed_link": "https://gotrail.run \u203a event \u203a dublin-coffmans-band-on-t...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEVHcEwWwwkh0QohxC4YxQ4cxhUg0gYg0QAg0gIg0QcgygAZxxAg0gEaywsexxsfxQAg0gQcyQYexgUgxgUg0QQg0gUEuwABuAURvwgg0gUg0gQg0gYBuAoEuQA7zHgh0wgCtwEKvQAVwwkKuggIvAQdyhIg0gQg0gQBtwYCtwYGuQYi0gsDuA8AtAABtQQewQE590x7AAAAL3RSTlMALzYEKSCV__qH_xn_Pwr_xbPvyOyt_9qeo992Vf8BXf7_bYTuEM-8rseZTGP_68qeXzMAAAEiSURBVHgBpVFHgsMgEFtXJTYlveP0Htb__90iV_YcXTSggUHi52sEQRhVHAdxkvzXUmBAHmYVhr6WC0A6VpWkIZQnjoAReaz1ZDqdAfNek4DIHceLxcJxAiDoRNeakpeLxYq8BjZkYgsI8s4sFgWLSAD7Wiva8nA8nrp2kPtLzsfFxRs0JHN8SBvGGNo5uTAKPvHqFjfgzqaHMc-q51Wb4-4bteXAHczrnoSxAJAUcaV4OPBIfPDF_tpDZZU9zTDvQddPZfXAnmrYlUXq5XGw5tRbIQTQmD9b-9uEMCDTWZuHstZKPz4_-Ie1zz6zBiEA5zFwB2k1BhA7bnCHcJ88KctVY8P77OIqUOpMl5qLJrMeqaaoT6yFEFtyj6QCK0X-Fn8J-xcDiMLCQgAAAABJRU5ErkJggg.png",
+   "snippet": "The 12th annual Dublin Coffman Band On The Run is a 5K at Glacier Ridge Metro Park on September 19, 2026, with proceeds supporting the Dublin Coffman Marching ...",
+   "snippet_highlighted_words": [
+    "Dublin Coffman Band"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The 12th annual Dublin Coffman Band On The Run is a 5K at Glacier Ridge Metro Park on September 19, 2026, with proceeds supporting the Dublin Coffman Marching ...",
+     "source_info_link": "https://gotrail.run/en/event/dublin-coffmans-band-on-the-run",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEVHcEwWwwkh0QohxC4YxQ4cxhUg0gYg0QAg0gIg0QcgygAZxxAg0gEaywsexxsfxQAg0gQcyQYexgUgxgUg0QQg0gUEuwABuAURvwgg0gUg0gQg0gYBuAoEuQA7zHgh0wgCtwEKvQAVwwkKuggIvAQdyhIg0gQg0gQBtwYCtwYGuQYi0gsDuA8AtAABtQQewQE590x7AAAAL3RSTlMALzYEKSCV__qH_xn_Pwr_xbPvyOyt_9qeo992Vf8BXf7_bYTuEM-8rseZTGP_68qeXzMAAAEiSURBVHgBpVFHgsMgEFtXJTYlveP0Htb__90iV_YcXTSggUHi52sEQRhVHAdxkvzXUmBAHmYVhr6WC0A6VpWkIZQnjoAReaz1ZDqdAfNek4DIHceLxcJxAiDoRNeakpeLxYq8BjZkYgsI8s4sFgWLSAD7Wiva8nA8nrp2kPtLzsfFxRs0JHN8SBvGGNo5uTAKPvHqFjfgzqaHMc-q51Wb4-4bteXAHczrnoSxAJAUcaV4OPBIfPDF_tpDZZU9zTDvQddPZfXAnmrYlUXq5XGw5tRbIQTQmD9b-9uEMCDTWZuHstZKPz4_-Ie1zz6zBiEA5zFwB2k1BhA7bnCHcJ88KctVY8P77OIqUOpMl5qLJrMeqaaoT6yFEFtyj6QCK0X-Fn8J-xcDiMLCQgAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdAHrOzAV5kQDiKmhiXFOrppLoX5Him014JQM7Q4pCXZoI7vspJ1dgyBqdJIZZFqP0FfY5sCiFpqbWWn_EFdXX3y6iWqB9ozSaMRJSFGfKsDtf_kWMp-iRPKLf_o6bRhFNrV7aEfvCUnOQ-kx41laau40jdgx&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdAHrOzAV5kQDiKmhiXFOrppLoX5Him014JQM7Q4pCXZoI7vspJ1dgyBqdJIZZFqP0FfY5sCiFpqbWWn_EFdXX3y6iWqB9ozSaMRJSFGfKsDtf_kWMp-iRPKLf_o6bRhFNrV7aEfvCUnOQ-kx41laau40jdgx",
+   "source": "GoTrail.run"
+  },
+  {
+   "position": 7,
+   "title": "Dublin Coffman's Band On The Run 5K",
+   "link": "https://www.letsdothis.com/us/e/dublin-coffmans-band-on-the-run-5k-220208",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgQEB6zswFWevdrQR7DJizTfZrAriHhVVT-5GpVJpi0NvXOw7FPobUelr4GSqKzNPoUZMgyA8ipLuKClE6HgkzvLoxsTWhymSDqQI7DCT8-8dqkIyn2qObySgWfULVG8YxJbeFV_cIoEAswWT_q6i5brONalbfK-vXhlN3ZFmTgJCsAs&ved=2ahUKEwjL9ciS6OSWAxVjr5UCHeUEOCQQFnoECAsQAQ&uoh=1",
+   "displayed_link": "https://www.letsdothis.com \u203a ... \u203a Running Events \u203a Ohio",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEXr_wDv_wDz_wD1_wDp_QDi9gDZ6wDQ4QDE1AC8zACwvwCruQCaqACQnACCjQBwegBITwAwNAAaHQAAAABWXQBNVABkbAB1fwANDgA9QgBeZgB8hgCUoQDS5AD5_wCirwBrdAC3xwCLlwC3wSS0AAAAkklEQVR4Ac3ORQIDMQhA0RBh3N3l_nest4Taev72JYA4enBPCkpKqZTUBh3X84MwihNL0zTLCxbQrOIj-qg-0fxDpHvKqm6KtuuHMfAmo0Eqfu1Mv1wQ7xE6H2j4Ph4Sasm_Sgl6coNwqLu2iJPFVrkWrETa2HCsGcYcSxsh-odbs49LsHnOhAaUIruphHvi0J0BTFUROjdvqHEAAAAASUVORK5CYII.png",
+   "snippet": "Sign up for Dublin Coffman's Band On The Run 5K on Sat 12th Oct 2024. Learn how to enter, read reviews, get exclusive discounts, see photos, course maps, ...",
+   "snippet_highlighted_words": [
+    "Dublin Coffman's Band"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Sign up for Dublin Coffman's Band On The Run 5K on Sat 12th Oct 2024. Learn how to enter, read reviews, get exclusive discounts, see photos, course maps, ...",
+     "source_info_link": "https://www.letsdothis.com/us/e/dublin-coffmans-band-on-the-run-5k-220208",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEXr_wDv_wDz_wD1_wDp_QDi9gDZ6wDQ4QDE1AC8zACwvwCruQCaqACQnACCjQBwegBITwAwNAAaHQAAAABWXQBNVABkbAB1fwANDgA9QgBeZgB8hgCUoQDS5AD5_wCirwBrdAC3xwCLlwC3wSS0AAAAkklEQVR4Ac3ORQIDMQhA0RBh3N3l_nest4Taev72JYA4enBPCkpKqZTUBh3X84MwihNL0zTLCxbQrOIj-qg-0fxDpHvKqm6KtuuHMfAmo0Eqfu1Mv1wQ7xE6H2j4Ph4Sasm_Sgl6coNwqLu2iJPFVrkWrETa2HCsGcYcSxsh-odbs49LsHnOhAaUIruphHvi0J0BTFUROjdvqHEAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESgQEB6zswFWevdrQR7DJizTfZrAriHhVVT-5GpVJpi0NvXOw7FPobUelr4GSqKzNPoUZMgyA8ipLuKClE6HgkzvLoxsTWhymSDqQI7DCT8-8dqkIyn2qObySgWfULVG8YxJbeFV_cIoEAswWT_q6i5brONalbfK-vXhlN3ZFmTgJCsAs&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESgQEB6zswFWevdrQR7DJizTfZrAriHhVVT-5GpVJpi0NvXOw7FPobUelr4GSqKzNPoUZMgyA8ipLuKClE6HgkzvLoxsTWhymSDqQI7DCT8-8dqkIyn2qObySgWfULVG8YxJbeFV_cIoEAswWT_q6i5brONalbfK-vXhlN3ZFmTgJCsAs",
+   "source": "Let's Do This"
+  },
+  {
+   "position": 8,
+   "title": "Officials identify Dublin Coffman student who died at band ...",
+   "link": "https://www.10tv.com/article/news/local/officials-identify-dublin-coffman-student-who-died-band-rehearsal/530-0372bb34-a852-4384-9d07-d84e7d42b157",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESywEB6zswFQxBmI4JCUfknrYbqPDQOy46yG19n9M5T5eIyf-B7354twNJDk7u9uKJx34B-ZwnMbApTiyhxQPv7gXALoGGMvu3q3qCWWEuFFOc-AfEvC-AQZZBH1seLe0CsraS8xmWEN-FrNa7xvEIHv3HqMZu3kaZXpP9a-SYzXnTH05-TUzPEuz0kXLWbF0V1G1_tas9yRCzcyzyDXP0ZLUnw9w3Y4YQXzpGEtAvJgGKzTCHXTl2vAnQ3cnYZ4TBP1VSXW0EBCatQMlAVw&ved=2ahUKEwjL9ciS6OSWAxVjr5UCHeUEOCQQFnoECF8QAQ&uoh=1",
+   "displayed_link": "https://www.10tv.com \u203a article \u203a news \u203a local \u203a officials-...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABQUlEQVR4AezWJXAYQRhA4S2zLqMqyTKTn6qaMnPryhDm-ImKCquwignpRIeZmfHPC9NhdtblZr4j9Q531fqyvux8lrLURhSiZIUUKAsn8Bt5aINA0I1ihOIslJ2VJ75CLJRALXEEyZiEeJCL03YBm3AeiRAPAQ_QC_FpBO-tAgYggGvAR4imiJUB4jHgPiYh0PXeb0AdOiCAthGcmg94tkQ7REMXqjACcZFj9RVUQ9agAFewAQo78ASNEAentAOQis1QFg6hBmIjSDegGXugHNyD2CjUDYiF8qDc7p3RDXgE5UEaxIpuwCsoDzJMBcRDudiMVlOPYAgnoBy8M_cSAqXYB2XhNgYNfoYAWvEdZ7Af1xCHcc0fkT79X7H5wcg-wPxwbB9gfkJiH2B-SqYRYGZSutQ_TG0CFlxKq2b5KBgFAO4JRU9mJIUvAAAAAElFTkSuQmCC.png",
+   "date": "Mar 5, 2018",
+   "snippet": "Download the 10TV app. Download on the App Store Get it on Google Play. Dublin Coffman band student death ...",
+   "snippet_highlighted_words": [
+    "Dublin Coffman band"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Download the 10TV app. Download on the App Store Get it on Google Play. Dublin Coffman band student death ...",
+     "source_info_link": "https://www.10tv.com/article/news/local/officials-identify-dublin-coffman-student-who-died-band-rehearsal/530-0372bb34-a852-4384-9d07-d84e7d42b157",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABQUlEQVR4AezWJXAYQRhA4S2zLqMqyTKTn6qaMnPryhDm-ImKCquwignpRIeZmfHPC9NhdtblZr4j9Q531fqyvux8lrLURhSiZIUUKAsn8Bt5aINA0I1ihOIslJ2VJ75CLJRALXEEyZiEeJCL03YBm3AeiRAPAQ_QC_FpBO-tAgYggGvAR4imiJUB4jHgPiYh0PXeb0AdOiCAthGcmg94tkQ7REMXqjACcZFj9RVUQ9agAFewAQo78ASNEAentAOQis1QFg6hBmIjSDegGXugHNyD2CjUDYiF8qDc7p3RDXgE5UEaxIpuwCsoDzJMBcRDudiMVlOPYAgnoBy8M_cSAqXYB2XhNgYNfoYAWvEdZ7Af1xCHcc0fkT79X7H5wcg-wPxwbB9gfkJiH2B-SqYRYGZSutQ_TG0CFlxKq2b5KBgFAO4JRU9mJIUvAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESywEB6zswFQxBmI4JCUfknrYbqPDQOy46yG19n9M5T5eIyf-B7354twNJDk7u9uKJx34B-ZwnMbApTiyhxQPv7gXALoGGMvu3q3qCWWEuFFOc-AfEvC-AQZZBH1seLe0CsraS8xmWEN-FrNa7xvEIHv3HqMZu3kaZXpP9a-SYzXnTH05-TUzPEuz0kXLWbF0V1G1_tas9yRCzcyzyDXP0ZLUnw9w3Y4YQXzpGEtAvJgGKzTCHXTl2vAnQ3cnYZ4TBP1VSXW0EBCatQMlAVw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESywEB6zswFQxBmI4JCUfknrYbqPDQOy46yG19n9M5T5eIyf-B7354twNJDk7u9uKJx34B-ZwnMbApTiyhxQPv7gXALoGGMvu3q3qCWWEuFFOc-AfEvC-AQZZBH1seLe0CsraS8xmWEN-FrNa7xvEIHv3HqMZu3kaZXpP9a-SYzXnTH05-TUzPEuz0kXLWbF0V1G1_tas9yRCzcyzyDXP0ZLUnw9w3Y4YQXzpGEtAvJgGKzTCHXTl2vAnQ3cnYZ4TBP1VSXW0EBCatQMlAVw",
+   "source": "10TV",
+   "read_more_link": "https://www.10tv.com/article/news/local/officials-identify-dublin-coffman-student-who-died-band-rehearsal/530-0372bb34-a852-4384-9d07-d84e7d42b157#:~:text=local"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Dublin coffman band ohio schedule",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Dublin+coffman+band+ohio+schedule&sa=X&ved=2ahUKEwjL9ciS6OSWAxVjr5UCHeUEOCQQ1QJ6BAhcEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Dublin+coffman+band+ohio+schedule"
+  },
+  {
+   "block_position": 1,
+   "query": "Dublin coffman band ohio tickets",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Dublin+coffman+band+ohio+tickets&sa=X&ved=2ahUKEwjL9ciS6OSWAxVjr5UCHeUEOCQQ1QJ6BAheEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Dublin+coffman+band+ohio+tickets"
+  },
+  {
+   "block_position": 1,
+   "query": "Dublin coffman band ohio members",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Dublin+coffman+band+ohio+members&sa=X&ved=2ahUKEwjL9ciS6OSWAxVjr5UCHeUEOCQQ1QJ6BAhdEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Dublin+coffman+band+ohio+members"
+  },
+  {
+   "block_position": 1,
+   "query": "Dublin coffman band on the run",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Dublin+coffman+band+on+the+run&sa=X&ved=2ahUKEwjL9ciS6OSWAxVjr5UCHeUEOCQQ1QJ6BAhbEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Dublin+coffman+band+on+the+run"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Dublin+Coffman+Band%22+Ohio&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=3Q2jaouTI-Pe1sQP5YngoQI&start=10&sa=N&sstk=AS6-VmINpoGuQT8GnOcqM5wem8l3LZhj2vsIFihxfZjlwsaIJzw69QOuKZrpLdOICt4raZhfTYToSHBv4tULWfbsHKJGTHE4VOVUeQ&ved=2ahUKEwjL9ciS6OSWAxVjr5UCHeUEOCQQ8NMDegQIVxAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Dublin+Coffman+Band%22+Ohio&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=3Q2jaouTI-Pe1sQP5YngoQI&start=10&sa=N&sstk=AS6-VmINpoGuQT8GnOcqM5wem8l3LZhj2vsIFihxfZjlwsaIJzw69QOuKZrpLdOICt4raZhfTYToSHBv4tULWfbsHKJGTHE4VOVUeQ&ved=2ahUKEwjL9ciS6OSWAxVjr5UCHeUEOCQQ8tMDegQIVxAE",
+   "3": "https://www.google.com/search?q=%22Dublin+Coffman+Band%22+Ohio&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=3Q2jaouTI-Pe1sQP5YngoQI&start=20&sa=N&sstk=AS6-VmINpoGuQT8GnOcqM5wem8l3LZhj2vsIFihxfZjlwsaIJzw69QOuKZrpLdOICt4raZhfTYToSHBv4tULWfbsHKJGTHE4VOVUeQ&ved=2ahUKEwjL9ciS6OSWAxVjr5UCHeUEOCQQ8tMDegQIVxAG",
+   "4": "https://www.google.com/search?q=%22Dublin+Coffman+Band%22+Ohio&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=3Q2jaouTI-Pe1sQP5YngoQI&start=30&sa=N&sstk=AS6-VmINpoGuQT8GnOcqM5wem8l3LZhj2vsIFihxfZjlwsaIJzw69QOuKZrpLdOICt4raZhfTYToSHBv4tULWfbsHKJGTHE4VOVUeQ&ved=2ahUKEwjL9ciS6OSWAxVjr5UCHeUEOCQQ8tMDegQIVxAI",
+   "5": "https://www.google.com/search?q=%22Dublin+Coffman+Band%22+Ohio&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=3Q2jaouTI-Pe1sQP5YngoQI&start=40&sa=N&sstk=AS6-VmINpoGuQT8GnOcqM5wem8l3LZhj2vsIFihxfZjlwsaIJzw69QOuKZrpLdOICt4raZhfTYToSHBv4tULWfbsHKJGTHE4VOVUeQ&ved=2ahUKEwjL9ciS6OSWAxVjr5UCHeUEOCQQ8tMDegQIVxAK",
+   "6": "https://www.google.com/search?q=%22Dublin+Coffman+Band%22+Ohio&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=3Q2jaouTI-Pe1sQP5YngoQI&start=50&sa=N&sstk=AS6-VmINpoGuQT8GnOcqM5wem8l3LZhj2vsIFihxfZjlwsaIJzw69QOuKZrpLdOICt4raZhfTYToSHBv4tULWfbsHKJGTHE4VOVUeQ&ved=2ahUKEwjL9ciS6OSWAxVjr5UCHeUEOCQQ8tMDegQIVxAM",
+   "7": "https://www.google.com/search?q=%22Dublin+Coffman+Band%22+Ohio&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=3Q2jaouTI-Pe1sQP5YngoQI&start=60&sa=N&sstk=AS6-VmINpoGuQT8GnOcqM5wem8l3LZhj2vsIFihxfZjlwsaIJzw69QOuKZrpLdOICt4raZhfTYToSHBv4tULWfbsHKJGTHE4VOVUeQ&ved=2ahUKEwjL9ciS6OSWAxVjr5UCHeUEOCQQ8tMDegQIVxAO",
+   "8": "https://www.google.com/search?q=%22Dublin+Coffman+Band%22+Ohio&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=3Q2jaouTI-Pe1sQP5YngoQI&start=70&sa=N&sstk=AS6-VmINpoGuQT8GnOcqM5wem8l3LZhj2vsIFihxfZjlwsaIJzw69QOuKZrpLdOICt4raZhfTYToSHBv4tULWfbsHKJGTHE4VOVUeQ&ved=2ahUKEwjL9ciS6OSWAxVjr5UCHeUEOCQQ8tMDegQIVxAQ",
+   "9": "https://www.google.com/search?q=%22Dublin+Coffman+Band%22+Ohio&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=3Q2jaouTI-Pe1sQP5YngoQI&start=80&sa=N&sstk=AS6-VmINpoGuQT8GnOcqM5wem8l3LZhj2vsIFihxfZjlwsaIJzw69QOuKZrpLdOICt4raZhfTYToSHBv4tULWfbsHKJGTHE4VOVUeQ&ved=2ahUKEwjL9ciS6OSWAxVjr5UCHeUEOCQQ8tMDegQIVxAS",
+   "10": "https://www.google.com/search?q=%22Dublin+Coffman+Band%22+Ohio&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=3Q2jaouTI-Pe1sQP5YngoQI&start=90&sa=N&sstk=AS6-VmINpoGuQT8GnOcqM5wem8l3LZhj2vsIFihxfZjlwsaIJzw69QOuKZrpLdOICt4raZhfTYToSHBv4tULWfbsHKJGTHE4VOVUeQ&ved=2ahUKEwjL9ciS6OSWAxVjr5UCHeUEOCQQ8tMDegQIVxAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Dublin+Coffman+Band%22+Ohio&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Dublin+Coffman+Band%22+Ohio&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Dublin+Coffman+Band%22+Ohio&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Dublin+Coffman+Band%22+Ohio&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Dublin+Coffman+Band%22+Ohio&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Dublin+Coffman+Band%22+Ohio&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Dublin+Coffman+Band%22+Ohio&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Dublin+Coffman+Band%22+Ohio&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Dublin+Coffman+Band%22+Ohio&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Dublin+Coffman+Band%22+Ohio&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Dublin+Coffman+Band%22+Ohio&start=90"
+  }
+ }
+}

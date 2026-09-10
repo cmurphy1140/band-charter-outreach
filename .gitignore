@@ -5,4 +5,6 @@ __pycache__/
 *.egg-info/
 .env
 .DS_Store
-data/raw/
+data/raw/*
+# SerpAPI responses are tracked: each one costs monthly quota and holds no key.
+!data/raw/serpapi.com/

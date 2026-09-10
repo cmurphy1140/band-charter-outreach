@@ -1,0 +1,873 @@
+{
+ "search_information": {
+  "query_displayed": "\"Homestead High School\" Indiana",
+  "total_results": 111,
+  "time_taken_displayed": 0.5,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "available_on": [
+  {
+   "name": "YouTube",
+   "link": "https://www.youtube.com/attribution_link?utm_campaign=ytcore&yt_product=ytalc&yt_goal=acq&utm_source=int&utm_medium=gs&utm_content=ump&yt_campaign_id=ytalc22&c=ytcore-ytalc-acq-int-gs-ump-ytalc22&utm_term=video&u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DurOx4wS10I8",
+   "price": "Primetime subscription"
+  },
+  {
+   "name": "Hulu",
+   "link": "https://www.hulu.com/watch/65f88c34-84c9-43b5-924d-b3a98adc0db3",
+   "price": "Subscription (Requires add-on)"
+  },
+  {
+   "name": "The Roku Channel",
+   "link": "https://therokuchannel.roku.com/watch/df21c867b16668324fbfc7c1e6e6ee31?source=google",
+   "price": "Subscription (Requires add-on)"
+  },
+  {
+   "name": "fuboTV",
+   "link": "https://link.fubo.tv/al1%3Fa%3Dplay%26ftv_campaign%3Dfeeds%26ftv_medium%3Dfeed_google_watch_actions%26ftv_source%3D202609081653%26ftv_term%3Dprogram_MV022203850000%26pid%3DMV022203850000%26t%3Dprogram%26utm_campaign%3Dfeeds%26utm_medium%3Dfeed_google_watch_actions%26utm_source%3D202609081653%26utm_term%3Dprogram_MV022203850000%26v%3D1",
+   "price": "Subscription (Requires add-on)"
+  },
+  {
+   "name": "Paramount+",
+   "link": "https://www.paramountplus.com/movies/homestead/ALVE01KX67DRWVE9V8VB7JCS2D58BT?searchReferral=desktop-web&source=google-organic&ftag=PPM-23-10bfh8c",
+   "price": "Subscription (Requires add-on)"
+  },
+  {
+   "name": "YouTube TV",
+   "link": "https://tv.youtube.com/browse/UCaUry014vRa1UBCBBPeO_JQ?utm_source=onebox",
+   "price": "Subscription (Requires add-on)"
+  },
+  {
+   "name": "Google Play Movies & TV",
+   "link": "https://play.google.com/store/movies/details?id=Ss6-HViMXOU.P",
+   "price": "From $5.99"
+  },
+  {
+   "name": "Apple TV",
+   "link": "https://tv.apple.com/us/movie/homestead/umc.cmc.wytp1gfd415r6fts2ohap4df",
+   "price": "From $5.99"
+  },
+  {
+   "name": "Amazon Prime Video",
+   "link": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.77f07a5e-2888-433f-923e-b9eb22808011?autoplay=0&ref_=atv_cf_strg_wb",
+   "price": "From $5.99"
+  },
+  {
+   "name": "Fandango",
+   "link": "https://athome.fandango.com/content/browse/details/Homestead/4097176?cmp=OrganicSearch~Vudu~GoogleWatch",
+   "price": "$14.99"
+  }
+ ],
+ "knowledge_graph": {
+  "title": "Homestead",
+  "type": "PG-13 2024 \u2027 Action/Drama \u2027 1h 50m",
+  "entity_type": "film, tvm",
+  "kgmid": "/g/11vt4nsf7f",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/g/11vt4nsf7f&hl=en-US&q=Homestead",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fg%2F11vt4nsf7f&q=Homestead",
+  "header_images": [
+   {
+    "image": "https://serpapi.com/searches/6aa30a9173d17567bdc07c12/images/ovWOjyqvh_XgDcztQ6Rozrm-LR1xZxacnTm_bRP7irJjGGyu0C5TA_qdtjNe4Gkx.jpeg",
+    "source": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfXUbVQe-qxFmBg2dz_KQzCrlnecSc9cs7qNvgOh1Sjfnf8WjI"
+   },
+   {
+    "image": "https://serpapi.com/searches/6aa30a9173d17567bdc07c12/images/ovWOjyqvh_XgDcztQ6RozoKcNb-Twg85dZDHFgaOPxpYhf8m-eVkfLWQvZha3ObV.webp",
+    "source": "https://en.wikipedia.org/wiki/Homestead_(film)"
+   },
+   {
+    "image": "https://serpapi.com/searches/6aa30a9173d17567bdc07c12/images/ovWOjyqvh_XgDcztQ6RozgPXFM8EdaGlzp-OWsgMpTz_ah-YZoyMkpFxDaqXc29L.webp",
+    "source": "https://www.nytimes.com/2024/12/19/movies/homestead-review-armageddon-fortress.html"
+   }
+  ],
+  "description": "Ian Ross recruits former soldier Jeff Eriksson to protect his mountain compound during a national crisis. However, external threats and internal clashes jeopardise the haven's future.",
+  "ratings": [
+   {
+    "source": "IMDb",
+    "rating": "5.2/10",
+    "link": "https://www.imdb.com/title/tt29137778/"
+   }
+  ],
+  "director": "Ben Smallbone",
+  "director_links": [
+   {
+    "text": "Ben Smallbone",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Ben+Smallbone&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0dmb2O4TG9HYHGGMFG84MDQUrpkQM_a6EXFt8tuHcY1VO1dQ6nkRBHJIF-E_1luwHaYf8lSc-eSoxsJn5GShuq2Dk_kuQQKbbtg3G3b4CPWxUxciuGdYRbX9PXxWfC3m_1zdcdTmtSDai6u7c1JFgERJ-4FND-rH00Fk-X7vSPWTU9EFpA%3D%3D&sa=X&ved=2ahUKEwiK0pqA5eSWAxVQ18kDHe6aKuEQmxN6BAggEAI"
+   }
+  ],
+  "mpaa_rating": "PG-13",
+  "mpaa_rating_links": [
+   {
+    "text": "PG-13",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yWi2wJZHfPz9gh7YYw6xNsvuImwTvM0IQTH6_LM_LUiOA-e6S-ZcOglHtP1cbT_i4w3kNGA7NR_0AYicvUAgcLzK80ZjVGpuLcNgqQ6Cgc_2yKGmz__CMWefN3c3qOB4Z6vqHp76GdCt_bA58UwuycCLaWGj&sa=X&ved=2ahUKEwiK0pqA5eSWAxVQ18kDHe6aKuEQmxN6BAgnEAI"
+   }
+  ],
+  "running_time": "1h 50m",
+  "distributed_by": "Angel Studios",
+  "distributed_by_links": [
+   {
+    "text": "Angel Studios",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Angel+Studios&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0UNE-A9Yjchk2PUBMVN2rz35G4fXy-EZrHi7bAascHBysQwJ6cz4mjAD58pSAgN98jQPFSB8MLif9hQikkR9X9aeN3fK6ewMiPEbagbrUlLGSjAkOeqMGb3Afla-thVmeQs83CrfW7d7fitNYKjTIUf0Tycczpj7HeOy3X-VtbMTKJ5XqQ%3D%3D&sa=X&ved=2ahUKEwiK0pqA5eSWAxVQ18kDHe6aKuEQmxN6BAghEAI"
+   }
+  ],
+  "editorial_reviews": [
+   {
+    "title": "IMDb",
+    "rating": "5.2/10",
+    "link": "https://www.imdb.com/title/tt29137778/"
+   }
+  ],
+  "web_results": [
+   {
+    "title": "Ratings",
+    "ratings": [
+     {
+      "source": "IMDb",
+      "rating": "5.2/10",
+      "link": "https://www.imdb.com/title/tt29137778/"
+     }
+    ],
+    "link": "https://www.imdb.com/title/tt29137778/"
+   },
+   {
+    "title": "Where to watch",
+    "link": "https://www.youtube.com/attribution_link?utm_campaign=ytcore&yt_product=ytalc&yt_goal=acq&utm_source=int&utm_medium=gs&utm_content=ump&yt_campaign_id=ytalc22&c=ytcore-ytalc-acq-int-gs-ump-ytalc22&utm_term=video&u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DurOx4wS10I8"
+   },
+   {
+    "title": "Release date",
+    "snippet": "December 20, 2024 (USA)",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=homestead+(film)+release+date&stick=H4sIAAAAAAAAAOPgE-LVT9c3NCwrMckrTjNP0zLKTrbST8vMyQUTViUZqYklRZnJiTkKRanpmfl5ConliUWpQE5OamJxqkJKYknqIlbZjPzc1OKS1MQUBQ2QNk0UeQB5UNMFZQAAAA&sa=X&ved=2ahUKEwiK0pqA5eSWAxVQ18kDHe6aKuEQ18AJegQILBAB"
+   }
+  ],
+  "people_also_search_for": [
+   {
+    "name": "Elevation",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR613oqw97V_fj-T2p3Pauewn1SnjqxIaor1BYk&s=0",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0W-MEYvR-N_Iit_3sA94UUAW0p-Rsszv8MeQIJOB4L2tcqhlmE2zaCzpIRBSLhZGrk92o9dSd0A1UDmcOTIu-SWfFiZSHivratumGov5nL6M_7DwmqjaVq2eSxezOZjywrqZLKOOHNf4ikeZRYAVRp9RwTGX5gOAjkl1WAa7XVqGpTScDw%3D%3D&q=Elevation+(film)&sa=X&ved=2ahUKEwiK0pqA5eSWAxVQ18kDHe6aKuEQs9oBKAB6BAgYEAY",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Elevation+%28film%29&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0W-MEYvR-N_Iit_3sA94UUAW0p-Rsszv8MeQIJOB4L2tcqhlmE2zaCzpIRBSLhZGrk92o9dSd0A1UDmcOTIu-SWfFiZSHivratumGov5nL6M_7DwmqjaVq2eSxezOZjywrqZLKOOHNf4ikeZRYAVRp9RwTGX5gOAjkl1WAa7XVqGpTScDw%3D%3D",
+    "extensions": [
+     "2024"
+    ]
+   },
+   {
+    "name": "Greenland",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8vk0tSyhJVw2SnJfTXlSNJJxYtfVkIrSGpR8w&s=0",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0cSyoOZehgQNmhhhpNnovrHZ1ndwGgooHUjUAzCWLgC7qGawb-VOurlhFv5u-gjZJ1s_LBUWFqP-XuDtXHgZnu3vamhtOFTU8indT647XZ3ZbKP63R_FNxUhdLFczbmq_97qnu__FQ_wv43ftU0pLdRikjy0rzXEJWT003y5LqJrirMwsw%3D%3D&q=Greenland+(film)&sa=X&ved=2ahUKEwiK0pqA5eSWAxVQ18kDHe6aKuEQs9oBKAB6BAgYEAo",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Greenland+%28film%29&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0cSyoOZehgQNmhhhpNnovrHZ1ndwGgooHUjUAzCWLgC7qGawb-VOurlhFv5u-gjZJ1s_LBUWFqP-XuDtXHgZnu3vamhtOFTU8indT647XZ3ZbKP63R_FNxUhdLFczbmq_97qnu__FQ_wv43ftU0pLdRikjy0rzXEJWT003y5LqJrirMwsw%3D%3D",
+    "extensions": [
+     "2020"
+    ]
+   },
+   {
+    "name": "Brave the Dark",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFW4RXs-QjTazJjxvLGCWuft1jawdxIEychTgt&s=0",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0amC7O8t0F9hVaxDbEL_5O__Mj7jpgJsgJN1saYMLrYGYw-2WWW2I-c1yZhjPhLKCdjPhaTRONxTP7SQUPsdM9hyFeKLmc5ddrrKDlsIQUMZlW8uzQlz8VmyGrwxiYopiPjhr9Z99kcEN3jqaz7M2LyFlN7m66PkGTObhBi8hckVHiwxKg%3D%3D&q=Brave+the+Dark&sa=X&ved=2ahUKEwiK0pqA5eSWAxVQ18kDHe6aKuEQs9oBKAB6BAgYEA4",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Brave+the+Dark&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0amC7O8t0F9hVaxDbEL_5O__Mj7jpgJsgJN1saYMLrYGYw-2WWW2I-c1yZhjPhLKCdjPhaTRONxTP7SQUPsdM9hyFeKLmc5ddrrKDlsIQUMZlW8uzQlz8VmyGrwxiYopiPjhr9Z99kcEN3jqaz7M2LyFlN7m66PkGTObhBi8hckVHiwxKg%3D%3D",
+    "extensions": [
+     "2023"
+    ]
+   },
+   {
+    "name": "LA Apocalypse",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaqjdZXfb_SjRNKvbaCTKsM8r8lNciZu56LucU&s=0",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0fN5X1D3NZT8WOHCV9YGBHB9ZYIZIuWkUAAKqyjVnp9ExM837zVwANaH3SXBBCbL6fRW6y1gAxCc_twtJ_KhOiEREXnOuyrLmYO4zyGYgQxkNeHkaQUop5kkf6ZHDDZ0uG1q8ErXRhH1Y0r0EWa4sIrW5Vjm5ha8LXxXGcJ21UzV4w6Rag%3D%3D&q=LA+Apocalypse&sa=X&ved=2ahUKEwiK0pqA5eSWAxVQ18kDHe6aKuEQs9oBKAB6BAgYEBI",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=LA+Apocalypse&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0fN5X1D3NZT8WOHCV9YGBHB9ZYIZIuWkUAAKqyjVnp9ExM837zVwANaH3SXBBCbL6fRW6y1gAxCc_twtJ_KhOiEREXnOuyrLmYO4zyGYgQxkNeHkaQUop5kkf6ZHDDZ0uG1q8ErXRhH1Y0r0EWa4sIrW5Vjm5ha8LXxXGcJ21UzV4w6Rag%3D%3D",
+    "extensions": [
+     "2014"
+    ]
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Homestead+(film)&stick=H4sIAAAAAAAAAONgFuLVT9c3NCwrMckrTjNPU0LlagkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axCrgkZ-bWlySmpiioJGWmZOreYtNkuGNQ0VgLl9T55Jww0Os2os2RyQF26SHfT8OAFnE_SZ7AAAA&sa=X&ved=2ahUKEwiK0pqA5eSWAxVQ18kDHe6aKuEQzO0BKAR6BAgYEBQ",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLVT9c3NCwrMckrTjNPU0LlagkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axCrgkZ-bWlySmpiioJGWmZOreYtNkuGNQ0VgLl9T55Jww0Os2os2RyQF26SHfT8OAFnE_SZ7AAAA",
+  "cast": [
+   {
+    "name": "Neal McDonough",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Neal+McDonough&stick=H4sIAAAAAAAAAONgFuLVT9c3NCwrMckrTjNPU-LUz9U3MC43Kc7Q4vHNL8tMDcl3TC7JL1rEyueXmpij4Jvskp-XX5qeAQCkI6pxOwAAAA&sa=X&ved=2ahUKEwiK0pqA5eSWAxVQ18kDHe6aKuEQxA16BAgrEAM",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Neal+McDonough&stick=H4sIAAAAAAAAAONgFuLVT9c3NCwrMckrTjNPU-LUz9U3MC43Kc7Q4vHNL8tMDcl3TC7JL1rEyueXmpij4Jvskp-XX5qeAQCkI6pxOwAAAA",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6BN2XbeMP5DqhWnf2FgtEY6y_1sLv9J2rIjzoV0IVIxQD9zek5dFNZUcwaX9Gly0pfsbTQg&s=0"
+   },
+   {
+    "name": "Dawn Olivieri",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Dawn+Olivieri&stick=H4sIAAAAAAAAAONgFuLVT9c3NCwrMckrTjNPU-LSz9U3MDEvKy4o1uLxzS_LTA3Jd0wuyS9axMrrkliep-CfkwkULMoEAFdDdD87AAAA&sa=X&ved=2ahUKEwiK0pqA5eSWAxVQ18kDHe6aKuEQxA16BAgrEAY",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Dawn+Olivieri&stick=H4sIAAAAAAAAAONgFuLVT9c3NCwrMckrTjNPU-LSz9U3MDEvKy4o1uLxzS_LTA3Jd0wuyS9axMrrkliep-CfkwkULMoEAFdDdD87AAAA",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbUIu18x1b1atgaM86KDzLJbR43kKkhNVFhAs9tnfakrDkezOygEkeSDvfmjGYiht_WABOCQ&s=0"
+   },
+   {
+    "name": "Bailey Chase",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Bailey+Chase&stick=H4sIAAAAAAAAAONgFuLVT9c3NCwrMckrTjNPU-LUz9U3SK5IszTW4vHNL8tMDcl3TC7JL1rEyuOUmJmTWqngnJFYnAoAi694ETkAAAA&sa=X&ved=2ahUKEwiK0pqA5eSWAxVQ18kDHe6aKuEQxA16BAgrEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Bailey+Chase&stick=H4sIAAAAAAAAAONgFuLVT9c3NCwrMckrTjNPU-LUz9U3SK5IszTW4vHNL8tMDcl3TC7JL1rEyuOUmJmTWqngnJFYnAoAi694ETkAAAA",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd6-BwPMB2KRL48Wge1Kz8uIwlG3_wJnCKMytwQ5gsmAekkggH4Q7ZnMf9SbHn3j-hbVCNXw&s=0"
+   },
+   {
+    "name": "Kevin Lawson",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Kevin+Lawson&stick=H4sIAAAAAAAAAONgFuLVT9c3NCwrMckrTjNPU4Jwc1IK4i2rzA21eHzzyzJTQ_Idk0vyixax8ninlmXmKfgklhfn5wEA0r2y0T0AAAA&sa=X&ved=2ahUKEwiK0pqA5eSWAxVQ18kDHe6aKuEQxA16BAgrEAw",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Kevin+Lawson&stick=H4sIAAAAAAAAAONgFuLVT9c3NCwrMckrTjNPU4Jwc1IK4i2rzA21eHzzyzJTQ_Idk0vyixax8ninlmXmKfgklhfn5wEA0r2y0T0AAAA",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3qox4YrUb1z5Ap6TmnqV3O8cbqzhJ0gJFHfrl1AU9jRfX9Ko-yAxmZaRnAghl_WQLl1QaTQ&s=0"
+   }
+  ]
+ },
+ "inline_videos": [
+  {
+   "position": 1,
+   "title": "Homestead | Official Trailer | Angel Studios",
+   "link": "https://www.youtube.com/watch?v=XURLw2XXHWA",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfqWakJq4OgfVNHI8R5zwKCSi9kShxBOpYN6Ie_86eMr0DQK5G4vv0xA&s",
+   "channel": "Angel",
+   "duration": "2:22",
+   "platform": "YouTube",
+   "date": "Nov 15, 2024",
+   "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSzSrZtTT8StBRn4kBwEMBWjmqQHHGuNlnFdA"
+  },
+  {
+   "position": 2,
+   "title": "Homestead| Season 1 | Official Trailer | Now Streaming | Angel",
+   "link": "https://www.youtube.com/watch?v=MEv63uOkPvQ",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReQG7fgxDwWOwixrwMtQvdcObq_km2-TxrFwg-D4PeFqA5D_myPecZYA&s",
+   "channel": "Angel",
+   "duration": "2:30",
+   "platform": "YouTube",
+   "date": "Nov 25, 2025",
+   "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS8Z_E3-XouiKyL04UXCZjwKmkXQw5pxPi-nw"
+  },
+  {
+   "position": 3,
+   "title": "Homestead | Official Teaser | Angel Studios",
+   "link": "https://www.youtube.com/watch?v=Hf8PYgTk41A",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ86oLjx8Wcg_7wUYkKrqUeNFKZrsTdtw3SObNwmm3QCUCUjOBOCOnFw&s",
+   "channel": "Angel",
+   "duration": "1:12",
+   "platform": "YouTube",
+   "date": "Jan 5, 2024",
+   "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRQUbxHG8snbfDwEpAApQ2dmleVlB_98I7hVg"
+  }
+ ],
+ "short_videos": [
+  {
+   "position": 1,
+   "title": "\"Homestead delivers a thrilling combo: a cinematic movie that ... by Homestead on Facebook. Play on Facebook. 0:52",
+   "source": "Facebook",
+   "profile_name": "Homestead",
+   "extensions": [
+    "Homestead"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "duration": "0:52",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0aU4h5EX2KMubNXavpROH9Bzjli5EPdDFo377W3grx_vSWeOO4KTk8gs&s=10",
+   "link": "https://www.facebook.com/HomesteadTVSeries/videos/get-early-access-to-watch-homestead-today/1336696301845048/"
+  },
+  {
+   "position": 2,
+   "title": "What Is Homestead?",
+   "source": "YouTube",
+   "profile_name": "Homestead Series",
+   "extensions": [
+    "Homestead Series"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "duration": "1:22",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnihR3-lLuxqcmfaD8d_RY8Qp-awW-qzPcsBo6Mo-HuCjWd9dwQHHKLg4&s=10",
+   "link": "https://www.youtube.com/shorts/YTzD-Fl6RFw"
+  },
+  {
+   "position": 3,
+   "title": "Start with the cinematic film that sets the stakes, then dive into ... by Homestead on Facebook. Play on Facebook. 0:50",
+   "source": "Facebook",
+   "profile_name": "Homestead",
+   "extensions": [
+    "Homestead"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "duration": "0:50",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDEzz-qaE62RrNgUCMHv06V7a5AhnrjaSTBNTznWrqMBWPr-Y-FTKVhFo&s=10",
+   "link": "https://www.facebook.com/HomesteadTVSeries/videos/watch-homestead-today/1759523435180240/"
+  },
+  {
+   "position": 4,
+   "title": "Why you should go see Homestead: 1. It's a thought-provoking ... by Homestead on Facebook. Play on Facebook. 1:00",
+   "source": "Facebook",
+   "profile_name": "Homestead",
+   "extensions": [
+    "Homestead"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "duration": "1:00",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgeK2wPcYWqqwRxPSIzkjpSMJjomLlBmwfJ8N450pSEKlNLe5O3IpGMkE&s=10",
+   "link": "https://www.facebook.com/HomesteadTVSeries/videos/why-you-should-see-homestead/2044142289436019/"
+  },
+  {
+   "position": 5,
+   "title": "Homestead delivers a thrilling combo: a cinematic movie that ... by Homestead on Facebook. Play on Facebook. 2:18",
+   "source": "Facebook",
+   "profile_name": "Homestead",
+   "extensions": [
+    "Homestead"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "duration": "2:18",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUaPsoEr_SzIVyjiG-cDPBbUqK32vg2e9fEvYf0mL3sOd1Hg9ktuwd6vw&s=10",
+   "link": "https://www.facebook.com/HomesteadTVSeries/videos/watch-homestead-today/1568150957931272/"
+  },
+  {
+   "position": 6,
+   "title": "Homestead delivers a thrilling combo - Movie by Homestead on Facebook. Play on Facebook. 2:48",
+   "source": "Facebook",
+   "profile_name": "Homestead",
+   "extensions": [
+    "Homestead"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "duration": "2:48",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDFpdjBqhCp9zaQIKWvFKyNcbnDdVvQfHhFJO69ijSIrJ2O5mGWWnu6Aw&s=10",
+   "link": "https://www.facebook.com/HomesteadTVSeries/videos/get-early-access-to-watch-today/792425089946502/"
+  },
+  {
+   "position": 7,
+   "title": "Homestead delivers a thrilling combo: a cinematic movie that ... by Homestead on Facebook. Play on Facebook. 2:18",
+   "source": "Facebook",
+   "profile_name": "Homestead",
+   "extensions": [
+    "Homestead"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "duration": "2:18",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScsjoV_eXRueQUACSLQ8PjZOFoi0FRra0xJL7Eb-V-rh3CkyXgRTGsbSQ&s=10",
+   "link": "https://www.facebook.com/HomesteadTVSeries/videos/watch-homestead-today/1482300813017357/"
+  },
+  {
+   "position": 8,
+   "title": "Watch Homestead TODAY! | Angel by Angel on Facebook. Play on Facebook. 1:29",
+   "source": "Facebook",
+   "profile_name": "Angel",
+   "extensions": [
+    "Angel"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "duration": "1:29",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGNRtc7xp9kEPWM5VTYxUwZ9cuRgo5xlAUqOs5I6QXy0G0tPked40jTH8&s=10",
+   "link": "https://www.facebook.com/AngelStudios.inc/videos/watch-homestead-today/1524097128138704/"
+  },
+  {
+   "position": 9,
+   "title": "Homestead delivers a thrilling combo: a cinematic movie that ... by Homestead on Facebook. Play on Facebook. 0:31",
+   "source": "Facebook",
+   "profile_name": "Homestead",
+   "extensions": [
+    "Homestead"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "duration": "0:31",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT99l0V7B5ZSShD3AnS5NwORmfmMV_URp4MPgWYLDh0rd0kEmj4EJ2-rTI&s=10",
+   "link": "https://www.facebook.com/HomesteadTVSeries/videos/get-early-access-to-watch-today/1166305871483268/"
+  },
+  {
+   "position": 10,
+   "title": "Watch Homestead: The Series TODAY! by Homestead on Facebook. Play on Facebook. 1:31",
+   "source": "Facebook",
+   "profile_name": "Homestead",
+   "extensions": [
+    "Homestead"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "duration": "1:31",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDiHYS5Wf518Nl8IBdeAzeFxRco4XsNxELUbNbZomYKY3Dpm5hnWJsZ5c&s=10",
+   "link": "https://www.facebook.com/HomesteadTVSeries/videos/watch-homestead-the-series-today/2006280523499699/"
+  }
+ ],
+ "related_questions": [
+  {
+   "question": "What is the meaning of homestead?",
+   "type": "ai_overview",
+   "page_token": "-uNH0HicHdDBboIwHIDx7GU8KqWwZSZmmQJuRGv4t6XQy1KLitACUzeU295lT7Wn2bLbd_zl-_o2x6b-ufssL5fuPJ1M-r4fH9r2YHZj3dqJOt8aPdHKmK3S9fT-4R497fUs_HidL95f5wnvujQAh1axYJwwuUBkx4DCMvKEvXo5jhep9TzdRCvl-mwdgEtfiMvsVbEMNkQUFXd8srXRTWPtgUjXOn32VsJQsXw0DMcfOY6obgxo0aFNGB-VA5ZVyZAOUqqK9DkCkNbBspKyGEitxBqtRIhyAXVKUSaY9OQRzWmT33RoHOrCUjoxsKFUu2XuE0NkgaK44H721y1FpgnL4sSz6D3PyA3qq5PgtN8EkBAcZ1oYIPP2mHAYdGUsz0qpG2mpkcGWwyXBZFijEnH3z5YVgjVRV_Sjvf6c4dH_z9nb3l6m3ak9_AJMaIHi",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=-uNH0HicHdDBboIwHIDx7GU8KqWwZSZmmQJuRGv4t6XQy1KLitACUzeU295lT7Wn2bLbd_zl-_o2x6b-ufssL5fuPJ1M-r4fH9r2YHZj3dqJOt8aPdHKmK3S9fT-4R497fUs_HidL95f5wnvujQAh1axYJwwuUBkx4DCMvKEvXo5jhep9TzdRCvl-mwdgEtfiMvsVbEMNkQUFXd8srXRTWPtgUjXOn32VsJQsXw0DMcfOY6obgxo0aFNGB-VA5ZVyZAOUqqK9DkCkNbBspKyGEitxBqtRIhyAXVKUSaY9OQRzWmT33RoHOrCUjoxsKFUu2XuE0NkgaK44H721y1FpgnL4sSz6D3PyA3qq5PgtN8EkBAcZ1oYIPP2mHAYdGUsz0qpG2mpkcGWwyXBZFijEnH3z5YVgjVRV_Sjvf6c4dH_z9nb3l6m3ak9_AJMaIHi",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1NGUm9UV3AxWTBWT1UzVkJlbE5tVkhkQ09VUlpNVk5MWjJkSUxYb3lTbmRqVHpJM2VqTkhWSGx2TW5FMlp6SXpaemxtWTFkSWIzZ3RlazFsWkV4RVNIRjVjbTVwZVdKNU9XdEtaMHczY1U5SFNFOHlRM1JrV2w5a1p4SVhhMUZ4YW1GemNrWk1kRU4xY0RnMFVEZHlWM0ZwVVRRYUlrRkVjM0k1WmxKM1lqUk5OVlpSWTJveGJtdFFkMjkwY1MweWMyaHBPRGgwVEVFIiwiZmN2IjoiMyIsImVpIjoia1FxamFzckZMdEN1cDg0UDdyV3FpUTQiLCJxYyI6IkNnbG9iMjFsYzNSbFlXUVFBSDBZcWk4XyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbWVhbmluZyBvZiBob21lc3RlYWQ/IiwibGsiOiJHaUIzYUdGMElHbHpJSFJvWlNCdFpXRnVhVzVuSUc5bUlHaHZiV1Z6ZEdWaFpBIiwiYnMiOiJjNDJQTVF2Q01CU0VjWDJUYzFFOEEtcmVQOUN4ZEJHZE9vZjZhaDdZUk5KZ19QbFdMWTI0Nkh6ZmZjZFJTZXZhNkFEcEVReWpZMjNGbnVGYUdOZHhIMWlmaWx4bGlEOGdLbWhSR19hTVJsdFVpRG8wNXRPeHlwWnh5bVhNMVFRb090SzJHdjN1SnB5NmlNNEg4MjRNczBXLXl6YnlEMG5EdVVHWlltZXg1OUJlNUE3bmNmRFM4ZXVjZkVFMlFkY25OSjg5QUEiLCJpZCI6ImZjX2tRcWphc3JGTHRDdXA4NFA3cldxaVE0XzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1NGUm9UV3AxWTBWT1UzVkJlbE5tVkhkQ09VUlpNVk5MWjJkSUxYb3lTbmRqVHpJM2VqTkhWSGx2TW5FMlp6SXpaemxtWTFkSWIzZ3RlazFsWkV4RVNIRjVjbTVwZVdKNU9XdEtaMHczY1U5SFNFOHlRM1JrV2w5a1p4SVhhMUZ4YW1GemNrWk1kRU4xY0RnMFVEZHlWM0ZwVVRRYUlrRkVjM0k1WmxKM1lqUk5OVlpSWTJveGJtdFFkMjkwY1MweWMyaHBPRGgwVEVFIiwiZmN2IjoiMyIsImVpIjoia1FxamFzckZMdEN1cDg0UDdyV3FpUTQiLCJxYyI6IkNnbG9iMjFsYzNSbFlXUVFBSDBZcWk4XyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbWVhbmluZyBvZiBob21lc3RlYWQ%2FIiwibGsiOiJHaUIzYUdGMElHbHpJSFJvWlNCdFpXRnVhVzVuSUc5bUlHaHZiV1Z6ZEdWaFpBIiwiYnMiOiJjNDJQTVF2Q01CU0VjWDJUYzFFOEEtcmVQOUN4ZEJHZE9vZjZhaDdZUk5KZ19QbFdMWTI0Nkh6ZmZjZFJTZXZhNkFEcEVReWpZMjNGbnVGYUdOZHhIMWlmaWx4bGlEOGdLbWhSR19hTVJsdFVpRG8wNXRPeHlwWnh5bVhNMVFRb090SzJHdjN1SnB5NmlNNEg4MjRNczBXLXl6YnlEMG5EdVVHWlltZXg1OUJlNUE3bmNmRFM4ZXVjZkVFMlFkY25OSjg5QUEiLCJpZCI6ImZjX2tRcWphc3JGTHRDdXA4NFA3cldxaVE0XzUifQ%3D%3D"
+  },
+  {
+   "question": "Where can I watch homestead?",
+   "type": "ai_overview",
+   "page_token": "PqywxHicHdBdboIwAADg7DI-yp-6YGIWkT-J4Cy0YF-W2gJiC4WBQ3nbXXaqnWbJviN83z-iavjvS3YdhrZfK8o4jvNSylLkcyprhfTPhiqUCHEhlK9XryvtraAbpx-tnRytE2xbZAM15ugOIT4j_VpQOOwJ17q8iRwo3HuoLiPE5SO1ozSaghsxpHZW2Y4iUxIDj3mKklPWTnlj3RPodtR33y-1lsV-kMUeWiE-LpPMPWCVVUgwGXttkWYtJwLXzMc95q4HBe4ytRyJCoJQZ03y1Bahh5McIj0XYILQRBiZfcwj6-jsF8TjsasPgKbtlRqBl_jAZtl2Eblbgwr2IMhRvSqwgB89jymO2Q0doAYsppoVrlF3gMiLtbMW2oEM-bIHE2hmBf3aGLP_sc1HUQ_r9lOWf1PCeSs",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=PqywxHicHdBdboIwAADg7DI-yp-6YGIWkT-J4Cy0YF-W2gJiC4WBQ3nbXXaqnWbJviN83z-iavjvS3YdhrZfK8o4jvNSylLkcyprhfTPhiqUCHEhlK9XryvtraAbpx-tnRytE2xbZAM15ugOIT4j_VpQOOwJ17q8iRwo3HuoLiPE5SO1ozSaghsxpHZW2Y4iUxIDj3mKklPWTnlj3RPodtR33y-1lsV-kMUeWiE-LpPMPWCVVUgwGXttkWYtJwLXzMc95q4HBe4ytRyJCoJQZ03y1Bahh5McIj0XYILQRBiZfcwj6-jsF8TjsasPgKbtlRqBl_jAZtl2Eblbgwr2IMhRvSqwgB89jymO2Q0doAYsppoVrlF3gMiLtbMW2oEM-bIHE2hmBf3aGLP_sc1HUQ_r9lOWf1PCeSs",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1NGUm9UV3AxWTBWT1UzVkJlbE5tVkhkQ09VUlpNVk5MWjJkSUxYb3lTbmRqVHpJM2VqTkhWSGx2TW5FMlp6SXpaemxtWTFkSWIzZ3RlazFsWkV4RVNIRjVjbTVwZVdKNU9XdEtaMHczY1U5SFNFOHlRM1JrV2w5a1p4SVhhMUZ4YW1GemNrWk1kRU4xY0RnMFVEZHlWM0ZwVVRRYUlrRkVjM0k1WmxKM1lqUk5OVlpSWTJveGJtdFFkMjkwY1MweWMyaHBPRGgwVEVFIiwiZmN2IjoiMyIsImVpIjoia1FxamFzckZMdEN1cDg0UDdyV3FpUTQiLCJxYyI6IkNnbG9iMjFsYzNSbFlXUVFBSDBZcWk4XyIsInF1ZXN0aW9uIjoiV2hlcmUgY2FuIEkgd2F0Y2ggaG9tZXN0ZWFkPyIsImxrIjoiR2gxM2FHVnlaU0JqWVc0Z2FTQjNZWFJqYUNBaWFHOXRaWE4wWldGa0lnIiwiYnMiOiJjNDJQTVF2Q01CU0VjWDJUYzFFOEEtcmVQOUN4ZEJHZE9vZjZhaDdZUk5KZ19QbFdMWTI0Nkh6ZmZjZFJTZXZhNkFEcEVReWpZMjNGbnVGYUdOZHhIMWlmaWx4bGlEOGdLbWhSR19hTVJsdFVpRG8wNXRPeHlwWnh5bVhNMVFRb090SzJHdjN1SnB5NmlNNEg4MjRNczBXLXl6YnlEMG5EdVVHWlltZXg1OUJlNUE3bmNmRFM4ZXVjZkVFMlFkY25OSjg5QUEiLCJpZCI6ImZjX2tRcWphc3JGTHRDdXA4NFA3cldxaVE0XzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1NGUm9UV3AxWTBWT1UzVkJlbE5tVkhkQ09VUlpNVk5MWjJkSUxYb3lTbmRqVHpJM2VqTkhWSGx2TW5FMlp6SXpaemxtWTFkSWIzZ3RlazFsWkV4RVNIRjVjbTVwZVdKNU9XdEtaMHczY1U5SFNFOHlRM1JrV2w5a1p4SVhhMUZ4YW1GemNrWk1kRU4xY0RnMFVEZHlWM0ZwVVRRYUlrRkVjM0k1WmxKM1lqUk5OVlpSWTJveGJtdFFkMjkwY1MweWMyaHBPRGgwVEVFIiwiZmN2IjoiMyIsImVpIjoia1FxamFzckZMdEN1cDg0UDdyV3FpUTQiLCJxYyI6IkNnbG9iMjFsYzNSbFlXUVFBSDBZcWk4XyIsInF1ZXN0aW9uIjoiV2hlcmUgY2FuIEkgd2F0Y2ggaG9tZXN0ZWFkPyIsImxrIjoiR2gxM2FHVnlaU0JqWVc0Z2FTQjNZWFJqYUNBaWFHOXRaWE4wWldGa0lnIiwiYnMiOiJjNDJQTVF2Q01CU0VjWDJUYzFFOEEtcmVQOUN4ZEJHZE9vZjZhaDdZUk5KZ19QbFdMWTI0Nkh6ZmZjZFJTZXZhNkFEcEVReWpZMjNGbnVGYUdOZHhIMWlmaWx4bGlEOGdLbWhSR19hTVJsdFVpRG8wNXRPeHlwWnh5bVhNMVFRb090SzJHdjN1SnB5NmlNNEg4MjRNczBXLXl6YnlEMG5EdVVHWlltZXg1OUJlNUE3bmNmRFM4ZXVjZkVFMlFkY25OSjg5QUEiLCJpZCI6ImZjX2tRcWphc3JGTHRDdXA4NFA3cldxaVE0XzUifQ%3D%3D"
+  },
+  {
+   "question": "Is the movie homestead worth watching?",
+   "type": "ai_overview",
+   "page_token": "iGiBWXicHdDdboIwGIDh7GY8VArqEhOzjFGMVaut7UfhZIEy5acKKopytnvZVe1qZnb0nj55v39Mfix_X25Z09SXyWDQtm1_X1V789XX1WEQXx5HPdCxMUmsy8n4dYzednqKr3P34zR3maxr8Li1FWbIDBtp43pJRysuwY8CiBKR4gRnLCobzG2zZTYV1It2GhO0xbpbBpEFmMTPDgGllwRSEvu1kp5_EJbVgOduGSIgAssKZN1S4Bso5g630UYhkosc2QJIQDs65Di9c__9sQbdhShaxE69TgruAnJXyiJjZRtPGxIyOzvL0ggpydOa2UEJCjo34LgR3OMllJmDs_QslX8KFX3w8m4xB9q1xxl1iNKB4dStciZ5pwtzeBodqmAUFuaUzshMKnqVmC5Dh41WktkM-EKy3k7fpk7v_-f0c3doJvW52v8BWwaAhg",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=iGiBWXicHdDdboIwGIDh7GY8VArqEhOzjFGMVaut7UfhZIEy5acKKopytnvZVe1qZnb0nj55v39Mfix_X25Z09SXyWDQtm1_X1V789XX1WEQXx5HPdCxMUmsy8n4dYzednqKr3P34zR3maxr8Li1FWbIDBtp43pJRysuwY8CiBKR4gRnLCobzG2zZTYV1It2GhO0xbpbBpEFmMTPDgGllwRSEvu1kp5_EJbVgOduGSIgAssKZN1S4Bso5g630UYhkosc2QJIQDs65Di9c__9sQbdhShaxE69TgruAnJXyiJjZRtPGxIyOzvL0ggpydOa2UEJCjo34LgR3OMllJmDs_QslX8KFX3w8m4xB9q1xxl1iNKB4dStciZ5pwtzeBodqmAUFuaUzshMKnqVmC5Dh41WktkM-EKy3k7fpk7v_-f0c3doJvW52v8BWwaAhg",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1NGUm9UV3AxWTBWT1UzVkJlbE5tVkhkQ09VUlpNVk5MWjJkSUxYb3lTbmRqVHpJM2VqTkhWSGx2TW5FMlp6SXpaemxtWTFkSWIzZ3RlazFsWkV4RVNIRjVjbTVwZVdKNU9XdEtaMHczY1U5SFNFOHlRM1JrV2w5a1p4SVhhMUZ4YW1GemNrWk1kRU4xY0RnMFVEZHlWM0ZwVVRRYUlrRkVjM0k1WmxKM1lqUk5OVlpSWTJveGJtdFFkMjkwY1MweWMyaHBPRGgwVEVFIiwiZmN2IjoiMyIsImVpIjoia1FxamFzckZMdEN1cDg0UDdyV3FpUTQiLCJxYyI6IkNnbG9iMjFsYzNSbFlXUVFBSDBZcWk4XyIsInF1ZXN0aW9uIjoiSXMgdGhlIG1vdmllIGhvbWVzdGVhZCB3b3J0aCB3YXRjaGluZz8iLCJsayI6IkdpVnBjeUIwYUdVZ2JXOTJhV1VnYUc5dFpYTjBaV0ZrSUhkdmNuUm9JSGRoZEdOb2FXNW4iLCJicyI6ImM0MlBNUXZDTUJTRWNYMlRjMUU4QS1yZVA5Q3hkQkdkT29mNmFoN1lSTkpnX1BsV0xZMjQ2SHpmZmNkUlNldmE2QURwRVF5alkyM0ZudUZhR05keEgxaWZpbHhsaUQ4Z0ttaFJHX2FNUmx0VWlEbzA1dE94eXBaeHltWE0xUVFvT3RLMkd2M3VKcHk2aU00SDgyNE1zMFcteXpieUQwbkR1VUdaWW1leDU5QmU1QTduY2ZEUzhldWNmRUUyUWRjbk5KODlBQSIsImlkIjoiZmNfa1FxamFzckZMdEN1cDg0UDdyV3FpUTRfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1NGUm9UV3AxWTBWT1UzVkJlbE5tVkhkQ09VUlpNVk5MWjJkSUxYb3lTbmRqVHpJM2VqTkhWSGx2TW5FMlp6SXpaemxtWTFkSWIzZ3RlazFsWkV4RVNIRjVjbTVwZVdKNU9XdEtaMHczY1U5SFNFOHlRM1JrV2w5a1p4SVhhMUZ4YW1GemNrWk1kRU4xY0RnMFVEZHlWM0ZwVVRRYUlrRkVjM0k1WmxKM1lqUk5OVlpSWTJveGJtdFFkMjkwY1MweWMyaHBPRGgwVEVFIiwiZmN2IjoiMyIsImVpIjoia1FxamFzckZMdEN1cDg0UDdyV3FpUTQiLCJxYyI6IkNnbG9iMjFsYzNSbFlXUVFBSDBZcWk4XyIsInF1ZXN0aW9uIjoiSXMgdGhlIG1vdmllIGhvbWVzdGVhZCB3b3J0aCB3YXRjaGluZz8iLCJsayI6IkdpVnBjeUIwYUdVZ2JXOTJhV1VnYUc5dFpYTjBaV0ZrSUhkdmNuUm9JSGRoZEdOb2FXNW4iLCJicyI6ImM0MlBNUXZDTUJTRWNYMlRjMUU4QS1yZVA5Q3hkQkdkT29mNmFoN1lSTkpnX1BsV0xZMjQ2SHpmZmNkUlNldmE2QURwRVF5alkyM0ZudUZhR05keEgxaWZpbHhsaUQ4Z0ttaFJHX2FNUmx0VWlEbzA1dE94eXBaeHltWE0xUVFvT3RLMkd2M3VKcHk2aU00SDgyNE1zMFcteXpieUQwbkR1VUdaWW1leDU5QmU1QTduY2ZEUzhldWNmRUUyUWRjbk5KODlBQSIsImlkIjoiZmNfa1FxamFzckZMdEN1cDg0UDdyV3FpUTRfNSJ9"
+  },
+  {
+   "question": "Is homestead on Netflix or Prime?",
+   "type": "ai_overview",
+   "page_token": "5IzMe3icHdDdboIwGIDh7GY8VBB10cQsYcC0GWV82BY4WaD1B2ihKhPwbPeyq9rVzOwG3id5v39kUVe_T7dT2-rrajLpum58bJqj3I95oybZdaj5hGdS5hmvVovnhfly4Gv3a2u_nrd2SLSmDhgROVlULaPIQIekpHff2t7BbWaJKQzf9OL8Tjsi_SGtcOITKLGJdGZCGjAPMiYsLvVMKHqKFGZEHbtHaMZKOsQmoIDAIn3rbULaAk91n0_1OavlFcepE-3QDmrS-casBYPiNLaRqOSHz_A8d2gvKhiiSqudJW1QSPtkibHUt9yjPY9hEXjIScq03lfz68NseWGWwcar3ZO4kNg7JzEeoOqN0KJd4ECILRRzJgHbTRESuPNSKlKj3mdelpuSMheKsPQuQoUdI-JdbFyDSbENw9GB39bW6P_n-vOg2pW-NMc_x6yEsQ",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=5IzMe3icHdDdboIwGIDh7GY8VBB10cQsYcC0GWV82BY4WaD1B2ihKhPwbPeyq9rVzOwG3id5v39kUVe_T7dT2-rrajLpum58bJqj3I95oybZdaj5hGdS5hmvVovnhfly4Gv3a2u_nrd2SLSmDhgROVlULaPIQIekpHff2t7BbWaJKQzf9OL8Tjsi_SGtcOITKLGJdGZCGjAPMiYsLvVMKHqKFGZEHbtHaMZKOsQmoIDAIn3rbULaAk91n0_1OavlFcepE-3QDmrS-casBYPiNLaRqOSHz_A8d2gvKhiiSqudJW1QSPtkibHUt9yjPY9hEXjIScq03lfz68NseWGWwcar3ZO4kNg7JzEeoOqN0KJd4ECILRRzJgHbTRESuPNSKlKj3mdelpuSMheKsPQuQoUdI-JdbFyDSbENw9GB39bW6P_n-vOg2pW-NMc_x6yEsQ",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1NGUm9UV3AxWTBWT1UzVkJlbE5tVkhkQ09VUlpNVk5MWjJkSUxYb3lTbmRqVHpJM2VqTkhWSGx2TW5FMlp6SXpaemxtWTFkSWIzZ3RlazFsWkV4RVNIRjVjbTVwZVdKNU9XdEtaMHczY1U5SFNFOHlRM1JrV2w5a1p4SVhhMUZ4YW1GemNrWk1kRU4xY0RnMFVEZHlWM0ZwVVRRYUlrRkVjM0k1WmxKM1lqUk5OVlpSWTJveGJtdFFkMjkwY1MweWMyaHBPRGgwVEVFIiwiZmN2IjoiMyIsImVpIjoia1FxamFzckZMdEN1cDg0UDdyV3FpUTQiLCJxYyI6IkNnbG9iMjFsYzNSbFlXUVFBSDBZcWk4XyIsInF1ZXN0aW9uIjoiSXMgaG9tZXN0ZWFkIG9uIE5ldGZsaXggb3IgUHJpbWU/IiwibGsiOiJHaUJwY3lCb2IyMWxjM1JsWVdRZ2IyNGdibVYwWm14cGVDQnZjaUJ3Y21sdFpRIiwiYnMiOiJjNDJQTVF2Q01CU0VjWDJUYzFFOEEtcmVQOUN4ZEJHZE9vZjZhaDdZUk5KZ19QbFdMWTI0Nkh6ZmZjZFJTZXZhNkFEcEVReWpZMjNGbnVGYUdOZHhIMWlmaWx4bGlEOGdLbWhSR19hTVJsdFVpRG8wNXRPeHlwWnh5bVhNMVFRb090SzJHdjN1SnB5NmlNNEg4MjRNczBXLXl6YnlEMG5EdVVHWlltZXg1OUJlNUE3bmNmRFM4ZXVjZkVFMlFkY25OSjg5QUEiLCJpZCI6ImZjX2tRcWphc3JGTHRDdXA4NFA3cldxaVE0XzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1NGUm9UV3AxWTBWT1UzVkJlbE5tVkhkQ09VUlpNVk5MWjJkSUxYb3lTbmRqVHpJM2VqTkhWSGx2TW5FMlp6SXpaemxtWTFkSWIzZ3RlazFsWkV4RVNIRjVjbTVwZVdKNU9XdEtaMHczY1U5SFNFOHlRM1JrV2w5a1p4SVhhMUZ4YW1GemNrWk1kRU4xY0RnMFVEZHlWM0ZwVVRRYUlrRkVjM0k1WmxKM1lqUk5OVlpSWTJveGJtdFFkMjkwY1MweWMyaHBPRGgwVEVFIiwiZmN2IjoiMyIsImVpIjoia1FxamFzckZMdEN1cDg0UDdyV3FpUTQiLCJxYyI6IkNnbG9iMjFsYzNSbFlXUVFBSDBZcWk4XyIsInF1ZXN0aW9uIjoiSXMgaG9tZXN0ZWFkIG9uIE5ldGZsaXggb3IgUHJpbWU%2FIiwibGsiOiJHaUJwY3lCb2IyMWxjM1JsWVdRZ2IyNGdibVYwWm14cGVDQnZjaUJ3Y21sdFpRIiwiYnMiOiJjNDJQTVF2Q01CU0VjWDJUYzFFOEEtcmVQOUN4ZEJHZE9vZjZhaDdZUk5KZ19QbFdMWTI0Nkh6ZmZjZFJTZXZhNkFEcEVReWpZMjNGbnVGYUdOZHhIMWlmaWx4bGlEOGdLbWhSR19hTVJsdFVpRG8wNXRPeHlwWnh5bVhNMVFRb090SzJHdjN1SnB5NmlNNEg4MjRNczBXLXl6YnlEMG5EdVVHWlltZXg1OUJlNUE3bmNmRFM4ZXVjZkVFMlFkY25OSjg5QUEiLCJpZCI6ImZjX2tRcWphc3JGTHRDdXA4NFA3cldxaVE0XzUifQ%3D%3D"
+  }
+ ],
+ "ai_overview": {
+  "text_blocks": [
+   {
+    "type": "paragraph",
+    "snippet": "A homestead is a family dwelling and its surrounding land, often used for self-sufficient living or farming.",
+    "snippet_highlighted_words": [
+     "a family dwelling and its surrounding land, often used for self-sufficient living or farming"
+    ]
+   },
+   {
+    "type": "heading",
+    "snippet": "General Definition and History"
+   },
+   {
+    "type": "list",
+    "list": [
+     {
+      "snippet": "Meaning: A house, outbuildings, and adjacent land occupied as a home by a family."
+     },
+     {
+      "snippet": "Historical Land Claims: In North America, the term refers to land claimed by settlers under historic laws like the U.S. Homestead Acts.",
+      "snippet_links": [
+       {
+        "text": "Homestead Acts",
+        "link": "https://www.law.cornell.edu/wex/homestead"
+       }
+      ]
+     },
+     {
+      "snippet": "Legal Protections: A homestead exemption protects a primary residence from certain creditors and lowers property taxes in many U.S. states."
+     }
+    ]
+   },
+   {
+    "type": "heading",
+    "snippet": "Homestead (2024 Film and Series)"
+   },
+   {
+    "type": "list",
+    "list": [
+     {
+      "snippet": "Plot: A post-apocalyptic drama where survivors seek refuge at a remote prepper fortress after a nuclear bomb hits Los Angeles."
+     },
+     {
+      "snippet": "Release: Released on December 20, 2024, directed by Ben Smallbone, and connected to Homestead: The Series.",
+      "snippet_links": [
+       {
+        "text": "Homestead: The Series",
+        "link": "https://www.angel.com/watch/homestead-series"
+       }
+      ]
+     },
+     {
+      "snippet": "Where to Watch: You can view showtimes and streaming details through Angel Studios.",
+      "snippet_links": [
+       {
+        "text": "Angel Studios",
+        "link": "https://www.angel.com/homestead"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "If you would like to narrow this down, let me know if you are interested in:"
+   },
+   {
+    "type": "list",
+    "list": [
+     {
+      "snippet": "Self-sufficiency and gardening tips"
+     },
+     {
+      "snippet": "Legal and property tax exemptions"
+     },
+     {
+      "snippet": "Details on the film and TV show"
+     }
+    ]
+   }
+  ],
+  "references": [
+   {
+    "link": "https://www.merriam-webster.com/dictionary/homestead",
+    "source": "merriam-webster.com",
+    "index": 0
+   },
+   {
+    "link": "https://en.wikipedia.org/wiki/Homestead_(film)",
+    "source": "en.wikipedia.org",
+    "index": 1
+   },
+   {
+    "link": "https://en.wikipedia.org/wiki/Homestead_(building)",
+    "source": "en.wikipedia.org",
+    "index": 2
+   },
+   {
+    "link": "https://www.law.cornell.edu/wex/homestead",
+    "source": "law.cornell.edu",
+    "index": 3
+   },
+   {
+    "link": "https://www.youtube.com/watch?v=rJNzSlLNceA",
+    "source": "youtube.com",
+    "index": 4
+   },
+   {
+    "link": "https://www.angel.com/watch/homestead-series",
+    "source": "angel.com",
+    "index": 5
+   },
+   {
+    "title": "HOMESTEAD Definition & Meaning - Merriam-Webster",
+    "link": "https://www.merriam-webster.com/dictionary/homestead",
+    "snippet": "noun * a. : the home and adjoining land occupied by a family. * b. : an ancestral home. * c. : house.",
+    "source": "Merriam-Webster",
+    "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.merriam-webster.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 6
+   },
+   {
+    "title": "Homestead (film) - Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Homestead_(film)",
+    "snippet": "Running time. 110 minutes. Country. United States. Language. English. Budget. $8 million. Box office. $20.8 million. The film was released in the United States",
+    "source": "Wikipedia",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDUiwC4Z2cLRPgnGLuE1J0tCcdkHeq70R8sE3zUe5gcphBW5K-24t0lkfslM_J0qQa1CWyH5XUIAp-01JNWVQRWhT26d6BxyMd-FpMhdY",
+    "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 7
+   },
+   {
+    "title": "Homestead (building) - Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Homestead_(building)",
+    "snippet": "A homestead is an isolated dwelling, especially a farmhouse, and adjacent outbuildings, typically on a large agricultural holding such as a ranch or station. ..",
+    "source": "Wikipedia",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfj5AK7cDoTI998e0g7kNgUluf7aQDS50gfcgUbgWCDie0HaWaR5tWnSd1E1nZPluyvlYpwi4xyJSeoAQzugeGr1FLN9LB46ab9cMELPo",
+    "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 8
+   },
+   {
+    "title": "homestead | Wex | US Law | LII / Legal Information Institute",
+    "link": "https://www.law.cornell.edu/wex/homestead",
+    "snippet": "A homestead is a house, outbuildings and adjoining land owned by a person or a family and used as a residence. Homesteads may enjoy an exemption, which prevents...",
+    "source": "LII | Legal Information Institute",
+    "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.law.cornell.edu&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 9
+   },
+   {
+    "title": "Homestead | Now Streaming | Final Trailer | Angel Studios",
+    "link": "https://www.youtube.com/watch?v=rJNzSlLNceA",
+    "snippet": "Now In Theaters Get Showtimes: https://www.angel.com/homestead A nuclear bomb is detonated in Los Angeles, and the nation devolves into",
+    "source": "YouTube",
+    "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRd24prSNOpQcwZUvYBfyKKCLvHQ07w6e1Uk7-WU8W1blzMVlqvE8jHmQ5ucXNAwdrSkPOlCrwq5i_8QQMHR_XyE2EqYwljSMAM6Po5GI",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 10
+   },
+   {
+    "title": "Homestead: The Series | Now Streaming for Angel Guild Mem...",
+    "link": "https://www.angel.com/watch/homestead-series",
+    "snippet": "*Homestead* is a TV series that follows survivors as they battle each other and the brutal world outside. The series is based on a book and written by Jeff Kirk...",
+    "source": "Angel",
+    "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTl4nKqPGYdW5suYjajHnS5MfwVvHNloHiDtJqff1H4G8HiVj3Axm53a-FKzlGfOlVVgTG7bw07O4_pWcRIvPJsgYr42Z85LPtw_LQIc5w",
+    "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.angel.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 11
+   }
+  ]
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Homestead (2024)",
+   "link": "https://www.imdb.com/title/tt29137778/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXgHrOzAV3DSn-Hqg9J0E8nVoSZtr5_SHFJZWyIxoZAVsRFfcP2n0ti9uUN-pRfZOIjPCbmCYIDxRUwYq9LYXHZW4nR3l54nC3RHJBfvuJDstSHyEIlIKsNJuhveZOjs&ved=2ahUKEwiK0pqA5eSWAxVQ18kDHe6aKuEQFnoECDAQAQ&uoh=1",
+   "displayed_link": "https://www.imdb.com \u203a title",
+   "thumbnail": "https://serpapi.com/searches/6aa30a9173d17567bdc07c12/images/2Jb88dEk77GEa7OJcJIsGLbt80T021yY-p2oTj1K0SQ.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAADQBQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3tfDkb_zrARzQv9Zu_zEq6jffNnYR6NAAAP7SzL70_fpZ8x3xfaRzBTHfetSiHfgz_TQMjaguB-NHSn1rl__lK42vyXetlPhCo1xnwulqhcuHkOI7iHPpg9sb9p15xyo3JNSi1k0oZds_gP3gAPr-__8dw7azjwK_3V_J3-f-JR_8f17wUFYr5vUCqEG00x407vzpoyf5Afs7qYoI_csKrmUYifU9quw6arDrRdSJJZJqVT-r5b8FfRz_fpwu-WyzDMFdbof-HvwSvdueqG82QAld9YAA.webp",
+   "snippet": "Homestead: Directed by Ben Smallbone. With I\u00f1igo Pascual, Mark Labella, Susan Misner, Grace Powell. Amid chaos, ex-Green Beret joins prepper compound; ...",
+   "snippet_highlighted_words": [
+    "Homestead"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 5.2,
+      "reviews": 5760
+     },
+     "extensions": [
+      "5.2/10(5,760)"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Homestead: Directed by Ben Smallbone. With I\u00f1igo Pascual, Mark Labella, Susan Misner, Grace Powell. Amid chaos, ex-Green Beret joins prepper compound; ...",
+     "source_info_link": "https://www.imdb.com/title/tt29137778/",
+     "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAADQBQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3tfDkb_zrARzQv9Zu_zEq6jffNnYR6NAAAP7SzL70_fpZ8x3xfaRzBTHfetSiHfgz_TQMjaguB-NHSn1rl__lK42vyXetlPhCo1xnwulqhcuHkOI7iHPpg9sb9p15xyo3JNSi1k0oZds_gP3gAPr-__8dw7azjwK_3V_J3-f-JR_8f17wUFYr5vUCqEG00x407vzpoyf5Afs7qYoI_csKrmUYifU9quw6arDrRdSJJZJqVT-r5b8FfRz_fpwu-WyzDMFdbof-HvwSvdueqG82QAld9YAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESXgHrOzAV3DSn-Hqg9J0E8nVoSZtr5_SHFJZWyIxoZAVsRFfcP2n0ti9uUN-pRfZOIjPCbmCYIDxRUwYq9LYXHZW4nR3l54nC3RHJBfvuJDstSHyEIlIKsNJuhveZOjs&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESXgHrOzAV3DSn-Hqg9J0E8nVoSZtr5_SHFJZWyIxoZAVsRFfcP2n0ti9uUN-pRfZOIjPCbmCYIDxRUwYq9LYXHZW4nR3l54nC3RHJBfvuJDstSHyEIlIKsNJuhveZOjs",
+   "source": "IMDb"
+  },
+  {
+   "position": 2,
+   "title": "Homestead (film)",
+   "link": "https://en.wikipedia.org/wiki/Homestead_(film)",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAV7NiReFJR5eaoJ0Q4cT77YflhYbqOatpTG_AMkRDbjbrJhYPiu670G-4yYUBFnk3Vi2A62ZaLIeXzmE4vhQQG0MkEM5Q70saxbqK8AEIkPd9CIV4rf12dNhwH7iuBuSxnkA&ved=2ahUKEwiK0pqA5eSWAxVQ18kDHe6aKuEQFnoECDoQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Homestead_(film)",
+   "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+   "snippet": "Homestead is a 2024 American post-apocalyptic Christian drama film directed by Ben Smallbone and written by Phillip Abraham, Leah Bateman and Jason Ross.",
+   "snippet_highlighted_words": [
+    "American post-apocalyptic Christian drama"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Homestead is a 2024 American post-apocalyptic Christian drama film directed by Ben Smallbone and written by Phillip Abraham, Leah Bateman and Jason Ross.",
+     "source_info_link": "https://en.wikipedia.org/wiki/Homestead_(film)",
+     "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESZgHrOzAV7NiReFJR5eaoJ0Q4cT77YflhYbqOatpTG_AMkRDbjbrJhYPiu670G-4yYUBFnk3Vi2A62ZaLIeXzmE4vhQQG0MkEM5Q70saxbqK8AEIkPd9CIV4rf12dNhwH7iuBuSxnkA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESZgHrOzAV7NiReFJR5eaoJ0Q4cT77YflhYbqOatpTG_AMkRDbjbrJhYPiu670G-4yYUBFnk3Vi2A62ZaLIeXzmE4vhQQG0MkEM5Q70saxbqK8AEIkPd9CIV4rf12dNhwH7iuBuSxnkA",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Homestead_(film)#:~:text=Homestead%20is%20a%202024%20American,Leah%20Bateman%20and%20Jason%20Ross."
+  },
+  {
+   "position": 3,
+   "title": "HOMESTEAD Definition & Meaning",
+   "link": "https://www.merriam-webster.com/dictionary/homestead",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHrOzAVRBY0mTytMGs1JgRtcwk1M-Ttszrc7wig8vzJpGNZYQclid4FSH4fVKVH3mRd0Ydvkds7xbgz9v6r8j7KQ4CuLux4MoM68XfruWf9XCLMXXljI2pxS_r_DUvlHA-HOd2BfxJjQsY4jw&ved=2ahUKEwiK0pqA5eSWAxVQ18kDHe6aKuEQFnoECDwQAQ&uoh=1",
+   "displayed_link": "https://www.merriam-webster.com \u203a dictionary \u203a homes...",
+   "favicon": "https://serpapi.com/images/i/UklGRqIBAABXRUJQVlA4IJYBAAAQCQCdASocABwAPtEutFooIagoGAEAGglsAJ0zWJQOABtq5o18m4-QIsDlBv7Tyg_Qv-y4Kv7ADk-SGRPHNZlHLzQvzm2McIPTc02tD9MeoeAA_vYH80Lbn5LwGH1VrLA94qIXT6eUAT9oxRXDwttXTOzNtKwZ74kDKelWwh9bXLQRCZ_qVtaBwH7tKQ3VjwzPjmMwIoP4ADmWRbFSH8lnkIDyl64_fyVSbt6nD5AW62rV_obiGqZ1DE11P7fC9Ua_rJgapTM1Vzz2yxsPW6ObfpM4uwZzGs7uqbMLTgXYL3_nLbuSf8M_Fw_Ss6UzNh5TG_3Fyz_8jMdB3bncOq4a00UrT53lv8X0cdvqOpV77NTPx_-DfFvuY0uS2PexfK-rvF_0yjONCAzFk3P0crF2tDxf62VlxR4twnF1Lm_cRiYIE7EeOnt2GTpvZ-bw5BxvsffUAO5bfj_n_7Prif_4q7I7n_g5MSxY7L0r6689Jf15LibVe1x7VABcO_EHJzJGlAlgW3gI4AEt8COJdPnyb92SQAAA.webp",
+   "date": "8 days ago",
+   "snippet": "The meaning of HOMESTEAD is the home and adjoining land occupied by a family. How to use homestead in a sentence.",
+   "snippet_highlighted_words": [
+    "the home and adjoining land occupied by a family"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The meaning of HOMESTEAD is the home and adjoining land occupied by a family. How to use homestead in a sentence.",
+     "source_info_link": "https://www.merriam-webster.com/dictionary/homestead",
+     "icon": "https://serpapi.com/images/i/UklGRqIBAABXRUJQVlA4IJYBAAAQCQCdASocABwAPtEutFooIagoGAEAGglsAJ0zWJQOABtq5o18m4-QIsDlBv7Tyg_Qv-y4Kv7ADk-SGRPHNZlHLzQvzm2McIPTc02tD9MeoeAA_vYH80Lbn5LwGH1VrLA94qIXT6eUAT9oxRXDwttXTOzNtKwZ74kDKelWwh9bXLQRCZ_qVtaBwH7tKQ3VjwzPjmMwIoP4ADmWRbFSH8lnkIDyl64_fyVSbt6nD5AW62rV_obiGqZ1DE11P7fC9Ua_rJgapTM1Vzz2yxsPW6ObfpM4uwZzGs7uqbMLTgXYL3_nLbuSf8M_Fw_Ss6UzNh5TG_3Fyz_8jMdB3bncOq4a00UrT53lv8X0cdvqOpV77NTPx_-DfFvuY0uS2PexfK-rvF_0yjONCAzFk3P0crF2tDxf62VlxR4twnF1Lm_cRiYIE7EeOnt2GTpvZ-bw5BxvsffUAO5bfj_n_7Prif_4q7I7n_g5MSxY7L0r6689Jf15LibVe1x7VABcO_EHJzJGlAlgW3gI4AEt8COJdPnyb92SQAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESbAHrOzAVRBY0mTytMGs1JgRtcwk1M-Ttszrc7wig8vzJpGNZYQclid4FSH4fVKVH3mRd0Ydvkds7xbgz9v6r8j7KQ4CuLux4MoM68XfruWf9XCLMXXljI2pxS_r_DUvlHA-HOd2BfxJjQsY4jw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESbAHrOzAVRBY0mTytMGs1JgRtcwk1M-Ttszrc7wig8vzJpGNZYQclid4FSH4fVKVH3mRd0Ydvkds7xbgz9v6r8j7KQ4CuLux4MoM68XfruWf9XCLMXXljI2pxS_r_DUvlHA-HOd2BfxJjQsY4jw",
+   "source": "Merriam-Webster"
+  },
+  {
+   "position": 4,
+   "title": "Homestead Franchise | Watch all things ...",
+   "link": "https://www.angel.com/franchise/homestead",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYQHrOzAV2d2I0--dP9orxVUXKmB9anG_r2TsCneEd30MLOxCI589QibhVaLLMOT2VPALcbSjokP7KCNiNue6xwi4EQdBzmBTabfemcYcy03nBdZq9G-k-UIT7SVgOdzNezw&ved=2ahUKEwiK0pqA5eSWAxVQ18kDHe6aKuEQFnoECDsQAQ&uoh=1",
+   "displayed_link": "https://www.angel.com \u203a franchise \u203a homestead",
+   "favicon": "https://serpapi.com/images/i/UklGRpoAAABXRUJQVlA4II4AAABQBACdASocABwAPrUurVanIacnG_DgFolpAAPiWwkHALTGUdN8tqHP-IAAAP75vLtf4ebkzuCPvg7Yg_geW0MJSCMQX_JJRPIOfnXz1Myh61iKCDA_Hy4k6f7Roz1vPKIHywJcXJLsrkgBKiwVswwiz2CLBWi-OXtsGu9SQYFc_-dNPgdyOy_QT-2kAAAA.webp",
+   "snippet": "Homestead: Family Survival follows families embracing ancient farming traditions and holistic living to thrive amidst modern challenges. Host Jason Ross ...",
+   "snippet_highlighted_words": [
+    "Homestead: Family Survival"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Homestead: Family Survival follows families embracing ancient farming traditions and holistic living to thrive amidst modern challenges. Host Jason Ross ...",
+     "source_info_link": "https://www.angel.com/franchise/homestead",
+     "icon": "https://serpapi.com/images/i/UklGRpoAAABXRUJQVlA4II4AAABQBACdASocABwAPrUurVanIacnG_DgFolpAAPiWwkHALTGUdN8tqHP-IAAAP75vLtf4ebkzuCPvg7Yg_geW0MJSCMQX_JJRPIOfnXz1Myh61iKCDA_Hy4k6f7Roz1vPKIHywJcXJLsrkgBKiwVswwiz2CLBWi-OXtsGu9SQYFc_-dNPgdyOy_QT-2kAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYQHrOzAV2d2I0--dP9orxVUXKmB9anG_r2TsCneEd30MLOxCI589QibhVaLLMOT2VPALcbSjokP7KCNiNue6xwi4EQdBzmBTabfemcYcy03nBdZq9G-k-UIT7SVgOdzNezw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYQHrOzAV2d2I0--dP9orxVUXKmB9anG_r2TsCneEd30MLOxCI589QibhVaLLMOT2VPALcbSjokP7KCNiNue6xwi4EQdBzmBTabfemcYcy03nBdZq9G-k-UIT7SVgOdzNezw",
+   "source": "Angel",
+   "read_more_link": "https://www.angel.com/franchise/homestead#:~:text=Homestead%3A%20Family%20Survival%20follows%20families,homeschooling%2C%20food%20storage%2C%20and%20more."
+  },
+  {
+   "position": 5,
+   "title": "What Is a Homestead?",
+   "link": "https://realestate.usnews.com/real-estate/articles/what-is-a-homestead",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfgHrOzAVsTSGR7DWfPmoypcLE-AsFGX4gOGFQ88g19XSCQo2kFmTOl0K2UNWV-HdBREaVXbQ_jQUbBeedIi0HDwRS4doFqc14W4xH9RkZtBIYa3TsJjUhjTAzfg9uzWEStdy-H-Ehi0P3v9-UrR8kQJJa2lRMuQluF7ISvp5Hg&ved=2ahUKEwiK0pqA5eSWAxVQ18kDHe6aKuEQFnoECD0QAQ&uoh=1",
+   "displayed_link": "https://realestate.usnews.com \u203a Real Estate \u203a Advice",
+   "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp",
+   "date": "May 23, 2022",
+   "snippet": "A homestead is an owner-occupied residence that can provide homeowners with certain financial and legal protections. Josephine Nesbit.",
+   "snippet_highlighted_words": [
+    "homestead"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "A homestead is an owner-occupied residence that can provide homeowners with certain financial and legal protections. Josephine Nesbit.",
+     "source_info_link": "https://realestate.usnews.com/real-estate/articles/what-is-a-homestead",
+     "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESfgHrOzAVsTSGR7DWfPmoypcLE-AsFGX4gOGFQ88g19XSCQo2kFmTOl0K2UNWV-HdBREaVXbQ_jQUbBeedIi0HDwRS4doFqc14W4xH9RkZtBIYa3TsJjUhjTAzfg9uzWEStdy-H-Ehi0P3v9-UrR8kQJJa2lRMuQluF7ISvp5Hg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESfgHrOzAVsTSGR7DWfPmoypcLE-AsFGX4gOGFQ88g19XSCQo2kFmTOl0K2UNWV-HdBREaVXbQ_jQUbBeedIi0HDwRS4doFqc14W4xH9RkZtBIYa3TsJjUhjTAzfg9uzWEStdy-H-Ehi0P3v9-UrR8kQJJa2lRMuQluF7ISvp5Hg",
+   "source": "U.S. News Real Estate",
+   "read_more_link": "https://realestate.usnews.com/real-estate/articles/what-is-a-homestead#:~:text=A%20homestead%20is%20an%20owner%2Doccupied,certain%20financial%20and%20legal%20protections."
+  },
+  {
+   "position": 6,
+   "title": "Homestead",
+   "link": "https://www.youtube.com/playlist?list=PLN4UzcYI0bdkuxWhDVn6Ozi1GOXdbkHFW",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgAEB6zswFW2XsOj19abtelZUrLHMPuXoFI5JZzbmQm_QDrG2cC2vWwu-wcKgSs1BepB3MSB-bEiNnhpL5HJQ4oVMKdNyCdvQVJlhEgoWsdHaeYTgf_XgoROLMS4XEc94syyHFL_TkOUKrM5wXWE61tNqL0jb5y5P8iFbVShRU4WEqA&ved=2ahUKEwiK0pqA5eSWAxVQ18kDHe6aKuEQFnoECD8QAQ&uoh=1",
+   "displayed_link": "613K+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "snippet": "Homestead | Official Trailer | Angel Studios \u00b7 4.2M views \u00b7 1 year ago ; Homestead | Official Teaser | Angel Studios \u00b7 1M views \u00b7 2 years ago ; We Are Announcing the ...",
+   "snippet_highlighted_words": [
+    "Homestead"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Homestead | Official Trailer | Angel Studios \u00b7 4.2M views \u00b7 1 year ago ; Homestead | Official Teaser | Angel Studios \u00b7 1M views \u00b7 2 years ago ; We Are Announcing the ...",
+     "source_info_link": "https://www.youtube.com/playlist?list=PLN4UzcYI0bdkuxWhDVn6Ozi1GOXdbkHFW",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESgAEB6zswFW2XsOj19abtelZUrLHMPuXoFI5JZzbmQm_QDrG2cC2vWwu-wcKgSs1BepB3MSB-bEiNnhpL5HJQ4oVMKdNyCdvQVJlhEgoWsdHaeYTgf_XgoROLMS4XEc94syyHFL_TkOUKrM5wXWE61tNqL0jb5y5P8iFbVShRU4WEqA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESgAEB6zswFW2XsOj19abtelZUrLHMPuXoFI5JZzbmQm_QDrG2cC2vWwu-wcKgSs1BepB3MSB-bEiNnhpL5HJQ4oVMKdNyCdvQVJlhEgoWsdHaeYTgf_XgoROLMS4XEc94syyHFL_TkOUKrM5wXWE61tNqL0jb5y5P8iFbVShRU4WEqA",
+   "source": "YouTube \u00b7 Angel",
+   "read_more_link": "https://www.youtube.com/playlist?list=PLN4UzcYI0bdkuxWhDVn6Ozi1GOXdbkHFW#:~:text=Homestead%20%7C%20Official%20Trailer%20%7C,Angel%20Studios&text=4.2M%20views%20%E2%80%A2%201%20year,ago&text=4.2M%20views%20%E2%80%A2%201%20year,ago&text=Homestead%20%7C%20Official%20Teaser%20%7C,Angel%20Studios&text=1M%20views%20%E2%80%A2%202%20years,ago&text=1M%20views%20%E2%80%A2%202%20years,ago&text=We%20Are%20Announcing%20the%20WINNER,of%20the%20300k%20Homestead%20Giveaway!"
+  },
+  {
+   "position": 7,
+   "title": "what exactly is a homestead? and why does that definition ...",
+   "link": "https://www.reddit.com/r/homestead/comments/xsxja1/what_exactly_is_a_homestead_and_why_does_that/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmQEB6zswFRQ5C88lVWjgYU3vu5Jbk8zR_9HANPev7fSzYug9VWIhrttYz4_nJkCYF6THVrpNh8oUOuxemZtzAegTyArpcpFd1nV2qBz_50huc2d6cBQfTjKQ7NbIVBtO1XgYINzEZYntadKpnHDVHm1M4i738DxsnInawqiqaALDU_rv5tQ01i4R2HZXR7sMDvL3V8DOOIsjE64&ved=2ahUKEwiK0pqA5eSWAxVQ18kDHe6aKuEQFnoECEwQAQ&uoh=1",
+   "displayed_link": "10+ comments \u00b7 3 years ago",
+   "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+   "snippet": "To me a \"homestead\" is a home moving towards being relatively food secure by means of animals and gardens. A well put together 1/2 acre could ...",
+   "snippet_highlighted_words": [
+    "a home moving towards being relatively food secure"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "To me a \"homestead\" is a home moving towards being relatively food secure by means of animals and gardens. A well put together 1/2 acre could ...",
+     "source_info_link": "https://www.reddit.com/r/homestead/comments/xsxja1/what_exactly_is_a_homestead_and_why_does_that/",
+     "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESmQEB6zswFRQ5C88lVWjgYU3vu5Jbk8zR_9HANPev7fSzYug9VWIhrttYz4_nJkCYF6THVrpNh8oUOuxemZtzAegTyArpcpFd1nV2qBz_50huc2d6cBQfTjKQ7NbIVBtO1XgYINzEZYntadKpnHDVHm1M4i738DxsnInawqiqaALDU_rv5tQ01i4R2HZXR7sMDvL3V8DOOIsjE64&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESmQEB6zswFRQ5C88lVWjgYU3vu5Jbk8zR_9HANPev7fSzYug9VWIhrttYz4_nJkCYF6THVrpNh8oUOuxemZtzAegTyArpcpFd1nV2qBz_50huc2d6cBQfTjKQ7NbIVBtO1XgYINzEZYntadKpnHDVHm1M4i738DxsnInawqiqaALDU_rv5tQ01i4R2HZXR7sMDvL3V8DOOIsjE64",
+   "source": "Reddit \u00b7 r/homestead",
+   "read_more_link": "https://www.reddit.com/r/homestead/comments/xsxja1/what_exactly_is_a_homestead_and_why_does_that/#:~:text=To%20me%20a%20%22homestead%22%20is,the%20family%20could%20afford%20it."
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Homestead: The Series netflix",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Homestead:+The+Series+netflix&sa=X&ved=2ahUKEwiK0pqA5eSWAxVQ18kDHe6aKuEQ1QJ6BAhcEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Homestead%3A+The+Series+netflix"
+  },
+  {
+   "block_position": 1,
+   "query": "Homestead near me",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Homestead+near+me&sa=X&ved=2ahUKEwiK0pqA5eSWAxVQ18kDHe6aKuEQ1QJ6BAhmEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Homestead+near+me"
+  },
+  {
+   "block_position": 1,
+   "query": "Homestead series",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Homestead+series&sa=X&ved=2ahUKEwiK0pqA5eSWAxVQ18kDHe6aKuEQ1QJ6BAhkEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Homestead+series"
+  },
+  {
+   "block_position": 1,
+   "query": "Homestead: the series season 2",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Homestead:+the+series+season+2&sa=X&ved=2ahUKEwiK0pqA5eSWAxVQ18kDHe6aKuEQ1QJ6BAhjEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Homestead%3A+the+series+season+2"
+  },
+  {
+   "block_position": 1,
+   "query": "Homestead movie",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Homestead+movie&sa=X&ved=2ahUKEwiK0pqA5eSWAxVQ18kDHe6aKuEQ1QJ6BAhiEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Homestead+movie"
+  },
+  {
+   "block_position": 1,
+   "query": "Cast of Homestead: The series",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Cast+of+Homestead:+The+series&sa=X&ved=2ahUKEwiK0pqA5eSWAxVQ18kDHe6aKuEQ1QJ6BAhhEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Cast+of+Homestead%3A+The+series"
+  },
+  {
+   "block_position": 1,
+   "query": "Homestead where to watch",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Homestead+where+to+watch&sa=X&ved=2ahUKEwiK0pqA5eSWAxVQ18kDHe6aKuEQ1QJ6BAhgEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Homestead+where+to+watch"
+  },
+  {
+   "block_position": 1,
+   "query": "Homestead ott",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Homestead+ott&sa=X&ved=2ahUKEwiK0pqA5eSWAxVQ18kDHe6aKuEQ1QJ6BAhdEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Homestead+ott"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=homestead&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=kQqjasrFLtCup84P7rWqiQ4&start=10&sa=N&sstk=AS6-VmJcTAmoMxktSvU2u-oUv3cHf-j1cGuKV_dGkheuLXT1GUZzokbLqSnTkJ7sywjqm0pmGlne3JF-Osp96616lgWGymAtk7_moA&ved=2ahUKEwiK0pqA5eSWAxVQ18kDHe6aKuEQ8NMDegQIUBAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=homestead&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=kQqjasrFLtCup84P7rWqiQ4&start=10&sa=N&sstk=AS6-VmJcTAmoMxktSvU2u-oUv3cHf-j1cGuKV_dGkheuLXT1GUZzokbLqSnTkJ7sywjqm0pmGlne3JF-Osp96616lgWGymAtk7_moA&ved=2ahUKEwiK0pqA5eSWAxVQ18kDHe6aKuEQ8tMDegQIUBAE",
+   "3": "https://www.google.com/search?q=homestead&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=kQqjasrFLtCup84P7rWqiQ4&start=20&sa=N&sstk=AS6-VmJcTAmoMxktSvU2u-oUv3cHf-j1cGuKV_dGkheuLXT1GUZzokbLqSnTkJ7sywjqm0pmGlne3JF-Osp96616lgWGymAtk7_moA&ved=2ahUKEwiK0pqA5eSWAxVQ18kDHe6aKuEQ8tMDegQIUBAG",
+   "4": "https://www.google.com/search?q=homestead&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=kQqjasrFLtCup84P7rWqiQ4&start=30&sa=N&sstk=AS6-VmJcTAmoMxktSvU2u-oUv3cHf-j1cGuKV_dGkheuLXT1GUZzokbLqSnTkJ7sywjqm0pmGlne3JF-Osp96616lgWGymAtk7_moA&ved=2ahUKEwiK0pqA5eSWAxVQ18kDHe6aKuEQ8tMDegQIUBAI",
+   "5": "https://www.google.com/search?q=homestead&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=kQqjasrFLtCup84P7rWqiQ4&start=40&sa=N&sstk=AS6-VmJcTAmoMxktSvU2u-oUv3cHf-j1cGuKV_dGkheuLXT1GUZzokbLqSnTkJ7sywjqm0pmGlne3JF-Osp96616lgWGymAtk7_moA&ved=2ahUKEwiK0pqA5eSWAxVQ18kDHe6aKuEQ8tMDegQIUBAK",
+   "6": "https://www.google.com/search?q=homestead&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=kQqjasrFLtCup84P7rWqiQ4&start=50&sa=N&sstk=AS6-VmJcTAmoMxktSvU2u-oUv3cHf-j1cGuKV_dGkheuLXT1GUZzokbLqSnTkJ7sywjqm0pmGlne3JF-Osp96616lgWGymAtk7_moA&ved=2ahUKEwiK0pqA5eSWAxVQ18kDHe6aKuEQ8tMDegQIUBAM",
+   "7": "https://www.google.com/search?q=homestead&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=kQqjasrFLtCup84P7rWqiQ4&start=60&sa=N&sstk=AS6-VmJcTAmoMxktSvU2u-oUv3cHf-j1cGuKV_dGkheuLXT1GUZzokbLqSnTkJ7sywjqm0pmGlne3JF-Osp96616lgWGymAtk7_moA&ved=2ahUKEwiK0pqA5eSWAxVQ18kDHe6aKuEQ8tMDegQIUBAO",
+   "8": "https://www.google.com/search?q=homestead&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=kQqjasrFLtCup84P7rWqiQ4&start=70&sa=N&sstk=AS6-VmJcTAmoMxktSvU2u-oUv3cHf-j1cGuKV_dGkheuLXT1GUZzokbLqSnTkJ7sywjqm0pmGlne3JF-Osp96616lgWGymAtk7_moA&ved=2ahUKEwiK0pqA5eSWAxVQ18kDHe6aKuEQ8tMDegQIUBAQ",
+   "9": "https://www.google.com/search?q=homestead&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=kQqjasrFLtCup84P7rWqiQ4&start=80&sa=N&sstk=AS6-VmJcTAmoMxktSvU2u-oUv3cHf-j1cGuKV_dGkheuLXT1GUZzokbLqSnTkJ7sywjqm0pmGlne3JF-Osp96616lgWGymAtk7_moA&ved=2ahUKEwiK0pqA5eSWAxVQ18kDHe6aKuEQ8tMDegQIUBAS",
+   "10": "https://www.google.com/search?q=homestead&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=kQqjasrFLtCup84P7rWqiQ4&start=90&sa=N&sstk=AS6-VmJcTAmoMxktSvU2u-oUv3cHf-j1cGuKV_dGkheuLXT1GUZzokbLqSnTkJ7sywjqm0pmGlne3JF-Osp96616lgWGymAtk7_moA&ved=2ahUKEwiK0pqA5eSWAxVQ18kDHe6aKuEQ8tMDegQIUBAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=homestead&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=homestead&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=homestead&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=homestead&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=homestead&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=homestead&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=homestead&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=homestead&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=homestead&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=homestead&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=homestead&start=90"
+  }
+ }
+}

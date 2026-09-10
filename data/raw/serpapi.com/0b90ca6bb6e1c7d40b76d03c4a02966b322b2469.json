@@ -1,0 +1,418 @@
+{
+ "search_information": {
+  "query_displayed": "\"NorthWood High School\" Indiana",
+  "total_results": 135,
+  "time_taken_displayed": 0.67,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "local_map": {
+  "image": "https://www.google.com/maps/vt/data=_KmwBgzBSj_d8Gw--afLHH7ZT94qz3l1YFGF3Q6UE2-SJjcvU9aLEf35aefUANcGfPk-v3gKFI8M37997Sz8U6zYkEE-chxOW_k2z09pAYzzQxd6G_ERWAh0O-0piQ2T8f1Ongy_cf54EOM9vdFSX6wm-ROUCBfmagwYROIMz1b2a51B88jb8twi-usy9fIMHZcnalwzexY_1-a6UyLp-YoLZk7ig9l3mqT4S-Ts2oXh-k-OLpWjT9sE2LNiH_rfE0Ql5VMG-JVVE4z_Ld1R0lEFC0k1uv6I9q4nYPM7eLAO-_JDbuEIzKLAj9SJoST5ypdiX_A27gbXBE7xODsDZ3WOpxGZVBW0rEmhopoVAYzU9GZ3xyfbwcUwVV99RGFa2H-pHKYaLUMEs8hv7KA8bpbxEPleNRxcrorwcs84lvNyedVnZW05BNOAOQvPhRcmbVsTyMWJU2ISIG3ukZ8hiMOaMcTl21Sys8XQa7i-l28CTbtJ4kKK58HmIZJxiyVpWgwRm3zWK4O0RImBXtSxfwcx5CoICN9tK2EaEQnALkuTm_A246hFT0dNvXfeyWoQCJUHla2WiYE8twsfdIXJ2K4NNBiZsunhbpTE5_NYCdlq4Nr3MKF3mrHfGl2mXmfcExf6nX1L25cX-juiekMt8x0GDHOT46VTq80faUpfxjMt0QP6zUqiB7DLbYsWaQ-MI_cH7ZKBM_qHxgv0guBwHj9Rc5mC6TLLU-6XrT_vPkuH0i_1ZD_LvbDtW2zxg0Rw0_iDjnUg_k-Nh3ONVGm7NgKHTeI3FSOWouKaMyo3LwEAYNhv3jGMwVvGGOnHsHcp4bpOfGIfZvYTYEvAYIhjsBtWfDsLKILoSBzk8F0b06S6kHsRx67tuIB42gZVlnHv7_dhD4UlRehNpfB2UbX1a1HgC2oY2YS7GK2-t_sJjZPHh0zUJcNsOcImMFHfYXQtVj5-yFkJawXeozA8ad1tyHn2FBEieeVllNUpNnNVdMuydgQdE1YcfEQs5ByGi4a_cl6MtxZXBTKavkusCwm5f238EDoPNdZJrChkOrEx_Z4TX2BDpPJzh8v51OR8DW9XsryYHYF9-gc6GEkT7tKhASaB2uSkc6xUPbB6V6LrkwlzU3GxhLsZk6q_0U08Z9OW2P1eSkud7c2SJguuii2cT2lQtXGVNx7rXRZ-NdvmsRm9-THjBfA_RfzkJcOKi75b11PfybaGgiLDGQrbicq1Boekdr9goXX3cjtjbq9U_u1yN7wMBZwTpP_lyHfMMU8i3f33UJD5AGnogq-2Rck4Wugx-SSDB6W0a7Gw5jZjas33_a-HQOA-UJm79vhz5BYYb3aqJfWYIH9UPWvebnh0op_WeqD-u95w_jmO4B6BzOOHpH08zED5gX7f3XIEgcPgutLLCTXpF_YTyPrLUN5MEosVNPTpT42ZQGKas0FwPEGnSV8swAWZrCZe4fnw1cW7semigvGCDjE19gSpp1-_0Z6PFSPzX_Yxfw",
+  "gps_coordinates": {
+   "latitude": 28.66167121641951,
+   "longitude": -81.2109375
+  }
+ },
+ "local_results": {
+  "places": [
+   {
+    "position": 1,
+    "rating": 3.6,
+    "reviews": 24,
+    "reviews_original": "(24)",
+    "thumbnail": "https://serpapi.com/searches/6aa30fd988aca47b8b4acedc/images/0yJLmBk-NuPyMWK79_RIn5cpDJUt97HyXXHChpUHteR1A3rjQkBjgBaDadkvejZH.webp",
+    "place_id": "6393066645154106520",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=6393066645154106520&q=%22NorthWood+High+School%22+Indiana",
+    "provider_id": "/g/11dfgwq20k",
+    "gps_coordinates": {
+     "latitude": 29.067252,
+     "longitude": -82.066393
+    },
+    "title": "Northwood",
+    "type": "Apartment complex",
+    "address": "Belleview, FL"
+   },
+   {
+    "position": 2,
+    "rating": 5.0,
+    "reviews": 39,
+    "reviews_original": "(39)",
+    "description": "\"The store is clean, well-organized, and easy to navigate.\"",
+    "thumbnail": "https://serpapi.com/searches/6aa30fd988aca47b8b4acedc/images/0yJLmBk-NuPyMWK79_RInzKpCyGS8AucFoA4zQtjRyos5MdAD1EwQRn0fAJupaha.jpeg",
+    "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkj_I6W8bYWMlVlMMjbES2SDCapMccM0uIzTpQgkWMHy4HRO1ggBYmxf2FaJpv1xwVJ96bFhzj8God7DkOoAhbn1UnDC5rePQpPls1PAEVhllcmJ6XI1QbWyQKnwssvi8Ri6SgnpsPYqmdI=w1000-h1000-c-n",
+    "place_id": "559212073371494162",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=559212073371494162&q=%22NorthWood+High+School%22+Indiana",
+    "provider_id": "/g/11z0x3dhnc",
+    "gps_coordinates": {
+     "latitude": 29.699964,
+     "longitude": -82.369903
+    },
+    "title": "Northwood Wine & Spirits",
+    "type": "Liquor store",
+    "address": "Gainesville, FL"
+   },
+   {
+    "position": 3,
+    "rating": 4.5,
+    "reviews": 196,
+    "reviews_original": "(196)",
+    "description": "\"The staff at Northwood Oaks are skilled, knowledgeable and very helpful.\"",
+    "thumbnail": "https://serpapi.com/searches/6aa30fd988aca47b8b4acedc/images/0yJLmBk-NuPyMWK79_RIn00GiYCAtfMK3OpLKbC97fvSMLgWvZ08jH3p2sqFQbtm.jpeg",
+    "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnvCKyukVwm4yOpRWeVgpxq97xG5P2LBb9Sm4_7gFjbMD9C_iTlLIaBwX8L8HnOP5iN8D7kvwFFCXIeO1-DD01F8Jue8dqkz6kQrdr1b89c6Uw3AC60OkuJeV5HF0U-EGvTnkrJ=w1000-h1000-c-n",
+    "place_id": "4665662729522435",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=4665662729522435&q=%22NorthWood+High+School%22+Indiana",
+    "provider_id": "/g/1thtqd_j",
+    "gps_coordinates": {
+     "latitude": 29.703953,
+     "longitude": -82.361534
+    },
+    "title": "Northwood Oaks Veterinary Hospital",
+    "type": "Veterinarian",
+    "years_in_business": "15+ years in business",
+    "address": "Gainesville, FL"
+   }
+  ],
+  "more_locations_link": "https://www.google.com/search?q=northwood&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvAuItJTzh4uZz_SFqlbD43tTw3ng:1789071332358&udm=1&lsack=5A-jarq-FcOzwPAP8o7QkAE&sa=X&ved=2ahUKEwi6wPiJ6uSWAxXDGRAIHXIHFBIQjGp6BAgfEAA"
+ },
+ "related_questions": [
+  {
+   "question": "What does the company Northwood do?",
+   "type": "ai_overview",
+   "page_token": "yRTfyXicHdDdbpswGABQ7WV62fDVW1dFiibR2BmokNr4M4GbidgNBpufJixh3O1d9lR9mko7j3D-_vNN7z6-XO00jZf1anW73e7rYaj9270eulV1-dPrla68P1barR-_P8KPk97Q31H4_B6FHMdRbUWQtayXTDUSRCsWIxNUSi4GRDeHiPVcOaaSzl91P57R1dMey0jJcItb5WR-CRDTOVfprHdqu6fJXEqb8ta8lliA7ll6CBhPWVkVGcjjQ_zMIY4yYiOzA2IayCVxRHb0awHxTgRikjnrKhyH7EABg6fg7aeJhBedYum1erCvJYWX0tuTJunlSOFctAkxizmj97Zwc0-tBp7Be3GI5xcsW0lGgpTx_e6JYD6FQgwNR7Ho1ncYAC9BNbjY-QDK5u6bRJnccmpa7mJAzxbkdyd93ZC7_5-bX6duWo_nof4EOxyC1Q",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=yRTfyXicHdDdbpswGABQ7WV62fDVW1dFiibR2BmokNr4M4GbidgNBpufJixh3O1d9lR9mko7j3D-_vNN7z6-XO00jZf1anW73e7rYaj9270eulV1-dPrla68P1barR-_P8KPk97Q31H4_B6FHMdRbUWQtayXTDUSRCsWIxNUSi4GRDeHiPVcOaaSzl91P57R1dMey0jJcItb5WR-CRDTOVfprHdqu6fJXEqb8ta8lliA7ll6CBhPWVkVGcjjQ_zMIY4yYiOzA2IayCVxRHb0awHxTgRikjnrKhyH7EABg6fg7aeJhBedYum1erCvJYWX0tuTJunlSOFctAkxizmj97Zwc0-tBp7Be3GI5xcsW0lGgpTx_e6JYD6FQgwNR7Ho1ncYAC9BNbjY-QDK5u6bRJnccmpa7mJAzxbkdyd93ZC7_5-bX6duWo_nof4EOxyC1Q",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSllqUTBVRzkwUjNSS01IUnJXRU51U21KTlpXZEhWV0ZHTlVkT2REaGlNV3N3VURWcVpuUnVaVUUxV0VkaUxVNHpTVjlXTjNkbk9IbzBOREZvWlhSTk1tb3ROSFZrYVU5VE9VWkhZWGROYm1zNVh6VnNhMDU0ZVV0WVFSSVhOVUV0YW1GeWNTMUdZMDk2ZDFCQlVEaHZOMUZyUVVVYUlrRkVjM0k1WmxGQ2FFMWxWREpPUWt3eFpYVkNaekYwYVc1WWFGaHhYMUl3ZVdjIiwiZmN2IjoiMyIsImVpIjoiNUEtamFycS1GY096d1BBUDhvN1FrQUUiLCJxYyI6IkNnbHViM0owYUhkdmIyUVFBSDF3UFVvXyIsInF1ZXN0aW9uIjoiV2hhdCBkb2VzIHRoZSBjb21wYW55IE5vcnRod29vZCBkbz8iLCJsayI6IkdpSjNhR0YwSUdSdlpYTWdkR2hsSUdOdmJYQmhibmtnYm05eWRHaDNiMjlrSUdSdiIsImJzIjoiYzIyTU1RdkNNQlNFY1gyVG16VFRzNjJiaXhsY2ctQlN4TG9vblVNYlRLRG1sU1phLXUtTlF6R0ZUZ2QzMzMxd2dhelMwbU5EeXFIWENtdDZkZEtPV0ZMdjlVRFVoRW53bktYREltWWpEQXBJQ3hjOUpUNV8wYld5VnVnSldfTlJnbWRzYTF4MFhLTGdDdmxNOWJDaDdaM3hZLURQQjNTMUptb0YzN0ZzSm52SFhETnhjSVNrMHFwWGFDTHBIc3ZUX1NaNHdqYkROUDVOVm5wYXI3NCIsImlkIjoiZmNfNUEtamFycS1GY096d1BBUDhvN1FrQUVfNiJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSllqUTBVRzkwUjNSS01IUnJXRU51U21KTlpXZEhWV0ZHTlVkT2REaGlNV3N3VURWcVpuUnVaVUUxV0VkaUxVNHpTVjlXTjNkbk9IbzBOREZvWlhSTk1tb3ROSFZrYVU5VE9VWkhZWGROYm1zNVh6VnNhMDU0ZVV0WVFSSVhOVUV0YW1GeWNTMUdZMDk2ZDFCQlVEaHZOMUZyUVVVYUlrRkVjM0k1WmxGQ2FFMWxWREpPUWt3eFpYVkNaekYwYVc1WWFGaHhYMUl3ZVdjIiwiZmN2IjoiMyIsImVpIjoiNUEtamFycS1GY096d1BBUDhvN1FrQUUiLCJxYyI6IkNnbHViM0owYUhkdmIyUVFBSDF3UFVvXyIsInF1ZXN0aW9uIjoiV2hhdCBkb2VzIHRoZSBjb21wYW55IE5vcnRod29vZCBkbz8iLCJsayI6IkdpSjNhR0YwSUdSdlpYTWdkR2hsSUdOdmJYQmhibmtnYm05eWRHaDNiMjlrSUdSdiIsImJzIjoiYzIyTU1RdkNNQlNFY1gyVG16VFRzNjJiaXhsY2ctQlN4TG9vblVNYlRLRG1sU1phLXUtTlF6R0ZUZ2QzMzMxd2dhelMwbU5EeXFIWENtdDZkZEtPV0ZMdjlVRFVoRW53bktYREltWWpEQXBJQ3hjOUpUNV8wYld5VnVnSldfTlJnbWRzYTF4MFhLTGdDdmxNOWJDaDdaM3hZLURQQjNTMUptb0YzN0ZzSm52SFhETnhjSVNrMHFwWGFDTHBIc3ZUX1NaNHdqYkROUDVOVm5wYXI3NCIsImlkIjoiZmNfNUEtamFycS1GY096d1BBUDhvN1FrQUVfNiJ9"
+  },
+  {
+   "question": "Is Northwood a good place to live?",
+   "type": "ai_overview",
+   "page_token": "LgSXeXicHdBdboIwAADg7DI-agu4qYlZ1glMhDpKW0ZfllJUhPLj7BT3trvsVDvNkn1H-L5_9LGtf-8upTH9eTGZXK_X8aHrDno3Vl0zkedbqyZKap1LVS_uH-7h414t3c81ej6tUcz6nq8ISKrAyVe63Hneq4Dz512jB1FDkAAtMuixOMUVtZQV-SVTnGRhyj2pi1j5hcObqaM42qa-ORIQHEM2T3DqYWEjSDQiESg2ogpuEUUyBtNuy-drqrmJ2pIoS5xynzvkjUhsHb5CWgwpJxX1UJawYVO0OGOwBMTtNXXNJaphL9sC5CsBE6pDqctUpibLG9gQIPqtbzRuAuKWCsYJPGVvwRAyUVG7t5nrxVt_ZrPUIEK6Y8zIl6p0w-ogUC8YJavCya2pp2y8oQCvhTWzsK8twp-G4jraq8vSHv1_Lt_3jVn0H93hD3e5gIo",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=LgSXeXicHdBdboIwAADg7DI-agu4qYlZ1glMhDpKW0ZfllJUhPLj7BT3trvsVDvNkn1H-L5_9LGtf-8upTH9eTGZXK_X8aHrDno3Vl0zkedbqyZKap1LVS_uH-7h414t3c81ej6tUcz6nq8ISKrAyVe63Hneq4Dz512jB1FDkAAtMuixOMUVtZQV-SVTnGRhyj2pi1j5hcObqaM42qa-ORIQHEM2T3DqYWEjSDQiESg2ogpuEUUyBtNuy-drqrmJ2pIoS5xynzvkjUhsHb5CWgwpJxX1UJawYVO0OGOwBMTtNXXNJaphL9sC5CsBE6pDqctUpibLG9gQIPqtbzRuAuKWCsYJPGVvwRAyUVG7t5nrxVt_ZrPUIEK6Y8zIl6p0w-ogUC8YJavCya2pp2y8oQCvhTWzsK8twp-G4jraq8vSHv1_Lt_3jVn0H93hD3e5gIo",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSllqUTBVRzkwUjNSS01IUnJXRU51U21KTlpXZEhWV0ZHTlVkT2REaGlNV3N3VURWcVpuUnVaVUUxV0VkaUxVNHpTVjlXTjNkbk9IbzBOREZvWlhSTk1tb3ROSFZrYVU5VE9VWkhZWGROYm1zNVh6VnNhMDU0ZVV0WVFSSVhOVUV0YW1GeWNTMUdZMDk2ZDFCQlVEaHZOMUZyUVVVYUlrRkVjM0k1WmxGQ2FFMWxWREpPUWt3eFpYVkNaekYwYVc1WWFGaHhYMUl3ZVdjIiwiZmN2IjoiMyIsImVpIjoiNUEtamFycS1GY096d1BBUDhvN1FrQUUiLCJxYyI6IkNnbHViM0owYUhkdmIyUVFBSDF3UFVvXyIsInF1ZXN0aW9uIjoiSXMgTm9ydGh3b29kIGEgZ29vZCBwbGFjZSB0byBsaXZlPyIsImxrIjoiYzVOU3pDeFd5TXN2S3Nrb3o4OVBVVWhVU0FkUkJUbUp5YWtLSmZrS09abGxxUUEiLCJicyI6ImMyMk1NUXZDTUJTRWNYMlRtelRUczYyYml4bGNnLUJTeExvb25VTWJUS0RtbFNaYS11LU5RekdGVGdkMzMzMXdnYXpTMG1ORHlxSFhDbXQ2ZGRLT1dGTHY5VURVaEVud25LWERJbVlqREFwSUN4YzlKVDVfMGJXeVZ1Z0pXX05SZ21kc2ExeDBYS0xnQ3ZsTTliQ2g3WjN4WS1EUEIzUzFKbW9GMzdGc0pudkhYRE54Y0lTazBxcFhhQ0xwSHN2VF9TWjR3amJETlA1TlZucGFyNzQiLCJpZCI6ImZjXzVBLWphcnEtRmNPendQQVA4bzdRa0FFXzYifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSllqUTBVRzkwUjNSS01IUnJXRU51U21KTlpXZEhWV0ZHTlVkT2REaGlNV3N3VURWcVpuUnVaVUUxV0VkaUxVNHpTVjlXTjNkbk9IbzBOREZvWlhSTk1tb3ROSFZrYVU5VE9VWkhZWGROYm1zNVh6VnNhMDU0ZVV0WVFSSVhOVUV0YW1GeWNTMUdZMDk2ZDFCQlVEaHZOMUZyUVVVYUlrRkVjM0k1WmxGQ2FFMWxWREpPUWt3eFpYVkNaekYwYVc1WWFGaHhYMUl3ZVdjIiwiZmN2IjoiMyIsImVpIjoiNUEtamFycS1GY096d1BBUDhvN1FrQUUiLCJxYyI6IkNnbHViM0owYUhkdmIyUVFBSDF3UFVvXyIsInF1ZXN0aW9uIjoiSXMgTm9ydGh3b29kIGEgZ29vZCBwbGFjZSB0byBsaXZlPyIsImxrIjoiYzVOU3pDeFd5TXN2S3Nrb3o4OVBVVWhVU0FkUkJUbUp5YWtLSmZrS09abGxxUUEiLCJicyI6ImMyMk1NUXZDTUJTRWNYMlRtelRUczYyYml4bGNnLUJTeExvb25VTWJUS0RtbFNaYS11LU5RekdGVGdkMzMzMXdnYXpTMG1ORHlxSFhDbXQ2ZGRLT1dGTHY5VURVaEVud25LWERJbVlqREFwSUN4YzlKVDVfMGJXeVZ1Z0pXX05SZ21kc2ExeDBYS0xnQ3ZsTTliQ2g3WjN4WS1EUEIzUzFKbW9GMzdGc0pudkhYRE54Y0lTazBxcFhhQ0xwSHN2VF9TWjR3amJETlA1TlZucGFyNzQiLCJpZCI6ImZjXzVBLWphcnEtRmNPendQQVA4bzdRa0FFXzYifQ%3D%3D"
+  },
+  {
+   "question": "Is Northwood University a D1 school?",
+   "type": "ai_overview",
+   "page_token": "t1MuKXicHdBdbpswAABg7TJ5bDCEtIkUTWUYUjLosLEBv1TEkPBjg2kobnjbXXaqnqbSviN8f_-Jpu--fsz1NKnbfr3WWj9ch-Eqqgc-yHVxu_d8zQshzgXv9tvHLfh54Qf48eL8Gl-cmChFXWTgNAcIIpFYToag3VAZKZxGmmXKZSA4RW2wJFZnlH6QJ-Bpgxtwqlzano_sxqHWVYY098QctqGBYayJT9vSZz7y0DvrApOIiHLJFiyZSXpny8juozjGS4VBk5vXO3a9KZK7G_HtkbnoT7I8G5FXT6it51JGm5IimYFnu8hYWIgdPTfGvbSCMTTVHEo7Rlm-qXrqc7_sMQQ9rDmIMRjzLPj8TVibWMoi0Itf_SeLpJOD0NDEBC28FZKkdX2Gn6fI3KmUeAGmzivrwFgahp1YdKEZujC9uvD5YK3-fx7eLnLaq_fh-g2pB4JY",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=t1MuKXicHdBdbpswAABg7TJ5bDCEtIkUTWUYUjLosLEBv1TEkPBjg2kobnjbXXaqnqbSviN8f_-Jpu--fsz1NKnbfr3WWj9ch-Eqqgc-yHVxu_d8zQshzgXv9tvHLfh54Qf48eL8Gl-cmChFXWTgNAcIIpFYToag3VAZKZxGmmXKZSA4RW2wJFZnlH6QJ-Bpgxtwqlzano_sxqHWVYY098QctqGBYayJT9vSZz7y0DvrApOIiHLJFiyZSXpny8juozjGS4VBk5vXO3a9KZK7G_HtkbnoT7I8G5FXT6it51JGm5IimYFnu8hYWIgdPTfGvbSCMTTVHEo7Rlm-qXrqc7_sMQQ9rDmIMRjzLPj8TVibWMoi0Itf_SeLpJOD0NDEBC28FZKkdX2Gn6fI3KmUeAGmzivrwFgahp1YdKEZujC9uvD5YK3-fx7eLnLaq_fh-g2pB4JY",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSllqUTBVRzkwUjNSS01IUnJXRU51U21KTlpXZEhWV0ZHTlVkT2REaGlNV3N3VURWcVpuUnVaVUUxV0VkaUxVNHpTVjlXTjNkbk9IbzBOREZvWlhSTk1tb3ROSFZrYVU5VE9VWkhZWGROYm1zNVh6VnNhMDU0ZVV0WVFSSVhOVUV0YW1GeWNTMUdZMDk2ZDFCQlVEaHZOMUZyUVVVYUlrRkVjM0k1WmxGQ2FFMWxWREpPUWt3eFpYVkNaekYwYVc1WWFGaHhYMUl3ZVdjIiwiZmN2IjoiMyIsImVpIjoiNUEtamFycS1GY096d1BBUDhvN1FrQUUiLCJxYyI6IkNnbHViM0owYUhkdmIyUVFBSDF3UFVvXyIsInF1ZXN0aW9uIjoiSXMgTm9ydGh3b29kIFVuaXZlcnNpdHkgYSBEMSBzY2hvb2w/IiwibGsiOiJHaU5wY3lCdWIzSjBhSGR2YjJRZ2RXNXBkbVZ5YzJsMGVTQmhJR1F4SUhOamFHOXZiQSIsImJzIjoiYzIyTU1RdkNNQlNFY1gyVG16VFRzNjJiaXhsY2ctQlN4TG9vblVNYlRLRG1sU1phLXUtTlF6R0ZUZ2QzMzMxd2dhelMwbU5EeXFIWENtdDZkZEtPV0ZMdjlVRFVoRW53bktYREltWWpEQXBJQ3hjOUpUNV8wYld5VnVnSldfTlJnbWRzYTF4MFhLTGdDdmxNOWJDaDdaM3hZLURQQjNTMUptb0YzN0ZzSm52SFhETnhjSVNrMHFwWGFDTHBIc3ZUX1NaNHdqYkROUDVOVm5wYXI3NCIsImlkIjoiZmNfNUEtamFycS1GY096d1BBUDhvN1FrQUVfNiJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSllqUTBVRzkwUjNSS01IUnJXRU51U21KTlpXZEhWV0ZHTlVkT2REaGlNV3N3VURWcVpuUnVaVUUxV0VkaUxVNHpTVjlXTjNkbk9IbzBOREZvWlhSTk1tb3ROSFZrYVU5VE9VWkhZWGROYm1zNVh6VnNhMDU0ZVV0WVFSSVhOVUV0YW1GeWNTMUdZMDk2ZDFCQlVEaHZOMUZyUVVVYUlrRkVjM0k1WmxGQ2FFMWxWREpPUWt3eFpYVkNaekYwYVc1WWFGaHhYMUl3ZVdjIiwiZmN2IjoiMyIsImVpIjoiNUEtamFycS1GY096d1BBUDhvN1FrQUUiLCJxYyI6IkNnbHViM0owYUhkdmIyUVFBSDF3UFVvXyIsInF1ZXN0aW9uIjoiSXMgTm9ydGh3b29kIFVuaXZlcnNpdHkgYSBEMSBzY2hvb2w%2FIiwibGsiOiJHaU5wY3lCdWIzSjBhSGR2YjJRZ2RXNXBkbVZ5YzJsMGVTQmhJR1F4SUhOamFHOXZiQSIsImJzIjoiYzIyTU1RdkNNQlNFY1gyVG16VFRzNjJiaXhsY2ctQlN4TG9vblVNYlRLRG1sU1phLXUtTlF6R0ZUZ2QzMzMxd2dhelMwbU5EeXFIWENtdDZkZEtPV0ZMdjlVRFVoRW53bktYREltWWpEQXBJQ3hjOUpUNV8wYld5VnVnSldfTlJnbWRzYTF4MFhLTGdDdmxNOWJDaDdaM3hZLURQQjNTMUptb0YzN0ZzSm52SFhETnhjSVNrMHFwWGFDTHBIc3ZUX1NaNHdqYkROUDVOVm5wYXI3NCIsImlkIjoiZmNfNUEtamFycS1GY096d1BBUDhvN1FrQUVfNiJ9"
+  },
+  {
+   "question": "Where is Northwood, NATO?",
+   "type": "ai_overview",
+   "page_token": "_7CYgHicHdBdToMwAADgeJk9SgHFbMli7EZBBCalFMaLgbLBRil14Ph58y6eytO4eIMv3_cPP4n69y6p-l52K0UZhuG-bNuSH-5Z2yhZNwmmsIzzPGP1yngy1OcjW5vdADftAINISrrFIGzUeU8cmNqQ-xPQ3VB1c54aXtONdAsjHKE3YqPP9Gz22EoTT3DrQJyLr1ZfflT2QQhAAMyemZUTicpiFpZenFqs5m6B4C4UeM5tiOKGk6x-vETa2FIkx5jjnW9XNtFRmIBlHSfUTa1xyuqy3ws5-9TRC3Np3mwhbgrJNipkwFOp9hqimUI3lhUTN1Pjvx9EEQT05SGfC5wBhKyTA7HtT7s4JUWzPOeCIg_0akiq3T4epsJKtVxDV5IUBkESLo7sutYX_2Prj2PTr-SlLf8Am6N5FA",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=_7CYgHicHdBdToMwAADgeJk9SgHFbMli7EZBBCalFMaLgbLBRil14Ph58y6eytO4eIMv3_cPP4n69y6p-l52K0UZhuG-bNuSH-5Z2yhZNwmmsIzzPGP1yngy1OcjW5vdADftAINISrrFIGzUeU8cmNqQ-xPQ3VB1c54aXtONdAsjHKE3YqPP9Gz22EoTT3DrQJyLr1ZfflT2QQhAAMyemZUTicpiFpZenFqs5m6B4C4UeM5tiOKGk6x-vETa2FIkx5jjnW9XNtFRmIBlHSfUTa1xyuqy3ws5-9TRC3Np3mwhbgrJNipkwFOp9hqimUI3lhUTN1Pjvx9EEQT05SGfC5wBhKyTA7HtT7s4JUWzPOeCIg_0akiq3T4epsJKtVxDV5IUBkESLo7sutYX_2Prj2PTr-SlLf8Am6N5FA",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSllqUTBVRzkwUjNSS01IUnJXRU51U21KTlpXZEhWV0ZHTlVkT2REaGlNV3N3VURWcVpuUnVaVUUxV0VkaUxVNHpTVjlXTjNkbk9IbzBOREZvWlhSTk1tb3ROSFZrYVU5VE9VWkhZWGROYm1zNVh6VnNhMDU0ZVV0WVFSSVhOVUV0YW1GeWNTMUdZMDk2ZDFCQlVEaHZOMUZyUVVVYUlrRkVjM0k1WmxGQ2FFMWxWREpPUWt3eFpYVkNaekYwYVc1WWFGaHhYMUl3ZVdjIiwiZmN2IjoiMyIsImVpIjoiNUEtamFycS1GY096d1BBUDhvN1FrQUUiLCJxYyI6IkNnbHViM0owYUhkdmIyUVFBSDF3UFVvXyIsInF1ZXN0aW9uIjoiV2hlcmUgaXMgTm9ydGh3b29kLCBOQVRPPyIsImxrIjoiR2hkM2FHVnlaU0JwY3lCdWIzSjBhSGR2YjJRZ2JtRjBidyIsImJzIjoiYzIyTU1RdkNNQlNFY1gyVG16VFRzNjJiaXhsY2ctQlN4TG9vblVNYlRLRG1sU1phLXUtTlF6R0ZUZ2QzMzMxd2dhelMwbU5EeXFIWENtdDZkZEtPV0ZMdjlVRFVoRW53bktYREltWWpEQXBJQ3hjOUpUNV8wYld5VnVnSldfTlJnbWRzYTF4MFhLTGdDdmxNOWJDaDdaM3hZLURQQjNTMUptb0YzN0ZzSm52SFhETnhjSVNrMHFwWGFDTHBIc3ZUX1NaNHdqYkROUDVOVm5wYXI3NCIsImlkIjoiZmNfNUEtamFycS1GY096d1BBUDhvN1FrQUVfNiJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSllqUTBVRzkwUjNSS01IUnJXRU51U21KTlpXZEhWV0ZHTlVkT2REaGlNV3N3VURWcVpuUnVaVUUxV0VkaUxVNHpTVjlXTjNkbk9IbzBOREZvWlhSTk1tb3ROSFZrYVU5VE9VWkhZWGROYm1zNVh6VnNhMDU0ZVV0WVFSSVhOVUV0YW1GeWNTMUdZMDk2ZDFCQlVEaHZOMUZyUVVVYUlrRkVjM0k1WmxGQ2FFMWxWREpPUWt3eFpYVkNaekYwYVc1WWFGaHhYMUl3ZVdjIiwiZmN2IjoiMyIsImVpIjoiNUEtamFycS1GY096d1BBUDhvN1FrQUUiLCJxYyI6IkNnbHViM0owYUhkdmIyUVFBSDF3UFVvXyIsInF1ZXN0aW9uIjoiV2hlcmUgaXMgTm9ydGh3b29kLCBOQVRPPyIsImxrIjoiR2hkM2FHVnlaU0JwY3lCdWIzSjBhSGR2YjJRZ2JtRjBidyIsImJzIjoiYzIyTU1RdkNNQlNFY1gyVG16VFRzNjJiaXhsY2ctQlN4TG9vblVNYlRLRG1sU1phLXUtTlF6R0ZUZ2QzMzMxd2dhelMwbU5EeXFIWENtdDZkZEtPV0ZMdjlVRFVoRW53bktYREltWWpEQXBJQ3hjOUpUNV8wYld5VnVnSldfTlJnbWRzYTF4MFhLTGdDdmxNOWJDaDdaM3hZLURQQjNTMUptb0YzN0ZzSm52SFhETnhjSVNrMHFwWGFDTHBIc3ZUX1NaNHdqYkROUDVOVm5wYXI3NCIsImlkIjoiZmNfNUEtamFycS1GY096d1BBUDhvN1FrQUVfNiJ9"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Northwood University",
+   "link": "https://www.northwood.edu/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUgHrOzAV4maW2JopsaM2fM3exQINbgkUaRHgI7UhXEpRef_Xh1wfpnsWIHHTMZxbec2e3kceKrDfRaLJOmwT51w6VGBA1scGabQR7h_hfU1HB7A&ved=2ahUKEwi6wPiJ6uSWAxXDGRAIHXIHFBIQFnoECCkQAQ&uoh=1",
+   "displayed_link": "https://www.northwood.edu",
+   "favicon": "https://serpapi.com/images/i/UklGRloBAABXRUJQVlA4IE4BAADwBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHXg9_RrbV3aSOTSQnknIKjxNCFTp67yk-yDYdh0CU256AgAAP5Emrr-OOuRQ5GON1UcpU8iJnhjPq1iNnH8fjNL8kXR_jdsjOFPgHo1bMPplGi8x7tfmD3U2Kgncyi4_9h1LncW4LXnzHucLrUJ6rCABlPb4_lhEdPNWdEZN57mng_FdBVf_4WUz22oWVAJbUKj535_cGBoM9qgr015yef1WT2IBrqgjtHN2GxpZqfQ0PAdQgE3hKTw35-X3wYcC_uD3_F2Axr-HnMoUnWsqkTpFl5PbWMjqf5-FOb7_4FFUNkp9QRvR4t1sTFF7I-tP5Sc8pTpu4J7wBs-nXg9Ckp81Sn8RgK3X5PzVCKopXSya0f0rR8NZ_42-g8DPtWBJtQpoAbRAXgXm16RB0EPfIAA.webp",
+   "snippet": "Northwood University is among top undergraduate business schools with career-focused programs, real-world learning, and flexible degrees.",
+   "snippet_highlighted_words": [
+    "Northwood"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "Admissions",
+      "link": "https://www.northwood.edu/admissions/",
+      "snippet": "Apply to Northwood University in Michigan today. Find guidance ..."
+     },
+     {
+      "title": "About",
+      "link": "https://www.northwood.edu/about/",
+      "snippet": "Learn about Northwood University in Michigan: our history, mission ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Northwood University is among top undergraduate business schools with career-focused programs, real-world learning, and flexible degrees.",
+     "source_info_link": "https://www.northwood.edu/",
+     "icon": "https://serpapi.com/images/i/UklGRloBAABXRUJQVlA4IE4BAADwBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHXg9_RrbV3aSOTSQnknIKjxNCFTp67yk-yDYdh0CU256AgAAP5Emrr-OOuRQ5GON1UcpU8iJnhjPq1iNnH8fjNL8kXR_jdsjOFPgHo1bMPplGi8x7tfmD3U2Kgncyi4_9h1LncW4LXnzHucLrUJ6rCABlPb4_lhEdPNWdEZN57mng_FdBVf_4WUz22oWVAJbUKj535_cGBoM9qgr015yef1WT2IBrqgjtHN2GxpZqfQ0PAdQgE3hKTw35-X3wYcC_uD3_F2Axr-HnMoUnWsqkTpFl5PbWMjqf5-FOb7_4FFUNkp9QRvR4t1sTFF7I-tP5Sc8pTpu4J7wBs-nXg9Ckp81Sn8RgK3X5PzVCKopXSya0f0rR8NZ_42-g8DPtWBJtQpoAbRAXgXm16RB0EPfIAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Northwood University"
+  },
+  {
+   "position": 2,
+   "title": "Northwood University",
+   "link": "https://en.wikipedia.org/wiki/Northwood_University",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESagHrOzAVtY3hhzoVW5d2XfpmHa2aysnG29m9HthlpBwDGLp5qiB-JqXASOjrM6ppxj-wmJNP_R0awrKdYgjl4pDFJHA6Adg4qwMvwQL8CDNDDCbXXrjwQrpo7y0YgFesMp2GYdtC7vyNYKg&ved=2ahUKEwi6wPiJ6uSWAxXDGRAIHXIHFBIQFnoECCQQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Northwood_University",
+   "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+   "snippet": "Northwood University (NU) is a private university in Midland, Michigan, United States, and online. Founded in 1959, the university specializes in business and ...",
+   "snippet_highlighted_words": [
+    "private university in Midland, Michigan"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Northwood University (NU) is a private university in Midland, Michigan, United States, and online. Founded in 1959, the university specializes in business and ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Northwood_University",
+     "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Northwood_University#:~:text=Northwood%20University%20(NU)%20is%20a,university%20specializes%20in%20business%20and"
+  },
+  {
+   "position": 3,
+   "title": "Northwood School District: Home - Minong",
+   "link": "https://www.northwood.k12.wi.us/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWAHrOzAVMQk790kCicipfhfoH_xucSBknrD8XyoKzSXHxyso-7KiHNSMpB7eqxQU60i3MfOoY5lZ4sKwj9wUc3paWkZJx8dHZ6naS5jqITBLSl4_Am1o0bU&ved=2ahUKEwi6wPiJ6uSWAxXDGRAIHXIHFBIQFnoECCEQAQ&uoh=1",
+   "displayed_link": "https://www.northwood.k12.wi.us",
+   "favicon": "https://serpapi.com/images/i/UklGRqYBAABXRUJQVlA4IJoBAAAQCACdASodACAAPtE8tFooIigoFAEAGglmAJ0zWOWboA3aeAFwH5zXpL2Bd1VSuLTizrkOaBLzOi7IVtJcZLX_TDc6lHn6PhgAAP79vMpFSAKy5xG9fX3ZFWksN2RXXTU4OiB0IxHn9z_oJrzg1s_6n7_ztwtn6kWVeSYl7julpInXMoTyt6Zhx5f-qZGunr7LiIW7ghNV9AS82AWFpCj0U0TMfl2E-xOdoOU6KhETX39IwA_BDZo2IlsyGVsLUCzg8F0kX0rgCvdLw6_DPulTGeb3ql1g_6eSsmvUQADq_Isbo5SMd4nfN0WDhwqFjmXBxqcnd3ZRGRpTjCbHxCriPudnSOmMe69kbg-dbiSYOJlm706_naMd7pI2sNxbU3_yYWEoCOt-wUCu6aP-9IzmZdMSsf-k1xMREoP7VF-vzmd2E8coUiIASusa0xdrjnl6N1JNYpEcYqyneYMYsqcI7mpN2mV-eFu9jB9Ne91ZxMZx7JeY9h0RhuwHyY649ThUmodmQvaD9tyTTOmsA7mJGk6Y_GJf8ucAAA.webp",
+   "snippet": "The beliefs of the Northwood School District are: All individuals can learn although in different ways and at different rates. Learning is a lifelong process ...",
+   "snippet_highlighted_words": [
+    "All individuals can learn although in different ways and at different rates"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The beliefs of the Northwood School District are: All individuals can learn although in different ways and at different rates. Learning is a lifelong process ...",
+     "source_info_link": "https://www.northwood.k12.wi.us/",
+     "icon": "https://serpapi.com/images/i/UklGRqYBAABXRUJQVlA4IJoBAAAQCACdASodACAAPtE8tFooIigoFAEAGglmAJ0zWOWboA3aeAFwH5zXpL2Bd1VSuLTizrkOaBLzOi7IVtJcZLX_TDc6lHn6PhgAAP79vMpFSAKy5xG9fX3ZFWksN2RXXTU4OiB0IxHn9z_oJrzg1s_6n7_ztwtn6kWVeSYl7julpInXMoTyt6Zhx5f-qZGunr7LiIW7ghNV9AS82AWFpCj0U0TMfl2E-xOdoOU6KhETX39IwA_BDZo2IlsyGVsLUCzg8F0kX0rgCvdLw6_DPulTGeb3ql1g_6eSsmvUQADq_Isbo5SMd4nfN0WDhwqFjmXBxqcnd3ZRGRpTjCbHxCriPudnSOmMe69kbg-dbiSYOJlm706_naMd7pI2sNxbU3_yYWEoCOt-wUCu6aP-9IzmZdMSsf-k1xMREoP7VF-vzmd2E8coUiIASusa0xdrjnl6N1JNYpEcYqyneYMYsqcI7mpN2mV-eFu9jB9Ne91ZxMZx7JeY9h0RhuwHyY649ThUmodmQvaD9tyTTOmsA7mJGk6Y_GJf8ucAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Northwood School District",
+   "read_more_link": "https://www.northwood.k12.wi.us/#:~:text=The%20beliefs%20of%20the%20Northwood"
+  },
+  {
+   "position": 4,
+   "title": "Northwood University | Midland MI",
+   "link": "https://www.facebook.com/NorthwoodU/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXAHrOzAVRaE30IijCFDMRkd9R8xwgJALMrMO43jSVDoF7z0PKd43aIma69DiOPPA3sknE-BCox4sCt2ad_7ydKtmVGxY5b96B2pcrvgJoiF2cYE7X4A9xVh7vVAZ&ved=2ahUKEwi6wPiJ6uSWAxXDGRAIHXIHFBIQFnoECCUQAQ&uoh=1",
+   "displayed_link": "15.7K+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "snippet": "At Northwood, we're proud to prepare the next generation of leaders, entrepreneurs and professionals to work with purpose, pursue opportunity and make a ...",
+   "snippet_highlighted_words": [
+    "prepare the next generation of leaders, entrepreneurs and professionals"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "At Northwood, we're proud to prepare the next generation of leaders, entrepreneurs and professionals to work with purpose, pursue opportunity and make a ...",
+     "source_info_link": "https://www.facebook.com/NorthwoodU/",
+     "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Facebook \u00b7 Northwood University",
+   "read_more_link": "https://www.facebook.com/NorthwoodU/#:~:text=At%20Northwood%2C%20we're%20proud%20to,opportunity%20and%20make%20a%20difference."
+  },
+  {
+   "position": 5,
+   "title": "Northwood",
+   "link": "https://www.linkedin.com/company/northwood-space",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaAHrOzAVkPx63m89ebJ4pFWRewQYZQc0h6SVEx-nNF0h8H3iznqVnKIU-DEzYb-zJwfkhHFv8A_mRGoORkR6htSAYPyLyh_6EiINlkjmoapyL_cSuYwWL_9OO0CaaGN5HedBCp62ZMQ9&ved=2ahUKEwi6wPiJ6uSWAxXDGRAIHXIHFBIQFnoECCYQAQ&uoh=1",
+   "displayed_link": "43K+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp",
+   "snippet": "Northwood has raised over $136M since 2022, We're building a flexible, global space data network",
+   "snippet_highlighted_words": [
+    "has raised over $136M since 2022"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Northwood has raised over $136M since 2022, We're building a flexible, global space data network",
+     "source_info_link": "https://www.linkedin.com/company/northwood-space",
+     "icon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "LinkedIn \u00b7 Northwood"
+  },
+  {
+   "position": 6,
+   "title": "Northwood University - Profile, Rankings and Data",
+   "link": "https://www.usnews.com/best-colleges/northwood-university-8759",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHrOzAVz9I1j5p6G9dXU0Lt8VshtnqqlfsSKqjpJP6TM_UXqw0luMGxWCD8xChgentcJTERE2Qv1slP8FCaeVcMzF3kz5sdsluC4oVDgrdwmNYAjV3DCL6L5cuOYIoKaDXbD3XRz33kxebp_zB6XH5mAXInbmc&ved=2ahUKEwi6wPiJ6uSWAxXDGRAIHXIHFBIQFnoECCMQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a Education \u203a Colleges",
+   "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp",
+   "snippet": "Northwood University is a private institution that was founded in 1959. The school's tuition and fees are $35,900.",
+   "snippet_highlighted_words": [
+    "private institution that was founded in 1959"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Northwood University is a private institution that was founded in 1959. The school's tuition and fees are $35,900.",
+     "source_info_link": "https://www.usnews.com/best-colleges/northwood-university-8759",
+     "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "U.S. News & World Report"
+  },
+  {
+   "position": 7,
+   "title": "Northwood Village West Palm Beach: Things To Do & Events",
+   "link": "https://www.thepalmbeaches.com/explore-cities/northwood-village-west-palm-beach",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShwEB6zswFfVnzLiVYzlWQyALnfmQ_4JXdvcs8ATdYCpvcDrCc3sM-wobe3-iVgxI21XkJLNC3htafr8HNjRQXOOnc_xrQB3yfeuhdqnAFjgMJH0X7_g1ueVovmKyRn-gsggTC6Msp_-br_tBn38fKU0AlpZNAPU48TF1XqResxWarWEymRgF3Q0&ved=2ahUKEwi6wPiJ6uSWAxXDGRAIHXIHFBIQFnoECCIQAQ&uoh=1",
+   "displayed_link": "https://www.thepalmbeaches.com \u203a Explore Cities",
+   "favicon": "https://serpapi.com/images/i/UklGRu4AAABXRUJQVlA4IOIAAABwBQCdASocABwAPtEutFooIagoGAEAGglAAOoBagph_jNzQxmVY1tByPggfPSACe_bguAAAP72AOkVT03hTzwTJuYgTPmLqFS17u3Efgy0aWHM2Wny5K0R6aNPp3BGBAOUHOWg_fupU35P3xEWtfPsYuc1dNPy-DcX1KfevpP4NJQ_mtJkDGojj9X4AhmndN2aLuPdnO3tOyPtjfMAM3BVgJwik9ImEXFimtxX3wLG5-P2fCF27wOrapkXNlwRoI64AH8ZRnMJ6ZsWblCY51GxoxXKNj4AZxdbQWxT22vJAAAA.webp",
+   "snippet": "Northwood Village in West Palm Beach offers a great selection of enjoyable dining, small art galleries, and a monthly wine stroll.",
+   "snippet_highlighted_words": [
+    "enjoyable dining, small art galleries, and a monthly wine stroll"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Northwood Village in West Palm Beach offers a great selection of enjoyable dining, small art galleries, and a monthly wine stroll.",
+     "source_info_link": "https://www.thepalmbeaches.com/explore-cities/northwood-village-west-palm-beach",
+     "icon": "https://serpapi.com/images/i/UklGRu4AAABXRUJQVlA4IOIAAABwBQCdASocABwAPtEutFooIagoGAEAGglAAOoBagph_jNzQxmVY1tByPggfPSACe_bguAAAP72AOkVT03hTzwTJuYgTPmLqFS17u3Efgy0aWHM2Wny5K0R6aNPp3BGBAOUHOWg_fupU35P3xEWtfPsYuc1dNPy-DcX1KfevpP4NJQ_mtJkDGojj9X4AhmndN2aLuPdnO3tOyPtjfMAM3BVgJwik9ImEXFimtxX3wLG5-P2fCF27wOrapkXNlwRoI64AH8ZRnMJ6ZsWblCY51GxoxXKNj4AZxdbQWxT22vJAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "The Palm Beaches"
+  },
+  {
+   "position": 8,
+   "title": "Northwood University (@northwoodu) \u00b7 Midland, MI",
+   "link": "https://www.instagram.com/northwoodu/?hl=en",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVlH_0r5zbJBoxbWWllzJPNPrt8pYRC6y9b-SfAWT_DdUk0al-gsRKRxQZqCPCXNVznPU37ZS9WALbRYMT7Ga-tWXWWw2pyX7J8ZTTvCwdylzwZS-YAShEyLqIcZnonw&ved=2ahUKEwi6wPiJ6uSWAxXDGRAIHXIHFBIQFnoECCcQAQ&uoh=1",
+   "displayed_link": "8.3K+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+   "snippet": "The official account for Northwood University. At Northwood, you'll gain more than a degree. You'll build the skills, confidence and real-world experience",
+   "snippet_highlighted_words": [
+    "The official account for Northwood University"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The official account for Northwood University. At Northwood, you'll gain more than a degree. You'll build the skills, confidence and real-world experience",
+     "source_info_link": "https://www.instagram.com/northwoodu/?hl=en",
+     "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "source": "Instagram \u00b7 northwoodu"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Northwood Schools",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvAuItJTzh4uZz_SFqlbD43tTw3ng:1789071332358&q=Northwood+Schools&sa=X&ved=2ahUKEwi6wPiJ6uSWAxXDGRAIHXIHFBIQ1QJ6BAhVEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Northwood+Schools"
+  },
+  {
+   "block_position": 1,
+   "query": "Northwood Watford",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvAuItJTzh4uZz_SFqlbD43tTw3ng:1789071332358&q=Northwood+Watford&sa=X&ved=2ahUKEwi6wPiJ6uSWAxXDGRAIHXIHFBIQ1QJ6BAhZEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Northwood+Watford"
+  },
+  {
+   "block_position": 1,
+   "query": "Northwood company",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvAuItJTzh4uZz_SFqlbD43tTw3ng:1789071332358&q=Northwood+company&sa=X&ved=2ahUKEwi6wPiJ6uSWAxXDGRAIHXIHFBIQ1QJ6BAhYEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Northwood+company"
+  },
+  {
+   "block_position": 1,
+   "query": "Northwood university football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvAuItJTzh4uZz_SFqlbD43tTw3ng:1789071332358&q=Northwood+university+football&sa=X&ved=2ahUKEwi6wPiJ6uSWAxXDGRAIHXIHFBIQ1QJ6BAhXEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Northwood+university+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Northwood login",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvAuItJTzh4uZz_SFqlbD43tTw3ng:1789071332358&q=Northwood+login&sa=X&ved=2ahUKEwi6wPiJ6uSWAxXDGRAIHXIHFBIQ1QJ6BAhWEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Northwood+login"
+  },
+  {
+   "block_position": 1,
+   "query": "Northwood Terminal",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvAuItJTzh4uZz_SFqlbD43tTw3ng:1789071332358&q=Northwood+Terminal&sa=X&ved=2ahUKEwi6wPiJ6uSWAxXDGRAIHXIHFBIQ1QJ6BAhTEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Northwood+Terminal"
+  },
+  {
+   "block_position": 1,
+   "query": "Is Northwood University d1",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvAuItJTzh4uZz_SFqlbD43tTw3ng:1789071332358&q=Is+Northwood+University+d1&sa=X&ved=2ahUKEwi6wPiJ6uSWAxXDGRAIHXIHFBIQ1QJ6BAhUEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Is+Northwood+University+d1"
+  },
+  {
+   "block_position": 1,
+   "query": "Northwood University Automotive",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvAuItJTzh4uZz_SFqlbD43tTw3ng:1789071332358&q=Northwood+University+Automotive&sa=X&ved=2ahUKEwi6wPiJ6uSWAxXDGRAIHXIHFBIQ1QJ6BAhSEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Northwood+University+Automotive"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=northwood&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvAuItJTzh4uZz_SFqlbD43tTw3ng:1789071332358&ei=5A-jarq-FcOzwPAP8o7QkAE&start=10&sa=N&sstk=AS6-VmIwlcfHVrfnmVHHDUAqhFLX-rirIu8BFQWjGq1yIk3AFrJsQjg_YjuSA7aTqTrhf8fMifthDR5dxP7MmpEFH2LUV7mt2g2oEg&ved=2ahUKEwi6wPiJ6uSWAxXDGRAIHXIHFBIQ8NMDegQIQxAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=northwood&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvAuItJTzh4uZz_SFqlbD43tTw3ng:1789071332358&ei=5A-jarq-FcOzwPAP8o7QkAE&start=10&sa=N&sstk=AS6-VmIwlcfHVrfnmVHHDUAqhFLX-rirIu8BFQWjGq1yIk3AFrJsQjg_YjuSA7aTqTrhf8fMifthDR5dxP7MmpEFH2LUV7mt2g2oEg&ved=2ahUKEwi6wPiJ6uSWAxXDGRAIHXIHFBIQ8tMDegQIQxAE",
+   "3": "https://www.google.com/search?q=northwood&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvAuItJTzh4uZz_SFqlbD43tTw3ng:1789071332358&ei=5A-jarq-FcOzwPAP8o7QkAE&start=20&sa=N&sstk=AS6-VmIwlcfHVrfnmVHHDUAqhFLX-rirIu8BFQWjGq1yIk3AFrJsQjg_YjuSA7aTqTrhf8fMifthDR5dxP7MmpEFH2LUV7mt2g2oEg&ved=2ahUKEwi6wPiJ6uSWAxXDGRAIHXIHFBIQ8tMDegQIQxAG",
+   "4": "https://www.google.com/search?q=northwood&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvAuItJTzh4uZz_SFqlbD43tTw3ng:1789071332358&ei=5A-jarq-FcOzwPAP8o7QkAE&start=30&sa=N&sstk=AS6-VmIwlcfHVrfnmVHHDUAqhFLX-rirIu8BFQWjGq1yIk3AFrJsQjg_YjuSA7aTqTrhf8fMifthDR5dxP7MmpEFH2LUV7mt2g2oEg&ved=2ahUKEwi6wPiJ6uSWAxXDGRAIHXIHFBIQ8tMDegQIQxAI",
+   "5": "https://www.google.com/search?q=northwood&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvAuItJTzh4uZz_SFqlbD43tTw3ng:1789071332358&ei=5A-jarq-FcOzwPAP8o7QkAE&start=40&sa=N&sstk=AS6-VmIwlcfHVrfnmVHHDUAqhFLX-rirIu8BFQWjGq1yIk3AFrJsQjg_YjuSA7aTqTrhf8fMifthDR5dxP7MmpEFH2LUV7mt2g2oEg&ved=2ahUKEwi6wPiJ6uSWAxXDGRAIHXIHFBIQ8tMDegQIQxAK",
+   "6": "https://www.google.com/search?q=northwood&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvAuItJTzh4uZz_SFqlbD43tTw3ng:1789071332358&ei=5A-jarq-FcOzwPAP8o7QkAE&start=50&sa=N&sstk=AS6-VmIwlcfHVrfnmVHHDUAqhFLX-rirIu8BFQWjGq1yIk3AFrJsQjg_YjuSA7aTqTrhf8fMifthDR5dxP7MmpEFH2LUV7mt2g2oEg&ved=2ahUKEwi6wPiJ6uSWAxXDGRAIHXIHFBIQ8tMDegQIQxAM",
+   "7": "https://www.google.com/search?q=northwood&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvAuItJTzh4uZz_SFqlbD43tTw3ng:1789071332358&ei=5A-jarq-FcOzwPAP8o7QkAE&start=60&sa=N&sstk=AS6-VmIwlcfHVrfnmVHHDUAqhFLX-rirIu8BFQWjGq1yIk3AFrJsQjg_YjuSA7aTqTrhf8fMifthDR5dxP7MmpEFH2LUV7mt2g2oEg&ved=2ahUKEwi6wPiJ6uSWAxXDGRAIHXIHFBIQ8tMDegQIQxAO",
+   "8": "https://www.google.com/search?q=northwood&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvAuItJTzh4uZz_SFqlbD43tTw3ng:1789071332358&ei=5A-jarq-FcOzwPAP8o7QkAE&start=70&sa=N&sstk=AS6-VmIwlcfHVrfnmVHHDUAqhFLX-rirIu8BFQWjGq1yIk3AFrJsQjg_YjuSA7aTqTrhf8fMifthDR5dxP7MmpEFH2LUV7mt2g2oEg&ved=2ahUKEwi6wPiJ6uSWAxXDGRAIHXIHFBIQ8tMDegQIQxAQ",
+   "9": "https://www.google.com/search?q=northwood&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvAuItJTzh4uZz_SFqlbD43tTw3ng:1789071332358&ei=5A-jarq-FcOzwPAP8o7QkAE&start=80&sa=N&sstk=AS6-VmIwlcfHVrfnmVHHDUAqhFLX-rirIu8BFQWjGq1yIk3AFrJsQjg_YjuSA7aTqTrhf8fMifthDR5dxP7MmpEFH2LUV7mt2g2oEg&ved=2ahUKEwi6wPiJ6uSWAxXDGRAIHXIHFBIQ8tMDegQIQxAS",
+   "10": "https://www.google.com/search?q=northwood&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnvAuItJTzh4uZz_SFqlbD43tTw3ng:1789071332358&ei=5A-jarq-FcOzwPAP8o7QkAE&start=90&sa=N&sstk=AS6-VmIwlcfHVrfnmVHHDUAqhFLX-rirIu8BFQWjGq1yIk3AFrJsQjg_YjuSA7aTqTrhf8fMifthDR5dxP7MmpEFH2LUV7mt2g2oEg&ved=2ahUKEwi6wPiJ6uSWAxXDGRAIHXIHFBIQ8tMDegQIQxAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=northwood&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=northwood&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=northwood&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=northwood&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=northwood&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=northwood&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=northwood&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=northwood&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=northwood&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=northwood&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=northwood&start=90"
+  }
+ }
+}

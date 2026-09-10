@@ -1,0 +1,430 @@
+{
+ "search_information": {
+  "query_displayed": "\"Salem High School\" Virginia",
+  "total_results": 820000,
+  "time_taken_displayed": 0.33,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "local_map": {
+  "image": "https://www.google.com/maps/vt/data=LmWq3ndTko6gO8z06FOrLEA-pKMYqUgSZv0bDoQtrf77YNhzt1kgVRYm5Zj3T8X5XOrfkem69_YkJDsxian88fsVEDIZjLa8G6Uc2rLMW0rRljXiVBRRhaGpFRpuTtJP0qEpkQUZOjDGjhH5Gnkkl17SuzTjNNxezFn7yk3tbNv7afTJ8cLY4ayL0Pm0JqkhPt4ckcjLs5sNMw0ba0APSVk6GwY-71pwq-gxT5bPt2klrb4IW95bhed3kubTJLGEgqUtTA3XaUwSokya_Cr1OpKaKS54sYvNjAffXB939eVnJxEpZ9v_-UxErMEGWLAWkwziywZDzL1Nfo3hikrT5e9qjYGIrgNIV-mJx8BIfGBNlm-8wh3s5kl2DRw",
+  "gps_coordinates": {
+   "latitude": 37.16031654673677,
+   "longitude": -78.11279296875
+  }
+ },
+ "local_results": {
+  "places": [
+   {
+    "position": 1,
+    "links": {
+     "website": "https://shs.salem.k12.va.us/",
+     "directions": "https://www.google.com/maps/dir//Salem+High+School,+Salem+Va,+400+Spartan+Dr,+Salem,+VA+24153/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x884d0b005553677b:0xe0804103b331d0b7?sa=X&ved=2ahUKEwjH86mF7OSWAxVa78kDHVE8NjcQ48ADegQIGBAA&hl=en&gl=us"
+    },
+    "place_id": "16177001345661915319",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=16177001345661915319&q=%22Salem+High+School%22+Virginia",
+    "provider_id": "/m/0dbphs",
+    "gps_coordinates": {
+     "latitude": 37.295681,
+     "longitude": -80.079315
+    },
+    "title": "Salem High School, Salem Va",
+    "reviews_original": "No reviews",
+    "type": "High school",
+    "phone": "(540) 387-2437",
+    "address": "Salem, VA",
+    "hours": "Closed \u00b7 Opens 8 AM Fri"
+   },
+   {
+    "position": 2,
+    "links": {
+     "website": "https://salemhs.vbschools.com/",
+     "directions": "https://www.google.com/maps/dir//Salem+High+School,+1993+Sundevil+Dr,+Virginia+Beach,+VA+23464/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89babe5816f53b6b:0xcd809bafd8c30e6c?sa=X&ved=2ahUKEwjH86mF7OSWAxVa78kDHVE8NjcQ48ADegQIGRAA&hl=en&gl=us"
+    },
+    "place_id": "14808006754352434796",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=14808006754352434796&q=%22Salem+High+School%22+Virginia",
+    "provider_id": "/m/0dt_v6",
+    "gps_coordinates": {
+     "latitude": 36.783132,
+     "longitude": -76.143815
+    },
+    "title": "Salem High School",
+    "reviews_original": "No reviews",
+    "type": "High school",
+    "phone": "(757) 648-5650",
+    "address": "Virginia Beach, VA",
+    "hours": "Closed \u00b7 Opens 7 AM Fri"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "How many kids go to Salem High School, VA?",
+   "type": "ai_overview",
+   "page_token": "42r0bnicHdDbboIwGADg7GW8VBB1amKWMWvFCaYt_YHeLNCiHMpBZeK827vsqfY0S_Y9wvf9o_O6_H26ZV3XXpejUd_3w1PTnHQ6lE01iq9ftRzJWOskluVy9jwzX45yhT4d--3s2IS3Laypwfh9rEL9nlbRhIHIgrA0oKB7CV7Fy3ZDDdG7tQJl7m4SRBGBuLjVouV4mqdb7RCLNmmxQ7zQNUcQR4Xtw8MjngVXN3yd8lDs2dbmLhIP4os8Ri1mG9VxX3gMbexgTcZEa1Ngw-KlY3J_5xBQzIMMJwZ1paHMOIBO4LZJzMb0DeXuYT6mXN2VPhmKzy2ohc228kHrrEaZnKRInaNgoRXXpaygP6wpcbE4ByFQnzY54fQhC10BXlgpphFD2SHB0zDAyk2QKOTYYwxnHt0sctEPjvK2sgb_n6uPY9Ut20tz-gM-FILj",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=42r0bnicHdDbboIwGADg7GW8VBB1amKWMWvFCaYt_YHeLNCiHMpBZeK827vsqfY0S_Y9wvf9o_O6_H26ZV3XXpejUd_3w1PTnHQ6lE01iq9ftRzJWOskluVy9jwzX45yhT4d--3s2IS3Laypwfh9rEL9nlbRhIHIgrA0oKB7CV7Fy3ZDDdG7tQJl7m4SRBGBuLjVouV4mqdb7RCLNmmxQ7zQNUcQR4Xtw8MjngVXN3yd8lDs2dbmLhIP4os8Ri1mG9VxX3gMbexgTcZEa1Ngw-KlY3J_5xBQzIMMJwZ1paHMOIBO4LZJzMb0DeXuYT6mXN2VPhmKzy2ohc228kHrrEaZnKRInaNgoRXXpaygP6wpcbE4ByFQnzY54fQhC10BXlgpphFD2SHB0zDAyk2QKOTYYwxnHt0sctEPjvK2sgb_n6uPY9Ut20tz-gM-FILj",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1tUTRVR3MyUldaMFdrZFdhakE0Y0dOTlp6TmFZekpTYlVOQ1EzZHZRazFGVjBSWVlrdzBMV1p3WVdWMVZrdHhjV0ZyTjFCVlZXUXpWSEl4YXpKTU1XcDJlWFZXVEZGakxXaGlhbXBsT0RGNFowd3dUSGN0TTBWdlFSSVhPSGhIYW1GdlpYVkpaSEpsY0RnMFVEQm1hbGwxVVUwYUlrRkVjM0k1WmxReVRVeE9aVnAxUVVad2FGcE5ZMVpVWjNwRExXTmtNWGRaZEdjIiwiZmN2IjoiMyIsImVpIjoiOHhHamFvZXVJZHJlcDg0UDBmall1UU0iLCJxYyI6IkNocHpZV3hsYlNCb2FXZG9JSE5qYUc5dmJDQjJhWEpuYVc1cFlSQUFmYUtYT2o4IiwicXVlc3Rpb24iOiJIb3cgbWFueSBraWRzIGdvIHRvIFNhbGVtIEhpZ2ggU2Nob29sLCBWQT8iLCJsayI6IkdpaG9iM2NnYldGdWVTQnJhV1J6SUdkdklIUnZJSE5oYkdWdElHaHBaMmdnYzJOb2IyOXNJSFpoIiwiYnMiOiJjMjNPc1F1Q1FCVEhjVnJmMUJSeVJEeG9xS3locEYzYW5CTzB4a2ZhM2FIZWdXZUtfMzJjV2xnNF96N3Z5NE1idUlGdXNDRFZZaVlUZzF4anBUR2tQQzB3a0Z4Zy1CQmE1d2VNTHI3bnNxMlkwS2JUd21yVGFhd0p6dURFb2tWcC1wZ040Sk1LX1RLLTU3QkYwMl85YVUzREJGYzR4b0txNzluNGg0M0JrbFFtRlVlcE1KSWxsMHFTNzYzWWN1cURENFk3dUYxemxMSjlPNmNKcmstX3RUM2JOVmFQWV8tNkh2Ujg5Z1kiLCJpZCI6ImZjXzh4R2phb2V1SWRyZXA4NFAwZmpZdVFNXzYifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1tUTRVR3MyUldaMFdrZFdhakE0Y0dOTlp6TmFZekpTYlVOQ1EzZHZRazFGVjBSWVlrdzBMV1p3WVdWMVZrdHhjV0ZyTjFCVlZXUXpWSEl4YXpKTU1XcDJlWFZXVEZGakxXaGlhbXBsT0RGNFowd3dUSGN0TTBWdlFSSVhPSGhIYW1GdlpYVkpaSEpsY0RnMFVEQm1hbGwxVVUwYUlrRkVjM0k1WmxReVRVeE9aVnAxUVVad2FGcE5ZMVpVWjNwRExXTmtNWGRaZEdjIiwiZmN2IjoiMyIsImVpIjoiOHhHamFvZXVJZHJlcDg0UDBmall1UU0iLCJxYyI6IkNocHpZV3hsYlNCb2FXZG9JSE5qYUc5dmJDQjJhWEpuYVc1cFlSQUFmYUtYT2o4IiwicXVlc3Rpb24iOiJIb3cgbWFueSBraWRzIGdvIHRvIFNhbGVtIEhpZ2ggU2Nob29sLCBWQT8iLCJsayI6IkdpaG9iM2NnYldGdWVTQnJhV1J6SUdkdklIUnZJSE5oYkdWdElHaHBaMmdnYzJOb2IyOXNJSFpoIiwiYnMiOiJjMjNPc1F1Q1FCVEhjVnJmMUJSeVJEeG9xS3locEYzYW5CTzB4a2ZhM2FIZWdXZUtfMzJjV2xnNF96N3Z5NE1idUlGdXNDRFZZaVlUZzF4anBUR2tQQzB3a0Z4Zy1CQmE1d2VNTHI3bnNxMlkwS2JUd21yVGFhd0p6dURFb2tWcC1wZ040Sk1LX1RLLTU3QkYwMl85YVUzREJGYzR4b0txNzluNGg0M0JrbFFtRlVlcE1KSWxsMHFTNzYzWWN1cURENFk3dUYxemxMSjlPNmNKcmstX3RUM2JOVmFQWV8tNkh2Ujg5Z1kiLCJpZCI6ImZjXzh4R2phb2V1SWRyZXA4NFAwZmpZdVFNXzYifQ%3D%3D"
+  },
+  {
+   "question": "Why is Salem, VA famous?",
+   "type": "ai_overview",
+   "page_token": "w3jMqnicHdDNboIwAADg7GU8jj_noolZ7ORHImUUWrCXBQrSSguNGhFve5c91Z5my67f8fv6lqLvfp4Kfr3qy8owxnF8boehlc0zG5RRXqaeGayUsipZt1q8Lqy3I1u7lxG8DyNIsNZki8zUWu6pBZJEol1hm05cgLIp6jjPvUXqartxURLhUKDAnWDGCTkhgJWGyJe3KG-nwob6z06so3mm7n2-pThy4Rar-lxZOiGE7HJ_blaqnmJ_SWhPh6YLE-p4AuKr2GchL03eNwUQVSBHlnGZBtiK8f2j7syXGNMdVTXMXEJwz0WTRan34HNka17ZxEpzNNFiM4feZqRK05p40BchQAGc4pziUrIJPZiJHQoTB6ZZ7z2o7_kHYZWHk5c2mIPZkd3Wzux_bP15VNeVPg_tL1PUeSE",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=w3jMqnicHdDNboIwAADg7GU8jj_noolZ7ORHImUUWrCXBQrSSguNGhFve5c91Z5my67f8fv6lqLvfp4Kfr3qy8owxnF8boehlc0zG5RRXqaeGayUsipZt1q8Lqy3I1u7lxG8DyNIsNZki8zUWu6pBZJEol1hm05cgLIp6jjPvUXqartxURLhUKDAnWDGCTkhgJWGyJe3KG-nwob6z06so3mm7n2-pThy4Rar-lxZOiGE7HJ_blaqnmJ_SWhPh6YLE-p4AuKr2GchL03eNwUQVSBHlnGZBtiK8f2j7syXGNMdVTXMXEJwz0WTRan34HNka17ZxEpzNNFiM4feZqRK05p40BchQAGc4pziUrIJPZiJHQoTB6ZZ7z2o7_kHYZWHk5c2mIPZkd3Wzux_bP15VNeVPg_tL1PUeSE",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1tUTRVR3MyUldaMFdrZFdhakE0Y0dOTlp6TmFZekpTYlVOQ1EzZHZRazFGVjBSWVlrdzBMV1p3WVdWMVZrdHhjV0ZyTjFCVlZXUXpWSEl4YXpKTU1XcDJlWFZXVEZGakxXaGlhbXBsT0RGNFowd3dUSGN0TTBWdlFSSVhPSGhIYW1GdlpYVkpaSEpsY0RnMFVEQm1hbGwxVVUwYUlrRkVjM0k1WmxReVRVeE9aVnAxUVVad2FGcE5ZMVpVWjNwRExXTmtNWGRaZEdjIiwiZmN2IjoiMyIsImVpIjoiOHhHamFvZXVJZHJlcDg0UDBmall1UU0iLCJxYyI6IkNocHpZV3hsYlNCb2FXZG9JSE5qYUc5dmJDQjJhWEpuYVc1cFlSQUFmYUtYT2o4IiwicXVlc3Rpb24iOiJXaHkgaXMgU2FsZW0sIFZBIGZhbW91cz8iLCJsayI6IkdoWjNhSGtnYVhNZ2MyRnNaVzBnZG1FZ1ptRnRiM1Z6IiwiYnMiOiJjMjNPc1F1Q1FCVEhjVnJmMUJSeVJEeG9xS3locEYzYW5CTzB4a2ZhM2FIZWdXZUtfMzJjV2xnNF96N3Z5NE1idUlGdXNDRFZZaVlUZzF4anBUR2tQQzB3a0Z4Zy1CQmE1d2VNTHI3bnNxMlkwS2JUd21yVGFhd0p6dURFb2tWcC1wZ040Sk1LX1RLLTU3QkYwMl85YVUzREJGYzR4b0txNzluNGg0M0JrbFFtRlVlcE1KSWxsMHFTNzYzWWN1cURENFk3dUYxemxMSjlPNmNKcmstX3RUM2JOVmFQWV8tNkh2Ujg5Z1kiLCJpZCI6ImZjXzh4R2phb2V1SWRyZXA4NFAwZmpZdVFNXzYifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1tUTRVR3MyUldaMFdrZFdhakE0Y0dOTlp6TmFZekpTYlVOQ1EzZHZRazFGVjBSWVlrdzBMV1p3WVdWMVZrdHhjV0ZyTjFCVlZXUXpWSEl4YXpKTU1XcDJlWFZXVEZGakxXaGlhbXBsT0RGNFowd3dUSGN0TTBWdlFSSVhPSGhIYW1GdlpYVkpaSEpsY0RnMFVEQm1hbGwxVVUwYUlrRkVjM0k1WmxReVRVeE9aVnAxUVVad2FGcE5ZMVpVWjNwRExXTmtNWGRaZEdjIiwiZmN2IjoiMyIsImVpIjoiOHhHamFvZXVJZHJlcDg0UDBmall1UU0iLCJxYyI6IkNocHpZV3hsYlNCb2FXZG9JSE5qYUc5dmJDQjJhWEpuYVc1cFlSQUFmYUtYT2o4IiwicXVlc3Rpb24iOiJXaHkgaXMgU2FsZW0sIFZBIGZhbW91cz8iLCJsayI6IkdoWjNhSGtnYVhNZ2MyRnNaVzBnZG1FZ1ptRnRiM1Z6IiwiYnMiOiJjMjNPc1F1Q1FCVEhjVnJmMUJSeVJEeG9xS3locEYzYW5CTzB4a2ZhM2FIZWdXZUtfMzJjV2xnNF96N3Z5NE1idUlGdXNDRFZZaVlUZzF4anBUR2tQQzB3a0Z4Zy1CQmE1d2VNTHI3bnNxMlkwS2JUd21yVGFhd0p6dURFb2tWcC1wZ040Sk1LX1RLLTU3QkYwMl85YVUzREJGYzR4b0txNzluNGg0M0JrbFFtRlVlcE1KSWxsMHFTNzYzWWN1cURENFk3dUYxemxMSjlPNmNKcmstX3RUM2JOVmFQWV8tNkh2Ujg5Z1kiLCJpZCI6ImZjXzh4R2phb2V1SWRyZXA4NFAwZmpZdVFNXzYifQ%3D%3D"
+  },
+  {
+   "question": "What is Salem High School's ranking in Virginia?",
+   "type": "ai_overview",
+   "page_token": "STz_CHicHdBNjtowGABQ9TKzHPLnqYqERgrE6aQEZGN_Nt5UiRMIiZN4IGBg1yv0DD1VT1Op7wjv1x9zGrq_X34302Qv89nMOfd6HMejqV_12M-Ky2PQM10YUxa6m799ffPfD3qR3HS8POuYcGthRb1dd29z2fmQ2scO4mmb4DVbek4ZEwvWobVQPvEhJDLDhZd45Xd70gMGzhHPn9yjDDKaErcPs4EG97MWk6oxpSrFRHcIICFR3VZXCHyW9_5aBiBVMD5Ugl3BmgMJgFc9QUVLGyarJeFgeIdumwDZnfcRrsUkpB9flKysEEqxBN1y2FyrEKLdYPdsoK5M7UYB_gFBFm9TetVtHGhcXaDHiMB4F7ARerBh0uioTqrPvfhmKm463YPbrijJU_UpJFBGxxPh9Klb0_PAutyopxLYUZn19eojKr0mKoeqUR4gKiwm5OWgb4vw5f_14uehn-b2PB7_AaJ6jMM",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=STz_CHicHdBNjtowGABQ9TKzHPLnqYqERgrE6aQEZGN_Nt5UiRMIiZN4IGBg1yv0DD1VT1Op7wjv1x9zGrq_X34302Qv89nMOfd6HMejqV_12M-Ky2PQM10YUxa6m799ffPfD3qR3HS8POuYcGthRb1dd29z2fmQ2scO4mmb4DVbek4ZEwvWobVQPvEhJDLDhZd45Xd70gMGzhHPn9yjDDKaErcPs4EG97MWk6oxpSrFRHcIICFR3VZXCHyW9_5aBiBVMD5Ugl3BmgMJgFc9QUVLGyarJeFgeIdumwDZnfcRrsUkpB9flKysEEqxBN1y2FyrEKLdYPdsoK5M7UYB_gFBFm9TetVtHGhcXaDHiMB4F7ARerBh0uioTqrPvfhmKm463YPbrijJU_UpJFBGxxPh9Klb0_PAutyopxLYUZn19eojKr0mKoeqUR4gKiwm5OWgb4vw5f_14uehn-b2PB7_AaJ6jMM",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1tUTRVR3MyUldaMFdrZFdhakE0Y0dOTlp6TmFZekpTYlVOQ1EzZHZRazFGVjBSWVlrdzBMV1p3WVdWMVZrdHhjV0ZyTjFCVlZXUXpWSEl4YXpKTU1XcDJlWFZXVEZGakxXaGlhbXBsT0RGNFowd3dUSGN0TTBWdlFSSVhPSGhIYW1GdlpYVkpaSEpsY0RnMFVEQm1hbGwxVVUwYUlrRkVjM0k1WmxReVRVeE9aVnAxUVVad2FGcE5ZMVpVWjNwRExXTmtNWGRaZEdjIiwiZmN2IjoiMyIsImVpIjoiOHhHamFvZXVJZHJlcDg0UDBmall1UU0iLCJxYyI6IkNocHpZV3hsYlNCb2FXZG9JSE5qYUc5dmJDQjJhWEpuYVc1cFlSQUFmYUtYT2o4IiwicXVlc3Rpb24iOiJXaGF0IGlzIFNhbGVtIEhpZ2ggU2Nob29sJ3MgcmFua2luZyBpbiBWaXJnaW5pYT8iLCJsayI6IkdoeHpZV3hsYlNCb2FXZG9JSE5qYUc5dmJDQjJZU0J5WVc1cmFXNW4iLCJicyI6ImMyM09zUXVDUUJUSGNWcmYxQlJ5UkR4b3FLeWhwRjNhbkJPMHhrZmEzYUhlZ1dlS18zMmNXbGc0X3o3dnk0TWJ1SUZ1c0NEVllpWVRnMXhqcFRHa1BDMHdrRnhnLUJCYTV3ZU1Mcjduc3EyWTBLYlR3bXJUYWF3Snp1REVva1ZwLXBnTjRKTUtfVEstNTdCRjAyXzlhVTNEQkZjNHhvS3E3OW40aDQzQmtsUW1GVWVwTUpJbGwwcVM3NjNZY3VxREQ0WTd1RjF6bExKOU82Y0pyay1fdFQzYk5WYVBZXy02SHZSODlnWSIsImlkIjoiZmNfOHhHamFvZXVJZHJlcDg0UDBmall1UU1fNiJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1tUTRVR3MyUldaMFdrZFdhakE0Y0dOTlp6TmFZekpTYlVOQ1EzZHZRazFGVjBSWVlrdzBMV1p3WVdWMVZrdHhjV0ZyTjFCVlZXUXpWSEl4YXpKTU1XcDJlWFZXVEZGakxXaGlhbXBsT0RGNFowd3dUSGN0TTBWdlFSSVhPSGhIYW1GdlpYVkpaSEpsY0RnMFVEQm1hbGwxVVUwYUlrRkVjM0k1WmxReVRVeE9aVnAxUVVad2FGcE5ZMVpVWjNwRExXTmtNWGRaZEdjIiwiZmN2IjoiMyIsImVpIjoiOHhHamFvZXVJZHJlcDg0UDBmall1UU0iLCJxYyI6IkNocHpZV3hsYlNCb2FXZG9JSE5qYUc5dmJDQjJhWEpuYVc1cFlSQUFmYUtYT2o4IiwicXVlc3Rpb24iOiJXaGF0IGlzIFNhbGVtIEhpZ2ggU2Nob29sJ3MgcmFua2luZyBpbiBWaXJnaW5pYT8iLCJsayI6IkdoeHpZV3hsYlNCb2FXZG9JSE5qYUc5dmJDQjJZU0J5WVc1cmFXNW4iLCJicyI6ImMyM09zUXVDUUJUSGNWcmYxQlJ5UkR4b3FLeWhwRjNhbkJPMHhrZmEzYUhlZ1dlS18zMmNXbGc0X3o3dnk0TWJ1SUZ1c0NEVllpWVRnMXhqcFRHa1BDMHdrRnhnLUJCYTV3ZU1Mcjduc3EyWTBLYlR3bXJUYWF3Snp1REVva1ZwLXBnTjRKTUtfVEstNTdCRjAyXzlhVTNEQkZjNHhvS3E3OW40aDQzQmtsUW1GVWVwTUpJbGwwcVM3NjNZY3VxREQ0WTd1RjF6bExKOU82Y0pyay1fdFQzYk5WYVBZXy02SHZSODlnWSIsImlkIjoiZmNfOHhHamFvZXVJZHJlcDg0UDBmall1UU1fNiJ9"
+  },
+  {
+   "question": "What High School is ranked #1 in Virginia?",
+   "type": "ai_overview",
+   "page_token": "x58LynicHdDbboIwAADQ7Gd8HC2KGyZmiVrwwiWtvVBeFiwoYgs4mTje9i_7qn3Nkp1PON8_-lxffp_uZde1t5ll9X3_fGqaky6eVWOs7PZVK0tlWh8ydZlNX6bw7ajm6HOzWF43C8zalq8I2Ju8otCrcgRrLDpb6VdYJE1faPeu2MNLKwYLv1se2BYTqJwEREFOuQjENlbrMsBGS2w4yi6tJMmpS1F7V56XxgjbWGhG_XIX-44TMmQLET6IkIAyzjhvHmqQIKRkFzHyIEOUUk9DabelHLyOjzcOBVzuTRocqKaFJlxURJK6DVPkejnIOfGxE3tufQAQZcbt9uOyRqWaFCi_SuHqnOmLMryPVwSHfnoVCSeUNGfMyKAqbZiIpgJFg1jnk3i9uEaVGjNNbAy2cWIDmFU8Znh0VPf5ePT_OX8_mm7WfjSnPxaAgm4",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=x58LynicHdDbboIwAADQ7Gd8HC2KGyZmiVrwwiWtvVBeFiwoYgs4mTje9i_7qn3Nkp1PON8_-lxffp_uZde1t5ll9X3_fGqaky6eVWOs7PZVK0tlWh8ydZlNX6bw7ajm6HOzWF43C8zalq8I2Ju8otCrcgRrLDpb6VdYJE1faPeu2MNLKwYLv1se2BYTqJwEREFOuQjENlbrMsBGS2w4yi6tJMmpS1F7V56XxgjbWGhG_XIX-44TMmQLET6IkIAyzjhvHmqQIKRkFzHyIEOUUk9DabelHLyOjzcOBVzuTRocqKaFJlxURJK6DVPkejnIOfGxE3tufQAQZcbt9uOyRqWaFCi_SuHqnOmLMryPVwSHfnoVCSeUNGfMyKAqbZiIpgJFg1jnk3i9uEaVGjNNbAy2cWIDmFU8Znh0VPf5ePT_OX8_mm7WfjSnPxaAgm4",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1tUTRVR3MyUldaMFdrZFdhakE0Y0dOTlp6TmFZekpTYlVOQ1EzZHZRazFGVjBSWVlrdzBMV1p3WVdWMVZrdHhjV0ZyTjFCVlZXUXpWSEl4YXpKTU1XcDJlWFZXVEZGakxXaGlhbXBsT0RGNFowd3dUSGN0TTBWdlFSSVhPSGhIYW1GdlpYVkpaSEpsY0RnMFVEQm1hbGwxVVUwYUlrRkVjM0k1WmxReVRVeE9aVnAxUVVad2FGcE5ZMVpVWjNwRExXTmtNWGRaZEdjIiwiZmN2IjoiMyIsImVpIjoiOHhHamFvZXVJZHJlcDg0UDBmall1UU0iLCJxYyI6IkNocHpZV3hsYlNCb2FXZG9JSE5qYUc5dmJDQjJhWEpuYVc1cFlSQUFmYUtYT2o4IiwicXVlc3Rpb24iOiJXaGF0IEhpZ2ggU2Nob29sIGlzIHJhbmtlZCAjMSBpbiBWaXJnaW5pYT8iLCJsayI6IkdpbDNhR0YwSUdocFoyZ2djMk5vYjI5c0lHbHpJSEpoYm10bFpDQWpNU0JwYmlCMmFYSm5hVzVwWVEiLCJicyI6ImMyM09zUXVDUUJUSGNWcmYxQlJ5UkR4b3FLeWhwRjNhbkJPMHhrZmEzYUhlZ1dlS18zMmNXbGc0X3o3dnk0TWJ1SUZ1c0NEVllpWVRnMXhqcFRHa1BDMHdrRnhnLUJCYTV3ZU1Mcjduc3EyWTBLYlR3bXJUYWF3Snp1REVva1ZwLXBnTjRKTUtfVEstNTdCRjAyXzlhVTNEQkZjNHhvS3E3OW40aDQzQmtsUW1GVWVwTUpJbGwwcVM3NjNZY3VxREQ0WTd1RjF6bExKOU82Y0pyay1fdFQzYk5WYVBZXy02SHZSODlnWSIsImlkIjoiZmNfOHhHamFvZXVJZHJlcDg0UDBmall1UU1fNiJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1tUTRVR3MyUldaMFdrZFdhakE0Y0dOTlp6TmFZekpTYlVOQ1EzZHZRazFGVjBSWVlrdzBMV1p3WVdWMVZrdHhjV0ZyTjFCVlZXUXpWSEl4YXpKTU1XcDJlWFZXVEZGakxXaGlhbXBsT0RGNFowd3dUSGN0TTBWdlFSSVhPSGhIYW1GdlpYVkpaSEpsY0RnMFVEQm1hbGwxVVUwYUlrRkVjM0k1WmxReVRVeE9aVnAxUVVad2FGcE5ZMVpVWjNwRExXTmtNWGRaZEdjIiwiZmN2IjoiMyIsImVpIjoiOHhHamFvZXVJZHJlcDg0UDBmall1UU0iLCJxYyI6IkNocHpZV3hsYlNCb2FXZG9JSE5qYUc5dmJDQjJhWEpuYVc1cFlSQUFmYUtYT2o4IiwicXVlc3Rpb24iOiJXaGF0IEhpZ2ggU2Nob29sIGlzIHJhbmtlZCAjMSBpbiBWaXJnaW5pYT8iLCJsayI6IkdpbDNhR0YwSUdocFoyZ2djMk5vYjI5c0lHbHpJSEpoYm10bFpDQWpNU0JwYmlCMmFYSm5hVzVwWVEiLCJicyI6ImMyM09zUXVDUUJUSGNWcmYxQlJ5UkR4b3FLeWhwRjNhbkJPMHhrZmEzYUhlZ1dlS18zMmNXbGc0X3o3dnk0TWJ1SUZ1c0NEVllpWVRnMXhqcFRHa1BDMHdrRnhnLUJCYTV3ZU1Mcjduc3EyWTBLYlR3bXJUYWF3Snp1REVva1ZwLXBnTjRKTUtfVEstNTdCRjAyXzlhVTNEQkZjNHhvS3E3OW40aDQzQmtsUW1GVWVwTUpJbGwwcVM3NjNZY3VxREQ0WTd1RjF6bExKOU82Y0pyay1fdFQzYk5WYVBZXy02SHZSODlnWSIsImlkIjoiZmNfOHhHamFvZXVJZHJlcDg0UDBmall1UU1fNiJ9"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Salem High School: Home",
+   "link": "https://shs.salem.k12.va.us/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVAHrOzAV7MfIKF73V2PtiBOcVBMbV9i1QyJBROJ5DM8-e-SG87IDFrvixLCWIFOvVK84lZroCa0xYwVYpgIySV_oGXX_woFyH8sYqNEyEDeDcwXW9g&ved=2ahUKEwjH86mF7OSWAxVa78kDHVE8NjcQFnoECDUQAQ&uoh=1",
+   "displayed_link": "https://shs.salem.k12.va.us",
+   "favicon": "https://serpapi.com/images/i/UklGRqQAAABXRUJQVlA4IJgAAACQAgCdASoQABAAAsBMJYgAEQG8VruAiFU1Zl_YAAD--a32HshY7OH0HyhiFDffTiRqxTmzOkc2V684nQGLi0iNT39s5JBiQyVDTtoo6vnjlv9KU_f1FIQ8IBBNUul9KJzDlD2kh-i6_AvUE-22ORCLWaoh7EXEx38B_w9jI1nGlZAGfohi5flVAV3EFmMoSZfzBJfAEPgAAA.webp",
+   "snippet": "U.S. News & World Report has ranked Salem High School #48 in Virginia and #2 in the Roanoke Valley! Just four years ago, Salem High was ranked #208 in Virginia ...",
+   "snippet_highlighted_words": [
+    "Salem High School",
+    "Virginia",
+    "Virginia"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "Athletics",
+      "link": "https://shs.salem.k12.va.us/athleticsactivities",
+      "snippet": "Salem High School \u00b7 Administration \u00b7 Faculty List ..."
+     },
+     {
+      "title": "Calendar",
+      "link": "https://shs.salem.k12.va.us/calendar",
+      "snippet": "Salem High School. Export. Month. Month; Week; Day; List ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "U.S. News & World Report has ranked Salem High School #48 in Virginia and #2 in the Roanoke Valley! Just four years ago, Salem High was ranked #208 in Virginia ...",
+     "source_info_link": "https://shs.salem.k12.va.us/",
+     "icon": "https://serpapi.com/images/i/UklGRqQAAABXRUJQVlA4IJgAAACQAgCdASoQABAAAsBMJYgAEQG8VruAiFU1Zl_YAAD--a32HshY7OH0HyhiFDffTiRqxTmzOkc2V684nQGLi0iNT39s5JBiQyVDTtoo6vnjlv9KU_f1FIQ8IBBNUul9KJzDlD2kh-i6_AvUE-22ORCLWaoh7EXEx38B_w9jI1nGlZAGfohi5flVAV3EFmMoSZfzBJfAEPgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESVAHrOzAV7MfIKF73V2PtiBOcVBMbV9i1QyJBROJ5DM8-e-SG87IDFrvixLCWIFOvVK84lZroCa0xYwVYpgIySV_oGXX_woFyH8sYqNEyEDeDcwXW9g&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESVAHrOzAV7MfIKF73V2PtiBOcVBMbV9i1QyJBROJ5DM8-e-SG87IDFrvixLCWIFOvVK84lZroCa0xYwVYpgIySV_oGXX_woFyH8sYqNEyEDeDcwXW9g",
+   "source": "Salem High School Website"
+  },
+  {
+   "position": 2,
+   "title": "Salem High School (Salem, Virginia)",
+   "link": "https://en.wikipedia.org/wiki/Salem_High_School_(Salem,_Virginia)",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAVzG90Ae487Eg6pWSJXkQQRtSx1wQz4GpUWnLKCQ1gIhsWQeEJ_6jy3s_TvC5H_nWq0KmXHUGWQTRdIZ2saWF6iKV7faGg8A1pi1ATAq9-o0hyKZjtvMRFVkvQR5mfid7uzQp_70n6KNyAd6KPGPDROL918yI&ved=2ahUKEwjH86mF7OSWAxVa78kDHVE8NjcQFnoECCYQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Salem_High_School_(...",
+   "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+   "snippet": "Salem High School is a public high school in Salem, Virginia. It is the sole high school for the City of Salem public school system.",
+   "snippet_highlighted_words": [
+    "Salem High School",
+    "Virginia"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Salem High School is a public high school in Salem, Virginia. It is the sole high school for the City of Salem public school system.",
+     "source_info_link": "https://en.wikipedia.org/wiki/Salem_High_School_(Salem,_Virginia)",
+     "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESeQHrOzAVzG90Ae487Eg6pWSJXkQQRtSx1wQz4GpUWnLKCQ1gIhsWQeEJ_6jy3s_TvC5H_nWq0KmXHUGWQTRdIZ2saWF6iKV7faGg8A1pi1ATAq9-o0hyKZjtvMRFVkvQR5mfid7uzQp_70n6KNyAd6KPGPDROL918yI&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESeQHrOzAVzG90Ae487Eg6pWSJXkQQRtSx1wQz4GpUWnLKCQ1gIhsWQeEJ_6jy3s_TvC5H_nWq0KmXHUGWQTRdIZ2saWF6iKV7faGg8A1pi1ATAq9-o0hyKZjtvMRFVkvQR5mfid7uzQp_70n6KNyAd6KPGPDROL918yI",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Salem_High_School_(Salem,_Virginia)#:~:text=Salem%20High%20School%20is%20a,of%20Salem%20public%20school%20system."
+  },
+  {
+   "position": 3,
+   "title": "Salem High School, Salem, Virginia (@salemhighspartans)",
+   "link": "https://www.facebook.com/salemhighspartans/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVvKcRKRNqt-sruE9MmkuYOvTjQobfPoh6d17ExqzT2yTZaaTxc4x6Ta9LheNL_kai-S7O_Ii807Q3neH1WbpPtgxbEwHkgfQZtNZbCDXBZLbizfJNjCMJRC-XD9v0SA&ved=2ahUKEwjH86mF7OSWAxVa78kDHVE8NjcQFnoECCUQAQ&uoh=1",
+   "displayed_link": "9.8K+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "snippet": "Official Facebook site for Salem High School in Salem, Virginia - Home of the Spartans! High School. Follow. shs.salem.k12.va.us ...",
+   "snippet_highlighted_words": [
+    "Salem High School",
+    "Virginia",
+    "va"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Official Facebook site for Salem High School in Salem, Virginia - Home of the Spartans! High School. Follow. shs.salem.k12.va.us ...",
+     "source_info_link": "https://www.facebook.com/salemhighspartans/",
+     "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYwHrOzAVvKcRKRNqt-sruE9MmkuYOvTjQobfPoh6d17ExqzT2yTZaaTxc4x6Ta9LheNL_kai-S7O_Ii807Q3neH1WbpPtgxbEwHkgfQZtNZbCDXBZLbizfJNjCMJRC-XD9v0SA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYwHrOzAVvKcRKRNqt-sruE9MmkuYOvTjQobfPoh6d17ExqzT2yTZaaTxc4x6Ta9LheNL_kai-S7O_Ii807Q3neH1WbpPtgxbEwHkgfQZtNZbCDXBZLbizfJNjCMJRC-XD9v0SA",
+   "source": "Facebook \u00b7 Salem High School, Salem, Virginia",
+   "read_more_link": "https://www.facebook.com/salemhighspartans/#:~:text=Official%20Facebook%20site%20for%20Salem,shs.salem.k12.va.us"
+  },
+  {
+   "position": 4,
+   "title": "Salem High School in Salem, VA",
+   "link": "https://www.usnews.com/education/best-high-schools/virginia/districts/salem-city-public-schools/salem-high-school-20620",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrwEB6zswFcuNa_sZatSpBcOyAdaoeB_hAkC_ggU7TZrwUCDLWUeR7Ax1hRcbJ1YJ8FunfmwBnmBbC70y_-Be1BfSJf0_OCSrSS2NtTcbxTHT7qmPYDzNM3YApxk3288a5cFBS6COLWaQry1C87uYdsvEl7sB1-t-kGQYffmfo__NFhMVHT3xbox_3kxtO8o5n9Jr2IyEWiy9eeIe5LLK13NeFj7MgxF64z-Lv06KvM9i&ved=2ahUKEwjH86mF7OSWAxVa78kDHVE8NjcQFnoECCIQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a ... \u203a Salem City Public Schools",
+   "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp",
+   "snippet": "Salem High School is ranked #2,748 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+   "snippet_highlighted_words": [
+    "Salem High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Salem High School is ranked #2,748 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/virginia/districts/salem-city-public-schools/salem-high-school-20620",
+     "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESrwEB6zswFcuNa_sZatSpBcOyAdaoeB_hAkC_ggU7TZrwUCDLWUeR7Ax1hRcbJ1YJ8FunfmwBnmBbC70y_-Be1BfSJf0_OCSrSS2NtTcbxTHT7qmPYDzNM3YApxk3288a5cFBS6COLWaQry1C87uYdsvEl7sB1-t-kGQYffmfo__NFhMVHT3xbox_3kxtO8o5n9Jr2IyEWiy9eeIe5LLK13NeFj7MgxF64z-Lv06KvM9i&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESrwEB6zswFcuNa_sZatSpBcOyAdaoeB_hAkC_ggU7TZrwUCDLWUeR7Ax1hRcbJ1YJ8FunfmwBnmBbC70y_-Be1BfSJf0_OCSrSS2NtTcbxTHT7qmPYDzNM3YApxk3288a5cFBS6COLWaQry1C87uYdsvEl7sB1-t-kGQYffmfo__NFhMVHT3xbox_3kxtO8o5n9Jr2IyEWiy9eeIe5LLK13NeFj7MgxF64z-Lv06KvM9i",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/virginia/districts/salem-city-public-schools/salem-high-school-20620#:~:text=Salem%20High%20School%20is%20ranked,they%20prepare%20students%20for%20college."
+  },
+  {
+   "position": 5,
+   "title": "Salem High School - Virginia Beach City Public Schools",
+   "link": "http://salemhs.vbschools.com/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVQHrOzAVztG21YnNEOPvoA1W_MK_EfjuIwOrBmXRF4Wlr0EkPJIl8sBWTsLaLMgS2xAViI7AubeYsmQng_2MzJzDrikn0Xz9eVHoLQtdbOrAd3ONPjA&ved=2ahUKEwjH86mF7OSWAxVa78kDHVE8NjcQFnoECCcQAQ&uoh=1",
+   "displayed_link": "http://salemhs.vbschools.com",
+   "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAABwBACdASocABwAPtE-tFooIigoFAEAGglAAKIA6OcGHuM4bLhpr-RdBd1vAAD-_SreCu-7T8Gszr_Io0bBh9Vynfbm42FOtwXjOJr-Ng6bkAqBm1VKC7x_NMpkffbVUIUwJmBDnHPQxERA_JCHCq2fEIu6H-WDGA1Hpl0OlNmE0HeW7Z1Xw480StR-WxZZGdaiAm78gAA.webp",
+   "snippet": "Home - Salem High School. ... Virginia Beach. VA. 23464. 757-648-5650. Connect With Us. Ask VBSchools \u00b7 Twitter \u00b7 The Core \u00b7 VB City.",
+   "snippet_highlighted_words": [
+    "Salem High School",
+    "Virginia",
+    "VA"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Home - Salem High School. ... Virginia Beach. VA. 23464. 757-648-5650. Connect With Us. Ask VBSchools \u00b7 Twitter \u00b7 The Core \u00b7 VB City.",
+     "source_info_link": "http://salemhs.vbschools.com/",
+     "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAABwBACdASocABwAPtE-tFooIigoFAEAGglAAKIA6OcGHuM4bLhpr-RdBd1vAAD-_SreCu-7T8Gszr_Io0bBh9Vynfbm42FOtwXjOJr-Ng6bkAqBm1VKC7x_NMpkffbVUIUwJmBDnHPQxERA_JCHCq2fEIu6H-WDGA1Hpl0OlNmE0HeW7Z1Xw480StR-WxZZGdaiAm78gAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESVQHrOzAVztG21YnNEOPvoA1W_MK_EfjuIwOrBmXRF4Wlr0EkPJIl8sBWTsLaLMgS2xAViI7AubeYsmQng_2MzJzDrikn0Xz9eVHoLQtdbOrAd3ONPjA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESVQHrOzAVztG21YnNEOPvoA1W_MK_EfjuIwOrBmXRF4Wlr0EkPJIl8sBWTsLaLMgS2xAViI7AubeYsmQng_2MzJzDrikn0Xz9eVHoLQtdbOrAd3ONPjA",
+   "source": "Virginia Beach City Public Schools",
+   "read_more_link": "http://salemhs.vbschools.com/#:~:text=Virginia%20Beach,VB%20City"
+  },
+  {
+   "position": 6,
+   "title": "Salem High School - Virginia",
+   "link": "https://www.greatschools.org/virginia/salem/1589-Salem-High-School/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESewHrOzAVJoAIWIhIr8Np8P7kXnO_9tJoUAWDkFBEww-qbinyN7B4swnHgJXTyLCxpwVCcnfhHVGcz8wNYCGcUicOk5L_UCNG0KiQtOjcKShqRflzeuB0Etf_eHQE3dV9uN9fdFO6SUghPBHJ_qGXCP0y4KyyxhMrdHOMYw&ved=2ahUKEwjH86mF7OSWAxVa78kDHVE8NjcQFnoECCMQAQ&uoh=1",
+   "displayed_link": "https://www.greatschools.org \u203a virginia \u203a 1589-Salem-...",
+   "favicon": "https://serpapi.com/images/i/UklGRnABAABXRUJQVlA4IGQBAABQCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_jtuHbtjAbYDcAbyB6AHSlf6oixRzh8GEWsYxJ825M9RhM3gV5vdPb_m98cAA_vi6aS7Pzd7susCq7-6fF19W_uHxnTUiht4Bnli4K1NZlcvWNx_U9wUWYJNt7XaI9c-ByTdyo4mDmlZ-5yiSyr_u7cBW9GjDY0XOwNkf3M-JPMdorcnf5W3JquL_1XhdMWG9MeU4wxsyWrY1EBIhBEe9pptiUN9e6cDdPncpdjgPIvoHDAfly9B5KtVb-rS2mA85vxw-fVfJkvrbkjL-z0L62bhyC1muRYqxX5mA92DT5WC6rg1GKs3vDTWtEWyQkNCx7JpqOrcRh1tXyd6AvX19XcKdTTPG1ozotzAlVyERstS5yUat0Hnv2de5D6l_B6PNH32glgAMU9TscSW7BeznX-ttUqaHqMZfqKDlq_LuvvKpt3UAAA.webp",
+   "snippet": "Salem High School is a public school in Salem, VA, offering AP courses, International Baccalaureate, and 6 sports. It is one of 3 high schools in Salem City ...",
+   "snippet_highlighted_words": [
+    "Salem High School",
+    "VA"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Salem High School is a public school in Salem, VA, offering AP courses, International Baccalaureate, and 6 sports. It is one of 3 high schools in Salem City ...",
+     "source_info_link": "https://www.greatschools.org/virginia/salem/1589-Salem-High-School/",
+     "icon": "https://serpapi.com/images/i/UklGRnABAABXRUJQVlA4IGQBAABQCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_jtuHbtjAbYDcAbyB6AHSlf6oixRzh8GEWsYxJ825M9RhM3gV5vdPb_m98cAA_vi6aS7Pzd7susCq7-6fF19W_uHxnTUiht4Bnli4K1NZlcvWNx_U9wUWYJNt7XaI9c-ByTdyo4mDmlZ-5yiSyr_u7cBW9GjDY0XOwNkf3M-JPMdorcnf5W3JquL_1XhdMWG9MeU4wxsyWrY1EBIhBEe9pptiUN9e6cDdPncpdjgPIvoHDAfly9B5KtVb-rS2mA85vxw-fVfJkvrbkjL-z0L62bhyC1muRYqxX5mA92DT5WC6rg1GKs3vDTWtEWyQkNCx7JpqOrcRh1tXyd6AvX19XcKdTTPG1ozotzAlVyERstS5yUat0Hnv2de5D6l_B6PNH32glgAMU9TscSW7BeznX-ttUqaHqMZfqKDlq_LuvvKpt3UAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESewHrOzAVJoAIWIhIr8Np8P7kXnO_9tJoUAWDkFBEww-qbinyN7B4swnHgJXTyLCxpwVCcnfhHVGcz8wNYCGcUicOk5L_UCNG0KiQtOjcKShqRflzeuB0Etf_eHQE3dV9uN9fdFO6SUghPBHJ_qGXCP0y4KyyxhMrdHOMYw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESewHrOzAVJoAIWIhIr8Np8P7kXnO_9tJoUAWDkFBEww-qbinyN7B4swnHgJXTyLCxpwVCcnfhHVGcz8wNYCGcUicOk5L_UCNG0KiQtOjcKShqRflzeuB0Etf_eHQE3dV9uN9fdFO6SUghPBHJ_qGXCP0y4KyyxhMrdHOMYw",
+   "source": "GreatSchools"
+  },
+  {
+   "position": 7,
+   "title": "Salem High School - Virginia Beach",
+   "link": "https://www.homes.com/school/virginia-beach-va/salem-high-school/yhytnp4c3kwv5/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShwEB6zswFXIm8SWlfOxs21TLKQvb1K2k_GMl8DHUMKxf1N1fYCFufPTBznMSDKFG53yQp7ePJ5Gf5rwMb_sQZgo_iCfkJVfxYjmBPFVWPSiGMNmj9NIKN7V2FZ0q0cDyZ4GU7JaE17QmEcxNfJB8RVjAwgdBkqhEiyfKtAjvnBPZS2Il7im1xdE&ved=2ahUKEwjH86mF7OSWAxVa78kDHVE8NjcQFnoECCgQAQ&uoh=1",
+   "displayed_link": "https://www.homes.com \u203a school \u203a salem-high-school",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEz_hA__hA_-gw_-gw_-hA_8gQ76fg77fg79gQ79gg78gA7-gw_2eA3-hA__hQ9hdefxAAAAD3RSTlMA5vSSp8A9GCRIUi93DdazCqoKAAAA1UlEQVQokY2S2ZKFIAxEMQFk0_z_3w5mUUCn6vYLFIdqOgnO_SgMx39oP4moXJs3K8QKfQdpYZ5Um4tEbURpM0bZVTEwxRsR9pvXCnV40YOa9kBybbZugehKeqhJkfNMGl8WhVI0it0tYSfvgwZZIJ9IEopDeC6a41qJU0-iB16bMP9qKJfADNbjo523b55RDuqFq2nCJ2Jd0gQaHwLpVMXdDbWpme8DigjWJ7DZsepusw4DHNLRMyd41W3DjrYda0Ojhyslxzr9sfR8sA-FTQT4RT_0B_pjD070ikOhAAAAAElFTkSuQmCC.png",
+   "snippet": "Salem High School is a public school for students in grades 9-12 located at 1993 Sun Devil Dr in Virginia Beach, VA. Served by the Virginia Beach City ...",
+   "snippet_highlighted_words": [
+    "Salem High School",
+    "Virginia",
+    "VA",
+    "Virginia"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Salem High School is a public school for students in grades 9-12 located at 1993 Sun Devil Dr in Virginia Beach, VA. Served by the Virginia Beach City ...",
+     "source_info_link": "https://www.homes.com/school/virginia-beach-va/salem-high-school/yhytnp4c3kwv5/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEz_hA__hA_-gw_-gw_-hA_8gQ76fg77fg79gQ79gg78gA7-gw_2eA3-hA__hQ9hdefxAAAAD3RSTlMA5vSSp8A9GCRIUi93DdazCqoKAAAA1UlEQVQokY2S2ZKFIAxEMQFk0_z_3w5mUUCn6vYLFIdqOgnO_SgMx39oP4moXJs3K8QKfQdpYZ5Um4tEbURpM0bZVTEwxRsR9pvXCnV40YOa9kBybbZugehKeqhJkfNMGl8WhVI0it0tYSfvgwZZIJ9IEopDeC6a41qJU0-iB16bMP9qKJfADNbjo523b55RDuqFq2nCJ2Jd0gQaHwLpVMXdDbWpme8DigjWJ7DZsepusw4DHNLRMyd41W3DjrYda0Ojhyslxzr9sfR8sA-FTQT4RT_0B_pjD070ikOhAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEShwEB6zswFXIm8SWlfOxs21TLKQvb1K2k_GMl8DHUMKxf1N1fYCFufPTBznMSDKFG53yQp7ePJ5Gf5rwMb_sQZgo_iCfkJVfxYjmBPFVWPSiGMNmj9NIKN7V2FZ0q0cDyZ4GU7JaE17QmEcxNfJB8RVjAwgdBkqhEiyfKtAjvnBPZS2Il7im1xdE&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEShwEB6zswFXIm8SWlfOxs21TLKQvb1K2k_GMl8DHUMKxf1N1fYCFufPTBznMSDKFG53yQp7ePJ5Gf5rwMb_sQZgo_iCfkJVfxYjmBPFVWPSiGMNmj9NIKN7V2FZ0q0cDyZ4GU7JaE17QmEcxNfJB8RVjAwgdBkqhEiyfKtAjvnBPZS2Il7im1xdE",
+   "source": "Homes.com"
+  },
+  {
+   "position": 8,
+   "title": "Salem High School - Salem, VA",
+   "link": "https://www.nfhsnetwork.com/schools/salem-high-school-salem-va",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHrOzAVcqkMCX0kw4lbquDYZ5ZHAVPokSIFQjAP8kWNIow-fq5uz8ygPaxvmXVEDRCVzMnSMJKS_tPpPz2DJlxHP93O33Y54lIapQ6Ck3-aSKq8wl7AnjVxnfIRkXSqHgJsAJYf4VPu8RC-ZMftRrSeonu6LEE&ved=2ahUKEwjH86mF7OSWAxVa78kDHVE8NjcQFnoECCQQAQ&uoh=1",
+   "displayed_link": "https://www.nfhsnetwork.com \u203a Schools",
+   "favicon": "https://serpapi.com/images/i/UklGRloBAABXRUJQVlA4IE4BAACQBwCdASocABwAPtEutFooIagoGAEAGglpAAdR6ywbHT6A_4XuB_qv1OfQd_SAfb_wlWSDLCXIzfUbHO-MPk6R2GH3MYAAzj-PvbeW9F8z4fv_HU71j5-gWCHhrjtPBKMgsbVp1jZYJ3nrLeHyfCjWIkf5z3v0fyrFOkbP8wSNm7CdoOyL9f0VQRLoJNZkvvwY2YhuOYd9sxvl7ahUx-rBCeYh9rkdEp9iOEWN0WeEeIrUr0_yGZC0SaCSt8_WPOeYFZw1fyNUyggjuQZxg-f_ljv7T_0ze__r2GmT-mcHZP_-V4m-OfWb_0R3bb-ff3AAzGfzpxyY0XQGpF-kptd48ANIWoLLCYhdNPXcjE0tM9_zSmULP-fyUHTbP40eS3vpU588Zv7dOcXPrB_rIrMP0G-MwIORwjqf_cD4n6d4FeopS02dsQV1h5Av-AAA.webp",
+   "snippet": "Stream sports and activities from Salem High School in Salem, VA, both live and on demand. Watch Salem online from home or on the go.",
+   "snippet_highlighted_words": [
+    "Salem High School",
+    "VA"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Stream sports and activities from Salem High School in Salem, VA, both live and on demand. Watch Salem online from home or on the go.",
+     "source_info_link": "https://www.nfhsnetwork.com/schools/salem-high-school-salem-va",
+     "icon": "https://serpapi.com/images/i/UklGRloBAABXRUJQVlA4IE4BAACQBwCdASocABwAPtEutFooIagoGAEAGglpAAdR6ywbHT6A_4XuB_qv1OfQd_SAfb_wlWSDLCXIzfUbHO-MPk6R2GH3MYAAzj-PvbeW9F8z4fv_HU71j5-gWCHhrjtPBKMgsbVp1jZYJ3nrLeHyfCjWIkf5z3v0fyrFOkbP8wSNm7CdoOyL9f0VQRLoJNZkvvwY2YhuOYd9sxvl7ahUx-rBCeYh9rkdEp9iOEWN0WeEeIrUr0_yGZC0SaCSt8_WPOeYFZw1fyNUyggjuQZxg-f_ljv7T_0ze__r2GmT-mcHZP_-V4m-OfWb_0R3bb-ff3AAzGfzpxyY0XQGpF-kptd48ANIWoLLCYhdNPXcjE0tM9_zSmULP-fyUHTbP40eS3vpU588Zv7dOcXPrB_rIrMP0G-MwIORwjqf_cD4n6d4FeopS02dsQV1h5Av-AAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdgHrOzAVcqkMCX0kw4lbquDYZ5ZHAVPokSIFQjAP8kWNIow-fq5uz8ygPaxvmXVEDRCVzMnSMJKS_tPpPz2DJlxHP93O33Y54lIapQ6Ck3-aSKq8wl7AnjVxnfIRkXSqHgJsAJYf4VPu8RC-ZMftRrSeonu6LEE&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdgHrOzAVcqkMCX0kw4lbquDYZ5ZHAVPokSIFQjAP8kWNIow-fq5uz8ygPaxvmXVEDRCVzMnSMJKS_tPpPz2DJlxHP93O33Y54lIapQ6Ck3-aSKq8wl7AnjVxnfIRkXSqHgJsAJYf4VPu8RC-ZMftRrSeonu6LEE",
+   "source": "NFHS Network"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Salem high school virginia football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuiXRpgGd8-BzvvA2YAhFWkU5lZBQ:1789071859554&q=Salem+high+school+virginia+football&sa=X&ved=2ahUKEwjH86mF7OSWAxVa78kDHVE8NjcQ1QJ6BAhSEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Salem+high+school+virginia+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Salem high school virginia yearbook",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuiXRpgGd8-BzvvA2YAhFWkU5lZBQ:1789071859554&q=Salem+high+school+virginia+yearbook&sa=X&ved=2ahUKEwjH86mF7OSWAxVa78kDHVE8NjcQ1QJ6BAhVEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Salem+high+school+virginia+yearbook"
+  },
+  {
+   "block_position": 1,
+   "query": "Salem High School Football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuiXRpgGd8-BzvvA2YAhFWkU5lZBQ:1789071859554&q=Salem+High+School+Football&sa=X&ved=2ahUKEwjH86mF7OSWAxVa78kDHVE8NjcQ1QJ6BAhYEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Salem+High+School+Football"
+  },
+  {
+   "block_position": 1,
+   "query": "Salem high school virginia basketball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuiXRpgGd8-BzvvA2YAhFWkU5lZBQ:1789071859554&q=Salem+high+school+virginia+basketball&sa=X&ved=2ahUKEwjH86mF7OSWAxVa78kDHVE8NjcQ1QJ6BAhZEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Salem+high+school+virginia+basketball"
+  },
+  {
+   "block_position": 1,
+   "query": "Salem high school virginia beach",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuiXRpgGd8-BzvvA2YAhFWkU5lZBQ:1789071859554&q=Salem+high+school+virginia+beach&sa=X&ved=2ahUKEwjH86mF7OSWAxVa78kDHVE8NjcQ1QJ6BAhXEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Salem+high+school+virginia+beach"
+  },
+  {
+   "block_position": 1,
+   "query": "Salem high school virginia beach calendar",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuiXRpgGd8-BzvvA2YAhFWkU5lZBQ:1789071859554&q=Salem+high+school+virginia+beach+calendar&sa=X&ved=2ahUKEwjH86mF7OSWAxVa78kDHVE8NjcQ1QJ6BAhWEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Salem+high+school+virginia+beach+calendar"
+  },
+  {
+   "block_position": 1,
+   "query": "Salem High School photos",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuiXRpgGd8-BzvvA2YAhFWkU5lZBQ:1789071859554&q=Salem+High+School+photos&sa=X&ved=2ahUKEwjH86mF7OSWAxVa78kDHVE8NjcQ1QJ6BAhUEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Salem+High+School+photos"
+  },
+  {
+   "block_position": 1,
+   "query": "Salem high school virginia beach homecoming",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuiXRpgGd8-BzvvA2YAhFWkU5lZBQ:1789071859554&q=Salem+high+school+virginia+beach+homecoming&sa=X&ved=2ahUKEwjH86mF7OSWAxVa78kDHVE8NjcQ1QJ6BAhTEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Salem+high+school+virginia+beach+homecoming"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Salem+High+School%22+Virginia&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuiXRpgGd8-BzvvA2YAhFWkU5lZBQ:1789071859554&ei=8xGjaoeuIdrep84P0fjYuQM&start=10&sa=N&sstk=AS6-VmJb1lgDTPgMRv879dEVdiKtCQOyf8XC9SO9bTINfHZ2Q6eSD5prJKEeO6UmoCq7ftwcttdYNyKxUv4mi85M0-9W5K1G30ageg&ved=2ahUKEwjH86mF7OSWAxVa78kDHVE8NjcQ8NMDegQIRBAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Salem+High+School%22+Virginia&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuiXRpgGd8-BzvvA2YAhFWkU5lZBQ:1789071859554&ei=8xGjaoeuIdrep84P0fjYuQM&start=10&sa=N&sstk=AS6-VmJb1lgDTPgMRv879dEVdiKtCQOyf8XC9SO9bTINfHZ2Q6eSD5prJKEeO6UmoCq7ftwcttdYNyKxUv4mi85M0-9W5K1G30ageg&ved=2ahUKEwjH86mF7OSWAxVa78kDHVE8NjcQ8tMDegQIRBAE",
+   "3": "https://www.google.com/search?q=%22Salem+High+School%22+Virginia&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuiXRpgGd8-BzvvA2YAhFWkU5lZBQ:1789071859554&ei=8xGjaoeuIdrep84P0fjYuQM&start=20&sa=N&sstk=AS6-VmJb1lgDTPgMRv879dEVdiKtCQOyf8XC9SO9bTINfHZ2Q6eSD5prJKEeO6UmoCq7ftwcttdYNyKxUv4mi85M0-9W5K1G30ageg&ved=2ahUKEwjH86mF7OSWAxVa78kDHVE8NjcQ8tMDegQIRBAG",
+   "4": "https://www.google.com/search?q=%22Salem+High+School%22+Virginia&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuiXRpgGd8-BzvvA2YAhFWkU5lZBQ:1789071859554&ei=8xGjaoeuIdrep84P0fjYuQM&start=30&sa=N&sstk=AS6-VmJb1lgDTPgMRv879dEVdiKtCQOyf8XC9SO9bTINfHZ2Q6eSD5prJKEeO6UmoCq7ftwcttdYNyKxUv4mi85M0-9W5K1G30ageg&ved=2ahUKEwjH86mF7OSWAxVa78kDHVE8NjcQ8tMDegQIRBAI",
+   "5": "https://www.google.com/search?q=%22Salem+High+School%22+Virginia&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuiXRpgGd8-BzvvA2YAhFWkU5lZBQ:1789071859554&ei=8xGjaoeuIdrep84P0fjYuQM&start=40&sa=N&sstk=AS6-VmJb1lgDTPgMRv879dEVdiKtCQOyf8XC9SO9bTINfHZ2Q6eSD5prJKEeO6UmoCq7ftwcttdYNyKxUv4mi85M0-9W5K1G30ageg&ved=2ahUKEwjH86mF7OSWAxVa78kDHVE8NjcQ8tMDegQIRBAK",
+   "6": "https://www.google.com/search?q=%22Salem+High+School%22+Virginia&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuiXRpgGd8-BzvvA2YAhFWkU5lZBQ:1789071859554&ei=8xGjaoeuIdrep84P0fjYuQM&start=50&sa=N&sstk=AS6-VmJb1lgDTPgMRv879dEVdiKtCQOyf8XC9SO9bTINfHZ2Q6eSD5prJKEeO6UmoCq7ftwcttdYNyKxUv4mi85M0-9W5K1G30ageg&ved=2ahUKEwjH86mF7OSWAxVa78kDHVE8NjcQ8tMDegQIRBAM",
+   "7": "https://www.google.com/search?q=%22Salem+High+School%22+Virginia&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuiXRpgGd8-BzvvA2YAhFWkU5lZBQ:1789071859554&ei=8xGjaoeuIdrep84P0fjYuQM&start=60&sa=N&sstk=AS6-VmJb1lgDTPgMRv879dEVdiKtCQOyf8XC9SO9bTINfHZ2Q6eSD5prJKEeO6UmoCq7ftwcttdYNyKxUv4mi85M0-9W5K1G30ageg&ved=2ahUKEwjH86mF7OSWAxVa78kDHVE8NjcQ8tMDegQIRBAO",
+   "8": "https://www.google.com/search?q=%22Salem+High+School%22+Virginia&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuiXRpgGd8-BzvvA2YAhFWkU5lZBQ:1789071859554&ei=8xGjaoeuIdrep84P0fjYuQM&start=70&sa=N&sstk=AS6-VmJb1lgDTPgMRv879dEVdiKtCQOyf8XC9SO9bTINfHZ2Q6eSD5prJKEeO6UmoCq7ftwcttdYNyKxUv4mi85M0-9W5K1G30ageg&ved=2ahUKEwjH86mF7OSWAxVa78kDHVE8NjcQ8tMDegQIRBAQ",
+   "9": "https://www.google.com/search?q=%22Salem+High+School%22+Virginia&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuiXRpgGd8-BzvvA2YAhFWkU5lZBQ:1789071859554&ei=8xGjaoeuIdrep84P0fjYuQM&start=80&sa=N&sstk=AS6-VmJb1lgDTPgMRv879dEVdiKtCQOyf8XC9SO9bTINfHZ2Q6eSD5prJKEeO6UmoCq7ftwcttdYNyKxUv4mi85M0-9W5K1G30ageg&ved=2ahUKEwjH86mF7OSWAxVa78kDHVE8NjcQ8tMDegQIRBAS",
+   "10": "https://www.google.com/search?q=%22Salem+High+School%22+Virginia&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQnuiXRpgGd8-BzvvA2YAhFWkU5lZBQ:1789071859554&ei=8xGjaoeuIdrep84P0fjYuQM&start=90&sa=N&sstk=AS6-VmJb1lgDTPgMRv879dEVdiKtCQOyf8XC9SO9bTINfHZ2Q6eSD5prJKEeO6UmoCq7ftwcttdYNyKxUv4mi85M0-9W5K1G30ageg&ved=2ahUKEwjH86mF7OSWAxVa78kDHVE8NjcQ8tMDegQIRBAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Salem+High+School%22+Virginia&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Salem+High+School%22+Virginia&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Salem+High+School%22+Virginia&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Salem+High+School%22+Virginia&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Salem+High+School%22+Virginia&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Salem+High+School%22+Virginia&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Salem+High+School%22+Virginia&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Salem+High+School%22+Virginia&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Salem+High+School%22+Virginia&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Salem+High+School%22+Virginia&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Salem+High+School%22+Virginia&start=90"
+  }
+ }
+}

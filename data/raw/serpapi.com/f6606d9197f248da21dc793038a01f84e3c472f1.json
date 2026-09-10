@@ -1,0 +1,924 @@
+{
+ "search_information": {
+  "query_displayed": "\"Pearl City High School\" Hawaii",
+  "total_results": 65000,
+  "time_taken_displayed": 0.32,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Pearl City High School",
+  "type": "Co-education in Pearl City, Hawaii",
+  "entity_type": "local_nav",
+  "kgmid": "/m/026123c",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/026123c&hl=en-US&q=Pearl+City+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F026123c&q=Pearl+City+High+School",
+  "place_id": "ChIJS1-NBp5oAHwRyryjWUznvBs",
+  "website": "http://www.pchs.k12.hi.us/",
+  "description": "Pearl City High School is a public, co-ed comprehensive high school located in Pearl City, Hawaii which serves grades 9\u201312. Its mascot is the Charger and is operated by the Hawaii State Department of Education in the Leeward Complex.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa3107806ca7ff8656ba22f/images/s41KczCCatdM-BFIYujE_AqLZ2DYcgKSAIqWeA6hiL0.webp",
+   "link": "https://www.google.com/maps/place/Pearl+City+High+School/data=!4m2!3m1!1s0x0:0x1bbce74c59a3bcca?sa=X&ved=2ahUKEwjfrt_f6uSWAxVhKVkFHY0TOaoQ_BJ6BAgLEAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Pearl_City_High_School_(Hawaii)"
+  },
+  "address": "2100 Hookiekie St, Pearl City, HI 96782",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQns_ydou7Re2hPaCfNufjd_CMOlX5Q:1789071512305&q=pearl+city+high+school+address&ludocid=1998726649753091274&sa=X&ved=2ahUKEwjfrt_f6uSWAxVhKVkFHY0TOaoQ6BN6BAgiEAI"
+   }
+  ],
+  "colors": "White, Purple",
+  "colors_links": [
+   {
+    "text": "White",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQns_ydou7Re2hPaCfNufjd_CMOlX5Q:1789071512305&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpt2PmrrG0v_NNf8LKgZjBVjwPSJGOBj-fhttCVbIGZaH9tA_0T_XgoKfYxjrRxpgH83ESk2uy7_0PzwDtwzKiKqvslKLdbgf-2YlM2Bp8rtQC7apd_FHYuT5MVgSk1qH9ElSiuSFG47CtWnWZ0Malpt8iLYelpgN8LuU5US3e5_kwFJZ96Ft024UyBSr76YyW11Pz_w%3D&sa=X&ved=2ahUKEwjfrt_f6uSWAxVhKVkFHY0TOaoQmxN6BAglEAI"
+   },
+   {
+    "text": "Purple",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQns_ydou7Re2hPaCfNufjd_CMOlX5Q:1789071512305&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpteLl-1ZA2WdXKSV4IoLcN9OtfCdI_D7osjKj2HeeRtLlKu_kuNJrd-RqwnjTtQ_xJgE1uidaGB2gOV2pOvd7jevU6_mvH_g7fmHU2dyqcf24E49J0k_ofJ_i4oaITD4cUQTOuhIPKeRGAKgEaFUdSzt2YEg2lXG-cNZEdCRmXUVnrfeAz9eHqcilXnAWe9Y1HgOhmg%3D&sa=X&ved=2ahUKEwjfrt_f6uSWAxVhKVkFHY0TOaoQmxN6BAglEAM"
+   }
+  ],
+  "founded": "1971",
+  "motto": "Excellence with Honor pchs.k12.hi.us",
+  "motto_links": [
+   {
+    "text": "pchs.k12.hi.us",
+    "link": "https://www.pchs.k12.hi.us/apps/pages/index.jsp?uREC_ID=406982&type=d"
+   }
+  ],
+  "school_types": "High school, Co-education",
+  "school_types_links": [
+   {
+    "text": "High school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQns_ydou7Re2hPaCfNufjd_CMOlX5Q:1789071512305&q=High+school&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMppXfNh-OkLk_azmU0uk1AX8sk8s1-2uDG13xvljBKYj-62BC653CUwqsnPBoRGsmoAhp8N1FFUjPXYR75tXwHhUXWv8UBnIL4TF0z5QyYwum8c_JSAjNU96KYU9MUo2tFpxMVMwrhbLOlPkuXzBx5acc3gwXxlDC5-g4MUJ7Xax01M5EKq4XOA5jWTvfoaxCeN3yQJdmM36Ht1T8x8NWCH0cBqkhFIkvHvC9Qdy35aQdQvtJySF-TG3Rqm8SH-7M4tBr_pY%3D&sa=X&ved=2ahUKEwjfrt_f6uSWAxVhKVkFHY0TOaoQmxN6BAgoEAI"
+   },
+   {
+    "text": "Co-education",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQns_ydou7Re2hPaCfNufjd_CMOlX5Q:1789071512305&q=Co-education&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yVP88BQLNV4l2hiBkjJJlLYTwltj4f9K-_xxF3OVq2D1r5iR0y-DxfKe7QQIWSIYF1P3KKk1qLJW_zJs86n1fH_56XVsVEwGHoUzfaF3RQyN8QlfA4nPyGlmXH1uyJq1OE2CC41z2wydDTodbszYZDNm6Z-0Tt9lQ47WFOSVjFMcPO0Rx4KXTYYQ-sF4ijBHCNxFM4R3w1ZnIUMgC5zLM07DMu4l5_XiuwCgUkUMtS3FgnjBOOxhwz19LEqKnUM3A54sCe8%3D&sa=X&ved=2ahUKEwjfrt_f6uSWAxVhKVkFHY0TOaoQmxN6BAgoEAM"
+   }
+  ],
+  "phone": "(808) 307-5500",
+  "raw_hours": "Open \u00b7 Closes 3 - 30 PM",
+  "hours": {
+   "thursday": {
+    "opens": "7:30\u202fAM",
+    "closes": "3:30\u202fPM"
+   },
+   "friday": {
+    "opens": "7:30\u202fAM",
+    "closes": "3:30\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "7:30\u202fAM",
+    "closes": "3:30\u202fPM"
+   },
+   "tuesday": {
+    "opens": "7:30\u202fAM",
+    "closes": "3:30\u202fPM"
+   },
+   "wednesday": {
+    "opens": "7:30\u202fAM",
+    "closes": "3:30\u202fPM"
+   }
+  },
+  "mon_tue_wed_thu_fri_sat_sun_live": "As busy as it gets9a12p3p6p9pPeople typically spend 30 min to 4 hr here",
+  "popular_times": {
+   "live": {
+    "time": "Live",
+    "info": "As busy as it gets",
+    "busyness_score": 0
+   },
+   "graph_results": {
+    "monday": [
+     {
+      "time": "6\u202fAM",
+      "busyness_score": 0
+     },
+     {
+      "time": "7\u202fAM",
+      "info": "Usually not too busy",
+      "busyness_score": 49
+     },
+     {
+      "time": "8\u202fAM",
+      "info": "Usually a little busy",
+      "busyness_score": 65
+     },
+     {
+      "time": "9\u202fAM",
+      "info": "Usually a little busy",
+      "busyness_score": 69
+     },
+     {
+      "time": "10\u202fAM",
+      "info": "Usually a little busy",
+      "busyness_score": 73
+     },
+     {
+      "time": "11\u202fAM",
+      "info": "Usually a little busy",
+      "busyness_score": 69
+     },
+     {
+      "time": "12\u202fPM",
+      "info": "Usually a little busy",
+      "busyness_score": 77
+     },
+     {
+      "time": "1\u202fPM",
+      "info": "Usually as busy as it gets",
+      "busyness_score": 89
+     },
+     {
+      "time": "2\u202fPM",
+      "info": "Usually as busy as it gets",
+      "busyness_score": 100
+     },
+     {
+      "time": "3\u202fPM",
+      "info": "Usually as busy as it gets",
+      "busyness_score": 91
+     },
+     {
+      "time": "4\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "5\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "6\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "7\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "8\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "9\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "10\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "11\u202fPM",
+      "busyness_score": 0
+     }
+    ],
+    "tuesday": [
+     {
+      "time": "6\u202fAM",
+      "busyness_score": 0
+     },
+     {
+      "time": "7\u202fAM",
+      "info": "Usually a little busy",
+      "busyness_score": 52
+     },
+     {
+      "time": "8\u202fAM",
+      "info": "Usually a little busy",
+      "busyness_score": 61
+     },
+     {
+      "time": "9\u202fAM",
+      "info": "Usually a little busy",
+      "busyness_score": 68
+     },
+     {
+      "time": "10\u202fAM",
+      "info": "Usually a little busy",
+      "busyness_score": 72
+     },
+     {
+      "time": "11\u202fAM",
+      "info": "Usually a little busy",
+      "busyness_score": 78
+     },
+     {
+      "time": "12\u202fPM",
+      "info": "Usually as busy as it gets",
+      "busyness_score": 84
+     },
+     {
+      "time": "1\u202fPM",
+      "info": "Usually as busy as it gets",
+      "busyness_score": 85
+     },
+     {
+      "time": "2\u202fPM",
+      "info": "Usually a little busy",
+      "busyness_score": 66
+     },
+     {
+      "time": "3\u202fPM",
+      "info": "Usually a little busy",
+      "busyness_score": 53
+     },
+     {
+      "time": "4\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "5\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "6\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "7\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "8\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "9\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "10\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "11\u202fPM",
+      "busyness_score": 0
+     }
+    ],
+    "wednesday": [
+     {
+      "time": "6\u202fAM",
+      "busyness_score": 0
+     },
+     {
+      "time": "7\u202fAM",
+      "info": "Usually not too busy",
+      "busyness_score": 47
+     },
+     {
+      "time": "8\u202fAM",
+      "info": "Usually a little busy",
+      "busyness_score": 63
+     },
+     {
+      "time": "9\u202fAM",
+      "info": "Usually a little busy",
+      "busyness_score": 70
+     },
+     {
+      "time": "10\u202fAM",
+      "info": "Usually a little busy",
+      "busyness_score": 74
+     },
+     {
+      "time": "11\u202fAM",
+      "info": "Usually a little busy",
+      "busyness_score": 70
+     },
+     {
+      "time": "12\u202fPM",
+      "info": "Usually a little busy",
+      "busyness_score": 73
+     },
+     {
+      "time": "1\u202fPM",
+      "info": "Usually a little busy",
+      "busyness_score": 74
+     },
+     {
+      "time": "2\u202fPM",
+      "info": "Usually as busy as it gets",
+      "busyness_score": 85
+     },
+     {
+      "time": "3\u202fPM",
+      "info": "Usually a little busy",
+      "busyness_score": 75
+     },
+     {
+      "time": "4\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "5\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "6\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "7\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "8\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "9\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "10\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "11\u202fPM",
+      "busyness_score": 0
+     }
+    ],
+    "thursday": [
+     {
+      "time": "6\u202fAM",
+      "busyness_score": 0
+     },
+     {
+      "time": "7\u202fAM",
+      "info": "Usually not too busy",
+      "busyness_score": 47
+     },
+     {
+      "time": "8\u202fAM",
+      "info": "Usually a little busy",
+      "busyness_score": 61
+     },
+     {
+      "time": "9\u202fAM",
+      "info": "Usually a little busy",
+      "busyness_score": 70
+     },
+     {
+      "time": "10\u202fAM",
+      "info": "Usually a little busy",
+      "busyness_score": 71
+     },
+     {
+      "time": "11\u202fAM",
+      "info": "Usually a little busy",
+      "busyness_score": 78
+     },
+     {
+      "time": "12\u202fPM",
+      "info": "Usually as busy as it gets",
+      "busyness_score": 81
+     },
+     {
+      "time": "1\u202fPM",
+      "info": "Usually a little busy",
+      "busyness_score": 79
+     },
+     {
+      "time": "2\u202fPM",
+      "info": "Usually a little busy",
+      "busyness_score": 65
+     },
+     {
+      "time": "3\u202fPM",
+      "info": "Usually a little busy",
+      "busyness_score": 52
+     },
+     {
+      "time": "4\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "5\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "6\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "7\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "8\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "9\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "10\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "11\u202fPM",
+      "busyness_score": 0
+     }
+    ],
+    "friday": [
+     {
+      "time": "6\u202fAM",
+      "busyness_score": 0
+     },
+     {
+      "time": "7\u202fAM",
+      "info": "Usually not too busy",
+      "busyness_score": 38
+     },
+     {
+      "time": "8\u202fAM",
+      "info": "Usually not too busy",
+      "busyness_score": 49
+     },
+     {
+      "time": "9\u202fAM",
+      "info": "Usually a little busy",
+      "busyness_score": 56
+     },
+     {
+      "time": "10\u202fAM",
+      "info": "Usually a little busy",
+      "busyness_score": 60
+     },
+     {
+      "time": "11\u202fAM",
+      "info": "Usually a little busy",
+      "busyness_score": 54
+     },
+     {
+      "time": "12\u202fPM",
+      "info": "Usually a little busy",
+      "busyness_score": 57
+     },
+     {
+      "time": "1\u202fPM",
+      "info": "Usually a little busy",
+      "busyness_score": 59
+     },
+     {
+      "time": "2\u202fPM",
+      "info": "Usually a little busy",
+      "busyness_score": 69
+     },
+     {
+      "time": "3\u202fPM",
+      "info": "Usually a little busy",
+      "busyness_score": 60
+     },
+     {
+      "time": "4\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "5\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "6\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "7\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "8\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "9\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "10\u202fPM",
+      "busyness_score": 0
+     },
+     {
+      "time": "11\u202fPM",
+      "busyness_score": 0
+     }
+    ]
+   }
+  },
+  "unclaimed_listing": true,
+  "people_also_search_for": [
+   {
+    "name": "Waipahu High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm2Emw8pGFSW_mzJbvgHlQeQkptOFdOtB8vks-ry22Qm_tEV3--t1AVouvrFqWtX3arNHnJY4SSN9PWMSnGvBTdBZOG0mWsuravwA7fb7mvyBATlTFoudVCG0ltZkzVHL_N-7T-=w204-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQns_ydou7Re2hPaCfNufjd_CMOlX5Q:1789071512305&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ySdZnIYjcvqH56bLcj7vFhIFVp1zK1eOQQYt_9iNL9Kfc8lSBlbjNk8kknpSK_WRSNj-djYNKuv2BNPwPUK9R4Z75zTueC2Tn-IxfmMGn8NJ143BaLNFzWPK89BbInlb6nlB4myiP2V9-mzgChCQHLYDVndmAvm45gB868y5vJX4rHf6ZOk_JPb70t-AdllJ6RX1uI4jT6qh4NFUpep4jgKG7NmzgI71-_TiFXxnlBWlRxf651IC6KC2dvXagSM1T2UFVRln1Oifve6V8qbpXQlmzLLL&q=Waipahu+High+School&sa=X&ved=2ahUKEwjfrt_f6uSWAxVhKVkFHY0TOaoQs9oBKAB6BAgeEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Waipahu+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ySdZnIYjcvqH56bLcj7vFhIFVp1zK1eOQQYt_9iNL9Kfc8lSBlbjNk8kknpSK_WRSNj-djYNKuv2BNPwPUK9R4Z75zTueC2Tn-IxfmMGn8NJ143BaLNFzWPK89BbInlb6nlB4myiP2V9-mzgChCQHLYDVndmAvm45gB868y5vJX4rHf6ZOk_JPb70t-AdllJ6RX1uI4jT6qh4NFUpep4jgKG7NmzgI71-_TiFXxnlBWlRxf651IC6KC2dvXagSM1T2UFVRln1Oifve6V8qbpXQlmzLLL"
+   },
+   {
+    "name": "Kapolei High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkB1Aa36ko23ICdzzWq2ZfWC8mY5B-7QH7gyxN7DgHdagookzk3sSXWhcPqBAMQlEp8vbEltv_aPwW0GwpZYtCSksUPoJVa1DUCjnvW5fMkp6CN6oWDL9maTRfO_dl8JmZ-aWY=w204-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQns_ydou7Re2hPaCfNufjd_CMOlX5Q:1789071512305&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW677ji3N0JOygCDrcSS2VggpmHX4EMp9J6B4A6w1vBLs9vFOSdXaN9ZCi1t-N7bP9FhKXF4ArmRgZsH3200pHuErIMiJaKFb2wt87CP1SifCO_5hjysNibnUXOntBUz21ijRv80FTBzIB8M-ZFPSEGYOVZh382hJFZmFm8ow3uP_TDoJ0UzjfK4DZlrrmvzSZdTqo9H-MpEQsCvspY735FEn3fI-fcWfoqa7EWqqCenOJdOCcVXa4As--hqOaWa110IXlcCnI5dCJjsdKCzsEa_pbpNoHz&q=Kapolei+High+School&sa=X&ved=2ahUKEwjfrt_f6uSWAxVhKVkFHY0TOaoQs9oBKAB6BAgeEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Kapolei+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW677ji3N0JOygCDrcSS2VggpmHX4EMp9J6B4A6w1vBLs9vFOSdXaN9ZCi1t-N7bP9FhKXF4ArmRgZsH3200pHuErIMiJaKFb2wt87CP1SifCO_5hjysNibnUXOntBUz21ijRv80FTBzIB8M-ZFPSEGYOVZh382hJFZmFm8ow3uP_TDoJ0UzjfK4DZlrrmvzSZdTqo9H-MpEQsCvspY735FEn3fI-fcWfoqa7EWqqCenOJdOCcVXa4As--hqOaWa110IXlcCnI5dCJjsdKCzsEa_pbpNoHz"
+   },
+   {
+    "name": "Highlands Intermediate School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlhLWD__gpBj5weEQnF24ZyNXb_WpogE524bN9W9EfTjS6TEObE9wTJqGw3S3LTpyBpWOv40XQ43vRHaVP9KbxphgR5i_40eRxtjKdP2sIyzNjk3ST2_pMTXINEjpVKTqbqJJwzrg=w172-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQns_ydou7Re2hPaCfNufjd_CMOlX5Q:1789071512305&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW671B9b_OYdMYYtThhsiaN_9iPD584oqz0m8F_eAjYVlEbE_8w87C-F4RDx-z_O9VnGmrletqYFJdXBg2W61wM3-Uyq8Q8cXp8rBz4u2kYe28k-zUGOnGS9ulKXQ9pDB-gJ7fV3QtfZXg-NM63e2q0unbEtn4ssU65zRF-TwwQJYbONgupKNWy89CHpFVCPbg_Iy-EHIepq5DJjneAIRa_4PeCcfgqYuikGd7Lgg9uvpwifVcEG8FjToCrWTzFVtWpzG-5ekx8Sn6uwog4fyzzblimY07-&q=Highlands+Intermediate+School&sa=X&ved=2ahUKEwjfrt_f6uSWAxVhKVkFHY0TOaoQs9oBKAB6BAgeEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Highlands+Intermediate+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW671B9b_OYdMYYtThhsiaN_9iPD584oqz0m8F_eAjYVlEbE_8w87C-F4RDx-z_O9VnGmrletqYFJdXBg2W61wM3-Uyq8Q8cXp8rBz4u2kYe28k-zUGOnGS9ulKXQ9pDB-gJ7fV3QtfZXg-NM63e2q0unbEtn4ssU65zRF-TwwQJYbONgupKNWy89CHpFVCPbg_Iy-EHIepq5DJjneAIRa_4PeCcfgqYuikGd7Lgg9uvpwifVcEG8FjToCrWTzFVtWpzG-5ekx8Sn6uwog4fyzzblimY07-"
+   },
+   {
+    "name": "Mililani High School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnKHCMIxVyKtIAFK0Kjw0BwIR66-Sh3O4X2TlydTrFgNctNPvkq_wHyCh1Ex8LOyIzEbhqVAUZVkkk6pAaU2ULSGhFpHK-uj68NCv7U_2Sq25pXotdSTQ1trpX6EvIQdpJUl7gk=w172-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQns_ydou7Re2hPaCfNufjd_CMOlX5Q:1789071512305&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ySUQqi60tFiwDDqijhjenpZVx-xvJdDdTHExPtCJlgS8ozKc37KIHp80tnGMcEyruzg9i-3dK_b0dIJJhd58GvDDFTofcGaSCz3FmDBAkP9-KnwFZiXoWFjeJv7Q2J4I7ucG9kSRn9HvtZhuQ7MIs8rvdMTT7-bMDMkw8GPEoBKmnnYuXW-x9kLMX6sRr6uksRjp6gVK3ZKOE9uYmZrciuqp3fIsbPazZxNukG_xcSsGj1V20zjApiZEvsdCEz4zQCiC5MCg9C6JM_K3On2vefJ6pfEw&q=Mililani+High+School&sa=X&ved=2ahUKEwjfrt_f6uSWAxVhKVkFHY0TOaoQs9oBKAB6BAgeEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mililani+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ySUQqi60tFiwDDqijhjenpZVx-xvJdDdTHExPtCJlgS8ozKc37KIHp80tnGMcEyruzg9i-3dK_b0dIJJhd58GvDDFTofcGaSCz3FmDBAkP9-KnwFZiXoWFjeJv7Q2J4I7ucG9kSRn9HvtZhuQ7MIs8rvdMTT7-bMDMkw8GPEoBKmnnYuXW-x9kLMX6sRr6uksRjp6gVK3ZKOE9uYmZrciuqp3fIsbPazZxNukG_xcSsGj1V20zjApiZEvsdCEz4zQCiC5MCg9C6JM_K3On2vefJ6pfEw"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQns_ydou7Re2hPaCfNufjd_CMOlX5Q:1789071512305&q=Pearl+City+High+School&stick=H4sIAAAAAAAAAONgFuLSz9U3MDIzNDJOVkJiawkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axAqUSCzKUXDOLKlU8MhMz1AITs7Iz8_Zwcp4i02S4Y1DRWAuX1PnknDDQ6zaizZHJAXbpId9Pw4A1Q9ZkX4AAAA&sa=X&ved=2ahUKEwjfrt_f6uSWAxVhKVkFHY0TOaoQzO0BKAR6BAgeEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLSz9U3MDIzNDJOVkJiawkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axAqUSCzKUXDOLKlU8MhMz1AITs7Iz8_Zwcp4i02S4Y1DRWAuX1PnknDDQ6zaizZHJAXbpId9Pw4A1Q9ZkX4AAAA",
+  "profiles": [
+   {
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/in/audrey-okemura-b60377115",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pearl+City+High+School%22+Hawaii",
+    "image": "https://serpapi.com/searches/6aa3107806ca7ff8656ba22f/images/s41KczCCatdM-BFIYujE_PmCJiurxAGBbrOghUZ4y9ODHIq6C2Ck_22vvfq50Nj5.png"
+   },
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/PCHSathleticdepartment/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pearl+City+High+School%22+Hawaii",
+    "image": "https://serpapi.com/searches/6aa3107806ca7ff8656ba22f/images/s41KczCCatdM-BFIYujE_EITzsF3AAs35Yjv9lUTtuwdXtCt6MS38Q1gb0mkQSLJ.png"
+   },
+   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/pchs_paddling/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pearl+City+High+School%22+Hawaii",
+    "image": "https://serpapi.com/searches/6aa3107806ca7ff8656ba22f/images/s41KczCCatdM-BFIYujE_G4zDt69zJd2kN0ykuH5XA4rbRNlLrlQysohGEBa0-Ce.png"
+   },
+   {
+    "name": "X (Twitter)",
+    "link": "https://mobile.twitter.com/PearlCityHS",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pearl+City+High+School%22+Hawaii",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAABhUlEQVR4AczOA6xcARCF4X_us23btuLUQR3WZlhbQW3bto2gtm3b2J3GN4tY74uHh3okOi42Nj4AAUDwTvDEhisABCOAEAzYTBh0bN-lc5d0QgAhHPqX4Y4pkd367Zc-xMcXCPDg8TPwxeQH724Uj9N95GJ4pnHxby1xgCmV3v-GsFb7k0Iee7UjaQgmIYe9v9O4-wUKWaATyMPAViwvr1NnOQWDdTV5CHYSaKWLmaGDyvU4mTgQcllracaFr-9uk-yLM8k8fAJff0IUTghRVFu3M1ynkYk4nchiqqU3Ry05RDibMMhjtj6Ht3dJxVk_l1G64cspOusychBsCWm01WNM0jFs0sbEYUtIIuTXNco588OLh09JxE6wweuXEAvfL9PQus3-iU80N34KCaQyUOcxTTuSjEmMRI5rS9JwIZfD1t7ceo34YIpnuQ4nGwP8XXlq_fJZd9jE8KBHC5IwAELJ7dWrZ6fOuNhkgFgAEEIAwA1MQkw0AgDC_wnKycrKSQ2iPAkAVyNzq8rxicIAAAAASUVORK5CYII.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "What is Pearl City High School known for?",
+   "type": "ai_overview",
+   "page_token": "h8rYJnicHdDBTsIwHIDx-DIeZd0YBhJiUtYiKn_Sbm1hF1M6YGPtNnWysZvv4lP5NBpP3-l3-b6-bVGVPzeXvG2bj9lo1HXd3amuT_ZwZ2o30h_XyoyMtnavTTmb3E_Qw9HMyecKL95WmImmkRH3EtIvIMCSiXADHhWAsAIftYkIC-H12HjpWEe8j_20A9QEkPBhn_A4Pu8GRcHxMg_-SpiVLAmkv15Krv0_RSUBIQsIMr7bkp7bphMqWykybaX3NMQuVElALXhPahNhytz4mg78ea_sOl32F7WkDUR5qGS-4DQ_KgcbE0GZel3wIsQVHrHmzvhchTGQrM8GuBofVSTPWlbC227LWuZJFNM1StyUaUedHjDf93XBBB_M2TpRoAhEWHGZY00QMWLKD-dyLCtaMjvNt34WC3Z7NJd5cPv_c_56dO2sea9Pv9w8gQw",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=h8rYJnicHdDBTsIwHIDx-DIeZd0YBhJiUtYiKn_Sbm1hF1M6YGPtNnWysZvv4lP5NBpP3-l3-b6-bVGVPzeXvG2bj9lo1HXd3amuT_ZwZ2o30h_XyoyMtnavTTmb3E_Qw9HMyecKL95WmImmkRH3EtIvIMCSiXADHhWAsAIftYkIC-H12HjpWEe8j_20A9QEkPBhn_A4Pu8GRcHxMg_-SpiVLAmkv15Krv0_RSUBIQsIMr7bkp7bphMqWykybaX3NMQuVElALXhPahNhytz4mg78ea_sOl32F7WkDUR5qGS-4DQ_KgcbE0GZel3wIsQVHrHmzvhchTGQrM8GuBofVSTPWlbC227LWuZJFNM1StyUaUedHjDf93XBBB_M2TpRoAhEWHGZY00QMWLKD-dyLCtaMjvNt34WC3Z7NJd5cPv_c_56dO2sea9Pv9w8gQw",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZITnZlbVIwZFZsR1ZXOUtOa1p5TTJKa1VrcDJRVmhyZUVZeGRHRk1lbWswTXpOdlprdHVjVFJ0YlUxU1dGOHdWMVZ4YVd3dFdGUXdlQzFZTTJWRWN6TTRTbE14ZVRGR1ZVbEZObEp6ZDJsSlJuZ3dXRFJtYldGb1VSSVhiVUpEYW1GMExVTkZkVWhUTlU1dlVHcGhabXN3VVc4YUlrRkVjM0k1WmxFemRtSmZWa0ZSUlZCVlNWbHRaMjU1T0RCUU5WUTNPRTVIWm1jIiwiZmN2IjoiMyIsImVpIjoibUJDamF0LUNFdUhTNU5vUGphZmswUW8iLCJxYyI6IkNoMXdaV0Z5YkNCamFYUjVJR2hwWjJnZ2MyTm9iMjlzSUdoaGQyRnBhUkFBZmZLT1VEOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyBQZWFybCBDaXR5IEhpZ2ggU2Nob29sIGtub3duIGZvcj8iLCJsayI6IkdpaDNhR0YwSUdseklIQmxZWEpzSUdOcGRIa2dhR2xuYUNCelkyaHZiMndnYTI1dmQyNGdabTl5IiwiYnMiOiJjNDJRdlF2Q01CREZjYzNrM09rR0VSVUhyVGgzY09rb09IUVNDU1Z0RHBOY1NWS2pfNzIyZnRCS0JjZUQzM3Z2M21NWm0yZVNlMEFIZThHdGdoMzZHNlJZU2pqa2trakIyVkF3VUpCTjRrVTBDeS00YXVHOGdXVUR1eS1ZbFd6OU52WlNnQ2JuUVZ3cllSeGVSRS1EQmxJZU9HSVN4OUVxX0MyU3JZZ2QyU2FUQk53S2NLUUZGRnhUM1R4SWxYcGNsblNuMmZJVE5ZMG1BMlMzMXRQLXhMWkQ5bHpWMmlCUThXTzJOdURIU0QyTDhlZ08iLCJpZCI6ImZjX21CQ2phdC1DRXVIUzVOb1BqYWZrMFFvXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZITnZlbVIwZFZsR1ZXOUtOa1p5TTJKa1VrcDJRVmhyZUVZeGRHRk1lbWswTXpOdlprdHVjVFJ0YlUxU1dGOHdWMVZ4YVd3dFdGUXdlQzFZTTJWRWN6TTRTbE14ZVRGR1ZVbEZObEp6ZDJsSlJuZ3dXRFJtYldGb1VSSVhiVUpEYW1GMExVTkZkVWhUTlU1dlVHcGhabXN3VVc4YUlrRkVjM0k1WmxFemRtSmZWa0ZSUlZCVlNWbHRaMjU1T0RCUU5WUTNPRTVIWm1jIiwiZmN2IjoiMyIsImVpIjoibUJDamF0LUNFdUhTNU5vUGphZmswUW8iLCJxYyI6IkNoMXdaV0Z5YkNCamFYUjVJR2hwWjJnZ2MyTm9iMjlzSUdoaGQyRnBhUkFBZmZLT1VEOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyBQZWFybCBDaXR5IEhpZ2ggU2Nob29sIGtub3duIGZvcj8iLCJsayI6IkdpaDNhR0YwSUdseklIQmxZWEpzSUdOcGRIa2dhR2xuYUNCelkyaHZiMndnYTI1dmQyNGdabTl5IiwiYnMiOiJjNDJRdlF2Q01CREZjYzNrM09rR0VSVUhyVGgzY09rb09IUVNDU1Z0RHBOY1NWS2pfNzIyZnRCS0JjZUQzM3Z2M21NWm0yZVNlMEFIZThHdGdoMzZHNlJZU2pqa2trakIyVkF3VUpCTjRrVTBDeS00YXVHOGdXVUR1eS1ZbFd6OU52WlNnQ2JuUVZ3cllSeGVSRS1EQmxJZU9HSVN4OUVxX0MyU3JZZ2QyU2FUQk53S2NLUUZGRnhUM1R4SWxYcGNsblNuMmZJVE5ZMG1BMlMzMXRQLXhMWkQ5bHpWMmlCUThXTzJOdURIU0QyTDhlZ08iLCJpZCI6ImZjX21CQ2phdC1DRXVIUzVOb1BqYWZrMFFvXzUifQ%3D%3D"
+  },
+  {
+   "question": "What is the most expensive high school in Hawaii?",
+   "type": "ai_overview",
+   "page_token": "MF0r-3icHdBtbpswAIBh7TL92fChdCNSVImCTVltZLCdwJ8JTAgfNjipVxL_2xV2hp1qp1m1C7yP9P76I4d5-vvld2-Mft9tNuu6Pp6X5SxPj2JRm_r9PouNqKVsajHtnr4-uc-d2McfIny5ipAwrXmUOxSuWxqFls3gWjJwR6B1Gprio1euLcyTQsU2A-mtmqSmNA0zPvk15BBPekY8iA5QIuouawM0r2BAqAJD47lvpdK89V8t8omDaT9hKyGWwfGU8Kp-cdfWVuMhSv08rpzTmHZ8cLYCBmFxzGMESlNO2Ml4b9lhG7HD7Wdp8aVg6ZBBMHz2oizJv9Oon0s3vbRe-0qTsPu0q1Oi62bEeeF-8_iYbxuKTCN7y2ddxX1ryIQv5ZEY4nC3AMilKiC1Aqq2Yd7cloGw3IpRKg5l-cZiJ2M6obC6MC-2yCV3NOMRQZOSSZt2fejEx95_-P96_6NTZqevy_kfRhGNiA",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=MF0r-3icHdBtbpswAIBh7TL92fChdCNSVImCTVltZLCdwJ8JTAgfNjipVxL_2xV2hp1qp1m1C7yP9P76I4d5-vvld2-Mft9tNuu6Pp6X5SxPj2JRm_r9PouNqKVsajHtnr4-uc-d2McfIny5ipAwrXmUOxSuWxqFls3gWjJwR6B1Gprio1euLcyTQsU2A-mtmqSmNA0zPvk15BBPekY8iA5QIuouawM0r2BAqAJD47lvpdK89V8t8omDaT9hKyGWwfGU8Kp-cdfWVuMhSv08rpzTmHZ8cLYCBmFxzGMESlNO2Ml4b9lhG7HD7Wdp8aVg6ZBBMHz2oizJv9Oon0s3vbRe-0qTsPu0q1Oi62bEeeF-8_iYbxuKTCN7y2ddxX1ryIQv5ZEY4nC3AMilKiC1Aqq2Yd7cloGw3IpRKg5l-cZiJ2M6obC6MC-2yCV3NOMRQZOSSZt2fejEx95_-P96_6NTZqevy_kfRhGNiA",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZITnZlbVIwZFZsR1ZXOUtOa1p5TTJKa1VrcDJRVmhyZUVZeGRHRk1lbWswTXpOdlprdHVjVFJ0YlUxU1dGOHdWMVZ4YVd3dFdGUXdlQzFZTTJWRWN6TTRTbE14ZVRGR1ZVbEZObEp6ZDJsSlJuZ3dXRFJtYldGb1VSSVhiVUpEYW1GMExVTkZkVWhUTlU1dlVHcGhabXN3VVc4YUlrRkVjM0k1WmxFemRtSmZWa0ZSUlZCVlNWbHRaMjU1T0RCUU5WUTNPRTVIWm1jIiwiZmN2IjoiMyIsImVpIjoibUJDamF0LUNFdUhTNU5vUGphZmswUW8iLCJxYyI6IkNoMXdaV0Z5YkNCamFYUjVJR2hwWjJnZ2MyTm9iMjlzSUdoaGQyRnBhUkFBZmZLT1VEOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbW9zdCBleHBlbnNpdmUgaGlnaCBzY2hvb2wgaW4gSGF3YWlpPyIsImxrIjoiR2pCM2FHRjBJR2x6SUhSb1pTQnRiM04wSUdWNGNHVnVjMmwyWlNCb2FXZG9JSE5qYUc5dmJDQnBiaUJvWVhkaGFXayIsImJzIjoiYzQyUXZRdkNNQkRGY2MzazNPa0dFUlVIclRoM2NPa29PSFFTQ1NWdERwTmNTVktqXzcyMmZ0QktCY2VEMzN2djNtTVptMmVTZTBBSGU4R3RnaDM2RzZSWVNqamtra2pCMlZBd1VKQk40a1UwQ3ktNGF1RzhnV1VEdXktWWxXejlOdlpTZ0NiblFWd3JZUnhlUkUtREJsSWVPR0lTeDlFcV9DMlNyWWdkMlNhVEJOd0tjS1FGRkZ4VDNUeElsWHBjbG5TbjJmSVROWTBtQTJTMzF0UC14TFpEOWx6VjJpQlE4V08yTnVESFNEMkw4ZWdPIiwiaWQiOiJmY19tQkNqYXQtQ0V1SFM1Tm9QamFmazBRb181In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZITnZlbVIwZFZsR1ZXOUtOa1p5TTJKa1VrcDJRVmhyZUVZeGRHRk1lbWswTXpOdlprdHVjVFJ0YlUxU1dGOHdWMVZ4YVd3dFdGUXdlQzFZTTJWRWN6TTRTbE14ZVRGR1ZVbEZObEp6ZDJsSlJuZ3dXRFJtYldGb1VSSVhiVUpEYW1GMExVTkZkVWhUTlU1dlVHcGhabXN3VVc4YUlrRkVjM0k1WmxFemRtSmZWa0ZSUlZCVlNWbHRaMjU1T0RCUU5WUTNPRTVIWm1jIiwiZmN2IjoiMyIsImVpIjoibUJDamF0LUNFdUhTNU5vUGphZmswUW8iLCJxYyI6IkNoMXdaV0Z5YkNCamFYUjVJR2hwWjJnZ2MyTm9iMjlzSUdoaGQyRnBhUkFBZmZLT1VEOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbW9zdCBleHBlbnNpdmUgaGlnaCBzY2hvb2wgaW4gSGF3YWlpPyIsImxrIjoiR2pCM2FHRjBJR2x6SUhSb1pTQnRiM04wSUdWNGNHVnVjMmwyWlNCb2FXZG9JSE5qYUc5dmJDQnBiaUJvWVhkaGFXayIsImJzIjoiYzQyUXZRdkNNQkRGY2MzazNPa0dFUlVIclRoM2NPa29PSFFTQ1NWdERwTmNTVktqXzcyMmZ0QktCY2VEMzN2djNtTVptMmVTZTBBSGU4R3RnaDM2RzZSWVNqamtra2pCMlZBd1VKQk40a1UwQ3ktNGF1RzhnV1VEdXktWWxXejlOdlpTZ0NiblFWd3JZUnhlUkUtREJsSWVPR0lTeDlFcV9DMlNyWWdkMlNhVEJOd0tjS1FGRkZ4VDNUeElsWHBjbG5TbjJmSVROWTBtQTJTMzF0UC14TFpEOWx6VjJpQlE4V08yTnVESFNEMkw4ZWdPIiwiaWQiOiJmY19tQkNqYXQtQ0V1SFM1Tm9QamFmazBRb181In0%3D"
+  },
+  {
+   "question": "Who are some famous people from Pearl City, Hawaii?",
+   "type": "ai_overview",
+   "page_token": "wFFa5XicHdBdbpswAABg7TJ9bDAhnYgUVXPAyehwa4x_4pcKbBKS2MFtaCG87Qo7w06100zqd4Tv9197vJz_ffvT9r2_LmezYRjuD113sM297tysut4ueqYra-tKn5cP3x_A416v0k8N1-8aEuY9T4qgTFSJrfKFhH3lxqyY-7BJfy54kIf5ZKBCaigctjho9_gEW7wxWwliKkQADIAncwS_GqSBluqJhuBNuH5Opd8SEGdNiZ9LZPOdNPkuwDdxNpE4grAU2It0LGqRLTSAL3nCxnwD1o2NRYXQlV2KSqDYKgfCGuwizNv-mS0u9RbShvuPOgWktj8iveWRSBTNAX7iU2bpZFC5MWsdjrfiZC2TfGLo0LME0zKxWdqanpzx206SngQcUJSD0sWkcshVEyzqsTsSVkz6ZB1PWyGYSrQ1G8awkqGlXLBJJSiqJKQkVHMz3O3152p-93W9et27funfu8N_fuGLMw",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=wFFa5XicHdBdbpswAABg7TJ9bDAhnYgUVXPAyehwa4x_4pcKbBKS2MFtaCG87Qo7w06100zqd4Tv9197vJz_ffvT9r2_LmezYRjuD113sM297tysut4ueqYra-tKn5cP3x_A416v0k8N1-8aEuY9T4qgTFSJrfKFhH3lxqyY-7BJfy54kIf5ZKBCaigctjho9_gEW7wxWwliKkQADIAncwS_GqSBluqJhuBNuH5Opd8SEGdNiZ9LZPOdNPkuwDdxNpE4grAU2It0LGqRLTSAL3nCxnwD1o2NRYXQlV2KSqDYKgfCGuwizNv-mS0u9RbShvuPOgWktj8iveWRSBTNAX7iU2bpZFC5MWsdjrfiZC2TfGLo0LME0zKxWdqanpzx206SngQcUJSD0sWkcshVEyzqsTsSVkz6ZB1PWyGYSrQ1G8awkqGlXLBJJSiqJKQkVHMz3O3152p-93W9et27funfu8N_fuGLMw",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZITnZlbVIwZFZsR1ZXOUtOa1p5TTJKa1VrcDJRVmhyZUVZeGRHRk1lbWswTXpOdlprdHVjVFJ0YlUxU1dGOHdWMVZ4YVd3dFdGUXdlQzFZTTJWRWN6TTRTbE14ZVRGR1ZVbEZObEp6ZDJsSlJuZ3dXRFJtYldGb1VSSVhiVUpEYW1GMExVTkZkVWhUTlU1dlVHcGhabXN3VVc4YUlrRkVjM0k1WmxFemRtSmZWa0ZSUlZCVlNWbHRaMjU1T0RCUU5WUTNPRTVIWm1jIiwiZmN2IjoiMyIsImVpIjoibUJDamF0LUNFdUhTNU5vUGphZmswUW8iLCJxYyI6IkNoMXdaV0Z5YkNCamFYUjVJR2hwWjJnZ2MyTm9iMjlzSUdoaGQyRnBhUkFBZmZLT1VEOCIsInF1ZXN0aW9uIjoiV2hvIGFyZSBzb21lIGZhbW91cyBwZW9wbGUgZnJvbSBQZWFybCBDaXR5LCBIYXdhaWk/IiwibGsiOiJHaVJtWVcxdmRYTWdjR1Z2Y0d4bElHWnliMjBnY0dWaGNtd2dZMmwwZVNCb1lYZGhhV2siLCJicyI6ImM0MlF2UXZDTUJERmNjM2szT2tHRVJVSHJUaDNjT2tvT0hRU0NTVnREcE5jU1ZLal83MjJmdEJLQmNlRDMzdnYzbU1abTJlU2UwQUhlOEd0Z2gzNkc2UllTampra2tqQjJWQXdVSkJONGtVMEN5LTRhdUc4Z1dVRHV5LVlsV3o5TnZaU2dDYm5RVndyWVJ4ZVJFLURCbEllT0dJU3g5RXFfQzJTcllnZDJTYVRCTndLY0tRRkZGeFQzVHhJbFhwY2xuU24yZklUTlkwbUEyUzMxdFAteExaRDlselYyaUJROFdPMk51REhTRDJMOGVnTyIsImlkIjoiZmNfbUJDamF0LUNFdUhTNU5vUGphZmswUW9fNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZITnZlbVIwZFZsR1ZXOUtOa1p5TTJKa1VrcDJRVmhyZUVZeGRHRk1lbWswTXpOdlprdHVjVFJ0YlUxU1dGOHdWMVZ4YVd3dFdGUXdlQzFZTTJWRWN6TTRTbE14ZVRGR1ZVbEZObEp6ZDJsSlJuZ3dXRFJtYldGb1VSSVhiVUpEYW1GMExVTkZkVWhUTlU1dlVHcGhabXN3VVc4YUlrRkVjM0k1WmxFemRtSmZWa0ZSUlZCVlNWbHRaMjU1T0RCUU5WUTNPRTVIWm1jIiwiZmN2IjoiMyIsImVpIjoibUJDamF0LUNFdUhTNU5vUGphZmswUW8iLCJxYyI6IkNoMXdaV0Z5YkNCamFYUjVJR2hwWjJnZ2MyTm9iMjlzSUdoaGQyRnBhUkFBZmZLT1VEOCIsInF1ZXN0aW9uIjoiV2hvIGFyZSBzb21lIGZhbW91cyBwZW9wbGUgZnJvbSBQZWFybCBDaXR5LCBIYXdhaWk%2FIiwibGsiOiJHaVJtWVcxdmRYTWdjR1Z2Y0d4bElHWnliMjBnY0dWaGNtd2dZMmwwZVNCb1lYZGhhV2siLCJicyI6ImM0MlF2UXZDTUJERmNjM2szT2tHRVJVSHJUaDNjT2tvT0hRU0NTVnREcE5jU1ZLal83MjJmdEJLQmNlRDMzdnYzbU1abTJlU2UwQUhlOEd0Z2gzNkc2UllTampra2tqQjJWQXdVSkJONGtVMEN5LTRhdUc4Z1dVRHV5LVlsV3o5TnZaU2dDYm5RVndyWVJ4ZVJFLURCbEllT0dJU3g5RXFfQzJTcllnZDJTYVRCTndLY0tRRkZGeFQzVHhJbFhwY2xuU24yZklUTlkwbUEyUzMxdFAteExaRDlselYyaUJROFdPMk51REhTRDJMOGVnTyIsImlkIjoiZmNfbUJDamF0LUNFdUhTNU5vUGphZmswUW9fNSJ9"
+  },
+  {
+   "question": "Who are some famous alumni of Pearl City High School?",
+   "type": "ai_overview",
+   "page_token": "fRN_23icHdDPbpswAIBx7WV6bHDIsjVSNI1ih6Lg1AYb8GUCO-GP7UATFgi3vcKeoU_Vp1m1w3f-Sd-fd9Oc9ceXv_Uw9NfNYjGO42PVdZU5PsrOLorr_SwXsjCmLKTerL-twY-T3MKb9J4v0iOs77lPnQQqjzp6zkHvsDbs5Q5z5ZvnMg2bY5C73IT5cTfO1MdzhOosPnsvEmDEzfdllHBLXNSUAF0jl9M8o-s9mwrWwrts1V1AYEkqllQjEzv9K21pwAN6k7vPgvqCWQ1E0K0Ki3IaGCgQyo9GeKkPl_kZc-HWo7LV15iLN7UbDsr9eS81fUk1mFO2AofMayR7mlmGf3MYslLXs3KmfezSIPZNmCynQxSYpmACigSOsFYD0fgtz8hAHA5iFIHEPpFP3xazR8upawijs2yNZQlKSjauqO73WJtXavsDAWjCoD4VWQWUrT1GHk7ytnUf_r_e_jrZYdNfuuofdm6Nvw",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=fRN_23icHdDPbpswAIBx7WV6bHDIsjVSNI1ih6Lg1AYb8GUCO-GP7UATFgi3vcKeoU_Vp1m1w3f-Sd-fd9Oc9ceXv_Uw9NfNYjGO42PVdZU5PsrOLorr_SwXsjCmLKTerL-twY-T3MKb9J4v0iOs77lPnQQqjzp6zkHvsDbs5Q5z5ZvnMg2bY5C73IT5cTfO1MdzhOosPnsvEmDEzfdllHBLXNSUAF0jl9M8o-s9mwrWwrts1V1AYEkqllQjEzv9K21pwAN6k7vPgvqCWQ1E0K0Ki3IaGCgQyo9GeKkPl_kZc-HWo7LV15iLN7UbDsr9eS81fUk1mFO2AofMayR7mlmGf3MYslLXs3KmfezSIPZNmCynQxSYpmACigSOsFYD0fgtz8hAHA5iFIHEPpFP3xazR8upawijs2yNZQlKSjauqO73WJtXavsDAWjCoD4VWQWUrT1GHk7ytnUf_r_e_jrZYdNfuuofdm6Nvw",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZITnZlbVIwZFZsR1ZXOUtOa1p5TTJKa1VrcDJRVmhyZUVZeGRHRk1lbWswTXpOdlprdHVjVFJ0YlUxU1dGOHdWMVZ4YVd3dFdGUXdlQzFZTTJWRWN6TTRTbE14ZVRGR1ZVbEZObEp6ZDJsSlJuZ3dXRFJtYldGb1VSSVhiVUpEYW1GMExVTkZkVWhUTlU1dlVHcGhabXN3VVc4YUlrRkVjM0k1WmxFemRtSmZWa0ZSUlZCVlNWbHRaMjU1T0RCUU5WUTNPRTVIWm1jIiwiZmN2IjoiMyIsImVpIjoibUJDamF0LUNFdUhTNU5vUGphZmswUW8iLCJxYyI6IkNoMXdaV0Z5YkNCamFYUjVJR2hwWjJnZ2MyTm9iMjlzSUdoaGQyRnBhUkFBZmZLT1VEOCIsInF1ZXN0aW9uIjoiV2hvIGFyZSBzb21lIGZhbW91cyBhbHVtbmkgb2YgUGVhcmwgQ2l0eSBIaWdoIFNjaG9vbD8iLCJsayI6IkdpUndaV0Z5YkNCamFYUjVJR2hwWjJnZ2MyTm9iMjlzSUdaaGJXOTFjeUJoYkhWdGJtayIsImJzIjoiYzQyUXZRdkNNQkRGY2MzazNPa0dFUlVIclRoM2NPa29PSFFTQ1NWdERwTmNTVktqXzcyMmZ0QktCY2VEMzN2djNtTVptMmVTZTBBSGU4R3RnaDM2RzZSWVNqamtra2pCMlZBd1VKQk40a1UwQ3ktNGF1RzhnV1VEdXktWWxXejlOdlpTZ0NiblFWd3JZUnhlUkUtREJsSWVPR0lTeDlFcV9DMlNyWWdkMlNhVEJOd0tjS1FGRkZ4VDNUeElsWHBjbG5TbjJmSVROWTBtQTJTMzF0UC14TFpEOWx6VjJpQlE4V08yTnVESFNEMkw4ZWdPIiwiaWQiOiJmY19tQkNqYXQtQ0V1SFM1Tm9QamFmazBRb181In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFZITnZlbVIwZFZsR1ZXOUtOa1p5TTJKa1VrcDJRVmhyZUVZeGRHRk1lbWswTXpOdlprdHVjVFJ0YlUxU1dGOHdWMVZ4YVd3dFdGUXdlQzFZTTJWRWN6TTRTbE14ZVRGR1ZVbEZObEp6ZDJsSlJuZ3dXRFJtYldGb1VSSVhiVUpEYW1GMExVTkZkVWhUTlU1dlVHcGhabXN3VVc4YUlrRkVjM0k1WmxFemRtSmZWa0ZSUlZCVlNWbHRaMjU1T0RCUU5WUTNPRTVIWm1jIiwiZmN2IjoiMyIsImVpIjoibUJDamF0LUNFdUhTNU5vUGphZmswUW8iLCJxYyI6IkNoMXdaV0Z5YkNCamFYUjVJR2hwWjJnZ2MyTm9iMjlzSUdoaGQyRnBhUkFBZmZLT1VEOCIsInF1ZXN0aW9uIjoiV2hvIGFyZSBzb21lIGZhbW91cyBhbHVtbmkgb2YgUGVhcmwgQ2l0eSBIaWdoIFNjaG9vbD8iLCJsayI6IkdpUndaV0Z5YkNCamFYUjVJR2hwWjJnZ2MyTm9iMjlzSUdaaGJXOTFjeUJoYkhWdGJtayIsImJzIjoiYzQyUXZRdkNNQkRGY2MzazNPa0dFUlVIclRoM2NPa29PSFFTQ1NWdERwTmNTVktqXzcyMmZ0QktCY2VEMzN2djNtTVptMmVTZTBBSGU4R3RnaDM2RzZSWVNqamtra2pCMlZBd1VKQk40a1UwQ3ktNGF1RzhnV1VEdXktWWxXejlOdlpTZ0NiblFWd3JZUnhlUkUtREJsSWVPR0lTeDlFcV9DMlNyWWdkMlNhVEJOd0tjS1FGRkZ4VDNUeElsWHBjbG5TbjJmSVROWTBtQTJTMzF0UC14TFpEOWx6VjJpQlE4V08yTnVESFNEMkw4ZWdPIiwiaWQiOiJmY19tQkNqYXQtQ0V1SFM1Tm9QamFmazBRb181In0%3D"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Pearl City High School",
+   "link": "https://www.pchs.k12.hi.us/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUwHrOzAVL6TCuQuL40e7nEN-PzL7JTfa3W8B4g1GvviSW8gt0fzYWmmgsidr8GJPEV4huC3Kyrd8bf1PrhPodaiO-Mu7KIs2jlzJxn10x3GmrpWK&ved=2ahUKEwjfrt_f6uSWAxVhKVkFHY0TOaoQFnoECEIQAQ&uoh=1",
+   "displayed_link": "https://www.pchs.k12.hi.us",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAY1BMVEVoSI6NdaqReq2gi7jNwtmjkLpuT5K6q8v____Z0eOeibb5-PvHvNW-sM5qSo_Ow9ru6vK2psiXgbHy7_Xp5O-EaqOJb6bc1eXUy9_29PiuncPCtdFzVpasmsF4W5pzVZbl3-wpZ2jLAAAAlElEQVR4AWLAChgBNciFDcAwAANBlx0sM2X_KRtQX2RfnhVlhb-6ISkEkZKNovJSamMjCLLt6Ouzqg4wjDr-qazmJQDF6t_G_ZiOwgaYyPMUghynrQngqy6u9GkjEwzYKO-S43x7UPv4PLVHaCrjYXzeuUOpgGtzWQDAsgdnpKgsKkec4gc_dubW8kkwvMCrCmwmwQftTwiFbuJjpQAAAABJRU5ErkJggg.png",
+   "snippet": "At Pearl City High School, we provide rigorous and authentic learning experiences, and differentiated instruction, and collaboratively use data to increase ...",
+   "snippet_highlighted_words": [
+    "Pearl City High School"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "Bell Schedules",
+      "link": "https://www.pchs.k12.hi.us/apps/bell_schedules/",
+      "snippet": "Pearl City High School. ... Pearl City High School. \u2630. The ..."
+     },
+     {
+      "title": "Athletics",
+      "link": "https://www.pchs.k12.hi.us/apps/pages/index.jsp?uREC_ID=407019&type=d",
+      "snippet": "Pearl City High School. ... hawaii.rr.com. BOY'S JV & VARSITY ..."
+     },
+     {
+      "title": "PCHS Official School Calendar",
+      "link": "https://www.pchs.k12.hi.us/apps/pages/index.jsp?uREC_ID=495559&type=d",
+      "snippet": "Pearl City High School. ... Please click on the link below for Pearl ..."
+     },
+     {
+      "title": "Contact",
+      "link": "https://www.pchs.k12.hi.us/apps/contact/",
+      "snippet": "Pearl City High School. ... Pearl City High School. \u2630. The ..."
+     },
+     {
+      "title": "Staff Directory",
+      "link": "https://www.pchs.k12.hi.us/apps/staff/",
+      "snippet": "Pearl City High School. ... Hawaii \u00b7 B Yamashiro's staff photo. B ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "At Pearl City High School, we provide rigorous and authentic learning experiences, and differentiated instruction, and collaboratively use data to increase ...",
+     "source_info_link": "https://www.pchs.k12.hi.us/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAY1BMVEVoSI6NdaqReq2gi7jNwtmjkLpuT5K6q8v____Z0eOeibb5-PvHvNW-sM5qSo_Ow9ru6vK2psiXgbHy7_Xp5O-EaqOJb6bc1eXUy9_29PiuncPCtdFzVpasmsF4W5pzVZbl3-wpZ2jLAAAAlElEQVR4AWLAChgBNciFDcAwAANBlx0sM2X_KRtQX2RfnhVlhb-6ISkEkZKNovJSamMjCLLt6Ouzqg4wjDr-qazmJQDF6t_G_ZiOwgaYyPMUghynrQngqy6u9GkjEwzYKO-S43x7UPv4PLVHaCrjYXzeuUOpgGtzWQDAsgdnpKgsKkec4gc_dubW8kkwvMCrCmwmwQftTwiFbuJjpQAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESUwHrOzAVL6TCuQuL40e7nEN-PzL7JTfa3W8B4g1GvviSW8gt0fzYWmmgsidr8GJPEV4huC3Kyrd8bf1PrhPodaiO-Mu7KIs2jlzJxn10x3GmrpWK&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESUwHrOzAVL6TCuQuL40e7nEN-PzL7JTfa3W8B4g1GvviSW8gt0fzYWmmgsidr8GJPEV4huC3Kyrd8bf1PrhPodaiO-Mu7KIs2jlzJxn10x3GmrpWK",
+   "source": "Pearl City High School"
+  },
+  {
+   "position": 2,
+   "title": "Pearl City High School (Hawaii)",
+   "link": "https://en.wikipedia.org/wiki/Pearl_City_High_School_(Hawaii)",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAV0jPkWR46-AucJ77yTxwFQoswmIQk3PmvpVSuZkzHTj8-gLW8CYkdmGoW5FOWlGzRO4a5ovD8zTU13-6XOhz9tjYd-YW-7qwDxG4YmALpC-PYxi8IqOXmgegALZ1NV-8ad4UU7Y0eRvCIcAuhmOhj1A&ved=2ahUKEwjfrt_f6uSWAxVhKVkFHY0TOaoQFnoECEMQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Pearl_City_High_Scho...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+   "snippet": "Pearl City High School is a public, co-ed comprehensive high school located in Pearl City, Hawaii which serves grades 9\u201312. Its mascot is the Charger and is ...",
+   "snippet_highlighted_words": [
+    "Pearl City High School",
+    "Hawaii"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Pearl City High School is a public, co-ed comprehensive high school located in Pearl City, Hawaii which serves grades 9\u201312. Its mascot is the Charger and is ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Pearl_City_High_School_(Hawaii)",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdQHrOzAV0jPkWR46-AucJ77yTxwFQoswmIQk3PmvpVSuZkzHTj8-gLW8CYkdmGoW5FOWlGzRO4a5ovD8zTU13-6XOhz9tjYd-YW-7qwDxG4YmALpC-PYxi8IqOXmgegALZ1NV-8ad4UU7Y0eRvCIcAuhmOhj1A&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdQHrOzAV0jPkWR46-AucJ77yTxwFQoswmIQk3PmvpVSuZkzHTj8-gLW8CYkdmGoW5FOWlGzRO4a5ovD8zTU13-6XOhz9tjYd-YW-7qwDxG4YmALpC-PYxi8IqOXmgegALZ1NV-8ad4UU7Y0eRvCIcAuhmOhj1A",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Pearl_City_High_School_(Hawaii)#:~:text=Pearl%20City%20High%20School%20is,(HIDOE)%20in%20the%20Leeward%20Complex."
+  },
+  {
+   "position": 3,
+   "title": "Pearl City High School - Hawaii",
+   "link": "https://www.usnews.com/education/best-high-schools/hawaii/districts/hawaii-department-of-education/pearl-city-high-school-6160",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEStgEB6zswFTi2QBIOvFIMhZTUKio-p8zLYPgxaGcInJL_S0YIhuHc55Mbhp45pekCoF_V14Rw1F4ovlukJxFSvFFloin3BqexdH0zohSyF1AADJDNWDwU3Kifpzw-xt65XbV_2cdZXGCc30PHL2jilW-_f962SEFbKXD89u8AvogN317AzcOBnBqJtiePlQ66IWSFJII6aYIpOOTfyC6wpHJspurJkV4HhPUxJH6_h3IzO-A5VbjTbQ&ved=2ahUKEwjfrt_f6uSWAxVhKVkFHY0TOaoQFnoECGsQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a education \u203a hawaii \u203a districts",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png",
+   "snippet": "Pearl City High School is ranked #3,451 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+   "snippet_highlighted_words": [
+    "Pearl City High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Pearl City High School is ranked #3,451 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/hawaii/districts/hawaii-department-of-education/pearl-city-high-school-6160",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEStgEB6zswFTi2QBIOvFIMhZTUKio-p8zLYPgxaGcInJL_S0YIhuHc55Mbhp45pekCoF_V14Rw1F4ovlukJxFSvFFloin3BqexdH0zohSyF1AADJDNWDwU3Kifpzw-xt65XbV_2cdZXGCc30PHL2jilW-_f962SEFbKXD89u8AvogN317AzcOBnBqJtiePlQ66IWSFJII6aYIpOOTfyC6wpHJspurJkV4HhPUxJH6_h3IzO-A5VbjTbQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEStgEB6zswFTi2QBIOvFIMhZTUKio-p8zLYPgxaGcInJL_S0YIhuHc55Mbhp45pekCoF_V14Rw1F4ovlukJxFSvFFloin3BqexdH0zohSyF1AADJDNWDwU3Kifpzw-xt65XbV_2cdZXGCc30PHL2jilW-_f962SEFbKXD89u8AvogN317AzcOBnBqJtiePlQ66IWSFJII6aYIpOOTfyC6wpHJspurJkV4HhPUxJH6_h3IzO-A5VbjTbQ",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/hawaii/districts/hawaii-department-of-education/pearl-city-high-school-6160#:~:text=Pearl%20City%20High%20School%20is,they%20prepare%20students%20for%20college."
+  },
+  {
+   "position": 4,
+   "title": "PEARL CITY HIGH SCHOOL - Updated September 2026",
+   "link": "https://www.yelp.com/biz/pearl-city-high-school-pearl-city-2",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHrOzAVQocdNPHNNmLd5TJ-njt3LvyIjYhxO5eB93QuU4LgrbEcIr53mX0hJn34L7vAVKAcv_FZzQdziBQy0Fdexb9LtVr9tax48v_qFeydgltNK55ej6ABuHqZTGsB6UyaDGGwOA0E_9Ok9CmbYP36aKCw&ved=2ahUKEwjfrt_f6uSWAxVhKVkFHY0TOaoQFnoECGkQAQ&uoh=1",
+   "displayed_link": "https://www.yelp.com \u203a biz \u203a pearl-city-high-school-pear...",
+   "favicon": "https://serpapi.com/searches/6aa3107806ca7ff8656ba22f/images/RY8FDn7Hi_895bmvS97w_ocuQnA8QI1i0GzNNi914sY.png",
+   "snippet": "More info about Pearl City High School ; 2100 Hookiekie St. Pearl City, HI 96782. Directions ; (808) 307-5500. Call Now ; Visit Website. http://www.pchs.k12.hi.us.",
+   "snippet_highlighted_words": [
+    "Pearl City High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "More info about Pearl City High School ; 2100 Hookiekie St. Pearl City, HI 96782. Directions ; (808) 307-5500. Call Now ; Visit Website. http://www.pchs.k12.hi.us.",
+     "source_info_link": "https://www.yelp.com/biz/pearl-city-high-school-pearl-city-2",
+     "icon": "https://serpapi.com/searches/6aa3107806ca7ff8656ba22f/images/RY8FDn7Hi_895bmvS97w_m2Z8SE6l20WdoUtozf3a5b8ms4q2lxISAWnF4j0vl4D.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdAHrOzAVQocdNPHNNmLd5TJ-njt3LvyIjYhxO5eB93QuU4LgrbEcIr53mX0hJn34L7vAVKAcv_FZzQdziBQy0Fdexb9LtVr9tax48v_qFeydgltNK55ej6ABuHqZTGsB6UyaDGGwOA0E_9Ok9CmbYP36aKCw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdAHrOzAVQocdNPHNNmLd5TJ-njt3LvyIjYhxO5eB93QuU4LgrbEcIr53mX0hJn34L7vAVKAcv_FZzQdziBQy0Fdexb9LtVr9tax48v_qFeydgltNK55ej6ABuHqZTGsB6UyaDGGwOA0E_9Ok9CmbYP36aKCw",
+   "source": "Yelp",
+   "read_more_link": "https://www.yelp.com/biz/pearl-city-high-school-pearl-city-2#:~:text=More%20info%20about%20Pearl%20City,High%20School&text=2100%20Hookiekie%20St,Directions&text=(808)%20307%2D5500,Call%20Now&text=Visit%20Website,http%3A%2F%2Fwww.pchs.k12.hi.us"
+  },
+  {
+   "position": 5,
+   "title": "Pearl City High School (@pearlcitycharger)",
+   "link": "https://www.instagram.com/pearlcitycharger/?hl=en",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVNhgZH5FIv6k6VG1OhxJj8u9Ki0bizNPAUMeiUJe-2zpjfPJq6DGZ5sJ-9owfhvaoh2BD5VWsnaNzSMoaFgPRgFCS8S3kXLYhDju3yGvq0RtiNv2JShIwukhRkerM1NiEH5AByg&ved=2ahUKEwjfrt_f6uSWAxVhKVkFHY0TOaoQFnoECGwQAQ&uoh=1",
+   "displayed_link": "2K+ followers",
+   "favicon": "https://serpapi.com/searches/6aa3107806ca7ff8656ba22f/images/RY8FDn7Hi_895bmvS97w_qM15xM5NcS_UjMsY054pH4.png",
+   "snippet": "[Official Account] for PEARL CITY HIGH SCHOOL \u26a1\ufe0f 2100 Hookiekie Street, Pearl City, HI.",
+   "snippet_highlighted_words": [
+    "PEARL CITY HIGH SCHOOL"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "[Official Account] for PEARL CITY HIGH SCHOOL \u26a1\ufe0f 2100 Hookiekie Street, Pearl City, HI.",
+     "source_info_link": "https://www.instagram.com/pearlcitycharger/?hl=en",
+     "icon": "https://serpapi.com/searches/6aa3107806ca7ff8656ba22f/images/RY8FDn7Hi_895bmvS97w_tnLEkmjjPPet8zTSteUsAW0OGWplJP1wxxu2bKfSAXg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESaQHrOzAVNhgZH5FIv6k6VG1OhxJj8u9Ki0bizNPAUMeiUJe-2zpjfPJq6DGZ5sJ-9owfhvaoh2BD5VWsnaNzSMoaFgPRgFCS8S3kXLYhDju3yGvq0RtiNv2JShIwukhRkerM1NiEH5AByg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESaQHrOzAVNhgZH5FIv6k6VG1OhxJj8u9Ki0bizNPAUMeiUJe-2zpjfPJq6DGZ5sJ-9owfhvaoh2BD5VWsnaNzSMoaFgPRgFCS8S3kXLYhDju3yGvq0RtiNv2JShIwukhRkerM1NiEH5AByg",
+   "source": "Instagram \u00b7 pearlcitycharger",
+   "read_more_link": "https://www.instagram.com/pearlcitycharger/?hl=en#:~:text=%5BOfficial%20Account%5D%20for%20PEARL%20CITY,Hookiekie%20Street%2C%20Pearl%20City%2C%20HI"
+  },
+  {
+   "position": 6,
+   "title": "Pearl City High School - Hawaii",
+   "link": "https://www.donorschoose.org/schools/hawaii/leeward-oahu-school-district/pearl-city-high-school/50810",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnQEB6zswFV1r0aUYFdVc6UovfFrX_PYCbXFBukMltGMrJu_T6Qkf6P99n7H32a-HcOpJKu0fjbrS5Z93HwQf6F8cL02AgfF_guKB3VYF25RSLNh-oStNkM8XAIUjeNsIdr0Jl4VfCGnEPLPwRJJ90_hSyNErSx5j32Qp46aaxZmMVIUdzrSDiawsl1ch2q_SK779y70ngvjxADuZjFZb&ved=2ahUKEwjfrt_f6uSWAxVhKVkFHY0TOaoQFnoECG0QAQ&uoh=1",
+   "displayed_link": "https://www.donorschoose.org \u203a schools \u203a hawaii \u203a pea...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEU4A8E4AcE4AME3CMA1DL8zEb0vGLovGboyE7wwFrslA7hhVcaAd9B9dM9lWcgbALe_u-b____e3PJ3bc25teTEwOixrOE2IbzJxeqKgtORitaoot0AALLp5_drYMqak9minNtEM7_oabQTAAAA3klEQVR4AXWSBRIDIQwAITh1d_v_J0uQTI7SHWUWiAqOTIghAEonFMCvUsa6jPUKOmecJZyfysAcolhs2-PIQkhHHzMmVM3j-dl8gSz9KmYZIEuF8VbrTWW7W-WPNT20q_2GOGTrAaVFUBJHtI5-Rck4hfqvZvJ8OWd5XSVpQEgub6v7g_79J28juX6W0POYvx0ntMoJyWEpLyoFfC_3K-pf375Ha58sT5ONuzfymn944xE8xFUmhjbQbKiDHKeBVlINHeEdU6HbP9Ae1xLXM-jB5gptElrAeOslwMR8AZhOFkQFCdvDAAAAAElFTkSuQmCC.png",
+   "snippet": "Pearl City High School is a suburban public school in Pearl City, Hawaii that is part of Leeward Oahu School District. It serves 1,474 students in grades 9 ...",
+   "snippet_highlighted_words": [
+    "Pearl City High School",
+    "Hawaii"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Pearl City High School is a suburban public school in Pearl City, Hawaii that is part of Leeward Oahu School District. It serves 1,474 students in grades 9 ...",
+     "source_info_link": "https://www.donorschoose.org/schools/hawaii/leeward-oahu-school-district/pearl-city-high-school/50810",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEU4A8E4AcE4AME3CMA1DL8zEb0vGLovGboyE7wwFrslA7hhVcaAd9B9dM9lWcgbALe_u-b____e3PJ3bc25teTEwOixrOE2IbzJxeqKgtORitaoot0AALLp5_drYMqak9minNtEM7_oabQTAAAA3klEQVR4AXWSBRIDIQwAITh1d_v_J0uQTI7SHWUWiAqOTIghAEonFMCvUsa6jPUKOmecJZyfysAcolhs2-PIQkhHHzMmVM3j-dl8gSz9KmYZIEuF8VbrTWW7W-WPNT20q_2GOGTrAaVFUBJHtI5-Rck4hfqvZvJ8OWd5XSVpQEgub6v7g_79J28juX6W0POYvx0ntMoJyWEpLyoFfC_3K-pf375Ha58sT5ONuzfymn944xE8xFUmhjbQbKiDHKeBVlINHeEdU6HbP9Ae1xLXM-jB5gptElrAeOslwMR8AZhOFkQFCdvDAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESnQEB6zswFV1r0aUYFdVc6UovfFrX_PYCbXFBukMltGMrJu_T6Qkf6P99n7H32a-HcOpJKu0fjbrS5Z93HwQf6F8cL02AgfF_guKB3VYF25RSLNh-oStNkM8XAIUjeNsIdr0Jl4VfCGnEPLPwRJJ90_hSyNErSx5j32Qp46aaxZmMVIUdzrSDiawsl1ch2q_SK779y70ngvjxADuZjFZb&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESnQEB6zswFV1r0aUYFdVc6UovfFrX_PYCbXFBukMltGMrJu_T6Qkf6P99n7H32a-HcOpJKu0fjbrS5Z93HwQf6F8cL02AgfF_guKB3VYF25RSLNh-oStNkM8XAIUjeNsIdr0Jl4VfCGnEPLPwRJJ90_hSyNErSx5j32Qp46aaxZmMVIUdzrSDiawsl1ch2q_SK779y70ngvjxADuZjFZb",
+   "source": "DonorsChoose",
+   "read_more_link": "https://www.donorschoose.org/schools/hawaii/leeward-oahu-school-district/pearl-city-high-school/50810#:~:text=Pearl%20City%20High%20School%20is,a%20student%2Fteacher%20ratio%20of%2014.3%3A1."
+  },
+  {
+   "position": 7,
+   "title": "Pearl City High School - Hawaii",
+   "link": "https://www.niche.com/k12/pearl-city-high-school-pearl-city-hi/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdwHrOzAVXcZaa-CknEAEVKj-wSyOWauGrIAd0x0bJXBrFMAKeZPwfRSouldacv3XNacZhvejILfipaXvvtThkcdmExU6uZ63eu_aK80CA916mxV9Be-XWqhTM0LICqg57qUh9R0jv61cAaMgm8UnEGVcmfuFmM4s&ved=2ahUKEwjfrt_f6uSWAxVhKVkFHY0TOaoQFnoECGoQAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a Hawaii",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png",
+   "snippet": "Pearl City High School is an above average, public school located in PEARL CITY, HI. It has 1,481 students in grades 9-12 with a student-teacher ratio of 16 ...",
+   "snippet_highlighted_words": [
+    "Pearl City High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Pearl City High School is an above average, public school located in PEARL CITY, HI. It has 1,481 students in grades 9-12 with a student-teacher ratio of 16 ...",
+     "source_info_link": "https://www.niche.com/k12/pearl-city-high-school-pearl-city-hi/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdwHrOzAVXcZaa-CknEAEVKj-wSyOWauGrIAd0x0bJXBrFMAKeZPwfRSouldacv3XNacZhvejILfipaXvvtThkcdmExU6uZ63eu_aK80CA916mxV9Be-XWqhTM0LICqg57qUh9R0jv61cAaMgm8UnEGVcmfuFmM4s&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdwHrOzAVXcZaa-CknEAEVKj-wSyOWauGrIAd0x0bJXBrFMAKeZPwfRSouldacv3XNacZhvejILfipaXvvtThkcdmExU6uZ63eu_aK80CA916mxV9Be-XWqhTM0LICqg57qUh9R0jv61cAaMgm8UnEGVcmfuFmM4s",
+   "source": "Niche",
+   "read_more_link": "https://www.niche.com/k12/pearl-city-high-school-pearl-city-hi/#:~:text=Pearl%20City%20High%20School%20is,ratio%20of%2016%20to%201."
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Pearl city high school hawaii football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQns_ydou7Re2hPaCfNufjd_CMOlX5Q:1789071512305&q=Pearl+city+high+school+hawaii+football&sa=X&ved=2ahUKEwjfrt_f6uSWAxVhKVkFHY0TOaoQ1QJ6BAhuEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pearl+city+high+school+hawaii+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Pearl city high school hawaii ranking",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQns_ydou7Re2hPaCfNufjd_CMOlX5Q:1789071512305&q=Pearl+city+high+school+hawaii+ranking&sa=X&ved=2ahUKEwjfrt_f6uSWAxVhKVkFHY0TOaoQ1QJ6BAh-EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pearl+city+high+school+hawaii+ranking"
+  },
+  {
+   "block_position": 1,
+   "query": "Pearl city high school hawaii reviews",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQns_ydou7Re2hPaCfNufjd_CMOlX5Q:1789071512305&q=Pearl+city+high+school+hawaii+reviews&sa=X&ved=2ahUKEwjfrt_f6uSWAxVhKVkFHY0TOaoQ1QJ6BAh6EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pearl+city+high+school+hawaii+reviews"
+  },
+  {
+   "block_position": 1,
+   "query": "Pearl city high school hawaii alumni",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQns_ydou7Re2hPaCfNufjd_CMOlX5Q:1789071512305&q=Pearl+city+high+school+hawaii+alumni&sa=X&ved=2ahUKEwjfrt_f6uSWAxVhKVkFHY0TOaoQ1QJ6BAh2EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pearl+city+high+school+hawaii+alumni"
+  },
+  {
+   "block_position": 1,
+   "query": "Pearl city high school hawaii principal",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQns_ydou7Re2hPaCfNufjd_CMOlX5Q:1789071512305&q=Pearl+city+high+school+hawaii+principal&sa=X&ved=2ahUKEwjfrt_f6uSWAxVhKVkFHY0TOaoQ1QJ6BAhyEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pearl+city+high+school+hawaii+principal"
+  },
+  {
+   "block_position": 1,
+   "query": "Pearl City High School Map",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQns_ydou7Re2hPaCfNufjd_CMOlX5Q:1789071512305&q=Pearl+City+High+School+Map&sa=X&ved=2ahUKEwjfrt_f6uSWAxVhKVkFHY0TOaoQ1QJ6BAhxEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pearl+City+High+School+Map"
+  },
+  {
+   "block_position": 1,
+   "query": "Pearl City High School Summer School 2026",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQns_ydou7Re2hPaCfNufjd_CMOlX5Q:1789071512305&q=Pearl+City+High+School+Summer+School+2026&sa=X&ved=2ahUKEwjfrt_f6uSWAxVhKVkFHY0TOaoQ1QJ6BAhwEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pearl+City+High+School+Summer+School+2026"
+  },
+  {
+   "block_position": 1,
+   "query": "Pearl city high school graduation 2026 schedule",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQns_ydou7Re2hPaCfNufjd_CMOlX5Q:1789071512305&q=Pearl+city+high+school+graduation+2026+schedule&sa=X&ved=2ahUKEwjfrt_f6uSWAxVhKVkFHY0TOaoQ1QJ6BAhvEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pearl+city+high+school+graduation+2026+schedule"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Pearl+City+High+School%22+Hawaii&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQns_ydou7Re2hPaCfNufjd_CMOlX5Q:1789071512305&ei=mBCjat-CEuHS5NoPjafk0Qo&start=10&sa=N&sstk=AS6-VmIU_tFrLsDsbZcDyTycWJE9Ffo3xEe_wCjfaf7VwA6iHbuSMMfelHI9yfK0A2seOr_UEh_bZzlf-_hplrsXLAr3N70WpDnPvQ&ved=2ahUKEwjfrt_f6uSWAxVhKVkFHY0TOaoQ8NMDegQIXRAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Pearl+City+High+School%22+Hawaii&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQns_ydou7Re2hPaCfNufjd_CMOlX5Q:1789071512305&ei=mBCjat-CEuHS5NoPjafk0Qo&start=10&sa=N&sstk=AS6-VmIU_tFrLsDsbZcDyTycWJE9Ffo3xEe_wCjfaf7VwA6iHbuSMMfelHI9yfK0A2seOr_UEh_bZzlf-_hplrsXLAr3N70WpDnPvQ&ved=2ahUKEwjfrt_f6uSWAxVhKVkFHY0TOaoQ8tMDegQIXRAE",
+   "3": "https://www.google.com/search?q=%22Pearl+City+High+School%22+Hawaii&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQns_ydou7Re2hPaCfNufjd_CMOlX5Q:1789071512305&ei=mBCjat-CEuHS5NoPjafk0Qo&start=20&sa=N&sstk=AS6-VmIU_tFrLsDsbZcDyTycWJE9Ffo3xEe_wCjfaf7VwA6iHbuSMMfelHI9yfK0A2seOr_UEh_bZzlf-_hplrsXLAr3N70WpDnPvQ&ved=2ahUKEwjfrt_f6uSWAxVhKVkFHY0TOaoQ8tMDegQIXRAG",
+   "4": "https://www.google.com/search?q=%22Pearl+City+High+School%22+Hawaii&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQns_ydou7Re2hPaCfNufjd_CMOlX5Q:1789071512305&ei=mBCjat-CEuHS5NoPjafk0Qo&start=30&sa=N&sstk=AS6-VmIU_tFrLsDsbZcDyTycWJE9Ffo3xEe_wCjfaf7VwA6iHbuSMMfelHI9yfK0A2seOr_UEh_bZzlf-_hplrsXLAr3N70WpDnPvQ&ved=2ahUKEwjfrt_f6uSWAxVhKVkFHY0TOaoQ8tMDegQIXRAI",
+   "5": "https://www.google.com/search?q=%22Pearl+City+High+School%22+Hawaii&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQns_ydou7Re2hPaCfNufjd_CMOlX5Q:1789071512305&ei=mBCjat-CEuHS5NoPjafk0Qo&start=40&sa=N&sstk=AS6-VmIU_tFrLsDsbZcDyTycWJE9Ffo3xEe_wCjfaf7VwA6iHbuSMMfelHI9yfK0A2seOr_UEh_bZzlf-_hplrsXLAr3N70WpDnPvQ&ved=2ahUKEwjfrt_f6uSWAxVhKVkFHY0TOaoQ8tMDegQIXRAK",
+   "6": "https://www.google.com/search?q=%22Pearl+City+High+School%22+Hawaii&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQns_ydou7Re2hPaCfNufjd_CMOlX5Q:1789071512305&ei=mBCjat-CEuHS5NoPjafk0Qo&start=50&sa=N&sstk=AS6-VmIU_tFrLsDsbZcDyTycWJE9Ffo3xEe_wCjfaf7VwA6iHbuSMMfelHI9yfK0A2seOr_UEh_bZzlf-_hplrsXLAr3N70WpDnPvQ&ved=2ahUKEwjfrt_f6uSWAxVhKVkFHY0TOaoQ8tMDegQIXRAM",
+   "7": "https://www.google.com/search?q=%22Pearl+City+High+School%22+Hawaii&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQns_ydou7Re2hPaCfNufjd_CMOlX5Q:1789071512305&ei=mBCjat-CEuHS5NoPjafk0Qo&start=60&sa=N&sstk=AS6-VmIU_tFrLsDsbZcDyTycWJE9Ffo3xEe_wCjfaf7VwA6iHbuSMMfelHI9yfK0A2seOr_UEh_bZzlf-_hplrsXLAr3N70WpDnPvQ&ved=2ahUKEwjfrt_f6uSWAxVhKVkFHY0TOaoQ8tMDegQIXRAO",
+   "8": "https://www.google.com/search?q=%22Pearl+City+High+School%22+Hawaii&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQns_ydou7Re2hPaCfNufjd_CMOlX5Q:1789071512305&ei=mBCjat-CEuHS5NoPjafk0Qo&start=70&sa=N&sstk=AS6-VmIU_tFrLsDsbZcDyTycWJE9Ffo3xEe_wCjfaf7VwA6iHbuSMMfelHI9yfK0A2seOr_UEh_bZzlf-_hplrsXLAr3N70WpDnPvQ&ved=2ahUKEwjfrt_f6uSWAxVhKVkFHY0TOaoQ8tMDegQIXRAQ",
+   "9": "https://www.google.com/search?q=%22Pearl+City+High+School%22+Hawaii&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQns_ydou7Re2hPaCfNufjd_CMOlX5Q:1789071512305&ei=mBCjat-CEuHS5NoPjafk0Qo&start=80&sa=N&sstk=AS6-VmIU_tFrLsDsbZcDyTycWJE9Ffo3xEe_wCjfaf7VwA6iHbuSMMfelHI9yfK0A2seOr_UEh_bZzlf-_hplrsXLAr3N70WpDnPvQ&ved=2ahUKEwjfrt_f6uSWAxVhKVkFHY0TOaoQ8tMDegQIXRAS",
+   "10": "https://www.google.com/search?q=%22Pearl+City+High+School%22+Hawaii&sca_esv=03bfe121ccbd9421&gl=us&hl=en&sxsrf=APpeQns_ydou7Re2hPaCfNufjd_CMOlX5Q:1789071512305&ei=mBCjat-CEuHS5NoPjafk0Qo&start=90&sa=N&sstk=AS6-VmIU_tFrLsDsbZcDyTycWJE9Ffo3xEe_wCjfaf7VwA6iHbuSMMfelHI9yfK0A2seOr_UEh_bZzlf-_hplrsXLAr3N70WpDnPvQ&ved=2ahUKEwjfrt_f6uSWAxVhKVkFHY0TOaoQ8tMDegQIXRAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pearl+City+High+School%22+Hawaii&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pearl+City+High+School%22+Hawaii&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pearl+City+High+School%22+Hawaii&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pearl+City+High+School%22+Hawaii&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pearl+City+High+School%22+Hawaii&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pearl+City+High+School%22+Hawaii&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pearl+City+High+School%22+Hawaii&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pearl+City+High+School%22+Hawaii&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pearl+City+High+School%22+Hawaii&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pearl+City+High+School%22+Hawaii&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Pearl+City+High+School%22+Hawaii&start=90"
+  }
+ }
+}

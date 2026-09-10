@@ -1,0 +1,489 @@
+{
+ "search_information": {
+  "query_displayed": "\"Brownsburg High School\" Indiana",
+  "total_results": 61300,
+  "time_taken_displayed": 0.26,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Brownsburg High School",
+  "type": "Public school in Brownsburg, Indiana",
+  "entity_type": "local_nav",
+  "kgmid": "/m/03cjpg7",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/03cjpg7&hl=en-US&q=Brownsburg+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F03cjpg7&q=Brownsburg+High+School",
+  "place_id": "ChIJS2wO6mWubIgREenw3FZTtFA",
+  "website": "https://bhs.brownsburg.k12.in.us/",
+  "description": "Brownsburg High School is a public high school located in Brownsburg, Indiana. The school is located within the Brownsburg Community School Corporation, which is in Hendricks County. The district includes the majority of Brownsburg and small portions of Avon.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa30894f05275dd9b82a77b/images/_P1BmgXD2graJWYUMbCwJy7CufiWTzxnob6EWDhbmmY.webp",
+   "link": "https://www.google.com/maps/place/Brownsburg+High+School/data=!4m2!3m1!1s0x0:0x50b45356dcf0e911?sa=X&ved=2ahUKEwjt6IKW4-SWAxUriCsGHcWXE-YQ_BJ6BAgYEAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Brownsburg_High_School"
+  },
+  "address": "1000 S Odell St, Brownsburg, IN 46112",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=brownsburg+high+school+address&ludocid=5815364651381221649&sa=X&ved=2ahUKEwjt6IKW4-SWAxUriCsGHcWXE-YQ6BN6BAgoEAI"
+   }
+  ],
+  "mascot": "Bulldog",
+  "mascot_links": [
+   {
+    "text": "Bulldog",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW6727ScFTeE65a8LLeL7ebk5mZj5EOxciGT82LU-sMiezuWNbEQViwPK1rAdsUiRvAH-2izagl4uaddUUOxKDHE7wpv7VAYMlVDADtp5BGfCDdEcPjsFk0hw9B9lcYTMByoD8NQE0BtlcTxSsyTzymYpUhC-iu&sa=X&ved=2ahUKEwjt6IKW4-SWAxUriCsGHcWXE-YQmxN6BAgvEAI"
+   }
+  ],
+  "colors": "White, Purple",
+  "colors_links": [
+   {
+    "text": "White",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpt2PmrrG0v_NNf8LKgZjBVjwPSJGOBj-fhttCVbIGZaHjsoJ58ApNamcWB1D7NIYQu_chEtRJyB-Fi_m50vC7hGkc9yOYQ112XXQw-77Rl10fFdDooKQfHUPE04Ri3nQ1gCV5hFug9j6E2BuBGrpvjV5d7WsDoNIIbijjCMscHsOHnbwYlUPi20kxS2ZkDKYgbjCmNQ%3D&sa=X&ved=2ahUKEwjt6IKW4-SWAxUriCsGHcWXE-YQmxN6BAgsEAI"
+   },
+   {
+    "text": "Purple",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpteLl-1ZA2WdXKSV4IoLcN9OtfCdI_D7osjKj2HeeRtLhCJAlo1raOSIh89zQLCCp05aD5tyx959ajM9PeKJfWtYO3ENW-UDHdG5-oMwOGbvMJEU7Us_fAYI_rw9-AOQVDJk6m9b0w8KchacjB7iFh_a1O9TCD6NVyIJUS1TOeEu0u9_Wx_6Rv-DG36IjLbVs392SuI%3D&sa=X&ved=2ahUKEwjt6IKW4-SWAxUriCsGHcWXE-YQmxN6BAgsEAM"
+   }
+  ],
+  "founded": "1907",
+  "phone": "(317) 852-2258",
+  "raw_hours": "Closed \u00b7 Opens 7 - 50 AM Fri",
+  "hours": {
+   "thursday": {
+    "opens": "7:50\u202fAM",
+    "closes": "2:50\u202fPM"
+   },
+   "friday": {
+    "opens": "7:50\u202fAM",
+    "closes": "2:50\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "7:50\u202fAM",
+    "closes": "2:50\u202fPM"
+   },
+   "tuesday": {
+    "opens": "7:50\u202fAM",
+    "closes": "2:50\u202fPM"
+   },
+   "wednesday": {
+    "opens": "7:50\u202fAM",
+    "closes": "2:20\u202fPM"
+   }
+  },
+  "unclaimed_listing": true,
+  "people_also_search_for": [
+   {
+    "name": "Avon High School",
+    "image": "https://serpapi.com/searches/6aa30894f05275dd9b82a77b/images/_P1BmgXD2graJWYUMbCwJ3XUZctCpO-TiqsbRMgobUYBTH4M2mewoG3Wgh77z3KY.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW673xq4etvINLZtZjsVd2tgC1prH3-ql1HSsscg4ScX5FcDe7Tm-mJTelxKXZuX8noTZJgXEp00y9gWlnkSbYDGWHFJpe-_UCNs_JlMipysUkPtmfOlOHbLP__2sJcJnuNYiBfw5-t6l0Ctan68o-x2GeH_7zZCPEY5i0lZQobRIzWtOXBaP11w50OZB4YJvN_E45-QwS4ZHSqLvFHUiGWelbdFn-ptMo4fZ8YktenJeA4aSWZ8WGtMo0tKBMsKbGsBdiq9RwdMcHZV02-sO21fRSn8fpw&q=Avon+High+School+(Indiana)&sa=X&ved=2ahUKEwjt6IKW4-SWAxUriCsGHcWXE-YQs9oBKAB6BAgcEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Avon+High+School+%28Indiana%29&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW673xq4etvINLZtZjsVd2tgC1prH3-ql1HSsscg4ScX5FcDe7Tm-mJTelxKXZuX8noTZJgXEp00y9gWlnkSbYDGWHFJpe-_UCNs_JlMipysUkPtmfOlOHbLP__2sJcJnuNYiBfw5-t6l0Ctan68o-x2GeH_7zZCPEY5i0lZQobRIzWtOXBaP11w50OZB4YJvN_E45-QwS4ZHSqLvFHUiGWelbdFn-ptMo4fZ8YktenJeA4aSWZ8WGtMo0tKBMsKbGsBdiq9RwdMcHZV02-sO21fRSn8fpw"
+   },
+   {
+    "name": "Carmel High School",
+    "image": "https://serpapi.com/searches/6aa30894f05275dd9b82a77b/images/_P1BmgXD2graJWYUMbCwJ3XUZctCpO-TiqsbRMgobUYVopR4O-RbyKdfsHgSDTOB.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ydGJz5tOqFNSVjIi_DKww4B8YCBASiSnSR_GvBWKq48bzwhoKAVvFRnv-Q0DBDCWXdiyfJ5h8cYx_FRxdLCAWyLk31rdxFW4gxXZLkSOnCtfjQYFrLFX_TxABWZzy4cF9R4puxPQh6uYTGXTzB-JJ5nJvAP6Mipr1gsAWbzWPWxg2JzNSyoPLhFolxYWItbBw2q02hXsalcyRFda95T_mHy4G3Z94W7NVtcAzrGzloO2uOex9pIFybjr3B_Nsh8KbgEnQvujX92W7l2F_aa4uKY1tC6F&q=Carmel+High+School&sa=X&ved=2ahUKEwjt6IKW4-SWAxUriCsGHcWXE-YQs9oBKAB6BAgcEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Carmel+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ydGJz5tOqFNSVjIi_DKww4B8YCBASiSnSR_GvBWKq48bzwhoKAVvFRnv-Q0DBDCWXdiyfJ5h8cYx_FRxdLCAWyLk31rdxFW4gxXZLkSOnCtfjQYFrLFX_TxABWZzy4cF9R4puxPQh6uYTGXTzB-JJ5nJvAP6Mipr1gsAWbzWPWxg2JzNSyoPLhFolxYWItbBw2q02hXsalcyRFda95T_mHy4G3Z94W7NVtcAzrGzloO2uOex9pIFybjr3B_Nsh8KbgEnQvujX92W7l2F_aa4uKY1tC6F"
+   },
+   {
+    "name": "Ben Davis High School",
+    "image": "https://serpapi.com/searches/6aa30894f05275dd9b82a77b/images/_P1BmgXD2graJWYUMbCwJ3XUZctCpO-TiqsbRMgobUY3fqWsJJV0tFn8RhgK-uad.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yZ1CkAlRyuFRLwUYif78HIxmJ0f4eSio2McZF1Vzra5Y_Gu25zUJWXn7636nlD8_iD1lhogRA5npAnPeFADGPhD1_pYndfeAV6owMTx8sWDkHQvYhN2_E6VISgWMpl3N24vraBk7Fa8-UyQqVMZmn72VZ9_ihpLCD22m4h1vAyn747Llg_I7tTZU4NNnsCdgkAxrXR5H40Th_IyI1qvVbn1KlpmLzezNE-wAdmBkgxucqk_8JSgH2V2mLHXMOPYcnSTKuj_wrRrJINbN7T4keo5aaRJP&q=Ben+Davis+High+School&sa=X&ved=2ahUKEwjt6IKW4-SWAxUriCsGHcWXE-YQs9oBKAB6BAgcEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ben+Davis+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yZ1CkAlRyuFRLwUYif78HIxmJ0f4eSio2McZF1Vzra5Y_Gu25zUJWXn7636nlD8_iD1lhogRA5npAnPeFADGPhD1_pYndfeAV6owMTx8sWDkHQvYhN2_E6VISgWMpl3N24vraBk7Fa8-UyQqVMZmn72VZ9_ihpLCD22m4h1vAyn747Llg_I7tTZU4NNnsCdgkAxrXR5H40Th_IyI1qvVbn1KlpmLzezNE-wAdmBkgxucqk_8JSgH2V2mLHXMOPYcnSTKuj_wrRrJINbN7T4keo5aaRJP"
+   },
+   {
+    "name": "Fishers High School",
+    "image": "https://serpapi.com/searches/6aa30894f05275dd9b82a77b/images/_P1BmgXD2graJWYUMbCwJ3XUZctCpO-TiqsbRMgobUZjlx3wePdsFyx8XI6lE5b3.png",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yedrd6ubDopvZIjLMqtZCnS2DvxcNzh4spOA9jcT5wBsThPqi4ko4TJkkO-QTHpDpu4zPi9WbjDDRyV8DuZbd2NKcmxnhFnle6aRZcL5YIilc56DZdtgeZ0LV8mP1yX-_5RM0F82b-Injc0bqjG6oQFt-d6sl1vjxjmP4mcwtq54B-tL5MqXD0seN16otx8D0XxG-fTv6NzPr4TlzFYZIGr-E1QsgbyGGtt_UWZ1_7r-zGaYBmlsj-63umgoCcLjpgzohDo6ry4YGu3rJOZhNNvC2ESP&q=Fishers+High+School&sa=X&ved=2ahUKEwjt6IKW4-SWAxUriCsGHcWXE-YQs9oBKAB6BAgcEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Fishers+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yedrd6ubDopvZIjLMqtZCnS2DvxcNzh4spOA9jcT5wBsThPqi4ko4TJkkO-QTHpDpu4zPi9WbjDDRyV8DuZbd2NKcmxnhFnle6aRZcL5YIilc56DZdtgeZ0LV8mP1yX-_5RM0F82b-Injc0bqjG6oQFt-d6sl1vjxjmP4mcwtq54B-tL5MqXD0seN16otx8D0XxG-fTv6NzPr4TlzFYZIGr-E1QsgbyGGtt_UWZ1_7r-zGaYBmlsj-63umgoCcLjpgzohDo6ry4YGu3rJOZhNNvC2ESP"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Brownsburg+High+School&stick=H4sIAAAAAAAAAONgFuLSz9U3ME7OKkg3V0JiawkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axCrmVJRfnlecVFqUruCRmZ6hEJyckZ-fs4OV8RabJMMbh4rAXL6mziXhhodYtRdtjkgKtkkP-34cAArP_4R-AAAA&sa=X&ved=2ahUKEwjt6IKW4-SWAxUriCsGHcWXE-YQzO0BKAR6BAgcEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLSz9U3ME7OKkg3V0JiawkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axCrmVJRfnlecVFqUruCRmZ6hEJyckZ-fs4OV8RabJMMbh4rAXL6mziXhhodYtRdtjkgKtkkP-34cAArP_4R-AAAA",
+  "profiles": [
+   {
+    "name": "YouTube",
+    "link": "https://www.youtube.com/channel/UC4M4wpV1MMEqKk4ozRmsW2g",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Brownsburg+High+School%22+Indiana",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAP1BMVEX_____z8__n5__kJD_gID_cHD_YGD_v7__39__ICD_AAD_r6__EBD_7-__oKD_MDD_QED_UFD_X1__j4__f396G04EAAAAhklEQVR4AeXQRQLDQAwDQC3bajj5_1dLYb63czYKf8VY50OcBO9swkyUB_SBkfJQlqOXeKJAz_FEQM9zVCqXInqRIy-RC9W-AJDypgCwyoGiV68LkLJFwX6CVJcr8nBwZJgLXMaDAs9RxsMcLE949IQnEnpoeKjEpC25o12OpVwkTURy_JQX1r4RC2S7kZYAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/bcscmoments/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Brownsburg+High+School%22+Indiana",
+    "image": "https://serpapi.com/searches/6aa30894f05275dd9b82a77b/images/_P1BmgXD2graJWYUMbCwJw52al37V_8i7nbBry5Nhc57M-JyA9wRWCmY4qquij20.png"
+   },
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/BrownsburgCommunitySchoolCorporation/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Brownsburg+High+School%22+Indiana",
+    "image": "https://serpapi.com/searches/6aa30894f05275dd9b82a77b/images/_P1BmgXD2graJWYUMbCwJxtzYSlpGbtRPNLraM_0_6PuwrzcWgGg1HKveokiS_zR.png"
+   },
+   {
+    "name": "X (Twitter)",
+    "link": "https://twitter.com/bhsprincipals",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Brownsburg+High+School%22+Indiana",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAABhUlEQVR4AczOA6xcARCF4X_us23btuLUQR3WZlhbQW3bto2gtm3b2J3GN4tY74uHh3okOi42Nj4AAUDwTvDEhisABCOAEAzYTBh0bN-lc5d0QgAhHPqX4Y4pkd367Zc-xMcXCPDg8TPwxeQH724Uj9N95GJ4pnHxby1xgCmV3v-GsFb7k0Iee7UjaQgmIYe9v9O4-wUKWaATyMPAViwvr1NnOQWDdTV5CHYSaKWLmaGDyvU4mTgQcllracaFr-9uk-yLM8k8fAJff0IUTghRVFu3M1ynkYk4nchiqqU3Ry05RDibMMhjtj6Ht3dJxVk_l1G64cspOusychBsCWm01WNM0jFs0sbEYUtIIuTXNco588OLh09JxE6wweuXEAvfL9PQus3-iU80N34KCaQyUOcxTTuSjEmMRI5rS9JwIZfD1t7ceo34YIpnuQ4nGwP8XXlq_fJZd9jE8KBHC5IwAELJ7dWrZ6fOuNhkgFgAEEIAwA1MQkw0AgDC_wnKycrKSQ2iPAkAVyNzq8rxicIAAAAASUVORK5CYII.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "What is Brownsburg High School ranked?",
+   "type": "ai_overview",
+   "page_token": "-Mig_3icHdBLUoMwGADg8TIuLSlFnc50HKlJXzaUNPmBbJw0QCmERxULZeddPJWn0fEC3-L7-janqvi5uWRt23xMR6Ou6-6OdX00yZ2uy5H6uFZ6pJUxB6WL6f3DPXpK9Qx_rtz5eeX6omnghVmcNGM2wFbOLUdwwhWRO4_QYo97eSjXO78yQ2AeUYiIHyHX276AxzH1NIYlJX_Mktm6yoptaRaAnU0Q0g1gcvGN6OhSdJI8I4GlHZROmuTrSAV9HhVwppAZNpATzbMeQka3iM51CIFHXBAWbX2rdjjHExaavcIy4wWC0G4uCWQTGMw-CdggF6urAtKp0HWYQCtp0QpncSfH5hyFYvBE08dArrEAP1mQlNvUpW598gUbdG5Kkbsnj0t1GGc7VaCIj9uN5PGrMn6fLGW_x-so7m5TfZnZt_-fs7e0bKfNe338BUMtgzY",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=-Mig_3icHdBLUoMwGADg8TIuLSlFnc50HKlJXzaUNPmBbJw0QCmERxULZeddPJWn0fEC3-L7-janqvi5uWRt23xMR6Ou6-6OdX00yZ2uy5H6uFZ6pJUxB6WL6f3DPXpK9Qx_rtz5eeX6omnghVmcNGM2wFbOLUdwwhWRO4_QYo97eSjXO78yQ2AeUYiIHyHX276AxzH1NIYlJX_Mktm6yoptaRaAnU0Q0g1gcvGN6OhSdJI8I4GlHZROmuTrSAV9HhVwppAZNpATzbMeQka3iM51CIFHXBAWbX2rdjjHExaavcIy4wWC0G4uCWQTGMw-CdggF6urAtKp0HWYQCtp0QpncSfH5hyFYvBE08dArrEAP1mQlNvUpW598gUbdG5Kkbsnj0t1GGc7VaCIj9uN5PGrMn6fLGW_x-so7m5TfZnZt_-fs7e0bKfNe338BUMtgzY",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVlrVnNhM2R0ZFU1c1pYQjBjMGRRT1VSTFlXNXBiM1p2ZURCQlRpMUJUREpLY1Vjd1VFZE5XVFV5Y21zMWFWWmxha3BXYlRCbFJ6RjRWakJUV1VWa1MydEhWbTFVYWpkcVlWbHphalZ5VW1WbmVtVk9PWFJ0T1hWVlp4SVhjR2RwYW1GMU16bEtjWFZSY25WRlVIaGhYMDl6UVRRYUlrRkVjM0k1WmxNMlJWTnFiMFZxTjNWMFYya3haRkJ4WXpSUVQyMHlMVk52WVhjIiwiZmN2IjoiMyIsImVpIjoicGdpamF1MzlKcXVRcnVFUHhhX09zQTQiLCJxYyI6IkNoNWljbTkzYm5OaWRYSm5JR2hwWjJnZ2MyTm9iMjlzSUdsdVpHbGhibUVRQUgwSXpGWV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgQnJvd25zYnVyZyBIaWdoIFNjaG9vbCByYW5rZWQ/IiwibGsiOiJHaVYzYUdGMElHbHpJR0p5YjNkdWMySjFjbWNnYUdsbmFDQnpZMmh2YjJ3Z2NtRnVhMlZrIiwiYnMiOiJjM1dQTVEtQ01CQkc0OXJKbWVrR3hjWEJFSU51SkU0NEdnY1N0d01xMXdBOTAxYUpfMTVSSTVqWV9iM3Y1Uk1IRVdhRURwU0ZuZUZPMl94cUtraFZSWEFzaUxrQmc3cVdaUkl0Z25uM0lmT0JwSjYwWTFKb0VhZmNRWXY2RHJVcUxWUU1qbjN6U3NOZWx3bzFKdEU2aU9pUDZjbXB0eWFzMkh4NzFxR1Q0SlJycElXU3BmY1Y0VTBtMFRhSXlhOTZ1cjBxVG1LVmtTb0lMb1lCSFRYU1BRMDBFczZHMjFGMU9kd0xnOWtQX1NKSGtjLWg2ZVFCIiwiaWQiOiJmY19wZ2lqYXUzOUpxdVFydUVQeGFfT3NBNF81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVlrVnNhM2R0ZFU1c1pYQjBjMGRRT1VSTFlXNXBiM1p2ZURCQlRpMUJUREpLY1Vjd1VFZE5XVFV5Y21zMWFWWmxha3BXYlRCbFJ6RjRWakJUV1VWa1MydEhWbTFVYWpkcVlWbHphalZ5VW1WbmVtVk9PWFJ0T1hWVlp4SVhjR2RwYW1GMU16bEtjWFZSY25WRlVIaGhYMDl6UVRRYUlrRkVjM0k1WmxNMlJWTnFiMFZxTjNWMFYya3haRkJ4WXpSUVQyMHlMVk52WVhjIiwiZmN2IjoiMyIsImVpIjoicGdpamF1MzlKcXVRcnVFUHhhX09zQTQiLCJxYyI6IkNoNWljbTkzYm5OaWRYSm5JR2hwWjJnZ2MyTm9iMjlzSUdsdVpHbGhibUVRQUgwSXpGWV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgQnJvd25zYnVyZyBIaWdoIFNjaG9vbCByYW5rZWQ%2FIiwibGsiOiJHaVYzYUdGMElHbHpJR0p5YjNkdWMySjFjbWNnYUdsbmFDQnpZMmh2YjJ3Z2NtRnVhMlZrIiwiYnMiOiJjM1dQTVEtQ01CQkc0OXJKbWVrR3hjWEJFSU51SkU0NEdnY1N0d01xMXdBOTAxYUpfMTVSSTVqWV9iM3Y1Uk1IRVdhRURwU0ZuZUZPMl94cUtraFZSWEFzaUxrQmc3cVdaUkl0Z25uM0lmT0JwSjYwWTFKb0VhZmNRWXY2RHJVcUxWUU1qbjN6U3NOZWx3bzFKdEU2aU9pUDZjbXB0eWFzMkh4NzFxR1Q0SlJycElXU3BmY1Y0VTBtMFRhSXlhOTZ1cjBxVG1LVmtTb0lMb1lCSFRYU1BRMDBFczZHMjFGMU9kd0xnOWtQX1NKSGtjLWg2ZVFCIiwiaWQiOiJmY19wZ2lqYXUzOUpxdVFydUVQeGFfT3NBNF81In0%3D"
+  },
+  {
+   "question": "How many kids go to Brownsburg High School in Indiana?",
+   "type": "ai_overview",
+   "page_token": "Dy-b0XicHdBBjpswGEBhzWVmOQETUk2kqBIzEIqEMzb-DXhTgR0gYAMTogDZ9Qo9Q0_V03TU5ZO-1fv1R1_67u_T7-Z2G6f9ZjPP80s9DLU-v8jBbIpp7eVGFlqXhez2u287-3slD_5dem9X6REYR_5OraSjGbGi6fQuJkCLRdIGgc_DvNeGtMotwXep2Vq0u31QJOIUKKJ9VCVhjQqmXMHrLxMZ5tC2hCASrDHnFt8Lf9jGoXclCOwiwzFOF0PT0Y1b-pYcB4dr-gBfJHFG7eRIH7mOUOJzhpHKMcivxm1xsQsKchVp4OYAjgz1qUTBmlndFsyyCiCImYZL5i9lOE6UN5Rp8QOjeVapapR-NSlTvTTBUnbc8Rs1C6Q_8wweJxgXxYNVASfnY1AxB3vYGy4E6EO22oATuEkabInDSZLFVsr0jlt2ftYjzo3CMdBezM-VvB-c5_-vDz8rc9uP16H-Bx7AjUo",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Dy-b0XicHdBBjpswGEBhzWVmOQETUk2kqBIzEIqEMzb-DXhTgR0gYAMTogDZ9Qo9Q0_V03TU5ZO-1fv1R1_67u_T7-Z2G6f9ZjPP80s9DLU-v8jBbIpp7eVGFlqXhez2u287-3slD_5dem9X6REYR_5OraSjGbGi6fQuJkCLRdIGgc_DvNeGtMotwXep2Vq0u31QJOIUKKJ9VCVhjQqmXMHrLxMZ5tC2hCASrDHnFt8Lf9jGoXclCOwiwzFOF0PT0Y1b-pYcB4dr-gBfJHFG7eRIH7mOUOJzhpHKMcivxm1xsQsKchVp4OYAjgz1qUTBmlndFsyyCiCImYZL5i9lOE6UN5Rp8QOjeVapapR-NSlTvTTBUnbc8Rs1C6Q_8wweJxgXxYNVASfnY1AxB3vYGy4E6EO22oATuEkabInDSZLFVsr0jlt2ftYjzo3CMdBezM-VvB-c5_-vDz8rc9uP16H-Bx7AjUo",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVlrVnNhM2R0ZFU1c1pYQjBjMGRRT1VSTFlXNXBiM1p2ZURCQlRpMUJUREpLY1Vjd1VFZE5XVFV5Y21zMWFWWmxha3BXYlRCbFJ6RjRWakJUV1VWa1MydEhWbTFVYWpkcVlWbHphalZ5VW1WbmVtVk9PWFJ0T1hWVlp4SVhjR2RwYW1GMU16bEtjWFZSY25WRlVIaGhYMDl6UVRRYUlrRkVjM0k1WmxNMlJWTnFiMFZxTjNWMFYya3haRkJ4WXpSUVQyMHlMVk52WVhjIiwiZmN2IjoiMyIsImVpIjoicGdpamF1MzlKcXVRcnVFUHhhX09zQTQiLCJxYyI6IkNoNWljbTkzYm5OaWRYSm5JR2hwWjJnZ2MyTm9iMjlzSUdsdVpHbGhibUVRQUgwSXpGWV8iLCJxdWVzdGlvbiI6IkhvdyBtYW55IGtpZHMgZ28gdG8gQnJvd25zYnVyZyBIaWdoIFNjaG9vbCBpbiBJbmRpYW5hPyIsImxrIjoiR2pKb2IzY2diV0Z1ZVNCcmFXUnpJR2R2SUhSdklHSnliM2R1YzJKMWNtY2dhR2xuYUNCelkyaHZiMndnYVc1a2FXRnVZUSIsImJzIjoiYzNXUE1RLUNNQkJHNDlySm1la0d4Y1hCRUlOdUpFNDRHZ2NTdHdNcTF3QTkwMWFKXzE1Ukk1allfYjN2NVJNSEVXYUVEcFNGbmVGTzJfeHFLa2hWUlhBc2lMa0JnN3FXWlJJdGdubjNJZk9CcEo2MFkxSm9FYWZjUVl2NkRyVXFMVlFNam4zelNzTmVsd28xSnRFNmlPaVA2Y21wdHlhczJIeDcxcUdUNEpScnBJV1NwZmNWNFUwbTBUYUl5YTk2dXIwcVRtS1ZrU29JTG9ZQkhUWFNQUTAwRXM2RzIxRjFPZHdMZzlrUF9TSkhrYy1oNmVRQiIsImlkIjoiZmNfcGdpamF1MzlKcXVRcnVFUHhhX09zQTRfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVlrVnNhM2R0ZFU1c1pYQjBjMGRRT1VSTFlXNXBiM1p2ZURCQlRpMUJUREpLY1Vjd1VFZE5XVFV5Y21zMWFWWmxha3BXYlRCbFJ6RjRWakJUV1VWa1MydEhWbTFVYWpkcVlWbHphalZ5VW1WbmVtVk9PWFJ0T1hWVlp4SVhjR2RwYW1GMU16bEtjWFZSY25WRlVIaGhYMDl6UVRRYUlrRkVjM0k1WmxNMlJWTnFiMFZxTjNWMFYya3haRkJ4WXpSUVQyMHlMVk52WVhjIiwiZmN2IjoiMyIsImVpIjoicGdpamF1MzlKcXVRcnVFUHhhX09zQTQiLCJxYyI6IkNoNWljbTkzYm5OaWRYSm5JR2hwWjJnZ2MyTm9iMjlzSUdsdVpHbGhibUVRQUgwSXpGWV8iLCJxdWVzdGlvbiI6IkhvdyBtYW55IGtpZHMgZ28gdG8gQnJvd25zYnVyZyBIaWdoIFNjaG9vbCBpbiBJbmRpYW5hPyIsImxrIjoiR2pKb2IzY2diV0Z1ZVNCcmFXUnpJR2R2SUhSdklHSnliM2R1YzJKMWNtY2dhR2xuYUNCelkyaHZiMndnYVc1a2FXRnVZUSIsImJzIjoiYzNXUE1RLUNNQkJHNDlySm1la0d4Y1hCRUlOdUpFNDRHZ2NTdHdNcTF3QTkwMWFKXzE1Ukk1allfYjN2NVJNSEVXYUVEcFNGbmVGTzJfeHFLa2hWUlhBc2lMa0JnN3FXWlJJdGdubjNJZk9CcEo2MFkxSm9FYWZjUVl2NkRyVXFMVlFNam4zelNzTmVsd28xSnRFNmlPaVA2Y21wdHlhczJIeDcxcUdUNEpScnBJV1NwZmNWNFUwbTBUYUl5YTk2dXIwcVRtS1ZrU29JTG9ZQkhUWFNQUTAwRXM2RzIxRjFPZHdMZzlrUF9TSkhrYy1oNmVRQiIsImlkIjoiZmNfcGdpamF1MzlKcXVRcnVFUHhhX09zQTRfNSJ9"
+  },
+  {
+   "question": "How many state titles does Brownsburg High School have?",
+   "type": "ai_overview",
+   "page_token": "I0V3uHicHdBfbpswHABg7TJ9bAwsqRIpqkSLC25qBLF__HmZwIbQ2oCbsED8tivsDD1VTzNp3xG-P1_6fVDfP_5202Quu9Vqnuf70ziedHMvxn5VXW6DWIlK67oSard52DiPrdgHV-E_nYWfcGPgOUVHhG2ju3McgknRwiQ6LfWzWgRfe3GGN8wT6zcvsZnuVNIbSAPicr3lhxymissi01tbK_qTAYTHYHthFhsawNQAJXFQKqGpx4IlTBW-HgNSHTgecoQs9MiTLmCBnEgMkcNDE70heaGDDrM8JbXCuAqpYThyK2Ti5oOUqSYLU-aJc_lKuePKTN-O3rguHOWyPG2LnA65a0qZQXngJU17HYD2pyYkmURrG3RyLl39WeTcxtwsEvBNckiaF9wyj_rUH98TnlrxoXvAxK2Z_M1ewKWItnEGkfDwa2EhYajzqUPicr5rxXXv3f2_3v9q-2lnzuPpHxeZjDY",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=I0V3uHicHdBfbpswHABg7TJ9bAwsqRIpqkSLC25qBLF__HmZwIbQ2oCbsED8tivsDD1VTzNp3xG-P1_6fVDfP_5202Quu9Vqnuf70ziedHMvxn5VXW6DWIlK67oSard52DiPrdgHV-E_nYWfcGPgOUVHhG2ju3McgknRwiQ6LfWzWgRfe3GGN8wT6zcvsZnuVNIbSAPicr3lhxymissi01tbK_qTAYTHYHthFhsawNQAJXFQKqGpx4IlTBW-HgNSHTgecoQs9MiTLmCBnEgMkcNDE70heaGDDrM8JbXCuAqpYThyK2Ti5oOUqSYLU-aJc_lKuePKTN-O3rguHOWyPG2LnA65a0qZQXngJU17HYD2pyYkmURrG3RyLl39WeTcxtwsEvBNckiaF9wyj_rUH98TnlrxoXvAxK2Z_M1ewKWItnEGkfDwa2EhYajzqUPicr5rxXXv3f2_3v9q-2lnzuPpHxeZjDY",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVlrVnNhM2R0ZFU1c1pYQjBjMGRRT1VSTFlXNXBiM1p2ZURCQlRpMUJUREpLY1Vjd1VFZE5XVFV5Y21zMWFWWmxha3BXYlRCbFJ6RjRWakJUV1VWa1MydEhWbTFVYWpkcVlWbHphalZ5VW1WbmVtVk9PWFJ0T1hWVlp4SVhjR2RwYW1GMU16bEtjWFZSY25WRlVIaGhYMDl6UVRRYUlrRkVjM0k1WmxNMlJWTnFiMFZxTjNWMFYya3haRkJ4WXpSUVQyMHlMVk52WVhjIiwiZmN2IjoiMyIsImVpIjoicGdpamF1MzlKcXVRcnVFUHhhX09zQTQiLCJxYyI6IkNoNWljbTkzYm5OaWRYSm5JR2hwWjJnZ2MyTm9iMjlzSUdsdVpHbGhibUVRQUgwSXpGWV8iLCJxdWVzdGlvbiI6IkhvdyBtYW55IHN0YXRlIHRpdGxlcyBkb2VzIEJyb3duc2J1cmcgSGlnaCBTY2hvb2wgaGF2ZT8iLCJsayI6IkdqWm9iM2NnYldGdWVTQnpkR0YwWlNCMGFYUnNaWE1nWkc5bGN5QmljbTkzYm5OaWRYSm5JR2hwWjJnZ2MyTm9iMjlzSUdoaGRtVSIsImJzIjoiYzNXUE1RLUNNQkJHNDlySm1la0d4Y1hCRUlOdUpFNDRHZ2NTdHdNcTF3QTkwMWFKXzE1Ukk1allfYjN2NVJNSEVXYUVEcFNGbmVGTzJfeHFLa2hWUlhBc2lMa0JnN3FXWlJJdGdubjNJZk9CcEo2MFkxSm9FYWZjUVl2NkRyVXFMVlFNam4zelNzTmVsd28xSnRFNmlPaVA2Y21wdHlhczJIeDcxcUdUNEpScnBJV1NwZmNWNFUwbTBUYUl5YTk2dXIwcVRtS1ZrU29JTG9ZQkhUWFNQUTAwRXM2RzIxRjFPZHdMZzlrUF9TSkhrYy1oNmVRQiIsImlkIjoiZmNfcGdpamF1MzlKcXVRcnVFUHhhX09zQTRfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVlrVnNhM2R0ZFU1c1pYQjBjMGRRT1VSTFlXNXBiM1p2ZURCQlRpMUJUREpLY1Vjd1VFZE5XVFV5Y21zMWFWWmxha3BXYlRCbFJ6RjRWakJUV1VWa1MydEhWbTFVYWpkcVlWbHphalZ5VW1WbmVtVk9PWFJ0T1hWVlp4SVhjR2RwYW1GMU16bEtjWFZSY25WRlVIaGhYMDl6UVRRYUlrRkVjM0k1WmxNMlJWTnFiMFZxTjNWMFYya3haRkJ4WXpSUVQyMHlMVk52WVhjIiwiZmN2IjoiMyIsImVpIjoicGdpamF1MzlKcXVRcnVFUHhhX09zQTQiLCJxYyI6IkNoNWljbTkzYm5OaWRYSm5JR2hwWjJnZ2MyTm9iMjlzSUdsdVpHbGhibUVRQUgwSXpGWV8iLCJxdWVzdGlvbiI6IkhvdyBtYW55IHN0YXRlIHRpdGxlcyBkb2VzIEJyb3duc2J1cmcgSGlnaCBTY2hvb2wgaGF2ZT8iLCJsayI6IkdqWm9iM2NnYldGdWVTQnpkR0YwWlNCMGFYUnNaWE1nWkc5bGN5QmljbTkzYm5OaWRYSm5JR2hwWjJnZ2MyTm9iMjlzSUdoaGRtVSIsImJzIjoiYzNXUE1RLUNNQkJHNDlySm1la0d4Y1hCRUlOdUpFNDRHZ2NTdHdNcTF3QTkwMWFKXzE1Ukk1allfYjN2NVJNSEVXYUVEcFNGbmVGTzJfeHFLa2hWUlhBc2lMa0JnN3FXWlJJdGdubjNJZk9CcEo2MFkxSm9FYWZjUVl2NkRyVXFMVlFNam4zelNzTmVsd28xSnRFNmlPaVA2Y21wdHlhczJIeDcxcUdUNEpScnBJV1NwZmNWNFUwbTBUYUl5YTk2dXIwcVRtS1ZrU29JTG9ZQkhUWFNQUTAwRXM2RzIxRjFPZHdMZzlrUF9TSkhrYy1oNmVRQiIsImlkIjoiZmNfcGdpamF1MzlKcXVRcnVFUHhhX09zQTRfNSJ9"
+  },
+  {
+   "question": "Which pro athletes are from Brownsburg, Indiana?",
+   "type": "ai_overview",
+   "page_token": "K3TtQHicHdBJbtswAEBR9DJZxhpatzVgFGAoJVZNJhpISdwUIqnBNGUxthLS2uUKPUNOldM06P4DD_hv7_pwOn58-TvMs7lsVitr7W0_Tb1ub8U0rprL9SRWotGaN-K4WX9f-786sY1eBbg7C5ASYyjMvJzsgiLoHVEaNUrODGpMguE38vqwgEkgjvJcV_GTVLhmEV2L0tV5iItCT98EHAZOGcUPGeOjqZtA7pAvXRMCSMq5Ewuamdr5-5KOuMxsCcGlUEnW3id76rEXobKXNvqsDj7kRBZt6UxbJgceDV42UlcrvCano2VR6vYkW3KNlfTQlQd-XY_p18z_uefE3GE_YXlETbEAzB9q-0hilPv0CWvTcYhBo4ET9IeNBmlZoJ_riiyPxDhJ46skNG3v464IMcBgOqSfjlB6pHGiEImfRUW8hrgTqZIGwZghyHCuzVgtOGD2phOv2_Dm_-vtn26cN-Y89f8AlB-O8A",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=K3TtQHicHdBJbtswAEBR9DJZxhpatzVgFGAoJVZNJhpISdwUIqnBNGUxthLS2uUKPUNOldM06P4DD_hv7_pwOn58-TvMs7lsVitr7W0_Tb1ub8U0rprL9SRWotGaN-K4WX9f-786sY1eBbg7C5ASYyjMvJzsgiLoHVEaNUrODGpMguE38vqwgEkgjvJcV_GTVLhmEV2L0tV5iItCT98EHAZOGcUPGeOjqZtA7pAvXRMCSMq5Ewuamdr5-5KOuMxsCcGlUEnW3id76rEXobKXNvqsDj7kRBZt6UxbJgceDV42UlcrvCano2VR6vYkW3KNlfTQlQd-XY_p18z_uefE3GE_YXlETbEAzB9q-0hilPv0CWvTcYhBo4ET9IeNBmlZoJ_riiyPxDhJ46skNG3v464IMcBgOqSfjlB6pHGiEImfRUW8hrgTqZIGwZghyHCuzVgtOGD2phOv2_Dm_-vtn26cN-Y89f8AlB-O8A",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVlrVnNhM2R0ZFU1c1pYQjBjMGRRT1VSTFlXNXBiM1p2ZURCQlRpMUJUREpLY1Vjd1VFZE5XVFV5Y21zMWFWWmxha3BXYlRCbFJ6RjRWakJUV1VWa1MydEhWbTFVYWpkcVlWbHphalZ5VW1WbmVtVk9PWFJ0T1hWVlp4SVhjR2RwYW1GMU16bEtjWFZSY25WRlVIaGhYMDl6UVRRYUlrRkVjM0k1WmxNMlJWTnFiMFZxTjNWMFYya3haRkJ4WXpSUVQyMHlMVk52WVhjIiwiZmN2IjoiMyIsImVpIjoicGdpamF1MzlKcXVRcnVFUHhhX09zQTQiLCJxYyI6IkNoNWljbTkzYm5OaWRYSm5JR2hwWjJnZ2MyTm9iMjlzSUdsdVpHbGhibUVRQUgwSXpGWV8iLCJxdWVzdGlvbiI6IldoaWNoIHBybyBhdGhsZXRlcyBhcmUgZnJvbSBCcm93bnNidXJnLCBJbmRpYW5hPyIsImxrIjoiR2lSd2NtOGdZWFJvYkdWMFpYTWdabkp2YlNCaWNtOTNibk5pZFhKbklHbHVaR2xoYm1FIiwiYnMiOiJjM1dQTVEtQ01CQkc0OXJKbWVrR3hjWEJFSU51SkU0NEdnY1N0d01xMXdBOTAxYUpfMTVSSTVqWV9iM3Y1Uk1IRVdhRURwU0ZuZUZPMl94cUtraFZSWEFzaUxrQmc3cVdaUkl0Z25uM0lmT0JwSjYwWTFKb0VhZmNRWXY2RHJVcUxWUU1qbjN6U3NOZWx3bzFKdEU2aU9pUDZjbXB0eWFzMkh4NzFxR1Q0SlJycElXU3BmY1Y0VTBtMFRhSXlhOTZ1cjBxVG1LVmtTb0lMb1lCSFRYU1BRMDBFczZHMjFGMU9kd0xnOWtQX1NKSGtjLWg2ZVFCIiwiaWQiOiJmY19wZ2lqYXUzOUpxdVFydUVQeGFfT3NBNF81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVlrVnNhM2R0ZFU1c1pYQjBjMGRRT1VSTFlXNXBiM1p2ZURCQlRpMUJUREpLY1Vjd1VFZE5XVFV5Y21zMWFWWmxha3BXYlRCbFJ6RjRWakJUV1VWa1MydEhWbTFVYWpkcVlWbHphalZ5VW1WbmVtVk9PWFJ0T1hWVlp4SVhjR2RwYW1GMU16bEtjWFZSY25WRlVIaGhYMDl6UVRRYUlrRkVjM0k1WmxNMlJWTnFiMFZxTjNWMFYya3haRkJ4WXpSUVQyMHlMVk52WVhjIiwiZmN2IjoiMyIsImVpIjoicGdpamF1MzlKcXVRcnVFUHhhX09zQTQiLCJxYyI6IkNoNWljbTkzYm5OaWRYSm5JR2hwWjJnZ2MyTm9iMjlzSUdsdVpHbGhibUVRQUgwSXpGWV8iLCJxdWVzdGlvbiI6IldoaWNoIHBybyBhdGhsZXRlcyBhcmUgZnJvbSBCcm93bnNidXJnLCBJbmRpYW5hPyIsImxrIjoiR2lSd2NtOGdZWFJvYkdWMFpYTWdabkp2YlNCaWNtOTNibk5pZFhKbklHbHVaR2xoYm1FIiwiYnMiOiJjM1dQTVEtQ01CQkc0OXJKbWVrR3hjWEJFSU51SkU0NEdnY1N0d01xMXdBOTAxYUpfMTVSSTVqWV9iM3Y1Uk1IRVdhRURwU0ZuZUZPMl94cUtraFZSWEFzaUxrQmc3cVdaUkl0Z25uM0lmT0JwSjYwWTFKb0VhZmNRWXY2RHJVcUxWUU1qbjN6U3NOZWx3bzFKdEU2aU9pUDZjbXB0eWFzMkh4NzFxR1Q0SlJycElXU3BmY1Y0VTBtMFRhSXlhOTZ1cjBxVG1LVmtTb0lMb1lCSFRYU1BRMDBFczZHMjFGMU9kd0xnOWtQX1NKSGtjLWg2ZVFCIiwiaWQiOiJmY19wZ2lqYXUzOUpxdVFydUVQeGFfT3NBNF81In0%3D"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Brownsburg High School: Home",
+   "link": "https://bhs.brownsburg.k12.in.us/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWQHrOzAVdlynMPJcyu1IgjptzIywx1U6MkVzLhY6rE60uom7KcAtieupXYkCUHPsmgHBchHTr6kHIYh6exOyDb-8q2_YhI2I_4gbcV_Ds5VvXvcue2Gz8pDb&ved=2ahUKEwjt6IKW4-SWAxUriCsGHcWXE-YQFnoECEEQAQ&uoh=1",
+   "displayed_link": "https://bhs.brownsburg.k12.in.us",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcExILoxILoxILoxILoxILoxILoxILoxILoxILoxILoxILoxILoxILoxILoxILoxILozoupScAAAAEXRSTlMACR8sc1SElUATZu-lydv_t-ZJVz8AAAF8SURBVHgBZZIHdgUhCEXpAqK4_9XGSU_-neq7xy78gEgshAivkJoNGaKm_tdgqIkHahJ6msafamn0mDkpNdiMfxwnI9eotfe6H0dVj696YsI2ImTOjLCKZPmqm5q9jgN4933zOm2a-ChMC1prKoB1G4DPtR3FHxnibGt2V4y9B9r9PeYqcSULVT0Nlzqza602raL3XlXdAvAcOcfsPrUCwlwVAMVlBADJ7nf2UyWGuCGgES8GV58fcqo63CiEAETP3rOX9ie6eu5dWQFao6_rlV9SVl_bZghBlKtqH_uSdnbVSnKEix4CdDs3WlXHbkpHga7iEEOAfF7MAGj6vJLzSZUHAc9BCBek2gE02PWpmTj2OD2Xa6b6nl03CPNHDgau2duhugt09iwHl7gSUyJ77aeH7gSgvVrRHB4iPbet7_3UM3ZqBrzDQg5WrjVnqZdAujjCB8EWLOPW2PclhKoE34RKMhPuDcTMCvH_TEtqiosIBfwHyVXFlRC-eANcZxKnflFOBgAAAABJRU5ErkJggg.png",
+   "snippet": "Home - Brownsburg High School. ... Read More about BHS Implements Indiana Electronic Device Law \u00b7 BHS Implements Indiana Electronic Device Law. July 13, 2026.",
+   "snippet_highlighted_words": [
+    "Brownsburg High School",
+    "Indiana",
+    "Indiana"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "Calendar",
+      "link": "https://bhs.brownsburg.k12.in.us/bhs-calendar",
+      "snippet": "Events - Brownsburg High School."
+     },
+     {
+      "title": "Directory",
+      "link": "https://bhs.brownsburg.k12.in.us/directory",
+      "snippet": "Directory - Brownsburg High School."
+     },
+     {
+      "title": "BHS-TV",
+      "link": "https://bhs.brownsburg.k12.in.us/brownsburg-high-school/bhs-tv",
+      "snippet": "BHS-TV - Brownsburg High School. ... BHS-TV is a member of the ..."
+     },
+     {
+      "title": "Bhs teams",
+      "link": "https://bhs.brownsburg.k12.in.us/brownsburg-high-school/teams",
+      "snippet": "Teams - Brownsburg High School."
+     },
+     {
+      "title": "Fine Arts",
+      "link": "https://bhs.brownsburg.k12.in.us/bhs-fine-arts",
+      "snippet": "Fine Arts - Brownsburg High School. ... The group also ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Home - Brownsburg High School. ... Read More about BHS Implements Indiana Electronic Device Law \u00b7 BHS Implements Indiana Electronic Device Law. July 13, 2026.",
+     "source_info_link": "https://bhs.brownsburg.k12.in.us/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcExILoxILoxILoxILoxILoxILoxILoxILoxILoxILoxILoxILoxILoxILoxILoxILozoupScAAAAEXRSTlMACR8sc1SElUATZu-lydv_t-ZJVz8AAAF8SURBVHgBZZIHdgUhCEXpAqK4_9XGSU_-neq7xy78gEgshAivkJoNGaKm_tdgqIkHahJ6msafamn0mDkpNdiMfxwnI9eotfe6H0dVj696YsI2ImTOjLCKZPmqm5q9jgN4933zOm2a-ChMC1prKoB1G4DPtR3FHxnibGt2V4y9B9r9PeYqcSULVT0Nlzqza602raL3XlXdAvAcOcfsPrUCwlwVAMVlBADJ7nf2UyWGuCGgES8GV58fcqo63CiEAETP3rOX9ie6eu5dWQFao6_rlV9SVl_bZghBlKtqH_uSdnbVSnKEix4CdDs3WlXHbkpHga7iEEOAfF7MAGj6vJLzSZUHAc9BCBek2gE02PWpmTj2OD2Xa6b6nl03CPNHDgau2duhugt09iwHl7gSUyJ77aeH7gSgvVrRHB4iPbet7_3UM3ZqBrzDQg5WrjVnqZdAujjCB8EWLOPW2PclhKoE34RKMhPuDcTMCvH_TEtqiosIBfwHyVXFlRC-eANcZxKnflFOBgAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESWQHrOzAVdlynMPJcyu1IgjptzIywx1U6MkVzLhY6rE60uom7KcAtieupXYkCUHPsmgHBchHTr6kHIYh6exOyDb-8q2_YhI2I_4gbcV_Ds5VvXvcue2Gz8pDb&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESWQHrOzAVdlynMPJcyu1IgjptzIywx1U6MkVzLhY6rE60uom7KcAtieupXYkCUHPsmgHBchHTr6kHIYh6exOyDb-8q2_YhI2I_4gbcV_Ds5VvXvcue2Gz8pDb",
+   "source": "Brownsburg High School"
+  },
+  {
+   "position": 2,
+   "title": "Brownsburg High School",
+   "link": "https://en.wikipedia.org/wiki/Brownsburg_High_School",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHrOzAV_k5CJnqPG03dG6P2HHvkCNXmCViQs50CnT5mMmqZoigGELVx0fXajhCGIxnqt4HKShBPG_otTgnFnrlmO-BN8BNayx4qTLsVoUHaJa8GvvRsTncTX3RBbV3_o-MW8ZoiTe_HnTXhRg&ved=2ahUKEwjt6IKW4-SWAxUriCsGHcWXE-YQFnoECEwQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Brownsburg_High_Sc...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+   "snippet": "Brownsburg High School is a public high school located in Brownsburg, Indiana. The school is located within the Brownsburg Community School Corporation, which ...",
+   "snippet_highlighted_words": [
+    "Brownsburg High School",
+    "Indiana"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Brownsburg High School is a public high school located in Brownsburg, Indiana. The school is located within the Brownsburg Community School Corporation, which ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Brownsburg_High_School",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESbAHrOzAV_k5CJnqPG03dG6P2HHvkCNXmCViQs50CnT5mMmqZoigGELVx0fXajhCGIxnqt4HKShBPG_otTgnFnrlmO-BN8BNayx4qTLsVoUHaJa8GvvRsTncTX3RBbV3_o-MW8ZoiTe_HnTXhRg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESbAHrOzAV_k5CJnqPG03dG6P2HHvkCNXmCViQs50CnT5mMmqZoigGELVx0fXajhCGIxnqt4HKShBPG_otTgnFnrlmO-BN8BNayx4qTLsVoUHaJa8GvvRsTncTX3RBbV3_o-MW8ZoiTe_HnTXhRg",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Brownsburg_High_School#:~:text=Brownsburg%20High%20School%20is%20a,which%20is%20in%20Hendricks%20County."
+  },
+  {
+   "position": 3,
+   "title": "Brownsburg High School - Indiana",
+   "link": "https://www.usnews.com/education/best-high-schools/indiana/districts/brownsburg-community-school-corp/brownsburg-high-school-7147",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESugEB6zswFZu0NvglN1_56_ZieuL3kDGs_gVpfP0QlLkmudVc1BOQNzZUUwMQ1UhT1-Q_XEuTc6DsEwxkWaLQ6Wi-J0MQ1Wnk-6K6qa4f9P-agxpRNItjDwFdGBnBoGbGPlP0Qut7iIWN_4qo4Ae-zpaKBmVdhSuWA-xOBQbrPvcPA1cFIxwcfAZ2CNs_DLywBFXyYNphgOfZkjwRcJghmoUawnADVgcuDdCmQJp9c8DYPxoYQkeM7How358&ved=2ahUKEwjt6IKW4-SWAxUriCsGHcWXE-YQFnoECHEQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a education \u203a indiana \u203a districts",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png",
+   "snippet": "Brownsburg High School is ranked #722 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+   "snippet_highlighted_words": [
+    "Brownsburg High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Brownsburg High School is ranked #722 in the National Rankings. Schools are ranked on their performance on state-required tests, graduation and how well they ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/indiana/districts/brownsburg-community-school-corp/brownsburg-high-school-7147",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESugEB6zswFZu0NvglN1_56_ZieuL3kDGs_gVpfP0QlLkmudVc1BOQNzZUUwMQ1UhT1-Q_XEuTc6DsEwxkWaLQ6Wi-J0MQ1Wnk-6K6qa4f9P-agxpRNItjDwFdGBnBoGbGPlP0Qut7iIWN_4qo4Ae-zpaKBmVdhSuWA-xOBQbrPvcPA1cFIxwcfAZ2CNs_DLywBFXyYNphgOfZkjwRcJghmoUawnADVgcuDdCmQJp9c8DYPxoYQkeM7How358&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESugEB6zswFZu0NvglN1_56_ZieuL3kDGs_gVpfP0QlLkmudVc1BOQNzZUUwMQ1UhT1-Q_XEuTc6DsEwxkWaLQ6Wi-J0MQ1Wnk-6K6qa4f9P-agxpRNItjDwFdGBnBoGbGPlP0Qut7iIWN_4qo4Ae-zpaKBmVdhSuWA-xOBQbrPvcPA1cFIxwcfAZ2CNs_DLywBFXyYNphgOfZkjwRcJghmoUawnADVgcuDdCmQJp9c8DYPxoYQkeM7How358",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/indiana/districts/brownsburg-community-school-corp/brownsburg-high-school-7147#:~:text=Brownsburg%20High%20School%20is%20ranked,they%20prepare%20students%20for%20college."
+  },
+  {
+   "position": 4,
+   "title": "Brownsburg Community School Corporation: Home",
+   "link": "https://www.brownsburg.k12.in.us/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWQHrOzAVkJebofqoFcmSkfaQ20T-RXmEcL2gMaq7mvzwQZPbg6iESzWw6Nwc-6k5THMSMZ3eIqXTqWPNgZ66l4Rdbzkk5XsS6RUYatf_xSWytK9pAU7hBeiZ&ved=2ahUKEwjt6IKW4-SWAxUriCsGHcWXE-YQFnoECG0QAQ&uoh=1",
+   "displayed_link": "https://www.brownsburg.k12.in.us",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcExILoxILoxILoxILoxILoxILoxILoxILoxILoxILoxILoxILoxILoxILoxILoxILozoupScAAAAEXRSTlMACR8sc1SElUATZu-lydv_t-ZJVz8AAAF8SURBVHgBZZIHdgUhCEXpAqK4_9XGSU_-neq7xy78gEgshAivkJoNGaKm_tdgqIkHahJ6msafamn0mDkpNdiMfxwnI9eotfe6H0dVj696YsI2ImTOjLCKZPmqm5q9jgN4933zOm2a-ChMC1prKoB1G4DPtR3FHxnibGt2V4y9B9r9PeYqcSULVT0Nlzqza602raL3XlXdAvAcOcfsPrUCwlwVAMVlBADJ7nf2UyWGuCGgES8GV58fcqo63CiEAETP3rOX9ie6eu5dWQFao6_rlV9SVl_bZghBlKtqH_uSdnbVSnKEix4CdDs3WlXHbkpHga7iEEOAfF7MAGj6vJLzSZUHAc9BCBek2gE02PWpmTj2OD2Xa6b6nl03CPNHDgau2duhugt09iwHl7gSUyJ77aeH7gSgvVrRHB4iPbet7_3UM3ZqBrzDQg5WrjVnqZdAujjCB8EWLOPW2PclhKoE34RKMhPuDcTMCvH_TEtqiosIBfwHyVXFlRC-eANcZxKnflFOBgAAAABJRU5ErkJggg.png",
+   "snippet": "Brownsburg High School \u00b7 Brownsburg East Middle School \u00b7 Brownsburg West Middle School \u00b7 Brownsburg Early Childhood Center \u00b7 Brown Elementary School \u00b7 Cardinal ...",
+   "snippet_highlighted_words": [
+    "Brownsburg High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Brownsburg High School \u00b7 Brownsburg East Middle School \u00b7 Brownsburg West Middle School \u00b7 Brownsburg Early Childhood Center \u00b7 Brown Elementary School \u00b7 Cardinal ...",
+     "source_info_link": "https://www.brownsburg.k12.in.us/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcExILoxILoxILoxILoxILoxILoxILoxILoxILoxILoxILoxILoxILoxILoxILoxILozoupScAAAAEXRSTlMACR8sc1SElUATZu-lydv_t-ZJVz8AAAF8SURBVHgBZZIHdgUhCEXpAqK4_9XGSU_-neq7xy78gEgshAivkJoNGaKm_tdgqIkHahJ6msafamn0mDkpNdiMfxwnI9eotfe6H0dVj696YsI2ImTOjLCKZPmqm5q9jgN4933zOm2a-ChMC1prKoB1G4DPtR3FHxnibGt2V4y9B9r9PeYqcSULVT0Nlzqza602raL3XlXdAvAcOcfsPrUCwlwVAMVlBADJ7nf2UyWGuCGgES8GV58fcqo63CiEAETP3rOX9ie6eu5dWQFao6_rlV9SVl_bZghBlKtqH_uSdnbVSnKEix4CdDs3WlXHbkpHga7iEEOAfF7MAGj6vJLzSZUHAc9BCBek2gE02PWpmTj2OD2Xa6b6nl03CPNHDgau2duhugt09iwHl7gSUyJ77aeH7gSgvVrRHB4iPbet7_3UM3ZqBrzDQg5WrjVnqZdAujjCB8EWLOPW2PclhKoE34RKMhPuDcTMCvH_TEtqiosIBfwHyVXFlRC-eANcZxKnflFOBgAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESWQHrOzAVkJebofqoFcmSkfaQ20T-RXmEcL2gMaq7mvzwQZPbg6iESzWw6Nwc-6k5THMSMZ3eIqXTqWPNgZ66l4Rdbzkk5XsS6RUYatf_xSWytK9pAU7hBeiZ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESWQHrOzAVkJebofqoFcmSkfaQ20T-RXmEcL2gMaq7mvzwQZPbg6iESzWw6Nwc-6k5THMSMZ3eIqXTqWPNgZ66l4Rdbzkk5XsS6RUYatf_xSWytK9pAU7hBeiZ",
+   "source": "Brownsburg Community School Corporation",
+   "read_more_link": "https://www.brownsburg.k12.in.us/#:~:text=District"
+  },
+  {
+   "position": 5,
+   "title": "Brownsburg High School - Indiana",
+   "link": "https://www.greatschools.org/indiana/brownsburg/175-Brownsburg-High-School/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgwEB6zswFeePuQuN6LnZfdtQeY2UFM6Qt0g4d48Rk3KNgSdEBb0jCCI3NlAbGFnmRAw_6mR_4sywQNeVwrMhjWJW4zfz6g9UQAT3Wy1BLg7ggINLJLf2RGI3z3zwu5hExmR7zIf4uj7ACgdc72c0jA1bJZdGd58abOWKBY2E5s0u22A3vg&ved=2ahUKEwjt6IKW4-SWAxUriCsGHcWXE-YQFnoECG4QAQ&uoh=1",
+   "displayed_link": "https://www.greatschools.org \u203a indiana \u203a 175-Brownsb...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX____6_v74_P7N6_jA5vfy-v3V7PiO0e89tuUApd-Ayu0eqeEiquEjquG64PQ_tOWq2vIwruJnw-rj8_vs9vx1yeye2fFav-ix4fQbruMAo9-Hy-yp1vCq3vSw2fGY0O5xwenE5vbe7_lFmiYHAAABRElEQVR4AVzSB5KDMAwFUNGRv-QSanq5_yHX4ImHrOg8d5lyFGVZ1XVVlgX9j6btet6j79rm11oDhmgMAcO0ByqsYxHEiAqAnS2y-QAF-tPJsWpwQRH8V-1m2g3jOE4c_DirINhkrYOKmDSuJdS0qihcu38bVkVoqZZzQ9XF76hsmq0iZENqrsyWBrklFMSqRcca0cUWwHcaw43uGyp3BZU9MmJ5PGPNTjZEX1LJklHBzJ4SCpdUsWaECPhaJFSuqOaM0seAKb9YH_FUEo3uiIdml2qkIZjiBU3NHgfEl2nDMaFw-TMV7mhwzgRomsrvIqwRsTWVFiEvX0NPvlQRQ-9S0tvvwkuoqZnfRENv6Z4XPqVMsexJmMaIh5SlZAuW9ePFzc6s0yHZaZsImBnYz2i--NlgmkOOG-xv2JIm4USNNzsAAN3rGxmBgpZiAAAAAElFTkSuQmCC.png",
+   "snippet": "Brownsburg High School is a public school in Brownsburg, IN, offering AP courses, 2 sports, and Project Lead The Way curriculum. It is the only high school ...",
+   "snippet_highlighted_words": [
+    "Brownsburg High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Brownsburg High School is a public school in Brownsburg, IN, offering AP courses, 2 sports, and Project Lead The Way curriculum. It is the only high school ...",
+     "source_info_link": "https://www.greatschools.org/indiana/brownsburg/175-Brownsburg-High-School/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX____6_v74_P7N6_jA5vfy-v3V7PiO0e89tuUApd-Ayu0eqeEiquEjquG64PQ_tOWq2vIwruJnw-rj8_vs9vx1yeye2fFav-ix4fQbruMAo9-Hy-yp1vCq3vSw2fGY0O5xwenE5vbe7_lFmiYHAAABRElEQVR4AVzSB5KDMAwFUNGRv-QSanq5_yHX4ImHrOg8d5lyFGVZ1XVVlgX9j6btet6j79rm11oDhmgMAcO0ByqsYxHEiAqAnS2y-QAF-tPJsWpwQRH8V-1m2g3jOE4c_DirINhkrYOKmDSuJdS0qihcu38bVkVoqZZzQ9XF76hsmq0iZENqrsyWBrklFMSqRcca0cUWwHcaw43uGyp3BZU9MmJ5PGPNTjZEX1LJklHBzJ4SCpdUsWaECPhaJFSuqOaM0seAKb9YH_FUEo3uiIdml2qkIZjiBU3NHgfEl2nDMaFw-TMV7mhwzgRomsrvIqwRsTWVFiEvX0NPvlQRQ-9S0tvvwkuoqZnfRENv6Z4XPqVMsexJmMaIh5SlZAuW9ePFzc6s0yHZaZsImBnYz2i--NlgmkOOG-xv2JIm4USNNzsAAN3rGxmBgpZiAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESgwEB6zswFeePuQuN6LnZfdtQeY2UFM6Qt0g4d48Rk3KNgSdEBb0jCCI3NlAbGFnmRAw_6mR_4sywQNeVwrMhjWJW4zfz6g9UQAT3Wy1BLg7ggINLJLf2RGI3z3zwu5hExmR7zIf4uj7ACgdc72c0jA1bJZdGd58abOWKBY2E5s0u22A3vg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESgwEB6zswFeePuQuN6LnZfdtQeY2UFM6Qt0g4d48Rk3KNgSdEBb0jCCI3NlAbGFnmRAw_6mR_4sywQNeVwrMhjWJW4zfz6g9UQAT3Wy1BLg7ggINLJLf2RGI3z3zwu5hExmR7zIf4uj7ACgdc72c0jA1bJZdGd58abOWKBY2E5s0u22A3vg",
+   "source": "GreatSchools"
+  },
+  {
+   "position": 6,
+   "title": "Teams - BROWNSBURG HIGH SCHOOL |",
+   "link": "https://brownsburgbulldogs.com/Teams/Fall",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYQHrOzAVjkIusu0XdmYoBiiZneWgWLeruXXkt0ZNKlGf_FEkCzxXB9jbQ1e5l17SI3jPXMGKaukkMmj2vcI6t8Ja5i222E4JaNtV28zpp7rxVTLst6Q830JkBBnQqWxC-yQ&ved=2ahUKEwjt6IKW4-SWAxUriCsGHcWXE-YQFnoECHQQAQ&uoh=1",
+   "displayed_link": "https://brownsburgbulldogs.com \u203a Teams \u203a Fall",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAilBMVEVHcEz____AwMDi4uL____Q0NC4uLews7X________T1NL________w8PD19fT3-Pfn5-fDw8H___-kqa2prrKMkJKnrK9fYWSYnKCfo6V5e3xkZmlydXhCPUpqbW5XWF2TlpiHiow3B1hMGHODholNTVF_g4YQCCDx8PL9_f0wID-BgYFAK1VdJ4gPiDs9AAAAE3RSTlMATPzHivz6_hsJySt0panI-OM4WceiKgAAAaRJREFUOI29kldz4kAQhJGQNBIywcxsjook-___PYtDR4HT210_bVV_tdvTs4vF_1O9fPnNTupVMPmfY7Wvv_EvWhCETZ1UVaqb5RdgP3KAoHRjY2qAi-yT_5Jsh8E1khNEa0OQ-lOeXINrPXFptUaiZuhj9UwUuTGESoCKPeOKBlw_EWVszxy50OiBSYZaKZE-Etlbpwl5Q9Yfg1YMvYanoKu2xUmcow6Ht0Y1tmEPQJX1rlUTQOM4sNHmIkrr1Kb8C-xcfjp4QrSyHyOwIMk5bUK6nGOUmR46M-VCY2V6yqP0kjuKvr83WnSdxgEMSsZ2_BjzXlrBzIkl95DvziB5IgumuOTKCwQCZlR5H7MLhBG5Px1P0ioiPt2GoPdzigt3EzAN2utcSGaEMIyDYnG-YX056vMVQAzNdV4iHM3ZqXlnSQqm6-yVIHHjEKFn_t5Vtdi49zPDaR9W3joNNvjiXtWkresOhykcY4RS9h5Wq_Wjv1hshqNvhXfOiQJev_vAKTdt2wp2-Poj5zohyVavsdhWPwC3J5dN-YM_q9797v8LfQAM6ysBbeVf8gAAAABJRU5ErkJggg.png",
+   "snippet": "SHOW SUPPORT FOR BROWNSBURG HIGH SCHOOL |. BUY TICKETS. Skip Footer. BROWNSBURG HIGH SCHOOL |. Powered By Eventlink logo. 1000 S ODELL ST. BROWNSBURG, IN 46112.",
+   "snippet_highlighted_words": [
+    "BROWNSBURG HIGH SCHOOL",
+    "BROWNSBURG HIGH SCHOOL"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "SHOW SUPPORT FOR BROWNSBURG HIGH SCHOOL |. BUY TICKETS. Skip Footer. BROWNSBURG HIGH SCHOOL |. Powered By Eventlink logo. 1000 S ODELL ST. BROWNSBURG, IN 46112.",
+     "source_info_link": "https://brownsburgbulldogs.com/Teams/Fall",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAilBMVEVHcEz____AwMDi4uL____Q0NC4uLews7X________T1NL________w8PD19fT3-Pfn5-fDw8H___-kqa2prrKMkJKnrK9fYWSYnKCfo6V5e3xkZmlydXhCPUpqbW5XWF2TlpiHiow3B1hMGHODholNTVF_g4YQCCDx8PL9_f0wID-BgYFAK1VdJ4gPiDs9AAAAE3RSTlMATPzHivz6_hsJySt0panI-OM4WceiKgAAAaRJREFUOI29kldz4kAQhJGQNBIywcxsjook-___PYtDR4HT210_bVV_tdvTs4vF_1O9fPnNTupVMPmfY7Wvv_EvWhCETZ1UVaqb5RdgP3KAoHRjY2qAi-yT_5Jsh8E1khNEa0OQ-lOeXINrPXFptUaiZuhj9UwUuTGESoCKPeOKBlw_EWVszxy50OiBSYZaKZE-Etlbpwl5Q9Yfg1YMvYanoKu2xUmcow6Ht0Y1tmEPQJX1rlUTQOM4sNHmIkrr1Kb8C-xcfjp4QrSyHyOwIMk5bUK6nGOUmR46M-VCY2V6yqP0kjuKvr83WnSdxgEMSsZ2_BjzXlrBzIkl95DvziB5IgumuOTKCwQCZlR5H7MLhBG5Px1P0ioiPt2GoPdzigt3EzAN2utcSGaEMIyDYnG-YX056vMVQAzNdV4iHM3ZqXlnSQqm6-yVIHHjEKFn_t5Vtdi49zPDaR9W3joNNvjiXtWkresOhykcY4RS9h5Wq_Wjv1hshqNvhXfOiQJev_vAKTdt2wp2-Poj5zohyVavsdhWPwC3J5dN-YM_q9797v8LfQAM6ysBbeVf8gAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYQHrOzAVjkIusu0XdmYoBiiZneWgWLeruXXkt0ZNKlGf_FEkCzxXB9jbQ1e5l17SI3jPXMGKaukkMmj2vcI6t8Ja5i222E4JaNtV28zpp7rxVTLst6Q830JkBBnQqWxC-yQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYQHrOzAVjkIusu0XdmYoBiiZneWgWLeruXXkt0ZNKlGf_FEkCzxXB9jbQ1e5l17SI3jPXMGKaukkMmj2vcI6t8Ja5i222E4JaNtV28zpp7rxVTLst6Q830JkBBnQqWxC-yQ",
+   "source": "brownsburgbulldogs.com",
+   "read_more_link": "https://brownsburgbulldogs.com/Teams/Fall#:~:text=SHOW%20SUPPORT%20FOR%20BROWNSBURG%20HIGH,BROWNSBURG%2C%20IN%2046112"
+  },
+  {
+   "position": 7,
+   "title": "Brownsburg High School - Indiana",
+   "link": "https://www.niche.com/k12/brownsburg-high-school-brownsburg-in/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdwHrOzAVzw3OH4bMOPXO2Yi4RJFbzYGZPfEPx9OwUkIMtDaJm1quzqBug36Vns8g61rBUBRujr_3BhpnPhAxY8IujC6dJl6RY_RvRZ0WY-Jogec57Kv4b5JINOBow_i-VK2vvU9Mr9KxhiUpE9uxYsdAVrCxfOgm&ved=2ahUKEwjt6IKW4-SWAxUriCsGHcWXE-YQFnoECGwQAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a Indiana",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png",
+   "snippet": "Brownsburg High School is a highly rated, public school located in BROWNSBURG, IN. It has 3,355 students in grades 9-12 with a student-teacher ratio of 20 ...",
+   "snippet_highlighted_words": [
+    "Brownsburg High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Brownsburg High School is a highly rated, public school located in BROWNSBURG, IN. It has 3,355 students in grades 9-12 with a student-teacher ratio of 20 ...",
+     "source_info_link": "https://www.niche.com/k12/brownsburg-high-school-brownsburg-in/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdwHrOzAVzw3OH4bMOPXO2Yi4RJFbzYGZPfEPx9OwUkIMtDaJm1quzqBug36Vns8g61rBUBRujr_3BhpnPhAxY8IujC6dJl6RY_RvRZ0WY-Jogec57Kv4b5JINOBow_i-VK2vvU9Mr9KxhiUpE9uxYsdAVrCxfOgm&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdwHrOzAVzw3OH4bMOPXO2Yi4RJFbzYGZPfEPx9OwUkIMtDaJm1quzqBug36Vns8g61rBUBRujr_3BhpnPhAxY8IujC6dJl6RY_RvRZ0WY-Jogec57Kv4b5JINOBow_i-VK2vvU9Mr9KxhiUpE9uxYsdAVrCxfOgm",
+   "source": "Niche",
+   "read_more_link": "https://www.niche.com/k12/brownsburg-high-school-brownsburg-in/#:~:text=Brownsburg%20High%20School%20is%20a,ratio%20of%2020%20to%201."
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Brownsburg high school indiana football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Brownsburg+high+school+indiana+football&sa=X&ved=2ahUKEwjt6IKW4-SWAxUriCsGHcWXE-YQ1QJ6BAhyEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Brownsburg+high+school+indiana+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Brownsburg high school Calendar",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Brownsburg+high+school+Calendar&sa=X&ved=2ahUKEwjt6IKW4-SWAxUriCsGHcWXE-YQ1QJ6BAh-EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Brownsburg+high+school+Calendar"
+  },
+  {
+   "block_position": 1,
+   "query": "Brownsburg high school indiana basketball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Brownsburg+high+school+indiana+basketball&sa=X&ved=2ahUKEwjt6IKW4-SWAxUriCsGHcWXE-YQ1QJ6BAh_EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Brownsburg+high+school+indiana+basketball"
+  },
+  {
+   "block_position": 1,
+   "query": "Brownsburg high school indiana famous alumni",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Brownsburg+high+school+indiana+famous+alumni&sa=X&ved=2ahUKEwjt6IKW4-SWAxUriCsGHcWXE-YQ1QJ6BQiEARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Brownsburg+high+school+indiana+famous+alumni"
+  },
+  {
+   "block_position": 1,
+   "query": "Brownsburg high school indiana yearbook",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Brownsburg+high+school+indiana+yearbook&sa=X&ved=2ahUKEwjt6IKW4-SWAxUriCsGHcWXE-YQ1QJ6BAhvEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Brownsburg+high+school+indiana+yearbook"
+  },
+  {
+   "block_position": 1,
+   "query": "Brownsburg High School map",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Brownsburg+High+School+map&sa=X&ved=2ahUKEwjt6IKW4-SWAxUriCsGHcWXE-YQ1QJ6BQiCARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Brownsburg+High+School+map"
+  },
+  {
+   "block_position": 1,
+   "query": "Brownsburg High school Website",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Brownsburg+High+school+Website&sa=X&ved=2ahUKEwjt6IKW4-SWAxUriCsGHcWXE-YQ1QJ6BAh9EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Brownsburg+High+school+Website"
+  },
+  {
+   "block_position": 1,
+   "query": "Brownsburg high school graduation 2026",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Brownsburg+high+school+graduation+2026&sa=X&ved=2ahUKEwjt6IKW4-SWAxUriCsGHcWXE-YQ1QJ6BAh6EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Brownsburg+high+school+graduation+2026"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Brownsburg+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=pgijau39JquQruEPxa_OsA4&start=10&sa=N&sstk=AS6-VmLQ4_er2i6dLtiHj1umXPUTYM0NNFOOFl4UbzIni0u8dHWLOcX0H3OzdPADPoGkYg_V2eQeCO9ET5BM2-Q5oN3r_kus_tZtdA&ved=2ahUKEwjt6IKW4-SWAxUriCsGHcWXE-YQ8NMDegQIWRAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Brownsburg+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=pgijau39JquQruEPxa_OsA4&start=10&sa=N&sstk=AS6-VmLQ4_er2i6dLtiHj1umXPUTYM0NNFOOFl4UbzIni0u8dHWLOcX0H3OzdPADPoGkYg_V2eQeCO9ET5BM2-Q5oN3r_kus_tZtdA&ved=2ahUKEwjt6IKW4-SWAxUriCsGHcWXE-YQ8tMDegQIWRAE",
+   "3": "https://www.google.com/search?q=%22Brownsburg+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=pgijau39JquQruEPxa_OsA4&start=20&sa=N&sstk=AS6-VmLQ4_er2i6dLtiHj1umXPUTYM0NNFOOFl4UbzIni0u8dHWLOcX0H3OzdPADPoGkYg_V2eQeCO9ET5BM2-Q5oN3r_kus_tZtdA&ved=2ahUKEwjt6IKW4-SWAxUriCsGHcWXE-YQ8tMDegQIWRAG",
+   "4": "https://www.google.com/search?q=%22Brownsburg+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=pgijau39JquQruEPxa_OsA4&start=30&sa=N&sstk=AS6-VmLQ4_er2i6dLtiHj1umXPUTYM0NNFOOFl4UbzIni0u8dHWLOcX0H3OzdPADPoGkYg_V2eQeCO9ET5BM2-Q5oN3r_kus_tZtdA&ved=2ahUKEwjt6IKW4-SWAxUriCsGHcWXE-YQ8tMDegQIWRAI",
+   "5": "https://www.google.com/search?q=%22Brownsburg+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=pgijau39JquQruEPxa_OsA4&start=40&sa=N&sstk=AS6-VmLQ4_er2i6dLtiHj1umXPUTYM0NNFOOFl4UbzIni0u8dHWLOcX0H3OzdPADPoGkYg_V2eQeCO9ET5BM2-Q5oN3r_kus_tZtdA&ved=2ahUKEwjt6IKW4-SWAxUriCsGHcWXE-YQ8tMDegQIWRAK",
+   "6": "https://www.google.com/search?q=%22Brownsburg+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=pgijau39JquQruEPxa_OsA4&start=50&sa=N&sstk=AS6-VmLQ4_er2i6dLtiHj1umXPUTYM0NNFOOFl4UbzIni0u8dHWLOcX0H3OzdPADPoGkYg_V2eQeCO9ET5BM2-Q5oN3r_kus_tZtdA&ved=2ahUKEwjt6IKW4-SWAxUriCsGHcWXE-YQ8tMDegQIWRAM",
+   "7": "https://www.google.com/search?q=%22Brownsburg+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=pgijau39JquQruEPxa_OsA4&start=60&sa=N&sstk=AS6-VmLQ4_er2i6dLtiHj1umXPUTYM0NNFOOFl4UbzIni0u8dHWLOcX0H3OzdPADPoGkYg_V2eQeCO9ET5BM2-Q5oN3r_kus_tZtdA&ved=2ahUKEwjt6IKW4-SWAxUriCsGHcWXE-YQ8tMDegQIWRAO",
+   "8": "https://www.google.com/search?q=%22Brownsburg+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=pgijau39JquQruEPxa_OsA4&start=70&sa=N&sstk=AS6-VmLQ4_er2i6dLtiHj1umXPUTYM0NNFOOFl4UbzIni0u8dHWLOcX0H3OzdPADPoGkYg_V2eQeCO9ET5BM2-Q5oN3r_kus_tZtdA&ved=2ahUKEwjt6IKW4-SWAxUriCsGHcWXE-YQ8tMDegQIWRAQ",
+   "9": "https://www.google.com/search?q=%22Brownsburg+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=pgijau39JquQruEPxa_OsA4&start=80&sa=N&sstk=AS6-VmLQ4_er2i6dLtiHj1umXPUTYM0NNFOOFl4UbzIni0u8dHWLOcX0H3OzdPADPoGkYg_V2eQeCO9ET5BM2-Q5oN3r_kus_tZtdA&ved=2ahUKEwjt6IKW4-SWAxUriCsGHcWXE-YQ8tMDegQIWRAS",
+   "10": "https://www.google.com/search?q=%22Brownsburg+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=pgijau39JquQruEPxa_OsA4&start=90&sa=N&sstk=AS6-VmLQ4_er2i6dLtiHj1umXPUTYM0NNFOOFl4UbzIni0u8dHWLOcX0H3OzdPADPoGkYg_V2eQeCO9ET5BM2-Q5oN3r_kus_tZtdA&ved=2ahUKEwjt6IKW4-SWAxUriCsGHcWXE-YQ8tMDegQIWRAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Brownsburg+High+School%22+Indiana&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Brownsburg+High+School%22+Indiana&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Brownsburg+High+School%22+Indiana&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Brownsburg+High+School%22+Indiana&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Brownsburg+High+School%22+Indiana&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Brownsburg+High+School%22+Indiana&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Brownsburg+High+School%22+Indiana&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Brownsburg+High+School%22+Indiana&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Brownsburg+High+School%22+Indiana&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Brownsburg+High+School%22+Indiana&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Brownsburg+High+School%22+Indiana&start=90"
+  }
+ }
+}

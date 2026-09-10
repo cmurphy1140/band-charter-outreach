@@ -1,0 +1,379 @@
+{
+ "search_information": {
+  "query_displayed": "\"Bellefontaine High School\" Delaware",
+  "total_results": 41100,
+  "time_taken_displayed": 0.25,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "related_questions": [
+  {
+   "question": "What is the best public high school in Delaware?",
+   "type": "ai_overview",
+   "page_token": "FbcqR3icHdDPTsIwAIDx-DIepd0fjCTEZLKBJCtpbbvZiyktrLJuqzDs2M1X8Bl8Kp9G4vm7_PJ9_dj3tv69-TZ9706zycR7f1d1XWV3d6prJvJ0adVESWu3UtWz6f0UPu7VPP1UydNRJZg5xxcE0JURJRSJAPpM24yr4MHT4gTJ0kflBY5bBo2gGeRQn1kg_EuA-xeop5jaJ3kwccHQhbVmKlYu1EGfYE4O3GYJggi-UrNmKW8IA5FeQioLA3PWX7vxmwIFm1U6bEp7FKX2uzoaFNQbHq7POU16BKKIAhEXjUtlWgWiFgMCQ6JAFZNWX_05yBdqFMwgfiAFvkBLmGFyCSPJdbZdoKzIHoYydESOGUPjc5QazURoP17L7AMBN1BoO90gLBu-J6MhedK9Y0ZGdbANoxbrkCPB8ghbjXlQxxqsyW5Rxzl0Ri8dEP52rz7n4e3_6_nbvuln7thVfxRBi68",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=FbcqR3icHdDPTsIwAIDx-DIepd0fjCTEZLKBJCtpbbvZiyktrLJuqzDs2M1X8Bl8Kp9G4vm7_PJ9_dj3tv69-TZ9706zycR7f1d1XWV3d6prJvJ0adVESWu3UtWz6f0UPu7VPP1UydNRJZg5xxcE0JURJRSJAPpM24yr4MHT4gTJ0kflBY5bBo2gGeRQn1kg_EuA-xeop5jaJ3kwccHQhbVmKlYu1EGfYE4O3GYJggi-UrNmKW8IA5FeQioLA3PWX7vxmwIFm1U6bEp7FKX2uzoaFNQbHq7POU16BKKIAhEXjUtlWgWiFgMCQ6JAFZNWX_05yBdqFMwgfiAFvkBLmGFyCSPJdbZdoKzIHoYydESOGUPjc5QazURoP17L7AMBN1BoO90gLBu-J6MhedK9Y0ZGdbANoxbrkCPB8ghbjXlQxxqsyW5Rxzl0Ri8dEP52rz7n4e3_6_nbvuln7thVfxRBi68",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU1XcExVM2xIVG0xU1pHVTNSbEpYTjB4Sk5FeHdOVFptTlZSeVlXWnJZbmgwVjAxRFgxOXJaMDFpWjJaWWJHMUZVbUpXZWpsdlNrWkZaeTFWVWkwek5FYzNjMEZTYURsQ1NHUldiakZTVmtoRGMxVTNPRWRZVlVkTVp4SVhWR2Q1YW1GeGFqZEtjVTlaYUhaalVHcGxYMGM0VVRBYUlrRkVjM0k1WmxSalUySnJjMWxaU2taemVXNHdURTB5Y1RFemJFbEtaMVUwWkhjIiwiZmN2IjoiMyIsImVpIjoiVGd5amFxajdKcU9ZaHZjUGplX0c4UTAiLCJxYyI6IkNpSmlaV3hzWldadmJuUmhhVzVsSUdocFoyZ2djMk5vYjI5c0lHUmxiR0YzWVhKbEVBQjlsb25jUGciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgcHVibGljIGhpZ2ggc2Nob29sIGluIERlbGF3YXJlPyIsImxrIjoiR2k5M2FHRjBJR2x6SUhSb1pTQmlaWE4wSUhCMVlteHBZeUJvYVdkb0lITmphRzl2YkNCcGJpQmtaV3hoZDJGeVpRIiwiYnMiOiJjNDJRTVF2Q01CQkdjYjNKT2RPQjFxbFU3UjhvcUVNM0ozRTFxV2x6R0JKcElzRl9yeTB0YlVYQl9iMlB1d2NTTm1mRlBaSkRyeVFLNlR6ZUgwSlRnWW9xaGE1UTFtb2tnd2VwZWVDMXpOSXRXNGZfbkd2bndCR2kzQVlVVkRYV1Rtb3RTMnM4SnlNeEg1d3NYYkdsR2tBeEFVZmpjSUdrdmZzOV9qRzNKX19zS0ljM1k0UEIwdFpabXJDNHYzbzZXM3dWNEFUeHVJem1kZFU4LXJOS3hCWnREYXEtY1gySi1ld0YiLCJpZCI6ImZjX1RneWphcWo3SnFPWWh2Y1BqZV9HOFEwXzQifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU1XcExVM2xIVG0xU1pHVTNSbEpYTjB4Sk5FeHdOVFptTlZSeVlXWnJZbmgwVjAxRFgxOXJaMDFpWjJaWWJHMUZVbUpXZWpsdlNrWkZaeTFWVWkwek5FYzNjMEZTYURsQ1NHUldiakZTVmtoRGMxVTNPRWRZVlVkTVp4SVhWR2Q1YW1GeGFqZEtjVTlaYUhaalVHcGxYMGM0VVRBYUlrRkVjM0k1WmxSalUySnJjMWxaU2taemVXNHdURTB5Y1RFemJFbEtaMVUwWkhjIiwiZmN2IjoiMyIsImVpIjoiVGd5amFxajdKcU9ZaHZjUGplX0c4UTAiLCJxYyI6IkNpSmlaV3hzWldadmJuUmhhVzVsSUdocFoyZ2djMk5vYjI5c0lHUmxiR0YzWVhKbEVBQjlsb25jUGciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgcHVibGljIGhpZ2ggc2Nob29sIGluIERlbGF3YXJlPyIsImxrIjoiR2k5M2FHRjBJR2x6SUhSb1pTQmlaWE4wSUhCMVlteHBZeUJvYVdkb0lITmphRzl2YkNCcGJpQmtaV3hoZDJGeVpRIiwiYnMiOiJjNDJRTVF2Q01CQkdjYjNKT2RPQjFxbFU3UjhvcUVNM0ozRTFxV2x6R0JKcElzRl9yeTB0YlVYQl9iMlB1d2NTTm1mRlBaSkRyeVFLNlR6ZUgwSlRnWW9xaGE1UTFtb2tnd2VwZWVDMXpOSXRXNGZfbkd2bndCR2kzQVlVVkRYV1Rtb3RTMnM4SnlNeEg1d3NYYkdsR2tBeEFVZmpjSUdrdmZzOV9qRzNKX19zS0ljM1k0UEIwdFpabXJDNHYzbzZXM3dWNEFUeHVJem1kZFU4LXJOS3hCWnREYXEtY1gySi1ld0YiLCJpZCI6ImZjX1RneWphcWo3SnFPWWh2Y1BqZV9HOFEwXzQifQ%3D%3D"
+  },
+  {
+   "question": "How big is Bellefontaine High school?",
+   "type": "ai_overview",
+   "page_token": "HiRQ-HicHdBNcpswGADQ6WW8jIWF3YlnPJ0QkH8alEKQZGvTEQIj4BPICQkuu94lp8ppkskF3uL9f4e6az9-vJlhcC_r-Xwcx5uq7ysob3Rv5-rlX6fnWgHkSrfr1c-V9-usN9HrPri_7IOEOcfDFGWheeWhaUTDH47TfiER9WLG_KcmXbAj85Xo_RQNv-OW_5HY4NKae7WVoKdDpLdDQDEJctJjGi3RYyStDnlTRq4-MSJzMYwJMjT3CvHUHPykSYG2slaQIrkoWh1V18dsP2konhWWlLGr5cJds11xoSTwRe0N2fag4pBaYcHJ7SBoR1hO2rEEOcXo1pUkWeqdxid0izRAF5mCSQyX05FcKPqyPOgLSxNl-TmdTBoHfZ2wdNINWAbVMg7vPIoh4-Asy7gRgnjFUe4UpzHv5ANLZmf9tsGz78_N37Md1u65rz4BQemEJQ",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=HiRQ-HicHdBNcpswGADQ6WW8jIWF3YlnPJ0QkH8alEKQZGvTEQIj4BPICQkuu94lp8ppkskF3uL9f4e6az9-vJlhcC_r-Xwcx5uq7ysob3Rv5-rlX6fnWgHkSrfr1c-V9-usN9HrPri_7IOEOcfDFGWheeWhaUTDH47TfiER9WLG_KcmXbAj85Xo_RQNv-OW_5HY4NKae7WVoKdDpLdDQDEJctJjGi3RYyStDnlTRq4-MSJzMYwJMjT3CvHUHPykSYG2slaQIrkoWh1V18dsP2konhWWlLGr5cJds11xoSTwRe0N2fag4pBaYcHJ7SBoR1hO2rEEOcXo1pUkWeqdxid0izRAF5mCSQyX05FcKPqyPOgLSxNl-TmdTBoHfZ2wdNINWAbVMg7vPIoh4-Asy7gRgnjFUe4UpzHv5ANLZmf9tsGz78_N37Md1u65rz4BQemEJQ",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU1XcExVM2xIVG0xU1pHVTNSbEpYTjB4Sk5FeHdOVFptTlZSeVlXWnJZbmgwVjAxRFgxOXJaMDFpWjJaWWJHMUZVbUpXZWpsdlNrWkZaeTFWVWkwek5FYzNjMEZTYURsQ1NHUldiakZTVmtoRGMxVTNPRWRZVlVkTVp4SVhWR2Q1YW1GeGFqZEtjVTlaYUhaalVHcGxYMGM0VVRBYUlrRkVjM0k1WmxSalUySnJjMWxaU2taemVXNHdURTB5Y1RFemJFbEtaMVUwWkhjIiwiZmN2IjoiMyIsImVpIjoiVGd5amFxajdKcU9ZaHZjUGplX0c4UTAiLCJxYyI6IkNpSmlaV3hzWldadmJuUmhhVzVsSUdocFoyZ2djMk5vYjI5c0lHUmxiR0YzWVhKbEVBQjlsb25jUGciLCJxdWVzdGlvbiI6IkhvdyBiaWcgaXMgQmVsbGVmb250YWluZSBIaWdoIHNjaG9vbD8iLCJsayI6IkdpUm9iM2NnWW1sbklHbHpJR0psYkd4bFptOXVkR0ZwYm1VZ2FHbG5hQ0J6WTJodmIydyIsImJzIjoiYzQyUU1RdkNNQkJHY2IzSk9kT0IxcWxVN1I4b3FFTTNKM0UxcVdsekdCSnBJc0ZfcnkwdGJVWEJfYjJQdXdjU05tZkZQWkpEcnlRSzZUemVIMEpUZ1lvcWhhNVExbW9rZ3dlcGVlQzF6Tkl0VzRmX25Hdm53QkdpM0FZVVZEWFdUbW90UzJzOEp5TXhINXdzWGJHbEdrQXhBVWZqY0lHa3ZmczlfakczSl9fc0tJYzNZNFBCMHRaWm1yQzR2M282VzN3VjRBVHh1SXptZGRVOC1yTkt4Qlp0RGFxLWNYMkotZXdGIiwiaWQiOiJmY19UZ3lqYXFqN0pxT1lodmNQamVfRzhRMF80In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU1XcExVM2xIVG0xU1pHVTNSbEpYTjB4Sk5FeHdOVFptTlZSeVlXWnJZbmgwVjAxRFgxOXJaMDFpWjJaWWJHMUZVbUpXZWpsdlNrWkZaeTFWVWkwek5FYzNjMEZTYURsQ1NHUldiakZTVmtoRGMxVTNPRWRZVlVkTVp4SVhWR2Q1YW1GeGFqZEtjVTlaYUhaalVHcGxYMGM0VVRBYUlrRkVjM0k1WmxSalUySnJjMWxaU2taemVXNHdURTB5Y1RFemJFbEtaMVUwWkhjIiwiZmN2IjoiMyIsImVpIjoiVGd5amFxajdKcU9ZaHZjUGplX0c4UTAiLCJxYyI6IkNpSmlaV3hzWldadmJuUmhhVzVsSUdocFoyZ2djMk5vYjI5c0lHUmxiR0YzWVhKbEVBQjlsb25jUGciLCJxdWVzdGlvbiI6IkhvdyBiaWcgaXMgQmVsbGVmb250YWluZSBIaWdoIHNjaG9vbD8iLCJsayI6IkdpUm9iM2NnWW1sbklHbHpJR0psYkd4bFptOXVkR0ZwYm1VZ2FHbG5hQ0J6WTJodmIydyIsImJzIjoiYzQyUU1RdkNNQkJHY2IzSk9kT0IxcWxVN1I4b3FFTTNKM0UxcVdsekdCSnBJc0ZfcnkwdGJVWEJfYjJQdXdjU05tZkZQWkpEcnlRSzZUemVIMEpUZ1lvcWhhNVExbW9rZ3dlcGVlQzF6Tkl0VzRmX25Hdm53QkdpM0FZVVZEWFdUbW90UzJzOEp5TXhINXdzWGJHbEdrQXhBVWZqY0lHa3ZmczlfakczSl9fc0tJYzNZNFBCMHRaWm1yQzR2M282VzN3VjRBVHh1SXptZGRVOC1yTkt4Qlp0RGFxLWNYMkotZXdGIiwiaWQiOiJmY19UZ3lqYXFqN0pxT1lodmNQamVfRzhRMF80In0%3D"
+  },
+  {
+   "question": "What are Bellefontaine City schools known for?",
+   "type": "ai_overview",
+   "page_token": "7OkmAnicHdBrbpswAABg7TL92eCytFukqJrLI_NqSzh-gP9UYMIjGOMEWgj_doWdoafaaSbtO8L3-9O0tvv75U8zTW7cbTbzPN_Xw1Cb070e-k0-3qze6NyYItfd7vHpETxXeh9-aPhy1TDhzomAeuxgfunIAXyg75lsArGKKI_JKzHJQ3Fw6uiJn0fTzcTP_DymQeaplVv3nlkzMkauuCMXFpFBBzAuPZJqD-BToLySbycWoh4HtGIHyHBHTWHgWXdTrOIGEEtC7SMiHhZZhtOSycVikN0K7pZ0rb_iNWozgW5HEwEcEyu7esbARUqQ-MjdC04hOhmIKN_yJBVSSdCeLJ7F2oyF_DaJc1RRXwMZKCS77wNugQ2bkivfXLI0uhDPLQyYoexJkveiomtDMRzahNNVn03P7Y_tq2yUtqhNBJSCEyglGClDSKXhKmzp1HxX6Y-9f_f_ev9W9dPOXYf6HyrMjsc",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=7OkmAnicHdBrbpswAABg7TL92eCytFukqJrLI_NqSzh-gP9UYMIjGOMEWgj_doWdoafaaSbtO8L3-9O0tvv75U8zTW7cbTbzPN_Xw1Cb070e-k0-3qze6NyYItfd7vHpETxXeh9-aPhy1TDhzomAeuxgfunIAXyg75lsArGKKI_JKzHJQ3Fw6uiJn0fTzcTP_DymQeaplVv3nlkzMkauuCMXFpFBBzAuPZJqD-BToLySbycWoh4HtGIHyHBHTWHgWXdTrOIGEEtC7SMiHhZZhtOSycVikN0K7pZ0rb_iNWozgW5HEwEcEyu7esbARUqQ-MjdC04hOhmIKN_yJBVSSdCeLJ7F2oyF_DaJc1RRXwMZKCS77wNugQ2bkivfXLI0uhDPLQyYoexJkveiomtDMRzahNNVn03P7Y_tq2yUtqhNBJSCEyglGClDSKXhKmzp1HxX6Y-9f_f_ev9W9dPOXYf6HyrMjsc",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU1XcExVM2xIVG0xU1pHVTNSbEpYTjB4Sk5FeHdOVFptTlZSeVlXWnJZbmgwVjAxRFgxOXJaMDFpWjJaWWJHMUZVbUpXZWpsdlNrWkZaeTFWVWkwek5FYzNjMEZTYURsQ1NHUldiakZTVmtoRGMxVTNPRWRZVlVkTVp4SVhWR2Q1YW1GeGFqZEtjVTlaYUhaalVHcGxYMGM0VVRBYUlrRkVjM0k1WmxSalUySnJjMWxaU2taemVXNHdURTB5Y1RFemJFbEtaMVUwWkhjIiwiZmN2IjoiMyIsImVpIjoiVGd5amFxajdKcU9ZaHZjUGplX0c4UTAiLCJxYyI6IkNpSmlaV3hzWldadmJuUmhhVzVsSUdocFoyZ2djMk5vYjI5c0lHUmxiR0YzWVhKbEVBQjlsb25jUGciLCJxdWVzdGlvbiI6IldoYXQgYXJlIEJlbGxlZm9udGFpbmUgQ2l0eSBzY2hvb2xzIGtub3duIGZvcj8iLCJsayI6IkdpeDNhR0YwSUdseklHSmxiR3hsWm05dWRHRnBibVVnWTJsMGVTQnpZMmh2YjJ4eklHdHViM2R1SUdadmNnIiwiYnMiOiJjNDJRTVF2Q01CQkdjYjNKT2RPQjFxbFU3UjhvcUVNM0ozRTFxV2x6R0JKcElzRl9yeTB0YlVYQl9iMlB1d2NTTm1mRlBaSkRyeVFLNlR6ZUgwSlRnWW9xaGE1UTFtb2tnd2VwZWVDMXpOSXRXNGZfbkd2bndCR2kzQVlVVkRYV1Rtb3RTMnM4SnlNeEg1d3NYYkdsR2tBeEFVZmpjSUdrdmZzOV9qRzNKX19zS0ljM1k0UEIwdFpabXJDNHYzbzZXM3dWNEFUeHVJem1kZFU4LXJOS3hCWnREYXEtY1gySi1ld0YiLCJpZCI6ImZjX1RneWphcWo3SnFPWWh2Y1BqZV9HOFEwXzQifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU1XcExVM2xIVG0xU1pHVTNSbEpYTjB4Sk5FeHdOVFptTlZSeVlXWnJZbmgwVjAxRFgxOXJaMDFpWjJaWWJHMUZVbUpXZWpsdlNrWkZaeTFWVWkwek5FYzNjMEZTYURsQ1NHUldiakZTVmtoRGMxVTNPRWRZVlVkTVp4SVhWR2Q1YW1GeGFqZEtjVTlaYUhaalVHcGxYMGM0VVRBYUlrRkVjM0k1WmxSalUySnJjMWxaU2taemVXNHdURTB5Y1RFemJFbEtaMVUwWkhjIiwiZmN2IjoiMyIsImVpIjoiVGd5amFxajdKcU9ZaHZjUGplX0c4UTAiLCJxYyI6IkNpSmlaV3hzWldadmJuUmhhVzVsSUdocFoyZ2djMk5vYjI5c0lHUmxiR0YzWVhKbEVBQjlsb25jUGciLCJxdWVzdGlvbiI6IldoYXQgYXJlIEJlbGxlZm9udGFpbmUgQ2l0eSBzY2hvb2xzIGtub3duIGZvcj8iLCJsayI6IkdpeDNhR0YwSUdseklHSmxiR3hsWm05dWRHRnBibVVnWTJsMGVTQnpZMmh2YjJ4eklHdHViM2R1SUdadmNnIiwiYnMiOiJjNDJRTVF2Q01CQkdjYjNKT2RPQjFxbFU3UjhvcUVNM0ozRTFxV2x6R0JKcElzRl9yeTB0YlVYQl9iMlB1d2NTTm1mRlBaSkRyeVFLNlR6ZUgwSlRnWW9xaGE1UTFtb2tnd2VwZWVDMXpOSXRXNGZfbkd2bndCR2kzQVlVVkRYV1Rtb3RTMnM4SnlNeEg1d3NYYkdsR2tBeEFVZmpjSUdrdmZzOV9qRzNKX19zS0ljM1k0UEIwdFpabXJDNHYzbzZXM3dWNEFUeHVJem1kZFU4LXJOS3hCWnREYXEtY1gySi1ld0YiLCJpZCI6ImZjX1RneWphcWo3SnFPWWh2Y1BqZV9HOFEwXzQifQ%3D%3D"
+  },
+  {
+   "question": "What is the largest high school in Delaware?",
+   "type": "ai_overview",
+   "page_token": "Q96SAXicHdBRboIwAADQ7DJ-TgrqpolZglrBrc2KtJX-LKUV0baAkwn6t7vsVDvNkr0jvO8fe6zM78O1bNvmMhsOu657PNT1we4fVe2G8nKr1FBJa3OpzGzyNAEvhZqvvuJwcY5DQpuGLRMvjTYmd3hMGXvFBo3EetxKAB2PQofo9JKZps79MdkuwH2_FFt1wq8pm8aoChd8CxCj7YhFmx5B-M78ZEJYmBEP3vI07lglCm6mb7LaZAxm7RsL1xomBaG4IX47SXmJia9hHjVjbYBIq7iXhl0FFHTra853OmArr89Nf1FrSPO7rfawFNo-B9zpgHgIaGo_OcVrwbHc0z5clZqKwJ6zHTxjr-lTYGvtMJGOFcm9TFBYHwlN7upkHT2CBTZTSU8WoCg5a8gyvNNLxIFJ0tJHpzLT3aBQ13kw-P-cfxSunTWf9eEPXR-DQg",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Q96SAXicHdBRboIwAADQ7DJ-TgrqpolZglrBrc2KtJX-LKUV0baAkwn6t7vsVDvNkr0jvO8fe6zM78O1bNvmMhsOu657PNT1we4fVe2G8nKr1FBJa3OpzGzyNAEvhZqvvuJwcY5DQpuGLRMvjTYmd3hMGXvFBo3EetxKAB2PQofo9JKZps79MdkuwH2_FFt1wq8pm8aoChd8CxCj7YhFmx5B-M78ZEJYmBEP3vI07lglCm6mb7LaZAxm7RsL1xomBaG4IX47SXmJia9hHjVjbYBIq7iXhl0FFHTra853OmArr89Nf1FrSPO7rfawFNo-B9zpgHgIaGo_OcVrwbHc0z5clZqKwJ6zHTxjr-lTYGvtMJGOFcm9TFBYHwlN7upkHT2CBTZTSU8WoCg5a8gyvNNLxIFJ0tJHpzLT3aBQ13kw-P-cfxSunTWf9eEPXR-DQg",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU1XcExVM2xIVG0xU1pHVTNSbEpYTjB4Sk5FeHdOVFptTlZSeVlXWnJZbmgwVjAxRFgxOXJaMDFpWjJaWWJHMUZVbUpXZWpsdlNrWkZaeTFWVWkwek5FYzNjMEZTYURsQ1NHUldiakZTVmtoRGMxVTNPRWRZVlVkTVp4SVhWR2Q1YW1GeGFqZEtjVTlaYUhaalVHcGxYMGM0VVRBYUlrRkVjM0k1WmxSalUySnJjMWxaU2taemVXNHdURTB5Y1RFemJFbEtaMVUwWkhjIiwiZmN2IjoiMyIsImVpIjoiVGd5amFxajdKcU9ZaHZjUGplX0c4UTAiLCJxYyI6IkNpSmlaV3hzWldadmJuUmhhVzVsSUdocFoyZ2djMk5vYjI5c0lHUmxiR0YzWVhKbEVBQjlsb25jUGciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGxhcmdlc3QgaGlnaCBzY2hvb2wgaW4gRGVsYXdhcmU/IiwibGsiOiJHaU4wYUdVZ1ltbG5aMlZ6ZENCb2FXZG9JSE5qYUc5dmJDQnBiaUJrWld4aGQyRnlaUSIsImJzIjoiYzQyUU1RdkNNQkJHY2IzSk9kT0IxcWxVN1I4b3FFTTNKM0UxcVdsekdCSnBJc0ZfcnkwdGJVWEJfYjJQdXdjU05tZkZQWkpEcnlRSzZUemVIMEpUZ1lvcWhhNVExbW9rZ3dlcGVlQzF6Tkl0VzRmX25Hdm53QkdpM0FZVVZEWFdUbW90UzJzOEp5TXhINXdzWGJHbEdrQXhBVWZqY0lHa3ZmczlfakczSl9fc0tJYzNZNFBCMHRaWm1yQzR2M282VzN3VjRBVHh1SXptZGRVOC1yTkt4Qlp0RGFxLWNYMkotZXdGIiwiaWQiOiJmY19UZ3lqYXFqN0pxT1lodmNQamVfRzhRMF80In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU1XcExVM2xIVG0xU1pHVTNSbEpYTjB4Sk5FeHdOVFptTlZSeVlXWnJZbmgwVjAxRFgxOXJaMDFpWjJaWWJHMUZVbUpXZWpsdlNrWkZaeTFWVWkwek5FYzNjMEZTYURsQ1NHUldiakZTVmtoRGMxVTNPRWRZVlVkTVp4SVhWR2Q1YW1GeGFqZEtjVTlaYUhaalVHcGxYMGM0VVRBYUlrRkVjM0k1WmxSalUySnJjMWxaU2taemVXNHdURTB5Y1RFemJFbEtaMVUwWkhjIiwiZmN2IjoiMyIsImVpIjoiVGd5amFxajdKcU9ZaHZjUGplX0c4UTAiLCJxYyI6IkNpSmlaV3hzWldadmJuUmhhVzVsSUdocFoyZ2djMk5vYjI5c0lHUmxiR0YzWVhKbEVBQjlsb25jUGciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGxhcmdlc3QgaGlnaCBzY2hvb2wgaW4gRGVsYXdhcmU%2FIiwibGsiOiJHaU4wYUdVZ1ltbG5aMlZ6ZENCb2FXZG9JSE5qYUc5dmJDQnBiaUJrWld4aGQyRnlaUSIsImJzIjoiYzQyUU1RdkNNQkJHY2IzSk9kT0IxcWxVN1I4b3FFTTNKM0UxcVdsekdCSnBJc0ZfcnkwdGJVWEJfYjJQdXdjU05tZkZQWkpEcnlRSzZUemVIMEpUZ1lvcWhhNVExbW9rZ3dlcGVlQzF6Tkl0VzRmX25Hdm53QkdpM0FZVVZEWFdUbW90UzJzOEp5TXhINXdzWGJHbEdrQXhBVWZqY0lHa3ZmczlfakczSl9fc0tJYzNZNFBCMHRaWm1yQzR2M282VzN3VjRBVHh1SXptZGRVOC1yTkt4Qlp0RGFxLWNYMkotZXdGIiwiaWQiOiJmY19UZ3lqYXFqN0pxT1lodmNQamVfRzhRMF80In0%3D"
+  }
+ ],
+ "ai_overview": {
+  "page_token": "BemZLXiczVXbcuI4EP2A_Y7xSwK-QAKkyjUlCQOGcFGAMM6Ly5aFbDA42ASHedvH_Y_9qv2akW1IzC3ZzMPWdpWtW3frqNVH_effvrec__PHX-56_RzdiWIcx0UWBMynRRIsRCvaLok4DfwoJO535qsvkeD6Kl0K241aEkikSgL11BHbzqzVrNJe9Q13QwYzajarWBJSc9W0rYjOuPfXWSSaIv_Nv5XqfFCMinRZfHgKGQnxaFroFhVJrhX7orXgCuA_EwQwYPyPcDq4KM1_544xoAHQzvnPfGo5lWSAgcZgNob4vCusc9WkBRhlyOrxz4Jh846VadSTxfOC8guQpXoQpv7AEILLhmclQ4rYzveHutrZWZR3kEj3UxOO0ThEoQM0iHchPkWiA00_QIyzTRiMwSyeMk3T4Ae4eUDGMbzpJBYfqHHpYH0U7yB06xO-segwnrSSaIe8kUWPuCTthFGSy2hUk4JWfwMJW9R6VTpf2RO5cTOeeNbTumBRIBKb6_mB5VDHdE3pezqWFflGqpUq1euURCR6Y1GUZ9Hzoowq5hOS19XifRHKewqhJCKnUeLR5mOkg1OBuzQ7e8E62F-G9hZgPqujXLjGu9YFMMBJ3uZ8gwCTNGD7GZrmL3m_kndIyQ6nFDqGllAoNYLZ1jAPb6_CGDxjyoWcnPAkC_m-cdZjx-zHR5mkYTTPbxEfrHKQQ1dLApUw4JFoGYDjbNT25niPlyWXuI_7m3O8g5ujkMeSqPNt2ZArtjHrJOpwdwcMwN3hYPuY-N7xqVNpcH_Q0L_2SuxE_-SByHT2XDlK_TxlmusBrv28bTcbUru1AM0B3j7W7I5pNHxwniLBwv5CpSH_JxJ5-zo03tleIBFNOp-TiPHn7mIdyrrvdSgjEcQXSKRnJDpTh2imkatDxyRCwxyJPqlDXyUR-pBE2WN0lkSJg3Mkml8gUVqHDkg0PKxDByR6q0PvJPqdOoR-qw6lnKJZc1iUXmbsYnFquuWh0688tIxAasT-j-6romB3o5kD__PiNF2s7xaW41-bnnMHlfZ661ybfCK4o46wUr8pCqS-T6fBcm15S3rV8ph7NSRuEPh87apOfSu2Qios_DBQJeu23o8qUZ_d9yS9VhhVqq8vD2QlD00qG4hoz3aJDrqKHVTADems6r1qK3zw6OSe1o32Qp9sx-MKfXhyXadvlB6dqKUory0YaoO-NWka3ca4-kiCba9ZuN_cxqEpQzAYFuznvumWOz0Xzvubbix1y7C8Dl5sud4FKa5IjcD4pjNHaHQ_F_jhIqrKwiIkKr-mMgM9DCaMZyMyOEl4lqOAfzH_bgHWoBARy6TRRpVK9pTy0BFiO7Wywj2w9fZZLctCtAxV-RfDckPD",
+  "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=BemZLXiczVXbcuI4EP2A_Y7xSwK-QAKkyjUlCQOGcFGAMM6Ly5aFbDA42ASHedvH_Y_9qv2akW1IzC3ZzMPWdpWtW3frqNVH_effvrec__PHX-56_RzdiWIcx0UWBMynRRIsRCvaLok4DfwoJO535qsvkeD6Kl0K241aEkikSgL11BHbzqzVrNJe9Q13QwYzajarWBJSc9W0rYjOuPfXWSSaIv_Nv5XqfFCMinRZfHgKGQnxaFroFhVJrhX7orXgCuA_EwQwYPyPcDq4KM1_544xoAHQzvnPfGo5lWSAgcZgNob4vCusc9WkBRhlyOrxz4Jh846VadSTxfOC8guQpXoQpv7AEILLhmclQ4rYzveHutrZWZR3kEj3UxOO0ThEoQM0iHchPkWiA00_QIyzTRiMwSyeMk3T4Ae4eUDGMbzpJBYfqHHpYH0U7yB06xO-segwnrSSaIe8kUWPuCTthFGSy2hUk4JWfwMJW9R6VTpf2RO5cTOeeNbTumBRIBKb6_mB5VDHdE3pezqWFflGqpUq1euURCR6Y1GUZ9Hzoowq5hOS19XifRHKewqhJCKnUeLR5mOkg1OBuzQ7e8E62F-G9hZgPqujXLjGu9YFMMBJ3uZ8gwCTNGD7GZrmL3m_kndIyQ6nFDqGllAoNYLZ1jAPb6_CGDxjyoWcnPAkC_m-cdZjx-zHR5mkYTTPbxEfrHKQQ1dLApUw4JFoGYDjbNT25niPlyWXuI_7m3O8g5ujkMeSqPNt2ZArtjHrJOpwdwcMwN3hYPuY-N7xqVNpcH_Q0L_2SuxE_-SByHT2XDlK_TxlmusBrv28bTcbUru1AM0B3j7W7I5pNHxwniLBwv5CpSH_JxJ5-zo03tleIBFNOp-TiPHn7mIdyrrvdSgjEcQXSKRnJDpTh2imkatDxyRCwxyJPqlDXyUR-pBE2WN0lkSJg3Mkml8gUVqHDkg0PKxDByR6q0PvJPqdOoR-qw6lnKJZc1iUXmbsYnFquuWh0688tIxAasT-j-6romB3o5kD__PiNF2s7xaW41-bnnMHlfZ661ybfCK4o46wUr8pCqS-T6fBcm15S3rV8ph7NSRuEPh87apOfSu2Qios_DBQJeu23o8qUZ_d9yS9VhhVqq8vD2QlD00qG4hoz3aJDrqKHVTADems6r1qK3zw6OSe1o32Qp9sx-MKfXhyXadvlB6dqKUory0YaoO-NWka3ca4-kiCba9ZuN_cxqEpQzAYFuznvumWOz0Xzvubbix1y7C8Dl5sud4FKa5IjcD4pjNHaHQ_F_jhIqrKwiIkKr-mMgM9DCaMZyMyOEl4lqOAfzH_bgHWoBARy6TRRpVK9pTy0BFiO7Wywj2w9fZZLctCtAxV-RfDckPD"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Bellefontaine City Schools: Home",
+   "link": "https://www.bcs-k12.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUAHrOzAVPuxwXX5yBvJHo6_KwGrC-qyGDC-E7AvUeHRX6urbCzYbLrhad5ahMEHfO6UOjTRedIe9BoXUV8l_OriO3ZcL3RYoRgbRejY_icW7&ved=2ahUKEwio2qvU5uSWAxUjjOEIHY23Md4QFnoECCMQAQ&uoh=1",
+   "displayed_link": "https://www.bcs-k12.org",
+   "favicon": "https://serpapi.com/images/i/UklGRm4CAABXRUJQVlA4IGICAACwCwCdASogACAAPtEutFooIagoGAEAGglsAJ0yhHtPGKgHegdgDeAOfH9lmuXPmciB2BOHP73nM3MDRb_4z8ZvfTzmvQ3-i9wn9Q_98mRBTMkdzF57OfC-47N7ayb_PTNijEkf7-AA_v7DlQODt6aSMdtUI5RJ-iP4yRb_8uY6VVJHLlP8B_-8D71M2wwf2xMfWxzvho902evGPaEChgWkThzNp63-zfOkeX6W0arTwc3Sz84K4r86PupXz8WqBxZnGN-aP9UiJ3s-n89eXyU7xp77UUYyo1CYJ7JeiLvnYteCHcXvStWjdG-6gb2uhP0tpKHXcy34cX91-Cl99fNX_UW1Q78uSn-Gnr_bo9mWL6y5NmLEorz76B_wgjzTB_jRQIzIFgf--gNu6lZKLnv7x2sMrHJRWXkI3xW6K0G6fhElO67vwR_UvY-ZXLR0aDWvo7ALaU0kKKubG37EXOpPQJV2wadf9h2gMbG7n_0gqTBg7QREKvd_m-v33abMQW72VJGx9nBgwJfRXaAEL1OHSw5DBjvll1tk969OarhKbxYGgbTJKWBBTHS__knbxYWVjybvX23kucRgsewzq5hmNTUvTx4P28v7Q6RV-V3dIWks_8_Er_G3KnHs33JsV-hVeUzhd7ZkkMGBLWYRgagz8O_zbUBW7Gby9f-f_x_xsT39L3_b3z86wdck847t1fvxoL4W7ao-5n-ztqWXXRuQDN5uTejIAQ6PblnC6P_LUTqocDiSKg8jxx3OCcTuCAzP9pUSrdAuO81Bx9XW1kOrTJhB3b8Yjren4TguUuZ0AAAA.webp",
+   "snippet": "Bellefontaine High School (9-12) \u00b7 Bellefontaine Intermediate School (3 ... Bellefontaine High School \u00b7 BHS accepting nominations for Distinguished Alumni ...",
+   "snippet_highlighted_words": [
+    "Bellefontaine High School",
+    "Bellefontaine High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Bellefontaine High School (9-12) \u00b7 Bellefontaine Intermediate School (3 ... Bellefontaine High School \u00b7 BHS accepting nominations for Distinguished Alumni ...",
+     "source_info_link": "https://www.bcs-k12.org/",
+     "icon": "https://serpapi.com/images/i/UklGRm4CAABXRUJQVlA4IGICAACwCwCdASogACAAPtEutFooIagoGAEAGglsAJ0yhHtPGKgHegdgDeAOfH9lmuXPmciB2BOHP73nM3MDRb_4z8ZvfTzmvQ3-i9wn9Q_98mRBTMkdzF57OfC-47N7ayb_PTNijEkf7-AA_v7DlQODt6aSMdtUI5RJ-iP4yRb_8uY6VVJHLlP8B_-8D71M2wwf2xMfWxzvho902evGPaEChgWkThzNp63-zfOkeX6W0arTwc3Sz84K4r86PupXz8WqBxZnGN-aP9UiJ3s-n89eXyU7xp77UUYyo1CYJ7JeiLvnYteCHcXvStWjdG-6gb2uhP0tpKHXcy34cX91-Cl99fNX_UW1Q78uSn-Gnr_bo9mWL6y5NmLEorz76B_wgjzTB_jRQIzIFgf--gNu6lZKLnv7x2sMrHJRWXkI3xW6K0G6fhElO67vwR_UvY-ZXLR0aDWvo7ALaU0kKKubG37EXOpPQJV2wadf9h2gMbG7n_0gqTBg7QREKvd_m-v33abMQW72VJGx9nBgwJfRXaAEL1OHSw5DBjvll1tk969OarhKbxYGgbTJKWBBTHS__knbxYWVjybvX23kucRgsewzq5hmNTUvTx4P28v7Q6RV-V3dIWks_8_Er_G3KnHs33JsV-hVeUzhd7ZkkMGBLWYRgagz8O_zbUBW7Gby9f-f_x_xsT39L3_b3z86wdck847t1fvxoL4W7ao-5n-ztqWXXRuQDN5uTejIAQ6PblnC6P_LUTqocDiSKg8jxx3OCcTuCAzP9pUSrdAuO81Bx9XW1kOrTJhB3b8Yjren4TguUuZ0AAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESUAHrOzAVPuxwXX5yBvJHo6_KwGrC-qyGDC-E7AvUeHRX6urbCzYbLrhad5ahMEHfO6UOjTRedIe9BoXUV8l_OriO3ZcL3RYoRgbRejY_icW7&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESUAHrOzAVPuxwXX5yBvJHo6_KwGrC-qyGDC-E7AvUeHRX6urbCzYbLrhad5ahMEHfO6UOjTRedIe9BoXUV8l_OriO3ZcL3RYoRgbRejY_icW7",
+   "source": "Bellefontaine City Schools",
+   "read_more_link": "https://www.bcs-k12.org/#:~:text=Bellefontaine%20City%20Schools&text=BHS%20accepting%20nominations%20for%20Distinguished,Alumni%20Award"
+  },
+  {
+   "position": 2,
+   "title": "Bellefontaine High School - Ohio",
+   "link": "https://www.greatschools.org/ohio/bellefontaine/150-Bellefontaine-High-School/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShgEB6zswFcP3IvSDnFE7vQrD1mj6kG4lI-YRJHoBpDR_IBwtQyGY7Y5YvUwz_i_hHpsoP1_UGOayqmvIyJCkyZdDLKFnfGUXfKMAugkCvaptxT9qQqP0ALtKSwi0FUY2kxsq7pX270eaURIfs3TLKktKIuWEvQAZUY4pamEpG5Czt9E1b6Ad2w&ved=2ahUKEwio2qvU5uSWAxUjjOEIHY23Md4QFnoECCwQAQ&uoh=1",
+   "displayed_link": "https://www.greatschools.org \u203a ohio \u203a 150-Bellefontain...",
+   "favicon": "https://serpapi.com/images/i/UklGRnABAABXRUJQVlA4IGQBAABQCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_jtuHbtjAbYDcAbyB6AHSlf6oixRzh8GEWsYxJ825M9RhM3gV5vdPb_m98cAA_vi6aS7Pzd7susCq7-6fF19W_uHxnTUiht4Bnli4K1NZlcvWNx_U9wUWYJNt7XaI9c-ByTdyo4mDmlZ-5yiSyr_u7cBW9GjDY0XOwNkf3M-JPMdorcnf5W3JquL_1XhdMWG9MeU4wxsyWrY1EBIhBEe9pptiUN9e6cDdPncpdjgPIvoHDAfly9B5KtVb-rS2mA85vxw-fVfJkvrbkjL-z0L62bhyC1muRYqxX5mA92DT5WC6rg1GKs3vDTWtEWyQkNCx7JpqOrcRh1tXyd6AvX19XcKdTTPG1ozotzAlVyERstS5yUat0Hnv2de5D6l_B6PNH32glgAMU9TscSW7BeznX-ttUqaHqMZfqKDlq_LuvvKpt3UAAA.webp",
+   "snippet": "Bellefontaine High School is a public school in Bellefontaine, OH, offering AP courses, 6 sports, and Project Lead The Way curriculum.",
+   "snippet_highlighted_words": [
+    "Bellefontaine High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Bellefontaine High School is a public school in Bellefontaine, OH, offering AP courses, 6 sports, and Project Lead The Way curriculum.",
+     "source_info_link": "https://www.greatschools.org/ohio/bellefontaine/150-Bellefontaine-High-School/",
+     "icon": "https://serpapi.com/images/i/UklGRnABAABXRUJQVlA4IGQBAABQCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_jtuHbtjAbYDcAbyB6AHSlf6oixRzh8GEWsYxJ825M9RhM3gV5vdPb_m98cAA_vi6aS7Pzd7susCq7-6fF19W_uHxnTUiht4Bnli4K1NZlcvWNx_U9wUWYJNt7XaI9c-ByTdyo4mDmlZ-5yiSyr_u7cBW9GjDY0XOwNkf3M-JPMdorcnf5W3JquL_1XhdMWG9MeU4wxsyWrY1EBIhBEe9pptiUN9e6cDdPncpdjgPIvoHDAfly9B5KtVb-rS2mA85vxw-fVfJkvrbkjL-z0L62bhyC1muRYqxX5mA92DT5WC6rg1GKs3vDTWtEWyQkNCx7JpqOrcRh1tXyd6AvX19XcKdTTPG1ozotzAlVyERstS5yUat0Hnv2de5D6l_B6PNH32glgAMU9TscSW7BeznX-ttUqaHqMZfqKDlq_LuvvKpt3UAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEShgEB6zswFcP3IvSDnFE7vQrD1mj6kG4lI-YRJHoBpDR_IBwtQyGY7Y5YvUwz_i_hHpsoP1_UGOayqmvIyJCkyZdDLKFnfGUXfKMAugkCvaptxT9qQqP0ALtKSwi0FUY2kxsq7pX270eaURIfs3TLKktKIuWEvQAZUY4pamEpG5Czt9E1b6Ad2w&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEShgEB6zswFcP3IvSDnFE7vQrD1mj6kG4lI-YRJHoBpDR_IBwtQyGY7Y5YvUwz_i_hHpsoP1_UGOayqmvIyJCkyZdDLKFnfGUXfKMAugkCvaptxT9qQqP0ALtKSwi0FUY2kxsq7pX270eaURIfs3TLKktKIuWEvQAZUY4pamEpG5Czt9E1b6Ad2w",
+   "source": "GreatSchools"
+  },
+  {
+   "position": 3,
+   "title": "District",
+   "link": "https://www.bcs-k12.org/district",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWAHrOzAV095snivroYwB8OvOkW70qxpPtKt-mmUAqKkHjv5FICGTzzZ-3IsN0RPgh4ZjTWmv6zazjLz-oQeR4fz6mzGk3oL6EagsEhUuqHgwV0CDdmNzBek&ved=2ahUKEwio2qvU5uSWAxUjjOEIHY23Md4QFnoECDQQAQ&uoh=1",
+   "displayed_link": "https://www.bcs-k12.org \u203a district",
+   "favicon": "https://serpapi.com/images/i/UklGRm4CAABXRUJQVlA4IGICAACwCwCdASogACAAPtEutFooIagoGAEAGglsAJ0yhHtPGKgHegdgDeAOfH9lmuXPmciB2BOHP73nM3MDRb_4z8ZvfTzmvQ3-i9wn9Q_98mRBTMkdzF57OfC-47N7ayb_PTNijEkf7-AA_v7DlQODt6aSMdtUI5RJ-iP4yRb_8uY6VVJHLlP8B_-8D71M2wwf2xMfWxzvho902evGPaEChgWkThzNp63-zfOkeX6W0arTwc3Sz84K4r86PupXz8WqBxZnGN-aP9UiJ3s-n89eXyU7xp77UUYyo1CYJ7JeiLvnYteCHcXvStWjdG-6gb2uhP0tpKHXcy34cX91-Cl99fNX_UW1Q78uSn-Gnr_bo9mWL6y5NmLEorz76B_wgjzTB_jRQIzIFgf--gNu6lZKLnv7x2sMrHJRWXkI3xW6K0G6fhElO67vwR_UvY-ZXLR0aDWvo7ALaU0kKKubG37EXOpPQJV2wadf9h2gMbG7n_0gqTBg7QREKvd_m-v33abMQW72VJGx9nBgwJfRXaAEL1OHSw5DBjvll1tk969OarhKbxYGgbTJKWBBTHS__knbxYWVjybvX23kucRgsewzq5hmNTUvTx4P28v7Q6RV-V3dIWks_8_Er_G3KnHs33JsV-hVeUzhd7ZkkMGBLWYRgagz8O_zbUBW7Gby9f-f_x_xsT39L3_b3z86wdck847t1fvxoL4W7ao-5n-ztqWXXRuQDN5uTejIAQ6PblnC6P_LUTqocDiSKg8jxx3OCcTuCAzP9pUSrdAuO81Bx9XW1kOrTJhB3b8Yjren4TguUuZ0AAAA.webp",
+   "snippet": "Bellefontaine High School (9-12) \u00b7 Bellefontaine Intermediate School (3-5) \u00b7 Bellefontaine Middle School (6-8). Open Menu. Logo Image. Bellefontaine City ...",
+   "snippet_highlighted_words": [
+    "Bellefontaine High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Bellefontaine High School (9-12) \u00b7 Bellefontaine Intermediate School (3-5) \u00b7 Bellefontaine Middle School (6-8). Open Menu. Logo Image. Bellefontaine City ...",
+     "source_info_link": "https://www.bcs-k12.org/district",
+     "icon": "https://serpapi.com/images/i/UklGRm4CAABXRUJQVlA4IGICAACwCwCdASogACAAPtEutFooIagoGAEAGglsAJ0yhHtPGKgHegdgDeAOfH9lmuXPmciB2BOHP73nM3MDRb_4z8ZvfTzmvQ3-i9wn9Q_98mRBTMkdzF57OfC-47N7ayb_PTNijEkf7-AA_v7DlQODt6aSMdtUI5RJ-iP4yRb_8uY6VVJHLlP8B_-8D71M2wwf2xMfWxzvho902evGPaEChgWkThzNp63-zfOkeX6W0arTwc3Sz84K4r86PupXz8WqBxZnGN-aP9UiJ3s-n89eXyU7xp77UUYyo1CYJ7JeiLvnYteCHcXvStWjdG-6gb2uhP0tpKHXcy34cX91-Cl99fNX_UW1Q78uSn-Gnr_bo9mWL6y5NmLEorz76B_wgjzTB_jRQIzIFgf--gNu6lZKLnv7x2sMrHJRWXkI3xW6K0G6fhElO67vwR_UvY-ZXLR0aDWvo7ALaU0kKKubG37EXOpPQJV2wadf9h2gMbG7n_0gqTBg7QREKvd_m-v33abMQW72VJGx9nBgwJfRXaAEL1OHSw5DBjvll1tk969OarhKbxYGgbTJKWBBTHS__knbxYWVjybvX23kucRgsewzq5hmNTUvTx4P28v7Q6RV-V3dIWks_8_Er_G3KnHs33JsV-hVeUzhd7ZkkMGBLWYRgagz8O_zbUBW7Gby9f-f_x_xsT39L3_b3z86wdck847t1fvxoL4W7ao-5n-ztqWXXRuQDN5uTejIAQ6PblnC6P_LUTqocDiSKg8jxx3OCcTuCAzP9pUSrdAuO81Bx9XW1kOrTJhB3b8Yjren4TguUuZ0AAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESWAHrOzAV095snivroYwB8OvOkW70qxpPtKt-mmUAqKkHjv5FICGTzzZ-3IsN0RPgh4ZjTWmv6zazjLz-oQeR4fz6mzGk3oL6EagsEhUuqHgwV0CDdmNzBek&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESWAHrOzAV095snivroYwB8OvOkW70qxpPtKt-mmUAqKkHjv5FICGTzzZ-3IsN0RPgh4ZjTWmv6zazjLz-oQeR4fz6mzGk3oL6EagsEhUuqHgwV0CDdmNzBek",
+   "source": "Bellefontaine City Schools",
+   "read_more_link": "https://www.bcs-k12.org/district#:~:text=Bellefontaine%20City%20Schools"
+  },
+  {
+   "position": 4,
+   "title": "2024 Bellefontaine High School 155th Annual Commencement",
+   "link": "https://www.youtube.com/watch?v=EusGv9iYZHw",
+   "displayed_link": "1.3K+ views \u00b7 2 years ago",
+   "thumbnail": "https://serpapi.com/searches/6aa30c459a1f2c09d7c23b02/images/PoYvhXE_6W8UXOCcvYdix_gZqAdfFWEF3PpQvEcW_QA.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "snippet": "2024 Bellefontaine High School 155th Annual Commencement. @horvath.productions21 likes1.2K viewsStreamed 2 years ago more. Subscribe ...",
+   "duration": "1:44:30",
+   "about_this_result": {
+    "source": {
+     "description": "2024 Bellefontaine High School 155th Annual Commencement. @horvath.productions21 likes1.2K viewsStreamed 2 years ago more. Subscribe ...",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYwHrOzAV6Qal2DG3IKqcIWHPfzrFsg-lxEcOukGTJdAo-eV0J7W10uUg9GbnXFeAHIA-DqVegpEwrK17xBV57rlQ9DmNwhISfLWtz1ffTa3hJ8I1sqv_9U58gxei2ofjIg1Vfw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYwHrOzAV6Qal2DG3IKqcIWHPfzrFsg-lxEcOukGTJdAo-eV0J7W10uUg9GbnXFeAHIA-DqVegpEwrK17xBV57rlQ9DmNwhISfLWtz1ffTa3hJ8I1sqv_9U58gxei2ofjIg1Vfw",
+   "source": "YouTube \u00b7 Horvath Productions"
+  },
+  {
+   "position": 5,
+   "title": "Bellefontaine High School (Ranked Top 50% for 2026-27)",
+   "link": "https://www.publicschoolreview.com/bellefontaine-high-school-profile",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHrOzAV0eH1KY84N8l3CKNYqlhTPKvTPksQLy91hRv0E0oYycL96wU3QeV3KhKYh3UNNH9-6psG6xvv3Cl-_MZNkJOkIUxcUej99W0bQAcx7xi_jq3VS2NscbP9PV4432jL7i5jSJphtgPHJA7dzRi4RLoszdDV7suQAFU&ved=2ahUKEwio2qvU5uSWAxUjjOEIHY23Md4QFnoECDAQAQ&uoh=1",
+   "displayed_link": "https://www.publicschoolreview.com \u203a ... \u203a Bellefontaine",
+   "favicon": "https://serpapi.com/images/i/UklGRlABAABXRUJQVlA4IEQBAADwBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0gTrwOABts-8A7AG8X-gB0rpEY7sYONuhU58iZvyQ-ahVDFoH-jQn0mN9w6AAA_vYSsIo2z_WvN6bhxlz1su-k9at42FbmNvYfF1rVfRiKeJr0x4jFiHXBAc9s3MKILvgvxVoy0jXGKYse4wKMY-ER5fVz5KLqhaW5pMoF1VZr2s4cCLsjiHJVnQgpcNnEkK5eygN2aam1Ez_SUsfWJdNB1cx-A0NGFvHeEtPfA-sOQz_4nZ-fTXC1GjELh18ncGPmu9n2cf7xk94kvLl5fqP-9_yxfrQyzQeVWQ52fidKF9kNQ57gPwGdw2hzsgvxXNAQ87MV5uldt96b5jL2ErNwAQNT6PZP1AHvcQWbwoSXyWX-0NJAULxzb_EfM2mJ-cQeXPfa7aTAAAA.webp",
+   "snippet": "Bellefontaine High School's student population of 643 students has declined by 6% over five school years. The teacher population of 41 teachers has declined by ...",
+   "snippet_highlighted_words": [
+    "Bellefontaine High School's"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Bellefontaine High School's student population of 643 students has declined by 6% over five school years. The teacher population of 41 teachers has declined by ...",
+     "source_info_link": "https://www.publicschoolreview.com/bellefontaine-high-school-profile",
+     "icon": "https://serpapi.com/images/i/UklGRlABAABXRUJQVlA4IEQBAADwBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0gTrwOABts-8A7AG8X-gB0rpEY7sYONuhU58iZvyQ-ahVDFoH-jQn0mN9w6AAA_vYSsIo2z_WvN6bhxlz1su-k9at42FbmNvYfF1rVfRiKeJr0x4jFiHXBAc9s3MKILvgvxVoy0jXGKYse4wKMY-ER5fVz5KLqhaW5pMoF1VZr2s4cCLsjiHJVnQgpcNnEkK5eygN2aam1Ez_SUsfWJdNB1cx-A0NGFvHeEtPfA-sOQz_4nZ-fTXC1GjELh18ncGPmu9n2cf7xk94kvLl5fqP-9_yxfrQyzQeVWQ52fidKF9kNQ57gPwGdw2hzsgvxXNAQ87MV5uldt96b5jL2ErNwAQNT6PZP1AHvcQWbwoSXyWX-0NJAULxzb_EfM2mJ-cQeXPfa7aTAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESfAHrOzAV0eH1KY84N8l3CKNYqlhTPKvTPksQLy91hRv0E0oYycL96wU3QeV3KhKYh3UNNH9-6psG6xvv3Cl-_MZNkJOkIUxcUej99W0bQAcx7xi_jq3VS2NscbP9PV4432jL7i5jSJphtgPHJA7dzRi4RLoszdDV7suQAFU&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESfAHrOzAV0eH1KY84N8l3CKNYqlhTPKvTPksQLy91hRv0E0oYycL96wU3QeV3KhKYh3UNNH9-6psG6xvv3Cl-_MZNkJOkIUxcUej99W0bQAcx7xi_jq3VS2NscbP9PV4432jL7i5jSJphtgPHJA7dzRi4RLoszdDV7suQAFU",
+   "source": "Public School Review",
+   "read_more_link": "https://www.publicschoolreview.com/bellefontaine-high-school-profile#:~:text=Bellefontaine%20High%20School's%20student%20population,12%25%20over%20five%20school%20years."
+  },
+  {
+   "position": 6,
+   "title": "Bellefontaine High School - 555 East Lake Avenue ...",
+   "link": "https://www.trulia.com/schools/OH-bellefontaine-bellefontaine_high_school-815386",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiAEB6zswFSkLff7g5Elt0bu-RpcTh1U-RfzV6wDIBfGWejU3ePMWfcCtnBuGoD-ilBPwQZpOwc2-NlwbbIB1Nkls-9BQwsldom6kq50p7kl3zJ6p71VTrkQQnx8tejyUru9_icSPqD_e9b39W3sknzOowMxGaDPny2fBsQy-7kupDIxBBQNjr-Aq&ved=2ahUKEwio2qvU5uSWAxUjjOEIHY23Md4QFnoECC4QAQ&uoh=1",
+   "displayed_link": "https://www.trulia.com \u203a schools \u203a OH-bellefontaine-be...",
+   "favicon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAADwBQCdASocABwAPtEwtFooIigoGAEAGglsAJ05QVLeB_x29CpATSaRE4NviYAVpq0H_iNWXic7AADoVkpCvIL948gVpj7pfWFLk8ZCHomNtuSk_dcMuS8EALfHe3y2wgcAVfmhHW4elUwCAP8gv1oQEF8_vq6lkwFDtyc-DqTDfBc5YkzHQWOJhD5E8DSpIyONpJ6NdbkvKt5mEmR3UclkP_fx_-JyQWKRD9NpZoIK1ea8iAwArKo6z1IMLiLb8POYpsnp4LXBEB7oUtvCyc6_4eKLuRCXX0xvf2AbmvmYK37bN--IDY8JaNXOHV_axffORwwxpbDN-PPg_j_i_1SlRy_XCAAA.webp",
+   "snippet": "Bellefontaine High School is in the Bellefontaine City School District. Bellefontaine High School is a Public school that serves grade levels 9-12. Homes with ...",
+   "snippet_highlighted_words": [
+    "Bellefontaine High School",
+    "Bellefontaine High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Bellefontaine High School is in the Bellefontaine City School District. Bellefontaine High School is a Public school that serves grade levels 9-12. Homes with ...",
+     "source_info_link": "https://www.trulia.com/schools/OH-bellefontaine-bellefontaine_high_school-815386",
+     "icon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAADwBQCdASocABwAPtEwtFooIigoGAEAGglsAJ05QVLeB_x29CpATSaRE4NviYAVpq0H_iNWXic7AADoVkpCvIL948gVpj7pfWFLk8ZCHomNtuSk_dcMuS8EALfHe3y2wgcAVfmhHW4elUwCAP8gv1oQEF8_vq6lkwFDtyc-DqTDfBc5YkzHQWOJhD5E8DSpIyONpJ6NdbkvKt5mEmR3UclkP_fx_-JyQWKRD9NpZoIK1ea8iAwArKo6z1IMLiLb8POYpsnp4LXBEB7oUtvCyc6_4eKLuRCXX0xvf2AbmvmYK37bN--IDY8JaNXOHV_axffORwwxpbDN-PPg_j_i_1SlRy_XCAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESiAEB6zswFSkLff7g5Elt0bu-RpcTh1U-RfzV6wDIBfGWejU3ePMWfcCtnBuGoD-ilBPwQZpOwc2-NlwbbIB1Nkls-9BQwsldom6kq50p7kl3zJ6p71VTrkQQnx8tejyUru9_icSPqD_e9b39W3sknzOowMxGaDPny2fBsQy-7kupDIxBBQNjr-Aq&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESiAEB6zswFSkLff7g5Elt0bu-RpcTh1U-RfzV6wDIBfGWejU3ePMWfcCtnBuGoD-ilBPwQZpOwc2-NlwbbIB1Nkls-9BQwsldom6kq50p7kl3zJ6p71VTrkQQnx8tejyUru9_icSPqD_e9b39W3sknzOowMxGaDPny2fBsQy-7kupDIxBBQNjr-Aq",
+   "source": "Trulia",
+   "read_more_link": "https://www.trulia.com/schools/OH-bellefontaine-bellefontaine_high_school-815386#:~:text=Bellefontaine%20High%20School%20is%20in,Homes%20with%20this%20school%20assigned"
+  },
+  {
+   "position": 7,
+   "title": "Bellefontaine City Schools (@bcschiefs)",
+   "link": "https://www.instagram.com/bcschiefs/?hl=en",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYgHrOzAV6Bpr56fGjy-vrywvb3Fygb8LcC6ecP7inPwnYpFXmGwaKQSk0OA-CgoMtR96oVuEd26nvJotV59acnJMJWLOgU-04bJSSftYLxM5UoX_m_t-NDtm3gIec69pJrIl&ved=2ahUKEwio2qvU5uSWAxUjjOEIHY23Md4QFnoECC0QAQ&uoh=1",
+   "displayed_link": "1.5K+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+   "snippet": "BHS seniors paint their parking spaces Several Bellefontaine High School seniors showcased their artistic skills over the last couple of weeks.",
+   "snippet_highlighted_words": [
+    "Bellefontaine High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "BHS seniors paint their parking spaces Several Bellefontaine High School seniors showcased their artistic skills over the last couple of weeks.",
+     "source_info_link": "https://www.instagram.com/bcschiefs/?hl=en",
+     "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYgHrOzAV6Bpr56fGjy-vrywvb3Fygb8LcC6ecP7inPwnYpFXmGwaKQSk0OA-CgoMtR96oVuEd26nvJotV59acnJMJWLOgU-04bJSSftYLxM5UoX_m_t-NDtm3gIec69pJrIl&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYgHrOzAV6Bpr56fGjy-vrywvb3Fygb8LcC6ecP7inPwnYpFXmGwaKQSk0OA-CgoMtR96oVuEd26nvJotV59acnJMJWLOgU-04bJSSftYLxM5UoX_m_t-NDtm3gIec69pJrIl",
+   "source": "Instagram \u00b7 bcschiefs"
+  },
+  {
+   "position": 8,
+   "title": "Bellefontaine High School Hub & Calendar 2026-2027",
+   "link": "https://ohioschools.us/schools/bellefontaine-high-school/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScQHrOzAVpb8baXRW3C-q9Xcb1X6GPK8goAAD9riYJ_0C4GBehTCno44h6KPdb-woRVy7-kHHN-nb0yYqJydw8KAFFe1boz-UqDO3hzgoX5uV0E8yutRiGMkQIcBCuVo0Zlvg06jywsXVV8mJl3uSfWqO&ved=2ahUKEwio2qvU5uSWAxUjjOEIHY23Md4QFnoECDIQAQ&uoh=1",
+   "displayed_link": "https://ohioschools.us \u203a Schools",
+   "favicon": "https://serpapi.com/images/i/UklGRv4BAABXRUJQVlA4IPIBAACwCQCdASogACAAAsBMJbACdMoSA_oLxn6ENt5NKtmCNIegjDqytMCkPcgQzLxifQ3sD9ID0OP1HOLPXYRIKoa3kcWF4AlNMTbDm2Nxwj8ZSkXh-UbwAAD--q3rRvYlPcbETumBgJ-B-fr7Vm5b_6lmb7icwYId-Xfrs3f190InlMfnP_8ZjYOGsKnIozIWIFaNw3wT-ekw0RKzgyUmbV9AitCgc70bUZDCfCcVI26EoqIq_BlikdEM-2w6H2jecJVZTBueH5Rx6GJWkHCC2wnq6a2YzxnubHC8vhnW1toZU_Sd3aCXQi8uA3Kc3s8NM2C_YLIbNFUUEv94ndDLYYAvK6kanm1TFIEnmD2vX7KecEPYFYbb98uoFFlNXSyNpNtyDhWTiqzaaHbAE5W_mIgWAvaHq8Wesn4r5s6BeudTxxCHKYZSYG1nl3U97ugraXBJkO_YkXAbIgEAPTsL-_CZK7J-0x3PRHNH_yqjkdYdj_YvS75OF1BSZatHQQscJ7s0Jf7MKIbYCglbCGrebd6W66NZKM3YApX__LAPxFwR9hND7l3KAvnVm7takW_BqVE2V8f62agnqD64TWvpdgAbUPL4e0bQxb3Oc0FM_2h74z8UP2SrwWEz_IdPnItNKGn2ByCyHddZgDXrqjL1EEv6mAA.webp",
+   "snippet": "Bellefontaine High School profile: Get the official 2026-2027 school calendar, holidays, attendance zones, ratings, and enrollment details.",
+   "snippet_highlighted_words": [
+    "Bellefontaine High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Bellefontaine High School profile: Get the official 2026-2027 school calendar, holidays, attendance zones, ratings, and enrollment details.",
+     "source_info_link": "https://ohioschools.us/schools/bellefontaine-high-school/",
+     "icon": "https://serpapi.com/images/i/UklGRv4BAABXRUJQVlA4IPIBAACwCQCdASogACAAAsBMJbACdMoSA_oLxn6ENt5NKtmCNIegjDqytMCkPcgQzLxifQ3sD9ID0OP1HOLPXYRIKoa3kcWF4AlNMTbDm2Nxwj8ZSkXh-UbwAAD--q3rRvYlPcbETumBgJ-B-fr7Vm5b_6lmb7icwYId-Xfrs3f190InlMfnP_8ZjYOGsKnIozIWIFaNw3wT-ekw0RKzgyUmbV9AitCgc70bUZDCfCcVI26EoqIq_BlikdEM-2w6H2jecJVZTBueH5Rx6GJWkHCC2wnq6a2YzxnubHC8vhnW1toZU_Sd3aCXQi8uA3Kc3s8NM2C_YLIbNFUUEv94ndDLYYAvK6kanm1TFIEnmD2vX7KecEPYFYbb98uoFFlNXSyNpNtyDhWTiqzaaHbAE5W_mIgWAvaHq8Wesn4r5s6BeudTxxCHKYZSYG1nl3U97ugraXBJkO_YkXAbIgEAPTsL-_CZK7J-0x3PRHNH_yqjkdYdj_YvS75OF1BSZatHQQscJ7s0Jf7MKIbYCglbCGrebd6W66NZKM3YApX__LAPxFwR9hND7l3KAvnVm7takW_BqVE2V8f62agnqD64TWvpdgAbUPL4e0bQxb3Oc0FM_2h74z8UP2SrwWEz_IdPnItNKGn2ByCyHddZgDXrqjL1EEv6mAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEScQHrOzAVpb8baXRW3C-q9Xcb1X6GPK8goAAD9riYJ_0C4GBehTCno44h6KPdb-woRVy7-kHHN-nb0yYqJydw8KAFFe1boz-UqDO3hzgoX5uV0E8yutRiGMkQIcBCuVo0Zlvg06jywsXVV8mJl3uSfWqO&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEScQHrOzAVpb8baXRW3C-q9Xcb1X6GPK8goAAD9riYJ_0C4GBehTCno44h6KPdb-woRVy7-kHHN-nb0yYqJydw8KAFFe1boz-UqDO3hzgoX5uV0E8yutRiGMkQIcBCuVo0Zlvg06jywsXVV8mJl3uSfWqO",
+   "source": "ohioschools.us"
+  },
+  {
+   "position": 9,
+   "title": "Hotels near Bellefontaine High School",
+   "link": "https://www.hotels4teams.com/venues/bellefontaine-high-school/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHrOzAVwJIgh4TYhLCOhxKlfl8K4fo5M8kaJgYgzd8Y8hHjAB2nr2eeE7DlAFaLU70FL02MTcQ0OVcZiaFiJ_sXWn7elFiRrkdMOO8XDzVrjKQWpUck4hnCMlJSee7veneYpJcmL64eVfEvT5VSWMlE1fPHrfA&ved=2ahUKEwio2qvU5uSWAxUjjOEIHY23Md4QFnoECDEQAQ&uoh=1",
+   "displayed_link": "https://www.hotels4teams.com \u203a ... \u203a High Schools",
+   "favicon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAAAwBgCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHUHun4qqEr3iAiGxf64-hEfRcZZE7Mr6Alj_XgAAP7K3bd5xUvrov3vxuLtM_V9RR5z0dBU-FMh27DBWpe1sgn3-aQ8zwSEKo-20ERqw__kkYHfdt5NHb_7KOfyNgGwfxf_6G-3Rf_Up5ASOuIcHFA8llPEB9cx_lqj_-nN_7mWhwo_49b89_s1o47bhxqXcCyvFdiQU9CpDDGmx0YHBbx2HEsSoR7745cgxyzgjY1aDgg6g5sd_Br8-oZ9D_lb86Znw_nUsDD_lpzJqeTxAbGeAAA.webp",
+   "snippet": "The Bellefontaine High School campus itself is a focal point for community life, hosting a variety of athletic competitions, arts performances, and educational ...",
+   "snippet_highlighted_words": [
+    "Bellefontaine High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The Bellefontaine High School campus itself is a focal point for community life, hosting a variety of athletic competitions, arts performances, and educational ...",
+     "source_info_link": "https://www.hotels4teams.com/venues/bellefontaine-high-school/",
+     "icon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAAAwBgCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHUHun4qqEr3iAiGxf64-hEfRcZZE7Mr6Alj_XgAAP7K3bd5xUvrov3vxuLtM_V9RR5z0dBU-FMh27DBWpe1sgn3-aQ8zwSEKo-20ERqw__kkYHfdt5NHb_7KOfyNgGwfxf_6G-3Rf_Up5ASOuIcHFA8llPEB9cx_lqj_-nN_7mWhwo_49b89_s1o47bhxqXcCyvFdiQU9CpDDGmx0YHBbx2HEsSoR7745cgxyzgjY1aDgg6g5sd_Br8-oZ9D_lb86Znw_nUsDD_lpzJqeTxAbGeAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdgHrOzAVwJIgh4TYhLCOhxKlfl8K4fo5M8kaJgYgzd8Y8hHjAB2nr2eeE7DlAFaLU70FL02MTcQ0OVcZiaFiJ_sXWn7elFiRrkdMOO8XDzVrjKQWpUck4hnCMlJSee7veneYpJcmL64eVfEvT5VSWMlE1fPHrfA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdgHrOzAVwJIgh4TYhLCOhxKlfl8K4fo5M8kaJgYgzd8Y8hHjAB2nr2eeE7DlAFaLU70FL02MTcQ0OVcZiaFiJ_sXWn7elFiRrkdMOO8XDzVrjKQWpUck4hnCMlJSee7veneYpJcmL64eVfEvT5VSWMlE1fPHrfA",
+   "source": "Hotels4Teams",
+   "read_more_link": "https://www.hotels4teams.com/venues/bellefontaine-high-school/#:~:text=The%20Bellefontaine%20High%20School%20campus,arts%20performances%2C%20and%20educational%20events."
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Bellefontaine high school delaware football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Bellefontaine+high+school+delaware+football&sa=X&ved=2ahUKEwio2qvU5uSWAxUjjOEIHY23Md4Q1QJ6BAgoEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Bellefontaine+high+school+delaware+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Bellefontaine high school delaware staff",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Bellefontaine+high+school+delaware+staff&sa=X&ved=2ahUKEwio2qvU5uSWAxUjjOEIHY23Md4Q1QJ6BAg2EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Bellefontaine+high+school+delaware+staff"
+  },
+  {
+   "block_position": 1,
+   "query": "Bellefontaine high school website",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Bellefontaine+high+school+website&sa=X&ved=2ahUKEwio2qvU5uSWAxUjjOEIHY23Md4Q1QJ6BAg1EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Bellefontaine+high+school+website"
+  },
+  {
+   "block_position": 1,
+   "query": "Bellefontaine high school delaware basketball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Bellefontaine+high+school+delaware+basketball&sa=X&ved=2ahUKEwio2qvU5uSWAxUjjOEIHY23Md4Q1QJ6BAgzEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Bellefontaine+high+school+delaware+basketball"
+  },
+  {
+   "block_position": 1,
+   "query": "Bellefontaine Intermediate School",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Bellefontaine+Intermediate+School&sa=X&ved=2ahUKEwio2qvU5uSWAxUjjOEIHY23Md4Q1QJ6BAgvEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Bellefontaine+Intermediate+School"
+  },
+  {
+   "block_position": 1,
+   "query": "Bellefontaine elementary school",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Bellefontaine+elementary+school&sa=X&ved=2ahUKEwio2qvU5uSWAxUjjOEIHY23Md4Q1QJ6BAgrEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Bellefontaine+elementary+school"
+  },
+  {
+   "block_position": 1,
+   "query": "Bellefontaine high school graduation 2026",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Bellefontaine+high+school+graduation+2026&sa=X&ved=2ahUKEwio2qvU5uSWAxUjjOEIHY23Md4Q1QJ6BAgqEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Bellefontaine+high+school+graduation+2026"
+  },
+  {
+   "block_position": 1,
+   "query": "Bellefontaine city schools",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Bellefontaine+city+schools&sa=X&ved=2ahUKEwio2qvU5uSWAxUjjOEIHY23Md4Q1QJ6BAgpEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Bellefontaine+city+schools"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Bellefontaine+High+School%22+Delaware&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=Tgyjaqj7JqOYhvcPje_G8Q0&start=10&sa=N&sstk=AS6-VmJnI7iYdCSNeKIsyXdmJ5G8p16-_wD-p0Cq66tMre7hlVVmrRcqOPPrmZpe7B1bKtJSMYbP2z6PPfk_DfN-qvTM9uAvVY5cCA&ved=2ahUKEwio2qvU5uSWAxUjjOEIHY23Md4Q8NMDegQIQhAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Bellefontaine+High+School%22+Delaware&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=Tgyjaqj7JqOYhvcPje_G8Q0&start=10&sa=N&sstk=AS6-VmJnI7iYdCSNeKIsyXdmJ5G8p16-_wD-p0Cq66tMre7hlVVmrRcqOPPrmZpe7B1bKtJSMYbP2z6PPfk_DfN-qvTM9uAvVY5cCA&ved=2ahUKEwio2qvU5uSWAxUjjOEIHY23Md4Q8tMDegQIQhAE",
+   "3": "https://www.google.com/search?q=%22Bellefontaine+High+School%22+Delaware&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=Tgyjaqj7JqOYhvcPje_G8Q0&start=20&sa=N&sstk=AS6-VmJnI7iYdCSNeKIsyXdmJ5G8p16-_wD-p0Cq66tMre7hlVVmrRcqOPPrmZpe7B1bKtJSMYbP2z6PPfk_DfN-qvTM9uAvVY5cCA&ved=2ahUKEwio2qvU5uSWAxUjjOEIHY23Md4Q8tMDegQIQhAG",
+   "4": "https://www.google.com/search?q=%22Bellefontaine+High+School%22+Delaware&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=Tgyjaqj7JqOYhvcPje_G8Q0&start=30&sa=N&sstk=AS6-VmJnI7iYdCSNeKIsyXdmJ5G8p16-_wD-p0Cq66tMre7hlVVmrRcqOPPrmZpe7B1bKtJSMYbP2z6PPfk_DfN-qvTM9uAvVY5cCA&ved=2ahUKEwio2qvU5uSWAxUjjOEIHY23Md4Q8tMDegQIQhAI",
+   "5": "https://www.google.com/search?q=%22Bellefontaine+High+School%22+Delaware&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=Tgyjaqj7JqOYhvcPje_G8Q0&start=40&sa=N&sstk=AS6-VmJnI7iYdCSNeKIsyXdmJ5G8p16-_wD-p0Cq66tMre7hlVVmrRcqOPPrmZpe7B1bKtJSMYbP2z6PPfk_DfN-qvTM9uAvVY5cCA&ved=2ahUKEwio2qvU5uSWAxUjjOEIHY23Md4Q8tMDegQIQhAK",
+   "6": "https://www.google.com/search?q=%22Bellefontaine+High+School%22+Delaware&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=Tgyjaqj7JqOYhvcPje_G8Q0&start=50&sa=N&sstk=AS6-VmJnI7iYdCSNeKIsyXdmJ5G8p16-_wD-p0Cq66tMre7hlVVmrRcqOPPrmZpe7B1bKtJSMYbP2z6PPfk_DfN-qvTM9uAvVY5cCA&ved=2ahUKEwio2qvU5uSWAxUjjOEIHY23Md4Q8tMDegQIQhAM",
+   "7": "https://www.google.com/search?q=%22Bellefontaine+High+School%22+Delaware&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=Tgyjaqj7JqOYhvcPje_G8Q0&start=60&sa=N&sstk=AS6-VmJnI7iYdCSNeKIsyXdmJ5G8p16-_wD-p0Cq66tMre7hlVVmrRcqOPPrmZpe7B1bKtJSMYbP2z6PPfk_DfN-qvTM9uAvVY5cCA&ved=2ahUKEwio2qvU5uSWAxUjjOEIHY23Md4Q8tMDegQIQhAO",
+   "8": "https://www.google.com/search?q=%22Bellefontaine+High+School%22+Delaware&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=Tgyjaqj7JqOYhvcPje_G8Q0&start=70&sa=N&sstk=AS6-VmJnI7iYdCSNeKIsyXdmJ5G8p16-_wD-p0Cq66tMre7hlVVmrRcqOPPrmZpe7B1bKtJSMYbP2z6PPfk_DfN-qvTM9uAvVY5cCA&ved=2ahUKEwio2qvU5uSWAxUjjOEIHY23Md4Q8tMDegQIQhAQ",
+   "9": "https://www.google.com/search?q=%22Bellefontaine+High+School%22+Delaware&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=Tgyjaqj7JqOYhvcPje_G8Q0&start=80&sa=N&sstk=AS6-VmJnI7iYdCSNeKIsyXdmJ5G8p16-_wD-p0Cq66tMre7hlVVmrRcqOPPrmZpe7B1bKtJSMYbP2z6PPfk_DfN-qvTM9uAvVY5cCA&ved=2ahUKEwio2qvU5uSWAxUjjOEIHY23Md4Q8tMDegQIQhAS",
+   "10": "https://www.google.com/search?q=%22Bellefontaine+High+School%22+Delaware&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=Tgyjaqj7JqOYhvcPje_G8Q0&start=90&sa=N&sstk=AS6-VmJnI7iYdCSNeKIsyXdmJ5G8p16-_wD-p0Cq66tMre7hlVVmrRcqOPPrmZpe7B1bKtJSMYbP2z6PPfk_DfN-qvTM9uAvVY5cCA&ved=2ahUKEwio2qvU5uSWAxUjjOEIHY23Md4Q8tMDegQIQhAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Bellefontaine+High+School%22+Delaware&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Bellefontaine+High+School%22+Delaware&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Bellefontaine+High+School%22+Delaware&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Bellefontaine+High+School%22+Delaware&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Bellefontaine+High+School%22+Delaware&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Bellefontaine+High+School%22+Delaware&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Bellefontaine+High+School%22+Delaware&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Bellefontaine+High+School%22+Delaware&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Bellefontaine+High+School%22+Delaware&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Bellefontaine+High+School%22+Delaware&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Bellefontaine+High+School%22+Delaware&start=90"
+  }
+ }
+}

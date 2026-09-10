@@ -1,0 +1,617 @@
+{
+ "search_information": {
+  "query_displayed": "\"Punahou School\" Hawaii",
+  "total_results": 287000,
+  "time_taken_displayed": 0.31,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Punahou School",
+  "type": "College-preparatory school in Honolulu, Hawaii",
+  "entity_type": "local_nav",
+  "kgmid": "/m/02d9nr",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/02d9nr&hl=en-US&q=Punahou+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F02d9nr&q=Punahou+School",
+  "place_id": "ChIJn3dgWJVtAHwREhKeYCGJ73E",
+  "website": "https://www.punahou.edu/",
+  "description": "Punahou School is a private, co-educational, college preparatory school in Honolulu, Hawaii. More than 3,700 students attend the school from kindergarten through 12th grade. The school was established by Protestant missionaries in 1841.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa31152d1a72b58f9f8ff8f/images/V88tXbOytu-JjSWiIi9eskzTAasx3LATwF6kzJXuErw.webp",
+   "link": "https://www.google.com/maps/place/Punahou+School/data=!4m2!3m1!1s0x0:0x71ef8921609e1212?sa=X&ved=2ahUKEwi2yPrF6-SWAxXkzvACHcJWAI8Q_BJ6BAgOEAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Punahou_School"
+  },
+  "address": "1601 Punahou St, Honolulu, HI 96822",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuLOs3eOqx_RNc0DiaZi60GdEv0kw:1789071726657&q=punahou+school+address&ludocid=8209931422167601682&sa=X&ved=2ahUKEwi2yPrF6-SWAxXkzvACHcJWAI8Q6BN6BAggEAI"
+   }
+  ],
+  "colors": "Blue, Buff",
+  "colors_links": [
+   {
+    "text": "Blue",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuLOs3eOqx_RNc0DiaZi60GdEv0kw:1789071726657&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpvdEmEKP4dQQoWLIwXjhkBjOThA3TO1rl4rjAeqO-nYm_PZ7J9tMzOgWSLpqpwbrJC2X6OdUwmLRTkHCCY6nu-gH89_iWCdi22D9RFhV9mgRvy-IwyBdBZ3qNkfR3pINb2Oi1Cr9Gh31AUwRoHJTG6dEUKvt7vUdBGZqHVpPAtcq39JgR0jjwtDSIKMh43fIKLmMLNg%3D&sa=X&ved=2ahUKEwi2yPrF6-SWAxXkzvACHcJWAI8QmxN6BAglEAI"
+   },
+   {
+    "text": "Buff",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuLOs3eOqx_RNc0DiaZi60GdEv0kw:1789071726657&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yT3IGYh-zaaP8OU8JqF9-5YY6iA3hTlufpwPNN79fTCkiqPE0RXhDnjfTaZDru2fRVSt1V6OA0n5Dpnohw4Ra3v9q6Su1hNRMl3qBn0lIIWfRSFFlpKecvI_vNBJbkhrauSx39zCHiL6q-2SGRhTj_AK-8ksg-XEZlMs7VJwqTSHggtRuseOR_NxX1Q1jGW7H0VuoIY%3D&sa=X&ved=2ahUKEwi2yPrF6-SWAxXkzvACHcJWAI8QmxN6BAglEAM"
+   }
+  ],
+  "founded": "1841",
+  "tax_id": "99-0073523",
+  "raw_hours": "Open \u00b7 Closes 3 - 30 PM",
+  "hours": {
+   "thursday": {
+    "opens": "7:30\u202fAM",
+    "closes": "3:30\u202fPM"
+   },
+   "friday": {
+    "opens": "7:30\u202fAM",
+    "closes": "3:30\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "7:30\u202fAM",
+    "closes": "3:30\u202fPM"
+   },
+   "tuesday": {
+    "opens": "7:30\u202fAM",
+    "closes": "3:30\u202fPM"
+   },
+   "wednesday": {
+    "opens": "7:30\u202fAM",
+    "closes": "3:30\u202fPM"
+   }
+  },
+  "unclaimed_listing": true,
+  "people_also_search_for": [
+   {
+    "name": "Mid-Pacific Institute - PK-12 Private School - Oahu, Honolulu, HI",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm7z38bD3-kpZoXTe5T1Adaqee2yRYVZri0qFvU3xG_Ow1FPZVVhS95CyWxwVdSoF8MTxNuonRzTVFQEu7ykLG4dHpyf-rmOTfRFmdyFXm2H3Ddd9tQdTffuhKz4Sgw4GnS2685_umXUkwR=w204-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuLOs3eOqx_RNc0DiaZi60GdEv0kw:1789071726657&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yZJaahnGm6XBP7Q1EWx6pAtKNFCFlTdYy_f7XRSMYt3r5wdqO76VM68IYh5dXsB2LWzbv7eY1DDDXSz5eqXB_dd2ZAm1OMXU2CyyU7sE0sxAeoHVarTeyEKgTQE3jcl4qv1wdvxT_yJ7BVWSj48ScagfAfW5imo_RhpmGsYcsMDDMYKI-sBnNDJcjcz8RKTWWdHRTwH1BDcUDUELXwEf3KvaRwGQDjYdA9f8zeeT_PKfRfzbj_IQaduqmwyY92vJYhk4wDUokQV6zLBIFuoGvV8A8Ehw&q=Mid-Pacific+Institute&sa=X&ved=2ahUKEwi2yPrF6-SWAxXkzvACHcJWAI8Qs9oBKAB6BAgeEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mid-Pacific+Institute&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yZJaahnGm6XBP7Q1EWx6pAtKNFCFlTdYy_f7XRSMYt3r5wdqO76VM68IYh5dXsB2LWzbv7eY1DDDXSz5eqXB_dd2ZAm1OMXU2CyyU7sE0sxAeoHVarTeyEKgTQE3jcl4qv1wdvxT_yJ7BVWSj48ScagfAfW5imo_RhpmGsYcsMDDMYKI-sBnNDJcjcz8RKTWWdHRTwH1BDcUDUELXwEf3KvaRwGQDjYdA9f8zeeT_PKfRfzbj_IQaduqmwyY92vJYhk4wDUokQV6zLBIFuoGvV8A8Ehw"
+   },
+   {
+    "name": "Pacific Buddhist Academy",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnt1BxuJjnPnfw5FF2k4VHclTf_1q4BXbS1bPhwGig6YpFxAgHcG_dBJt-kFyIGqTOUkmguP9V70_02PNszrdjGwVUgF8-kOUusLEAmtC7OLQv9bz_jrmQ9Dnu3tkTeTH8kWOw=w204-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuLOs3eOqx_RNc0DiaZi60GdEv0kw:1789071726657&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW677vElcR491ZYM9zv9AXPqEogVv81Drjq2rJFNIeKopNmTC4XlskNcQrDqNJV6i7juI1iGO8QUPQtgvb0JpGqgwiHQfjejOWCXE8eeo7XtgzaDjIQ1jLQ7QC7va-lcpELwlIrnxql_jHSPPhM55dEBYeD9OZTQXHyH95jYkdXQaZk53-euAh1niR8KsrSrSJoXN0dO7KMe7xmcJS8om3NV69R2kCPR3ZlzRJ9U0DI80Tl5mtqxksR6v94a0MDer4qT22caRiOZ3mU0ShfGFN-Tx1fbsdF&q=Pacific+Buddhist+Academy&sa=X&ved=2ahUKEwi2yPrF6-SWAxXkzvACHcJWAI8Qs9oBKAB6BAgeEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pacific+Buddhist+Academy&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW677vElcR491ZYM9zv9AXPqEogVv81Drjq2rJFNIeKopNmTC4XlskNcQrDqNJV6i7juI1iGO8QUPQtgvb0JpGqgwiHQfjejOWCXE8eeo7XtgzaDjIQ1jLQ7QC7va-lcpELwlIrnxql_jHSPPhM55dEBYeD9OZTQXHyH95jYkdXQaZk53-euAh1niR8KsrSrSJoXN0dO7KMe7xmcJS8om3NV69R2kCPR3ZlzRJ9U0DI80Tl5mtqxksR6v94a0MDer4qT22caRiOZ3mU0ShfGFN-Tx1fbsdF"
+   },
+   {
+    "name": "Hawaii Baptist Academy Elementary School",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnd1vgMwm0eabTrwH56qTfqBJYh99o38jL4XhaticioGHsGMdxLuz__1ABcwkWvLZfGVLY-lUNWinhVpxe_rOJaWpjNEdNdd_AEB7MC0Vcyf2zSlO3m7o7a-aHtEjcZyppytk5F4Q=w172-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuLOs3eOqx_RNc0DiaZi60GdEv0kw:1789071726657&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yQbPlUnmPpOllpFpCvEdu-QFbqwk-9DxAwsBvuhOMM3hazWITZ9Q2ir67jHFfBIrZrI5zO9gd1eUGqHHRbiXGCrS5vAac1TcBTE4JGvCAJLoGHOvxCfvydE_ECpA9qBa8JLTyw6E_LxIjbUM4iTNYKHrPtCXGi58fi7taSXnhx6VZX6tmvH8pMJr65zt3yOFMbyyPW1ukFOdgjiKKbUBG1jCGt2UUJu3MQpI0lt0FfnQXsZboVrdS9-NipckYzVpqO9trBK4u3a0IIbgRRepqkxk1fzb&q=Hawaii+Baptist+Academy&sa=X&ved=2ahUKEwi2yPrF6-SWAxXkzvACHcJWAI8Qs9oBKAB6BAgeEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Hawaii+Baptist+Academy&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yQbPlUnmPpOllpFpCvEdu-QFbqwk-9DxAwsBvuhOMM3hazWITZ9Q2ir67jHFfBIrZrI5zO9gd1eUGqHHRbiXGCrS5vAac1TcBTE4JGvCAJLoGHOvxCfvydE_ECpA9qBa8JLTyw6E_LxIjbUM4iTNYKHrPtCXGi58fi7taSXnhx6VZX6tmvH8pMJr65zt3yOFMbyyPW1ukFOdgjiKKbUBG1jCGt2UUJu3MQpI0lt0FfnQXsZboVrdS9-NipckYzVpqO9trBK4u3a0IIbgRRepqkxk1fzb"
+   },
+   {
+    "name": "Le Jardin Academy",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk4xhYvZ-BYUZ8MS06x8idTX_7bO5z6khV9w7KRuL6ZQOuLSIM88lg5CJ4Vqpj8xMyGpBrAMUymEfy2EznD09nSAYAeJ1kQMPozd-gLZ-K_avhJQS5-9a9QuDZWkEgLjSKXwX-_=w171-h115-k-no",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuLOs3eOqx_RNc0DiaZi60GdEv0kw:1789071726657&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yaBTCAoQwSc2RvxQghVslnfNageN8uw0q3bufvj91NDBCu7gU8-P_12uX_TcImjxdlHKsL_OKGWmdFglA7PIt3yl8gQP9UubU0rtkaKbXxQcx-xR5S4dAucLY_t__S2GId6QqfyLKPztR0EgPerkjIKqBmIMYS7sPLRUCcf2JhbAyrgV7QMxrCuSjypqfQ57cAZRK_7wLAgzpJfRcMIZQQGg5-j3tTOQH2NAyYQ6xIqHHqHYhbU1ucmq9W0AAEsu1D19GAY%3D&q=Le+Jardin+Academy&sa=X&ved=2ahUKEwi2yPrF6-SWAxXkzvACHcJWAI8Qs9oBKAB6BAgeEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Le+Jardin+Academy&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yaBTCAoQwSc2RvxQghVslnfNageN8uw0q3bufvj91NDBCu7gU8-P_12uX_TcImjxdlHKsL_OKGWmdFglA7PIt3yl8gQP9UubU0rtkaKbXxQcx-xR5S4dAucLY_t__S2GId6QqfyLKPztR0EgPerkjIKqBmIMYS7sPLRUCcf2JhbAyrgV7QMxrCuSjypqfQ57cAZRK_7wLAgzpJfRcMIZQQGg5-j3tTOQH2NAyYQ6xIqHHqHYhbU1ucmq9W0AAEsu1D19GAY%3D"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuLOs3eOqx_RNc0DiaZi60GdEv0kw:1789071726657&q=Punahou+School&stick=H4sIAAAAAAAAAONgFuLUz9U3MEqxzCtSQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1i5QsozUvMyC9VCE7OyM_P2cHKeItNkuGNQ0VgLl9T55Jww0Os2os2RyQF26SHfT8OAAfsQC10AAAA&sa=X&ved=2ahUKEwi2yPrF6-SWAxXkzvACHcJWAI8QzO0BKAR6BAgeEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLUz9U3MEqxzCtSQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1i5QsozUvMyC9VCE7OyM_P2cHKeItNkuGNQ0VgLl9T55Jww0Os2os2RyQF26SHfT8OAAfsQC10AAAA",
+  "profiles": [
+   {
+    "name": "X (Twitter)",
+    "link": "https://twitter.com/PunahouSchool",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Punahou+School%22+Hawaii",
+    "image": "https://ssl.gstatic.com/kpui/social/x_32x32.png"
+   },
+   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/punahouschool/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Punahou+School%22+Hawaii",
+    "image": "https://ssl.gstatic.com/kpui/social/instagram_32x32.png"
+   },
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/PunahouSchool",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Punahou+School%22+Hawaii",
+    "image": "https://ssl.gstatic.com/kpui/social/fb_32x32.png"
+   },
+   {
+    "name": "YouTube",
+    "link": "https://www.youtube.com/user/PUNAHOUSCHOOL",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Punahou+School%22+Hawaii",
+    "image": "https://ssl.gstatic.com/kpui/social/youtube_32x32.png"
+   }
+  ]
+ },
+ "short_videos": [
+  {
+   "position": 1,
+   "title": "Punahou School by Punahou School on Facebook. Play on Facebook. 0:46",
+   "source": "Facebook",
+   "profile_name": "Punahou School",
+   "extensions": [
+    "Punahou School"
+   ],
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "duration": "0:46",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC20YtTCl9uRGh26dlatjMvAdiCLzoNlG7g4igcEq5tefTSP92VuY4kR4&s=10",
+   "link": "https://www.facebook.com/PunahouSchool/posts/what-is-the-punahou-difference-we-invite-our-applying-kindergarten-grade-5-famil/1489118409928375/"
+  },
+  {
+   "position": 2,
+   "title": "What does Punahou mean to you? For Sydney, it's the ... by Punahou School on Facebook. Play on Facebook. 0:53",
+   "source": "Facebook",
+   "profile_name": "Punahou School",
+   "extensions": [
+    "Punahou School"
+   ],
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "duration": "0:53",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRbf_HOC6aGLJ9Nt33_q6eFRGRl4w_XlXBsGVc2Cjt8uH_gRi4fLAdP3k&s=10",
+   "link": "https://www.facebook.com/PunahouSchool/videos/what-does-punahou-mean-to-youfor-sydney-its-the-opportunity-to-turn-her-passions/1832292254115870/"
+  },
+  {
+   "position": 3,
+   "title": "Punahou welcomed its newest faculty and staff with a Ho'okipa ... by Punahou School on Facebook. Play on Facebook. 1:13",
+   "source": "Facebook",
+   "profile_name": "Punahou School",
+   "extensions": [
+    "Punahou School"
+   ],
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "duration": "1:13",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK1eQJBxZXR0jpll3HoHoAJ7yrABL7JAdBNy3D7XwiC-DXMuMcloqOUpE&s=10",
+   "link": "https://www.facebook.com/PunahouSchool/posts/punahou-welcomed-its-newest-faculty-and-staff-with-a-hookipa-today-as-the-school/1480263310813885/"
+  },
+  {
+   "position": 4,
+   "title": "What does Punahou mean to you? For Taj, it's the moments ... by Punahou School on Facebook. Play on Facebook. 0:43",
+   "source": "Facebook",
+   "profile_name": "Punahou School",
+   "extensions": [
+    "Punahou School"
+   ],
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "duration": "0:43",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFNpX3gXfRMyIeWfTAHI5Bh5CUi5aXXndBcQ_ZRR9wz0ruNupZtAGq5Mg&s=10",
+   "link": "https://www.facebook.com/PunahouSchool/videos/what-does-punahou-mean-to-you-for-taj-its-the-moments-that-matter-most-friendshi/2150128259174044/"
+  },
+  {
+   "position": 5,
+   "title": "Exploring Punahou School: Hawaii's Premier High School by ordoschools on TikTok. Play on TikTok. 1:06",
+   "source": "TikTok",
+   "profile_name": "ordoschools",
+   "extensions": [
+    "ordoschools"
+   ],
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAw1BMVEUAAAAAAAAFT1IAQUNBub6u5eexxcpyQ0wIAABaxsv5____9_nGj5oyAAD____84eeEYmvm4uN4f4A5P0MAFBXx-vu019khAAD60tr37vDlmqpXAAsALzAKc3gpo6hjpqr_6O3idYqcbHTSrLP6iJ9rABOc5Ofi-vvJYnXLbn8_AAI9HyWWIDhRz9TH9PffY3oDAAC99vjhSGe7KEenACiF4-f_1961PVaB09bFkZswjJGwuLr__f7xqbYYHh_9tsTiL1Yh8R0_AAAAAXRSTlP-GuMHfQAAANJJREFUeAG90kUCg1AMBNDiPtTd3d2V-5-quMOS2b6vSXI5IjnZIElSyUgzLMcnoSBKspKMUPMpiEKxVE5EVKr5WgTLBkr1BtBsBbHd6fZKOvYHw1F9PAkgSU9njXlNx8Vyxa2XfmxvtoC0M1GH_d6P3QPU8fFkY_Ar7Q0ag3ONIOKQvOB60i0WqSnUG6FnI6rzMJbvkB76zo5-wk0JIf8EGq9ndzN7f9bRrlQBcTYTcT22iAh-X9Ib7_dPm8Q1u5Zvfpq7c4uIQ56otVrLjEYzJX-4mxcG80U-CwAAAABJRU5ErkJggg.png",
+   "duration": "1:06",
+   "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSFIROWzxRjRdRbno9su2Dp6K6vDEpP_hRLfA",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqLwQ6nGMu-EXmcEzN1mwiR3rAmcsecM8SYCchMT3IdEgy-KET_S0VEgo&s=10",
+   "link": "https://www.tiktok.com/@ordoschools/video/7522667635742428447"
+  },
+  {
+   "position": 6,
+   "title": "Every day at Punahou, learning comes to life in countless ways. ... by Punahou School on Instagram. Play on Instagram. 0:48",
+   "source": "Instagram",
+   "profile_name": "Punahou School",
+   "extensions": [
+    "Punahou School"
+   ],
+   "source_logo": "https://serpapi.com/searches/6aa31152d1a72b58f9f8ff8f/images/NBviipddGtaha8LfeQEKLL6rT9DJZkCbdOucK5WpGZ0.png",
+   "duration": "0:48",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSofxM_NpECDv-xTu8-j26MOoxK22FPoTXxf3CoL6RY9ra2CESfhskwb0I&s=10",
+   "link": "https://www.instagram.com/reel/DWZ2WtxE_Mw/"
+  },
+  {
+   "position": 7,
+   "title": "Applications are now open for the 2027-28 school year! ... by Punahou School Admissions on Instagram. Play on Instagram. 0:08",
+   "source": "Instagram",
+   "profile_name": "Punahou School Admissions",
+   "extensions": [
+    "Punahou School Admissions"
+   ],
+   "source_logo": "https://serpapi.com/searches/6aa31152d1a72b58f9f8ff8f/images/KmQ2TNWhs4Vta4F5L8XYlLTJ-MfhIknykYH7Qqcu1Vc.png",
+   "duration": "0:08",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz36xNONeq-2JTZ4YljhkJ7q6zx7dSpHG5NnsxN_XBq1Y_q0FDNTkRJjs&s=10",
+   "link": "https://www.instagram.com/reel/Dbq8VQqBxjS/"
+  },
+  {
+   "position": 8,
+   "title": "Grades 4 - 5 sharing the spirit of May Day! | Punahou School by Punahou School on Facebook. Play on Facebook. 1:40",
+   "source": "Facebook",
+   "profile_name": "Punahou School",
+   "extensions": [
+    "Punahou School"
+   ],
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "duration": "1:40",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIqTYaSWpRzpVBMriveAjjTlMMi9sh9Jsao4CQyK7e0rvc7MXH9M-My4w&s=10",
+   "link": "https://www.facebook.com/PunahouSchool/videos/grades-4-5-sharing-the-spirit-of-may-day/2125217474931966/"
+  },
+  {
+   "position": 9,
+   "title": "What does Punahou mean to you? For Taj, it's the moments ... by Punahou School on Instagram. Play on Instagram. 0:42",
+   "source": "Instagram",
+   "profile_name": "Punahou School",
+   "extensions": [
+    "Punahou School"
+   ],
+   "source_logo": "https://serpapi.com/searches/6aa31152d1a72b58f9f8ff8f/images/fkH2B2rNfhdNJToee6pqjvB5J9b0L5qdahGQ7Zp1RTQ.png",
+   "duration": "0:42",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZjC8oMcbQ8y4Tu4d63b4eiVkY4-WIMRbTn7iRxLcXd_9kbADW22ww0cQ&s=10",
+   "link": "https://www.instagram.com/reel/DW4zb-cE0h_/"
+  },
+  {
+   "position": 10,
+   "title": "Listen to Maile talk about the four decision types we offer at ... by Punahou School Admissions on Instagram. Play on Instagram. 2:14",
+   "source": "Instagram",
+   "profile_name": "Punahou School Admissions",
+   "extensions": [
+    "Punahou School Admissions"
+   ],
+   "source_logo": "https://serpapi.com/searches/6aa31152d1a72b58f9f8ff8f/images/Va4mzIuGQsUqgT3x5DZH4oAe9_gxj9wgtM3DHv9js7E.png",
+   "duration": "2:14",
+   "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTwv4CuEvwrD7AD-TYhAPB9_dH8vjKb-3BM9g",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoaofpMBacbzgbS9hCzZDG6-9ltpUdhOw4hrpQPBicsK-wo9KVamcbPto&s=10",
+   "link": "https://www.instagram.com/reel/DGCK5WvPeBl/"
+  }
+ ],
+ "related_questions": [
+  {
+   "question": "How hard is it to get into Punahou?",
+   "type": "ai_overview",
+   "page_token": "kH6PSnicHdDhbqIwAADg3Mvs52zBuWlilnCWTjJKWlvA_rmUFgVpC94Q5_7tXfZUe5pd7g2-fJ9ftvXd96-pGcfhbTWbXa_X-2PfH219r3s3U283r2daWVsp3a0Wjwv4fNBrdNlGv8_biIphyDcMcJxENTqGhRi3dZl7iZcJwUOhrTkwyKYd0qPcyC6P9XXvTJFuLM7wcqd9stE3AOsy2RIh8yLOY2lzUNjG7cvkJcXLSXUGEE7mXLCYwu4hLZuJ4CeQYftaBnCRYUY5zi9l8DRX3MjCN6_qhELqzUh5CvkNThUnPfuwkYZLRrw5GR9HykmlURLwYrgYJzmBEqQgxpVLPGpMq5A5_zO0RdePImBhhgk1IbrRFkbyvW-pYB_6ZJ2AEa9KNs-QfDF43NXdALSLk13wjiphwB6ys6B3Bz2tw7v_n-s_Bzeuhr_98QdBKYH8",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=kH6PSnicHdDhbqIwAADg3Mvs52zBuWlilnCWTjJKWlvA_rmUFgVpC94Q5_7tXfZUe5pd7g2-fJ9ftvXd96-pGcfhbTWbXa_X-2PfH219r3s3U283r2daWVsp3a0Wjwv4fNBrdNlGv8_biIphyDcMcJxENTqGhRi3dZl7iZcJwUOhrTkwyKYd0qPcyC6P9XXvTJFuLM7wcqd9stE3AOsy2RIh8yLOY2lzUNjG7cvkJcXLSXUGEE7mXLCYwu4hLZuJ4CeQYftaBnCRYUY5zi9l8DRX3MjCN6_qhELqzUh5CvkNThUnPfuwkYZLRrw5GR9HykmlURLwYrgYJzmBEqQgxpVLPGpMq5A5_zO0RdePImBhhgk1IbrRFkbyvW-pYB_6ZJ2AEa9KNs-QfDF43NXdALSLk13wjiphwB6ys6B3Bz2tw7v_n-s_Bzeuhr_98QdBKYH8",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1JsTTBWV0l3Y0ZvemRUaGhZMGh1Y1dsU1REZHNXSEYzTjBaRVZsOW5USGhQVmxFMlZGWkVNMlJKYVZGMVFWOVNZa2t5ZGtzNVNIUXdNMlp1YVhkdFkzRldMVUpHVTBveGQybDJaamxxUm5waGNEazFVVFJHVEZGNFFSSVhZbWhIYW1GeVlscEtMVk5rZHpoalVIZHhNa0l0UVdjYUlrRkVjM0k1WmxOb2FITlVUM2g0VFVwclZHeHBhamhPTUZOWFV6WjBhVTR0VEhjIiwiZmN2IjoiMyIsImVpIjoiYmhHamFyYlpKLVNkdzhjUHdxMkItQWciLCJxYyI6IkNoVndkVzVoYUc5MUlITmphRzl2YkNCb1lYZGhhV2tRQUgzSVEwRV8iLCJxdWVzdGlvbiI6IkhvdyBoYXJkIGlzIGl0IHRvIGdldCBpbnRvIFB1bmFob3U/IiwibGsiOiJHaUpvYjNjZ2FHRnlaQ0JwY3lCcGRDQjBieUJuWlhRZ2FXNTBieUJ3ZFc1aGFHOTEiLCJicyI6ImM1WFBNV19DUUF3RllMSGV4SnpwaVFKVjZSWmdqbFIxaU1UUUlnYlUwU0dHTzVIRXA5eUY2ODl2Q0pFQUNZWnVIcjVuLTZtVmVra2xRRk9kd3pnWUR5ODRzSWVwMnVHN3FVaExrOFRqYUtTZk0zdGhhcTJtbnliSEI5VzBPLUlybzVKd0VGd1hZYlBUSWtVU3YwYVR2SlhaUmNxTjdIZkJkVktWYXJIVjVNOUh2V2FVNGp6NDEzTGx6SWxoYTNNaXp6MXVuMEZLZ1l4SjRtVTBEX19KNlM2bmZ0U3NPN2VuVWhvSHkySUxSdURLUDJyeEhyMkY1X3EteVhEd0J3IiwiaWQiOiJmY19iaEdqYXJiWkotU2R3OGNQd3EyQi1BZ181In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1JsTTBWV0l3Y0ZvemRUaGhZMGh1Y1dsU1REZHNXSEYzTjBaRVZsOW5USGhQVmxFMlZGWkVNMlJKYVZGMVFWOVNZa2t5ZGtzNVNIUXdNMlp1YVhkdFkzRldMVUpHVTBveGQybDJaamxxUm5waGNEazFVVFJHVEZGNFFSSVhZbWhIYW1GeVlscEtMVk5rZHpoalVIZHhNa0l0UVdjYUlrRkVjM0k1WmxOb2FITlVUM2g0VFVwclZHeHBhamhPTUZOWFV6WjBhVTR0VEhjIiwiZmN2IjoiMyIsImVpIjoiYmhHamFyYlpKLVNkdzhjUHdxMkItQWciLCJxYyI6IkNoVndkVzVoYUc5MUlITmphRzl2YkNCb1lYZGhhV2tRQUgzSVEwRV8iLCJxdWVzdGlvbiI6IkhvdyBoYXJkIGlzIGl0IHRvIGdldCBpbnRvIFB1bmFob3U%2FIiwibGsiOiJHaUpvYjNjZ2FHRnlaQ0JwY3lCcGRDQjBieUJuWlhRZ2FXNTBieUJ3ZFc1aGFHOTEiLCJicyI6ImM1WFBNV19DUUF3RllMSGV4SnpwaVFKVjZSWmdqbFIxaU1UUUlnYlUwU0dHTzVIRXA5eUY2ODl2Q0pFQUNZWnVIcjVuLTZtVmVra2xRRk9kd3pnWUR5ODRzSWVwMnVHN3FVaExrOFRqYUtTZk0zdGhhcTJtbnliSEI5VzBPLUlybzVKd0VGd1hZYlBUSWtVU3YwYVR2SlhaUmNxTjdIZkJkVktWYXJIVjVNOUh2V2FVNGp6NDEzTGx6SWxoYTNNaXp6MXVuMEZLZ1l4SjRtVTBEX19KNlM2bmZ0U3NPN2VuVWhvSHkySUxSdURLUDJyeEhyMkY1X3EteVhEd0J3IiwiaWQiOiJmY19iaEdqYXJiWkotU2R3OGNQd3EyQi1BZ181In0%3D"
+  },
+  {
+   "question": "Did Barack Obama go to Punahou School?",
+   "type": "ai_overview",
+   "page_token": "udAHb3icHdDPboIwAIDx7GV21AqDBROzjAFOs9a0sy1wWaRFwZaCivLntnfZU-1pZnb_Lr_v-0eXRv0-3Iq2bS7z6bTrusmhrg86n4i6mu4ugxFTsdM62wk1d5_d2cteLMLryn87rXxMm4YFBHyOAuxC2cgYnfKw4AJgC1mJFY_E3TCv20QowSMpM-WVGBCHjP7H1rw6LIAtpw2CS2zl3Oty2mMZr5PPpTMTgXRJ5LU80hfJ1CBAZFMVvd-bioeqSywyYMUM5P2Jga6HR52iyoGYshAphPC2uGY6TbmJXMYPFj0WSU7hkFXOLQUtSLd-A009psZ_ysOoxyZppSlqahd-WMjy7jkl8brkqm6pRezNEmFphwMuZ37a1yWmZBRHXVEtMeRewGPJ7_4SsnWcB-k5W677BCiwBdGI8eNe3Bb24__Pxde-aufNuT78Ab_6hKk",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=udAHb3icHdDPboIwAIDx7GV21AqDBROzjAFOs9a0sy1wWaRFwZaCivLntnfZU-1pZnb_Lr_v-0eXRv0-3Iq2bS7z6bTrusmhrg86n4i6mu4ugxFTsdM62wk1d5_d2cteLMLryn87rXxMm4YFBHyOAuxC2cgYnfKw4AJgC1mJFY_E3TCv20QowSMpM-WVGBCHjP7H1rw6LIAtpw2CS2zl3Oty2mMZr5PPpTMTgXRJ5LU80hfJ1CBAZFMVvd-bioeqSywyYMUM5P2Jga6HR52iyoGYshAphPC2uGY6TbmJXMYPFj0WSU7hkFXOLQUtSLd-A009psZ_ysOoxyZppSlqahd-WMjy7jkl8brkqm6pRezNEmFphwMuZ37a1yWmZBRHXVEtMeRewGPJ7_4SsnWcB-k5W677BCiwBdGI8eNe3Bb24__Pxde-aufNuT78Ab_6hKk",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1JsTTBWV0l3Y0ZvemRUaGhZMGh1Y1dsU1REZHNXSEYzTjBaRVZsOW5USGhQVmxFMlZGWkVNMlJKYVZGMVFWOVNZa2t5ZGtzNVNIUXdNMlp1YVhkdFkzRldMVUpHVTBveGQybDJaamxxUm5waGNEazFVVFJHVEZGNFFSSVhZbWhIYW1GeVlscEtMVk5rZHpoalVIZHhNa0l0UVdjYUlrRkVjM0k1WmxOb2FITlVUM2g0VFVwclZHeHBhamhPTUZOWFV6WjBhVTR0VEhjIiwiZmN2IjoiMyIsImVpIjoiYmhHamFyYlpKLVNkdzhjUHdxMkItQWciLCJxYyI6IkNoVndkVzVoYUc5MUlITmphRzl2YkNCb1lYZGhhV2tRQUgzSVEwRV8iLCJxdWVzdGlvbiI6IkRpZCBCYXJhY2sgT2JhbWEgZ28gdG8gUHVuYWhvdSBTY2hvb2w/IiwibGsiOiJHaVZrYVdRZ1ltRnlZV05ySUc5aVlXMWhJR2R2SUhSdklIQjFibUZvYjNVZ2MyTm9iMjlzIiwiYnMiOiJjNVhQTVdfQ1FBd0ZZTEhleEp6cGlRSlY2UlpnamxSMWlNVFFJZ2JVMFNHR081SEVwOXlGNjg5dkNKRUFDWVp1SHI1bi02bVZla2tsUUZPZHd6Z1lEeTg0c0llcDJ1RzdxVWhMazhUamFLU2ZNM3RoYXEybW55YkhCOVcwTy1Jcm81SndFRndYWWJQVElrVVN2MGFUdkpYWlJjcU43SGZCZFZLVmFySFY1TTlIdldhVTRqejQxM0xseklsaGEzTWl6ejF1bjBGS2dZeEo0bVUwRF9fSjZTNm5mdFNzTzdlblVob0h5MklMUnVES1AycnhIcjJGNV9xLXlYRHdCdyIsImlkIjoiZmNfYmhHamFyYlpKLVNkdzhjUHdxMkItQWdfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1JsTTBWV0l3Y0ZvemRUaGhZMGh1Y1dsU1REZHNXSEYzTjBaRVZsOW5USGhQVmxFMlZGWkVNMlJKYVZGMVFWOVNZa2t5ZGtzNVNIUXdNMlp1YVhkdFkzRldMVUpHVTBveGQybDJaamxxUm5waGNEazFVVFJHVEZGNFFSSVhZbWhIYW1GeVlscEtMVk5rZHpoalVIZHhNa0l0UVdjYUlrRkVjM0k1WmxOb2FITlVUM2g0VFVwclZHeHBhamhPTUZOWFV6WjBhVTR0VEhjIiwiZmN2IjoiMyIsImVpIjoiYmhHamFyYlpKLVNkdzhjUHdxMkItQWciLCJxYyI6IkNoVndkVzVoYUc5MUlITmphRzl2YkNCb1lYZGhhV2tRQUgzSVEwRV8iLCJxdWVzdGlvbiI6IkRpZCBCYXJhY2sgT2JhbWEgZ28gdG8gUHVuYWhvdSBTY2hvb2w%2FIiwibGsiOiJHaVZrYVdRZ1ltRnlZV05ySUc5aVlXMWhJR2R2SUhSdklIQjFibUZvYjNVZ2MyTm9iMjlzIiwiYnMiOiJjNVhQTVdfQ1FBd0ZZTEhleEp6cGlRSlY2UlpnamxSMWlNVFFJZ2JVMFNHR081SEVwOXlGNjg5dkNKRUFDWVp1SHI1bi02bVZla2tsUUZPZHd6Z1lEeTg0c0llcDJ1RzdxVWhMazhUamFLU2ZNM3RoYXEybW55YkhCOVcwTy1Jcm81SndFRndYWWJQVElrVVN2MGFUdkpYWlJjcU43SGZCZFZLVmFySFY1TTlIdldhVTRqejQxM0xseklsaGEzTWl6ejF1bjBGS2dZeEo0bVUwRF9fSjZTNm5mdFNzTzdlblVob0h5MklMUnVES1AycnhIcjJGNV9xLXlYRHdCdyIsImlkIjoiZmNfYmhHamFyYlpKLVNkdzhjUHdxMkItQWdfNSJ9"
+  },
+  {
+   "question": "What is the most expensive private school in Hawaii?",
+   "type": "ai_overview",
+   "page_token": "vCsebnicHdBRbpswAABQ7TL9bDAeTIsUVXGDYaw4xcU28DM5BmKCCV5LgfLXK-wMO9VOs6oneNJ7_2vaa_fvyx89jvZlu9nM83x7HoazqW_V0G_ky9tVbZQ05iRVt_W_-eCuUbtgUuj-WaGUWcsP1HkCRtdYwyLT8NRzX11oSiM91cFImDAPbK3QCca2zvcewSTjQvuS4YY6DJY9J4LhY2b2Lsu5IBwhEpaLDKtDnVuv6jxA3KVL3K9rvsamCj9MB6yMlT9zV0f5SnzSLWHKvhelAwhZlSuvfKggAhQiKDseU4PCBOxd2o-TjCrOeyzoPZi4GLns4kAY3FPIk0QsXmFIRC7Y0oxbjsvX4mpExjwmceA8ZAQHumplUP0u8rgV3TAyl8JjSNIKBm9pC1C5DG3K6KoupueRlicxPh6fQKMgeuSM-EmQztLhlhz0D-WWZTnfNGrawZvP692vph-39nk4_wcrrIt7",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=vCsebnicHdBRbpswAABQ7TL9bDAeTIsUVXGDYaw4xcU28DM5BmKCCV5LgfLXK-wMO9VOs6oneNJ7_2vaa_fvyx89jvZlu9nM83x7HoazqW_V0G_ky9tVbZQ05iRVt_W_-eCuUbtgUuj-WaGUWcsP1HkCRtdYwyLT8NRzX11oSiM91cFImDAPbK3QCca2zvcewSTjQvuS4YY6DJY9J4LhY2b2Lsu5IBwhEpaLDKtDnVuv6jxA3KVL3K9rvsamCj9MB6yMlT9zV0f5SnzSLWHKvhelAwhZlSuvfKggAhQiKDseU4PCBOxd2o-TjCrOeyzoPZi4GLns4kAY3FPIk0QsXmFIRC7Y0oxbjsvX4mpExjwmceA8ZAQHumplUP0u8rgV3TAyl8JjSNIKBm9pC1C5DG3K6KoupueRlicxPh6fQKMgeuSM-EmQztLhlhz0D-WWZTnfNGrawZvP692vph-39nk4_wcrrIt7",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1JsTTBWV0l3Y0ZvemRUaGhZMGh1Y1dsU1REZHNXSEYzTjBaRVZsOW5USGhQVmxFMlZGWkVNMlJKYVZGMVFWOVNZa2t5ZGtzNVNIUXdNMlp1YVhkdFkzRldMVUpHVTBveGQybDJaamxxUm5waGNEazFVVFJHVEZGNFFSSVhZbWhIYW1GeVlscEtMVk5rZHpoalVIZHhNa0l0UVdjYUlrRkVjM0k1WmxOb2FITlVUM2g0VFVwclZHeHBhamhPTUZOWFV6WjBhVTR0VEhjIiwiZmN2IjoiMyIsImVpIjoiYmhHamFyYlpKLVNkdzhjUHdxMkItQWciLCJxYyI6IkNoVndkVzVoYUc5MUlITmphRzl2YkNCb1lYZGhhV2tRQUgzSVEwRV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIG1vc3QgZXhwZW5zaXZlIHByaXZhdGUgc2Nob29sIGluIEhhd2FpaT8iLCJsayI6IkdqTjNhR0YwSUdseklIUm9aU0J0YjNOMElHVjRjR1Z1YzJsMlpTQndjbWwyWVhSbElITmphRzl2YkNCcGJpQm9ZWGRoYVdrIiwiYnMiOiJjNVhQTVdfQ1FBd0ZZTEhleEp6cGlRSlY2UlpnamxSMWlNVFFJZ2JVMFNHR081SEVwOXlGNjg5dkNKRUFDWVp1SHI1bi02bVZla2tsUUZPZHd6Z1lEeTg0c0llcDJ1RzdxVWhMazhUamFLU2ZNM3RoYXEybW55YkhCOVcwTy1Jcm81SndFRndYWWJQVElrVVN2MGFUdkpYWlJjcU43SGZCZFZLVmFySFY1TTlIdldhVTRqejQxM0xseklsaGEzTWl6ejF1bjBGS2dZeEo0bVUwRF9fSjZTNm5mdFNzTzdlblVob0h5MklMUnVES1AycnhIcjJGNV9xLXlYRHdCdyIsImlkIjoiZmNfYmhHamFyYlpKLVNkdzhjUHdxMkItQWdfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1JsTTBWV0l3Y0ZvemRUaGhZMGh1Y1dsU1REZHNXSEYzTjBaRVZsOW5USGhQVmxFMlZGWkVNMlJKYVZGMVFWOVNZa2t5ZGtzNVNIUXdNMlp1YVhkdFkzRldMVUpHVTBveGQybDJaamxxUm5waGNEazFVVFJHVEZGNFFSSVhZbWhIYW1GeVlscEtMVk5rZHpoalVIZHhNa0l0UVdjYUlrRkVjM0k1WmxOb2FITlVUM2g0VFVwclZHeHBhamhPTUZOWFV6WjBhVTR0VEhjIiwiZmN2IjoiMyIsImVpIjoiYmhHamFyYlpKLVNkdzhjUHdxMkItQWciLCJxYyI6IkNoVndkVzVoYUc5MUlITmphRzl2YkNCb1lYZGhhV2tRQUgzSVEwRV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIG1vc3QgZXhwZW5zaXZlIHByaXZhdGUgc2Nob29sIGluIEhhd2FpaT8iLCJsayI6IkdqTjNhR0YwSUdseklIUm9aU0J0YjNOMElHVjRjR1Z1YzJsMlpTQndjbWwyWVhSbElITmphRzl2YkNCcGJpQm9ZWGRoYVdrIiwiYnMiOiJjNVhQTVdfQ1FBd0ZZTEhleEp6cGlRSlY2UlpnamxSMWlNVFFJZ2JVMFNHR081SEVwOXlGNjg5dkNKRUFDWVp1SHI1bi02bVZla2tsUUZPZHd6Z1lEeTg0c0llcDJ1RzdxVWhMazhUamFLU2ZNM3RoYXEybW55YkhCOVcwTy1Jcm81SndFRndYWWJQVElrVVN2MGFUdkpYWlJjcU43SGZCZFZLVmFySFY1TTlIdldhVTRqejQxM0xseklsaGEzTWl6ejF1bjBGS2dZeEo0bVUwRF9fSjZTNm5mdFNzTzdlblVob0h5MklMUnVES1AycnhIcjJGNV9xLXlYRHdCdyIsImlkIjoiZmNfYmhHamFyYlpKLVNkdzhjUHdxMkItQWdfNSJ9"
+  },
+  {
+   "question": "What famous people went to Punahou School?",
+   "type": "ai_overview",
+   "page_token": "G_XHWHicHdDdVoIwAADg08t0mcDK0nM8nUgmkI42t4G76eCG8jNgJoJ617v0VD1Nne6_q-_rWxdN9XPT511njtPRaBiGu33b7nV2J9t6lB4vjRzJVOttKqvp-HFsP-_kzDsF7ushcDEzhs-JtS5VxBfcRrE5EypsmQTD1pEDB0iQBl-Vxa01n7yya2BToI7EQ2RdcZI1oZM49_e4VksV6ybVZp75phZl2C8ZBojmgvuIJBY5yjgAtIIN98V5CzWV1qTPFrDnLHRQwpnwYMiqJ3tVqnfkQ4bjByasSbj2ujeViIRfVyDTKKR_UixMLuYkInMyXsbQbDTHqYaVpG5Em5B4uSpSTx02SVjEVdsxh4BogbAC3gUXtivObYEZucpS14w9-Bzkh42tUOLYK0RfLrwk5wi6l01D0hS6J4Zvd7Kfgdv_z9nHru6m5rPd_wJi1II9",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=G_XHWHicHdDdVoIwAADg08t0mcDK0nM8nUgmkI42t4G76eCG8jNgJoJ617v0VD1Nne6_q-_rWxdN9XPT511njtPRaBiGu33b7nV2J9t6lB4vjRzJVOttKqvp-HFsP-_kzDsF7ushcDEzhs-JtS5VxBfcRrE5EypsmQTD1pEDB0iQBl-Vxa01n7yya2BToI7EQ2RdcZI1oZM49_e4VksV6ybVZp75phZl2C8ZBojmgvuIJBY5yjgAtIIN98V5CzWV1qTPFrDnLHRQwpnwYMiqJ3tVqnfkQ4bjByasSbj2ujeViIRfVyDTKKR_UixMLuYkInMyXsbQbDTHqYaVpG5Em5B4uSpSTx02SVjEVdsxh4BogbAC3gUXtivObYEZucpS14w9-Bzkh42tUOLYK0RfLrwk5wi6l01D0hS6J4Zvd7Kfgdv_z9nHru6m5rPd_wJi1II9",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1JsTTBWV0l3Y0ZvemRUaGhZMGh1Y1dsU1REZHNXSEYzTjBaRVZsOW5USGhQVmxFMlZGWkVNMlJKYVZGMVFWOVNZa2t5ZGtzNVNIUXdNMlp1YVhkdFkzRldMVUpHVTBveGQybDJaamxxUm5waGNEazFVVFJHVEZGNFFSSVhZbWhIYW1GeVlscEtMVk5rZHpoalVIZHhNa0l0UVdjYUlrRkVjM0k1WmxOb2FITlVUM2g0VFVwclZHeHBhamhPTUZOWFV6WjBhVTR0VEhjIiwiZmN2IjoiMyIsImVpIjoiYmhHamFyYlpKLVNkdzhjUHdxMkItQWciLCJxYyI6IkNoVndkVzVoYUc5MUlITmphRzl2YkNCb1lYZGhhV2tRQUgzSVEwRV8iLCJxdWVzdGlvbiI6IldoYXQgZmFtb3VzIHBlb3BsZSB3ZW50IHRvIFB1bmFob3UgU2Nob29sPyIsImxrIjoiR2lsM2FHRjBJR1poYlc5MWN5QndaVzl3YkdVZ2QyVnVkQ0IwYnlCd2RXNWhhRzkxSUhOamFHOXZiQSIsImJzIjoiYzVYUE1XX0NRQXdGWUxIZXhKenBpUUpWNlJaZ2psUjFpTVRRSWdiVTBTR0dPNUhFcDl5RjY4OXZDSkVBQ1ladUhyNW4tNm1WZWtrbFFGT2R3emdZRHk4NHNJZXAydUc3cVVoTGs4VGphS1NmTTN0aGFxMm1ueWJIQjlXME8tSXJvNUp3RUZ3WFliUFRJa1VTdjBhVHZKWFpSY3FON0hmQmRWS1ZhckhWNU05SHZXYVU0ano0MTNMbHpJbGhhM01penoxdW4wRktnWXhKNG1VMERfX0o2UzZuZnRTc083ZW5VaG9IeTJJTFJ1REtQMnJ4SHIyRjVfcS15WER3QnciLCJpZCI6ImZjX2JoR2phcmJaSi1TZHc4Y1B3cTJCLUFnXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1JsTTBWV0l3Y0ZvemRUaGhZMGh1Y1dsU1REZHNXSEYzTjBaRVZsOW5USGhQVmxFMlZGWkVNMlJKYVZGMVFWOVNZa2t5ZGtzNVNIUXdNMlp1YVhkdFkzRldMVUpHVTBveGQybDJaamxxUm5waGNEazFVVFJHVEZGNFFSSVhZbWhIYW1GeVlscEtMVk5rZHpoalVIZHhNa0l0UVdjYUlrRkVjM0k1WmxOb2FITlVUM2g0VFVwclZHeHBhamhPTUZOWFV6WjBhVTR0VEhjIiwiZmN2IjoiMyIsImVpIjoiYmhHamFyYlpKLVNkdzhjUHdxMkItQWciLCJxYyI6IkNoVndkVzVoYUc5MUlITmphRzl2YkNCb1lYZGhhV2tRQUgzSVEwRV8iLCJxdWVzdGlvbiI6IldoYXQgZmFtb3VzIHBlb3BsZSB3ZW50IHRvIFB1bmFob3UgU2Nob29sPyIsImxrIjoiR2lsM2FHRjBJR1poYlc5MWN5QndaVzl3YkdVZ2QyVnVkQ0IwYnlCd2RXNWhhRzkxSUhOamFHOXZiQSIsImJzIjoiYzVYUE1XX0NRQXdGWUxIZXhKenBpUUpWNlJaZ2psUjFpTVRRSWdiVTBTR0dPNUhFcDl5RjY4OXZDSkVBQ1ladUhyNW4tNm1WZWtrbFFGT2R3emdZRHk4NHNJZXAydUc3cVVoTGs4VGphS1NmTTN0aGFxMm1ueWJIQjlXME8tSXJvNUp3RUZ3WFliUFRJa1VTdjBhVHZKWFpSY3FON0hmQmRWS1ZhckhWNU05SHZXYVU0ano0MTNMbHpJbGhhM01penoxdW4wRktnWXhKNG1VMERfX0o2UzZuZnRTc083ZW5VaG9IeTJJTFJ1REtQMnJ4SHIyRjVfcS15WER3QnciLCJpZCI6ImZjX2JoR2phcmJaSi1TZHc4Y1B3cTJCLUFnXzUifQ%3D%3D"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Punahou School | A Private College Prep School in Honolulu, HI",
+   "link": "https://www.punahou.edu/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUAHrOzAV9BPgsVWucgimJQZeWNfbW9-21GQ3VR3MZbwnw7jTDEFO0D6tcsBAaRRfEWVdu74nkI2O4uhyIoqXREUyBZfwua0BirzyIRDhIsC7&ved=2ahUKEwi2yPrF6-SWAxXkzvACHcJWAI8QFnoECEUQAQ&uoh=1",
+   "displayed_link": "https://www.punahou.edu",
+   "favicon": "https://serpapi.com/searches/6aa31152d1a72b58f9f8ff8f/images/tKrUBrNheWflfgE6C70VbUBC3se8RFBtCZiUxJYq4Y0.png",
+   "snippet": "Located in Honolulu, Hawaii, Punahou School is a Private, Co-educational, College Preparatory School for Boys and Girls in Kindergarten through Grade 12.",
+   "snippet_highlighted_words": [
+    "Hawaii",
+    "Punahou School"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "Tuition and Financial Aid",
+      "link": "https://www.punahou.edu/admissions/tuition-and-financial-aid",
+      "snippet": "A finance charge of 1% per month shall be charged on any unpaid ..."
+     },
+     {
+      "title": "About",
+      "link": "https://www.punahou.edu/about",
+      "snippet": "Since its founding in 1841, Punahou School has educated ..."
+     },
+     {
+      "title": "Careers",
+      "link": "https://www.punahou.edu/careers",
+      "snippet": "Punahou School has educated students to become the next ..."
+     },
+     {
+      "title": "Admissions",
+      "link": "https://www.punahou.edu/admissions",
+      "snippet": "Punahou School does not discriminate on the basis of race ..."
+     },
+     {
+      "title": "History of Punahou",
+      "link": "https://www.punahou.edu/archives/history-of-punahou",
+      "snippet": "A charter was granted by the Hawaiian government to the ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Located in Honolulu, Hawaii, Punahou School is a Private, Co-educational, College Preparatory School for Boys and Girls in Kindergarten through Grade 12.",
+     "source_info_link": "https://www.punahou.edu/",
+     "icon": "https://serpapi.com/searches/6aa31152d1a72b58f9f8ff8f/images/tKrUBrNheWflfgE6C70VbeN55IA2IeIY7RR3GtowyCwujotzEvoeIdDytC9iTyoy.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESUAHrOzAV9BPgsVWucgimJQZeWNfbW9-21GQ3VR3MZbwnw7jTDEFO0D6tcsBAaRRfEWVdu74nkI2O4uhyIoqXREUyBZfwua0BirzyIRDhIsC7&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESUAHrOzAV9BPgsVWucgimJQZeWNfbW9-21GQ3VR3MZbwnw7jTDEFO0D6tcsBAaRRfEWVdu74nkI2O4uhyIoqXREUyBZfwua0BirzyIRDhIsC7",
+   "source": "Punahou"
+  },
+  {
+   "position": 2,
+   "title": "Punahou School",
+   "link": "https://en.wikipedia.org/wiki/Punahou_School",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZAHrOzAVNOmHoNzsdaf16Z2f8aAP8bR0oHTQA2DxUqOwihJfvTDSDZ9-W-BIhg8e_guMGCkrhhI-eGTBWapdcy4ljroLQuVH5PhwqYr77wh6W4GeAkRQBvCL6oplLIf3A0nwnc0&ved=2ahUKEwi2yPrF6-SWAxXkzvACHcJWAI8QFnoECEYQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Punahou_School",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+   "snippet": "Punahou School (known as Oahu College until 1934) is a private, co-educational, college preparatory school in Honolulu, Hawaii. More than 3,700 students attend ...",
+   "snippet_highlighted_words": [
+    "Punahou School",
+    "Hawaii"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Punahou School (known as Oahu College until 1934) is a private, co-educational, college preparatory school in Honolulu, Hawaii. More than 3,700 students attend ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Punahou_School",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESZAHrOzAVNOmHoNzsdaf16Z2f8aAP8bR0oHTQA2DxUqOwihJfvTDSDZ9-W-BIhg8e_guMGCkrhhI-eGTBWapdcy4ljroLQuVH5PhwqYr77wh6W4GeAkRQBvCL6oplLIf3A0nwnc0&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESZAHrOzAVNOmHoNzsdaf16Z2f8aAP8bR0oHTQA2DxUqOwihJfvTDSDZ9-W-BIhg8e_guMGCkrhhI-eGTBWapdcy4ljroLQuVH5PhwqYr77wh6W4GeAkRQBvCL6oplLIf3A0nwnc0",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Punahou_School#:~:text=Punahou%20School%20(known%20as%20Oahu,from%20kindergarten%20through%2012th%20grade."
+  },
+  {
+   "position": 3,
+   "title": "Punahou School | Honolulu HI",
+   "link": "https://www.facebook.com/PunahouSchool/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXwHrOzAV5A9AjveLqhuKWiOyOEgjilVz7AxNC5H29-Fui6o57y5fb_XREj05tTz2laGdpBxd7D8kUFk8uZg8VXo9eGU1Dy4tJWnFzOI_NdI7bC7kAoU0m7FR2IX4h80x&ved=2ahUKEwi2yPrF6-SWAxXkzvACHcJWAI8QFnoECFkQAQ&uoh=1",
+   "displayed_link": "16.8K+ followers",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "snippet": "Punahou School nurtures the individuality of each child within a vibrant K \u2013 12 school community. Private School.",
+   "snippet_highlighted_words": [
+    "Punahou School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Punahou School nurtures the individuality of each child within a vibrant K \u2013 12 school community. Private School.",
+     "source_info_link": "https://www.facebook.com/PunahouSchool/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESXwHrOzAV5A9AjveLqhuKWiOyOEgjilVz7AxNC5H29-Fui6o57y5fb_XREj05tTz2laGdpBxd7D8kUFk8uZg8VXo9eGU1Dy4tJWnFzOI_NdI7bC7kAoU0m7FR2IX4h80x&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESXwHrOzAV5A9AjveLqhuKWiOyOEgjilVz7AxNC5H29-Fui6o57y5fb_XREj05tTz2laGdpBxd7D8kUFk8uZg8VXo9eGU1Dy4tJWnFzOI_NdI7bC7kAoU0m7FR2IX4h80x",
+   "source": "Facebook \u00b7 Punahou School",
+   "read_more_link": "https://www.facebook.com/PunahouSchool/#:~:text=Punahou%20School%20nurtures%20the%20individuality,%F3%B1%9E%B4%20Private%20School"
+  },
+  {
+   "position": 4,
+   "title": "Punahou School (@punahouschool) \u00b7 Honolulu, HI",
+   "link": "https://www.instagram.com/punahouschool/?hl=en",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVigdu0Am7OkbxGuriJsy7V5QyBvWwBgaDutkXccFeEh2TiLQkywLhmSM7j8CibhbIoRyrf6zxSv_1nZqWvTn_pDEmVnFSgx5glWL9IkQ9CB_yAdLqKE2ySERlQQYCCDGDYw&ved=2ahUKEwi2yPrF6-SWAxXkzvACHcJWAI8QFnoECF0QAQ&uoh=1",
+   "displayed_link": "21.1K+ followers",
+   "favicon": "https://serpapi.com/searches/6aa31152d1a72b58f9f8ff8f/images/tKrUBrNheWflfgE6C70VbXynL6Gkl-mxaSN5lDr33lg.png",
+   "snippet": "Founded in 2005, PUEO is a partnership between Punahou School and the Hawai\u02bbi State Department of Education that supports scholars with ...",
+   "snippet_highlighted_words": [
+    "Punahou School",
+    "Hawai\u02bbi"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Founded in 2005, PUEO is a partnership between Punahou School and the Hawai\u02bbi State Department of Education that supports scholars with ...",
+     "source_info_link": "https://www.instagram.com/punahouschool/?hl=en",
+     "icon": "https://serpapi.com/searches/6aa31152d1a72b58f9f8ff8f/images/tKrUBrNheWflfgE6C70VbZflOYnOFrz_DoSJSMm2W9HmkHI3wz_cNFtk9-wgalaA.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESZgHrOzAVigdu0Am7OkbxGuriJsy7V5QyBvWwBgaDutkXccFeEh2TiLQkywLhmSM7j8CibhbIoRyrf6zxSv_1nZqWvTn_pDEmVnFSgx5glWL9IkQ9CB_yAdLqKE2ySERlQQYCCDGDYw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESZgHrOzAVigdu0Am7OkbxGuriJsy7V5QyBvWwBgaDutkXccFeEh2TiLQkywLhmSM7j8CibhbIoRyrf6zxSv_1nZqWvTn_pDEmVnFSgx5glWL9IkQ9CB_yAdLqKE2ySERlQQYCCDGDYw",
+   "source": "Instagram \u00b7 punahouschool"
+  },
+  {
+   "position": 5,
+   "title": "Punahou School in Honolulu, Hawaii - U.S. News Education",
+   "link": "https://www.usnews.com/education/k12/hawaii/punahou-school-307061",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAVPS3URwHUZHcUzDb4oWSZLVp9VjPwckhUFbXGWX32V205EowUhF9EGs07WTKEuroEXIwGaB94zSXjFSJ46rAHW0B8i9BIJbvJVSSrGTB83L_BqMMSJ15QVKyV84iIM05VxhwPnYTlufCt1Jv9INz8p5IUR_M&ved=2ahUKEwi2yPrF6-SWAxXkzvACHcJWAI8QFnoECFsQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a Education \u203a K-12",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png",
+   "snippet": "Punahou School is a private school located in Honolulu, HI. The student population of Punahou School is 3,700 and the school serves grades K-12.",
+   "snippet_highlighted_words": [
+    "Punahou School",
+    "HI",
+    "Punahou School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Punahou School is a private school located in Honolulu, HI. The student population of Punahou School is 3,700 and the school serves grades K-12.",
+     "source_info_link": "https://www.usnews.com/education/k12/hawaii/punahou-school-307061",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESeQHrOzAVPS3URwHUZHcUzDb4oWSZLVp9VjPwckhUFbXGWX32V205EowUhF9EGs07WTKEuroEXIwGaB94zSXjFSJ46rAHW0B8i9BIJbvJVSSrGTB83L_BqMMSJ15QVKyV84iIM05VxhwPnYTlufCt1Jv9INz8p5IUR_M&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESeQHrOzAVPS3URwHUZHcUzDb4oWSZLVp9VjPwckhUFbXGWX32V205EowUhF9EGs07WTKEuroEXIwGaB94zSXjFSJ46rAHW0B8i9BIJbvJVSSrGTB83L_BqMMSJ15QVKyV84iIM05VxhwPnYTlufCt1Jv9INz8p5IUR_M",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/k12/hawaii/punahou-school-307061#:~:text=Punahou%20School%20is%20a%20private,the%20school%20serves%20grades%20K%2D12."
+  },
+  {
+   "position": 6,
+   "title": "Punahou Question : r/Hawaii",
+   "link": "https://www.reddit.com/r/Hawaii/comments/nvbreu/punahou_question/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAVivfdy9Jxn-MPWjLjy2aGRNcct3agaa-6w7FTSS3Z-izalD3LalmMDxvmdjQS3YNW4YxRB1ch2G522swgUa50iC5-E4i7FImb_Ds-IUGArmW5p2YXgSjfI6Or3GXMYOB-B76eq_B6jnzPdE6_54pPpAs5EbU&ved=2ahUKEwi2yPrF6-SWAxXkzvACHcJWAI8QFnoECF4QAQ&uoh=1",
+   "displayed_link": "120+ comments \u00b7 5 years ago",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+   "snippet": "I'm reading a fiction book about Hawaii and it talks about how the Punahou school was basically the school for missionary families and for the ...",
+   "snippet_highlighted_words": [
+    "Hawaii",
+    "Punahou school"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "I'm reading a fiction book about Hawaii and it talks about how the Punahou school was basically the school for missionary families and for the ...",
+     "source_info_link": "https://www.reddit.com/r/Hawaii/comments/nvbreu/punahou_question/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESeQHrOzAVivfdy9Jxn-MPWjLjy2aGRNcct3agaa-6w7FTSS3Z-izalD3LalmMDxvmdjQS3YNW4YxRB1ch2G522swgUa50iC5-E4i7FImb_Ds-IUGArmW5p2YXgSjfI6Or3GXMYOB-B76eq_B6jnzPdE6_54pPpAs5EbU&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESeQHrOzAVivfdy9Jxn-MPWjLjy2aGRNcct3agaa-6w7FTSS3Z-izalD3LalmMDxvmdjQS3YNW4YxRB1ch2G522swgUa50iC5-E4i7FImb_Ds-IUGArmW5p2YXgSjfI6Or3GXMYOB-B76eq_B6jnzPdE6_54pPpAs5EbU",
+   "source": "Reddit \u00b7 r/Hawaii",
+   "read_more_link": "https://www.reddit.com/r/Hawaii/comments/nvbreu/punahou_question/#:~:text=I'm%20reading%20a%20fiction%20book,for%20the%20rich%20in%20general."
+  },
+  {
+   "position": 7,
+   "title": "Punahou School in HI",
+   "link": "https://www.niche.com/k12/punahou-school-honolulu-hi/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbQHrOzAVeh0NU1-KzE2G0th39tcFkE5M8jM7tqyzroXOS69XEW5DwGYLEd8GgvaoxQvCCw7K9sCA1fIWU7FFEam2DT8_5LFeINpedzEDl3yC3m2HNu41QJ05oI0WqN_RduUKuzpOOe-9GJdZbRo&ved=2ahUKEwi2yPrF6-SWAxXkzvACHcJWAI8QFnoECFoQAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a Hawaii",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png",
+   "snippet": "At Punahou School, our 76-acre campus and state-of-the art learning, athletic and art facilities provide unmatched resources and venues that give our ...",
+   "snippet_highlighted_words": [
+    "Punahou School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "At Punahou School, our 76-acre campus and state-of-the art learning, athletic and art facilities provide unmatched resources and venues that give our ...",
+     "source_info_link": "https://www.niche.com/k12/punahou-school-honolulu-hi/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESbQHrOzAVeh0NU1-KzE2G0th39tcFkE5M8jM7tqyzroXOS69XEW5DwGYLEd8GgvaoxQvCCw7K9sCA1fIWU7FFEam2DT8_5LFeINpedzEDl3yC3m2HNu41QJ05oI0WqN_RduUKuzpOOe-9GJdZbRo&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESbQHrOzAVeh0NU1-KzE2G0th39tcFkE5M8jM7tqyzroXOS69XEW5DwGYLEd8GgvaoxQvCCw7K9sCA1fIWU7FFEam2DT8_5LFeINpedzEDl3yC3m2HNu41QJ05oI0WqN_RduUKuzpOOe-9GJdZbRo",
+   "source": "Niche"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Punahou school hawaii tuition",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuLOs3eOqx_RNc0DiaZi60GdEv0kw:1789071726657&q=Punahou+school+hawaii+tuition&sa=X&ved=2ahUKEwi2yPrF6-SWAxXkzvACHcJWAI8Q1QJ6BAhcEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Punahou+school+hawaii+tuition"
+  },
+  {
+   "block_position": 1,
+   "query": "Punahou school hawaii football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuLOs3eOqx_RNc0DiaZi60GdEv0kw:1789071726657&q=Punahou+school+hawaii+football&sa=X&ved=2ahUKEwi2yPrF6-SWAxXkzvACHcJWAI8Q1QJ6BAh1EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Punahou+school+hawaii+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Punahou school hawaii reviews",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuLOs3eOqx_RNc0DiaZi60GdEv0kw:1789071726657&q=Punahou+school+hawaii+reviews&sa=X&ved=2ahUKEwi2yPrF6-SWAxXkzvACHcJWAI8Q1QJ6BAhxEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Punahou+school+hawaii+reviews"
+  },
+  {
+   "block_position": 1,
+   "query": "Punahou school hawaii ranking",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuLOs3eOqx_RNc0DiaZi60GdEv0kw:1789071726657&q=Punahou+school+hawaii+ranking&sa=X&ved=2ahUKEwi2yPrF6-SWAxXkzvACHcJWAI8Q1QJ6BAhvEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Punahou+school+hawaii+ranking"
+  },
+  {
+   "block_position": 1,
+   "query": "Punahou school acceptance rate",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuLOs3eOqx_RNc0DiaZi60GdEv0kw:1789071726657&q=Punahou+school+acceptance+rate&sa=X&ved=2ahUKEwi2yPrF6-SWAxXkzvACHcJWAI8Q1QJ6BAhsEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Punahou+school+acceptance+rate"
+  },
+  {
+   "block_position": 1,
+   "query": "Punahou school hawaii alumni",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuLOs3eOqx_RNc0DiaZi60GdEv0kw:1789071726657&q=Punahou+school+hawaii+alumni&sa=X&ved=2ahUKEwi2yPrF6-SWAxXkzvACHcJWAI8Q1QJ6BAhmEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Punahou+school+hawaii+alumni"
+  },
+  {
+   "block_position": 1,
+   "query": "Punahou School photos",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuLOs3eOqx_RNc0DiaZi60GdEv0kw:1789071726657&q=Punahou+School+photos&sa=X&ved=2ahUKEwi2yPrF6-SWAxXkzvACHcJWAI8Q1QJ6BAhiEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Punahou+School+photos"
+  },
+  {
+   "block_position": 1,
+   "query": "Punahou school colors",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuLOs3eOqx_RNc0DiaZi60GdEv0kw:1789071726657&q=Punahou+school+colors&sa=X&ved=2ahUKEwi2yPrF6-SWAxXkzvACHcJWAI8Q1QJ6BAhgEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Punahou+school+colors"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Punahou+School%22+Hawaii&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuLOs3eOqx_RNc0DiaZi60GdEv0kw:1789071726657&ei=bhGjarbZJ-Sdw8cPwq2B-Ag&start=10&sa=N&sstk=AS6-VmK-RFSI4E5y0mDHeqm04ocWLYErIFzGRLfXm4KuzPHJT-pxPYeyn8H3pfwZekt7UUsvHYPxWhbixWZ0iYRoqUrfXatpbn4iMw&ved=2ahUKEwi2yPrF6-SWAxXkzvACHcJWAI8Q8NMDegQIVxAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Punahou+School%22+Hawaii&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuLOs3eOqx_RNc0DiaZi60GdEv0kw:1789071726657&ei=bhGjarbZJ-Sdw8cPwq2B-Ag&start=10&sa=N&sstk=AS6-VmK-RFSI4E5y0mDHeqm04ocWLYErIFzGRLfXm4KuzPHJT-pxPYeyn8H3pfwZekt7UUsvHYPxWhbixWZ0iYRoqUrfXatpbn4iMw&ved=2ahUKEwi2yPrF6-SWAxXkzvACHcJWAI8Q8tMDegQIVxAE",
+   "3": "https://www.google.com/search?q=%22Punahou+School%22+Hawaii&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuLOs3eOqx_RNc0DiaZi60GdEv0kw:1789071726657&ei=bhGjarbZJ-Sdw8cPwq2B-Ag&start=20&sa=N&sstk=AS6-VmK-RFSI4E5y0mDHeqm04ocWLYErIFzGRLfXm4KuzPHJT-pxPYeyn8H3pfwZekt7UUsvHYPxWhbixWZ0iYRoqUrfXatpbn4iMw&ved=2ahUKEwi2yPrF6-SWAxXkzvACHcJWAI8Q8tMDegQIVxAG",
+   "4": "https://www.google.com/search?q=%22Punahou+School%22+Hawaii&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuLOs3eOqx_RNc0DiaZi60GdEv0kw:1789071726657&ei=bhGjarbZJ-Sdw8cPwq2B-Ag&start=30&sa=N&sstk=AS6-VmK-RFSI4E5y0mDHeqm04ocWLYErIFzGRLfXm4KuzPHJT-pxPYeyn8H3pfwZekt7UUsvHYPxWhbixWZ0iYRoqUrfXatpbn4iMw&ved=2ahUKEwi2yPrF6-SWAxXkzvACHcJWAI8Q8tMDegQIVxAI",
+   "5": "https://www.google.com/search?q=%22Punahou+School%22+Hawaii&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuLOs3eOqx_RNc0DiaZi60GdEv0kw:1789071726657&ei=bhGjarbZJ-Sdw8cPwq2B-Ag&start=40&sa=N&sstk=AS6-VmK-RFSI4E5y0mDHeqm04ocWLYErIFzGRLfXm4KuzPHJT-pxPYeyn8H3pfwZekt7UUsvHYPxWhbixWZ0iYRoqUrfXatpbn4iMw&ved=2ahUKEwi2yPrF6-SWAxXkzvACHcJWAI8Q8tMDegQIVxAK",
+   "6": "https://www.google.com/search?q=%22Punahou+School%22+Hawaii&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuLOs3eOqx_RNc0DiaZi60GdEv0kw:1789071726657&ei=bhGjarbZJ-Sdw8cPwq2B-Ag&start=50&sa=N&sstk=AS6-VmK-RFSI4E5y0mDHeqm04ocWLYErIFzGRLfXm4KuzPHJT-pxPYeyn8H3pfwZekt7UUsvHYPxWhbixWZ0iYRoqUrfXatpbn4iMw&ved=2ahUKEwi2yPrF6-SWAxXkzvACHcJWAI8Q8tMDegQIVxAM",
+   "7": "https://www.google.com/search?q=%22Punahou+School%22+Hawaii&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuLOs3eOqx_RNc0DiaZi60GdEv0kw:1789071726657&ei=bhGjarbZJ-Sdw8cPwq2B-Ag&start=60&sa=N&sstk=AS6-VmK-RFSI4E5y0mDHeqm04ocWLYErIFzGRLfXm4KuzPHJT-pxPYeyn8H3pfwZekt7UUsvHYPxWhbixWZ0iYRoqUrfXatpbn4iMw&ved=2ahUKEwi2yPrF6-SWAxXkzvACHcJWAI8Q8tMDegQIVxAO",
+   "8": "https://www.google.com/search?q=%22Punahou+School%22+Hawaii&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuLOs3eOqx_RNc0DiaZi60GdEv0kw:1789071726657&ei=bhGjarbZJ-Sdw8cPwq2B-Ag&start=70&sa=N&sstk=AS6-VmK-RFSI4E5y0mDHeqm04ocWLYErIFzGRLfXm4KuzPHJT-pxPYeyn8H3pfwZekt7UUsvHYPxWhbixWZ0iYRoqUrfXatpbn4iMw&ved=2ahUKEwi2yPrF6-SWAxXkzvACHcJWAI8Q8tMDegQIVxAQ",
+   "9": "https://www.google.com/search?q=%22Punahou+School%22+Hawaii&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuLOs3eOqx_RNc0DiaZi60GdEv0kw:1789071726657&ei=bhGjarbZJ-Sdw8cPwq2B-Ag&start=80&sa=N&sstk=AS6-VmK-RFSI4E5y0mDHeqm04ocWLYErIFzGRLfXm4KuzPHJT-pxPYeyn8H3pfwZekt7UUsvHYPxWhbixWZ0iYRoqUrfXatpbn4iMw&ved=2ahUKEwi2yPrF6-SWAxXkzvACHcJWAI8Q8tMDegQIVxAS",
+   "10": "https://www.google.com/search?q=%22Punahou+School%22+Hawaii&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQnuLOs3eOqx_RNc0DiaZi60GdEv0kw:1789071726657&ei=bhGjarbZJ-Sdw8cPwq2B-Ag&start=90&sa=N&sstk=AS6-VmK-RFSI4E5y0mDHeqm04ocWLYErIFzGRLfXm4KuzPHJT-pxPYeyn8H3pfwZekt7UUsvHYPxWhbixWZ0iYRoqUrfXatpbn4iMw&ved=2ahUKEwi2yPrF6-SWAxXkzvACHcJWAI8Q8tMDegQIVxAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Punahou+School%22+Hawaii&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Punahou+School%22+Hawaii&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Punahou+School%22+Hawaii&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Punahou+School%22+Hawaii&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Punahou+School%22+Hawaii&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Punahou+School%22+Hawaii&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Punahou+School%22+Hawaii&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Punahou+School%22+Hawaii&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Punahou+School%22+Hawaii&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Punahou+School%22+Hawaii&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Punahou+School%22+Hawaii&start=90"
+  }
+ }
+}

@@ -1,0 +1,441 @@
+{
+ "search_information": {
+  "query_displayed": "\"A.I. DuPont High School\" Delaware",
+  "total_results": 15000,
+  "time_taken_displayed": 0.26,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Alexis I. du Pont High School",
+  "type": "High school in Greenville, Delaware",
+  "entity_type": "education, local_nav",
+  "place_id": "ChIJ41gkJTT8xokRERRbG-907EY",
+  "website": "https://www.redclayschools.com/aihs",
+  "founded": "1893",
+  "colors": "Royal blue, Gold",
+  "colors_links": [
+   {
+    "text": "Royal blue",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ye6clNZgt_uHrkS7PAhkqJzzunkmIY9DcxVRf36oxnRLDxJ82qluZM_k0DnnuJx0JMa8ucZR2_yaxiSR0wmyy6TrD5aLn2gE89oMdlQ7o8cnOouHktN7QOF5fM1cCXFoGPmk1Hv2dswujqtTwMxz3whQSFhhflZSpB7qaugDnQFoGdhaHMSMpVuCRfLck5Be9NmD-XA%3D&sa=X&ved=2ahUKEwiDwq2w4-SWAxW6iuEIHer5JecQmxN6BAg9EAI"
+   },
+   {
+    "text": "Gold",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yU7RztYK-Yab4edFiOhB1UYVMdltt-ZMsiXUtQINgv1cwM2xl8NysijgwiCF0BR56xlQxXkIKuCeCXbrQ5Ynz-OAHfqFoX1GUTYtn9WlqEI83GrqFPOx_N-Mv6GcwsVHUCtIFDw7KV_2MtnBQdKG3fuSDQ1xFJDPFv3YICf6DUuiLEIHrEblASzdgTE9HkVaz6Fh31g%3D&sa=X&ved=2ahUKEwiDwq2w4-SWAxW6iuEIHer5JecQmxN6BAg9EAM"
+   }
+  ],
+  "lowest_grade": "Ninth Grade",
+  "lowest_grade_links": [
+   {
+    "text": "Ninth Grade",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yfBd4DHd1lXSWNB4bGgo3oUJ-a20DdpJyxra-_-8AjAZ0yuws4sRZiOY8cqMEtu8Uf7bIRctSDH1QJGwXvTzfCtPy1V7-hMKYxaPCST25CzqOMdGUHtK7EutErbGxrdUR1WjA1g%3D&sa=X&ved=2ahUKEwiDwq2w4-SWAxW6iuEIHer5JecQmxN6BAhCEAI"
+   }
+  ],
+  "district": "Red Clay Consolidated School District",
+  "district_links": [
+   {
+    "text": "Red Clay Consolidated School District",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Red+Clay+Consolidated+School+District&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yeqoKOJotOD2C496Q3fj_cNO71Gi8Nl0UsKy4hElIkm4vAgq0p-jNAWWipvH5JCt5nR5T_gco8ChQLIxtEQKZy_Klkz-AKml5MXx-FhdE1zeKMe_oRpqecwSW-4-hFEfeJLkh48wslzggZcD5nh1EXhMjsHToL4LKXCqnS0ASKm9pncjXb2xksJ4sD22CyyrKdGZ4Ic%3D&sa=X&ved=2ahUKEwiDwq2w4-SWAxW6iuEIHer5JecQmxN6BAhDEAI"
+   }
+  ],
+  "highest_grade": "Twelfth Grade",
+  "highest_grade_links": [
+   {
+    "text": "Twelfth Grade",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yVsiIHpLdZdxzMbUtnw3srnm7zngWArCNcfKixsloTLAZ_Kqv-jvC92Z9DBEkVvC_Z9DfetHS1CwdDyPKzs6CskjAgzpHIEOQgWwvi8tx6alAW7ViNHUAPRL6paQ5T3ZOXTqKNE%3D&sa=X&ved=2ahUKEwiDwq2w4-SWAxW6iuEIHer5JecQmxN6BAhAEAI"
+   }
+  ],
+  "profiles": [
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/aiduponths/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22A.I.+DuPont+High+School%22+Delaware",
+    "image": "https://ssl.gstatic.com/kpui/social/fb_32x32.png"
+   },
+   {
+    "name": "X (Twitter)",
+    "link": "https://twitter.com/TigerPrideUp",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22A.I.+DuPont+High+School%22+Delaware",
+    "image": "https://ssl.gstatic.com/kpui/social/x_32x32.png"
+   },
+   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/aiduponths/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22A.I.+DuPont+High+School%22+Delaware",
+    "image": "https://ssl.gstatic.com/kpui/social/instagram_32x32.png"
+   },
+   {
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/school/alexis-i.-dupont-high-school/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22A.I.+DuPont+High+School%22+Delaware",
+    "image": "https://ssl.gstatic.com/kpui/social/linkedin_32x32.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "Who is AI duPont school named after?",
+   "type": "ai_overview",
+   "page_token": "81JR9XicHdDbboIwAIDh7GW8VMDhoolZVqFiJo0t9EBvFtaKKC2wyUS527vsqfY0O1z_yXfxf36ZY119313KrmvPi8mk7_vxoWkOZj9WjZ3k51utJio35jVX1WL2MHMfC7UMPzZg9bYBmLYtC4iTuK0gjtypaezpSiecs3NywlcCgUk9YxNPVhyij5TPGyaA2FvZJQz4MtVQWlKyFDt7IaEOGaNT4PAIXIkgEY-euoxe48zz3-kAsQ67VW7nVwnjARvgpw5a0yHrEk_fyNqcttS_KI-VuW2D5K8PUEgXwf1JRq9rEm1TUqAhvMdefC-phMTAXsL5jth5nHMUoICRrNZ1WKqBcvOWCYRl5ceKyUZbhFEtdzxiBIHmiCkZ1MlYFrDnhFd9KuQOi3JDAzJlR7dQns5-RarW7kr3o0JdltPR_8_lS2G7RfveHH4AqVeCnw",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=81JR9XicHdDbboIwAIDh7GW8VMDhoolZVqFiJo0t9EBvFtaKKC2wyUS527vsqfY0O1z_yXfxf36ZY119313KrmvPi8mk7_vxoWkOZj9WjZ3k51utJio35jVX1WL2MHMfC7UMPzZg9bYBmLYtC4iTuK0gjtypaezpSiecs3NywlcCgUk9YxNPVhyij5TPGyaA2FvZJQz4MtVQWlKyFDt7IaEOGaNT4PAIXIkgEY-euoxe48zz3-kAsQ67VW7nVwnjARvgpw5a0yHrEk_fyNqcttS_KI-VuW2D5K8PUEgXwf1JRq9rEm1TUqAhvMdefC-phMTAXsL5jth5nHMUoICRrNZ1WKqBcvOWCYRl5ceKyUZbhFEtdzxiBIHmiCkZ1MlYFrDnhFd9KuQOi3JDAzJlR7dQns5-RarW7kr3o0JdltPR_8_lS2G7RfveHH4AqVeCnw",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFlqZEljVzU2U2toSE9VZDJUR2RNUzNCRFdrUjNiV0Y2Y3pkM09GZzBNazVmYjNoRFFTMTFhM05vWVVoWU4zVnZURTQwVFZaT1RYQnJaVlJEVUZkQ1RESldSalZFUWtJeGFuQkdUSGx5UjBZelkwUnBVR3Q1WTNselVSSVhNMUZwYW1GelVHWk9USEZXYUhaalVEWjJUMWgxVVRRYUlrRkVjM0k1WmxSc09FOXdWSGRxYVhKTVp6VjRZV3h4Y1doSFkzcE9RazQ1TWxFIiwiZmN2IjoiMyIsImVpIjoiM1FpamFzUGZOTHFWaHZjUDZ2T1h1UTQiLCJxYyI6IkNoNWhhU0JrZFhCdmJuUWdhR2xuYUNCelkyaHZiMndnWkdWc1lYZGhjbVVRQUgyWjFSQV8iLCJxdWVzdGlvbiI6IldobyBpcyBBSSBkdVBvbnQgc2Nob29sIG5hbWVkIGFmdGVyPyIsImxrIjoiR2lOM2FHOGdhWE1nWVdrZ1pIVndiMjUwSUhOamFHOXZiQ0J1WVcxbFpDQmhablJsY2ciLCJicyI6ImMzM09NUXZDTUJDR1lWd3pPV2ZRZzlicWFuY0pvb01PZ3RBaGMyek9YcUEycFlubTc5dFdpd3JxZHNOekh5ODdzRmlTQmVOZ3ZRZDlQZHJLZzh2SjJoSXFkVUVONnV5eEVlbU1SLUhobEdsZF9kMnhqTTBsS2Q4NVR3alJFc2dVTkVoVHdSWkxGVlNESWwzd0pQeWwta25aaGswbFlZT2ZsYnRPWjcwV0tmQkpHTWdyOEcyUUZXd2x5ZVFFZFdOdXl1T3ZzRzRodDVVenVwM1RmZG9KblJkcHd1UHUtUFVfMUk1SGR3IiwiaWQiOiJmY18zUWlqYXNQZk5McVZodmNQNnZPWHVRNF81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFlqZEljVzU2U2toSE9VZDJUR2RNUzNCRFdrUjNiV0Y2Y3pkM09GZzBNazVmYjNoRFFTMTFhM05vWVVoWU4zVnZURTQwVFZaT1RYQnJaVlJEVUZkQ1RESldSalZFUWtJeGFuQkdUSGx5UjBZelkwUnBVR3Q1WTNselVSSVhNMUZwYW1GelVHWk9USEZXYUhaalVEWjJUMWgxVVRRYUlrRkVjM0k1WmxSc09FOXdWSGRxYVhKTVp6VjRZV3h4Y1doSFkzcE9RazQ1TWxFIiwiZmN2IjoiMyIsImVpIjoiM1FpamFzUGZOTHFWaHZjUDZ2T1h1UTQiLCJxYyI6IkNoNWhhU0JrZFhCdmJuUWdhR2xuYUNCelkyaHZiMndnWkdWc1lYZGhjbVVRQUgyWjFSQV8iLCJxdWVzdGlvbiI6IldobyBpcyBBSSBkdVBvbnQgc2Nob29sIG5hbWVkIGFmdGVyPyIsImxrIjoiR2lOM2FHOGdhWE1nWVdrZ1pIVndiMjUwSUhOamFHOXZiQ0J1WVcxbFpDQmhablJsY2ciLCJicyI6ImMzM09NUXZDTUJDR1lWd3pPV2ZRZzlicWFuY0pvb01PZ3RBaGMyek9YcUEycFlubTc5dFdpd3JxZHNOekh5ODdzRmlTQmVOZ3ZRZDlQZHJLZzh2SjJoSXFkVUVONnV5eEVlbU1SLUhobEdsZF9kMnhqTTBsS2Q4NVR3alJFc2dVTkVoVHdSWkxGVlNESWwzd0pQeWwta25aaGswbFlZT2ZsYnRPWjcwV0tmQkpHTWdyOEcyUUZXd2x5ZVFFZFdOdXl1T3ZzRzRodDVVenVwM1RmZG9KblJkcHd1UHUtUFVfMUk1SGR3IiwiaWQiOiJmY18zUWlqYXNQZk5McVZodmNQNnZPWHVRNF81In0%3D"
+  },
+  {
+   "question": "What is the #1 high school in Delaware?",
+   "type": "ai_overview",
+   "page_token": "sKWounicHdBZTuMwAABQcRk-aZLSQitVCNMkJSJOY7xg_yDHTmtqZyl1t_xxF041p5nRnOBJ7-fXfbX2z83JeN8f5qPR-Xy-23bd1tV3qmtG8nBt1UhJ5yqp7Hz6MA2fNmoRH1_By_4VlKTv6RIF7-w8QSndaZe1jPZWJhqVTdbx4HFSpCKsgkmqm8ulwPl9vkJO0H6v2QzUCUIFsVe8BFK14vhGDh4yL_OBeBXxEIVuJQIYSOu5YOaEB2p5Yy6V1ZgkdF0k_T9DHBHOBPnQlzomYxjPsI7stXYJzwcwzVNzgpEf8hbkMjKDwq7jxFseakIjUajxc1jF2fd7Y6ZV0idkKVBs1ECY2_MPWAo7yRUVnW5gCVuxZiuKIOi-SoIGtXMNXRrMds7UVgCRzgbRghSyWUZ2xskQkQpnnJS3G3VajG__fy4-N42f99_d9i-VuYVp",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=sKWounicHdBZTuMwAABQcRk-aZLSQitVCNMkJSJOY7xg_yDHTmtqZyl1t_xxF041p5nRnOBJ7-fXfbX2z83JeN8f5qPR-Xy-23bd1tV3qmtG8nBt1UhJ5yqp7Hz6MA2fNmoRH1_By_4VlKTv6RIF7-w8QSndaZe1jPZWJhqVTdbx4HFSpCKsgkmqm8ulwPl9vkJO0H6v2QzUCUIFsVe8BFK14vhGDh4yL_OBeBXxEIVuJQIYSOu5YOaEB2p5Yy6V1ZgkdF0k_T9DHBHOBPnQlzomYxjPsI7stXYJzwcwzVNzgpEf8hbkMjKDwq7jxFseakIjUajxc1jF2fd7Y6ZV0idkKVBs1ECY2_MPWAo7yRUVnW5gCVuxZiuKIOi-SoIGtXMNXRrMds7UVgCRzgbRghSyWUZ2xskQkQpnnJS3G3VajG__fy4-N42f99_d9i-VuYVp",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFlqZEljVzU2U2toSE9VZDJUR2RNUzNCRFdrUjNiV0Y2Y3pkM09GZzBNazVmYjNoRFFTMTFhM05vWVVoWU4zVnZURTQwVFZaT1RYQnJaVlJEVUZkQ1RESldSalZFUWtJeGFuQkdUSGx5UjBZelkwUnBVR3Q1WTNselVSSVhNMUZwYW1GelVHWk9USEZXYUhaalVEWjJUMWgxVVRRYUlrRkVjM0k1WmxSc09FOXdWSGRxYVhKTVp6VjRZV3h4Y1doSFkzcE9RazQ1TWxFIiwiZmN2IjoiMyIsImVpIjoiM1FpamFzUGZOTHFWaHZjUDZ2T1h1UTQiLCJxYyI6IkNoNWhhU0JrZFhCdmJuUWdhR2xuYUNCelkyaHZiMndnWkdWc1lYZGhjbVVRQUgyWjFSQV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlICMxIGhpZ2ggc2Nob29sIGluIERlbGF3YXJlPyIsImxrIjoiR2laM2FHRjBJR2x6SUhSb1pTQWpNU0JvYVdkb0lITmphRzl2YkNCcGJpQmtaV3hoZDJGeVpRIiwiYnMiOiJjMzNPTVF2Q01CQ0dZVnd6T1dmUWc5YnFhbmNKb29NT2d0QWhjMnpPWHFBMnBZbm03OXRXaXdycWRzTnpIeTg3c0ZpU0JlTmd2UWQ5UGRyS2c4dkoyaElxZFVFTjZ1eXhFZW1NUi1IaGxHbGRfZDJ4ak0wbEtkODVUd2pSRXNnVU5FaFR3UlpMRlZTRElsM3dKUHlsLWtuWmhrMGxZWU9mbGJ0T1o3MFdLZkJKR01ncjhHMlFGV3dseWVRRWRXTnV5dU92c0c0aHQ1VXp1cDNUZmRvSm5SZHB3dVB1LVBVXzFJNUhkdyIsImlkIjoiZmNfM1FpamFzUGZOTHFWaHZjUDZ2T1h1UTRfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFlqZEljVzU2U2toSE9VZDJUR2RNUzNCRFdrUjNiV0Y2Y3pkM09GZzBNazVmYjNoRFFTMTFhM05vWVVoWU4zVnZURTQwVFZaT1RYQnJaVlJEVUZkQ1RESldSalZFUWtJeGFuQkdUSGx5UjBZelkwUnBVR3Q1WTNselVSSVhNMUZwYW1GelVHWk9USEZXYUhaalVEWjJUMWgxVVRRYUlrRkVjM0k1WmxSc09FOXdWSGRxYVhKTVp6VjRZV3h4Y1doSFkzcE9RazQ1TWxFIiwiZmN2IjoiMyIsImVpIjoiM1FpamFzUGZOTHFWaHZjUDZ2T1h1UTQiLCJxYyI6IkNoNWhhU0JrZFhCdmJuUWdhR2xuYUNCelkyaHZiMndnWkdWc1lYZGhjbVVRQUgyWjFSQV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlICMxIGhpZ2ggc2Nob29sIGluIERlbGF3YXJlPyIsImxrIjoiR2laM2FHRjBJR2x6SUhSb1pTQWpNU0JvYVdkb0lITmphRzl2YkNCcGJpQmtaV3hoZDJGeVpRIiwiYnMiOiJjMzNPTVF2Q01CQ0dZVnd6T1dmUWc5YnFhbmNKb29NT2d0QWhjMnpPWHFBMnBZbm03OXRXaXdycWRzTnpIeTg3c0ZpU0JlTmd2UWQ5UGRyS2c4dkoyaElxZFVFTjZ1eXhFZW1NUi1IaGxHbGRfZDJ4ak0wbEtkODVUd2pSRXNnVU5FaFR3UlpMRlZTRElsM3dKUHlsLWtuWmhrMGxZWU9mbGJ0T1o3MFdLZkJKR01ncjhHMlFGV3dseWVRRWRXTnV5dU92c0c0aHQ1VXp1cDNUZmRvSm5SZHB3dVB1LVBVXzFJNUhkdyIsImlkIjoiZmNfM1FpamFzUGZOTHFWaHZjUDZ2T1h1UTRfNSJ9"
+  },
+  {
+   "question": "Where is AI duPont High School?",
+   "type": "ai_overview",
+   "page_token": "IzREZ3icHdBRcqIwGADg2cv4WEGqO-uMs1MkKqnG5tf8SF522ABSEkhUKurb3qWn6mk6s98Rvn-f5r3VXz-uVde5y3Q47Pv-6Wjt0RRPyjbD7HJv1VBlxvzNlJ5Ofk7836WakY84nJ_ikAvnMAJvT_xARrQGTa-AQIoVXatD1fKgmmSGtVtB98XCxanJBa9NDws6z_FXyTG-p8jHqVdBQoyFCJepQJd5fiXrBYgH7eQ-5CmyDzCyK1p64s3NJhpf09HtDKNuzQ17TfXlOTlUVAUvY2iNv1tgv12Z614bAp4573R8gwe5QwO2IDQUpLrnbXhbJ7jJAojg4EqWCF8Jt2XeOCCVeojEnNID41KPNwqlzRvGWSvfkhUCC-07F_BQtWmQQC1W-UWMcJlEUu-MjLNRhxvPMZj7zxih5XxQqussGPz_nP0pm27qzvb4DRXyhGw",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=IzREZ3icHdBRcqIwGADg2cv4WEGqO-uMs1MkKqnG5tf8SF522ABSEkhUKurb3qWn6mk6s98Rvn-f5r3VXz-uVde5y3Q47Pv-6Wjt0RRPyjbD7HJv1VBlxvzNlJ5Ofk7836WakY84nJ_ikAvnMAJvT_xARrQGTa-AQIoVXatD1fKgmmSGtVtB98XCxanJBa9NDws6z_FXyTG-p8jHqVdBQoyFCJepQJd5fiXrBYgH7eQ-5CmyDzCyK1p64s3NJhpf09HtDKNuzQ17TfXlOTlUVAUvY2iNv1tgv12Z614bAp4573R8gwe5QwO2IDQUpLrnbXhbJ7jJAojg4EqWCF8Jt2XeOCCVeojEnNID41KPNwqlzRvGWSvfkhUCC-07F_BQtWmQQC1W-UWMcJlEUu-MjLNRhxvPMZj7zxih5XxQqussGPz_nP0pm27qzvb4DRXyhGw",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFlqZEljVzU2U2toSE9VZDJUR2RNUzNCRFdrUjNiV0Y2Y3pkM09GZzBNazVmYjNoRFFTMTFhM05vWVVoWU4zVnZURTQwVFZaT1RYQnJaVlJEVUZkQ1RESldSalZFUWtJeGFuQkdUSGx5UjBZelkwUnBVR3Q1WTNselVSSVhNMUZwYW1GelVHWk9USEZXYUhaalVEWjJUMWgxVVRRYUlrRkVjM0k1WmxSc09FOXdWSGRxYVhKTVp6VjRZV3h4Y1doSFkzcE9RazQ1TWxFIiwiZmN2IjoiMyIsImVpIjoiM1FpamFzUGZOTHFWaHZjUDZ2T1h1UTQiLCJxYyI6IkNoNWhhU0JrZFhCdmJuUWdhR2xuYUNCelkyaHZiMndnWkdWc1lYZGhjbVVRQUgyWjFSQV8iLCJxdWVzdGlvbiI6IldoZXJlIGlzIEFJIGR1UG9udCBIaWdoIFNjaG9vbD8iLCJsayI6IkdoNTNhR1Z5WlNCcGN5QmhhU0JrZFhCdmJuUWdhR2xuYUNCelkyaHZiMnciLCJicyI6ImMzM09NUXZDTUJDR1lWd3pPV2ZRZzlicWFuY0pvb01PZ3RBaGMyek9YcUEycFlubTc5dFdpd3JxZHNOekh5ODdzRmlTQmVOZ3ZRZDlQZHJLZzh2SjJoSXFkVUVONnV5eEVlbU1SLUhobEdsZF9kMnhqTTBsS2Q4NVR3alJFc2dVTkVoVHdSWkxGVlNESWwzd0pQeWwta25aaGswbFlZT2ZsYnRPWjcwV0tmQkpHTWdyOEcyUUZXd2x5ZVFFZFdOdXl1T3ZzRzRodDVVenVwM1RmZG9KblJkcHd1UHUtUFVfMUk1SGR3IiwiaWQiOiJmY18zUWlqYXNQZk5McVZodmNQNnZPWHVRNF81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFlqZEljVzU2U2toSE9VZDJUR2RNUzNCRFdrUjNiV0Y2Y3pkM09GZzBNazVmYjNoRFFTMTFhM05vWVVoWU4zVnZURTQwVFZaT1RYQnJaVlJEVUZkQ1RESldSalZFUWtJeGFuQkdUSGx5UjBZelkwUnBVR3Q1WTNselVSSVhNMUZwYW1GelVHWk9USEZXYUhaalVEWjJUMWgxVVRRYUlrRkVjM0k1WmxSc09FOXdWSGRxYVhKTVp6VjRZV3h4Y1doSFkzcE9RazQ1TWxFIiwiZmN2IjoiMyIsImVpIjoiM1FpamFzUGZOTHFWaHZjUDZ2T1h1UTQiLCJxYyI6IkNoNWhhU0JrZFhCdmJuUWdhR2xuYUNCelkyaHZiMndnWkdWc1lYZGhjbVVRQUgyWjFSQV8iLCJxdWVzdGlvbiI6IldoZXJlIGlzIEFJIGR1UG9udCBIaWdoIFNjaG9vbD8iLCJsayI6IkdoNTNhR1Z5WlNCcGN5QmhhU0JrZFhCdmJuUWdhR2xuYUNCelkyaHZiMnciLCJicyI6ImMzM09NUXZDTUJDR1lWd3pPV2ZRZzlicWFuY0pvb01PZ3RBaGMyek9YcUEycFlubTc5dFdpd3JxZHNOekh5ODdzRmlTQmVOZ3ZRZDlQZHJLZzh2SjJoSXFkVUVONnV5eEVlbU1SLUhobEdsZF9kMnhqTTBsS2Q4NVR3alJFc2dVTkVoVHdSWkxGVlNESWwzd0pQeWwta25aaGswbFlZT2ZsYnRPWjcwV0tmQkpHTWdyOEcyUUZXd2x5ZVFFZFdOdXl1T3ZzRzRodDVVenVwM1RmZG9KblJkcHd1UHUtUFVfMUk1SGR3IiwiaWQiOiJmY18zUWlqYXNQZk5McVZodmNQNnZPWHVRNF81In0%3D"
+  },
+  {
+   "question": "Which private high school in Delaware is considered the best?",
+   "type": "ai_overview",
+   "page_token": "UaxCaXicHdHBbpswHIBx7WV6bHBYmRopqkQISaPiBGP_AV8msCEutsFrWEi47V123gPtaVbtAb7DT9-v3-a913-__FHj6C6rxWKapsfzMJxN8ygGu6gu914sRGVMXQm9Cr4F6KUV6-0wbTaXKUyZcxARj8Zy2RTwdNyNh6ZwnjCqBBoOib4hzsA0-XOHO5nxSH0FxoNajyfqAau14lUUYklD1FgSYkZucucweGNew-EVIoVoDjlBz29N7wi15KOh8DOlZCd7l_KlfM28eHpj2LLCzJwq3eydqxjZJsa1pc_vn31bWrWpAF8qO460d3vIESWeu1YeZ8QSzkw5wvbgkpz4HCV3qQ1OdjAfYw6ZX94kuFR2pJOznJuIz7BEpgYTS6tOBQqvErRPfX3bKjGz3PwoC5xy_ZQI4IO0OMU9P-V7IDgc3lNGZtEZywwExHBUfNqyHC41DQO5x8cM4lJGcQVa9Xx6aMV17T_8_7D-3tpx5T6G8z_cL5nL",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=UaxCaXicHdHBbpswHIBx7WV6bHBYmRopqkQISaPiBGP_AV8msCEutsFrWEi47V123gPtaVbtAb7DT9-v3-a913-__FHj6C6rxWKapsfzMJxN8ygGu6gu914sRGVMXQm9Cr4F6KUV6-0wbTaXKUyZcxARj8Zy2RTwdNyNh6ZwnjCqBBoOib4hzsA0-XOHO5nxSH0FxoNajyfqAau14lUUYklD1FgSYkZucucweGNew-EVIoVoDjlBz29N7wi15KOh8DOlZCd7l_KlfM28eHpj2LLCzJwq3eydqxjZJsa1pc_vn31bWrWpAF8qO460d3vIESWeu1YeZ8QSzkw5wvbgkpz4HCV3qQ1OdjAfYw6ZX94kuFR2pJOznJuIz7BEpgYTS6tOBQqvErRPfX3bKjGz3PwoC5xy_ZQI4IO0OMU9P-V7IDgc3lNGZtEZywwExHBUfNqyHC41DQO5x8cM4lJGcQVa9Xx6aMV17T_8_7D-3tpx5T6G8z_cL5nL",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFlqZEljVzU2U2toSE9VZDJUR2RNUzNCRFdrUjNiV0Y2Y3pkM09GZzBNazVmYjNoRFFTMTFhM05vWVVoWU4zVnZURTQwVFZaT1RYQnJaVlJEVUZkQ1RESldSalZFUWtJeGFuQkdUSGx5UjBZelkwUnBVR3Q1WTNselVSSVhNMUZwYW1GelVHWk9USEZXYUhaalVEWjJUMWgxVVRRYUlrRkVjM0k1WmxSc09FOXdWSGRxYVhKTVp6VjRZV3h4Y1doSFkzcE9RazQ1TWxFIiwiZmN2IjoiMyIsImVpIjoiM1FpamFzUGZOTHFWaHZjUDZ2T1h1UTQiLCJxYyI6IkNoNWhhU0JrZFhCdmJuUWdhR2xuYUNCelkyaHZiMndnWkdWc1lYZGhjbVVRQUgyWjFSQV8iLCJxdWVzdGlvbiI6IldoaWNoIHByaXZhdGUgaGlnaCBzY2hvb2wgaW4gRGVsYXdhcmUgaXMgY29uc2lkZXJlZCB0aGUgYmVzdD8iLCJsayI6IkdpUmlaWE4wSUhCeWFYWmhkR1VnYUdsbmFDQnpZMmh2YjJ3Z2FXNGdaR1ZzWVhkaGNtVSIsImJzIjoiYzMzT01RdkNNQkNHWVZ3ek9XZlFnOWJxYW5jSm9vTU9ndEFoYzJ6T1hxQTJwWW5tNzl0V2l3cnFkc056SHk4N3NGaVNCZU5ndlFkOVBkcktnOHZKMmhJcWRVRU42dXl4RWVtTVItSGhsR2xkX2QyeGpNMGxLZDg1VHdqUkVzZ1VORWhUd1JaTEZWU0RJbDN3SlB5bC1rblpoazBsWVlPZmxidE9aNzBXS2ZCSkdNZ3I4RzJRRld3bHllUUVkV051eXVPdnNHNGh0NVV6dXAzVGZkb0puUmRwd3VQdS1QVV8xSTVIZHciLCJpZCI6ImZjXzNRaWphc1BmTkxxVmh2Y1A2dk9YdVE0XzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFlqZEljVzU2U2toSE9VZDJUR2RNUzNCRFdrUjNiV0Y2Y3pkM09GZzBNazVmYjNoRFFTMTFhM05vWVVoWU4zVnZURTQwVFZaT1RYQnJaVlJEVUZkQ1RESldSalZFUWtJeGFuQkdUSGx5UjBZelkwUnBVR3Q1WTNselVSSVhNMUZwYW1GelVHWk9USEZXYUhaalVEWjJUMWgxVVRRYUlrRkVjM0k1WmxSc09FOXdWSGRxYVhKTVp6VjRZV3h4Y1doSFkzcE9RazQ1TWxFIiwiZmN2IjoiMyIsImVpIjoiM1FpamFzUGZOTHFWaHZjUDZ2T1h1UTQiLCJxYyI6IkNoNWhhU0JrZFhCdmJuUWdhR2xuYUNCelkyaHZiMndnWkdWc1lYZGhjbVVRQUgyWjFSQV8iLCJxdWVzdGlvbiI6IldoaWNoIHByaXZhdGUgaGlnaCBzY2hvb2wgaW4gRGVsYXdhcmUgaXMgY29uc2lkZXJlZCB0aGUgYmVzdD8iLCJsayI6IkdpUmlaWE4wSUhCeWFYWmhkR1VnYUdsbmFDQnpZMmh2YjJ3Z2FXNGdaR1ZzWVhkaGNtVSIsImJzIjoiYzMzT01RdkNNQkNHWVZ3ek9XZlFnOWJxYW5jSm9vTU9ndEFoYzJ6T1hxQTJwWW5tNzl0V2l3cnFkc056SHk4N3NGaVNCZU5ndlFkOVBkcktnOHZKMmhJcWRVRU42dXl4RWVtTVItSGhsR2xkX2QyeGpNMGxLZDg1VHdqUkVzZ1VORWhUd1JaTEZWU0RJbDN3SlB5bC1rblpoazBsWVlPZmxidE9aNzBXS2ZCSkdNZ3I4RzJRRld3bHllUUVkV051eXVPdnNHNGh0NVV6dXAzVGZkb0puUmRwd3VQdS1QVV8xSTVIZHciLCJpZCI6ImZjXzNRaWphc1BmTkxxVmh2Y1A2dk9YdVE0XzUifQ%3D%3D"
+  }
+ ],
+ "ai_overview": {
+  "page_token": "SIYCt3iczVVbcuI4FF3ArKP9k8QPIIBT5eqShAPmFRQCNPmhjCxkg42DDTjOX69gNjGrmtWMbENiXsl0f0zNrbIlWfdxfHWP7s-_XGe5-PuPP-31-iW8k6QoikTm-8ylIvE9yQzjJZFmvhsGxP5uuxpdCqG_CQh1LI3Yge9RgbnaJhTirVYUSKjJAnW0InbmZtibddurob0lvfL24ccGl4TUnTaZmiGd82iv81CaSPy1-Fas8YUYinQpPj4HjAT4aXbTEQuyoooPkulxBfCfCQIYMP5GOF1clPq_c8cY0AFo5vxnPvWcSrLAQGcwW0N83hU2uGoyAowyZLXo7WY85RMz06glm-cF5TcgS_UgTP2BPgSXDc9KhhSxne9PdfWzX1HeQSKdL004xvEhCgOgXrRL8SkSA-jGAWKcBWEwAvNoxnRdh5_g5gkZRPC2lVh8osalhY2naAehUxvxwJLFeNHK0jTggyI5xCbpJAiTWkZPquw3HraQME_tVuliNR0p97eDkWM-r29MCiQy5Xqub1rUmtgT-Xu6VgrKrawWK9XrlEQkfGdRmGfRi1dClckzUtZVsS1CZU8hlGTkNEs823yNDHAqcFdmZw94DPaHob8nmEcwUC5dg91oA-jjpG5zvoGPSZqw_Rea1i_5OJIPSEmEUwodQ0solBrBLDTMw9urMAbPmHIhJ394UoU8bpTN2DH78VEl6Rgt8iGig10Osm_rSaISBgyJngE4rkZ9b473eFlyiPu8vzvHO7g5CjksyToPy_pcsYlZK1GH72cAdz8Hm8fEd47_OpV77g-OjV-7JXZifHFBZDp7rhyVfp4y9fjGetnew4r3uuzBaqfr37qvs-68ft-KzlPE96a_0GnI_4lEzr4PDXa2F0hEk8nXJGL8urvYh7LpRx_KSATxBRIZGYnO9CGaaeT60DGJUD9Hoi_60K-SCH1KouwyOkuixME5Ei0ukGjXh3Ik6h_2oQMSvfehDxL9Th9Cv9WHUk7RbDhsSps5u9icdFCszuL4h_I2MXDdfJM9xyrJrw4qM_Zlc5p56zvPtNzriWPdwUJzHVvXE_7Bv6OWsNK-FQpANMSr2qbnL9dXDYfZV31i-77Ld65q1DUjM6CC5wa-JptlGLMbK9TrRRZvYrRVK0rUqq3GzHogb4sG7o1smTQC5blfnG5HRgmxF0RnDVp5nAdzud4uPyzNTpWuMEFwABqtNiNGJe4OeovOI-gFfRzV193Xx2FV7_jthhqvisitV9Sn_jAoDdWhbMwr8iQe2mW3fWs0lyzFFWrBPC6pWzMcqgPBC4jGD6e0BE0MRozXIBpzavDaRj5_Iv6UAdahEBJzQsOtJhenM8oTRsjUUksFRfDYOn7RSooQLgNN-QczNkeb",
+  "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=SIYCt3iczVVbcuI4FF3ArKP9k8QPIIBT5eqShAPmFRQCNPmhjCxkg42DDTjOX69gNjGrmtWMbENiXsl0f0zNrbIlWfdxfHWP7s-_XGe5-PuPP-31-iW8k6QoikTm-8ylIvE9yQzjJZFmvhsGxP5uuxpdCqG_CQh1LI3Yge9RgbnaJhTirVYUSKjJAnW0InbmZtibddurob0lvfL24ccGl4TUnTaZmiGd82iv81CaSPy1-Fas8YUYinQpPj4HjAT4aXbTEQuyoooPkulxBfCfCQIYMP5GOF1clPq_c8cY0AFo5vxnPvWcSrLAQGcwW0N83hU2uGoyAowyZLXo7WY85RMz06glm-cF5TcgS_UgTP2BPgSXDc9KhhSxne9PdfWzX1HeQSKdL004xvEhCgOgXrRL8SkSA-jGAWKcBWEwAvNoxnRdh5_g5gkZRPC2lVh8osalhY2naAehUxvxwJLFeNHK0jTggyI5xCbpJAiTWkZPquw3HraQME_tVuliNR0p97eDkWM-r29MCiQy5Xqub1rUmtgT-Xu6VgrKrawWK9XrlEQkfGdRmGfRi1dClckzUtZVsS1CZU8hlGTkNEs823yNDHAqcFdmZw94DPaHob8nmEcwUC5dg91oA-jjpG5zvoGPSZqw_Rea1i_5OJIPSEmEUwodQ0solBrBLDTMw9urMAbPmHIhJ394UoU8bpTN2DH78VEl6Rgt8iGig10Osm_rSaISBgyJngE4rkZ9b473eFlyiPu8vzvHO7g5CjksyToPy_pcsYlZK1GH72cAdz8Hm8fEd47_OpV77g-OjV-7JXZifHFBZDp7rhyVfp4y9fjGetnew4r3uuzBaqfr37qvs-68ft-KzlPE96a_0GnI_4lEzr4PDXa2F0hEk8nXJGL8urvYh7LpRx_KSATxBRIZGYnO9CGaaeT60DGJUD9Hoi_60K-SCH1KouwyOkuixME5Ei0ukGjXh3Ik6h_2oQMSvfehDxL9Th9Cv9WHUk7RbDhsSps5u9icdFCszuL4h_I2MXDdfJM9xyrJrw4qM_Zlc5p56zvPtNzriWPdwUJzHVvXE_7Bv6OWsNK-FQpANMSr2qbnL9dXDYfZV31i-77Ld65q1DUjM6CC5wa-JptlGLMbK9TrRRZvYrRVK0rUqq3GzHogb4sG7o1smTQC5blfnG5HRgmxF0RnDVp5nAdzud4uPyzNTpWuMEFwABqtNiNGJe4OeovOI-gFfRzV193Xx2FV7_jthhqvisitV9Sn_jAoDdWhbMwr8iQe2mW3fWs0lyzFFWrBPC6pWzMcqgPBC4jGD6e0BE0MRozXIBpzavDaRj5_Iv6UAdahEBJzQsOtJhenM8oTRsjUUksFRfDYOn7RSooQLgNN-QczNkeb"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Alexis I. du Pont High School: Home",
+   "link": "https://aihs.redclayschools.com/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWAHrOzAVgOZs5DgNvPE6K0AHqWuMOyNkwr5sAZsaezjZjGWWp5HSziG4mjhVuso9aP6M2DvTLnHs4kNuCpcdqgExm9wROOH6ABYERrvs_lFZSodJ2gP6jB4&ved=2ahUKEwiDwq2w4-SWAxW6iuEIHer5JecQFnoECCQQAQ&uoh=1",
+   "displayed_link": "https://aihs.redclayschools.com",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAV1BMVEVHcEzCICvCICvCICvCICvCICvCICvCICvCICvCICvCICvCICvCICv____CHinBGCS9AAnMV1vdkZX56urADh3PZGjw0dLIR0zEMjnhqavnuLrUen389_cH6g2yAAAADHRSTlMAyD1V2Sexh51nEuxT0SQJAAABGklEQVQ4jX2T7bqEEBSFKRWTrySm5tz_dR4Utppn1q-03sde9gYhoIFNlE5sQF81UF40dg_7NfJG-LZNz--SDPrTww8E_e3HJN_21xospisf9PcdEmdSkN8eQjgly5qk84Nc0hnjeAV47AfoD9dHAGANHACwtHLdj9Vb8KupoP2fiNrAHj1i1f-IS6YSU2mS1LsoOnQOinNGqZwAWvNRSAbUZiBgNpWBq4S0CwQWW0rkkKoFVAnZNcAa1AB9adQJLFrrBniVWZ3AFiYFgTit7heQ7h2BgFUSADOq8z6Bj_ceAB24kglYTZDLQL22KacKB7DvoPghc8JLODUT6Oa31-rSiBp1883vH6-TkerO7GGnB8IoJgTT5v3_A69AKBtl-29zAAAAAElFTkSuQmCC.png",
+   "snippet": "AI duPont High School has an Esports team! JOIN THE TEAM! AIHS Tigers ... Delaware Watershed Conservation Fund.",
+   "snippet_highlighted_words": [
+    "AI duPont High School",
+    "Delaware"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "Calendars",
+      "link": "https://aihs.redclayschools.com/students-families/calendars",
+      "snippet": "AI duPont High School Sports Cheerleading - Fall V - Newark ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "AI duPont High School has an Esports team! JOIN THE TEAM! AIHS Tigers ... Delaware Watershed Conservation Fund.",
+     "source_info_link": "https://aihs.redclayschools.com/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAV1BMVEVHcEzCICvCICvCICvCICvCICvCICvCICvCICvCICvCICvCICvCICv____CHinBGCS9AAnMV1vdkZX56urADh3PZGjw0dLIR0zEMjnhqavnuLrUen389_cH6g2yAAAADHRSTlMAyD1V2Sexh51nEuxT0SQJAAABGklEQVQ4jX2T7bqEEBSFKRWTrySm5tz_dR4Utppn1q-03sde9gYhoIFNlE5sQF81UF40dg_7NfJG-LZNz--SDPrTww8E_e3HJN_21xospisf9PcdEmdSkN8eQjgly5qk84Nc0hnjeAV47AfoD9dHAGANHACwtHLdj9Vb8KupoP2fiNrAHj1i1f-IS6YSU2mS1LsoOnQOinNGqZwAWvNRSAbUZiBgNpWBq4S0CwQWW0rkkKoFVAnZNcAa1AB9adQJLFrrBniVWZ3AFiYFgTit7heQ7h2BgFUSADOq8z6Bj_ceAB24kglYTZDLQL22KacKB7DvoPghc8JLODUT6Oa31-rSiBp1883vH6-TkerO7GGnB8IoJgTT5v3_A69AKBtl-29zAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESWAHrOzAVgOZs5DgNvPE6K0AHqWuMOyNkwr5sAZsaezjZjGWWp5HSziG4mjhVuso9aP6M2DvTLnHs4kNuCpcdqgExm9wROOH6ABYERrvs_lFZSodJ2gP6jB4&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESWAHrOzAVgOZs5DgNvPE6K0AHqWuMOyNkwr5sAZsaezjZjGWWp5HSziG4mjhVuso9aP6M2DvTLnHs4kNuCpcdqgExm9wROOH6ABYERrvs_lFZSodJ2gP6jB4",
+   "source": "Alexis I. du Pont High School"
+  },
+  {
+   "position": 2,
+   "title": "Alexis I. duPont High School",
+   "link": "https://en.wikipedia.org/wiki/Alexis_I._duPont_High_School",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScgHrOzAVlT9wwQvRMyjqDeiHLHd0L-xyuyYjNxgq501rdA2cnw554mjn7s78y1dcCHs3hNB1zpotRoDhH2NLl5UUfvWl1ykSnhUeuw-2x8OyqLGwxP0rKRQvGQVjblFFyAILKi55DIYcPecch4_Th_3Jvw&ved=2ahUKEwiDwq2w4-SWAxW6iuEIHer5JecQFnoECEgQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Alexis_I._duPont_Hig...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+   "snippet": "duPont High School (A.I.) is a public high school located in Greenville, Delaware ... A. I. duPont High School. Retrieved February 14, 2021. 50 Hillside Road ...",
+   "snippet_highlighted_words": [
+    "Delaware",
+    "A. I. duPont High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "duPont High School (A.I.) is a public high school located in Greenville, Delaware ... A. I. duPont High School. Retrieved February 14, 2021. 50 Hillside Road ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Alexis_I._duPont_High_School",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEScgHrOzAVlT9wwQvRMyjqDeiHLHd0L-xyuyYjNxgq501rdA2cnw554mjn7s78y1dcCHs3hNB1zpotRoDhH2NLl5UUfvWl1ykSnhUeuw-2x8OyqLGwxP0rKRQvGQVjblFFyAILKi55DIYcPecch4_Th_3Jvw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEScgHrOzAVlT9wwQvRMyjqDeiHLHd0L-xyuyYjNxgq501rdA2cnw554mjn7s78y1dcCHs3hNB1zpotRoDhH2NLl5UUfvWl1ykSnhUeuw-2x8OyqLGwxP0rKRQvGQVjblFFyAILKi55DIYcPecch4_Th_3Jvw",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Alexis_I._duPont_High_School#:~:text=duPont%20High%20School%20(A.I.%20%5B2%5D),school%20located%20in%20Greenville%2C%20Delaware&text=A.%20I.%20duPont%20High%20School.%20Retrieved,Hillside%20Road%2C%20Wilmington%2C%20DE%2019807"
+  },
+  {
+   "position": 3,
+   "title": "Alexis I. DuPont High School | Greenville DE",
+   "link": "https://www.facebook.com/aiduponths/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXAHrOzAVqH4KWo5SLDA0pYfWQk_tGu3__Ej5hAIiGbfoMPAoRhxdm1ZayfoUbl4fl1qMTr0HeVFdNmfZgLiFILhetETF8rxzwMWBoAtFCawwQz4CuGgFixXAgHc7&ved=2ahUKEwiDwq2w4-SWAxW6iuEIHer5JecQFnoECE8QAQ&uoh=1",
+   "displayed_link": "960+ followers",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "snippet": "Summer is almost over, and the countdown to welcoming our staff and students back to A.I. duPont High School has officially begun! A HUGE thank ...",
+   "snippet_highlighted_words": [
+    "A.I. duPont High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Summer is almost over, and the countdown to welcoming our staff and students back to A.I. duPont High School has officially begun! A HUGE thank ...",
+     "source_info_link": "https://www.facebook.com/aiduponths/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESXAHrOzAVqH4KWo5SLDA0pYfWQk_tGu3__Ej5hAIiGbfoMPAoRhxdm1ZayfoUbl4fl1qMTr0HeVFdNmfZgLiFILhetETF8rxzwMWBoAtFCawwQz4CuGgFixXAgHc7&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESXAHrOzAVqH4KWo5SLDA0pYfWQk_tGu3__Ej5hAIiGbfoMPAoRhxdm1ZayfoUbl4fl1qMTr0HeVFdNmfZgLiFILhetETF8rxzwMWBoAtFCawwQz4CuGgFixXAgHc7",
+   "source": "Facebook \u00b7 Alexis I. DuPont High School",
+   "read_more_link": "https://www.facebook.com/aiduponths/#:~:text=%F0%9F%92%9B%F0%9F%92%99%20Summer%20is%20almost%20over%2C,begun!%20%F0%9F%90%BE%F0%9F%93%9A%20A%20HUGE%20thank"
+  },
+  {
+   "position": 4,
+   "title": "Alexis I. du Pont High School in Greenville, DE",
+   "link": "https://www.niche.com/k12/alexis-i-du-pont-high-school-wilmington-de/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAVESwdpe_PmIz7Wj-FYY2b_uHXTBOXpPnJLd2GNLyVmTvXOdXrHwEVF3js1B8d2IRBz0L5i2Vt_FoI2bYWGctc-qbzZvTGy_Ui04363cpo0PxGrp6Dff5E4uujk6JAT3G8YRGRaiVCZXAXWpQ_ig1gI_r0IDm6kJXd&ved=2ahUKEwiDwq2w4-SWAxW6iuEIHer5JecQFnoECEoQAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a Delaware",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png",
+   "snippet": "I am at AI DuPont High School currently for my first year as a sophomore. And if I am being honest this school has been the worst experience in my life so ...",
+   "snippet_highlighted_words": [
+    "AI DuPont High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "I am at AI DuPont High School currently for my first year as a sophomore. And if I am being honest this school has been the worst experience in my life so ...",
+     "source_info_link": "https://www.niche.com/k12/alexis-i-du-pont-high-school-wilmington-de/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESfQHrOzAVESwdpe_PmIz7Wj-FYY2b_uHXTBOXpPnJLd2GNLyVmTvXOdXrHwEVF3js1B8d2IRBz0L5i2Vt_FoI2bYWGctc-qbzZvTGy_Ui04363cpo0PxGrp6Dff5E4uujk6JAT3G8YRGRaiVCZXAXWpQ_ig1gI_r0IDm6kJXd&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESfQHrOzAVESwdpe_PmIz7Wj-FYY2b_uHXTBOXpPnJLd2GNLyVmTvXOdXrHwEVF3js1B8d2IRBz0L5i2Vt_FoI2bYWGctc-qbzZvTGy_Ui04363cpo0PxGrp6Dff5E4uujk6JAT3G8YRGRaiVCZXAXWpQ_ig1gI_r0IDm6kJXd",
+   "source": "Niche",
+   "read_more_link": "https://www.niche.com/k12/alexis-i-du-pont-high-school-wilmington-de/#:~:text=I%20am%20at%20AI%20DuPont,in%20my%20life%20so%20far."
+  },
+  {
+   "position": 5,
+   "title": "Alexis I duPont High school (@aiduponths) \u00b7 Greenville, DE",
+   "link": "https://www.instagram.com/aiduponths/?hl=en",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVsPJW4J_HYKMPQGRIMWK7WLMI0W-RfvNBKOwLWg_E7wC9GLg5OP5u3_EX89rB_IsnztUelj9GRh23a19jA6rYDWjVGh-N0X_Yes6MMJIawk4pthvljK0e7BHnpJsFmQ&ved=2ahUKEwiDwq2w4-SWAxW6iuEIHer5JecQFnoECFAQAQ&uoh=1",
+   "displayed_link": "1.6K+ followers",
+   "favicon": "https://serpapi.com/searches/6aa308d997c19fca0e37b64c/images/QB_iWiuh9ce0fMyGGyk_AVcQedImLwTr3oqV-o8cymg.png",
+   "snippet": "... A.I. duPont High School has officially begun! A HUGE thank you to our wonderful custodial staff, who have been working hard all summer to get our ...",
+   "snippet_highlighted_words": [
+    "A.I. duPont High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "... A.I. duPont High School has officially begun! A HUGE thank you to our wonderful custodial staff, who have been working hard all summer to get our ...",
+     "source_info_link": "https://www.instagram.com/aiduponths/?hl=en",
+     "icon": "https://serpapi.com/searches/6aa308d997c19fca0e37b64c/images/QB_iWiuh9ce0fMyGGyk_ARljT4KDTEJgKaLmxK1hAifrm3c_inqH5xJJaDEidlaq.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYwHrOzAVsPJW4J_HYKMPQGRIMWK7WLMI0W-RfvNBKOwLWg_E7wC9GLg5OP5u3_EX89rB_IsnztUelj9GRh23a19jA6rYDWjVGh-N0X_Yes6MMJIawk4pthvljK0e7BHnpJsFmQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYwHrOzAVsPJW4J_HYKMPQGRIMWK7WLMI0W-RfvNBKOwLWg_E7wC9GLg5OP5u3_EX89rB_IsnztUelj9GRh23a19jA6rYDWjVGh-N0X_Yes6MMJIawk4pthvljK0e7BHnpJsFmQ",
+   "source": "Instagram \u00b7 aiduponths"
+  },
+  {
+   "position": 6,
+   "title": "Once a powerhouse, A.I. duPont is now Delaware's ...",
+   "link": "https://www.reddit.com/r/Delaware/comments/181ixp0/once_a_powerhouse_ai_dupont_is_now_delawares/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmAEB6zswFUvhsJm2QjM2zcMWhYvFqjCYFOtZvtS9g_t8GgmEgDzxVHgcPGXEwrVRdRPiHUtZMxhrD0BoNeQ9y2Qq-lPAt9J2Xl9eyHlrnCojFZTrP74JRyBkCgz37ZrrstIaokNe4PUA_QybEKl0f7oN92oGQQawMF72TxFdhCKp_1scWyAEdWz0_opJyU5uhbLydv0z48lE8A&ved=2ahUKEwiDwq2w4-SWAxW6iuEIHer5JecQFnoECE0QAQ&uoh=1",
+   "displayed_link": "40+ comments \u00b7 2 years ago",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+   "snippet": "AI Dupont High School - Tell me your thoughts \u00b7 r/Delaware. \u2022 22d ago. AI Dupont High School - Tell me your thoughts. 7 upvotes \u00b7 19 comments ...",
+   "snippet_highlighted_words": [
+    "AI Dupont High School",
+    "Delaware",
+    "AI Dupont High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "AI Dupont High School - Tell me your thoughts \u00b7 r/Delaware. \u2022 22d ago. AI Dupont High School - Tell me your thoughts. 7 upvotes \u00b7 19 comments ...",
+     "source_info_link": "https://www.reddit.com/r/Delaware/comments/181ixp0/once_a_powerhouse_ai_dupont_is_now_delawares/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESmAEB6zswFUvhsJm2QjM2zcMWhYvFqjCYFOtZvtS9g_t8GgmEgDzxVHgcPGXEwrVRdRPiHUtZMxhrD0BoNeQ9y2Qq-lPAt9J2Xl9eyHlrnCojFZTrP74JRyBkCgz37ZrrstIaokNe4PUA_QybEKl0f7oN92oGQQawMF72TxFdhCKp_1scWyAEdWz0_opJyU5uhbLydv0z48lE8A&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESmAEB6zswFUvhsJm2QjM2zcMWhYvFqjCYFOtZvtS9g_t8GgmEgDzxVHgcPGXEwrVRdRPiHUtZMxhrD0BoNeQ9y2Qq-lPAt9J2Xl9eyHlrnCojFZTrP74JRyBkCgz37ZrrstIaokNe4PUA_QybEKl0f7oN92oGQQawMF72TxFdhCKp_1scWyAEdWz0_opJyU5uhbLydv0z48lE8A",
+   "source": "Reddit \u00b7 r/Delaware",
+   "read_more_link": "https://www.reddit.com/r/Delaware/comments/181ixp0/once_a_powerhouse_ai_dupont_is_now_delawares/#:~:text=r%2FDelaware,comments"
+  },
+  {
+   "position": 7,
+   "title": "duPont (Alexis I.) High School - Wilmington, Delaware - DE",
+   "link": "https://www.greatschools.org/delaware/wilmington/176-DuPont-Alexis-I.-High-School/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESigEB6zswFY6P-HLGEUZ8D3IrKIwr5a_WqszMCbE3ukjm3irHz1_5fLk6QTnKvjcnY9f0luC5b29mf0GN96VxbQLMB_XtiojqI9ZUCk9Hok48aRqpizgOEEEWyViSieU9_W2-ma7YpSamEb-Fl3QkRuizfZLl1jWvhgI80KNaqawPvRu40j8bmQER8AQ&ved=2ahUKEwiDwq2w4-SWAxW6iuEIHer5JecQFnoECE4QAQ&uoh=1",
+   "displayed_link": "https://www.greatschools.org \u203a delaware \u203a 176-DuPont-...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX____6_v74_P7N6_jA5vfy-v3V7PiO0e89tuUApd-Ayu0eqeEiquEjquG64PQ_tOWq2vIwruJnw-rj8_vs9vx1yeye2fFav-ix4fQbruMAo9-Hy-yp1vCq3vSw2fGY0O5xwenE5vbe7_lFmiYHAAABRElEQVR4AVzSB5KDMAwFUNGRv-QSanq5_yHX4ImHrOg8d5lyFGVZ1XVVlgX9j6btet6j79rm11oDhmgMAcO0ByqsYxHEiAqAnS2y-QAF-tPJsWpwQRH8V-1m2g3jOE4c_DirINhkrYOKmDSuJdS0qihcu38bVkVoqZZzQ9XF76hsmq0iZENqrsyWBrklFMSqRcca0cUWwHcaw43uGyp3BZU9MmJ5PGPNTjZEX1LJklHBzJ4SCpdUsWaECPhaJFSuqOaM0seAKb9YH_FUEo3uiIdml2qkIZjiBU3NHgfEl2nDMaFw-TMV7mhwzgRomsrvIqwRsTWVFiEvX0NPvlQRQ-9S0tvvwkuoqZnfRENv6Z4XPqVMsexJmMaIh5SlZAuW9ePFzc6s0yHZaZsImBnYz2i--NlgmkOOG-xv2JIm4USNNzsAAN3rGxmBgpZiAAAAAElFTkSuQmCC.png",
+   "snippet": "I am a proud parent of a freshman at the AI Dupont High school. My experience thus far has been great. I love the response time from the teachers and ...",
+   "snippet_highlighted_words": [
+    "AI Dupont High school"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "I am a proud parent of a freshman at the AI Dupont High school. My experience thus far has been great. I love the response time from the teachers and ...",
+     "source_info_link": "https://www.greatschools.org/delaware/wilmington/176-DuPont-Alexis-I.-High-School/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX____6_v74_P7N6_jA5vfy-v3V7PiO0e89tuUApd-Ayu0eqeEiquEjquG64PQ_tOWq2vIwruJnw-rj8_vs9vx1yeye2fFav-ix4fQbruMAo9-Hy-yp1vCq3vSw2fGY0O5xwenE5vbe7_lFmiYHAAABRElEQVR4AVzSB5KDMAwFUNGRv-QSanq5_yHX4ImHrOg8d5lyFGVZ1XVVlgX9j6btet6j79rm11oDhmgMAcO0ByqsYxHEiAqAnS2y-QAF-tPJsWpwQRH8V-1m2g3jOE4c_DirINhkrYOKmDSuJdS0qihcu38bVkVoqZZzQ9XF76hsmq0iZENqrsyWBrklFMSqRcca0cUWwHcaw43uGyp3BZU9MmJ5PGPNTjZEX1LJklHBzJ4SCpdUsWaECPhaJFSuqOaM0seAKb9YH_FUEo3uiIdml2qkIZjiBU3NHgfEl2nDMaFw-TMV7mhwzgRomsrvIqwRsTWVFiEvX0NPvlQRQ-9S0tvvwkuoqZnfRENv6Z4XPqVMsexJmMaIh5SlZAuW9ePFzc6s0yHZaZsImBnYz2i--NlgmkOOG-xv2JIm4USNNzsAAN3rGxmBgpZiAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESigEB6zswFY6P-HLGEUZ8D3IrKIwr5a_WqszMCbE3ukjm3irHz1_5fLk6QTnKvjcnY9f0luC5b29mf0GN96VxbQLMB_XtiojqI9ZUCk9Hok48aRqpizgOEEEWyViSieU9_W2-ma7YpSamEb-Fl3QkRuizfZLl1jWvhgI80KNaqawPvRu40j8bmQER8AQ&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESigEB6zswFY6P-HLGEUZ8D3IrKIwr5a_WqszMCbE3ukjm3irHz1_5fLk6QTnKvjcnY9f0luC5b29mf0GN96VxbQLMB_XtiojqI9ZUCk9Hok48aRqpizgOEEEWyViSieU9_W2-ma7YpSamEb-Fl3QkRuizfZLl1jWvhgI80KNaqawPvRu40j8bmQER8AQ",
+   "source": "GreatSchools",
+   "read_more_link": "https://www.greatschools.org/delaware/wilmington/176-DuPont-Alexis-I.-High-School/#:~:text=I%20am%20a%20proud%20parent,the%20teachers%20and%20administrative%20staff."
+  },
+  {
+   "position": 8,
+   "title": "Once a powerhouse, A.I. duPont is now Delaware's ...",
+   "link": "https://www.wdel.com/news/once-a-powerhouse-a-i-dupont-is-now-delawares-smallest-public-high-school/article_c73375d2-875e-11ee-b0e8-5be02ba64556.html",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESzgEB6zswFXz0j9OjBAoI8krmdybHdiLVBTEff5E3HnPiRMDvfnVyGUBRiBJ2EIUzNMH79mkZJNWTrluL3q_ptrMArXTGBrOxPOFtb8jhRtJzgs9fEeEh-J0hrjRS2hK4Bxby4cLptAK4FGT4Wm9H0pWwJ16BG_r9pT47HVXnD91v8i97rBCGw6TSy9ontm0M-gL2swfT9HKPjD7tyDn2oZJRjro3MiYgmYn4U5srGq1XYqN9ip1NZMgNcyzk_bgJNdq36hIHxh0ODR0GnMO8Vw&ved=2ahUKEwiDwq2w4-SWAxW6iuEIHer5JecQFnoECEkQAQ&uoh=1",
+   "displayed_link": "https://www.wdel.com \u203a news \u203a once-a-powerhouse-a-i...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAyVBMVEX____K1-kASqKivdxrjcETXKvM3e0nZa93ncsAUKYJVqgMUqWDps9GdLb6__97mccAQ5-TtdkATKMtZK8APZ1vl8k6brIAR6FciMAATqQAQp-zzeZVgLxfjsSXrtKtwNyNpc0AP56Xttm8zOM5c7fB1utKfbzw-f3j7fbf5_KokrIAN5sAMJkAOpwAIZX60dT4oqfnlJ7gT2D_u7z-8vPyX2uVX4zFtMnR2Of_4-GwoL5ebalnf7XacIKnS3XmdoP4iY7Wqrji0dr-9OWkAAABM0lEQVR4Ad3LBWKDMBQA0N_g7g6RIgkLzN23-9-peou-6De4KBuEFFXTkWFatm2pG2Q7yPUsw4eDIAyjOHHTzEBOXuRlUWVZFBYlHLlakYVeXjdt4bl15xYOJrodRnBixEmsWYlPWdaybV_H6QBaOp6LWuxMKHQhZ4pV6wFzORepJc5FC00lQjqguEOxSEKTzH2aKBwO_DC8auUA-sLWteMLk9cNlWl6HL25vbt_4OLwnYUQPhyu2eezONYen-6eX_ogmAkGQnEPCqYbTGdC-aEIiowqbzWRAVt3ibjU3GiVLkMCDohUUnMd7QwAWwK02OBxYtgDHGE7is1YlwS4jI5HCFZqkwlHuRekaOiXCKsah3F5fXuvPj4LBY56XTT9LBqh9zrA1_fP7x95fe3_H-GC7AEPQR_5PiNJZAAAAABJRU5ErkJggg.png",
+   "date": "Nov 19, 2023",
+   "snippet": "... A.I. duPont High School has just 605 students in grades 9-12, over ... Delaware September 30 Counts for Delaware's Public/Vo-Tech High Schools:.",
+   "snippet_highlighted_words": [
+    "A.I. duPont High School",
+    "Delaware",
+    "Delaware's"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "... A.I. duPont High School has just 605 students in grades 9-12, over ... Delaware September 30 Counts for Delaware's Public/Vo-Tech High Schools:.",
+     "source_info_link": "https://www.wdel.com/news/once-a-powerhouse-a-i-dupont-is-now-delawares-smallest-public-high-school/article_c73375d2-875e-11ee-b0e8-5be02ba64556.html",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAyVBMVEX____K1-kASqKivdxrjcETXKvM3e0nZa93ncsAUKYJVqgMUqWDps9GdLb6__97mccAQ5-TtdkATKMtZK8APZ1vl8k6brIAR6FciMAATqQAQp-zzeZVgLxfjsSXrtKtwNyNpc0AP56Xttm8zOM5c7fB1utKfbzw-f3j7fbf5_KokrIAN5sAMJkAOpwAIZX60dT4oqfnlJ7gT2D_u7z-8vPyX2uVX4zFtMnR2Of_4-GwoL5ebalnf7XacIKnS3XmdoP4iY7Wqrji0dr-9OWkAAABM0lEQVR4Ad3LBWKDMBQA0N_g7g6RIgkLzN23-9-peou-6De4KBuEFFXTkWFatm2pG2Q7yPUsw4eDIAyjOHHTzEBOXuRlUWVZFBYlHLlakYVeXjdt4bl15xYOJrodRnBixEmsWYlPWdaybV_H6QBaOp6LWuxMKHQhZ4pV6wFzORepJc5FC00lQjqguEOxSEKTzH2aKBwO_DC8auUA-sLWteMLk9cNlWl6HL25vbt_4OLwnYUQPhyu2eezONYen-6eX_ogmAkGQnEPCqYbTGdC-aEIiowqbzWRAVt3ibjU3GiVLkMCDohUUnMd7QwAWwK02OBxYtgDHGE7is1YlwS4jI5HCFZqkwlHuRekaOiXCKsah3F5fXuvPj4LBY56XTT9LBqh9zrA1_fP7x95fe3_H-GC7AEPQR_5PiNJZAAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESzgEB6zswFXz0j9OjBAoI8krmdybHdiLVBTEff5E3HnPiRMDvfnVyGUBRiBJ2EIUzNMH79mkZJNWTrluL3q_ptrMArXTGBrOxPOFtb8jhRtJzgs9fEeEh-J0hrjRS2hK4Bxby4cLptAK4FGT4Wm9H0pWwJ16BG_r9pT47HVXnD91v8i97rBCGw6TSy9ontm0M-gL2swfT9HKPjD7tyDn2oZJRjro3MiYgmYn4U5srGq1XYqN9ip1NZMgNcyzk_bgJNdq36hIHxh0ODR0GnMO8Vw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESzgEB6zswFXz0j9OjBAoI8krmdybHdiLVBTEff5E3HnPiRMDvfnVyGUBRiBJ2EIUzNMH79mkZJNWTrluL3q_ptrMArXTGBrOxPOFtb8jhRtJzgs9fEeEh-J0hrjRS2hK4Bxby4cLptAK4FGT4Wm9H0pWwJ16BG_r9pT47HVXnD91v8i97rBCGw6TSy9ontm0M-gL2swfT9HKPjD7tyDn2oZJRjro3MiYgmYn4U5srGq1XYqN9ip1NZMgNcyzk_bgJNdq36hIHxh0ODR0GnMO8Vw",
+   "source": "WDEL",
+   "read_more_link": "https://www.wdel.com/news/once-a-powerhouse-a-i-dupont-is-now-delawares-smallest-public-high-school/article_c73375d2-875e-11ee-b0e8-5be02ba64556.html#:~:text=According%20to%20the%20September%2030,than%20Woodbridge%2C%20the%20second%20smallest.&text=Delaware%20September%2030%20Counts%20for,Delaware's%20Public%2FVo%2DTech%20High%20Schools%3A"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Ai dupont high school delaware yearbook",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Ai+dupont+high+school+delaware+yearbook&sa=X&ved=2ahUKEwiDwq2w4-SWAxW6iuEIHer5JecQ1QJ6BAhREAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ai+dupont+high+school+delaware+yearbook"
+  },
+  {
+   "block_position": 1,
+   "query": "Ai dupont High School sports",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Ai+dupont+High+School+sports&sa=X&ved=2ahUKEwiDwq2w4-SWAxW6iuEIHer5JecQ1QJ6BAhuEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ai+dupont+High+School+sports"
+  },
+  {
+   "block_position": 1,
+   "query": "A.I. Dupont High school shooting",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=A.I.+Dupont+High+school+shooting&sa=X&ved=2ahUKEwiDwq2w4-SWAxW6iuEIHer5JecQ1QJ6BAhtEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=A.I.+Dupont+High+school+shooting"
+  },
+  {
+   "block_position": 1,
+   "query": "Ai dupont high school delaware ranking",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Ai+dupont+high+school+delaware+ranking&sa=X&ved=2ahUKEwiDwq2w4-SWAxW6iuEIHer5JecQ1QJ6BAhqEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ai+dupont+high+school+delaware+ranking"
+  },
+  {
+   "block_position": 1,
+   "query": "Ai dupont high school delaware football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Ai+dupont+high+school+delaware+football&sa=X&ved=2ahUKEwiDwq2w4-SWAxW6iuEIHer5JecQ1QJ6BAhlEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ai+dupont+high+school+delaware+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Ai dupont high school delaware alumni",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Ai+dupont+high+school+delaware+alumni&sa=X&ved=2ahUKEwiDwq2w4-SWAxW6iuEIHer5JecQ1QJ6BAhhEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ai+dupont+high+school+delaware+alumni"
+  },
+  {
+   "block_position": 1,
+   "query": "Ai dupont high school delaware fight",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=Ai+dupont+high+school+delaware+fight&sa=X&ved=2ahUKEwiDwq2w4-SWAxW6iuEIHer5JecQ1QJ6BAhYEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ai+dupont+high+school+delaware+fight"
+  },
+  {
+   "block_position": 1,
+   "query": "AI duPont Middle School",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&q=AI+duPont+Middle+School&sa=X&ved=2ahUKEwiDwq2w4-SWAxW6iuEIHer5JecQ1QJ6BAhTEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=AI+duPont+Middle+School"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22A.I.+DuPont+High+School%22+Delaware&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=3QijasPfNLqVhvcP6vOXuQ4&start=10&sa=N&sstk=AS6-VmJ0OjxnmsjTda6ZIyorYtbJhbmmvOM2gkPNgQb1YaAXU5wa6r0UJXVj4Hb8urKpi2hhMc7JMC0z8cy4K37tETuAGZu7sqHykw&ved=2ahUKEwiDwq2w4-SWAxW6iuEIHer5JecQ8NMDegQIaxAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22A.I.+DuPont+High+School%22+Delaware&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=3QijasPfNLqVhvcP6vOXuQ4&start=10&sa=N&sstk=AS6-VmJ0OjxnmsjTda6ZIyorYtbJhbmmvOM2gkPNgQb1YaAXU5wa6r0UJXVj4Hb8urKpi2hhMc7JMC0z8cy4K37tETuAGZu7sqHykw&ved=2ahUKEwiDwq2w4-SWAxW6iuEIHer5JecQ8tMDegQIaxAE",
+   "3": "https://www.google.com/search?q=%22A.I.+DuPont+High+School%22+Delaware&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=3QijasPfNLqVhvcP6vOXuQ4&start=20&sa=N&sstk=AS6-VmJ0OjxnmsjTda6ZIyorYtbJhbmmvOM2gkPNgQb1YaAXU5wa6r0UJXVj4Hb8urKpi2hhMc7JMC0z8cy4K37tETuAGZu7sqHykw&ved=2ahUKEwiDwq2w4-SWAxW6iuEIHer5JecQ8tMDegQIaxAG",
+   "4": "https://www.google.com/search?q=%22A.I.+DuPont+High+School%22+Delaware&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=3QijasPfNLqVhvcP6vOXuQ4&start=30&sa=N&sstk=AS6-VmJ0OjxnmsjTda6ZIyorYtbJhbmmvOM2gkPNgQb1YaAXU5wa6r0UJXVj4Hb8urKpi2hhMc7JMC0z8cy4K37tETuAGZu7sqHykw&ved=2ahUKEwiDwq2w4-SWAxW6iuEIHer5JecQ8tMDegQIaxAI",
+   "5": "https://www.google.com/search?q=%22A.I.+DuPont+High+School%22+Delaware&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=3QijasPfNLqVhvcP6vOXuQ4&start=40&sa=N&sstk=AS6-VmJ0OjxnmsjTda6ZIyorYtbJhbmmvOM2gkPNgQb1YaAXU5wa6r0UJXVj4Hb8urKpi2hhMc7JMC0z8cy4K37tETuAGZu7sqHykw&ved=2ahUKEwiDwq2w4-SWAxW6iuEIHer5JecQ8tMDegQIaxAK",
+   "6": "https://www.google.com/search?q=%22A.I.+DuPont+High+School%22+Delaware&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=3QijasPfNLqVhvcP6vOXuQ4&start=50&sa=N&sstk=AS6-VmJ0OjxnmsjTda6ZIyorYtbJhbmmvOM2gkPNgQb1YaAXU5wa6r0UJXVj4Hb8urKpi2hhMc7JMC0z8cy4K37tETuAGZu7sqHykw&ved=2ahUKEwiDwq2w4-SWAxW6iuEIHer5JecQ8tMDegQIaxAM",
+   "7": "https://www.google.com/search?q=%22A.I.+DuPont+High+School%22+Delaware&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=3QijasPfNLqVhvcP6vOXuQ4&start=60&sa=N&sstk=AS6-VmJ0OjxnmsjTda6ZIyorYtbJhbmmvOM2gkPNgQb1YaAXU5wa6r0UJXVj4Hb8urKpi2hhMc7JMC0z8cy4K37tETuAGZu7sqHykw&ved=2ahUKEwiDwq2w4-SWAxW6iuEIHer5JecQ8tMDegQIaxAO",
+   "8": "https://www.google.com/search?q=%22A.I.+DuPont+High+School%22+Delaware&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=3QijasPfNLqVhvcP6vOXuQ4&start=70&sa=N&sstk=AS6-VmJ0OjxnmsjTda6ZIyorYtbJhbmmvOM2gkPNgQb1YaAXU5wa6r0UJXVj4Hb8urKpi2hhMc7JMC0z8cy4K37tETuAGZu7sqHykw&ved=2ahUKEwiDwq2w4-SWAxW6iuEIHer5JecQ8tMDegQIaxAQ",
+   "9": "https://www.google.com/search?q=%22A.I.+DuPont+High+School%22+Delaware&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=3QijasPfNLqVhvcP6vOXuQ4&start=80&sa=N&sstk=AS6-VmJ0OjxnmsjTda6ZIyorYtbJhbmmvOM2gkPNgQb1YaAXU5wa6r0UJXVj4Hb8urKpi2hhMc7JMC0z8cy4K37tETuAGZu7sqHykw&ved=2ahUKEwiDwq2w4-SWAxW6iuEIHer5JecQ8tMDegQIaxAS",
+   "10": "https://www.google.com/search?q=%22A.I.+DuPont+High+School%22+Delaware&sca_esv=03bfe121ccbd9421&hl=en&gl=us&ei=3QijasPfNLqVhvcP6vOXuQ4&start=90&sa=N&sstk=AS6-VmJ0OjxnmsjTda6ZIyorYtbJhbmmvOM2gkPNgQb1YaAXU5wa6r0UJXVj4Hb8urKpi2hhMc7JMC0z8cy4K37tETuAGZu7sqHykw&ved=2ahUKEwiDwq2w4-SWAxW6iuEIHer5JecQ8tMDegQIaxAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22A.I.+DuPont+High+School%22+Delaware&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22A.I.+DuPont+High+School%22+Delaware&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22A.I.+DuPont+High+School%22+Delaware&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22A.I.+DuPont+High+School%22+Delaware&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22A.I.+DuPont+High+School%22+Delaware&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22A.I.+DuPont+High+School%22+Delaware&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22A.I.+DuPont+High+School%22+Delaware&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22A.I.+DuPont+High+School%22+Delaware&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22A.I.+DuPont+High+School%22+Delaware&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22A.I.+DuPont+High+School%22+Delaware&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22A.I.+DuPont+High+School%22+Delaware&start=90"
+  }
+ }
+}

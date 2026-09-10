@@ -1,0 +1,551 @@
+{
+ "search_information": {
+  "query_displayed": "\"Mercer Island High School\" Washington",
+  "total_results": 91000,
+  "time_taken_displayed": 0.33,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Mercer Island High School",
+  "type": "Public high school in Mercer Island, Washington",
+  "entity_type": "local_nav",
+  "kgmid": "/m/02p7bdr",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/02p7bdr&hl=en-US&q=Mercer+Island+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F02p7bdr&q=Mercer+Island+High+School",
+  "place_id": "ChIJnRqW59prkFQR6z9ST_PK5gY",
+  "website": "http://mercerislandschools.org/",
+  "description": "Mercer Island High School is a public high school located in Mercer Island, Washington, United States, as part of the Mercer Island School District. As of the 2022\u201323 school year, the school had an enrollment of 1,524 students and 74.51 classroom teachers, for a student\u2013teacher ratio of 20.45.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa30f9ee6590e68277100d5/images/bEUViOVjB-PKc0mSQZ7CsCno4k7aOms2JY3nqC8kZwY.webp",
+   "link": "https://www.google.com/maps/place/Mercer+Island+High+School/data=!4m2!3m1!1s0x0:0x6e6caf34f523feb?sa=X&ved=2ahUKEwiXh_ft6eSWAxWWvJUCHUzuGWsQ_BJ6BAgKEAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Mercer_Island_High_School"
+  },
+  "address": "9100 SE 42nd St, Mercer Island, WA 98040",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntUWkceZ_FdXogeANUyZbrh1z4tpg:1789071273617&q=mercer+island+high+school+address&ludocid=497307955227672555&sa=X&ved=2ahUKEwiXh_ft6eSWAxWWvJUCHUzuGWsQ6BN6BAghEAI"
+   }
+  ],
+  "founded": "1957",
+  "colors": "White, Maroon",
+  "colors_links": [
+   {
+    "text": "White",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntUWkceZ_FdXogeANUyZbrh1z4tpg:1789071273617&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpt2PmrrG0v_NNf8LKgZjBVjwPSJGOBj-fhttCVbIGZaHGQUKjiSaavIVMjsCcAsA3JoMbEZo-NpjZ80dwbUoafDc7hUameMG0zullf2EnWOpyxEFTDLNaRX74E-2HkUDLLnxJ5J0m4zVZrOZ9EOOsBvyFvnlK9Wsfi7BCGFxx7wNxND7w3rReCEw5uJ7u3zdLXhDm3g%3D&sa=X&ved=2ahUKEwiXh_ft6eSWAxWWvJUCHUzuGWsQmxN6BAgmEAI"
+   },
+   {
+    "text": "Maroon",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntUWkceZ_FdXogeANUyZbrh1z4tpg:1789071273617&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yQqQkSOq9FlgbjGSBRiM0u6DsLn8XF-0ZSSbaeilutS0hnrFAa3HI3urqh5e-JV6D_CsmhOV9cbakqnGFGFj5xseTe1XIYwRuiBaE0X2y80SRHsAfQ5Zebh31TPPBHIhTyT7xWE-aTPg9udiQf3_QG1GPXw09qIx8FL1tdS_sV9INni7_uhf_iqnOgvqOFPOAc9DeMY%3D&sa=X&ved=2ahUKEwiXh_ft6eSWAxWWvJUCHUzuGWsQmxN6BAgmEAM"
+   }
+  ],
+  "school_type": "Public high school",
+  "school_type_links": [
+   {
+    "text": "Public high school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntUWkceZ_FdXogeANUyZbrh1z4tpg:1789071273617&q=Public+high+school&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yXuVwxdgcNbksDtbCZOybZFrX6hMLbh06ZNPvhWrr_g81bJ9Ha2N79T62pGWrN7sVw1atoiQpbSZ7wyRL6RzE3iG4FDQz439pxwPKoz1NmWDjmy__Tgj_hLdEvJaeNgSC5ki4-ojz1eQPsfMv7uHf1a2Ua3bq-Ygc0Oguh6FeiX4IFzMxA%3D%3D&sa=X&ved=2ahUKEwiXh_ft6eSWAxWWvJUCHUzuGWsQmxN6BAgoEAI"
+   }
+  ],
+  "phone": "(206) 236-3350",
+  "raw_hours": "Open \u00b7 Closes 4 PM",
+  "hours": {
+   "thursday": {
+    "opens": "7\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "friday": {
+    "opens": "7\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "7\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "tuesday": {
+    "opens": "7\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "wednesday": {
+    "opens": "7\u202fAM",
+    "closes": "4\u202fPM"
+   }
+  },
+  "people_also_search_for": [
+   {
+    "name": "Mercer Island",
+    "image": "https://serpapi.com/searches/6aa30f9ee6590e68277100d5/images/bEUViOVjB-PKc0mSQZ7CsArhekkTOALqzQln1BtGrIHaAYeh2x5SHBt4wmOqMCey.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntUWkceZ_FdXogeANUyZbrh1z4tpg:1789071273617&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67_tGz9Qbarv3eE5cO2w1IGzhfGAV3TZb6-Xn_pEGW8_O8cOhVb_Th6Y1UcWG3828Lxl7NUs8pOEpTdY_ChNCxR0ny9ViIw8RDu-FVgD5Nu1lVtaGXbNW82Hlx4UL7eACvjUZon0he-qdcIVMSzyp9SEp4q_msIJKc-TdTXUVnChgj2t8amOPiE8WWvoArDz5tNJN88vAxU0WDr6Okt6RM_DcZvLJMUYmm2UE4zI79oG6ueuZENHWYDXRpt14fCHLSp_MiH8%3D&q=Mercer+Island&sa=X&ved=2ahUKEwiXh_ft6eSWAxWWvJUCHUzuGWsQs9oBKAB6BAgZEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mercer+Island&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67_tGz9Qbarv3eE5cO2w1IGzhfGAV3TZb6-Xn_pEGW8_O8cOhVb_Th6Y1UcWG3828Lxl7NUs8pOEpTdY_ChNCxR0ny9ViIw8RDu-FVgD5Nu1lVtaGXbNW82Hlx4UL7eACvjUZon0he-qdcIVMSzyp9SEp4q_msIJKc-TdTXUVnChgj2t8amOPiE8WWvoArDz5tNJN88vAxU0WDr6Okt6RM_DcZvLJMUYmm2UE4zI79oG6ueuZENHWYDXRpt14fCHLSp_MiH8%3D"
+   },
+   {
+    "name": "Newport High School",
+    "image": "https://serpapi.com/searches/6aa30f9ee6590e68277100d5/images/bEUViOVjB-PKc0mSQZ7CsArhekkTOALqzQln1BtGrIHy3SHkFFEza2P-s1KmyFQ_.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntUWkceZ_FdXogeANUyZbrh1z4tpg:1789071273617&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ybMrOgpe85zOjag5cGQBmGH9eARj-9bW8Io57Q8Q370kcdDr4cC67XvKJtqqfbGikYtarwKPGPQ041adP4nvZJRyg-WJip0EHGM5K2O5dKB-ARnwLyX6NgfXnU8lTPq5MniMIrR6rehO5s4ZYceybf8po7p888nDPX_Zje7l2gaHFKmztM9PURM1AD_8n5xR7y_UtJOUIdwQxfDjOD0BL6gMsaHwOOEhtABVr21gGgdrpA-OxHcUZ4Atyox56jmgnwIllYC5z1mgNIGCtnCvd4fnQF0o&q=Newport+High+School&sa=X&ved=2ahUKEwiXh_ft6eSWAxWWvJUCHUzuGWsQs9oBKAB6BAgZEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Newport+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ybMrOgpe85zOjag5cGQBmGH9eARj-9bW8Io57Q8Q370kcdDr4cC67XvKJtqqfbGikYtarwKPGPQ041adP4nvZJRyg-WJip0EHGM5K2O5dKB-ARnwLyX6NgfXnU8lTPq5MniMIrR6rehO5s4ZYceybf8po7p888nDPX_Zje7l2gaHFKmztM9PURM1AD_8n5xR7y_UtJOUIdwQxfDjOD0BL6gMsaHwOOEhtABVr21gGgdrpA-OxHcUZ4Atyox56jmgnwIllYC5z1mgNIGCtnCvd4fnQF0o"
+   },
+   {
+    "name": "Tesla STEM High School",
+    "image": "https://serpapi.com/searches/6aa30f9ee6590e68277100d5/images/bEUViOVjB-PKc0mSQZ7CsArhekkTOALqzQln1BtGrIESCHTgIsa01_WvxoVBoP1R.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntUWkceZ_FdXogeANUyZbrh1z4tpg:1789071273617&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW671GPbW1jB982_WQo17JzUndzJjIsG_egnrk3ZQY534nYm9yBsCGzWhOJLKQR66a5XOyoe90uT8l_PdpU2IpV9SGaRQMJvJ3MT8fKfQqYiytlP2TBSSjn8WCU9TdQv-QipzGXPC8R2RW4gViRLGim_XMMq46rJwfHhQZXNWkYi7oJamZrkTROwYCrpFE9_t2FAhz_M6p7zjaOwkEBWQXUFuaVs_p1Luu33EMl8pC3y0dkfbUUSx9mHeedjCP1BeXWP32AMi1shfKmg2AmmDFLDrkiyFtJ&q=Tesla+STEM+High+School&sa=X&ved=2ahUKEwiXh_ft6eSWAxWWvJUCHUzuGWsQs9oBKAB6BAgZEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Tesla+STEM+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW671GPbW1jB982_WQo17JzUndzJjIsG_egnrk3ZQY534nYm9yBsCGzWhOJLKQR66a5XOyoe90uT8l_PdpU2IpV9SGaRQMJvJ3MT8fKfQqYiytlP2TBSSjn8WCU9TdQv-QipzGXPC8R2RW4gViRLGim_XMMq46rJwfHhQZXNWkYi7oJamZrkTROwYCrpFE9_t2FAhz_M6p7zjaOwkEBWQXUFuaVs_p1Luu33EMl8pC3y0dkfbUUSx9mHeedjCP1BeXWP32AMi1shfKmg2AmmDFLDrkiyFtJ"
+   },
+   {
+    "name": "International School",
+    "image": "https://serpapi.com/searches/6aa30f9ee6590e68277100d5/images/bEUViOVjB-PKc0mSQZ7CsArhekkTOALqzQln1BtGrIE-iZyhEj9fbO2mXo2-TkCN.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntUWkceZ_FdXogeANUyZbrh1z4tpg:1789071273617&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yXp7r9u64izoG3PizMEGRF224C0jbALj1kkO-WSu7e_Qew1buRDkH9m6DsUYZgzC4ZAebLSfuWv1hM3GA9LNju-x7vzvUur6QaV1fWKsWbt73bn3lhf12dS2tv84OMBAQLLXetY9rksf3716SVWDhZfCava4CcufZ4KGzf1tzwuhS_tYD0UlNKq2PL_9N1b6MCWHD06K3UM2R7nxDok419Kf8kDqlsuJDqf1nF_XfeB9j0uhKlsrKrMVrg_eIdya3iysxQ2hXkmpy8zYVzi8WgdSKQY7&q=International+School+Bellevue&sa=X&ved=2ahUKEwiXh_ft6eSWAxWWvJUCHUzuGWsQs9oBKAB6BAgZEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=International+School+Bellevue&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yXp7r9u64izoG3PizMEGRF224C0jbALj1kkO-WSu7e_Qew1buRDkH9m6DsUYZgzC4ZAebLSfuWv1hM3GA9LNju-x7vzvUur6QaV1fWKsWbt73bn3lhf12dS2tv84OMBAQLLXetY9rksf3716SVWDhZfCava4CcufZ4KGzf1tzwuhS_tYD0UlNKq2PL_9N1b6MCWHD06K3UM2R7nxDok419Kf8kDqlsuJDqf1nF_XfeB9j0uhKlsrKrMVrg_eIdya3iysxQ2hXkmpy8zYVzi8WgdSKQY7"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntUWkceZ_FdXogeANUyZbrh1z4tpg:1789071273617&q=Mercer+Island+High+School&stick=H4sIAAAAAAAAAONgFuLSz9U3MCowT0opUkJiawkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axCrpm1qUnFqk4Fmck5iXouCRmZ6hEJyckZ-fs4OV8RabJMMbh4rAXL6mziXhhodYtRdtjkgKtkkP-34cADKHu9yBAAAA&sa=X&ved=2ahUKEwiXh_ft6eSWAxWWvJUCHUzuGWsQzO0BKAR6BAgZEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLSz9U3MCowT0opUkJiawkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axCrpm1qUnFqk4Fmck5iXouCRmZ6hEJyckZ-fs4OV8RabJMMbh4rAXL6mziXhhodYtRdtjkgKtkkP-34cADKHu9yBAAAA",
+  "profiles": [
+   {
+    "name": "YouTube",
+    "link": "https://www.youtube.com/@misdcommunications9957",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Mercer+Island+High+School%22+Washington",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAP1BMVEX_____z8__n5__kJD_gID_cHD_YGD_v7__39__ICD_AAD_r6__EBD_7-__oKD_MDD_QED_UFD_X1__j4__f396G04EAAAAhklEQVR4AeXQRQLDQAwDQC3bajj5_1dLYb63czYKf8VY50OcBO9swkyUB_SBkfJQlqOXeKJAz_FEQM9zVCqXInqRIy-RC9W-AJDypgCwyoGiV68LkLJFwX6CVJcr8nBwZJgLXMaDAs9RxsMcLE949IQnEnpoeKjEpC25o12OpVwkTURy_JQX1r4RC2S7kZYAAAAASUVORK5CYII.png"
+   },
+   {
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/in/jessica-lohnas-a36723279",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Mercer+Island+High+School%22+Washington",
+    "image": "https://serpapi.com/searches/6aa30f9ee6590e68277100d5/images/bEUViOVjB-PKc0mSQZ7CsMGPYjuPPBb5vzS4u4noXoRjtOa_x_Lei5bJBDT5gmua.png"
+   },
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/mercerislandhs",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Mercer+Island+High+School%22+Washington",
+    "image": "https://serpapi.com/searches/6aa30f9ee6590e68277100d5/images/bEUViOVjB-PKc0mSQZ7CsG6EA4p5pZzgq1Swhe20pblrXOYq0-xfQE69g_2KGIfB.png"
+   },
+   {
+    "name": "X (Twitter)",
+    "link": "https://twitter.com/theMIHSislander",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Mercer+Island+High+School%22+Washington",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAABhUlEQVR4AczOA6xcARCF4X_us23btuLUQR3WZlhbQW3bto2gtm3b2J3GN4tY74uHh3okOi42Nj4AAUDwTvDEhisABCOAEAzYTBh0bN-lc5d0QgAhHPqX4Y4pkd367Zc-xMcXCPDg8TPwxeQH724Uj9N95GJ4pnHxby1xgCmV3v-GsFb7k0Iee7UjaQgmIYe9v9O4-wUKWaATyMPAViwvr1NnOQWDdTV5CHYSaKWLmaGDyvU4mTgQcllracaFr-9uk-yLM8k8fAJff0IUTghRVFu3M1ynkYk4nchiqqU3Ry05RDibMMhjtj6Ht3dJxVk_l1G64cspOusychBsCWm01WNM0jFs0sbEYUtIIuTXNco588OLh09JxE6wweuXEAvfL9PQus3-iU80N34KCaQyUOcxTTuSjEmMRI5rS9JwIZfD1t7ceo34YIpnuQ4nGwP8XXlq_fJZd9jE8KBHC5IwAELJ7dWrZ6fOuNhkgFgAEEIAwA1MQkw0AgDC_wnKycrKSQ2iPAkAVyNzq8rxicIAAAAASUVORK5CYII.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "What famous people went to Mercer Island High School?",
+   "type": "ai_overview",
+   "page_token": "xEmvc3icHdBfbpswHABg9TJ9bOyyZCFSNImCnVoLK3-MgZfJ2CEO_BzcBJWUt16hZ-ipdppNO8EnfR9fcDr3f-4-zTi662axmKbp4TgMRzg8qMEu5PX9rBZKAjRS9ZvV9xX-0apt9KaCp4sKEu5cEaYo81xbWCACzK_YFpAThjjW-5-lsRwzl_XPjwk3riHQcjrdcoSvlUDvOfLnEq1nHvk0F3UlvWfU7IJOEO2qeT_tqZ5kVMcNxVJADAWFPkX-JdsZq5FbSZGeeJiOBVZLGUIgbFyqjtBaaJYjMjc5XAWtQxlqoyF2ojf_zPWcAcisYH2DNStnvczPupXWtXpX7FVkvmUlOF7EJMHrMaf-UBP2ogjjlQdeZPSNZ_i1KlPIkZNVx28Kk-TQL1dNxwKRDqeEp7PqwHKIe4VuRlJmM85Qwv3Xw7l-lJ2hOtJElewpSe5b9bb17v9fb3-3dty4y3D8C9-Gjc8",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=xEmvc3icHdBfbpswHABg9TJ9bOyyZCFSNImCnVoLK3-MgZfJ2CEO_BzcBJWUt16hZ-ipdppNO8EnfR9fcDr3f-4-zTi662axmKbp4TgMRzg8qMEu5PX9rBZKAjRS9ZvV9xX-0apt9KaCp4sKEu5cEaYo81xbWCACzK_YFpAThjjW-5-lsRwzl_XPjwk3riHQcjrdcoSvlUDvOfLnEq1nHvk0F3UlvWfU7IJOEO2qeT_tqZ5kVMcNxVJADAWFPkX-JdsZq5FbSZGeeJiOBVZLGUIgbFyqjtBaaJYjMjc5XAWtQxlqoyF2ojf_zPWcAcisYH2DNStnvczPupXWtXpX7FVkvmUlOF7EJMHrMaf-UBP2ogjjlQdeZPSNZ_i1KlPIkZNVx28Kk-TQL1dNxwKRDqeEp7PqwHKIe4VuRlJmM85Qwv3Xw7l-lJ2hOtJElewpSe5b9bb17v9fb3-3dty4y3D8C9-Gjc8",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVRXNUxOR2RtWkhCQ1RuTlhkMHB5UlU1QmJWOHlaRFJ1WjNaMGJFWTJiVzVoUW1kVVpHUnJjSHB3TUc5MFRHRlBiVzFVV1dSV1owTXlaWGh6YmpNeU5HOXJNa2hTYlZoaE5HWjJPRk5DVWxoalkzSXdXVlF0V2xvelp4SVhjVkV0YW1GMFpVOUtXbUkxTVhOUlVIcE9lbTR5UVZrYUlrRkVjM0k1WmxGZlFtUkhkREk0T0ZWalJEZ3dSa3h5YUhsak1UZHVla0p4VWxFIiwiZmN2IjoiMyIsImVpIjoicVEtamF0ZU9KWmI1MXNRUHpOem4yQVkiLCJxYyI6IkNpUnRaWEpqWlhJZ2FYTnNZVzVrSUdocFoyZ2djMk5vYjI5c0lIZGhjMmhwYm1kMGIyNFFBSDJpbHpvXyIsInF1ZXN0aW9uIjoiV2hhdCBmYW1vdXMgcGVvcGxlIHdlbnQgdG8gTWVyY2VyIElzbGFuZCBIaWdoIFNjaG9vbD8iLCJsayI6IkdqUjNhR0YwSUdaaGJXOTFjeUJ3Wlc5d2JHVWdkMlZ1ZENCMGJ5QnRaWEpqWlhJZ2FYTnNZVzVrSUdocFoyZ2djMk5vYjI5cyIsImJzIjoiYzNXUXJRX0NNQkJIZ3oyRnJ1RndNRkFOWUt0SW1FQWhKbENYcmF4TnV0MnlGaGItZXo0R290bm0zM3QzLVFIRFBqTVU4RVlWM3owMm1odW5zZE4xd01CNDFtMnVXMHk5bzdyQWt5ME5YbkxEN0pROGlGMDNMVmE5YUh2UmZFVF9GZUVLbTlSUGg1R3daQzUtdEpKYmtWZ19uWXR4T0FJTzR2Ui1pbHd3VDZSV2s1SkxzUmdVWXdZeVdJLU00dXhESTlkeFhzbEVyRWFHLU1QUm5mbnNCUSIsImlkIjoiZmNfcVEtamF0ZU9KWmI1MXNRUHpOem4yQVlfMSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVRXNUxOR2RtWkhCQ1RuTlhkMHB5UlU1QmJWOHlaRFJ1WjNaMGJFWTJiVzVoUW1kVVpHUnJjSHB3TUc5MFRHRlBiVzFVV1dSV1owTXlaWGh6YmpNeU5HOXJNa2hTYlZoaE5HWjJPRk5DVWxoalkzSXdXVlF0V2xvelp4SVhjVkV0YW1GMFpVOUtXbUkxTVhOUlVIcE9lbTR5UVZrYUlrRkVjM0k1WmxGZlFtUkhkREk0T0ZWalJEZ3dSa3h5YUhsak1UZHVla0p4VWxFIiwiZmN2IjoiMyIsImVpIjoicVEtamF0ZU9KWmI1MXNRUHpOem4yQVkiLCJxYyI6IkNpUnRaWEpqWlhJZ2FYTnNZVzVrSUdocFoyZ2djMk5vYjI5c0lIZGhjMmhwYm1kMGIyNFFBSDJpbHpvXyIsInF1ZXN0aW9uIjoiV2hhdCBmYW1vdXMgcGVvcGxlIHdlbnQgdG8gTWVyY2VyIElzbGFuZCBIaWdoIFNjaG9vbD8iLCJsayI6IkdqUjNhR0YwSUdaaGJXOTFjeUJ3Wlc5d2JHVWdkMlZ1ZENCMGJ5QnRaWEpqWlhJZ2FYTnNZVzVrSUdocFoyZ2djMk5vYjI5cyIsImJzIjoiYzNXUXJRX0NNQkJIZ3oyRnJ1RndNRkFOWUt0SW1FQWhKbENYcmF4TnV0MnlGaGItZXo0R290bm0zM3QzLVFIRFBqTVU4RVlWM3owMm1odW5zZE4xd01CNDFtMnVXMHk5bzdyQWt5ME5YbkxEN0pROGlGMDNMVmE5YUh2UmZFVF9GZUVLbTlSUGg1R3daQzUtdEpKYmtWZ19uWXR4T0FJTzR2Ui1pbHd3VDZSV2s1SkxzUmdVWXdZeVdJLU00dXhESTlkeFhzbEVyRWFHLU1QUm5mbnNCUSIsImlkIjoiZmNfcVEtamF0ZU9KWmI1MXNRUHpOem4yQVlfMSJ9"
+  },
+  {
+   "question": "Is Mercer Island High School a good school?",
+   "type": "ai_overview",
+   "page_token": "jnZUmnicHdBLboJAAADQ9DIulRGh0cQ0oYKKYcwM80E2DcwgCIMMfspn17v0VD1Nm67e_n19q8u1-nn5LB4PfV_NZl3XTfOmyVU2FU09S-7DVcxEolSaiGplv9rg7SzW7nPvvLd7B1Gt2QYbZOd31MNWWCMrcIuWRm4Xc98WJr4hviygcu6SawArHDKiDLl99Fl1ssh2seAbOM886REWb6IRQzbXBSJFkPDKCD38xAqbqZI8MB0TUmtEYOmfgN7Jcd8TNz6IOrZYyYAEy2Nq5CMy-ifkgCCuWkkUOYagDwkCR0-zwJCAqaoPWN4FNX5m1IfoynpY64usljiOnIPY-dgtZE9D0J4irIihk1NJewE8lFWWnZa-w3FzQRSPolQ1JZCgKxqyP0nN7uHoDmLOiAQaRcZiiEvVxt3kLD7X5uT_c_1xrh8rfWvyX6JOg8M",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=jnZUmnicHdBLboJAAADQ9DIulRGh0cQ0oYKKYcwM80E2DcwgCIMMfspn17v0VD1Nm67e_n19q8u1-nn5LB4PfV_NZl3XTfOmyVU2FU09S-7DVcxEolSaiGplv9rg7SzW7nPvvLd7B1Gt2QYbZOd31MNWWCMrcIuWRm4Xc98WJr4hviygcu6SawArHDKiDLl99Fl1ssh2seAbOM886REWb6IRQzbXBSJFkPDKCD38xAqbqZI8MB0TUmtEYOmfgN7Jcd8TNz6IOrZYyYAEy2Nq5CMy-ifkgCCuWkkUOYagDwkCR0-zwJCAqaoPWN4FNX5m1IfoynpY64usljiOnIPY-dgtZE9D0J4irIihk1NJewE8lFWWnZa-w3FzQRSPolQ1JZCgKxqyP0nN7uHoDmLOiAQaRcZiiEvVxt3kLD7X5uT_c_1xrh8rfWvyX6JOg8M",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVRXNUxOR2RtWkhCQ1RuTlhkMHB5UlU1QmJWOHlaRFJ1WjNaMGJFWTJiVzVoUW1kVVpHUnJjSHB3TUc5MFRHRlBiVzFVV1dSV1owTXlaWGh6YmpNeU5HOXJNa2hTYlZoaE5HWjJPRk5DVWxoalkzSXdXVlF0V2xvelp4SVhjVkV0YW1GMFpVOUtXbUkxTVhOUlVIcE9lbTR5UVZrYUlrRkVjM0k1WmxGZlFtUkhkREk0T0ZWalJEZ3dSa3h5YUhsak1UZHVla0p4VWxFIiwiZmN2IjoiMyIsImVpIjoicVEtamF0ZU9KWmI1MXNRUHpOem4yQVkiLCJxYyI6IkNpUnRaWEpqWlhJZ2FYTnNZVzVrSUdocFoyZ2djMk5vYjI5c0lIZGhjMmhwYm1kMGIyNFFBSDJpbHpvXyIsInF1ZXN0aW9uIjoiSXMgTWVyY2VyIElzbGFuZCBIaWdoIFNjaG9vbCBhIGdvb2Qgc2Nob29sPyIsImxrIjoiYzVQU3lpeFd5RTB0U2s0dFVzZ3N6a25NUzFISXlFelBVQ2hPenNqUHoxRklWRWpQejAtQjhnQSIsImJzIjoiYzNXUXJRX0NNQkJIZ3oyRnJ1RndNRkFOWUt0SW1FQWhKbENYcmF4TnV0MnlGaGItZXo0R290bm0zM3QzLVFIRFBqTVU4RVlWM3owMm1odW5zZE4xd01CNDFtMnVXMHk5bzdyQWt5ME5YbkxEN0pROGlGMDNMVmE5YUh2UmZFVF9GZUVLbTlSUGg1R3daQzUtdEpKYmtWZ19uWXR4T0FJTzR2Ui1pbHd3VDZSV2s1SkxzUmdVWXdZeVdJLU00dXhESTlkeFhzbEVyRWFHLU1QUm5mbnNCUSIsImlkIjoiZmNfcVEtamF0ZU9KWmI1MXNRUHpOem4yQVlfMSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVRXNUxOR2RtWkhCQ1RuTlhkMHB5UlU1QmJWOHlaRFJ1WjNaMGJFWTJiVzVoUW1kVVpHUnJjSHB3TUc5MFRHRlBiVzFVV1dSV1owTXlaWGh6YmpNeU5HOXJNa2hTYlZoaE5HWjJPRk5DVWxoalkzSXdXVlF0V2xvelp4SVhjVkV0YW1GMFpVOUtXbUkxTVhOUlVIcE9lbTR5UVZrYUlrRkVjM0k1WmxGZlFtUkhkREk0T0ZWalJEZ3dSa3h5YUhsak1UZHVla0p4VWxFIiwiZmN2IjoiMyIsImVpIjoicVEtamF0ZU9KWmI1MXNRUHpOem4yQVkiLCJxYyI6IkNpUnRaWEpqWlhJZ2FYTnNZVzVrSUdocFoyZ2djMk5vYjI5c0lIZGhjMmhwYm1kMGIyNFFBSDJpbHpvXyIsInF1ZXN0aW9uIjoiSXMgTWVyY2VyIElzbGFuZCBIaWdoIFNjaG9vbCBhIGdvb2Qgc2Nob29sPyIsImxrIjoiYzVQU3lpeFd5RTB0U2s0dFVzZ3N6a25NUzFISXlFelBVQ2hPenNqUHoxRklWRWpQejAtQjhnQSIsImJzIjoiYzNXUXJRX0NNQkJIZ3oyRnJ1RndNRkFOWUt0SW1FQWhKbENYcmF4TnV0MnlGaGItZXo0R290bm0zM3QzLVFIRFBqTVU4RVlWM3owMm1odW5zZE4xd01CNDFtMnVXMHk5bzdyQWt5ME5YbkxEN0pROGlGMDNMVmE5YUh2UmZFVF9GZUVLbTlSUGg1R3daQzUtdEpKYmtWZ19uWXR4T0FJTzR2Ui1pbHd3VDZSV2s1SkxzUmdVWXdZeVdJLU00dXhESTlkeFhzbEVyRWFHLU1QUm5mbnNCUSIsImlkIjoiZmNfcVEtamF0ZU9KWmI1MXNRUHpOem4yQVlfMSJ9"
+  },
+  {
+   "question": "Is Mercer Island a wealthy area?",
+   "type": "ai_overview",
+   "page_token": "vef2rXicHdBRbtsgAABQ9TL9bMBRMi1SVCmLWYNmL8ZgbH4mDE5cDDZp3eDyt7vsVDvNpL0jvN9_7Os4_H249_Ps33erVQjh6TpNV9s9qcmt5PvnqFZKWttKNey2X7bw-aL26cfp8O12OhTM--pIQMm86OwwZ0eUlamXNNVIvuBPWiOs0nksExyKGp-aiJk05Ac3WFAuQmbygb-go6J2_EkrUsd8YgbPxOjIDCrpGiU8zUJbgrmO2FGIDYMkaaE_qUSfc_vVElqNethkuRNL5vK7jKIUFq-lm5YCaCFib1unzy0QIecbUiQ6YfFAijUpaIJmVtmhq8mieTXykYWMa5L2emElvDU1sRR42Ri2KIiKbthsW4MPnEyvBSNRGeuYgziHDDQc37LvIHa8urTgCgnozyrtG4680-Hxou779eP_z_2vi5t3_m26_gPKEYVh",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=vef2rXicHdBRbtsgAABQ9TL9bMBRMi1SVCmLWYNmL8ZgbH4mDE5cDDZp3eDyt7vsVDvNpL0jvN9_7Os4_H249_Ps33erVQjh6TpNV9s9qcmt5PvnqFZKWttKNey2X7bw-aL26cfp8O12OhTM--pIQMm86OwwZ0eUlamXNNVIvuBPWiOs0nksExyKGp-aiJk05Ac3WFAuQmbygb-go6J2_EkrUsd8YgbPxOjIDCrpGiU8zUJbgrmO2FGIDYMkaaE_qUSfc_vVElqNethkuRNL5vK7jKIUFq-lm5YCaCFib1unzy0QIecbUiQ6YfFAijUpaIJmVtmhq8mieTXykYWMa5L2emElvDU1sRR42Ri2KIiKbthsW4MPnEyvBSNRGeuYgziHDDQc37LvIHa8urTgCgnozyrtG4680-Hxou779eP_z_2vi5t3_m26_gPKEYVh",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVRXNUxOR2RtWkhCQ1RuTlhkMHB5UlU1QmJWOHlaRFJ1WjNaMGJFWTJiVzVoUW1kVVpHUnJjSHB3TUc5MFRHRlBiVzFVV1dSV1owTXlaWGh6YmpNeU5HOXJNa2hTYlZoaE5HWjJPRk5DVWxoalkzSXdXVlF0V2xvelp4SVhjVkV0YW1GMFpVOUtXbUkxTVhOUlVIcE9lbTR5UVZrYUlrRkVjM0k1WmxGZlFtUkhkREk0T0ZWalJEZ3dSa3h5YUhsak1UZHVla0p4VWxFIiwiZmN2IjoiMyIsImVpIjoicVEtamF0ZU9KWmI1MXNRUHpOem4yQVkiLCJxYyI6IkNpUnRaWEpqWlhJZ2FYTnNZVzVrSUdocFoyZ2djMk5vYjI5c0lIZGhjMmhwYm1kMGIyNFFBSDJpbHpvXyIsInF1ZXN0aW9uIjoiSXMgTWVyY2VyIElzbGFuZCBhIHdlYWx0aHkgYXJlYT8iLCJsayI6IkdoOXBjeUJ0WlhKalpYSWdhWE5zWVc1a0lHRWdkMlZoYkhSb2VTQmhjbVZoIiwiYnMiOiJjM1dRclFfQ01CQkhnejJGcnVGd01GQU5ZS3RJbUVBaEpsQ1hyYXhOdXQyeUZoYi1lejRHb3RubTMzdDMtUUhEUGpNVThFWVYzejAybWh1bnNkTjF3TUI0MW0ydVcweTlvN3JBa3kwTlhuTEQ3SlE4aUYwM0xWYTlhSHZSZkVUX0ZlRUttOVJQaDVHd1pDNS10Skpia1ZnX25ZdHhPQUlPNHZSLWlsd3dUNlJXazVKTHNSZ1VZd1l5V0ktTTR1eERJOWR4WHNsRXJFYUctTVBSbmZuc0JRIiwiaWQiOiJmY19xUS1qYXRlT0paYjUxc1FQek56bjJBWV8xIn0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVRXNUxOR2RtWkhCQ1RuTlhkMHB5UlU1QmJWOHlaRFJ1WjNaMGJFWTJiVzVoUW1kVVpHUnJjSHB3TUc5MFRHRlBiVzFVV1dSV1owTXlaWGh6YmpNeU5HOXJNa2hTYlZoaE5HWjJPRk5DVWxoalkzSXdXVlF0V2xvelp4SVhjVkV0YW1GMFpVOUtXbUkxTVhOUlVIcE9lbTR5UVZrYUlrRkVjM0k1WmxGZlFtUkhkREk0T0ZWalJEZ3dSa3h5YUhsak1UZHVla0p4VWxFIiwiZmN2IjoiMyIsImVpIjoicVEtamF0ZU9KWmI1MXNRUHpOem4yQVkiLCJxYyI6IkNpUnRaWEpqWlhJZ2FYTnNZVzVrSUdocFoyZ2djMk5vYjI5c0lIZGhjMmhwYm1kMGIyNFFBSDJpbHpvXyIsInF1ZXN0aW9uIjoiSXMgTWVyY2VyIElzbGFuZCBhIHdlYWx0aHkgYXJlYT8iLCJsayI6IkdoOXBjeUJ0WlhKalpYSWdhWE5zWVc1a0lHRWdkMlZoYkhSb2VTQmhjbVZoIiwiYnMiOiJjM1dRclFfQ01CQkhnejJGcnVGd01GQU5ZS3RJbUVBaEpsQ1hyYXhOdXQyeUZoYi1lejRHb3RubTMzdDMtUUhEUGpNVThFWVYzejAybWh1bnNkTjF3TUI0MW0ydVcweTlvN3JBa3kwTlhuTEQ3SlE4aUYwM0xWYTlhSHZSZkVUX0ZlRUttOVJQaDVHd1pDNS10Skpia1ZnX25ZdHhPQUlPNHZSLWlsd3dUNlJXazVKTHNSZ1VZd1l5V0ktTTR1eERJOWR4WHNsRXJFYUctTVBSbmZuc0JRIiwiaWQiOiJmY19xUS1qYXRlT0paYjUxc1FQek56bjJBWV8xIn0%3D"
+  },
+  {
+   "question": "What famous people live on Mercer Island?",
+   "type": "ai_overview",
+   "page_token": "D14_t3icHdBdbpswAABg9TJ9bKA0TI0UVaPBEBcnxfgn-GUCQ0KwjUlKAuVtd9mpdppJ-47w_f6jz536-3BvhqH_Wi0W4zg-naw96fpJWrMovr47uZCF1mUh1cr_4btvR7kOb9vg_bINUtr3bIMdEuuRzfCTKejtlDPj6PTNlX1BzvBJ-Y6WsTjUMbSIT5kgeoc9DFG4DESkIw6AL_gywQ7OMNnOqUefEdE-7gDlG2Bx9HpNDvBQt8JkprkxUAHBQLLndBYzm2pV3QraxPtQN4Lrj1y_5ih0BaNYZe8uTjJ3Jp7eksjxGAM54i8uCQfDFD4nvLLcMIBMc9mDn0MZQkw2ugubaqKZe8kPWBOnL_KWTtIFaa2WftnCgGN7TimeZasNNeNS6sqilrroWfAy3p3FJphy2l-JwpAT2KXp41He197j_8_1r6MZVv3Vnv4B0V6Dag",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=D14_t3icHdBdbpswAABg9TJ9bKA0TI0UVaPBEBcnxfgn-GUCQ0KwjUlKAuVtd9mpdppJ-47w_f6jz536-3BvhqH_Wi0W4zg-naw96fpJWrMovr47uZCF1mUh1cr_4btvR7kOb9vg_bINUtr3bIMdEuuRzfCTKejtlDPj6PTNlX1BzvBJ-Y6WsTjUMbSIT5kgeoc9DFG4DESkIw6AL_gywQ7OMNnOqUefEdE-7gDlG2Bx9HpNDvBQt8JkprkxUAHBQLLndBYzm2pV3QraxPtQN4Lrj1y_5ih0BaNYZe8uTjJ3Jp7eksjxGAM54i8uCQfDFD4nvLLcMIBMc9mDn0MZQkw2ugubaqKZe8kPWBOnL_KWTtIFaa2WftnCgGN7TimeZasNNeNS6sqilrroWfAy3p3FJphy2l-JwpAT2KXp41He197j_8_1r6MZVv3Vnv4B0V6Dag",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVRXNUxOR2RtWkhCQ1RuTlhkMHB5UlU1QmJWOHlaRFJ1WjNaMGJFWTJiVzVoUW1kVVpHUnJjSHB3TUc5MFRHRlBiVzFVV1dSV1owTXlaWGh6YmpNeU5HOXJNa2hTYlZoaE5HWjJPRk5DVWxoalkzSXdXVlF0V2xvelp4SVhjVkV0YW1GMFpVOUtXbUkxTVhOUlVIcE9lbTR5UVZrYUlrRkVjM0k1WmxGZlFtUkhkREk0T0ZWalJEZ3dSa3h5YUhsak1UZHVla0p4VWxFIiwiZmN2IjoiMyIsImVpIjoicVEtamF0ZU9KWmI1MXNRUHpOem4yQVkiLCJxYyI6IkNpUnRaWEpqWlhJZ2FYTnNZVzVrSUdocFoyZ2djMk5vYjI5c0lIZGhjMmhwYm1kMGIyNFFBSDJpbHpvXyIsInF1ZXN0aW9uIjoiV2hhdCBmYW1vdXMgcGVvcGxlIGxpdmUgb24gTWVyY2VyIElzbGFuZD8iLCJsayI6IkdpaDNhR0YwSUdaaGJXOTFjeUJ3Wlc5d2JHVWdiR2wyWlNCdmJpQnRaWEpqWlhJZ2FYTnNZVzVrIiwiYnMiOiJjM1dRclFfQ01CQkhnejJGcnVGd01GQU5ZS3RJbUVBaEpsQ1hyYXhOdXQyeUZoYi1lejRHb3RubTMzdDMtUUhEUGpNVThFWVYzejAybWh1bnNkTjF3TUI0MW0ydVcweTlvN3JBa3kwTlhuTEQ3SlE4aUYwM0xWYTlhSHZSZkVUX0ZlRUttOVJQaDVHd1pDNS10Skpia1ZnX25ZdHhPQUlPNHZSLWlsd3dUNlJXazVKTHNSZ1VZd1l5V0ktTTR1eERJOWR4WHNsRXJFYUctTVBSbmZuc0JRIiwiaWQiOiJmY19xUS1qYXRlT0paYjUxc1FQek56bjJBWV8xIn0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVRXNUxOR2RtWkhCQ1RuTlhkMHB5UlU1QmJWOHlaRFJ1WjNaMGJFWTJiVzVoUW1kVVpHUnJjSHB3TUc5MFRHRlBiVzFVV1dSV1owTXlaWGh6YmpNeU5HOXJNa2hTYlZoaE5HWjJPRk5DVWxoalkzSXdXVlF0V2xvelp4SVhjVkV0YW1GMFpVOUtXbUkxTVhOUlVIcE9lbTR5UVZrYUlrRkVjM0k1WmxGZlFtUkhkREk0T0ZWalJEZ3dSa3h5YUhsak1UZHVla0p4VWxFIiwiZmN2IjoiMyIsImVpIjoicVEtamF0ZU9KWmI1MXNRUHpOem4yQVkiLCJxYyI6IkNpUnRaWEpqWlhJZ2FYTnNZVzVrSUdocFoyZ2djMk5vYjI5c0lIZGhjMmhwYm1kMGIyNFFBSDJpbHpvXyIsInF1ZXN0aW9uIjoiV2hhdCBmYW1vdXMgcGVvcGxlIGxpdmUgb24gTWVyY2VyIElzbGFuZD8iLCJsayI6IkdpaDNhR0YwSUdaaGJXOTFjeUJ3Wlc5d2JHVWdiR2wyWlNCdmJpQnRaWEpqWlhJZ2FYTnNZVzVrIiwiYnMiOiJjM1dRclFfQ01CQkhnejJGcnVGd01GQU5ZS3RJbUVBaEpsQ1hyYXhOdXQyeUZoYi1lejRHb3RubTMzdDMtUUhEUGpNVThFWVYzejAybWh1bnNkTjF3TUI0MW0ydVcweTlvN3JBa3kwTlhuTEQ3SlE4aUYwM0xWYTlhSHZSZkVUX0ZlRUttOVJQaDVHd1pDNS10Skpia1ZnX25ZdHhPQUlPNHZSLWlsd3dUNlJXazVKTHNSZ1VZd1l5V0ktTTR1eERJOWR4WHNsRXJFYUctTVBSbmZuc0JRIiwiaWQiOiJmY19xUS1qYXRlT0paYjUxc1FQek56bjJBWV8xIn0%3D"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Home - Mercer Island School District 400",
+   "link": "https://www.mercerislandschools.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXAHrOzAV1HNgGwcjY7nLjfbuvX16tCjQCWQ9nJN_aco4Ge09PCeYTqledLoV7lgwjkU0wegVaCpiimvBjjnzSAD_fZQJo2-i4SUpSIZKdSGf4gNoJOMkOHpAcRa3&ved=2ahUKEwiXh_ft6eSWAxWWvJUCHUzuGWsQFnoECEQQAQ&uoh=1",
+   "displayed_link": "https://www.mercerislandschools.org",
+   "favicon": "https://serpapi.com/searches/6aa30f9ee6590e68277100d5/images/lboKSDCp_phOlc-hWOUnbz8Qin-iMWQyr_pjvM316Xk.png",
+   "snippet": "Mercer Island High School \u00b7 Islander Middle School \u00b7 Island Park Elementary School \u00b7 Lakeridge Elementary School \u00b7 Northwood Elementary School \u00b7 West Mercer ...",
+   "snippet_highlighted_words": [
+    "Mercer Island High School"
+   ],
+   "sitelinks": {
+    "inline": [
+     {
+      "title": "Enrollment",
+      "link": "https://www.mercerislandschools.org/enrollment/newstudents"
+     },
+     {
+      "title": "Connect",
+      "link": "https://www.mercerislandschools.org/connect/contact-us"
+     },
+     {
+      "title": "School Board",
+      "link": "https://www.mercerislandschools.org/school-board/school-board-information"
+     },
+     {
+      "title": "About Us",
+      "link": "https://www.mercerislandschools.org/about-us"
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Mercer Island High School \u00b7 Islander Middle School \u00b7 Island Park Elementary School \u00b7 Lakeridge Elementary School \u00b7 Northwood Elementary School \u00b7 West Mercer ...",
+     "source_info_link": "https://www.mercerislandschools.org/",
+     "icon": "https://serpapi.com/searches/6aa30f9ee6590e68277100d5/images/lboKSDCp_phOlc-hWOUnb6vG2IjhD_s7IawyYB2_FrNlYWgwajh50zUtCpG-SA_7.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESXAHrOzAV1HNgGwcjY7nLjfbuvX16tCjQCWQ9nJN_aco4Ge09PCeYTqledLoV7lgwjkU0wegVaCpiimvBjjnzSAD_fZQJo2-i4SUpSIZKdSGf4gNoJOMkOHpAcRa3&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESXAHrOzAV1HNgGwcjY7nLjfbuvX16tCjQCWQ9nJN_aco4Ge09PCeYTqledLoV7lgwjkU0wegVaCpiimvBjjnzSAD_fZQJo2-i4SUpSIZKdSGf4gNoJOMkOHpAcRa3",
+   "source": "Mercer Island School District",
+   "read_more_link": "https://www.mercerislandschools.org/#:~:text=Open%20Menu"
+  },
+  {
+   "position": 2,
+   "title": "Mercer Island High School: Home",
+   "link": "https://mihs.mercerislandschools.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXQHrOzAVGr1lthVDlAmVYlp3awHqr8cd2XEsF9QHVCXmdc_9m73BC5rEWr1RVe_L0Jz-IAOQdCHcIyYEgA4ZbCV782oQamtOJXGoyC-EhlrvPRmqPT3JsO3_yvjvFA&ved=2ahUKEwiXh_ft6eSWAxWWvJUCHUzuGWsQFnoECEUQAQ&uoh=1",
+   "displayed_link": "https://mihs.mercerislandschools.org",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAeFBMVEX____9-vr-_f3w19fEZGbDYGLdpKb__v7mvb7eqarpxsekDhKjDRGsIib57--0Oz-kDRHOfoCmFBjVkJLy3d7IbnC4REbLdniqHiLSiIr79vbWlZeoGR3ow8SuKi67TlHjtbayMza5R0r15ebtz9C-U1W_WlvanZ6ArYn0AAABxklEQVR4AW3QB4KEIBAEwBHMugiCnoI5_v-HN7A59AbGtowAng2Br5DbDuoHmPBLRHFgk0Ca5ZgL_QSs4NhzAWmZYXLf-7iAzFyPIHMpY9veEgGoC78BVbmR1ww8-ecicKzyzKZpIdL1dTZEF9ylU9B3tuJdygBugA9KF25CoEd-m-AGMHnFHiDE5R1we59TXdq6G9KZY_UK-KXBUyw07nARq7B-eAG4z3WGIuByQ81nkb8BNXO8z96C1rc4Me9AJ1hy317C_e36E-gdi93uC_BWmy36BLA1T8CF9w08we-Azyt8A1jnxxmS6BeAMLuC7NDwE-j9Ci4b_AaQBg605BVoWiAoKAMgypT2ZWzE1vbddvEKaZPZdIm9ROnmGTFt3Fy2kF7L3IIld-Ngwa0WCHIXBzjnODpwqwVsl8YFgXdcx0IjuNUtaKoUfpUGjzFc7ZancaRUrYoyYHtcGdMKj5yBlkd_ykokyWHi8TyoL2PQY-ofmxGEtbUKR5EYEY_TcrJa7rT-WxH0cVtJ0YdyP8N4Po1I_Onot1qONN4T0GYLz206w5BO4aQmHJM1NeEmtzM-TwYRiYAAEOLWKML_CEsCBEdc_gEpbzgxhBk1RwAAAABJRU5ErkJggg.png",
+   "snippet": "Mercer Island High School (MIHS) is proud to announce that 37 students from the MIHS Band have been selected to participate in the 2026 Washington All-State ...",
+   "snippet_highlighted_words": [
+    "Mercer Island High School",
+    "Washington"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Mercer Island High School (MIHS) is proud to announce that 37 students from the MIHS Band have been selected to participate in the 2026 Washington All-State ...",
+     "source_info_link": "https://mihs.mercerislandschools.org/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAeFBMVEX____9-vr-_f3w19fEZGbDYGLdpKb__v7mvb7eqarpxsekDhKjDRGsIib57--0Oz-kDRHOfoCmFBjVkJLy3d7IbnC4REbLdniqHiLSiIr79vbWlZeoGR3ow8SuKi67TlHjtbayMza5R0r15ebtz9C-U1W_WlvanZ6ArYn0AAABxklEQVR4AW3QB4KEIBAEwBHMugiCnoI5_v-HN7A59AbGtowAng2Br5DbDuoHmPBLRHFgk0Ca5ZgL_QSs4NhzAWmZYXLf-7iAzFyPIHMpY9veEgGoC78BVbmR1ww8-ecicKzyzKZpIdL1dTZEF9ylU9B3tuJdygBugA9KF25CoEd-m-AGMHnFHiDE5R1we59TXdq6G9KZY_UK-KXBUyw07nARq7B-eAG4z3WGIuByQ81nkb8BNXO8z96C1rc4Me9AJ1hy317C_e36E-gdi93uC_BWmy36BLA1T8CF9w08we-Azyt8A1jnxxmS6BeAMLuC7NDwE-j9Ci4b_AaQBg605BVoWiAoKAMgypT2ZWzE1vbddvEKaZPZdIm9ROnmGTFt3Fy2kF7L3IIld-Ngwa0WCHIXBzjnODpwqwVsl8YFgXdcx0IjuNUtaKoUfpUGjzFc7ZancaRUrYoyYHtcGdMKj5yBlkd_ykokyWHi8TyoL2PQY-ofmxGEtbUKR5EYEY_TcrJa7rT-WxH0cVtJ0YdyP8N4Po1I_Onot1qONN4T0GYLz206w5BO4aQmHJM1NeEmtzM-TwYRiYAAEOLWKML_CEsCBEdc_gEpbzgxhBk1RwAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESXQHrOzAVGr1lthVDlAmVYlp3awHqr8cd2XEsF9QHVCXmdc_9m73BC5rEWr1RVe_L0Jz-IAOQdCHcIyYEgA4ZbCV782oQamtOJXGoyC-EhlrvPRmqPT3JsO3_yvjvFA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESXQHrOzAVGr1lthVDlAmVYlp3awHqr8cd2XEsF9QHVCXmdc_9m73BC5rEWr1RVe_L0Jz-IAOQdCHcIyYEgA4ZbCV782oQamtOJXGoyC-EhlrvPRmqPT3JsO3_yvjvFA",
+   "source": "Mercer Island High School",
+   "read_more_link": "https://mihs.mercerislandschools.org/#:~:text=Feb%205%202024"
+  },
+  {
+   "position": 3,
+   "title": "Mercer Island High School",
+   "link": "https://en.wikipedia.org/wiki/Mercer_Island_High_School",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAVLI6y89zYWpt32FPyWUjpO49w3ugbpXUlkOYuZAoJJ63jQmKdssaFlyZGhdwaExjSNqxBA7ivXWfUwY0lHsnSRUfGdQcbkd4191qIy80lkp3MbbCAES2lmHCjEo--ufQf2QmSRnbH5r2xrg&ved=2ahUKEwiXh_ft6eSWAxWWvJUCHUzuGWsQFnoECEwQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Mercer_Island_High_...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+   "snippet": "Mercer Island High School (MIHS) is a public high school located in Mercer Island, Washington, United States, as part of the Mercer Island School District.",
+   "snippet_highlighted_words": [
+    "Mercer Island High School",
+    "Washington"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Mercer Island High School (MIHS) is a public high school located in Mercer Island, Washington, United States, as part of the Mercer Island School District.",
+     "source_info_link": "https://en.wikipedia.org/wiki/Mercer_Island_High_School",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESbwHrOzAVLI6y89zYWpt32FPyWUjpO49w3ugbpXUlkOYuZAoJJ63jQmKdssaFlyZGhdwaExjSNqxBA7ivXWfUwY0lHsnSRUfGdQcbkd4191qIy80lkp3MbbCAES2lmHCjEo--ufQf2QmSRnbH5r2xrg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESbwHrOzAVLI6y89zYWpt32FPyWUjpO49w3ugbpXUlkOYuZAoJJ63jQmKdssaFlyZGhdwaExjSNqxBA7ivXWfUwY0lHsnSRUfGdQcbkd4191qIy80lkp3MbbCAES2lmHCjEo--ufQf2QmSRnbH5r2xrg",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Mercer_Island_High_School#:~:text=Mercer%20Island%20High%20School%20(MIHS),the%20Mercer%20Island%20School%20District."
+  },
+  {
+   "position": 4,
+   "title": "Mercer Island High School - Washington",
+   "link": "https://www.usnews.com/education/best-high-schools/washington/districts/mercer-island-school-district/mercer-island-high-school-20995",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESvgEB6zswFcnvFx6jlZrHx7QvtjjVsvjOoibCp-AWwm4yWSlRpQTDK28iDHowOmfScpghV-vONqymk6KWAtaOT6fvE3giHOVwO9MdaoLdNrVk1dFhYJaXawPShOh1g--fus_1nzpsVMNH6Pc52ZmvzeWnaWDL-R-dYpFwZne6nJzmy6Mo6l3ps59OQi3GBD9n6D98tKWCrPHRq1__2D95IcYBolCojRzR-lajKmfj4TOVIuu2bv1SpNoLblgMXxnk&ved=2ahUKEwiXh_ft6eSWAxWWvJUCHUzuGWsQFnoECEgQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a washington \u203a districts \u203a mer...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png",
+   "snippet": "Mercer Island High School is ranked fifth within Washington. Students have the opportunity to take Advanced Placement\u00ae coursework and exams. The AP\u00ae ...",
+   "snippet_highlighted_words": [
+    "Mercer Island High School",
+    "Washington"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Mercer Island High School is ranked fifth within Washington. Students have the opportunity to take Advanced Placement\u00ae coursework and exams. The AP\u00ae ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/washington/districts/mercer-island-school-district/mercer-island-high-school-20995",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEUAXqYAWaQAXKUAWqR-ncYSYqhzlsIATZ9ii7yOqs1AdrEAVaJHerN4nMU0cK9WhLleibv___8ASp74-vzk6_PU3eoAPpmEpcq0yN6btdTBz-Ikaavv8_gARJva4-7G2uyswdoAaK-_1urp9Pzi8frR4_FRi8BuncmuyuMmdrXfeHfXb3HVbW_DFiHEISrPdtutAAAAvUlEQVR4Ae2KRQKDMBQFI7g7Ce4O9z9e0XVX9c6LfBnw562AAEGAIQYYA4hWMMIr63fuGchyvCBKsqDIqqTpuiDpwhpDOAzetDSbcRhTc03PNHyiUlX0RYYGCr6EMNLNQI3dhNq-S4LVE6kb0UBe1wjxphdGoaZEgqvYppuSIMiCxGEDJ5ARAnmOi7KsCjsty7ppzbasu8bsy7QpSQnzHAzDME7TNK6ZxrVcMw7TsNZruS7BfAew3OFpwl-4AXUfW3ruugP2AAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESvgEB6zswFcnvFx6jlZrHx7QvtjjVsvjOoibCp-AWwm4yWSlRpQTDK28iDHowOmfScpghV-vONqymk6KWAtaOT6fvE3giHOVwO9MdaoLdNrVk1dFhYJaXawPShOh1g--fus_1nzpsVMNH6Pc52ZmvzeWnaWDL-R-dYpFwZne6nJzmy6Mo6l3ps59OQi3GBD9n6D98tKWCrPHRq1__2D95IcYBolCojRzR-lajKmfj4TOVIuu2bv1SpNoLblgMXxnk&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESvgEB6zswFcnvFx6jlZrHx7QvtjjVsvjOoibCp-AWwm4yWSlRpQTDK28iDHowOmfScpghV-vONqymk6KWAtaOT6fvE3giHOVwO9MdaoLdNrVk1dFhYJaXawPShOh1g--fus_1nzpsVMNH6Pc52ZmvzeWnaWDL-R-dYpFwZne6nJzmy6Mo6l3ps59OQi3GBD9n6D98tKWCrPHRq1__2D95IcYBolCojRzR-lajKmfj4TOVIuu2bv1SpNoLblgMXxnk",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/washington/districts/mercer-island-school-district/mercer-island-high-school-20995#:~:text=Mercer%20Island%20High%20School%20is,grade%20enrollment%20is%20376%20students."
+  },
+  {
+   "position": 5,
+   "title": "Mercer Island High School Employees, Location, Alumni",
+   "link": "https://www.linkedin.com/school/mercer-island-high-school/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScgHrOzAVG_hYV6Lb-5vVKkU2LKiLsamRiLyKCnqpD_WZ33A_sJsij1VzZ_ClPeEZB7imW1G94WylCQh13hoFciykPS2EUGig10kDpQTJx5sxrf9nNcRZWc5ISthjs0v6D_8uo4WnBIRxO9FHVyFx63hp3w&ved=2ahUKEwiXh_ft6eSWAxWWvJUCHUzuGWsQFnoECEkQAQ&uoh=1",
+   "displayed_link": "3K+ followers",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAm0lEQVR4AWP4__8_RRhMyLfs3sNQvOk_KRikB24ATNB2yhEQJtoQuAEwzVAAYtPVAMJe4Cjf8l-0bsd_RkIGQAGc_ej9t_-TDt_7_-vPXzD_6Yfv_-2nHSXWAAT49P33_z9__4HZl559JM2Aqm3XwXyXGcfA_H___pFmgFj9DjCfp3IrTIgkA5ADbbAbQA6mKDPp9x7YBTOAIgwAVba5DGceMlQAAAAASUVORK5CYII.png",
+   "snippet": "Mercer Island High School is a company based out of 9100 SE 42nd, Mercer Island, Washington, United States. Website: https://www.mercerislandschools.org/ ...",
+   "snippet_highlighted_words": [
+    "Mercer Island High School",
+    "Washington"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Mercer Island High School is a company based out of 9100 SE 42nd, Mercer Island, Washington, United States. Website: https://www.mercerislandschools.org/ ...",
+     "source_info_link": "https://www.linkedin.com/school/mercer-island-high-school/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAm0lEQVR4AWP4__8_RRhMyLfs3sNQvOk_KRikB24ATNB2yhEQJtoQuAEwzVAAYtPVAMJe4Cjf8l-0bsd_RkIGQAGc_ej9t_-TDt_7_-vPXzD_6Yfv_-2nHSXWAAT49P33_z9__4HZl559JM2Aqm3XwXyXGcfA_H___pFmgFj9DjCfp3IrTIgkA5ADbbAbQA6mKDPp9x7YBTOAIgwAVba5DGceMlQAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEScgHrOzAVG_hYV6Lb-5vVKkU2LKiLsamRiLyKCnqpD_WZ33A_sJsij1VzZ_ClPeEZB7imW1G94WylCQh13hoFciykPS2EUGig10kDpQTJx5sxrf9nNcRZWc5ISthjs0v6D_8uo4WnBIRxO9FHVyFx63hp3w&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEScgHrOzAVG_hYV6Lb-5vVKkU2LKiLsamRiLyKCnqpD_WZ33A_sJsij1VzZ_ClPeEZB7imW1G94WylCQh13hoFciykPS2EUGig10kDpQTJx5sxrf9nNcRZWc5ISthjs0v6D_8uo4WnBIRxO9FHVyFx63hp3w",
+   "source": "LinkedIn \u00b7 Mercer Island High School",
+   "read_more_link": "https://www.linkedin.com/school/mercer-island-high-school/#:~:text=Mercer%20Island%20High%20School%20is,https%3A%2F%2Fwww.mercerislandschools.org%2Fmihs"
+  },
+  {
+   "position": 6,
+   "title": "About Us - Mercer Island High School",
+   "link": "https://mihs.mercerislandschools.org/about",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYgHrOzAVZh3Oh2qJeEZ3HoFZ0NuBL6e7k2i-FxXNA_gTHgLhqeUlD6kC-3lFkuT-ryKVoV1Ft0SS2V3Z3edb1awGykDMxllxID5Lv5MRWYzfRVXRoMEyQLjQ4EsaW_NzAC72&ved=2ahUKEwiXh_ft6eSWAxWWvJUCHUzuGWsQFnoECEYQAQ&uoh=1",
+   "displayed_link": "https://mihs.mercerislandschools.org \u203a about",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAeFBMVEX____9-vr-_f3w19fEZGbDYGLdpKb__v7mvb7eqarpxsekDhKjDRGsIib57--0Oz-kDRHOfoCmFBjVkJLy3d7IbnC4REbLdniqHiLSiIr79vbWlZeoGR3ow8SuKi67TlHjtbayMza5R0r15ebtz9C-U1W_WlvanZ6ArYn0AAABxklEQVR4AW3QB4KEIBAEwBHMugiCnoI5_v-HN7A59AbGtowAng2Br5DbDuoHmPBLRHFgk0Ca5ZgL_QSs4NhzAWmZYXLf-7iAzFyPIHMpY9veEgGoC78BVbmR1ww8-ecicKzyzKZpIdL1dTZEF9ylU9B3tuJdygBugA9KF25CoEd-m-AGMHnFHiDE5R1we59TXdq6G9KZY_UK-KXBUyw07nARq7B-eAG4z3WGIuByQ81nkb8BNXO8z96C1rc4Me9AJ1hy317C_e36E-gdi93uC_BWmy36BLA1T8CF9w08we-Azyt8A1jnxxmS6BeAMLuC7NDwE-j9Ci4b_AaQBg605BVoWiAoKAMgypT2ZWzE1vbddvEKaZPZdIm9ROnmGTFt3Fy2kF7L3IIld-Ngwa0WCHIXBzjnODpwqwVsl8YFgXdcx0IjuNUtaKoUfpUGjzFc7ZancaRUrYoyYHtcGdMKj5yBlkd_ykokyWHi8TyoL2PQY-ofmxGEtbUKR5EYEY_TcrJa7rT-WxH0cVtJ0YdyP8N4Po1I_Onot1qONN4T0GYLz206w5BO4aQmHJM1NeEmtzM-TwYRiYAAEOLWKML_CEsCBEdc_gEpbzgxhBk1RwAAAABJRU5ErkJggg.png",
+   "snippet": "Mercer Island High School (MIHS) is a comprehensive four-year public high school and includes Crest Learning Center \u2013 an alternative high school program. Local ...",
+   "snippet_highlighted_words": [
+    "Mercer Island High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Mercer Island High School (MIHS) is a comprehensive four-year public high school and includes Crest Learning Center \u2013 an alternative high school program. Local ...",
+     "source_info_link": "https://mihs.mercerislandschools.org/about",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAeFBMVEX____9-vr-_f3w19fEZGbDYGLdpKb__v7mvb7eqarpxsekDhKjDRGsIib57--0Oz-kDRHOfoCmFBjVkJLy3d7IbnC4REbLdniqHiLSiIr79vbWlZeoGR3ow8SuKi67TlHjtbayMza5R0r15ebtz9C-U1W_WlvanZ6ArYn0AAABxklEQVR4AW3QB4KEIBAEwBHMugiCnoI5_v-HN7A59AbGtowAng2Br5DbDuoHmPBLRHFgk0Ca5ZgL_QSs4NhzAWmZYXLf-7iAzFyPIHMpY9veEgGoC78BVbmR1ww8-ecicKzyzKZpIdL1dTZEF9ylU9B3tuJdygBugA9KF25CoEd-m-AGMHnFHiDE5R1we59TXdq6G9KZY_UK-KXBUyw07nARq7B-eAG4z3WGIuByQ81nkb8BNXO8z96C1rc4Me9AJ1hy317C_e36E-gdi93uC_BWmy36BLA1T8CF9w08we-Azyt8A1jnxxmS6BeAMLuC7NDwE-j9Ci4b_AaQBg605BVoWiAoKAMgypT2ZWzE1vbddvEKaZPZdIm9ROnmGTFt3Fy2kF7L3IIld-Ngwa0WCHIXBzjnODpwqwVsl8YFgXdcx0IjuNUtaKoUfpUGjzFc7ZancaRUrYoyYHtcGdMKj5yBlkd_ykokyWHi8TyoL2PQY-ofmxGEtbUKR5EYEY_TcrJa7rT-WxH0cVtJ0YdyP8N4Po1I_Onot1qONN4T0GYLz206w5BO4aQmHJM1NeEmtzM-TwYRiYAAEOLWKML_CEsCBEdc_gEpbzgxhBk1RwAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYgHrOzAVZh3Oh2qJeEZ3HoFZ0NuBL6e7k2i-FxXNA_gTHgLhqeUlD6kC-3lFkuT-ryKVoV1Ft0SS2V3Z3edb1awGykDMxllxID5Lv5MRWYzfRVXRoMEyQLjQ4EsaW_NzAC72&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYgHrOzAVZh3Oh2qJeEZ3HoFZ0NuBL6e7k2i-FxXNA_gTHgLhqeUlD6kC-3lFkuT-ryKVoV1Ft0SS2V3Z3edb1awGykDMxllxID5Lv5MRWYzfRVXRoMEyQLjQ4EsaW_NzAC72",
+   "source": "Mercer Island High School",
+   "read_more_link": "https://mihs.mercerislandschools.org/about#:~:text=Mercer%20Island%20High%20School%20(MIHS),at%20Mercer%20Island%20High%20School."
+  },
+  {
+   "position": 7,
+   "title": "Mercer Island High School - Home",
+   "link": "https://www.facebook.com/pages/Mercer-Island-High-School/106136996084734",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgAEB6zswFYkGdia-JoIGWKoN_HClxuQYiFRSQnkEFyXKIqhrvF982Xg6HXW7aOmWx3qSmbDOCcRIbmbhtj8I38iIgxBTEpf81qFTc3aImS7yl0jCAcHRji7OaSYPT4mAKao4aUGm6h_qJdmBFKcVS7NmpoPjG4KHlmcLZ_9p1n6agA&ved=2ahUKEwiXh_ft6eSWAxWWvJUCHUzuGWsQFnoECE4QAQ&uoh=1",
+   "displayed_link": "https://www.facebook.com \u203a pages \u203a Mercer-Island-Hig...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "snippet": "Mercer Island High School is a public high school located in Mercer Island, Washington in the United States, as part of the Mercer Island School District.",
+   "snippet_highlighted_words": [
+    "Mercer Island High School",
+    "Washington"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Mercer Island High School is a public high school located in Mercer Island, Washington in the United States, as part of the Mercer Island School District.",
+     "source_info_link": "https://www.facebook.com/pages/Mercer-Island-High-School/106136996084734",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESgAEB6zswFYkGdia-JoIGWKoN_HClxuQYiFRSQnkEFyXKIqhrvF982Xg6HXW7aOmWx3qSmbDOCcRIbmbhtj8I38iIgxBTEpf81qFTc3aImS7yl0jCAcHRji7OaSYPT4mAKao4aUGm6h_qJdmBFKcVS7NmpoPjG4KHlmcLZ_9p1n6agA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESgAEB6zswFYkGdia-JoIGWKoN_HClxuQYiFRSQnkEFyXKIqhrvF982Xg6HXW7aOmWx3qSmbDOCcRIbmbhtj8I38iIgxBTEpf81qFTc3aImS7yl0jCAcHRji7OaSYPT4mAKao4aUGm6h_qJdmBFKcVS7NmpoPjG4KHlmcLZ_9p1n6agA",
+   "source": "Facebook",
+   "read_more_link": "https://www.facebook.com/pages/Mercer-Island-High-School/106136996084734#:~:text=Mercer%20Island%20High%20School%20is,the%20Mercer%20Island%20School%20District."
+  },
+  {
+   "position": 8,
+   "title": "Mercer Island High School",
+   "link": "https://www.niche.com/k12/mercer-island-high-school-mercer-island-wa/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAVd6YotAEjZl4QNzLDdLGkQWH_0IUU7lYGV7sqqr83YreXW_vHORz9gMXaHUa0ueUZffOAuGGUC8HKhosu3mA6WxFmtlIZcD8zlEt9cn1wlYYI_RKu0xKSXh60Q2RcBcL5yAkUYAg3UgbLb8GPV9QBl56hqD56vwVX&ved=2ahUKEwiXh_ft6eSWAxWWvJUCHUzuGWsQFnoECH0QAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a Washington",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png",
+   "snippet": "Mercer Island High School is a top rated, public school located in MERCER ISLAND, WA. It has 1439 students in grades 9-12 with a student-teacher ratio of 19 ...",
+   "snippet_highlighted_words": [
+    "Mercer Island High School",
+    "WA"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 3.8,
+      "reviews": 257
+     },
+     "extensions": [
+      "3.8(257)"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Mercer Island High School is a top rated, public school located in MERCER ISLAND, WA. It has 1439 students in grades 9-12 with a student-teacher ratio of 19 ...",
+     "source_info_link": "https://www.niche.com/k12/mercer-island-high-school-mercer-island-wa/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUAMCQALiEAKRsAHAYADgAoRTxMYFohQDYACAAAEwA8U0zBx8X___8AHgpdb2lXaWOyubfFy8kAIhH09_bp7OsAKBoAGQDW29kaPDHQ1dMAAAAAJRZkdG8uSkG7wsCTnJmhqqcAFQDe4uCAjYkSOC2Gko5vfnmapaEzEkZcAAABNUlEQVR4Aa3SVYLDIBQFUB5EILwYRCF12_8OZ5B6-9cbz0lw8psApfBZKEvSLMs5o28EopDoIwsBz0ZLibIqORd1g62iT0Z0l4re3w5kxOlBodSz6Wl8sKZBgBsK2RlaZNZbuvRmHvnVaIErytaYun_VBhNQWPURmWwFYQ1qBQ51Qth23EVM3HdsLfWeR4QcFXiDFBn5x_WEaxOQGKypR1ojdyjNgptdQLE_2Gdkuw0uicfdFWGFu4DErDH3yPXSXxuU0YCE77VD6PEIAYe2GSKC0tglRJ3-TyE0QwAmW-buU9QJ4dpX6ZPMs7GHk3-21VaJreYPKwC3xsZvqRJnLGikUFjLSoiTcsFaPU_oiJcj3-0SddB6dbUY4MuIehw77A78fRX1wlaHw0IS-2VlWtsD-UX-AGxSFWLHk2htAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESfQHrOzAVd6YotAEjZl4QNzLDdLGkQWH_0IUU7lYGV7sqqr83YreXW_vHORz9gMXaHUa0ueUZffOAuGGUC8HKhosu3mA6WxFmtlIZcD8zlEt9cn1wlYYI_RKu0xKSXh60Q2RcBcL5yAkUYAg3UgbLb8GPV9QBl56hqD56vwVX&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESfQHrOzAVd6YotAEjZl4QNzLDdLGkQWH_0IUU7lYGV7sqqr83YreXW_vHORz9gMXaHUa0ueUZffOAuGGUC8HKhosu3mA6WxFmtlIZcD8zlEt9cn1wlYYI_RKu0xKSXh60Q2RcBcL5yAkUYAg3UgbLb8GPV9QBl56hqD56vwVX",
+   "source": "Niche"
+  },
+  {
+   "position": 9,
+   "title": "Considering move to Mercer Island. How is the high school ...",
+   "link": "https://www.reddit.com/r/MercerIslandWA/comments/1r1ezqv/considering_move_to_mercer_island_how_is_the_high/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESowEB6zswFTZ70ucc7SuirY-obsbrL8SBSloTFCmKJZ5xycLiu2mNCnSYNs1ffFZDHmpFEbiD946tdCbu_eBrduQD1_Z07RRXcBa_JYJHJH3ou-PF4VXMKwXQYFq1U0v2CwaB3zzHr8WSvGSlos-iYHUwtw-5mXSZGXgtmBGHB_zH6uSoWNhNR7hqsRr8opQZKIZSYGilg1DJAzao4Kp0aP-q9LYT&ved=2ahUKEwiXh_ft6eSWAxWWvJUCHUzuGWsQFnoECH4QAQ&uoh=1",
+   "displayed_link": "30+ comments \u00b7 7 months ago",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+   "snippet": "Mercer Island high school has a dedicated drug abuse counselor\u2014 that should say it all. Many parents seem to be functional alcoholics and push ...",
+   "snippet_highlighted_words": [
+    "Mercer Island high school"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Mercer Island high school has a dedicated drug abuse counselor\u2014 that should say it all. Many parents seem to be functional alcoholics and push ...",
+     "source_info_link": "https://www.reddit.com/r/MercerIslandWA/comments/1r1ezqv/considering_move_to_mercer_island_how_is_the_high/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESowEB6zswFTZ70ucc7SuirY-obsbrL8SBSloTFCmKJZ5xycLiu2mNCnSYNs1ffFZDHmpFEbiD946tdCbu_eBrduQD1_Z07RRXcBa_JYJHJH3ou-PF4VXMKwXQYFq1U0v2CwaB3zzHr8WSvGSlos-iYHUwtw-5mXSZGXgtmBGHB_zH6uSoWNhNR7hqsRr8opQZKIZSYGilg1DJAzao4Kp0aP-q9LYT&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESowEB6zswFTZ70ucc7SuirY-obsbrL8SBSloTFCmKJZ5xycLiu2mNCnSYNs1ffFZDHmpFEbiD946tdCbu_eBrduQD1_Z07RRXcBa_JYJHJH3ou-PF4VXMKwXQYFq1U0v2CwaB3zzHr8WSvGSlos-iYHUwtw-5mXSZGXgtmBGHB_zH6uSoWNhNR7hqsRr8opQZKIZSYGilg1DJAzao4Kp0aP-q9LYT",
+   "source": "Reddit \u00b7 r/MercerIslandWA",
+   "read_more_link": "https://www.reddit.com/r/MercerIslandWA/comments/1r1ezqv/considering_move_to_mercer_island_how_is_the_high/#:~:text=Mercer%20Island%20high%20school%20has,the%20snail%20pound%20dysfunctional%20culture."
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Mercer island high school washington ranking",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntUWkceZ_FdXogeANUyZbrh1z4tpg:1789071273617&q=Mercer+island+high+school+washington+ranking&sa=X&ved=2ahUKEwiXh_ft6eSWAxWWvJUCHUzuGWsQ1QJ6BAh_EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mercer+island+high+school+washington+ranking"
+  },
+  {
+   "block_position": 1,
+   "query": "Mercer island high school washington yearbook",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntUWkceZ_FdXogeANUyZbrh1z4tpg:1789071273617&q=Mercer+island+high+school+washington+yearbook&sa=X&ved=2ahUKEwiXh_ft6eSWAxWWvJUCHUzuGWsQ1QJ6BQiNARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mercer+island+high+school+washington+yearbook"
+  },
+  {
+   "block_position": 1,
+   "query": "Mercer Island School District",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntUWkceZ_FdXogeANUyZbrh1z4tpg:1789071273617&q=Mercer+Island+School+District&sa=X&ved=2ahUKEwiXh_ft6eSWAxWWvJUCHUzuGWsQ1QJ6BQiMARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mercer+Island+School+District"
+  },
+  {
+   "block_position": 1,
+   "query": "Mercer island high school washington staff",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntUWkceZ_FdXogeANUyZbrh1z4tpg:1789071273617&q=Mercer+island+high+school+washington+staff&sa=X&ved=2ahUKEwiXh_ft6eSWAxWWvJUCHUzuGWsQ1QJ6BQiLARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mercer+island+high+school+washington+staff"
+  },
+  {
+   "block_position": 1,
+   "query": "Mercer island high school washington basketball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntUWkceZ_FdXogeANUyZbrh1z4tpg:1789071273617&q=Mercer+island+high+school+washington+basketball&sa=X&ved=2ahUKEwiXh_ft6eSWAxWWvJUCHUzuGWsQ1QJ6BQiIARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mercer+island+high+school+washington+basketball"
+  },
+  {
+   "block_position": 1,
+   "query": "Mercer island high school washington alumni",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntUWkceZ_FdXogeANUyZbrh1z4tpg:1789071273617&q=Mercer+island+high+school+washington+alumni&sa=X&ved=2ahUKEwiXh_ft6eSWAxWWvJUCHUzuGWsQ1QJ6BQiGARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mercer+island+high+school+washington+alumni"
+  },
+  {
+   "block_position": 1,
+   "query": "Mercer Island High School Football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntUWkceZ_FdXogeANUyZbrh1z4tpg:1789071273617&q=Mercer+Island+High+School+Football&sa=X&ved=2ahUKEwiXh_ft6eSWAxWWvJUCHUzuGWsQ1QJ6BQiDARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mercer+Island+High+School+Football"
+  },
+  {
+   "block_position": 1,
+   "query": "Mercer Island High School graduation 2026",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntUWkceZ_FdXogeANUyZbrh1z4tpg:1789071273617&q=Mercer+Island+High+School+graduation+2026&sa=X&ved=2ahUKEwiXh_ft6eSWAxWWvJUCHUzuGWsQ1QJ6BQiAARAB",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mercer+Island+High+School+graduation+2026"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Mercer+Island+High+School%22+Washington&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntUWkceZ_FdXogeANUyZbrh1z4tpg:1789071273617&ei=qQ-jateOJZb51sQPzNzn2AY&start=10&sa=N&sstk=AS6-VmKbu4wsmkIBQoEa3FQNN8FOJ8y7fIB1As4pUl-EgheLNlRT0IT5KpTtR29xRDJJAL4Bte9D4VYkJScNVQLhs1c7UZA1iqREoQ&ved=2ahUKEwiXh_ft6eSWAxWWvJUCHUzuGWsQ8NMDegQIcBAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Mercer+Island+High+School%22+Washington&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntUWkceZ_FdXogeANUyZbrh1z4tpg:1789071273617&ei=qQ-jateOJZb51sQPzNzn2AY&start=10&sa=N&sstk=AS6-VmKbu4wsmkIBQoEa3FQNN8FOJ8y7fIB1As4pUl-EgheLNlRT0IT5KpTtR29xRDJJAL4Bte9D4VYkJScNVQLhs1c7UZA1iqREoQ&ved=2ahUKEwiXh_ft6eSWAxWWvJUCHUzuGWsQ8tMDegQIcBAE",
+   "3": "https://www.google.com/search?q=%22Mercer+Island+High+School%22+Washington&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntUWkceZ_FdXogeANUyZbrh1z4tpg:1789071273617&ei=qQ-jateOJZb51sQPzNzn2AY&start=20&sa=N&sstk=AS6-VmKbu4wsmkIBQoEa3FQNN8FOJ8y7fIB1As4pUl-EgheLNlRT0IT5KpTtR29xRDJJAL4Bte9D4VYkJScNVQLhs1c7UZA1iqREoQ&ved=2ahUKEwiXh_ft6eSWAxWWvJUCHUzuGWsQ8tMDegQIcBAG",
+   "4": "https://www.google.com/search?q=%22Mercer+Island+High+School%22+Washington&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntUWkceZ_FdXogeANUyZbrh1z4tpg:1789071273617&ei=qQ-jateOJZb51sQPzNzn2AY&start=30&sa=N&sstk=AS6-VmKbu4wsmkIBQoEa3FQNN8FOJ8y7fIB1As4pUl-EgheLNlRT0IT5KpTtR29xRDJJAL4Bte9D4VYkJScNVQLhs1c7UZA1iqREoQ&ved=2ahUKEwiXh_ft6eSWAxWWvJUCHUzuGWsQ8tMDegQIcBAI",
+   "5": "https://www.google.com/search?q=%22Mercer+Island+High+School%22+Washington&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntUWkceZ_FdXogeANUyZbrh1z4tpg:1789071273617&ei=qQ-jateOJZb51sQPzNzn2AY&start=40&sa=N&sstk=AS6-VmKbu4wsmkIBQoEa3FQNN8FOJ8y7fIB1As4pUl-EgheLNlRT0IT5KpTtR29xRDJJAL4Bte9D4VYkJScNVQLhs1c7UZA1iqREoQ&ved=2ahUKEwiXh_ft6eSWAxWWvJUCHUzuGWsQ8tMDegQIcBAK",
+   "6": "https://www.google.com/search?q=%22Mercer+Island+High+School%22+Washington&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntUWkceZ_FdXogeANUyZbrh1z4tpg:1789071273617&ei=qQ-jateOJZb51sQPzNzn2AY&start=50&sa=N&sstk=AS6-VmKbu4wsmkIBQoEa3FQNN8FOJ8y7fIB1As4pUl-EgheLNlRT0IT5KpTtR29xRDJJAL4Bte9D4VYkJScNVQLhs1c7UZA1iqREoQ&ved=2ahUKEwiXh_ft6eSWAxWWvJUCHUzuGWsQ8tMDegQIcBAM",
+   "7": "https://www.google.com/search?q=%22Mercer+Island+High+School%22+Washington&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntUWkceZ_FdXogeANUyZbrh1z4tpg:1789071273617&ei=qQ-jateOJZb51sQPzNzn2AY&start=60&sa=N&sstk=AS6-VmKbu4wsmkIBQoEa3FQNN8FOJ8y7fIB1As4pUl-EgheLNlRT0IT5KpTtR29xRDJJAL4Bte9D4VYkJScNVQLhs1c7UZA1iqREoQ&ved=2ahUKEwiXh_ft6eSWAxWWvJUCHUzuGWsQ8tMDegQIcBAO",
+   "8": "https://www.google.com/search?q=%22Mercer+Island+High+School%22+Washington&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntUWkceZ_FdXogeANUyZbrh1z4tpg:1789071273617&ei=qQ-jateOJZb51sQPzNzn2AY&start=70&sa=N&sstk=AS6-VmKbu4wsmkIBQoEa3FQNN8FOJ8y7fIB1As4pUl-EgheLNlRT0IT5KpTtR29xRDJJAL4Bte9D4VYkJScNVQLhs1c7UZA1iqREoQ&ved=2ahUKEwiXh_ft6eSWAxWWvJUCHUzuGWsQ8tMDegQIcBAQ",
+   "9": "https://www.google.com/search?q=%22Mercer+Island+High+School%22+Washington&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntUWkceZ_FdXogeANUyZbrh1z4tpg:1789071273617&ei=qQ-jateOJZb51sQPzNzn2AY&start=80&sa=N&sstk=AS6-VmKbu4wsmkIBQoEa3FQNN8FOJ8y7fIB1As4pUl-EgheLNlRT0IT5KpTtR29xRDJJAL4Bte9D4VYkJScNVQLhs1c7UZA1iqREoQ&ved=2ahUKEwiXh_ft6eSWAxWWvJUCHUzuGWsQ8tMDegQIcBAS",
+   "10": "https://www.google.com/search?q=%22Mercer+Island+High+School%22+Washington&sca_esv=03bfe121ccbd9421&hl=en&gl=us&sxsrf=APpeQntUWkceZ_FdXogeANUyZbrh1z4tpg:1789071273617&ei=qQ-jateOJZb51sQPzNzn2AY&start=90&sa=N&sstk=AS6-VmKbu4wsmkIBQoEa3FQNN8FOJ8y7fIB1As4pUl-EgheLNlRT0IT5KpTtR29xRDJJAL4Bte9D4VYkJScNVQLhs1c7UZA1iqREoQ&ved=2ahUKEwiXh_ft6eSWAxWWvJUCHUzuGWsQ8tMDegQIcBAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Mercer+Island+High+School%22+Washington&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Mercer+Island+High+School%22+Washington&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Mercer+Island+High+School%22+Washington&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Mercer+Island+High+School%22+Washington&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Mercer+Island+High+School%22+Washington&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Mercer+Island+High+School%22+Washington&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Mercer+Island+High+School%22+Washington&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Mercer+Island+High+School%22+Washington&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Mercer+Island+High+School%22+Washington&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Mercer+Island+High+School%22+Washington&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Mercer+Island+High+School%22+Washington&start=90"
+  }
+ }
+}

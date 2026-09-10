@@ -1,0 +1,493 @@
+{
+ "search_information": {
+  "query_displayed": "\"Vandegrift High School\" Texas",
+  "total_results": 144000,
+  "time_taken_displayed": 0.29,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Vandegrift High School",
+  "type": "Public school in Leander, Texas",
+  "entity_type": "local_nav",
+  "kgmid": "/m/0fpgzq6",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/0fpgzq6&hl=en-US&q=Vandegrift+High+School",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F0fpgzq6&q=Vandegrift+High+School",
+  "place_id": "ChIJb0l_E50zW4YR9hGdHUpNrNU",
+  "website": "http://vhs.leanderisd.org/",
+  "description": "Vandegrift High School is a public high school in Austin, Texas. It educates students in grades 9-12 for the Leander Independent School District. The school received an overall rating of \"A\" from the Texas Education Agency for the 2024-2025 school year.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aa312c499d5f46fee39dadf/images/HA1zpWjV2gPWdYMzKQBzfvFNYY6LZ8yZYLlFXMTsof4.webp",
+   "link": "https://www.google.com/maps/place/Vandegrift+High+School/data=!4m2!3m1!1s0x0:0xd5ac4d4a1d9d11f6?sa=X&ved=2ahUKEwi97-fu7OSWAxWZMlkFHU7uAtkQ_BJ6BAgPEAA&hl=en&gl=us"
+  },
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Vandegrift_High_School"
+  },
+  "address": "9500 McNeil Dr, Austin, TX 78750",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=vandegrift+high+school+address&ludocid=15396766206792634870&sa=X&ved=2ahUKEwi97-fu7OSWAxWZMlkFHU7uAtkQ6BN6BAgjEAI"
+   }
+  ],
+  "founded": "2009",
+  "colors": "Black, Silver",
+  "colors_links": [
+   {
+    "text": "Black",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpraX69jV5X33UKfb-qjUYOsjWjX7nO47WTc3bfTI9Y65-QSpS2k7mNe6vRPy_oqqLlgfiGwyCwxAzZQ_ANJrrByY2AlXzEOvW7FM8ywHZa3PDvtoteLedOW5o6B-L7MG-ozmTdDEPwUC3CE3SgSEVV-fUCu148UZH94kXtpn2JzGDs8HRpCD5mQaE_BGilvDlvRLruQ%3D&sa=X&ved=2ahUKEwi97-fu7OSWAxWZMlkFHU7uAtkQmxN6BAgoEAI"
+   },
+   {
+    "text": "Silver",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yTZg2B97QDgTl8QeoF0Lqtnahv_J1m39M9qmkuDXjbuOJ98S8-3s56IOJCNAZseL7taWv_8kVhGgJ2ph2SuCtiBWfcj5vH_cOmWrF52iR_Pntl7Dtlu6sEXRLxaqIMRfwUALUqRuhtisiocBbIo_u-T_cnuZSvBNfXgqjfH4RVZoWx1wOriqKN834hLwYObe9PjTVAc%3D&sa=X&ved=2ahUKEwi97-fu7OSWAxWZMlkFHU7uAtkQmxN6BAgoEAM"
+   }
+  ],
+  "school_type": "State school",
+  "school_type_links": [
+   {
+    "text": "State school",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=State+school&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ybGtCxI0H8z2nV80srIO5hjA927tepoHmJk9M6M5uqHxNQbRQk_J_MjBlbzfNpYBOA3ccW9ZRLtzFUxMsN3OYxpO2a6nMyZ81W-HlatU5I5CpqEdb31XyQL4O31-BiaIPYE5OOHQG_ph-T3L4KX-GUBwGGjp&sa=X&ved=2ahUKEwi97-fu7OSWAxWZMlkFHU7uAtkQmxN6BAgpEAI"
+   }
+  ],
+  "phone": "(512) 570-2300",
+  "raw_hours": "Closes soon \u00b7 4 PM \u00b7 Opens 7 - 30 AM Fri",
+  "hours": {
+   "thursday": {
+    "opens": "7:30\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "friday": {
+    "opens": "7:30\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "saturday": {
+    "opens": "Closed"
+   },
+   "sunday": {
+    "opens": "Closed"
+   },
+   "monday": {
+    "opens": "7:30\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "tuesday": {
+    "opens": "7:30\u202fAM",
+    "closes": "4\u202fPM"
+   },
+   "wednesday": {
+    "opens": "7:30\u202fAM",
+    "closes": "4\u202fPM"
+   }
+  },
+  "unclaimed_listing": true,
+  "people_also_search_for": [
+   {
+    "name": "Lake Travis High School",
+    "image": "https://serpapi.com/searches/6aa312c499d5f46fee39dadf/images/HA1zpWjV2gPWdYMzKQBzfq3GfbvlV1-Sl8Of1qj1e3Itaxlf4hby38uN_6Qd5Zx9.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67z_N6b7YpldMSGJBfDO-HiPPDS_6tqK7frWMkYrbEEcodoPuya12BQ29WLJykPCa_RmipOdKHbnCbhxOgAqu5CMKjQS_fEiVkq74oZr5b9fwP0R66AgNgKCr7C0MDmGd9sbVRFIY_OSaUgieADY7z8PXCoTztihV2aF9VjB3aVYo-CdgVvFrTX7RFQyQ1UTUChcNKoR9gfqVSCn4JhX-yL9lH4IBD-1mBTFfxlGeeMcHgXRGllOHLODrLeEu-HkgLcC2VVqM4ieP8viZs1RSY42SCof8&q=Lake+Travis+High+School&sa=X&ved=2ahUKEwi97-fu7OSWAxWZMlkFHU7uAtkQs9oBKAB6BAgcEAU",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Lake+Travis+High+School&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67z_N6b7YpldMSGJBfDO-HiPPDS_6tqK7frWMkYrbEEcodoPuya12BQ29WLJykPCa_RmipOdKHbnCbhxOgAqu5CMKjQS_fEiVkq74oZr5b9fwP0R66AgNgKCr7C0MDmGd9sbVRFIY_OSaUgieADY7z8PXCoTztihV2aF9VjB3aVYo-CdgVvFrTX7RFQyQ1UTUChcNKoR9gfqVSCn4JhX-yL9lH4IBD-1mBTFfxlGeeMcHgXRGllOHLODrLeEu-HkgLcC2VVqM4ieP8viZs1RSY42SCof8"
+   },
+   {
+    "name": "Cedar Park High School",
+    "image": "https://serpapi.com/searches/6aa312c499d5f46fee39dadf/images/HA1zpWjV2gPWdYMzKQBzfq3GfbvlV1-Sl8Of1qj1e3LRvquPOTGRHSMvx3cxD250.png",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ycYTZyaRk_yuV1nzNFCpWmef9e_WpdbHOHuagmvC8AVhmmROPSuCuJzgldwLOdr5kyYr3lZWs77Jv6Z7T2xEzLxpSsMc_eG52ur0uB6tmcRl5mo1gcs03CIvQnbNP8fzbHxcGcTrl2xnxqguKoXM00REcM7jRriwFXCvJqsyCAXimD9FYY2ptIgf-40gZLKjVNmi-oq4x1DcFKmqkc7mViacWMk6rhpjDAVlo_RZIFU6kdWWgHyD9gA5IAdQe7_0ZNOLFj-fEJHVetgBps-aslExf8_w&q=Cedar+Park+High+School&sa=X&ved=2ahUKEwi97-fu7OSWAxWZMlkFHU7uAtkQs9oBKAB6BAgcEAk",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Cedar+Park+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ycYTZyaRk_yuV1nzNFCpWmef9e_WpdbHOHuagmvC8AVhmmROPSuCuJzgldwLOdr5kyYr3lZWs77Jv6Z7T2xEzLxpSsMc_eG52ur0uB6tmcRl5mo1gcs03CIvQnbNP8fzbHxcGcTrl2xnxqguKoXM00REcM7jRriwFXCvJqsyCAXimD9FYY2ptIgf-40gZLKjVNmi-oq4x1DcFKmqkc7mViacWMk6rhpjDAVlo_RZIFU6kdWWgHyD9gA5IAdQe7_0ZNOLFj-fEJHVetgBps-aslExf8_w"
+   },
+   {
+    "name": "Westlake High School",
+    "image": "https://serpapi.com/searches/6aa312c499d5f46fee39dadf/images/HA1zpWjV2gPWdYMzKQBzfq3GfbvlV1-Sl8Of1qj1e3KYRVRsCI1hKl6zYboch8P0.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yaXCa3ZAMM1yS1g9ObPFhPryjxU0Xfp9focqXWQ-CknEHTzJS-ajjLW4D5RF543mJ3TFhXMb4sATBjrXw3CC9nfW7YsvG89cwM1NgooMsM1itQpA6vYnwvBFUnf2zveQn7VrnO0oG9DYRuu8xZnbsm0LY_WVgIlWOxgBu_Ir8rqdT1ne1jxafnKaYSqD8iWsZam1RlFDrvPf9u8HEjmOG6mMRmJOWfD-Mp5nGnDTf95JbWxNqsOJiubTsd7wLS71Fx5CyZcdYyUcpL3EYSiMVyoD6gCT&q=Westlake+High+School+(Texas)&sa=X&ved=2ahUKEwi97-fu7OSWAxWZMlkFHU7uAtkQs9oBKAB6BAgcEA0",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Westlake+High+School+%28Texas%29&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yaXCa3ZAMM1yS1g9ObPFhPryjxU0Xfp9focqXWQ-CknEHTzJS-ajjLW4D5RF543mJ3TFhXMb4sATBjrXw3CC9nfW7YsvG89cwM1NgooMsM1itQpA6vYnwvBFUnf2zveQn7VrnO0oG9DYRuu8xZnbsm0LY_WVgIlWOxgBu_Ir8rqdT1ne1jxafnKaYSqD8iWsZam1RlFDrvPf9u8HEjmOG6mMRmJOWfD-Mp5nGnDTf95JbWxNqsOJiubTsd7wLS71Fx5CyZcdYyUcpL3EYSiMVyoD6gCT"
+   },
+   {
+    "name": "Vista",
+    "image": "https://serpapi.com/searches/6aa312c499d5f46fee39dadf/images/HA1zpWjV2gPWdYMzKQBzfq3GfbvlV1-Sl8Of1qj1e3LS583g_KTUxYb4hnWOln9P.jpeg",
+    "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yW2kNQOEpy6YggcT4owe0B5eeTC1ZW-aOhYk7o569wRettnZvkxR3WclT1r_SnrN86Q-yGdOTXMV1ClSiK1WxjRhUEGyNczq5GUs9Sj7XoYKFXHtulKFJbCzLLv8ydxQBJ3eeKl8xL4Opn7A9ZCGmPCXA0VxPAbZZ-ea24lNUPb21xIwluSPW7Dj9meplwDAt5dqqC99hwCQNHTXC1SXKZxdbu4BMh_WqKGinaYGS_ikUSfsib49nAi6yB7WSdRSHhcNSB3l3JEhWTNLg2kYsmoxdGCR&q=Vista+Ridge+High+School&sa=X&ved=2ahUKEwi97-fu7OSWAxWZMlkFHU7uAtkQs9oBKAB6BAgcEBE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Vista+Ridge+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yW2kNQOEpy6YggcT4owe0B5eeTC1ZW-aOhYk7o569wRettnZvkxR3WclT1r_SnrN86Q-yGdOTXMV1ClSiK1WxjRhUEGyNczq5GUs9Sj7XoYKFXHtulKFJbCzLLv8ydxQBJ3eeKl8xL4Opn7A9ZCGmPCXA0VxPAbZZ-ea24lNUPb21xIwluSPW7Dj9meplwDAt5dqqC99hwCQNHTXC1SXKZxdbu4BMh_WqKGinaYGS_ikUSfsib49nAi6yB7WSdRSHhcNSB3l3JEhWTNLg2kYsmoxdGCR"
+   }
+  ],
+  "people_also_search_for_link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Vandegrift+High+School&stick=H4sIAAAAAAAAAONgFuLSz9U3SCtIryo0U0JiawkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axCoWlpiXkppelJlWouCRmZ6hEJyckZ-fs4OV8RabJMMbh4rAXL6mziXhhodYtRdtjkgKtkkP-34cAE3jGR9-AAAA&sa=X&ved=2ahUKEwi97-fu7OSWAxWZMlkFHU7uAtkQzO0BKAR6BAgcEBM",
+  "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLSz9U3SCtIryo0U0JiawkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axCoWlpiXkppelJlWouCRmZ6hEJyckZ-fs4OV8RabJMMbh4rAXL6mziXhhodYtRdtjkgKtkkP-34cAE3jGR9-AAAA",
+  "profiles": [
+   {
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/in/viperbots-boosters",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Vandegrift+High+School%22+Texas",
+    "image": "https://serpapi.com/searches/6aa312c499d5f46fee39dadf/images/HA1zpWjV2gPWdYMzKQBzflYfNARXVJYbhRKVMnSvbWlFhRg6wVcJxueWXIjtXI6F.png"
+   },
+   {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/vandegriftbasketball/?utm_source=ig_embed&ig_rid=e85178b0-7387-4778-8c6e-1e8189a7d70f",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Vandegrift+High+School%22+Texas",
+    "image": "https://serpapi.com/searches/6aa312c499d5f46fee39dadf/images/HA1zpWjV2gPWdYMzKQBzfhMx4aUzkA7iBk0Et9Y3Nn7kb0PyDiFXfZvTTwd72sri.png"
+   },
+   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/vandegriftfootball/",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Vandegrift+High+School%22+Texas",
+    "image": "https://serpapi.com/searches/6aa312c499d5f46fee39dadf/images/HA1zpWjV2gPWdYMzKQBzfi8xgr7SyF--nsa9y_BFgdPcITHq0tA13S-YnluLWVfE.png"
+   },
+   {
+    "name": "X (Twitter)",
+    "link": "https://twitter.com/VHSFootball",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Vandegrift+High+School%22+Texas",
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAABhUlEQVR4AczOA6xcARCF4X_us23btuLUQR3WZlhbQW3bto2gtm3b2J3GN4tY74uHh3okOi42Nj4AAUDwTvDEhisABCOAEAzYTBh0bN-lc5d0QgAhHPqX4Y4pkd367Zc-xMcXCPDg8TPwxeQH724Uj9N95GJ4pnHxby1xgCmV3v-GsFb7k0Iee7UjaQgmIYe9v9O4-wUKWaATyMPAViwvr1NnOQWDdTV5CHYSaKWLmaGDyvU4mTgQcllracaFr-9uk-yLM8k8fAJff0IUTghRVFu3M1ynkYk4nchiqqU3Ry05RDibMMhjtj6Ht3dJxVk_l1G64cspOusychBsCWm01WNM0jFs0sbEYUtIIuTXNco588OLh09JxE6wweuXEAvfL9PQus3-iU80N34KCaQyUOcxTTuSjEmMRI5rS9JwIZfD1t7ceo34YIpnuQ4nGwP8XXlq_fJZd9jE8KBHC5IwAELJ7dWrZ6fOuNhkgFgAEEIAwA1MQkw0AgDC_wnKycrKSQ2iPAkAVyNzq8rxicIAAAAASUVORK5CYII.png"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "Who are some famous alumni of Vandegrift High School?",
+   "type": "ai_overview",
+   "page_token": "83Ka6nicHdBLjpswAABQ9TKznJgQp5pIUSXKJ0XF1MYfYFOBSeKADe7AjBN2vULP0FP1NK16gie9n7_1bRz-fPillsXOh83GOfd8naarPj_LyWya-THKjWy0bhs5HPYf996nizxG7zL4_CoDzKzlIQHFSHBtnI_5sGsY9lGyvHXmJcv6eqq29lYDPTV9nEpRAQpIUsecMI5CtI1h5lVQhPG-7dnCExQXBlU00ls-Bl87bakUELchGes1fsMe-VZ60a70rneihwcTEFERQwZiIZi6CwP3Xc_n_GSTc4geFSOGrtKVW4RzqlCXeLP85zRAXQrNZxKqXVOqlJadLYCX80ElZwPTTBOUJZqyNV1RkvptZKOaqjELFYqUdHhYflTll7WI7q41zqPmBZ9HAulJB1kw3TAjq-y1YSDzS7-CbY8aBBaXnxDnPMg7gRhh09L5hDP8dJHvR__p__Xx-8UsB_s6Xf8C63mM4g",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=83Ka6nicHdBLjpswAABQ9TKznJgQp5pIUSXKJ0XF1MYfYFOBSeKADe7AjBN2vULP0FP1NK16gie9n7_1bRz-fPillsXOh83GOfd8naarPj_LyWya-THKjWy0bhs5HPYf996nizxG7zL4_CoDzKzlIQHFSHBtnI_5sGsY9lGyvHXmJcv6eqq29lYDPTV9nEpRAQpIUsecMI5CtI1h5lVQhPG-7dnCExQXBlU00ls-Bl87bakUELchGes1fsMe-VZ60a70rneihwcTEFERQwZiIZi6CwP3Xc_n_GSTc4geFSOGrtKVW4RzqlCXeLP85zRAXQrNZxKqXVOqlJadLYCX80ElZwPTTBOUJZqyNV1RkvptZKOaqjELFYqUdHhYflTll7WI7q41zqPmBZ9HAulJB1kw3TAjq-y1YSDzS7-CbY8aBBaXnxDnPMg7gRhh09L5hDP8dJHvR__p__Xx-8UsB_s6Xf8C63mM4g",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVGbDZNakpXUjNkaU16ZFBjbGRTYTBoMU5GRkJaQzF4T0ZSSmVVVTNOeTFaTVZwSmNVbE1WelZLVFVKU2FGUkthbEJOY25sVGFVdHVkVkJHY1RCZlEzRk9Tekk1WWsxemFFcGtZelJPTFhnNFpXTXRjbFJDZW5BdGR4SVhNRUpMYW1GeU0waE1jRzVzTlU1dlVIcDBlVXg1UVRBYUlrRkVjM0k1WmxRM1ZWQXpkWEJGTTFsME5WQXdXbmxHTWxFeVUzTmZlRmRLZDJjIiwiZmN2IjoiMyIsImVpIjoiMEJLamFyM0hMcG5sNU5vUHp0eUx5QTAiLCJxYyI6IkNoeDJZVzVrWldkeWFXWjBJR2hwWjJnZ2MyTm9iMjlzSUhSbGVHRnpFQUI5ME5JUlB3IiwicXVlc3Rpb24iOiJXaG8gYXJlIHNvbWUgZmFtb3VzIGFsdW1uaSBvZiBWYW5kZWdyaWZ0IEhpZ2ggU2Nob29sPyIsImxrIjoiR2lSMllXNWtaV2R5YVdaMElHaHBaMmdnYzJOb2IyOXNJR1poYlc5MWN5QmhiSFZ0Ym1rIiwiYnMiOiJjM1dPTVF2Q01CQkdjYjFKSFNQQ0RhS29XMEVkaTV2T2l0VkpEazE3d1RhQkpLMy1mTnVxbENKZDd6M2VkM0NGVmNRR3lVcDBKcE1ZVTJaeWg1VG1tVlpvWWp5UnZzdkVxdGpqVGlXTWh4c2JrNGJCVkV5S0JuR0ZYSTNhQ1RqREptTHlxQng2bG1oSlA1Uk91c3VvTkI3bGkxd1lqTVdvWTZLcXdBVVdFY3Z5OFRKZHQteV8yTVNXWXY3ODJVVzM3U3NiWmpEWWY3V1B0ZDZHd1ZEMFZmdElfZDRiIiwiaWQiOiJmY18wQktqYXIzSExwbmw1Tm9QenR5THlBMF81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVGbDZNakpXUjNkaU16ZFBjbGRTYTBoMU5GRkJaQzF4T0ZSSmVVVTNOeTFaTVZwSmNVbE1WelZLVFVKU2FGUkthbEJOY25sVGFVdHVkVkJHY1RCZlEzRk9Tekk1WWsxemFFcGtZelJPTFhnNFpXTXRjbFJDZW5BdGR4SVhNRUpMYW1GeU0waE1jRzVzTlU1dlVIcDBlVXg1UVRBYUlrRkVjM0k1WmxRM1ZWQXpkWEJGTTFsME5WQXdXbmxHTWxFeVUzTmZlRmRLZDJjIiwiZmN2IjoiMyIsImVpIjoiMEJLamFyM0hMcG5sNU5vUHp0eUx5QTAiLCJxYyI6IkNoeDJZVzVrWldkeWFXWjBJR2hwWjJnZ2MyTm9iMjlzSUhSbGVHRnpFQUI5ME5JUlB3IiwicXVlc3Rpb24iOiJXaG8gYXJlIHNvbWUgZmFtb3VzIGFsdW1uaSBvZiBWYW5kZWdyaWZ0IEhpZ2ggU2Nob29sPyIsImxrIjoiR2lSMllXNWtaV2R5YVdaMElHaHBaMmdnYzJOb2IyOXNJR1poYlc5MWN5QmhiSFZ0Ym1rIiwiYnMiOiJjM1dPTVF2Q01CQkdjYjFKSFNQQ0RhS29XMEVkaTV2T2l0VkpEazE3d1RhQkpLMy1mTnVxbENKZDd6M2VkM0NGVmNRR3lVcDBKcE1ZVTJaeWg1VG1tVlpvWWp5UnZzdkVxdGpqVGlXTWh4c2JrNGJCVkV5S0JuR0ZYSTNhQ1RqREptTHlxQng2bG1oSlA1Uk91c3VvTkI3bGkxd1lqTVdvWTZLcXdBVVdFY3Z5OFRKZHQteV8yTVNXWXY3ODJVVzM3U3NiWmpEWWY3V1B0ZDZHd1ZEMFZmdElfZDRiIiwiaWQiOiJmY18wQktqYXIzSExwbmw1Tm9QenR5THlBMF81In0%3D"
+  },
+  {
+   "question": "What is the ranking of Vandegrift High School in Texas?",
+   "type": "ai_overview",
+   "page_token": "8KHWZHicHdBLbuIwAIBhzWW6LI4jMwIJjZrEebUxjRPn4c0IHCBg50FxMWTXK_QMc6o5Tavu_uWn_-OfOvby_6_PVuvxspzNjDGPh2E4qN2jGLrZ5nLvxUxslNpuhFzOf8-tP3uxwlfhuG_CSdk4Fh4FGYyT3HIkmSKdSgkLTCFVrcv8uGrw4tqUKvjugR6Bzu5WzMDtlZbjOQN6TX1_ngPCGFYx7wysATGJXHiNjQ2H5MK9oi996q1955yo5pmemvfCiyCtGsBCvidQR-uQklyOea7ie4YRFYVKSKmvCeCI9vgm7Ahsg_ZE4NjtAqQaSz2Tvn1hVpxkynG5r74NGBH7CTFQhKxI0DawfFrVoMyp4adGrwNjFa7l41aYVOpzXUVThm9m2xkr7xbprqcoD5WTOMMxZXQSJ9WxonX5xHtejfamJFMN2zCT40vNSFpLNM8CpNP0YS-uK_vh5_Xq777Ty_FtOHwBasyK1g",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=8KHWZHicHdBLbuIwAIBhzWW6LI4jMwIJjZrEebUxjRPn4c0IHCBg50FxMWTXK_QMc6o5Tavu_uWn_-OfOvby_6_PVuvxspzNjDGPh2E4qN2jGLrZ5nLvxUxslNpuhFzOf8-tP3uxwlfhuG_CSdk4Fh4FGYyT3HIkmSKdSgkLTCFVrcv8uGrw4tqUKvjugR6Bzu5WzMDtlZbjOQN6TX1_ngPCGFYx7wysATGJXHiNjQ2H5MK9oi996q1955yo5pmemvfCiyCtGsBCvidQR-uQklyOea7ie4YRFYVKSKmvCeCI9vgm7Ahsg_ZE4NjtAqQaSz2Tvn1hVpxkynG5r74NGBH7CTFQhKxI0DawfFrVoMyp4adGrwNjFa7l41aYVOpzXUVThm9m2xkr7xbprqcoD5WTOMMxZXQSJ9WxonX5xHtejfamJFMN2zCT40vNSFpLNM8CpNP0YS-uK_vh5_Xq777Ty_FtOHwBasyK1g",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVGbDZNakpXUjNkaU16ZFBjbGRTYTBoMU5GRkJaQzF4T0ZSSmVVVTNOeTFaTVZwSmNVbE1WelZLVFVKU2FGUkthbEJOY25sVGFVdHVkVkJHY1RCZlEzRk9Tekk1WWsxemFFcGtZelJPTFhnNFpXTXRjbFJDZW5BdGR4SVhNRUpMYW1GeU0waE1jRzVzTlU1dlVIcDBlVXg1UVRBYUlrRkVjM0k1WmxRM1ZWQXpkWEJGTTFsME5WQXdXbmxHTWxFeVUzTmZlRmRLZDJjIiwiZmN2IjoiMyIsImVpIjoiMEJLamFyM0hMcG5sNU5vUHp0eUx5QTAiLCJxYyI6IkNoeDJZVzVrWldkeWFXWjBJR2hwWjJnZ2MyTm9iMjlzSUhSbGVHRnpFQUI5ME5JUlB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSByYW5raW5nIG9mIFZhbmRlZ3JpZnQgSGlnaCBTY2hvb2wgaW4gVGV4YXM/IiwibGsiOiJHaHQyWVc1a1pXZHlhV1owSUdocFoyZ2djMk5vYjI5c0lISmhibXMiLCJicyI6ImMzV09NUXZDTUJCR2NiMUpIU1BDRGFLb1cwRWRpNXZPaXRWSkRrMTd3VGFCSkszLWZOdXFsQ0pkN3ozZWQzQ0ZWY1FHeVVwMEpwTVlVMlp5aDVUbW1WWm9ZanlSdnN2RXF0ampUaVdNaHhzYms0YkJWRXlLQm5HRlhJM2FDVGpESm1MeXFCeDZsbWhKUDVST3VzdW9OQjdsaTF3WWpNV29ZNktxd0FVV0Vjdnk4VEpkdC15XzJNU1dZdjc4MlVXMzdTc2JaakRZZjdXUHRkNkd3VkQwVmZ0SV9kNGIiLCJpZCI6ImZjXzBCS2phcjNITHBubDVOb1B6dHlMeUEwXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVGbDZNakpXUjNkaU16ZFBjbGRTYTBoMU5GRkJaQzF4T0ZSSmVVVTNOeTFaTVZwSmNVbE1WelZLVFVKU2FGUkthbEJOY25sVGFVdHVkVkJHY1RCZlEzRk9Tekk1WWsxemFFcGtZelJPTFhnNFpXTXRjbFJDZW5BdGR4SVhNRUpMYW1GeU0waE1jRzVzTlU1dlVIcDBlVXg1UVRBYUlrRkVjM0k1WmxRM1ZWQXpkWEJGTTFsME5WQXdXbmxHTWxFeVUzTmZlRmRLZDJjIiwiZmN2IjoiMyIsImVpIjoiMEJLamFyM0hMcG5sNU5vUHp0eUx5QTAiLCJxYyI6IkNoeDJZVzVrWldkeWFXWjBJR2hwWjJnZ2MyTm9iMjlzSUhSbGVHRnpFQUI5ME5JUlB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSByYW5raW5nIG9mIFZhbmRlZ3JpZnQgSGlnaCBTY2hvb2wgaW4gVGV4YXM%2FIiwibGsiOiJHaHQyWVc1a1pXZHlhV1owSUdocFoyZ2djMk5vYjI5c0lISmhibXMiLCJicyI6ImMzV09NUXZDTUJCR2NiMUpIU1BDRGFLb1cwRWRpNXZPaXRWSkRrMTd3VGFCSkszLWZOdXFsQ0pkN3ozZWQzQ0ZWY1FHeVVwMEpwTVlVMlp5aDVUbW1WWm9ZanlSdnN2RXF0ampUaVdNaHhzYms0YkJWRXlLQm5HRlhJM2FDVGpESm1MeXFCeDZsbWhKUDVST3VzdW9OQjdsaTF3WWpNV29ZNktxd0FVV0Vjdnk4VEpkdC15XzJNU1dZdjc4MlVXMzdTc2JaakRZZjdXUHRkNkd3VkQwVmZ0SV9kNGIiLCJpZCI6ImZjXzBCS2phcjNITHBubDVOb1B6dHlMeUEwXzUifQ%3D%3D"
+  },
+  {
+   "question": "Where is Vandergrift high school in Texas?",
+   "type": "ai_overview",
+   "page_token": "hHw98nicHdBdbtowAABg9TJ9LHFSmEBC1VJsIGoCdmwn9ssU7EDa2PkphoS87S471U4zad8Rvt9_zGdT_326V85119VsNgzDy6VtL6Z8Ua2dFddHo2aqMOZUqHq1-LEAb2e1hrd9-N7vQ8y6jm-IlzK0kE10pannslzXB4jHeDsedL5_jX3dSQ9JZR0q6E9fw-hGIPKFBXdRy4lRKYit2hNM0lNT5QRWUwwRElnVyy9j2GTO5bbKCisF5ySIUTLnO_TB6vlN1fqDZWrMdhhI5rj2l31CtTtkHGEQBmkje26qo94ZKjeyLRFKNCPbmHFA8-TB-NIXNAqwpyWZeMc20UDeQQArNeDa9SLfTykch5MdALVLXDZkTncmjMP2EzMyqS9jOQTHEiaYeI4JwI-sjvwkk73g7Wsy6a6wcGT4-azu6-D5_-f619m6VffdXv4B2ECELg",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=hHw98nicHdBdbtowAABg9TJ9LHFSmEBC1VJsIGoCdmwn9ssU7EDa2PkphoS87S471U4zad8Rvt9_zGdT_326V85119VsNgzDy6VtL6Z8Ua2dFddHo2aqMOZUqHq1-LEAb2e1hrd9-N7vQ8y6jm-IlzK0kE10pannslzXB4jHeDsedL5_jX3dSQ9JZR0q6E9fw-hGIPKFBXdRy4lRKYit2hNM0lNT5QRWUwwRElnVyy9j2GTO5bbKCisF5ySIUTLnO_TB6vlN1fqDZWrMdhhI5rj2l31CtTtkHGEQBmkje26qo94ZKjeyLRFKNCPbmHFA8-TB-NIXNAqwpyWZeMc20UDeQQArNeDa9SLfTykch5MdALVLXDZkTncmjMP2EzMyqS9jOQTHEiaYeI4JwI-sjvwkk73g7Wsy6a6wcGT4-azu6-D5_-f619m6VffdXv4B2ECELg",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVGbDZNakpXUjNkaU16ZFBjbGRTYTBoMU5GRkJaQzF4T0ZSSmVVVTNOeTFaTVZwSmNVbE1WelZLVFVKU2FGUkthbEJOY25sVGFVdHVkVkJHY1RCZlEzRk9Tekk1WWsxemFFcGtZelJPTFhnNFpXTXRjbFJDZW5BdGR4SVhNRUpMYW1GeU0waE1jRzVzTlU1dlVIcDBlVXg1UVRBYUlrRkVjM0k1WmxRM1ZWQXpkWEJGTTFsME5WQXdXbmxHTWxFeVUzTmZlRmRLZDJjIiwiZmN2IjoiMyIsImVpIjoiMEJLamFyM0hMcG5sNU5vUHp0eUx5QTAiLCJxYyI6IkNoeDJZVzVrWldkeWFXWjBJR2hwWjJnZ2MyTm9iMjlzSUhSbGVHRnpFQUI5ME5JUlB3IiwicXVlc3Rpb24iOiJXaGVyZSBpcyBWYW5kZXJncmlmdCBoaWdoIHNjaG9vbCBpbiBUZXhhcz8iLCJsayI6IkdpbDNhR1Z5WlNCcGN5QjJZVzVrWlhKbmNtbG1kQ0JvYVdkb0lITmphRzl2YkNCcGJpQjBaWGhoY3ciLCJicyI6ImMzV09NUXZDTUJCR2NiMUpIU1BDRGFLb1cwRWRpNXZPaXRWSkRrMTd3VGFCSkszLWZOdXFsQ0pkN3ozZWQzQ0ZWY1FHeVVwMEpwTVlVMlp5aDVUbW1WWm9ZanlSdnN2RXF0ampUaVdNaHhzYms0YkJWRXlLQm5HRlhJM2FDVGpESm1MeXFCeDZsbWhKUDVST3VzdW9OQjdsaTF3WWpNV29ZNktxd0FVV0Vjdnk4VEpkdC15XzJNU1dZdjc4MlVXMzdTc2JaakRZZjdXUHRkNkd3VkQwVmZ0SV9kNGIiLCJpZCI6ImZjXzBCS2phcjNITHBubDVOb1B6dHlMeUEwXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVGbDZNakpXUjNkaU16ZFBjbGRTYTBoMU5GRkJaQzF4T0ZSSmVVVTNOeTFaTVZwSmNVbE1WelZLVFVKU2FGUkthbEJOY25sVGFVdHVkVkJHY1RCZlEzRk9Tekk1WWsxemFFcGtZelJPTFhnNFpXTXRjbFJDZW5BdGR4SVhNRUpMYW1GeU0waE1jRzVzTlU1dlVIcDBlVXg1UVRBYUlrRkVjM0k1WmxRM1ZWQXpkWEJGTTFsME5WQXdXbmxHTWxFeVUzTmZlRmRLZDJjIiwiZmN2IjoiMyIsImVpIjoiMEJLamFyM0hMcG5sNU5vUHp0eUx5QTAiLCJxYyI6IkNoeDJZVzVrWldkeWFXWjBJR2hwWjJnZ2MyTm9iMjlzSUhSbGVHRnpFQUI5ME5JUlB3IiwicXVlc3Rpb24iOiJXaGVyZSBpcyBWYW5kZXJncmlmdCBoaWdoIHNjaG9vbCBpbiBUZXhhcz8iLCJsayI6IkdpbDNhR1Z5WlNCcGN5QjJZVzVrWlhKbmNtbG1kQ0JvYVdkb0lITmphRzl2YkNCcGJpQjBaWGhoY3ciLCJicyI6ImMzV09NUXZDTUJCR2NiMUpIU1BDRGFLb1cwRWRpNXZPaXRWSkRrMTd3VGFCSkszLWZOdXFsQ0pkN3ozZWQzQ0ZWY1FHeVVwMEpwTVlVMlp5aDVUbW1WWm9ZanlSdnN2RXF0ampUaVdNaHhzYms0YkJWRXlLQm5HRlhJM2FDVGpESm1MeXFCeDZsbWhKUDVST3VzdW9OQjdsaTF3WWpNV29ZNktxd0FVV0Vjdnk4VEpkdC15XzJNU1dZdjc4MlVXMzdTc2JaakRZZjdXUHRkNkd3VkQwVmZ0SV9kNGIiLCJpZCI6ImZjXzBCS2phcjNITHBubDVOb1B6dHlMeUEwXzUifQ%3D%3D"
+  },
+  {
+   "question": "Is vandegrift 6A?",
+   "type": "ai_overview",
+   "page_token": "Jb4AdXicHdBZboJQFADQdDN-Fh4oVRPTlFkrEKaL8tO8gUEfUwQF-eteuqqupknPEs73T3Vp-O_LqRyGrt8KwjiOr0XbFlX2SttawP2zoQLFVUUw5VvlTUHvOd0Z_ahq7aj6cdeBHoghD2YiujlEMAYcmpinYShWd2KVNlx95MypnmnomfH4mdhpyXRAwNcTSIHvmOyM40lhUTm48qEHPrkEdQpt2IqgQiIaimJpc_aMg5FEZYxDZB2TAY5JkFOJ1Ri6WwRVh20ugcFOcW3qDNKQWOuVX7N9BKqX6MWUVZsHrTfL1A5MbImhOataKHUlvbr7yFbvRAePIFVhduVksTFal4Ma2O7TS9Io0T8QTlgAsrl0LKihKT8ZMNOZmeiIw8nTU3mR08dOXvyP7b7yeth2t7b4A7XteCY",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Jb4AdXicHdBZboJQFADQdDN-Fh4oVRPTlFkrEKaL8tO8gUEfUwQF-eteuqqupknPEs73T3Vp-O_LqRyGrt8KwjiOr0XbFlX2SttawP2zoQLFVUUw5VvlTUHvOd0Z_ahq7aj6cdeBHoghD2YiujlEMAYcmpinYShWd2KVNlx95MypnmnomfH4mdhpyXRAwNcTSIHvmOyM40lhUTm48qEHPrkEdQpt2IqgQiIaimJpc_aMg5FEZYxDZB2TAY5JkFOJ1Ri6WwRVh20ugcFOcW3qDNKQWOuVX7N9BKqX6MWUVZsHrTfL1A5MbImhOataKHUlvbr7yFbvRAePIFVhduVksTFal4Ma2O7TS9Io0T8QTlgAsrl0LKihKT8ZMNOZmeiIw8nTU3mR08dOXvyP7b7yeth2t7b4A7XteCY",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVGbDZNakpXUjNkaU16ZFBjbGRTYTBoMU5GRkJaQzF4T0ZSSmVVVTNOeTFaTVZwSmNVbE1WelZLVFVKU2FGUkthbEJOY25sVGFVdHVkVkJHY1RCZlEzRk9Tekk1WWsxemFFcGtZelJPTFhnNFpXTXRjbFJDZW5BdGR4SVhNRUpMYW1GeU0waE1jRzVzTlU1dlVIcDBlVXg1UVRBYUlrRkVjM0k1WmxRM1ZWQXpkWEJGTTFsME5WQXdXbmxHTWxFeVUzTmZlRmRLZDJjIiwiZmN2IjoiMyIsImVpIjoiMEJLamFyM0hMcG5sNU5vUHp0eUx5QTAiLCJxYyI6IkNoeDJZVzVrWldkeWFXWjBJR2hwWjJnZ2MyTm9iMjlzSUhSbGVHRnpFQUI5ME5JUlB3IiwicXVlc3Rpb24iOiJJcyB2YW5kZWdyaWZ0IDZBPyIsImxrIjoiR2hCcGN5QjJZVzVrWldkeWFXWjBJRFpoIiwiYnMiOiJjM1dPTVF2Q01CQkdjYjFKSFNQQ0RhS29XMEVkaTV2T2l0VkpEazE3d1RhQkpLMy1mTnVxbENKZDd6M2VkM0NGVmNRR3lVcDBKcE1ZVTJaeWg1VG1tVlpvWWp5UnZzdkVxdGpqVGlXTWh4c2JrNGJCVkV5S0JuR0ZYSTNhQ1RqREptTHlxQng2bG1oSlA1Uk91c3VvTkI3bGkxd1lqTVdvWTZLcXdBVVdFY3Z5OFRKZHQteV8yTVNXWXY3ODJVVzM3U3NiWmpEWWY3V1B0ZDZHd1ZEMFZmdElfZDRiIiwiaWQiOiJmY18wQktqYXIzSExwbmw1Tm9QenR5THlBMF81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVGbDZNakpXUjNkaU16ZFBjbGRTYTBoMU5GRkJaQzF4T0ZSSmVVVTNOeTFaTVZwSmNVbE1WelZLVFVKU2FGUkthbEJOY25sVGFVdHVkVkJHY1RCZlEzRk9Tekk1WWsxemFFcGtZelJPTFhnNFpXTXRjbFJDZW5BdGR4SVhNRUpMYW1GeU0waE1jRzVzTlU1dlVIcDBlVXg1UVRBYUlrRkVjM0k1WmxRM1ZWQXpkWEJGTTFsME5WQXdXbmxHTWxFeVUzTmZlRmRLZDJjIiwiZmN2IjoiMyIsImVpIjoiMEJLamFyM0hMcG5sNU5vUHp0eUx5QTAiLCJxYyI6IkNoeDJZVzVrWldkeWFXWjBJR2hwWjJnZ2MyTm9iMjlzSUhSbGVHRnpFQUI5ME5JUlB3IiwicXVlc3Rpb24iOiJJcyB2YW5kZWdyaWZ0IDZBPyIsImxrIjoiR2hCcGN5QjJZVzVrWldkeWFXWjBJRFpoIiwiYnMiOiJjM1dPTVF2Q01CQkdjYjFKSFNQQ0RhS29XMEVkaTV2T2l0VkpEazE3d1RhQkpLMy1mTnVxbENKZDd6M2VkM0NGVmNRR3lVcDBKcE1ZVTJaeWg1VG1tVlpvWWp5UnZzdkVxdGpqVGlXTWh4c2JrNGJCVkV5S0JuR0ZYSTNhQ1RqREptTHlxQng2bG1oSlA1Uk91c3VvTkI3bGkxd1lqTVdvWTZLcXdBVVdFY3Z5OFRKZHQteV8yTVNXWXY3ODJVVzM3U3NiWmpEWWY3V1B0ZDZHd1ZEMFZmdElfZDRiIiwiaWQiOiJmY18wQktqYXIzSExwbmw1Tm9QenR5THlBMF81In0%3D"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Vandegrift High School",
+   "link": "https://vhs.leanderisd.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUwHrOzAVbRpb56BuLibURf9fQ85v7CXRrJtZcw0D2eF8HLQISzYzEiC8kxEIc18Rma3B_5O0JxShPouzAN87HdKfEGSEEMRSZO60k0b4if3dm8n_&ved=2ahUKEwi97-fu7OSWAxWZMlkFHU7uAtkQFnoECEYQAQ&uoh=1",
+   "displayed_link": "https://vhs.leanderisd.org",
+   "favicon": "https://serpapi.com/images/i/UklGRg4BAABXRUJQVlA4IAIBAABwBQCdASocABwAPtE-tFooIigoFAEAGglnAMq1iu30AOPPhMrDUQkAnqP5wV9KnwtAar04AP72B7cdhAZ7dFHKx9hziX55q30TF-S9zlPuzH9PpT7Ow_EbsQkaOc9TWxodYqmI2POz0caEBZ2kFdHSIf3t7ZLKnGTpUJyBib7OzLxMndEGm94OLZbxycWlbEnJ2QOk_HpK3jdDOyL-0oN4UcSkRgb-cwo40whHgft_6bnWpUTZ9yI7RiuiPPjB2Eqt_yJz_jPd-KgSh-MP_Qa6yVY5xlR9TpFcVzh_VUNNT1sNZ_lMGYPGxlApILPaKhNeoMnrhKZATTVLYhYopB-4AAA.webp",
+   "snippet": "Vandegrift High School, named after 1st Lt. Matthew Vandegrift (Leander High class of 1999), takes pride in the many accomplishments of our students. To ...",
+   "snippet_highlighted_words": [
+    "Vandegrift High School"
+   ],
+   "sitelinks": {
+    "expanded": [
+     {
+      "title": "Directory",
+      "link": "https://vhs.leanderisd.org/directory",
+      "snippet": "Staff Directory. Veandegrift HS logo. Vandegrift High School ..."
+     },
+     {
+      "title": "Athletics",
+      "link": "https://vhs.leanderisd.org/campus_information/athletics",
+      "snippet": "Tickets. Veandegrift HS logo. Vandegrift High School. 9500 ..."
+     },
+     {
+      "title": "Calendar",
+      "link": "https://vhs.leanderisd.org/calendar",
+      "snippet": "Veandegrift HS logo. Vandegrift High School. 9500 McNeil Dr ..."
+     },
+     {
+      "title": "Who We Are",
+      "link": "https://vhs.leanderisd.org/campus_information/who-we-are",
+      "snippet": "Opened in the fall of 2009, Leander ISD's fifth high school ..."
+     },
+     {
+      "title": "Campus Info",
+      "link": "https://vhs.leanderisd.org/campus_information",
+      "snippet": "Campus Texas Academic Performance Report (TAPR ..."
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Vandegrift High School, named after 1st Lt. Matthew Vandegrift (Leander High class of 1999), takes pride in the many accomplishments of our students. To ...",
+     "source_info_link": "https://vhs.leanderisd.org/",
+     "icon": "https://serpapi.com/images/i/UklGRg4BAABXRUJQVlA4IAIBAABwBQCdASocABwAPtE-tFooIigoFAEAGglnAMq1iu30AOPPhMrDUQkAnqP5wV9KnwtAar04AP72B7cdhAZ7dFHKx9hziX55q30TF-S9zlPuzH9PpT7Ow_EbsQkaOc9TWxodYqmI2POz0caEBZ2kFdHSIf3t7ZLKnGTpUJyBib7OzLxMndEGm94OLZbxycWlbEnJ2QOk_HpK3jdDOyL-0oN4UcSkRgb-cwo40whHgft_6bnWpUTZ9yI7RiuiPPjB2Eqt_yJz_jPd-KgSh-MP_Qa6yVY5xlR9TpFcVzh_VUNNT1sNZ_lMGYPGxlApILPaKhNeoMnrhKZATTVLYhYopB-4AAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESUwHrOzAVbRpb56BuLibURf9fQ85v7CXRrJtZcw0D2eF8HLQISzYzEiC8kxEIc18Rma3B_5O0JxShPouzAN87HdKfEGSEEMRSZO60k0b4if3dm8n_&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESUwHrOzAVbRpb56BuLibURf9fQ85v7CXRrJtZcw0D2eF8HLQISzYzEiC8kxEIc18Rma3B_5O0JxShPouzAN87HdKfEGSEEMRSZO60k0b4if3dm8n_",
+   "source": "Vandegrift High School"
+  },
+  {
+   "position": 2,
+   "title": "Vandegrift High School",
+   "link": "https://en.wikipedia.org/wiki/Vandegrift_High_School",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHrOzAVJOGQlvk6TDKGGqFnL2vGo5c8-xjyFvM9SydJ2-uOFCGzMAd5LRXgyIleDl1951N1cTgiBEq4LvlNMAqS_vhGToFOn85kbLO07Fu9esrAyzaLXeq1DVhM8qH9vbh6pjiOspxRif52Fg&ved=2ahUKEwi97-fu7OSWAxWZMlkFHU7uAtkQFnoECE8QAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Vandegrift_High_Sch...",
+   "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+   "snippet": "Vandegrift High School is a public high school in Austin, Texas. It educates students in grades 9-12 for the Leander Independent School District.",
+   "snippet_highlighted_words": [
+    "Vandegrift High School",
+    "Texas"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Vandegrift High School is a public high school in Austin, Texas. It educates students in grades 9-12 for the Leander Independent School District.",
+     "source_info_link": "https://en.wikipedia.org/wiki/Vandegrift_High_School",
+     "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESbAHrOzAVJOGQlvk6TDKGGqFnL2vGo5c8-xjyFvM9SydJ2-uOFCGzMAd5LRXgyIleDl1951N1cTgiBEq4LvlNMAqS_vhGToFOn85kbLO07Fu9esrAyzaLXeq1DVhM8qH9vbh6pjiOspxRif52Fg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESbAHrOzAVJOGQlvk6TDKGGqFnL2vGo5c8-xjyFvM9SydJ2-uOFCGzMAd5LRXgyIleDl1951N1cTgiBEq4LvlNMAqS_vhGToFOn85kbLO07Fu9esrAyzaLXeq1DVhM8qH9vbh6pjiOspxRif52Fg",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Vandegrift_High_School#:~:text=Vandegrift%20High%20School%20is%20a,the%20Leander%20Independent%20School%20District."
+  },
+  {
+   "position": 3,
+   "title": "Vandegrift High School in Austin, TX",
+   "link": "https://www.usnews.com/education/best-high-schools/texas/districts/leander-independent-school-district/vandegrift-high-school-19434",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESvAEB6zswFaW-_85eAHCtAx2iCCP0KqZe4uIwmyUaBe0VHazJHdRkR_prUfa2QheSQoqXmJx4I28WIFegTncOJUPwBZAssBIh3iuUIMP1Za_dxZxt6he48Tm_BqSRS0nv0fZC8N8hsxJmXgb0dXJJZFFHs-r3ijq0yHFB3kUfi8zoZU9M9dm-LBnma-okfID05Q0OllMShY7UATNPQhdGsVXkdR3mSZneJsIfZt_ZyuRnjdPbTzh6QshEjnTkWw&ved=2ahUKEwi97-fu7OSWAxWZMlkFHU7uAtkQFnoECGQQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a education \u203a texas \u203a districts",
+   "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp",
+   "snippet": "Vandegrift High School is ranked 107th within Texas. Students have the opportunity to take Advanced Placement\u00ae coursework and exams.",
+   "snippet_highlighted_words": [
+    "Vandegrift High School",
+    "Texas"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Vandegrift High School is ranked 107th within Texas. Students have the opportunity to take Advanced Placement\u00ae coursework and exams.",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/texas/districts/leander-independent-school-district/vandegrift-high-school-19434",
+     "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESvAEB6zswFaW-_85eAHCtAx2iCCP0KqZe4uIwmyUaBe0VHazJHdRkR_prUfa2QheSQoqXmJx4I28WIFegTncOJUPwBZAssBIh3iuUIMP1Za_dxZxt6he48Tm_BqSRS0nv0fZC8N8hsxJmXgb0dXJJZFFHs-r3ijq0yHFB3kUfi8zoZU9M9dm-LBnma-okfID05Q0OllMShY7UATNPQhdGsVXkdR3mSZneJsIfZt_ZyuRnjdPbTzh6QshEjnTkWw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESvAEB6zswFaW-_85eAHCtAx2iCCP0KqZe4uIwmyUaBe0VHazJHdRkR_prUfa2QheSQoqXmJx4I28WIFegTncOJUPwBZAssBIh3iuUIMP1Za_dxZxt6he48Tm_BqSRS0nv0fZC8N8hsxJmXgb0dXJJZFFHs-r3ijq0yHFB3kUfi8zoZU9M9dm-LBnma-okfID05Q0OllMShY7UATNPQhdGsVXkdR3mSZneJsIfZt_ZyuRnjdPbTzh6QshEjnTkWw",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/texas/districts/leander-independent-school-district/vandegrift-high-school-19434#:~:text=Vandegrift%20High%20School%20is%20ranked,Advanced%20Placement%C2%AE%20coursework%20and%20exams."
+  },
+  {
+   "position": 4,
+   "title": "Schedule - Vandegrift Vipers (Austin, TX) Football 26-27",
+   "link": "https://www.maxpreps.com/tx/austin/vandegrift-vipers/football/schedule/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfwHrOzAVQhq-ulD4h_la1injwEJaMeAr7EW0hh9vOWo9Gg16lQU1EqEoKEZpm4bBUjWHguFZGOex6FP7lifLp5B_YMAbAuUkCINPTG8hapQ_h0QeD83FHhYb8mIN6SKpx34vlwpLJ52a0BaXkz_sHaW-vv8g2k_4qMudJ4uW770&ved=2ahUKEwi97-fu7OSWAxWZMlkFHU7uAtkQFnoECGcQAQ&uoh=1",
+   "displayed_link": "https://www.maxpreps.com \u203a austin \u203a football \u203a schedule",
+   "favicon": "https://serpapi.com/images/i/UklGRiABAABXRUJQVlA4IBQBAACQBgCdASocABwAPtEwtFooIigoGAEAGglsAMcjXhQIMBLJPoAdLB5QCeA92iBTGskLs8r3XyB_v0YQpEDAAP72B9a-IG-P3R_UdqQnvLoZazJ3_hD6b33Zrtz20RZgJiv79VLCko7nwRuKtV_tKX5qfEnzpjwWAKeeC-Hoi40eGvSLyzF7o0Q3576t2nK2-Te2OXHxzP8JnfVwG8zf3faxGWgPLQuWGTGMoX5Uv3_f_4ujvlktm6Hp1ydL_9_LAhZUQlDz38F2gIRo1k1gl_-zBXz_J3X_mzUXtdhkfGXcvCt3-JWt1TUdYyVEimwb_iG__v19FfYkvr0Givdah3CLEq6DV_OFEpkdb5aSt_-sA7lnAAA.webp",
+   "date": "5 days ago",
+   "snippet": "Vandegrift High School. 9500 McNeil Dr. Austin, TX 78730. Texas University Interscholastic League logo UIL, Official ...",
+   "snippet_highlighted_words": [
+    "Vandegrift High School",
+    "TX",
+    "Texas"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Vandegrift High School. 9500 McNeil Dr. Austin, TX 78730. Texas University Interscholastic League logo UIL, Official ...",
+     "source_info_link": "https://www.maxpreps.com/tx/austin/vandegrift-vipers/football/schedule/",
+     "icon": "https://serpapi.com/images/i/UklGRiABAABXRUJQVlA4IBQBAACQBgCdASocABwAPtEwtFooIigoGAEAGglsAMcjXhQIMBLJPoAdLB5QCeA92iBTGskLs8r3XyB_v0YQpEDAAP72B9a-IG-P3R_UdqQnvLoZazJ3_hD6b33Zrtz20RZgJiv79VLCko7nwRuKtV_tKX5qfEnzpjwWAKeeC-Hoi40eGvSLyzF7o0Q3576t2nK2-Te2OXHxzP8JnfVwG8zf3faxGWgPLQuWGTGMoX5Uv3_f_4ujvlktm6Hp1ydL_9_LAhZUQlDz38F2gIRo1k1gl_-zBXz_J3X_mzUXtdhkfGXcvCt3-JWt1TUdYyVEimwb_iG__v19FfYkvr0Givdah3CLEq6DV_OFEpkdb5aSt_-sA7lnAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESfwHrOzAVQhq-ulD4h_la1injwEJaMeAr7EW0hh9vOWo9Gg16lQU1EqEoKEZpm4bBUjWHguFZGOex6FP7lifLp5B_YMAbAuUkCINPTG8hapQ_h0QeD83FHhYb8mIN6SKpx34vlwpLJ52a0BaXkz_sHaW-vv8g2k_4qMudJ4uW770&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESfwHrOzAVQhq-ulD4h_la1injwEJaMeAr7EW0hh9vOWo9Gg16lQU1EqEoKEZpm4bBUjWHguFZGOex6FP7lifLp5B_YMAbAuUkCINPTG8hapQ_h0QeD83FHhYb8mIN6SKpx34vlwpLJ52a0BaXkz_sHaW-vv8g2k_4qMudJ4uW770",
+   "source": "MaxPreps",
+   "read_more_link": "https://www.maxpreps.com/tx/austin/vandegrift-vipers/football/schedule/#:~:text=Vandegrift%20High%20School,UIL%2C%20Official%20MaxPreps%20partner"
+  },
+  {
+   "position": 5,
+   "title": "Vandegrift High School in Austin, TX",
+   "link": "https://www.niche.com/k12/vandegrift-high-school-austin-tx/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHrOzAVjMutLtMWVuBE-RllNpt-T61D48bNyrUcZjXknZdmn7HIEEHATSoiOJtWyNyZljvneZ3juSlGODPLVUppQ_RqzPePJOtR06PmY8KJl392CcXIzbglO0Cu-luvVcRXzwHvHiF4dkzs7hMMFmnhyss&ved=2ahUKEwi97-fu7OSWAxWZMlkFHU7uAtkQFnoECGMQAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a Texas",
+   "favicon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAACwBgCdASocABwAPtEutFooIagoGAEAGglAGZo7gYv7m0TPt8r_WYdmpcah9WA48zicEtVrCFOGH4nMtJiaAAD-8Mpqn5wztwFeSDXF5YavmSdrcpv67JtS1tKl7uW6N9aR19WH-vT5VtxqndfSU_QIzB4R0m5fNi1eX3h8GYa_8H28-7o-nc3D2GEvZqGTES8muP_UCP_UIYsGh8QXK7V2sBnUP79qQidv_o8__S3xjZZmmXEG69VP00Dn3HuddwtLR_4xf_0PU8NPn060X-47u3VDw39ZbBgpwK3wP0F5tHUWMrTdTbcT_h7ghKmtPgKiKNIvGUNLHBT4VbzlXgvFo7vCP-ot_w6I_hOg9EcgQfabjpYvU6X4xcxi9BIxh2PJomEF2PA_XoL7FtzFNUuyE0IG83Bax0ZYU-dxj0EhgAAA.webp",
+   "snippet": "Vandegrift High School is a top rated, public school located in AUSTIN, TX. It has 2,437 students in grades 9-12 with a student-teacher ratio of 16 to 1.",
+   "snippet_highlighted_words": [
+    "Vandegrift High School",
+    "TX"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Vandegrift High School is a top rated, public school located in AUSTIN, TX. It has 2,437 students in grades 9-12 with a student-teacher ratio of 16 to 1.",
+     "source_info_link": "https://www.niche.com/k12/vandegrift-high-school-austin-tx/",
+     "icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAACwBgCdASocABwAPtEutFooIagoGAEAGglAGZo7gYv7m0TPt8r_WYdmpcah9WA48zicEtVrCFOGH4nMtJiaAAD-8Mpqn5wztwFeSDXF5YavmSdrcpv67JtS1tKl7uW6N9aR19WH-vT5VtxqndfSU_QIzB4R0m5fNi1eX3h8GYa_8H28-7o-nc3D2GEvZqGTES8muP_UCP_UIYsGh8QXK7V2sBnUP79qQidv_o8__S3xjZZmmXEG69VP00Dn3HuddwtLR_4xf_0PU8NPn060X-47u3VDw39ZbBgpwK3wP0F5tHUWMrTdTbcT_h7ghKmtPgKiKNIvGUNLHBT4VbzlXgvFo7vCP-ot_w6I_hOg9EcgQfabjpYvU6X4xcxi9BIxh2PJomEF2PA_XoL7FtzFNUuyE0IG83Bax0ZYU-dxj0EhgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEScwHrOzAVjMutLtMWVuBE-RllNpt-T61D48bNyrUcZjXknZdmn7HIEEHATSoiOJtWyNyZljvneZ3juSlGODPLVUppQ_RqzPePJOtR06PmY8KJl392CcXIzbglO0Cu-luvVcRXzwHvHiF4dkzs7hMMFmnhyss&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEScwHrOzAVjMutLtMWVuBE-RllNpt-T61D48bNyrUcZjXknZdmn7HIEEHATSoiOJtWyNyZljvneZ3juSlGODPLVUppQ_RqzPePJOtR06PmY8KJl392CcXIzbglO0Cu-luvVcRXzwHvHiF4dkzs7hMMFmnhyss",
+   "source": "Niche",
+   "read_more_link": "https://www.niche.com/k12/vandegrift-high-school-austin-tx/#:~:text=Vandegrift%20High%20School%20is%20a,ratio%20of%2016%20to%201."
+  },
+  {
+   "position": 6,
+   "title": "Vandegrift High School in Austin, Texas on DonorsChoose",
+   "link": "https://www.donorschoose.org/schools/texas/leander-independent-school-district/vandegraft-high-school/98347",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESowEB6zswFWhppylGBLbItZ9AbE-SCt4YqUXc9qseL2egAYZWiIt_-SH-5fzGBT_fF8wAuVD-_oRjwDvheCPhxLdsGBTOZieEeTkBdjcrBdIXTNVTqRhHn_5Ai-67sz5r6ahKrsBRYkwoPutKuQauzpgQ8LMZ3LOHMibRQ3iJADqmVRhf6sGJXevGcsRKVge9-1YSfSkGXLyV8kuGMa3H58klhbH0&ved=2ahUKEwi97-fu7OSWAxWZMlkFHU7uAtkQFnoECGUQAQ&uoh=1",
+   "displayed_link": "https://www.donorschoose.org \u203a vandegraft-high-school",
+   "favicon": "https://serpapi.com/images/i/UklGRswAAABXRUJQVlA4IMAAAABwBQCdASocABwAPtEwtFooIigoGAEAGglsAKknND9QgUiCtSxixOFp4uhGPS57r1rBvQAAAP78Ruvp_RopI31agF2kTcvpn_nJpqDkB-JZ3L4TnmXfH8Lj7_7aH_7LAv_qWkLImNPY960ex9CxAdN4Rj2bYpPBjMs4lAfwcelVvNLkNVmPcrR_CPQWyeuMExXrAK1CRpFOK2_rpU32_y9RFVHtRr1D17PWVgxOgSGl1SdGJuoFHhfsjXVLLo5igAA.webp",
+   "snippet": "Vandegrift High School is an urban public school in Austin, Texas that is part of Leander Independent School District. It serves 2,339 students in grades 9 ...",
+   "snippet_highlighted_words": [
+    "Vandegrift High School",
+    "Texas"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Vandegrift High School is an urban public school in Austin, Texas that is part of Leander Independent School District. It serves 2,339 students in grades 9 ...",
+     "source_info_link": "https://www.donorschoose.org/schools/texas/leander-independent-school-district/vandegraft-high-school/98347",
+     "icon": "https://serpapi.com/images/i/UklGRswAAABXRUJQVlA4IMAAAABwBQCdASocABwAPtEwtFooIigoGAEAGglsAKknND9QgUiCtSxixOFp4uhGPS57r1rBvQAAAP78Ruvp_RopI31agF2kTcvpn_nJpqDkB-JZ3L4TnmXfH8Lj7_7aH_7LAv_qWkLImNPY960ex9CxAdN4Rj2bYpPBjMs4lAfwcelVvNLkNVmPcrR_CPQWyeuMExXrAK1CRpFOK2_rpU32_y9RFVHtRr1D17PWVgxOgSGl1SdGJuoFHhfsjXVLLo5igAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESowEB6zswFWhppylGBLbItZ9AbE-SCt4YqUXc9qseL2egAYZWiIt_-SH-5fzGBT_fF8wAuVD-_oRjwDvheCPhxLdsGBTOZieEeTkBdjcrBdIXTNVTqRhHn_5Ai-67sz5r6ahKrsBRYkwoPutKuQauzpgQ8LMZ3LOHMibRQ3iJADqmVRhf6sGJXevGcsRKVge9-1YSfSkGXLyV8kuGMa3H58klhbH0&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESowEB6zswFWhppylGBLbItZ9AbE-SCt4YqUXc9qseL2egAYZWiIt_-SH-5fzGBT_fF8wAuVD-_oRjwDvheCPhxLdsGBTOZieEeTkBdjcrBdIXTNVTqRhHn_5Ai-67sz5r6ahKrsBRYkwoPutKuQauzpgQ8LMZ3LOHMibRQ3iJADqmVRhf6sGJXevGcsRKVge9-1YSfSkGXLyV8kuGMa3H58klhbH0",
+   "source": "DonorsChoose",
+   "read_more_link": "https://www.donorschoose.org/schools/texas/leander-independent-school-district/vandegraft-high-school/98347#:~:text=Vandegrift%20High%20School%20is%20an,a%20student%2Fteacher%20ratio%20of%2015.4%3A1."
+  },
+  {
+   "position": 7,
+   "title": "Vandegrift High School",
+   "link": "https://schools.texastribune.org/districts/leander-isd/vandegrift-high-school/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShgEB6zswFdmp9VgNsck167tYMov4jWoVSewOwL26vUH_HEe5OVGFrJ0YwOszkyjRkOd-E3feeSlQyxOwtvR4XDFZPNuP07FelfoaR025u2lh-2L-Fxx2loxHJnPRv3Qont4GzkXtnI_Fn2YIkgEjmz1FuTEVFuXiFqBMvupCjZ-rZ2b-pPHu3Q&ved=2ahUKEwi97-fu7OSWAxWZMlkFHU7uAtkQFnoECGIQAQ&uoh=1",
+   "displayed_link": "https://schools.texastribune.org \u203a districts \u203a leander-isd",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA6UlEQVR4AWJwL_AZUIzCAbRfBjcMgzAAzBIdgQ2YgS-vbMEg3oMVOkH7yLu_LMAcqVVhCVmq2wYcS1Ue94mMfCaWhbfb5JGgjJcECrIp85AE1gMElr8SyEixFPAImAm8ztyni5UAyOe0BbDy5lw6WmDlE01LICEzEmmKIY4nb3rBNdM0VnLXDVDCPdQChvyCtCP5dXQP5B-SF60mLB8SO4q1EcBG1BaAvuvvFwgsfkYc-wZqAkKXt2M5aAksNSa-6w8az1oCiVUtxykInE-yU8BsL8iIH4j7VqDQGqWGIABWyynQNDMRsOAJz6EDhWNyTBIAAAAASUVORK5CYII.png",
+   "snippet": "Vandegrift High School is a school in Leander ISD. The district is located in Williamson County. As of the most recent enrollment data released by the state ...",
+   "snippet_highlighted_words": [
+    "Vandegrift High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Vandegrift High School is a school in Leander ISD. The district is located in Williamson County. As of the most recent enrollment data released by the state ...",
+     "source_info_link": "https://schools.texastribune.org/districts/leander-isd/vandegrift-high-school/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA6UlEQVR4AWJwL_AZUIzCAbRfBjcMgzAAzBIdgQ2YgS-vbMEg3oMVOkH7yLu_LMAcqVVhCVmq2wYcS1Ue94mMfCaWhbfb5JGgjJcECrIp85AE1gMElr8SyEixFPAImAm8ztyni5UAyOe0BbDy5lw6WmDlE01LICEzEmmKIY4nb3rBNdM0VnLXDVDCPdQChvyCtCP5dXQP5B-SF60mLB8SO4q1EcBG1BaAvuvvFwgsfkYc-wZqAkKXt2M5aAksNSa-6w8az1oCiVUtxykInE-yU8BsL8iIH4j7VqDQGqWGIABWyynQNDMRsOAJz6EDhWNyTBIAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEShgEB6zswFdmp9VgNsck167tYMov4jWoVSewOwL26vUH_HEe5OVGFrJ0YwOszkyjRkOd-E3feeSlQyxOwtvR4XDFZPNuP07FelfoaR025u2lh-2L-Fxx2loxHJnPRv3Qont4GzkXtnI_Fn2YIkgEjmz1FuTEVFuXiFqBMvupCjZ-rZ2b-pPHu3Q&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEShgEB6zswFdmp9VgNsck167tYMov4jWoVSewOwL26vUH_HEe5OVGFrJ0YwOszkyjRkOd-E3feeSlQyxOwtvR4XDFZPNuP07FelfoaR025u2lh-2L-Fxx2loxHJnPRv3Qont4GzkXtnI_Fn2YIkgEjmz1FuTEVFuXiFqBMvupCjZ-rZ2b-pPHu3Q",
+   "source": "The Texas Tribune",
+   "read_more_link": "https://schools.texastribune.org/districts/leander-isd/vandegrift-high-school/#:~:text=Vandegrift%20High%20School%20is%20a,white%20and%2010.7%25%20economically%20disadvantaged."
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Vandegrift high school texas ranking",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Vandegrift+high+school+texas+ranking&sa=X&ved=2ahUKEwi97-fu7OSWAxWZMlkFHU7uAtkQ1QJ6BAhmEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Vandegrift+high+school+texas+ranking"
+  },
+  {
+   "block_position": 1,
+   "query": "Vandegrift high school texas football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Vandegrift+high+school+texas+football&sa=X&ved=2ahUKEwi97-fu7OSWAxWZMlkFHU7uAtkQ1QJ6BAh7EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Vandegrift+high+school+texas+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Vandegrift high school texas alumni",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Vandegrift+high+school+texas+alumni&sa=X&ved=2ahUKEwi97-fu7OSWAxWZMlkFHU7uAtkQ1QJ6BAh5EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Vandegrift+high+school+texas+alumni"
+  },
+  {
+   "block_position": 1,
+   "query": "Vandegrift high school Austin",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Vandegrift+high+school+Austin&sa=X&ved=2ahUKEwi97-fu7OSWAxWZMlkFHU7uAtkQ1QJ6BAhzEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Vandegrift+high+school+Austin"
+  },
+  {
+   "block_position": 1,
+   "query": "Vandegrift High School student death",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Vandegrift+High+School+student+death&sa=X&ved=2ahUKEwi97-fu7OSWAxWZMlkFHU7uAtkQ1QJ6BAhxEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Vandegrift+High+School+student+death"
+  },
+  {
+   "block_position": 1,
+   "query": "Vandegrift high school texas famous alumni",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Vandegrift+high+school+texas+famous+alumni&sa=X&ved=2ahUKEwi97-fu7OSWAxWZMlkFHU7uAtkQ1QJ6BAhuEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Vandegrift+high+school+texas+famous+alumni"
+  },
+  {
+   "block_position": 1,
+   "query": "Vandegrift High School ranking",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Vandegrift+High+School+ranking&sa=X&ved=2ahUKEwi97-fu7OSWAxWZMlkFHU7uAtkQ1QJ6BAhqEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Vandegrift+High+School+ranking"
+  },
+  {
+   "block_position": 1,
+   "query": "Vandegrift High School photos",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Vandegrift+High+School+photos&sa=X&ved=2ahUKEwi97-fu7OSWAxWZMlkFHU7uAtkQ1QJ6BAhoEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Vandegrift+High+School+photos"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Vandegrift+High+School%22+Texas&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=0BKjar3HLpnl5NoPztyLyA0&start=10&sa=N&sstk=AS6-VmLGkRVui0dgvY0c7fxeYIxkXcV4NFHvKKPoQZji6yzfGDQctbQkC6gRvslD1pXG9eOeJ8KL---fAvqXGfkAd1tS82fIKuULBA&ved=2ahUKEwi97-fu7OSWAxWZMlkFHU7uAtkQ8NMDegQIWBAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Vandegrift+High+School%22+Texas&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=0BKjar3HLpnl5NoPztyLyA0&start=10&sa=N&sstk=AS6-VmLGkRVui0dgvY0c7fxeYIxkXcV4NFHvKKPoQZji6yzfGDQctbQkC6gRvslD1pXG9eOeJ8KL---fAvqXGfkAd1tS82fIKuULBA&ved=2ahUKEwi97-fu7OSWAxWZMlkFHU7uAtkQ8tMDegQIWBAE",
+   "3": "https://www.google.com/search?q=%22Vandegrift+High+School%22+Texas&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=0BKjar3HLpnl5NoPztyLyA0&start=20&sa=N&sstk=AS6-VmLGkRVui0dgvY0c7fxeYIxkXcV4NFHvKKPoQZji6yzfGDQctbQkC6gRvslD1pXG9eOeJ8KL---fAvqXGfkAd1tS82fIKuULBA&ved=2ahUKEwi97-fu7OSWAxWZMlkFHU7uAtkQ8tMDegQIWBAG",
+   "4": "https://www.google.com/search?q=%22Vandegrift+High+School%22+Texas&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=0BKjar3HLpnl5NoPztyLyA0&start=30&sa=N&sstk=AS6-VmLGkRVui0dgvY0c7fxeYIxkXcV4NFHvKKPoQZji6yzfGDQctbQkC6gRvslD1pXG9eOeJ8KL---fAvqXGfkAd1tS82fIKuULBA&ved=2ahUKEwi97-fu7OSWAxWZMlkFHU7uAtkQ8tMDegQIWBAI",
+   "5": "https://www.google.com/search?q=%22Vandegrift+High+School%22+Texas&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=0BKjar3HLpnl5NoPztyLyA0&start=40&sa=N&sstk=AS6-VmLGkRVui0dgvY0c7fxeYIxkXcV4NFHvKKPoQZji6yzfGDQctbQkC6gRvslD1pXG9eOeJ8KL---fAvqXGfkAd1tS82fIKuULBA&ved=2ahUKEwi97-fu7OSWAxWZMlkFHU7uAtkQ8tMDegQIWBAK",
+   "6": "https://www.google.com/search?q=%22Vandegrift+High+School%22+Texas&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=0BKjar3HLpnl5NoPztyLyA0&start=50&sa=N&sstk=AS6-VmLGkRVui0dgvY0c7fxeYIxkXcV4NFHvKKPoQZji6yzfGDQctbQkC6gRvslD1pXG9eOeJ8KL---fAvqXGfkAd1tS82fIKuULBA&ved=2ahUKEwi97-fu7OSWAxWZMlkFHU7uAtkQ8tMDegQIWBAM",
+   "7": "https://www.google.com/search?q=%22Vandegrift+High+School%22+Texas&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=0BKjar3HLpnl5NoPztyLyA0&start=60&sa=N&sstk=AS6-VmLGkRVui0dgvY0c7fxeYIxkXcV4NFHvKKPoQZji6yzfGDQctbQkC6gRvslD1pXG9eOeJ8KL---fAvqXGfkAd1tS82fIKuULBA&ved=2ahUKEwi97-fu7OSWAxWZMlkFHU7uAtkQ8tMDegQIWBAO",
+   "8": "https://www.google.com/search?q=%22Vandegrift+High+School%22+Texas&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=0BKjar3HLpnl5NoPztyLyA0&start=70&sa=N&sstk=AS6-VmLGkRVui0dgvY0c7fxeYIxkXcV4NFHvKKPoQZji6yzfGDQctbQkC6gRvslD1pXG9eOeJ8KL---fAvqXGfkAd1tS82fIKuULBA&ved=2ahUKEwi97-fu7OSWAxWZMlkFHU7uAtkQ8tMDegQIWBAQ",
+   "9": "https://www.google.com/search?q=%22Vandegrift+High+School%22+Texas&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=0BKjar3HLpnl5NoPztyLyA0&start=80&sa=N&sstk=AS6-VmLGkRVui0dgvY0c7fxeYIxkXcV4NFHvKKPoQZji6yzfGDQctbQkC6gRvslD1pXG9eOeJ8KL---fAvqXGfkAd1tS82fIKuULBA&ved=2ahUKEwi97-fu7OSWAxWZMlkFHU7uAtkQ8tMDegQIWBAS",
+   "10": "https://www.google.com/search?q=%22Vandegrift+High+School%22+Texas&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=0BKjar3HLpnl5NoPztyLyA0&start=90&sa=N&sstk=AS6-VmLGkRVui0dgvY0c7fxeYIxkXcV4NFHvKKPoQZji6yzfGDQctbQkC6gRvslD1pXG9eOeJ8KL---fAvqXGfkAd1tS82fIKuULBA&ved=2ahUKEwi97-fu7OSWAxWZMlkFHU7uAtkQ8tMDegQIWBAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Vandegrift+High+School%22+Texas&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Vandegrift+High+School%22+Texas&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Vandegrift+High+School%22+Texas&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Vandegrift+High+School%22+Texas&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Vandegrift+High+School%22+Texas&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Vandegrift+High+School%22+Texas&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Vandegrift+High+School%22+Texas&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Vandegrift+High+School%22+Texas&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Vandegrift+High+School%22+Texas&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Vandegrift+High+School%22+Texas&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Vandegrift+High+School%22+Texas&start=90"
+  }
+ }
+}

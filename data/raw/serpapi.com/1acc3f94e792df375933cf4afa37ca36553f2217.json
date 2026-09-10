@@ -1,0 +1,569 @@
+{
+ "search_information": {
+  "query_displayed": "\"Concord Community High School\" Indiana",
+  "total_results": 31600,
+  "time_taken_displayed": 0.32,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "local_map": {
+  "link": "https://www.google.com/search?q=%22Concord+Community+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&udm=1&lsack=lQ2jarrYJ7Oj5NoPxeiimAg&sa=X&ved=2ahUKEwj69qLw5-SWAxWzEVkFHUW0CIMQtgN6BAgdEAM",
+  "image": "https://serpapi.com/searches/6aa30d8fc83b3f08b728982b/images/4UQaqhUqPSVuuUiiubXpAw.png",
+  "gps_coordinates": {
+   "latitude": 41.63443345243482,
+   "longitude": -85.93771934509277
+  }
+ },
+ "local_results": {
+  "places": [
+   {
+    "position": 1,
+    "links": {
+     "website": "http://www.concord.k12.in.us/high-school",
+     "directions": "https://www.google.com/maps/dir//Concord+High+School,+59117+Minuteman+Way,+Elkhart,+IN+46517/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8816e9d85a4610ef:0x1b62d46f298cdafb?sa=X&ved=2ahUKEwj69qLw5-SWAxWzEVkFHUW0CIMQ48ADegQIGxAA&hl=en&gl=us"
+    },
+    "place_id": "1973373160645253883",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=1973373160645253883&q=%22Concord+Community+High+School%22+Indiana",
+    "provider_id": "/m/0d6_6n",
+    "gps_coordinates": {
+     "latitude": 41.636105,
+     "longitude": -85.928106
+    },
+    "title": "Concord High School",
+    "reviews_original": "No reviews",
+    "type": "High school",
+    "phone": "(574) 875-6524",
+    "address": "Elkhart, IN",
+    "hours": "Closed \u00b7 Opens 8:30 AM Fri"
+   },
+   {
+    "position": 2,
+    "links": {
+     "website": "http://www.concordschools.com/",
+     "directions": "https://www.google.com/maps/dir//Concord+Junior+High+School,+59397+Co+Rd+11,+Elkhart,+IN+46517/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8816e9da3a12a2c5:0x41bd11c31850d348?sa=X&ved=2ahUKEwj69qLw5-SWAxWzEVkFHUW0CIMQ48ADegQIHBAA&hl=en&gl=us"
+    },
+    "place_id": "4736961912687874888",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=4736961912687874888&q=%22Concord+Community+High+School%22+Indiana",
+    "provider_id": "/m/076qpdb",
+    "gps_coordinates": {
+     "latitude": 41.631889,
+     "longitude": -85.947335
+    },
+    "title": "Concord Junior High School",
+    "reviews_original": "No reviews",
+    "type": "High school",
+    "phone": "(574) 875-5122",
+    "address": "Elkhart, IN",
+    "hours": "Closed \u00b7 Opens 7:25 AM Fri"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "What is the #1 ranked high school in Indiana?",
+   "type": "ai_overview",
+   "page_token": "gaV4-nicHZBNjtowGEDVy8xySBygAgmNlAETPJOgJPZnyKYKNr-2sQF38rPrFXqGnqqnKeru6a2e3q8_-nxVf7_9PnnvHtPBoGma16O1R71_FdYM6kd3FQNRa72rhZqOv4_Dt4OYLb5E_H4Xcc6cg3kRlMCCvRk1kOBWmoxse2zThKw51WHN2vEna1e7oA15IhVDsqwD1XC8agE9PdYsZ8PRk0lWhtdyTnrA-WiPU0_xRLG58Bny5_Qirbjgj7LXCHD2wZWLZYIdKD8UF60K5DvKTgmncVchOfrkZEU5QdRoU22KKGfVvVjKnC79DRJyA-bXoArYIFxJED0s4H2X4ItcnNJdmBmIdFZzKOouTLKAXAVMyoxLsjjJB6Pktt2QjjMbUWRDaib5fgmu5mFctfacs6J_Nhm2ketyOUlzcIaVwXBr8M8KQ0RBt4XZDhmqnGxeDuJrFr38fz37cTB-6u72-A-N3Y1S",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=gaV4-nicHZBNjtowGEDVy8xySBygAgmNlAETPJOgJPZnyKYKNr-2sQF38rPrFXqGnqqnKeru6a2e3q8_-nxVf7_9PnnvHtPBoGma16O1R71_FdYM6kd3FQNRa72rhZqOv4_Dt4OYLb5E_H4Xcc6cg3kRlMCCvRk1kOBWmoxse2zThKw51WHN2vEna1e7oA15IhVDsqwD1XC8agE9PdYsZ8PRk0lWhtdyTnrA-WiPU0_xRLG58Bny5_Qirbjgj7LXCHD2wZWLZYIdKD8UF60K5DvKTgmncVchOfrkZEU5QdRoU22KKGfVvVjKnC79DRJyA-bXoArYIFxJED0s4H2X4ItcnNJdmBmIdFZzKOouTLKAXAVMyoxLsjjJB6Pktt2QjjMbUWRDaib5fgmu5mFctfacs6J_Nhm2ketyOUlzcIaVwXBr8M8KQ0RBt4XZDhmqnGxeDuJrFr38fz37cTB-6u72-A-N3Y1S",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWRuQkJlREoxVGtWWGRFcFVVbTlhTmpod2FHeFNSRFo1VW1OVmFUbDJjWFZtVEhkaVpYa3dkVFl0VFZKVlZYcFdhVmhsVWs1cFkwTm9MV1pmU1ZGMFFYWXpTbU5MYVhJek0ycHdibXBuV0hKMlVFbE5XVzFKWkRBM1p4SVhiRkV5YW1GeWNsbEtOMDlxTlU1dlVIaGxhV2x0UVdjYUlrRkVjM0k1WmxKS01tc3lNVFprU0hsbWJXUkhNVkIxVUhKM1VuZzBaVVowVFdjIiwiZmN2IjoiMyIsImVpIjoibFEyamFycllKN09qNU5vUHhlaWltQWciLCJxYyI6IkNpVmpiMjVqYjNKa0lHTnZiVzExYm1sMGVTQm9hV2RvSUhOamFHOXZiQ0JwYm1ScFlXNWhFQUI5ME5JUlB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSAjMSByYW5rZWQgaGlnaCBzY2hvb2wgaW4gSW5kaWFuYT8iLCJsayI6IkdpeDNhR0YwSUdseklIUm9aU0FqTVNCeVlXNXJaV1FnYUdsbmFDQnpZMmh2YjJ3Z2FXNGdhVzVrYVdGdVlRIiwiYnMiOiJjNDJRUFF2Q01CQ0djYzNrbk9tZ2lGLXQwUDZCRGwxMGRpZ0lJaUVKdVVOTm9Ja1VfNzMwQzR3NGRMN25lZC03WXplVzFTZ0NrSWVBR3BJY0dtSHZXZ0dTUWZBU25Yc0FXVGhaUmNLS3Nqand0SjBqMENDd0M4dW5nc3BaNlJvRng0NDg5LVRhOXpwWkU1V3NlQ0pIT0k3dDU1UENhcmF0OFEyS1ZKd3RVVmlqdV8yb2dhZncwb1d5MlBGTk84SlI5aC1ZWFZuNl9aWGdYZ2ExRDc4M1ZraFNHRmNXR2QtM00zZzU4TXZGQnciLCJpZCI6ImZjX2xRMmphcnJZSjdPajVOb1B4ZWlpbUFnXzYifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWRuQkJlREoxVGtWWGRFcFVVbTlhTmpod2FHeFNSRFo1VW1OVmFUbDJjWFZtVEhkaVpYa3dkVFl0VFZKVlZYcFdhVmhsVWs1cFkwTm9MV1pmU1ZGMFFYWXpTbU5MYVhJek0ycHdibXBuV0hKMlVFbE5XVzFKWkRBM1p4SVhiRkV5YW1GeWNsbEtOMDlxTlU1dlVIaGxhV2x0UVdjYUlrRkVjM0k1WmxKS01tc3lNVFprU0hsbWJXUkhNVkIxVUhKM1VuZzBaVVowVFdjIiwiZmN2IjoiMyIsImVpIjoibFEyamFycllKN09qNU5vUHhlaWltQWciLCJxYyI6IkNpVmpiMjVqYjNKa0lHTnZiVzExYm1sMGVTQm9hV2RvSUhOamFHOXZiQ0JwYm1ScFlXNWhFQUI5ME5JUlB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSAjMSByYW5rZWQgaGlnaCBzY2hvb2wgaW4gSW5kaWFuYT8iLCJsayI6IkdpeDNhR0YwSUdseklIUm9aU0FqTVNCeVlXNXJaV1FnYUdsbmFDQnpZMmh2YjJ3Z2FXNGdhVzVrYVdGdVlRIiwiYnMiOiJjNDJRUFF2Q01CQ0djYzNrbk9tZ2lGLXQwUDZCRGwxMGRpZ0lJaUVKdVVOTm9Ja1VfNzMwQzR3NGRMN25lZC03WXplVzFTZ0NrSWVBR3BJY0dtSHZXZ0dTUWZBU25Yc0FXVGhaUmNLS3Nqand0SjBqMENDd0M4dW5nc3BaNlJvRng0NDg5LVRhOXpwWkU1V3NlQ0pIT0k3dDU1UENhcmF0OFEyS1ZKd3RVVmlqdV8yb2dhZncwb1d5MlBGTk84SlI5aC1ZWFZuNl9aWGdYZ2ExRDc4M1ZraFNHRmNXR2QtM00zZzU4TXZGQnciLCJpZCI6ImZjX2xRMmphcnJZSjdPajVOb1B4ZWlpbUFnXzYifQ%3D%3D"
+  },
+  {
+   "question": "What is Concord High School's ranking in Indiana?",
+   "type": "ai_overview",
+   "page_token": "qhq6F3icHdBdbpswAABg9TJ9bLBZOyVSNInVDvGSEIx_wC8TtRNIbANNaIC87Qo9Q0-100zad4Tvz5c7Nfbvw2fd9911MZsNw_BUtW3lDk-69bPyOjV6pkvn3kptFy_fX8CPo16im45-XnSU8q4TrzRgsSOl62zamJOKI8YQzSiav3OMiQqe9wz1IoMUm9Dstag3hZ3_2mE0MRC9FnxMtnKcEqkIc6bW2EAOzUbcFcsDsWbyeeKy6vOgmrZncpTcocwHowC0oCtzNoI2G94rHRNp7pGlsL4muPomgPlIVnUoxXpIJcgzKRCFA8xs1x9QDVMptgI6_5YTW4A65nE7KqY8dd2kcwwK6dY7Cy5paPtEktvWiYuKTYRqc-WMvBc5mSRvQwZbwPw8PaxEV0oQqbE9pZze9dl5HmhY3iNqbBeXcOflStHMz9ebXBSswcAwvOfp41HfluHj_-vl76PvF92lrf4Be7WNXw",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=qhq6F3icHdBdbpswAABg9TJ9bLBZOyVSNInVDvGSEIx_wC8TtRNIbANNaIC87Qo9Q0-100zad4Tvz5c7Nfbvw2fd9911MZsNw_BUtW3lDk-69bPyOjV6pkvn3kptFy_fX8CPo16im45-XnSU8q4TrzRgsSOl62zamJOKI8YQzSiav3OMiQqe9wz1IoMUm9Dstag3hZ3_2mE0MRC9FnxMtnKcEqkIc6bW2EAOzUbcFcsDsWbyeeKy6vOgmrZncpTcocwHowC0oCtzNoI2G94rHRNp7pGlsL4muPomgPlIVnUoxXpIJcgzKRCFA8xs1x9QDVMptgI6_5YTW4A65nE7KqY8dd2kcwwK6dY7Cy5paPtEktvWiYuKTYRqc-WMvBc5mSRvQwZbwPw8PaxEV0oQqbE9pZze9dl5HmhY3iNqbBeXcOflStHMz9ebXBSswcAwvOfp41HfluHj_-vl76PvF92lrf4Be7WNXw",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWRuQkJlREoxVGtWWGRFcFVVbTlhTmpod2FHeFNSRFo1VW1OVmFUbDJjWFZtVEhkaVpYa3dkVFl0VFZKVlZYcFdhVmhsVWs1cFkwTm9MV1pmU1ZGMFFYWXpTbU5MYVhJek0ycHdibXBuV0hKMlVFbE5XVzFKWkRBM1p4SVhiRkV5YW1GeWNsbEtOMDlxTlU1dlVIaGxhV2x0UVdjYUlrRkVjM0k1WmxKS01tc3lNVFprU0hsbWJXUkhNVkIxVUhKM1VuZzBaVVowVFdjIiwiZmN2IjoiMyIsImVpIjoibFEyamFycllKN09qNU5vUHhlaWltQWciLCJxYyI6IkNpVmpiMjVqYjNKa0lHTnZiVzExYm1sMGVTQm9hV2RvSUhOamFHOXZiQ0JwYm1ScFlXNWhFQUI5ME5JUlB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIENvbmNvcmQgSGlnaCBTY2hvb2wncyByYW5raW5nIGluIEluZGlhbmE/IiwibGsiOiJHaU5qYjI1amIzSmtJR2hwWjJnZ2MyTm9iMjlzSUdsdVpHbGhibUVnY21GdWEybHVadyIsImJzIjoiYzQyUVBRdkNNQkNHY2Mza25PbWdpRi10MFA2QkRsMTBkaWdJSWlFSnVVTk5vSWtVXzczMEM0dzRkTDduZWQtN1l6ZVcxU2dDa0llQUdwSWNHbUh2V2dHU1FmQVNuWHNBV1RoWlJjS0tzamp3dEowajBDQ3dDOHVuZ3NwWjZSb0Z4NDQ4OS1UYTl6cFpFNVdzZUNKSE9JN3Q1NVBDYXJhdDhRMktWSnd0VVZpanVfMm9nYWZ3MG9XeTJQRk5POEpSOWgtWVhWbjZfWlhnWGdhMUQ3ODNWa2hTR0ZjV0dkLTNNM2c1OE12RkJ3IiwiaWQiOiJmY19sUTJqYXJyWUo3T2o1Tm9QeGVpaW1BZ182In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWRuQkJlREoxVGtWWGRFcFVVbTlhTmpod2FHeFNSRFo1VW1OVmFUbDJjWFZtVEhkaVpYa3dkVFl0VFZKVlZYcFdhVmhsVWs1cFkwTm9MV1pmU1ZGMFFYWXpTbU5MYVhJek0ycHdibXBuV0hKMlVFbE5XVzFKWkRBM1p4SVhiRkV5YW1GeWNsbEtOMDlxTlU1dlVIaGxhV2x0UVdjYUlrRkVjM0k1WmxKS01tc3lNVFprU0hsbWJXUkhNVkIxVUhKM1VuZzBaVVowVFdjIiwiZmN2IjoiMyIsImVpIjoibFEyamFycllKN09qNU5vUHhlaWltQWciLCJxYyI6IkNpVmpiMjVqYjNKa0lHTnZiVzExYm1sMGVTQm9hV2RvSUhOamFHOXZiQ0JwYm1ScFlXNWhFQUI5ME5JUlB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIENvbmNvcmQgSGlnaCBTY2hvb2wncyByYW5raW5nIGluIEluZGlhbmE%2FIiwibGsiOiJHaU5qYjI1amIzSmtJR2hwWjJnZ2MyTm9iMjlzSUdsdVpHbGhibUVnY21GdWEybHVadyIsImJzIjoiYzQyUVBRdkNNQkNHY2Mza25PbWdpRi10MFA2QkRsMTBkaWdJSWlFSnVVTk5vSWtVXzczMEM0dzRkTDduZWQtN1l6ZVcxU2dDa0llQUdwSWNHbUh2V2dHU1FmQVNuWHNBV1RoWlJjS0tzamp3dEowajBDQ3dDOHVuZ3NwWjZSb0Z4NDQ4OS1UYTl6cFpFNVdzZUNKSE9JN3Q1NVBDYXJhdDhRMktWSnd0VVZpanVfMm9nYWZ3MG9XeTJQRk5POEpSOWgtWVhWbjZfWlhnWGdhMUQ3ODNWa2hTR0ZjV0dkLTNNM2c1OE12RkJ3IiwiaWQiOiJmY19sUTJqYXJyWUo3T2o1Tm9QeGVpaW1BZ182In0%3D"
+  },
+  {
+   "question": "Why did Concord High change their mascot?",
+   "type": "ai_overview",
+   "page_token": "qSszUXicHdBZboJAAADQ9DJ-6gwuDSamibIoFQzDbM5PQwfcmK0VpfLXu_RUPU2TviO87x91Ns3v0_3Utu46H426rhserT2qeiitHpXXh5EjWSr1XspmPnuewZeDXIS3zXL1sVnmxDkaIIBjMiEr2FPoEglaUBrUE2K91EOPoqkixhDZEh_SSzhlzH-tQ1pIY8GWR6hcwWAXiGYXR5YEKMw9ijFAt3eevaZGTvaN9FAB44KrLosprhpIMfCLVFMgjJiheIqxjmZFEH4xNmUCTCCi7lRr2Jb8NKHU36Y8e1AT6bRPAFIIV2vVp0HeE5hdWJOcS672qRKWexHj42QcnqorwcnHnicPRuwYexZi7ed1TF3J4FJ82XNOUC8vShOViaypDrVGK7HOUmHcmkXZjmEFMXdRYZK76AYHeV-MB_-fi7eDbufu0x7_APN7gXo",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=qSszUXicHdBZboJAAADQ9DJ-6gwuDSamibIoFQzDbM5PQwfcmK0VpfLXu_RUPU2TviO87x91Ns3v0_3Utu46H426rhserT2qeiitHpXXh5EjWSr1XspmPnuewZeDXIS3zXL1sVnmxDkaIIBjMiEr2FPoEglaUBrUE2K91EOPoqkixhDZEh_SSzhlzH-tQ1pIY8GWR6hcwWAXiGYXR5YEKMw9ijFAt3eevaZGTvaN9FAB44KrLosprhpIMfCLVFMgjJiheIqxjmZFEH4xNmUCTCCi7lRr2Jb8NKHU36Y8e1AT6bRPAFIIV2vVp0HeE5hdWJOcS672qRKWexHj42QcnqorwcnHnicPRuwYexZi7ed1TF3J4FJ82XNOUC8vShOViaypDrVGK7HOUmHcmkXZjmEFMXdRYZK76AYHeV-MB_-fi7eDbufu0x7_APN7gXo",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWRuQkJlREoxVGtWWGRFcFVVbTlhTmpod2FHeFNSRFo1VW1OVmFUbDJjWFZtVEhkaVpYa3dkVFl0VFZKVlZYcFdhVmhsVWs1cFkwTm9MV1pmU1ZGMFFYWXpTbU5MYVhJek0ycHdibXBuV0hKMlVFbE5XVzFKWkRBM1p4SVhiRkV5YW1GeWNsbEtOMDlxTlU1dlVIaGxhV2x0UVdjYUlrRkVjM0k1WmxKS01tc3lNVFprU0hsbWJXUkhNVkIxVUhKM1VuZzBaVVowVFdjIiwiZmN2IjoiMyIsImVpIjoibFEyamFycllKN09qNU5vUHhlaWltQWciLCJxYyI6IkNpVmpiMjVqYjNKa0lHTnZiVzExYm1sMGVTQm9hV2RvSUhOamFHOXZiQ0JwYm1ScFlXNWhFQUI5ME5JUlB3IiwicXVlc3Rpb24iOiJXaHkgZGlkIENvbmNvcmQgSGlnaCBjaGFuZ2UgdGhlaXIgbWFzY290PyIsImxrIjoiR2loM2FIa2daR2xrSUdOdmJtTnZjbVFnYUdsbmFDQmphR0Z1WjJVZ2RHaGxhWElnYldGelkyOTAiLCJicyI6ImM0MlFQUXZDTUJDR2NjM2tuT21naUYtdDBQNkJEbDEwZGlnSUlpRUp1VU5Ob0lrVV83MzBDNHc0ZEw3bmVkLTdZemVXMVNnQ2tJZUFHcEljR21IdldnR1NRZkFTblhzQVdUaFpSY0tLc2pqd3RKMGowQ0N3Qzh1bmdzcFo2Um9GeDQ0ODktVGE5enBaRTVXc2VDSkhPSTd0NTVQQ2FyYXQ4UTJLVkp3dFVWaWp1XzJvZ2FmdzBvV3kyUEZOTzhKUjloLVlYVm42X1pYZ1hnYTFENzgzVmtoU0dGY1dHZC0zTTNnNThNdkZCdyIsImlkIjoiZmNfbFEyamFycllKN09qNU5vUHhlaWltQWdfNiJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWRuQkJlREoxVGtWWGRFcFVVbTlhTmpod2FHeFNSRFo1VW1OVmFUbDJjWFZtVEhkaVpYa3dkVFl0VFZKVlZYcFdhVmhsVWs1cFkwTm9MV1pmU1ZGMFFYWXpTbU5MYVhJek0ycHdibXBuV0hKMlVFbE5XVzFKWkRBM1p4SVhiRkV5YW1GeWNsbEtOMDlxTlU1dlVIaGxhV2x0UVdjYUlrRkVjM0k1WmxKS01tc3lNVFprU0hsbWJXUkhNVkIxVUhKM1VuZzBaVVowVFdjIiwiZmN2IjoiMyIsImVpIjoibFEyamFycllKN09qNU5vUHhlaWltQWciLCJxYyI6IkNpVmpiMjVqYjNKa0lHTnZiVzExYm1sMGVTQm9hV2RvSUhOamFHOXZiQ0JwYm1ScFlXNWhFQUI5ME5JUlB3IiwicXVlc3Rpb24iOiJXaHkgZGlkIENvbmNvcmQgSGlnaCBjaGFuZ2UgdGhlaXIgbWFzY290PyIsImxrIjoiR2loM2FIa2daR2xrSUdOdmJtTnZjbVFnYUdsbmFDQmphR0Z1WjJVZ2RHaGxhWElnYldGelkyOTAiLCJicyI6ImM0MlFQUXZDTUJDR2NjM2tuT21naUYtdDBQNkJEbDEwZGlnSUlpRUp1VU5Ob0lrVV83MzBDNHc0ZEw3bmVkLTdZemVXMVNnQ2tJZUFHcEljR21IdldnR1NRZkFTblhzQVdUaFpSY0tLc2pqd3RKMGowQ0N3Qzh1bmdzcFo2Um9GeDQ0ODktVGE5enBaRTVXc2VDSkhPSTd0NTVQQ2FyYXQ4UTJLVkp3dFVWaWp1XzJvZ2FmdzBvV3kyUEZOTzhKUjloLVlYVm42X1pYZ1hnYTFENzgzVmtoU0dGY1dHZC0zTTNnNThNdkZCdyIsImlkIjoiZmNfbFEyamFycllKN09qNU5vUHhlaWltQWdfNiJ9"
+  },
+  {
+   "question": "What is the toughest high school in Chicago?",
+   "type": "ai_overview",
+   "page_token": "2hjz9nicHdBRTsIwGADgeBkfhXZMIwkxQTZGdZ389O9GX0ztGJN1rLgJjDfv4qk8jcYLfA_f17d931c_V8ey61w7HgxOp9PNtmm2dnNjmnqg235vBkZb-6ZNNb69uyUPhZkEn4vp42ExXaJzcgZDMWOVoPdE124HRCpedwdNFTEBWSfCzvicvUAILt6VRx0EXp6p-bMIRmnlWgx5kYewSNDS3APJvYaoPRcrPEd5WFKT2acV9Tsty0N-iT25Ij2i8rEa0biyRCChz-hrI3MpKYcN8ihJQ_tn9kkAkGTwyVP2ZIYWtFRus4u9mJJpEmEP1Kok4gyqkuWZZHCBaE1DLyjzFgU7rDPWp9h4gjZE1PfLzVw6nZKpOjfvS4SL2dkasR0hLa2W7iWtlP8m4zMQFppQFstM1Qn6kTpdF-Y48a7_PyevRd2N3Uez_QWEvYFW",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=2hjz9nicHdBRTsIwGADgeBkfhXZMIwkxQTZGdZ389O9GX0ztGJN1rLgJjDfv4qk8jcYLfA_f17d931c_V8ey61w7HgxOp9PNtmm2dnNjmnqg235vBkZb-6ZNNb69uyUPhZkEn4vp42ExXaJzcgZDMWOVoPdE124HRCpedwdNFTEBWSfCzvicvUAILt6VRx0EXp6p-bMIRmnlWgx5kYewSNDS3APJvYaoPRcrPEd5WFKT2acV9Tsty0N-iT25Ij2i8rEa0biyRCChz-hrI3MpKYcN8ihJQ_tn9kkAkGTwyVP2ZIYWtFRus4u9mJJpEmEP1Kok4gyqkuWZZHCBaE1DLyjzFgU7rDPWp9h4gjZE1PfLzVw6nZKpOjfvS4SL2dkasR0hLa2W7iWtlP8m4zMQFppQFstM1Qn6kTpdF-Y48a7_PyevRd2N3Uez_QWEvYFW",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWRuQkJlREoxVGtWWGRFcFVVbTlhTmpod2FHeFNSRFo1VW1OVmFUbDJjWFZtVEhkaVpYa3dkVFl0VFZKVlZYcFdhVmhsVWs1cFkwTm9MV1pmU1ZGMFFYWXpTbU5MYVhJek0ycHdibXBuV0hKMlVFbE5XVzFKWkRBM1p4SVhiRkV5YW1GeWNsbEtOMDlxTlU1dlVIaGxhV2x0UVdjYUlrRkVjM0k1WmxKS01tc3lNVFprU0hsbWJXUkhNVkIxVUhKM1VuZzBaVVowVFdjIiwiZmN2IjoiMyIsImVpIjoibFEyamFycllKN09qNU5vUHhlaWltQWciLCJxYyI6IkNpVmpiMjVqYjNKa0lHTnZiVzExYm1sMGVTQm9hV2RvSUhOamFHOXZiQ0JwYm1ScFlXNWhFQUI5ME5JUlB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSB0b3VnaGVzdCBoaWdoIHNjaG9vbCBpbiBDaGljYWdvPyIsImxrIjoiR2l0M2FHRjBJR2x6SUhSb1pTQjBiM1ZuYUdWemRDQm9hV2RvSUhOamFHOXZiQ0JwYmlCamFHbGpZV2R2IiwiYnMiOiJjNDJRUFF2Q01CQ0djYzNrbk9tZ2lGLXQwUDZCRGwxMGRpZ0lJaUVKdVVOTm9Ja1VfNzMwQzR3NGRMN25lZC03WXplVzFTZ0NrSWVBR3BJY0dtSHZXZ0dTUWZBU25Yc0FXVGhaUmNLS3Nqand0SjBqMENDd0M4dW5nc3BaNlJvRng0NDg5LVRhOXpwWkU1V3NlQ0pIT0k3dDU1UENhcmF0OFEyS1ZKd3RVVmlqdV8yb2dhZncwb1d5MlBGTk84SlI5aC1ZWFZuNl9aWGdYZ2ExRDc4M1ZraFNHRmNXR2QtM00zZzU4TXZGQnciLCJpZCI6ImZjX2xRMmphcnJZSjdPajVOb1B4ZWlpbUFnXzYifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWRuQkJlREoxVGtWWGRFcFVVbTlhTmpod2FHeFNSRFo1VW1OVmFUbDJjWFZtVEhkaVpYa3dkVFl0VFZKVlZYcFdhVmhsVWs1cFkwTm9MV1pmU1ZGMFFYWXpTbU5MYVhJek0ycHdibXBuV0hKMlVFbE5XVzFKWkRBM1p4SVhiRkV5YW1GeWNsbEtOMDlxTlU1dlVIaGxhV2x0UVdjYUlrRkVjM0k1WmxKS01tc3lNVFprU0hsbWJXUkhNVkIxVUhKM1VuZzBaVVowVFdjIiwiZmN2IjoiMyIsImVpIjoibFEyamFycllKN09qNU5vUHhlaWltQWciLCJxYyI6IkNpVmpiMjVqYjNKa0lHTnZiVzExYm1sMGVTQm9hV2RvSUhOamFHOXZiQ0JwYm1ScFlXNWhFQUI5ME5JUlB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSB0b3VnaGVzdCBoaWdoIHNjaG9vbCBpbiBDaGljYWdvPyIsImxrIjoiR2l0M2FHRjBJR2x6SUhSb1pTQjBiM1ZuYUdWemRDQm9hV2RvSUhOamFHOXZiQ0JwYmlCamFHbGpZV2R2IiwiYnMiOiJjNDJRUFF2Q01CQ0djYzNrbk9tZ2lGLXQwUDZCRGwxMGRpZ0lJaUVKdVVOTm9Ja1VfNzMwQzR3NGRMN25lZC03WXplVzFTZ0NrSWVBR3BJY0dtSHZXZ0dTUWZBU25Yc0FXVGhaUmNLS3Nqand0SjBqMENDd0M4dW5nc3BaNlJvRng0NDg5LVRhOXpwWkU1V3NlQ0pIT0k3dDU1UENhcmF0OFEyS1ZKd3RVVmlqdV8yb2dhZncwb1d5MlBGTk84SlI5aC1ZWFZuNl9aWGdYZ2ExRDc4M1ZraFNHRmNXR2QtM00zZzU4TXZGQnciLCJpZCI6ImZjX2xRMmphcnJZSjdPajVOb1B4ZWlpbUFnXzYifQ%3D%3D"
+  }
+ ],
+ "ai_overview": {
+  "text_blocks": [
+   {
+    "type": "paragraph",
+    "snippet": "Concord High School is a public high school located at 59117 Minuteman Way in Elkhart, Indiana (serving the Dunlap area).",
+    "snippet_highlighted_words": [
+     "59117 Minuteman Way in Elkhart, Indiana"
+    ]
+   },
+   {
+    "type": "heading",
+    "snippet": "School Overview"
+   },
+   {
+    "type": "list",
+    "list": [
+     {
+      "snippet": "Grades: 9\u201312"
+     },
+     {
+      "snippet": "Mascot: Minutemen"
+     },
+     {
+      "snippet": "Colors: Kelly green and white"
+     },
+     {
+      "snippet": "School District: Concord Community Schools"
+     },
+     {
+      "snippet": "Phone: (574) 875-6524"
+     }
+    ]
+   },
+   {
+    "type": "heading",
+    "snippet": "Hours & Schedule"
+   },
+   {
+    "type": "list",
+    "list": [
+     {
+      "snippet": "School Days: 8:20 AM \u2013 3:20 PM (Monday through Friday)"
+     },
+     {
+      "snippet": "Office Hours: 8:00 AM \u2013 4:00 PM (Monday through Friday)"
+     }
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "If you'd like, let me know if you are looking for information regarding:"
+   },
+   {
+    "type": "list",
+    "list": [
+     {
+      "snippet": "Enrollment and registration requirements"
+     },
+     {
+      "snippet": "Athletics or extracurricular activities"
+     },
+     {
+      "snippet": "Staff or specific department contacts"
+     }
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "How can I help you further?"
+   }
+  ],
+  "references": [
+   {
+    "link": "https://www.concordschools.com/concord-high-school",
+    "source": "concordschools.com",
+    "index": 0
+   },
+   {
+    "link": "https://en.wikipedia.org/wiki/Concord_High_School_(Indiana)",
+    "source": "en.wikipedia.org",
+    "index": 1
+   },
+   {
+    "link": "https://chs.concordschools.com/",
+    "source": "chs.concordschools.com",
+    "index": 2
+   },
+   {
+    "title": "Concord High School",
+    "link": "https://www.concordschools.com/concord-high-school",
+    "snippet": "Concord High School * 59117 Minuteman Way. * Elkhart, Indiana 46517. * (574) 875-6524.",
+    "source": "Concord Community Schools",
+    "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtb6DQRnlYsRu-UsBAiM8VXxuyl0_4v9u4WvY4weoyGAXh2EP0910Ii3EJUTlg9Zoc4th_T8kNrlpcQ0tdFIN5iC2UJg",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.concordschools.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 3
+   },
+   {
+    "title": "Concord High School (Indiana) - Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Concord_High_School_(Indiana)",
+    "snippet": "Concord High School is a public high school in Dunlap, a census-designated place in Elkhart County, Indiana, United States. Concord High School Location Wikimed...",
+    "source": "Wikipedia",
+    "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQO8Sn2Zm04xKqVvVGsSZ0xJHB6v48ATfe34atQvzXtWFATmYM4tvM4rPU_r1Z3L8IIqUoPSX0i-mNAq26E6-RObxmK4iqIZnppboLU0CE",
+    "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 4
+   },
+   {
+    "title": "Concord High School - Home",
+    "link": "https://chs.concordschools.com/",
+    "snippet": "Concord High School's safety measures include: * Secure entrances with visitor check-in procedures * Surveillance cameras throughout the campus * Regular emerge...",
+    "source": "Concord Community Schools",
+    "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://chs.concordschools.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 5
+   }
+  ]
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Concord High School (Indiana)",
+   "link": "https://en.wikipedia.org/wiki/Concord_High_School_(Indiana)",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHrOzAVFl8l8HnhSPDAcxmTxmJV35cfFgwz7kuCuunRlxwxyc6sqCYyCB0GxSVG4neRLQSqWp0AZeuhp8dD2skxqRO5Ep0DxZYB25iSmxjVQHaBWiete2PTHvaHpJ1mIx4ABeLxGScSOj8BgWGdAa8kxHA&ved=2ahUKEwj69qLw5-SWAxWzEVkFHUW0CIMQFnoECCoQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Concord_High_School...",
+   "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+   "snippet": "Concord High School is a public high school in Dunlap, a census-designated place in Elkhart County, Indiana, United States. ... \"Concord Community High School ( ...",
+   "snippet_highlighted_words": [
+    "Indiana",
+    "Concord Community High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Concord High School is a public high school in Dunlap, a census-designated place in Elkhart County, Indiana, United States. ... \"Concord Community High School ( ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Concord_High_School_(Indiana)",
+     "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEScwHrOzAVFl8l8HnhSPDAcxmTxmJV35cfFgwz7kuCuunRlxwxyc6sqCYyCB0GxSVG4neRLQSqWp0AZeuhp8dD2skxqRO5Ep0DxZYB25iSmxjVQHaBWiete2PTHvaHpJ1mIx4ABeLxGScSOj8BgWGdAa8kxHA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEScwHrOzAVFl8l8HnhSPDAcxmTxmJV35cfFgwz7kuCuunRlxwxyc6sqCYyCB0GxSVG4neRLQSqWp0AZeuhp8dD2skxqRO5Ep0DxZYB25iSmxjVQHaBWiete2PTHvaHpJ1mIx4ABeLxGScSOj8BgWGdAa8kxHA",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Concord_High_School_(Indiana)#:~:text=Concord%20High%20School%20is%20a,Elkhart%20County%2C%20Indiana%2C%20United%20States.&text=%22Concord%20Community%20High%20School%20(1715)%22."
+  },
+  {
+   "position": 2,
+   "title": "Concord Community High School in Elkhart, IN",
+   "link": "https://www.usnews.com/education/best-high-schools/indiana/districts/concord-community-schools/concord-community-high-school-7169",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESugEB6zswFTQb8-A0xwMAzKSHUGcDCpmLWOYZX6xbPo1UPxkE0UTtfDoUkYoHe4QukzcYl2Yg2-uvPQqXh2lnYR6Qkw8O--GdFfUE22G0S63WsqtcmB7y2HeAkIdlq8cKebLyezVsE4-l7qBNO4qKgWLxBhbiXoZFn7hcQNW2TF5V_TOxCx0wGMbrmiffirQOPdGJekqDE3IEwzdkPlcRaPhjy2ZWKZKBJeWzbpmGlS9FN8Zz5BIA4AgcO6M&ved=2ahUKEwj69qLw5-SWAxWzEVkFHUW0CIMQFnoECCYQAQ&uoh=1",
+   "displayed_link": "https://www.usnews.com \u203a education \u203a indiana \u203a districts",
+   "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp",
+   "snippet": "Concord Community High School is ranked 206th within Indiana. Students have the opportunity to take Advanced Placement\u00ae coursework and exams. The AP\u00ae ...",
+   "snippet_highlighted_words": [
+    "Concord Community High School",
+    "Indiana"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Concord Community High School is ranked 206th within Indiana. Students have the opportunity to take Advanced Placement\u00ae coursework and exams. The AP\u00ae ...",
+     "source_info_link": "https://www.usnews.com/education/best-high-schools/indiana/districts/concord-community-schools/concord-community-high-school-7169",
+     "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESugEB6zswFTQb8-A0xwMAzKSHUGcDCpmLWOYZX6xbPo1UPxkE0UTtfDoUkYoHe4QukzcYl2Yg2-uvPQqXh2lnYR6Qkw8O--GdFfUE22G0S63WsqtcmB7y2HeAkIdlq8cKebLyezVsE4-l7qBNO4qKgWLxBhbiXoZFn7hcQNW2TF5V_TOxCx0wGMbrmiffirQOPdGJekqDE3IEwzdkPlcRaPhjy2ZWKZKBJeWzbpmGlS9FN8Zz5BIA4AgcO6M&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESugEB6zswFTQb8-A0xwMAzKSHUGcDCpmLWOYZX6xbPo1UPxkE0UTtfDoUkYoHe4QukzcYl2Yg2-uvPQqXh2lnYR6Qkw8O--GdFfUE22G0S63WsqtcmB7y2HeAkIdlq8cKebLyezVsE4-l7qBNO4qKgWLxBhbiXoZFn7hcQNW2TF5V_TOxCx0wGMbrmiffirQOPdGJekqDE3IEwzdkPlcRaPhjy2ZWKZKBJeWzbpmGlS9FN8Zz5BIA4AgcO6M",
+   "source": "U.S. News & World Report",
+   "read_more_link": "https://www.usnews.com/education/best-high-schools/indiana/districts/concord-community-schools/concord-community-high-school-7169#:~:text=Concord%20Community%20High%20School%20is,grade%20enrollment%20is%20429%20students."
+  },
+  {
+   "position": 3,
+   "title": "Concord Community High School - (9th - 12th)",
+   "link": "https://indianagps.doe.in.gov/Summary/School/3617",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAV50SVq-dJ_NWtOwRKz9vMW5cT3OtBQjipghPbeuiZ9UqZBl8gPBznLFsZiY7kQP9nZsWcYJj1WlFl3lUiK9V6xelEkdHeroiaaZVJ2UKMZozCpqW3jhPAi8cgK1dljUXy2CaFKA&ved=2ahUKEwj69qLw5-SWAxWzEVkFHUW0CIMQFnoECCsQAQ&uoh=1",
+   "displayed_link": "https://indianagps.doe.in.gov \u203a Summary \u203a School",
+   "favicon": "https://serpapi.com/images/i/UklGRpABAABXRUJQVlA4IIQBAAAQCACdASogACAAPtEutFooIagoGAEAGglsAJ0zNDA3tduHa5DAbaAZ4JncYK_n_o9gI3dumwK6Q9c16V0Ml-0A0L5fNTLZEbAAAP72Et_rgLdFeYfP03A8MNrFPfMV6wmyV38Jn4Vg83fD0zjd38mq5tnlzwhrYnl3qUU4CiVvoVRbBUtkwB0uZFsvRepSAWLjJDPn47gfXWXZyD4lzRgEUUC0z86BO2LYqlxJYPmpWtVSh1Rkbk3ImDS9zPer0U6EOQLYGG43CWV4yTPHeOTkDNzjWBVRaNuHdPzPLGL90uzjQf6j57NCtsan47wV5WdtnXz1dW5uT9ThnE8cuvGM66Qw-FyC8Iv9OdAA_OccvWv6Hv0llrii9xfnlIwsm2mfEFBv1O-NdRuMgtDSCtbcH1R6OyGCDh4ImyEr4lnKFCrT7Se-A_8GbSv_PkcxyOz3YNZgJsMm6SlDeIbbU5aGwcWgRufGKYbBSulUDnOLYj2Xpft_Enyw8_iju_YtcfA4yAAA.webp",
+   "snippet": "Concord Community High School \u00b7 59117 Minuteman Way, Elkhart, IN 46517 \u00b7 (574) 875-6524 \u00b7 Website \u00b7 School Performance Report \u00b7 View on Map \u00b7 Federal Report Card.",
+   "snippet_highlighted_words": [
+    "Concord Community High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Concord Community High School \u00b7 59117 Minuteman Way, Elkhart, IN 46517 \u00b7 (574) 875-6524 \u00b7 Website \u00b7 School Performance Report \u00b7 View on Map \u00b7 Federal Report Card.",
+     "source_info_link": "https://indianagps.doe.in.gov/Summary/School/3617",
+     "icon": "https://serpapi.com/images/i/UklGRpABAABXRUJQVlA4IIQBAAAQCACdASogACAAPtEutFooIagoGAEAGglsAJ0zNDA3tduHa5DAbaAZ4JncYK_n_o9gI3dumwK6Q9c16V0Ml-0A0L5fNTLZEbAAAP72Et_rgLdFeYfP03A8MNrFPfMV6wmyV38Jn4Vg83fD0zjd38mq5tnlzwhrYnl3qUU4CiVvoVRbBUtkwB0uZFsvRepSAWLjJDPn47gfXWXZyD4lzRgEUUC0z86BO2LYqlxJYPmpWtVSh1Rkbk3ImDS9zPer0U6EOQLYGG43CWV4yTPHeOTkDNzjWBVRaNuHdPzPLGL90uzjQf6j57NCtsan47wV5WdtnXz1dW5uT9ThnE8cuvGM66Qw-FyC8Iv9OdAA_OccvWv6Hv0llrii9xfnlIwsm2mfEFBv1O-NdRuMgtDSCtbcH1R6OyGCDh4ImyEr4lnKFCrT7Se-A_8GbSv_PkcxyOz3YNZgJsMm6SlDeIbbU5aGwcWgRufGKYbBSulUDnOLYj2Xpft_Enyw8_iju_YtcfA4yAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESaQHrOzAV50SVq-dJ_NWtOwRKz9vMW5cT3OtBQjipghPbeuiZ9UqZBl8gPBznLFsZiY7kQP9nZsWcYJj1WlFl3lUiK9V6xelEkdHeroiaaZVJ2UKMZozCpqW3jhPAi8cgK1dljUXy2CaFKA&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESaQHrOzAV50SVq-dJ_NWtOwRKz9vMW5cT3OtBQjipghPbeuiZ9UqZBl8gPBznLFsZiY7kQP9nZsWcYJj1WlFl3lUiK9V6xelEkdHeroiaaZVJ2UKMZozCpqW3jhPAi8cgK1dljUXy2CaFKA",
+   "source": "Indiana Graduates Prepared to Succeed (GPS) (.gov)",
+   "read_more_link": "https://indianagps.doe.in.gov/Summary/School/3617#:~:text=Concord%20Community%20High%20School&text=59117%20Minuteman%20Way%2C%20Elkhart%2C%20IN,46517&text=(574)%20875%2D6524&text=Website&text=School%20Performance%20Report&text=View%20on%20Map&text=Federal%20Report%20Card"
+  },
+  {
+   "position": 4,
+   "title": "Concord Community High School - Indiana",
+   "link": "https://www.donorschoose.org/schools/indiana/concord-community-school-district/concord-community-high-school/20458",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESqgEB6zswFV8hOTeAaA3k-1K_c3Cj8WT3iaOgBodLYJAiQefGr5m8zW-aMfzF-QT_oWC4QNXY8sLf4PyXwqDs5n0sY4OHvZaA4PiRhKWj0jMlTPBPfkl8HZ2d-AZ-qSS_NBVi0f8lh_ie3t4y5YHIGCrhjylTQ_3u4HcGAx8xlYAbzJGKkdYfwwHyf_gEB9WluZHJOW18es6zxS-iqrjKC3K6s4HcS--xCFSiLg&ved=2ahUKEwj69qLw5-SWAxWzEVkFHUW0CIMQFnoECC0QAQ&uoh=1",
+   "displayed_link": "https://www.donorschoose.org \u203a schools \u203a concord-co...",
+   "favicon": "https://serpapi.com/images/i/UklGRswAAABXRUJQVlA4IMAAAABwBQCdASocABwAPtEwtFooIigoGAEAGglsAKknND9QgUiCtSxixOFp4uhGPS57r1rBvQAAAP78Ruvp_RopI31agF2kTcvpn_nJpqDkB-JZ3L4TnmXfH8Lj7_7aH_7LAv_qWkLImNPY960ex9CxAdN4Rj2bYpPBjMs4lAfwcelVvNLkNVmPcrR_CPQWyeuMExXrAK1CRpFOK2_rpU32_y9RFVHtRr1D17PWVgxOgSGl1SdGJuoFHhfsjXVLLo5igAA.webp",
+   "snippet": "Concord Community High School is a public school in Elkhart, Indiana that is part of Concord Community School District. It serves 1690 studentsin 9 - 12 ...",
+   "snippet_highlighted_words": [
+    "Concord Community High School",
+    "Indiana"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Concord Community High School is a public school in Elkhart, Indiana that is part of Concord Community School District. It serves 1690 studentsin 9 - 12 ...",
+     "source_info_link": "https://www.donorschoose.org/schools/indiana/concord-community-school-district/concord-community-high-school/20458",
+     "icon": "https://serpapi.com/images/i/UklGRswAAABXRUJQVlA4IMAAAABwBQCdASocABwAPtEwtFooIigoGAEAGglsAKknND9QgUiCtSxixOFp4uhGPS57r1rBvQAAAP78Ruvp_RopI31agF2kTcvpn_nJpqDkB-JZ3L4TnmXfH8Lj7_7aH_7LAv_qWkLImNPY960ex9CxAdN4Rj2bYpPBjMs4lAfwcelVvNLkNVmPcrR_CPQWyeuMExXrAK1CRpFOK2_rpU32_y9RFVHtRr1D17PWVgxOgSGl1SdGJuoFHhfsjXVLLo5igAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESqgEB6zswFV8hOTeAaA3k-1K_c3Cj8WT3iaOgBodLYJAiQefGr5m8zW-aMfzF-QT_oWC4QNXY8sLf4PyXwqDs5n0sY4OHvZaA4PiRhKWj0jMlTPBPfkl8HZ2d-AZ-qSS_NBVi0f8lh_ie3t4y5YHIGCrhjylTQ_3u4HcGAx8xlYAbzJGKkdYfwwHyf_gEB9WluZHJOW18es6zxS-iqrjKC3K6s4HcS--xCFSiLg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESqgEB6zswFV8hOTeAaA3k-1K_c3Cj8WT3iaOgBodLYJAiQefGr5m8zW-aMfzF-QT_oWC4QNXY8sLf4PyXwqDs5n0sY4OHvZaA4PiRhKWj0jMlTPBPfkl8HZ2d-AZ-qSS_NBVi0f8lh_ie3t4y5YHIGCrhjylTQ_3u4HcGAx8xlYAbzJGKkdYfwwHyf_gEB9WluZHJOW18es6zxS-iqrjKC3K6s4HcS--xCFSiLg",
+   "source": "DonorsChoose"
+  },
+  {
+   "position": 5,
+   "title": "Concord Community High School in Dunlap, IN - Indiana",
+   "link": "https://www.niche.com/k12/concord-community-high-school-elkhart-in/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESewHrOzAVmL-gKc_-HESGKPPgDVS3jvc1q2ypjMvHMkTmaQibijTTNDfJw4kuXug5PHhybVK6WgRMpJVAbr_YzjHL2ZzG-aULYcja4UMz-qOKKgmeDbLcXCcvKg-eZLxdEblm6Ozv1HgcT47tGaDXmXv4M1ovacwkdLFHqw&ved=2ahUKEwj69qLw5-SWAxWzEVkFHUW0CIMQFnoECCwQAQ&uoh=1",
+   "displayed_link": "https://www.niche.com \u203a ... \u203a Indiana",
+   "favicon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAACwBgCdASocABwAPtEutFooIagoGAEAGglAGZo7gYv7m0TPt8r_WYdmpcah9WA48zicEtVrCFOGH4nMtJiaAAD-8Mpqn5wztwFeSDXF5YavmSdrcpv67JtS1tKl7uW6N9aR19WH-vT5VtxqndfSU_QIzB4R0m5fNi1eX3h8GYa_8H28-7o-nc3D2GEvZqGTES8muP_UCP_UIYsGh8QXK7V2sBnUP79qQidv_o8__S3xjZZmmXEG69VP00Dn3HuddwtLR_4xf_0PU8NPn060X-47u3VDw39ZbBgpwK3wP0F5tHUWMrTdTbcT_h7ghKmtPgKiKNIvGUNLHBT4VbzlXgvFo7vCP-ot_w6I_hOg9EcgQfabjpYvU6X4xcxi9BIxh2PJomEF2PA_XoL7FtzFNUuyE0IG83Bax0ZYU-dxj0EhgAAA.webp",
+   "snippet": "Concord Community High School is a public school located in ELKHART, IN. It has 1,727 students in grades 9-12 with a student-teacher ratio of 18 to 1.",
+   "snippet_highlighted_words": [
+    "Concord Community High School"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 3.7,
+      "reviews": 319
+     },
+     "extensions": [
+      "3.7(319)"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Concord Community High School is a public school located in ELKHART, IN. It has 1,727 students in grades 9-12 with a student-teacher ratio of 18 to 1.",
+     "source_info_link": "https://www.niche.com/k12/concord-community-high-school-elkhart-in/",
+     "icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAACwBgCdASocABwAPtEutFooIagoGAEAGglAGZo7gYv7m0TPt8r_WYdmpcah9WA48zicEtVrCFOGH4nMtJiaAAD-8Mpqn5wztwFeSDXF5YavmSdrcpv67JtS1tKl7uW6N9aR19WH-vT5VtxqndfSU_QIzB4R0m5fNi1eX3h8GYa_8H28-7o-nc3D2GEvZqGTES8muP_UCP_UIYsGh8QXK7V2sBnUP79qQidv_o8__S3xjZZmmXEG69VP00Dn3HuddwtLR_4xf_0PU8NPn060X-47u3VDw39ZbBgpwK3wP0F5tHUWMrTdTbcT_h7ghKmtPgKiKNIvGUNLHBT4VbzlXgvFo7vCP-ot_w6I_hOg9EcgQfabjpYvU6X4xcxi9BIxh2PJomEF2PA_XoL7FtzFNUuyE0IG83Bax0ZYU-dxj0EhgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESewHrOzAVmL-gKc_-HESGKPPgDVS3jvc1q2ypjMvHMkTmaQibijTTNDfJw4kuXug5PHhybVK6WgRMpJVAbr_YzjHL2ZzG-aULYcja4UMz-qOKKgmeDbLcXCcvKg-eZLxdEblm6Ozv1HgcT47tGaDXmXv4M1ovacwkdLFHqw&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESewHrOzAVmL-gKc_-HESGKPPgDVS3jvc1q2ypjMvHMkTmaQibijTTNDfJw4kuXug5PHhybVK6WgRMpJVAbr_YzjHL2ZzG-aULYcja4UMz-qOKKgmeDbLcXCcvKg-eZLxdEblm6Ozv1HgcT47tGaDXmXv4M1ovacwkdLFHqw",
+   "source": "Niche",
+   "read_more_link": "https://www.niche.com/k12/concord-community-high-school-elkhart-in/#:~:text=Concord%20Community%20High%20School%20is,ratio%20of%2018%20to%201."
+  },
+  {
+   "position": 6,
+   "title": "Concord Community High School, Elkhart, Indiana (IN)",
+   "link": "https://needmytranscript.com/IN/Elkhart/concord-community-high-school/59117-minuteman-way",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkQEB6zswFZ-Hf_Og27X48A-her90rFNlSDzUUota1SJSAAfa8Wmt7A1xM3oPtUw4B7ljCra7OPFIsJQu-fbRCSYL-f7KsBvFd0B99QpVGla4UptPBHNpGz40pULFsmVtSR9EqMXIPStKyMVLzjv53QUGh78KPiwmDBDyjxpRqUvjw13YNZNh5vonYcIHDpbHx1B_&ved=2ahUKEwj69qLw5-SWAxWzEVkFHUW0CIMQFnoECCgQAQ&uoh=1",
+   "displayed_link": "https://needmytranscript.com \u203a 59117-minuteman-way",
+   "favicon": "https://serpapi.com/images/i/UklGRt4AAABXRUJQVlA4INIAAADQBQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHSXtfFja8hAACWHXSQwXUupmgXopswnEbgAAPbtxgvrgVOiFiv9ykjqPEDo1zDisd8BP1JpFP8fC7razVG8xd298hfUcp5Cq-faxfGwFbsgcQGLhMkxFbjEdXS4_1TOENcn7QigK_620W2yIu28Fgr9zTTVe0r4_3tfUSDYtpAQAW8MirZAvbuBQxEd984pmzxerpYr50-1TUBC0y8b4s-FGirWglrNbH0ZTizoH0UVh72hYAA.webp",
+   "snippet": "Concord Community High School, Elkhart, Indiana (IN). Former students and alumni of Concord Community High School and CONCORD COMMUNITY SCHOOLS, education ...",
+   "snippet_highlighted_words": [
+    "Concord Community High School",
+    "Indiana",
+    "Concord Community High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Concord Community High School, Elkhart, Indiana (IN). Former students and alumni of Concord Community High School and CONCORD COMMUNITY SCHOOLS, education ...",
+     "source_info_link": "https://needmytranscript.com/IN/Elkhart/concord-community-high-school/59117-minuteman-way",
+     "icon": "https://serpapi.com/images/i/UklGRt4AAABXRUJQVlA4INIAAADQBQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHSXtfFja8hAACWHXSQwXUupmgXopswnEbgAAPbtxgvrgVOiFiv9ykjqPEDo1zDisd8BP1JpFP8fC7razVG8xd298hfUcp5Cq-faxfGwFbsgcQGLhMkxFbjEdXS4_1TOENcn7QigK_620W2yIu28Fgr9zTTVe0r4_3tfUSDYtpAQAW8MirZAvbuBQxEd984pmzxerpYr50-1TUBC0y8b4s-FGirWglrNbH0ZTizoH0UVh72hYAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESkQEB6zswFZ-Hf_Og27X48A-her90rFNlSDzUUota1SJSAAfa8Wmt7A1xM3oPtUw4B7ljCra7OPFIsJQu-fbRCSYL-f7KsBvFd0B99QpVGla4UptPBHNpGz40pULFsmVtSR9EqMXIPStKyMVLzjv53QUGh78KPiwmDBDyjxpRqUvjw13YNZNh5vonYcIHDpbHx1B_&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESkQEB6zswFZ-Hf_Og27X48A-her90rFNlSDzUUota1SJSAAfa8Wmt7A1xM3oPtUw4B7ljCra7OPFIsJQu-fbRCSYL-f7KsBvFd0B99QpVGla4UptPBHNpGz40pULFsmVtSR9EqMXIPStKyMVLzjv53QUGh78KPiwmDBDyjxpRqUvjw13YNZNh5vonYcIHDpbHx1B_",
+   "source": "NeedMyTranscript",
+   "read_more_link": "https://needmytranscript.com/IN/Elkhart/concord-community-high-school/59117-minuteman-way#:~:text=Concord%20Community%20High%20School%2C%20Elkhart%2C,Records%20and%20Graduation%20Verifications%20online."
+  },
+  {
+   "position": 7,
+   "title": "Concord Community Schools, Indiana",
+   "link": "https://ballotpedia.org/Concord_Community_Schools,_Indiana",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScgHrOzAVb3j4UUfxIDCeAl60Ba-Qfl3XE7gszWKJoVWzGnZjNqbevaCn85eIs7pmibxTxvzopAkc-hNin_9HMPk6SYsM0apU6CMb7zCOM1fPomteSd3dZ2w0_QEC3TZ1QBlKgo0Uly9Q0daQQeI8Po_-kg&ved=2ahUKEwj69qLw5-SWAxWzEVkFHUW0CIMQFnoECFsQAQ&uoh=1",
+   "displayed_link": "https://ballotpedia.org \u203a Concord_Community_Schools,_...",
+   "favicon": "https://serpapi.com/images/i/UklGRnYBAABXRUJQVlA4IGoBAACwBwCdASogACAAPtEwtFooIigoGAEAGglsAJ0vsMOQVmEBtqNwxvAHoALpi_JVsCrHOmuWUuzi3Wbl39UCmiYani4XhGAAAP7-lAz8qe_Mv_oPx7Q6YnbutC3oDBfh3H8dZqzbaAF3DlAHn2WStj_P0Uxnug7NADn_P0Vv8uwFVx5IEXhoefO8D7X2aloDvK_loWCEcoZbYnjprhFQUuc-bb7jt2TZtooN-qIJ9Sqp7JMQqDISdq6wBycSZcBj6E3v1Bc7vAcRugOH3xFnFU339xHX1LpE3H8X3sKu_JtUkDlUpoF7dXcO94uZ9Pzt3ozH_5-97PoeISGhx7W4nPuPhaSXJOElCbwbmGRJjPr_MOhqOD1pWPVHJPf2vTL-RaeqriI845-M4W-zeJtV8GUYTrbs224uUp_wtYPHBfSMx75-Ig1vC9ssl8Qijqbnd7xpJ6UT7ib99wLM24fZHTuJqWw72qoIRAAAAA.webp",
+   "snippet": "They are listed below in alphabetical order. List of schools. SCHOOL NAME, NUMBER OF STUDENTS, GRADES. Concord Community High School, 1,735, 9-12. Concord East ...",
+   "snippet_highlighted_words": [
+    "Concord Community High School"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "They are listed below in alphabetical order. List of schools. SCHOOL NAME, NUMBER OF STUDENTS, GRADES. Concord Community High School, 1,735, 9-12. Concord East ...",
+     "source_info_link": "https://ballotpedia.org/Concord_Community_Schools,_Indiana",
+     "icon": "https://serpapi.com/images/i/UklGRnYBAABXRUJQVlA4IGoBAACwBwCdASogACAAPtEwtFooIigoGAEAGglsAJ0vsMOQVmEBtqNwxvAHoALpi_JVsCrHOmuWUuzi3Wbl39UCmiYani4XhGAAAP7-lAz8qe_Mv_oPx7Q6YnbutC3oDBfh3H8dZqzbaAF3DlAHn2WStj_P0Uxnug7NADn_P0Vv8uwFVx5IEXhoefO8D7X2aloDvK_loWCEcoZbYnjprhFQUuc-bb7jt2TZtooN-qIJ9Sqp7JMQqDISdq6wBycSZcBj6E3v1Bc7vAcRugOH3xFnFU339xHX1LpE3H8X3sKu_JtUkDlUpoF7dXcO94uZ9Pzt3ozH_5-97PoeISGhx7W4nPuPhaSXJOElCbwbmGRJjPr_MOhqOD1pWPVHJPf2vTL-RaeqriI845-M4W-zeJtV8GUYTrbs224uUp_wtYPHBfSMx75-Ig1vC9ssl8Qijqbnd7xpJ6UT7ib99wLM24fZHTuJqWw72qoIRAAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEScgHrOzAVb3j4UUfxIDCeAl60Ba-Qfl3XE7gszWKJoVWzGnZjNqbevaCn85eIs7pmibxTxvzopAkc-hNin_9HMPk6SYsM0apU6CMb7zCOM1fPomteSd3dZ2w0_QEC3TZ1QBlKgo0Uly9Q0daQQeI8Po_-kg&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEScgHrOzAVb3j4UUfxIDCeAl60Ba-Qfl3XE7gszWKJoVWzGnZjNqbevaCn85eIs7pmibxTxvzopAkc-hNin_9HMPk6SYsM0apU6CMb7zCOM1fPomteSd3dZ2w0_QEC3TZ1QBlKgo0Uly9Q0daQQeI8Po_-kg",
+   "source": "Ballotpedia",
+   "read_more_link": "https://ballotpedia.org/Concord_Community_Schools,_Indiana#:~:text=They%20are%20listed%20below%20in,Concord%20East%20Side%20Elementary%20Sch"
+  },
+  {
+   "position": 8,
+   "title": "Concord Community High School",
+   "link": "https://www.linkedin.com/school/concord-community-high-school/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHrOzAV__bgebAm1kZL9RF4mqwChxjDY6qkxBLw79KLUzKTPHLfxw-3Dc1zGTrnBd8Nzwdqixo5uHDd-BFClDTeTD__HOvXGn0QdysYOmDT2Q4cHj7LDzLCaXtCVdHdbqxjU5B9HP4cv6b2FbM2JZ6QE3Wp8Bs&ved=2ahUKEwj69qLw5-SWAxWzEVkFHUW0CIMQFnoECCcQAQ&uoh=1",
+   "displayed_link": "910+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp",
+   "snippet": "Concord Community High School | 910 followers on LinkedIn ... Locations. 59117 Minuteman Way. Elkhart, Indiana 46517, US. Get directions ...",
+   "snippet_highlighted_words": [
+    "Concord Community High School",
+    "Indiana"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Concord Community High School | 910 followers on LinkedIn ... Locations. 59117 Minuteman Way. Elkhart, Indiana 46517, US. Get directions ...",
+     "source_info_link": "https://www.linkedin.com/school/concord-community-high-school/",
+     "icon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdgHrOzAV__bgebAm1kZL9RF4mqwChxjDY6qkxBLw79KLUzKTPHLfxw-3Dc1zGTrnBd8Nzwdqixo5uHDd-BFClDTeTD__HOvXGn0QdysYOmDT2Q4cHj7LDzLCaXtCVdHdbqxjU5B9HP4cv6b2FbM2JZ6QE3Wp8Bs&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdgHrOzAV__bgebAm1kZL9RF4mqwChxjDY6qkxBLw79KLUzKTPHLfxw-3Dc1zGTrnBd8Nzwdqixo5uHDd-BFClDTeTD__HOvXGn0QdysYOmDT2Q4cHj7LDzLCaXtCVdHdbqxjU5B9HP4cv6b2FbM2JZ6QE3Wp8Bs",
+   "source": "LinkedIn \u00b7 Concord Community High School",
+   "read_more_link": "https://www.linkedin.com/school/concord-community-high-school/#:~:text=Locations,Get%20directions"
+  },
+  {
+   "position": 9,
+   "title": "Concord Community High School - Elkhart, Indiana",
+   "link": "https://www.varsitytutors.com/k12/school/concord-community-high-school-in",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgQEB6zswFY8OrIMg3avJOGjeH6fizFgtxh7DC6wwkcwddoYD0gJYpYUGU5lhBfQaNkoy0NzYN1-su63AT6qkDWK1U46tSDEMtqAGtf8pT28llcWe_RgyfFtFEmaKS6uQnXMz61cuckJGCCmE1YQzWpqeNIrwtwhE4B5cxTEO10LOp38&ved=2ahUKEwj69qLw5-SWAxWzEVkFHUW0CIMQFnoECCUQAQ&uoh=1",
+   "displayed_link": "https://www.varsitytutors.com \u203a school \u203a concord-com...",
+   "favicon": "https://serpapi.com/images/i/UklGRh4BAABXRUJQVlA4IBIBAAAQBgCdASocABwAPrUurVanIacnG_DgFolsALDt3At7fwAZdaOOvV96t-zm6gXkj4SuGYB0nqcoKoAA_v7CPlA7IqJlpOJcbQ9sDndUg_XXVwMqNBQKdQcuRHSRVq3M1oHv2t5oAMp_1d84s7sMO_j82svGSJjaLfQP__iv4j-YD5_0n7MEPyXAF5nC2unTpVMO5Yyb9-KMNF1ZleHm2CUK84MgpnkpP-B7GVOB4cUPs2ArdeKz2hGgLC8WllonKuWZT-Vl67jDMKMVDuguOum7Bk-m97WvVeo_ir9ONwLU7u_yzDfol7oy73uSR_d8ZRxW3mnSYYzHOrDUeMrLaP0a_lzCKoWHMoQgoL1NJOY1EAAA.webp",
+   "snippet": "Concord Community High School is a high school in Elkhart, Indiana with 1785 students. Find enrollment data, courses, staff directory, calendar, ...",
+   "snippet_highlighted_words": [
+    "Concord Community High School",
+    "Indiana"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Concord Community High School is a high school in Elkhart, Indiana with 1785 students. Find enrollment data, courses, staff directory, calendar, ...",
+     "source_info_link": "https://www.varsitytutors.com/k12/school/concord-community-high-school-in",
+     "icon": "https://serpapi.com/images/i/UklGRh4BAABXRUJQVlA4IBIBAAAQBgCdASocABwAPrUurVanIacnG_DgFolsALDt3At7fwAZdaOOvV96t-zm6gXkj4SuGYB0nqcoKoAA_v7CPlA7IqJlpOJcbQ9sDndUg_XXVwMqNBQKdQcuRHSRVq3M1oHv2t5oAMp_1d84s7sMO_j82svGSJjaLfQP__iv4j-YD5_0n7MEPyXAF5nC2unTpVMO5Yyb9-KMNF1ZleHm2CUK84MgpnkpP-B7GVOB4cUPs2ArdeKz2hGgLC8WllonKuWZT-Vl67jDMKMVDuguOum7Bk-m97WvVeo_ir9ONwLU7u_yzDfol7oy73uSR_d8ZRxW3mnSYYzHOrDUeMrLaP0a_lzCKoWHMoQgoL1NJOY1EAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESgQEB6zswFY8OrIMg3avJOGjeH6fizFgtxh7DC6wwkcwddoYD0gJYpYUGU5lhBfQaNkoy0NzYN1-su63AT6qkDWK1U46tSDEMtqAGtf8pT28llcWe_RgyfFtFEmaKS6uQnXMz61cuckJGCCmE1YQzWpqeNIrwtwhE4B5cxTEO10LOp38&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESgQEB6zswFY8OrIMg3avJOGjeH6fizFgtxh7DC6wwkcwddoYD0gJYpYUGU5lhBfQaNkoy0NzYN1-su63AT6qkDWK1U46tSDEMtqAGtf8pT28llcWe_RgyfFtFEmaKS6uQnXMz61cuckJGCCmE1YQzWpqeNIrwtwhE4B5cxTEO10LOp38",
+   "source": "Varsity Tutors"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Concord community high school indiana football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Concord+community+high+school+indiana+football&sa=X&ved=2ahUKEwj69qLw5-SWAxWzEVkFHUW0CIMQ1QJ6BAhUEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Concord+community+high+school+indiana+football"
+  },
+  {
+   "block_position": 1,
+   "query": "Concord community high school indiana tuition",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Concord+community+high+school+indiana+tuition&sa=X&ved=2ahUKEwj69qLw5-SWAxWzEVkFHUW0CIMQ1QJ6BAhZEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Concord+community+high+school+indiana+tuition"
+  },
+  {
+   "block_position": 1,
+   "query": "Concord community high school indiana ranking",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Concord+community+high+school+indiana+ranking&sa=X&ved=2ahUKEwj69qLw5-SWAxWzEVkFHUW0CIMQ1QJ6BAhaEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Concord+community+high+school+indiana+ranking"
+  },
+  {
+   "block_position": 1,
+   "query": "Concord community high school indiana basketball",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Concord+community+high+school+indiana+basketball&sa=X&ved=2ahUKEwj69qLw5-SWAxWzEVkFHUW0CIMQ1QJ6BAhYEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Concord+community+high+school+indiana+basketball"
+  },
+  {
+   "block_position": 1,
+   "query": "Concord community high school indiana alumni",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Concord+community+high+school+indiana+alumni&sa=X&ved=2ahUKEwj69qLw5-SWAxWzEVkFHUW0CIMQ1QJ6BAhXEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Concord+community+high+school+indiana+alumni"
+  },
+  {
+   "block_position": 1,
+   "query": "Concord Community Schools",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Concord+Community+Schools&sa=X&ved=2ahUKEwj69qLw5-SWAxWzEVkFHUW0CIMQ1QJ6BAhWEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Concord+Community+Schools"
+  },
+  {
+   "block_position": 1,
+   "query": "Concord High School Athletics",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Concord+High+School+Athletics&sa=X&ved=2ahUKEwj69qLw5-SWAxWzEVkFHUW0CIMQ1QJ6BAhVEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Concord+High+School+Athletics"
+  },
+  {
+   "block_position": 1,
+   "query": "Concord High School football",
+   "link": "https://www.google.com/search?sca_esv=03bfe121ccbd9421&gl=us&hl=en&q=Concord+High+School+football&sa=X&ved=2ahUKEwj69qLw5-SWAxWzEVkFHUW0CIMQ1QJ6BAhTEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Concord+High+School+football"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=%22Concord+Community+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=lQ2jarrYJ7Oj5NoPxeiimAg&start=10&sa=N&sstk=AS6-VmIe7oDIpCRPrzYuix7L8E3z5zXlTKM5ijNspir2fg0hRM4JOVs5hS5ozvfe6O3B0lrCrbUAr7Y6RFyG8KaGuiHyatg-qqs3uQ&ved=2ahUKEwj69qLw5-SWAxWzEVkFHUW0CIMQ8NMDegQIRhAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=%22Concord+Community+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=lQ2jarrYJ7Oj5NoPxeiimAg&start=10&sa=N&sstk=AS6-VmIe7oDIpCRPrzYuix7L8E3z5zXlTKM5ijNspir2fg0hRM4JOVs5hS5ozvfe6O3B0lrCrbUAr7Y6RFyG8KaGuiHyatg-qqs3uQ&ved=2ahUKEwj69qLw5-SWAxWzEVkFHUW0CIMQ8tMDegQIRhAE",
+   "3": "https://www.google.com/search?q=%22Concord+Community+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=lQ2jarrYJ7Oj5NoPxeiimAg&start=20&sa=N&sstk=AS6-VmIe7oDIpCRPrzYuix7L8E3z5zXlTKM5ijNspir2fg0hRM4JOVs5hS5ozvfe6O3B0lrCrbUAr7Y6RFyG8KaGuiHyatg-qqs3uQ&ved=2ahUKEwj69qLw5-SWAxWzEVkFHUW0CIMQ8tMDegQIRhAG",
+   "4": "https://www.google.com/search?q=%22Concord+Community+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=lQ2jarrYJ7Oj5NoPxeiimAg&start=30&sa=N&sstk=AS6-VmIe7oDIpCRPrzYuix7L8E3z5zXlTKM5ijNspir2fg0hRM4JOVs5hS5ozvfe6O3B0lrCrbUAr7Y6RFyG8KaGuiHyatg-qqs3uQ&ved=2ahUKEwj69qLw5-SWAxWzEVkFHUW0CIMQ8tMDegQIRhAI",
+   "5": "https://www.google.com/search?q=%22Concord+Community+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=lQ2jarrYJ7Oj5NoPxeiimAg&start=40&sa=N&sstk=AS6-VmIe7oDIpCRPrzYuix7L8E3z5zXlTKM5ijNspir2fg0hRM4JOVs5hS5ozvfe6O3B0lrCrbUAr7Y6RFyG8KaGuiHyatg-qqs3uQ&ved=2ahUKEwj69qLw5-SWAxWzEVkFHUW0CIMQ8tMDegQIRhAK",
+   "6": "https://www.google.com/search?q=%22Concord+Community+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=lQ2jarrYJ7Oj5NoPxeiimAg&start=50&sa=N&sstk=AS6-VmIe7oDIpCRPrzYuix7L8E3z5zXlTKM5ijNspir2fg0hRM4JOVs5hS5ozvfe6O3B0lrCrbUAr7Y6RFyG8KaGuiHyatg-qqs3uQ&ved=2ahUKEwj69qLw5-SWAxWzEVkFHUW0CIMQ8tMDegQIRhAM",
+   "7": "https://www.google.com/search?q=%22Concord+Community+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=lQ2jarrYJ7Oj5NoPxeiimAg&start=60&sa=N&sstk=AS6-VmIe7oDIpCRPrzYuix7L8E3z5zXlTKM5ijNspir2fg0hRM4JOVs5hS5ozvfe6O3B0lrCrbUAr7Y6RFyG8KaGuiHyatg-qqs3uQ&ved=2ahUKEwj69qLw5-SWAxWzEVkFHUW0CIMQ8tMDegQIRhAO",
+   "8": "https://www.google.com/search?q=%22Concord+Community+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=lQ2jarrYJ7Oj5NoPxeiimAg&start=70&sa=N&sstk=AS6-VmIe7oDIpCRPrzYuix7L8E3z5zXlTKM5ijNspir2fg0hRM4JOVs5hS5ozvfe6O3B0lrCrbUAr7Y6RFyG8KaGuiHyatg-qqs3uQ&ved=2ahUKEwj69qLw5-SWAxWzEVkFHUW0CIMQ8tMDegQIRhAQ",
+   "9": "https://www.google.com/search?q=%22Concord+Community+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=lQ2jarrYJ7Oj5NoPxeiimAg&start=80&sa=N&sstk=AS6-VmIe7oDIpCRPrzYuix7L8E3z5zXlTKM5ijNspir2fg0hRM4JOVs5hS5ozvfe6O3B0lrCrbUAr7Y6RFyG8KaGuiHyatg-qqs3uQ&ved=2ahUKEwj69qLw5-SWAxWzEVkFHUW0CIMQ8tMDegQIRhAS",
+   "10": "https://www.google.com/search?q=%22Concord+Community+High+School%22+Indiana&sca_esv=03bfe121ccbd9421&gl=us&hl=en&ei=lQ2jarrYJ7Oj5NoPxeiimAg&start=90&sa=N&sstk=AS6-VmIe7oDIpCRPrzYuix7L8E3z5zXlTKM5ijNspir2fg0hRM4JOVs5hS5ozvfe6O3B0lrCrbUAr7Y6RFyG8KaGuiHyatg-qqs3uQ&ved=2ahUKEwj69qLw5-SWAxWzEVkFHUW0CIMQ8tMDegQIRhAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Concord+Community+High+School%22+Indiana&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Concord+Community+High+School%22+Indiana&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Concord+Community+High+School%22+Indiana&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Concord+Community+High+School%22+Indiana&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Concord+Community+High+School%22+Indiana&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Concord+Community+High+School%22+Indiana&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Concord+Community+High+School%22+Indiana&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Concord+Community+High+School%22+Indiana&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Concord+Community+High+School%22+Indiana&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Concord+Community+High+School%22+Indiana&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%22Concord+Community+High+School%22+Indiana&start=90"
+  }
+ }
+}
