@@ -1,0 +1,19 @@
+[project]
+name = "parade-prospects"
+version = "0.1.0"
+description = "Prospect list of US high school marching bands that travel to major holiday parades"
+requires-python = ">=3.11"
+dependencies = [
+    "requests==2.34.2",
+    "beautifulsoup4==4.15.0",
+    "pandas==3.0.5",
+    "lxml==6.1.3",
+    "openpyxl==3.1.5",
+]
+
+[project.optional-dependencies]
+dev = ["pytest==9.1.1"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
