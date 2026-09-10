@@ -30,8 +30,14 @@ DRUM_CORPS = re.compile(r"\b(drum (?:and|&) bugle|drum corps|\bcorps\b|cadets|bl
 ALL_STAR = re.compile(r"\b(all[- ]?star|honou?r band|honou?rs? marching|all[- ]district|"
                       r"all[- ]state|all[- ]county|all[- ]select|all[- ]city|combined|"
                       r"tournament of bands|mass band|select band|band directors|"
-                      r"bands alliance|catholic schools band|schools band|traditional band|"
+                      r"bands alliance|catholic schools? (?:marching )?band|schools band|traditional band|"
                       r"municipal|banda municipal|alliance)\b", re.I)
+# Parade units that are not a school band at all (Hollywood lists dance, cheer and
+# music-school groups in the same category). Applied only when nothing in the
+# name says "band"/"marching"/"drumline".
+NON_BAND = re.compile(r"(dance|music school|hip[- ]?hop|tumbling|gymnastics|cheer|dhol|"
+                      r"studio|choir|chorus|drill team|majorettes?)", re.I)
+_BANDISH = re.compile(r"\b(band|marching|drumline|drum line)\b", re.I)
 MILITARY = re.compile(r"\b(u\.?s\.? (?:army|navy|marine|air force|coast guard)|army band|navy band|"
                       r"marine (?:corps|band)|air force band|coast guard band|military|"
                       r"national guard|west point|naval academy|rotc|jrotc)\b", re.I)
@@ -65,6 +71,8 @@ def exclusion_reason(school: str, band_name: str = "", city: str = "", state: st
         return "drum corps"
     if COMMUNITY.search(text):
         return "community band"
+    if NON_BAND.search(text) and not _BANDISH.search(text):
+        return "dance/cheer/music-school unit, not a school band"
     loc = " ".join(x for x in (city, state, raw) if x)
     if NON_US_WORDS.search(text) or NON_US_WORDS.search(loc):
         return "non-US group"

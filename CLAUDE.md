@@ -160,7 +160,8 @@ unblocks it, and `docs/TROEN_QUESTIONS.md` for open client questions.
 - State band director associations (FL, GA, AL, SC, NC, TN, TX): public assessment
   results, tagged `state-assessment`. Never scrape member directories.
 - Tier A "why them" one-liners → `data/final/tier_a_outreach_notes.csv`. No emails.
-- QA pass (`scripts/qa.py`, `--fix` to repair): done for NCES prefix matches
-  (`--check nces-prefix`). Not done: duplicates, invalid states,
-  `parades_marched = 0`, email domain mismatch, dead source_urls, non-band rows
-  that slipped the exclusions (a dance academy and a music school from Hollywood).
+- QA pass: done (`scripts/qa.py`; `--fix` repairs what can be repaired without
+  guessing, `--network` adds the dead-URL scan). Checks: non-band, nces-prefix,
+  twins, states, parades, email-domain, dead-urls. Open findings it reports but
+  does not change: two Ohio schools that Wikipedia lists as "(Delaware)", and a
+  stateless Westlake row that could be one of two stated Westlakes.

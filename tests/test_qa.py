@@ -48,6 +48,37 @@ def test_campus_ambiguity_blanks_enrollment_but_keeps_shared_district():
     assert "withdrawn as ambiguous" in r["notes"] and "East Campus" in r["notes"]
 
 
+def test_non_band_units_are_reported_for_exclusion():
+    rows = [{"school": "Sonata Music School", "band_name": "Sonata Music School Dhol Class", "city": "", "state": ""},
+            {"school": "Van Nuys High School", "band_name": "Van Nuys High School Cheer", "city": "", "state": "CA"},
+            {"school": "Avon High School", "band_name": "Marching Black and Gold", "city": "", "state": "IN"}]
+    out = qa.check_non_band(rows, None)
+    assert len(out) == 2 and all(o.startswith("EXCLUDE") for o in out)
+    assert not any("Avon" in o for o in out)
+
+
+def test_twins_states_parades_and_email_checks():
+    rows = [
+        {"school": "Westlake High School", "state": "", "parades": "Rose 2024", "parades_marched": "1",
+         "source_urls": "u", "notes": "", "director_email": "", "school_url": ""},
+        {"school": "Westlake High School", "state": "TX", "parades": "Rose 2017", "parades_marched": "1",
+         "source_urls": "u", "notes": "", "director_email": "", "school_url": ""},
+        {"school": "Bellefontaine High School", "state": "DE", "parades": "Philadelphia 2018", "parades_marched": "1",
+         "source_urls": "u", "notes": "nces: no match", "director_email": "", "school_url": ""},
+        {"school": "Lonely High School", "state": "ZZ", "parades": "", "parades_marched": "0",
+         "source_urls": "", "notes": "", "director_email": "x@gmail.com", "school_url": "https://lhs.k12.tx.us"},
+    ]
+    nces = pd.DataFrame([{"state": "OH", "key": "bellefontaine high", "level": "High",
+                          "sch_name": "Bellefontaine High School", "city": "BELLEFONTAINE"}])
+    assert len(qa.check_twins(rows, None)) == 1
+    states = qa.check_states(rows, nces)
+    assert any("Bellefontaine" in s and "OH" in s for s in states) and any("'ZZ'" in s for s in states)
+    assert qa.bare("East Hills MS") == qa.bare("East Hills Middle School") == "east hills"
+    parades = qa.check_parades(rows, None)
+    assert len(parades) == 2                                   # no parade + no source_url
+    assert len(qa.check_email_domain(rows, None)) == 1
+
+
 def test_benign_prefix_matches_are_left_alone():
     rows = [_row("Avon High School", "IN", "Avon High"),
             _row("Brunswick Marching Pirates", "GA", "Brunswick High School")]   # nickname words

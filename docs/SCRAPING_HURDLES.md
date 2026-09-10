@@ -113,6 +113,19 @@ returned for rows with no state.
   ("Avon High", nickname rows such as "Brunswick Marching Pirates").
   `enrich.match_nces` no longer boosts a prefix when the row's extra word names
   another school in the state or when several NCES names extend the prefix.
+- **QA pass, remaining checks (2026-09-10).** `scripts/qa.py` now also runs:
+  `non-band` (8 Hollywood units moved to `excluded.csv`: LA Catholic Schools Band
+  listed under a singular name, four dance/hip-hop/tumbling academies, a music
+  school's dhol class, a rhythmic-gymnastics school, and Van Nuys High School,
+  whose 2025 unit was the cheer squad, not the band; rules added to
+  `scrapers/exclusions.py`); `twins` (Homestead CA/IN are two schools; the
+  stateless Westlake "Rose 2024" row could be the TX or UT Westlake, or a third,
+  and stays separate); `states` (Wikipedia's 2018 Philadelphia lineup says
+  "(Delaware)" for Bellefontaine and Defiance, both Ohio schools per NCES and per
+  Wikipedia's own 2014 entry; the rows keep the source's DE until the owner
+  decides, since a correction would override the cited source); `parades` and
+  `email-domain` (clean); `dead-urls` (`--network`; results in the same run's
+  CHANGELOG entry).
 
 - **Band nicknames stand in for school names.** Sources such as Hollywood and
   Philadelphia list "Oak Park Marching Northmen" or "Klein Forest Golden Eagle

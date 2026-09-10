@@ -35,4 +35,23 @@
   Campus / STEM Academy); district kept, enrollment blanked
 - enrich.match_nces no longer boosts an ambiguous prefix
 
+## 2026-09-10 QA: remaining checks
+
+- non-band: 8 rows moved to excluded.csv (LA Catholic School x2 = the LA Catholic
+  Schools Band; Perez Dance and Tumbling Academy; Sonata Music School; California
+  Springs School of Rhythmic Gymnastics; GevorkianDance Academy; Origin Hip Hop
+  Academy; Van Nuys High School, whose Hollywood 2025 unit was the cheer squad).
+  214 -> 206 schools; excluded 180 -> 188
+- twins (report only): Homestead CA / IN are two schools; stateless Westlake
+  (Rose 2024) could be the TX or UT Westlake and stays separate
+- states (report only): Bellefontaine and Defiance are listed as DE by Wikipedia's
+  2018 Philadelphia lineup; NCES and Wikipedia's 2014 entry put both in OH
+- parades, email-domain: no findings
+- dead-urls (report only, 193 distinct URLs from the cloud container): 29 did not
+  answer 200. Real dead links: 9 x HTTP 404 (Lindbergh, Woodland GA, Jackson
+  Memorial, Londonderry, Lenape, Pearland, Pocono Mountain East, Wando, Twin
+  Lakes) and 1 malformed NCES website ("http://#www.bentonvillek12.org#").
+  Probably the datacenter IP, re-check from a laptop: 7 x 403, 2 x 503, 1 x 429,
+  1 x 409, 5 x SSLError, 4 x ConnectionError. Nothing was changed.
+
 
