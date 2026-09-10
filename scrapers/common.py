@@ -14,7 +14,7 @@ import csv
 import hashlib
 import json
 import time
-from dataclasses import dataclass, field, fields, asdict
+from dataclasses import dataclass, asdict
 from pathlib import Path
 from urllib.parse import urlsplit
 from urllib import robotparser

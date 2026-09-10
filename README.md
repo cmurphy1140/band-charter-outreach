@@ -33,10 +33,12 @@ Roses, Chicago). Their scrapers run against pages saved manually into `data/raw/
 
 1. **Discovery** (`scripts/run_all.py`): one scraper per source writes
    `data/interim/<source>.csv`; the merge normalizes school names, drops colleges,
-   drum corps, all-star/honor, military, community, middle-school, and non-US
-   groups into `data/interim/excluded.csv`, dedupes by (school, state), and builds
-   `data/final/prospects.csv` with parade history, `parades_marched`, and
-   `last_appearance`.
+   drum corps, all-star/honor, military, community, elementary, and non-US groups
+   into `data/interim/excluded.csv` (middle schools stay, flagged by `level`),
+   dedupes by (school, state), and builds `data/final/prospects.csv` with parade
+   history, `parades_marched`, and `last_appearance`. News headlines that name a
+   school band in Macy's or an East Coast holiday parade come through SerpAPI
+   when `SERPAPI_KEY` is set.
 2. **Enrichment** (`scripts/enrich.py`): NCES Common Core of Data (cached zips under
    `data/raw/nces/`) supplies district, enrollment, and school website; the school
    site is crawled (max 20 pages) for the band page, booster club, and a director
@@ -48,7 +50,8 @@ Roses, Chicago). Their scrapers run against pages saved manually into `data/raw/
    target parade), plus 5 for a published director email. Tier A = top 50, B = next
    100, C = rest; `data/final/tier_a.csv` is written alongside.
 4. **Exports** (`scripts/export.py`): `data/final/prospects.xlsx` (Tier A, Tier B,
-   All; frozen header, filters, one parade per line) and `data/final/SUMMARY.md`
+   East Coast, All; frozen header, filters, one parade per line),
+   `data/final/east_coast.csv`, and `data/final/SUMMARY.md`
    (counts by state and parade, top 25, schools with no contact found).
    `--gsheet service_account.json` pushes Tier A to a new Google Sheet via gspread
    (not installed by default).

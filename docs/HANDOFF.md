@@ -104,10 +104,10 @@ note. Enrichment/score columns are carried over on every rebuild
 
 | Phase | Output | Numbers |
 |---|---|---|
-| 1 Discovery | 208 schools in `prospects.csv`; 184 excluded groups | Rose 99, BOA GN finalists 84, Philadelphia 75, Hollywood 41, H-E-B 6. By state: TX 30, IN 21, CA 14, OH 12, GA 11, AL 8, FL 7 …; 41 with no state |
-| 2 Enrichment (all 208) | district, enrollment, school_url, band_url, contacts | 133 with district + enrollment (3 low-confidence noted, 31 no NCES match, 41 skipped for missing state); 76 with a school website, 60 noted "no website in NCES"; 22 band pages, 20 school-site crawls blocked; 5 booster orgs; 3 director names; 1 director email |
-| 3 Scoring | score + tier on every row; `tier_a.csv` | A = 50, B = 100, C = 58. Top: Dobyns-Bennett TN 95; Blue Springs MO, Broken Arrow OK, Carmel IN, William Mason OH at 85 |
-| 4 Exports | `prospects.xlsx` (Tier A / Tier B / All), `SUMMARY.md` | frozen header, autofilter, parades one per line |
+| 1 Discovery | 214 schools in `prospects.csv` (208 before the news pull); 180 excluded groups | Rose 99, BOA GN finalists 84, Philadelphia 75+, Hollywood 41, H-E-B 6, news headlines 15 appearances. By state: TX 30, IN 21, CA 14, OH 12, GA 12, AL 8, FL 7 …; 41 with no state |
+| 2 Enrichment (all rows) | district, enrollment, school_url, band_url, contacts | 133 with district + enrollment (3 low-confidence noted, 31 no NCES match, 41 skipped for missing state); 76 with a school website, 60 noted "no website in NCES"; 22 band pages, 20 school-site crawls blocked; 5 booster orgs; 3 director names; 1 director email |
+| 3 Scoring | score + tier on every row; `tier_a.csv` | A = 50, B = 100, C = 64. Top: Dobyns-Bennett TN 95; Blue Springs MO, Broken Arrow OK, Carmel IN, William Mason OH at 85; Marcus TX (Macy's 2027) enters the top 10 at 9 |
+| 4 Exports | `prospects.xlsx` (Tier A / Tier B / East Coast / All), `SUMMARY.md`, `east_coast.csv` | frozen header, autofilter, parades one per line |
 | 5 Refresh | `make refresh`, `CHANGELOG.md`, `workflows/refresh.yml` | first refresh: 0 new, 0 updated (expected) |
 
 Spot-check after Phase 1: 10 random rows, all 10 found on their source pages.
@@ -180,9 +180,10 @@ page title. It has unit tests but no real-page fixture yet.
    paths that `make scrape` prints. This is the highest-value manual step.
 2. **41 stateless rows** (Hollywood) cannot be NCES-matched and score geography
    at the floor.
-3. **60 of the 208 schools have no NCES website**, so no crawl, so no
-   contact; a further 20 school sites blocked the crawler. A search fallback (SerpAPI/Bing/DuckDuckGo) needs approval.
-4. **Contacts are sparse** (1 email and 3 names across all 208). Partly the strict rule,
+3. **60 of the 214 schools have no NCES website**, so no crawl, so no
+   contact; a further 20 school sites blocked the crawler. The SerpAPI key now in
+   the environment could drive a school-website lookup for these rows; not built yet.
+4. **Contacts are sparse** (1 email and 3 names across all 214). Partly the strict rule,
    partly staff directories that do not label "band director" next to the
    address. Loosening is a client decision (see `docs/TROEN_QUESTIONS.md` Q15–16).
 5. **BOA regional finalists** are not captured (PDF-only; needs pypdf).
@@ -257,9 +258,9 @@ in holiday parades/festivals. Decisions: East Coast = ME NH VT MA RI CT NY NJ PA
 DE MD DC VA WV NC SC GA FL; middle schools join the same list flagged by a new
 `level` column (High/Middle/Other, from the name at merge, else NCES); the
 signal is "has marched in a holiday event". Output: `data/final/east_coast.csv`
-and an "East Coast" sheet in `prospects.xlsx` (48 rows at handoff: GA 12, FL 7,
-PA 7, NJ 6, SC 4, DE 4; 3 with no state whose only appearance is the
-Philadelphia parade).
+and an "East Coast" sheet in `prospects.xlsx` (52 rows after the news pull: GA 12,
+FL 7, PA 7, NJ 6, SC 4, DE 4; the rest single-state or stateless rows whose only
+appearance is an East Coast parade).
 
 What blocked a bigger list: no East Coast parade site publishes a lineup that is
 reachable and allowed (see `docs/SCRAPING_HURDLES.md`, "East Coast expansion").

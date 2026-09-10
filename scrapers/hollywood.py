@@ -65,7 +65,7 @@ def scrape(years=None) -> list[Row]:
         url = BASE + slug + "/"
         try:
             html = fetch(url)
-        except BlockedSource as e:
+        except BlockedSource:
             if year in (2018, 2019):
                 continue  # older categories may not exist; not a block of the source
             raise
