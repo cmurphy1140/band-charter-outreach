@@ -103,10 +103,16 @@ returned for rows with no state.
 
 ## Data-quality hurdles inside the pipeline
 
-- **NCES prefix boost can pick a parent-named school.** "Olentangy Orange High
-  School" was matched to "Olentangy High School" (0.92) because NCES has no
-  record under the Orange name; the district/enrollment on that row may belong
-  to the other school. A QA pass should re-check every prefix-boosted match.
+- **NCES prefix boost could pick a parent-named school** (fixed 2026-09-10).
+  "Olentangy Orange High School" had been matched to "Olentangy High School"
+  (0.92); NCES lists the school as "Orange High School" in Olentangy Local.
+  `scripts/qa.py --check nces-prefix` re-checked all 42 prefix-boosted matches:
+  that one was re-pointed (enrollment 1721 -> 1967), and "Downingtown High
+  School" was withdrawn as ambiguous (NCES has East Campus, West Campus and a
+  STEM Academy; district kept, enrollment blanked). The other 40 were benign
+  ("Avon High", nickname rows such as "Brunswick Marching Pirates").
+  `enrich.match_nces` no longer boosts a prefix when the row's extra word names
+  another school in the state or when several NCES names extend the prefix.
 
 - **Band nicknames stand in for school names.** Sources such as Hollywood and
   Philadelphia list "Oak Park Marching Northmen" or "Klein Forest Golden Eagle
