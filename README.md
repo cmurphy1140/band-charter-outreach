@@ -62,6 +62,14 @@ Roses, Chicago). Their scrapers run against pages saved manually into `data/raw/
    App cannot push to `.github/workflows/`; copy it to
    `.github/workflows/refresh.yml` to enable it.
 
+## Documents
+
+- `docs/HANDOFF.md`: full project handoff (what exists, what is blocked, what next).
+- `docs/SCRAPING_HURDLES.md`: every blocked or partial source and what unblocks it.
+- `docs/TROEN_QUESTIONS.md`: open questions for the client.
+- `docs/packet/`: the client packet (brief + Top 10, deck as PDF and pptx, overview,
+  Veterans Day sales sheet), rendered from the 2026-09-10 data.
+
 ## Stack
 
 Python 3.11, requests, beautifulsoup4, lxml, pandas, openpyxl, pytest.
