@@ -32,11 +32,28 @@ TIMEOUT = 30
 
 # Exact column order of data/final/prospects.csv. Do not reorder.
 COLUMNS = [
-    "school", "band_name", "city", "state", "district", "enrollment",
+    "school", "band_name", "city", "state", "level", "district", "enrollment",
     "parades", "parades_marched", "last_appearance", "boa_finalist_years",
     "school_url", "band_url", "director_name", "director_email", "director_phone",
     "booster_org", "source_urls", "score", "tier", "notes",
 ]
+
+# East Coast for the holiday-festival list: ME to FL plus DC, and the VT/WV interior.
+EAST_COAST = {"ME", "NH", "VT", "MA", "RI", "CT", "NY", "NJ", "PA", "DE", "MD", "DC", "VA",
+              "WV", "NC", "SC", "GA", "FL"}
+
+
+def is_east_coast(row: dict) -> bool:
+    """East Coast list membership: the school's state, or (state unknown) an
+    appearance in an East Coast holiday parade."""
+    if (row.get("state") or "").upper() in EAST_COAST:
+        return True
+    if row.get("state"):
+        return False
+    from scrapers.news_east import PARADES  # local import: avoids a cycle at load
+    east_events = {e for e, st, _ in PARADES if st in EAST_COAST} | {"Philadelphia"}
+    return any(tag.rsplit(" ", 1)[0] in east_events for tag in (row.get("parades") or "").split("; ") if tag)
+
 
 # Columns written by each discovery scraper into data/interim/<source>.csv.
 INTERIM_COLUMNS = ["school", "band_name", "city", "state", "event", "year", "source_url"]

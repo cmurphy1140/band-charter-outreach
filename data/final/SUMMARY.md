@@ -2,8 +2,8 @@
 
 _Generated 2026-09-10 from `data/final/prospects.csv`._
 
-- **208 schools** (Tier A 50, Tier B 100, Tier C 58)
-- 1 with a published director email; 207 with no contact found
+- **210 schools** (Tier A 50, Tier B 100, Tier C 60)
+- 1 with a published director email; 209 with no contact found
 
 ## By state
 
@@ -13,12 +13,12 @@ _Generated 2026-09-10 from `data/final/prospects.csv`._
 | TX | 30 |
 | IN | 21 |
 | CA | 14 |
+| GA | 12 |
 | OH | 12 |
-| GA | 11 |
 | AL | 8 |
 | FL | 7 |
+| PA | 7 |
 | NJ | 6 |
-| PA | 6 |
 | DE | 4 |
 | HI | 4 |
 | OK | 4 |
@@ -50,9 +50,9 @@ _Generated 2026-09-10 from `data/final/prospects.csv`._
 
 | Parade | Schools |
 |---|---|
-| Rose | 99 |
+| Rose | 100 |
 | BOA Grand National Finalist | 84 |
-| Philadelphia | 75 |
+| Philadelphia | 78 |
 | Hollywood | 41 |
 | H-E-B Houston | 6 |
 
@@ -177,6 +177,7 @@ booster site. These schools need a manual lookup:
 | Keller High School | TX | B | http://www.kellerisd.net | http://www.kellerisd.net/students-families/fine-arts/band |
 | Klein Forest Golden Eagle Marching Band | TX | B |  |  |
 | Lassiter High School | GA | B | http://www.cobbk12.org/lassiter | http://www.cobbk12.org/lassiter/band |
+| Martin Luther King, Jr. High School | GA | B |  |  |
 | Milby High School | TX | B | http://www.houstonisd.org | http://www.houstonisd.org/schools-academics/extracurricular-activities-uil/uil-music |
 | Munford High School | TN | B | http://www.tipton-county.com/mhs |  |
 | Norwalk High School | ? | B |  |  |
@@ -189,6 +190,7 @@ booster site. These schools need a manual lookup:
 | Walton High School | GA | B | http://www.waltonhigh.org |  |
 | Waltrip High School | TX | B | http://www.houstonisd.org | http://www.houstonisd.org/schools-academics/extracurricular-activities-uil/uil-music |
 | Westbury High School | TX | B | http://www.houstonisd.org | http://www.houstonisd.org/schools-academics/extracurricular-activities-uil/uil-music |
+| East Hills Middle School | PA | B |  |  |
 | Greenwood Marching Woodmen & Irish Guard – Greenwood, Indiana | ? | B |  |  |
 | Mira Costa High School | ? | B |  |  |
 | Robert E. Hendrickson High School | TX | B |  |  |
@@ -240,8 +242,8 @@ booster site. These schools need a manual lookup:
 | The Pride of Owasso | OK | B |  |  |
 | Westlake High School | UT | B | http://westlake.alpinedistrict.org/ |  |
 | A.I. DuPont High School | DE | B |  |  |
-| Bainbridge High School | GA | B | http://bhs.boe.dcboe.com/ |  |
-| Brooks High School | AL | B | http://www.lcschools.org |  |
+| Bainbridge High School | GA | C | http://bhs.boe.dcboe.com/ |  |
+| Brooks High School | AL | C | http://www.lcschools.org |  |
 | Brunswick Marching Pirates | GA | C |  |  |
 | Clearview Regional High School | NJ | C | http://hs.clearviewregional.edu |  |
 | Colquitt County High School | GA | C | http://colquitt.k12.ga.us/cchs/ |  |

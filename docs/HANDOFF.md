@@ -250,6 +250,24 @@ fill the Macy's, Fandom, and Chicago caches without any code change.
    `news:`, state band director association assessment results, Tier A "why
    them" notes → `tier_a_outreach_notes.csv`, QA pass (`scripts/qa.py`).
 
+## 9a. East Coast holiday-festival list (added 2026-09-10)
+
+Owner asked for East Coast high school AND middle school bands that have marched
+in holiday parades/festivals. Decisions: East Coast = ME NH VT MA RI CT NY NJ PA
+DE MD DC VA WV NC SC GA FL; middle schools join the same list flagged by a new
+`level` column (High/Middle/Other, from the name at merge, else NCES); the
+signal is "has marched in a holiday event". Output: `data/final/east_coast.csv`
+and an "East Coast" sheet in `prospects.xlsx` (48 rows at handoff: GA 12, FL 7,
+PA 7, NJ 6, SC 4, DE 4; 3 with no state whose only appearance is the
+Philadelphia parade).
+
+What blocked a bigger list: no East Coast parade site publishes a lineup that is
+reachable and allowed (see `docs/SCRAPING_HURDLES.md`, "East Coast expansion").
+Google News RSS headlines would have added Macy's (34 schools) and Philadelphia
+(15) rows, but news.google.com/robots.txt disallows the search feed, so
+`scrapers/news_east.py` is parked, not registered. The sanctioned route is a
+licensed search/news API key.
+
 ## 10. Deliverables that exist today
 
 - `data/final/prospects.xlsx` and `SUMMARY.md` (sent to the owner).

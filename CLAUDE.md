@@ -17,8 +17,13 @@ offering on the website.
   under `data/raw/`; never hammer a school site (max 20 pages per school).
 - **Public data only.** No email, inbox, CRM, or paid-directory scraping.
 - **Exclude** colleges/universities, drum corps, honor/all-star/all-district bands,
-  military bands, community bands, and any non-US group from the prospect list.
-  Keep them in `data/interim/excluded.csv` in case they are useful later.
+  military bands, community bands, elementary schools, and any non-US group from
+  the prospect list. Keep them in `data/interim/excluded.csv` in case they are
+  useful later. Middle schools ARE prospects (owner decision, 2026-09-10), flagged
+  by `level`; the East Coast sheet (`data/final/east_coast.csv`, xlsx sheet
+  "East Coast") is ME–FL plus DC, VT, WV (`scrapers/common.py: EAST_COAST`).
+- **Respect robots.txt even when the data is tempting.** Google News RSS search
+  is disallowed and is therefore not used (`scrapers/news_east.py` is parked).
 - **Ask before adding dependencies or credentials.** Approved so far: requests,
   beautifulsoup4, pandas, lxml, openpyxl, pytest. gspread is only added if the
   `--gsheet` export is actually used with a supplied service account.
@@ -48,6 +53,7 @@ Run with `make venv`, then `make scrape | enrich | score | export | all | test |
 | band_name | e.g. "Marching Minutemen" |
 | city | |
 | state | 2-letter code |
+| level | High / Middle / Other (from the name at merge, else NCES) |
 | district | Phase 2 (NCES) |
 | enrollment | Phase 2 (NCES) |
 | parades | semicolon-separated, e.g. `Macy's 2026; Rose 2023` |

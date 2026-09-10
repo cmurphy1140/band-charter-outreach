@@ -24,7 +24,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from scrapers import boa, cached_only, heb, hollywood, philly, wikipedia_rose  # noqa: E402
 from scrapers.common import (COLUMNS, FINAL_DIR, INTERIM_DIR, INTERIM_COLUMNS, BlockedSource,  # noqa: E402
                              Row, write_interim, write_blocked, clear_blocked)
-from scrapers.exclusions import exclusion_reason  # noqa: E402
+from scrapers.exclusions import exclusion_reason, level_from_name  # noqa: E402
 from scrapers.normalize import normalize_school, clean_school  # noqa: E402
 
 PROSPECTS = FINAL_DIR / "prospects.csv"
@@ -38,6 +38,8 @@ LIVE_SOURCES = {
     "hollywood": hollywood,
     "heb": heb,
     "boa": boa,
+    # news_east is NOT run: news.google.com/robots.txt disallows /rss/search, and the
+    # guardrail is to respect robots.txt. Kept for when a licensed search API exists.
 }
 
 
@@ -106,7 +108,7 @@ def run_scrapers(years) -> dict[str, int]:
 def load_interim() -> list[dict]:
     rows = []
     for p in sorted(INTERIM_DIR.glob("*.csv")):
-        if p.name == "excluded.csv":
+        if p.name in ("excluded.csv", "news_east_headlines.csv"):
             continue
         with p.open(encoding="utf-8") as f:
             for r in csv.DictReader(f):
@@ -170,6 +172,7 @@ def merge(rows: list[dict]) -> tuple[list[dict], list[dict]]:
         years = [y for _, y in ordered if y]
         out.append({
             "school": name, "band_name": band, "city": city, "state": state,
+            "level": level_from_name(name, band),
             "district": "", "enrollment": "",
             "parades": "; ".join(t for t, _ in ordered),
             "parades_marched": len(parades),
@@ -210,7 +213,7 @@ def write_excluded(rows: list[dict]) -> None:
 
 def carry_over(new_rows: list[dict], old_rows: list[dict]) -> list[dict]:
     """Keep enrichment/scoring columns from an existing prospects.csv on rebuild."""
-    keep = ["district", "enrollment", "school_url", "band_url", "director_name",
+    keep = ["level", "district", "enrollment", "school_url", "band_url", "director_name",
             "director_email", "director_phone", "booster_org", "score", "tier", "notes"]
     old = {(normalize_school(r["school"]), r["state"]): r for r in old_rows}
     for r in new_rows:
@@ -218,7 +221,7 @@ def carry_over(new_rows: list[dict], old_rows: list[dict]) -> list[dict]:
         if not o:
             continue
         for k in keep:
-            if o.get(k):
+            if o.get(k) and not (k == "level" and r.get("level")):
                 r[k] = o[k]
         if o.get("band_name") and not r["band_name"]:
             r["band_name"] = o["band_name"]

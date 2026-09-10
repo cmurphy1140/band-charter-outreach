@@ -120,7 +120,7 @@ def load_nces() -> pd.DataFrame:
     })
     d = d[["ncessch", "sch_name", "lea_name", "city", "state", "website", "level", "status"]].copy()
     d = d[d["status"].fillna("").str.contains("Open|New|Reopened|Changed", case=False, regex=True)]
-    d = d[d["level"].fillna("").str.contains("High|Secondary|Other|Not applicable|Ungraded", case=False, regex=True)]
+    d = d[d["level"].fillna("").str.contains("High|Middle|Secondary|Other|Not applicable|Ungraded", case=False, regex=True)]
     d["key"] = d["sch_name"].map(normalize_school)
     d["city_key"] = d["city"].fillna("").str.lower().str.strip()
     tot = load_enrollment_totals()
@@ -173,6 +173,13 @@ def match_nces(row: dict, nces: pd.DataFrame) -> tuple[dict | None, float, list[
     if pool.empty:
         return None, 0.0, []
     key = normalize_school(row["school"])
+    # A row named as a middle school only matches NCES middle schools, and vice versa,
+    # so "Lincoln Middle School" never resolves to "Lincoln High School".
+    want_middle = (row.get("level") == "Middle") or bool(re.search(r"middle|junior high|jr\.? high", row["school"], re.I))
+    is_middle = pool["level"].fillna("").str.startswith("Middle")
+    pool = pool[is_middle] if want_middle else pool[~is_middle]
+    if pool.empty:
+        return None, 0.0, []
     city = (row.get("city") or "").lower().strip()
     if city:
         in_city = pool[pool["city_key"] == city]
@@ -328,6 +335,9 @@ def enrich_row(row: dict, nces: pd.DataFrame, crawl: bool) -> None:
     elif ratio >= MATCH_THRESHOLD:
         if not row.get("district"):
             row["district"] = rec["lea_name"] or ""
+        if not row.get("level") and rec.get("level"):
+            lv = str(rec["level"])
+            row["level"] = "High" if lv.startswith(("High", "Secondary")) else "Middle" if lv.startswith("Middle") else "Other"
         if not row.get("enrollment") and rec.get("enrollment"):
             row["enrollment"] = str(rec["enrollment"]).split(".")[0]
         if not row.get("city") and rec.get("city"):

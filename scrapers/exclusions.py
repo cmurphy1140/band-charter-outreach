@@ -16,8 +16,15 @@ COLLEGE = re.compile(
     r"marching hundred|spirit of troy|pride of the southland)",
     re.I,
 )
-NOT_HIGH_SCHOOL = re.compile(r"\b(middle school|junior high|jr\.? high|elementary|intermediate school|"
-                             r"k-8|primary school)\b", re.I)
+# Middle schools are prospects (flagged by `level`); only elementary/primary are excluded.
+NOT_SECONDARY = re.compile(r"\b(elementary|primary school|pre-?k|kindergarten)\b", re.I)
+# "Jr. High School" is not matched: "Martin Luther King, Jr. High School" is a high school.
+MIDDLE = re.compile(r"\b(middle school|junior high(?! school)|jr\.? high(?! school)|intermediate school|k-8)\b", re.I)
+
+
+def level_from_name(school: str, band_name: str = "") -> str:
+    """'Middle' when the name says so, else '' (NCES fills High/Middle/Other later)."""
+    return "Middle" if MIDDLE.search(f"{school} {band_name}") else ""
 DRUM_CORPS = re.compile(r"\b(drum (?:and|&) bugle|drum corps|\bcorps\b|cadets|blue devils|bluecoats|"
                         r"cavaliers|crossmen|phantom regiment|santa clara vanguard)\b", re.I)
 ALL_STAR = re.compile(r"\b(all[- ]?star|honou?r band|honou?rs? marching|all[- ]district|"
@@ -46,8 +53,8 @@ def exclusion_reason(school: str, band_name: str = "", city: str = "", state: st
     text = " ".join(x for x in (school, band_name, raw) if x)
     if ALL_STAR.search(text):
         return "all-star/honor/all-district band"
-    if NOT_HIGH_SCHOOL.search(text):
-        return "not a high school (middle/elementary)"
+    if NOT_SECONDARY.search(text):
+        return "elementary/primary school"
     if COLLEGE.search(text) and not re.search(r"high school|\bhs\b|h\.s\.", text, re.I):
         return "college/university"
     if COLLEGE.search(school or ""):

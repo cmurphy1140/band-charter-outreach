@@ -24,6 +24,27 @@ the guardrail that nothing is guessed.
 | 14 | GitHub App permissions | The Claude GitHub App cannot push files under `.github/workflows/` | The seasonal refresh workflow sits in `workflows/refresh.yml` and is not active | Copy it to `.github/workflows/refresh.yml` from a normal git client. |
 | 15 | Nimble CLI | Not installed, no API key | The optional Google Maps ratings/website-confidence enrichment is skipped | Install `nimble` and set its key if that step matters. |
 
+## East Coast holiday-festival expansion (added 2026-09-10)
+
+Goal: high school and middle school bands in ME–FL plus DC, VT, WV that have
+marched in a holiday parade or festival. What was found:
+
+| Attempt | Result |
+|---|---|
+| Guessed official parade domains (Richmond, Raleigh, Charlotte, Baltimore, Virginia Beach, Atlanta, Stamford, Boston, Savannah, Jacksonville, St. Pete, Pensacola, Tallahassee …) | Almost all do not resolve; the organizers use news-station or city subpages we could not locate without search |
+| America's Hometown Thanksgiving Celebration (Plymouth, MA) | Reachable, but invitation-only and publishes no participant list |
+| Raleigh Christmas Parade (grma.org) | Connection reset / 403 |
+| Stamford Downtown Parade Spectacular, Norfolk Festevents, Charlotte Center City | Reachable pages, no lineup content (JS or marketing copy only) |
+| Google News RSS headlines ("Enloe High School band prepares to perform at Raleigh Christmas Parade") | Rich (Macy's 34 named schools, Philadelphia 15), **but news.google.com/robots.txt disallows /rss/search**. Not used, per the robots.txt guardrail. Parser is ready in `scrapers/news_east.py` |
+| Bing / DuckDuckGo / Startpage HTML | Bing reachable but its no-JavaScript results ignore the query; DuckDuckGo returns a challenge; all disallow scraping in robots.txt |
+| Wikipedia | Only the Philadelphia parade article has a band table; no articles for the other East Coast parades |
+
+Net effect: the East Coast sheet is built from sources already in the pipeline
+(Philadelphia 40 schools, Rose 13, BOA 5, Hollywood 1) plus middle schools now
+allowed. What unblocks it: a licensed search or news API key (SerpAPI, Bing Web
+Search, NewsAPI), which is the sanctioned route to the same headlines, or someone
+saving each parade's lineup page from a browser into `data/raw/`.
+
 ## Data-quality hurdles inside the pipeline
 
 - **Band nicknames stand in for school names.** Sources such as Hollywood and

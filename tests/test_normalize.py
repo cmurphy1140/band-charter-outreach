@@ -36,3 +36,8 @@ def test_exclusions():
     assert exclusion_reason("Blue Devils") == "drum corps"
     assert exclusion_reason("Allen High School", "The Allen Eagle Escadrille", "Allen", "TX") == ""
     assert exclusion_reason("Jenks High School") == ""
+    assert exclusion_reason("Lincoln Middle School") == ""          # middle schools are prospects
+    assert exclusion_reason("Gadsden Elementary School") == "elementary/primary school"
+    from scrapers.exclusions import level_from_name
+    assert level_from_name("Lincoln Middle School") == "Middle"
+    assert level_from_name("Allen High School") == ""

@@ -20,16 +20,17 @@ from openpyxl import Workbook  # noqa: E402
 from openpyxl.styles import Alignment, Font  # noqa: E402
 from openpyxl.utils import get_column_letter  # noqa: E402
 
-from scrapers.common import COLUMNS, FINAL_DIR  # noqa: E402
+from scrapers.common import COLUMNS, FINAL_DIR, is_east_coast  # noqa: E402
 
 PROSPECTS = FINAL_DIR / "prospects.csv"
 XLSX = FINAL_DIR / "prospects.xlsx"
 SUMMARY = FINAL_DIR / "SUMMARY.md"
+EAST_COAST_CSV = FINAL_DIR / "east_coast.csv"
 
 # Column order for the workbook: the "Parade" column is the parades list, one per line.
 SHEET_COLUMNS = [
     ("Tier", "tier"), ("Score", "score"), ("School", "school"), ("Band", "band_name"),
-    ("City", "city"), ("State", "state"), ("Parade", "parades"), ("Parades marched", "parades_marched"),
+    ("City", "city"), ("State", "state"), ("Level", "level"), ("Parade", "parades"), ("Parades marched", "parades_marched"),
     ("Last appearance", "last_appearance"), ("BOA finalist years", "boa_finalist_years"),
     ("District", "district"), ("Enrollment", "enrollment"), ("School site", "school_url"),
     ("Band site", "band_url"), ("Director", "director_name"), ("Director email", "director_email"),
@@ -81,8 +82,14 @@ def write_xlsx(rows: list[dict]) -> None:
     ws.title = "Tier A"
     _write_sheet(ws, [r for r in rows if r["tier"] == "A"])
     _write_sheet(wb.create_sheet("Tier B"), [r for r in rows if r["tier"] == "B"])
+    east = [r for r in rows if is_east_coast(r)]
+    _write_sheet(wb.create_sheet("East Coast"), east)
     _write_sheet(wb.create_sheet("All"), rows)
     wb.save(XLSX)
+    with EAST_COAST_CSV.open("w", newline="", encoding="utf-8") as f:
+        w = csv.DictWriter(f, fieldnames=COLUMNS, extrasaction="ignore")
+        w.writeheader()
+        w.writerows(east)
 
 
 def write_summary(rows: list[dict]) -> None:
