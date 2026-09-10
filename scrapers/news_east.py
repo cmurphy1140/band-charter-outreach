@@ -42,26 +42,19 @@ from __future__ import annotations
 
 import csv
 import datetime as dt
-import hashlib
-import json
-import os
 import re
-import time
 import xml.etree.ElementTree as ET
 from email.utils import parsedate_to_datetime
 
-import requests
-
-from scrapers.common import (Row, INTERIM_DIR, RAW_DIR, TIMEOUT, USER_AGENT, BlockedSource,
-                             _throttle)
+from scrapers import serpapi
+from scrapers.common import Row, INTERIM_DIR, BlockedSource
 from scrapers.normalize import clean_school, split_city_state
 
 SOURCE = "news_east"
-URL = "https://serpapi.com/search.json"          # reported by run_all when blocked
-ACCOUNT_URL = "https://serpapi.com/account.json"
+URL = serpapi.URL                                # reported by run_all when blocked
 RSS = "https://news.google.com/rss/search?"      # parser only; never fetched (robots.txt)
-ENV_KEY = "SERPAPI_KEY"
-CACHE_DIR = RAW_DIR / "serpapi.com"
+ENV_KEY = serpapi.ENV_KEY
+ENGINE = "google_news"
 
 # (event tag, parade state, search phrases, headline marker). The state is the
 # parade's, used for the East Coast sheet only; it is never written into a school's
@@ -261,56 +254,7 @@ def parse_results(payload: dict, years=YEARS) -> tuple[list[Row], list[dict]]:
 
 
 def cache_path(query: str):
-    return CACHE_DIR / (hashlib.sha1(f"google_news|{query}".encode()).hexdigest() + ".json")
-
-
-def search(query: str, *, force: bool = False) -> dict:
-    """One google_news search through SerpAPI, cached as JSON. The key never
-    touches disk. Raises BlockedSource on any failure; never returns a guess."""
-    p = cache_path(query)
-    if p.exists() and not force:
-        return json.loads(p.read_text(encoding="utf-8"))
-    key = os.environ.get(ENV_KEY, "")
-    if not key:
-        raise BlockedSource(f"{ENV_KEY} not set; Google News RSS is disallowed by robots.txt")
-    _throttle("serpapi.com")
-    try:
-        resp = requests.get(URL, params={"engine": "google_news", "q": query, "gl": "us",
-                                         "hl": "en", "api_key": key},
-                            headers={"User-Agent": USER_AGENT}, timeout=TIMEOUT)
-    except requests.RequestException as e:
-        raise BlockedSource(f"SerpAPI request failed: {e}") from e
-    try:
-        payload = resp.json()
-    except ValueError as e:
-        raise BlockedSource(f"SerpAPI returned non-JSON (HTTP {resp.status_code})") from e
-    err = payload.get("error", "")
-    if resp.status_code != 200 and "hasn't returned any results" not in err:
-        raise BlockedSource(f"SerpAPI HTTP {resp.status_code}: {err or resp.text[:200]}")
-    if err and "hasn't returned any results" in err:
-        payload = {"news_results": [], "note": err}
-    payload.pop("search_metadata", None)   # per-search endpoints tied to the account
-    payload.pop("search_parameters", None)
-    CACHE_DIR.mkdir(parents=True, exist_ok=True)
-    p.write_text(json.dumps(payload, indent=1), encoding="utf-8")
-    p.with_suffix(".meta.json").write_text(json.dumps({
-        "engine": "google_news", "q": query, "status": resp.status_code,
-        "fetched_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
-    }, indent=2))
-    return payload
-
-
-def searches_left() -> int | None:
-    """Remaining monthly quota, or None if the account endpoint is unreachable."""
-    key = os.environ.get(ENV_KEY, "")
-    if not key:
-        return None
-    try:
-        _throttle("serpapi.com")
-        r = requests.get(ACCOUNT_URL, params={"api_key": key}, timeout=TIMEOUT)
-        return int(r.json().get("total_searches_left"))
-    except (requests.RequestException, ValueError, TypeError):
-        return None
+    return serpapi.cache_path(ENGINE, query)
 
 
 def queries() -> list[str]:
@@ -348,18 +292,14 @@ def scrape(years=YEARS) -> list[Row]:
     force = years is not None and len(list(years)) <= 3  # refresh: re-pull the searches
     todo = queries()
     uncached = [q for q in todo if force or not cache_path(q).exists()]
-    if uncached and not os.environ.get(ENV_KEY):
+    if uncached and not serpapi.key_present():
         raise BlockedSource(f"{ENV_KEY} not set; Google News RSS is disallowed by robots.txt "
                             f"({len(uncached)} searches needed)")
-    if uncached:
-        left = searches_left()
-        if left is not None and left < len(uncached):
-            raise BlockedSource(f"SerpAPI quota: {left} searches left this month, "
-                                f"{len(uncached)} needed; nothing pulled")
+    serpapi.ensure_quota(len(uncached))
     rows: list[Row] = []
     used: list[dict] = []
     for q in todo:
-        payload = search(q, force=force)
+        payload = serpapi.search(ENGINE, q, force=force)
         r, u = parse_results(payload, years)
         rows += r
         used += u

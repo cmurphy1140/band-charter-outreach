@@ -383,13 +383,19 @@ def main(argv=None) -> int:
     ap.add_argument("--limit", type=int, default=100, help="top N by parades_marched")
     ap.add_argument("--all", action="store_true")
     ap.add_argument("--no-crawl", action="store_true", help="NCES only, skip school sites")
+    ap.add_argument("--new-only", action="store_true",
+                    help="only rows with a school_url that has never been crawled")
     a = ap.parse_args(argv)
 
     with PROSPECTS.open(encoding="utf-8") as f:
         rows = list(csv.DictReader(f))
     order = sorted(range(len(rows)), key=lambda i: (-int(rows[i]["parades_marched"] or 0),
                                                     -int(rows[i]["last_appearance"] or 0)))
-    targets = order if a.all else order[: a.limit]
+    targets = order if (a.all or a.new_only) else order[: a.limit]
+    if a.new_only:
+        crawled = re.compile(r"no band page found|site crawl blocked")
+        targets = [i for i in targets if rows[i].get("school_url") and not rows[i].get("band_url")
+                   and not crawled.search(rows[i].get("notes") or "")]
     print(f"[nces] loading Common Core of Data ...")
     nces = load_nces()
     print(f"[nces] {len(nces)} open high/secondary schools loaded")
