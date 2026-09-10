@@ -225,6 +225,7 @@ make scrape                     # full discovery, prints summary + blocked-sourc
 .venv/bin/python scripts/enrich.py --limit 100     # or --all, --no-crawl, --new-only
 .venv/bin/python scripts/search_fallback.py        # websites via SerpAPI for rows NCES missed
 .venv/bin/python scripts/enrich.py --new-only      # crawl only sites never crawled before
+.venv/bin/python scripts/qa.py [--fix]             # QA checks (nces-prefix so far); exit 1 on findings
 make score
 make export                     # + optional: scripts/export.py --gsheet service_account.json
 make refresh                    # current + next year only; diff + CHANGELOG entry

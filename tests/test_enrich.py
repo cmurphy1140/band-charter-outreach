@@ -92,3 +92,14 @@ def test_menu_text_around_band_boosters_is_not_an_organisation():
     assert _run(html)["booster_org"] == ""
     html = "<p>Proudly supported by the Lassiter Band Booster Association since 1981.</p>"
     assert _run(html)["booster_org"] == "Lassiter Band Booster Association"
+
+
+def test_prefix_boost_only_when_the_prefix_is_unambiguous():
+    from scripts.enrich import _prefix_pair
+    pool = ["olentangy", "orange", "olentangy liberty", "avon", "downingtown east campus",
+            "downingtown west campus", "brunswick"]
+    assert _prefix_pair("avon", "avon", pool) is False          # equal keys are handled elsewhere
+    assert _prefix_pair("brunswick marching pirates", "brunswick", pool)   # nickname words
+    assert not _prefix_pair("olentangy orange", "olentangy", pool)          # 'orange' names another school
+    assert not _prefix_pair("downingtown", "downingtown west campus", pool)  # two campuses
+    assert _prefix_pair("olentangy liberty", "olentangy liberty", pool) is False

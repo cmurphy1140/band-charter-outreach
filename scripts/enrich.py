@@ -169,6 +169,24 @@ def load_enrollment_totals() -> pd.DataFrame | None:
     return tot
 
 
+_PREFIX_GENERIC = {"high", "school", "senior", "sr", "jr", "junior", "community", "township",
+                   "twp", "regional", "area", "hs", "shs", "campus"}
+
+
+def _prefix_pair(key: str, rec_key: str, pool_keys: list[str]) -> bool:
+    """'avon' ~ 'avon high' is the same school; 'olentangy orange' ~ 'olentangy' is
+    not when another school's key carries 'orange', and 'downingtown' ~
+    'downingtown hs west campus' is not when 'east campus' exists too."""
+    if rec_key.startswith(key + " "):
+        # NCES name extends the row name: fine unless several NCES names do.
+        return sum(1 for k in pool_keys if k == key or k.startswith(key + " ")) == 1
+    if key.startswith(rec_key + " "):
+        # Row name extends the NCES name: the extra words must not name another school.
+        extra = set(key[len(rec_key):].split()) - _PREFIX_GENERIC
+        return not any(extra & set(k.split()) for k in pool_keys if k != rec_key)
+    return False
+
+
 def match_nces(row: dict, nces: pd.DataFrame) -> tuple[dict | None, float, list[str]]:
     """Return (best_match_record, ratio, other_candidates). Never guesses: the caller
     fills fields only when ratio >= MATCH_THRESHOLD and the match is unique."""
@@ -192,11 +210,12 @@ def match_nces(row: dict, nces: pd.DataFrame) -> tuple[dict | None, float, list[
         if not in_city.empty:
             pool = in_city
     scored = []
+    pool_keys = [k for k in pool["key"].tolist()]
     for rec in pool.itertuples(index=False):
         ratio = difflib.SequenceMatcher(None, key, rec.key).ratio()
         if rec.key == key:
             ratio = 1.0
-        elif key and (rec.key.startswith(key + " ") or key.startswith(rec.key + " ")):
+        elif key and _prefix_pair(key, rec.key, pool_keys):
             ratio = max(ratio, 0.92)
         if ratio >= CANDIDATE_THRESHOLD:
             scored.append((ratio, rec))

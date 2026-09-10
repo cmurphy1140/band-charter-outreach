@@ -26,4 +26,13 @@
   booster names re-extracted with a tighter rule (menu text dropped)
 - 214 schools, no rows added or removed; 11 tier changes from re-scoring
 
+## 2026-09-10 QA: NCES prefix matches
+
+- 42 prefix-boosted matches re-checked with `scripts/qa.py --check nces-prefix`
+- Olentangy Orange High School (OH): re-pointed from "Olentangy High School" to
+  "Orange High School" (Olentangy Local); enrollment 1721 -> 1967
+- Downingtown High School (PA): match withdrawn as ambiguous (East Campus / West
+  Campus / STEM Academy); district kept, enrollment blanked
+- enrich.match_nces no longer boosts an ambiguous prefix
+
 
