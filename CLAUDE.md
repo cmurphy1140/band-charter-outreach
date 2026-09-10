@@ -129,6 +129,17 @@ It is read-only: no exports, no emails.
 See `docs/SCRAPING_HURDLES.md` for every blocked or partial source and what
 unblocks it, and `docs/TROEN_QUESTIONS.md` for open client questions.
 
+## Deliverables and schedule
+
+- Client packet lives in `docs/packet/` (brief + Top 10, deck PDF and pptx, overview,
+  sales sheet). It is a static render of the 2026-09-10 data; re-render after any
+  refresh that changes the Top 10. Editable sources and identity notes are listed in
+  `docs/HANDOFF.md` section 10.
+- A one-shot cloud routine runs `make refresh` on 2026-10-08 after the Macy's
+  announcement and opens a draft PR "Seasonal refresh: October 2026" (section 10a).
+- The pitch, interview notes, and follow-up email are the owner's and stay out of
+  the repo. Never send email from any script or routine.
+
 ## Skipped or deferred
 
 - Nimble market-finder enrichment: Nimble CLI not installed; skip until it is.
