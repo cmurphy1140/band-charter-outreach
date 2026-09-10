@@ -95,8 +95,10 @@ To unblock a blocked source: save the page as HTML into the cache path printed b
 
 `make refresh` re-scrapes only the current and next parade year, appends new schools,
 updates `parades_marched` / `last_appearance`, prints a diff, and adds a dated entry to
-`data/final/CHANGELOG.md`. A GitHub Actions workflow runs it on the 15th of March,
-October, and November and opens a PR. It is read-only: no exports, no emails.
+`data/final/CHANGELOG.md`. A GitHub Actions workflow (`workflows/refresh.yml`; copy to
+`.github/workflows/` to enable, since the Claude GitHub App cannot push workflow
+files) runs it on the 15th of March, October, and November and opens a draft PR.
+It is read-only: no exports, no emails.
 
 ## Phase status
 

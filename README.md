@@ -52,10 +52,12 @@ Roses, Chicago). Their scrapers run against pages saved manually into `data/raw/
    (counts by state and parade, top 25, schools with no contact found).
    `--gsheet service_account.json` pushes Tier A to a new Google Sheet via gspread
    (not installed by default).
-5. **Refresh** (`make refresh`, `.github/workflows/refresh.yml`): re-scrapes only
+5. **Refresh** (`make refresh`, `workflows/refresh.yml`): re-scrapes only
    the current and next parade year, merges, prints a diff, appends to
    `data/final/CHANGELOG.md`, and opens a draft PR on the 15th of March, October,
-   and November.
+   and November. The workflow file lives in `workflows/` because the Claude GitHub
+   App cannot push to `.github/workflows/`; copy it to
+   `.github/workflows/refresh.yml` to enable it.
 
 ## Stack
 
