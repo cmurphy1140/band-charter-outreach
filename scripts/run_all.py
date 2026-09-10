@@ -40,6 +40,31 @@ LIVE_SOURCES = {
 }
 
 
+def write_interim_scoped(name: str, rows: list[Row], years) -> None:
+    """Write a source's interim CSV. A year-scoped run replaces only those years and
+    keeps every other year already on disk, so history survives `make refresh`."""
+    if years:
+        existing = INTERIM_DIR / f"{name}.csv"
+        kept: list[Row] = []
+        if existing.exists():
+            with existing.open(encoding="utf-8") as f:
+                for r in csv.DictReader(f):
+                    y = int(r["year"]) if r.get("year") else None
+                    if y not in years:
+                        kept.append(Row(school=r["school"], band_name=r["band_name"], city=r["city"],
+                                        state=r["state"], event=r["event"], year=y,
+                                        source_url=r["source_url"]))
+        rows = kept + list(rows)
+    seen = set()
+    unique = []
+    for r in rows:
+        key = (r.school.lower(), r.event, r.year)
+        if key not in seen:
+            seen.add(key)
+            unique.append(r)
+    write_interim(name, unique)
+
+
 def run_scrapers(years) -> dict[str, int]:
     counts: dict[str, int] = {}
     for name, mod in LIVE_SOURCES.items():
@@ -50,7 +75,7 @@ def run_scrapers(years) -> dict[str, int]:
             print(f"[{name}] BLOCKED: {e}")
             continue
         clear_blocked(name)
-        write_interim(name, rows)
+        write_interim_scoped(name, rows, years)
         counts[name] = len(rows)
         print(f"[{name}] {len(rows)} rows")
         if name == "boa" and boa.pdf_only_events:
@@ -71,7 +96,7 @@ def run_scrapers(years) -> dict[str, int]:
             print(f"[{name}] NO DATA: {reason}")
             continue
         clear_blocked(name)
-        write_interim(name, rows)
+        write_interim_scoped(name, rows, years)
         counts[name] = len(rows)
         print(f"[{name}] {len(rows)} rows (from cached pages)")
     return counts
@@ -263,16 +288,6 @@ def main(argv=None) -> int:
         run_scrapers(years)
 
     interim = load_interim()
-    if a.refresh:
-        # Re-add the old parade history so year-scoped scrapes don't drop earlier years.
-        for r in old:
-            for tag in r["parades"].split("; "):
-                if not tag:
-                    continue
-                ev, _, yr = tag.rpartition(" ")
-                interim.append({"school": r["school"], "band_name": r["band_name"],
-                                "city": r["city"], "state": r["state"], "event": ev,
-                                "year": yr, "source_url": "", "_source": "prospects"})
     rows, excluded = merge(interim)
     rows = carry_over(rows, old)
     write_prospects(rows)

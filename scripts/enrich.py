@@ -49,13 +49,26 @@ CANDIDATE_THRESHOLD = 0.75   # candidates below this are not even mentioned
 BAND_LINK = re.compile(r"\b(band|music|boosters?|fine arts|performing arts|orchestra)\b", re.I)
 EMAIL = re.compile(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}")
 PHONE = re.compile(r"\(?\b\d{3}\)?[-. ]\d{3}[-. ]\d{4}\b")
-_NAME = r"(?:Dr\.|Mr\.|Mrs\.|Ms\.)?\s*[A-Z][a-zA-Z'.-]+(?:\s+[A-Z][a-zA-Z'.-]+){1,2}"
+_NAME = r"(?:(?:Dr|Mr|Mrs|Ms)\.?\s+)?[A-Z][a-z'-]+(?:\s+[A-Z]\.?)?\s+[A-Z][a-z'-]+(?:-[A-Z][a-z]+)?"
 DIRECTOR = re.compile(
     r"(?i:(?:band|instrumental music)\s+director(?:s)?|director\s+of\s+(?:bands?|instrumental music))"
-    r"\s*[:\-–—,]?\s*(?P<name>" + _NAME + r")|"
-    r"(?P<name2>" + _NAME + r")\s*[,\-–—]?\s*"
-    r"(?i:director\s+of\s+(?:bands?|instrumental music)|band\s+director|instrumental music director)",
+    r"\s*[:\-–—|]\s*(?P<name>" + _NAME + r")\b|"
+    r"(?:^|(?<=[.,;:|()\-–—]\s)|(?<=[a-z0-9]\s)|(?<=[A-Z][A-Z]\s))(?P<name2>" + _NAME + r")\s*[,\-–—|(]\s*"
+    r"(?i:director\s+of\s+(?:bands?|instrumental music)|(?:head\s+)?band\s+director|instrumental music director)",
 )
+# Capitalized words that are never part of a person's name in this context.
+NAME_STOPWORDS = {"arts", "fine", "band", "bands", "music", "guard", "color", "staff", "deadline",
+                  "director", "the", "contact", "email", "phone", "office", "school", "high",
+                  "department", "welcome", "meet", "our", "about", "magazine", "news", "article",
+                  "orchestra", "choir", "camp", "photos", "registration", "lands", "marching",
+                  "program", "boosters", "booster", "club", "association", "parent", "parents"}
+
+
+def _clean_name(name: str) -> str:
+    toks = name.split()
+    if any(t.strip(".").lower() in NAME_STOPWORDS for t in toks):
+        return ""
+    return name.strip()
 BAND_DIRECTOR_LABEL = re.compile(
     r"\b(?:band|instrumental music)\s+director\b|\bdirector\s+of\s+(?:bands?|instrumental music)\b|"
     r"\b(?:head|assistant)\s+band\s+director\b",
@@ -253,9 +266,10 @@ def _extract_contacts(soup, text: str, url: str, domain: str, found: dict) -> No
     # "director of bands" label; an email is only taken when it is tied to that
     # label (same mailto link, or within a short text window of it) or to that name.
     name = ""
-    dm = DIRECTOR.search(text)
-    if dm:
-        name = (dm.group("name") or dm.group("name2") or "").strip()
+    for dm in DIRECTOR.finditer(text):
+        name = _clean_name(dm.group("name") or dm.group("name2") or "")
+        if name:
+            break
     last = name.split()[-1].lower() if name else ""
 
     candidates: list[tuple[str, str]] = []  # (email, context)
@@ -286,7 +300,7 @@ def _extract_contacts(soup, text: str, url: str, domain: str, found: dict) -> No
     found["director_email"] = chosen
     if not found["director_name"]:
         nm = DIRECTOR.search(chosen_ctx)
-        found["director_name"] = (nm.group("name") or nm.group("name2")).strip() if nm else name
+        found["director_name"] = (_clean_name(nm.group("name") or nm.group("name2")) if nm else "") or name
     found["contact_source"] = url
     pm = PHONE.search(chosen_ctx)
     if pm:

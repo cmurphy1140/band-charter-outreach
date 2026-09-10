@@ -56,6 +56,29 @@ def test_plain_text_email_near_band_director_label():
     assert f["director_phone"] == "555-987-6543"
 
 
+def test_junk_capitalized_words_are_not_names():
+    html = """<p>Registration Deadline Approaching Director of Bands</p>
+              <p>COLOR GUARD Brendan Lock Director of Bands</p>
+              <p>Fine Arts Kyler Boss, Director of Bands</p>"""
+    f = _run(html)
+    assert f["director_name"] in ("", "Kyler Boss", "Brendan Lock")
+    assert f["director_name"] != "Deadline Approaching"
+
+
+def test_headlines_after_label_are_not_names():
+    html = """<ul><li>BHS Band Director Lands Magazine Cover</li>
+              <li>Franklin High Band Director Honored National Merit Finalists</li>
+              <li>MIRA MESA BAND AND COLOR GUARD Brendan Lockie, Director of Bands</li></ul>"""
+    f = _run(html)
+    assert f["director_name"] == "Brendan Lockie"
+
+
+def test_name_before_label_needs_separator():
+    html = "<ul><li>Steve Olsen, Director of Bands</li><li>Fine Arts Kyler Boss - Band Director</li></ul>"
+    f = _run(html)
+    assert f["director_name"] == "Steve Olsen"
+
+
 def test_booster_org_name_is_captured():
     html = "<p>The Eagle Band Boosters support every trip. Contact the boosters at boosters@example-isd.org</p>"
     f = _run(html)

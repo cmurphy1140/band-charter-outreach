@@ -54,6 +54,18 @@ def test_stateless_row_stays_separate_when_ambiguous():
     assert any(r["notes"].startswith("state unknown") for r in merged if not r["state"])
 
 
+def test_year_scoped_write_keeps_other_years(tmp_path, monkeypatch):
+    import scrapers.common as common
+    monkeypatch.setattr(common, "INTERIM_DIR", tmp_path)
+    monkeypatch.setattr(run_all, "INTERIM_DIR", tmp_path)
+    common.write_interim("src", [common.Row("Old High School", state="TX", event="Rose", year=2019, source_url="u"),
+                                 common.Row("Stale High School", state="TX", event="Rose", year=2026, source_url="u")])
+    run_all.write_interim_scoped("src", [common.Row("New High School", state="FL", event="Rose", year=2026, source_url="u")], {2026, 2027})
+    import csv
+    got = {(r["school"], r["year"]) for r in csv.DictReader((tmp_path / "src.csv").open())}
+    assert got == {("Old High School", "2019"), ("New High School", "2026")}
+
+
 def test_carry_over_keeps_enrichment_columns():
     new = [{"school": "Allen High School", "state": "TX", "band_name": "", "city": "",
             "source_urls": "u1", "district": "", "notes": "", "score": "", "tier": ""}]

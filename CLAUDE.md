@@ -107,10 +107,15 @@ It is read-only: no exports, no emails.
       Hollywood, H-E-B Houston, BOA Grand National finalists 2018–2025; Macy's, Rose
       press releases, Chicago blocked; July 4th publishes no lineup; BOA regional
       results are PDF-only and not parsed)
-- [ ] Phase 2 enrichment (NCES, site crawl, published contacts)
-- [ ] Phase 3 scoring and tiers
-- [ ] Phase 4 outputs (xlsx, SUMMARY.md, optional gsheet)
-- [ ] Phase 5 seasonal maintenance
+- [x] Phase 2 enrichment, top 100 by parades_marched (NCES 2023-24 directory +
+      membership totals; school-site crawl; contacts only when labelled band
+      director on a school-domain address). `--all` not yet run: review first.
+- [x] Phase 3 scoring and tiers (`scripts/score.py`, config dicts at the top)
+- [x] Phase 4 outputs (`data/final/prospects.xlsx`, `SUMMARY.md`; `--gsheet` lazy)
+- [x] Phase 5 seasonal maintenance (`make refresh`, `workflows/refresh.yml`)
+
+See `docs/SCRAPING_HURDLES.md` for every blocked or partial source and what
+unblocks it, and `docs/TROEN_QUESTIONS.md` for open client questions.
 
 ## Skipped or deferred
 
