@@ -49,6 +49,75 @@ Show a field such as contact-permission status as unknown rather than deriving i
 
 The smallest future integration experiment would use a reviewed, permitted sample in a controlled destination, preserve relationship links and notes, and verify an export/rollback path. It should not begin with a bulk import of the old prospect file.
 
+## Bounded extraction-tool evaluation
+
+**Decision — September 11:** reuse the verified SerpAPI client for discovery.
+Evaluate Firecrawl on a small representative extraction sample before adoption;
+consider Zyte or Apify only for a demonstrated remaining gap. This request updates
+the protocol only. No subscription, paid or free trial run, new account, package
+installation, source upload, or broader scrape is authorized by this revision.
+
+Keep discovery and extraction comparisons separate. SerpAPI finds candidate
+sources; the existing requests/BeautifulSoup, local PDF and permitted browser
+route is the extraction baseline. A provider must improve that route for an actual
+POC need; it cannot fix the legacy identity joins, replacement logic or scoring.
+
+### Proposed sample and controls
+
+When evaluation is authorized, select at most **six public source cases** already
+relevant to the work: a simple program page, a multi-person staff page, a same-name
+school case, a permitted rendered tour-provider page, a text/table PDF, and a scan
+needing OCR if one is useful. Cap PDF input at ten selected pages in total. These
+are proposed limits, not a requirement to find six new prospects or force a weak
+example into the POC. Choose exact URLs and allowed access before execution.
+
+1. Prepare a human-reviewed expected-field sheet first: correct institution,
+   location, available NCES reference, explicit adult role/contact, appearance
+   type/status/date, and supporting passage/page. Include deliberately unknown
+   fields and ambiguous records so fabricated completeness fails visibly.
+2. Run the existing extraction route and Firecrawl on the same permitted source
+   versions, fields and limits. Record content/version differences rather than
+   calling a source change an extraction error. Preserve outputs separately from
+   approved records. Allow one initial pass and at most one explained corrective
+   rerun per case; count failed attempts, retries and manual fixes.
+3. Add offline fixtures for blocked, partial, confirmed-empty and stale responses.
+   Verify that each route reports the outcome and cannot overwrite accepted POC
+   records. No live blocked-site probing is needed to test preservation behavior.
+4. Inspect raw output before human correction and final accepted output after it.
+   Record both. A readable Markdown result or a provider's success flag alone is
+   not a successful, complete extraction of the underlying page.
+5. Use a compact comparison table in the existing progress/evidence records and
+   keep the relevant sample artifacts together. Do not replace the primary client
+   or connect a new provider to production during evaluation.
+
+| Measure | What to compare and retain |
+|---|---|
+| Extraction accuracy | Correct extracted fields / all populated fields; recovered supported fields / expected supported fields. Report denominators and per-case errors, especially wrong schools, roles, dates and invented contacts; exclude genuinely unavailable fields from recall. |
+| Preserved evidence | Original/final URL or file, permitted snapshot/hash, page/section/staff-record locator, extraction method/version/options, retrieval and review dates, source status and cache age. Every accepted critical claim must be traceable. |
+| Cost | Actual billed units and observed plan/rates at evaluation time, including PDF pages, extraction/render options, failures and retries. Report total sample cost and cost per validated record; separate included allowance, recurring charges, review time and setup effort. No current price or budget is assumed. |
+| Maintenance | Setup and correction minutes, custom rules, dependency/configuration burden, repeatability on retained fixtures, failure visibility, manual fallback, and portability to another host. Record what would need upkeep after the first run. |
+
+**Acceptance:** zero unsupported accepted school identities, contacts or event
+dates/statuses; complete evidence for accepted critical claims; prior records and
+manual edits preserved on failures; and a demonstrated useful coverage or total
+effort improvement within a later authorized budget. Report raw errors even if
+human review catches them. A six-case result supports only a bounded adoption
+decision, not a general accuracy or productivity guarantee. If benefits are unclear,
+retain the existing route. If evidence is lost or source access is not permitted,
+stop that case and preserve the limitation.
+
+Only then consider **one of Zyte or Apify** for the exact unresolved case. Record
+why the baseline/Firecrawl failed, expected improvement, provider/Actor and version
+where applicable, evidence output, cost model and maintenance owner before a
+separately authorized trial. Do not adopt both by default or treat a block as a
+reason to escalate through providers.
+
+Official Firecrawl documentation reviewed September 11 describes multiple output
+formats, separate API/page status, cache controls, and document parsing options.
+Those are capabilities to test, not demonstrated Troen results. Record the exact
+options and their cost implications when evaluating. [Scrape documentation](https://docs.firecrawl.dev/features/scrape),
+[document parsing](https://docs.firecrawl.dev/features/document-parsing).
+
 ## Scheduling and model choices
 
 The existing SerpAPI client now supports a private repository-root `.env` as a
@@ -61,7 +130,7 @@ results, and a repeat used the local cache. This validates the configured client
 not the relevance of the results or the audited discovery/merge workflow. Each
 separate host/worktree needs its own secret; no automatic cloud transfer is implied.
 
-Codex and Claude Code can help implement, inspect, test, and maintain the increment through sequential handoffs. They never work on this project concurrently, even in different worktrees. Choose the tool that has the relevant files and capabilities, record the working state in PROGRESS.md, and confirm the outgoing tool has stopped before switching. A second model is useful only when the handoff adds a meaningful check. Agreement between models is not source verification. See the [capability sources](../POSITIONING-AND-OPPORTUNITY.md) and local tool availability map.
+Codex and Claude Code can implement, inspect, test, and maintain independent increments concurrently in separate worktrees under the [parallel workflow](../PARALLEL-WORKFLOW.md). Transfers of the same task remain sequential. Choose the tool that has the relevant files and capabilities, record the working state in PROGRESS.md, and confirm the outgoing tool has stopped before switching. A second model is useful only when the handoff adds a meaningful check. Agreement between models is not source verification. See the [capability sources](../POSITIONING-AND-OPPORTUNITY.md) and local tool availability map.
 
 Scheduling comes after a successful manual run and a clear need for repetition. Local scheduled work needs the relevant machine, app/session, files, and permissions available. A schedule is not an always-on service guarantee. Define what changes are actionable, how failures are surfaced, and how to stop the job. This strategy does not create a schedule or start a monitoring loop.
 

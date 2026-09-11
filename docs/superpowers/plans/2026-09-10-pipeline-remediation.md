@@ -2,17 +2,33 @@
 
 > **For agentic workers:** Use `superpowers:executing-plans` to implement this plan task by task. Delegated execution with `superpowers:subagent-driven-development` is an alternative only if Connor requests it. Steps use checkbox syntax. Do not commit unless Connor explicitly asks.
 
-**Goal:** Make the existing parade list reproducible, preserve researched school identities, and deliver evidence-backed exports before expanding into Carnegie Hall prospects.
+**Goal:** Preserve researched identities and evidence-backed outputs in the legacy
+paths actually selected for Carnegie work. The full repair backlog below remains
+available; completing it is not a prerequisite for the isolated Carnegie POC.
 
 **Architecture:** Keep the existing Python modules, CSV inputs and workbook outputs. Add small explicit resolution/evidence files at the existing merge boundary; make refresh publication transactional and source completeness visible. Do not introduce a service, database, UI or generalized workflow engine for this work.
 
 **Tech Stack:** Existing Python 3.11+, requests, beautifulsoup4, pandas, lxml, openpyxl and pytest. No additional dependencies are needed for the initial repair tasks.
 
-**Spec:** `docs/AUDIT-2026-09-10.md`, findings A01–A14; existing `CLAUDE.md` guardrails and `docs/CODEX_HANDOFF.md` for the future Carnegie scope.
+**Spec:** [historical audit](../../AUDIT-2026-09-10.md), findings A01–A14;
+[current Carnegie plan](../../carnegie-hall/PLAN.md),
+[verified versus unresolved status](../../carnegie-hall/PROGRESS.md#verified-repairs-and-unresolved-findings)
+and shared `AGENTS.md`/`CLAUDE.md` guardrails govern current scope.
 
 ## Current Status
 
-Planning and audit completed against `be3f9ff`. All implementation tasks below remain open. Existing data has not been repaired. This plan does not authorize sending outreach or silently changing the client offer.
+The original audit was completed against `be3f9ff` and remains unchanged.
+September 11 review against `5155cfa`: the SerpAPI client part of Task 4 was repaired
+in `e4e6a9b` with bounded regression coverage; the broader crawl-policy and
+failure-coverage work remains open. Other legacy repair tasks remain unresolved.
+The reviewed Carnegie demo now has separate ID/source checks, safe spreadsheet
+text and manual-edit protection, which do not repair the original pipeline.
+Current documentation treats the old packet as historical; suppression itself
+is not implemented. See PROGRESS.md for acceptance checks and verification limits.
+
+The next useful increment is the tour-partner example and matching sheet using
+reviewed inputs. This update is planning only: no code repairs, trials,
+subscriptions, broader scrape or production rebuild is started.
 
 ## Global constraints
 
@@ -32,7 +48,10 @@ Planning and audit completed against `be3f9ff`. All implementation tasks below r
 
 **Alternative: redesign all storage around a database now.** This could improve long-term evidence modeling, but adds schema migration and deployment work before correcting known errors. Defer until multiple lists, users, or volume justify it.
 
-The delivery sequence below follows repair in place. Carnegie discovery is gated behind a small validated parade baseline and an offer-specific specification, not a wholesale rebuild.
+The tasks below support repair in place when their paths are selected. The earlier
+requirement to finish a parade baseline before Carnegie discovery is superseded:
+repair or bypass the specific defect that affects an increment. A reviewed manual
+handoff can support the partner example while unrelated legacy tasks stay open.
 
 ## Task 1 — Preserve verified school identity through every rebuild
 
@@ -132,12 +151,18 @@ class SourceResult:
 
 Addresses A05 and A11.
 
+**September 11 status:** the A05 client error path is repaired and covered by
+connection-error/traceback and API-error tests in `tests/test_serpapi.py`, alongside
+credential precedence and cached reuse checks. A11 remains unresolved. Do not
+repeat the completed client repair or mark all of Task 4 complete.
+
 **Files:** modify `scrapers/serpapi.py`, `scrapers/common.py`, `scripts/enrich.py:_nces_file`, `scripts/qa.py:check_dead_urls`; create `tests/test_serpapi.py`, `tests/test_common.py`.
 
 **Interfaces:** `safe_error(exc: Exception) -> str` emits an allowlisted error category/status, never request query strings or arbitrary response bodies. `fetch()` retains its caller contract but validates each redirect destination and treats temporarily unavailable robots policy as blocked. Archive downloads validate/rename only on success.
 
-- [ ] Add the dummy-key exception test before changing handling; inspect exception chaining and persisted blocked metadata as well as the top-level message.
-- [ ] Replace raw exception/body interpolation with sanitized messages. Do not log keys, account endpoints with query strings or untrusted payload excerpts.
+- [x] Test the SerpAPI connection-error message and traceback with a dummy key; test API error bodies and cache credential exclusion (`e4e6a9b`).
+- [x] Replace the client's raw exception/body interpolation with sanitized messages and suppress secret-bearing exception causes (`e4e6a9b`).
+- [ ] Extend explicit coverage to timeout/non-JSON failures and the runner's persisted blocked metadata. The publication scan checked candidate files; it was not a full-history credential audit.
 - [ ] Cover 404 robots absence, 503 robots unavailability, connection failure, a disallowed redirect target and per-host throttling.
 - [ ] Document the narrow API, archive-download and reachability-probe exceptions instead of accidentally bypassing the policy.
 - [ ] Test an interrupted ZIP download leaves no final cache artifact and a subsequent attempt succeeds.
@@ -280,18 +305,27 @@ Depends on Tasks 1–8. Addresses operational gaps without prematurely activatin
 
 ## Task 10 — Define and pilot the Carnegie Hall list
 
-This is a separate next increment, not part of the repair implementation. Reuse only the components validated above.
+**Superseded scope, September 11:** the earlier both-date kickoff, ten-school
+gate and proposed new scraper/spec files are replaced by the existing
+[March 3 plan](../../carnegie-hall/PLAN.md) and
+[connected example](../../../demo/carnegie-hall/README.md). Two reviewed school
+records, an editable workbook, Wando material and fictional follow-up already
+exist. This does not make the full POC complete.
 
-**Files:** proposed new `docs/CARNEGIE_SPEC.md`, `scrapers/carnegie.py`, `tests/test_carnegie.py`, `data/final/carnegie_prospects.csv`; extend scoring/export through a named profile after the schema is agreed. Preserve `data/final/prospects.csv` as the parade list.
+- [ ] Add one public tour-partner research example and a matching editable sheet
+  when implementation resumes. Reuse verified SerpAPI discovery and reviewed
+  primary-source evidence; preserve the existing schools, manual edits and legacy
+  `data/final/prospects.csv`.
+- [ ] Apply the relevant [six acceptance checks](../../carnegie-hall/PROGRESS.md#research-and-reliability-acceptance-checks)
+  to the paths used, repairing or explicitly bypassing their defects. Keep unknown
+  dates, interest, relationships and commercial terms unknown.
+- [ ] Evaluate Firecrawl on the proposed small sample before adoption only when
+  trial execution is authorized. Zyte or Apify needs a demonstrated remaining gap;
+  no broad crawl or new dependency follows automatically.
 
-- [ ] Confirm producer/program, March 3 and March 31 2027 dates, whether both dates accept middle schools, band/orchestra scope, ensemble sizes, audition/ratings requirements, geography and outreach deadline.
-- [ ] Separate demonstrated fit from interest and availability. A previous Carnegie performance or Superior rating does not prove a school wants this offer or is available.
-- [ ] Agree `ensemble_type` and `signal` fields plus source/status evidence; keep choirs out unless explicitly included.
-- [ ] Review a ten-school example with sourced band/orchestra signals and known gaps before broad collection.
-- [ ] Probe one prior-performer or state-assessment source with the existing fetch rules, create one real-page fixture and parser, and score/export the pilot with the agreed profile.
-- [ ] Expand source by source only after the pilot demonstrates useful prospect selection. Do not spend search quota or add PDF dependencies without the already-required authorization.
-
-**Acceptance:** a separate pilot file and Carnegie worksheet; every record has a source and qualifying signal, contact attribution meets the repaired standard, and unknown dates/interest remain unknown. The ten-school target is a proposed review size, not a promised yield.
+**Acceptance:** a traceable partner profile and useful matching sheet consistent
+with March 3 evidence and the existing deliverables. Required facts for a real
+approach or offer are gathered at that live-use decision, not as POC homework.
 
 ## Completion gates and working sequence
 
@@ -302,9 +336,13 @@ This is a separate next increment, not part of the repair implementation. Reuse 
 | Trustworthy data | Tasks 5–6: correct school/role/year and honest participation labels |
 | Reviewable delivery | Tasks 7–8: reconciled outputs, suppression behavior, accurate docs |
 | Maintenance | Task 9: controlled success and failure runs; verified scheduling |
-| Expansion | Task 10: approved offer specification and sourced pilot |
+| Next Carnegie increment | Task 10: reviewed partner example and matching material; relevant paths repaired or bypassed |
 
 Default execution recommendation: work inline, task by task, with a concise checkpoint after each independent increment. Delegated execution is available if Connor wants parallel agent work. No commits are planned without an explicit request.
+
+The rebuild/refresh/maintenance gates apply before those operations are activated.
+They do not block independent source review or the partner material. The current
+planning task leaves changes local and starts no implementation or vendor trial.
 
 ## Plan coverage and handoff
 

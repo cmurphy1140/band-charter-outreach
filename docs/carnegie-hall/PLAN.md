@@ -2,7 +2,11 @@
 
 [Start here](README.md) · [Business evidence](BUSINESS-CONTEXT.md) · [Positioning and opportunity](POSITIONING-AND-OPPORTUNITY.md) · [Zoho research](ZOHO-RESEARCH-PROMPT.md)
 
-Reference snapshot: September 10, 2026. This is the business and delivery strategy; operational work described below remains planned unless explicitly marked otherwise. It does not authorize outbound contact or changes to external systems.
+Reference revision: September 11, 2026. Research and reliability priorities below
+reflect the current implementation at `5155cfa`. This is the business and delivery
+strategy; work remains planned unless explicitly marked verified. This revision
+authorizes planning updates, not implementation, subscriptions, paid trials,
+broader scraping, outbound contact, or changes to external systems.
 
 This is a revisable working plan. Update the relevant section when evidence or an accepted decision changes the approach, and reconcile affected strategies and summaries. Use [PROGRESS.md](PROGRESS.md) for actual implementation status and the short reason behind material revisions. A suggestion becomes an accepted decision only through an explicit choice or work already authorized by the user.
 
@@ -80,6 +84,46 @@ A research record and a permitted marketing contact are different. The supplied 
 Preserve human corrections and relationship notes when research is refreshed. A failed source must not erase prior work. Repeated runs must not create duplicate schools, contacts, or ensemble opportunities. Review price, contract, capacity, and payment representations with the responsible person; a model-generated statement is not booking evidence.
 
 The original audit remains actionable. For the pilot, repair the affected path or use a reviewed manual handoff. Before a broad rebuild or scheduled refresh, complete the relevant identity, failure-preservation, freshness, attribution, and export checks. Do not make every unrelated repair a prerequisite for preparing the event brief or reviewing a small batch.
+
+### Research and reliability priorities
+
+Apply these priorities to the path selected for the next useful deliverable.
+They are the user's priority order, not six phases that must finish before the
+POC can continue. The next increment remains **one public tour-partner example
+and a matching editable partner sheet**. Use reviewed, separate inputs and the
+existing demo builders where they suffice; repair a legacy boundary before using
+it to change valid data. A bypass must state what it avoids and what remains open.
+
+| Priority | Business purpose and bounded work | Audit reference | Relative effort when implemented |
+|---|---|---|---|
+| 1. Preserve work | Keep researched identities, existing records, source evidence, and manual notes/document edits through correction and repeated rebuilds. Retain stable IDs and reviewed resolution history. | A01, A06, A10 | Medium for one boundary; high across the legacy pipeline |
+| 2. Verify identity and attribution | Establish school, city/state, district and NCES ID/vintage where available; associate name, role, contact and institution within explicit evidence. Keep ambiguous identities and wrong-role contacts in review. | A02, A07, A13 | Medium; begin with selected cases |
+| 3. Preserve records on source failure | Distinguish complete, incomplete, blocked and confirmed-empty results by source/year. Only a validated complete partition may replace prior records; define cache freshness and retain prior snapshots. | A03, A04, A11 | High for shared refresh; small reviewed bypass for the next example |
+| 4. Preserve the meaning of appearances | Record planned versus completed participation separately from event type, including competitions. Retain evidence for individual claims and distinguish event, publication, retrieval and review dates. | A08, A09, A13 | Medium for a bounded evidence/consumer change |
+| 5. Reconcile the outputs | After accepted research changes, reconcile scores where used, counts, workbooks, Word/Markdown and demo text from the same reviewed inputs; preserve edits and show added/changed/removed/retained records. | A09, A10, A12, A14 | Medium; the two demo builders still require a coordinated manual run |
+| 6. Close useful source gaps | Use local PDF extraction, visual/OCR checks or permitted browser rendering for a demonstrated gap. Compare alternatives on accurate claims, retained evidence, full cost and upkeep. | A11, A13; deferred source coverage | Small to medium for a fixed sample; unknown until the gap is observed |
+
+Effort labels are planning estimates, not commitments. A new service is not a
+repair for incorrect identity joins or destructive writes. Before implementing a
+row, identify its exact files, preservation boundary, and acceptance checks in
+[PROGRESS.md](PROGRESS.md#research-and-reliability-acceptance-checks).
+
+**Verified versus unresolved:** `e4e6a9b` repaired the SerpAPI credential/error
+path with bounded regression tests. The demo tests protect edited outputs,
+cross-school source references and spreadsheet text. They do not repair legacy
+identity matching, scraping completeness, freshness, scoring or exports. See the
+[current reliability status](PROGRESS.md#verified-repairs-and-unresolved-findings);
+the September 10 audit remains a historical snapshot.
+
+**Discovery and extraction:** reuse the verified SerpAPI client for discovery,
+starting with the existing cached partner query where useful. Verify claims on
+the underlying sources. Evaluate Firecrawl only on a small representative sample
+before considering adoption; consider Zyte or Apify only after documenting a gap
+the existing route and Firecrawl do not adequately address. The
+[evaluation protocol](strategies/07-software-and-automation-fit.md#bounded-extraction-tool-evaluation)
+defines accuracy, provenance, cost, maintenance and stop criteria. No trial or
+scraping run is started by this plan update, and the partner sheet does not wait
+for that evaluation.
 
 ## 6. Booking and delivery workflow
 

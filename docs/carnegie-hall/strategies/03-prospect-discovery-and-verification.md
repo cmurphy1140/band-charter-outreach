@@ -17,10 +17,10 @@ Potential reuse points are [shared fetch/caching](../../../scrapers/common.py), 
 ## Discovery and verification sequence
 
 1. **Choose varied cases.** Seek relevant concert programs and school-music tour businesses, with a soft regional preference based on the supplied map. Existing relationship clues can be included without waiting for a private list. Do not assume those accounts are available for outreach.
-2. **Establish organization identity first.** Confirm official name, city/state, school district where applicable, and official website. Same-name schools and renamed programs require care. A corrected state should not silently create a new record and lose reviewed information.
+2. **Establish organization identity first.** Confirm official name, city/state, school district where applicable, and official website. Retain NCES ID and source vintage where available; record missing/not-applicable values without guessing. An NCES match supports school identity, not the ownership of a parade nickname or a staff contact. Same-name schools and renamed programs require care. A corrected state should not silently create a new record and lose reviewed information.
 3. **Identify the actual ensemble.** Distinguish school, concert band, orchestra, choir, marching band, and other groups. A school's parade participation can support a travel-history observation; it does not establish that its concert ensemble is eligible or interested.
-4. **Gather a specific relevance signal.** Prefer current official program pages, dated school/district announcements, public performance results, or a clearly identified travel event. Record what happened, when, and the exact source. Keep historical signals labeled as historical.
-5. **Verify the adult role.** Associate the person with the relevant institution and ensemble using a current official source. Adjacency on a staff page is not role evidence. A choir teacher's email must not become the band director's contact. Leave uncertain names and contact fields blank.
+4. **Gather a specific relevance signal.** Prefer current official program pages, dated school/district announcements, public performance results, or a clearly identified travel event. Record what happened, when, and the exact claim source/page. Separate planned appearances from completed performances and distinguish competitions as an event type. Keep historical signals labeled as historical; publication date alone does not establish the event year.
+5. **Verify the adult role.** Associate name, current role, contact and relevant institution/ensemble within an explicit staff record or equivalent source evidence. Record the role's school/district/partner scope and review date. Adjacency, an email domain or an NCES match is not role evidence. A choir teacher's email must not become the band director's contact. Preserve a disputed old value in the review history, leaving its active contact field unverified until resolved.
 6. **Write a bounded fit explanation.** Explain the plausible connection in one or two sentences. Record date feasibility, budget, eligibility, relationship ownership, and permission as unknown unless supported. Avoid opaque numerical confidence scores that look like buying probabilities.
 7. **Assign a research next step.** Examples include checking the current orchestra page, clarifying a conflicting school identity, or reviewing a partner's performance-travel offer. “Ready for research review” is different from “ready to contact.”
 8. **Review and export.** Reopen the decisive sources, check attribution and dates, deduplicate institutions/ensembles, and export a readable workbook with filters and source notes.
@@ -43,11 +43,56 @@ Use a stable organization ID plus a separate ensemble/opportunity ID. Link a par
 
 ## The scraping line to walk
 
+Reuse [SerpAPI](../../../scrapers/serpapi.py) for discovery; start the proposed
+partner example by reviewing the already cached `student music performance tours
+Carnegie Hall` query in `data/raw/serpapi-validation/` on the original Mac. A fresh
+checkout does not contain that ignored cache. Search snippets are discovery clues;
+open the underlying permitted source before accepting an identity, role or event
+claim. Record the query, retrieval date and source chosen; do not repeat paid
+searches merely to prove the configured client still works.
+
 Automate repetitive reading only where sources permit it. Preserve the project limits of one request per second per host and at most twenty pages per school. Cache source material and record freshness; a cache hit is not a fresh verification. Respect robots rules, redirect destinations, access restrictions, and block signals. Do not bypass a login, CAPTCHA, rate limit, or disallowed directory to complete a sample.
 
 If access fails, record the obstacle and choose another permitted source or a reviewed manual research path. A browser is useful for inspecting public pages; it is not a mechanism to evade restrictions. The [Robots Exclusion Protocol](https://www.rfc-editor.org/rfc/rfc9309.html) is relevant to crawler behavior, not a grant of permission to repurpose data.
 
 Do not scrape inboxes, private CRM records, member directories, or paid contact databases. Keep personal student information outside the prospect model. The local research output is not automatically importable into Zoho marketing or email-enabled tools; consult the [Zoho handoff](../ZOHO-RESEARCH-PROMPT.md) at that later step.
+
+### Failure preservation and cache freshness
+
+These are planned repairs for reused automated paths. Current legacy writes and
+cache reuse do not yet meet them. Define completeness for each source/year or
+selected URL set before a run: `complete`, `incomplete`, `blocked`, and
+`confirmed-empty` are distinct outcomes. Zero parsed records or an HTTP 200 alone
+cannot establish a valid empty result. Retain last-known-good records and reviewed
+corrections for failed/incomplete partitions; publish only validated complete
+replacements and explicitly report what was retained. Stage downloads and data
+before replacement so interrupted files cannot become a valid cache.
+A confirmed-empty partition is eligible only when its expected scope was checked
+and zero records is supported by the source; an empty parser result is insufficient.
+
+Use separate policies for (a) historical evidence snapshots, retained unchanged;
+(b) discovery indexes/current and next event-year pages, revalidated on an
+explicit refresh; and (c) current contacts/offers, reviewed again when their use
+requires current information. Record `fetched_at`, last review, source outcome,
+and the policy/max age selected before each run. A recent local retrieval can
+still contain an old vendor-cached page; retain vendor freshness metadata when
+available. No universal time-to-live is implemented or chosen here. A failed
+refresh may retain visibly stale evidence, but must not mark it newly verified.
+
+### PDF and rendered-page gaps
+
+For a useful public PDF, try the existing local text extractor first; inspect the
+rendered pages when tables, columns, images or scans obscure meaning. Use OCR only
+when needed and verify names, dates, roles and table alignment against the page.
+Keep the original bytes/hash, page references, extraction method and uncertain
+fields. For a permitted JavaScript page, inspect the rendered result and retain
+its source context; a rendered page is not proof of source completeness.
+
+The [bounded tool evaluation](07-software-and-automation-fit.md#bounded-extraction-tool-evaluation)
+compares Firecrawl with this baseline before adoption. Zyte or Apify enters only
+for a recorded remaining gap. Tool errors, restricted pages and missing evidence
+stay visible; switching providers is not a way around a source restriction. The
+current request plans this work without starting extraction trials or a crawl.
 
 ## Verification and failure cases
 

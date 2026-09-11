@@ -23,19 +23,19 @@ An employee reports one participating group. **Ten additional ensembles is a pro
 
 The first local prototype is working; the full five-deliverable POC is unfinished. Original data, logistics, and the supplied report were preserved. The September 11 repository-publication milestone now checkpoints the work below. No outbound messages, account integration, hosted website deployment, or scheduled automation has been performed.
 
-The [shared instructions](../../AGENTS.md#working-authority-and-sequential-handoffs) now record broad project discretion: continue routine authorized work, offer suggestions at meaningful choices, and use judgment for coherent, reviewed, verified local commits. This replaces the earlier need to request each local commit separately. Codex and Claude Code will be used sequentially, never concurrently, even across worktrees. Other Git actions remain governed by the actual task authorization.
+The [shared instructions](../../AGENTS.md#working-authority-and-coordinated-handoffs) now record broad project discretion: continue routine authorized work, offer suggestions at meaningful choices, and use judgment for coherent, reviewed, verified local commits. This replaces the earlier need to request each local commit separately. As of September 11, Codex and Claude Code may work concurrently on independently assigned tasks in separate worktrees under the [parallel workflow](PARALLEL-WORKFLOW.md). Transfers of the same task remain sequential. Other Git actions remain governed by the actual task authorization.
 
-Occasional iPhone/cloud work is now an accepted working preference. The [continuity rules](../../AGENTS.md#iphone-and-cloud-continuity) and [handoff procedure](strategies/08-iteration-and-delivery.md#iphone-and-cloud-handoffs) cover the execution host, portable inputs, sequential operation, phone-friendly updates, and verified return to the Mac. This update documents the process; it does not establish cloud access or synchronize the repository.
+Occasional iPhone/cloud work is now an accepted working preference. The [continuity rules](../../AGENTS.md#iphone-and-cloud-continuity) and [handoff procedure](strategies/08-iteration-and-delivery.md#iphone-and-cloud-handoffs) cover the execution host, portable inputs, one writer per task, phone-friendly updates, and verified return to the Mac. This update documents the process; it does not establish cloud access or synchronize the repository.
 
 The first demonstration increment created `codex/carnegie-connected-example` in the existing checkout. Credential support was committed on `codex/serpapi-local-env` as `e4e6a9b`, followed by reference/demo milestone `f0dac98`. A separate integration worktree fast-forwarded `main`; the push succeeded and GitHub's SHA matched `f0dac98`. No conflicts or open pull requests were present. The original working checkout returns to `main` after the documentation checkpoint; the integration checkout is retained detached. No Claude Code or cloud handoff occurred.
 
-## Sequential handoff state
+## Coordination and handoff state
 
 - Latest operator: Codex on the local Mac. No transfer to cloud or Claude Code has been initiated.
-- Working checkout: `/Users/connormurphy/Desktop/Projects/band-charter-outreach`, on `main` after completion. The clean integration checkout is retained at `/Users/connormurphy/Desktop/Projects/band-charter-outreach-worktrees/main-integration/` with detached HEAD; it is not a second active operator. The implementation branch is retained. Verify actual refs before editing.
+- Working checkout: `/Users/connormurphy/Desktop/Projects/band-charter-outreach`, on `codex/research-reliability-plan`, based on published `5155cfa`. The user now authorizes a scoped setup commit and Claude worktree preparation, with no push or Claude launch. The clean integration checkout remains at `/Users/connormurphy/Desktop/Projects/band-charter-outreach-worktrees/main-integration/` with detached HEAD; it is not a second active operator. Prior implementation branches are retained. Verify actual refs before editing.
 - Milestone scope: canonical reference pack and eight strategies; original logistics and supplied Zoho DOCX; historical audit and reproduction evidence; shared instructions and READMEs; demo sources, Word/Markdown/workbook outputs, and both Node test files. CLAUDE.md remains a relative link to AGENTS.md. Duplicate NotebookLM packs and report working/render copies remain untracked in the original checkout and are excluded from publication.
 - Additional credential-support changes: `scrapers/serpapi.py`, both dependency manifests, `.gitignore`, `Makefile`, `.env.example`, `tests/test_serpapi.py`, isolation updates in `tests/test_news_east.py`, and the setup/status documentation. The user has now configured the private `.env`; preserve it and exclude it from transfers. `python-dotenv==1.2.3` is installed in this checkout's `.venv`. A successful live validation is recorded below; its cache is in Git-ignored `data/raw/serpapi-validation/`.
-- Checkpoints: `e4e6a9b` contains SerpAPI support; `f0dac98` contains the reference/demo milestone. Both were pushed to public `main` and the remote SHA was verified. These completion notes form a subsequent documentation-only checkpoint; inspect `git log` for its final ID.
+- Published checkpoints: `e4e6a9b` contains SerpAPI support; `f0dac98` contains the reference/demo milestone; `5155cfa` records that publication and handoff. The latest planning changes described below are not part of that published ref.
 - Cloud inputs: a fresh clone of the verified public `main` contains canonical project records and shared instructions. It still needs its own dependencies and secret configuration. Cloud checkout execution and mobile Remote pairing have not been tested; verify receipt and execution at an actual handoff.
 - App routing: the saved project/task entry still points to `/Users/connormurphy/Documents/ChatGPT/Troen Outreach Pipeline`, while the verified working repository is the Desktop/Projects checkout above. Verify/select the real checkout before a future launch; do not recreate the stale path or move the repo to match it. No app routing change was made here.
 - Services: a read-only Python static server is running on `127.0.0.1:8765`, PID 47009, serving only `demo/carnegie-hall/` for local inspection. It is not a public deployment or a background refresh. Confirm the PID/port before stopping or reusing it. No scheduled writer was started.
@@ -46,6 +46,51 @@ The first demonstration increment created `codex/carnegie-connected-example` in 
 Inspect the [working example](../../demo/carnegie-hall/index.html) and its workbook: **review the two schools → reshape the Wando director sheet → explore fictional follow-up**. The first two cases demonstrate evidence handling, not conversion performance.
 
 Recommended next: research one public tour-partner offer and draft a matching partner sheet. This would introduce a different business conversation before expanding school volume. No partner research or outreach has started in this increment. Keep business unknowns internal until they affect an actual approach or offer.
+
+## Verified repairs and unresolved findings
+
+Code reviewed at `5155cfa` on September 11. The original September 10 audit is a
+historical snapshot; its original priority sequence does not gate the current
+isolated POC. Git comparison confirms that the audited legacy modules below are
+unchanged except the SerpAPI client. These statuses distinguish current source
+inspection and previously executed checks from new tests or live source review.
+
+| Finding/path | Current status and evidence | Limit / next treatment |
+|---|---|---|
+| A05 — SerpAPI credential failures | **Repaired client path, bounded verification.** `e4e6a9b`; [client](../../scrapers/serpapi.py), [tests](../../tests/test_serpapi.py). Tests cover environment/private-file precedence, cached reuse, connection-error tracebacks and API-error bodies. A live search/cached repeat and publication credential scan succeeded in prior checkpoints. | Reuse for discovery. Explicit timeout/non-JSON and runner-persisted-metadata coverage, plus any full-history scan, remain distinct follow-through; Task 4's crawl-policy work is not complete. |
+| A01/A06 — identity loss and dedupe | **Unresolved legacy paths.** [Runner](../../scripts/run_all.py) still keys carry-over by name/state, drops location from early dedupe and folds some stateless records by name. | Keep reviewed POC records separate; require stable resolutions and preservation checks before reusing these joins/writes. Demo IDs are not an automated identity repair. |
+| A02/A07/A13 — identity/contact attribution and provenance | **Unresolved legacy paths.** [Enrichment](../../scripts/enrich.py) retains broad staff-context matching, city/tie ambiguity and incomplete field evidence. | Wando/Salem were manually reviewed; [demo validation](../../demo/carnegie-hall/review.cjs) rejects cross-school source IDs but cannot prove the source's identity/role. No NCES enrichment of those demo records is claimed. |
+| A03/A04/A11 — failed/incomplete replacement, stale caches, crawl policy | **Unresolved.** [Runner](../../scripts/run_all.py) accepts returned partial lists; [fetch](../../scrapers/common.py) has no automatic cache expiry and retains the audited robots/redirect behavior. SerpAPI also reuses its local cache unless forced; news discovery has a force-refresh path. | Do not use these paths for a production refresh until their specific checks pass. Reviewed manual retrieval can bypass them for the partner example; a new vendor does not repair them. |
+| A08/A09/A13 — appearance meaning, scoring and individual evidence | **Unresolved legacy model.** [News parser](../../scrapers/news_east.py) still derives unstated years from publication date; legacy counts mix competitions/future plans with performances. | The demo keeps Wando's 2019 date and Salem's undated history distinct, but a complete claim/status model remains planned. It has no Carnegie score. |
+| A10/A12 — output reconciliation and spreadsheet text | **Legacy unresolved; demo safeguards verified.** [Demo tests](../../tests/carnegie_demo.test.cjs) and [review tests](../../tests/carnegie_review.test.cjs) protect edited outputs and source-text handling. [Legacy exporter](../../scripts/export.py) remains unchanged. | Two builders must be reconciled manually; notes do not import back into JSON. Edited-file preflight is not proof of rollback across builders or all write failures. |
+| A14 — documented versus operating promises | **Current documentation corrected; operating suppression unresolved.** Current references mark the old packet as historical and the POC as incomplete. | Keep historical packet claims out of current materials. No tested suppression/import/scheduling system is implied. |
+
+## Research and reliability acceptance checks
+
+These six priorities are accepted planning direction. The checks below are
+**future acceptance criteria**, not claims that new repairs have passed. Apply
+only the checks relevant to the path used; record a reviewed bypass and its limits
+when that safely serves the POC. Do not require a full legacy overhaul first.
+
+| Priority | Acceptance before using the changed path |
+|---|---|
+| 1. Preserve identities, data and edits | Correct a researched state/identity and rebuild twice: retain the same stable record, evidence, notes and manual decisions; keep two same-name schools distinct. Edited Word/workbook files must survive regeneration; any reconciliation uses a separate revision and explicit mapping, not silent overwrites. |
+| 2. Verify school and adult attribution | For each selected school, record official name/location and NCES ID/vintage where available, or an explicit missing/conflict state. Exercise same-name schools, unmatched city/ties, district versus school staff and adjacent roles. Accept a contact only when name, role, contact and institution are explicitly connected; ambiguity stays in review. |
+| 3. Preserve valid data on failure; enforce freshness | In temporary fixtures, simulate blocked, partial, interrupted and confirmed-empty sources; only validated complete partitions may replace records. Preserve prior records/cache on failure, report incomplete status and retained rows, and prove an explicit refresh revalidates the selected current source while historical snapshots remain usable. A cache hit must not advance the source-review date. |
+| 4. Preserve appearance meaning and evidence | Trace every accepted changed claim to its source passage/page. Exercise a future invitation, completed concert, completed competition and undated item. Keep type separate from participation status; a publication date/current banner cannot invent an event date or completed trip. |
+| 5. Reconcile research and deliverables | From the same reviewed input revision, compare record IDs, added/changed/removed/retained counts, notes, dates, roles, source links and any score components/as-of date across consumers. Rebuild both demo outputs when needed, preserve manual edits, inspect Word/workbook readability and source text as text. Current Carnegie scores remain not applicable. |
+| 6. Close source gaps selectively | On the proposed representative PDF/rendered-page sample, compare raw and reviewed extraction against the expected fields. Retain source files/URLs, page or staff-record locators, method, dates and outcomes; report accuracy, missing evidence, costs and correction/maintenance effort. No service is adopted without a demonstrated benefit and the applicable later authorization. |
+
+Detailed methods: [claim evidence](strategies/01-evidence-and-event-model.md#evidence-for-individual-research-claims),
+[identity, failure and source handling](strategies/03-prospect-discovery-and-verification.md),
+[tool evaluation](strategies/07-software-and-automation-fit.md#bounded-extraction-tool-evaluation),
+and [output reconciliation / reusable lessons](strategies/08-iteration-and-delivery.md#reconcile-after-an-accepted-research-change).
+
+Next useful increment remains the public tour-partner example and matching sheet.
+Reuse SerpAPI discovery and its existing cached query when available; review the
+underlying evidence. Firecrawl evaluation is planned before adoption. Zyte or
+Apify is conditional on a demonstrated gap. This request starts no trials,
+subscriptions, paid searches, broader scraping or implementation.
 
 ## Suggestions to carry into the next increment
 
@@ -70,7 +115,7 @@ Capacity, firm offer details, relationship ownership, account configuration, and
 | 2026-09-10 | Implemented documentation | Make AGENTS.md canonical and CLAUDE.md a relative link to the same file | Prevents two project instruction copies from drifting; existing project guidance is preserved |
 | 2026-09-10 | Implemented first increment | One researched school, matching material, and synthetic follow-up example | Provides a concrete basis for learning and design before scaling research or software |
 | 2026-09-10 | Superseded in part | Branch/worktree and preservation conventions remain; per-commit request requirement is replaced by the later standing grant | Current [Git workflow](../../AGENTS.md#git-workflow) records the applicable authority |
-| 2026-09-10 | Accepted working authority | Routine project discretion, suggestions at meaningful choices, carefully scoped verified local commits, and sequential Codex/Claude Code handoffs | [Shared authority and handoff rules](../../AGENTS.md#working-authority-and-sequential-handoffs) govern ongoing work |
+| 2026-09-10 | Superseded in part on September 11 | Routine discretion and verified local commit guidance retained; blanket sequential-only operation replaced by coordinated parallel work | [Shared authority and handoff rules](../../AGENTS.md#working-authority-and-coordinated-handoffs) govern ongoing work |
 | 2026-09-10 | Accepted working preference | Occasional iPhone/cloud use with an explicit, verified handoff and return | [Continuity rules](../../AGENTS.md#iphone-and-cloud-continuity) distinguish the phone from its execution host and preserve local-only work; no cloud setup is claimed |
 | 2026-09-10 | Verified research lesson | Use event-level dates, not the current banner of an archive page | The Wando Midwest Clinic record is from 2019; recorded in strategy 03 and the source register |
 | 2026-09-10 | Verified workflow lesson | Render documents and protect manual edits before regeneration | Font fallback was corrected; edited DOCX and unknown contact cases are covered by targeted checks |
@@ -102,7 +147,7 @@ Capacity, firm offer details, relationship ownership, account configuration, and
 - Live verification, September 11: one uncached Google-engine query, `student music performance tours Carnegie Hall`, returned nine organic results. A repeat returned the same cached payload. SerpAPI reported 80 searches remaining before and 79 afterward; this is a dated quota snapshot, not a plan entitlement or forecast. The credential was absent from the saved response/metadata cache. No prospect rows, logistics, or demo outputs were changed. Result relevance has not yet been reviewed.
 - Next action: use the verified client selectively for the proposed tour-partner example and tailored sheet. The validation response is cached separately in ignored `data/raw/serpapi-validation/`; retain its evidence if selected for further research instead of paying to repeat the same query. No broader crawl or pipeline refresh was started.
 
-## Latest milestone — repository publication, September 11
+## Prior milestone — repository publication, September 11
 
 - Authorization: push to `main` and resolve conflicts; the user subsequently explicitly allowed internal business files in the existing public repository. No visibility change is needed. This does not authorize publishing credentials or private-account access.
 - Included: the SerpAPI change, complete canonical reference pack, original 15 images and four PDFs, supplied Zoho assessment, technical audit and remediation references, connected example, editable outputs, and tests. No original prospect data or source attachment is rewritten. Duplicate NotebookLM and report working copies remain local.
@@ -111,4 +156,64 @@ Capacity, firm offer details, relationship ownership, account configuration, and
 - Preserved: original prospect data, all source attachments, supplied report, ignored local credentials/cache, and 96 untracked duplicate/working files. These remain on the original Mac; untracked duplicates and secrets are not cloud inputs. No worktree is deleted as part of this integration.
 - Next product task remains the proposed tour-partner research example and matching sheet; publishing this milestone does not complete the broader POC or enable outreach or recurring refreshes.
 
+## Prior checkpoint — research and reliability planning, September 11
+
+- Reviewed the latest shared instructions, progress, audit and relevant source/tests
+  at `5155cfa`. Added the six user priorities with path-specific acceptance checks,
+  verified/unresolved status, a bounded Firecrawl comparison and conditional
+  Zyte/Apify evaluation. The tour-partner example and matching sheet remain next.
+- Corrected planning drift: strategy 01 now points to the implemented March 3
+  event record and its actual ID; the old remediation plan no longer requires a
+  parade rebuild or both-date business questionnaire before the POC. Task 4 marks
+  the completed SerpAPI work separately from remaining policy/coverage work.
+- Updated files: AGENTS.md, PLAN.md, this record, TOOLS-AND-CONNECTORS.md, strategies
+  01/03/07/08 and the existing remediation plan. Reusable lessons live in strategy
+  08; this task did not edit global instructions or product memory. Separate
+  workflow-policy edits appeared in the checkout during this work; they were
+  preserved, not authored or reverted as part of the reliability revision.
+- Verification for this revision passed: 159 local links and 30 anchors across
+  the nine intended documents and three workflow-related documents resolve;
+  the six priorities and repair boundaries agree, whitespace checks pass, and
+  AGENTS.md/CLAUDE.md still share the valid link. The preservation check found
+  559 baseline files unchanged and only the reviewed Markdown changes; code,
+  data, original attachments, generated deliverables and credentials were preserved. The
+  prior 68 Python passes/four fixture skips and 11 Node passes remain dated
+  implementation evidence; this planning-only edit does not imply new repair tests.
+- Scope: local uncommitted documentation on `codex/research-reliability-plan`;
+  no code/data/artifact edits, commit, push, trial, subscription or broader scrape.
+
 The general collaboration refinement is saved in the local Codex global instructions, with a concise project mirror. The two instruction scopes do not automatically synchronize. The project AGENTS.md/CLAUDE.md filenames share one local file through the verified link; other machines and already-running sessions are not assumed to reload it. This is not a ChatGPT Memory update.
+
+## Workflow update — coordinated parallel work, September 11
+
+Accepted: independent Codex and Claude Code tasks may run concurrently in separate
+worktrees. One coordinator owns shared records and serial integration; one writer
+owns each assigned task, checkout, and file set. See [PARALLEL-WORKFLOW.md](PARALLEL-WORKFLOW.md)
+for assignments, resource isolation, startup prompts, integration, and recovery.
+This replaces the earlier blanket sequential-only rule, including for independent
+Mac/cloud tasks. Transferring the same task still requires its outgoing writer to stop.
+
+This side-conversation update changes documentation only. No workers were launched,
+worktrees created, services stopped, or commits/merges/pushes performed. At inspection,
+main was at `5155cfa` and the retained integration worktree was detached at the same
+commit. Those are observations, not reservations. The main driver must designate the
+coordinator and publish the assignment ledger before starting concurrent writers.
+Existing NotebookLM packs are snapshots and retain their earlier instruction wording.
+
+## Latest checkpoint — Claude starting state preparation, September 11
+
+The main Codex task is coordinator. The user authorized reviewing and committing
+the intended plan/strategy/shared-instruction/parallel-workflow/quickstart changes,
+then creating a dedicated Claude worktree from that checkpoint. NotebookLM packs,
+duplicate report copies, credentials and unrelated files stay excluded. No push or
+Claude launch is authorized in setup.
+
+The [reserved assignment](coordination/2026-09-11-partner-pilot.md) gives Claude only
+the partner PROFILE.md, SOURCES.md, PARTNER-SHEET-DRAFT.md and its own handoff note.
+All shared records and integration remain coordinator-owned. Worker acknowledgement
+is pending. The planned branch/path are `feature/claude-partner-research` and
+`/Users/connormurphy/Desktop/Projects/band-charter-outreach-worktrees/claude-partner-research`.
+No other writer is assigned those outputs. The first pilot needs no server or new
+dependency and has zero new paid calls; a credential-free discovery snapshot will
+be provided as read-only input. Record actual base SHA, worktree checks and completed
+startup prompt after creating the checkpoint; do not describe reservation as launch.

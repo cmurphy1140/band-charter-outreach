@@ -10,6 +10,25 @@ Use the existing local repository, public web research, product-management/opera
 
 Think of a **skill** as a working method, a **connector** as access to an external application, and a **plugin** as a package that may provide either or both. Having a sales skill does not mean an Apollo account is connected. Having Gmail tools does not mean Troen uses Gmail or that this task may inspect a business inbox.
 
+## Research tool decision — September 11, 2026
+
+This decision updates the earlier inventory; it does not claim any new connector
+is installed or any vendor account has been tested. Use the
+[bounded evaluation protocol](strategies/07-software-and-automation-fit.md#bounded-extraction-tool-evaluation)
+for sample design, evidence, accuracy, cost and maintenance checks.
+
+| Tool route | Role and current disposition |
+|---|---|
+| Existing SerpAPI client | Verified discovery route with environment/private-file configuration, cached reuse and bounded credential-error tests. Reuse it selectively; search results still require underlying-source verification. |
+| Existing requests/BeautifulSoup, local PDF extraction and permitted browser rendering | Baseline extraction route; manually review selected source evidence. The legacy crawler's freshness, failure and redirect/robots defects remain unresolved. |
+| Firecrawl | Candidate for a six-case representative comparison before adoption. Evaluation is planned, not run; source outcome, preserved passages/pages and total cost must be checked. |
+| Zyte or Apify | Conditional alternatives only for a specific remaining gap. No default adoption, account access, trial or product-specific performance claim. |
+
+The current task authorizes plan edits only: no new subscriptions, paid trials,
+broader scraping or provider installation. The proposed tour-partner example and
+matching sheet can proceed through the existing reviewed path when work resumes;
+they are not gated on adopting a new service.
+
 ## Superpowers: useful discipline, not automatic enforcement
 
 “Superpack” is interpreted here as **Superpowers**, whose 6.3.0 skills are available locally. No separate product called Superpack was established by the available catalog. Superpowers describes a development method covering design, plans, tests, review, and iteration. Its role is procedural guidance, not proof that the output is correct. [Superpowers project documentation](https://github.com/obra/superpowers).
@@ -24,7 +43,7 @@ Use it to keep a meaningful software increment small and verifiable. For this do
 | Test-driven development | Protect real parsing, state, export, and preservation behavior with meaningful regression cases | Do not invent tests for a reversible copy edit or tests that only repeat the implementation |
 | Verification before completion | Run the relevant check and inspect the result before claiming something works | Old test counts and a plan are not fresh evidence |
 | Code review | Inspect substantive changes for correctness and maintainability | A second model's agreement does not verify the underlying business source |
-| Worktrees/delegation | One branch per coherent change; separate checkouts for other authorized concurrent work or needed isolation | Codex and Claude Code are always sequential. Follow the [project Git workflow](../../AGENTS.md#git-workflow), assign ownership, and preserve uncommitted inputs; a skill alone is not a reason to create parallel tasks |
+| Worktrees/delegation | One branch per coherent change; separate checkouts for other authorized concurrent work or needed isolation | Codex and Claude Code may run independent tasks in separate worktrees under one coordinator. Follow the [project Git workflow](../../AGENTS.md#git-workflow), assign ownership, and preserve uncommitted inputs; a skill alone is not a reason to create parallel tasks |
 
 The installed [brainstorming instructions](/Users/connormurphy/.codex/plugins/cache/claude-plugins-official/superpowers/6.3.0/skills/brainstorming/SKILL.md) include approval and commit steps. The user's current standing authorization permits routine work and carefully scoped, verified local commits; use the shared project instructions for its limits rather than the earlier per-commit request rule. The [verification instructions](/Users/connormurphy/.codex/plugins/cache/claude-plugins-official/superpowers/6.3.0/skills/verification-before-completion/SKILL.md) are useful for evidence-backed completion. No repository hook, CI gate, or cross-application enforcement was configured. A workflow available in Codex should not be assumed installed or active in a separate Claude Code session.
 
@@ -106,7 +125,7 @@ The callable Plugin Management tools in this task cover permissions/dependencies
 
 ## Model and workflow fit
 
-Use Codex for work with this repository and its artifacts; periodically hand off to Claude Code for bounded implementation or review. They never work on this project concurrently, including in separate worktrees. Record the current state in PROGRESS.md and follow the [sequential handoff instructions](../../AGENTS.md#working-authority-and-sequential-handoffs) before switching tools. Official Claude Code documentation describes repository work and tool use. OpenAI documents GPT-6 Astra for complex reasoning, coding, computer use, research, and document creation. These capabilities support the proposed work but do not establish Troen-specific results. [Claude Code overview](https://code.claude.com/docs/en/overview), [GPT-6 Astra documentation](https://developers.openai.com/api/docs/models/gpt-6-astra).
+Use Codex for work with this repository and its artifacts; periodically hand off to Claude Code for bounded implementation or review. They may work concurrently on independently owned tasks using the [parallel workflow](PARALLEL-WORKFLOW.md); the same task or checkout has only one writer. Record the current state in PROGRESS.md and follow the [coordinated handoff instructions](../../AGENTS.md#working-authority-and-coordinated-handoffs) before switching tools. Official Claude Code documentation describes repository work and tool use. OpenAI documents GPT-6 Astra for complex reasoning, coding, computer use, research, and document creation. These capabilities support the proposed work but do not establish Troen-specific results. [Claude Code overview](https://code.claude.com/docs/en/overview), [GPT-6 Astra documentation](https://developers.openai.com/api/docs/models/gpt-6-astra).
 
 For a later scheduled process, verify the chosen environment's availability requirements and failure reporting. Local work depends on the relevant machine/session/files; cloud work needs its own accessible inputs. [OpenAI scheduled tasks](https://learn.chatgpt.com/docs/automations?surface=app), [Claude Code scheduling](https://code.claude.com/docs/en/scheduled-tasks).
 

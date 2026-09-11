@@ -6,7 +6,11 @@
 
 Turn the supplied logistics into a small, dependable foundation that every demonstration output can reuse. The result should explain Troen's performance experience clearly, retain the evidence behind it, and prevent details from another trip leaking into March 3.
 
-Proposed outputs are an internal claim register, a reusable March 3 event record, and a concise event narrative. The existing business-context document is the source inventory; do not create another disconnected inventory or require Troen to fill in a new form. This strategy is planned, and those structured outputs have not yet been implemented.
+The [reviewed demo input](../../../demo/carnegie-hall/example.json) already has a
+March 3 event record and scoped source references used by the narrative and
+materials. A complete field-level claim register remains planned. Extend that
+existing input only as the next material needs it; the business-context document
+remains the source inventory. No new form or duplicate inventory is needed.
 
 ## Inputs already available
 
@@ -33,7 +37,31 @@ Treat the received Zoho report as a separate research source. Treat the particip
 | Conflict | Related claim IDs, difference, POC treatment, live-use trigger | Preserves an unresolved issue without blocking unrelated work |
 | Demonstration scenario | Scenario ID, synthetic organization/status labels, teaching purpose | Prevents example workflow activity from becoming an apparent business fact |
 
-Suggested event identifier: `carnegie-2027-03-03`. This is a proposed local convention, not a new database requirement. A small structured file or worksheet is sufficient; choose the simplest format the existing Python/export work can read.
+The implemented event identifier is `troen-carnegie-2027-03-03`. Retain it across
+consumers rather than replacing it with the earlier suggested shorter ID. A small
+structured file or worksheet remains sufficient; no new database is required.
+
+### Evidence for individual research claims
+
+For each new or corrected claim, retain the organization/opportunity ID, field or
+statement, extracted value, source ID/URL or filename, page/section/staff record,
+short supporting observation, and review outcome. Keep the original observation
+when a reviewer corrects its interpretation. Add NCES ID and directory vintage
+where supported; absence is explicit, not an invented identifier.
+
+Keep **event type** (performance, competition, parade, or unknown) separate from
+**participation status** (planned, completed, cancelled, or unknown). A completed
+competition remains a competition; an invitation remains planned until supported
+completion evidence is found. A passed date, a current site banner, or an article's
+publication date cannot establish that a performance happened.
+
+Record event date/period, publication date, retrieval date, and human review date
+separately where available. Undated history stays undated. PDF extractions retain
+page numbers and the original file/hash; browser extractions retain final URL,
+retrieval context and a permitted source snapshot or precise source locator.
+Machine-extracted fields remain unreviewed until checked against that evidence.
+These are acceptance requirements for future additions, not a claim that every
+existing legacy row already has this structure.
 
 ## Specific decisions for this POC
 

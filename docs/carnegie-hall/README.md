@@ -22,6 +22,8 @@ The proposed demonstration has five connected deliverables:
 
 A compact local interactive demonstration can bring these pieces together. Real research stays distinguishable from illustrative workflow activity; a complete operating system is not required to demonstrate substantial value.
 
+See the [Codex/Claude parallel workflow](PARALLEL-WORKFLOW.md) for independent worktrees, task ownership, resource isolation, and controlled integration. Documented September 11; no parallel workers were launched by this update.
+
 ## Reference library
 
 | Document | Use it for |

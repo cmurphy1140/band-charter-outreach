@@ -28,10 +28,22 @@ sources, a Wando director sheet, and two fictional follow-up situations.
 A broader varied batch, provider comparison, partner materials,
 pipeline repairs, and operating integrations remain unfinished. The supplied
 Zoho report and original logistics are preserved. Work is on
-`main` after the verified publication milestone: SerpAPI support is committed as
+`codex/research-reliability-plan` for local planning edits based on published
+`5155cfa`. SerpAPI support is committed as
 `e4e6a9b`, and the reference pack/demo/original sources as `f0dac98`. GitHub `main`
 was verified at that milestone; the completion notes follow in a documentation
 checkpoint. See the progress record for checkouts and local-only working copies.
+The [six research and reliability priorities](docs/carnegie-hall/PLAN.md#research-and-reliability-priorities)
+now govern reused paths, with [acceptance checks and repair status](docs/carnegie-hall/PROGRESS.md#verified-repairs-and-unresolved-findings).
+The next useful increment remains a public tour-partner example and matching
+sheet. Reuse verified SerpAPI discovery; plan a bounded Firecrawl comparison
+before adoption, and consider Zyte/Apify only for a demonstrated gap. This revision
+was documentation only: no implementation, new subscription, trial or broader crawl.
+The user has now authorized committing the intended setup documents and preparing
+Claude's dedicated worktree, without pushing or launching Claude. The main Codex
+task is coordinator; the [partner-pilot assignment](docs/carnegie-hall/coordination/2026-09-11-partner-pilot.md)
+reserves exactly four research/draft/handoff files. Shared instructions, plans,
+strategies and integration stay coordinator-owned. The pilot has zero paid API calls.
 The demo README documents source/build ownership, manual-edit protection, and
 how to run `node --test tests/carnegie_demo.test.cjs`. Do not run a destructive
 legacy refresh to rebuild this example; it has its own reviewed input file.
@@ -61,6 +73,11 @@ for the Carnegie pilot; complete the relevant preservation checks before a
 production rebuild or unattended refresh. The Carnegie plan supersedes the old
 parade-first priority order, not the audit's findings. Historical counts below are
 not the current baseline; the audited current list has 206 rows.
+Distinguish an unresolved legacy finding from a reviewed POC bypass and from a
+repair with executed verification. SerpAPI credential handling and demo edit/source
+checks have bounded verification; they do not close legacy matching, freshness,
+failure-preservation or export defects. Preserve claim evidence, stable IDs and
+manual corrections, and reconcile affected outputs after accepted changes.
 
 ## Collaboration and learning
 
@@ -91,7 +108,7 @@ not the current baseline; the audited current list has 206 rows.
   guidance rather than append a transcript. A possible preference stays tentative
   until confirmed; project findings are not universal personal traits.
 
-## Working authority and sequential handoffs
+## Working authority and coordinated handoffs
 
 - The user has granted broad discretion for this project's authorized work,
   including routine local edits, checks, tools, and carefully scoped local commits.
@@ -104,16 +121,22 @@ not the current baseline; the audited current list has 206 rows.
 - Offer a concise recommendation when a useful alternative, tradeoff, or risk
   emerges. Ask only when the answer or additional authority is actually needed;
   prepare the concrete result first when practical. Keep independent work moving.
-- Codex and Claude Code are used sequentially for this project, never concurrently,
-  including across separate worktrees. A handoff is an intentional transfer of
-  work, not parallel delegation. Do not launch the other tool in the background.
+- Confirmed 2026-09-11: Codex and Claude Code may work concurrently on independent,
+  assigned tasks in separate worktrees. This supersedes the September 10 blanket
+  sequential-only rule. One writer per checkout and owned file set; transfer of
+  the same task remains sequential. Do not launch tasks merely because this is allowed.
+- Before parallel work, designate one coordinator and record exact task ownership,
+  branches, base commits, outputs, ports, and shared-service budgets. The coordinator
+  alone updates shared plans/status/instructions and integrates completed branches.
+  Workers record results in their assigned task notes and propose shared-doc changes.
+  Follow [the parallel workflow](docs/carnegie-hall/PARALLEL-WORKFLOW.md).
 - Before handing off, finish the current edit, stop or account for any process
-  that can write project files, and update `PROGRESS.md` with the tool handing off,
+  that can write the transferred task's files, and give the coordinator a handoff with the tool handing off,
   checkout path, branch/HEAD, changed and untracked files, commits made, verification,
   active services/ports, unresolved issues, and the next concrete task. Preserve
   uncommitted work; a handoff does not require committing unfinished material.
 - The receiving tool reads this file and the progress record, verifies the actual
-  Git/filesystem state and that the prior tool is no longer working, then resumes.
+  Git/filesystem state and that the prior writer of this task has stopped, then resumes.
   Prefer the same checkout for these sequential handoffs. The shared instruction
   link shares file contents locally; it does not coordinate or stop either tool.
 
@@ -144,8 +167,8 @@ and keep these rules with the repository:
   and record missing inputs. Do not upload the whole logistics folder or secrets
   merely to make the environments match; carry only the authorized, necessary
   inputs, using sanitized examples when sufficient.
-- Keep one active operator for the same implementation effort across Mac and
-  cloud. Codex and Claude Code remain strictly sequential across all environments.
+- Keep one active operator per assigned task/checkout across Mac and cloud.
+  Independent Codex and Claude Code tasks may run concurrently under the parallel workflow.
   Record outgoing/incoming tool and host, branch/base commit, changed files,
   available sources, checks, services, and next action in `PROGRESS.md`. Verify the
   outgoing work has stopped before the receiving operator edits.
@@ -227,8 +250,8 @@ these discoveries without asking for repeated permission. No background task is 
   name; otherwise use `codex/<short-change>` for work performed in Codex.
 - Use a separate Git worktree when tasks will edit concurrently or need isolation.
   Keep sequential work in the same checkout when practical; a new worktree is not
-  required for every task, strategy, or documentation update. Codex/Claude Code
-  handoffs are always sequential; separate worktrees do not permit concurrent use.
+  required for every task, strategy, or documentation update. Independent Codex/Claude
+  tasks may run concurrently; transferring the same task requires the outgoing writer to stop.
 - On the Mac, place worktrees outside the main repository at
   `~/Desktop/Projects/band-charter-outreach-worktrees/<short-task-name>/`
   (the project instance of `~/Desktop/Projects/<project-name>-worktrees/<short-task-name>/`).

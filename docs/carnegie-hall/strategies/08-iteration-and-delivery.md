@@ -31,7 +31,7 @@ The sequence is a recommendation. Market comparison can progress independently o
 
 ## A practical engineering loop
 
-Use the [project Git workflow](../../../AGENTS.md#git-workflow): one branch per coherent implementation effort, with worktrees for separately authorized concurrent tasks or needed isolation. Codex and Claude Code always work sequentially, even across worktrees; their handoffs can normally use the same checkout. Related code, tests, and documentation belong together. A branch/worktree is not a saved checkpoint. Standing permission allows carefully scoped local commits, and other Git actions must fit the task's authorization. Preserve uncommitted inputs and account for shared external services.
+Use the [project Git workflow](../../../AGENTS.md#git-workflow): one branch per coherent implementation effort, with worktrees for separately authorized concurrent tasks or needed isolation. Codex and Claude Code may run independent assigned tasks concurrently in separate worktrees under the [parallel workflow](../PARALLEL-WORKFLOW.md). Transfers of the same task remain sequential. Related code, tests, and documentation belong together. A branch/worktree is not a saved checkpoint. Standing permission allows carefully scoped local commits, and other Git actions must fit the task's authorization. Preserve uncommitted inputs and account for shared external services.
 
 1. **Read the current state.** Inspect project instructions, relevant code/documents, the current branch, working-tree changes, registered worktrees, other active tasks using the checkout, and the strategy for the chunk. Preserve unrelated work and source assets; establish clear file ownership before overlapping edits.
 2. **State the smallest outcome.** For example: a selected school profile opens its source list and matching material. Avoid an open-ended task such as “build the complete platform.”
@@ -39,11 +39,11 @@ Use the [project Git workflow](../../../AGENTS.md#git-workflow): one branch per 
 4. **Implement in existing patterns.** Reuse approved dependencies, work in small files/functions, and avoid unrelated refactors. Fix or bypass the audited paths that affect this result.
 5. **Verify the changed behavior.** A real logic change needs a meaningful test or direct exercise of the case. Inspect generated documents and screenshots as appropriate. Test names and comments are not evidence that behavior works.
 6. **Review the result against the user purpose and integration scope.** Does it explain something useful to Troen? Is it accurate, readable, and coherent? Inspect tracked and untracked changes for unintended data, credentials, and generated files. Fix high-impact issues before polishing small details. Make a local commit when a coherent verified result is worth preserving under the user's standing authorization; do not combine unrelated or unfinished changes. Keep integration within the task's authorized scope.
-7. **Update the living references and handoff.** Revise the affected strategy or plan as the result changes our understanding. Record the artifact, what works, verification, illustrative behavior, remaining limitations, next useful increment, and a short dated reason for material choices in [PROGRESS.md](../PROGRESS.md). Never describe a planned connector or script as running.
+7. **Update the living references and handoff.** During parallel work, workers submit their task notes and proposed shared-document changes; the coordinator updates PROGRESS.md and shared plans. Revise the affected strategy or plan as the result changes our understanding. Record the artifact, what works, verification, illustrative behavior, remaining limitations, next useful increment, and a short dated reason for material choices in [PROGRESS.md](../PROGRESS.md). Never describe a planned connector or script as running.
 
 Treat each increment as a learning opportunity with the logistics and software developer. Use the visible result to explain the relevant technical tradeoff, invite a useful reaction, and adapt the next step. Preserve confirmed collaboration refinements in the [shared instructions](../../../AGENTS.md); keep a tentative preference tentative and technical discoveries in their relevant strategy/evidence record. Do not turn every conversation into another rule or require repeated approval for already authorized work.
 
-For a Codex/Claude Code transfer, use the [sequential handoff rules](../../../AGENTS.md#working-authority-and-sequential-handoffs). Record the exact working state and next task in PROGRESS.md, account for file-writing processes, and confirm the outgoing tool has stopped before the receiving tool resumes. A shared file or worktree is not a concurrency lock.
+For a Codex/Claude Code transfer, use the [coordinated handoff rules](../../../AGENTS.md#working-authority-and-coordinated-handoffs). Record the exact working state and next task in PROGRESS.md, account for file-writing processes, and confirm the outgoing tool has stopped before the receiving tool resumes. A shared file or worktree is not a concurrency lock.
 
 ## iPhone and cloud handoffs
 
@@ -57,7 +57,7 @@ The logistics and software developer will sometimes continue from an iPhone. The
 
 OpenAI documents a separate container and selected repository checkout for cloud tasks. Remote instead uses the connected host's files and tools; availability depends on setup and the host being awake and online. These product descriptions do not verify this project's account configuration or phone access. Sources checked September 10, 2026: [cloud environments](https://learn.chatgpt.com/docs/environments/cloud-environment), [Remote connections](https://learn.chatgpt.com/docs/remote-connections).
 
-**Prepare the outgoing work.** Finish the current edit and account for file-writing processes. Update [PROGRESS.md](../PROGRESS.md) with the tool/host, exact branch and base commit, modified/untracked files, available evidence, checks, services, and one next task. Keep the same effort sequential across Mac and cloud; Codex and Claude Code never operate concurrently on this project.
+**Prepare the outgoing work.** Finish the current edit and account for file-writing processes. Update [PROGRESS.md](../PROGRESS.md) with the tool/host, exact branch and base commit, modified/untracked files, available evidence, checks, services, and one next task. Keep the same assigned task sequential across Mac and cloud; independent tasks may run concurrently in isolated checkouts under the coordinator.
 
 **Carry a small, sufficient set of inputs.** Include `AGENTS.md`, its `CLAUDE.md` link when supported, PROGRESS.md, the relevant strategy, and necessary code or reviewed examples. A cloud checkout sees the selected repository state, not every change sitting on the Mac. A local commit alone does not make it remotely available. Use a repository ref accessible to the destination or a supported patch/file handoff within the task's authorization, recording the base commit and checking the files that arrive. Preserve work that does not belong to this increment. Prefer sanitized evidence extracts and stable source IDs when private contracts, correspondence, payment details, or student information are unnecessary. Keep originals unchanged locally; label unavailable sources rather than claiming to have inspected them.
 
@@ -71,6 +71,13 @@ Before the first actual cloud session, prepare this small handoff set as part of
 
 ## Verification layers
 
+The [six research and reliability priorities](../PLAN.md#research-and-reliability-priorities)
+apply to the next selected path, with [acceptance checks](../PROGRESS.md#research-and-reliability-acceptance-checks)
+recorded before implementation. Keep **planned**, **unresolved**, **bypassed for
+this increment**, and **repaired with verification** separate. Cite the relevant
+code/commit and actual checks when moving an item to repaired; do not close a
+legacy audit finding because the isolated demo avoids it.
+
 **Evidence:** all current claims have sources and correct scope; employee-reported facts remain attributed; March 31 examples do not become March 3 facts; no provider advantage is invented.
 
 **Data:** institutions and ensembles remain distinct, contact roles are correct, unknown values stay unknown, partner/direct duplicates do not inflate counts, and original data survives failed refreshes.
@@ -80,6 +87,47 @@ Before the first actual cloud session, prepare this small handoff set as part of
 **Implemented automation:** verify the actual run, changed inputs, failure behavior, and repeated runs. Scheduling requires a separate verified activation; a workflow file or proposed reminder is not proof of a running job.
 
 Run the checks relevant to the change. Once they pass, broaden testing only for a new concern. Do not consume time repeatedly rechecking untouched code while the essential demonstration remains unfinished.
+
+### Reconcile after an accepted research change
+
+Record the changed claim, source and stable opportunity ID, then identify every
+consumer. Compare old/new identity, contact, event status/date, notes and counts.
+Recalculate scores only where that output uses them, preserving the agreed scoring
+meaning and as-of date; the current Carnegie workbook has no numerical scores.
+Do not transfer legacy tiers into Carnegie fit or quietly change weights.
+
+For the demo, preserve edited Word/workbook files, reconcile notes by opportunity
+ID in a separate revision, and run the workbook builder followed by the HTML/Word
+builder as documented. Compare both outputs with the same reviewed input revision;
+check source associations, missing values, safe text, links, layout and fictional
+labels. The existing manifest rejects edited outputs before replacement, but it
+does not provide a transaction or recovery guarantee across both builders or
+every possible write failure. Do not claim that stronger guarantee without a
+specific implementation and failure test.
+
+Before a legacy refresh becomes eligible for use, its change report must include
+added, changed, removed and retained-on-failure records, with scores/derived exports
+reconciled before replacing a valid release. A readable diff is part of acceptance,
+not a reason to trigger a production rebuild during a planning task.
+
+### Reusable lessons
+
+- **Stable references protect work; they do not prove identity.** The demo's ID
+  and source-ownership checks protect associations within reviewed records.
+  Correct school and adult role still require source review. Apply this distinction
+  to partner/company records as well as schools.
+- **A completed request is not a complete source.** Check source scope and outcome,
+  not just transport success or a populated result. This applies to any extraction
+  provider and to local PDF/OCR output.
+- **Caching preserves evidence and can hide change.** Keep historical snapshots
+  separate from current verification; record both content freshness and review
+  date. Changing extraction vendors does not remove that responsibility.
+- **A tested local safeguard has a boundary.** Demo manual-edit and safe-text
+  checks do not fix the legacy exporter or guarantee multi-file rollback. Record
+  the protected path and the remaining gap with each verified repair.
+- **Compare the whole job.** Include discovery, extraction, correction, review,
+  evidence preservation and upkeep when comparing tools. More filled fields or
+  faster text extraction alone is not an improvement in validated deliverables.
 
 ## Measure value without assigning a study to Troen
 
