@@ -4,6 +4,38 @@
 
 Last updated: September 11, 2026. This is the compact record to read when resuming. The plan and strategies describe the current approach; this file records what actually exists, what changed, and the next suggested increment. Update it during active work, not through an assumed background process.
 
+## Completed checkpoint and Claude preflight receipt — September 11, 2026
+
+Combined product checkpoint committed locally as
+`0859701b6f78b423ac2eeca0bc599c0a859c79de` (27 intended files). No push.
+Codex coordinator remains on `codex/carnegie-director-faq` in
+`/Users/connormurphy/Desktop/Projects/band-charter-outreach`; this receipt is a
+separate documentation-only commit after that product checkpoint.
+
+Claude's existing directory was rechecked clean at `e171954`, with no stash, then
+safely switched to a new branch without resetting or merging its old pilot branch.
+Verified current worker state:
+- Checkout: `/Users/connormurphy/Desktop/Projects/band-charter-outreach-worktrees/claude-partner-research`
+- Branch: `codex/claude-proposal-example`
+- Exact starting HEAD: `0859701b6f78b423ac2eeca0bc599c0a859c79de`
+- Clean tracked/untracked state; all 12 listed inputs match the coordinator checkpoint;
+  shared CLAUDE.md link resolves.
+- Original `feature/claude-partner-research` remains at
+  `e171954439e97219491ff6fc2ff332700a1580ef`.
+
+The worker already contains the complete proposal assignment and combined product;
+this post-switch receipt is coordinator-only and does not require worker sync.
+Claude remains idle/unlaunched. No task processes were started in its checkout.
+Coordinator's read-only demo server PID 21060 remains on 127.0.0.1:8765.
+Final extra checks verified eight download hashes, real FAQ Word/Markdown download
+events, brochure/logo bytes, unknown-route/reload fallback and 240 local Markdown
+links/anchors. Other combined verification is recorded below. No code changed after
+those checks. Unrelated chatbot notes remain uncommitted in TOOLS-AND-CONNECTORS.md;
+NotebookLM packs and duplicate Zoho working files remain untracked and excluded.
+Next action is the four-file fictional proposal task when the user starts Claude;
+no UI work or audio task is assigned. See [assignment](coordination/2026-09-11-proposal-example.md)
+and [START-HERE-LEARNING.md](START-HERE-LEARNING.md).
+
 ## Combined coordinator checkpoint — September 11, 2026
 
 Reviewed the combined side-chat demo changes: purpose/event context, Opportunities
