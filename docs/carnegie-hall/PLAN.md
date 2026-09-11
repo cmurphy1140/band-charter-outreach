@@ -109,8 +109,10 @@ Apply these priorities to the path selected for the next useful deliverable.
 They are the user's priority order, not six phases that must finish before the
 POC can continue. The **small MTC research candidate example** is now connected;
 the earlier matching-sheet connection is deferred following the user's narrower
-scope. A brief March 3 FAQ from existing reviewed evidence is a possible next
-increment, not an instruction to expand this task. Use reviewed, separate inputs and the
+scope. The [March 3 FAQ draft](<materials/Troen - Carnegie Hall Director FAQ.md>)
+now exists in Markdown and Word and is connected to the Materials view through
+protected downloads. It uses locally rechecked event evidence with business unknowns
+retained internally; no broader partner work is implied. Use reviewed, separate inputs and the
 existing demo builders where they suffice; repair a legacy boundary before using
 it to change valid data. A bypass must state what it avoids and what remains open.
 

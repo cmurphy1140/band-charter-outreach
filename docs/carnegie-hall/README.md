@@ -4,7 +4,7 @@
 
 The logistics and software developer carries the initial research, design, and software work. Troen can react to concrete examples. Missing operating details stay in an internal decision register until they affect an actual offer, outreach, integration, or booking.
 
-**Current status — September 11, 2026:** [the connected example](../../demo/carnegie-hall/README.md) now includes Wando and Salem research, a two-case editable workbook with nine public sources, a Wando director sheet, and two fictional follow-up situations. A broader varied batch, provider comparison, partner materials, and operating automations remain planned. The reference pack and received Zoho assessment remain available below.
+**Current status — September 11, 2026:** [the connected example](../../demo/carnegie-hall/README.md) includes Wando and Salem research, an illustrative MTC candidate, an editable workbook with three records and twelve public sources, a Wando director sheet, and two fictional follow-up situations. MTC's event relationship remains unconfirmed, with no contact recommendation. The [March 3 director FAQ in Word](<materials/Troen - Carnegie Hall Director FAQ.docx>) and [Markdown](<materials/Troen - Carnegie Hall Director FAQ.md>) remain internal drafts, now available from the [Materials view](../../demo/carnegie-hall/index.html#material) with protected downloads and the cited brochure. A broader varied batch, provider comparison, fuller partner/proposal materials, and operating automations remain planned.
 
 **These are living documents.** Revise the affected files as evidence, accepted choices, and verified work change. Read [current progress and learning checkpoints](PROGRESS.md) when resuming. The [shared project instructions](../../AGENTS.md) explain how to maintain the pack without turning every idea into a fixed requirement or growing a transcript-style log.
 
@@ -29,6 +29,7 @@ See the [Codex/Claude parallel workflow](PARALLEL-WORKFLOW.md) for independent w
 | Document | Use it for |
 |---|---|
 | **[Current progress and learning checkpoints](PROGRESS.md)** | What exists now, what changed, and the next suggested hands-on increment. |
+| **[March 3 director FAQ — Word](<materials/Troen - Carnegie Hall Director FAQ.docx>) / [Markdown](<materials/Troen - Carnegie Hall Director FAQ.md>)** | Seven practical answers from reviewed event evidence; internal discussion draft, with [claim support retained separately](INTERNAL-DECISIONS.md#march-3-director-faq-claim-review). |
 | **[Detailed workstream strategies](strategies/README.md)** | Eight separate, resumable strategies with outputs, steps, tools, quality checks, and handoffs. |
 | **[Tools, plugins, and connectors](TOOLS-AND-CONNECTORS.md)** | What is useful, what is available here, when to use it, and the role of Superpowers. |
 | [Overall plan](PLAN.md) | Scope, retained assets, deliverables, demonstration sequence, and success measures. |

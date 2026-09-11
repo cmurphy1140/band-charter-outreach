@@ -3,6 +3,15 @@
 Task ID: `claude-partner-research`. Reserved September 11, 2026.
 Status: **complete, verified and locally committed; Claude idle; no push**.
 
+## Next assignment reservation — September 11, 2026
+
+The partner pilot is closed. The coordinator has reserved the separate
+[fictional proposal assignment](2026-09-11-proposal-example.md) with four new owned
+files. The original worker branch/commit is retained. The clean checkout will be
+switched to `codex/claude-proposal-example` at the combined checkpoint; see the
+latest PROGRESS receipt and final startup prompt for verification. Claude is not
+launched. Historical “no next task” statements below describe the earlier handoff.
+
 ## Overnight coordinator receipt
 
 The user supplied Claude's final read-only shutdown confirmation on September 11.

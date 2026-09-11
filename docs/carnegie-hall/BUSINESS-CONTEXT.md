@@ -4,6 +4,11 @@
 
 Evidence snapshot: September 10, 2026. The logistics review covered **15 images and four PDFs totaling 28 pages**. The supplied Zoho assessment is a separate research source received afterward. Photographs were inspected visually and PDF text was reviewed alongside rendered pages. Source files remain unchanged.
 
+FAQ source check, September 11, 2026: P01 was reread locally and its inclusions
+page inspected; I06's name/date/session fields were visually rechecked. This is
+a focused check of supplied documents, not a refresh of every source or confirmation
+of current package availability. The I06 inventory entry includes the clarified event name.
+
 This document explains Troen's business and supports comparison with other performance-event providers. The workflow details also explain what information makes an opportunity useful. The documents do not establish which benefits are unique to Troen, the actual state of every booking, or current account-specific software costs.
 
 ## 1. What Troen appears to sell
@@ -42,7 +47,7 @@ Source IDs are local labels for this reference pack. A filename or folder shown 
 | I03 | [IMG_4371.heic](../../logistics/IMG_4371.heic) | March 3 Groups folder shows Ardrey Kell proposals and contract filenames, including an unsigned variant. | Existing relationship clue. Filenames do not prove a paid booking. |
 | I04 | [IMG_4372.heic](../../logistics/IMG_4372.heic) | Completed DocuSign certificate referring to the Stern Auditorium / Perelman Stage contract for March 3, 2027. | Supports an executed-agreement context. Do not reproduce signature IDs or personal technical identifiers in customer materials. |
 | I05 | [IMG_4373.heic](../../logistics/IMG_4373.heic) | Carnegie cover letter describes signing and deposit requirements and a resale-dependent refund possibility. | Qualifies the description of the deposit as wholly irreversible; does not settle the actual financial or contractual position. |
-| I06 | [IMG_4374.heic](../../logistics/IMG_4374.heic) | First page of the March 3 license: evening session, 8 p.m., three hours, $26,460 fee, additional charges. | Main event-specific anchor for date, session, and stated fee. Other pages and payment evidence remain absent. |
+| I06 | [IMG_4374.heic](../../logistics/IMG_4374.heic) | First page of the March 3 license: Troen Student Performance Events and New York Invitational Music Festival are named; evening session, 8 p.m., three hours, $26,460 fee, additional charges. Name/date fields visually rechecked September 11, 2026. | Main event-specific anchor for date, session, and stated fee. The local event name supports context but does not explicitly connect MTC's calendar listing or establish a partner relationship; that match remains unconfirmed. Other pages and payment evidence remain absent. |
 | I07 | [IMG_4375.heic](../../logistics/IMG_4375.heic) | Rental-portal document list includes insurance, rates, marketing/image guidance, program templates, group logistics, equipment, and producer materials. | Venue requirements affect execution and customer materials. The screenshot does not provide readable target URLs for every listed document. |
 | I08 | [IMG_4376.HEIC](../../logistics/IMG_4376.HEIC) | SynologyDrive Trips 2027 folders include several schools and destinations, plus a canceled folder. | Evidence of client/trip-based organization across multiple destinations; no booking totals can be inferred. |
 | I09 | [IMG_4377.HEIC](../../logistics/IMG_4377.HEIC) | March 3 folder contains Carnegie Docs, Groups, Interlake HS, hotel-document filenames, event overview, and budget workbook. | Interlake is another relationship clue. Documents placed inside this folder still require date checking. |

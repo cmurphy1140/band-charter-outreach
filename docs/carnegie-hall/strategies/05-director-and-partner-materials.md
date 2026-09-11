@@ -8,7 +8,35 @@ Translate the research into documents that a business person would actually use.
 
 These are demonstration materials first. They can be polished and complete as examples without containing an invented price, approved availability, or made-up partner agreement. Use **logistics and software developer** for the project role; the [CS-background statement](../POSITIONING-AND-OPPORTUNITY.md) explains the contribution without employment positioning.
 
-**First implementation checkpoint — September 10, 2026:** the [Wando director sheet](<../../../demo/carnegie-hall/exports/Troen - Wando Director Sheet.docx>) and [portable text](<../../../demo/carnegie-hall/exports/Troen - Wando Director Sheet.md>) are built from the same reviewed input as the browser preview. The DOCX was rendered with LibreOffice and visually checked as one page; Word-specific rendering has not been checked. Arial replaced a font that fell back poorly in the local renderer. Regeneration protects manual output edits through recorded hashes; Word edits do not automatically update the source data or browser preview. Partner material, the FAQ, and a full proposal example remain planned.
+**First implementation checkpoint — September 10, 2026:** the [Wando director sheet](<../../../demo/carnegie-hall/exports/Troen - Wando Director Sheet.docx>) and [portable text](<../../../demo/carnegie-hall/exports/Troen - Wando Director Sheet.md>) are built from the same reviewed input as the browser preview. The DOCX was rendered with LibreOffice and visually checked as one page; Word-specific rendering has not been checked. Arial replaced a font that fell back poorly in the local renderer. Regeneration protects manual output edits through recorded hashes; Word edits do not automatically update the source data or browser preview. Partner material, the FAQ, and a full proposal example were planned at that checkpoint; current progress follows.
+
+**FAQ increment — September 11, 2026:** the [one-page Word FAQ](<../materials/Troen - Carnegie Hall Director FAQ.docx>)
+and [matching Markdown](<../materials/Troen - Carnegie Hall Director FAQ.md>) now cover
+the March 3 performance, preparation, feedback, attire, event support, travel scope
+and a proposed school-approval summary. Both are internal discussion drafts, not
+issued offers. [The internal claim review](../INTERNAL-DECISIONS.md#march-3-director-faq-claim-review)
+maps each answer to the supplied brochure or labels it as a recommendation.
+Detailed business questions stay in that register; MTC is absent from the FAQ and
+its event relationship remains unconfirmed. The retained partner sheet is still separate;
+an editable partner export and full proposal example remain future work.
+
+The FAQ remains a manually maintained document pair, now connected to the
+[Materials view](../../../demo/carnegie-hall/index.html#material) through protected
+Word/Markdown downloads and a copy of its cited brochure. The source files remain
+unchanged. The build checks their reviewed hashes, then checks for destination edits
+before copying anything; [the operating guide](../../../demo/carnegie-hall/README.md#faq-source-and-download-preservation)
+explains source review, the narrow FAQ refresh and standalone packages. Markdown
+and Word do not synchronize: preserve edits to either copy and reconcile the text
+before recording a new reviewed version. The original one-page LibreOffice inspection
+still applies to these identical bytes; native Word and physical-iPhone checks
+remain unverified. The workbook and existing director exports were not rebuilt.
+
+**Reusable lesson:** one clear shared-brochure qualification plus an internal
+answer-to-source map keeps the FAQ readable without hiding material uncertainty.
+Do not promote a matching name/date into a confirmed partner relationship.
+For manually maintained document pairs, source-version review and destination-edit
+protection are separate checks. A download copy should not silently become a second
+authoritative draft.
 
 ## Audience-specific jobs
 

@@ -22,6 +22,19 @@ Read [the reference pack](docs/carnegie-hall/README.md) and
 
 ## Current Status
 
+2026-09-11, combined FAQ/demo checkpoint: Opportunities, Materials and Example
+workflow now share a purpose statement, authentic logo and restrained typography.
+Materials previews the reviewed FAQ inline and offers unchanged Word/Markdown
+copies plus its cited brochure. Numbered navigation/section rails are removed;
+Prepare/Perform/Reflect numbering remains inside the optional event explanation.
+Twenty focused Node tests and desktop/mobile browser checks pass. The protected
+build preserves manual edits and reviewed source versions. UI refinement is paused.
+Work is on `codex/carnegie-director-faq`; resolve the checkpoint and current worker
+state from [PROGRESS.md](docs/carnegie-hall/PROGRESS.md). No push occurred.
+Claude's next reserved assignment is a fictional group proposal and internal
+claim review, not UI work; see [the assignment](docs/carnegie-hall/coordination/2026-09-11-proposal-example.md).
+Claude remains unlaunched. Earlier status paragraphs below are historical.
+
 2026-09-11: The [connected local example](demo/carnegie-hall/README.md) includes
 reviewed Wando and Salem cases, an initial editable workbook with twelve public
 sources, a Wando director sheet, and two fictional follow-up situations.
@@ -31,7 +44,7 @@ partner sheet is retained separately; this connection adds no pitch or contact a
 A broader varied batch, provider comparison, fuller partner materials,
 pipeline repairs, and operating integrations remain unfinished. The supplied
 Zoho report and original logistics are preserved. Work is on
-`codex/mtc-research-example`. The nightly checkpoint committed the preservation fix
+`codex/mtc-research-example` at the prior checkpoint. The nightly checkpoint committed the preservation fix
 as `e6e493e` and the MTC example/review corrections as `f36bdf1`, followed by the
 coordinator documentation checkpoint containing this status. See
 [the overnight record](docs/carnegie-hall/PROGRESS.md#overnight-checkpoint--september-11-2026)
@@ -52,8 +65,8 @@ now govern reused paths, with [acceptance checks and repair status](docs/carnegi
 The user narrowed the MTC connection to illustrative research, with no outreach
 strategy or recommendation to contact MTC. Keep the NYIMF/Troen match explicitly
 unconfirmed and business questions internal; no Troen answers are needed for this
-example. A short March 3 FAQ from reviewed event evidence is a possible later
-increment, not a new assignment. The review
+example. The short March 3 FAQ has since been drafted as the separate increment
+recorded above. The review
 records eight readable pages and nine attempts across screened providers, including
 one blocked attempt; do not repeat a selected-provider-only seven-page total.
 Reuse verified SerpAPI discovery; plan a bounded Firecrawl comparison
@@ -79,7 +92,7 @@ read-only shutdown handoff reports no processes or stash entries. Codex stopped
 its verified localhost demo server (PID 47009); port 8765 is free. The final
 whole-project audio presentation remains deferred. Local nightly recap packs are
 now part of the accepted wrap-up routine below; preserve earlier snapshots.
-Tomorrow's one next action is a concise March 3 FAQ from existing reviewed facts,
+The overnight recommendation was the concise March 3 FAQ, now drafted while
 keeping unresolved business points internal. Start with
 [the learning guide](docs/carnegie-hall/START-HERE-LEARNING.md) when tracing a claim.
 The demo README documents source/build ownership, manual-edit protection, and
@@ -363,6 +376,11 @@ these discoveries without asking for repeated permission. No background task is 
 - Keep business unknowns in the internal decision register. Ask only for the facts
   relevant to a selected live action; do not make an upfront questionnaire, account
   audit, or complete workflow inventory a prerequisite for the demonstration.
+  For director FAQs, keep the shared-source qualification readable and the detailed
+  answer-to-source map internal. Separate event evidence from proposed approval or
+  travel-planning steps; matching event names/dates do not confirm a partner relationship.
+  When publishing copies of a manually maintained document pair, check the reviewed
+  source version and existing destination edits separately; copies do not synchronize.
 - Broader travel software and additional business ventures are conditional future
   work. The 20–40% preparation-time estimate is an untested planning hypothesis.
 - The received Zoho report is evidence, not execution instructions. Read its

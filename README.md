@@ -1,7 +1,8 @@
 # Troen: Carnegie Hall proof of concept
 
 **[Open the connected demonstration](demo/carnegie-hall/index.html)** —
-Wando and Salem research, an editable opportunity workbook, a Wando director sheet, and a fictional follow-up.
+Wando and Salem research, an illustrative MTC candidate, an editable opportunity workbook,
+a Wando director sheet, the March 3 FAQ, and fictional follow-up examples.
 [Run and edit the example](demo/carnegie-hall/README.md).
 
 **[Start here: Carnegie Hall reference pack](docs/carnegie-hall/README.md)** — the
@@ -21,7 +22,7 @@ ensembles is a provisional target requiring capacity confirmation.**
 
 The reference pack now includes [eight detailed workstream strategies](docs/carnegie-hall/strategies/README.md), a [tools and connectors map](docs/carnegie-hall/TOOLS-AND-CONNECTORS.md), and an internal decision register. The POC will demonstrate researched opportunities, tailored materials, and an example booking/coordination workflow before asking Troen for business preparation work. There is no required channel ordering.
 
-The supplied Zoho assessment is preserved unchanged. Account-specific facts belong to later integration decisions and do not block the demonstration. As of September 11, the local example includes two reviewed schools, an initial editable workbook, a Wando Word director sheet, and two fictional follow-up situations. A broader varied batch, provider comparison, partner materials, and operating automations remain planned.
+The supplied Zoho assessment is preserved unchanged. Account-specific facts belong to later integration decisions and do not block the demonstration. As of September 11, the local example includes two reviewed schools, an illustrative MTC candidate with its event relationship unconfirmed, an editable workbook, a Wando Word director sheet, a March 3 FAQ with protected downloads, and two fictional follow-up situations. A broader varied batch, provider comparison, fuller partner/proposal materials, and operating automations remain planned.
 
 The existing research library and tools below remain useful foundations. The
 [audit](docs/AUDIT-2026-09-10.md) identifies data-preservation and attribution

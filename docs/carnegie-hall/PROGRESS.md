@@ -4,6 +4,203 @@
 
 Last updated: September 11, 2026. This is the compact record to read when resuming. The plan and strategies describe the current approach; this file records what actually exists, what changed, and the next suggested increment. Update it during active work, not through an assumed background process.
 
+## Combined coordinator checkpoint — September 11, 2026
+
+Reviewed the combined side-chat demo changes: purpose/event context, Opportunities
+school/operator selectors, Materials director/FAQ previews, Example workflow,
+authentic logo, consistent typography, and removal of numbered section/navigation
+rails. Prepare/Perform/Reflect numbers are contained event steps, not section rails.
+No further UI refinement was performed during review. Corrected stale FAQ-card
+wording and the shared current-status record. No blocking finding remains for this
+internal draft; it is not certification of the legacy pipeline or a live offer.
+
+**Verified:** 20 focused Node tests; four viewport sizes (320/390/768/1440), view
+switches and keyboard focus, all seven FAQ answers, downloads, fictional scenario
+switch/reset, no-JavaScript readability and no browser errors/overflow. Screenshot
+inspection completed. Compared 617 starting files: only intended code/docs changed;
+all 10 generated hashes and reviewed FAQ source hashes match. FAQ Word/Markdown
+text and packaged brochure citation agree. Original research JSON, workbook,
+existing exports, logistics and four partner-pilot files are preserved. Native Word
+and a physical iPhone remain unverified. MTC's relationship stays unconfirmed.
+
+**Checkpoint scope:** FAQ source pair, protected packaging/inline rendering and
+regressions; final demo structure/navigation/typography/logo; related source review,
+README/plan/strategy/shared-status updates and the next assignment ledger. This is
+one local coherent checkpoint on `codex/carnegie-director-faq`, based on `b830f2663688d16a88d7301403a6eddb9e1c5130`.
+Resolve its exact ID with `git log -1 --format=%H -- docs/carnegie-hall/coordination/2026-09-11-proposal-example.md`.
+Excluded and preserved: the unrelated uncommitted chatbot note in
+TOOLS-AND-CONNECTORS.md, untracked NotebookLM packs and duplicate Zoho working
+copies. Credentials and generated scratch files are excluded. No push.
+
+**Claude preparation:** inspected the existing checkout clean, no stash, at
+`e171954439e97219491ff6fc2ff332700a1580ef` on `feature/claude-partner-research`.
+Preserve that original branch/commit. After this checkpoint, reuse its directory
+on new `codex/claude-proposal-example` from this checkpoint (not from the old pilot).
+Directory: `/Users/connormurphy/Desktop/Projects/band-charter-outreach-worktrees/claude-partner-research`.
+The final coordinator response confirms the switch and exact starting SHA after
+verification. Claude remains idle/unlaunched; no task server was started there.
+Coordinator checkout: `/Users/connormurphy/Desktop/Projects/band-charter-outreach`.
+The existing read-only preview server PID 21060 remains on localhost:8765 in the
+coordinator checkout. No refresh watcher or worker process was launched.
+
+**Next action:** run only the [reserved proposal assignment](coordination/2026-09-11-proposal-example.md)
+when the user starts Claude Desktop. Four owned outputs, local reviewed inputs,
+no paid calls/research/outreach, no UI edits. Business questions remain internal and
+are not prerequisites for accepting the draft. Audio remains deferred.
+See [START-HERE-LEARNING.md](START-HERE-LEARNING.md) for evidence-tracing conventions.
+Earlier records describe their original state and are superseded by this receipt.
+
+## Purpose-led demo organization — September 11, 2026
+
+User approved a purpose statement, compact shared event context, and three sections:
+Opportunities, Materials, Example workflow. Opportunities has Schools/Tour operators
+selectors and a shared research overview/workbook link. Materials now previews the
+Word-equivalent director content and the verified FAQ Markdown inline; downloads
+are secondary. MTC's visible summary keeps the Troen connection unconfirmed, with
+supporting detail under its evidence disclosure. Simulation warnings remain intact.
+
+Verified 20 focused Node tests, including FAQ answer preservation/escaping; browser
+checks at 320/390/768/1440px cover switches, focus, downloads, simulation/reset,
+no horizontal overflow, one H1, and a no-JavaScript fallback. Screenshot comparison
+performed. Edits are local and uncommitted in the existing FAQ checkout; preexisting
+work was preserved. No source-document or workbook rebuild, push, or Claude task.
+Next: user review of the reorganized demo before coordinator checkpoint. Earlier
+layout notes below are historical and superseded where they describe navigation.
+
+## Typography review — September 11, 2026
+
+User requested fewer font transitions. Research and Materials now use the existing
+system sans-serif throughout, with consistent title/heading/body/note sizes and
+regular-weight inline experience labels. This CSS-only presentation change leaves
+the logo, content, downloads and Follow-up page unchanged. Browser checks passed
+for navigation, downloads, focus and overflow at 320/390/768/1440px; before/after
+screenshots captured and desktop/mobile results inspected. No additional tests
+were added for styling. Changes remain uncommitted; Claude idle, no push.
+Next: user review. Keep typography consistent within a reading passage.
+
+## Research and Materials layout refinement — September 11, 2026
+
+User review requested fewer separate sections and line breaks on both pages.
+Removed repeated evidence/list dividers and secondary card borders; event descriptions
+now keep short labels inline. Materials downloads share a two-column area above
+an expanded document preview, stacking on smaller screens. The three experience
+subsections read as one connected passage. Content, source links, qualifications,
+logo assets, research records and editable downloads are preserved; MTC remains
+an unconfirmed candidate. Only the builder, CSS, generated HTML/manifest and this
+progress entry changed in this refinement. Used the protected HTML-only build.
+
+Verified: 19 focused Node tests pass; browser navigation, eight downloads and the
+brochure, actual FAQ downloads, keyboard focus and 320/390/768/1440px overflow
+checks pass. Desktop/mobile before-and-after screenshots reviewed. Claude checkout
+remains clean and idle. Changes remain uncommitted; no push. Preview continues on
+port 8765. Next: user visual review before choosing a checkpoint or further work.
+Reusable design lesson: group related prose and actions before adding more cards
+or dividers; preserve uncertainty without giving every sentence a separate block.
+
+## FAQ Materials connection — September 11, 2026
+
+**Complete and locally verified:** the [Materials view](../../demo/carnegie-hall/index.html#material)
+now has a compact March 3 FAQ card with Word/Markdown downloads and the cited
+shared brochure. The canonical FAQ pair is unchanged. Source hashes in
+[faq-sources.json](../../demo/carnegie-hall/faq-sources.json) identify the reviewed
+pair/brochure; changed or missing inputs stop the build. Existing generated-file
+hashes separately block edited or unregistered downloads before replacement.
+`build.cjs --faq-only` refreshes HTML plus these three files without touching the
+director exports or workbook. A full standalone build includes them too. The export
+folder preserves the FAQ's relative brochure citation; a document moved alone does
+not carry the PDF. See [source/build instructions](../../demo/carnegie-hall/README.md#faq-source-and-download-preservation).
+
+**Checks:** all **19 focused Node tests pass**, including the four new checks that
+failed before implementation. They cover narrow refresh, source changes/missing
+files, edited downloads blocking partial replacement, and complete standalone
+packaging. Browser checks verified eight downloads plus the brochure by status and
+SHA-256, actual Word/Markdown download events and filenames, the brochure popup,
+keyboard focus, and navigation/reload/fallback at 1440, 768, 390 and 320 pixels.
+Before/after desktop and mobile layouts were inspected; no overflow or browser
+errors were found. The browser tool's screenshot route was unreliable, so these
+checks used isolated headless Chrome through the bundled Playwright library.
+No browser package was installed or user profile reused. Native Word and actual
+iPhone behavior remain unverified; the source DOCX bytes retain the prior checked render.
+
+**Preservation and scope:** original FAQ files, other uncommitted source-review
+notes, all four Claude partner-pilot files, research JSON, workbook, existing
+director exports, original logistics, private configuration and duplicate packs
+remain intact. Final checks compared 617 starting files, verified all ten generated
+hashes and 218 local Markdown links/anchors, and confirmed FAQ Word/Markdown text
+parity and the packaged Word citation. MTC remains a candidate with its event relationship unconfirmed;
+no MTC material or business decision register was added to the Materials view.
+Only the cited brochure was copied into the served `logistics/` folder; license,
+budget and internal-register requests remain unavailable there. The receipt is
+a record of review, not automatic Word/Markdown synchronization or proof of new facts.
+
+**Handoff:** local Mac, `/Users/connormurphy/Desktop/Projects/band-charter-outreach`,
+branch `codex/carnegie-director-faq`, HEAD
+`b830f2663688d16a88d7301403a6eddb9e1c5130`. The prior FAQ draft and this connection
+remain **uncommitted**, with an empty index. Codex owns the builder, source receipt,
+styles, generated HTML/manifest/FAQ copies, focused test additions and current
+README/plan/strategy/instruction/progress updates. No push or worktree removal occurred.
+Claude remains idle in its clean `feature/claude-partner-research` checkout at
+`e171954439e97219491ff6fc2ff332700a1580ef`; no independent assignment was needed.
+The read-only local demo server is running as PID **21060** on
+`127.0.0.1:8765`, serving only `demo/carnegie-hall/`. No refresh watcher was started.
+
+**Next useful increment:** a concise proposal example for one clearly fictional
+group, showing event/travel responsibilities and school-approval context with
+unapproved prices left unquoted. That work has not started. No business answers
+are required to accept this internal FAQ connection. Earlier checkpoints below
+retain their original state; this section supersedes their connection-pending wording.
+
+## FAQ draft — September 11, 2026
+
+**Complete as an internal draft:** [March 3 director FAQ — Word](<materials/Troen - Carnegie Hall Director FAQ.docx>)
+and [matching Markdown](<materials/Troen - Carnegie Hall Director FAQ.md>), seven
+questions on one rendered page. They explain the performance, clinic, feedback,
+preparation, event support, travel scope and a proposed approval summary. The draft
+uses the supplied shared brochure with a clear March 3 qualification; it quotes no
+price, capacity or booking terms. No business answers were requested or made a gate.
+
+**Source support:** P01 was reread locally; its inclusions page and I06's license
+fields were inspected visually. [The internal answer-to-source map](INTERNAL-DECISIONS.md#march-3-director-faq-claim-review)
+distinguishes brochure facts from recommended proposal/approval structure. I06
+explicitly names Troen and New York Invitational Music Festival for March 3. This
+clarifies the internal evidence but does not establish that MTC's public listing
+refers to this agreement. **The MTC/NYIMF/Troen match remains unconfirmed.** MTC is
+not named in the FAQ; no outreach strategy or contact recommendation was added.
+
+**Verified in this increment:** Word/Markdown text parity; seven question headings;
+DOCX ZIP/XML validity and its local brochure hyperlink; a readable one-page
+LibreOffice render; affected local Markdown links/anchors and whitespace; preservation
+against a 615-file starting inventory. Original data, logistics, reviewed JSON,
+Word/workbook/demo outputs, all four partner-pilot files, private configuration,
+NotebookLM packs and duplicate research copies are unchanged. Native Word and
+physical-iPhone rendering remain unchecked. Application tests were not rerun for
+this document-only increment; prior test results below retain their original scope.
+
+**Checkout and ownership:** Codex, local Mac,
+`/Users/connormurphy/Desktop/Projects/band-charter-outreach`, on
+`codex/carnegie-director-faq`, based on and still at
+`b830f2663688d16a88d7301403a6eddb9e1c5130`. The two new FAQ files and updates to
+AGENTS.md, this progress record, the reference README, PLAN, BUSINESS-CONTEXT,
+INTERNAL-DECISIONS, strategy 05 and the demo README are coordinator-owned and
+**uncommitted**; the index is empty. `CLAUDE.md` still links to AGENTS.md. The app's
+old Documents/ChatGPT working-directory label is not the actual checkout used here.
+
+Claude stays idle in
+`/Users/connormurphy/Desktop/Projects/band-charter-outreach-worktrees/claude-partner-research`,
+branch `feature/claude-partner-research`, clean and unchanged at
+`e171954439e97219491ff6fc2ff332700a1580ef`. No assignment, message, launch, push,
+worktree removal, paid call or production refresh occurred. No demo server was started.
+Prior local packs and duplicate research remain untracked and separate.
+
+**Boundary and next recommendation:** this is a manually maintained Word/Markdown
+pair, outside the demo builder and served directory. There is no automatic sync
+between copies; preserve any edits before a later revision. A useful next increment
+would connect the FAQ to the existing Materials view with a download and edited-file
+protection. That interface work has not started. There is no blocker to reviewing
+the internal draft; live-offer unknowns remain in the register. The broader POC and
+legacy repairs are still incomplete. [START-HERE-LEARNING.md](START-HERE-LEARNING.md)
+remains the guide for tracing evidence into a deliverable.
+
 ## Overnight checkpoint — September 11, 2026
 
 The current increment is complete and verified. The user authorized local commits
@@ -71,7 +268,7 @@ record, generator and deliverable before editing. No FAQ work started tonight.
 
 ## Current state
 
-The [connected example](../../demo/carnegie-hall/README.md) now includes Wando and Salem research, a small illustrative MTC candidate, an editable opportunity workbook with twelve public sources, the Wando director sheet, and two fictional follow-up situations. MTC's event relationship is explicitly unconfirmed; its example carries no outreach strategy or recommendation to contact MTC. Salem's City of Salem identity is kept separate from the Virginia Beach school. The original candidate row is preserved. The Carnegie reference pack, logistics findings, positioning, received Zoho report, eight strategies, and tools map remain the working references. The focus is **March 3, 2027**, using **employee-reported** attribution and the **logistics and software developer** role.
+The [connected example](../../demo/carnegie-hall/README.md) now includes Wando and Salem research, a small illustrative MTC candidate, an editable opportunity workbook with twelve public sources, the Wando director sheet, and two fictional follow-up situations. The March 3 FAQ remains a manually maintained Word/Markdown draft and is now available through the Materials view. MTC's event relationship is explicitly unconfirmed; its example carries no outreach strategy or recommendation to contact MTC. Salem's City of Salem identity is kept separate from the Virginia Beach school. The original candidate row is preserved. The Carnegie reference pack, logistics findings, positioning, received Zoho report, eight strategies, and tools map remain the working references. The focus is **March 3, 2027**, using **employee-reported** attribution and the **logistics and software developer** role.
 
 An employee reports one participating group. **Ten additional ensembles is a provisional target requiring capacity confirmation.** There is no proven best-performing channel or required sequence of existing relationships, tour partners, and new schools.
 
@@ -81,10 +278,10 @@ An employee reports one participating group. **Ten additional ensembles is a pro
 | 02 — Market comparison | Business context, detailed strategy and an MTC partner/competitor profile | A fuller source-backed provider comparison |
 | 03 — Opportunities | Two schools and one illustrative [MTC candidate](../../demo/carnegie-hall/mtc.json) in the workbook, with twelve sources | A broader varied batch if useful; repair or bypass reused defective paths |
 | 04 — Experience | Three-view interface, Salem comparison, compact MTC evidence card and workbook download | MTC stays a research example; a partner pitch is outside its current scope |
-| 05 — Materials | Wando director sheet in DOCX/Markdown and a reviewed [internal MTC partner sheet](research/partner-pilot/PARTNER-SHEET-DRAFT.md) in Markdown | Editable partner export, FAQ and fuller proposal example; Word-specific rendering remains unchecked |
+| 05 — Materials | Wando director sheet and March 3 FAQ in DOCX/Markdown, connected to Materials; a reviewed [internal MTC partner sheet](research/partner-pilot/PARTNER-SHEET-DRAFT.md) retained separately | Editable partner export and fuller proposal example; native Word rendering remains unchecked |
 | 06 — Workflow | Two fictional situations and a downloadable example action brief | More varied cases if they improve the demonstration; no operating booking system |
 | 07 — Automation | Separate local document and workbook builders with edited-output protection; received Zoho assessment | Measure usefulness and preparation effort; integrations and scheduling remain later work |
-| 08 — Iteration | Fifteen targeted demo/review tests, desktop/mobile viewport checks, rendered workbook inspection and preservation comparison | Continue checking each changed behavior and updating the relevant references |
+| 08 — Iteration | Nineteen targeted demo/review tests, desktop/mobile viewport checks, rendered workbook inspection and preservation comparison | Continue checking each changed behavior and updating the relevant references |
 
 The first local prototype is working; the full five-deliverable POC is unfinished. Original data, logistics, and the supplied report were preserved. The September 11 repository-publication milestone now checkpoints the work below. No outbound messages, account integration, hosted website deployment, or scheduled automation has been performed.
 
@@ -96,15 +293,15 @@ The first demonstration increment created `codex/carnegie-connected-example` in 
 
 ## Coordination and handoff state
 
-- Latest operator: Codex on the local Mac, connecting the reviewed MTC candidate as a small research example. Claude's completed checkout remains clean at `e171954`, with no relaunch. No wider Desktop/cloud configuration guarantee is implied.
-- Working checkout: `/Users/connormurphy/Desktop/Projects/band-charter-outreach`, on `codex/mtc-research-example`. Code/demo work is committed as `e6e493e` and `f36bdf1`, followed by the documentation checkpoint above. Claude remains on `feature/claude-partner-research` at `e171954439e97219491ff6fc2ff332700a1580ef`. Main, the local origin/main ref and the retained integration worktree remain at `5155cfa`; no remote fetch or push was needed. Local packs/duplicate working copies remain untracked.
+- Latest operator: Codex on the local Mac, completing the March 3 FAQ Materials connection. Claude's completed checkout remains clean at `e171954`, with no relaunch. No wider Desktop/cloud configuration guarantee is implied.
+- Working checkout: `/Users/connormurphy/Desktop/Projects/band-charter-outreach`, on `codex/carnegie-director-faq` at `b830f2663688d16a88d7301403a6eddb9e1c5130`, with this FAQ/documentation increment uncommitted. Earlier code/demo work is committed as `e6e493e` and `f36bdf1`, followed by documentation checkpoint `b830f26`. Claude remains on `feature/claude-partner-research` at `e171954439e97219491ff6fc2ff332700a1580ef`. Main, the local origin/main ref and the retained integration worktree remain at `5155cfa`; no remote fetch or push was needed. Local packs/duplicate working copies remain untracked.
 - Milestone scope: canonical reference pack and eight strategies; original logistics and supplied Zoho DOCX; historical audit and reproduction evidence; shared instructions and READMEs; demo sources, Word/Markdown/workbook outputs, and both Node test files. CLAUDE.md remains a relative link to AGENTS.md. Duplicate NotebookLM packs and report working/render copies remain untracked in the original checkout and are excluded from publication.
 - Additional credential-support changes: `scrapers/serpapi.py`, both dependency manifests, `.gitignore`, `Makefile`, `.env.example`, `tests/test_serpapi.py`, isolation updates in `tests/test_news_east.py`, and the setup/status documentation. The user has now configured the private `.env`; preserve it and exclude it from transfers. `python-dotenv==1.2.3` is installed in this checkout's `.venv`. A successful live validation is recorded below; its cache is in Git-ignored `data/raw/serpapi-validation/`.
 - Published checkpoints: `e4e6a9b` contains SerpAPI support; `f0dac98` contains the reference/demo milestone; `5155cfa` records that publication and handoff. The latest planning changes described below are not part of that published ref.
 - Cloud inputs: a fresh clone of the verified public `main` contains canonical project records and shared instructions. It still needs its own dependencies and secret configuration. Cloud checkout execution and mobile Remote pairing have not been tested; verify receipt and execution at an actual handoff.
 - App routing: the saved project/task entry still points to `/Users/connormurphy/Documents/ChatGPT/Troen Outreach Pipeline`, while the verified working repository is the Desktop/Projects checkout above. Verify/select the real checkout before a future launch; do not recreate the stale path or move the repo to match it. No app routing change was made here.
-- Services: the coordinator's read-only Python server, PID 47009 on `127.0.0.1:8765`, was stopped for the night after verifying its command and checkout. The port is free. No scheduled writer was started.
-- Verification and next task: see the latest checkpoint and suggested next increment below. Before transfer, update this section with the exact changed files, new commits, checks, limitations, services/ports, and next task, then stop the outgoing operator before the receiving tool resumes.
+- Services: the coordinator's read-only Python server is now PID 21060 on `127.0.0.1:8765`, serving only `demo/carnegie-hall/` for local inspection. The prior overnight server was stopped; this new server belongs to the FAQ connection task. No scheduled writer was started.
+- Verification and next task: see the latest checkpoint at the top. Before transfer, update this section with the exact changed files, new commits, checks, limitations, services/ports, and next task, then stop the outgoing operator before the receiving tool resumes.
 
 ## Next useful step
 
@@ -169,7 +366,7 @@ Detailed methods: [claim evidence](strategies/01-evidence-and-event-model.md#evi
 and [output reconciliation / reusable lessons](strategies/08-iteration-and-delivery.md#reconcile-after-an-accepted-research-change).
 
 The public tour-partner research example is now connected in the narrowed MTC
-scope. The matching-sheet connection is deferred; the FAQ is the next increment.
+scope. The matching-sheet connection is deferred; the FAQ draft is now connected to Materials.
 Reuse SerpAPI for future authorized discovery. Firecrawl evaluation is planned before adoption. Zyte or
 Apify is conditional on a demonstrated gap. This request starts no trials,
 subscriptions, paid searches, broader scraping or implementation.
@@ -192,6 +389,8 @@ Capacity, firm offer details, relationship ownership, account configuration, and
 
 | Date | Status | Decision or learning | Reason and affected references |
 |---|---|---|---|
+| 2026-09-11 | Verified FAQ connection | Separate reviewed-input hashes from edited-output protection when publishing a manual document pair | Keeps the canonical FAQ unchanged, blocks unreviewed drift, and retains the cited brochure in a standalone package; README, strategy 05 and AGENTS.md record the limits |
+| 2026-09-11 | Verified document increment | Use one shared-brochure qualification and an internal answer-to-source map for the director FAQ | Keeps the draft readable while preserving evidence, distinguishing proposed approval/travel structure from facts, and leaving business unknowns internal; recorded in strategy 05 and AGENTS.md |
 | 2026-09-10 | Accepted direction | Demonstrate useful work before assigning business preparation tasks; use employee-reported attribution and the project role | Shapes the [plan](PLAN.md), evidence language, and internal decision timing |
 | 2026-09-10 | Accepted working practice | Maintain strategies and instructions as the project develops; adapt through concrete examples and feedback | The [shared instructions](../../AGENTS.md) define learning checkpoints and distinguish suggestions from decisions |
 | 2026-09-10 | Implemented documentation | Make AGENTS.md canonical and CLAUDE.md a relative link to the same file | Prevents two project instruction copies from drifting; existing project guidance is preserved |
