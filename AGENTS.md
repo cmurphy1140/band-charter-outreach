@@ -28,9 +28,10 @@ sources, a Wando director sheet, and two fictional follow-up situations.
 A broader varied batch, provider comparison, partner materials,
 pipeline repairs, and operating integrations remain unfinished. The supplied
 Zoho report and original logistics are preserved. Work is on
-`codex/serpapi-local-env`, preparing the verified Carnegie milestone for `main`.
-SerpAPI support is committed as `e4e6a9b`. See the progress record for the
-integration checkout, final publication state, and local-only working copies.
+`main` after the verified publication milestone: SerpAPI support is committed as
+`e4e6a9b`, and the reference pack/demo/original sources as `f0dac98`. GitHub `main`
+was verified at that milestone; the completion notes follow in a documentation
+checkpoint. See the progress record for checkouts and local-only working copies.
 The demo README documents source/build ownership, manual-edit protection, and
 how to run `node --test tests/carnegie_demo.test.cjs`. Do not run a destructive
 legacy refresh to rebuild this example; it has its own reviewed input file.
