@@ -32,7 +32,7 @@ The first demonstration increment created `codex/carnegie-connected-example` in 
 ## Coordination and handoff state
 
 - Latest operator: Codex on the local Mac. No transfer to cloud or Claude Code has been initiated.
-- Working checkout: `/Users/connormurphy/Desktop/Projects/band-charter-outreach`, on `codex/research-reliability-plan`, based on published `5155cfa`. The user now authorizes a scoped setup commit and Claude worktree preparation, with no push or Claude launch. The clean integration checkout remains at `/Users/connormurphy/Desktop/Projects/band-charter-outreach-worktrees/main-integration/` with detached HEAD; it is not a second active operator. Prior implementation branches are retained. Verify actual refs before editing.
+- Working checkout: `/Users/connormurphy/Desktop/Projects/band-charter-outreach`, on `codex/research-reliability-plan`. Setup commit `39171e5` contains the fourteen intended plan/workflow/assignment documents; the completion receipt follows as a separate local documentation checkpoint. Neither is pushed. The dedicated Claude worktree is on `feature/claude-partner-research` at `39171e5`; Claude is not launched. The retained `main-integration` worktree remains detached at `5155cfa`. Main and origin/main remain at `5155cfa`; verify actual refs before editing.
 - Milestone scope: canonical reference pack and eight strategies; original logistics and supplied Zoho DOCX; historical audit and reproduction evidence; shared instructions and READMEs; demo sources, Word/Markdown/workbook outputs, and both Node test files. CLAUDE.md remains a relative link to AGENTS.md. Duplicate NotebookLM packs and report working/render copies remain untracked in the original checkout and are excluded from publication.
 - Additional credential-support changes: `scrapers/serpapi.py`, both dependency manifests, `.gitignore`, `Makefile`, `.env.example`, `tests/test_serpapi.py`, isolation updates in `tests/test_news_east.py`, and the setup/status documentation. The user has now configured the private `.env`; preserve it and exclude it from transfers. `python-dotenv==1.2.3` is installed in this checkout's `.venv`. A successful live validation is recorded below; its cache is in Git-ignored `data/raw/serpapi-validation/`.
 - Published checkpoints: `e4e6a9b` contains SerpAPI support; `f0dac98` contains the reference/demo milestone; `5155cfa` records that publication and handoff. The latest planning changes described below are not part of that published ref.
@@ -211,9 +211,23 @@ Claude launch is authorized in setup.
 The [reserved assignment](coordination/2026-09-11-partner-pilot.md) gives Claude only
 the partner PROFILE.md, SOURCES.md, PARTNER-SHEET-DRAFT.md and its own handoff note.
 All shared records and integration remain coordinator-owned. Worker acknowledgement
-is pending. The planned branch/path are `feature/claude-partner-research` and
+is pending. The created branch/path are `feature/claude-partner-research` and
 `/Users/connormurphy/Desktop/Projects/band-charter-outreach-worktrees/claude-partner-research`.
 No other writer is assigned those outputs. The first pilot needs no server or new
-dependency and has zero new paid calls; a credential-free discovery snapshot will
-be provided as read-only input. Record actual base SHA, worktree checks and completed
-startup prompt after creating the checkpoint; do not describe reservation as launch.
+dependency and has zero new paid calls. Two independent read-only discovery-cache
+files were copied, hash-verified and confirmed ignored; no credential was transferred.
+
+**Verified starting commit:** `39171e5fe873bca7fca3f05723a8fca9985f081b`.
+The new checkout has the full setup instructions and ledger, a clean tracked tree,
+and a valid CLAUDE.md → AGENTS.md link. Its separate `.venv` was installed from the
+existing requirements to test the fresh baseline: **68 Python tests passed, four
+fixture-dependent skips; 11 Node tests passed**. No shared writable environment,
+new dependency or server was introduced. The launcher exists, but its authentication
+and future browser capabilities remain unchecked because Claude was not invoked.
+
+Use the [completed startup prompt](<Claude Code - Worktree Quickstart.md#completed-startup-prompt>).
+Its full SHA, path, four owned files and resource limits are filled in. The worker's
+committed quickstart/ledger are the initial reservation version; this coordinator
+receipt records the completed setup without silently moving the worker branch.
+NotebookLM packs and duplicate research copies remain only in the original checkout.
+No push, merge, worktree cleanup, Claude launch, paid query or acknowledgement occurred.

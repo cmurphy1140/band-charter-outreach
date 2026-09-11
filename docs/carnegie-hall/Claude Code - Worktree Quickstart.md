@@ -2,25 +2,116 @@
 
 Prepared September 11, 2026. A practical companion to [the parallel workflow](PARALLEL-WORKFLOW.md).
 
-## Selected assignment
+## Ready-to-use assignment
 
-The main Codex task is preparing the reserved
-[partner research pilot](coordination/2026-09-11-partner-pilot.md). Its exact four
-output paths, source inputs, acceptance checks and zero paid-call budget supersede
-the proposed alternatives below. The worktree will start from the commit containing
-these reviewed setup documents. The coordinator supplies the full SHA and completed
-startup prompt after creating and verifying it. Claude remains unlaunched.
+The main Codex task prepared the reserved
+[partner research pilot](coordination/2026-09-11-partner-pilot.md). The worktree is
+ready; Claude is **not launched**. Its four output paths and zero paid-call budget
+supersede the proposed alternatives later in this guide.
+
+- Checkout: `/Users/connormurphy/Desktop/Projects/band-charter-outreach-worktrees/claude-partner-research`
+- Branch: `feature/claude-partner-research`
+- Exact starting commit: `39171e5fe873bca7fca3f05723a8fca9985f081b`
+- Coordinator: main Codex task, Troen Prospects Pipeline.
+- Verified baseline: 68 Python tests passed, four fixture-dependent skips; 11 Node
+  tests passed. Separate `.venv`; clean tracked tree; valid instruction symlink.
+- Two independent, read-only discovery cache files were copied and hash-checked.
+  No key, NotebookLM pack or duplicate research working folder was transferred.
+- No push, Claude launch or acknowledgement. The launcher exists; session
+  authentication and browser/tool availability have not been tested.
+
+Run these commands yourself when ready; setup did not run them:
+
+```sh
+cd /Users/connormurphy/Desktop/Projects/band-charter-outreach-worktrees/claude-partner-research
+claude
+```
+
+## Completed startup prompt
+
+Copy this entire block into that Claude session. The worker's committed guide
+predates this completion receipt; the starting assignment and its boundaries are
+already included in the starting commit.
+
+```text
+You are Claude Code, assigned task claude-partner-research. The main Codex task
+"Troen Prospects Pipeline" is coordinator. Other tasks may be active: you are not
+alone in the repository. Do not revert their changes or edit their checkouts.
+
+Use only this checkout:
+/Users/connormurphy/Desktop/Projects/band-charter-outreach-worktrees/claude-partner-research
+Branch: feature/claude-partner-research
+Expected initial HEAD: 39171e5fe873bca7fca3f05723a8fca9985f081b
+
+Before editing, verify root, branch, initial HEAD and clean Git status. Verify that
+CLAUDE.md resolves to AGENTS.md. Read AGENTS.md, docs/carnegie-hall/PROGRESS.md,
+docs/carnegie-hall/PARALLEL-WORKFLOW.md, the relevant PLAN/strategies 01, 02, 03, 05,
+and docs/carnegie-hall/coordination/2026-09-11-partner-pilot.md. Acknowledge the
+assignment and boundaries once, then proceed. If state or ownership differs,
+report the mismatch rather than resetting, switching branches or overwriting work.
+
+Research one public student-performance tour provider as a possible partner and
+possible competitor. Prepare a source-backed profile and useful internal partner
+sheet for Troen's March 3, 2027 Carnegie Hall POC. Use Markdown only; no app,
+pipeline repair, new dependencies or demo integration is assigned.
+
+Your exact write ownership is limited to:
+docs/carnegie-hall/research/partner-pilot/PROFILE.md
+docs/carnegie-hall/research/partner-pilot/SOURCES.md
+docs/carnegie-hall/research/partner-pilot/PARTNER-SHEET-DRAFT.md
+docs/carnegie-hall/coordination/claude-partner-research-handoff.md
+
+All shared plans, instructions, strategies, the assignment ledger, dependency
+manifests, demo sources, tests, original data/logistics and existing outputs are
+read-only. Propose needed changes in your handoff; pause only an unassigned edit
+and continue independent work.
+
+Start with the two independent read-only files in data/raw/serpapi-validation/
+whose filenames and SHA-256 hashes are listed in the assignment. They contain the
+existing "student music performance tours Carnegie Hall" discovery query and
+metadata, not verified provider claims. Review underlying first-party sources:
+at most eight distinct provider pages in this pass. Record exact URLs, dates,
+source IDs and supporting passages/sections for material claims. Preserve unknowns
+and distinguish planned appearances, completed performances and competitions.
+
+Budget: zero new paid API calls and no direct SerpAPI requests. No Firecrawl,
+Zyte/Apify trial, subscription, signup, CRM import, outbound message, quote request,
+purchase, live refresh, deployment or background task. Never read/copy .env or
+share another checkout's writable cache/environment. No server or port is assigned.
+If browsing is unavailable or a source is restricted, report the limitation and
+continue from valid supplied evidence without claiming fresh verification.
+
+Use explicit organization and adult-role evidence; never invent contacts, pricing,
+capacity, commissions, availability, relationships, interest or confirmed bookings.
+A provider may compete with Troen. Label the partner sheet "Internal discussion
+draft — unapproved and not sent." Keep March 31 terms and internal costs out of
+that draft. Use employee-reported attribution and the logistics and software
+developer role. Do not assign the business homework to complete this POC draft.
+
+Check factual claims/citations, local links, scope, readability and git diff --check.
+Inspect untracked files as well as the diff; only the four owned outputs may change.
+Do not rebuild the application for a Markdown-only change. Record any useful
+lesson with evidence and limits in your handoff.
+
+After verification, make one conventional local documentation commit containing
+only the four owned files. Do not push, merge, rebase, pull, change branches,
+remove worktrees, update shared plans or stop another task's processes.
+Finish with outcome, full base/final SHA, files, checks, uncertainties, API spend,
+handoff path and any running processes. Mark ready for coordinator review and
+stop editing until reassigned. Keep updates concise.
+```
 
 ## What this sets up
 
 Codex remains the coordinator and continues its existing work. Claude Code gets its
-own branch and folder for one bounded task. This guide does not create that folder,
-launch Claude, assign live ownership, or commit anything.
+own branch and folder for one bounded task. The assignment above is prepared;
+the remaining sections explain the general workflow. Claude still needs to be
+launched by the user.
 
-At preparation, the original checkout was on `codex/research-reliability-plan` with
-uncommitted plan/instruction changes. `PARALLEL-WORKFLOW.md` was untracked. The retained
-`main-integration` worktree was detached. Recheck all of this at launch; do not assume
-creating a worktree from HEAD will include those working changes.
+Historical guide context: before setup, the original checkout had uncommitted
+plan/instruction changes and an untracked parallel workflow. They are now included
+in the verified starting commit above. The generic steps below remain reference
+material; do not create a second worktree for the already reserved assignment.
 
 ## 1. Ask the main Codex task to prepare an assignment
 
@@ -249,7 +340,9 @@ separate authorized actions. Keep useful research and handoff notes before clean
 
 ## Preparation record
 
-The side conversation originally created only this guide. The main task now has
-explicit authorization to commit the intended setup documents and create the
-reserved worktree. The selected assignment above is the current source for exact
-ownership; completed setup and launch details will be recorded after verification.
+The side conversation originally created this guide. The main task committed all
+fourteen intended setup documents as `39171e5`, created the dedicated worktree from
+that exact commit, transferred only the two credential-free cache inputs, and
+verified its baseline. The completed prompt above requires no placeholders.
+Coordinator completion records are a separate local documentation checkpoint;
+they do not advance the worker's starting branch. Nothing was pushed or launched.

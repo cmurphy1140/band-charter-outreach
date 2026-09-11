@@ -28,8 +28,11 @@ sources, a Wando director sheet, and two fictional follow-up situations.
 A broader varied batch, provider comparison, partner materials,
 pipeline repairs, and operating integrations remain unfinished. The supplied
 Zoho report and original logistics are preserved. Work is on
-`codex/research-reliability-plan` for local planning edits based on published
-`5155cfa`. SerpAPI support is committed as
+`codex/research-reliability-plan`, with setup documents committed locally as
+`39171e5` on top of published `5155cfa`. Claude's dedicated
+`feature/claude-partner-research` worktree starts at that setup commit; its exact
+assignment and completed prompt are linked from PROGRESS.md. It is reserved and
+verified but Claude has not been launched; setup was not pushed. SerpAPI support is committed as
 `e4e6a9b`, and the reference pack/demo/original sources as `f0dac98`. GitHub `main`
 was verified at that milestone; the completion notes follow in a documentation
 checkpoint. See the progress record for checkouts and local-only working copies.

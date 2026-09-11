@@ -1,7 +1,7 @@
 # Partner research pilot assignment
 
 Task ID: `claude-partner-research`. Reserved September 11, 2026.
-Status: **reserved; worker not launched and acknowledgement pending**.
+Status: **reserved and ready for user launch; Claude is not launched and acknowledgement is pending**.
 
 ## Coordinator and starting state
 
@@ -13,10 +13,12 @@ Status: **reserved; worker not launched and acknowledgement pending**.
   has been launched or acknowledged; elapsed time does not release this reservation.
 - Worker checkout: `/Users/connormurphy/Desktop/Projects/band-charter-outreach-worktrees/claude-partner-research`.
 - Worker branch: `feature/claude-partner-research`.
-- Starting revision: the setup commit that first adds this assignment and includes
-  the reviewed plans, shared instructions, parallel workflow and quickstart.
-  Resolve its full SHA with `git log --diff-filter=A -1 --format=%H -- docs/carnegie-hall/coordination/2026-09-11-partner-pilot.md`.
-  The completed startup prompt supplies the same full SHA after the commit exists.
+- Verified full starting commit: `39171e5fe873bca7fca3f05723a8fca9985f081b`.
+  It adds the assignment and includes all fourteen reviewed setup documents.
+  The worker checkout remains at this commit. Its ledger copy predates this
+  completion receipt but contains the same ownership, inputs and resource limits;
+  the completed startup prompt supplies the exact SHA. Coordinator receipt edits
+  do not silently advance the worker branch.
 - Policy: the September 11 [parallel workflow](../PARALLEL-WORKFLOW.md), one writer
   per assigned checkout/file set. This ledger is coordinator-owned.
 
@@ -51,8 +53,9 @@ Read the current shared instructions, PROGRESS.md, PLAN.md, and strategies 01, 0
 to understand the already documented offer. The existing Wando and Salem materials
 are examples of evidence treatment, not text to attribute to this provider.
 
-The coordinator will copy exactly two credential-free cache files into the same
-ignored relative paths in the worker checkout, as independent read-only files:
+The coordinator copied and hash-verified exactly two credential-free cache files
+at these ignored relative paths in the worker checkout, as independent read-only
+files (not shared writable caches or symlinks):
 
 | Input | SHA-256 |
 |---|---|
@@ -106,3 +109,18 @@ report the full base and final commit IDs in the completion message (a file cann
 contain its own final commit hash). Do not push, merge, rebase, pull, switch branches,
 remove worktrees or update shared plans. Mark the result ready for coordinator
 review and stop editing until reassigned. No Claude work is activated by this setup.
+
+## Setup verification receipt
+
+The dedicated worktree is clean and its starting HEAD matches the full commit
+above. AGENTS.md/CLAUDE.md resolve to the same instruction file. The cache copies
+match the recorded hashes and are ignored; `.env` was not copied. No NotebookLM
+pack or duplicate research working folder is present in the worktree.
+
+A separate worker `.venv` was installed from the existing requirements for baseline
+verification; no shared writable environment or package-manifest change was used.
+The fresh checkout passed **68 Python tests with four fixture-dependent skips**
+and **11 Node tests**. Markdown pilot work itself requires no new package or server.
+The `claude` launcher is present, but it was not invoked; its authentication and
+the future session's browser tools remain to be checked at launch. No paid search,
+push, merge, Claude launch or worker acknowledgement occurred during preparation.
