@@ -48,7 +48,14 @@ LIVE_SOURCES = {
 
 def write_interim_scoped(name: str, rows: list[Row], years) -> None:
     """Write a source's interim CSV. A year-scoped run replaces only those years and
-    keeps every other year already on disk, so history survives `make refresh`."""
+    keeps other years. Reject empty/unusable batches before touching existing data;
+    nonempty results still need source-level completeness validation."""
+    if not rows:
+        raise BlockedSource("incomplete source result: no rows returned; interim CSV unchanged")
+    if any(not (r.school or "").strip() or not (r.event or "").strip()
+           or not (r.source_url or "").strip() for r in rows):
+        raise BlockedSource("incomplete source result: missing school, event or source URL; "
+                            "interim CSV unchanged")
     if years:
         existing = INTERIM_DIR / f"{name}.csv"
         kept: list[Row] = []
@@ -78,12 +85,12 @@ def run_scrapers(years, only: set[str] | None = None) -> dict[str, int]:
             continue
         try:
             rows = mod.scrape(years=years) if years else mod.scrape()
+            write_interim_scoped(name, rows, years)
         except BlockedSource as e:
             write_blocked(name, str(e), [getattr(mod, "URL", getattr(mod, "ARCHIVE", ""))])
             print(f"[{name}] BLOCKED: {e}")
             continue
         clear_blocked(name)
-        write_interim_scoped(name, rows, years)
         counts[name] = len(rows)
         print(f"[{name}] {len(rows)} rows")
         if name == "boa" and boa.pdf_only_events:
@@ -105,8 +112,13 @@ def run_scrapers(years, only: set[str] | None = None) -> dict[str, int]:
             write_blocked(name, reason, cached_only.GENERIC_SOURCES[name]["urls"])
             print(f"[{name}] NO DATA: {reason}")
             continue
+        try:
+            write_interim_scoped(name, rows, years)
+        except BlockedSource as e:
+            write_blocked(name, str(e), cached_only.GENERIC_SOURCES[name]["urls"])
+            print(f"[{name}] BLOCKED: {e}")
+            continue
         clear_blocked(name)
-        write_interim_scoped(name, rows, years)
         counts[name] = len(rows)
         print(f"[{name}] {len(rows)} rows (from cached pages)")
     return counts
