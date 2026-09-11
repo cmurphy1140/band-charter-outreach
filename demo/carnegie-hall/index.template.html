@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A local Troen Carnegie Hall proof of concept: two reviewed schools, an editable workbook and director sheet, and an illustrative follow-up.">
+  <title>Troen | Considered opportunities</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="masthead">
+    <a class="brand" href="#research" aria-label="Troen demonstration home">Troen<span>Student Performance Events</span></a>
+    <div class="event-heading"><strong>Carnegie Hall</strong><span>March 3, 2027</span></div>
+    <span class="demo-label">Working demonstration</span>
+  </header>
+  <nav class="steps" aria-label="Example walkthrough">
+    <a href="#research" aria-current="page"><span>1</span> Research the fit</a>
+    <a href="#material"><span>2</span> Shape the conversation</a>
+    <a href="#follow-up"><span>3</span> Consider what follows</a>
+  </nav>
+  <main id="main" tabindex="-1">
+    <noscript><p class="simulation-notice">JavaScript is off. All three sections remain readable below; scenario switching requires JavaScript.</p></noscript>
+    <section data-page="research" aria-labelledby="research-title">{{research}}</section>
+    <section data-page="material" aria-labelledby="material-title">{{material}}</section>
+    <section data-page="follow-up" aria-labelledby="follow-up-title">{{followup}}</section>
+  </main>
+  <footer class="site-footer"><span>Two research examples. No outreach sent.</span><span>Updated September 11, 2026</span></footer>
+</body>
+</html>

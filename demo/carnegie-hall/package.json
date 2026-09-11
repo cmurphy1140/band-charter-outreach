@@ -1,0 +1,12 @@
+{
+  "name": "troen-carnegie-example",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Local Carnegie research example and editable document generator",
+  "scripts": {
+    "build": "node build.cjs",
+    "test": "node --test ../../tests/carnegie_demo.test.cjs ../../tests/carnegie_review.test.cjs"
+  },
+  "engines": { "node": ">=20" },
+  "dependencies": { "docx": "9.6.1" }
+}

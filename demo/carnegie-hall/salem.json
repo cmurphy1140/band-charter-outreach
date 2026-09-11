@@ -1,0 +1,31 @@
+{
+  "reviewed_on": "2026-09-11",
+  "school": {
+    "id": "salem-high-va-salem-city",
+    "opportunity_id": "salem-concert-band-carnegie-2027-03-03",
+    "name": "Salem High School",
+    "city": "Salem",
+    "state": "VA",
+    "district": "Salem City Schools",
+    "ensemble": "Concert or symphonic band; participating ensemble not selected",
+    "origin": "The legacy prospects.csv row has no city or contact and flags two possible Virginia schools. This separate reviewed record identifies Salem City Schools using its school site and the Pride of Salem program. The original row is unchanged. Its Philadelphia 2022 label is not promoted to a verified event date here.",
+    "status": "Identity resolved; event fit open",
+    "fit": "Salem’s documented concert ensembles support an educational performance conversation. Resolving the school identity improves the research; it does not establish March 3 feasibility or interest.",
+    "evidence": [
+      { "label": "School identity", "text": "The school site gives 400 Spartan Drive, Salem, Virginia, and identifies Salem City Schools.", "source_id": "S05" },
+      { "label": "Concert program", "text": "The program describes two concert bands and a symphonic band within Salem City Schools.", "source_id": "S06" },
+      { "label": "Historical travel context", "text": "The marching program reports past Philadelphia Thanksgiving Day Parade participation, without a year. This is historical context, not a current trip plan.", "source_id": "S08" },
+      { "label": "Same-name school excluded", "text": "The separate SunDevil program explicitly identifies Virginia Beach. Its staff and contact details are not assigned to the City of Salem record.", "source_id": "S09" }
+    ],
+    "contact": { "name": "John E. Wright", "role": "Director of Bands", "email": "jwright@salem.k12.va.us", "source_id": "S07", "status": "The program’s alumni page labels the role and prints the email; its home page also publishes the name and mailbox. Undated pages reviewed September 11, 2026; mailbox deliverability and permission to send are unverified." },
+    "unknowns": ["March 3 calendar fit", "Specific ensemble eligibility and size", "Budget and school approval", "Existing Troen or tour-partner relationship", "Interest and permission to contact", "Year of the program’s stated Philadelphia appearance"],
+    "next_action": "Keep the two Salem identities separate. Review a concert-focused angle; do not personalize from the legacy parade score. A Salem director sheet has not yet been drafted."
+  },
+  "sources": [
+    { "id": "S05", "title": "Salem High School: school home", "url": "https://shs.salem.k12.va.us/", "type": "School website", "note": "School address and Salem City Schools identity. Undated page checked September 11, 2026." },
+    { "id": "S06", "title": "Pride of Salem: program home", "url": "https://prideofsalem.com/", "type": "Program website", "note": "Explicit Salem City Schools ensemble description; publishes John E. Wright and the district-domain mailbox. The page shows 2026–2027 announcements; the program description itself is undated." },
+    { "id": "S07", "title": "Pride of Salem: adult role", "url": "https://prideofsalem.com/alumni", "type": "Program website", "note": "Explicit Director of Bands label with John Wright and the same district-domain mailbox. Undated; current home page corroborates the name/email. Student and alumni details were not collected." },
+    { "id": "S08", "title": "Pride of Salem: marching program", "url": "https://prideofsalem.com/the-pride-of-salem", "type": "Program website", "evidence_period": "Historical; year unknown", "note": "Identifies the City of Salem and reports prior Philadelphia participation without its year. A 2026 show heading does not date that past appearance." },
+    { "id": "S09", "title": "Salem SunDevil Bands: Virginia Beach", "url": "https://salemmarchingband.wixsite.com/home", "type": "Separate program website", "note": "Explicit Virginia Beach identity. Used only to distinguish the other school, not to populate the City of Salem contact." }
+  ]
+}

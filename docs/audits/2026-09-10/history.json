@@ -1,0 +1,83 @@
+[
+  {
+    "school": "Cherry Creek High School",
+    "old_state": "CO",
+    "current_state": "",
+    "old_city": "Greenwood Village",
+    "old_school_url": "http://cherrycreek.cherrycreekschools.org/",
+    "current_school_url": "",
+    "old_notes": "nces: unique national match 'Cherry Creek High School, GREENWOOD VILLAGE CO'; search: website via Google knowledge panel 'Cherry Creek High School'; no band page found in 4 pages crawled"
+  },
+  {
+    "school": "South Paulding High School",
+    "old_state": "GA",
+    "current_state": "",
+    "old_city": "Douglasville",
+    "old_school_url": "https://www.paulding.k12.ga.us/",
+    "current_school_url": "",
+    "old_notes": "nces: unique national match 'South Paulding High School, Douglasville GA'; search: website via Google knowledge panel 'South Paulding High School'; no band page found in 3 pages crawled"
+  },
+  {
+    "school": "Van Nuys High School",
+    "old_state": "CA",
+    "current_state": null,
+    "old_city": "Los Angeles",
+    "old_school_url": "http://vannuyshs.lausd.org/",
+    "current_school_url": null,
+    "old_notes": "search: website via Google knowledge panel 'Van Nuys High School'; search: state from Google knowledge panel, confirmed by the one NCES school of this name; nces: no match; site crawl blocked: HTTP 403 / challenge page for http://vannuyshs.lausd.org/"
+  },
+  {
+    "school": "Concord Community High School",
+    "old_state": "IN",
+    "current_state": "",
+    "old_city": "Elkhart",
+    "old_school_url": "",
+    "current_school_url": "",
+    "old_notes": "nces: unique national match 'Concord Community High School, Elkhart IN'; search: no school site found"
+  },
+  {
+    "school": "East Coweta High School",
+    "old_state": "GA",
+    "current_state": "",
+    "old_city": "Sharpsburg",
+    "old_school_url": "http://cowetaschools.org",
+    "current_school_url": "",
+    "old_notes": "nces: unique national match 'East Coweta High School, Sharpsburg GA'; no band page found in 1 pages crawled"
+  },
+  {
+    "school": "Habersham Central High School",
+    "old_state": "GA",
+    "current_state": "",
+    "old_city": "Mt Airy",
+    "old_school_url": "http://www.habershamschools.com",
+    "current_school_url": "",
+    "old_notes": "nces: unique national match 'Habersham Central High School, Mt Airy GA'; no band page found in 1 pages crawled"
+  },
+  {
+    "school": "Mira Costa High School",
+    "old_state": "CA",
+    "current_state": "",
+    "old_city": "Manhattan Beach",
+    "old_school_url": "https://www.miracostahigh.org/",
+    "current_school_url": "",
+    "old_notes": "search: website via Google knowledge panel 'Mira Costa High School'; search: state from Google knowledge panel, confirmed by the one NCES school of this name; nces: matched 'Mira Costa High' (0.92); no band page found in 1 pages crawled"
+  },
+  {
+    "school": "Southeast Raleigh High School",
+    "old_state": "NC",
+    "current_state": "",
+    "old_city": "Raleigh",
+    "old_school_url": "https://southeastraleighhs.wcpss.net/",
+    "current_school_url": "",
+    "old_notes": "news: named in local coverage of Raleigh Christmas Parade 2022; search: website via Google knowledge panel 'Southeast Raleigh Magnet High School'; search: state from Google knowledge panel, confirmed by the one NCES school of this name; nces: matched 'Southeast Raleigh High' (0.92); no band page found in 1 pages crawled"
+  },
+  {
+    "school": "Decatur Central High School",
+    "old_state": "IN",
+    "current_state": "",
+    "old_city": "Indianapolis",
+    "old_school_url": "https://www.decaturproud.org/central-high",
+    "current_school_url": "",
+    "old_notes": "nces: unique national match 'Decatur Central High School, Indianapolis IN'; search: website via Google knowledge panel 'Decatur Central High School'; site crawl blocked: TLS failure for https://www.decaturproud.org/central-high: HTTPSConnectionPool(host='www.decaturproud.org', port=443): M"
+  }
+]

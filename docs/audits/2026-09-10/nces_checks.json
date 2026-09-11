@@ -1,0 +1,314 @@
+{
+  "checks": {
+    "non-band": [],
+    "nces-prefix": [],
+    "twins": [
+      "TWINS  Homestead High School: CA: Rose 2025; Rose 2018; IN: BOA Grand National Finalist 2019; BOA Grand National Finalist 2018",
+      "TWINS  Westlake High School: ??: Rose 2024; TX: Rose 2017; UT: Rose 2018"
+    ],
+    "states": [
+      "STATE  Bellefontaine High School: listed as DE, but the only NCES school of this name is 'Bellefontaine High School' in Bellefontaine, OH",
+      "STATE  Defiance High School: listed as DE, but the only NCES school of this name is 'Defiance High School' in Defiance, OH"
+    ],
+    "parades": [],
+    "email-domain": []
+  },
+  "historical_placements": [
+    {
+      "school": "Cherry Creek High School",
+      "stored_state": "CO",
+      "candidates": [
+        {
+          "sch_name": "Cherry Creek High School",
+          "state": "CO",
+          "city": "GREENWOOD VILLAGE",
+          "lea_name": "Cherry Creek School District No. 5 in the county of Arapah",
+          "ncessch": "080291000186"
+        },
+        {
+          "sch_name": "Cherry Creek Elevation",
+          "state": "CO",
+          "city": "CENTENNIAL",
+          "lea_name": "Cherry Creek School District No. 5 in the county of Arapah",
+          "ncessch": "080291006791"
+        }
+      ]
+    },
+    {
+      "school": "South Paulding High School",
+      "stored_state": "GA",
+      "candidates": [
+        {
+          "sch_name": "South Paulding High School",
+          "state": "GA",
+          "city": "Douglasville",
+          "lea_name": "Paulding County",
+          "ncessch": "130402003438"
+        }
+      ]
+    },
+    {
+      "school": "Van Nuys High School",
+      "stored_state": "CA",
+      "candidates": [
+        {
+          "sch_name": "Van Nuys Senior High",
+          "state": "CA",
+          "city": "Van Nuys",
+          "lea_name": "Los Angeles Unified",
+          "ncessch": "062271003424"
+        }
+      ]
+    },
+    {
+      "school": "Concord Community High School",
+      "stored_state": "IN",
+      "candidates": [
+        {
+          "sch_name": "Concord Community High School",
+          "state": "IN",
+          "city": "Elkhart",
+          "lea_name": "Concord Community Schools",
+          "ncessch": "180240000269"
+        }
+      ]
+    },
+    {
+      "school": "East Coweta High School",
+      "stored_state": "GA",
+      "candidates": [
+        {
+          "sch_name": "East Coweta High School",
+          "state": "GA",
+          "city": "Sharpsburg",
+          "lea_name": "Coweta County",
+          "ncessch": "130150002028"
+        }
+      ]
+    },
+    {
+      "school": "Habersham Central High School",
+      "stored_state": "GA",
+      "candidates": [
+        {
+          "sch_name": "Habersham Central High School",
+          "state": "GA",
+          "city": "Mt Airy",
+          "lea_name": "Habersham County",
+          "ncessch": "130258001145"
+        }
+      ]
+    },
+    {
+      "school": "Mira Costa High School",
+      "stored_state": "CA",
+      "candidates": [
+        {
+          "sch_name": "Mira Costa High",
+          "state": "CA",
+          "city": "Manhattan Beach",
+          "lea_name": "Manhattan Beach Unified",
+          "ncessch": "060002506328"
+        }
+      ]
+    },
+    {
+      "school": "Southeast Raleigh High School",
+      "stored_state": "NC",
+      "candidates": [
+        {
+          "sch_name": "Southeast Raleigh High",
+          "state": "NC",
+          "city": "Raleigh",
+          "lea_name": "Wake County Schools",
+          "ncessch": "370472002355"
+        }
+      ]
+    },
+    {
+      "school": "Decatur Central High School",
+      "stored_state": "IN",
+      "candidates": [
+        {
+          "sch_name": "Decatur Central High School",
+          "state": "IN",
+          "city": "Indianapolis",
+          "lea_name": "MSD Decatur Township",
+          "ncessch": "180264000312"
+        }
+      ]
+    }
+  ],
+  "district_recheck_exceptions": [
+    {
+      "school": "Blue Springs High School",
+      "stored_district": "BLUE SPRINGS R-IV",
+      "match": "BLUE SPRINGS HIGH",
+      "new_district": "BLUE SPRINGS R-IV",
+      "ratio": 0.8275862068965517,
+      "others": []
+    },
+    {
+      "school": "Pulaski High School",
+      "stored_district": "Milwaukee School District",
+      "match": "Pulaski High",
+      "new_district": "Pulaski Community School District",
+      "ratio": 0.92,
+      "others": []
+    },
+    {
+      "school": "Clovis High School",
+      "stored_district": "Clovis Unified",
+      "match": null,
+      "new_district": null,
+      "ratio": 0.0,
+      "others": []
+    },
+    {
+      "school": "Downingtown High School",
+      "stored_district": "Downingtown Area SD",
+      "match": null,
+      "new_district": null,
+      "ratio": 0.0,
+      "others": []
+    },
+    {
+      "school": "Louisburg High School",
+      "stored_district": "Louisburg",
+      "match": "Louisburg High",
+      "new_district": "Louisburg",
+      "ratio": 0.782608695652174,
+      "others": []
+    },
+    {
+      "school": "Temple City High School",
+      "stored_district": "Temple City Unified",
+      "match": "Temple City High",
+      "new_district": "Temple City Unified",
+      "ratio": 0.8148148148148148,
+      "others": []
+    }
+  ],
+  "sample": [
+    {
+      "school": "Franklin High School",
+      "stored_district": "Williamson County",
+      "match": "Franklin High School",
+      "district_agrees": true,
+      "ratio": 1.0,
+      "ncessch": "470453001805"
+    },
+    {
+      "school": "Kingsway Regional High School",
+      "stored_district": "Kingsway Regional School District",
+      "match": "Kingsway Regional High School",
+      "district_agrees": true,
+      "ratio": 1.0,
+      "ncessch": "340798002580"
+    },
+    {
+      "school": "Albertville High School",
+      "stored_district": "Albertville City",
+      "match": "Albertville High School",
+      "district_agrees": true,
+      "ratio": 1.0,
+      "ncessch": "010000500871"
+    },
+    {
+      "school": "Rancho Verde High School",
+      "stored_district": "Val Verde Unified",
+      "match": "Rancho Verde High",
+      "district_agrees": true,
+      "ratio": 0.92,
+      "ncessch": "069113510283"
+    },
+    {
+      "school": "Jacket Pride Marching Band",
+      "stored_district": "",
+      "match": null,
+      "district_agrees": false,
+      "ratio": 0.0,
+      "ncessch": null
+    },
+    {
+      "school": "Westbury High School",
+      "stored_district": "HOUSTON ISD",
+      "match": "WESTBURY H S",
+      "district_agrees": true,
+      "ratio": 1.0,
+      "ncessch": "482364002609"
+    },
+    {
+      "school": "Brien McMahon High School",
+      "stored_district": "Norwalk School District",
+      "match": "Brien McMahon High School",
+      "district_agrees": true,
+      "ratio": 1.0,
+      "ncessch": "090309000638"
+    },
+    {
+      "school": "Stephen F. Austin Sonic Boom Marching Band",
+      "stored_district": "",
+      "match": null,
+      "district_agrees": false,
+      "ratio": 0.0,
+      "ncessch": null
+    },
+    {
+      "school": "Biloxi High School",
+      "stored_district": "BILOXI PUBLIC SCHOOL DIST",
+      "match": "BILOXI HIGH SCHOOL",
+      "district_agrees": true,
+      "ratio": 1.0,
+      "ncessch": "280063000053"
+    },
+    {
+      "school": "Mira Mesa High School",
+      "stored_district": "San Diego Unified",
+      "match": "Mira Mesa High",
+      "district_agrees": true,
+      "ratio": 0.92,
+      "ncessch": "063432005520"
+    },
+    {
+      "school": "Carmel High School",
+      "stored_district": "Carmel Clay Schools",
+      "match": "Carmel High School",
+      "district_agrees": true,
+      "ratio": 1.0,
+      "ncessch": "180120000193"
+    },
+    {
+      "school": "Arcadia High School",
+      "stored_district": "Arcadia Unified",
+      "match": "Arcadia High",
+      "district_agrees": true,
+      "ratio": 0.92,
+      "ncessch": "060297000223"
+    },
+    {
+      "school": "Brookwood High School",
+      "stored_district": "Gwinnett County",
+      "match": "Brookwood High School",
+      "district_agrees": true,
+      "ratio": 1.0,
+      "ncessch": "130255001906"
+    },
+    {
+      "school": "Castle High School",
+      "stored_district": "Warrick County School Corp",
+      "match": "Castle High School",
+      "district_agrees": true,
+      "ratio": 1.0,
+      "ncessch": "181239001977"
+    },
+    {
+      "school": "Cherry Creek High School",
+      "stored_district": "",
+      "match": null,
+      "district_agrees": false,
+      "ratio": 0.0,
+      "ncessch": null
+    }
+  ]
+}
