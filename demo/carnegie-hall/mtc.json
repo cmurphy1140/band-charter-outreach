@@ -1,0 +1,61 @@
+{
+  "reviewed_on": "2026-09-11",
+  "research_record": "../../docs/carnegie-hall/research/partner-pilot/SOURCES.md",
+  "organization": {
+    "id": "music-travel-consultants-in-indianapolis",
+    "opportunity_id": "mtc-research-carnegie-2027-03-03",
+    "name": "Music Travel Consultants (MTC)",
+    "city": "Indianapolis",
+    "state": "IN",
+    "type": "Student music tour operator",
+    "status": "Candidate",
+    "event_relationship": "Unconfirmed",
+    "fit": "MTC markets music travel and lists a planned March 3 NYIMF event. The NYIMF/Troen match is unconfirmed. This is an illustrative research candidate.",
+    "next_action": "Research example only. Troen relationship and interest are unknown. No recommendation to contact MTC.",
+    "evidence": [
+      {
+        "label": "Organization identity",
+        "text": "MTC describes itself as an Indianapolis-based tour operator creating customized trips for student music groups.",
+        "source_id": "MTC-02"
+      },
+      {
+        "label": "Public service description",
+        "text": "Its New York City page includes Carnegie Hall among performance-travel options. Marketing copy does not establish a completed MTC trip.",
+        "source_id": "MTC-01"
+      },
+      {
+        "label": "Planned event listing",
+        "text": "Its 2027 calendar lists the New York Invitational Music Festival at Carnegie Hall on March 3 for high school bands, choirs and orchestras. No reviewed page names Troen as producer.",
+        "source_id": "MTC-05"
+      }
+    ],
+    "unknowns": [
+      "Whether the NYIMF listing refers to Troen's March 3 event",
+      "Any MTC/Troen relationship, interest or bookings"
+    ]
+  },
+  "sources": [
+    {
+      "id": "MTC-02",
+      "title": "MTC: company identity",
+      "url": "https://www.musictravel.com/about.html",
+      "type": "Company website",
+      "note": "Company self-description; undated. Pilot claim C1."
+    },
+    {
+      "id": "MTC-01",
+      "title": "MTC: New York City performance trips",
+      "url": "https://www.musictravel.com/new-york-city/new-york-city-performance-trips.html",
+      "type": "Company marketing",
+      "note": "Service description, not dated performance evidence. Pilot claim C6."
+    },
+    {
+      "id": "MTC-05",
+      "title": "MTC: 2027 Carnegie festival calendar",
+      "url": "https://www.musictravel.com/blog/2026/03/17/the-carnegie-hall-experience-2027-student-music-festivals/",
+      "type": "Planned event listing",
+      "evidence_period": "Planned: March 3, 2027",
+      "note": "Published March 17, 2026; updated April 20. Also lists March 31, outside this POC. NYIMF/Troen match unconfirmed. Pilot C7/U1."
+    }
+  ]
+}

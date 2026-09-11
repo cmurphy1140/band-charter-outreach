@@ -2,7 +2,7 @@
 
 [Open the demonstration](index.html) · [Project reference pack](../../docs/carnegie-hall/README.md)
 
-This is a working local prototype for March 3, 2027: reviewed Wando and Salem school examples, an editable opportunity workbook, a Wando director sheet, and two fictional follow-up situations. No real outreach, response, approval, contract, payment, or booking is represented. The broader POC remains in progress.
+This is a working local prototype for March 3, 2027: reviewed Wando and Salem school examples, a small MTC research candidate, an editable opportunity workbook, a Wando director sheet, and two fictional follow-up situations. MTC's NYIMF/Troen event relationship is unconfirmed. It illustrates research capability and carries no recommendation to contact MTC. No real outreach, response, approval, contract, payment, or booking is represented. The broader POC remains in progress.
 
 ## Inspect the result
 
@@ -16,14 +16,16 @@ Then open [the local demonstration](http://127.0.0.1:8765/). Only this demo dire
 
 - [Wando research note](<exports/Troen - Wando Research Note.md>) — evidence, adult role, source links, unknowns, and next action.
 - [Salem research note](<exports/Troen - Salem Research Note.md>) — City of Salem identity, separate Virginia Beach school, undated travel history, and current public program evidence.
-- [Editable opportunity workbook](<outputs/01a08da2-45ab-7181-a80f-a887cb079101/Troen - Carnegie Opportunity Review.xlsx>) — two cases, nine public sources, working dispositions, and review notes.
+- [Editable opportunity workbook](<outputs/01a08da2-45ab-7181-a80f-a887cb079101/Troen - Carnegie Opportunity Review.xlsx>) — two school cases and one tour-operator candidate, twelve public sources, working dispositions, and review notes.
 - [Editable Word director sheet](<exports/Troen - Wando Director Sheet.docx>) — the one-page discussion draft.
 - [Director sheet in Markdown](<exports/Troen - Wando Director Sheet.md>) — portable text version.
 - [Example follow-up brief](<exports/Troen - Example Follow-up.md>) — two fictional situations spanning proposals, approvals, contracts/payments, suppliers, and final coordination.
 
 The Word file and HTML preview are independent editable/readable outputs, not a live Word synchronization feature. A hand edit to the Word file does not change the JSON or browser preview.
 
-The workbook has **Opportunities** and **Evidence** tabs. Amber cells hold your working disposition and notes; they begin with no business decision recorded. Use table filters/sorts so notes and opportunity IDs travel with their entire rows. Source dates distinguish review dates from historical performance dates. Published contacts appear with their evidence, not as an email-import list. This initial two-case workbook is smaller than the proposed varied batch; partner and deliberately insufficient-evidence examples remain to be added if useful.
+The workbook has **Opportunities** and **Evidence** tabs. Amber cells hold your working disposition and notes; they begin with no business decision recorded. Use table filters/sorts so notes and opportunity IDs travel with their entire rows. Source dates distinguish review dates from historical performance dates and planned listings. Published school contacts appear with their evidence. MTC has no contact field in this example. This small workbook is still smaller than the proposed varied batch.
+
+The MTC card uses three sources from the [reviewed pilot register](../../docs/carnegie-hall/research/partner-pilot/SOURCES.md): company identity (MTC-02/C1), NYC services (MTC-01/C6), and a planned March 3 calendar listing (MTC-05/C7/U1). A matching date does not establish Troen as the producer or an MTC relationship. The original internal partner sheet remains outside the demo; this example adds no partner pitch or outreach strategy.
 
 ## Design and implementation choices
 
@@ -48,14 +50,15 @@ All existing image and font paths were inventoried before visual work. The repos
 |---|---|
 | [example.json](example.json) | Reviewed facts, source IDs, draft director copy, and separately labeled fictional scenarios |
 | [salem.json](salem.json) | Separate Salem research, identity distinction, adult role, and source register |
+| [mtc.json](mtc.json) | Illustrative tour-operator candidate, unconfirmed event relationship, and three previously reviewed sources |
 | [review.cjs](review.cjs) | Shared record loading, unique identities, source ownership checks, and safe spreadsheet text |
 | [build-workbook.mjs](build-workbook.mjs) | Editable XLSX using the Codex bundled artifact library; no legacy data writes |
 | [index.template.html](index.template.html) | Shared page structure and navigation |
 | [styles.css](styles.css) | Responsive presentation and focus/reduced-motion treatment |
 | [app.js](app.js) | In-page navigation and resettable scenario selection; no network requests or persistent state |
-| [build.cjs](build.cjs) | Escaped HTML, editable DOCX/Markdown exports, and manual-edit protection |
+| [build.cjs](build.cjs) | Escaped HTML, editable DOCX/Markdown exports, manual-edit protection, and HTML-only refresh |
 | [tests](../../tests/carnegie_demo.test.cjs) | Escaping, missing contact, source/date/scenario boundaries, and preservation checks |
-| [Review tests](../../tests/carnegie_review.test.cjs) | Duplicate identities, cross-school sources, spreadsheet text safety, and workbook preservation |
+| [Review tests](../../tests/carnegie_review.test.cjs) | Duplicate identities, cross-record sources, candidate boundaries, spreadsheet text safety, and preservation |
 
 Node 20+ and `docx` 9.6.1 are needed to rebuild. Viewing the checked-in/generated files needs neither Node nor a package installation. The first build used the Codex bundled Node package location returned by `load_workspace_dependencies`; it is machine-specific and should be rediscovered in a new environment.
 
@@ -74,12 +77,14 @@ The existing workbook is included when `build.cjs --out <new-directory>` package
 
 Build the workbook after changing reviewed research, then build the HTML/Word outputs. They are separate commands; a normal demo rebuild does not refresh workbook research automatically. Before handoff, check both artifacts against the input files. Workbook notes and dispositions are not imported back into JSON. Its existing hash is checked before replacement, so a manually edited workbook blocks regeneration. Preserve the edited original and use the workbook builder’s `--out <new-directory>` for a separate revision; reconcile decisions by opportunity ID. Never delete the manifest to force a refresh.
 
+For a change limited to the research cards, run `node demo/carnegie-hall/build.cjs --html-only` after the workbook build. This refreshes only `index.html`, retaining the edited-HTML guard and leaving all workbook, Word and Markdown exports untouched. It does not reconcile altered director copy or create a standalone package. Use the full build for changes to those deliverables. The MTC connection used this narrower path, preserving all existing exports byte-for-byte.
+
 `.generated-manifest.json` records generated-file hashes. Before writing anything, a rebuild refuses to replace an edited or unregistered output. Resolve the change deliberately, or build a separate revision using `node demo/carnegie-hall/build.cjs --out <new-directory>` from the repo root with `docx` available. Do not delete the manifest or discard a manual correction to bypass that protection. A new output directory receives HTML, styles, script, and exports; carry the source folder separately if the receiving environment must rebuild it.
 
 ## Verified and still open
 
-The first workbook now covers two schools, with the original Wando-only director sheet clearly labeled. Provider comparison, partner materials, a broader varied batch, and operating integrations remain unfinished. Published contact information is not permission to send. No capacity counter, price, booking likelihood, or employee-reported financial information is shown in the demo.
+The workbook covers two schools and one illustrative MTC candidate, with the original Wando-only director sheet clearly labeled. The MTC event relationship is unconfirmed. Provider comparison, fuller partner materials, a broader varied batch, and operating integrations remain unfinished. Published contact information is not permission to send. No capacity counter, price, booking likelihood, or employee-reported financial information is shown in the demo.
 
 Current verification results and the running-server state are maintained in [PROGRESS.md](../../docs/carnegie-hall/PROGRESS.md). The source register distinguishes the Midwest Clinic’s actual December 2019 performance detail from its current 2026 site banner. The event brochure covers both March dates; its inclusions are qualified, and March 31 inventory or supplier terms were not transferred to March 3.
 
-Suggested next iteration: add a public tour-partner example and matching partner sheet, bringing a different business conversation into the demonstration before collecting many more schools. Salem began with an identity problem but yielded useful primary evidence; do not manufacture a weak classification to fit the sample design. Cloud work follows the [existing handoff procedure](../../docs/carnegie-hall/strategies/08-iteration-and-delivery.md#iphone-and-cloud-handoffs); this local demo does not establish cloud or phone access.
+The user narrowed the tour-partner addition to a small research example; connecting the internal partner sheet is deferred. A short March 3 FAQ from existing event evidence is a possible later increment. Salem began with an identity problem but yielded useful primary evidence; do not manufacture a weak classification to fit the sample design. Cloud work follows the [existing handoff procedure](../../docs/carnegie-hall/strategies/08-iteration-and-delivery.md#iphone-and-cloud-handoffs); this local demo does not establish cloud or phone access.

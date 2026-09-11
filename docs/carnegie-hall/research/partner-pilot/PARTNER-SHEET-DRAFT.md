@@ -10,15 +10,20 @@ facts about the partner come from its public website ([sources](SOURCES.md)).
 
 ## A performance date your directors can plan around
 
+Current scope: this sheet is a retained internal reference. The connected MTC
+example demonstrates research only, with an unconfirmed event relationship and
+no outreach strategy or recommendation to contact MTC.
+
 **Wednesday, March 3, 2027 — Carnegie Hall, Stern Auditorium / Perelman Stage.**
-Troen produces a concert experience for high school bands, choirs and orchestras. One
-participating group is already reported by Troen staff; additional ensembles are
-being sought for the same evening, subject to capacity confirmation.
+The shared brochure describes a concert experience for bands, choirs and orchestras;
+specific March 3 eligibility remains subject to a group-specific offer. One
+participating group is employee-reported; additional ensembles are being sought
+for the same evening, subject to capacity confirmation.
 
 ## What the festival component includes
 
-Drawn from the shared brochure; final March 3 inclusions are confirmed in a
-group-specific offer.
+Drawn from the shared brochure; final March 3 inclusions would need confirmation
+in a group-specific offer.
 
 - **Preparation with purpose** — a one-hour clinic at Boulevard Carroll Music Studios
   with preparation support before the performance.
@@ -40,12 +45,12 @@ These are proposals for discussion, not agreed responsibilities.
 
 ## Why raise it with a travel partner now
 
-- The partner already sells New York performance trips to the same kinds of ensembles
-  and publishes a 2027 Carnegie festival calendar, so its directors are choosing dates now.
-- The partner states that festival applications typically open 12–18 months ahead;
-  March 3, 2027 sits inside that window.
-- A single travel partner can bring several suitable ensembles to one date, while
-  Troen keeps the performance experience consistent for each of them.
+- MTC markets New York performance trips and publishes a 2027 Carnegie calendar,
+  making it a relevant example for a proposed partner conversation.
+- Its general application lead-time guidance supports advance preparation; current
+  March 3 availability and application deadlines remain unconfirmed.
+- A proposed partnership could coordinate several suitable groups around one date;
+  no partner interest, referred ensembles or agreed booking volume is claimed.
 
 ## What Troen would need from a partner
 
@@ -53,7 +58,7 @@ These are proposals for discussion, not agreed responsibilities.
 - The group's travel dates around March 3 so the clinic and soundcheck can be placed.
 - The name and role of the adult who will confirm the school's participation.
 
-## What a partner can expect from Troen
+## Proposed support from Troen
 
 - Clear, dated event facts for its director materials.
 - A group-specific offer that states inclusions, eligibility, deadlines and price basis
@@ -63,9 +68,11 @@ These are proposals for discussion, not agreed responsibilities.
 
 ## Open points before this leaves the building
 
-Confirm capacity for additional ensembles, the commercial basis with tour partners,
-who contracts with the school, and whether the partner already lists Troen's event.
-None of these are stated above, and none should be implied in conversation until agreed.
+The NYIMF listing's match to Troen is explicitly unconfirmed. Capacity, commercial
+terms, relationship history and responsibility questions stay in the
+[internal decision register](../../INTERNAL-DECISIONS.md). Resolve only the facts
+needed before an authorized external offer. Business answers are not a prerequisite
+for accepting this internal draft; no contact is authorized or implied.
 
 ---
 

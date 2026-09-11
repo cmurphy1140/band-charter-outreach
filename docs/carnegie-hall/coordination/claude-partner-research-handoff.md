@@ -1,5 +1,13 @@
 # Handoff — task `claude-partner-research`
 
+**Coordinator review addendum:** the worker account below records the original
+`e171954` delivery. Current source accounting and the revised internal next step
+in [SOURCES.md](../research/partner-pilot/SOURCES.md) and
+[PROFILE.md](../research/partner-pilot/PROFILE.md) supersede its seven-page total
+and business-confirmation-first recommendation. The NYIMF/Troen match remains
+explicitly unconfirmed; no Troen answers are required to accept the internal draft.
+See [shared progress](../PROGRESS.md) for the integration receipt.
+
 Worker: Claude Code (Claude Desktop, Local session on the Mac). Coordinator: the main
 Codex task "Troen Prospects Pipeline". Assignment:
 [2026-09-11-partner-pilot.md](2026-09-11-partner-pilot.md). Status: **ready for coordinator review**;

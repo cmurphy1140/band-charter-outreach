@@ -72,9 +72,23 @@ function comparisonHtml(record) {
     <details><summary>Inspect the Salem evidence</summary>${s.evidence.map(e => `<p><strong>${escapeHtml(e.label)}:</strong> ${escapeHtml(e.text)} ${sourceLink(record, e.source_id)}</p>`).join('')}
     <p><strong>Published adult role:</strong> ${escapeHtml(s.contact?.name || 'Name not verified')}, ${escapeHtml(s.contact?.role || 'Role not verified')}.<br>${escapeHtml(s.contact?.email || 'Email not verified')}</p><p class="small">${escapeHtml(s.contact?.status || 'Contact not verified.')} ${s.contact?.source_id ? sourceLink(record, s.contact.source_id) : ''}</p>
     <a class="secondary-link" href="exports/Troen - Salem Research Note.md" download>Download Salem research note</a></details>
-    </div><aside class="review-download"><h3>Take both cases into your own review</h3><p>The workbook keeps source observations separate from editable decisions and notes.</p>
+    </div><aside class="review-download"><h3>Inspect the research workbook</h3><p>The workbook keeps source observations separate from editable decisions and notes.</p>
     <a class="button" href="${escapeHtml(workbookPath)}" download>Download opportunity workbook</a>
-    <p class="small">Two research examples. Neither school’s interest, eligibility, calendar fit, or relationship with Troen is established. The director sheet above is tailored to Wando only.</p></aside></section>`;
+    <p class="small">Two school cases and one illustrative tour-operator candidate. Neither school’s interest, eligibility, calendar fit, or relationship with Troen is established. The director sheet above is tailored to Wando only.</p></aside></section>`;
+}
+
+function candidateHtml(record) {
+  const s = record.organization;
+  return `<section id="mtc-example" class="sources" aria-labelledby="candidate-title">
+    <p class="context">Research capability example <span class="tag">${escapeHtml(s.status)}</span></p>
+    <h2 id="candidate-title">${escapeHtml(s.name)}</h2>
+    <p>${escapeHtml(s.type)} · ${escapeHtml(s.city)}, ${escapeHtml(s.state)}</p>
+    <p>${escapeHtml(s.fit)}</p><p class="small">${escapeHtml(s.next_action)}</p>
+    <details><summary>Inspect the MTC evidence</summary>
+    ${s.evidence.map(e => `<p><strong>${escapeHtml(e.label)}:</strong> ${escapeHtml(e.text)} ${sourceLink(record, e.source_id)}</p>`).join('')}
+    <p class="small">Reviewed ${escapeHtml(record.reviewed_on)}. The calendar was published March 17, 2026 and updated April 20. Its separate March 31 listing is outside this POC.</p>
+    <h3>Still unknown</h3><ul>${s.unknowns.map(x => `<li>${escapeHtml(x)}</li>`).join('')}</ul>
+    </details></section>`;
 }
 
 function scenarioHtml(data) {
@@ -124,11 +138,16 @@ function researchMarkdown(data) {
   return `# ${s.name}: Carnegie research example\n\nReviewed ${data.reviewed_on}. ${s.city}, ${s.state}. ${s.district}.\n\n**${data.event.display_date}** — ${s.ensemble}.\n\n## Evidence\n\n${evidence}\n\n## Interpretation\n\n${s.fit}\n\n## Published adult role\n\n${contact}\n\n## Unknowns\n\n${s.unknowns.map(x => `- ${x}`).join('\n')}\n\n## Next useful action\n\n${s.next_action}\n\n## Source register\n\n${data.sources.map(x => `- **${x.id}: [${x.title}](${x.url})** — ${x.note}`).join('\n')}\n\n## Provenance and scope\n\n${s.origin}\n\nOpportunity ID: ${s.opportunity_id}. No outreach sent; no buying probability or confirmed booking is assigned. Event details derive from Troen’s supplied overview, pages 1–2 (P01), and March 3 license photograph (I06). ${data.event.qualification}\n`;
 }
 
-async function build(outputDir = __dirname) {
-  const [data, salem] = loadReview();
+async function build(outputDir = __dirname, htmlOnly = false) {
+  const [data, salem, mtc] = loadReview();
   validateExample(data);
   let html = fs.readFileSync(path.join(__dirname, 'index.template.html'), 'utf8');
-  for (const [key, content] of Object.entries({ research: researchHtml(data) + comparisonHtml(salem), material: materialHtml(data), followup: scenarioHtml(data) })) html = html.replace(`{{${key}}}`, content);
+  for (const [key, content] of Object.entries({ research: researchHtml(data) + comparisonHtml(salem) + candidateHtml(mtc), material: materialHtml(data), followup: scenarioHtml(data) })) html = html.replace(`{{${key}}}`, content);
+  if (htmlOnly) {
+    publishGenerated(outputDir, { 'index.html': html });
+    console.log(`Refreshed HTML in ${outputDir}. Existing exports are untouched.`);
+    return;
+  }
   const files = { 'index.html': html, 'exports/Troen - Wando Director Sheet.docx': await makeDocx(data), 'exports/Troen - Wando Director Sheet.md': makeDirectorMarkdown(data), 'exports/Troen - Example Follow-up.md': followupMarkdown(data), 'exports/Troen - Wando Research Note.md': researchMarkdown(data) };
   files['exports/Troen - Salem Research Note.md'] = researchMarkdown(salem);
   const workbook = path.join(__dirname, workbookPath);
@@ -139,9 +158,9 @@ async function build(outputDir = __dirname) {
   console.log(`Built ${Object.keys(files).length} files in ${outputDir}. Existing manual edits are protected.`);
 }
 
-module.exports = { escapeHtml, validateExample, publishGenerated, researchHtml, researchMarkdown, makeDirectorMarkdown, comparisonHtml };
+module.exports = { escapeHtml, validateExample, publishGenerated, researchHtml, researchMarkdown, makeDirectorMarkdown, comparisonHtml, candidateHtml };
 if (require.main === module) {
   const index = process.argv.indexOf('--out');
   if (index !== -1 && !process.argv[index + 1]) throw new Error('--out requires a directory.');
-  build(index === -1 ? __dirname : path.resolve(process.argv[index + 1])).catch(error => { console.error(error.message); process.exitCode = 1; });
+  build(index === -1 ? __dirname : path.resolve(process.argv[index + 1]), process.argv.includes('--html-only')).catch(error => { console.error(error.message); process.exitCode = 1; });
 }

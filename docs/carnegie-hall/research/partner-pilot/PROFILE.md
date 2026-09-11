@@ -29,7 +29,7 @@ No relationship owner, permission-to-contact status, or prior Troen contact is k
 - **Trip delivery services**: professional Tour Directors travelling with groups, a
   Trip Account app with itineraries and group chat, online sign-up and payment, and
   a Gift Link fundraising option (C15).
-- **Festival access, not festival production**: MTC's NYC page and its 2027 Carnegie
+- **Public festival catalog; production role unconfirmed**: MTC's NYC page and its 2027 Carnegie
   calendar route groups to third-party producers such as Manhattan Concert Productions,
   National Concerts and MidAmerica Productions (C6, C7, C8). No evidence shows MTC
   producing its own Carnegie concert (U6).
@@ -47,10 +47,10 @@ MTC published a "2027 Student Music Festivals at Carnegie Hall" calendar on Marc
 2026 (updated April 20, 2026). Its March block lists **"New York Invitational Music
 Festival Carnegie Hall — March 3, 2027 and March 31, 2027 — High school bands, choirs
 and orchestras"** (C7). Those are exactly Troen's two 2027 dates, and Troen's supplied
-budget file is titled "NYIMF 2027 Budget". The match is therefore **likely but
-unconfirmed** (U1): no reviewed page names Troen, and the brochure text could not be
-machine-read in this pass. If confirmed, MTC already presents Troen's festival to its
-directors as one of roughly ten 2027 Carnegie options.
+budget file is titled "NYIMF 2027 Budget". This is a possible match, **explicitly
+unconfirmed** (U1). Matching dates and a filename do not establish the producer;
+no reviewed public page names Troen. Treat the listing as an unconfirmed event
+identity clue, not evidence that MTC sells Troen's event or has a Troen relationship.
 
 Whatever the confirmation, MTC is a plausible **partner channel**: it sells the travel
 package, escorts the group, and relies on producers for the performance component.
@@ -61,11 +61,11 @@ services" (C10), which is consistent with a festival/travel division of responsi
 
 | Fit signal | Why it matters for Troen | Evidence |
 |---|---|---|
-| Sells NYC performance trips to school ensembles of the March 3 types (band, choir, orchestra) | Same customer, complementary product | C6, C7 |
+| Sells NYC performance trips to school ensembles of the March 3 types (band, choir, orchestra) | Potential customer/product overlap; March 3 eligibility remains unconfirmed | C6, C7 |
 | Already publishes a Carnegie festival calendar for 2027, including March 3 | Directors planning through MTC can see the date now | C7 |
 | Escorted delivery (Tour Directors, app, payments) | Covers the travel and on-trip coordination that a school would otherwise need Troen or itself to manage | C15 |
-| Broad reach through Music for All / BOA, WGI and state associations | Access to instrumental programs beyond Troen's own list | C11 |
-| Applications "typically open 12-18 months in advance" | Suggests the 2027 planning window is already open from MTC's perspective | C9 |
+| Broad reach through Music for All / BOA, WGI and state associations | Potential program-network relevance; audience reach and overlap are unverified | C11 |
+| Applications "typically open 12-18 months in advance" | General lead-time guidance; does not establish current March 3 availability or deadlines | C9 |
 
 ## Potential conflicts and competitor reading
 
@@ -75,9 +75,10 @@ services" (C10), which is consistent with a festival/travel division of responsi
 - **Own competitive events.** Through Heart of America, MTC is tied to a competitive
   choir event organizer that runs NYC events (C12). That competes for the same
   choir trip budgets and dates.
-- **Agent posture.** MTC's responsibility statement places delivery risk with
-  suppliers (C10). Any joint offer must state clearly who the school contracts with
-  for the performance and who holds the venue obligations.
+- **Agent posture.** MTC publishes an agent/responsibility statement (C10).
+  Its wording does not establish an agreed Troen/MTC division of responsibility or
+  the legal effect of a future contract; those remain internal decisions before
+  any external joint offer.
 - **Territory overlap is untested.** MTC markets nationally; Troen's map preference is
   East Coast. Neither side has published exclusivity, so no conflict is documented (U4, U5).
 - **No proof of past Carnegie delivery.** A testimonial mentions Carnegie (C16), but
@@ -93,11 +94,10 @@ these from inference.
 
 ## Next useful action
 
-1. Ask the Troens one question: is "New York Invitational Music Festival" the name of
-   the March 3 / March 31 event, and has MTC been in contact about 2027? Their answer
-   changes the partner sheet from a cold introduction to a follow-up.
-2. If confirmed, add MTC to the opportunity workbook as a partner case linked to the
-   March 3 event, with the blog listing as its evidence and relationship "unknown".
-3. Before any approach, settle who may contact a partner and on what terms (internal
-   decision register), then use the [partner sheet draft](PARTNER-SHEET-DRAFT.md)
-   as the conversation basis. No message is implied by this profile.
+MTC is now connected to the workbook and demo as a small illustrative research
+candidate. The user narrowed this connection: no outreach strategy or recommendation
+to contact MTC. The NYIMF/Troen match, relationship and interest remain unconfirmed.
+The [partner sheet draft](PARTNER-SHEET-DRAFT.md) is retained separately as an
+internal reference, not presented as an action to take. No business answers are
+needed to accept the example. Existing questions remain in the
+[internal decision register](../../INTERNAL-DECISIONS.md); no one is contacted.

@@ -5,7 +5,7 @@ import { fileURLToPath, pathToFileURL } from 'node:url';
 import review from './review.cjs';
 import generator from './build.cjs';
 
-const { loadReview, safeCell, workbookPath, dispositions } = review;
+const { loadReview, subject, safeCell, workbookPath, dispositions } = review;
 const root = path.dirname(fileURLToPath(import.meta.url));
 const runtime = process.env.TROEN_WORKBOOK_RUNTIME;
 if (!runtime) throw new Error('Set TROEN_WORKBOOK_RUNTIME to a scratch folder with the bundled node_modules link. See README.');
@@ -54,15 +54,18 @@ title(opportunities, 'Troen / Carnegie opportunity review', 'F');
 opportunities.getRange('A3').values = [[`March 3, 2027 • ${records.length} research examples; interest, availability and eligibility are unverified.`]];
 opportunities.getRange('A4').values = [['Amber cells are editable working decisions and notes. Source observations and published contacts are on Evidence.']];
 opportunities.getRange('A3:A4').format.rowHeight = 23;
-const rows = records.map(r => [
-  `${r.school.name}\n${r.school.city}, ${r.school.state}`,
-  r.school.fit,
-  r.school.next_action,
-  'To review',
-  null,
-  r.school.opportunity_id
-]);
-table(opportunities, ['School / location', 'Research interpretation', 'Next internal step', 'Disposition', 'Working notes', 'Opportunity ID'], rows, 'OpportunityReview');
+const rows = records.map(r => {
+  const s = subject(r);
+  return [
+    `${s.name}\n${s.city}, ${s.state}${r.organization ? `\n${s.status}: ${s.type}` : ''}`,
+    s.fit,
+    s.next_action,
+    'To review',
+    null,
+    s.opportunity_id
+  ];
+});
+table(opportunities, ['Organization / location', 'Research interpretation', 'Next internal step', 'Disposition', 'Working notes', 'Opportunity ID'], rows, 'OpportunityReview');
 opportunities.getRange(`A7:F${opportunityEnd}`).format.rowHeight = 92;
 opportunities.getRange(`D7:E${opportunityEnd}`).format.fill = colors.input;
 opportunities.getRange(`D7:D${opportunityEnd}`).dataValidation = { rule: { type: 'list', values: dispositions } };
@@ -76,13 +79,14 @@ evidence.getRange('A3').values = [['Checked dates record the review, not when a 
 evidence.getRange('A4').values = [['Published adult contacts do not establish deliverability, an existing relationship, or permission to send.']];
 evidence.getRange('A3:A4').format.rowHeight = 23;
 const sourceRows = records.flatMap(r => r.sources.map(s => {
-  const observations = r.school.evidence.filter(e => e.source_id === s.id).map(e => e.text);
-  if (r.school.contact?.source_id === s.id) observations.unshift(`${r.school.contact.name}, ${r.school.contact.role}: ${r.school.contact.email}.`);
+  const organization = subject(r);
+  const observations = organization.evidence.filter(e => e.source_id === s.id).map(e => e.text);
+  if (organization.contact?.source_id === s.id) observations.unshift(`${organization.contact.name}, ${organization.contact.role}: ${organization.contact.email}.`);
   const period = s.evidence_date ? new Date(`${s.evidence_date}T00:00:00Z`) : s.evidence_period || 'Undated page';
-  return [s.id, `${r.school.name}\n${r.school.city}, ${r.school.state}`, [...observations, s.note].join(' '), period, new Date(`${r.reviewed_on}T00:00:00Z`), s.type, s.url];
+  return [s.id, `${organization.name}\n${organization.city}, ${organization.state}`, [...observations, s.note].join(' '), period, new Date(`${r.reviewed_on}T00:00:00Z`), s.type, s.url];
 }));
 // Keep each source URL in the same sortable row as its observation.
-table(evidence, ['Source ID', 'School record', 'Observed fact / source context', 'Evidence date or period', 'Checked', 'Source type', 'Source URL'], sourceRows, 'PublicEvidence');
+table(evidence, ['Source ID', 'Organization record', 'Observed fact / source context', 'Evidence date or period', 'Checked', 'Source type', 'Source URL'], sourceRows, 'PublicEvidence');
 evidence.getRange(`A7:G${evidenceEnd}`).format.rowHeight = 78;
 evidence.getRange(`D7:E${evidenceEnd}`).setNumberFormat('mm/dd/yy');
 evidence.getRange(`G7:G${evidenceEnd}`).format.font = { name: 'Arial', size: 11, color: colors.accent };

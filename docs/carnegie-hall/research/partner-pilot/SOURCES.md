@@ -22,8 +22,27 @@ re-fetch can be compared. Search snippets are discovery clues, not claims.
 | EPT-01 | https://www.educationalperformancetours.org/carnegie-hall-performance-tours/ | 2026-09-11 05:34 UTC, HTTP 200 | Series descriptions ("EPT and Manhattan Concert Productions…"), venue lists "in 2018". SHA-256 `7fc86634…9d08a7c` | Candidate screened out (not the selected provider) |
 | FW-01 | https://fourwindstours.com/behind-the-scenes-producing-a-music-extravaganza-at-carnegie-hall/ | 2026-09-11 05:34 UTC, **HTTP 403** | Site returned a 403 page to the plain request and its `robots.txt` request; not bypassed. SHA-256 of the 403 page `ac4f7803…82cd722f` | Blocked; snippet only, no claim accepted |
 
-Provider page count for Music Travel Consultants: **7 of the 8 allowed.** No `.env`
-was read; no SerpAPI, Firecrawl, Zyte or Apify request was made.
+### Aggregate page accounting
+
+| Screened provider | Distinct content URLs attempted | Readable pages reviewed | Blocked attempts |
+|---|---:|---:|---:|
+| Music Travel Consultants | 7 | 7 | 0 |
+| Educational Performance Tours | 1 | 1 | 0 |
+| Fourwinds Tours | 1 | 0 | 1 |
+| **Total** | **9** | **8** | **1** |
+
+The original seven-page count covered only the selected provider. Across screening,
+the record supports eight readable pages and nine attempted content URLs. Robots
+requests and the supplied search cache are separate from content pages. This is
+not a clean pass against an eight-attempt cap: it includes one extra blocked
+attempt. The original assignment described eight pages for the selected provider;
+the coordinator accepts the useful internal draft while recording that accounting
+limitation. Future caps count all attempted provider content URLs, including
+blocked pages and screened-out providers. No further candidate discovery is needed.
+
+These counts reconcile the worker's source register and handoff; a complete request
+log was not supplied. The worker reports no `.env` access and no SerpAPI, Firecrawl,
+Zyte or Apify request. The coordinator made no paid API call during review.
 
 ## Supported claims
 
@@ -44,13 +63,13 @@ was read; no SerpAPI, Firecrawl, Zyte or Apify request was made.
 | C13 | MTC runs Musicians Abroad (international state-group tours) and Educational Destinations (non-music learning tours) as divisions. | MTC-07 "A Division of…" and "Educational Division…" sections; MTC-02 timeline | Public fact |
 | C14 | MTC reports a 2025 School Band & Orchestra Teachers' Choice Award for Best Travel Company. | MTC-07 awards section | Public fact (self-reported award) |
 | C15 | Trip services described include a Trip Account app with daily itineraries and group chat, MTC Tour Directors travelling with groups, fundraising "Gift Link", and online sign-up/payment. | MTC-01 app/tour-director blocks; MTC-02 timeline | Public fact (service description) |
-| C16 | A testimonial from a Texas director mentions taking groups to Carnegie Hall with MTC. | MTC-01 testimonials: "As director of bands at Stephen F. Austin HS, Texas, I took groups to Carnegie Hall, Midwest Clinic…" | Undated testimonial; not a verified completed performance record |
+| C16 | A director testimonial mentions Carnegie among past destinations and praises an MTC trip, but does not identify which trip or establish dated Carnegie delivery by MTC. | MTC-01 testimonials: "As director of bands at Stephen F. Austin HS, Texas, I took groups to Carnegie Hall, Midwest Clinic…" | Undated testimonial; trip attribution and completed performance unverified |
 
 ## Interpretations and uncertainties
 
 | # | Item | Status |
 |---|---|---|
-| U1 | Whether "New York Invitational Music Festival Carnegie Hall" (C7) is Troen's event. The supplied budget file is named "NYIMF 2027 Budget" ([P02](../../BUSINESS-CONTEXT.md)) and the dates match Troen's March 3 and March 31 dates, but the brochure text was not machine-readable here and no page names Troen. | **Likely but unconfirmed**; confirm with the Troens before relying on it |
+| U1 | Whether "New York Invitational Music Festival Carnegie Hall" (C7) is Troen's event. The supplied budget file is named "NYIMF 2027 Budget" ([P02](../../BUSINESS-CONTEXT.md)) and the dates match Troen's March 3 and March 31 dates, but the brochure text was not machine-readable here and no page names Troen. | **Explicitly unconfirmed**; record internally. No answer is required to accept this draft; verify before representing the listing externally as Troen's event |
 | U2 | Whether MTC has an existing relationship, agreement, or past groups with Troen. A calendar listing is not a relationship. | **Unknown** |
 | U3 | Whether MTC has actually delivered groups to Carnegie Hall. C6 and C16 are marketing copy and an undated testimonial; no dated performance record was reviewed. | **Unverified** |
 | U4 | Commercial terms with tour operators (net rates, commission, holds, exclusivity, who contracts the school). No public source. | **Unknown; never inferred** |
@@ -69,3 +88,31 @@ was read; no SerpAPI, Firecrawl, Zyte or Apify request was made.
   out link lists before reading. Quoted passages were checked against the saved HTML.
 - Carnegie Hall's own pages, The New York Pass, and Facebook results in SERP-01
   are not providers and were not fetched.
+
+## Coordinator source review — September 11, 2026
+
+The seven MTC URLs and EPT-01 were checked again during review; no new provider
+was screened and FW-01 was not retried. Names/roles, office contact, public
+services, the planned calendar listing and self-described affiliations were
+supported. Affiliations and awards remain company claims, not independent
+certification checks. Provider marketing is not completed-performance evidence.
+
+C3 was also checked in the raw markup of MTC-04 and MTC-05 after checking
+robots.txt and spacing requests. The organizational quote/support mailboxes are
+present; they establish neither personal-role attribution nor permission to send.
+Fresh response SHA-256 values (their prefixes/suffixes match the worker's abbreviated
+records; this does not validate every original response):
+
+- MTC-04: `e4c1f53bb4a1750d486f46f4c7a68772c212450e16947ff236e17b1efc37f97e`
+- MTC-05: `6461fcd977ae30c75234f9a571a2837f0fa41eeed194869247dd9454e260d98c`
+
+The other abbreviated response hashes and disposable scratch copies do not
+constitute a durable, independently replayed archive. Exact URLs, review dates,
+claim IDs and section locators remain the usable evidence trail. The coordinator's
+rechecks are separate from the worker's original page-budget accounting.
+
+The draft's application-window inference was removed: September 11, 2026 is less
+than six months before March 3, 2027, not 12–18 months. C9 supports only general
+advance-planning guidance; current application status, availability and deadlines
+remain unknown. C16 was narrowed to avoid assigning a particular Carnegie trip
+to MTC from an ambiguous testimonial. The NYIMF/Troen match remains unconfirmed.

@@ -27,7 +27,7 @@ Potential reuse points are [shared fetch/caching](../../../scrapers/common.py), 
 
 ## Workbook structure and expansion
 
-**Implemented September 11, 2026:** the [initial workbook](<../../../demo/carnegie-hall/outputs/01a08da2-45ab-7181-a80f-a887cb079101/Troen - Carnegie Opportunity Review.xlsx>) uses two tabs: Opportunities for the two reviewed school cases and editable decisions/notes, and Evidence for nine public sources, adult contacts, source periods, and review dates. Both tables keep related fields within the same sortable row. No score, lead guarantee, or buying probability is assigned.
+**Implemented September 11, 2026:** the [initial workbook](<../../../demo/carnegie-hall/outputs/01a08da2-45ab-7181-a80f-a887cb079101/Troen - Carnegie Opportunity Review.xlsx>) uses two tabs: Opportunities for two school cases, one illustrative MTC candidate and editable decisions/notes, and Evidence for twelve public sources, school contacts, source periods, and review dates. MTC is an organization distinct from the schools; its NYIMF/Troen event relationship is unconfirmed. Both tables keep related fields within the same sortable row. No score, lead guarantee, or buying probability is assigned.
 
 The structure below remains an expansion option if the batch develops distinct partner/review workflows. Do not create thin tabs merely to match this earlier outline.
 
@@ -43,9 +43,10 @@ Use a stable organization ID plus a separate ensemble/opportunity ID. Link a par
 
 ## The scraping line to walk
 
-Reuse [SerpAPI](../../../scrapers/serpapi.py) for discovery; start the proposed
-partner example by reviewing the already cached `student music performance tours
-Carnegie Hall` query in `data/raw/serpapi-validation/` on the original Mac. A fresh
+Reuse [SerpAPI](../../../scrapers/serpapi.py) for discovery. The completed partner
+pilot began with the already cached `student music performance tours Carnegie Hall`
+query in `data/raw/serpapi-validation/` on the original Mac. Its MTC example reused
+reviewed sources without another discovery pass. A fresh
 checkout does not contain that ignored cache. Search snippets are discovery clues;
 open the underlying permitted source before accepting an identity, role or event
 claim. Record the query, retrieval date and source chosen; do not repeat paid
@@ -108,7 +109,15 @@ The archive exposed a useful date trap: its site banner promotes 2026 while Wand
 
 **Second checkpoint — September 11:** [Salem's reviewed note](<../../../demo/carnegie-hall/exports/Troen - Salem Research Note.md>) separates the City of Salem school from the Virginia Beach SunDevils. The original row had no city/contact and flagged two candidates. School/program identity, concert ensembles, and the explicit adult role support a separate Carnegie research record. The program's Philadelphia reference is undated; the legacy 2022 label was not promoted to a verified performance date. No original prospect row was rewritten.
 
-This began as a possible insufficient-evidence example, but primary sources resolved useful questions. Let evidence change the conclusion. Do not label a school weak merely to create contrast. The two-school sample still lacks a partner and a genuinely insufficient-evidence case; neither absence blocks inspecting the current workbook. The checks reject duplicate identities/opportunities and cross-school source references, protect spreadsheet text from formula interpretation, and preserve manually edited workbook files. These checks validate the reviewed-data path, not the legacy enrichment system.
+This began as a possible insufficient-evidence example, but primary sources resolved useful questions. Let evidence change the conclusion. Do not label a school weak merely to create contrast. A deliberately insufficient-evidence case remains optional. The checks reject duplicate identities/opportunities and cross-record source references, protect spreadsheet text from formula interpretation, and preserve manually edited workbook files. These checks validate the reviewed-data path, not the legacy enrichment system.
+
+**Third checkpoint — September 11:** MTC is a small illustrative research candidate
+in the workbook and demo, using three previously reviewed sources. Its identity,
+NYC service description and planned March 3 listing demonstrate useful research
+without establishing the NYIMF/Troen match, a relationship or interest. The user
+explicitly excludes an outreach strategy or recommendation to contact MTC.
+The internal partner sheet stays separate. No business answers, contact record,
+new discovery pass or larger batch were needed for this example.
 
 Send the reviewed cases to [design](04-poc-experience-and-design.md) and [materials](05-director-and-partner-materials.md). Keep any illustrative workflow states in separate scenario records. Completion means a small batch with defensible identities, useful explanations, and clear limits—not maximum contact coverage.
 
