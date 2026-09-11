@@ -2,11 +2,29 @@
 
 [Start here](README.md) · [Business evidence](BUSINESS-CONTEXT.md) · [Positioning and opportunity](POSITIONING-AND-OPPORTUNITY.md) · [Zoho research](ZOHO-RESEARCH-PROMPT.md)
 
-Reference revision: September 11, 2026. Research and reliability priorities below
-reflect the current implementation at `5155cfa`. This is the business and delivery
-strategy; work remains planned unless explicitly marked verified. This revision
-authorizes planning updates, not implementation, subscriptions, paid trials,
-broader scraping, outbound contact, or changes to external systems.
+Reference revision: September 11, 2026. Research and reliability priorities began
+from the implementation at `5155cfa`; [PROGRESS.md](PROGRESS.md) records subsequent
+verified changes. This is the business and delivery strategy; work remains planned
+unless explicitly marked verified. The initial research-priority revision was
+planning-only. The later bounded implementation below does not authorize
+subscriptions, paid trials, broader scraping, outbound contact or external changes.
+
+September 11 assignment addendum: alongside Claude's partner pilot, Codex takes
+one bounded empty-scrape preservation fix with regression tests. The
+[assignment ledger](coordination/2026-09-11-partner-pilot.md#codex-parallel-assignment)
+reserves separate files and defines acceptance. The empty/unusable-batch guard is
+now implemented with focused passing regressions and committed as `e6e493e` under
+the later wrap-up authorization. Nonempty partial results and the broader legacy
+findings remain open.
+Claude delivered the MTC partner pilot as `e171954`; it is locally integrated as
+`a7ceefc` with coordinator corrections recorded in progress. The user narrowed its
+workbook/demo connection to a small illustrative research candidate, now implemented
+locally. NYIMF/Troen remains explicitly unconfirmed; the example carries no outreach
+strategy or recommendation to contact MTC. The internal partner sheet stays separate.
+Business questions remain internal and do not gate the example. The partner draft
+does not depend on the preservation fix. The MTC connection/review corrections are
+committed as `f36bdf1`. The final whole-project audio presentation remains deferred;
+local nightly source packs now follow [the accepted wrap-up routine](SESSION-WRAP-UP.md).
 
 This is a revisable working plan. Update the relevant section when evidence or an accepted decision changes the approach, and reconcile affected strategies and summaries. Use [PROGRESS.md](PROGRESS.md) for actual implementation status and the short reason behind material revisions. A suggestion becomes an accepted decision only through an explicit choice or work already authorized by the user.
 
@@ -89,8 +107,10 @@ The original audit remains actionable. For the pilot, repair the affected path o
 
 Apply these priorities to the path selected for the next useful deliverable.
 They are the user's priority order, not six phases that must finish before the
-POC can continue. The next increment remains **one public tour-partner example
-and a matching editable partner sheet**. Use reviewed, separate inputs and the
+POC can continue. The **small MTC research candidate example** is now connected;
+the earlier matching-sheet connection is deferred following the user's narrower
+scope. A brief March 3 FAQ from existing reviewed evidence is a possible next
+increment, not an instruction to expand this task. Use reviewed, separate inputs and the
 existing demo builders where they suffice; repair a legacy boundary before using
 it to change valid data. A bypass must state what it avoids and what remains open.
 

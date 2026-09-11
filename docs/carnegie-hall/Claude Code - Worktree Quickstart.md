@@ -1,5 +1,13 @@
 # Claude Code worktree quickstart
 
+**Completed pilot; historical setup reference.** Claude delivered `e171954` and
+Codex integrated it as `a7ceefc`. Claude is now idle in its clean retained worktree.
+The startup prompts and initial `39171e5` checks below describe that completed
+assignment; do not rerun them. Use [current progress](PROGRESS.md) before preparing
+a new bounded assignment. The preservation fix is completed, not pending.
+The [nightly recap routine](SESSION-WRAP-UP.md) now permits local end-of-session
+packaging; the final whole-project audio presentation remains deferred.
+
 Prepared September 11, 2026. A practical companion to [the parallel workflow](PARALLEL-WORKFLOW.md).
 
 ## Ready-to-use assignment
@@ -8,6 +16,14 @@ The main Codex task prepared the reserved
 [partner research pilot](coordination/2026-09-11-partner-pilot.md). The worktree is
 ready; Claude is **not launched**. Its four output paths and zero paid-call budget
 supersede the proposed alternatives later in this guide.
+
+Codex's separate assignment is an empty-scrape preservation guard and regression
+tests in `scripts/run_all.py` and `tests/test_run_all.py`. The
+[coordinator ledger](coordination/2026-09-11-partner-pilot.md#codex-parallel-assignment)
+records its scope. This assignment is pending implementation and does not change
+Claude's starting commit or four-file ownership. The prompt below carries this
+addendum because the prepared worktree does not automatically receive later edits.
+The audio overview and NotebookLM pack updates wait until project completion.
 
 - Checkout: `/Users/connormurphy/Desktop/Projects/band-charter-outreach-worktrees/claude-partner-research`
 - Branch: `feature/claude-partner-research`
@@ -54,6 +70,12 @@ Research one public student-performance tour provider as a possible partner and
 possible competitor. Prepare a source-backed profile and useful internal partner
 sheet for Troen's March 3, 2027 Carnegie Hall POC. Use Markdown only; no app,
 pipeline repair, new dependencies or demo integration is assigned.
+
+In parallel, Codex is assigned one empty-scrape preservation guard in
+scripts/run_all.py with regression tests in tests/test_run_all.py. Those files are
+Codex-owned; do not edit or depend on that unfinished fix. Shared coordination
+records remain Codex-owned. Defer the audio overview and NotebookLM pack updates
+until project completion. Your four owned files below remain unchanged.
 
 Your exact write ownership is limited to:
 docs/carnegie-hall/research/partner-pilot/PROFILE.md

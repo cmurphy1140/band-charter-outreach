@@ -4,22 +4,87 @@
 
 Last updated: September 11, 2026. This is the compact record to read when resuming. The plan and strategies describe the current approach; this file records what actually exists, what changed, and the next suggested increment. Update it during active work, not through an assumed background process.
 
+## Overnight checkpoint — September 11, 2026
+
+The current increment is complete and verified. The user authorized local commits
+for finished work and intended side-conversation documents. Earlier checkpoints
+record their state at the time; this section supersedes their uncommitted and
+startup-pending wording. No new implementation task began. Nothing was pushed.
+
+**Local commits:**
+
+- `e6e493e2665dc6b1cd64b656844bdee4da9a8dbb` — empty/unusable scrape preservation
+  guard and regressions. Fresh runner/scraper/SerpAPI verification: **54 passed,
+  four known missing-fixture skips**. Nonempty partial results and downstream
+  rebuild risks remain open; this is a bounded source-CSV repair.
+- `f36bdf1fda895a3651a46b3b9b4f62ea21f971dc` — MTC candidate connection, source-review
+  corrections and related documentation. **15 Node tests pass**. The workbook has
+  three records and twelve sources. Existing cells/styles/panes, output hashes,
+  downloads and source mappings were reconciled. The completed increment includes
+  desktop and 390-pixel browser inspection, not native Excel/Word or actual iPhone
+  certification. MTC stays a candidate with its event relationship unconfirmed.
+- The documentation checkpoint containing this section saves shared instructions,
+  progress, ledger, internal decisions, side-chat workflow, both Claude setup guides,
+  learning guide, consulting idea board and nightly wrap-up routine. Resolve its
+  full ID with `git log -1 --format=%H -- docs/carnegie-hall/PROGRESS.md`.
+  `git rev-parse HEAD` reports the current checkout commit; the implementation IDs
+  above remain stable. A document cannot contain its own eventual Git hash.
+
+| Session / checkout | Branch | Verified implementation or worker commit |
+|---|---|---|
+| Codex, local Mac: `/Users/connormurphy/Desktop/Projects/band-charter-outreach` | `codex/mtc-research-example` | `f36bdf1fda895a3651a46b3b9b4f62ea21f971dc`, followed by this documentation checkpoint |
+| Claude, local Mac: `/Users/connormurphy/Desktop/Projects/band-charter-outreach-worktrees/claude-partner-research` | `feature/claude-partner-research` | `e171954439e97219491ff6fc2ff332700a1580ef` |
+| Retained integration checkout: `/Users/connormurphy/Desktop/Projects/band-charter-outreach-worktrees/main-integration` | Detached | `5155cfad8432a5f9f60f3271ad657691cf9c1f8b` |
+
+**Claude is idle.** Its final read-only handoff reports clean Git status, no
+uncommitted/untracked work, no stash and no task-started processes. Codex checked
+its branch/HEAD, clean status and empty shared stash. Its original commit remains
+integrated as `a7ceefc139c1f075060fc9f02a0ec70a86a975d3`. No worker edit, sync or
+removal occurred. Keep Claude idle until a new bounded assignment is coordinated.
+
+**Processes:** Codex verified and stopped only its demo server, PID 47009, serving
+`demo/carnegie-hall/` on `127.0.0.1:8765`. The port has no listener. No task server,
+refresh watcher or scheduled writer remains running. Local HTML still opens
+directly; the demo README explains restarting the server tomorrow.
+
+**Remaining local-only files:** `notebooklm/` holds preserved migrated snapshots
+and nightly packs. `docs/carnegie-hall/research/Zoho Research - Source and Working
+Files/` holds duplicate research/working copies. These remain untracked and outside
+all checkpoint commits. Private `.env`, ignored caches and local runtimes remain
+in place. No unfinished code or intended documentation is left uncommitted.
+Deferred legacy repairs, provider comparison and fuller POC materials are future
+work, not changes discarded tonight. No blocker prevents the next internal draft;
+unconfirmed business facts stay unknown.
+
+**Nightly recap:** [the accepted routine](SESSION-WRAP-UP.md) now permits a fresh
+local PDF-only source ZIP after the Git checkpoint. Its manifest records the actual
+capture commit, time, input hashes and exclusions. It remains untracked under
+`notebooklm/`; no audio generation or external upload is included. This supersedes
+the blanket pack deferral. The final whole-project audio presentation remains
+deferred until completion.
+
+**One next action for tomorrow:** draft a concise March 3, 2027 FAQ from existing
+reviewed event evidence, with source references and unresolved business items kept
+internal. Do not broaden MTC into outreach or make business answers a prerequisite.
+Read [START-HERE-LEARNING.md](START-HERE-LEARNING.md) to trace a claim through the
+record, generator and deliverable before editing. No FAQ work started tonight.
+
 ## Current state
 
-The [connected example](../../demo/carnegie-hall/README.md) now includes Wando and Salem research, an initial editable opportunity workbook with nine public sources, the Wando director sheet, and two fictional follow-up situations. Salem's City of Salem identity is kept separate from the Virginia Beach school. The original candidate row is preserved. The Carnegie reference pack, logistics findings, positioning, received Zoho report, eight strategies, and tools map remain the working references. The focus is **March 3, 2027**, using **employee-reported** attribution and the **logistics and software developer** role.
+The [connected example](../../demo/carnegie-hall/README.md) now includes Wando and Salem research, a small illustrative MTC candidate, an editable opportunity workbook with twelve public sources, the Wando director sheet, and two fictional follow-up situations. MTC's event relationship is explicitly unconfirmed; its example carries no outreach strategy or recommendation to contact MTC. Salem's City of Salem identity is kept separate from the Virginia Beach school. The original candidate row is preserved. The Carnegie reference pack, logistics findings, positioning, received Zoho report, eight strategies, and tools map remain the working references. The focus is **March 3, 2027**, using **employee-reported** attribution and the **logistics and software developer** role.
 
 An employee reports one participating group. **Ten additional ensembles is a provisional target requiring capacity confirmation.** There is no proven best-performing channel or required sequence of existing relationships, tour partners, and new schools.
 
 | Workstream | What exists | What remains |
 |---|---|---|
 | 01 — Evidence | Original source review plus a scoped event record feeding the first example | Expand the event brief and claim model as further materials need them |
-| 02 — Market comparison | Business context and detailed research strategy | A current, source-backed provider comparison |
-| 03 — Opportunities | Two reviewed schools, nine public sources, two notes, and an initial workbook with editable dispositions/notes | A more varied batch including a tour partner; repair or bypass any reused defective paths |
-| 04 — Experience | Three-view static interface plus Salem comparison and workbook download | Add a distinct partner conversation when useful |
-| 05 — Materials | Wando director sheet in DOCX/Markdown; one-page render checked | Partner sheet, FAQ, and fuller proposal example; Word-specific rendering remains unchecked |
+| 02 — Market comparison | Business context, detailed strategy and an MTC partner/competitor profile | A fuller source-backed provider comparison |
+| 03 — Opportunities | Two schools and one illustrative [MTC candidate](../../demo/carnegie-hall/mtc.json) in the workbook, with twelve sources | A broader varied batch if useful; repair or bypass reused defective paths |
+| 04 — Experience | Three-view interface, Salem comparison, compact MTC evidence card and workbook download | MTC stays a research example; a partner pitch is outside its current scope |
+| 05 — Materials | Wando director sheet in DOCX/Markdown and a reviewed [internal MTC partner sheet](research/partner-pilot/PARTNER-SHEET-DRAFT.md) in Markdown | Editable partner export, FAQ and fuller proposal example; Word-specific rendering remains unchecked |
 | 06 — Workflow | Two fictional situations and a downloadable example action brief | More varied cases if they improve the demonstration; no operating booking system |
 | 07 — Automation | Separate local document and workbook builders with edited-output protection; received Zoho assessment | Measure usefulness and preparation effort; integrations and scheduling remain later work |
-| 08 — Iteration | Eleven targeted tests, browser checks, and rendered document/workbook inspection | Continue checking each changed behavior and updating the relevant references |
+| 08 — Iteration | Fifteen targeted demo/review tests, desktop/mobile viewport checks, rendered workbook inspection and preservation comparison | Continue checking each changed behavior and updating the relevant references |
 
 The first local prototype is working; the full five-deliverable POC is unfinished. Original data, logistics, and the supplied report were preserved. The September 11 repository-publication milestone now checkpoints the work below. No outbound messages, account integration, hosted website deployment, or scheduled automation has been performed.
 
@@ -31,28 +96,44 @@ The first demonstration increment created `codex/carnegie-connected-example` in 
 
 ## Coordination and handoff state
 
-- Latest operator: Codex on the local Mac. No transfer to cloud or Claude Code has been initiated.
-- Working checkout: `/Users/connormurphy/Desktop/Projects/band-charter-outreach`, on `codex/research-reliability-plan`. Setup commit `39171e5` contains the fourteen intended plan/workflow/assignment documents; the completion receipt follows as a separate local documentation checkpoint. Neither is pushed. The dedicated Claude worktree is on `feature/claude-partner-research` at `39171e5`; Claude is not launched. The retained `main-integration` worktree remains detached at `5155cfa`. Main and origin/main remain at `5155cfa`; verify actual refs before editing.
+- Latest operator: Codex on the local Mac, connecting the reviewed MTC candidate as a small research example. Claude's completed checkout remains clean at `e171954`, with no relaunch. No wider Desktop/cloud configuration guarantee is implied.
+- Working checkout: `/Users/connormurphy/Desktop/Projects/band-charter-outreach`, on `codex/mtc-research-example`. Code/demo work is committed as `e6e493e` and `f36bdf1`, followed by the documentation checkpoint above. Claude remains on `feature/claude-partner-research` at `e171954439e97219491ff6fc2ff332700a1580ef`. Main, the local origin/main ref and the retained integration worktree remain at `5155cfa`; no remote fetch or push was needed. Local packs/duplicate working copies remain untracked.
 - Milestone scope: canonical reference pack and eight strategies; original logistics and supplied Zoho DOCX; historical audit and reproduction evidence; shared instructions and READMEs; demo sources, Word/Markdown/workbook outputs, and both Node test files. CLAUDE.md remains a relative link to AGENTS.md. Duplicate NotebookLM packs and report working/render copies remain untracked in the original checkout and are excluded from publication.
 - Additional credential-support changes: `scrapers/serpapi.py`, both dependency manifests, `.gitignore`, `Makefile`, `.env.example`, `tests/test_serpapi.py`, isolation updates in `tests/test_news_east.py`, and the setup/status documentation. The user has now configured the private `.env`; preserve it and exclude it from transfers. `python-dotenv==1.2.3` is installed in this checkout's `.venv`. A successful live validation is recorded below; its cache is in Git-ignored `data/raw/serpapi-validation/`.
 - Published checkpoints: `e4e6a9b` contains SerpAPI support; `f0dac98` contains the reference/demo milestone; `5155cfa` records that publication and handoff. The latest planning changes described below are not part of that published ref.
 - Cloud inputs: a fresh clone of the verified public `main` contains canonical project records and shared instructions. It still needs its own dependencies and secret configuration. Cloud checkout execution and mobile Remote pairing have not been tested; verify receipt and execution at an actual handoff.
 - App routing: the saved project/task entry still points to `/Users/connormurphy/Documents/ChatGPT/Troen Outreach Pipeline`, while the verified working repository is the Desktop/Projects checkout above. Verify/select the real checkout before a future launch; do not recreate the stale path or move the repo to match it. No app routing change was made here.
-- Services: a read-only Python static server is running on `127.0.0.1:8765`, PID 47009, serving only `demo/carnegie-hall/` for local inspection. It is not a public deployment or a background refresh. Confirm the PID/port before stopping or reusing it. No scheduled writer was started.
+- Services: the coordinator's read-only Python server, PID 47009 on `127.0.0.1:8765`, was stopped for the night after verifying its command and checkout. The port is free. No scheduled writer was started.
 - Verification and next task: see the latest checkpoint and suggested next increment below. Before transfer, update this section with the exact changed files, new commits, checks, limitations, services/ports, and next task, then stop the outgoing operator before the receiving tool resumes.
 
 ## Next useful step
 
-Inspect the [working example](../../demo/carnegie-hall/index.html) and its workbook: **review the two schools → reshape the Wando director sheet → explore fictional follow-up**. The first two cases demonstrate evidence handling, not conversion performance.
+Inspect the [working example](../../demo/carnegie-hall/index.html) and its workbook: **review the two schools and compact MTC candidate → reshape the Wando director sheet → explore fictional follow-up**. The examples demonstrate evidence handling, not conversion performance.
 
-Recommended next: research one public tour-partner offer and draft a matching partner sheet. This would introduce a different business conversation before expanding school volume. No partner research or outreach has started in this increment. Keep business unknowns internal until they affect an actual approach or offer.
+MTC is now connected within the user's narrower research-only scope. Its internal partner sheet remains separate; connecting it or developing outreach is not the next assignment. A useful later increment would be a short March 3 FAQ using reviewed event facts, with unresolved business items retained internally. This is a suggestion, not work started or a requirement for business homework.
+
+Completed parallel assignments: Claude delivered the four reserved partner-pilot
+files and stopped editing; coordinator review/integration is complete, with local
+corrections. Codex owns the empty-scrape preservation fix in
+`scripts/run_all.py` and regression tests in `tests/test_run_all.py`; shared
+coordination records remain Codex-owned. See the
+[exact assignment and acceptance checks](coordination/2026-09-11-partner-pilot.md#codex-parallel-assignment).
+The fix and its regression tests are **implemented, locally verified and committed as `e6e493e`**;
+see the latest checkpoint below for exact coverage and remaining limits.
+Claude's base remains `39171e5` and its completed checkout is at `e171954`; review
+did not edit that checkout. Further revisions to integrated files are coordinator-owned.
+The old startup guides are setup records, not a new launch instruction.
+The final whole-project audio presentation remains deferred. Local nightly recap
+packs now follow [SESSION-WRAP-UP.md](SESSION-WRAP-UP.md); preserve older snapshots.
 
 ## Verified repairs and unresolved findings
 
-Code reviewed at `5155cfa` on September 11. The original September 10 audit is a
+Baseline code reviewed at `5155cfa` on September 11; the latest bounded guard was
+implemented uncommitted from `ed8a0db` and verified as recorded below.
+The original September 10 audit is a
 historical snapshot; its original priority sequence does not gate the current
 isolated POC. Git comparison confirms that the audited legacy modules below are
-unchanged except the SerpAPI client. These statuses distinguish current source
+unchanged except the SerpAPI client and this runner write guard. These statuses distinguish current source
 inspection and previously executed checks from new tests or live source review.
 
 | Finding/path | Current status and evidence | Limit / next treatment |
@@ -60,7 +141,8 @@ inspection and previously executed checks from new tests or live source review.
 | A05 — SerpAPI credential failures | **Repaired client path, bounded verification.** `e4e6a9b`; [client](../../scrapers/serpapi.py), [tests](../../tests/test_serpapi.py). Tests cover environment/private-file precedence, cached reuse, connection-error tracebacks and API-error bodies. A live search/cached repeat and publication credential scan succeeded in prior checkpoints. | Reuse for discovery. Explicit timeout/non-JSON and runner-persisted-metadata coverage, plus any full-history scan, remain distinct follow-through; Task 4's crawl-policy work is not complete. |
 | A01/A06 — identity loss and dedupe | **Unresolved legacy paths.** [Runner](../../scripts/run_all.py) still keys carry-over by name/state, drops location from early dedupe and folds some stateless records by name. | Keep reviewed POC records separate; require stable resolutions and preservation checks before reusing these joins/writes. Demo IDs are not an automated identity repair. |
 | A02/A07/A13 — identity/contact attribution and provenance | **Unresolved legacy paths.** [Enrichment](../../scripts/enrich.py) retains broad staff-context matching, city/tie ambiguity and incomplete field evidence. | Wando/Salem were manually reviewed; [demo validation](../../demo/carnegie-hall/review.cjs) rejects cross-school source IDs but cannot prove the source's identity/role. No NCES enrichment of those demo records is claimed. |
-| A03/A04/A11 — failed/incomplete replacement, stale caches, crawl policy | **Unresolved.** [Runner](../../scripts/run_all.py) accepts returned partial lists; [fetch](../../scrapers/common.py) has no automatic cache expiry and retains the audited robots/redirect behavior. SerpAPI also reuses its local cache unless forced; news discovery has a force-refresh path. | Do not use these paths for a production refresh until their specific checks pass. Reviewed manual retrieval can bypass them for the partner example; a new vendor does not repair them. |
+| A03 — empty/unusable batch replacement | **Bounded repair verified, committed as `e6e493e`.** [Runner](../../scripts/run_all.py) rejects empty batches and any row missing school/event/source URL before touching the interim CSV. [Regression tests](../../tests/test_run_all.py) verify preservation, incomplete status, first-run behavior, blocked failures and independent successful updates. | This protects source CSVs, not every downstream rebuild. Nonempty partial results with populated fields still need completeness validation; A03 is not closed. |
+| A03/A04/A11 — other partial replacement, stale caches, crawl policy | **Unresolved.** The runner still accepts nonempty partial lists that pass basic field checks; [fetch](../../scrapers/common.py) has no automatic cache expiry and retains the audited robots/redirect behavior. SerpAPI also reuses its local cache unless forced; news discovery has a force-refresh path. | Do not use these paths for a production refresh until their specific checks pass. Reviewed manual retrieval can bypass them for the partner example; a new vendor does not repair them. |
 | A08/A09/A13 — appearance meaning, scoring and individual evidence | **Unresolved legacy model.** [News parser](../../scrapers/news_east.py) still derives unstated years from publication date; legacy counts mix competitions/future plans with performances. | The demo keeps Wando's 2019 date and Salem's undated history distinct, but a complete claim/status model remains planned. It has no Carnegie score. |
 | A10/A12 — output reconciliation and spreadsheet text | **Legacy unresolved; demo safeguards verified.** [Demo tests](../../tests/carnegie_demo.test.cjs) and [review tests](../../tests/carnegie_review.test.cjs) protect edited outputs and source-text handling. [Legacy exporter](../../scripts/export.py) remains unchanged. | Two builders must be reconciled manually; notes do not import back into JSON. Edited-file preflight is not proof of rollback across builders or all write failures. |
 | A14 — documented versus operating promises | **Current documentation corrected; operating suppression unresolved.** Current references mark the old packet as historical and the POC as incomplete. | Keep historical packet claims out of current materials. No tested suppression/import/scheduling system is implied. |
@@ -68,7 +150,7 @@ inspection and previously executed checks from new tests or live source review.
 ## Research and reliability acceptance checks
 
 These six priorities are accepted planning direction. The checks below are
-**future acceptance criteria**, not claims that new repairs have passed. Apply
+broader acceptance criteria; only explicitly recorded subsets have passed. Apply
 only the checks relevant to the path used; record a reviewed bypass and its limits
 when that safely serves the POC. Do not require a full legacy overhaul first.
 
@@ -86,9 +168,9 @@ Detailed methods: [claim evidence](strategies/01-evidence-and-event-model.md#evi
 [tool evaluation](strategies/07-software-and-automation-fit.md#bounded-extraction-tool-evaluation),
 and [output reconciliation / reusable lessons](strategies/08-iteration-and-delivery.md#reconcile-after-an-accepted-research-change).
 
-Next useful increment remains the public tour-partner example and matching sheet.
-Reuse SerpAPI discovery and its existing cached query when available; review the
-underlying evidence. Firecrawl evaluation is planned before adoption. Zyte or
+The public tour-partner research example is now connected in the narrowed MTC
+scope. The matching-sheet connection is deferred; the FAQ is the next increment.
+Reuse SerpAPI for future authorized discovery. Firecrawl evaluation is planned before adoption. Zyte or
 Apify is conditional on a demonstrated gap. This request starts no trials,
 subscriptions, paid searches, broader scraping or implementation.
 
@@ -200,7 +282,7 @@ commit. Those are observations, not reservations. The main driver must designate
 coordinator and publish the assignment ledger before starting concurrent writers.
 Existing NotebookLM packs are snapshots and retain their earlier instruction wording.
 
-## Latest checkpoint — Claude starting state preparation, September 11
+## Checkpoint — Claude starting state preparation, September 11
 
 The main Codex task is coordinator. The user authorized reviewing and committing
 the intended plan/strategy/shared-instruction/parallel-workflow/quickstart changes,
@@ -231,3 +313,162 @@ committed quickstart/ledger are the initial reservation version; this coordinato
 receipt records the completed setup without silently moving the worker branch.
 NotebookLM packs and duplicate research copies remain only in the original checkout.
 No push, merge, worktree cleanup, Claude launch, paid query or acknowledgement occurred.
+
+## Latest checkpoint — empty-scrape preservation fix, September 11
+
+**Implemented:** `write_interim_scoped()` validates the incoming batch before
+reading/replacing scoped years or opening a CSV for writing. Empty results and any
+row lacking a nonblank school, event or source URL reject the whole batch. Keeping
+a mixed invalid batch intact avoids silently turning validation into a partial
+replacement. The runner records these results as incomplete through its existing
+blocked-source mechanism, omits them from successful counts and continues with
+other sources. Success status is cleared only after the CSV write succeeds.
+
+**Verified:** the pre-fix run produced 15 failing regressions and 10 passes,
+including actual loss of all rows on a full empty scrape and the requested years
+on a scoped empty scrape. After the change, all **25 runner tests passed**.
+Focused verification with `.venv/bin/python -m pytest tests/test_run_all.py
+tests/test_scrapers.py tests/test_news_east.py tests/test_serpapi.py -q --tb=short`
+passed **54 tests with four missing-fixture skips**. Tests use real temporary CSV
+and blocked-metadata writes with mocked sources; new tests fail any attempted
+network request. Coverage includes byte-for-byte preservation, no empty CSV on a
+first run, invalid/mixed batches, direct writer rejection, `BlockedSource`, cached
+no-data results and successful full/scoped updates alongside a failed source.
+
+**Limits:** this is a source-CSV guard, not a complete refresh repair. Nonempty
+partial results with valid-looking fields, explicit source/year completeness,
+confirmed-empty deletion, identity/carry-over joins, freshness, mid-write rollback
+and output reconciliation remain unresolved. `main()`/`--merge-only` can still
+rebuild final data through the old joins; no production refresh or rebuild was run.
+Basic required-field checks do not verify school identity, role or source truth.
+
+**Preservation and handoff:** code ownership stayed in `scripts/run_all.py` and
+`tests/test_run_all.py`; coordinator updates are in AGENTS.md, PLAN.md, this record
+and the assignment ledger. Existing guide/setup changes, data, logistics, credentials
+and copied packs are preserved. Claude's four pilot files and checkout are untouched.
+Claude Desktop setup is still being verified; its research is not assumed started.
+No new service, paid call, dependency, server, commit or push was made. All current
+changes remain uncommitted on `codex/empty-scrape-preservation` at base `ed8a0db`.
+
+**Next recommendation:** complete Claude Desktop startup verification and the
+reserved partner pilot, then review its evidence and draft for the Carnegie POC.
+For a later pipeline increment, add source/year completeness reporting before
+allowing nonempty partial batches to replace records. That is not a prerequisite
+for the partner draft. The audio overview stays deferred until project completion.
+
+**Reusable lesson:** validate before the destructive write, keep the previous file
+unchanged when completeness is unknown, and test the actual stored bytes. A small
+passing guard is evidence for that boundary only, not for the whole pipeline.
+
+## Latest review — Claude partner pilot, September 11
+
+**Decision:** accepted for internal POC use with coordinator corrections and an
+explicit budget-accounting finding. This is not an approval to issue an offer,
+contact anyone, claim a Troen/MTC relationship or treat all process checks as clean.
+No Troen answers were requested or made a condition of draft acceptance.
+
+**Commit scope:** `e171954439e97219491ff6fc2ff332700a1580ef` has exact parent
+`39171e5fe873bca7fca3f05723a8fca9985f081b` and adds only PROFILE.md, SOURCES.md,
+PARTNER-SHEET-DRAFT.md and the worker handoff in the assigned paths. No code,
+data, shared records, dependencies or credentials are in that commit. It was
+integrated by cherry-pick as `a7ceefc139c1f075060fc9f02a0ec70a86a975d3` in the current
+working branch; main is unchanged. The worker commit is preserved unchanged.
+
+**Source support:** the seven MTC pages and screened EPT page were rechecked.
+Company identity, published staff roles, office contact, advertised services,
+planned calendar and self-reported affiliations/award are supported. The two
+organizational mailboxes were verified in raw contact/blog markup; no personal
+contact or permission to send was inferred. C16 was narrowed because the undated
+testimonial does not clearly attribute a particular Carnegie trip to MTC. Review
+uses the existing P01/I06 event record for Troen's brochure/venue facts; no new
+full logistics audit is claimed. See [the source review](research/partner-pilot/SOURCES.md#coordinator-source-review--september-11-2026).
+
+**Budget across every screened provider:** MTC 7 readable pages + EPT 1 readable
+page + Fourwinds 1 blocked content-page attempt = **8 readable pages, 9 attempted
+content URLs across 3 providers**. The original 7/8 summary counted only MTC.
+An eight-readable-page ceiling is met; an eight-attempt ceiling is exceeded by
+one blocked attempt. The original selected-provider wording left that accounting
+ambiguous, so no clean eight-attempt compliance claim is made. Retain the useful
+draft with this disclosed process finding; do not discard research or reopen
+scraping to fix a historical count. Future separately authorized budgets count
+all provider attempts, including blocked and screened-out pages. Robots requests
+are recorded separately. The worker reports zero paid calls and no bypass; a
+complete request log was not supplied. Coordinator rechecks used no paid APIs or
+new provider discovery and did not retry Fourwinds.
+
+**Corrections and boundaries:** NYIMF/Troen is explicitly unconfirmed. Matching
+dates and a filename are clues, not producer identity or relationship evidence.
+The source's general advance-application guidance does not establish a current
+March 3 window; the inaccurate timing inference was removed. Partner support is
+proposed, eligibility/inclusions remain subject to a specific offer, and March 31
+commercial terms/internal costs stay out of the sheet. Event identity, MTC history
+and commercial responsibilities are in [INTERNAL-DECISIONS.md](INTERNAL-DECISIONS.md).
+The profile can join the POC now, without those business answers.
+
+**Preservation:** the prior uncommitted runner/test diff was snapshotted before
+integration and compared afterward. No source data, logistics, existing outputs,
+private configuration, NotebookLM packs, setup guides or worker checkout was
+modified. Review corrections and shared-doc updates remain uncommitted alongside
+the preservation fix. No application rebuild, new runtime test, push, outreach,
+Claude relaunch or worktree cleanup is part of this Markdown review.
+
+A separate `PARALLEL-WORKFLOW.md` edit and untracked `CONSULTING-IDEA-BOARD.md`
+appeared during verification. They were preserved, not authored or folded into
+the partner integration. Their appearance is not automatic coordination or proof
+that every session shares the same state.
+
+**Next useful increment at that review:** connect MTC to the workbook/demo.
+The user subsequently narrowed this to an illustrative research candidate only;
+the implementation below supersedes the proposed partner-sheet connection.
+Audio remains deferred until project completion.
+
+## Latest implementation — MTC research example, September 11
+
+**Delivered:** a compact candidate card in the research view and a third workbook
+record, using three previously reviewed MTC sources. Organization identity and
+marketing are separate from the planned March 3 listing. NYIMF/Troen remains
+explicitly unconfirmed; relationship, interest and bookings remain unknown.
+The card contains source links and uncertainties, with no contact action, pitch,
+commercial terms or partner-sheet link. The internal sheet and questions remain
+available in their existing records, without business answers as a prerequisite.
+
+**Verified:** all **15 demo/review tests pass**, including new candidate identity,
+source ownership, unconfirmed-status, escaping and HTML-only preservation checks.
+Three initial candidate regressions failed before implementation. Artifact Tool
+recalculation and error scan found no formula errors; both workbook tabs were
+rendered and inspected. Saved XLSX comparison preserved the original school and
+evidence cells, styles, column widths and frozen panes; tables and editable fields
+extend to the added record. The three MTC source IDs/URLs reconcile with the JSON
+and prior pilot register. All seven manifest outputs match and six served downloads
+match their files. Browser inspection passed at desktop and 390-pixel width,
+including expandable evidence and no horizontal overflow. This is a phone-sized
+browser check, not a test on an actual iPhone or in native Excel/Word.
+
+**Preserved:** the empty-scrape fix/tests, two school JSON files, all five existing
+Word/Markdown exports, and all four pilot files are byte-identical to the start of
+this increment. The workbook had no manual changes relative to its manifest; its
+existing note cells and dispositions are preserved. `--html-only` refreshes the
+page without touching those exports and still rejects manually edited HTML.
+This narrower build is not a workbook refresh, Word synchronization or complete
+multi-artifact transaction. Source refresh, identity joins, cache freshness and
+other previously unresolved legacy issues remain open; no pipeline run was made.
+
+**Files and state:** added `demo/carnegie-hall/mtc.json`; updated the shared review
+loader, HTML/workbook builders, template/generated HTML, workbook and manifest,
+demo README and `tests/carnegie_review.test.cjs`. Coordinator updates are in
+AGENTS.md, PLAN.md, this record, strategy 03 and the assignment ledger. Work is
+uncommitted on `codex/mtc-research-example` at `a7ceefc`; no push or worker-checkout
+change occurred. The existing read-only localhost server at port 8765 was reused.
+This task made no new research request, paid API call, subscription, outreach or
+audio artifact. Side-task guides, learning notes, consulting ideas and copied packs
+were not edited by this task. During final verification the two prior NotebookLM
+ZIP paths were absent and new wrap-up/audio-source files and `notebooklm/` appeared
+outside this assignment. Their contents and purpose were not reviewed here; no
+restoration, deletion or integration of that separate work was attempted.
+
+**Reusable lesson:** connect only the evidence needed for the demonstration. A
+provider calendar is a planned listing, not proof of producer identity, a business
+relationship or an opportunity to contact. A research example can stop at that
+uncertainty and still be useful. Keep its record distinct from school material and
+fictional workflow states. A short event FAQ is the next suggested increment;
+audio and NotebookLM updates stay deferred until project completion.

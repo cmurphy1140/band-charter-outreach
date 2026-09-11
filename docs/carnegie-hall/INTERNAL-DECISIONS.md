@@ -21,6 +21,8 @@ Avoid scattering the same caveat across every screen. Use a clear overall demons
 | Prices and inclusions | Shared brochure plus a mixed working budget; no reconciled March 3 quote | Show source-backed experience; use “pricing to be confirmed” or omit the price area | Issuing a firm offer or using pricing in an external comparison | Approved March 3 package facts, price basis, validity, and exclusions |
 | Existing participation and deposit | One participating group and deposit exposure are employee-reported; filenames are clues | Do not name the confirmed group or show an actual payment ledger | Reporting live bookings, revenue, or financial exposure | Relevant booking/payment evidence and the business's status definition |
 | Existing relationships | Two school clues and several tour-company names appear in the logistics | Publicly research them; leave relationship and contact-permission status unknown | An actual approach or list handoff intended for outreach | Status and responsible contact for only the accounts being considered |
+| NYIMF / Troen event identity | MTC's public calendar names New York Invitational Music Festival on March 3 and March 31, 2027; Troen's supplied budget filename uses NYIMF. No reviewed public page identifies Troen as that producer | Keep the match explicitly unconfirmed. Accept MTC as a relevant research candidate and its partner sheet as an internal draft without asking the business | Claiming externally that MTC lists Troen's event, or using the listing as a confirmed event relationship | Existing event-identification evidence connecting the name, producer and applicable date |
+| MTC relationship and partner responsibilities | MTC markets music travel; prior Troen contact, interest, agreements, relationship owner, commission/net rates and contracting roles are unknown | Label the account researched, relationship/interest unknown, and festival/travel responsibilities proposed. Do not infer a cold or warm relationship from the calendar | An authorized approach, quote, referral arrangement or shared school handoff | Relevant existing contact/agreement history and the specific responsibilities/commercial basis needed for that action |
 | Channel priority | No comparative Troen conversion evidence | Show multiple channels without a fixed warm-first order | Allocating substantial ongoing effort or claiming a channel advantage | A small relevant history of channel outcomes, if available |
 | Territory | Broad map described as primary service area with exceptions | Use a soft regional preference and explain exceptions | Excluding an otherwise relevant opportunity on geography alone | Practical restriction relevant to that case, rather than a full territory exercise |
 | Zoho product and seller | Supplied public assessment; actual subscription and lead service unknown | Compare roles and demonstrate a local field mapping; make no account-specific savings claim | Subscription change, actual integration, or ROI claim | Relevant product/edition or invoice line and one representative workflow/export |
@@ -31,6 +33,14 @@ Avoid scattering the same caveat across every screen. Use a clear overall demons
 | Accounts and sharing | Local artifacts can support the POC | No live system connection is required; keep internal evidence local | Uploading, publishing, or connecting an account | Intended destination, relevant access, and a shareable version of the artifact |
 
 ## Timing of the conversation
+
+The MTC pilot is accepted for internal use without resolving the two questions
+above. They are a decision register, not instructions to contact the Troens or MTC.
+The [reviewed profile](research/partner-pilot/PROFILE.md) supports the small MTC
+research candidate now connected to the POC. The
+[internal partner sheet](research/partner-pilot/PARTNER-SHEET-DRAFT.md) remains
+separate under the user's narrower scope, with no contact recommendation.
+No business answers were requested in review.
 
 **Before a demonstration:** the developer checks sources, prepares readable outputs, and marks illustrative behavior. No business questionnaire is required. If an uncertainty makes a claim impossible, omit that claim and demonstrate the surrounding value.
 

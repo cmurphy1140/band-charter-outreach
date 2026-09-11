@@ -31,6 +31,32 @@ this workflow, and the assignment ledger. Assign each strategy to one owner if i
 needs edits. Package manifests, lockfiles, shared schemas, normalizers, and shared
 fetch utilities require explicit single ownership; there is no implied permission.
 
+## Between-response cycle and side-chat role
+
+Confirmed September 11, 2026: use the waiting time to review and prepare the next
+small step. Codex assigns → Claude delivers → Codex reviews and integrates →
+Claude receives the next assignment. Connor chooses the priorities. A completed
+worker waits for review and a confirmed next assignment rather than self-assigning.
+
+This side chat is a place to **look at what we have, talk through what needs work,
+and prepare what to ask for next**. It does not automatically run alongside the
+main task as a separate implementation worker or receive its latest state.
+
+| While… | Connor and this side chat can… |
+|---|---|
+| Claude works | Look at the current deliverable as an outsider and identify what is clear, missing, or confusing. |
+| Codex reviews | Draft a possible next task with its outcome, proposed files, inputs, and definition of done. |
+| Integration runs | Identify one evidence-backed lesson and its existing documentation home. |
+| Both finish | Choose the next priority from verified gaps and prepare the coordinator handoff. |
+
+These are optional useful activities, not a checklist that must delay delivery.
+Read-only inspection and draft prompts can proceed here. Proposed assignments
+become active only when the coordinator confirms ownership and starting state.
+Shared-file edits require an explicit scoped request and must preserve concurrent
+work; this does not grant standing ownership of coordinator files to the side chat.
+Pass relevant decisions and feedback to the main task explicitly. Do not assume
+cross-thread synchronization, background monitoring, or automatic message delivery.
+
 ## 1. Select compatible work
 
 Prefer outcomes that do not require each other's unfinished code. A useful candidate

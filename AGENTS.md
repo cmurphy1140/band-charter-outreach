@@ -23,35 +23,71 @@ Read [the reference pack](docs/carnegie-hall/README.md) and
 ## Current Status
 
 2026-09-11: The [connected local example](demo/carnegie-hall/README.md) includes
-reviewed Wando and Salem cases, an initial editable workbook with nine public
+reviewed Wando and Salem cases, an initial editable workbook with twelve public
 sources, a Wando director sheet, and two fictional follow-up situations.
-A broader varied batch, provider comparison, partner materials,
+The reviewed MTC candidate is connected as a small research example in the workbook
+and demo. Its NYIMF/Troen event match stays unconfirmed. The internal Markdown
+partner sheet is retained separately; this connection adds no pitch or contact action.
+A broader varied batch, provider comparison, fuller partner materials,
 pipeline repairs, and operating integrations remain unfinished. The supplied
 Zoho report and original logistics are preserved. Work is on
-`codex/research-reliability-plan`, with setup documents committed locally as
+`codex/mtc-research-example`. The nightly checkpoint committed the preservation fix
+as `e6e493e` and the MTC example/review corrections as `f36bdf1`, followed by the
+coordinator documentation checkpoint containing this status. See
+[the overnight record](docs/carnegie-hall/PROGRESS.md#overnight-checkpoint--september-11-2026)
+for full implementation/worker IDs and how to resolve the documentation commit.
+Generated NotebookLM snapshots and duplicate Zoho working files stay untracked;
+no unfinished code is left awaiting a commit. Nothing was pushed.
+Setup documents were committed locally as
 `39171e5` on top of published `5155cfa`. Claude's dedicated
-`feature/claude-partner-research` worktree starts at that setup commit; its exact
-assignment and completed prompt are linked from PROGRESS.md. It is reserved and
-verified but Claude has not been launched; setup was not pushed. SerpAPI support is committed as
+`feature/claude-partner-research` worktree started there and delivered `e171954`.
+Its handoff reports a successful Local session and stopped editing; the clean
+worker checkout was not changed during review. The broader Desktop/cloud setup is
+not certified by this result. No push occurred. SerpAPI support is committed as
 `e4e6a9b`, and the reference pack/demo/original sources as `f0dac98`. GitHub `main`
 was verified at that milestone; the completion notes follow in a documentation
 checkpoint. See the progress record for checkouts and local-only working copies.
 The [six research and reliability priorities](docs/carnegie-hall/PLAN.md#research-and-reliability-priorities)
 now govern reused paths, with [acceptance checks and repair status](docs/carnegie-hall/PROGRESS.md#verified-repairs-and-unresolved-findings).
-The next useful increment remains a public tour-partner example and matching
-sheet. Reuse verified SerpAPI discovery; plan a bounded Firecrawl comparison
+The user narrowed the MTC connection to illustrative research, with no outreach
+strategy or recommendation to contact MTC. Keep the NYIMF/Troen match explicitly
+unconfirmed and business questions internal; no Troen answers are needed for this
+example. A short March 3 FAQ from reviewed event evidence is a possible later
+increment, not a new assignment. The review
+records eight readable pages and nine attempts across screened providers, including
+one blocked attempt; do not repeat a selected-provider-only seven-page total.
+Reuse verified SerpAPI discovery; plan a bounded Firecrawl comparison
 before adoption, and consider Zyte/Apify only for a demonstrated gap. This revision
-was documentation only: no implementation, new subscription, trial or broader crawl.
-The user has now authorized committing the intended setup documents and preparing
-Claude's dedicated worktree, without pushing or launching Claude. The main Codex
+was initially documentation only; the bounded preservation fix below is now
+implemented and locally tested. No subscription, trial or broader crawl was added.
+The setup documents were authorized for commit and Claude's worktree was prepared.
+The latest wrap-up request authorized committing completed work and intended
+side-conversation documentation, with no push, worktree removal or Claude relaunch. The main Codex
 task is coordinator; the [partner-pilot assignment](docs/carnegie-hall/coordination/2026-09-11-partner-pilot.md)
-reserves exactly four research/draft/handoff files. Shared instructions, plans,
+records the four delivered research/draft/handoff files. Shared instructions, plans,
 strategies and integration stay coordinator-owned. The pilot has zero paid API calls.
+Codex's parallel implementation assignment is one empty-scrape preservation guard
+in `scripts/run_all.py`, with regression tests in `tests/test_run_all.py`; see the
+[exact assignment and acceptance checks](docs/carnegie-hall/coordination/2026-09-11-partner-pilot.md#codex-parallel-assignment).
+The guard now rejects empty batches and rows missing school, event or source URL
+before any interim CSV write; 25 runner tests pass, with 54 passes/four fixture
+skips across the focused runner/scraper/SerpAPI checks. Nonempty partial results,
+identity joins and cache freshness remain unresolved; this does not certify a
+production refresh. The integrated partner files are now coordinator-owned;
+Claude's completed checkout is retained clean and idle at `e171954`; its final
+read-only shutdown handoff reports no processes or stash entries. Codex stopped
+its verified localhost demo server (PID 47009); port 8765 is free. The final
+whole-project audio presentation remains deferred. Local nightly recap packs are
+now part of the accepted wrap-up routine below; preserve earlier snapshots.
+Tomorrow's one next action is a concise March 3 FAQ from existing reviewed facts,
+keeping unresolved business points internal. Start with
+[the learning guide](docs/carnegie-hall/START-HERE-LEARNING.md) when tracing a claim.
 The demo README documents source/build ownership, manual-edit protection, and
 how to run `node --test tests/carnegie_demo.test.cjs`. Do not run a destructive
 legacy refresh to rebuild this example; it has its own reviewed input file.
 Run `tests/carnegie_review.test.cjs` with Node's test runner as well. The workbook
-uses both reviewed JSON files and a separate bundled-runtime builder; refresh
+uses the two school JSON files and separate MTC organization record with a
+bundled-runtime builder; refresh
 the workbook and demo together after evidence changes. Preserve manual workbook
 notes and Word edits. The demo README records tested build and handoff limits.
 Local SerpAPI support now reads the private repository-root `.env` as a fallback
@@ -78,8 +114,9 @@ parade-first priority order, not the audit's findings. Historical counts below a
 not the current baseline; the audited current list has 206 rows.
 Distinguish an unresolved legacy finding from a reviewed POC bypass and from a
 repair with executed verification. SerpAPI credential handling and demo edit/source
-checks have bounded verification; they do not close legacy matching, freshness,
-failure-preservation or export defects. Preserve claim evidence, stable IDs and
+checks and the empty/unusable-batch guard have bounded verification; they do not
+close legacy matching, freshness, nonempty-partial-result or export defects.
+Preserve claim evidence, stable IDs and
 manual corrections, and reconcile affected outputs after accepted changes.
 
 ## Collaboration and learning
@@ -111,8 +148,23 @@ manual corrections, and reconcile affected outputs after accepted changes.
   guidance rather than append a transcript. A possible preference stays tentative
   until confirmed; project findings are not universal personal traits.
 
+## End-of-session wrap-up
+
+Confirmed September 11, 2026: when Connor explicitly ends a session, follow
+[the session wrap-up routine](docs/carnegie-hall/SESSION-WRAP-UP.md): coordinator
+checkpoint, fresh PDF-only NotebookLM ZIP, pragmatic-engineer audio prompt,
+Claude/Codex shutdown prompts, and a morning restart prompt. Label unsettled
+snapshots provisional. This nightly recap is distinct from the final project
+presentation, which remains deferred. No app-close trigger, external upload,
+automatic cross-session messaging, or additional Git permission is implied.
+
 ## Working authority and coordinated handoffs
 
+- Confirmed 2026-09-11: use this project as a pragmatic workflow foundation.
+  Deliver the smallest useful increment through proportionate verification.
+  Distinguish implemented, verified, committed, pushed, and deployed states;
+  passing a bounded check does not certify the entire pipeline. Existing learning
+  checkpoints, Git rules, and the parallel workflow below remain authoritative.
 - The user has granted broad discretion for this project's authorized work,
   including routine local edits, checks, tools, and carefully scoped local commits.
   Continue routine work without repeated approvals. Use judgment and explain
@@ -151,7 +203,10 @@ work. Treat this as a normal way of continuing the project. Use the
 and keep these rules with the repository:
 
 - Identify the actual execution host, repository root, branch/HEAD, available
-  inputs, and tools before editing. A phone is the control surface: a cloud
+  inputs, and tools before editing. Desktop is a control surface too: verify whether
+  the session runs locally or in a cloud container, and whether it created another
+  worktree. Resolve assignment mismatches before dependent edits; do not switch
+  branches or copy inputs merely to force a match. A phone is the control surface: a cloud
   checkout and Remote access to the Mac are different environments. If no
   repository tools are available, continue useful analysis without claiming edits.
 - Read this file, `docs/carnegie-hall/PROGRESS.md`, and the relevant strategy in the
