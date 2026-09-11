@@ -93,6 +93,7 @@ def test_stated_year_beats_date_derived_year():
 def test_scrape_reports_blocked_without_a_key(tmp_path, monkeypatch):
     from scrapers import serpapi
     monkeypatch.delenv(news_east.ENV_KEY, raising=False)
+    monkeypatch.setattr(serpapi, "DOTENV_PATH", tmp_path / ".env")
     monkeypatch.setattr(serpapi, "CACHE_DIR", tmp_path)   # nothing cached
     with pytest.raises(BlockedSource, match="SERPAPI_KEY not set"):
         news_east.scrape()
@@ -101,6 +102,7 @@ def test_scrape_reports_blocked_without_a_key(tmp_path, monkeypatch):
 def test_cached_searches_need_no_key(tmp_path, monkeypatch, fixture_html):
     from scrapers import serpapi
     monkeypatch.delenv(news_east.ENV_KEY, raising=False)
+    monkeypatch.setattr(serpapi, "DOTENV_PATH", tmp_path / ".env")
     monkeypatch.setattr(serpapi, "CACHE_DIR", tmp_path)
     monkeypatch.setattr(news_east, "INTERIM_DIR", tmp_path)
     monkeypatch.setattr(news_east, "HEADLINES_CSV", tmp_path / "news_east_headlines.csv")

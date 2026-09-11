@@ -1,10 +1,10 @@
 """SerpAPI client shared by the news pull and the school-website search fallback.
 
-Owner-supplied key in SERPAPI_KEY (set in the cloud environment 2026-09-10). Every
+SERPAPI_KEY comes from the environment or this checkout's private .env file. Every
 search is cached as JSON under data/raw/serpapi.com/<sha1(engine|query)>.json with a
-.meta.json sidecar; the key is read from the environment only and never written to
-disk. serpapi.com's robots.txt lists /search.json as disallowed for crawlers; the
-owner's decision is that a keyed API call under SerpAPI's terms is not crawling, so
+.meta.json sidecar; credentials must stay out of cache, logs, and tracked files.
+serpapi.com's robots.txt lists /search.json as disallowed for crawlers; the
+project decision is that a keyed API call under SerpAPI's terms is not crawling, so
 this client does its own throttling (1 request/sec) instead of going through
 scrapers.common.fetch(). Any failure raises BlockedSource; nothing is guessed.
 
@@ -20,14 +20,27 @@ import time
 from pathlib import Path
 
 import requests
+from dotenv import dotenv_values
 
-from scrapers.common import RAW_DIR, TIMEOUT, USER_AGENT, BlockedSource, _throttle
+from scrapers.common import ROOT, RAW_DIR, TIMEOUT, USER_AGENT, BlockedSource, _throttle
 
 URL = "https://serpapi.com/search.json"
 ACCOUNT_URL = "https://serpapi.com/account.json"
 ENV_KEY = "SERPAPI_KEY"
 CACHE_DIR = RAW_DIR / "serpapi.com"
 HOST = "serpapi.com"
+DOTENV_PATH = ROOT / ".env"
+
+
+def _api_key() -> str:
+    """Read only the project key; an explicit environment value takes precedence."""
+    if ENV_KEY in os.environ:
+        return os.environ[ENV_KEY].strip()
+    try:
+        settings = dotenv_values(DOTENV_PATH, interpolate=False)
+    except (OSError, UnicodeError):
+        raise BlockedSource("Cannot read the project's .env file; check access and UTF-8 encoding.") from None
+    return (settings.get(ENV_KEY) or "").strip()
 
 
 def cache_path(engine: str, query: str) -> Path:
@@ -35,7 +48,7 @@ def cache_path(engine: str, query: str) -> Path:
 
 
 def key_present() -> bool:
-    return bool(os.environ.get(ENV_KEY))
+    return bool(_api_key())
 
 
 def search(engine: str, query: str, *, force: bool = False, **params) -> dict:
@@ -43,7 +56,7 @@ def search(engine: str, query: str, *, force: bool = False, **params) -> dict:
     p = cache_path(engine, query)
     if p.exists() and not force:
         return json.loads(p.read_text(encoding="utf-8"))
-    key = os.environ.get(ENV_KEY, "")
+    key = _api_key()
     if not key:
         raise BlockedSource(f"{ENV_KEY} not set")
     resp = None
@@ -56,15 +69,15 @@ def search(engine: str, query: str, *, force: bool = False, **params) -> dict:
             break
         except requests.RequestException as e:
             if attempt:
-                raise BlockedSource(f"SerpAPI request failed: {e}") from e
+                raise BlockedSource(f"SerpAPI request failed ({type(e).__name__}).") from None
     try:
         payload = resp.json()
-    except ValueError as e:
-        raise BlockedSource(f"SerpAPI returned non-JSON (HTTP {resp.status_code})") from e
-    err = payload.get("error", "")
+    except ValueError:
+        raise BlockedSource(f"SerpAPI returned non-JSON (HTTP {resp.status_code})") from None
+    err = payload.get("error", "").replace(key, "[redacted]")
     no_results = "hasn't returned any results" in err
-    if resp.status_code != 200 and not no_results:
-        raise BlockedSource(f"SerpAPI HTTP {resp.status_code}: {err or resp.text[:200]}")
+    if (resp.status_code != 200 or err) and not no_results:
+        raise BlockedSource(f"SerpAPI HTTP {resp.status_code}: request failed")
     if no_results:
         payload = {"organic_results": [], "news_results": [], "note": err}
     payload.pop("search_metadata", None)   # per-search endpoints tied to the account
@@ -80,7 +93,7 @@ def search(engine: str, query: str, *, force: bool = False, **params) -> dict:
 
 def searches_left() -> int | None:
     """Remaining monthly quota, or None if the account endpoint is unreachable."""
-    key = os.environ.get(ENV_KEY, "")
+    key = _api_key()
     if not key:
         return None
     try:

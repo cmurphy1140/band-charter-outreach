@@ -4,6 +4,8 @@ __pycache__/
 .pytest_cache/
 *.egg-info/
 .env
+.env.*
+!.env.example
 .DS_Store
 data/raw/*
 # SerpAPI responses are tracked: each one costs monthly quota and holds no key.
