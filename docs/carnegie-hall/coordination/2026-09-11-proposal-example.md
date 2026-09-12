@@ -1,6 +1,6 @@
 # Claude assignment: fictional group proposal
 
-Status: reserved and prepared by Codex; not launched. Coordinator retains shared
+Status: completed by Claude; reviewed and accepted with bounded integration-copy corrections. Coordinator retains shared
 instructions, progress, integration and all demo files. No parallel UI assignment.
 
 ## Checkout and starting point
@@ -97,3 +97,16 @@ links. Business answers are not a prerequisite for accepting this internal draft
   questions and one suggested next action in the owned handoff. Do not edit PROGRESS.md.
 - Leave the four outputs uncommitted for coordinator review. No push, merge, sync,
   fetch, worktree removal, audio work, server or follow-up task. Stop and remain idle.
+
+## Acceptance receipt — September 11, 2026
+
+Reviewed four uncommitted outputs against exact base `0859701b6f78b423ac2eeca0bc599c0a859c79de`.
+Worker originals remain untouched. Accepted-copy corrections and SHA-256 receipt
+are in [the review](../materials/PROPOSAL-EXAMPLE-REVIEW.md); independent rendering
+confirms two readable pages, and ordered Markdown/Word text agrees. No required
+check remains blocked; native Word and physical-iPhone checks remain unperformed.
+Frozen files were copied to clean `codex/review-proposal-example` from target
+`b98b1d3`, then locally checkpointed for fast-forward integration. No worker commit,
+reset or sync was used. Claude remains idle at its original base with four originals
+uncommitted; no further assignment. See [progress](../PROGRESS.md) for the integration
+route and exact-checkpoint resolution. No push or UI increment.

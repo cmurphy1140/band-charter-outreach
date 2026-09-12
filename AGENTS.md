@@ -31,9 +31,11 @@ Twenty focused Node tests and desktop/mobile browser checks pass. The protected
 build preserves manual edits and reviewed source versions. UI refinement is paused.
 Work is on `codex/carnegie-director-faq`; resolve the checkpoint and current worker
 state from [PROGRESS.md](docs/carnegie-hall/PROGRESS.md). No push occurred.
-Claude's next reserved assignment is a fictional group proposal and internal
-claim review, not UI work; see [the assignment](docs/carnegie-hall/coordination/2026-09-11-proposal-example.md).
-Claude remains unlaunched. Earlier status paragraphs below are historical.
+Claude's fictional group proposal is reviewed and accepted with bounded wording
+corrections and a verified two-page render; see [the assignment](docs/carnegie-hall/coordination/2026-09-11-proposal-example.md).
+Claude remains idle with its four uncommitted originals preserved. No further task
+is assigned; the reviewed copies are standalone materials. Earlier status paragraphs
+below are historical.
 
 2026-09-11: The [connected local example](demo/carnegie-hall/README.md) includes
 reviewed Wando and Salem cases, an initial editable workbook with twelve public

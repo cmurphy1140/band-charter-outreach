@@ -18,7 +18,7 @@ issued offers. [The internal claim review](../INTERNAL-DECISIONS.md#march-3-dire
 maps each answer to the supplied brochure or labels it as a recommendation.
 Detailed business questions stay in that register; MTC is absent from the FAQ and
 its event relationship remains unconfirmed. The retained partner sheet is still separate;
-an editable partner export and full proposal example remain future work.
+an editable partner export remains future work; the proposal checkpoint follows.
 
 The FAQ remains a manually maintained document pair, now connected to the
 [Materials view](../../../demo/carnegie-hall/index.html#material) through protected
@@ -81,3 +81,16 @@ Use document/DOCX/PDF tools for editable sources and rendered verification, desi
 Check March 3 throughout; match all event facts across the four materials; remove any live inventory implication; verify source links; and keep example organizations and activities identifiable as illustrative. Check that the files open independently of the demo.
 
 Completion means a coherent, editable set that makes the value tangible. Before issuing a firm real offer, the applicable price, inclusions, availability, deadline, protection wording, and recipient-specific terms must be confirmed. That later confirmation is not a prerequisite for producing these examples.
+
+## Proposal checkpoint — September 11, 2026
+
+The [fictional proposal](<../materials/Troen - Carnegie Hall Proposal Example.md>)
+and [Word copy](<../materials/Troen - Carnegie Hall Proposal Example.docx>) are
+accepted internal examples, with [evidence and review](../materials/PROPOSAL-EXAMPLE-REVIEW.md)
+kept separate. Two-page rendering verified using bundled LibreOffice/Poppler;
+ordered text agrees. Arrival/attire claims were narrowed, school-approval guidance
+framed as a recommendation and supplier-change consequences made explicitly fictional.
+Native Word/iPhone display remains unverified. This is a standalone content output;
+no demo integration or UI change. Worker originals are preserved. Discover tools
+per execution environment and verify rendering rather than inheriting an earlier
+session's tool limitation. A fictional trigger does not establish its consequences.

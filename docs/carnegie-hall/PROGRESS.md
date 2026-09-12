@@ -4,6 +4,53 @@
 
 Last updated: September 11, 2026. This is the compact record to read when resuming. The plan and strategies describe the current approach; this file records what actually exists, what changed, and the next suggested increment. Update it during active work, not through an assumed background process.
 
+## Proposal example review and integration — September 11, 2026
+
+**Accepted with three wording corrections**, retained in matching Markdown/Word:
+[proposal](<materials/Troen - Carnegie Hall Proposal Example.md>),
+[editable Word](<materials/Troen - Carnegie Hall Proposal Example.docx>),
+[review and evidence map](materials/PROPOSAL-EXAMPLE-REVIEW.md), and
+[original worker handoff](coordination/claude-proposal-example-handoff.md).
+The roughly 1,080-word worker draft is proportionate; normalized counts are 1,024
+original / 1,001 revised words. Both versions render as two readable Letter pages.
+Corrections narrow arrival/attire evidence, label approval guidance as a proposal,
+and make the motorcoach scenario's outcomes explicit invented assumptions. No
+real-trip terms, supplier details or regulatory rule were transferred. March 3 only;
+MTC remains absent from the proposal and its relationship unconfirmed.
+
+**Verification:** exactly four untracked worker outputs at
+`0859701b6f78b423ac2eeca0bc599c0a859c79de`; no tracked worker changes. Original
+outputs frozen by SHA-256 and preserved. Brochure pages 1–6 and I11 visually checked;
+ordered Markdown/Word text agrees (whitespace/apostrophe normalization), Word ZIP/XML
+and two hyperlinks pass, local Markdown links resolve. Bundled LibreOfficeDev plus
+Poppler rendered original/revised documents; all four resulting pages inspected,
+with intact tables, readable text/footers and no clipping. Native Word is installed
+but not exercised; actual Word/iPhone display remains unverified. No required check
+is blocked. Existing FAQ, research, workbook, logistics, demo and unrelated work
+remain unchanged. No UI work, new dependencies, network research, push or audio.
+
+**Integration route:** frozen uncommitted additions copied into a new clean review
+worktree from current target `b98b1d37b6311c59f0bd3821e6dfe1dd7e18885e`, reviewed and
+corrected there, then locally committed with shared records. Target branch
+`codex/carnegie-director-faq` advances by fast-forward only after verification.
+Resolve the accepted checkpoint with `git log -1 --format=%H -- docs/carnegie-hall/materials/PROPOSAL-EXAMPLE-REVIEW.md`.
+Review path: `/Users/connormurphy/Desktop/Projects/band-charter-outreach-worktrees/proposal-review`,
+branch `codex/review-proposal-example`; retained after integration.
+Claude path: `/Users/connormurphy/Desktop/Projects/band-charter-outreach-worktrees/claude-partner-research`,
+branch `codex/claude-proposal-example`, HEAD stays at `0859701` with the same four
+uncommitted originals. Claude stopped editing per user handoff and stays idle;
+no task or process was launched there. Existing main-checkout preview server is
+unaffected. Unrelated chatbot note, duplicate Zoho files and NotebookLM packs excluded.
+
+**Next recommendation:** a bounded comparison of Troen's documented festival offer
+with two performance-event providers would fill the remaining provider-comparison
+gap. Do not start it without the user's next prompt. The proposal can be inspected
+as a standalone deliverable now; no business answers gate its internal acceptance.
+Reusable lessons: discover rendering tools per environment, compare ordered document
+text, and label every assumed scenario consequence as carefully as its trigger.
+See [START-HERE-LEARNING.md](START-HERE-LEARNING.md). Earlier records retain their
+historical status; this review closes the proposal assignment.
+
 ## Completed checkpoint and Claude preflight receipt — September 11, 2026
 
 Combined product checkpoint committed locally as
