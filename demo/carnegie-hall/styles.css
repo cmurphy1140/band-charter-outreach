@@ -284,3 +284,64 @@ main > [data-page] > h2, .scenario-heading h2 { font-size: var(--text-heading); 
 .profile .evidence-row { padding-block: 10px 24px; }
 .profile .fit { margin-top: 16px; }
 .profile .fit h4 { margin: 0 0 16px; font-size: var(--text-body); }
+
+/* Conversation layout: a stable menu, a reading stage, and optional context. */
+.presentation-shell { max-width: 1680px; margin: 0 auto; padding: 32px; display: grid; grid-template-columns: 184px minmax(0, 1fr) 296px; gap: 40px; align-items: start; }
+.masthead { max-width: 1680px; padding-inline: 32px; min-height: 112px; border-bottom: 1px solid var(--line); }
+.masthead .brand { width: 132px; }
+.presentation-shell .steps { position: sticky; top: 32px; display: flex; flex-direction: column; gap: 8px; padding: 0; margin: 0; border: 0; }
+.presentation-shell .steps a { justify-content: flex-start; white-space: normal; min-height: 48px; padding: 12px 16px; border: 0; border-radius: 6px; }
+.presentation-shell .steps a[aria-current] { background: var(--surface-elevated); box-shadow: inset 3px 0 var(--accent-secondary); }
+.presentation-stage { min-width: 0; }
+.presentation-stage .page-intro { margin: 0; padding: 0 0 24px; }
+.presentation-stage .page-intro h1 { font-size: 28px; margin-bottom: 0; max-width: 30ch; }
+.presentation-stage .page-intro .context { margin-bottom: 8px; }
+.presentation-stage main { max-width: none; padding: 24px 0 32px; border-top: 1px solid var(--line); }
+.presentation-stage :is(.profile, .comparison, #mtc-example, .workflow) { padding-left: 0; }
+.presentation-stage .profile { max-width: none; }
+.presentation-stage .profile > h3 { font-size: 28px; margin-block: 8px; }
+.presentation-stage .profile .context { margin-bottom: 8px; }
+.presentation-stage .profile .evidence-row { padding-block: 8px 16px; }
+.presentation-stage .profile .fit { margin-block: 16px 24px; }
+.presentation-stage .comparison { margin-top: 16px; padding-top: 0; border: 0; }
+.presentation-stage .document-preview { max-width: none; padding: 32px; }
+.context-panel { min-width: 0; padding-left: 24px; border-left: 1px solid var(--line); font-size: var(--text-note); }
+.context-panel .event-context { border: 0; padding: 0; }
+.context-panel :is(p, a, summary, h3) { font-size: var(--text-note); }
+.context-panel h2 { font-size: var(--text-body); }
+.context-panel .event-overview .event-card { padding: 16px; }
+.context-panel .event-overview .experience-list { grid-template-columns: 1fr; gap: 0; }
+.context-panel .source-grid { grid-template-columns: 1fr; gap: 16px; padding-block: 8px; }
+.context-panel .source-grid article { margin-bottom: 16px; }
+.context-panel :is(.contact, .sources, .research-overview) { margin: 0; border: 0; padding: 0; }
+.context-panel .demo-context { margin-bottom: 16px; padding-bottom: 16px; border-bottom: 1px solid var(--line); }
+.context-panel .download-links { display: flex; flex-direction: column; align-items: start; margin-top: 0; padding-top: 0; border: 0; gap: 16px; }
+.context-panel .download-links a { line-height: 1.5; }
+.site-footer { max-width: 1680px; padding-inline: 32px; }
+@media (max-width: 1199px) {
+  .presentation-shell { grid-template-columns: 160px minmax(0, 1fr); gap: 24px; padding: 24px; }
+  .context-panel { grid-column: 2; border-left: 0; border-top: 1px solid var(--line); padding: 24px 0 0; }
+}
+@media (max-width: 700px) {
+  .presentation-shell { display: block; padding: 16px 24px; }
+  .presentation-shell .steps { position: static; flex-direction: row; gap: 4px; margin-bottom: 24px; }
+  .presentation-shell .steps a { justify-content: center; padding: 10px 8px; font-size: 13px; }
+  .presentation-shell .steps a[aria-current] { box-shadow: inset 0 -3px var(--accent-secondary); }
+  .presentation-stage .page-intro h1 { font-size: 24px; }
+  .presentation-stage .document-preview { padding: 24px; }
+  .context-panel { margin-top: 16px; }
+  .masthead { padding-inline: 24px; }
+  .masthead .brand { width: 112px; }
+}
+@media print {
+  .presentation-shell { display: block; padding: 0; }
+  .presentation-shell .steps, .context-panel { display: none; }
+  .presentation-stage main { border: 0; }
+}
+
+/* Secondary examples can wait until the presenter invites the next question. */
+.presentation-stage .optional-detail { margin-top: 32px; border-top: 1px solid var(--line); }
+.presentation-stage .optional-detail > summary { font-weight: 600; padding-block: 16px; }
+.presentation-stage .optional-detail .workflow { margin-top: 0; }
+.presentation-stage .evidence { max-width: 80ch; }
+.presentation-stage .situations { margin-block: 24px; }

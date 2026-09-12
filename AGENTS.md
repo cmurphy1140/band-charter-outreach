@@ -22,11 +22,19 @@ Read [the reference pack](docs/carnegie-hall/README.md) and
 
 ## Current Status
 
+2026-09-12: Conversation-layout refinement is verified on `codex/conversation-layout`.
+Left navigation and right context keep the main example central. Salem and the five
+fictional planning states expand on request. Materials retains its full selected
+document and matching downloads. Twenty Node checks and four-width browser checks
+pass; documents are unchanged. User authorized the push; see PROGRESS for the
+publication outcome. No new Claude assignment.
+
 2026-09-12: GitHub/Vercel preparation authorized. Publish the accepted demo through
 root `vercel.json`; `scripts/package-demo.cjs` copies an explicit list into `dist/`
 without regenerating documents or running research. Root directory is `.`, production
-branch is `main`. GitHub main publication was verified at `731ff31`. Vercel linking/deployment remains
-unverified; see PROGRESS for results and pending local work. Prior no-push statements below describe earlier tasks.
+branch is `main`. GitHub main is published through `cf61cb7`. The live demo at
+https://troen-spe.vercel.app/ is verified with matching assets, navigation and FAQ
+download. Future automatic deployments remain to be observed; see PROGRESS. Prior no-push statements below describe earlier tasks.
 
 
 2026-09-11, combined FAQ/demo checkpoint: Opportunities, Materials and Example

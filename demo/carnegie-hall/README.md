@@ -40,16 +40,17 @@ The MTC card uses three sources from the [reviewed pilot register](../../docs/ca
 
 The approved first increment follows [experience strategy 04](../../docs/carnegie-hall/strategies/04-poc-experience-and-design.md) and [materials strategy 05](../../docs/carnegie-hall/strategies/05-director-and-partner-materials.md). A static folder was chosen over a new application framework because this example needs navigation, source review, downloads, and a resettable fictional scenario, with no backend. The original Python pipeline was inspected and preserved; Wando was selected from its candidate list and researched afresh.
 
-The layout follows the work: research first, matching material second, possible next actions third. The research view places a school profile beside the event explanation; the material view pairs download controls with a document preview; the scenario view separates the fictional group from the real school.
+The September 12 conversation-layout prototype uses a left menu, a central reading
+stage and a right supporting-context column at desktop widths. On narrower screens,
+context follows the main content. The existing event explanation and introduction
+remain in disclosures. The navigation script moves existing source/contact and
+download nodes into context panels, keeping their page/selection visibility in sync.
+Salem and the five workflow states open on request to provide a natural pause.
+With JavaScript disabled, those nodes stay in their original sections and details
+remain readable. See the
+[presentation path](../../docs/carnegie-hall/PRESENTATION-PATH.md) for the accepted direction.
 
-```text
-Troen              Carnegie Hall, March 3             Demonstration
-1 Research the fit | 2 Shape the conversation | 3 What follows
-School and evidence                      Event and learning experience
-Director sheet                           Sources and internal unknowns
-```
-
-The visual direction is a readable performance program: Georgia display type, system sans-serif body text, left-aligned copy, generous spacing, and a restrained cool palette. Tokens are ink `#173f42`, accent `#1d5d55`, paper `#fbfcfa`, surface `#f0f5f2`, line `#c8d5cf`, and muted text `#51635b`. Depth stays subtle. The Word sheet pairs Georgia with Arial for reliable rendering. This avoids a dashboard full of invented metrics while keeping the real evidence prominent.
+The visual direction is a readable performance program: one system sans-serif family, left-aligned copy, generous spacing, and a restrained cool palette. Tokens are ink `#173f42`, accent `#1d5d55`, paper `#fbfcfa`, surface `#f0f5f2`, line `#c8d5cf`, and muted text `#51635b`. Depth stays subtle. The Word sheet pairs Georgia with Arial for reliable rendering. This avoids a dashboard full of invented metrics while keeping the real evidence prominent.
 
 All existing image and font paths were inventoried before visual work. The repository had logistics photographs and research-report renders but no existing POC interface, logo, or bundled typeface to reuse. There was no previous interface screenshot to capture. This text-forward design uses no photographs, invented venue assets, external fonts, or icon package. The referenced Desktop design-arsenal file was unavailable; the project’s documented aesthetic direction was used.
 

@@ -4,6 +4,67 @@
 
 Last updated: September 12, 2026. This is the compact record to read when resuming. The plan and strategies describe the current approach; this file records what actually exists, what changed, and the next suggested increment. Update it during active work, not through an assumed background process.
 
+## Conversation layout ready for publication — September 12, 2026
+
+User authorized continuing the iterative plan and pushing the finished increment.
+The Wando-first pass found the immediate Salem example competed with the pause;
+it now opens on request. The workflow likewise shows one fictional situation,
+then offers its five preserved planning states in a disclosure. Its brief download
+moves to the right. Materials retains a complete selected document. This completes
+the bounded refinement; audience comprehension still requires the user's rehearsal.
+
+Verified after this pass: all 20 demo/review tests; Chrome checks at 1720, 1280,
+1024 and 393px for route/support isolation, selectors, actual FAQ download, reset,
+no overflow/errors, plus no-JavaScript fallback. Separate checks open Salem and
+all five planning states. Desktop before/after screenshots inspected. Existing
+Word/Markdown materials, workbook, brochure and research-note hashes are unchanged.
+No source evidence or business claim changed. MTC relationship remains unconfirmed.
+
+The checkpoint includes the layout, template/generated HTML and manifest, app.js,
+styles, demo README, shared status and presentation plan. The unrelated chatbot
+note, Archive, duplicate Zoho files and NotebookLM packs remain local. Claude and
+all worker checkouts are untouched. Main preview server remains on 8765.
+Next: push this verified checkpoint, confirm GitHub main and the live Vercel files.
+
+## Conversation-layout prototype — September 12, 2026
+
+Accepted direction: use desktop width for left navigation, central example and
+right supporting context. The user now prompts from a phone; implementation remains
+on the Mac in `/Users/connormurphy/Desktop/Projects/band-charter-outreach`, branch
+`codex/conversation-layout`, based on published `cf61cb7`. No worker checkout edits.
+[PRESENTATION-PATH.md](PRESENTATION-PATH.md#accepted-layout-direction--september-12-2026)
+now records the layout as well as the original walkthrough.
+
+Implemented in `demo/carnegie-hall/index.template.html`, `styles.css`, and `app.js`.
+The full introduction becomes an optional disclosure; event context, school sources,
+contacts and selected document downloads occupy the right column. Existing nodes
+are relocated once, preserving their content and selection/disclosure behavior.
+At narrower widths context follows the main content; navigation becomes horizontal.
+The HTML-only protected build refreshed `index.html` and its manifest. No new assets,
+content research, document regeneration, or business claims. Logo and colors retained.
+
+Verified: 20 existing Node tests pass. Chrome browser checks at 1720, 1280, 1024 and
+393px cover routes, school/operator context isolation, document/download switching,
+actual FAQ Word download, scenario reset, no horizontal overflow and no JS errors.
+The no-JavaScript fallback retains all pages and downloads. The initial browser
+assertion raced hashchange; waiting for the actual view change passes at all sizes.
+Document/workbook/brochure/research-note hashes remain unchanged. Desktop before/after
+and phone-sized screenshots inspected. Real iOS Safari behavior is not tested.
+Local screenshots are in `Archive/conversation-layout/`, excluded from publication.
+
+User accepted the conversation approach: choose on the left, explain down the
+center, explore supporting details on the right; show → explain → pause.
+The [iterative refinement plan](PRESENTATION-PATH.md#iterative-refinement-plan--september-12-2026)
+now defines Wando-first refinement, review/revision, application to Materials and
+workflow, verification and a stop rule. This planning update adds no UI changes.
+At the earlier prototype checkpoint, changes were uncommitted and unpushed.
+The public Vercel site still has the previous layout. Prior live-verification edits
+to AGENTS/PROGRESS are retained alongside this update; the unrelated chatbot note,
+Replit snapshot, duplicate Zoho files and NotebookLM packs remain untouched.
+Existing preview port 8765 is preserved. Claude was not launched or assigned.
+Next: perform the Wando-first pass in the saved iterative plan; carry only useful
+changes across the other views before verification and authorized publication.
+
 ## GitHub / Vercel preparation — September 12, 2026
 
 User corrected Replit to Vercel and authorized bringing GitHub main up to date.
@@ -36,8 +97,15 @@ credentials were changed. This follow-up documentation commit records that resul
 Only TOOLS-AND-CONNECTORS.md and the listed local archive/duplicate directories
 remain outside the checkpoint. The active checkout stays on
 `codex/carnegie-director-faq`; worker worktrees remain untouched.
-Vercel account connection, hosted build and public URL remain unverified; the user
-is preparing Vercel. Next: import GitHub main and verify the resulting deployment.
+Live verification September 12: https://troen-spe.vercel.app/ returns HTTP 200.
+Chrome successfully navigated all three routes, selected FAQ and downloaded its
+Word file. All 13 published files match the reviewed local package byte-for-byte.
+The first comparison counted a Finder-created local .DS_Store; excluding that
+unpublished metadata yielded the correct 13-file comparison. No UI changes made.
+The public site is verified; Vercel account settings and automatic deployment on a
+future push have not been independently inspected. Next: use the live demo for
+review; verify a future authorized push reaches this URL before claiming auto-sync.
+This verification note is local and uncommitted pending the next checkpoint.
 
 ## Rehearsal and independent reader review — September 11, 2026
 

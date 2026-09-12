@@ -16,24 +16,35 @@
     <div class="event-heading"><strong>Carnegie Hall</strong><span>March 3, 2027</span></div>
 
   </header>
-  <div class="page-intro">
-    <p class="context">Working demonstration</p>
-    <h1>From research to a useful next step</h1>
-    <p>A working example prepared for Troen by its logistics and software developer. Explore researched opportunities, draft materials, and an illustrative follow-up process—and identify what would be useful in your work.</p>
-    <p class="small reading-note"><strong>How to read this:</strong> Research suggests possibilities, not confirmed interest or bookings. Materials are internal drafts; no outreach has been sent. Specific unknowns remain with each example.</p>
-    <div class="event-context"><strong>Carnegie Hall · March 3, 2027</strong><span>Stern Auditorium / Perelman Stage</span>{{event}}</div>
-  </div>
+  <div class="presentation-shell">
   <nav class="steps" aria-label="Example walkthrough">
     <a href="#research" aria-current="page">Opportunities</a>
     <a href="#material">Materials</a>
     <a href="#follow-up">Example workflow</a>
   </nav>
+  <div class="presentation-stage">
+  <div class="page-intro">
+    <p class="context">Working demonstration</p>
+    <h1>From research to a useful next step</h1>
+  </div>
   <main id="main" tabindex="-1">
     <noscript><p class="simulation-notice">JavaScript is off. All three sections remain readable below; scenario switching requires JavaScript.</p></noscript>
     <section data-page="research" aria-labelledby="research-title">{{research}}</section>
     <section data-page="material" aria-labelledby="material-title">{{material}}</section>
     <section data-page="follow-up" aria-labelledby="follow-up-title">{{followup}}</section>
   </main>
+  </div>
+  <aside class="context-panel" aria-label="Supporting context">
+    <div class="event-context"><strong>Carnegie Hall · March 3, 2027</strong><span>Stern Auditorium / Perelman Stage</span>{{event}}</div>
+    <details class="demo-context"><summary>About this demonstration</summary>
+      <p>A working example prepared for Troen by its logistics and software developer. Explore researched opportunities, draft materials, and an illustrative follow-up process—and identify what would be useful in your work.</p>
+      <p class="small reading-note"><strong>How to read this:</strong> Research suggests possibilities, not confirmed interest or bookings. Materials are internal drafts; no outreach has been sent. Specific unknowns remain with each example.</p>
+    </details>
+    <div data-support="research"></div>
+    <div data-support="material"></div>
+    <div data-support="follow-up"></div>
+  </aside>
+  </div>
   <footer class="site-footer"><span>Two school cases and one research candidate. No outreach sent.</span><span>Updated September 11, 2026</span></footer>
 </body>
 </html>
