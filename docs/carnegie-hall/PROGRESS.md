@@ -28,8 +28,14 @@ FAQ selection, actual Word download, all 13 HTTP responses and no JavaScript err
 An initial download check targeted the hidden FAQ before selecting it; the corrected
 user-flow check passed. Temporary verification servers were stopped.
 Diff whitespace and credential-pattern checks passed. No legacy refresh was run.
-This checkpoint is prepared for the authorized fast-forward push; confirm remote
-HEAD before treating publication as complete.
+Published accepted history plus hosting checkpoint `731ff31` to GitHub main;
+`git ls-remote` verified `731ff318c3c761e7faf4e46493bfc2ef0c44b187` after push.
+HTTPS Keychain access stalled and the Intel GitHub helper failed in Git's subprocess;
+the existing authenticated SSH connection succeeded. No remote configuration or
+credentials were changed. This follow-up documentation commit records that result.
+Only TOOLS-AND-CONNECTORS.md and the listed local archive/duplicate directories
+remain outside the checkpoint. The active checkout stays on
+`codex/carnegie-director-faq`; worker worktrees remain untouched.
 Vercel account connection, hosted build and public URL remain unverified; the user
 is preparing Vercel. Next: import GitHub main and verify the resulting deployment.
 
