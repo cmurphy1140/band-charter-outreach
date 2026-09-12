@@ -10,3 +10,7 @@ __pycache__/
 data/raw/*
 # SerpAPI responses are tracked: each one costs monthly quota and holds no key.
 !data/raw/serpapi.com/
+
+# Disposable static hosting output and local Vercel settings
+/dist/
+/.vercel/

@@ -2,7 +2,65 @@
 
 [Start here](README.md) · [Shared project instructions](../../AGENTS.md) · [Strategies](strategies/README.md) · [Internal decisions](INTERNAL-DECISIONS.md)
 
-Last updated: September 11, 2026. This is the compact record to read when resuming. The plan and strategies describe the current approach; this file records what actually exists, what changed, and the next suggested increment. Update it during active work, not through an assumed background process.
+Last updated: September 12, 2026. This is the compact record to read when resuming. The plan and strategies describe the current approach; this file records what actually exists, what changed, and the next suggested increment. Update it during active work, not through an assumed background process.
+
+## GitHub / Vercel preparation — September 12, 2026
+
+User corrected Replit to Vercel and authorized bringing GitHub main up to date.
+Accepted baseline is `0c0cbaf`; fresh remote main is `5155cfa`, its ancestor.
+The publishing checkpoint adds root `vercel.json` and `scripts/package-demo.cjs`:
+13 explicitly selected browser files are copied verbatim into ignored `dist/`.
+No UI, research, data or editable materials are regenerated. Import the repository
+with root `.`, framework Other and production branch main. No install or secret
+is needed. The standalone proposal remains outside the website.
+
+The earlier Replit package under local `Archive/` is superseded and remains local,
+along with duplicate Zoho files, NotebookLM packs and the unrelated chatbot note.
+Presentation path and reader assignment are included as intended project records;
+the original reader base remains `0c0cbaf` and its checkout is not advanced.
+No Claude launch or worker checkout edits. Existing preview server is preserved.
+
+Verified: all 20 demo/review Node tests and 25 runner preservation tests pass.
+Initial test execution lacked the bundled docx module; rerunning with the existing
+runtime module path passed, without installing dependencies. Packaging produced
+13 source-identical files. Chrome checks passed for all three navigation routes,
+FAQ selection, actual Word download, all 13 HTTP responses and no JavaScript errors.
+An initial download check targeted the hidden FAQ before selecting it; the corrected
+user-flow check passed. Temporary verification servers were stopped.
+Diff whitespace and credential-pattern checks passed. No legacy refresh was run.
+This checkpoint is prepared for the authorized fast-forward push; confirm remote
+HEAD before treating publication as complete.
+Vercel account connection, hosted build and public URL remain unverified; the user
+is preparing Vercel. Next: import GitHub main and verify the resulting deployment.
+
+## Rehearsal and independent reader review — September 11, 2026
+
+User chose rehearsal plus an independent unfamiliar-reader review; the earlier
+provider-comparison recommendation is deferred, not an assignment. The five-minute
+[presentation path](PRESENTATION-PATH.md) is retained in the main checkout only.
+Rehearsal has no recorded user findings yet; collect only interruptions to understanding.
+
+Prepared [Claude reader-review assignment](coordination/2026-09-11-reader-review.md),
+not launched. New clean checkout:
+`/Users/connormurphy/Desktop/Projects/band-charter-outreach-worktrees/claude-reader-review`,
+branch `codex/claude-reader-review`, base `0c0cbaf68f3e1092b3ffbcbe8c0a76222a5a5fd7`.
+Verified 13 inputs and 10 generated hashes. Only owned output is
+`docs/carnegie-hall/coordination/claude-reader-review.md` in that checkout; maximum
+five evidenced reader interruptions, no implementation. The older Claude checkout
+remains at `0859701` with its four uncommitted originals; it was not modified.
+The accepted proposal is present in the new worktree, not the uncorrected original.
+
+Port 8765 / PID 21060 remains for the user. Reserve 8766 for Claude if needed;
+it was free at preparation, and Claude must recheck before starting. No new server
+or Claude process was launched. This progress update, assignment and presentation
+path are main-only and uncommitted, absent from the reviewer base. The walkthrough
+script is deliberately withheld from its initial prompt and checkout. Unrelated
+chatbot note, duplicate Zoho working files and NotebookLM packs are also excluded;
+none is required for the reader review. Committed deliverables match exactly.
+
+After both reviews, reconcile and deduplicate findings, reproduce behavior where
+needed, and recommend only necessary corrections. No UI/research work or automatic
+fixes are authorized by this preparation. No push or commit performed.
 
 ## Proposal example review and integration — September 11, 2026
 

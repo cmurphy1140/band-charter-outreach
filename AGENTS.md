@@ -22,6 +22,13 @@ Read [the reference pack](docs/carnegie-hall/README.md) and
 
 ## Current Status
 
+2026-09-12: GitHub/Vercel preparation authorized. Publish the accepted demo through
+root `vercel.json`; `scripts/package-demo.cjs` copies an explicit list into `dist/`
+without regenerating documents or running research. Root directory is `.`, production
+branch is `main`. Vercel linking/deployment remains unverified; see PROGRESS for push
+results and pending local work. Prior no-push statements below describe earlier tasks.
+
+
 2026-09-11, combined FAQ/demo checkpoint: Opportunities, Materials and Example
 workflow now share a purpose statement, authentic logo and restrained typography.
 Materials previews the reviewed FAQ inline and offers unchanged Word/Markdown

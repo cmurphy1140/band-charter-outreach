@@ -136,3 +136,19 @@ One page H1 precedes panel headings. Route changes focus the panel heading; docu
 selection focuses its preview heading. Controls are native links/buttons/disclosures.
 Without JavaScript, all evidence and previews remain readable. No dependencies,
 research records, editable documents, or workbook contents changed in this increment.
+
+## GitHub-connected Vercel hosting
+
+Import `cmurphy1140/band-charter-outreach`, production branch `main`, root directory
+`.` (repository root), framework **Other**. Root `vercel.json` skips installation,
+runs `node scripts/package-demo.cjs`, and publishes only `dist/`.
+The packaging command needs Node but no packages, credentials or API calls.
+It copies 13 explicitly listed browser assets and downloads verbatim, preserving
+reviewed/manual document edits. It does not run the legacy pipeline or regenerate
+the demo. Add future downloadable files/assets deliberately to the packaging list.
+The accepted proposal remains standalone, outside demo navigation and this web root.
+
+Local edits must first be reviewed, committed and pushed to the configured branch;
+then confirm the matching Vercel deployment is Ready before claiming the live site
+updated. Vercel account linking and the public URL require separate verification.
+See [Vercel configuration documentation](https://vercel.com/docs/project-configuration/vercel-json).
