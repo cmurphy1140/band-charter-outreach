@@ -26,8 +26,9 @@ Read [the reference pack](docs/carnegie-hall/README.md) and
 Left navigation and right context keep the main example central. Salem and the five
 fictional planning states expand on request. Materials retains its full selected
 document and matching downloads. Twenty Node checks and four-width browser checks
-pass; documents are unchanged. User authorized the push; see PROGRESS for the
-publication outcome. No new Claude assignment.
+pass; documents are unchanged. The UI is pushed at `74cf362` and verified live at
+https://troen-spe.vercel.app/. See PROGRESS for checks and remaining limits.
+No new Claude assignment.
 
 2026-09-12: GitHub/Vercel preparation authorized. Publish the accepted demo through
 root `vercel.json`; `scripts/package-demo.cjs` copies an explicit list into `dist/`

@@ -24,7 +24,15 @@ The checkpoint includes the layout, template/generated HTML and manifest, app.js
 styles, demo README, shared status and presentation plan. The unrelated chatbot
 note, Archive, duplicate Zoho files and NotebookLM packs remain local. Claude and
 all worker checkouts are untouched. Main preview server remains on 8765.
-Next: push this verified checkpoint, confirm GitHub main and the live Vercel files.
+Published UI checkpoint `74cf362b4eb020ca5921bafbae0f06f07f627da4` to GitHub main;
+remote HEAD verified. Vercel automatically served the update at
+https://troen-spe.vercel.app/ and all 13 public files match the local package.
+Live Chrome checks at 1720 and 393px pass for navigation, matched supporting panels,
+FAQ Word download, scenario reset, no overflow/errors and no-JavaScript content.
+This verifies the observed GitHub-to-Vercel update, not all future deployments.
+No real iOS Safari check performed. Next: rehearse the live view and record only
+interruptions to understanding. This documentation follow-up records the completed
+publication; no further UI task is running.
 
 ## Conversation-layout prototype — September 12, 2026
 
