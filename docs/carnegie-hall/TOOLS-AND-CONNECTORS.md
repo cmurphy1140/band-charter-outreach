@@ -105,6 +105,21 @@ The logistics and software developer will sometimes direct work from an iPhone. 
 
 Use the [handoff procedure](strategies/08-iteration-and-delivery.md#iphone-and-cloud-handoffs) for transfer and return. Public research, repository edits, and document preparation can proceed when their tools and inputs are available. Mac-native Word or computer-use steps require the appropriate host; record unavailable checks for the return session. No cloud environment, phone pairing, repository transfer, or automatic sync was established by this update.
 
+## Existing website chatbot — low-priority future idea
+
+Observed September 11, 2026 in Connor's supplied screenshot of
+https://troenspe.com/: a “Contact Us” interface with a reply labeled “Chatbot.”
+Connor reports that Troen uses GoDaddy and considers the existing capability
+impressive for a small company. The provider/configuration of the chatbot itself
+has not been independently verified; no message was sent by this task.
+
+Clarification from Connor: chatbot work is not important to the current project.
+The product he had in mind was Fin, retained only as a possible future reference,
+not a replacement recommendation or evaluation task. There is no demonstrated
+need to change the current setup. Revisit only if a concrete support problem
+emerges after the POC; verify the intended Fin product and its fit at that time.
+No implementation, account access, purchase, or integration is assigned.
+
 ## Optional integrations to evaluate later
 
 These are potential directions, **not verified connected capabilities for this project**. The recommended-plugin list supplied with this task marks the named marketplace options below as not installed. Their specific tool scope, plans, and fit must be checked if selected; no purchasing recommendation is being made.

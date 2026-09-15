@@ -164,9 +164,13 @@ manual corrections, and reconcile affected outputs after accepted changes.
   usefulness of the result. Explain one connection at a time in plain language;
   use familiar examples and technical detail when they add value.
   Confirmed 2026-09-10: Connor requested shorter project-wide responses.
-- Ask one useful question at a meaningful choice when needed. Allow repeated
-  questions and alternate explanations; do not quiz or assume familiarity from
-  vocabulary or silence. Continue work whose direction is already clear.
+- Important learning preference, confirmed 2026-09-12: curiosity leads. Connor
+  enjoys conversational interviews that explore his reasoning, with one thoughtful
+  question or small hint and room to think. Avoid prescribing a reading list or
+  curriculum by default. Help him step back when requested without taking over.
+  Allow repeated questions and alternate explanations; do not quiz or infer
+  familiarity from vocabulary or silence. Give direct answers and continue clear,
+  authorized work when requested; not every exchange needs another question.
 - Keep documents editable: Markdown for these references, DOCX/Word sources for
   prose deliverables, and editable workbooks for opportunities. Inspect delivery
   PDFs and preserve manual edits when regenerating. Do not copy another project's

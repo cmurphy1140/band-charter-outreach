@@ -4,6 +4,62 @@
 
 Last updated: September 12, 2026. This is the compact record to read when resuming. The plan and strategies describe the current approach; this file records what actually exists, what changed, and the next suggested increment. Update it during active work, not through an assumed background process.
 
+## Developer pacing reminder — September 12, 2026
+
+Revised [the developer worksheet](DEVELOPER-WORKSHEET.md) after the user clarified
+that they want a short reminder for stepping back when excitement expands the
+scope, rather than a file map or code exercise. Linked it from
+[the learning guide](START-HERE-LEARNING.md). The earlier table exercise is no
+longer the proposed next learning task. Let the user choose their next small step;
+help with a question or hint when requested without taking over.
+
+Confirmed learning preference: curiosity-led conversation and interview-style
+exploration, rather than a prescribed curriculum. Added to the reminder and
+mirrored in the Mac's `/Users/connormurphy/.codex/AGENTS.md` and this repository's
+`AGENTS.md`; existing `CLAUDE.md` resolves to the latter. Saved wording and link
+verified. No automatic reload in other sessions or cloud/device sync is implied.
+
+Documentation links and whitespace verified. No application behavior changed or
+application tests run. These local documentation edits remain uncommitted; no
+push, deployment, or Claude launch. Unrelated local work is preserved and existing
+audit findings remain unresolved.
+
+## Live design audit — September 12, 2026
+
+User requested a candid audit after reviewing the live layout and finding it lacks
+character. [Saved audit](DESIGN-AUDIT-2026-09-12.md) distinguishes visual judgments
+from reproduced usability findings. Main conclusion: structure is clearer, but the
+repeated introduction and prose-heavy workflow do not yet show a distinctive piece
+of useful work. The sidebar table needs 397px inside 271px; phone FAQ downloads
+are far below the document selector. These findings are unresolved, not repaired.
+
+Inspected live desktop/phone-sized views, expanded evidence, route/selector behavior,
+layout dimensions and skip-link focus. No observed JS errors or page overflow in
+those states. No actual iOS, full accessibility or audience test. Local screenshots
+remain in Archive. No UI/code edits, employee-case publication, commit or push.
+Recommendation for discussion: one concrete, clearly illustrative change-review
+example in the workflow view; preserve current branding and existing materials.
+This audit does not displace tonight's employee assistance or authorize a redesign.
+
+## Internal employee example processed — September 12, 2026
+
+Prepared a local-only Chattanooga itinerary-change case note from the developer's
+pasted employee conversation. Location: `docs/internal-case-notes/CHATTANOOGA-ITINERARY-CHANGE.md`
+(relative to repository root). The local Git exclude protects that directory; it is
+also outside the website's explicit publication list. It is not available in a
+fresh clone or separate cloud checkout. No transcript or case details were published.
+
+The note separates requests, employee reports, conflicts, assumptions and proposed
+support. The duplicated transcript is treated as one source. Supplied summaries
+were checked against the conversation and corrected where they implied confirmation.
+Accepted immediate priority: assist the employee/developer with the real change
+request tonight as inputs arrive, then record useful outputs, corrections and
+unresolved items for a possible Troen presentation. This is a practical workflow
+trial; success/time savings are not yet established. The Carnegie demo stays intact;
+a wider product pivot remains exploratory. The case note records the new direction.
+No UI, vendor research, external messages, bookings, API access, commit or push
+occurred in this planning update. Awaiting the next working input; no background task.
+
 ## Conversation layout ready for publication — September 12, 2026
 
 User authorized continuing the iterative plan and pushing the finished increment.

@@ -6,6 +6,10 @@ A guided learning page for Connor · September 11, 2026.
 or a new repository.** Keep this page and our conversation beside each other.
 These links point to this Mac’s current project; they are not cloud links.
 
+**September 12 addition:** [When I get ahead of myself](DEVELOPER-WORKSHEET.md)
+is a short reminder for stepping back when excitement expands the task. It is
+optional, not a code-navigation lesson or homework.
+
 ## What we are trying to help someone do
 
 Troen needs to understand why a school might be relevant to its Carnegie Hall
