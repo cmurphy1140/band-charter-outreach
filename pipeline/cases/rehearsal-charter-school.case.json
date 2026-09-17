@@ -1,0 +1,71 @@
+{
+  "case": {
+    "id": "rehearsal-charter-school",
+    "title": "Rehearsal · charter school ensemble against the March 3 event",
+    "prepared_on": "2026-09-17",
+    "stage_reached": 3,
+    "illustrative": true,
+    "note": "A synthetic second use case: the same Troen event, a different school in play. It exists to rehearse the Stage 3 workflow with the vectors actually moving, and to prove that an illustrative case can never produce a CRM row. No record here is a researched prospect, an approach, an approval, a payment or a booking."
+  },
+  "extends_event": "troen-carnegie-2027-03-03",
+  "sources": [],
+  "fact_spine": [
+    { "id": "X01", "topic": "Case label", "statement": "Every account, ensemble, adult role and opportunity in this case is a rehearsal record invented for the pipeline, not a school Troen or this project has researched.", "tier": 4, "illustrative": true, "reuse": "internal-only" }
+  ],
+  "accounts": [
+    { "id": "example-charter-school-01", "name": "Example Charter School (fictional)", "type": "Public charter school", "city": "Example City", "tier": 4, "illustrative": true, "relationship_status": "Fictional record; no relationship exists to describe", "relationship_owner": null, "origin": "Invented for workflow rehearsal. Charter schools are prospects on the same terms as any other public secondary school; nothing about this record is researched." }
+  ],
+  "units": [
+    { "id": "example-charter-wind-ensemble", "account_id": "example-charter-school-01", "name": "Wind ensemble (fictional)", "kind": "Wind ensemble", "tier": 4, "illustrative": true },
+    { "id": "example-charter-string-orchestra", "account_id": "example-charter-school-01", "name": "String orchestra (fictional)", "kind": "String orchestra", "tier": 4, "illustrative": true, "note": "A second ensemble under one account: the unit layer is what keeps two opportunities from collapsing into one deal." }
+  ],
+  "contacts": [
+    { "id": "example-charter-director", "account_id": "example-charter-school-01", "name": "Director of Bands (role only)", "role": "Director of Bands", "published": false, "inferred": false, "tier": 4, "illustrative": true, "permission_to_contact": "unknown", "crm_ready": false, "status": "No published contact detail is recorded, and none is invented for a rehearsal record. Blank is correct." }
+  ],
+  "opportunities": [
+    {
+      "id": "example-charter-wind-ensemble-carnegie-2027-03-03",
+      "name": "Wind ensemble, March 3 performance (rehearsal)",
+      "account_id": "example-charter-school-01",
+      "unit_id": "example-charter-wind-ensemble",
+      "event_id": "troen-carnegie-2027-03-03",
+      "tier": 4,
+      "illustrative": true,
+      "owner_role": "Logistics and software developer",
+      "status_vectors": { "proposal_readiness": "Drafted", "institutional_approval": "Pending board", "contract_execution": "Not sent", "payment_state": "Unquoted", "supplier_feasibility": "Supplier objection" },
+      "unblock": {
+        "contract_execution": "Nothing is sent while the approval and the transport objection are open.",
+        "payment_state": "The package price stays unquoted until an approved price basis exists.",
+        "supplier_feasibility": "The rehearsal coach company objects to an overnight drive, so the itinerary needs a revision before any date is promised."
+      },
+      "next_action": "Revise the itinerary around the transport objection, then re-check the approval timeline. The proposal stays a draft; nothing is issued."
+    },
+    {
+      "id": "example-charter-string-orchestra-carnegie-2027-03-03",
+      "name": "String orchestra, March 3 performance (rehearsal)",
+      "account_id": "example-charter-school-01",
+      "unit_id": "example-charter-string-orchestra",
+      "event_id": "troen-carnegie-2027-03-03",
+      "tier": 4,
+      "illustrative": true,
+      "owner_role": "Event coordination (rehearsal role)",
+      "status_vectors": { "proposal_readiness": "Issued", "institutional_approval": "Approved", "contract_execution": "Sent", "payment_state": "Pending", "supplier_feasibility": "Revised" },
+      "unblock": {},
+      "next_action": "Nothing is blocking. Carry the revised itinerary and the participant count into final coordination when the deposit settles."
+    }
+  ],
+  "deliverables": [
+    { "kind": "approver_faq", "status": "Reused unchanged from the event spine", "issued": false, "fact_ids": ["F01", "F02", "F06", "F07"], "paths": ["docs/carnegie-hall/materials/Troen - Carnegie Hall Director FAQ.docx"], "note": "A second use case reuses the event materials; only the prospect side is rewritten." },
+    { "kind": "proposal_template", "status": "Reused unchanged from the event spine", "issued": false, "fact_ids": ["F01", "F02", "F06"], "paths": ["docs/carnegie-hall/materials/Troen - Carnegie Hall Proposal Example.md"], "note": "Pricing placeholders stay unquoted here too." }
+  ],
+  "walkthrough": [
+    { "number": 1, "ready": true, "artifacts": ["docs/carnegie-hall/BUSINESS-CONTEXT.md"], "note": "The event evidence is inherited, not restated." },
+    { "number": 2, "ready": true, "artifacts": ["pipeline/cases/rehearsal-charter-school.case.json"], "note": "The profile a reviewer inspects here is the rehearsal record itself, clearly labelled fictional." },
+    { "number": 3, "ready": true, "artifacts": ["docs/carnegie-hall/materials/Troen - Carnegie Hall Director FAQ.docx"], "note": "Same audience material as the real case." },
+    { "number": 4, "ready": true, "artifacts": ["pipeline/cases/rehearsal-charter-school.case.json"], "note": "The transport objection is the traced next action; the brief shows it as a blocking dependency." },
+    { "number": 5, "ready": false, "gap": "A rehearsal case generates no workbook or client document to take away; the real case's exports remain the take-away." }
+  ],
+  "scenarios": [
+    { "id": "rehearsal-supplier-objection", "name": "Supplier objects to the itinerary", "tier": 4, "illustrative": true, "fictional": true, "notice": "Fictional group and activity, written to rehearse a supplier objection. It is not any school's trip, correspondence or booking, and it does not describe a real supplier's policy.", "states": ["Itinerary proposed", "Supplier objection recorded", "Itinerary revised", "Revision re-checked with the supplier"] }
+  ]
+}

@@ -1,0 +1,514 @@
+{
+  "library": {
+    "id": "chattanooga-tn",
+    "destination": "Chattanooga, TN",
+    "version": "v1",
+    "maintained_by_role": "Troen coordinator",
+    "boundary": "A component holds what is stable across trips: the business, what it is, how a group reaches its group-sales channel, how long it takes, its comp policy, its group minimum, the shape of its deadlines, its accessibility and payment notes, and its relationship to other businesses. Calendar dates, a given group's clock times, headcount, the figure negotiated for a group, deposit and confirmation state, and contact attempt history belong to the trip record and are never written here.",
+    "note": "Assembled from the West Henderson Chattanooga trip record and from public group-sales pages read on 2026-09-17. Anything not already in the trip record carries a source with a URL and the date it was read. Individuals and direct numbers are held as roles and channel kinds, per the privacy rule in pipeline/trip/README.md."
+  },
+
+  "sources": [
+    { "id": "TRIP-RECORD", "kind": "project_record", "locator": "pipeline/trip/trips/west-henderson-chattanooga-2027-04-08.trip.json", "note": "Facts already captured in the trip record, lifted here because they describe the business rather than one group's visit." },
+    { "id": "WEB-ROCKCITY-GROUPS", "kind": "public_web", "url": "https://www.seerockcity.com/plan-your-day/groups/", "accessed": "2026-09-17", "locator": "Rock City — Book Groups and Events" },
+    { "id": "WEB-ROCKCITY-EDU", "kind": "public_web", "url": "https://www.seerockcity.com/educational-groups/", "accessed": "2026-09-17", "locator": "Rock City — Educational Groups" },
+    { "id": "WEB-INCLINE-PACKAGES", "kind": "public_web", "url": "https://ridetheincline.com/packages/", "accessed": "2026-09-17", "locator": "Lookout Mountain Incline Railway — Packages" },
+    { "id": "WEB-BELLE-GROUPS", "kind": "public_web", "url": "https://chattanoogariverboat.com/events/tour-groups/", "accessed": "2026-09-17", "locator": "Southern Belle Riverboat — Tour Groups" },
+    { "id": "WEB-RUBY-GROUPS", "kind": "public_web", "url": "https://www.rubyfalls.com/groups/", "accessed": "2026-09-17", "locator": "Ruby Falls — Groups" },
+    { "id": "WEB-AQUARIUM-GROUPS", "kind": "public_web", "url": "https://www.tnaqua.org/plan-your-visit/groups/", "accessed": "2026-09-17", "locator": "Tennessee Aquarium — Group Visits" },
+    { "id": "WEB-BESSIE-VISIT", "kind": "public_web", "url": "https://www.bessiesmithcc.org/plan-a-visit", "accessed": "2026-09-17", "locator": "Bessie Smith Cultural Center — Plan a Visit" },
+    { "id": "WEB-HIGHPOINT-DOWNTOWN", "kind": "public_web", "url": "https://www.highpointclimbing.com/locations/downtown", "accessed": "2026-09-17", "locator": "High Point Climbing and Fitness — Chattanooga Downtown" },
+    { "id": "WEB-NPS-FEES", "kind": "public_web", "url": "https://www.nps.gov/chch/planyourvisit/fees.htm", "accessed": "2026-09-17", "locator": "Chickamauga and Chattanooga National Military Park — Fees and Passes" },
+    { "id": "WEB-CSO-FAQ", "kind": "public_web", "url": "https://chattanoogasymphony.org/frequenlty-asked-questions/", "accessed": "2026-09-17", "locator": "Chattanooga Symphony and Opera — Frequently Asked Questions" },
+    { "id": "WEB-CSO-VENUES", "kind": "public_web", "url": "https://chattanoogasymphony.org/venues-and-directions/", "accessed": "2026-09-17", "locator": "Chattanooga Symphony and Opera — Venues and Directions" },
+    { "id": "WEB-CHOOCHOO", "kind": "public_web", "url": "https://www.choochoo.com/", "accessed": "2026-09-17", "locator": "Chattanooga Choo Choo — campus and dining" }
+  ],
+
+  "channels": [
+    {
+      "id": "lookout-mountain-group-office",
+      "label": "Incline Railway and Southern Belle group-sales office",
+      "kind": "web_form",
+      "also": ["phone"],
+      "covers": ["incline-railway", "southern-belle"],
+      "note": "One group-sales office answers for both businesses, and the two are sold together as a combination package. One enquiry covers two itinerary lines; two enquiries are duplicated effort.",
+      "source_ids": ["TRIP-RECORD", "WEB-INCLINE-PACKAGES", "WEB-BELLE-GROUPS"]
+    },
+    {
+      "id": "tn-aquarium-group-office",
+      "label": "Tennessee Aquarium group sales",
+      "kind": "web_form",
+      "also": ["phone"],
+      "covers": ["tennessee-aquarium", "tennessee-aquarium-imax"],
+      "note": "Aquarium admission and the IMAX theatre are ordered on the same group request form, so the theatre is not a second counterparty.",
+      "source_ids": ["WEB-AQUARIUM-GROUPS"]
+    },
+    {
+      "id": "choo-choo-gather",
+      "label": "Chattanooga Choo Choo campus events and group dining",
+      "kind": "web_form",
+      "also": ["email"],
+      "covers": ["chattanooga-choo-choo", "frothy-monkey", "nic-and-normans"],
+      "note": "Eleven restaurants and bars sit on one campus behind one events channel. Two venues this library carries separately are on that campus, so shopping them one by one asks the same office three times.",
+      "source_ids": ["WEB-CHOOCHOO"]
+    }
+  ],
+
+  "components": [
+    {
+      "id": "rock-city",
+      "name": "Rock City Gardens",
+      "category": "attraction",
+      "booking_mode": "group_sales",
+      "aliases": [{ "text": "Rock City", "kind": "shorthand" }],
+      "blurb": "4,100 feet of trail winding through, under and between the boulders on top of Lookout Mountain, ending at Lover's Leap where, on a clear day, they will tell you that you are looking at seven states at once.",
+      "group_sales": { "channel_id": null, "channel_kind": "web_form", "also": ["phone"], "locator": "group sales form" },
+      "typical_duration_minutes": 120,
+      "duration_note": "Groups typically spend an hour and a half to two hours on the trail.",
+      "comp_policy": {
+        "known": true,
+        "kind": "vendor_earned",
+        "ratio": 10,
+        "ratio_unit": "students",
+        "extras": ["bus driver"],
+        "note": "One complimentary adult chaperone per ten students, and bus drivers are always free."
+      },
+      "group_minimum": { "count": 15, "unit": "admissions", "note": "Fifteen or more need a group reservation. The minimum is waived on the operator's own homeschool and scout days." },
+      "deadline_shape": {
+        "final_headcount_due_business_days": 5,
+        "prepay_lead_days": 5,
+        "guided_tour_lead_days": 14,
+        "note": "One group leader pays for the whole group five days before arrival. A guided tour needs fourteen days' notice. Cancellations inside five business days are not refundable."
+      },
+      "seasonality": { "note": "Open rain or shine, closed December 24. A higher group minimum applies during the seasonal lights event, so a December trip does not inherit these terms." },
+      "accessibility": { "note": "A trail with narrow rock passages and steps; the operator publishes a separate accessibility page. Bus parking is limited and is arranged with group sales at booking. Parking is free." },
+      "payment": { "methods": ["single group payment", "card", "check with advance notice"], "cashless": true, "note": "Cashless since September 2025 and smokeless from July 2026, with ATMs on site. Tell the group before departure." },
+      "standing_questions": [],
+      "relationships": [],
+      "source_ids": ["TRIP-RECORD", "WEB-ROCKCITY-GROUPS", "WEB-ROCKCITY-EDU"]
+    },
+
+    {
+      "id": "incline-railway",
+      "name": "Lookout Mountain Incline Railway",
+      "category": "attraction",
+      "booking_mode": "group_sales",
+      "aliases": [{ "text": "Incline Railway", "kind": "shorthand" }],
+      "blurb": "A mile straight up the face of Lookout Mountain, steepening until the grade hits 72.7 percent — one of the steepest passenger railways in the world.",
+      "group_sales": { "channel_id": "lookout-mountain-group-office", "channel_kind": "web_form", "also": ["phone"], "locator": "group event form" },
+      "typical_duration_minutes": null,
+      "duration_note": "Round-trip ride time plus waiting for a car is not published. Allow for a queue at the foot of the mountain and record the real figure after the next visit.",
+      "comp_policy": {
+        "known": false,
+        "kind": null,
+        "note": "Unanswered. This is the question the operation re-asks every season; the answer belongs here the first time it is given, not in one trip's margin."
+      },
+      "group_minimum": null,
+      "deadline_shape": {
+        "deposit_basis": "flat",
+        "balance_due_days": 10,
+        "note": "A flat group deposit secures the booking and the balance falls due ten days out. The deposit figure belongs in the trip record."
+      },
+      "accessibility": { "note": "Published as accessible. The last car leaves forty minutes before closing, which sets the latest a group can start the ride." },
+      "payment": { "methods": [], "note": "Not recorded." },
+      "standing_questions": [
+        { "id": "comp-tour-manager", "topic": "comp_policy", "question": "Does the operator give complimentary places to tour managers or chaperones, and on what ratio?", "answer": null, "note": "Asked through the group event form and never answered on any page. Record the answer here once and no season needs to ask again." }
+      ],
+      "relationships": [
+        { "component_id": "southern-belle", "nature": "shared_group_sales_office", "note": "Same group-sales office, and the two are sold as a combination package. One call covers both lines." }
+      ],
+      "source_ids": ["TRIP-RECORD", "WEB-INCLINE-PACKAGES"]
+    },
+
+    {
+      "id": "southern-belle",
+      "name": "Southern Belle Riverboat",
+      "category": "attraction",
+      "booking_mode": "group_sales",
+      "aliases": [{ "text": "Southern Belle", "kind": "shorthand" }],
+      "blurb": "Ninety minutes on the Tennessee, narrated from the wheelhouse, past Maclellan Island and around Moccasin Bend.",
+      "group_sales": { "channel_id": "lookout-mountain-group-office", "channel_kind": "phone", "also": ["web_form"], "locator": "group sales line" },
+      "typical_duration_minutes": 90,
+      "duration_note": "The narrated sightseeing cruise runs ninety minutes. The dinner cruise runs about two hours and is a different product.",
+      "comp_policy": { "known": false, "kind": null, "note": "Not published. Ask it with the Incline Railway's comp question — same office, one conversation." },
+      "group_minimum": { "count": 20, "unit": "guests", "note": "Tour groups are handled from twenty guests up to a full charter." },
+      "deadline_shape": { "note": "Not published. Capture the deposit and balance shape the first time this line is booked." },
+      "departure": { "pier": "Pier 2 at Ross's Landing, on Riverfront Parkway", "note": "The coaches do not need to move between this line and a Ross's Landing walking stop." },
+      "accessibility": { "note": "Not published. Ask before selling the line to a group with wheelchair users." },
+      "payment": { "methods": [], "note": "Not recorded." },
+      "standing_questions": [],
+      "relationships": [
+        { "component_id": "incline-railway", "nature": "shared_group_sales_office", "note": "Same group-sales office; combination packages exist." },
+        { "component_id": "rosss-landing-passage", "nature": "same_site", "note": "The pier is at Ross's Landing, so the cruise and the riverfront walking stop are the same place." }
+      ],
+      "source_ids": ["TRIP-RECORD", "WEB-BELLE-GROUPS", "WEB-INCLINE-PACKAGES"]
+    },
+
+    {
+      "id": "ruby-falls",
+      "name": "Ruby Falls",
+      "category": "attraction",
+      "booking_mode": "group_sales",
+      "aliases": [],
+      "blurb": "A 145-foot waterfall a thousand feet inside Lookout Mountain, found by accident in 1928 by a man drilling an elevator shaft.",
+      "group_sales": { "channel_id": null, "channel_kind": "web_form", "also": ["phone"], "locator": "group reservation form" },
+      "typical_duration_minutes": 90,
+      "duration_note": "Seventy to ninety minutes for the cave walk, just under a mile round trip.",
+      "comp_policy": { "known": false, "kind": null, "note": "Not published." },
+      "group_minimum": { "count": 15, "unit": "paying guests", "note": "Fifteen paying guests to qualify for group rates." },
+      "deadline_shape": {
+        "prepay_lead_days": 5,
+        "booking_lead_days": 7,
+        "arrival_lead_minutes": 30,
+        "note": "The group leader prepays for the whole group at least five days ahead, a week's notice is asked for the booking itself, and the group arrives thirty minutes before its tour."
+      },
+      "operating_hours": { "earliest_group_entry": "09:00", "note": "The first ride of the day is 09:00. With the thirty-minute arrival rule that puts a group on site at 08:30 — so an 08:30 line is the arrival, not the tour, and nothing earlier than a 09:00 tour can be sold." },
+      "seasonality": { "group_rates_unavailable": ["Saturdays", "Sundays", "holidays", "July"], "note": "Group rates are not available at weekends, on holidays or in July, and June availability is limited. A spring weekday itinerary qualifies; the same itinerary in July does not." },
+      "accessibility": { "note": "A glass-front elevator descends 260 feet into the cave, then just under a mile on a paved cavern trail with about fifty steps and handrails. Not wheelchair accessible. Guests should be able to stand for up to an hour and a half." },
+      "payment": { "methods": ["single group payment"], "note": "The group leader prepays for the whole group." },
+      "standing_questions": [],
+      "relationships": [],
+      "source_ids": ["TRIP-RECORD", "WEB-RUBY-GROUPS"]
+    },
+
+    {
+      "id": "bessie-smith",
+      "name": "Bessie Smith Cultural Center",
+      "category": "attraction",
+      "booking_mode": "group_sales",
+      "aliases": [
+        { "text": "Chattanooga African American Museum", "kind": "variant", "note": "The centre's published alternate name." }
+      ],
+      "blurb": "The Empress of the Blues was born nine blocks away and sang on street corners for pocket change. The permanent galleries are Walk Through Time: The Chattanooga African American Experience and Chattanooga's Black Soundtrack, alongside rotating exhibitions.",
+      "group_sales": { "channel_id": null, "channel_kind": "web_form", "also": ["phone"], "locator": "book a tour form" },
+      "typical_duration_minutes": null,
+      "duration_note": "Not published. The galleries are compact; record the real figure after the next visit.",
+      "comp_policy": { "known": false, "kind": null, "note": "Not published." },
+      "group_minimum": { "count": 10, "unit": "people", "note": "Group and school tours from ten people." },
+      "guide": { "booked_separately": true, "basis": "per_group", "note": "Admission and a guided tour are two separate asks on the same form, and the guide is charged to the group rather than per head. A headcount change moves the admission line and leaves the guide line alone." },
+      "deadline_shape": { "note": "Not published. Capture it the first time a guide is booked." },
+      "accessibility": { "note": "Fully accessible. Free accessible parking in the lot at Houston and M.L. King Boulevard." },
+      "payment": { "methods": [], "note": "Not recorded." },
+      "standing_questions": [],
+      "relationships": [],
+      "source_ids": ["TRIP-RECORD", "WEB-BESSIE-VISIT"]
+    },
+
+    {
+      "id": "tennessee-aquarium",
+      "name": "Tennessee Aquarium",
+      "category": "attraction",
+      "booking_mode": "group_sales",
+      "aliases": [],
+      "blurb": "Two buildings on the riverfront: River Journey follows the water from an Appalachian forest to the Gulf, Ocean Journey has sharks, penguins and a stingray touch tank.",
+      "group_sales": { "channel_id": "tn-aquarium-group-office", "channel_kind": "web_form", "also": ["phone"], "locator": "group request form" },
+      "typical_duration_minutes": null,
+      "duration_note": "Not published for the two buildings together. Record the real figure after the next visit.",
+      "comp_policy": { "known": true, "kind": "vendor_earned", "ratio": null, "extras": ["required chaperones on a school booking"], "note": "School bookings carry required chaperones at no charge and are handled on a different scale from general groups. The ratio is not published; ask for it with the booking." },
+      "group_minimum": { "count": 15, "unit": "guests", "note": "Fifteen or more, scheduled in advance." },
+      "deadline_shape": {
+        "meal_cancellation_lead_days": 7,
+        "note": "Meals and snack packs are ordered ahead and are not refundable inside a week of the visit. Submitting the group request form does not itself hold a reservation — a group arriving on the strength of the form will not be admitted as a group."
+      },
+      "accessibility": { "note": "The operator publishes a separate accessibility and inclusion page; nothing group-specific is published." },
+      "payment": { "methods": [], "note": "Not recorded." },
+      "standing_questions": [
+        { "id": "aquarium-school-ratio", "question": "How many chaperones does a school booking carry free, per how many students?", "answer": null, "note": "Published as free for required chaperones with no ratio attached." }
+      ],
+      "relationships": [
+        { "component_id": "tennessee-aquarium-imax", "nature": "add_on", "note": "The IMAX theatre is a separate ticket on the same group request. One enquiry covers both lines." }
+      ],
+      "source_ids": ["TRIP-RECORD", "WEB-AQUARIUM-GROUPS"]
+    },
+
+    {
+      "id": "tennessee-aquarium-imax",
+      "name": "IMAX 3D Theater at the Tennessee Aquarium",
+      "category": "attraction",
+      "booking_mode": "group_sales",
+      "aliases": [
+        { "text": "IMAX Theater at the Aquarium", "kind": "variant" },
+        { "text": "IMAX Theatre at the Aquarium", "kind": "variant" }
+      ],
+      "blurb": "A six-storey screen beside the aquarium buildings, showing nature and science features on a rotating schedule.",
+      "group_sales": { "channel_id": "tn-aquarium-group-office", "channel_kind": "web_form", "also": ["phone"], "locator": "group request form, as an add-on to admission" },
+      "typical_duration_minutes": null,
+      "duration_note": "Running time depends on the feature showing; allow for seating and the walk between buildings on top of it.",
+      "comp_policy": { "known": false, "kind": null, "note": "Not published separately from admission." },
+      "group_minimum": null,
+      "deadline_shape": { "note": "Ordered with aquarium admission on the same request." },
+      "accessibility": { "note": "Not published separately." },
+      "payment": { "methods": [], "note": "Ordered and paid with aquarium admission." },
+      "standing_questions": [],
+      "relationships": [
+        { "component_id": "tennessee-aquarium", "nature": "add_on", "note": "Sold as an add-on to aquarium admission, through the same channel." }
+      ],
+      "source_ids": ["WEB-AQUARIUM-GROUPS"],
+      "note": "A ticket that is easy to sell and easy to leave off an itinerary, because it is ordered on the same form as admission and then needs a slot of its own in the day."
+    },
+
+    {
+      "id": "high-point-climbing",
+      "name": "High Point Climbing and Fitness",
+      "category": "attraction",
+      "booking_mode": "group_sales",
+      "aliases": [
+        { "text": "High Street Climbing and Fitness Center", "kind": "misprint", "note": "A name that has reached printed inclusions pages. No such business exists in Chattanooga; the business is High Point Climbing and Fitness on Broad Street." },
+        { "text": "High Point Climbing", "kind": "shorthand" }
+      ],
+      "blurb": "Built inside a renovated movie theatre at 219 Broad Street, with blue walls bolted to the outside of the building that hang out over the sidewalk. Auto-belays mean a group is climbing within ten minutes.",
+      "group_sales": { "channel_id": null, "channel_kind": "web_form", "also": ["phone"], "locator": "parties and groups page" },
+      "typical_duration_minutes": null,
+      "duration_note": "Not published for a school group session. Record the real figure after the next visit.",
+      "comp_policy": { "known": false, "kind": null, "note": "Not published." },
+      "group_minimum": null,
+      "requirements": {
+        "waiver": "Every climber signs a waiver, and anyone under eighteen needs one signed by a parent. Waivers can be completed online in advance.",
+        "note": "This is the one line on a Chattanooga itinerary that needs paperwork from every family before departure. Send the waiver link with the trip paperwork, not on the day."
+      },
+      "deadline_shape": { "note": "Not published. The binding lead time here is the waiver return, not the booking." },
+      "accessibility": { "note": "Not published. Ask before selling the line to a group with wheelchair users." },
+      "payment": { "methods": [], "note": "Not recorded." },
+      "standing_questions": [],
+      "relationships": [],
+      "source_ids": ["TRIP-RECORD", "WEB-HIGHPOINT-DOWNTOWN"]
+    },
+
+    {
+      "id": "cirque-de-la-symphonie",
+      "name": "Cirque de la Symphonie with the Chattanooga Symphony",
+      "category": "performance",
+      "booking_mode": "group_sales",
+      "aliases": [
+        { "text": "Cirque de la Symphonie", "kind": "shorthand" },
+        { "text": "Tivoli Theatre", "kind": "stale", "applies_to": "venue", "note": "The Tivoli is the orchestra's home theatre and still appears on printed itineraries, but the orchestra is playing at Soldiers and Sailors Memorial Auditorium while the Tivoli is renovated, and does not expect to return until the 27-28 season. An itinerary in the 26-27 season that prints the Tivoli sends a coach to the wrong address." }
+      ],
+      "blurb": "The symphony plays a full orchestral programme while aerialists, contortionists, jugglers and strongmen perform to it live, on the stage and in the air above it. Every catch is timed to the downbeat.",
+      "group_sales": { "channel_id": null, "channel_kind": "email", "also": ["phone"], "locator": "box office group ticketing" },
+      "typical_duration_minutes": null,
+      "duration_note": "A main-series concert programme; check the running time for the specific programme when tickets are ordered.",
+      "comp_policy": { "known": false, "kind": null, "note": "Not published. Ask whether a group order carries complimentary places for the adults supervising students." },
+      "group_minimum": { "count": 10, "unit": "tickets", "note": "The orchestra publishes a group discount from ten tickets." },
+      "venue": {
+        "name": "Soldiers and Sailors Memorial Auditorium",
+        "address": "399 McCallie Avenue",
+        "note": "The orchestra's temporary home while the Tivoli Theatre is renovated, with a return to the Tivoli anticipated for the 27-28 season and stated to depend on how fast the renovation goes. Check the venue against the season before printing it."
+      },
+      "deadline_shape": { "note": "A convenience fee is added to online and telephone orders. Single tickets are not refundable; exchanges may carry a fee. Order the group early enough that an exchange is not the fallback." },
+      "accessibility": { "note": "Not published for group bookings; the venue is a historic auditorium." },
+      "payment": { "methods": ["card"], "note": "A convenience fee applies to online and telephone orders." },
+      "standing_questions": [],
+      "relationships": [],
+      "source_ids": ["TRIP-RECORD", "WEB-CSO-FAQ", "WEB-CSO-VENUES"]
+    },
+
+    {
+      "id": "point-park",
+      "name": "Point Park",
+      "category": "attraction",
+      "booking_mode": "gate_admission",
+      "aliases": [{ "text": "Point Park at Lookout Mountain Battlefield", "kind": "variant" }],
+      "blurb": "The 1863 Battle Above the Clouds site on the point of Lookout Mountain, looking 1,700 feet down at Moccasin Bend and the river.",
+      "group_sales": { "channel_id": null, "channel_kind": "web_form", "also": ["in_person"], "locator": "park reservation request; passes otherwise bought at the entrance gate" },
+      "typical_duration_minutes": 60,
+      "duration_note": "Long enough for the overlook and the monument on a walk-through; the pass itself runs for seven days.",
+      "comp_policy": null,
+      "comp_note": "There is no comp ratio to ask about. The academic fee waiver below is the mechanism that makes this line free for a school group.",
+      "group_minimum": null,
+      "fee": {
+        "charged_at": "gate",
+        "applies_to": "visitors aged 16 and over; under-16s are free",
+        "waiver": { "available": true, "who": "school groups", "lead_days": 14, "how": "an academic fee waiver asked for with the park reservation" },
+        "payment": "Card only at the entrance gate.",
+        "note": "The shape is what matters and the figure belongs in the trip record: a coach of students enters free if the academic fee waiver is asked for a fortnight ahead, and pays at the gate per adult if it is not. This line is easy to print as a free stop and then pay for twice."
+      },
+      "deadline_shape": { "waiver_lead_days": 14, "note": "Two weeks ahead for the academic fee waiver. Miss it and the line costs money that was never in the package." },
+      "accessibility": { "note": "Park paths and the overlook; the National Park Service publishes accessibility separately." },
+      "payment": { "methods": ["card"], "note": "Card only at the gate at present." },
+      "standing_questions": [],
+      "relationships": [],
+      "source_ids": ["TRIP-RECORD", "WEB-NPS-FEES"]
+    },
+
+    {
+      "id": "rosss-landing-passage",
+      "name": "Ross's Landing and the Passage",
+      "category": "attraction",
+      "booking_mode": "no_booking",
+      "aliases": [{ "text": "Ross's Landing", "kind": "shorthand" }],
+      "blurb": "Where the city began, and one of the 1838 departure points for the forced removal of the Cherokee people. The Passage marks it with seven ceramic discs for the seven Cherokee clans.",
+      "group_sales": { "channel_id": null, "channel_kind": null, "also": [], "locator": "no booking; open public riverfront" },
+      "typical_duration_minutes": 30,
+      "duration_note": "A walking stop rather than a ticketed visit.",
+      "comp_policy": null,
+      "group_minimum": null,
+      "deadline_shape": { "note": "Nothing to book and nothing to pay." },
+      "accessibility": { "note": "Open public riverfront plaza with steps and ramps down to the water." },
+      "payment": { "methods": [], "note": "No admission." },
+      "standing_questions": [],
+      "relationships": [
+        { "component_id": "southern-belle", "nature": "same_site", "note": "The riverboat pier is here, so this stop and the cruise share a coach drop." }
+      ],
+      "source_ids": ["TRIP-RECORD", "WEB-BELLE-GROUPS"],
+      "note": "Free, unbookable and easy to leave out of a package — and the one stop on a Chattanooga itinerary that needs a briefing rather than a ticket."
+    },
+
+    {
+      "id": "walnut-street-bridge",
+      "name": "Walnut Street Bridge",
+      "category": "attraction",
+      "booking_mode": "no_booking",
+      "aliases": [{ "text": "Walnut Street Bridge crossing", "kind": "variant" }],
+      "blurb": "A third of a mile of open deck suspended over the Tennessee River, carrying people only, connecting downtown to the North Shore.",
+      "group_sales": { "channel_id": null, "channel_kind": null, "also": [], "locator": "no booking; public pedestrian bridge" },
+      "typical_duration_minutes": 20,
+      "duration_note": "About ten minutes to walk it, so twenty for a group that crosses and comes back.",
+      "comp_policy": null,
+      "group_minimum": null,
+      "deadline_shape": { "note": "Nothing to book." },
+      "operations": { "note": "The group crosses on foot and the coaches stay downtown, so a North Shore line on the far side needs a coach plan of its own: either the coaches reposition or the group walks back. This is the kind of detail that only ever gets written in pen." },
+      "accessibility": { "note": "Level open deck for its full length, with ramps at each end; exposed to weather." },
+      "payment": { "methods": [], "note": "No admission." },
+      "standing_questions": [],
+      "relationships": [],
+      "source_ids": ["TRIP-RECORD"]
+    },
+
+    {
+      "id": "chattanooga-choo-choo",
+      "name": "Chattanooga Choo Choo",
+      "category": "meal",
+      "booking_mode": "group_sales",
+      "aliases": [
+        { "text": "Chattanooga Choo Choo Complex", "kind": "variant" },
+        { "text": "Choo Choo campus", "kind": "shorthand" }
+      ],
+      "blurb": "The 1909 terminal station, now a hotel and dining campus built inside and around the old train shed, with eleven restaurants and bars on one site.",
+      "group_sales": { "channel_id": "choo-choo-gather", "channel_kind": "web_form", "also": ["email"], "locator": "campus events and group dining enquiry" },
+      "typical_duration_minutes": 90,
+      "duration_note": "A seated group dinner on the campus; allow longer if the group is splitting across more than one venue.",
+      "comp_policy": { "known": false, "kind": null, "note": "Not published. Ask whether adult supervisors eat free on a student group booking." },
+      "group_minimum": null,
+      "campus": {
+        "venues": ["Elsie's Daughter", "Nic & Norman's", "The Boneyard", "Frothy Monkey", "Stir Restaurant", "Gate 11 Distillery", "Backstage Bar", "Westbound Honky-Tonk", "Reagan's Retro Bar", "Tailgate Brewery", "Lost in Transit"],
+        "note": "Naming the campus on an itinerary does not name the restaurant the group eats in. One enquiry to the campus events channel reaches all of them; separate enquiries to individual venues on the campus ask the same office twice."
+      },
+      "deadline_shape": { "note": "Not published. Capture the deposit and final-numbers shape the first time a dinner is booked here." },
+      "accessibility": { "note": "A level campus in a converted station; individual venues vary." },
+      "payment": { "methods": [], "note": "Not recorded." },
+      "standing_questions": [],
+      "relationships": [
+        { "component_id": "frothy-monkey", "nature": "same_campus", "note": "On the Choo Choo campus." },
+        { "component_id": "nic-and-normans", "nature": "same_campus", "note": "On the Choo Choo campus." }
+      ],
+      "source_ids": ["TRIP-RECORD", "WEB-CHOOCHOO"]
+    },
+
+    {
+      "id": "frothy-monkey",
+      "name": "Frothy Monkey",
+      "category": "meal",
+      "booking_mode": "group_sales",
+      "aliases": [],
+      "blurb": "An all-day cafe and restaurant on the Chattanooga Choo Choo campus.",
+      "group_sales": { "channel_id": "choo-choo-gather", "channel_kind": "web_form", "also": ["email"], "locator": "campus events and group dining enquiry" },
+      "typical_duration_minutes": null,
+      "duration_note": "Not recorded.",
+      "comp_policy": { "known": false, "kind": null, "note": "Not recorded." },
+      "group_minimum": null,
+      "deadline_shape": { "note": "Not recorded. Capture it on first use." },
+      "accessibility": { "note": "Not recorded." },
+      "payment": { "methods": [], "note": "Not recorded." },
+      "standing_questions": [],
+      "relationships": [{ "component_id": "chattanooga-choo-choo", "nature": "same_campus", "note": "Reached through the campus events channel." }],
+      "source_ids": ["TRIP-RECORD", "WEB-CHOOCHOO"],
+      "note": "Carried as a Chattanooga group-dining option. Terms have never been captured; capture them on first use."
+    },
+
+    {
+      "id": "nic-and-normans",
+      "name": "Nic & Norman's",
+      "category": "meal",
+      "booking_mode": "group_sales",
+      "aliases": [
+        { "text": "NC and Norman's", "kind": "misprint", "note": "A transcription of the name that has reached planning notes. The business is Nic & Norman's, on the Chattanooga Choo Choo campus — which also means it is not a separate counterparty from the campus itself." }
+      ],
+      "blurb": "A restaurant and bar on the Chattanooga Choo Choo campus.",
+      "group_sales": { "channel_id": "choo-choo-gather", "channel_kind": "web_form", "also": ["email"], "locator": "campus events and group dining enquiry" },
+      "typical_duration_minutes": null,
+      "duration_note": "Not recorded.",
+      "comp_policy": { "known": false, "kind": null, "note": "Not recorded." },
+      "group_minimum": null,
+      "deadline_shape": { "note": "Not recorded. Capture it on first use." },
+      "accessibility": { "note": "Not recorded." },
+      "payment": { "methods": [], "note": "Not recorded." },
+      "standing_questions": [],
+      "relationships": [{ "component_id": "chattanooga-choo-choo", "nature": "same_campus", "note": "Reached through the campus events channel." }],
+      "source_ids": ["TRIP-RECORD", "WEB-CHOOCHOO"],
+      "note": "Carried as a Chattanooga group-dining option. Terms have never been captured; capture them on first use."
+    },
+
+    {
+      "id": "southside-social",
+      "name": "Southside Social",
+      "category": "meal",
+      "booking_mode": "group_sales",
+      "aliases": [],
+      "blurb": null,
+      "group_sales": { "channel_id": null, "channel_kind": "email", "also": ["phone"], "locator": "group dining enquiry" },
+      "typical_duration_minutes": null,
+      "duration_note": "Not recorded.",
+      "comp_policy": { "known": false, "kind": null, "note": "Not recorded." },
+      "group_minimum": null,
+      "deadline_shape": { "note": "Not recorded. Capture it on first use." },
+      "accessibility": { "note": "Not recorded." },
+      "payment": { "methods": [], "note": "Not recorded." },
+      "standing_questions": [],
+      "relationships": [],
+      "source_ids": ["TRIP-RECORD"],
+      "note": "A Southside group-dining option carried in this library so it is not rediscovered. No blurb is written because nothing has been read about it first-hand; write one when it is used."
+    },
+
+    {
+      "id": "wanderlinger-brewing",
+      "name": "Wanderlinger Brewing Company",
+      "category": "meal",
+      "booking_mode": "group_sales",
+      "aliases": [],
+      "blurb": null,
+      "group_sales": { "channel_id": null, "channel_kind": "email", "also": ["phone"], "locator": "group dining enquiry" },
+      "typical_duration_minutes": null,
+      "duration_note": "Not recorded.",
+      "comp_policy": { "known": false, "kind": null, "note": "Not recorded." },
+      "group_minimum": null,
+      "deadline_shape": { "note": "Not recorded. Capture it on first use." },
+      "accessibility": { "note": "Not recorded." },
+      "payment": { "methods": [], "note": "Not recorded." },
+      "standing_questions": [],
+      "relationships": [],
+      "source_ids": ["TRIP-RECORD"],
+      "note": "A downtown group-dining option carried in this library so it is not rediscovered. A brewery taproom needs a check on whether it seats a student group at all — ask before offering it."
+    },
+
+    {
+      "id": "feed-co-table-and-tavern",
+      "name": "Feed Co. Table and Tavern",
+      "category": "meal",
+      "booking_mode": "group_sales",
+      "aliases": [{ "text": "Feed Co Table and Tavern", "kind": "variant" }],
+      "blurb": null,
+      "group_sales": { "channel_id": null, "channel_kind": "email", "also": ["phone"], "locator": "group dining enquiry" },
+      "typical_duration_minutes": null,
+      "duration_note": "Not recorded.",
+      "comp_policy": { "known": false, "kind": null, "note": "Not recorded." },
+      "group_minimum": null,
+      "deadline_shape": { "note": "Not recorded. Capture it on first use." },
+      "accessibility": { "note": "Not recorded." },
+      "payment": { "methods": [], "note": "Not recorded." },
+      "standing_questions": [],
+      "relationships": [],
+      "source_ids": ["TRIP-RECORD"],
+      "note": "An East Main group-dining option carried in this library so it is not rediscovered."
+    }
+  ]
+}

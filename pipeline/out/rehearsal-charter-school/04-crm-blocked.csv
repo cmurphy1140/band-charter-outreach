@@ -1,0 +1,5 @@
+crm_object,record_id,name,hold_reason
+Contact,example-charter-director,Director of Bands (role only),Illustrative case: synthetic records never reach a CRM or a marketing list.
+Account,example-charter-school-01,Example Charter School (fictional),Illustrative case: synthetic records never reach a CRM or a marketing list.
+Deal,example-charter-wind-ensemble-carnegie-2027-03-03,"Wind ensemble, March 3 performance (rehearsal)",Illustrative case: synthetic records never reach a CRM or a marketing list.
+Deal,example-charter-string-orchestra-carnegie-2027-03-03,"String orchestra, March 3 performance (rehearsal)",Illustrative case: synthetic records never reach a CRM or a marketing list.

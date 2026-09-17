@@ -1,0 +1,169 @@
+{
+  "case": {
+    "id": "troen-carnegie-2027-03-03",
+    "title": "Troen · Carnegie Hall, March 3, 2027",
+    "prepared_on": "2026-09-17",
+    "stage_reached": 5,
+    "illustrative": false,
+    "note": "First instantiation of the universal pipeline. Every record is carried from material already reviewed in this repository; nothing here is new research, a new business claim, an approach, an approval, a payment or a booking."
+  },
+  "event": {
+    "id": "troen-carnegie-2027-03-03",
+    "name": "Carnegie Hall performance event",
+    "date": "2027-03-03",
+    "display_date": "Wednesday, March 3, 2027",
+    "venue": "Stern Auditorium / Perelman Stage",
+    "producer": "Troen Student Performance Events",
+    "qualification": "Experience details come from Troen's shared March 3 / March 31 brochure. Final March 3 inclusions, eligibility, availability, pricing and travel arrangements require a group-specific offer."
+  },
+  "sources": [
+    { "id": "P01", "title": "Carnegie Hall event overview brochure", "kind": "business_document", "locator": "logistics/carnegie hall EVENT OVERVIEW.pdf", "checked_on": "2026-09-11", "note": "Six pages. Shared brochure for March 3 and March 31, 2027; not a final group offer." },
+    { "id": "P02", "title": "NYIMF 2027 budget", "kind": "business_document", "locator": "logistics/NYIMF 2027 Budget.pdf", "checked_on": "2026-09-10", "note": "Eleven pages of working financial sheets, package examples and a retained 2025 sheet. Not established as a final March 3 budget; formulas are not exposed for validation." },
+    { "id": "I01", "title": "TravMark / GroupCollect travel-protection sheet", "kind": "business_photograph", "locator": "logistics/IMG_4368.HEIC", "checked_on": "2026-09-10", "note": "Standard and Enhanced options at displayed rates of 5% and 7.9% of trip cost. Source-document rates, not verified current offers." },
+    { "id": "I02", "title": "Travel-protection sheet, continued", "kind": "business_photograph", "locator": "logistics/IMG_4369.HEIC", "checked_on": "2026-09-10", "note": "Enhanced option states a 75% Cancel for Any Reason benefit with eligibility, timing and New York conditions." },
+    { "id": "I04", "title": "DocuSign completion certificate", "kind": "business_photograph", "locator": "logistics/IMG_4372.heic", "checked_on": "2026-09-10", "note": "Refers to the Stern Auditorium / Perelman Stage contract for March 3, 2027 and reports completion. The complete executed agreement is not in the photograph." },
+    { "id": "I05", "title": "Carnegie cover letter", "kind": "business_photograph", "locator": "logistics/IMG_4373.heic", "checked_on": "2026-09-10", "note": "Describes signing and deposit requirements and a resale-dependent refund possibility." },
+    { "id": "I06", "title": "March 3 licence, photographed first page", "kind": "business_photograph", "locator": "logistics/IMG_4374.heic", "checked_on": "2026-09-11", "note": "Names Troen Student Performance Events and New York Invitational Music Festival; evening session, 8 p.m., three hours, $26,460 fee, additional charges separate. Name/date fields visually rechecked September 11, 2026." },
+    { "id": "ER01", "title": "Employee reports recorded in the business context", "kind": "employee_report", "locator": "docs/carnegie-hall/BUSINESS-CONTEXT.md", "checked_on": "2026-09-10", "note": "Section 2 records what the employee reported through the logistics and software developer, and what each report does and does not establish." },
+    { "id": "DR01", "title": "Internal decision register", "kind": "project_record", "locator": "docs/carnegie-hall/INTERNAL-DECISIONS.md", "checked_on": "2026-09-11", "note": "Records each unknown, the POC default that allows progress, and the action that makes the missing fact necessary." },
+    { "id": "S01", "title": "Wando High School: Fine Arts", "kind": "primary_page", "locator": "https://wandohigh.ccsdschools.com/fine-arts", "checked_on": "2026-09-10", "note": "The school links to wandobands.org, establishing the program-site relationship." },
+    { "id": "S02", "title": "Bands of Wando: About", "kind": "primary_page", "locator": "https://wandobands.org/about-bands-of-wando/", "checked_on": "2026-09-10", "note": "Ensemble and location evidence. Undated page." },
+    { "id": "S03", "title": "Bands of Wando: Contact", "kind": "primary_page", "locator": "https://wandobands.org/contact/", "checked_on": "2026-09-10", "note": "Explicit adult role and public role mailbox. Other staff and booster contacts are excluded." },
+    { "id": "S04", "title": "Midwest Clinic: Wando Symphonic Band, 2019", "kind": "organizer_archive", "locator": "https://www.midwestclinic.org/performers/midwest-clinic-performing-organization?gid=6570&pyear=2019", "checked_on": "2026-09-10", "note": "Use the December 19, 2019 event detail. The site's 2026 promotional header is not this performance's date." },
+    { "id": "S05", "title": "Salem High School: school home", "kind": "primary_page", "locator": "https://shs.salem.k12.va.us/", "checked_on": "2026-09-11", "note": "School address and Salem City Schools identity. Undated page." },
+    { "id": "S06", "title": "Pride of Salem: program home", "kind": "primary_page", "locator": "https://prideofsalem.com/", "checked_on": "2026-09-11", "note": "Explicit Salem City Schools ensemble description; publishes the director name and district-domain mailbox." },
+    { "id": "S07", "title": "Pride of Salem: adult role", "kind": "primary_page", "locator": "https://prideofsalem.com/alumni", "checked_on": "2026-09-11", "note": "Explicit Director of Bands label with the same district-domain mailbox. Student and alumni details were not collected." },
+    { "id": "S09", "title": "Salem SunDevil Bands: Virginia Beach", "kind": "primary_page", "locator": "https://salemmarchingband.wixsite.com/home", "checked_on": "2026-09-11", "note": "Explicit Virginia Beach identity. Used only to keep the two Salem programs apart, never to populate the City of Salem record." },
+    { "id": "MTC-01", "title": "MTC: New York City performance trips", "kind": "organization_site", "locator": "https://www.musictravel.com/new-york-city/new-york-city-performance-trips.html", "checked_on": "2026-09-11", "note": "Service description, not dated performance evidence." },
+    { "id": "MTC-02", "title": "MTC: company identity", "kind": "organization_site", "locator": "https://www.musictravel.com/about.html", "checked_on": "2026-09-11", "note": "Company self-description; undated." },
+    { "id": "MTC-05", "title": "MTC: 2027 Carnegie festival calendar", "kind": "organization_site", "locator": "https://www.musictravel.com/blog/2026/03/17/the-carnegie-hall-experience-2027-student-music-festivals/", "checked_on": "2026-09-11", "note": "Published March 17, 2026; updated April 20. Lists a March 3 New York Invitational Music Festival. No reviewed page names Troen as producer." }
+  ],
+  "fact_spine": [
+    { "id": "F01", "topic": "Date", "statement": "The event is Wednesday, March 3, 2027.", "tier": 1, "source_ids": ["I06", "P01"], "reuse": "customer-safe" },
+    { "id": "F02", "topic": "Venue", "statement": "The performance is at Stern Auditorium / Perelman Stage, Carnegie Hall, produced by Troen Student Performance Events.", "tier": 1, "source_ids": ["I06", "P01"], "reuse": "customer-safe", "note": "Describe it as Troen's performance experience at Carnegie Hall. Do not imply venue endorsement." },
+    { "id": "F03", "topic": "Session", "statement": "The photographed licence states an evening session beginning at 8 p.m. with a stated duration of three hours.", "tier": 1, "source_ids": ["I06"], "reuse": "internal-only", "note": "The director FAQ carries the evening session but omits the exact start time and internal licence terms." },
+    { "id": "F04", "topic": "Venue fee", "statement": "The photographed licence page states a $26,460 fee due on signing, with other charges separate.", "tier": 1, "source_ids": ["I06"], "reuse": "internal-only", "note": "Not a payment receipt and not a full event budget." },
+    { "id": "F05", "topic": "Agreement", "statement": "A DocuSign certificate identifies the March 3 agreement and reports completion.", "tier": 1, "source_ids": ["I04"], "reuse": "internal-only", "note": "The complete executed agreement is not included in the photograph. Do not reproduce signature identifiers in customer materials." },
+    { "id": "F06", "topic": "Experience inclusions", "statement": "The brochure lists a one-hour clinic at Boulevard Carroll Music Studios, a stage soundcheck, the concert, adjudicator feedback, an archival recording, a plaque with a rating or an optional comments-only treatment, an event shirt, backstage credentials, an ensemble base room, playbills and an assigned event director.", "tier": 1, "source_ids": ["P01"], "reuse": "customer-safe", "note": "Shared March 3 / March 31 brochure. Inclusions are not guaranteed for a newly sold March 3 package until Troen confirms them." },
+    { "id": "F07", "topic": "Sequence", "statement": "The brochure describes the day as clinic or rehearsal, soundcheck, concert, then awards.", "tier": 1, "source_ids": ["P01"], "reuse": "customer-safe" },
+    { "id": "F08", "topic": "Producer history", "statement": "The brochure says Troen has produced the concert for over 15 years.", "tier": 1, "source_ids": ["P01"], "reuse": "internal-only", "note": "A brochure claim. Corroborate before using it in competitive positioning." },
+    { "id": "F09", "topic": "Current participation", "statement": "One group is reported as participating.", "tier": 2, "source_ids": ["ER01"], "reuse": "internal-only", "note": "Identity, contract, deposit and performer count have not been reconciled. Do not name the group or show a payment ledger." },
+    { "id": "F10", "topic": "Additional ensembles", "statement": "Ten additional ensembles is a provisional target requiring capacity confirmation.", "tier": 2, "source_ids": ["ER01"], "reuse": "internal-only", "note": "Not a verified inventory of ten slots. No live availability counter is shown anywhere in the demonstration." },
+    { "id": "F11", "topic": "Deposit exposure", "statement": "A large deposit is reported at risk; the cover letter describes possible repayment if the hall resells the date, less a fee.", "tier": 2, "source_ids": ["ER01", "I05"], "reuse": "internal-only", "note": "Actual rights, amounts paid and remaining obligations need the complete agreement and business records." },
+    { "id": "F12", "topic": "Working budget shape", "statement": "The working sheets use a 250 paid-performer target and separate fixed event commitments from per-person travel and package costs.", "tier": 2, "source_ids": ["P02"], "reuse": "internal-only", "note": "Some profit and occupancy entries appear unfinished; page 11 is an explicitly 2025 sheet with a different target." },
+    { "id": "F13", "topic": "Educational framing", "statement": "The documented clinic, performance and written feedback support an educational conversation with a director and an approving body.", "tier": 3, "reuse": "internal-only", "basis": "Drawn from the brochure inclusions in F06 and F07 and the materials strategy. It is a proposed framing, not a measured learning outcome or a school policy." },
+    { "id": "F14", "topic": "Channel priority", "statement": "No channel among existing relationships, tour partners and new public prospects has demonstrated better results for Troen.", "tier": 3, "reuse": "internal-only", "basis": "No comparative Troen conversion evidence exists in the supplied material, so the POC keeps the three channels level rather than assuming a warm-first order." },
+    { "id": "F15", "topic": "Workflow rehearsal", "statement": "The follow-up states shown in the demonstration are a fictional concert group, not any researched school's correspondence, approval, payment or booking.", "tier": 4, "illustrative": true, "reuse": "internal-only" },
+    { "id": "F16", "topic": "Approved price and deadline", "statement": "No supplied item has been established as the final March 3 customer price, inclusions basis or booking cutoff.", "tier": 5, "source_ids": ["DR01"], "reuse": "internal-only", "needed_for": "Issuing a firm offer, publishing a deadline, or using pricing in an external comparison." },
+    { "id": "F17", "topic": "Capacity", "statement": "Current usable March 3 performance capacity and existing commitments are unknown.", "tier": 5, "source_ids": ["DR01"], "reuse": "internal-only", "needed_for": "Publishing availability, holding space, or accepting a group." },
+    { "id": "F18", "topic": "Eligibility", "statement": "Applicable March 3 ensemble requirements and size limits are unknown.", "tier": 5, "source_ids": ["DR01"], "reuse": "internal-only", "needed_for": "Representing a specific ensemble as accepted or eligible." },
+    { "id": "F19", "topic": "Event identity", "statement": "The photographed licence names both Troen Student Performance Events and New York Invitational Music Festival; no reviewed source connects the public MTC calendar listing to this agreement.", "tier": 1, "source_ids": ["I06", "MTC-05"], "reuse": "internal-only", "note": "The local name and date correspondence is supporting context, not evidence of an MTC relationship." },
+    { "id": "F20", "topic": "Relationship ownership", "statement": "Relationship ownership, prior contact history and permission to contact are unknown for every account in this case.", "tier": 5, "source_ids": ["DR01"], "reuse": "internal-only", "needed_for": "Any actual approach, list handoff or CRM import." }
+  ],
+  "cost_model": {
+    "fixed": [
+      { "label": "Carnegie Hall licence fee, March 3 evening session", "amount": 26460, "tier": 1, "source_ids": ["I06"], "reuse": "internal-only", "note": "Stated as due on signing; other charges separate." },
+      { "label": "Working-sheet fixed cost total", "amount": 85362.49, "tier": 2, "source_ids": ["P02"], "reuse": "internal-only", "note": "The sheet's venue line states an afternoon fee of $28,400 and leaves the evening line blank, which does not match the $26,460 evening fee photographed for March 3. Unreconciled." }
+    ],
+    "variable_per_person": [
+      { "label": "Working-sheet cost per person", "amount": 373.12, "tier": 2, "source_ids": ["P02"], "reuse": "internal-only", "note": "Against a 250 paid-performer target. Not achieved margin or a validated break-even." },
+      { "label": "Working-sheet festival-only figure", "amount": 658.12, "tier": 2, "source_ids": ["P02"], "reuse": "internal-only", "note": "A working-sheet figure, not an approved customer quote." },
+      { "label": "Working-sheet required profit per person", "amount": 285, "tier": 2, "source_ids": ["P02"], "reuse": "internal-only", "note": "Complimentary places and occupancy change this differently from headcount alone." }
+    ],
+    "customer_package": [
+      { "label": "March 3 festival package price", "amount": null, "quoted": false, "status": "to_be_confirmed", "tier": 5, "source_ids": ["DR01"], "needed_for": "Issuing a firm offer or using pricing in an external comparison.", "note": "Show the source-backed experience and leave the price area unquoted." },
+      { "label": "Complete trip package: travel, lodging, meals", "amount": null, "quoted": false, "status": "to_be_confirmed", "tier": 5, "source_ids": ["DR01"], "needed_for": "Scoping a group-specific proposal.", "note": "Festival inclusions and a complete trip are separate scopes in every material." },
+      { "label": "Travel protection", "amount": null, "quoted": false, "status": "to_be_confirmed", "tier": 5, "source_ids": ["I01", "I02"], "needed_for": "Including protection terms in a real customer document.", "note": "The supplied sheet displays 5% and 7.9% of trip cost with conditions. Current applicable approved wording is unknown, so no benefit is repeated to a customer." }
+    ]
+  },
+  "accounts": [
+    { "id": "wando-high-sc-mount-pleasant", "name": "Wando High School", "type": "Public high school", "city": "Mount Pleasant", "state": "SC", "district": "Charleston County School District", "tier": 1, "source_ids": ["S01", "S02"], "relationship_status": "Unknown: no Troen or tour-partner relationship established", "relationship_owner": null, "origin": "Retained as a candidate from data/final/prospects.csv; legacy parade scores and contacts were not reused as Carnegie evidence." },
+    { "id": "salem-high-va-salem-city", "name": "Salem High School", "type": "Public high school", "city": "Salem", "state": "VA", "district": "Salem City Schools", "tier": 1, "source_ids": ["S05", "S06", "S09"], "relationship_status": "Unknown: no Troen or tour-partner relationship established", "relationship_owner": null, "origin": "Identity resolved to Salem City Schools from the school and program sites. The separate Virginia Beach SunDevil program (S09) is kept apart; the legacy row is unchanged and its Philadelphia label is not promoted to a verified date." },
+    { "id": "music-travel-consultants-in-indianapolis", "name": "Music Travel Consultants (MTC)", "type": "Student music tour operator", "city": "Indianapolis", "state": "IN", "tier": 1, "source_ids": ["MTC-01", "MTC-02"], "relationship_status": "Candidate; event relationship unconfirmed", "relationship_owner": null, "origin": "Illustrative research candidate for the partner channel. No recommendation to contact MTC." }
+  ],
+  "units": [
+    { "id": "wando-concert-band", "account_id": "wando-high-sc-mount-pleasant", "name": "Concert band", "kind": "Concert band; participating ensemble not selected", "tier": 1, "source_ids": ["S02", "S04"], "note": "The program lists four concert bands; the Midwest Clinic archive records the Symphonic Band on December 19, 2019." },
+    { "id": "salem-symphonic-band", "account_id": "salem-high-va-salem-city", "name": "Concert or symphonic band", "kind": "Concert or symphonic band; participating ensemble not selected", "tier": 1, "source_ids": ["S06"], "note": "The program describes two concert bands and a symphonic band within Salem City Schools." }
+  ],
+  "contacts": [
+    { "id": "wando-director-of-bands", "account_id": "wando-high-sc-mount-pleasant", "name": "Bobby Lambert", "role": "Director of Bands", "email": "director@wandobands.org", "published": true, "inferred": false, "tier": 1, "source_ids": ["S03"], "permission_to_contact": "unknown", "crm_ready": false, "status": "Published program role mailbox. No deliverability check and no permission to send established." },
+    { "id": "salem-director-of-bands", "account_id": "salem-high-va-salem-city", "name": "John E. Wright", "role": "Director of Bands", "email": "jwright@salem.k12.va.us", "published": true, "inferred": false, "tier": 1, "source_ids": ["S06", "S07"], "permission_to_contact": "unknown", "crm_ready": false, "status": "The alumni page labels the role and prints the mailbox; the home page corroborates both. Deliverability and permission to send are unverified." }
+  ],
+  "opportunities": [
+    {
+      "id": "wando-concert-band-carnegie-2027-03-03",
+      "name": "Concert band, March 3 performance conversation",
+      "account_id": "wando-high-sc-mount-pleasant",
+      "unit_id": "wando-concert-band",
+      "event_id": "troen-carnegie-2027-03-03",
+      "tier": 3,
+      "basis": "A clinic-and-performance conversation is plausible for this established concert program. Fit is a research judgment from S02 and S04; March 3 feasibility and interest are unverified.",
+      "source_ids": ["S02", "S04"],
+      "owner_role": "Logistics and software developer",
+      "status_vectors": { "proposal_readiness": "Not started", "institutional_approval": "Not started", "contract_execution": "Not sent", "payment_state": "Unquoted", "supplier_feasibility": "Not checked" },
+      "unblock": {
+        "proposal_readiness": "Approved March 3 inclusions and a price basis (F16) before a proposal can be more than a discussion draft.",
+        "institutional_approval": "No approach has been made; relationship ownership and permission to contact (F20) come first.",
+        "contract_execution": "Nothing to send until an offer basis exists.",
+        "payment_state": "Stays unquoted while F16 is unresolved.",
+        "supplier_feasibility": "Transport and lodging are only checked once a group and trip scope exist."
+      },
+      "next_action": "Review the educational angle and the matching director sheet. Before any real approach, check relationship ownership and whether an appropriate March 3 offer can be made."
+    },
+    {
+      "id": "salem-concert-band-carnegie-2027-03-03",
+      "name": "Concert or symphonic band, March 3 performance conversation",
+      "account_id": "salem-high-va-salem-city",
+      "unit_id": "salem-symphonic-band",
+      "event_id": "troen-carnegie-2027-03-03",
+      "tier": 3,
+      "basis": "Documented concert ensembles support an educational performance conversation. Resolving the school identity improves the research; it does not establish March 3 feasibility or interest.",
+      "source_ids": ["S05", "S06"],
+      "owner_role": "Logistics and software developer",
+      "status_vectors": { "proposal_readiness": "Not started", "institutional_approval": "Not started", "contract_execution": "Not sent", "payment_state": "Unquoted", "supplier_feasibility": "Not checked" },
+      "unblock": {
+        "proposal_readiness": "A Salem director sheet has not been drafted; the concert angle comes before any document.",
+        "institutional_approval": "No approach has been made; relationship ownership and permission to contact (F20) come first.",
+        "contract_execution": "Nothing to send until an offer basis exists.",
+        "payment_state": "Stays unquoted while F16 is unresolved.",
+        "supplier_feasibility": "Not applicable until a group and trip scope exist."
+      },
+      "next_action": "Keep the two Salem identities separate and do not personalize from the legacy parade score."
+    },
+    {
+      "id": "mtc-research-carnegie-2027-03-03",
+      "name": "Partner channel research example",
+      "account_id": "music-travel-consultants-in-indianapolis",
+      "event_id": "troen-carnegie-2027-03-03",
+      "tier": 3,
+      "basis": "MTC markets music travel and lists a planned March 3 festival at Carnegie Hall. The listing is a research example for the partner channel; the NYIMF/Troen match stays unconfirmed (F19).",
+      "source_ids": ["MTC-01", "MTC-05"],
+      "owner_role": "Research only — no owner assigned",
+      "status_vectors": { "proposal_readiness": "Not started", "institutional_approval": "Not started", "contract_execution": "Not sent", "payment_state": "Unquoted", "supplier_feasibility": "Not checked" },
+      "unblock": {
+        "proposal_readiness": "No partner proposal is in scope. Evidence explicitly connecting the MTC listing to this event would come first.",
+        "institutional_approval": "Not applicable to a partner organization.",
+        "contract_execution": "No commercial basis; responsibilities and terms are unknown.",
+        "payment_state": "No commercial basis.",
+        "supplier_feasibility": "Not applicable."
+      },
+      "next_action": "Research example only. Troen relationship and interest are unknown; there is no recommendation to contact MTC."
+    }
+  ],
+  "deliverables": [
+    { "kind": "approver_faq", "status": "Internal discussion draft; not issued", "issued": false, "fact_ids": ["F01", "F02", "F06", "F07"], "paths": ["docs/carnegie-hall/materials/Troen - Carnegie Hall Director FAQ.docx", "docs/carnegie-hall/materials/Troen - Carnegie Hall Director FAQ.md"], "note": "The answer-to-source map stays internal in the decision register; availability, price and booking terms are deliberately absent." },
+    { "kind": "proposal_template", "status": "Reviewed example; not issued", "issued": false, "fact_ids": ["F01", "F02", "F06"], "paths": ["docs/carnegie-hall/materials/Troen - Carnegie Hall Proposal Example.docx", "docs/carnegie-hall/materials/Troen - Carnegie Hall Proposal Example.md"], "note": "Pricing placeholders stay unquoted; the example is for a fictional group." },
+    { "kind": "client_event_sheet", "status": "Discussion draft for one researched account; not issued", "issued": false, "fact_ids": ["F01", "F02", "F06", "F07"], "paths": ["demo/carnegie-hall/exports/Troen - Wando Director Sheet.docx", "demo/carnegie-hall/exports/Troen - Wando Director Sheet.md"], "note": "Marked as a discussion draft not issued to the school." },
+    { "kind": "partner_sheet", "status": "Internal draft; no contact recommendation", "issued": false, "paths": ["docs/carnegie-hall/research/partner-pilot/PARTNER-SHEET-DRAFT.md"], "note": "Kept separate from the demonstration under the narrower research scope." }
+  ],
+  "walkthrough": [
+    { "number": 1, "ready": true, "artifacts": ["docs/carnegie-hall/BUSINESS-CONTEXT.md"], "note": "The generated fact spine at pipeline/out/troen-carnegie-2027-03-03/01-fact-spine.md is the compact version of this evidence." },
+    { "number": 2, "ready": true, "artifacts": ["demo/carnegie-hall/example.json", "demo/carnegie-hall/index.html"], "note": "One researched profile with its primary sources expandable in the demonstration." },
+    { "number": 3, "ready": true, "artifacts": ["docs/carnegie-hall/materials/Troen - Carnegie Hall Director FAQ.docx", "demo/carnegie-hall/exports/Troen - Wando Director Sheet.docx"], "note": "The FAQ previews inline; the director sheet matches the inspected profile." },
+    { "number": 4, "ready": true, "artifacts": ["demo/carnegie-hall/exports/Troen - Example Follow-up.md"], "note": "Fictional concert group. No researched school's activity is shown." },
+    { "number": 5, "ready": true, "artifacts": ["demo/carnegie-hall/outputs/01a08da2-45ab-7181-a80f-a887cb079101/Troen - Carnegie Opportunity Review.xlsx", "demo/carnegie-hall/exports/carnegie-hall/faq/Troen - Carnegie Hall Director FAQ.docx"], "note": "Editable workbook and Word documents leave the demonstration intact." }
+  ],
+  "scenarios": [
+    { "id": "fictional-concert-group-01", "name": "Example concert group", "tier": 4, "illustrative": true, "fictional": true, "notice": "Fictional group and activity. This is not any researched school's correspondence, approval status, payment history or booking.", "states": ["A proposal is requested", "School approval takes longer", "A supplier objects to the itinerary", "Final numbers arrive late", "The group withdraws"] }
+  ]
+}

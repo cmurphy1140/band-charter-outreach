@@ -1,0 +1,159 @@
+# .gitattributes — how git is allowed to touch the bytes in this repository.
+#
+# Rationale for every rule lives next to it. The long-form reasoning, the
+# measurements behind the exceptions, and the checks that prove these rules did
+# not rewrite history are in docs/ops/GIT-WORKFLOW.md.
+#
+# Last verified against the working tree: 2026-09-17.
+
+
+# ---------------------------------------------------------------------------
+# Line endings
+# ---------------------------------------------------------------------------
+
+# Detect text and store it LF in history, so every checkout and every agent
+# worktree sees the same bytes regardless of host or core.autocrlf setting.
+# Verified 2026-09-17: the only tracked files containing CRLF are the eleven
+# evidence CSVs excluded below, so switching this on renormalises nothing and
+# `git status --porcelain` stays empty after adding this file.
+* text=auto
+
+
+# ---------------------------------------------------------------------------
+# Evidence CSVs: preserved byte-for-byte, never renormalised
+# ---------------------------------------------------------------------------
+
+# scripts/run_all.py, score.py, export.py, qa.py, enrich.py and
+# search_fallback.py all write through `open(..., newline="")` + csv.writer,
+# which emits RFC 4180 CRLF. Eleven tracked CSVs under data/ are already
+# committed that way. `-text` disables conversion in both directions, so the
+# bytes checked out equal the bytes committed on every platform.
+#
+# Measured 2026-09-17, because the obvious claim is wrong: plain `text=auto`
+# does NOT renormalise these on its own. git skips the CRLF->LF clean filter
+# when the blob already in the index contains CRLF, so `git status` stays empty
+# with or without this line. What this line actually defends against is
+# `git add --renormalize`, which bypasses that safety. With the rule commented
+# out, `git add --renormalize -- data/` stages all eleven CSVs; with it in
+# place it stages none. One careless renormalise would otherwise rewrite every
+# data row in one commit and bury real row corrections under a whole-file diff,
+# which AGENTS.md forbids ("Preserve evidence and corrections").
+*.csv -text
+
+
+# ---------------------------------------------------------------------------
+# Tracked binaries
+# ---------------------------------------------------------------------------
+
+# `binary` is git's built-in macro for `-diff -merge -text`. Without it a
+# three-way merge or an end-of-line filter can silently corrupt these files:
+# a merged .docx or .xlsx is an unopenable zip, and Word/Excel will not say why.
+# Marking them also keeps multi-megabyte blobs out of `git diff` output.
+# Case matters: gitattributes patterns are case-sensitive on a case-sensitive
+# filesystem, and logistics/ already tracks both IMG_4368.HEIC and
+# IMG_4371.heic. Phone and camera imports produce upper-case extensions
+# routinely, so every image and document type here lists its realistic
+# spellings. git's own content sniffing limits the damage of a miss, but a
+# sniffed file is not an explicitly protected one.
+*.xlsx binary
+*.docx binary
+*.pptx binary
+*.webp binary
+*.pdf  binary
+*.PDF  binary
+*.jpg  binary
+*.JPG  binary
+*.jpeg binary
+*.JPEG binary
+*.heic binary
+*.HEIC binary
+
+
+# ---------------------------------------------------------------------------
+# Readable diffs for the file types this repository is actually made of
+# ---------------------------------------------------------------------------
+
+# git ships funcname drivers for these (git >= 2.36; this repo runs 2.43).
+# They only change the hunk header, never the content: a markdown hunk is
+# labelled with its nearest heading instead of `@@ -412,7 +412,9 @@`, which is
+# the difference between a reviewable and an unreviewable diff in a 41,000-byte
+# document like AGENTS.md.
+*.md   diff=markdown
+*.py   diff=python
+*.html diff=html
+*.css  diff=css
+
+
+# ---------------------------------------------------------------------------
+# Generated pipeline outputs: re-render, never hand-merge
+# ---------------------------------------------------------------------------
+
+# These are tracked on purpose — they are the reviewable product of
+# `node pipeline/cli.cjs render --all` — but they are never edited by hand.
+#
+# `text eol=lf` is load-bearing, not cosmetic: pipeline/render.cjs decides an
+# output is stale with an exact string comparison
+# (`fs.readFileSync(target, 'utf8') !== content`). On a host with
+# core.autocrlf=true a plain `text=auto` checkout would hand every .md output
+# back with CRLF and `make pipeline-check` would report every file stale
+# forever. Pinning eol=lf makes the staleness check mean what it says.
+#
+# `-merge` selects git's binary merge driver: on a conflict git keeps the
+# current side and flags it rather than writing conflict markers into a
+# generated artifact. Conflict markers in a rendered deliverable are worse than
+# a conflict, because the artifact still looks like a document. The correct
+# resolution is always to re-render from the case file.
+#
+# `linguist-generated=true` collapses these by default in GitHub diffs, so a
+# pull request shows the source change first and the render second.
+pipeline/out/**      text eol=lf -merge linguist-generated=true
+pipeline/trip/out/** text eol=lf -merge linguist-generated=true
+
+
+# ---------------------------------------------------------------------------
+# Tracked SerpAPI response cache
+# ---------------------------------------------------------------------------
+
+# .gitignore tracks this directory deliberately: every response cost monthly
+# search quota and the JSON holds no key. It is a cache, not source. Merging
+# two captures of the same query produces a document that was never returned by
+# any API, so `-merge` forces a deliberate pick-a-side; `linguist-generated`
+# keeps hundreds of cached responses out of the reviewable diff.
+data/raw/serpapi.com/** -merge linguist-generated=true
+
+
+# ---------------------------------------------------------------------------
+# npm lockfile
+# ---------------------------------------------------------------------------
+
+# demo/carnegie-hall/package-lock.json is generated: 210 lines of resolved
+# tarball URLs and integrity hashes accompanying a one-line package.json
+# change. `linguist-generated=true` keeps it from dwarfing that change in the
+# reviewable diff. `-merge` is the important half: git can merge two lockfiles
+# textually into a dependency tree npm would never have resolved, and the
+# result looks perfectly clean. The only correct resolution is to take one side
+# and re-run `npm install`.
+package-lock.json -merge linguist-generated=true
+
+
+# ---------------------------------------------------------------------------
+# The committed symlink
+# ---------------------------------------------------------------------------
+
+# CLAUDE.md is stored with mode 120000 pointing at AGENTS.md, and AGENTS.md
+# itself says "Preserve that link". The blob is the nine bytes `AGENTS.md`.
+#
+# `-text` guarantees no end-of-line filter is ever applied to those bytes,
+# including on a host that materialises the link as a plain file.
+# `-merge` stops a three-way merge from writing conflict markers into a
+# one-line link target, which would leave a broken regular file where the
+# symlink was.
+#
+# IMPORTANT, and the reason docs/ops/GIT-WORKFLOW.md carries a separate check:
+# .gitattributes CANNOT defend the symlink against `core.symlinks=false`. That
+# setting is resolved at checkout time, before attributes matter; the link is
+# written as a plain file containing the target text, the index still records
+# mode 120000, and `git status` reports a clean tree. No attribute can detect
+# or prevent it. See the "core.symlinks hazard" section of the workflow doc for
+# the check that does.
+CLAUDE.md -text -merge
