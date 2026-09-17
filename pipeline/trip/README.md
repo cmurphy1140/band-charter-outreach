@@ -48,8 +48,9 @@ module.exports = {
 
 Rules:
 
-- `outputs(trip)` returns a `Map` of **filename → string**. Filenames must be unique across
-  all renderers; the CLI throws if two renderers claim the same name.
+- `outputs(trip)` returns a `Map` of **filename → string**. Output filenames must be unique
+  across all renderers; the CLI throws if two renderers produce the same filename. Renderer
+  `name` values are for reporting and are not themselves checked for collision.
 - **Deterministic.** Read only the trip record and `schema.cjs`. No clock, no randomness, no
   network, no filesystem reads outside the repo. `check --all` compares bytes, so a
   timestamp in the output makes the check fail on every run.

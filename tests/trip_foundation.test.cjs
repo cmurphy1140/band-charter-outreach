@@ -274,3 +274,29 @@ test('a blocked render writes nothing and leaves no empty directory behind', () 
   assert.equal(result.files.size, 0);
   assert.equal(fs.existsSync(dir), false, 'a failed render must not create its output directory');
 });
+
+test('every source reference is checked, wherever in the record it sits', () => {
+  /* The record carries source_ids in eleven places. Enumerating them went stale as soon as
+     a section was added, so the validator walks the record. Probe each site. */
+  const sites = {
+    'inclusions[0].source_ids': trip => { trip.inclusions[0].source_ids = ['NOPE']; },
+    'exclusions[0].source_ids': trip => { trip.exclusions[0].source_ids = ['NOPE']; },
+    'trip.staffing[0].source_ids': trip => { trip.trip.staffing[0].source_ids = ['NOPE']; },
+    'trip.headcount.source_ids': trip => { trip.trip.headcount.source_ids = ['NOPE']; },
+    'trip.verification[0].source_ids': trip => { trip.trip.verification[0].source_ids = ['NOPE']; },
+    'pricing.components_per_person[0].source_ids': trip => { trip.pricing.components_per_person[0].source_ids = ['NOPE']; },
+    'pricing.known_unit_prices[0].source_ids': trip => { trip.pricing.known_unit_prices[0].source_ids = ['NOPE']; },
+    'venue_variants': trip => { trip.suppliers.find(s => s.id === 'cirque-symphonie').venue_variants[0].source_ids = ['NOPE']; },
+    'slot': trip => { trip.days[0].slots[0].source_ids = ['NOPE']; },
+    'supplier': trip => { trip.suppliers[0].source_ids = ['NOPE']; }
+  };
+  for (const [where, mutate] of Object.entries(sites)) {
+    const probe = copy();
+    mutate(probe);
+    assert.match(messages(validateTrip(probe)), /Unknown source_id "NOPE"/, `${where} must be checked`);
+  }
+
+  const notAnArray = copy();
+  notAnArray.inclusions[0].source_ids = 'PH-INC';
+  assert.match(messages(validateTrip(notAnArray)), /source_ids must be an array/);
+});

@@ -102,6 +102,28 @@ function validateTrip(trip, options = {}) {
     for (const ref of ids || []) if (!sources.has(ref)) fail(check, id, `Unknown source_id "${ref}".`);
   };
 
+  /* The record carries source_ids in eleven places and enumerating them goes stale the moment
+     a section is added, so walk the whole record instead and check every one, naming its path. */
+  const walkSourceRefs = (node, trail) => {
+    if (Array.isArray(node)) {
+      node.forEach((item, index) => walkSourceRefs(item, `${trail}[${index}]`));
+      return;
+    }
+    if (!node || typeof node !== 'object') return;
+    for (const [key, value] of Object.entries(node)) {
+      if (key === '_file') continue;
+      const path = trail ? `${trail}.${key}` : key;
+      if (key === 'source_ids') {
+        if (!Array.isArray(value)) fail('evidence.references', path, 'source_ids must be an array.');
+        else for (const ref of value) {
+          if (!sources.has(ref)) fail('evidence.references', path, `Unknown source_id "${ref}".`);
+        }
+        continue;
+      }
+      walkSourceRefs(value, path);
+    }
+  };
+
   /* suppliers.terms */
   const suppliers = supplierIndex(trip);
   if (suppliers.size !== (trip.suppliers || []).length) fail('suppliers.terms', 'suppliers', 'Duplicate supplier id.');
@@ -220,7 +242,7 @@ function validateTrip(trip, options = {}) {
     }
   }
 
-  checkRefs('sources.integrity', 'trip', head.source_ids);
+  walkSourceRefs(trip, '');
   return findings;
 }
 
