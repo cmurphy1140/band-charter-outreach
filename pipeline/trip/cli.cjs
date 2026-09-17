@@ -54,6 +54,7 @@ const outputDir = trip => path.join(outRoot, trip.trip.id);
 function writeTrip(trip) {
   const result = renderTrip(trip);
   const dir = outputDir(trip);
+  if (result.errors.length) return { ...result, dir: path.relative(repoRoot, dir) };
   fs.mkdirSync(dir, { recursive: true });
   for (const [name, content] of result.files) {
     const target = path.join(dir, name);
@@ -61,6 +62,22 @@ function writeTrip(trip) {
     fs.writeFileSync(target, content);
   }
   return { ...result, dir: path.relative(repoRoot, dir) };
+}
+
+function listOutputs(dir) {
+  if (!fs.existsSync(dir)) return [];
+  const out = [];
+  const walk = (current, prefix) => {
+    for (const entry of fs.readdirSync(current, { withFileTypes: true })) {
+      if (entry.name.startsWith('.')) continue;
+      const next = path.join(current, entry.name);
+      const name = prefix ? `${prefix}/${entry.name}` : entry.name;
+      if (entry.isDirectory()) walk(next, name);
+      else out.push(name);
+    }
+  };
+  walk(dir, '');
+  return out.sort();
 }
 
 function checkTrip(trip) {
@@ -71,7 +88,9 @@ function checkTrip(trip) {
     const target = path.join(dir, name);
     if (!fs.existsSync(target) || fs.readFileSync(target, 'utf8') !== content) stale.push(name);
   }
-  return { ...result, stale, dir: path.relative(repoRoot, dir) };
+  /* An output no renderer produces any more is still a document someone can read. */
+  const orphaned = listOutputs(dir).filter(name => !result.files.has(name));
+  return { ...result, stale, orphaned, dir: path.relative(repoRoot, dir) };
 }
 
 const report = findings => findings.forEach(f =>
@@ -103,7 +122,14 @@ function main(argv) {
 
   let failed = 0;
   for (const id of targets(argument)) {
-    const trip = loadTrip(id);
+    let trip;
+    try {
+      trip = loadTrip(id);
+    } catch (error) {
+      console.error(`${id}: ${error.message}`);
+      failed = 1;
+      continue;
+    }
     if (command === 'validate') {
       const findings = validateTrip(trip);
       const errors = errorsIn(findings);
@@ -112,11 +138,20 @@ function main(argv) {
       if (errors.length) failed = 1;
     }
     if (command === 'render') {
-      const result = writeTrip(trip);
+      let result;
+      try {
+        result = writeTrip(trip);
+      } catch (error) {
+        console.error(`${id}: renderer failed: ${error.message}`);
+        failed = 1;
+        continue;
+      }
       if (result.errors.length) {
         console.error(`${id}: ${result.errors.length} error(s) block rendering.`);
         report(result.errors);
         failed = 1;
+      } else if (!result.files.size) {
+        console.log(`${id}: no renderers installed; nothing written.`);
       } else {
         console.log(`${id}: wrote ${result.files.size} file(s) from ${result.byRenderer.size} renderer(s) to ${result.dir}`);
       }
@@ -125,6 +160,8 @@ function main(argv) {
       const result = checkTrip(trip);
       if (result.errors.length) { console.error(`${id}: ${result.errors.length} error(s).`); report(result.errors); failed = 1; }
       else if (result.stale.length) { console.error(`${id}: stale output(s): ${result.stale.join(', ')}. Run: node pipeline/trip/cli.cjs render ${id}`); failed = 1; }
+      else if (result.orphaned.length) { console.error(`${id}: orphaned output(s) no renderer produces: ${result.orphaned.join(', ')}. Delete them or restore the renderer.`); failed = 1; }
+      else if (!result.files.size) { console.log(`${id}: no renderers installed and no outputs on disk; nothing to compare.`); }
       else console.log(`${id}: outputs current (${result.files.size} file(s)); ${result.findings.length} warning(s).`);
     }
   }
@@ -132,4 +169,4 @@ function main(argv) {
 }
 
 if (require.main === module) process.exit(main(process.argv.slice(2)));
-module.exports = { main, loadRenderers, renderTrip, writeTrip, checkTrip, outputDir, outRoot, renderersDir };
+module.exports = { main, loadRenderers, renderTrip, writeTrip, checkTrip, listOutputs, outputDir, outRoot, renderersDir };

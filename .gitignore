@@ -18,3 +18,7 @@ data/raw/*
 # Agent worktrees created by the harness. Each is a separate git checkout used by a
 # background worker; they are scratch space, never project content.
 .claude/worktrees/
+
+# Quarantining importer output: a derived near-copy of an artifact the audit found
+# defective, containing researched contact details verbatim. Regenerate it; never commit it.
+/pipeline/out-staging/

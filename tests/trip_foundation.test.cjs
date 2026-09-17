@@ -2,7 +2,8 @@ const { test } = require('node:test');
 const assert = require('node:assert/strict');
 const path = require('node:path');
 const { loadTrip, validateTrip, assertValidTrip, tripIds, lines, supplierIndex, slotsForSupplier, errorsIn } = require('../pipeline/trip/load.cjs');
-const { loadRenderers, renderTrip, checkTrip, main } = require('../pipeline/trip/cli.cjs');
+const { loadRenderers, renderTrip, writeTrip, checkTrip, listOutputs, outputDir, main } = require('../pipeline/trip/cli.cjs');
+const fs = require('node:fs');
 const S = require('../pipeline/trip/schema.cjs');
 
 const TRIP = 'west-henderson-chattanooga-2027-04-08';
@@ -159,4 +160,117 @@ test('no personal contact detail is carried in the trip record', () => {
       assert.equal(contact.name, undefined, 'contacts carry no personal name');
     }
   }
+});
+
+/* Regression tests for the eleven foundation defects the batch units found. Each was
+   reported independently by at least one unit and reproduced before being fixed. */
+
+test('impossible dates are rejected, not just malformed ones', () => {
+  const badDay = copy();
+  badDay.days[0].date = '2027-13-05';
+  assert.match(messages(validateTrip(badDay)), /real YYYY-MM-DD date/);
+
+  const badFeb = copy();
+  badFeb.trip.prepared_on = '2026-02-30';
+  assert.match(messages(validateTrip(badFeb)), /real date/);
+
+  const badCaptured = copy();
+  badCaptured.sources[0].captured_on = '2026-00-10';
+  assert.match(messages(validateTrip(badCaptured)), /real date/);
+
+  const undated = copy();
+  delete undated.sources[0].captured_on;
+  assert.match(messages(validateTrip(undated)), /when it was captured or checked/);
+});
+
+test('slot times are ordered by minutes, not lexically', () => {
+  const unpadded = copy();
+  unpadded.days[0].slots[0].time = '9:00';
+  assert.match(messages(validateTrip(unpadded)), /zero-padded/);
+
+  // '09:30' then '10:00' is correct order and must not warn; the string compare used to.
+  const ascending = copy();
+  ascending.days[0].slots = [
+    { ...ascending.days[0].slots[0], id: 'probe-a', time: '09:30' },
+    { ...ascending.days[0].slots[1], id: 'probe-b', time: '10:00' }
+  ];
+  const warnings = validateTrip(ascending).filter(f => f.severity === 'warning' && /runs earlier/.test(f.message));
+  assert.deepEqual(warnings, [], 'a correctly ordered pair must not warn');
+
+  // '10:00' then '09:30' is a real inversion and must warn; the string compare used to miss it.
+  const inverted = copy();
+  inverted.days[0].slots = [
+    { ...inverted.days[0].slots[0], id: 'probe-a', time: '10:00' },
+    { ...inverted.days[0].slots[1], id: 'probe-b', time: '09:30' }
+  ];
+  assert.ok(validateTrip(inverted).some(f => /runs earlier/.test(f.message)), 'a real inversion must warn');
+});
+
+test('a malformed price row is reported, not thrown', () => {
+  const nulled = copy();
+  nulled.pricing.published['80'] = null;
+  let findings;
+  assert.doesNotThrow(() => { findings = validateTrip(nulled); }, 'validation must not crash on bad input');
+  assert.match(messages(findings), /not a set of occupancy prices/);
+
+  const variant = copy();
+  variant.pricing.observed_variant.published['90'] = { quad: 1 };
+  assert.match(messages(validateTrip(variant)), /Missing triple price/);
+});
+
+test('every supplier reference must resolve', () => {
+  const ghostInclusion = copy();
+  ghostInclusion.inclusions[0].supplier_id = 'ghost';
+  assert.match(messages(validateTrip(ghostInclusion)), /Unknown supplier "ghost"/);
+
+  const ghostPrice = copy();
+  ghostPrice.pricing.known_unit_prices[0].supplier_id = 'ghost';
+  assert.match(messages(validateTrip(ghostPrice)), /Unknown supplier "ghost"/);
+
+  const ghostRelated = copy();
+  ghostRelated.suppliers[3].related_supplier_ids = ['ghost'];
+  assert.match(messages(validateTrip(ghostRelated)), /Unknown supplier "ghost"/);
+
+  const selfRelated = copy();
+  selfRelated.suppliers[3].related_supplier_ids = [selfRelated.suppliers[3].id];
+  assert.match(messages(validateTrip(selfRelated)), /cannot be related to itself/);
+});
+
+test('a dangling supersedes is caught at validation, not inside a renderer', () => {
+  const dangling = copy();
+  dangling.trip.supersedes = 'no-such-trip';
+  assert.match(messages(validateTrip(dangling)), /does not exist/);
+
+  const selfSuperseding = copy();
+  selfSuperseding.trip.supersedes = selfSuperseding.trip.id;
+  assert.match(messages(validateTrip(selfSuperseding)), /cannot supersede itself/);
+});
+
+test('check sees an output no renderer produces any more', () => {
+  const trip = loadTrip(TRIP);
+  const dir = outputDir(trip);
+  const ghost = path.join(dir, 'ghost-from-a-deleted-renderer.md');
+  fs.mkdirSync(dir, { recursive: true });
+  fs.writeFileSync(ghost, 'a document nobody generates any more');
+  try {
+    const result = checkTrip(trip);
+    assert.ok(result.orphaned.includes('ghost-from-a-deleted-renderer.md'),
+      'an orphaned document must not pass the staleness gate');
+    assert.equal(main(['check', TRIP]), 1);
+    assert.ok(listOutputs(dir).includes('ghost-from-a-deleted-renderer.md'));
+  } finally {
+    fs.rmSync(ghost, { force: true });
+  }
+});
+
+test('a blocked render writes nothing and leaves no empty directory behind', () => {
+  const broken = copy();
+  broken.inclusions[0].supplier_id = 'ghost';
+  broken.trip.id = 'probe-blocked-render';
+  const dir = outputDir(broken);
+  fs.rmSync(dir, { recursive: true, force: true });
+  const result = writeTrip(broken);
+  assert.ok(result.errors.length, 'the probe record must be invalid');
+  assert.equal(result.files.size, 0);
+  assert.equal(fs.existsSync(dir), false, 'a failed render must not create its output directory');
 });

@@ -6,8 +6,18 @@ const S = require('./schema.cjs');
 
 const repoRoot = path.resolve(__dirname, '../..');
 const tripsDir = path.join(__dirname, 'trips');
-const isoDate = /^\d{4}-\d{2}-\d{2}$/;
-const clockTime = /^([01]?\d|2[0-3]):[0-5]\d$/;
+const isoShape = /^\d{4}-\d{2}-\d{2}$/;
+/* A shape check accepts 2027-13-05. Round-tripping through Date rejects it. */
+function isoDate(value) {
+  if (!isoShape.test(value || '')) return false;
+  const [y, m, d] = value.split('-').map(Number);
+  const probe = new Date(Date.UTC(y, m - 1, d));
+  return probe.getUTCFullYear() === y && probe.getUTCMonth() === m - 1 && probe.getUTCDate() === d;
+}
+/* Zero-padded only, so ordering can compare minutes rather than strings: "9:30" sorts
+   after "10:00" lexically, which silently inverted the slot-order check. */
+const clockTime = /^([01]\d|2[0-3]):[0-5]\d$/;
+const minutesOf = value => Number(value.slice(0, 2)) * 60 + Number(value.slice(3, 5));
 
 function tripFiles() {
   return fs.readdirSync(tripsDir).filter(name => name.endsWith('.trip.json')).sort()
@@ -62,12 +72,18 @@ function validateTrip(trip, options = {}) {
   const head = trip.trip;
   if (!head.id) fail('trip.shape', 'trip.id', 'The trip needs an id.');
   for (const field of ['start_date', 'end_date', 'prepared_on']) {
-    if (!isoDate.test(head[field] || '')) fail('trip.shape', `trip.${field}`, `${field} must be YYYY-MM-DD.`);
+    if (!isoDate(head[field])) fail('trip.shape', `trip.${field}`, `${field} must be a real date as YYYY-MM-DD.`);
   }
-  if (isoDate.test(head.start_date || '') && isoDate.test(head.end_date || '') && head.end_date < head.start_date) {
+  if (isoDate(head.start_date) && isoDate(head.end_date) && head.end_date < head.start_date) {
     fail('trip.shape', 'trip.end_date', 'The trip ends before it starts.');
   }
   if (!head.version) fail('trip.shape', 'trip.version', 'Every trip record carries a version so two printings can be told apart.');
+  if (head.supersedes) {
+    if (head.supersedes === head.id) fail('trip.shape', 'trip.supersedes', 'A trip cannot supersede itself.');
+    else if (!tripIds().includes(head.supersedes)) {
+      fail('trip.shape', 'trip.supersedes', `Superseded record "${head.supersedes}" does not exist. A renderer would throw on it.`);
+    }
+  }
 
   /* sources.integrity */
   const sources = new Map();
@@ -75,6 +91,11 @@ function validateTrip(trip, options = {}) {
     if (!source.id || sources.has(source.id)) fail('sources.integrity', source.id, 'Duplicate or missing source id.');
     if (!S.SOURCE_KINDS[source.kind]) fail('sources.integrity', source.id, `Unknown source kind "${source.kind}".`);
     if (!source.locator) fail('sources.integrity', source.id, 'Every source needs a locator.');
+    /* Trip sources record captured_on; the universal pipeline uses checked_on. Accept either
+       and require one: an undated source cannot be re-checked later. */
+    const dated = source.captured_on || source.checked_on;
+    if (!dated) fail('sources.integrity', source.id, 'Every source records when it was captured or checked.');
+    else if (!isoDate(dated)) fail('sources.integrity', source.id, 'captured_on/checked_on must be a real date as YYYY-MM-DD.');
     sources.set(source.id, source);
   }
   const checkRefs = (check, id, ids) => {
@@ -104,7 +125,7 @@ function validateTrip(trip, options = {}) {
     const comp = terms.comp_policy;
     if (comp && !S.COMP_KINDS[comp.kind]) fail('suppliers.terms', label, `Comp policy needs a kind (${Object.keys(S.COMP_KINDS).join(', ')}).`);
     for (const attempt of supplier.attempts || []) {
-      if (!isoDate.test(attempt.date || '')) fail('suppliers.terms', label, 'Each contact attempt needs a YYYY-MM-DD date.');
+      if (!isoDate(attempt.date)) fail('suppliers.terms', label, 'Each contact attempt needs a real YYYY-MM-DD date.');
       if (!S.CHANNELS.includes(attempt.channel)) fail('suppliers.terms', label, `Unknown contact channel "${attempt.channel}".`);
     }
   }
@@ -113,7 +134,7 @@ function validateTrip(trip, options = {}) {
   const slotIds = new Set();
   const dayDates = [];
   for (const day of trip.days) {
-    if (!isoDate.test(day.date || '')) fail('days.slots', `day:${day.date}`, 'Each day needs a YYYY-MM-DD date.');
+    if (!isoDate(day.date)) fail('days.slots', `day:${day.date}`, 'Each day needs a real YYYY-MM-DD date.');
     else {
       if (day.date < head.start_date || day.date > head.end_date) {
         fail('days.slots', `day:${day.date}`, 'Day falls outside the trip dates.');
@@ -126,9 +147,11 @@ function validateTrip(trip, options = {}) {
       const label = `slot:${slot.id}`;
       if (!slot.id || slotIds.has(slot.id)) fail('days.slots', label, 'Duplicate or missing slot id.');
       slotIds.add(slot.id);
-      if (!clockTime.test(slot.time || '')) fail('days.slots', label, `Slot time must be 24-hour HH:MM; found ${JSON.stringify(slot.time)}.`);
+      if (!clockTime.test(slot.time || '')) fail('days.slots', label, `Slot time must be zero-padded 24-hour HH:MM; found ${JSON.stringify(slot.time)}.`);
       else {
-        if (previous && slot.time < previous) warn('days.slots', label, `Slot runs earlier than the one before it (${slot.time} after ${previous}).`);
+        if (previous && minutesOf(slot.time) < minutesOf(previous)) {
+          warn('days.slots', label, `Slot runs earlier than the one before it (${slot.time} after ${previous}).`);
+        }
         previous = slot.time;
       }
       if (!slot.title) fail('days.slots', label, 'Slot needs a title.');
@@ -160,15 +183,41 @@ function validateTrip(trip, options = {}) {
   const pricing = trip.pricing || {};
   const tiers = (head.headcount || {}).tiers || [];
   if (!tiers.length) fail('pricing.tiers', 'headcount.tiers', 'Record the headcount tiers the price table is quoted at.');
-  for (const [tier, row] of Object.entries(pricing.published || {})) {
-    if (!tiers.includes(Number(tier))) fail('pricing.tiers', `pricing:${tier}`, `Published price tier ${tier} is not a declared headcount tier.`);
-    for (const occupancy of S.OCCUPANCY) {
-      if (typeof row[occupancy] !== 'number') fail('pricing.tiers', `pricing:${tier}`, `Missing ${occupancy} price.`);
+  const checkTable = (table, where) => {
+    for (const [tier, row] of Object.entries(table || {})) {
+      const label = `${where}:${tier}`;
+      if (!tiers.includes(Number(tier))) fail('pricing.tiers', label, `Published price tier ${tier} is not a declared headcount tier.`);
+      if (!row || typeof row !== 'object') { fail('pricing.tiers', label, 'Price row is not a set of occupancy prices.'); continue; }
+      for (const occupancy of S.OCCUPANCY) {
+        if (typeof row[occupancy] !== 'number') fail('pricing.tiers', label, `Missing ${occupancy} price.`);
+      }
     }
-  }
+  };
+  checkTable(pricing.published, 'pricing');
+  if (pricing.observed_variant) checkTable(pricing.observed_variant.published, 'pricing.observed_variant');
   const comps = (head.headcount || {}).trip_granted_comps;
   if (comps !== undefined && typeof comps !== 'number') {
     fail('pricing.tiers', 'headcount.trip_granted_comps', 'Trip-granted comps must be a number, kept separate from vendor-earned comps.');
+  }
+
+  /* references.suppliers — a ghost supplier id used to validate clean and surface only as
+     "undefined" inside a rendered document. */
+  const supplierRef = (label, id) => {
+    if (id !== undefined && id !== null && !suppliers.has(id)) {
+      fail('references.suppliers', label, `Unknown supplier "${id}".`);
+    }
+  };
+  for (const supplier of trip.suppliers) {
+    for (const related of supplier.related_supplier_ids || []) {
+      if (related === supplier.id) fail('references.suppliers', `supplier:${supplier.id}`, 'A supplier cannot be related to itself.');
+      else supplierRef(`supplier:${supplier.id}`, related);
+    }
+  }
+  for (const inclusion of trip.inclusions) supplierRef(`inclusion:${inclusion.id}`, inclusion.supplier_id);
+  for (const group of ['components_per_person', 'known_unit_prices']) {
+    for (const entry of (pricing[group] || [])) {
+      supplierRef(`pricing.${group}:${entry.label || entry.supplier_id}`, entry.supplier_id);
+    }
   }
 
   checkRefs('sources.integrity', 'trip', head.source_ids);
