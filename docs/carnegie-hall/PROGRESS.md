@@ -2,7 +2,43 @@
 
 [Start here](README.md) · [Shared project instructions](../../AGENTS.md) · [Strategies](strategies/README.md) · [Internal decisions](INTERNAL-DECISIONS.md)
 
-Last updated: September 17, 2026. This is the compact record to read when resuming. The plan and strategies describe the current approach; this file records what actually exists, what changed, and the next suggested increment. Update it during active work, not through an assumed background process.
+Last updated: September 17, 2026 (trip production layer). This is the compact record to read when resuming. The plan and strategies describe the current approach; this file records what actually exists, what changed, and the next suggested increment. Update it during active work, not through an assumed background process.
+
+## Trip production layer and operations batch — September 17, 2026
+
+Seventeen units built in parallel worktrees under one coordinator, all merged. The full
+record is [the audit](../ops/AUDIT-2026-09-17-TRIP-LAYER.md); it is the file to read, and it
+includes the parts that were wrong.
+
+What exists now: a trip held as a record — days, slots, suppliers, terms, comp policies,
+attempt logs, both price tables — with eight renderers generating the vendor sheet, run
+sheet, client itinerary, pricing model, deadline calendar, change diff with vendor call list,
+consistency audit and library coverage. Plus a Chattanooga destination library, seven
+operations documents under `docs/ops/` including an 88-issue board, five agent definitions
+and four slash commands, a quarantining importer over the 206 legacy rows, and a privacy
+guard. The source material is two printed iterations of a real April 2027 trip; individuals
+are held as roles throughout.
+
+Verified on the integrated tree: 352 Node tests pass across 14 suites; pytest 87 pass, 4 skip;
+both `check --all` commands report outputs current; the privacy guard is clean; no real
+supplier telephone number reached any tracked file. Not run: Word or Excel rendering, browser
+or accessibility testing, any live re-fetch, and GitHub Actions.
+
+Three states kept distinct. **CI is implemented, not active** — the push to
+`.github/workflows/` was rejected for want of the `workflows` permission, confirming
+`docs/SCRAPING_HURDLES.md` row 14 empirically; the file sits at `workflows/ci.yml` and
+activates by hand. **The privacy guard is implemented, not wired** — its Make target and hook
+config are written down for deliberate application. **The demo is built, not published** —
+`scripts/package-demo.cjs` is untouched.
+
+Fourteen defects in the coordinator's own foundation were found by the units and fixed with
+regression tests. Five factual claims made during the session were wrong and are corrected in
+the audit, including one finding withdrawn outright. The legacy pipeline's audited defects
+A01-A14 remain open; the importer quarantines them rather than repairing them, and nothing
+imports CRM-ready.
+
+The standing recommendation from the SaaS study argues partly against this build: buy the
+production layer, build only the trip record. The audit does not soften it.
 
 ## Universal pipeline layer — September 17, 2026
 
