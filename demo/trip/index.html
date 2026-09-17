@@ -1,0 +1,610 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="A local demonstration of the trip production layer: one real four-day trip held as a record, what its printed proposal was carrying in ballpoint, one change, the suppliers it trips, and the documents regenerated from it.">
+<title>Troen | The trip as a record</title>
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="styles.css">
+<script src="app.js" defer></script>
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+
+<header class="masthead">
+  <div class="mark"><strong>Troen</strong><span>Trip production layer</span></div>
+  <div class="trip-heading">
+    <strong>West Henderson High School Band &middot; Chattanooga, TN</strong>
+    <span>April 8&ndash;11, 2027 &middot; record <span class="mono">v1-factual</span>, prepared September 11, 2026</span>
+  </div>
+  <p class="demo-label">Local demonstration &middot; not a booking system</p>
+</header>
+
+<div class="shell">
+
+  <nav class="moves" aria-label="The five moves">
+    <p class="rail-label">Five moves</p>
+    <a href="#trip"><span class="n">1</span> The trip as a record</a>
+    <a href="#ballpoint"><span class="n">2</span> What the page was carrying</a>
+    <a href="#ask"><span class="n">3</span> The director asks</a>
+    <a href="#diff"><span class="n">4</span> The diff and the call list</a>
+    <a href="#documents"><span class="n">5</span> The documents, regenerated</a>
+    <a href="#finding"><span class="n">&bull;</span> The finding underneath</a>
+  </nav>
+
+  <div class="stage">
+    <div class="stage-intro">
+      <p class="eyebrow">Why hold a trip as a record</p>
+      <h1>The proposal document was the database, and every redraft wiped it.</h1>
+      <p class="lede">Four days, 27 itinerary slots, 13 suppliers, 15 inclusions. Two printed iterations of this same trip disagreed with each other in five places, and nothing in the process compared them.</p>
+    </div>
+
+    <main id="main" tabindex="-1">
+      <noscript>
+        <div class="noscript-note">
+          <p>JavaScript is off, so nothing is hidden: all six sections are readable in order, both change scenarios in move four are shown, and the rail links jump to the sections. With JavaScript on, the rail shows one move at a time and the ask in move three selects which of the two diffs move four displays. Nothing on this page needs a network either way.</p>
+        </div>
+      </noscript>
+
+      <!-- ============ MOVE 1 ============ -->
+      <section id="trip" data-move="trip" aria-labelledby="trip-title">
+        <p class="move-tag">Move one</p>
+        <h2 id="trip-title" tabindex="-1">Here is a real trip, held as a record</h2>
+        <p class="section-lede">A real client trip, transcribed on September 17, 2026 from photographs of two printed iterations, a group-sales email, a web-form notification and a quote-system screen. Individuals are reduced to roles throughout: the director, Group sales, Tour manager, Troen coordinator. No personal name, mailbox or direct number appears in the record or on this page.</p>
+
+        <dl class="facts">
+          <div><dt>Days</dt><dd>4</dd></div>
+          <div><dt>Itinerary slots</dt><dd>27</dd></div>
+          <div><dt>Suppliers</dt><dd>13</dd></div>
+          <div><dt>Inclusions</dt><dd>15</dd></div>
+          <div><dt>Sources cited</dt><dd>15</dd></div>
+          <div><dt>Lines confirmed</dt><dd>0 <span class="unit">of 20 supplier lines</span></dd></div>
+        </dl>
+
+        <h3>What a line state means</h3>
+        <p>Every priced line carries a state, and every state carries the one word a client-facing document is allowed to print next to it. Silence never implies &ldquo;booked&rdquo;.</p>
+        <ul class="legend">
+          <li><span class="state state-sourcing">Sourcing &middot; 1</span><span>Candidates are being shopped. Client word: <strong>venue being finalised</strong>.</span></li>
+          <li><span class="state state-requested">Requested &middot; 9</span><span>A request has gone out; no terms have come back. Client word: <strong>requested</strong>.</span></li>
+          <li><span class="state state-quoted">Quoted &middot; 9</span><span>A price and its terms are in. Nothing is held. Client word: <strong>quoted</strong>.</span></li>
+          <li><span class="state state-deposit">Deposit paid &middot; 1</span><span>A deposit is paid, a balance remains due. Client word: <strong>reserved</strong>.</span></li>
+          <li><span class="state state-confirmed">Confirmed &middot; 0</span><span>Supplier confirmed for this date and headcount, nothing outstanding.</span></li>
+          <li><span class="state state-none">No supplier line &middot; 7</span><span>Free time, own-cost meals and stops. No counterparty, so no state.</span></li>
+        </ul>
+
+        <h3>The four days</h3>
+        <p>Open a day to read its slots. One row is highlighted; it is the point of this whole page.</p>
+
+        <details class="day" open>
+          <summary>Thursday, April 8, 2027 <span class="sub">7 slots &middot; travel day, Lookout Mountain, dinner</span></summary>
+          <div>
+            <div class="table-scroll">
+              <table>
+                <caption>Day one, as the record holds it.</caption>
+                <thead><tr><th class="time" scope="col">Time</th><th scope="col">Slot</th><th scope="col">Counterparty</th><th scope="col">State</th></tr></thead>
+                <tbody>
+                  <tr><td class="time">07:00</td><td>Coaches arrive at the school</td><td>Young Transportation</td><td><span class="state state-quoted">Quoted</span></td></tr>
+                  <tr><td class="time">08:00</td><td>Load the coaches and depart for Chattanooga</td><td>Young Transportation</td><td><span class="state state-quoted">Quoted</span></td></tr>
+                  <tr><td class="time">12:00</td><td>Lunch stop on the way <span class="row-note">At own cost, or can be added.</span></td><td class="ownexpense">&mdash;</td><td><span class="state state-none">No supplier line</span></td></tr>
+                  <tr><td class="time">14:00</td><td>Rock City Gardens</td><td>Rock City Gardens</td><td><span class="state state-quoted">Quoted</span></td></tr>
+                  <tr><td class="time">16:45</td><td>Lookout Mountain Incline Railway</td><td>Lookout Mountain Incline Railway</td><td><span class="state state-deposit">Deposit paid</span></td></tr>
+                  <tr><td class="time">18:15</td><td>Hotel check in</td><td>Chattanooga hotel &mdash; property not named on the proposal</td><td><span class="state state-quoted">Quoted</span></td></tr>
+                  <tr class="is-flagged"><td class="time">19:30</td><td>Group dinner <span class="row-note">Printed as dinner at the 1909 terminal station complex, and sold on the inclusions page.</span></td><td>Day one group dinner &mdash; venue not settled</td><td><span class="state state-sourcing">Sourcing</span></td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </details>
+
+        <details class="day">
+          <summary>Friday, April 9, 2027 <span class="sub">7 slots &middot; Ruby Falls, Bessie Smith, climbing, North Shore</span></summary>
+          <div>
+            <div class="table-scroll">
+              <table>
+                <caption>Day two, as the record holds it.</caption>
+                <thead><tr><th class="time" scope="col">Time</th><th scope="col">Slot</th><th scope="col">Counterparty</th><th scope="col">State</th></tr></thead>
+                <tbody>
+                  <tr><td class="time">07:00</td><td>Breakfast at the hotel</td><td>Chattanooga hotel</td><td><span class="state state-quoted">Quoted</span></td></tr>
+                  <tr><td class="time">08:30</td><td>Ruby Falls <span class="row-note">The supplier said by phone that the first ride is 09:00. This printed time cannot be met as written.</span></td><td>Ruby Falls</td><td><span class="state state-requested">Requested</span></td></tr>
+                  <tr><td class="time">11:00</td><td>Point Park and the overlook</td><td class="ownexpense">&mdash;</td><td><span class="state state-none">No supplier line</span></td></tr>
+                  <tr><td class="time">12:30</td><td>Lunch downtown <span class="row-note">At own cost, or can be added.</span></td><td class="ownexpense">&mdash;</td><td><span class="state state-none">No supplier line</span></td></tr>
+                  <tr><td class="time">14:00</td><td>Bessie Smith Cultural Center</td><td>Bessie Smith Cultural Center</td><td><span class="state state-requested">Requested</span></td></tr>
+                  <tr><td class="time">16:30</td><td>High Point Climbing and Fitness <span class="row-note">The inclusions page prints a different business name for this same line.</span></td><td>High Point Climbing and Fitness</td><td><span class="state state-requested">Requested</span></td></tr>
+                  <tr><td class="time">18:30</td><td>Group dinner on the North Shore</td><td>North Shore group dinner &mdash; venue not recorded</td><td><span class="state state-requested">Requested</span></td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </details>
+
+        <details class="day">
+          <summary>Saturday, April 10, 2027 <span class="sub">8 slots &middot; aquarium, the performance, dinner</span></summary>
+          <div>
+            <div class="table-scroll">
+              <table>
+                <caption>Day three, as the record holds it.</caption>
+                <thead><tr><th class="time" scope="col">Time</th><th scope="col">Slot</th><th scope="col">Counterparty</th><th scope="col">State</th></tr></thead>
+                <tbody>
+                  <tr><td class="time">07:30</td><td>Breakfast at the hotel <span class="row-note">Dress for the concert, or bring concert attire along.</span></td><td>Chattanooga hotel</td><td><span class="state state-quoted">Quoted</span></td></tr>
+                  <tr><td class="time">08:30</td><td>Depart for the Tennessee Aquarium</td><td>Young Transportation</td><td><span class="state state-quoted">Quoted</span></td></tr>
+                  <tr><td class="time">09:15</td><td>Tennessee Aquarium</td><td>Tennessee Aquarium</td><td><span class="state state-requested">Requested</span></td></tr>
+                  <tr><td class="time">12:30</td><td>Lunch at the aquarium plaza <span class="row-note">At own cost, or can be added. Depart for the venue and change for the concert.</span></td><td class="ownexpense">&mdash;</td><td><span class="state state-none">No supplier line</span></td></tr>
+                  <tr><td class="time">14:15</td><td>Arrive at the performance venue <span class="row-note">The two printed iterations name two different venues for this arrival.</span></td><td>Cirque de la Symphonie with the Chattanooga Symphony</td><td><span class="state state-requested">Requested</span></td></tr>
+                  <tr><td class="time">15:00</td><td>Cirque de la Symphonie</td><td>Cirque de la Symphonie with the Chattanooga Symphony</td><td><span class="state state-requested">Requested</span></td></tr>
+                  <tr><td class="time">17:15</td><td>Group dinner following the show</td><td>Sit-down dinner &mdash; venue not recorded</td><td><span class="state state-requested">Requested</span></td></tr>
+                  <tr><td class="time">19:30</td><td>Optional minor-league baseball <span class="row-note">If the team is at home. Cost can be added.</span></td><td class="ownexpense">&mdash;</td><td><span class="state state-none">No supplier line</span></td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </details>
+
+        <details class="day">
+          <summary>Sunday, April 11, 2027 <span class="sub">5 slots &middot; checkout, riverboat, home</span></summary>
+          <div>
+            <div class="table-scroll">
+              <table>
+                <caption>Day four, as the record holds it.</caption>
+                <thead><tr><th class="time" scope="col">Time</th><th scope="col">Slot</th><th scope="col">Counterparty</th><th scope="col">State</th></tr></thead>
+                <tbody>
+                  <tr><td class="time">06:30</td><td>Breakfast at the hotel</td><td>Chattanooga hotel</td><td><span class="state state-quoted">Quoted</span></td></tr>
+                  <tr><td class="time">07:30</td><td>Check out and load the coaches <span class="row-note">Printed on this iteration. Absent from the other one.</span></td><td>Young Transportation</td><td><span class="state state-quoted">Quoted</span></td></tr>
+                  <tr><td class="time">09:00</td><td>Southern Belle riverboat <span class="row-note">Ninety minutes, narrated, from Pier 2 at Ross&rsquo;s Landing.</span></td><td>Southern Belle Riverboat</td><td><span class="state state-requested">Requested</span></td></tr>
+                  <tr><td class="time">10:45</td><td>Ross&rsquo;s Landing and the Passage</td><td class="ownexpense">&mdash;</td><td><span class="state state-none">No supplier line</span></td></tr>
+                  <tr><td class="time">11:30</td><td>Lunch locally, then depart for home <span class="row-note">Lunch at own cost, or can be added.</span></td><td class="ownexpense">&mdash;</td><td><span class="state state-none">No supplier line</span></td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </details>
+
+        <div class="callout">
+          <p class="kicker">The moment the record earns its keep</p>
+          <h3>19:30, day one: the proposal named a dinner venue that nobody had secured</h3>
+          <p>The itinerary page prints dinner at the 1909 terminal station complex. The inclusions page sells it by name: <em>&ldquo;Dinner at the Chattanooga Choo Choo Complex&rdquo;</em>. At the same time, in pen in the margin, five other venues were being called for that same meal.</p>
+          <p>The record holds this line as <span class="state state-sourcing">Sourcing</span>, so every generated document prints <strong>venue being finalised</strong> next to it instead of a name. The candidates below are the shopping list, not a menu shown to the client.</p>
+          <ul class="candidates">
+            <li><span>Chattanooga Choo Choo complex</span><span class="status printed">printed on the proposal</span></li>
+            <li><span>Frothy Monkey</span><span class="status">contacted</span></li>
+            <li><span>Southside Social</span><span class="status">contacted</span></li>
+            <li><span>Wanderlinger Brewing Company</span><span class="status">contacted</span></li>
+            <li><span>Feed Co Table and Tavern</span><span class="status">contacted</span></li>
+            <li><span>NC and Norman&rsquo;s</span><span class="status">contacted</span></li>
+          </ul>
+        </div>
+
+        <div class="note-block">
+          <p><strong>One more thing the tables cannot show you.</strong> The inclusions page sells and prices admission to the IMAX theatre at the aquarium. There is no time slot for it anywhere in the four days. The record carries that inclusion with an empty slot list, which is why it is findable at all.</p>
+        </div>
+
+        <nav class="move-footer" aria-label="Move navigation">
+          <span></span>
+          <a href="#ballpoint">Move two: what the page was carrying &rarr;</a>
+        </nav>
+      </section>
+
+      <!-- ============ MOVE 2 ============ -->
+      <section id="ballpoint" data-move="ballpoint" aria-labelledby="ballpoint-title">
+        <p class="move-tag">Move two</p>
+        <h2 id="ballpoint-title" tabindex="-1">What the printed proposal was carrying in ballpoint</h2>
+        <p class="section-lede">Rates, comp ratios, deposits, deadlines, who was called and when. All of it lived in the margins of a page that gets reprinted from scratch on every change. Below is what was actually written there, and what the quote system held instead.</p>
+
+        <h3>In the margins, counterparty by counterparty</h3>
+        <div class="cards">
+          <div class="card">
+            <h4>Rock City Gardens</h4>
+            <p class="who">Group sales &middot; web form, phone, email</p>
+            <ul>
+              <li><span class="pen">$19 per student.</span></li>
+              <li>Group rates need a minimum of 15 admissions, subject to availability.</li>
+              <li><span class="pen">One comp per ten paid, plus a bus driver comp.</span> At 80 paid that is eight earned places plus the driver.</li>
+              <li>Final headcount and payment due 5 business days out.</li>
+              <li>Cashless since September 2025; smokeless from July 2026.</li>
+              <li>The supplier states this is for planning only and <strong>does not confirm a reservation</strong>.</li>
+              <li>Three attempts on one day: web form, voicemail, then their emailed reply. <span class="pen">Two separate group-sales contacts were written on the page.</span></li>
+            </ul>
+          </div>
+
+          <div class="card">
+            <h4>Lookout Mountain Incline Railway</h4>
+            <p class="who">Group sales &middot; group event form</p>
+            <ul>
+              <li><span class="pen">$100 deposit paid on September 11, 2026.</span> Balance due 10 days out.</li>
+              <li>Form submitted for a 16:45 visit for 80 people.</li>
+              <li>The form asked whether comps are offered for tour managers or chaperones. <strong>No answer is recorded anywhere.</strong></li>
+              <li>The notification was forwarded inside the riverboat operator&rsquo;s office &mdash; one counterparty covering two itinerary lines. The quote system records nothing about that relationship.</li>
+            </ul>
+          </div>
+
+          <div class="card">
+            <h4>Bessie Smith Cultural Center</h4>
+            <p class="who">Group sales &middot; group request form</p>
+            <ul>
+              <li><span class="pen">$5 per person admission.</span></li>
+              <li><span class="pen">Plus a $50 tour guide fee &mdash; per group, not per person.</span></li>
+              <li>The guide was requested and the request is marked submitted. No confirmation is recorded.</li>
+            </ul>
+          </div>
+
+          <div class="card">
+            <h4>Ruby Falls</h4>
+            <p class="who">Group sales &middot; phone</p>
+            <ul>
+              <li><span class="pen">Called September 11, 2026: first ride is 09:00.</span></li>
+              <li>The printed itinerary puts the group there at 08:30. The printed time cannot be met as written, and the pen note and the printed line never met.</li>
+            </ul>
+          </div>
+
+          <div class="card">
+            <h4>The quote system, screen QS&#8209;48398</h4>
+            <p class="who">Traveler expenses, printed September 11, 2026</p>
+            <ul>
+              <li>Hotel $125.16 per person.</li>
+              <li>Attractions $183.00 per person &mdash; one blended line covering every attraction.</li>
+              <li>Dinners $90.00, commission $35.00.</li>
+              <li>Motor coach: not legible on the photographed screen.</li>
+              <li><strong>Every cost line reads &ldquo;No supplier&rdquo;.</strong> Itinerary: none added. Template used: none added.</li>
+            </ul>
+          </div>
+
+          <div class="card">
+            <h4>The two kinds of comp</h4>
+            <p class="who">Both written in pen as bare numbers</p>
+            <ul>
+              <li><strong>Vendor-earned</strong> &mdash; free places a supplier grants on its own ratio, such as Rock City&rsquo;s one per ten plus a driver. These <em>reduce</em> cost.</li>
+              <li><strong>Trip-granted</strong> &mdash; the three free places the operator gives the group. These are <em>carried by</em> the paying travellers.</li>
+              <li>They move the price in opposite directions. On the page they were two numbers with no labels.</li>
+            </ul>
+          </div>
+        </div>
+
+        <h3>What the pen recorded, and what it did not</h3>
+        <div class="table-scroll">
+          <table>
+            <caption>Contact attempts held in the record, by supplier.</caption>
+            <thead><tr><th scope="col">Counterparty</th><th class="num" scope="col">Attempts</th><th scope="col">What is on file</th></tr></thead>
+            <tbody>
+              <tr><td>Rock City Gardens</td><td class="num">3</td><td>Web form and voicemail the same day, then their reply with rates, minimum and deadlines.</td></tr>
+              <tr><td>Lookout Mountain Incline Railway</td><td class="num">2</td><td>Group event form, then the deposit paid by phone the next day.</td></tr>
+              <tr><td>Tennessee Aquarium</td><td class="num">2</td><td>Group request sent, then a follow-up call. No rate, minimum or deadline back.</td></tr>
+              <tr><td>Ruby Falls</td><td class="num">1</td><td>Phone call establishing the 09:00 first ride.</td></tr>
+              <tr><td>Bessie Smith Cultural Center</td><td class="num">1</td><td>Admission and tour guide request submitted.</td></tr>
+              <tr><td>Day one group dinner</td><td class="num">1</td><td>Five alternative venues contacted for the same meal.</td></tr>
+              <tr><td>Seven other suppliers</td><td class="num">0</td><td>Young Transportation, the hotel, Southern Belle, High Point Climbing, Cirque de la Symphonie and the day two and day three dinners have no attempt on file at all.</td></tr>
+            </tbody>
+          </table>
+        </div>
+
+        <div class="note-block">
+          <p><strong>Terms nobody has.</strong> The hotel rooming-list deadline, cut-off date and attrition terms are not recorded on any supplied page. Neither are the coach driver-hours limits, the riverboat&rsquo;s departure times, rate or deadline, the aquarium&rsquo;s rate and minimum, the climbing waiver requirement, or the Cirque group ticket terms. The record says so explicitly rather than leaving a blank that reads like a zero.</p>
+          <p>Where a name was written in pen next to a phone number, the record keeps the role and drops the person. The layer never needs the name to make the call list work.</p>
+        </div>
+
+        <nav class="move-footer" aria-label="Move navigation">
+          <a href="#trip">&larr; Move one</a>
+          <a href="#ask">Move three: the director asks &rarr;</a>
+        </nav>
+      </section>
+
+      <!-- ============ MOVE 3 ============ -->
+      <section id="ask" data-move="ask" aria-labelledby="ask-title">
+        <p class="move-tag">Move three</p>
+        <h2 id="ask-title" tabindex="-1">The director asks for a change</h2>
+        <p class="section-lede">This is the ordinary event that used to cost an afternoon: the page is reprinted from scratch, the pen notes do not survive, and nothing tells you which suppliers the change actually reaches. Pick one of the two asks below, then read move four.</p>
+
+          <fieldset class="asks">
+            <legend>Which change would you like to follow?</legend>
+            <label for="ask-a">
+              <input type="radio" id="ask-a" name="ask" value="a" checked>
+              <span class="ask-text"><strong>&ldquo;We are going to be at 72 travellers, not 80.&rdquo;</strong>
+              <em>A headcount change. It reaches pricing, comp ratios, minimums and deadlines.</em></span>
+            </label>
+            <label for="ask-b">
+              <input type="radio" id="ask-b" name="ask" value="b">
+              <span class="ask-text"><strong>&ldquo;Can we start Friday when Ruby Falls actually opens?&rdquo;</strong>
+              <em>A timing fix the record already demands. It reaches almost no supplier term, and still forces a full reprint.</em></span>
+            </label>
+          </fieldset>
+
+        <div class="note-block">
+          <p><strong>Both asks are illustrative.</strong> Neither was made by this client. They are written out here to show what the layer does with a change; the trip record itself is unchanged, and no request, hold, payment or cancellation follows from anything on this page.</p>
+        </div>
+
+        <h3>Why the change is legitimate, by the operator&rsquo;s own terms</h3>
+        <blockquote class="quote">
+          &ldquo;Pricing is subject to availability and may increase until time of booking. The price is subject to change based on your final number of paying participants.&rdquo;
+          <cite>Exclusions page, both printed iterations</cite>
+        </blockquote>
+        <p>The problem was never that re-quotes happen. The operator&rsquo;s own terms say they will. The problem is that each one costs an afternoon, and that the afternoon&rsquo;s work lands on a page that gets thrown away.</p>
+
+        <nav class="move-footer" aria-label="Move navigation">
+          <a href="#ballpoint">&larr; Move two</a>
+          <a href="#diff">Move four: the diff and the call list &rarr;</a>
+        </nav>
+      </section>
+
+      <!-- ============ MOVE 4 ============ -->
+      <section id="diff" data-move="diff" aria-labelledby="diff-title">
+        <p class="move-tag">Move four</p>
+        <h2 id="diff-title" tabindex="-1">The diff, and exactly who has to be called</h2>
+        <p class="section-lede">Because the trip is a record and not a document, the change can be compared against what was there before, and every supplier term it touches can be named. <a href="#ask">Change the ask</a>.</p>
+
+        <div class="note-block">
+          <p><strong>Written out by hand, from the record&rsquo;s own terms.</strong> This page does not run the production layer; it shows the shape of what the layer produces. Figures below are the record&rsquo;s figures, and anything the record does not hold is marked unknown rather than filled in.</p>
+        </div>
+
+        <!-- scenario A -->
+        <div class="scenario" data-scenario="a">
+          <p class="move-tag">Ask one</p>
+          <h3>Headcount: 80 paying travellers becomes 72</h3>
+
+          <h4>The diff</h4>
+          <div class="table-scroll">
+            <table class="diff">
+              <caption>What changes in the record.</caption>
+              <thead><tr><th scope="col">Field</th><th scope="col">Was</th><th scope="col">Becomes</th></tr></thead>
+              <tbody>
+                <tr><td><span class="mono">headcount.paying_minimum</span></td><td class="was">80</td><td class="becomes">72</td></tr>
+                <tr><td>Published price tiers</td><td class="was">80 &middot; 90 &middot; 100</td><td class="becomes">No published row exists at 72. The lowest printed tier is 80.</td></tr>
+                <tr><td>Rock City vendor-earned comps</td><td class="was">8 earned places, plus the driver</td><td class="becomes">7 earned places, plus the driver &mdash; if the supplier floors the ratio. The rounding rule is not recorded.</td></tr>
+                <tr><td>Rock City group minimum</td><td class="was">15 admissions</td><td class="becomes unchanged">Still met at 72.</td></tr>
+                <tr><td>Trip-granted comps</td><td class="was">3, carried by 80 payers</td><td class="becomes">3, carried by 72 payers. The record holds no per-place cost, so the effect is not computed here.</td></tr>
+                <tr><td>Bessie Smith guide fee, spread per person</td><td class="was">$50 per group &divide; 80 = $0.63</td><td class="becomes">$50 per group &divide; 72 = $0.69</td></tr>
+                <tr><td>Bessie Smith admission</td><td class="was">$5 per person</td><td class="becomes unchanged">$5 per person. Per-person rates do not move.</td></tr>
+                <tr><td>Incline Railway submitted count</td><td class="was">80 people, 16:45, April 8</td><td class="becomes">72 people. The $100 deposit is already paid; the balance is due 10 days out either way.</td></tr>
+              </tbody>
+            </table>
+          </div>
+
+          <h4>Call list: five counterparties, and the terms the change trips</h4>
+          <ol class="calls">
+            <li>
+              <h5>Rock City Gardens <span class="state state-quoted">Quoted</span></h5>
+              <p class="who">Group sales &middot; phone or email &middot; 3 attempts already on file</p>
+              <ul class="terms">
+                <li><span class="term-name">comp_policy</span>One comp per ten paid plus a driver comp. Eight earned places become seven, and the rounding rule needs asking.</li>
+                <li><span class="term-name">final_headcount_due_business_days</span>Final headcount and payment due 5 business days out; this is the number that goes in.</li>
+                <li><span class="term-name">minimum</span>15 admissions, still met at 72. Named so nobody has to re-derive it.</li>
+              </ul>
+            </li>
+            <li>
+              <h5>Lookout Mountain Incline Railway <span class="state state-deposit">Deposit paid</span></h5>
+              <p class="who">Group sales &middot; group event form &middot; same office as the riverboat</p>
+              <ul class="terms">
+                <li><span class="term-name">notes</span>The form was submitted for 80 people; a corrected count has to go back.</li>
+                <li><span class="term-name">deposit</span>$100 paid September 11, 2026. Unaffected by the count.</li>
+                <li><span class="term-name">balance_due_days</span>Balance due 10 days out, against a figure that has now moved.</li>
+                <li><span class="term-name">notes</span>The comp question asked on the form is still unanswered, and the answer changes the count again.</li>
+              </ul>
+            </li>
+            <li>
+              <h5>Chattanooga hotel <span class="state state-quoted">Quoted</span></h5>
+              <p class="who">Group reservations &middot; email</p>
+              <ul class="terms">
+                <li><span class="term-name">unit_price</span>$125.16 per person for three nights, quoted against the old rooming mix.</li>
+                <li><span class="term-name">release_date</span>Unrecorded. So are the rooming-list deadline, the cut-off and the attrition terms &mdash; this call is where they get captured.</li>
+              </ul>
+            </li>
+            <li>
+              <h5>Bessie Smith Cultural Center <span class="state state-requested">Requested</span></h5>
+              <p class="who">Group sales &middot; group request form</p>
+              <ul class="terms">
+                <li><span class="term-name">unit_price</span>$50 tour guide fee, charged per group, so it reallocates across fewer people.</li>
+                <li><span class="term-name">unit_price</span>$5 per person admission, unchanged per head.</li>
+              </ul>
+            </li>
+            <li>
+              <h5>Day one group dinner <span class="state state-sourcing">Sourcing</span></h5>
+              <p class="who">Group dining &middot; email &middot; six venues in play</p>
+              <ul class="terms">
+                <li><span class="term-name">notes</span>The printed complex and the five venues still being called all quoted against 80. Every one of them gets the new number, which is exactly the work that used to vanish with the reprint.</li>
+              </ul>
+            </li>
+          </ol>
+
+          <h4>Named, but no term tripped</h4>
+          <p>Young Transportation has no unit price on file at all, so the coach cost at a smaller group is unknown rather than recalculable. The Tennessee Aquarium, High Point Climbing, Cirque de la Symphonie, Southern Belle and the day two and day three dinners are all <span class="state state-requested">Requested</span> with no terms back, so the new count goes into the open request rather than tripping anything. The layer still lists them, because &ldquo;nothing came back yet&rdquo; is a fact worth printing.</p>
+        </div>
+
+        <!-- scenario B -->
+        <div class="scenario" data-scenario="b">
+          <p class="move-tag">Ask two</p>
+          <h3>Timing: Friday starts at 09:00, not 08:30</h3>
+          <p>This one is not really the director&rsquo;s change. The supplier already said it, by phone, on September 11, 2026. The pen note and the printed line simply never met.</p>
+
+          <h4>The diff</h4>
+          <div class="table-scroll">
+            <table class="diff">
+              <caption>What changes in the record.</caption>
+              <thead><tr><th scope="col">Field</th><th scope="col">Was</th><th scope="col">Becomes</th></tr></thead>
+              <tbody>
+                <tr><td><span class="mono">d2-ruby-falls.time</span></td><td class="was">08:30</td><td class="becomes">09:00, the supplier&rsquo;s own first ride time</td></tr>
+                <tr><td>Day two coach departure</td><td class="was">Sized to an 08:30 arrival</td><td class="becomes">Moves with the slot. Young Transportation has no recorded driver-hours limit to check it against.</td></tr>
+                <tr><td>The rest of Friday</td><td class="was">Point Park 11:00, lunch 12:30, Bessie Smith 14:00, climbing 16:30, dinner 18:30</td><td class="becomes">Unknown. The record holds no duration for Ruby Falls, so whether 11:00 still holds is a question, not an assumption.</td></tr>
+                <tr><td>Supplier terms tripped</td><td class="was">&mdash;</td><td class="becomes unchanged">None. No rate, minimum, deposit or deadline moves.</td></tr>
+              </tbody>
+            </table>
+          </div>
+
+          <h4>Call list: two counterparties</h4>
+          <ol class="calls">
+            <li>
+              <h5>Ruby Falls <span class="state state-requested">Requested</span></h5>
+              <p class="who">Group sales &middot; phone &middot; 1 attempt on file</p>
+              <ul class="terms">
+                <li><span class="term-name">notes</span>No term is tripped; the new time is the time they gave. What changes is the printed page, and a confirmation of the group slot at 09:00 is still outstanding.</li>
+              </ul>
+            </li>
+            <li>
+              <h5>Young Transportation <span class="state state-quoted">Quoted</span></h5>
+              <p class="who">Charter sales &middot; group charter line &middot; no attempt on file</p>
+              <ul class="terms">
+                <li><span class="term-name">notes</span>Departure time moves. Driver-hours limits and any overnight-drive policy are unrecorded for this trip, so this is also the call where they get captured.</li>
+              </ul>
+            </li>
+          </ol>
+
+          <div class="callout">
+            <p class="kicker">The point of the small change</p>
+            <p>A change that trips no supplier term at all still forces a complete reprint today, and on a reprinted page 08:30 survives, because nothing compares the printed line to the phone note. Five sets of margin notes against seven printed pages, with no mechanism between them, is not a rare situation. It is a Tuesday.</p>
+          </div>
+        </div>
+
+        <nav class="move-footer" aria-label="Move navigation">
+          <a href="#ask">&larr; Move three</a>
+          <a href="#documents">Move five: the documents &rarr;</a>
+        </nav>
+      </section>
+
+      <!-- ============ MOVE 5 ============ -->
+      <section id="documents" data-move="documents" aria-labelledby="documents-title">
+        <p class="move-tag">Move five</p>
+        <h2 id="documents-title" tabindex="-1">Every document, regenerated from the record</h2>
+        <p class="section-lede">The record changes once. The documents are outputs, not sources, so they are rebuilt from it rather than edited one by one. Renderers are discovered from a directory: adding one touches no shared file, which is what lets several be built at the same time.</p>
+
+        <pre class="command"><code>node pipeline/trip/cli.cjs validate --all
+node pipeline/trip/cli.cjs render   --all
+node pipeline/trip/cli.cjs check    --all   # fails if a tracked output is stale</code></pre>
+
+        <p><code>check</code> is the part that matters here. It compares bytes. A document that no longer matches the record is a failure, not a discrepancy somebody might notice later on a second printing.</p>
+
+        <h3>Outputs for this trip</h3>
+        <p>Rendered files land in the trip&rsquo;s own output directory. Renderers are being added in parallel, so what is present depends on what has been rendered at the moment you look.</p>
+        <ul class="doc-links">
+          <li>
+            <a href="../../pipeline/trip/out/west-henderson-chattanooga-2027-04-08/">Output directory for this trip</a>
+            <span class="desc">Relative path: <span class="mono">pipeline/trip/out/west-henderson-chattanooga-2027-04-08/</span>. This link resolves when the page is served from the repository root. Served from <span class="mono">demo/trip/</span> alone, it is outside the server root and will not open &mdash; nothing else on the page depends on it.</span>
+          </li>
+          <li>
+            <a href="../../pipeline/trip/README.md">The trip layer contract</a>
+            <span class="desc">How a renderer is added, what the record holds, and the privacy rule that applies to every file in the layer.</span>
+          </li>
+          <li>
+            <a href="../../pipeline/trip/trips/west-henderson-chattanooga-2027-04-08.trip.json">The trip record itself</a>
+            <span class="desc">Every figure on this page is in that file, next to the source it came from.</span>
+          </li>
+        </ul>
+
+        <div class="note-block">
+          <p><strong>What a generated document may and may not say.</strong> Each line prints its state&rsquo;s client word. The day one dinner prints <em>venue being finalised</em>, not a venue name. Nineteen of the twenty supplier lines on this trip are at sourcing, requested or quoted; one is reserved against a paid deposit; none is confirmed. A document generated from this record cannot quietly promise otherwise, because the word comes from the state and the state comes from the record.</p>
+        </div>
+
+        <nav class="move-footer" aria-label="Move navigation">
+          <a href="#diff">&larr; Move four</a>
+          <a href="#finding">The finding underneath &rarr;</a>
+        </nav>
+      </section>
+
+      <!-- ============ THE FINDING ============ -->
+      <section id="finding" data-move="finding" aria-labelledby="finding-title">
+        <p class="move-tag">The finding underneath</p>
+        <h2 id="finding-title" tabindex="-1">Two printings of this trip disagreed in five places, and nobody could tell</h2>
+        <p class="section-lede">Not a hypothetical. Two printed iterations of this same proposal were photographed and compared side by side. These are the differences. Nothing in the process that produced them compared anything.</p>
+
+        <div class="table-scroll">
+          <table>
+            <caption>Iteration <span class="mono">v1-factual</span> against iteration <span class="mono">v2-narrative</span>.</caption>
+            <thead><tr><th scope="col">What disagreed</th><th scope="col">One printing says</th><th scope="col">The other says</th></tr></thead>
+            <tbody>
+              <tr><td>The performance venue</td><td>Soldiers and Sailors Memorial Auditorium</td><td>Tivoli Theatre</td></tr>
+              <tr><td>The climbing vendor&rsquo;s name <span class="row-note">Here the two pages of a single printing disagree with each other.</span></td><td>High Point Climbing and Fitness, on the itinerary page</td><td>High Street Climbing and Fitness Center, on the inclusions page</td></tr>
+              <tr><td>Checkout before the riverboat</td><td>07:30 check out and load the coaches, printed</td><td>The step is absent entirely</td></tr>
+              <tr><td>The exclusions wording</td><td>&ldquo;Sight Seeing, Transportation and any Meals not on the itinerary&rdquo;</td><td>&ldquo;Sight Seeing, <strong>Activities</strong>, Transportation and any Meals not on the itinerary&rdquo;</td></tr>
+              <tr><td>The per-person price table</td><td>Twelve cells: three headcount tiers by four occupancies</td><td>Eleven of those twelve carry a different number</td></tr>
+            </tbody>
+          </table>
+        </div>
+
+        <h3>The price table, cell by cell</h3>
+        <p>Both printings carry a Per Person Cost table: three headcount tiers by four occupancies. Eleven of the twelve cells moved between printings, some up and some down. No page records why, or which one is current.</p>
+        <div class="table-scroll">
+          <table>
+            <caption>Per person cost, US dollars. Transcribed from photographs; these are the operator&rsquo;s own figures, not recomputed here.</caption>
+            <thead>
+              <tr><th scope="col">Travellers</th><th scope="col">Occupancy</th><th class="num" scope="col">v1-factual</th><th class="num" scope="col">v2-narrative</th><th class="num" scope="col">Difference</th></tr>
+            </thead>
+            <tbody>
+              <tr><th rowspan="4" scope="rowgroup">80</th><td>Quad</td><td class="num">833</td><td class="num">835</td><td class="num delta-up">+2</td></tr>
+              <tr><td>Triple</td><td class="num">887</td><td class="num">887</td><td class="num delta-same">0</td></tr>
+              <tr><td>Double</td><td class="num">995</td><td class="num">992</td><td class="num delta-down">&minus;3</td></tr>
+              <tr><td>Single</td><td class="num">1320</td><td class="num">1305</td><td class="num delta-down">&minus;15</td></tr>
+              <tr><th rowspan="4" scope="rowgroup">90</th><td>Quad</td><td class="num">794</td><td class="num">803</td><td class="num delta-up">+9</td></tr>
+              <tr><td>Triple</td><td class="num">848</td><td class="num">855</td><td class="num delta-up">+7</td></tr>
+              <tr><td>Double</td><td class="num">957</td><td class="num">959</td><td class="num delta-up">+2</td></tr>
+              <tr><td>Single</td><td class="num">1282</td><td class="num">1272</td><td class="num delta-down">&minus;10</td></tr>
+              <tr><th rowspan="4" scope="rowgroup">100</th><td>Quad</td><td class="num">763</td><td class="num">777</td><td class="num delta-up">+14</td></tr>
+              <tr><td>Triple</td><td class="num">817</td><td class="num">829</td><td class="num delta-up">+12</td></tr>
+              <tr><td>Double</td><td class="num">926</td><td class="num">933</td><td class="num delta-up">+7</td></tr>
+              <tr><td>Single</td><td class="num">1251</td><td class="num">1246</td><td class="num delta-down">&minus;5</td></tr>
+            </tbody>
+          </table>
+        </div>
+
+        <div class="callout">
+          <p class="kicker">What the twelve cells mean</p>
+          <p>Subtracting across the two tables above: the single supplement over quad at 80 travellers narrows from $487 to $470, and the discount for filling 100 places instead of 80 flattens from $70 to $58. Those are two different commercial offers. The only cell that agrees is the triple at 80 &mdash; $887 on both.</p>
+          <p>A document that is also the database cannot answer &ldquo;which of these is current, and why did it change?&rdquo; A record can, because the change is a diff against something.</p>
+        </div>
+
+        <nav class="move-footer" aria-label="Move navigation">
+          <a href="#documents">&larr; Move five</a>
+          <a href="#trip">Back to move one &rarr;</a>
+        </nav>
+      </section>
+
+    </main>
+  </div>
+
+  <aside class="context" aria-label="About this record">
+    <div class="panel">
+      <h2>About this record</h2>
+      <dl>
+        <dt>Trip</dt><dd>West Henderson High School Band, Hendersonville, NC</dd>
+        <dt>Destination and dates</dt><dd>Chattanooga, TN &middot; April 8&ndash;11, 2027</dd>
+        <dt>Operator</dt><dd>Troen Student Performance Events</dd>
+        <dt>Record version</dt><dd><span class="mono">v1-factual</span>, prepared September 11, 2026</dd>
+        <dt>Transcribed</dt><dd>September 17, 2026, from photographs of two printed iterations</dd>
+      </dl>
+    </div>
+
+    <div class="panel">
+      <h3>Where the facts come from</h3>
+      <ul>
+        <li>7 printed proposal pages</li>
+        <li>5 sets of handwritten margin notes</li>
+        <li>1 supplier email and 1 web-form notification</li>
+        <li>1 quote-system screen</li>
+      </ul>
+      <p>A margin note is evidence with a different weight from a supplier&rsquo;s own email, and the record says which it was.</p>
+    </div>
+
+    <div class="panel">
+      <div class="honesty">
+        <h3>Real trip, roles not names</h3>
+        <p>This is a real client trip. Every individual is reduced to a role &mdash; the director, Group sales, Tour manager, Troen coordinator. No personal name, mailbox or direct number is in the record or on this page. Business names are kept.</p>
+      </div>
+    </div>
+
+    <div class="panel">
+      <h3>What this page is not</h3>
+      <p>Nothing here books, holds, pays or cancels anything, and nothing contacts a supplier. One $100 deposit is recorded as already paid to the Incline Railway; no line on this trip is confirmed.</p>
+      <p>The two director asks in move three are illustrative and were not made by this client. The diffs and call lists that follow them are written out by hand from the record&rsquo;s own terms to show the shape of the output; this page runs no pipeline.</p>
+      <p>Prices are the operator&rsquo;s own transcribed figures. Nothing here recomputes or endorses them.</p>
+    </div>
+
+    <div class="panel">
+      <h3>Offline by construction</h3>
+      <p>Static HTML, CSS and one small script. No dependencies, no CDN, no external fonts, no network calls, nothing stored. Open <span class="mono">index.html</span> from a file or serve the folder; both work.</p>
+    </div>
+  </aside>
+
+</div>
+
+<footer class="site-footer">
+  <p>Trip production layer &middot; local demonstration prepared by the logistics and software developer. One trip, one record, documents generated from it.</p>
+  <p>Record transcribed September 17, 2026.</p>
+</footer>
+
+</body>
+</html>
