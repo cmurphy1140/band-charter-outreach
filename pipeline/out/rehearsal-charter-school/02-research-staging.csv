@@ -1,0 +1,7 @@
+layer,id,parent_id,name,detail,evidence_tier,evidence_class,source_urls,verification_date,crm_ready,hold_reason
+account,example-charter-school-01,,Example Charter School (fictional),Public charter school · Example City,4,Illustrative,,,false,Fictional record; no relationship exists to describe
+unit,example-charter-wind-ensemble,example-charter-school-01,Wind ensemble (fictional),Wind ensemble,4,Illustrative,,,false,
+unit,example-charter-string-orchestra,example-charter-school-01,String orchestra (fictional),String orchestra,4,Illustrative,,,false,A second ensemble under one account: the unit layer is what keeps two opportunities from collapsing into one deal.
+contact,example-charter-director,example-charter-school-01,Director of Bands (role only),Director of Bands · no published email,4,Illustrative,,,false,permission_to_contact: unknown
+opportunity,example-charter-wind-ensemble-carnegie-2027-03-03,example-charter-school-01,"Wind ensemble, March 3 performance (rehearsal)",example-charter-wind-ensemble,4,Illustrative,,,false,"Revise the itinerary around the transport objection, then re-check the approval timeline. The proposal stays a draft; nothing is issued."
+opportunity,example-charter-string-orchestra-carnegie-2027-03-03,example-charter-school-01,"String orchestra, March 3 performance (rehearsal)",example-charter-string-orchestra,4,Illustrative,,,false,Nothing is blocking. Carry the revised itinerary and the participant count into final coordination when the deposit settles.

@@ -1,0 +1,9 @@
+crm_object,record_id,name,hold_reason
+Contact,wando-director-of-bands,Bobby Lambert,"Held in local staging: permission_to_contact ""unknown""."
+Contact,salem-director-of-bands,John E. Wright,"Held in local staging: permission_to_contact ""unknown""."
+Account,wando-high-sc-mount-pleasant,Wando High School,No CRM-ready contact on this account; research stays in local staging.
+Account,salem-high-va-salem-city,Salem High School,No CRM-ready contact on this account; research stays in local staging.
+Account,music-travel-consultants-in-indianapolis,Music Travel Consultants (MTC),No CRM-ready contact on this account; research stays in local staging.
+Deal,wando-concert-band-carnegie-2027-03-03,"Concert band, March 3 performance conversation",Deals are exported once the account has a CRM-ready contact and a real commercial basis.
+Deal,salem-concert-band-carnegie-2027-03-03,"Concert or symphonic band, March 3 performance conversation",Deals are exported once the account has a CRM-ready contact and a real commercial basis.
+Deal,mtc-research-carnegie-2027-03-03,Partner channel research example,Deals are exported once the account has a CRM-ready contact and a real commercial basis.

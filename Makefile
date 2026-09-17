@@ -1,7 +1,7 @@
 PY := .venv/bin/python
 PIP := .venv/bin/pip
 
-.PHONY: venv scrape enrich score export all test refresh check-serpapi
+.PHONY: venv scrape enrich score export all test refresh check-serpapi pipeline pipeline-check
 
 venv:
 	python3 -m venv .venv
@@ -29,3 +29,10 @@ check-serpapi:
 
 refresh:
 	$(PY) scripts/run_all.py --refresh
+
+pipeline:
+	node pipeline/cli.cjs render --all
+
+pipeline-check:
+	node pipeline/cli.cjs check --all
+	node --test tests/pipeline.test.cjs

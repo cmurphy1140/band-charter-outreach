@@ -2,6 +2,10 @@
 
 [Reference pack](../README.md) · [Overall plan](../PLAN.md) · [Tools map](../TOOLS-AND-CONNECTORS.md) · [Internal decisions](../INTERNAL-DECISIONS.md)
 
+[Strategy 00](00-universal-pipeline.md) is the reusable frame: the same five stages run once
+per use case, with the rules below enforced by [`pipeline/`](../../../pipeline/README.md)
+rather than by memory. The eight strategies that follow are the reasoning behind each part.
+
 These eight strategies are the reusable working instructions for the Carnegie POC. Each chunk has a concrete output, an independent starting point, a detailed method, and a quality standard. They are **planned work**, not completed deliverables or authorization to operate external systems.
 
 All eight strategies are living documents. Revise the affected strategy during the same work session when new evidence, accepted choices, or verified implementation changes it. [Current progress](../PROGRESS.md) records what actually exists and why a material decision changed; [shared instructions](../../../AGENTS.md) keep the collaboration and learning practice consistent. Do not rewrite unrelated strategies for every small edit.
@@ -12,6 +16,7 @@ The shared outcome is a convincing, source-backed demonstration for **March 3, 2
 
 | Strategy | What it produces | What it can start from now |
 |---|---|---|
+| [00 — Universal pipeline](00-universal-pipeline.md) | One five-stage pipeline with governance checks, run once per use case | The reviewed event evidence, profiles and materials already in this repository |
 | [01 — Evidence and event model](01-evidence-and-event-model.md) | Reusable event facts, claim notes, and a source-backed event story | Existing logistics and business-context review |
 | [02 — Market and provider research](02-market-and-provider-research.md) | Fair provider comparison and channel hypotheses | Public provider information and the existing offer evidence |
 | [03 — Prospect discovery and verification](03-prospect-discovery-and-verification.md) | Small opportunity workbook with defensible profiles | Existing candidate library and public school/partner sources |

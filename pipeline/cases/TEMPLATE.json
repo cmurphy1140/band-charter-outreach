@@ -1,0 +1,26 @@
+{
+  "case": {
+    "id": "REPLACE-ME",
+    "title": "REPLACE-ME",
+    "prepared_on": "",
+    "stage_reached": 1,
+    "illustrative": false,
+    "note": "Say in one sentence what this case is and what it is not. Run: node pipeline/cli.cjs validate <case-id> — the errors name every field still to fill."
+  },
+  "extends_event": "troen-carnegie-2027-03-03",
+  "sources": [],
+  "fact_spine": [],
+  "accounts": [],
+  "units": [],
+  "contacts": [],
+  "opportunities": [],
+  "deliverables": [],
+  "walkthrough": [
+    { "number": 1, "ready": false, "gap": "Name the artifact a reviewer opens to understand the event." },
+    { "number": 2, "ready": false, "gap": "Name the researched profile and its primary sources." },
+    { "number": 3, "ready": false, "gap": "Name the matching event sheet and FAQ." },
+    { "number": 4, "ready": false, "gap": "Name the traced approval or logistics scenario." },
+    { "number": 5, "ready": false, "gap": "Name the exportable documents or workbook." }
+  ],
+  "scenarios": []
+}

@@ -2,7 +2,40 @@
 
 [Start here](README.md) · [Shared project instructions](../../AGENTS.md) · [Strategies](strategies/README.md) · [Internal decisions](INTERNAL-DECISIONS.md)
 
-Last updated: September 12, 2026. This is the compact record to read when resuming. The plan and strategies describe the current approach; this file records what actually exists, what changed, and the next suggested increment. Update it during active work, not through an assumed background process.
+Last updated: September 17, 2026. This is the compact record to read when resuming. The plan and strategies describe the current approach; this file records what actually exists, what changed, and the next suggested increment. Update it during active work, not through an assumed background process.
+
+## Universal pipeline layer — September 17, 2026
+
+The user supplied a five-stage client-acquisition pipeline and asked for it to be made real,
+iterative per use case: the school in play, against an event Troen is coordinating. Claude
+Code implemented it on `claude/universal-pipeline-strategy-54qrt3` in a cloud checkout.
+[`pipeline/`](../../pipeline/README.md) holds a shared vocabulary, a governance validator, a
+deterministic renderer and a CLI; [strategy 00](strategies/00-universal-pipeline.md) holds
+the reasoning; [the work record](coordination/2026-09-17-universal-pipeline.md) holds exact
+ownership, verification and limits.
+
+Two cases exist. `troen-carnegie-2027-03-03` carries the March 3 event with no new research
+and no new business claim: every fact, figure, account, ensemble, adult role and unknown is
+carried from the business context, the decision register and the reviewed demo inputs, with
+the original source ids. `rehearsal-charter-school` is a labelled illustrative second case
+against the same event, inheriting its fact spine, used to rehearse the Stage 3 workflow with
+the status vectors actually moving.
+
+Verified: `node pipeline/cli.cjs validate --all` reports 0 errors and 3 intended warnings;
+15 new tests pass; 35 Node tests pass across the pipeline, demo and review suites after
+installing the demo's `docx` dependency in the container. Generated outputs are tracked and
+`make pipeline-check` fails when a case changes without re-rendering. Not run: Python tests
+(no `.venv` here; no Python changed), Word/Excel rendering, browser checks, and any live
+source re-check — no network request was made to a school, program or company site.
+
+Unchanged and unresolved: the audited scraper and refresh defects, Stage 2 acquisition, and
+every business unknown in the decision register. The CRM staging file is a file, not an
+import, and it is empty for the real case by design — no researched contact has recorded
+permission or a known relationship owner. Proposed next increment: a reviewed importer from
+`data/final/prospects.csv` that quarantines the audited identity and attribution defects
+rather than inheriting them, then a real second school case in place of the rehearsal one.
+This increment was committed and pushed to its branch for review; it was not integrated,
+deployed or published.
 
 ## Developer pacing reminder — September 12, 2026
 
