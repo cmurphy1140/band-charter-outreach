@@ -255,3 +255,27 @@ test('staging CSVs are safe to open in a spreadsheet', () => {
   const staging = renderCase(data).files.get('02-research-staging.csv');
   assert.match(staging, /"'=HYPERLINK\(""http:\/\/evil"",""click""\)"/);
 });
+
+test('a case cannot inherit its own event spine', () => {
+  const file = path.join(__dirname, '..', 'pipeline/cases/rehearsal-charter-school.case.json');
+  const original = require('node:fs').readFileSync(file, 'utf8');
+  const looping = JSON.parse(original);
+  looping.extends_event = 'rehearsal-charter-school';
+  require('node:fs').writeFileSync(file, JSON.stringify(looping, null, 2) + '\n');
+  try {
+    assert.throws(() => loadCase('rehearsal-charter-school'), /cannot inherit its own event spine/);
+  } finally {
+    require('node:fs').writeFileSync(file, original);
+  }
+});
+
+test('a string evidence tier is rejected rather than silently dropped from the document', () => {
+  const stringy = copy(REAL);
+  stringy.fact_spine.find(fact => fact.id === 'F01').tier = '1';
+  assert.match(messages(validateCase(stringy)), /must be the number 1, not the string/);
+
+  // Prove the consequence the check exists to prevent: the renderer's numeric filter
+  // would drop the fact from the Stage 1 document with no error raised anywhere.
+  const dropped = renderCase(stringy).files.get('01-fact-spine.md');
+  if (dropped) assert.doesNotMatch(dropped, /\| F01 \|/);
+});

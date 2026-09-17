@@ -29,6 +29,11 @@ function loadCase(nameOrPath) {
   data._file = path.relative(repoRoot, file);
   if (data.extends_event) {
     const id = (data.case || {}).id || data._file;
+    /* Guard before recursing: a case naming itself used to overflow the stack rather
+       than produce an error anyone could read. */
+    if (data.extends_event === id || resolveCase(data.extends_event) === file) {
+      throw new Error(`${id}: a case cannot inherit its own event spine.`);
+    }
     const base = loadCase(data.extends_event);
     if (base.extends_event) throw new Error(`${id}: an inherited event spine cannot itself inherit one.`);
     if (data.event) throw new Error(`${id}: a case that extends ${base.case.id} inherits its event and must not redefine it.`);
@@ -104,6 +109,11 @@ function validateCase(data, options = {}) {
     const tier = V.tierOf(record.tier);
     const label = `${kind}:${id}`;
     if (!tier) { fail('evidence.tiers', label, `Evidence tier must be 1-5; found ${JSON.stringify(record.tier)}.`); continue; }
+    /* "1" passes the lookup above because object keys are strings, then fails the
+       renderer's numeric filter and silently drops the fact from the document. */
+    if (typeof record.tier !== 'number') {
+      fail('evidence.tiers', label, `Evidence tier must be the number ${record.tier}, not the string ${JSON.stringify(record.tier)}.`);
+    }
     if (tier.requires === 'source_ids' && !(record.source_ids || []).length) {
       fail('evidence.tiers', label, `Tier ${record.tier} (${tier.label}) needs at least one source_id.`);
     }
