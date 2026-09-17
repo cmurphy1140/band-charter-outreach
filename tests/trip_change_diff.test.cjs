@@ -369,8 +369,12 @@ test('the renderer emits nothing for a record that supersedes nothing', () => {
 
 test('the renderer emits both pages for the superseding record', () => {
   const files = rendered();
-  assert.deepEqual([...files.keys()].sort(), ['change-diff.md', 'vendor-call-list.md']);
-  for (const content of files.values()) assert.equal(typeof content, 'string');
+  /* Assert this renderer's own output, not the whole set: once the other renderers merged,
+     the superseding record is rendered by all of them and the full set is theirs to change. */
+  for (const name of ['change-diff.md', 'vendor-call-list.md']) {
+    assert.ok(files.has(name), `${name} must be produced for a superseding record`);
+    assert.equal(typeof files.get(name), 'string');
+  }
 });
 
 test('the director page separates material from wording and catches all six differences', () => {

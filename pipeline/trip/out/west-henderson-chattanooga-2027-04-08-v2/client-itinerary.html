@@ -1,0 +1,364 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>West Henderson High School Band · Chattanooga, TN · April 8–11, 2027</title>
+<style>
+:root {
+  --ink: #173f42;
+  --accent-primary: #1d5d55;
+  --accent-secondary: #8a652b;
+  --paper: #fbfcfa;
+  --surface-elevated: #f0f5f2;
+  --surface-white: #ffffff;
+  --line: #c8d5cf;
+  --muted: #51635b;
+  --display: Georgia, 'Times New Roman', serif;
+  --body: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+}
+* { box-sizing: border-box; }
+html { background: var(--paper); color: var(--ink); }
+body { margin: 0; font: 16px/1.6 var(--body); }
+.page { max-width: 46rem; margin-inline: auto; padding: 56px 32px 72px; }
+h1, h2, h3 { font-family: var(--display); font-weight: 400; letter-spacing: -.01em; }
+h1 { font-size: 30px; line-height: 1.25; margin: 0 0 10px; }
+h2 { font-size: 21px; margin: 0 0 18px; }
+h3 { font-size: 17px; margin: 0; }
+p { margin: 0 0 14px; max-width: 68ch; }
+.eyebrow { font: 600 12px/1.4 var(--body); letter-spacing: .14em; text-transform: uppercase; color: var(--accent-secondary); margin-bottom: 14px; }
+.masthead { border-bottom: 1px solid var(--line); padding-bottom: 28px; margin-bottom: 36px; }
+.dates { font-size: 17px; color: var(--muted); margin-bottom: 18px; }
+.prepared { margin-bottom: 20px; }
+.facts { display: grid; grid-template-columns: max-content 1fr; gap: 6px 20px; margin: 0; font-size: 14px; }
+.facts dt { color: var(--muted); }
+.facts dd { margin: 0; }
+section { margin-bottom: 40px; }
+.reading { background: var(--surface-elevated); border: 1px solid var(--line); border-radius: 10px; padding: 24px 28px 20px; }
+.reading h2 { font-size: 18px; margin-bottom: 12px; }
+.reading p { font-size: 15px; }
+.legend { margin: 0; display: grid; grid-template-columns: max-content 1fr; gap: 8px 18px; font-size: 14px; }
+.legend dt { font-weight: 600; }
+.legend dd { margin: 0; color: var(--muted); }
+.day > h2 { padding-bottom: 8px; border-bottom: 1px solid var(--line); }
+.line { display: grid; grid-template-columns: 5.5rem 1fr; gap: 4px 20px; padding: 18px 0; border-bottom: 1px solid var(--line); }
+.line:last-child { border-bottom: 0; }
+.time { font: 600 14px/1.9 var(--body); color: var(--muted); font-variant-numeric: tabular-nums; margin: 0; }
+.line-body > * + * { margin-top: 8px; }
+.marks { display: flex; flex-wrap: wrap; gap: 8px; margin: 0; padding: 0; list-style: none; }
+.mark { font: 600 11px/1.5 var(--body); letter-spacing: .09em; text-transform: uppercase; border: 1px solid var(--line); border-radius: 999px; padding: 2px 10px; white-space: nowrap; display: inline-block; }
+.mark--open { color: var(--accent-secondary); border-color: var(--accent-secondary); }
+.mark--settled { color: var(--surface-white); background: var(--accent-primary); border-color: var(--accent-primary); }
+.mark--excluded { color: var(--muted); border-style: dashed; }
+.mark--included { color: var(--accent-primary); border-color: var(--accent-primary); }
+.blurb { margin: 0; }
+.quiet { font-size: 14px; color: var(--muted); margin: 0; }
+.steps { margin: 0; padding-left: 18px; font-size: 14px; color: var(--muted); }
+.steps li + li { margin-top: 4px; }
+.terms ul { margin: 0; padding-left: 18px; }
+.terms li { margin-bottom: 10px; }
+.terms li .mark { margin-left: 2px; vertical-align: 1px; }
+.clause { border-left: 2px solid var(--line); padding-left: 16px; margin-bottom: 16px; }
+.clause p { margin: 0; font-size: 15px; }
+.closing { border-top: 1px solid var(--line); padding-top: 20px; font-size: 14px; color: var(--muted); }
+.closing p:last-child { margin-bottom: 0; }
+@page { margin: 18mm; }
+@media print {
+  html, body { background: var(--surface-white); }
+  .page { max-width: none; padding: 0; }
+  .reading { background: none; }
+  .day, .line, .clause, .terms li { break-inside: avoid; }
+  h2 { break-after: avoid; }
+  .mark--settled { color: var(--ink); background: none; }
+}
+@media (max-width: 34rem) {
+  .page { padding: 32px 20px 48px; }
+  .line { grid-template-columns: 1fr; gap: 6px; }
+  .time { line-height: 1.4; }
+  .facts, .legend { grid-template-columns: 1fr; gap: 2px 0; }
+  .legend dd { margin-bottom: 8px; }
+}
+</style>
+</head>
+<body>
+<article class="page">
+  <header class="masthead">
+    <p class="eyebrow">Troen Student Performance Events</p>
+    <h1>West Henderson High School Band · Chattanooga, TN</h1>
+    <p class="dates">April 8–11, 2027</p>
+    <p class="prepared">Prepared for the Director of Bands by Troen Student Performance Events.</p>
+    <dl class="facts">
+      <dt>Group</dt><dd>West Henderson High School Band</dd>
+      <dt>Travelling from</dt><dd>Hendersonville, NC</dd>
+      <dt>Destination</dt><dd>Chattanooga, TN</dd>
+      <dt>Priced on a minimum of</dt><dd>80 paying travellers</dd>
+      <dt>Itinerary version</dt><dd>v2-narrative</dd>
+      <dt>Prepared</dt><dd>September 11, 2026</dd>
+    </dl>
+  </header>
+  <section class="reading">
+    <h2>Reading this itinerary</h2>
+    <p>Every line below that we arrange with a supplier prints one word for where that arrangement actually stands. The word comes from the booking record, not from a redraft, so a line still being shopped says so instead of reading as settled. Lines marked not included sit in the plan but outside the package price.</p>
+    <dl class="legend">
+      <dt>venue being finalised</dt><dd>Candidates are being shopped. Nothing is requested of a named supplier yet.</dd>
+      <dt>requested</dt><dd>A request has gone out. No terms have come back.</dd>
+      <dt>quoted</dt><dd>The supplier has given a price and its terms. Nothing is held.</dd>
+      <dt>reserved</dt><dd>A deposit has been paid. A balance remains due.</dd>
+    </dl>
+  </section>
+  <section class="day">
+    <h2>Thursday, April 8, 2027</h2>
+    <div class="line">
+      <p class="time">07:00</p>
+      <div class="line-body">
+        <h3>Coaches arrive at the school</h3>
+        <ul class="marks"><li class="mark mark--included">included</li><li class="mark mark--open">quoted</li></ul>
+        <p class="blurb">Coaches arrive at West Henderson High School, 3600 Hayward Road, Hendersonville, NC.</p>
+      </div>
+    </div>
+    <div class="line">
+      <p class="time">08:00</p>
+      <div class="line-body">
+        <h3>Load the coaches and depart for Chattanooga</h3>
+        <ul class="marks"><li class="mark mark--included">included</li><li class="mark mark--open">quoted</li></ul>
+        <p class="blurb">Chattanooga is the city that raised the Empress of the Blues, gave Glenn Miller the name of a standard that sold a million copies before anyone had thought to press a gold record, and hides a waterfall a thousand feet inside a mountain. The drive south crosses the Blue Ridge and drops into the Tennessee River valley.</p>
+      </div>
+    </div>
+    <div class="line">
+      <p class="time">12:00</p>
+      <div class="line-body">
+        <h3>Lunch stop on the way</h3>
+        <ul class="marks"><li class="mark mark--excluded">not included</li></ul>
+        <p class="blurb">A quick stop for lunch on the go.</p>
+        <p class="quiet">At own cost, or can be added.</p>
+      </div>
+    </div>
+    <div class="line">
+      <p class="time">14:00</p>
+      <div class="line-body">
+        <h3>Rock City Gardens</h3>
+        <ul class="marks"><li class="mark mark--included">included</li><li class="mark mark--open">quoted</li></ul>
+        <p class="blurb">4,000 feet of trail winding through, under and between the boulders on top of Lookout Mountain, squeezing through Fat Man&#39;s Squeeze and crossing a swing bridge strung over the gap, and ending at Lover&#39;s Leap where, on a clear day, they will tell you that you are looking at seven states at once.</p>
+        <p class="quiet">Allow about 2 hours.</p>
+      </div>
+    </div>
+    <div class="line">
+      <p class="time">16:45</p>
+      <div class="line-body">
+        <h3>Lookout Mountain Incline Railway</h3>
+        <ul class="marks"><li class="mark mark--included">included</li><li class="mark mark--open">reserved</li></ul>
+        <p class="blurb">A mile straight up the face of Lookout Mountain, steepening until the grade hits 72.7 percent.</p>
+      </div>
+    </div>
+    <div class="line">
+      <p class="time">18:15</p>
+      <div class="line-body">
+        <h3>Hotel check in</h3>
+        <ul class="marks"><li class="mark mark--included">included</li><li class="mark mark--open">quoted</li></ul>
+      </div>
+    </div>
+    <div class="line">
+      <p class="time">19:30</p>
+      <div class="line-body">
+        <h3>Group dinner</h3>
+        <ul class="marks"><li class="mark mark--included">included</li><li class="mark mark--open">venue being finalised</li></ul>
+        <p class="blurb">Dinner at the 1909 terminal station, now a hotel and dining district built inside the old train shed.</p>
+      </div>
+    </div>
+  </section>
+  <section class="day">
+    <h2>Friday, April 9, 2027</h2>
+    <div class="line">
+      <p class="time">07:00</p>
+      <div class="line-body">
+        <h3>Breakfast at the hotel</h3>
+        <ul class="marks"><li class="mark mark--included">included</li><li class="mark mark--open">quoted</li></ul>
+      </div>
+    </div>
+    <div class="line">
+      <p class="time">08:30</p>
+      <div class="line-body">
+        <h3>Ruby Falls</h3>
+        <ul class="marks"><li class="mark mark--included">included</li><li class="mark mark--open">requested</li></ul>
+        <p class="blurb">A 145-foot waterfall a thousand feet inside Lookout Mountain, found by accident in 1928 by a man drilling an elevator shaft.</p>
+        <p class="quiet">The supplier says the first ride is 09:00. This printed time cannot be met as written.</p>
+        <ul class="steps"><li>Load the coaches and depart</li></ul>
+      </div>
+    </div>
+    <div class="line">
+      <p class="time">11:00</p>
+      <div class="line-body">
+        <h3>Point Park and the overlook</h3>
+        <ul class="marks"><li class="mark mark--excluded">not included</li></ul>
+        <p class="blurb">The 1863 Battle Above the Clouds site, looking 1,700 feet down at Moccasin Bend.</p>
+      </div>
+    </div>
+    <div class="line">
+      <p class="time">12:30</p>
+      <div class="line-body">
+        <h3>Lunch downtown</h3>
+        <ul class="marks"><li class="mark mark--excluded">not included</li></ul>
+        <p class="quiet">At own cost, or can be added.</p>
+      </div>
+    </div>
+    <div class="line">
+      <p class="time">14:00</p>
+      <div class="line-body">
+        <h3>Bessie Smith Cultural Center</h3>
+        <ul class="marks"><li class="mark mark--included">included</li><li class="mark mark--open">requested</li></ul>
+        <p class="blurb">The Empress of the Blues was born nine blocks from this door and sang on street corners for pocket change before she outsold every other blues singer in the country. The centre keeps the story of the Big Nine, the stretch of East Ninth Street that made her.</p>
+      </div>
+    </div>
+    <div class="line">
+      <p class="time">16:30</p>
+      <div class="line-body">
+        <h3>High Point Climbing</h3>
+        <ul class="marks"><li class="mark mark--included">included</li><li class="mark mark--open">requested</li></ul>
+        <p class="blurb">The wall is bolted to the outside of the building and hangs out over the sidewalk; auto-belays mean you are climbing within ten minutes.</p>
+      </div>
+    </div>
+    <div class="line">
+      <p class="time">18:30</p>
+      <div class="line-body">
+        <h3>Group dinner on the North Shore</h3>
+        <ul class="marks"><li class="mark mark--included">included</li><li class="mark mark--open">requested</li></ul>
+        <p class="blurb">A ten-minute walk across the Walnut Street Bridge, a third of a mile of open deck suspended over the Tennessee River.</p>
+        <ul class="steps"><li>Leave the coaches downtown; the group crosses on foot</li><li>Return to the hotel after dinner</li></ul>
+      </div>
+    </div>
+  </section>
+  <section class="day">
+    <h2>Saturday, April 10, 2027</h2>
+    <div class="line">
+      <p class="time">07:30</p>
+      <div class="line-body">
+        <h3>Breakfast at the hotel</h3>
+        <ul class="marks"><li class="mark mark--included">included</li><li class="mark mark--open">quoted</li></ul>
+        <p class="quiet">Dress for the concert, or bring concert attire along.</p>
+      </div>
+    </div>
+    <div class="line">
+      <p class="time">08:30</p>
+      <div class="line-body">
+        <h3>Depart for the Tennessee Aquarium</h3>
+        <ul class="marks"><li class="mark mark--included">included</li><li class="mark mark--open">quoted</li></ul>
+      </div>
+    </div>
+    <div class="line">
+      <p class="time">09:15</p>
+      <div class="line-body">
+        <h3>Tennessee Aquarium</h3>
+        <ul class="marks"><li class="mark mark--included">included</li><li class="mark mark--open">requested</li></ul>
+        <p class="blurb">Two buildings on the riverfront: River Journey follows the water from an Appalachian forest to the Gulf, Ocean Journey has sharks, penguins and a stingray touch tank.</p>
+      </div>
+    </div>
+    <div class="line">
+      <p class="time">12:30</p>
+      <div class="line-body">
+        <h3>Lunch at the aquarium plaza</h3>
+        <ul class="marks"><li class="mark mark--excluded">not included</li></ul>
+        <p class="quiet">At own cost, or can be added.</p>
+        <ul class="steps"><li>Depart for the performance venue</li><li>Change for the concert</li></ul>
+      </div>
+    </div>
+    <div class="line">
+      <p class="time">14:15</p>
+      <div class="line-body">
+        <h3>Arrive at the performance venue</h3>
+        <ul class="marks"><li class="mark mark--open">requested</li></ul>
+        <p class="quiet">Being on time is essential.</p>
+      </div>
+    </div>
+    <div class="line">
+      <p class="time">15:00</p>
+      <div class="line-body">
+        <h3>Cirque de la Symphonie</h3>
+        <ul class="marks"><li class="mark mark--included">included</li><li class="mark mark--open">requested</li></ul>
+        <p class="blurb">The symphony plays a full orchestral programme while aerialists, contortionists, jugglers and strongmen perform to it live, on the stage and in the air above it. Every catch is timed to the downbeat, and the students spend an afternoon watching a pit orchestra hold a tempo that a body in flight is relying on.</p>
+      </div>
+    </div>
+    <div class="line">
+      <p class="time">17:15</p>
+      <div class="line-body">
+        <h3>Group dinner following the show</h3>
+        <ul class="marks"><li class="mark mark--included">included</li><li class="mark mark--open">requested</li></ul>
+        <p class="blurb">A sit-down dinner straight after the show, close enough to the hall that concert dress is no obstacle.</p>
+      </div>
+    </div>
+    <div class="line">
+      <p class="time">19:30</p>
+      <div class="line-body">
+        <h3>Optional minor-league baseball</h3>
+        <ul class="marks"><li class="mark mark--excluded">not included</li></ul>
+        <p class="quiet">If the team is at home. Cost can be added.</p>
+      </div>
+    </div>
+  </section>
+  <section class="day">
+    <h2>Sunday, April 11, 2027</h2>
+    <div class="line">
+      <p class="time">06:30</p>
+      <div class="line-body">
+        <h3>Breakfast at the hotel</h3>
+        <ul class="marks"><li class="mark mark--included">included</li><li class="mark mark--open">quoted</li></ul>
+      </div>
+    </div>
+    <div class="line">
+      <p class="time">07:30</p>
+      <div class="line-body">
+        <h3>Southern Belle riverboat</h3>
+        <ul class="marks"><li class="mark mark--included">included</li><li class="mark mark--open">requested</li></ul>
+        <p class="blurb">Ninety minutes on the Tennessee, narrated from the wheelhouse, past Maclellan Island and around Moccasin Bend.</p>
+        <p class="quiet">Allow about 1 hour 30 minutes.</p>
+      </div>
+    </div>
+    <div class="line">
+      <p class="time">10:45</p>
+      <div class="line-body">
+        <h3>Ross&#39;s Landing and the Passage</h3>
+        <ul class="marks"><li class="mark mark--excluded">not included</li></ul>
+        <p class="blurb">Where the city began, and one of the 1838 departure points for the forced removal of the Cherokee people. The Passage marks it with seven ceramic discs for the seven Cherokee clans, set into a stepped waterway that runs from the street down to the river.</p>
+      </div>
+    </div>
+    <div class="line">
+      <p class="time">11:30</p>
+      <div class="line-body">
+        <h3>Lunch locally, then depart for home</h3>
+        <ul class="marks"><li class="mark mark--excluded">not included</li></ul>
+        <p class="quiet">Lunch at own cost, or can be added.</p>
+      </div>
+    </div>
+  </section>
+  <section class="terms">
+    <h2>What the price includes</h2>
+    <ul>
+      <li>All transportation on the itinerary <span class="mark mark--open">quoted</span></li>
+      <li>Three (3) nights&#39; accommodation <span class="mark mark--open">quoted</span></li>
+      <li>Breakfast Daily at the hotel <span class="mark mark--open">quoted</span></li>
+      <li>Entrance and Admission to Rock City Gardens <span class="mark mark--open">quoted</span></li>
+      <li>Admission to the Lookout Mountain Incline Railway <span class="mark mark--open">reserved</span></li>
+      <li>Dinner at the Chattanooga Choo Choo Complex <span class="mark mark--open">venue being finalised</span></li>
+      <li>Admission to Ruby Falls <span class="mark mark--open">requested</span></li>
+      <li>Admission to the Bessie Smith Cultural Center <span class="mark mark--open">requested</span></li>
+      <li>Instruction and Climbing at the High Street Climbing and Fitness Center <span class="mark mark--open">requested</span></li>
+      <li>Dinner on the North Shore <span class="mark mark--open">requested</span></li>
+      <li>Admission to the Tennessee Aquarium <span class="mark mark--open">requested</span></li>
+      <li>Admission to the IMAX Theater at the Aquarium <span class="mark mark--open">no time on this itinerary yet</span></li>
+      <li>Tickets to the Cirque De La Symphonie <span class="mark mark--open">requested</span></li>
+      <li>Group sit down Dinner Following the Cirque Show <span class="mark mark--open">requested</span></li>
+      <li>Tickets to the Southern Belle Riverboat Cruise <span class="mark mark--open">requested</span></li>
+    </ul>
+  </section>
+  <section class="terms">
+    <h2>What the price does not include</h2>
+    <div class="clause"><p>Sight Seeing, Activities, Transportation and any Meals not on the itinerary</p></div>
+    <div class="clause"><p>Cancellation protection is recommended and can be added at registration. The Cancel For Any Reason benefit covers 75% of the nonrefundable trip cost and cancellation must be received in writing 72 hours prior to departure. Pricing is based on the per person package cost of the trip.</p></div>
+    <div class="clause"><p>Pricing is subject to availability and may increase until time of booking. The price is subject to change based on your final number of paying participants. In the event of rising fuel costs it may be necessary to add fuel surcharges to the cost of any motor coach or airline charter.</p></div>
+  </section>
+  <footer class="closing">
+    <p>Times, and any line not yet confirmed, can still move. Every change is made in the trip record and this page is generated again from it, so the wording, the inclusions and the exclusions stay in step with what has actually been arranged.</p>
+    <p>Itinerary version v2-narrative, prepared September 11, 2026.</p>
+  </footer>
+</article>
+</body>
+</html>
