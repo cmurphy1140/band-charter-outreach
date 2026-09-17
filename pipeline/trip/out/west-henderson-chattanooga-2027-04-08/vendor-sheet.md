@@ -25,7 +25,7 @@ carried by the paying travellers — and they are never one number.
 
 ## Where the trip stands
 
-13 counterparties cover 20 of the 27 itinerary lines; the other 7 are free time or at own cost and have no counterparty. The state shown for a
+13 counterparties cover 21 of the 28 itinerary lines; the other 7 are free time or at own cost and have no counterparty. The state shown for a
 counterparty is the weakest line it carries: an office with one paid line and one unrequested line is not a
 settled supplier.
 
@@ -33,14 +33,14 @@ settled supplier.
 |---|---|---|---|
 | Sourcing | "venue being finalised" | 1 | 1 |
 | Requested | "requested" | 8 | 9 |
-| Quoted | "quoted" | 3 | 9 |
+| Quoted | "quoted" | 3 | 10 |
 | Held | "held" | 0 | 0 |
 | Deposit paid | "reserved" | 1 | 1 |
 | Confirmed | "confirmed" | 0 | 0 |
 
 | Counterparty | Category | Lines | State | Rate | Deadline | Attempts |
 |---|---|---|---|---|---|---|
-| Young Transportation | Transport | 4 (4 sold) | Quoted | — | — | **0** |
+| Young Transportation | Transport | 5 (5 sold) | Quoted | — | — | **0** |
 | Chattanooga hotel (property not named on the proposal) | Lodging | 4 (4 sold) | Quoted | $125.16 per person | — | **0** |
 | Rock City Gardens | Attractions | 1 (1 sold) | Quoted | $19.00 per person | headcount 5 business days | 3 |
 | Lookout Mountain Incline Railway | Attractions | 1 (1 sold) | Deposit paid | — ($100.00 deposit only) | balance 10 days | 2 |
@@ -84,7 +84,6 @@ asks for, and there is nothing to answer with.
 
 ### Findings a reprint would lose
 
-- **Inclusion and itinerary line disagree on the counterparty.** "All transportation on the itinerary" claims `d4-depart`, which the itinerary carries with no supplier at all.
 - **Inclusion `inc-climbing`.** The inclusions page prints a different business name from the itinerary page.
 - **Sold with nowhere to happen.** "Admission to the IMAX Theater at the Aquarium" is priced as an inclusion against Tennessee Aquarium and has no slot anywhere in the itinerary.
 - **Inclusion `inc-imax`.** Sold and priced, with no time slot anywhere in the four-day itinerary.
@@ -148,6 +147,7 @@ _Itinerary lines covered_
 | 2027-04-08 | 08:00 | Load the coaches and depart for Chattanooga | Quoted | All transportation on the itinerary |
 | 2027-04-10 | 08:30 | Depart for the Tennessee Aquarium | Quoted | All transportation on the itinerary |
 | 2027-04-11 | 07:30 | Check out and load the coaches | Quoted | All transportation on the itinerary |
+| 2027-04-11 | 11:30 | Depart for home | Quoted | All transportation on the itinerary |
 
 _Terms_
 

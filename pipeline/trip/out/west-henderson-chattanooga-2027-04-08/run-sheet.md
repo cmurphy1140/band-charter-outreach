@@ -39,12 +39,12 @@ Vendor-earned comps are a separate quantity and change what is owed, not how man
 |---|---|---|---|
 | Sourcing | Candidates are being shopped. Nothing is requested of a named supplier yet. | venue being finalised | 1 |
 | Requested | A request has gone out. No terms have come back. | requested | 9 |
-| Quoted | The supplier has given a price and its terms. Nothing is held. | quoted | 9 |
+| Quoted | The supplier has given a price and its terms. Nothing is held. | quoted | 10 |
 | Held | Space is held against a release date. Not paid. | held | 0 |
 | Deposit paid | A deposit has been paid. A balance remains due. | reserved | 1 |
 | Confirmed | Supplier has confirmed for this date and headcount, and nothing is outstanding. | confirmed | 0 |
 
-**0 of 20 supplied lines on this trip are confirmed.** The tour manager is the person who finds out at the door, so every line below prints its state and anything short of *Confirmed* is marked *not confirmed*.
+**0 of 21 supplied lines on this trip are confirmed.** The tour manager is the person who finds out at the door, so every line below prints its state and anything short of *Confirmed* is marked *not confirmed*.
 
 ## Before you travel
 
@@ -239,7 +239,7 @@ One counterparty, several lines: Lookout Mountain Incline Railway is handled wit
 
 ## Day 4 — Sunday, April 11, 2027
 
-`2027-04-11` · 5 lines · 2 operational steps · 0 of 3 supplied lines confirmed · 83 travelling (80 paying + 3 trip-granted comps).
+`2027-04-11` · 6 lines · 2 operational steps · 0 of 4 supplied lines confirmed · 83 travelling (80 paying + 3 trip-granted comps).
 
 ### Running order
 
@@ -249,14 +249,15 @@ One counterparty, several lines: Lookout Mountain Incline Railway is handled wit
 | 07:30 | Check out and load the coaches **[ops]** | Young Transportation | phone · group charter line | Quoted — not confirmed | Included (sold as an inclusion) |
 | 09:00 | Southern Belle riverboat · 90 min | Southern Belle Riverboat | phone · group sales | Requested — not confirmed | Included |
 | 10:45 | Ross's Landing and the Passage | No supplier on this line | — | — | At own cost |
-| 11:30 | Lunch locally, then depart for home **[ops]** | No supplier on this line | — | — | At own cost · part sold |
+| 11:30 | Lunch locally | No supplier on this line | — | — | At own cost |
+| 11:30 | Depart for home **[ops]** | Young Transportation | phone · group charter line | Quoted — not confirmed | Included (sold as an inclusion) |
 
 ### Operational steps
 
 | Time | Step | Where it sits |
 |---|---|---|
 | 07:30 | Check out and load the coaches | the line itself |
-| 11:30 | Lunch locally, then depart for home | the line itself |
+| 11:30 | Depart for home | the line itself |
 
 2 steps on this day. These are the lines a rewrite drops first; none of them is optional.
 
@@ -265,7 +266,7 @@ One counterparty, several lines: Lookout Mountain Incline Railway is handled wit
 | Supplier | Category | Reach via | Contact roles | Lines today | State |
 |---|---|---|---|---|---|
 | Chattanooga hotel (property not named on the proposal) | lodging | email · group reservations | Group reservations (email) | 06:30 Breakfast at the hotel | Quoted — not confirmed |
-| Young Transportation | transport | phone · group charter line | Charter sales (phone) | 07:30 Check out and load the coaches | Quoted — not confirmed |
+| Young Transportation | transport | phone · group charter line | Charter sales (phone) | 07:30 Check out and load the coaches; 11:30 Depart for home | Quoted — not confirmed |
 | Southern Belle Riverboat | attraction | phone · group sales | Group sales (phone) | 09:00 Southern Belle riverboat | Requested — not confirmed |
 
 One counterparty, several lines: Southern Belle Riverboat is handled with Lookout Mountain Incline Railway — one call can cover both.
@@ -277,14 +278,14 @@ One counterparty, several lines: Southern Belle Riverboat is handled with Lookou
 ### Watch on this day
 
 - **07:30 Check out and load the coaches.** This operational step is printed on the factual iteration and is absent from the narrative iteration.
-- **11:30 Lunch locally, then depart for home.** Lunch at own cost, or can be added.
-- **11:30 Lunch locally, then depart for home** records no supplier, yet it is sold under "All transportation on the itinerary" (Young Transportation). The line and the thing being sold are not joined up.
+- **11:30 Lunch locally.** At own cost, or can be added.
+- **11:30 Depart for home.** The printed page carries one line, '11:30 Lunch locally, then depart for home', and gives no separate departure time. Split here because the lunch is at own cost while the coach home is sold under the transportation inclusion.
 - **Southern Belle Riverboat.** A ninety-minute narrated cruise from Pier 2 at Ross's Landing. Departure times, group rate and deadline are not recorded. No contact attempt is recorded against this supplier.
 
 ## What this sheet does not carry
 
 - The traveller price table. What a family paid per person belongs to the client documents; a run sheet that quotes it invites a doorstep negotiation. Supplier rates are here because somebody may have to settle one.
 - Personal names, mailboxes and direct numbers. Every individual is held as a role and every supplier is reached through its published group-sales channel, per the privacy rule in `pipeline/trip/README.md`.
-- Anything that is not in the record. 20 supplied lines are still short of confirmed; where a term, a time or a headcount is missing here, it is missing from the trip.
+- Anything that is not in the record. 21 supplied lines are still short of confirmed; where a term, a time or a headcount is missing here, it is missing from the trip.
 
 Regenerate with `node pipeline/trip/cli.cjs render west-henderson-chattanooga-2027-04-08`. `node pipeline/trip/cli.cjs check --all` fails if this sheet has drifted from the record — which is the point: the record is the database, not this page.

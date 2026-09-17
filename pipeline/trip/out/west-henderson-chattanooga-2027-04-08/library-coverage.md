@@ -11,8 +11,8 @@ trip will pay for again.
 |---|---:|---:|
 | Library-backed | 11 | 12 used |
 | Referenced in the text only | 1 | |
-| Bespoke | 8 | 6 unused |
-| Total | 20 | 18 |
+| Bespoke | 9 | 6 unused |
+| Total | 21 | 18 |
 
 7 operational line(s) — coach movements and hotel check-in — are listed below but
 not counted: the library covers what a trip sells, not how it moves.
@@ -66,7 +66,8 @@ not counted: the library covers what a trip sells, not how it moves.
 | 07:30 | Check out and load the coaches | Young Transportation | bespoke (operational) | — | — |
 | 09:00 | Southern Belle riverboat | Southern Belle Riverboat | library-backed | Southern Belle Riverboat | supplier name; line title; inclusion text |
 | 10:45 | Ross's Landing and the Passage | — | library-backed | Ross's Landing and the Passage | line title |
-| 11:30 | Lunch locally, then depart for home | — | bespoke (operational) | — | — |
+| 11:30 | Lunch locally | — | bespoke | — | — |
+| 11:30 | Depart for home | Young Transportation | bespoke (operational) | — | — |
 
 ## Where the library and the record disagree
 
@@ -231,7 +232,8 @@ channel again. A thin component is still a starting point; fill it in on first u
 | Optional minor-league baseball (2027-04-10) | — | No supplier and no component; the line carries only this trip's wording. | Nothing yet — this is the next component to write. |
 | Breakfast at the hotel (2027-04-11) | Chattanooga hotel (property not named on the proposal) | No component for this supplier; its terms were researched for this trip alone. | Nothing yet — this is the next component to write. |
 | Check out and load the coaches (2027-04-11) | Young Transportation | No component for this supplier; its terms were researched for this trip alone. | Nothing yet — this is the next component to write. |
-| Lunch locally, then depart for home (2027-04-11) | — | No supplier and no component; the line carries only this trip's wording. | Nothing yet — this is the next component to write. |
+| Lunch locally (2027-04-11) | — | No supplier and no component; the line carries only this trip's wording. | Nothing yet — this is the next component to write. |
+| Depart for home (2027-04-11) | Young Transportation | No component for this supplier; its terms were researched for this trip alone. | Nothing yet — this is the next component to write. |
 
 ## Where the library's facts come from
 
