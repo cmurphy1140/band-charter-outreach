@@ -14,3 +14,7 @@ data/raw/*
 # Disposable static hosting output and local Vercel settings
 /dist/
 /.vercel/
+
+# Agent worktrees created by the harness. Each is a separate git checkout used by a
+# background worker; they are scratch space, never project content.
+.claude/worktrees/
