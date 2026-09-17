@@ -26,8 +26,9 @@ or accessibility testing, any live re-fetch, and GitHub Actions.
 
 Three states kept distinct. **CI is implemented, not active** — the push to
 `.github/workflows/` was rejected for want of the `workflows` permission, confirming
-`docs/SCRAPING_HURDLES.md` row 14 empirically; the file sits at `workflows/ci.yml` and
-activates by hand. **The privacy guard is implemented, not wired** — its Make target and hook
+`docs/SCRAPING_HURDLES.md` row 14 empirically. The workflow is kept as one file at
+`.github/workflows/ci.yml`; its content is in history at `32d8e22:workflows/ci.yml` and must
+be recreated from a normal git client. **The privacy guard is implemented, not wired** — its Make target and hook
 config are written down for deliberate application. **The demo is built, not published** —
 `scripts/package-demo.cjs` is untouched.
 

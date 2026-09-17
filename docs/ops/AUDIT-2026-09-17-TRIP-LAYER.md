@@ -177,9 +177,10 @@ Keeping these apart is the habit that makes a status report trustworthy.
 - **CI is implemented, not active.** The push to `.github/workflows/ci.yml` was rejected:
   *"refusing to allow a GitHub App to create or update workflow… without `workflows`
   permission."* That confirms by experiment what `docs/SCRAPING_HURDLES.md` row 14 had recorded
-  by citation. The workflow sits at `workflows/ci.yml` and activates by copying it from a normal
-  git client — the same gate as `refresh.yml`. **Until you do that, nothing gates a push.** It
-  is a two-minute job and it is the highest-leverage two minutes in this branch.
+  by citation. The parked copy has since been removed in favour of a single file, so the content
+  now lives in history at `32d8e22:workflows/ci.yml` and must be recreated at
+  `.github/workflows/ci.yml` from a normal git client. **Until you do that, nothing gates a
+  push.** It is a two-minute job and it is the highest-leverage two minutes in this branch.
 - **The privacy guard is implemented, not wired.** Its Make target and hook configuration are
   written down in `PII-GUARD.md` for you to apply deliberately. The `Stop` hook variant carries
   a real caveat: an unfixed finding would wedge the turn. Start with the Make target.

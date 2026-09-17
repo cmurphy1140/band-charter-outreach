@@ -77,19 +77,30 @@ ignored by `demo/carnegie-hall/.gitignore`.
 
 ## What CI adds
 
-`workflows/ci.yml`: checkout, Node 20, Python 3.11 with a pip cache,
+`.github/workflows/ci.yml`: checkout, Node 20, Python 3.11 with a pip cache,
 `make venv`, `make node-deps`, then `make check`. It runs on every pull request
 and on pushes to `main` — `pull_request` already covers a branch with an open
 PR, so triggering on every push as well would run the same job twice.
 
-**To activate it, copy `workflows/ci.yml` to `.github/workflows/ci.yml` from a
-normal git client.** The Claude GitHub App cannot push files under
+**The workflow is kept as one copy, at `.github/workflows/ci.yml`, and you have to
+create it from a normal git client.** The Claude GitHub App cannot push files under
 `.github/workflows/` (`docs/SCRAPING_HURDLES.md` row 14). That is not a
-guess here: on 2026-09-17 a push carrying `.github/workflows/ci.yml` was
+guess: on 2026-09-17 a push carrying `.github/workflows/ci.yml` was
 rejected with `refusing to allow a GitHub App to create or update workflow
-.github/workflows/ci.yml without 'workflows' permission`, so the file was parked
-alongside `refresh.yml` instead. The two are parked for opposite reasons —
-`refresh.yml` must stay parked, `ci.yml` should be copied in.
+.github/workflows/ci.yml without 'workflows' permission`. A second copy was parked
+beside `refresh.yml` for a while and has since been removed, because two copies of
+one workflow drift. `refresh.yml` is parked for the opposite reason — it must stay
+parked, since `make refresh` still has the destructive and stale-cache paths
+`docs/AUDIT-2026-09-10.md` records.
+
+The CI file's content is in git history at `32d8e22:workflows/ci.yml`, that removed
+parked copy. To recreate it:
+
+```bash
+mkdir -p .github/workflows
+git show 32d8e22:workflows/ci.yml > .github/workflows/ci.yml
+# the header still says NOT ACTIVE — correct it, then commit and push
+```
 
 It is read-only on purpose: `permissions: contents: read`, no scheduled trigger,
 no deploy step, and nothing that writes to `data/` or to a generated output. It
@@ -103,7 +114,7 @@ in anything it copies.
 
 **Status, 2026-09-17: implemented, not active.** The workflow is written and
 every command in it has been run by hand on this branch, but it sits at
-`workflows/ci.yml` and has never run on GitHub. Until it is copied to
+commit `32d8e22` and has never run on GitHub. Until it exists at
 `.github/workflows/ci.yml` on the default branch and a run appears under
 Actions, nothing gates a commit but discipline — do not read a green local
 `make check` as a merge gate.
