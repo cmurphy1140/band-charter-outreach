@@ -1,7 +1,7 @@
 # Critical-path deadlines — West Henderson High School Band · Chattanooga, TN
 
-`west-henderson-chattanooga-2027-04-08` · v1-factual · 2027-04-08 to 2027-04-11 · Chattanooga, TN
-Operator Troen Student Performance Events · record `pipeline/trip/trips/west-henderson-chattanooga-2027-04-08.trip.json` · prepared 2026-09-11
+`west-henderson-chattanooga-2027-04-08-v2` · v2-narrative · 2027-04-08 to 2027-04-11 · Chattanooga, TN
+Operator Troen Student Performance Events · record `pipeline/trip/trips/west-henderson-chattanooga-2027-04-08-v2.trip.json` · prepared 2026-09-11
 
 > Generated from the supplier terms in the trip record. It is a set of dates and a call list.
 > It does not contact anyone, hold inventory, or take a payment.
@@ -16,10 +16,10 @@ Operator Troen Student Performance Events · record `pipeline/trip/trips/west-he
 
 ## Where this trip stands
 
-- 13 suppliers across 21 supplied itinerary lines (28 lines in total).
+- 13 suppliers across 20 supplied itinerary lines (27 lines in total).
 - **2 computed deadlines**, carried by 2 suppliers. **11 suppliers produce no date at all.**
 - 2 date-bearing terms are recorded and still produce no date — see *Terms recorded that still produce no date*. Those are not missing calls; they are gaps of a different kind.
-- Line states: 10 Quoted · 9 Requested · 1 Deposit paid · 1 Sourcing.
+- Line states: 9 Quoted · 9 Requested · 1 Deposit paid · 1 Sourcing.
 - Nothing is confirmed. 1 line is held or paid against — enough to lose money on a date change, not enough to rely on.
 
 ## The calendar
@@ -62,7 +62,7 @@ These are the ones that surprise you. A blank row would read as "nothing to do";
 
 | Supplier | First serves | Lines | State | Why there is no date | What the record says |
 |---|---|---|---|---|---|
-| Young Transportation | 2027-04-08 (Thu) | 5 | Quoted | Not recorded: final_headcount_due_business_days · balance_due_days · release_date · deposit | The quote system names the company on the bus line but leaves the supplier field empty, so nothing links the price to a counterparty. Motor-coach driver-hours limits and any overnight-drive policy are unrecorded for this trip. |
+| Young Transportation | 2027-04-08 (Thu) | 4 | Quoted | Not recorded: final_headcount_due_business_days · balance_due_days · release_date · deposit | The quote system names the company on the bus line but leaves the supplier field empty, so nothing links the price to a counterparty. Motor-coach driver-hours limits and any overnight-drive policy are unrecorded for this trip. |
 | Chattanooga hotel (property not named on the proposal) | 2027-04-08 (Thu) | 4 | Quoted | Not recorded: final_headcount_due_business_days · balance_due_days · release_date · deposit | Three nights with daily breakfast are sold as inclusions. Rooming-list deadline, cut-off date and attrition terms are not recorded anywhere in the supplied pages. |
 | Southern Belle Riverboat | 2027-04-11 (Sun) | 1 | Requested | Not recorded: final_headcount_due_business_days · balance_due_days · release_date · deposit | A ninety-minute narrated cruise from Pier 2 at Ross's Landing. Departure times, group rate and deadline are not recorded. |
 | Ruby Falls | 2027-04-09 (Fri) | 1 | Requested | Not recorded: final_headcount_due_business_days · balance_due_days · deposit. Recorded and left empty: release_date | The supplier states the first ride is at 09:00. The printed itinerary puts the group there at 08:30, so the printed time cannot be met as written. |

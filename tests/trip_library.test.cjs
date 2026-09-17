@@ -208,7 +208,7 @@ test('two suppliers disagreeing with one component are two findings', () => {
 
 test('coverage separates what a line sells from what its description mentions', () => {
   const result = coverage();
-  assert.equal(result.rows.length, 27);
+  assert.equal(result.rows.length, 28);
 
   assert.equal(rowFor(result, 'd1-rock-city').coverage, 'library-backed');
   assert.equal(rowFor(result, 'd4-riverboat').coverage, 'library-backed');

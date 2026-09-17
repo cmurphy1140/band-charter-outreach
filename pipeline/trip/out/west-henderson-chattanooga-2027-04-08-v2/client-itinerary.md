@@ -142,9 +142,13 @@ Ninety minutes on the Tennessee, narrated from the wheelhouse, past Maclellan Is
 
 Where the city began, and one of the 1838 departure points for the forced removal of the Cherokee people. The Passage marks it with seven ceramic discs for the seven Cherokee clans, set into a stepped waterway that runs from the street down to the river.
 
-**11:30 · Lunch locally, then depart for home** — *not included*
+**11:30 · Lunch locally** — *not included*
 
-*Lunch at own cost, or can be added.*
+*At own cost, or can be added.*
+
+**11:30 · Depart for home** — *included · quoted*
+
+*The printed page carries one line, '11:30 Lunch locally, then depart for home', and gives no separate departure time. Split here because the lunch is at own cost while the coach home is sold under the transportation inclusion.*
 
 ## What the price includes
 

@@ -123,7 +123,7 @@ test('no supplied line reads as booked when it is not', () => {
     assert.ok(section.includes(`| ${expected} |`), `${slot.id} prints its state`);
     assert.ok(section.includes(suppliers.get(slot.supplier_id).name), `${slot.id} names its supplier`);
   }
-  assert.ok(markdown.includes('0 of 20 supplied lines on this trip are confirmed'),
+  assert.ok(markdown.includes('0 of 21 supplied lines on this trip are confirmed'),
     'the count of confirmed lines is stated plainly');
   /* Every state in the vocabulary is explained, including the ones this trip does not use. */
   for (const state of Object.values(S.LINE_STATES)) {
@@ -237,8 +237,11 @@ test('the running order tells the truth about what the group has paid for', () =
   /* Covered by "All transportation on the itinerary" and by "Three (3) nights' accommodation". */
   assert.ok(dayOne.includes('| Coaches arrive at the school **[ops]** | Young Transportation | phone · group charter line | Quoted — not confirmed | Included (sold as an inclusion) |'));
   assert.ok(dayOne.includes('| At own cost |'), 'a line at own cost still says so');
-  /* A line the record marks at own cost while an inclusion also covers it says both. */
-  assert.ok(daySection(markdown, 4).includes('At own cost · part sold'));
+  /* The last day's single printed line is two commercial realities, and the sheet says so
+     on separate rows: the lunch is the group's own cost, the coach home is sold. */
+  const daySunday = daySection(markdown, 4);
+  assert.ok(daySunday.includes('| 11:30 | Lunch locally | No supplier on this line | — | — | At own cost |'));
+  assert.ok(daySunday.includes('| 11:30 | Depart for home **[ops]** | Young Transportation | phone · group charter line | Quoted — not confirmed | Included (sold as an inclusion) |'));
 });
 
 test('a comp policy with no ratio is reported, not printed as undefined', () => {
@@ -344,10 +347,31 @@ test('output is deterministic and ordered by day then time', () => {
   const record = trip();
   assert.equal(render(record), render(trip()), 'two renders of the same record are byte-identical');
 
+  /* Day order is incidental — each day carries its date — so reversing it must change
+     nothing. Within a day, slots at the SAME printed time are a deliberate exception: the
+     record's sequence is the only ordering information there is, and it comes from the
+     printed page ("11:30 Lunch locally, then depart for home"). So shuffle only slots
+     whose times are distinct. */
   const shuffled = copy();
   shuffled.days.reverse();
-  for (const day of shuffled.days) day.slots.reverse();
+  for (const day of shuffled.days) {
+    const byTime = new Map();
+    for (const slot of day.slots) {
+      if (!byTime.has(slot.time)) byTime.set(slot.time, []);
+      byTime.get(slot.time).push(slot);
+    }
+    day.slots = [...byTime.keys()].reverse().flatMap(time => byTime.get(time));
+  }
   assert.equal(render(shuffled), render(record), 'record order does not change the sheet');
+
+  /* And the exception is real: swapping two same-time slots does reorder them, because
+     that order is data rather than noise. */
+  const swapped = copy();
+  const sunday = swapped.days.find(day => day.date === '2027-04-11');
+  const at = sunday.slots.findIndex(slot => slot.id === 'd4-lunch');
+  [sunday.slots[at], sunday.slots[at + 1]] = [sunday.slots[at + 1], sunday.slots[at]];
+  assert.notEqual(render(swapped), render(record),
+    'the sequence of two lines sharing a printed time is information, not noise');
 
   const markdown = render(record);
   let cursor = -1;

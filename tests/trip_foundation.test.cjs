@@ -16,7 +16,7 @@ test('the real trip loads and validates', () => {
   const trip = loadTrip(TRIP);
   assert.deepEqual(errorsIn(validateTrip(trip)), [], messages(validateTrip(trip)));
   assert.equal(trip.days.length, 4);
-  assert.equal(lines(trip).length, 27);
+  assert.equal(lines(trip).length, 28);
   assert.equal(trip.suppliers.length, 13);
   assert.equal(trip.inclusions.length, 15);
   assert.doesNotThrow(() => assertValidTrip(trip));

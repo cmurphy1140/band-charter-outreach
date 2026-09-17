@@ -49,7 +49,7 @@ test('every supplied line prints its own state word in both documents', () => {
     assert.equal(blocks.length, 1, `${slot.id} has one HTML line`);
     assert.match(blocks[0], new RegExp(`class="mark mark--(open|settled)">${word}</li>`), `${slot.id} prints "${word}" in HTML`);
   }
-  assert.equal(supplied, 20, 'every line a supplier is behind is covered');
+  assert.equal(supplied, 21, 'every line a supplier is behind is covered');
 });
 
 test('the dinner being shopped never reads as a settled booking', () => {
@@ -237,7 +237,7 @@ test('a day with nothing scheduled keeps its place in the trip', () => {
   const page = html(record);
   assert.ok(md.includes(`## ${record.days[2].label}`), 'the free day still has a heading');
   assert.equal((page.match(/<section class="day">/g) || []).length, record.days.length);
-  assert.deepEqual(renderer.dayGroups(record).map(group => group.slots.length), [7, 7, 0, 5]);
+  assert.deepEqual(renderer.dayGroups(record).map(group => group.slots.length), [7, 7, 0, 6]);
 });
 
 test('an inclusion is never printed without a word beside it', () => {
@@ -266,9 +266,25 @@ test('a line the inclusions list sells reads as included even when the line is s
     { label: 'quoted', kind: 'open' }
   ]);
   assert.ok(headingFor(markdown(record), checkin)[0].includes('included · quoted'));
-  // An explicit exclusion on the line still wins over the coverage.
-  const lunch = lines(record).find(({ slot }) => slot.id === 'd4-depart').slot;
-  assert.ok(covered.has('d4-depart'));
+  /* An explicit exclusion on the line still wins over the coverage. The shipped record no
+     longer contains a slot that is both sold and excluded — that contradiction was the
+     defect this unit found on d4-depart, since split into a lunch at own cost and a coach
+     line sold under the transportation inclusion — so construct the case rather than rely
+     on it surviving in the data. */
+  const contrived = structuredClone(record);
+  const sunday = contrived.days.find(day => day.date === '2027-04-11');
+  const home = sunday.slots.find(slot => slot.id === 'd4-depart-home');
+  home.included = false;
+  const contrivedCover = renderer.coveredSlots(contrived);
+  assert.ok(contrivedCover.has('d4-depart-home'), 'the transportation inclusion still covers it');
+  assert.deepEqual(renderer.marks(home, contrivedCover), [
+    { label: 'not included', kind: 'excluded' },
+    { label: 'quoted', kind: 'open' }
+  ]);
+
+  /* And in the shipped record the two now read separately and correctly. */
+  const lunch = lines(record).find(({ slot }) => slot.id === 'd4-lunch').slot;
+  assert.ok(!covered.has('d4-lunch'), 'the lunch is sold by nothing');
   assert.deepEqual(renderer.marks(lunch, covered), [{ label: 'not included', kind: 'excluded' }]);
 });
 

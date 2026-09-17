@@ -290,10 +290,13 @@ test('the diff flags the internal inconsistencies it reveals', () => {
   assert.match(stale.detail, /High Point Climbing/);
   assert.match(stale.detail, /High Street Climbing and Fitness Center/);
 
-  /* With the checkout gone, the coach operator's last printed line is now Saturday morning. */
-  assert.ok(ids.includes('last-line:young-transportation'));
-  assert.match(found.find(finding => finding.id === 'last-line:young-transportation').detail,
-    /Sunday, April 11, 2027 07:30.*Saturday, April 10, 2027 08:30/);
+  /* The coach operator's last line does NOT move. This finding fired while the record
+     modelled the Sunday departure as an unsupplied line; once the departure was recorded
+     as the coach line it is, both printings still carry a Sunday coach movement and the
+     concern dissolves. The dropped checkout step remains a material change in its own
+     right — see the slot_dropped assertions above. */
+  assert.ok(!ids.includes('last-line:young-transportation'),
+    'a Sunday coach line survives in both printings, so nothing moved back to Saturday');
 
   /* The price moved and every supplier term is identical. */
   assert.ok(ids.includes('price-without-cause'));
@@ -646,12 +649,18 @@ test('a dangling supersedes fails with a message that names the record', () => {
 });
 
 test('the last line naming a counterparty is found by date and time, not by file order', () => {
-  /* Same record, days written in reverse. The answer must not change. */
-  const shuffled = mutate(v2(), trip => { trip.days.reverse(); });
-  const straight = consequences(v1(), v2(), deltas(v1(), v2()));
+  /* The shipped records no longer trigger this finding, so build one that does: drop the
+     Sunday departure from the second printing and the coach operator's last line really
+     does move back to Saturday. Then assert the answer does not depend on file order. */
+  const dropped = mutate(v2(), trip => {
+    const sunday = trip.days.find(day => day.date === '2027-04-11');
+    sunday.slots = sunday.slots.filter(slot => slot.id !== 'd4-depart-home');
+  });
+  const shuffled = mutate(dropped, trip => { trip.days.reverse(); });
+  const straight = consequences(v1(), dropped, deltas(v1(), dropped));
   const reversed = consequences(v1(), shuffled, deltas(v1(), shuffled));
   const lastLine = list => list.find(finding => finding.id === 'last-line:young-transportation');
-  assert.ok(lastLine(straight));
+  assert.ok(lastLine(straight), 'dropping every Sunday coach line must raise the finding');
   assert.equal(lastLine(reversed).detail, lastLine(straight).detail);
 });
 

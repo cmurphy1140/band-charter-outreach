@@ -652,12 +652,12 @@ test('the standing summary says something when lines are confirmed', () => {
     for (const slot of day.slots) if (slot.supplier_id) slot.state = 'confirmed';
   }
   const markdown = render(trip);
-  assert.match(markdown, /20 of 20 supplied lines confirmed, 0 held or paid against, 0 neither\./);
+  assert.match(markdown, /21 of 21 supplied lines confirmed, 0 held or paid against, 0 neither\./);
   assert.doesNotMatch(markdown, /Nothing is confirmed/);
 
   const mixed = copy();
   mixed.days[0].slots.find(slot => slot.id === 'd1-rock-city').state = 'confirmed';
-  assert.match(render(mixed), /1 of 20 supplied lines confirmed, 1 held or paid against, 18 neither\./);
+  assert.match(render(mixed), /1 of 21 supplied lines confirmed, 1 held or paid against, 19 neither\./);
 });
 
 test('ordering is code-unit order so the bytes do not depend on the host locale', () => {

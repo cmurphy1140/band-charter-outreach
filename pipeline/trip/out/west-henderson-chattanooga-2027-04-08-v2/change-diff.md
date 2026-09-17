@@ -4,7 +4,7 @@
 
 Generated from the two trip records by `pipeline/trip/renderers/change-diff.cjs`: `west-henderson-chattanooga-2027-04-08` compared against `west-henderson-chattanooga-2027-04-08-v2`. Nothing on this page was retyped from a proposal.
 
-**20 changes affect the trip. 11 of them are cells in the price table. 6 changes are to the wording only.**
+**17 changes affect the trip. 11 of them are cells in the price table. 6 changes are to the wording only.**
 
 A change is **material** when it moves something the group turns up to, something a supplier has to agree to, something that is sold, or something that is paid: a venue, a time on a supplied line, an operational step, an inclusion, a clause, a price. It is **wording only** when the description changed and nothing behind it did.
 
@@ -18,23 +18,19 @@ A change is **material** when it moves something the group turns up to, somethin
 | --- | --- | --- | --- | --- |
 | Performance venue — Cirque de la Symphonie with the Chattanooga Symphony | Saturday, April 10, 2027 · 14:15, 15:00 | Soldiers and Sailors Memorial Auditorium | Tivoli Theatre | requested |
 | Step no longer printed — Check out and load the coaches | Sunday, April 11, 2027 · 07:30 | Check out and load the coaches | not printed | this line is not printed on this version |
-| Step no longer printed — Lunch locally | Sunday, April 11, 2027 · 11:30 | Lunch locally | not printed | this line is not printed on this version |
-| Step no longer printed — Depart for home | Sunday, April 11, 2027 · 11:30 | Depart for home | not printed | this line is not printed on this version |
 | What a line is called — High Point Climbing | Friday, April 9, 2027 · 16:30 | High Point Climbing and Fitness | High Point Climbing | requested |
 | Time on the itinerary — Southern Belle riverboat | Sunday, April 11, 2027 · 07:30 | 09:00 | 07:30 | requested |
-| Step newly printed — Lunch locally, then depart for home | Sunday, April 11, 2027 · 11:30 | not printed | Lunch locally, then depart for home | no supplier on this line |
 
 - **Performance venue.** A different building is a different address, a different load-in and a different set of tickets.
 - **Step no longer printed.** An operational step that stops being printed stops being done, because the people who do it read the printed page.
 - **What a line is called.** The title names the business the group will look up, drive to and turn up at.
 - **Time on the itinerary.** A time on a line a supplier holds is a time that supplier has to be able to take.
-- **Step newly printed.** A new line needs a counterparty, a price and room in the day.
 
 ### What is sold, and the terms
 
 | What changed | Was | Now | Why it counts |
 | --- | --- | --- | --- |
-| What an inclusion covers — All transportation on the itinerary | 07:00 Coaches arrive at the school; 08:00 Load the coaches and depart for Chattanooga; 08:30 Depart for the Tennessee Aquarium; 07:30 Check out and load the coaches; 11:30 Depart for home | 07:00 Coaches arrive at the school; 08:00 Load the coaches and depart for Chattanooga; 08:30 Depart for the Tennessee Aquarium; 11:30 Lunch locally, then depart for home | An inclusion that stops pointing at an itinerary line is sold with nowhere to happen. |
+| What an inclusion covers — All transportation on the itinerary | 07:00 Coaches arrive at the school; 08:00 Load the coaches and depart for Chattanooga; 08:30 Depart for the Tennessee Aquarium; 07:30 Check out and load the coaches; 11:30 Depart for home | 07:00 Coaches arrive at the school; 08:00 Load the coaches and depart for Chattanooga; 08:30 Depart for the Tennessee Aquarium; 11:30 Depart for home | An inclusion that stops pointing at an itinerary line is sold with nowhere to happen. |
 | Contract wording — Scope | Sight Seeing, Transportation and any Meals not on the itinerary | Sight Seeing, Activities, Transportation and any Meals not on the itinerary | Contractual wording. It decides who pays when something is not on the itinerary. |
 
 ### Price per person
@@ -79,10 +75,9 @@ These held on the previous version and do not hold on this one. They come out of
 
 - **Southern Belle riverboat no longer fits the line after it.** Sunday, April 11, 2027: Southern Belle riverboat starts 07:30 and runs 90 minutes, ending 09:00. That leaves 105 minutes unscheduled before Ross's Landing and the Passage at 10:45. On the previous version it fitted.
 - **A line was renamed; the text that sells it was not.** The itinerary line now reads "High Point Climbing", where it read "High Point Climbing and Fitness". The inclusion that sells it still reads "Instruction and Climbing at the High Street Climbing and Fitness Center", and the supplier is on record as "High Point Climbing and Fitness". Three names for one counterparty.
-- **The last printed line naming Young Transportation moved earlier.** It was Sunday, April 11, 2027 11:30, "Depart for home". It is now Saturday, April 10, 2027 08:30, "Depart for the Tennessee Aquarium". Anything this counterparty is still expected to do after that point is no longer printed anywhere.
 - **The price table moved and no supplier term moved with it.** 11 cells changed, in 2 different directions, while every recorded supplier term is identical between the two versions. Neither record says what was re-quoted or why.
-- **The exclusions clause gained "Activities".** It now reads "Sight Seeing, Activities, Transportation and any Meals not on the itinerary". On this version 6 itinerary lines sit on the page without sitting on the inclusions list, so the added word decides who pays for them: Thursday, April 8, 2027 12:00 Lunch stop on the way; Friday, April 9, 2027 11:00 Point Park and the overlook; Friday, April 9, 2027 12:30 Lunch downtown; Saturday, April 10, 2027 12:30 Lunch at the aquarium plaza; Saturday, April 10, 2027 19:30 Optional minor-league baseball; Sunday, April 11, 2027 10:45 Ross's Landing and the Passage.
-- **All transportation on the itinerary covers fewer lines than it did.** 07:30 Check out and load the coaches; 11:30 Depart for home are no longer on the itinerary at all. The sold text is unchanged, so the same thing is still being sold.
+- **The exclusions clause gained "Activities".** It now reads "Sight Seeing, Activities, Transportation and any Meals not on the itinerary". On this version 7 itinerary lines sit on the page without sitting on the inclusions list, so the added word decides who pays for them: Thursday, April 8, 2027 12:00 Lunch stop on the way; Friday, April 9, 2027 11:00 Point Park and the overlook; Friday, April 9, 2027 12:30 Lunch downtown; Saturday, April 10, 2027 12:30 Lunch at the aquarium plaza; Saturday, April 10, 2027 19:30 Optional minor-league baseball; Sunday, April 11, 2027 10:45 Ross's Landing and the Passage; Sunday, April 11, 2027 11:30 Lunch locally.
+- **All transportation on the itinerary covers fewer lines than it did.** 07:30 Check out and load the coaches is no longer on the itinerary at all. The sold text is unchanged, so the same thing is still being sold.
 
 ## The status words on this page
 

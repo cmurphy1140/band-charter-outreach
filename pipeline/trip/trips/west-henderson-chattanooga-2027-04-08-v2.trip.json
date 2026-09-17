@@ -17,340 +17,1319 @@
       "note": "The proposal cover is addressed to the director by name. Individual names are held outside this record; see the privacy rule in pipeline/trip/README.md."
     },
     "staffing": [
-      { "role": "Tour manager", "source_ids": ["HW-COVER"], "note": "Recorded in pen on one printing of the cover only. It did not carry to the other printing." }
+      {
+        "role": "Tour manager",
+        "source_ids": [
+          "HW-COVER"
+        ],
+        "note": "Recorded in pen on one printing of the cover only. It did not carry to the other printing."
+      }
     ],
     "headcount": {
       "paying_minimum": 80,
-      "tiers": [80, 90, 100],
+      "tiers": [
+        80,
+        90,
+        100
+      ],
       "trip_granted_comps": 3,
       "comp_note": "Trip-granted comps are free places the operator gives the group; they are carried by the paying travellers. They are a different quantity from vendor-earned comps, which suppliers grant on their own ratio and which reduce cost. Both were written as bare numbers in pen.",
-      "source_ids": ["HW-COVER", "QS-48398"]
+      "source_ids": [
+        "HW-COVER",
+        "QS-48398"
+      ]
     },
     "verification": [
-      { "what": "Dates checked with the venue coordination contact", "value": "April 8-11", "source_ids": ["HW-COVER"], "note": "Handwritten tick on one printing only." }
+      {
+        "what": "Dates checked with the venue coordination contact",
+        "value": "April 8-11",
+        "source_ids": [
+          "HW-COVER"
+        ],
+        "note": "Handwritten tick on one printing only."
+      }
     ],
-    "source_ids": ["PH-COVER", "HW-COVER"],
+    "source_ids": [
+      "PH-COVER",
+      "HW-COVER"
+    ],
     "note": "Transcribed from photographs of two printed iterations on 2026-09-17. This record is the narrative iteration: richer descriptive copy, the Tivoli Theatre as the performance venue, no printed checkout on the last morning, and the price table that reads 835/887/992/1305 at 80 paying travellers. It supersedes the factual iteration, which is kept as its own record so the two printings can be compared line by line instead of by memory."
   },
-
   "sources": [
-    { "id": "PH-COVER", "kind": "proposal_page", "locator": "photograph: proposal cover page", "captured_on": "2026-09-17", "note": "Prepared For / school / dates / ITINERARY AND PRICING." },
-    { "id": "PH-THU", "kind": "proposal_page", "locator": "photograph: itinerary page, Thursday April 8 2027", "captured_on": "2026-09-17" },
-    { "id": "PH-FRI", "kind": "proposal_page", "locator": "photograph: itinerary page, Friday April 9 2027", "captured_on": "2026-09-17" },
-    { "id": "PH-SAT", "kind": "proposal_page", "locator": "photograph: itinerary page, Saturday April 10 2027", "captured_on": "2026-09-17" },
-    { "id": "PH-SUN", "kind": "proposal_page", "locator": "photograph: itinerary page, Sunday April 11 2027", "captured_on": "2026-09-17" },
-    { "id": "PH-INC", "kind": "proposal_page", "locator": "photograph: INCLUSIONS page", "captured_on": "2026-09-17" },
-    { "id": "PH-EXC", "kind": "proposal_page", "locator": "photograph: EXCLUSIONS page with the Per Person Cost table", "captured_on": "2026-09-17" },
-    { "id": "HW-COVER", "kind": "handwritten", "locator": "handwritten margin note on the cover page", "captured_on": "2026-09-17", "note": "Tour manager assignment, 80 + 3 comps, a dates verification tick." },
-    { "id": "HW-THU", "kind": "handwritten", "locator": "handwritten margin notes on the Thursday page", "captured_on": "2026-09-17", "note": "Attraction group-sales contacts and numbers, attempt log, student rate, comp ratio, driver comp, dinner candidates being shopped." },
-    { "id": "HW-FRI", "kind": "handwritten", "locator": "handwritten margin notes on the Friday page", "captured_on": "2026-09-17", "note": "First ride time, a per-person rate plus guide fee, request-submitted marks, a group-sales number." },
-    { "id": "HW-SAT", "kind": "handwritten", "locator": "handwritten margin notes on the Saturday page", "captured_on": "2026-09-17", "note": "Aquarium domain, request sent and called dates, lunch at own expense, a performance contact first name." },
-    { "id": "HW-INC", "kind": "handwritten", "locator": "handwritten margin note on the INCLUSIONS page", "captured_on": "2026-09-17", "note": "Deposit amount and date, balance due timing, a group-sales contact." },
-    { "id": "EM-ROCKCITY", "kind": "supplier_email", "locator": "email: attraction group sales reply, 2026-09-10", "captured_on": "2026-09-17", "note": "Group minimum, final headcount and payment deadline, cashless and smokeless notices, explicit 'does not confirm a reservation'." },
-    { "id": "EM-INCLINE", "kind": "web_form", "locator": "email: Incline Railway group event form notification, 2026-09-10, forwarded within the operator's group-sales office", "captured_on": "2026-09-17", "note": "Requested date, requested time, estimated number of people, and the comp question asked of the supplier." },
-    { "id": "QS-48398", "kind": "quote_system", "locator": "quote system: traveler expenses screens, printed 2026-09-11 10:31", "captured_on": "2026-09-17", "note": "Per-person cost lines. Every line reads 'No supplier'. Itinerary: None added. Template used: None added." }
+    {
+      "id": "PH-COVER",
+      "kind": "proposal_page",
+      "locator": "photograph: proposal cover page",
+      "captured_on": "2026-09-17",
+      "note": "Prepared For / school / dates / ITINERARY AND PRICING."
+    },
+    {
+      "id": "PH-THU",
+      "kind": "proposal_page",
+      "locator": "photograph: itinerary page, Thursday April 8 2027",
+      "captured_on": "2026-09-17"
+    },
+    {
+      "id": "PH-FRI",
+      "kind": "proposal_page",
+      "locator": "photograph: itinerary page, Friday April 9 2027",
+      "captured_on": "2026-09-17"
+    },
+    {
+      "id": "PH-SAT",
+      "kind": "proposal_page",
+      "locator": "photograph: itinerary page, Saturday April 10 2027",
+      "captured_on": "2026-09-17"
+    },
+    {
+      "id": "PH-SUN",
+      "kind": "proposal_page",
+      "locator": "photograph: itinerary page, Sunday April 11 2027",
+      "captured_on": "2026-09-17"
+    },
+    {
+      "id": "PH-INC",
+      "kind": "proposal_page",
+      "locator": "photograph: INCLUSIONS page",
+      "captured_on": "2026-09-17"
+    },
+    {
+      "id": "PH-EXC",
+      "kind": "proposal_page",
+      "locator": "photograph: EXCLUSIONS page with the Per Person Cost table",
+      "captured_on": "2026-09-17"
+    },
+    {
+      "id": "HW-COVER",
+      "kind": "handwritten",
+      "locator": "handwritten margin note on the cover page",
+      "captured_on": "2026-09-17",
+      "note": "Tour manager assignment, 80 + 3 comps, a dates verification tick."
+    },
+    {
+      "id": "HW-THU",
+      "kind": "handwritten",
+      "locator": "handwritten margin notes on the Thursday page",
+      "captured_on": "2026-09-17",
+      "note": "Attraction group-sales contacts and numbers, attempt log, student rate, comp ratio, driver comp, dinner candidates being shopped."
+    },
+    {
+      "id": "HW-FRI",
+      "kind": "handwritten",
+      "locator": "handwritten margin notes on the Friday page",
+      "captured_on": "2026-09-17",
+      "note": "First ride time, a per-person rate plus guide fee, request-submitted marks, a group-sales number."
+    },
+    {
+      "id": "HW-SAT",
+      "kind": "handwritten",
+      "locator": "handwritten margin notes on the Saturday page",
+      "captured_on": "2026-09-17",
+      "note": "Aquarium domain, request sent and called dates, lunch at own expense, a performance contact first name."
+    },
+    {
+      "id": "HW-INC",
+      "kind": "handwritten",
+      "locator": "handwritten margin note on the INCLUSIONS page",
+      "captured_on": "2026-09-17",
+      "note": "Deposit amount and date, balance due timing, a group-sales contact."
+    },
+    {
+      "id": "EM-ROCKCITY",
+      "kind": "supplier_email",
+      "locator": "email: attraction group sales reply, 2026-09-10",
+      "captured_on": "2026-09-17",
+      "note": "Group minimum, final headcount and payment deadline, cashless and smokeless notices, explicit 'does not confirm a reservation'."
+    },
+    {
+      "id": "EM-INCLINE",
+      "kind": "web_form",
+      "locator": "email: Incline Railway group event form notification, 2026-09-10, forwarded within the operator's group-sales office",
+      "captured_on": "2026-09-17",
+      "note": "Requested date, requested time, estimated number of people, and the comp question asked of the supplier."
+    },
+    {
+      "id": "QS-48398",
+      "kind": "quote_system",
+      "locator": "quote system: traveler expenses screens, printed 2026-09-11 10:31",
+      "captured_on": "2026-09-17",
+      "note": "Per-person cost lines. Every line reads 'No supplier'. Itinerary: None added. Template used: None added."
+    }
   ],
-
   "suppliers": [
     {
       "id": "young-transportation",
       "name": "Young Transportation",
       "category": "transport",
-      "relationship": { "owner": "Troen coordinator", "status": "named in the quote system" },
-      "channel": { "kind": "phone", "locator": "group charter line" },
-      "contacts": [{ "role": "Charter sales", "channel": "phone" }],
+      "relationship": {
+        "owner": "Troen coordinator",
+        "status": "named in the quote system"
+      },
+      "channel": {
+        "kind": "phone",
+        "locator": "group charter line"
+      },
+      "contacts": [
+        {
+          "role": "Charter sales",
+          "channel": "phone"
+        }
+      ],
       "terms": {
         "notes": "The quote system names the company on the bus line but leaves the supplier field empty, so nothing links the price to a counterparty. Motor-coach driver-hours limits and any overnight-drive policy are unrecorded for this trip."
       },
       "attempts": [],
-      "source_ids": ["QS-48398"],
+      "source_ids": [
+        "QS-48398"
+      ],
       "note": "Per-person coach cost was not legible on the photographed quote screen."
     },
     {
       "id": "hotel-chattanooga",
       "name": "Chattanooga hotel (property not named on the proposal)",
       "category": "lodging",
-      "relationship": { "owner": "Troen coordinator", "status": "priced, property unnamed in these pages" },
-      "channel": { "kind": "email", "locator": "group reservations" },
-      "contacts": [{ "role": "Group reservations", "channel": "email" }],
+      "relationship": {
+        "owner": "Troen coordinator",
+        "status": "priced, property unnamed in these pages"
+      },
+      "channel": {
+        "kind": "email",
+        "locator": "group reservations"
+      },
+      "contacts": [
+        {
+          "role": "Group reservations",
+          "channel": "email"
+        }
+      ],
       "terms": {
-        "unit_price": { "amount": 125.16, "basis": "per_person", "unit_label": "per person, three nights" },
+        "unit_price": {
+          "amount": 125.16,
+          "basis": "per_person",
+          "unit_label": "per person, three nights"
+        },
         "notes": "Three nights with daily breakfast are sold as inclusions. Rooming-list deadline, cut-off date and attrition terms are not recorded anywhere in the supplied pages."
       },
       "attempts": [],
-      "source_ids": ["QS-48398", "PH-INC"]
+      "source_ids": [
+        "QS-48398",
+        "PH-INC"
+      ]
     },
     {
       "id": "rock-city",
       "name": "Rock City Gardens",
       "category": "attraction",
-      "relationship": { "owner": "Troen coordinator", "status": "quoted" },
-      "channel": { "kind": "web_form", "locator": "group sales form" },
+      "relationship": {
+        "owner": "Troen coordinator",
+        "status": "quoted"
+      },
+      "channel": {
+        "kind": "web_form",
+        "locator": "group sales form"
+      },
       "contacts": [
-        { "role": "Group sales", "channel": "phone" },
-        { "role": "Group sales", "channel": "email" }
+        {
+          "role": "Group sales",
+          "channel": "phone"
+        },
+        {
+          "role": "Group sales",
+          "channel": "email"
+        }
       ],
       "terms": {
-        "unit_price": { "amount": 19, "basis": "per_person", "unit_label": "per student" },
-        "minimum": { "count": 15, "unit": "admissions", "note": "Group rates require a minimum of 15 admissions and are subject to availability." },
-        "comp_policy": { "kind": "vendor_earned", "ratio": 10, "extras": ["bus driver comp"], "note": "One comp per ten paid, plus a driver comp. At 80 paid that is eight earned places plus the driver." },
+        "unit_price": {
+          "amount": 19,
+          "basis": "per_person",
+          "unit_label": "per student"
+        },
+        "minimum": {
+          "count": 15,
+          "unit": "admissions",
+          "note": "Group rates require a minimum of 15 admissions and are subject to availability."
+        },
+        "comp_policy": {
+          "kind": "vendor_earned",
+          "ratio": 10,
+          "extras": [
+            "bus driver comp"
+          ],
+          "note": "One comp per ten paid, plus a driver comp. At 80 paid that is eight earned places plus the driver."
+        },
         "final_headcount_due_business_days": 5,
-        "payment_methods": ["single group payment", "card", "check with advance notice"],
+        "payment_methods": [
+          "single group payment",
+          "card",
+          "check with advance notice"
+        ],
         "notes": "Cashless since September 2025 and smokeless from July 2026. The supplier states the information is for planning only and does not confirm a reservation."
       },
       "attempts": [
-        { "date": "2026-09-10", "channel": "web_form", "direction": "outbound", "outcome": "message submitted" },
-        { "date": "2026-09-10", "channel": "voicemail", "direction": "outbound", "outcome": "voicemail left on the group sales extension" },
-        { "date": "2026-09-10", "channel": "email", "direction": "inbound", "outcome": "group sales replied with rates, minimum and deadlines" }
+        {
+          "date": "2026-09-10",
+          "channel": "web_form",
+          "direction": "outbound",
+          "outcome": "message submitted"
+        },
+        {
+          "date": "2026-09-10",
+          "channel": "voicemail",
+          "direction": "outbound",
+          "outcome": "voicemail left on the group sales extension"
+        },
+        {
+          "date": "2026-09-10",
+          "channel": "email",
+          "direction": "inbound",
+          "outcome": "group sales replied with rates, minimum and deadlines"
+        }
       ],
-      "source_ids": ["HW-THU", "EM-ROCKCITY"],
+      "source_ids": [
+        "HW-THU",
+        "EM-ROCKCITY"
+      ],
       "note": "Two separate group-sales contacts were recorded for this one supplier, on a page that gets reprinted on every redraft."
     },
     {
       "id": "incline-railway",
       "name": "Lookout Mountain Incline Railway",
       "category": "attraction",
-      "related_supplier_ids": ["southern-belle"],
-      "relationship": { "owner": "Troen coordinator", "status": "deposit paid" },
-      "channel": { "kind": "web_form", "locator": "group event form" },
-      "contacts": [{ "role": "Group sales", "channel": "email", "note": "Handled from the same group-sales office as the riverboat." }],
+      "related_supplier_ids": [
+        "southern-belle"
+      ],
+      "relationship": {
+        "owner": "Troen coordinator",
+        "status": "deposit paid"
+      },
+      "channel": {
+        "kind": "web_form",
+        "locator": "group event form"
+      },
+      "contacts": [
+        {
+          "role": "Group sales",
+          "channel": "email",
+          "note": "Handled from the same group-sales office as the riverboat."
+        }
+      ],
       "terms": {
-        "deposit": { "amount": 100, "paid_on": "2026-09-11", "basis": "flat" },
+        "deposit": {
+          "amount": 100,
+          "paid_on": "2026-09-11",
+          "basis": "flat"
+        },
         "balance_due_days": 10,
         "notes": "The group event form was submitted for a 4:45 PM visit for 80 people, and asked whether the supplier offers complimentary tickets for tour managers or chaperones. The answer is not recorded on any page."
       },
       "attempts": [
-        { "date": "2026-09-10", "channel": "web_form", "direction": "outbound", "outcome": "group event form submitted for 2027-04-08, 16:45, 80 people" },
-        { "date": "2026-09-11", "channel": "phone", "direction": "outbound", "outcome": "deposit paid" }
+        {
+          "date": "2026-09-10",
+          "channel": "web_form",
+          "direction": "outbound",
+          "outcome": "group event form submitted for 2027-04-08, 16:45, 80 people"
+        },
+        {
+          "date": "2026-09-11",
+          "channel": "phone",
+          "direction": "outbound",
+          "outcome": "deposit paid"
+        }
       ],
-      "source_ids": ["EM-INCLINE", "HW-INC", "HW-THU"],
+      "source_ids": [
+        "EM-INCLINE",
+        "HW-INC",
+        "HW-THU"
+      ],
       "note": "The form notification was forwarded inside the riverboat operator's office, which is how one counterparty covering two itinerary lines becomes visible. Nothing in the quote system records that relationship."
     },
     {
       "id": "southern-belle",
       "name": "Southern Belle Riverboat",
       "category": "attraction",
-      "related_supplier_ids": ["incline-railway"],
-      "relationship": { "owner": "Troen coordinator", "status": "requested" },
-      "channel": { "kind": "phone", "locator": "group sales" },
-      "contacts": [{ "role": "Group sales", "channel": "phone" }],
+      "related_supplier_ids": [
+        "incline-railway"
+      ],
+      "relationship": {
+        "owner": "Troen coordinator",
+        "status": "requested"
+      },
+      "channel": {
+        "kind": "phone",
+        "locator": "group sales"
+      },
+      "contacts": [
+        {
+          "role": "Group sales",
+          "channel": "phone"
+        }
+      ],
       "terms": {
         "notes": "A ninety-minute narrated cruise from Pier 2 at Ross's Landing. Departure times, group rate and deadline are not recorded."
       },
       "attempts": [],
-      "source_ids": ["PH-SUN", "HW-FRI"]
+      "source_ids": [
+        "PH-SUN",
+        "HW-FRI"
+      ]
     },
     {
       "id": "ruby-falls",
       "name": "Ruby Falls",
       "category": "attraction",
-      "relationship": { "owner": "Troen coordinator", "status": "requested" },
-      "channel": { "kind": "phone", "locator": "group sales" },
-      "contacts": [{ "role": "Group sales", "channel": "phone" }],
+      "relationship": {
+        "owner": "Troen coordinator",
+        "status": "requested"
+      },
+      "channel": {
+        "kind": "phone",
+        "locator": "group sales"
+      },
+      "contacts": [
+        {
+          "role": "Group sales",
+          "channel": "phone"
+        }
+      ],
       "terms": {
         "release_date": null,
         "notes": "The supplier states the first ride is at 09:00. The printed itinerary puts the group there at 08:30, so the printed time cannot be met as written."
       },
-      "attempts": [{ "date": "2026-09-11", "channel": "phone", "direction": "outbound", "outcome": "first ride time confirmed as 09:00" }],
-      "source_ids": ["HW-FRI", "PH-FRI"]
+      "attempts": [
+        {
+          "date": "2026-09-11",
+          "channel": "phone",
+          "direction": "outbound",
+          "outcome": "first ride time confirmed as 09:00"
+        }
+      ],
+      "source_ids": [
+        "HW-FRI",
+        "PH-FRI"
+      ]
     },
     {
       "id": "bessie-smith",
       "name": "Bessie Smith Cultural Center",
       "category": "attraction",
-      "relationship": { "owner": "Troen coordinator", "status": "requested" },
-      "channel": { "kind": "web_form", "locator": "group request form" },
-      "contacts": [{ "role": "Group sales", "channel": "email" }],
+      "relationship": {
+        "owner": "Troen coordinator",
+        "status": "requested"
+      },
+      "channel": {
+        "kind": "web_form",
+        "locator": "group request form"
+      },
+      "contacts": [
+        {
+          "role": "Group sales",
+          "channel": "email"
+        }
+      ],
       "terms": {
-        "unit_price": { "amount": 5, "basis": "per_person", "unit_label": "per person" },
+        "unit_price": {
+          "amount": 5,
+          "basis": "per_person",
+          "unit_label": "per person"
+        },
         "notes": "A $50 tour guide fee applies in addition to the per-person admission. The guide was requested and the request is recorded as submitted; no confirmation is recorded."
       },
-      "attempts": [{ "date": "2026-09-11", "channel": "web_form", "direction": "outbound", "outcome": "admission and tour guide request submitted" }],
-      "source_ids": ["HW-FRI"]
+      "attempts": [
+        {
+          "date": "2026-09-11",
+          "channel": "web_form",
+          "direction": "outbound",
+          "outcome": "admission and tour guide request submitted"
+        }
+      ],
+      "source_ids": [
+        "HW-FRI"
+      ]
     },
     {
       "id": "tn-aquarium",
       "name": "Tennessee Aquarium",
       "category": "attraction",
-      "relationship": { "owner": "Troen coordinator", "status": "requested" },
-      "channel": { "kind": "web_form", "locator": "group sales form" },
-      "contacts": [{ "role": "Group sales", "channel": "email" }],
+      "relationship": {
+        "owner": "Troen coordinator",
+        "status": "requested"
+      },
+      "channel": {
+        "kind": "web_form",
+        "locator": "group sales form"
+      },
+      "contacts": [
+        {
+          "role": "Group sales",
+          "channel": "email"
+        }
+      ],
       "terms": {
         "notes": "Admission and the IMAX theatre are both sold as inclusions. No rate, minimum or deadline is recorded on any supplied page."
       },
       "attempts": [
-        { "date": "2026-09-10", "channel": "web_form", "direction": "outbound", "outcome": "group request sent" },
-        { "date": "2026-09-11", "channel": "phone", "direction": "outbound", "outcome": "called to follow up" }
+        {
+          "date": "2026-09-10",
+          "channel": "web_form",
+          "direction": "outbound",
+          "outcome": "group request sent"
+        },
+        {
+          "date": "2026-09-11",
+          "channel": "phone",
+          "direction": "outbound",
+          "outcome": "called to follow up"
+        }
       ],
-      "source_ids": ["HW-SAT"]
+      "source_ids": [
+        "HW-SAT"
+      ]
     },
     {
       "id": "high-point-climbing",
       "name": "High Point Climbing and Fitness",
       "category": "attraction",
-      "relationship": { "owner": "Troen coordinator", "status": "requested" },
-      "channel": { "kind": "phone", "locator": "group bookings" },
-      "contacts": [{ "role": "Group bookings", "channel": "phone" }],
-      "terms": { "notes": "Instruction and climbing are sold as an inclusion. No rate, group minimum or waiver requirement is recorded." },
+      "relationship": {
+        "owner": "Troen coordinator",
+        "status": "requested"
+      },
+      "channel": {
+        "kind": "phone",
+        "locator": "group bookings"
+      },
+      "contacts": [
+        {
+          "role": "Group bookings",
+          "channel": "phone"
+        }
+      ],
+      "terms": {
+        "notes": "Instruction and climbing are sold as an inclusion. No rate, group minimum or waiver requirement is recorded."
+      },
       "attempts": [],
-      "source_ids": ["PH-FRI"],
+      "source_ids": [
+        "PH-FRI"
+      ],
       "note": "The itinerary page and the inclusions page print two different names for this business."
     },
     {
       "id": "cirque-symphonie",
       "name": "Cirque de la Symphonie with the Chattanooga Symphony",
       "category": "performance",
-      "relationship": { "owner": "Troen coordinator", "status": "requested" },
-      "channel": { "kind": "email", "locator": "group ticketing" },
-      "contacts": [{ "role": "Group ticketing", "channel": "email" }],
-      "terms": { "notes": "Group tickets are sold as an inclusion. The performance venue is printed differently on the two iterations of this proposal." },
+      "relationship": {
+        "owner": "Troen coordinator",
+        "status": "requested"
+      },
+      "channel": {
+        "kind": "email",
+        "locator": "group ticketing"
+      },
+      "contacts": [
+        {
+          "role": "Group ticketing",
+          "channel": "email"
+        }
+      ],
+      "terms": {
+        "notes": "Group tickets are sold as an inclusion. The performance venue is printed differently on the two iterations of this proposal."
+      },
       "attempts": [],
-      "source_ids": ["PH-SAT", "HW-SAT"],
+      "source_ids": [
+        "PH-SAT",
+        "HW-SAT"
+      ],
       "venue_variants": [
-        { "name": "Soldiers and Sailors Memorial Auditorium", "observed_in": "v1-factual", "source_ids": ["PH-SAT"] },
-        { "name": "Tivoli Theatre", "observed_in": "v2-narrative", "source_ids": ["PH-SAT"] }
+        {
+          "name": "Soldiers and Sailors Memorial Auditorium",
+          "observed_in": "v1-factual",
+          "source_ids": [
+            "PH-SAT"
+          ]
+        },
+        {
+          "name": "Tivoli Theatre",
+          "observed_in": "v2-narrative",
+          "source_ids": [
+            "PH-SAT"
+          ]
+        }
       ]
     },
     {
       "id": "dinner-day-one",
       "name": "Day one group dinner",
       "category": "meal",
-      "relationship": { "owner": "Troen coordinator", "status": "sourcing" },
-      "channel": { "kind": "email", "locator": "group dining enquiries" },
-      "contacts": [{ "role": "Group dining", "channel": "email" }],
-      "terms": { "notes": "The proposal prints a named dining complex for this dinner and the inclusions page sells it. At the same time five other venues were being contacted for the same meal." },
-      "candidates": [
-        { "name": "Chattanooga Choo Choo complex", "status": "printed on the proposal" },
-        { "name": "Frothy Monkey", "status": "contacted" },
-        { "name": "Southside Social", "status": "contacted" },
-        { "name": "Wanderlinger Brewing Company", "status": "contacted" },
-        { "name": "Feed Co Table and Tavern", "status": "contacted" },
-        { "name": "NC and Norman's", "status": "contacted" }
+      "relationship": {
+        "owner": "Troen coordinator",
+        "status": "sourcing"
+      },
+      "channel": {
+        "kind": "email",
+        "locator": "group dining enquiries"
+      },
+      "contacts": [
+        {
+          "role": "Group dining",
+          "channel": "email"
+        }
       ],
-      "attempts": [{ "date": "2026-09-11", "channel": "email", "direction": "outbound", "outcome": "five alternative venues contacted for the same meal" }],
-      "source_ids": ["HW-THU", "PH-THU", "PH-INC"],
+      "terms": {
+        "notes": "The proposal prints a named dining complex for this dinner and the inclusions page sells it. At the same time five other venues were being contacted for the same meal."
+      },
+      "candidates": [
+        {
+          "name": "Chattanooga Choo Choo complex",
+          "status": "printed on the proposal"
+        },
+        {
+          "name": "Frothy Monkey",
+          "status": "contacted"
+        },
+        {
+          "name": "Southside Social",
+          "status": "contacted"
+        },
+        {
+          "name": "Wanderlinger Brewing Company",
+          "status": "contacted"
+        },
+        {
+          "name": "Feed Co Table and Tavern",
+          "status": "contacted"
+        },
+        {
+          "name": "NC and Norman's",
+          "status": "contacted"
+        }
+      ],
+      "attempts": [
+        {
+          "date": "2026-09-11",
+          "channel": "email",
+          "direction": "outbound",
+          "outcome": "five alternative venues contacted for the same meal"
+        }
+      ],
+      "source_ids": [
+        "HW-THU",
+        "PH-THU",
+        "PH-INC"
+      ],
       "note": "This is the clearest case of the document asserting something the operation has not secured."
     },
     {
       "id": "dinner-day-two",
       "name": "North Shore group dinner",
       "category": "meal",
-      "relationship": { "owner": "Troen coordinator", "status": "requested" },
-      "channel": { "kind": "email", "locator": "group dining enquiries" },
-      "contacts": [{ "role": "Group dining", "channel": "email" }],
-      "terms": { "notes": "Sold as an inclusion. No venue, rate or minimum is recorded." },
+      "relationship": {
+        "owner": "Troen coordinator",
+        "status": "requested"
+      },
+      "channel": {
+        "kind": "email",
+        "locator": "group dining enquiries"
+      },
+      "contacts": [
+        {
+          "role": "Group dining",
+          "channel": "email"
+        }
+      ],
+      "terms": {
+        "notes": "Sold as an inclusion. No venue, rate or minimum is recorded."
+      },
       "attempts": [],
-      "source_ids": ["PH-FRI", "PH-INC"]
+      "source_ids": [
+        "PH-FRI",
+        "PH-INC"
+      ]
     },
     {
       "id": "dinner-day-three",
       "name": "Sit-down dinner following the performance",
       "category": "meal",
-      "relationship": { "owner": "Troen coordinator", "status": "requested" },
-      "channel": { "kind": "email", "locator": "group dining enquiries" },
-      "contacts": [{ "role": "Group dining", "channel": "email" }],
-      "terms": { "notes": "Sold as an inclusion. No venue, rate or minimum is recorded." },
+      "relationship": {
+        "owner": "Troen coordinator",
+        "status": "requested"
+      },
+      "channel": {
+        "kind": "email",
+        "locator": "group dining enquiries"
+      },
+      "contacts": [
+        {
+          "role": "Group dining",
+          "channel": "email"
+        }
+      ],
+      "terms": {
+        "notes": "Sold as an inclusion. No venue, rate or minimum is recorded."
+      },
       "attempts": [],
-      "source_ids": ["PH-SAT", "PH-INC"]
+      "source_ids": [
+        "PH-SAT",
+        "PH-INC"
+      ]
     }
   ],
-
   "days": [
     {
       "date": "2027-04-08",
       "label": "Thursday, April 8, 2027",
       "slots": [
-        { "id": "d1-coaches-arrive", "time": "07:00", "title": "Coaches arrive at the school", "ops": true, "supplier_id": "young-transportation", "state": "quoted", "blurb": "Coaches arrive at West Henderson High School, 3600 Hayward Road, Hendersonville, NC.", "source_ids": ["PH-THU"] },
-        { "id": "d1-depart", "time": "08:00", "title": "Load the coaches and depart for Chattanooga", "ops": true, "supplier_id": "young-transportation", "state": "quoted", "blurb": "Chattanooga is the city that raised the Empress of the Blues, gave Glenn Miller the name of a standard that sold a million copies before anyone had thought to press a gold record, and hides a waterfall a thousand feet inside a mountain. The drive south crosses the Blue Ridge and drops into the Tennessee River valley.", "source_ids": ["PH-THU"] },
-        { "id": "d1-lunch-stop", "time": "12:00", "title": "Lunch stop on the way", "included": false, "blurb": "A quick stop for lunch on the go.", "note": "At own cost, or can be added.", "source_ids": ["PH-THU"] },
-        { "id": "d1-rock-city", "time": "14:00", "title": "Rock City Gardens", "supplier_id": "rock-city", "state": "quoted", "included": true, "blurb": "4,000 feet of trail winding through, under and between the boulders on top of Lookout Mountain, squeezing through Fat Man's Squeeze and crossing a swing bridge strung over the gap, and ending at Lover's Leap where, on a clear day, they will tell you that you are looking at seven states at once.", "duration_minutes": 120, "source_ids": ["PH-THU", "EM-ROCKCITY"] },
-        { "id": "d1-incline", "time": "16:45", "title": "Lookout Mountain Incline Railway", "supplier_id": "incline-railway", "state": "deposit_paid", "included": true, "blurb": "A mile straight up the face of Lookout Mountain, steepening until the grade hits 72.7 percent.", "source_ids": ["PH-THU", "EM-INCLINE"] },
-        { "id": "d1-hotel-checkin", "time": "18:15", "title": "Hotel check in", "ops": true, "supplier_id": "hotel-chattanooga", "state": "quoted", "source_ids": ["PH-THU"] },
-        { "id": "d1-dinner", "time": "19:30", "title": "Group dinner", "supplier_id": "dinner-day-one", "state": "sourcing", "included": true, "blurb": "Dinner at the 1909 terminal station, now a hotel and dining district built inside the old train shed.", "source_ids": ["PH-THU", "HW-THU"] }
+        {
+          "id": "d1-coaches-arrive",
+          "time": "07:00",
+          "title": "Coaches arrive at the school",
+          "ops": true,
+          "supplier_id": "young-transportation",
+          "state": "quoted",
+          "blurb": "Coaches arrive at West Henderson High School, 3600 Hayward Road, Hendersonville, NC.",
+          "source_ids": [
+            "PH-THU"
+          ]
+        },
+        {
+          "id": "d1-depart",
+          "time": "08:00",
+          "title": "Load the coaches and depart for Chattanooga",
+          "ops": true,
+          "supplier_id": "young-transportation",
+          "state": "quoted",
+          "blurb": "Chattanooga is the city that raised the Empress of the Blues, gave Glenn Miller the name of a standard that sold a million copies before anyone had thought to press a gold record, and hides a waterfall a thousand feet inside a mountain. The drive south crosses the Blue Ridge and drops into the Tennessee River valley.",
+          "source_ids": [
+            "PH-THU"
+          ]
+        },
+        {
+          "id": "d1-lunch-stop",
+          "time": "12:00",
+          "title": "Lunch stop on the way",
+          "included": false,
+          "blurb": "A quick stop for lunch on the go.",
+          "note": "At own cost, or can be added.",
+          "source_ids": [
+            "PH-THU"
+          ]
+        },
+        {
+          "id": "d1-rock-city",
+          "time": "14:00",
+          "title": "Rock City Gardens",
+          "supplier_id": "rock-city",
+          "state": "quoted",
+          "included": true,
+          "blurb": "4,000 feet of trail winding through, under and between the boulders on top of Lookout Mountain, squeezing through Fat Man's Squeeze and crossing a swing bridge strung over the gap, and ending at Lover's Leap where, on a clear day, they will tell you that you are looking at seven states at once.",
+          "duration_minutes": 120,
+          "source_ids": [
+            "PH-THU",
+            "EM-ROCKCITY"
+          ]
+        },
+        {
+          "id": "d1-incline",
+          "time": "16:45",
+          "title": "Lookout Mountain Incline Railway",
+          "supplier_id": "incline-railway",
+          "state": "deposit_paid",
+          "included": true,
+          "blurb": "A mile straight up the face of Lookout Mountain, steepening until the grade hits 72.7 percent.",
+          "source_ids": [
+            "PH-THU",
+            "EM-INCLINE"
+          ]
+        },
+        {
+          "id": "d1-hotel-checkin",
+          "time": "18:15",
+          "title": "Hotel check in",
+          "ops": true,
+          "supplier_id": "hotel-chattanooga",
+          "state": "quoted",
+          "source_ids": [
+            "PH-THU"
+          ]
+        },
+        {
+          "id": "d1-dinner",
+          "time": "19:30",
+          "title": "Group dinner",
+          "supplier_id": "dinner-day-one",
+          "state": "sourcing",
+          "included": true,
+          "blurb": "Dinner at the 1909 terminal station, now a hotel and dining district built inside the old train shed.",
+          "source_ids": [
+            "PH-THU",
+            "HW-THU"
+          ]
+        }
       ]
     },
     {
       "date": "2027-04-09",
       "label": "Friday, April 9, 2027",
       "slots": [
-        { "id": "d2-breakfast", "time": "07:00", "title": "Breakfast at the hotel", "supplier_id": "hotel-chattanooga", "state": "quoted", "included": true, "source_ids": ["PH-FRI"] },
-        { "id": "d2-ruby-falls", "time": "08:30", "title": "Ruby Falls", "supplier_id": "ruby-falls", "state": "requested", "included": true, "blurb": "A 145-foot waterfall a thousand feet inside Lookout Mountain, found by accident in 1928 by a man drilling an elevator shaft.", "ops_steps": ["Load the coaches and depart"], "source_ids": ["PH-FRI", "HW-FRI"], "note": "The supplier says the first ride is 09:00. This printed time cannot be met as written." },
-        { "id": "d2-point-park", "time": "11:00", "title": "Point Park and the overlook", "included": false, "blurb": "The 1863 Battle Above the Clouds site, looking 1,700 feet down at Moccasin Bend.", "source_ids": ["PH-FRI"] },
-        { "id": "d2-lunch", "time": "12:30", "title": "Lunch downtown", "included": false, "note": "At own cost, or can be added.", "source_ids": ["PH-FRI"] },
-        { "id": "d2-bessie-smith", "time": "14:00", "title": "Bessie Smith Cultural Center", "supplier_id": "bessie-smith", "state": "requested", "included": true, "blurb": "The Empress of the Blues was born nine blocks from this door and sang on street corners for pocket change before she outsold every other blues singer in the country. The centre keeps the story of the Big Nine, the stretch of East Ninth Street that made her.", "source_ids": ["PH-FRI", "HW-FRI"] },
-        { "id": "d2-climbing", "time": "16:30", "title": "High Point Climbing", "supplier_id": "high-point-climbing", "state": "requested", "included": true, "blurb": "The wall is bolted to the outside of the building and hangs out over the sidewalk; auto-belays mean you are climbing within ten minutes.", "source_ids": ["PH-FRI"] },
-        { "id": "d2-dinner", "time": "18:30", "title": "Group dinner on the North Shore", "supplier_id": "dinner-day-two", "state": "requested", "included": true, "blurb": "A ten-minute walk across the Walnut Street Bridge, a third of a mile of open deck suspended over the Tennessee River.", "ops_steps": ["Leave the coaches downtown; the group crosses on foot", "Return to the hotel after dinner"], "source_ids": ["PH-FRI"] }
+        {
+          "id": "d2-breakfast",
+          "time": "07:00",
+          "title": "Breakfast at the hotel",
+          "supplier_id": "hotel-chattanooga",
+          "state": "quoted",
+          "included": true,
+          "source_ids": [
+            "PH-FRI"
+          ]
+        },
+        {
+          "id": "d2-ruby-falls",
+          "time": "08:30",
+          "title": "Ruby Falls",
+          "supplier_id": "ruby-falls",
+          "state": "requested",
+          "included": true,
+          "blurb": "A 145-foot waterfall a thousand feet inside Lookout Mountain, found by accident in 1928 by a man drilling an elevator shaft.",
+          "ops_steps": [
+            "Load the coaches and depart"
+          ],
+          "source_ids": [
+            "PH-FRI",
+            "HW-FRI"
+          ],
+          "note": "The supplier says the first ride is 09:00. This printed time cannot be met as written."
+        },
+        {
+          "id": "d2-point-park",
+          "time": "11:00",
+          "title": "Point Park and the overlook",
+          "included": false,
+          "blurb": "The 1863 Battle Above the Clouds site, looking 1,700 feet down at Moccasin Bend.",
+          "source_ids": [
+            "PH-FRI"
+          ]
+        },
+        {
+          "id": "d2-lunch",
+          "time": "12:30",
+          "title": "Lunch downtown",
+          "included": false,
+          "note": "At own cost, or can be added.",
+          "source_ids": [
+            "PH-FRI"
+          ]
+        },
+        {
+          "id": "d2-bessie-smith",
+          "time": "14:00",
+          "title": "Bessie Smith Cultural Center",
+          "supplier_id": "bessie-smith",
+          "state": "requested",
+          "included": true,
+          "blurb": "The Empress of the Blues was born nine blocks from this door and sang on street corners for pocket change before she outsold every other blues singer in the country. The centre keeps the story of the Big Nine, the stretch of East Ninth Street that made her.",
+          "source_ids": [
+            "PH-FRI",
+            "HW-FRI"
+          ]
+        },
+        {
+          "id": "d2-climbing",
+          "time": "16:30",
+          "title": "High Point Climbing",
+          "supplier_id": "high-point-climbing",
+          "state": "requested",
+          "included": true,
+          "blurb": "The wall is bolted to the outside of the building and hangs out over the sidewalk; auto-belays mean you are climbing within ten minutes.",
+          "source_ids": [
+            "PH-FRI"
+          ]
+        },
+        {
+          "id": "d2-dinner",
+          "time": "18:30",
+          "title": "Group dinner on the North Shore",
+          "supplier_id": "dinner-day-two",
+          "state": "requested",
+          "included": true,
+          "blurb": "A ten-minute walk across the Walnut Street Bridge, a third of a mile of open deck suspended over the Tennessee River.",
+          "ops_steps": [
+            "Leave the coaches downtown; the group crosses on foot",
+            "Return to the hotel after dinner"
+          ],
+          "source_ids": [
+            "PH-FRI"
+          ]
+        }
       ]
     },
     {
       "date": "2027-04-10",
       "label": "Saturday, April 10, 2027",
       "slots": [
-        { "id": "d3-breakfast", "time": "07:30", "title": "Breakfast at the hotel", "supplier_id": "hotel-chattanooga", "state": "quoted", "included": true, "note": "Dress for the concert, or bring concert attire along.", "source_ids": ["PH-SAT"] },
-        { "id": "d3-depart-aquarium", "time": "08:30", "title": "Depart for the Tennessee Aquarium", "ops": true, "supplier_id": "young-transportation", "state": "quoted", "source_ids": ["PH-SAT"] },
-        { "id": "d3-aquarium", "time": "09:15", "title": "Tennessee Aquarium", "supplier_id": "tn-aquarium", "state": "requested", "included": true, "blurb": "Two buildings on the riverfront: River Journey follows the water from an Appalachian forest to the Gulf, Ocean Journey has sharks, penguins and a stingray touch tank.", "source_ids": ["PH-SAT", "HW-SAT"] },
-        { "id": "d3-lunch", "time": "12:30", "title": "Lunch at the aquarium plaza", "included": false, "note": "At own cost, or can be added.", "ops_steps": ["Depart for the performance venue", "Change for the concert"], "source_ids": ["PH-SAT", "HW-SAT"] },
-        { "id": "d3-venue-arrive", "time": "14:15", "title": "Arrive at the performance venue", "ops": true, "supplier_id": "cirque-symphonie", "state": "requested", "note": "Being on time is essential.", "source_ids": ["PH-SAT"] },
-        { "id": "d3-cirque", "time": "15:00", "title": "Cirque de la Symphonie", "supplier_id": "cirque-symphonie", "state": "requested", "included": true, "blurb": "The symphony plays a full orchestral programme while aerialists, contortionists, jugglers and strongmen perform to it live, on the stage and in the air above it. Every catch is timed to the downbeat, and the students spend an afternoon watching a pit orchestra hold a tempo that a body in flight is relying on.", "source_ids": ["PH-SAT"] },
-        { "id": "d3-dinner", "time": "17:15", "title": "Group dinner following the show", "supplier_id": "dinner-day-three", "state": "requested", "included": true, "blurb": "A sit-down dinner straight after the show, close enough to the hall that concert dress is no obstacle.", "source_ids": ["PH-SAT"] },
-        { "id": "d3-baseball", "time": "19:30", "title": "Optional minor-league baseball", "included": false, "note": "If the team is at home. Cost can be added.", "source_ids": ["PH-SAT"] }
+        {
+          "id": "d3-breakfast",
+          "time": "07:30",
+          "title": "Breakfast at the hotel",
+          "supplier_id": "hotel-chattanooga",
+          "state": "quoted",
+          "included": true,
+          "note": "Dress for the concert, or bring concert attire along.",
+          "source_ids": [
+            "PH-SAT"
+          ]
+        },
+        {
+          "id": "d3-depart-aquarium",
+          "time": "08:30",
+          "title": "Depart for the Tennessee Aquarium",
+          "ops": true,
+          "supplier_id": "young-transportation",
+          "state": "quoted",
+          "source_ids": [
+            "PH-SAT"
+          ]
+        },
+        {
+          "id": "d3-aquarium",
+          "time": "09:15",
+          "title": "Tennessee Aquarium",
+          "supplier_id": "tn-aquarium",
+          "state": "requested",
+          "included": true,
+          "blurb": "Two buildings on the riverfront: River Journey follows the water from an Appalachian forest to the Gulf, Ocean Journey has sharks, penguins and a stingray touch tank.",
+          "source_ids": [
+            "PH-SAT",
+            "HW-SAT"
+          ]
+        },
+        {
+          "id": "d3-lunch",
+          "time": "12:30",
+          "title": "Lunch at the aquarium plaza",
+          "included": false,
+          "note": "At own cost, or can be added.",
+          "ops_steps": [
+            "Depart for the performance venue",
+            "Change for the concert"
+          ],
+          "source_ids": [
+            "PH-SAT",
+            "HW-SAT"
+          ]
+        },
+        {
+          "id": "d3-venue-arrive",
+          "time": "14:15",
+          "title": "Arrive at the performance venue",
+          "ops": true,
+          "supplier_id": "cirque-symphonie",
+          "state": "requested",
+          "note": "Being on time is essential.",
+          "source_ids": [
+            "PH-SAT"
+          ]
+        },
+        {
+          "id": "d3-cirque",
+          "time": "15:00",
+          "title": "Cirque de la Symphonie",
+          "supplier_id": "cirque-symphonie",
+          "state": "requested",
+          "included": true,
+          "blurb": "The symphony plays a full orchestral programme while aerialists, contortionists, jugglers and strongmen perform to it live, on the stage and in the air above it. Every catch is timed to the downbeat, and the students spend an afternoon watching a pit orchestra hold a tempo that a body in flight is relying on.",
+          "source_ids": [
+            "PH-SAT"
+          ]
+        },
+        {
+          "id": "d3-dinner",
+          "time": "17:15",
+          "title": "Group dinner following the show",
+          "supplier_id": "dinner-day-three",
+          "state": "requested",
+          "included": true,
+          "blurb": "A sit-down dinner straight after the show, close enough to the hall that concert dress is no obstacle.",
+          "source_ids": [
+            "PH-SAT"
+          ]
+        },
+        {
+          "id": "d3-baseball",
+          "time": "19:30",
+          "title": "Optional minor-league baseball",
+          "included": false,
+          "note": "If the team is at home. Cost can be added.",
+          "source_ids": [
+            "PH-SAT"
+          ]
+        }
       ]
     },
     {
       "date": "2027-04-11",
       "label": "Sunday, April 11, 2027",
       "slots": [
-        { "id": "d4-breakfast", "time": "06:30", "title": "Breakfast at the hotel", "supplier_id": "hotel-chattanooga", "state": "quoted", "included": true, "source_ids": ["PH-SUN"] },
-        { "id": "d4-riverboat", "time": "07:30", "title": "Southern Belle riverboat", "supplier_id": "southern-belle", "state": "requested", "included": true, "blurb": "Ninety minutes on the Tennessee, narrated from the wheelhouse, past Maclellan Island and around Moccasin Bend.", "duration_minutes": 90, "source_ids": ["PH-SUN"] },
-        { "id": "d4-ross-landing", "time": "10:45", "title": "Ross's Landing and the Passage", "included": false, "blurb": "Where the city began, and one of the 1838 departure points for the forced removal of the Cherokee people. The Passage marks it with seven ceramic discs for the seven Cherokee clans, set into a stepped waterway that runs from the street down to the river.", "source_ids": ["PH-SUN"] },
-        { "id": "d4-depart", "time": "11:30", "title": "Lunch locally, then depart for home", "included": false, "ops": true, "note": "Lunch at own cost, or can be added.", "source_ids": ["PH-SUN"] }
+        {
+          "id": "d4-breakfast",
+          "time": "06:30",
+          "title": "Breakfast at the hotel",
+          "supplier_id": "hotel-chattanooga",
+          "state": "quoted",
+          "included": true,
+          "source_ids": [
+            "PH-SUN"
+          ]
+        },
+        {
+          "id": "d4-riverboat",
+          "time": "07:30",
+          "title": "Southern Belle riverboat",
+          "supplier_id": "southern-belle",
+          "state": "requested",
+          "included": true,
+          "blurb": "Ninety minutes on the Tennessee, narrated from the wheelhouse, past Maclellan Island and around Moccasin Bend.",
+          "duration_minutes": 90,
+          "source_ids": [
+            "PH-SUN"
+          ]
+        },
+        {
+          "id": "d4-ross-landing",
+          "time": "10:45",
+          "title": "Ross's Landing and the Passage",
+          "included": false,
+          "blurb": "Where the city began, and one of the 1838 departure points for the forced removal of the Cherokee people. The Passage marks it with seven ceramic discs for the seven Cherokee clans, set into a stepped waterway that runs from the street down to the river.",
+          "source_ids": [
+            "PH-SUN"
+          ]
+        },
+        {
+          "id": "d4-lunch",
+          "time": "11:30",
+          "title": "Lunch locally",
+          "included": false,
+          "note": "At own cost, or can be added.",
+          "source_ids": [
+            "PH-SUN"
+          ]
+        },
+        {
+          "id": "d4-depart-home",
+          "time": "11:30",
+          "title": "Depart for home",
+          "ops": true,
+          "supplier_id": "young-transportation",
+          "state": "quoted",
+          "source_ids": [
+            "PH-SUN"
+          ],
+          "note": "The printed page carries one line, '11:30 Lunch locally, then depart for home', and gives no separate departure time. Split here because the lunch is at own cost while the coach home is sold under the transportation inclusion."
+        }
       ]
     }
   ],
-
   "inclusions": [
-    { "id": "inc-transport", "text": "All transportation on the itinerary", "slot_ids": ["d1-coaches-arrive", "d1-depart", "d3-depart-aquarium", "d4-depart"], "supplier_id": "young-transportation", "source_ids": ["PH-INC"] },
-    { "id": "inc-accommodation", "text": "Three (3) nights' accommodation", "slot_ids": ["d1-hotel-checkin"], "supplier_id": "hotel-chattanooga", "source_ids": ["PH-INC"] },
-    { "id": "inc-breakfast", "text": "Breakfast Daily at the hotel", "slot_ids": ["d2-breakfast", "d3-breakfast", "d4-breakfast"], "supplier_id": "hotel-chattanooga", "source_ids": ["PH-INC"] },
-    { "id": "inc-rock-city", "text": "Entrance and Admission to Rock City Gardens", "slot_ids": ["d1-rock-city"], "supplier_id": "rock-city", "source_ids": ["PH-INC"] },
-    { "id": "inc-incline", "text": "Admission to the Lookout Mountain Incline Railway", "slot_ids": ["d1-incline"], "supplier_id": "incline-railway", "source_ids": ["PH-INC"] },
-    { "id": "inc-dinner-one", "text": "Dinner at the Chattanooga Choo Choo Complex", "slot_ids": ["d1-dinner"], "supplier_id": "dinner-day-one", "source_ids": ["PH-INC"] },
-    { "id": "inc-ruby-falls", "text": "Admission to Ruby Falls", "slot_ids": ["d2-ruby-falls"], "supplier_id": "ruby-falls", "source_ids": ["PH-INC"] },
-    { "id": "inc-bessie-smith", "text": "Admission to the Bessie Smith Cultural Center", "slot_ids": ["d2-bessie-smith"], "supplier_id": "bessie-smith", "source_ids": ["PH-INC"] },
-    { "id": "inc-climbing", "text": "Instruction and Climbing at the High Street Climbing and Fitness Center", "slot_ids": ["d2-climbing"], "supplier_id": "high-point-climbing", "source_ids": ["PH-INC"], "note": "The inclusions page prints a different business name from the itinerary page." },
-    { "id": "inc-dinner-two", "text": "Dinner on the North Shore", "slot_ids": ["d2-dinner"], "supplier_id": "dinner-day-two", "source_ids": ["PH-INC"] },
-    { "id": "inc-aquarium", "text": "Admission to the Tennessee Aquarium", "slot_ids": ["d3-aquarium"], "supplier_id": "tn-aquarium", "source_ids": ["PH-INC"] },
-    { "id": "inc-imax", "text": "Admission to the IMAX Theater at the Aquarium", "slot_ids": [], "supplier_id": "tn-aquarium", "source_ids": ["PH-INC"], "note": "Sold and priced, with no time slot anywhere in the four-day itinerary." },
-    { "id": "inc-cirque", "text": "Tickets to the Cirque De La Symphonie", "slot_ids": ["d3-cirque"], "supplier_id": "cirque-symphonie", "source_ids": ["PH-INC"] },
-    { "id": "inc-dinner-three", "text": "Group sit down Dinner Following the Cirque Show", "slot_ids": ["d3-dinner"], "supplier_id": "dinner-day-three", "source_ids": ["PH-INC"] },
-    { "id": "inc-riverboat", "text": "Tickets to the Southern Belle Riverboat Cruise", "slot_ids": ["d4-riverboat"], "supplier_id": "southern-belle", "source_ids": ["PH-INC"] }
+    {
+      "id": "inc-transport",
+      "text": "All transportation on the itinerary",
+      "slot_ids": [
+        "d1-coaches-arrive",
+        "d1-depart",
+        "d3-depart-aquarium",
+        "d4-depart-home"
+      ],
+      "supplier_id": "young-transportation",
+      "source_ids": [
+        "PH-INC"
+      ]
+    },
+    {
+      "id": "inc-accommodation",
+      "text": "Three (3) nights' accommodation",
+      "slot_ids": [
+        "d1-hotel-checkin"
+      ],
+      "supplier_id": "hotel-chattanooga",
+      "source_ids": [
+        "PH-INC"
+      ]
+    },
+    {
+      "id": "inc-breakfast",
+      "text": "Breakfast Daily at the hotel",
+      "slot_ids": [
+        "d2-breakfast",
+        "d3-breakfast",
+        "d4-breakfast"
+      ],
+      "supplier_id": "hotel-chattanooga",
+      "source_ids": [
+        "PH-INC"
+      ]
+    },
+    {
+      "id": "inc-rock-city",
+      "text": "Entrance and Admission to Rock City Gardens",
+      "slot_ids": [
+        "d1-rock-city"
+      ],
+      "supplier_id": "rock-city",
+      "source_ids": [
+        "PH-INC"
+      ]
+    },
+    {
+      "id": "inc-incline",
+      "text": "Admission to the Lookout Mountain Incline Railway",
+      "slot_ids": [
+        "d1-incline"
+      ],
+      "supplier_id": "incline-railway",
+      "source_ids": [
+        "PH-INC"
+      ]
+    },
+    {
+      "id": "inc-dinner-one",
+      "text": "Dinner at the Chattanooga Choo Choo Complex",
+      "slot_ids": [
+        "d1-dinner"
+      ],
+      "supplier_id": "dinner-day-one",
+      "source_ids": [
+        "PH-INC"
+      ]
+    },
+    {
+      "id": "inc-ruby-falls",
+      "text": "Admission to Ruby Falls",
+      "slot_ids": [
+        "d2-ruby-falls"
+      ],
+      "supplier_id": "ruby-falls",
+      "source_ids": [
+        "PH-INC"
+      ]
+    },
+    {
+      "id": "inc-bessie-smith",
+      "text": "Admission to the Bessie Smith Cultural Center",
+      "slot_ids": [
+        "d2-bessie-smith"
+      ],
+      "supplier_id": "bessie-smith",
+      "source_ids": [
+        "PH-INC"
+      ]
+    },
+    {
+      "id": "inc-climbing",
+      "text": "Instruction and Climbing at the High Street Climbing and Fitness Center",
+      "slot_ids": [
+        "d2-climbing"
+      ],
+      "supplier_id": "high-point-climbing",
+      "source_ids": [
+        "PH-INC"
+      ],
+      "note": "The inclusions page prints a different business name from the itinerary page."
+    },
+    {
+      "id": "inc-dinner-two",
+      "text": "Dinner on the North Shore",
+      "slot_ids": [
+        "d2-dinner"
+      ],
+      "supplier_id": "dinner-day-two",
+      "source_ids": [
+        "PH-INC"
+      ]
+    },
+    {
+      "id": "inc-aquarium",
+      "text": "Admission to the Tennessee Aquarium",
+      "slot_ids": [
+        "d3-aquarium"
+      ],
+      "supplier_id": "tn-aquarium",
+      "source_ids": [
+        "PH-INC"
+      ]
+    },
+    {
+      "id": "inc-imax",
+      "text": "Admission to the IMAX Theater at the Aquarium",
+      "slot_ids": [],
+      "supplier_id": "tn-aquarium",
+      "source_ids": [
+        "PH-INC"
+      ],
+      "note": "Sold and priced, with no time slot anywhere in the four-day itinerary."
+    },
+    {
+      "id": "inc-cirque",
+      "text": "Tickets to the Cirque De La Symphonie",
+      "slot_ids": [
+        "d3-cirque"
+      ],
+      "supplier_id": "cirque-symphonie",
+      "source_ids": [
+        "PH-INC"
+      ]
+    },
+    {
+      "id": "inc-dinner-three",
+      "text": "Group sit down Dinner Following the Cirque Show",
+      "slot_ids": [
+        "d3-dinner"
+      ],
+      "supplier_id": "dinner-day-three",
+      "source_ids": [
+        "PH-INC"
+      ]
+    },
+    {
+      "id": "inc-riverboat",
+      "text": "Tickets to the Southern Belle Riverboat Cruise",
+      "slot_ids": [
+        "d4-riverboat"
+      ],
+      "supplier_id": "southern-belle",
+      "source_ids": [
+        "PH-INC"
+      ]
+    }
   ],
-
   "exclusions": [
-    { "id": "exc-scope", "text": "Sight Seeing, Activities, Transportation and any Meals not on the itinerary", "source_ids": ["PH-EXC"], "observed_variants": [{ "text": "Sight Seeing, Transportation and any Meals not on the itinerary", "observed_in": "v1-factual", "note": "The word Activities appears on this printing and not the other. Nothing on either page records which wording is current." }] },
-    { "id": "exc-protection", "text": "Cancellation protection is recommended and can be added at registration. The Cancel For Any Reason benefit covers 75% of the nonrefundable trip cost and cancellation must be received in writing 72 hours prior to departure. Pricing is based on the per person package cost of the trip.", "source_ids": ["PH-EXC"] },
-    { "id": "exc-pricing-basis", "text": "Pricing is subject to availability and may increase until time of booking. The price is subject to change based on your final number of paying participants. In the event of rising fuel costs it may be necessary to add fuel surcharges to the cost of any motor coach or airline charter.", "source_ids": ["PH-EXC"], "note": "The operator's own terms make every headcount change a legitimate re-quote. The problem is not that re-quotes happen; it is that each one costs an afternoon." }
+    {
+      "id": "exc-scope",
+      "text": "Sight Seeing, Activities, Transportation and any Meals not on the itinerary",
+      "source_ids": [
+        "PH-EXC"
+      ],
+      "observed_variants": [
+        {
+          "text": "Sight Seeing, Transportation and any Meals not on the itinerary",
+          "observed_in": "v1-factual",
+          "note": "The word Activities appears on this printing and not the other. Nothing on either page records which wording is current."
+        }
+      ]
+    },
+    {
+      "id": "exc-protection",
+      "text": "Cancellation protection is recommended and can be added at registration. The Cancel For Any Reason benefit covers 75% of the nonrefundable trip cost and cancellation must be received in writing 72 hours prior to departure. Pricing is based on the per person package cost of the trip.",
+      "source_ids": [
+        "PH-EXC"
+      ]
+    },
+    {
+      "id": "exc-pricing-basis",
+      "text": "Pricing is subject to availability and may increase until time of booking. The price is subject to change based on your final number of paying participants. In the event of rising fuel costs it may be necessary to add fuel surcharges to the cost of any motor coach or airline charter.",
+      "source_ids": [
+        "PH-EXC"
+      ],
+      "note": "The operator's own terms make every headcount change a legitimate re-quote. The problem is not that re-quotes happen; it is that each one costs an afternoon."
+    }
   ],
-
   "pricing": {
     "currency": "USD",
     "published": {
-      "80": { "quad": 835, "triple": 887, "double": 992, "single": 1305 },
-      "90": { "quad": 803, "triple": 855, "double": 959, "single": 1272 },
-      "100": { "quad": 777, "triple": 829, "double": 933, "single": 1246 }
+      "80": {
+        "quad": 835,
+        "triple": 887,
+        "double": 992,
+        "single": 1305
+      },
+      "90": {
+        "quad": 803,
+        "triple": 855,
+        "double": 959,
+        "single": 1272
+      },
+      "100": {
+        "quad": 777,
+        "triple": 829,
+        "double": 933,
+        "single": 1246
+      }
     },
     "components_per_person": [
-      { "label": "Hotel", "amount": 125.16, "supplier_id": "hotel-chattanooga", "source_ids": ["QS-48398"] },
-      { "label": "Attractions", "amount": 183.00, "supplier_id": null, "source_ids": ["QS-48398"], "note": "A single blended line in the quote system covering every attraction, with no supplier attached. The components are known in pen but cannot be recovered from the blend." },
-      { "label": "Dinners", "amount": 90.00, "supplier_id": null, "source_ids": ["QS-48398"] },
-      { "label": "Commission", "amount": 35.00, "supplier_id": null, "source_ids": ["QS-48398"] },
-      { "label": "Motor coach", "amount": null, "supplier_id": "young-transportation", "source_ids": ["QS-48398"], "note": "Not legible on the photographed quote screen." }
+      {
+        "label": "Hotel",
+        "amount": 125.16,
+        "supplier_id": "hotel-chattanooga",
+        "source_ids": [
+          "QS-48398"
+        ]
+      },
+      {
+        "label": "Attractions",
+        "amount": 183.0,
+        "supplier_id": null,
+        "source_ids": [
+          "QS-48398"
+        ],
+        "note": "A single blended line in the quote system covering every attraction, with no supplier attached. The components are known in pen but cannot be recovered from the blend."
+      },
+      {
+        "label": "Dinners",
+        "amount": 90.0,
+        "supplier_id": null,
+        "source_ids": [
+          "QS-48398"
+        ]
+      },
+      {
+        "label": "Commission",
+        "amount": 35.0,
+        "supplier_id": null,
+        "source_ids": [
+          "QS-48398"
+        ]
+      },
+      {
+        "label": "Motor coach",
+        "amount": null,
+        "supplier_id": "young-transportation",
+        "source_ids": [
+          "QS-48398"
+        ],
+        "note": "Not legible on the photographed quote screen."
+      }
     ],
     "known_unit_prices": [
-      { "supplier_id": "rock-city", "amount": 19, "basis": "per_person", "source_ids": ["HW-THU"] },
-      { "supplier_id": "bessie-smith", "amount": 5, "basis": "per_person", "source_ids": ["HW-FRI"] },
-      { "supplier_id": "bessie-smith", "amount": 50, "basis": "per_group", "label": "Tour guide", "source_ids": ["HW-FRI"] },
-      { "supplier_id": "incline-railway", "amount": 100, "basis": "flat", "label": "Deposit", "source_ids": ["HW-INC"] }
+      {
+        "supplier_id": "rock-city",
+        "amount": 19,
+        "basis": "per_person",
+        "source_ids": [
+          "HW-THU"
+        ]
+      },
+      {
+        "supplier_id": "bessie-smith",
+        "amount": 5,
+        "basis": "per_person",
+        "source_ids": [
+          "HW-FRI"
+        ]
+      },
+      {
+        "supplier_id": "bessie-smith",
+        "amount": 50,
+        "basis": "per_group",
+        "label": "Tour guide",
+        "source_ids": [
+          "HW-FRI"
+        ]
+      },
+      {
+        "supplier_id": "incline-railway",
+        "amount": 100,
+        "basis": "flat",
+        "label": "Deposit",
+        "source_ids": [
+          "HW-INC"
+        ]
+      }
     ],
     "note": "Published prices are transcribed from a photograph and are the operator's own figures. Nothing here recomputes or endorses them. The factual iteration's table stays in the record this one supersedes, and the change-diff renderer compares the two cell by cell."
   }
